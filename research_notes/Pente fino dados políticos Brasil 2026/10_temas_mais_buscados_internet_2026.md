@@ -276,3 +276,198 @@ Temas sugeridos pelo coordenador **sem evidência de trending** nas fontes consu
 - Não localizei fact-checks dedicados a "Flávio miliciano", "Flávio Comando Vermelho" (TH Joias) e "Lula sócio da Roberta" como termos (há checagens de frases correlatas).
 - Não localizei métricas de redes para aborto, "ideologia de gênero", imigração, Venezuela/Maduro, Margem Equatorial, CNU e "vagabundos"/Bolsa Família em 2026; é possível que tenham circulado em nichos sem registro na imprensa.
 - O IPCA de café moído e ovo de galinha em 12 meses (set/2026) não foi localizado em fonte lida; só o "cafezinho" (fora do lar, +9,76% em 12 meses).
+
+---
+
+## Enriquecimento — rodada 2 (21/10/2026)
+
+Nota de método desta rodada: priorizei leitura direta de páginas e PDFs; quando um número vem só do trecho de busca, está marcado "(via snippet)". Tentei consultar o Google Trends diretamente (ver "Lacunas que permanecem"): o endpoint `trends/api/explore` respondeu (HTTP 200) para todas as comparações de 12 meses e 90 dias, mas o endpoint `widgetdata/multiline` (que entrega a série) devolveu HTTP 429 em duas tentativas com ritmo lento (6–8 s entre chamadas), de modo que **nenhuma série do Trends por tema foi obtida**. O único dado direto do Trends obtido nesta rodada é o feed RSS de "Pesquisas em alta" do dia 21/10/2026. O orçamento de buscas web foi esgotado nesta rodada; as lacunas listadas ao final refletem isso.
+
+### Lacunas fechadas
+
+1. **Ipec "principal problema" 2026 (lacuna da seção 2).** Não existe mais uma série "Ipec" separada: a marca passou a publicar como **Ipsos-Ipec**, e a pesquisa que cobre "principal preocupação" é a *What Worries the World* (Ipsos; ~1.000 entrevistas, 16–74 anos, Brasil dentro de 30 países; pergunta de múltipla escolha, por isso os percentuais somam mais de 100 e não são comparáveis ao Datafolha). Série 2026 localizada (tabela em "Novos dados", T1). Em março/2026 a corrupção chegou a 42% (+2 p.p. no mês, +14 p.p. em um ano), e o CEO da Ipsos Brasil atribuiu a alta ao caso Banco Master e ao ano eleitoral — [SBT News, 24/03/2026](https://sbtnews.sbt.com.br/noticia/brasil/quase-metade-dos-brasileiros-cita-crime-e-violencia-como-principal-preocupacao-corrupcao-aparece-em-2-lugar); [Ipsos, 24/06/2026](https://www.ipsos.com/pt-br/node/1078511); [Portal de Prefeitura/Ipsos-Ipec, 03/06/2026](https://portaldeprefeitura.com.br/brasil/violencia-e-corrupcao-seguem-como-maiores-preocupacoes-dos/623302/).
+2. **Balanço do TSE no 1º turno (lacuna da seção 4).** O presidente do TSE, Kassio Nunes Marques, apresentou em 04/10/2026 o balanço parcial: **cerca de 2,8 mil ocorrências de desinformação registradas desde 16/08/2026** e **453 apontamentos até as 13h** do dia da votação; 1.121 urnas substituídas (~0,2% do total); 59 pessoas conduzidas (25 em flagrante); mais de R$ 380 mil apreendidos no dia e mais de R$ 30 milhões desde janeiro; mais de 158 milhões de eleitores aptos; "até o momento, não temos nenhum indicativo concreto de interferência internacional". Atenção: "ocorrências" e "apontamentos" não equivalem a remoções; o TSE não divulgou (até 21/10) um número de remoções/ordens — [Tribuna de Jundiaí, 04/10/2026](https://tribunadejundiai.com.br/politica/eleicoes-2026/interferencia-estrangeira-eleicoes/). Continua sem balanço "Eleições em Números" consolidado de remoções e sem o número do "Fato ou Boato" em 2026.
+3. **Google Ads Transparency Brasil 2026 (lacuna da seção 4).** A lacuna se explica: o Google **não vende anúncios eleitorais no Brasil desde 01/05/2024** e confirmou em 31/05/2026 que manteria o veto em 2026 (YouTube, Busca e rede de display; candidatos, partidos e federações não podem comprar impulsionamento). Por isso não há totais de gasto político do Google para 2026; o mercado estimava que a modalidade poderia movimentar até R$ 200 milhões no ciclo (valor não confirmado pela empresa) — [Poder360, 31/05/2026](https://www.poder360.com.br/poder-eleicoes/google-veta-impulsionamento-eleitoral-nas-eleicoes-de-2026/). Em 2024 o Aos Fatos encontrou 8 candidaturas municipais que declararam ~R$ 6 mil em "impulsionamento" no Google (R$ 4.163,99) e TikTok (R$ 1.840) apesar da proibição; o Google informou que "desde o dia 1º de maio [de 2024], nós não exibimos mais anúncios eleitorais no Brasil" — [Aos Fatos, 30/08/2024](https://www.aosfatos.org/noticias/anuncios-google-tiktok-campanha-eleitoral/). O NetLab/UFRJ ainda assim flagrou anúncios irregulares também "no Google" no período de resguardo do 1º turno (ver item 7).
+4. **Fact-checks dos termos literais "Flávio miliciano" e "Lula sócio da Roberta" (lacunas das seções 1 e 5).** Confirmado por busca no site do Comprova (`?s=Flávio milícia`): **nenhuma checagem** de 2026 e nenhuma que mencione Flávio Bolsonaro + milícia/CV/Ana Clara/TH Joias/Adriano da Nóbrega (os 3 resultados são de 2023–2024 sobre Marielle/Freixo/Élcio de Queiroz) — [Comprova, busca](https://projetocomprova.com.br/?s=Fl%C3%A1vio+mil%C3%ADcia). A checagem mais próxima é a do Aos Fatos (2019) sobre foto de PMs com Flávio e Jair Bolsonaro: "distorcida" (os PMs da foto não eram os milicianos suspeitos da morte de Marielle) — [Aos Fatos](https://aosfatos.org/noticias/pms-em-foto-com-flavio-e-jair-bolsonaro-nao-sao-os-milicianos-suspeitos-da-morte-de-marielle/). Para "Lula sócio da Roberta": nenhuma agência checou a frase literal; o que existe é a base factual — Metrópoles obteve 8 trocas de texto/áudio (2023–2024) em que Roberta Luchsinger chama **Lulinha** (não Lula) de "sócio"; a própria imprensa anota que os registros não comprovam sociedade formal; Roberta disse à PF em maio ser amiga de Lulinha "há muitos anos" e a defesa negou remuneração — [Times Brasil](https://timesbrasil.com.br/brasil/mensagens-mostram-roberta-luchsinger-chamando-lulinha-de-socio/); [SBT News](https://sbtnews.sbt.com.br/noticia/politica/fraudes-no-inss-roberta-luchsinger-nega-repasses-a-lulinha). Veredito prático para o projeto: o termo "Lula sócio da Roberta" transfere para o pai uma relação atribuída ao filho — tratar como **enganoso/sem evidência** até surgir prova de vínculo direto de Lula.
+5. **Palver / WhatsApp 2026 (lacuna da seção 3).** Dois relatórios Palver de 2026 localizados: (a) UOL, 04/03/2026 ("2026 começa a ser decidido no WhatsApp"), >100 mil grupos públicos de WhatsApp e Telegram: entre as mensagens com juízo explícito, **80,6% das sobre Lula eram críticas** (19,4% de apoio) e **54,5% das sobre Flávio eram favoráveis** (45,5% críticas) — [Congresso em Foco, 09/03/2026](https://www.congressoemfoco.com.br/artigo/117022/quando-o-whatsapp-dita-a-eleicao-e-o-tse-regula-a-superficie); (b) primeiro fim de semana de campanha (15–16/08/2026; WhatsApp, Instagram e X) — tabela T6 — [TVT News, 17/08/2026](https://tvtnews.com.br/lula-lidera-nas-redes-sociais-na-largada-da-campanha/). Não há, ainda, ranking Palver de **temas** mais compartilhados em 2026.
+6. **Meta Ad Library por anunciante (lacuna da seção 4).** Três recortes datados (tabela T4), além do gasto declarado ao TSE já na seção 4 (R$ 288,7 mi; PL R$ 63,7 mi x PT R$ 37,9 mi): partidos 28/04–26/07/2026 (CNN/Meta Ad Library), presidenciáveis 21/08–19/09/2026 (InfoMoney, via ND Mais) e gasto declarado por candidato até 23/09 (ND Mais) — [CNN Brasil, 29/07/2026](https://www.cnnbrasil.com.br/eleicoes/pt-lidera-gastos-com-anuncios-no-facebook-e-instagram-republicanos-e-o-2o/); [ND Mais, 30/09/2026](https://ndmais.com.br/politica/gastos-campanha-lula-flavio-caiado-2026/).
+7. **NetLab/UFRJ 2026 (lacuna da seção 4).** A página dos boletins do 1º turno (post de 07/10/2026) lista dois PDFs — "Boletim NetLab UFRJ – 03 de outubro" (2,81 MB) e "– 04 de outubro" (2,73 MB) — e dois observatórios (Publicidade Política; Recomendação Algorítmica); **nenhum boletim do 2º turno** estava publicado até ~13/10. Ressalva do próprio NetLab: "os resultados apresentados neste boletim representam uma amostra limitada do problema real". Números via imprensa (06/10/2026): 568 anúncios irregulares na Meta no resguardo (48h antes a 24h depois de 04/10), 6 simulando comunicações do TSE (voto remoto), irregularidades também no Kwai e no Google, e recomendações irregulares de vídeos de candidatos no TikTok e YouTube; a Meta disse que a amostragem "não refletiria a escala" do seu trabalho; o Kwai disse ter restringido novos anúncios desde 01/10 — [NetLab, 07/10/2026](https://netlab.eco.ufrj.br/post/observat%C3%B3rio-das-big-techs-boletins-do-1%C2%BA-turno-elei%C3%A7%C3%B5es-2026); [Forbes Brasil, 06/10/2026](https://forbes.com.br/forbes-tech/2026/10/big-techs-descumprem-regras-eleitorais-no-dia-da-votacao-diz-estudo/); [Jornal Opção, 06/10/2026](https://www.jornalopcao.com.br/ultimas-noticias/redes-sociais-mantiveram-anuncios-eleitorais-irregulares-no-dia-da-votacao-aponta-ufrj-876316/).
+8. **Ranking de engajamento por lado com números para direita e esquerda (pedido da rodada).** Além dos dados Bites/O Globo (16/10) e Zeeng já na seção 3, agora há: Bites/Poder360 04/01–28/02/2026 (T5), Bites/CNN seguidores e "tração" no 1º semestre (T5b) e Bites/Folha 01/01–30/05/2025 por campo (direita 1,48 bi x esquerda 417 mi x centro 171 mi) — fontes nas tabelas.
+9. **Pontos adicionais da série Datafolha "principal problema" (lacuna da seção 2).** Set/2021: saúde 22%, desemprego 13%, economia 13%, inflação 9%, educação 6%, fome/miséria 6%, corrupção 5%; 2019: saúde liderou em duas rodadas com 18% e 19%; corrupção "na casa dos 35%" no auge da Lava Jato (2015–2017) (via snippet) — [Bandab/Folhapress](https://www.bandab.com.br/nacional/na-pandemia-22-apontam-a-saude-como-principal-problema-do-pais-mostra-datafolha/amp/). A rodada de 10/03/2026 (lida na íntegra) tem registro TSE BR-03715/2026, 2.004 entrevistas, campo **anterior** à revelação das mensagens Moraes–Vorcaro — [InfoMoney, 10/03/2026](https://www.infomoney.com.br/politica/eleitores-veem-saude-e-seguranca-como-os-principais-problemas-do-pais-diz-datafolha/). **2022 segue sem ponto localizado.**
+
+### Correções a dados existentes
+
+- **Seção 4 / ta-020 (Enel).** O número ">4 milhões de imóveis" do apagão de dez/2025 deve ser lido assim: a Enel informou à Aneel, em documento de 19/12/2025, que o vendaval de **9 e 10/12/2025** afetou **cerca de 4,4 milhões de consumidores** na Grande SP — o dobro dos ~2 milhões de unidades (pico simultâneo) divulgados durante a crise; houve mais de 12 horas de instabilidade; o Procon-SP multou a Enel em R$ 14 milhões — [SBT News, 15/01/2026](https://sbtnews.sbt.com.br/noticia/brasil/prefeitura-de-sp-vai-cobrar-aneel-sobre-providencias-diante-de-dados-errados-da-enel-sobre-apagao). A multa de **R$ 165,8 milhões** da Aneel que circula junto ao caso refere-se ao apagão de **03/11/2023** (4,2 milhões de residências em sete áreas de concessão; ~2 milhões na capital), não ao de dez/2025 — [Eixos, 15/02/2024](https://eixos.com.br/energia-eletrica/apagao-em-sao-paulo-enel-e-multada-em-r-1658-milhoes-por-aneel/).
+- **Seção 4 (Google).** A frase "Não encontrei relatório de transparência do Google (Ads Transparency) com gastos de anúncios políticos no Brasil em 2026" deve ser lida como "não existe", pela razão do item 3 acima (veto da própria empresa desde 01/05/2024, mantido em 2026).
+- **Seção 2 (Ipec).** "Não encontrei pesquisa Ipec de 2026 com 'principal problema'" passa a "existe como Ipsos-Ipec/What Worries the World, com metodologia de múltipla escolha" (T1).
+- **Seção 3 (seguidores).** Há divergência entre séries da própria Bites: para a CNN (04/07/2026), Lula tinha 38,9 mi e Flávio 21 mi de seguidores (soma de Instagram, TikTok, Facebook, X e YouTube, fim de junho); para o Poder360 (jul/2026), Lula 28,6 mi e Flávio 17,5→17,6 mi (via snippet; cesta de redes provavelmente diferente). Usar sempre a fonte e a cesta de plataformas junto ao número — [CNN Brasil, 04/07/2026](https://www.cnnbrasil.com.br/eleicoes/a-tres-meses-da-eleicao-flavio-lidera-tracao-nas-redes-e-lula-seguidores/); [Poder360](https://poder360.com.br/poder-eleicoes-2026/flavio-engaja-4-vezes-mais-que-lula-nas-redes-pos-tarifaco).
+- **ta-003 / Tema 2 (INSS).** O ">R$ 3,5 bi devolvidos a >5 mi" (Lula, 18/10/2026, "correto" pelo Aos Fatos) convive com o balanço anterior do governo: em nov/2025, ~3,7 milhões já ressarcidos, somando R$ 2,5 bilhões, com 4,8 milhões ainda aptos a pedir; prazo de adesão prorrogado para 14/02/2026 e de contestação até 20/03/2026; valores corrigidos pelo IPCA — [Diário de Pernambuco, 11/2025](https://www.diariodepernambuco.com.br/economia/2025/11/11700180-governo-prorroga-ate-2026-prazo-para-pedido-de-ressarcimento-do-inss.html). Não é contradição (datas diferentes), mas convém citar a data junto ao número.
+- **Seção 1 (hub "Eleições 2026" do Google Trends).** Lido na íntegra: a página nomeia apenas Lula e Flávio, usa `date=now 7-d` (7 dias) nos links, escala 0–100, e repete que "a comparação entre candidatos só é válida se todos forem incluídos na mesma consulta" e que "as buscas no Google não indicam intenção de voto". Os gráficos ficam em iframes não legíveis por fetch — [Google Trends, Eleições 2026](https://trends.withgoogle.com/trends/br/brasil-eleicoes-2026/?hl=pt-BR).
+
+### Novos dados
+
+**T1 — Ipsos / Ipsos-Ipec, "What Worries the World", Brasil 2026 (múltipla escolha; ~1.000 entrevistas, 16–74 anos)**
+
+| Rodada (campo/publicação) | Crime e violência | Corrupção | Pobreza/desigualdade | Saúde | Impostos | Fonte |
+|---|---|---|---|---|---|---|
+| Fev/2026 (rodada anterior citada em 24/03) | 49% | 40% | 34% | 38% | — | [SBT News, 24/03/2026](https://sbtnews.sbt.com.br/noticia/brasil/quase-metade-dos-brasileiros-cita-crime-e-violencia-como-principal-preocupacao-corrupcao-aparece-em-2-lugar) |
+| Mar/2026 (campo 20/02–06/03; publ. 24/03) | 48% | 42% (+2 p.p. mês; +14 p.p. ano) | 36% | 35% | 28% | idem |
+| Mai/2026 (publ. 03/06) | 48% (+7 p.p. ano) | 37% (−2) | 36% | 35% | 29% (+3) | [Portal de Prefeitura, 03/06/2026](https://portaldeprefeitura.com.br/brasil/violencia-e-corrupcao-seguem-como-maiores-preocupacoes-dos/623302/) |
+| Jun/2026 (publ. 24/06) | 47% (global 32%) | 39% (+2; global 28%) | 37% (+1; global 29%) | 35% | 29% | [Ipsos, 24/06/2026](https://www.ipsos.com/pt-br/node/1078511) |
+| Ago/2026 (via snippet) | lidera | 38% (2º) | — | — | — | [Ipsos, "Preocupações dos brasileiros"](https://www.ipsos.com/pt-br/topic/preocupacoes-dos-brasileiros) |
+
+Leitura: a ordem é a mesma do Datafolha/Quaest (segurança em 1º), mas a corrupção aparece bem mais alta porque a pergunta admite várias respostas; o salto de fev→mar/2026 coincide com a fase final da CPMI do INSS e o caso Master (mesma leitura da AtlasIntel na seção 2). Na rodada de maio, 39% achavam que o país ia "na direção certa" (+7 p.p. no mês) e 35% avaliavam a economia positivamente (+4 p.p.).
+
+**T2 — Google Trends, "Pesquisas em alta" (RSS, geo=BR), 21/10/2026, manhã**
+
+| Termo | Volume aproximado | Hora (−07:00) | Manchetes associadas | Fonte |
+|---|---|---|---|---|
+| quaest | 20 mil+ | 06:00 | agregador de pesquisas BBC (Lula x Flávio); comparação Quaest x resultado do 1º turno (Veja); pesquisa Futura com empate (CartaCapital) | [Google Trends RSS BR](https://trends.google.com.br/trending/rss?geo=BR) |
+| dívida externa do brasil | 5 mil+ | 05:40 | Brasil volta a ser devedor líquido internacional pela 1ª vez em 19 anos (Estadão; O Antagonista; O Hoje) | idem |
+| leandro lo | 200+ | 06:10 | Tarcísio demite novamente PM acusado de matar Leandro Lo (g1, UOL, Metrópoles) | idem |
+| wsl / william bonner / ingresso u2 / estados unidos (midterms) | 1.000+ / 200+ / 500+ / 500+ | 05:20–06:10 | não políticos (EUA: Trump e midterms de 03/11) | idem |
+
+Leitura: a 4 dias do 2º turno, nenhum candidato aparecia entre as "pesquisas em alta" da manhã; os dois termos políticos em alta eram **pesquisas eleitorais** (Quaest) e **dívida externa** — este último um gancho natural para a narrativa de endividamento (Tema 15/ta-016), ainda que "dívida externa líquida" seja conceito distinto da DBGG de R$ 11 tri.
+
+**T3 — Tentativa direta no Google Trends (geo=BR; 12 meses e 90 dias), 21/10/2026**
+
+| Grupo de termos (máx. 5 por consulta) | `api/explore` | `widgetdata/multiline` |
+|---|---|---|
+| Lula; Flávio Bolsonaro; Ronaldo Caiado; Renan Santos; Romeu Zema | HTTP 200 (resolução WEEK / DAY) | HTTP 429 (2 tentativas) |
+| pix taxado; escala 6x1; isenção imposto de renda; desconto INSS; Banco Master | 200 | 429 |
+| anistia; Alexandre de Moraes; tarifaço; Enel; preço gasolina | 200 | 429 |
+| conta de luz; Bolsa Família; Flávio miliciano; Lula sócio da Roberta; Vorcaro | 200 | 429 |
+
+Nenhuma série foi obtida; as URLs de consulta equivalentes, para quem reproduzir manualmente, seguem o padrão `https://trends.google.com.br/trends/explore?geo=BR&date=today%2012-m&q=pix%20taxado,escala%206x1,...` e `...&date=today%203-m&q=...`.
+
+**T4 — Meta Ad Library e gastos declarados, 2026 (recortes não somáveis entre si)**
+
+| Recorte / período | Anunciante | Valor | Fonte |
+|---|---|---|---|
+| Partidos, anúncios "temas sociais, eleições ou política", 28/04–26/07/2026 | PT | R$ 2.318.147 | [CNN Brasil, 29/07/2026](https://www.cnnbrasil.com.br/eleicoes/pt-lidera-gastos-com-anuncios-no-facebook-e-instagram-republicanos-e-o-2o/) |
+| idem | Republicanos | R$ 1.917.409 | idem |
+| idem | PL | R$ 848.450 | idem |
+| idem | Missão | R$ 473.452 | idem |
+| idem | MDB / PSB / PSD | R$ 386.262 / R$ 384.651 / R$ 369.801 | idem |
+| Presidenciáveis (perfis oficiais), 21/08–19/09/2026 | Lula (PT) | R$ 4,41 mi | [ND Mais, 30/09/2026 (InfoMoney)](https://ndmais.com.br/politica/gastos-campanha-lula-flavio-caiado-2026/) |
+| idem | Flávio Bolsonaro (PL) | R$ 702,8 mil (Lula ≈ 6,3x) | idem |
+| idem | Caiado / Cury / Zema / Renan Santos | R$ 172 mil / R$ 128,2 mil / R$ 98,1 mil / R$ 76,8 mil (total R$ 5,59 mi) | idem |
+| Gasto total declarado ao TSE até 23/09/2026 (declarado / pago) | Lula | R$ 65,7 mi / R$ 30,9 mi | idem |
+| idem | Flávio | R$ 56,2 mi / R$ 37,5 mi | idem |
+| idem | Caiado / Zema / Renan / Cury | R$ 24,5 mi / R$ 4,3 mi / R$ 1,3 mi / R$ 440,2 mil | idem |
+| Rede de terceiros pró-Cury (Lupa) | anunciantes não oficiais | 1.006 anúncios, ≥US$ 106,1 mil | idem |
+| Anúncios em dólar sobre Lula/Flávio, 16/08–30/09 | PagoLink Global etc. | 1.069 anúncios, ≥US$ 120,8 mil, >82 mi de impressões (já na seção 4) | [Agência Pública, 03/10/2026](https://apublica.org/2026/10/quase-mil-anuncios-sobre-lula-e-flavio-na-meta-foram-pagos-em-dolar/) |
+| Palavras-chave "Lula" / "Flávio", 29/04–29/07 (via snippet) | diversos | R$ 137,1 mil / R$ 99,4 mil; Renan Santos com 180 anúncios contra Lula e 79 contra Flávio | [O Povo, 30/07/2026](https://www.opovo.com.br/noticias/politica/2026/07/30/renan-santos-e-candidato-que-mais-impulsiona-anuncios-contra-lula-e-flavio-bolsonaro-nas-redes.html) |
+
+Leitura: nas bases da própria biblioteca da Meta (anúncios veiculados), o PT e o perfil de Lula gastam mais que o PL e Flávio em todos os recortes; na base de **despesa declarada ao TSE com a Meta** (seção 4: Flávio R$ 7,45 mi x Lula R$ 2,59 mi; PL R$ 63,7 mi x PT R$ 37,9 mi), a ordem se inverte. As duas coisas podem ser verdadeiras ao mesmo tempo (contratos declarados ≠ anúncios já veiculados pelo perfil oficial), e qualquer checagem sobre "quem gasta mais na Meta" precisa dizer qual base usa.
+
+**T5 — Engajamento por político e por lado (Bites)**
+
+(a) 04/01–28/02/2026, X + Instagram + Facebook, curtidas+comentários+compartilhamentos — [Poder360, 15/03/2026](https://www.poder360.com.br/poder-governo/flavio-bolsonaro-supera-lula-em-interacoes-nas-redes-sociais/)
+
+| Político | Interações | Participação |
+|---|---|---|
+| Flávio Bolsonaro (PL) | 49.696.605 | 36,2% |
+| Lula (PT) | 28.224.541 | 20,8% |
+| Carlos Bolsonaro (PL) | 20.212.052 | 14,6% |
+| Eduardo Bolsonaro (PL) | 17.518.120 | 13,1% |
+| Michelle Bolsonaro (PL) | 5.689.663 | 4,2% |
+| Gleisi Hoffmann (PT) | 5.330.454 | 3,7% |
+| Guilherme Boulos (PSOL) | 5.110.755 | 3,6% |
+| Janja | 2.422.186 | 1,8% |
+| Alckmin / Haddad / Rui Costa | 1.182.289 / 1.040.780 / 535.377 | — |
+| Jair Bolsonaro | 0 (preso, sem postar) | — |
+| **Família Bolsonaro (grupo)** | **93,6 mi** (48,5 mi de seguidores) | |
+| **Círculo de Lula (grupo)** | **43,8 mi** (56,9 mi de seguidores) | |
+
+(b) Seguidores e "tração", 1º semestre/2026 (soma Instagram+TikTok+Facebook+X+YouTube) — [CNN Brasil/Bites, 04/07/2026](https://www.cnnbrasil.com.br/eleicoes/a-tres-meses-da-eleicao-flavio-lidera-tracao-nas-redes-e-lula-seguidores/)
+
+| Candidato | Seguidores (jun/2026) | Crescimento no semestre | Semanas liderando "tração" (26) |
+|---|---|---|---|
+| Lula (PT) | 38,9 mi | +1,8 mi (+5%) | 2 |
+| Flávio Bolsonaro (PL) | 21 mi | +5,6 mi (+36%) | 21 |
+| Augusto Cury (Avante) | 14,4 mi | — | — |
+| Romeu Zema (Novo) | 6,2 mi | +2,4 mi (+63,3%) | 3 |
+| Ronaldo Caiado (PSD) | 4,7 mi | +795 mil (+20,1%) | 0 |
+| Renan Santos (Missão) | 2,8 mi | +2,3 mi (+430,7%) | 0 |
+
+(c) Outros pontos Bites: 15–22/07/2026 (pós-tarifaço): Flávio 6,09 mi x Lula 1,375 mi de interações (~4x) (via snippet) — [Poder360](https://poder360.com.br/poder-eleicoes-2026/flavio-engaja-4-vezes-mais-que-lula-nas-redes-pos-tarifaco); 01/01–30/05/2025, 250 políticos (88 direita, 78 esquerda, 84 centro/centrão), Facebook+Instagram+YouTube+TikTok+X: **direita 1,48 bi** de interações (12.894/post), **esquerda 417 mi** (4.699/post), **centro/centrão 171 mi** (~3,9 mil/post); os 33 ministros de Lula com redes somavam pouco mais da metade dos seguidores de Jair Bolsonaro — [Revista Oeste (reproduz Folha/Bites), 02/07/2025](https://revistaoeste.com/politica/engajamento-da-direita-nas-redes-supera-esquerda-centro-e-centrao-juntos-diz-estudo/).
+
+Leitura combinada com a seção 3: a direita liderou todas as medições de volume de jan/2025 até o 1º turno de 2026 (2,5x em 2025; 36% x 21% em jan–fev/2026; 21 de 26 semanas no 1º semestre; ~25 mi x 11,5 mi no 1º turno), e a esquerda só virou na semana de 04–11/10/2026 (49 mi x 45 mi) — o que torna essa virada um evento, não uma tendência.
+
+**T6 — Palver, primeiro fim de semana de campanha (15–16/08/2026)** — [TVT News, 17/08/2026](https://tvtnews.com.br/lula-lidera-nas-redes-sociais-na-largada-da-campanha/)
+
+| Indicador | WhatsApp (grupos públicos) | Instagram | X |
+|---|---|---|---|
+| Participação de Lula nas menções a presidenciáveis | 63% | 57% | 41% |
+| Participação de Flávio | 28–30% | 28–30% | 28–30% |
+| Renan Santos | — | — | 9% |
+| Lula, mensagens com juízo: positivas / negativas | 40% / 60% | 70–78% positivas (todos os candidatos) | 47% / 53% |
+| Flávio, positivas / negativas | 49% / 51% | 70–78% | 61% favoráveis |
+| Padrão de disparo em massa (mensagens sobre presidenciáveis) | ~79% | — | — |
+| Usuários orgânicos: negativas sobre Lula / sobre Flávio | 64% / 57% | — | — |
+| Caiado: ataques entre as menções no X | — | — | 83% |
+
+**T7 — Vídeos e lives com números de visualização (2026)**
+
+| Data | Conteúdo | Plataforma | Visualizações | Fonte |
+|---|---|---|---|---|
+| 16/08/2026 | Live de Flávio em Copacabana (1º dia de campanha) | YouTube | >150 mil até 14h (a mesma matéria cita >105 mil em outro trecho) (via snippet) | [Revista Oeste](https://revistaoeste.com/no-ponto/campanha-comeca-com-vitoria-de-flavio-sobre-lula/) |
+| 16/08/2026 | Live de Lula em São Bernardo do Campo | YouTube | 81 mil (via snippet) | idem |
+| até 25/08/2026 | Vídeo de Flávio com o vereador Lucas Pavanato (PL-SP) atacando Lula | Instagram (Pavanato) | >19 milhões — "mais viralizado entre as campanhas presidenciais até então", avaliação do veículo (via snippet; página 403) | [Pleno.News, 25/08/2026](https://pleno.news/brasil/eleicoes-2026/flavio-e-pavanato-protagonizam-video-viral-que-nao-poupa-lula.html) |
+| 05–~15/10/2026 | >30 vídeos de Lula no Instagram desde o fim do 1º turno (Flávio: 11) | Instagram | "pouco mais de 100 milhões de visualizações" somadas (via snippet; página 403) | [Gazeta SP](https://www.gazetasp.com.br/politica/guerra-eleitoral-nas-redes-esquerda-e-direita-disputam-narrativas-em-busca-de-votos-para-o-2o-turno-lula-lidera-engajamento/) |
+| 14/10/2026 | Post de Lula sobre a 6x1 (já na seção 3) | Instagram | >2,7 mi de interações | [Vermelho/Bites](https://vermelho.org.br/2026/10/20/lula-dispara-nas-redes-apos-debate-na-band-e-supera-flavio-em-5-vezes/) |
+| jan/2025 | Vídeo de Nikolas sobre o Pix (já na seção 3) | Instagram | >300 mi (via snippet) | [Gazeta do Povo](https://www.gazetadopovo.com.br/republica/boulos-pgr-investigue-nikolas-ferreira-noticias-falsas-pix/) |
+
+Não localizei audiência (Kantar) nem visualizações no YouTube do debate da Band de 18/10/2026, nem ranking de vídeos mais vistos no TikTok em 2026.
+
+**T8 — Um dado de volume e um dado oficial adicionais por tema (ta-001 a ta-023)**
+
+| ID | Tema | Dado adicional de volume/atenção (data) | Dado oficial/factual adicional (data) | Fontes |
+|---|---|---|---|---|
+| ta-001 | Segurança/facções | Ipsos: crime e violência 47–49% em todas as rodadas de 2026, +7 p.p. em um ano (jun/2026), 15 p.p. acima da média global | Palver: 80,6% das mensagens com juízo sobre Lula em >100 mil grupos eram críticas (04/03/2026) — contexto de bolha hostil ao governo em WhatsApp, onde segurança é o 2º tema (10,5%, "Caiu no Zap") | [Ipsos, 24/06/2026](https://www.ipsos.com/pt-br/node/1078511); [Congresso em Foco, 09/03/2026](https://www.congressoemfoco.com.br/artigo/117022/quando-o-whatsapp-dita-a-eleicao-e-o-tse-regula-a-superficie) |
+| ta-002 | Operação Contenção | Nenhum dado novo de busca/menções localizado nesta rodada | Nenhum dado oficial novo localizado nesta rodada (orçamento de busca esgotado) | — |
+| ta-003 | INSS/Lulinha/Roberta | Ipsos: corrupção 40%→42% (fev→mar/2026), +14 p.p. em um ano, com a CPMI do INSS em fase final | Governo (nov/2025): 3,7 mi ressarcidos, R$ 2,5 bi; 4,8 mi ainda aptos; adesão até 14/02/2026 e contestação até 20/03/2026; correção pelo IPCA | [SBT News, 24/03/2026](https://sbtnews.sbt.com.br/noticia/brasil/quase-metade-dos-brasileiros-cita-crime-e-violencia-como-principal-preocupacao-corrupcao-aparece-em-2-lugar); [DP, 11/2025](https://www.diariodepernambuco.com.br/economia/2025/11/11700180-governo-prorroga-ate-2026-prazo-para-pedido-de-ressarcimento-do-inss.html) |
+| ta-004 | Banco Master/Vorcaro | CEO da Ipsos Brasil atribuiu ao caso Master a alta da corrupção para 42% (24/03/2026) | Vorcaro obteve na Justiça de PE liminar (abr/2024) que tirou 37 links do Google antes do escândalo (pedido inicial de 05/04/2021) (via snippet) | [SBT News, 24/03/2026](https://sbtnews.sbt.com.br/noticia/brasil/quase-metade-dos-brasileiros-cita-crime-e-violencia-como-principal-preocupacao-corrupcao-aparece-em-2-lugar); [DP, 03/2026](https://www.diariodepernambuco.com.br/economia/2026/03/11710219-vorcaro-acionou-justica-de-pernambuco-para-esconder-noticias-negativas-antes-do-escandalo-no-banco-master.html) |
+| ta-005 | Bolsonaro/anistia/dosimetria | Nenhum dado novo de busca localizado (Trends 429) | Lei da Dosimetria: 5 ADIs no STF (7966 ABI; 7967 PSOL-Rede; 7968 PDT; 7969 PT-PCdoB-PV; 7985 ANPV), todas com Moraes; suspensão de 09/05/2026 vale "até o plenário julgar o mérito"; **sem julgamento de mérito localizado até 21/10/2026** | [Congresso em Foco](https://www.congressoemfoco.com.br/noticia/120477/lei-da-dosimetria-chega-a-quinta-acao-no-stf-relembre-a-tramitacao); [STF](https://noticias.stf.jus.br/postsnoticias/stf-recebe-primeiras-acoes-contra-lei-da-dosimetria/) |
+| ta-006 | Tarifaço/Magnitsky | "Tarifaço de Trump" nº 1 em Acontecimentos 2025 (já na nota); nada novo de 2026 | Amcham (Monitor BR-EUA, 12/10/2026): exportações aos EUA US$ 3,5 bi em set/2026, **+31,9%** vs set/2025 (base deprimida, 1º mês pós-tarifa de 50%); **jan–set −6,5%** (US$ 27,46 bi, via snippet), perda estimada ~US$ 1,9 bi; MDIC: exportações totais set/2026 US$ 34,42 bi (+12,9%), superávit US$ 7,74 bi (via snippet) | [DP, 12/10/2026](https://www.diariodepernambuco.com.br/colunas/diario-economico/2026/10/11726401-exportacoes-brasileiras-para-os-estados-unidos-cresceram-319-em-setembro.html); [Diário do Comércio](https://diariodocomercio.com.br/economia/exportacoes-brasil-eua-setembro/); [Mercado&Consumo, 07/10/2026](https://mercadoeconsumo.com.br/07/10/2026/economia/balanca-comercial-tem-superavit-de-us-774-bilhoes-em-setembro/) |
+| ta-007 | "Flávio miliciano" | Trends: termo incluído na consulta direta, série não obtida (429) | Comprova: zero checagens sobre Flávio+milícia; Aos Fatos (2019): foto de PMs com Flávio e Jair — "distorcida" | [Comprova](https://projetocomprova.com.br/?s=Fl%C3%A1vio+mil%C3%ADcia); [Aos Fatos](https://aosfatos.org/noticias/pms-em-foto-com-flavio-e-jair-bolsonaro-nao-sao-os-milicianos-suspeitos-da-morte-de-marielle/) |
+| ta-008 | Fim da 6x1 | Nenhuma matéria com Trends de "6x1" localizada; série direta não obtida | Nenhum dado oficial adicional nesta rodada (votações já na nota) | — |
+| ta-009 | Custo de vida | Ipsos: "impostos" 28–29% e inflação não entra no top 5 do Brasil em 2026 (global 32%) | IPCA-15 set/2026 (IBGE, 25/09): +0,70% no mês (maior desde abril), 3,82% no ano, **4,47% em 12 meses**; energia elétrica +7,42% (0,29 p.p.); tomate +20,76%, arroz +2,39%, carnes +1,30%, **café moído −1,36%**, gasolina +0,30%, passagens aéreas +9,82%. Aneel: **bandeira verde em out/2026** (anunciada 25/09) após amarela mai–set (R$ 1,885/100 kWh); bandeira de nov sai em 30/10 | [DGABC, 25/09/2026](https://www.dgabc.com.br/Noticia/4349067/ipca-15-sobe-0-70-em-setembro-maior-taxa-desde-abril); [JB, 09/10/2026](https://www.jb.com.br/editorias/2026/10/09/bandeira-tarifaria-outubro-2026.html); [Investidor10](https://investidor10.com.br/noticias/conta-de-luz-ira-a-bandeira-verde-a-partir-de-outubro-de-2026-diz-aneel-122854/) |
+| ta-010 | Pix | Nenhum dado de busca novo; vídeo de Nikolas segue como único viral medido | BC: 36,3 bi de transações e R$ 16 tri em jan–mai/2026 (+26% a.a.) (via snippet); recorde diário 04/09/2026: 318,1 mi de transações / R$ 186,9 bi (fonte secundária única, via snippet) | [Sou Brasília, jul/2026](https://soubrasilia.com/?p=8088); [Seu Crédito Digital](https://seucreditodigital.com.br/pix-bate-recorde-318-milhoes-transacoes/) |
+| ta-011 | STF/Moraes/PEC da Blindagem | Nenhum dado de busca novo ("Moraes" não aparece no Ano em Busca 2025; Trends 429) | Datafolha de 10/03/2026 (BR-03715/2026) foi a campo **antes** da revelação Moraes–Vorcaro — útil como linha de base pré-crise | [InfoMoney, 10/03/2026](https://www.infomoney.com.br/politica/eleitores-veem-saude-e-seguranca-como-os-principais-problemas-do-pais-diz-datafolha/) |
+| ta-012 | "Se Flávio vence"/Bolsa Família | Nenhuma matéria com Trends de "Bolsa Família" em 2026 (só 2019 e 2024) | Pagamento com reajuste de 19 a 30/10/2026 (NIS final 1 a 0); piso R$ 600→R$ 691 = INPC acumulado mar/2023–ago/2026 (15,04%); custo R$ 5,8 bi em 2026 e ~R$ 22 bi em 2027; **nº de famílias de out/2026 não localizado** (os "20,73 mi" que circulam são de 2024) | [O Liberal, 19/10/2026](https://www.oliberal.com/economia/bolsa-familia-pagamentos-com-reajuste-comecam-nesta-segunda-feira-19-veja-1.1184189); [Portal de Prefeitura, 17/10/2026](https://portaldeprefeitura.com.br/cotidiano/bolsa-familia-comeca-a-pagar-novo-valor-nesta-segunda-19-veja/634274/) |
+| ta-013 | Idade/saúde de Lula | Nenhum dado novo (Trends 429) | Nenhum dado oficial novo nesta rodada | — |
+| ta-014 | Isenção IR R$ 5 mil | Nenhuma matéria com Trends de "isenção"/"imposto de renda" em 2026 (IR esteve no top 10 "como fazer" do Google em 2024) | Regra em vigor desde 01/01/2026, beneficiando CLT, autônomos com RPA e aposentados do INSS (via snippet) | [Investidor10 (Google 2024)](https://investidor10.com.br/noticias/emprestimo-imposto-de-renda-e-mais-veja-os-termos-mais-buscados-no-google-em-2024-109636/); [Estado de Minas, 01/2026](https://www.em.com.br/trends/2026/01/7328727-imposto-de-renda-2026-como-a-isencao-ate-rs-5-mil-afeta-seu-bolso.html) |
+| ta-015 | Armas | Nenhum dado novo | Nenhum dado oficial novo nesta rodada | — |
+| ta-016 | Juros/dívida R$ 11 tri | **Google Trends RSS 21/10/2026: "dívida externa do brasil" 5 mil+ buscas** (Brasil devedor líquido internacional pela 1ª vez em 19 anos, Estadão) | O gatilho é a posição internacional de investimento (ativos x passivos externos), não a DBGG; ambos podem ser usados na narrativa "Lula quebrou o Brasil", mas medem coisas diferentes | [Google Trends RSS BR](https://trends.google.com.br/trending/rss?geo=BR) |
+| ta-017 | COP30/IOF/BRICS | Nenhum dado novo | Nenhum dado oficial novo nesta rodada | — |
+| ta-018 | Emprego/salário mínimo | Nenhum dado de busca novo | PNAD Contínua (IBGE, 29/09/2026): desocupação **5,3%** no trimestre jun–ago/2026, menor para trimestre até agosto desde 2012; −0,3 p.p. vs mai (5,6%) e vs 2025 (5,6%); 5,8 mi de desocupados; ocupados 103,5 mi (via snippet) | [DGABC, 29/09/2026](https://www.dgabc.com.br/Noticia/4349737/taxa-de-desemprego-no-brasil-e-a-menor-para-trimestre-ate-agosto-desde-2012-mostra-ibge) |
+| ta-019 | "PT amigo do PCC/CV" | Palver (04/03/2026): 80,6% das mensagens com juízo sobre Lula em grupos públicos eram críticas; Palver 15–16/08: 60% negativas no WhatsApp, 53% no X | Nenhum dado oficial novo nesta rodada | [Congresso em Foco, 09/03/2026](https://www.congressoemfoco.com.br/artigo/117022/quando-o-whatsapp-dita-a-eleicao-e-o-tse-regula-a-superficie); [TVT, 17/08/2026](https://tvtnews.com.br/lula-lidera-nas-redes-sociais-na-largada-da-campanha/) |
+| ta-020 | Enel/apagões SP | Nenhuma matéria com Trends sobre Enel em dez/2025 localizada | Enel à Aneel (19/12/2025): **4,4 mi** de consumidores afetados em 9–10/12/2025 (pico simultâneo ~2 mi; >12h de instabilidade); Procon-SP: multa R$ 14 mi; Aneel: frequência de apagões em SP +12,8% em 2025 (via snippet); FecomercioSP: perda ≥R$ 1,54 bi em 2 dias (via snippet); 31ª Vara Cível de SP reconheceu falhas (ação MP-SP/Defensoria) (via snippet); Aneel analisa caducidade ampliada ao apagão de dez/2025 (via snippet) | [SBT News, 15/01/2026](https://sbtnews.sbt.com.br/noticia/brasil/prefeitura-de-sp-vai-cobrar-aneel-sobre-providencias-diante-de-dados-errados-da-enel-sobre-apagao); [Economic News Brasil, 17/12/2025](https://economicnewsbrasil.com.br/2025/12/17/apagoes-em-sao-paulo-2025-impacto-economico-enel/); [SBT News](https://sbtnews.sbt.com.br/noticia/brasil/justica-de-sp-reconhece-falhas-da-enel-em-apagao-de-2025) |
+| ta-021 | Deepfakes/IA | Lupa/VigIA (16/08–28/09): **60% sem rotulagem**; 525 postagens de usuários comuns, 29 de candidatos/partidos (complementa os 920/554 já na nota) | Band (12/08/2026): "Brasil tem 2 casos de deepfakes eleitorais por semana; detecção é falha" (título; página 403, conteúdo não lido); Poder360 publicou PDF "A IA do Nosso Feed" (ago/2026), não lido | [Movimento Econômico, 02/10/2026](https://movimentoeconomico.com.br/politica/2026/10/02/mesmo-proibidos-deepfakes-tomam-conta-das-redes-antes-da-eleicao/); [Band, 12/08/2026](https://www.band.com.br/politica/eleicoes/2026/brasil-tem-2-casos-de-deepfakes-eleitorais-por-semana-deteccao-e-falha-202608121354); [Poder360 PDF](https://static.poder360.com.br/uploads/2026/08/A-IA-do-Nosso-Feed.pdf) |
+| ta-022 | Hashtags/engajamento | Bites jan–fev/2026: Flávio 49,7 mi x Lula 28,2 mi; família Bolsonaro 93,6 mi x círculo de Lula 43,8 mi (T5a); 1º semestre: Flávio liderou 21 de 26 semanas (T5b) | Palver 15–16/08: ~79% das mensagens sobre presidenciáveis no WhatsApp com padrão de disparo em massa (T6) | ver T5 e T6 |
+| ta-023 | Urnas/"fraude" | Google Trends: "segundo turno" +790% (já na nota) | TSE 04/10/2026: 1.121 urnas substituídas (~0,2%); ~2,8 mil ocorrências de desinformação desde 16/08; 453 apontamentos até 13h; sem indício de interferência internacional | [Tribuna de Jundiaí, 04/10/2026](https://tribunadejundiai.com.br/politica/eleicoes-2026/interferencia-estrangeira-eleicoes/) |
+
+**T9 — FGV ECMI, Monitor do Debate Político e NetLab (status de publicação em 21/10/2026)**
+
+| Instituição | O que foi encontrado | Status |
+|---|---|---|
+| FGV ECMI | Site (ecmi.fgv.br e /publicacoes) respondeu 503 em três tentativas; o único relatório eleitoral indexado é o de 2022 (ago/2022–jan/2023); FGV realizou debates "Democracia e Eleições 2026" (EAESP, 15/09/2026) e na Direito Rio (28/09/2026), sem relatório de redes localizado — [FGV EAESP](https://eaesp.fgv.br/node/13818); [MPF/PRR2](https://www.mpf.mp.br/o-mpf/unidades/prr2/noticias/eleicoes-2026-autoridades-discutem-desafios-atuais-da-democracia-no-brasil) | Sem relatório 2026 localizado |
+| Monitor do Debate Político no Meio Digital (USP) | monitordigital.org respondeu 503; nenhuma matéria de 2026 cita o Monitor | Sem relatório 2026 localizado |
+| NetLab/UFRJ | Boletins PDF de 03 e 04/10 publicados; posts "Meta lucra com anúncios irregulares promovidos por redes coordenadas…", "A desconfiança institucional como estratégia política…" e "Nota Técnica: TikTok recomenda conteúdos de candidatos…"; nenhum boletim do 2º turno — [NetLab](https://netlab.eco.ufrj.br/post/observat%C3%B3rio-das-big-techs-boletins-do-1%C2%BA-turno-elei%C3%A7%C3%B5es-2026) | Parcial (PDFs não lidos) |
+| OAB (Observatório das Eleições) | Apresentado ao TSE para monitorar violência política, desinformação e inclusão; relatório prometido ao fim das eleições — [Congresso em Foco](https://www.congressoemfoco.com.br/noticia/120904/oab-apresenta-ao-tse-observatorio-para-acompanhar-eleicoes-de-2026) | Relatório ainda não publicado |
+
+### Lacunas que permanecem
+
+- **Séries do Google Trends por tema (12 meses e 90 dias)**: explore OK, multiline bloqueado por 429; nenhuma matéria de imprensa publicou Trends de "6x1", "Banco Master", "Enel", "Bolsa Família", "isenção IR", "INSS", "gasolina", "conta de luz", "anistia" ou "Moraes" em 2026. Recomenda-se consulta manual às URLs da T3 (ou API alfa do Trends) antes do fechamento.
+- **Volumes de X/Twitter (posts/menções) 2026** da Bites, Quaest ou Palver: não localizados além dos já citados (Bites/R7 pós-debate: 1,7 mi de citações; menções Flávio 426 mil x Lula 288 mil). Não existe "Quaest digital" localizável.
+- **Palver — ranking de temas** mais compartilhados em grupos políticos em 2026: não publicado; só recortes por candidato (mar e ago/2026) e o "Caiu no Zap" (Aláfia/UFF).
+- **TSE — total consolidado de remoções/ordens em 2026** e número do "Fato ou Boato" 2026: inexistentes até 21/10; só "ocorrências" (2,8 mil) e "apontamentos" (453).
+- **Datafolha "principal problema" 2022** (e tabela única 2010–2026): não localizado; a série continua montada por matérias dispersas (2014, 2015, 2016, 2018, 2019, 2021, 2023, dez/2025, mar/2026, out/2026).
+- **Quaest do 2º turno (21/10/2026)** com temas que decidem o voto: não localizada nesta rodada (o RSS do Trends mostra "quaest" com 20 mil+ buscas na manhã de 21/10, indicando divulgação iminente/recente).
+- **Vídeos mais vistos no YouTube/TikTok em 2026** com números verificados em página lida: só snippets (Pavanato/Flávio >19 mi; Lula >100 mi somados em >30 vídeos); audiência do debate da Band de 18/10 não localizada.
+- **Meta Ad Library — total consolidado de outubro/2026 por partido**: não publicado; os recortes disponíveis terminam em 19/09 (perfis) e 26/07 (partidos).
+- **Nº de famílias do Bolsa Família em out/2026** (MDS) e **ANP preço médio da gasolina em out/2026** (listagem oficial lida só até a síntese nº 20, de 18/05/2026; páginas 2–3 da listagem não lidas).
+- **Lupa/VigIA do 2º turno** e **balanço da ElevenLabs**: não publicados até 21/10.
+- Temas sem nenhum dado novo nesta rodada por falta de orçamento de busca: ta-002 (Contenção), ta-013 (idade de Lula), ta-015 (armas), ta-017 (COP30/IOF/BRICS); ta-008 (6x1) sem dado oficial novo.
