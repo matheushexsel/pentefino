@@ -436,3 +436,339 @@ A desinformação de 2026 concentrou-se em urnas (pausa de ~50 min na divulgaç�
 - A tarefa menciona diplomação em "19/dez" e posse em "1º/jan/2027"; as fontes indicam diplomação até 18/12 e posse em 5/1/2027 (EC 111/2021). Recomenda-se confirmar no calendário oficial do TSE (acesso bloqueado nesta pesquisa).
 - Páginas de Estadão Verifica, UOL Confere e g1 Fato ou Fake não puderam ser acessadas; suas checagens de 2026 não estão catalogadas aqui.
 - Não foi localizada informação sobre a participação das Forças Armadas na fiscalização das urnas em 2026 (em 2022 houve relatório próprio); verificar.
+
+---
+
+## Enriquecimento — rodada 2 (21/10/2026)
+
+Nota de método da rodada: pesquisa feita em 21/10/2026 (tarde). Prioridade a fontes primárias acessadas diretamente: **dados abertos do TSE** (arquivos CSV de `cdn.tse.jus.br`, gerados em 21/10/2026: `detalhe_votacao_munzona_2026` 05:31, `votacao_partido_munzona_2026` e `votacao_candidato_munzona_2026` 08:32, `prestacao_de_contas_eleitorais_candidatos_2026` 04:05; `perfil_eleitorado_2026` gerado em 14/07/2026), **API de Dados Abertos da Câmara** e **API do Senado** (consultadas em 21/10/2026). Portais `tse.jus.br`, `resultados.tse.jus.br` (JSON de totalização), `divulgacandcontas.tse.jus.br`, Poder360, Band e Planalto (EC 111) bloquearam o acesso automatizado (403/503/NoSuchKey). O orçamento de busca na web foi esgotado no meio da rodada; a partir daí só foram usados endereços conhecidos. Todos os cálculos de percentual sobre os CSVs do TSE são próprios e reproduzíveis (válidos = `QT_TOTAL_VOTOS_VALIDOS`; abstenção = `QT_ABSTENCOES/QT_APTOS`).
+
+### Lacunas fechadas
+
+**1. Totalização oficial do 1º turno (presidente) em fonte primária do TSE** — os números republicados pela imprensa (seção 1) conferem exatamente com os dados abertos do TSE (arquivo `detalhe_votacao_munzona_2026_BRASIL.csv`, gerado 21/10/2026 05:31, 1º turno, cargo Presidente, soma de todas as zonas incluindo exterior):
+
+| Indicador | Valor | % |
+|---|---|---|
+| Eleitores aptos | 158.745.502 | — |
+| Comparecimento | 125.275.835 | 78,92% dos aptos |
+| Abstenção | 33.469.244 | 21,08% dos aptos |
+| Votos válidos (nominais) | 119.300.788 | 95,23% dos votos |
+| Brancos | 2.300.798 | 1,84% |
+| Nulos (total) | 3.674.249 | 2,93% (dos quais 5.246 "nulos técnicos") |
+| Votos anulados / sub judice (presidente) | 0 | — |
+| Seções totais / não instaladas | 517.179 / 41 | — |
+
+Fonte: [TSE, dados abertos, detalhe da votação por município e zona 2026](https://cdn.tse.jus.br/estatistica/sead/odsele/detalhe_votacao_munzona/detalhe_votacao_munzona_2026.zip) (acesso 21/10/2026). Votos por candidato (arquivo `votacao_candidato_munzona_2026`, mesma data): Flávio Bolsonaro (PL, nº 22) 56.104.503 (47,03%); Lula (PT, nº 13) 53.879.538 (45,16%); Augusto Cury (Avante, 70) 3.448.569 (2,89%); Renan Santos (Missão, 14) 2.675.887 (2,24%); Ronaldo Caiado (PSD, 55) 2.605.148 (2,18%); Zema (Novo, 30) 326.488 (0,27%); Samara (UP, 80) 122.911 (0,10%); Hertz Dias (PSTU, 16) 43.103 (0,04%); Clariana Barão (DC, 27) 40.043 (0,03%); Edmilson Costa (PCB, 21) 22.693 (0,02%); Wilson Grassi (Democrata, 35) 16.881 (0,01%); Rui Costa Pimenta (PCO, 29) 15.024 (0,01%). Situação: Flávio e Lula "2º TURNO"; os demais "NÃO ELEITO". Nenhum candidato do PRTB (Marçal/Avalanche) consta no arquivo de votação — [TSE, votação por candidato 2026](https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2026.zip).
+
+**2. Resultado do 1º turno por UF e por região (lacuna da seção 1 e da checagem `eleicao-2026-resultado-primeiro-turno`)** — cálculo próprio sobre `detalhe_votacao_munzona_2026` (aptos, comparecimento, abstenção, válidos, brancos, nulos) e `votacao_partido_munzona_2026` (votos nominais por partido, cargo Presidente; para presidente os votos do partido equivalem aos do candidato), ambos gerados em 21/10/2026:
+
+| UF | Aptos | Abst. % | Válidos | Brancos | Nulos | Flávio (PL) | % | Lula (PT) | % | Cury | Renan | Caiado | Zema |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| AC | 613.742 | 20,43 | 469.066 | 5.579 | 13.685 | 302.807 | 64,56 | 134.770 | 28,73 | 13.523 | 7.980 | 8.594 | 573 |
+| AL | 2.442.126 | 20,63 | 1.818.856 | 33.712 | 85.860 | 735.718 | 40,45 | 995.459 | 54,73 | 42.427 | 26.851 | 14.198 | 1.168 |
+| AM | 2.798.611 | 20,16 | 2.170.763 | 24.402 | 39.384 | 976.764 | 45,00 | 1.046.996 | 48,23 | 77.531 | 35.411 | 28.310 | 1.781 |
+| AP | 576.988 | 17,41 | 464.858 | 4.415 | 7.289 | 212.278 | 45,67 | 212.503 | 45,71 | 19.057 | 11.342 | 8.304 | 341 |
+| BA | 11.312.752 | 19,97 | 8.560.291 | 154.936 | 338.374 | 2.442.585 | 28,53 | 5.664.771 | 66,17 | 195.451 | 117.518 | 122.705 | 6.497 |
+| CE | 6.996.545 | 15,52 | 5.617.814 | 103.295 | 189.362 | 1.756.850 | 31,27 | 3.555.263 | 63,29 | 140.524 | 107.587 | 45.604 | 4.310 |
+| DF | 2.258.320 | 18,90 | 1.772.808 | 25.362 | 33.226 | 909.616 | 51,31 | 675.627 | 38,11 | 45.979 | 46.714 | 85.076 | 4.915 |
+| ES | 2.991.650 | 21,37 | 2.251.078 | 43.211 | 57.993 | 1.233.194 | 54,78 | 850.028 | 37,76 | 65.121 | 53.236 | 39.097 | 5.873 |
+| GO | 5.080.590 | 21,83 | 3.827.823 | 45.643 | 98.121 | 2.051.888 | 53,60 | 1.188.880 | 31,06 | 53.849 | 54.105 | 472.041 | 2.672 |
+| MA | 5.183.115 | 19,73 | 4.010.439 | 46.315 | 103.589 | 1.239.040 | 30,90 | 2.566.301 | 63,99 | 84.830 | 60.387 | 50.155 | 4.584 |
+| MG | 16.372.372 | 22,81 | 11.976.235 | 268.302 | 392.737 | 5.777.548 | 48,24 | 5.188.936 | 43,33 | 409.737 | 247.209 | 230.423 | 98.407 |
+| MS | 2.024.430 | 23,87 | 1.490.278 | 21.270 | 29.672 | 873.351 | 58,60 | 516.855 | 34,68 | 39.148 | 31.847 | 23.291 | 2.792 |
+| MT | 2.637.801 | 22,20 | 1.993.288 | 20.756 | 38.089 | 1.298.581 | 65,15 | 581.681 | 29,18 | 40.019 | 33.170 | 33.079 | 2.424 |
+| PA | 6.262.397 | 19,10 | 4.863.172 | 54.203 | 149.129 | 2.163.957 | 44,50 | 2.427.237 | 49,91 | 125.172 | 84.165 | 51.991 | 3.064 |
+| PB | 3.248.531 | 17,38 | 2.513.747 | 52.297 | 117.944 | 831.377 | 33,07 | 1.541.127 | 61,31 | 73.831 | 42.247 | 19.511 | 1.988 |
+| PE | 7.223.450 | 18,17 | 5.601.017 | 109.491 | 200.554 | 1.738.043 | 31,03 | 3.553.971 | 63,45 | 137.960 | 85.865 | 73.176 | 6.060 |
+| PI | 2.704.758 | 17,15 | 2.146.394 | 28.329 | 66.160 | 517.028 | 24,09 | 1.523.710 | 70,99 | 47.692 | 32.274 | 21.629 | 1.357 |
+| PR | 8.613.657 | 20,57 | 6.585.243 | 122.499 | 133.715 | 3.945.345 | 59,91 | 2.054.597 | 31,20 | 205.095 | 177.434 | 171.294 | 17.172 |
+| RJ | 12.857.648 | 23,32 | 9.369.700 | 201.979 | 288.123 | 4.966.844 | 53,01 | 3.693.021 | 39,41 | 247.397 | 211.843 | 199.844 | 21.907 |
+| RN | 2.659.825 | 18,38 | 2.071.898 | 33.172 | 65.943 | 720.493 | 34,77 | 1.237.963 | 59,75 | 57.367 | 35.261 | 16.407 | 1.525 |
+| RO | 1.265.893 | 21,71 | 968.059 | 9.846 | 13.175 | 652.988 | 67,45 | 250.667 | 25,89 | 25.280 | 19.187 | 16.929 | 1.318 |
+| RR | 401.521 | 17,12 | 325.545 | 2.618 | 4.609 | 231.322 | 71,06 | 74.420 | 22,86 | 8.579 | 6.623 | 3.639 | 337 |
+| RS | 8.522.545 | 21,35 | 6.423.046 | 148.339 | 131.518 | 3.573.783 | 55,64 | 2.294.759 | 35,73 | 195.296 | 167.558 | 158.821 | 18.988 |
+| SC | 5.734.651 | 18,95 | 4.500.897 | 69.007 | 78.255 | 3.000.020 | 66,65 | 1.127.168 | 25,04 | 134.273 | 132.795 | 79.911 | 16.718 |
+| SE | 1.740.135 | 17,30 | 1.364.196 | 24.859 | 50.027 | 417.839 | 30,63 | 856.019 | 62,75 | 38.895 | 21.405 | 26.651 | 1.158 |
+| SP | 34.122.892 | 22,54 | 24.882.948 | 632.801 | 916.243 | 12.922.023 | 51,93 | 9.505.413 | 38,20 | 892.368 | 804.310 | 579.571 | 94.635 |
+| TO | 1.182.023 | 18,34 | 930.447 | 8.344 | 26.405 | 469.321 | 50,44 | 404.009 | 43,42 | 22.434 | 12.983 | 20.189 | 595 |
+| ZZ (exterior) | 916.534 | 62,66 | 330.882 | 5.816 | 5.068 | 143.900 | 43,49 | 157.387 | 47,57 | 9.734 | 8.580 | 4.708 | 3.329 |
+
+Fontes: [TSE, detalhe da votação 2026](https://cdn.tse.jus.br/estatistica/sead/odsele/detalhe_votacao_munzona/detalhe_votacao_munzona_2026.zip); [TSE, votação por partido 2026](https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_partido_munzona/votacao_partido_munzona_2026.zip) (ambos gerados 21/10/2026). Confirma a afirmação da seção 1: Flávio venceu em 14 estados + DF (AC, DF, ES, GO, MG, MS, MT, PR, RJ, RO, RR, RS, SC, SP, TO); Lula em 12 (AL, AM, AP, BA, CE, MA, PA, PB, PE, PI, RN, SE) e no exterior. Estado mais apertado: AP (Lula 45,71% x Flávio 45,67%, diferença de 225 votos). Maior vantagem de Flávio: RR (71,06%); de Lula: PI (70,99%). Maior abstenção no país: MS (23,87%), RJ (23,32%), MG (22,81%), SP (22,54%); menor: CE (15,52%), RR (17,12%), PI (17,15%); exterior 62,66%.
+
+Por região (cálculo próprio sobre as mesmas fontes; N = AC, AM, AP, PA, RO, RR, TO; NE = AL, BA, CE, MA, PB, PE, PI, RN, SE; CO = DF, GO, MS, MT; SE = ES, MG, RJ, SP; S = PR, RS, SC):
+
+| Região | Aptos | Abstenção % | Válidos | Flávio (PL) | % | Lula (PT) | % |
+|---|---|---|---|---|---|---|---|
+| Norte | 13.101.175 | 19,43 | 10.191.910 | 5.009.437 | 49,15 | 4.550.602 | 44,65 |
+| Nordeste | 43.511.237 | 18,39 | 33.704.652 | 10.398.973 | 30,85 | 21.494.584 | 63,77 |
+| Centro-Oeste | 12.001.141 | 21,70 | 9.084.197 | 5.133.436 | 56,51 | 2.963.043 | 32,62 |
+| Sudeste | 66.344.562 | 22,70 | 48.479.961 | 24.899.609 | 51,36 | 19.237.398 | 39,68 |
+| Sul | 22.870.853 | 20,46 | 17.509.186 | 10.519.148 | 60,08 | 5.476.524 | 31,28 |
+| Exterior | 916.534 | 62,66 | 330.882 | 143.900 | 43,49 | 157.387 | 47,57 |
+
+Comparação com a pesquisa Indexa/Broadcast de 15/10 (seção 2, totais): Sul 49,2% x 32,1%; Sudeste 43,7% x 41%; Centro-Oeste 58,9% x 27,2%; Nordeste 35,4% x 52,1%; Norte 46,1% x 46,1% — métricas diferentes (totais vs. válidos), não comparáveis diretamente.
+
+**3. Pesquisa Quaest de 21/10/2026 (lacuna da seção 2 e da checagem `pesquisas-eleitorais-erram-sempre`)** — Quaest (Globo/O Globo), campo 17–20/10/2026, 2.154 entrevistados presenciais de 16 anos ou mais, margem 2 p.p., 95% de confiança, registro BR-08535/2026, primeira pesquisa após o debate da Band (18/10): **totais Flávio 45% x Lula 44%**, brancos/nulos/não vota 9%, indecisos 2% (válidos não publicados nas matérias acessadas; cálculo próprio sobre os totais: ~50,6% x ~49,4%); **rejeição: Flávio 52% (54% na rodada de 14/10), Lula 47% (53%)** — queda de Lula fora da margem; **governo Lula: 47% desaprovam x 46% aprovam** (rodada anterior 48% x 45%), não sabe 7%; avaliação negativa 38% (40% na semana anterior), positiva 34% (igual), regular 26% — [Gazeta do Povo, 21/10](https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/quaest-presidente-outubro-2026-segundo-turno-2/); [CNN Brasil, intenção de voto, 21/10 10:19](https://www.cnnbrasil.com.br/eleicoes/quaest-flavio-tem-45-no-2o-turno-lula-44/); [CNN Brasil, rejeição, 21/10](https://www.cnnbrasil.com.br/eleicoes/quaest-flavio-e-rejeitado-por-52-dos-eleitores-lula-por-47/); [CNN Brasil, aprovação, 21/10](https://www.cnnbrasil.com.br/politica/quaest-governo-lula-e-desaprovado-por-47-e-aprovado-por-46-dos-eleitores/). A Gazeta registra como rodada anterior comparável a de 2–3/10 (3.702 entrevistados, BR-02197/2026, Lula 46% x Flávio 45% nos válidos).
+
+**4. Outras pesquisas de 2º turno não constantes da seção 2** (todas Lula x Flávio; listagem da Gazeta do Povo consultada em 21/10 não traz Ipec nem Paraná Pesquisas para presidente — a lacuna sobre esses dois institutos é confirmada, não fechada):
+- PoderData/Aya, campo 13–15/10, divulgada 16/10, 3.000 entrevistados, margem 1,8 p.p., registro BR-04258/2026, contratação própria: **válidos 50% x 50%** (empate numérico) — [Gazeta do Povo, 16/10](https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/poderdata-presidente-outubro-2026-segundo-turno-4/)
+- Gerp, campo 14–16/10, divulgada 16/10, 2.400 entrevistados, margem 2 p.p. (95,55%), registro BR-05187/2026: válidos Flávio 52% x Lula 48%; totais 50% x 45%, "nenhum" 2%, não sabe 3% — [Gazeta do Povo, 16/10](https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/gerp-presidente-outubro-2026-segundo-turno-2/)
+- Meio/Ideia (Canal Meio), campo 15–19/10 (telefônica), divulgada 21/10 07:00, 1.500 entrevistados, margem 2,5 p.p., registro BR-08251/2026: totais Flávio 48% x Lula 46%, branco/nulo 3,4%, não sabe 2,6%; **válidos 51,1% x 48,9%**; evangélicos 69,6% Flávio x 25,9% Lula; católicos 55% Lula x 39,6% Flávio — [Gazeta do Povo, 21/10](https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/meio-ideia-presidente-outubro-2026-segundo-turno/); [CNN Brasil, 21/10](https://www.cnnbrasil.com.br/eleicoes/meio-ideia-flavio-tem-maioria-de-votos-de-evangelicos-lula-dos-catolicos/)
+- Palver, campo 18–20/10, divulgada 21/10 10:15, 5.000 entrevistados, margem 2,4 p.p., registro BR-04612/2026, contratação própria: totais Flávio 50% x Lula 48%, branco/nulo/não vota 1%, indecisos 0% (válidos não publicados; ~51% x ~49% por cálculo próprio) — [Gazeta do Povo, 21/10](https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/palver-presidente-outubro-2026-segundo-turno/)
+- Datafolha de 22/10: ainda não publicada no momento desta rodada (anunciada para a tarde de 22/10, ver seção 2).
+
+**5. Composição atual da Câmara (2023–2027) em fonte oficial (lacuna da seção 7)** — API de Dados Abertos da Câmara, `GET /api/v2/deputados` (513 deputados em exercício, consulta em 21/10/2026): PL 98; PT 66; União 50; PSD 48; PP 47; Republicanos 42; MDB 38; Podemos 27; PSDB 17; PSB 17; PSOL 13; PCdoB 11; PDT 9; PV 6; Novo 5; Avante 5; Solidariedade 4; Rede 3; PRD 3; Cidadania 2; DC 1; Missão 1. Por federação (soma própria): FE Brasil (PT-PCdoB-PV) 83; União Progressista (União-PP) 97; PSDB-Cidadania 19; PSOL-Rede 16; Renovação Solidária (PRD-Solidariedade) 7 — [Câmara, Dados Abertos, deputados em exercício](https://dadosabertos.camara.leg.br/api/v2/deputados?itens=600&ordem=ASC&ordenarPor=nome). Senado em exercício (API do Senado, lista atual, 81 parlamentares, 21/10/2026): PL 15, PSD 14, MDB 9, PT 9, PP 8, PSB 7, Republicanos 6, PSDB 4, União 3, Podemos 3, Avante 1, PDT 1, sem partido 1 — [Senado, Dados Abertos, senadores em exercício](https://legis.senado.leg.br/dadosabertos/senador/lista/atual.json) (confirma a seção 7).
+
+**6. Câmara e Senado eleitos em 2026 a partir do TSE e reconciliação das divergências (seção 6 e `data/partidos.json`)** — arquivo `votacao_candidato_munzona_2026` (gerado 21/10/2026 08:32), campo `DS_SIT_TOT_TURNO`:
+- Deputados federais eleitos: 513 (385 "ELEITO POR QP" + 128 "ELEITO POR MÉDIA"); por partido: **PL 121; PT 70; União 46; PSD 43; Republicanos 41; PP 41; MDB 36; Podemos 27; PSB 15; PSOL 14; PSDB 11; PCdoB 11; Novo 10; PV 7; PDT 6; Avante 5; PRD 5; Solidariedade 2; Missão 1; Rede 1** — idêntico à tabela da CNN (5/10, 14:24) usada na seção 6; a CNN alerta que o TSE ainda não formalizou a eleição em alguns estados e há candidatos sub judice — [TSE, votação por candidato 2026](https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2026.zip); [CNN Brasil, bancadas](https://www.cnnbrasil.com.br/eleicoes/bancada-partidos-camara/). Votos válidos para deputado federal: 113.678.019; por partido (nominais + legenda): PL 25.824.755 (22,72%); PT 14.788.038 (13,01%); PSD 9.391.321 (8,26%); Republicanos 7.911.780 (6,96%); MDB 7.890.384 (6,94%); União 7.858.039 (6,91%); PP 7.611.922 (6,70%); Podemos 5.887.427 (5,18%); PSOL 5.295.721 (4,66%); PSB 5.007.692 (4,41%); Novo 2.914.364 (2,56%); PSDB 2.839.853 (2,50%); PDT 1.868.424 (1,64%); Avante 1.807.942 (1,59%); PV 1.325.500 (1,17%); PCdoB 1.306.368 (1,15%); Missão 1.223.569 (1,08%); PRD 1.189.831 (1,05%); Solidariedade 930.053 (0,82%); Cidadania 291.324 (0,26%); Rede 263.520 (0,23%) — [TSE, votação por partido 2026](https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_partido_munzona/votacao_partido_munzona_2026.zip). (A seção 6 trazia "PL 25,5 milhões, 22,6–22,8%" e "FE Brasil 15,38% ou 14,81%": pelo TSE, PT+PCdoB+PV = 17.419.906 = 15,32%.)
+- Senadores eleitos: 54 ("ELEITO"); por partido: **PL 19; MDB 7; PT 6; PP 3; PSB 3; União 3; Novo 3; PSD 2; Podemos 2; PSDB 2; Republicanos 2; PDT 1; Rede 1** (confirma Agência Brasil). Lista por UF (nome de urna, partido, votos nominais): AC Marcio Bittar (PL) 223.972, Mara Rocha (Republicanos) 157.104; AL Arthur Lira (PP) 948.703, Marina JHC (PSDB) 926.860; AM Eduardo Braga (MDB) 1.240.471, Plinio Valério (PSDB) 948.793; AP Rayssa Furlan (Podemos) 264.799, Lucas Barreto (PSD) 213.948; BA Rui Costa (PT) 4.335.196, Jaques Wagner (PT) 3.986.690; CE Cid Gomes (PSB) 3.033.562, Luizianne (Rede) 2.822.806; DF Michelle Bolsonaro (PL) 938.496, Bia Kicis (PL) 886.616; ES Renato Casagrande (PSB) 995.361, Evair de Melo (Republicanos) 982.978; GO Gustavo Gayer (PL) 1.639.247, Gracinha Caiado (União) 1.458.522; MA Fufuca (PP) 1.530.187, Lahesio Bonfim (Novo) 1.471.859; MG Domingos Sávio (PL) 4.968.829, Marília Campos (PT) 3.990.864; MS Reinaldo Azambuja (PL) 903.554, Capitão Contar (PL) 856.045; MT Mauro Mendes (União) 1.187.352, Zé Medeiros (PL) 977.777; PA Helder (MDB) 2.342.070, Chicão (União) 2.014.409; PB João Azevêdo (PSB) 1.391.994, Veneziano (MDB) 974.550; PE Humberto Costa (PT) 2.531.389, Marília Arraes (PDT) 2.325.127; PI Marcelo Castro (MDB) 1.307.833, Júlio César "o Julim do Lula" (PSD) 989.146; PR Filipe Barros (PL) 3.148.583, Deltan Dallagnol (Novo) 2.904.594; RJ Carlos Portinho (PL) 4.264.932, Carlos Jordy (PL) 3.912.405; RN Styvenson Valentim (Podemos) 1.055.000, Samanda de Lula (PT) 635.924; RO Dr. Fernando Máximo (PL) 570.799, Bruno Scheid (PL) 474.226; RR Nicoletti (PL) 138.269, Teresa Surita (MDB) 117.270; RS Sanderson (PL) 3.453.316, Marcel van Hattem (Novo) 3.449.053; SC Carol de Toni (PL) 2.694.918, Carlos Bolsonaro (PL) 2.041.840; SE Rogério Carvalho (PT) 511.142, Delegado Alessandro (MDB) 399.775; SP Guilherme Derrite (PP) 13.273.880, André do Prado (PL) 12.703.089; TO Eduardo Gomes (PL) 450.191, Alexandre Guimarães (MDB) 316.786 — [TSE, votação por candidato 2026](https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2026.zip); lista coincide nome a nome com [Brasil de Fato, 5/10](https://www.brasildefato.com.br/2026/10/05/dominio-da-direita-no-senado-veja-os-eleitos-e-como-fica-a-casa-em-2027/). Confirma: PL levou as duas vagas em DF, MS, RJ, RO e SC.
+- **Senado 2027 reconciliado (54 eleitos pelo TSE + 27 mandatos 2023–2031 que continuam)**. Os 27 que continuam, segundo a lista de titulares da 58ª legislatura da API do Senado (filiação atual; consulta 21/10/2026): PL 9 (Magno Malta-ES, Wilder Morais-GO, Wellington Fagundes-MT, Efraim Filho-PB, Sergio Moro-PR, Rogerio Marinho-RN, Jaime Bagattoli-RO, Jorge Seif-SC, Astronauta Marcos Pontes-SP); PT 4 (Camilo Santana-CE, Beto Faro-PA, Teresa Leitão-PE, Wellington Dias-PI); Republicanos 4 (Alan Rick-AC, Damares Alves-DF, Cleitinho-MG, Hamilton Mourão-RS); PP 3 (Tereza Cristina-MS, Dr. Hiran-RR, Laércio Oliveira-SE); PSD 2 (Omar Aziz-AM, Otto Alencar-BA); União 2 (Davi Alcolumbre-AP, Professora Dorinha-TO); MDB 1 (Renan Filho-AL); PSB 1 (Flávio Dino-MA, titular licenciado/STF); sem partido 1 (Romário-RJ) — [Senado, Dados Abertos, lista por legislatura 58](https://legis.senado.leg.br/dadosabertos/senador/lista/legislatura/58.json). Soma (cálculo próprio): **PL 28; PT 10; MDB 8; PP 6; Republicanos 6; União 5; PSD 4; PSB 4; Novo 3; Podemos 2; PSDB 2; PDT 1; Rede 1; sem partido 1 = 81**. Logo: PL 28 (Agência Brasil), não 29 (Wikipédia); PT 10 (Wikipédia; o 9 da Agência Brasil provavelmente exclui Wellington Dias, licenciado); União 5 e Republicanos 6 (Agência Brasil), não 6 e 5 (Brasil de Fato); PSD 4 (Wikipédia), não 5. Ressalvas: Cleitinho (Republicanos-MG) e Sergio Moro (PL-PR) foram eleitos governadores e deixarão as cadeiras a suplentes em 2027; Omar Aziz (PSD-AM) e Dorinha (União-TO) disputam o 2º turno para governador; Camilo Santana e Wellington Dias são ministros licenciados; a lista da API ainda não registra o novo mandato de 14 dos 54 eleitos em 2026 (reeleitos), por isso o total de titulares com mandato na 58ª legislatura aparece como 67 e não 81.
+
+**7. Governadores em fonte primária do TSE (seção 6)** — `votacao_candidato_munzona_2026` (gerado 21/10/2026), 1º turno, % sobre os válidos de cada UF (cálculo próprio):
+
+| UF | Válidos | 1º colocado | % | Situação TSE | 2º colocado | % |
+|---|---|---|---|---|---|---|
+| AC | 439.647 | Mailza Assis (PP) 218.760 | 49,76 | 2º turno | Alan Rick (Republicanos) 141.859 | 32,27 |
+| AL | 1.709.614 | JHC (PSDB) 892.484 | 52,20 | Eleito | Renan Filho (MDB) 809.796 | 47,37 |
+| AM | 2.071.985 | Omar Aziz (PSD) 841.846 | 40,63 | 2º turno | Professora Maria do Carmo (PL) 507.335 | 24,49 |
+| AP | 448.747 | Dr. Furlan (PSD) 281.595 | 62,75 | Eleito | Clécio (União) 165.900 | 36,97 |
+| BA | 8.291.090 | Jerônimo Rodrigues (PT) 4.626.509 | 55,80 | Eleito | ACM Neto (União) 3.625.227 | 43,72 |
+| CE | 5.406.095 | Elmano de Freitas (PT) 2.875.573 | 53,19 | Eleito | Ciro Gomes (PSDB) 2.498.891 | 46,22 |
+| DF | 1.651.394 | Celina Leão (PP) 825.530 | 49,99 | 2º turno | Leandro Grass (PT) 569.930 | 34,51 |
+| ES | 2.112.171 | Lorenzo Pazolini (Republicanos) 1.048.633 | 49,65 | 2º turno | Ricardo Ferraço (MDB) 719.397 | 34,06 |
+| GO | 3.630.576 | Daniel Vilela (MDB) 2.148.218 | 59,17 | Eleito | Wilder Morais (PL) 797.141 | 21,96 |
+| MA | 3.846.156 | Eduardo Braide (PSD) 2.104.122 | 54,71 | Eleito | Orleans Brandão (MDB) 1.354.044 | 35,21 |
+| MG | 11.410.371 | Cleitinho Azevedo (Republicanos) 6.321.590 | 55,40 | Eleito | Patrus Ananias (PT) 3.006.088 | 26,35 |
+| MS | 1.363.298 | Eduardo Riedel (PP) 914.323 | 67,07 | Eleito | Fábio Trad (PT) 322.807 | 23,68 |
+| MT | 1.856.293 | Otaviano Pivetta (Republicanos) 1.128.099 | 60,77 | Eleito | Wellington Fagundes (PL) 430.442 | 23,19 |
+| PA | 4.564.841 | Dr. Daniel (Podemos) 2.345.721 | 51,39 | Eleito | Hana Ghassan (MDB) 2.125.084 | 46,55 |
+| PB | 2.286.622 | Lucas Ribeiro (PP) 1.470.252 | 64,30 | Eleito | Efraim Filho (PL) 552.836 | 24,18 |
+| PE | 5.266.852 | Raquel Lyra (PSD) 2.805.438 | 53,27 | Eleito | João Campos (PSB) 2.360.469 | 44,82 |
+| PI | 2.021.200 | Rafael Fonteles (PT) 1.436.697 | 71,08 | Eleito | Joel Rodrigues (PP) 557.972 | 27,61 |
+| PR | 6.242.274 | Sergio Moro (PL) 3.127.911 | 50,11 | Eleito | Sandro Alex (PSD) 1.583.764 | 25,37 |
+| RJ | 8.394.627 | Douglas Ruas (PL) 4.271.199 | 50,88 | Eleito | Eduardo Paes (PSD) 3.706.984 | 44,16 |
+| RN | 1.986.441 | Allyson (União) 733.809 | 36,94 | 2º turno | Cadu de Lula (PT) 718.300 | 36,16 |
+| RO | 945.058 | Marcos Rogério (PL) 537.370 | 56,86 | Eleito | Adailton Furia (PSD) 189.547 | 20,06 |
+| RR | 319.336 | Arthur Henrique (PL) 220.809 | 69,15 | Eleito | Soldado Sampaio (Republicanos) 93.434 | 29,26 |
+| RS | 6.055.306 | Zucco (PL) 3.516.048 | 58,07 | Eleito | Juliana Brizola (PDT) 1.917.374 | 31,66 |
+| SC | 4.265.641 | Jorginho Mello (PL) 2.942.386 | 68,98 | Eleito | Gelson Merísio (PSB) 668.021 | 15,66 |
+| SE | 1.189.927 | Fábio Mitidieri (PSD) 727.291 | 61,12 | Eleito | Valmir de Francisquinho (Republicanos) 459.908 | 38,65 |
+| SP | 23.130.513 | Tarcísio (Republicanos) 14.491.874 | 62,65 | Eleito | Fernando Haddad (PT) 8.423.656 | 36,42 |
+| TO | 848.629 | Professora Dorinha (União) 386.260 | 45,52 | 2º turno | Vicentinho Júnior (PSDB) 372.848 | 43,94 |
+
+Fonte: [TSE, votação por candidato 2026](https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2026.zip); situação "ELEITO"/"2º TURNO" é o campo oficial `DS_SIT_TOT_TURNO`. Confirma os 6 segundos turnos (AC, AM, DF, ES, RN, TO) e os 21 eleitos no 1º turno. No RJ o arquivo já não traz Anthony Garotinho (os 274.411 votos anulados em 8/10 não constam dos válidos), e Ruas aparece como "ELEITO" com 50,88%. Votos "anulados sub judice" para governador registrados pelo TSE: MA 48.924 (PRTB), SE 37.081 (PSOL), PI 4.256, RS 2.137, PA 1.987, DF 1.843, PR 1.525, RN 227, RR 77 — [TSE, detalhe da votação 2026](https://cdn.tse.jus.br/estatistica/sead/odsele/detalhe_votacao_munzona/detalhe_votacao_munzona_2026.zip). Saldo partidário dos 21 eleitos no 1º turno (contagem própria): PL 6 (PR, RJ, RO, RR, RS, SC); PSD 4 (AP, MA, PE, SE); PT 3 (BA, CE, PI); Republicanos 3 (MG, MT, SP); PP 2 (MS, PB); MDB 1 (GO); Podemos 1 (PA); PSDB 1 (AL) — igual à seção 6. Contexto adicional: o arquivo de configuração de `resultados.tse.jus.br` lista uma "Eleição Suplementar – Roraima" para governador em 21/06/2026 (códigos 6278/6279), o que explica a menção da Terra a "análise judicial" em RR — [TSE, ele-c.json](https://resultados.tse.jus.br/oficial/comum/config/ele-c.json) (acesso 21/10/2026; conteúdo não detalhado).
+
+**8. Perfil do eleitorado 2026 (TSE, `perfil_eleitorado_2026`, gerado 14/07/2026; soma própria dos 28 arquivos por UF, inclusive exterior)** — total 158.745.463 eleitores (39 a menos que os 158.745.502 aptos na totalização de 4/10, por datas de corte diferentes):
+
+| Recorte | Eleitores | % |
+|---|---|---|
+| Mulheres | 83.877.126 | 52,84 |
+| Homens | 74.845.001 | 47,15 |
+| Gênero não informado | 23.336 | 0,01 |
+| 16 anos | 606.603 | 0,38 |
+| 17 anos | 1.027.641 | 0,65 |
+| 18 a 20 anos | 6.719.115 | 4,23 |
+| 21 a 24 anos | 10.869.138 | 6,85 |
+| 25 a 29 anos | 14.990.259 | 9,44 |
+| 30 a 34 anos | 15.178.204 | 9,56 |
+| 35 a 39 anos | 15.262.815 | 9,61 |
+| 40 a 44 anos | 15.994.391 | 10,08 (maior faixa) |
+| 45 a 49 anos | 15.271.754 | 9,62 |
+| 50 a 54 anos | 13.253.883 | 8,35 |
+| 55 a 59 anos | 12.112.911 | 7,63 |
+| 60 a 64 anos | 11.164.875 | 7,03 |
+| 65 a 69 anos | 9.040.747 | 5,70 |
+| 70 anos ou mais (voto facultativo) | 17.251.915 | 10,87 |
+| Analfabeto | 5.519.686 | 3,48 |
+| Lê e escreve | 9.623.112 | 6,06 |
+| Fundamental incompleto | 33.604.061 | 21,17 |
+| Fundamental completo | 9.723.908 | 6,13 |
+| Médio incompleto | 28.891.452 | 18,20 |
+| Médio completo | 44.292.209 | 27,90 (maior grupo) |
+| Superior incompleto | 9.033.880 | 5,69 |
+| Superior completo | 18.037.161 | 11,36 |
+| Com biometria | 141.301.540 | 89,01 |
+| Pessoas com deficiência | 1.970.165 | 1,24 |
+| Com nome social | 38.472 | 0,02 |
+| Estado civil: solteiros / casados | 95.980.421 / 50.504.826 | 60,46 / 31,81 |
+| Raça/cor (campo facultativo): não informado | 126.004.656 | 79,38 (parda 10,67; branca 7,36; preta 2,26; indígena 0,18; amarela 0,14) |
+| Eleitores no exterior (ZZ) | 918.876 | 0,58 |
+
+Fonte: [TSE, dados abertos, perfil do eleitorado 2026](https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitorado/perfil_eleitorado_2026.zip) (acesso 21/10/2026). Confere o número de 141.301.540 (89,01%) com biometria da seção 1. Jovens de 16–17 anos: 1.634.244 (1,03%).
+
+**9. Abstenção histórica em eleições presidenciais, 1º turno, 1989–2026 (lacuna "abstenção recorde", seção 1)**:
+
+| Ano | Aptos | Abstenção | % | Fonte |
+|---|---|---|---|---|
+| 1989 | 82.074.718 | 9.784.502 | 11,92 (2º turno: 14,39) | [Wikipédia pt, Eleição presidencial 1989](https://pt.wikipedia.org/wiki/Elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_1989) (referência primária não visível no trecho lido) |
+| 1994 | 94.782.803 | 16.834.339 | 17,77 | [Wikipédia pt, 1994, citando TSE](https://pt.wikipedia.org/wiki/Elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_1994) |
+| 1998 | — | ~22,8 milhões | 21,49 | [Correio 24 Horas, 4/10/2026, citando TSE](https://www.correio24horas.com.br/eleicoes/primeiro-turno-registra-recorde-de-eleitores-ausentes-com-mais-de-33-milhoes-sem-votar-1026) |
+| 2002 | 115.253.816 | 20.448.233 | 17,74 (2º turno: 20,47) | [Wikipédia pt, 2002, citando TSE](https://pt.wikipedia.org/wiki/Elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2002) |
+| 2006 | — | — | 16,75 | Correio 24 Horas (TSE) |
+| 2010 | — | — | 18,12 | idem |
+| 2014 | — | — | 19,39 | idem |
+| 2018 | — | — | 20,33 | idem |
+| 2022 | — | 32.770.982 | 20,95 | idem (balanço final do TSE) |
+| 2026 | 158.745.502 | 33.469.244 | 21,08 | [TSE, dados abertos 2026](https://cdn.tse.jus.br/estatistica/sead/odsele/detalhe_votacao_munzona/detalhe_votacao_munzona_2026.zip) |
+
+Leitura: 2026 é recorde **em número absoluto** de ausentes (33,47 milhões) e o maior percentual desde 1998, mas **não** o maior percentual da série (1998: 21,49%) — [Correio 24 Horas, 4/10/2026](https://www.correio24horas.com.br/eleicoes/primeiro-turno-registra-recorde-de-eleitores-ausentes-com-mais-de-33-milhoes-sem-votar-1026). A série de brancos e nulos de 1994 (brancos 9,23%, nulos 9,55%) e 2002 (3,03% e 7,36%) mostra que os 1,84% de brancos e 2,93% de nulos de 2026 estão entre os menores da série (fontes acima).
+
+**10. Voto de presos provisórios e adolescentes internados (seção 3, frase "73% dos presidiários")** — contexto numérico: 200,4 mil presos provisórios no país (CNJ/BNMP, abr/2026) e 11.680 adolescentes em meio fechado (CNJ, jan/2025); em 2022 havia ~13 mil presos aptos e 3% votaram (12,9 mil pessoas, segundo o TSE/DPU); em 2024 os aptos caíram para 6 mil (OAB-SP); prazo de alistamento/transferência em 2026: 6/5; em 23/4/2026 o TSE decidiu, por unanimidade, que a restrição ao voto de presos da Lei 15.358/2026 (Lei Antifacção / Raul Jungmann) não vale para 4/10/2026 pelo princípio da anualidade — [Agência Brasil, 28/4/2026](https://agenciabrasil.ebc.com.br/justica/noticia/2026-04/direito-voto-entre-pessoas-reclusas-nao-e-efetivo-no-brasil); [TNH1/Agência Senado, 13/9/2026](https://www.tnh1.com.br/noticia/nid/com-proibicao-suspensa-pelo-tse-presos-provisorios-votarao-em-2026/); [Diário do Pará, 18/9/2026](https://diariodopara.com.br/eleicoes-2026/mais-de-200-mil-presos-provisorios-poderao-votar-nas-eleicoes-2026-entenda-o-que-muda/). O número de habilitados em 2026 (um resumo de busca atribuiu ao TSE "12.814") não foi confirmado em nenhuma página acessada — permanece lacuna. O resultado nas seções prisionais (Lula 72,57% x Flávio 23,29%, 11.186 votos) já consta da seção 3 (Lupa, 18/10).
+
+**11. Eduardo Bolsonaro — detalhes da cassação e das condenações (seções 1 e 8)**: Mesa Diretora da Câmara (presidida por Hugo Motta) cassou o mandato em **18/12/2025**, atos publicados em edição extra do Diário da Câmara, por faltas acima de 1/3 das sessões deliberativas; registros oficiais citados: 63 faltas em 78 sessões de 2025 (~81%); licença de 18/3 a 20/7/2025, depois permaneceu nos EUA; Motta antecipou a apuração normalmente feita em março; suplente que assumiu: Missionário José Olímpio; em set/2025 Motta já havia recusado sua indicação para líder da Minoria — [Conjur, 18/12/2025](https://www.conjur.com.br/?p=880130); [Tribuna de Jundiaí](https://tribunadejundiai.com.br/politica/camara-cassa-mandato-de-eduardo-bolsonaro-por-excesso-de-faltas/); [Wikipédia pt, Eduardo Bolsonaro](https://pt.wikipedia.org/wiki/Eduardo_Bolsonaro). STF (Primeira Turma, relator Moraes): denúncia da PGR por coação no curso do processo em 22/9/2025 (com Paulo Figueiredo), aceita em 14/11/2025; condenação em **16/6/2026 a 4 anos e 2 meses em regime semiaberto + 50 dias-multa (~R$ 162 mil)**, com inelegibilidade de 12 anos (até 2038); recurso rejeitado por unanimidade em 18/9/2026; em 25/9/2026 o STF o condenou por difamação contra Tabata Amaral (7 x 3; 1 ano de detenção e multa > R$ 80 mil); demitido da PF (escrivão) em 21/9/2026 após PAD por abandono de cargo; a Wikipédia pt não menciona green card (diz que, com o passaporte diplomático cancelado, ele falou em pedir passaporte apátrida) — divergência com a Lupa (seção 3), que fala em green card — [Wikipédia pt, Eduardo Bolsonaro](https://pt.wikipedia.org/wiki/Eduardo_Bolsonaro).
+
+**12. Jair Bolsonaro — as duas condenações do TSE (seção 8)**: (a) **30/6/2023**, 5 x 2, inelegibilidade de 8 anos por abuso de poder político e uso indevido dos meios de comunicação na reunião com embaixadores (Alvorada, 18/7/2022); Braga Netto absolvido por unanimidade — [Movimento Econômico, 30/6/2023](https://movimentoeconomico.com.br/economia/justica/2023/06/30/tse-forma-maioria-para-tornar-bolsonaro-inelegivel-assista/); [WEAR/AP, 30/6/2023](https://weartv.com/news/nation-world/lulabrazils-electoral-court-bans-jiar-bolsonaro-from-office-until-2030-citing-abuse-of-power-election-fraud-electronic-voting-system-politics-brasilia-presidential-palace-disinformation-foreign-ambassadors-criminal-conviction-uprising-insurrection); (b) **31/10/2023**, 5 x 2, abuso de poder político no uso eleitoral das comemorações do 7 de Setembro de 2022 (Bicentenário); multa de R$ 425,6 mil a Bolsonaro e R$ 212,8 mil a Braga Netto, também declarado inelegível; ações do PDT e da senadora Soraya Thronicke; a segunda condenação não amplia o prazo (inelegível até 2/10/2030) mas dificulta reverter a primeira — [Correio Braziliense, 31/10/2023](https://www.correiobraziliense.com.br/webstories/flipar/2023/11/6054284-tse-declara-bolsonaro-inelegivel-de-novo-e-condena-braga-netto.html); [CartaCapital](https://www.cartacapital.com.br/?p=380540).
+
+**13. STF — situação da vaga (seção 8)**: nenhuma fonte acessada em 21/10/2026 registra nova indicação para a cadeira de Barroso após a rejeição de Messias (29/4/2026, 42 x 34, 1 abstenção); Lula disse em 29/5/2026 que pretende reindicá-lo; a Wikipédia pt lista Messias como AGU "até a atualidade" — [Wikipédia pt, Jorge Messias](https://pt.wikipedia.org/wiki/Jorge_Messias). Composição e datas de posse confirmadas para Gilmar Mendes (20/6/2002), Cármen Lúcia (21/6/2006), Toffoli (23/10/2009), Fux (3/3/2011), Fachin (16/6/2015), Moraes (22/3/2017) — [Wikipédia pt, STF](https://pt.wikipedia.org/wiki/Supremo_Tribunal_Federal) (tabela truncada antes dos demais ministros).
+
+**14. Gastos declarados pelos presidenciáveis (lacuna de `data/candidatos.json`: "DivulgaCandContas não consultado")** — o portal DivulgaCandContas bloqueou o acesso, mas os mesmos dados estão nos dados abertos do TSE (`prestacao_de_contas_eleitorais_candidatos_2026`, gerado 21/10/2026 04:05; cargo Presidente; soma própria de `VR_RECEITA`, `VR_DESPESA_CONTRATADA` e `VR_PAGTO_DESPESA`; valores em R$, parciais e sujeitos a retificação):
+
+| Candidato | Receitas declaradas | Principais origens | Despesas contratadas | Despesas pagas | Último relatório |
+|---|---|---|---|---|---|
+| Lula (PT) | 118.432.172,98 | FEFC via partido 115.000.000; pessoas físicas 1.985.927; financiamento coletivo 1.101.823; fundo partidário 341.801 | 65.679.887,48 (serviços de terceiros 40,78 mi; eventos 6,23 mi; advocatícios 4,03 mi; adesivos 3,86 mi; impressos 3,05 mi) | 37.979.919,22 | Relatório financeiro 20/10/2026 (2º turno) |
+| Flávio Bolsonaro (PL) | 95.542.788,10 | FEFC via partido 47.000.000; pessoas físicas 27.274.364; fundo partidário 13.701.241; outros recursos do partido 7.010.000; financiamento coletivo 373.561; origem não identificada 5.001 | 74.570.478,40 (serviços de terceiros 45,53 mi; impulsionamento 9,20 mi; transporte 5,40 mi; adesivos 4,12 mi; advocatícios 3,91 mi) | 67.561.988,40 | Relatório financeiro 17/10/2026 (2º turno) |
+| Ronaldo Caiado (PSD) | 13.353.255,74 | outros recursos do partido 9.165.378; pessoas físicas 2.680.000; fundo partidário 1.499.763 | 22.107.406,50 (produção de rádio/TV 10,0 mi; terceiros 8,20 mi) | 13.107.406,50 | 10/10/2026 |
+| Romeu Zema (Novo) | 5.566.578,61 | fundo partidário 4.300.000; FEFC 500.000; pessoas físicas 310.021 | 5.227.839,62 | 4.960.159,30 | 20/10/2026 |
+| Augusto Cury (Avante) | 4.415.711,48 | fundo partidário 2.304.139; FEFC 1.230.953; recursos próprios 650.033; pessoas físicas 212.062 | 1.506.091,13 (impulsionamento 690 mil) | 1.506.091,13 | 19/10/2026 |
+| Renan Santos (Missão) | 2.815.477,53 | financiamento coletivo 2.489.263; pessoas físicas 306.215 | 1.288.625,19 | 1.288.625,19 | 13/10/2026 |
+| Clariana Barão (DC) | 1.513.500,00 | FEFC 1.500.000 | 998.569,68 | 301.297,18 | Parcial 13/9/2026 |
+| Wilson Grassi (Democrata) | 1.279.136,00 | recursos próprios 1.277.776 | 1.077.925,66 | 1.077.925,66 | 17/10/2026 |
+| Hertz Dias (PSTU) | 1.144.802,16 | FEFC 1.074.389 | 1.051.960,09 | 656.960,09 | 5/10/2026 |
+| Samara Martins (UP) | 443.921,94 | FEFC 361.702; coletivo 82.220 | 651.453,76 | 291.676,42 | 27/9/2026 |
+| Edmilson Costa (PCB) | 28.816,00 | coletivo 14.816; pessoas físicas 14.000 | 26.689,21 | 26.689,21 | 5/10/2026 |
+| Pablo Marçal (PRTB, registro indeferido) | 9.621,53 | pessoas físicas | 0 | 0 | Parcial 28/9/2026 |
+| Rui Costa Pimenta (PCO) | 8.496,00 | coletivo | 250,49 | 250,49 | 28/9/2026 |
+
+Fonte: [TSE, dados abertos, prestação de contas eleitorais — candidatos 2026](https://cdn.tse.jus.br/estatistica/sead/odsele/prestacao_contas/prestacao_de_contas_eleitorais_candidatos_2026.zip) (arquivos `receitas_candidatos_2026_BR.csv`, `despesas_contratadas_candidatos_2026_BR.csv`, `despesas_pagas_candidatos_2026_BR.csv`; acesso 21/10/2026). Leitura: Lula depende quase integralmente do FEFC (97% das receitas); Flávio tem a maior fatia de doações de pessoas físicas (R$ 27,3 mi, 28,5%) e já contratou mais despesas (R$ 74,6 mi x R$ 65,7 mi); Caiado declarou despesas contratadas (R$ 22,1 mi) superiores às receitas (R$ 13,4 mi), o que indica relatório incompleto ou dívidas de campanha — observação própria, não checagem.
+
+**15. Audiência do debate da Band (18/10) e referência de 2022 (seção 2)**: média de 13 pontos e pico de 15 na Grande São Paulo, das 20h15 às 22h11 (medição prévia Kantar Ibope obtida pela coluna F5/Folha); Globo (Fantástico) 12, SBT 5, Record 4; no PNT (15 regiões metropolitanas) também 13 x 12; cada ponto = 199 mil telespectadores na capital paulista; a Globo contestou a medição nos bastidores; consolidado previsto para 19/10 — [A Tarde, 19/10/2026, citando F5/Folha](https://atarde.com.br/televisao/debate-entre-lula-e-flavio-faz-band-bater-recorde-e-superar-a-globo-1406201). Referência histórica: o debate Lula x Bolsonaro de 2º turno na Band em 2022 teve 11,8 de média e 14,5 de pico (Grande SP), abaixo dos 13,1 do debate de 1º turno de 2022; a Globo marcou 14,5 — [O Antagonista, 16/10/2022](https://oantagonista.com.br/ladooa/entretenimento/debate-na-band-perde-publico-em-relacao-ao-primeiro-turno-e-fica-na-vice/).
+
+**16. Regras de IA — Res. TSE 23.732/2024 e 23.755/2026 (seção 10)**: a Res. 23.755, aprovada em 2/3/2026, altera a Res. 23.610/2019 (propaganda). Pontos confirmados em duas fontes secundárias (texto oficial no TSE não acessível — 403): (i) **rotulagem obrigatória** de conteúdo sintético criado ou "significativamente alterado" por IA, "de modo explícito, destacado e acessível", informando a tecnologia usada; no áudio, no início; em imagem, marca d'água e audiodescrição; em impresso, em cada página/face; ajustes menores de qualidade, logos e identidade visual estão isentos (art. 9º-B segundo Migalhas/Politize; "art. 9º-BA" segundo a UFRGS — divergência de numeração entre fontes); (ii) **proibição de deepfakes** para criar/difundir conteúdo falso que favoreça ou prejudique candidatura; (iii) **janela de 72 horas antes até 24 horas depois do fim da votação**: proibido publicar, republicar (mesmo gratuitamente) ou impulsionar conteúdo sintético novo com imagem, voz ou manifestação de candidato ou pessoa pública, ainda que rotulado (§ 3º-A, segundo a UFRGS); (iv) **provedores de IA** não podem ranquear, recomendar, sugerir ou priorizar candidatos/partidos, nem emitir opinião ou preferência eleitoral, nem criar imagens de nudez/conteúdo sexual envolvendo candidato, nem produzir propaganda com violência política de gênero, mesmo a pedido do usuário (§ 1º-C, segundo a UFRGS); (v) **dever de cuidado das plataformas** (planos de conformidade, canais de denúncia para partidos/candidatos, cessar impulsionamento/monetização de conteúdo ilícito detectado); remoção imediata não afasta a multa; (vi) **multa de R$ 5 mil a R$ 30 mil** (art. 57-D da Lei 9.504/1997), além de possível caracterização de abuso de poder/uso indevido dos meios de comunicação (cassação) e inversão do ônus da prova para quem publicou — [Migalhas, 11/5/2026](https://www.migalhas.com.br/quentes/455672/ia-nas-campanhas-eleitorais-2026-veja-o-que-tse-autoriza-ou-proibe); [UFRGS Humanista, 8/6/2026](https://www.ufrgs.br/humanista/?p=29387); [Politize, 5/9/2026](https://www.politize.com.br/?p=76359); [CNN Brasil, 17/1/2026 (regras de 2024: robôs restritos, impulsionamento só por candidatos e sem propaganda negativa, cadastro de plataformas)](https://www.cnnbrasil.com.br/eleicoes/uso-de-ia-e-riscos-da-desinformacao-pautam-regras-para-eleicoes-de-2026/).
+
+**17. Checagens de 2026 sobre o processo eleitoral ainda não catalogadas na seção 10**:
+- Comprova, 8/10/2026: a interrupção na divulgação do 1º turno durou ~50 minutos (de ~19h14 até 20h04), começou com 64,81% dos dados divulgados, afetou só a aba "Brasil" (presidente/vice) e foi causada por "contenção no processamento" pelo volume de dados (nota do TSE de 6/10); os boletins de urna continuaram sendo recebidos; o post original ("caixinha mágica") teve ~6 milhões de visualizações até 6/10 — [Comprova, 8/10](https://projetocomprova.com.br/publicações/interrupcao-na-divulgacao-dos-resultados-nao-afetou-a-totalizacao-dos-votos-no-primeiro-turno-das-eleicoes/)
+- Comprova (2026, sem data na listagem): gráfico com "60% de chance" para Flávio é de site de apostas, não de instituto de pesquisa; golpistas usam o nome da WePink para simular pesquisa e extorquir; post de humor induz eleitor a errar o número na urna; regras para participação em debates — [Comprova, gráfico/apostas](https://projetocomprova.com.br/publicações/grafico-mostra-60-de-chance-para-vitoria-para-flavio-e-de-um-site-de-aposta-nao-de-instituto-de-pesquisas/); [Comprova, WePink](https://projetocomprova.com.br/publicações/golpistas-usam-nome-da-wepink-para-simular-pesquisa-e-extorquir-clientes/); [Comprova, número de urna](https://projetocomprova.com.br/publicações/post-usa-humor-para-levar-eleitor-a-errar-numero-de-urna-no-dia-da-votacao/); [Comprova, debates](https://projetocomprova.com.br/publicações/entenda-as-regras-para-participacao-de-candidatos-em-debates-na-tv/)
+- Aos Fatos, 27/7/2026 — FALSO que o TSE anunciou "novas urnas" para 2026: serão usados a UE2022 e modelos anteriores; inspeção do código-fonte ocorre desde 2002 e entidades credenciadas analisam os programas desde out/2025; o TSE credencia observadores internacionais desde 2022 (mais de 150 em 2022) — [Aos Fatos, 27/7](https://www.aosfatos.org/noticias/tse-novas-urnas-eletronicas-eleicoes/)
+- Lupa, lista de 2026 (com datas): "TSE faz votos sumirem" — ENGANOSO (1/6); "PF abriu o código-fonte e Lula teve 36% em 2022" — FALSO (2/6); "TSE anulou a eleição após fraude em 2 mil urnas" — FALSO (19/6); "site da Smartmatic contradiz o TSE" — não sustentado (29/7); "TSE anunciou novas urnas" — FALSO (31/7); "chips taiwaneses permitem alterar o resultado" — não sustentado (3/8); "hackers invadiram urnas 35 vezes no TPS" — FALSO (31/8); vídeo de Moraes sobre "sala escura" — FORA DE CONTEXTO (9/9). Lista de 2025: "STF e TSE fraudaram 2022" — FALSO (17/2); "gráfico de Musk prova vitória de Bolsonaro" — FALSO (19/2); "Financial Times disse que Biden fraudou 2022" — FALSO (27/2); documentos de Marcos do Val — não provam fraude (28/2); "TSE destruiu urnas para queimar provas" — FALSO (7/3); "Barroso mandou instalar chips" — FALSO (22/8); "Lula só venceu com urna eletrônica" — FALSO (15/12) — [Lupa, 4/10/2026](https://www.agencialupa.org/jornalismo/2026/10/04/urnas-eletronicas-voltam-a-ser-alvo-de-desinformacao-em-2026/)
+- Lupa (contexto histórico): ao menos 26 verificações sobre o código-fonte das urnas entre 2021 e 2024; no 2º turno de 2022 o TSE recebia em média 500 alertas diários de boatos — [Lupa, Lente #130, 5/4/2024](https://agencialupa.substack.com/p/lente-130-como-a-fake-sobre-fraude)
+- Logística do 2º turno (TSE via Agência Brasil, 19/10): 444 seções com endereço alterado (eram 4,3 mil no sábado e 1.116 no domingo), 130 mil eleitores em 22 estados (MG 29.715; PR 17.968; AP 11.614); DF e 4 estados sem alterações; TRE-TO contestou registro de 2 seções em Itaguatins (382 eleitores) — [Agência Brasil, 19/10](https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/2o-turno-130-mil-eleitores-de-22-estados-votarao-em-local-diferente); [Agência Brasil, DF e 4 estados](https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/df-e-outros-4-estados-nao-tiveram-locais-de-votacao-alterados); TRE-RJ definiu em 21/10 as urnas a auditar no 2º turno — [Agência Brasil, 21/10](https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/tre-rj-define-urnas-que-serao-auditadas-no-segundo-turno)
+- Decisões do TSE sobre conteúdo (11–13/10, Agência Brasil, só títulos acessados): corregedor derruba suspensão do canal "Exército do Lula" (11/10); TSE barra anúncios de Lula acusando Flávio de ser contra o fim da 6x1 (11/10); Kassio suspende circulação de jornal sindical a pedido de Flávio (12/10); técnicos do TSE não encontram conteúdo falso no "Exército do Lula" (12/10); Nunes Marques volta a suspender o canal e impõe registro, campanha registra o canal (13/10); TSE ordena remoção de post falso sobre uso de droga em ato pró-Lula (13/10); TSE dá 24 h à Meta sobre igualdade entre campanhas (19/10), Meta nega tratamento desigual (20/10), comitê da Meta aponta falhas de moderação (20/10) — [Agência Brasil, tag TSE](https://agenciabrasil.ebc.com.br/tags/tse); [Agência Brasil, tag TSE, p. 2](https://agenciabrasil.ebc.com.br/tags/tse?page=2); [Agência Brasil, Meta nega](https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/ao-tse-meta-nega-tratamento-desigual-entre-candidaturas-presidenciais); [Agência Brasil, comitê da Meta](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/comite-da-meta-aponta-falhas-de-moderacao-nas-eleicoes-brasileiras)
+
+**18. Séries de aprovação (seção 9) — Lula 2023–2026 e Bolsonaro 2019–2022, mesma métrica Datafolha (ótimo/bom / regular / ruim/péssimo) e Quaest (positiva / regular / negativa; aprova x desaprova)**:
+
+Datafolha — governo Lula 3:
+
+| Campo | Ótimo/bom | Regular | Ruim/péssimo | Aprova x desaprova | Fonte |
+|---|---|---|---|---|---|
+| 29–30/3/2023 | 38 | 30 | 29 | — | [Wikipédia pt, Governo Lula (Popularidade)](https://pt.wikipedia.org/wiki/Governo_Lula_(2023%E2%80%93presente)) |
+| 12–14/6/2023 | 37 | 33 | 27 | — | idem |
+| 12–13/9/2023 | 38 | 30 | 31 | — | idem |
+| 5/12/2023 | 38 | 30 | 30 | — | idem |
+| 19–20/3/2024 | 35 | 33 | 30 | — | idem |
+| 4–13/6/2024 | 36 | 31 | 31 | — | idem |
+| 29–31/7/2024 | 35 | 30 | 33 | — | idem |
+| 7–8/10/2024 | 36 | 29 | 32 | — | idem |
+| 12–13/12/2024 | 35 | 29 | 34 | — | idem |
+| 10–11/2/2025 | 24 | 32 | 41 | — | idem; [Exame, 2/8/2025](https://exame.com/brasil/aprovacao-de-lula-sobe-um-ponto-e-reprovacao-se-mantem-em-40-diz-datafolha/) |
+| 1–3/4/2025 | 29 | 32 | 38 | — | Wikipédia pt |
+| jun/2025 | 28 | 31 | 40 | — | Exame, 2/8/2025 |
+| 29–30/7/2025 | 29 | 29 | 40 | — | Exame, 2/8/2025 (2.004 entrevistas, 130 cidades) |
+| dez/2025 | 32 | 30 | 37 | 49 x 48 | [CartaCapital, 8/3/2026](https://www.cartacapital.com.br/politica/os-indices-de-aprovacao-de-lula-a-7-meses-da-eleicao-segundo-novo-datafolha/) |
+| 3–5/3/2026 (BR-03715/2026) | 32 | 26 | 40 | 47 x 49 | CartaCapital, 8/3/2026 |
+| 12–13/5/2026 (BR-00290/2026) | 30 | 29 | 39 | 45 x 51 | [Poder360, 17/5/2026](https://www.poder360.com.br/poder-governo/51-desaprovam-o-trabalho-de-lula-45-aprovam-diz-datafolha/) |
+| 20–21/5/2026 (BR-07489/2026) | 32 | n/i | 38 | 48 x 48 | [Poder360, 23/5/2026](https://www.poder360.com.br/poder-governo/38-avaliam-governo-lula-ruim-32-bom-datafolha/) |
+| 17–18/6/2026 | 32 | 29 | 38 | 48 x 49 | [O Cafezinho, 20/6/2026 (republicação)](https://www.ocafezinho.com/2026/06/20/aprovacao-de-lula-e-de-48-e-reprovacao-de-49-aponta-datafolha/) |
+| jul/2026 | 32 | n/i | 38 | n/i | [Portal de Prefeitura, 25/7/2026 (republicação)](https://portaldeprefeitura.com.br/bastidores-da-politica/lula-e-aprovado-desaprovado-brasileiros-pesquisa-datafolha/627878/) |
+| 6–8/10/2026 | n/i | n/i | n/i | 48 x 49 | seção 2 (TVT News) |
+
+Quaest/Genial — governo Lula 3 (positiva / regular / negativa; aprova x desaprova quando publicado):
+
+| Campo | Positiva | Regular | Negativa | Aprova x desaprova | Fonte |
+|---|---|---|---|---|---|
+| 10–13/2/2023 | 40 | 24 | 20 | — | [Wikipédia pt, Governo Lula](https://pt.wikipedia.org/wiki/Governo_Lula_(2023%E2%80%93presente)) |
+| 13–16/4/2023 | 36 | 29 | 29 | — | idem |
+| 15–18/6/2023 | 37 | 32 | 27 | — | idem |
+| 10–14/8/2023 | 42 | 29 | 24 | — | idem |
+| 19–22/10/2023 | 38 | 29 | 29 | — | idem |
+| 14–18/12/2023 | 36 | 32 | 29 | — | idem |
+| 25–27/2/2024 | 35 | 28 | 34 | — | idem |
+| 2–6/5/2024 | 33 | 31 | 33 | — | idem |
+| 5–8/7/2024 | 36 | 30 | 30 | — | idem |
+| 25–29/9/2024 | 32 | 33 | 31 | — | idem |
+| 4–9/12/2024 | 33 | 34 | 31 | — | idem |
+| 23–26/1/2025 | 31 | 28 | 37 | 47 x 49 | idem |
+| 27–31/3/2025 | 27 | 29 | 41 | — | idem |
+| 29/5–1/6/2025 | 26 | 28 | 43 | — | idem |
+| jul/2025 (divulgada 16/7) | — | — | — | 43 x 53 | idem |
+| 12–14/9/2025 | 31 | 28 | 38 | — | idem |
+| 2–5/10/2025 | 33 | 27 | 37 | — | idem |
+| 6–9/11/2025 | 31 | 28 | 38 | — | idem |
+| jan/2026 | — | — | — | 47 x 49 | seção 9 |
+| 9–13/4/2026 | — | — | — | 43 x 52 | Wikipédia pt; seção 9 |
+| 10–13/7/2026 (BR-07181/2026) | — | — | — | 48 x 47 | seção 9 (Poder360) |
+| set/2026 | — | — | — | 43 x 50 | seção 9 (Quaest) |
+| 10–13/10/2026 | 34 | n/i | 40 | 45 x 48 | [CNN Brasil, 21/10](https://www.cnnbrasil.com.br/politica/quaest-governo-lula-e-desaprovado-por-47-e-aprovado-por-46-dos-eleitores/) |
+| 17–20/10/2026 (BR-08535/2026) | 34 | 26 | 38 | 46 x 47 | idem |
+
+Datafolha — governo Bolsonaro (série completa disponível na Wikipédia; avaliação geral do governo):
+
+| Campo | Ótimo/bom | Regular | Ruim/péssimo | Fonte |
+|---|---|---|---|---|
+| 2–3/4/2019 | 32 | 33 | 30 | [Wikipédia pt, Pesquisas sobre o governo Bolsonaro](https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_sobre_o_governo_Bolsonaro) |
+| 4–5/7/2019 | 33 | 31 | 33 | idem |
+| 29–30/8/2019 | 29 | 30 | 38 | idem |
+| 5–6/12/2019 | 30 | 32 | 36 | idem |
+| 18–20/3/2020 | 35 | 33 | 26 | idem |
+| 1–3/4/2020 | 33 | 25 | 39 | idem |
+| 27/4/2020 | 33 | 26 | 38 | idem |
+| 25–26/5/2020 | 33 | 22 | 43 | idem |
+| 23–24/6/2020 | 32 | 23 | 44 | idem |
+| 11–12/8/2020 | 37 | 27 | 34 | idem |
+| 8–10/12/2020 | 37 | 29 | 32 | idem |
+| 20–21/1/2021 | 31 | 26 | 40 | idem; [Wikipédia en, Opinion polling Bolsonaro](https://en.wikipedia.org/wiki/Opinion_polling_on_the_Jair_Bolsonaro_presidency) |
+| 15–16/3/2021 | 30 | 24 | 44 | Wikipédia en (avaliação do governo); a Wikipédia pt lista 22/24/54 para a mesma data — ver Correções |
+| 11–12/5/2021 | 24 | 30 | 45 | Wikipédia en |
+| 7–8/7/2021 | 24 | 24 | 51 | Wikipédia en |
+| 13–15/9/2021 | (22/22/54 é a avaliação da gestão da pandemia, não do governo) | | | Wikipédia en |
+| 22–23/3/2022 | 25 | 28 | 46 | Wikipédia en |
+| 19–20/12/2022 | 39 | 24 | 37 | Wikipédia pt e en |
+| Ipec 26–28/8/2022 | 31 | 24 | 43 (aprova 38 x desaprova 57) | Wikipédia en; seção 9 |
+
+Comparação na mesma métrica (ótimo/bom), outubro do ano eleitoral: Bolsonaro não tem Datafolha de out/2022 nas fontes acessadas (Ipec ago/2022: 31%); Lula tem 32% (jul/2026) e 34% positiva na Quaest de 17–20/10/2026. Em "aprova x desaprova" os dois chegam ao fim da campanha com saldo levemente negativo (Lula 46 x 47 Quaest 21/10; 48 x 49 Datafolha 8/10) — inferência sobre as fontes acima.
+
+### Correções a dados existentes
+
+1. **"Abstenção recorde" (seção 1, CartaCapital)**: pelo TSE, 21,08% é recorde em números absolutos (33.469.244) e o maior percentual desde 1998, mas não o maior da série (1998: 21,49%). A frase deve ser qualificada — [Correio 24 Horas, 4/10/2026](https://www.correio24horas.com.br/eleicoes/primeiro-turno-registra-recorde-de-eleitores-ausentes-com-mais-de-33-milhoes-sem-votar-1026); [TSE, dados abertos 2026](https://cdn.tse.jus.br/estatistica/sead/odsele/detalhe_votacao_munzona/detalhe_votacao_munzona_2026.zip).
+2. **Percentuais de governadores (seção 6)** — valores do TSE em 21/10 diferem dos republicados pela Wikipédia en/Terra em 5/10: DF Celina Leão 49,99% (não 49,93%) x Grass 34,51% (não 34,47%); MA Braide 54,71% (não 54,02%); SE Mitidieri 61,12% (não 59,27%); PI Fonteles 71,08% (não 70,90%); PA Dr. Daniel 51,39% (não 51,36%) x Hana 46,55% (não 46,53%); PR Moro 50,11% (não 50,10%); RS Zucco 58,07% (não 58,05%) x Brizola 31,66% (não 31,65%); RR Arthur Henrique 69,15% (não 69,13%); MG Patrus 26,35% (não 26,34%); RJ Ruas 50,88% e Paes 44,16% (a seção 6 trazia 49,27% e 42,76% antes da anulação dos votos de Garotinho; o TSE já aplicou a decisão de 8/10). As diferenças decorrem de apuração ainda parcial e de votos sub judice posteriormente anulados (MA 48.924; SE 37.081) — [TSE, votação por candidato 2026](https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2026.zip).
+3. **Senado 2027 (seção 6 e `data/partidos.json`)**: PL 28 (não 29); PT 10 (não 9); União 5 (não 6); Republicanos 6 (não 5); PSD 4 (não 5) — reconciliação TSE + API do Senado (item 6 acima). Ressalva: dois senadores que continuariam (Cleitinho, Moro) foram eleitos governadores e serão substituídos por suplentes, cujos partidos não foram verificados.
+4. **Câmara atual (seção 7 e `data/partidos.json`, "bancada_camara_2023")**: pela API da Câmara em 21/10/2026, FE Brasil tem 83 (não 82), União Progressista 97 (não 99), Republicanos 42 (não 41), PDT 9 (não 10), PSDB 17 + Cidadania 2 = 19, PSOL 13 + Rede 3 = 16, PL 98, PSD 48, MDB 38, Podemos 27, Novo 5, Avante 5, Missão 1, DC 1 — [Câmara, Dados Abertos](https://dadosabertos.camara.leg.br/api/v2/deputados?itens=600&ordem=ASC&ordenarPor=nome). Trata-se da composição em 21/10/2026, não a de posse em fev/2023 (que mudou com trocas de partido e suplências).
+5. **Bolsonaro, Datafolha mar/2021 e set/2021 (seção 9)**: os valores 22/24/54 e 22/24/53 referem-se à avaliação da **gestão da pandemia** (a própria manchete da Folha citada na seção 9 diz "rejeição a Bolsonaro na gestão da pandemia bate recorde e vai a 54"); a avaliação geral do governo em 15–16/3/2021 foi 30/24/44 e o piso do mandato foi 24% ótimo/bom em maio e julho de 2021 (ruim/péssimo 51% em 7–8/7/2021) — [Wikipédia en, Opinion polling on the Jair Bolsonaro presidency](https://en.wikipedia.org/wiki/Opinion_polling_on_the_Jair_Bolsonaro_presidency). A "mínima de 22% ótimo/bom" do Takeaway da seção 9 deve ser lida como 24%.
+6. **Inferência da seção 2 ("nenhuma pesquisa mostra Lula numericamente à frente")**: continua válida para o período, mas a PoderData de 13–15/10 (divulgada 16/10) registrou empate numérico 50% x 50% nos válidos, e a Quaest de 21/10 reduziu a diferença para 1 ponto nos totais — fontes no item 4 acima.
+7. **Eduardo Bolsonaro (seções 1 e 8)**: "perdeu o mandato em dez/2025" = 18/12/2025; "condenado pelo STF por coação em jun/2026" = 16/6/2026, 4 anos e 2 meses (semiaberto); a menção a "green card" (Lupa) não é corroborada pela Wikipédia pt — [Wikipédia pt, Eduardo Bolsonaro](https://pt.wikipedia.org/wiki/Eduardo_Bolsonaro).
+8. **Votos do PL para a Câmara (seção 6)**: 25.824.755 (22,72% dos válidos), em vez de "25,5 milhões (22,6–22,8%)"; FE Brasil 15,32% — [TSE, votação por partido 2026](https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_partido_munzona/votacao_partido_munzona_2026.zip).
+9. **Fundo eleitoral (seção 6)**: os valores "PL R$ 886,7 mi, PT R$ 619,7 mi, UPB R$ 953 mi, PSD R$ 420 mi, MDB R$ 404 mi, Republicanos R$ 343 mi, Podemos R$ 236 mi" que circularam em 4/6/2026 são **estimativa da Fundação 1º de Maio (Solidariedade)**, anterior à divisão oficial do TSE (16/6), e não devem ser misturados aos valores oficiais (PL 881, PT 615, União 526, PSD 421, PP 417, MDB 400) — [Diário do Nordeste, 4/6/2026](https://diariodonordeste.verdesmares.com.br/opiniao/colunistas/inacio-aguiar/fundo-eleitoral-uniao-envia-r-49-bi-ao-tse-veja-a-divisao-entre-partidos-1.3768177); [BPMoney, 12/8/2026](https://bpmoney.com.br/politica/fundao-eleitoral-2026-distribuicao-partidos-tse/).
+
+### Novos dados
+
+- **Votos nominais para o Senado por UF, cinco maiores partidos (TSE, `votacao_partido_munzona_2026`, votos nominais somados dos candidatos de cada partido; útil para a checagem "votos do PL ao Senado não batem com votos de Flávio")**: SP 43.377.903 válidos — PP 13.273.880 (30,6%), PL 12.703.089 (29,3%), PSB 8.342.968 (19,2%), Rede 7.862.400 (18,1%); RJ 15.923.657 — PL 8.177.337 (51,4%), PT 3.220.765, PSD 1.904.352, PSOL 1.538.444; MG 20.522.302 — PL 4.968.829, PT 3.990.864, PSD 3.583.487, PSOL 2.664.763, PP 2.387.973; BA 14.418.409 — PT 8.321.886 (57,7%), Republicanos 2.898.885, PL 2.879.443; RS 11.465.782 — PL 3.453.316, Novo 3.449.053, PSOL 1.957.697, PT 1.870.301; PR 11.543.639 — PL 3.148.583, Novo 2.904.594, PT 2.696.779, Republicanos 1.947.135; SC 8.041.100 — PL 4.736.758 (58,9%), PP 1.233.034, PT 823.200; DF 3.226.319 — PL 1.825.112 (56,6%), PDT 686.340, PT 610.950; MS 2.608.059 — PL 1.759.599 (67,5%); RO 1.759.898 — PL 1.045.025 (59,4%). Como cada eleitor tem dois votos para o Senado, o total de votos válidos para senador (nacional) é cerca do dobro do de presidente; a comparação direta entre votos do PL ao Senado e votos de Flávio é indevida — [TSE, votação por partido 2026](https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_partido_munzona/votacao_partido_munzona_2026.zip). Totais nacionais do TSE para os demais cargos (1º turno; aptos 157.646.356 sem o exterior, comparecimento 124.768.485, abstenção 32.877.871 = 20,86%): Governador — válidos 111.754.704 (brancos 5.067.116; nulos 7.846.325; anulados sub judice 98.057); Senador — 249.536.970 votos (dois por eleitor), válidos 207.038.240 (brancos 18.678.856; nulos 23.429.766; sub judice 364.824); Deputado Federal — válidos 113.678.019 (nominais 110.246.229 + legenda; brancos 6.445.372; nulos 4.264.784; sub judice 369.152) — [TSE, detalhe da votação 2026](https://cdn.tse.jus.br/estatistica/sead/odsele/detalhe_votacao_munzona/detalhe_votacao_munzona_2026.zip).
+- **Códigos oficiais da eleição no TSE** (para consultas futuras): pleito 3220 (4/10/2026) com eleições 6257 (federal, 1º turno; 2º turno = 6258), 6259 (estadual, 1º turno; 2º turno = 6260) e 6261 (conselheiro distrital); pleito 3221 (25/10/2026) reúne o 2º turno presidencial (6258), o 2º turno estadual (6260) e eleições suplementares/consultas populares municipais — [TSE, ele-c.json](https://resultados.tse.jus.br/oficial/comum/config/ele-c.json) (acesso 21/10/2026). Os arquivos JSON de totalização (`dados-simplificados`) retornaram "NoSuchKey" em todos os caminhos testados.
+- **Fundo partidário 2026**: estimativa de R$ 1,4–1,43 bilhão para o ano (repasse em duodécimos), o que, somado ao FEFC de R$ 4,96 bi, dá cerca de R$ 6,3 bi de recursos públicos para partidos em 2026 — [Diário do Nordeste, 4/6/2026](https://diariodonordeste.verdesmares.com.br/opiniao/colunistas/inacio-aguiar/fundo-eleitoral-uniao-envia-r-49-bi-ao-tse-veja-a-divisao-entre-partidos-1.3768177); [InvestNews, fundo eleitoral e fundo partidário](https://investnews.com.br/economia/fundo-eleitoral-e-fundo-partidario/amp/). Tabela por partido não localizada (ver Lacunas).
+- **Eleitorado no exterior**: 918.876 inscritos (perfil, jul/2026) / 916.534 aptos (4/10); comparecimento 341.766 (37,29%); Lula 157.387 (47,57%) x Flávio 143.900 (43,49%) nos válidos — TSE, dados abertos (links acima).
+
+### Lacunas que permanecem
+
+- **Balanço oficial do TSE sobre desinformação em 2026** (número de denúncias, remoções, decisões, deepfakes, Alerta Eleitoral/Ciedde): nenhuma página acessível (tse.jus.br retorna 403; as listagens da Agência Brasil de 11–21/10 trazem decisões pontuais, não um balanço). Recomenda-se consultar a Secretaria de Comunicação do TSE ou a Assessoria de Enfrentamento à Desinformação.
+- **Fundo partidário 2026 por partido** (duodécimos): página do TSE bloqueada; nenhuma republicação com a tabela foi encontrada antes do esgotamento do orçamento de busca.
+- **Fundo eleitoral 2026: tabela oficial completa das 30 legendas** — só os seis maiores e o piso continuam confirmados; a tabela da Fundação 1º de Maio é estimativa prévia.
+- **Texto oficial da Res. TSE 23.755/2026 e da 23.732/2024** (numeração exata dos artigos 9º-B/9º-BA, parágrafos): TSE 403; nota técnica da ARTIGO 19 fora do ar; PDF do MPF ilegível. A numeração acima vem de fontes secundárias que divergem entre si.
+- **Texto da EC 111/2021** (posse em 5/1/2027 para presidente e 6/1/2027 para governadores): Planalto (503/404), Câmara (404) e LexML (página vazia) não entregaram o texto; a data permanece sustentada por TSE/Wikipédia (seção 10). Diplomação (prazo 18/12/2026) idem.
+- **Datafolha 22/10 e Quaest/Datafolha de 24/10**: futuras.
+- **Pesquisas Ipec e Paraná Pesquisas para presidente no 2º turno**: inexistentes na listagem da Gazeta do Povo em 21/10 (a Paraná Pesquisas só aparece para governador do TO).
+- **Quaest 21/10**: percentual de votos válidos e recortes (região, sexo, religião, renda) não publicados nas matérias acessadas; o relatório completo da Quaest exige cadastro.
+- **Datafolha para Bolsonaro entre maio e outubro de 2022** e **Datafolha para Lula em abr, ago e set/2026**: não localizados em fonte acessível.
+- **Audiência do debate de 1º turno da Band (23/8/2026)** e do debate da Globo (23/10, futuro): não obtidas (Band 403).
+- **Votação em presídios 2026**: número oficial de habilitados (TSE) e de seções instaladas não confirmados; o arquivo `votacao_secao_2026` do TSE permitiria recalcular os 11.186 votos citados pela Lupa, mas não foi processado nesta rodada.
+- **Receitas/despesas finais de campanha**: os valores acima são relatórios financeiros parciais (até 17–20/10); a prestação final só sai após o 2º turno.
+- **Suplentes que assumirão as cadeiras de Cleitinho (MG) e Sergio Moro (PR) no Senado** e situação de Omar Aziz (AM) e Dorinha (TO) se eleitos governadores: partidos dos suplentes não verificados; afeta a composição 2027 em até 4 cadeiras.
+- **Situação judicial de Amapá e Roraima** (Terra, seção 6): o TSE lista Furlan (AP) e Arthur Henrique (RR) como "ELEITO"; a natureza da eleição suplementar de RR em 21/6/2026 não foi detalhada.
+- **Comparecimento no 2º turno de 25/10** e todos os resultados de 2º turno: futuros.
