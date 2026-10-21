@@ -1,0 +1,115 @@
+{
+  "id": "subvencao-diesel-2018",
+  "nome": "Subvenção ao diesel após a greve dos caminhoneiros (MP 838/2018)",
+  "tipo": "outro",
+  "governo": "temer",
+  "lado": "outro",
+  "norma": {
+    "nome": "Medida Provisória 838/2018",
+    "data": "2018-06-08",
+    "url": "https://www12.senado.leg.br/publicacoes/estudos-legislativos/tipos-de-estudos/sumarios-de-proposicoes/mpv838",
+    "vigencia": "08/06/2018 a 31/12/2018"
+  },
+  "status": "caducou",
+  "o_que_faz_simples": [
+    "Pagou subvenção de até R$ 0,30 por litro de diesel a produtores e importadores entre 08/06 e 31/12/2018, dentro de um limite de R$ 9,5 bilhões.",
+    "Combinada com a redução de Cide e PIS/Cofins, a meta era baixar o diesel em R$ 0,46/l; a Fazenda estimou o impacto total em R$ 13,5 bilhões.",
+    "Foi a resposta do governo Temer à greve dos caminhoneiros de maio de 2018; Pedro Parente renunciou à presidência da Petrobras em 01/06/2018 após o governo forçar a redução do diesel."
+  ],
+  "quem_ganha": {
+    "descricao": "Caminhoneiros e consumidores de diesel em 2018 (redução de R$ 0,46/l).",
+    "pessoas": null,
+    "faixa_renda": "transportadores e consumidores em geral",
+    "fonte": {
+      "nome": "Senado Federal – Sumário da MPV 838/2018",
+      "url": "https://www12.senado.leg.br/publicacoes/estudos-legislativos/tipos-de-estudos/sumarios-de-proposicoes/mpv838",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    }
+  },
+  "quem_paga": {
+    "descricao": "A União: R$ 9,5 bi de subvenção mais R$ 4 bi de renúncia de Cide e PIS/Cofins (total ~R$ 13,5 bi em 2018).",
+    "pessoas": null,
+    "faixa_renda": "contribuintes em geral",
+    "fonte": {
+      "nome": "Poder360 – Redução do preço do diesel custará R$ 13,5 bi aos cofres públicos em 2018",
+      "url": "https://www.poder360.com.br/governo/reducao-do-preco-do-diesel-custara-r-135-bi-aos-cofres-publicos-em-2018/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  },
+  "custo_ou_arrecadacao": {
+    "valor": 13.5,
+    "unidade": "R$ bilhões (R$ 9,5 bi de subvenção + R$ 4 bi de renúncia, estimativa da Fazenda para 2018)",
+    "fonte": {
+      "nome": "Poder360 – Redução do preço do diesel custará R$ 13,5 bi aos cofres públicos em 2018",
+      "url": "https://www.poder360.com.br/governo/reducao-do-preco-do-diesel-custara-r-135-bi-aos-cofres-publicos-em-2018/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  },
+  "regra_simulador": {
+    "tipo": "nenhuma",
+    "parametros": {}
+  },
+  "mitos": [
+    {
+      "mito": "Só governos de esquerda usam dinheiro público para segurar o diesel.",
+      "fato": "As três grandes intervenções (2018, Temer; 2022, Bolsonaro; 2026, Lula) usaram renúncia fiscal ou subvenção para suavizar o preço na bomba.",
+      "fontes": [
+        {
+          "nome": "Senado Federal – Sumário da MPV 838/2018",
+          "url": "https://www12.senado.leg.br/publicacoes/estudos-legislativos/tipos-de-estudos/sumarios-de-proposicoes/mpv838",
+          "acesso_em": "2026-10-21",
+          "tier": "oficial"
+        },
+        {
+          "nome": "eixos – Corte de impostos dos combustíveis custará R$ 64,8 bi ao governo em ano eleitoral (09/06/2022)",
+          "url": "https://eixos.com.br/corte-de-impostos-dos-combustiveis-custara-r-648-bi-ao-governo-em-ano-eleitoral/",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "novaCana/CNN – Prorrogação da subvenção ao diesel em R$ 2,12 custará R$ 10,5 bilhões (01/10/2026)",
+          "url": "https://www.novacana.com/noticias/prorrogacao-da-subvencao-ao-diesel-em-r-2-12-custara-r-10-5-bilhoes",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Senado Federal – Sumário da MPV 838/2018",
+      "url": "https://www12.senado.leg.br/publicacoes/estudos-legislativos/tipos-de-estudos/sumarios-de-proposicoes/mpv838",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Agência Brasil – Ministro diz que redução do diesel custará R$ 9,5 bi, mai/2018",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2018-05/ministro-diz-que-reducao-do-preco-do-diesel-custara-r-95-bi-este-ano",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Poder360 – Redução do preço do diesel custará R$ 13,5 bi aos cofres públicos em 2018",
+      "url": "https://www.poder360.com.br/governo/reducao-do-preco-do-diesel-custara-r-135-bi-aos-cofres-publicos-em-2018/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Wikipédia (pt) – Lista de presidentes da Petrobras (fonte secundária)",
+      "url": "https://pt.wikipedia.org/wiki/Lista_de_presidentes_da_Petrobras",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/06_energia_eletrobras_combustiveis.md",
+  "atualizado_em": "2026-10-21",
+  "temas": [
+    "combustiveis"
+  ],
+  "lacunas": [
+    "Status 'caducou' indica apenas o fim da vigência em 31/12/2018; a conversão ou não da MP em lei não consta das notas. A data da norma usada é o início da vigência da subvenção."
+  ]
+}

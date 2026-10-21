@@ -1,0 +1,185 @@
+{
+  "id": "chk-3008",
+  "slug": "governo-federal-manda-na-eletrobras",
+  "frase": "O governo federal manda na Eletrobras.",
+  "frase_normalizada": "o governo federal manda na eletrobras",
+  "variantes": [],
+  "autor": {
+    "nome": "Afirmação recorrente em redes sociais e no debate eleitoral (sem autor único identificado nas notas)",
+    "partido": null,
+    "cargo": null
+  },
+  "lado": "outro",
+  "alvo": {
+    "nome": "Governo federal (Lula)",
+    "partido": "PT"
+  },
+  "data": null,
+  "onde": "redes sociais",
+  "url_declaracao": null,
+  "temas": [
+    "energia"
+  ],
+  "tags": [
+    "Eletrobras",
+    "Axia",
+    "governança",
+    "STF"
+  ],
+  "veredito": "falso",
+  "resumo_uma_frase": "Desde a privatização de 2022 nenhum acionista vota com mais de 10%; a União, maior acionista (~40–42%), tinha 1 de 9 conselheiros e, após o acordo homologado pelo STF em 11/12/2025, indica 3 de 10.",
+  "explicacao_simples": [
+    "A Lei 14.182/2021 limita qualquer acionista a 10% dos votos, então a União vota como minoritária apesar de ter cerca de 40% das ações ordinárias.",
+    "Até 2025 a União tinha 1 de 9 conselheiros; o acordo homologado pelo STF em 11/12/2025 deu a ela 3 de 10 assentos no conselho de administração e 1 de 5 no fiscal.",
+    "Controle de verdade só voltaria com nova lei ou decisão judicial, e o STF homologou o acordo sem derrubar o teto."
+  ],
+  "explicacao_completa_md": "## Regras\n- Lei 14.182/2021, art. 3º, III: o estatuto deve 'vedar que qualquer acionista ou grupo de acionistas exerça votos em número superior a 10%'. A União ficou com ação de classe especial com poder de veto em temas específicos.\n- Participação da União: de 68,6% para 40,3% do capital votante (Wikipédia); 42% das ações ordinárias (CNN).\n- Acordo (ADI 7.385): União indica 3 de 10 conselheiros de administração e 1 de 5 do conselho fiscal; cai a 2 se a fatia ficar abaixo de 30% e a zero abaixo de 20%; subscrição de até R$ 2,4 bi em debêntures da Eletronuclear; Eletrobras liberada de obrigações com Angra 3. STF homologou por 6 a 4 em 11/12/2025.\n- A empresa se chama Axia Energia desde 22/10/2025.\n\n## Veredito\n**Falso.** A União é acionista relevante com 3 assentos, não controladora.",
+  "o_que_e_verdade": [
+    "A União é a maior acionista individual e passou a indicar 3 de 10 conselheiros em dez/2025; mantém veto por ação de classe especial em temas previstos na lei."
+  ],
+  "o_que_nao_se_sustenta": [
+    "Não há controle: o voto é limitado a 10% e acordos de voto acima disso são vedados."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Congresso e governo Bolsonaro",
+      "papel": "desenharam o teto de 10% na Lei 14.182/2021",
+      "peso": "alto"
+    },
+    {
+      "ator": "STF",
+      "papel": "homologou o acordo sem derrubar o teto",
+      "peso": "medio"
+    },
+    {
+      "ator": "Governo Lula",
+      "papel": "obteve 3 de 10 assentos por acordo",
+      "peso": "medio"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Teto de votos por acionista",
+      "valor": 10,
+      "unidade": "%",
+      "periodo": "desde 2022",
+      "fonte": {
+        "nome": "Planalto – Lei 14.182/2021 (texto consolidado)",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/L14182.htm",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    {
+      "rotulo": "Participação da União no capital votante",
+      "valor": 40.3,
+      "unidade": "%",
+      "periodo": "2022",
+      "fonte": {
+        "nome": "Wikipédia (pt) – Eletrobras (fonte secundária)",
+        "url": "https://pt.wikipedia.org/wiki/Eletrobras",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "Antes da privatização",
+        "valor": 68.6
+      }
+    },
+    {
+      "rotulo": "Conselheiros da União antes do acordo",
+      "valor": 1,
+      "unidade": "de 9",
+      "periodo": "2023",
+      "fonte": {
+        "nome": "CNN Brasil – STF homologa acordo entre governo e Eletrobras (11/12/2025)",
+        "url": "https://www.cnnbrasil.com.br/politica/stf-homologa-acordo-entre-governo-e-eletrobras/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "Depois do acordo",
+        "valor": 3
+      }
+    },
+    {
+      "rotulo": "Votação no STF (favoráveis à homologação integral)",
+      "valor": 6,
+      "unidade": "votos",
+      "periodo": "11/12/2025",
+      "fonte": {
+        "nome": "CNN Brasil – STF homologa acordo entre governo e Eletrobras (11/12/2025)",
+        "url": "https://www.cnnbrasil.com.br/politica/stf-homologa-acordo-entre-governo-e-eletrobras/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "Divergentes",
+        "valor": 4
+      }
+    }
+  ],
+  "series": [],
+  "checagens_externas": [],
+  "fontes": [
+    {
+      "nome": "Planalto – Lei 14.182/2021 (texto consolidado)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/L14182.htm",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Wikipédia (pt) – Eletrobras (fonte secundária)",
+      "url": "https://pt.wikipedia.org/wiki/Eletrobras",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "CNN Brasil – STF homologa acordo entre governo e Eletrobras (11/12/2025)",
+      "url": "https://www.cnnbrasil.com.br/politica/stf-homologa-acordo-entre-governo-e-eletrobras/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Cenário Energia – STF homologa integralmente acordo entre União e Axia (12/12/2025)",
+      "url": "https://cenarioenergia.com.br/2025/12/12/stf-homologa-integralmente-acordo-entre-uniao-e-axia-e-redefine-governanca-da-ex-eletrobras/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Poder360 – Eletrobras e União fecham acordo para encerrar processo no STF",
+      "url": "https://www.poder360.com.br/poder-energia/eletrobras-e-uniao-fecham-acordo-para-encerrar-processo-no-stf",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Safra – Eletrobras (ELET3): acordo, análise",
+      "url": "https://oespecialista.safra.com.br/eletrobras-elet3-acordo-analise-safra/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/06_energia_eletrobras_combustiveis.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "Por que o governo Lula foi ao STF?",
+      "resposta": "A AGU alegou que, com 42% das ações, a União tinha só 1 de 9 conselheiros. O caso foi à CCAF e terminou em acordo anunciado em 28/02/2025, fechado em abr/2025 e homologado em 11/12/2025."
+    }
+  ],
+  "relacionadas": [
+    "quem-privatizou-a-eletrobras"
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false,
+  "lacunas": [
+    "Autoria, data e local da declaração não documentados nas notas; a checagem trata a afirmação em sua forma recorrente.",
+    "Composição acionária atual detalhada não confirmada em fonte primária.",
+    "Checagens já publicadas por Aos Fatos, Lupa, Estadão Verifica e Comprova sobre o tema não foram consultadas (cota de busca esgotada); cruzar antes da publicação."
+  ]
+}

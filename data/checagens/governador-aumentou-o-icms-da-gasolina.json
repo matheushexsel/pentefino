@@ -1,0 +1,172 @@
+{
+  "id": "chk-3015",
+  "slug": "governador-aumentou-o-icms-da-gasolina",
+  "frase": "O governador aumentou o ICMS da gasolina.",
+  "frase_normalizada": "o governador aumentou o icms da gasolina",
+  "variantes": [],
+  "autor": {
+    "nome": "Afirmação recorrente em redes sociais e no debate eleitoral (sem autor único identificado nas notas)",
+    "partido": null,
+    "cargo": null
+  },
+  "lado": "outro",
+  "alvo": {
+    "nome": "Governadores estaduais",
+    "partido": null
+  },
+  "data": null,
+  "onde": "redes sociais",
+  "url_declaracao": null,
+  "temas": [
+    "combustiveis",
+    "impostos"
+  ],
+  "tags": [
+    "ICMS",
+    "Confaz",
+    "ad rem",
+    "LC 192"
+  ],
+  "veredito": "impreciso",
+  "resumo_uma_frase": "Desde 2023 o ICMS dos combustíveis é um valor único nacional por litro fixado pelo Confaz (colegiado dos 27 estados) e reajustado anualmente com base nos preços da ANP; em 2026 subiu para R$ 1,57/l na gasolina e R$ 1,17/l no diesel.",
+  "explicacao_simples": [
+    "Desde a LC 192/2022 o ICMS da gasolina não é mais um percentual estadual, mas um valor fixo por litro igual em todo o país.",
+    "Esse valor é definido pelo Confaz, colegiado dos 27 estados, e reajustado todo ano com base nos preços médios da ANP: R$ 1,22 em 2023, R$ 1,47 em 2025 e R$ 1,57 em 2026.",
+    "Um governador sozinho não altera o ICMS da gasolina; o que estados fizeram em 2023 foi elevar a alíquota modal geral (12 estados, para 19–21%)."
+  ],
+  "explicacao_completa_md": "## Regras\n- LC 192 (11/03/2022): monofasia e alíquota ad rem uniforme, em vigor desde 01/05/2023 no diesel (R$ 0,94/l) e 01/06/2023 na gasolina (R$ 1,22/l).\n- 2025: gasolina R$ 1,47/l; diesel R$ 1,12/l. 2026 (Convênios ICMS 112/2025 e 113/2025, desde 01/01/2026): gasolina R$ 1,57/l; diesel R$ 1,17/l; GLP R$ 1,47/kg.\n- LC 194 (jun/2022) limitou o ICMS a 17–18%; 12 estados elevaram a alíquota modal para 19–21% em 2023 (afeta outros produtos, não o valor por litro da gasolina).\n\n## Veredito\n**Impreciso.** O ICMS da gasolina subiu em 2026, mas por decisão colegiada do Confaz, não de um governador.",
+  "o_que_e_verdade": [
+    "O ICMS da gasolina subiu R$ 0,10/l em 2026 e os estados, em conjunto, decidiram isso."
+  ],
+  "o_que_nao_se_sustenta": [
+    "Atribuir o aumento a um governador específico: o valor é nacional e colegiado."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Confaz (27 estados)",
+      "papel": "fixa o valor por litro",
+      "peso": "alto"
+    },
+    {
+      "ator": "Congresso Nacional",
+      "papel": "LC 192/2022 criou o modelo",
+      "peso": "medio"
+    },
+    {
+      "ator": "Governador individual",
+      "papel": "um voto no Confaz",
+      "peso": "baixo"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "ICMS por litro de gasolina",
+      "valor": 1.57,
+      "unidade": "R$/l",
+      "periodo": "2026",
+      "fonte": {
+        "nome": "Diário do Comércio – ICMS da gasolina e do diesel sobe em 2026",
+        "url": "https://diariodocomercio.com.br/economia/icms-gasolina-diesel-subir-2026-veja-novos-valores/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "2025",
+        "valor": 1.47
+      }
+    },
+    {
+      "rotulo": "ICMS por litro de diesel",
+      "valor": 1.17,
+      "unidade": "R$/l",
+      "periodo": "2026",
+      "fonte": {
+        "nome": "Diário do Comércio – ICMS da gasolina e do diesel sobe em 2026",
+        "url": "https://diariodocomercio.com.br/economia/icms-gasolina-diesel-subir-2026-veja-novos-valores/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "2025",
+        "valor": 1.12
+      }
+    },
+    {
+      "rotulo": "ICMS da gasolina na adoção do ad rem",
+      "valor": 1.22,
+      "unidade": "R$/l",
+      "periodo": "01/06/2023",
+      "fonte": {
+        "nome": "Comsefaz – Nota Técnica 023/2023, impactos das LCs 192 e 194 (PDF)",
+        "url": "https://static.poder360.com.br/2023/11/NOTA-TECNICA-COMSEFAZ-023-2023-Impactos-das-LCs-192.22-e-LCs-194.22-sobre-arrecadacao-de-ICMS-dos-estados1-1.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    {
+      "rotulo": "Estados que elevaram a alíquota modal em 2023",
+      "valor": 12,
+      "unidade": "estados",
+      "periodo": "2023",
+      "fonte": {
+        "nome": "Comsefaz – Nota Técnica 023/2023, impactos das LCs 192 e 194 (PDF)",
+        "url": "https://static.poder360.com.br/2023/11/NOTA-TECNICA-COMSEFAZ-023-2023-Impactos-das-LCs-192.22-e-LCs-194.22-sobre-arrecadacao-de-ICMS-dos-estados1-1.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    }
+  ],
+  "series": [
+    "gasolina-preco-anual"
+  ],
+  "checagens_externas": [],
+  "fontes": [
+    {
+      "nome": "Comsefaz – Nota Técnica 023/2023, impactos das LCs 192 e 194 (PDF)",
+      "url": "https://static.poder360.com.br/2023/11/NOTA-TECNICA-COMSEFAZ-023-2023-Impactos-das-LCs-192.22-e-LCs-194.22-sobre-arrecadacao-de-ICMS-dos-estados1-1.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Diário do Comércio – ICMS da gasolina e do diesel sobe em 2026",
+      "url": "https://diariodocomercio.com.br/economia/icms-gasolina-diesel-subir-2026-veja-novos-valores/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "O Povo+ – ICMS em gasolina e etanol sobe R$ 0,10 em 2026 (09/09/2025)",
+      "url": "https://mais.opovo.com.br/jornal/economia/2025/09/09/icms-em-gasolina-e-etanol-sobe-rs-010-em-2026-diesel-sobe-rs-005.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Agência iNFRA – ICMS ad rem 2026",
+      "url": "https://agenciainfra.com/blog/?p=27381",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/06_energia_eletrobras_combustiveis.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "Então os estados não têm culpa no preço?",
+      "resposta": "Têm parte: o ICMS é R$ 1,57 dos R$ 6,53 da gasolina em out/2026 e os estados decidiram o aumento no Confaz; mas a decisão é coletiva e baseada nos preços médios da ANP."
+    }
+  ],
+  "relacionadas": [
+    "petrobras-define-o-preco-na-bomba",
+    "bolsonaro-zerou-impostos-dos-combustiveis-em-2022"
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false,
+  "lacunas": [
+    "Autoria, data e local da declaração não documentados nas notas; a checagem trata a afirmação em sua forma recorrente.",
+    "Checagens já publicadas por Aos Fatos, Lupa, Estadão Verifica e Comprova sobre o tema não foram consultadas (cota de busca esgotada); cruzar antes da publicação."
+  ]
+}

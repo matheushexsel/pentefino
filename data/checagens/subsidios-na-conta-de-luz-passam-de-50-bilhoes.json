@@ -1,0 +1,240 @@
+{
+  "id": "chk-3010",
+  "slug": "subsidios-na-conta-de-luz-passam-de-50-bilhoes",
+  "frase": "Os subsídios embutidos na conta de luz já passam de R$ 50 bilhões por ano.",
+  "frase_normalizada": "os subsídios embutidos na conta de luz já passam de r$ 50 bilhões por ano",
+  "variantes": [],
+  "autor": {
+    "nome": "Afirmação recorrente em redes sociais e no debate eleitoral (sem autor único identificado nas notas)",
+    "partido": null,
+    "cargo": null
+  },
+  "lado": "outro",
+  "alvo": {
+    "nome": "Setor elétrico / Congresso",
+    "partido": null
+  },
+  "data": null,
+  "onde": "debate público",
+  "url_declaracao": null,
+  "temas": [
+    "energia",
+    "contas-publicas"
+  ],
+  "tags": [
+    "CDE",
+    "subsídios",
+    "Subsidiômetro",
+    "Tarifa Social",
+    "geração distribuída"
+  ],
+  "veredito": "verdadeiro",
+  "resumo_uma_frase": "O Subsidiômetro da ANEEL registrou R$ 56,3 bi em 2025 e R$ 55 bi entre jun/2025 e mai/2026; a CDE sozinha foi de R$ 49,2 bi em 2025 e tem proposta de R$ 52,7 bi para 2026.",
+  "explicacao_simples": [
+    "O Subsidiômetro da ANEEL somou R$ 52,5 bi entre dez/2024 e nov/2025, R$ 56,3 bi em 2025 e R$ 55 bi entre jun/2025 e mai/2026.",
+    "A CDE, principal veículo, custou R$ 49,2 bi em 2025 (R$ 46,8 bi via tarifa) e a proposta para 2026 é de R$ 52,7 bi, contra R$ 32,1 bi em 2022.",
+    "Os maiores itens de 2026 são descontos a fontes incentivadas (R$ 19,6 bi), Tarifa Social (R$ 10,4 bi) e geração distribuída (R$ 6,8 bi, +87%)."
+  ],
+  "explicacao_completa_md": "## Dados\n- Subsidiômetro ANEEL: R$ 52,5 bi (dez/2024–nov/2025); R$ 56,3 bi em 2025; R$ 55 bi (jun/2025–mai/2026).\n- CDE: R$ 32,1 bi (2022, orçada); R$ 49,2 bi (2025); R$ 52,7 bi (proposta 2026, impacto tarifário médio de 0,71%); projeção de R$ 55,1 bi em 2027 contra teto legal de R$ 48,7 bi.\n- Itens 2026: fontes incentivadas R$ 19,6 bi (+16%); Tarifa Social R$ 10,4 bi (+33%); GD R$ 6,8 bi (+87,4%); Luz para Todos -33%; carvão -84%.\n- A CDE representa em média 15% da fatura (ANEEL).\n\n## Quem decidiu\nOs subsídios são criados por lei (Congresso e governos de vários períodos). O governo Lula ampliou a Tarifa Social em 2025 e, com o Congresso, criou um teto para a CDE a partir de 2027 (Lei 15.269/2025).\n\n## Veredito\n**Verdadeiro.**",
+  "o_que_e_verdade": [
+    "Os subsídios superam R$ 50 bi por ano desde 2025 em qualquer das medidas da ANEEL."
+  ],
+  "o_que_nao_se_sustenta": [
+    "Nada relevante; a CDE isolada ficou pouco abaixo de R$ 50 bi em 2025 (R$ 49,2 bi), mas o total de subsídios (Subsidiômetro) supera."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Congresso Nacional",
+      "papel": "cria os subsídios por lei",
+      "peso": "alto"
+    },
+    {
+      "ator": "Governos (vários)",
+      "papel": "propõem e sancionam",
+      "peso": "medio"
+    },
+    {
+      "ator": "ANEEL",
+      "papel": "homologa o orçamento da CDE",
+      "peso": "baixo"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Subsidiômetro ANEEL 2025",
+      "valor": 56.3,
+      "unidade": "R$ bilhões",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "O Setor Elétrico – Reforma do setor elétrico redefine subsídios, impõe vetos e abre caminho para o mercado livre",
+        "url": "https://www.osetoreletrico.com.br/reforma-do-setor-eletrico-redefine-subsidios-impoe-vetos-e-abre-caminho-para-o-mercado-livre/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "jun/2025–mai/2026",
+        "valor": 55
+      }
+    },
+    {
+      "rotulo": "CDE 2025",
+      "valor": 49.2,
+      "unidade": "R$ bilhões",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "CLP – Energia cara no Brasil freia a competitividade, ago/2026 (PDF)",
+        "url": "https://static.poder360.com.br/uploads/2026/08/estudo-clp-Energia-cara-no-brasil-freia-a-competitividade-3ago2026.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      "comparacao": {
+        "rotulo": "Pagos pelos consumidores",
+        "valor": 46.8
+      }
+    },
+    {
+      "rotulo": "CDE 2026 (proposta)",
+      "valor": 52.7,
+      "unidade": "R$ bilhões",
+      "periodo": "2026",
+      "fonte": {
+        "nome": "Agência iNFRA – Orçamento da CDE 2026 (05/12/2025)",
+        "url": "https://agenciainfra.com/blog/?p=33412",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "CDE 2022",
+        "valor": 32.1
+      }
+    },
+    {
+      "rotulo": "Fontes incentivadas 2026",
+      "valor": 19.6,
+      "unidade": "R$ bilhões",
+      "periodo": "2026",
+      "fonte": {
+        "nome": "Cenário Energia – CDE 2026 deve chegar a R$ 52,7 bilhões (05/12/2025)",
+        "url": "https://cenarioenergia.com.br/2025/12/05/cde-2026-deve-chegar-a-r-527-bilhoes-e-pressiona-debate-sobre-subsidios-no-setor-eletrico/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "Tarifa Social",
+        "valor": 10.4
+      }
+    },
+    {
+      "rotulo": "Geração distribuída 2026",
+      "valor": 6.8,
+      "unidade": "R$ bilhões",
+      "periodo": "2026",
+      "fonte": {
+        "nome": "Cenário Energia – CDE 2026 deve chegar a R$ 52,7 bilhões (05/12/2025)",
+        "url": "https://cenarioenergia.com.br/2025/12/05/cde-2026-deve-chegar-a-r-527-bilhoes-e-pressiona-debate-sobre-subsidios-no-setor-eletrico/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "2025",
+        "valor": 3.6
+      }
+    },
+    {
+      "rotulo": "Peso médio da CDE na fatura",
+      "valor": 15,
+      "unidade": "%",
+      "periodo": "dez/2025",
+      "fonte": {
+        "nome": "ANEEL – Boletim InfoTarifa nº 3, dez/2025 (PDF)",
+        "url": "https://static.poder360.com.br/2025/12/3a-edicao-do-boletim-InfoTarifa-Aneel-Dezembro-2025.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    }
+  ],
+  "series": [
+    "cde-anual"
+  ],
+  "checagens_externas": [],
+  "fontes": [
+    {
+      "nome": "ANEEL – Boletim InfoTarifa nº 3, dez/2025 (PDF)",
+      "url": "https://static.poder360.com.br/2025/12/3a-edicao-do-boletim-InfoTarifa-Aneel-Dezembro-2025.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "O Setor Elétrico – Reforma do setor elétrico redefine subsídios, impõe vetos e abre caminho para o mercado livre",
+      "url": "https://www.osetoreletrico.com.br/reforma-do-setor-eletrico-redefine-subsidios-impoe-vetos-e-abre-caminho-para-o-mercado-livre/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "SBT News – Conta de luz deve subir 8,6% em 2026, acima da inflação (12/06/2026)",
+      "url": "https://sbtnews.sbt.com.br/noticia/economia/conta-de-luz-deve-subir-8-6-em-2026-acima-da-inflacao",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "CLP – Energia cara no Brasil freia a competitividade, ago/2026 (PDF)",
+      "url": "https://static.poder360.com.br/uploads/2026/08/estudo-clp-Energia-cara-no-brasil-freia-a-competitividade-3ago2026.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    },
+    {
+      "nome": "Agência iNFRA – Orçamento da CDE 2026 (05/12/2025)",
+      "url": "https://agenciainfra.com/blog/?p=33412",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Cenário Energia – CDE 2026 deve chegar a R$ 52,7 bilhões (05/12/2025)",
+      "url": "https://cenarioenergia.com.br/2025/12/05/cde-2026-deve-chegar-a-r-527-bilhoes-e-pressiona-debate-sobre-subsidios-no-setor-eletrico/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Metrópoles – Entenda como a privatização da Eletrobras vai afetar o seu bolso (27/05/2022)",
+      "url": "https://www.metropoles.com/brasil/economia-br/entenda-como-a-privatizacao-da-eletrobras-vai-afetar-o-seu-bolso",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Planalto – Lei 15.269/2025",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/lei/L15269.htm",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Agência iNFRA – tag CDE",
+      "url": "https://agenciainfra.com/blog/tag/cde/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/06_energia_eletrobras_combustiveis.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "Quem paga esses subsídios?",
+      "resposta": "Majoritariamente os consumidores, na conta de luz (R$ 46,8 bi dos R$ 49,2 bi da CDE em 2025). O rateio por nível de tensão é fixado em lei (BT 43% / MT 35% / AT 22% desde a Lei 15.269/2025)."
+    }
+  ],
+  "relacionadas": [
+    "conta-de-luz-sobe-acima-da-inflacao-ha-mais-de-uma-decada",
+    "a-conta-de-luz-subiu-por-culpa-do-governo-federal"
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false,
+  "lacunas": [
+    "Autoria, data e local da declaração não documentados nas notas; a checagem trata a afirmação em sua forma recorrente.",
+    "Valor final homologado da CDE 2026 não localizado.",
+    "Checagens já publicadas por Aos Fatos, Lupa, Estadão Verifica e Comprova sobre o tema não foram consultadas (cota de busca esgotada); cruzar antes da publicação."
+  ]
+}

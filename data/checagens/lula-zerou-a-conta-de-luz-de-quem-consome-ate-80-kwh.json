@@ -1,0 +1,218 @@
+{
+  "id": "chk-3017",
+  "slug": "lula-zerou-a-conta-de-luz-de-quem-consome-ate-80-kwh",
+  "frase": "O governo Lula zerou a conta de luz de quem consome até 80 kWh.",
+  "frase_normalizada": "o governo lula zerou a conta de luz de quem consome até 80 kwh",
+  "variantes": [],
+  "autor": {
+    "nome": "Afirmação recorrente em redes sociais e no debate eleitoral (sem autor único identificado nas notas)",
+    "partido": null,
+    "cargo": null
+  },
+  "lado": "ambos",
+  "alvo": {
+    "nome": "Governo federal (Lula)",
+    "partido": "PT"
+  },
+  "data": null,
+  "onde": "debate eleitoral",
+  "url_declaracao": null,
+  "temas": [
+    "energia",
+    "pobreza-programas-sociais"
+  ],
+  "tags": [
+    "Tarifa Social",
+    "CDE",
+    "MP 1.300",
+    "Lei 15.235"
+  ],
+  "veredito": "verdadeiro-mas",
+  "resumo_uma_frase": "A MP 1.300/2025, convertida na Lei 15.235/2025, deu desconto de 100% até 80 kWh/mês para famílias do CadÚnico desde 05/07/2025, mas o custo (R$ 10,4 bi em 2026) é pago pelos demais consumidores via CDE, não pelo Tesouro.",
+  "explicacao_simples": [
+    "Desde 05/07/2025 famílias do CadÚnico que consomem até 80 kWh/mês têm desconto de 100% na conta, pela MP 1.300 convertida na Lei 15.235/2025.",
+    "O governo fala em 4,5 milhões de famílias com conta zerada e 17,1 milhões que não pagam os primeiros 80 kWh, e desde 01/01/2026 há o Desconto Social até 120 kWh.",
+    "O benefício é bancado pela CDE, encargo cobrado na conta dos demais consumidores: a Tarifa Social sobe de R$ 7,8 bi em 2024 para R$ 10,4 bi em 2026."
+  ],
+  "explicacao_completa_md": "## O que mudou\n- MP 1.300 assinada em 21/05/2025; Lei 15.235 de 08/10/2025: desconto de 100% até 80 kWh/mês e 0% acima (Lei 12.212, art. 1º). Gratuidade desde 05/07/2025.\n- Desconto Social (Lei 15.269/2025): famílias do CadÚnico com renda per capita entre meio e um salário mínimo isentas das quotas da CDE até 120 kWh desde 01/01/2026 (~4,1 milhões de famílias); ANEEL estima redução média de 15% para quem consome menos de 120 kWh.\n- Alcance declarado pelo governo: 4,5 milhões de famílias com gratuidade total e 17,1 milhões que não pagam os primeiros 80 kWh; o MME estimava 115 milhões de consumidores beneficiados de alguma forma.\n\n## Quem paga\nA CDE: Tarifa Social de R$ 7,8 bi (2024) para R$ 10,4 bi (2026, +33%). A Anace critica que o custo recai sobre os demais consumidores e não sobre o Tesouro.\n\n## Veredito\n**Verdadeiro, mas.** A gratuidade existe, mas é restrita a famílias do CadÚnico até 80 kWh e é financiada pelos outros consumidores na própria conta de luz.",
+  "o_que_e_verdade": [
+    "A gratuidade até 80 kWh para famílias do CadÚnico está em vigor desde 05/07/2025 por iniciativa do governo Lula (MP 1.300) aprovada pelo Congresso."
+  ],
+  "o_que_nao_se_sustenta": [
+    "Não é para todos nem é paga pelo governo: o custo vai para a CDE, cobrada dos demais consumidores."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Governo Lula",
+      "papel": "editou a MP 1.300/2025",
+      "peso": "alto"
+    },
+    {
+      "ator": "Congresso Nacional",
+      "papel": "converteu na Lei 15.235/2025",
+      "peso": "alto"
+    },
+    {
+      "ator": "Demais consumidores",
+      "papel": "pagam via CDE",
+      "peso": "medio"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Consumo máximo para gratuidade",
+      "valor": 80,
+      "unidade": "kWh/mês",
+      "periodo": "desde 05/07/2025",
+      "fonte": {
+        "nome": "Planalto – Lei 15.235/2025",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/lei/L15235.htm",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    {
+      "rotulo": "Famílias com gratuidade total (governo)",
+      "valor": 4500000,
+      "unidade": "famílias",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Portal de Prefeitura – Nova Tarifa Social de energia elétrica",
+        "url": "https://portaldeprefeitura.com.br/bastidores-da-politica/nova-tarifa-social-energia-eletrica-conta-de-luz-gratuidade/598458/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "Famílias que não pagam os primeiros 80 kWh",
+        "valor": 17100000
+      }
+    },
+    {
+      "rotulo": "Tarifa Social na CDE 2026",
+      "valor": 10.4,
+      "unidade": "R$ bilhões",
+      "periodo": "2026",
+      "fonte": {
+        "nome": "Cenário Energia – CDE 2026 deve chegar a R$ 52,7 bilhões (05/12/2025)",
+        "url": "https://cenarioenergia.com.br/2025/12/05/cde-2026-deve-chegar-a-r-527-bilhoes-e-pressiona-debate-sobre-subsidios-no-setor-eletrico/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "2024",
+        "valor": 7.8
+      }
+    },
+    {
+      "rotulo": "Famílias no Desconto Social (até 120 kWh)",
+      "valor": 4100000,
+      "unidade": "famílias (aprox.)",
+      "periodo": "desde 01/01/2026",
+      "fonte": {
+        "nome": "Agência iNFRA – Tarifa Social e Desconto Social (22/10/2025)",
+        "url": "https://agenciainfra.com/blog/?p=30369",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Redução média para quem consome menos de 120 kWh (Desconto Social)",
+      "valor": 15,
+      "unidade": "%",
+      "periodo": "2026",
+      "fonte": {
+        "nome": "ANEEL – Boletim InfoTarifa nº 3, dez/2025 (PDF)",
+        "url": "https://static.poder360.com.br/2025/12/3a-edicao-do-boletim-InfoTarifa-Aneel-Dezembro-2025.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "No consumo médio de 165 kWh",
+        "valor": 11
+      }
+    }
+  ],
+  "series": [
+    "cde-anual"
+  ],
+  "checagens_externas": [],
+  "fontes": [
+    {
+      "nome": "Planalto – Lei 15.235/2025",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/lei/L15235.htm",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Congresso em Foco – Lula assina MP da reforma do setor elétrico (21/05/2025)",
+      "url": "https://www.congressoemfoco.com.br/noticia/108721/presidente-lula-assina-mp-da-reforma-do-setor-eletrico",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Agência iNFRA – Tarifa Social e Desconto Social (22/10/2025)",
+      "url": "https://agenciainfra.com/blog/?p=30369",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Portal de Prefeitura – Nova Tarifa Social de energia elétrica",
+      "url": "https://portaldeprefeitura.com.br/bastidores-da-politica/nova-tarifa-social-energia-eletrica-conta-de-luz-gratuidade/598458/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Agência Câmara – MP da reforma do setor elétrico, 22/05/2025",
+      "url": "https://www.camara.leg.br/noticias/1161307-mp-da-reforma-do-setor-eletrico-liberaliza-mercado-e-amplia-tarifa-social-de-energia-eletrica",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "ANEEL – Boletim InfoTarifa nº 3, dez/2025 (PDF)",
+      "url": "https://static.poder360.com.br/2025/12/3a-edicao-do-boletim-InfoTarifa-Aneel-Dezembro-2025.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Cenário Energia – CDE 2026 deve chegar a R$ 52,7 bilhões (05/12/2025)",
+      "url": "https://cenarioenergia.com.br/2025/12/05/cde-2026-deve-chegar-a-r-527-bilhoes-e-pressiona-debate-sobre-subsidios-no-setor-eletrico/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "eixos – Reforma do setor elétrico pode reduzir atratividade do mercado livre, diz Anace",
+      "url": "https://eixos.com.br/politica/congresso/reforma-do-setor-eletrico-pode-reduzir-atratividade-do-mercado-livre-diz-anace/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Planalto – Lei 15.269/2025",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/lei/L15269.htm",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/06_energia_eletrobras_combustiveis.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "Quem já tinha Tarifa Social perdeu algo?",
+      "resposta": "A lei substituiu os descontos escalonados por 100% até 80 kWh e 0% acima; as notas não detalham o efeito para quem consome entre 80 e 220 kWh além do Desconto Social até 120 kWh."
+    }
+  ],
+  "relacionadas": [
+    "a-conta-de-luz-subiu-por-culpa-do-governo-federal",
+    "subsidios-na-conta-de-luz-passam-de-50-bilhoes"
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false,
+  "lacunas": [
+    "Autoria, data e local da declaração não documentados nas notas; a checagem trata a afirmação em sua forma recorrente.",
+    "Checagens já publicadas por Aos Fatos, Lupa, Estadão Verifica e Comprova sobre o tema não foram consultadas (cota de busca esgotada); cruzar antes da publicação."
+  ]
+}

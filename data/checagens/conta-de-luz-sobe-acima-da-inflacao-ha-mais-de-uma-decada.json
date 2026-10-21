@@ -1,0 +1,209 @@
+{
+  "id": "chk-3009",
+  "slug": "conta-de-luz-sobe-acima-da-inflacao-ha-mais-de-uma-decada",
+  "frase": "A conta de luz sobe acima da inflação há mais de uma década.",
+  "frase_normalizada": "a conta de luz sobe acima da inflação há mais de uma década",
+  "variantes": [],
+  "autor": {
+    "nome": "Afirmação recorrente em redes sociais e no debate eleitoral (sem autor único identificado nas notas)",
+    "partido": null,
+    "cargo": null
+  },
+  "lado": "outro",
+  "alvo": {
+    "nome": "Setor elétrico / governos",
+    "partido": null
+  },
+  "data": null,
+  "onde": "debate público",
+  "url_declaracao": null,
+  "temas": [
+    "energia"
+  ],
+  "tags": [
+    "tarifa",
+    "IPCA",
+    "Abraceel",
+    "ANEEL"
+  ],
+  "veredito": "verdadeiro",
+  "resumo_uma_frase": "Entre 2003 e 2024 a tarifa residencial subiu 269% contra IPCA de 218%; entre 2010 e 2024, 177% contra 122%; em 2025 subiu 7,0% contra 4,4% e a projeção para 2026 é de 8,6–9,4% contra 4,9%.",
+  "explicacao_simples": [
+    "De 2003 a 2024 a tarifa residencial subiu 269% e o IPCA 218%, segundo a Abraceel.",
+    "No mercado regulado, de 2010 a 2024 a alta foi de 177% (R$ 112 para R$ 310/MWh) contra IPCA de 122%; a ANEEL já calculava +230% contra IPCA de 189% entre 2001 e 2019.",
+    "Em 2025 o efeito médio foi 7,0% (IPCA 4,4%) e para 2026 a ANEEL projeta 8,6% a 9,4% (IPCA 4,9%), puxados pela CDE."
+  ],
+  "explicacao_completa_md": "## Dados\n- 2001–2019: tarifa média nominal +230% vs IPCA +189% (cálculo ANEEL).\n- 2003–2024: tarifa residencial +269% vs IPCA +218%; mercado livre +90% (Abraceel).\n- 2010–2024: mercado regulado de R$ 112 para R$ 310/MWh (+177%) vs IPCA +122%; livre de R$ 102 para R$ 147 (+44%).\n- 1995–2022: aumento real de 71% (UFRJ/GESEL).\n- 2025: efeito médio 7,0% vs IPCA 4,4% e IGP-M -0,5%; 2026: projeção de 8,6% (jun) e 9,4% (set) vs IPCA 4,9%.\n\n## Por quê\nA ANEEL atribui o excesso principalmente aos encargos setoriais (CDE Uso e CDE GD) e a itens financeiros, não à compra de energia. A CDE passou de R$ 32,1 bi (2022) para R$ 49,2 bi (2025) e R$ 52,7 bi (proposta 2026).\n\n## Veredito\n**Verdadeiro.**",
+  "o_que_e_verdade": [
+    "Todas as janelas documentadas (2001–2019, 2003–2024, 2010–2024, 2025, 2026) mostram tarifa acima do IPCA."
+  ],
+  "o_que_nao_se_sustenta": [
+    "Nada relevante; a ressalva é que o estudo de 2003–2024 é de uma associação de comercializadores (Abraceel), mas é coerente com os cálculos da ANEEL."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Congresso e governos (vários)",
+      "papel": "encargos criados por lei (CDE)",
+      "peso": "alto"
+    },
+    {
+      "ator": "ANEEL",
+      "papel": "homologa os reajustes",
+      "peso": "medio"
+    },
+    {
+      "ator": "Estados",
+      "papel": "ICMS",
+      "peso": "baixo"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Alta da tarifa residencial 2003–2024",
+      "valor": 269,
+      "unidade": "%",
+      "periodo": "2003–2024",
+      "fonte": {
+        "nome": "Poder360/Abraceel – Tarifa de energia sobe 45% acima da inflação em 15 anos (09/06/2025)",
+        "url": "https://www.poder360.com.br/poder-energia/tarifa-de-energia-eletrica-sobe-45-acima-da-inflacao-em-15-anos/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "IPCA",
+        "valor": 218
+      }
+    },
+    {
+      "rotulo": "Alta do mercado regulado 2010–2024",
+      "valor": 177,
+      "unidade": "%",
+      "periodo": "2010–2024",
+      "fonte": {
+        "nome": "Poder360/Abraceel – Tarifa de energia sobe 45% acima da inflação em 15 anos (09/06/2025)",
+        "url": "https://www.poder360.com.br/poder-energia/tarifa-de-energia-eletrica-sobe-45-acima-da-inflacao-em-15-anos/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "IPCA",
+        "valor": 122
+      }
+    },
+    {
+      "rotulo": "Alta da tarifa média nominal 2001–2019",
+      "valor": 230,
+      "unidade": "%",
+      "periodo": "2001–2019",
+      "fonte": {
+        "nome": "Agência iNFRA – Tarifa média nominal 2001–2019 (03/05/2019)",
+        "url": "https://agenciainfra.com/blog/?p=3132",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "IPCA",
+        "valor": 189
+      }
+    },
+    {
+      "rotulo": "Efeito médio 2025",
+      "valor": 7.0,
+      "unidade": "%",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "ANEEL – Boletim InfoTarifa nº 3, dez/2025 (PDF)",
+        "url": "https://static.poder360.com.br/2025/12/3a-edicao-do-boletim-InfoTarifa-Aneel-Dezembro-2025.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "IPCA",
+        "valor": 4.4
+      }
+    },
+    {
+      "rotulo": "Projeção 2026 (set/2026)",
+      "valor": 9.4,
+      "unidade": "%",
+      "periodo": "2026",
+      "fonte": {
+        "nome": "Agência iNFRA – tag CDE",
+        "url": "https://agenciainfra.com/blog/tag/cde/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "IPCA projetado",
+        "valor": 4.9
+      }
+    }
+  ],
+  "series": [
+    "tarifa-residencial-vs-ipca",
+    "cde-anual"
+  ],
+  "checagens_externas": [],
+  "fontes": [
+    {
+      "nome": "Poder360/Abraceel – Tarifa de energia sobe 45% acima da inflação em 15 anos (09/06/2025)",
+      "url": "https://www.poder360.com.br/poder-energia/tarifa-de-energia-eletrica-sobe-45-acima-da-inflacao-em-15-anos/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Agência iNFRA – Tarifa média nominal 2001–2019 (03/05/2019)",
+      "url": "https://agenciainfra.com/blog/?p=3132",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "UFRJ/GESEL – O setor elétrico brasileiro e o excêntrico no planeta (PDF)",
+      "url": "https://gesel.ie.ufrj.br/wp-content/uploads/2024/04/O_setor_eletrico_brasileiro_e_o_excentrico_no_planeta-1.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    },
+    {
+      "nome": "ANEEL – Boletim InfoTarifa nº 3, dez/2025 (PDF)",
+      "url": "https://static.poder360.com.br/2025/12/3a-edicao-do-boletim-InfoTarifa-Aneel-Dezembro-2025.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "SBT News – Conta de luz deve subir 8,6% em 2026, acima da inflação (12/06/2026)",
+      "url": "https://sbtnews.sbt.com.br/noticia/economia/conta-de-luz-deve-subir-8-6-em-2026-acima-da-inflacao",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Agência iNFRA – tag CDE",
+      "url": "https://agenciainfra.com/blog/tag/cde/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/06_energia_eletrobras_combustiveis.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "A energia brasileira é cara em comparação internacional?",
+      "resposta": "Depende da métrica: em dólar nominal (US$ 0,179/kWh em dez/2025) o Brasil fica perto da média mundial (US$ 0,176), mas em paridade de poder de compra (US$ 0,357/kWh) é o 66º mais caro de 138 países (CLP)."
+    }
+  ],
+  "relacionadas": [
+    "a-conta-de-luz-subiu-por-culpa-do-governo-federal",
+    "subsidios-na-conta-de-luz-passam-de-50-bilhoes"
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false,
+  "lacunas": [
+    "Autoria, data e local da declaração não documentados nas notas; a checagem trata a afirmação em sua forma recorrente.",
+    "Série oficial ANEEL por ano não obtida.",
+    "Checagens já publicadas por Aos Fatos, Lupa, Estadão Verifica e Comprova sobre o tema não foram consultadas (cota de busca esgotada); cruzar antes da publicação."
+  ]
+}

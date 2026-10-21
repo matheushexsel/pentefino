@@ -1,0 +1,211 @@
+{
+  "id": "chk-3004",
+  "slug": "gasolina-mais-cara-do-mundo",
+  "frase": "A gasolina do Brasil é a mais cara do mundo.",
+  "frase_normalizada": "a gasolina do brasil é a mais cara do mundo",
+  "variantes": [],
+  "autor": {
+    "nome": "Afirmação recorrente em redes sociais e no debate eleitoral (sem autor único identificado nas notas)",
+    "partido": null,
+    "cargo": null
+  },
+  "lado": "outro",
+  "alvo": {
+    "nome": "Governo federal (Lula)",
+    "partido": "PT"
+  },
+  "data": null,
+  "onde": "redes sociais",
+  "url_declaracao": null,
+  "temas": [
+    "combustiveis"
+  ],
+  "tags": [
+    "gasolina",
+    "preço",
+    "comparação internacional",
+    "ANP"
+  ],
+  "veredito": "falso",
+  "resumo_uma_frase": "Em dólar, a gasolina brasileira (US$ 1,26/l em 12/10/2026) custa menos que a média mundial (US$ 1,60) e que Argentina, Chile e Europa; o Brasil é o 42º mais barato entre 170 países.",
+  "explicacao_simples": [
+    "Em 12/10/2026 a gasolina custava US$ 1,26 por litro no Brasil, contra média mundial de US$ 1,60.",
+    "Argentina (US$ 1,459), Chile (1,506), México (1,545) e os países europeus (acima de US$ 2) pagam mais; os EUA pagam US$ 1,229.",
+    "Em poder de compra a comparação piora, mas as notas não têm ranking em paridade de poder de compra para gasolina, só o dado de que o salário mínimo comprava 200 litros em mar/2021 contra 254 em 2017."
+  ],
+  "explicacao_completa_md": "## Os números\nGlobalPetrolPrices, 12/10/2026 (US$/litro): Venezuela 0,035; EUA 1,229; **Brasil 1,260 (42º mais barato de 170)**; Colômbia 1,319; Argentina 1,459; Chile 1,506; México 1,545; Espanha 2,001; Itália 2,260; Reino Unido 2,323; Portugal 2,363; França 2,394; Alemanha 2,422; média mundial 1,60.\n\nNo Brasil (ANP, 11–17/10/2026): gasolina comum R$ 6,53/l; câmbio de R$ 5,02/US$ em 21/10/2026.\n\n## Ressalva\nEm dólar nominal o Brasil está abaixo da média. Medido pela renda, o peso é maior: o salário mínimo comprava 254 litros em mar/2017 e 200 litros em mar/2021. As notas não trazem ranking em paridade de poder de compra para gasolina.\n\n## Veredito\n**Falso.** Em dólar, a gasolina brasileira está abaixo da média mundial e de dezenas de países.",
+  "o_que_e_verdade": [
+    "A gasolina pesa mais no orçamento do brasileiro do que em países ricos; em mar/2021 o salário mínimo comprava 200 litros, abaixo dos 254 de 2017.",
+    "Em 2026 o preço na bomba só se manteve estável por subvenções e cortes de tributos federais."
+  ],
+  "o_que_nao_se_sustenta": [
+    "Em dólar, o Brasil (US$ 1,26/l) está abaixo da média mundial (US$ 1,60) e é o 42º mais barato entre 170 países."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Petrobras",
+      "papel": "preço de refinaria",
+      "peso": "alto"
+    },
+    {
+      "ator": "Estados (Confaz)",
+      "papel": "ICMS de R$ 1,57/l",
+      "peso": "medio"
+    },
+    {
+      "ator": "Governo federal",
+      "papel": "tributos federais e subvenções",
+      "peso": "medio"
+    },
+    {
+      "ator": "Mercado internacional",
+      "papel": "Brent e câmbio",
+      "peso": "alto"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Gasolina no Brasil",
+      "valor": 1.26,
+      "unidade": "US$/l",
+      "periodo": "12/10/2026",
+      "fonte": {
+        "nome": "GlobalPetrolPrices – Gasoline prices (12/10/2026)",
+        "url": "https://www.globalpetrolprices.com/gasoline_prices/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "Média mundial",
+        "valor": 1.6
+      }
+    },
+    {
+      "rotulo": "Posição entre 170 países (do mais barato)",
+      "valor": 42,
+      "unidade": "posição",
+      "periodo": "12/10/2026",
+      "fonte": {
+        "nome": "GlobalPetrolPrices – Gasoline prices (12/10/2026)",
+        "url": "https://www.globalpetrolprices.com/gasoline_prices/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Gasolina nos EUA",
+      "valor": 1.229,
+      "unidade": "US$/l",
+      "periodo": "12/10/2026",
+      "fonte": {
+        "nome": "GlobalPetrolPrices – Gasoline prices (12/10/2026)",
+        "url": "https://www.globalpetrolprices.com/gasoline_prices/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "Argentina",
+        "valor": 1.459
+      }
+    },
+    {
+      "rotulo": "Gasolina na Alemanha",
+      "valor": 2.422,
+      "unidade": "US$/l",
+      "periodo": "12/10/2026",
+      "fonte": {
+        "nome": "GlobalPetrolPrices – Gasoline prices (12/10/2026)",
+        "url": "https://www.globalpetrolprices.com/gasoline_prices/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "Chile",
+        "valor": 1.506
+      }
+    },
+    {
+      "rotulo": "Gasolina comum no Brasil (ANP)",
+      "valor": 6.53,
+      "unidade": "R$/l",
+      "periodo": "11–17/10/2026",
+      "fonte": {
+        "nome": "ANP – Resumo semanal do Levantamento de Preços, 11 a 17/10/2026 (xlsx)",
+        "url": "https://www.gov.br/anp/pt-br/assuntos/precos-e-defesa-da-concorrencia/precos/arquivos-lpc/2026/resumo_semanal_lpc_2026_10_11-2026_10_17.xlsx",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    {
+      "rotulo": "Litros por salário mínimo",
+      "valor": 200,
+      "unidade": "litros",
+      "periodo": "mar/2021",
+      "fonte": {
+        "nome": "InvestNews – Em 20 anos, quantidade de gasolina que o salário mínimo compra aumenta 57% (15/03/2021)",
+        "url": "https://investnews.com.br/economia/em-20-anos-quantidade-de-gasolina-que-salario-minimo-pode-comprar-aumenta-57",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "mar/2017",
+        "valor": 254
+      }
+    }
+  ],
+  "series": [
+    "gasolina-preco-anual",
+    "gasolina-litros-por-salario-minimo"
+  ],
+  "checagens_externas": [],
+  "fontes": [
+    {
+      "nome": "GlobalPetrolPrices – Gasoline prices (12/10/2026)",
+      "url": "https://www.globalpetrolprices.com/gasoline_prices/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "ANP – Resumo semanal do Levantamento de Preços, 11 a 17/10/2026 (xlsx)",
+      "url": "https://www.gov.br/anp/pt-br/assuntos/precos-e-defesa-da-concorrencia/precos/arquivos-lpc/2026/resumo_semanal_lpc_2026_10_11-2026_10_17.xlsx",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Trading Economics – Brazilian real",
+      "url": "https://tradingeconomics.com/brazil/currency",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "InvestNews – Em 20 anos, quantidade de gasolina que o salário mínimo compra aumenta 57% (15/03/2021)",
+      "url": "https://investnews.com.br/economia/em-20-anos-quantidade-de-gasolina-que-salario-minimo-pode-comprar-aumenta-57",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/06_energia_eletrobras_combustiveis.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "E a gasolina mais cara da história?",
+      "resposta": "Em nov/2021 a gasolina chegou a R$ 6,71, maior valor real em 20 anos (Poder360). O pico nominal de 2026 foi R$ 6,78–6,83 no fim de março; as notas não trazem o valor deflacionado de 2026."
+    }
+  ],
+  "relacionadas": [
+    "lula-segura-o-preco-da-gasolina",
+    "petrobras-define-o-preco-na-bomba"
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false,
+  "lacunas": [
+    "Autoria, data e local da declaração não documentados nas notas; a checagem trata a afirmação em sua forma recorrente.",
+    "A associação país-valor na GlobalPetrolPrices foi feita pela ordem da lista, pois a página não rotula os valores.",
+    "Checagens já publicadas por Aos Fatos, Lupa, Estadão Verifica e Comprova sobre o tema não foram consultadas (cota de busca esgotada); cruzar antes da publicação."
+  ]
+}

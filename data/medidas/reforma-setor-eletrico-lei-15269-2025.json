@@ -1,0 +1,141 @@
+{
+  "id": "reforma-setor-eletrico-lei-15269-2025",
+  "nome": "Reforma do setor elétrico: mercado livre para todos, Desconto Social e teto da CDE (Lei 15.269/2025)",
+  "tipo": "tarifa",
+  "governo": "lula-3",
+  "lado": "governo-lula-pt",
+  "norma": {
+    "nome": "Lei 15.269, de 24/11/2025 (conversão da MP 1.304/2025)",
+    "data": "2025-11-24",
+    "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/lei/L15269.htm",
+    "vigencia": "em vigor; abertura do mercado em 24 meses (comércio/indústria em baixa tensão) e 36 meses (demais); teto da CDE a partir do orçamento de 2027"
+  },
+  "status": "em-vigor",
+  "o_que_faz_simples": [
+    "Abre o mercado livre aos consumidores de baixa tensão (<2,3 kV): industriais e comerciais em até 24 meses e os demais em até 36 meses da vigência (reportagens traduzem como 01/08/2026 e 01/12/2027); cria o Supridor de Última Instância.",
+    "Cria um teto para a CDE a partir do orçamento de 2027: despesas limitadas ao valor de 2025 corrigido pelo IPCA, exceto itens protegidos, com 'Encargo de Complemento de Recursos'. A ANEEL projeta CDE de R$ 55,1 bi em 2027 contra teto de R$ 48,7 bi.",
+    "Muda o rateio da CDE de BT 50% / MT 33% / AT 17% para BT 43% / MT 35% / AT 22%; a partir de 01/01/2026 consumidores ≥69 kV pagam 50% e entre 2,3 e 69 kV pagam 80% do encargo por MWh pago pela baixa tensão.",
+    "Acaba com os descontos de 50–100% em TUST/TUSD para contratos de fontes incentivadas assinados após 31/12/2025; a CDE-GD passa a ser paga também por consumidores livres. Vetos: compensação a solar/eólica por cortes de geração e uso da CDE para geração distribuída.",
+    "Acrescenta 3.000 MW de térmicas a biomassa às contratações obrigatórias da Lei 14.182/2021."
+  ],
+  "quem_ganha": {
+    "descricao": "Consumidores de baixa tensão (acesso ao mercado livre e menor fatia no rateio da CDE); famílias do CadÚnico com renda per capita entre meio e um salário mínimo (Desconto Social até 120 kWh, com queda média de 15% para quem consome menos de 120 kWh); consumidores do S/SE/CO (efeito regional estimado pela ANEEL de -0,8%).",
+    "pessoas": null,
+    "faixa_renda": "baixa tensão em geral; baixa renda no Desconto Social",
+    "fonte": {
+      "nome": "ANEEL – Boletim InfoTarifa nº 3, dez/2025 (PDF)",
+      "url": "https://static.poder360.com.br/2025/12/3a-edicao-do-boletim-InfoTarifa-Aneel-Dezembro-2025.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    }
+  },
+  "quem_paga": {
+    "descricao": "Consumidores do N/NE (+0,7% segundo a ANEEL); consumidores de média e alta tensão (fatia maior no rateio da CDE); geradores de fontes incentivadas com contratos novos (fim dos descontos de rede); consumidores livres (passam a pagar CDE-GD). A Anace afirma que a reforma pode reduzir a atratividade do mercado livre.",
+    "pessoas": null,
+    "faixa_renda": "média e alta tensão; N/NE",
+    "fonte": {
+      "nome": "ANEEL – Boletim InfoTarifa nº 3, dez/2025 (PDF)",
+      "url": "https://static.poder360.com.br/2025/12/3a-edicao-do-boletim-InfoTarifa-Aneel-Dezembro-2025.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    }
+  },
+  "custo_ou_arrecadacao": {
+    "valor": null,
+    "unidade": "R$ bilhões",
+    "fonte": {
+      "nome": "Planalto – Lei 15.269/2025",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/lei/L15269.htm",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    }
+  },
+  "regra_simulador": {
+    "tipo": "nenhuma",
+    "parametros": {}
+  },
+  "mitos": [
+    {
+      "mito": "A reforma reduz os subsídios na conta de luz já em 2026.",
+      "fato": "O teto da CDE só vale a partir do orçamento de 2027; a proposta de CDE para 2026 é de R$ 52,7 bi (+ em relação aos R$ 49,2 bi de 2025) e, se o teto já valesse em 2026, teria sido ultrapassado em R$ 5,1 bi.",
+      "fontes": [
+        {
+          "nome": "Planalto – Lei 15.269/2025",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/lei/L15269.htm",
+          "acesso_em": "2026-10-21",
+          "tier": "oficial"
+        },
+        {
+          "nome": "Agência iNFRA – tag CDE",
+          "url": "https://agenciainfra.com/blog/tag/cde/",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        }
+      ]
+    },
+    {
+      "mito": "Qualquer casa já pode escolher de quem compra energia.",
+      "fato": "Pela lei, a abertura para consumidores residenciais ocorre em até 36 meses da vigência (reportagens apontam 01/12/2027); comércio e indústria em baixa tensão em até 24 meses (01/08/2026).",
+      "fontes": [
+        {
+          "nome": "Planalto – Lei 15.269/2025",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/lei/L15269.htm",
+          "acesso_em": "2026-10-21",
+          "tier": "oficial"
+        },
+        {
+          "nome": "O Setor Elétrico – Reforma do setor elétrico redefine subsídios, impõe vetos e abre caminho para o mercado livre",
+          "url": "https://www.osetoreletrico.com.br/reforma-do-setor-eletrico-redefine-subsidios-impoe-vetos-e-abre-caminho-para-o-mercado-livre/",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Planalto – Lei 15.269/2025",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/lei/L15269.htm",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "O Setor Elétrico – Reforma do setor elétrico redefine subsídios, impõe vetos e abre caminho para o mercado livre",
+      "url": "https://www.osetoreletrico.com.br/reforma-do-setor-eletrico-redefine-subsidios-impoe-vetos-e-abre-caminho-para-o-mercado-livre/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "ANEEL – Boletim InfoTarifa nº 3, dez/2025 (PDF)",
+      "url": "https://static.poder360.com.br/2025/12/3a-edicao-do-boletim-InfoTarifa-Aneel-Dezembro-2025.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Agência iNFRA – tag CDE",
+      "url": "https://agenciainfra.com/blog/tag/cde/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "eixos – Reforma do setor elétrico pode reduzir atratividade do mercado livre, diz Anace",
+      "url": "https://eixos.com.br/politica/congresso/reforma-do-setor-eletrico-pode-reduzir-atratividade-do-mercado-livre-diz-anace/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Agência Câmara – MP da reforma do setor elétrico, 22/05/2025",
+      "url": "https://www.camara.leg.br/noticias/1161307-mp-da-reforma-do-setor-eletrico-liberaliza-mercado-e-amplia-tarifa-social-de-energia-eletrica",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/06_energia_eletrobras_combustiveis.md",
+  "atualizado_em": "2026-10-21",
+  "temas": [
+    "energia"
+  ],
+  "lacunas": [
+    "Datas de abertura do mercado (01/08/2026 e 01/12/2027) são interpretações de reportagens dos prazos legais de 24 e 36 meses; efeito líquido na tarifa residencial ainda não mensurado."
+  ]
+}
