@@ -157,6 +157,10 @@ def main():
                 stats["falas_por_candidato"][d.get("candidato")] += 1
                 stats["falas_por_veredito"][d.get("veredito")] += 1
         index["arquivos"][col] = lista
+        aux = sorted(p for p in pasta.glob("_*.json")) if pasta.exists() else []
+        for p in aux:
+            if carregar(p) is not None:
+                index.setdefault("auxiliares", {}).setdefault(col, []).append(f"{col}/{p.name}")
 
     for chave, nome in UNICOS.items():
         p = DATA / nome
