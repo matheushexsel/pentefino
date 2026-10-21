@@ -1,0 +1,224 @@
+{
+  "id": "chk-5006",
+  "slug": "brasil-segundo-pais-em-mortes-por-covid",
+  "frase": "O Brasil foi o segundo país do mundo em mortes por covid-19.",
+  "frase_normalizada": "o brasil foi o segundo país do mundo em mortes por covid-19.",
+  "variantes": [
+    "Mais de 700 mil brasileiros morreram de covid",
+    "O Brasil só perdeu para os EUA em mortes na pandemia"
+  ],
+  "autor": {
+    "nome": "Afirmação recorrente no debate eleitoral (sem autor único identificado na nota)",
+    "partido": null,
+    "cargo": null,
+    "nao_verificado": true
+  },
+  "lado": "governo-lula-pt",
+  "alvo": {
+    "nome": "Governo Bolsonaro (2019–2022)",
+    "partido": "PL"
+  },
+  "data": null,
+  "onde": null,
+  "url_declaracao": null,
+  "temas": [
+    "saude"
+  ],
+  "tags": [
+    "covid",
+    "pandemia",
+    "bolsonaro",
+    "cpi"
+  ],
+  "veredito": "verdadeiro-mas",
+  "resumo_uma_frase": "Em números absolutos, sim: 700 mil mortes em 28/03/2023 (716.238 em jun/2025), atrás apenas dos EUA; em mortes por habitante o ranking é outro e não foi apurado pela nota.",
+  "explicacao_simples": [
+    "O Brasil ultrapassou 700 mil mortes por covid-19 em 28/03/2023 (700.239, Conass) e chegou a 716.238 óbitos em jun/2025, o 2º total do mundo, atrás dos EUA, e o 3º em casos.",
+    "A gestão foi majoritariamente federal (compra de vacinas, coordenação), mas governadores e prefeitos decidiram as medidas de restrição, com competência concorrente validada pelo STF.",
+    "A frase vale para o total absoluto; a comparação por habitante, mais adequada entre países de tamanhos diferentes, não foi capturada na pesquisa."
+  ],
+  "explicacao_completa_md": "## Marcos\n\n- 08/08/2020: 100 mil mortes. 07/01/2021: 200 mil. 07/04/2021: pico de mais de 4.000 mortes em um dia.\n- 28/03/2023: 700 mil mortes (700.239, Conass). Jun/2025: 716.238 óbitos e 39.279.090 casos.\n- Ranking: 2º em mortes absolutas (atrás dos EUA) e 3º em casos.\n\n## Vacinação e decisões federais\n\n- Anvisa autorizou CoronaVac e AstraZeneca em 17/01/2021; campanha nacional em 19/01/2021. Cerca de 147 milhões com ao menos uma dose em set/2021; 80% dos adultos com duas doses ao fim de 2021.\n- Estudo da Lancet (jun/2022) estima cerca de 1 milhão de mortes adicionais evitadas pela vacinação até dez/2021.\n- O governo federal não respondeu 81 e-mails da Pfizer (ofertas desde ago/2020); a CPI listou 11 recusas a ofertas de vacina; Bolsonaro defendeu a cloroquina em 23 discursos oficiais.\n- CPI da Pandemia (instalada 27/04/2021, encerrada 26/10/2021): relatório aprovado por 7 a 4 pediu indiciamento de Bolsonaro por crimes como epidemia com resultado morte, charlatanismo, prevaricação e crimes contra a humanidade, e de 65 a 81 pessoas conforme a fonte. Os pedidos não têm efeito jurídico direto; cabia à PGR e aos MPs avaliá-los.\n\n## Responsabilidade\n\nCompra de vacinas e coordenação nacional: federal. Medidas de restrição (lockdowns, escolas): governadores e prefeitos, com competência concorrente reconhecida pelo STF — ponto usado pelo governo Bolsonaro para transferir responsabilidade.\n\n## Veredito\n\nVerdadeiro em termos absolutos. Falta o ranking per capita (não apurado) para uma comparação internacional justa; a atribuição de responsabilidade pelas mortes é tratada em checagem própria.",
+  "o_que_e_verdade": [
+    "700.239 mortes em 28/03/2023 e 716.238 em jun/2025: 2º maior total do mundo, atrás dos EUA; 3º em casos.",
+    "Pico de mais de 4.000 mortes por dia em 07/04/2021.",
+    "Governo federal não respondeu 81 e-mails da Pfizer; CPI listou 11 recusas a ofertas de vacina."
+  ],
+  "o_que_nao_se_sustenta": [
+    "Usar a frase como ranking por habitante: a nota não capturou a posição per capita nem o excesso de mortalidade estimado pela OMS (2022).",
+    "Atribuir todas as mortes a um único nível de governo: estados e municípios decidiram as restrições."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Governo federal (Bolsonaro)",
+      "papel": "Compra de vacinas, coordenação nacional, comunicação; atrasos e recusas documentados pela CPI",
+      "peso": "alto"
+    },
+    {
+      "ator": "Governadores e prefeitos",
+      "papel": "Medidas de distanciamento e funcionamento de serviços (competência concorrente, STF)",
+      "peso": "medio"
+    },
+    {
+      "ator": "Congresso (CPI da Pandemia)",
+      "papel": "Investigou e pediu indiciamentos, sem efeito jurídico direto",
+      "peso": "baixo"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Mortes por covid-19",
+      "valor": 700239,
+      "unidade": "óbitos",
+      "periodo": "2023-03-28",
+      "fonte": {
+        "nome": "CartaCapital — 700 mil mortes por covid",
+        "url": "https://www.cartacapital.com.br/saude/covid-19-tres-anos-apos-primeira-morte-brasil-alcanca-a-marca-de-700-mil-mortes-pela-doenca/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Mortes por covid-19 (acumulado)",
+      "valor": 716238,
+      "unidade": "óbitos",
+      "periodo": "jun/2025",
+      "fonte": {
+        "nome": "Wikipédia pt — Pandemia de COVID-19 no Brasil",
+        "url": "https://pt.wikipedia.org/wiki/Pandemia_de_COVID-19_no_Brasil",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "casos",
+        "valor": 39279090
+      }
+    },
+    {
+      "rotulo": "Posição mundial em mortes absolutas",
+      "valor": 2,
+      "unidade": "lugar",
+      "periodo": "2023",
+      "fonte": {
+        "nome": "WUSF/AP — Brazil hits 700,000 covid deaths",
+        "url": "https://health.wusf.usf.edu/health-news-florida/2023-03-29/brazil-hits-700-000-covid-deaths-second-most-in-the-world",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "posição em casos",
+        "valor": 3
+      }
+    },
+    {
+      "rotulo": "E-mails da Pfizer sem resposta",
+      "valor": 81,
+      "unidade": "e-mails",
+      "periodo": "2020",
+      "fonte": {
+        "nome": "Wikipédia pt — CPI da Pandemia",
+        "url": "https://pt.wikipedia.org/wiki/CPI_da_Pandemia",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "recusas a ofertas listadas pela CPI",
+        "valor": 11
+      }
+    },
+    {
+      "rotulo": "Mortes evitadas pela vacinação (estimativa Lancet)",
+      "valor": 1000000,
+      "unidade": "mortes",
+      "periodo": "até dez/2021",
+      "fonte": {
+        "nome": "Wikipédia pt — Pandemia de COVID-19 no Brasil",
+        "url": "https://pt.wikipedia.org/wiki/Pandemia_de_COVID-19_no_Brasil",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Adultos com 2 doses ao fim de 2021",
+      "valor": 80,
+      "unidade": "%",
+      "periodo": "2021",
+      "fonte": {
+        "nome": "Wikipedia en — COVID-19 pandemic in Brazil",
+        "url": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Brazil",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    }
+  ],
+  "series": [
+    "covid-mortes"
+  ],
+  "checagens_externas": [],
+  "fontes": [
+    {
+      "nome": "Wikipedia en — COVID-19 pandemic in Brazil",
+      "url": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Brazil",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Wikipédia pt — Pandemia de COVID-19 no Brasil",
+      "url": "https://pt.wikipedia.org/wiki/Pandemia_de_COVID-19_no_Brasil",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "CartaCapital — 700 mil mortes por covid",
+      "url": "https://www.cartacapital.com.br/saude/covid-19-tres-anos-apos-primeira-morte-brasil-alcanca-a-marca-de-700-mil-mortes-pela-doenca/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "WUSF/AP — Brazil hits 700,000 covid deaths",
+      "url": "https://health.wusf.usf.edu/health-news-florida/2023-03-29/brazil-hits-700-000-covid-deaths-second-most-in-the-world",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Wikipédia pt — CPI da Pandemia",
+      "url": "https://pt.wikipedia.org/wiki/CPI_da_Pandemia",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Congresso em Foco — relatório final da CPI da Pandemia",
+      "url": "https://congressoemfoco.com.br/temas/saude/senadores-aprovam-relatorio-final-da-pandemia",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Jornal de Brasília — MS anunciará 700 mil mortes",
+      "url": "https://jornaldebrasilia.com.br/noticias/brasil/ministerio-da-saude-anunciara-700-mil-mortes-por-covid-no-brasil/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/07_saude_seguranca_educacao_infra_ambiente.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "Os indiciamentos da CPI deram em algo?",
+      "resposta": "A nota não conseguiu confirmar o desfecho na PGR (arquivamentos sob Augusto Aras / inquéritos sob Paulo Gonet) nem decisões posteriores do STF; é lacuna a verificar."
+    }
+  ],
+  "relacionadas": [
+    "covid-700-mil-mortes-responsabilidade",
+    "vacinacao-caiu-no-governo-bolsonaro"
+  ],
+  "lacunas": [
+    "Ranking per capita e excesso de mortalidade (OMS 2022) não capturados.",
+    "Desfecho dos pedidos da CPI na PGR não confirmado."
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false
+}

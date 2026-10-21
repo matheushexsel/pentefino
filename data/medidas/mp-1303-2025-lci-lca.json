@@ -1,0 +1,122 @@
+{
+  "id": "mp-1303-2025-lci-lca",
+  "nome": "MP 1.303/2025: tributação de LCI, LCA e títulos incentivados, bets a 18% e JCP a 20% — caducou em 08/10/2025",
+  "tipo": "imposto",
+  "governo": "lula-3",
+  "lado": "governo-lula-pt",
+  "norma": {
+    "nome": "Medida Provisória 1.303/2025 (editada como alternativa à alta do IOF, jun/2025)",
+    "data": null,
+    "url": "https://pradvogados.com.br/2025/09/26/mp-1303-parecer-mantem-isencao-para-debentures-incentivadas-cri-e-cra-mas-eleva-tributacao-sobre-lci-e-lca-para-75/",
+    "vigencia": "Perdeu eficácia em 08/10/2025, após a Câmara retirar o texto de pauta"
+  },
+  "status": "caducou",
+  "o_que_faz_simples": [
+    "O texto original previa IR de 5% sobre títulos hoje isentos para pessoa física (LCI, LCA, CRI, CRA e debêntures incentivadas), elevação da contribuição das bets sobre o GGR de 12% para 18% e do IRRF sobre juros sobre capital próprio (JCP) de 15% para 20%.",
+    "O relator subiu a alíquota para 7,5%, restringindo-a a LCI, LCA, LIG e LCD e mantendo isentos CRI, CRA e debêntures incentivadas; a Frente Parlamentar do Agro rejeitou qualquer tributação de LCI/LCA.",
+    "A Câmara retirou a MP de pauta em 08/10/2025 e ela caducou. LCI e LCA seguem isentas para pessoa física e também ficaram fora da base do imposto mínimo da Lei 15.270/2025.",
+    "A alíquota das bets acabou escalonada depois pela LC 224/2025 (13% a partir de abr/2026, até 15% em 2028)."
+  ],
+  "quem_ganha": {
+    "descricao": "Com a caducidade, investidores pessoa física em LCI/LCA (que seguem isentos), bancos emissores e o setor do agronegócio e imobiliário que se financia com esses papéis. Investidores em renda fixa isenta estão concentrados no topo da distribuição (sem quantificação nas notas).",
+    "pessoas": null,
+    "faixa_renda": "Investidores em renda fixa isenta (perfil de renda não quantificado)",
+    "fonte": {
+      "nome": "Poder360 — Frente do Agro diz que não aceitará redução do tributo sobre LCA e LCI",
+      "url": "https://www.poder360.com.br/poder-agro/frente-do-agro-diz-que-nao-aceitara-reducao-do-tributo-sobre-lca-e-lci/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  },
+  "quem_paga": {
+    "descricao": "Enquanto proposta: investidores PF em LCI/LCA (5% a 7,5%), casas de apostas (18%) e empresas pagadoras de JCP (20%). Com a caducidade, ninguém; a União deixou de contar com a receita prevista.",
+    "pessoas": null,
+    "faixa_renda": "Não se aplica (medida não vigorou)",
+    "fonte": {
+      "nome": "PR Advogados — MP 1.303: parecer mantém isenção para debêntures incentivadas, CRI e CRA, mas eleva LCI/LCA para 7,5%",
+      "url": "https://pradvogados.com.br/2025/09/26/mp-1303-parecer-mantem-isencao-para-debentures-incentivadas-cri-e-cra-mas-eleva-tributacao-sobre-lci-e-lca-para-75/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  },
+  "custo_ou_arrecadacao": {
+    "valor": null,
+    "unidade": "R$ bilhões",
+    "periodo": null,
+    "descricao": "Receita esperada com a MP não consta das notas.",
+    "fonte": {
+      "nome": "Agência Infra — MP 1.303 caduca",
+      "url": "https://agenciainfra.com/blog/?p=28951",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  },
+  "regra_simulador": {
+    "tipo": "nenhuma",
+    "parametros": {}
+  },
+  "mitos": [
+    {
+      "mito": "LCI e LCA passaram a ser tributadas pelo governo Lula.",
+      "fato": "A MP 1.303/2025, que previa 5% (depois 7,5%) sobre esses títulos, caducou em 08/10/2025 sem votação. LCI e LCA seguem isentas para pessoa física e ficaram fora da base do imposto mínimo da Lei 15.270/2025.",
+      "fontes": [
+        {
+          "nome": "PR Advogados — MP 1.303: parecer mantém isenção para debêntures incentivadas, CRI e CRA, mas eleva LCI/LCA para 7,5%",
+          "url": "https://pradvogados.com.br/2025/09/26/mp-1303-parecer-mantem-isencao-para-debentures-incentivadas-cri-e-cra-mas-eleva-tributacao-sobre-lci-e-lca-para-75/",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "Agência Infra — MP 1.303 caduca",
+          "url": "https://agenciainfra.com/blog/?p=28951",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "B3 Bora Investir — LCI/LCA e o IR 2026",
+          "url": "https://borainvestir.b3.com.br/tipos-de-investimentos/renda-fixa/lci-lca-e-lc/investimentos-isentos-como-declarar-lci-e-lca-corretamente-no-imposto-de-renda-2026/",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "PR Advogados — MP 1.303: parecer mantém isenção para debêntures incentivadas, CRI e CRA, mas eleva LCI/LCA para 7,5%",
+      "url": "https://pradvogados.com.br/2025/09/26/mp-1303-parecer-mantem-isencao-para-debentures-incentivadas-cri-e-cra-mas-eleva-tributacao-sobre-lci-e-lca-para-75/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Poder360 — Frente do Agro diz que não aceitará redução do tributo sobre LCA e LCI",
+      "url": "https://www.poder360.com.br/poder-agro/frente-do-agro-diz-que-nao-aceitara-reducao-do-tributo-sobre-lca-e-lci/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Agência Infra — MP 1.303 caduca",
+      "url": "https://agenciainfra.com/blog/?p=28951",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Demarest — crise do IOF pressiona governo e gera reação do Congresso (PDF, jun/2025)",
+      "url": "https://www.demarest.com.br/wp-content/uploads/2025/06/Crise-do-IOF-pressiona-governo-gera-reacao-do-Congresso-e-preocupa-setor.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "B3 Bora Investir — LCI/LCA e o IR 2026",
+      "url": "https://borainvestir.b3.com.br/tipos-de-investimentos/renda-fixa/lci-lca-e-lc/investimentos-isentos-como-declarar-lci-e-lca-corretamente-no-imposto-de-renda-2026/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/12_pix_fake_news_e_impostos_quem_paga.md",
+  "lacunas": [
+    "Data de publicação e URL oficial da MP 1.303/2025 não constam das notas.",
+    "Receita estimada pela Fazenda com a MP não localizada."
+  ],
+  "atualizado_em": "2026-10-21"
+}

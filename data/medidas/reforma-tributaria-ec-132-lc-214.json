@@ -1,0 +1,211 @@
+{
+  "id": "reforma-tributaria-ec-132-lc-214",
+  "nome": "Reforma tributária do consumo: IBS/CBS, cesta básica zerada e cashback (EC 132/2023, LC 214/2025, LC 227/2026)",
+  "tipo": "imposto",
+  "governo": "lula-3",
+  "lado": "governo-lula-pt",
+  "norma": {
+    "nome": "Emenda Constitucional 132/2023; Lei Complementar 214/2025 (regulamentação; DOU edição extra de 16/01/2025, com vetos); Lei Complementar 227/2026 (Comitê Gestor do IBS e ITCMD progressivo; 14/01/2026)",
+    "data": "2025-01-16",
+    "url": "https://www.conjur.com.br/2025-jan-16/presidente-sanciona-texto-da-regulamentacao-da-reforma-tributaria//?print=1",
+    "vigencia": "Transição de 2026 a 2033 (ICMS e ISS extintos até 2032); cesta básica totalmente livre só em 2033; Imposto Seletivo a partir de 2027"
+  },
+  "status": "em-vigor",
+  "o_que_faz_simples": [
+    "Substitui cinco tributos sobre consumo — PIS, Cofins e IPI (federais), ICMS (estadual) e ISS (municipal) — por dois: a CBS (federal) e o IBS (estados e municípios), com transição de 2026 a 2033.",
+    "Cesta básica nacional: 26 itens (arroz, feijão, leite, carnes, café, açúcar, pão francês, massas etc.) com IBS/CBS zerados, mais hortifrúti e ovos. O ICMS continua até 2032 (com reduções a partir de 2029), então a cesta só fica totalmente livre em 2033. A lei não obriga repasse a preços.",
+    "Cashback: famílias do Cadastro Único com renda até meio salário mínimo por pessoa recebem de volta 100% da CBS em energia, água, gás e telefone e 20% da CBS nas demais compras (detalhamento de fonte única; percentuais a verificar no texto legal). Bernard Appy: as exceções criadas pelo Congresso reduziram o espaço do cashback.",
+    "Cria o Imposto Seletivo (ver medida própria), autoriza IPVA sobre jatos e iates (ver medida própria) e permite ITCMD progressivo sobre heranças (regulado pela LC 227/2026).",
+    "Prevê avaliação quinquenal obrigatória dos regimes especiais, da redução de desigualdade e da sustentabilidade da alíquota.",
+    "Alíquotas de referência do IBS/CBS e do Imposto Seletivo ainda não estavam fixadas em out/2026. O plano de Flávio Bolsonaro propõe revisar a reforma para reduzir o IVA, que o próprio plano estima em ~30% (contra 19% de média da OCDE), cortar exceções setoriais e eliminar o split payment; na pré-campanha, Flávio disse que suspenderia a entrada em vigor por pelo menos um ano."
+  ],
+  "quem_ganha": {
+    "descricao": "Famílias de menor renda, por dois canais: cesta básica zerada (beneficia todos, inclusive ricos em valor absoluto) e cashback focalizado no CadÚnico (≤ ½ SM per capita). Diagnóstico da Fazenda (Rodrigo Orair): os 10% mais pobres gastam ~27% da renda com PIS, Cofins, IPI, ICMS e ISS, contra ~10% dos 10% mais ricos. Banco Mundial: isenção ampla da cesta pode beneficiar os ricos em termos absolutos; cashback é mais eficiente.",
+    "pessoas": null,
+    "faixa_renda": "Cashback: famílias do CadÚnico com renda per capita até ½ salário mínimo; cesta zerada: todos os consumidores",
+    "fonte": {
+      "nome": "Correio Braziliense (26/04/2024, PDF) — Orair: 10% mais pobres gastam ~27% da renda nos tributos substituídos",
+      "url": "https://edicao.correiobraziliense.com.br/correiobraziliense/2024/04/26/140781/pdf/A03-POL-2604-DIG.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  },
+  "quem_paga": {
+    "descricao": "Consumidores de produtos do Imposto Seletivo, proprietários de aeronaves e embarcações (IPVA), heranças maiores (ITCMD progressivo) e setores que perdem regimes especiais. O efeito líquido por decil após as exceções do Congresso não foi estimado em estudo oficial localizado.",
+    "pessoas": null,
+    "faixa_renda": "Indeterminado por faixa até a fixação das alíquotas",
+    "fonte": {
+      "nome": "Valor Final — guia: cesta básica e cashback na reforma tributária",
+      "url": "https://valorfinal.com.br/guia/reforma-tributaria-cesta-basica-e-cashback",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  },
+  "custo_ou_arrecadacao": {
+    "valor": null,
+    "unidade": "R$ bilhões",
+    "periodo": null,
+    "descricao": "A reforma é desenhada para manter a carga agregada; alíquotas de referência não fixadas em out/2026. Para o Imposto Seletivo, a Fazenda estimava R$ 41,9 bi em 2027 (ver medida 'imposto-seletivo').",
+    "fonte": {
+      "nome": "Migalhas — publicada a primeira lei que regulamenta a reforma tributária (LC 214/2025)",
+      "url": "https://www.migalhas.com.br/depeso/423169/publicada-a-primeira-lei-que-regulamenta-a-reforma-tributaria",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  },
+  "regra_simulador": {
+    "tipo": "nenhuma",
+    "parametros": {}
+  },
+  "mitos": [
+    {
+      "mito": "O IVA de 30% já está definido e começa a ser cobrado agora.",
+      "fato": "A alíquota de ~30% é uma projeção citada no plano de governo de Flávio Bolsonaro; as alíquotas de referência do IBS/CBS não estavam fixadas em out/2026 e a transição vai de 2026 a 2033, com ICMS e ISS extintos só em 2032.",
+      "fontes": [
+        {
+          "nome": "Plano de Governo Flávio Bolsonaro 2026 (agregador planodegoverno2026.com.br, com link ao TSE)",
+          "url": "https://planodegoverno2026.com.br/candidatos/presidente/flavio-bolsonaro/",
+          "acesso_em": "2026-10-21",
+          "tier": "partidario"
+        },
+        {
+          "nome": "Migalhas — publicada a primeira lei que regulamenta a reforma tributária (LC 214/2025)",
+          "url": "https://www.migalhas.com.br/depeso/423169/publicada-a-primeira-lei-que-regulamenta-a-reforma-tributaria",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        }
+      ]
+    },
+    {
+      "mito": "A cesta básica já está isenta de impostos em 2026.",
+      "fato": "Os 26 itens da cesta têm IBS/CBS zerados, mas o ICMS estadual continua até 2032 (com reduções a partir de 2029); a cesta só fica totalmente livre em 2033. A lei não obriga que a redução seja repassada aos preços.",
+      "fontes": [
+        {
+          "nome": "Valor Final — guia: cesta básica e cashback na reforma tributária",
+          "url": "https://valorfinal.com.br/guia/reforma-tributaria-cesta-basica-e-cashback",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        }
+      ]
+    },
+    {
+      "mito": "Isentar a cesta básica é a melhor forma de ajudar os pobres.",
+      "fato": "Estudo do Banco Mundial mostra que a isenção ampla beneficia os vulneráveis, mas o gasto em alguns itens se concentra no décimo mais rico, de modo que os ricos ganham mais em valor absoluto; o cashback focalizado é apontado como mais eficiente. Appy admitiu que o cashback 'certamente será menor do que poderia ser' por causa das exceções do Congresso.",
+      "fontes": [
+        {
+          "nome": "Banco Mundial — isenção da cesta básica x cashback (PDF)",
+          "url": "https://documents1.worldbank.org/curated/en/099101623102515592/pdf/P17960313f044042142191400e1a0b01396082d33fef.pdf",
+          "acesso_em": "2026-10-21",
+          "tier": "multilateral"
+        },
+        {
+          "nome": "Livres — NT 07/23 sobre cashback (Senado)",
+          "url": "https://eusoulivres.org/wp-content/uploads/2023/09/NT-Livres_07_23_-Senado-Cashback.pdf",
+          "acesso_em": "2026-10-21",
+          "tier": "partidario"
+        },
+        {
+          "nome": "Monitor Mercantil — Appy: Congresso reduziu espaço para cashback",
+          "url": "https://monitormercantil.com.br/appy-congresso-reduziu-espaco-para-cashback-na-reforma-tributaria/",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Migalhas — publicada a primeira lei que regulamenta a reforma tributária (LC 214/2025)",
+      "url": "https://www.migalhas.com.br/depeso/423169/publicada-a-primeira-lei-que-regulamenta-a-reforma-tributaria",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Conjur — presidente sanciona texto da regulamentação da reforma tributária",
+      "url": "https://www.conjur.com.br/2025-jan-16/presidente-sanciona-texto-da-regulamentacao-da-reforma-tributaria//?print=1",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Valor Final — guia: cesta básica e cashback na reforma tributária",
+      "url": "https://valorfinal.com.br/guia/reforma-tributaria-cesta-basica-e-cashback",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Monitor Mercantil — Appy: Congresso reduziu espaço para cashback",
+      "url": "https://monitormercantil.com.br/appy-congresso-reduziu-espaco-para-cashback-na-reforma-tributaria/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Correio Braziliense (26/04/2024, PDF) — Orair: 10% mais pobres gastam ~27% da renda nos tributos substituídos",
+      "url": "https://edicao.correiobraziliense.com.br/correiobraziliense/2024/04/26/140781/pdf/A03-POL-2604-DIG.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Banco Mundial — isenção da cesta básica x cashback (PDF)",
+      "url": "https://documents1.worldbank.org/curated/en/099101623102515592/pdf/P17960313f044042142191400e1a0b01396082d33fef.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "multilateral"
+    },
+    {
+      "nome": "Livres — NT 07/23 sobre cashback (Senado)",
+      "url": "https://eusoulivres.org/wp-content/uploads/2023/09/NT-Livres_07_23_-Senado-Cashback.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "partidario"
+    },
+    {
+      "nome": "FIEMG — sanção do PLP 108/2024 (LC 227/2026) (PDF, jan/2026)",
+      "url": "https://www.fiemg.com.br/fiemg/wp-content/uploads/sites/10/2026/01/IE_04-Reforma-Tributaria-Sancao-PLP-108-2024.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Simtax — avaliação quinquenal da reforma",
+      "url": "https://simtax.com.br/?p=64554",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Plano de Governo Flávio Bolsonaro 2026 (agregador planodegoverno2026.com.br, com link ao TSE)",
+      "url": "https://planodegoverno2026.com.br/candidatos/presidente/flavio-bolsonaro/",
+      "acesso_em": "2026-10-21",
+      "tier": "partidario"
+    },
+    {
+      "nome": "BP Money — propostas de Lula e Flávio para a reforma tributária (2026)",
+      "url": "https://bpmoney.com.br/politica/reforma-tributaria-propostas-lula-flavio-bolsonaro-2026/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "InvestNews — planos de Flávio Bolsonaro para a economia",
+      "url": "https://investnews.com.br/economia/planos-de-flavio-bolsonaro-para-a-economia/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Jornal O Dia (PDF, 10/06/2026) — Flávio suspenderia por um ano a reforma tributária",
+      "url": "https://www.contracheque.aperibe.rj.gov.br/licitacao/abrir/472/publicacao/jornal_o_dia_10-06.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Programa de Governo Lula 2026 — 'Brasil Pronto Pra Mais' (PDF, Poder360)",
+      "url": "https://static.poder360.com.br/uploads/2026/08/Programa-Governo-LULA-2026.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "partidario"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/12_pix_fake_news_e_impostos_quem_paga.md",
+  "lacunas": [
+    "Estudo oficial por decil (Ipea/Fipe/Fazenda) com o efeito líquido da reforma após as exceções do Congresso não localizado; só a estatística agregada de Orair (27% vs 10%).",
+    "Artigos exatos do cashback (percentuais 100%/20%) e do ITCMD sobre bens no exterior não verificados no texto legal (fonte única).",
+    "Calendário detalhado 2026-2033 (alíquotas-teste de CBS/IBS em 2026 etc.) não apareceu nas fontes.",
+    "Data de promulgação da EC 132/2023 não consta das notas.",
+    "URLs oficiais (Planalto) da EC 132, LC 214 e LC 227 não constam das notas."
+  ],
+  "atualizado_em": "2026-10-21"
+}

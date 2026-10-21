@@ -1,0 +1,208 @@
+{
+  "id": "chk-3011",
+  "slug": "bolsonaro-zerou-impostos-dos-combustiveis-em-2022",
+  "frase": "Bolsonaro zerou os impostos dos combustíveis em 2022.",
+  "frase_normalizada": "bolsonaro zerou os impostos dos combustíveis em 2022",
+  "variantes": [],
+  "autor": {
+    "nome": "Afirmação recorrente em redes sociais e no debate eleitoral (sem autor único identificado nas notas)",
+    "partido": null,
+    "cargo": null
+  },
+  "lado": "outro",
+  "alvo": {
+    "nome": "Jair Bolsonaro",
+    "partido": "PL"
+  },
+  "data": null,
+  "onde": "redes sociais e debate eleitoral",
+  "url_declaracao": null,
+  "temas": [
+    "combustiveis",
+    "impostos"
+  ],
+  "tags": [
+    "LC 192",
+    "LC 194",
+    "PIS/Cofins",
+    "ICMS",
+    "2022"
+  ],
+  "veredito": "verdadeiro-mas",
+  "resumo_uma_frase": "Em 2022 o governo Bolsonaro e o Congresso zeraram os tributos federais (PIS/Cofins/Cide) até 31/12/2022 e limitaram o ICMS a 17–18%, a um custo estimado de R$ 64,8 bi mais R$ 27 bi de compensação aos estados; o ICMS não foi zerado e a medida era temporária.",
+  "explicacao_simples": [
+    "As LCs 192 e 194, de março e junho de 2022, zeraram PIS/Cofins e Cide de diesel, GLP, gasolina e etanol até 31/12/2022 e limitaram o ICMS à alíquota modal de 17–18%.",
+    "O pacote foi estimado em R$ 64,8 bi para a União em 2022, mais R$ 27 bi de compensação aos estados por acordo no STF em 2023; os estados calculam perda de cerca de R$ 100 bi por ano.",
+    "O ICMS, a maior fatia, continuou a ser cobrado (hoje R$ 1,57/l na gasolina) e os tributos federais voltaram em 2023."
+  ],
+  "explicacao_completa_md": "## O que foi feito\n- LC 192 (11/03/2022): monofasia, ICMS fixo por litro e PIS/Cofins zerados para diesel, biodiesel, GLP e QAV.\n- LC 194 (jun/2022): combustíveis como 'essenciais', ICMS limitado a 17–18%; Cide/PIS/Cofins de gasolina, etanol e GNV zerados até 31/12/2022.\n- Estimativa de queda: R$ 0,76/l no diesel e R$ 1,65/l na gasolina.\n\n## Custo\n- União: R$ 64,8 bi estimados em 2022 (R$ 35,2 bi de tributos federais + R$ 29,6 bi para compensar estados), fora do teto de gastos; prorrogar para 2023 custaria R$ 52,9 bi.\n- Acordo no STF (02/06/2023): R$ 27 bi aos estados em 2023–2025.\n- Estados: 'choque negativo de aproximadamente R$ 100 bilhões anuais' (Comsefaz); 12 estados elevaram a alíquota modal para 19–21% em 2023.\n\n## Veredito\n**Verdadeiro, mas.** Só os tributos federais foram zerados, de forma temporária, em ano eleitoral, com custo bilionário para União e estados; o ICMS foi limitado, não zerado, e passou a valor fixo por litro definido pelo Confaz.",
+  "o_que_e_verdade": [
+    "Tributos federais zerados em 2022; ICMS limitado a 17–18% por lei complementar aprovada pelo Congresso."
+  ],
+  "o_que_nao_se_sustenta": [
+    "'Zerou os impostos' omite o ICMS, que seguiu sendo cobrado, e o caráter temporário (até 31/12/2022).",
+    "A medida teve custo estimado em R$ 64,8 bi + R$ 27 bi para a União e perdas de ~R$ 100 bi/ano para os estados."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Governo Bolsonaro",
+      "papel": "propôs e sancionou a desoneração",
+      "peso": "alto"
+    },
+    {
+      "ator": "Congresso Nacional",
+      "papel": "aprovou as LCs 192 e 194",
+      "peso": "alto"
+    },
+    {
+      "ator": "Estados",
+      "papel": "perderam receita; alguns elevaram a alíquota modal em 2023",
+      "peso": "medio"
+    },
+    {
+      "ator": "STF",
+      "papel": "homologou a compensação de R$ 27 bi",
+      "peso": "baixo"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Custo estimado do pacote para a União em 2022",
+      "valor": 64.8,
+      "unidade": "R$ bilhões",
+      "periodo": "2022",
+      "fonte": {
+        "nome": "eixos – Corte de impostos dos combustíveis custará R$ 64,8 bi ao governo em ano eleitoral (09/06/2022)",
+        "url": "https://eixos.com.br/corte-de-impostos-dos-combustiveis-custara-r-648-bi-ao-governo-em-ano-eleitoral/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "Tributos federais",
+        "valor": 35.2
+      }
+    },
+    {
+      "rotulo": "Compensação aos estados por acordo no STF",
+      "valor": 27,
+      "unidade": "R$ bilhões",
+      "periodo": "2023–2025",
+      "fonte": {
+        "nome": "Notícias Agrícolas – STF homologa acordo de R$ 27 bi entre União e estados (06/06/2023)",
+        "url": "https://www.noticiasagricolas.com.br/noticia/351323",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Perda anual estimada pelos estados",
+      "valor": 100,
+      "unidade": "R$ bilhões (aprox.)",
+      "periodo": "12 meses pós-lei",
+      "fonte": {
+        "nome": "Comsefaz – Nota Técnica 023/2023, impactos das LCs 192 e 194 (PDF)",
+        "url": "https://static.poder360.com.br/2023/11/NOTA-TECNICA-COMSEFAZ-023-2023-Impactos-das-LCs-192.22-e-LCs-194.22-sobre-arrecadacao-de-ICMS-dos-estados1-1.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "Perda em 2022",
+        "valor": 45
+      }
+    },
+    {
+      "rotulo": "Queda estimada na gasolina",
+      "valor": 1.65,
+      "unidade": "R$/l",
+      "periodo": "2022",
+      "fonte": {
+        "nome": "eixos – Corte de impostos dos combustíveis custará R$ 64,8 bi ao governo em ano eleitoral (09/06/2022)",
+        "url": "https://eixos.com.br/corte-de-impostos-dos-combustiveis-custara-r-648-bi-ao-governo-em-ano-eleitoral/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "Diesel",
+        "valor": 0.76
+      }
+    },
+    {
+      "rotulo": "ICMS por litro de gasolina hoje",
+      "valor": 1.57,
+      "unidade": "R$/l",
+      "periodo": "2026",
+      "fonte": {
+        "nome": "Diário do Comércio – ICMS da gasolina e do diesel sobe em 2026",
+        "url": "https://diariodocomercio.com.br/economia/icms-gasolina-diesel-subir-2026-veja-novos-valores/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    }
+  ],
+  "series": [
+    "gasolina-preco-anual"
+  ],
+  "checagens_externas": [],
+  "fontes": [
+    {
+      "nome": "Comsefaz – Nota Técnica 023/2023, impactos das LCs 192 e 194 (PDF)",
+      "url": "https://static.poder360.com.br/2023/11/NOTA-TECNICA-COMSEFAZ-023-2023-Impactos-das-LCs-192.22-e-LCs-194.22-sobre-arrecadacao-de-ICMS-dos-estados1-1.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "eixos – Corte de impostos dos combustíveis custará R$ 64,8 bi ao governo em ano eleitoral (09/06/2022)",
+      "url": "https://eixos.com.br/corte-de-impostos-dos-combustiveis-custara-r-648-bi-ao-governo-em-ano-eleitoral/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "novaCana – Impostos federais de combustíveis zerados em 2023 (01/09/2022)",
+      "url": "https://www.novacana.com/noticias/impostos-federais-combustiveis-zerados-2023-governo-010922",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Notícias Agrícolas – STF homologa acordo de R$ 27 bi entre União e estados (06/06/2023)",
+      "url": "https://www.noticiasagricolas.com.br/noticia/351323",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Acordo União–estados sobre ICMS, dez/2022 (PDF via Poder360)",
+      "url": "https://static.poder360.com.br/2022/12/acordo-estados-uniao-icms-stf-2-dez-2022.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Diário do Comércio – ICMS da gasolina e do diesel sobe em 2026",
+      "url": "https://diariodocomercio.com.br/economia/icms-gasolina-diesel-subir-2026-veja-novos-valores/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/06_energia_eletrobras_combustiveis.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "E o governo Lula fez algo parecido?",
+      "resposta": "Em 2026, com o Brent acima de US$ 100, o governo Lula pagou subvenções por MP e cortou tributos federais por períodos de 30 dias; créditos extraordinários somam R$ 24,4 bi até setembro, mais R$ 10,5 bi e R$ 5,2 bi em prorrogações."
+    }
+  ],
+  "relacionadas": [
+    "lula-segura-o-preco-da-gasolina",
+    "governador-aumentou-o-icms-da-gasolina"
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false,
+  "lacunas": [
+    "Autoria, data e local da declaração não documentados nas notas; a checagem trata a afirmação em sua forma recorrente.",
+    "Custo efetivamente executado (não estimado) da desoneração de 2022 não localizado em fonte oficial.",
+    "Checagens já publicadas por Aos Fatos, Lupa, Estadão Verifica e Comprova sobre o tema não foram consultadas (cota de busca esgotada); cruzar antes da publicação."
+  ]
+}

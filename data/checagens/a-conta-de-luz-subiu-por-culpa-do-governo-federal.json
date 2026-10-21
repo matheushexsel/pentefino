@@ -1,0 +1,306 @@
+{
+  "id": "chk-3001",
+  "slug": "a-conta-de-luz-subiu-por-culpa-do-governo-federal",
+  "frase": "A conta de luz subiu por culpa do governo federal.",
+  "frase_normalizada": "a conta de luz subiu por culpa do governo federal",
+  "variantes": [],
+  "autor": {
+    "nome": "Afirmação recorrente em redes sociais e no debate eleitoral (sem autor único identificado nas notas)",
+    "partido": null,
+    "cargo": null
+  },
+  "lado": "outro",
+  "alvo": {
+    "nome": "Governo federal (Lula)",
+    "partido": "PT"
+  },
+  "data": null,
+  "onde": "redes sociais e debate eleitoral",
+  "url_declaracao": null,
+  "temas": [
+    "energia"
+  ],
+  "tags": [
+    "conta de luz",
+    "ANEEL",
+    "CDE",
+    "Enel SP",
+    "tarifa"
+  ],
+  "veredito": "falta-contexto",
+  "resumo_uma_frase": "A ANEEL homologa cada reajuste e os principais motores de 2025–2026 foram encargos (CDE) criados por leis de vários governos e itens financeiros; o governo Lula ampliou subsídios pagos via CDE, mas não fixa a tarifa.",
+  "explicacao_simples": [
+    "Quem aprova o reajuste de cada distribuidora é a ANEEL, não o Planalto, e a agência atribuiu as altas de 2025 e 2026 principalmente à CDE e a itens financeiros.",
+    "A CDE é criada e ampliada por leis do Congresso sancionadas por vários governos; em 2025 o governo Lula ampliou a Tarifa Social, cujo custo (R$ 10,4 bi em 2026) é pago pelos demais consumidores.",
+    "Os estados fixam o ICMS (média de 18%) e a cor da bandeira depende da chuva, então culpar um só governo por um reajuste é simplificar demais."
+  ],
+  "explicacao_completa_md": "## O que a frase diz\nQue a alta da conta de luz é responsabilidade do governo federal.\n\n## O que o registro mostra\n- **Quem decide**: a tarifa de cada distribuidora é homologada pela ANEEL em reunião pública (ex.: Enel SP 2026, aprovado em 30/06/2026). O governo federal não fixa tarifa.\n- **Por que subiu**: a ANEEL atribui o efeito médio de 7,0% em 2025 (IPCA 4,4%) 'principalmente devido ao aumento da CDE (Uso e GD)' e a alta projetada de 8,6% a 9,4% em 2026 'principalmente pelo aumento da Conta de Desenvolvimento Energético'. Na Enel SP, os reajustes de 13,94% (2025) e 10,18% (2026) vieram de encargos e itens financeiros; a parcela da distribuidora subiu 1,02% e 0,37 p.p.\n- **O que é do governo federal e do Congresso**: a CDE é definida em lei. A proposta para 2026 soma R$ 52,7 bi, com Tarifa Social de R$ 10,4 bi (+33%, ampliada pela MP 1.300/2025 do governo Lula), fontes incentivadas R$ 19,6 bi e geração distribuída R$ 6,8 bi (+87%). A Lei 14.182/2021 (governo Bolsonaro e Congresso) obrigou a contratação de térmicas que associações estimam custar dezenas de bilhões. A Lei 15.269/2025 (governo Lula e Congresso) criou um teto para a CDE a partir de 2027.\n- **O que não é do governo federal**: o ICMS (estados, alíquota média de 18,0%), a cor da bandeira (hidrologia) e a qualidade do serviço da distribuidora.\n\n## Veredito\n**Falta contexto.** Há responsabilidade federal e do Congresso pelos encargos que puxaram os reajustes, inclusive por decisões do governo atual (Tarifa Social via CDE), mas a tarifa é homologada pela ANEEL e os encargos resultam de leis acumuladas por vários governos.",
+  "o_que_e_verdade": [
+    "Os encargos (CDE) foram o principal motor dos reajustes de 2025 e 2026, segundo a ANEEL.",
+    "A CDE é definida por lei; o governo Lula ampliou a Tarifa Social em 2025, paga pela CDE, e a proposta de CDE para 2026 cresce para R$ 52,7 bi.",
+    "A conta sobe acima da inflação há mais de uma década."
+  ],
+  "o_que_nao_se_sustenta": [
+    "O governo federal não fixa a tarifa de nenhuma distribuidora: quem homologa é a ANEEL.",
+    "Os encargos vêm de leis de vários governos e do Congresso (inclusive a Lei 14.182/2021, do governo Bolsonaro, com térmicas obrigatórias).",
+    "ICMS é estadual e a bandeira depende da chuva."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "ANEEL",
+      "papel": "homologa reajustes e define bandeiras",
+      "peso": "alto"
+    },
+    {
+      "ator": "Congresso Nacional",
+      "papel": "cria encargos e subsídios pagos via CDE",
+      "peso": "alto"
+    },
+    {
+      "ator": "Governo federal (Lula)",
+      "papel": "propôs a MP 1.300/2025 (Tarifa Social via CDE) e a reforma com teto da CDE",
+      "peso": "medio"
+    },
+    {
+      "ator": "Governo Bolsonaro e Congresso",
+      "papel": "Lei 14.182/2021 com contratação obrigatória de térmicas",
+      "peso": "medio"
+    },
+    {
+      "ator": "Estados",
+      "papel": "ICMS (média 18%)",
+      "peso": "medio"
+    },
+    {
+      "ator": "Distribuidoras",
+      "papel": "Parcela B e qualidade do serviço",
+      "peso": "baixo"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Efeito médio dos reajustes em 2025",
+      "valor": 7.0,
+      "unidade": "%",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "ANEEL – Boletim InfoTarifa nº 3, dez/2025 (PDF)",
+        "url": "https://static.poder360.com.br/2025/12/3a-edicao-do-boletim-InfoTarifa-Aneel-Dezembro-2025.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "IPCA 2025",
+        "valor": 4.4
+      }
+    },
+    {
+      "rotulo": "Projeção de alta em 2026 (InfoTarifa jun/2026)",
+      "valor": 8.6,
+      "unidade": "%",
+      "periodo": "2026",
+      "fonte": {
+        "nome": "SBT News – Conta de luz deve subir 8,6% em 2026, acima da inflação (12/06/2026)",
+        "url": "https://sbtnews.sbt.com.br/noticia/economia/conta-de-luz-deve-subir-8-6-em-2026-acima-da-inflacao",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "IPCA projetado",
+        "valor": 4.9
+      }
+    },
+    {
+      "rotulo": "Contribuição dos encargos setoriais no reajuste médio de 2025",
+      "valor": 4.1,
+      "unidade": "p.p.",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "ANEEL – Boletim InfoTarifa nº 3, dez/2025 (PDF)",
+        "url": "https://static.poder360.com.br/2025/12/3a-edicao-do-boletim-InfoTarifa-Aneel-Dezembro-2025.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    {
+      "rotulo": "Reajuste Enel SP 2025",
+      "valor": 13.94,
+      "unidade": "%",
+      "periodo": "jul/2025",
+      "fonte": {
+        "nome": "Poder360 – ANEEL aprova reajuste médio de 13,94% nas tarifas da Enel SP",
+        "url": "https://www.poder360.com.br/poder-energia/aneel-aprova-reajuste-medio-de-1394-nas-tarifas-da-enel-sp/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "Parcela B (distribuidora)",
+        "valor": 1.02
+      }
+    },
+    {
+      "rotulo": "Reajuste Enel SP 2026",
+      "valor": 10.18,
+      "unidade": "%",
+      "periodo": "jul/2026",
+      "fonte": {
+        "nome": "Agência iNFRA – ANEEL aprova reajuste de 10,18% nas tarifas da Enel SP (30/06/2026)",
+        "url": "https://agenciainfra.com/blog/aneel-aprova-reajuste-de-1018-nas-tarifas-da-enel-sp/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "Itens financeiros (p.p.)",
+        "valor": 6.46
+      }
+    },
+    {
+      "rotulo": "CDE 2026 (proposta)",
+      "valor": 52.7,
+      "unidade": "R$ bilhões",
+      "periodo": "2026",
+      "fonte": {
+        "nome": "Agência iNFRA – Orçamento da CDE 2026 (05/12/2025)",
+        "url": "https://agenciainfra.com/blog/?p=33412",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "CDE 2025",
+        "valor": 49.2
+      }
+    },
+    {
+      "rotulo": "Tarifa Social na CDE 2026",
+      "valor": 10.4,
+      "unidade": "R$ bilhões",
+      "periodo": "2026",
+      "fonte": {
+        "nome": "Cenário Energia – CDE 2026 deve chegar a R$ 52,7 bilhões (05/12/2025)",
+        "url": "https://cenarioenergia.com.br/2025/12/05/cde-2026-deve-chegar-a-r-527-bilhoes-e-pressiona-debate-sobre-subsidios-no-setor-eletrico/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "2024",
+        "valor": 7.8
+      }
+    },
+    {
+      "rotulo": "ICMS médio sobre a tarifa residencial",
+      "valor": 18.0,
+      "unidade": "%",
+      "periodo": "dez/2025",
+      "fonte": {
+        "nome": "ANEEL – Boletim InfoTarifa nº 3, dez/2025 (PDF)",
+        "url": "https://static.poder360.com.br/2025/12/3a-edicao-do-boletim-InfoTarifa-Aneel-Dezembro-2025.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    }
+  ],
+  "series": [
+    "tarifa-residencial-vs-ipca",
+    "reajustes-enel-sp",
+    "cde-anual"
+  ],
+  "checagens_externas": [],
+  "fontes": [
+    {
+      "nome": "ANEEL – Boletim InfoTarifa nº 3, dez/2025 (PDF)",
+      "url": "https://static.poder360.com.br/2025/12/3a-edicao-do-boletim-InfoTarifa-Aneel-Dezembro-2025.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "SBT News – Conta de luz deve subir 8,6% em 2026, acima da inflação (12/06/2026)",
+      "url": "https://sbtnews.sbt.com.br/noticia/economia/conta-de-luz-deve-subir-8-6-em-2026-acima-da-inflacao",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Poder360 – ANEEL aprova reajuste médio de 13,94% nas tarifas da Enel SP",
+      "url": "https://www.poder360.com.br/poder-energia/aneel-aprova-reajuste-medio-de-1394-nas-tarifas-da-enel-sp/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Agência iNFRA – ANEEL aprova reajuste de 10,18% nas tarifas da Enel SP (30/06/2026)",
+      "url": "https://agenciainfra.com/blog/aneel-aprova-reajuste-de-1018-nas-tarifas-da-enel-sp/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "SBT News – Conta de luz da Enel SP terá reajuste médio de 10,18%",
+      "url": "https://sbtnews.sbt.com.br/noticia/brasil/conta-de-luz-da-enel-sp-tera-reajuste-medio-de-10-18",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Agência iNFRA – Orçamento da CDE 2026 (05/12/2025)",
+      "url": "https://agenciainfra.com/blog/?p=33412",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Cenário Energia – CDE 2026 deve chegar a R$ 52,7 bilhões (05/12/2025)",
+      "url": "https://cenarioenergia.com.br/2025/12/05/cde-2026-deve-chegar-a-r-527-bilhoes-e-pressiona-debate-sobre-subsidios-no-setor-eletrico/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Planalto – Lei 15.235/2025",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/lei/L15235.htm",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Planalto – Lei 15.269/2025",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/lei/L15269.htm",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Planalto – Lei 14.182/2021 (texto consolidado)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/L14182.htm",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Comsefaz – Nota Técnica 023/2023, impactos das LCs 192 e 194 (PDF)",
+      "url": "https://static.poder360.com.br/2023/11/NOTA-TECNICA-COMSEFAZ-023-2023-Impactos-das-LCs-192.22-e-LCs-194.22-sobre-arrecadacao-de-ICMS-dos-estados1-1.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/06_energia_eletrobras_combustiveis.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "Então ninguém é culpado?",
+      "resposta": "Há responsáveis identificáveis: o Congresso e os governos que criaram encargos por lei (CDE), a ANEEL que homologa, os estados pelo ICMS e as distribuidoras pela qualidade. O que não se sustenta é atribuir um reajuste anual a uma única pessoa ou governo."
+    },
+    {
+      "pergunta": "O governo Lula aumentou a conta de alguém?",
+      "resposta": "Indiretamente: a gratuidade até 80 kWh (Lei 15.235/2025) é paga pela CDE, cobrada dos demais consumidores; a Tarifa Social sobe de R$ 7,8 bi (2024) para R$ 10,4 bi (2026). O mesmo governo criou o teto da CDE a partir de 2027."
+    }
+  ],
+  "relacionadas": [
+    "quem-privatizou-a-eletrobras",
+    "privatizacao-da-eletrobras-baixou-a-conta",
+    "bandeira-vermelha-e-decisao-politica",
+    "conta-de-luz-sobe-acima-da-inflacao-ha-mais-de-uma-decada",
+    "governo-cassou-a-concessao-da-enel"
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false,
+  "lacunas": [
+    "Autoria, data e local da declaração não documentados nas notas; a checagem trata a afirmação em sua forma recorrente.",
+    "Checagens já publicadas por Aos Fatos, Lupa, Estadão Verifica e Comprova sobre o tema não foram consultadas (cota de busca esgotada); cruzar antes da publicação."
+  ]
+}

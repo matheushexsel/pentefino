@@ -1,0 +1,2303 @@
+{
+  "id": "_resumo_por_partido",
+  "descricao": "Tabela cruzada de casos por partido (filiação à época dos fatos/condenação). Cada célula traz valor, fonte e nota; null = não informado nas notas. 'citados' na Lava Jato = políticos citados na delação da Odebrecht (levantamento Estadão, abr/2017), que não equivale a culpa. Não existe levantamento oficial de 'condenados por partido' para Lava Jato, INSS, Master ou emendas; os nomes listados são compilação do pesquisador e não são exaustivos.",
+  "convencoes": [
+    "citado: nome aparece em delação, planilha, relatório de CPI ou reportagem, sem ato formal de investigação.",
+    "investigado: alvo de inquérito, busca, prisão temporária/preventiva ou indiciamento pela PF (indiciamento não é denúncia).",
+    "denunciado: PGR/MPF ofereceu denúncia; réu: a denúncia foi recebida pelo tribunal.",
+    "condenado-1a / condenado-2a: decisão de mérito ainda sujeita a recurso. Para condenações pelo STF em instância única sem trânsito em julgado confirmado nas notas, usa-se condenado-1a com explicação em status_atual.",
+    "condenado-definitivo: trânsito em julgado confirmado nas notas; cumprindo-pena / pena-cumprida quando as notas informam a execução.",
+    "anulada: condenação ou provas anuladas por nulidade (competência, parcialidade, prova ilícita), sem exame de mérito; absolvido: decisão de mérito favorável; arquivado: inquérito/denúncia encerrada sem mérito; prescrito: punibilidade extinta pelo tempo.",
+    "Pedido de indiciamento por CPI/CPMI não é indiciamento policial nem denúncia: é recomendação ao Ministério Público."
+  ],
+  "partidos": [
+    {
+      "partido": "PT",
+      "casos": [
+        {
+          "escandalo_id": "mensalao",
+          "citados": null,
+          "denunciados": null,
+          "condenados_1a": null,
+          "condenados_definitivo": {
+            "valor": 5,
+            "fonte": {
+              "nome": "Exame, 05/11/2014 (atualizado 13/09/2016): onde estão os 24 condenados do mensalão",
+              "url": "https://exame.com/brasil/onde-estao-os-24-condenados-por-causa-do-mensalao/",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Contagem própria do pesquisador: Dirceu, Genoino, Delúbio, J.P. Cunha, Pizzolato; condenações válidas, cumpridas/extintas por indulto."
+          },
+          "anuladas": {
+            "valor": 0,
+            "fonte": {
+              "nome": "Gazeta do Povo, 11/06/2025: Mensalão 20 anos, como estão hoje os condenados",
+              "url": "https://www.gazetadopovo.com.br/ideias/mensalao-20-anos-como-estao-hoje-condenados-soltos-presos/",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Nenhuma condenação da AP 470 foi anulada."
+          },
+          "absolvidos": {
+            "valor": 4,
+            "fonte": {
+              "nome": "Wikipédia pt, Lista de denunciados e julgados do Mensalão (índice)",
+              "url": "https://pt.wikipedia.org/wiki/Lista_de_denunciados_e_julgados_do_Esc%C3%A2ndalo_do_Mensal%C3%A3o",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nomes": [
+              "Anita Leocádia",
+              "João Magno",
+              "Professor Luizinho",
+              "Paulo Rocha"
+            ]
+          }
+        },
+        {
+          "escandalo_id": "lava-jato-petrolao",
+          "citados": {
+            "valor": 93,
+            "fonte": {
+              "nome": "Bahia Notícias/Estadão, 16/04/2017: delação da Odebrecht cita 415 políticos de 26 partidos",
+              "url": "https://www.bahianoticias.com.br/noticia/205988-pacote-de-delacao-do-fim-do-mundo-cita-415-politicos-de-26-partidos",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Delação Odebrecht, Estadão abr/2017; lista de Fachin (inquéritos STF): 16; planilhas Odebrecht 2016: 76."
+          },
+          "denunciados": null,
+          "condenados_1a": {
+            "valor": null,
+            "fonte": {
+              "nome": "Agência Brasil, 17/03/2024: Lava Jato completa 10 anos com resultados em xeque",
+              "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2024-03/lava-jato-completa-10-anos-com-resultados-em-xeque-e-prestigio-abalado",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Condenados em alguma instância nomeados nas notas (não exaustivo): Lula, Dirceu, Vaccari, Palocci, Delúbio, André Vargas.",
+            "nomes": [
+              "Lula",
+              "José Dirceu",
+              "João Vaccari Neto",
+              "Antonio Palocci",
+              "Delúbio Soares",
+              "André Vargas"
+            ]
+          },
+          "condenados_definitivo": {
+            "valor": null,
+            "fonte": {
+              "nome": "Agência Brasil, 17/03/2024: Lava Jato completa 10 anos com resultados em xeque",
+              "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2024-03/lava-jato-completa-10-anos-com-resultados-em-xeque-e-prestigio-abalado",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Nenhuma condenação vigente entre os nomes acima em out/2026; André Vargas não verificado."
+          },
+          "anuladas": {
+            "valor": null,
+            "fonte": {
+              "nome": "Transparência Internacional Brasil, fev/2026: a farra das leniências — decisões controversas e anulações em massa",
+              "url": "https://transparenciainternacional.org.br/posts/a-farra-das-leniencias-decisoes-controversas-e-anulacoes-em-massa/",
+              "acesso_em": "2026-10-21",
+              "tier": "academico"
+            },
+            "nota": "Anuladas/prescritas: Lula (2 casos), Dirceu, Vaccari, Palocci, Delúbio; Paulo Bernardo (provas anuladas).",
+            "nomes": [
+              "Lula",
+              "José Dirceu",
+              "João Vaccari Neto",
+              "Antonio Palocci",
+              "Delúbio Soares",
+              "Paulo Bernardo"
+            ]
+          },
+          "absolvidos": {
+            "valor": null,
+            "fonte": {
+              "nome": "Poder360, 15/03/2022 (atual. 30/08/2022): Lula se livra de processos, mas teve só 3 absolvições",
+              "url": "https://www.poder360.com.br/justica/lula-se-livra-de-processos-mas-teve-so-3-absolvicoes/",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Lula absolvido no mérito em 3 casos (obstrução; quadrilhão do PT; Zelotes/MP das montadoras)."
+          }
+        },
+        {
+          "escandalo_id": "zelotes",
+          "citados": null,
+          "denunciados": null,
+          "condenados_1a": null,
+          "condenados_definitivo": null,
+          "anuladas": null,
+          "absolvidos": {
+            "valor": 2,
+            "fonte": {
+              "nome": "G1, 21/06/2021: Justiça Federal absolve Lula e Gilberto Carvalho na Zelotes",
+              "url": "https://g1.globo.com/politica/noticia/2021/06/21/justica-federal-absolve-lula-e-gilberto-carvalho-em-acao-da-operacao-zelotes.ghtml",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Lula e Gilberto Carvalho (21/06/2021); Mantega: investigação encerrada (24/02/2025).",
+            "nomes": [
+              "Lula",
+              "Gilberto Carvalho"
+            ]
+          }
+        },
+        {
+          "escandalo_id": "pedaladas-impeachment-dilma",
+          "citados": null,
+          "denunciados": null,
+          "condenados_1a": {
+            "valor": 0,
+            "fonte": {
+              "nome": "Aos Fatos, 28/08/2023: Lula engana ao dizer que Dilma foi absolvida das pedaladas",
+              "url": "https://www.aosfatos.org/noticias/lula-engana-ao-dizer-dilma-foi-absolvida-pedaladas/",
+              "acesso_em": "2026-10-21",
+              "tier": "checagem"
+            },
+            "nota": "Dilma: sem condenação criminal; impeachment (político) 61x20; improbidade extinta sem mérito; chapa absolvida no TSE 4x3."
+          },
+          "condenados_definitivo": {
+            "valor": 0,
+            "fonte": {
+              "nome": "Aos Fatos, 28/08/2023: Lula engana ao dizer que Dilma foi absolvida das pedaladas",
+              "url": "https://www.aosfatos.org/noticias/lula-engana-ao-dizer-dilma-foi-absolvida-pedaladas/",
+              "acesso_em": "2026-10-21",
+              "tier": "checagem"
+            }
+          },
+          "anuladas": null,
+          "absolvidos": null
+        },
+        {
+          "escandalo_id": "fraude-do-inss",
+          "citados": null,
+          "denunciados": {
+            "valor": 0,
+            "fonte": {
+              "nome": "CNN Brasil, mar/2026: relatório da CPMI do INSS pede indiciamento de Lulinha e outras 218 pessoas",
+              "url": "https://www.cnnbrasil.com.br/politica/relatorio-da-cpmi-do-inss-pede-indicamento-de-lulinha-e-outras-218-pessoas/",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Zero = nenhum localizado nas fontes até out/2026 (não é levantamento oficial). Lulinha citado em delação e no relatório rejeitado da CPMI; não investigado pela PF. Frei Chico não investigado."
+          },
+          "condenados_1a": {
+            "valor": 0,
+            "fonte": {
+              "nome": "O Tempo, 23/04/2026: operação contra fraudes no INSS completa um ano",
+              "url": "https://www.otempo.com.br/politica/judiciario/2026/4/23/operacao-contra-fraudes-no-inss-completa-um-ano-com-desdobramentos-mas-sem-ouvir-todos-investigados",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Zero = nenhum localizado nas fontes até out/2026 (não é levantamento oficial)."
+          },
+          "condenados_definitivo": {
+            "valor": 0,
+            "fonte": {
+              "nome": "O Tempo, 23/04/2026: operação contra fraudes no INSS completa um ano",
+              "url": "https://www.otempo.com.br/politica/judiciario/2026/4/23/operacao-contra-fraudes-no-inss-completa-um-ano-com-desdobramentos-mas-sem-ouvir-todos-investigados",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Zero = nenhum localizado nas fontes até out/2026 (não é levantamento oficial)."
+          },
+          "anuladas": null,
+          "absolvidos": null
+        },
+        {
+          "escandalo_id": "banco-master",
+          "citados": null,
+          "denunciados": {
+            "valor": 0,
+            "fonte": {
+              "nome": "Jornal Grande Bahia, jul/2026: Daniel Vorcaro e o caso Banco Master — dez fases da Compliance Zero",
+              "url": "https://jornalgrandebahia.com.br/2026/07/daniel-vorcaro-e-o-caso-banco-master-suspeita-de-fraude-bilionaria-perdas-no-brb-impacto-no-fgc-e-dez-fases-da-compliance-zero/",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Zero = nenhum localizado nas fontes até out/2026 (não é levantamento oficial). Jaques Wagner investigado (buscas 18/06/2026); Lula: reunião com Vorcaro confirmada, não investigado."
+          },
+          "condenados_1a": {
+            "valor": 0,
+            "fonte": {
+              "nome": "Jornal Grande Bahia, jul/2026: Daniel Vorcaro e o caso Banco Master — dez fases da Compliance Zero",
+              "url": "https://jornalgrandebahia.com.br/2026/07/daniel-vorcaro-e-o-caso-banco-master-suspeita-de-fraude-bilionaria-perdas-no-brb-impacto-no-fgc-e-dez-fases-da-compliance-zero/",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Zero = nenhum localizado nas fontes até out/2026 (não é levantamento oficial)."
+          },
+          "condenados_definitivo": {
+            "valor": 0,
+            "fonte": {
+              "nome": "Jornal Grande Bahia, jul/2026: Daniel Vorcaro e o caso Banco Master — dez fases da Compliance Zero",
+              "url": "https://jornalgrandebahia.com.br/2026/07/daniel-vorcaro-e-o-caso-banco-master-suspeita-de-fraude-bilionaria-perdas-no-brb-impacto-no-fgc-e-dez-fases-da-compliance-zero/",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Zero = nenhum localizado nas fontes até out/2026 (não é levantamento oficial)."
+          },
+          "anuladas": null,
+          "absolvidos": null
+        },
+        {
+          "escandalo_id": "operacao-overclean",
+          "citados": null,
+          "denunciados": {
+            "valor": 0,
+            "fonte": {
+              "nome": "Acessa.com, jan/2026: Operação Overclean, que mira deputado, já achou dinheiro em gaveta e jogado da janela",
+              "url": "https://www.acessa.com/politica/2026/01/304590-operacao-overclean-que-mira-deputado-ja-achou-dinheiro-em-gaveta-bota-e-jogado-da-janela-lembre.html",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Zero = nenhum localizado nas fontes até out/2026 (não é levantamento oficial). Prefeito de Ibipitanga afastado; ex-prefeito de Paratinga alvo."
+          },
+          "condenados_1a": {
+            "valor": 0,
+            "fonte": {
+              "nome": "Acessa.com, jan/2026: Operação Overclean, que mira deputado, já achou dinheiro em gaveta e jogado da janela",
+              "url": "https://www.acessa.com/politica/2026/01/304590-operacao-overclean-que-mira-deputado-ja-achou-dinheiro-em-gaveta-bota-e-jogado-da-janela-lembre.html",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Zero = nenhum localizado nas fontes até out/2026 (não é levantamento oficial)."
+          },
+          "condenados_definitivo": {
+            "valor": 0,
+            "fonte": {
+              "nome": "Acessa.com, jan/2026: Operação Overclean, que mira deputado, já achou dinheiro em gaveta e jogado da janela",
+              "url": "https://www.acessa.com/politica/2026/01/304590-operacao-overclean-que-mira-deputado-ja-achou-dinheiro-em-gaveta-bota-e-jogado-da-janela-lembre.html",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Zero = nenhum localizado nas fontes até out/2026 (não é levantamento oficial)."
+          },
+          "anuladas": null,
+          "absolvidos": null
+        }
+      ]
+    },
+    {
+      "partido": "PP",
+      "casos": [
+        {
+          "escandalo_id": "mensalao",
+          "citados": null,
+          "denunciados": null,
+          "condenados_1a": null,
+          "condenados_definitivo": {
+            "valor": 3,
+            "fonte": {
+              "nome": "Exame, 05/11/2014 (atualizado 13/09/2016): onde estão os 24 condenados do mensalão",
+              "url": "https://exame.com/brasil/onde-estao-os-24-condenados-por-causa-do-mensalao/",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Pedro Corrêa, Pedro Henry, João Cláudio Genu (contagem própria)."
+          },
+          "anuladas": {
+            "valor": 0,
+            "fonte": {
+              "nome": "Gazeta do Povo, 11/06/2025: Mensalão 20 anos, como estão hoje os condenados",
+              "url": "https://www.gazetadopovo.com.br/ideias/mensalao-20-anos-como-estao-hoje-condenados-soltos-presos/",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            }
+          },
+          "absolvidos": null
+        },
+        {
+          "escandalo_id": "lava-jato-petrolao",
+          "citados": {
+            "valor": 35,
+            "fonte": {
+              "nome": "Bahia Notícias/Estadão, 16/04/2017: delação da Odebrecht cita 415 políticos de 26 partidos",
+              "url": "https://www.bahianoticias.com.br/noticia/205988-pacote-de-delacao-do-fim-do-mundo-cita-415-politicos-de-26-partidos",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Lista de Fachin: 8; planilhas 2016: 22."
+          },
+          "denunciados": null,
+          "condenados_1a": {
+            "valor": null,
+            "fonte": {
+              "nome": "Wikipédia pt, Operação Lava Jato (índice)",
+              "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Lava_Jato",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Nomeados: Pedro Corrêa (Moro, 2015, 20a7m10d), Nelson Meurer (STF 2ª Turma, 2018, 13a9m); status atual não verificado.",
+            "nomes": [
+              "Pedro Corrêa",
+              "Nelson Meurer"
+            ]
+          },
+          "condenados_definitivo": null,
+          "anuladas": null,
+          "absolvidos": null
+        },
+        {
+          "escandalo_id": "banco-master",
+          "citados": null,
+          "denunciados": {
+            "valor": 0,
+            "fonte": {
+              "nome": "Jornal Grande Bahia, jul/2026: Daniel Vorcaro e o caso Banco Master — dez fases da Compliance Zero",
+              "url": "https://jornalgrandebahia.com.br/2026/07/daniel-vorcaro-e-o-caso-banco-master-suspeita-de-fraude-bilionaria-perdas-no-brb-impacto-no-fgc-e-dez-fases-da-compliance-zero/",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Zero = nenhum localizado nas fontes até out/2026 (não é levantamento oficial). Ciro Nogueira investigado (buscas 07/05/2026)."
+          },
+          "condenados_1a": {
+            "valor": 0,
+            "fonte": {
+              "nome": "Jornal Grande Bahia, jul/2026: Daniel Vorcaro e o caso Banco Master — dez fases da Compliance Zero",
+              "url": "https://jornalgrandebahia.com.br/2026/07/daniel-vorcaro-e-o-caso-banco-master-suspeita-de-fraude-bilionaria-perdas-no-brb-impacto-no-fgc-e-dez-fases-da-compliance-zero/",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Zero = nenhum localizado nas fontes até out/2026 (não é levantamento oficial)."
+          },
+          "condenados_definitivo": {
+            "valor": 0,
+            "fonte": {
+              "nome": "Jornal Grande Bahia, jul/2026: Daniel Vorcaro e o caso Banco Master — dez fases da Compliance Zero",
+              "url": "https://jornalgrandebahia.com.br/2026/07/daniel-vorcaro-e-o-caso-banco-master-suspeita-de-fraude-bilionaria-perdas-no-brb-impacto-no-fgc-e-dez-fases-da-compliance-zero/",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Zero = nenhum localizado nas fontes até out/2026 (não é levantamento oficial)."
+          },
+          "anuladas": null,
+          "absolvidos": null
+        },
+        {
+          "escandalo_id": "orcamento-secreto-emendas",
+          "citados": null,
+          "denunciados": null,
+          "condenados_1a": null,
+          "condenados_definitivo": null,
+          "anuladas": null,
+          "absolvidos": null,
+          "nota": "Ciro Nogueira e Arthur Lira entre os mais beneficiados (amostra O Globo); sem registro de investigação nas notas."
+        }
+      ]
+    },
+    {
+      "partido": "PMDB/MDB",
+      "casos": [
+        {
+          "escandalo_id": "mensalao",
+          "citados": null,
+          "denunciados": null,
+          "condenados_1a": null,
+          "condenados_definitivo": {
+            "valor": 1,
+            "fonte": {
+              "nome": "Exame, 05/11/2014 (atualizado 13/09/2016): onde estão os 24 condenados do mensalão",
+              "url": "https://exame.com/brasil/onde-estao-os-24-condenados-por-causa-do-mensalao/",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "José Borba (pena convertida em alternativa)."
+          },
+          "anuladas": {
+            "valor": 0,
+            "fonte": {
+              "nome": "Gazeta do Povo, 11/06/2025: Mensalão 20 anos, como estão hoje os condenados",
+              "url": "https://www.gazetadopovo.com.br/ideias/mensalao-20-anos-como-estao-hoje-condenados-soltos-presos/",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            }
+          },
+          "absolvidos": null
+        },
+        {
+          "escandalo_id": "lava-jato-petrolao",
+          "citados": {
+            "valor": 77,
+            "fonte": {
+              "nome": "Bahia Notícias/Estadão, 16/04/2017: delação da Odebrecht cita 415 políticos de 26 partidos",
+              "url": "https://www.bahianoticias.com.br/noticia/205988-pacote-de-delacao-do-fim-do-mundo-cita-415-politicos-de-26-partidos",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Lista de Fachin: 14; planilhas 2016: 41."
+          },
+          "denunciados": null,
+          "condenados_1a": {
+            "valor": null,
+            "fonte": {
+              "nome": "Wikipédia pt, Eduardo Cunha (índice)",
+              "url": "https://pt.wikipedia.org/wiki/Eduardo_Cunha",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Nomeados: Eduardo Cunha (3 condenações), Sérgio Cabral (~24, nenhuma definitiva), Geddel (STF 2019, 14a10m).",
+            "nomes": [
+              "Eduardo Cunha",
+              "Sérgio Cabral",
+              "Geddel Vieira Lima"
+            ]
+          },
+          "condenados_definitivo": {
+            "valor": null,
+            "fonte": {
+              "nome": "Wikipédia pt, Sérgio Cabral Filho (índice)",
+              "url": "https://pt.wikipedia.org/wiki/S%C3%A9rgio_Cabral_Filho",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Cabral: nenhuma sentença criminal transitada; Geddel: trânsito não explicitado; Temer e Henrique Alves: 0 condenações."
+          },
+          "anuladas": {
+            "valor": null,
+            "fonte": {
+              "nome": "Agência Brasil, 29/05/2023: Supremo anula condenação de Cunha na Lava Jato",
+              "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2023-05/supremo-anula-condenacao-de-cunha-na-lava-jato",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Cunha: 2 condenações anuladas (TRF-1 2021; STF 2023); Cabral: várias sentenças anuladas (2021–2023); H. Alves: ação Sépsis anulada (TRF-1 2021).",
+            "nomes": [
+              "Eduardo Cunha",
+              "Sérgio Cabral",
+              "Henrique Eduardo Alves"
+            ]
+          },
+          "absolvidos": {
+            "valor": null,
+            "fonte": {
+              "nome": "Exame: quadrilhão do MDB — TRF-1 nega recurso contra absolvição de Temer, Cunha e Geddel",
+              "url": "https://exame.com/brasil/quadrilhao-do-mdb-trf1-nega-recurso-contra-absolvicao-de-temer-cunha-e-geddel",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Temer, Cunha, Geddel e mais 10 absolvidos sumariamente no quadrilhão do MDB (2021; TRF-1 2023); Temer também na gravação Joesley e obstrução.",
+            "nomes": [
+              "Michel Temer",
+              "Eduardo Cunha",
+              "Geddel Vieira Lima"
+            ]
+          }
+        },
+        {
+          "escandalo_id": "pedaladas-impeachment-dilma",
+          "citados": null,
+          "denunciados": null,
+          "condenados_1a": null,
+          "condenados_definitivo": null,
+          "anuladas": null,
+          "absolvidos": {
+            "valor": null,
+            "fonte": {
+              "nome": "Poder360, 09/06/2017: Gilmar Mendes desempata e TSE absolve chapa Dilma-Temer por 4 a 3",
+              "url": "https://www.poder360.com.br/justica/gilmar-mendes-desempata-e-tse-absolve-michel-temer-por-4-a-3/",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Chapa Dilma-Temer absolvida no TSE por 4x3 (09/06/2017)."
+          }
+        },
+        {
+          "escandalo_id": "fraude-do-inss",
+          "citados": null,
+          "denunciados": {
+            "valor": 0,
+            "fonte": {
+              "nome": "Wikipédia pt, Operação Sem Desconto (índice)",
+              "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Sem_Desconto",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Zero = nenhum localizado nas fontes até out/2026 (não é levantamento oficial). Maria Gorete Pereira investigada (tornozeleira 17/03/2026)."
+          },
+          "condenados_1a": {
+            "valor": 0,
+            "fonte": {
+              "nome": "Wikipédia pt, Operação Sem Desconto (índice)",
+              "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Sem_Desconto",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Zero = nenhum localizado nas fontes até out/2026 (não é levantamento oficial)."
+          },
+          "condenados_definitivo": {
+            "valor": 0,
+            "fonte": {
+              "nome": "Wikipédia pt, Operação Sem Desconto (índice)",
+              "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Sem_Desconto",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Zero = nenhum localizado nas fontes até out/2026 (não é levantamento oficial)."
+          },
+          "anuladas": null,
+          "absolvidos": null
+        },
+        {
+          "escandalo_id": "banco-master",
+          "citados": null,
+          "denunciados": {
+            "valor": 0,
+            "fonte": {
+              "nome": "Wikipédia pt, Escândalo do Banco Master (índice)",
+              "url": "https://pt.wikipedia.org/wiki/Esc%C3%A2ndalo_do_Banco_Master",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Zero = nenhum localizado nas fontes até out/2026 (não é levantamento oficial). GDF (Ibaneis Rocha/BRB): investigação formal não localizada."
+          },
+          "condenados_1a": {
+            "valor": 0,
+            "fonte": {
+              "nome": "Wikipédia pt, Escândalo do Banco Master (índice)",
+              "url": "https://pt.wikipedia.org/wiki/Esc%C3%A2ndalo_do_Banco_Master",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Zero = nenhum localizado nas fontes até out/2026 (não é levantamento oficial)."
+          },
+          "condenados_definitivo": {
+            "valor": 0,
+            "fonte": {
+              "nome": "Wikipédia pt, Escândalo do Banco Master (índice)",
+              "url": "https://pt.wikipedia.org/wiki/Esc%C3%A2ndalo_do_Banco_Master",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Zero = nenhum localizado nas fontes até out/2026 (não é levantamento oficial)."
+          },
+          "anuladas": null,
+          "absolvidos": null
+        },
+        {
+          "escandalo_id": "joias-e-cartoes-de-vacina",
+          "citados": null,
+          "denunciados": null,
+          "condenados_1a": null,
+          "condenados_definitivo": null,
+          "anuladas": null,
+          "absolvidos": null,
+          "nota": "Gutemberg Reis (MDB-RJ): investigação dos cartões arquivada (mar/2025)."
+        },
+        {
+          "escandalo_id": "operacao-overclean",
+          "citados": null,
+          "denunciados": {
+            "valor": 0,
+            "fonte": {
+              "nome": "Acessa.com, jan/2026: Operação Overclean, que mira deputado, já achou dinheiro em gaveta e jogado da janela",
+              "url": "https://www.acessa.com/politica/2026/01/304590-operacao-overclean-que-mira-deputado-ja-achou-dinheiro-em-gaveta-bota-e-jogado-da-janela-lembre.html",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Zero = nenhum localizado nas fontes até out/2026 (não é levantamento oficial). Prefeito de Wenceslau Guimarães alvo."
+          },
+          "condenados_1a": {
+            "valor": 0,
+            "fonte": {
+              "nome": "Acessa.com, jan/2026: Operação Overclean, que mira deputado, já achou dinheiro em gaveta e jogado da janela",
+              "url": "https://www.acessa.com/politica/2026/01/304590-operacao-overclean-que-mira-deputado-ja-achou-dinheiro-em-gaveta-bota-e-jogado-da-janela-lembre.html",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Zero = nenhum localizado nas fontes até out/2026 (não é levantamento oficial)."
+          },
+          "condenados_definitivo": {
+            "valor": 0,
+            "fonte": {
+              "nome": "Acessa.com, jan/2026: Operação Overclean, que mira deputado, já achou dinheiro em gaveta e jogado da janela",
+              "url": "https://www.acessa.com/politica/2026/01/304590-operacao-overclean-que-mira-deputado-ja-achou-dinheiro-em-gaveta-bota-e-jogado-da-janela-lembre.html",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Zero = nenhum localizado nas fontes até out/2026 (não é levantamento oficial)."
+          },
+          "anuladas": null,
+          "absolvidos": null
+        }
+      ]
+    },
+    {
+      "partido": "PTB (e PTC/PRD de Collor)",
+      "casos": [
+        {
+          "escandalo_id": "mensalao",
+          "citados": null,
+          "denunciados": null,
+          "condenados_1a": null,
+          "condenados_definitivo": {
+            "valor": 3,
+            "fonte": {
+              "nome": "Exame, 05/11/2014 (atualizado 13/09/2016): onde estão os 24 condenados do mensalão",
+              "url": "https://exame.com/brasil/onde-estao-os-24-condenados-por-causa-do-mensalao/",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Roberto Jefferson, Romeu Queiroz, Emerson Palmieri."
+          },
+          "anuladas": {
+            "valor": 0,
+            "fonte": {
+              "nome": "Gazeta do Povo, 11/06/2025: Mensalão 20 anos, como estão hoje os condenados",
+              "url": "https://www.gazetadopovo.com.br/ideias/mensalao-20-anos-como-estao-hoje-condenados-soltos-presos/",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            }
+          },
+          "absolvidos": null
+        },
+        {
+          "escandalo_id": "lava-jato-petrolao",
+          "citados": {
+            "valor": 11,
+            "fonte": {
+              "nome": "Bahia Notícias/Estadão, 16/04/2017: delação da Odebrecht cita 415 políticos de 26 partidos",
+              "url": "https://www.bahianoticias.com.br/noticia/205988-pacote-de-delacao-do-fim-do-mundo-cita-415-politicos-de-26-partidos",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            }
+          },
+          "denunciados": null,
+          "condenados_1a": null,
+          "condenados_definitivo": {
+            "valor": 1,
+            "fonte": {
+              "nome": "ConJur, 29/04/2025: STF confirma prisão de Collor por caso da Lava Jato",
+              "url": "https://www.conjur.com.br/2025-abr-29/stf-confirma-prisao-de-collor-por-caso-da-lava-jato/",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Fernando Collor (ex-PTB; PTC/PRD à época): STF AP 1.025, mai/2023, 8a10m; trânsito em julgado; preso 25/04/2025; domiciliar humanitária desde 01/05/2025.",
+            "nomes": [
+              "Fernando Collor"
+            ]
+          },
+          "anuladas": null,
+          "absolvidos": null
+        }
+      ]
+    },
+    {
+      "partido": "PL/PR",
+      "casos": [
+        {
+          "escandalo_id": "mensalao",
+          "citados": null,
+          "denunciados": null,
+          "condenados_1a": null,
+          "condenados_definitivo": {
+            "valor": 3,
+            "fonte": {
+              "nome": "Exame, 05/11/2014 (atualizado 13/09/2016): onde estão os 24 condenados do mensalão",
+              "url": "https://exame.com/brasil/onde-estao-os-24-condenados-por-causa-do-mensalao/",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Valdemar Costa Neto, Bispo Rodrigues, Jacinto Lamas (então PL)."
+          },
+          "anuladas": {
+            "valor": 0,
+            "fonte": {
+              "nome": "Gazeta do Povo, 11/06/2025: Mensalão 20 anos, como estão hoje os condenados",
+              "url": "https://www.gazetadopovo.com.br/ideias/mensalao-20-anos-como-estao-hoje-condenados-soltos-presos/",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            }
+          },
+          "absolvidos": null
+        },
+        {
+          "escandalo_id": "lava-jato-petrolao",
+          "citados": {
+            "valor": 10,
+            "fonte": {
+              "nome": "Bahia Notícias/Estadão, 16/04/2017: delação da Odebrecht cita 415 políticos de 26 partidos",
+              "url": "https://www.bahianoticias.com.br/noticia/205988-pacote-de-delacao-do-fim-do-mundo-cita-415-politicos-de-26-partidos",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Como PR."
+          },
+          "denunciados": null,
+          "condenados_1a": {
+            "valor": null,
+            "fonte": {
+              "nome": "Wikipédia pt, Operação Lava Jato (índice)",
+              "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Lava_Jato",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Nenhuma condenação de dirigente nacional localizada nas notas."
+          },
+          "condenados_definitivo": null,
+          "anuladas": null,
+          "absolvidos": null
+        },
+        {
+          "escandalo_id": "trama-golpista-8-de-janeiro",
+          "citados": null,
+          "denunciados": {
+            "valor": 8,
+            "fonte": {
+              "nome": "Poder360: STF determina perda do mandato de Ramagem",
+              "url": "https://www.poder360.com.br/poder-justica/stf-determina-perda-do-mandato-de-ramagem/",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Núcleo 1 da AP 2668 (PL e ex-integrantes do governo Bolsonaro; filiação dos militares não informada)."
+          },
+          "condenados_1a": null,
+          "condenados_definitivo": {
+            "valor": 8,
+            "fonte": {
+              "nome": "CNN Brasil: Jair Bolsonaro completa um ano preso — principais acontecimentos",
+              "url": "https://www.cnnbrasil.com.br/politica/jair-bolsonaro-completa-um-ano-preso-relembre-os-principais-acontecimentos/",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Bolsonaro (27a3m) e Ramagem (16a1m15d) com trânsito em 25/11/2025; demais co-réus inferidos como definitivos (Lei da Dosimetria aplicável). Eduardo Bolsonaro: condenado por coação (4a2m, 16/06/2026) e difamação (1 ano), embargos rejeitados, trânsito não confirmado.",
+            "nomes": [
+              "Jair Bolsonaro",
+              "Alexandre Ramagem",
+              "Walter Braga Netto",
+              "Augusto Heleno",
+              "Almir Garnier",
+              "Paulo Sérgio Nogueira",
+              "Anderson Torres",
+              "Mauro Cid"
+            ],
+            "nao_verificado": true
+          },
+          "anuladas": {
+            "valor": 0,
+            "fonte": {
+              "nome": "CNN Brasil: Jair Bolsonaro completa um ano preso — principais acontecimentos",
+              "url": "https://www.cnnbrasil.com.br/politica/jair-bolsonaro-completa-um-ano-preso-relembre-os-principais-acontecimentos/",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            }
+          },
+          "absolvidos": null
+        },
+        {
+          "escandalo_id": "orcamento-secreto-emendas",
+          "citados": null,
+          "denunciados": {
+            "valor": 3,
+            "fonte": {
+              "nome": "Wikipédia pt, Josimar Maranhãozinho (índice)",
+              "url": "https://pt.wikipedia.org/wiki/Josimar_Maranh%C3%A3ozinho",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Maranhãozinho, Pastor Gil, Bosco Costa (PGR, 17/09/2024)."
+          },
+          "condenados_1a": {
+            "valor": 3,
+            "fonte": {
+              "nome": "Wikipédia pt, Josimar Maranhãozinho (índice)",
+              "url": "https://pt.wikipedia.org/wiki/Josimar_Maranh%C3%A3ozinho",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Condenados pelo STF em 17/03/2026 (6a5m, 5a6m, 5a), trânsito não confirmado. Valdemar Costa Neto (bloqueio R$ 119 mi) e Mario Frias (Make Up) investigados.",
+            "nomes": [
+              "Josimar Maranhãozinho",
+              "Pastor Gil",
+              "Bosco Costa"
+            ]
+          },
+          "condenados_definitivo": null,
+          "anuladas": {
+            "valor": 0,
+            "fonte": {
+              "nome": "Wikipédia pt, Josimar Maranhãozinho (índice)",
+              "url": "https://pt.wikipedia.org/wiki/Josimar_Maranh%C3%A3ozinho",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            }
+          },
+          "absolvidos": null
+        },
+        {
+          "escandalo_id": "banco-master",
+          "citados": null,
+          "denunciados": {
+            "valor": 0,
+            "fonte": {
+              "nome": "Wikipédia pt, Flávio Bolsonaro (índice)",
+              "url": "https://pt.wikipedia.org/wiki/Fl%C3%A1vio_Bolsonaro",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Zero = nenhum localizado nas fontes até out/2026 (não é levantamento oficial). Flávio Bolsonaro (STF, 11/09/2026), Eduardo Bolsonaro (23/07/2026), Cláudio Castro (26/05/2026) e Mario Frias investigados."
+          },
+          "condenados_1a": {
+            "valor": 0,
+            "fonte": {
+              "nome": "Wikipédia pt, Flávio Bolsonaro (índice)",
+              "url": "https://pt.wikipedia.org/wiki/Fl%C3%A1vio_Bolsonaro",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Zero = nenhum localizado nas fontes até out/2026 (não é levantamento oficial)."
+          },
+          "condenados_definitivo": {
+            "valor": 0,
+            "fonte": {
+              "nome": "Wikipédia pt, Flávio Bolsonaro (índice)",
+              "url": "https://pt.wikipedia.org/wiki/Fl%C3%A1vio_Bolsonaro",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Zero = nenhum localizado nas fontes até out/2026 (não é levantamento oficial)."
+          },
+          "anuladas": null,
+          "absolvidos": null
+        },
+        {
+          "escandalo_id": "rachadinha-flavio-bolsonaro",
+          "citados": null,
+          "denunciados": {
+            "valor": 1,
+            "fonte": {
+              "nome": "InfoMoney: TJ do Rio arquiva denúncia do MP contra Flávio Bolsonaro no caso das rachadinhas",
+              "url": "https://www.infomoney.com.br/politica/tj-do-rio-arquiva-denuncia-do-mp-contra-flavio-bolsonaro-em-caso-das-rachadinhas/",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Flávio Bolsonaro denunciado pelo MPRJ (nov/2020); denúncia arquivada pelo TJ-RJ (16/05/2022) após anulação de provas; recursos negados por Gilmar (26/02/2025). Filiação à época dos fatos não informada."
+          },
+          "condenados_1a": {
+            "valor": 0,
+            "fonte": {
+              "nome": "InfoMoney: TJ do Rio arquiva denúncia do MP contra Flávio Bolsonaro no caso das rachadinhas",
+              "url": "https://www.infomoney.com.br/politica/tj-do-rio-arquiva-denuncia-do-mp-contra-flavio-bolsonaro-em-caso-das-rachadinhas/",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            }
+          },
+          "condenados_definitivo": {
+            "valor": 0,
+            "fonte": {
+              "nome": "InfoMoney: TJ do Rio arquiva denúncia do MP contra Flávio Bolsonaro no caso das rachadinhas",
+              "url": "https://www.infomoney.com.br/politica/tj-do-rio-arquiva-denuncia-do-mp-contra-flavio-bolsonaro-em-caso-das-rachadinhas/",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            }
+          },
+          "anuladas": null,
+          "absolvidos": null
+        },
+        {
+          "escandalo_id": "joias-e-cartoes-de-vacina",
+          "citados": null,
+          "denunciados": {
+            "valor": 0,
+            "fonte": {
+              "nome": "Agência Brasil, mar/2026: STF pede novo parecer da PGR sobre caso das joias sauditas",
+              "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-03/stf-pede-novo-parecer-da-pgr-sobre-caso-das-joias-saudita",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Bolsonaro: cartões arquivado (mar/2025); joias indiciado, PGR pediu arquivamento, pendente."
+          },
+          "condenados_1a": {
+            "valor": 0,
+            "fonte": {
+              "nome": "Agência Brasil, mar/2026: STF pede novo parecer da PGR sobre caso das joias sauditas",
+              "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-03/stf-pede-novo-parecer-da-pgr-sobre-caso-das-joias-saudita",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            }
+          },
+          "condenados_definitivo": {
+            "valor": 0,
+            "fonte": {
+              "nome": "Agência Brasil, mar/2026: STF pede novo parecer da PGR sobre caso das joias sauditas",
+              "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-03/stf-pede-novo-parecer-da-pgr-sobre-caso-das-joias-saudita",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            }
+          },
+          "anuladas": null,
+          "absolvidos": null
+        },
+        {
+          "escandalo_id": "covaxin-cpi-da-covid",
+          "citados": null,
+          "denunciados": {
+            "valor": 0,
+            "fonte": {
+              "nome": "Congresso em Foco: PGR pede arquivamento de investigações da CPI contra Bolsonaro",
+              "url": "https://congressoemfoco.com.br/area/justica/pgr-pede-arquivamento-de-investigacoes-da-cpi-contra-bolsonaro",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Bolsonaro: prevaricação arquivada; PGR pediu arquivamento das apurações da CPI."
+          },
+          "condenados_1a": {
+            "valor": 0,
+            "fonte": {
+              "nome": "Congresso em Foco: PGR pede arquivamento de investigações da CPI contra Bolsonaro",
+              "url": "https://congressoemfoco.com.br/area/justica/pgr-pede-arquivamento-de-investigacoes-da-cpi-contra-bolsonaro",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            }
+          },
+          "condenados_definitivo": {
+            "valor": 0,
+            "fonte": {
+              "nome": "Congresso em Foco: PGR pede arquivamento de investigações da CPI contra Bolsonaro",
+              "url": "https://congressoemfoco.com.br/area/justica/pgr-pede-arquivamento-de-investigacoes-da-cpi-contra-bolsonaro",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            }
+          },
+          "anuladas": null,
+          "absolvidos": null
+        },
+        {
+          "escandalo_id": "abin-paralela",
+          "citados": null,
+          "denunciados": {
+            "valor": 0,
+            "fonte": {
+              "nome": "Brasil de Fato, 18/09/2025: o futuro de Alexandre Ramagem",
+              "url": "https://www.brasildefato.com.br/2025/09/18/futuro-alexandre-ramagem/",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Zero = nenhum localizado nas fontes até out/2026 (não é levantamento oficial). Ramagem indiciado (jun/2025, 34 pessoas); Carlos Bolsonaro alvo de buscas."
+          },
+          "condenados_1a": {
+            "valor": 0,
+            "fonte": {
+              "nome": "Brasil de Fato, 18/09/2025: o futuro de Alexandre Ramagem",
+              "url": "https://www.brasildefato.com.br/2025/09/18/futuro-alexandre-ramagem/",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Zero = nenhum localizado nas fontes até out/2026 (não é levantamento oficial)."
+          },
+          "condenados_definitivo": {
+            "valor": 0,
+            "fonte": {
+              "nome": "Brasil de Fato, 18/09/2025: o futuro de Alexandre Ramagem",
+              "url": "https://www.brasildefato.com.br/2025/09/18/futuro-alexandre-ramagem/",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Zero = nenhum localizado nas fontes até out/2026 (não é levantamento oficial)."
+          },
+          "anuladas": null,
+          "absolvidos": null
+        },
+        {
+          "escandalo_id": "fraude-do-inss",
+          "citados": null,
+          "denunciados": {
+            "valor": 0,
+            "fonte": {
+              "nome": "Agência Brasil, mar/2026: CPMI do INSS termina sem relatório final",
+              "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-03/cpmi-do-inss-termina-sem-relatorio-final",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Zero = nenhum localizado nas fontes até out/2026 (não é levantamento oficial). Jair e Flávio Bolsonaro em pedidos de indiciamento do relatório alternativo governista (não votado); José Carlos Oliveira (ex-ministro) no relatório rejeitado."
+          },
+          "condenados_1a": {
+            "valor": 0,
+            "fonte": {
+              "nome": "Agência Brasil, mar/2026: CPMI do INSS termina sem relatório final",
+              "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-03/cpmi-do-inss-termina-sem-relatorio-final",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Zero = nenhum localizado nas fontes até out/2026 (não é levantamento oficial)."
+          },
+          "condenados_definitivo": {
+            "valor": 0,
+            "fonte": {
+              "nome": "Agência Brasil, mar/2026: CPMI do INSS termina sem relatório final",
+              "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-03/cpmi-do-inss-termina-sem-relatorio-final",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Zero = nenhum localizado nas fontes até out/2026 (não é levantamento oficial)."
+          },
+          "anuladas": null,
+          "absolvidos": null
+        },
+        {
+          "escandalo_id": "outros-casos-era-bolsonaro",
+          "citados": null,
+          "denunciados": null,
+          "condenados_1a": null,
+          "condenados_definitivo": null,
+          "anuladas": null,
+          "absolvidos": null,
+          "nota": "Salles (então PL): réu no Pará (2023) e condenado em 1ª instância por improbidade (civil, 2018); Pazuello (hoje PL): absolvido por improbidade (2022)."
+        }
+      ]
+    },
+    {
+      "partido": "PSDB",
+      "casos": [
+        {
+          "escandalo_id": "mensalao",
+          "citados": null,
+          "denunciados": null,
+          "condenados_1a": null,
+          "condenados_definitivo": {
+            "valor": 0,
+            "fonte": {
+              "nome": "Exame, 05/11/2014 (atualizado 13/09/2016): onde estão os 24 condenados do mensalão",
+              "url": "https://exame.com/brasil/onde-estao-os-24-condenados-por-causa-do-mensalao/",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            }
+          },
+          "anuladas": null,
+          "absolvidos": null
+        },
+        {
+          "escandalo_id": "lava-jato-petrolao",
+          "citados": {
+            "valor": 77,
+            "fonte": {
+              "nome": "Bahia Notícias/Estadão, 16/04/2017: delação da Odebrecht cita 415 políticos de 26 partidos",
+              "url": "https://www.bahianoticias.com.br/noticia/205988-pacote-de-delacao-do-fim-do-mundo-cita-415-politicos-de-26-partidos",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Lista de Fachin: 11; planilhas 2016: 48."
+          },
+          "denunciados": null,
+          "condenados_1a": {
+            "valor": 0,
+            "fonte": {
+              "nome": "Agência Brasil, 17/03/2024: Lava Jato completa 10 anos com resultados em xeque",
+              "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2024-03/lava-jato-completa-10-anos-com-resultados-em-xeque-e-prestigio-abalado",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Nenhum político nacional condenado (Aécio absolvido; Beto Richa sem condenação criminal, processos anulados em 2023)."
+          },
+          "condenados_definitivo": {
+            "valor": 0,
+            "fonte": {
+              "nome": "Agência Brasil, 17/03/2024: Lava Jato completa 10 anos com resultados em xeque",
+              "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2024-03/lava-jato-completa-10-anos-com-resultados-em-xeque-e-prestigio-abalado",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            }
+          },
+          "anuladas": null,
+          "absolvidos": {
+            "valor": 1,
+            "fonte": {
+              "nome": "A Tarde: Justiça de SP absolve Aécio Neves no caso JBS",
+              "url": "https://atarde.com.br/politica/brasil/justica-de-sp-absolve-aecio-neves-no-caso-jbs-1189525",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Aécio Neves (JBS): absolvido em 11/03/2022; TRF-3 confirmou em 27/07/2022.",
+            "nomes": [
+              "Aécio Neves"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "partido": "DEM/União Brasil",
+      "casos": [
+        {
+          "escandalo_id": "mensalao",
+          "citados": null,
+          "denunciados": null,
+          "condenados_1a": null,
+          "condenados_definitivo": {
+            "valor": 0,
+            "fonte": {
+              "nome": "Exame, 05/11/2014 (atualizado 13/09/2016): onde estão os 24 condenados do mensalão",
+              "url": "https://exame.com/brasil/onde-estao-os-24-condenados-por-causa-do-mensalao/",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            }
+          },
+          "anuladas": null,
+          "absolvidos": null
+        },
+        {
+          "escandalo_id": "lava-jato-petrolao",
+          "citados": {
+            "valor": 22,
+            "fonte": {
+              "nome": "Bahia Notícias/Estadão, 16/04/2017: delação da Odebrecht cita 415 políticos de 26 partidos",
+              "url": "https://www.bahianoticias.com.br/noticia/205988-pacote-de-delacao-do-fim-do-mundo-cita-415-politicos-de-26-partidos",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Como DEM; planilhas 2016: 16. Nenhum caso de condenação localizado."
+          },
+          "denunciados": null,
+          "condenados_1a": null,
+          "condenados_definitivo": null,
+          "anuladas": null,
+          "absolvidos": null
+        },
+        {
+          "escandalo_id": "juscelino-filho",
+          "citados": null,
+          "denunciados": {
+            "valor": 1,
+            "fonte": {
+              "nome": "Wikipédia pt, Juscelino Filho (índice)",
+              "url": "https://pt.wikipedia.org/wiki/Juscelino_Filho",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Juscelino Filho (PGR, 08/04/2025); recebimento não confirmado.",
+            "nomes": [
+              "Juscelino Filho"
+            ]
+          },
+          "condenados_1a": {
+            "valor": 0,
+            "fonte": {
+              "nome": "Wikipédia pt, Juscelino Filho (índice)",
+              "url": "https://pt.wikipedia.org/wiki/Juscelino_Filho",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            }
+          },
+          "condenados_definitivo": {
+            "valor": 0,
+            "fonte": {
+              "nome": "Wikipédia pt, Juscelino Filho (índice)",
+              "url": "https://pt.wikipedia.org/wiki/Juscelino_Filho",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            }
+          },
+          "anuladas": null,
+          "absolvidos": null
+        },
+        {
+          "escandalo_id": "operacao-overclean",
+          "citados": null,
+          "denunciados": {
+            "valor": 0,
+            "fonte": {
+              "nome": "Acessa.com, jan/2026: Operação Overclean, que mira deputado, já achou dinheiro em gaveta e jogado da janela",
+              "url": "https://www.acessa.com/politica/2026/01/304590-operacao-overclean-que-mira-deputado-ja-achou-dinheiro-em-gaveta-bota-e-jogado-da-janela-lembre.html",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Zero = nenhum localizado nas fontes até out/2026 (não é levantamento oficial). Dal Barreto investigado; irmão e primo de Elmar Nascimento alvos; Elmar não é alvo."
+          },
+          "condenados_1a": {
+            "valor": 0,
+            "fonte": {
+              "nome": "Acessa.com, jan/2026: Operação Overclean, que mira deputado, já achou dinheiro em gaveta e jogado da janela",
+              "url": "https://www.acessa.com/politica/2026/01/304590-operacao-overclean-que-mira-deputado-ja-achou-dinheiro-em-gaveta-bota-e-jogado-da-janela-lembre.html",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Zero = nenhum localizado nas fontes até out/2026 (não é levantamento oficial)."
+          },
+          "condenados_definitivo": {
+            "valor": 0,
+            "fonte": {
+              "nome": "Acessa.com, jan/2026: Operação Overclean, que mira deputado, já achou dinheiro em gaveta e jogado da janela",
+              "url": "https://www.acessa.com/politica/2026/01/304590-operacao-overclean-que-mira-deputado-ja-achou-dinheiro-em-gaveta-bota-e-jogado-da-janela-lembre.html",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Zero = nenhum localizado nas fontes até out/2026 (não é levantamento oficial)."
+          },
+          "anuladas": null,
+          "absolvidos": null
+        },
+        {
+          "escandalo_id": "banco-master",
+          "citados": null,
+          "denunciados": {
+            "valor": 0,
+            "fonte": {
+              "nome": "Wikipédia pt, Escândalo do Banco Master (índice)",
+              "url": "https://pt.wikipedia.org/wiki/Esc%C3%A2ndalo_do_Banco_Master",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Zero = nenhum localizado nas fontes até out/2026 (não é levantamento oficial). ACM Neto: R$ 3,6 mi do Master/Reag segundo COAF; investigação formal não localizada."
+          },
+          "condenados_1a": {
+            "valor": 0,
+            "fonte": {
+              "nome": "Wikipédia pt, Escândalo do Banco Master (índice)",
+              "url": "https://pt.wikipedia.org/wiki/Esc%C3%A2ndalo_do_Banco_Master",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Zero = nenhum localizado nas fontes até out/2026 (não é levantamento oficial)."
+          },
+          "condenados_definitivo": {
+            "valor": 0,
+            "fonte": {
+              "nome": "Wikipédia pt, Escândalo do Banco Master (índice)",
+              "url": "https://pt.wikipedia.org/wiki/Esc%C3%A2ndalo_do_Banco_Master",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Zero = nenhum localizado nas fontes até out/2026 (não é levantamento oficial)."
+          },
+          "anuladas": null,
+          "absolvidos": null
+        },
+        {
+          "escandalo_id": "orcamento-secreto-emendas",
+          "citados": null,
+          "denunciados": null,
+          "condenados_1a": null,
+          "condenados_definitivo": null,
+          "anuladas": null,
+          "absolvidos": null,
+          "nota": "Davi Alcolumbre (então DEM) entre os mais beneficiados (amostra O Globo); sem registro de investigação nas notas."
+        }
+      ]
+    },
+    {
+      "partido": "PSB",
+      "casos": [
+        {
+          "escandalo_id": "mensalao",
+          "citados": null,
+          "denunciados": null,
+          "condenados_1a": null,
+          "condenados_definitivo": {
+            "valor": 0,
+            "fonte": {
+              "nome": "Exame, 05/11/2014 (atualizado 13/09/2016): onde estão os 24 condenados do mensalão",
+              "url": "https://exame.com/brasil/onde-estao-os-24-condenados-por-causa-do-mensalao/",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            }
+          },
+          "anuladas": null,
+          "absolvidos": null
+        },
+        {
+          "escandalo_id": "lava-jato-petrolao",
+          "citados": {
+            "valor": 19,
+            "fonte": {
+              "nome": "Bahia Notícias/Estadão, 16/04/2017: delação da Odebrecht cita 415 políticos de 26 partidos",
+              "url": "https://www.bahianoticias.com.br/noticia/205988-pacote-de-delacao-do-fim-do-mundo-cita-415-politicos-de-26-partidos",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Planilhas 2016: 17. Nenhum caso de condenação localizado."
+          },
+          "denunciados": null,
+          "condenados_1a": null,
+          "condenados_definitivo": null,
+          "anuladas": null,
+          "absolvidos": null
+        },
+        {
+          "escandalo_id": "fraude-do-inss",
+          "citados": null,
+          "denunciados": {
+            "valor": 0,
+            "fonte": {
+              "nome": "Agência Brasil, mar/2026: relatório da CPMI do INSS pede indiciamento de 216 pessoas",
+              "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-03/relatorio-da-cpmi-do-inss-pede-indiciamento-de-216-pessoas",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Zero = nenhum localizado nas fontes até out/2026 (não é levantamento oficial). Edson Araújo (dep. estadual, MA) em pedido de indiciamento do relatório rejeitado."
+          },
+          "condenados_1a": {
+            "valor": 0,
+            "fonte": {
+              "nome": "Agência Brasil, mar/2026: relatório da CPMI do INSS pede indiciamento de 216 pessoas",
+              "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-03/relatorio-da-cpmi-do-inss-pede-indiciamento-de-216-pessoas",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Zero = nenhum localizado nas fontes até out/2026 (não é levantamento oficial)."
+          },
+          "condenados_definitivo": {
+            "valor": 0,
+            "fonte": {
+              "nome": "Agência Brasil, mar/2026: relatório da CPMI do INSS pede indiciamento de 216 pessoas",
+              "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-03/relatorio-da-cpmi-do-inss-pede-indiciamento-de-216-pessoas",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Zero = nenhum localizado nas fontes até out/2026 (não é levantamento oficial)."
+          },
+          "anuladas": null,
+          "absolvidos": null
+        },
+        {
+          "escandalo_id": "operacao-overclean",
+          "citados": null,
+          "denunciados": {
+            "valor": 0,
+            "fonte": {
+              "nome": "Acessa.com, jan/2026: Operação Overclean, que mira deputado, já achou dinheiro em gaveta e jogado da janela",
+              "url": "https://www.acessa.com/politica/2026/01/304590-operacao-overclean-que-mira-deputado-ja-achou-dinheiro-em-gaveta-bota-e-jogado-da-janela-lembre.html",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Zero = nenhum localizado nas fontes até out/2026 (não é levantamento oficial). Prefeito de Boquira afastado."
+          },
+          "condenados_1a": {
+            "valor": 0,
+            "fonte": {
+              "nome": "Acessa.com, jan/2026: Operação Overclean, que mira deputado, já achou dinheiro em gaveta e jogado da janela",
+              "url": "https://www.acessa.com/politica/2026/01/304590-operacao-overclean-que-mira-deputado-ja-achou-dinheiro-em-gaveta-bota-e-jogado-da-janela-lembre.html",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Zero = nenhum localizado nas fontes até out/2026 (não é levantamento oficial)."
+          },
+          "condenados_definitivo": {
+            "valor": 0,
+            "fonte": {
+              "nome": "Acessa.com, jan/2026: Operação Overclean, que mira deputado, já achou dinheiro em gaveta e jogado da janela",
+              "url": "https://www.acessa.com/politica/2026/01/304590-operacao-overclean-que-mira-deputado-ja-achou-dinheiro-em-gaveta-bota-e-jogado-da-janela-lembre.html",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Zero = nenhum localizado nas fontes até out/2026 (não é levantamento oficial)."
+          },
+          "anuladas": null,
+          "absolvidos": null
+        }
+      ]
+    },
+    {
+      "partido": "PSD",
+      "casos": [
+        {
+          "escandalo_id": "mensalao",
+          "citados": null,
+          "denunciados": null,
+          "condenados_1a": null,
+          "condenados_definitivo": {
+            "valor": 0,
+            "fonte": {
+              "nome": "Exame, 05/11/2014 (atualizado 13/09/2016): onde estão os 24 condenados do mensalão",
+              "url": "https://exame.com/brasil/onde-estao-os-24-condenados-por-causa-do-mensalao/",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            }
+          },
+          "anuladas": null,
+          "absolvidos": null
+        },
+        {
+          "escandalo_id": "lava-jato-petrolao",
+          "citados": {
+            "valor": 15,
+            "fonte": {
+              "nome": "Bahia Notícias/Estadão, 16/04/2017: delação da Odebrecht cita 415 políticos de 26 partidos",
+              "url": "https://www.bahianoticias.com.br/noticia/205988-pacote-de-delacao-do-fim-do-mundo-cita-415-politicos-de-26-partidos",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Nenhum caso de condenação localizado."
+          },
+          "denunciados": null,
+          "condenados_1a": null,
+          "condenados_definitivo": null,
+          "anuladas": null,
+          "absolvidos": null
+        },
+        {
+          "escandalo_id": "operacao-overclean",
+          "citados": null,
+          "denunciados": {
+            "valor": 0,
+            "fonte": {
+              "nome": "Acessa.com, jan/2026: Operação Overclean, que mira deputado, já achou dinheiro em gaveta e jogado da janela",
+              "url": "https://www.acessa.com/politica/2026/01/304590-operacao-overclean-que-mira-deputado-ja-achou-dinheiro-em-gaveta-bota-e-jogado-da-janela-lembre.html",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Zero = nenhum localizado nas fontes até out/2026 (não é levantamento oficial). Prefeito de Riacho de Santana afastado."
+          },
+          "condenados_1a": {
+            "valor": 0,
+            "fonte": {
+              "nome": "Acessa.com, jan/2026: Operação Overclean, que mira deputado, já achou dinheiro em gaveta e jogado da janela",
+              "url": "https://www.acessa.com/politica/2026/01/304590-operacao-overclean-que-mira-deputado-ja-achou-dinheiro-em-gaveta-bota-e-jogado-da-janela-lembre.html",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Zero = nenhum localizado nas fontes até out/2026 (não é levantamento oficial)."
+          },
+          "condenados_definitivo": {
+            "valor": 0,
+            "fonte": {
+              "nome": "Acessa.com, jan/2026: Operação Overclean, que mira deputado, já achou dinheiro em gaveta e jogado da janela",
+              "url": "https://www.acessa.com/politica/2026/01/304590-operacao-overclean-que-mira-deputado-ja-achou-dinheiro-em-gaveta-bota-e-jogado-da-janela-lembre.html",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Zero = nenhum localizado nas fontes até out/2026 (não é levantamento oficial)."
+          },
+          "anuladas": null,
+          "absolvidos": null
+        },
+        {
+          "escandalo_id": "orcamento-secreto-emendas",
+          "citados": null,
+          "denunciados": null,
+          "condenados_1a": null,
+          "condenados_definitivo": null,
+          "anuladas": null,
+          "absolvidos": null,
+          "nota": "Domingos Neto entre os mais beneficiados (amostra O Globo); sem registro de investigação nas notas."
+        }
+      ]
+    },
+    {
+      "partido": "PDT",
+      "casos": [
+        {
+          "escandalo_id": "lava-jato-petrolao",
+          "citados": {
+            "valor": 8,
+            "fonte": {
+              "nome": "Bahia Notícias/Estadão, 16/04/2017: delação da Odebrecht cita 415 políticos de 26 partidos",
+              "url": "https://www.bahianoticias.com.br/noticia/205988-pacote-de-delacao-do-fim-do-mundo-cita-415-politicos-de-26-partidos",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            }
+          },
+          "denunciados": null,
+          "condenados_1a": null,
+          "condenados_definitivo": null,
+          "anuladas": null,
+          "absolvidos": null
+        },
+        {
+          "escandalo_id": "fraude-do-inss",
+          "citados": null,
+          "denunciados": {
+            "valor": 0,
+            "fonte": {
+              "nome": "O Tempo, 23/04/2026: operação contra fraudes no INSS completa um ano",
+              "url": "https://www.otempo.com.br/politica/judiciario/2026/4/23/operacao-contra-fraudes-no-inss-completa-um-ano-com-desdobramentos-mas-sem-ouvir-todos-investigados",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Zero = nenhum localizado nas fontes até out/2026 (não é levantamento oficial). Lupi: renunciou (02/05/2025), delatado, pedido de indiciamento da CPMI rejeitado, não denunciado; Weverton Rocha investigado (busca 18/12/2025); Wolney Queiroz: reunião com o 'Careca' (jan/2023)."
+          },
+          "condenados_1a": {
+            "valor": 0,
+            "fonte": {
+              "nome": "O Tempo, 23/04/2026: operação contra fraudes no INSS completa um ano",
+              "url": "https://www.otempo.com.br/politica/judiciario/2026/4/23/operacao-contra-fraudes-no-inss-completa-um-ano-com-desdobramentos-mas-sem-ouvir-todos-investigados",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Zero = nenhum localizado nas fontes até out/2026 (não é levantamento oficial)."
+          },
+          "condenados_definitivo": {
+            "valor": 0,
+            "fonte": {
+              "nome": "O Tempo, 23/04/2026: operação contra fraudes no INSS completa um ano",
+              "url": "https://www.otempo.com.br/politica/judiciario/2026/4/23/operacao-contra-fraudes-no-inss-completa-um-ano-com-desdobramentos-mas-sem-ouvir-todos-investigados",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Zero = nenhum localizado nas fontes até out/2026 (não é levantamento oficial)."
+          },
+          "anuladas": null,
+          "absolvidos": null
+        },
+        {
+          "escandalo_id": "operacao-overclean",
+          "citados": null,
+          "denunciados": {
+            "valor": 0,
+            "fonte": {
+              "nome": "Acessa.com, jan/2026: Operação Overclean, que mira deputado, já achou dinheiro em gaveta e jogado da janela",
+              "url": "https://www.acessa.com/politica/2026/01/304590-operacao-overclean-que-mira-deputado-ja-achou-dinheiro-em-gaveta-bota-e-jogado-da-janela-lembre.html",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Zero = nenhum localizado nas fontes até out/2026 (não é levantamento oficial). Félix Mendonça Jr. investigado (fases 4 e 9)."
+          },
+          "condenados_1a": {
+            "valor": 0,
+            "fonte": {
+              "nome": "Acessa.com, jan/2026: Operação Overclean, que mira deputado, já achou dinheiro em gaveta e jogado da janela",
+              "url": "https://www.acessa.com/politica/2026/01/304590-operacao-overclean-que-mira-deputado-ja-achou-dinheiro-em-gaveta-bota-e-jogado-da-janela-lembre.html",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Zero = nenhum localizado nas fontes até out/2026 (não é levantamento oficial)."
+          },
+          "condenados_definitivo": {
+            "valor": 0,
+            "fonte": {
+              "nome": "Acessa.com, jan/2026: Operação Overclean, que mira deputado, já achou dinheiro em gaveta e jogado da janela",
+              "url": "https://www.acessa.com/politica/2026/01/304590-operacao-overclean-que-mira-deputado-ja-achou-dinheiro-em-gaveta-bota-e-jogado-da-janela-lembre.html",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Zero = nenhum localizado nas fontes até out/2026 (não é levantamento oficial)."
+          },
+          "anuladas": null,
+          "absolvidos": null
+        }
+      ]
+    },
+    {
+      "partido": "PCdoB",
+      "casos": [
+        {
+          "escandalo_id": "lava-jato-petrolao",
+          "citados": {
+            "valor": 10,
+            "fonte": {
+              "nome": "Bahia Notícias/Estadão, 16/04/2017: delação da Odebrecht cita 415 políticos de 26 partidos",
+              "url": "https://www.bahianoticias.com.br/noticia/205988-pacote-de-delacao-do-fim-do-mundo-cita-415-politicos-de-26-partidos",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            }
+          },
+          "denunciados": null,
+          "condenados_1a": null,
+          "condenados_definitivo": null,
+          "anuladas": null,
+          "absolvidos": null
+        }
+      ]
+    },
+    {
+      "partido": "PPS",
+      "casos": [
+        {
+          "escandalo_id": "lava-jato-petrolao",
+          "citados": {
+            "valor": 9,
+            "fonte": {
+              "nome": "Bahia Notícias/Estadão, 16/04/2017: delação da Odebrecht cita 415 políticos de 26 partidos",
+              "url": "https://www.bahianoticias.com.br/noticia/205988-pacote-de-delacao-do-fim-do-mundo-cita-415-politicos-de-26-partidos",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            }
+          },
+          "denunciados": null,
+          "condenados_1a": null,
+          "condenados_definitivo": null,
+          "anuladas": null,
+          "absolvidos": null
+        }
+      ]
+    },
+    {
+      "partido": "Republicanos",
+      "casos": [
+        {
+          "escandalo_id": "fraude-do-inss",
+          "citados": null,
+          "denunciados": {
+            "valor": 0,
+            "fonte": {
+              "nome": "Agência Brasil, mar/2026: relatório da CPMI do INSS pede indiciamento de 216 pessoas",
+              "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-03/relatorio-da-cpmi-do-inss-pede-indiciamento-de-216-pessoas",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Zero = nenhum localizado nas fontes até out/2026 (não é levantamento oficial). Euclydes Pettersen (MG) em pedido de indiciamento do relatório rejeitado."
+          },
+          "condenados_1a": {
+            "valor": 0,
+            "fonte": {
+              "nome": "Agência Brasil, mar/2026: relatório da CPMI do INSS pede indiciamento de 216 pessoas",
+              "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-03/relatorio-da-cpmi-do-inss-pede-indiciamento-de-216-pessoas",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Zero = nenhum localizado nas fontes até out/2026 (não é levantamento oficial)."
+          },
+          "condenados_definitivo": {
+            "valor": 0,
+            "fonte": {
+              "nome": "Agência Brasil, mar/2026: relatório da CPMI do INSS pede indiciamento de 216 pessoas",
+              "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-03/relatorio-da-cpmi-do-inss-pede-indiciamento-de-216-pessoas",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Zero = nenhum localizado nas fontes até out/2026 (não é levantamento oficial)."
+          },
+          "anuladas": null,
+          "absolvidos": null
+        },
+        {
+          "escandalo_id": "orcamento-secreto-emendas",
+          "citados": null,
+          "denunciados": {
+            "valor": 0,
+            "fonte": {
+              "nome": "Agência Pública, jul/2026: farra das emendas — Flávio Dino intima presidentes de partidos",
+              "url": "https://apublica.org/2026/07/farra-das-emendas-flavio-dino-intima-presidentes-de-partidos/",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Zero = nenhum localizado nas fontes até out/2026 (não é levantamento oficial). Eduardo Cunha (MG): bens bloqueados em R$ 6,1 mi (jul/2026)."
+          },
+          "condenados_1a": {
+            "valor": 0,
+            "fonte": {
+              "nome": "Agência Pública, jul/2026: farra das emendas — Flávio Dino intima presidentes de partidos",
+              "url": "https://apublica.org/2026/07/farra-das-emendas-flavio-dino-intima-presidentes-de-partidos/",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Zero = nenhum localizado nas fontes até out/2026 (não é levantamento oficial)."
+          },
+          "condenados_definitivo": {
+            "valor": 0,
+            "fonte": {
+              "nome": "Agência Pública, jul/2026: farra das emendas — Flávio Dino intima presidentes de partidos",
+              "url": "https://apublica.org/2026/07/farra-das-emendas-flavio-dino-intima-presidentes-de-partidos/",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Zero = nenhum localizado nas fontes até out/2026 (não é levantamento oficial)."
+          },
+          "anuladas": null,
+          "absolvidos": null
+        },
+        {
+          "escandalo_id": "banco-master",
+          "citados": null,
+          "denunciados": null,
+          "condenados_1a": null,
+          "condenados_definitivo": null,
+          "anuladas": null,
+          "absolvidos": null,
+          "nota": "Hugo Motta citado pela Agência Pública; sem registro de investigação nas notas."
+        }
+      ]
+    },
+    {
+      "partido": "Solidariedade",
+      "casos": [
+        {
+          "escandalo_id": "lava-jato-petrolao",
+          "citados": null,
+          "denunciados": null,
+          "condenados_1a": null,
+          "condenados_definitivo": null,
+          "anuladas": null,
+          "absolvidos": null,
+          "nota": "Paulinho da Força: investigação de caixa 2 encerrada por decisão monocrática de Toffoli (arquivado)."
+        }
+      ]
+    },
+    {
+      "partido": "Podemos",
+      "casos": [
+        {
+          "escandalo_id": "operacao-overclean",
+          "citados": null,
+          "denunciados": {
+            "valor": 0,
+            "fonte": {
+              "nome": "Acessa.com, jan/2026: Operação Overclean, que mira deputado, já achou dinheiro em gaveta e jogado da janela",
+              "url": "https://www.acessa.com/politica/2026/01/304590-operacao-overclean-que-mira-deputado-ja-achou-dinheiro-em-gaveta-bota-e-jogado-da-janela-lembre.html",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Zero = nenhum localizado nas fontes até out/2026 (não é levantamento oficial). Luiz França alvo da 8ª fase."
+          },
+          "condenados_1a": {
+            "valor": 0,
+            "fonte": {
+              "nome": "Acessa.com, jan/2026: Operação Overclean, que mira deputado, já achou dinheiro em gaveta e jogado da janela",
+              "url": "https://www.acessa.com/politica/2026/01/304590-operacao-overclean-que-mira-deputado-ja-achou-dinheiro-em-gaveta-bota-e-jogado-da-janela-lembre.html",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Zero = nenhum localizado nas fontes até out/2026 (não é levantamento oficial)."
+          },
+          "condenados_definitivo": {
+            "valor": 0,
+            "fonte": {
+              "nome": "Acessa.com, jan/2026: Operação Overclean, que mira deputado, já achou dinheiro em gaveta e jogado da janela",
+              "url": "https://www.acessa.com/politica/2026/01/304590-operacao-overclean-que-mira-deputado-ja-achou-dinheiro-em-gaveta-bota-e-jogado-da-janela-lembre.html",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Zero = nenhum localizado nas fontes até out/2026 (não é levantamento oficial)."
+          },
+          "anuladas": null,
+          "absolvidos": null
+        }
+      ]
+    },
+    {
+      "partido": "Novo",
+      "casos": [
+        {
+          "escandalo_id": "outros-casos-era-bolsonaro",
+          "citados": null,
+          "denunciados": null,
+          "condenados_1a": null,
+          "condenados_definitivo": null,
+          "anuladas": null,
+          "absolvidos": null,
+          "nota": "Ricardo Salles (hoje Novo; PL à época): réu no Pará por contrabando de madeira (28/08/2023); condenado em 1ª instância por improbidade (civil, 2018)."
+        }
+      ]
+    },
+    {
+      "partido": "Sem partido / não informado",
+      "casos": [
+        {
+          "escandalo_id": "mensalao",
+          "citados": null,
+          "denunciados": null,
+          "condenados_1a": null,
+          "condenados_definitivo": {
+            "valor": 11,
+            "fonte": {
+              "nome": "Exame, 05/11/2014 (atualizado 13/09/2016): onde estão os 24 condenados do mensalão",
+              "url": "https://exame.com/brasil/onde-estao-os-24-condenados-por-causa-do-mensalao/",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Operadores privados (agências de Marcos Valério, Banco Rural, Bônus-Banval); Breno Fischberg absolvido nos embargos."
+          },
+          "anuladas": null,
+          "absolvidos": {
+            "valor": null,
+            "fonte": {
+              "nome": "Wikipédia pt, Lista de denunciados e julgados do Mensalão (índice)",
+              "url": "https://pt.wikipedia.org/wiki/Lista_de_denunciados_e_julgados_do_Esc%C3%A2ndalo_do_Mensal%C3%A3o",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Absolvidos sem partido informado: Luiz Gushiken, Duda Mendonça, Zilmar Fernandes, Geiza Dias, Ayanna Tenório, Antônio Lamas, José Luiz Alves, Anderson Adauto."
+          }
+        },
+        {
+          "escandalo_id": "caso-marielle",
+          "citados": null,
+          "denunciados": {
+            "valor": 5,
+            "fonte": {
+              "nome": "Jornal Opção, 25/02/2026: STF condena irmãos Brazão a 76 anos pelo assassinato de Marielle Franco",
+              "url": "https://www.jornalopcao.com.br/ultimas-noticias/stf-condena-irmaos-brazao-a-76-anos-de-prisao-pelo-assassinato-de-marielle-franco-797770/",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            }
+          },
+          "condenados_1a": null,
+          "condenados_definitivo": {
+            "valor": 5,
+            "fonte": {
+              "nome": "Diário de Pernambuco, jul/2026: caso Marielle — Moraes determina cumprimento imediato de penas",
+              "url": "https://www.diariodepernambuco.com.br/amp/politica/2026/07/11718769-caso-marielle-moraes-determina-cumprimento-imediato-de-penas.html",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Domingos Brazão (76a3m), Chiquinho Brazão (76a3m; partido não informado), Ronald Pereira (56a), Rivaldo Barbosa (18a), Robson Calixto (9a); trânsito em julgado 13/07/2026.",
+            "nomes": [
+              "Domingos Brazão",
+              "Chiquinho Brazão",
+              "Ronald Paulo Alves Pereira",
+              "Rivaldo Barbosa",
+              "Robson Calixto Fonseca"
+            ]
+          },
+          "anuladas": {
+            "valor": 0,
+            "fonte": {
+              "nome": "Diário de Pernambuco, jul/2026: caso Marielle — Moraes determina cumprimento imediato de penas",
+              "url": "https://www.diariodepernambuco.com.br/amp/politica/2026/07/11718769-caso-marielle-moraes-determina-cumprimento-imediato-de-penas.html",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            }
+          },
+          "absolvidos": null
+        },
+        {
+          "escandalo_id": "trama-golpista-8-de-janeiro",
+          "citados": null,
+          "denunciados": null,
+          "condenados_1a": null,
+          "condenados_definitivo": {
+            "valor": 1402,
+            "fonte": {
+              "nome": "Agência Brasil, 30/04/2026: entenda como o PL da Dosimetria pode beneficiar condenados pelo 8/1",
+              "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-04/entenda-como-o-pl-da-dosimetria-pode-beneficiar-condenados-pelo-81",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Condenados pelo 8 de janeiro (balanço STF, abr/2026): 431 prisão, 419 alternativas, 552 ANPPs."
+          },
+          "anuladas": null,
+          "absolvidos": null
+        },
+        {
+          "escandalo_id": "silvio-almeida",
+          "citados": null,
+          "denunciados": {
+            "valor": 1,
+            "fonte": {
+              "nome": "Band, 21/03/2026: PGR denuncia Silvio Almeida por importunação sexual contra Anielle Franco",
+              "url": "https://www.band.com.br/noticias/pgr-denuncia-silvio-almeida-ex-ministro-de-lula-por-importunacao-sexual-contra-anielle-franco-202603211003",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Silvio Almeida (sem partido; ex-ministro de Lula 3), PGR mar/2026; recebimento não confirmado."
+          },
+          "condenados_1a": {
+            "valor": 0,
+            "fonte": {
+              "nome": "Band, 21/03/2026: PGR denuncia Silvio Almeida por importunação sexual contra Anielle Franco",
+              "url": "https://www.band.com.br/noticias/pgr-denuncia-silvio-almeida-ex-ministro-de-lula-por-importunacao-sexual-contra-anielle-franco-202603211003",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            }
+          },
+          "condenados_definitivo": {
+            "valor": 0,
+            "fonte": {
+              "nome": "Band, 21/03/2026: PGR denuncia Silvio Almeida por importunação sexual contra Anielle Franco",
+              "url": "https://www.band.com.br/noticias/pgr-denuncia-silvio-almeida-ex-ministro-de-lula-por-importunacao-sexual-contra-anielle-franco-202603211003",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            }
+          },
+          "anuladas": null,
+          "absolvidos": null
+        },
+        {
+          "escandalo_id": "americanas-fraude-contabil",
+          "citados": null,
+          "denunciados": {
+            "valor": 13,
+            "fonte": {
+              "nome": "Mercado&Consumo, 01/04/2025: fraude nas Americanas — MPF denuncia 13 ex-executivos",
+              "url": "https://mercadoeconsumo.com.br/01/04/2025/noticias-varejo/fraude-nas-americanas-mpf-denuncia-13-ex-executivos-por-crime-financeiro/",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Ex-executivos; 12 réus (out/2026)."
+          },
+          "condenados_1a": {
+            "valor": 0,
+            "fonte": {
+              "nome": "Diário de Pernambuco, out/2026: Justiça torna 12 ex-executivos da Americanas réus",
+              "url": "https://www.diariodepernambuco.com.br/brasil/2026/10/11726828-justica-torna-12-ex-executivos-da-americanas-reus-por-fraude-bilionaria.html",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            }
+          },
+          "condenados_definitivo": {
+            "valor": 0,
+            "fonte": {
+              "nome": "Diário de Pernambuco, out/2026: Justiça torna 12 ex-executivos da Americanas réus",
+              "url": "https://www.diariodepernambuco.com.br/brasil/2026/10/11726828-justica-torna-12-ex-executivos-da-americanas-reus-por-fraude-bilionaria.html",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            }
+          },
+          "anuladas": null,
+          "absolvidos": null
+        },
+        {
+          "escandalo_id": "fraude-do-inss",
+          "citados": null,
+          "denunciados": {
+            "valor": 0,
+            "fonte": {
+              "nome": "Correio Braziliense, 14/07/2026: PF indicia 'Careca do INSS' e mais 47 pessoas",
+              "url": "https://www.correiobraziliense.com.br/politica/2026/07/7461264-pf-indicia-careca-do-inss-e-mais-47-pessoas-por-fraudes.html",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "48 indiciados pela PF (14/07/2026), incluindo Stefanutto, 'Careca', Virgílio Oliveira, Carlos Lopes (Conafer); nenhuma denúncia localizada."
+          },
+          "condenados_1a": {
+            "valor": 0,
+            "fonte": {
+              "nome": "Correio Braziliense, 14/07/2026: PF indicia 'Careca do INSS' e mais 47 pessoas",
+              "url": "https://www.correiobraziliense.com.br/politica/2026/07/7461264-pf-indicia-careca-do-inss-e-mais-47-pessoas-por-fraudes.html",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Zero = nenhum localizado nas fontes até out/2026 (não é levantamento oficial)."
+          },
+          "condenados_definitivo": {
+            "valor": 0,
+            "fonte": {
+              "nome": "Correio Braziliense, 14/07/2026: PF indicia 'Careca do INSS' e mais 47 pessoas",
+              "url": "https://www.correiobraziliense.com.br/politica/2026/07/7461264-pf-indicia-careca-do-inss-e-mais-47-pessoas-por-fraudes.html",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Zero = nenhum localizado nas fontes até out/2026 (não é levantamento oficial)."
+          },
+          "anuladas": null,
+          "absolvidos": null
+        },
+        {
+          "escandalo_id": "banco-master",
+          "citados": null,
+          "denunciados": {
+            "valor": 0,
+            "fonte": {
+              "nome": "Diário de Pernambuco, out/2026: Vorcaro mandou 'sicário' rastrear diretor do Banco Central",
+              "url": "https://diariodepernambuco.com.br/politica/2026/10/11727100-vorcaro-mandou-sicario-rastrear-e-moer-diretor-do-banco-central.html",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Daniel Vorcaro preso (desde 04/03/2026), sem denúncia localizada; PH Costa (BRB) preso; servidores do BC investigados."
+          },
+          "condenados_1a": {
+            "valor": 0,
+            "fonte": {
+              "nome": "Diário de Pernambuco, out/2026: Vorcaro mandou 'sicário' rastrear diretor do Banco Central",
+              "url": "https://diariodepernambuco.com.br/politica/2026/10/11727100-vorcaro-mandou-sicario-rastrear-e-moer-diretor-do-banco-central.html",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Zero = nenhum localizado nas fontes até out/2026 (não é levantamento oficial)."
+          },
+          "condenados_definitivo": {
+            "valor": 0,
+            "fonte": {
+              "nome": "Diário de Pernambuco, out/2026: Vorcaro mandou 'sicário' rastrear diretor do Banco Central",
+              "url": "https://diariodepernambuco.com.br/politica/2026/10/11727100-vorcaro-mandou-sicario-rastrear-e-moer-diretor-do-banco-central.html",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Zero = nenhum localizado nas fontes até out/2026 (não é levantamento oficial)."
+          },
+          "anuladas": null,
+          "absolvidos": null
+        },
+        {
+          "escandalo_id": "lava-jato-petrolao",
+          "citados": null,
+          "denunciados": null,
+          "condenados_1a": null,
+          "condenados_definitivo": {
+            "valor": null,
+            "fonte": {
+              "nome": "G1, 21/05/2024: STF anula decisões da Lava Jato contra Marcelo Odebrecht",
+              "url": "https://g1.globo.com/politica/noticia/2024/05/21/stf-anula-decisoes-da-lava-jato-contra-marcelo-odebrecht.ghtml",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Marcelo Odebrecht: pena cumprida (28/04/2023); Youssef, Léo Pinheiro, Bendine: anuladas; Delgatti (Spoofing): condenado-1a 20 anos (ago/2023). Balanço MPF dez/2019: 159 condenados em Curitiba, ~204 no total (teto histórico, não retrato de 2026)."
+          },
+          "anuladas": null,
+          "absolvidos": null
+        }
+      ]
+    }
+  ],
+  "lacunas": [
+    "Não existe levantamento oficial de condenados por partido na Lava Jato; as células usam nomes citados nas notas e são parciais.",
+    "Zeros em casos de 2025–2026 (INSS, Master, Overclean, emendas) significam 'nenhum localizado nas fontes até out/2026', não um levantamento oficial.",
+    "Filiação partidária de militares da AP 2668, de Chiquinho Brazão e de vários investigados do INSS/Overclean não consta nas notas.",
+    "Partido de Alfredo Gaspar (relator da CPMI do INSS) diverge entre fontes (União-AL vs. PL-AL)."
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/04_escandalos_mensalao_petrolao_lavajato.md",
+  "notas_brutas_adicionais": [
+    "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/05_escandalos_recentes_inss_master_bolsonaro.md"
+  ],
+  "fontes": [
+    {
+      "nome": "Exame, 05/11/2014 (atualizado 13/09/2016): onde estão os 24 condenados do mensalão",
+      "url": "https://exame.com/brasil/onde-estao-os-24-condenados-por-causa-do-mensalao/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Gazeta do Povo, 11/06/2025: Mensalão 20 anos, como estão hoje os condenados",
+      "url": "https://www.gazetadopovo.com.br/ideias/mensalao-20-anos-como-estao-hoje-condenados-soltos-presos/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Wikipédia pt, Lista de denunciados e julgados do Mensalão (índice)",
+      "url": "https://pt.wikipedia.org/wiki/Lista_de_denunciados_e_julgados_do_Esc%C3%A2ndalo_do_Mensal%C3%A3o",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Bahia Notícias/Estadão, 16/04/2017: delação da Odebrecht cita 415 políticos de 26 partidos",
+      "url": "https://www.bahianoticias.com.br/noticia/205988-pacote-de-delacao-do-fim-do-mundo-cita-415-politicos-de-26-partidos",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Agência Brasil, 17/03/2024: Lava Jato completa 10 anos com resultados em xeque",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2024-03/lava-jato-completa-10-anos-com-resultados-em-xeque-e-prestigio-abalado",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Transparência Internacional Brasil, fev/2026: a farra das leniências — decisões controversas e anulações em massa",
+      "url": "https://transparenciainternacional.org.br/posts/a-farra-das-leniencias-decisoes-controversas-e-anulacoes-em-massa/",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    },
+    {
+      "nome": "Poder360, 15/03/2022 (atual. 30/08/2022): Lula se livra de processos, mas teve só 3 absolvições",
+      "url": "https://www.poder360.com.br/justica/lula-se-livra-de-processos-mas-teve-so-3-absolvicoes/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "G1, 21/06/2021: Justiça Federal absolve Lula e Gilberto Carvalho na Zelotes",
+      "url": "https://g1.globo.com/politica/noticia/2021/06/21/justica-federal-absolve-lula-e-gilberto-carvalho-em-acao-da-operacao-zelotes.ghtml",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Aos Fatos, 28/08/2023: Lula engana ao dizer que Dilma foi absolvida das pedaladas",
+      "url": "https://www.aosfatos.org/noticias/lula-engana-ao-dizer-dilma-foi-absolvida-pedaladas/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "CNN Brasil, mar/2026: relatório da CPMI do INSS pede indiciamento de Lulinha e outras 218 pessoas",
+      "url": "https://www.cnnbrasil.com.br/politica/relatorio-da-cpmi-do-inss-pede-indicamento-de-lulinha-e-outras-218-pessoas/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "O Tempo, 23/04/2026: operação contra fraudes no INSS completa um ano",
+      "url": "https://www.otempo.com.br/politica/judiciario/2026/4/23/operacao-contra-fraudes-no-inss-completa-um-ano-com-desdobramentos-mas-sem-ouvir-todos-investigados",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Jornal Grande Bahia, jul/2026: Daniel Vorcaro e o caso Banco Master — dez fases da Compliance Zero",
+      "url": "https://jornalgrandebahia.com.br/2026/07/daniel-vorcaro-e-o-caso-banco-master-suspeita-de-fraude-bilionaria-perdas-no-brb-impacto-no-fgc-e-dez-fases-da-compliance-zero/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Acessa.com, jan/2026: Operação Overclean, que mira deputado, já achou dinheiro em gaveta e jogado da janela",
+      "url": "https://www.acessa.com/politica/2026/01/304590-operacao-overclean-que-mira-deputado-ja-achou-dinheiro-em-gaveta-bota-e-jogado-da-janela-lembre.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Wikipédia pt, Operação Lava Jato (índice)",
+      "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Lava_Jato",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Wikipédia pt, Eduardo Cunha (índice)",
+      "url": "https://pt.wikipedia.org/wiki/Eduardo_Cunha",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Wikipédia pt, Sérgio Cabral Filho (índice)",
+      "url": "https://pt.wikipedia.org/wiki/S%C3%A9rgio_Cabral_Filho",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Agência Brasil, 29/05/2023: Supremo anula condenação de Cunha na Lava Jato",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2023-05/supremo-anula-condenacao-de-cunha-na-lava-jato",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Exame: quadrilhão do MDB — TRF-1 nega recurso contra absolvição de Temer, Cunha e Geddel",
+      "url": "https://exame.com/brasil/quadrilhao-do-mdb-trf1-nega-recurso-contra-absolvicao-de-temer-cunha-e-geddel",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Poder360, 09/06/2017: Gilmar Mendes desempata e TSE absolve chapa Dilma-Temer por 4 a 3",
+      "url": "https://www.poder360.com.br/justica/gilmar-mendes-desempata-e-tse-absolve-michel-temer-por-4-a-3/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Wikipédia pt, Operação Sem Desconto (índice)",
+      "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Sem_Desconto",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Wikipédia pt, Escândalo do Banco Master (índice)",
+      "url": "https://pt.wikipedia.org/wiki/Esc%C3%A2ndalo_do_Banco_Master",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "ConJur, 29/04/2025: STF confirma prisão de Collor por caso da Lava Jato",
+      "url": "https://www.conjur.com.br/2025-abr-29/stf-confirma-prisao-de-collor-por-caso-da-lava-jato/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Poder360: STF determina perda do mandato de Ramagem",
+      "url": "https://www.poder360.com.br/poder-justica/stf-determina-perda-do-mandato-de-ramagem/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "CNN Brasil: Jair Bolsonaro completa um ano preso — principais acontecimentos",
+      "url": "https://www.cnnbrasil.com.br/politica/jair-bolsonaro-completa-um-ano-preso-relembre-os-principais-acontecimentos/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Wikipédia pt, Josimar Maranhãozinho (índice)",
+      "url": "https://pt.wikipedia.org/wiki/Josimar_Maranh%C3%A3ozinho",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Wikipédia pt, Flávio Bolsonaro (índice)",
+      "url": "https://pt.wikipedia.org/wiki/Fl%C3%A1vio_Bolsonaro",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "InfoMoney: TJ do Rio arquiva denúncia do MP contra Flávio Bolsonaro no caso das rachadinhas",
+      "url": "https://www.infomoney.com.br/politica/tj-do-rio-arquiva-denuncia-do-mp-contra-flavio-bolsonaro-em-caso-das-rachadinhas/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Agência Brasil, mar/2026: STF pede novo parecer da PGR sobre caso das joias sauditas",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-03/stf-pede-novo-parecer-da-pgr-sobre-caso-das-joias-saudita",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Congresso em Foco: PGR pede arquivamento de investigações da CPI contra Bolsonaro",
+      "url": "https://congressoemfoco.com.br/area/justica/pgr-pede-arquivamento-de-investigacoes-da-cpi-contra-bolsonaro",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Brasil de Fato, 18/09/2025: o futuro de Alexandre Ramagem",
+      "url": "https://www.brasildefato.com.br/2025/09/18/futuro-alexandre-ramagem/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Agência Brasil, mar/2026: CPMI do INSS termina sem relatório final",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-03/cpmi-do-inss-termina-sem-relatorio-final",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "A Tarde: Justiça de SP absolve Aécio Neves no caso JBS",
+      "url": "https://atarde.com.br/politica/brasil/justica-de-sp-absolve-aecio-neves-no-caso-jbs-1189525",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Wikipédia pt, Juscelino Filho (índice)",
+      "url": "https://pt.wikipedia.org/wiki/Juscelino_Filho",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Agência Brasil, mar/2026: relatório da CPMI do INSS pede indiciamento de 216 pessoas",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-03/relatorio-da-cpmi-do-inss-pede-indiciamento-de-216-pessoas",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Agência Pública, jul/2026: farra das emendas — Flávio Dino intima presidentes de partidos",
+      "url": "https://apublica.org/2026/07/farra-das-emendas-flavio-dino-intima-presidentes-de-partidos/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Jornal Opção, 25/02/2026: STF condena irmãos Brazão a 76 anos pelo assassinato de Marielle Franco",
+      "url": "https://www.jornalopcao.com.br/ultimas-noticias/stf-condena-irmaos-brazao-a-76-anos-de-prisao-pelo-assassinato-de-marielle-franco-797770/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Diário de Pernambuco, jul/2026: caso Marielle — Moraes determina cumprimento imediato de penas",
+      "url": "https://www.diariodepernambuco.com.br/amp/politica/2026/07/11718769-caso-marielle-moraes-determina-cumprimento-imediato-de-penas.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Agência Brasil, 30/04/2026: entenda como o PL da Dosimetria pode beneficiar condenados pelo 8/1",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-04/entenda-como-o-pl-da-dosimetria-pode-beneficiar-condenados-pelo-81",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Band, 21/03/2026: PGR denuncia Silvio Almeida por importunação sexual contra Anielle Franco",
+      "url": "https://www.band.com.br/noticias/pgr-denuncia-silvio-almeida-ex-ministro-de-lula-por-importunacao-sexual-contra-anielle-franco-202603211003",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Mercado&Consumo, 01/04/2025: fraude nas Americanas — MPF denuncia 13 ex-executivos",
+      "url": "https://mercadoeconsumo.com.br/01/04/2025/noticias-varejo/fraude-nas-americanas-mpf-denuncia-13-ex-executivos-por-crime-financeiro/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Diário de Pernambuco, out/2026: Justiça torna 12 ex-executivos da Americanas réus",
+      "url": "https://www.diariodepernambuco.com.br/brasil/2026/10/11726828-justica-torna-12-ex-executivos-da-americanas-reus-por-fraude-bilionaria.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Correio Braziliense, 14/07/2026: PF indicia 'Careca do INSS' e mais 47 pessoas",
+      "url": "https://www.correiobraziliense.com.br/politica/2026/07/7461264-pf-indicia-careca-do-inss-e-mais-47-pessoas-por-fraudes.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Diário de Pernambuco, out/2026: Vorcaro mandou 'sicário' rastrear diretor do Banco Central",
+      "url": "https://diariodepernambuco.com.br/politica/2026/10/11727100-vorcaro-mandou-sicario-rastrear-e-moer-diretor-do-banco-central.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "G1, 21/05/2024: STF anula decisões da Lava Jato contra Marcelo Odebrecht",
+      "url": "https://g1.globo.com/politica/noticia/2024/05/21/stf-anula-decisoes-da-lava-jato-contra-marcelo-odebrecht.ghtml",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "atualizado_em": "2026-10-21"
+}

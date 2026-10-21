@@ -1,0 +1,373 @@
+{
+  "id": "bandeiras-tarifarias-o-que-sao",
+  "pergunta": "O que são as bandeiras tarifárias e quem decide a cor?",
+  "resposta_curta": "As bandeiras são um adicional mensal na conta de luz, definido pela ANEEL conforme a hidrologia (chuva e nível dos reservatórios) e o uso de usinas térmicas, para repassar à vista o custo extra de geração. Desde abril de 2024 valem: verde sem cobrança, amarela R$ 1,885, vermelha patamar 1 R$ 4,463 e vermelha patamar 2 R$ 7,877 por 100 kWh. A cor depende de chuva e reservatórios, não de decisão do Planalto; o que governos e Congresso decidem é a contratação estrutural de térmicas, que encarece o sistema quando elas são acionadas.",
+  "temas": [
+    "energia"
+  ],
+  "cadeia_de_responsabilidade": [
+    {
+      "ator": "ANEEL",
+      "o_que_controla": "Define todo mês a cor da bandeira e, periodicamente, os valores por patamar. Suspendeu o acionamento em 01/06/2020 (Despacho 1.511) durante a pandemia e retomou em dez/2020. Anunciou a bandeira verde de outubro de 2026 em 25/09/2026; a de novembro sai em 30/10/2026.",
+      "o_que_nao_controla": "A chuva, o nível dos reservatórios e o parque de térmicas contratado.",
+      "peso": "alto",
+      "url": "https://www.gov.br/aneel/pt-br/assuntos/tarifas/bandeiras-tarifarias"
+    },
+    {
+      "ator": "CMSE e ONS (monitoramento do sistema)",
+      "o_que_controla": "Acompanham reservatórios e risco de suprimento: o CMSE registrou armazenamento de 71% ao fim de abril de 2026 e, em julho, alertou para risco de El Niño.",
+      "o_que_nao_controla": "A cor da bandeira (decisão da ANEEL) e o clima.",
+      "peso": "medio",
+      "url": "https://static.poder360.com.br/uploads/2026/08/estudo-clp-Energia-cara-no-brasil-freia-a-competitividade-3ago2026.pdf"
+    },
+    {
+      "ator": "Governo federal e Congresso (contratação estrutural)",
+      "o_que_controla": "Decidem, por leilões e leis, quantas térmicas o sistema contrata: a Lei 14.182/2021 obrigou a contratação de 8 GW de térmicas a gás; a Lei 15.269/2025 acrescentou 3.000 MW a biomassa. Esse custo aparece quando as usinas são acionadas.",
+      "o_que_nao_controla": "A cor da bandeira em cada mês.",
+      "peso": "medio",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/L14182.htm"
+    },
+    {
+      "ator": "Clima (hidrologia)",
+      "o_que_controla": "O fator decisivo: a escassez hídrica de 2021 levou à bandeira de R$ 14,20/100 kWh; a transição seco→úmido e 'mais chuva às regiões Sul e Sudeste' permitiram a bandeira verde em out/2026.",
+      "o_que_nao_controla": "—",
+      "peso": "alto",
+      "url": "https://www.jb.com.br/editorias/2026/10/09/bandeira-tarifaria-outubro-2026.html"
+    }
+  ],
+  "composicao": [],
+  "linha_do_tempo": [
+    {
+      "data": "2015-01-01",
+      "evento": "Criação do sistema de bandeiras tarifárias. Até fev/2025 foram 61 acionamentos de amarela, vermelha ou escassez.",
+      "url": "https://mais.opovo.com.br/jornal/farol/2025/02/01/aneel-anuncia-que-fevereiro-tera-bandeira-tarifaria-verde-sem-custo-adicional.html"
+    },
+    {
+      "data": "2020-06-01",
+      "evento": "ANEEL suspende o acionamento das bandeiras (Despacho 1.511); retomada em dez/2020.",
+      "url": "https://static.poder360.com.br/2021/03/voto-diretor-Aneel-bandeira-tarifaria-23mar2021.pdf"
+    },
+    {
+      "data": "2021-09-01",
+      "evento": "Bandeira 'escassez hídrica' de R$ 14,20 por 100 kWh, vigente em set, out, nov e dez de 2021 (e, segundo fontes não abertas, até abr/2022).",
+      "url": "https://static.poder360.com.br/2025/12/3a-edicao-do-boletim-InfoTarifa-Aneel-Dezembro-2025.pdf"
+    },
+    {
+      "data": "2022-04-01",
+      "evento": "Início do maior período de bandeira verde da história: abr/2022 a jul/2024.",
+      "url": "https://mais.opovo.com.br/jornal/farol/2025/02/01/aneel-anuncia-que-fevereiro-tera-bandeira-tarifaria-verde-sem-custo-adicional.html"
+    },
+    {
+      "data": "2022-07-01",
+      "evento": "Valores reajustados: amarela R$ 2,989, vermelha P1 R$ 6,50, P2 R$ 9,795 por 100 kWh (vigentes até mar/2024).",
+      "url": "https://forbes.com.br/forbes-money/2022/06/aneel-reajusta-valores-de-bandeiras-tarifarias-amarela-e-vermelha-ate-2023/"
+    },
+    {
+      "data": "2024-04-01",
+      "evento": "Novos valores: amarela R$ 1,885 (-36,9%), P1 R$ 4,463 (-31,3%), P2 R$ 7,877 (-19,6%) por 100 kWh; ainda em vigor em out/2026.",
+      "url": "https://www.poder360.com.br/economia/bandeiras-tarifarias-da-conta-de-luz-custarao-menos-em-2024"
+    },
+    {
+      "data": "2025-05-01",
+      "evento": "Primeira bandeira amarela de 2025, seguida de vermelha P1 (jun–jul), P2 (ago–set), P1 (out–nov) e amarela em dezembro.",
+      "url": "https://www.folhavitoria.com.br/economia/conta-de-luz-ultimo-mes-do-ano-tera-bandeira-amarela-apos-6-meses-de-vermelha/"
+    },
+    {
+      "data": "2026-01-01",
+      "evento": "Bandeira verde de janeiro a abril de 2026.",
+      "url": "https://diariodonordeste.verdesmares.com.br/negocios/conta-de-luz-reduz-para-bandeira-tarifaria-verde-em-janeiro-de-2026-1.3721514"
+    },
+    {
+      "data": "2026-05-01",
+      "evento": "Bandeira amarela de maio a setembro de 2026 (cinco meses).",
+      "url": "https://atarde.com.br/economia/em-maio-conta-de-luz-tera-bandeira-amarela-pela-primeira-vez-em-2026-1386883"
+    },
+    {
+      "data": "2026-09-25",
+      "evento": "ANEEL anuncia bandeira verde para outubro de 2026, pela transição seco→úmido e menor uso de térmicas.",
+      "url": "https://bemparana.com.br/noticias/economia/aneel-aciona-bandeira-verde-em-outubro-e-conta-de-luz-nao-tera-custo-extra"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Bandeira amarela",
+      "valor": 1.885,
+      "unidade": "R$ por 100 kWh",
+      "periodo": "desde abr/2024",
+      "fonte": {
+        "nome": "ANEEL – Bandeiras tarifárias",
+        "url": "https://www.gov.br/aneel/pt-br/assuntos/tarifas/bandeiras-tarifarias",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "jul/2022–mar/2024",
+        "valor": 2.989
+      }
+    },
+    {
+      "rotulo": "Bandeira vermelha patamar 1",
+      "valor": 4.463,
+      "unidade": "R$ por 100 kWh",
+      "periodo": "desde abr/2024",
+      "fonte": {
+        "nome": "ANEEL – Bandeiras tarifárias",
+        "url": "https://www.gov.br/aneel/pt-br/assuntos/tarifas/bandeiras-tarifarias",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "jul/2022–mar/2024",
+        "valor": 6.5
+      }
+    },
+    {
+      "rotulo": "Bandeira vermelha patamar 2",
+      "valor": 7.877,
+      "unidade": "R$ por 100 kWh",
+      "periodo": "desde abr/2024",
+      "fonte": {
+        "nome": "ANEEL – Bandeiras tarifárias",
+        "url": "https://www.gov.br/aneel/pt-br/assuntos/tarifas/bandeiras-tarifarias",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "jul/2022–mar/2024",
+        "valor": 9.795
+      }
+    },
+    {
+      "rotulo": "Bandeira escassez hídrica (2021)",
+      "valor": 14.2,
+      "unidade": "R$ por 100 kWh",
+      "periodo": "set/2021–2022",
+      "fonte": {
+        "nome": "O Povo – Bandeira tarifária: datas e valores (13/01/2022)",
+        "url": "https://www.opovo.com.br/noticias/economia/2022/01/13/bandeira-tarifaria-saiba-as-datas-de-quando-a-conta-de-luz-pode-ficar-mais-cara.html",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Acionamentos de amarela/vermelha/escassez desde 2015",
+      "valor": 61,
+      "unidade": "acionamentos",
+      "periodo": "até fev/2025",
+      "fonte": {
+        "nome": "O Povo+ – Fevereiro terá bandeira verde (01/02/2025)",
+        "url": "https://mais.opovo.com.br/jornal/farol/2025/02/01/aneel-anuncia-que-fevereiro-tera-bandeira-tarifaria-verde-sem-custo-adicional.html",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Juros evitados aos consumidores pelo sistema de bandeiras (cálculo ANEEL)",
+      "valor": 13,
+      "unidade": "R$ bilhões (aprox.)",
+      "periodo": "2015–2025",
+      "fonte": {
+        "nome": "ANEEL – Boletim InfoTarifa nº 3, dez/2025 (PDF)",
+        "url": "https://static.poder360.com.br/2025/12/3a-edicao-do-boletim-InfoTarifa-Aneel-Dezembro-2025.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    {
+      "rotulo": "Armazenamento dos reservatórios ao fim de abril de 2026 (CMSE)",
+      "valor": 71,
+      "unidade": "%",
+      "periodo": "abr/2026",
+      "fonte": {
+        "nome": "CLP – Energia cara no Brasil freia a competitividade, ago/2026 (PDF)",
+        "url": "https://static.poder360.com.br/uploads/2026/08/estudo-clp-Energia-cara-no-brasil-freia-a-competitividade-3ago2026.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      }
+    },
+    {
+      "rotulo": "Meses de bandeira amarela em 2026",
+      "valor": 5,
+      "unidade": "meses",
+      "periodo": "mai–set/2026",
+      "fonte": {
+        "nome": "Jornal do Brasil – Bandeira tarifária de outubro de 2026 (09/10/2026)",
+        "url": "https://www.jb.com.br/editorias/2026/10/09/bandeira-tarifaria-outubro-2026.html",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    }
+  ],
+  "series": [
+    "bandeiras-tarifarias-mensais"
+  ],
+  "mitos_e_fatos": [
+    {
+      "mito": "A bandeira vermelha é decisão política do governo.",
+      "fato": "A bandeira é definida pela ANEEL com critério hidrológico e de despacho térmico: depende de chuva, reservatórios e uso de térmicas. Em 2026 a amarela de maio a setembro e a verde de outubro foram explicadas pela transição entre período seco e úmido, não por decisão do Planalto.",
+      "fontes": [
+        {
+          "nome": "ANEEL – Bandeiras tarifárias",
+          "url": "https://www.gov.br/aneel/pt-br/assuntos/tarifas/bandeiras-tarifarias",
+          "acesso_em": "2026-10-21",
+          "tier": "oficial"
+        },
+        {
+          "nome": "Jornal do Brasil – Bandeira tarifária de outubro de 2026 (09/10/2026)",
+          "url": "https://www.jb.com.br/editorias/2026/10/09/bandeira-tarifaria-outubro-2026.html",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "Bem Paraná – ANEEL aciona bandeira verde em outubro",
+          "url": "https://bemparana.com.br/noticias/economia/aneel-aciona-bandeira-verde-em-outubro-e-conta-de-luz-nao-tera-custo-extra",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        }
+      ]
+    },
+    {
+      "mito": "O governo acabou com a bandeira tarifária.",
+      "fato": "O sistema segue em vigor; o que ocorre é bandeira verde (sem cobrança) quando chove bem. O maior período verde foi de abr/2022 a jul/2024, atravessando os governos Bolsonaro e Lula. A única suspensão formal foi a da ANEEL em jun–dez/2020, na pandemia.",
+      "fontes": [
+        {
+          "nome": "O Povo+ – Fevereiro terá bandeira verde (01/02/2025)",
+          "url": "https://mais.opovo.com.br/jornal/farol/2025/02/01/aneel-anuncia-que-fevereiro-tera-bandeira-tarifaria-verde-sem-custo-adicional.html",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "ANEEL – Voto de diretor sobre bandeiras tarifárias, 23/03/2021 (PDF)",
+          "url": "https://static.poder360.com.br/2021/03/voto-diretor-Aneel-bandeira-tarifaria-23mar2021.pdf",
+          "acesso_em": "2026-10-21",
+          "tier": "oficial"
+        }
+      ]
+    },
+    {
+      "mito": "A bandeira é lucro da distribuidora.",
+      "fato": "A bandeira repassa à vista o custo da geração térmica acionada; segundo a ANEEL, o mecanismo evitou cerca de R$ 13 bilhões em juros aos consumidores desde 2015, porque sem ele o custo seria financiado e cobrado depois com juros.",
+      "fontes": [
+        {
+          "nome": "ANEEL – Boletim InfoTarifa nº 3, dez/2025 (PDF)",
+          "url": "https://static.poder360.com.br/2025/12/3a-edicao-do-boletim-InfoTarifa-Aneel-Dezembro-2025.pdf",
+          "acesso_em": "2026-10-21",
+          "tier": "oficial"
+        }
+      ]
+    }
+  ],
+  "perguntas_frequentes": [
+    {
+      "pergunta": "Quanto a bandeira pesa numa conta média?",
+      "resposta": "O consumo médio residencial é de 165 kWh/mês (set/2025). Com a amarela (R$ 1,885 por 100 kWh), o adicional é de cerca de R$ 3; com a vermelha P2 (R$ 7,877), cerca de R$ 13 (cálculos próprios a partir dos valores da ANEEL)."
+    },
+    {
+      "pergunta": "O que foi a bandeira de escassez hídrica?",
+      "resposta": "Um patamar extraordinário de R$ 14,20 por 100 kWh cobrado a partir de set/2021, na crise hídrica, muito acima da vermelha P2 da época (R$ 9,492). O mês exato de encerramento em 2022 não foi confirmado nas notas (fontes não abertas indicam abril)."
+    },
+    {
+      "pergunta": "Quem decide quantas térmicas existem?",
+      "resposta": "Governo federal (CNPE/MME) e Congresso, por leilões e leis como a 14.182/2021 (8 GW de térmicas a gás obrigatórias). A ANEEL só aciona a bandeira quando essas usinas são despachadas."
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "ANEEL – Bandeiras tarifárias",
+      "url": "https://www.gov.br/aneel/pt-br/assuntos/tarifas/bandeiras-tarifarias",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "ANEEL – Boletim InfoTarifa nº 3, dez/2025 (PDF)",
+      "url": "https://static.poder360.com.br/2025/12/3a-edicao-do-boletim-InfoTarifa-Aneel-Dezembro-2025.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "ANEEL – Voto de diretor sobre bandeiras tarifárias, 23/03/2021 (PDF)",
+      "url": "https://static.poder360.com.br/2021/03/voto-diretor-Aneel-bandeira-tarifaria-23mar2021.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Jornal do Brasil – Bandeira tarifária de outubro de 2026 (09/10/2026)",
+      "url": "https://www.jb.com.br/editorias/2026/10/09/bandeira-tarifaria-outubro-2026.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Forbes Brasil – ANEEL reajusta valores das bandeiras amarela e vermelha (jun/2022)",
+      "url": "https://forbes.com.br/forbes-money/2022/06/aneel-reajusta-valores-de-bandeiras-tarifarias-amarela-e-vermelha-ate-2023/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Poder360 – Bandeiras tarifárias custarão menos em 2024",
+      "url": "https://www.poder360.com.br/economia/bandeiras-tarifarias-da-conta-de-luz-custarao-menos-em-2024",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "O Povo – Bandeira tarifária: datas e valores (13/01/2022)",
+      "url": "https://www.opovo.com.br/noticias/economia/2022/01/13/bandeira-tarifaria-saiba-as-datas-de-quando-a-conta-de-luz-pode-ficar-mais-cara.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "SBT News – ANEEL define calendário de bandeiras tarifárias para 2026",
+      "url": "https://sbtnews.sbt.com.br/noticia/economia/aneel-define-calendario-de-bandeiras-tarifarias-para-2026-veja",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "O Povo+ – Fevereiro terá bandeira verde (01/02/2025)",
+      "url": "https://mais.opovo.com.br/jornal/farol/2025/02/01/aneel-anuncia-que-fevereiro-tera-bandeira-tarifaria-verde-sem-custo-adicional.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Folha Vitória – Último mês do ano terá bandeira amarela após 6 meses de vermelha",
+      "url": "https://www.folhavitoria.com.br/economia/conta-de-luz-ultimo-mes-do-ano-tera-bandeira-amarela-apos-6-meses-de-vermelha/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Diário do Nordeste – Bandeira verde em janeiro de 2026",
+      "url": "https://diariodonordeste.verdesmares.com.br/negocios/conta-de-luz-reduz-para-bandeira-tarifaria-verde-em-janeiro-de-2026-1.3721514",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "A Tarde – Em maio, conta de luz terá bandeira amarela pela primeira vez em 2026",
+      "url": "https://atarde.com.br/economia/em-maio-conta-de-luz-tera-bandeira-amarela-pela-primeira-vez-em-2026-1386883",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Bem Paraná – ANEEL aciona bandeira verde em outubro",
+      "url": "https://bemparana.com.br/noticias/economia/aneel-aciona-bandeira-verde-em-outubro-e-conta-de-luz-nao-tera-custo-extra",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "CLP – Energia cara no Brasil freia a competitividade, ago/2026 (PDF)",
+      "url": "https://static.poder360.com.br/uploads/2026/08/estudo-clp-Energia-cara-no-brasil-freia-a-competitividade-3ago2026.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    },
+    {
+      "nome": "Planalto – Lei 14.182/2021 (texto consolidado)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/L14182.htm",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/06_energia_eletrobras_combustiveis.md",
+  "atualizado_em": "2026-10-21",
+  "lacunas": [
+    "Mês exato do fim da bandeira de escassez hídrica em 2022 não confirmado (fontes não abertas indicam abr/2022).",
+    "Valor do empréstimo da 'Conta Escassez Hídrica' e seu custo ao consumidor não localizados.",
+    "Dias exatos da criação do sistema (2015) e do início da escassez hídrica (set/2021) não constam das notas; a linha do tempo usa o primeiro dia do período."
+  ]
+}

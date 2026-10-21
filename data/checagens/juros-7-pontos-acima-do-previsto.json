@@ -1,0 +1,217 @@
+{
+  "id": "chk-1023",
+  "slug": "juros-7-pontos-acima-do-previsto",
+  "frase": "Os juros estão 7 pontos acima do que estava previsto",
+  "frase_normalizada": "A Selic está sete pontos acima do que o mercado projetava para 2025 no fim do governo Bolsonaro",
+  "variantes": [
+    "O mercado previa Selic de 7,5% e ela está em 14%"
+  ],
+  "autor": {
+    "nome": "Flávio Bolsonaro",
+    "partido": "PL",
+    "cargo": "senador (RJ) e candidato à Presidência"
+  },
+  "lado": "oposicao-flavio-pl",
+  "alvo": {
+    "nome": "Governo Lula 3 (2023-2026)",
+    "partido": "PT"
+  },
+  "data": "2026-10-16",
+  "onde": "Entrevista à TV Globo (16/10/2026)",
+  "url_declaracao": "https://www.agencialupa.org/checagem/2026/10/16/ao-vivo-checagem-da-entrevista-de-flavio-bolsonaro-na-globo/",
+  "temas": [
+    "economia",
+    "eleicao-2026"
+  ],
+  "tags": [
+    "selic",
+    "focus",
+    "copom"
+  ],
+  "veredito": "falta-contexto",
+  "resumo_uma_frase": "O Focus de out/2022 projetava Selic de 7,5% para 2025 e a taxa estava em 14% em ago/2026, mas a Selic herdada do governo Bolsonaro era de 13,75% (mantida até ago/2023), caiu a 10,5% em 2024 e voltou a subir com a inflação acima da meta e o prêmio de risco fiscal — decisões do BC autônomo, cujo presidente até 2024 fora indicado por Bolsonaro.",
+  "explicacao_simples": [
+    "Em outubro de 2022 o mercado projetava Selic de 7,5% para 2025, e em agosto de 2026 a taxa estava em 14%, por isso a diferença citada existe.",
+    "Falta dizer que a Selic entregue por Bolsonaro já era de 13,75%, que ela caiu a 10,5% em 2024 e voltou a subir para 15% em 2025 com inflação acima da meta e risco fiscal.",
+    "A Selic é decidida pelo Banco Central autônomo, presidido por indicado de Bolsonaro até 2024 e por indicado de Lula desde 2025."
+  ],
+  "explicacao_completa_md": "## Os números\n\n- Focus de out/2022: Selic de 7,5% projetada para 2025 (Lupa).\n- Selic em out/2022: 13,75% (desde ago/2022), mantida até 02/08/2023.\n- Cortes até 10,50% (09/05/2024); altas de set/2024 a 15,00% (jun/2025); cortes em 2026 até 13,75% (set/2026); 14,00% em ago/2026, data citada pela Lupa.\n\n## O que falta\n\nA projeção de 2022 era uma expectativa de mercado, não um compromisso; a Selic subiu em 2024-2025 porque o IPCA estourou o teto em 2024 (4,83%) e a meta contínua foi descumprida em 2025, com câmbio recorde (R$ 6,19 em dez/2024) após a reação negativa ao pacote fiscal de nov/2024. O Copom cita o risco fiscal — responsabilidade do Executivo e do Congresso — e choques externos. A Lupa classificou como FALTA CONTEXTO.",
+  "o_que_e_verdade": [
+    "O Focus de out/2022 projetava Selic de 7,5% para 2025; em ago/2026 a taxa era de 14%, e o pico foi 15% em 2025.",
+    "A alta de 2024-2025 coincidiu com inflação acima do teto, câmbio recorde e deterioração fiscal (déficits e dívida em alta)."
+  ],
+  "o_que_nao_se_sustenta": [
+    "A Selic herdada em jan/2023 já era de 13,75%, não 7,5%; a projeção era expectativa de mercado.",
+    "A Selic caiu a 10,5% em 2024 antes de voltar a subir; o ciclo de alta começou sob Campos Neto, indicado por Bolsonaro.",
+    "A decisão é do BC autônomo; o governo influencia pela política fiscal e pela meta de inflação, não fixa a taxa."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Copom / Banco Central (Campos Neto até 2024; Galípolo desde 2025)",
+      "papel": "fixou a Selic em 15%",
+      "peso": "alto"
+    },
+    {
+      "ator": "Executivo e Congresso (política fiscal, pacote de nov/2024)",
+      "papel": "prêmio de risco e câmbio pressionaram a inflação",
+      "peso": "alto"
+    },
+    {
+      "ator": "Choques externos (dólar global, alimentos em 2024)",
+      "papel": "contribuíram para o IPCA acima do teto",
+      "peso": "medio"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Selic projetada pelo Focus de out/2022 para 2025",
+      "valor": 7.5,
+      "unidade": "% ao ano",
+      "periodo": "projeção de out/2022",
+      "fonte": {
+        "nome": "Lupa – Checagem ao vivo da entrevista de Flávio Bolsonaro na Globo (16/10/2026)",
+        "url": "https://www.agencialupa.org/checagem/2026/10/16/ao-vivo-checagem-da-entrevista-de-flavio-bolsonaro-na-globo/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": {
+        "rotulo": "Selic em ago/2026",
+        "valor": 14.0
+      }
+    },
+    {
+      "rotulo": "Meta Selic no fim do governo Bolsonaro",
+      "valor": 13.75,
+      "unidade": "% ao ano",
+      "periodo": "ago/2022 a ago/2023",
+      "fonte": {
+        "nome": "Banco Central do Brasil – SGS 432 (meta Selic)",
+        "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.432/dados?formato=json&dataInicial=01/01/2018&dataFinal=21/10/2026",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Mínimo da Selic em Lula 3",
+      "valor": 10.5,
+      "unidade": "% ao ano",
+      "periodo": "mai/2024 a set/2024",
+      "fonte": {
+        "nome": "Banco Central do Brasil – SGS 432 (meta Selic)",
+        "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.432/dados?formato=json&dataInicial=01/01/2018&dataFinal=21/10/2026",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "Pico em jun/2025",
+        "valor": 15.0
+      }
+    },
+    {
+      "rotulo": "IPCA 2024",
+      "valor": 4.83,
+      "unidade": "%",
+      "periodo": "dez/2024",
+      "fonte": {
+        "nome": "Banco Central do Brasil – SGS 13522 (IPCA acumulado 12 meses)",
+        "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.13522/dados?formato=json",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "Teto da meta",
+        "valor": 4.5
+      }
+    },
+    {
+      "rotulo": "Câmbio R$/US$ no recorde nominal",
+      "valor": 6.1917,
+      "unidade": "R$ por US$",
+      "periodo": "dez/2024",
+      "fonte": {
+        "nome": "Banco Central do Brasil – SGS 3695 (câmbio R$/US$ fim de período)",
+        "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.3695/dados?formato=json",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "set/2026",
+        "valor": 5.1803
+      }
+    }
+  ],
+  "series": [
+    "selic-fim-de-ano",
+    "ipca-anual",
+    "cambio-fim-de-periodo"
+  ],
+  "checagens_externas": [
+    {
+      "veiculo": "Lupa",
+      "veredito_original": "FALTA CONTEXTO",
+      "url": "https://www.agencialupa.org/checagem/2026/10/16/ao-vivo-checagem-da-entrevista-de-flavio-bolsonaro-na-globo/",
+      "data": "2026-10-16"
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Lupa – Checagem ao vivo da entrevista de Flávio Bolsonaro na Globo (16/10/2026)",
+      "url": "https://www.agencialupa.org/checagem/2026/10/16/ao-vivo-checagem-da-entrevista-de-flavio-bolsonaro-na-globo/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Banco Central do Brasil – SGS 432 (meta Selic)",
+      "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.432/dados?formato=json&dataInicial=01/01/2018&dataFinal=21/10/2026",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Banco Central do Brasil – SGS 13522 (IPCA acumulado 12 meses)",
+      "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.13522/dados?formato=json",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Banco Central do Brasil – SGS 3695 (câmbio R$/US$ fim de período)",
+      "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.3695/dados?formato=json",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "BCB – Ata da 281ª reunião do Copom (16/09/2026)",
+      "url": "https://www.bcb.gov.br/publicacoes/atascopom/16092026",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/03_emprego_renda_pobreza_social.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "O que é o Focus?",
+      "resposta": "Pesquisa semanal do Banco Central com projeções de instituições financeiras; não é meta nem compromisso do governo."
+    },
+    {
+      "pergunta": "Por que a Selic voltou a subir em 2024?",
+      "resposta": "Inflação acima do teto (4,83% em 2024), câmbio em recorde (R$ 6,19 em dez/2024) após o pacote fiscal de nov/2024 e expectativas desancoradas, segundo o Copom."
+    },
+    {
+      "pergunta": "Quem presidia o BC quando as altas começaram?",
+      "resposta": "Roberto Campos Neto, indicado por Bolsonaro, até dez/2024; Gabriel Galípolo, indicado por Lula, desde jan/2025, levou a Selic a 15% e iniciou os cortes em 2026."
+    }
+  ],
+  "relacionadas": [
+    "juros-mais-altos-do-mundo",
+    "juros-cairam-2-por-cento",
+    "divida-publica-de-11-trilhoes"
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false
+}

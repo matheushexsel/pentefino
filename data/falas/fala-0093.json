@@ -1,0 +1,73 @@
+{
+  "id": "fala-0093",
+  "slug": "lula-recordes-de-apreensao-de-drogas-e-bens",
+  "evento_id": "discurso-onu-lula-2026-09-22",
+  "candidato": "lula",
+  "lado": "governo-lula-pt",
+  "minuto": null,
+  "frase_literal": "Batemos recordes de apreensão de drogas e de bens e recursos ilícitos.",
+  "literal": true,
+  "tema": "seguranca",
+  "veredito": "verdadeiro",
+  "resumo_uma_frase": "Apreensão de bens subiu de R$ 4 bilhões (2024) para R$ 9,5 bilhões (2025); 1,6 mil toneladas de drogas em 2025, recorde da série da PF.",
+  "explicacao_simples": [
+    "Lula, no discurso na ONU (22/9/2026), disse: “Batemos recordes de apreensão de drogas e de bens e recursos ilícitos”.",
+    "Os bens apreendidos passaram de R$ 4 bilhões em 2024 para R$ 9,5 bilhões em 2025 e as 1,6 mil toneladas de drogas apreendidas em 2025 são recorde da série da PF iniciada em 2014.",
+    "Os dados disponíveis confirmam a afirmação, por isso ela é classificada como verdadeira."
+  ],
+  "o_que_e_verdade": [
+    "R$ 9,5 bilhões em bens e 1,6 mil t de drogas apreendidas em 2025."
+  ],
+  "o_que_nao_se_sustenta": [],
+  "numeros": [
+    {
+      "rotulo": "Bens e recursos ilícitos apreendidos",
+      "valor": 9.5,
+      "unidade": "R$ bilhões",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Aos Fatos",
+        "url": "https://www.aosfatos.org/noticias/checamos-discurso-lula-onu-2026/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": {
+        "rotulo": "Em 2024",
+        "valor": 4
+      }
+    },
+    {
+      "rotulo": "Drogas apreendidas pela PF",
+      "valor": 1.6,
+      "unidade": "mil toneladas",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Aos Fatos",
+        "url": "https://www.aosfatos.org/noticias/checamos-discurso-lula-onu-2026/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      }
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Aos Fatos",
+      "veredito_original": "confirmado (sem rótulo)",
+      "url": "https://www.aosfatos.org/noticias/checamos-discurso-lula-onu-2026/",
+      "data": "2026-09-22"
+    }
+  ],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Aos Fatos",
+      "url": "https://www.aosfatos.org/noticias/checamos-discurso-lula-onu-2026/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
+  "atualizado_em": "2026-10-21"
+}

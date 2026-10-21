@@ -1,0 +1,226 @@
+{
+  "id": "chk-1008",
+  "slug": "bolsonaro-triplicou-o-bolsa-familia",
+  "frase": "Bolsonaro triplicou o Bolsa Família, de R$ 190 para R$ 600",
+  "frase_normalizada": "O governo Bolsonaro triplicou o valor médio do benefício do Bolsa Família",
+  "variantes": [
+    "O valor do Bolsa Família triplicou com Bolsonaro"
+  ],
+  "autor": {
+    "nome": "Flávio Bolsonaro",
+    "partido": "PL",
+    "cargo": "senador (RJ) e candidato à Presidência"
+  },
+  "lado": "oposicao-flavio-pl",
+  "alvo": {
+    "nome": "Luiz Inácio Lula da Silva",
+    "partido": "PT"
+  },
+  "data": "2026-10-16",
+  "onde": "Entrevista à TV Globo (16/10/2026)",
+  "url_declaracao": "https://www.agencialupa.org/checagem/2026/10/16/ao-vivo-checagem-da-entrevista-de-flavio-bolsonaro-na-globo/",
+  "temas": [
+    "pobreza-programas-sociais",
+    "eleicao-2026"
+  ],
+  "tags": [
+    "bolsa-familia",
+    "auxilio-brasil"
+  ],
+  "veredito": "exagerado",
+  "resumo_uma_frase": "O benefício médio subiu de R$ 191,86 (até mar/2020) para R$ 400 com o Auxílio Brasil (nov/2021) — pouco mais que o dobro —, e só chegou a R$ 600 de agosto a dezembro de 2022, por emenda temporária; o orçamento de 2023 de Bolsonaro previa R$ 405.",
+  "explicacao_simples": [
+    "O Bolsa Família pagava em média R$ 191,86 até março de 2020 e o Auxílio Brasil elevou o piso para R$ 400 em novembro de 2021, o que é um pouco mais que o dobro.",
+    "Os R$ 600 valeram só de agosto a dezembro de 2022, por emenda constitucional temporária, e o orçamento de 2023 enviado por Bolsonaro voltava a R$ 405 em média.",
+    "A renda média recebida de programas sociais na PNAD passou de R$ 472 em 2021 para R$ 719 em 2022 e R$ 857 em 2023, já no governo Lula."
+  ],
+  "explicacao_completa_md": "## Os valores\n\n- Bolsa Família: R$ 187,91 (jan/2019), R$ 191,86 (até mar/2020), dados do Ministério da Cidadania citados pela Lupa.\n- Auxílio Brasil: piso de R$ 400 (MP 1.076, dez/2021); ~R$ 400 em média no 1º mês (nov/2021).\n- R$ 600: apenas ago-dez/2022 (EC 123/2022), com 20,2 milhões de famílias e média de R$ 607,88.\n- PLOA 2023 (Bolsonaro): R$ 400, benefício médio R$ 405,21.\n\n## Leitura\n\nDe R$ 190 para R$ 400 é um aumento de pouco mais de duas vezes; 'triplicar' só vale para o período de cinco meses em 2022, que a própria proposta orçamentária do governo não pretendia manter. A Lupa classificou como EXAGERADO. Pela PNAD Contínua, o rendimento médio de programas sociais (em R$ de 2025) foi de R$ 472 (2021), R$ 719 (2022), R$ 857 (2023) e R$ 870 (2025).",
+  "o_que_e_verdade": [
+    "O piso passou de cerca de R$ 190 para R$ 400 com o Auxílio Brasil (nov/2021), mais que o dobro.",
+    "Entre agosto e dezembro de 2022 o benefício foi de R$ 600 (média R$ 607,88)."
+  ],
+  "o_que_nao_se_sustenta": [
+    "'Triplicar' só vale para cinco meses de 2022; o PLOA 2023 de Bolsonaro previa R$ 405 em média.",
+    "A permanência dos R$ 600 e o adicional de R$ 150 por criança vieram com a PEC da Transição e o novo Bolsa Família (2023)."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Governo Bolsonaro",
+      "papel": "elevou o piso a R$ 400 (2021) e temporariamente a R$ 600 (2022)",
+      "peso": "alto"
+    },
+    {
+      "ator": "Congresso Nacional",
+      "papel": "aprovou a EC 123/2022 e a EC 126/2022",
+      "peso": "alto"
+    },
+    {
+      "ator": "Governo Lula 3",
+      "papel": "consolidou os R$ 600 e criou o adicional de R$ 150",
+      "peso": "alto"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Benefício médio do Bolsa Família",
+      "valor": 191.86,
+      "unidade": "R$",
+      "periodo": "até mar/2020",
+      "fonte": {
+        "nome": "Lupa – Checagem ao vivo da entrevista de Flávio Bolsonaro na Globo (16/10/2026)",
+        "url": "https://www.agencialupa.org/checagem/2026/10/16/ao-vivo-checagem-da-entrevista-de-flavio-bolsonaro-na-globo/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Piso do Auxílio Brasil",
+      "valor": 400,
+      "unidade": "R$",
+      "periodo": "dez/2021",
+      "fonte": {
+        "nome": "Wikipédia (pt) – Auxílio Brasil (com fontes G1, Senado, Valor)",
+        "url": "https://pt.wikipedia.org/wiki/Aux%C3%ADlio_Brasil",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Benefício médio do Auxílio Brasil",
+      "valor": 607.88,
+      "unidade": "R$",
+      "periodo": "ago/2022",
+      "fonte": {
+        "nome": "Jornal Contábil – Auxílio Brasil chega a 20,2 milhões de beneficiários em agosto (2022)",
+        "url": "https://jornalcontabil.com.br/noticia/auxilio-brasil-chega-a-202-milhoes-de-beneficiarios-em-agosto/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Benefício médio previsto no PLOA 2023",
+      "valor": 405.21,
+      "unidade": "R$",
+      "periodo": "PLOA 2023",
+      "fonte": {
+        "nome": "Lupa – Checagem ao vivo da entrevista de Flávio Bolsonaro na Globo (16/10/2026)",
+        "url": "https://www.agencialupa.org/checagem/2026/10/16/ao-vivo-checagem-da-entrevista-de-flavio-bolsonaro-na-globo/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Rendimento médio de programas sociais (PNAD, R$ de 2025)",
+      "valor": 719,
+      "unidade": "R$",
+      "periodo": "2022",
+      "fonte": {
+        "nome": "IBGE – PNAD Contínua: Rendimento de todas as fontes 2025, Informativo (PDF, 08/05/2026)",
+        "url": "https://biblioteca.ibge.gov.br/visualizacao/livros/liv102275_informativo.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "2021",
+        "valor": 472
+      }
+    },
+    {
+      "rotulo": "Rendimento médio de programas sociais (PNAD, R$ de 2025)",
+      "valor": 870,
+      "unidade": "R$",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "IBGE – PNAD Contínua: Rendimento de todas as fontes 2025, Informativo (PDF, 08/05/2026)",
+        "url": "https://biblioteca.ibge.gov.br/visualizacao/livros/liv102275_informativo.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "2019",
+        "valor": 508
+      }
+    }
+  ],
+  "series": [
+    "bolsa-familia-custo"
+  ],
+  "checagens_externas": [
+    {
+      "veiculo": "Lupa",
+      "veredito_original": "EXAGERADO",
+      "url": "https://www.agencialupa.org/checagem/2026/10/16/ao-vivo-checagem-da-entrevista-de-flavio-bolsonaro-na-globo/",
+      "data": "2026-10-16"
+    },
+    {
+      "veiculo": "Lupa",
+      "veredito_original": "EXAGERADO ('elevou a R$ 600', debate Band)",
+      "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+      "data": "2026-10-18"
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Lupa – Checagem ao vivo da entrevista de Flávio Bolsonaro na Globo (16/10/2026)",
+      "url": "https://www.agencialupa.org/checagem/2026/10/16/ao-vivo-checagem-da-entrevista-de-flavio-bolsonaro-na-globo/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Wikipédia (pt) – Auxílio Brasil (com fontes G1, Senado, Valor)",
+      "url": "https://pt.wikipedia.org/wiki/Aux%C3%ADlio_Brasil",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Jornal Contábil – Auxílio Brasil chega a 20,2 milhões de beneficiários em agosto (2022)",
+      "url": "https://jornalcontabil.com.br/noticia/auxilio-brasil-chega-a-202-milhoes-de-beneficiarios-em-agosto/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "IBGE – PNAD Contínua: Rendimento de todas as fontes 2025, Informativo (PDF, 08/05/2026)",
+      "url": "https://biblioteca.ibge.gov.br/visualizacao/livros/liv102275_informativo.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Lupa – Checagem ao vivo do debate Lula x Flávio Bolsonaro na Band (18/10/2026)",
+      "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/03_emprego_renda_pobreza_social.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "Quanto o Bolsa Família paga hoje?",
+      "resposta": "Piso de R$ 691 desde out/2026 (antes R$ 600), mais R$ 173 por criança de 0 a 6 anos e R$ 58 por gestante ou jovem de 7 a 18 anos; benefício médio projetado de R$ 777."
+    },
+    {
+      "pergunta": "Quantas famílias recebem?",
+      "resposta": "19,3 milhões em ago/2026, após 'pente-fino' que excluiu 6,9 milhões de famílias em 2023-2024 e incluiu 4,8 milhões."
+    },
+    {
+      "pergunta": "O Auxílio Brasil atendia mais famílias?",
+      "resposta": "Chegou a 20,2 milhões em ago/2022 (de 14,7 milhões em out/2021); o novo Bolsa Família chegou a 21 milhões em 2023."
+    }
+  ],
+  "relacionadas": [
+    "bolsonaro-deu-600-reais-do-auxilio",
+    "bolsa-familia-4-anos-sem-reajuste",
+    "bolsa-familia-reajustado-uma-semana-antes-do-segundo-turno"
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false
+}

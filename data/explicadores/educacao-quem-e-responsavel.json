@@ -1,0 +1,579 @@
+{
+  "id": "educacao-quem-e-responsavel",
+  "pergunta": "Educação: quem cuida da creche, da escola e da universidade?",
+  "resposta_curta": "Prefeituras cuidam de creches, pré-escola e anos iniciais do fundamental; estados, dos anos finais e do ensino médio; a União, das universidades e institutos federais, da BNCC, do Enem e do financiamento via Fundeb (cuja complementação federal sobe de 10% para 23% até 2026). O Ideb reflete sobretudo redes municipais e estaduais — Ceará e Paraná são os destaques — enquanto o piso dos professores é fixado pela União, mas pago por estados e municípios.",
+  "temas": [
+    "educacao"
+  ],
+  "cadeia_de_responsabilidade": [
+    {
+      "ator": "Prefeituras",
+      "o_que_controla": "Creches, pré-escola e anos iniciais do ensino fundamental (Ideb anos iniciais: 6,0 em 2023, meta atingida); alfabetização na idade certa (66% em 2025); pagamento do piso aos professores municipais.",
+      "o_que_nao_controla": "Valor do piso (fixado pela União), BNCC, Enem, ensino médio.",
+      "peso": "alto",
+      "url": "https://pt.wikipedia.org/wiki/Fundeb"
+    },
+    {
+      "ator": "Governos estaduais",
+      "o_que_controla": "Ensino médio (Ideb 4,3 em 2023, meta 5,2) e parte dos anos finais (Ideb 5,0, meta 5,5); implementação do Novo Ensino Médio; maior parte do Fundeb (R$ 151 bi de estados e municípios em 2019).",
+      "o_que_nao_controla": "Currículo nacional (BNCC), regras do Fundeb, piso salarial, universidades federais.",
+      "peso": "alto",
+      "url": "https://pt.wikipedia.org/wiki/%C3%8Dndice_de_Desenvolvimento_da_Educa%C3%A7%C3%A3o_B%C3%A1sica"
+    },
+    {
+      "ator": "Governo federal (MEC)",
+      "o_que_controla": "Complementação da União ao Fundeb (R$ 15 bi em 2019; de 10% para 23% até 2026), universidades e institutos federais (orçamento discricionário de R$ 6,7 bi em 2016 para R$ 3,5 bi em 2021 e R$ 5 bi em 2024), Enem, Pé-de-Meia (R$ 12,5 bi/ano), Compromisso Criança Alfabetizada, piso do magistério (R$ 5.130,63 em 2026), avaliação (Saeb/Ideb/PISA via Inep).",
+      "o_que_nao_controla": "Gestão das escolas de educação básica, contratação de professores das redes, 90% do Fundeb.",
+      "peso": "medio",
+      "url": "https://pt.wikipedia.org/wiki/Fundeb"
+    },
+    {
+      "ator": "Congresso Nacional",
+      "o_que_controla": "EC 108/2020 (Fundeb permanente, iniciativa do Congresso), Lei 13.415/2017 (Novo Ensino Médio), Lei 14.945/2024 (revisão), Lei 14.818/2024 (Pé-de-Meia), MP 1.334/2026 (piso).",
+      "o_que_nao_controla": "Execução nas redes.",
+      "peso": "medio",
+      "url": "https://pt.wikipedia.org/wiki/Novo_Ensino_M%C3%A9dio"
+    },
+    {
+      "ator": "TCU",
+      "o_que_controla": "Fiscalização de programas federais: mandou suspender pagamentos do Pé-de-Meia a 2.712 CPFs de falecidos, 12,9 mil acima da renda e 1,2 mil que também recebem Bolsa Família (mar/2026); recomendou bloquear R$ 6 bi do Pé-de-Meia Licenciaturas (dez/2024).",
+      "o_que_nao_controla": "Política educacional.",
+      "peso": "baixo",
+      "url": "https://www.gazetadopovo.com.br/economia/pe-de-meia-com-bilhoes-pagos-a-alunos-governo-nao-consegue-frear-evasao-escolar/"
+    }
+  ],
+  "composicao": [
+    {
+      "rotulo": "Fundeb 2019 — estados e municípios (R$ 151 bi de R$ 166 bi)",
+      "percentual": 91,
+      "fonte": {
+        "nome": "Wikipédia pt — Fundeb (compilação com fontes)",
+        "url": "https://pt.wikipedia.org/wiki/Fundeb",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Fundeb 2019 — complementação da União (R$ 15 bi de R$ 166 bi)",
+      "percentual": 9,
+      "fonte": {
+        "nome": "Wikipédia pt — Fundeb (compilação com fontes)",
+        "url": "https://pt.wikipedia.org/wiki/Fundeb",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    }
+  ],
+  "linha_do_tempo": [
+    {
+      "data": "2007",
+      "evento": "Criado o Fundeb, substituindo o Fundef (governo Lula 2).",
+      "url": "https://pt.wikipedia.org/wiki/Fundeb"
+    },
+    {
+      "data": "2017-02-16",
+      "evento": "Sancionada a Lei 13.415 (Novo Ensino Médio, governo Temer): 60% BNCC, 40% itinerários, carga de 800 para 1.000 horas anuais.",
+      "url": "https://pt.wikipedia.org/wiki/Novo_Ensino_M%C3%A9dio"
+    },
+    {
+      "data": "2020-08",
+      "evento": "EC 108 torna o Fundeb permanente e eleva a complementação da União de 10% para 23% até 2026 (iniciativa do Congresso, governo Bolsonaro); regulamentada em 22/03/2021.",
+      "url": "https://pt.wikipedia.org/wiki/Fundeb"
+    },
+    {
+      "data": "2023",
+      "evento": "Lançado o Compromisso Nacional Criança Alfabetizada (governo Lula 3); linha de base de 44% de crianças alfabetizadas ao fim do 2º ano.",
+      "url": "https://www.infomoney.com.br/?p=3263581"
+    },
+    {
+      "data": "2024-01-16",
+      "evento": "Lei 14.818 cria o Pé-de-Meia (lançado em 26/01/2024).",
+      "url": "https://pt.wikipedia.org/wiki/P%C3%A9-de-Meia"
+    },
+    {
+      "data": "2024-08-14",
+      "evento": "Divulgado o Ideb 2023: 6,0 (anos iniciais), 5,0 (anos finais), 4,3 (ensino médio).",
+      "url": "https://www.folhavitoria.com.br/geral/brasil-fica-estagnado-na-qualidade-de-ensino-e-longe-da-maioria-das-metas/"
+    },
+    {
+      "data": "2024",
+      "evento": "Lei 14.945 ('reforma da reforma') altera o Novo Ensino Médio e cria a Política Nacional de Ensino Médio.",
+      "url": "https://pt.wikipedia.org/wiki/Novo_Ensino_M%C3%A9dio"
+    },
+    {
+      "data": "2026-03-23",
+      "evento": "MEC divulga 66% de crianças alfabetizadas em 2025 (meta de 64% superada).",
+      "url": "https://www.infomoney.com.br/?p=3263581"
+    },
+    {
+      "data": "2026-05-26",
+      "evento": "Senado aprova MP 1.334/2026: piso do magistério de R$ 5.130,63 (+5,4%); nova regra INPC + 50% do crescimento real médio do Fundeb.",
+      "url": "https://www.congressoemfoco.com.br/noticia/119194/reajuste-de-5-4-no-piso-salarial-dos-professores-vai-a-sancao"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Fundeb — volume total",
+      "valor": 166,
+      "unidade": "R$ bilhões",
+      "periodo": "2019",
+      "fonte": {
+        "nome": "Wikipédia pt — Fundeb (compilação com fontes)",
+        "url": "https://pt.wikipedia.org/wiki/Fundeb",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "2023 (aprox.)",
+        "valor": 270
+      }
+    },
+    {
+      "rotulo": "Complementação da União ao Fundeb",
+      "valor": 15,
+      "unidade": "R$ bilhões",
+      "periodo": "2019",
+      "fonte": {
+        "nome": "Wikipédia pt — Fundeb (compilação com fontes)",
+        "url": "https://pt.wikipedia.org/wiki/Fundeb",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Complementação da União — alíquota até 2026",
+      "valor": 23,
+      "unidade": "% (de 10%)",
+      "periodo": "2026",
+      "fonte": {
+        "nome": "Wikipédia pt — Fundeb (compilação com fontes)",
+        "url": "https://pt.wikipedia.org/wiki/Fundeb",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Piso nacional do magistério",
+      "valor": 5130.63,
+      "unidade": "R$ por mês",
+      "periodo": "2026",
+      "fonte": {
+        "nome": "Congresso em Foco — reajuste do piso dos professores (2026)",
+        "url": "https://www.congressoemfoco.com.br/noticia/119194/reajuste-de-5-4-no-piso-salarial-dos-professores-vai-a-sancao",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "2025",
+        "valor": 4867.77
+      }
+    },
+    {
+      "rotulo": "Impacto estimado do reajuste do piso para estados e municípios",
+      "valor": 6.4,
+      "unidade": "R$ bilhões",
+      "periodo": "2026",
+      "fonte": {
+        "nome": "Congresso em Foco — reajuste do piso dos professores (2026)",
+        "url": "https://www.congressoemfoco.com.br/noticia/119194/reajuste-de-5-4-no-piso-salarial-dos-professores-vai-a-sancao",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Ideb anos iniciais",
+      "valor": 6.0,
+      "unidade": "pontos",
+      "periodo": "2023",
+      "fonte": {
+        "nome": "Wikipédia pt — Ideb (compilação de dados Inep)",
+        "url": "https://pt.wikipedia.org/wiki/%C3%8Dndice_de_Desenvolvimento_da_Educa%C3%A7%C3%A3o_B%C3%A1sica",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "2005",
+        "valor": 3.8
+      }
+    },
+    {
+      "rotulo": "Ideb anos finais",
+      "valor": 5.0,
+      "unidade": "pontos",
+      "periodo": "2023",
+      "fonte": {
+        "nome": "Wikipédia pt — Ideb (compilação de dados Inep)",
+        "url": "https://pt.wikipedia.org/wiki/%C3%8Dndice_de_Desenvolvimento_da_Educa%C3%A7%C3%A3o_B%C3%A1sica",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "meta 2023",
+        "valor": 5.5
+      }
+    },
+    {
+      "rotulo": "Ideb ensino médio",
+      "valor": 4.3,
+      "unidade": "pontos",
+      "periodo": "2023",
+      "fonte": {
+        "nome": "Wikipédia pt — Ideb (compilação de dados Inep)",
+        "url": "https://pt.wikipedia.org/wiki/%C3%8Dndice_de_Desenvolvimento_da_Educa%C3%A7%C3%A3o_B%C3%A1sica",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "meta 2023",
+        "valor": 5.2
+      }
+    },
+    {
+      "rotulo": "PISA 2022 — matemática",
+      "valor": 379,
+      "unidade": "pontos",
+      "periodo": "2022",
+      "fonte": {
+        "nome": "Agência Gov — resultados do PISA 2022",
+        "url": "https://agenciagov.ebc.com.br/noticias/202312/divulgados-os-resultados-do-pisa-2022",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "média OCDE",
+        "valor": 472
+      }
+    },
+    {
+      "rotulo": "Analfabetismo (15+)",
+      "valor": 4.9,
+      "unidade": "%",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "CartaCapital — PNAD Contínua Educação 2025",
+        "url": "https://www.cartacapital.com.br/?p=520510",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "2024",
+        "valor": 5.3
+      }
+    },
+    {
+      "rotulo": "Crianças alfabetizadas ao fim do 2º ano",
+      "valor": 66,
+      "unidade": "%",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "InfoMoney — Criança Alfabetizada 2025",
+        "url": "https://www.infomoney.com.br/?p=3263581",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "2023",
+        "valor": 44
+      }
+    },
+    {
+      "rotulo": "Pé-de-Meia — beneficiários",
+      "valor": 3900000,
+      "unidade": "estudantes",
+      "periodo": "dez/2024",
+      "fonte": {
+        "nome": "Wikipédia pt — Pé-de-Meia (compilação com fontes)",
+        "url": "https://pt.wikipedia.org/wiki/P%C3%A9-de-Meia",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Pé-de-Meia — custo anual",
+      "valor": 12.5,
+      "unidade": "R$ bilhões",
+      "periodo": "2024",
+      "fonte": {
+        "nome": "Gazeta do Povo — Pé-de-Meia e evasão escolar",
+        "url": "https://www.gazetadopovo.com.br/economia/pe-de-meia-com-bilhoes-pagos-a-alunos-governo-nao-consegue-frear-evasao-escolar/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "total pago acumulado",
+        "valor": 17.5
+      }
+    },
+    {
+      "rotulo": "Universidades federais — verbas discricionárias",
+      "valor": 5.0,
+      "unidade": "R$ bilhões",
+      "periodo": "2024",
+      "fonte": {
+        "nome": "O Povo — recomposição orçamentária das universidades federais",
+        "url": "https://www.opovo.com.br/noticias/politica/2025/05/26/governo-lula-deve-anunciar-recomposicao-orcamentaria-para-universidades-federais.html",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "2016",
+        "valor": 6.7
+      }
+    },
+    {
+      "rotulo": "Matrículas na educação básica (Censo Escolar)",
+      "valor": 46.0,
+      "unidade": "milhões",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Gazeta do Povo — Pé-de-Meia e evasão escolar",
+        "url": "https://www.gazetadopovo.com.br/economia/pe-de-meia-com-bilhoes-pagos-a-alunos-governo-nao-consegue-frear-evasao-escolar/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    }
+  ],
+  "series": [
+    "ideb-anos-iniciais",
+    "ideb-anos-finais",
+    "ideb-ensino-medio",
+    "pisa",
+    "analfabetismo",
+    "crianca-alfabetizada"
+  ],
+  "mitos_e_fatos": [
+    {
+      "mito": "O Ideb é nota do governo federal.",
+      "fato": "O Ideb mede escolas de redes municipais (anos iniciais) e estaduais (anos finais e ensino médio). Os líderes de 2023 são estados e suas redes: Paraná (6,7), Ceará (6,6) e SP (6,5) nos anos iniciais; Ceará, Paraná e Goiás (5,5) nos finais; Paraná (4,9) no médio. A União financia via Fundeb e define a BNCC.",
+      "fontes": [
+        {
+          "nome": "Folha Vitória — Ideb 2023 e metas",
+          "url": "https://www.folhavitoria.com.br/geral/brasil-fica-estagnado-na-qualidade-de-ensino-e-longe-da-maioria-das-metas/",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "O Povo — Ideb 2023 (Ceará)",
+          "url": "https://www.opovo.com.br/noticias/ceara/2024/08/14/amp/ceara-supera-meta-nacional-do-ideb-no-ensino-fundamental-e-fica-abaixo-no-ensino-medio-em-2023.html",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        }
+      ]
+    },
+    {
+      "mito": "O Fundeb permanente foi obra do governo Bolsonaro.",
+      "fato": "A EC 108 foi aprovada em ago/2020, durante o governo Bolsonaro, mas por iniciativa do Congresso; elevou a complementação da União de 10% para 23% até 2026. O Fundeb original é de 2007 (governo Lula 2).",
+      "fontes": [
+        {
+          "nome": "Wikipédia pt — Fundeb (compilação com fontes)",
+          "url": "https://pt.wikipedia.org/wiki/Fundeb",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        }
+      ]
+    },
+    {
+      "mito": "Quem paga o piso dos professores é o governo federal.",
+      "fato": "A União fixa o valor (R$ 5.130,63 em 2026), mas quem paga são estados e municípios — impacto estimado de R$ 6,4 bi se adotarem integralmente. É fonte recorrente de conflito federativo.",
+      "fontes": [
+        {
+          "nome": "Congresso em Foco — reajuste do piso dos professores (2026)",
+          "url": "https://www.congressoemfoco.com.br/noticia/119194/reajuste-de-5-4-no-piso-salarial-dos-professores-vai-a-sancao",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "Senado Notícias — reajuste de 5,4% no piso dos professores",
+          "url": "https://www12.senado.leg.br/noticias/videos/2026/05/reajuste-de-5-4-no-piso-salarial-dos-professores-vai-a-sancao",
+          "acesso_em": "2026-10-21",
+          "tier": "oficial"
+        }
+      ]
+    },
+    {
+      "mito": "O Pé-de-Meia já provou que reduz a evasão.",
+      "fato": "O MEC afirma queda do abandono entre beneficiários de 6,4% (2024) para 3,6% (2025) e reprovação -33%, sem validação independente. O estudo do Insper é ex-ante (projeta queda da evasão de 26,4% para 19,9%). O TCU encontrou pagamentos irregulares e recomendou bloquear R$ 6 bi do Pé-de-Meia Licenciaturas.",
+      "fontes": [
+        {
+          "nome": "Gazeta do Povo — Pé-de-Meia e evasão escolar",
+          "url": "https://www.gazetadopovo.com.br/economia/pe-de-meia-com-bilhoes-pagos-a-alunos-governo-nao-consegue-frear-evasao-escolar/",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "Poder360 — estudo Insper sobre o Pé-de-Meia",
+          "url": "https://www.poder360.com.br/poder-educacao/pe-de-meia-evita-evasao-escolar-de-1-a-cada-4-alunos-diz-estudo/",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        }
+      ]
+    },
+    {
+      "mito": "O ensino médio melhorou muito.",
+      "fato": "O Ideb do ensino médio ficou parado entre 2011 e 2017 (3,7–3,8), subiu para 4,2 em 2019 e 4,3 em 2023, ainda longe da meta de 5,2 e, segundo o Inep, abaixo do nível pré-pandemia (4,4 em 2019). O PISA 2022 ficou estável e baixo: 379 em matemática.",
+      "fontes": [
+        {
+          "nome": "Wikipédia pt — Ideb (compilação de dados Inep)",
+          "url": "https://pt.wikipedia.org/wiki/%C3%8Dndice_de_Desenvolvimento_da_Educa%C3%A7%C3%A3o_B%C3%A1sica",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "Folha Vitória — Ideb 2023 e metas",
+          "url": "https://www.folhavitoria.com.br/geral/brasil-fica-estagnado-na-qualidade-de-ensino-e-longe-da-maioria-das-metas/",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "Agência Gov — resultados do PISA 2022",
+          "url": "https://agenciagov.ebc.com.br/noticias/202312/divulgados-os-resultados-do-pisa-2022",
+          "acesso_em": "2026-10-21",
+          "tier": "oficial"
+        }
+      ]
+    }
+  ],
+  "perguntas_frequentes": [
+    {
+      "pergunta": "Quem cortou o orçamento das universidades federais?",
+      "resposta": "As verbas discricionárias liquidadas caíram de R$ 6,7 bi (2016) para R$ 5,5 bi (2019), R$ 4,7 bi (2020), R$ 3,5 bi (2021) e R$ 4 bi (2022), com corte adicional em dez/2022 (governos Temer e Bolsonaro, sob o teto de gastos). Em 2023 houve recomposição para R$ 5,2 bi e em 2024 R$ 5 bi (governo Lula 3); em 2025 o Decreto 12.448 parcelou repasses em 18 vezes, seguido de recomposição de R$ 400 mi e liberação de R$ 300 mi. A Andifes diz que o orçamento segue abaixo do pré-pandemia."
+    },
+    {
+      "pergunta": "O que é o Novo Ensino Médio e quem decidiu?",
+      "resposta": "A Lei 13.415/2017 (MP 746/2016, governo Temer) criou 60% de BNCC e 40% de itinerários e elevou a carga de 800 para 1.000 horas anuais. Após protestos em 56 cidades (15/03/2023), a Lei 14.945/2024 (governo Lula 3) alterou a reforma e criou a Política Nacional de Ensino Médio. A implementação é dos estados."
+    },
+    {
+      "pergunta": "Por que as matrículas estão caindo?",
+      "resposta": "Efeito demográfico: o Censo Escolar 2025 registrou 46,0 milhões de matrículas na educação básica (-1,08 mi, -2,3%) e o ensino médio caiu de 7,79 mi (2024) para 7,37 mi (2025), -5,4%, menor em cerca de 10 anos."
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Wikipédia pt — Fundeb (compilação com fontes)",
+      "url": "https://pt.wikipedia.org/wiki/Fundeb",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Congresso em Foco — reajuste do piso dos professores (2026)",
+      "url": "https://www.congressoemfoco.com.br/noticia/119194/reajuste-de-5-4-no-piso-salarial-dos-professores-vai-a-sancao",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Senado Notícias — reajuste de 5,4% no piso dos professores",
+      "url": "https://www12.senado.leg.br/noticias/videos/2026/05/reajuste-de-5-4-no-piso-salarial-dos-professores-vai-a-sancao",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Wikipédia pt — Ideb (compilação de dados Inep)",
+      "url": "https://pt.wikipedia.org/wiki/%C3%8Dndice_de_Desenvolvimento_da_Educa%C3%A7%C3%A3o_B%C3%A1sica",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Folha Vitória — Ideb 2023 e metas",
+      "url": "https://www.folhavitoria.com.br/geral/brasil-fica-estagnado-na-qualidade-de-ensino-e-longe-da-maioria-das-metas/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "O Povo — Ideb 2023 (Ceará)",
+      "url": "https://www.opovo.com.br/noticias/ceara/2024/08/14/amp/ceara-supera-meta-nacional-do-ideb-no-ensino-fundamental-e-fica-abaixo-no-ensino-medio-em-2023.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Inep — resultados do Ideb",
+      "url": "https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/ideb/resultados",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Agência Gov — resultados do PISA 2022",
+      "url": "https://agenciagov.ebc.com.br/noticias/202312/divulgados-os-resultados-do-pisa-2022",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Diário do Nordeste/Agência Brasil — PISA 2022",
+      "url": "https://diariodonordeste.verdesmares.com.br/ultima-hora/pais/pisa-2022-brasil-fica-abaixo-da-media-em-matematica-leitura-e-ciencias-1.3452036",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "O Imparcial/IBGE — indicadores educacionais 2024 (PNAD Contínua)",
+      "url": "https://oimparcial.com.br/educacao/2025/06/ibge-informa-indicadores-educacionais-avancam-em-2024-mas-atraso-escolar-aumenta/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "CartaCapital — PNAD Contínua Educação 2025",
+      "url": "https://www.cartacapital.com.br/?p=520510",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "InfoMoney — Criança Alfabetizada 2025",
+      "url": "https://www.infomoney.com.br/?p=3263581",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "TCU — Minuto do TCU sobre alfabetização",
+      "url": "https://portal.tcu.gov.br/imprensa/minuto-do-tcu/i18w797qis232ppis3op17rb",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "O Povo — 59,2% de crianças alfabetizadas em 2024",
+      "url": "https://www.opovo.com.br/noticias/brasil/2025/07/11/amp/com-592-de-criancas-alfabetizadas-em-2024-brasil-nao-atinge-meta.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Gazeta do Povo — Pé-de-Meia e evasão escolar",
+      "url": "https://www.gazetadopovo.com.br/economia/pe-de-meia-com-bilhoes-pagos-a-alunos-governo-nao-consegue-frear-evasao-escolar/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Wikipédia pt — Novo Ensino Médio",
+      "url": "https://pt.wikipedia.org/wiki/Novo_Ensino_M%C3%A9dio",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Wikipédia pt — Pé-de-Meia (compilação com fontes)",
+      "url": "https://pt.wikipedia.org/wiki/P%C3%A9-de-Meia",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Poder360 — estudo Insper sobre o Pé-de-Meia",
+      "url": "https://www.poder360.com.br/poder-educacao/pe-de-meia-evita-evasao-escolar-de-1-a-cada-4-alunos-diz-estudo/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "O Povo — recomposição orçamentária das universidades federais",
+      "url": "https://www.opovo.com.br/noticias/politica/2025/05/26/governo-lula-deve-anunciar-recomposicao-orcamentaria-para-universidades-federais.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Andifes — Ofício 009/2023",
+      "url": "https://wp.info.ufrn.br/admin/portal-ufrn/wp-content/uploads/sites/3/2023/02/Ofi%CC%81cio-Andifes-009-de-2023.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    }
+  ],
+  "lacunas": [
+    "Cronograma anual exato da complementação do Fundeb (10% para 23%) e valores de 2023–2026 não obtidos.",
+    "Matrículas em creche (meta PNE 50%), gasto por aluno (OCDE), ProUni/FIES por governo e cotas não localizados.",
+    "Ideb 2025 não divulgado nas fontes da nota."
+  ],
+  "atualizado_em": "2026-10-21",
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/07_saude_seguranca_educacao_infra_ambiente.md"
+}

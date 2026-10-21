@@ -1,0 +1,111 @@
+{
+  "id": "fala-0021",
+  "slug": "lula-so-cresceu-3-quando-eu-voltei-jn",
+  "evento_id": "sabatina-jn-lula-2026-08-27",
+  "candidato": "lula",
+  "lado": "governo-lula-pt",
+  "minuto": null,
+  "frase_literal": "E quando eu voltei, ele estava crescendo 1%. Ele só cresceu 3%, sabe, [em] 2023, 2024, 2025.",
+  "literal": true,
+  "tema": "economia",
+  "veredito": "falso",
+  "resumo_uma_frase": "O PIB cresceu 3,0% em 2022 (não 1%) e já havia crescido acima de 3% em 2011, 2013 e 2021; em 2025 cresceu 2,3%.",
+  "explicacao_simples": [
+    "Lula, na sabatina do Jornal Nacional (27/8/2026), disse: “E quando eu voltei, ele estava crescendo 1%. Ele só cresceu 3%, sabe, [em] 2023, 2024, 2025”.",
+    "O IBGE registra 3,9% em 2011, 3,0% em 2013, 4,8% em 2021 e 3,0% em 2022; o crescimento de 2025 foi de 2,3%, abaixo dos 3% citados.",
+    "O dado central não corresponde aos registros disponíveis; por isso a frase é classificada como falsa."
+  ],
+  "o_que_e_verdade": [],
+  "o_que_nao_se_sustenta": [
+    "Em 2022 o PIB cresceu 3,0%, não 1%.",
+    "Houve crescimento acima de 3% em 2011, 2013 e 2021.",
+    "2025 fechou em 2,3%."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Crescimento do PIB em 2022",
+      "valor": 3.0,
+      "unidade": "%",
+      "periodo": "2022",
+      "fonte": {
+        "nome": "Lupa",
+        "url": "https://www.agencialupa.org/checagem/2026/08/27/ao-vivo-checagem-da-entrevista-de-lula-ao-jornal-nacional/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": {
+        "rotulo": "Crescimento em 2021",
+        "valor": 4.8
+      }
+    },
+    {
+      "rotulo": "Crescimento do PIB em 2025",
+      "valor": 2.3,
+      "unidade": "%",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Lupa",
+        "url": "https://www.agencialupa.org/checagem/2026/08/27/ao-vivo-checagem-da-entrevista-de-lula-ao-jornal-nacional/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      }
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Lupa",
+      "veredito_original": "FALSO",
+      "url": "https://www.agencialupa.org/checagem/2026/08/27/ao-vivo-checagem-da-entrevista-de-lula-ao-jornal-nacional/",
+      "data": "2026-08-27"
+    },
+    {
+      "veiculo": "Aos Fatos",
+      "veredito_original": "desinformação recorrente",
+      "url": "https://www.aosfatos.org/noticias/checamos-entrevista-lula-globo/",
+      "data": "2026-08-27"
+    },
+    {
+      "veiculo": "Ranking dos Políticos",
+      "veredito_original": "FALSA",
+      "url": "https://ranking.org.br/en/articles/checagem-sabatina-jornal-nacional-2026-2",
+      "data": "2026-08-28"
+    },
+    {
+      "veiculo": "Estadão Verifica (via Brasilagro)",
+      "veredito_original": "FALSO",
+      "url": "https://brasilagro.com.br/conteudo/estadao-checou-a-entrevista-de-lula-no-jornal-nacional-veja-o-resultado.html",
+      "data": "2026-08-28"
+    }
+  ],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Lupa",
+      "url": "https://www.agencialupa.org/checagem/2026/08/27/ao-vivo-checagem-da-entrevista-de-lula-ao-jornal-nacional/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Aos Fatos",
+      "url": "https://www.aosfatos.org/noticias/checamos-entrevista-lula-globo/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Ranking dos Políticos",
+      "url": "https://ranking.org.br/en/articles/checagem-sabatina-jornal-nacional-2026-2",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Estadão Verifica (via Brasilagro)",
+      "url": "https://brasilagro.com.br/conteudo/estadao-checou-a-entrevista-de-lula-no-jornal-nacional-veja-o-resultado.html",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
+  "atualizado_em": "2026-10-21"
+}

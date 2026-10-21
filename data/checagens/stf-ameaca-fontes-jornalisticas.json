@@ -1,0 +1,110 @@
+{
+  "id": "chk-2085",
+  "slug": "stf-ameaca-fontes-jornalisticas",
+  "frase": "Até fontes jornalísticas são ameaçadas pelo STF.",
+  "frase_normalizada": "ate fontes jornalisticas sao ameacadas pelo stf",
+  "variantes": [],
+  "autor": {
+    "nome": "Flávio Bolsonaro",
+    "partido": "PL",
+    "cargo": "senador (RJ) e candidato à Presidência"
+  },
+  "lado": "oposicao-flavio-pl",
+  "alvo": {
+    "nome": "STF / Alexandre de Moraes",
+    "partido": null
+  },
+  "data": "2026-08-28",
+  "onde": "Entrevista ao Jornal Nacional (TV Globo)",
+  "url_declaracao": "https://www.agencialupa.org/checagem/2026/08/28/ao-vivo-checagem-da-entrevista-de-flavio-bolsonaro-ao-jornal-nacional/",
+  "temas": [
+    "justica-stf"
+  ],
+  "tags": [
+    "justica-stf"
+  ],
+  "veredito": "verdadeiro",
+  "resumo_uma_frase": "A Lupa classificou como verdadeiro: houve busca na casa de um jornalista em março de 2026 por ordem do ministro Moraes, e uma fonte foi alvo de busca em agosto de 2026.",
+  "explicacao_simples": [
+    "Flávio disse no Jornal Nacional que até fontes de jornalistas são ameaçadas pelo STF.",
+    "A Lupa confirmou: em março de 2026 houve busca na casa de um jornalista por ordem de Moraes, e em agosto uma fonte foi alvo de busca.",
+    "É um dos pontos em que o candidato acertou nas checagens do JN, ao lado de 'maior juro real do mundo'."
+  ],
+  "explicacao_completa_md": "Lupa (JN, 28/08/2026): VERDADEIRO (busca em casa de jornalista em mar/2026 por ordem de Moraes; fonte alvo de busca em agosto). Contexto: Moraes é relator da AP 2668 e das ADIs sobre a Lei da Dosimetria, foi alvo de sanções dos EUA (jul-dez/2025) e de 55 pedidos de impeachment no Senado após revelações sobre contrato do Banco Master com o escritório de sua esposa (set/2026). A nota 09 não traz nomes nem detalhes dos casos.",
+  "o_que_e_verdade": [
+    "Houve busca na casa de um jornalista (mar/2026) e contra uma fonte (ago/2026) por ordem do STF."
+  ],
+  "o_que_nao_se_sustenta": [
+    "Nada; a frase foi confirmada pela Lupa."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "STF (Alexandre de Moraes)",
+      "papel": "ordenou as buscas",
+      "peso": "alto"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Buscas contra jornalista e fonte citadas pela Lupa",
+      "valor": 2,
+      "unidade": "episódios (mar e ago/2026)",
+      "periodo": "2026",
+      "fonte": {
+        "nome": "Agência Lupa",
+        "url": "https://www.agencialupa.org/checagem/2026/08/28/ao-vivo-checagem-da-entrevista-de-flavio-bolsonaro-ao-jornal-nacional/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": null
+    }
+  ],
+  "series": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Agência Lupa",
+      "veredito_original": "VERDADEIRO",
+      "url": "https://www.agencialupa.org/checagem/2026/08/28/ao-vivo-checagem-da-entrevista-de-flavio-bolsonaro-ao-jornal-nacional/",
+      "data": "2026-08-28"
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Agência Lupa",
+      "url": "https://www.agencialupa.org/checagem/2026/08/28/ao-vivo-checagem-da-entrevista-de-flavio-bolsonaro-ao-jornal-nacional/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/09_acusacoes_e_falas_flavio_x_lula.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "O STF mandou fazer busca contra jornalista?",
+      "resposta": "Sim, na casa de um jornalista em março de 2026, por ordem de Moraes, segundo a Lupa."
+    },
+    {
+      "pergunta": "E contra fontes?",
+      "resposta": "Uma fonte foi alvo de busca em agosto de 2026."
+    },
+    {
+      "pergunta": "Quais os detalhes dos casos?",
+      "resposta": "A nota de pesquisa registra apenas a confirmação da Lupa, sem nomes ou fundamentos das decisões."
+    }
+  ],
+  "relacionadas": [
+    "debate-da-globo-foi-censurado",
+    "lula-trocou-27-superintendentes-da-pf",
+    "banco-master-ligacoes-politicas"
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false,
+  "lacunas": [
+    "Nomes do jornalista e da fonte, datas exatas e fundamentos das buscas não constam nas notas."
+  ]
+}

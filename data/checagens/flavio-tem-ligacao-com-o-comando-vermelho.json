@@ -1,0 +1,117 @@
+{
+  "id": "chk-2080",
+  "slug": "flavio-tem-ligacao-com-o-comando-vermelho",
+  "frase": "Flávio Bolsonaro tem ligação com o Comando Vermelho.",
+  "frase_normalizada": "flavio bolsonaro tem ligacao com o comando vermelho",
+  "variantes": [],
+  "autor": {
+    "nome": "frase que circula nas redes",
+    "partido": null,
+    "cargo": null
+  },
+  "lado": "ambos",
+  "alvo": {
+    "nome": "Flávio Bolsonaro",
+    "partido": "PL"
+  },
+  "data": null,
+  "onde": null,
+  "url_declaracao": null,
+  "temas": [
+    "seguranca",
+    "eleicao-2026"
+  ],
+  "tags": [
+    "seguranca",
+    "eleicao-2026"
+  ],
+  "veredito": "insustentavel",
+  "resumo_uma_frase": "Vídeo de Fabrício Santos Vargas ligando Flávio ao Comando Vermelho foi removido pelo TSE, por unanimidade, em 15/10/2026, a pedido do PL; não há investigação ou evidência de vínculo de Flávio com a facção.",
+  "explicacao_simples": [
+    "Um vídeo nas redes ligava Flávio ao Comando Vermelho; o PL pediu e o TSE mandou remover em 24 horas, por unanimidade.",
+    "Não existe investigação, denúncia ou prova de vínculo de Flávio com a facção.",
+    "O caso espelha as acusações, também sem prova, de que Lula seria ligado ao PCC e ao CV, igualmente removidas pelo TSE."
+  ],
+  "explicacao_completa_md": "TSE (15/10/2026, unânime): remoção em 24 horas de vídeo de Fabrício Santos Vargas ligando Flávio ao Comando Vermelho, a pedido do PL; na mesma sessão o TSE removeu seis vídeos de Flávio e Nikolas sobre Lulinha. A ligação documentada de Flávio no campo da segurança é com Adriano da Nóbrega (milícia/'Escritório do Crime', emprego de parentes e homenagem), não com o Comando Vermelho; Lula o chamou de 'miliciano', qualificação sem lastro judicial.",
+  "o_que_e_verdade": [
+    "Nada; não há evidência de vínculo."
+  ],
+  "o_que_nao_se_sustenta": [
+    "A ligação com o Comando Vermelho: sem investigação ou prova; vídeo removido pelo TSE."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Autor do vídeo (Fabrício Santos Vargas)",
+      "papel": "publicou a acusação",
+      "peso": "alto"
+    },
+    {
+      "ator": "TSE",
+      "papel": "ordenou a remoção (15/10)",
+      "peso": "alto"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Prazo de remoção determinado pelo TSE",
+      "valor": 24,
+      "unidade": "horas",
+      "periodo": "15/10/2026",
+      "fonte": {
+        "nome": "Metrópoles, 15/10/2026 (TSE atende a Lula e a Flávio)",
+        "url": "https://www.metropoles.com/brasil/tse-atende-a-lula-e-flavio-e-determina-a-remocao-de-conteudos-das-redes",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": null
+    }
+  ],
+  "series": [],
+  "checagens_externas": [
+    {
+      "veiculo": "TSE (unânime)",
+      "veredito_original": "remoção do vídeo em 24 horas",
+      "url": "https://www.metropoles.com/brasil/tse-atende-a-lula-e-flavio-e-determina-a-remocao-de-conteudos-das-redes",
+      "data": "2026-10-15"
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Metrópoles, 15/10/2026 (TSE atende a Lula e a Flávio)",
+      "url": "https://www.metropoles.com/brasil/tse-atende-a-lula-e-flavio-e-determina-a-remocao-de-conteudos-das-redes",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/09_acusacoes_e_falas_flavio_x_lula.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "Flávio é investigado por ligação com o Comando Vermelho?",
+      "resposta": "Não. Seus inquéritos no STF tratam de Vorcaro/Dark Horse e de lavagem com um advogado."
+    },
+    {
+      "pergunta": "O que o TSE decidiu?",
+      "resposta": "Em 15/10/2026 mandou remover o vídeo em 24 horas, por unanimidade."
+    },
+    {
+      "pergunta": "Há ligação de Flávio com grupos criminosos documentada?",
+      "resposta": "O que existe é o emprego de parentes de Adriano da Nóbrega (milícia) e a homenagem a ele; não há investigação sobre isso."
+    }
+  ],
+  "relacionadas": [
+    "flavio-miliciano",
+    "lula-ligado-a-faccoes-pcc-cv",
+    "flavio-vai-tirar-titulo-de-nossa-senhora-aparecida"
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false,
+  "lacunas": [
+    "A nota 09 registra apenas a decisão do TSE; não há checagem de agência com esta redação."
+  ]
+}

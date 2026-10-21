@@ -1,0 +1,81 @@
+{
+  "id": "fala-0230",
+  "slug": "flavio-recorde-de-empresas-fechadas-band",
+  "evento_id": "debate-band-2turno-2026-10-18",
+  "candidato": "flavio-bolsonaro",
+  "lado": "oposicao-flavio-pl",
+  "minuto": null,
+  "frase_literal": "Recorde de empresas fechadas. / Recordista em empresas que fecham.",
+  "literal": true,
+  "tema": "economia",
+  "veredito": "falta-contexto",
+  "resumo_uma_frase": "Em 2025 foram 2,8 milhões de CNPJs baixados e 5,1 milhões abertos; o recorde é de recuperações judiciais (5.680), não de falências.",
+  "explicacao_simples": [
+    "Flávio Bolsonaro, no debate da Band (18/10/2026), disse: “Recorde de empresas fechadas. / Recordista em empresas que fecham”.",
+    "Aos Fatos: falso; Estadão: falta contexto (2,8 milhões de CNPJs baixados e 5,1 milhões abertos em 2025; recorde de 5.680 recuperações judiciais).",
+    "A frase omite informações que mudam a leitura do dado; por isso é classificada como 'falta contexto'."
+  ],
+  "o_que_e_verdade": [
+    "Número absoluto de baixas de CNPJ elevado em 2025."
+  ],
+  "o_que_nao_se_sustenta": [
+    "Saldo líquido positivo de empresas; falências não estão em recorde."
+  ],
+  "numeros": [
+    {
+      "rotulo": "CNPJs baixados",
+      "valor": 2.8,
+      "unidade": "milhões",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Estadão Verifica (via Polêmica Paraíba)",
+        "url": "https://www.polemicaparaiba.com.br/brasil/estadao-verifica-checa-declaracoes-de-lula-e-flavio-bolsonaro-em-debate-e-aponta-informacoes-falsas-enganosas-e-verdadeiras-confira/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": {
+        "rotulo": "CNPJs abertos",
+        "valor": 5.1
+      }
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Aos Fatos",
+      "veredito_original": "falso",
+      "url": "https://www.aosfatos.org/noticias/checamos-lula-flavio-bolsonaro-debate-band/",
+      "data": "2026-10-18"
+    },
+    {
+      "veiculo": "Estadão Verifica (via Polêmica Paraíba)",
+      "veredito_original": "FALTA CONTEXTO",
+      "url": "https://www.polemicaparaiba.com.br/brasil/estadao-verifica-checa-declaracoes-de-lula-e-flavio-bolsonaro-em-debate-e-aponta-informacoes-falsas-enganosas-e-verdadeiras-confira/",
+      "data": "2026-10-19"
+    }
+  ],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Aos Fatos",
+      "url": "https://www.aosfatos.org/noticias/checamos-lula-flavio-bolsonaro-debate-band/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Estadão Verifica (via Polêmica Paraíba)",
+      "url": "https://www.polemicaparaiba.com.br/brasil/estadao-verifica-checa-declaracoes-de-lula-e-flavio-bolsonaro-em-debate-e-aponta-informacoes-falsas-enganosas-e-verdadeiras-confira/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Aos Fatos",
+      "url": "https://www.aosfatos.org/noticias/flavio-bolsonaro-mente-recorde-falencias-empresas/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
+  "atualizado_em": "2026-10-21"
+}

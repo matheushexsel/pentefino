@@ -1,0 +1,178 @@
+{
+  "id": "bets-tributacao",
+  "nome": "Tributação das apostas de quota fixa (bets): 12% a 15% sobre a receita das casas e 15% de IR sobre prêmios (Lei 14.790/2023 e LC 224/2025)",
+  "tipo": "imposto",
+  "governo": "lula-3",
+  "lado": "governo-lula-pt",
+  "norma": {
+    "nome": "Lei 14.790/2023 (regulamentação das bets); LC 224/2025, de 26/12/2025 (escalonamento da alíquota sobre o GGR); MP 1.303/2025 (tentativa de 18%, caducou em 08/10/2025)",
+    "data": "2025-12-26",
+    "url": "https://www.contabeis.com.br/noticias/71351/nova-aliquota-de-18-sobre-bets-comeca-a-valer-em-outubro/",
+    "vigencia": "Lei 14.790 em vigor desde 2024; escalonamento: 12% até mar/2026, 13% a partir de abr/2026, 14% em 2027, 15% a partir de 2028"
+  },
+  "status": "em-vigor",
+  "o_que_faz_simples": [
+    "As casas de apostas pagam uma contribuição sobre o GGR (receita após o pagamento dos prêmios): 12% pela Lei 14.790/2023; a LC 224/2025 escalonou para 13% a partir de abr/2026, 14% em 2027 e 15% a partir de 2028.",
+    "O apostador paga IR de 15% sobre os prêmios líquidos; a isenção até a primeira faixa da tabela foi vetada e não consta da lei.",
+    "A MP 1.303/2025 tentou elevar o GGR para 18%, mas o relator retirou a mudança e a MP caducou em 08/10/2025.",
+    "As bets também estão na lista do Imposto Seletivo (a partir de 2027). O Novo Desenrola 2026 prevê bloqueio do CPF em apostas por 12 meses para quem renegocia dívidas; estudo da CNC citado pelo Senado fala em ~R$ 30 bi/mês em apostas online desde 2023."
+  ],
+  "quem_ganha": {
+    "descricao": "União (arrecadação). Setor de bets recolheu ~R$ 6,8 bi entre jan-set/2025 (Receita); o setor projetava R$ 9 bi ao poder público em 2025.",
+    "pessoas": null,
+    "faixa_renda": "Não se aplica",
+    "fonte": {
+      "nome": "Sigma — arrecadação do setor de bets em 2025",
+      "url": "https://sigma.world/pt-br/news/bets-cresce-17-000-e-chega-a-r-68-bilhoes-em-2025/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  },
+  "quem_paga": {
+    "descricao": "Casas de apostas (contribuição sobre o GGR) e apostadores (15% de IR sobre prêmios líquidos). O perfil de renda dos apostadores não consta das notas.",
+    "pessoas": null,
+    "faixa_renda": "Não informado nas notas",
+    "fonte": {
+      "nome": "Econet — tributação dos prêmios de apostas de quota fixa (Lei 14.790/2023)",
+      "url": "https://blog.econeteditora.com.br/tributacao-dos-premios-de-apostas-de-quota-fixa-de-acordo-com-a-lei-no-14-790-2023",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  },
+  "custo_ou_arrecadacao": {
+    "valor": 6.8,
+    "unidade": "R$ bilhões",
+    "periodo": "jan-set/2025 (Receita Federal)",
+    "descricao": "~R$ 6,8 bi arrecadados do setor entre jan-set/2025; projeção do setor de R$ 9 bi ao poder público em 2025.",
+    "fonte": {
+      "nome": "Sigma — arrecadação do setor de bets em 2025",
+      "url": "https://sigma.world/pt-br/news/bets-cresce-17-000-e-chega-a-r-68-bilhoes-em-2025/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  },
+  "regra_simulador": {
+    "tipo": "percentual",
+    "parametros": {
+      "ir_sobre_premios": {
+        "aliquota_pct": 15,
+        "base": "prêmio líquido do apostador (definição legal de 'prêmio líquido' não detalhada nas notas)",
+        "isencao_primeira_faixa": false
+      },
+      "contribuicao_sobre_ggr_pct_por_periodo": [
+        {
+          "ate": "2026-03",
+          "aliquota_pct": 12
+        },
+        {
+          "de": "2026-04",
+          "aliquota_pct": 13
+        },
+        {
+          "de": "2027-01",
+          "aliquota_pct": 14
+        },
+        {
+          "de": "2028-01",
+          "aliquota_pct": 15
+        }
+      ],
+      "fonte_formula": "Econet / Contábeis / BP Money (Lei 14.790/2023 e LC 224/2025)",
+      "fonte_formula_url": "https://bpmoney.com.br/?p=422529"
+    }
+  },
+  "mitos": [
+    {
+      "mito": "As bets não pagam imposto no Brasil.",
+      "fato": "Desde a Lei 14.790/2023 as casas pagam 12% sobre o GGR (13% a partir de abr/2026, subindo até 15% em 2028) e os apostadores pagam 15% de IR sobre prêmios líquidos. O setor recolheu ~R$ 6,8 bi entre jan-set/2025.",
+      "fontes": [
+        {
+          "nome": "Econet — tributação dos prêmios de apostas de quota fixa (Lei 14.790/2023)",
+          "url": "https://blog.econeteditora.com.br/tributacao-dos-premios-de-apostas-de-quota-fixa-de-acordo-com-a-lei-no-14-790-2023",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "Sigma — arrecadação do setor de bets em 2025",
+          "url": "https://sigma.world/pt-br/news/bets-cresce-17-000-e-chega-a-r-68-bilhoes-em-2025/",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "BP Money — LC 224/2025 escalona alíquota das bets",
+          "url": "https://bpmoney.com.br/?p=422529",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        }
+      ]
+    },
+    {
+      "mito": "A alíquota de 18% sobre as bets está em vigor.",
+      "fato": "Os 18% constavam da MP 1.303/2025, retirados pelo relator; a MP caducou em 08/10/2025. A LC 224/2025 fixou escalonamento de 12% para 15% até 2028.",
+      "fontes": [
+        {
+          "nome": "NetCPA — aumento da alíquota das bets entra em vigor em outubro de 2025 (MP 1.303)",
+          "url": "https://netcpa.com.br/colunas/aumento-da-aliquota-das-bets-entra-em-vigor-em-outubro-de-2025/25618",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "BP Money — LC 224/2025 escalona alíquota das bets",
+          "url": "https://bpmoney.com.br/?p=422529",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Contábeis — nova alíquota de 18% sobre bets começa a valer em outubro (contexto Lei 14.790)",
+      "url": "https://www.contabeis.com.br/noticias/71351/nova-aliquota-de-18-sobre-bets-comeca-a-valer-em-outubro/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Econet — tributação dos prêmios de apostas de quota fixa (Lei 14.790/2023)",
+      "url": "https://blog.econeteditora.com.br/tributacao-dos-premios-de-apostas-de-quota-fixa-de-acordo-com-a-lei-no-14-790-2023",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Jornal Contábil — aplicabilidade da tributação de bets",
+      "url": "https://jornalcontabil.com.br/noticia/aplicabilidade-de-tributacao-de-bets-ainda-enfrenta-desafios-regulatorios-no-brasil/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "NetCPA — aumento da alíquota das bets entra em vigor em outubro de 2025 (MP 1.303)",
+      "url": "https://netcpa.com.br/colunas/aumento-da-aliquota-das-bets-entra-em-vigor-em-outubro-de-2025/25618",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "BP Money — LC 224/2025 escalona alíquota das bets",
+      "url": "https://bpmoney.com.br/?p=422529",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Sigma — arrecadação do setor de bets em 2025",
+      "url": "https://sigma.world/pt-br/news/bets-cresce-17-000-e-chega-a-r-68-bilhoes-em-2025/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Poder360 — bets projetam pagar R$ 9 bilhões ao poder público em 2025",
+      "url": "https://www.poder360.com.br/poder-sportsmkt/bets-projetam-pagar-r-9-bilhoes-ao-poder-publico-em-2025/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/12_pix_fake_news_e_impostos_quem_paga.md",
+  "lacunas": [
+    "Data e URL oficial da Lei 14.790/2023 não constam das notas.",
+    "Arrecadação fechada de 2025 e perfil de renda dos apostadores não localizados."
+  ],
+  "atualizado_em": "2026-10-21"
+}

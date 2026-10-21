@@ -1,0 +1,61 @@
+{
+  "id": "fala-0094",
+  "slug": "lula-terceiro-maior-destino-de-investimento-estrangeiro",
+  "evento_id": "discurso-onu-lula-2026-09-22",
+  "candidato": "lula",
+  "lado": "governo-lula-pt",
+  "minuto": null,
+  "frase_literal": "Somos o terceiro maior destino de investimento estrangeiro direto.",
+  "literal": true,
+  "tema": "economia",
+  "veredito": "verdadeiro",
+  "resumo_uma_frase": "O Brasil recebeu US$ 77 bilhões em IED em 2025, atrás de EUA (US$ 288 bilhões) e China (US$ 80 bilhões), segundo a OCDE.",
+  "explicacao_simples": [
+    "Lula, no discurso na ONU (22/9/2026), disse: “Somos o terceiro maior destino de investimento estrangeiro direto”.",
+    "A OCDE registra US$ 77 bilhões de investimento estrangeiro direto no Brasil em 2025, terceiro lugar atrás de EUA e China.",
+    "Os dados disponíveis confirmam a afirmação, por isso ela é classificada como verdadeira."
+  ],
+  "o_que_e_verdade": [
+    "US$ 77 bilhões em IED em 2025 (OCDE), 3º no mundo."
+  ],
+  "o_que_nao_se_sustenta": [],
+  "numeros": [
+    {
+      "rotulo": "Investimento estrangeiro direto no Brasil",
+      "valor": 77,
+      "unidade": "US$ bilhões",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Aos Fatos",
+        "url": "https://www.aosfatos.org/noticias/checamos-discurso-lula-onu-2026/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": {
+        "rotulo": "China",
+        "valor": 80
+      }
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Aos Fatos",
+      "veredito_original": "confirmado (sem rótulo)",
+      "url": "https://www.aosfatos.org/noticias/checamos-discurso-lula-onu-2026/",
+      "data": "2026-09-22"
+    }
+  ],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Aos Fatos",
+      "url": "https://www.aosfatos.org/noticias/checamos-discurso-lula-onu-2026/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
+  "atualizado_em": "2026-10-21"
+}

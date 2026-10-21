@@ -1,0 +1,63 @@
+{
+  "id": "fala-0004",
+  "slug": "lula-inflacao-deles-6-2-nossa-4-5",
+  "evento_id": "lancamentos-campanha-2026-08-16",
+  "candidato": "lula",
+  "lado": "governo-lula-pt",
+  "minuto": null,
+  "frase_literal": "A inflação deles foi 6,2%. A nossa 4,5%.",
+  "literal": true,
+  "tema": "economia",
+  "veredito": "falta-contexto",
+  "resumo_uma_frase": "As médias estão próximas do IPCA (6,1% e 4,5%), mas o número de Bolsonaro é puxado pelo ano da pandemia (10,06% em 2021).",
+  "explicacao_simples": [
+    "Lula, no lançamento da campanha (16/8/2026), disse: “A inflação deles foi 6,2%. A nossa 4,5%”.",
+    "O IPCA médio do governo Bolsonaro foi 6,1% (4,31%, 4,52%, 10,06% e 5,79%), com 2021 afetado pela pandemia; o do atual governo é 4,5% (4,62%, 4,83% e 4,26%).",
+    "A frase omite informações que mudam a leitura do dado; por isso é classificada como 'falta contexto'."
+  ],
+  "o_que_e_verdade": [
+    "Médias de 6,1% (2019–2022) e 4,5% (2023–2025) batem com o IPCA."
+  ],
+  "o_que_nao_se_sustenta": [
+    "A comparação omite que 2021 (10,06%) foi um ano atípico de pandemia, e compara quatro anos fechados com três."
+  ],
+  "numeros": [
+    {
+      "rotulo": "IPCA médio anual no governo Bolsonaro",
+      "valor": 6.1,
+      "unidade": "%",
+      "periodo": "2019–2022",
+      "fonte": {
+        "nome": "Lupa",
+        "url": "https://www.agencialupa.org/noticias/2026/08/17/em-pontape-da-campanha-flavio-e-lula-cometem-erros-sobre-desempenho-de-gestoes-passadas/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": {
+        "rotulo": "IPCA médio anual no governo Lula 3",
+        "valor": 4.5
+      }
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Lupa",
+      "veredito_original": "FALTA CONTEXTO",
+      "url": "https://www.agencialupa.org/noticias/2026/08/17/em-pontape-da-campanha-flavio-e-lula-cometem-erros-sobre-desempenho-de-gestoes-passadas/",
+      "data": "2026-08-17"
+    }
+  ],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Lupa",
+      "url": "https://www.agencialupa.org/noticias/2026/08/17/em-pontape-da-campanha-flavio-e-lula-cometem-erros-sobre-desempenho-de-gestoes-passadas/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
+  "atualizado_em": "2026-10-21"
+}

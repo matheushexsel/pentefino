@@ -1,0 +1,223 @@
+{
+  "id": "chk-1031",
+  "slug": "bolsonaro-gerou-mais-empregos-que-lula-e-dilma-juntos",
+  "frase": "Bolsonaro gerou mais empregos que Lula e Dilma juntos",
+  "frase_normalizada": "O governo Bolsonaro criou mais empregos formais do que os 14 anos de governos do PT",
+  "variantes": [
+    "Bolsonaro bateu Lula e Dilma em geração de emprego"
+  ],
+  "autor": {
+    "nome": "frase que circula nas redes",
+    "partido": null,
+    "cargo": null
+  },
+  "lado": "ambos",
+  "alvo": {
+    "nome": "Luiz Inácio Lula da Silva",
+    "partido": "PT"
+  },
+  "data": null,
+  "onde": "Publicação em redes sociais checada pelo Comprova em set/2023; reaparece na campanha de 2026",
+  "url_declaracao": null,
+  "temas": [
+    "emprego-renda",
+    "eleicao-2026"
+  ],
+  "tags": [
+    "empregos",
+    "rais",
+    "caged",
+    "comprova"
+  ],
+  "veredito": "falso",
+  "resumo_uma_frase": "Pela RAIS, os governos Lula e Dilma (2003-2016) criaram 17,4 milhões de empregos formais e o governo Bolsonaro (2019-2022) 4,1 milhões; a comparação só 'funciona' em tabelas que somam o Caged antigo com o Novo Caged, séries que o próprio Ministério do Trabalho diz não serem comparáveis.",
+  "explicacao_simples": [
+    "Pela RAIS, foram 17,4 milhões de empregos formais em 2003 a 2016, nos governos Lula e Dilma, contra 4,1 milhões em 2019 a 2022, no governo Bolsonaro.",
+    "O post usa uma tabela que soma o Caged antigo com o Novo Caged, mas a série mudou em 2020 e o Ministério do Trabalho diz que elas não são comparáveis.",
+    "O governo Bolsonaro teve o recorde anual da série nova em 2021, com 2,85 milhões de vagas, mas foi recuperação após a perda de 2020 na pandemia."
+  ],
+  "explicacao_completa_md": "## Os números\n\n- **RAIS (Comprova)**: 17.376.285 empregos em 2003-2016 (Lula + Dilma) contra 4.111.504 em 2019-2022 (Bolsonaro; RAIS 2019-2021 + Novo Caged 2022). Médias anuais: Lula 1 ~1,6 milhão; Lula 2 ~2,2 milhões; Dilma 1 ~1,3 milhão; Dilma 2 ~−1,7 milhão; Bolsonaro ~1,02 milhão.\n- **Caged antigo (Ipeadata)**: 2015 −1.625.551 e 2016 −1.371.363 (os piores anos da série); 2010 +2.136.947 (melhor).\n- **Novo Caged**: 2021 +2.852.413 (recorde da série nova), 2022 +2.011.366.\n\n## Por que a comparação engana\n\nDesde 2020 o Caged é alimentado pelo eSocial e categorias antes opcionais passaram a ser obrigatórias; a nota técnica do Ministério da Economia (maio/2020) diz que a série nova 'não é diretamente comparável'. Somar as duas séries infla o resultado de 2020-2022 em relação a 2003-2019. Além disso, os anos 2015-2016 (recessão) puxam para baixo a soma de Dilma, mas mesmo assim o total do PT é cerca de quatro vezes o de Bolsonaro.\n\n## Simetria\n\nO lado oposto também exagera: Lula fala em '20-22 milhões até 2010' (RAIS: 15,3 milhões) e o PT em '10,6 milhões desde 2023' (Novo Caged: ~5,5 milhões).",
+  "o_que_e_verdade": [
+    "2021 foi o melhor ano da série do Novo Caged (+2,85 milhões) e 2022 somou +2,01 milhões.",
+    "Os anos de Dilma 2 (2015-2016) tiveram os piores saldos da série antiga (−1,6 e −1,4 milhão)."
+  ],
+  "o_que_nao_se_sustenta": [
+    "Pela RAIS, 17,4 milhões (2003-2016) contra 4,1 milhões (2019-2022): o total do PT é cerca de quatro vezes maior.",
+    "Somar Caged antigo e Novo Caged para comparar governos é metodologicamente inválido, segundo o MTE e o especialista ouvido pelo Comprova.",
+    "O saldo de 2021 é recuperação da perda de 2020 (quando o país perdeu vínculos na pandemia)."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Autores de posts partidários",
+      "papel": "soma de séries não comparáveis",
+      "peso": "alto"
+    },
+    {
+      "ator": "Ministério do Trabalho (mudança do Caged em 2020)",
+      "papel": "quebra metodológica que facilita comparações enganosas",
+      "peso": "medio"
+    },
+    {
+      "ator": "Ciclos econômicos (commodities 2003-2011; recessão 2015-16; pandemia 2020)",
+      "papel": "determinam os saldos mais que decisões de governo",
+      "peso": "alto"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Empregos formais 2003-2016 (RAIS, Comprova)",
+      "valor": 17376285,
+      "unidade": "vínculos",
+      "periodo": "2003-2016",
+      "fonte": {
+        "nome": "Comprova (via Correio Braziliense) – Publicação engana ao comparar empregos de Lula e Dilma com Bolsonaro (set/2023)",
+        "url": "https://www.correiobraziliense.com.br/holofote/2023/09/amp/5122576-publicacao-engana-ao-comparar-dados-de-empregos-de-lula-e-dilma-com-bolsonaro.html",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": {
+        "rotulo": "2019-2022 (Bolsonaro)",
+        "valor": 4111504
+      }
+    },
+    {
+      "rotulo": "Média anual Bolsonaro (Comprova)",
+      "valor": 1.02,
+      "unidade": "milhões por ano",
+      "periodo": "2019-2022",
+      "fonte": {
+        "nome": "Comprova (via Correio Braziliense) – Publicação engana ao comparar empregos de Lula e Dilma com Bolsonaro (set/2023)",
+        "url": "https://www.correiobraziliense.com.br/holofote/2023/09/amp/5122576-publicacao-engana-ao-comparar-dados-de-empregos-de-lula-e-dilma-com-bolsonaro.html",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": {
+        "rotulo": "Lula 2",
+        "valor": 2.2
+      }
+    },
+    {
+      "rotulo": "Saldo do Caged antigo em 2015",
+      "valor": -1625551,
+      "unidade": "vínculos",
+      "periodo": "2015",
+      "fonte": {
+        "nome": "Ipeadata – série CAGED12_SALDO12 (Caged antigo, MTE)",
+        "url": "http://www.ipeadata.gov.br/api/odata4/ValoresSerie(SERCODIGO='CAGED12_SALDO12')",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "2016",
+        "valor": -1371363
+      }
+    },
+    {
+      "rotulo": "Saldo do Novo Caged em 2021",
+      "valor": 2852413,
+      "unidade": "vínculos",
+      "periodo": "2021",
+      "fonte": {
+        "nome": "Ipeadata – série CAGED12_SALDON12 (Novo Caged, MTE)",
+        "url": "http://www.ipeadata.gov.br/api/odata4/ValoresSerie(SERCODIGO='CAGED12_SALDON12')",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "2020",
+        "valor": 171266
+      }
+    },
+    {
+      "rotulo": "Saldo do Novo Caged em 2022",
+      "valor": 2011366,
+      "unidade": "vínculos",
+      "periodo": "2022",
+      "fonte": {
+        "nome": "Ipeadata – série CAGED12_SALDON12 (Novo Caged, MTE)",
+        "url": "http://www.ipeadata.gov.br/api/odata4/ValoresSerie(SERCODIGO='CAGED12_SALDON12')",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Saldo do Caged antigo em 2019",
+      "valor": 559626,
+      "unidade": "vínculos",
+      "periodo": "2019",
+      "fonte": {
+        "nome": "Ipeadata – série CAGED12_SALDO12 (Caged antigo, MTE)",
+        "url": "http://www.ipeadata.gov.br/api/odata4/ValoresSerie(SERCODIGO='CAGED12_SALDO12')",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": null
+    }
+  ],
+  "series": [
+    "emprego-formal-caged-saldo"
+  ],
+  "checagens_externas": [
+    {
+      "veiculo": "Comprova",
+      "veredito_original": "ENGANOSO",
+      "url": "https://www.correiobraziliense.com.br/holofote/2023/09/amp/5122576-publicacao-engana-ao-comparar-dados-de-empregos-de-lula-e-dilma-com-bolsonaro.html",
+      "data": "2023-09-01"
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Comprova (via Correio Braziliense) – Publicação engana ao comparar empregos de Lula e Dilma com Bolsonaro (set/2023)",
+      "url": "https://www.correiobraziliense.com.br/holofote/2023/09/amp/5122576-publicacao-engana-ao-comparar-dados-de-empregos-de-lula-e-dilma-com-bolsonaro.html",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Ipeadata – série CAGED12_SALDO12 (Caged antigo, MTE)",
+      "url": "http://www.ipeadata.gov.br/api/odata4/ValoresSerie(SERCODIGO='CAGED12_SALDO12')",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Ipeadata – série CAGED12_SALDON12 (Novo Caged, MTE)",
+      "url": "http://www.ipeadata.gov.br/api/odata4/ValoresSerie(SERCODIGO='CAGED12_SALDON12')",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "MTE – Divulgação Novo Caged agosto/2026 (PDF via Poder360)",
+      "url": "https://static.poder360.com.br/uploads/2026/09/caged-agosto-2026.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/03_emprego_renda_pobreza_social.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "Qual base é mais confiável para comparar governos?",
+      "resposta": "A RAIS (censo anual de vínculos) para períodos longos; o Caged serve para acompanhamento mensal e tem quebra em 2020."
+    },
+    {
+      "pergunta": "O governo Bolsonaro gerou poucos empregos?",
+      "resposta": "Em média 1,02 milhão/ano pela RAIS, acima de Dilma 2 (negativo) e Temer (+0,3 milhão em dois anos), mas abaixo de Lula 1 e 2. O período inclui a pandemia."
+    },
+    {
+      "pergunta": "Qual é o estoque de carteira assinada hoje?",
+      "resposta": "48,2 milhões de vínculos em ago/2026 (recorde); o estoque de carteira privada da PNAD só superou o pico de 2014 (37,2 milhões) a partir de 2023."
+    }
+  ],
+  "relacionadas": [
+    "lula-gerou-20-milhoes-de-empregos",
+    "lula-gerou-10-milhoes-de-empregos-desde-2023",
+    "menor-desemprego-da-historia"
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false
+}

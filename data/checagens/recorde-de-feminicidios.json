@@ -1,0 +1,206 @@
+{
+  "id": "chk-2053",
+  "slug": "recorde-de-feminicidios",
+  "frase": "Recorde de mulher assassinada no governo Lula.",
+  "frase_normalizada": "recorde de mulher assassinada no governo lula",
+  "variantes": [
+    "Nunca se matou tanta mulher no Brasil"
+  ],
+  "autor": {
+    "nome": "Flávio Bolsonaro",
+    "partido": "PL",
+    "cargo": "senador (RJ) e candidato à Presidência"
+  },
+  "lado": "oposicao-flavio-pl",
+  "alvo": {
+    "nome": "Governo Lula (2023-2026)",
+    "partido": "PT"
+  },
+  "data": "2026-10-18",
+  "onde": "Debate da Band (consórcio Band/Cultura/Gazeta/Jovem Pan/Estadão), São Paulo (também na live de 01/10)",
+  "url_declaracao": "https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026",
+  "temas": [
+    "seguranca",
+    "direitos-sociais"
+  ],
+  "tags": [
+    "seguranca",
+    "direitos-sociais"
+  ],
+  "veredito": "verdadeiro-mas",
+  "resumo_uma_frase": "Os feminicídios bateram recorde em 2025 (1.571, +4%), mas o total de mulheres assassinadas caiu (de 3.728 em 2024 para 3.539 em 2025; 3.934 em 2022), e parte da alta do feminicídio vem da melhora dos registros após a Lei 14.994/2024 torná-lo crime autônomo; a segurança pública é executada pelos estados.",
+  "explicacao_simples": [
+    "O número de feminicídios (mulheres mortas por serem mulheres) foi o maior da série em 2025: 1.571.",
+    "Mas o total de mulheres assassinadas caiu, de 3.934 em 2022 para 3.539 em 2025; parte do aumento do feminicídio vem de melhor classificação dos casos.",
+    "Quem registra e investiga esses crimes são as polícias estaduais; o governo federal atua com leis e fundos."
+  ],
+  "explicacao_completa_md": "Ranking dos Políticos: VERDADEIRO (1.571 feminicídios em 2025, recorde); Lupa: FALTA CONTEXTO (total de mulheres mortas caiu de 3.934 em 2022 para 3.539 em 2025); Aos Fatos: o recorde se deve à melhora dos registros. Anuário 2026: feminicídios 1.504 (2024) para 1.571 (2025), +4,0%; 65,1% negras; 60,9% mortas por parceiro íntimo; tentativas 3.940 para 4.189 (+5,9%); descumprimento de medida protetiva 112.695 para 132.025 (+16,7%); homicídios de mulheres 3.728 para 3.539 (-5,5%). O feminicídio virou tipo penal autônomo pela Lei 14.994 (09/10/2024).",
+  "o_que_e_verdade": [
+    "1.571 feminicídios em 2025, recorde da série (+4%).",
+    "Tentativas de feminicídio e descumprimentos de medida protetiva também subiram."
+  ],
+  "o_que_nao_se_sustenta": [
+    "'Recorde de mulher assassinada': o total de homicídios de mulheres caiu 5,5% em 2025 e está abaixo de 2022; parte da alta do feminicídio é reclassificação após a lei de 2024."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Governos estaduais (polícias)",
+      "papel": "registram, investigam e previnem",
+      "peso": "alto"
+    },
+    {
+      "ator": "Governo federal e Congresso",
+      "papel": "legislação (Lei 14.994/2024) e fundos",
+      "peso": "medio"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Feminicídios",
+      "valor": 1571,
+      "unidade": "casos (+4,0%)",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Anuário Brasileiro de Segurança Pública 2026 (FBSP, PDF)",
+        "url": "https://static.poder360.com.br/uploads/2026/07/anuario-seguranca-publica-23jul26.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      "comparacao": {
+        "rotulo": "2024",
+        "valor": 1504
+      }
+    },
+    {
+      "rotulo": "Homicídios de mulheres (total)",
+      "valor": 3539,
+      "unidade": "casos (-5,5%)",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Anuário Brasileiro de Segurança Pública 2026 (FBSP, PDF)",
+        "url": "https://static.poder360.com.br/uploads/2026/07/anuario-seguranca-publica-23jul26.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      "comparacao": {
+        "rotulo": "2022",
+        "valor": 3934
+      }
+    },
+    {
+      "rotulo": "Tentativas de feminicídio",
+      "valor": 4189,
+      "unidade": "casos (+5,9%)",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Anuário Brasileiro de Segurança Pública 2026 (FBSP, PDF)",
+        "url": "https://static.poder360.com.br/uploads/2026/07/anuario-seguranca-publica-23jul26.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Descumprimentos de medida protetiva",
+      "valor": 132025,
+      "unidade": "casos (+16,7%)",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Anuário Brasileiro de Segurança Pública 2026 (FBSP, PDF)",
+        "url": "https://static.poder360.com.br/uploads/2026/07/anuario-seguranca-publica-23jul26.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      "comparacao": null
+    }
+  ],
+  "series": [
+    "feminicidios"
+  ],
+  "checagens_externas": [
+    {
+      "veiculo": "Ranking dos Políticos",
+      "veredito_original": "VERDADEIRO",
+      "url": "https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026",
+      "data": "2026-10-18"
+    },
+    {
+      "veiculo": "Agência Lupa",
+      "veredito_original": "FALTA CONTEXTO",
+      "url": "https://www.agencialupa.org/checagem/2026/10/01/ao-vivo-checagem-da-live-de-flavio-bolsonaro/",
+      "data": "2026-10-01"
+    },
+    {
+      "veiculo": "Aos Fatos",
+      "veredito_original": "recorde se deve à melhora dos registros",
+      "url": "https://www.aosfatos.org/noticias/checamos-lula-flavio-bolsonaro-debate-band/",
+      "data": "2026-10-18"
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Anuário Brasileiro de Segurança Pública 2026 (FBSP, PDF)",
+      "url": "https://static.poder360.com.br/uploads/2026/07/anuario-seguranca-publica-23jul26.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    },
+    {
+      "nome": "Ranking dos Políticos",
+      "url": "https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Agência Lupa",
+      "url": "https://www.agencialupa.org/checagem/2026/10/01/ao-vivo-checagem-da-live-de-flavio-bolsonaro/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Aos Fatos",
+      "url": "https://www.aosfatos.org/noticias/checamos-lula-flavio-bolsonaro-debate-band/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Agência Brasil via Diário de Pernambuco, jul/2026 (MVI caem 8,2%)",
+      "url": "https://diariodepernambuco.com.br/brasil/2026/07/11719408-mortes-violentas-caem-82-no-pais-em-2025-feminicidios-aumentam-4.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Nota 07 deste projeto",
+      "url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/07_saude_seguranca_educacao_infra_ambiente.md",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/09_acusacoes_e_falas_flavio_x_lula.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "Houve recorde de feminicídios?",
+      "resposta": "Sim: 1.571 em 2025, o maior número da série, segundo o Anuário 2026."
+    },
+    {
+      "pergunta": "Então mais mulheres estão sendo mortas?",
+      "resposta": "Não no total: homicídios de mulheres caíram de 3.934 (2022) para 3.539 (2025). O feminicídio é a parcela dessas mortes motivada pelo gênero, e passou a ser mais bem registrado após a Lei 14.994/2024."
+    },
+    {
+      "pergunta": "De quem é a responsabilidade?",
+      "resposta": "Investigação e policiamento são estaduais; o governo federal legisla e financia; a prevenção envolve os três níveis."
+    }
+  ],
+  "relacionadas": [
+    "violencia-explodiu-no-governo-lula",
+    "homicidios-cairam-com-bolsonaro",
+    "770-mil-assassinatos-em-governos-do-pt"
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false
+}

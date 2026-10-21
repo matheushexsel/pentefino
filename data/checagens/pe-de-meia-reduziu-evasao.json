@@ -1,0 +1,222 @@
+{
+  "id": "chk-5009",
+  "slug": "pe-de-meia-reduziu-evasao",
+  "frase": "O Pé-de-Meia reduziu a evasão no ensino médio.",
+  "frase_normalizada": "o pé-de-meia reduziu a evasão no ensino médio.",
+  "variantes": [
+    "O Pé-de-Meia derrubou o abandono escolar pela metade",
+    "O Pé-de-Meia não freou a evasão"
+  ],
+  "autor": {
+    "nome": "Afirmação recorrente no debate eleitoral (sem autor único identificado na nota)",
+    "partido": null,
+    "cargo": null,
+    "nao_verificado": true
+  },
+  "lado": "governo-lula-pt",
+  "alvo": {
+    "nome": "Governo Lula 3 (2023–)",
+    "partido": "PT"
+  },
+  "data": null,
+  "onde": null,
+  "url_declaracao": null,
+  "temas": [
+    "educacao",
+    "pobreza-programas-sociais"
+  ],
+  "tags": [
+    "pe-de-meia",
+    "evasao",
+    "ensino-medio",
+    "mec",
+    "tcu"
+  ],
+  "veredito": "falta-contexto",
+  "resumo_uma_frase": "O MEC afirma que o abandono entre beneficiários caiu de 6,4% (2024) para 3,6% (2025), mas não há validação independente; o estudo do Insper é uma projeção, e o TCU apontou pagamentos irregulares.",
+  "explicacao_simples": [
+    "O Pé-de-Meia (Lei 14.818/2024) paga até R$ 9.200 por aluno a cerca de 3,9 milhões de estudantes, a um custo de cerca de R$ 12,5 bi por ano, com mais de R$ 17,5 bi pagos até a data da nota.",
+    "Segundo o MEC, o abandono entre beneficiários caiu de 6,4% (2024) para 3,6% (2025) e a reprovação caiu 33%, mas são dados do próprio governo, sem validação independente; o estudo do Insper é ex-ante e projeta queda da evasão de 26,4% para 19,9%.",
+    "O TCU mandou suspender pagamentos a 2.712 CPFs de falecidos, 12,9 mil acima da renda e 1,2 mil que também recebem Bolsa Família, e as matrículas do ensino médio caíram 5,4% em 2025 por efeito demográfico."
+  ],
+  "explicacao_completa_md": "## O programa\n\n- MP 1.198/2023 (28/11/2023) convertida na Lei 14.818/2024 (16/01/2024); lançado em 26/01/2024.\n- Valores: R$ 200 na matrícula + R$ 200/mês (frequência mínima de 80%) + R$ 1.000 por ano concluído + R$ 200 pelo Enem = até R$ 9.200.\n- Alcance: cerca de 3,9 milhões de beneficiários (dez/2024); investimento de cerca de R$ 12,5 bi/ano; total pago igual ou superior a R$ 17,5 bi.\n\n## Evidências\n\n- **MEC:** abandono entre beneficiários de 6,4% (2024) para 3,6% (2025); reprovação -33%. Sem validação independente.\n- **Insper (Centro de Evidências):** estudo ex-ante projeta queda da evasão de 26,4% para 19,9% e que o programa evita a evasão de 1 em 4 jovens vulneráveis — projeção, não medição.\n- **TCU:** em mar/2026 mandou suspender pagamentos a 2.712 CPFs de falecidos, 12,9 mil acima da renda e 1,2 mil que também recebem Bolsa Família; em dez/2024 recomendou bloquear R$ 6 bi do Pé-de-Meia Licenciaturas por conflito com o arcabouço fiscal.\n- **Censo Escolar 2025:** matrículas no ensino médio caíram de 7,79 mi para 7,37 mi (-5,4%), menor em cerca de 10 anos, por efeito demográfico — a Gazeta do Povo lê como \"governo não consegue frear evasão\", mas a queda de matrículas não equivale a evasão.\n\n## Quem responde\n\nPrograma federal (MEC), pago pela União; a frequência e a conclusão dependem das redes estaduais, que operam o ensino médio.\n\n## Veredito\n\nFalta contexto: há indícios favoráveis (dados do MEC, projeção do Insper), mas a evidência causal ainda é frágil e o programa enfrenta questionamentos do TCU sobre pagamentos indevidos e enquadramento fiscal.",
+  "o_que_e_verdade": [
+    "O MEC reporta abandono entre beneficiários de 6,4% para 3,6% e reprovação -33%.",
+    "O Insper projeta que o programa evita a evasão de 1 em 4 jovens vulneráveis.",
+    "O programa alcança ~3,9 milhões de alunos a ~R$ 12,5 bi/ano."
+  ],
+  "o_que_nao_se_sustenta": [
+    "Tratar os dados do MEC como comprovação: não há validação independente; o estudo do Insper é ex-ante.",
+    "Ignorar os achados do TCU: pagamentos a falecidos, a pessoas acima da renda e acumulação com Bolsa Família; recomendação de bloquear R$ 6 bi do Pé-de-Meia Licenciaturas.",
+    "Ler a queda de matrículas de 2025 (-5,4%, demográfica) como prova de evasão ou de fracasso."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Governo federal (MEC, Lula 3)",
+      "papel": "Criou, financia e divulga os resultados do programa",
+      "peso": "alto"
+    },
+    {
+      "ator": "Redes estaduais de ensino médio",
+      "papel": "Frequência, aprovação e conclusão dos alunos",
+      "peso": "alto"
+    },
+    {
+      "ator": "TCU",
+      "papel": "Fiscalização de pagamentos e enquadramento fiscal",
+      "peso": "medio"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Abandono entre beneficiários (MEC)",
+      "valor": 3.6,
+      "unidade": "%",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Gazeta do Povo — Pé-de-Meia e evasão escolar",
+        "url": "https://www.gazetadopovo.com.br/economia/pe-de-meia-com-bilhoes-pagos-a-alunos-governo-nao-consegue-frear-evasao-escolar/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "2024",
+        "valor": 6.4
+      },
+      "nao_verificado": true
+    },
+    {
+      "rotulo": "Beneficiários",
+      "valor": 3900000,
+      "unidade": "estudantes",
+      "periodo": "dez/2024",
+      "fonte": {
+        "nome": "Wikipédia pt — Pé-de-Meia (compilação com fontes)",
+        "url": "https://pt.wikipedia.org/wiki/P%C3%A9-de-Meia",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Custo anual",
+      "valor": 12.5,
+      "unidade": "R$ bilhões",
+      "periodo": "2024",
+      "fonte": {
+        "nome": "Gazeta do Povo — Pé-de-Meia e evasão escolar",
+        "url": "https://www.gazetadopovo.com.br/economia/pe-de-meia-com-bilhoes-pagos-a-alunos-governo-nao-consegue-frear-evasao-escolar/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "total pago (mín.)",
+        "valor": 17.5
+      }
+    },
+    {
+      "rotulo": "Valor máximo por aluno",
+      "valor": 9200,
+      "unidade": "R$",
+      "periodo": "2024",
+      "fonte": {
+        "nome": "Wikipédia pt — Pé-de-Meia (compilação com fontes)",
+        "url": "https://pt.wikipedia.org/wiki/P%C3%A9-de-Meia",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Evasão projetada pelo Insper (com programa)",
+      "valor": 19.9,
+      "unidade": "%",
+      "periodo": "projeção",
+      "fonte": {
+        "nome": "Poder360 — estudo Insper sobre o Pé-de-Meia",
+        "url": "https://www.poder360.com.br/poder-educacao/pe-de-meia-evita-evasao-escolar-de-1-a-cada-4-alunos-diz-estudo/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "sem programa",
+        "valor": 26.4
+      }
+    },
+    {
+      "rotulo": "CPFs de falecidos com pagamento (TCU)",
+      "valor": 2712,
+      "unidade": "CPFs",
+      "periodo": "mar/2026",
+      "fonte": {
+        "nome": "Gazeta do Povo — Pé-de-Meia e evasão escolar",
+        "url": "https://www.gazetadopovo.com.br/economia/pe-de-meia-com-bilhoes-pagos-a-alunos-governo-nao-consegue-frear-evasao-escolar/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "acima da renda",
+        "valor": 12900
+      }
+    },
+    {
+      "rotulo": "Matrículas no ensino médio",
+      "valor": 7.37,
+      "unidade": "milhões",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Gazeta do Povo — Pé-de-Meia e evasão escolar",
+        "url": "https://www.gazetadopovo.com.br/economia/pe-de-meia-com-bilhoes-pagos-a-alunos-governo-nao-consegue-frear-evasao-escolar/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "2024",
+        "valor": 7.79
+      }
+    }
+  ],
+  "series": [
+    "ideb-ensino-medio"
+  ],
+  "checagens_externas": [],
+  "fontes": [
+    {
+      "nome": "Gazeta do Povo — Pé-de-Meia e evasão escolar",
+      "url": "https://www.gazetadopovo.com.br/economia/pe-de-meia-com-bilhoes-pagos-a-alunos-governo-nao-consegue-frear-evasao-escolar/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Wikipédia pt — Pé-de-Meia (compilação com fontes)",
+      "url": "https://pt.wikipedia.org/wiki/P%C3%A9-de-Meia",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Poder360 — estudo Insper sobre o Pé-de-Meia",
+      "url": "https://www.poder360.com.br/poder-educacao/pe-de-meia-evita-evasao-escolar-de-1-a-cada-4-alunos-diz-estudo/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/07_saude_seguranca_educacao_infra_ambiente.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "O Pé-de-Meia está dentro do orçamento?",
+      "resposta": "A crítica fiscal (fundo fora do orçamento) foi parcialmente acolhida pelo TCU, que em dez/2024 recomendou bloquear R$ 6 bi do Pé-de-Meia Licenciaturas por conflito com o arcabouço."
+    }
+  ],
+  "relacionadas": [
+    "ideb-melhorou-ou-piorou"
+  ],
+  "lacunas": [
+    "Avaliação de impacto independente não localizada; dados de evasão por rede estadual não constam da nota."
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false
+}

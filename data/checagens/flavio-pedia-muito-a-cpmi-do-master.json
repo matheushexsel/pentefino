@@ -1,0 +1,126 @@
+{
+  "id": "chk-2027",
+  "slug": "flavio-pedia-muito-a-cpmi-do-master",
+  "frase": "Eu pedia muito a CPMI do Banco Master.",
+  "frase_normalizada": "eu pedia muito a cpmi do banco master",
+  "variantes": [],
+  "autor": {
+    "nome": "Flávio Bolsonaro",
+    "partido": "PL",
+    "cargo": "senador (RJ) e candidato à Presidência"
+  },
+  "lado": "oposicao-flavio-pl",
+  "alvo": {
+    "nome": null,
+    "partido": null
+  },
+  "data": "2026-08-28",
+  "onde": "Entrevista ao Jornal Nacional (TV Globo)",
+  "url_declaracao": "https://www.agencialupa.org/checagem/2026/08/28/ao-vivo-checagem-da-entrevista-de-flavio-bolsonaro-ao-jornal-nacional/",
+  "temas": [
+    "corrupcao",
+    "eleicao-2026"
+  ],
+  "tags": [
+    "corrupcao",
+    "eleicao-2026"
+  ],
+  "veredito": "exagerado",
+  "resumo_uma_frase": "Flávio assinou apenas 2 dos 5 pedidos de CPMI sobre o Banco Master, e só depois da divulgação dos áudios com Vorcaro em maio de 2026.",
+  "explicacao_simples": [
+    "Foram cinco pedidos de CPMI sobre o Banco Master; Flávio assinou dois.",
+    "As assinaturas vieram depois que os áudios da negociação dele com Vorcaro vieram a público, em maio de 2026.",
+    "A Lupa classificou a frase como exagerada."
+  ],
+  "explicacao_completa_md": "A Lupa (JN, 28/08/2026) classificou como EXAGERADO: Flávio assinou 2 dos 5 pedidos de CPMI do Master, após os áudios de maio de 2026 revelados pelo Intercept. O Aos Fatos inclui a afirmação entre as 43 declarações enganosas de Flávio sobre o caso. Senadores impetraram mandado de segurança para instalar a CPI em 25/03/2026; a nota 05 não localiza CPI do Master instalada até out/2026.",
+  "o_que_e_verdade": [
+    "Flávio assinou dois pedidos de CPMI sobre o Master."
+  ],
+  "o_que_nao_se_sustenta": [
+    "'Pedia muito': assinou 2 de 5 pedidos, só após ser exposto pelos áudios."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Flávio Bolsonaro",
+      "papel": "autor da frase",
+      "peso": "alto"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Pedidos de CPMI assinados por Flávio",
+      "valor": 2,
+      "unidade": "de 5 pedidos",
+      "periodo": "2026",
+      "fonte": {
+        "nome": "Agência Lupa",
+        "url": "https://www.agencialupa.org/checagem/2026/08/28/ao-vivo-checagem-da-entrevista-de-flavio-bolsonaro-ao-jornal-nacional/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": null
+    }
+  ],
+  "series": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Agência Lupa",
+      "veredito_original": "EXAGERADO",
+      "url": "https://www.agencialupa.org/checagem/2026/08/28/ao-vivo-checagem-da-entrevista-de-flavio-bolsonaro-ao-jornal-nacional/",
+      "data": "2026-08-28"
+    },
+    {
+      "veiculo": "Aos Fatos",
+      "veredito_original": "entre as 43 declarações enganosas",
+      "url": "https://www.aosfatos.org/noticias/flavio-mentiu-ao-menos-43-vezes-sobre-envolvimento-com-vorcaro/",
+      "data": "2026-09-24"
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Agência Lupa",
+      "url": "https://www.agencialupa.org/checagem/2026/08/28/ao-vivo-checagem-da-entrevista-de-flavio-bolsonaro-ao-jornal-nacional/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Aos Fatos",
+      "url": "https://www.aosfatos.org/noticias/flavio-mentiu-ao-menos-43-vezes-sobre-envolvimento-com-vorcaro/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Wikipédia: Escândalo do Banco Master (índice com fontes)",
+      "url": "https://pt.wikipedia.org/wiki/Esc%C3%A2ndalo_do_Banco_Master",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/08_eleicao_2026_cenario_checagens.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "Quantos pedidos de CPMI houve?",
+      "resposta": "Cinco; Flávio assinou dois."
+    },
+    {
+      "pergunta": "Quando ele assinou?",
+      "resposta": "Depois da divulgação dos áudios com Vorcaro, em maio de 2026."
+    },
+    {
+      "pergunta": "A CPI do Master foi instalada?",
+      "resposta": "As notas não localizam CPI instalada até out/2026; senadores recorreram ao STF em 25/03/2026 para instalá-la."
+    }
+  ],
+  "relacionadas": [
+    "flavio-mentiu-43-vezes-sobre-vorcaro",
+    "dark-horse-vorcaro-flavio"
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false
+}

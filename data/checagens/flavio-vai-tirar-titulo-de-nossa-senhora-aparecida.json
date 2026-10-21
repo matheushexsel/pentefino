@@ -1,0 +1,137 @@
+{
+  "id": "chk-2079",
+  "slug": "flavio-vai-tirar-titulo-de-nossa-senhora-aparecida",
+  "frase": "Flávio Bolsonaro vai retirar de Nossa Senhora Aparecida o título de Padroeira do Brasil.",
+  "frase_normalizada": "flavio bolsonaro vai retirar de nossa senhora aparecida o titulo de padroeira do brasil",
+  "variantes": [],
+  "autor": {
+    "nome": "frase que circula nas redes",
+    "partido": null,
+    "cargo": null
+  },
+  "lado": "ambos",
+  "alvo": {
+    "nome": "Flávio Bolsonaro",
+    "partido": "PL"
+  },
+  "data": null,
+  "onde": null,
+  "url_declaracao": null,
+  "temas": [
+    "eleicao-2026"
+  ],
+  "tags": [
+    "eleicao-2026"
+  ],
+  "veredito": "falso",
+  "resumo_uma_frase": "Boato 'repaginado' de 2018 e 2022 (Aos Fatos); o TSE (Mendonça) mandou remover 1.170 links em 25/09/2026, Dino suspendeu e Fux restabeleceu a ordem; Flávio acusou 'gente de dentro da CNBB', e a CNBB negou e repudiou a desinformação.",
+  "explicacao_simples": [
+    "Circulou em setembro de 2026 que Flávio tiraria o título de padroeira de Nossa Senhora Aparecida; o Aos Fatos mostrou que é versão requentada de 2018 e 2022.",
+    "O TSE mandou remover 1.170 links; a decisão foi suspensa por Dino e restabelecida por Fux.",
+    "Flávio chamou de 'maior fake news da campanha' e acusou gente da CNBB; a CNBB negou qualquer envolvimento e repudiou informações falsas."
+  ],
+  "explicacao_completa_md": "Aos Fatos: boato sobre a padroeira é repaginação de narrativas de 2018/2022. TSE: Mendonça mandou remover 1.170 links em 25/09; Dino suspendeu em 27/09; Fux restabeleceu em 28/09. Flávio (28/09): 'a maior fake news da campanha foi essa sobre Nossa Senhora Aparecida', acusando 'gente de dentro da CNBB'; a CNBB negou em nota e 'repudia a produção e a utilização de informações falsas'. Flávio ergueu imagem da santa em caminhada com Tarcísio em 28/09. Outros boatos contra Flávio: áudio alterado digitalmente sobre direitos trabalhistas (FALSO), vídeo do Círio de Nazaré como ato em Minas (FALSO), reportagem da CNN sobre compra de votos que não o cita (Lupa, 19/10).",
+  "o_que_e_verdade": [
+    "O boato circulou amplamente (1.170 links removidos) e Flávio foi alvo."
+  ],
+  "o_que_nao_se_sustenta": [
+    "A proposta atribuída a Flávio: inexistente; boato reciclado de 2018/2022.",
+    "A acusação de Flávio contra a CNBB: a entidade negou e não há prova."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Autores anônimos do boato",
+      "papel": "recriaram narrativa de 2018/2022",
+      "peso": "alto"
+    },
+    {
+      "ator": "TSE/STF (Mendonça, Dino, Fux)",
+      "papel": "removeram e disputaram a remoção dos links",
+      "peso": "medio"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Links removidos por ordem do TSE",
+      "valor": 1170,
+      "unidade": "links",
+      "periodo": "25/09/2026",
+      "fonte": {
+        "nome": "Wikipédia: Eleição presidencial no Brasil em 2026 (índice)",
+        "url": "https://pt.wikipedia.org/wiki/Elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": null
+    }
+  ],
+  "series": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Aos Fatos",
+      "veredito_original": "boato repaginado de 2018 e 2022",
+      "url": "https://www.aosfatos.org/noticias/boato-sobre-nossa-senhora-aparecida-e-flavio-retoma-narrativas-falsas-de-2018-e-2022/",
+      "data": "2026-09-28"
+    },
+    {
+      "veiculo": "TSE (Mendonça; restabelecido por Fux)",
+      "veredito_original": "remoção de 1.170 links",
+      "url": "https://pt.wikipedia.org/wiki/Elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026",
+      "data": "2026-09-25"
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Wikipédia: Eleição presidencial no Brasil em 2026 (índice)",
+      "url": "https://pt.wikipedia.org/wiki/Elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Aos Fatos",
+      "url": "https://www.aosfatos.org/noticias/boato-sobre-nossa-senhora-aparecida-e-flavio-retoma-narrativas-falsas-de-2018-e-2022/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Agência Brasil, 28/09/2026 (CNBB nega envolvimento)",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/cnbb-nega-envolvimento-em-polemica-sobre-santa-catolica",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Gazeta do Paraná, 07/10/2026 (principais fake news do 2º turno)",
+      "url": "https://gazetadoparana.com.br/publico/das-urnas-as-deepfakes-as-principais-fake-news-que-abrem-o-segundo-turno-das-eleicoes-2026",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/09_acusacoes_e_falas_flavio_x_lula.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "Flávio propôs mudar a padroeira do Brasil?",
+      "resposta": "Não. O boato é reciclagem de versões de 2018 e 2022."
+    },
+    {
+      "pergunta": "A CNBB espalhou o boato?",
+      "resposta": "Não há prova; a CNBB negou e repudiou a desinformação."
+    },
+    {
+      "pergunta": "Que outros boatos atingiram Flávio?",
+      "resposta": "Áudio alterado sobre direitos trabalhistas, vídeo do Círio de Nazaré como ato dele em Minas e a falsa menção em reportagem da CNN sobre compra de votos."
+    }
+  ],
+  "relacionadas": [
+    "lula-vai-fechar-igrejas",
+    "flavio-vai-acabar-com-a-farmacia-popular",
+    "flavio-tem-ligacao-com-o-comando-vermelho"
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false
+}

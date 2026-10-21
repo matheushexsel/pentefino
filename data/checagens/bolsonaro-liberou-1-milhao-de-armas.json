@@ -1,0 +1,202 @@
+{
+  "id": "chk-2055",
+  "slug": "bolsonaro-liberou-1-milhao-de-armas",
+  "frase": "Bolsonaro liberou mais de 1 milhão de armas e 1 bilhão e 100 milhões de balas.",
+  "frase_normalizada": "bolsonaro liberou mais de 1 milhao de armas e 1 bilhao e 100 milhoes de balas",
+  "variantes": [],
+  "autor": {
+    "nome": "Luiz Inácio Lula da Silva",
+    "partido": "PT",
+    "cargo": "presidente da República e candidato à reeleição"
+  },
+  "lado": "governo-lula-pt",
+  "alvo": {
+    "nome": "Governo Bolsonaro (2019-2022)",
+    "partido": "PL"
+  },
+  "data": "2026-10-18",
+  "onde": "Debate da Band (consórcio Band/Cultura/Gazeta/Jovem Pan/Estadão), São Paulo",
+  "url_declaracao": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+  "temas": [
+    "seguranca"
+  ],
+  "tags": [
+    "seguranca"
+  ],
+  "veredito": "verdadeiro-mas",
+  "resumo_uma_frase": "O número de armas é verdadeiro (mais de 1 milhão de novas armas registradas em 2019-2022, segundo Sou da Paz/Igarapé; os registros no Sinarm passaram de 637.972 em 2017 para 1.558.416 em 2022); o número de munições é controverso: Aos Fatos considerou verdadeiro, o Ranking impreciso (994 milhões, Sou da Paz) e a Lupa insustentável.",
+  "explicacao_simples": [
+    "É verdade que o governo Bolsonaro liberou mais de 1 milhão de novas armas, por meio de decretos que facilitaram o acesso.",
+    "Sobre as balas, as agências divergem: o Aos Fatos confirma 1,1 bilhão, o Ranking fala em 994 milhões e a Lupa diz que o número não pode ser sustentado.",
+    "Os decretos foram revogados por Lula em 2023, mas o estoque de armas legais não caiu."
+  ],
+  "explicacao_completa_md": "Lupa e Aos Fatos: VERDADEIRO para 'mais de 1 milhão de armas' (Sou da Paz/Igarapé, 2019-2022). '1,1 bilhão de balas': Lupa INSUSTENTÁVEL; Aos Fatos VERDADEIRO; Ranking IMPRECISO (994 milhões, Sou da Paz). Anuário 2026: Sinarm 637.972 (2017), 1.056.670 (2019), 1.558.416 (2022), 2.088.048 (2023, com migração dos CACs) e 2.171.213 (2025); Anuário 2023: armas de 'cidadãos comuns' 803 mil em 2022 (+116% vs 2019), 783.385 CRs ativos de CAC, munição no varejo +159% vs 2019. Daniel Cerqueira (IPEA) observa que mais armas em circulação tendem a elevar homicídios.",
+  "o_que_e_verdade": [
+    "Mais de 1 milhão de armas foram liberadas em 2019-2022 (Sou da Paz/Igarapé); o estoque legal mais que dobrou entre 2017 e 2022.",
+    "A venda de munição no varejo cresceu 159% entre 2019 e 2022."
+  ],
+  "o_que_nao_se_sustenta": [
+    "'1,1 bilhão de balas' como número fechado: o Ranking cita 994 milhões e a Lupa considera o número insustentável; o Aos Fatos o confirma."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Governo Bolsonaro (decretos presidenciais)",
+      "papel": "ampliou o acesso a armas e munições",
+      "peso": "alto"
+    },
+    {
+      "ator": "Exército (controle de CACs até 2023)",
+      "papel": "registrava os CACs",
+      "peso": "medio"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Registros ativos no Sinarm em 2022",
+      "valor": 1558416,
+      "unidade": "registros",
+      "periodo": "2022",
+      "fonte": {
+        "nome": "Anuário Brasileiro de Segurança Pública 2026 (FBSP, PDF)",
+        "url": "https://static.poder360.com.br/uploads/2026/07/anuario-seguranca-publica-23jul26.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      "comparacao": {
+        "rotulo": "2017",
+        "valor": 637972
+      }
+    },
+    {
+      "rotulo": "Munições (estimativa Sou da Paz citada pelo Ranking)",
+      "valor": 994,
+      "unidade": "milhões",
+      "periodo": "2019-2022",
+      "fonte": {
+        "nome": "Ranking dos Políticos",
+        "url": "https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": {
+        "rotulo": "Citado por Lula",
+        "valor": 1100
+      }
+    },
+    {
+      "rotulo": "Crescimento da venda de munição no varejo",
+      "valor": 159,
+      "unidade": "% vs 2019",
+      "periodo": "2022",
+      "fonte": {
+        "nome": "Estado de Minas, 20/07/2023 (Anuário 2023: armas)",
+        "url": "https://www.em.com.br/app/noticia/politica/2023/07/20/interna_politica,1522636/amp.html",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "CRs ativos de CAC em 2022 (Exército)",
+      "valor": 783385,
+      "unidade": "certificados",
+      "periodo": "2022",
+      "fonte": {
+        "nome": "Estado de Minas, 20/07/2023 (Anuário 2023: armas)",
+        "url": "https://www.em.com.br/app/noticia/politica/2023/07/20/interna_politica,1522636/amp.html",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": null
+    }
+  ],
+  "series": [
+    "armas-registradas-sinarm"
+  ],
+  "checagens_externas": [
+    {
+      "veiculo": "Agência Lupa",
+      "veredito_original": "VERDADEIRO (armas) / INSUSTENTÁVEL (balas)",
+      "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+      "data": "2026-10-18"
+    },
+    {
+      "veiculo": "Aos Fatos",
+      "veredito_original": "VERDADEIRO (armas e balas)",
+      "url": "https://www.aosfatos.org/noticias/checamos-lula-flavio-bolsonaro-debate-band/",
+      "data": "2026-10-18"
+    },
+    {
+      "veiculo": "Ranking dos Políticos",
+      "veredito_original": "IMPRECISO (994 milhões de munições)",
+      "url": "https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026",
+      "data": "2026-10-18"
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Anuário Brasileiro de Segurança Pública 2026 (FBSP, PDF)",
+      "url": "https://static.poder360.com.br/uploads/2026/07/anuario-seguranca-publica-23jul26.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    },
+    {
+      "nome": "Ranking dos Políticos",
+      "url": "https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Estado de Minas, 20/07/2023 (Anuário 2023: armas)",
+      "url": "https://www.em.com.br/app/noticia/politica/2023/07/20/interna_politica,1522636/amp.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Agência Lupa",
+      "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Aos Fatos",
+      "url": "https://www.aosfatos.org/noticias/checamos-lula-flavio-bolsonaro-debate-band/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Agência Brasil, 12/05/2025 (Atlas da Violência 2025)",
+      "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2025-05/taxa-de-homicidio-cai-mas-violencia-matou-457-mil-no-brasil-em-2023",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/09_acusacoes_e_falas_flavio_x_lula.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "Quantas armas foram liberadas com Bolsonaro?",
+      "resposta": "Mais de 1 milhão de novas armas em 2019-2022, segundo Sou da Paz e Instituto Igarapé; os registros no Sinarm foram de 637.972 (2017) para 1.558.416 (2022)."
+    },
+    {
+      "pergunta": "E as munições?",
+      "resposta": "Os números variam: 994 milhões (Sou da Paz, via Ranking) ou 1,1 bilhão (Aos Fatos); a Lupa considera a cifra insustentável."
+    },
+    {
+      "pergunta": "Lula reverteu isso?",
+      "resposta": "Revogou os decretos em 2023 e transferiu os CACs para a PF; o estoque legal parou de crescer (+0,8% em 2025), mas não diminuiu."
+    }
+  ],
+  "relacionadas": [
+    "lula-liberou-armas-para-traficantes",
+    "brasil-tem-mais-armas-depois-dos-decretos",
+    "homicidios-cairam-com-bolsonaro"
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false
+}

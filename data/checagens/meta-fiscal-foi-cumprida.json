@@ -1,0 +1,325 @@
+{
+  "id": "chk-1017",
+  "slug": "meta-fiscal-foi-cumprida",
+  "frase": "A meta fiscal de 2025 foi cumprida; o resultado é muito satisfatório",
+  "frase_normalizada": "O governo Lula 3 cumpriu a meta fiscal de 2025",
+  "variantes": [
+    "Cumprimos a meta do arcabouço",
+    "Pela primeira vez tivemos resultado fiscal positivo"
+  ],
+  "autor": {
+    "nome": "Rogério Ceron",
+    "partido": null,
+    "cargo": "secretário do Tesouro Nacional"
+  },
+  "lado": "governo-lula-pt",
+  "alvo": null,
+  "data": "2026-01-30",
+  "onde": "Divulgação do Resultado do Tesouro Nacional de 2025",
+  "url_declaracao": "https://www.gazetadopovo.com.br/economia/governo-cumpre-meta-fiscal-2025-rombo-61-bi/",
+  "temas": [
+    "contas-publicas",
+    "economia"
+  ],
+  "tags": [
+    "arcabouco",
+    "meta-fiscal",
+    "deficit-primario",
+    "deducoes"
+  ],
+  "veredito": "verdadeiro-mas",
+  "resumo_uma_frase": "A meta de 2025 (resultado zero com banda de 0,25 ponto do PIB) foi cumprida no critério legal, mas só porque R$ 48,7 bilhões de despesas foram deduzidos do cálculo: o déficit efetivo foi de R$ 61,7 bilhões (0,48% do PIB) e o resultado para a meta ficou em déficit de R$ 13 bilhões, dentro do piso de R$ 31 bilhões.",
+  "explicacao_simples": [
+    "Pela regra do arcabouço, a meta de 2025 era déficit zero com tolerância de R$ 31 bilhões para baixo, e o resultado contado para a meta foi déficit de R$ 13 bilhões.",
+    "Isso só foi possível porque R$ 48,7 bilhões de despesas, principalmente precatórios, ficaram fora do cálculo por autorização legal.",
+    "Sem as deduções, o governo central teve déficit de R$ 61,7 bilhões, maior do que o de 2024, e em 2026 o cálculo já exigiu bloqueio de R$ 13,6 bilhões."
+  ],
+  "explicacao_completa_md": "## O cumprimento formal\n\nA LC 200/2023 (arcabouço) fixou para 2025 meta de resultado primário zero com banda de 0,25 ponto do PIB (cerca de R$ 31 bilhões). O déficit efetivo do governo central foi de R$ 61,69 bilhões (0,48% do PIB), 32,3% maior em termos reais que o de 2024 (R$ 42,92 bilhões). Deduções autorizadas por lei somaram R$ 48,68 bilhões: precatórios excedentes (R$ 41,15 bi), ressarcimento de descontos indevidos do INSS (R$ 2,83 bi), defesa (R$ 2,5 bi) e despesas temporárias de educação e saúde (R$ 2,2 bi). O resultado para a meta ficou em déficit de R$ 13 bilhões (0,10% do PIB), dentro do piso. O 'empoçamento' de R$ 8 bilhões em emendas não gastas também ajudou.\n\n## O que dizem os avaliadores\n\n- **IFI**: cumprir as metas de 2024 e 2025 'não necessariamente demonstra esforço fiscal'; as deduções acumuladas podem chegar a R$ 157,3 bilhões em 2024-2026; o déficit primário estrutural subiu de 0,7% para 1,4% do PIB em 12 meses até jun/2026.\n- **TCU**: alertou o governo por mirar o piso da banda em 2025.\n- **Tesouro (Ceron)**: resultado 'muito satisfatório', mas o ideal seria um limite 'sem tantas exceções'.\n\n## 2026\n\nO Relatório do 4º bimestre elevou o déficit efetivo projetado de R$ 52,0 para R$ 80,9 bilhões; com deduções de R$ 67,29 bilhões, o resultado para a meta (superávit de 0,25%) ficou em déficit de R$ 13,65 bilhões, exigindo contingenciamento de R$ 13,6 bilhões. Em 2024 a meta também foi considerada cumprida formalmente, com déficit efetivo de R$ 42,92 bilhões 'puxado pelas enchentes no Rio Grande do Sul'.",
+  "o_que_e_verdade": [
+    "No critério legal (deduções e banda), a meta de 2025 foi cumprida: déficit apurado de R$ 13 bilhões contra piso de R$ 31 bilhões.",
+    "O déficit de 2025 (0,48% do PIB) é muito menor que os de 2015-2016 (2,0% a 2,6%) ou de 2023 (2,09%).",
+    "O governo central teve superávit de Tesouro e BC de R$ 255,5 bilhões; o déficit vem da Previdência (R$ 317,2 bilhões)."
+  ],
+  "o_que_nao_se_sustenta": [
+    "No critério efetivo (sem deduções), nenhuma meta de 2024 ou 2025 foi atingida: déficits de R$ 42,9 bilhões e R$ 61,7 bilhões.",
+    "O déficit de 2025 foi 32,3% maior em termos reais que o de 2024, e o déficit em 12 meses voltou a piorar em 2026 (0,62% do PIB em agosto).",
+    "A dívida bruta continuou subindo (78,64% em dez/2025; 82,87% em ago/2026), porque o esforço primário é muito inferior aos juros (7,91% do PIB em 2025)."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Executivo (Fazenda, Planejamento, Tesouro)",
+      "papel": "propôs a meta, as deduções e o cálculo do resultado",
+      "peso": "alto"
+    },
+    {
+      "ator": "Congresso Nacional",
+      "papel": "aprovou por lei complementar (LC 221, 223, 235) e emenda (EC 136/2025) as exceções à meta",
+      "peso": "alto"
+    },
+    {
+      "ator": "STF",
+      "papel": "decisão sobre precatórios criou passivo pago em 2023-2025",
+      "peso": "baixo"
+    },
+    {
+      "ator": "Copom / Banco Central",
+      "papel": "Selic a 15% eleva os juros, que não entram na meta primária mas elevam a dívida",
+      "peso": "medio"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Déficit primário efetivo do governo central",
+      "valor": -61.69,
+      "unidade": "R$ bilhões",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Agência Brasil – Déficit primário do governo central totaliza R$ 61,7 bilhões em 2025 (29/01/2026)",
+        "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/deficit-primario-do-governo-central-totaliza-r-617-bilhoes-em-2025",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "2024",
+        "valor": -42.92
+      }
+    },
+    {
+      "rotulo": "Déficit primário efetivo do governo central",
+      "valor": -0.48,
+      "unidade": "% do PIB",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Tesouro Nacional – Série Histórica RTN (planilha jul/2026)",
+        "url": "https://www.tesourotransparente.gov.br/ckan/dataset/ab56485b-9c40-4efb-8563-9ce3e1973c4b/resource/527ccdb1-3059-42f3-bf23-b5e3ab4c6dc6/download/seriehistoricajul26.xlsx",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "2023",
+        "valor": -2.09
+      }
+    },
+    {
+      "rotulo": "Deduções autorizadas da meta",
+      "valor": 48.68,
+      "unidade": "R$ bilhões",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Agência Brasil – Déficit primário do governo central totaliza R$ 61,7 bilhões em 2025 (29/01/2026)",
+        "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/deficit-primario-do-governo-central-totaliza-r-617-bilhoes-em-2025",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "Precatórios excedentes",
+        "valor": 41.15
+      }
+    },
+    {
+      "rotulo": "Resultado apurado para a meta",
+      "valor": -13.0,
+      "unidade": "R$ bilhões",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Gazeta do Povo – Governo cumpre meta fiscal de 2025 com rombo de R$ 61 bi (30/01/2026)",
+        "url": "https://www.gazetadopovo.com.br/economia/governo-cumpre-meta-fiscal-2025-rombo-61-bi/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "Piso da banda",
+        "valor": -31.0
+      }
+    },
+    {
+      "rotulo": "Déficit efetivo projetado para 2026 (4º bimestre)",
+      "valor": -80.9,
+      "unidade": "R$ bilhões",
+      "periodo": "set/2026",
+      "fonte": {
+        "nome": "ACIARA/Agência Brasil – Governo eleva rombo fiscal de 2026 (25/09/2026)",
+        "url": "https://aciara.com.br/governo-eleva-rombo-fiscal-de-2026-para-bilhoes/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "Projeção anterior",
+        "valor": -52.0
+      }
+    },
+    {
+      "rotulo": "Contingenciamento exigido em 2026",
+      "valor": 13.6,
+      "unidade": "R$ bilhões",
+      "periodo": "set/2026",
+      "fonte": {
+        "nome": "ACIARA/Agência Brasil – Governo eleva rombo fiscal de 2026 (25/09/2026)",
+        "url": "https://aciara.com.br/governo-eleva-rombo-fiscal-de-2026-para-bilhoes/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Deduções acumuladas estimadas pela IFI",
+      "valor": 157.3,
+      "unidade": "R$ bilhões",
+      "periodo": "2024-2026",
+      "fonte": {
+        "nome": "Gazeta do Povo – Com puxadinhos no Orçamento, governo legaliza fracasso do arcabouço (22/12/2025)",
+        "url": "https://www.gazetadopovo.com.br/economia/com-puxadinhos-no-orcamento-governo-lula-legaliza-fracasso-do-arcabouco-fiscal/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Déficit primário estrutural (IFI)",
+      "valor": 1.4,
+      "unidade": "% do PIB",
+      "periodo": "4 trimestres até jun/2026",
+      "fonte": {
+        "nome": "CNN Brasil – IFI alerta para despesas crescendo acima das receitas (20/08/2026)",
+        "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/ifi-alerta-para-despesas-crescendo-acima-das-receitas-e-deficit-estrutural/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "Um ano antes",
+        "valor": 0.7
+      }
+    },
+    {
+      "rotulo": "Resultado primário do setor público consolidado",
+      "valor": -0.43,
+      "unidade": "% do PIB",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Banco Central do Brasil – SGS 5793 (resultado primário do setor público, 12 meses, % PIB)",
+        "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.5793/dados?formato=json",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "2022",
+        "valor": 1.25
+      }
+    }
+  ],
+  "series": [
+    "resultado-primario-pib",
+    "divida-bruta-pib",
+    "juros-nominais-pib",
+    "resultado-primario-governo-central-pib"
+  ],
+  "checagens_externas": [
+    {
+      "veiculo": "Lupa",
+      "veredito_original": "FALTA CONTEXTO para a frase de Lula 'primeira vez com resultado positivo' (déficits de R$ 47,6 bi em 2024 e R$ 61,6 bi em 2025)",
+      "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+      "data": "2026-10-18"
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Agência Brasil – Déficit primário do governo central totaliza R$ 61,7 bilhões em 2025 (29/01/2026)",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/deficit-primario-do-governo-central-totaliza-r-617-bilhoes-em-2025",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Tesouro Nacional – Série Histórica RTN (planilha jul/2026)",
+      "url": "https://www.tesourotransparente.gov.br/ckan/dataset/ab56485b-9c40-4efb-8563-9ce3e1973c4b/resource/527ccdb1-3059-42f3-bf23-b5e3ab4c6dc6/download/seriehistoricajul26.xlsx",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Gazeta do Povo – Governo cumpre meta fiscal de 2025 com rombo de R$ 61 bi (30/01/2026)",
+      "url": "https://www.gazetadopovo.com.br/economia/governo-cumpre-meta-fiscal-2025-rombo-61-bi/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "ACIARA/Agência Brasil – Governo eleva rombo fiscal de 2026 (25/09/2026)",
+      "url": "https://aciara.com.br/governo-eleva-rombo-fiscal-de-2026-para-bilhoes/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Gazeta do Povo – Com puxadinhos no Orçamento, governo legaliza fracasso do arcabouço (22/12/2025)",
+      "url": "https://www.gazetadopovo.com.br/economia/com-puxadinhos-no-orcamento-governo-lula-legaliza-fracasso-do-arcabouco-fiscal/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "CNN Brasil – IFI alerta para despesas crescendo acima das receitas (20/08/2026)",
+      "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/ifi-alerta-para-despesas-crescendo-acima-das-receitas-e-deficit-estrutural/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Banco Central do Brasil – SGS 5793 (resultado primário do setor público, 12 meses, % PIB)",
+      "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.5793/dados?formato=json",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Metrópoles – Governo Lula tirou R$ 48,6 bilhões do cálculo da meta fiscal (02/02/2026)",
+      "url": "https://www.metropoles.com/brasil/governo-lula-tirou-r-486-bilhoes-do-calculo-da-meta-fiscal",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Metrópoles – Entenda a situação fiscal que o governo vai enfrentar em 2026 (29/12/2025)",
+      "url": "https://www.metropoles.com/brasil/economia-br/entenda-a-situacao-fiscal-que-o-governo-vai-enfrentar-em-2026",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "IFI – Relatório de Acompanhamento Fiscal nº 116 (set/2026)",
+      "url": "https://www12.senado.leg.br/ifi/pdf/raf116_set2026.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Lupa – Checagem ao vivo do debate Lula x Flávio Bolsonaro na Band (18/10/2026)",
+      "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/02_contas_publicas_divida.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "O que é a meta fiscal do arcabouço?",
+      "resposta": "A LC 200/2023 fixa a cada ano um resultado primário (receitas menos despesas, sem juros) para o governo central, com banda de 0,25 ponto do PIB, e limita o crescimento real da despesa a 70% do crescimento da receita (entre 0,6% e 2,5%)."
+    },
+    {
+      "pergunta": "Por que precatórios ficam fora da meta?",
+      "resposta": "Por decisões do STF (2023) e pela EC 136/2025, precatórios excedentes podem ser pagos fora do limite e da meta; em 2025 foram R$ 41,15 bilhões deduzidos e para 2026 há R$ 55,1 bilhões autorizados fora do cálculo."
+    },
+    {
+      "pergunta": "Governos anteriores também mudaram a regra?",
+      "resposta": "Sim. O teto de gastos (EC 95/2016) foi alterado pelas EC 109, 113, 123 e 126 entre 2021 e 2022, abrindo dezenas de bilhões (R$ 145 bilhões só na PEC da Transição)."
+    },
+    {
+      "pergunta": "Se a meta foi cumprida, por que a dívida sobe?",
+      "resposta": "Porque a meta é primária e os juros (R$ 1 trilhão em 2025) ficam fora dela. A IFI calcula que seria preciso superávit de 2,1% do PIB ao ano para estabilizar a dívida."
+    }
+  ],
+  "relacionadas": [
+    "divida-publica-de-11-trilhoes",
+    "deficit-de-lula-70-por-cento-menor-que-o-de-bolsonaro",
+    "peguei-deficit-de-2-8-do-pib",
+    "lula-quebrou-o-brasil"
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false
+}

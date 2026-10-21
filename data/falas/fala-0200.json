@@ -1,0 +1,57 @@
+{
+  "id": "fala-0200",
+  "slug": "flavio-bolsonaro-troca-um-lula-troca-27",
+  "evento_id": "sabatina-globo-flavio-2026-10-16",
+  "candidato": "flavio-bolsonaro",
+  "lado": "oposicao-flavio-pl",
+  "minuto": null,
+  "frase_literal": "Bolsonaro troca um, tem esse questionamento. Ele troca 27…",
+  "literal": true,
+  "tema": "justica-stf",
+  "veredito": "falso",
+  "resumo_uma_frase": "Bolsonaro trocou ao menos 20 superintendentes em três anos e cinco diretores-gerais da PF.",
+  "explicacao_simples": [
+    "Flávio Bolsonaro, na entrevista à TV Globo (16/10/2026), disse: “Bolsonaro troca um, tem esse questionamento. Ele troca 27…”.",
+    "Lupa: Bolsonaro trocou pelo menos 20 delegados em 3 anos e 5 diretores-gerais.",
+    "O dado central não corresponde aos registros disponíveis; por isso a frase é classificada como falsa."
+  ],
+  "o_que_e_verdade": [],
+  "o_que_nao_se_sustenta": [
+    "Bolsonaro também fez trocas em larga escala (≥20 superintendentes, 5 diretores-gerais)."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Superintendentes da PF trocados por Bolsonaro",
+      "valor": 20,
+      "unidade": "superintendentes (ao menos)",
+      "periodo": "2019–2022",
+      "fonte": {
+        "nome": "Lupa",
+        "url": "https://www.agencialupa.org/checagem/2026/10/16/ao-vivo-checagem-da-entrevista-de-flavio-bolsonaro-na-globo/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      }
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Lupa",
+      "veredito_original": "FALSO",
+      "url": "https://www.agencialupa.org/checagem/2026/10/16/ao-vivo-checagem-da-entrevista-de-flavio-bolsonaro-na-globo/",
+      "data": "2026-10-16"
+    }
+  ],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Lupa",
+      "url": "https://www.agencialupa.org/checagem/2026/10/16/ao-vivo-checagem-da-entrevista-de-flavio-bolsonaro-na-globo/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
+  "atualizado_em": "2026-10-21"
+}

@@ -1,0 +1,57 @@
+{
+  "id": "fala-0133",
+  "slug": "lula-menor-inflacao-acumulada-em-quatro-anos",
+  "evento_id": "podcast-flow-lula-2026-10-01",
+  "candidato": "lula",
+  "lado": "governo-lula-pt",
+  "minuto": null,
+  "frase_literal": "A inflação é a menor inflação acumulada em quatro anos.",
+  "literal": true,
+  "tema": "economia",
+  "veredito": "verdadeiro",
+  "resumo_uma_frase": "O IPCA acumulado de jan/2023 a ago/2026 (17,9%) é o menor para período equivalente de mandato desde 1994.",
+  "explicacao_simples": [
+    "Lula, no Flow Podcast (1/10/2026), disse: “A inflação é a menor inflação acumulada em quatro anos”.",
+    "O Aos Fatos calculou IPCA de 17,9% entre janeiro de 2023 e agosto de 2026, o menor para período equivalente desde 1994 (excluindo 2015–2018 por não ser mandato completo).",
+    "Os dados disponíveis confirmam a afirmação, por isso ela é classificada como verdadeira."
+  ],
+  "o_que_e_verdade": [
+    "IPCA acumulado de 17,9% (jan/2023–ago/2026), menor desde o Real."
+  ],
+  "o_que_nao_se_sustenta": [],
+  "numeros": [
+    {
+      "rotulo": "IPCA acumulado no mandato",
+      "valor": 17.9,
+      "unidade": "%",
+      "periodo": "jan/2023–ago/2026",
+      "fonte": {
+        "nome": "Aos Fatos",
+        "url": "https://www.aosfatos.org/noticias/checamos-entrevista-lula-ao-flow/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      }
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Aos Fatos",
+      "veredito_original": "correto",
+      "url": "https://www.aosfatos.org/noticias/checamos-entrevista-lula-ao-flow/",
+      "data": "2026-10-01"
+    }
+  ],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Aos Fatos",
+      "url": "https://www.aosfatos.org/noticias/checamos-entrevista-lula-ao-flow/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
+  "atualizado_em": "2026-10-21"
+}

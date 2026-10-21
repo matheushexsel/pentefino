@@ -1,0 +1,44 @@
+{
+  "id": "reajustes-enel-sp",
+  "titulo": "Reajuste tarifário anual da Enel SP aprovado pela ANEEL",
+  "descricao_simples": "Efeito médio do reajuste anual da distribuidora Enel São Paulo, homologado pela ANEEL com vigência em 4 de julho.",
+  "unidade": "% (efeito médio)",
+  "tipo_grafico": "barra",
+  "frequencia": "anual",
+  "fonte": {
+    "nome": "Agência iNFRA – ANEEL aprova reajuste de 10,18% nas tarifas da Enel SP (30/06/2026)",
+    "url": "https://agenciainfra.com/blog/aneel-aprova-reajuste-de-1018-nas-tarifas-da-enel-sp/",
+    "acesso_em": "2026-10-21",
+    "tier": "imprensa"
+  },
+  "pontos": [
+    {
+      "periodo": "2021",
+      "valor": 9.44
+    },
+    {
+      "periodo": "2025",
+      "valor": 13.94
+    },
+    {
+      "periodo": "2026",
+      "valor": 10.18
+    }
+  ],
+  "faixas_referencia": [],
+  "notas_metodologicas": [
+    "2021: efeito médio 9,44%; baixa tensão 11,38%; alta tensão 3,67%; vigência 04/07/2021 (Jovem Pan).",
+    "2025: efeito médio 13,94%, aprovado em 01/07/2025; AT 15,77%, BT 13,47%; componentes: encargos setoriais +6,44 p.p., retirada de financeiros do ano anterior +7,97, financeiros atuais -2,35, aquisição de energia +1,38, custos da distribuidora (Parcela B) +1,02, transmissão -0,52.",
+    "2026: efeito médio 10,18%, aprovado em 30/06/2026; residencial B1 9,02%; BT 8,97%; AT 15,00%; itens financeiros ligados a compra de energia e transmissão respondem por 6,46 p.p.; Parcela B 0,37 p.p.",
+    "A ANEEL atribuiu os reajustes de 2025 e 2026 a custos não gerenciáveis pela distribuidora e a itens financeiros, não ao aumento da remuneração da empresa."
+  ],
+  "ultimo_periodo": "2026",
+  "temas": [
+    "energia"
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/06_energia_eletrobras_combustiveis.md",
+  "atualizado_em": "2026-10-21",
+  "lacunas": [
+    "Reajustes de 2019, 2020, 2022, 2023 e 2024 e os números das resoluções homologatórias não foram localizados; consultar o painel de processos tarifários da ANEEL."
+  ]
+}

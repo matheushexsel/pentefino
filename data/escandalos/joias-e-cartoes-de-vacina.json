@@ -1,0 +1,204 @@
+{
+  "id": "joias-e-cartoes-de-vacina",
+  "nome": "Joias sauditas e cartões de vacinação (Jair Bolsonaro)",
+  "periodo": {
+    "inicio": "2023",
+    "fim": null,
+    "nota": "Investigações abertas em 2023; cartões arquivados em mar/2025; joias pendentes em out/2026."
+  },
+  "governos_em_que_ocorreram_os_fatos": [
+    "bolsonaro"
+  ],
+  "governos_em_que_foi_investigado": [
+    "lula-3"
+  ],
+  "resumo_simples": [
+    "Cartões de vacinação: em mar/2025 Moraes arquivou a investigação (Pet 10405) contra Bolsonaro e o deputado Gutemberg Reis (MDB-RJ), a pedido da PGR, por ausência de provas dos crimes narrados na delação de Mauro Cid; o restante foi à Justiça Federal do DF.",
+    "Joias sauditas: a PF indiciou Bolsonaro por lavagem de dinheiro e associação criminosa, em inquérito com outras 11 pessoas (incluindo Mauro Cid). A PGR pediu o arquivamento alegando 'lacuna legislativa'; em 18/03/2026 Moraes pediu novo parecer, porque a PGR não analisara a parte sobre Frederick Wassef (que recomprou um Rolex vendido nos EUA). Caso pendente."
+  ],
+  "valores": [
+    {
+      "rotulo": "Pessoas no inquérito das joias além de Bolsonaro",
+      "valor": 11,
+      "unidade": "pessoas",
+      "fonte": {
+        "nome": "CNN Brasil: trama do golpe, joias e Abin paralela — os processos de Bolsonaro",
+        "url": "https://www.cnnbrasil.com.br/politica/trama-do-golpe-joias-e-abin-paralela-os-processos-de-bolsonaro/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    }
+  ],
+  "partidos": [
+    {
+      "partido": "PL",
+      "citados": null,
+      "denunciados": 0,
+      "condenados_1a_instancia": 0,
+      "condenados_definitivo": 0,
+      "condenacoes_anuladas": null,
+      "nomes": [
+        "Jair Bolsonaro (cartões: arquivado; joias: indiciado, pendente)"
+      ],
+      "fonte": {
+        "nome": "Agência Brasil, mar/2026: STF pede novo parecer da PGR sobre caso das joias sauditas",
+        "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-03/stf-pede-novo-parecer-da-pgr-sobre-caso-das-joias-saudita",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "nota": "Zeros indicam 'nenhum localizado nas fontes'."
+    },
+    {
+      "partido": "MDB",
+      "citados": null,
+      "denunciados": 0,
+      "condenados_1a_instancia": 0,
+      "condenados_definitivo": 0,
+      "condenacoes_anuladas": null,
+      "nomes": [
+        "Gutemberg Reis (cartões: arquivado)"
+      ],
+      "fonte": {
+        "nome": "STF: arquivada investigação contra ex-presidente por fraude em cartão de vacina",
+        "url": "https://noticias.stf.jus.br/postsnoticias/stf-arquiva-investigacao-contra-ex-presidente-da-republica-por-fraude-em-cartao-de-vacina/",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "nota": "Zeros indicam 'nenhum localizado nas fontes'."
+    }
+  ],
+  "pessoas": [
+    {
+      "nome": "Jair Bolsonaro",
+      "partido_na_epoca": "PL",
+      "cargo": "ex-presidente da República",
+      "crime": "fraude em cartão de vacinação (investigação a partir da delação de Mauro Cid)",
+      "tribunal": "STF (Pet 10405, relator Alexandre de Moraes)",
+      "data_condenacao": null,
+      "pena": null,
+      "status_atual": "Investigação arquivada em mar/2025 a pedido da PGR, por ausência de provas dos crimes narrados na delação; o restante foi à Justiça Federal do DF.",
+      "status_categoria": "arquivado",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-arquiva-investigacao-contra-ex-presidente-da-republica-por-fraude-em-cartao-de-vacina/",
+      "caso": "Cartões de vacinação"
+    },
+    {
+      "nome": "Jair Bolsonaro",
+      "partido_na_epoca": "PL",
+      "cargo": "ex-presidente da República",
+      "crime": "lavagem de dinheiro e associação criminosa (indiciamento da PF)",
+      "tribunal": "STF (relator Alexandre de Moraes)",
+      "data_condenacao": null,
+      "pena": null,
+      "status_atual": "Indiciado pela PF (texto da nota cita 2023; link indica jul/2024); PGR pediu arquivamento alegando 'lacuna legislativa'; em 18/03/2026 Moraes pediu novo parecer da PGR sobre a parte de Frederick Wassef. Pendente; desfecho após mar/2026 não localizado.",
+      "status_categoria": "investigado",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-03/stf-pede-novo-parecer-da-pgr-sobre-caso-das-joias-saudita",
+      "caso": "Joias sauditas",
+      "nao_verificado": true
+    },
+    {
+      "nome": "Gutemberg Reis",
+      "partido_na_epoca": "MDB-RJ",
+      "cargo": "deputado federal",
+      "crime": "fraude em cartão de vacinação",
+      "tribunal": "STF (Pet 10405)",
+      "data_condenacao": null,
+      "pena": null,
+      "status_atual": "Investigação arquivada em mar/2025 a pedido da PGR.",
+      "status_categoria": "arquivado",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-arquiva-investigacao-contra-ex-presidente-da-republica-por-fraude-em-cartao-de-vacina/",
+      "caso": "Cartões de vacinação"
+    },
+    {
+      "nome": "Mauro Cid",
+      "partido_na_epoca": "não informado nas notas",
+      "cargo": "ex-ajudante de ordens (delator)",
+      "crime": "lavagem de dinheiro e associação criminosa (inquérito das joias)",
+      "tribunal": "STF",
+      "data_condenacao": null,
+      "pena": null,
+      "status_atual": "Entre as 11 pessoas do inquérito das joias; delação originou a investigação dos cartões. Condenado na AP 2668 (ver trama-golpista-8-de-janeiro).",
+      "status_categoria": "investigado",
+      "url": "https://www.cnnbrasil.com.br/politica/trama-do-golpe-joias-e-abin-paralela-os-processos-de-bolsonaro/",
+      "caso": "Joias sauditas"
+    },
+    {
+      "nome": "Frederick Wassef",
+      "partido_na_epoca": "sem partido (advogado)",
+      "cargo": "advogado da família Bolsonaro",
+      "crime": "parte do inquérito das joias (recomprou um Rolex vendido nos EUA)",
+      "tribunal": "STF",
+      "data_condenacao": null,
+      "pena": null,
+      "status_atual": "Moraes pediu em 18/03/2026 novo parecer da PGR por não ter sido analisada a parte referente a ele. Status formal não detalhado nas notas.",
+      "status_categoria": "investigado",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-03/stf-pede-novo-parecer-da-pgr-sobre-caso-das-joias-saudita",
+      "caso": "Joias sauditas",
+      "nao_verificado": true
+    }
+  ],
+  "linha_do_tempo": [
+    {
+      "data": "2023",
+      "evento": "Abertura das investigações sobre cartões de vacinação e joias sauditas (data exata não informada nas notas).",
+      "url": "https://www.cnnbrasil.com.br/politica/trama-do-golpe-joias-e-abin-paralela-os-processos-de-bolsonaro/"
+    },
+    {
+      "data": "2024-07",
+      "evento": "PF indicia Bolsonaro por lavagem e associação criminosa no caso das joias (data indicada pelo link; texto da nota cita 2023).",
+      "url": "https://www.cnnbrasil.com.br/politica/trama-do-golpe-joias-e-abin-paralela-os-processos-de-bolsonaro/",
+      "nao_verificado": true
+    },
+    {
+      "data": "2025-03",
+      "evento": "Moraes arquiva a investigação dos cartões de vacinação contra Bolsonaro e Gutemberg Reis (Pet 10405), a pedido da PGR.",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-arquiva-investigacao-contra-ex-presidente-da-republica-por-fraude-em-cartao-de-vacina/"
+    },
+    {
+      "data": "2026-03-18",
+      "evento": "Moraes pede novo parecer da PGR no caso das joias (parte sobre Frederick Wassef não analisada).",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-03/stf-pede-novo-parecer-da-pgr-sobre-caso-das-joias-saudita"
+    }
+  ],
+  "o_que_dizem_os_dois_lados": {
+    "acusacao": "A PF concluiu que houve lavagem de dinheiro e associação criminosa na venda de joias recebidas de autoridades sauditas, indiciando Bolsonaro e outras 11 pessoas; a delação de Mauro Cid também narrou fraude nos cartões de vacinação.",
+    "defesa": "A PGR pediu o arquivamento do caso das joias por 'lacuna legislativa' e o arquivamento dos cartões por ausência de provas, acolhido pelo STF em mar/2025; a defesa sustenta que não houve crime. Nenhuma denúncia foi oferecida em nenhum dos dois casos."
+  },
+  "status_atual_md": "Cartões de vacinação: **arquivado** (mar/2025). Joias: **inquérito pendente**; Bolsonaro foi indiciado pela PF, a PGR pediu arquivamento e Moraes solicitou novo parecer em 18/03/2026. A tendência indicada pela PGR é o arquivamento. Dos casos paralelos de Bolsonaro, só o das joias segue aberto.",
+  "lacunas": [
+    "Desfecho do caso das joias após mar/2026 não localizado.",
+    "Data do indiciamento da PF diverge (2023 no texto; jul/2024 no link).",
+    "Situação de Michelle Bolsonaro (joias/PL Mulher) não pesquisada com sucesso; nenhuma fonte lida traz investigação ou processo contra ela.",
+    "Nomes das demais 11 pessoas do inquérito das joias (além de Cid) não constam nas notas."
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/05_escandalos_recentes_inss_master_bolsonaro.md",
+  "fontes": [
+    {
+      "nome": "CNN Brasil: trama do golpe, joias e Abin paralela — os processos de Bolsonaro",
+      "url": "https://www.cnnbrasil.com.br/politica/trama-do-golpe-joias-e-abin-paralela-os-processos-de-bolsonaro/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Agência Brasil, mar/2026: STF pede novo parecer da PGR sobre caso das joias sauditas",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-03/stf-pede-novo-parecer-da-pgr-sobre-caso-das-joias-saudita",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "STF: arquivada investigação contra ex-presidente por fraude em cartão de vacina",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-arquiva-investigacao-contra-ex-presidente-da-republica-por-fraude-em-cartao-de-vacina/",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    }
+  ],
+  "atualizado_em": "2026-10-21",
+  "convencoes": [
+    "citado: nome aparece em delação, planilha, relatório de CPI ou reportagem, sem ato formal de investigação.",
+    "investigado: alvo de inquérito, busca, prisão temporária/preventiva ou indiciamento pela PF (indiciamento não é denúncia).",
+    "denunciado: PGR/MPF ofereceu denúncia; réu: a denúncia foi recebida pelo tribunal.",
+    "condenado-1a / condenado-2a: decisão de mérito ainda sujeita a recurso. Para condenações pelo STF em instância única sem trânsito em julgado confirmado nas notas, usa-se condenado-1a com explicação em status_atual.",
+    "condenado-definitivo: trânsito em julgado confirmado nas notas; cumprindo-pena / pena-cumprida quando as notas informam a execução.",
+    "anulada: condenação ou provas anuladas por nulidade (competência, parcialidade, prova ilícita), sem exame de mérito; absolvido: decisão de mérito favorável; arquivado: inquérito/denúncia encerrada sem mérito; prescrito: punibilidade extinta pelo tempo.",
+    "Pedido de indiciamento por CPI/CPMI não é indiciamento policial nem denúncia: é recomendação ao Ministério Público."
+  ]
+}

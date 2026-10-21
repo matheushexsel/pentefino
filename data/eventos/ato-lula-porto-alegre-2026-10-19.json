@@ -1,0 +1,60 @@
+{
+  "id": "ato-lula-porto-alegre-2026-10-19",
+  "tipo": "discurso",
+  "nome": "Ato de Lula em Porto Alegre e vídeo após o debate da Band",
+  "data": "2026-10-19",
+  "veiculo": "Ato de rua (Porto Alegre) e vídeo nas redes",
+  "participantes": [
+    "lula"
+  ],
+  "url_video": null,
+  "url_transcricao": null,
+  "resumo_uma_frase": "Lula disse ter ficado 'muito incomodado de participar de um debate com um miliciano' e chamou Flávio de 'pessoa desqualificada' e 'preparado para mentir'; sem checagem de agência.",
+  "placar": {
+    "lula": {
+      "checadas": 1,
+      "por_veredito": {
+        "insustentavel": 1
+      },
+      "contagem_arquivos": {
+        "insustentavel": 1
+      }
+    }
+  },
+  "falas": [
+    "fala-0321"
+  ],
+  "checagens_externas": [
+    {
+      "veiculo": "Gazeta do Paraná",
+      "veredito_original": "'miliciano' SEM COMPROVAÇÃO (ao checar a repetição no SBT em 19/10)",
+      "url": "https://gazetadoparana.com.br/publico/lula-no-sbt-checagem-confirma-reajuste-do-bolsa-familia-mas-encontra-lacunas-em-acusacoes-sobre-vorcaro-e-promessas-de-seguranca",
+      "data": "2026-10-20"
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Metrópoles",
+      "url": "https://www.metropoles.com/brasil/lula-diz-ter-ficado-incomodado-ao-participar-de-debate-com-miliciano",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Jornal de Brasília",
+      "url": "https://jornaldebrasilia.com.br/noticias/politica-e-poder/lula-chama-flavio-bolsonaro-de-miliciano-desqualificado-apos-debate/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Gazeta do Paraná",
+      "url": "https://gazetadoparana.com.br/publico/lula-no-sbt-checagem-confirma-reajuste-do-bolsa-familia-mas-encontra-lacunas-em-acusacoes-sobre-vorcaro-e-promessas-de-seguranca",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
+  "atualizado_em": "2026-10-21",
+  "lacunas": [
+    "Nenhuma agência checou falas de Lula no ato; o veredito usa a checagem da Gazeta do Paraná sobre a mesma expressão dita no SBT."
+  ]
+}

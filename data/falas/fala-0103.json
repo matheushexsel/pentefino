@@ -1,0 +1,75 @@
+{
+  "id": "fala-0103",
+  "slug": "flavio-lula-deixou-o-povo-endividado-live",
+  "evento_id": "live-flavio-2026-10-01",
+  "candidato": "flavio-bolsonaro",
+  "lado": "oposicao-flavio-pl",
+  "minuto": null,
+  "frase_literal": "Você [Lula] que deixou o povo brasileiro endividado.",
+  "literal": true,
+  "tema": "economia",
+  "veredito": "falta-contexto",
+  "resumo_uma_frase": "A inadimplência subiu de 70,09 milhões (jan/2023) para 83,9 milhões (ago/2026), mas a alta começou em 2020; a proporção de famílias endividadas quase não mudou (49% → 49,9%).",
+  "explicacao_simples": [
+    "Flávio Bolsonaro, na live de 1/10/2026, disse: “Você [Lula] que deixou o povo brasileiro endividado”.",
+    "Serasa: 70,09 milhões de inadimplentes em jan/2023 e 83,9 milhões em ago/2026, com alta desde 2020 (65,9 → 69,4 milhões até dez/2022); BC: famílias endividadas de 49% (dez/2022) para 49,9% (jul/2026).",
+    "A frase omite informações que mudam a leitura do dado; por isso é classificada como 'falta contexto'."
+  ],
+  "o_que_e_verdade": [
+    "Inadimplência cresceu no atual governo."
+  ],
+  "o_que_nao_se_sustenta": [
+    "A tendência de alta vem de 2020; a proporção de famílias endividadas ficou praticamente estável."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Inadimplentes (Serasa)",
+      "valor": 83.9,
+      "unidade": "milhões",
+      "periodo": "ago/2026",
+      "fonte": {
+        "nome": "Lupa",
+        "url": "https://www.agencialupa.org/checagem/2026/10/01/ao-vivo-checagem-da-live-de-flavio-bolsonaro/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": {
+        "rotulo": "jan/2023",
+        "valor": 70.09
+      }
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Lupa",
+      "veredito_original": "FALTA CONTEXTO",
+      "url": "https://www.agencialupa.org/checagem/2026/10/01/ao-vivo-checagem-da-live-de-flavio-bolsonaro/",
+      "data": "2026-10-01"
+    },
+    {
+      "veiculo": "Aos Fatos",
+      "veredito_original": "contexto (BC 49% → 49,9%)",
+      "url": "https://www.aosfatos.org/noticias/checamos-live-flavio-bolsonaro/",
+      "data": "2026-10-01"
+    }
+  ],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Lupa",
+      "url": "https://www.agencialupa.org/checagem/2026/10/01/ao-vivo-checagem-da-live-de-flavio-bolsonaro/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Aos Fatos",
+      "url": "https://www.aosfatos.org/noticias/checamos-live-flavio-bolsonaro/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
+  "atualizado_em": "2026-10-21"
+}

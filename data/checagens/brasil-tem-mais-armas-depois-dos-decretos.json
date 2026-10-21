@@ -1,0 +1,213 @@
+{
+  "id": "chk-5004",
+  "slug": "brasil-tem-mais-armas-depois-dos-decretos",
+  "frase": "O Brasil tem muito mais armas nas mãos de civis depois dos decretos do governo Bolsonaro.",
+  "frase_normalizada": "o brasil tem muito mais armas nas mãos de civis depois dos decretos do governo bolsonaro.",
+  "variantes": [
+    "Bolsonaro armou a população",
+    "O número de armas registradas mais que dobrou com Bolsonaro",
+    "Os CACs explodiram no governo Bolsonaro"
+  ],
+  "autor": {
+    "nome": "Afirmação recorrente no debate eleitoral (sem autor único identificado na nota)",
+    "partido": null,
+    "cargo": null,
+    "nao_verificado": true
+  },
+  "lado": "governo-lula-pt",
+  "alvo": {
+    "nome": "Governo Bolsonaro (2019–2022)",
+    "partido": "PL"
+  },
+  "data": null,
+  "onde": null,
+  "url_declaracao": null,
+  "temas": [
+    "seguranca"
+  ],
+  "tags": [
+    "armas",
+    "sinarm",
+    "cac",
+    "decretos",
+    "bolsonaro"
+  ],
+  "veredito": "verdadeiro",
+  "resumo_uma_frase": "Registros ativos no Sinarm foram de 646.127 (2018) para 1.558.416 (2022), com +63,5% só em 2019; o estoque chegou a 2,17 milhões em 2025 e parou de crescer, mas não diminuiu, após o decreto de 2023.",
+  "explicacao_simples": [
+    "As armas com registro ativo na Polícia Federal passaram de 646.127 em 2018 para 1.056.670 em 2019 (+63,5%) e 1.558.416 em 2022, período dos decretos federais que flexibilizaram compra e porte.",
+    "Em 2023 o decreto do governo Lula 3 suspendeu novos registros de CAC e transferiu o controle do Exército para a PF; o estoque quase parou de crescer em 2025 (+0,8%), mas não caiu: 2.171.213 armas.",
+    "O salto de 2022 para 2023 (1,56 para 2,09 milhões) é em boa parte mudança de metodologia — armas de CACs migradas do Exército —, não novas compras."
+  ],
+  "explicacao_completa_md": "## Os números (Anuário 2026, Tabelas 45/48 — registros ativos no Sinarm/PF, pessoas físicas e jurídicas)\n\n| Ano | Armas | Governo |\n|---|---|---|\n| 2017 | 637.972 | Temer |\n| 2018 | 646.127 | Temer |\n| 2019 | 1.056.670 | Bolsonaro (+63,5%) |\n| 2020 | 1.233.745 | Bolsonaro |\n| 2021 | 1.490.323 | Bolsonaro |\n| 2022 | 1.558.416 | Bolsonaro |\n| 2023 | 2.088.048 | Lula 3 (mudança de metodologia: inclui CACs migrados do Exército) |\n| 2024 | 2.154.944 | Lula 3 |\n| 2025 | 2.171.213 | Lula 3 (+0,8%, menor variação da série) |\n\nVariação 2017–2025: +240%. O Anuário 2023 já apontava: armas de \"cidadãos comuns\" chegaram a 803 mil em 2022 (+116% frente a 2019), total Sinarm de 1,5 milhão (+47,5%), 783.385 Certificados de Registro de CAC ativos no Exército e venda de munição no varejo +159% frente a 2019.\n\nComposição em 2025: 1,1 milhão de pistolas (54,9%), 549 mil revólveres e cerca de 192 mil rifles, fuzis e carabinas. Cerca de 1 milhão de CACs possuem 1,6 milhão de armas, agora sob a PF; 3 em cada 10 registros estão vencidos.\n\n## Quem decidiu\n\n- 2019–2022: decretos do presidente Bolsonaro flexibilizaram posse, porte e limites de compra; o Exército controlava os CACs.\n- 2023: decreto do presidente Lula suspendeu novos registros de CAC e transferiu o controle ao Ministério da Justiça/PF.\n- O Congresso não alterou o Estatuto do Desarmamento no período, segundo a nota.\n\n## Veredito\n\nVerdadeiro. O crescimento em 2019–2022 é atribuível aos decretos federais; a desaceleração a partir de 2023, ao decreto de Lula 3. O estoque não diminuiu — apenas parou de crescer — e a comparação direta entre 2022 e 2023 exagera o salto por causa da mudança de metodologia.",
+  "o_que_e_verdade": [
+    "Registros ativos no Sinarm subiram 63,5% entre 2018 e 2019 e chegaram a 1.558.416 em 2022.",
+    "Armas de cidadãos comuns cresceram 116% entre 2019 e 2022; CRs de CAC no Exército chegaram a 783.385 em 2022; munição no varejo +159%.",
+    "O decreto de 2023 freou o crescimento (+0,8% em 2025), mas o estoque legal segue em 2,17 milhões."
+  ],
+  "o_que_nao_se_sustenta": [
+    "Comparar diretamente 2022 (1,56 mi) com 2023 (2,09 mi) como se fossem novas compras: há quebra de série pela migração dos CACs para a PF.",
+    "Dizer que o governo Lula 3 reduziu o número de armas: o estoque não caiu, só parou de crescer."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Governo federal (Bolsonaro)",
+      "papel": "Decretos de 2019–2022 que flexibilizaram compra, posse e porte",
+      "peso": "alto"
+    },
+    {
+      "ator": "Governo federal (Lula 3)",
+      "papel": "Decreto de 2023 que suspendeu novos registros de CAC e transferiu o controle à PF",
+      "peso": "medio"
+    },
+    {
+      "ator": "Exército e Polícia Federal",
+      "papel": "Órgãos de registro e fiscalização (Sigma e Sinarm)",
+      "peso": "medio"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Armas registradas no Sinarm",
+      "valor": 646127,
+      "unidade": "armas",
+      "periodo": "2018",
+      "fonte": {
+        "nome": "Anuário Brasileiro de Segurança Pública 2026 (FBSP)",
+        "url": "https://static.poder360.com.br/uploads/2026/07/anuario-seguranca-publica-23jul26.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      }
+    },
+    {
+      "rotulo": "Armas registradas no Sinarm",
+      "valor": 1056670,
+      "unidade": "armas",
+      "periodo": "2019",
+      "fonte": {
+        "nome": "Anuário Brasileiro de Segurança Pública 2026 (FBSP)",
+        "url": "https://static.poder360.com.br/uploads/2026/07/anuario-seguranca-publica-23jul26.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      "comparacao": {
+        "rotulo": "variação 2018–2019 (%)",
+        "valor": 63.5
+      }
+    },
+    {
+      "rotulo": "Armas registradas no Sinarm",
+      "valor": 1558416,
+      "unidade": "armas",
+      "periodo": "2022",
+      "fonte": {
+        "nome": "Anuário Brasileiro de Segurança Pública 2026 (FBSP)",
+        "url": "https://static.poder360.com.br/uploads/2026/07/anuario-seguranca-publica-23jul26.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      }
+    },
+    {
+      "rotulo": "Armas registradas no Sinarm",
+      "valor": 2171213,
+      "unidade": "armas",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Anuário Brasileiro de Segurança Pública 2026 (FBSP)",
+        "url": "https://static.poder360.com.br/uploads/2026/07/anuario-seguranca-publica-23jul26.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      "comparacao": {
+        "rotulo": "variação 2025 (%)",
+        "valor": 0.8
+      }
+    },
+    {
+      "rotulo": "Variação 2017–2025",
+      "valor": 240,
+      "unidade": "%",
+      "periodo": "2017–2025",
+      "fonte": {
+        "nome": "Anuário Brasileiro de Segurança Pública 2026 (FBSP)",
+        "url": "https://static.poder360.com.br/uploads/2026/07/anuario-seguranca-publica-23jul26.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      }
+    },
+    {
+      "rotulo": "CRs de CAC ativos no Exército",
+      "valor": 783385,
+      "unidade": "certificados",
+      "periodo": "2022",
+      "fonte": {
+        "nome": "Estado de Minas (Anuário 2023)",
+        "url": "https://www.em.com.br/app/noticia/politica/2023/07/20/interna_politica,1522636/amp.html",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Armas apreendidas pelas polícias estaduais",
+      "valor": 108786,
+      "unidade": "armas",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Anuário Brasileiro de Segurança Pública 2026 (FBSP)",
+        "url": "https://static.poder360.com.br/uploads/2026/07/anuario-seguranca-publica-23jul26.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      "comparacao": {
+        "rotulo": "2024",
+        "valor": 102812
+      }
+    }
+  ],
+  "series": [
+    "armas-registradas-sinarm"
+  ],
+  "checagens_externas": [],
+  "fontes": [
+    {
+      "nome": "Anuário Brasileiro de Segurança Pública 2026 (FBSP)",
+      "url": "https://static.poder360.com.br/uploads/2026/07/anuario-seguranca-publica-23jul26.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    },
+    {
+      "nome": "Estado de Minas (Anuário 2023)",
+      "url": "https://www.em.com.br/app/noticia/politica/2023/07/20/interna_politica,1522636/amp.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Forum on the Arms Trade",
+      "url": "https://www.forumarmstrade.org/blog/previous/4",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/07_saude_seguranca_educacao_infra_ambiente.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "Mais armas legais aumentaram ou reduziram os homicídios?",
+      "resposta": "Os homicídios caíram no mesmo período, mas a queda começou em 2018, antes dos decretos, e continuou após o freio de 2023. Daniel Cerqueira (IPEA) observa que mais armas em circulação tendem a elevar homicídios."
+    }
+  ],
+  "relacionadas": [
+    "homicidios-cairam-no-governo-bolsonaro-e-continuaram-caindo",
+    "homicidios-cairam-com-bolsonaro"
+  ],
+  "lacunas": [
+    "Dados oficiais do Exército sobre armas de CAC por ano (2019–2022) não obtidos."
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false
+}

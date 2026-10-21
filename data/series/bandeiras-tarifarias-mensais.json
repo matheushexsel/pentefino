@@ -1,0 +1,160 @@
+{
+  "id": "bandeiras-tarifarias-mensais",
+  "titulo": "Bandeira tarifária por mês (adicional na conta de luz)",
+  "descricao_simples": "Cor da bandeira definida pela ANEEL em cada mês e o adicional correspondente por 100 kWh consumidos.",
+  "unidade": "R$ por 100 kWh",
+  "tipo_grafico": "barra",
+  "frequencia": "mensal",
+  "fonte": {
+    "nome": "ANEEL – Bandeiras tarifárias",
+    "url": "https://www.gov.br/aneel/pt-br/assuntos/tarifas/bandeiras-tarifarias",
+    "acesso_em": "2026-10-21",
+    "tier": "oficial"
+  },
+  "pontos": [
+    {
+      "periodo": "2025-01",
+      "valor": 0,
+      "bandeira": "verde"
+    },
+    {
+      "periodo": "2025-02",
+      "valor": 0,
+      "bandeira": "verde"
+    },
+    {
+      "periodo": "2025-03",
+      "valor": 0,
+      "bandeira": "verde"
+    },
+    {
+      "periodo": "2025-04",
+      "valor": 0,
+      "bandeira": "verde"
+    },
+    {
+      "periodo": "2025-05",
+      "valor": 1.885,
+      "bandeira": "amarela"
+    },
+    {
+      "periodo": "2025-06",
+      "valor": 4.463,
+      "bandeira": "vermelha-1"
+    },
+    {
+      "periodo": "2025-07",
+      "valor": 4.463,
+      "bandeira": "vermelha-1"
+    },
+    {
+      "periodo": "2025-08",
+      "valor": 7.877,
+      "bandeira": "vermelha-2"
+    },
+    {
+      "periodo": "2025-09",
+      "valor": 7.877,
+      "bandeira": "vermelha-2"
+    },
+    {
+      "periodo": "2025-10",
+      "valor": 4.463,
+      "bandeira": "vermelha-1"
+    },
+    {
+      "periodo": "2025-11",
+      "valor": 4.463,
+      "bandeira": "vermelha-1"
+    },
+    {
+      "periodo": "2025-12",
+      "valor": 1.885,
+      "bandeira": "amarela"
+    },
+    {
+      "periodo": "2026-01",
+      "valor": 0,
+      "bandeira": "verde"
+    },
+    {
+      "periodo": "2026-02",
+      "valor": 0,
+      "bandeira": "verde"
+    },
+    {
+      "periodo": "2026-03",
+      "valor": 0,
+      "bandeira": "verde"
+    },
+    {
+      "periodo": "2026-04",
+      "valor": 0,
+      "bandeira": "verde"
+    },
+    {
+      "periodo": "2026-05",
+      "valor": 1.885,
+      "bandeira": "amarela"
+    },
+    {
+      "periodo": "2026-06",
+      "valor": 1.885,
+      "bandeira": "amarela"
+    },
+    {
+      "periodo": "2026-07",
+      "valor": 1.885,
+      "bandeira": "amarela"
+    },
+    {
+      "periodo": "2026-08",
+      "valor": 1.885,
+      "bandeira": "amarela"
+    },
+    {
+      "periodo": "2026-09",
+      "valor": 1.885,
+      "bandeira": "amarela"
+    },
+    {
+      "periodo": "2026-10",
+      "valor": 0,
+      "bandeira": "verde"
+    }
+  ],
+  "faixas_referencia": [
+    {
+      "rotulo": "Amarela (desde abr/2024)",
+      "valor": 1.885
+    },
+    {
+      "rotulo": "Vermelha patamar 1 (desde abr/2024)",
+      "valor": 4.463
+    },
+    {
+      "rotulo": "Vermelha patamar 2 (desde abr/2024)",
+      "valor": 7.877
+    },
+    {
+      "rotulo": "Escassez hídrica (set/2021–2022)",
+      "valor": 14.2
+    }
+  ],
+  "notas_metodologicas": [
+    "Valores por patamar vigentes desde 01/04/2024 (amarela R$ 1,885; vermelha 1 R$ 4,463; vermelha 2 R$ 7,877 por 100 kWh), ainda em vigor em out/2026. Entre jul/2022 e mar/2024 valiam R$ 2,989 / 6,50 / 9,795.",
+    "Calendário 2025: verde jan–abr; amarela mai; vermelha P1 jun–jul; vermelha P2 ago–set; vermelha P1 out–nov; amarela dez (Folha Vitória, Diário do Nordeste, InfoTarifa dez/2025).",
+    "Calendário 2026: verde jan–abr; amarela mai–set; verde em outubro (anunciada em 25/09/2026). Novembro será anunciado em 30/10/2026.",
+    "Histórico anterior: suspensão da ANEEL em 01/06/2020 (Despacho 1.511), retomada em dez/2020; bandeira de escassez hídrica (R$ 14,20) em set–dez/2021; maior período verde de abr/2022 a jul/2024; 61 acionamentos entre 2015 e fev/2025.",
+    "O campo 'bandeira' identifica a cor; o valor numérico é o adicional por 100 kWh (verde = 0)."
+  ],
+  "ultimo_periodo": "2026-10",
+  "temas": [
+    "energia"
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/06_energia_eletrobras_combustiveis.md",
+  "atualizado_em": "2026-10-21",
+  "lacunas": [
+    "Meses de ago–dez/2024 e o mês exato do fim da escassez hídrica em 2022 não constam das notas."
+  ]
+}

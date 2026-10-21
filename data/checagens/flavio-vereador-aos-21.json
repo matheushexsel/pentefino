@@ -1,0 +1,145 @@
+{
+  "id": "chk-2011",
+  "slug": "flavio-vereador-aos-21",
+  "frase": "Esse rapaz foi vereador com 21 anos.",
+  "frase_normalizada": "esse rapaz foi vereador com 21 anos",
+  "variantes": [],
+  "autor": {
+    "nome": "Luiz Inácio Lula da Silva",
+    "partido": "PT",
+    "cargo": "presidente da República e candidato à reeleição"
+  },
+  "lado": "governo-lula-pt",
+  "alvo": {
+    "nome": "Flávio Bolsonaro",
+    "partido": "PL"
+  },
+  "data": "2026-10-01",
+  "onde": "Entrevista ao Flow Podcast",
+  "url_declaracao": "https://www.agencialupa.org/checagem/2026/10/01/ao-vivo-checagem-da-entrevista-de-lula-no-flow/",
+  "temas": [
+    "eleicao-2026"
+  ],
+  "tags": [
+    "eleicao-2026"
+  ],
+  "veredito": "impreciso",
+  "resumo_uma_frase": "Flávio nunca foi vereador; ele foi eleito deputado estadual do Rio em 2002, aos 21 anos, e tomou posse em 2003, cargo que ocupou até 2019, antes de virar senador.",
+  "explicacao_simples": [
+    "Lula acertou a idade e errou o cargo: Flávio nunca foi vereador.",
+    "Ele se elegeu deputado estadual em 2002, aos 21 anos, e ficou na Alerj até 2019.",
+    "Antes disso, aos 19, ocupou cargo na liderança do PPB na Câmara, em Brasília, enquanto vivia no Rio."
+  ],
+  "explicacao_completa_md": "A Lupa classificou a frase como FALSA: Flávio Bolsonaro nunca exerceu mandato de vereador. Eleito em 2002, tomou posse como deputado estadual do RJ em 01/02/2003 (aos 21 anos) e cumpriu quatro mandatos até 01/02/2019, quando assumiu o Senado (eleito em 2018 com cerca de 4,38 milhões de votos). Entre dezembro de 2000 e 2002, aos 19 anos, ocupou cargo na liderança do PPB na Câmara dos Deputados, em Brasília, enquanto vivia no Rio (cerca de R$ 56,5 mil recebidos em 2001, segundo o Terra). Classificamos como impreciso porque a idade e a ideia de carreira política precoce estão corretas; o cargo citado está errado.",
+  "o_que_e_verdade": [
+    "Flávio entrou na política eleitoral aos 21 anos (eleito em 2002, posse em 2003).",
+    "Sua trajetória é quase inteiramente de cargos públicos: cargo na Câmara aos 19, deputado estadual aos 21, senador aos 37."
+  ],
+  "o_que_nao_se_sustenta": [
+    "'Vereador': ele foi deputado estadual; nunca ocupou cadeira em câmara municipal."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Lula",
+      "papel": "autor da frase",
+      "peso": "alto"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Idade de Flávio na posse como deputado estadual",
+      "valor": 21,
+      "unidade": "anos",
+      "periodo": "01/02/2003",
+      "fonte": {
+        "nome": "Wikipédia: Flávio Bolsonaro (índice com fontes primárias)",
+        "url": "https://pt.wikipedia.org/wiki/Fl%C3%A1vio_Bolsonaro",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Mandatos na Alerj",
+      "valor": 4,
+      "unidade": "mandatos (2003-2019)",
+      "periodo": "2003-2019",
+      "fonte": {
+        "nome": "Wikipédia: Flávio Bolsonaro (índice com fontes primárias)",
+        "url": "https://pt.wikipedia.org/wiki/Fl%C3%A1vio_Bolsonaro",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Votos para o Senado em 2018",
+      "valor": 4.38,
+      "unidade": "milhões",
+      "periodo": "2018",
+      "fonte": {
+        "nome": "Wikipédia: Flávio Bolsonaro (índice com fontes primárias)",
+        "url": "https://pt.wikipedia.org/wiki/Fl%C3%A1vio_Bolsonaro",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": null
+    }
+  ],
+  "series": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Agência Lupa",
+      "veredito_original": "FALSO",
+      "url": "https://www.agencialupa.org/checagem/2026/10/01/ao-vivo-checagem-da-entrevista-de-lula-no-flow/",
+      "data": "2026-10-01"
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Wikipédia: Flávio Bolsonaro (índice com fontes primárias)",
+      "url": "https://pt.wikipedia.org/wiki/Fl%C3%A1vio_Bolsonaro",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Agência Lupa",
+      "url": "https://www.agencialupa.org/checagem/2026/10/01/ao-vivo-checagem-da-entrevista-de-lula-no-flow/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Terra (cargo na Câmara aos 19 anos)",
+      "url": "https://www.terra.com.br/diversao/gente/como-flavio-bolsonaro-conseguiu-um-cargo-de-r-135-mil-na-camara-aos-19-anos,c857a24ce972f07145daa2a07655c357la0md1wc.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/09_acusacoes_e_falas_flavio_x_lula.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "Flávio já foi vereador?",
+      "resposta": "Não. Seus cargos eletivos foram deputado estadual (2003-2019) e senador (desde 2019)."
+    },
+    {
+      "pergunta": "Qual foi o primeiro cargo público de Flávio?",
+      "resposta": "Um cargo na liderança do PPB na Câmara dos Deputados, em Brasília, entre dezembro de 2000 e 2002, quando tinha 19 anos e morava no Rio."
+    },
+    {
+      "pergunta": "Por que 'impreciso' e não 'falso'?",
+      "resposta": "Porque a idade (21 anos) e a ideia de que começou cedo em cargo eletivo estão corretas; só o nome do cargo está errado."
+    }
+  ],
+  "relacionadas": [
+    "flavio-nunca-trabalhou",
+    "flavio-empregou-familia-de-adriano-da-nobrega"
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false
+}

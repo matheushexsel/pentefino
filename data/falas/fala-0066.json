@@ -1,0 +1,57 @@
+{
+  "id": "fala-0066",
+  "slug": "flavio-32-milhoes-de-abstencoes-em-2022-jn",
+  "evento_id": "sabatina-jn-flavio-2026-08-28",
+  "candidato": "flavio-bolsonaro",
+  "lado": "oposicao-flavio-pl",
+  "minuto": null,
+  "frase_literal": "Mais de 32 milhões de pessoas não votaram em 2022.",
+  "literal": false,
+  "tema": "eleicao-2026",
+  "veredito": "verdadeiro",
+  "resumo_uma_frase": "O TSE registrou 32,7 milhões de abstenções no 1º turno de 2022.",
+  "explicacao_simples": [
+    "Flávio Bolsonaro, na sabatina do Jornal Nacional (28/8/2026), afirmou (em paráfrase registrada por Ranking dos Políticos) que mais de 32 milhões de pessoas não votaram em 2022.",
+    "Segundo o TSE, 32,7 milhões de eleitores se abstiveram no 1º turno de 2022 (32,2 milhões no 2º).",
+    "Os dados disponíveis confirmam a afirmação, por isso ela é classificada como verdadeira."
+  ],
+  "o_que_e_verdade": [
+    "32,7 milhões de abstenções no 1º turno de 2022."
+  ],
+  "o_que_nao_se_sustenta": [],
+  "numeros": [
+    {
+      "rotulo": "Abstenções no 1º turno",
+      "valor": 32.7,
+      "unidade": "milhões de eleitores",
+      "periodo": "2022",
+      "fonte": {
+        "nome": "Ranking dos Políticos",
+        "url": "https://ranking.org.br/en/articles/veja-o-que-e-fato-e-o-que-e-fake-na-sabatina-de-flavio-bolsonaro-no-jornal-nacional",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      }
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Ranking dos Políticos",
+      "veredito_original": "VERDADEIRA",
+      "url": "https://ranking.org.br/en/articles/veja-o-que-e-fato-e-o-que-e-fake-na-sabatina-de-flavio-bolsonaro-no-jornal-nacional",
+      "data": "2026-08-29"
+    }
+  ],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Ranking dos Políticos",
+      "url": "https://ranking.org.br/en/articles/veja-o-que-e-fato-e-o-que-e-fake-na-sabatina-de-flavio-bolsonaro-no-jornal-nacional",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
+  "atualizado_em": "2026-10-21"
+}

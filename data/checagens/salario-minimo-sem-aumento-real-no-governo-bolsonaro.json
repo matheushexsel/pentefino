@@ -1,0 +1,280 @@
+{
+  "id": "chk-1016",
+  "slug": "salario-minimo-sem-aumento-real-no-governo-bolsonaro",
+  "frase": "No governo Bolsonaro o salário mínimo ficou quatro anos sem aumento real",
+  "frase_normalizada": "Entre 2019 e 2022 o salário mínimo só foi corrigido pela inflação, sem ganho real",
+  "variantes": [
+    "Bolsonaro acabou com a política de valorização do salário mínimo",
+    "Quatro anos sem aumento real do mínimo"
+  ],
+  "autor": {
+    "nome": "frase que circula nas redes",
+    "partido": null,
+    "cargo": null
+  },
+  "lado": "ambos",
+  "alvo": {
+    "nome": "Jair Bolsonaro (governo 2019-2022)",
+    "partido": "PL"
+  },
+  "data": null,
+  "onde": "Redes sociais, material sindical e falas de campanha de 2026",
+  "url_declaracao": null,
+  "temas": [
+    "emprego-renda",
+    "direitos-sociais"
+  ],
+  "tags": [
+    "salario-minimo",
+    "dieese",
+    "inpc",
+    "politica-de-valorizacao"
+  ],
+  "veredito": "verdadeiro-mas",
+  "resumo_uma_frase": "O DIEESE registra que de 2019 a 2022 houve 'somente o repasse anual da inflação passada, sem aumento real' e que a lei de valorização deixou de existir após o reajuste de jan/2019; a ressalva é que o reajuste de 2019 (R$ 998) ainda teve ganho real de 1,14% pela regra herdada, e os de 2021-2022 ficaram praticamente iguais ao INPC (+0,01% e +0,02%).",
+  "explicacao_simples": [
+    "Depois do reajuste de janeiro de 2019, calculado ainda pela regra da lei de Dilma, não existiu mais política legal de valorização do salário mínimo até 2023, segundo o DIEESE.",
+    "Os reajustes de 2020, 2021 e 2022 apenas repuseram a inflação, com ganhos reais de 0,39%, 0,01% e 0,02%, e o poder de compra em cestas básicas caiu de 2,04 em 2019 para 1,59 em 2022.",
+    "A regra foi retomada em 2023 e, desde a lei do arcabouço, o ganho real fica limitado entre 0,6% e 2,5% ao ano."
+  ],
+  "explicacao_completa_md": "## Reajustes e ganho real (DIEESE, NT 283)\n\n- jan/2019: R$ 998 (+1,14% real, regra INPC + PIB da Lei 13.152/2015)\n- jan/2020: R$ 1.039 (−0,36%) e fev/2020: R$ 1.045 (+0,39%)\n- jan/2021: R$ 1.100 (+0,01%)\n- jan/2022: R$ 1.212 (+0,02%)\n- jan/2023: R$ 1.302 (+1,41%) e mai/2023: R$ 1.320\n- jan/2024: R$ 1.412 (+4,69%)\n- jan/2025: R$ 1.518 (+2,61%)\n- jan/2026: R$ 1.621 (+2,5%, teto da Lei 15.077/2024)\n\nO DIEESE afirma: 'depois do reajuste de janeiro de 2019, do ponto de vista legal, não existe mais política voltada para o salário mínimo' e, de 2019 a 2022, houve 'somente o repasse anual da inflação passada, sem aumento real'. Fontes sindicais (Brasil de Fato/CUT) registram que a LDO 2022 confirmou o fim da política e que o reajuste de 2021 (5,26%) ficou abaixo do INPC (5,45%).\n\n## Poder de compra\n\nCestas básicas de São Paulo compradas com um mínimo (média anual): 2019 2,04 | 2020 1,88 | 2021 1,68 | 2022 1,59 (mínimo recente) | 2023 1,71 | 2024 1,74 | jan/2025 1,80 | jan/2026 1,93. Os alimentos subiram 44,3% entre 2020 e 2022.\n\n## Simetria\n\nA Lei 15.077/2024, do governo Lula, limitou o ganho real a 2,5%: sem o teto, o mínimo de 2026 seria R$ 1.636, R$ 15 a mais.",
+  "o_que_e_verdade": [
+    "De 2020 a 2022 os reajustes do mínimo só repuseram a inflação (ganhos reais de 0,39%, 0,01% e 0,02% pelo DIEESE); a política legal de valorização deixou de existir após jan/2019.",
+    "O poder de compra em cestas básicas caiu de 2,04 (2019) para 1,59 (2022), menor valor recente.",
+    "A Lei 14.663/2023 retomou a regra (INPC + PIB de dois anos antes) e o mínimo teve ganho real de 4,69% em 2024."
+  ],
+  "o_que_nao_se_sustenta": [
+    "O reajuste de jan/2019 (primeiro do governo Bolsonaro) teve ganho real de 1,14%, calculado pela lei anterior — portanto não foram exatamente 'quatro anos' sem nenhum ganho.",
+    "Em 2017 e 2018 (Temer) o mínimo também perdeu valor real (−0,10% e −0,25%); a estagnação não começou em 2019.",
+    "O governo Lula limitou o ganho real a 2,5% ao ano pela lei do arcabouço (R$ 15 a menos em 2026)."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Governo Bolsonaro (LDOs 2020-2022)",
+      "papel": "optou por reajustes apenas pelo INPC após o fim da Lei 13.152/2015",
+      "peso": "alto"
+    },
+    {
+      "ator": "Congresso Nacional",
+      "papel": "aprovou as LDOs sem regra de valorização em 2020-2022 e a Lei 14.663/2023 e a Lei 15.077/2024",
+      "peso": "alto"
+    },
+    {
+      "ator": "Governo Lula 3",
+      "papel": "retomou a valorização (2023) e depois a limitou a 2,5% (2024)",
+      "peso": "medio"
+    },
+    {
+      "ator": "Inflação de alimentos 2020-2022 (+44,3%)",
+      "papel": "corroeu o poder de compra mesmo com reposição do INPC",
+      "peso": "medio"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Ganho real do mínimo em jan/2019",
+      "valor": 1.14,
+      "unidade": "%",
+      "periodo": "jan/2019 (R$ 998)",
+      "fonte": {
+        "nome": "DIEESE – Nota Técnica 283, salário mínimo 2025 (jan/2025)",
+        "url": "https://www.dieese.org.br/notatecnica/2025/notaTec283salarioMinimo.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Ganho real do mínimo em fev/2020",
+      "valor": 0.39,
+      "unidade": "%",
+      "periodo": "fev/2020 (R$ 1.045)",
+      "fonte": {
+        "nome": "DIEESE – Nota Técnica 283, salário mínimo 2025 (jan/2025)",
+        "url": "https://www.dieese.org.br/notatecnica/2025/notaTec283salarioMinimo.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      "comparacao": {
+        "rotulo": "jan/2020 (R$ 1.039)",
+        "valor": -0.36
+      }
+    },
+    {
+      "rotulo": "Ganho real do mínimo em jan/2021",
+      "valor": 0.01,
+      "unidade": "%",
+      "periodo": "jan/2021 (R$ 1.100)",
+      "fonte": {
+        "nome": "DIEESE – Nota Técnica 283, salário mínimo 2025 (jan/2025)",
+        "url": "https://www.dieese.org.br/notatecnica/2025/notaTec283salarioMinimo.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Ganho real do mínimo em jan/2022",
+      "valor": 0.02,
+      "unidade": "%",
+      "periodo": "jan/2022 (R$ 1.212)",
+      "fonte": {
+        "nome": "DIEESE – Nota Técnica 283, salário mínimo 2025 (jan/2025)",
+        "url": "https://www.dieese.org.br/notatecnica/2025/notaTec283salarioMinimo.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Ganho real do mínimo em jan/2024",
+      "valor": 4.69,
+      "unidade": "%",
+      "periodo": "jan/2024 (R$ 1.412)",
+      "fonte": {
+        "nome": "DIEESE – Nota Técnica 283, salário mínimo 2025 (jan/2025)",
+        "url": "https://www.dieese.org.br/notatecnica/2025/notaTec283salarioMinimo.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      "comparacao": {
+        "rotulo": "jan/2023 (R$ 1.302)",
+        "valor": 1.41
+      }
+    },
+    {
+      "rotulo": "Cestas básicas compradas com um mínimo (SP, média anual)",
+      "valor": 1.59,
+      "unidade": "cestas",
+      "periodo": "2022",
+      "fonte": {
+        "nome": "DIEESE – Nota Técnica 283, salário mínimo 2025 (jan/2025)",
+        "url": "https://www.dieese.org.br/notatecnica/2025/notaTec283salarioMinimo.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      "comparacao": {
+        "rotulo": "2019",
+        "valor": 2.04
+      }
+    },
+    {
+      "rotulo": "Salário mínimo de 2026",
+      "valor": 1621,
+      "unidade": "R$",
+      "periodo": "jan/2026",
+      "fonte": {
+        "nome": "DIEESE – Nota Técnica 289, salário mínimo 2026 (22/12/2025)",
+        "url": "https://www.dieese.org.br/notatecnica/2025/notaTec289salarioMinimo.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      "comparacao": {
+        "rotulo": "Sem o teto de 2,5% do arcabouço",
+        "valor": 1636
+      }
+    },
+    {
+      "rotulo": "Alta dos preços dos alimentos",
+      "valor": 44.3,
+      "unidade": "%",
+      "periodo": "2020-2022",
+      "fonte": {
+        "nome": "DIEESE – Nota Técnica 289, salário mínimo 2026 (22/12/2025)",
+        "url": "https://www.dieese.org.br/notatecnica/2025/notaTec289salarioMinimo.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Ganho real acumulado do mínimo",
+      "valor": 94.7,
+      "unidade": "%",
+      "periodo": "2002-2025",
+      "fonte": {
+        "nome": "DIEESE – Nota Técnica 283, salário mínimo 2025 (jan/2025)",
+        "url": "https://www.dieese.org.br/notatecnica/2025/notaTec283salarioMinimo.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      "comparacao": null
+    }
+  ],
+  "series": [
+    "salario-minimo-nominal",
+    "salario-minimo-ganho-real",
+    "ipca-anual",
+    "salario-minimo-cestas-basicas"
+  ],
+  "checagens_externas": [
+    {
+      "veiculo": "Lupa",
+      "veredito_original": "EXAGERADO para 'o mínimo comprava 1,8 cesta com Bolsonaro e 2,2 hoje' (Lula): 1,62 em ago/2022 e 1,8 em ago/2026",
+      "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+      "data": "2026-10-18"
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "DIEESE – Nota Técnica 283, salário mínimo 2025 (jan/2025)",
+      "url": "https://www.dieese.org.br/notatecnica/2025/notaTec283salarioMinimo.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    },
+    {
+      "nome": "DIEESE – Nota Técnica 289, salário mínimo 2026 (22/12/2025)",
+      "url": "https://www.dieese.org.br/notatecnica/2025/notaTec289salarioMinimo.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    },
+    {
+      "nome": "Brasil de Fato – Com LDO, governo Bolsonaro acaba de vez com política de valorização do salário mínimo (21/07/2021)",
+      "url": "https://www.brasildefato.com.br/2021/07/21/com-ldo-governo-bolsonaro-acaba-de-vez-com-politica-de-valorizacao-do-salario-minimo/",
+      "acesso_em": "2026-10-21",
+      "tier": "partidario"
+    },
+    {
+      "nome": "Lupa – Checagem ao vivo do debate Lula x Flávio Bolsonaro na Band (18/10/2026)",
+      "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/03_emprego_renda_pobreza_social.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "O que é a política de valorização do mínimo?",
+      "resposta": "Regra negociada em 2007 e transformada em lei (11.709/2008, 12.382/2011, 13.152/2015): reajuste pelo INPC mais o crescimento do PIB de dois anos antes. Vigorou até 2019, foi retomada em 2023 (Lei 14.663) e limitada em 2024 (Lei 15.077)."
+    },
+    {
+      "pergunta": "Quantas pessoas dependem do mínimo?",
+      "resposta": "61,9 milhões têm renda referenciada no piso (DIEESE, dez/2025): 29,3 milhões de beneficiários do INSS, 17,7 milhões de empregados, 10,8 milhões de conta-própria e 3,9 milhões de domésticos."
+    },
+    {
+      "pergunta": "Quanto custa cada real de aumento?",
+      "resposta": "Cerca de R$ 380,5 milhões por ano à Previdência (DIEESE) ou R$ 429,3 milhões (estimativa do governo); o reajuste de R$ 103 em 2026 custa R$ 39,1 bilhões ao ano."
+    },
+    {
+      "pergunta": "O mínimo de hoje compra mais que em 2022?",
+      "resposta": "Sim: 1,93 cesta básica de São Paulo em jan/2026 contra 1,59 na média de 2022, mas ainda abaixo do pico de 2,13 em 2012."
+    }
+  ],
+  "relacionadas": [
+    "salario-minimo-compra-2-2-cestas-basicas",
+    "salario-minimo-de-3-mil-reais",
+    "inflacao-dos-alimentos-disparou",
+    "bolsonaro-deu-600-reais-do-auxilio"
+  ],
+  "lacunas": [
+    "Para 2021, o DIEESE (NT 283) registra +0,01% real enquanto fontes sindicais falam em reajuste abaixo do INPC; a nota usa o DIEESE. Para 2024, a NT 283 traz +4,69% e a NT 289 +5,64% (bases de INPC diferentes)."
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false
+}

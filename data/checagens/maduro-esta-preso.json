@@ -1,0 +1,129 @@
+{
+  "id": "chk-2045",
+  "slug": "maduro-esta-preso",
+  "frase": "Maduro está preso, e Lula mandou o vice à posse do ditador do Irã.",
+  "frase_normalizada": "maduro esta preso e lula mandou o vice a posse do ditador do ira",
+  "variantes": [],
+  "autor": {
+    "nome": "Flávio Bolsonaro",
+    "partido": "PL",
+    "cargo": "senador (RJ) e candidato à Presidência"
+  },
+  "lado": "oposicao-flavio-pl",
+  "alvo": {
+    "nome": "Luiz Inácio Lula da Silva",
+    "partido": "PT"
+  },
+  "data": "2026-10-18",
+  "onde": "Debate da Band (consórcio Band/Cultura/Gazeta/Jovem Pan/Estadão), São Paulo",
+  "url_declaracao": "https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026",
+  "temas": [
+    "relacoes-exteriores",
+    "eleicao-2026"
+  ],
+  "tags": [
+    "relacoes-exteriores",
+    "eleicao-2026"
+  ],
+  "veredito": "verdadeiro",
+  "resumo_uma_frase": "Nicolás Maduro foi capturado pelos EUA em janeiro de 2026 e Geraldo Alckmin representou o Brasil na posse presidencial do Irã em 2024; o Ranking dos Políticos classificou como verdadeiro.",
+  "explicacao_simples": [
+    "Maduro foi capturado pelos Estados Unidos em janeiro de 2026.",
+    "O vice Geraldo Alckmin representou o Brasil na posse do presidente do Irã em 2024.",
+    "O Ranking dos Políticos confirmou os dois fatos; a qualificação 'ditador' é avaliação política, embora especialistas descrevam o regime venezuelano como autoritário."
+  ],
+  "explicacao_completa_md": "O Ranking dos Políticos classificou como VERDADEIRO. Sobre a Venezuela, especialistas ouvidos pela CNN Brasil (nota 11) classificam o regime Chávez/Maduro como 'autoritarismo competitivo' e esquerda radical, com ruptura democrática ao não divulgar atas eleitorais em 2024; nenhum dos quatro especialistas o chama de 'comunista'. Eduardo Bolsonaro usou a prisão de Maduro para dizer que Lula 'segue os passos' dele, e Flávio publicou em 03/01/2026 que Lula 'será delatado', o que gerou inquérito por calúnia.",
+  "o_que_e_verdade": [
+    "Maduro foi capturado pelos EUA (jan/2026).",
+    "Alckmin representou o Brasil na posse iraniana de 2024."
+  ],
+  "o_que_nao_se_sustenta": [
+    "Nada factual; a implicação de ligação de Lula com Maduro não tem base e é tratada em checagem própria."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Governo Lula (Itamaraty)",
+      "papel": "enviou o vice-presidente à posse no Irã (2024)",
+      "peso": "medio"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Ano da captura de Maduro pelos EUA",
+      "valor": 2026,
+      "unidade": "ano (janeiro)",
+      "periodo": "jan/2026",
+      "fonte": {
+        "nome": "Ranking dos Políticos",
+        "url": "https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Ano da posse iraniana com presença de Alckmin",
+      "valor": 2024,
+      "unidade": "ano",
+      "periodo": "2024",
+      "fonte": {
+        "nome": "Ranking dos Políticos",
+        "url": "https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": null
+    }
+  ],
+  "series": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Ranking dos Políticos",
+      "veredito_original": "VERDADEIRO",
+      "url": "https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026",
+      "data": "2026-10-18"
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Ranking dos Políticos",
+      "url": "https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "CNN Brasil (especialistas sobre o governo Maduro)",
+      "url": "https://www.cnnbrasil.com.br/internacional/o-que-faz-o-governo-maduro-ser-de-extrema-esquerda-especialistas-explicam/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/09_acusacoes_e_falas_flavio_x_lula.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "Maduro foi preso por quem?",
+      "resposta": "Capturado pelos Estados Unidos em janeiro de 2026, segundo o Ranking dos Políticos."
+    },
+    {
+      "pergunta": "O Brasil mandou representante à posse no Irã?",
+      "resposta": "Sim, o vice-presidente Geraldo Alckmin, em 2024."
+    },
+    {
+      "pergunta": "Isso prova ligação de Lula com ditaduras?",
+      "resposta": "Não. Representação diplomática em posses é prática de Estado; a acusação de que Lula 'será delatado' por Maduro gerou inquérito por calúnia contra Flávio."
+    }
+  ],
+  "relacionadas": [
+    "lula-sera-delatado-por-maduro",
+    "brasil-vai-virar-venezuela",
+    "lula-e-o-pt-sao-comunistas"
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false
+}

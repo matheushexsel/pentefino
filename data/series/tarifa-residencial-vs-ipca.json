@@ -1,0 +1,68 @@
+{
+  "id": "tarifa-residencial-vs-ipca",
+  "titulo": "Tarifa residencial de energia x inflação (variação acumulada)",
+  "descricao_simples": "Quanto a tarifa residencial de energia subiu em diferentes janelas de tempo, comparada ao IPCA do mesmo período.",
+  "unidade": "% acumulado no período",
+  "tipo_grafico": "barra",
+  "frequencia": "anual",
+  "fonte": {
+    "nome": "Poder360/Abraceel – Tarifa de energia sobe 45% acima da inflação em 15 anos (09/06/2025)",
+    "url": "https://www.poder360.com.br/poder-energia/tarifa-de-energia-eletrica-sobe-45-acima-da-inflacao-em-15-anos/",
+    "acesso_em": "2026-10-21",
+    "tier": "imprensa"
+  },
+  "pontos": [
+    {
+      "periodo": "2001–2019",
+      "valor": 230,
+      "rotulo": "Tarifa média nominal (cálculo ANEEL)"
+    },
+    {
+      "periodo": "2003–2024",
+      "valor": 269,
+      "rotulo": "Tarifa residencial (Abraceel)"
+    },
+    {
+      "periodo": "2010–2024",
+      "valor": 177,
+      "rotulo": "Mercado regulado, R$ 112 → R$ 310/MWh (Abraceel)"
+    }
+  ],
+  "faixas_referencia": [
+    {
+      "rotulo": "IPCA 2001–2019",
+      "valor": 189
+    },
+    {
+      "rotulo": "IPCA 2003–2024",
+      "valor": 218
+    },
+    {
+      "rotulo": "IPCA 2010–2024",
+      "valor": 122
+    },
+    {
+      "rotulo": "Mercado livre 2003–2024",
+      "valor": 90
+    },
+    {
+      "rotulo": "Mercado livre 2010–2024 (R$ 102 → R$ 147/MWh)",
+      "valor": 44
+    }
+  ],
+  "notas_metodologicas": [
+    "Cada ponto é uma janela acumulada distinta, de fontes distintas: 2001–2019 é cálculo da ANEEL divulgado pela Agência iNFRA (03/05/2019); 2003–2024 e 2010–2024 são do estudo da Abraceel (associação de comercializadores, 09/06/2025). Compare cada barra apenas com a faixa de IPCA da mesma janela.",
+    "Efeitos médios anuais recentes (ANEEL InfoTarifa): 2025 = 7,0% contra IPCA de 4,4% e IGP-M de -0,5%; projeção para 2026 = 8,6% (jun/2026, contra IPCA de 4,9%), elevada a 9,4% na edição de set/2026.",
+    "UFRJ/GESEL: aumento real de 71% na tarifa residencial média entre 1995 e 2022.",
+    "Em 2006–2007 a tarifa residencial média caiu de R$ 294,91 para R$ 293,59/MWh (ANEEL via Acende Brasil)."
+  ],
+  "ultimo_periodo": "2010–2024",
+  "temas": [
+    "energia"
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/06_energia_eletrobras_combustiveis.md",
+  "atualizado_em": "2026-10-21",
+  "lacunas": [
+    "Série oficial ANEEL de tarifa residencial média por ano (2003–2026, R$/MWh) não foi obtida; o gráfico do InfoTarifa dez/2025 traz acumulados 2010–2025 (281%, 165%, 139%, 133%, 132%, 127%, 99%) cuja associação a cada rótulo não pôde ser confirmada."
+  ]
+}

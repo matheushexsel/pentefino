@@ -1,0 +1,84 @@
+{
+  "id": "participacao-forca-trabalho",
+  "titulo": "Taxa de participação na força de trabalho e nível de ocupação",
+  "descricao_simples": "Parcela da população em idade de trabalhar que está trabalhando ou procurando trabalho (participação) e parcela que está ocupada (nível de ocupação).",
+  "unidade": "% da população em idade de trabalhar",
+  "tipo_grafico": "linha",
+  "frequencia": "trimestral",
+  "fonte": {
+    "nome": "IBGE/SIDRA, tabela 4093",
+    "url": "https://apisidra.ibge.gov.br/values/t/4093/n1/all/v/4096,4097/p/all",
+    "acesso_em": "2026-10-21",
+    "tier": "oficial"
+  },
+  "pontos": [
+    {
+      "periodo": "4T2012",
+      "valor": 62.7
+    },
+    {
+      "periodo": "4T2014",
+      "valor": 62.3,
+      "nivel_ocupacao": 58.2
+    },
+    {
+      "periodo": "4T2016",
+      "valor": 62.6,
+      "nivel_ocupacao": 55.0
+    },
+    {
+      "periodo": "4T2018",
+      "valor": 63.2
+    },
+    {
+      "periodo": "4T2019",
+      "valor": 63.4,
+      "nivel_ocupacao": 56.4
+    },
+    {
+      "periodo": "4T2020",
+      "valor": 59.4,
+      "nivel_ocupacao": 51.0
+    },
+    {
+      "periodo": "4T2022",
+      "valor": 62.0,
+      "nivel_ocupacao": 57.1
+    },
+    {
+      "periodo": "4T2024",
+      "valor": 62.6,
+      "nivel_ocupacao": 58.7
+    },
+    {
+      "periodo": "4T2025",
+      "valor": 62.1,
+      "nivel_ocupacao": 58.9
+    },
+    {
+      "periodo": "2T2026",
+      "valor": 62.1,
+      "nivel_ocupacao": 58.8
+    }
+  ],
+  "faixas_referencia": [
+    {
+      "rotulo": "Média anual 2025",
+      "valor": 62.7
+    },
+    {
+      "rotulo": "Menor média anual (2020)",
+      "valor": 58.9
+    }
+  ],
+  "notas_metodologicas": [
+    "A participação em 2025–2026 (~62%) está abaixo do pico de 2019 (63,4%): parte da queda do desemprego vem também de menos gente procurando trabalho."
+  ],
+  "lacunas": [],
+  "ultimo_periodo": "2T2026",
+  "temas": [
+    "emprego-renda"
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/03_emprego_renda_pobreza_social.md",
+  "atualizado_em": "2026-10-21"
+}

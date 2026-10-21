@@ -1,0 +1,230 @@
+{
+  "id": "chk-3012",
+  "slug": "petrobras-define-o-preco-na-bomba",
+  "frase": "A Petrobras define o preço da gasolina e do diesel na bomba.",
+  "frase_normalizada": "a petrobras define o preço da gasolina e do diesel na bomba",
+  "variantes": [],
+  "autor": {
+    "nome": "Afirmação recorrente em redes sociais e no debate eleitoral (sem autor único identificado nas notas)",
+    "partido": null,
+    "cargo": null
+  },
+  "lado": "outro",
+  "alvo": {
+    "nome": "Petrobras",
+    "partido": null
+  },
+  "data": null,
+  "onde": "redes sociais",
+  "url_declaracao": null,
+  "temas": [
+    "combustiveis"
+  ],
+  "tags": [
+    "Petrobras",
+    "composição de preço",
+    "ICMS",
+    "margens"
+  ],
+  "veredito": "impreciso",
+  "resumo_uma_frase": "A Petrobras define só o preço de refinaria: em out/2026 vendia diesel a R$ 3,30/l e a bomba cobrava R$ 7,00; o resto é ICMS (R$ 1,17/l), tributos federais, biodiesel e margens de distribuição e revenda, além de haver Acelen e importadores.",
+  "explicacao_simples": [
+    "A Petrobras vende diesel às distribuidoras a R$ 3,30/l e gasolina a R$ 2,61/l, menos da metade dos R$ 7,00 e R$ 6,53 cobrados na bomba em outubro de 2026.",
+    "A diferença é ICMS (R$ 1,17 no diesel e R$ 1,57 na gasolina, fixados pelo Confaz), tributos federais, mistura de biocombustível e margens de distribuidoras e postos.",
+    "Além disso, a Acelen e importadores vendem a preços próximos ao internacional e respondem por mais de 25% do diesel."
+  ],
+  "explicacao_completa_md": "## Preço de refinaria vs. bomba (out/2026)\n- Diesel: Petrobras R$ 3,30/l (desde 01/06/2026) vs bomba R$ 7,00 (S500) e R$ 7,34 (S10).\n- Gasolina: Petrobras R$ 2,57–2,61/l (mai/2026) vs bomba R$ 6,53.\n- ICMS (Confaz, 2026): R$ 1,57/l gasolina; R$ 1,17/l diesel.\n- Tributos federais na gasolina: carga cheia de ~R$ 0,79/l (zerada por 30 dias desde 09/10/2026).\n- Mistura: 16% de biodiesel desde 01/03/2026; etanol anidro de 22% a 35%.\n- Margens de distribuição e revenda: definidas pelo mercado; a ANP apenas pesquisa preços.\n\n## Veredito\n**Impreciso.** A Petrobras é o maior ofertante e seu preço de refinaria é a base, mas não define o preço final nem é a única fornecedora.",
+  "o_que_e_verdade": [
+    "A Petrobras é a maior ofertante e seu preço de refinaria é a base do preço final; em 2026 sua decisão de vender abaixo da paridade manteve a bomba estável."
+  ],
+  "o_que_nao_se_sustenta": [
+    "Menos da metade do preço do diesel na bomba é a parcela da Petrobras; ICMS, tributos federais, biocombustível e margens são decididos por outros atores."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Petrobras",
+      "papel": "preço de refinaria",
+      "peso": "alto"
+    },
+    {
+      "ator": "Estados (Confaz)",
+      "papel": "ICMS fixo por litro",
+      "peso": "medio"
+    },
+    {
+      "ator": "Governo federal",
+      "papel": "PIS/Cofins/Cide e subvenções",
+      "peso": "medio"
+    },
+    {
+      "ator": "Distribuidoras e postos",
+      "papel": "margens",
+      "peso": "medio"
+    },
+    {
+      "ator": "Acelen e importadores",
+      "papel": "mais de 25% do diesel",
+      "peso": "baixo"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Diesel vendido pela Petrobras às distribuidoras",
+      "valor": 3.3,
+      "unidade": "R$/l",
+      "periodo": "desde 01/06/2026",
+      "fonte": {
+        "nome": "eixos – Como fica o alívio aos combustíveis com o fim da desoneração e o novo modelo de subsídio (01/06/2026)",
+        "url": "https://eixos.com.br/newsletters/comece-seu-dia/como-fica-o-alivio-aos-combustiveis-com-o-fim-da-desoneracao-e-o-novo-modelo-de-subsidio/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "Diesel S500 na bomba (11–17/10/2026)",
+        "valor": 7.0
+      }
+    },
+    {
+      "rotulo": "Gasolina vendida pela Petrobras",
+      "valor": 2.61,
+      "unidade": "R$/l",
+      "periodo": "mai/2026",
+      "fonte": {
+        "nome": "novaCana/CNN – Preço da gasolina mantém estabilidade ao longo da guerra com subsídios (13/10/2026)",
+        "url": "https://www.novacana.com/noticias/preco-da-gasolina-mantem-estabilidade-ao-longo-da-guerra-com-subsidios",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "Gasolina comum na bomba (11–17/10/2026)",
+        "valor": 6.53
+      }
+    },
+    {
+      "rotulo": "ICMS por litro de diesel",
+      "valor": 1.17,
+      "unidade": "R$/l",
+      "periodo": "2026",
+      "fonte": {
+        "nome": "Diário do Comércio – ICMS da gasolina e do diesel sobe em 2026",
+        "url": "https://diariodocomercio.com.br/economia/icms-gasolina-diesel-subir-2026-veja-novos-valores/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "Gasolina",
+        "valor": 1.57
+      }
+    },
+    {
+      "rotulo": "Carga federal cheia na gasolina",
+      "valor": 0.79,
+      "unidade": "R$/l (aprox.)",
+      "periodo": "2026",
+      "fonte": {
+        "nome": "Governo Federal – Release de 09/09/2026 sobre medidas para combustíveis (PDF)",
+        "url": "https://static.poder360.com.br/uploads/2026/09/0909-Release-Governo-Federal-adota-novas-medidas-para-combustiveis-apos-novos-aumentos-do-petroleo.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    {
+      "rotulo": "Diesel importado no consumo nacional",
+      "valor": 25,
+      "unidade": "% (mais de)",
+      "periodo": "2026",
+      "fonte": {
+        "nome": "Governo Federal – Release de 09/09/2026 sobre medidas para combustíveis (PDF)",
+        "url": "https://static.poder360.com.br/uploads/2026/09/0909-Release-Governo-Federal-adota-novas-medidas-para-combustiveis-apos-novos-aumentos-do-petroleo.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    {
+      "rotulo": "Mistura de biodiesel",
+      "valor": 16,
+      "unidade": "%",
+      "periodo": "desde 01/03/2026",
+      "fonte": {
+        "nome": "Planalto – Lei 14.993/2024 (Combustível do Futuro)",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/L14993.htm",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    }
+  ],
+  "series": [
+    "diesel-preco-anual",
+    "gasolina-preco-anual"
+  ],
+  "checagens_externas": [],
+  "fontes": [
+    {
+      "nome": "eixos – Como fica o alívio aos combustíveis com o fim da desoneração e o novo modelo de subsídio (01/06/2026)",
+      "url": "https://eixos.com.br/newsletters/comece-seu-dia/como-fica-o-alivio-aos-combustiveis-com-o-fim-da-desoneracao-e-o-novo-modelo-de-subsidio/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "novaCana/CNN – Preço da gasolina mantém estabilidade ao longo da guerra com subsídios (13/10/2026)",
+      "url": "https://www.novacana.com/noticias/preco-da-gasolina-mantem-estabilidade-ao-longo-da-guerra-com-subsidios",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "ANP – Resumo semanal do Levantamento de Preços, 11 a 17/10/2026 (xlsx)",
+      "url": "https://www.gov.br/anp/pt-br/assuntos/precos-e-defesa-da-concorrencia/precos/arquivos-lpc/2026/resumo_semanal_lpc_2026_10_11-2026_10_17.xlsx",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Diário do Comércio – ICMS da gasolina e do diesel sobe em 2026",
+      "url": "https://diariodocomercio.com.br/economia/icms-gasolina-diesel-subir-2026-veja-novos-valores/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Governo Federal – Release de 09/09/2026 sobre medidas para combustíveis (PDF)",
+      "url": "https://static.poder360.com.br/uploads/2026/09/0909-Release-Governo-Federal-adota-novas-medidas-para-combustiveis-apos-novos-aumentos-do-petroleo.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Planalto – Lei 14.993/2024 (Combustível do Futuro)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/L14993.htm",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Money Times/Abicom – Queda do petróleo não alivia diesel; defasagem abre semana em 58% (jul/2026)",
+      "url": "https://www.moneytimes.com.br/abicom-queda-do-petroleo-nao-alivia-diesel-e-defasagem-no-brasil-abre-semana-em-58/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/06_energia_eletrobras_combustiveis.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "O presidente da República define o preço?",
+      "resposta": "Não diretamente. A União controla a Petrobras e indica sua direção, e o governo federal mexe em tributos federais e subvenções; o ICMS é do Confaz e as margens são do mercado."
+    }
+  ],
+  "relacionadas": [
+    "gasolina-mais-cara-do-mundo",
+    "governador-aumentou-o-icms-da-gasolina",
+    "lula-segura-o-preco-da-gasolina"
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false,
+  "lacunas": [
+    "Autoria, data e local da declaração não documentados nas notas; a checagem trata a afirmação em sua forma recorrente.",
+    "Decomposição oficial percentual do preço (Petrobras 'Composição de preços') não aberta.",
+    "Checagens já publicadas por Aos Fatos, Lupa, Estadão Verifica e Comprova sobre o tema não foram consultadas (cota de busca esgotada); cruzar antes da publicação."
+  ]
+}

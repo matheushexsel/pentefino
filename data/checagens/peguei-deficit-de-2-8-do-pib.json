@@ -1,0 +1,247 @@
+{
+  "id": "chk-1028",
+  "slug": "peguei-deficit-de-2-8-do-pib",
+  "frase": "Eu peguei o país com déficit de 2,8% do PIB",
+  "frase_normalizada": "O governo Lula 3 herdou déficit primário de 2,8% do PIB",
+  "variantes": [
+    "Herdei um déficit de quase 3% do PIB"
+  ],
+  "autor": {
+    "nome": "Luiz Inácio Lula da Silva",
+    "partido": "PT",
+    "cargo": "presidente da República e candidato à reeleição"
+  },
+  "lado": "governo-lula-pt",
+  "alvo": {
+    "nome": "Jair Bolsonaro (governo 2019-2022)",
+    "partido": "PL"
+  },
+  "data": "2026-10-15",
+  "onde": "Entrevista à TV Globo (15/10/2026)",
+  "url_declaracao": "https://www.agencialupa.org/checagem/2026/10/15/ao-vivo-checagem-da-entrevista-de-lula-na-tv-globo/",
+  "temas": [
+    "contas-publicas",
+    "eleicao-2026"
+  ],
+  "tags": [
+    "deficit-primario",
+    "tesouro",
+    "2022",
+    "2023"
+  ],
+  "veredito": "falso",
+  "resumo_uma_frase": "Em 2022, último ano do governo Bolsonaro, o governo central teve superávit primário (R$ 46,4 bilhões, 0,46% do PIB, pelo Tesouro; R$ 54,1 bilhões, 0,5%, pela Lupa) e o setor público consolidado superávit de 1,25%; o déficit de cerca de 2% do PIB (R$ 228,5 bilhões) é o de 2023, primeiro ano de Lula 3, inflado por R$ 92,4 bilhões de precatórios.",
+  "explicacao_simples": [
+    "O ano de 2022 fechou com superávit primário do governo central de R$ 46,4 bilhões, ou 0,46% do PIB, segundo o Tesouro, e superávit de 1,25% do PIB no setor público consolidado.",
+    "O déficit de cerca de 2% do PIB, R$ 228,5 bilhões, ocorreu em 2023, primeiro ano do governo Lula 3, e inclui R$ 92,4 bilhões de precatórios atrasados pagos após decisão do STF.",
+    "A Lupa classificou a frase como falsa, embora o superávit de 2022 tenha sido ajudado por inflação alta, commodities, dividendos e pelo represamento de precatórios."
+  ],
+  "explicacao_completa_md": "## Os números (Tesouro, Série Histórica RTN)\n\nGoverno central: 2021 −R$ 35,1 bilhões (−0,39% do PIB); 2022 +R$ 46,4 bilhões (+0,46%; 'abaixo da linha' do BCB: +R$ 54,9 bilhões); 2023 −R$ 228,5 bilhões (−2,09%); 2024 −R$ 42,9 bilhões (−0,36%); 2025 −R$ 61,7 bilhões (−0,48%). Setor público consolidado (BCB): 2022 +1,25%; 2023 −2,28%.\n\n## Por que a frase não se sustenta\n\nO país não foi 'pego' com déficit: 2022 teve superávit. O déficit próximo de 2% é de 2023, já no mandato atual, e foi inflado pelo pagamento de R$ 92,4 bilhões em precatórios represados pela EC 113/2021 e liberados por decisão do STF. A Lupa classificou como FALSO.\n\n## Contexto que favorece o argumento de Lula\n\nO superávit de 2022 foi ajudado por inflação alta, commodities e dividendos, e pela PEC dos Precatórios (EC 113/2021), que adiou despesas para 2023; a PEC da Transição (EC 126/2022) autorizou R$ 145 bilhões fora do teto para 2023 para manter o Bolsa Família de R$ 600. Mesmo assim, a cifra de 2,8% não corresponde a nenhum ano recente: o maior déficit do governo central da série foi 2020 (−9,77%), e 2015-2016 tiveram −2,01% e −2,57%.",
+  "o_que_e_verdade": [
+    "O superávit de 2022 foi ajudado por fatores temporários (inflação, commodities, dividendos) e pelo adiamento de precatórios pela EC 113/2021.",
+    "O governo Bolsonaro teve o maior déficit da série em 2020 (−9,77% do PIB, pandemia) e déficits em 2019 e 2021."
+  ],
+  "o_que_nao_se_sustenta": [
+    "Em 2022 o governo central teve superávit de R$ 46,4 bilhões (0,46% do PIB) e o setor público consolidado superávit de 1,25%.",
+    "O déficit de ~2% do PIB é de 2023 (R$ 228,5 bilhões), já no governo Lula 3, com R$ 92,4 bilhões de precatórios.",
+    "Nenhum ano recente registra déficit de 2,8% do governo central; os mais próximos são 2016 (−2,57%) e 2023 (−2,09%)."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Governo Bolsonaro e Congresso (EC 113/2021)",
+      "papel": "adiaram precatórios para 2023, melhorando 2022 e piorando 2023",
+      "peso": "alto"
+    },
+    {
+      "ator": "Governo Lula 3 e Congresso (EC 126/2022, PEC da Transição)",
+      "papel": "R$ 145 bilhões fora do teto em 2023",
+      "peso": "alto"
+    },
+    {
+      "ator": "STF",
+      "papel": "decisão que liberou o pagamento de R$ 92,4 bilhões em precatórios em 2023",
+      "peso": "medio"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Resultado primário do governo central",
+      "valor": 46.408,
+      "unidade": "R$ bilhões",
+      "periodo": "2022",
+      "fonte": {
+        "nome": "Tesouro Nacional – Série Histórica RTN (planilha jul/2026)",
+        "url": "https://www.tesourotransparente.gov.br/ckan/dataset/ab56485b-9c40-4efb-8563-9ce3e1973c4b/resource/527ccdb1-3059-42f3-bf23-b5e3ab4c6dc6/download/seriehistoricajul26.xlsx",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "% do PIB",
+        "valor": 0.46
+      }
+    },
+    {
+      "rotulo": "Superávit de 2022 citado pela Lupa",
+      "valor": 54.1,
+      "unidade": "R$ bilhões",
+      "periodo": "2022",
+      "fonte": {
+        "nome": "Lupa – Checagem ao vivo da entrevista de Lula na TV Globo (15/10/2026)",
+        "url": "https://www.agencialupa.org/checagem/2026/10/15/ao-vivo-checagem-da-entrevista-de-lula-na-tv-globo/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": {
+        "rotulo": "% do PIB",
+        "valor": 0.5
+      }
+    },
+    {
+      "rotulo": "Resultado primário do governo central",
+      "valor": -228.499,
+      "unidade": "R$ bilhões",
+      "periodo": "2023",
+      "fonte": {
+        "nome": "Tesouro Nacional – Série Histórica RTN (planilha jul/2026)",
+        "url": "https://www.tesourotransparente.gov.br/ckan/dataset/ab56485b-9c40-4efb-8563-9ce3e1973c4b/resource/527ccdb1-3059-42f3-bf23-b5e3ab4c6dc6/download/seriehistoricajul26.xlsx",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "% do PIB",
+        "valor": -2.09
+      }
+    },
+    {
+      "rotulo": "Precatórios pagos em 2023 após decisão do STF",
+      "valor": 92.4,
+      "unidade": "R$ bilhões",
+      "periodo": "2023",
+      "fonte": {
+        "nome": "Agência Brasil – Setor público registra déficit de 0,4% do PIB em 2024 (31/01/2025)",
+        "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2025-01/banco-central-setor-publico-registra-deficit-de-04-do-pib-em-2024",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Resultado primário do setor público consolidado",
+      "valor": 1.25,
+      "unidade": "% do PIB",
+      "periodo": "2022",
+      "fonte": {
+        "nome": "Banco Central do Brasil – SGS 5793 (resultado primário do setor público, 12 meses, % PIB)",
+        "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.5793/dados?formato=json",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "2023",
+        "valor": -2.28
+      }
+    },
+    {
+      "rotulo": "Resultado primário do governo central",
+      "valor": -9.77,
+      "unidade": "% do PIB",
+      "periodo": "2020",
+      "fonte": {
+        "nome": "Tesouro Nacional – Série Histórica RTN (planilha jul/2026)",
+        "url": "https://www.tesourotransparente.gov.br/ckan/dataset/ab56485b-9c40-4efb-8563-9ce3e1973c4b/resource/527ccdb1-3059-42f3-bf23-b5e3ab4c6dc6/download/seriehistoricajul26.xlsx",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "2016",
+        "valor": -2.57
+      }
+    },
+    {
+      "rotulo": "Despesas fora do teto autorizadas pela PEC da Transição",
+      "valor": 145,
+      "unidade": "R$ bilhões",
+      "periodo": "2023",
+      "fonte": {
+        "nome": "Agência Brasil – Congresso promulga PEC da Transição (21/12/2022)",
+        "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2022-12/congresso-promulga-pec-da-transicao",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": null
+    }
+  ],
+  "series": [
+    "resultado-primario-pib",
+    "divida-bruta-pib",
+    "resultado-primario-governo-central-pib"
+  ],
+  "checagens_externas": [
+    {
+      "veiculo": "Lupa",
+      "veredito_original": "FALSO",
+      "url": "https://www.agencialupa.org/checagem/2026/10/15/ao-vivo-checagem-da-entrevista-de-lula-na-tv-globo/",
+      "data": "2026-10-15"
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Tesouro Nacional – Série Histórica RTN (planilha jul/2026)",
+      "url": "https://www.tesourotransparente.gov.br/ckan/dataset/ab56485b-9c40-4efb-8563-9ce3e1973c4b/resource/527ccdb1-3059-42f3-bf23-b5e3ab4c6dc6/download/seriehistoricajul26.xlsx",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Lupa – Checagem ao vivo da entrevista de Lula na TV Globo (15/10/2026)",
+      "url": "https://www.agencialupa.org/checagem/2026/10/15/ao-vivo-checagem-da-entrevista-de-lula-na-tv-globo/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Agência Brasil – Setor público registra déficit de 0,4% do PIB em 2024 (31/01/2025)",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2025-01/banco-central-setor-publico-registra-deficit-de-04-do-pib-em-2024",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Banco Central do Brasil – SGS 5793 (resultado primário do setor público, 12 meses, % PIB)",
+      "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.5793/dados?formato=json",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Agência Brasil – Congresso promulga PEC da Transição (21/12/2022)",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2022-12/congresso-promulga-pec-da-transicao",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/02_contas_publicas_divida.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "Qual foi o resultado fiscal de 2022?",
+      "resposta": "Superávit primário do governo central de R$ 46,4 bilhões (0,46% do PIB) pelo Tesouro e de 1,25% do PIB no setor público consolidado — o primeiro superávit do governo central desde 2013."
+    },
+    {
+      "pergunta": "Por que 2023 teve déficit tão grande?",
+      "resposta": "Pelo pagamento de R$ 92,4 bilhões em precatórios represados e pelas despesas da PEC da Transição (R$ 145 bilhões fora do teto); o déficit foi de R$ 228,5 bilhões (2,09% do PIB)."
+    },
+    {
+      "pergunta": "Qual governo teve o maior déficit?",
+      "resposta": "Bolsonaro em 2020 (−9,77% do PIB, pandemia); fora disso, Dilma em 2015-2016 (−2,01% e −2,57%) e Lula 3 em 2023 (−2,09%)."
+    }
+  ],
+  "relacionadas": [
+    "meta-fiscal-foi-cumprida",
+    "deficit-de-lula-70-por-cento-menor-que-o-de-bolsonaro",
+    "divida-publica-de-11-trilhoes"
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false
+}

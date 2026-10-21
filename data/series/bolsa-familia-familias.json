@@ -1,0 +1,129 @@
+{
+  "id": "bolsa-familia-familias",
+  "titulo": "Famílias atendidas pelo Bolsa Família / Auxílio Brasil",
+  "descricao_simples": "Quantas famílias recebiam o programa de transferência de renda em cada momento (valores aproximados conforme as fontes).",
+  "unidade": "milhões de famílias",
+  "tipo_grafico": "linha",
+  "frequencia": "anual",
+  "fonte": {
+    "nome": "MDS/Ministério da Cidadania via Wikipedia pt (Bolsa Família, com fontes UOL 2006 e Banco Mundial 2010), Agência Brasil, Correio Braziliense e Lupa",
+    "url": "https://pt.wikipedia.org/wiki/Bolsa_Fam%C3%ADlia",
+    "acesso_em": "2026-10-21",
+    "tier": "imprensa"
+  },
+  "pontos": [
+    {
+      "periodo": "2003",
+      "valor": 3.0,
+      "observacao": "pouco mais de 3 milhões (início do programa)",
+      "aproximado": true
+    },
+    {
+      "periodo": "2006",
+      "valor": 11.1,
+      "custo_r_bilhoes": 8.2,
+      "custo_pib_pct": 0.4
+    },
+    {
+      "periodo": "set/2010",
+      "valor": 12.7,
+      "observacao": "ao menos 12,7 milhões",
+      "aproximado": true
+    },
+    {
+      "periodo": "2012–2019",
+      "valor": 14.0,
+      "observacao": "~14 milhões estáveis de 2012 em diante",
+      "aproximado": true
+    },
+    {
+      "periodo": "mai/2020",
+      "valor": 14.33,
+      "observacao": "recorde de famílias",
+      "via_snippet": true
+    },
+    {
+      "periodo": "jun/2020",
+      "valor": 14.2,
+      "via_snippet": true
+    },
+    {
+      "periodo": "out/2021",
+      "valor": 14.7,
+      "observacao": "último mês antes do Auxílio Brasil",
+      "via_snippet": true
+    },
+    {
+      "periodo": "nov/2021",
+      "valor": 14.5,
+      "programa": "Auxílio Brasil",
+      "observacao": "mais de 14,5 milhões; ~R$ 400 em média"
+    },
+    {
+      "periodo": "abr/2022",
+      "valor": 18.06,
+      "programa": "Auxílio Brasil",
+      "via_snippet": true
+    },
+    {
+      "periodo": "2023",
+      "valor": 21.0,
+      "programa": "novo Bolsa Família",
+      "beneficio_medio_r": 680
+    },
+    {
+      "periodo": "2024",
+      "valor": 20.8,
+      "programa": "novo Bolsa Família",
+      "beneficio_medio_r": 682
+    },
+    {
+      "periodo": "out/2026",
+      "valor": 19.0,
+      "programa": "novo Bolsa Família",
+      "observacao": "mais de 19 milhões de lares; piso R$ 691 após reajuste de 15,04%",
+      "aproximado": true
+    }
+  ],
+  "faixas_referencia": [
+    {
+      "rotulo": "Benefício médio jan/2019 (R$)",
+      "valor": 187.91
+    },
+    {
+      "rotulo": "Benefício médio até mar/2020 (R$)",
+      "valor": 191.86
+    },
+    {
+      "rotulo": "Piso Auxílio Brasil dez/2021 (R$)",
+      "valor": 400
+    },
+    {
+      "rotulo": "Piso ago–dez/2022 (EC 123) e novo Bolsa Família (R$)",
+      "valor": 600
+    },
+    {
+      "rotulo": "Piso a partir de out/2026 (R$)",
+      "valor": 691
+    },
+    {
+      "rotulo": "Benefício médio estimado após reajuste de out/2026 (R$)",
+      "valor": 777
+    }
+  ],
+  "notas_metodologicas": [
+    "Vários pontos são aproximações ('pouco mais de 3 milhões', '~14 milhões') ou vieram de resumos de busca (via_snippet); não são série oficial anual.",
+    "Pente-fino 2023–2024: 3,9 mi famílias excluídas em 2023 e ~3 mi em 2024, com 4,8 mi incluídas; 2,8 mi em 'regra de proteção' em 2024.",
+    "Fontes primárias (MDS/VIS Data, gov.br) bloquearam o acesso automatizado; a página do MDS deve ser consultada antes de publicar."
+  ],
+  "lacunas": [
+    "Famílias e valor médio ano a ano 2003–2021 não obtidos (dados abertos do MDS não acessados).",
+    "2007–2009, 2011 e 2025 sem ponto."
+  ],
+  "ultimo_periodo": "out/2026",
+  "temas": [
+    "pobreza-programas-sociais"
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/03_emprego_renda_pobreza_social.md",
+  "atualizado_em": "2026-10-21"
+}

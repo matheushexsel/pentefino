@@ -1,0 +1,67 @@
+{
+  "id": "letalidade-policial",
+  "titulo": "Mortes decorrentes de intervenção policial (MDIP)",
+  "descricao_simples": "Pessoas mortas por policiais em serviço ou fora dele, segundo o Fórum Brasileiro de Segurança Pública. Em 2025 foram 6.602 mortes, recorde da série e 16,2% de todas as mortes violentas intencionais.",
+  "unidade": "mortes",
+  "tipo_grafico": "barra",
+  "frequencia": "anual",
+  "fonte": {
+    "nome": "Anuário Brasileiro de Segurança Pública 2026 (FBSP)",
+    "url": "https://static.poder360.com.br/uploads/2026/07/anuario-seguranca-publica-23jul26.pdf",
+    "acesso_em": "2026-10-21",
+    "tier": "academico"
+  },
+  "pontos": [
+    {
+      "periodo": "2024",
+      "valor": 6237,
+      "detalhe": {
+        "taxa_100_mil": 2.9
+      }
+    },
+    {
+      "periodo": "2025",
+      "valor": 6602,
+      "detalhe": {
+        "taxa_100_mil": 3.1,
+        "participacao_nas_mvi_pct": 16.2
+      }
+    }
+  ],
+  "faixas_referencia": [
+    {
+      "rotulo": "Operação Contenção (RJ, 28/10/2025) — mortos",
+      "valor": 122
+    }
+  ],
+  "notas_metodologicas": [
+    "Alta de 5,4% em 2025 frente a 2024 e de 55,7% entre 2016 e 2025 (a nota traz só a variação acumulada, não o valor de 2016).",
+    "Taxa de mortes por intervenção policial por 100 mil: negros 3,5 e brancos 1,0 (2025), ou seja, 3,5 vezes maior.",
+    "Policiais mortos: 144 (2024) para 139 (2025), -3,5%, na tabela de MVI do Anuário; outra leitura dá 133 policiais mortos intencionalmente em 2025.",
+    "No Rio de Janeiro, mortes por policiais foram 20,5% das MVI em 2025.",
+    "Responsabilidade: polícias Militar e Civil respondem aos governadores; a letalidade policial é resultado de política estadual."
+  ],
+  "ultimo_periodo": "2025",
+  "temas": [
+    "seguranca"
+  ],
+  "fontes_adicionais": [
+    {
+      "nome": "Alma Preta (Anuário 2026)",
+      "url": "https://almapreta.com.br/sessao/cotidiano/negros-mais-risco-morrer-acoes-policiais-anuario-2026/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Brasil de Fato (Anuário 2026)",
+      "url": "https://www.brasildefato.com.br/2026/07/23/letalidade-policial-piora-no-pais-e-faz-47-vitimas-civis-a-cada-agente-morto-em-supostos-confrontos/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "lacunas": [
+    "Valores anuais de 2016 a 2023 não constam da nota (só a variação acumulada 2016–2025)."
+  ],
+  "atualizado_em": "2026-10-21",
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/07_saude_seguranca_educacao_infra_ambiente.md"
+}

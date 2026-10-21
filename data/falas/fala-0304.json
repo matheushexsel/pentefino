@@ -1,0 +1,58 @@
+{
+  "id": "fala-0304",
+  "slug": "lula-atribuiu-a-si-a-prisao-de-vorcaro",
+  "evento_id": "debate-band-2turno-2026-10-18",
+  "candidato": "lula",
+  "lado": "governo-lula-pt",
+  "minuto": null,
+  "frase_literal": "Fui eu que mandei prender o Vorcaro.",
+  "literal": false,
+  "tema": "corrupcao",
+  "veredito": "falta-contexto",
+  "resumo_uma_frase": "Vorcaro está preso preventivamente desde 4/3/2026, mas a prisão não decorre de decisão do presidente.",
+  "explicacao_simples": [
+    "Lula, no debate da Band (18/10/2026), afirmou (em paráfrase registrada por Aos Fatos) que fui eu que mandei prender o Vorcaro.",
+    "Aos Fatos: impreciso; Ranking: verdadeiro que está preso (preventiva desde 4/3/2026).",
+    "A frase omite informações que mudam a leitura do dado; por isso é classificada como 'falta contexto'."
+  ],
+  "o_que_e_verdade": [
+    "Vorcaro está preso desde mar/2026."
+  ],
+  "o_que_nao_se_sustenta": [
+    "A prisão é decisão judicial, não do presidente."
+  ],
+  "numeros": [],
+  "base_legal": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Aos Fatos",
+      "veredito_original": "impreciso",
+      "url": "https://www.aosfatos.org/noticias/checamos-lula-flavio-bolsonaro-debate-band/",
+      "data": "2026-10-18"
+    },
+    {
+      "veiculo": "Ranking dos Políticos",
+      "veredito_original": "VERDADEIRO (que está preso)",
+      "url": "https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026",
+      "data": "2026-10-19"
+    }
+  ],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Aos Fatos",
+      "url": "https://www.aosfatos.org/noticias/checamos-lula-flavio-bolsonaro-debate-band/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Ranking dos Políticos",
+      "url": "https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
+  "atualizado_em": "2026-10-21"
+}

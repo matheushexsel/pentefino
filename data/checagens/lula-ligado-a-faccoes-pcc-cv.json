@@ -1,0 +1,189 @@
+{
+  "id": "chk-2075",
+  "slug": "lula-ligado-a-faccoes-pcc-cv",
+  "frase": "Lula e o PT são ligados ao PCC e ao Comando Vermelho; Marcola declarou voto em Lula.",
+  "frase_normalizada": "lula e o pt sao ligados ao pcc e ao comando vermelho marcola declarou voto em lula",
+  "variantes": [
+    "Partido dos Traficantes",
+    "Eleitores do PT com tornozeleira",
+    "As facções apoiam Lula"
+  ],
+  "autor": {
+    "nome": "Campanha de Flávio Bolsonaro (perfis oficiais e aliados)",
+    "partido": "PL",
+    "cargo": "campanha presidencial"
+  },
+  "lado": "oposicao-flavio-pl",
+  "alvo": {
+    "nome": "Luiz Inácio Lula da Silva",
+    "partido": "PT"
+  },
+  "data": "2026-10-08",
+  "onde": "Posts da campanha de Flávio e de aliados (Nikolas Ferreira) nas redes; TSE ordenou remoção em 08/10",
+  "url_declaracao": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/09/tse-determina-remocao-de-posts-que-associam-lula-a-faccoes-criminosas-flavio-e-multado-em-r-5-mil.ghtml",
+  "temas": [
+    "seguranca",
+    "eleicao-2026"
+  ],
+  "tags": [
+    "seguranca",
+    "eleicao-2026"
+  ],
+  "veredito": "falso",
+  "resumo_uma_frase": "O TSE, por unanimidade, mandou remover em 08/10/2026 posts da campanha que associavam Lula a facções e multou Flávio em R$ 5 mil; a Lupa classificou como falso que Marcola tenha declarado voto em Lula (boato que circula desde 2022), e o Aos Fatos mostrou que a foto de 'eleitores do PT com tornozeleira' foi gerada por IA.",
+  "explicacao_simples": [
+    "A campanha de Flávio e aliados publicaram conteúdos ligando Lula e o PT ao PCC e ao Comando Vermelho; o TSE mandou remover e multou Flávio em R$ 5 mil.",
+    "'Marcola declarou voto em Lula' é boato que circula desde 2022, classificado como falso pela Lupa; a foto de eleitores com tornozeleira foi gerada por inteligência artificial.",
+    "Enquanto isso, o governo Lula sancionou a Lei Antifacção e o número de presos é recorde."
+  ],
+  "explicacao_completa_md": "TSE (08/10/2026, unânime): remoção de posts da campanha que associam Lula a facções e multa de R$ 5 mil a Flávio. Lupa (15/10): FALSO que Marcola tenha declarado voto em Lula (circula desde 2022). Aos Fatos (09/10): foto de 'eleitores do PT com tornozeleira' é IA e o apoio de PCC/CV a Lula é inventado; Nikolas chamou o PT de 'Partido dos Traficantes' (post removido pela Justiça do DF em nov/2025). Em 15/10, a pedido do PL, o TSE também mandou remover vídeo que ligava Flávio ao Comando Vermelho. Contexto: a Lei Antifacção (24/03/2026) criou penas de 20 a 40 anos; a população prisional é recorde (964.668 em 2025); o Anuário 2026 fala em expansão territorial das facções; a Operação Carbono Oculto (2025-2026) atingiu a economia do PCC. Nas seções em presídios, Lula teve 72,57% dos votos, dado usado por Flávio no debate (Lupa: falta contexto).",
+  "o_que_e_verdade": [
+    "Lula teve 72,57% dos votos válidos nas seções eleitorais em presídios (que incluem servidores)."
+  ],
+  "o_que_nao_se_sustenta": [
+    "Ligação de Lula ou do PT com facções: sem qualquer evidência; removida pelo TSE com multa.",
+    "'Marcola declarou voto em Lula': boato desde 2022; FALSO (Lupa).",
+    "Foto de 'eleitores com tornozeleira': gerada por IA (Aos Fatos)."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Campanha de Flávio e Nikolas Ferreira",
+      "papel": "publicaram os conteúdos removidos",
+      "peso": "alto"
+    },
+    {
+      "ator": "TSE",
+      "papel": "removeu os posts e multou Flávio em R$ 5 mil (08/10)",
+      "peso": "alto"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Multa do TSE a Flávio",
+      "valor": 5,
+      "unidade": "R$ mil",
+      "periodo": "08/10/2026",
+      "fonte": {
+        "nome": "g1, 09/10/2026 (TSE multa Flávio em R$ 5 mil)",
+        "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/09/tse-determina-remocao-de-posts-que-associam-lula-a-faccoes-criminosas-flavio-e-multado-em-r-5-mil.ghtml",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Votos de Lula nas seções em presídios",
+      "valor": 72.57,
+      "unidade": "% dos válidos (11.186 votos no total)",
+      "periodo": "1º turno 2026",
+      "fonte": {
+        "nome": "Agência Lupa",
+        "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Ano desde o qual circula o boato de Marcola",
+      "valor": 2022,
+      "unidade": "ano",
+      "periodo": "2022-2026",
+      "fonte": {
+        "nome": "Agência Lupa, 15/10/2026 (Marcola não declarou voto em Lula)",
+        "url": "https://www.agencialupa.org/verificacao/2026/10/15/e-falso-que-marcola-tenha-declarado-voto-em-lula/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": null
+    }
+  ],
+  "series": [],
+  "checagens_externas": [
+    {
+      "veiculo": "TSE (unânime)",
+      "veredito_original": "remoção de posts e multa de R$ 5 mil",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/09/tse-determina-remocao-de-posts-que-associam-lula-a-faccoes-criminosas-flavio-e-multado-em-r-5-mil.ghtml",
+      "data": "2026-10-08"
+    },
+    {
+      "veiculo": "Agência Lupa",
+      "veredito_original": "FALSO (Marcola declarou voto em Lula)",
+      "url": "https://www.agencialupa.org/verificacao/2026/10/15/e-falso-que-marcola-tenha-declarado-voto-em-lula/",
+      "data": "2026-10-15"
+    },
+    {
+      "veiculo": "Aos Fatos",
+      "veredito_original": "foto forjada (IA) e falso elo com facções",
+      "url": "https://www.aosfatos.org/noticias/foto-forjada-e-falso-elo-com-faccoes-retomam-narrativa-que-associa-pt-ao-crime/",
+      "data": "2026-10-09"
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "g1, 09/10/2026 (TSE multa Flávio em R$ 5 mil)",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/09/tse-determina-remocao-de-posts-que-associam-lula-a-faccoes-criminosas-flavio-e-multado-em-r-5-mil.ghtml",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Agência Lupa",
+      "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Agência Lupa, 15/10/2026 (Marcola não declarou voto em Lula)",
+      "url": "https://www.agencialupa.org/verificacao/2026/10/15/e-falso-que-marcola-tenha-declarado-voto-em-lula/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Aos Fatos",
+      "url": "https://www.aosfatos.org/noticias/foto-forjada-e-falso-elo-com-faccoes-retomam-narrativa-que-associa-pt-ao-crime/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Wikipédia: Campanha presidencial de Flávio Bolsonaro em 2026",
+      "url": "https://pt.wikipedia.org/wiki/Campanha_presidencial_de_Fl%C3%A1vio_Bolsonaro_em_2026",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Metrópoles, 15/10/2026 (TSE atende a Lula e a Flávio)",
+      "url": "https://www.metropoles.com/brasil/tse-atende-a-lula-e-flavio-e-determina-a-remocao-de-conteudos-das-redes",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/09_acusacoes_e_falas_flavio_x_lula.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "Marcola declarou voto em Lula?",
+      "resposta": "Não. É boato que circula desde 2022, classificado como falso pela Lupa."
+    },
+    {
+      "pergunta": "O TSE puniu alguém?",
+      "resposta": "Sim: em 08/10/2026, por unanimidade, mandou remover posts da campanha de Flávio e o multou em R$ 5 mil."
+    },
+    {
+      "pergunta": "E a acusação inversa, de que Flávio tem ligação com o Comando Vermelho?",
+      "resposta": "Também foi removida pelo TSE (15/10), a pedido do PL; não há evidência."
+    }
+  ],
+  "relacionadas": [
+    "73-por-cento-dos-presidiarios",
+    "lula-sera-delatado-por-maduro",
+    "flavio-tem-ligacao-com-o-comando-vermelho",
+    "lula-condenado-pelo-tse-por-fake-news"
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false
+}

@@ -1,0 +1,170 @@
+{
+  "id": "chk-1027",
+  "slug": "pib-industrial-cresceu-3-4",
+  "frase": "O PIB industrial cresceu 3,4%",
+  "frase_normalizada": "A indústria brasileira cresceu 3,4% no último ano",
+  "variantes": [
+    "A indústria voltou a crescer 3,4%"
+  ],
+  "autor": {
+    "nome": "Luiz Inácio Lula da Silva",
+    "partido": "PT",
+    "cargo": "presidente da República e candidato à reeleição"
+  },
+  "lado": "governo-lula-pt",
+  "alvo": null,
+  "data": "2026-10-18",
+  "onde": "Debate da Band (18/10/2026)",
+  "url_declaracao": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+  "temas": [
+    "economia",
+    "eleicao-2026"
+  ],
+  "tags": [
+    "pib",
+    "industria"
+  ],
+  "veredito": "exagerado",
+  "resumo_uma_frase": "Segundo a Lupa, o PIB da indústria cresceu 1,4% em 2025; os 3,4% citados correspondem ao PIB total de 2024 (3,42% pelo IBGE), não ao industrial.",
+  "explicacao_simples": [
+    "A Lupa apurou que o PIB da indústria cresceu 1,4% em 2025, e não 3,4%.",
+    "O número de 3,4% é o crescimento do PIB total do Brasil em 2024, que foi de 3,42% segundo o IBGE.",
+    "O PIB total cresceu 2,29% em 2025 e desacelera em 2026, com projeção de 1,83% no Focus."
+  ],
+  "explicacao_completa_md": "## O que a Lupa encontrou\n\nPIB industrial de 2025: +1,4%. Os 3,4% são o PIB total de 2024 (IBGE/BCB: 3,42%). Classificação: EXAGERADO.\n\n## Contexto\n\nPIB total: 2023 3,24% | 2024 3,42% | 2025 2,29% | 2026 (acumulado em quatro trimestres até o 2T) 1,9%; Focus 1,83%. O PIB real está em máxima histórica (2T2026), mas sob Selic de dois dígitos a atividade desacelera.",
+  "o_que_e_verdade": [
+    "O PIB total cresceu 3,42% em 2024 e a indústria cresceu 1,4% em 2025, segundo a Lupa."
+  ],
+  "o_que_nao_se_sustenta": [
+    "O PIB industrial não cresceu 3,4%; a frase troca o PIB total de 2024 pelo PIB industrial."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Ciclo econômico e juros (Selic de 15% em 2025)",
+      "papel": "desaceleração da indústria",
+      "peso": "alto"
+    },
+    {
+      "ator": "Governo federal (Nova Indústria Brasil, crédito)",
+      "papel": "política industrial com efeitos de longo prazo",
+      "peso": "medio"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "PIB da indústria (Lupa)",
+      "valor": 1.4,
+      "unidade": "%",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Lupa – Checagem ao vivo do debate Lula x Flávio Bolsonaro na Band (18/10/2026)",
+        "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": {
+        "rotulo": "Citado por Lula",
+        "valor": 3.4
+      }
+    },
+    {
+      "rotulo": "PIB total",
+      "valor": 3.42,
+      "unidade": "%",
+      "periodo": "2024",
+      "fonte": {
+        "nome": "Banco Central do Brasil – SGS 7326 (variação real anual do PIB, origem IBGE)",
+        "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.7326/dados?formato=json",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "2025",
+        "valor": 2.29
+      }
+    },
+    {
+      "rotulo": "PIB acumulado em quatro trimestres",
+      "valor": 1.9,
+      "unidade": "%",
+      "periodo": "até 2T2026",
+      "fonte": {
+        "nome": "IBGE – SIDRA tabela 5932 (PIB trimestral)",
+        "url": "https://apisidra.ibge.gov.br/values/t/5932/n1/all/v/6561,6562,6564/p/last%208/c11255/90707?formato=json",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "Focus 2026",
+        "valor": 1.83
+      }
+    }
+  ],
+  "series": [
+    "pib-anual"
+  ],
+  "checagens_externas": [
+    {
+      "veiculo": "Lupa",
+      "veredito_original": "EXAGERADO",
+      "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+      "data": "2026-10-18"
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Lupa – Checagem ao vivo do debate Lula x Flávio Bolsonaro na Band (18/10/2026)",
+      "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Banco Central do Brasil – SGS 7326 (variação real anual do PIB, origem IBGE)",
+      "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.7326/dados?formato=json",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "IBGE – SIDRA tabela 5932 (PIB trimestral)",
+      "url": "https://apisidra.ibge.gov.br/values/t/5932/n1/all/v/6561,6562,6564/p/last%208/c11255/90707?formato=json",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "BCB – Focus, expectativas de mercado anuais (PIB 2026), 16/10/2026",
+      "url": "https://olinda.bcb.gov.br/olinda/servico/Expectativas/versao/v1/odata/ExpectativasMercadoAnuais?%24filter=Indicador%20eq%20'PIB%20Total'%20and%20DataReferencia%20eq%20'2026'&%24orderby=Data%20desc&%24top=2&%24format=json",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/03_emprego_renda_pobreza_social.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "Quanto a indústria cresceu em 2025?",
+      "resposta": "1,4%, segundo a Lupa com dados do IBGE; a nota de pesquisa não traz a série industrial completa."
+    },
+    {
+      "pergunta": "E o PIB total?",
+      "resposta": "3,24% em 2023, 3,42% em 2024 e 2,29% em 2025; o Focus projeta 1,83% para 2026."
+    },
+    {
+      "pergunta": "A economia está desacelerando?",
+      "resposta": "Sim: 1,9% acumulado em quatro trimestres até o 2T2026, com Selic de 13,75% a 15%, embora o nível do PIB esteja em máxima histórica."
+    }
+  ],
+  "relacionadas": [
+    "pib-cresce-mais-com-lula",
+    "juros-mais-altos-do-mundo"
+  ],
+  "lacunas": [
+    "Série do PIB industrial do IBGE não extraída; o dado de 1,4% vem da checagem da Lupa."
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false
+}

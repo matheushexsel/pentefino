@@ -1,0 +1,248 @@
+{
+  "id": "chk-5011",
+  "slug": "novo-pac-executou-x",
+  "frase": "O Novo PAC já executou R$ 711 bilhões, mais da metade do previsto.",
+  "frase_normalizada": "o novo pac já executou r$ 711 bilhões, mais da metade do previsto.",
+  "variantes": [
+    "O Novo PAC executou 53,7% em dois anos",
+    "O PAC é só anúncio, não sai do papel"
+  ],
+  "autor": {
+    "nome": "Afirmação recorrente no debate eleitoral (sem autor único identificado na nota)",
+    "partido": null,
+    "cargo": null,
+    "nao_verificado": true
+  },
+  "lado": "governo-lula-pt",
+  "alvo": {
+    "nome": "Governo Lula 3 (2023–)",
+    "partido": "PT"
+  },
+  "data": null,
+  "onde": null,
+  "url_declaracao": null,
+  "temas": [
+    "infraestrutura"
+  ],
+  "tags": [
+    "novo-pac",
+    "investimento",
+    "ogu",
+    "lula-3"
+  ],
+  "veredito": "falta-contexto",
+  "resumo_uma_frase": "O número é do próprio governo e soma investimento privado, financiamentos e estatais; do Orçamento da União foram R$ 71,3 bi até dez/2024 e R$ 117,7 bi pagos em 2023–2025, e só 16,6% dos projetos estavam concluídos.",
+  "explicacao_simples": [
+    "Segundo o balanço oficial do Novo PAC (lançado em ago/2023), até dez/2024 foram 'executados' R$ 711 bi, 53,7% dos R$ 1,3 tri previstos até 2026.",
+    "Desse total, R$ 345,7 bi são investimento privado, R$ 183,1 bi financiamentos, R$ 106 bi estatais, R$ 71,3 bi do Orçamento da União e R$ 5,1 bi de fundos; dos mais de 23 mil projetos, 16,6% estavam concluídos, 22,4% em execução e 48,6% em fase inicial.",
+    "Do OGU, R$ 47,4 bi foram pagos em 2025 (95% do autorizado) e R$ 117,7 bi em 2023–2025; a frase é verdadeira para a contabilidade do programa, mas 'executado' não significa obra entregue."
+  ],
+  "explicacao_completa_md": "## O que o governo contabiliza (Agência Infra, com dados oficiais)\n\n- Até dez/2024: R$ 711 bi executados = 53,7% dos R$ 1,3 tri previstos até 2026.\n- Composição: privado R$ 345,7 bi; financiamentos R$ 183,1 bi; estatais R$ 106 bi; OGU R$ 71,3 bi; fundos R$ 5,1 bi.\n- Projetos: mais de 23 mil; 16,6% concluídos, 22,4% em execução, 48,6% em fase inicial.\n- Transportes: 769 projetos / R$ 316,2 bi. Minha Casa Minha Vida: 1,3 mi casas contratadas, cerca de 1,05 mi entregues.\n- OGU: R$ 47,4 bi pagos em 2025 (95% do autorizado); R$ 117,7 bi pagos em 2023–2025.\n\n## Por que falta contexto\n\n- Quase metade do \"executado\" é investimento privado e de financiamentos (BNDES, FGTS etc.), não despesa do Tesouro; a parcela do Orçamento da União era de R$ 71,3 bi em dois anos.\n- Menos de um quinto dos projetos estava concluído em dez/2024.\n- O investimento público total subiu de 2,02% do PIB (2021) para 3,04% (2024), melhor desde 2014, mas \"bem abaixo\" do PAC 1 segundo a FGV IBRE; o investimento líquido do governo central segue negativo.\n- Obras emblemáticas seguem pendentes: Transnordestina (licença para testes PI–CE em dez/2025, 1ª viagem prevista para out/2025 cancelada), BR-319 (licença buscada em 2026 via Licença Ambiental Especial) e Ferrogrão (em estudos) — as duas últimas ficaram fora do Novo PAC em 2025.\n\n## Responsabilidade\n\nO Novo PAC é coordenado pela Casa Civil (governo federal); a execução envolve estatais, bancos públicos, estados e municípios (convênios) e o setor privado (concessões).\n\n## Veredito\n\nFalta contexto: o valor é o do próprio governo e inclui dinheiro privado e financiamentos; medido pelo Orçamento da União ou por obras concluídas, o avanço é bem menor.",
+  "o_que_e_verdade": [
+    "R$ 711 bi executados até dez/2024 (53,7% do previsto), segundo o balanço oficial.",
+    "R$ 47,4 bi do OGU pagos em 2025 (95% do autorizado); R$ 117,7 bi em 2023–2025.",
+    "Investimento público total subiu a 3,04% do PIB em 2024, melhor desde 2014."
+  ],
+  "o_que_nao_se_sustenta": [
+    "Entender 'executado' como gasto público: R$ 345,7 bi são privados e R$ 183,1 bi financiamentos; o OGU foi R$ 71,3 bi.",
+    "Entender 'executado' como obra pronta: 16,6% dos projetos concluídos e 48,6% em fase inicial.",
+    "Comparar com o PAC 1: a FGV IBRE qualifica o investimento de 2024 como 'bem abaixo' daquele período (valores do PAC 1 e 2 não confirmados)."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Governo federal (Casa Civil, Lula 3)",
+      "papel": "Coordena o programa e divulga o balanço",
+      "peso": "alto"
+    },
+    {
+      "ator": "Setor privado e bancos públicos",
+      "papel": "Quase 75% do valor contabilizado (privado + financiamentos)",
+      "peso": "alto"
+    },
+    {
+      "ator": "Estatais federais",
+      "papel": "R$ 106 bi contabilizados no balanço",
+      "peso": "medio"
+    },
+    {
+      "ator": "Estados e municípios",
+      "papel": "Executores de convênios e obras locais",
+      "peso": "medio"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Executado no Novo PAC (balanço oficial)",
+      "valor": 711,
+      "unidade": "R$ bilhões",
+      "periodo": "até dez/2024",
+      "fonte": {
+        "nome": "Agência Infra — Novo PAC ultrapassa 53% nos dois primeiros anos",
+        "url": "https://agenciainfra.com/blog/novo-pac-volume-de-investimentos-ultrapassa-53-nos-dois-primeiros-anos/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "previsto até 2026",
+        "valor": 1300
+      },
+      "nao_verificado": true
+    },
+    {
+      "rotulo": "Percentual executado",
+      "valor": 53.7,
+      "unidade": "%",
+      "periodo": "até dez/2024",
+      "fonte": {
+        "nome": "Agência Infra — Novo PAC ultrapassa 53% nos dois primeiros anos",
+        "url": "https://agenciainfra.com/blog/novo-pac-volume-de-investimentos-ultrapassa-53-nos-dois-primeiros-anos/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Parcela privada",
+      "valor": 345.7,
+      "unidade": "R$ bilhões",
+      "periodo": "até dez/2024",
+      "fonte": {
+        "nome": "Agência Infra — Novo PAC ultrapassa 53% nos dois primeiros anos",
+        "url": "https://agenciainfra.com/blog/novo-pac-volume-de-investimentos-ultrapassa-53-nos-dois-primeiros-anos/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "financiamentos",
+        "valor": 183.1
+      }
+    },
+    {
+      "rotulo": "Parcela do Orçamento da União",
+      "valor": 71.3,
+      "unidade": "R$ bilhões",
+      "periodo": "até dez/2024",
+      "fonte": {
+        "nome": "Agência Infra — Novo PAC ultrapassa 53% nos dois primeiros anos",
+        "url": "https://agenciainfra.com/blog/novo-pac-volume-de-investimentos-ultrapassa-53-nos-dois-primeiros-anos/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "estatais",
+        "valor": 106
+      }
+    },
+    {
+      "rotulo": "Projetos concluídos",
+      "valor": 16.6,
+      "unidade": "%",
+      "periodo": "até dez/2024",
+      "fonte": {
+        "nome": "Agência Infra — Novo PAC ultrapassa 53% nos dois primeiros anos",
+        "url": "https://agenciainfra.com/blog/novo-pac-volume-de-investimentos-ultrapassa-53-nos-dois-primeiros-anos/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "em fase inicial",
+        "valor": 48.6
+      }
+    },
+    {
+      "rotulo": "OGU pago em 2025",
+      "valor": 47.4,
+      "unidade": "R$ bilhões",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Jornal Grande Bahia — execução do OGU no Novo PAC",
+        "url": "https://jornalgrandebahia.com.br/?p=1313959",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "pago 2023–2025",
+        "valor": 117.7
+      }
+    },
+    {
+      "rotulo": "Investimento público total",
+      "valor": 3.04,
+      "unidade": "% do PIB",
+      "periodo": "2024",
+      "fonte": {
+        "nome": "FGV IBRE — Observatório de Política Fiscal, investimentos públicos 1947–2024",
+        "url": "https://observatorio-politica-fiscal.ibre.fgv.br/series-historicas/investimentos-publicos/investimentos-publicos-1947-2024",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      "comparacao": {
+        "rotulo": "2021",
+        "valor": 2.02
+      }
+    }
+  ],
+  "series": [
+    "investimento-publico-pib",
+    "leiloes-infraestrutura-por-governo"
+  ],
+  "checagens_externas": [],
+  "fontes": [
+    {
+      "nome": "Agência Infra — Novo PAC ultrapassa 53% nos dois primeiros anos",
+      "url": "https://agenciainfra.com/blog/novo-pac-volume-de-investimentos-ultrapassa-53-nos-dois-primeiros-anos/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Jornal Grande Bahia — execução do OGU no Novo PAC",
+      "url": "https://jornalgrandebahia.com.br/?p=1313959",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "FGV IBRE — Observatório de Política Fiscal, investimentos públicos 1947–2024",
+      "url": "https://observatorio-politica-fiscal.ibre.fgv.br/series-historicas/investimentos-publicos/investimentos-publicos-1947-2024",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    },
+    {
+      "nome": "Jornal de Brasília — investimento público sobe em 2023",
+      "url": "https://jornaldebrasilia.com.br/noticias/economia/investimento-publico-sobe-em-2023-mas-tendencia-de-estagnacao-permanece/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Movimento Econômico — Ibama autoriza testes da Transnordestina",
+      "url": "https://movimentoeconomico.com.br/estados/ceara/2025/12/15/ibama-autoriza-testes-da-transnordestina-entre-piaui-e-ceara/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Agência Infra — BR-319 e Licença Ambiental Especial",
+      "url": "https://agenciainfra.com/blog/br-319-transportes-vai-tentar-avancar-com-licenca-especial/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/07_saude_seguranca_educacao_infra_ambiente.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "Quanto o PAC 1 e o PAC 2 executaram?",
+      "resposta": "A nota cita previsões de R$ 503,9 bi (PAC 1) e R$ 955 bi (PAC 2), mas não confirmou previsto vs executado; é lacuna."
+    }
+  ],
+  "relacionadas": [
+    "bolsonaro-fez-mais-leiloes-que-lula"
+  ],
+  "lacunas": [
+    "Balanço do Novo PAC atualizado para 2025–2026 não localizado; valores executados do PAC 1 e PAC 2 não confirmados; série de investimento federal 2003–2025 não lida."
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false
+}

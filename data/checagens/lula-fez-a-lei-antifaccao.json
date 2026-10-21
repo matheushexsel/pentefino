@@ -1,0 +1,142 @@
+{
+  "id": "chk-2050",
+  "slug": "lula-fez-a-lei-antifaccao",
+  "frase": "Fiz a Lei Antifacção.",
+  "frase_normalizada": "fiz a lei antifaccao",
+  "variantes": [],
+  "autor": {
+    "nome": "Luiz Inácio Lula da Silva",
+    "partido": "PT",
+    "cargo": "presidente da República e candidato à reeleição"
+  },
+  "lado": "governo-lula-pt",
+  "alvo": {
+    "nome": null,
+    "partido": null
+  },
+  "data": "2026-10-18",
+  "onde": "Debate da Band (consórcio Band/Cultura/Gazeta/Jovem Pan/Estadão), São Paulo",
+  "url_declaracao": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+  "temas": [
+    "seguranca"
+  ],
+  "tags": [
+    "seguranca"
+  ],
+  "veredito": "verdadeiro-mas",
+  "resumo_uma_frase": "Lula sancionou a Lei 15.358/2026 em 24/03/2026 e o governo apresentou o projeto, mas o texto foi moldado pela oposição (relator Derrite, PP) e alterado pelo Senado; a Lupa considerou verdadeira a afirmação.",
+  "explicacao_simples": [
+    "O governo apresentou o projeto em outubro de 2025 e Lula sancionou a lei em março de 2026.",
+    "Mas o texto aprovado foi redigido em grande parte pela oposição, com relatoria de Guilherme Derrite, e alterado no Senado.",
+    "É uma lei dos dois lados: por isso Flávio diz 'nós aprovamos' e Lula diz 'fiz'."
+  ],
+  "explicacao_completa_md": "Lupa: VERDADEIRO (Lei 15.358/2026, de 24/03/2026). O PL 5.582/2025 foi anunciado pelo governo em 31/10/2025, três dias após a Operação Contenção; relator na Câmara Guilherme Derrite (PP-SP), aprovado por 370 a 110; modificado pelo Senado (Alessandro Vieira); sancionado com dois vetos. A nota 07 descreve o caso como 'política de segurança bipartidária sob pressão eleitoral'.",
+  "o_que_e_verdade": [
+    "O governo apresentou o projeto e Lula o sancionou."
+  ],
+  "o_que_nao_se_sustenta": [
+    "'Fiz' como autoria exclusiva: o relator foi da oposição e o Senado alterou o texto."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Governo Lula",
+      "papel": "propôs e sancionou",
+      "peso": "alto"
+    },
+    {
+      "ator": "Congresso (Derrite; Alessandro Vieira)",
+      "papel": "redigiu e aprovou o texto final",
+      "peso": "alto"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Data da sanção",
+      "valor": 24,
+      "unidade": "mar/2026 (dia)",
+      "periodo": "24/03/2026",
+      "fonte": {
+        "nome": "Congresso em Foco (sanção da Lei Antifacção)",
+        "url": "https://www.congressoemfoco.com.br/noticia/117518/lula-sanciona-texto-do-pl-antifaccao-com-apenas-um-veto",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Dias entre a Operação Contenção e o anúncio do PL",
+      "valor": 3,
+      "unidade": "dias",
+      "periodo": "28 a 31/10/2025",
+      "fonte": {
+        "nome": "Wikipédia: Operação Contenção (índice)",
+        "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Conten%C3%A7%C3%A3o",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": null
+    }
+  ],
+  "series": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Agência Lupa",
+      "veredito_original": "VERDADEIRO",
+      "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+      "data": "2026-10-18"
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Congresso em Foco (sanção da Lei Antifacção)",
+      "url": "https://www.congressoemfoco.com.br/noticia/117518/lula-sanciona-texto-do-pl-antifaccao-com-apenas-um-veto",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Wikipédia: Operação Contenção (índice)",
+      "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Conten%C3%A7%C3%A3o",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Agência Lupa",
+      "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Poder360 (Lula sanciona PL Antifacção)",
+      "url": "https://www.poder360.com.br/brasil/lula-sanciona-pl-antifaccao-com-veto-e-sem-alcolumbre-no-planalto/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/09_acusacoes_e_falas_flavio_x_lula.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "Quem propôs a Lei Antifacção?",
+      "resposta": "O governo federal, em 31/10/2025, após a Operação Contenção no Rio."
+    },
+    {
+      "pergunta": "Quem redigiu o texto final?",
+      "resposta": "O relator na Câmara, Guilherme Derrite (PP), e o Senado (Alessandro Vieira); Lula sancionou com dois vetos."
+    },
+    {
+      "pergunta": "O que Lula vetou?",
+      "resposta": "A equiparação de penas de não-membros e a destinação de bens apreendidos a fundos estaduais e municipais."
+    }
+  ],
+  "relacionadas": [
+    "lei-antifaccao-80-anos",
+    "operacao-contencao-rj-122-mortos"
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false
+}

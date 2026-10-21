@@ -1,0 +1,59 @@
+{
+  "id": "pobreza-banco-mundial-ppc-2021",
+  "titulo": "Pobreza nas novas linhas do Banco Mundial (US$ 3,00 e US$ 8,30/dia, PPC 2021)",
+  "descricao_simples": "Parcela da população abaixo das linhas de pobreza adotadas pelo Banco Mundial em 2025.",
+  "unidade": "% da população",
+  "tipo_grafico": "linha",
+  "frequencia": "anual",
+  "fonte": {
+    "nome": "Banco Mundial, PIP API (BRA, US$ 3,00 e US$ 8,30, PPC 2021)",
+    "url": "https://api.worldbank.org/pip/v1/pip?country=BRA&year=all&povline=8.30&ppp_version=2021&format=json",
+    "acesso_em": "2026-10-21",
+    "tier": "multilateral"
+  },
+  "pontos": [
+    {
+      "periodo": "2003",
+      "valor": 50.9,
+      "linha_8_30": 50.9,
+      "linha_3_00": 17.1
+    },
+    {
+      "periodo": "2014",
+      "valor": 26.4,
+      "linha_8_30": 26.4,
+      "linha_3_00": 4.8
+    },
+    {
+      "periodo": "2019",
+      "valor": 28.0,
+      "linha_8_30": 28.0,
+      "linha_3_00": 7.0
+    },
+    {
+      "periodo": "2021",
+      "valor": 30.6,
+      "linha_8_30": 30.6,
+      "linha_3_00": 7.5
+    },
+    {
+      "periodo": "2024",
+      "valor": 20.6,
+      "linha_8_30": 20.6,
+      "linha_3_00": 3.0
+    }
+  ],
+  "faixas_referencia": [],
+  "notas_metodologicas": [
+    "valor = linha de US$ 8,30/dia; linha_3_00 = extrema pobreza a US$ 3,00/dia. URL da linha de US$ 3,00: https://api.worldbank.org/pip/v1/pip?country=BRA&year=all&povline=3.00&ppp_version=2021&format=json"
+  ],
+  "lacunas": [
+    "Apenas os anos 2003, 2014, 2019, 2021 e 2024 constam na nota."
+  ],
+  "ultimo_periodo": "2024",
+  "temas": [
+    "pobreza-programas-sociais"
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/03_emprego_renda_pobreza_social.md",
+  "atualizado_em": "2026-10-21"
+}

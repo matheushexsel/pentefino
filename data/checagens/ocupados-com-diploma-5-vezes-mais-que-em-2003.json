@@ -1,0 +1,161 @@
+{
+  "id": "chk-1039",
+  "slug": "ocupados-com-diploma-5-vezes-mais-que-em-2003",
+  "frase": "Hoje são 25,5 milhões de trabalhadores com diploma universitário, cinco vezes mais que em 2003",
+  "frase_normalizada": "O número de ocupados com ensino superior quintuplicou desde 2003",
+  "variantes": [
+    "Cinco vezes mais trabalhadores com diploma do que em 2003"
+  ],
+  "autor": {
+    "nome": "Luiz Inácio Lula da Silva",
+    "partido": "PT",
+    "cargo": "presidente da República e candidato à reeleição"
+  },
+  "lado": "governo-lula-pt",
+  "alvo": null,
+  "data": "2026-10-01",
+  "onde": "Entrevista ao Flow Podcast (01/10/2026)",
+  "url_declaracao": "https://www.agencialupa.org/checagem/2026/10/01/ao-vivo-checagem-da-entrevista-de-lula-no-flow/",
+  "temas": [
+    "emprego-renda",
+    "educacao"
+  ],
+  "tags": [
+    "ensino-superior",
+    "ocupados",
+    "pnad"
+  ],
+  "veredito": "verdadeiro",
+  "resumo_uma_frase": "Segundo a Lupa, o número de ocupados com ensino superior passou de 5,5 milhões em 2003 para 25,5 milhões, aumento de 4,6 vezes — próximo das 'cinco vezes' citadas; o arredondamento é aceitável e o período abrange todos os governos desde 2003.",
+  "explicacao_simples": [
+    "A Lupa confirmou que os ocupados com diploma universitário passaram de 5,5 milhões em 2003 para 25,5 milhões, um aumento de 4,6 vezes.",
+    "O arredondamento para cinco vezes é aceitável e a Lupa classificou a frase como verdadeira.",
+    "O crescimento ocorreu ao longo de 23 anos e seis governos, não apenas nos mandatos de Lula."
+  ],
+  "explicacao_completa_md": "## Os números\n\nA Lupa (01/10/2026) verificou: 5,5 milhões de ocupados com ensino superior em 2003 e 25,5 milhões hoje — 4,6 vezes mais. Classificação: VERDADEIRO.\n\n## Contexto\n\nO período inclui os governos Lula 1-2, Dilma, Temer, Bolsonaro e Lula 3; a expansão do ensino superior (Prouni, Fies, Reuni, cotas) começou em 2003-2010, mas o estoque de diplomados no mercado de trabalho cresce com defasagem e sob todos os governos. A população ocupada total também cresceu (103,5 milhões em ago/2026).",
+  "o_que_e_verdade": [
+    "Ocupados com ensino superior: 5,5 milhões (2003) para 25,5 milhões (2026), 4,6 vezes mais."
+  ],
+  "o_que_nao_se_sustenta": [
+    "O crescimento é de 23 anos e atravessa seis governos; não é resultado exclusivo dos mandatos de Lula."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Políticas de expansão do ensino superior (Prouni, Fies, Reuni, cotas) desde 2003",
+      "papel": "ampliaram o acesso",
+      "peso": "alto"
+    },
+    {
+      "ator": "Governos Dilma, Temer e Bolsonaro",
+      "papel": "mantiveram e ajustaram os programas",
+      "peso": "medio"
+    },
+    {
+      "ator": "Tendência demográfica e do mercado de trabalho",
+      "papel": "maior escolaridade das novas gerações",
+      "peso": "medio"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Ocupados com ensino superior",
+      "valor": 25.5,
+      "unidade": "milhões",
+      "periodo": "2026",
+      "fonte": {
+        "nome": "Lupa – Checagem ao vivo da entrevista de Lula no Flow (01/10/2026)",
+        "url": "https://www.agencialupa.org/checagem/2026/10/01/ao-vivo-checagem-da-entrevista-de-lula-no-flow/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": {
+        "rotulo": "2003",
+        "valor": 5.5
+      }
+    },
+    {
+      "rotulo": "Razão entre 2026 e 2003 (Lupa)",
+      "valor": 4.6,
+      "unidade": "vezes",
+      "periodo": "2003-2026",
+      "fonte": {
+        "nome": "Lupa – Checagem ao vivo da entrevista de Lula no Flow (01/10/2026)",
+        "url": "https://www.agencialupa.org/checagem/2026/10/01/ao-vivo-checagem-da-entrevista-de-lula-no-flow/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": {
+        "rotulo": "Citado por Lula",
+        "valor": 5
+      }
+    },
+    {
+      "rotulo": "População ocupada total",
+      "valor": 103.5,
+      "unidade": "milhões",
+      "periodo": "trimestre até ago/2026",
+      "fonte": {
+        "nome": "Mercado & Consumo – Taxa de desemprego cai para 5,3%, a menor para o trimestre até agosto (29/09/2026)",
+        "url": "https://mercadoeconsumo.com.br/29/09/2026/economia/taxa-de-desemprego-cai-para-53-a-menor-para-o-trimestre-ate-agosto/amp/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": null
+    }
+  ],
+  "series": [
+    "desemprego-pnad-anual"
+  ],
+  "checagens_externas": [
+    {
+      "veiculo": "Lupa",
+      "veredito_original": "VERDADEIRO",
+      "url": "https://www.agencialupa.org/checagem/2026/10/01/ao-vivo-checagem-da-entrevista-de-lula-no-flow/",
+      "data": "2026-10-01"
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Lupa – Checagem ao vivo da entrevista de Lula no Flow (01/10/2026)",
+      "url": "https://www.agencialupa.org/checagem/2026/10/01/ao-vivo-checagem-da-entrevista-de-lula-no-flow/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Mercado & Consumo – Taxa de desemprego cai para 5,3%, a menor para o trimestre até agosto (29/09/2026)",
+      "url": "https://mercadoeconsumo.com.br/29/09/2026/economia/taxa-de-desemprego-cai-para-53-a-menor-para-o-trimestre-ate-agosto/amp/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/03_emprego_renda_pobreza_social.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "De onde vêm os 25,5 milhões?",
+      "resposta": "Da checagem da Lupa (01/10/2026), com base na PNAD Contínua do IBGE; a nota de pesquisa não traz a tabela original."
+    },
+    {
+      "pergunta": "Esse crescimento é mérito de um governo?",
+      "resposta": "Não. O estoque de trabalhadores diplomados cresce com defasagem e atravessou seis governos desde 2003."
+    },
+    {
+      "pergunta": "Mais diplomas significam mais renda?",
+      "resposta": "O rendimento médio real está em recorde (R$ 3.777 em ago/2026), mas a informalidade segue em 37,5% dos ocupados."
+    }
+  ],
+  "relacionadas": [
+    "menor-desemprego-da-historia",
+    "maior-massa-salarial-da-historia"
+  ],
+  "lacunas": [
+    "Tabela da PNAD Contínua com ocupados por nível de instrução não acessada; números vêm da checagem da Lupa."
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false
+}

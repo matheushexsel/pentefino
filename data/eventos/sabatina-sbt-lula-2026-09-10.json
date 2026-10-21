@@ -1,0 +1,89 @@
+{
+  "id": "sabatina-sbt-lula-2026-09-10",
+  "tipo": "sabatina",
+  "nome": "Lula no SBT Brasil (Palácio da Alvorada)",
+  "data": "2026-09-10",
+  "veiculo": "SBT — SBT Brasil (Basília Rodrigues e Marina Demori), 20h–20h30",
+  "participantes": [
+    "lula"
+  ],
+  "url_video": null,
+  "url_transcricao": null,
+  "resumo_uma_frase": "Única checagem localizada é a do Ranking dos Políticos (23 alegações): repetição dos erros do JN sobre déficit herdado, 'único do G20' e 'só cresceu acima de 3% comigo', mais a inversão dos resultados fiscais de 2022 e 2025.",
+  "placar": {
+    "lula": {
+      "checadas": 22,
+      "por_veredito": {
+        "verdadeiro": 7,
+        "verdadeiro-mas": 2,
+        "impreciso": 2,
+        "exagerado": 0,
+        "falta-contexto": 1,
+        "insustentavel": 5,
+        "falso": 5,
+        "opiniao": 1
+      },
+      "contagem_arquivos": {
+        "verdadeiro": 7,
+        "insustentavel": 5,
+        "falso": 5,
+        "impreciso": 2,
+        "verdadeiro-mas": 2,
+        "falta-contexto": 1,
+        "opiniao": 1
+      }
+    }
+  },
+  "falas": [
+    "fala-0068",
+    "fala-0069",
+    "fala-0070",
+    "fala-0071",
+    "fala-0072",
+    "fala-0073",
+    "fala-0074",
+    "fala-0075",
+    "fala-0076",
+    "fala-0077",
+    "fala-0078",
+    "fala-0079",
+    "fala-0080",
+    "fala-0081",
+    "fala-0082",
+    "fala-0083",
+    "fala-0084",
+    "fala-0085",
+    "fala-0086",
+    "fala-0087",
+    "fala-0088",
+    "fala-0089",
+    "fala-0090"
+  ],
+  "checagens_externas": [
+    {
+      "veiculo": "Ranking dos Políticos",
+      "veredito_original": "23 alegações: V 7, parciais 5, não verificáveis 6, F 5 (tabela-resumo traz F 6/NV 5)",
+      "url": "https://ranking.org.br/en/articles/checagem-sabatina-lula-sbt-2026",
+      "data": "2026-09-10"
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Ranking dos Políticos",
+      "url": "https://ranking.org.br/en/articles/checagem-sabatina-lula-sbt-2026",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "SBT News",
+      "url": "https://sbtnews.sbt.com.br/noticia/politica/lula-e-entrevistado-pelo-sbt-nesta-quinta-feira-10",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
+  "atualizado_em": "2026-10-21",
+  "lacunas": [
+    "Nem Lupa nem Aos Fatos checaram esta sabatina; todas as frases são paráfrases do Ranking, sem citação literal."
+  ]
+}

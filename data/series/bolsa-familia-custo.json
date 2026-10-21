@@ -1,0 +1,113 @@
+{
+  "id": "bolsa-familia-custo",
+  "titulo": "Custo anual do Bolsa Família / Auxílio Brasil",
+  "descricao_simples": "Quanto o governo federal gastou (ou reservou no Orçamento) com o programa em cada ano.",
+  "unidade": "R$ bilhões",
+  "tipo_grafico": "barra",
+  "frequencia": "anual",
+  "fonte": {
+    "nome": "Levantamentos do Poder360 (25/10/2025) com dados do Portal da Transparência; MDS via imprensa",
+    "url": "https://www.poder360.com.br/poder-governo/governo-federal-deu-r-156-trilhao-em-auxilios-desde-a-pandemia/",
+    "acesso_em": "2026-10-21",
+    "tier": "imprensa"
+  },
+  "pontos": [
+    {
+      "periodo": "2006",
+      "valor": 8.2,
+      "tipo": "custo",
+      "fonte_ponto": "UOL 2006 via Wikipedia"
+    },
+    {
+      "periodo": "2022",
+      "valor": 89.9,
+      "tipo": "previsto (Auxílio Brasil)",
+      "fonte_ponto": "Poder360, 23/12/2021"
+    },
+    {
+      "periodo": "2023",
+      "valor": 170.4,
+      "tipo": "pago (balanço MDS)",
+      "fonte_ponto": "Diário do Pará (balanço MDS)"
+    },
+    {
+      "periodo": "2024",
+      "valor": 168.2,
+      "tipo": "pago",
+      "fonte_ponto": "Poder360, 25/10/2025",
+      "valores_divergentes": {
+        "balanco_mds_aprox": 170.2,
+        "portal_transparencia_brasil": 163.5
+      }
+    },
+    {
+      "periodo": "2025",
+      "valor": 158.6,
+      "tipo": "reservado no Orçamento",
+      "fonte_ponto": "Poder360, 25/10/2025",
+      "valores_divergentes": {
+        "portal_transparencia_brasil": 157.1
+      }
+    },
+    {
+      "periodo": "2026",
+      "valor": 158.0,
+      "tipo": "Orçamento (LOA sancionada 14/01/2026)",
+      "fonte_ponto": "CNN Brasil, jan/2026"
+    }
+  ],
+  "faixas_referencia": [
+    {
+      "rotulo": "Bolsa Família jan/2004–dez/2019, soma (MDS via CNN)",
+      "valor": 315
+    },
+    {
+      "rotulo": "Gasto mensal Auxílio Brasil 2022",
+      "valor": 7.8
+    },
+    {
+      "rotulo": "Gasto mensal 2023",
+      "valor": 14.2
+    },
+    {
+      "rotulo": "Gasto mensal 2024",
+      "valor": 14.1
+    },
+    {
+      "rotulo": "Gasto mensal out/2025",
+      "valor": 12.9
+    },
+    {
+      "rotulo": "Custo do reajuste de out/2026 no restante de 2026",
+      "valor": 5.8
+    },
+    {
+      "rotulo": "Custo anual do reajuste a partir de 2027 (não previsto no PLOA 2027)",
+      "valor": 22.7
+    },
+    {
+      "rotulo": "Auxílio Emergencial 2020–2021, faixa mínima (Senado)",
+      "valor": 293
+    },
+    {
+      "rotulo": "Auxílio Emergencial 2020–2021, faixa máxima (Portal da Transparência)",
+      "valor": 354
+    }
+  ],
+  "notas_metodologicas": [
+    "Os pontos misturam valores pagos e valores orçados (campo tipo). Fontes divergem: 2024 = R$ 168,2 bi (Poder360), ~R$ 170,2 bi (balanço MDS via imprensa) ou R$ 163,50 bi (Portal Transparência Brasil).",
+    "Dados de 2023–2026 vêm das notas 02 e 03; URL alternativa da nota 03: https://diariodopara.com.br/noticias/brasil/bolsa-familia-amplia-alcance-em-2024-sem-gastar-mais-que-no-ano-anterior",
+    "Não há série oficial anual em fonte primária acessada (Portal da Transparência bloqueou o acesso)."
+  ],
+  "lacunas": [
+    "Custo anual 2007–2021 não levantado.",
+    "Custo final auditado do Auxílio Emergencial (Tesouro) não obtido; só a faixa R$ 293–354 bi."
+  ],
+  "ultimo_periodo": "2026",
+  "temas": [
+    "pobreza-programas-sociais",
+    "contas-publicas"
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/02_contas_publicas_divida.md",
+  "atualizado_em": "2026-10-21"
+}

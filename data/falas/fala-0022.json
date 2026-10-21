@@ -1,0 +1,82 @@
+{
+  "id": "fala-0022",
+  "slug": "lula-deficit-de-2-8-herdado-jn",
+  "evento_id": "sabatina-jn-lula-2026-08-27",
+  "candidato": "lula",
+  "lado": "governo-lula-pt",
+  "minuto": null,
+  "frase_literal": "Herdei um déficit de 2,8%.",
+  "literal": false,
+  "tema": "contas-publicas",
+  "veredito": "falso",
+  "resumo_uma_frase": "Em 2022 o governo central teve superávit primário (0,5% a 0,6% do PIB); o déficit de 2023 foi de 2,1% a 2,4%.",
+  "explicacao_simples": [
+    "Lula, na sabatina do Jornal Nacional (27/8/2026), afirmou (em paráfrase registrada por Ranking dos Políticos) que herdei um déficit de 2,8%.",
+    "Segundo o TCU, 2022 fechou com superávit primário de cerca de 0,6% do PIB (com atraso de precatórios); a Lupa, ao checar a mesma frase em 15/10, apontou superávit de R$ 54,1 bilhões (0,5% do PIB) em 2022.",
+    "O dado central não corresponde aos registros disponíveis; por isso a frase é classificada como falsa."
+  ],
+  "o_que_e_verdade": [],
+  "o_que_nao_se_sustenta": [
+    "Não houve déficit herdado de 2022: o resultado foi superávit de 0,5%–0,6% do PIB.",
+    "O déficit de 2,1%–2,4% ocorreu em 2023, já no atual governo."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Resultado primário do governo central",
+      "valor": 0.5,
+      "unidade": "% do PIB (superávit)",
+      "periodo": "2022",
+      "fonte": {
+        "nome": "Lupa",
+        "url": "https://www.agencialupa.org/checagem/2026/10/15/ao-vivo-checagem-da-entrevista-de-lula-na-tv-globo/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      }
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Ranking dos Políticos",
+      "veredito_original": "FALSA",
+      "url": "https://ranking.org.br/en/articles/checagem-sabatina-jornal-nacional-2026-2",
+      "data": "2026-08-28"
+    },
+    {
+      "veiculo": "Estadão Verifica (via Brasilagro)",
+      "veredito_original": "FALSO",
+      "url": "https://brasilagro.com.br/conteudo/estadao-checou-a-entrevista-de-lula-no-jornal-nacional-veja-o-resultado.html",
+      "data": "2026-08-28"
+    },
+    {
+      "veiculo": "Lupa",
+      "veredito_original": "FALSO (mesma frase, 15/10)",
+      "url": "https://www.agencialupa.org/checagem/2026/10/15/ao-vivo-checagem-da-entrevista-de-lula-na-tv-globo/",
+      "data": "2026-10-15"
+    }
+  ],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Ranking dos Políticos",
+      "url": "https://ranking.org.br/en/articles/checagem-sabatina-jornal-nacional-2026-2",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Estadão Verifica (via Brasilagro)",
+      "url": "https://brasilagro.com.br/conteudo/estadao-checou-a-entrevista-de-lula-no-jornal-nacional-veja-o-resultado.html",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Lupa",
+      "url": "https://www.agencialupa.org/checagem/2026/10/15/ao-vivo-checagem-da-entrevista-de-lula-na-tv-globo/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
+  "atualizado_em": "2026-10-21"
+}

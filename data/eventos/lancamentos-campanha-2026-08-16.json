@@ -1,0 +1,86 @@
+{
+  "id": "lancamentos-campanha-2026-08-16",
+  "tipo": "discurso",
+  "nome": "Lançamentos de campanha: Lula em São Bernardo do Campo (SP) e Flávio Bolsonaro em Copacabana (RJ)",
+  "data": "2026-08-16",
+  "veiculo": "Comícios de lançamento (Estádio 1º de Maio, SBC; Praia de Copacabana, RJ)",
+  "participantes": [
+    "lula",
+    "flavio-bolsonaro"
+  ],
+  "url_video": null,
+  "url_transcricao": null,
+  "resumo_uma_frase": "Primeiro evento checado da campanha: a Lupa checou 5 falas de cada candidato; ambos acertaram em dados de nível (diploma, vínculos formais, bloqueio da Defesa, endividados) e erraram ao atribuir causas ou inflar séries.",
+  "placar": {
+    "lula": {
+      "checadas": 5,
+      "por_veredito": {
+        "verdadeiro": 1,
+        "verdadeiro-mas": 1,
+        "impreciso": 0,
+        "exagerado": 1,
+        "falta-contexto": 1,
+        "insustentavel": 0,
+        "falso": 1
+      },
+      "contagem_arquivos": {
+        "verdadeiro": 1,
+        "falso": 1,
+        "verdadeiro-mas": 1,
+        "falta-contexto": 1,
+        "exagerado": 1
+      }
+    },
+    "flavio-bolsonaro": {
+      "checadas": 5,
+      "por_veredito": {
+        "verdadeiro": 0,
+        "verdadeiro-mas": 2,
+        "impreciso": 0,
+        "exagerado": 1,
+        "falta-contexto": 1,
+        "insustentavel": 0,
+        "falso": 1
+      },
+      "contagem_arquivos": {
+        "verdadeiro-mas": 2,
+        "exagerado": 1,
+        "falso": 1,
+        "falta-contexto": 1
+      }
+    }
+  },
+  "falas": [
+    "fala-0001",
+    "fala-0002",
+    "fala-0003",
+    "fala-0004",
+    "fala-0005",
+    "fala-0006",
+    "fala-0007",
+    "fala-0008",
+    "fala-0009",
+    "fala-0010"
+  ],
+  "checagens_externas": [
+    {
+      "veiculo": "Lupa",
+      "veredito_original": "10 falas: VERDADEIRO 4, FALTA CONTEXTO 2, EXAGERADO 2, FALSO 2",
+      "url": "https://www.agencialupa.org/noticias/2026/08/17/em-pontape-da-campanha-flavio-e-lula-cometem-erros-sobre-desempenho-de-gestoes-passadas/",
+      "data": "2026-08-17"
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Lupa",
+      "url": "https://www.agencialupa.org/noticias/2026/08/17/em-pontape-da-campanha-flavio-e-lula-cometem-erros-sobre-desempenho-de-gestoes-passadas/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
+  "atualizado_em": "2026-10-21",
+  "lacunas": [
+    "Nenhuma outra agência checou os lançamentos; não há horário das falas."
+  ]
+}

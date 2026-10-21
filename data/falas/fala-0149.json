@@ -1,0 +1,95 @@
+{
+  "id": "fala-0149",
+  "slug": "lula-setima-economia-crescia-7-5-ao-ano",
+  "evento_id": "sabatina-globo-lula-2026-10-15",
+  "candidato": "lula",
+  "lado": "governo-lula-pt",
+  "minuto": null,
+  "frase_literal": "A gente era a sétima economia do mundo. / A economia crescia 7,5% ao ano.",
+  "literal": true,
+  "tema": "economia",
+  "veredito": "verdadeiro-mas",
+  "resumo_uma_frase": "O Brasil era a 7ª economia em 2010 (US$ 2,21 trilhões) e cresceu 7,5% naquele ano, mas a média dos dois mandatos foi ~4%.",
+  "explicacao_simples": [
+    "Lula, na entrevista à TV Globo (15/10/2026), disse: “A gente era a sétima economia do mundo. / A economia crescia 7,5% ao ano”.",
+    "Aos Fatos e Lupa confirmaram o 7º lugar em 2010 e o crescimento de 7,5%; o Ranking apontou que '7,5% ao ano' valeu só para 2010 (média do período ~4%).",
+    "O núcleo da frase está correto, mas falta uma ressalva que muda o peso do dado; por isso a classificação é 'verdadeiro, mas'."
+  ],
+  "o_que_e_verdade": [
+    "7ª economia e PIB +7,5% em 2010."
+  ],
+  "o_que_nao_se_sustenta": [
+    "A média de crescimento de 2003–2010 foi cerca de 4% ao ano, não 7,5%."
+  ],
+  "numeros": [
+    {
+      "rotulo": "PIB do Brasil",
+      "valor": 2.21,
+      "unidade": "US$ trilhões",
+      "periodo": "2010",
+      "fonte": {
+        "nome": "Aos Fatos",
+        "url": "https://www.aosfatos.org/noticias/checamos-lula-globo-segundo-turno/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      }
+    },
+    {
+      "rotulo": "Crescimento do PIB",
+      "valor": 7.5,
+      "unidade": "%",
+      "periodo": "2010",
+      "fonte": {
+        "nome": "Lupa",
+        "url": "https://www.agencialupa.org/checagem/2026/10/15/ao-vivo-checagem-da-entrevista-de-lula-na-tv-globo/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      }
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Aos Fatos",
+      "veredito_original": "correto",
+      "url": "https://www.aosfatos.org/noticias/checamos-lula-globo-segundo-turno/",
+      "data": "2026-10-15"
+    },
+    {
+      "veiculo": "Lupa",
+      "veredito_original": "VERDADEIRO",
+      "url": "https://www.agencialupa.org/checagem/2026/10/15/ao-vivo-checagem-da-entrevista-de-lula-na-tv-globo/",
+      "data": "2026-10-15"
+    },
+    {
+      "veiculo": "Ranking dos Políticos",
+      "veredito_original": "IMPRECISO",
+      "url": "https://ranking.org.br/en/articles/checagem-entrevista-lula-jornal-nacional-2-turno-2026",
+      "data": "2026-10-15"
+    }
+  ],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Aos Fatos",
+      "url": "https://www.aosfatos.org/noticias/checamos-lula-globo-segundo-turno/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Lupa",
+      "url": "https://www.agencialupa.org/checagem/2026/10/15/ao-vivo-checagem-da-entrevista-de-lula-na-tv-globo/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Ranking dos Políticos",
+      "url": "https://ranking.org.br/en/articles/checagem-entrevista-lula-jornal-nacional-2-turno-2026",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
+  "atualizado_em": "2026-10-21"
+}

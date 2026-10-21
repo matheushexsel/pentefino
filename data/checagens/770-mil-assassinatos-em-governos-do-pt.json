@@ -1,0 +1,190 @@
+{
+  "id": "chk-2060",
+  "slug": "770-mil-assassinatos-em-governos-do-pt",
+  "frase": "Mais de 770 mil assassinatos em 20 anos de governos do PT.",
+  "frase_normalizada": "mais de 770 mil assassinatos em 20 anos de governos do pt",
+  "variantes": [
+    "O PT governa há 20 dos últimos 24 anos"
+  ],
+  "autor": {
+    "nome": "Flávio Bolsonaro",
+    "partido": "PL",
+    "cargo": "senador (RJ) e candidato à Presidência"
+  },
+  "lado": "oposicao-flavio-pl",
+  "alvo": {
+    "nome": "PT / governo Lula",
+    "partido": "PT"
+  },
+  "data": "2026-10-18",
+  "onde": "Debate da Band (consórcio Band/Cultura/Gazeta/Jovem Pan/Estadão), São Paulo",
+  "url_declaracao": "https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026",
+  "temas": [
+    "seguranca",
+    "eleicao-2026"
+  ],
+  "tags": [
+    "seguranca",
+    "eleicao-2026"
+  ],
+  "veredito": "verdadeiro-mas",
+  "resumo_uma_frase": "A soma dos homicídios do Atlas da Violência nos anos de governo do PT supera 770 mil, mas o período é de cerca de 17 anos e 4 meses, não 20; a segurança pública é executada pelos estados, e a taxa de homicídios no governo Lula 3 é a menor desde 2012.",
+  "explicacao_simples": [
+    "Somando os homicídios dos anos em que o PT governou (2003-2016 e 2023-2025), passa de 770 mil; o Ranking confirmou o número.",
+    "Mas o PT governou cerca de 17 anos e 4 meses, não 20 (o Estadão Verifica classificou os '20 de 24 anos' como exagero).",
+    "Homicídios são sobretudo resultado de políticas estaduais; a taxa atual (19,1 por 100 mil em 2025) é a menor desde 2012."
+  ],
+  "explicacao_completa_md": "Ranking dos Políticos: VERDADEIRO que a soma do Atlas supera 770 mil, mas o período é de cerca de 17 anos. 'PT governa há 20 dos últimos 24 anos': Ranking IMPRECISO; Estadão Verifica EXAGERADO (cerca de 17 anos e 4 meses: 2003 a 31/08/2016 e 2023-2026). Atlas da Violência: 2013 57.396; 2017 65.602 (pico, governo Temer); 2023 45.747 (menor em 31 anos). FBSP: taxa de MVI de 27,7 (2012) para 30,2 (2016) no governo Dilma; 19,1 em 2025 no governo Lula 3. Segurança é 80% gasto estadual.",
+  "o_que_e_verdade": [
+    "A soma dos homicídios dos anos de governo do PT supera 770 mil.",
+    "A taxa de homicídios subiu no governo Dilma (27,7 em 2012 para 30,2 em 2016)."
+  ],
+  "o_que_nao_se_sustenta": [
+    "'20 anos': são cerca de 17 anos e 4 meses.",
+    "A implicação de responsabilidade federal direta: homicídios dependem sobretudo de políticas estaduais e de fatores demográficos."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Governos estaduais",
+      "papel": "polícias e políticas de segurança",
+      "peso": "alto"
+    },
+    {
+      "ator": "Governos federais do PT",
+      "papel": "fundos, legislação e PF; peso menor",
+      "peso": "medio"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Tempo de governo do PT (Estadão Verifica)",
+      "valor": 17.3,
+      "unidade": "anos (17 anos e 4 meses)",
+      "periodo": "2003-2016; 2023-2026",
+      "fonte": {
+        "nome": "Estadão Verifica (via Polêmica Paraíba)",
+        "url": "https://www.polemicaparaiba.com.br/brasil/estadao-verifica-checa-declaracoes-de-lula-e-flavio-bolsonaro-em-debate-e-aponta-informacoes-falsas-enganosas-e-verdadeiras-confira/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": {
+        "rotulo": "Citado por Flávio",
+        "valor": 20
+      }
+    },
+    {
+      "rotulo": "Taxa de MVI em 2016 (fim do governo Dilma)",
+      "valor": 30.2,
+      "unidade": "por 100 mil",
+      "periodo": "2016",
+      "fonte": {
+        "nome": "Anuário Brasileiro de Segurança Pública 2026 (FBSP, PDF)",
+        "url": "https://static.poder360.com.br/uploads/2026/07/anuario-seguranca-publica-23jul26.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      "comparacao": {
+        "rotulo": "2012",
+        "valor": 27.7
+      }
+    },
+    {
+      "rotulo": "Taxa de MVI em 2025 (Lula 3)",
+      "valor": 19.1,
+      "unidade": "por 100 mil",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Anuário Brasileiro de Segurança Pública 2026 (FBSP, PDF)",
+        "url": "https://static.poder360.com.br/uploads/2026/07/anuario-seguranca-publica-23jul26.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Homicídios em 2017 (pico, governo Temer)",
+      "valor": 65602,
+      "unidade": "mortes (taxa 31,8)",
+      "periodo": "2017",
+      "fonte": {
+        "nome": "Agência Brasil, 12/05/2025 (Atlas da Violência 2025)",
+        "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2025-05/taxa-de-homicidio-cai-mas-violencia-matou-457-mil-no-brasil-em-2023",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": null
+    }
+  ],
+  "series": [
+    "taxa-homicidios-100-mil",
+    "mortes-violentas-intencionais"
+  ],
+  "checagens_externas": [
+    {
+      "veiculo": "Ranking dos Políticos",
+      "veredito_original": "VERDADEIRO (soma) / IMPRECISO (20 anos)",
+      "url": "https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026",
+      "data": "2026-10-18"
+    },
+    {
+      "veiculo": "Estadão Verifica",
+      "veredito_original": "EXAGERADO (20 de 24 anos)",
+      "url": "https://www.polemicaparaiba.com.br/brasil/estadao-verifica-checa-declaracoes-de-lula-e-flavio-bolsonaro-em-debate-e-aponta-informacoes-falsas-enganosas-e-verdadeiras-confira/",
+      "data": "2026-10-18"
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Estadão Verifica (via Polêmica Paraíba)",
+      "url": "https://www.polemicaparaiba.com.br/brasil/estadao-verifica-checa-declaracoes-de-lula-e-flavio-bolsonaro-em-debate-e-aponta-informacoes-falsas-enganosas-e-verdadeiras-confira/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Anuário Brasileiro de Segurança Pública 2026 (FBSP, PDF)",
+      "url": "https://static.poder360.com.br/uploads/2026/07/anuario-seguranca-publica-23jul26.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    },
+    {
+      "nome": "Agência Brasil, 12/05/2025 (Atlas da Violência 2025)",
+      "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2025-05/taxa-de-homicidio-cai-mas-violencia-matou-457-mil-no-brasil-em-2023",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Ranking dos Políticos",
+      "url": "https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/09_acusacoes_e_falas_flavio_x_lula.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "Quanto tempo o PT governou?",
+      "resposta": "Cerca de 17 anos e 4 meses: 2003 a 31/08/2016 (Lula e Dilma) e desde 2023."
+    },
+    {
+      "pergunta": "Os homicídios subiram ou caíram nos governos do PT?",
+      "resposta": "Caíram no fim de Lula 1-2 e em Lula 3 (menor taxa desde 2012 em 2025), e subiram no governo Dilma (pico em 2017, já com Temer)."
+    },
+    {
+      "pergunta": "O presidente é responsável pelos homicídios?",
+      "resposta": "Só indiretamente: polícias e presídios são estaduais; a União atua com fundos, PF e leis."
+    }
+  ],
+  "relacionadas": [
+    "homicidios-cairam-com-bolsonaro",
+    "violencia-explodiu-no-governo-lula",
+    "recorde-de-feminicidios"
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false
+}

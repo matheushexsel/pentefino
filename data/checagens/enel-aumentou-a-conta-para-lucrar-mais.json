@@ -1,0 +1,218 @@
+{
+  "id": "chk-3016",
+  "slug": "enel-aumentou-a-conta-para-lucrar-mais",
+  "frase": "A Enel aumentou a conta de luz em São Paulo para lucrar mais.",
+  "frase_normalizada": "a enel aumentou a conta de luz em são paulo para lucrar mais",
+  "variantes": [],
+  "autor": {
+    "nome": "Afirmação recorrente em redes sociais e no debate eleitoral (sem autor único identificado nas notas)",
+    "partido": null,
+    "cargo": null
+  },
+  "lado": "outro",
+  "alvo": {
+    "nome": "Enel Distribuição São Paulo",
+    "partido": null
+  },
+  "data": null,
+  "onde": "redes sociais",
+  "url_declaracao": null,
+  "temas": [
+    "energia"
+  ],
+  "tags": [
+    "Enel SP",
+    "reajuste",
+    "Parcela B",
+    "ANEEL"
+  ],
+  "veredito": "impreciso",
+  "resumo_uma_frase": "Os reajustes de 13,94% (2025) e 10,18% (2026) foram homologados pela ANEEL e vieram de encargos e itens financeiros; a parcela que remunera a Enel subiu 1,02% e 0,37 p.p.",
+  "explicacao_simples": [
+    "Quem aprova o reajuste é a ANEEL, não a Enel, e a agência disse que as altas vieram de custos 'que não são de responsabilidade e não são gerenciáveis pela companhia'.",
+    "A Parcela B, que cobre custos e remuneração da distribuidora, variou +1,02% em 2025 e +0,37 ponto percentual em 2026, enquanto encargos e financeiros responderam pela maior parte.",
+    "Isso não absolve a empresa pela qualidade do serviço: ela acumula mais de R$ 404 milhões em multas desde 2018 e enfrenta processo de caducidade."
+  ],
+  "explicacao_completa_md": "## Reajustes da Enel SP\n- 2021: 9,44% (BT 11,38%), atribuído pela empresa ao IGP-M de 35,7% e a custos de compra e transporte de energia.\n- 2025: 13,94% (AT 15,77%, BT 13,47%): encargos +6,44 p.p.; retirada de financeiros do ano anterior +7,97; financeiros atuais -2,35; energia +1,38; **Parcela B +1,02**; transmissão -0,52. ANEEL: 'resultado principalmente da elevação de custos que não são de responsabilidade e não são gerenciáveis pela companhia'.\n- 2026: 10,18% (B1 9,02%): itens financeiros ligados a compra de energia e transmissão 6,46 p.p.; **Parcela B 0,37 p.p.** ANEEL: 'impulsionado principalmente por itens financeiros, que não fazem parte da base econômica permanente das tarifas'.\n\n## Veredito\n**Impreciso.** A distribuidora não fixa o reajuste e sua remuneração pouco mudou; o aumento veio de encargos e componentes financeiros. A crítica cabível à Enel é sobre qualidade do serviço, objeto de multas e do processo de caducidade.",
+  "o_que_e_verdade": [
+    "A Enel SP é alvo legítimo de críticas pela qualidade: três grandes apagões (2023, 2024, 2025), multas acima de R$ 404 mi e 7 de 11 planos de melhoria rejeitados."
+  ],
+  "o_que_nao_se_sustenta": [
+    "A empresa não decide o reajuste (ANEEL homologa) e a parcela que a remunera subiu pouco (1,02% em 2025; 0,37 p.p. em 2026)."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "ANEEL",
+      "papel": "homologa o reajuste",
+      "peso": "alto"
+    },
+    {
+      "ator": "Congresso e governos",
+      "papel": "encargos (CDE) que puxaram a Parcela A",
+      "peso": "alto"
+    },
+    {
+      "ator": "Enel SP",
+      "papel": "Parcela B e qualidade do serviço",
+      "peso": "medio"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Reajuste médio 2025",
+      "valor": 13.94,
+      "unidade": "%",
+      "periodo": "jul/2025",
+      "fonte": {
+        "nome": "Poder360 – ANEEL aprova reajuste médio de 13,94% nas tarifas da Enel SP",
+        "url": "https://www.poder360.com.br/poder-energia/aneel-aprova-reajuste-medio-de-1394-nas-tarifas-da-enel-sp/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "Parcela B",
+        "valor": 1.02
+      }
+    },
+    {
+      "rotulo": "Encargos setoriais no reajuste de 2025",
+      "valor": 6.44,
+      "unidade": "p.p.",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "O Setor Elétrico – Reajuste da Enel SP 2025",
+        "url": "https://www.osetoreletrico.com.br/?p=164719",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "Parcela A",
+        "valor": 7.3
+      }
+    },
+    {
+      "rotulo": "Reajuste médio 2026",
+      "valor": 10.18,
+      "unidade": "%",
+      "periodo": "jul/2026",
+      "fonte": {
+        "nome": "Agência iNFRA – ANEEL aprova reajuste de 10,18% nas tarifas da Enel SP (30/06/2026)",
+        "url": "https://agenciainfra.com/blog/aneel-aprova-reajuste-de-1018-nas-tarifas-da-enel-sp/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "Parcela B (p.p.)",
+        "valor": 0.37
+      }
+    },
+    {
+      "rotulo": "Itens financeiros no reajuste de 2026",
+      "valor": 6.46,
+      "unidade": "p.p.",
+      "periodo": "2026",
+      "fonte": {
+        "nome": "Agência iNFRA – ANEEL aprova reajuste de 10,18% nas tarifas da Enel SP (30/06/2026)",
+        "url": "https://agenciainfra.com/blog/aneel-aprova-reajuste-de-1018-nas-tarifas-da-enel-sp/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Multas acumuladas desde 2018",
+      "valor": 404,
+      "unidade": "R$ milhões (mais de)",
+      "periodo": "2018–2026",
+      "fonte": {
+        "nome": "Wikipédia (pt) – Enel Distribuição São Paulo (fonte secundária)",
+        "url": "https://pt.wikipedia.org/wiki/Enel_Distribui%C3%A7%C3%A3o_S%C3%A3o_Paulo",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    }
+  ],
+  "series": [
+    "reajustes-enel-sp"
+  ],
+  "checagens_externas": [],
+  "fontes": [
+    {
+      "nome": "Poder360 – ANEEL aprova reajuste médio de 13,94% nas tarifas da Enel SP",
+      "url": "https://www.poder360.com.br/poder-energia/aneel-aprova-reajuste-medio-de-1394-nas-tarifas-da-enel-sp/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "O Setor Elétrico – Reajuste da Enel SP 2025",
+      "url": "https://www.osetoreletrico.com.br/?p=164719",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Agência iNFRA – Reajuste da Enel SP 2025 (01/07/2025)",
+      "url": "https://agenciainfra.com/blog/?p=23860",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Agência iNFRA – ANEEL aprova reajuste de 10,18% nas tarifas da Enel SP (30/06/2026)",
+      "url": "https://agenciainfra.com/blog/aneel-aprova-reajuste-de-1018-nas-tarifas-da-enel-sp/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "SBT News – Conta de luz da Enel SP terá reajuste médio de 10,18%",
+      "url": "https://sbtnews.sbt.com.br/noticia/brasil/conta-de-luz-da-enel-sp-tera-reajuste-medio-de-10-18",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Cenário Energia – ANEEL aprova reajuste da Enel São Paulo com efeito médio de 10,18% (30/06/2026)",
+      "url": "https://cenarioenergia.com.br/2026/06/30/aneel-aprova-reajuste-da-enel-sao-paulo-com-efeito-medio-de-1018/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Jovem Pan – ANEEL aprova aumento médio de 9,44% na tarifa da Enel SP (29/06/2021)",
+      "url": "https://jovempan.com.br/economia/macroeconomia/aneel-aprova-aumento-medio-de-944-na-tarifa-de-energia-da-enel-sp/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Wikipédia (pt) – Enel Distribuição São Paulo (fonte secundária)",
+      "url": "https://pt.wikipedia.org/wiki/Enel_Distribui%C3%A7%C3%A3o_S%C3%A3o_Paulo",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "eixos/Estadão Conteúdo – Votação da caducidade da Enel SP na ANEEL (06/10/2026)",
+      "url": "https://eixos.com.br/?p=540887",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/06_energia_eletrobras_combustiveis.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "Quanto a Enel investiu?",
+      "resposta": "A empresa diz ter investido cerca de R$ 6,5 bi entre 2024 e jul/2026 e elevado os investimentos em 73% entre 2023 e 2025 (declarações da Enel citadas pela imprensa)."
+    }
+  ],
+  "relacionadas": [
+    "governo-cassou-a-concessao-da-enel",
+    "a-conta-de-luz-subiu-por-culpa-do-governo-federal"
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false,
+  "lacunas": [
+    "Autoria, data e local da declaração não documentados nas notas; a checagem trata a afirmação em sua forma recorrente.",
+    "Reajustes de 2019, 2020, 2022–2024 não localizados.",
+    "Checagens já publicadas por Aos Fatos, Lupa, Estadão Verifica e Comprova sobre o tema não foram consultadas (cota de busca esgotada); cruzar antes da publicação."
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "id": "populacao-prisional",
+  "titulo": "População prisional do Brasil",
+  "descricao_simples": "Total de pessoas encarceradas (Sisdepen/Senappen, compilado pelo FBSP). Cresceu 314,5% entre 2000 e 2025, chegando a 964.668 presos, com déficit de 281 mil vagas.",
+  "unidade": "pessoas presas",
+  "tipo_grafico": "linha",
+  "frequencia": "anual",
+  "fonte": {
+    "nome": "Anuário Brasileiro de Segurança Pública 2026 (FBSP)",
+    "url": "https://static.poder360.com.br/uploads/2026/07/anuario-seguranca-publica-23jul26.pdf",
+    "acesso_em": "2026-10-21",
+    "tier": "academico"
+  },
+  "pontos": [
+    {
+      "periodo": "2000",
+      "valor": 232755
+    },
+    {
+      "periodo": "2003",
+      "valor": 308304
+    },
+    {
+      "periodo": "2006",
+      "valor": 401236
+    },
+    {
+      "periodo": "2010",
+      "valor": 496251
+    },
+    {
+      "periodo": "2014",
+      "valor": 622202
+    },
+    {
+      "periodo": "2016",
+      "valor": 722120
+    },
+    {
+      "periodo": "2018",
+      "valor": 744216
+    },
+    {
+      "periodo": "2019",
+      "valor": 755274
+    },
+    {
+      "periodo": "2020",
+      "valor": 759518
+    },
+    {
+      "periodo": "2022",
+      "valor": 832295
+    },
+    {
+      "periodo": "2023",
+      "valor": 852010
+    },
+    {
+      "periodo": "2024",
+      "valor": 909594
+    },
+    {
+      "periodo": "2025",
+      "valor": 964668
+    }
+  ],
+  "faixas_referencia": [
+    {
+      "rotulo": "Déficit de vagas em 2025 (FBSP)",
+      "valor": 281213
+    },
+    {
+      "rotulo": "Déficit de vagas em nov/2025 (Senappen)",
+      "valor": 202000
+    }
+  ],
+  "notas_metodologicas": [
+    "Anos ausentes (2001–2002, 2004–2005, 2007–2009, 2011–2013, 2015, 2017, 2021) não constam da nota.",
+    "Perfil em 2025: 69,6% negros; 25,7% presos provisórios. Prisão domiciliar passou de 6.027 (2º semestre de 2016) para 235.880 (1º semestre de 2025).",
+    "Responsabilidade: a quase totalidade dos presídios é estadual; a União mantém o sistema penitenciário federal, o Funpen e a legislação penal.",
+    "O déficit de vagas difere conforme a fonte: 281.213 (FBSP) ou cerca de 202 mil (Senappen, nov/2025)."
+  ],
+  "ultimo_periodo": "2025",
+  "temas": [
+    "seguranca"
+  ],
+  "fontes_adicionais": [
+    {
+      "nome": "BNews/Correio Braziliense (população prisional)",
+      "url": "https://www.bnewssaopaulo.com.br/noticias/policia/brasil-se-aproxima-de-1-milhao-de-presos-e-deficit-de-vagas-ultrapassa-281-mil.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "ICL Notícias (Senappen)",
+      "url": "https://iclnoticias.com.br/?p=94294",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "lacunas": [
+    "Pontos anuais intermediários não constam da nota."
+  ],
+  "atualizado_em": "2026-10-21",
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/07_saude_seguranca_educacao_infra_ambiente.md"
+}

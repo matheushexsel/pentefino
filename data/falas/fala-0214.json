@@ -1,0 +1,59 @@
+{
+  "id": "fala-0214",
+  "slug": "flavio-uniao-tem-quase-3-trilhoes-a-receber",
+  "evento_id": "sabatina-globo-flavio-2026-10-16",
+  "candidato": "flavio-bolsonaro",
+  "lado": "oposicao-flavio-pl",
+  "minuto": null,
+  "frase_literal": "A União tem quase 3 trilhões a receber.",
+  "literal": false,
+  "tema": "contas-publicas",
+  "veredito": "verdadeiro-mas",
+  "resumo_uma_frase": "A dívida ativa da União soma R$ 2,7 trilhões, mas pouco é recuperável.",
+  "explicacao_simples": [
+    "Flávio Bolsonaro, na entrevista à TV Globo (16/10/2026), afirmou (em paráfrase registrada por Ranking dos Políticos) que a União tem quase 3 trilhões a receber.",
+    "Ranking: verdadeiro (dívida ativa R$ 2,7 trilhões, pouco recuperável).",
+    "O núcleo da frase está correto, mas falta uma ressalva que muda o peso do dado; por isso a classificação é 'verdadeiro, mas'."
+  ],
+  "o_que_e_verdade": [
+    "Dívida ativa de R$ 2,7 trilhões."
+  ],
+  "o_que_nao_se_sustenta": [
+    "A maior parte é de difícil recuperação."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Dívida ativa da União",
+      "valor": 2.7,
+      "unidade": "R$ trilhões",
+      "periodo": "2026",
+      "fonte": {
+        "nome": "Ranking dos Políticos",
+        "url": "https://ranking.org.br/en/articles/checagem-entrevista-flavio-bolsonaro-jornal-nacional-2-turno-2026",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      }
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Ranking dos Políticos",
+      "veredito_original": "VERDADEIRO",
+      "url": "https://ranking.org.br/en/articles/checagem-entrevista-flavio-bolsonaro-jornal-nacional-2-turno-2026",
+      "data": "2026-10-16"
+    }
+  ],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Ranking dos Políticos",
+      "url": "https://ranking.org.br/en/articles/checagem-entrevista-flavio-bolsonaro-jornal-nacional-2-turno-2026",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
+  "atualizado_em": "2026-10-21"
+}

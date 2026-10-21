@@ -1,0 +1,248 @@
+{
+  "id": "chk-1046",
+  "slug": "iva-de-30-por-cento",
+  "frase": "O IVA da reforma tributária está projetado em torno de 30%, contra 19% de média da OCDE",
+  "frase_normalizada": "A alíquota do novo IVA brasileiro (IBS + CBS) será de cerca de 30%",
+  "variantes": [
+    "O Brasil terá o maior IVA do mundo",
+    "A reforma tributária cria imposto de 30%"
+  ],
+  "autor": {
+    "nome": "Programa de governo de Flávio Bolsonaro 2026 (Para o Brasil Vencer o Atraso)",
+    "partido": "PL",
+    "cargo": "documento registrado no TSE"
+  },
+  "lado": "oposicao-flavio-pl",
+  "alvo": {
+    "nome": "Governo Lula 3 (2023-2026)",
+    "partido": "PT"
+  },
+  "data": "2026-09-18",
+  "onde": "Programa de governo registrado no TSE (documento 280017104726, p. 30); Flávio citou alíquota de 20% como meta em painel na CNI (22/06/2026)",
+  "url_declaracao": "https://planodegoverno2026.com.br/candidatos/presidente/flavio-bolsonaro/",
+  "temas": [
+    "impostos",
+    "eleicao-2026"
+  ],
+  "tags": [
+    "reforma-tributaria",
+    "iva",
+    "ibs",
+    "cbs",
+    "imposto-seletivo"
+  ],
+  "veredito": "insustentavel",
+  "resumo_uma_frase": "Nenhuma das alíquotas-chave da reforma (referência do IBS/CBS, Imposto Seletivo) estava fixada em out/2026 — o projeto das alíquotas do IS sequer foi enviado ao Congresso —, de modo que o '30%' é uma estimativa do próprio plano, sem fonte oficial que a confirme ou refute; a transição vai de 2026 a 2033 e o PLOA 2027 prevê CBS de 4,3% do PIB.",
+  "explicacao_simples": [
+    "A reforma tributária substitui PIS, Cofins, IPI, ICMS e ISS por IBS, CBS e Imposto Seletivo, com transição de 2026 a 2033, mas as alíquotas de referência ainda não foram fixadas.",
+    "O número de 30% é uma projeção do próprio programa de Flávio, sem fonte oficial, e o projeto das alíquotas do Imposto Seletivo nem havia sido enviado ao Congresso em setembro de 2026.",
+    "A alíquota final depende das exceções aprovadas pelo Congresso, que, segundo o secretário Bernard Appy, reduziram o espaço para o cashback aos mais pobres."
+  ],
+  "explicacao_completa_md": "## O que está definido\n\nEC 132/2023 e LC 214/2025 (DOU de 16/01/2025): substituição de cinco tributos por CBS (federal) e IBS (estados e municípios), com transição de 2026 a 2033 (ICMS/ISS até 2032); cesta básica com 26 itens a alíquota zero; cashback para famílias do CadÚnico; Imposto Seletivo (cigarros, álcool, bebidas açucaradas, veículos, minerais, bets, embarcações e aeronaves) a partir de 2027. A LC 227/2026 (14/01/2026) regulamenta o Comitê Gestor do IBS e torna o ITCMD progressivo.\n\n## O que não está\n\n- Alíquotas de referência do IBS/CBS: não fixadas em out/2026.\n- Imposto Seletivo: em set/2026 a Fazenda mantinha o IS para 2027 'com alíquotas indefinidas' e estimativa de R$ 41,9 bilhões; o PLOA 2027 conta com R$ 42 bilhões de IS como receita condicionada 'cujo projeto sequer foi enviado' (IFI). A CBS entra no PLOA 2027 com R$ 636,8 bilhões (4,3% do PIB).\n\n## Avaliação\n\nO '30%' do plano de Flávio não tem fonte citada e não pode ser confrontado com uma alíquota oficial, que não existe; o próprio Flávio citou 20% como meta em jun/2026 e já falou em suspender a reforma por um ano. A nota registra que Appy admite que as exceções do Congresso reduziram o cashback. Por isso a afirmação é classificada como insustentável, não como falsa.",
+  "o_que_e_verdade": [
+    "A reforma do consumo está em transição (2026-2033) e as alíquotas de referência do IBS/CBS e do Imposto Seletivo não estavam fixadas em out/2026.",
+    "As exceções aprovadas pelo Congresso tendem a elevar a alíquota padrão e reduziram o espaço do cashback, segundo Bernard Appy."
+  ],
+  "o_que_nao_se_sustenta": [
+    "Não há alíquota oficial de 30%; o número é projeção do próprio plano, sem fonte.",
+    "A comparação com '19% de média da OCDE' não é verificável sem a alíquota brasileira definida."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Congresso Nacional",
+      "papel": "aprovou a EC 132, a LC 214 e a LC 227 com exceções setoriais; fixará as alíquotas",
+      "peso": "alto"
+    },
+    {
+      "ator": "Governo Lula 3 (Fazenda, Bernard Appy)",
+      "papel": "desenhou a reforma e ainda não enviou o projeto das alíquotas do IS",
+      "peso": "alto"
+    },
+    {
+      "ator": "Estados e municípios (Comitê Gestor do IBS)",
+      "papel": "definem a alíquota do IBS",
+      "peso": "medio"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Alíquota do IVA estimada pelo programa de Flávio",
+      "valor": 30,
+      "unidade": "%",
+      "periodo": "estimativa do plano (set/2026)",
+      "fonte": {
+        "nome": "Plano de Governo 2026 (agregador, com link ao TSE) – Flávio Bolsonaro",
+        "url": "https://planodegoverno2026.com.br/candidatos/presidente/flavio-bolsonaro/",
+        "acesso_em": "2026-10-21",
+        "tier": "partidario"
+      },
+      "comparacao": {
+        "rotulo": "Média da OCDE citada pelo plano",
+        "valor": 19
+      }
+    },
+    {
+      "rotulo": "Alíquota do IVA citada por Flávio como meta (CNI)",
+      "valor": 20,
+      "unidade": "%",
+      "periodo": "22/06/2026",
+      "fonte": {
+        "nome": "InvestNews – Planos de Flávio Bolsonaro para a economia (jun/2026)",
+        "url": "https://investnews.com.br/economia/planos-de-flavio-bolsonaro-para-a-economia/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "CBS prevista no PLOA 2027",
+      "valor": 636.8,
+      "unidade": "R$ bilhões",
+      "periodo": "2027",
+      "fonte": {
+        "nome": "IFI – Relatório de Acompanhamento Fiscal nº 116 (set/2026)",
+        "url": "https://www12.senado.leg.br/ifi/pdf/raf116_set2026.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "% do PIB",
+        "valor": 4.3
+      }
+    },
+    {
+      "rotulo": "Imposto Seletivo previsto no PLOA 2027 (receita condicionada)",
+      "valor": 42.0,
+      "unidade": "R$ bilhões",
+      "periodo": "2027",
+      "fonte": {
+        "nome": "IFI – Relatório de Acompanhamento Fiscal nº 116 (set/2026)",
+        "url": "https://www12.senado.leg.br/ifi/pdf/raf116_set2026.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "Estimativa da Fazenda (set/2026)",
+        "valor": 41.9
+      }
+    },
+    {
+      "rotulo": "Itens da cesta básica com IBS/CBS zerados",
+      "valor": 26,
+      "unidade": "itens",
+      "periodo": "LC 214/2025",
+      "fonte": {
+        "nome": "Valor Final – Guia: reforma tributária, cesta básica e cashback",
+        "url": "https://valorfinal.com.br/guia/reforma-tributaria-cesta-basica-e-cashback",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Parcela da renda gasta com tributos sobre consumo pelos 10% mais pobres",
+      "valor": 27,
+      "unidade": "%",
+      "periodo": "2024 (Fazenda/Orair)",
+      "fonte": {
+        "nome": "Correio Braziliense – Rodrigo Orair sobre regressividade dos tributos sobre consumo (26/04/2024)",
+        "url": "https://edicao.correiobraziliense.com.br/correiobraziliense/2024/04/26/140781/pdf/A03-POL-2604-DIG.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "10% mais ricos",
+        "valor": 10
+      }
+    }
+  ],
+  "series": [
+    "carga-tributaria"
+  ],
+  "checagens_externas": [],
+  "fontes": [
+    {
+      "nome": "Plano de Governo 2026 (agregador, com link ao TSE) – Flávio Bolsonaro",
+      "url": "https://planodegoverno2026.com.br/candidatos/presidente/flavio-bolsonaro/",
+      "acesso_em": "2026-10-21",
+      "tier": "partidario"
+    },
+    {
+      "nome": "InvestNews – Planos de Flávio Bolsonaro para a economia (jun/2026)",
+      "url": "https://investnews.com.br/economia/planos-de-flavio-bolsonaro-para-a-economia/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "IFI – Relatório de Acompanhamento Fiscal nº 116 (set/2026)",
+      "url": "https://www12.senado.leg.br/ifi/pdf/raf116_set2026.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Valor Final – Guia: reforma tributária, cesta básica e cashback",
+      "url": "https://valorfinal.com.br/guia/reforma-tributaria-cesta-basica-e-cashback",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Correio Braziliense – Rodrigo Orair sobre regressividade dos tributos sobre consumo (26/04/2024)",
+      "url": "https://edicao.correiobraziliense.com.br/correiobraziliense/2024/04/26/140781/pdf/A03-POL-2604-DIG.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "TSE DivulgaCand – programa de governo de Flávio Bolsonaro (documento 280017104726)",
+      "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/280017104726",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Congresso em Foco – Com alíquotas indefinidas, Fazenda mantém Imposto Seletivo para 2027 (set/2026)",
+      "url": "https://www.congressoemfoco.com.br/noticia/119267/com-aliquotas-indefinidas-fazenda-mantem-imposto-seletivo-para-2027",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Monitor Mercantil – Appy: Congresso reduziu espaço para cashback na reforma tributária",
+      "url": "https://monitormercantil.com.br/appy-congresso-reduziu-espaco-para-cashback-na-reforma-tributaria/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/12_pix_fake_news_e_impostos_quem_paga.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "Quando a reforma começa a valer?",
+      "resposta": "A transição começou em 2026 e vai até 2033; o ICMS e o ISS são extintos até 2032 e o Imposto Seletivo entra em 2027."
+    },
+    {
+      "pergunta": "Qual será a alíquota?",
+      "resposta": "Ainda não há alíquota de referência fixada para IBS e CBS; o Imposto Seletivo também não tinha alíquotas em set/2026."
+    },
+    {
+      "pergunta": "A reforma ajuda os mais pobres?",
+      "resposta": "Prevê cesta básica isenta e cashback para o CadÚnico; estudos do Banco Mundial indicam que o cashback é mais eficiente que a isenção ampla, e Appy admite que as exceções reduziram o espaço do cashback."
+    },
+    {
+      "pergunta": "O que Flávio propõe?",
+      "resposta": "Revisar a reforma para limitar a alíquota, cortar 'exceções setoriais criadas por lobbies', eliminar o split payment e já falou em suspender a vigência por um ano."
+    }
+  ],
+  "relacionadas": [
+    "corte-de-200-bilhoes-em-regalias-de-brasilia",
+    "carga-tributaria-recorde",
+    "impostos-do-lula-so-atingem-super-ricos"
+  ],
+  "lacunas": [
+    "PDF do plano de Flávio no TSE retornou 403; leitura via agregador. Calendário detalhado 2026-2033 e artigos exatos do cashback (100%/20%) não verificados no texto legal."
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false
+}

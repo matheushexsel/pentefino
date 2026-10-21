@@ -1,0 +1,260 @@
+{
+  "id": "chk-3014",
+  "slug": "governo-cassou-a-concessao-da-enel",
+  "frase": "O governo já cassou a concessão da Enel em São Paulo.",
+  "frase_normalizada": "o governo já cassou a concessão da enel em são paulo",
+  "variantes": [],
+  "autor": {
+    "nome": "Afirmação recorrente em redes sociais e no debate eleitoral (sem autor único identificado nas notas)",
+    "partido": null,
+    "cargo": null
+  },
+  "lado": "outro",
+  "alvo": {
+    "nome": "Enel Distribuição São Paulo",
+    "partido": null
+  },
+  "data": null,
+  "onde": "redes sociais",
+  "url_declaracao": null,
+  "temas": [
+    "energia"
+  ],
+  "tags": [
+    "Enel SP",
+    "caducidade",
+    "ANEEL",
+    "MME",
+    "apagão"
+  ],
+  "veredito": "falso",
+  "resumo_uma_frase": "Em 21/10/2026 não havia decisão: em 06/10/2026 duas diretoras da ANEEL votaram por recomendar a caducidade, um diretor pediu vista (prazo de 60 dias) e a palavra final cabe ao MME, que fala em solução 'negociada'.",
+  "explicacao_simples": [
+    "Em 06/10/2026 a relatora Agnes Costa e a diretora Ludimila Silva votaram por recomendar ao MME o fim da concessão; o diretor Gentil Nogueira pediu vista e o caso volta em até 60 dias.",
+    "Mesmo após a ANEEL concluir, a decisão final é do Ministério de Minas e Energia, cujo ministro Alexandre Silveira pediu a rescisão em dez/2025 e depois passou a falar em solução 'negociada'.",
+    "A caducidade poderia custar mais de R$ 10 bilhões em indenização de ativos não amortizados; a concessão vence em 2028."
+  ],
+  "explicacao_completa_md": "## Onde o processo está\n- Processo 48500.903331/2024-72, aberto pela ANEEL em 2024 após os apagões de 03/11/2023 (~4 milhões de pessoas; multa de R$ 165,8 mi) e 11/10/2024 (2,1 milhões de endereços; prejuízo de R$ 1,65 bi estimado pela FecomercioSP); novo apagão em dez/2025 (mais de 4 milhões de imóveis).\n- Suspenso e liberado pela Justiça Federal em mar/2026; em 11/08/2026 a diretoria rejeitou por unanimidade o pedido de reconsideração da Enel; alegações finais em ago/2026.\n- 06/10/2026: duas diretoras votam por recomendar a caducidade; pedido de vista; 60 dias corridos para retorno. O diretor-geral Sandoval Feitosa disse que a ANEEL sofreu pressão 'de todas as esferas de poder'. Desde 2019 foram 11 planos de melhoria pactuados, 7 rejeitados.\n- Posições: governador Tarcísio de Freitas e prefeito Ricardo Nunes pediram o fim do contrato; prefeitos de 22 municípios defenderam manter; o TCU recomendou analisar os custos e o MP-TCU sugeriu solução consensual. A Enel diz ter investido ~R$ 6,5 bi entre 2024 e jul/2026.\n\n## Veredito\n**Falso.** Nem a ANEEL concluiu a recomendação nem o MME decidiu. Também é falso dizer que a ANEEL 'inocentou' a Enel.",
+  "o_que_e_verdade": [
+    "A ANEEL está em fase final de um processo de caducidade e duas diretoras já votaram pela recomendação."
+  ],
+  "o_que_nao_se_sustenta": [
+    "Não houve cassação: falta o voto de vista, a conclusão da ANEEL e a decisão do MME, que pode optar por caducidade, solução negociada ou nova licitação."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "ANEEL",
+      "papel": "conduz o processo e recomenda ao MME",
+      "peso": "alto"
+    },
+    {
+      "ator": "MME (Alexandre Silveira)",
+      "papel": "decisão final",
+      "peso": "alto"
+    },
+    {
+      "ator": "Enel SP",
+      "papel": "falhas de serviço e multas (> R$ 404 mi desde 2018)",
+      "peso": "alto"
+    },
+    {
+      "ator": "Justiça Federal e TCU",
+      "papel": "suspensão/liberação e recomendações",
+      "peso": "baixo"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Pessoas sem luz no apagão de 03/11/2023",
+      "valor": 4000000,
+      "unidade": "pessoas (aprox.)",
+      "periodo": "nov/2023",
+      "fonte": {
+        "nome": "Poder360 – ANEEL mantém multa de R$ 165 milhões à Enel por apagão em SP",
+        "url": "https://www.poder360.com.br/energia/aneel-mantem-multa-de-r-165-milhoes-a-enel-por-apagao-em-sp",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Multa pela demora na religação em nov/2023",
+      "valor": 165.8,
+      "unidade": "R$ milhões",
+      "periodo": "fev/2024",
+      "fonte": {
+        "nome": "Mercado&Consumo – ANEEL aplica multa de R$ 165,8 milhões à Enel SP (09/02/2024)",
+        "url": "https://mercadoeconsumo.com.br/09/02/2024/economia/aneel-aplica-multa-de-r-1658-milhoes-a-enel-sp-por-apagao-em-novembro/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Endereços sem energia no apagão de 11/10/2024",
+      "valor": 2100000,
+      "unidade": "endereços (mais de)",
+      "periodo": "out/2024",
+      "fonte": {
+        "nome": "Correio Braziliense – Apagão em SP, 16/10/2024 (PDF)",
+        "url": "https://edicao.correiobraziliense.com.br/correiobraziliense/2024/10/16/1023d7/pdf/A05-POL-1610-DIG.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Prejuízo estimado pela FecomercioSP (out/2024)",
+      "valor": 1.65,
+      "unidade": "R$ bilhões",
+      "periodo": "out/2024",
+      "fonte": {
+        "nome": "Correio Braziliense – Apagão em SP, 16/10/2024 (PDF)",
+        "url": "https://edicao.correiobraziliense.com.br/correiobraziliense/2024/10/16/1023d7/pdf/A05-POL-1610-DIG.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Multas acumuladas pela Enel SP desde 2018",
+      "valor": 404,
+      "unidade": "R$ milhões (mais de)",
+      "periodo": "2018–2026",
+      "fonte": {
+        "nome": "Wikipédia (pt) – Enel Distribuição São Paulo (fonte secundária)",
+        "url": "https://pt.wikipedia.org/wiki/Enel_Distribui%C3%A7%C3%A3o_S%C3%A3o_Paulo",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Custo preliminar estimado da caducidade",
+      "valor": 10,
+      "unidade": "R$ bilhões (acima de)",
+      "periodo": "out/2026",
+      "fonte": {
+        "nome": "eixos/Estadão Conteúdo – Votação da caducidade da Enel SP na ANEEL (06/10/2026)",
+        "url": "https://eixos.com.br/?p=540887",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Planos de melhoria rejeitados pela ANEEL desde 2019",
+      "valor": 7,
+      "unidade": "de 11",
+      "periodo": "2019–2026",
+      "fonte": {
+        "nome": "eixos/Estadão Conteúdo – Votação da caducidade da Enel SP na ANEEL (06/10/2026)",
+        "url": "https://eixos.com.br/?p=540887",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Prazo do pedido de vista",
+      "valor": 60,
+      "unidade": "dias corridos",
+      "periodo": "a partir de 06/10/2026",
+      "fonte": {
+        "nome": "eixos/Estadão Conteúdo – Votação da caducidade da Enel SP na ANEEL (06/10/2026)",
+        "url": "https://eixos.com.br/?p=540887",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    }
+  ],
+  "series": [
+    "reajustes-enel-sp"
+  ],
+  "checagens_externas": [],
+  "fontes": [
+    {
+      "nome": "eixos/Estadão Conteúdo – Votação da caducidade da Enel SP na ANEEL (06/10/2026)",
+      "url": "https://eixos.com.br/?p=540887",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Agência iNFRA – Caducidade da Enel SP (01/10/2026)",
+      "url": "https://agenciainfra.com/blog/?p=48315",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Mercado&Consumo – Enel apresenta alegações finais contra caducidade (21/08/2026)",
+      "url": "https://mercadoeconsumo.com.br/21/08/2026/economia/sp-enel-apresenta-alegacoes-finais-contra-caducidade-da-concessao/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Band – ANEEL marca votação de processo sobre rompimento de contrato da Enel SP",
+      "url": "https://www.band.com.br/nacional/sp/enel-em-sp-aneel-marca-votacao-de-processo-sobre-rompimento-de-contrato",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Agência iNFRA – tag Enel SP",
+      "url": "https://agenciainfra.com/blog/tag/enel-sp/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Poder360 – ANEEL mantém multa de R$ 165 milhões à Enel por apagão em SP",
+      "url": "https://www.poder360.com.br/energia/aneel-mantem-multa-de-r-165-milhoes-a-enel-por-apagao-em-sp",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Mercado&Consumo – ANEEL aplica multa de R$ 165,8 milhões à Enel SP (09/02/2024)",
+      "url": "https://mercadoeconsumo.com.br/09/02/2024/economia/aneel-aplica-multa-de-r-1658-milhoes-a-enel-sp-por-apagao-em-novembro/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Correio Braziliense – Apagão em SP, 16/10/2024 (PDF)",
+      "url": "https://edicao.correiobraziliense.com.br/correiobraziliense/2024/10/16/1023d7/pdf/A05-POL-1610-DIG.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "InfoMoney – Pressionada pelo governo, ANEEL cita multas de R$ 320 milhões à Enel",
+      "url": "https://www.infomoney.com.br/politica/pressionada-pelo-governo-aneel-se-defende-e-cita-multas-de-r-320-milhoes-a-enel/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Wikipédia (pt) – Enel Distribuição São Paulo (fonte secundária)",
+      "url": "https://pt.wikipedia.org/wiki/Enel_Distribui%C3%A7%C3%A3o_S%C3%A3o_Paulo",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Cenário Energia – ANEEL aprova reajuste da Enel São Paulo com efeito médio de 10,18% (30/06/2026)",
+      "url": "https://cenarioenergia.com.br/2026/06/30/aneel-aprova-reajuste-da-enel-sao-paulo-com-efeito-medio-de-1018/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/06_energia_eletrobras_combustiveis.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "Quem decide no fim?",
+      "resposta": "O MME. A sequência é: ANEEL recomenda (ou não) → MME decide entre caducidade, solução negociada ou nova licitação."
+    }
+  ],
+  "relacionadas": [
+    "a-conta-de-luz-subiu-por-culpa-do-governo-federal",
+    "enel-aumentou-a-conta-para-lucrar-mais"
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false,
+  "lacunas": [
+    "Autoria, data e local da declaração não documentados nas notas; a checagem trata a afirmação em sua forma recorrente.",
+    "Número total de clientes afetados e dias sem luz em out/2024 e dez/2025 (dados consolidados da ANEEL) não localizados.",
+    "Checagens já publicadas por Aos Fatos, Lupa, Estadão Verifica e Comprova sobre o tema não foram consultadas (cota de busca esgotada); cruzar antes da publicação."
+  ]
+}

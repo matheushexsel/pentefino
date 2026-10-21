@@ -1,0 +1,187 @@
+{
+  "id": "chk-2033",
+  "slug": "psdb-tambem-foi-condenado-na-lava-jato",
+  "frase": "O PSDB também foi condenado na Lava Jato, igual ao PT.",
+  "frase_normalizada": "o psdb tambem foi condenado na lava jato igual ao pt",
+  "variantes": [
+    "Aécio foi condenado",
+    "Os tucanos também roubaram e foram condenados"
+  ],
+  "autor": {
+    "nome": "frase que circula nas redes",
+    "partido": null,
+    "cargo": null
+  },
+  "lado": "ambos",
+  "alvo": {
+    "nome": "PSDB",
+    "partido": "PSDB"
+  },
+  "data": null,
+  "onde": null,
+  "url_declaracao": null,
+  "temas": [
+    "corrupcao",
+    "justica-stf"
+  ],
+  "tags": [
+    "corrupcao",
+    "justica-stf"
+  ],
+  "veredito": "insustentavel",
+  "resumo_uma_frase": "O PSDB teve 77 políticos citados na delação da Odebrecht e dirigentes investigados ou presos preventivamente (Beto Richa), mas nenhum dirigente nacional foi condenado criminalmente na Lava Jato: Aécio Neves foi absolvido no caso JBS (2022, confirmado pelo TRF-3) e Richa teve os processos anulados.",
+  "explicacao_simples": [
+    "O PSDB aparece muito nas delações da Odebrecht (77 citados), e Aécio Neves chegou a ser denunciado e Beto Richa a ser preso.",
+    "Mas citação e prisão preventiva não são condenação: Aécio foi absolvido em 2022 e Richa teve seus processos anulados em 2023.",
+    "Não há registro, nas fontes, de dirigente nacional do PSDB condenado criminalmente na Lava Jato; os condenados de primeira linha foram de PT, PP, PMDB e PTB/PTC (Collor)."
+  ],
+  "explicacao_completa_md": "Delação da Odebrecht (Estadão, abr/2017): ao menos 415 políticos de 26 partidos citados: PT 93, PSDB 77, PMDB 77, PP 35, DEM 22, PSB 19, PSD 15. 'Lista de Fachin' (inquéritos abertos no STF): PT 16, PMDB 14, PSDB 11, PP 8. **PSDB:** Aécio Neves foi denunciado pela PGR em 02/06/2017 (corrupção passiva e obstrução, JBS, R$ 2 milhões), tornou-se réu em 2018 e foi absolvido pela 7ª Vara Criminal Federal de SP em 11/03/2022 ('provada a inexistência do crime'), com confirmação unânime do TRF-3 em 27/07/2022; o inquérito de Furnas foi arquivado (2021). Beto Richa foi preso três vezes (2018-2019), sem condenação criminal na Lava Jato; o STF anulou seus processos em 2023 e Toffoli estendeu a anulação a 23 investigados do PR (2024). **Comparação:** políticos com condenação em alguma instância na Lava Jato incluem PT (Lula, Dirceu, Vaccari, Palocci, Delúbio, André Vargas), PP (Pedro Corrêa, Nelson Meurer), PMDB (Cunha, Cabral, Geddel) e Collor (PTB/PTC); em out/2026, com condenação vigente, restam Collor (preso desde 25/04/2025, domiciliar), Meurer e Geddel (status não verificado) e parte das sentenças de Cabral; as de Lula, Dirceu, Vaccari, Palocci, Delúbio e Cunha foram anuladas ou prescreveram. A nota 04 ressalta que a tabela é parcial e não cobre condenados regionais.",
+  "o_que_e_verdade": [
+    "O PSDB teve 77 políticos citados na delação da Odebrecht e 11 inquéritos abertos no STF em 2017; Aécio foi réu e Richa foi preso preventivamente."
+  ],
+  "o_que_nao_se_sustenta": [
+    "'Condenado igual ao PT': não há registro de dirigente nacional do PSDB condenado criminalmente na Lava Jato; Aécio foi absolvido no mérito e Richa teve os processos anulados."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Justiça Federal de SP e TRF-3",
+      "papel": "absolveram Aécio Neves (2022)",
+      "peso": "alto"
+    },
+    {
+      "ator": "STF (Gilmar Mendes; Toffoli)",
+      "papel": "anulou os processos de Beto Richa e de 23 investigados do PR",
+      "peso": "alto"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Políticos do PSDB citados na delação da Odebrecht",
+      "valor": 77,
+      "unidade": "pessoas",
+      "periodo": "abr/2017",
+      "fonte": {
+        "nome": "Bahia Notícias/Estadão, 16/04/2017 (415 políticos citados)",
+        "url": "https://www.bahianoticias.com.br/noticia/205988-pacote-de-delacao-do-fim-do-mundo-cita-415-politicos-de-26-partidos",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "Políticos do PT citados",
+        "valor": 93
+      }
+    },
+    {
+      "rotulo": "Inquéritos no STF contra o PSDB na 'lista de Fachin'",
+      "valor": 11,
+      "unidade": "inquéritos",
+      "periodo": "abr/2017",
+      "fonte": {
+        "nome": "Congresso em Foco (lista de Fachin)",
+        "url": "https://congressoemfoco.com.br/noticia/35468/lista-de-fachin-pt-pmdb-e-psdb-tem-maior-numero-de-nomes-na-lista-de-investigados",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Dirigentes nacionais do PSDB condenados criminalmente na Lava Jato",
+      "valor": 0,
+      "unidade": "pessoas (nas fontes das notas)",
+      "periodo": "2014-2026",
+      "fonte": {
+        "nome": "Agência Brasil, 17/03/2024 (Lava Jato 10 anos)",
+        "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2024-03/lava-jato-completa-10-anos-com-resultados-em-xeque-e-prestigio-abalado",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Prisões preventivas de Beto Richa",
+      "valor": 3,
+      "unidade": "prisões (2018-2019), sem condenação",
+      "periodo": "2018-2019",
+      "fonte": {
+        "nome": "Wikipédia: Beto Richa (índice)",
+        "url": "https://pt.wikipedia.org/wiki/Beto_Richa",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": null
+    }
+  ],
+  "series": [],
+  "checagens_externas": [],
+  "fontes": [
+    {
+      "nome": "Bahia Notícias/Estadão, 16/04/2017 (415 políticos citados)",
+      "url": "https://www.bahianoticias.com.br/noticia/205988-pacote-de-delacao-do-fim-do-mundo-cita-415-politicos-de-26-partidos",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Congresso em Foco (lista de Fachin)",
+      "url": "https://congressoemfoco.com.br/noticia/35468/lista-de-fachin-pt-pmdb-e-psdb-tem-maior-numero-de-nomes-na-lista-de-investigados",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Agência Brasil, 17/03/2024 (Lava Jato 10 anos)",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2024-03/lava-jato-completa-10-anos-com-resultados-em-xeque-e-prestigio-abalado",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Wikipédia: Beto Richa (índice)",
+      "url": "https://pt.wikipedia.org/wiki/Beto_Richa",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Wikipédia: Aécio Neves (índice)",
+      "url": "https://pt.wikipedia.org/wiki/A%C3%A9cio_Neves",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "A Tarde (Justiça de SP absolve Aécio no caso JBS)",
+      "url": "https://atarde.com.br/politica/brasil/justica-de-sp-absolve-aecio-neves-no-caso-jbs-1189525",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/04_escandalos_mensalao_petrolao_lavajato.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "Aécio Neves foi condenado?",
+      "resposta": "Não. Foi denunciado (2017) e absolvido em 11/03/2022 pela Justiça Federal de SP, com confirmação do TRF-3 em 27/07/2022; hoje é deputado e presidente nacional do PSDB."
+    },
+    {
+      "pergunta": "Beto Richa foi condenado na Lava Jato?",
+      "resposta": "Não criminalmente. Foi preso preventivamente três vezes e teve condenação em 2ª instância por improbidade (caso não ligado à Lava Jato); o STF anulou seus processos em 2023."
+    },
+    {
+      "pergunta": "Então o PSDB não teve nada a ver com a Lava Jato?",
+      "resposta": "Teve: 77 citados nas delações, 11 inquéritos no STF e prisões preventivas. A diferença está no desfecho: absolvição e arquivamento, não condenação."
+    }
+  ],
+  "relacionadas": [
+    "so-o-pt-foi-condenado-no-mensalao",
+    "lula-foi-condenado-e-descondenado",
+    "lula-foi-inocentado"
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false,
+  "nao_verificado": true,
+  "lacunas": [
+    "Não existe levantamento oficial de 'condenados por partido' na Lava Jato; a tabela da nota 04 é parcial e exclui condenados regionais.",
+    "Nenhuma checagem de agência com esta redação consta nas notas."
+  ]
+}

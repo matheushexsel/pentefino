@@ -1,0 +1,145 @@
+{
+  "id": "reoneracao-folha-lei-14973-2024",
+  "nome": "Reoneração gradual da folha de pagamentos de 17 setores (Lei 14.973/2024)",
+  "tipo": "imposto",
+  "governo": "lula-3",
+  "lado": "governo-lula-pt",
+  "norma": {
+    "nome": "Lei 14.973/2024 (DOU edição extra de 16/09/2024, com 4 vetos); antecedente: Lei 14.288/2021 (Bolsonaro) prorrogou a desoneração até 31/12/2023",
+    "data": "2024-09-16",
+    "url": "https://www12.senado.leg.br/noticias/materias/2024/09/17/lula-sanciona-com-vetos-reoneracao-gradual-da-folha-de-pagamentos",
+    "vigencia": "Desoneração integral mantida em 2024; transição de 2025 a 2027; fim da CPRB em 2028"
+  },
+  "status": "em-vigor",
+  "o_que_faz_simples": [
+    "Desde 2011-2012, 17 setores (como tecnologia, call center, construção, transporte) podiam pagar a CPRB (1% a 4,5% sobre a receita) em vez dos 20% de contribuição patronal sobre a folha. A Lei 14.288/2021 (governo Bolsonaro) prorrogou isso até 31/12/2023, com +1% de Cofins-Importação como compensação.",
+    "A Lei 14.973/2024 acabou com o benefício aos poucos: desoneração integral em 2024; contribuição sobre a folha de 5% em 2025, 10% em 2026, 15% em 2027 e 20% em 2028 (fim da CPRB).",
+    "O adicional de Cofins-Importação cai para 0,8% (2025), 0,6% (2026) e 0,4% (2027).",
+    "Foi um acordo entre o governo Lula e o Congresso, após disputa no STF em 2024."
+  ],
+  "quem_ganha": {
+    "descricao": "Previdência/União (recuperação gradual da receita da contribuição patronal). Valores não constam das notas.",
+    "pessoas": null,
+    "faixa_renda": "Não se aplica",
+    "fonte": {
+      "nome": "Agência Senado — Lula sanciona com vetos reoneração gradual da folha de pagamentos (17/09/2024)",
+      "url": "https://www12.senado.leg.br/noticias/materias/2024/09/17/lula-sanciona-com-vetos-reoneracao-gradual-da-folha-de-pagamentos",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    }
+  },
+  "quem_paga": {
+    "descricao": "Empresas dos 17 setores desonerados, com custo de folha crescente até 2028. Efeito sobre emprego não consta das notas.",
+    "pessoas": null,
+    "faixa_renda": "Não se aplica (empresas)",
+    "fonte": {
+      "nome": "Deel — como fica a desoneração da folha de pagamento no Brasil",
+      "url": "https://www.deel.com/pt/blog/como-fica-desoneracao-folha-de-pagamento-brasil/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  },
+  "custo_ou_arrecadacao": {
+    "valor": null,
+    "unidade": "R$ bilhões",
+    "periodo": null,
+    "descricao": "Renúncia da desoneração e ganho de receita com a reoneração não constam das notas.",
+    "fonte": {
+      "nome": "Agência Senado — Lula sanciona com vetos reoneração gradual da folha de pagamentos (17/09/2024)",
+      "url": "https://www12.senado.leg.br/noticias/materias/2024/09/17/lula-sanciona-com-vetos-reoneracao-gradual-da-folha-de-pagamentos",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    }
+  },
+  "regra_simulador": {
+    "tipo": "tabela",
+    "parametros": {
+      "base": "folha de pagamentos de empresa dos 17 setores desonerados",
+      "contribuicao_patronal_sobre_folha_pct_por_ano": {
+        "2024": 0,
+        "2025": 5,
+        "2026": 10,
+        "2027": 15,
+        "2028": 20
+      },
+      "observacao": "percentuais de reoneração da contribuição patronal (20% é a alíquota cheia); a parcela da CPRB sobre a receita que continua até 2027 não está detalhada nas notas",
+      "cofins_importacao_adicional_pct_por_ano": {
+        "2025": 0.8,
+        "2026": 0.6,
+        "2027": 0.4
+      },
+      "fonte_formula": "Agência Senado",
+      "fonte_formula_url": "https://www12.senado.leg.br/noticias/materias/2024/09/17/lula-sanciona-com-vetos-reoneracao-gradual-da-folha-de-pagamentos"
+    }
+  },
+  "mitos": [
+    {
+      "mito": "O governo Lula acabou com a desoneração da folha de uma vez.",
+      "fato": "A Lei 14.973/2024 manteve a desoneração integral em 2024 e criou transição gradual: 5% em 2025, 10% em 2026, 15% em 2027 e 20% (fim da CPRB) em 2028.",
+      "fontes": [
+        {
+          "nome": "Agência Senado — Lula sanciona com vetos reoneração gradual da folha de pagamentos (17/09/2024)",
+          "url": "https://www12.senado.leg.br/noticias/materias/2024/09/17/lula-sanciona-com-vetos-reoneracao-gradual-da-folha-de-pagamentos",
+          "acesso_em": "2026-10-21",
+          "tier": "oficial"
+        },
+        {
+          "nome": "Deel — como fica a desoneração da folha de pagamento no Brasil",
+          "url": "https://www.deel.com/pt/blog/como-fica-desoneracao-folha-de-pagamento-brasil/",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        }
+      ]
+    },
+    {
+      "mito": "A desoneração da folha era permanente antes de 2023.",
+      "fato": "A desoneração sempre teve prazo: a Lei 14.288/2021, do governo Bolsonaro, prorrogou-a até 31/12/2023, com compensação de +1% de Cofins-Importação.",
+      "fontes": [
+        {
+          "nome": "Agência Senado — lei de desoneração de folha para 17 setores é publicada (03/01/2022)",
+          "url": "https://www12.senado.leg.br/noticias/materias/2022/01/03/lei-de-desoneracao-de-folha-para-17-setores-da-economia-e-publicada",
+          "acesso_em": "2026-10-21",
+          "tier": "oficial"
+        },
+        {
+          "nome": "Folha Vitória — Bolsonaro sanciona lei que prorroga desoneração até 2023",
+          "url": "https://www.folhavitoria.com.br/politica/bolsonaro-sanciona-lei-que-prorroga-desoneracao-da-folha-de-pagamentos-ate-2023/",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Agência Senado — Lula sanciona com vetos reoneração gradual da folha de pagamentos (17/09/2024)",
+      "url": "https://www12.senado.leg.br/noticias/materias/2024/09/17/lula-sanciona-com-vetos-reoneracao-gradual-da-folha-de-pagamentos",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Deel — como fica a desoneração da folha de pagamento no Brasil",
+      "url": "https://www.deel.com/pt/blog/como-fica-desoneracao-folha-de-pagamento-brasil/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Agência Senado — lei de desoneração de folha para 17 setores é publicada (03/01/2022)",
+      "url": "https://www12.senado.leg.br/noticias/materias/2022/01/03/lei-de-desoneracao-de-folha-para-17-setores-da-economia-e-publicada",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Folha Vitória — Bolsonaro sanciona lei que prorroga desoneração até 2023",
+      "url": "https://www.folhavitoria.com.br/politica/bolsonaro-sanciona-lei-que-prorroga-desoneracao-da-folha-de-pagamentos-ate-2023/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/12_pix_fake_news_e_impostos_quem_paga.md",
+  "lacunas": [
+    "Renúncia fiscal da desoneração e ganho de receita com a reoneração não constam das notas.",
+    "Lista dos 17 setores e regra da CPRB residual durante a transição não detalhadas nas notas."
+  ],
+  "atualizado_em": "2026-10-21"
+}

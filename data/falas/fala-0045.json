@@ -1,0 +1,59 @@
+{
+  "id": "fala-0045",
+  "slug": "lula-pib-nivelado-em-3-por-cento-2023-2025",
+  "evento_id": "sabatina-jn-lula-2026-08-27",
+  "candidato": "lula",
+  "lado": "governo-lula-pt",
+  "minuto": null,
+  "frase_literal": "O PIB cresceu em torno de 3% em 2023, 2024 e 2025.",
+  "literal": false,
+  "tema": "economia",
+  "veredito": "impreciso",
+  "resumo_uma_frase": "Nivelar os três anos 'em 3%' esconde a desaceleração: 2025 cresceu 2,3%.",
+  "explicacao_simples": [
+    "Lula, na sabatina do Jornal Nacional (27/8/2026), afirmou (em paráfrase registrada por Ranking dos Políticos) que o PIB cresceu em torno de 3% em 2023, 2024 e 2025.",
+    "O Ranking classificou como parcial: o crescimento de 2025 foi de 2,3%, abaixo dos 3% dos dois anos anteriores.",
+    "Há um erro de detalhe (número, data ou instituição) que não muda o sentido geral; por isso a classificação é 'impreciso'."
+  ],
+  "o_que_e_verdade": [
+    "2023 e 2024 cresceram em torno de 3%."
+  ],
+  "o_que_nao_se_sustenta": [
+    "2025 fechou em 2,3%."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Crescimento do PIB",
+      "valor": 2.3,
+      "unidade": "%",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Ranking dos Políticos",
+        "url": "https://ranking.org.br/en/articles/checagem-sabatina-jornal-nacional-2026-2",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      }
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Ranking dos Políticos",
+      "veredito_original": "PARCIAL",
+      "url": "https://ranking.org.br/en/articles/checagem-sabatina-jornal-nacional-2026-2",
+      "data": "2026-08-28"
+    }
+  ],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Ranking dos Políticos",
+      "url": "https://ranking.org.br/en/articles/checagem-sabatina-jornal-nacional-2026-2",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
+  "atualizado_em": "2026-10-21"
+}

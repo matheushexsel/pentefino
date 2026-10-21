@@ -1,0 +1,206 @@
+{
+  "id": "chk-2098",
+  "slug": "bolsonaro-privatizou-a-eletrobras",
+  "frase": "Bolsonaro privatizou a Eletrobras a preço de banana.",
+  "frase_normalizada": "bolsonaro privatizou a eletrobras a preco de banana",
+  "variantes": [
+    "A Petrobras foi privatizada a preço de banana (fala de Lula na Band)",
+    "Bolsonaro entregou a Eletrobras"
+  ],
+  "autor": {
+    "nome": "Luiz Inácio Lula da Silva",
+    "partido": "PT",
+    "cargo": "presidente da República e candidato à reeleição"
+  },
+  "lado": "governo-lula-pt",
+  "alvo": {
+    "nome": "Governo Bolsonaro (2019-2022)",
+    "partido": "PL"
+  },
+  "data": "2026-10-18",
+  "onde": "Debate da Band (consórcio Band/Cultura/Gazeta/Jovem Pan/Estadão), São Paulo (Lula disse 'Petrobras'; agências entenderam Eletrobras)",
+  "url_declaracao": "https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026",
+  "temas": [
+    "energia",
+    "economia",
+    "eleicao-2026"
+  ],
+  "tags": [
+    "energia",
+    "economia",
+    "eleicao-2026"
+  ],
+  "veredito": "verdadeiro-mas",
+  "resumo_uma_frase": "A Eletrobras foi privatizada em 14/06/2022, no governo Bolsonaro, com R$ 33,7 bilhões arrecadados e a União caindo de 68,6% para 40,3% do capital votante; 'preço de banana' é avaliação, e Lula errou ao dizer 'Petrobras' no debate (Ranking: falso), empresa que não foi privatizada, embora Bolsonaro tenha vendido BR Distribuidora, TAG, NTS, RLAM e ações da Petrobras.",
+  "explicacao_simples": [
+    "A Eletrobras foi de fato privatizada em junho de 2022, no governo Bolsonaro, por R$ 33,7 bilhões; a União ficou com 40,3% do capital votante.",
+    "No debate Lula falou em 'Petrobras', o que o Ranking classificou como falso: a Petrobras não foi privatizada, embora subsidiárias (BR Distribuidora, TAG, NTS, refinaria RLAM) e ações tenham sido vendidas.",
+    "'Preço de banana' é opinião; as notas registram o valor da operação, não uma avaliação independente do preço justo."
+  ],
+  "explicacao_completa_md": "Ranking dos Políticos: FALSO para 'Petrobras privatizada a preço de banana' (Lula provavelmente se referia à Eletrobras, 2022). **Fatos (nota 07):** privatizações/desinvestimentos do governo Bolsonaro somaram R$ 304,2 bilhões: Eletrobras R$ 33,7 bilhões (14/06/2022; União de 68,6% para 40,3% do capital votante), TAG R$ 33,5 bilhões, BR Distribuidora R$ 21 bilhões, NTS R$ 21 bilhões, RLAM R$ 8,9 bilhões, ações da Petrobras R$ 31,5 bilhões e da Vale R$ 24,5 bilhões, 5G R$ 46,8 bilhões, 12 aeroportos; leilão da cessão onerosa (2019) cerca de R$ 70 bilhões. Governos anteriores também privatizaram/concederam: Lula 1-2 (rodovias em 2007, Norte-Sul para a Vale por R$ 1,4 bilhão, bancos BEC e BEM); Dilma (6 aeroportos, R$ 46 bilhões em outorgas; Libra R$ 15 bilhões); Temer (R$ 46,4 bilhões em outorgas). Lula 3 lidera em concessões (50 leilões em 2023-2025) sem venda de estatais. A nota 07 infere: 'Bolsonaro liderou em privatizações (venda de ativos); Lula 3 lidera em concessões'. Flávio disse em 2026 que privatizaria 95% das estatais; sua campanha nega privatizar Petrobras, BB e Caixa.",
+  "o_que_e_verdade": [
+    "A Eletrobras foi privatizada em 14/06/2022 no governo Bolsonaro (R$ 33,7 bilhões; União de 68,6% para 40,3% do capital votante).",
+    "O governo Bolsonaro arrecadou R$ 304,2 bilhões em privatizações e desinvestimentos, incluindo subsidiárias da Petrobras."
+  ],
+  "o_que_nao_se_sustenta": [
+    "'Petrobras privatizada' (como Lula disse na Band): a Petrobras segue estatal; foram vendidas subsidiárias e ações.",
+    "'Preço de banana': avaliação sem medida objetiva nas notas."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Governo Bolsonaro e Congresso (lei de desestatização da Eletrobras)",
+      "papel": "privatizaram a Eletrobras em 2022",
+      "peso": "alto"
+    },
+    {
+      "ator": "Lula",
+      "papel": "errou o nome da empresa no debate",
+      "peso": "medio"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Arrecadação com a privatização da Eletrobras",
+      "valor": 33.7,
+      "unidade": "R$ bilhões",
+      "periodo": "14/06/2022",
+      "fonte": {
+        "nome": "Wikipédia: Privatização no Brasil (índice)",
+        "url": "https://pt.wikipedia.org/wiki/Privatiza%C3%A7%C3%A3o_no_Brasil",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Participação da União no capital votante da Eletrobras após a privatização",
+      "valor": 40.3,
+      "unidade": "%",
+      "periodo": "2022",
+      "fonte": {
+        "nome": "Wikipédia: Eletrobras (índice)",
+        "url": "https://pt.wikipedia.org/wiki/Eletrobras",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "Antes",
+        "valor": 68.6
+      }
+    },
+    {
+      "rotulo": "Total de privatizações/desinvestimentos do governo Bolsonaro",
+      "valor": 304.2,
+      "unidade": "R$ bilhões",
+      "periodo": "2019-2022",
+      "fonte": {
+        "nome": "Wikipédia: Privatização no Brasil (índice)",
+        "url": "https://pt.wikipedia.org/wiki/Privatiza%C3%A7%C3%A3o_no_Brasil",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Venda de ações da Petrobras pelo governo Bolsonaro",
+      "valor": 31.5,
+      "unidade": "R$ bilhões",
+      "periodo": "2019-2022",
+      "fonte": {
+        "nome": "Wikipédia: Privatização no Brasil (índice)",
+        "url": "https://pt.wikipedia.org/wiki/Privatiza%C3%A7%C3%A3o_no_Brasil",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Leilões de concessão do governo Lula 3",
+      "valor": 50,
+      "unidade": "leilões (sem venda de estatais)",
+      "periodo": "2023-2025",
+      "fonte": {
+        "nome": "Jornal de Brasília/Folhapress, 18/01/2026 (Lula supera Bolsonaro e FHC em concessões)",
+        "url": "https://jornaldebrasilia.com.br/noticias/economia/lula-supera-bolsonaro-e-fhc-como-governo-que-mais-fez-concessoes-de-infraestrutura/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": null
+    }
+  ],
+  "series": [
+    "privatizacoes-por-governo",
+    "leiloes-infraestrutura-por-governo"
+  ],
+  "checagens_externas": [
+    {
+      "veiculo": "Ranking dos Políticos",
+      "veredito_original": "FALSO ('Petrobras privatizada a preço de banana')",
+      "url": "https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026",
+      "data": "2026-10-18"
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Wikipédia: Privatização no Brasil (índice)",
+      "url": "https://pt.wikipedia.org/wiki/Privatiza%C3%A7%C3%A3o_no_Brasil",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Wikipédia: Eletrobras (índice)",
+      "url": "https://pt.wikipedia.org/wiki/Eletrobras",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Jornal de Brasília/Folhapress, 18/01/2026 (Lula supera Bolsonaro e FHC em concessões)",
+      "url": "https://jornaldebrasilia.com.br/noticias/economia/lula-supera-bolsonaro-e-fhc-como-governo-que-mais-fez-concessoes-de-infraestrutura/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Ranking dos Políticos",
+      "url": "https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/07_saude_seguranca_educacao_infra_ambiente.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "Bolsonaro privatizou a Petrobras?",
+      "resposta": "Não. Privatizou a Eletrobras (jun/2022) e vendeu subsidiárias da Petrobras (BR Distribuidora, TAG, NTS, RLAM) e ações da estatal."
+    },
+    {
+      "pergunta": "Quanto a União arrecadou com a Eletrobras?",
+      "resposta": "R$ 33,7 bilhões; a participação no capital votante caiu de 68,6% para 40,3%."
+    },
+    {
+      "pergunta": "Lula também privatizou?",
+      "resposta": "Lula 1-2 concedeu rodovias e vendeu a Norte-Sul e bancos estaduais; Lula 3 fez 50 leilões de concessão (recorde), sem vender estatais."
+    },
+    {
+      "pergunta": "Foi 'preço de banana'?",
+      "resposta": "É uma avaliação política; as notas não trazem estimativa independente do valor justo (ver a nota 06 do projeto sobre energia)."
+    }
+  ],
+  "relacionadas": [
+    "quem-privatizou-a-eletrobras",
+    "privatizacao-da-eletrobras-baixou-a-conta",
+    "flavio-quer-privatizar-95-por-cento",
+    "bolsonaro-fez-mais-leiloes-que-lula"
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false,
+  "lacunas": [
+    "Avaliação independente do preço da privatização não consta nas notas lidas (ver nota 06 do projeto).",
+    "Lula disse 'Petrobras' no debate; a interpretação de que se referia à Eletrobras é do Ranking dos Políticos."
+  ]
+}

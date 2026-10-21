@@ -1,0 +1,45 @@
+{
+  "id": "massa-rendimento-real",
+  "titulo": "Massa de rendimento real habitual",
+  "descricao_simples": "Soma de tudo o que os trabalhadores ocupados ganham por mês, descontada a inflação.",
+  "unidade": "R$ bilhões",
+  "tipo_grafico": "linha",
+  "frequencia": "mensal",
+  "fonte": {
+    "nome": "IBGE/SIDRA, tabela 6392",
+    "url": "https://apisidra.ibge.gov.br/values/t/6392/n1/all/v/all/p/last%206",
+    "acesso_em": "2026-10-21",
+    "tier": "oficial"
+  },
+  "pontos": [
+    {
+      "periodo": "2025 (média anual)",
+      "valor": 361.7,
+      "fonte_ponto": "Retrospectiva 2012-2025"
+    },
+    {
+      "periodo": "dez/2025–fev/2026",
+      "valor": 371.092,
+      "fonte_ponto": "Lupa, 14/04/2026"
+    },
+    {
+      "periodo": "jun–ago/2026",
+      "valor": 385.566,
+      "recorde": true
+    }
+  ],
+  "faixas_referencia": [],
+  "notas_metodologicas": [
+    "jun–ago/2026: +4,8% em um ano; +1,4% vs trimestre anterior; recorde da série.",
+    "2025: +7,5% (+R$ 25,4 bi) vs 2024."
+  ],
+  "lacunas": [
+    "Série anual 2012–2024 não obtida (só 2025 e trimestres móveis de 2026)."
+  ],
+  "ultimo_periodo": "jun–ago/2026",
+  "temas": [
+    "emprego-renda"
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/03_emprego_renda_pobreza_social.md",
+  "atualizado_em": "2026-10-21"
+}

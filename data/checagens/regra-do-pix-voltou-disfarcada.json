@@ -1,0 +1,196 @@
+{
+  "id": "chk-1040",
+  "slug": "regra-do-pix-voltou-disfarcada",
+  "frase": "A norma do Pix que foi revogada voltou disfarçada; o governo vai monitorar o seu Pix",
+  "frase_normalizada": "A Receita reeditou em 2025 a regra de monitoramento do Pix que havia revogado",
+  "variantes": [
+    "A taxa do Pix voltou",
+    "O monitoramento do Pix voltou pela porta dos fundos"
+  ],
+  "autor": {
+    "nome": "Nikolas Ferreira",
+    "partido": "PL",
+    "cargo": "deputado federal (MG)"
+  },
+  "lado": "oposicao-flavio-pl",
+  "alvo": {
+    "nome": "Governo Lula 3 (2023-2026)",
+    "partido": "PT"
+  },
+  "data": "2026-01-14",
+  "onde": "Vídeos publicados nas redes em jan/2026",
+  "url_declaracao": "https://www.congressoemfoco.com.br/noticia/115510/governo-desmente-taxacao-do-pix-e-rebate-video-de-nikolas-ferreira",
+  "temas": [
+    "pix",
+    "impostos"
+  ],
+  "tags": [
+    "pix",
+    "in-2278",
+    "e-financeira",
+    "receita-federal"
+  ],
+  "veredito": "falta-contexto",
+  "resumo_uma_frase": "É fato que a IN RFB 2.278/2025 (28/08/2025) reeditou, com escopo até mais amplo e dados retroativos a jan/2025, a obrigação de fintechs enviarem à Receita os totais movimentados por cliente — mas trata-se do mesmo reporte agregado que bancos fazem desde 2015, editado após operações contra o crime organizado, e continua não havendo nenhum imposto sobre Pix.",
+  "explicacao_simples": [
+    "Em agosto de 2025 a Receita publicou a IN 2.278, que obriga fintechs e instituições de pagamento a enviar os totais movimentados por cliente, inclusive via Pix, com dados desde janeiro de 2025.",
+    "Isso de fato retoma o que a norma revogada em janeiro de 2025 previa, mas é o mesmo relatório agregado que os bancos entregam desde 2015, sem detalhar quem pagou a quem.",
+    "Não existe imposto sobre Pix, e a Receita afirmou em janeiro de 2026 que a disseminação dessas mensagens atende a interesses do crime organizado."
+  ],
+  "explicacao_completa_md": "## O que voltou\n\nA IN RFB 2.278, de 28/08/2025 (DOU 29/08), estende a e-Financeira a instituições de pagamento (reguladas ou não pelo BC), participantes de arranjos de pagamento e empresas de split payment; todas as contas de pagamento devem ser informadas, inclusive operações via Pix, com dados retroativos a janeiro de 2025. Foi editada após as operações Carbono Oculto, Quasar e Tank, que apuraram uso de fintechs por organizações criminosas. As fintechs informam apenas o total movimentado por cliente no período.\n\n## O que não voltou\n\nNenhum tributo. A Receita (nota de 14/01/2026) reiterou que não existe tributação nem fiscalização do Pix com esse objetivo, que a IN 'apenas estende às fintechs as mesmas obrigações de transparência já aplicadas aos bancos' e que a disseminação dessas mensagens 'atende a interesses do crime organizado' e de quem monetiza engajamento. O deputado Rogério Correia (PT) acionou a AGU contra os vídeos.\n\n## Leitura\n\nA afirmação de que a obrigação de reporte das fintechs 'voltou' tem fundo factual; a sugestão de que isso é 'taxa' ou vigilância de cada transação segue falsa. A ausência de reação pública em 2025 — ao contrário de janeiro — deve-se ao contexto de combate ao PCC, segundo a nota.",
+  "o_que_e_verdade": [
+    "A IN RFB 2.278/2025 reeditou a obrigação de fintechs enviarem a e-Financeira, com escopo mais amplo (todas as contas de pagamento) e dados retroativos a jan/2025.",
+    "O piso de reporte vigente em 2026 não foi confirmado na fonte primária; o mais provável é o piso bancário original (R$ 2 mil/R$ 6 mil mensais)."
+  ],
+  "o_que_nao_se_sustenta": [
+    "Não há 'taxa', imposto ou fiscalização individual de transações: o reporte é o total movimentado por cliente, igual ao dos bancos desde 2015.",
+    "A norma não foi 'disfarçada': foi publicada no DOU em 29/08/2025, com justificativa pública ligada às operações contra o crime organizado."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Receita Federal",
+      "papel": "editou a IN 2.278 após as operações Carbono Oculto, Quasar e Tank",
+      "peso": "alto"
+    },
+    {
+      "ator": "Nikolas Ferreira e difusores",
+      "papel": "apresentaram a norma como retorno da 'taxa'",
+      "peso": "alto"
+    },
+    {
+      "ator": "Crime organizado em fintechs (contexto das operações)",
+      "papel": "motivou a reedição da obrigação",
+      "peso": "medio"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Piso provável de reporte mensal para pessoa física (regra bancária original)",
+      "valor": 2000,
+      "unidade": "R$",
+      "periodo": "2026 (a confirmar na IN)",
+      "fonte": {
+        "nome": "Econet – Revogação das regras de monitoramento do Pix: o que você precisa saber",
+        "url": "https://blog.econeteditora.com.br/revogacao-das-regras-de-monitoramento-do-pix-o-que-voce-precisa-saber/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "Empresas",
+        "valor": 6000
+      }
+    },
+    {
+      "rotulo": "Transações Pix em 2025",
+      "valor": 80,
+      "unidade": "bilhões",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Metrópoles – Pix bate recorde em 2025 e movimenta R$ 35,4 trilhões",
+        "url": "https://metropoles.com/brasil/pix-bate-recorde-em-2025-e-movimenta-r-354-trilhoes",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "2024",
+        "valor": 63.5
+      }
+    },
+    {
+      "rotulo": "Pessoas físicas ativas no Pix",
+      "valor": 148.3,
+      "unidade": "milhões",
+      "periodo": "dez/2025",
+      "fonte": {
+        "nome": "Metrópoles – Pix bate recorde em 2025 e movimenta R$ 35,4 trilhões",
+        "url": "https://metropoles.com/brasil/pix-bate-recorde-em-2025-e-movimenta-r-354-trilhoes",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": null
+    }
+  ],
+  "series": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Aos Fatos",
+      "veredito_original": "FALSO para a taxação do Pix (jan/2025); a nota não localizou checagem específica dos vídeos de jan/2026",
+      "url": "https://www.aosfatos.org/noticias/mentiras-virais-pix-agenda-economica-2025/",
+      "data": "2025-01-09"
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Econet – Revogação das regras de monitoramento do Pix: o que você precisa saber",
+      "url": "https://blog.econeteditora.com.br/revogacao-das-regras-de-monitoramento-do-pix-o-que-voce-precisa-saber/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Metrópoles – Pix bate recorde em 2025 e movimenta R$ 35,4 trilhões",
+      "url": "https://metropoles.com/brasil/pix-bate-recorde-em-2025-e-movimenta-r-354-trilhoes",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Mattos Filho – Instituições de pagamento devem entregar e-Financeira (IN RFB 2.278/2025)",
+      "url": "https://www.mattosfilho.com.br/unico/instituicoes-pagamento-entregar-e-financeira/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Contábeis – Receita cobrará dados retroativos de fintechs a partir de janeiro pela e-Financeira",
+      "url": "https://www.contabeis.com.br/noticias/72667/receita-cobrara-dados-retroativos-de-fintechs-a-partir-de-janeiro-pela-e-financeira/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Mercado & Consumo – Receita Federal volta a negar taxação do Pix e alerta para golpes (15/01/2026)",
+      "url": "https://mercadoeconsumo.com.br/15/01/2026/economia/receita-federal-volta-a-negar-taxacao-do-pix-e-alerta-para-golpes/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Congresso em Foco – Governo desmente taxação do Pix e rebate vídeo de Nikolas Ferreira (jan/2026)",
+      "url": "https://www.congressoemfoco.com.br/noticia/115510/governo-desmente-taxacao-do-pix-e-rebate-video-de-nikolas-ferreira",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Migalhas – Deputado aciona AGU contra vídeo de Nikolas sobre Pix (jan/2026)",
+      "url": "https://www.migalhas.com.br/quentes/447963/deputado-aciona-agu-contra-video-de-nikolas-sobre-pix",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/12_pix_fake_news_e_impostos_quem_paga.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "O que a Receita recebe das fintechs?",
+      "resposta": "O total movimentado por cliente no período (sem detalhar quem pagou a quem), como os bancos já informam desde 2015; inclui operações via Pix."
+    },
+    {
+      "pergunta": "Por que a regra voltou sem a mesma reação?",
+      "resposta": "Foi editada após as operações Carbono Oculto, Quasar e Tank, que mostraram uso de fintechs pelo crime organizado; o contexto mudou a recepção pública."
+    },
+    {
+      "pergunta": "Existe algum imposto sobre Pix hoje?",
+      "resposta": "Não. A Receita reiterou em dez/2025 e jan/2026 que não há tributação nem fiscalização do Pix com esse objetivo."
+    }
+  ],
+  "relacionadas": [
+    "governo-vai-taxar-o-pix",
+    "sonho-do-pt-e-taxar-o-pix"
+  ],
+  "lacunas": [
+    "Limite de reporte mensal vigente em 2026 não confirmado na fonte primária (IN 2.278 / IN 1.571); checagem independente dos vídeos de jan/2026 não localizada."
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false
+}

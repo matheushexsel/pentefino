@@ -1,0 +1,57 @@
+{
+  "id": "analfabetismo",
+  "titulo": "Taxa de analfabetismo (15 anos ou mais)",
+  "descricao_simples": "Percentual de pessoas com 15 anos ou mais que não sabem ler e escrever, segundo a PNAD Contínua do IBGE. Caiu para 5,3% em 2024 e 4,9% em 2025.",
+  "unidade": "% da população de 15 anos ou mais",
+  "tipo_grafico": "linha",
+  "frequencia": "anual",
+  "fonte": {
+    "nome": "CartaCapital — PNAD Contínua Educação 2025",
+    "url": "https://www.cartacapital.com.br/?p=520510",
+    "acesso_em": "2026-10-21",
+    "tier": "imprensa"
+  },
+  "pontos": [
+    {
+      "periodo": "2024",
+      "valor": 5.3,
+      "detalhe": {
+        "pessoas": 9100000
+      }
+    },
+    {
+      "periodo": "2025",
+      "valor": 4.9,
+      "detalhe": {
+        "pessoas": 8400000
+      }
+    }
+  ],
+  "faixas_referencia": [
+    {
+      "rotulo": "Pessoas de 60 anos ou mais, 2024",
+      "valor": 14.9
+    }
+  ],
+  "notas_metodologicas": [
+    "2024: 5,3% (9,1 milhões), menor da série da PNAD Contínua iniciada em 2016; o Nordeste concentrava 55,6% dos analfabetos. 2025: 4,9% (8,4 milhões; -592 mil).",
+    "O analfabetismo adulto reflete décadas de escolarização passada; a alfabetização de adultos é oferecida por redes municipais e estaduais com apoio federal."
+  ],
+  "ultimo_periodo": "2025",
+  "temas": [
+    "educacao"
+  ],
+  "fontes_adicionais": [
+    {
+      "nome": "O Imparcial/IBGE — indicadores educacionais 2024 (PNAD Contínua)",
+      "url": "https://oimparcial.com.br/educacao/2025/06/ibge-informa-indicadores-educacionais-avancam-em-2024-mas-atraso-escolar-aumenta/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "lacunas": [
+    "Série 2016–2023 não consta da nota."
+  ],
+  "atualizado_em": "2026-10-21",
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/07_saude_seguranca_educacao_infra_ambiente.md"
+}

@@ -1,0 +1,117 @@
+{
+  "id": "chk-2063",
+  "slug": "abusadores-tratados-como-doentes",
+  "frase": "O governo Lula trata abusadores de crianças como doentes, e não como criminosos.",
+  "frase_normalizada": "o governo lula trata abusadores de criancas como doentes e nao como criminosos",
+  "variantes": [],
+  "autor": {
+    "nome": "Flávio Bolsonaro",
+    "partido": "PL",
+    "cargo": "senador (RJ) e candidato à Presidência"
+  },
+  "lado": "oposicao-flavio-pl",
+  "alvo": {
+    "nome": "Governo Lula (2023-2026)",
+    "partido": "PT"
+  },
+  "data": "2026-10-18",
+  "onde": "Debate da Band (consórcio Band/Cultura/Gazeta/Jovem Pan/Estadão), São Paulo",
+  "url_declaracao": "https://www.aosfatos.org/noticias/checamos-lula-flavio-bolsonaro-debate-band/",
+  "temas": [
+    "seguranca",
+    "direitos-sociais"
+  ],
+  "tags": [
+    "seguranca",
+    "direitos-sociais"
+  ],
+  "veredito": "falso",
+  "resumo_uma_frase": "O Aos Fatos classificou a frase como falsa; não há política do governo que descriminalize ou trate como doença o abuso sexual de crianças, que segue crime com penas elevadas (estupro de vulnerável), e a lei do cadastro de pedófilos de 2024, ainda não implementada, é o ponto verdadeiro da crítica.",
+  "explicacao_simples": [
+    "Não existe norma ou programa do governo Lula que trate abuso sexual de criança como doença em vez de crime.",
+    "O estupro de vulnerável continua sendo crime grave; em 2025 houve 84.388 registros de estupro, 77% contra vulneráveis.",
+    "O Aos Fatos classificou a frase como falsa; a crítica que se sustenta é a não implementação do cadastro de pedófilos."
+  ],
+  "explicacao_completa_md": "Aos Fatos (Band): FALSO. Contexto: a lei do cadastro nacional de condenados por crimes sexuais contra crianças (nov/2024) não foi implementada (Ranking: VERDADEIRO). A frase se insere na campanha que associou Lula à pedofilia a partir da fala sobre exames de toque (28/09/2026), que o TSE mandou remover das redes.",
+  "o_que_e_verdade": [
+    "A lei do cadastro de pedófilos (2024) não foi implementada."
+  ],
+  "o_que_nao_se_sustenta": [
+    "'Trata abusadores como doentes': sem base; classificada como falsa."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Flávio Bolsonaro",
+      "papel": "autor da frase",
+      "peso": "alto"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Registros de estupro e estupro de vulnerável",
+      "valor": 84388,
+      "unidade": "casos (77% contra vulneráveis)",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Anuário Brasileiro de Segurança Pública 2026 (FBSP, PDF)",
+        "url": "https://static.poder360.com.br/uploads/2026/07/anuario-seguranca-publica-23jul26.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      "comparacao": null
+    }
+  ],
+  "series": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Aos Fatos",
+      "veredito_original": "FALSO",
+      "url": "https://www.aosfatos.org/noticias/checamos-lula-flavio-bolsonaro-debate-band/",
+      "data": "2026-10-18"
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Anuário Brasileiro de Segurança Pública 2026 (FBSP, PDF)",
+      "url": "https://static.poder360.com.br/uploads/2026/07/anuario-seguranca-publica-23jul26.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    },
+    {
+      "nome": "Aos Fatos",
+      "url": "https://www.aosfatos.org/noticias/checamos-lula-flavio-bolsonaro-debate-band/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/09_acusacoes_e_falas_flavio_x_lula.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "Existe alguma política do governo que trate abusadores como doentes?",
+      "resposta": "Não há registro; a afirmação foi classificada como falsa."
+    },
+    {
+      "pergunta": "O que há de verdade na crítica?",
+      "resposta": "A lei do cadastro de pedófilos, de 2024, não havia sido implementada até outubro de 2026."
+    },
+    {
+      "pergunta": "Essa frase tem relação com a campanha sobre a fala do 'toque'?",
+      "resposta": "Sim, faz parte da mesma linha de ataque; o TSE mandou remover posts que associavam Lula à pedofilia."
+    }
+  ],
+  "relacionadas": [
+    "lei-do-cadastro-de-pedofilos-nao-implementada",
+    "lula-pedofilia-fala-do-toque"
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false,
+  "lacunas": [
+    "A nota 09 registra apenas o veredito do Aos Fatos, sem a justificativa detalhada."
+  ]
+}

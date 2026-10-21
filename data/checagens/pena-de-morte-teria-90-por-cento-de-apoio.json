@@ -1,0 +1,115 @@
+{
+  "id": "chk-2065",
+  "slug": "pena-de-morte-teria-90-por-cento-de-apoio",
+  "frase": "Se fizesse um plebiscito, a pena de morte teria 90% de apoio.",
+  "frase_normalizada": "se fizesse um plebiscito a pena de morte teria 90 de apoio",
+  "variantes": [],
+  "autor": {
+    "nome": "Luiz Inácio Lula da Silva",
+    "partido": "PT",
+    "cargo": "presidente da República e candidato à reeleição"
+  },
+  "lado": "governo-lula-pt",
+  "alvo": {
+    "nome": null,
+    "partido": null
+  },
+  "data": "2026-10-01",
+  "onde": "Entrevista ao Flow Podcast",
+  "url_declaracao": "https://www.agencialupa.org/checagem/2026/10/01/ao-vivo-checagem-da-entrevista-de-lula-no-flow/",
+  "temas": [
+    "seguranca"
+  ],
+  "tags": [
+    "seguranca"
+  ],
+  "veredito": "falso",
+  "resumo_uma_frase": "Pesquisa Ipsos-Ipec citada pela Lupa mostra 43% de apoio à pena de morte, menos da metade do número citado por Lula.",
+  "explicacao_simples": [
+    "Lula afirmou que a pena de morte teria 90% de apoio num plebiscito.",
+    "A pesquisa Ipsos-Ipec citada pela Lupa mostra 43% de apoio.",
+    "A Lupa classificou como falso."
+  ],
+  "explicacao_completa_md": "Lupa (Flow, 01/10/2026): FALSO (43%, Ipsos-Ipec). No mesmo período, Lula disse pela primeira vez (Globo, 15/10) ser favorável 'como cidadão brasileiro' à redução da maioridade penal para crimes hediondos; o plano de Flávio propõe maioridade penal aos 16 anos e castração química.",
+  "o_que_e_verdade": [
+    "A pena de morte tem apoio relevante na população (43%)."
+  ],
+  "o_que_nao_se_sustenta": [
+    "'90% de apoio': a pesquisa indica 43%."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Lula",
+      "papel": "autor da estimativa",
+      "peso": "alto"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Apoio à pena de morte (Ipsos-Ipec)",
+      "valor": 43,
+      "unidade": "%",
+      "periodo": "2026",
+      "fonte": {
+        "nome": "Agência Lupa",
+        "url": "https://www.agencialupa.org/checagem/2026/10/01/ao-vivo-checagem-da-entrevista-de-lula-no-flow/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": {
+        "rotulo": "Citado por Lula",
+        "valor": 90
+      }
+    }
+  ],
+  "series": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Agência Lupa",
+      "veredito_original": "FALSO",
+      "url": "https://www.agencialupa.org/checagem/2026/10/01/ao-vivo-checagem-da-entrevista-de-lula-no-flow/",
+      "data": "2026-10-01"
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Agência Lupa",
+      "url": "https://www.agencialupa.org/checagem/2026/10/01/ao-vivo-checagem-da-entrevista-de-lula-no-flow/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "TVT (entrevista de Lula na Globo)",
+      "url": "https://tvtnews.com.br/entrevista-do-lula-na-globo-sabatina-eleicoes/",
+      "acesso_em": "2026-10-21",
+      "tier": "partidario"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/09_acusacoes_e_falas_flavio_x_lula.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "Quanto da população apoia a pena de morte?",
+      "resposta": "43%, segundo Ipsos-Ipec citada pela Lupa."
+    },
+    {
+      "pergunta": "Lula defende a pena de morte?",
+      "resposta": "Não; ele usou o número para argumentar sobre o clima punitivista. Em 15/10 disse ser favorável à redução da maioridade penal para crimes hediondos 'como cidadão'."
+    },
+    {
+      "pergunta": "O que Flávio propõe?",
+      "resposta": "Maioridade penal aos 16 anos, castração química para estupradores e cinco presídios federais, segundo seu plano de governo."
+    }
+  ],
+  "relacionadas": [
+    "lula-solta-bandido",
+    "lei-antifaccao-80-anos"
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false
+}

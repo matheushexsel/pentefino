@@ -1,0 +1,69 @@
+{
+  "id": "fala-0105",
+  "slug": "flavio-lula-deixou-o-povo-com-fome",
+  "evento_id": "live-flavio-2026-10-01",
+  "candidato": "flavio-bolsonaro",
+  "lado": "oposicao-flavio-pl",
+  "minuto": null,
+  "frase_literal": "Você [Lula] que deixou o povo brasileiro (…) com fome.",
+  "literal": true,
+  "tema": "pobreza-programas-sociais",
+  "veredito": "falso",
+  "resumo_uma_frase": "O Brasil voltou ao Mapa da Fome em 2021/2022 (governo Bolsonaro) e saiu em julho de 2025; em 2024, 6,4 milhões (3,2%) estavam em insegurança grave, o menor da série.",
+  "explicacao_simples": [
+    "Flávio Bolsonaro, na live de 1/10/2026, disse: “Você [Lula] que deixou o povo brasileiro (…) com fome”.",
+    "O Brasil saiu do Mapa da Fome em jul/2025 depois de voltar em 2021/2022; o IBGE registrou 6,4 milhões (3,2%) em insegurança alimentar grave em 2024, menor valor da série.",
+    "O dado central não corresponde aos registros disponíveis; por isso a frase é classificada como falsa."
+  ],
+  "o_que_e_verdade": [],
+  "o_que_nao_se_sustenta": [
+    "O retorno ao Mapa da Fome ocorreu no governo anterior; a saída foi em 2025."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Pessoas em insegurança alimentar grave (IBGE)",
+      "valor": 6.4,
+      "unidade": "milhões",
+      "periodo": "2024",
+      "fonte": {
+        "nome": "Aos Fatos",
+        "url": "https://www.aosfatos.org/noticias/checamos-live-flavio-bolsonaro/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      }
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Lupa",
+      "veredito_original": "FALSO",
+      "url": "https://www.agencialupa.org/checagem/2026/10/01/ao-vivo-checagem-da-live-de-flavio-bolsonaro/",
+      "data": "2026-10-01"
+    },
+    {
+      "veiculo": "Aos Fatos",
+      "veredito_original": "dados contrariam",
+      "url": "https://www.aosfatos.org/noticias/checamos-live-flavio-bolsonaro/",
+      "data": "2026-10-01"
+    }
+  ],
+  "checagem_slug": "brasil-saiu-do-mapa-da-fome",
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Lupa",
+      "url": "https://www.agencialupa.org/checagem/2026/10/01/ao-vivo-checagem-da-live-de-flavio-bolsonaro/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Aos Fatos",
+      "url": "https://www.aosfatos.org/noticias/checamos-live-flavio-bolsonaro/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
+  "atualizado_em": "2026-10-21"
+}

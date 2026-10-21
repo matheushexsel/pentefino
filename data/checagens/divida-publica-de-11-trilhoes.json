@@ -1,0 +1,298 @@
+{
+  "id": "chk-1002",
+  "slug": "divida-publica-de-11-trilhoes",
+  "frase": "O atual governo deixa uma dívida de R$ 11 trilhões",
+  "frase_normalizada": "A dívida pública bruta do Brasil chegou a R$ 11 trilhões no governo Lula 3",
+  "variantes": [
+    "Dívida de R$ 11 trilhões",
+    "A dívida está em 83% do PIB"
+  ],
+  "autor": {
+    "nome": "Flávio Bolsonaro",
+    "partido": "PL",
+    "cargo": "senador (RJ) e candidato à Presidência"
+  },
+  "lado": "oposicao-flavio-pl",
+  "alvo": {
+    "nome": "Governo Lula 3 (2023-2026)",
+    "partido": "PT"
+  },
+  "data": "2026-10-18",
+  "onde": "Debate da Band (18/10/2026) e entrevista à TV Globo (16/10/2026)",
+  "url_declaracao": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+  "temas": [
+    "contas-publicas",
+    "economia",
+    "eleicao-2026"
+  ],
+  "tags": [
+    "divida-bruta",
+    "dbgg",
+    "juros"
+  ],
+  "veredito": "verdadeiro",
+  "resumo_uma_frase": "A Dívida Bruta do Governo Geral era de R$ 11,1 trilhões (82,87% do PIB) em ago/2026, segundo o Banco Central; o número está correto, e o contexto é que a alta recente vem sobretudo dos juros e que, em proporção do PIB, o nível ainda está abaixo do pico de dez/2020 (86,94%).",
+  "explicacao_simples": [
+    "O Banco Central informou que a dívida bruta do governo geral chegou a R$ 11,1 trilhões em agosto de 2026, o equivalente a 82,9% do PIB.",
+    "Em proporção do PIB, é o maior nível para o mês desde março de 2021 e acima de todos os fechamentos de dezembro da série, mas abaixo do pico de 86,9% da pandemia.",
+    "A dívida subiu 11,2 pontos percentuais do PIB desde dezembro de 2022, puxada principalmente pelos juros da Selic alta e pelos déficits primários."
+  ],
+  "explicacao_completa_md": "## O número\n\nA Dívida Bruta do Governo Geral (DBGG) somava R$ 11,1 trilhões em ago/2026, ou 82,87% do PIB (BCB, série 13762). Em dez/2025 era R$ 10,017 trilhões (78,64%); em dez/2024, R$ 8,984 trilhões (76,27%).\n\n## Trajetória por governo (dez a dez, % do PIB)\n\n- Lula 2 (2006→2010): 55,48% → 51,77%\n- Dilma (2010→2016): 51,77% → 69,84%\n- Temer (2016→2018): 69,84% → 75,27%\n- Bolsonaro (2018→2022): 75,27% → 71,68% (com pico de 86,94% em dez/2020)\n- Lula 3 (2022→ago/2026): 71,68% → 82,87%\n\n## Por que subiu\n\nEm 2026, até agosto, a DBGG subiu 4,2 pontos percentuais do PIB: juros apropriados contribuíram com +6,5 pontos, emissões líquidas com +1,5, enquanto o crescimento do PIB nominal reduziu 3,6 pontos. A IFI mostra que, em 12 meses até jul/2026, juros e emissões responderam por +10,5 pontos, contra −5,2 pontos de redução pelo PIB.\n\n## Métricas diferentes\n\nPela metodologia do FMI (que inclui títulos na carteira do BC), a dívida bruta brasileira foi de 93,3% do PIB em 2025 e deve chegar a 96,5% em 2026 — cerca de 18 a 20 pontos acima da média dos emergentes. É importante não misturar as duas métricas numa mesma comparação.",
+  "o_que_e_verdade": [
+    "A DBGG era de R$ 11,1 trilhões (82,87% do PIB) em ago/2026, segundo o BCB.",
+    "É o maior percentual do PIB desde mar/2021 e supera todos os fechamentos de dezembro da série iniciada em 2006.",
+    "Entre dez/2022 e ago/2026 a dívida subiu 11,2 pontos percentuais do PIB; o governo Lula 3 teve déficit primário em 2023, 2024 e 2025."
+  ],
+  "o_que_nao_se_sustenta": [
+    "Em proporção do PIB, o pico da série ainda é o de dez/2020 (86,94%), no governo Bolsonaro, durante a pandemia.",
+    "A maior parte da alta de 2024-2026 é custo de juros (Selic de 14,25% a 15%), não gasto primário: o déficit primário explica 0,4 a 0,6 ponto do déficit nominal de 8 a 9,5% do PIB.",
+    "A queda da dívida em 2021-2022 veio em boa parte da inflação alta (PIB nominal) e da devolução de recursos do BNDES, não apenas de superávit."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Executivo (Fazenda/Planejamento)",
+      "papel": "define gasto primário, desonerações e deduções das metas",
+      "peso": "alto"
+    },
+    {
+      "ator": "Congresso Nacional",
+      "papel": "aprova orçamento, emendas (R$ 47,1 bi em 2025) e exceções às regras fiscais",
+      "peso": "alto"
+    },
+    {
+      "ator": "Copom / Banco Central",
+      "papel": "Selic alta eleva o custo de carregamento da dívida (juros de R$ 1 trilhão em 2025)",
+      "peso": "alto"
+    },
+    {
+      "ator": "STF",
+      "papel": "decisões sobre precatórios (R$ 92,4 bi pagos em 2023) alteraram o calendário de despesas",
+      "peso": "baixo"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Dívida bruta do governo geral",
+      "valor": 11100,
+      "unidade": "R$ bilhões",
+      "periodo": "ago/2026",
+      "fonte": {
+        "nome": "Poder360 – Dívida bruta atinge 82,9% do PIB em agosto, diz BC (30/09/2026)",
+        "url": "https://www.poder360.com.br/poder-economia/divida-bruta-atinge-829-do-pib-em-agosto-diz-banco-central/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "dez/2025",
+        "valor": 10017
+      }
+    },
+    {
+      "rotulo": "Dívida bruta do governo geral",
+      "valor": 82.87,
+      "unidade": "% do PIB",
+      "periodo": "ago/2026",
+      "fonte": {
+        "nome": "Banco Central do Brasil – SGS 13762 (Dívida Bruta do Governo Geral, % PIB)",
+        "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.13762/dados?formato=json",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "dez/2022 (fim do governo Bolsonaro)",
+        "valor": 71.68
+      }
+    },
+    {
+      "rotulo": "Pico da série da DBGG",
+      "valor": 86.94,
+      "unidade": "% do PIB",
+      "periodo": "dez/2020",
+      "fonte": {
+        "nome": "Banco Central do Brasil – SGS 13762 (Dívida Bruta do Governo Geral, % PIB)",
+        "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.13762/dados?formato=json",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "DBGG no fim de 2025",
+      "valor": 78.64,
+      "unidade": "% do PIB",
+      "periodo": "dez/2025",
+      "fonte": {
+        "nome": "Banco Central do Brasil – SGS 13762 (Dívida Bruta do Governo Geral, % PIB)",
+        "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.13762/dados?formato=json",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Contribuição dos juros para a variação da DBGG no ano",
+      "valor": 6.5,
+      "unidade": "pontos percentuais do PIB",
+      "periodo": "jan-ago/2026",
+      "fonte": {
+        "nome": "Poder360 – Dívida bruta atinge 82,9% do PIB em agosto, diz BC (30/09/2026)",
+        "url": "https://www.poder360.com.br/poder-economia/divida-bruta-atinge-829-do-pib-em-agosto-diz-banco-central/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "Variação total da DBGG no ano",
+        "valor": 4.2
+      }
+    },
+    {
+      "rotulo": "Juros nominais do setor público",
+      "valor": 7.91,
+      "unidade": "% do PIB",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Banco Central do Brasil – SGS 5760 (juros nominais do setor público, % PIB)",
+        "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.5760/dados?formato=json&dataInicial=01/12/2014",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "Em R$ bilhões (recorde)",
+        "valor": 1000
+      }
+    },
+    {
+      "rotulo": "Dívida bruta pela metodologia do FMI",
+      "valor": 93.3,
+      "unidade": "% do PIB",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "FMI – Fiscal Monitor abr/2026, Tabela A15",
+        "url": "https://www.imf.org/-/media/files/publications/fiscal-monitor/2026/april/english/text.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "multilateral"
+      },
+      "comparacao": {
+        "rotulo": "Média dos emergentes",
+        "valor": 75.3
+      }
+    },
+    {
+      "rotulo": "Projeção IFI para a DBGG",
+      "valor": 82.5,
+      "unidade": "% do PIB",
+      "periodo": "2026",
+      "fonte": {
+        "nome": "IFI – Relatório de Acompanhamento Fiscal nº 116 (set/2026)",
+        "url": "https://www12.senado.leg.br/ifi/pdf/raf116_set2026.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "2027",
+        "valor": 86.4
+      }
+    }
+  ],
+  "series": [
+    "divida-bruta-pib",
+    "divida-liquida-pib",
+    "juros-nominais-pib",
+    "resultado-primario-pib",
+    "selic-fim-de-ano",
+    "divida-bruta-fmi",
+    "resultado-nominal-pib"
+  ],
+  "checagens_externas": [
+    {
+      "veiculo": "Lupa",
+      "veredito_original": "VERDADEIRO",
+      "url": "https://www.agencialupa.org/checagem/2026/10/16/ao-vivo-checagem-da-entrevista-de-flavio-bolsonaro-na-globo/",
+      "data": "2026-10-16"
+    },
+    {
+      "veiculo": "Aos Fatos",
+      "veredito_original": "Correto",
+      "url": "https://www.aosfatos.org/noticias/checamos-lula-flavio-bolsonaro-debate-band/",
+      "data": "2026-10-18"
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Poder360 – Dívida bruta atinge 82,9% do PIB em agosto, diz BC (30/09/2026)",
+      "url": "https://www.poder360.com.br/poder-economia/divida-bruta-atinge-829-do-pib-em-agosto-diz-banco-central/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Banco Central do Brasil – SGS 13762 (Dívida Bruta do Governo Geral, % PIB)",
+      "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.13762/dados?formato=json",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Banco Central do Brasil – SGS 5760 (juros nominais do setor público, % PIB)",
+      "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.5760/dados?formato=json&dataInicial=01/12/2014",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "FMI – Fiscal Monitor abr/2026, Tabela A15",
+      "url": "https://www.imf.org/-/media/files/publications/fiscal-monitor/2026/april/english/text.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "multilateral"
+    },
+    {
+      "nome": "IFI – Relatório de Acompanhamento Fiscal nº 116 (set/2026)",
+      "url": "https://www12.senado.leg.br/ifi/pdf/raf116_set2026.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Lupa – Checagem ao vivo do debate Lula x Flávio Bolsonaro na Band (18/10/2026)",
+      "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Agência Brasil – Contas públicas têm déficit de R$ 55,021 bilhões em 2025 (30/01/2026)",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/contas-publicas-tem-deficit-de-r-55021-bilhoes-em-2025",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/02_contas_publicas_divida.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "Dívida bruta e dívida líquida são a mesma coisa?",
+      "resposta": "Não. A bruta (DBGG) soma os passivos de União, estados e municípios; a líquida (DLSP) desconta ativos como as reservas internacionais. A DLSP estava em 69,27% do PIB em ago/2026 (R$ 9,2 trilhões)."
+    },
+    {
+      "pergunta": "Por que o FMI fala em dívida acima de 90% do PIB?",
+      "resposta": "Porque o FMI inclui todos os títulos do Tesouro na carteira do Banco Central; o BCB exclui os títulos livres e inclui as operações compromissadas. Por isso 78,6% (BCB) e 93,3% (FMI) descrevem o mesmo ano de 2025."
+    },
+    {
+      "pergunta": "A dívida cresceu em todos os governos?",
+      "resposta": "Não. Caiu em Lula 2 (−3,7 pontos) e Bolsonaro (−3,6 pontos, apesar do pico de 2020) e subiu em Dilma (+18,1), Temer (+5,4) e Lula 3 (+11,2 até ago/2026)."
+    },
+    {
+      "pergunta": "O que faria a dívida parar de crescer?",
+      "resposta": "Segundo a IFI, um superávit primário de cerca de 2,1% do PIB ao ano; o FMI recomenda ajuste de 3 pontos do PIB em cinco anos. Em 2025 o setor público teve déficit de 0,43%."
+    }
+  ],
+  "relacionadas": [
+    "lula-quebrou-o-brasil",
+    "meta-fiscal-foi-cumprida",
+    "juros-mais-altos-do-mundo",
+    "deficit-de-lula-70-por-cento-menor-que-o-de-bolsonaro",
+    "carga-tributaria-recorde"
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false
+}

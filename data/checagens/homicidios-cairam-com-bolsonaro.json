@@ -1,0 +1,209 @@
+{
+  "id": "chk-2059",
+  "slug": "homicidios-cairam-com-bolsonaro",
+  "frase": "A taxa de homicídio caiu 17% no primeiro ano de Bolsonaro, com recorde de certificados de CACs.",
+  "frase_normalizada": "a taxa de homicidio caiu 17 no primeiro ano de bolsonaro com recorde de certificados de cacs",
+  "variantes": [
+    "Os homicídios caíram com Bolsonaro porque o povo se armou",
+    "Mais armas, menos crime"
+  ],
+  "autor": {
+    "nome": "Flávio Bolsonaro",
+    "partido": "PL",
+    "cargo": "senador (RJ) e candidato à Presidência"
+  },
+  "lado": "oposicao-flavio-pl",
+  "alvo": {
+    "nome": null,
+    "partido": null
+  },
+  "data": "2026-10-16",
+  "onde": "Entrevista à TV Globo (Renata Lo Prete)",
+  "url_declaracao": "https://www.aosfatos.org/noticias/checamos-flavio-bolsonaro-globo-segundo-turno/",
+  "temas": [
+    "seguranca"
+  ],
+  "tags": [
+    "seguranca"
+  ],
+  "veredito": "falta-contexto",
+  "resumo_uma_frase": "As mortes violentas caíram de 57.592 (2018) para 47.765 (2019), cerca de 17%, mas a queda começou em 2018 (governo Temer), continuou com Lula 3 até a menor taxa desde 2012 (19,1 em 2025), e o Atlas da Violência atribui a tendência a envelhecimento populacional, políticas estaduais e ao Estatuto do Desarmamento, não ao armamento civil; o Aos Fatos classificou a relação causal como desinformação.",
+  "explicacao_simples": [
+    "O número está certo: as mortes violentas caíram 17% em 2019, de 57.592 para 47.765.",
+    "Mas a queda tinha começado em 2018, antes de Bolsonaro, e continuou depois dele: em 2025 a taxa (19,1 por 100 mil) é a menor desde 2012, no governo Lula, que restringiu armas.",
+    "Os especialistas atribuem a queda ao envelhecimento da população, a políticas estaduais e ao Estatuto do Desarmamento; o Aos Fatos chamou de desinformação ligar a queda aos CACs."
+  ],
+  "explicacao_completa_md": "Aos Fatos (Globo, 16/10): DESINFORMAÇÃO (Atlas da Violência atribui a queda a envelhecimento, programas estaduais e Estatuto do Desarmamento). **Série MVI (FBSP):** 2016 61.600 (taxa 30,2); 2017 64.079 (31,2, pico); 2018 57.592 (27,9); 2019 47.765 (23,0); 2020 50.448 (24,1); 2021 48.286 (23,0); 2022 47.963 (22,7); 2023 46.441 (21,9); 2024 44.220 (20,8); 2025 40.775 (19,1). A queda de 2018 para 2019 foi de 17,1%. Por governo: Temer tem o pico (2017) e o início da queda (2018); Bolsonaro cai para 23,0 em 2019 e fecha em 22,7 em 2022, com repique em 2020; Lula 3 cai de 21,9 para 19,1. **Explicações (Daniel Cerqueira, IPEA):** envelhecimento populacional, 'revolução invisível' nas políticas estaduais (planejamento, dados, inteligência), programas de prevenção para jovens; e 'mais armas em circulação tendem a elevar homicídios'. Os registros de armas saltaram 63,5% entre 2018 e 2019 e o estoque legal dobrou até 2022; a queda de homicídios continuou depois que Lula restringiu as armas em 2023. Segurança pública é executada pelos estados (80% do gasto).",
+  "o_que_e_verdade": [
+    "As mortes violentas caíram 17% em 2019, primeiro ano de Bolsonaro, e a taxa de 2022 (22,7) ficou abaixo da de 2018 (27,9).",
+    "Houve recorde de certificados de CAC em 2019-2022."
+  ],
+  "o_que_nao_se_sustenta": [
+    "A relação de causa entre armamento civil e queda de homicídios: a queda começou em 2018 e continuou após as restrições de 2023, chegando à menor taxa desde 2012 em 2025; especialistas apontam demografia e políticas estaduais e dizem que mais armas tendem a elevar homicídios."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Governos estaduais (polícias e políticas de segurança)",
+      "papel": "principais responsáveis pela tendência",
+      "peso": "alto"
+    },
+    {
+      "ator": "Fatores demográficos (envelhecimento)",
+      "papel": "redução da população jovem",
+      "peso": "alto"
+    },
+    {
+      "ator": "Governos federais (Temer, Bolsonaro, Lula 3)",
+      "papel": "políticas de armas e fundos; peso menor na série",
+      "peso": "medio"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Mortes violentas intencionais em 2019",
+      "valor": 47765,
+      "unidade": "mortes (taxa 23,0)",
+      "periodo": "2019",
+      "fonte": {
+        "nome": "Anuário Brasileiro de Segurança Pública 2026 (FBSP, PDF)",
+        "url": "https://static.poder360.com.br/uploads/2026/07/anuario-seguranca-publica-23jul26.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      "comparacao": {
+        "rotulo": "2018",
+        "valor": 57592
+      }
+    },
+    {
+      "rotulo": "Queda das MVI em 2019",
+      "valor": -17.1,
+      "unidade": "%",
+      "periodo": "2018-2019",
+      "fonte": {
+        "nome": "Anuário Brasileiro de Segurança Pública 2026 (FBSP, PDF)",
+        "url": "https://static.poder360.com.br/uploads/2026/07/anuario-seguranca-publica-23jul26.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Taxa de MVI em 2025 (menor desde 2012)",
+      "valor": 19.1,
+      "unidade": "por 100 mil",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Anuário Brasileiro de Segurança Pública 2026 (FBSP, PDF)",
+        "url": "https://static.poder360.com.br/uploads/2026/07/anuario-seguranca-publica-23jul26.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      "comparacao": {
+        "rotulo": "2022 (fim do governo Bolsonaro)",
+        "valor": 22.7
+      }
+    },
+    {
+      "rotulo": "Pico da série",
+      "valor": 64079,
+      "unidade": "mortes (taxa 31,2)",
+      "periodo": "2017",
+      "fonte": {
+        "nome": "Anuário Brasileiro de Segurança Pública 2026 (FBSP, PDF)",
+        "url": "https://static.poder360.com.br/uploads/2026/07/anuario-seguranca-publica-23jul26.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Crescimento dos registros de armas 2018-2019",
+      "valor": 63.5,
+      "unidade": "%",
+      "periodo": "2018-2019",
+      "fonte": {
+        "nome": "Anuário Brasileiro de Segurança Pública 2026 (FBSP, PDF)",
+        "url": "https://static.poder360.com.br/uploads/2026/07/anuario-seguranca-publica-23jul26.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      "comparacao": null
+    }
+  ],
+  "series": [
+    "mortes-violentas-intencionais",
+    "taxa-homicidios-100-mil",
+    "armas-registradas-sinarm"
+  ],
+  "checagens_externas": [
+    {
+      "veiculo": "Aos Fatos",
+      "veredito_original": "DESINFORMAÇÃO (atribuição aos CACs)",
+      "url": "https://www.aosfatos.org/noticias/checamos-flavio-bolsonaro-globo-segundo-turno/",
+      "data": "2026-10-16"
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Anuário Brasileiro de Segurança Pública 2026 (FBSP, PDF)",
+      "url": "https://static.poder360.com.br/uploads/2026/07/anuario-seguranca-publica-23jul26.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    },
+    {
+      "nome": "Aos Fatos",
+      "url": "https://www.aosfatos.org/noticias/checamos-flavio-bolsonaro-globo-segundo-turno/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Agência Brasil, 12/05/2025 (Atlas da Violência 2025)",
+      "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2025-05/taxa-de-homicidio-cai-mas-violencia-matou-457-mil-no-brasil-em-2023",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Agência Brasil via Diário de Pernambuco, jul/2026 (MVI caem 8,2%)",
+      "url": "https://diariodepernambuco.com.br/brasil/2026/07/11719408-mortes-violentas-caem-82-no-pais-em-2025-feminicidios-aumentam-4.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Nota 07 deste projeto (segurança)",
+      "url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/07_saude_seguranca_educacao_infra_ambiente.md",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/09_acusacoes_e_falas_flavio_x_lula.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "Os homicídios caíram no governo Bolsonaro?",
+      "resposta": "Sim: a taxa foi de 27,9 (2018) para 22,7 (2022), com queda forte em 2019 e repique em 2020."
+    },
+    {
+      "pergunta": "Foi por causa das armas?",
+      "resposta": "Os especialistas dizem que não: a queda começou em 2018, continuou após as restrições de 2023 e é atribuída ao envelhecimento da população e a políticas estaduais; mais armas tendem a elevar homicídios."
+    },
+    {
+      "pergunta": "E no governo Lula 3?",
+      "resposta": "A queda continuou: 40.775 mortes em 2025 (taxa 19,1), a menor desde 2012; a letalidade policial, porém, bateu recorde (6.602)."
+    }
+  ],
+  "relacionadas": [
+    "homicidios-cairam-no-governo-bolsonaro-e-continuaram-caindo",
+    "violencia-explodiu-no-governo-lula",
+    "bolsonaro-liberou-1-milhao-de-armas",
+    "lula-liberou-armas-para-traficantes",
+    "770-mil-assassinatos-em-governos-do-pt"
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false
+}

@@ -1,0 +1,89 @@
+{
+  "id": "sabatina-sbt-lula-2026-10-19",
+  "tipo": "sabatina",
+  "nome": "Lula no SBT Brasil (2º turno)",
+  "data": "2026-10-19",
+  "veiculo": "SBT — SBT Brasil (Basília Rodrigues, Marina Demori e Simone Queiroz), 19h45",
+  "participantes": [
+    "lula"
+  ],
+  "url_video": null,
+  "url_transcricao": null,
+  "resumo_uma_frase": "Sem checagem de agência; a Gazeta do Paraná checou 11 pontos. Lula repetiu '43 mentiras' e 'miliciano', voltou ao 'déficit de 2,8%' e detalhou promessas (dobrar PF/PRF, 138 presídios, transporte gratuito com emendas).",
+  "placar": {
+    "lula": {
+      "checadas": 12,
+      "por_veredito": {
+        "verdadeiro": 3,
+        "verdadeiro-mas": 5,
+        "impreciso": 2,
+        "exagerado": 0,
+        "falta-contexto": 0,
+        "insustentavel": 3,
+        "falso": 1,
+        "opiniao": 3
+      },
+      "contagem_arquivos": {
+        "verdadeiro-mas": 5,
+        "insustentavel": 3,
+        "verdadeiro": 3,
+        "opiniao": 3,
+        "impreciso": 2,
+        "falso": 1
+      }
+    }
+  },
+  "falas": [
+    "fala-0322",
+    "fala-0323",
+    "fala-0324",
+    "fala-0325",
+    "fala-0326",
+    "fala-0327",
+    "fala-0328",
+    "fala-0329",
+    "fala-0330",
+    "fala-0331",
+    "fala-0332",
+    "fala-0333",
+    "fala-0334",
+    "fala-0335",
+    "fala-0336",
+    "fala-0337",
+    "fala-0338"
+  ],
+  "checagens_externas": [
+    {
+      "veiculo": "Gazeta do Paraná",
+      "veredito_original": "11 pontos: 3 'sem comprovação', 5 'verdadeira com ressalvas', 3 'imprecisas'",
+      "url": "https://gazetadoparana.com.br/publico/lula-no-sbt-checagem-confirma-reajuste-do-bolsa-familia-mas-encontra-lacunas-em-acusacoes-sobre-vorcaro-e-promessas-de-seguranca",
+      "data": "2026-10-20"
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Gazeta do Paraná",
+      "url": "https://gazetadoparana.com.br/publico/lula-no-sbt-checagem-confirma-reajuste-do-bolsa-familia-mas-encontra-lacunas-em-acusacoes-sobre-vorcaro-e-promessas-de-seguranca",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Gazeta da Amazônia",
+      "url": "https://gazetadaamazonia.com.br/20/10/2026/lula-no-sbt-destaques-sabatina/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "SBT News",
+      "url": "https://sbtnews.sbt.com.br/noticia/eleicoes/sbt-realiza-sabatina-com-candidatos-a-presidencia",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
+  "atualizado_em": "2026-10-21",
+  "lacunas": [
+    "Nenhuma agência de checagem cobriu a sabatina; a Gazeta do Paraná é checagem de redação local.",
+    "Flávio foi convidado para 21/10, sem confirmação até a publicação."
+  ]
+}

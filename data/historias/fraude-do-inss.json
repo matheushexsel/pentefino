@@ -1,0 +1,850 @@
+{
+  "id": "fraude-do-inss",
+  "titulo": "A fraude dos descontos no INSS: o que se sabe, quem foi responsabilizado e o que ainda está em aberto",
+  "pergunta_principal": "Quem desviou R$ 6,3 bilhões de aposentados, em que governos isso aconteceu e quem já foi punido?",
+  "resposta_curta": [
+    "Associações e sindicatos descontaram mensalidades não autorizadas de aposentadorias e pensões; a PF e a CGU estimam R$ 6,3 bilhões entre 2019 e 2024 e cerca de 4 milhões de vítimas; segundo a PF, o esquema começou em 2019 (governo Bolsonaro) e cerca de 64% do valor refere-se a 2023-2024 (governo Lula).",
+    "A Operação Sem Desconto (23/04/2025) derrubou o ministro Carlos Lupi, levou à prisão o ex-presidente do INSS Alessandro Stefanutto e produziu, em julho de 2026, o indiciamento de 48 pessoas pela PF; o governo devolveu mais de R$ 3,5 bilhões a mais de 5 milhões de beneficiários.",
+    "Até 21/10/2026 não há denúncia da PGR nem condenação criminal localizada; a CPMI (ago/2025-mar/2026) terminou sem relatório aprovado, com a oposição mirando Lupi e Lulinha e a base do governo mirando Jair e Flávio Bolsonaro."
+  ],
+  "periodo": {
+    "inicio": "2019-01-01",
+    "fim": "2026-10-21"
+  },
+  "temas": [
+    "corrupcao",
+    "pobreza-programas-sociais",
+    "justica-stf"
+  ],
+  "personagens": [
+    {
+      "id": "carlos-lupi",
+      "nome": "Carlos Lupi",
+      "papel_na_historia": "Ministro da Previdência (governo Lula) que renunciou em 02/05/2025; delatado por servidores; alvo de pedido de indiciamento pela CPMI (rejeitado); não denunciado.",
+      "partido_atual": "PDT"
+    },
+    {
+      "id": "alessandro-stefanutto",
+      "nome": "Alessandro Stefanutto",
+      "papel_na_historia": "Ex-presidente do INSS; demitido em 2025, preso em 13/11/2025 e indiciado pela PF em 14/07/2026.",
+      "partido_atual": null
+    },
+    {
+      "id": "careca-do-inss",
+      "nome": "Antônio Carlos Camilo Antunes ('Careca do INSS')",
+      "papel_na_historia": "Apontado pela PF e pelo relatório da CPMI como líder do esquema; preso e indiciado.",
+      "partido_atual": null
+    },
+    {
+      "id": "mauricio-camisotti",
+      "nome": "Maurício Camisotti",
+      "papel_na_historia": "Empresário preso desde 12/09/2025; fez delação e admitiu o esquema (abr/2026).",
+      "partido_atual": null
+    },
+    {
+      "id": "jose-carlos-oliveira",
+      "nome": "José Carlos Oliveira",
+      "papel_na_historia": "Ministro da Previdência do governo Bolsonaro; alvo de pedido de indiciamento pela CPMI (rejeitado); sem investigação formal localizada.",
+      "partido_atual": null
+    },
+    {
+      "id": "lulinha",
+      "nome": "Fábio Luís Lula da Silva (Lulinha)",
+      "papel_na_historia": "Filho de Lula; citado em delação; CPMI pediu indiciamento (rejeitado); não investigado pela PF.",
+      "partido_atual": null
+    },
+    {
+      "id": "alfredo-gaspar",
+      "nome": "Alfredo Gaspar",
+      "papel_na_historia": "Relator da CPMI (relatório de 4.340 páginas com 216 pedidos de indiciamento, rejeitado por 19x12); depois vice na chapa de Flávio Bolsonaro.",
+      "partido_atual": "PL"
+    },
+    {
+      "id": "carlos-viana",
+      "nome": "Carlos Viana",
+      "papel_na_historia": "Presidente da CPMI do INSS.",
+      "partido_atual": "Podemos"
+    },
+    {
+      "id": "andre-mendonca",
+      "nome": "André Mendonça",
+      "papel_na_historia": "Ministro do STF relator do inquérito desde 25/08/2025.",
+      "partido_atual": null
+    },
+    {
+      "id": "wolney-queiroz",
+      "nome": "Wolney Queiroz",
+      "papel_na_historia": "Ministro da Previdência desde maio de 2025; anunciou em out/2026 ressarcimento a mais de 5 milhões.",
+      "partido_atual": "PDT"
+    }
+  ],
+  "capitulos": [
+    {
+      "id": "1",
+      "titulo": "O esquema (2019-2024): descontos associativos não autorizados",
+      "periodo": "2019-2024",
+      "texto_md": "Entidades associativas e sindicais descontavam mensalidades diretamente de aposentadorias e pensões sem autorização dos beneficiários. A PF e a CGU estimam R$ 6,3 bilhões movimentados entre 2019 e 2024, com mais de 4 milhões de beneficiários afetados (INSS: 4,1 milhões). Evolução dos descontos: cerca de R$ 41 mi (2017), R$ 200 mi (2018), R$ 36 mi (2020), R$ 2,4 bi (2024) e R$ 655 mi no 1º trimestre de 2025. Segundo a PF, o esquema começou em 2019 (governo Bolsonaro) e cerca de 64% do valor refere-se a 2023-2024 (governo Lula). Onze entidades foram formalmente indiciadas, com suspeita sobre mais de 20 similares (Metrópoles citou 43): Contag (suspeita de ~R$ 2 bi; outra citação fala em R$ 2,9 bi em 2016-2023), Caap (214 de 215 descontos fraudulentos), Ambec, Sindnapi, AAPB, AAPEN, Unaspub, Conafer, ABCB, Unabrasil.",
+      "eventos": [
+        {
+          "data": "2019",
+          "fato": "Início do esquema segundo a PF (governo Bolsonaro; ministro José Carlos Oliveira).",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Sem_Desconto",
+          "tipo": "fato"
+        },
+        {
+          "data": "2024",
+          "fato": "Descontos atingem R$ 2,4 bilhões no ano.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Sem_Desconto",
+          "tipo": "fato"
+        },
+        {
+          "data": "2025-04-23",
+          "fato": "PF/CGU: cerca de R$ 6,3 bilhões movimentados entre 2019 e 2024; mais de 4 milhões de beneficiários afetados.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://www.otempo.com.br/politica/judiciario/2026/4/23/operacao-contra-fraudes-no-inss-completa-um-ano-com-desdobramentos-mas-sem-ouvir-todos-investigados",
+          "tipo": "documento"
+        }
+      ],
+      "o_que_a_acusacao_dizia": null,
+      "o_que_a_defesa_dizia": null,
+      "numeros": [
+        {
+          "rotulo": "Valor estimado do esquema (PF/CGU)",
+          "valor": 6.3,
+          "unidade": "R$ bilhões",
+          "periodo": "2019-2024",
+          "fonte": {
+            "nome": "O Tempo",
+            "url": "https://www.otempo.com.br/politica/judiciario/2026/4/23/operacao-contra-fraudes-no-inss-completa-um-ano-com-desdobramentos-mas-sem-ouvir-todos-investigados",
+            "acesso_em": "2026-10-21",
+            "tier": "imprensa"
+          }
+        },
+        {
+          "rotulo": "Beneficiários prejudicados (INSS)",
+          "valor": 4.1,
+          "unidade": "milhões de pessoas",
+          "periodo": "2025",
+          "fonte": {
+            "nome": "Wikipédia (pt) — fonte secundária",
+            "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Sem_Desconto",
+            "acesso_em": "2026-10-21",
+            "tier": "imprensa"
+          }
+        },
+        {
+          "rotulo": "Parcela do valor em 2023-2024",
+          "valor": 64,
+          "unidade": "%",
+          "periodo": "2023-2024",
+          "fonte": {
+            "nome": "Wikipédia (pt) — fonte secundária",
+            "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Sem_Desconto",
+            "acesso_em": "2026-10-21",
+            "tier": "imprensa"
+          }
+        },
+        {
+          "rotulo": "Descontos em 2020",
+          "valor": 36,
+          "unidade": "R$ milhões",
+          "periodo": "2020",
+          "fonte": {
+            "nome": "Wikipédia (pt) — fonte secundária",
+            "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Sem_Desconto",
+            "acesso_em": "2026-10-21",
+            "tier": "imprensa"
+          }
+        },
+        {
+          "rotulo": "Descontos em 2024",
+          "valor": 2.4,
+          "unidade": "R$ bilhões",
+          "periodo": "2024",
+          "fonte": {
+            "nome": "Wikipédia (pt) — fonte secundária",
+            "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Sem_Desconto",
+            "acesso_em": "2026-10-21",
+            "tier": "imprensa"
+          }
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "titulo": "Operação Sem Desconto (23/04/2025) e as prisões",
+      "periodo": "2025-03-18 a 2026-05-27",
+      "texto_md": "A Operação Sem Desconto foi deflagrada em 23/04/2025 pela PF e CGU com 211 mandados de busca e 6 de prisão temporária em 13 estados e no DF. Seguiram-se fases contra a Conafer (14/05/2025), em Sergipe (04/06), prisões preventivas (17/06), 66 mandados com o Sindnapi entre os alvos (09/10/2025), as prisões do ex-presidente do INSS Alessandro Stefanutto e do ex-procurador-geral Virgílio Oliveira Filho (13/11/2025), a prisão do filho do 'Careca' e busca contra o senador Weverton Rocha (18/12/2025), e fases em 2026 (Victor Aielo, Alexandre Moreira da Silva, deputada Maria Gorete Pereira com tornozeleira em 17/03/2026, 31 mandados em 27/05/2026). Maurício Camisotti está preso desde 12/09/2025; o 'Careca do INSS' também foi preso; um policial federal foi preso em flagrante com US$ 200 mil. O inquérito no STF foi aberto em 17/06/2025 (Toffoli) e passou a André Mendonça em 25/08/2025, em sigilo. Bloqueios: R$ 2,56 bi de 12 associações (mai/2025), R$ 2,8 bi em bens até 12/06/2025, R$ 390 mi do Sindnapi (14/10/2025) e R$ 500 mi do Sindnapi (05/03/2026).",
+      "eventos": [
+        {
+          "data": "2025-03-18",
+          "fato": "Operação Caça ao Tesouro (saques ilegais, RJ, mais de R$ 50 mi).",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Sem_Desconto",
+          "tipo": "fato"
+        },
+        {
+          "data": "2025-04-23",
+          "fato": "Operação Sem Desconto: 211 mandados de busca e 6 de prisão temporária em 13 estados e DF.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://www.otempo.com.br/politica/judiciario/2026/4/23/operacao-contra-fraudes-no-inss-completa-um-ano-com-desdobramentos-mas-sem-ouvir-todos-investigados",
+          "tipo": "fato"
+        },
+        {
+          "data": "2025-05-14",
+          "fato": "Fase contra a Conafer.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Sem_Desconto",
+          "tipo": "fato"
+        },
+        {
+          "data": "2025-06-17",
+          "fato": "Duas prisões preventivas e sequestro de imóveis (~R$ 12 mi); inquérito aberto no STF (Toffoli).",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Sem_Desconto",
+          "tipo": "fato"
+        },
+        {
+          "data": "2025-08-25",
+          "fato": "Relatoria no STF passa a André Mendonça; tramita em sigilo.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://www.otempo.com.br/politica/judiciario/2026/4/23/operacao-contra-fraudes-no-inss-completa-um-ano-com-desdobramentos-mas-sem-ouvir-todos-investigados",
+          "tipo": "fato"
+        },
+        {
+          "data": "2025-09-12",
+          "fato": "Maurício Camisotti é preso.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Sem_Desconto",
+          "tipo": "fato"
+        },
+        {
+          "data": "2025-10-09",
+          "fato": "66 mandados; Sindnapi entre os alvos; bloqueio de R$ 390 mi do Sindnapi em 14/10.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Sem_Desconto",
+          "tipo": "fato"
+        },
+        {
+          "data": "2025-11-13",
+          "fato": "Prisões de Alessandro Stefanutto (ex-presidente do INSS) e Virgílio Antônio Ribeiro de Oliveira Filho (ex-procurador-geral do INSS).",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Sem_Desconto",
+          "tipo": "fato"
+        },
+        {
+          "data": "2025-12-18",
+          "fato": "Prisão de Romeu Carvalho Antunes (filho do 'Careca') e busca contra o senador Weverton Rocha (PDT-MA).",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Sem_Desconto",
+          "tipo": "fato"
+        },
+        {
+          "data": "2026-03-05",
+          "fato": "Justiça bloqueia R$ 500 mi do Sindnapi em ação sigilosa do INSS.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Sem_Desconto",
+          "tipo": "decisao"
+        },
+        {
+          "data": "2026-03-17",
+          "fato": "Fase contra a deputada Maria Gorete Pereira (MDB-CE), que passa a usar tornozeleira.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Sem_Desconto",
+          "tipo": "fato"
+        },
+        {
+          "data": "2026-04",
+          "fato": "Justiça do DF nega recurso de Antunes para não ser identificado como 'Careca do INSS'.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-04/justica-nega-pedido-de-careca-do-inss-para-barrar-apelido",
+          "tipo": "decisao"
+        },
+        {
+          "data": "2026-05-27",
+          "fato": "31 mandados contra entidades no DF e RJ.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Sem_Desconto",
+          "tipo": "fato"
+        }
+      ],
+      "o_que_a_acusacao_dizia": null,
+      "o_que_a_defesa_dizia": null,
+      "numeros": [
+        {
+          "rotulo": "Mandados de busca na 1ª fase",
+          "valor": 211,
+          "unidade": "mandados",
+          "periodo": "2025-04-23",
+          "fonte": {
+            "nome": "O Tempo",
+            "url": "https://www.otempo.com.br/politica/judiciario/2026/4/23/operacao-contra-fraudes-no-inss-completa-um-ano-com-desdobramentos-mas-sem-ouvir-todos-investigados",
+            "acesso_em": "2026-10-21",
+            "tier": "imprensa"
+          }
+        },
+        {
+          "rotulo": "Bloqueio de bens até 12/06/2025",
+          "valor": 2.8,
+          "unidade": "R$ bilhões",
+          "periodo": "2025-06-12",
+          "fonte": {
+            "nome": "Wikipédia (pt) — fonte secundária",
+            "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Sem_Desconto",
+            "acesso_em": "2026-10-21",
+            "tier": "imprensa"
+          }
+        },
+        {
+          "rotulo": "Valor recuperado pela PF",
+          "valor": 1,
+          "unidade": "R$ bilhão (aprox.)",
+          "periodo": "2025",
+          "fonte": {
+            "nome": "Wikipédia (pt) — fonte secundária",
+            "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Sem_Desconto",
+            "acesso_em": "2026-10-21",
+            "tier": "imprensa"
+          }
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "titulo": "A queda de Lupi e a resposta do governo: ressarcimento de R$ 3,5 bilhões",
+      "periodo": "2025-05-02 a 2026-10-16",
+      "texto_md": "Carlos Lupi (PDT) pediu demissão do Ministério da Previdência em 02/05/2025 e foi substituído por Wolney Queiroz (PDT); Stefanutto foi demitido e Gilberto Waller Jr. assumiu o INSS. Lupi admitiu ter sido alertado sobre irregularidades e negou responsabilidade direta; foi delatado por servidores do INSS (Metrópoles, 27/02/2026) e não foi denunciado (até abr/2026). O Metrópoles revelou reunião de Wolney Queiroz com o 'Careca' em janeiro de 2023, quando era deputado. O governo pediu ao STF (12/06/2025) a suspensão das ações judiciais de aposentados; Toffoli negou em 17/06/2025 e marcou conciliação. Novos consignados foram suspensos desde maio de 2025 e a biometria passou a ser exigida em 23/05/2025. O ressarcimento começou em julho de 2025 (descontos de mar/2020 a mar/2025): R$ 292 mi até 12/06/2025; 4,2 milhões de pessoas e ~R$ 2,9 bi em fevereiro de 2026; ~R$ 3 bi a ~4,4 milhões em abril; ~R$ 3,2 bi a mais de 4,7 milhões em julho (MP 1.378/2026 abriu crédito de R$ 547 mi); mais de 5 milhões e mais de R$ 3,5 bi em outubro de 2026. Quem aderiu renunciou a processar a União; o prazo de contestação encerrou em 20/06/2026. A Transparência Internacional criticou a resposta do governo federal ao caso no IPC 2025.",
+      "eventos": [
+        {
+          "data": "2025-05-02",
+          "fato": "Carlos Lupi pede demissão do Ministério da Previdência; Wolney Queiroz assume.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://pt.wikipedia.org/wiki/Carlos_Lupi",
+          "tipo": "fato"
+        },
+        {
+          "data": "2025-05-23",
+          "fato": "Biometria passa a ser exigida; novos consignados suspensos desde maio.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Sem_Desconto",
+          "tipo": "fato"
+        },
+        {
+          "data": "2025-06-17",
+          "fato": "Toffoli nega pedido do governo (12/06) de suspender ações de aposentados e marca conciliação.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Sem_Desconto",
+          "tipo": "decisao"
+        },
+        {
+          "data": "2025-07",
+          "fato": "Início do ressarcimento (descontos de mar/2020 a mar/2025).",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Sem_Desconto",
+          "tipo": "fato"
+        },
+        {
+          "data": "2026-02-05",
+          "fato": "Presidente do INSS (Waller): 4,2 milhões de beneficiários receberam ~R$ 2,9 bi.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": "Gilberto Waller Jr.",
+          "url": "https://www12.senado.leg.br/radio/1/noticia/2026/02/05/presidente-do-inss-destaca-ressarcimento-de-4-milhoes-de-aposentados-por-descontos-indevidos",
+          "tipo": "declaracao"
+        },
+        {
+          "data": "2026-02-27",
+          "fato": "Lupi é delatado por servidores do INSS (Metrópoles).",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Sem_Desconto",
+          "tipo": "fato"
+        },
+        {
+          "data": "2026-06-20",
+          "fato": "Encerra o prazo de contestação dos descontos.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://www.otempo.com.br/politica/judiciario/2026/4/23/operacao-contra-fraudes-no-inss-completa-um-ano-com-desdobramentos-mas-sem-ouvir-todos-investigados",
+          "tipo": "fato"
+        },
+        {
+          "data": "2026-07-22",
+          "fato": "MP 1.378/2026 abre crédito extraordinário de R$ 547 mi; mais de 4,7 milhões receberam ~R$ 3,2 bi.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://ohoje.com/2026/07/22/aposentados-terao-r-547-milhoes-para-ressarcimento-de-descontos-indevidos-do-inss/",
+          "tipo": "fato"
+        },
+        {
+          "data": "2026-10-16",
+          "fato": "Ministro Wolney Queiroz: mais de 5 milhões receberam, total acima de R$ 3,5 bi; conclusão refere-se a quem pediu, não ao fim das investigações.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": "Wolney Queiroz",
+          "url": "https://meutudo.com.br/blog/noticias/2026/10/16/mais-de-5-milhoes-receberam-ressarcimento-do-inss-ministro-diz-que-nao-ha-mais-pendencias",
+          "tipo": "declaracao"
+        }
+      ],
+      "o_que_a_acusacao_dizia": "Oposição e relatório Gaspar: Lupi teria se omitido (prevaricação, condescendência criminosa) e o governo tentou suspender ações dos aposentados no STF.",
+      "o_que_a_defesa_dizia": "Governo: afastou Stefanutto, Lupi renunciou, suspendeu consignados, exigiu biometria e ressarciu mais de 5 milhões de pessoas; Lupi nega responsabilidade direta.",
+      "numeros": [
+        {
+          "rotulo": "Beneficiários ressarcidos",
+          "valor": 5,
+          "unidade": "milhões (mais de)",
+          "periodo": "2026-10",
+          "fonte": {
+            "nome": "meutudo (blog)",
+            "url": "https://meutudo.com.br/blog/noticias/2026/10/16/mais-de-5-milhoes-receberam-ressarcimento-do-inss-ministro-diz-que-nao-ha-mais-pendencias",
+            "acesso_em": "2026-10-21",
+            "tier": "imprensa"
+          }
+        },
+        {
+          "rotulo": "Total ressarcido",
+          "valor": 3.5,
+          "unidade": "R$ bilhões (mais de)",
+          "periodo": "2026-10",
+          "fonte": {
+            "nome": "meutudo (blog)",
+            "url": "https://meutudo.com.br/blog/noticias/2026/10/16/mais-de-5-milhoes-receberam-ressarcimento-do-inss-ministro-diz-que-nao-ha-mais-pendencias",
+            "acesso_em": "2026-10-21",
+            "tier": "imprensa"
+          }
+        },
+        {
+          "rotulo": "Crédito extraordinário da MP 1.378/2026",
+          "valor": 547,
+          "unidade": "R$ milhões",
+          "periodo": "2026-07",
+          "fonte": {
+            "nome": "O Hoje",
+            "url": "https://ohoje.com/2026/07/22/aposentados-terao-r-547-milhoes-para-ressarcimento-de-descontos-indevidos-do-inss/",
+            "acesso_em": "2026-10-21",
+            "tier": "imprensa"
+          }
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "titulo": "A CPMI do INSS (ago/2025-mar/2026): dois relatórios, nenhum aprovado",
+      "periodo": "2025-06-17 a 2026-03-28",
+      "texto_md": "O requerimento foi lido em 17/06/2025 (pedido original de Damares Alves e Coronel Fernanda) e a CPMI foi instalada em 20/08/2025 sob presidência de Carlos Viana (Podemos-MG). Aprovou quebras de sigilo de 67 pessoas e 91 empresas (11/09/2025), 27 pedidos de prisão preventiva enviados a Mendonça (até nov/2025), a quebra de sigilo de Daniel Vorcaro (04/12/2025) e a quebra de sigilo bancário de Lulinha (26/02/2026), suspensa por Flávio Dino em 4-5/03/2026. O STF rejeitou a prorrogação em 26/03/2026. O relatório do relator Alfredo Gaspar (4.340 páginas, 9 núcleos) pediu o indiciamento de 216 pessoas, incluindo o 'Careca' (líder), Camisotti, Vorcaro, os ex-ministros José Carlos Oliveira (gov. Bolsonaro) e Carlos Lupi (gov. Lula), ex-presidentes do INSS, parlamentares de PDT, MDB, Republicanos e PSB, executivos de C6, Banco Master e PicPay, e Lulinha (tráfico de influência, lavagem, organização criminosa, corrupção passiva; o relator admitiu que a CPMI 'não conseguiu avançar' nesse ponto). Foi rejeitado por 19 a 12 na madrugada de 28/03/2026. Viana encerrou os trabalhos sem votar o relatório alternativo da base governista (201 pedidos, incluindo Jair Bolsonaro como 'comandante' da organização e Flávio Bolsonaro por organização criminosa). O governo exonerou o ministro Carlos Fávaro em 27/03/2026, pouco antes da votação, manobra interpretada como retirada de voto da oposição. Pedido de indiciamento por CPMI é recomendação ao MP, não indiciamento policial nem denúncia.",
+      "eventos": [
+        {
+          "data": "2025-06-17",
+          "fato": "Requerimento da CPMI é lido por Alcolumbre.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Sem_Desconto",
+          "tipo": "fato"
+        },
+        {
+          "data": "2025-08-20",
+          "fato": "CPMI instalada; presidente Carlos Viana (Podemos-MG).",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Sem_Desconto",
+          "tipo": "fato"
+        },
+        {
+          "data": "2025-09-11",
+          "fato": "Quebras de sigilo de 67 pessoas e 91 empresas, incluindo Contag e Sindnapi.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Sem_Desconto",
+          "tipo": "decisao"
+        },
+        {
+          "data": "2025-12-04",
+          "fato": "Aprovada a quebra de sigilo de Daniel Vorcaro.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Sem_Desconto",
+          "tipo": "decisao"
+        },
+        {
+          "data": "2026-02-26",
+          "fato": "Aprovada a quebra de sigilo bancário de Lulinha; suspensa/anulada por Flávio Dino em 4-5/03/2026.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Sem_Desconto",
+          "tipo": "decisao"
+        },
+        {
+          "data": "2026-03-26",
+          "fato": "STF rejeita a prorrogação da CPMI.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Sem_Desconto",
+          "tipo": "decisao"
+        },
+        {
+          "data": "2026-03-27",
+          "fato": "Governo exonera o ministro Carlos Fávaro pouco antes da votação; a suplente perde o mandato (interpretado como manobra para retirar voto da oposição).",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Sem_Desconto",
+          "tipo": "fato"
+        },
+        {
+          "data": "2026-03-28",
+          "fato": "Relatório Gaspar (216 pedidos de indiciamento) é rejeitado por 19 a 12; Viana encerra os trabalhos sem votar o relatório alternativo (201 pedidos, incluindo Jair e Flávio Bolsonaro); cópias enviadas a MPF, STF e PF.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-03/cpmi-do-inss-termina-sem-relatorio-final",
+          "tipo": "decisao"
+        },
+        {
+          "data": "2026-03-28",
+          "fato": "Relatório Gaspar afirma ligações entre Banco Master e concessão irregular de consignados a aposentados.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-03/cpmi-do-inss-termina-sem-relatorio-final",
+          "tipo": "documento"
+        },
+        {
+          "data": "2026-03-28",
+          "fato": "Relator admite que a CPMI 'não conseguiu avançar' quanto a Lulinha; defesa de Lulinha nega e ele não é investigado pela PF.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://www.cnnbrasil.com.br/politica/relatorio-da-cpmi-do-inss-pede-indicamento-de-lulinha-e-outras-218-pessoas/",
+          "tipo": "documento"
+        }
+      ],
+      "o_que_a_acusacao_dizia": "Relatório Gaspar (oposição): organização criminosa liderada pelo 'Careca' com omissão de Lupi e supostas 'mesadas' a Lulinha; pediu indiciamento de 216 pessoas.",
+      "o_que_a_defesa_dizia": "Base do governo: o relatório era político; o relatório alternativo apontava Jair Bolsonaro como 'comandante' e o início do esquema em 2019; Lulinha nega.",
+      "numeros": [
+        {
+          "rotulo": "Pedidos de indiciamento no relatório Gaspar",
+          "valor": 216,
+          "unidade": "pessoas",
+          "periodo": "2026-03",
+          "fonte": {
+            "nome": "Agência Brasil",
+            "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-03/relatorio-da-cpmi-do-inss-pede-indiciamento-de-216-pessoas",
+            "acesso_em": "2026-10-21",
+            "tier": "oficial"
+          }
+        },
+        {
+          "rotulo": "Pedidos de indiciamento no relatório alternativo",
+          "valor": 201,
+          "unidade": "pessoas",
+          "periodo": "2026-03",
+          "fonte": {
+            "nome": "Agência Brasil",
+            "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-03/cpmi-do-inss-termina-sem-relatorio-final",
+            "acesso_em": "2026-10-21",
+            "tier": "oficial"
+          }
+        },
+        {
+          "rotulo": "Votação do relatório Gaspar",
+          "valor": 19,
+          "unidade": "votos contra x 12 a favor",
+          "periodo": "2026-03-28",
+          "fonte": {
+            "nome": "Agência Brasil",
+            "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-03/cpmi-do-inss-termina-sem-relatorio-final",
+            "acesso_em": "2026-10-21",
+            "tier": "oficial"
+          }
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "titulo": "Delações, indiciamentos e a situação em outubro de 2026",
+      "periodo": "2026-02 a 2026-10-21",
+      "texto_md": "Virgílio Oliveira e André Fidélis fizeram delação no fim de fevereiro de 2026; Camisotti confirmou delação em abril de 2026 e admitiu o esquema. Em 14/07/2026 a PF concluiu a primeira parte do inquérito e indiciou 48 pessoas, entre elas Stefanutto, o 'Careca' (lavagem e participação em corrupção ativa), Virgílio Oliveira Filho e Carlos Roberto Ferreira Lopes (Conafer); relatório de 265 páginas enviado ao STF (Mendonça); cabe à PGR denunciar, pedir diligências ou arquivar. Em 25/09/2026 Fachin mandou a PGR analisar pedidos pendentes nas investigações do Master e do INSS. Há condenações cíveis isoladas (TRF-6 manteve indenização de R$ 8 mil; em Caratinga/MG, entidade condenada à devolução em dobro mais R$ 5 mil). Vazamento da Dataprev (26/05/2026) expôs 2,8 milhões de CPFs (98% de falecidos). Até 21/10/2026 não foi localizada denúncia da PGR nem condenação criminal.",
+      "eventos": [
+        {
+          "data": "2026-02",
+          "fato": "Delações de Virgílio Oliveira e André Fidélis.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Sem_Desconto",
+          "tipo": "fato"
+        },
+        {
+          "data": "2026-04",
+          "fato": "Camisotti confirma delação e admite o esquema.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://www.otempo.com.br/politica/judiciario/2026/4/23/operacao-contra-fraudes-no-inss-completa-um-ano-com-desdobramentos-mas-sem-ouvir-todos-investigados",
+          "tipo": "fato"
+        },
+        {
+          "data": "2026-05-26",
+          "fato": "Vazamento da Dataprev expõe 2,8 milhões de CPFs (98% de falecidos).",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Sem_Desconto",
+          "tipo": "fato"
+        },
+        {
+          "data": "2026-07-14",
+          "fato": "PF indicia 48 pessoas (Stefanutto, 'Careca', Virgílio Oliveira Filho, Carlos Roberto Ferreira Lopes/Conafer); relatório de 265 páginas enviado ao STF.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://www.correiobraziliense.com.br/politica/2026/07/7461264-pf-indicia-careca-do-inss-e-mais-47-pessoas-por-fraudes.html",
+          "tipo": "documento"
+        },
+        {
+          "data": "2026-09-25",
+          "fato": "Fachin manda a PGR analisar pedidos pendentes nas investigações do Master e do INSS.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://pt.wikipedia.org/wiki/Esc%C3%A2ndalo_do_Banco_Master",
+          "tipo": "decisao"
+        }
+      ],
+      "o_que_a_acusacao_dizia": null,
+      "o_que_a_defesa_dizia": null,
+      "numeros": [
+        {
+          "rotulo": "Indiciados pela PF",
+          "valor": 48,
+          "unidade": "pessoas",
+          "periodo": "2026-07-14",
+          "fonte": {
+            "nome": "Correio Braziliense",
+            "url": "https://www.correiobraziliense.com.br/politica/2026/07/7461264-pf-indicia-careca-do-inss-e-mais-47-pessoas-por-fraudes.html",
+            "acesso_em": "2026-10-21",
+            "tier": "imprensa"
+          }
+        }
+      ]
+    }
+  ],
+  "glossario_local": [
+    {
+      "termo": "Indiciamento (policial)",
+      "definicao_simples": "Ato da PF que aponta formalmente um suspeito ao fim do inquérito. Não é acusação nem condenação; cabe à PGR denunciar, pedir diligências ou arquivar."
+    },
+    {
+      "termo": "Pedido de indiciamento por CPI/CPMI",
+      "definicao_simples": "Recomendação política ao Ministério Público; não é indiciamento policial nem denúncia. A CPMI do INSS não aprovou nenhum relatório."
+    },
+    {
+      "termo": "Denúncia",
+      "definicao_simples": "Acusação formal do Ministério Público ao tribunal. Até out/2026 não foi localizada denúncia da PGR no caso do INSS."
+    },
+    {
+      "termo": "Delação premiada",
+      "definicao_simples": "Acordo em que o investigado confessa e aponta outros em troca de benefícios; Virgílio Oliveira, André Fidélis e Camisotti fizeram delações em 2026."
+    },
+    {
+      "termo": "Prisão preventiva / temporária",
+      "definicao_simples": "Prisões antes de julgamento, para garantir a investigação ou a ordem pública; não significam culpa."
+    },
+    {
+      "termo": "Foro no STF",
+      "definicao_simples": "O inquérito tramita no STF (sigilo) desde 17/06/2025 por envolver pessoas com foro por prerrogativa de função; relator André Mendonça."
+    },
+    {
+      "termo": "Ressarcimento administrativo",
+      "definicao_simples": "Devolução pelo INSS dos valores descontados a quem contestou; quem aderiu renunciou a processar a União."
+    }
+  ],
+  "o_que_cada_lado_diz_hoje": {
+    "lado_a": {
+      "lado": "oposicao-flavio-pl",
+      "quem": "Oposição (síntese do relatório Gaspar e da narrativa da campanha; não é citação literal)",
+      "frase": "A fraude do INSS é um escândalo do governo Lula, com Lupi e Lulinha envolvidos.",
+      "literal": false,
+      "nao_verificado": true,
+      "veredito": "falta-contexto",
+      "explicacao": "O volume explodiu em 2023-2024 (64% do valor), sob o ministro Lupi, que renunciou e foi delatado; mas a PF situa o início em 2019, no governo Bolsonaro (ministro José Carlos Oliveira), e a CPMI aprovou investigar desde 2015. Lulinha foi citado em delação, mas não é investigado pela PF e o pedido de indiciamento foi rejeitado; Lupi não foi denunciado.",
+      "checagem_slug": null
+    },
+    "lado_b": {
+      "lado": "governo-lula-pt",
+      "quem": "Base do governo (síntese do relatório alternativo não votado; não é citação literal)",
+      "frase": "A fraude começou no governo Bolsonaro, que a comandava.",
+      "literal": false,
+      "nao_verificado": true,
+      "veredito": "verdadeiro-mas",
+      "explicacao": "Segundo a PF, o esquema começou em 2019, no governo Bolsonaro, e ambos os ex-ministros (Oliveira e Lupi) constaram em pedidos de indiciamento. Mas a maior parte do dinheiro (cerca de 64%) foi desviada em 2023-2024, no governo Lula, e nenhuma decisão judicial atribui 'comando' a Jair Bolsonaro; o relatório alternativo que o apontava como 'comandante' nunca foi votado.",
+      "checagem_slug": null
+    }
+  },
+  "perguntas_frequentes": [
+    {
+      "pergunta": "Quanto foi desviado e de quantas pessoas?",
+      "resposta": "A PF e a CGU estimam R$ 6,3 bilhões movimentados entre 2019 e 2024; o INSS estima 4,1 milhões de prejudicados. Os descontos cresceram de cerca de R$ 36 milhões em 2020 para R$ 2,4 bilhões em 2024."
+    },
+    {
+      "pergunta": "Em que governo aconteceu?",
+      "resposta": "Nos dois. A PF aponta início em 2019 (governo Bolsonaro) e continuidade até 2024; cerca de 64% do valor refere-se a 2023-2024 (governo Lula). A CPMI aprovou investigar fatos desde 2015."
+    },
+    {
+      "pergunta": "Alguém foi condenado?",
+      "resposta": "Criminalmente, não até 21/10/2026. Há prisões (Stefanutto, 'Careca', Camisotti e outros), delações e o indiciamento de 48 pessoas pela PF (14/07/2026), mas nenhuma denúncia da PGR foi localizada. Há condenações cíveis isoladas de entidades a devolver valores e indenizar."
+    },
+    {
+      "pergunta": "Lupi foi denunciado?",
+      "resposta": "Não. Renunciou em 02/05/2025, admitiu ter sido alertado sobre irregularidades e negou responsabilidade direta; foi delatado por servidores do INSS (fev/2026) e teve pedido de indiciamento no relatório da CPMI, que foi rejeitado."
+    },
+    {
+      "pergunta": "Lulinha e Frei Chico são investigados?",
+      "resposta": "Não pela PF, segundo as fontes de abril de 2026. Lulinha foi citado em delação e nas buscas contra Roberta Luchsinger; a CPMI aprovou a quebra de seu sigilo (26/02/2026), suspensa por Flávio Dino, e o pedido de indiciamento foi rejeitado. Frei Chico é vice-presidente do Sindnapi, entidade que teve R$ 390 mi e R$ 500 mi bloqueados, mas não é investigado diretamente."
+    },
+    {
+      "pergunta": "Os aposentados receberam o dinheiro de volta?",
+      "resposta": "Em grande parte. O ressarcimento começou em julho de 2025; em outubro de 2026 o ministro Wolney Queiroz afirmou que mais de 5 milhões receberam, total acima de R$ 3,5 bilhões. O prazo de contestação terminou em 20/06/2026; quem aderiu renunciou a processar a União."
+    },
+    {
+      "pergunta": "Por que a CPMI terminou sem relatório?",
+      "resposta": "O relatório do relator Alfredo Gaspar (216 pedidos de indiciamento, incluindo Lupi e Lulinha) foi rejeitado por 19 a 12 em 28/03/2026; o presidente Carlos Viana encerrou os trabalhos sem votar o relatório alternativo da base do governo (201 pedidos, incluindo Jair e Flávio Bolsonaro). O STF havia rejeitado a prorrogação em 26/03/2026."
+    }
+  ],
+  "lacunas": [
+    "Não localizada denúncia da PGR contra 'Careca', Stefanutto ou qualquer indiciado, nem ação penal em curso (até out/2026).",
+    "Conteúdo das delações contra Lupi não verificado em fonte primária; não confirmado se há inquérito formal contra Lupi ou Wolney Queiroz no STF.",
+    "Desdobramentos da Operação Sem Desconto entre julho e outubro de 2026 não cobertos pelas fontes lidas.",
+    "Divergência de números do ressarcimento (4,2 a 5,1 milhões; R$ 2,9 a 3,5 bi) decorre de datas distintas; sem nota oficial do INSS consolidando o total.",
+    "Partido do relator Alfredo Gaspar: União-AL (Agência Brasil) ou PL-AL (CNN) em mar/2026; vice de Flávio Bolsonaro pelo PL em ago/2026.",
+    "Boa parte da cronologia vem de fonte secundária (Wikipédia), com datas que devem ser conferidas em fonte primária.",
+    "As frases em 'o_que_cada_lado_diz_hoje' são sínteses das narrativas dos dois relatórios da CPMI, não citações literais."
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/05_escandalos_recentes_inss_master_bolsonaro.md",
+  "atualizado_em": "2026-10-21",
+  "fontes": [
+    {
+      "nome": "Wikipédia (pt) — fonte secundária",
+      "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Sem_Desconto",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "O Tempo",
+      "url": "https://www.otempo.com.br/politica/judiciario/2026/4/23/operacao-contra-fraudes-no-inss-completa-um-ano-com-desdobramentos-mas-sem-ouvir-todos-investigados",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-04/justica-nega-pedido-de-careca-do-inss-para-barrar-apelido",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Wikipédia (pt) — fonte secundária",
+      "url": "https://pt.wikipedia.org/wiki/Carlos_Lupi",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Agência Senado / Senado Federal",
+      "url": "https://www12.senado.leg.br/radio/1/noticia/2026/02/05/presidente-do-inss-destaca-ressarcimento-de-4-milhoes-de-aposentados-por-descontos-indevidos",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "O Hoje",
+      "url": "https://ohoje.com/2026/07/22/aposentados-terao-r-547-milhoes-para-ressarcimento-de-descontos-indevidos-do-inss/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "meutudo (blog)",
+      "url": "https://meutudo.com.br/blog/noticias/2026/10/16/mais-de-5-milhoes-receberam-ressarcimento-do-inss-ministro-diz-que-nao-ha-mais-pendencias",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-03/cpmi-do-inss-termina-sem-relatorio-final",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/politica/relatorio-da-cpmi-do-inss-pede-indicamento-de-lulinha-e-outras-218-pessoas/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-03/relatorio-da-cpmi-do-inss-pede-indiciamento-de-216-pessoas",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Correio Braziliense",
+      "url": "https://www.correiobraziliense.com.br/politica/2026/07/7461264-pf-indicia-careca-do-inss-e-mais-47-pessoas-por-fraudes.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Wikipédia (pt) — fonte secundária",
+      "url": "https://pt.wikipedia.org/wiki/Esc%C3%A2ndalo_do_Banco_Master",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ]
+}

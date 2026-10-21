@@ -1,0 +1,71 @@
+{
+  "id": "fala-0262",
+  "slug": "flavio-lula-condenado-em-todas-as-instancias-e-descondenado",
+  "evento_id": "debate-band-2turno-2026-10-18",
+  "candidato": "flavio-bolsonaro",
+  "lado": "oposicao-flavio-pl",
+  "minuto": null,
+  "frase_literal": "Você foi condenado no STJ, você foi condenado no STF, você foi condenado em todas as instâncias, Lula. E foi descondenado pelos seus amigos.",
+  "literal": true,
+  "tema": "justica-stf",
+  "veredito": "falso",
+  "resumo_uma_frase": "Lula foi condenado em 1ª e 2ª instâncias; o STF anulou as condenações em 2021 (8 a 3) por incompetência do juízo, sem julgar o mérito; ficou 580 dias preso.",
+  "explicacao_simples": [
+    "Flávio Bolsonaro, no debate da Band (18/10/2026), disse: “Você foi condenado no STJ, você foi condenado no STF, você foi condenado em todas as instâncias, Lula. E foi descondenado pelos seus amigos”.",
+    "Lupa: falso (condenado em 1ª e 2ª instâncias; STF anulou por incompetência, sem mérito); Ranking: impreciso (580 dias preso; anulação 8x3 em 2021).",
+    "O dado central não corresponde aos registros disponíveis; por isso a frase é classificada como falsa."
+  ],
+  "o_que_e_verdade": [
+    "Lula foi condenado em duas instâncias e ficou 580 dias preso."
+  ],
+  "o_que_nao_se_sustenta": [
+    "Não houve condenação no STJ nem no STF; a anulação foi por incompetência do juízo."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Dias de prisão de Lula",
+      "valor": 580,
+      "unidade": "dias",
+      "periodo": "2018–2019",
+      "fonte": {
+        "nome": "Ranking dos Políticos",
+        "url": "https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      }
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Lupa",
+      "veredito_original": "FALSO",
+      "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+      "data": "2026-10-18"
+    },
+    {
+      "veiculo": "Ranking dos Políticos",
+      "veredito_original": "IMPRECISO",
+      "url": "https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026",
+      "data": "2026-10-19"
+    }
+  ],
+  "checagem_slug": "lula-foi-condenado-e-descondenado",
+  "historia_id": "prisao-de-lula",
+  "fontes": [
+    {
+      "nome": "Lupa",
+      "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Ranking dos Políticos",
+      "url": "https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
+  "atualizado_em": "2026-10-21"
+}

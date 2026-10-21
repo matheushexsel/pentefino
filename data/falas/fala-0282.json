@@ -1,0 +1,63 @@
+{
+  "id": "fala-0282",
+  "slug": "lula-salario-minimo-compra-2-2-cestas-basicas",
+  "evento_id": "debate-band-2turno-2026-10-18",
+  "candidato": "lula",
+  "lado": "governo-lula-pt",
+  "minuto": null,
+  "frase_literal": "O salário mínimo comprava 1.8 cesta básica [no governo Bolsonaro]. No meu governo, já tá comprando 2.2…",
+  "literal": true,
+  "tema": "emprego-renda",
+  "veredito": "exagerado",
+  "resumo_uma_frase": "Pelo Dieese-SP, o mínimo comprava 1,62 cesta em ago/2022 e 1,8 em ago/2026, não 2,2.",
+  "explicacao_simples": [
+    "Lula, no debate da Band (18/10/2026), disse: “O salário mínimo comprava 1.8 cesta básica [no governo Bolsonaro]. No meu governo, já tá comprando 2.2…”.",
+    "Lupa: exagerado (1,62 em ago/2022; 1,8 em ago/2026, Dieese-SP).",
+    "O sentido geral tem base, mas o número ou a dimensão foram inflados; por isso a classificação é 'exagerado'."
+  ],
+  "o_que_e_verdade": [
+    "O poder de compra do mínimo em cestas aumentou."
+  ],
+  "o_que_nao_se_sustenta": [
+    "Hoje compra 1,8 cesta, não 2,2."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Cestas básicas por salário mínimo (Dieese-SP)",
+      "valor": 1.8,
+      "unidade": "cestas",
+      "periodo": "ago/2026",
+      "fonte": {
+        "nome": "Lupa",
+        "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": {
+        "rotulo": "ago/2022",
+        "valor": 1.62
+      }
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Lupa",
+      "veredito_original": "EXAGERADO",
+      "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+      "data": "2026-10-18"
+    }
+  ],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Lupa",
+      "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
+  "atualizado_em": "2026-10-21"
+}

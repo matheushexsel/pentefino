@@ -1,0 +1,235 @@
+{
+  "id": "chk-5005",
+  "slug": "vacinacao-caiu-no-governo-bolsonaro",
+  "frase": "A cobertura vacinal infantil desabou no governo Bolsonaro.",
+  "frase_normalizada": "a cobertura vacinal infantil desabou no governo bolsonaro.",
+  "variantes": [
+    "Bolsonaro destruiu a vacinação no Brasil",
+    "A vacinação só caiu por causa do negacionismo de Bolsonaro",
+    "Lula recuperou a vacinação"
+  ],
+  "autor": {
+    "nome": "Afirmação recorrente no debate eleitoral (sem autor único identificado na nota)",
+    "partido": null,
+    "cargo": null,
+    "nao_verificado": true
+  },
+  "lado": "governo-lula-pt",
+  "alvo": {
+    "nome": "Governo Bolsonaro (2019–2022)",
+    "partido": "PL"
+  },
+  "data": null,
+  "onde": null,
+  "url_declaracao": null,
+  "temas": [
+    "saude"
+  ],
+  "tags": [
+    "vacinacao",
+    "pni",
+    "triplice-viral",
+    "polio",
+    "bolsonaro",
+    "lula-3"
+  ],
+  "veredito": "verdadeiro-mas",
+  "resumo_uma_frase": "A cobertura piorou de forma acentuada em 2019–2022 (tríplice viral D2 em 57,6% em 2022), mas a queda abaixo da meta começou em 2016–2017, nos governos Dilma e Temer, e a aplicação das vacinas é municipal.",
+  "explicacao_simples": [
+    "A 2ª dose da tríplice viral estava em 57,6% em 2022, muito abaixo da meta de 95%; a pentavalente caiu fortemente em 2019 (inclusive por desabastecimento) e a hepatite A desde 2018.",
+    "Mas a queda começou antes: pólio e meningocócica não atingem 95% desde 2016 e a tríplice viral desde 2017, nos governos Dilma e Temer.",
+    "Em 2023–2024 houve recuperação (tríplice viral D2 em 80,1% em 2024; 15 dos 16 imunizantes subiram), ainda incompleta: em 2025 o Ministério da Saúde via alto risco de volta da pólio."
+  ],
+  "explicacao_completa_md": "## Linha do tempo da cobertura (IFF/Fiocruz, CNM, Ministério da Saúde)\n\n- Desde 2016: poliomielite e meningocócica abaixo da meta de 95% (governos Dilma/Temer).\n- Desde 2017: tríplice viral abaixo de 95% (Temer).\n- Desde 2018: hepatite A em queda acentuada.\n- 2019: pentavalente cai fortemente, inclusive por desabastecimento; sobe em 2020–2021, mas abaixo de 95% (Bolsonaro).\n- 2022: 2ª dose da tríplice viral em 57,6%; só 855 municípios atingiram a meta.\n- 2024: tríplice viral D2 em 80,1% (80,20% em estudo com dados DATASUS); 2.408 municípios com meta; 15 dos 16 imunizantes acima de 2022; BCG, tríplice viral D1 e pólio oral acima de 95% (Lula 3).\n- 2025: Ministério da Saúde considera alto o risco de reintrodução da pólio (cobertura abaixo de 80% em diversos estados); abandono da tríplice viral acima de 50% em alguns estados; mais de 1 milhão de crianças e adolescentes vacinados em escolas no 1º semestre.\n\nEntre 2010 e 2024, a tríplice viral atingiu a meta em 8 anos e a pólio em 5 (CNM).\n\n## Quem responde\n\nCalendário vacinal, compra e distribuição de vacinas e comunicação nacional são federais (Ministério da Saúde/PNI). A aplicação nas UBS e a busca ativa das crianças são municipais. A pandemia (2020–2021) e a desinformação ampliaram a queda.\n\n## Veredito\n\nVerdadeiro, mas incompleto: o período Bolsonaro concentra a piora mais aguda (2019–2022), porém a tendência de queda começou em 2016–2017, a aplicação é municipal e a recuperação em 2023–2024 ainda não repôs a meta de 95% em várias vacinas.",
+  "o_que_e_verdade": [
+    "Tríplice viral D2 em 57,6% em 2022; pentavalente caiu fortemente em 2019; hepatite A em queda desde 2018.",
+    "Recuperação em 2023–2024: tríplice viral D2 em 80,1%; municípios com meta de 855 para 2.408; 15 dos 16 imunizantes subiram.",
+    "Compra de vacinas e calendário são federais."
+  ],
+  "o_que_nao_se_sustenta": [
+    "Que a queda tenha começado com Bolsonaro: pólio e meningocócica estão abaixo de 95% desde 2016 e a tríplice viral desde 2017.",
+    "Que a vacinação esteja recuperada: em 2025 o próprio Ministério da Saúde alertava para risco alto de reintrodução da pólio e abandono alto da tríplice viral.",
+    "Que a aplicação dependa do presidente: ela é feita pelos municípios nas UBS."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Governo federal (Ministério da Saúde/PNI)",
+      "papel": "Compra, distribuição, calendário e campanhas nacionais; desabastecimento da pentavalente em 2019",
+      "peso": "alto"
+    },
+    {
+      "ator": "Prefeituras",
+      "papel": "Aplicação nas UBS e busca ativa",
+      "peso": "alto"
+    },
+    {
+      "ator": "Pandemia e desinformação",
+      "papel": "Reduziram a procura em 2020–2022",
+      "peso": "medio"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Tríplice viral D2",
+      "valor": 57.6,
+      "unidade": "% de cobertura",
+      "periodo": "2022",
+      "fonte": {
+        "nome": "Agência Gov — municípios com mais de 95% de cobertura vacinal (jan/2025)",
+        "url": "https://agenciagov.ebc.com.br/noticias/202501/cresce-numero-de-municipios-com-mais-de-95-de-cobertura-vacinal",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "meta",
+        "valor": 95
+      }
+    },
+    {
+      "rotulo": "Tríplice viral D2",
+      "valor": 80.1,
+      "unidade": "% de cobertura",
+      "periodo": "2024",
+      "fonte": {
+        "nome": "Agência Gov — municípios com mais de 95% de cobertura vacinal (jan/2025)",
+        "url": "https://agenciagov.ebc.com.br/noticias/202501/cresce-numero-de-municipios-com-mais-de-95-de-cobertura-vacinal",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "2022",
+        "valor": 57.6
+      }
+    },
+    {
+      "rotulo": "Municípios com meta para tríplice viral D2",
+      "valor": 2408,
+      "unidade": "municípios",
+      "periodo": "2024",
+      "fonte": {
+        "nome": "Agência Gov — municípios com mais de 95% de cobertura vacinal (jan/2025)",
+        "url": "https://agenciagov.ebc.com.br/noticias/202501/cresce-numero-de-municipios-com-mais-de-95-de-cobertura-vacinal",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "2022",
+        "valor": 855
+      }
+    },
+    {
+      "rotulo": "Municípios com meta para VOP",
+      "valor": 2825,
+      "unidade": "municípios",
+      "periodo": "2024",
+      "fonte": {
+        "nome": "Agência Gov — municípios com mais de 95% de cobertura vacinal (jan/2025)",
+        "url": "https://agenciagov.ebc.com.br/noticias/202501/cresce-numero-de-municipios-com-mais-de-95-de-cobertura-vacinal",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "2022",
+        "valor": 1466
+      }
+    },
+    {
+      "rotulo": "Pólio injetável (estudo DATASUS)",
+      "valor": 90.2,
+      "unidade": "% de cobertura",
+      "periodo": "2024",
+      "fonte": {
+        "nome": "HU Revista (UFJF) — estudo com dados DATASUS",
+        "url": "https://periodicos.ufjf.br/index.php/hurevista/article/download/48275/29469/221610",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      }
+    },
+    {
+      "rotulo": "Anos com meta da tríplice viral atingida (2010–2024)",
+      "valor": 8,
+      "unidade": "anos em 15",
+      "periodo": "2010–2024",
+      "fonte": {
+        "nome": "CNM — estudo técnico cobertura vacinal 2010–2024",
+        "url": "https://cnm.org.br/biblioteca/download/16281",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      "comparacao": {
+        "rotulo": "pólio",
+        "valor": 5
+      }
+    }
+  ],
+  "series": [
+    "cobertura-vacinal-triplice-viral"
+  ],
+  "checagens_externas": [],
+  "fontes": [
+    {
+      "nome": "Portal de Boas Práticas IFF/Fiocruz — retomada da cobertura vacinal",
+      "url": "https://portaldeboaspraticas.iff.fiocruz.br/atencao-crianca/principais-questoes-sobre-retomada-da-cobertura-vacinal/",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    },
+    {
+      "nome": "Agência Gov — municípios com mais de 95% de cobertura vacinal (jan/2025)",
+      "url": "https://agenciagov.ebc.com.br/noticias/202501/cresce-numero-de-municipios-com-mais-de-95-de-cobertura-vacinal",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Brasil 61 — cobertura vacinal supera meta em várias cidades",
+      "url": "https://brasil61.com/n/cobertura-vacinal-supera-a-meta-de-95-em-varias-cidades-do-brasil-bras2513403",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "HU Revista (UFJF) — estudo com dados DATASUS",
+      "url": "https://periodicos.ufjf.br/index.php/hurevista/article/download/48275/29469/221610",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    },
+    {
+      "nome": "CNM — estudo técnico cobertura vacinal 2010–2024",
+      "url": "https://cnm.org.br/biblioteca/download/16281",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    },
+    {
+      "nome": "Jornal de Brasília — Saúde alerta para baixa cobertura vacinal",
+      "url": "https://jornaldebrasilia.com.br/noticias/saude/saude-alerta-para-baixa-cobertura-vacinal-de-triplice-viral-poliomielite-influenza-e-covid-19/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "O Imparcial — cobertura da tríplice viral no Nordeste (out/2025)",
+      "url": "https://oimparcial.com.br/noticias/2025/10/maranhao-lidera-negativamente-cobertura-vacinal-de-triplice-viral-no-nordeste/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/07_saude_seguranca_educacao_infra_ambiente.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "O Brasil perdeu o certificado de eliminação do sarampo?",
+      "resposta": "A nota registra que o certificado foi perdido em 2019 e que as fontes divergem sobre a recertificação; isso não foi confirmado em fonte oficial."
+    }
+  ],
+  "relacionadas": [
+    "brasil-segundo-pais-em-mortes-por-covid",
+    "covid-700-mil-mortes-responsabilidade"
+  ],
+  "lacunas": [
+    "Série anual oficial do SI-PNI por vacina (2015–2025) não obtida; balanço fechado de 2025 não localizado."
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false
+}

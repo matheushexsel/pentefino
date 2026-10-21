@@ -1,0 +1,332 @@
+{
+  "id": "chk-1003",
+  "slug": "menor-desemprego-da-historia",
+  "frase": "Em 2025 tivemos o menor desemprego da história, com aumento da renda da população",
+  "frase_normalizada": "O Brasil tem o menor desemprego da história",
+  "variantes": [
+    "Menor desemprego da série histórica",
+    "Desemprego cai a 5,2%, o menor da história"
+  ],
+  "autor": {
+    "nome": "Luiz Inácio Lula da Silva",
+    "partido": "PT",
+    "cargo": "presidente da República e candidato à reeleição"
+  },
+  "lado": "governo-lula-pt",
+  "alvo": null,
+  "data": "2026-01-31",
+  "onde": "Declaração pública repercutida pela Band; repetida pelo PT e pela Secom em 2026",
+  "url_declaracao": "https://www.band.com.br/noticias/lula-em-2025-tivemos-menor-desemprego-com-aumento-da-renda-a-populacao-202601311130",
+  "temas": [
+    "emprego-renda",
+    "economia",
+    "eleicao-2026"
+  ],
+  "tags": [
+    "desemprego",
+    "pnad",
+    "ibge"
+  ],
+  "veredito": "verdadeiro-mas",
+  "resumo_uma_frase": "A taxa de desocupação de 5,1% no 4º trimestre de 2025 e a média anual de 5,6% são as menores da PNAD Contínua, mas essa série começa em 2012 — a pesquisa anterior (PME) não é comparável — e a queda vem desde 2021, com participação na força de trabalho abaixo do pico de 2019.",
+  "explicacao_simples": [
+    "O IBGE registrou 5,1% de desocupação no trimestre out-dez/2025 e 5,6% na média de 2025, os menores valores da PNAD Contínua.",
+    "A frase vale para a série iniciada em 2012, porque a pesquisa anterior cobria só seis regiões metropolitanas e não pode ser comparada.",
+    "A queda começou em 2021, ainda no governo Bolsonaro, e parte dela vem de menos pessoas procurando trabalho do que em 2019."
+  ],
+  "explicacao_completa_md": "## Os dados\n\nA PNAD Contínua (IBGE) registrou 5,1% de desocupação no 4º trimestre de 2025 — menor trimestre da série — e 5,6% na média anual de 2025, menor média da série. O dado mais recente é 5,3% no trimestre jun-ago/2026, o menor para esse período. A população ocupada chegou a 103,5 milhões (recorde) e o rendimento médio real a R$ 3.560 na média de 2025.\n\n## Ressalvas\n\n1. **'História' é 'desde 2012'**: a PNAD Contínua começou em 2012; a Pesquisa Mensal de Emprego (PME), que registrou 5,5% em 2012 e 4,6% em dez/2012, cobria apenas seis regiões metropolitanas e não é comparável.\n2. **Tendência anterior**: o pico foi 14,9% (3T2020 e 1T2021); ao fim do governo Bolsonaro a taxa já era 7,9% (4T2022). A queda sob Lula 3 continua uma trajetória iniciada em 2021-2022.\n3. **Participação**: a taxa de participação na força de trabalho (62,1% no 4T2025) está abaixo do pico de 63,4% do 4T2019 — parte da queda vem de menos gente procurando emprego.\n4. **Desaceleração do emprego formal**: o Novo Caged fechou 2025 com +1,28 milhão de vagas, pior ano da série nova fora da pandemia, embora o estoque de 48,2 milhões de vínculos seja recorde.\n\nOs checadores não publicaram veredito formal sobre a frase; tratam a ressalva 'desde 2012' como contexto, não como erro.",
+  "o_que_e_verdade": [
+    "5,1% no 4T2025 é a menor taxa trimestral e 5,6% a menor média anual da PNAD Contínua (2012-2025).",
+    "5,3% em jun-ago/2026 é a menor taxa para esse período da série; a população ocupada (103,5 milhões) é recorde.",
+    "O rendimento médio real habitual (R$ 3.560 em 2025) e a massa de rendimentos também bateram recordes."
+  ],
+  "o_que_nao_se_sustenta": [
+    "A série do IBGE começa em 2012; não existe medida nacional comparável para 'a história' anterior.",
+    "A queda do desemprego começou em 2021-2022 (de 14,9% para 7,9%), antes do atual governo.",
+    "A taxa de participação (62,1%) está abaixo do pico de 2019 (63,4%), o que reduz a taxa de desemprego sem criar empregos."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Ciclo econômico e recuperação pós-pandemia",
+      "papel": "queda contínua desde 2021",
+      "peso": "alto"
+    },
+    {
+      "ator": "Governo federal (política fiscal, salário mínimo, transferências)",
+      "papel": "sustentação da demanda e da renda",
+      "peso": "medio"
+    },
+    {
+      "ator": "Demografia e participação",
+      "papel": "menos pessoas na força de trabalho reduzem a taxa",
+      "peso": "medio"
+    },
+    {
+      "ator": "Copom / Banco Central",
+      "papel": "Selic de 15% desacelerou a geração de empregos formais em 2025",
+      "peso": "baixo"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Taxa de desocupação",
+      "valor": 5.1,
+      "unidade": "%",
+      "periodo": "4T2025 (menor trimestre da série)",
+      "fonte": {
+        "nome": "IBGE – SIDRA tabela 4099 (PNAD Contínua trimestral)",
+        "url": "https://apisidra.ibge.gov.br/values/t/4099/n1/all/v/all/p/all",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "4T2022",
+        "valor": 7.9
+      }
+    },
+    {
+      "rotulo": "Taxa de desocupação média anual",
+      "valor": 5.6,
+      "unidade": "%",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "IBGE – Retrospectiva PNAD Contínua 2012-2025 (PDF, 30/01/2026)",
+        "url": "https://ftp.ibge.gov.br/Trabalho_e_Rendimento/Pesquisa_Nacional_por_Amostra_de_Domicilios_continua/Principais_destaques_PNAD_continua/2012_2025/PNAD_continua_retrospectiva_2012_2025.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "2021 (pior ano)",
+        "valor": 14.0
+      }
+    },
+    {
+      "rotulo": "Taxa de desocupação (trimestre móvel)",
+      "valor": 5.3,
+      "unidade": "%",
+      "periodo": "jun-ago/2026",
+      "fonte": {
+        "nome": "IBGE – SIDRA tabela 6381 (PNAD Contínua, trimestres móveis)",
+        "url": "https://apisidra.ibge.gov.br/values/t/6381/n1/all/v/4099/p/last%2012",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "jun-ago/2025",
+        "valor": 5.6
+      }
+    },
+    {
+      "rotulo": "Pico da série",
+      "valor": 14.9,
+      "unidade": "%",
+      "periodo": "3T2020 e 1T2021",
+      "fonte": {
+        "nome": "IBGE – SIDRA tabela 4099 (PNAD Contínua trimestral)",
+        "url": "https://apisidra.ibge.gov.br/values/t/4099/n1/all/v/all/p/all",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Taxa de desocupação PME (6 regiões metropolitanas, não comparável)",
+      "valor": 5.5,
+      "unidade": "%",
+      "periodo": "2012",
+      "fonte": {
+        "nome": "IPEA – Boletim Mercado de Trabalho nº 54, tabela IV.1 (PME/IBGE)",
+        "url": "https://repositorio.ipea.gov.br/server/api/core/bitstreams/8a51da69-fe16-4dee-962d-f24e8c4ef126/content",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      "comparacao": {
+        "rotulo": "2003",
+        "valor": 12.3
+      }
+    },
+    {
+      "rotulo": "Taxa de participação na força de trabalho",
+      "valor": 62.1,
+      "unidade": "%",
+      "periodo": "4T2025",
+      "fonte": {
+        "nome": "IBGE – SIDRA tabela 4093 (participação e nível de ocupação)",
+        "url": "https://apisidra.ibge.gov.br/values/t/4093/n1/all/v/4096,4097/p/all",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "4T2019 (máximo)",
+        "valor": 63.4
+      }
+    },
+    {
+      "rotulo": "População ocupada",
+      "valor": 103.5,
+      "unidade": "milhões",
+      "periodo": "trimestre até ago/2026 (recorde)",
+      "fonte": {
+        "nome": "Mercado & Consumo – Taxa de desemprego cai para 5,3%, a menor para o trimestre até agosto (29/09/2026)",
+        "url": "https://mercadoeconsumo.com.br/29/09/2026/economia/taxa-de-desemprego-cai-para-53-a-menor-para-o-trimestre-ate-agosto/amp/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Rendimento médio real habitual",
+      "valor": 3560,
+      "unidade": "R$ (média anual)",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "IBGE – Retrospectiva PNAD Contínua 2012-2025 (PDF, 30/01/2026)",
+        "url": "https://ftp.ibge.gov.br/Trabalho_e_Rendimento/Pesquisa_Nacional_por_Amostra_de_Domicilios_continua/Principais_destaques_PNAD_continua/2012_2025/PNAD_continua_retrospectiva_2012_2025.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "2024",
+        "valor": 3368
+      }
+    },
+    {
+      "rotulo": "Saldo do Novo Caged",
+      "valor": 1279498,
+      "unidade": "vínculos",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "IstoÉ Dinheiro – Saldo de emprego de 2025 é compatível com maior juro real do mundo, diz Marinho (29/01/2026)",
+        "url": "https://www.istoedinheiro.com.br/saldo-de-emprego-de-2025-e-compativel-com-maior-juro-real-do-mundo-diz-marinho",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "2024 (Ipeadata)",
+        "valor": 1676514
+      }
+    }
+  ],
+  "series": [
+    "desemprego-pnad-anual",
+    "desemprego-pnad-trimestral",
+    "rendimento-medio-real",
+    "participacao-forca-trabalho",
+    "emprego-formal-caged-saldo",
+    "desemprego-pme-anual",
+    "subutilizacao-pnad"
+  ],
+  "checagens_externas": [
+    {
+      "veiculo": "Lupa",
+      "veredito_original": "VERDADEIRO para a frase correlata 'maior massa salarial da história' (não há veredito formal sobre 'menor desemprego da história')",
+      "url": "https://www.agencialupa.org/checagem/2026/04/14/lula-exagera-ao-falar-de-empregos-e-erra-sobre-preco-de-combustiveis-no-brasil/",
+      "data": "2026-04-14"
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "IBGE – SIDRA tabela 4099 (PNAD Contínua trimestral)",
+      "url": "https://apisidra.ibge.gov.br/values/t/4099/n1/all/v/all/p/all",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "IBGE – Retrospectiva PNAD Contínua 2012-2025 (PDF, 30/01/2026)",
+      "url": "https://ftp.ibge.gov.br/Trabalho_e_Rendimento/Pesquisa_Nacional_por_Amostra_de_Domicilios_continua/Principais_destaques_PNAD_continua/2012_2025/PNAD_continua_retrospectiva_2012_2025.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "IBGE – SIDRA tabela 6381 (PNAD Contínua, trimestres móveis)",
+      "url": "https://apisidra.ibge.gov.br/values/t/6381/n1/all/v/4099/p/last%2012",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "IPEA – Boletim Mercado de Trabalho nº 54, tabela IV.1 (PME/IBGE)",
+      "url": "https://repositorio.ipea.gov.br/server/api/core/bitstreams/8a51da69-fe16-4dee-962d-f24e8c4ef126/content",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    },
+    {
+      "nome": "IBGE – SIDRA tabela 4093 (participação e nível de ocupação)",
+      "url": "https://apisidra.ibge.gov.br/values/t/4093/n1/all/v/4096,4097/p/all",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Mercado & Consumo – Taxa de desemprego cai para 5,3%, a menor para o trimestre até agosto (29/09/2026)",
+      "url": "https://mercadoeconsumo.com.br/29/09/2026/economia/taxa-de-desemprego-cai-para-53-a-menor-para-o-trimestre-ate-agosto/amp/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "IstoÉ Dinheiro – Saldo de emprego de 2025 é compatível com maior juro real do mundo, diz Marinho (29/01/2026)",
+      "url": "https://www.istoedinheiro.com.br/saldo-de-emprego-de-2025-e-compativel-com-maior-juro-real-do-mundo-diz-marinho",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Band – Lula: em 2025 tivemos menor desemprego com aumento da renda (31/01/2026)",
+      "url": "https://www.band.com.br/noticias/lula-em-2025-tivemos-menor-desemprego-com-aumento-da-renda-a-populacao-202601311130",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "PT – Brasil no rumo certo: desemprego cai a 5,2%, o menor da história (2026)",
+      "url": "https://pt.org.br/brasil-no-rumo-certo-com-lula-desemprego-cai-a-52-o-menor-da-historia/",
+      "acesso_em": "2026-10-21",
+      "tier": "partidario"
+    },
+    {
+      "nome": "Secom – Brasil tem menor desemprego da série histórica para trimestre encerrado em fevereiro (mar/2026)",
+      "url": "https://www.gov.br/secom/pt-br/acompanhe-a-secom/noticias/2026/03/brasil-tem-menor-desemprego-da-serie-historica-para-trimestre-encerrado-em-fevereiro-5-8",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Ipeadata – série CAGED12_SALDON12 (Novo Caged, MTE)",
+      "url": "http://www.ipeadata.gov.br/api/odata4/ValoresSerie(SERCODIGO='CAGED12_SALDON12')",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/03_emprego_renda_pobreza_social.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "O desemprego era menor antes de 2012?",
+      "resposta": "Não há como saber com a mesma medida. A PME (1980-2016) cobria só seis regiões metropolitanas e registrou 12,3% em 2003 e 5,5% em 2012; o IBGE adverte que não é comparável com a PNAD Contínua."
+    },
+    {
+      "pergunta": "O desemprego caiu só com Lula?",
+      "resposta": "Não. O pico foi 14,9% em 2020-2021; no fim de 2022 já estava em 7,9%. A queda continuou em 2023-2025 até 5,1%."
+    },
+    {
+      "pergunta": "Menos desemprego significa mais emprego formal?",
+      "resposta": "Em parte. O estoque de carteira assinada é recorde (48,2 milhões), mas 2025 teve o menor saldo da série nova fora da pandemia (+1,28 milhão) e a informalidade segue em 37,5%."
+    },
+    {
+      "pergunta": "Por que o 1º trimestre de 2026 mostrou 6,1%?",
+      "resposta": "Sazonalidade típica de início de ano; foi o menor 1º trimestre já registrado. Comparações justas usam o mesmo trimestre do ano anterior."
+    }
+  ],
+  "relacionadas": [
+    "lula-gerou-20-milhoes-de-empregos",
+    "maior-massa-salarial-da-historia",
+    "lula-gerou-10-milhoes-de-empregos-desde-2023",
+    "lula-quebrou-o-brasil",
+    "juros-mais-altos-do-mundo"
+  ],
+  "lacunas": [
+    "Nenhuma checagem formal da frase 'menor desemprego da história' foi localizada até 21/10/2026."
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false
+}

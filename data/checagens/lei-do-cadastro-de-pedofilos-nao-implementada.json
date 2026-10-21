@@ -1,0 +1,132 @@
+{
+  "id": "chk-2062",
+  "slug": "lei-do-cadastro-de-pedofilos-nao-implementada",
+  "frase": "A lei do cadastro de pedófilos está em vigor, mas Lula não implementa.",
+  "frase_normalizada": "a lei do cadastro de pedofilos esta em vigor mas lula nao implementa",
+  "variantes": [],
+  "autor": {
+    "nome": "Flávio Bolsonaro",
+    "partido": "PL",
+    "cargo": "senador (RJ) e candidato à Presidência"
+  },
+  "lado": "oposicao-flavio-pl",
+  "alvo": {
+    "nome": "Governo Lula (2023-2026)",
+    "partido": "PT"
+  },
+  "data": "2026-10-18",
+  "onde": "Debate da Band (consórcio Band/Cultura/Gazeta/Jovem Pan/Estadão), São Paulo",
+  "url_declaracao": "https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026",
+  "temas": [
+    "seguranca",
+    "direitos-sociais"
+  ],
+  "tags": [
+    "seguranca",
+    "direitos-sociais"
+  ],
+  "veredito": "verdadeiro",
+  "resumo_uma_frase": "A lei do cadastro nacional de condenados por crimes sexuais contra crianças foi sancionada em novembro de 2024 e, segundo o Ranking dos Políticos, não havia sido implementada até outubro de 2026.",
+  "explicacao_simples": [
+    "A lei que cria o cadastro nacional de pedófilos foi sancionada em novembro de 2024.",
+    "Até o debate de outubro de 2026 o cadastro não havia sido implementado.",
+    "O Ranking dos Políticos classificou a afirmação como verdadeira."
+  ],
+  "explicacao_completa_md": "Ranking dos Políticos: VERDADEIRO (lei sancionada em nov/2024; não implementada). Contexto do Anuário 2026: registros de estupro e estupro de vulnerável somaram 84.388 em 2025 (-5,4%, primeira queda desde a pandemia), 77% contra vulneráveis e 60,3% contra vítimas de até 13 anos. Em sentido oposto, o Aos Fatos classificou como FALSO que o governo Lula trate abusadores de crianças como 'doentes' e não criminosos.",
+  "o_que_e_verdade": [
+    "A lei do cadastro foi sancionada em nov/2024 e não foi implementada até out/2026."
+  ],
+  "o_que_nao_se_sustenta": [
+    "Nada relevante na frase em si; a extrapolação de que o governo 'protege abusadores' foi classificada como falsa pelo Aos Fatos."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Governo federal (Ministério da Justiça)",
+      "papel": "regulamentar e implementar o cadastro",
+      "peso": "alto"
+    },
+    {
+      "ator": "Congresso",
+      "papel": "aprovou a lei em 2024",
+      "peso": "medio"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Ano de sanção da lei do cadastro",
+      "valor": 2024,
+      "unidade": "ano (novembro)",
+      "periodo": "nov/2024",
+      "fonte": {
+        "nome": "Ranking dos Políticos",
+        "url": "https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Registros de estupro e estupro de vulnerável",
+      "valor": 84388,
+      "unidade": "casos (-5,4%)",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Anuário Brasileiro de Segurança Pública 2026 (FBSP, PDF)",
+        "url": "https://static.poder360.com.br/uploads/2026/07/anuario-seguranca-publica-23jul26.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      "comparacao": null
+    }
+  ],
+  "series": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Ranking dos Políticos",
+      "veredito_original": "VERDADEIRO",
+      "url": "https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026",
+      "data": "2026-10-18"
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Ranking dos Políticos",
+      "url": "https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Anuário Brasileiro de Segurança Pública 2026 (FBSP, PDF)",
+      "url": "https://static.poder360.com.br/uploads/2026/07/anuario-seguranca-publica-23jul26.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/09_acusacoes_e_falas_flavio_x_lula.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "A lei existe?",
+      "resposta": "Sim, sancionada em novembro de 2024."
+    },
+    {
+      "pergunta": "O cadastro funciona?",
+      "resposta": "Não havia sido implementado até outubro de 2026, segundo o Ranking."
+    },
+    {
+      "pergunta": "O governo trata abusadores como doentes?",
+      "resposta": "Essa afirmação, feita por Flávio no mesmo debate, foi classificada como falsa pelo Aos Fatos."
+    }
+  ],
+  "relacionadas": [
+    "abusadores-tratados-como-doentes",
+    "lula-pedofilia-fala-do-toque"
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false
+}

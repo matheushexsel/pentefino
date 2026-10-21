@@ -1,0 +1,151 @@
+{
+  "id": "congelamento-tabela-ir-2016-2022",
+  "nome": "Tabela do Imposto de Renda congelada (2016-2022): isenção parada em R$ 1.903,98 e 'imposto inflacionário'",
+  "tipo": "imposto",
+  "governo": "bolsonaro",
+  "lado": "oposicao-flavio-pl",
+  "norma": {
+    "nome": "Ausência de correção da tabela progressiva do IRPF entre 2016 e 2022 (abrange Dilma/Temer em 2016-2018 e Bolsonaro em 2019-2022); correções posteriores: 2023 (+10,93%, isenção para R$ 2.112) e MP 1.294/2025 (isenção até R$ 3.036)",
+    "data": null,
+    "url": "https://contabilidade.com/blog/historico-da-tabela-irpf-2016-2026-faixas-de-isencao-aliquotas-e-defasagem-do-imposto-de-renda/",
+    "vigencia": "2016 a 2022; tabela corrigida a partir de 2023"
+  },
+  "status": "revogada",
+  "o_que_faz_simples": [
+    "Entre 2016 e 2022 a tabela do IRPF não foi corrigida: a faixa de isenção ficou em R$ 1.903,98. Com a inflação, salários nominais subiram e mais trabalhadores passaram a pagar imposto ou subiram de faixa sem ganho real — o chamado 'imposto inflacionário'.",
+    "Defasagem (Sindifisco): 44,11% só no período 2016-2022; 26,25% em 2018-2022, 'a maior já registrada num ciclo de governo'; 24,0% em 2019-2021, com projeção de 28% nos quatro anos de Bolsonaro. Acumulada desde 1996: 157,22% (cálculo de 2026, base 2025) — se integralmente corrigida, a isenção seria R$ 6.694,37/mês e a alíquota de 27,5% só a partir de R$ 12.374,74.",
+    "Efeito ilustrativo (Sindifisco, 2026): para renda bruta de R$ 6.500/mês, a não correção integral desde 1996 implica imposto extra de R$ 535,04/mês; para renda tributável de R$ 10.000, R$ 1.186,87/mês a mais (371,8% do devido com tabela corrigida). O Sindifisco afirma que o congelamento 'retira da faixa de isenção mais de oito milhões de assalariados' (fonte sindical).",
+    "Em 2021 o governo Bolsonaro aprovou na Câmara o PL 2.337/2021 (reforma do IR com tributação de dividendos a 15%), que não foi votado no Senado. A correção da tabela veio em 2023 (Lula: +10,93%) e em 2025 (MP 1.294: isenção até 2 salários mínimos)."
+  ],
+  "quem_ganha": {
+    "descricao": "União (arrecadação adicional do IRPF por efeito da inflação). Valor não quantificado nas notas.",
+    "pessoas": null,
+    "faixa_renda": "Não se aplica (Tesouro)",
+    "fonte": {
+      "nome": "Monitor Mercantil/Sindifisco — defasagem 2018-2022 e assalariados na base do IR",
+      "url": "https://monitormercantil.com.br/?p=79579",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  },
+  "quem_paga": {
+    "descricao": "Trabalhadores de renda média-baixa que entraram na base do IR ou subiram de faixa por causa da inflação — entre ~1,5 e 5 salários mínimos, segundo inferência da nota; Sindifisco fala em mais de 8 milhões de assalariados retirados da faixa de isenção (estimativa sindical, não verificada em fonte oficial).",
+    "pessoas": 8000000,
+    "faixa_renda": "≈1,5 a 5 salários mínimos",
+    "fonte": {
+      "nome": "Monitor Mercantil/Sindifisco — defasagem 2018-2022 e assalariados na base do IR",
+      "url": "https://monitormercantil.com.br/?p=79579",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    "nao_verificado": true
+  },
+  "custo_ou_arrecadacao": {
+    "valor": null,
+    "unidade": "R$ bilhões",
+    "periodo": null,
+    "descricao": "Arrecadação adicional decorrente do congelamento não quantificada nas notas.",
+    "fonte": {
+      "nome": "Sindifisco — Nota Técnica 284 sobre defasagem da tabela do IR (PDF via Sindipetro-NF)",
+      "url": "https://sindipetronf.org.br/wp-content/uploads/2025/03/notaTec284IR.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "partidario"
+    }
+  },
+  "regra_simulador": {
+    "tipo": "nenhuma",
+    "parametros": {}
+  },
+  "mitos": [
+    {
+      "mito": "O governo Bolsonaro não mexeu no Imposto de Renda, então ninguém passou a pagar mais.",
+      "fato": "Não corrigir a tabela equivale a aumento real de imposto: a defasagem acumulou 26,25% entre 2018 e 2022 (Sindifisco), fazendo trabalhadores de renda média-baixa entrarem na base ou subirem de faixa apenas por inflação. O governo Bolsonaro aprovou na Câmara uma reforma do IR (PL 2.337/2021), parada no Senado.",
+      "fontes": [
+        {
+          "nome": "Monitor Mercantil/Sindifisco — defasagem 2018-2022 e assalariados na base do IR",
+          "url": "https://monitormercantil.com.br/?p=79579",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "Sindifisco — Nota Técnica 284 sobre defasagem da tabela do IR (PDF via Sindipetro-NF)",
+          "url": "https://sindipetronf.org.br/wp-content/uploads/2025/03/notaTec284IR.pdf",
+          "acesso_em": "2026-10-21",
+          "tier": "partidario"
+        },
+        {
+          "nome": "UFPel — defasagem do Imposto de Renda é a maior desde o início do Plano Real (20/04/2022)",
+          "url": "https://wp.ufpel.edu.br/superavit/2022/04/20/defasagem-do-imposto-de-renda-e-a-maior-desde-o-inicio-do-plano-real/",
+          "acesso_em": "2026-10-21",
+          "tier": "academico"
+        }
+      ]
+    },
+    {
+      "mito": "O governo Lula corrigiu toda a defasagem da tabela do IR.",
+      "fato": "Houve correções em 2023 (+10,93%) e 2025 (isenção até R$ 3.036), e a Lei 15.270/2025 criou redução para quem ganha até R$ 7.350, mas a tabela progressiva em si não foi alterada e o Sindifisco calcula defasagem acumulada de 157,22% desde 1996.",
+      "fontes": [
+        {
+          "nome": "Money Times/Sindifisco — defasagem da tabela do IR chega a 157% (2026)",
+          "url": "https://www.moneytimes.com.br/imposto-de-renda-defasagem-da-tabela-chega-a-157-em-2025-calcula-sindifisco-jals/",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "Congresso em Foco — Lula ajusta tabela do IR para manter isento quem ganha até 2 salários",
+          "url": "https://congressoemfoco.com.br/noticia/107708/lula-ajusta-tabela-do-ir-para-manter-isento-quem-ganha-ate-2-salarios",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Contabilidade.com — histórico da tabela IRPF 2016-2026 e defasagem",
+      "url": "https://contabilidade.com/blog/historico-da-tabela-irpf-2016-2026-faixas-de-isencao-aliquotas-e-defasagem-do-imposto-de-renda/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Sindifisco — Nota Técnica 284 sobre defasagem da tabela do IR (PDF via Sindipetro-NF)",
+      "url": "https://sindipetronf.org.br/wp-content/uploads/2025/03/notaTec284IR.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "partidario"
+    },
+    {
+      "nome": "UFPel — defasagem do Imposto de Renda é a maior desde o início do Plano Real (20/04/2022)",
+      "url": "https://wp.ufpel.edu.br/superavit/2022/04/20/defasagem-do-imposto-de-renda-e-a-maior-desde-o-inicio-do-plano-real/",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    },
+    {
+      "nome": "Money Times/Sindifisco — defasagem da tabela do IR chega a 157% (2026)",
+      "url": "https://www.moneytimes.com.br/imposto-de-renda-defasagem-da-tabela-chega-a-157-em-2025-calcula-sindifisco-jals/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Monitor Mercantil/Sindifisco — defasagem 2018-2022 e assalariados na base do IR",
+      "url": "https://monitormercantil.com.br/?p=79579",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Congresso em Foco — Lula ajusta tabela do IR para manter isento quem ganha até 2 salários",
+      "url": "https://congressoemfoco.com.br/noticia/107708/lula-ajusta-tabela-do-ir-para-manter-isento-quem-ganha-ate-2-salarios",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/12_pix_fake_news_e_impostos_quem_paga.md",
+  "notas_brutas_adicionais": [
+    "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/13_renda_por_faixa_e_simulacoes_de_impacto.md"
+  ],
+  "lacunas": [
+    "Efeito do congelamento em número de novos pagadores do IR não localizado em fonte oficial (só estimativa do Sindifisco, sindical).",
+    "Arrecadação adicional decorrente da defasagem não quantificada.",
+    "Status formal atual do PL 2.337/2021 no Senado não localizado."
+  ],
+  "atualizado_em": "2026-10-21"
+}

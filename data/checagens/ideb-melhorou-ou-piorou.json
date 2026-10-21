@@ -1,0 +1,240 @@
+{
+  "id": "chk-5008",
+  "slug": "ideb-melhorou-ou-piorou",
+  "frase": "O Ideb melhorou no governo Lula / O Ideb piorou no governo Lula.",
+  "frase_normalizada": "o ideb melhorou ou piorou no governo lula 3",
+  "variantes": [
+    "A educação brasileira avançou no Ideb 2023",
+    "O Ideb mostra que a educação está parada",
+    "O Brasil bateu a meta do Ideb"
+  ],
+  "autor": {
+    "nome": "Afirmação recorrente no debate eleitoral (sem autor único identificado na nota)",
+    "partido": null,
+    "cargo": null,
+    "nao_verificado": true
+  },
+  "lado": "ambos",
+  "alvo": {
+    "nome": "Governos federal e estaduais",
+    "partido": null
+  },
+  "data": null,
+  "onde": null,
+  "url_declaracao": null,
+  "temas": [
+    "educacao"
+  ],
+  "tags": [
+    "ideb",
+    "inep",
+    "ensino-medio",
+    "anos-iniciais"
+  ],
+  "veredito": "falta-contexto",
+  "resumo_uma_frase": "Depende da etapa: anos iniciais subiram para 6,0 (meta atingida), anos finais caíram de 5,1 para 5,0 e o ensino médio foi de 4,2 para 4,3, abaixo da meta de 5,2 e do nível pré-pandemia — e as redes avaliadas são municipais e estaduais.",
+  "explicacao_simples": [
+    "No Ideb 2023 (divulgado em 14/08/2024), os anos iniciais subiram de 5,8 para 6,0 e atingiram a meta; os anos finais caíram de 5,1 para 5,0 (meta 5,5); o ensino médio foi de 4,2 para 4,3 (meta 5,2).",
+    "O Inep afirmou que o ensino médio não voltou ao nível pré-pandemia (4,4 em 2019), e 26 estados melhoraram nos anos iniciais, 16 nos finais e 17 no médio.",
+    "O Ideb mede redes municipais e estaduais (Paraná, Ceará e SP lideram); o Ideb 2023 cobre o primeiro ano do governo Lula 3, e o Ideb 2025 ainda não havia sido divulgado nas fontes da nota."
+  ],
+  "explicacao_completa_md": "## Série nacional (Inep, compilação)\n\n| Ano | Anos iniciais | Anos finais | Ensino médio |\n|---|---|---|---|\n| 2005 | 3,8 | 3,5 | 3,4 |\n| 2011 | 5,0 | 4,1 | 3,7 |\n| 2015 | 5,5 | 4,5 | 3,7 |\n| 2017 | 5,8 | 4,7 | 3,8 |\n| 2019 | 5,9 | 4,9 | 4,2 |\n| 2021 | 5,8 | 5,1 | 4,2 |\n| 2023 | 6,0 | 5,0 | 4,3 |\n| Meta 2023 | 6,0 | 5,5 | 5,2 |\n\n## Leitura por etapa\n\n- **Anos iniciais (redes municipais):** alta contínua em todos os governos desde 2005; meta de 6,0 atingida em 2023. Líderes: Paraná (6,7), Ceará (6,6), SP (6,5).\n- **Anos finais:** 5,1 em 2021 para 5,0 em 2023, abaixo da meta de 5,5. Líderes: Ceará, Paraná e Goiás (5,5).\n- **Ensino médio (redes estaduais):** parado entre 2011 e 2017 (3,7–3,8, governos Dilma/Temer), subiu para 4,2 em 2019 (Bolsonaro, antes da pandemia) e 4,3 em 2023; segundo o Inep, abaixo do nível pré-pandemia (4,4 em 2019 na divulgação de 2024). Líder: Paraná (4,9).\n\n## Contexto\n\n- O Ideb 2023 reflete fluxo e Saeb de 2023, primeiro ano do governo Lula 3, e a recuperação pós-pandemia; a execução é de estados e municípios. O PISA 2022 (379 em matemática) ficou estável e baixo.\n- O Ideb 2025 não havia sido divulgado nas fontes da nota (página do Inep atualizada em 05/08/2026).\n\n## Veredito\n\nFalta contexto: \"melhorou\" vale para os anos iniciais, \"piorou\" para os anos finais, e o ensino médio avançou 0,1 ponto sem recuperar o pré-pandemia. Nenhuma das frases genéricas descreve o quadro, e o mérito ou a culpa recaem sobretudo sobre as redes estaduais e municipais.",
+  "o_que_e_verdade": [
+    "Anos iniciais: 6,0 em 2023, meta atingida; 26 estados melhoraram.",
+    "Anos finais: queda de 5,1 para 5,0; meta de 5,5 não atingida.",
+    "Ensino médio: 4,3, abaixo da meta de 5,2 e do nível pré-pandemia segundo o Inep."
+  ],
+  "o_que_nao_se_sustenta": [
+    "Dizer que 'o Ideb melhorou' ou 'piorou' sem indicar a etapa.",
+    "Creditar ou culpar o governo federal: as redes avaliadas são municipais e estaduais; o Ideb 2023 cobre apenas o primeiro ano do governo Lula 3.",
+    "Falar em Ideb 2025: não divulgado nas fontes da nota."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Redes estaduais",
+      "papel": "Ensino médio e parte dos anos finais",
+      "peso": "alto"
+    },
+    {
+      "ator": "Redes municipais",
+      "papel": "Anos iniciais e parte dos anos finais",
+      "peso": "alto"
+    },
+    {
+      "ator": "Governo federal (MEC/Inep)",
+      "papel": "Fundeb, BNCC, avaliação, programas como Criança Alfabetizada e Pé-de-Meia",
+      "peso": "medio"
+    },
+    {
+      "ator": "Pandemia (2020–2021)",
+      "papel": "Perdas de aprendizagem, sobretudo no ensino médio",
+      "peso": "medio"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Ideb anos iniciais",
+      "valor": 6.0,
+      "unidade": "pontos",
+      "periodo": "2023",
+      "fonte": {
+        "nome": "Wikipédia pt — Ideb (compilação de dados Inep)",
+        "url": "https://pt.wikipedia.org/wiki/%C3%8Dndice_de_Desenvolvimento_da_Educa%C3%A7%C3%A3o_B%C3%A1sica",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "2021",
+        "valor": 5.8
+      }
+    },
+    {
+      "rotulo": "Ideb anos finais",
+      "valor": 5.0,
+      "unidade": "pontos",
+      "periodo": "2023",
+      "fonte": {
+        "nome": "Wikipédia pt — Ideb (compilação de dados Inep)",
+        "url": "https://pt.wikipedia.org/wiki/%C3%8Dndice_de_Desenvolvimento_da_Educa%C3%A7%C3%A3o_B%C3%A1sica",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "2021",
+        "valor": 5.1
+      }
+    },
+    {
+      "rotulo": "Ideb ensino médio",
+      "valor": 4.3,
+      "unidade": "pontos",
+      "periodo": "2023",
+      "fonte": {
+        "nome": "Wikipédia pt — Ideb (compilação de dados Inep)",
+        "url": "https://pt.wikipedia.org/wiki/%C3%8Dndice_de_Desenvolvimento_da_Educa%C3%A7%C3%A3o_B%C3%A1sica",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "2021",
+        "valor": 4.2
+      }
+    },
+    {
+      "rotulo": "Meta 2023 — ensino médio",
+      "valor": 5.2,
+      "unidade": "pontos",
+      "periodo": "2023",
+      "fonte": {
+        "nome": "Folha Vitória — Ideb 2023 e metas",
+        "url": "https://www.folhavitoria.com.br/geral/brasil-fica-estagnado-na-qualidade-de-ensino-e-longe-da-maioria-das-metas/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Estados que melhoraram nos anos iniciais (2021–2023)",
+      "valor": 26,
+      "unidade": "estados",
+      "periodo": "2023",
+      "fonte": {
+        "nome": "Folha Vitória — Ideb 2023 e metas",
+        "url": "https://www.folhavitoria.com.br/geral/brasil-fica-estagnado-na-qualidade-de-ensino-e-longe-da-maioria-das-metas/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "no ensino médio",
+        "valor": 17
+      }
+    },
+    {
+      "rotulo": "Paraná — Ideb anos iniciais",
+      "valor": 6.7,
+      "unidade": "pontos",
+      "periodo": "2023",
+      "fonte": {
+        "nome": "Folha Vitória — Ideb 2023 e metas",
+        "url": "https://www.folhavitoria.com.br/geral/brasil-fica-estagnado-na-qualidade-de-ensino-e-longe-da-maioria-das-metas/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "PISA 2022 — matemática",
+      "valor": 379,
+      "unidade": "pontos",
+      "periodo": "2022",
+      "fonte": {
+        "nome": "Agência Gov — resultados do PISA 2022",
+        "url": "https://agenciagov.ebc.com.br/noticias/202312/divulgados-os-resultados-do-pisa-2022",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "2018",
+        "valor": 384
+      }
+    }
+  ],
+  "series": [
+    "ideb-anos-iniciais",
+    "ideb-anos-finais",
+    "ideb-ensino-medio",
+    "pisa"
+  ],
+  "checagens_externas": [],
+  "fontes": [
+    {
+      "nome": "Wikipédia pt — Ideb (compilação de dados Inep)",
+      "url": "https://pt.wikipedia.org/wiki/%C3%8Dndice_de_Desenvolvimento_da_Educa%C3%A7%C3%A3o_B%C3%A1sica",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Folha Vitória — Ideb 2023 e metas",
+      "url": "https://www.folhavitoria.com.br/geral/brasil-fica-estagnado-na-qualidade-de-ensino-e-longe-da-maioria-das-metas/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "O Povo — Ideb 2023 (Ceará)",
+      "url": "https://www.opovo.com.br/noticias/ceara/2024/08/14/amp/ceara-supera-meta-nacional-do-ideb-no-ensino-fundamental-e-fica-abaixo-no-ensino-medio-em-2023.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Inep — resultados do Ideb",
+      "url": "https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/ideb/resultados",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Agência Gov — resultados do PISA 2022",
+      "url": "https://agenciagov.ebc.com.br/noticias/202312/divulgados-os-resultados-do-pisa-2022",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/07_saude_seguranca_educacao_infra_ambiente.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "Por que o 2019 do ensino médio aparece como 4,2 e 4,4?",
+      "resposta": "A compilação histórica traz 4,2; na divulgação de 2024 o Inep citou 4,4 como nível pré-pandemia. A nota não resolveu a divergência."
+    }
+  ],
+  "relacionadas": [
+    "pe-de-meia-reduziu-evasao"
+  ],
+  "lacunas": [
+    "Ideb 2025 não divulgado nas fontes da nota; divergência 4,2/4,4 para 2019 não resolvida."
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false
+}

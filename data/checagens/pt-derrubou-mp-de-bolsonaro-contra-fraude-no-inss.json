@@ -1,0 +1,149 @@
+{
+  "id": "chk-2023",
+  "slug": "pt-derrubou-mp-de-bolsonaro-contra-fraude-no-inss",
+  "frase": "Bolsonaro mandou uma medida provisória contra a corrupção no INSS e a bancada do PT derrubou.",
+  "frase_normalizada": "bolsonaro mandou uma medida provisoria contra a corrupcao no inss e a bancada do pt derrubou",
+  "variantes": [],
+  "autor": {
+    "nome": "Flávio Bolsonaro",
+    "partido": "PL",
+    "cargo": "senador (RJ) e candidato à Presidência"
+  },
+  "lado": "oposicao-flavio-pl",
+  "alvo": {
+    "nome": "PT / governo Lula",
+    "partido": "PT"
+  },
+  "data": "2026-10-18",
+  "onde": "Debate da Band (consórcio Band/Cultura/Gazeta/Jovem Pan/Estadão), São Paulo",
+  "url_declaracao": "https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026",
+  "temas": [
+    "corrupcao",
+    "direitos-sociais"
+  ],
+  "tags": [
+    "corrupcao",
+    "direitos-sociais"
+  ],
+  "veredito": "falta-contexto",
+  "resumo_uma_frase": "A MP 871/2019 exigia revalidação anual das autorizações de desconto, mas a emenda que flexibilizou a regra foi de um deputado do PSB (com apoio do PT) e, em 2022, onze partidos, incluindo o PL, votaram para enfraquecê-la, com Bolsonaro sancionando a lei que extinguiu a revalidação.",
+  "explicacao_simples": [
+    "A MP 871, de 2019, do governo Bolsonaro, exigia que o aposentado renovasse todo ano a autorização de desconto.",
+    "A regra foi flexibilizada por emenda de um deputado do PSB apoiada pelo PT; mas em 2022 onze partidos, inclusive o PL, votaram para acabar com a revalidação, e o próprio Bolsonaro sancionou a lei.",
+    "Por isso o Ranking classificou a frase como imprecisa e o Estadão Verifica como falta de contexto."
+  ],
+  "explicacao_completa_md": "A MP 871/2019 (governo Bolsonaro) exigia revalidação anual das autorizações de desconto associativo em benefícios do INSS. Segundo o Ranking dos Políticos e o Estadão Verifica, a emenda flexibilizadora partiu de deputado do PSB, com apoio do PT; em 2022, onze partidos, incluindo o PL de Bolsonaro, votaram para enfraquecer a regra, e Bolsonaro sancionou a lei que extinguiu a revalidação anual. Os descontos saltaram de R$ 36 milhões (2020) para R$ 2,4 bilhões (2024). A frase de Flávio atribui a derrubada só ao PT e omite o voto do PL e a sanção de Bolsonaro.",
+  "o_que_e_verdade": [
+    "A MP 871/2019 do governo Bolsonaro criou a exigência de revalidação anual.",
+    "O PT apoiou a emenda que flexibilizou a regra."
+  ],
+  "o_que_nao_se_sustenta": [
+    "'A bancada do PT derrubou': a emenda foi de deputado do PSB e, em 2022, onze partidos incluindo o PL votaram para enfraquecer a regra; Bolsonaro sancionou a lei que extinguiu a revalidação."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Congresso (11 partidos, incluindo PL e PT)",
+      "papel": "votou para enfraquecer/extinguir a revalidação anual",
+      "peso": "alto"
+    },
+    {
+      "ator": "Jair Bolsonaro",
+      "papel": "editou a MP 871 e depois sancionou a lei que extinguiu a revalidação (2022)",
+      "peso": "alto"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Partidos que votaram em 2022 para enfraquecer a regra",
+      "valor": 11,
+      "unidade": "partidos (incluindo o PL)",
+      "periodo": "2022",
+      "fonte": {
+        "nome": "Ranking dos Políticos",
+        "url": "https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Descontos associativos em 2020",
+      "valor": 36,
+      "unidade": "R$ milhões",
+      "periodo": "2020",
+      "fonte": {
+        "nome": "Wikipédia: Operação Sem Desconto (índice com fontes)",
+        "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Sem_Desconto",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "Descontos em 2024",
+        "valor": 2400
+      }
+    }
+  ],
+  "series": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Ranking dos Políticos",
+      "veredito_original": "IMPRECISO",
+      "url": "https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026",
+      "data": "2026-10-18"
+    },
+    {
+      "veiculo": "Estadão Verifica",
+      "veredito_original": "FALTA CONTEXTO",
+      "url": "https://www.polemicaparaiba.com.br/brasil/estadao-verifica-checa-declaracoes-de-lula-e-flavio-bolsonaro-em-debate-e-aponta-informacoes-falsas-enganosas-e-verdadeiras-confira/",
+      "data": "2026-10-18"
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Ranking dos Políticos",
+      "url": "https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Wikipédia: Operação Sem Desconto (índice com fontes)",
+      "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Sem_Desconto",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Estadão Verifica",
+      "url": "https://www.polemicaparaiba.com.br/brasil/estadao-verifica-checa-declaracoes-de-lula-e-flavio-bolsonaro-em-debate-e-aponta-informacoes-falsas-enganosas-e-verdadeiras-confira/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/09_acusacoes_e_falas_flavio_x_lula.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "O que a MP 871 fazia?",
+      "resposta": "Entre outras medidas, exigia revalidação anual das autorizações de desconto associativo em aposentadorias."
+    },
+    {
+      "pergunta": "Quem acabou com a revalidação?",
+      "resposta": "Uma emenda de deputado do PSB (apoiada pelo PT) flexibilizou a regra e, em 2022, onze partidos incluindo o PL votaram para enfraquecê-la; Bolsonaro sancionou a lei."
+    },
+    {
+      "pergunta": "Isso facilitou a fraude?",
+      "resposta": "A ausência de revalidação anual é apontada como uma das brechas; os descontos cresceram de R$ 36 milhões (2020) para R$ 2,4 bilhões (2024)."
+    }
+  ],
+  "relacionadas": [
+    "fraude-do-inss-comecou-no-governo-bolsonaro",
+    "careca-do-inss-era-do-governo-lula",
+    "inss-maior-roubo-da-historia"
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false
+}

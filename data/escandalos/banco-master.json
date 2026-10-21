@@ -1,0 +1,916 @@
+{
+  "id": "banco-master",
+  "nome": "Banco Master (liquidação, Operação Compliance Zero e desdobramentos)",
+  "periodo": {
+    "inicio": "2019",
+    "fim": null,
+    "nota": "Autorização do BC em 2019; liquidação em 18/11/2025; investigação em curso (10 fases até jul/2026)."
+  },
+  "governos_em_que_ocorreram_os_fatos": [
+    "bolsonaro",
+    "lula-3"
+  ],
+  "governos_em_que_foi_investigado": [
+    "lula-3"
+  ],
+  "resumo_simples": [
+    "O Banco Master, de Daniel Vorcaro, cresceu vendendo CDBs a até 140% do CDI apresentados como cobertos pelo FGC. O BC decretou sua liquidação em 18/11/2025, um dia após a prisão de Vorcaro na 1ª fase da Operação Compliance Zero. O custo ao FGC é estimado entre R$ 41 bi e cerca de R$ 57 bi, conforme a data e o escopo (inclui Will Bank e Banco Pleno).",
+    "O BRB (banco do governo do DF, gestão Ibaneis Rocha/MDB) comprou R$ 12,2 bi em carteiras de crédito supostamente fictícias, com perda estimada entre R$ 5 bi e R$ 9 bi; seu presidente, Paulo Henrique Costa, foi preso em 16/04/2026.",
+    "As fases da operação alcançaram os senadores Ciro Nogueira (PP-PI) e Jaques Wagner (PT-BA), o ex-governador Cláudio Castro (PL) e, pelo financiamento do filme 'Dark Horse' sobre Bolsonaro, Flávio e Eduardo Bolsonaro (PL). Ministros do STF foram questionados: Toffoli deixou a relatoria (12/02/2026); Moraes (contrato de R$ 129 mi com o escritório de sua esposa) e Mendonça (encontro com Vorcaro em mar/2025) sob questionamento.",
+    "Até out/2026 Vorcaro segue preso (desde 04/03/2026), sem denúncia da PGR localizada e com delação não concluída."
+  ],
+  "valores": [
+    {
+      "rotulo": "Custo ao FGC — estimativa inicial (CNN, 18/11/2025)",
+      "valor": 41,
+      "unidade": "R$ bilhões",
+      "fonte": {
+        "nome": "Wikipédia pt, Escândalo do Banco Master (índice)",
+        "url": "https://pt.wikipedia.org/wiki/Esc%C3%A2ndalo_do_Banco_Master",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Custo ao FGC incluindo Will Bank (Agência Pública)",
+      "valor": 47,
+      "unidade": "R$ bilhões",
+      "fonte": {
+        "nome": "Agência Pública, mar/2026: Banco Master — a reconstrução completa de como uma fraude capturou a República",
+        "url": "https://apublica.org/2026/03/banco-master-a-reconstrucao-completa-de-como-uma-fraude-capturou-a-republica/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Custo ao FGC (CNN, 18/02/2026)",
+      "valor": 52,
+      "unidade": "R$ bilhões",
+      "fonte": {
+        "nome": "Wikipédia pt, Escândalo do Banco Master (índice)",
+        "url": "https://pt.wikipedia.org/wiki/Esc%C3%A2ndalo_do_Banco_Master",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Custo ao FGC após Banco Pleno (Agência Pública)",
+      "valor": 56,
+      "unidade": "R$ bilhões",
+      "fonte": {
+        "nome": "Agência Pública, mar/2026: Banco Master — a reconstrução completa de como uma fraude capturou a República",
+        "url": "https://apublica.org/2026/03/banco-master-a-reconstrucao-completa-de-como-uma-fraude-capturou-a-republica/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Custo total estimado ao FGC (Jornal Grande Bahia)",
+      "valor": 57.4,
+      "unidade": "R$ bilhões",
+      "fonte": {
+        "nome": "Jornal Grande Bahia, jul/2026: Daniel Vorcaro e o caso Banco Master — dez fases da Compliance Zero",
+        "url": "https://jornalgrandebahia.com.br/2026/07/daniel-vorcaro-e-o-caso-banco-master-suspeita-de-fraude-bilionaria-perdas-no-brb-impacto-no-fgc-e-dez-fases-da-compliance-zero/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "nota": "Provisão de R$ 40,6 bi no fim de 2025."
+    },
+    {
+      "rotulo": "Assistência do FGC ao Master meses antes da liquidação",
+      "valor": 4.3,
+      "unidade": "R$ bilhões",
+      "fonte": {
+        "nome": "Agência Pública, mar/2026: Banco Master — a reconstrução completa de como uma fraude capturou a República",
+        "url": "https://apublica.org/2026/03/banco-master-a-reconstrucao-completa-de-como-uma-fraude-capturou-a-republica/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Carteiras compradas pelo BRB (créditos considerados falsos pela PF)",
+      "valor": 12.2,
+      "unidade": "R$ bilhões",
+      "fonte": {
+        "nome": "Wikipédia pt, Escândalo do Banco Master (índice)",
+        "url": "https://pt.wikipedia.org/wiki/Esc%C3%A2ndalo_do_Banco_Master",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Perda estimada do BRB — faixa",
+      "valor": 5,
+      "unidade": "R$ bilhões",
+      "fonte": {
+        "nome": "Wikipédia pt, Escândalo do Banco Master (índice)",
+        "url": "https://pt.wikipedia.org/wiki/Esc%C3%A2ndalo_do_Banco_Master",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "nota": "Entre R$ 5 bi e R$ 9 bi; outra estimativa judicial: >R$ 10 bi; S&P: necessidade de capital de R$ 6–8 bi."
+    },
+    {
+      "rotulo": "Capitalização do BRB aprovada (abr/2026)",
+      "valor": 8.8,
+      "unidade": "R$ bilhões",
+      "fonte": {
+        "nome": "Wikipédia pt, Escândalo do Banco Master (índice)",
+        "url": "https://pt.wikipedia.org/wiki/Esc%C3%A2ndalo_do_Banco_Master",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "nota": "Até R$ 8,8 bi; PL do GDF (20/02/2026) previa venda de imóveis e empréstimo de até R$ 6,6 bi."
+    },
+    {
+      "rotulo": "Fraude ligada a 4 fundos da Reag DTVM (relatório BC ao MPF, jul/2023–jul/2024)",
+      "valor": 11.5,
+      "unidade": "R$ bilhões",
+      "fonte": {
+        "nome": "Wikipédia pt, Operação Carbono Oculto (índice)",
+        "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Carbono_Oculto",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Bloqueio de bens na 2ª fase (14/01/2026)",
+      "valor": 5.7,
+      "unidade": "R$ bilhões",
+      "fonte": {
+        "nome": "Jornal Grande Bahia, jul/2026: Daniel Vorcaro e o caso Banco Master — dez fases da Compliance Zero",
+        "url": "https://jornalgrandebahia.com.br/2026/07/daniel-vorcaro-e-o-caso-banco-master-suspeita-de-fraude-bilionaria-perdas-no-brb-impacto-no-fgc-e-dez-fases-da-compliance-zero/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Aplicações de 18 fundos de previdência no Master (out/2023–dez/2024)",
+      "valor": 1.876,
+      "unidade": "R$ bilhões",
+      "fonte": {
+        "nome": "Wikipédia pt, Escândalo do Banco Master (índice)",
+        "url": "https://pt.wikipedia.org/wiki/Esc%C3%A2ndalo_do_Banco_Master",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "nota": "Rioprevidência citado com R$ 970 mi a R$ 2,6 bi (fontes divergem); Amprev (AP) R$ 400 mi."
+    },
+    {
+      "rotulo": "Rioprevidência — valor apurado na 8ª fase (26/05/2026)",
+      "valor": 3.7,
+      "unidade": "R$ bilhões",
+      "fonte": {
+        "nome": "Jornal Grande Bahia, jul/2026: Daniel Vorcaro e o caso Banco Master — dez fases da Compliance Zero",
+        "url": "https://jornalgrandebahia.com.br/2026/07/daniel-vorcaro-e-o-caso-banco-master-suspeita-de-fraude-bilionaria-perdas-no-brb-impacto-no-fgc-e-dez-fases-da-compliance-zero/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Operações de câmbio com empresa ligada ao PCC/Hezbollah (One World, dez/2018–abr/2021)",
+      "valor": 2.8,
+      "unidade": "R$ bilhões",
+      "fonte": {
+        "nome": "Wikipédia pt, Escândalo do Banco Master (índice)",
+        "url": "https://pt.wikipedia.org/wiki/Esc%C3%A2ndalo_do_Banco_Master",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Contrato entre o Master e o escritório de Viviane Barci de Moraes (O Globo, 09/12/2025)",
+      "valor": 129,
+      "unidade": "R$ milhões",
+      "fonte": {
+        "nome": "Wikipédia pt, Escândalo do Banco Master (índice)",
+        "url": "https://pt.wikipedia.org/wiki/Esc%C3%A2ndalo_do_Banco_Master",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Compra da parte dos irmãos de Toffoli no resort Tayayá por Fabiano Zettel (Estadão, 16/01/2026)",
+      "valor": 6.6,
+      "unidade": "R$ milhões",
+      "fonte": {
+        "nome": "Agência Pública, mar/2026: Banco Master — a reconstrução completa de como uma fraude capturou a República",
+        "url": "https://apublica.org/2026/03/banco-master-a-reconstrucao-completa-de-como-uma-fraude-capturou-a-republica/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Filme 'Dark Horse' — valor pago por Vorcaro (Intercept, 13/05/2026)",
+      "valor": 61,
+      "unidade": "R$ milhões",
+      "fonte": {
+        "nome": "Wikipédia pt, Flávio Bolsonaro (índice)",
+        "url": "https://pt.wikipedia.org/wiki/Fl%C3%A1vio_Bolsonaro",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "nota": "~R$ 61–62 mi pagos; R$ 134 mi acordados; produtora diz que Vorcaro bancou >90% do orçamento."
+    },
+    {
+      "rotulo": "Transferências ao fundo Havengate do advogado de Eduardo Bolsonaro (delação de 'Mineiro')",
+      "valor": 12.3,
+      "unidade": "US$ milhões",
+      "fonte": {
+        "nome": "Wikipédia pt, Eduardo Bolsonaro (índice)",
+        "url": "https://pt.wikipedia.org/wiki/Eduardo_Bolsonaro",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "nota": "7 transferências, ~US$ 12,3 mi."
+    },
+    {
+      "rotulo": "Valores apurados pela PF ligados a Jaques Wagner (9ª fase)",
+      "valor": 3.5,
+      "unidade": "R$ milhões",
+      "fonte": {
+        "nome": "Jornal Grande Bahia, jul/2026: Daniel Vorcaro e o caso Banco Master — dez fases da Compliance Zero",
+        "url": "https://jornalgrandebahia.com.br/2026/07/daniel-vorcaro-e-o-caso-banco-master-suspeita-de-fraude-bilionaria-perdas-no-brb-impacto-no-fgc-e-dez-fases-da-compliance-zero/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "nota": "Mais apartamento em Salvador de ~R$ 2,4 mi; Wagner nega."
+    },
+    {
+      "rotulo": "Recebido por ACM Neto do Master e da Reag (COAF)",
+      "valor": 3.6,
+      "unidade": "R$ milhões",
+      "fonte": {
+        "nome": "Wikipédia pt, Escândalo do Banco Master (índice)",
+        "url": "https://pt.wikipedia.org/wiki/Esc%C3%A2ndalo_do_Banco_Master",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Recebido pela Igreja Batista da Lagoinha de pessoas ligadas a Vorcaro (G1, 14/09/2026)",
+      "valor": 20,
+      "unidade": "R$ milhões",
+      "fonte": {
+        "nome": "Wikipédia pt, Escândalo do Banco Master (índice)",
+        "url": "https://pt.wikipedia.org/wiki/Esc%C3%A2ndalo_do_Banco_Master",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "nota": "Aproximado."
+    },
+    {
+      "rotulo": "Contrato do escritório de Michel Temer com o Master (set/2025)",
+      "valor": 30,
+      "unidade": "R$ milhões",
+      "fonte": {
+        "nome": "Wikipédia pt, Michel Temer (índice)",
+        "url": "https://pt.wikipedia.org/wiki/Michel_Temer",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "nota": "Até R$ 30 mi; Receita apontou R$ 10 mi recebidos em 2025 (CPI, abr/2026). Temer confirma consultoria; não é processo criminal."
+    },
+    {
+      "rotulo": "Pedidos de impeachment contra Moraes no Senado (set/2026)",
+      "valor": 55,
+      "unidade": "pedidos",
+      "fonte": {
+        "nome": "Wikipédia pt, Escândalo do Banco Master (índice)",
+        "url": "https://pt.wikipedia.org/wiki/Esc%C3%A2ndalo_do_Banco_Master",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Fases da Operação Compliance Zero até jul/2026",
+      "valor": 10,
+      "unidade": "fases",
+      "fonte": {
+        "nome": "Jornal Grande Bahia, jul/2026: Daniel Vorcaro e o caso Banco Master — dez fases da Compliance Zero",
+        "url": "https://jornalgrandebahia.com.br/2026/07/daniel-vorcaro-e-o-caso-banco-master-suspeita-de-fraude-bilionaria-perdas-no-brb-impacto-no-fgc-e-dez-fases-da-compliance-zero/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Bloqueio de envolvidos no caso BRB",
+      "valor": 376.4,
+      "unidade": "R$ milhões",
+      "fonte": {
+        "nome": "Wikipédia pt, Escândalo do Banco Master (índice)",
+        "url": "https://pt.wikipedia.org/wiki/Esc%C3%A2ndalo_do_Banco_Master",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "nota": "Aproximado."
+    }
+  ],
+  "partidos": [
+    {
+      "partido": "PT",
+      "citados": null,
+      "denunciados": 0,
+      "condenados_1a_instancia": 0,
+      "condenados_definitivo": 0,
+      "condenacoes_anuladas": null,
+      "investigados_nomeados": [
+        "Jaques Wagner (senador, BA; buscas na 9ª fase, 18/06/2026)"
+      ],
+      "citados_nomeados": [
+        "Lula (reunião com Vorcaro em 04/12/2024 fora da agenda, confirmada pelo Planalto; não investigado)",
+        "Fernando Haddad (citado pela Agência Pública)"
+      ],
+      "fonte": {
+        "nome": "Jornal Grande Bahia, jul/2026: Daniel Vorcaro e o caso Banco Master — dez fases da Compliance Zero",
+        "url": "https://jornalgrandebahia.com.br/2026/07/daniel-vorcaro-e-o-caso-banco-master-suspeita-de-fraude-bilionaria-perdas-no-brb-impacto-no-fgc-e-dez-fases-da-compliance-zero/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "nota": "Zeros indicam 'nenhum localizado nas fontes até out/2026'."
+    },
+    {
+      "partido": "PP",
+      "citados": null,
+      "denunciados": 0,
+      "condenados_1a_instancia": 0,
+      "condenados_definitivo": 0,
+      "condenacoes_anuladas": null,
+      "investigados_nomeados": [
+        "Ciro Nogueira (senador, PI; buscas na 5ª fase, 07/05/2026; autor da 'emenda Master' de 2024)"
+      ],
+      "citados_nomeados": [
+        "Arthur Lira",
+        "Cláudio Cajado"
+      ],
+      "fonte": {
+        "nome": "Jornal Grande Bahia, jul/2026: Daniel Vorcaro e o caso Banco Master — dez fases da Compliance Zero",
+        "url": "https://jornalgrandebahia.com.br/2026/07/daniel-vorcaro-e-o-caso-banco-master-suspeita-de-fraude-bilionaria-perdas-no-brb-impacto-no-fgc-e-dez-fases-da-compliance-zero/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "nota": "Zeros indicam 'nenhum localizado nas fontes até out/2026'."
+    },
+    {
+      "partido": "PL",
+      "citados": null,
+      "denunciados": 0,
+      "condenados_1a_instancia": 0,
+      "condenados_definitivo": 0,
+      "condenacoes_anuladas": null,
+      "investigados_nomeados": [
+        "Flávio Bolsonaro (inquérito Dark Horse no STF, 11/09/2026)",
+        "Eduardo Bolsonaro (inquérito Dark Horse, 23/07/2026)",
+        "Cláudio Castro (ex-governador do RJ; buscas na 8ª fase, 26/05/2026)",
+        "Mario Frias (Operação Make Up, 10/09/2026, emendas)"
+      ],
+      "citados_nomeados": [
+        "Jair Bolsonaro",
+        "Filipe Barros (PL de nov/2024 sobre FGC)",
+        "João Carlos Bacelar"
+      ],
+      "fonte": {
+        "nome": "Wikipédia pt, Flávio Bolsonaro (índice)",
+        "url": "https://pt.wikipedia.org/wiki/Fl%C3%A1vio_Bolsonaro",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "nota": "Zeros indicam 'nenhum localizado nas fontes até out/2026'."
+    },
+    {
+      "partido": "MDB",
+      "citados": null,
+      "denunciados": 0,
+      "condenados_1a_instancia": 0,
+      "condenados_definitivo": 0,
+      "condenacoes_anuladas": null,
+      "citados_nomeados": [
+        "Ibaneis Rocha (governador do DF; fez campanha pela compra do Master pelo BRB; investigação formal não localizada)",
+        "Celina Leão ('alvo de interesse' da PF na colaboração de PH Costa; investigação formal não localizada)"
+      ],
+      "fonte": {
+        "nome": "Wikipédia pt, Escândalo do Banco Master (índice)",
+        "url": "https://pt.wikipedia.org/wiki/Esc%C3%A2ndalo_do_Banco_Master",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "nota": "Zeros indicam 'nenhum localizado nas fontes até out/2026'."
+    },
+    {
+      "partido": "União Brasil",
+      "citados": null,
+      "denunciados": 0,
+      "condenados_1a_instancia": 0,
+      "condenados_definitivo": 0,
+      "condenacoes_anuladas": null,
+      "citados_nomeados": [
+        "ACM Neto (R$ 3,6 mi recebidos do Master e Reag segundo COAF; investigação formal não localizada)",
+        "Davi Alcolumbre",
+        "Antonio Rueda"
+      ],
+      "fonte": {
+        "nome": "Wikipédia pt, Escândalo do Banco Master (índice)",
+        "url": "https://pt.wikipedia.org/wiki/Esc%C3%A2ndalo_do_Banco_Master",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "nota": "Zeros indicam 'nenhum localizado nas fontes até out/2026'."
+    },
+    {
+      "partido": "Republicanos",
+      "citados": null,
+      "denunciados": 0,
+      "condenados_1a_instancia": 0,
+      "condenados_definitivo": 0,
+      "condenacoes_anuladas": null,
+      "citados_nomeados": [
+        "Hugo Motta (citado pela Agência Pública)"
+      ],
+      "fonte": {
+        "nome": "Agência Pública, mar/2026: Banco Master — a reconstrução completa de como uma fraude capturou a República",
+        "url": "https://apublica.org/2026/03/banco-master-a-reconstrucao-completa-de-como-uma-fraude-capturou-a-republica/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "nota": "Zeros indicam 'nenhum localizado nas fontes até out/2026'."
+    }
+  ],
+  "pessoas": [
+    {
+      "nome": "Daniel Vorcaro",
+      "partido_na_epoca": "sem partido (banqueiro)",
+      "cargo": "controlador do Banco Master",
+      "crime": "não detalhado nas notas (fraude bancária, segundo a PF/BC); milícia privada 'A Turma' (3ª fase)",
+      "tribunal": "STF (relatores: Toffoli até 12/02/2026; André Mendonça desde então)",
+      "data_condenacao": null,
+      "pena": null,
+      "status_atual": "Preso em 17/11/2025; solto pelo TRF-1 em 28/11/2025 com tornozeleira; nova prisão em 04/03/2026 (decretada por Mendonça sem aval da PGR); 2ª Turma manteve em 20/03/2026; assinou termo de confidencialidade com PGR/PF em 19/03/2026 para colaboração, que não avançou (voltou à cela comum em 18/05/2026); transferido à Papudinha em jun/2026; em 20/10/2026 seguia preso. Sem denúncia da PGR localizada. Mensagens obtidas pela PF indicam que em 31/08/2025 pediu 'ataque de mídia' contra o diretor do BC Renato Gomes e tentou rastreá-lo em 03/09/2025.",
+      "status_categoria": "investigado",
+      "url": "https://diariodepernambuco.com.br/politica/2026/10/11727100-vorcaro-mandou-sicario-rastrear-e-moer-diretor-do-banco-central.html"
+    },
+    {
+      "nome": "Luiz Antonio Bull",
+      "partido_na_epoca": "sem partido",
+      "cargo": "executivo ligado ao Master",
+      "crime": "não detalhado nas notas",
+      "tribunal": "STF",
+      "data_condenacao": null,
+      "pena": null,
+      "status_atual": "Preso na 1ª fase (18/11/2025).",
+      "status_categoria": "investigado",
+      "url": "https://jornalgrandebahia.com.br/2026/07/daniel-vorcaro-e-o-caso-banco-master-suspeita-de-fraude-bilionaria-perdas-no-brb-impacto-no-fgc-e-dez-fases-da-compliance-zero/"
+    },
+    {
+      "nome": "Fabiano Zettel",
+      "partido_na_epoca": "sem partido (empresário)",
+      "cargo": "empresário ligado a Vorcaro",
+      "crime": "não detalhado nas notas",
+      "tribunal": "STF",
+      "data_condenacao": null,
+      "pena": null,
+      "status_atual": "Preso na 2ª fase (14/01/2026) e novamente na 3ª (04/03/2026); comprou a parte dos irmãos de Toffoli no resort Tayayá por R$ 6,6 mi (Estadão, 16/01/2026).",
+      "status_categoria": "investigado",
+      "url": "https://apublica.org/2026/03/banco-master-a-reconstrucao-completa-de-como-uma-fraude-capturou-a-republica/"
+    },
+    {
+      "nome": "Paulo Henrique Costa",
+      "partido_na_epoca": "sem partido informado (indicado pelo GDF/MDB)",
+      "cargo": "presidente do BRB",
+      "crime": "não detalhado nas notas (compra de carteiras de R$ 12,2 bi)",
+      "tribunal": "STF",
+      "data_condenacao": null,
+      "pena": null,
+      "status_atual": "Afastado em nov/2025; preso em 16/04/2026 (4ª fase); em colaboração, citou Celina Leão como 'alvo de interesse' da PF.",
+      "status_categoria": "investigado",
+      "url": "https://jornalgrandebahia.com.br/2026/07/daniel-vorcaro-e-o-caso-banco-master-suspeita-de-fraude-bilionaria-perdas-no-brb-impacto-no-fgc-e-dez-fases-da-compliance-zero/"
+    },
+    {
+      "nome": "Henrique Moura Vorcaro e Felipe Cançado Vorcaro",
+      "partido_na_epoca": "sem partido",
+      "cargo": "pai e parente de Daniel Vorcaro",
+      "crime": "não detalhado nas notas",
+      "tribunal": "STF",
+      "data_condenacao": null,
+      "pena": null,
+      "status_atual": "Felipe: prisão temporária na 5ª fase (07/05/2026); Henrique: preventiva na 6ª fase (14/05/2026).",
+      "status_categoria": "investigado",
+      "url": "https://jornalgrandebahia.com.br/2026/07/daniel-vorcaro-e-o-caso-banco-master-suspeita-de-fraude-bilionaria-perdas-no-brb-impacto-no-fgc-e-dez-fases-da-compliance-zero/"
+    },
+    {
+      "nome": "Augusto Lima",
+      "partido_na_epoca": "sem partido",
+      "cargo": "executivo do Banco Master",
+      "crime": "não detalhado nas notas",
+      "tribunal": "STF",
+      "data_condenacao": null,
+      "pena": null,
+      "status_atual": "Alvo da 9ª fase (18/06/2026); também citado no relatório da CPMI do INSS.",
+      "status_categoria": "investigado",
+      "url": "https://jornalgrandebahia.com.br/2026/07/daniel-vorcaro-e-o-caso-banco-master-suspeita-de-fraude-bilionaria-perdas-no-brb-impacto-no-fgc-e-dez-fases-da-compliance-zero/"
+    },
+    {
+      "nome": "Ciro Nogueira",
+      "partido_na_epoca": "PP-PI",
+      "cargo": "senador; ex-ministro da Casa Civil (governo Bolsonaro)",
+      "crime": "não detalhado nas notas",
+      "tribunal": "STF",
+      "data_condenacao": null,
+      "pena": null,
+      "status_atual": "Alvo de buscas na 5ª fase (07/05/2026). Autor da PEC de ago/2024 ('emenda Master') para elevar a cobertura do FGC a R$ 1 mi, rejeitada na CCJ. Senadores pediram a suspeição de Nunes Marques no caso.",
+      "status_categoria": "investigado",
+      "url": "https://jornalgrandebahia.com.br/2026/07/daniel-vorcaro-e-o-caso-banco-master-suspeita-de-fraude-bilionaria-perdas-no-brb-impacto-no-fgc-e-dez-fases-da-compliance-zero/"
+    },
+    {
+      "nome": "Jaques Wagner",
+      "partido_na_epoca": "PT-BA",
+      "cargo": "senador, líder do governo",
+      "crime": "não detalhado nas notas (PF apura R$ 3,5 mi e apartamento em Salvador de ~R$ 2,4 mi)",
+      "tribunal": "STF",
+      "data_condenacao": null,
+      "pena": null,
+      "status_atual": "Alvo da 9ª fase (18/06/2026); nega irregularidades.",
+      "status_categoria": "investigado",
+      "url": "https://jornalgrandebahia.com.br/2026/07/daniel-vorcaro-e-o-caso-banco-master-suspeita-de-fraude-bilionaria-perdas-no-brb-impacto-no-fgc-e-dez-fases-da-compliance-zero/"
+    },
+    {
+      "nome": "Cláudio Castro",
+      "partido_na_epoca": "PL",
+      "cargo": "ex-governador do RJ",
+      "crime": "não detalhado nas notas (Rioprevidência, ~R$ 3,7 bi)",
+      "tribunal": "STF",
+      "data_condenacao": null,
+      "pena": null,
+      "status_atual": "Alvo de buscas na 8ª fase (26/05/2026).",
+      "status_categoria": "investigado",
+      "url": "https://jornalgrandebahia.com.br/2026/07/daniel-vorcaro-e-o-caso-banco-master-suspeita-de-fraude-bilionaria-perdas-no-brb-impacto-no-fgc-e-dez-fases-da-compliance-zero/"
+    },
+    {
+      "nome": "Flávio Bolsonaro",
+      "partido_na_epoca": "PL-RJ",
+      "cargo": "senador; candidato à Presidência em 2026",
+      "crime": "inquérito sobre o financiamento do filme 'Dark Horse' por Vorcaro (crimes não detalhados nas notas)",
+      "tribunal": "STF (relator André Mendonça; defesa tentou 4 vezes transferir inquéritos de Dino para Mendonça)",
+      "data_condenacao": null,
+      "pena": null,
+      "status_atual": "Admitiu (13/05/2026) ter pedido milhões a Vorcaro para o filme, negando vantagens; formalmente investigado no STF desde 11/09/2026. O Globo (jul/2026) apontou nota de R$ 500 mil de seu escritório a empresa ligada ao caso; Piauí revelou voo em jato com cota de Vorcaro (19/01/2025). Sem denúncia.",
+      "status_categoria": "investigado",
+      "url": "https://pt.wikipedia.org/wiki/Fl%C3%A1vio_Bolsonaro",
+      "caso": "Dark Horse"
+    },
+    {
+      "nome": "Eduardo Bolsonaro",
+      "partido_na_epoca": "PL-SP",
+      "cargo": "ex-deputado federal (mandato perdido em 18/12/2025); nos EUA",
+      "crime": "inquérito Dark Horse: aparece como 'financiador' em aditivo; PF/PGR apuram se Vorcaro financiou sua permanência nos EUA",
+      "tribunal": "STF (André Mendonça)",
+      "data_condenacao": null,
+      "pena": null,
+      "status_atual": "Inquérito autorizado em 23/07/2026 (pedido da PF, parecer favorável da PGR); delação de Antonio Carlos Freixo Jr. ('Mineiro', homologada em 09/09/2026) fala em 7 transferências de ~US$ 12,3 mi ao fundo Havengate de seu advogado. Sem denúncia neste caso. Condenações por coação e difamação: ver trama-golpista-8-de-janeiro.",
+      "status_categoria": "investigado",
+      "url": "https://pt.wikipedia.org/wiki/Eduardo_Bolsonaro",
+      "caso": "Dark Horse"
+    },
+    {
+      "nome": "Mario Frias",
+      "partido_na_epoca": "PL-SP",
+      "cargo": "deputado federal",
+      "crime": "suposto desvio de emendas (Operação Make Up)",
+      "tribunal": "STF",
+      "data_condenacao": null,
+      "pena": null,
+      "status_atual": "Alvo da Operação Make Up em 10/09/2026, com Karina Gama; PF apreendeu 7 armas.",
+      "status_categoria": "investigado",
+      "url": "https://pt.wikipedia.org/wiki/Esc%C3%A2ndalo_do_Banco_Master",
+      "caso": "Make Up (emendas)"
+    },
+    {
+      "nome": "Ibaneis Rocha",
+      "partido_na_epoca": "MDB",
+      "cargo": "governador do DF",
+      "crime": "—",
+      "tribunal": "—",
+      "data_condenacao": null,
+      "pena": null,
+      "status_atual": "Fez campanha pela compra do Master pelo BRB (abr/2025); CLDF aprovou a compra por 14 a 7 em 19/08/2025; BC vetou. Investigação formal não localizada nas notas.",
+      "status_categoria": "nao-investigado",
+      "url": "https://pt.wikipedia.org/wiki/Esc%C3%A2ndalo_do_Banco_Master",
+      "nao_verificado": true
+    },
+    {
+      "nome": "Celina Leão",
+      "partido_na_epoca": "não informado nas notas (GDF)",
+      "cargo": "vice-governadora do DF",
+      "crime": "—",
+      "tribunal": "—",
+      "data_condenacao": null,
+      "pena": null,
+      "status_atual": "Citada como 'alvo de interesse' da PF na colaboração de Paulo Henrique Costa; investigação formal não localizada nas notas.",
+      "status_categoria": "nao-investigado",
+      "url": "https://pt.wikipedia.org/wiki/Esc%C3%A2ndalo_do_Banco_Master",
+      "nao_verificado": true
+    },
+    {
+      "nome": "ACM Neto",
+      "partido_na_epoca": "União Brasil",
+      "cargo": "ex-prefeito de Salvador",
+      "crime": "—",
+      "tribunal": "—",
+      "data_condenacao": null,
+      "pena": null,
+      "status_atual": "COAF registrou R$ 3,6 mi recebidos do Master e da Reag; investigação formal não localizada nas notas.",
+      "status_categoria": "nao-investigado",
+      "url": "https://pt.wikipedia.org/wiki/Esc%C3%A2ndalo_do_Banco_Master",
+      "nao_verificado": true
+    },
+    {
+      "nome": "Luiz Inácio Lula da Silva",
+      "partido_na_epoca": "PT",
+      "cargo": "presidente da República",
+      "crime": "—",
+      "tribunal": "—",
+      "data_condenacao": null,
+      "pena": null,
+      "status_atual": "Vorcaro relatou reunião com Lula em 04/12/2024, fora da agenda, confirmada pelo Planalto, com Gabriel Galípolo (então diretor do BC) e Guido Mantega presentes. Não investigado.",
+      "status_categoria": "nao-investigado",
+      "url": "https://apublica.org/2026/03/banco-master-a-reconstrucao-completa-de-como-uma-fraude-capturou-a-republica/"
+    },
+    {
+      "nome": "Paulo Sérgio Neves de Souza e Belline Santana",
+      "partido_na_epoca": "sem partido (servidores do Banco Central)",
+      "cargo": "servidores do BC",
+      "crime": "recebimento de 'mesada' de Vorcaro, segundo a PF",
+      "tribunal": "STF",
+      "data_condenacao": null,
+      "pena": null,
+      "status_atual": "Investigados pela PF; investigação interna do BC encerrada em 09/03/2026.",
+      "status_categoria": "investigado",
+      "url": "https://apublica.org/2026/03/banco-master-a-reconstrucao-completa-de-como-uma-fraude-capturou-a-republica/"
+    },
+    {
+      "nome": "Dias Toffoli",
+      "partido_na_epoca": "— (ministro do STF)",
+      "cargo": "ministro do STF, relator do caso até 12/02/2026",
+      "crime": "—",
+      "tribunal": "—",
+      "data_condenacao": null,
+      "pena": null,
+      "status_atual": "Sorteado relator em 28/11/2025; decretou sigilo (03/12), marcou acareação (24/12, criticada pelo PGR Gonet), lacrou bens de R$ 5,7 bi (14/01/2026). Após a revelação de que Zettel comprou a parte de seus irmãos no resort Tayayá (R$ 6,6 mi), deixou a relatoria em 12/02/2026; PF pediu formalmente sua suspeição (relatório de 200 páginas); declarou-se suspeito em ação sobre a CPI (11/03/2026). Sem inquérito criminal registrado nas notas.",
+      "status_categoria": "nao-investigado",
+      "url": "https://apublica.org/2026/03/banco-master-a-reconstrucao-completa-de-como-uma-fraude-capturou-a-republica/"
+    },
+    {
+      "nome": "Alexandre de Moraes",
+      "partido_na_epoca": "— (ministro do STF)",
+      "cargo": "ministro do STF",
+      "crime": "—",
+      "tribunal": "—",
+      "data_condenacao": null,
+      "pena": null,
+      "status_atual": "O Globo (09/12/2025) revelou contrato de R$ 129 mi entre o Master e o escritório de sua esposa, Viviane Barci de Moraes; em 25/04/2024 esteve com o PGR Gonet em degustação de whisky em Londres bancada por Vorcaro; teria procurado Galípolo pela autorização do negócio (nega ter recebido mensagens). Em 01/09/2026 Mendonça levantou sigilo de relatório da PF sobre contatos de Vorcaro com autoridades, incluindo Moraes. Set/2026: 55 pedidos de impeachment no Senado; editoriais de Estadão, Folha e Globo pediram sua saída (03/09); protestos em 9 capitais (07–08/09); 13 ex-ministros do STF e 17 presidentes de OAB pediram apuração. Sem inquérito criminal registrado nas notas.",
+      "status_categoria": "nao-investigado",
+      "url": "https://pt.wikipedia.org/wiki/Esc%C3%A2ndalo_do_Banco_Master"
+    },
+    {
+      "nome": "André Mendonça",
+      "partido_na_epoca": "— (ministro do STF)",
+      "cargo": "ministro do STF, relator do caso desde 12/02/2026",
+      "crime": "—",
+      "tribunal": "—",
+      "data_condenacao": null,
+      "pena": null,
+      "status_atual": "Admitiu (02/09/2026) encontro com Vorcaro em mar/2025, antes de assumir a relatoria; Flávio Dino determinou apuração (15/09/2026).",
+      "status_categoria": "nao-investigado",
+      "url": "https://pt.wikipedia.org/wiki/Esc%C3%A2ndalo_do_Banco_Master"
+    },
+    {
+      "nome": "Kassio Nunes Marques",
+      "partido_na_epoca": "— (ministro do STF)",
+      "cargo": "ministro do STF",
+      "crime": "—",
+      "tribunal": "—",
+      "data_condenacao": null,
+      "pena": null,
+      "status_atual": "Consta na agenda de Vorcaro; senadores Girão (Novo) e Alessandro Vieira (MDB) pediram sua suspeição em caso ligado a Ciro Nogueira (07/05/2026).",
+      "status_categoria": "nao-investigado",
+      "url": "https://pt.wikipedia.org/wiki/Esc%C3%A2ndalo_do_Banco_Master"
+    },
+    {
+      "nome": "Michel Temer",
+      "partido_na_epoca": "MDB",
+      "cargo": "ex-presidente da República",
+      "crime": "—",
+      "tribunal": "—",
+      "data_condenacao": null,
+      "pena": null,
+      "status_atual": "Escritório contratado pelo Master (até R$ 30 mi, set/2025); Receita apontou R$ 10 mi recebidos em 2025 (CPI, abr/2026). Temer confirma a consultoria; não há processo criminal registrado nas notas.",
+      "status_categoria": "nao-investigado",
+      "url": "https://pt.wikipedia.org/wiki/Michel_Temer"
+    }
+  ],
+  "linha_do_tempo": [
+    {
+      "data": "2017",
+      "evento": "BC (Ilan Goldfajn) nega autorização ao banco; Vorcaro assume o Banco Máxima em 2018; autorização em 2019 sob Campos Neto.",
+      "url": "https://apublica.org/2026/03/banco-master-a-reconstrucao-completa-de-como-uma-fraude-capturou-a-republica/"
+    },
+    {
+      "data": "2024-08",
+      "evento": "'Emenda Master': PEC de Ciro Nogueira (PP-PI) para elevar a cobertura do FGC a R$ 1 mi, rejeitada na CCJ; PL de Filipe Barros (PL-PR) em nov/2024 não avança.",
+      "url": "https://apublica.org/2026/03/banco-master-a-reconstrucao-completa-de-como-uma-fraude-capturou-a-republica/"
+    },
+    {
+      "data": "2024-07",
+      "evento": "BRB começa a comprar carteiras de crédito do Master que chegariam a R$ 12 bi (PF).",
+      "url": "https://apublica.org/2026/03/banco-master-a-reconstrucao-completa-de-como-uma-fraude-capturou-a-republica/"
+    },
+    {
+      "data": "2024-12-04",
+      "evento": "Reunião de Vorcaro com Lula fora da agenda (confirmada pelo Planalto), com Galípolo e Mantega.",
+      "url": "https://apublica.org/2026/03/banco-master-a-reconstrucao-completa-de-como-uma-fraude-capturou-a-republica/"
+    },
+    {
+      "data": "2025-08-19",
+      "evento": "CLDF aprova a compra do Master pelo BRB por 14 a 7; BC veta a operação em 03/09/2025 (uma fonte situa o veto em set/2024 — divergência).",
+      "url": "https://pt.wikipedia.org/wiki/Esc%C3%A2ndalo_do_Banco_Master"
+    },
+    {
+      "data": "2025-11-17",
+      "evento": "Fictor anuncia compra do Master; às 22h Vorcaro é preso em Guarulhos (1ª fase da Compliance Zero, com Luiz Antonio Bull; PH Costa afastado).",
+      "url": "https://apublica.org/2026/03/banco-master-a-reconstrucao-completa-de-como-uma-fraude-capturou-a-republica/"
+    },
+    {
+      "data": "2025-11-18",
+      "evento": "BC decreta a liquidação extrajudicial do Banco Master; custo ao FGC estimado em ~R$ 41 bi.",
+      "url": "https://pt.wikipedia.org/wiki/Esc%C3%A2ndalo_do_Banco_Master"
+    },
+    {
+      "data": "2025-11-28",
+      "evento": "TRF-1 solta Vorcaro com tornozeleira; Toffoli é sorteado relator no STF.",
+      "url": "https://apublica.org/2026/03/banco-master-a-reconstrucao-completa-de-como-uma-fraude-capturou-a-republica/"
+    },
+    {
+      "data": "2025-12-09",
+      "evento": "O Globo revela contrato de R$ 129 mi entre o Master e o escritório de Viviane Barci de Moraes.",
+      "url": "https://pt.wikipedia.org/wiki/Esc%C3%A2ndalo_do_Banco_Master"
+    },
+    {
+      "data": "2026-01-14",
+      "evento": "2ª fase: 42 mandados, bloqueio de >R$ 5,7 bi, prisão de Fabiano Zettel; liquidação da Reag (15/01), Will Bank (21/01) e Banco Pleno (18/02).",
+      "url": "https://jornalgrandebahia.com.br/2026/07/daniel-vorcaro-e-o-caso-banco-master-suspeita-de-fraude-bilionaria-perdas-no-brb-impacto-no-fgc-e-dez-fases-da-compliance-zero/"
+    },
+    {
+      "data": "2026-02-12",
+      "evento": "Toffoli deixa a relatoria após revelação sobre o resort Tayayá; André Mendonça assume; PF pede formalmente a suspeição de Toffoli.",
+      "url": "https://apublica.org/2026/03/banco-master-a-reconstrucao-completa-de-como-uma-fraude-capturou-a-republica/"
+    },
+    {
+      "data": "2026-03-04",
+      "evento": "3ª fase: nova prisão de Vorcaro, Zettel e Marilson Roseno; milícia privada 'A Turma'; Luiz Phillipi Mourão ('Sicário') morre sob custódia em 06/03.",
+      "url": "https://jornalgrandebahia.com.br/2026/07/daniel-vorcaro-e-o-caso-banco-master-suspeita-de-fraude-bilionaria-perdas-no-brb-impacto-no-fgc-e-dez-fases-da-compliance-zero/"
+    },
+    {
+      "data": "2026-03-19",
+      "evento": "Vorcaro assina termo de confidencialidade com PGR/PF para colaboração; 2ª Turma mantém a preventiva em 20/03; Gilmar anula quebra de sigilo do fundo Arleen/Reag (19/03).",
+      "url": "https://pt.wikipedia.org/wiki/Esc%C3%A2ndalo_do_Banco_Master"
+    },
+    {
+      "data": "2026-04-16",
+      "evento": "4ª fase: prisão de Paulo Henrique Costa (BRB) e do advogado Daniel Lopes Monteiro; carteiras de R$ 12,2 bi; imóvel de ~R$ 146 mi. Capitalização do BRB de até R$ 8,8 bi aprovada em abr/2026.",
+      "url": "https://jornalgrandebahia.com.br/2026/07/daniel-vorcaro-e-o-caso-banco-master-suspeita-de-fraude-bilionaria-perdas-no-brb-impacto-no-fgc-e-dez-fases-da-compliance-zero/"
+    },
+    {
+      "data": "2026-05-07",
+      "evento": "5ª fase: buscas contra o senador Ciro Nogueira (PP-PI); prisão temporária de Felipe Cançado Vorcaro.",
+      "url": "https://jornalgrandebahia.com.br/2026/07/daniel-vorcaro-e-o-caso-banco-master-suspeita-de-fraude-bilionaria-perdas-no-brb-impacto-no-fgc-e-dez-fases-da-compliance-zero/"
+    },
+    {
+      "data": "2026-05-13",
+      "evento": "Intercept revela financiamento do filme 'Dark Horse' por Vorcaro (~R$ 61–62 mi pagos; R$ 134 mi acordados) a pedido de Flávio Bolsonaro, que admite ter pedido os recursos.",
+      "url": "https://pt.wikipedia.org/wiki/Fl%C3%A1vio_Bolsonaro"
+    },
+    {
+      "data": "2026-05-14",
+      "evento": "6ª fase: 7 prisões preventivas, incluindo o pai de Vorcaro e um agente da PF; 7ª fase (19/05): perito federal afastado; Vorcaro volta à cela comum (18/05).",
+      "url": "https://jornalgrandebahia.com.br/2026/07/daniel-vorcaro-e-o-caso-banco-master-suspeita-de-fraude-bilionaria-perdas-no-brb-impacto-no-fgc-e-dez-fases-da-compliance-zero/"
+    },
+    {
+      "data": "2026-05-26",
+      "evento": "8ª fase: Rioprevidência (~R$ 3,7 bi); buscas contra o ex-governador Cláudio Castro (PL).",
+      "url": "https://jornalgrandebahia.com.br/2026/07/daniel-vorcaro-e-o-caso-banco-master-suspeita-de-fraude-bilionaria-perdas-no-brb-impacto-no-fgc-e-dez-fases-da-compliance-zero/"
+    },
+    {
+      "data": "2026-06-18",
+      "evento": "9ª fase: buscas contra o senador Jaques Wagner (PT-BA) e Augusto Lima; Wagner nega.",
+      "url": "https://jornalgrandebahia.com.br/2026/07/daniel-vorcaro-e-o-caso-banco-master-suspeita-de-fraude-bilionaria-perdas-no-brb-impacto-no-fgc-e-dez-fases-da-compliance-zero/"
+    },
+    {
+      "data": "2026-07-09",
+      "evento": "10ª fase: publicitário Thiago Miranda; campanha contra o BC com influenciadores pagos até R$ 2 mi.",
+      "url": "https://jornalgrandebahia.com.br/2026/07/daniel-vorcaro-e-o-caso-banco-master-suspeita-de-fraude-bilionaria-perdas-no-brb-impacto-no-fgc-e-dez-fases-da-compliance-zero/"
+    },
+    {
+      "data": "2026-07-23",
+      "evento": "Mendonça autoriza inquérito sobre o 'Dark Horse' (pedido da PF, parecer favorável da PGR).",
+      "url": "https://pt.wikipedia.org/wiki/Eduardo_Bolsonaro"
+    },
+    {
+      "data": "2026-09-01",
+      "evento": "Mendonça levanta sigilo de relatório da PF sobre contatos de Vorcaro com autoridades, incluindo Moraes; em 02/09 admite encontro próprio com Vorcaro em mar/2025; editoriais (03/09) e protestos (07–08/09) pedem a saída de Moraes.",
+      "url": "https://pt.wikipedia.org/wiki/Esc%C3%A2ndalo_do_Banco_Master"
+    },
+    {
+      "data": "2026-09-09",
+      "evento": "Mendonça homologa a delação de Antonio Carlos Freixo Jr. ('Mineiro'); Flávio Bolsonaro passa a ser formalmente investigado no STF em 11/09/2026; Operação Make Up contra Mario Frias (10/09).",
+      "url": "https://pt.wikipedia.org/wiki/Fl%C3%A1vio_Bolsonaro"
+    },
+    {
+      "data": "2026-09-15",
+      "evento": "Flávio Dino determina apuração sobre o encontro de Mendonça com Vorcaro.",
+      "url": "https://pt.wikipedia.org/wiki/Esc%C3%A2ndalo_do_Banco_Master"
+    },
+    {
+      "data": "2026-09-25",
+      "evento": "Fachin manda a PGR analisar pedidos pendentes nas investigações do Master e do INSS.",
+      "url": "https://pt.wikipedia.org/wiki/Esc%C3%A2ndalo_do_Banco_Master"
+    },
+    {
+      "data": "2026-10-20",
+      "evento": "PF obtém mensagens em que Vorcaro pede 'ataque de mídia' contra o diretor do BC Renato Gomes (31/08/2025) e tenta rastreá-lo (03/09/2025); Vorcaro segue preso.",
+      "url": "https://diariodepernambuco.com.br/politica/2026/10/11727100-vorcaro-mandou-sicario-rastrear-e-moer-diretor-do-banco-central.html"
+    }
+  ],
+  "o_que_dizem_os_dois_lados": {
+    "acusacao": "PF e BC descrevem um banco que vendia CDBs com remuneração incompatível, apresentados como cobertos pelo FGC, e repassou ao BRB R$ 12,2 bi em carteiras consideradas falsas, com fraude ligada a fundos da Reag (~R$ 11,5 bi) e câmbio para empresa ligada ao PCC; a Agência Pública fala em 'fraude que capturou a República', com citações a políticos de PT, PP, PL, MDB, União e Republicanos, a ministros do STF e ao Banco Central (servidores com 'mesada'; 18 alertas ignorados sob Campos Neto). O relatório do relator da CPMI do INSS liga o Master a consignados irregulares a aposentados.",
+    "defesa": "Vorcaro buscou colaborar (termo de confidencialidade em 19/03/2026) e sua defesa obteve soltura no TRF-1 em nov/2025; Jaques Wagner e Flávio Bolsonaro negam vantagens indevidas (Flávio diz ter pedido o financiamento do filme sem contrapartida); Moraes nega ter recebido mensagens de Vorcaro; Temer confirma consultoria lícita; o Planalto confirma a reunião de Lula com Vorcaro, sem investigação. Até out/2026 não há denúncia da PGR contra ninguém no caso, e decisões do próprio STF (Gilmar) anularam quebras de sigilo."
+  },
+  "status_atual_md": "**Fase de inquérito (10 fases até jul/2026), sem denúncia da PGR localizada e com a delação de Vorcaro não concluída.** Vorcaro está preso desde 04/03/2026. É o caso de 2026 com maior transversalidade partidária: PT (Wagner), PP (Ciro Nogueira), PL (Flávio, Eduardo, Castro, Frias), MDB (governo do DF via BRB), União (ACM Neto via COAF), além de quatro ministros do STF questionados (Toffoli, Moraes, Mendonça, Nunes Marques). A cobrança de Fachin à PGR (25/09/2026) sugere acúmulo de pedidos sem decisão. A data do veto do BC à compra pelo BRB diverge entre fontes (set/2024 vs. 03/09/2025; a maioria aponta 2025).",
+  "lacunas": [
+    "Não encontrada CPI do Master instalada (requerimento na Câmara em 02/02/2026; MS de senadores em 25/03/2026) nem denúncia do MPF.",
+    "Não confirmado se há investigação formal contra Ibaneis Rocha ou Celina Leão.",
+    "Situação exata da delação de Vorcaro em out/2026 (encerrada ou retomada) não clara.",
+    "Valor final do custo ao FGC não verificado em fonte oficial do BC/FGC.",
+    "Divergência de datas sobre o veto do BC à compra pelo BRB (set/2024 vs. set/2025).",
+    "Crimes imputados a cada investigado não detalhados nas fontes (inquérito sigiloso)."
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/05_escandalos_recentes_inss_master_bolsonaro.md",
+  "fontes": [
+    {
+      "nome": "Wikipédia pt, Escândalo do Banco Master (índice)",
+      "url": "https://pt.wikipedia.org/wiki/Esc%C3%A2ndalo_do_Banco_Master",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Agência Pública, mar/2026: Banco Master — a reconstrução completa de como uma fraude capturou a República",
+      "url": "https://apublica.org/2026/03/banco-master-a-reconstrucao-completa-de-como-uma-fraude-capturou-a-republica/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Jornal Grande Bahia, jul/2026: Daniel Vorcaro e o caso Banco Master — dez fases da Compliance Zero",
+      "url": "https://jornalgrandebahia.com.br/2026/07/daniel-vorcaro-e-o-caso-banco-master-suspeita-de-fraude-bilionaria-perdas-no-brb-impacto-no-fgc-e-dez-fases-da-compliance-zero/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Wikipédia pt, Operação Carbono Oculto (índice)",
+      "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Carbono_Oculto",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Wikipédia pt, Flávio Bolsonaro (índice)",
+      "url": "https://pt.wikipedia.org/wiki/Fl%C3%A1vio_Bolsonaro",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Wikipédia pt, Eduardo Bolsonaro (índice)",
+      "url": "https://pt.wikipedia.org/wiki/Eduardo_Bolsonaro",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Wikipédia pt, Michel Temer (índice)",
+      "url": "https://pt.wikipedia.org/wiki/Michel_Temer",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Diário de Pernambuco, out/2026: Vorcaro mandou 'sicário' rastrear diretor do Banco Central",
+      "url": "https://diariodepernambuco.com.br/politica/2026/10/11727100-vorcaro-mandou-sicario-rastrear-e-moer-diretor-do-banco-central.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "atualizado_em": "2026-10-21",
+  "convencoes": [
+    "citado: nome aparece em delação, planilha, relatório de CPI ou reportagem, sem ato formal de investigação.",
+    "investigado: alvo de inquérito, busca, prisão temporária/preventiva ou indiciamento pela PF (indiciamento não é denúncia).",
+    "denunciado: PGR/MPF ofereceu denúncia; réu: a denúncia foi recebida pelo tribunal.",
+    "condenado-1a / condenado-2a: decisão de mérito ainda sujeita a recurso. Para condenações pelo STF em instância única sem trânsito em julgado confirmado nas notas, usa-se condenado-1a com explicação em status_atual.",
+    "condenado-definitivo: trânsito em julgado confirmado nas notas; cumprindo-pena / pena-cumprida quando as notas informam a execução.",
+    "anulada: condenação ou provas anuladas por nulidade (competência, parcialidade, prova ilícita), sem exame de mérito; absolvido: decisão de mérito favorável; arquivado: inquérito/denúncia encerrada sem mérito; prescrito: punibilidade extinta pelo tempo.",
+    "Pedido de indiciamento por CPI/CPMI não é indiciamento policial nem denúncia: é recomendação ao Ministério Público."
+  ]
+}

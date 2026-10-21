@@ -1,0 +1,67 @@
+{
+  "id": "pobreza-ibge",
+  "titulo": "Pobreza segundo o IBGE (linha de US$ 6,85 PPC/dia)",
+  "descricao_simples": "Parcela da população com renda abaixo de US$ 6,85 por dia (R$ 694/mês em 2024), segundo a Síntese de Indicadores Sociais do IBGE.",
+  "unidade": "% da população",
+  "tipo_grafico": "linha",
+  "frequencia": "anual",
+  "fonte": {
+    "nome": "IBGE, Síntese de Indicadores Sociais 2025 (dados de 2024), via MDS/Agência Brasil",
+    "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/economia/audio/2025-12/ibge-aponta-nova-reducao-de-pessoas-em-condicoes-de-extrema-pobreza",
+    "acesso_em": "2026-10-21",
+    "tier": "oficial"
+  },
+  "pontos": [
+    {
+      "periodo": "2021",
+      "valor": 36.8,
+      "observacao": "pico da série"
+    },
+    {
+      "periodo": "2023",
+      "valor": 27.3,
+      "pessoas_milhoes": 57.6
+    },
+    {
+      "periodo": "2024",
+      "valor": 23.1,
+      "pessoas_milhoes": 48.9,
+      "observacao": "menor nível desde 2012"
+    }
+  ],
+  "faixas_referencia": [
+    {
+      "rotulo": "Pobreza em 2024 sem programas sociais (simulação IBGE)",
+      "valor": 28.7
+    },
+    {
+      "rotulo": "Nordeste 2023",
+      "valor": 47.2
+    },
+    {
+      "rotulo": "Nordeste 2024",
+      "valor": 39.4
+    },
+    {
+      "rotulo": "Sul 2024",
+      "valor": 11.2
+    },
+    {
+      "rotulo": "Crianças 0–14 anos, 2024",
+      "valor": 39.7
+    }
+  ],
+  "notas_metodologicas": [
+    "Linha: US$ 6,85/dia = R$ 694/mês. Valores via snippet do MDS e via Fundação Perseu Abramo (ligada ao PT; números atribuídos ao IBGE/SIS 2025) — conferir no PDF da SIS.",
+    "O Banco Mundial (PIP) mostra 18,9% em 2024 para a mesma linha nominal porque usa conversões e agregados de renda diferentes; ver pobreza-banco-mundial."
+  ],
+  "lacunas": [
+    "Série anual completa 2012–2024 do IBGE não acessada (faltam 2012–2020 e 2022)."
+  ],
+  "ultimo_periodo": "2024",
+  "temas": [
+    "pobreza-programas-sociais"
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/03_emprego_renda_pobreza_social.md",
+  "atualizado_em": "2026-10-21"
+}

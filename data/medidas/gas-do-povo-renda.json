@@ -1,0 +1,116 @@
+{
+  "id": "gas-do-povo-renda",
+  "nome": "Gás do Povo: recarga gratuita de botijão para famílias de baixa renda (substitui o Auxílio Gás, mar/2026)",
+  "tipo": "beneficio",
+  "governo": "lula-3",
+  "lado": "governo-lula-pt",
+  "norma": {
+    "nome": "Programa Gás do Povo (substitui o Auxílio Gás em março/2026; número da lei não consta das notas); orçamento 'Gás para Todos' de R$ 4,7 bi na LOA 2026",
+    "data": null,
+    "url": "https://bpmoney.com.br/?p=408614",
+    "vigencia": "Desde mar/2026"
+  },
+  "status": "em-vigor",
+  "o_que_faz_simples": [
+    "Em vez de dinheiro (Auxílio Gás), a família recebe recargas gratuitas do botijão de 13 kg em revendas credenciadas: famílias de 2-3 pessoas têm direito a 4 recargas por ano; de 4 ou mais pessoas, 6 recargas por ano.",
+    "Elegibilidade: renda per capita até meio salário mínimo (R$ 810,50 em 2026) e Cadastro Único atualizado, com prioridade a famílias do Bolsa Família.",
+    "Alcance: ~4,5 milhões de famílias em fev/2026, meta de 15 milhões até o fim de 2026; mais de 15 milhões de famílias em jul/2026 (~50 milhões de pessoas, segundo o programa de Lula)."
+  ],
+  "quem_ganha": {
+    "descricao": "Mais de 15 milhões de famílias (~50 milhões de pessoas) com renda per capita até ½ SM, prioritariamente do Bolsa Família — décimos inferiores da renda per capita.",
+    "pessoas": 50000000,
+    "faixa_renda": "Renda familiar per capita até ½ salário mínimo (R$ 810,50)",
+    "fonte": {
+      "nome": "BP Money — Gás do Povo: regras e alcance (01/07/2026)",
+      "url": "https://bpmoney.com.br/?p=408614",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  },
+  "quem_paga": {
+    "descricao": "União: R$ 4,7 bi previstos na LOA 2026 para 'Gás para Todos'.",
+    "pessoas": null,
+    "faixa_renda": "Não se aplica (Tesouro)",
+    "fonte": {
+      "nome": "CNN Brasil — Bolsa Família terá orçamento de R$ 158 bilhões em 2026 (LOA)",
+      "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/bolsa-familia-tera-orcamento-de-r-158-bilhoes-em-2026/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  },
+  "custo_ou_arrecadacao": {
+    "valor": 4.7,
+    "unidade": "R$ bilhões",
+    "periodo": "2026 (LOA)",
+    "descricao": "R$ 4,7 bi na LOA 2026 (rubrica 'Gás para Todos').",
+    "fonte": {
+      "nome": "CNN Brasil — Bolsa Família terá orçamento de R$ 158 bilhões em 2026 (LOA)",
+      "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/bolsa-familia-tera-orcamento-de-r-158-bilhoes-em-2026/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  },
+  "regra_simulador": {
+    "tipo": "tabela",
+    "parametros": {
+      "elegibilidade": {
+        "renda_per_capita_max": 810.5,
+        "renda_per_capita_max_sm": 0.5,
+        "cadastro_unico": true,
+        "prioridade": "famílias do Bolsa Família"
+      },
+      "recargas_por_ano_por_tamanho_da_familia": [
+        {
+          "pessoas_min": 2,
+          "pessoas_max": 3,
+          "recargas": 4
+        },
+        {
+          "pessoas_min": 4,
+          "pessoas_max": null,
+          "recargas": 6
+        }
+      ],
+      "beneficio": "recarga gratuita de botijão de 13 kg em revenda credenciada (valor em R$ não consta das notas)",
+      "fonte_formula": "BP Money (01/07/2026)",
+      "fonte_formula_url": "https://bpmoney.com.br/?p=408614"
+    }
+  },
+  "mitos": [],
+  "fontes": [
+    {
+      "nome": "BP Money — Gás do Povo: regras e alcance (01/07/2026)",
+      "url": "https://bpmoney.com.br/?p=408614",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Portal de Prefeitura — Gás do Povo: Caixa libera recarga para 4,5 milhões de famílias (fev/2026)",
+      "url": "https://portaldeprefeitura.com.br/bastidores-da-politica/gas-do-povo-caixa-libera-recarga-de-botijao-para-45-milhoes-de/615732/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "CNN Brasil — Bolsa Família terá orçamento de R$ 158 bilhões em 2026 (LOA)",
+      "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/bolsa-familia-tera-orcamento-de-r-158-bilhoes-em-2026/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Programa de Governo Lula 2026 (PDF, Congresso em Foco/TSE)",
+      "url": "https://static.congressoemfoco.com.br/2026/08/08/attachment/2026/08/08/32ce89_programa_governo_lula_2026.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "partidario"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/13_renda_por_faixa_e_simulacoes_de_impacto.md",
+  "notas_brutas_adicionais": [
+    "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/03_emprego_renda_pobreza_social.md"
+  ],
+  "lacunas": [
+    "Número e URL da norma que criou o Gás do Povo não constam das notas.",
+    "Regra para famílias de 1 pessoa não consta das notas.",
+    "Registro de referência para o simulador de renda; detalhamento de preço do GLP pertence ao tema combustíveis/energia."
+  ],
+  "atualizado_em": "2026-10-21"
+}

@@ -1,0 +1,140 @@
+{
+  "id": "chk-2057",
+  "slug": "40-milhoes-em-areas-dominadas-por-faccoes",
+  "frase": "Mais de 40 milhões de brasileiros moram em áreas dominadas por narcoterroristas.",
+  "frase_normalizada": "mais de 40 milhoes de brasileiros moram em areas dominadas por narcoterroristas",
+  "variantes": [],
+  "autor": {
+    "nome": "Flávio Bolsonaro",
+    "partido": "PL",
+    "cargo": "senador (RJ) e candidato à Presidência"
+  },
+  "lado": "oposicao-flavio-pl",
+  "alvo": {
+    "nome": null,
+    "partido": null
+  },
+  "data": "2026-10-18",
+  "onde": "Debate da Band (consórcio Band/Cultura/Gazeta/Jovem Pan/Estadão), São Paulo",
+  "url_declaracao": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+  "temas": [
+    "seguranca"
+  ],
+  "tags": [
+    "seguranca"
+  ],
+  "veredito": "verdadeiro-mas",
+  "resumo_uma_frase": "As estimativas disponíveis são até maiores: 50 a 61 milhões (estudo de Cambridge) e 68,7 milhões (Datafolha/FBSP); a Lupa classificou como 'subestimado'; 'narcoterroristas' é a designação do programa de Flávio (e dos EUA, desde maio de 2026), não uma categoria legal brasileira.",
+  "explicacao_simples": [
+    "A frase está abaixo das estimativas: um estudo de Cambridge fala em 50 a 61 milhões de pessoas em áreas sob influência de facções, e o Datafolha/FBSP em 68,7 milhões.",
+    "O Anuário 2026 descreve 2025 como ano de 'expansão territorial de facções criminosas'.",
+    "'Narcoterrorista' é o termo do plano de governo de Flávio; os EUA designaram PCC e CV como organizações terroristas em maio de 2026, mas a lei brasileira usa 'facção' e 'domínio social estruturado'."
+  ],
+  "explicacao_completa_md": "Lupa: SUBESTIMADO (Cambridge: 50 a 61 milhões; Datafolha/FBSP: 68,7 milhões). O FBSP (Anuário 2026) descreve 2025 como ano de 'expansão territorial de facções criminosas, crescimento das economias ilícitas e explosão das fraudes e golpes'. O plano de Flávio propõe tratar PCC, CV e milícias como 'narcoterroristas'; o Departamento de Estado dos EUA designou PCC e CV como organizações terroristas estrangeiras em 28/05/2026. A Lei Antifacção (15.358/2026) define facção como grupo de 3 ou mais pessoas com violência para controlar território.",
+  "o_que_e_verdade": [
+    "Dezenas de milhões de brasileiros vivem em áreas sob influência de facções; as estimativas vão de 50 a 68,7 milhões."
+  ],
+  "o_que_nao_se_sustenta": [
+    "Nenhum erro factual; o número é conservador. 'Narcoterrorista' é termo político/estrangeiro, não tipo legal brasileiro."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Governos estaduais",
+      "papel": "policiamento e controle territorial",
+      "peso": "alto"
+    },
+    {
+      "ator": "Governo federal",
+      "papel": "legislação (Lei Antifacção), PF, presídios federais",
+      "peso": "medio"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Pessoas em áreas de influência de facções (Datafolha/FBSP)",
+      "valor": 68.7,
+      "unidade": "milhões",
+      "periodo": "2026",
+      "fonte": {
+        "nome": "Agência Lupa",
+        "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": {
+        "rotulo": "Citado por Flávio",
+        "valor": 40
+      }
+    },
+    {
+      "rotulo": "Estimativa de Cambridge (faixa alta)",
+      "valor": 61,
+      "unidade": "milhões (50 a 61)",
+      "periodo": "2026",
+      "fonte": {
+        "nome": "Agência Lupa",
+        "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": null
+    }
+  ],
+  "series": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Agência Lupa",
+      "veredito_original": "SUBESTIMADO",
+      "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+      "data": "2026-10-18"
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Agência Lupa",
+      "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Anuário Brasileiro de Segurança Pública 2026 (FBSP, PDF)",
+      "url": "https://static.poder360.com.br/uploads/2026/07/anuario-seguranca-publica-23jul26.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    },
+    {
+      "nome": "Portal Tela (plano de governo de Flávio)",
+      "url": "https://www.portaltela.com/politica/2026/08/14/plano-de-governo-de-flavio-bolsonaro-tem-9-eixos-veja-propostas/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/09_acusacoes_e_falas_flavio_x_lula.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "Quantas pessoas vivem em áreas dominadas por facções?",
+      "resposta": "Entre 50 e 68,7 milhões, conforme a fonte (Cambridge; Datafolha/FBSP)."
+    },
+    {
+      "pergunta": "Facção é 'terrorismo' no Brasil?",
+      "resposta": "Não na lei brasileira, que usa 'facção' e 'domínio social estruturado' (Lei 15.358/2026); os EUA designaram PCC e CV como terroristas em 28/05/2026."
+    },
+    {
+      "pergunta": "As facções cresceram no governo Lula?",
+      "resposta": "O FBSP fala em expansão territorial em 2025, ao mesmo tempo em que homicídios e roubos caíram; o controle territorial é sobretudo responsabilidade estadual."
+    }
+  ],
+  "relacionadas": [
+    "lei-antifaccao-80-anos",
+    "lula-ligado-a-faccoes-pcc-cv",
+    "operacao-contencao-rj-122-mortos"
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false
+}

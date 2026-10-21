@@ -1,0 +1,59 @@
+{
+  "id": "fala-0018",
+  "slug": "lula-nao-ha-vitima-do-inss-sem-ressarcimento",
+  "evento_id": "sabatina-jn-lula-2026-08-27",
+  "candidato": "lula",
+  "lado": "governo-lula-pt",
+  "minuto": null,
+  "frase_literal": "Não há vítima do INSS que não tenha sido ressarcida.",
+  "literal": false,
+  "tema": "corrupcao",
+  "veredito": "falta-contexto",
+  "resumo_uma_frase": "Cerca de 660 mil pessoas aptas ao ressarcimento ainda não haviam aderido em junho de 2026.",
+  "explicacao_simples": [
+    "Lula, na sabatina do Jornal Nacional (27/8/2026), afirmou (em paráfrase registrada por Estadão Verifica) que não há vítima do INSS que não tenha sido ressarcida.",
+    "Segundo o jornal Extra (jun/2026), aproximadamente 659.920 pessoas aptas ainda não haviam aderido ao acordo de ressarcimento.",
+    "A frase omite informações que mudam a leitura do dado; por isso é classificada como 'falta contexto'."
+  ],
+  "o_que_e_verdade": [
+    "Quem aderiu ao acordo vem sendo ressarcido."
+  ],
+  "o_que_nao_se_sustenta": [
+    "Cerca de 660 mil aptos ainda não aderiram, logo não foram ressarcidos."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Aptos que ainda não aderiram ao ressarcimento",
+      "valor": 659920,
+      "unidade": "pessoas",
+      "periodo": "jun/2026",
+      "fonte": {
+        "nome": "Estadão Verifica (via Brasilagro)",
+        "url": "https://brasilagro.com.br/conteudo/estadao-checou-a-entrevista-de-lula-no-jornal-nacional-veja-o-resultado.html",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      }
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Estadão Verifica (via Brasilagro)",
+      "veredito_original": "ENGANOSO",
+      "url": "https://brasilagro.com.br/conteudo/estadao-checou-a-entrevista-de-lula-no-jornal-nacional-veja-o-resultado.html",
+      "data": "2026-08-28"
+    }
+  ],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Estadão Verifica (via Brasilagro)",
+      "url": "https://brasilagro.com.br/conteudo/estadao-checou-a-entrevista-de-lula-no-jornal-nacional-veja-o-resultado.html",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
+  "atualizado_em": "2026-10-21"
+}

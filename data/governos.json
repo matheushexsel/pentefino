@@ -1,0 +1,1006 @@
+[
+  {
+    "id": "lula-1-2",
+    "presidente": "Luiz Inácio Lula da Silva",
+    "partido": "PT",
+    "inicio": "2003-01-01",
+    "fim": "2010-12-31",
+    "vice": "José Alencar (PL/PRB)",
+    "resumo_uma_frase": "Período de crescimento médio de 4,1% ao ano, acúmulo de reservas internacionais e queda da dívida líquida, impulsionado pelo ciclo de alta das commodities e interrompido brevemente pela crise global de 2008-2009.",
+    "contexto_externo": [
+      "Ciclo de alta dos preços de commodities, favorável às exportações brasileiras.",
+      "Crise financeira global de 2008-2009: o PIB mundial caiu 0,4% em 2009 e o brasileiro 0,13%.",
+      "Brasil obteve grau de investimento das três agências de rating em 2008-2009 (datas não verificadas em fonte primária).",
+      "Dívida com o FMI quitada durante o governo (confirmado pela checagem do Aos Fatos)."
+    ],
+    "indicadores_inicio_fim": [
+      {
+        "serie": "pib-media-por-governo",
+        "inicio": null,
+        "fim": null,
+        "media": {
+          "periodo": "2003–2010",
+          "valor": 4.08
+        }
+      },
+      {
+        "serie": "pib-anual",
+        "inicio": {
+          "periodo": "2003",
+          "valor": 1.14
+        },
+        "fim": {
+          "periodo": "2010",
+          "valor": 7.53
+        }
+      },
+      {
+        "serie": "ipca-anual",
+        "inicio": {
+          "periodo": "2003",
+          "valor": 9.3
+        },
+        "fim": {
+          "periodo": "2010",
+          "valor": 5.91
+        },
+        "observacao": "Média anual do período: 5,79%."
+      },
+      {
+        "serie": "selic-fim-de-ano",
+        "inicio": {
+          "periodo": "23/01/2003",
+          "valor": 25.5
+        },
+        "fim": {
+          "periodo": "dez/2010",
+          "valor": 10.75
+        },
+        "observacao": "Taxa de 25,50% é a primeira mudança registrada em 2003; pico de 26,50% em 20/02/2003."
+      },
+      {
+        "serie": "cambio-fim-de-periodo",
+        "inicio": {
+          "periodo": "dez/2002",
+          "valor": 3.5325
+        },
+        "fim": {
+          "periodo": "dez/2010",
+          "valor": 1.6654
+        }
+      },
+      {
+        "serie": "cambio-media-anual",
+        "inicio": {
+          "periodo": "2003",
+          "valor": 3.078
+        },
+        "fim": {
+          "periodo": "2010",
+          "valor": 1.76
+        },
+        "observacao": "Média do período: R$ 2,27."
+      },
+      {
+        "serie": "reservas-internacionais",
+        "inicio": {
+          "periodo": "dez/2002",
+          "valor": 37.823
+        },
+        "fim": {
+          "periodo": "dez/2010",
+          "valor": 288.575
+        }
+      },
+      {
+        "serie": "divida-bruta-pib",
+        "inicio": {
+          "periodo": "dez/2006",
+          "valor": 55.48
+        },
+        "fim": {
+          "periodo": "dez/2010",
+          "valor": 51.77
+        },
+        "observacao": "Série da DBGG começa em dez/2006; não há dado para 2002-2005."
+      },
+      {
+        "serie": "divida-liquida-pib",
+        "inicio": {
+          "periodo": "dez/2002",
+          "valor": 59.93
+        },
+        "fim": {
+          "periodo": "dez/2010",
+          "valor": 37.98
+        }
+      },
+      {
+        "serie": "resultado-primario-pib",
+        "inicio": {
+          "periodo": "2003",
+          "valor": 3.24
+        },
+        "fim": {
+          "periodo": "2010",
+          "valor": 2.62
+        }
+      },
+      {
+        "serie": "desemprego-pme-anual",
+        "inicio": {
+          "periodo": "2003",
+          "valor": 12.3
+        },
+        "fim": {
+          "periodo": "2010",
+          "valor": 6.7
+        },
+        "observacao": "PME, seis regiões metropolitanas; não comparável com a PNAD Contínua (iniciada em 2012)."
+      },
+      {
+        "serie": "pobreza-banco-mundial",
+        "inicio": {
+          "periodo": "2003",
+          "valor": 48.7
+        },
+        "fim": {
+          "periodo": "2009",
+          "valor": 33.8
+        },
+        "observacao": "Banco Mundial, linha de US$ 6,85/dia; 2010 não consta na nota."
+      },
+      {
+        "serie": "gini-banco-mundial",
+        "inicio": {
+          "periodo": "2003",
+          "valor": 0.576
+        },
+        "fim": {
+          "periodo": "2009",
+          "valor": 0.537
+        },
+        "observacao": "Banco Mundial; 2010 não consta na nota. Série do IBGE começa em 2012."
+      },
+      {
+        "serie": "salario-minimo-nominal",
+        "inicio": {
+          "periodo": "abr/2003",
+          "valor": 240
+        },
+        "fim": {
+          "periodo": "jan/2010",
+          "valor": 510
+        }
+      },
+      {
+        "serie": "salario-minimo-cestas-basicas",
+        "inicio": {
+          "periodo": "2003",
+          "valor": 1.38
+        },
+        "fim": {
+          "periodo": "2010",
+          "valor": 2.06
+        },
+        "observacao": "Poder de compra em cestas básicas (DIEESE); ganho real acumulado do mínimo em cada reajuste está em salario-minimo-ganho-real."
+      }
+    ],
+    "nota_metodologica": "Critério: para fluxos anuais (PIB, IPCA, resultado primário, desemprego médio, pobreza, Gini, salário mínimo) usa-se o primeiro e o último ano com dado do mandato; para estoques (dívida, câmbio, Selic, reservas) usa-se o fim do mandato anterior e o fim do mandato. Anos-calendário; efeitos de política têm defasagem, portanto variação entre início e fim não prova causalidade. Fontes e lacunas estão em cada série em data/series/.",
+    "nota_bruta_url": [
+      "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/01_macroeconomia_por_governo.md",
+      "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/02_contas_publicas_divida.md",
+      "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/03_emprego_renda_pobreza_social.md"
+    ],
+    "lacunas": [
+      "Dívida bruta (DBGG) inexistente na metodologia atual para 2002-2005.",
+      "Desemprego nacional comparável (PNAD Contínua) só a partir de 2012.",
+      "Pobreza e Gini de 2010 não constam nas notas."
+    ],
+    "atualizado_em": "2026-10-21"
+  },
+  {
+    "id": "dilma",
+    "presidente": "Dilma Rousseff",
+    "partido": "PT",
+    "inicio": "2011-01-01",
+    "fim": "2016-08-31",
+    "vice": "Michel Temer (PMDB)",
+    "resumo_uma_frase": "Começou com crescimento de 4% e dívida líquida em mínimo histórico, mas terminou com a recessão de 2014-2016, inflação de 10,67% em 2015, primeiros déficits primários da série e afastamento por impeachment em agosto de 2016.",
+    "contexto_externo": [
+      "Queda dos preços de commodities a partir de 2014.",
+      "Enquanto o Brasil recuava (−3,55% em 2015 e −3,28% em 2016), o mundo crescia entre 3,2% e 3,6% ao ano.",
+      "Perda do grau de investimento pelas três agências em 2015-2016 (datas não verificadas em fonte primária).",
+      "Ano de 2016 compartilhado com Temer a partir de 31/08/2016; dados anuais de 2016 refletem os dois governos."
+    ],
+    "indicadores_inicio_fim": [
+      {
+        "serie": "pib-media-por-governo",
+        "inicio": null,
+        "fim": null,
+        "media": {
+          "periodo": "2011–2016",
+          "valor": 0.43
+        },
+        "observacao": "Média 2011–2015 (sem o ano compartilhado): 1,17%."
+      },
+      {
+        "serie": "pib-anual",
+        "inicio": {
+          "periodo": "2011",
+          "valor": 3.97
+        },
+        "fim": {
+          "periodo": "2016",
+          "valor": -3.28
+        },
+        "observacao": "2016 compartilhado com Temer."
+      },
+      {
+        "serie": "ipca-anual",
+        "inicio": {
+          "periodo": "2011",
+          "valor": 6.5
+        },
+        "fim": {
+          "periodo": "2016",
+          "valor": 6.29
+        },
+        "observacao": "Pior ano: 2015 (10,67%). Média 2011–2016: 6,94%."
+      },
+      {
+        "serie": "selic-fim-de-ano",
+        "inicio": {
+          "periodo": "dez/2010",
+          "valor": 10.75
+        },
+        "fim": {
+          "periodo": "ago/2016",
+          "valor": 14.25
+        },
+        "observacao": "14,25% vigorou de 30/07/2015 a 20/10/2016."
+      },
+      {
+        "serie": "cambio-fim-de-periodo",
+        "inicio": {
+          "periodo": "dez/2010",
+          "valor": 1.6654
+        },
+        "fim": {
+          "periodo": "dez/2015",
+          "valor": 3.9042
+        },
+        "observacao": "Usado dez/2015 (último dezembro integralmente sob Dilma); dez/2016 = 3,2585 já sob Temer."
+      },
+      {
+        "serie": "cambio-media-anual",
+        "inicio": {
+          "periodo": "2011",
+          "valor": 1.675
+        },
+        "fim": {
+          "periodo": "2015",
+          "valor": 3.332
+        },
+        "observacao": "Média do período 2011–2016: R$ 2,49."
+      },
+      {
+        "serie": "reservas-internacionais",
+        "inicio": {
+          "periodo": "dez/2010",
+          "valor": 288.575
+        },
+        "fim": {
+          "periodo": "dez/2015",
+          "valor": 356.464
+        }
+      },
+      {
+        "serie": "divida-bruta-pib",
+        "inicio": {
+          "periodo": "dez/2010",
+          "valor": 51.77
+        },
+        "fim": {
+          "periodo": "dez/2016",
+          "valor": 69.84
+        },
+        "observacao": "Variação 2010→2016 conforme cálculo da nota (+18,1 p.p.); 2016 compartilhado com Temer."
+      },
+      {
+        "serie": "divida-liquida-pib",
+        "inicio": {
+          "periodo": "dez/2010",
+          "valor": 37.98
+        },
+        "fim": {
+          "periodo": "dez/2016",
+          "valor": 46.14
+        },
+        "observacao": "Mínimo da série em dez/2013 (30,50%)."
+      },
+      {
+        "serie": "resultado-primario-pib",
+        "inicio": {
+          "periodo": "2011",
+          "valor": 2.94
+        },
+        "fim": {
+          "periodo": "2016",
+          "valor": -2.48
+        },
+        "observacao": "2014 foi o primeiro déficit da série (−0,56%)."
+      },
+      {
+        "serie": "desemprego-pnad-anual",
+        "inicio": {
+          "periodo": "2012",
+          "valor": 7.4
+        },
+        "fim": {
+          "periodo": "2016",
+          "valor": 11.6
+        },
+        "observacao": "PNAD Contínua começa em 2012. Trimestre do impeachment (2T2016): 11,4%."
+      },
+      {
+        "serie": "pobreza-banco-mundial",
+        "inicio": {
+          "periodo": "2011",
+          "valor": 29.9
+        },
+        "fim": {
+          "periodo": "2016",
+          "valor": 27.1
+        },
+        "observacao": "Mínimo do período em 2014 (24,4%)."
+      },
+      {
+        "serie": "gini",
+        "inicio": {
+          "periodo": "2012",
+          "valor": 0.54
+        },
+        "fim": {
+          "periodo": "2016",
+          "valor": 0.537
+        },
+        "observacao": "IBGE/PNAD Contínua (série começa em 2012)."
+      },
+      {
+        "serie": "salario-minimo-nominal",
+        "inicio": {
+          "periodo": "jan/2011",
+          "valor": 545
+        },
+        "fim": {
+          "periodo": "jan/2016",
+          "valor": 880
+        }
+      },
+      {
+        "serie": "salario-minimo-cestas-basicas",
+        "inicio": {
+          "periodo": "2012",
+          "valor": 2.13
+        },
+        "fim": {
+          "periodo": "2016",
+          "valor": 1.93
+        },
+        "observacao": "2011 não consta na tabela do DIEESE; 2012 foi o máximo da série."
+      }
+    ],
+    "nota_metodologica": "Critério: para fluxos anuais (PIB, IPCA, resultado primário, desemprego médio, pobreza, Gini, salário mínimo) usa-se o primeiro e o último ano com dado do mandato; para estoques (dívida, câmbio, Selic, reservas) usa-se o fim do mandato anterior e o fim do mandato. Anos-calendário; efeitos de política têm defasagem, portanto variação entre início e fim não prova causalidade. Fontes e lacunas estão em cada série em data/series/.",
+    "nota_bruta_url": [
+      "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/01_macroeconomia_por_governo.md",
+      "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/02_contas_publicas_divida.md",
+      "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/03_emprego_renda_pobreza_social.md"
+    ],
+    "lacunas": [
+      "Câmbio, reservas e Selic exatos em 31/08/2016 não constam nas notas; usados dezembros próximos.",
+      "Cestas básicas de 2011 não constam na tabela do DIEESE."
+    ],
+    "atualizado_em": "2026-10-21"
+  },
+  {
+    "id": "temer",
+    "presidente": "Michel Temer",
+    "partido": "PMDB/MDB",
+    "inicio": "2016-08-31",
+    "fim": "2018-12-31",
+    "vice": null,
+    "resumo_uma_frase": "Governo de transição após o impeachment, com inflação baixa (2,95% em 2017, abaixo do piso da meta), Selic em queda de 14,25% para 6,5%, recuperação lenta do PIB (1,3% e 1,8%), desemprego acima de 12% e aprovação do teto de gastos e da reforma trabalhista.",
+    "contexto_externo": [
+      "Economia mundial crescendo 3,9% (2017) e 3,6% (2018), acima do Brasil.",
+      "Risco-país (EMBI+) caiu de 569 pontos (fev/2016) para 240 (dez/2017).",
+      "Sem choque externo relevante no período, segundo as notas."
+    ],
+    "indicadores_inicio_fim": [
+      {
+        "serie": "pib-media-por-governo",
+        "inicio": null,
+        "fim": null,
+        "media": {
+          "periodo": "2017–2018",
+          "valor": 1.55
+        }
+      },
+      {
+        "serie": "pib-anual",
+        "inicio": {
+          "periodo": "2017",
+          "valor": 1.32
+        },
+        "fim": {
+          "periodo": "2018",
+          "valor": 1.78
+        }
+      },
+      {
+        "serie": "ipca-anual",
+        "inicio": {
+          "periodo": "2017",
+          "valor": 2.95
+        },
+        "fim": {
+          "periodo": "2018",
+          "valor": 3.75
+        },
+        "observacao": "2017 ficou abaixo do piso da meta. Média: 3,35%."
+      },
+      {
+        "serie": "selic-fim-de-ano",
+        "inicio": {
+          "periodo": "ago/2016",
+          "valor": 14.25
+        },
+        "fim": {
+          "periodo": "dez/2018",
+          "valor": 6.5
+        }
+      },
+      {
+        "serie": "cambio-fim-de-periodo",
+        "inicio": {
+          "periodo": "dez/2016",
+          "valor": 3.2585
+        },
+        "fim": {
+          "periodo": "dez/2018",
+          "valor": 3.8742
+        }
+      },
+      {
+        "serie": "cambio-media-anual",
+        "inicio": {
+          "periodo": "2017",
+          "valor": 3.192
+        },
+        "fim": {
+          "periodo": "2018",
+          "valor": 3.654
+        },
+        "observacao": "Média do período: R$ 3,42."
+      },
+      {
+        "serie": "reservas-internacionais",
+        "inicio": {
+          "periodo": "dez/2016",
+          "valor": 365.016
+        },
+        "fim": {
+          "periodo": "dez/2018",
+          "valor": 374.715
+        }
+      },
+      {
+        "serie": "divida-bruta-pib",
+        "inicio": {
+          "periodo": "dez/2016",
+          "valor": 69.84
+        },
+        "fim": {
+          "periodo": "dez/2018",
+          "valor": 75.27
+        }
+      },
+      {
+        "serie": "divida-liquida-pib",
+        "inicio": {
+          "periodo": "dez/2016",
+          "valor": 46.14
+        },
+        "fim": {
+          "periodo": "dez/2018",
+          "valor": 52.77
+        }
+      },
+      {
+        "serie": "resultado-primario-pib",
+        "inicio": {
+          "periodo": "2017",
+          "valor": -1.68
+        },
+        "fim": {
+          "periodo": "2018",
+          "valor": -1.55
+        }
+      },
+      {
+        "serie": "desemprego-pnad-anual",
+        "inicio": {
+          "periodo": "2017",
+          "valor": 12.6
+        },
+        "fim": {
+          "periodo": "2018",
+          "valor": 12.1
+        },
+        "observacao": "Pico pré-pandemia: 13,9% no 1T2017. 4T2018: 11,7%."
+      },
+      {
+        "serie": "pobreza-banco-mundial",
+        "inicio": {
+          "periodo": "2017",
+          "valor": 27.2
+        },
+        "fim": {
+          "periodo": "2018",
+          "valor": 26.8
+        }
+      },
+      {
+        "serie": "gini",
+        "inicio": {
+          "periodo": "2017",
+          "valor": 0.539
+        },
+        "fim": {
+          "periodo": "2018",
+          "valor": 0.545
+        },
+        "observacao": "2018 é o pior valor da série do IBGE."
+      },
+      {
+        "serie": "salario-minimo-nominal",
+        "inicio": {
+          "periodo": "jan/2017",
+          "valor": 937
+        },
+        "fim": {
+          "periodo": "jan/2018",
+          "valor": 954
+        },
+        "observacao": "Perdas reais de 0,10% (2017) e 0,25% (2018)."
+      },
+      {
+        "serie": "salario-minimo-cestas-basicas",
+        "inicio": {
+          "periodo": "2016",
+          "valor": 1.93
+        },
+        "fim": {
+          "periodo": "2018",
+          "valor": 2.15
+        },
+        "observacao": "2017 não consta na tabela do DIEESE."
+      }
+    ],
+    "nota_metodologica": "Critério: para fluxos anuais (PIB, IPCA, resultado primário, desemprego médio, pobreza, Gini, salário mínimo) usa-se o primeiro e o último ano com dado do mandato; para estoques (dívida, câmbio, Selic, reservas) usa-se o fim do mandato anterior e o fim do mandato. Anos-calendário; efeitos de política têm defasagem, portanto variação entre início e fim não prova causalidade. Fontes e lacunas estão em cada série em data/series/.",
+    "nota_bruta_url": [
+      "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/01_macroeconomia_por_governo.md",
+      "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/02_contas_publicas_divida.md",
+      "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/03_emprego_renda_pobreza_social.md"
+    ],
+    "lacunas": [
+      "Cestas básicas de 2017 não constam na tabela do DIEESE."
+    ],
+    "atualizado_em": "2026-10-21"
+  },
+  {
+    "id": "bolsonaro",
+    "presidente": "Jair Bolsonaro",
+    "partido": "PSL/sem partido/PL",
+    "inicio": "2019-01-01",
+    "fim": "2022-12-31",
+    "vice": "Hamilton Mourão (PRTB)",
+    "resumo_uma_frase": "Mandato marcado pela pandemia (PIB −3,28% e déficit primário de 9,24% do PIB em 2020), Selic na mínima histórica de 2% seguida de alta a 13,75%, inflação acima do teto em 2021 e 2022, superávits primários em 2021-2022 e queda da dívida bruta de 86,9% para 71,7% do PIB.",
+    "contexto_externo": [
+      "Pandemia de Covid-19: PIB mundial caiu 2,7% em 2020 (América Latina −6,9%).",
+      "Inflação global pós-pandemia e guerra na Ucrânia: inflação mundial de 8,7% em 2022.",
+      "Preços de commodities e dividendos elevados ajudaram o superávit de 2022.",
+      "Lei Complementar 179/2021 deu autonomia operacional ao Banco Central."
+    ],
+    "indicadores_inicio_fim": [
+      {
+        "serie": "pib-media-por-governo",
+        "inicio": null,
+        "fim": null,
+        "media": {
+          "periodo": "2019–2022",
+          "valor": 1.43
+        }
+      },
+      {
+        "serie": "pib-anual",
+        "inicio": {
+          "periodo": "2019",
+          "valor": 1.22
+        },
+        "fim": {
+          "periodo": "2022",
+          "valor": 3.02
+        },
+        "observacao": "2020: −3,28% (pandemia)."
+      },
+      {
+        "serie": "ipca-anual",
+        "inicio": {
+          "periodo": "2019",
+          "valor": 4.31
+        },
+        "fim": {
+          "periodo": "2022",
+          "valor": 5.79
+        },
+        "observacao": "2021: 10,06%, acima do teto; 2022 também acima do teto. Média: 6,17%."
+      },
+      {
+        "serie": "selic-fim-de-ano",
+        "inicio": {
+          "periodo": "dez/2018",
+          "valor": 6.5
+        },
+        "fim": {
+          "periodo": "dez/2022",
+          "valor": 13.75
+        },
+        "observacao": "Mínima histórica de 2,00% entre ago/2020 e mar/2021."
+      },
+      {
+        "serie": "cambio-fim-de-periodo",
+        "inicio": {
+          "periodo": "dez/2018",
+          "valor": 3.8742
+        },
+        "fim": {
+          "periodo": "dez/2022",
+          "valor": 5.2171
+        },
+        "observacao": "Pico de 5,5799 em dez/2021."
+      },
+      {
+        "serie": "cambio-media-anual",
+        "inicio": {
+          "periodo": "2019",
+          "valor": 3.945
+        },
+        "fim": {
+          "periodo": "2022",
+          "valor": 5.165
+        },
+        "observacao": "Média do período: R$ 4,92."
+      },
+      {
+        "serie": "reservas-internacionais",
+        "inicio": {
+          "periodo": "dez/2018",
+          "valor": 374.715
+        },
+        "fim": {
+          "periodo": "dez/2022",
+          "valor": 324.703
+        }
+      },
+      {
+        "serie": "divida-bruta-pib",
+        "inicio": {
+          "periodo": "dez/2018",
+          "valor": 75.27
+        },
+        "fim": {
+          "periodo": "dez/2022",
+          "valor": 71.68
+        },
+        "observacao": "Pico de 86,94% em dez/2020."
+      },
+      {
+        "serie": "divida-liquida-pib",
+        "inicio": {
+          "periodo": "dez/2018",
+          "valor": 52.77
+        },
+        "fim": {
+          "periodo": "dez/2022",
+          "valor": 56.13
+        }
+      },
+      {
+        "serie": "resultado-primario-pib",
+        "inicio": {
+          "periodo": "2019",
+          "valor": -0.84
+        },
+        "fim": {
+          "periodo": "2022",
+          "valor": 1.25
+        },
+        "observacao": "2020: −9,24% (maior déficit da série); 2021: +0,72%."
+      },
+      {
+        "serie": "desemprego-pnad-anual",
+        "inicio": {
+          "periodo": "2019",
+          "valor": 11.8
+        },
+        "fim": {
+          "periodo": "2022",
+          "valor": 9.6
+        },
+        "observacao": "Pico da série: 14,9% (3T2020 e 1T2021). 4T2022: 7,9%."
+      },
+      {
+        "serie": "pobreza-banco-mundial",
+        "inicio": {
+          "periodo": "2019",
+          "valor": 26.3
+        },
+        "fim": {
+          "periodo": "2022",
+          "valor": 23.4
+        },
+        "observacao": "2020 (18,8%) reflete o Auxílio Emergencial; 2021 (28,4%) foi o pior ano."
+      },
+      {
+        "serie": "gini",
+        "inicio": {
+          "periodo": "2019",
+          "valor": 0.543
+        },
+        "fim": {
+          "periodo": "2022",
+          "valor": 0.517
+        },
+        "observacao": "2020: 0,523 (Auxílio Emergencial); 2021: 0,543."
+      },
+      {
+        "serie": "salario-minimo-nominal",
+        "inicio": {
+          "periodo": "jan/2019",
+          "valor": 998
+        },
+        "fim": {
+          "periodo": "jan/2022",
+          "valor": 1212
+        },
+        "observacao": "Sem ganho real de 2019 a 2022 (apenas reposição da inflação passada)."
+      },
+      {
+        "serie": "salario-minimo-cestas-basicas",
+        "inicio": {
+          "periodo": "2019",
+          "valor": 2.04
+        },
+        "fim": {
+          "periodo": "2022",
+          "valor": 1.59
+        },
+        "observacao": "2022 foi o mínimo recente de poder de compra."
+      }
+    ],
+    "nota_metodologica": "Critério: para fluxos anuais (PIB, IPCA, resultado primário, desemprego médio, pobreza, Gini, salário mínimo) usa-se o primeiro e o último ano com dado do mandato; para estoques (dívida, câmbio, Selic, reservas) usa-se o fim do mandato anterior e o fim do mandato. Anos-calendário; efeitos de política têm defasagem, portanto variação entre início e fim não prova causalidade. Fontes e lacunas estão em cada série em data/series/.",
+    "nota_bruta_url": [
+      "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/01_macroeconomia_por_governo.md",
+      "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/02_contas_publicas_divida.md",
+      "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/03_emprego_renda_pobreza_social.md"
+    ],
+    "lacunas": [],
+    "atualizado_em": "2026-10-21"
+  },
+  {
+    "id": "lula-3",
+    "presidente": "Luiz Inácio Lula da Silva",
+    "partido": "PT",
+    "inicio": "2023-01-01",
+    "fim": null,
+    "vice": "Geraldo Alckmin (PSB)",
+    "resumo_uma_frase": "Crescimento médio de 3,0% em 2023-2025 com desemprego no menor nível da série da PNAD Contínua, exportações e bolsa em recorde, mas inflação acima do teto em 2024 e 2025, Selic de 15% e dívida bruta na máxima da série (82,9% do PIB em ago/2026) com déficits primários.",
+    "contexto_externo": [
+      "Tarifas adicionais dos EUA sobre produtos brasileiros (Ordem Executiva 14323, ago/2025; escopo reduzido em nov/2025; ação da Seção 301 em jul/2026); mesmo assim as exportações bateram recorde em 2025.",
+      "Conflitos armados no Oriente Médio e incerteza sobre a política monetária de economias avançadas, citados pelo Copom em set/2026.",
+      "Inflação brasileira em 2025 (5,0%, FMI) acima da média mundial (4,1%).",
+      "Mundo cresceu 3,4% ao ano em média em 2023-2025 e a América Latina 2,4%; o Brasil, 3,0%.",
+      "Upgrades de rating em 2023 (Fitch e S&P) e 2024 (Moody's), sem recuperar o grau de investimento (datas não verificadas em fonte primária)."
+    ],
+    "indicadores_inicio_fim": [
+      {
+        "serie": "pib-media-por-governo",
+        "inicio": null,
+        "fim": null,
+        "media": {
+          "periodo": "2023–2025",
+          "valor": 2.98
+        },
+        "observacao": "Com a projeção Focus de 1,83% para 2026, a média cai para 2,70%."
+      },
+      {
+        "serie": "pib-anual",
+        "inicio": {
+          "periodo": "2023",
+          "valor": 3.24
+        },
+        "fim": {
+          "periodo": "2025",
+          "valor": 2.29
+        },
+        "observacao": "2026: +1,9% acumulado em quatro trimestres até o 2T2026 (parcial)."
+      },
+      {
+        "serie": "ipca-anual",
+        "inicio": {
+          "periodo": "2023",
+          "valor": 4.62
+        },
+        "fim": {
+          "periodo": "2025",
+          "valor": 4.26
+        },
+        "observacao": "2024 (4,83%) estourou o teto; 2025 descumpriu a meta contínua. 12 meses até set/2026: 4,58%. Focus para dez/2026: 5,22%."
+      },
+      {
+        "serie": "selic-fim-de-ano",
+        "inicio": {
+          "periodo": "dez/2022",
+          "valor": 13.75
+        },
+        "fim": {
+          "periodo": "set/2026",
+          "valor": 13.75
+        },
+        "observacao": "Caiu a 10,50% (mai/2024), subiu a 15,00% (jun/2025, maior desde 2006) e voltou a 13,75% em 17/09/2026."
+      },
+      {
+        "serie": "cambio-fim-de-periodo",
+        "inicio": {
+          "periodo": "dez/2022",
+          "valor": 5.2171
+        },
+        "fim": {
+          "periodo": "set/2026",
+          "valor": 5.1803
+        },
+        "observacao": "Recorde nominal de 6,1917 em dez/2024."
+      },
+      {
+        "serie": "cambio-media-anual",
+        "inicio": {
+          "periodo": "2023",
+          "valor": 4.995
+        },
+        "fim": {
+          "periodo": "2025",
+          "valor": 5.588
+        },
+        "observacao": "Média 2023–2025: R$ 5,32; jan–set/2026: R$ 5,15."
+      },
+      {
+        "serie": "reservas-internacionais",
+        "inicio": {
+          "periodo": "dez/2022",
+          "valor": 324.703
+        },
+        "fim": {
+          "periodo": "set/2026",
+          "valor": 362.821
+        }
+      },
+      {
+        "serie": "divida-bruta-pib",
+        "inicio": {
+          "periodo": "dez/2022",
+          "valor": 71.68
+        },
+        "fim": {
+          "periodo": "ago/2026",
+          "valor": 82.87
+        },
+        "observacao": "Máxima da série para fechamentos de dezembro/agosto; abaixo do pico mensal de 86,94% (dez/2020)."
+      },
+      {
+        "serie": "divida-liquida-pib",
+        "inicio": {
+          "periodo": "dez/2022",
+          "valor": 56.13
+        },
+        "fim": {
+          "periodo": "ago/2026",
+          "valor": 69.27
+        }
+      },
+      {
+        "serie": "resultado-primario-pib",
+        "inicio": {
+          "periodo": "2023",
+          "valor": -2.28
+        },
+        "fim": {
+          "periodo": "12 meses até ago/2026",
+          "valor": -0.62
+        },
+        "observacao": "2023 inclui R$ 92,4 bi de precatórios; 2024: −0,40%; 2025: −0,43%."
+      },
+      {
+        "serie": "desemprego-pnad-anual",
+        "inicio": {
+          "periodo": "2023",
+          "valor": 7.7
+        },
+        "fim": {
+          "periodo": "2025",
+          "valor": 5.6
+        },
+        "observacao": "2025 é a menor média anual da série; 4T2025 (5,1%) o menor trimestre; jun–ago/2026: 5,3%."
+      },
+      {
+        "serie": "pobreza-banco-mundial",
+        "inicio": {
+          "periodo": "2023",
+          "valor": 21.6
+        },
+        "fim": {
+          "periodo": "2024",
+          "valor": 18.9
+        },
+        "observacao": "IBGE/SIS: 27,3% (2023) e 23,1% (2024), menor desde 2012 — ver pobreza-ibge."
+      },
+      {
+        "serie": "gini",
+        "inicio": {
+          "periodo": "2023",
+          "valor": 0.517
+        },
+        "fim": {
+          "periodo": "2025",
+          "valor": 0.511
+        },
+        "observacao": "2024 (0,504) foi o menor da série; 2025 o segundo menor."
+      },
+      {
+        "serie": "salario-minimo-nominal",
+        "inicio": {
+          "periodo": "jan/2023",
+          "valor": 1302
+        },
+        "fim": {
+          "periodo": "jan/2026",
+          "valor": 1621
+        },
+        "observacao": "Ganho real de 4,69% em 2024 e 2,61% em 2025; teto de 2,5% da Lei 15.077/2024 em 2026."
+      },
+      {
+        "serie": "salario-minimo-cestas-basicas",
+        "inicio": {
+          "periodo": "2023",
+          "valor": 1.71
+        },
+        "fim": {
+          "periodo": "jan/2025",
+          "valor": 1.8
+        },
+        "observacao": "ago/2026: 1,8 cesta (Folha/4intelligence com dados DIEESE, via Lupa)."
+      }
+    ],
+    "nota_metodologica": "Critério: para fluxos anuais (PIB, IPCA, resultado primário, desemprego médio, pobreza, Gini, salário mínimo) usa-se o primeiro e o último ano com dado do mandato; para estoques (dívida, câmbio, Selic, reservas) usa-se o fim do mandato anterior e o fim do mandato. Anos-calendário; efeitos de política têm defasagem, portanto variação entre início e fim não prova causalidade. Fontes e lacunas estão em cada série em data/series/.",
+    "nota_bruta_url": [
+      "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/01_macroeconomia_por_governo.md",
+      "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/02_contas_publicas_divida.md",
+      "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/03_emprego_renda_pobreza_social.md"
+    ],
+    "lacunas": [
+      "Pobreza e Gini de 2025/2026 pelo Banco Mundial ainda não disponíveis; IBGE/SIS só até 2024 (pobreza) e 2025 (Gini).",
+      "EMBI+ após jul/2024 e CDS não disponíveis em fonte oficial gratuita."
+    ],
+    "atualizado_em": "2026-10-21"
+  }
+]

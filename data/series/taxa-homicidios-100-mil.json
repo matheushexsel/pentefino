@@ -1,0 +1,235 @@
+{
+  "id": "taxa-homicidios-100-mil",
+  "titulo": "Taxa de mortes violentas intencionais por 100 mil habitantes",
+  "descricao_simples": "Mortes violentas intencionais (MVI) por 100 mil habitantes segundo o Fórum Brasileiro de Segurança Pública. Caiu de 31,2 (2017) para 19,1 (2025), a menor desde 2012.",
+  "unidade": "mortes por 100 mil habitantes",
+  "tipo_grafico": "linha",
+  "frequencia": "anual",
+  "fonte": {
+    "nome": "Anuário Brasileiro de Segurança Pública 2026 (FBSP)",
+    "url": "https://static.poder360.com.br/uploads/2026/07/anuario-seguranca-publica-23jul26.pdf",
+    "acesso_em": "2026-10-21",
+    "tier": "academico"
+  },
+  "pontos": [
+    {
+      "periodo": "2012",
+      "valor": 27.7
+    },
+    {
+      "periodo": "2013",
+      "valor": 28.0
+    },
+    {
+      "periodo": "2014",
+      "valor": 29.7
+    },
+    {
+      "periodo": "2015",
+      "valor": 28.9
+    },
+    {
+      "periodo": "2016",
+      "valor": 30.2
+    },
+    {
+      "periodo": "2017",
+      "valor": 31.2
+    },
+    {
+      "periodo": "2018",
+      "valor": 27.9
+    },
+    {
+      "periodo": "2019",
+      "valor": 23.0
+    },
+    {
+      "periodo": "2020",
+      "valor": 24.1
+    },
+    {
+      "periodo": "2021",
+      "valor": 23.0
+    },
+    {
+      "periodo": "2022",
+      "valor": 22.7
+    },
+    {
+      "periodo": "2023",
+      "valor": 21.9
+    },
+    {
+      "periodo": "2024",
+      "valor": 20.8
+    },
+    {
+      "periodo": "2025",
+      "valor": 19.1
+    }
+  ],
+  "faixas_referencia": [
+    {
+      "rotulo": "Atlas da Violência 2025 (homicídios SIM/DATASUS) — 2017, pico",
+      "valor": 31.8
+    },
+    {
+      "rotulo": "Atlas da Violência 2025 (homicídios SIM/DATASUS) — 2023, menor em 31 anos",
+      "valor": 21.2
+    },
+    {
+      "rotulo": "Atlas — taxa estimada com homicídios ocultos, 2017",
+      "valor": 33.6
+    },
+    {
+      "rotulo": "Atlas — taxa estimada com homicídios ocultos, 2022",
+      "valor": 24.5
+    }
+  ],
+  "governos": [
+    {
+      "governo": "dilma",
+      "inicio": {
+        "periodo": "2012",
+        "valor": 27.7
+      },
+      "fim": {
+        "periodo": "2016",
+        "valor": 30.2
+      }
+    },
+    {
+      "governo": "temer",
+      "inicio": {
+        "periodo": "2017",
+        "valor": 31.2
+      },
+      "fim": {
+        "periodo": "2018",
+        "valor": 27.9
+      }
+    },
+    {
+      "governo": "bolsonaro",
+      "inicio": {
+        "periodo": "2019",
+        "valor": 23.0
+      },
+      "fim": {
+        "periodo": "2022",
+        "valor": 22.7
+      }
+    },
+    {
+      "governo": "lula-3",
+      "inicio": {
+        "periodo": "2023",
+        "valor": 21.9
+      },
+      "fim": {
+        "periodo": "2025",
+        "valor": 19.1
+      }
+    }
+  ],
+  "series_alternativas": [
+    {
+      "nome": "Atlas da Violência 2025 (IPEA/FBSP) — homicídios registrados no SIM/DATASUS",
+      "unidade": "homicídios (taxa por 100 mil)",
+      "fonte": {
+        "nome": "Agência Brasil — Atlas da Violência 2025 (IPEA/FBSP)",
+        "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2025-05/taxa-de-homicidio-cai-mas-violencia-matou-457-mil-no-brasil-em-2023",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "pontos": [
+        {
+          "periodo": "2013",
+          "valor": 57396,
+          "taxa": 28.8
+        },
+        {
+          "periodo": "2014",
+          "valor": 60474,
+          "taxa": 30.1
+        },
+        {
+          "periodo": "2015",
+          "valor": 59080,
+          "taxa": 29.1
+        },
+        {
+          "periodo": "2016",
+          "valor": 62517,
+          "taxa": 30.6
+        },
+        {
+          "periodo": "2017",
+          "valor": 65602,
+          "taxa": 31.8
+        },
+        {
+          "periodo": "2018",
+          "valor": 57956,
+          "taxa": 27.9
+        },
+        {
+          "periodo": "2019",
+          "valor": 45503,
+          "taxa": 21.7
+        },
+        {
+          "periodo": "2020",
+          "valor": 49868,
+          "taxa": 23.6
+        },
+        {
+          "periodo": "2021",
+          "valor": 47847,
+          "taxa": 22.5
+        },
+        {
+          "periodo": "2022",
+          "valor": 46409,
+          "taxa": 21.7
+        },
+        {
+          "periodo": "2023",
+          "valor": 45747,
+          "taxa": 21.2
+        }
+      ]
+    }
+  ],
+  "notas_metodologicas": [
+    "A taxa do FBSP usa os registros policiais de MVI; a do Atlas da Violência usa os óbitos por agressão do SIM/DATASUS (Ministério da Saúde). As duas fontes mostram a mesma trajetória: pico em 2017 e queda a partir de 2018.",
+    "O Atlas estima 51.608 'homicídios ocultos' (mortes violentas por causa indeterminada) entre 2013 e 2023; incluí-los eleva a taxa de 2023 para cerca de 23 por 100 mil.",
+    "Em 2023, armas de fogo responderam por 71,6% das mortes (32.749; 15,2 por 100 mil) e a taxa entre jovens de 15 a 29 anos foi de 45,1 por 100 mil. Taxas estaduais em 2023: Amapá 57,4; Bahia 43,9; Pernambuco 38,0; São Paulo 6,4; Santa Catarina 8,8; DF 11,0.",
+    "Explicações da queda citadas por Daniel Cerqueira (IPEA): envelhecimento da população, melhoria de gestão nas políticas estaduais (planejamento, dados, inteligência) e programas de prevenção para jovens. A execução da segurança é estadual.",
+    "O número absoluto de MVI está na série mortes-violentas-intencionais."
+  ],
+  "ultimo_periodo": "2025",
+  "temas": [
+    "seguranca"
+  ],
+  "fontes_adicionais": [
+    {
+      "nome": "Agência Brasil — Atlas da Violência 2025 (IPEA/FBSP)",
+      "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2025-05/taxa-de-homicidio-cai-mas-violencia-matou-457-mil-no-brasil-em-2023",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Agência Brasil via Diário de Pernambuco (Anuário 2026)",
+      "url": "https://diariodepernambuco.com.br/brasil/2026/07/11719408-mortes-violentas-caem-82-no-pais-em-2025-feminicidios-aumentam-4.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "lacunas": [
+    "Taxas de 2003 a 2011 não acessadas na nota."
+  ],
+  "atualizado_em": "2026-10-21",
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/07_saude_seguranca_educacao_infra_ambiente.md"
+}

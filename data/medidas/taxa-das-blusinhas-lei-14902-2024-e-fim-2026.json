@@ -1,0 +1,209 @@
+{
+  "id": "taxa-das-blusinhas-lei-14902-2024-e-fim-2026",
+  "nome": "'Taxa das blusinhas': 20% de Imposto de Importação em compras até US$ 50 (Lei 14.902/2024) e seu fim (MP 1.357/2026, lei de 10/09/2026)",
+  "tipo": "imposto",
+  "governo": "lula-3",
+  "lado": "governo-lula-pt",
+  "norma": {
+    "nome": "Lei 14.902/2024 (emenda ao PL do programa Mover, jun/2024); revogação: MP 1.357/2026 (12/05/2026) convertida em lei sancionada em 10/09/2026",
+    "data": null,
+    "url": "https://www.camara.leg.br/noticias/1271806-medida-provisoria-permite-eliminar-a-taxa-das-blusinhas",
+    "vigencia": "Cobrança de ago/2024 a 12/05/2026; isenção efetiva desde 13/05/2026"
+  },
+  "status": "revogada",
+  "o_que_faz_simples": [
+    "A Lei 14.902/2024 criou um Imposto de Importação de 20% sobre compras internacionais de até US$ 50 (antes isentas), cobrado desde ago/2024. Valia para todas as compras — eletrônicos, cosméticos etc. —, não só roupas.",
+    "A regra foi inserida pelo Congresso como 'jabuti' (emenda estranha ao tema) no projeto do programa Mover, aprovada e sancionada por Lula — responsabilidade compartilhada entre Congresso e Executivo.",
+    "Em 12/05/2026 a MP 1.357/2026 autorizou a Fazenda a zerar o imposto nessas compras; a isenção vale desde 13/05/2026. A Câmara aprovou a MP (com isenção para medicamentos de doenças raras); o Senado aprovou em 03/09/2026 (compras de US$ 50 a US$ 3 mil podem passar de 60% para 30%); Lula sancionou em 10/09/2026, 24 dias antes da eleição.",
+    "O ICMS estadual sobre essas compras continua."
+  ],
+  "quem_ganha": {
+    "descricao": "Com o fim da taxa (2026): consumidores que compram em sites internacionais até US$ 50. Com a criação (2024): não há nas notas beneficiário quantificado (a defesa da taxa era a isonomia com o varejo nacional, argumento não detalhado nas fontes).",
+    "pessoas": null,
+    "faixa_renda": "Consumidores em geral de e-commerce internacional",
+    "fonte": {
+      "nome": "Agência Senado — Senado zera taxa das blusinhas nas remessas de até US$ 50 (03/09/2026)",
+      "url": "https://www12.senado.leg.br/noticias/materias/2026/09/03/senado-zera-taxa-das-blusinhas-nas-remessas-internacionais-de-ate-us-50",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    }
+  },
+  "quem_paga": {
+    "descricao": "Entre ago/2024 e 12/05/2026, consumidores em geral de compras internacionais até US$ 50 — uma das duas medidas tributárias do período Lula 3 que recaíram sobre consumidores em geral (a outra é o IOF-câmbio de 2025).",
+    "pessoas": null,
+    "faixa_renda": "Consumidores em geral",
+    "fonte": {
+      "nome": "Congresso em Foco — da taxa das blusinhas à reforma tributária: leis aprovadas em 2024",
+      "url": "https://congressoemfoco.com.br/noticia/5495/da-taxa-das-blusinhas-a-reforma-tributaria-entenda-as-principais-leis-aprovadas-pelo-congresso-em-2024",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  },
+  "custo_ou_arrecadacao": {
+    "valor": null,
+    "unidade": "R$ bilhões",
+    "periodo": null,
+    "descricao": "Arrecadação da taxa (2024-2026) e renúncia com o fim (2026) não constam das notas.",
+    "fonte": {
+      "nome": "Congresso em Foco — da taxa das blusinhas à reforma tributária: leis aprovadas em 2024",
+      "url": "https://congressoemfoco.com.br/noticia/5495/da-taxa-das-blusinhas-a-reforma-tributaria-entenda-as-principais-leis-aprovadas-pelo-congresso-em-2024",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  },
+  "regra_simulador": {
+    "tipo": "percentual",
+    "parametros": {
+      "base": "valor da compra internacional em US$ (remessa) convertido em R$",
+      "faixa_valor_usd": {
+        "ate": 50
+      },
+      "aliquota_pct_por_periodo": [
+        {
+          "de": "2024-08-01",
+          "ate": "2026-05-12",
+          "aliquota_pct": 20
+        },
+        {
+          "de": "2026-05-13",
+          "ate": null,
+          "aliquota_pct": 0
+        }
+      ],
+      "observacao": "ICMS estadual continua incidindo; compras de US$ 50 a US$ 3 mil: alíquota pode cair de 60% para 30% (Senado, 03/09/2026), não detalhado nas notas",
+      "fonte_formula": "Congresso em Foco / Agência Câmara / Agência Senado",
+      "fonte_formula_url": "https://www12.senado.leg.br/noticias/materias/2026/09/03/senado-zera-taxa-das-blusinhas-nas-remessas-internacionais-de-ate-us-50"
+    }
+  },
+  "mitos": [
+    {
+      "mito": "A taxa das blusinhas foi uma criação exclusiva do governo Lula.",
+      "fato": "A cobrança foi inserida pelo Congresso como emenda estranha ao tema ('jabuti') no PL do programa Mover, aprovada pelo Legislativo e sancionada por Lula em jun/2024. A responsabilidade é compartilhada; a revogação em 2026 foi decisão do Executivo (MP) confirmada pelo Congresso.",
+      "fontes": [
+        {
+          "nome": "Congresso em Foco — da taxa das blusinhas à reforma tributária: leis aprovadas em 2024",
+          "url": "https://congressoemfoco.com.br/noticia/5495/da-taxa-das-blusinhas-a-reforma-tributaria-entenda-as-principais-leis-aprovadas-pelo-congresso-em-2024",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "Meio & Mensagem — taxa das blusinhas",
+          "url": "https://www.meioemensagem.com.br/marketing/taxa-das-blusinhas-lula",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        }
+      ]
+    },
+    {
+      "mito": "A taxa só valia para roupas.",
+      "fato": "O imposto de 20% incidia sobre todas as compras internacionais de até US$ 50 (eletrônicos, cosméticos etc.), não só vestuário.",
+      "fontes": [
+        {
+          "nome": "Congresso em Foco — da taxa das blusinhas à reforma tributária: leis aprovadas em 2024",
+          "url": "https://congressoemfoco.com.br/noticia/5495/da-taxa-das-blusinhas-a-reforma-tributaria-entenda-as-principais-leis-aprovadas-pelo-congresso-em-2024",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "TNH1 — taxa das blusinhas pode ser cobrada em compras feitas antes de 1º de agosto",
+          "url": "https://www.tnh1.com.br/noticia/nid/taxa-das-blusinhas-pode-ser-cobrada-em-compras-feitas-antes-de-1o-de-agosto-entenda/",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        }
+      ]
+    },
+    {
+      "mito": "A taxa das blusinhas ainda está sendo cobrada.",
+      "fato": "A isenção vale desde 13/05/2026 (MP 1.357/2026) e foi confirmada em lei sancionada em 10/09/2026. O ICMS estadual continua.",
+      "fontes": [
+        {
+          "nome": "Olhar Digital — governo anuncia fim da taxa das blusinhas (12/05/2026)",
+          "url": "https://olhardigital.com.br/2026/05/12/pro/governo-anuncia-fim-da-taxa-das-blusinhas-sobre-itens-importados/",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "A Gazeta/Folha — Lula sanciona lei do fim da taxa das blusinhas a 24 dias da eleição",
+          "url": "https://www.agazeta.com.br/economia/lula-sanciona-lei-do-fim-da-taxa-das-blusinhas-a-24-dias-da-eleicao-0926",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "Agência Senado — Senado zera taxa das blusinhas nas remessas de até US$ 50 (03/09/2026)",
+          "url": "https://www12.senado.leg.br/noticias/materias/2026/09/03/senado-zera-taxa-das-blusinhas-nas-remessas-internacionais-de-ate-us-50",
+          "acesso_em": "2026-10-21",
+          "tier": "oficial"
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Congresso em Foco — da taxa das blusinhas à reforma tributária: leis aprovadas em 2024",
+      "url": "https://congressoemfoco.com.br/noticia/5495/da-taxa-das-blusinhas-a-reforma-tributaria-entenda-as-principais-leis-aprovadas-pelo-congresso-em-2024",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Meio & Mensagem — taxa das blusinhas",
+      "url": "https://www.meioemensagem.com.br/marketing/taxa-das-blusinhas-lula",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "TNH1 — taxa das blusinhas pode ser cobrada em compras feitas antes de 1º de agosto",
+      "url": "https://www.tnh1.com.br/noticia/nid/taxa-das-blusinhas-pode-ser-cobrada-em-compras-feitas-antes-de-1o-de-agosto-entenda/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Agência Câmara — medida provisória permite eliminar a taxa das blusinhas",
+      "url": "https://www.camara.leg.br/noticias/1271806-medida-provisoria-permite-eliminar-a-taxa-das-blusinhas",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Olhar Digital — governo anuncia fim da taxa das blusinhas (12/05/2026)",
+      "url": "https://olhardigital.com.br/2026/05/12/pro/governo-anuncia-fim-da-taxa-das-blusinhas-sobre-itens-importados/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Congresso Nacional — MPV 1357/2026",
+      "url": "https://www.congressonacional.leg.br/materias/medidas-provisorias/-/mpv/174123",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Agência Câmara — Câmara aprova MP que acaba com a taxa das blusinhas",
+      "url": "https://www.camara.leg.br/noticias/1302664-camara-aprova-mp-que-acaba-com-a-taxa-das-blusinhas/",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Agência Senado — Senado zera taxa das blusinhas nas remessas de até US$ 50 (03/09/2026)",
+      "url": "https://www12.senado.leg.br/noticias/materias/2026/09/03/senado-zera-taxa-das-blusinhas-nas-remessas-internacionais-de-ate-us-50",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "A Gazeta/Folha — Lula sanciona lei do fim da taxa das blusinhas a 24 dias da eleição",
+      "url": "https://www.agazeta.com.br/economia/lula-sanciona-lei-do-fim-da-taxa-das-blusinhas-a-24-dias-da-eleicao-0926",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "LegisWeb — sanção da lei do fim da taxa das blusinhas",
+      "url": "https://www.legisweb.com.br/noticia/?id=34369",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/12_pix_fake_news_e_impostos_quem_paga.md",
+  "lacunas": [
+    "Data exata e URL oficial da Lei 14.902/2024 não constam das notas (apenas 'jun/2024').",
+    "Número da lei de conversão da MP 1.357/2026 e seu DOU não localizados.",
+    "Arrecadação efetiva da taxa (2024-2026) e renúncia do fim não localizadas."
+  ],
+  "atualizado_em": "2026-10-21"
+}

@@ -1,0 +1,99 @@
+{
+  "id": "fala-0225",
+  "slug": "flavio-governo-deixa-11-trilhoes-de-divida-band",
+  "evento_id": "debate-band-2turno-2026-10-18",
+  "candidato": "flavio-bolsonaro",
+  "lado": "oposicao-flavio-pl",
+  "minuto": null,
+  "frase_literal": "O atual governo tá deixando de 11 trilhões de reais, mais um recorde negativo.",
+  "literal": true,
+  "tema": "contas-publicas",
+  "veredito": "verdadeiro-mas",
+  "resumo_uma_frase": "A dívida bruta é de R$ 11,1 trilhões (82,9% do PIB), recorde em reais; em proporção do PIB o pico foi 87,6% em 2020, no governo Bolsonaro.",
+  "explicacao_simples": [
+    "Flávio Bolsonaro, no debate da Band (18/10/2026), disse: “O atual governo tá deixando de 11 trilhões de reais, mais um recorde negativo”.",
+    "BC (30/9): DBGG de R$ 11,1 trilhões = 82,9% do PIB em ago/2026; Lupa: verdadeiro; Aos Fatos: acertou; Ranking: impreciso (recorde só nominal; pico de 87,6% do PIB em 2020).",
+    "O núcleo da frase está correto, mas falta uma ressalva que muda o peso do dado; por isso a classificação é 'verdadeiro, mas'."
+  ],
+  "o_que_e_verdade": [
+    "Dívida bruta de R$ 11,1 trilhões, recorde nominal."
+  ],
+  "o_que_nao_se_sustenta": [
+    "Em % do PIB o recorde (87,6%) é de 2020."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Dívida bruta do governo geral",
+      "valor": 11.1,
+      "unidade": "R$ trilhões",
+      "periodo": "ago/2026",
+      "fonte": {
+        "nome": "Lupa",
+        "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      }
+    },
+    {
+      "rotulo": "Dívida bruta em % do PIB",
+      "valor": 82.9,
+      "unidade": "% do PIB",
+      "periodo": "ago/2026",
+      "fonte": {
+        "nome": "Lupa",
+        "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": {
+        "rotulo": "Pico em 2020",
+        "valor": 87.6
+      }
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Lupa",
+      "veredito_original": "VERDADEIRO",
+      "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+      "data": "2026-10-18"
+    },
+    {
+      "veiculo": "Aos Fatos",
+      "veredito_original": "acertou",
+      "url": "https://www.aosfatos.org/noticias/checamos-lula-flavio-bolsonaro-debate-band/",
+      "data": "2026-10-18"
+    },
+    {
+      "veiculo": "Ranking dos Políticos",
+      "veredito_original": "IMPRECISO",
+      "url": "https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026",
+      "data": "2026-10-19"
+    }
+  ],
+  "checagem_slug": "divida-publica-de-11-trilhoes",
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Lupa",
+      "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Aos Fatos",
+      "url": "https://www.aosfatos.org/noticias/checamos-lula-flavio-bolsonaro-debate-band/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Ranking dos Políticos",
+      "url": "https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
+  "atualizado_em": "2026-10-21"
+}

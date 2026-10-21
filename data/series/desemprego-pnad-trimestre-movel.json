@@ -1,0 +1,76 @@
+{
+  "id": "desemprego-pnad-trimestre-movel",
+  "titulo": "Taxa de desocupação, trimestres móveis (últimos 12)",
+  "descricao_simples": "Desemprego nos trimestres móveis mais recentes divulgados pelo IBGE.",
+  "unidade": "% da força de trabalho",
+  "tipo_grafico": "linha",
+  "frequencia": "mensal",
+  "fonte": {
+    "nome": "IBGE/SIDRA, tabela 6381 (últimos 12 períodos)",
+    "url": "https://apisidra.ibge.gov.br/values/t/6381/n1/all/v/4099/p/last%2012",
+    "acesso_em": "2026-10-21",
+    "tier": "oficial"
+  },
+  "pontos": [
+    {
+      "periodo": "jul–set/2025",
+      "valor": 5.6
+    },
+    {
+      "periodo": "ago–out/2025",
+      "valor": 5.4
+    },
+    {
+      "periodo": "set–nov/2025",
+      "valor": 5.2
+    },
+    {
+      "periodo": "out–dez/2025",
+      "valor": 5.1
+    },
+    {
+      "periodo": "nov/2025–jan/2026",
+      "valor": 5.4
+    },
+    {
+      "periodo": "dez/2025–fev/2026",
+      "valor": 5.8
+    },
+    {
+      "periodo": "jan–mar/2026",
+      "valor": 6.1
+    },
+    {
+      "periodo": "fev–abr/2026",
+      "valor": 5.8
+    },
+    {
+      "periodo": "mar–mai/2026",
+      "valor": 5.6
+    },
+    {
+      "periodo": "abr–jun/2026",
+      "valor": 5.4
+    },
+    {
+      "periodo": "mai–jul/2026",
+      "valor": 5.3
+    },
+    {
+      "periodo": "jun–ago/2026",
+      "valor": 5.3
+    }
+  ],
+  "faixas_referencia": [],
+  "notas_metodologicas": [
+    "jun–ago/2026: 5,3%, menor para o período desde 2012; ocupados 103,5 milhões (recorde); desocupados 5,8 milhões; desalentados 2,4 milhões (via snippet).",
+    "O release do trimestre encerrado em set/2026 só sai no fim de outubro."
+  ],
+  "lacunas": [],
+  "ultimo_periodo": "jun–ago/2026",
+  "temas": [
+    "emprego-renda"
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/03_emprego_renda_pobreza_social.md",
+  "atualizado_em": "2026-10-21"
+}

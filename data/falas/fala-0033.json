@@ -1,0 +1,62 @@
+{
+  "id": "fala-0033",
+  "slug": "lula-oitenta-dias-de-prisao",
+  "evento_id": "sabatina-jn-lula-2026-08-27",
+  "candidato": "lula",
+  "lado": "governo-lula-pt",
+  "minuto": null,
+  "frase_literal": "Fiquei oitenta dias de prisão.",
+  "literal": false,
+  "tema": "justica-stf",
+  "veredito": "impreciso",
+  "resumo_uma_frase": "Lula ficou 580 dias preso (abril de 2018 a novembro de 2019).",
+  "explicacao_simples": [
+    "Lula, na sabatina do Jornal Nacional (27/8/2026), afirmou (em paráfrase registrada por Ranking dos Políticos) que fiquei oitenta dias de prisão.",
+    "O Ranking registrou a menção a 'oitenta dias' e apontou que a prisão durou 580 dias; é possível erro de transcrição.",
+    "Há um erro de detalhe (número, data ou instituição) que não muda o sentido geral; por isso a classificação é 'impreciso'."
+  ],
+  "o_que_e_verdade": [
+    "Lula ficou preso e as condenações foram anuladas."
+  ],
+  "o_que_nao_se_sustenta": [
+    "Foram 580 dias de prisão, não 80."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Dias de prisão de Lula",
+      "valor": 580,
+      "unidade": "dias",
+      "periodo": "abr/2018–nov/2019",
+      "fonte": {
+        "nome": "Ranking dos Políticos",
+        "url": "https://ranking.org.br/en/articles/checagem-sabatina-jornal-nacional-2026-2",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      }
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Ranking dos Políticos",
+      "veredito_original": "PARCIAL",
+      "url": "https://ranking.org.br/en/articles/checagem-sabatina-jornal-nacional-2026-2",
+      "data": "2026-08-28"
+    }
+  ],
+  "checagem_slug": null,
+  "historia_id": "prisao-de-lula",
+  "fontes": [
+    {
+      "nome": "Ranking dos Políticos",
+      "url": "https://ranking.org.br/en/articles/checagem-sabatina-jornal-nacional-2026-2",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
+  "atualizado_em": "2026-10-21",
+  "lacunas": [
+    "Possível divergência de transcrição ('oitenta' pode ser trecho de '580')."
+  ]
+}

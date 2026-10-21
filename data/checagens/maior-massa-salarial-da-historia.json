@@ -1,0 +1,216 @@
+{
+  "id": "chk-1034",
+  "slug": "maior-massa-salarial-da-historia",
+  "frase": "Temos a maior massa salarial da história",
+  "frase_normalizada": "A massa de rendimentos do trabalho está no maior nível da série do IBGE",
+  "variantes": [
+    "Massa salarial recorde"
+  ],
+  "autor": {
+    "nome": "Luiz Inácio Lula da Silva",
+    "partido": "PT",
+    "cargo": "presidente da República e candidato à reeleição"
+  },
+  "lado": "governo-lula-pt",
+  "alvo": null,
+  "data": "2026-04-14",
+  "onde": "Entrevista a DCM, Fórum e Brasil 247 (14/04/2026)",
+  "url_declaracao": "https://www.agencialupa.org/checagem/2026/04/14/lula-exagera-ao-falar-de-empregos-e-erra-sobre-preco-de-combustiveis-no-brasil/",
+  "temas": [
+    "emprego-renda",
+    "eleicao-2026"
+  ],
+  "tags": [
+    "massa-salarial",
+    "rendimento",
+    "pnad"
+  ],
+  "veredito": "verdadeiro",
+  "resumo_uma_frase": "A massa de rendimento real habitual da PNAD Contínua foi de R$ 371,1 bilhões no trimestre até fev/2026 (usado pela Lupa) e R$ 385,6 bilhões no trimestre jun-ago/2026, maiores valores da série iniciada em 2012, com rendimento médio de R$ 3.777.",
+  "explicacao_simples": [
+    "A soma dos rendimentos de todos os trabalhadores, medida pelo IBGE, chegou a R$ 371,1 bilhões no trimestre até fevereiro de 2026 e a R$ 385,6 bilhões no trimestre até agosto, recordes da série.",
+    "O rendimento médio real também bateu recorde, com R$ 3.777 no trimestre até agosto de 2026, e a população ocupada chegou a 103,5 milhões.",
+    "A série da PNAD Contínua começa em 2012, por isso 'história' significa 'desde 2012'."
+  ],
+  "explicacao_completa_md": "## Os dados\n\n- Massa de rendimento real habitual (SIDRA 6392): R$ 371,092 bilhões no trimestre até fev/2026 ('maior da série', usado pela Lupa) e R$ 385,566 bilhões em jun-ago/2026 (+4,8% em um ano).\n- Média anual de 2025: R$ 361,7 bilhões (+7,5%, +R$ 25,4 bilhões sobre 2024).\n- Rendimento médio real habitual: R$ 3.560 na média de 2025; R$ 3.777 em jun-ago/2026; pico de R$ 3.804 em jan-mar/2026.\n- O rendimento médio só superou de forma consistente o nível de 2014 (R$ 3.341 no 4T) a partir de 2023; sob Temer e Bolsonaro ficou estagnado ou abaixo.\n\n## Ressalva\n\nA série começa em 2012. Além disso, a renda recorde convive com endividamento e inadimplência também recordes (81,6% das famílias endividadas em mai/2026; 83,9 milhões de negativados em ago/2026).",
+  "o_que_e_verdade": [
+    "A massa de rendimentos (R$ 371,1 bilhões até fev/2026; R$ 385,6 bilhões até ago/2026) e o rendimento médio (R$ 3.777) são recordes da PNAD Contínua.",
+    "A massa cresceu 7,5% em 2025 e 4,8% em 12 meses até ago/2026."
+  ],
+  "o_que_nao_se_sustenta": [
+    "'História' significa 'desde 2012', início da PNAD Contínua.",
+    "Renda recorde convive com endividamento das famílias (49,9% da renda) e inadimplência (5,04%) também recordes."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Mercado de trabalho (ocupação recorde e desemprego mínimo)",
+      "papel": "mais pessoas empregadas elevam a massa",
+      "peso": "alto"
+    },
+    {
+      "ator": "Governo federal (salário mínimo com ganho real, transferências)",
+      "papel": "eleva o piso dos rendimentos",
+      "peso": "medio"
+    },
+    {
+      "ator": "Inflação em queda em 2025",
+      "papel": "eleva o rendimento real",
+      "peso": "medio"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Massa de rendimento real habitual",
+      "valor": 371.092,
+      "unidade": "R$ bilhões",
+      "periodo": "trimestre até fev/2026",
+      "fonte": {
+        "nome": "Lupa – Lula exagera ao falar de empregos (14/04/2026)",
+        "url": "https://www.agencialupa.org/checagem/2026/04/14/lula-exagera-ao-falar-de-empregos-e-erra-sobre-preco-de-combustiveis-no-brasil/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Massa de rendimento real habitual",
+      "valor": 385.566,
+      "unidade": "R$ bilhões",
+      "periodo": "jun-ago/2026 (recorde)",
+      "fonte": {
+        "nome": "IBGE – SIDRA tabela 6392 (massa de rendimento real habitual)",
+        "url": "https://apisidra.ibge.gov.br/values/t/6392/n1/all/v/all/p/last%206",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "Variação em 12 meses (%)",
+        "valor": 4.8
+      }
+    },
+    {
+      "rotulo": "Massa de rendimento real habitual, média anual",
+      "valor": 361.7,
+      "unidade": "R$ bilhões",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "IBGE – Retrospectiva PNAD Contínua 2012-2025 (PDF, 30/01/2026)",
+        "url": "https://ftp.ibge.gov.br/Trabalho_e_Rendimento/Pesquisa_Nacional_por_Amostra_de_Domicilios_continua/Principais_destaques_PNAD_continua/2012_2025/PNAD_continua_retrospectiva_2012_2025.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "Variação sobre 2024 (%)",
+        "valor": 7.5
+      }
+    },
+    {
+      "rotulo": "Rendimento médio real habitual",
+      "valor": 3777,
+      "unidade": "R$",
+      "periodo": "jun-ago/2026",
+      "fonte": {
+        "nome": "IBGE – SIDRA tabela 6390 (rendimento médio real habitual)",
+        "url": "https://apisidra.ibge.gov.br/values/t/6390/n1/all/v/all/p/last%206",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "Pico jan-mar/2026",
+        "valor": 3804
+      }
+    },
+    {
+      "rotulo": "Rendimento médio real habitual, 4º trimestre",
+      "valor": 3341,
+      "unidade": "R$",
+      "periodo": "4T2014",
+      "fonte": {
+        "nome": "IBGE – SIDRA tabela 4099 (PNAD Contínua trimestral)",
+        "url": "https://apisidra.ibge.gov.br/values/t/4099/n1/all/v/all/p/all",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "4T2022",
+        "valor": 3310
+      }
+    }
+  ],
+  "series": [
+    "massa-rendimento-real",
+    "rendimento-medio-real",
+    "desemprego-pnad-trimestral"
+  ],
+  "checagens_externas": [
+    {
+      "veiculo": "Lupa",
+      "veredito_original": "VERDADEIRO",
+      "url": "https://www.agencialupa.org/checagem/2026/04/14/lula-exagera-ao-falar-de-empregos-e-erra-sobre-preco-de-combustiveis-no-brasil/",
+      "data": "2026-04-14"
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Lupa – Lula exagera ao falar de empregos (14/04/2026)",
+      "url": "https://www.agencialupa.org/checagem/2026/04/14/lula-exagera-ao-falar-de-empregos-e-erra-sobre-preco-de-combustiveis-no-brasil/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "IBGE – SIDRA tabela 6392 (massa de rendimento real habitual)",
+      "url": "https://apisidra.ibge.gov.br/values/t/6392/n1/all/v/all/p/last%206",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "IBGE – Retrospectiva PNAD Contínua 2012-2025 (PDF, 30/01/2026)",
+      "url": "https://ftp.ibge.gov.br/Trabalho_e_Rendimento/Pesquisa_Nacional_por_Amostra_de_Domicilios_continua/Principais_destaques_PNAD_continua/2012_2025/PNAD_continua_retrospectiva_2012_2025.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "IBGE – SIDRA tabela 6390 (rendimento médio real habitual)",
+      "url": "https://apisidra.ibge.gov.br/values/t/6390/n1/all/v/all/p/last%206",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "IBGE – SIDRA tabela 4099 (PNAD Contínua trimestral)",
+      "url": "https://apisidra.ibge.gov.br/values/t/4099/n1/all/v/all/p/all",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/03_emprego_renda_pobreza_social.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "O que é massa salarial?",
+      "resposta": "A soma do rendimento habitual de todas as pessoas ocupadas, em valores reais; sobe quando há mais empregados ou salários maiores."
+    },
+    {
+      "pergunta": "O rendimento médio já tinha sido tão alto?",
+      "resposta": "Não na série da PNAD Contínua: o pico anterior era 2014 (R$ 3.341 no 4º trimestre), só superado de forma consistente a partir de 2023."
+    },
+    {
+      "pergunta": "Por que as famílias estão endividadas se a renda é recorde?",
+      "resposta": "Juros altos (Selic de 14-15%, rotativo do cartão acima de 400% ao ano) elevaram o endividamento a 49,9% da renda e a inadimplência a 5,04% em 2026."
+    }
+  ],
+  "relacionadas": [
+    "menor-desemprego-da-historia",
+    "endividamento-das-familias-e-heranca-de-selic-alta",
+    "salario-minimo-compra-2-2-cestas-basicas"
+  ],
+  "lacunas": [
+    "Conferir no SIDRA qual deflator cada variável usa antes de publicar; a tabela 5436 traz mais de uma variante de deflacionamento."
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false
+}

@@ -1,0 +1,81 @@
+{
+  "id": "fala-0051",
+  "slug": "flavio-patrocinio-de-160-milhoes-a-huck",
+  "evento_id": "sabatina-jn-flavio-2026-08-28",
+  "candidato": "flavio-bolsonaro",
+  "lado": "oposicao-flavio-pl",
+  "minuto": null,
+  "frase_literal": "Um patrocínio de 160 milhões de reais para um programa do Luciano Huck aqui da Globo.",
+  "literal": true,
+  "tema": "corrupcao",
+  "veredito": "exagerado",
+  "resumo_uma_frase": "Não há evidência de pagamento desse valor; a PF indica cerca de R$ 109 milhões (R$ 83 milhões em mídia e R$ 26 milhões em contrato pessoal).",
+  "explicacao_simples": [
+    "Flávio Bolsonaro, na sabatina do Jornal Nacional (28/8/2026), disse: “Um patrocínio de 160 milhões de reais para um programa do Luciano Huck aqui da Globo”.",
+    "O Aos Fatos não encontrou evidência dos R$ 160 milhões; o Ranking apontou estimativa de mercado e, em 16/10, detalhou que a PF indica ~R$ 109 milhões (R$ 83 milhões de mídia + R$ 26 milhões de contrato pessoal).",
+    "O sentido geral tem base, mas o número ou a dimensão foram inflados; por isso a classificação é 'exagerado'."
+  ],
+  "o_que_e_verdade": [
+    "Houve patrocínio do Master a programa de Luciano Huck."
+  ],
+  "o_que_nao_se_sustenta": [
+    "O valor indicado pela PF é ~R$ 109 milhões, não R$ 160 milhões."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Patrocínio do Master ao programa de Huck (PF)",
+      "valor": 109,
+      "unidade": "R$ milhões",
+      "periodo": "2026",
+      "fonte": {
+        "nome": "Ranking dos Políticos",
+        "url": "https://ranking.org.br/en/articles/checagem-entrevista-flavio-bolsonaro-jornal-nacional-2-turno-2026",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": {
+        "rotulo": "Valor citado por Flávio",
+        "valor": 160
+      }
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Aos Fatos",
+      "veredito_original": "sem evidência",
+      "url": "https://aosfatos.org/noticias/checamos-flavio-bolsonaro-globo/",
+      "data": "2026-08-28"
+    },
+    {
+      "veiculo": "Ranking dos Políticos",
+      "veredito_original": "PARCIAL",
+      "url": "https://ranking.org.br/en/articles/veja-o-que-e-fato-e-o-que-e-fake-na-sabatina-de-flavio-bolsonaro-no-jornal-nacional",
+      "data": "2026-08-29"
+    }
+  ],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Aos Fatos",
+      "url": "https://aosfatos.org/noticias/checamos-flavio-bolsonaro-globo/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Ranking dos Políticos",
+      "url": "https://ranking.org.br/en/articles/veja-o-que-e-fato-e-o-que-e-fake-na-sabatina-de-flavio-bolsonaro-no-jornal-nacional",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Ranking dos Políticos",
+      "url": "https://ranking.org.br/en/articles/checagem-entrevista-flavio-bolsonaro-jornal-nacional-2-turno-2026",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
+  "atualizado_em": "2026-10-21"
+}

@@ -1,0 +1,946 @@
+{
+  "id": "pix-taxacao-janeiro-2025",
+  "titulo": "A 'taxação do Pix' de janeiro de 2025: o que a Receita fez, o que viralizou e o que aconteceu depois",
+  "pergunta_principal": "O governo tentou taxar o Pix em 2025? O que a norma da Receita realmente mudava e por que foi revogada?",
+  "resposta_curta": [
+    "Nenhum imposto sobre o Pix foi criado: a IN RFB 2.219/2024 apenas estendeu às fintechs a obrigação de informar à Receita o total movimentado por cliente (que os bancos já cumpriam) e elevou o piso de reporte mensal de R$ 2 mil/R$ 6 mil para R$ 5 mil (pessoa física)/R$ 15 mil (empresa).",
+    "Uma onda de desinformação começou em 06/01/2025 (vídeo do senador Cleitinho), explodiu com o vídeo de Nikolas Ferreira em 14/01/2025 (120 milhões de visualizações em 24 horas) e levou a Receita a revogar a norma em 15/01/2025; a MP 1.288/2025, que reafirmava a gratuidade e o sigilo do Pix, caducou sem votação em 02/06/2025.",
+    "Pesquisas mediram o efeito: 67% acreditavam que o Pix seria taxado (Quaest), a reprovação de Lula superou a aprovação pela primeira vez e o Datafolha registrou 24% de aprovação em fevereiro; em agosto de 2025 a Receita reeditou a obrigação para fintechs (IN 2.278) após a Operação Carbono Oculto, e o tema voltou à campanha de 2026."
+  ],
+  "periodo": {
+    "inicio": "2024-09-17",
+    "fim": "2026-10-13"
+  },
+  "temas": [
+    "pix",
+    "impostos",
+    "eleicao-2026"
+  ],
+  "personagens": [
+    {
+      "id": "nikolas-ferreira",
+      "nome": "Nikolas Ferreira",
+      "papel_na_historia": "Deputado federal cujo vídeo de 14/01/2025 viralizou (120 milhões de visualizações em 24h); voltou ao tema em jan/2026.",
+      "partido_atual": "PL"
+    },
+    {
+      "id": "cleitinho",
+      "nome": "Cleitinho",
+      "papel_na_historia": "Senador que postou em 06/01/2025 o vídeo que deu início à onda sobre a 'taxa do Pix'.",
+      "partido_atual": null
+    },
+    {
+      "id": "fernando-haddad",
+      "nome": "Fernando Haddad",
+      "papel_na_historia": "Ministro da Fazenda; negou a taxação em vídeo (09/01/2025) e articulou a revogação e a MP 1.288.",
+      "partido_atual": "PT"
+    },
+    {
+      "id": "lula",
+      "nome": "Luiz Inácio Lula da Silva",
+      "papel_na_historia": "Presidente; publicou vídeo negando a taxação em 10/01/2025; em ago/2025 disse que Nikolas 'defendeu o crime organizado'.",
+      "partido_atual": "PT"
+    },
+    {
+      "id": "flavio-bolsonaro",
+      "nome": "Flávio Bolsonaro",
+      "papel_na_historia": "Candidato à Presidência em 2026; nega que vá acabar com o Pix e promete 'Pix sem taxa'; afirma que 'o sonho do PT' é taxar o Pix.",
+      "partido_atual": "PL"
+    },
+    {
+      "id": "receita-federal",
+      "nome": "Receita Federal",
+      "papel_na_historia": "Órgão que editou a IN 2.219/2024, revogou-a (IN 2.247/2025) e reeditou a obrigação para fintechs (IN 2.278/2025).",
+      "partido_atual": null
+    },
+    {
+      "id": "paulo-guedes",
+      "nome": "Paulo Guedes",
+      "papel_na_historia": "Ministro da Economia de Bolsonaro que defendeu em 2020 um 'imposto sobre transações digitais' (~0,2%), inclusive sobre Pix.",
+      "partido_atual": null
+    },
+    {
+      "id": "erika-hilton",
+      "nome": "Erika Hilton",
+      "papel_na_historia": "Deputada que publicou vídeo-resposta a Nikolas (18/01/2025) e acionou o MPF.",
+      "partido_atual": "PSOL"
+    }
+  ],
+  "capitulos": [
+    {
+      "id": "1",
+      "titulo": "O que a IN RFB 2.219/2024 realmente fazia",
+      "periodo": "2024-09-17 a 2025-01",
+      "texto_md": "A IN RFB 2.219/2024 (17/09/2024) exigiria que fintechs e operadoras de crédito enviassem a e-Financeira com informações agregadas sobre movimentações (incluindo Pix) a partir de janeiro de 2025, com limites de R$ 5 mil (PF) e R$ 15 mil (PJ) por mês. O relatório seria semestral e cobriria o total movimentado por CPF/CNPJ, não cada transação. A Receita afirmou que a norma 'apenas estende às fintechs as obrigações de transparência já aplicadas aos bancos' e que a Constituição 'proíbe a tributação de movimentações financeiras'. A Febraban (14/01/2025) disse que a IN 'não exige nenhuma nova responsabilidade dos usuários do Pix'. O piso de R$ 5 mil era mais alto (menos pessoas reportadas) que o de R$ 2 mil que já valia para bancos. Em 2020, Paulo Guedes (governo Bolsonaro) defendera um 'imposto sobre transações digitais' nos moldes da 'extinta CPMF', alíquota ~0,2%, inclusive sobre Pix.",
+      "eventos": [
+        {
+          "data": "2020",
+          "fato": "Paulo Guedes defende 'imposto sobre transações digitais' nos moldes da extinta CPMF, alíquota ~0,2%, inclusive sobre Pix.",
+          "citacao_literal": null,
+          "literal": false,
+          "quem_disse": "Paulo Guedes",
+          "url": "https://www.poder360.com.br/economia/paulo-guedes-diz-que-nao-desistiu-do-imposto-sobre-transacoes-digitais/",
+          "tipo": "declaracao"
+        },
+        {
+          "data": "2024-09-17",
+          "fato": "Receita edita a IN RFB 2.219/2024: fintechs passam a enviar a e-Financeira; piso de R$ 5 mil (PF) e R$ 15 mil (PJ) por mês; vigência a partir de jan/2025.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://blog.econeteditora.com.br/revogacao-das-regras-de-monitoramento-do-pix-o-que-voce-precisa-saber/",
+          "tipo": "documento"
+        },
+        {
+          "data": "2025-01",
+          "fato": "Receita: a norma 'apenas estende às fintechs as obrigações de transparência já aplicadas aos bancos'; a Constituição 'proíbe a tributação de movimentações financeiras'.",
+          "citacao_literal": "apenas estende às fintechs as obrigações de transparência já aplicadas aos bancos",
+          "literal": true,
+          "quem_disse": "Receita Federal",
+          "url": "https://borainvestir.b3.com.br/noticias/receita-federal-volta-a-negar-taxacao-do-pix-e-alerta-para-golpes/",
+          "tipo": "declaracao"
+        },
+        {
+          "data": "2025-01-14",
+          "fato": "Febraban: a IN 'não exige nenhuma nova responsabilidade dos usuários do Pix'; regras do Pix inalteradas.",
+          "citacao_literal": "não exige nenhuma nova responsabilidade dos usuários do Pix",
+          "literal": true,
+          "quem_disse": "Febraban",
+          "url": "https://www.jornalopcao.com.br/ultimas-noticias/pix-permanece-gratuito-e-sem-alteracoes-reforca-febraban-671455/",
+          "tipo": "declaracao"
+        }
+      ],
+      "o_que_a_acusacao_dizia": null,
+      "o_que_a_defesa_dizia": null,
+      "numeros": [
+        {
+          "rotulo": "Piso mensal de reporte para pessoa física (IN 2.219)",
+          "valor": 5000,
+          "unidade": "R$",
+          "periodo": "2025-01",
+          "fonte": {
+            "nome": "Econet",
+            "url": "https://blog.econeteditora.com.br/revogacao-das-regras-de-monitoramento-do-pix-o-que-voce-precisa-saber/",
+            "acesso_em": "2026-10-21",
+            "tier": "imprensa"
+          },
+          "comparacao": {
+            "rotulo": "piso anterior para bancos (PF)",
+            "valor": 2000
+          }
+        },
+        {
+          "rotulo": "Piso mensal de reporte para empresa (IN 2.219)",
+          "valor": 15000,
+          "unidade": "R$",
+          "periodo": "2025-01",
+          "fonte": {
+            "nome": "Econet",
+            "url": "https://blog.econeteditora.com.br/revogacao-das-regras-de-monitoramento-do-pix-o-que-voce-precisa-saber/",
+            "acesso_em": "2026-10-21",
+            "tier": "imprensa"
+          },
+          "comparacao": {
+            "rotulo": "piso anterior para bancos (PJ)",
+            "valor": 6000
+          }
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "titulo": "A onda (06 a 18/01/2025): Cleitinho, golpes, vídeo com IA e o vídeo de Nikolas",
+      "periodo": "2025-01-06 a 2025-01-18",
+      "texto_md": "Cleitinho postou vídeo em 06/01 sugerindo 'taxa do Pix'; a Receita emitiu nota em 08/01; Haddad (09/01) e Lula (10/01) publicaram vídeos negando. Em 10/01 a Receita alertou para golpes: mensagens falsas com nome e logo do órgão cobrando 'taxa' sobre Pix acima de R$ 5 mil, com boleto e ameaça de bloqueio de CPF; boatos citavam alíquota de 27,5% e multa de 150%. Um vídeo com IA adulterando a voz de Haddad ('taxar tudo', imposto sobre pets) foi checado como falso e a AGU agiu. Em 14/01/2025 (terça-feira) Nikolas Ferreira publicou vídeo que teve 120 milhões de visualizações em 24h (129 mi de plays, 3,6 mi de curtidas e 224 mil comentários às 9h de 15/01 no Instagram), 285 milhões em 16/01 e 'mais de 300 milhões em dois dias' (UFPR); 5,3 milhões de menções nas redes e 88% da população souberam do debate. Erika Hilton publicou vídeo-resposta no mesmo formato (18/01). Comerciantes passaram a recusar Pix (no Brás, vendedor passou a aceitar só dinheiro). A data correta do vídeo de Nikolas é 14/01, não 10/01. Não há evidência de papel relevante de Pablo Marçal ou Carla Zambelli; as fontes citam Cleitinho (gatilho), Nikolas (pico) e um vídeo de Flávio Bolsonaro criticando o 'monitoramento'.",
+      "eventos": [
+        {
+          "data": "2025-01-06",
+          "fato": "Senador Cleitinho posta vídeo sugerindo 'taxa do Pix'.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": "Cleitinho",
+          "url": "https://www.jornalopcao.com.br/ultimas-noticias/video-de-nikolas-ferreira-gera-53-milhoes-de-mencoes-88-das-pessoas-souberam-sobre-o-debate-do-pix-672764/",
+          "tipo": "rede-social"
+        },
+        {
+          "data": "2025-01-08",
+          "fato": "Receita emite nota negando taxação.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://www.jornalopcao.com.br/ultimas-noticias/video-de-nikolas-ferreira-gera-53-milhoes-de-mencoes-88-das-pessoas-souberam-sobre-o-debate-do-pix-672764/",
+          "tipo": "documento"
+        },
+        {
+          "data": "2025-01-09",
+          "fato": "Haddad publica vídeo negando a taxação; Aos Fatos: 'É falso que Pix acima de R$ 5.000 será taxado pela Receita Federal'.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": "Fernando Haddad",
+          "url": "https://www.aosfatos.org/noticias/desinformacao-desvincular-nikolas-mentiras-taxacao-pix/",
+          "tipo": "declaracao"
+        },
+        {
+          "data": "2025-01-10",
+          "fato": "Lula publica vídeo negando a taxação; Receita alerta para golpes com boletos falsos; boatos citam alíquota de 27,5% e multa de 150%.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": "Lula / Receita Federal",
+          "url": "https://jornalopcao.com.br/ultimas-noticias/receita-federal-desmente-cobranca-de-taxas-sobre-o-pix-e-alerta-para-fraude-670509/",
+          "tipo": "declaracao"
+        },
+        {
+          "data": "2025-01",
+          "fato": "Vídeo com IA adulterando a voz de Haddad ('taxar tudo', imposto sobre pets) circula e é checado como falso; AGU age contra a peça.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://www.aosfatos.org/noticias/mentiras-virais-pix-agenda-economica-2025/",
+          "tipo": "documento"
+        },
+        {
+          "data": "2025-01-14",
+          "fato": "Nikolas Ferreira publica vídeo que atinge 120 milhões de visualizações em 24h.",
+          "citacao_literal": "Não, o Pix não será taxado, mas não duvido que possa ser",
+          "literal": true,
+          "quem_disse": "Nikolas Ferreira",
+          "url": "https://www.infomoney.com.br/politica/video-de-nikolas-ferreira-sobre-pix-viraliza-nas-redes-sociais-governo-nega-mudancas/",
+          "tipo": "rede-social"
+        },
+        {
+          "data": "2025-01-14",
+          "fato": "Nikolas Ferreira, no mesmo vídeo.",
+          "citacao_literal": "Se a gente não parar o Lula, ele vai parar o Brasil",
+          "literal": true,
+          "quem_disse": "Nikolas Ferreira",
+          "url": "https://www.infomoney.com.br/politica/video-de-nikolas-ferreira-sobre-pix-viraliza-nas-redes-sociais-governo-nega-mudancas/",
+          "tipo": "rede-social"
+        },
+        {
+          "data": "2025-01-16",
+          "fato": "Vídeo de Nikolas chega a 285 milhões de visualizações; 'mais de 300 milhões em dois dias' (UFPR); 5,3 milhões de menções; 88% souberam do debate.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://portaldeprefeitura.com.br/bastidores-da-politica/video-de-nikolas-ferreira-sobre-pix-chega-a-285-mi-de-visualizacoes/587479/",
+          "tipo": "fato"
+        },
+        {
+          "data": "2025-01-16",
+          "fato": "Comerciantes recusam Pix; no Brás (SP), vendedor passa a aceitar só dinheiro em espécie.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://edicao.correiobraziliense.com.br/correiobraziliense/2025/01/16/1352c2/pdf/A02-POL-1601-DIG.pdf",
+          "tipo": "fato"
+        },
+        {
+          "data": "2025-01-18",
+          "fato": "Erika Hilton publica vídeo-resposta no mesmo formato defendendo a fiscalização.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": "Erika Hilton",
+          "url": "https://www.band.com.br/noticias/erika-hilton-adota-mesmo-modelo-de-video-de-nikolas-ferreira-para-defender-fiscalizacao-do-pix-202501181903",
+          "tipo": "rede-social"
+        },
+        {
+          "data": "2025-08-29",
+          "fato": "Aos Fatos: o vídeo foi gravado um dia antes da revogação; Nikolas omitiu que bancos já reportavam movimentações desde 2001; 'enganosas' as alegações de que o vídeo não falava em taxação.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://www.aosfatos.org/noticias/desinformacao-desvincular-nikolas-mentiras-taxacao-pix/",
+          "tipo": "documento"
+        },
+        {
+          "data": "2026",
+          "fato": "Estudo acadêmico (UFPR) sobre checagens de Lupa e Aos Fatos: o vídeo 'tratava de fiscalização bancária e não cita explicitamente um novo imposto', por isso classificado como enganoso e não apenas falso.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://revistas.ufpr.br/acaomidiatica/article/view/100911",
+          "tipo": "documento"
+        }
+      ],
+      "o_que_a_acusacao_dizia": "Governo, Receita e checadores: não havia imposto; o vídeo omitiu que bancos já reportavam e induziu ao erro (enganoso); golpistas se aproveitaram.",
+      "o_que_a_defesa_dizia": "Nikolas e aliados: o vídeo não disse que o Pix seria taxado ('não duvido que possa ser'); criticava o monitoramento da Receita.",
+      "numeros": [
+        {
+          "rotulo": "Visualizações do vídeo de Nikolas em 24h",
+          "valor": 120,
+          "unidade": "milhões",
+          "periodo": "2025-01-15",
+          "fonte": {
+            "nome": "InfoMoney",
+            "url": "https://www.infomoney.com.br/politica/video-de-nikolas-ferreira-sobre-pix-viraliza-nas-redes-sociais-governo-nega-mudancas/",
+            "acesso_em": "2026-10-21",
+            "tier": "imprensa"
+          }
+        },
+        {
+          "rotulo": "Visualizações em 16/01/2025",
+          "valor": 285,
+          "unidade": "milhões",
+          "periodo": "2025-01-16",
+          "fonte": {
+            "nome": "Portal de Prefeitura",
+            "url": "https://portaldeprefeitura.com.br/bastidores-da-politica/video-de-nikolas-ferreira-sobre-pix-chega-a-285-mi-de-visualizacoes/587479/",
+            "acesso_em": "2026-10-21",
+            "tier": "imprensa"
+          }
+        },
+        {
+          "rotulo": "Menções nas redes",
+          "valor": 5.3,
+          "unidade": "milhões",
+          "periodo": "2025-01",
+          "fonte": {
+            "nome": "Jornal Opção",
+            "url": "https://www.jornalopcao.com.br/ultimas-noticias/video-de-nikolas-ferreira-gera-53-milhoes-de-mencoes-88-das-pessoas-souberam-sobre-o-debate-do-pix-672764/",
+            "acesso_em": "2026-10-21",
+            "tier": "imprensa"
+          }
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "titulo": "Revogação (15/01/2025) e a MP 1.288 que caducou",
+      "periodo": "2025-01-15 a 2025-06-02",
+      "texto_md": "A IN RFB 2.247, de 15/01/2025 (DOU edição extra de 16/01), revogou a IN 2.219/2024 e revalidou as instruções anteriores: os limites de reporte voltaram a R$ 2 mil (PF) e R$ 6 mil (PJ) e as instituições de pagamento deixaram de ser obrigadas a enviar a e-Financeira; o Decred (cartões) foi mantido. Haddad: revogar o ato da Receita 'é para que não haja justificativa para não votar a MP'. A MP 1.288/2025 (16/01/2025) reafirmou gratuidade, sigilo e não tributação do Pix, equiparou pagamento em Pix a dinheiro e classificou como prática abusiva cobrar mais por pagamento via Pix. Sua vigência 'encerrou-se em 2/6/2025, por perda de eficácia sem apreciação pelas Casas do Congresso Nacional'. Depois, o senador Carlos Portinho (PL-RJ) apresentou o PL 4526/2025 com conteúdo semelhante; não foi encontrada lei aprovada sobre o tema até 21/10/2026.",
+      "eventos": [
+        {
+          "data": "2025-01-15",
+          "fato": "Receita revoga a IN 2.219/2024 (IN RFB 2.247/2025); limites voltam a R$ 2 mil/R$ 6 mil; fintechs deixam de enviar a e-Financeira.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://sintse.tse.jus.br/documentos/2025/Jan/16/diario-oficial-da-uniao-secao-1-edicao-extra/secretaria-especial-da-receita-federal-do-brasil-instrucao-normativa-no-2-247-de-15-de-janeiro-de",
+          "tipo": "documento"
+        },
+        {
+          "data": "2025-01-15",
+          "fato": "Haddad sobre a revogação.",
+          "citacao_literal": "é para que não haja justificativa para não votar a MP",
+          "literal": true,
+          "quem_disse": "Fernando Haddad",
+          "url": "https://www.opovo.com.br/noticias/economia/2025/01/15/haddad-revogar-ato-da-receita-e-para-que-nao-haja-justificativa-para-nao-votar-mp.html",
+          "tipo": "declaracao"
+        },
+        {
+          "data": "2025-01-16",
+          "fato": "Governo edita a MP 1.288/2025: gratuidade, sigilo e não tributação do Pix; Pix equiparado a dinheiro; cobrar mais por Pix vira prática abusiva.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://www.congressoemfoco.com.br/noticia/106160/governo-edita-mp-que-reforca-proibicao-de-taxacao-do-pix-veja-a-integra",
+          "tipo": "documento"
+        },
+        {
+          "data": "2025-06-02",
+          "fato": "MP 1.288/2025 perde a eficácia sem apreciação pelo Congresso; comissão mista extinta.",
+          "citacao_literal": "encerrou-se em 2/6/2025, por perda de eficácia sem apreciação pelas Casas do Congresso Nacional",
+          "literal": true,
+          "quem_disse": "Congresso Nacional (tramitação)",
+          "url": "https://www.congressonacional.leg.br/materias/medidas-provisorias/-/mpv/166983/pdf",
+          "tipo": "fato"
+        },
+        {
+          "data": "2025-09",
+          "fato": "Senador Carlos Portinho (PL-RJ) apresenta o PL 4526/2025 com conteúdo semelhante ao da MP.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://static.congressoemfoco.com.br/attachment/2025/09/15/3a1f49_documento.pdf",
+          "tipo": "documento"
+        }
+      ],
+      "o_que_a_acusacao_dizia": null,
+      "o_que_a_defesa_dizia": null,
+      "numeros": []
+    },
+    {
+      "id": "4",
+      "titulo": "Efeitos medidos: uso do Pix, pesquisas e aprovação do governo",
+      "periodo": "2025-01-04 a 2025-02-14",
+      "texto_md": "Uso do Pix (BC): 4-10/01/2025, queda de 10,9% vs. mesmo período de dezembro; 1-14/01, 2,29 bilhões de transações, -15,3%, maior queda para primeira quinzena desde a criação (nov/2020); mês cheio de jan/2025 = 5,06 bi (vs. 5,17 bi em nov/2024), -11,4% dez-jan contra -8,6% no ano anterior (Folha). O BC afirmou que o 'movimento do Pix está dentro da variação sazonal de início de ano'; o efeito líquido atribuível à desinformação seria da ordem de 3 pontos percentuais no mês. Quaest (15-17/01, ~1.200 entrevistas): 67% acreditavam que o governo cobraria imposto sobre o Pix; 87% tiveram contato com a informação falsa. Quaest (27/01): reprovação de Lula 49% (47% em dez/2024) x aprovação 47%, primeira vez no mandato; 66% disseram que o governo errou mais na condução. Datafolha (10-11/02, 2.007 entrevistas): aprovação 24%, reprovação 41%, pior dos três mandatos, com alta de alimentos também citada. A AGU (Jorge Messias) anunciou que notificaria a PF para identificar autores; Rogério Correia (PT-MG) representou à PGR contra Nikolas; Erika Hilton acionou o MPF; Boulos anunciou ação. Não há confirmação de inquérito formal ou decisão sobre Nikolas. Em 29/08/2025 Lula disse que Nikolas 'defendeu o crime organizado' com o vídeo (contexto: Operação Carbono Oculto); o deputado ameaçou processo.",
+      "eventos": [
+        {
+          "data": "2025-01-14",
+          "fato": "BC: 1-14/01, 2,29 bilhões de transações Pix, -15,3% vs. igual período de dezembro, maior queda para primeira quinzena desde a criação.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://www.bahianoticias.com.br/noticia/300354-pix-tem-maior-queda-no-volume-de-transferencias-desde-sua-criacao",
+          "tipo": "fato"
+        },
+        {
+          "data": "2025-01-16",
+          "fato": "AGU (Jorge Messias) anuncia que notificará a PF para abrir inquérito e identificar autores da desinformação.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://edicao.correiobraziliense.com.br/correiobraziliense/2025/01/16/1352c2/pdf/A03-POL-1601-DIG.pdf",
+          "tipo": "fato"
+        },
+        {
+          "data": "2025-01-17",
+          "fato": "Quaest: 67% acreditam que o governo cobrará imposto sobre o Pix; 87% tiveram contato com a informação falsa.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://jornalcontabil.com.br/noticia/uma-pesquisa-revela-que-67-dos-brasileiros-acreditam-que-o-governo-ira-taxar-o-pix/",
+          "tipo": "documento"
+        },
+        {
+          "data": "2025-01-27",
+          "fato": "Quaest: reprovação de Lula 49% x aprovação 47%, primeira inversão do mandato; 66% dizem que o governo errou mais na condução.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://euqueroinvestir.com/economia/desaprovacao-a-lula-sobe-para-49-apos-crise-do-pix-mostra-quaest",
+          "tipo": "documento"
+        },
+        {
+          "data": "2025-02",
+          "fato": "BC sobre janeiro: 5,06 bi de transações (-11,4% dez-jan, contra -8,6% no ano anterior).",
+          "citacao_literal": "movimento do Pix está dentro da variação sazonal de início de ano",
+          "literal": true,
+          "quem_disse": "Banco Central",
+          "url": "https://jornaldebrasilia.com.br/noticias/economia/transacoes-por-pix-diminuem-em-janeiro-marcado-por-crise-mas-dentro-do-esperado-pelo-bc/",
+          "tipo": "declaracao"
+        },
+        {
+          "data": "2025-02-14",
+          "fato": "Datafolha (10-11/02): aprovação de Lula 24%, reprovação 41%; pior dos três mandatos.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://www.infomoney.com.br/?p=2763445",
+          "tipo": "documento"
+        },
+        {
+          "data": "2025-08-29",
+          "fato": "Lula diz que Nikolas 'defendeu o crime organizado' com o vídeo do Pix (contexto: Operação Carbono Oculto); Nikolas ameaça processo.",
+          "citacao_literal": null,
+          "literal": false,
+          "quem_disse": "Lula",
+          "url": "https://www.opovo.com.br/noticias/politica/2025/08/29/lula-acusa-nikolas-de-defender-crime-organizado-com-video-do-pix-deputado-ameaca-processo.html",
+          "tipo": "declaracao"
+        }
+      ],
+      "o_que_a_acusacao_dizia": null,
+      "o_que_a_defesa_dizia": null,
+      "numeros": [
+        {
+          "rotulo": "Acreditavam que o Pix seria taxado (Quaest)",
+          "valor": 67,
+          "unidade": "%",
+          "periodo": "2025-01-15 a 17",
+          "fonte": {
+            "nome": "Jornal Contábil",
+            "url": "https://jornalcontabil.com.br/noticia/uma-pesquisa-revela-que-67-dos-brasileiros-acreditam-que-o-governo-ira-taxar-o-pix/",
+            "acesso_em": "2026-10-21",
+            "tier": "imprensa"
+          }
+        },
+        {
+          "rotulo": "Tiveram contato com a informação falsa (Quaest)",
+          "valor": 87,
+          "unidade": "%",
+          "periodo": "2025-01",
+          "fonte": {
+            "nome": "Folha PE",
+            "url": "https://www.folhape.com.br/noticias/fake-news-sobre-pix-alcancou-87-dos-brasileiros-aponta-pesquisa/385406/",
+            "acesso_em": "2026-10-21",
+            "tier": "imprensa"
+          }
+        },
+        {
+          "rotulo": "Queda do Pix na 1ª quinzena vs. dezembro (BC)",
+          "valor": -15.3,
+          "unidade": "%",
+          "periodo": "2025-01-01 a 14",
+          "fonte": {
+            "nome": "Bahia Notícias",
+            "url": "https://www.bahianoticias.com.br/noticia/300354-pix-tem-maior-queda-no-volume-de-transferencias-desde-sua-criacao",
+            "acesso_em": "2026-10-21",
+            "tier": "imprensa"
+          }
+        },
+        {
+          "rotulo": "Queda dez-jan do Pix (mês cheio)",
+          "valor": -11.4,
+          "unidade": "%",
+          "periodo": "2025-01",
+          "fonte": {
+            "nome": "Jornal de Brasília",
+            "url": "https://jornaldebrasilia.com.br/noticias/economia/transacoes-por-pix-diminuem-em-janeiro-marcado-por-crise-mas-dentro-do-esperado-pelo-bc/",
+            "acesso_em": "2026-10-21",
+            "tier": "imprensa"
+          },
+          "comparacao": {
+            "rotulo": "queda dez-jan no ano anterior",
+            "valor": -8.6
+          }
+        },
+        {
+          "rotulo": "Aprovação de Lula (Datafolha)",
+          "valor": 24,
+          "unidade": "%",
+          "periodo": "2025-02-10 a 11",
+          "fonte": {
+            "nome": "InfoMoney",
+            "url": "https://www.infomoney.com.br/?p=2763445",
+            "acesso_em": "2026-10-21",
+            "tier": "imprensa"
+          }
+        },
+        {
+          "rotulo": "Reprovação de Lula (Quaest)",
+          "valor": 49,
+          "unidade": "%",
+          "periodo": "2025-01-27",
+          "fonte": {
+            "nome": "Eu Quero Investir",
+            "url": "https://euqueroinvestir.com/economia/desaprovacao-a-lula-sobe-para-49-apos-crise-do-pix-mostra-quaest",
+            "acesso_em": "2026-10-21",
+            "tier": "imprensa"
+          }
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "titulo": "A regra volta (IN 2.278, ago/2025) e o Pix na campanha de 2026",
+      "periodo": "2025-08-28 a 2026-10-13",
+      "texto_md": "Em 28/08/2025 (DOU 29/08), após as operações Carbono Oculto, Quasar e Tank, a Receita editou a IN RFB 2.278/2025: instituições de pagamento, participantes de arranjos de pagamento e empresas de split payment passam a enviar a e-Financeira, com todas as contas de pagamento informadas, inclusive Pix, e dados retroativos a janeiro de 2025. As fintechs informam apenas o total movimentado por cliente, como os bancos. Ou seja, a regra 'revogada' em janeiro voltou em agosto com escopo até mais amplo, sem a reação de 2025; segue não havendo imposto. A Receita voltou a desmentir a 'taxa' em 29/12/2025 e em 14/01/2026, quando Nikolas publicou novos vídeos dizendo que a norma havia sido reeditada 'disfarçada' (a obrigação para fintechs de fato voltou, mas não há imposto); a Receita afirmou que a disseminação dessas mensagens 'atende a interesses do crime organizado'. Na campanha de 2026, o PT acusou Flávio de querer 'acabar com o Pix'; Flávio (02/04/2026) chamou isso de 'obviamente uma mentira', disse que 'o sonho do PT e do Lula é taxar o Pix' e prometeu (26/04) que o Pix 'vai continuar sendo dos brasileiros, sem taxa'. Em junho, Lula exibiu cartaz 'o PIX é do Brasil' e Flávio respondeu com cartaz 'do Brasil e do Bolsonaro'. O USTR concluiu que políticas brasileiras sobre o Pix prejudicam empresas americanas; Flávio prometeu 'defender o Pix' em viagem aos EUA (jul/2026). Em out/2026 Flávio criticou o 'Pix MEI' (Prospera MEI, repasses de até R$ 5 mil) como tentativa de 'comprar votos'. Nenhum dos dois candidatos propõe imposto sobre o Pix. Pix em 2025: ~80 bilhões de transações (+25,7%), R$ 35,36 trilhões, 148,3 milhões de pessoas físicas ativas.",
+      "eventos": [
+        {
+          "data": "2025-08-28",
+          "fato": "Receita edita a IN RFB 2.278/2025 (DOU 29/08): fintechs e instituições de pagamento passam a enviar a e-Financeira, inclusive Pix, com dados retroativos a jan/2025.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://www.mattosfilho.com.br/unico/instituicoes-pagamento-entregar-e-financeira/",
+          "tipo": "documento"
+        },
+        {
+          "data": "2025-12-29",
+          "fato": "Receita volta a desmentir a 'taxa' do Pix.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://www.canalrural.com.br/economia/fake-news-do-pix-receita-volta-a-desmentir-cobranca-de-imposto-e-suposta-multa-de-150/",
+          "tipo": "documento"
+        },
+        {
+          "data": "2026-01",
+          "fato": "Nikolas publica novos vídeos afirmando que o governo monitoraria o Pix e que a norma revogada voltou 'disfarçada'; Rogério Correia aciona a AGU.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": "Nikolas Ferreira",
+          "url": "https://www.migalhas.com.br/quentes/447963/deputado-aciona-agu-contra-video-de-nikolas-sobre-pix",
+          "tipo": "rede-social"
+        },
+        {
+          "data": "2026-01-14",
+          "fato": "Nota da Receita: não há tributação nem fiscalização do Pix com esse objetivo; a IN 2.278 'apenas estende às fintechs as mesmas obrigações de transparência já aplicadas aos bancos'; a disseminação dessas mensagens 'atende a interesses do crime organizado'.",
+          "citacao_literal": "apenas estende às fintechs as mesmas obrigações de transparência já aplicadas aos bancos",
+          "literal": true,
+          "quem_disse": "Receita Federal",
+          "url": "https://mercadoeconsumo.com.br/15/01/2026/economia/receita-federal-volta-a-negar-taxacao-do-pix-e-alerta-para-golpes/",
+          "tipo": "documento"
+        },
+        {
+          "data": "2026-04-02",
+          "fato": "Flávio Bolsonaro: 'O PT dizendo que eu vou acabar com o Pix' é 'obviamente uma mentira'.",
+          "citacao_literal": "o sonho do PT e do Lula é taxar o Pix",
+          "literal": true,
+          "quem_disse": "Flávio Bolsonaro",
+          "url": "https://www.poder360.com.br/poder-eleicoes/flavio-bolsonaro-nega-que-vai-acabar-com-pix-se-for-eleito/",
+          "tipo": "declaracao"
+        },
+        {
+          "data": "2026-04-26",
+          "fato": "Vídeo de Flávio: Pix 'vai continuar sendo dos brasileiros, sem taxa'.",
+          "citacao_literal": "vai continuar sendo dos brasileiros, sem taxa",
+          "literal": true,
+          "quem_disse": "Flávio Bolsonaro",
+          "url": "https://www.poder360.com.br/poder-eleicoes/o-pix-e-nosso-e-sem-taxa-diz-flavio-em-novo-video/",
+          "tipo": "rede-social"
+        },
+        {
+          "data": "2026-06-03",
+          "fato": "Lula exibe cartaz 'o PIX é do Brasil' em ato em Goiás; no dia seguinte Flávio aparece com cartaz dizendo que o Pix é 'do Brasil e do Bolsonaro'.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://www.otempo.com.br/politica/2026/6/3/lula-e-flavio-bolsonaro-travam-guerra-pelo-pix",
+          "tipo": "fato"
+        },
+        {
+          "data": "2026-07",
+          "fato": "Flávio promete 'defender o Pix' em viagem aos EUA, após o USTR concluir que políticas brasileiras sobre o Pix prejudicam empresas americanas.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": "Flávio Bolsonaro",
+          "url": "https://www.em.com.br/politica/2026/07/7454983-flavio-bolsonaro-promete-defender-o-pix-em-viagem-aos-estados-unidos.html",
+          "tipo": "declaracao"
+        },
+        {
+          "data": "2026-10-13",
+          "fato": "Flávio critica o 'Pix MEI' (Prospera MEI, até R$ 5 mil a microempreendedores) como tentativa de 'comprar votos'.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": "Flávio Bolsonaro",
+          "url": "https://www.bahianoticias.com.br/noticia/322401-flavio-bolsonaro-critica-proposta-de-pix-para-meis-e-acusa-lula-de-tentar-comprar-o-voto-das-pessoas",
+          "tipo": "declaracao"
+        },
+        {
+          "data": "2025-12-31",
+          "fato": "Pix em 2025: ~79,8-80 bilhões de transações (+25,7%); R$ 35,36 trilhões; 148,3 milhões de PF ativas.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://metropoles.com/brasil/pix-bate-recorde-em-2025-e-movimenta-r-354-trilhoes",
+          "tipo": "fato"
+        }
+      ],
+      "o_que_a_acusacao_dizia": "PT/governo: a oposição espalhou a falsa 'taxa do Pix' e Flávio ameaçaria o Pix (acusação sem checagem independente localizada).",
+      "o_que_a_defesa_dizia": "Flávio: 'mentira' que acabará com o Pix; promete 'Pix sem taxa'; afirma que o PT quer taxá-lo (sem evidência de proposta).",
+      "numeros": [
+        {
+          "rotulo": "Transações Pix em 2025",
+          "valor": 80,
+          "unidade": "bilhões (aprox.)",
+          "periodo": "2025",
+          "fonte": {
+            "nome": "Metrópoles",
+            "url": "https://metropoles.com/brasil/pix-bate-recorde-em-2025-e-movimenta-r-354-trilhoes",
+            "acesso_em": "2026-10-21",
+            "tier": "imprensa"
+          }
+        },
+        {
+          "rotulo": "Valor movimentado via Pix em 2025",
+          "valor": 35.36,
+          "unidade": "R$ trilhões",
+          "periodo": "2025",
+          "fonte": {
+            "nome": "Metrópoles",
+            "url": "https://metropoles.com/brasil/pix-bate-recorde-em-2025-e-movimenta-r-354-trilhoes",
+            "acesso_em": "2026-10-21",
+            "tier": "imprensa"
+          }
+        }
+      ]
+    }
+  ],
+  "glossario_local": [
+    {
+      "termo": "Instrução Normativa (IN)",
+      "definicao_simples": "Ato administrativo da Receita que detalha obrigações já previstas em lei; não pode criar imposto. A IN 2.219/2024 tratava de envio de informações, não de tributo."
+    },
+    {
+      "termo": "e-Financeira",
+      "definicao_simples": "Declaração que bancos enviam à Receita com o total movimentado por cliente no período (sem detalhar quem pagou a quem). A IN 2.219 estenderia a obrigação às fintechs."
+    },
+    {
+      "termo": "Piso de reporte",
+      "definicao_simples": "Valor mínimo de movimentação mensal a partir do qual a instituição informa o total à Receita: era R$ 2 mil (PF) e R$ 6 mil (PJ) para bancos; a IN 2.219 fixava R$ 5 mil e R$ 15 mil para fintechs."
+    },
+    {
+      "termo": "Medida provisória (MP)",
+      "definicao_simples": "Norma do presidente com força de lei imediata que precisa ser votada pelo Congresso em até 120 dias; a MP 1.288/2025 'caducou' (perdeu a eficácia) em 02/06/2025 sem votação."
+    },
+    {
+      "termo": "CPMF",
+      "definicao_simples": "Contribuição sobre movimentação financeira que existiu de 1997 a 2007 por emenda constitucional; um tributo sobre o Pix exigiria nova emenda, não ato da Receita."
+    },
+    {
+      "termo": "Enganoso x falso (checagem)",
+      "definicao_simples": "A Aos Fatos classificou como falso que o Pix seria taxado e como 'enganosas' as alegações de que o vídeo de Nikolas não falava em taxação; estudo acadêmico nota que o vídeo tratava de fiscalização e não citava explicitamente um imposto."
+    }
+  ],
+  "o_que_cada_lado_diz_hoje": {
+    "lado_a": {
+      "lado": "oposicao-flavio-pl",
+      "quem": "Flávio Bolsonaro (PL), 02/04/2026",
+      "frase": "o sonho do PT e do Lula é taxar o Pix",
+      "literal": true,
+      "veredito": "insustentavel",
+      "explicacao": "Nenhum ato do governo Lula criou ou propôs imposto sobre o Pix: a IN 2.219/2024 tratava de reporte de informações e foi revogada; a MP 1.288/2025 reafirmava a não tributação; o programa de Lula para 2026 não propõe taxar o Pix. A única proposta de tributar transações digitais localizada na nota é a de Paulo Guedes (governo Bolsonaro), em 2020. A frase expressa uma suposição sobre intenções, sem evidência verificável.",
+      "checagem_slug": null
+    },
+    "lado_b": {
+      "lado": "governo-lula-pt",
+      "quem": "Lula (PT), 29/08/2025",
+      "frase": "Nikolas 'defendeu o crime organizado' com o vídeo do Pix",
+      "literal": false,
+      "veredito": "opiniao",
+      "explicacao": "É um juízo de valor feito no contexto da Operação Carbono Oculto (fintechs usadas pelo PCC), não uma afirmação factual checável. O que se pode verificar: o vídeo de Nikolas (14/01/2025) dizia 'Não, o Pix não será taxado, mas não duvido que possa ser' e omitia que bancos já reportavam movimentações; a Aos Fatos classificou como falso que o Pix seria taxado e como enganosas as alegações de que o vídeo não falava em taxação. Não há confirmação de inquérito ou decisão judicial sobre Nikolas pelo vídeo.",
+      "checagem_slug": null
+    }
+  },
+  "perguntas_frequentes": [
+    {
+      "pergunta": "O governo Lula tentou taxar o Pix?",
+      "resposta": "Não. A IN RFB 2.219/2024 não criou imposto: estendeu às fintechs a obrigação de enviar a e-Financeira (informação agregada do total movimentado por cliente), que os bancos já cumpriam, e elevou o piso de reporte de R$ 2 mil/R$ 6 mil para R$ 5 mil/R$ 15 mil por mês. A Receita afirmou que a Constituição 'proíbe a tributação de movimentações financeiras'."
+    },
+    {
+      "pergunta": "Pix acima de R$ 5 mil seria taxado?",
+      "resposta": "Não. R$ 5 mil era o piso mensal a partir do qual a fintech informaria à Receita o total movimentado (não cada Pix). A Aos Fatos classificou em 09/01/2025: 'É falso que Pix acima de R$ 5.000 será taxado pela Receita Federal'. Boatos falavam em alíquota de 27,5% e multa de 150%, e golpistas enviaram boletos falsos em nome da Receita."
+    },
+    {
+      "pergunta": "Por que a Receita revogou a norma?",
+      "resposta": "Sob a onda de desinformação, a Receita revogou a IN 2.219 em 15/01/2025 (IN 2.247/2025), um dia após o vídeo de Nikolas. Haddad disse que a revogação era 'para que não haja justificativa para não votar a MP' 1.288/2025, que reafirmava gratuidade, sigilo e não tributação do Pix; a MP caducou em 02/06/2025 sem votação."
+    },
+    {
+      "pergunta": "O vídeo de Nikolas mentiu?",
+      "resposta": "O vídeo (14/01/2025) dizia 'Não, o Pix não será taxado, mas não duvido que possa ser' e 'Se a gente não parar o Lula, ele vai parar o Brasil'. A Aos Fatos apontou que Nikolas omitiu que bancos já reportavam movimentações desde 2001 e classificou como 'enganosas' as alegações de que o vídeo não falava em taxação; um estudo acadêmico (UFPR) nota que o vídeo tratava de fiscalização e não citava explicitamente um novo imposto, razão de ter sido classificado como enganoso e não apenas falso."
+    },
+    {
+      "pergunta": "Qual foi o efeito da crise do Pix?",
+      "resposta": "Quaest (15-17/01/2025): 87% ouviram sobre o tema e 67% acreditavam que o Pix seria taxado. Quaest (27/01): reprovação de Lula 49% x aprovação 47%, primeira inversão do mandato. Datafolha (fev/2025): aprovação de 24%, a pior dos três mandatos. O uso do Pix caiu 10,9% a 15,3% na primeira quinzena vs. dezembro, mas o BC atribuiu a queda sobretudo à sazonalidade (-11,4% dez-jan contra -8,6% no ano anterior)."
+    },
+    {
+      "pergunta": "A regra voltou?",
+      "resposta": "Em parte. Em 28/08/2025, após a Operação Carbono Oculto, a Receita editou a IN 2.278/2025, que obriga fintechs e instituições de pagamento a enviar a e-Financeira (dados agregados, inclusive Pix, retroativos a jan/2025). Continua não havendo imposto; a Receita reiterou isso em 29/12/2025 e 14/01/2026, quando Nikolas voltou ao tema."
+    },
+    {
+      "pergunta": "Algum governo propôs taxar transações digitais?",
+      "resposta": "Sim: em 2020 Paulo Guedes (governo Bolsonaro) defendeu um 'imposto sobre transações digitais' nos moldes da extinta CPMF, com alíquota de cerca de 0,2%, inclusive sobre Pix; a ideia não avançou."
+    }
+  ],
+  "lacunas": [
+    "Textos da IN 1.571/2015 e da IN 2.219/2024 não localizados no site da Receita (só fontes secundárias).",
+    "Não localizadas diretamente as checagens de Lupa, Comprova, Estadão Verifica e G1 sobre a 'taxa do Pix' (apenas Aos Fatos e um artigo acadêmico sobre Lupa/Aos Fatos).",
+    "Sem confirmação de inquérito formal ou decisão do STF/PGR sobre Nikolas pelo vídeo do Pix.",
+    "Estatísticas do BC (SPI) para jan/2025 não acessadas na fonte primária; números vêm de reportagens.",
+    "Limite de reporte mensal vigente em 2026 não confirmado na IN 2.278/IN 1.571 (fontes divergem entre R$ 2 mil/R$ 6 mil e R$ 5 mil/R$ 15 mil).",
+    "Nenhum 'PL do Pix' aprovado após a caducidade da MP 1.288; só o PL 4526/2025 (Senado), sem status atual.",
+    "Não encontrada checagem independente de suposta peça do PT dizendo que Flávio taxaria o Pix 'em 25%'; detalhes do 'Vira Pix' de Flávio não localizados.",
+    "A frase de Lula de 29/08/2025 ('defendeu o crime organizado') é registrada pela imprensa; a formulação exata não foi reproduzida literalmente na nota."
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/12_pix_fake_news_e_impostos_quem_paga.md",
+  "atualizado_em": "2026-10-21",
+  "fontes": [
+    {
+      "nome": "Poder360",
+      "url": "https://www.poder360.com.br/economia/paulo-guedes-diz-que-nao-desistiu-do-imposto-sobre-transacoes-digitais/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Econet",
+      "url": "https://blog.econeteditora.com.br/revogacao-das-regras-de-monitoramento-do-pix-o-que-voce-precisa-saber/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "B3 Bora Investir",
+      "url": "https://borainvestir.b3.com.br/noticias/receita-federal-volta-a-negar-taxacao-do-pix-e-alerta-para-golpes/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Jornal Opção",
+      "url": "https://www.jornalopcao.com.br/ultimas-noticias/pix-permanece-gratuito-e-sem-alteracoes-reforca-febraban-671455/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Jornal Opção",
+      "url": "https://www.jornalopcao.com.br/ultimas-noticias/video-de-nikolas-ferreira-gera-53-milhoes-de-mencoes-88-das-pessoas-souberam-sobre-o-debate-do-pix-672764/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Aos Fatos",
+      "url": "https://www.aosfatos.org/noticias/desinformacao-desvincular-nikolas-mentiras-taxacao-pix/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Jornal Opção",
+      "url": "https://jornalopcao.com.br/ultimas-noticias/receita-federal-desmente-cobranca-de-taxas-sobre-o-pix-e-alerta-para-fraude-670509/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Aos Fatos",
+      "url": "https://www.aosfatos.org/noticias/mentiras-virais-pix-agenda-economica-2025/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "InfoMoney",
+      "url": "https://www.infomoney.com.br/politica/video-de-nikolas-ferreira-sobre-pix-viraliza-nas-redes-sociais-governo-nega-mudancas/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Portal de Prefeitura",
+      "url": "https://portaldeprefeitura.com.br/bastidores-da-politica/video-de-nikolas-ferreira-sobre-pix-chega-a-285-mi-de-visualizacoes/587479/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Correio Braziliense (edição impressa)",
+      "url": "https://edicao.correiobraziliense.com.br/correiobraziliense/2025/01/16/1352c2/pdf/A02-POL-1601-DIG.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Band",
+      "url": "https://www.band.com.br/noticias/erika-hilton-adota-mesmo-modelo-de-video-de-nikolas-ferreira-para-defender-fiscalizacao-do-pix-202501181903",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Revista Ação Midiática (UFPR)",
+      "url": "https://revistas.ufpr.br/acaomidiatica/article/view/100911",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    },
+    {
+      "nome": "Diário Oficial da União (via TSE)",
+      "url": "https://sintse.tse.jus.br/documentos/2025/Jan/16/diario-oficial-da-uniao-secao-1-edicao-extra/secretaria-especial-da-receita-federal-do-brasil-instrucao-normativa-no-2-247-de-15-de-janeiro-de",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "O Povo",
+      "url": "https://www.opovo.com.br/noticias/economia/2025/01/15/haddad-revogar-ato-da-receita-e-para-que-nao-haja-justificativa-para-nao-votar-mp.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Congresso em Foco",
+      "url": "https://www.congressoemfoco.com.br/noticia/106160/governo-edita-mp-que-reforca-proibicao-de-taxacao-do-pix-veja-a-integra",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Congresso Nacional",
+      "url": "https://www.congressonacional.leg.br/materias/medidas-provisorias/-/mpv/166983/pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Congresso em Foco (documento)",
+      "url": "https://static.congressoemfoco.com.br/attachment/2025/09/15/3a1f49_documento.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Bahia Notícias",
+      "url": "https://www.bahianoticias.com.br/noticia/300354-pix-tem-maior-queda-no-volume-de-transferencias-desde-sua-criacao",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Correio Braziliense (edição impressa)",
+      "url": "https://edicao.correiobraziliense.com.br/correiobraziliense/2025/01/16/1352c2/pdf/A03-POL-1601-DIG.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Jornal Contábil",
+      "url": "https://jornalcontabil.com.br/noticia/uma-pesquisa-revela-que-67-dos-brasileiros-acreditam-que-o-governo-ira-taxar-o-pix/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Eu Quero Investir",
+      "url": "https://euqueroinvestir.com/economia/desaprovacao-a-lula-sobe-para-49-apos-crise-do-pix-mostra-quaest",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Jornal de Brasília",
+      "url": "https://jornaldebrasilia.com.br/noticias/economia/transacoes-por-pix-diminuem-em-janeiro-marcado-por-crise-mas-dentro-do-esperado-pelo-bc/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "InfoMoney",
+      "url": "https://www.infomoney.com.br/?p=2763445",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "O Povo",
+      "url": "https://www.opovo.com.br/noticias/politica/2025/08/29/lula-acusa-nikolas-de-defender-crime-organizado-com-video-do-pix-deputado-ameaca-processo.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Folha PE",
+      "url": "https://www.folhape.com.br/noticias/fake-news-sobre-pix-alcancou-87-dos-brasileiros-aponta-pesquisa/385406/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Mattos Filho (escritório)",
+      "url": "https://www.mattosfilho.com.br/unico/instituicoes-pagamento-entregar-e-financeira/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Canal Rural",
+      "url": "https://www.canalrural.com.br/economia/fake-news-do-pix-receita-volta-a-desmentir-cobranca-de-imposto-e-suposta-multa-de-150/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Migalhas",
+      "url": "https://www.migalhas.com.br/quentes/447963/deputado-aciona-agu-contra-video-de-nikolas-sobre-pix",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Mercado&Consumo",
+      "url": "https://mercadoeconsumo.com.br/15/01/2026/economia/receita-federal-volta-a-negar-taxacao-do-pix-e-alerta-para-golpes/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Poder360",
+      "url": "https://www.poder360.com.br/poder-eleicoes/flavio-bolsonaro-nega-que-vai-acabar-com-pix-se-for-eleito/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Poder360",
+      "url": "https://www.poder360.com.br/poder-eleicoes/o-pix-e-nosso-e-sem-taxa-diz-flavio-em-novo-video/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "O Tempo",
+      "url": "https://www.otempo.com.br/politica/2026/6/3/lula-e-flavio-bolsonaro-travam-guerra-pelo-pix",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Estado de Minas",
+      "url": "https://www.em.com.br/politica/2026/07/7454983-flavio-bolsonaro-promete-defender-o-pix-em-viagem-aos-estados-unidos.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Bahia Notícias",
+      "url": "https://www.bahianoticias.com.br/noticia/322401-flavio-bolsonaro-critica-proposta-de-pix-para-meis-e-acusa-lula-de-tentar-comprar-o-voto-das-pessoas",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Metrópoles",
+      "url": "https://metropoles.com/brasil/pix-bate-recorde-em-2025-e-movimenta-r-354-trilhoes",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ]
+}

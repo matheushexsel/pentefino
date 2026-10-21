@@ -1,0 +1,419 @@
+{
+  "id": "botijao-de-gas-quem-decide",
+  "pergunta": "Quem decide o preço do botijão de gás (GLP)?",
+  "resposta_curta": "O botijão de 13 kg custava em média R$ 114,73 no Brasil na semana de 11 a 17/10/2026 (ANP). O preço soma o GLP vendido pela Petrobras e por importadores, o ICMS fixado pelo Confaz em valor por quilo (R$ 1,47/kg em 2026, o que acrescentou R$ 1,05 por botijão), os tributos federais (PIS/Cofins, zerados em 2022 pela LC 192) e as margens de distribuidoras e revendas. O governo federal não fixa o preço, mas em 2026 paga subvenção de R$ 660 milhões (cerca de R$ 11 por botijão) e, pelo programa Gás do Povo (Lei 15.348/2026), entrega o botijão gratuito a famílias com renda per capita de até meio salário mínimo.",
+  "temas": [
+    "combustiveis",
+    "pobreza-programas-sociais"
+  ],
+  "cadeia_de_responsabilidade": [
+    {
+      "ator": "Petrobras e importadores",
+      "o_que_controla": "O preço de venda do GLP às distribuidoras.",
+      "o_que_nao_controla": "ICMS, margens de distribuição e revenda, preço final.",
+      "peso": "alto",
+      "url": "https://eixos.com.br/newsletters/comece-seu-dia/como-fica-o-alivio-aos-combustiveis-com-o-fim-da-desoneracao-e-o-novo-modelo-de-subsidio/"
+    },
+    {
+      "ator": "Estados, via Confaz",
+      "o_que_controla": "O ICMS do GLP, cobrado em valor fixo nacional por quilo: R$ 1,47/kg desde 01/01/2026 (Convênios ICMS 112/2025 e 113/2025), equivalente a +R$ 1,05 por botijão de 13 kg em relação a 2025.",
+      "o_que_nao_controla": "Preço de venda da Petrobras, tributos federais.",
+      "peso": "medio",
+      "url": "https://diariodocomercio.com.br/economia/icms-gasolina-diesel-subir-2026-veja-novos-valores/"
+    },
+    {
+      "ator": "Governo federal (Fazenda, MME, MDS)",
+      "o_que_controla": "PIS/Cofins do GLP (zerados pela LC 192/2022); subvenção econômica (R$ 660 milhões em 2026, o dobro dos R$ 330 milhões anteriores); o programa Gás do Povo (MP 1.313/2025, Lei 15.348/2026) e os preços de referência por estado fixados em portaria MME/Fazenda.",
+      "o_que_nao_controla": "Não fixa o preço do botijão nas revendas.",
+      "peso": "medio",
+      "url": "https://eixos.com.br/politica/sancionado-com-vetos-gas-do-povo-tem-r-47-bi-no-orcamento-de-2026/"
+    },
+    {
+      "ator": "Congresso Nacional",
+      "o_que_controla": "Criou o Auxílio Gás (Lei 14.237/2021) e converteu a MP 1.313/2025 na Lei 15.348/2026 (Gás do Povo), sancionada com vetos.",
+      "o_que_nao_controla": "Preços.",
+      "peso": "medio",
+      "url": "https://eixos.com.br/politica/sancionado-com-vetos-gas-do-povo-tem-r-47-bi-no-orcamento-de-2026/"
+    },
+    {
+      "ator": "Distribuidoras e revendas de GLP",
+      "o_que_controla": "Margens e preço final ao consumidor; no Gás do Povo, as revendas credenciadas entregam o botijão e criticam os preços de referência do governo como 'fora da realidade'.",
+      "o_que_nao_controla": "ICMS, preço de venda da Petrobras.",
+      "peso": "medio",
+      "url": "https://www.maisgoias.com.br/brasil/fornecedores-de-gas-de-cozinha-criticam-governo-por-precos-do-programa-gas-do-povo/"
+    }
+  ],
+  "composicao": [],
+  "linha_do_tempo": [
+    {
+      "data": "2021-11-19",
+      "evento": "Lei 14.237/2021 cria o Auxílio Gás (50% do valor do botijão) para cerca de 5 milhões de famílias. (Dia da lei não documentado nas notas; marcado o ano.)",
+      "url": "https://pt.wikipedia.org/wiki/G%C3%A1s_do_Povo"
+    },
+    {
+      "data": "2022-03-11",
+      "evento": "LC 192/2022 zera PIS/Cofins do GLP (e do diesel, biodiesel e QAV).",
+      "url": "https://static.poder360.com.br/2023/11/NOTA-TECNICA-COMSEFAZ-023-2023-Impactos-das-LCs-192.22-e-LCs-194.22-sobre-arrecadacao-de-ICMS-dos-estados1-1.pdf"
+    },
+    {
+      "data": "2023-01-01",
+      "evento": "Auxílio Gás passa a cobrir 100% do botijão (MP 1.155/2023).",
+      "url": "https://pt.wikipedia.org/wiki/G%C3%A1s_do_Povo"
+    },
+    {
+      "data": "2025-09-04",
+      "evento": "MP 1.313/2025 cria o Gás do Povo: botijão de 13 kg gratuito retirado em revendas credenciadas; meta de 15,5 milhões de famílias.",
+      "url": "https://eixos.com.br/politica/sancionado-com-vetos-gas-do-povo-tem-r-47-bi-no-orcamento-de-2026/"
+    },
+    {
+      "data": "2026-01-01",
+      "evento": "ICMS do GLP passa a R$ 1,47/kg (+R$ 1,05 por botijão).",
+      "url": "https://diariodocomercio.com.br/economia/icms-gasolina-diesel-subir-2026-veja-novos-valores/"
+    },
+    {
+      "data": "2026-02-13",
+      "evento": "Lei 15.348/2026 (Gás do Povo) sancionada com vetos; R$ 4,7 bi no Orçamento de 2026 (R$ 5,1 bi no PLOA).",
+      "url": "https://eixos.com.br/politica/sancionado-com-vetos-gas-do-povo-tem-r-47-bi-no-orcamento-de-2026/"
+    },
+    {
+      "data": "2026-06-01",
+      "evento": "Subvenção ao GLP em 2026 dobra de R$ 330 milhões para R$ 660 milhões (cerca de R$ 11 por botijão).",
+      "url": "https://eixos.com.br/newsletters/comece-seu-dia/como-fica-o-alivio-aos-combustiveis-com-o-fim-da-desoneracao-e-o-novo-modelo-de-subsidio/"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Botijão de 13 kg, média nacional",
+      "valor": 114.73,
+      "unidade": "R$",
+      "periodo": "11–17/10/2026",
+      "fonte": {
+        "nome": "ANP – Resumo semanal do Levantamento de Preços, 11 a 17/10/2026 (xlsx)",
+        "url": "https://www.gov.br/anp/pt-br/assuntos/precos-e-defesa-da-concorrencia/precos/arquivos-lpc/2026/resumo_semanal_lpc_2026_10_11-2026_10_17.xlsx",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "Semana de 28/12/2025–03/01/2026",
+        "valor": 111.12
+      }
+    },
+    {
+      "rotulo": "Botijão no estado de São Paulo",
+      "valor": 116.53,
+      "unidade": "R$",
+      "periodo": "11–17/10/2026",
+      "fonte": {
+        "nome": "ANP – Resumo semanal do Levantamento de Preços, 11 a 17/10/2026 (xlsx)",
+        "url": "https://www.gov.br/anp/pt-br/assuntos/precos-e-defesa-da-concorrencia/precos/arquivos-lpc/2026/resumo_semanal_lpc_2026_10_11-2026_10_17.xlsx",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "Capital SP",
+        "valor": 119.21
+      }
+    },
+    {
+      "rotulo": "Alta do GLP em 2026 até início de outubro",
+      "valor": 4.5,
+      "unidade": "%",
+      "periodo": "jan–out/2026",
+      "fonte": {
+        "nome": "combustiveis-anp.com.br (agregador de dados ANP) – Quanto subiram os combustíveis em 2026 (13/10/2026)",
+        "url": "https://www.combustiveis-anp.com.br/guia/quanto-subiram-combustiveis-2026-balanco",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "ICMS por quilo de GLP",
+      "valor": 1.47,
+      "unidade": "R$/kg",
+      "periodo": "2026",
+      "fonte": {
+        "nome": "Diário do Comércio – ICMS da gasolina e do diesel sobe em 2026",
+        "url": "https://diariodocomercio.com.br/economia/icms-gasolina-diesel-subir-2026-veja-novos-valores/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Subvenção federal ao GLP em 2026",
+      "valor": 660,
+      "unidade": "R$ milhões",
+      "periodo": "2026",
+      "fonte": {
+        "nome": "eixos – Como fica o alívio aos combustíveis com o fim da desoneração e o novo modelo de subsídio (01/06/2026)",
+        "url": "https://eixos.com.br/newsletters/comece-seu-dia/como-fica-o-alivio-aos-combustiveis-com-o-fim-da-desoneracao-e-o-novo-modelo-de-subsidio/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "Antes",
+        "valor": 330
+      }
+    },
+    {
+      "rotulo": "Subvenção por botijão (aprox.)",
+      "valor": 11,
+      "unidade": "R$",
+      "periodo": "2026",
+      "fonte": {
+        "nome": "eixos – Como fica o alívio aos combustíveis com o fim da desoneração e o novo modelo de subsídio (01/06/2026)",
+        "url": "https://eixos.com.br/newsletters/comece-seu-dia/como-fica-o-alivio-aos-combustiveis-com-o-fim-da-desoneracao-e-o-novo-modelo-de-subsidio/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Famílias-meta do Gás do Povo",
+      "valor": 15500000,
+      "unidade": "famílias",
+      "periodo": "2026",
+      "fonte": {
+        "nome": "eixos – Sancionado com vetos, Gás do Povo tem R$ 4,7 bi no Orçamento de 2026 (19/02/2026)",
+        "url": "https://eixos.com.br/politica/sancionado-com-vetos-gas-do-povo-tem-r-47-bi-no-orcamento-de-2026/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "Pessoas (aprox.)",
+        "valor": 50000000
+      }
+    },
+    {
+      "rotulo": "Orçamento do Gás do Povo em 2026 (LOA, segundo eixos)",
+      "valor": 4.7,
+      "unidade": "R$ bilhões",
+      "periodo": "2026",
+      "fonte": {
+        "nome": "eixos – Sancionado com vetos, Gás do Povo tem R$ 4,7 bi no Orçamento de 2026 (19/02/2026)",
+        "url": "https://eixos.com.br/politica/sancionado-com-vetos-gas-do-povo-tem-r-47-bi-no-orcamento-de-2026/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "PLOA",
+        "valor": 5.1
+      }
+    },
+    {
+      "rotulo": "Orçamento do programa em 2025",
+      "valor": 3.6,
+      "unidade": "R$ bilhões (3,57–3,6)",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "eixos – Sancionado com vetos, Gás do Povo tem R$ 4,7 bi no Orçamento de 2026 (19/02/2026)",
+        "url": "https://eixos.com.br/politica/sancionado-com-vetos-gas-do-povo-tem-r-47-bi-no-orcamento-de-2026/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Botijões por ano por família (2–3 pessoas)",
+      "valor": 4,
+      "unidade": "botijões",
+      "periodo": "regra do programa",
+      "fonte": {
+        "nome": "Wikipédia (pt) – Gás do Povo (fonte secundária)",
+        "url": "https://pt.wikipedia.org/wiki/G%C3%A1s_do_Povo",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "Famílias com 4+ pessoas",
+        "valor": 6
+      }
+    },
+    {
+      "rotulo": "Preço de referência mais baixo (AL)",
+      "valor": 91.49,
+      "unidade": "R$",
+      "periodo": "portaria 2025",
+      "fonte": {
+        "nome": "O Fator – Preços de referência do Gás do Povo por estado",
+        "url": "https://ofator.com.br/?p=46416",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "Mais alto (AC)",
+        "valor": 122.12
+      }
+    },
+    {
+      "rotulo": "Famílias atendidas pelo antigo Auxílio Gás",
+      "valor": 5000000,
+      "unidade": "famílias (aprox.)",
+      "periodo": "2021–2025",
+      "fonte": {
+        "nome": "Wikipédia (pt) – Gás do Povo (fonte secundária)",
+        "url": "https://pt.wikipedia.org/wiki/G%C3%A1s_do_Povo",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    }
+  ],
+  "series": [
+    "glp-preco-anual"
+  ],
+  "mitos_e_fatos": [
+    {
+      "mito": "O governo federal fixa o preço do botijão.",
+      "fato": "Não. O preço resulta do GLP vendido pela Petrobras e importadores, do ICMS fixado pelo Confaz (R$ 1,47/kg em 2026), de tributos federais e das margens de distribuidoras e revendas. O governo federal atua pela subvenção (R$ 660 milhões em 2026) e pelo Gás do Povo; os preços de referência que fixa valem só para o programa, e os revendedores os contestam.",
+      "fontes": [
+        {
+          "nome": "eixos – Como fica o alívio aos combustíveis com o fim da desoneração e o novo modelo de subsídio (01/06/2026)",
+          "url": "https://eixos.com.br/newsletters/comece-seu-dia/como-fica-o-alivio-aos-combustiveis-com-o-fim-da-desoneracao-e-o-novo-modelo-de-subsidio/",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "Diário do Comércio – ICMS da gasolina e do diesel sobe em 2026",
+          "url": "https://diariodocomercio.com.br/economia/icms-gasolina-diesel-subir-2026-veja-novos-valores/",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "Mais Goiás – Fornecedores de gás criticam governo por preços do Gás do Povo",
+          "url": "https://www.maisgoias.com.br/brasil/fornecedores-de-gas-de-cozinha-criticam-governo-por-precos-do-programa-gas-do-povo/",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        }
+      ]
+    },
+    {
+      "mito": "O botijão ficou de graça para todo mundo.",
+      "fato": "O Gás do Povo entrega botijões gratuitos a famílias com renda per capita de até meio salário mínimo, com meta de 15,5 milhões de famílias (cerca de 50 milhões de pessoas), limitados a 4 ou 6 botijões por ano. Para os demais, o botijão custava em média R$ 114,73 em out/2026.",
+      "fontes": [
+        {
+          "nome": "eixos – Sancionado com vetos, Gás do Povo tem R$ 4,7 bi no Orçamento de 2026 (19/02/2026)",
+          "url": "https://eixos.com.br/politica/sancionado-com-vetos-gas-do-povo-tem-r-47-bi-no-orcamento-de-2026/",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "Wikipédia (pt) – Gás do Povo (fonte secundária)",
+          "url": "https://pt.wikipedia.org/wiki/G%C3%A1s_do_Povo",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "ANP – Resumo semanal do Levantamento de Preços, 11 a 17/10/2026 (xlsx)",
+          "url": "https://www.gov.br/anp/pt-br/assuntos/precos-e-defesa-da-concorrencia/precos/arquivos-lpc/2026/resumo_semanal_lpc_2026_10_11-2026_10_17.xlsx",
+          "acesso_em": "2026-10-21",
+          "tier": "oficial"
+        }
+      ]
+    },
+    {
+      "mito": "O ICMS do gás é decidido pelo governador.",
+      "fato": "Desde a LC 192/2022 o ICMS do GLP é um valor nacional por quilo fixado pelo Confaz, colegiado dos 27 estados; em 2026 passou a R$ 1,47/kg.",
+      "fontes": [
+        {
+          "nome": "Comsefaz – Nota Técnica 023/2023, impactos das LCs 192 e 194 (PDF)",
+          "url": "https://static.poder360.com.br/2023/11/NOTA-TECNICA-COMSEFAZ-023-2023-Impactos-das-LCs-192.22-e-LCs-194.22-sobre-arrecadacao-de-ICMS-dos-estados1-1.pdf",
+          "acesso_em": "2026-10-21",
+          "tier": "oficial"
+        },
+        {
+          "nome": "Diário do Comércio – ICMS da gasolina e do diesel sobe em 2026",
+          "url": "https://diariodocomercio.com.br/economia/icms-gasolina-diesel-subir-2026-veja-novos-valores/",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        }
+      ]
+    }
+  ],
+  "perguntas_frequentes": [
+    {
+      "pergunta": "Quem paga o Gás do Povo?",
+      "resposta": "O Tesouro Nacional, pelo Orçamento: R$ 3,57–3,6 bilhões em 2025 e R$ 4,7 bilhões em 2026 segundo a lei orçamentária (R$ 5,1 bilhões no PLOA)."
+    },
+    {
+      "pergunta": "Qual é a diferença para o Auxílio Gás?",
+      "resposta": "O Auxílio Gás (Lei 14.237/2021) pagava em dinheiro 50% do botijão e, desde jan/2023, 100%, para cerca de 5 milhões de famílias. O Gás do Povo entrega o botijão físico em revendas credenciadas e mira 15,5 milhões de famílias."
+    },
+    {
+      "pergunta": "O botijão subiu em 2026?",
+      "resposta": "Sim: de R$ 111,12 na primeira semana do ano para R$ 116,13 no início de outubro (+4,5%) e R$ 114,73 na semana de 11–17/10/2026; na semana de 11–17/10 foi o único combustível a subir (+0,1%)."
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "ANP – Resumo semanal do Levantamento de Preços, 11 a 17/10/2026 (xlsx)",
+      "url": "https://www.gov.br/anp/pt-br/assuntos/precos-e-defesa-da-concorrencia/precos/arquivos-lpc/2026/resumo_semanal_lpc_2026_10_11-2026_10_17.xlsx",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Jornal do Comércio – ANP: gás de cozinha é o único a subir na semana (20/10/2026)",
+      "url": "https://www.jornaldocomercio.com/economia/2026/10/1267601-anp-gas-de-cozinha-e-unico-a-subir-na-semana-passada-enquanto-gasolina-e-diesel-caem.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "combustiveis-anp.com.br (agregador de dados ANP) – Quanto subiram os combustíveis em 2026 (13/10/2026)",
+      "url": "https://www.combustiveis-anp.com.br/guia/quanto-subiram-combustiveis-2026-balanco",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Diário do Comércio – ICMS da gasolina e do diesel sobe em 2026",
+      "url": "https://diariodocomercio.com.br/economia/icms-gasolina-diesel-subir-2026-veja-novos-valores/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "O Povo+ – ICMS em gasolina e etanol sobe R$ 0,10 em 2026 (09/09/2025)",
+      "url": "https://mais.opovo.com.br/jornal/economia/2025/09/09/icms-em-gasolina-e-etanol-sobe-rs-010-em-2026-diesel-sobe-rs-005.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Comsefaz – Nota Técnica 023/2023, impactos das LCs 192 e 194 (PDF)",
+      "url": "https://static.poder360.com.br/2023/11/NOTA-TECNICA-COMSEFAZ-023-2023-Impactos-das-LCs-192.22-e-LCs-194.22-sobre-arrecadacao-de-ICMS-dos-estados1-1.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "eixos – Como fica o alívio aos combustíveis com o fim da desoneração e o novo modelo de subsídio (01/06/2026)",
+      "url": "https://eixos.com.br/newsletters/comece-seu-dia/como-fica-o-alivio-aos-combustiveis-com-o-fim-da-desoneracao-e-o-novo-modelo-de-subsidio/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "eixos – Sancionado com vetos, Gás do Povo tem R$ 4,7 bi no Orçamento de 2026 (19/02/2026)",
+      "url": "https://eixos.com.br/politica/sancionado-com-vetos-gas-do-povo-tem-r-47-bi-no-orcamento-de-2026/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Wikipédia (pt) – Gás do Povo (fonte secundária)",
+      "url": "https://pt.wikipedia.org/wiki/G%C3%A1s_do_Povo",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "O Fator – Preços de referência do Gás do Povo por estado",
+      "url": "https://ofator.com.br/?p=46416",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Mais Goiás – Fornecedores de gás criticam governo por preços do Gás do Povo",
+      "url": "https://www.maisgoias.com.br/brasil/fornecedores-de-gas-de-cozinha-criticam-governo-por-precos-do-programa-gas-do-povo/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/06_energia_eletrobras_combustiveis.md",
+  "atualizado_em": "2026-10-21",
+  "lacunas": [
+    "Portaria com os preços de referência do Gás do Povo para 2026 não localizada; os valores por estado são da portaria de 2025.",
+    "Decomposição percentual do preço do botijão (parcela da Petrobras, ICMS, margens) não consta das notas; 'composicao' ficou vazia.",
+    "Situação atual (2026) do PIS/Cofins sobre o GLP não documentada nas notas; a LC 192/2022 zerou os tributos em 2022.",
+    "Datas exatas da Lei 14.237/2021 e da MP 1.155/2023 não constam das notas."
+  ]
+}

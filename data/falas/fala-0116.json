@@ -1,0 +1,59 @@
+{
+  "id": "fala-0116",
+  "slug": "lula-tarifaco-reduziu-9-7-a-relacao-comercial",
+  "evento_id": "podcast-flow-lula-2026-10-01",
+  "candidato": "lula",
+  "lado": "governo-lula-pt",
+  "minuto": null,
+  "frase_literal": "A taxação nossa com os Estados Unidos resultou em um prejuízo de diminuição de 9.7% na nossa relação comercial.",
+  "literal": true,
+  "tema": "relacoes-exteriores",
+  "veredito": "verdadeiro-mas",
+  "resumo_uma_frase": "As exportações aos EUA caíram 9,7% entre janeiro e agosto de 2026, mas o número é de exportação, não de 'relação comercial' total.",
+  "explicacao_simples": [
+    "Lula, no Flow Podcast (1/10/2026), disse: “A taxação nossa com os Estados Unidos resultou em um prejuízo de diminuição de 9.7% na nossa relação comercial”.",
+    "A Lupa confirmou a queda de 9,7% nas exportações brasileiras aos EUA (jan–ago/2026); a frase trata o dado como queda da relação comercial total.",
+    "O núcleo da frase está correto, mas falta uma ressalva que muda o peso do dado; por isso a classificação é 'verdadeiro, mas'."
+  ],
+  "o_que_e_verdade": [
+    "Exportações aos EUA: −9,7% (jan–ago/2026)."
+  ],
+  "o_que_nao_se_sustenta": [
+    "O dado é de exportações, não do comércio bilateral total."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Variação das exportações aos EUA",
+      "valor": -9.7,
+      "unidade": "%",
+      "periodo": "jan–ago/2026",
+      "fonte": {
+        "nome": "Lupa",
+        "url": "https://www.agencialupa.org/checagem/2026/10/01/ao-vivo-checagem-da-entrevista-de-lula-no-flow/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      }
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Lupa",
+      "veredito_original": "VERDADEIRO",
+      "url": "https://www.agencialupa.org/checagem/2026/10/01/ao-vivo-checagem-da-entrevista-de-lula-no-flow/",
+      "data": "2026-10-01"
+    }
+  ],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Lupa",
+      "url": "https://www.agencialupa.org/checagem/2026/10/01/ao-vivo-checagem-da-entrevista-de-lula-no-flow/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
+  "atualizado_em": "2026-10-21"
+}

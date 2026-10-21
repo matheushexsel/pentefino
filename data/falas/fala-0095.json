@@ -1,0 +1,63 @@
+{
+  "id": "fala-0095",
+  "slug": "lula-desmatamento-caiu-pela-metade-menor-em-11-anos",
+  "evento_id": "discurso-onu-lula-2026-09-22",
+  "candidato": "lula",
+  "lado": "governo-lula-pt",
+  "minuto": null,
+  "frase_literal": "[O desmatamento] caiu pela metade na Amazônia e atingiu o menor desmatamento em nível de 11 anos.",
+  "literal": true,
+  "tema": "meio-ambiente",
+  "veredito": "verdadeiro-mas",
+  "resumo_uma_frase": "O desmatamento caiu 49% (de 11,6 mil km² em 2022 para 5,7 mil km² em 2025), mas 2014 teve 5 mil km², o que contradiz 'menor em 11 anos'.",
+  "explicacao_simples": [
+    "Lula, no discurso na ONU (22/9/2026), disse: “[O desmatamento] caiu pela metade na Amazônia e atingiu o menor desmatamento em nível de 11 anos”.",
+    "O Inpe registra 5,7 mil km² em 2025 contra 11,6 mil km² em 2022 (−49%); a própria checagem cita 5 mil km² em 2014, abaixo do valor de 2025.",
+    "O núcleo da frase está correto, mas falta uma ressalva que muda o peso do dado; por isso a classificação é 'verdadeiro, mas'."
+  ],
+  "o_que_e_verdade": [
+    "Queda de 49% do desmatamento na Amazônia entre 2022 e 2025."
+  ],
+  "o_que_nao_se_sustenta": [
+    "Em 2014 o desmatamento (5 mil km²) foi menor que em 2025, o que contradiz 'menor em 11 anos'."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Desmatamento na Amazônia (Inpe)",
+      "valor": 5.7,
+      "unidade": "mil km²",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Aos Fatos",
+        "url": "https://www.aosfatos.org/noticias/checamos-discurso-lula-onu-2026/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": {
+        "rotulo": "Em 2022",
+        "valor": 11.6
+      }
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Aos Fatos",
+      "veredito_original": "confirmado com inconsistência (sem rótulo)",
+      "url": "https://www.aosfatos.org/noticias/checamos-discurso-lula-onu-2026/",
+      "data": "2026-09-22"
+    }
+  ],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Aos Fatos",
+      "url": "https://www.aosfatos.org/noticias/checamos-discurso-lula-onu-2026/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
+  "atualizado_em": "2026-10-21"
+}

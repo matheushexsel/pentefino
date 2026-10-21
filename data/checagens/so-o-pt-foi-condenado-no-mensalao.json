@@ -1,0 +1,181 @@
+{
+  "id": "chk-2032",
+  "slug": "so-o-pt-foi-condenado-no-mensalao",
+  "frase": "O mensalão foi um esquema só do PT; só petistas foram condenados.",
+  "frase_normalizada": "o mensalao foi um esquema so do pt so petistas foram condenados",
+  "variantes": [
+    "Mensalão: a quadrilha do PT",
+    "Só o PT rouba"
+  ],
+  "autor": {
+    "nome": "frase que circula nas redes",
+    "partido": null,
+    "cargo": null
+  },
+  "lado": "ambos",
+  "alvo": {
+    "nome": "PT / governo Lula",
+    "partido": "PT"
+  },
+  "data": null,
+  "onde": null,
+  "url_declaracao": null,
+  "temas": [
+    "corrupcao",
+    "justica-stf"
+  ],
+  "tags": [
+    "corrupcao",
+    "justica-stf"
+  ],
+  "veredito": "falso",
+  "resumo_uma_frase": "Dos 24 condenados definitivamente pelo STF na AP 470, 5 eram do PT; os outros eram do PTB (3), PP (3), PL/PR (3, incluindo Valdemar Costa Neto, atual presidente do PL), PMDB (1) e 11 operadores privados (agências de Marcos Valério, Banco Rural, Bônus-Banval).",
+  "explicacao_simples": [
+    "O mensalão foi comandado a partir do núcleo do PT (Dirceu, Genoino, Delúbio) para comprar apoio de outros partidos.",
+    "Por isso os condenados incluem deputados e dirigentes de PTB, PP, PL/PR e PMDB, além de publicitários e banqueiros.",
+    "O atual presidente do PL, Valdemar Costa Neto, está entre os condenados."
+  ],
+  "explicacao_completa_md": "A Ação Penal 470 (STF, 2012-2014) julgou 38 réus, condenou 25 (24 após os embargos infringentes; Breno Fischberg absolvido) e absolveu os demais, entre eles petistas (Anita Leocádia, João Magno, Professor Luizinho, Paulo Rocha) e Luiz Gushiken. Condenados por partido à época: PT 5 (José Dirceu, 7 anos e 11 meses; José Genoino, 4 anos e 8 meses; Delúbio Soares, 6 anos e 8 meses; João Paulo Cunha, 6 anos e 4 meses; Henrique Pizzolato, 12 anos e 7 meses); PTB 3 (Roberto Jefferson, Romeu Queiroz, Emerson Palmieri); PP 3 (Pedro Corrêa, Pedro Henry, João Cláudio Genu); PL/PR 3 (Valdemar Costa Neto, 7 anos e 10 meses; Bispo Rodrigues; Jacinto Lamas); PMDB 1 (José Borba); e 11 operadores privados (Marcos Valério, cerca de 37 a 40 anos, e sócios; Banco Rural; Bônus-Banval). Em fevereiro de 2014 o STF absolveu do crime de quadrilha, por 6 a 5, Dirceu, Genoino e mais 6, reduzindo penas; a execução começou em novembro de 2013; 17 dos 24 teriam tido penas extintas por indultos de Dilma e Temer (Revista Oeste, número não confirmado em fonte oficial). Nenhuma condenação do mensalão foi anulada (as anulações de 2024 que beneficiaram Dirceu são da Lava Jato).",
+  "o_que_e_verdade": [
+    "O esquema foi organizado a partir da cúpula do PT, e os cinco condenados do PT incluem o ex-ministro José Dirceu e o ex-presidente do partido José Genoino.",
+    "As condenações do mensalão são definitivas e nunca foram anuladas."
+  ],
+  "o_que_nao_se_sustenta": [
+    "'Só petistas foram condenados': 19 dos 24 condenados não eram do PT (PTB, PP, PL/PR, PMDB e operadores privados), entre eles Valdemar Costa Neto, hoje presidente do PL."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Núcleo político do PT (Dirceu, Genoino, Delúbio)",
+      "papel": "organizadores, condenados por corrupção ativa",
+      "peso": "alto"
+    },
+    {
+      "ator": "Parlamentares de PTB, PP, PL/PR e PMDB",
+      "papel": "receptores, condenados por corrupção passiva e lavagem",
+      "peso": "alto"
+    },
+    {
+      "ator": "Operadores privados (Marcos Valério, Banco Rural)",
+      "papel": "operacionalizaram pagamentos; penas mais altas",
+      "peso": "alto"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Condenados definitivos na AP 470",
+      "valor": 24,
+      "unidade": "pessoas",
+      "periodo": "2014",
+      "fonte": {
+        "nome": "Gazeta do Povo, 11/06/2025 (mensalão 20 anos)",
+        "url": "https://www.gazetadopovo.com.br/ideias/mensalao-20-anos-como-estao-hoje-condenados-soltos-presos/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Condenados do PT",
+      "valor": 5,
+      "unidade": "pessoas",
+      "periodo": "2014",
+      "fonte": {
+        "nome": "Exame (onde estão os 24 condenados do mensalão)",
+        "url": "https://exame.com/brasil/onde-estao-os-24-condenados-por-causa-do-mensalao/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "Condenados de outros partidos (PTB, PP, PL/PR, PMDB)",
+        "valor": 10
+      }
+    },
+    {
+      "rotulo": "Operadores privados condenados",
+      "valor": 11,
+      "unidade": "pessoas",
+      "periodo": "2014",
+      "fonte": {
+        "nome": "Exame (onde estão os 24 condenados do mensalão)",
+        "url": "https://exame.com/brasil/onde-estao-os-24-condenados-por-causa-do-mensalao/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Placar da absolvição do crime de quadrilha (Dirceu, Genoino e outros)",
+      "valor": 6,
+      "unidade": "votos a 5",
+      "periodo": "fev/2014",
+      "fonte": {
+        "nome": "g1, fev/2014",
+        "url": "https://g1.globo.com/politica/mensalao/noticia/2014/02/por-6-5-supremo-absolve-do-crime-de-quadrilha-dirceu-genoino-e-mais-6.html",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": null
+    }
+  ],
+  "series": [],
+  "checagens_externas": [],
+  "fontes": [
+    {
+      "nome": "Gazeta do Povo, 11/06/2025 (mensalão 20 anos)",
+      "url": "https://www.gazetadopovo.com.br/ideias/mensalao-20-anos-como-estao-hoje-condenados-soltos-presos/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Exame (onde estão os 24 condenados do mensalão)",
+      "url": "https://exame.com/brasil/onde-estao-os-24-condenados-por-causa-do-mensalao/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "g1, fev/2014",
+      "url": "https://g1.globo.com/politica/mensalao/noticia/2014/02/por-6-5-supremo-absolve-do-crime-de-quadrilha-dirceu-genoino-e-mais-6.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Wikipédia: Ação Penal 470 (índice)",
+      "url": "https://pt.wikipedia.org/wiki/A%C3%A7%C3%A3o_Penal_470",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/04_escandalos_mensalao_petrolao_lavajato.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "Quem eram os condenados não petistas?",
+      "resposta": "Roberto Jefferson, Romeu Queiroz e Palmieri (PTB); Pedro Corrêa, Pedro Henry e Genu (PP); Valdemar Costa Neto, Bispo Rodrigues e Jacinto Lamas (PL/PR); José Borba (PMDB); e 11 operadores privados."
+    },
+    {
+      "pergunta": "Algum condenado do mensalão ainda está preso?",
+      "resposta": "Em junho de 2025, nenhum; a maioria teve a pena extinta por indulto (Dilma 2014/2015, Temer 2017) ou já cumpriu; Marcos Valério ainda cumpria pena em domiciliar."
+    },
+    {
+      "pergunta": "As condenações do mensalão foram anuladas?",
+      "resposta": "Não. Diferentemente da Lava Jato, nenhuma condenação da AP 470 foi anulada."
+    }
+  ],
+  "relacionadas": [
+    "lula-emprega-condenados-do-mensalao",
+    "psdb-tambem-foi-condenado-na-lava-jato",
+    "lula-foi-condenado-e-descondenado"
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false,
+  "nao_verificado": true,
+  "lacunas": [
+    "Nenhuma checagem de agência com esta redação consta nas notas; veredito derivado da lista de condenados da AP 470 (nota 04).",
+    "Valores do esquema (R$ 55 mi / R$ 141 mi) e número de absolvidos não verificados em fonte oficial."
+  ]
+}

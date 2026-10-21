@@ -1,0 +1,492 @@
+{
+  "id": "desmatamento-quem-controla",
+  "pergunta": "Desmatamento na Amazônia: quem controla — governo federal, estados ou mercado?",
+  "resposta_curta": "A fiscalização de comando e controle é federal (Ibama, ICMBio, PF, INPE mede), e os picos e quedas da série PRODES acompanham mudanças de política federal: queda de 27.772 km² (2004) para 7.000 (2010), mínimo de 4.571 (2012), alta para 13.038 (2021) e quatro quedas até 5.796 (2025). Mas estados licenciam e fiscalizam, o Congresso define o Código Florestal e preços de commodities, clima e demanda por terra também pesam. Queimadas (recorde em 2024) e licenciamentos como o da Margem Equatorial mostram que a agenda ambiental não se resume ao PRODES.",
+  "temas": [
+    "meio-ambiente"
+  ],
+  "cadeia_de_responsabilidade": [
+    {
+      "ator": "Governo federal (MMA, Ibama, ICMBio, PF, INPE)",
+      "o_que_controla": "Fiscalização e multas (Ibama), unidades de conservação federais (ICMBio), operações da PF, monitoramento por satélite (INPE: PRODES anual e DETER em tempo real), Fundo Amazônia (BNDES), licenciamento de grandes obras e petróleo (Margem Equatorial), embargos e comando e controle.",
+      "o_que_nao_controla": "Licenciamento e fiscalização estaduais, Código Florestal (Congresso), preços de soja e carne, clima (seca, El Niño), demanda por terra.",
+      "peso": "alto",
+      "url": "https://static.poder360.com.br/2025/06/apresentacao-desmatamento-cerrado-amazonia-pantanal-maio-2025.pdf"
+    },
+    {
+      "ator": "Governos estaduais (PA, MT, AM, RO etc.)",
+      "o_que_controla": "Licenciamento ambiental da maior parte dos empreendimentos, Cadastro Ambiental Rural, fiscalização estadual, autorização de supressão legal (relevante no Cerrado), bombeiros no combate ao fogo.",
+      "o_que_nao_controla": "Operações federais, Fundo Amazônia, política de crédito rural.",
+      "peso": "medio",
+      "url": "https://www.oliberal.com/variedades/desmatamento-na-amazonia-em-2025-caiu-11-08-em-relacao-a-2024-afirma-prodes-inpe-1.1084212"
+    },
+    {
+      "ator": "Congresso Nacional",
+      "o_que_controla": "Código Florestal e reserva legal, regras de licenciamento (Licença Ambiental Especial via MP 1.308/2025, usada para a BR-319), orçamento do Ibama/ICMBio, regularização fundiária.",
+      "o_que_nao_controla": "Execução da fiscalização.",
+      "peso": "medio",
+      "url": "https://agenciainfra.com/blog/br-319-transportes-vai-tentar-avancar-com-licenca-especial/"
+    },
+    {
+      "ator": "Doadores internacionais (Noruega, Alemanha) e mercado",
+      "o_que_controla": "Fundo Amazônia (R$ 3,4 bi até 2018, ~94% Noruega; suspensão em 2019; R$ 643 mi recebidos em 2024), TFFF lançado na COP30 (US$ 5,5 bi iniciais), pressão de compradores sobre cadeias de soja e carne.",
+      "o_que_nao_controla": "Fiscalização em campo, legislação brasileira.",
+      "peso": "baixo",
+      "url": "https://pt.wikipedia.org/wiki/Fundo_Amaz%C3%B4nia"
+    },
+    {
+      "ator": "Clima e fatores externos",
+      "o_que_controla": "Seca extrema e El Niño ampliam queimadas (30 milhões de hectares em 2024, 62% acima da média histórica); preços de commodities influenciam a pressão por abertura de áreas.",
+      "o_que_nao_controla": "Não é ator de política pública, mas condiciona resultados.",
+      "peso": "medio",
+      "url": "https://sul21.com.br/noticias/meio-ambiente/2025/06/queimadas-atingiram-30-milhoes-de-hectares-no-pais-em-2024/"
+    }
+  ],
+  "composicao": [
+    {
+      "rotulo": "Área queimada em 2024 — Amazônia (15,6 de ~30 mi ha)",
+      "percentual": 52,
+      "fonte": {
+        "nome": "Sul21 — MapBiomas, Relatório Anual do Fogo 2024",
+        "url": "https://sul21.com.br/noticias/meio-ambiente/2025/06/queimadas-atingiram-30-milhoes-de-hectares-no-pais-em-2024/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    }
+  ],
+  "linha_do_tempo": [
+    {
+      "data": "2004",
+      "evento": "Pico histórico do PRODES: 27.772 km² (governo Lula 1).",
+      "url": "https://static.poder360.com.br/2025/06/apresentacao-desmatamento-cerrado-amazonia-pantanal-maio-2025.pdf"
+    },
+    {
+      "data": "2008-08-01",
+      "evento": "Criado o Fundo Amazônia (Decreto 6.527, governo Lula 2).",
+      "url": "https://pt.wikipedia.org/wiki/Fundo_Amaz%C3%B4nia"
+    },
+    {
+      "data": "2010",
+      "evento": "Desmatamento cai a 7.000 km² ao fim do governo Lula 2.",
+      "url": "https://static.poder360.com.br/2025/06/apresentacao-desmatamento-cerrado-amazonia-pantanal-maio-2025.pdf"
+    },
+    {
+      "data": "2012",
+      "evento": "Mínimo histórico: 4.571 km² (governo Dilma).",
+      "url": "https://static.poder360.com.br/2025/06/apresentacao-desmatamento-cerrado-amazonia-pantanal-maio-2025.pdf"
+    },
+    {
+      "data": "2016",
+      "evento": "Alta para 7.893 km² ao fim do governo Dilma; Temer mantém ~7.000–7.500 km² em 2017–2018.",
+      "url": "https://static.poder360.com.br/2025/06/apresentacao-desmatamento-cerrado-amazonia-pantanal-maio-2025.pdf"
+    },
+    {
+      "data": "2019",
+      "evento": "Decreto 9.759 extingue os comitês do Fundo Amazônia; Noruega suspende R$ 133 mi e Alemanha R$ 155 mi. PRODES sobe a 10.129 km² (governo Bolsonaro).",
+      "url": "https://pt.wikipedia.org/wiki/Fundo_Amaz%C3%B4nia"
+    },
+    {
+      "data": "2021",
+      "evento": "Pico recente: 13.038 km², maior desde 2006.",
+      "url": "https://static.poder360.com.br/2025/06/apresentacao-desmatamento-cerrado-amazonia-pantanal-maio-2025.pdf"
+    },
+    {
+      "data": "2023-01-01",
+      "evento": "Fundo Amazônia reativado (governo Lula 3).",
+      "url": "https://pt.wikipedia.org/wiki/Fundo_Amaz%C3%B4nia"
+    },
+    {
+      "data": "2023-05",
+      "evento": "Ibama nega licença à Petrobras na Foz do Amazonas por 'inconsistências técnicas'.",
+      "url": "https://www.cnnbrasil.com.br/economia/exploracao-da-petrobras-na-foz-do-amazonas-ainda-exige-estudos-diz-presidente-do-ibama-a-cnn/"
+    },
+    {
+      "data": "2024",
+      "evento": "Recorde de área queimada: ~30 milhões de hectares (MapBiomas); PRODES cai a 6.518 km²; Cerrado tem primeira queda em 5 anos (8.174 km²).",
+      "url": "https://sul21.com.br/noticias/meio-ambiente/2025/06/queimadas-atingiram-30-milhoes-de-hectares-no-pais-em-2024/"
+    },
+    {
+      "data": "2025-10-20",
+      "evento": "Ibama licencia a perfuração de 1 poço exploratório da Petrobras no bloco FZA-M-059 (Margem Equatorial, Amapá).",
+      "url": "https://www.opovo.com.br/noticias/economia/2025/10/20/amp/petrobras-obtem-licenca-exploratoria-em-aguas-profundas-do-amapa.html"
+    },
+    {
+      "data": "2025-11-22",
+      "evento": "COP30 em Belém termina com o 'Pacote de Belém' (29 decisões), triplicação do financiamento de adaptação até 2035 e TFFF (US$ 5,5 bi iniciais), mas sem 'mapa do caminho' para sair dos fósseis.",
+      "url": "https://mais.opovo.com.br/jornal/farol/2025/11/23/cop30-termina-sem-acordo-sobre-mapa-do-caminho.html"
+    },
+    {
+      "data": "2025",
+      "evento": "PRODES 2025: 5.796 km² (-11,08%), 4º ano seguido de queda, menor em 11 anos.",
+      "url": "https://www.oliberal.com/variedades/desmatamento-na-amazonia-em-2025-caiu-11-08-em-relacao-a-2024-afirma-prodes-inpe-1.1084212"
+    },
+    {
+      "data": "2026-08",
+      "evento": "DETER ago/2025–jul/2026: alertas na Amazônia caem 36,87%, menor nível desde 2016.",
+      "url": "https://www.jb.com.br/brasil/meio-ambiente/2026/08/amp/1060529-desmatamento-na-amazonia-cai-3687-e-atinge-menor-nivel-desde-2016.html"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Desmatamento PRODES Amazônia",
+      "valor": 5796,
+      "unidade": "km²",
+      "periodo": "2025 (ago/2024–jul/2025)",
+      "fonte": {
+        "nome": "O Liberal/Estadão — PRODES 2025",
+        "url": "https://www.oliberal.com/variedades/desmatamento-na-amazonia-em-2025-caiu-11-08-em-relacao-a-2024-afirma-prodes-inpe-1.1084212",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "2021 (pico recente)",
+        "valor": 13038
+      }
+    },
+    {
+      "rotulo": "Pico histórico do PRODES",
+      "valor": 27772,
+      "unidade": "km²",
+      "periodo": "2004",
+      "fonte": {
+        "nome": "MMA/INPE — apresentação desmatamento Cerrado, Amazônia e Pantanal (maio/2025)",
+        "url": "https://static.poder360.com.br/2025/06/apresentacao-desmatamento-cerrado-amazonia-pantanal-maio-2025.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    {
+      "rotulo": "Mínimo histórico do PRODES",
+      "valor": 4571,
+      "unidade": "km²",
+      "periodo": "2012",
+      "fonte": {
+        "nome": "MMA/INPE — apresentação desmatamento Cerrado, Amazônia e Pantanal (maio/2025)",
+        "url": "https://static.poder360.com.br/2025/06/apresentacao-desmatamento-cerrado-amazonia-pantanal-maio-2025.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    {
+      "rotulo": "Desmatamento no Cerrado",
+      "valor": 7235,
+      "unidade": "km²",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "O Liberal/Estadão — PRODES 2025",
+        "url": "https://www.oliberal.com/variedades/desmatamento-na-amazonia-em-2025-caiu-11-08-em-relacao-a-2024-afirma-prodes-inpe-1.1084212",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "2022/23 (pico)",
+        "valor": 11002
+      }
+    },
+    {
+      "rotulo": "Área queimada no Brasil",
+      "valor": 30,
+      "unidade": "milhões de hectares",
+      "periodo": "2024",
+      "fonte": {
+        "nome": "Sul21 — MapBiomas, Relatório Anual do Fogo 2024",
+        "url": "https://sul21.com.br/noticias/meio-ambiente/2025/06/queimadas-atingiram-30-milhoes-de-hectares-no-pais-em-2024/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "média histórica",
+        "valor": 18.5
+      }
+    },
+    {
+      "rotulo": "Área queimada na Amazônia",
+      "valor": 15.6,
+      "unidade": "milhões de hectares",
+      "periodo": "2024",
+      "fonte": {
+        "nome": "Sul21 — MapBiomas, Relatório Anual do Fogo 2024",
+        "url": "https://sul21.com.br/noticias/meio-ambiente/2025/06/queimadas-atingiram-30-milhoes-de-hectares-no-pais-em-2024/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Fundo Amazônia — projetos aprovados",
+      "valor": 882,
+      "unidade": "R$ milhões",
+      "periodo": "2024",
+      "fonte": {
+        "nome": "Wikipédia pt — Fundo Amazônia (compilação com fontes)",
+        "url": "https://pt.wikipedia.org/wiki/Fundo_Amaz%C3%B4nia",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "2023",
+        "valor": 553
+      }
+    },
+    {
+      "rotulo": "Fundo Amazônia — doações acumuladas até 2018",
+      "valor": 3.4,
+      "unidade": "R$ bilhões",
+      "periodo": "2008–2018",
+      "fonte": {
+        "nome": "Poder360 — Fundo Amazônia recebeu R$ 3,4 bi em 13 anos",
+        "url": "https://www.poder360.com.br/economia/fundo-amazonia-recebeu-r-34-bilhoes-de-doacoes-em-13-anos/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Queda dos alertas DETER na Amazônia",
+      "valor": -36.87,
+      "unidade": "%",
+      "periodo": "ago/2025–jul/2026",
+      "fonte": {
+        "nome": "Jornal do Brasil — DETER ago/2025–jul/2026",
+        "url": "https://www.jb.com.br/brasil/meio-ambiente/2026/08/amp/1060529-desmatamento-na-amazonia-cai-3687-e-atinge-menor-nivel-desde-2016.html",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Custo da COP30",
+      "valor": 737,
+      "unidade": "R$ milhões",
+      "periodo": "nov/2025",
+      "fonte": {
+        "nome": "Wikipédia pt — COP30",
+        "url": "https://pt.wikipedia.org/wiki/Confer%C3%AAncia_das_Na%C3%A7%C3%B5es_Unidas_sobre_as_Mudan%C3%A7as_Clim%C3%A1ticas_de_2025",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "TFFF — capital inicial anunciado na COP30",
+      "valor": 5.5,
+      "unidade": "US$ bilhões",
+      "periodo": "nov/2025",
+      "fonte": {
+        "nome": "Pesquisa FAPESP — resultados da COP30",
+        "url": "https://revistapesquisa.fapesp.br/wp-content/uploads/2025/11/040-042_cop30-resultados_358.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      "comparacao": {
+        "rotulo": "meta",
+        "valor": 125
+      }
+    }
+  ],
+  "series": [
+    "desmatamento-amazonia-prodes",
+    "desmatamento-cerrado",
+    "queimadas",
+    "fundo-amazonia"
+  ],
+  "mitos_e_fatos": [
+    {
+      "mito": "O desmatamento de 2021 foi o maior da história.",
+      "fato": "Os 13.038 km² de 2021 foram o maior valor desde 2006 (14.285 km²), não o recorde da série: 2004 teve 27.772 km² e 2003, 25.396 km², no governo Lula 1. O governo Lula 1–2 derrubou a taxa para 7.000 km² em 2010.",
+      "fontes": [
+        {
+          "nome": "MMA/INPE — apresentação desmatamento Cerrado, Amazônia e Pantanal (maio/2025)",
+          "url": "https://static.poder360.com.br/2025/06/apresentacao-desmatamento-cerrado-amazonia-pantanal-maio-2025.pdf",
+          "acesso_em": "2026-10-21",
+          "tier": "oficial"
+        },
+        {
+          "nome": "Wikipédia pt — Desmatamento na Amazônia (série INPE/PRODES)",
+          "url": "https://pt.wikipedia.org/wiki/Desmatamento_na_Amaz%C3%B4nia",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        }
+      ]
+    },
+    {
+      "mito": "O desmatamento só caiu por causa do clima ou do mercado.",
+      "fato": "Clima e commodities pesam, mas a série acompanha mudanças de política federal: queda forte em 2005–2012 (PPCDAm, Fundo Amazônia), alta em 2019–2021 (fundo paralisado, Noruega e Alemanha suspendem doações) e queda em 2023–2025 (fundo reativado, fiscalização retomada). O ano PRODES vai de agosto a julho, então 2023 mistura o fim de Bolsonaro e o início de Lula 3.",
+      "fontes": [
+        {
+          "nome": "MMA/INPE — apresentação desmatamento Cerrado, Amazônia e Pantanal (maio/2025)",
+          "url": "https://static.poder360.com.br/2025/06/apresentacao-desmatamento-cerrado-amazonia-pantanal-maio-2025.pdf",
+          "acesso_em": "2026-10-21",
+          "tier": "oficial"
+        },
+        {
+          "nome": "Wikipédia pt — Fundo Amazônia (compilação com fontes)",
+          "url": "https://pt.wikipedia.org/wiki/Fundo_Amaz%C3%B4nia",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        }
+      ]
+    },
+    {
+      "mito": "Se o desmatamento caiu, o meio ambiente melhorou em tudo.",
+      "fato": "Em 2024, enquanto o PRODES caía, o Brasil teve recorde de área queimada: ~30 milhões de hectares, 62% acima da média, +90% frente a 2023, com a Amazônia em 15,6 mi ha (maior desde 1985). Em out/2025 o Ibama licenciou a perfuração da Petrobras na Margem Equatorial, e o governo defende a BR-319 e a Ferrogrão — contradições apontadas por ambientalistas.",
+      "fontes": [
+        {
+          "nome": "Sul21 — MapBiomas, Relatório Anual do Fogo 2024",
+          "url": "https://sul21.com.br/noticias/meio-ambiente/2025/06/queimadas-atingiram-30-milhoes-de-hectares-no-pais-em-2024/",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "Jovem Pan — recorde de áreas queimadas em 2024",
+          "url": "https://jovempan.com.br/brasil/brasil-bate-recorde-de-areas-queimadas-em-2024/",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        }
+      ]
+    },
+    {
+      "mito": "O Cerrado seguiu a mesma trajetória da Amazônia.",
+      "fato": "Não. O Cerrado continuou subindo até 11.002 km² em 2022/23, quando a Amazônia já caía, e só recuou em 2023/24 (8.174 km², -25,7%) e 2025 (7.235 km²). Boa parte da supressão no Cerrado é legal e autorizada por órgãos estaduais.",
+      "fontes": [
+        {
+          "nome": "MMA/INPE — apresentação desmatamento Cerrado, Amazônia e Pantanal (maio/2025)",
+          "url": "https://static.poder360.com.br/2025/06/apresentacao-desmatamento-cerrado-amazonia-pantanal-maio-2025.pdf",
+          "acesso_em": "2026-10-21",
+          "tier": "oficial"
+        },
+        {
+          "nome": "O Liberal/Estadão — PRODES 2025",
+          "url": "https://www.oliberal.com/variedades/desmatamento-na-amazonia-em-2025-caiu-11-08-em-relacao-a-2024-afirma-prodes-inpe-1.1084212",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        }
+      ]
+    }
+  ],
+  "perguntas_frequentes": [
+    {
+      "pergunta": "Qual a diferença entre PRODES e DETER?",
+      "resposta": "O PRODES é a taxa anual oficial (agosto a julho), consolidada pelo INPE; o DETER emite alertas em tempo quase real para orientar a fiscalização. Alertas DETER caíram 36,87% em ago/2025–jul/2026, mas não são a taxa oficial."
+    },
+    {
+      "pergunta": "O que aconteceu com o Fundo Amazônia?",
+      "resposta": "Criado em 2008, recebeu R$ 3,4 bi até 2018 (Noruega ~94%, Alemanha ~6%, Petrobras). Em 2019 o Decreto 9.759 extinguiu seus comitês e o fundo ficou paralisado; Noruega e Alemanha suspenderam R$ 133 mi e R$ 155 mi. Reativado em 01/01/2023, aprovou R$ 553 mi em 2023 e R$ 882 mi em 2024 (recorde), ano em que recebeu R$ 643 mi em doações."
+    },
+    {
+      "pergunta": "A COP30 foi um sucesso?",
+      "resposta": "Teve resultados mistos: 29 decisões por consenso de 195 países, triplicação do financiamento de adaptação até 2035 (~US$ 120 bi), 59 indicadores de adaptação, 122 novas NDCs e lançamento do TFFF (US$ 5,5 bi iniciais; meta US$ 125 bi). Não houve 'mapa do caminho' para sair dos fósseis (80+ países a favor, ~85 contra). Ana Toni: 'não demos todos os passos que queríamos'."
+    },
+    {
+      "pergunta": "Quem licenciou o petróleo na Margem Equatorial?",
+      "resposta": "O Ibama, órgão federal. Em maio/2023 negou a licença à Petrobras por 'inconsistências técnicas'; em 20/10/2025 concedeu licença para perfurar 1 poço exploratório no bloco FZA-M-059, a 500 km da foz do Amazonas e 175 km da costa do Amapá, com perfuração de cerca de 5 meses."
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "MMA/INPE — apresentação desmatamento Cerrado, Amazônia e Pantanal (maio/2025)",
+      "url": "https://static.poder360.com.br/2025/06/apresentacao-desmatamento-cerrado-amazonia-pantanal-maio-2025.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "O Liberal/Estadão — PRODES 2025",
+      "url": "https://www.oliberal.com/variedades/desmatamento-na-amazonia-em-2025-caiu-11-08-em-relacao-a-2024-afirma-prodes-inpe-1.1084212",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Wikipédia pt — Desmatamento na Amazônia (série INPE/PRODES)",
+      "url": "https://pt.wikipedia.org/wiki/Desmatamento_na_Amaz%C3%B4nia",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Wikipedia en — Deforestation of the Amazon rainforest",
+      "url": "https://en.wikipedia.org/wiki/Deforestation_of_the_Amazon_rainforest",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Jornal do Brasil — DETER ago/2025–jul/2026",
+      "url": "https://www.jb.com.br/brasil/meio-ambiente/2026/08/amp/1060529-desmatamento-na-amazonia-cai-3687-e-atinge-menor-nivel-desde-2016.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Sul21 — MapBiomas, Relatório Anual do Fogo 2024",
+      "url": "https://sul21.com.br/noticias/meio-ambiente/2025/06/queimadas-atingiram-30-milhoes-de-hectares-no-pais-em-2024/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Extra Classe — queimadas 2024 (MapBiomas)",
+      "url": "https://www.extraclasse.org.br/?p=116419",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Jovem Pan — recorde de áreas queimadas em 2024",
+      "url": "https://jovempan.com.br/brasil/brasil-bate-recorde-de-areas-queimadas-em-2024/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Wikipédia pt — Fundo Amazônia (compilação com fontes)",
+      "url": "https://pt.wikipedia.org/wiki/Fundo_Amaz%C3%B4nia",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Poder360 — Noruega formaliza doação ao Fundo Amazônia",
+      "url": "https://www.poder360.com.br/meio-ambiente/noruega-formaliza-nova-doacao-de-r-275-mi-ao-fundo-amazonia/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Poder360 — Fundo Amazônia recebeu R$ 3,4 bi em 13 anos",
+      "url": "https://www.poder360.com.br/economia/fundo-amazonia-recebeu-r-34-bilhoes-de-doacoes-em-13-anos/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Wikipédia pt — COP30",
+      "url": "https://pt.wikipedia.org/wiki/Confer%C3%AAncia_das_Na%C3%A7%C3%B5es_Unidas_sobre_as_Mudan%C3%A7as_Clim%C3%A1ticas_de_2025",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "O Povo — COP30 termina sem acordo sobre mapa do caminho",
+      "url": "https://mais.opovo.com.br/jornal/farol/2025/11/23/cop30-termina-sem-acordo-sobre-mapa-do-caminho.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Pesquisa FAPESP — resultados da COP30",
+      "url": "https://revistapesquisa.fapesp.br/wp-content/uploads/2025/11/040-042_cop30-resultados_358.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    },
+    {
+      "nome": "O Povo — Petrobras obtém licença exploratória no Amapá",
+      "url": "https://www.opovo.com.br/noticias/economia/2025/10/20/amp/petrobras-obtem-licenca-exploratoria-em-aguas-profundas-do-amapa.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "CNN Brasil — exploração na Foz do Amazonas exige estudos, diz presidente do Ibama",
+      "url": "https://www.cnnbrasil.com.br/economia/exploracao-da-petrobras-na-foz-do-amazonas-ainda-exige-estudos-diz-presidente-do-ibama-a-cnn/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Agência Infra — BR-319 e Licença Ambiental Especial",
+      "url": "https://agenciainfra.com/blog/br-319-transportes-vai-tentar-avancar-com-licenca-especial/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "lacunas": [
+    "Dados do PRODES 2003–2011 vieram da Wikipédia (cita INPE); TerraBrasilis não carregou.",
+    "Total de doações ao Fundo Amazônia em 2025 e NDC brasileira 2035 (59–67%) não confirmados.",
+    "Valores de aprovações do Fundo Amazônia em 2019–2022 não constam da nota."
+  ],
+  "atualizado_em": "2026-10-21",
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/07_saude_seguranca_educacao_infra_ambiente.md"
+}

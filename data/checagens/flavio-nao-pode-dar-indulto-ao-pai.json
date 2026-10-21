@@ -1,0 +1,153 @@
+{
+  "id": "chk-2046",
+  "slug": "flavio-nao-pode-dar-indulto-ao-pai",
+  "frase": "Flávio não pode dar indulto a uma pessoa.",
+  "frase_normalizada": "flavio nao pode dar indulto a uma pessoa",
+  "variantes": [
+    "Flávio vai indultar o pai se eleito",
+    "Derrotar Lula é o que vai salvar meu pai da prisão"
+  ],
+  "autor": {
+    "nome": "Luiz Inácio Lula da Silva",
+    "partido": "PT",
+    "cargo": "presidente da República e candidato à reeleição"
+  },
+  "lado": "governo-lula-pt",
+  "alvo": {
+    "nome": "Flávio Bolsonaro",
+    "partido": "PL"
+  },
+  "data": "2026-10-18",
+  "onde": "Debate da Band (consórcio Band/Cultura/Gazeta/Jovem Pan/Estadão), São Paulo",
+  "url_declaracao": "https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026",
+  "temas": [
+    "justica-stf",
+    "eleicao-2026"
+  ],
+  "tags": [
+    "justica-stf",
+    "eleicao-2026"
+  ],
+  "veredito": "impreciso",
+  "resumo_uma_frase": "O indulto individual (graça) é prerrogativa constitucional do presidente, portanto Flávio poderia concedê-lo; mas o precedente do STF no caso Daniel Silveira (indulto anulado) limita seu uso, e Flávio já disse que 'derrotar Lula é o que vai salvar meu pai da prisão'.",
+  "explicacao_simples": [
+    "A Constituição permite ao presidente conceder indulto individual (graça), então, em tese, Flávio poderia perdoar a pena do pai.",
+    "Mas o STF anulou o indulto que Bolsonaro deu ao deputado Daniel Silveira, criando um precedente que limita esse poder.",
+    "Flávio não prometeu indulto, mas disse que vencer a eleição 'é o que vai salvar meu pai da prisão'."
+  ],
+  "explicacao_completa_md": "O Ranking dos Políticos classificou a frase de Lula como IMPRECISA: o indulto individual é prerrogativa presidencial, e o precedente Silveira (indulto concedido por Bolsonaro e anulado pelo STF) limita, mas não elimina, essa possibilidade. Em contexto: Bolsonaro cumpre pena definitiva de 27 anos e 3 meses (trânsito em julgado em 25/11/2025), em domiciliar por saúde; a Lei da Dosimetria, que poderia reduzir a pena, está suspensa pelo STF; Flávio declarou que 'derrotar Lula é o que vai salvar meu pai da prisão' (Poder360) e que Bolsonaro 'ficou muito feliz' com a derrubada do veto à dosimetria. A nota 08 infere que a candidatura de Flávio (indicada por Bolsonaro em 05/12/2025) foi desencadeada pelo trânsito em julgado.",
+  "o_que_e_verdade": [
+    "O STF anulou o indulto de Bolsonaro a Daniel Silveira, o que cria um limite jurídico ao indulto individual com motivação política."
+  ],
+  "o_que_nao_se_sustenta": [
+    "'Não pode dar indulto': a graça individual é prerrogativa constitucional do presidente; o precedente limita, não proíbe."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Presidente da República",
+      "papel": "detém a prerrogativa constitucional de indulto e graça",
+      "peso": "alto"
+    },
+    {
+      "ator": "STF",
+      "papel": "pode anular indulto, como fez no caso Daniel Silveira",
+      "peso": "alto"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Pena de Jair Bolsonaro",
+      "valor": 27.25,
+      "unidade": "anos (27 anos e 3 meses)",
+      "periodo": "11/09/2025",
+      "fonte": {
+        "nome": "g1, 11/09/2025 (penas de cada condenado)",
+        "url": "https://g1.globo.com/politica/noticia/2025/09/11/trama-golpista-veja-as-penas-de-prisao-e-as-multas-para-cada-um-dos-condenados.ghtml",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Dia da indicação de Flávio pelo pai preso",
+      "valor": 5,
+      "unidade": "dez/2025 (dia)",
+      "periodo": "05/12/2025",
+      "fonte": {
+        "nome": "Wikipédia: Flávio Bolsonaro",
+        "url": "https://pt.wikipedia.org/wiki/Fl%C3%A1vio_Bolsonaro",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": null
+    }
+  ],
+  "series": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Ranking dos Políticos",
+      "veredito_original": "IMPRECISO",
+      "url": "https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026",
+      "data": "2026-10-18"
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "g1, 11/09/2025 (penas de cada condenado)",
+      "url": "https://g1.globo.com/politica/noticia/2025/09/11/trama-golpista-veja-as-penas-de-prisao-e-as-multas-para-cada-um-dos-condenados.ghtml",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Wikipédia: Flávio Bolsonaro",
+      "url": "https://pt.wikipedia.org/wiki/Fl%C3%A1vio_Bolsonaro",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Ranking dos Políticos",
+      "url": "https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Poder360 (Flávio: 'derrotar Lula é o que vai salvar meu pai da prisão')",
+      "url": "https://www.poder360.com.br/poder-eleicoes/derrotar-lula-e-o-que-vai-salvar-meu-pai-da-prisao-diz-flavio/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "CNN Brasil, 30/04/2026 (Flávio: Bolsonaro 'muito feliz')",
+      "url": "https://www.cnnbrasil.com.br/politica/flavio-diz-que-bolsonaro-celebrou-decisao-sobre-dosimetria-muito-feliz/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/09_acusacoes_e_falas_flavio_x_lula.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "Um presidente pode perdoar a pena do próprio pai?",
+      "resposta": "A Constituição dá ao presidente o poder de indulto e graça; o STF, no caso Daniel Silveira, anulou um indulto por desvio de finalidade, o que cria limite a um indulto com motivação pessoal ou política."
+    },
+    {
+      "pergunta": "Flávio prometeu indultar Bolsonaro?",
+      "resposta": "Não há promessa explícita nas notas; ele disse que 'derrotar Lula é o que vai salvar meu pai da prisão' e celebrou a derrubada do veto à Lei da Dosimetria."
+    },
+    {
+      "pergunta": "Que outros caminhos existem para reduzir a pena?",
+      "resposta": "A Lei da Dosimetria (suspensa pelo STF) e eventuais revisões judiciais; a condenação é definitiva desde 25/11/2025."
+    }
+  ],
+  "relacionadas": [
+    "lei-da-dosimetria-e-anistia",
+    "bolsonaro-condenado-por-golpe-sem-provas"
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false
+}

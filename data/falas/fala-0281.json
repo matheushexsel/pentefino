@@ -1,0 +1,59 @@
+{
+  "id": "fala-0281",
+  "slug": "lula-anistiei-12-6-bilhoes-dos-mei",
+  "evento_id": "debate-band-2turno-2026-10-18",
+  "candidato": "lula",
+  "lado": "governo-lula-pt",
+  "minuto": null,
+  "frase_literal": "Anistiei 12,6 bilhões de dívida dos MEI.",
+  "literal": true,
+  "tema": "impostos",
+  "veredito": "verdadeiro-mas",
+  "resumo_uma_frase": "O PLC 186/2026 (R$ 12,6 bilhões, ~3,6 milhões de MEIs) foi aprovado em 16/10, mas ainda falta sanção.",
+  "explicacao_simples": [
+    "Lula, no debate da Band (18/10/2026), disse: “Anistiei 12,6 bilhões de dívida dos MEI”.",
+    "Lupa: verdadeiro (PLC 186/2026 aprovado em 16/10, ~3,6 milhões de MEIs; falta sanção).",
+    "O núcleo da frase está correto, mas falta uma ressalva que muda o peso do dado; por isso a classificação é 'verdadeiro, mas'."
+  ],
+  "o_que_e_verdade": [
+    "Anistia de R$ 12,6 bilhões aprovada no Congresso."
+  ],
+  "o_que_nao_se_sustenta": [
+    "Ainda não sancionada em 18/10."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Anistia de dívidas de MEIs (PLC 186/2026)",
+      "valor": 12.6,
+      "unidade": "R$ bilhões",
+      "periodo": "2026",
+      "fonte": {
+        "nome": "Lupa",
+        "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      }
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Lupa",
+      "veredito_original": "VERDADEIRO",
+      "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+      "data": "2026-10-18"
+    }
+  ],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Lupa",
+      "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
+  "atualizado_em": "2026-10-21"
+}

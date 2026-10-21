@@ -1,0 +1,127 @@
+{
+  "id": "chk-2089",
+  "slug": "governo-criou-22-mil-cargos-comissionados",
+  "frase": "O atual governo já criou mais 22 mil cargos comissionados.",
+  "frase_normalizada": "o atual governo ja criou mais 22 mil cargos comissionados",
+  "variantes": [],
+  "autor": {
+    "nome": "Flávio Bolsonaro",
+    "partido": "PL",
+    "cargo": "senador (RJ) e candidato à Presidência"
+  },
+  "lado": "oposicao-flavio-pl",
+  "alvo": {
+    "nome": "Governo Lula (2023-2026)",
+    "partido": "PT"
+  },
+  "data": "2026-08-28",
+  "onde": "Entrevista ao Jornal Nacional (TV Globo)",
+  "url_declaracao": "https://www.agencialupa.org/checagem/2026/08/28/ao-vivo-checagem-da-entrevista-de-flavio-bolsonaro-ao-jornal-nacional/",
+  "temas": [
+    "contas-publicas",
+    "eleicao-2026"
+  ],
+  "tags": [
+    "contas-publicas",
+    "eleicao-2026"
+  ],
+  "veredito": "exagerado",
+  "resumo_uma_frase": "Os cargos comissionados passaram de 46.989 para 52.780 em junho de 2026, aumento de cerca de 5,7 mil, quase quatro vezes menos que os 22 mil citados; a Lupa classificou como exagerado.",
+  "explicacao_simples": [
+    "Os cargos comissionados do governo federal subiram de 46.989 para 52.780 até junho de 2026.",
+    "Isso é um aumento de cerca de 5,7 mil, não 22 mil.",
+    "A Lupa classificou a frase como exagerada."
+  ],
+  "explicacao_completa_md": "Lupa (JN, 28/08/2026): EXAGERADO (46.989 para 52.780 em jun/2026, +5,7 mil). O programa de Flávio promete reforma administrativa, corte de ao menos 10 ministérios e 'revogaço' de mais de mil normas (Daniella Marques); Bolsonaro reduziu ministérios em 2019 (Lula: 'foram 10 ministérios desmontados', Lupa e Aos Fatos: VERDADEIRO).",
+  "o_que_e_verdade": [
+    "O número de cargos comissionados cresceu cerca de 5,7 mil no governo Lula 3."
+  ],
+  "o_que_nao_se_sustenta": [
+    "'22 mil': quase quatro vezes o aumento medido."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Governo Lula",
+      "papel": "ampliou cargos comissionados",
+      "peso": "alto"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Cargos comissionados em jun/2026",
+      "valor": 52780,
+      "unidade": "cargos",
+      "periodo": "jun/2026",
+      "fonte": {
+        "nome": "Agência Lupa",
+        "url": "https://www.agencialupa.org/checagem/2026/08/28/ao-vivo-checagem-da-entrevista-de-flavio-bolsonaro-ao-jornal-nacional/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": {
+        "rotulo": "Início do governo",
+        "valor": 46989
+      }
+    },
+    {
+      "rotulo": "Aumento citado por Flávio",
+      "valor": 22000,
+      "unidade": "cargos",
+      "periodo": "2026",
+      "fonte": {
+        "nome": "Agência Lupa",
+        "url": "https://www.agencialupa.org/checagem/2026/08/28/ao-vivo-checagem-da-entrevista-de-flavio-bolsonaro-ao-jornal-nacional/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": {
+        "rotulo": "Aumento medido",
+        "valor": 5791
+      }
+    }
+  ],
+  "series": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Agência Lupa",
+      "veredito_original": "EXAGERADO",
+      "url": "https://www.agencialupa.org/checagem/2026/08/28/ao-vivo-checagem-da-entrevista-de-flavio-bolsonaro-ao-jornal-nacional/",
+      "data": "2026-08-28"
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Agência Lupa",
+      "url": "https://www.agencialupa.org/checagem/2026/08/28/ao-vivo-checagem-da-entrevista-de-flavio-bolsonaro-ao-jornal-nacional/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/09_acusacoes_e_falas_flavio_x_lula.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "Quantos cargos comissionados o governo Lula criou?",
+      "resposta": "Cerca de 5,7 mil (de 46.989 para 52.780 até junho de 2026)."
+    },
+    {
+      "pergunta": "E os ministérios?",
+      "resposta": "Lula recriou ministérios extintos por Bolsonaro, que havia 'desmontado' 10 (verdadeiro, segundo Lupa e Aos Fatos); Flávio promete cortar ao menos 10."
+    },
+    {
+      "pergunta": "O que Flávio propõe para a máquina pública?",
+      "resposta": "Reforma administrativa, corte de ministérios e 'revogaço' de mais de mil normas."
+    }
+  ],
+  "relacionadas": [
+    "bolsonaro-desmontou-10-ministerios",
+    "lula-aprovou-99-por-cento-do-que-mandou"
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false
+}

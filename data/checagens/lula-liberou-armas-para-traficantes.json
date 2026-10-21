@@ -1,0 +1,191 @@
+{
+  "id": "chk-2054",
+  "slug": "lula-liberou-armas-para-traficantes",
+  "frase": "Lula liberou as armas para os traficantes; arma ilegal que você tá deixando entrar.",
+  "frase_normalizada": "lula liberou as armas para os traficantes arma ilegal que voce ta deixando entrar",
+  "variantes": [
+    "O Estatuto do Desarmamento autoriza os marginais a comprar armas de guerra",
+    "Lula desarmou o cidadão e armou o bandido"
+  ],
+  "autor": {
+    "nome": "Flávio Bolsonaro",
+    "partido": "PL",
+    "cargo": "senador (RJ) e candidato à Presidência"
+  },
+  "lado": "oposicao-flavio-pl",
+  "alvo": {
+    "nome": "Luiz Inácio Lula da Silva",
+    "partido": "PT"
+  },
+  "data": "2026-10-18",
+  "onde": "Debate da Band (consórcio Band/Cultura/Gazeta/Jovem Pan/Estadão), São Paulo (variante do Estatuto na Globo, 16/10)",
+  "url_declaracao": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+  "temas": [
+    "seguranca",
+    "eleicao-2026"
+  ],
+  "tags": [
+    "seguranca",
+    "eleicao-2026"
+  ],
+  "veredito": "falso",
+  "resumo_uma_frase": "Lula revogou em 2023 os decretos de Bolsonaro que ampliaram o acesso a armas e transferiu o controle de CACs à PF; a PF apreendeu 9.373 armas entre 2023 e out/2026 (+6,5% ante 2019-2022) e as polícias estaduais apreenderam 108.786 em 2025 (+5,4%); a Lupa classificou como falso/insustentável e o Aos Fatos como falso a versão sobre o Estatuto.",
+  "explicacao_simples": [
+    "Lula fez o contrário do que a frase diz: em 2023 revogou os decretos que facilitavam a compra de armas e passou o controle dos CACs do Exército para a PF.",
+    "A apreensão de armas aumentou: a PF apreendeu 9.373 armas de 2023 a outubro de 2026, 6,5% mais que em 2019-2022, e as polícias estaduais apreenderam 108.786 em 2025.",
+    "A Lupa classificou a acusação como falsa e insustentável; a versão de que o Estatuto do Desarmamento 'autoriza marginais a comprar armas de guerra' também foi classificada como falsa."
+  ],
+  "explicacao_completa_md": "Lupa (Band): FALSO / INSUSTENTÁVEL (Lula revogou decretos de Bolsonaro em 2023; PF apreendeu 9.373 armas 2023-out/2026, +6,5% vs 2019-2022). Aos Fatos (Globo): FALSO que o Estatuto do Desarmamento 'autoriza os marginais a comprarem armas de guerra'. Anuário 2026: registros ativos no Sinarm saltaram de 637.972 (2017) para 1.558.416 (2022) com os decretos de Bolsonaro (+63,5% só entre 2018 e 2019), e para 2.171.213 em 2025 (+0,8%, menor variação da série, após a migração dos CACs do Exército para a PF em 2023); armas apreendidas pelas polícias estaduais: 102.812 (2024) para 108.786 (2025). O estoque legal não diminuiu com Lula: parou de crescer.",
+  "o_que_e_verdade": [
+    "O estoque de armas legais não caiu no governo Lula; apenas parou de crescer (+0,8% em 2025)."
+  ],
+  "o_que_nao_se_sustenta": [
+    "'Liberou armas para traficantes': Lula restringiu o acesso legal (decreto de 2023) e as apreensões de armas ilegais cresceram.",
+    "'Estatuto autoriza armas de guerra a marginais': FALSO (Aos Fatos)."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Governo Lula (decreto de 2023)",
+      "papel": "restringiu CACs e transferiu controle à PF",
+      "peso": "alto"
+    },
+    {
+      "ator": "Governo Bolsonaro (decretos 2019-2022)",
+      "papel": "ampliou o acesso legal a armas e munições",
+      "peso": "alto"
+    },
+    {
+      "ator": "Polícias estaduais e PF",
+      "papel": "apreendem armas ilegais",
+      "peso": "medio"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Armas apreendidas pela PF",
+      "valor": 9373,
+      "unidade": "armas (+6,5% vs 2019-2022)",
+      "periodo": "2023-out/2026",
+      "fonte": {
+        "nome": "Agência Lupa",
+        "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Armas apreendidas pelas polícias estaduais",
+      "valor": 108786,
+      "unidade": "armas (+5,4%)",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Anuário Brasileiro de Segurança Pública 2026 (FBSP, PDF)",
+        "url": "https://static.poder360.com.br/uploads/2026/07/anuario-seguranca-publica-23jul26.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Registros ativos no Sinarm",
+      "valor": 2171213,
+      "unidade": "registros (+0,8%)",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Anuário Brasileiro de Segurança Pública 2026 (FBSP, PDF)",
+        "url": "https://static.poder360.com.br/uploads/2026/07/anuario-seguranca-publica-23jul26.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      "comparacao": {
+        "rotulo": "2017",
+        "valor": 637972
+      }
+    },
+    {
+      "rotulo": "Variação dos registros entre 2018 e 2019 (decretos de Bolsonaro)",
+      "valor": 63.5,
+      "unidade": "%",
+      "periodo": "2018-2019",
+      "fonte": {
+        "nome": "Anuário Brasileiro de Segurança Pública 2026 (FBSP, PDF)",
+        "url": "https://static.poder360.com.br/uploads/2026/07/anuario-seguranca-publica-23jul26.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      "comparacao": null
+    }
+  ],
+  "series": [
+    "armas-registradas-sinarm"
+  ],
+  "checagens_externas": [
+    {
+      "veiculo": "Agência Lupa",
+      "veredito_original": "FALSO / INSUSTENTÁVEL",
+      "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+      "data": "2026-10-18"
+    },
+    {
+      "veiculo": "Aos Fatos",
+      "veredito_original": "FALSO (Estatuto do Desarmamento 'autoriza marginais')",
+      "url": "https://www.aosfatos.org/noticias/checamos-flavio-bolsonaro-globo-segundo-turno/",
+      "data": "2026-10-16"
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Agência Lupa",
+      "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Anuário Brasileiro de Segurança Pública 2026 (FBSP, PDF)",
+      "url": "https://static.poder360.com.br/uploads/2026/07/anuario-seguranca-publica-23jul26.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    },
+    {
+      "nome": "Aos Fatos",
+      "url": "https://www.aosfatos.org/noticias/checamos-flavio-bolsonaro-globo-segundo-turno/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Estado de Minas, 20/07/2023 (Anuário 2023: armas)",
+      "url": "https://www.em.com.br/app/noticia/politica/2023/07/20/interna_politica,1522636/amp.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/09_acusacoes_e_falas_flavio_x_lula.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "O que Lula fez sobre armas?",
+      "resposta": "Em 2023 revogou os decretos de Bolsonaro, suspendeu novos registros de CAC e transferiu o controle do Exército para a PF."
+    },
+    {
+      "pergunta": "As apreensões de armas ilegais caíram?",
+      "resposta": "Não. A PF apreendeu 6,5% mais armas em 2023-2026 que em 2019-2022 e as polícias estaduais apreenderam 108.786 em 2025 (+5,4%)."
+    },
+    {
+      "pergunta": "O Brasil tem menos armas legais hoje?",
+      "resposta": "Não. O estoque chegou a 2,17 milhões de registros em 2025; ele parou de crescer, mas não diminuiu."
+    }
+  ],
+  "relacionadas": [
+    "bolsonaro-liberou-1-milhao-de-armas",
+    "brasil-tem-mais-armas-depois-dos-decretos",
+    "homicidios-cairam-com-bolsonaro"
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false
+}

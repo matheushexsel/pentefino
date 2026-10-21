@@ -1,0 +1,163 @@
+{
+  "id": "chk-2008",
+  "slug": "flavio-empregou-familia-de-adriano-da-nobrega",
+  "frase": "Flávio deu emprego para a irmã e para a mulher do cara que é do Escritório do Crime.",
+  "frase_normalizada": "flavio deu emprego para a irma e para a mulher do cara que e do escritorio do crime",
+  "variantes": [
+    "Flávio empregou a mãe e a mulher de Adriano da Nóbrega",
+    "Flávio empregou parentes de miliciano no Senado"
+  ],
+  "autor": {
+    "nome": "Luiz Inácio Lula da Silva",
+    "partido": "PT",
+    "cargo": "presidente da República e candidato à reeleição"
+  },
+  "lado": "governo-lula-pt",
+  "alvo": {
+    "nome": "Flávio Bolsonaro",
+    "partido": "PL"
+  },
+  "data": "2026-10-18",
+  "onde": "Debate da Band (consórcio Band/Cultura/Gazeta/Jovem Pan/Estadão), São Paulo",
+  "url_declaracao": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+  "temas": [
+    "seguranca",
+    "eleicao-2026"
+  ],
+  "tags": [
+    "seguranca",
+    "eleicao-2026"
+  ],
+  "veredito": "verdadeiro-mas",
+  "resumo_uma_frase": "É verdade que Flávio empregou em seu gabinete na Alerj, até 2018, a mãe e a mulher de Adriano da Nóbrega, apontado como chefe do 'Escritório do Crime'; Lula errou o parentesco ('irmã') e, em outra ocasião, o local ('no Senado').",
+  "explicacao_simples": [
+    "Em 2019, O Globo revelou que a mãe e a mulher de Adriano da Nóbrega trabalharam no gabinete de Flávio na Assembleia do Rio até 2018.",
+    "Lula acertou o essencial, mas disse 'irmã' em vez de mãe e, no Flow, disse que foi 'no Senado', quando foi na Alerj.",
+    "O Ranking dos Políticos considerou imprecisa a frase porque Lula também disse que o Escritório do Crime 'matou a Marielle', o que a Polícia Civil descartou."
+  ],
+  "explicacao_completa_md": "Segundo O Globo (janeiro de 2019), Flávio Bolsonaro empregou em seu gabinete na Alerj a mãe e a mulher de Adriano Magalhães da Nóbrega, ex-capitão do Bope apontado como chefe do grupo de matadores 'Escritório do Crime', até 2018; Adriano foi preso em 2004 por homicídio, condenado em 2005 e recebeu de Flávio a Medalha Tiradentes (moção de 2003, entrega em 2005). No debate da Band, a Lupa classificou a afirmação como VERDADEIRA (anotando que Lula disse 'irmã' em vez de mãe); o Ranking dos Políticos considerou IMPRECISA por causa da ligação com a morte de Marielle Franco, descartada pela Polícia Civil. No Flow (01/10), Lula disse que o emprego foi 'no Senado'; a Lupa classificou como FALSO: foi na Alerj, onde Flávio era deputado estadual (2003-2019).",
+  "o_que_e_verdade": [
+    "A mãe e a mulher de Adriano da Nóbrega foram funcionárias do gabinete de Flávio na Alerj até 2018 (O Globo, 2019).",
+    "Adriano da Nóbrega era apontado como chefe do 'Escritório do Crime' e já tinha condenação por homicídio (2005)."
+  ],
+  "o_que_nao_se_sustenta": [
+    "'Irmã': eram a mãe e a mulher de Adriano.",
+    "'No Senado' (versão de 01/10): o emprego foi na Alerj.",
+    "A afirmação de que o Escritório do Crime 'matou a Marielle': a Polícia Civil descartou essa ligação; o caso Marielle teve condenação dos irmãos Brazão e de Rivaldo Barbosa pelo STF em 25/02/2026."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Flávio Bolsonaro",
+      "papel": "titular do gabinete que empregou as parentes de Adriano",
+      "peso": "alto"
+    },
+    {
+      "ator": "Lula",
+      "papel": "autor da frase, com erros de parentesco e local",
+      "peso": "medio"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Parentes de Adriano empregadas",
+      "valor": 2,
+      "unidade": "pessoas (mãe e mulher)",
+      "periodo": "até 2018",
+      "fonte": {
+        "nome": "Agência Lupa",
+        "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Período de Flávio na Alerj",
+      "valor": 16,
+      "unidade": "anos (01/02/2003 a 01/02/2019)",
+      "periodo": "2003-2019",
+      "fonte": {
+        "nome": "Wikipédia: Flávio Bolsonaro (índice com fontes primárias)",
+        "url": "https://pt.wikipedia.org/wiki/Fl%C3%A1vio_Bolsonaro",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": null
+    }
+  ],
+  "series": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Agência Lupa",
+      "veredito_original": "VERDADEIRO (com erro de parentesco)",
+      "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+      "data": "2026-10-18"
+    },
+    {
+      "veiculo": "Ranking dos Políticos",
+      "veredito_original": "IMPRECISO (ligação com Marielle descartada)",
+      "url": "https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026",
+      "data": "2026-10-18"
+    },
+    {
+      "veiculo": "Agência Lupa",
+      "veredito_original": "FALSO que foi 'no Senado' (Flow, 01/10)",
+      "url": "https://www.agencialupa.org/checagem/2026/10/01/ao-vivo-checagem-da-entrevista-de-lula-no-flow/",
+      "data": "2026-10-01"
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Agência Lupa",
+      "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Wikipédia: Flávio Bolsonaro (índice com fontes primárias)",
+      "url": "https://pt.wikipedia.org/wiki/Fl%C3%A1vio_Bolsonaro",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Ranking dos Políticos",
+      "url": "https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Agência Lupa",
+      "url": "https://www.agencialupa.org/checagem/2026/10/01/ao-vivo-checagem-da-entrevista-de-lula-no-flow/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/09_acusacoes_e_falas_flavio_x_lula.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "Quem era Adriano da Nóbrega?",
+      "resposta": "Ex-capitão do Bope, acusado desde 2003, preso por homicídio em 2004 e condenado em 2005, apontado pelas autoridades como chefe do grupo 'Escritório do Crime'."
+    },
+    {
+      "pergunta": "Isso prova que Flávio é ligado a milícia?",
+      "resposta": "Não por si só. Prova que ele empregou parentes de Adriano e o homenageou; não há investigação ou sentença sobre vínculo de Flávio com milícia."
+    },
+    {
+      "pergunta": "O que Flávio diz?",
+      "resposta": "Que a homenagem foi há mais de 20 anos e que, à época, Adriano 'não tinha feito nada de errado'; a Lupa mostrou que ele já era acusado desde maio de 2003."
+    }
+  ],
+  "relacionadas": [
+    "flavio-miliciano",
+    "adriano-da-nobrega-nao-tinha-feito-nada-de-errado",
+    "flavio-vereador-aos-21"
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false
+}

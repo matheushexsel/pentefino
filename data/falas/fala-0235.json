@@ -1,0 +1,54 @@
+{
+  "id": "fala-0235",
+  "slug": "flavio-nem-em-mim-meu-pai-pode-votar",
+  "evento_id": "debate-band-2turno-2026-10-18",
+  "candidato": "flavio-bolsonaro",
+  "lado": "oposicao-flavio-pl",
+  "minuto": "~21h39 (2º bloco)",
+  "frase_literal": "Nem em mim ele pode votar, porque ele foi vítima da perseguição.",
+  "literal": true,
+  "tema": "justica-stf",
+  "veredito": "verdadeiro-mas",
+  "resumo_uma_frase": "É fato que Jair Bolsonaro não pode votar: tem direitos políticos suspensos após condenação definitiva (CF, art. 15, III); 'perseguição' é opinião.",
+  "explicacao_simples": [
+    "Flávio Bolsonaro, no debate da Band (18/10/2026), disse: “Nem em mim ele pode votar, porque ele foi vítima da perseguição”.",
+    "Jair Bolsonaro teve os direitos políticos suspensos após condenação criminal definitiva, conforme o art. 15, III, da Constituição; a motivação ('perseguição') é juízo de valor.",
+    "O núcleo da frase está correto, mas falta uma ressalva que muda o peso do dado; por isso a classificação é 'verdadeiro, mas'."
+  ],
+  "o_que_e_verdade": [
+    "Jair Bolsonaro não pode votar."
+  ],
+  "o_que_nao_se_sustenta": [
+    "A causa é a condenação transitada em julgado, não 'perseguição' — qualificação opinativa."
+  ],
+  "numeros": [],
+  "base_legal": [
+    {
+      "norma": "Constituição Federal, art. 15, III",
+      "o_que_diz": "Suspende os direitos políticos (inclusive o voto) de quem tem condenação criminal transitada em julgado, enquanto durarem seus efeitos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+    }
+  ],
+  "checagens_externas": [],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/flavio-pergunta-sobre-voto-de-presidiarios-lula-responde-ate-do-seu-pai/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Poder360",
+      "url": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-diz-que-lula-foi-eleito-por-aclamacao-nos-presidios/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
+  "atualizado_em": "2026-10-21",
+  "lacunas": [
+    "Sem checagem de agência; veredito atribuído pela nota com base nos fatos citados."
+  ]
+}

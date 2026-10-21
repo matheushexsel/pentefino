@@ -1,0 +1,568 @@
+{
+  "id": "saude-quem-e-responsavel",
+  "pergunta": "SUS: quem é responsável pelo posto de saúde, pela vacina e pelo hospital?",
+  "resposta_curta": "Os três níveis, cada um com um pedaço. A União compra e distribui vacinas, define o calendário e as políticas nacionais (Mais Médicos, Farmácia Popular) e deve aplicar no mínimo 15% da receita corrente líquida em saúde. Estados coordenam hospitais regionais e a média e alta complexidade (piso de 12% da receita de impostos). Municípios tocam os postos, a vacinação e a vigilância local (piso de 15%). Quando falta vacina no posto, a compra é federal e a aplicação é municipal; quando falta UTI regional, a gestão costuma ser estadual.",
+  "temas": [
+    "saude"
+  ],
+  "cadeia_de_responsabilidade": [
+    {
+      "ator": "Governo federal (Ministério da Saúde)",
+      "o_que_controla": "Compra e distribuição de vacinas, calendário do PNI e comunicação nacional; programas como Mais Médicos, Farmácia Popular e Agora Tem Especialistas; vacina da dengue (Qdenga) e repasses emergenciais; piso de 15% da RCL (R$ 217,9 bi em 2024); cerca de 40% do gasto público em saúde.",
+      "o_que_nao_controla": "Aplicação das vacinas nas UBS, busca ativa, gestão dos hospitais estaduais e municipais, controle do mosquito da dengue.",
+      "peso": "alto",
+      "url": "https://agencia.fiocruz.br/sites/agencia.fiocruz.br/files/u35/nt-horizontes-gasto-publico-em-saude.pdf"
+    },
+    {
+      "ator": "Governos estaduais",
+      "o_que_controla": "Média e alta complexidade, hospitais regionais e leitos de UTI, regulação de vagas, vigilância epidemiológica estadual; piso de 12% da receita de impostos.",
+      "o_que_nao_controla": "Compra nacional de vacinas, atenção básica municipal, regras de financiamento federal.",
+      "peso": "medio",
+      "url": "https://agencia.fiocruz.br/sites/agencia.fiocruz.br/files/u35/nt-horizontes-gasto-publico-em-saude.pdf"
+    },
+    {
+      "ator": "Prefeituras",
+      "o_que_controla": "Atenção básica (UBS), aplicação de vacinas e busca ativa, agentes comunitários e de endemias (controle da dengue), vigilância local; piso de 15% da receita de impostos. O gasto municipal cresceu 168,7% em termos reais entre 2003 e 2017.",
+      "o_que_nao_controla": "Calendário vacinal, compra de imunizantes, hospitais de alta complexidade.",
+      "peso": "alto",
+      "url": "https://agencia.fiocruz.br/sites/agencia.fiocruz.br/files/u35/nt-horizontes-gasto-publico-em-saude.pdf"
+    },
+    {
+      "ator": "Congresso Nacional",
+      "o_que_controla": "Regras de financiamento: EC 29/2000 (pisos), EC 86/2015 (15% da RCL), EC 95/2016 (teto de gastos, piso congelado), LC 200/2023 (arcabouço, 15% da RCL restabelecido); orçamento anual; CPI da Pandemia (2021).",
+      "o_que_nao_controla": "Execução dos serviços.",
+      "peso": "medio",
+      "url": "https://www2.camara.leg.br/orcamento-da-uniao/estudos/2024/nt-36-de-2024-simulacoes-gastos-minimos-da-uniao-saude-educacao-e-beneficios-rgps"
+    },
+    {
+      "ator": "Anvisa e STF",
+      "o_que_controla": "Anvisa autoriza vacinas e medicamentos (CoronaVac e AstraZeneca em 17/01/2021); o STF reconheceu competência concorrente de estados e municípios para medidas sanitárias na pandemia.",
+      "o_que_nao_controla": "Compra e aplicação.",
+      "peso": "baixo",
+      "url": "https://pt.wikipedia.org/wiki/Pandemia_de_COVID-19_no_Brasil"
+    }
+  ],
+  "composicao": [
+    {
+      "rotulo": "Participação da União no gasto público em saúde (aprox.)",
+      "percentual": 40,
+      "fonte": {
+        "nome": "Fiocruz — Nota Técnica Horizontes: gasto público em saúde",
+        "url": "https://agencia.fiocruz.br/sites/agencia.fiocruz.br/files/u35/nt-horizontes-gasto-publico-em-saude.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      }
+    }
+  ],
+  "linha_do_tempo": [
+    {
+      "data": "2000",
+      "evento": "EC 29 cria os pisos de aplicação em saúde para União, estados e municípios.",
+      "url": "https://agencia.fiocruz.br/sites/agencia.fiocruz.br/files/u35/nt-horizontes-gasto-publico-em-saude.pdf"
+    },
+    {
+      "data": "2013-07-08",
+      "evento": "Lançamento do Mais Médicos (governo Dilma); pico de 18.240 médicos até 2017.",
+      "url": "https://pt.wikipedia.org/wiki/Programa_Mais_M%C3%A9dicos"
+    },
+    {
+      "data": "2015",
+      "evento": "EC 86 vincula o piso federal a 15% da RCL, de forma escalonada (governo Dilma).",
+      "url": "https://agencia.fiocruz.br/sites/agencia.fiocruz.br/files/u35/nt-horizontes-gasto-publico-em-saude.pdf"
+    },
+    {
+      "data": "2016",
+      "evento": "EC 95 (teto de gastos, governo Temer) congela o piso federal em termos reais por 20 anos. Cobertura da pólio e da meningocócica fica abaixo de 95% a partir deste ano.",
+      "url": "https://portaldeboaspraticas.iff.fiocruz.br/atencao-crianca/principais-questoes-sobre-retomada-da-cobertura-vacinal/"
+    },
+    {
+      "data": "2018-11",
+      "evento": "Cerca de 8.556 médicos cubanos deixam o Mais Médicos após a eleição de Bolsonaro.",
+      "url": "https://pt.wikipedia.org/wiki/Programa_Mais_M%C3%A9dicos"
+    },
+    {
+      "data": "2019-08-01",
+      "evento": "Mais Médicos é substituído pelo Médicos pelo Brasil (governo Bolsonaro).",
+      "url": "https://pt.wikipedia.org/wiki/Programa_Mais_M%C3%A9dicos"
+    },
+    {
+      "data": "2021-01-17",
+      "evento": "Anvisa autoriza CoronaVac e AstraZeneca; campanha nacional começa em 19/01/2021.",
+      "url": "https://pt.wikipedia.org/wiki/Pandemia_de_COVID-19_no_Brasil"
+    },
+    {
+      "data": "2021-04-27",
+      "evento": "Instalada a CPI da Pandemia no Senado; relatório aprovado em 26/10/2021 por 7 a 4.",
+      "url": "https://pt.wikipedia.org/wiki/CPI_da_Pandemia"
+    },
+    {
+      "data": "2023-03-20",
+      "evento": "Mais Médicos é relançado (governo Lula 3) com 15 mil vagas; 28,2 mil vagas preenchidas ao fim de 2023.",
+      "url": "https://pt.wikipedia.org/wiki/Programa_Mais_M%C3%A9dicos"
+    },
+    {
+      "data": "2023-03-28",
+      "evento": "Brasil ultrapassa 700 mil mortes por covid-19 (700.239, Conass).",
+      "url": "https://www.cartacapital.com.br/saude/covid-19-tres-anos-apos-primeira-morte-brasil-alcanca-a-marca-de-700-mil-mortes-pela-doenca/"
+    },
+    {
+      "data": "2023",
+      "evento": "LC 200 (arcabouço fiscal, governo Lula 3) restabelece o piso de 15% da RCL a partir de 2024.",
+      "url": "https://www2.camara.leg.br/orcamento-da-uniao/estudos/2024/nt-36-de-2024-simulacoes-gastos-minimos-da-uniao-saude-educacao-e-beneficios-rgps"
+    },
+    {
+      "data": "2024",
+      "evento": "Pior ano da dengue na série histórica: 6.022 mortes. Cobertura da 2ª dose da tríplice viral sobe a 80,1% (57,6% em 2022).",
+      "url": "https://www.revistaoeste.com/saude/recorde-brasil-tem-66-milhoes-de-casos-de-dengue-em-2024-e-mais-de-6-mil-mortes/"
+    },
+    {
+      "data": "2025-12",
+      "evento": "Agora Tem Especialistas tem 577 especialistas em 187 municípios; 1.501 em jun/2026.",
+      "url": "https://agenciagov.ebc.com.br/noticias/202512/com-577-medicos-especialistas-ministerio-da-saude-supera-meta-estabelecida-pelo-programa-agora-tem-especialistas"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Piso federal da saúde (15% da RCL)",
+      "valor": 217.86,
+      "unidade": "R$ bilhões",
+      "periodo": "2024",
+      "fonte": {
+        "nome": "Câmara dos Deputados — Consultoria de Orçamento, NT 36/2024",
+        "url": "https://www2.camara.leg.br/orcamento-da-uniao/estudos/2024/nt-36-de-2024-simulacoes-gastos-minimos-da-uniao-saude-educacao-e-beneficios-rgps",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "2023",
+        "valor": 185.06
+      }
+    },
+    {
+      "rotulo": "Piso federal estimado no PLOA 2026",
+      "valor": 245.5,
+      "unidade": "R$ bilhões",
+      "periodo": "2026",
+      "fonte": {
+        "nome": "O Imparcial/Estadão Conteúdo — PLOA 2026",
+        "url": "https://oimparcial.com.br/economia/2025/08/despesas-federais-poderao-crescer-ate-r-168-bilhoes-em-2026/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Despesa federal com saúde em % do PIB",
+      "valor": 2.16,
+      "unidade": "% do PIB",
+      "periodo": "2019",
+      "fonte": {
+        "nome": "Fiocruz — Nota Técnica Horizontes: gasto público em saúde",
+        "url": "https://agencia.fiocruz.br/sites/agencia.fiocruz.br/files/u35/nt-horizontes-gasto-publico-em-saude.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      }
+    },
+    {
+      "rotulo": "Piso dos estados (receita de impostos)",
+      "valor": 12,
+      "unidade": "%",
+      "periodo": "vigente",
+      "fonte": {
+        "nome": "Fiocruz — Nota Técnica Horizontes: gasto público em saúde",
+        "url": "https://agencia.fiocruz.br/sites/agencia.fiocruz.br/files/u35/nt-horizontes-gasto-publico-em-saude.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      }
+    },
+    {
+      "rotulo": "Piso dos municípios (receita de impostos)",
+      "valor": 15,
+      "unidade": "%",
+      "periodo": "vigente",
+      "fonte": {
+        "nome": "Fiocruz — Nota Técnica Horizontes: gasto público em saúde",
+        "url": "https://agencia.fiocruz.br/sites/agencia.fiocruz.br/files/u35/nt-horizontes-gasto-publico-em-saude.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      }
+    },
+    {
+      "rotulo": "Crescimento real do gasto da União com saúde 2003–2017",
+      "valor": 89.3,
+      "unidade": "%",
+      "periodo": "2003–2017",
+      "fonte": {
+        "nome": "Fiocruz — Nota Técnica Horizontes: gasto público em saúde",
+        "url": "https://agencia.fiocruz.br/sites/agencia.fiocruz.br/files/u35/nt-horizontes-gasto-publico-em-saude.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      "comparacao": {
+        "rotulo": "Municípios",
+        "valor": 168.7
+      }
+    },
+    {
+      "rotulo": "Participação pública no gasto total em saúde",
+      "valor": 40.9,
+      "unidade": "%",
+      "periodo": "2019",
+      "fonte": {
+        "nome": "Fiocruz — Nota Técnica Horizontes: gasto público em saúde",
+        "url": "https://agencia.fiocruz.br/sites/agencia.fiocruz.br/files/u35/nt-horizontes-gasto-publico-em-saude.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      "comparacao": {
+        "rotulo": "2015",
+        "valor": 43.5
+      }
+    },
+    {
+      "rotulo": "Mortalidade infantil",
+      "valor": 12.3,
+      "unidade": "por mil nascidos vivos",
+      "periodo": "2024",
+      "fonte": {
+        "nome": "NSC Total (IBGE, Tábua de Mortalidade 2024)",
+        "url": "https://www.nsctotal.com.br/?p=7739876",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "2023",
+        "valor": 12.5
+      }
+    },
+    {
+      "rotulo": "Expectativa de vida ao nascer",
+      "valor": 76.6,
+      "unidade": "anos",
+      "periodo": "2024",
+      "fonte": {
+        "nome": "Monitor Mercantil (IBGE, Tábua de Mortalidade 2024)",
+        "url": "https://monitormercantil.com.br/expectativa-de-vida-do-brasileiro-chega-a-766-anos-em-2024/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "2021 (pandemia)",
+        "valor": 72.8
+      }
+    },
+    {
+      "rotulo": "Cobertura da 2ª dose da tríplice viral",
+      "valor": 80.1,
+      "unidade": "%",
+      "periodo": "2024",
+      "fonte": {
+        "nome": "Agência Gov — municípios com mais de 95% de cobertura vacinal (jan/2025)",
+        "url": "https://agenciagov.ebc.com.br/noticias/202501/cresce-numero-de-municipios-com-mais-de-95-de-cobertura-vacinal",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "2022",
+        "valor": 57.6
+      }
+    },
+    {
+      "rotulo": "Mortes por covid-19 (acumulado)",
+      "valor": 716238,
+      "unidade": "óbitos",
+      "periodo": "jun/2025",
+      "fonte": {
+        "nome": "Wikipédia pt — Pandemia de COVID-19 no Brasil",
+        "url": "https://pt.wikipedia.org/wiki/Pandemia_de_COVID-19_no_Brasil",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Mortes por dengue",
+      "valor": 6022,
+      "unidade": "óbitos",
+      "periodo": "2024",
+      "fonte": {
+        "nome": "Revista Oeste (painel do MS) — dengue 2024",
+        "url": "https://www.revistaoeste.com/saude/recorde-brasil-tem-66-milhoes-de-casos-de-dengue-em-2024-e-mais-de-6-mil-mortes/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "2023 (jun/2024)",
+        "valor": 1179
+      }
+    },
+    {
+      "rotulo": "Médicos por mil habitantes",
+      "valor": 1.86,
+      "unidade": "médicos/1.000 hab.",
+      "periodo": "2013",
+      "fonte": {
+        "nome": "Senado Federal — apresentação",
+        "url": "https://legis.senado.leg.br/sdleg-getter/documento/download/7bdd21ea-bd22-4dd3-af60-df6b4f1375d7",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "OCDE",
+        "valor": 2.8
+      }
+    },
+    {
+      "rotulo": "Vagas preenchidas no Mais Médicos",
+      "valor": 28200,
+      "unidade": "médicos",
+      "periodo": "2023",
+      "fonte": {
+        "nome": "Sul21 — Mais Médicos 2023",
+        "url": "https://sul21.com.br/?p=225242",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "pico anterior (2017)",
+        "valor": 18240
+      }
+    }
+  ],
+  "series": [
+    "gasto-federal-saude",
+    "mortalidade-infantil",
+    "expectativa-de-vida",
+    "cobertura-vacinal-triplice-viral",
+    "covid-mortes",
+    "dengue-casos-mortes"
+  ],
+  "mitos_e_fatos": [
+    {
+      "mito": "A vacinação caiu só por causa do governo Bolsonaro.",
+      "fato": "A queda começou antes: pólio e meningocócica ficaram abaixo de 95% desde 2016 e a tríplice viral desde 2017 (governos Dilma e Temer). A piora foi mais acentuada em 2019–2022, com pandemia e desinformação; a recuperação em 2023–2024 (tríplice viral D2 de 57,6% para 80,1%) é real, mas em 2025 várias vacinas seguiam abaixo da meta.",
+      "fontes": [
+        {
+          "nome": "Portal de Boas Práticas IFF/Fiocruz — retomada da cobertura vacinal",
+          "url": "https://portaldeboaspraticas.iff.fiocruz.br/atencao-crianca/principais-questoes-sobre-retomada-da-cobertura-vacinal/",
+          "acesso_em": "2026-10-21",
+          "tier": "academico"
+        },
+        {
+          "nome": "Agência Gov — municípios com mais de 95% de cobertura vacinal (jan/2025)",
+          "url": "https://agenciagov.ebc.com.br/noticias/202501/cresce-numero-de-municipios-com-mais-de-95-de-cobertura-vacinal",
+          "acesso_em": "2026-10-21",
+          "tier": "oficial"
+        },
+        {
+          "nome": "Jornal de Brasília — Saúde alerta para baixa cobertura vacinal",
+          "url": "https://jornaldebrasilia.com.br/noticias/saude/saude-alerta-para-baixa-cobertura-vacinal-de-triplice-viral-poliomielite-influenza-e-covid-19/",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        }
+      ]
+    },
+    {
+      "mito": "A mortalidade infantil é mérito de um governo específico.",
+      "fato": "Ela caiu de forma contínua em todos os governos, de 146 por mil em 1940 para 12,3 por mil em 2024. O IBGE atribui a queda a vacinação, pré-natal, aleitamento, agentes comunitários, renda, escolaridade e saneamento. O único retrocesso agudo recente foi a pandemia (2020–2021), quando a expectativa de vida caiu a 72,8 anos.",
+      "fontes": [
+        {
+          "nome": "Jovem Pan (IBGE, Tábua de Mortalidade 2024)",
+          "url": "https://jovempan.com.br/noticias/brasil/expectativa-de-vida-do-brasileiro-sobe-para-766-anos-em-2024.html",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "Monitor Mercantil (IBGE, Tábua de Mortalidade 2024)",
+          "url": "https://monitormercantil.com.br/expectativa-de-vida-do-brasileiro-chega-a-766-anos-em-2024/",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        }
+      ]
+    },
+    {
+      "mito": "A epidemia de dengue de 2024 é culpa exclusiva do governo federal.",
+      "fato": "O controle do mosquito é municipal (agentes de endemias) com apoio estadual; a vacina e os repasses emergenciais (R$ 1,5 bi em 2024) são federais. O recorde de 6.022 mortes coincidiu com El Niño e expansão do sorotipo 3.",
+      "fontes": [
+        {
+          "nome": "Revista Oeste (painel do MS) — dengue 2024",
+          "url": "https://www.revistaoeste.com/saude/recorde-brasil-tem-66-milhoes-de-casos-de-dengue-em-2024-e-mais-de-6-mil-mortes/",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "Agência Brasil/Radioagência — recorde de dengue (jun/2024)",
+          "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/saude/audio/2024-06/brasil-bate-recorde-de-casos-de-dengue-e-numero-de-mortes-pela-doenca",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        }
+      ]
+    },
+    {
+      "mito": "O piso da saúde foi 'cortado' pelo arcabouço.",
+      "fato": "A LC 200/2023 restabeleceu os 15% da RCL a partir de 2024 (o piso subiu 17,72% entre 2023 e 2024). O problema apontado pelo próprio governo é outro: os pisos crescem com a receita, mas o arcabouço limita a despesa total a 0,6%–2,5% reais ao ano, o que projeta aperto em 2027.",
+      "fontes": [
+        {
+          "nome": "Câmara dos Deputados — Consultoria de Orçamento, NT 36/2024",
+          "url": "https://www2.camara.leg.br/orcamento-da-uniao/estudos/2024/nt-36-de-2024-simulacoes-gastos-minimos-da-uniao-saude-educacao-e-beneficios-rgps",
+          "acesso_em": "2026-10-21",
+          "tier": "oficial"
+        },
+        {
+          "nome": "InfoMoney — governo projeta falta de recursos para saúde e educação em 2027",
+          "url": "https://www.infomoney.com.br/politica/governo-projeta-falta-de-recursos-para-saude-e-educacao-no-orcamento-de-2027/",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        }
+      ]
+    }
+  ],
+  "perguntas_frequentes": [
+    {
+      "pergunta": "Quem decide fechar escolas e comércio numa pandemia?",
+      "resposta": "Governadores e prefeitos, com competência concorrente reconhecida pelo STF. A compra de vacinas e a coordenação nacional são federais. Na covid-19, o governo federal não respondeu 81 e-mails da Pfizer (ofertas desde ago/2020) e a CPI listou 11 recusas a ofertas de vacina; os pedidos de indiciamento da CPI não têm efeito jurídico direto e cabiam à PGR e aos MPs."
+    },
+    {
+      "pergunta": "O gasto federal com saúde cresceu ou caiu?",
+      "resposta": "Como proporção do PIB ficou perto de 2% fora da pandemia (2,16% em 2019). Subiu 19,6% em termos reais em 2020, ficou 14,9% acima de 2019 em 2021 e voltou ao patamar pré-pandemia em 2022 (cerca de R$ 190 bi). Entre 2003 e 2017, o gasto da União cresceu 89,3% em termos reais; o dos estados, 130%; o dos municípios, 168,7%."
+    },
+    {
+      "pergunta": "O Mais Médicos acabou?",
+      "resposta": "Foi substituído pelo Médicos pelo Brasil em 01/08/2019 (governo Bolsonaro), depois que cerca de 8.556 cubanos deixaram o programa em nov/2018, e relançado em 20/03/2023 (governo Lula 3), chegando a 28,2 mil vagas preenchidas ao fim de 2023. O programa de especialistas (2025) tinha 577 profissionais em dez/2025 e 1.501 em jun/2026 — ainda pequeno frente às filas."
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Fiocruz — Nota Técnica Horizontes: gasto público em saúde",
+      "url": "https://agencia.fiocruz.br/sites/agencia.fiocruz.br/files/u35/nt-horizontes-gasto-publico-em-saude.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    },
+    {
+      "nome": "Câmara dos Deputados — Consultoria de Orçamento, NT 36/2024",
+      "url": "https://www2.camara.leg.br/orcamento-da-uniao/estudos/2024/nt-36-de-2024-simulacoes-gastos-minimos-da-uniao-saude-educacao-e-beneficios-rgps",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "O Imparcial/Estadão Conteúdo — PLOA 2026",
+      "url": "https://oimparcial.com.br/economia/2025/08/despesas-federais-poderao-crescer-ate-r-168-bilhoes-em-2026/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "InfoMoney — governo projeta falta de recursos para saúde e educação em 2027",
+      "url": "https://www.infomoney.com.br/politica/governo-projeta-falta-de-recursos-para-saude-e-educacao-no-orcamento-de-2027/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "NSC Total (IBGE, Tábua de Mortalidade 2024)",
+      "url": "https://www.nsctotal.com.br/?p=7739876",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Monitor Mercantil (IBGE, Tábua de Mortalidade 2024)",
+      "url": "https://monitormercantil.com.br/expectativa-de-vida-do-brasileiro-chega-a-766-anos-em-2024/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Jovem Pan (IBGE, Tábua de Mortalidade 2024)",
+      "url": "https://jovempan.com.br/noticias/brasil/expectativa-de-vida-do-brasileiro-sobe-para-766-anos-em-2024.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Portal de Boas Práticas IFF/Fiocruz — retomada da cobertura vacinal",
+      "url": "https://portaldeboaspraticas.iff.fiocruz.br/atencao-crianca/principais-questoes-sobre-retomada-da-cobertura-vacinal/",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    },
+    {
+      "nome": "Agência Gov — municípios com mais de 95% de cobertura vacinal (jan/2025)",
+      "url": "https://agenciagov.ebc.com.br/noticias/202501/cresce-numero-de-municipios-com-mais-de-95-de-cobertura-vacinal",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "HU Revista (UFJF) — estudo com dados DATASUS",
+      "url": "https://periodicos.ufjf.br/index.php/hurevista/article/download/48275/29469/221610",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    },
+    {
+      "nome": "CNM — estudo técnico cobertura vacinal 2010–2024",
+      "url": "https://cnm.org.br/biblioteca/download/16281",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    },
+    {
+      "nome": "Jornal de Brasília — Saúde alerta para baixa cobertura vacinal",
+      "url": "https://jornaldebrasilia.com.br/noticias/saude/saude-alerta-para-baixa-cobertura-vacinal-de-triplice-viral-poliomielite-influenza-e-covid-19/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Wikipédia pt — Programa Mais Médicos (compilação com fontes)",
+      "url": "https://pt.wikipedia.org/wiki/Programa_Mais_M%C3%A9dicos",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Sul21 — Mais Médicos 2023",
+      "url": "https://sul21.com.br/?p=225242",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Agência Gov — Agora Tem Especialistas (dez/2025)",
+      "url": "https://agenciagov.ebc.com.br/noticias/202512/com-577-medicos-especialistas-ministerio-da-saude-supera-meta-estabelecida-pelo-programa-agora-tem-especialistas",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Wikipédia pt — Pandemia de COVID-19 no Brasil",
+      "url": "https://pt.wikipedia.org/wiki/Pandemia_de_COVID-19_no_Brasil",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Wikipédia pt — CPI da Pandemia",
+      "url": "https://pt.wikipedia.org/wiki/CPI_da_Pandemia",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Congresso em Foco — relatório final da CPI da Pandemia",
+      "url": "https://congressoemfoco.com.br/temas/saude/senadores-aprovam-relatorio-final-da-pandemia",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "CartaCapital — 700 mil mortes por covid",
+      "url": "https://www.cartacapital.com.br/saude/covid-19-tres-anos-apos-primeira-morte-brasil-alcanca-a-marca-de-700-mil-mortes-pela-doenca/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Revista Oeste (painel do MS) — dengue 2024",
+      "url": "https://www.revistaoeste.com/saude/recorde-brasil-tem-66-milhoes-de-casos-de-dengue-em-2024-e-mais-de-6-mil-mortes/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Agência Brasil/Radioagência — recorde de dengue (jun/2024)",
+      "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/saude/audio/2024-06/brasil-bate-recorde-de-casos-de-dengue-e-numero-de-mortes-pela-doenca",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "lacunas": [
+    "Tabela oficial única com gasto de cada ente em % do PIB por ano não localizada.",
+    "Série anual do SI-PNI por vacina (2015–2025) e balanço fechado de 2025 não obtidos.",
+    "Dados de Farmácia Popular, leitos SUS, UPAs e tempo de fila não localizados (portal do MS indisponível por legislação eleitoral).",
+    "Desfecho dos pedidos da CPI da Pandemia na PGR não confirmado."
+  ],
+  "atualizado_em": "2026-10-21",
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/07_saude_seguranca_educacao_infra_ambiente.md"
+}

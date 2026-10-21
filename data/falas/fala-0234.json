@@ -1,0 +1,233 @@
+{
+  "id": "fala-0234",
+  "slug": "flavio-73-por-cento-dos-presidiarios-votaram-em-lula",
+  "evento_id": "debate-band-2turno-2026-10-18",
+  "candidato": "flavio-bolsonaro",
+  "lado": "oposicao-flavio-pl",
+  "minuto": "~21h39 (2º bloco)",
+  "frase_literal": "Você pode explicar por que 73% dos presidiários votaram em você? / Você recebeu o voto de 73% dos presidiários desse país. / Você foi eleito por aclamação nos presídios, você representa eles. / Você teve voto de estuprador, de assaltante. / Você que está em casa, você quer votar igual àquelas pessoas que estão nos presídios?",
+  "literal": true,
+  "tema": "seguranca",
+  "veredito": "falta-contexto",
+  "resumo_uma_frase": "Lula teve 72,55% dos 11.190 votos válidos nas 243 seções em presídios, mas só presos provisórios (sem condenação definitiva), adolescentes internados e servidores votam ali: cerca de 1% da população prisional.",
+  "explicacao_simples": [
+    "Flávio Bolsonaro, no debate da Band (18/10/2026), disse: “Você pode explicar por que 73% dos presidiários votaram em você? / Você recebeu o voto de 73% dos presidiários desse país. / Você foi eleito por aclamação nos presídios, você representa eles. / Você teve voto de estuprador, de assaltante. / Você que está em casa, você quer votar igual àquelas pessoas que estão nos presídios?”.",
+    "TSE (via Poder360): 11.190 votos válidos em 243 seções penais; Lula 8.118 (72,55%), Flávio 2.605 (23,28%). Condenados com trânsito em julgado não votam (CF, art. 15, III); os 12.814 presos provisórios habilitados são ~5–6% dos provisórios e os 11.190 votos ~1,2% dos 964.668 presos. A Lei 15.358/2026 tentou barrar o voto dos provisórios, mas o TSE (PA 0600587-56) decidiu que só vale a partir de 2027.",
+    "A frase omite informações que mudam a leitura do dado; por isso é classificada como 'falta contexto'."
+  ],
+  "o_que_e_verdade": [
+    "Lula venceu com ampla margem nas seções eleitorais instaladas em presídios (72,6%)."
+  ],
+  "o_que_nao_se_sustenta": [
+    "'Presidiários' em geral não votam: condenados definitivos têm direitos políticos suspensos.",
+    "Os votantes são presos provisórios (presumidos inocentes), adolescentes internados e servidores; condenados por estupro não votam.",
+    "O universo é ~1% da população prisional e ~0,01% do eleitorado."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Votos válidos nas seções penais",
+      "valor": 11190,
+      "unidade": "votos",
+      "periodo": "1º turno 2026",
+      "fonte": {
+        "nome": "Poder360",
+        "url": "https://www.poder360.com.br/poder-eleicoes-2026/lula-teve-726-e-flavio-233-em-presidios-no-1o-turno/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Votos de Lula nas seções penais",
+      "valor": 72.55,
+      "unidade": "%",
+      "periodo": "1º turno 2026",
+      "fonte": {
+        "nome": "Poder360",
+        "url": "https://www.poder360.com.br/poder-eleicoes-2026/lula-teve-726-e-flavio-233-em-presidios-no-1o-turno/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "Flávio",
+        "valor": 23.28
+      }
+    },
+    {
+      "rotulo": "Presos provisórios habilitados a votar",
+      "valor": 12814,
+      "unidade": "eleitores",
+      "periodo": "2026",
+      "fonte": {
+        "nome": "O Povo",
+        "url": "https://www.opovo.com.br/noticias/politica/eleicoes/2026/10/19/voto-de-presos-no-brasil-em-2026-quem-pode-votar-e-como-funciona.html",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "População prisional (Anuário 2026)",
+      "valor": 964668,
+      "unidade": "presos",
+      "periodo": "2026",
+      "fonte": {
+        "nome": "Fórum Brasileiro de Segurança Pública / Anuário 2026 (via ConJur e Correio Braziliense)",
+        "url": "https://www.correiobraziliense.com.br/direito-e-justica/2026/07/7453089-prisao-preventivaquando-a-excecao-vira-regra.html",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "Presos provisórios, 2024",
+        "valor": 218225
+      }
+    }
+  ],
+  "base_legal": [
+    {
+      "norma": "Constituição Federal, art. 15, III",
+      "o_que_diz": "Suspende os direitos políticos (inclusive o voto) de quem tem condenação criminal transitada em julgado, enquanto durarem seus efeitos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+    },
+    {
+      "norma": "Lei 15.358/2026 (Lei Antifacção), de 24/3/2026",
+      "o_que_diz": "Fixa penas de 20 a 40 anos para integrantes de organizações criminosas, em dobro para líderes; também alterou o Código Eleitoral para impedir o alistamento de presos provisórios.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/L15358.htm"
+    },
+    {
+      "norma": "TSE — PA 0600587-56.2026.6.00.0000 (decisão unânime de 23/4/2026)",
+      "o_que_diz": "A regra da Lei Antifacção que impede presos provisórios de se alistar não vale em 2026, por violar a anualidade eleitoral (CF, art. 16); passa a valer a partir de 2027.",
+      "url": "https://conjur.com.br/2026-abr-25/lei-antifaccao-nao-pode-impedir-presos-provisorios-de-votar-em-2026-2/"
+    },
+    {
+      "norma": "Constituição Federal, art. 16 (anualidade eleitoral)",
+      "o_que_diz": "Lei que altera o processo eleitoral entra em vigor na data da publicação, mas não se aplica à eleição que ocorra até um ano depois.",
+      "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+    }
+  ],
+  "checagens_externas": [
+    {
+      "veiculo": "Lupa",
+      "veredito_original": "FALTA CONTEXTO",
+      "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+      "data": "2026-10-18"
+    },
+    {
+      "veiculo": "Aos Fatos",
+      "veredito_original": "DISTORCIDO (x2)",
+      "url": "https://www.aosfatos.org/noticias/checamos-lula-flavio-bolsonaro-debate-band/",
+      "data": "2026-10-18"
+    },
+    {
+      "veiculo": "Ranking dos Políticos",
+      "veredito_original": "IMPRECISO",
+      "url": "https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026",
+      "data": "2026-10-19"
+    },
+    {
+      "veiculo": "Estadão Verifica (via Polêmica Paraíba)",
+      "veredito_original": "FALTA CONTEXTO",
+      "url": "https://www.polemicaparaiba.com.br/brasil/estadao-verifica-checa-declaracoes-de-lula-e-flavio-bolsonaro-em-debate-e-aponta-informacoes-falsas-enganosas-e-verdadeiras-confira/",
+      "data": "2026-10-19"
+    },
+    {
+      "veiculo": "Esquerda Online / flaviomentiu.com.br",
+      "veredito_original": "FALSO (fonte partidária)",
+      "url": "https://esquerdaonline.com.br/2026/10/20/checagem-flavio-bolsonaro-fez-110-afirmacoes-falsas-ou-enganosas-na-noite-do-debate-da-band/",
+      "data": "2026-10-20"
+    }
+  ],
+  "checagem_slug": "73-por-cento-dos-presidiarios",
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Lupa",
+      "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Aos Fatos",
+      "url": "https://www.aosfatos.org/noticias/checamos-lula-flavio-bolsonaro-debate-band/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Ranking dos Políticos",
+      "url": "https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Estadão Verifica (via Polêmica Paraíba)",
+      "url": "https://www.polemicaparaiba.com.br/brasil/estadao-verifica-checa-declaracoes-de-lula-e-flavio-bolsonaro-em-debate-e-aponta-informacoes-falsas-enganosas-e-verdadeiras-confira/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Esquerda Online / flaviomentiu.com.br",
+      "url": "https://esquerdaonline.com.br/2026/10/20/checagem-flavio-bolsonaro-fez-110-afirmacoes-falsas-ou-enganosas-na-noite-do-debate-da-band/",
+      "acesso_em": "2026-10-21",
+      "tier": "partidario"
+    },
+    {
+      "nome": "Poder360",
+      "url": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-diz-que-lula-foi-eleito-por-aclamacao-nos-presidios/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/flavio-pergunta-sobre-voto-de-presidiarios-lula-responde-ate-do-seu-pai/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Poder360",
+      "url": "https://www.poder360.com.br/poder-eleicoes-2026/lula-teve-726-e-flavio-233-em-presidios-no-1o-turno/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "O Povo",
+      "url": "https://www.opovo.com.br/noticias/politica/eleicoes/2026/10/19/voto-de-presos-no-brasil-em-2026-quem-pode-votar-e-como-funciona.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Senado Notícias",
+      "url": "https://www12.senado.leg.br/noticias/materias/2026/09/11/com-proibicao-suspensa-pelo-tse-presos-provisorios-votarao-em-2026",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "TSE — Resolução 23.760/2026",
+      "url": "https://www.tse.jus.br/legislacao/compilada/res/2026/resolucao-no-23-760-de-2-de-marco-de-2026",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "ConJur",
+      "url": "https://conjur.com.br/2026-abr-25/lei-antifaccao-nao-pode-impedir-presos-provisorios-de-votar-em-2026-2/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "IBCCRIM",
+      "url": "https://ibccrim.org.br/noticias_posts/tse-mantem-voto-de-presos-provisorios-em-2026-mesmo-apos-alteracoes-do-pacote-antifaccao/",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    },
+    {
+      "nome": "Fórum Brasileiro de Segurança Pública / Anuário 2026 (via ConJur e Correio Braziliense)",
+      "url": "https://www.correiobraziliense.com.br/direito-e-justica/2026/07/7453089-prisao-preventivaquando-a-excecao-vira-regra.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
+  "atualizado_em": "2026-10-21",
+  "lacunas": [
+    "Resposta de Lula (literal): 'Eu quero que votem 100%. Até teu pai' / 'Teu pai pode votar em mim. Ele te conhece, ele sabe que eu sou melhor do que você'.",
+    "O Ranking cita 79,8% para Lula em 2022 e '~4,9 mil votos' sem fonte; não verificado.",
+    "Dados abertos do TSE e painel SISDEPEN 2025/2 não acessados diretamente."
+  ]
+}

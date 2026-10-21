@@ -1,0 +1,136 @@
+{
+  "id": "chk-2107",
+  "slug": "lula-fez-a-primeira-reforma-do-judiciario",
+  "frase": "Fizemos a primeira reforma do Judiciário.",
+  "frase_normalizada": "fizemos a primeira reforma do judiciario",
+  "variantes": [],
+  "autor": {
+    "nome": "Luiz Inácio Lula da Silva",
+    "partido": "PT",
+    "cargo": "presidente da República e candidato à reeleição"
+  },
+  "lado": "governo-lula-pt",
+  "alvo": {
+    "nome": null,
+    "partido": null
+  },
+  "data": "2026-10-15",
+  "onde": "Entrevista à TV Globo (Renata Lo Prete)",
+  "url_declaracao": "https://www.agencialupa.org/checagem/2026/10/15/ao-vivo-checagem-da-entrevista-de-lula-na-tv-globo/",
+  "temas": [
+    "justica-stf"
+  ],
+  "tags": [
+    "justica-stf"
+  ],
+  "veredito": "verdadeiro",
+  "resumo_uma_frase": "A Emenda Constitucional 45/2004, aprovada no primeiro governo Lula, é conhecida como a reforma do Judiciário (criou o CNJ, a súmula vinculante e a repercussão geral); a Lupa classificou como verdadeiro.",
+  "explicacao_simples": [
+    "A EC 45, de 2004, foi aprovada no primeiro mandato de Lula e é chamada de reforma do Judiciário.",
+    "Ela criou o Conselho Nacional de Justiça e a súmula vinculante, entre outros pontos.",
+    "A Lupa classificou a afirmação como verdadeira."
+  ],
+  "explicacao_completa_md": "Lupa (Globo, 15/10/2026): VERDADEIRO (EC 45/2004). Contexto 2026: o STF funciona com 10 ministros desde 18/10/2025 (aposentadoria de Barroso) após o Senado rejeitar Jorge Messias por 42 a 34 (29/04/2026), primeira rejeição desde 1894; o programa de Flávio propõe mudar competências do STF, limitar decisões monocráticas e quarentena de 1 ano para indicados.",
+  "o_que_e_verdade": [
+    "A EC 45/2004 (reforma do Judiciário) foi aprovada no governo Lula."
+  ],
+  "o_que_nao_se_sustenta": [
+    "Nada relevante; a emenda foi proposta e votada pelo Congresso, com apoio do governo."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Congresso Nacional",
+      "papel": "aprovou a EC 45/2004",
+      "peso": "alto"
+    },
+    {
+      "ator": "Governo Lula",
+      "papel": "apoiou a reforma",
+      "peso": "medio"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Emenda Constitucional da reforma do Judiciário",
+      "valor": 45,
+      "unidade": "EC",
+      "periodo": "2004",
+      "fonte": {
+        "nome": "Agência Lupa",
+        "url": "https://www.agencialupa.org/checagem/2026/10/15/ao-vivo-checagem-da-entrevista-de-lula-na-tv-globo/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Placar da rejeição de Messias ao STF",
+      "valor": 42,
+      "unidade": "votos a 34",
+      "periodo": "29/04/2026",
+      "fonte": {
+        "nome": "Agência Senado, 29/04/2026",
+        "url": "https://www12.senado.leg.br/noticias/materias/2026/04/29/indicacao-de-jorge-messias-ao-stf-e-rejeitada-pelo-senado",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": null
+    }
+  ],
+  "series": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Agência Lupa",
+      "veredito_original": "VERDADEIRO",
+      "url": "https://www.agencialupa.org/checagem/2026/10/15/ao-vivo-checagem-da-entrevista-de-lula-na-tv-globo/",
+      "data": "2026-10-15"
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Agência Lupa",
+      "url": "https://www.agencialupa.org/checagem/2026/10/15/ao-vivo-checagem-da-entrevista-de-lula-na-tv-globo/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Agência Senado, 29/04/2026",
+      "url": "https://www12.senado.leg.br/noticias/materias/2026/04/29/indicacao-de-jorge-messias-ao-stf-e-rejeitada-pelo-senado",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Portal Tela, 14/08/2026 (plano de governo de Flávio)",
+      "url": "https://www.portaltela.com/politica/2026/08/14/plano-de-governo-de-flavio-bolsonaro-tem-9-eixos-veja-propostas/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/08_eleicao_2026_cenario_checagens.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "O que foi a reforma do Judiciário de 2004?",
+      "resposta": "A EC 45/2004, que criou o CNJ, a súmula vinculante e a repercussão geral, entre outros pontos."
+    },
+    {
+      "pergunta": "Qual é a situação do STF em 2026?",
+      "resposta": "Dez ministros, com uma vaga aberta desde out/2025 após a rejeição de Jorge Messias pelo Senado (42 a 34)."
+    },
+    {
+      "pergunta": "O que Flávio propõe para o STF?",
+      "resposta": "Mudanças nas competências, limites a decisões monocráticas e quarentena de um ano para indicados."
+    }
+  ],
+  "relacionadas": [
+    "lula-aprovou-99-por-cento-do-que-mandou",
+    "flavio-unico-pelo-fim-da-reeleicao"
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false
+}

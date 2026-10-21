@@ -1,0 +1,160 @@
+{
+  "id": "pe-de-meia",
+  "nome": "Pé-de-Meia: poupança para estudantes de baixa renda do ensino médio público (2024-)",
+  "tipo": "beneficio",
+  "governo": "lula-3",
+  "lado": "governo-lula-pt",
+  "norma": {
+    "nome": "Programa Pé-de-Meia (criado em 2024; número da lei não consta das notas); incorporado ao Orçamento em 2026 (LOA: R$ 11,47 bi)",
+    "data": null,
+    "url": "https://www.nsctotal.com.br/?p=7887373",
+    "vigencia": "Desde 2024; regras de 2026: CadÚnico ativo até 07/08/2026"
+  },
+  "status": "em-vigor",
+  "o_que_faz_simples": [
+    "Paga a estudantes de 14 a 24 anos do ensino médio público regular, de famílias com renda até meio salário mínimo por pessoa (Cadastro Único): R$ 200 pela matrícula, até 9 parcelas de R$ 200 por frequência e R$ 1.000 por aprovação na série (depositados em poupança).",
+    "Alcança mais de 4 milhões de jovens (dado de 2025). Em 2026 há também o Pé-de-Meia Licenciaturas (14,3 mil estudantes em 152 instituições).",
+    "Em 17/01/2025 o TCU bloqueou R$ 6 bi (FGEDUC/FGO) por o programa estar fora do Orçamento; liberou em fev/2025 com prazo de 120 dias para ajuste; em 2026 o programa entrou no Orçamento com R$ 11,47 bi. O MEC propôs universalizar para todo o ensino médio público (~R$ 5 bi a mais).",
+    "O programa de Lula para 2026 promete manter e aprimorar o Pé-de-Meia."
+  ],
+  "quem_ganha": {
+    "descricao": "Mais de 4 milhões de estudantes do ensino médio público de famílias com renda per capita até ½ SM (CadÚnico) — décimos inferiores da renda per capita.",
+    "pessoas": 4000000,
+    "faixa_renda": "Renda familiar per capita até ½ salário mínimo",
+    "fonte": {
+      "nome": "NSC Total — Pé-de-Meia 2026: regras e valores",
+      "url": "https://www.nsctotal.com.br/?p=7887373",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  },
+  "quem_paga": {
+    "descricao": "União: R$ 11,47 bi no Orçamento de 2026 (antes financiado por fundos fora do Orçamento, o que motivou o bloqueio do TCU).",
+    "pessoas": null,
+    "faixa_renda": "Não se aplica (Tesouro)",
+    "fonte": {
+      "nome": "CNN Brasil — Bolsa Família terá orçamento de R$ 158 bilhões em 2026 (LOA)",
+      "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/bolsa-familia-tera-orcamento-de-r-158-bilhoes-em-2026/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  },
+  "custo_ou_arrecadacao": {
+    "valor": 11.47,
+    "unidade": "R$ bilhões",
+    "periodo": "2026 (LOA)",
+    "descricao": "R$ 11,47 bi em 2026; universalização proposta pelo MEC custaria ~R$ 5 bi a mais.",
+    "fonte": {
+      "nome": "CNN Brasil — Bolsa Família terá orçamento de R$ 158 bilhões em 2026 (LOA)",
+      "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/bolsa-familia-tera-orcamento-de-r-158-bilhoes-em-2026/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  },
+  "regra_simulador": {
+    "tipo": "tabela",
+    "parametros": {
+      "elegibilidade": {
+        "idade_min": 14,
+        "idade_max": 24,
+        "renda_per_capita_max_sm": 0.5,
+        "ensino": "médio regular da rede pública",
+        "cadastro_unico": true
+      },
+      "componentes_anuais_2026": {
+        "matricula": 200,
+        "frequencia_parcela": 200,
+        "frequencia_parcelas_max": 9,
+        "aprovacao_na_serie": 1000
+      },
+      "observacao": "a nota não soma os componentes; o total anual depende de frequência e aprovação",
+      "fonte_formula": "NSC Total / Diário do Grande ABC",
+      "fonte_formula_url": "https://www.nsctotal.com.br/?p=7887373"
+    }
+  },
+  "mitos": [
+    {
+      "mito": "O TCU acabou com o Pé-de-Meia.",
+      "fato": "O TCU bloqueou R$ 6 bi em 17/01/2025 porque o programa estava fora do Orçamento, liberou em fev/2025 com prazo de 120 dias para regularização, e em 2026 o programa passou a constar da LOA com R$ 11,47 bi.",
+      "fontes": [
+        {
+          "nome": "Congresso em Foco — Pé-de-Meia: Haddad se reúne com ministro do TCU sobre bloqueio (fev/2025)",
+          "url": "https://congressoemfoco.com.br/area/governo/pe-de-meia-haddad-se-reune-com-ministro-do-tcu-para-discutir-bloqueio",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "Movimento Econômico — após liberação pelo TCU, governo pagará Pé-de-Meia (13/02/2025)",
+          "url": "https://movimentoeconomico.com.br/governo-federal/2025/02/13/apos-liberacao-pelo-tcu-governo-pagara-pe-de-meia-ainda-neste-mes/",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "CNN Brasil — Bolsa Família terá orçamento de R$ 158 bilhões em 2026 (LOA)",
+          "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/bolsa-familia-tera-orcamento-de-r-158-bilhoes-em-2026/",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "NSC Total — Pé-de-Meia 2026: regras e valores",
+      "url": "https://www.nsctotal.com.br/?p=7887373",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Diário do Grande ABC — Pé-de-Meia: parcela de R$ 200",
+      "url": "https://www.dgabc.com.br/Noticia/4343813/pe-de-meia-nascidos-em-setembro-e-outubro-recebem-parcela-de-rs-200",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Congresso em Foco — Pé-de-Meia: Haddad se reúne com ministro do TCU sobre bloqueio (fev/2025)",
+      "url": "https://congressoemfoco.com.br/area/governo/pe-de-meia-haddad-se-reune-com-ministro-do-tcu-para-discutir-bloqueio",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Movimento Econômico — após liberação pelo TCU, governo pagará Pé-de-Meia (13/02/2025)",
+      "url": "https://movimentoeconomico.com.br/governo-federal/2025/02/13/apos-liberacao-pelo-tcu-governo-pagara-pe-de-meia-ainda-neste-mes/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "CNN Brasil — Bolsa Família terá orçamento de R$ 158 bilhões em 2026 (LOA)",
+      "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/bolsa-familia-tera-orcamento-de-r-158-bilhoes-em-2026/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Diário do Grande ABC — MEC quer estender Pé-de-Meia a todos do ensino médio público (jul/2025)",
+      "url": "https://www.dgabc.com.br/Noticia/4245191/mec-quer-estender-pe-de-meia-a-todos-do-ensino-medio-da-rede-publica",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Viva — Pé-de-Meia Licenciaturas 2026",
+      "url": "https://viva.com.br/carreira-e-educacao/pe-de-meia-para-universitarios-veja-quem-tem-direito-ao-beneficio-em-2026.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Programa de Governo Lula 2026 (PDF, Congresso em Foco/TSE)",
+      "url": "https://static.congressoemfoco.com.br/2026/08/08/attachment/2026/08/08/32ce89_programa_governo_lula_2026.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "partidario"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/13_renda_por_faixa_e_simulacoes_de_impacto.md",
+  "notas_brutas_adicionais": [
+    "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/03_emprego_renda_pobreza_social.md"
+  ],
+  "lacunas": [
+    "Número e URL da lei do programa não constam das notas.",
+    "Número de estudantes em 2026 não obtido (página do MEC bloqueada)."
+  ],
+  "atualizado_em": "2026-10-21"
+}

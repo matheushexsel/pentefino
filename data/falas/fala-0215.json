@@ -1,0 +1,59 @@
+{
+  "id": "fala-0215",
+  "slug": "flavio-recordista-em-pessoas-endividadas-globo",
+  "evento_id": "sabatina-globo-flavio-2026-10-16",
+  "candidato": "flavio-bolsonaro",
+  "lado": "oposicao-flavio-pl",
+  "minuto": null,
+  "frase_literal": "[Governo] recordista em pessoas endividadas.",
+  "literal": false,
+  "tema": "economia",
+  "veredito": "verdadeiro-mas",
+  "resumo_uma_frase": "A Peic/CNC registrou 82% de famílias endividadas em jul/2026, recorde da série; a inadimplência do Serasa cresce desde 2020.",
+  "explicacao_simples": [
+    "Flávio Bolsonaro, na entrevista à TV Globo (16/10/2026), afirmou (em paráfrase registrada por Ranking dos Políticos) que [Governo] recordista em pessoas endividadas.",
+    "Ranking: verdadeiro (Peic/CNC 82% em jul/2026, recorde); a série do Serasa cresce desde 2020.",
+    "O núcleo da frase está correto, mas falta uma ressalva que muda o peso do dado; por isso a classificação é 'verdadeiro, mas'."
+  ],
+  "o_que_e_verdade": [
+    "Recorde da Peic em jul/2026."
+  ],
+  "o_que_nao_se_sustenta": [
+    "A tendência de alta antecede o governo."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Famílias endividadas (Peic/CNC)",
+      "valor": 82,
+      "unidade": "%",
+      "periodo": "jul/2026",
+      "fonte": {
+        "nome": "Ranking dos Políticos",
+        "url": "https://ranking.org.br/en/articles/checagem-entrevista-flavio-bolsonaro-jornal-nacional-2-turno-2026",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      }
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Ranking dos Políticos",
+      "veredito_original": "VERDADEIRO",
+      "url": "https://ranking.org.br/en/articles/checagem-entrevista-flavio-bolsonaro-jornal-nacional-2-turno-2026",
+      "data": "2026-10-16"
+    }
+  ],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Ranking dos Políticos",
+      "url": "https://ranking.org.br/en/articles/checagem-entrevista-flavio-bolsonaro-jornal-nacional-2-turno-2026",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
+  "atualizado_em": "2026-10-21"
+}

@@ -1,0 +1,151 @@
+{
+  "id": "chk-2087",
+  "slug": "bolsonaro-mentia-11-vezes-por-dia",
+  "frase": "Bolsonaro mentia 11 vezes por dia.",
+  "frase_normalizada": "bolsonaro mentia 11 vezes por dia",
+  "variantes": [],
+  "autor": {
+    "nome": "Luiz Inácio Lula da Silva",
+    "partido": "PT",
+    "cargo": "presidente da República e candidato à reeleição"
+  },
+  "lado": "governo-lula-pt",
+  "alvo": {
+    "nome": "Jair Bolsonaro",
+    "partido": "PL"
+  },
+  "data": "2026-10-18",
+  "onde": "Debate da Band (consórcio Band/Cultura/Gazeta/Jovem Pan/Estadão), São Paulo",
+  "url_declaracao": "https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026",
+  "temas": [
+    "eleicao-2026"
+  ],
+  "tags": [
+    "eleicao-2026"
+  ],
+  "veredito": "exagerado",
+  "resumo_uma_frase": "O Aos Fatos contou média de 4,58 declarações falsas ou distorcidas por dia de Bolsonaro durante o mandato (a Artigo 19 contou 1.682 em 2020); o Ranking classificou a frase como falsa e o Estadão Verifica como exagerada.",
+  "explicacao_simples": [
+    "Durante o mandato, o Aos Fatos registrou em média 4,58 declarações falsas ou distorcidas de Bolsonaro por dia.",
+    "Em 2020, a Artigo 19 contou 1.682 declarações falsas no ano, cerca de 4,6 por dia.",
+    "O número de Lula é mais que o dobro do medido; o Ranking classificou como falso e o Estadão Verifica como exagerado."
+  ],
+  "explicacao_completa_md": "Ranking dos Políticos: FALSO; Estadão Verifica: EXAGERADO (Aos Fatos: média de 4,58/dia no mandato; Artigo 19: 1.682 em 2020). Para comparação, no 2º turno de 2026 o Aos Fatos contou 43 declarações enganosas de Flávio só sobre Vorcaro, e nas sabatinas da Globo checou 15 itens de Lula (12 verdadeiros) e 14 de Flávio (12 falsos).",
+  "o_que_e_verdade": [
+    "Bolsonaro acumulou milhares de declarações falsas ou distorcidas no mandato, segundo monitoramentos independentes (cerca de 4,6 por dia)."
+  ],
+  "o_que_nao_se_sustenta": [
+    "'11 vezes por dia': mais que o dobro das médias medidas (4,58/dia)."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Lula",
+      "papel": "citou número inflado",
+      "peso": "alto"
+    },
+    {
+      "ator": "Aos Fatos e Artigo 19",
+      "papel": "fizeram os monitoramentos",
+      "peso": "medio"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Média diária de declarações falsas/distorcidas de Bolsonaro (Aos Fatos)",
+      "valor": 4.58,
+      "unidade": "por dia",
+      "periodo": "2019-2022",
+      "fonte": {
+        "nome": "Estadão Verifica (via Polêmica Paraíba)",
+        "url": "https://www.polemicaparaiba.com.br/brasil/estadao-verifica-checa-declaracoes-de-lula-e-flavio-bolsonaro-em-debate-e-aponta-informacoes-falsas-enganosas-e-verdadeiras-confira/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": {
+        "rotulo": "Citado por Lula",
+        "valor": 11
+      }
+    },
+    {
+      "rotulo": "Declarações falsas em 2020 (Artigo 19)",
+      "valor": 1682,
+      "unidade": "declarações",
+      "periodo": "2020",
+      "fonte": {
+        "nome": "Estadão Verifica (via Polêmica Paraíba)",
+        "url": "https://www.polemicaparaiba.com.br/brasil/estadao-verifica-checa-declaracoes-de-lula-e-flavio-bolsonaro-em-debate-e-aponta-informacoes-falsas-enganosas-e-verdadeiras-confira/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": null
+    }
+  ],
+  "series": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Ranking dos Políticos",
+      "veredito_original": "FALSO",
+      "url": "https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026",
+      "data": "2026-10-18"
+    },
+    {
+      "veiculo": "Estadão Verifica",
+      "veredito_original": "EXAGERADO",
+      "url": "https://www.polemicaparaiba.com.br/brasil/estadao-verifica-checa-declaracoes-de-lula-e-flavio-bolsonaro-em-debate-e-aponta-informacoes-falsas-enganosas-e-verdadeiras-confira/",
+      "data": "2026-10-18"
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Estadão Verifica (via Polêmica Paraíba)",
+      "url": "https://www.polemicaparaiba.com.br/brasil/estadao-verifica-checa-declaracoes-de-lula-e-flavio-bolsonaro-em-debate-e-aponta-informacoes-falsas-enganosas-e-verdadeiras-confira/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Ranking dos Políticos",
+      "url": "https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Aos Fatos",
+      "url": "https://www.aosfatos.org/noticias/checamos-lula-globo-segundo-turno/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Aos Fatos",
+      "url": "https://www.aosfatos.org/noticias/checamos-flavio-bolsonaro-globo-segundo-turno/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/09_acusacoes_e_falas_flavio_x_lula.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "Quantas vezes por dia Bolsonaro mentia, segundo os checadores?",
+      "resposta": "Média de 4,58 declarações falsas ou distorcidas por dia no mandato (Aos Fatos)."
+    },
+    {
+      "pergunta": "De onde vem o número 11?",
+      "resposta": "Não há base identificada; é mais que o dobro das médias medidas."
+    },
+    {
+      "pergunta": "E os candidatos de 2026?",
+      "resposta": "Nas sabatinas da Globo, o Aos Fatos checou 15 itens de Lula (12 verdadeiros, 3 exagerados) e 14 de Flávio (1 verdadeiro, 12 falsos, 2 exagerados)."
+    }
+  ],
+  "relacionadas": [
+    "flavio-mentiu-43-vezes-sobre-vorcaro",
+    "lula-aprovou-99-por-cento-do-que-mandou"
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false
+}

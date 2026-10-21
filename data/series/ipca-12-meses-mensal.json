@@ -1,0 +1,134 @@
+{
+  "id": "ipca-12-meses-mensal",
+  "titulo": "IPCA acumulado em 12 meses, mês a mês (2025–2026)",
+  "descricao_simples": "Inflação acumulada nos últimos 12 meses em cada mês, usada para avaliar a meta contínua.",
+  "unidade": "% em 12 meses",
+  "tipo_grafico": "linha",
+  "frequencia": "mensal",
+  "fonte": {
+    "nome": "Banco Central do Brasil, SGS 13522",
+    "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.13522/dados?formato=json",
+    "acesso_em": "2026-10-21",
+    "tier": "oficial"
+  },
+  "pontos": [
+    {
+      "periodo": "jan/2025",
+      "valor": 4.56
+    },
+    {
+      "periodo": "fev/2025",
+      "valor": 5.06
+    },
+    {
+      "periodo": "mar/2025",
+      "valor": 5.48
+    },
+    {
+      "periodo": "abr/2025",
+      "valor": 5.53
+    },
+    {
+      "periodo": "mai/2025",
+      "valor": 5.32
+    },
+    {
+      "periodo": "jun/2025",
+      "valor": 5.35
+    },
+    {
+      "periodo": "jul/2025",
+      "valor": 5.23
+    },
+    {
+      "periodo": "ago/2025",
+      "valor": 5.13
+    },
+    {
+      "periodo": "set/2025",
+      "valor": 5.17
+    },
+    {
+      "periodo": "out/2025",
+      "valor": 4.68
+    },
+    {
+      "periodo": "nov/2025",
+      "valor": 4.46
+    },
+    {
+      "periodo": "dez/2025",
+      "valor": 4.26
+    },
+    {
+      "periodo": "jan/2026",
+      "valor": 4.44,
+      "ipca_mensal": 0.33
+    },
+    {
+      "periodo": "fev/2026",
+      "valor": 3.81,
+      "ipca_mensal": 0.7
+    },
+    {
+      "periodo": "mar/2026",
+      "valor": 4.14,
+      "ipca_mensal": 0.88
+    },
+    {
+      "periodo": "abr/2026",
+      "valor": 4.39,
+      "ipca_mensal": 0.67
+    },
+    {
+      "periodo": "mai/2026",
+      "valor": 4.72,
+      "ipca_mensal": 0.58
+    },
+    {
+      "periodo": "jun/2026",
+      "valor": 4.64,
+      "ipca_mensal": 0.16
+    },
+    {
+      "periodo": "jul/2026",
+      "valor": 4.44,
+      "ipca_mensal": 0.07
+    },
+    {
+      "periodo": "ago/2026",
+      "valor": 4.22,
+      "ipca_mensal": -0.32
+    },
+    {
+      "periodo": "set/2026",
+      "valor": 4.58,
+      "ipca_mensal": 0.82
+    }
+  ],
+  "faixas_referencia": [
+    {
+      "rotulo": "Centro da meta contínua",
+      "valor": 3.0
+    },
+    {
+      "rotulo": "Teto do intervalo",
+      "valor": 4.5
+    },
+    {
+      "rotulo": "Piso do intervalo",
+      "valor": 1.5
+    }
+  ],
+  "notas_metodologicas": [
+    "ipca_mensal (2026) vem da série SGS 433 (IPCA mensal); ago/2026 teve deflação de −0,32%.",
+    "Meses anteriores a jan/2025 não constam na nota."
+  ],
+  "lacunas": [],
+  "ultimo_periodo": "set/2026",
+  "temas": [
+    "economia"
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/01_macroeconomia_por_governo.md",
+  "atualizado_em": "2026-10-21"
+}

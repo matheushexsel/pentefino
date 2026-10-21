@@ -1,0 +1,2801 @@
+{
+  "id": "prisao-de-lula",
+  "titulo": "A prisão de Lula: da Lava Jato à anulação, e o que isso tem a ver com Moro, Dallagnol e os Bolsonaro",
+  "pergunta_principal": "Lula foi condenado, preso, solto e teve as condenações anuladas. O que cada uma dessas decisões significou juridicamente, quem decidiu e o que ficou provado ou não?",
+  "resposta_curta": [
+    "Lula foi condenado em três instâncias (Moro em 2017, TRF-4 em 2018, STJ em 2019) no caso do tríplex e ficou preso 580 dias (abril de 2018 a novembro de 2019) por execução provisória da pena, antes do fim dos recursos.",
+    "Em 2021 o STF anulou essas condenações por dois motivos processuais: a Vara de Curitiba não era competente (8x3) e o juiz Sergio Moro foi considerado parcial (7x4); os casos foram para Brasília e prescreveram sem novo julgamento de mérito.",
+    "Ninguém julgou de novo se Lula era culpado ou inocente no tríplex: não há absolvição nem condenação definitiva; o STF nunca o condenou. Jair Bolsonaro, por outro lado, tem condenação definitiva (trânsito em julgado em 25/11/2025) e cumpre pena."
+  ],
+  "periodo": {
+    "inicio": "2014-03-17",
+    "fim": "2026-10-21"
+  },
+  "temas": [
+    "justica-stf",
+    "corrupcao",
+    "eleicao-2026"
+  ],
+  "personagens": [
+    {
+      "id": "lula",
+      "nome": "Luiz Inácio Lula da Silva",
+      "papel_na_historia": "Ex-presidente (2003-2010), réu na Lava Jato, condenado e preso em 2018, condenações anuladas em 2021; presidente desde 2023 e candidato à reeleição em 2026.",
+      "partido_atual": "PT"
+    },
+    {
+      "id": "sergio-moro",
+      "nome": "Sergio Moro",
+      "papel_na_historia": "Juiz da 13ª Vara Federal de Curitiba que condenou Lula (2017); ministro da Justiça de Bolsonaro (2019-2020); declarado parcial pelo STF (2021); senador (2022) e governador eleito do Paraná em 2026.",
+      "partido_atual": "PL"
+    },
+    {
+      "id": "deltan-dallagnol",
+      "nome": "Deltan Dallagnol",
+      "papel_na_historia": "Procurador coordenador da força-tarefa da Lava Jato; apresentou a denúncia do tríplex em 14/09/2016 (coletiva do PowerPoint); condenado a indenizar Lula; deputado cassado em 2023; candidato ao Senado em 2026 com registro sub judice.",
+      "partido_atual": "Novo"
+    },
+    {
+      "id": "jair-bolsonaro",
+      "nome": "Jair Bolsonaro",
+      "papel_na_historia": "Presidente (2019-2022) que nomeou Moro ministro; gravado na reunião ministerial de 22/04/2020; investigado no Inq 4831 por suposta interferência na PF; condenado pelo STF em 2025 na trama golpista.",
+      "partido_atual": "PL"
+    },
+    {
+      "id": "flavio-bolsonaro",
+      "nome": "Flávio Bolsonaro",
+      "papel_na_historia": "Senador, filho de Jair; alvo do caso da 'rachadinha' (denúncia arquivada em 2022); candidato à Presidência em 2026 e autor da frase 'condenado em todas as instâncias' checada como falsa.",
+      "partido_atual": "PL"
+    },
+    {
+      "id": "edson-fachin",
+      "nome": "Edson Fachin",
+      "papel_na_historia": "Ministro do STF; relator do HC de 2018 (votou contra Lula); em 2021 anulou as condenações por incompetência da Vara de Curitiba.",
+      "partido_atual": null
+    },
+    {
+      "id": "gilmar-mendes",
+      "nome": "Gilmar Mendes",
+      "papel_na_historia": "Ministro do STF; voto decisivo pela suspeição de Moro (2021); relator do caso da rachadinha de Flávio no STF.",
+      "partido_atual": null
+    },
+    {
+      "id": "dias-toffoli",
+      "nome": "Dias Toffoli",
+      "papel_na_historia": "Ministro do STF; voto de desempate que proibiu a prisão após 2ª instância (2019); em 2023 escreveu que a prisão de Lula foi 'uma armação'.",
+      "partido_atual": null
+    },
+    {
+      "id": "rosa-weber",
+      "nome": "Rosa Weber",
+      "papel_na_historia": "Ministra do STF cujo voto, por colegialidade, definiu o 6x5 contra o HC de Lula em 2018.",
+      "partido_atual": null
+    },
+    {
+      "id": "carmen-lucia",
+      "nome": "Cármen Lúcia",
+      "papel_na_historia": "Presidente do STF em 2018; voto de desempate no HC 152752.",
+      "partido_atual": null
+    },
+    {
+      "id": "leo-pinheiro",
+      "nome": "José Adelmário Pinheiro Filho (Léo Pinheiro)",
+      "papel_na_historia": "Ex-presidente da OAS, delator cujo depoimento embasou a condenação do tríplex.",
+      "partido_atual": null
+    },
+    {
+      "id": "walter-delgatti",
+      "nome": "Walter Delgatti",
+      "papel_na_historia": "Hacker condenado em 2023 pela invasão dos celulares da Vaza Jato.",
+      "partido_atual": null
+    },
+    {
+      "id": "pollyana-maciel",
+      "nome": "Pollyana Kelly Maciel",
+      "papel_na_historia": "Juíza da 12ª Vara Federal/DF que declarou a prescrição dos casos Atibaia (2021) e tríplex (2022).",
+      "partido_atual": null
+    }
+  ],
+  "capitulos": [
+    {
+      "id": "1",
+      "titulo": "Origem: Lava Jato, condução coercitiva e a denúncia do tríplex",
+      "periodo": "2014-2016",
+      "texto_md": "A Operação Lava Jato começou em 17/03/2014 investigando desvios na Petrobras. Em 04/03/2016 (Operação Aletheia), Lula foi levado a depor por condução coercitiva a pedido da força-tarefa de Curitiba. A sentença de 2017 registra o pedido de condução coercitiva e as buscas como contexto da investigação. O caso do tríplex do Guarujá envolve um apartamento registrado em nome da OAS Empreendimentos; a acusação sustentava que a unidade e as reformas foram vantagem indevida paga pela OAS a Lula em troca de contratos com a Petrobras. A transferência do empreendimento da cooperativa BANCOOP para a OAS foi formalizada em 08/10/2009 (sentença, §312).\n\nObservação: as datas de 17/03/2014 e 04/03/2016 são públicas e consolidadas, mas a nota de pesquisa não localizou URL primária para elas nesta rodada.",
+      "eventos": [
+        {
+          "data": "2014-03-17",
+          "fato": "Início da Operação Lava Jato (data pública consolidada; sem URL primária localizada na nota).",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": null,
+          "tipo": "fato",
+          "nao_verificado": true
+        },
+        {
+          "data": "2016-03-04",
+          "fato": "Operação Aletheia: Lula é levado a depor por condução coercitiva (data pública consolidada; sem URL primária localizada na nota).",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": null,
+          "tipo": "fato",
+          "nao_verificado": true
+        },
+        {
+          "data": "2009-10-08",
+          "fato": "Formalização da transferência do empreendimento da BANCOOP para a OAS, segundo a sentença de 2017 (§312).",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://static.aosfatos.org/media/cke_uploads/2017/07/13/sentenca-lula.pdf",
+          "tipo": "documento"
+        }
+      ],
+      "o_que_a_acusacao_dizia": "A força-tarefa sustentava que Lula era o verdadeiro dono do tríplex 164-A e que a diferença entre o apartamento simples pago pela família e o tríplex reformado era propina da OAS ligada ao contrato do Consórcio CONEST/RNEST com a Petrobras.",
+      "o_que_a_defesa_dizia": "A defesa afirmava que o imóvel sempre esteve registrado em nome da OAS, que Lula nunca o adquiriu e que 'proprietário de fato' não existe na lei; a família pagou prestações de um apartamento simples (141-A) e nunca recebeu o tríplex.",
+      "numeros": []
+    },
+    {
+      "id": "2",
+      "titulo": "A coletiva do PowerPoint (14/09/2016): o que foi dito literalmente",
+      "periodo": "2016-09-14",
+      "texto_md": "Em 14/09/2016 a força-tarefa apresentou a denúncia do tríplex em coletiva com um slide que colocava Lula no centro como 'comandante máximo do esquema de corrupção identificado na Lava Jato'. A frase-símbolo 'não temos provas, mas temos convicção' **não foi dita literalmente**: segundo checagem do G1 relatada pela InfoMoney e pelo Jornal Opção, ela é uma montagem de falas distintas de Deltan Dallagnol ('provas são pedaços da realidade, que geram convicção') e de Roberson Pozzobon ('não teremos aqui provas cabais'). O site do PT escreveu que Dallagnol 'disse não ter provas, apenas convicções', o que é caracterização, não citação. Anos depois, o STJ (4ª Turma, 4x1) entendeu que Dallagnol abusou de expressões ofensivas à honra de Lula e o condenou a indenização de R$ 75 mil (Lula pedira R$ 1 milhão); em agosto de 2020 o CNMP arquivou representação de Lula contra Dallagnol por abuso de poder. A condenação cível de Dallagnol trata apenas de excesso de linguagem e não diz nada sobre culpa ou inocência de Lula no caso penal.",
+      "eventos": [
+        {
+          "data": "2016-09-14",
+          "fato": "Coletiva da força-tarefa apresenta a denúncia do tríplex com slide que classifica Lula como 'comandante máximo do esquema de corrupção identificado na Lava Jato'; Dallagnol o chama de 'o grande general' e mentor da 'propinocracia'.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": "Deltan Dallagnol",
+          "url": "https://www.cartacapital.com.br/?p=264476",
+          "tipo": "declaracao"
+        },
+        {
+          "data": "2016-09-14",
+          "fato": "Fala de Dallagnol na apresentação sobre a natureza das provas.",
+          "citacao_literal": "Provas são pedaços da realidade, que geram convicção sobre um determinado fato ou hipótese.",
+          "literal": true,
+          "quem_disse": "Deltan Dallagnol",
+          "url": "https://www.infomoney.com.br/?p=66814",
+          "tipo": "declaracao"
+        },
+        {
+          "data": "2016-09-14",
+          "fato": "Fala de Roberson Pozzobon sobre a propriedade do apartamento.",
+          "citacao_literal": "não teremos aqui provas cabais",
+          "literal": true,
+          "quem_disse": "Roberson Pozzobon",
+          "url": "https://www.infomoney.com.br/?p=66814",
+          "tipo": "declaracao",
+          "contexto": "de que Lula é o proprietário do apartamento"
+        },
+        {
+          "data": "2016-09-14",
+          "fato": "Dallagnol na coletiva, sobre a proeminência de Lula no esquema.",
+          "citacao_literal": "a nossa convicção com base em tudo que nos expusemos é que Lula continuou tendo proeminência",
+          "literal": true,
+          "quem_disse": "Deltan Dallagnol",
+          "url": "https://www.infomoney.com.br/?p=66814",
+          "tipo": "declaracao"
+        },
+        {
+          "data": "2016-09-14",
+          "fato": "Dallagnol na coletiva, sobre filhos de Lula e amigo empresário.",
+          "citacao_literal": "se nós formarmos a convicção de que eles são responsáveis por esses crimes eles serão igualmente acusados.",
+          "literal": true,
+          "quem_disse": "Deltan Dallagnol",
+          "url": "https://www.infomoney.com.br/?p=66814",
+          "tipo": "declaracao"
+        },
+        {
+          "data": "2016-09-14",
+          "fato": "Em diferentes momentos da coletiva, Dallagnol chamou Lula de 'comandante máximo', 'o grande general' e 'maestro da orquestra criminosa' (registro de Eliane Brum/IHU).",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": "Deltan Dallagnol",
+          "url": "https://ihu.unisinos.br/categorias/185-noticias-2016/560497-denuncia-de-facebook",
+          "tipo": "declaracao"
+        },
+        {
+          "data": "2016-09-15",
+          "fato": "Checagem: a frase 'não temos provas, mas temos convicção' (e a variante 'não temos como provar, mas temos convicção') não foi dita pelos procuradores; combina falas de dois procuradores em momentos distintos (InfoMoney citando análise do G1).",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://www.infomoney.com.br/?p=66814",
+          "tipo": "documento"
+        },
+        {
+          "data": "2016-09",
+          "fato": "Jornal Opção registra que a frase viralizou por vídeos cortados e editados no YouTube e não foi dita por Dallagnol nem pelo procurador seguinte.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://www.jornalopcao.com.br/opcao-cultural/crivo/o-demonio-vive-nos-detalhes-dificuldade-probatoria-na-operacao-lava-jato-94283/",
+          "tipo": "documento"
+        },
+        {
+          "data": "2016-09",
+          "fato": "Site do PT escreve que Dallagnol 'disse não ter provas, apenas convicções' (caracterização de fonte partidária, não citação literal).",
+          "citacao_literal": null,
+          "literal": false,
+          "quem_disse": "PT (site oficial)",
+          "url": "https://pt.org.br/juristas-criticam-espetaculo-inconsistente-do-mpf-contra-lula/?amp=1",
+          "tipo": "declaracao"
+        },
+        {
+          "data": null,
+          "fato": "Dallagnol, à BBC Brasil (reproduzida pelo O Antagonista), afirma que a frase nunca foi dita na coletiva e que a apresentação mostrava provas que levavam à convicção.",
+          "citacao_literal": null,
+          "literal": false,
+          "quem_disse": "Deltan Dallagnol",
+          "url": "https://oantagonista.com.br/brasil/mais-powerpoints/",
+          "tipo": "declaracao"
+        },
+        {
+          "data": "2020-08",
+          "fato": "CNMP arquiva representação de Lula contra Dallagnol por abuso de poder relativa à coletiva.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://www.metropoles.com/brasil/justica/cnmp-arquiva-acusacao-de-lula-contra-dallagnol-por-uso-do-power-point",
+          "tipo": "decisao"
+        }
+      ],
+      "o_que_a_acusacao_dizia": "Para a força-tarefa, o conjunto de documentos e depoimentos gerava convicção de que Lula comandava o esquema e era o beneficiário do tríplex.",
+      "o_que_a_defesa_dizia": "Para a defesa e o PT, a apresentação foi um 'espetáculo' sem provas, baseada em convicções; a condenação cível posterior de Dallagnol é usada como prova de abuso.",
+      "numeros": []
+    },
+    {
+      "id": "3",
+      "titulo": "A sentença de Moro no tríplex (12/07/2017): o raciocínio sobre a ausência de registro formal",
+      "periodo": "2017-07-12",
+      "texto_md": "Na ação penal 5046512-94.2016.4.04.7000 (13ª Vara Federal de Curitiba), Moro condenou Lula a 9 anos e 6 meses por corrupção passiva e lavagem de dinheiro e mandou confiscar o tríplex. A sentença **reconhece expressamente** que o imóvel 'permanece registrado em nome da OAS Empreendimentos S/A' (§306), mas sustenta que 'não é suficiente um exame meramente formal da titularidade' (§304), porque a acusação era justamente de ocultação da titularidade de fato. O §646 contém a passagem mais lembrada: o 'esforço' de Lula para ocultar a titularidade 'é mais uma prova que corrobora a tese da acusação'. A inferência de culpa, no texto, decorre de depoimentos (Léo Pinheiro, porteiro, funcionários da OAS) e documentos (termos de adesão da BANCOOP, reportagem de 2010), não da ausência de registro em si. O próprio Moro absolveu réus por falta de prova: três executivos da OAS (lavagem) e Lula e Paulo Okamotto na imputação do acervo presidencial. A sentença usa 'apartamento 141' (unidade simples reservada) e '164-A, triplex' (unidade condenatória); não há '174-A' na sentença.",
+      "eventos": [
+        {
+          "data": "2017-07-12",
+          "fato": "Sentença: não basta o exame formal da propriedade.",
+          "citacao_literal": "Na resolução desta questão, não é suficiente um exame meramente formal da titularidade ou da transferência da propriedade.",
+          "literal": true,
+          "quem_disse": "Sergio Moro (sentença, §304)",
+          "url": "https://static.aosfatos.org/media/cke_uploads/2017/07/13/sentenca-lula.pdf",
+          "tipo": "documento"
+        },
+        {
+          "data": "2017-07-12",
+          "fato": "Sentença: a acusação é de concessão 'subreptícia' com manutenção da titularidade formal na OAS.",
+          "citacao_literal": "É que, segundo a Acusação, a concessão do apartamento ao ex-Presidente teria ocorrido de maneira subreptícia, com a manutenção da titularidade formal do bem com o Grupo OAS, também com o objetivo de ocultar e dissimular o ilícito.",
+          "literal": true,
+          "quem_disse": "Sergio Moro (sentença, §305)",
+          "url": "https://static.aosfatos.org/media/cke_uploads/2017/07/13/sentenca-lula.pdf",
+          "tipo": "documento"
+        },
+        {
+          "data": "2017-07-12",
+          "fato": "Sentença reconhece que o imóvel permanece registrado em nome da OAS.",
+          "citacao_literal": "Então, embora não haja dúvida de que o registro da matrícula do imóvel, de nº 104801 do Registro de Imóveis do Guarujá, [...] aponte que o imóvel permanece registrado em nome da OAS Empreendimentos S/A, empresa do Grupo OAS, isso não é suficiente para a solução do caso.",
+          "literal": true,
+          "quem_disse": "Sergio Moro (sentença, §306)",
+          "url": "https://static.aosfatos.org/media/cke_uploads/2017/07/13/sentenca-lula.pdf",
+          "tipo": "documento"
+        },
+        {
+          "data": "2017-07-12",
+          "fato": "Sentença: corrupção e lavagem não exigem transferência formal da propriedade.",
+          "citacao_literal": "nem a configuração do crime de corrupção [...] nem a caracterização do crime de lavagem, que pressupõe estratagemas de ocultação e dissimulação, exigiriam para sua consumação a transferência formal da propriedade do Grupo OAS para o ex-Presidente Luiz Inácio Lula da Silva.",
+          "literal": true,
+          "quem_disse": "Sergio Moro (sentença, §307)",
+          "url": "https://static.aosfatos.org/media/cke_uploads/2017/07/13/sentenca-lula.pdf",
+          "tipo": "documento"
+        },
+        {
+          "data": "2017-07-12",
+          "fato": "Sentença: não se discute Direito Civil, mas crime.",
+          "citacao_literal": "Não se está, enfim, discutindo questões de Direito Civil, ou seja, a titularidade formal do imóvel, mas questão criminal [...]. Não se deve nunca esquecer que é de corrupção e lavagem de dinheiro do que se trata.",
+          "literal": true,
+          "quem_disse": "Sergio Moro (sentença, §308)",
+          "url": "https://static.aosfatos.org/media/cke_uploads/2017/07/13/sentenca-lula.pdf",
+          "tipo": "documento"
+        },
+        {
+          "data": "2017-07-12",
+          "fato": "Sentença: a prova documental é a mais confiável.",
+          "citacao_literal": "a melhor e mais confiável prova a ser considerada é a documental.",
+          "literal": true,
+          "quem_disse": "Sergio Moro (sentença, §310)",
+          "url": "https://static.aosfatos.org/media/cke_uploads/2017/07/13/sentenca-lula.pdf",
+          "tipo": "documento"
+        },
+        {
+          "data": "2017-07-12",
+          "fato": "Sentença admite que os depoimentos dos delatores da OAS são questionáveis.",
+          "citacao_literal": "Não há nenhuma dúvida de que os depoimentos de José Adelmário Pinheiro Filho e de Agenor Franklin Magalhães Medeiros são questionáveis, pois são eles criminosos confessos que resolveram colaborar a fim de colher benefícios de redução de pena. Mas isso não significa que os depoimentos não possam ser verdadeiros.",
+          "literal": true,
+          "quem_disse": "Sergio Moro (sentença, §642)",
+          "url": "https://static.aosfatos.org/media/cke_uploads/2017/07/13/sentenca-lula.pdf",
+          "tipo": "documento"
+        },
+        {
+          "data": "2017-07-12",
+          "fato": "A passagem do §646: o esforço de ocultar a titularidade como prova que corrobora a acusação.",
+          "citacao_literal": "Não sendo a titularidade de um imóvel, ainda que sem registro formal, um fato, por si ilícito, o esforço por parte do ex-Presidente Luiz Inácio Lula da Silva para ocultá-la é mais uma prova que corrobora a tese da acusação, de que a diferença entre o preço pago pelo apartamento 141, simples, e o custo das reformas, não seriam pagas pelo ex-Presidente e por sua esposa à OAS Empreendimentos, mas consumidas como vantagem indevida em um acerto de corrupção",
+          "literal": true,
+          "quem_disse": "Sergio Moro (sentença, §646)",
+          "url": "https://static.aosfatos.org/media/cke_uploads/2017/07/13/sentenca-lula.pdf",
+          "tipo": "documento"
+        },
+        {
+          "data": "2017-07-12",
+          "fato": "Resposta à defesa, que juntou documentos mostrando o tríplex entre os bens da OAS na recuperação judicial.",
+          "citacao_literal": "não se está aqui a discutir a titularidade formal do imóvel ou questões de Direito Civil, mas sim crime de corrupção e lavagem de dinheiro, este último pressupondo condutas de dissimulação e ocultação. O imóvel, segundo a matrícula nº 104801 [...], encontra-se em nome da OAS Empreendimentos, tendo sido, porém, solicitado a José Adelmário Pinheiro Filho a ocultação da titularidade de fato, que era do ex-Presidente, e que o imóvel permanecesse em nome da OAS.",
+          "literal": true,
+          "quem_disse": "Sergio Moro (sentença, §810)",
+          "url": "https://static.aosfatos.org/media/cke_uploads/2017/07/13/sentenca-lula.pdf",
+          "tipo": "documento"
+        },
+        {
+          "data": "2017-07-12",
+          "fato": "Sentença sobre o arrolamento do imóvel na recuperação judicial da OAS.",
+          "citacao_literal": "Estando o imóvel formalmente em nome da OAS Empreendimentos era de se esperar que fosse arrolado no processo de recuperação judicial [...] quando a transferência formal do imóvel ao ex-Presidente tornou-se algo arriscado.",
+          "literal": true,
+          "quem_disse": "Sergio Moro (sentença, §811)",
+          "url": "https://static.aosfatos.org/media/cke_uploads/2017/07/13/sentenca-lula.pdf",
+          "tipo": "documento"
+        },
+        {
+          "data": "2017-07-12",
+          "fato": "Conclusão sobre o argumento da defesa.",
+          "citacao_literal": "Então o argumento da Defesa é absolutamente insubsistente.",
+          "literal": true,
+          "quem_disse": "Sergio Moro (sentença, §812)",
+          "url": "https://static.aosfatos.org/media/cke_uploads/2017/07/13/sentenca-lula.pdf",
+          "tipo": "documento"
+        },
+        {
+          "data": "2017-07-12",
+          "fato": "Sentença: manutenção do imóvel em nome da OAS como conduta de ocultação.",
+          "citacao_literal": "A manutenção do imóvel em nome da OAS Empreendimentos, entre 2009 até pelo menos o final de 2014, ocultando o proprietário de fato, também configura conduta de ocultação apta a caracterizar o crime de lavagem de dinheiro.",
+          "literal": true,
+          "quem_disse": "Sergio Moro (sentença, §894)",
+          "url": "https://static.aosfatos.org/media/cke_uploads/2017/07/13/sentenca-lula.pdf",
+          "tipo": "documento"
+        },
+        {
+          "data": "2017-07-12",
+          "fato": "Sentença cita o depoimento do delator Léo Pinheiro.",
+          "citacao_literal": "o apartamento era do Presidente Lula desde o dia que me passaram para estudar os empreendimentos da BANCOOP, já foi me dito que era do Presidente Lula e de sua família, que eu não comercializasse e tratasse aquilo como uma coisa de propriedade do Presidente",
+          "literal": true,
+          "quem_disse": "José Adelmário Pinheiro Filho (Léo Pinheiro), citado na sentença (§898)",
+          "url": "https://static.aosfatos.org/media/cke_uploads/2017/07/13/sentenca-lula.pdf",
+          "tipo": "documento"
+        },
+        {
+          "data": "2017-07-12",
+          "fato": "Valor da propina atribuída a Lula na sentença.",
+          "citacao_literal": "cerca de R$ 2.252.472,00, consubstanciado na diferença entre o pago e o preço do apartamento triplex (R$ 1.147.770,00) e no custo das reformas (R$ 1.104.702,00)",
+          "literal": true,
+          "quem_disse": "Sergio Moro (sentença, §892)",
+          "url": "https://static.aosfatos.org/media/cke_uploads/2017/07/13/sentenca-lula.pdf",
+          "tipo": "documento"
+        },
+        {
+          "data": "2017-07-12",
+          "fato": "Dispositivo da condenação.",
+          "citacao_literal": "Condeno Luiz Inácio Lula da Silva: a) por um crime de corrupção passiva do art. 317 do CP [...] pelo recebimento de vantagem indevida do Grupo OAS em decorrência do contrato do Consórcio CONEST/RNEST com a Petrobrás; e b) por um crime de lavagem de dinheiro do art. 1º, caput, inciso V, da Lei n.º 9.613/1998, envolvendo a ocultação e dissimulação da titularidade do apartamento 164-A, triplex, e do beneficiário das reformas realizadas.",
+          "literal": true,
+          "quem_disse": "Sergio Moro (sentença, §944)",
+          "url": "https://static.aosfatos.org/media/cke_uploads/2017/07/13/sentenca-lula.pdf",
+          "tipo": "decisao"
+        },
+        {
+          "data": "2017-07-12",
+          "fato": "Na mesma sentença, Moro absolve os executivos da OAS Gordilho, Yonamine e Moreira Ferreira da lavagem 'por falta de prova suficiente do agir doloso' (§941) e absolve Lula e Paulo Okamotto da imputação do acervo presidencial 'por falta de prova suficiente da materialidade' (§939-940).",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": "Sergio Moro (sentença)",
+          "url": "https://static.aosfatos.org/media/cke_uploads/2017/07/13/sentenca-lula.pdf",
+          "tipo": "decisao"
+        },
+        {
+          "data": "2017-07-12",
+          "fato": "Pena de 9 anos e 6 meses por corrupção passiva e lavagem; Moro manda confiscar o tríplex.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://www.em.com.br/app/noticia/politica/2017/07/12/interna_politica,883273/moro-manda-confiscar-o-triplex-do-guaruja-que-lava-jato-atribui-a-lul.shtml",
+          "tipo": "decisao"
+        },
+        {
+          "data": "2017-07",
+          "fato": "Em embargos, Moro afirma que 'o juízo não pode se prender unicamente à titularidade formal' (literal conforme imprensa).",
+          "citacao_literal": "o juízo não pode se prender unicamente à titularidade formal",
+          "literal": true,
+          "quem_disse": "Sergio Moro (embargos)",
+          "url": "https://www.bahianoticias.com.br/noticia/209697-moro-x-lula-narrativa-da-decisao-evidencia-que-discurso-sobre-falta-de-provas-e-falho",
+          "tipo": "decisao",
+          "fonte_da_citacao": "imprensa"
+        },
+        {
+          "data": "2017-07",
+          "fato": "Defesa: Cristiano Zanin classifica a sentença como 'meramente especulativa' (paráfrase); sustenta que escritura e penhora judicial atribuem o imóvel à OAS e que 'proprietário de fato' não existe na lei.",
+          "citacao_literal": null,
+          "literal": false,
+          "quem_disse": "Cristiano Zanin (defesa de Lula)",
+          "url": "https://www.folhavitoria.com.br/politica/entenda-o-caso-triplex-em-que-lula-foi-condenado/",
+          "tipo": "declaracao"
+        },
+        {
+          "data": "2017-07",
+          "fato": "Checagens da Aos Fatos sobre a sentença: 'a sentença se baseia exclusivamente em delações' = falso (usa documentos apreendidos na casa de Lula); 'a defesa teve cinco parágrafos' = exagerado; 'provas da defesa simplesmente ignoradas' (Zanin) = falso. A Aos Fatos também registra que Marisa Letícia pagou 50 das 70 prestações do apartamento 141-A.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://aosfatos.org/noticias/o-que-e-fato-e-o-que-e-ficcao-na-condenacao-de-lula-na-lava-jato/",
+          "tipo": "documento"
+        }
+      ],
+      "o_que_a_acusacao_dizia": "A ausência de registro em nome de Lula é compatível com a acusação de ocultação (lavagem); a titularidade de fato estaria provada por depoimentos de Léo Pinheiro, porteiro e funcionários da OAS e por documentos (termos de adesão da BANCOOP, reportagem de 2010).",
+      "o_que_a_defesa_dizia": "Escritura, penhora judicial e o arrolamento do imóvel na recuperação judicial da OAS mostram que o tríplex é da OAS; a sentença seria 'especulativa' e 'proprietário de fato' não é categoria legal; a família pagou prestações de outro apartamento.",
+      "numeros": [
+        {
+          "rotulo": "Pena em 1ª instância (Moro)",
+          "valor": 9.5,
+          "unidade": "anos",
+          "periodo": "2017-07-12",
+          "fonte": {
+            "nome": "Aos Fatos (documento hospedado)",
+            "url": "https://static.aosfatos.org/media/cke_uploads/2017/07/13/sentenca-lula.pdf",
+            "acesso_em": "2026-10-21",
+            "tier": "checagem"
+          },
+          "detalhe": "9 anos e 6 meses"
+        },
+        {
+          "rotulo": "Propina atribuída a Lula na sentença",
+          "valor": 2252472,
+          "unidade": "R$",
+          "periodo": "2017-07-12",
+          "fonte": {
+            "nome": "Aos Fatos (documento hospedado)",
+            "url": "https://static.aosfatos.org/media/cke_uploads/2017/07/13/sentenca-lula.pdf",
+            "acesso_em": "2026-10-21",
+            "tier": "checagem"
+          }
+        },
+        {
+          "rotulo": "Preço do tríplex considerado na sentença",
+          "valor": 1147770,
+          "unidade": "R$",
+          "periodo": "2017-07-12",
+          "fonte": {
+            "nome": "Aos Fatos (documento hospedado)",
+            "url": "https://static.aosfatos.org/media/cke_uploads/2017/07/13/sentenca-lula.pdf",
+            "acesso_em": "2026-10-21",
+            "tier": "checagem"
+          }
+        },
+        {
+          "rotulo": "Custo das reformas considerado na sentença",
+          "valor": 1104702,
+          "unidade": "R$",
+          "periodo": "2017-07-12",
+          "fonte": {
+            "nome": "Aos Fatos (documento hospedado)",
+            "url": "https://static.aosfatos.org/media/cke_uploads/2017/07/13/sentenca-lula.pdf",
+            "acesso_em": "2026-10-21",
+            "tier": "checagem"
+          }
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "titulo": "TRF-4 (2018) e STJ (2019): a condenação confirmada em 2ª e 3ª instância",
+      "periodo": "2018-01-24 a 2019-04-23",
+      "texto_md": "O TRF-4 manteve a condenação em 24/01/2018 e elevou a pena para 12 anos e 1 mês. Em 23/04/2019 a 5ª Turma do STJ reduziu a pena para 8 anos, 10 meses e 20 dias, por unanimidade entre os quatro votantes (relator Felix Fischer, com Jorge Mussi e Reynaldo Soares da Fonseca; Joel Ilan Paciornik declarou-se impedido). A nota não localizou os textos dos acórdãos nem confirmou por fonte a composição e o placar do TRF-4 (a unanimidade 3x0 da 8ª Turma é conhecimento público, mas sem URL nesta rodada). Com recursos ainda pendentes, a condenação não transitou em julgado.",
+      "eventos": [
+        {
+          "data": "2018-01-24",
+          "fato": "TRF-4 mantém a condenação e eleva a pena para 12 anos e 1 mês.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://www.poder360.com.br/justica/stj-forma-maioria-por-reducao-de-pena-de-lula-no-caso-triplex-do-guaruja/",
+          "tipo": "decisao"
+        },
+        {
+          "data": "2019-04-23",
+          "fato": "STJ (5ª Turma) reduz a pena para 8 anos, 10 meses e 20 dias; relator Felix Fischer, acompanhado por Jorge Mussi e Reynaldo Soares da Fonseca; Paciornik impedido; unânime entre os quatro votantes.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://www.poder360.com.br/justica/stj-forma-maioria-por-reducao-de-pena-de-lula-no-caso-triplex-do-guaruja/",
+          "tipo": "decisao"
+        }
+      ],
+      "o_que_a_acusacao_dizia": null,
+      "o_que_a_defesa_dizia": null,
+      "numeros": [
+        {
+          "rotulo": "Pena no TRF-4",
+          "valor": 12.08,
+          "unidade": "anos",
+          "periodo": "2018-01-24",
+          "fonte": {
+            "nome": "Poder360",
+            "url": "https://www.poder360.com.br/justica/stj-forma-maioria-por-reducao-de-pena-de-lula-no-caso-triplex-do-guaruja/",
+            "acesso_em": "2026-10-21",
+            "tier": "imprensa"
+          },
+          "detalhe": "12 anos e 1 mês"
+        },
+        {
+          "rotulo": "Pena no STJ",
+          "valor": 8.89,
+          "unidade": "anos",
+          "periodo": "2019-04-23",
+          "fonte": {
+            "nome": "Poder360",
+            "url": "https://www.poder360.com.br/justica/stj-forma-maioria-por-reducao-de-pena-de-lula-no-caso-triplex-do-guaruja/",
+            "acesso_em": "2026-10-21",
+            "tier": "imprensa"
+          },
+          "detalhe": "8 anos, 10 meses e 20 dias"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "titulo": "A prisão (abril de 2018): HC 6x5, 580 dias, TSE 6x1 e a ONU",
+      "periodo": "2018-04-04 a 2019-03",
+      "texto_md": "Na madrugada de 05/04/2018, após sessão de cerca de 10 a 11 horas, o STF negou por 6x5 o HC 152752, que pedia para Lula aguardar em liberdade o fim dos recursos. Votaram contra o HC Fachin (relator), Cármen Lúcia (desempate), Moraes, Barroso, Rosa Weber e Fux; a favor, Gilmar, Toffoli, Lewandowski, Marco Aurélio e Celso de Mello. Rosa Weber afirmou que respeitaria a colegialidade e a jurisprudência então vigente (2016), mesmo discordando pessoalmente da prisão após 2ª instância. **O HC não julgou culpa**: tratou apenas de saber se Lula podia ser preso antes do trânsito em julgado. Moro expediu o mandado em 05/04, menos de 20 horas depois. Lula se entregou em 07/04/2018 às 18h50, após impasse no Sindicato dos Metalúrgicos do ABC, e ficou 580 dias em uma sala de 15 m² na PF de Curitiba. Em 31/08/2018 o TSE negou o registro de sua candidatura por 6x1 (Lei da Ficha Limpa), apesar da medida provisória do Comitê de Direitos Humanos da ONU de 17/08/2018 pedindo que seus direitos políticos fossem garantidos.",
+      "eventos": [
+        {
+          "data": "2018-04-05",
+          "fato": "STF nega o HC 152752 por 6x5; por 8x2 nega que Lula aguarde em liberdade a publicação do acórdão. Contra o HC: Fachin, Cármen Lúcia, Moraes, Barroso, Rosa Weber, Fux; a favor: Gilmar, Toffoli, Lewandowski, Marco Aurélio, Celso de Mello.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://www.tribunapr.com.br/noticias/politica/supremo-nega-habeas-corpus-por-6-a-5-e-abre-caminho-para-prisao-de-lula/",
+          "tipo": "decisao"
+        },
+        {
+          "data": "2018-04-05",
+          "fato": "Rosa Weber afirma que respeitaria a colegialidade e a estabilidade da jurisprudência, mesmo tendo ficado na corrente minoritária sobre a prisão em 2ª instância (paráfrase).",
+          "citacao_literal": null,
+          "literal": false,
+          "quem_disse": "Rosa Weber",
+          "url": "https://www.opovo.com.br/noticias/politica/ae/2018/04/como-votaram-os-ministros-no-julgamento-de-habeas-corpus-de-lula.html",
+          "tipo": "declaracao"
+        },
+        {
+          "data": "2018-04-05",
+          "fato": "Moro expede o mandado de prisão menos de 20 horas após o STF: dá a Lula até 17h de 06/04 para se apresentar em Curitiba, veda algemas e descreve a cela como 'uma espécie de sala de Estado-Maior' (literal conforme imprensa).",
+          "citacao_literal": "uma espécie de sala de Estado-Maior",
+          "literal": true,
+          "quem_disse": "Sergio Moro (mandado)",
+          "url": "https://sul21.com.br/?p=37207",
+          "tipo": "decisao",
+          "fonte_da_citacao": "imprensa"
+        },
+        {
+          "data": "2018-04-07",
+          "fato": "Lula fica no Sindicato dos Metalúrgicos do ABC; militantes bloqueiam a saída; a PF dá prazo de 30 minutos; após duas horas de negociação, Lula sai a pé e entra no carro da PF às 18h50.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://www.vozdeamerica.com/a/brasil-lula-prision-policia-resistencia-/4337537.html",
+          "tipo": "fato"
+        },
+        {
+          "data": "2018-04-07",
+          "fato": "Lula chega à Superintendência da PF em Curitiba; cela de 15 m² (O Globo, via Diario de Cuyo).",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://www.diariodecuyo.com.ar/noticias/lula-ya-esta-en-la-sede-de-la-policia-federal-en-curitiba-donde-cumplira-su-condena-311695.html",
+          "tipo": "fato"
+        },
+        {
+          "data": "2018-07-08",
+          "fato": "Domingo: o desembargador plantonista Rogério Favreto (TRF-4) manda soltar Lula; o relator Gebran Neto suspende; Favreto reitera e dá prazo de 1 hora; à noite o presidente do TRF-4, Thompson Flores, mantém Lula preso; Moro, de férias, diz ter sido orientado por Thompson Flores.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://www.conjur.com.br/2018-jul-08/advogados-comentam-vaivem-decisoes-soltura-lula//?print=1",
+          "tipo": "decisao"
+        },
+        {
+          "data": "2019-04-03",
+          "fato": "Barroso (STF) arquiva inquérito contra Favreto por entender que ele era o magistrado competente no plantão.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://www.conjur.com.br/2019-abr-03/barroso-arquiva-inquerito-desembargador-deu-hc-lula//?print=1",
+          "tipo": "decisao"
+        },
+        {
+          "data": "2018-08-17",
+          "fato": "Comitê de Direitos Humanos da ONU pede que o Brasil garanta os direitos políticos de Lula até o julgamento final; a defesa leva o pedido ao TSE.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2018-08/com-base-na-recomendacao-da-onu-defesa-pede-registro-de-lula-no-tse",
+          "tipo": "documento"
+        },
+        {
+          "data": "2018-08-31",
+          "fato": "TSE indefere o registro da candidatura de Lula por 6x1 (relator Barroso; Lei da Ficha Limpa). Fachin, vencido, reconhece a inelegibilidade mas defende efeito suspensivo pela medida da ONU; Barroso: a posição do Comitê não vincula o Judiciário.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://www.migalhas.com.br/quentes/286709/tse-indefere-registro-de-candidatura-de-lula",
+          "tipo": "decisao"
+        },
+        {
+          "data": "2018-09-03",
+          "fato": "A vice-presidente do Comitê da ONU, Sarah Cleveland, chama a decisão do TSE de 'lamentável' e fala em possível 'violação' dos tratados.",
+          "citacao_literal": "lamentável",
+          "literal": true,
+          "quem_disse": "Sarah Cleveland (Comitê de Direitos Humanos da ONU)",
+          "url": "https://www.em.com.br/app/noticia/politica/2018/09/03/interna_politica,985822/vice-do-comite-da-onu-critica-descumprimento-do-brasil-em-candidatura.shtml",
+          "tipo": "declaracao",
+          "fonte_da_citacao": "imprensa"
+        },
+        {
+          "data": "2018-12-19",
+          "fato": "Marco Aurélio (STF), em liminar a pedido do PCdoB, suspende a execução de prisões após 2ª instância; na mesma noite Toffoli, a pedido da PGR Raquel Dodge, derruba a liminar citando risco de soltura em massa (CNJ: 169 mil presos).",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://www.metropoles.com/brasil/justica/dias-toffoli-revoga-liminar-que-libera-presos-apos-2a-instancia",
+          "tipo": "decisao"
+        },
+        {
+          "data": "2019-01",
+          "fato": "Velório do irmão Vavá: a juíza Carolina Lebbos nega; TRF-4 mantém; Toffoli autoriza, mas a decisão chega minutos antes do fim do velório e Lula não sai da PF; Toffoli permite apenas encontro com parentes em unidade militar (data exata não confirmada; imprensa registra 29/01/2019).",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://congressoemfoco.com.br/justica/lula-deixa-pf-em-curitiba-para-ir-ao-enterro-do-neto-em-sao-paulo",
+          "tipo": "decisao",
+          "nao_verificado": true
+        },
+        {
+          "data": "2019-03-02",
+          "fato": "Após a morte do neto Arthur (7 anos, meningite, 01/03), a juíza Lebbos autoriza a ida ao velório em São Bernardo com escolta da PF, sem celular, sem imprensa e sem declarações; Lula fica cerca de 2 horas.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://www.moneytimes.com.br/juiza-autoriza-lula-a-comparecer-ao-velorio-do-neto-em-sao-bernardo/",
+          "tipo": "decisao"
+        }
+      ],
+      "o_que_a_acusacao_dizia": "A prisão decorria da confirmação da condenação pelo TRF-4 e do entendimento do STF de 2016 que permitia execução provisória da pena; a Ficha Limpa torna inelegível quem tem condenação por órgão colegiado.",
+      "o_que_a_defesa_dizia": "A prisão antes do trânsito em julgado violaria a presunção de inocência (art. 283 do CPP); a ONU pediu a garantia dos direitos políticos de Lula; a defesa sustentava que o processo era parcial.",
+      "numeros": [
+        {
+          "rotulo": "Placar do HC 152752",
+          "valor": 6,
+          "unidade": "votos contra x 5 a favor",
+          "periodo": "2018-04-05",
+          "fonte": {
+            "nome": "Tribuna PR",
+            "url": "https://www.tribunapr.com.br/noticias/politica/supremo-nega-habeas-corpus-por-6-a-5-e-abre-caminho-para-prisao-de-lula/",
+            "acesso_em": "2026-10-21",
+            "tier": "imprensa"
+          }
+        },
+        {
+          "rotulo": "Dias de prisão",
+          "valor": 580,
+          "unidade": "dias",
+          "periodo": "2018-04-07 a 2019-11-08",
+          "fonte": {
+            "nome": "Gazeta do Povo",
+            "url": "https://www.gazetadopovo.com.br/republica/lula-solto-alvara-justica-ex-presidente-lava-jato/",
+            "acesso_em": "2026-10-21",
+            "tier": "imprensa"
+          }
+        },
+        {
+          "rotulo": "Placar do TSE sobre o registro",
+          "valor": 6,
+          "unidade": "votos contra x 1 a favor",
+          "periodo": "2018-08-31",
+          "fonte": {
+            "nome": "Migalhas",
+            "url": "https://www.migalhas.com.br/quentes/286709/tse-indefere-registro-de-candidatura-de-lula",
+            "acesso_em": "2026-10-21",
+            "tier": "imprensa"
+          }
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "titulo": "Moro ministro de Bolsonaro (2018-2020): convite, reunião de 22/04/2020 e demissão",
+      "periodo": "2018-10-29 a 2020-05-05",
+      "texto_md": "Em 29/10/2018, um dia após eleito, Bolsonaro disse que convidaria Moro para o Ministério da Justiça 'ou' para uma vaga no STF. Moro aceitou o ministério em 01/11/2018. Em 24/04/2020 demitiu-se, acusando Bolsonaro de insistir na troca do diretor-geral da PF (Maurício Valeixo) e do superintendente do Rio para ter 'uma pessoa do contato pessoal dele que ele pudesse ligar' e 'colher relatórios de inteligência'. Na reunião ministerial de 22/04/2020 (vídeo liberado pelo STF em 22/05/2020), Bolsonaro disse: 'Já tentei trocar gente da segurança nossa no Rio de Janeiro, oficialmente, e não consegui!' e 'Eu não vou esperar foder a minha família toda, de sacanagem, ou amigos meu [...]'. **O que o registro prova**: Bolsonaro declarou, gravado, que queria trocar a 'segurança' no Rio para proteger 'família' e 'amigos' e que interferiria 'em todos os ministérios'. **O que é inferência**: que a troca visava blindar Flávio (rachadinha) ou Carlos (inquérito das fake news). Nenhuma decisão judicial localizada afirma esse nexo. Bolsonaro negou buscar informações sigilosas. A expressão 'pudesse ligar' é de Moro (discurso), não de Bolsonaro.",
+      "eventos": [
+        {
+          "data": "2018-10-29",
+          "fato": "Em entrevista à Record, Bolsonaro diz que convidará Moro para o Ministério da Justiça 'ou para ocupar, quando surgir, uma vaga no Supremo Tribunal Federal' (paráfrase da Agência Brasil).",
+          "citacao_literal": null,
+          "literal": false,
+          "quem_disse": "Jair Bolsonaro",
+          "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2018-10/bolsonaro-diz-que-vai-chamar-moro-para-ministerio-da-justica-ou-stf",
+          "tipo": "declaracao"
+        },
+        {
+          "data": "2018-10-30",
+          "fato": "Moro diz que o convite será 'objeto de ponderada discussão e reflexão' (literal conforme imprensa).",
+          "citacao_literal": "objeto de ponderada discussão e reflexão",
+          "literal": true,
+          "quem_disse": "Sergio Moro",
+          "url": "https://www.metropoles.com/brasil/politica-brasil/moro-diz-que-convite-de-bolsonaro-sera-objeto-de-discussao-e-reflexao",
+          "tipo": "declaracao",
+          "fonte_da_citacao": "imprensa"
+        },
+        {
+          "data": "2018-11-01",
+          "fato": "Moro vai à casa de Bolsonaro na Barra da Tijuca e aceita o Ministério da Justiça e Segurança Pública.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://congressoemfoco.com.br/corrupcao/moro-sera-ministro-da-justica-e-promete-forte-agenda-anticorrupcao-decisao-e-primeira-vitoria-de-bolsonaro",
+          "tipo": "fato"
+        },
+        {
+          "data": "2020-04-22",
+          "fato": "Reunião ministerial gravada. Bolsonaro: queixa sobre falta de informações da PF.",
+          "citacao_literal": "Eu não posso ser surpreendido com notícias. Pô, eu tenho a PF que não me dá informações.",
+          "literal": true,
+          "quem_disse": "Jair Bolsonaro",
+          "url": "https://poder360.com.br/governo/leia-a-transcricao-dos-trechos-da-reuniao-ministerial-destacados-pelo-stf/",
+          "tipo": "declaracao"
+        },
+        {
+          "data": "2020-04-22",
+          "fato": "Reunião ministerial. Bolsonaro sobre interferir nos ministérios.",
+          "citacao_literal": "E eu tenho o poder e vou interferir em todos os ministérios, sem exceção.",
+          "literal": true,
+          "quem_disse": "Jair Bolsonaro",
+          "url": "https://poder360.com.br/governo/leia-a-transcricao-dos-trechos-da-reuniao-ministerial-destacados-pelo-stf/",
+          "tipo": "declaracao"
+        },
+        {
+          "data": "2020-04-22",
+          "fato": "Reunião ministerial. Bolsonaro sobre a segurança no Rio.",
+          "citacao_literal": "Já tentei trocar gente da segurança nossa no Rio de Janeiro, oficialmente, e não consegui! E isso acabou.",
+          "literal": true,
+          "quem_disse": "Jair Bolsonaro",
+          "url": "https://poder360.com.br/governo/leia-a-transcricao-dos-trechos-da-reuniao-ministerial-destacados-pelo-stf/",
+          "tipo": "declaracao"
+        },
+        {
+          "data": "2020-04-22",
+          "fato": "Reunião ministerial. Bolsonaro sobre família e amigos.",
+          "citacao_literal": "Eu não vou esperar foder a minha família toda, de sacanagem, ou amigos meu, porque eu não posso trocar alguém da segurança na ponta da linha que pertence a estrutura nossa.",
+          "literal": true,
+          "quem_disse": "Jair Bolsonaro",
+          "url": "https://poder360.com.br/governo/leia-a-transcricao-dos-trechos-da-reuniao-ministerial-destacados-pelo-stf/",
+          "tipo": "declaracao"
+        },
+        {
+          "data": "2020-04-22",
+          "fato": "Reunião ministerial. Bolsonaro: 'troca o ministro'.",
+          "citacao_literal": "Vai trocar! Se não puder trocar, troca o chefe dele! Não pode trocar o chefe dele? Troca o ministro! E ponto final! Não estamos aqui pra brincadeira.",
+          "literal": true,
+          "quem_disse": "Jair Bolsonaro",
+          "url": "https://poder360.com.br/governo/leia-a-transcricao-dos-trechos-da-reuniao-ministerial-destacados-pelo-stf/",
+          "tipo": "declaracao",
+          "contexto": "a transcrição oficial traz o erro de OCR 'estan1os'"
+        },
+        {
+          "data": "2020-04-22",
+          "fato": "Reunião ministerial. Bolsonaro reitera que vai interferir.",
+          "citacao_literal": "Por isso, vou interferir! E ponto final, pô!",
+          "literal": true,
+          "quem_disse": "Jair Bolsonaro",
+          "url": "https://poder360.com.br/governo/leia-a-transcricao-dos-trechos-da-reuniao-ministerial-destacados-pelo-stf/",
+          "tipo": "declaracao"
+        },
+        {
+          "data": "2020-04-24",
+          "fato": "Discurso de demissão de Moro: a única indicação dele foi Valeixo.",
+          "citacao_literal": "A única pessoa que indiquei foi o diretor Maurício Valeixo.",
+          "literal": true,
+          "quem_disse": "Sergio Moro",
+          "url": "https://jornaldebrasilia.com.br/politica-e-poder/leia-a-integra-do-discurso-de-moro/",
+          "tipo": "declaracao"
+        },
+        {
+          "data": "2020-04-24",
+          "fato": "Discurso de demissão: insistência do presidente na troca do diretor-geral.",
+          "citacao_literal": "O presidente no entanto também passou a insistir na troca do diretor geral.",
+          "literal": true,
+          "quem_disse": "Sergio Moro",
+          "url": "https://jornaldebrasilia.com.br/politica-e-poder/leia-a-integra-do-discurso-de-moro/",
+          "tipo": "declaracao"
+        },
+        {
+          "data": "2020-04-24",
+          "fato": "Discurso de demissão: o desejo inicial de trocar o superintendente do Rio.",
+          "citacao_literal": "Houve primeiro o desejo de trocar o superintendente do Rio.",
+          "literal": true,
+          "quem_disse": "Sergio Moro",
+          "url": "https://jornaldebrasilia.com.br/politica-e-poder/leia-a-integra-do-discurso-de-moro/",
+          "tipo": "declaracao"
+        },
+        {
+          "data": "2020-04-24",
+          "fato": "Discurso de demissão: Bolsonaro 'queria ter uma pessoa do contato pessoal dele que ele pudesse ligar', 'colher relatórios de inteligência', o que Moro chama de 'uma interferência política na polícia federal'.",
+          "citacao_literal": "queria ter uma pessoa do contato pessoal dele que ele pudesse ligar",
+          "literal": true,
+          "quem_disse": "Sergio Moro",
+          "url": "https://jornaldebrasilia.com.br/politica-e-poder/leia-a-integra-do-discurso-de-moro/",
+          "tipo": "declaracao",
+          "contexto": "trechos adicionais literais: 'colher relatórios de inteligência'; 'uma interferência política na polícia federal'"
+        },
+        {
+          "data": "2020-04-24",
+          "fato": "Discurso de demissão: Moro diz não ter assinado o decreto de exoneração de Valeixo, embora sua assinatura eletrônica constasse.",
+          "citacao_literal": "A exoneração fiquei sabendo pelo DOU. Não assinei esse decreto.",
+          "literal": true,
+          "quem_disse": "Sergio Moro",
+          "url": "https://jornaldebrasilia.com.br/politica-e-poder/leia-a-integra-do-discurso-de-moro/",
+          "tipo": "declaracao"
+        },
+        {
+          "data": "2020-04-24",
+          "fato": "Discurso de demissão: Moro nega ter condicionado a permanência a uma vaga no STF.",
+          "citacao_literal": "foi divulgado equivocadamente que eu teria estabelecido como condição uma nomeação ao STF [...] Isso nunca aconteceu.",
+          "literal": true,
+          "quem_disse": "Sergio Moro",
+          "url": "https://jornaldebrasilia.com.br/politica-e-poder/leia-a-integra-do-discurso-de-moro/",
+          "tipo": "declaracao"
+        },
+        {
+          "data": "2020-04-24",
+          "fato": "Cobertura: Moro acusa Bolsonaro de pretender interferir na PF para acesso a relatórios de inteligência.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://www.poder360.com.br/governo/sergio-moro-deixa-o-governo-bolsonaro/",
+          "tipo": "fato"
+        },
+        {
+          "data": "2020-05",
+          "fato": "Bolsonaro teria dito a Moro 'Eu quero apenas uma superintendência' (Rio) (literal conforme imprensa).",
+          "citacao_literal": "Eu quero apenas uma superintendência",
+          "literal": true,
+          "quem_disse": "Jair Bolsonaro (segundo relato)",
+          "url": "https://www.correio24horas.com.br/brasil/eu-quero-apenas-uma-superintendencia-disse-bolsonaro-a-moro-0520",
+          "tipo": "declaracao",
+          "fonte_da_citacao": "imprensa"
+        },
+        {
+          "data": "2020-04-29",
+          "fato": "Alexandre de Moraes (STF) suspende a nomeação de Alexandre Ramagem (então chefe da Abin) para diretor-geral da PF.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://congressoemfoco.com.br/governo/ministro-do-stf-barra-nomeacao-de-ramagem-para-pf",
+          "tipo": "decisao"
+        },
+        {
+          "data": "2020-05-05",
+          "fato": "Bolsonaro confirma a troca do superintendente da PF no Rio (Carlos Henrique de Oliveira); a PGR diz que investigará os motivos.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://www.moneytimes.com.br/pgr-vai-investigar-troca-de-chefe-da-pf-do-rio-anunciada-por-bolsonaro/",
+          "tipo": "fato"
+        },
+        {
+          "data": "2020-05-22",
+          "fato": "Celso de Mello libera o vídeo e a transcrição da reunião de 22/04/2020.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://poder360.com.br/governo/leia-a-transcricao-dos-trechos-da-reuniao-ministerial-destacados-pelo-stf/",
+          "tipo": "decisao"
+        },
+        {
+          "data": "2020",
+          "fato": "Em depoimento à PF, Moro diz que Bolsonaro cobrou na reunião de 22/04 a troca do superintendente do Rio, do diretor-geral e relatórios de inteligência, e ameaçou trocar ministro.",
+          "citacao_literal": null,
+          "literal": false,
+          "quem_disse": "Sergio Moro",
+          "url": "https://www.infomoney.com.br/?p=1442781",
+          "tipo": "declaracao"
+        },
+        {
+          "data": "2020",
+          "fato": "Em depoimento, Bolsonaro afirma que Moro aceitaria Ramagem na chefia da PF se fosse indicado ao STF (paráfrase).",
+          "citacao_literal": null,
+          "literal": false,
+          "quem_disse": "Jair Bolsonaro",
+          "url": "https://www.moneytimes.com.br/em-depoimento-bolsonaro-diz-que-moro-aceitaria-ramagem-na-chefia-da-pf-se-fosse-indicado-ao-stf-2/",
+          "tipo": "declaracao"
+        },
+        {
+          "data": "2020",
+          "fato": "Versão de Bolsonaro em depoimento: 'a PF não me dá informações' significava que 'não obtinha informações de forma ágil e eficiente dos órgãos do Poder Executivo, assim como da própria Polícia Federal' (literal conforme imprensa); diz que nunca buscou informações sigilosas de investigações.",
+          "citacao_literal": "não obtinha informações de forma ágil e eficiente dos órgãos do Poder Executivo, assim como da própria Polícia Federal",
+          "literal": true,
+          "quem_disse": "Jair Bolsonaro (depoimento)",
+          "url": "https://www.poder360.com.br/governo/bolsonaro-diz-em-depoimento-que-nunca-buscou-informacoes-sigilosas-na-pf/",
+          "tipo": "declaracao",
+          "fonte_da_citacao": "imprensa"
+        },
+        {
+          "data": "2020",
+          "fato": "Bolsonaro nega interferência na PF e manda repórter 'calar a boca'.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": "Jair Bolsonaro",
+          "url": "https://www.poder360.com.br/governo/bolsonaro-manda-reporter-calar-a-boca-e-diz-que-nao-interferiu-na-pf",
+          "tipo": "declaracao"
+        }
+      ],
+      "o_que_a_acusacao_dizia": "Moro e a leitura do vídeo pela imprensa: o presidente queria uma PF 'do contato pessoal' para obter relatórios e proteger família e amigos, o que configuraria interferência política.",
+      "o_que_a_defesa_dizia": "Bolsonaro: queria informações ágeis dos órgãos do Executivo, não dados sigilosos de investigações; a troca de superintendente é prerrogativa do governo; o relato de Moro seria uma versão interessada.",
+      "numeros": []
+    },
+    {
+      "id": "7",
+      "titulo": "O Inquérito 4831 (STF): arquivamento pedido, consulta e reabertura em 16/10/2025",
+      "periodo": "2020-04 a 2026-10-21",
+      "texto_md": "O ministro Celso de Mello abriu o Inquérito 4831 em abril de 2020 para apurar as acusações de Moro. Em setembro de 2022 a PGR pediu o arquivamento por entender que as condutas não configuravam crime. Em maio de 2024 Moraes pediu que a PGR (Paulo Gonet) avaliasse se mantinha o pedido. Em 15/10/2025 a PGR pediu diligências complementares e, em 16/10/2025, Moraes reabriu o inquérito. Crimes investigados: falsidade ideológica, coação no curso do processo, advocacia administrativa, prevaricação, obstrução de justiça e corrupção passiva privilegiada; foco na troca da direção-geral da PF e nas superintendências do Rio e de Pernambuco. Até 21/10/2026 não foi localizado desfecho (denúncia ou arquivamento).",
+      "eventos": [
+        {
+          "data": "2020-04",
+          "fato": "Celso de Mello decide abrir o Inquérito 4831.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://static.poder360.com.br/2020/04/Inq-4831-DF-decisao.pdf",
+          "tipo": "decisao"
+        },
+        {
+          "data": "2022-09",
+          "fato": "PGR pede o arquivamento por entender que as condutas não configuravam crime (segundo notícia do STF).",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://noticias.stf.jus.br/postsnoticias/a-pedido-da-pgr-stf-reabre-investigacoes-sobre-suposta-interferencia-de-jair-bolsonaro-na-pf/",
+          "tipo": "documento"
+        },
+        {
+          "data": "2024-05",
+          "fato": "Moraes pede que a PGR (Paulo Gonet) avalie se mantém o pedido de arquivamento.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://www.jb.com.br/brasil/justica/2024/05/amp/1050044-moraes-pede-que-pgr-avalie-arquivamento-de-inquerito-contra-bolsonaro.html",
+          "tipo": "decisao"
+        },
+        {
+          "data": "2025-10-15",
+          "fato": "PGR pede diligências complementares.",
+          "citacao_literal": "a análise dos autos indica a necessidade de diligências complementares",
+          "literal": true,
+          "quem_disse": "PGR",
+          "url": "https://noticias.stf.jus.br/postsnoticias/a-pedido-da-pgr-stf-reabre-investigacoes-sobre-suposta-interferencia-de-jair-bolsonaro-na-pf/",
+          "tipo": "documento",
+          "contexto": "também literal: 'ampliar as investigações para verificar se houve uso indevido da estrutura do Estado'"
+        },
+        {
+          "data": "2025-10-16",
+          "fato": "Moraes reabre o Inquérito 4831 a pedido da PGR.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://noticias.stf.jus.br/postsnoticias/a-pedido-da-pgr-stf-reabre-investigacoes-sobre-suposta-interferencia-de-jair-bolsonaro-na-pf/",
+          "tipo": "decisao"
+        }
+      ],
+      "o_que_a_acusacao_dizia": "PGR (2025): é preciso 'ampliar as investigações para verificar se houve uso indevido da estrutura do Estado'.",
+      "o_que_a_defesa_dizia": "PGR (2022) e Bolsonaro: as condutas não configuravam crime; não houve busca por informações sigilosas.",
+      "numeros": []
+    },
+    {
+      "id": "8",
+      "titulo": "No mesmo período: o caso Flávio Bolsonaro ('rachadinha')",
+      "periodo": "2018-12-06 a 2026",
+      "texto_md": "A conexão entre a tentativa de trocar a PF do Rio e o caso de Flávio é inferência de Moro e da imprensa, não conclusão judicial. Os fatos do caso: o Coaf apontou em 06/12/2018 movimentações atípicas de R$ 1,24 milhão na conta de Fabrício Queiroz (ex-assessor de Flávio); Queiroz foi preso em 18/06/2020; o MP-RJ denunciou Flávio por peculato, corrupção, organização criminosa e lavagem, acusando desvio de R$ 2,7 milhões (data da denúncia: 04/11/2020 segundo uma fonte, 19/10/2020 segundo outra; não confirmada em fonte primária). Em 23/02/2021 a 5ª Turma do STJ anulou (4x1) a quebra de sigilo bancário e fiscal de Flávio e de outras 94 pessoas por falta de fundamentação ('decisão de duas linhas'). Em 16/05/2022 o Órgão Especial do TJ-RJ arquivou a denúncia. Em 26/02/2025 Gilmar Mendes rejeitou dois recursos do MP-RJ, observando que a anulação das provas não impede nova denúncia com elementos distintos. Flávio nega e fala em 'perseguição política'; em 2026 afirmou: 'nunca respondi criminalmente por isso'. Correção de datas: a anulação das quebras pelo STJ foi em fevereiro de 2021 (não novembro de 2021).",
+      "eventos": [
+        {
+          "data": "2018-12-06",
+          "fato": "Relatório do Coaf aponta R$ 1,24 milhão em movimentações atípicas na conta de Fabrício Queiroz (jan/2016 a jan/2017) e 48 depósitos suspeitos (R$ 96 mil) na conta de Flávio.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://pt.wikipedia.org/wiki/Fl%C3%A1vio_Bolsonaro",
+          "tipo": "documento"
+        },
+        {
+          "data": "2019-09-30",
+          "fato": "Gilmar Mendes (STF) suspende a investigação; revoga a suspensão em 29-30/11/2019.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://pt.wikipedia.org/wiki/Fl%C3%A1vio_Bolsonaro",
+          "tipo": "decisao"
+        },
+        {
+          "data": "2019-12",
+          "fato": "Busca na loja de chocolates ligada a Flávio.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://www.insightcrime.org/news/analysis/bolsonaro-family-corruption-scandals/",
+          "tipo": "fato"
+        },
+        {
+          "data": "2020-06-18",
+          "fato": "Fabrício Queiroz é preso em imóvel do advogado Frederick Wassef em Atibaia.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://pt.wikipedia.org/wiki/Fabr%C3%ADcio_Queiroz",
+          "tipo": "fato"
+        },
+        {
+          "data": "2020-06",
+          "fato": "TJ-RJ (2x1) concede foro por prerrogativa a Flávio, levando o caso ao Órgão Especial.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://www.insightcrime.org/news/analysis/bolsonaro-family-corruption-scandals/",
+          "tipo": "decisao"
+        },
+        {
+          "data": "2020-11-04",
+          "fato": "MP-RJ denuncia Flávio, Queiroz e outros 15 por peculato, corrupção, organização criminosa e lavagem; acusa desvio de R$ 2,7 milhões (outra fonte dá 19/10/2020; data não confirmada em fonte primária).",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://pt.wikipedia.org/wiki/Fl%C3%A1vio_Bolsonaro",
+          "tipo": "documento",
+          "nao_verificado": true
+        },
+        {
+          "data": "2021-02-23",
+          "fato": "STJ, 5ª Turma (4x1): anula a quebra de sigilo bancário e fiscal de Flávio e de outras 94 pessoas por falta de fundamentação ('decisão de duas linhas'); divergência de João Otávio de Noronha, acompanhado por Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik; relator Felix Fischer vencido.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://www.poder360.com.br/justica/stj-anula-quebra-do-sigilo-de-flavio-bolsonaro-sobre-supostas-rachadinhas/",
+          "tipo": "decisao"
+        },
+        {
+          "data": "2022-05-16",
+          "fato": "Órgão Especial do TJ-RJ arquiva a denúncia com base na decisão do STJ.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://www.poder360.com.br/poder-justica/gilmar-nega-pedido-para-reabrir-acao-contra-flavio-por-rachadinha/",
+          "tipo": "decisao"
+        },
+        {
+          "data": "2025-02-26",
+          "fato": "Gilmar Mendes (STF) rejeita dois recursos do MP-RJ; observa que a anulação das provas não impede nova denúncia com elementos distintos.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://www.poder360.com.br/poder-justica/gilmar-nega-pedido-para-reabrir-acao-contra-flavio-por-rachadinha/",
+          "tipo": "decisao"
+        },
+        {
+          "data": "2026",
+          "fato": "Flávio Bolsonaro sobre o caso (literal conforme InfoMoney).",
+          "citacao_literal": "nunca respondi criminalmente por isso",
+          "literal": true,
+          "quem_disse": "Flávio Bolsonaro",
+          "url": "https://www.infomoney.com.br/?p=3282175",
+          "tipo": "declaracao",
+          "fonte_da_citacao": "imprensa"
+        }
+      ],
+      "o_que_a_acusacao_dizia": "MP-RJ: desvio de salários de assessores do gabinete de Flávio na Alerj ('rachadinha'), operado por Queiroz, com lavagem via imóveis e loja; valor de R$ 2,7 milhões.",
+      "o_que_a_defesa_dizia": "Flávio: 'perseguição política'; as quebras de sigilo foram ilegais (STJ) e a denúncia foi arquivada; 'nunca respondi criminalmente por isso'.",
+      "numeros": [
+        {
+          "rotulo": "Movimentação atípica de Queiroz (Coaf)",
+          "valor": 1.24,
+          "unidade": "R$ milhões",
+          "periodo": "2016-2017",
+          "fonte": {
+            "nome": "Wikipédia (pt) — fonte secundária",
+            "url": "https://pt.wikipedia.org/wiki/Fl%C3%A1vio_Bolsonaro",
+            "acesso_em": "2026-10-21",
+            "tier": "imprensa"
+          }
+        },
+        {
+          "rotulo": "Desvio apontado pelo MP-RJ",
+          "valor": 2.7,
+          "unidade": "R$ milhões",
+          "periodo": "2020",
+          "fonte": {
+            "nome": "InfoMoney",
+            "url": "https://www.infomoney.com.br/?p=3282175",
+            "acesso_em": "2026-10-21",
+            "tier": "imprensa"
+          }
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "titulo": "Vaza Jato (09/06/2019): as mensagens entre Moro e os procuradores",
+      "periodo": "2015-10-19 a 2023-08-21",
+      "texto_md": "Em 09/06/2019 o The Intercept Brasil publicou mensagens de Telegram (2015-2018) obtidas de fonte anônima. Nelas, Moro sugere 'inverter a ordem' de duas operações (21/02/2016), repassa dica de 'fonte' sobre a família de Lula (07/12/2015) e recomenda avisar a PGR por 'receio' de reação do STF (19/10/2015). Moro e a força-tarefa não reconheceram a autenticidade, mas não apontaram fraude; o Intercept e outros veículos (Folha, Veja, BuzzFeed) apontaram coincidências com atos processuais. Em 23/07/2019 a PF prendeu quatro suspeitos (Operação Spoofing). A frase 'a PF atestou a autenticidade' é **parcialmente** verdadeira: em dezembro de 2020 Lewandowski citou laudo da PF sobre a integridade do material apreendido, mas em abril de 2021 a própria PF disse que a autenticidade de cada diálogo não podia ser presumida. O hacker Walter Delgatti foi condenado a 20 anos e 1 mês em 21/08/2023. As mensagens foram usadas pela defesa de Lula e pelos votos de Gilmar Mendes e Lewandowski na suspeição de Moro; a condenação de Delgatti pelo meio (invasão) não impediu o uso do conteúdo, admitido pelo STF.",
+      "eventos": [
+        {
+          "data": "2015-10-19",
+          "fato": "Mensagem de Moro aos procuradores, 11:41:24.",
+          "citacao_literal": "Receio alguma reação negativa do STF. Convém talvez vcs avisarem PGR.",
+          "literal": true,
+          "quem_disse": "Sergio Moro (mensagem atribuída)",
+          "url": "https://www.opovo.com.br/noticias/politica/2019/06/13/veja-integra-da-conversa-entre-moro-e-dallagnol-que-embasaram-reportagens-do-the-intercept.html",
+          "tipo": "documento"
+        },
+        {
+          "data": "2015-12-07",
+          "fato": "Mensagem de Moro, 17:42:56, repassando dica de 'fonte' sobre minutas de escrituras para um filho de Lula (literal, truncada na fonte); Moro descreve a fonte como confiável; Dallagnol diz que iriam apurar.",
+          "citacao_literal": "Fonte me informou que a pessoa do contato estaria incomodado por ter sido a ela solicitada",
+          "literal": true,
+          "quem_disse": "Sergio Moro (mensagem atribuída)",
+          "url": "https://www.opovo.com.br/noticias/politica/2019/06/13/veja-integra-da-conversa-entre-moro-e-dallagnol-que-embasaram-reportagens-do-the-intercept.html",
+          "tipo": "documento",
+          "contexto": "truncado na fonte; refere-se a minutas de escrituras de transferência de propriedade para um filho do ex-presidente"
+        },
+        {
+          "data": "2016-02-21",
+          "fato": "Mensagem de Moro, 01:09:56, sugerindo inverter a ordem de duas operações; Dallagnol responde (11:12:04) que o risco era serem atropelados em São Paulo ou Brasília; no dia seguinte foi deflagrada a 23ª fase (Acarajé).",
+          "citacao_literal": "Diante dos últimos desdobramentos talvez fosse o caso de inverter a ordem da duas planejadas",
+          "literal": true,
+          "quem_disse": "Sergio Moro (mensagem atribuída)",
+          "url": "https://www.opovo.com.br/noticias/politica/2019/06/13/veja-integra-da-conversa-entre-moro-e-dallagnol-que-embasaram-reportagens-do-the-intercept.html",
+          "tipo": "documento"
+        },
+        {
+          "data": "2019-06-09",
+          "fato": "The Intercept Brasil publica as mensagens (2015-2018) obtidas de fonte anônima.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://www.infomoney.com.br/?p=56841",
+          "tipo": "fato"
+        },
+        {
+          "data": "2019-06-10",
+          "fato": "Reação de Moro: nega orientação nas mensagens, diz não guardar registros e questiona a autenticidade.",
+          "citacao_literal": "Não tem nenhuma orientação ali naquelas mensagens.",
+          "literal": true,
+          "quem_disse": "Sergio Moro",
+          "url": "https://www.opovo.com.br/noticias/politica/2019/06/10/nao-tem-orientacao-nenhuma-ali---diz-moro-sobre-troca-de-mensagens-com-dallagnol.html",
+          "tipo": "declaracao"
+        },
+        {
+          "data": "2019-06",
+          "fato": "Mensagens atribuídas a Dallagnol mostrariam dúvidas sobre a solidez da denúncia do tríplex (paráfrase).",
+          "citacao_literal": null,
+          "literal": false,
+          "quem_disse": null,
+          "url": "https://www.infomoney.com.br/?p=56841",
+          "tipo": "documento"
+        },
+        {
+          "data": "2019-07-15",
+          "fato": "Intercept sustenta que Moro e procuradores inicialmente não contestaram a autenticidade e só depois passaram a questionar a integridade; Folha, Veja e BuzzFeed confirmam coincidências com atos processuais.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://intercept.com.br/2019/07/15/vazajato-as-provas-de-que-os-chats-sao-autenticos-agora-vem-de-diversos-veiculos-de-comunicacao-sao-definitivas-e-esmagadoras/",
+          "tipo": "documento"
+        },
+        {
+          "data": "2019-07-23",
+          "fato": "Operação Spoofing: PF prende quatro suspeitos de hackear celulares de Moro e Dallagnol.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://www.brasildefato.com.br/2019/07/23/pf-prende-quatro-suspeitos-de-terem-os-hackeado-celulares-de-moro-e-dallagnol",
+          "tipo": "fato"
+        },
+        {
+          "data": null,
+          "fato": "Mensagem 'In Fux we trust', de Moro a Deltan, divulgada posteriormente.",
+          "citacao_literal": "In Fux we trust",
+          "literal": true,
+          "quem_disse": "Sergio Moro (mensagem atribuída)",
+          "url": "https://www.migalhas.com.br/quentes/304332/in-fux-we-trust-disse-moro-a-deltan-em-mensagem",
+          "tipo": "documento"
+        },
+        {
+          "data": "2020-12",
+          "fato": "Lewandowski cita relatório da PF segundo o qual os dados apreendidos foram periciados e tiveram autenticidade comprovada; três decisões judiciais de 2020 citam laudo atestando a integridade; o MPF-PR contesta.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://www.conjur.com.br/?p=401755",
+          "tipo": "decisao"
+        },
+        {
+          "data": "2021-04-13",
+          "fato": "Chefe do Serviço de Inquéritos da PF afirma que não é possível presumir a autenticidade, embora os peritos tenham concluído 'pela existência de características indicativas de acessos diretos a contas do aplicativo Telegram' (literal conforme fonte partidária que reproduz o documento).",
+          "citacao_literal": "pela existência de características indicativas de acessos diretos a contas do aplicativo Telegram",
+          "literal": true,
+          "quem_disse": "Perícia da PF (citada)",
+          "url": "https://www.ocafezinho.com/2021/04/13/pf-agora-diz-que-nao-confirmou-a-autenticidade-de-dialogos-da-vaza-jato/amp/",
+          "tipo": "documento",
+          "fonte_da_citacao": "fonte partidária que reproduz documento"
+        },
+        {
+          "data": "2021-03-23",
+          "fato": "Voto de Gilmar Mendes na suspeição de Moro usa as mensagens.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": "Gilmar Mendes",
+          "url": "https://static.poder360.com.br/2021/03/voto-Gilmar-Mendes-suspeicao-de-Moro.pdf",
+          "tipo": "documento"
+        },
+        {
+          "data": "2023-08-21",
+          "fato": "Walter Delgatti é condenado a 20 anos e 1 mês pelo juiz Ricardo Leite (10ª Vara Federal/DF); a sentença diz que ele pretendia vender as conversas à imprensa por R$ 200 mil; houve perdão judicial em parte das imputações por colaboração.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://www.poder360.com.br/justica/justica-condena-delgatti-a-20-anos-de-prisao-por-vaza-jato/",
+          "tipo": "decisao"
+        },
+        {
+          "data": "2023-08",
+          "fato": "Moro sobre Delgatti.",
+          "citacao_literal": "estelionatário e mentiroso contumaz",
+          "literal": true,
+          "quem_disse": "Sergio Moro",
+          "url": "https://www.folhavitoria.com.br/politica/estelionatario-e-mentiroso-contumaz-diz-moro-sobre-condenacao-de-hacker-da-vaza-jato/",
+          "tipo": "declaracao"
+        }
+      ],
+      "o_que_a_acusacao_dizia": "Defesa de Lula (petição): Moro deu 'comando' para investigação formal a partir de 'fonte', atuando como acusador e não como juiz imparcial.",
+      "o_que_a_defesa_dizia": "Moro e força-tarefa: não há orientação nas mensagens; a autenticidade não foi reconhecida; o material foi obtido por crime (Spoofing/Delgatti).",
+      "numeros": []
+    },
+    {
+      "id": "10",
+      "titulo": "Soltura (08/11/2019): o STF muda a regra da prisão após 2ª instância",
+      "periodo": "2019-11-07 a 2019-11-08",
+      "texto_md": "Em 07/11/2019 o STF decidiu por 6x5 (ADCs 43, 44 e 54, relator Marco Aurélio) que a pena só pode ser executada após o trânsito em julgado (art. 283 do CPP), revertendo o entendimento de 2016. Votaram contra a prisão em 2ª instância Rosa Weber, Marco Aurélio, Lewandowski, Gilmar, Celso de Mello e Toffoli (último a votar, desempatou e disse tratar o tema 'de forma abstrata'). Lula saiu da PF de Curitiba em 08/11/2019 por alvará do juiz Danilo Pereira Júnior (12ª Vara Federal de Curitiba), após 580 dias. **Ponto didático**: Lula saiu com a condenação ainda de pé (confirmada pelo STJ em abril de 2019); a soltura decorreu de uma tese geral sobre quando se pode prender, não de revisão do caso dele. A Aos Fatos classificou como falso que Lula estivesse em 'liberdade provisória'.",
+      "eventos": [
+        {
+          "data": "2019-11-07",
+          "fato": "STF, 6x5, proíbe a execução da pena antes do trânsito em julgado (ADCs 43, 44 e 54; OAB, PCdoB e Patriota); voto de desempate de Toffoli.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://poder360.com.br/justica/stf-proibe-prisao-apos-condenacao-em-2a-instancia-e-beneficia-lula/",
+          "tipo": "decisao"
+        },
+        {
+          "data": "2019-11-08",
+          "fato": "Juiz Danilo Pereira Júnior (12ª Vara Federal de Curitiba) determina a soltura com base nas ADCs; Lula deixa a PF após 580 dias; recursos pendentes no STJ/STF impediam o trânsito em julgado.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://www.gazetadopovo.com.br/republica/lula-solto-alvara-justica-ex-presidente-lava-jato/",
+          "tipo": "decisao"
+        },
+        {
+          "data": "2019-11",
+          "fato": "Checagem Aos Fatos: é falso que Lula estivesse em 'liberdade provisória'.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://www.aosfatos.org/noticias/falso-lula-liberdade-provisoria/",
+          "tipo": "documento"
+        }
+      ],
+      "o_que_a_acusacao_dizia": null,
+      "o_que_a_defesa_dizia": null,
+      "numeros": [
+        {
+          "rotulo": "Placar das ADCs 43/44/54",
+          "valor": 6,
+          "unidade": "votos x 5",
+          "periodo": "2019-11-07",
+          "fonte": {
+            "nome": "Poder360",
+            "url": "https://poder360.com.br/justica/stf-proibe-prisao-apos-condenacao-em-2a-instancia-e-beneficia-lula/",
+            "acesso_em": "2026-10-21",
+            "tier": "imprensa"
+          }
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "titulo": "Anulação (2021): incompetência da Vara de Curitiba (8x3) e suspeição de Moro (3x2 e 7x4)",
+      "periodo": "2021-03-08 a 2021-07",
+      "texto_md": "Em 08/03/2021, em decisão monocrática no HC 193726, Fachin declarou a incompetência da 13ª Vara Federal de Curitiba e anulou as quatro ações contra Lula (tríplex, Atibaia e duas do Instituto Lula), remetendo-as à Justiça Federal do DF. O Plenário confirmou por 8x3 em 15/04/2021 (com Fachin: Moraes, Rosa Weber, Toffoli, Gilmar, Lewandowski, Cármen Lúcia e Barroso; contra: Nunes Marques, Marco Aurélio e Fux; Moraes concordou com a incompetência mas defendia envio a São Paulo; Nunes Marques votou por manter as condenações). Em paralelo, a 2ª Turma declarou Moro suspeito no HC 164493 (iniciado em 04/12/2018, suspenso por vista de Gilmar) por 3x2 em 23/03/2021, e o Plenário manteve por 7x4 em 23/06/2021 (Gilmar, Nunes Marques, Moraes, Toffoli, Lewandowski, Rosa Weber, Cármen Lúcia; vencidos Fachin, Barroso, Marco Aurélio e Fux, para quem a Turma não podia julgar após Fachin ter declarado o HC prejudicado). Efeito: anulação de todos os atos de Moro no tríplex, inclusive da fase pré-processual. Em 24/06/2021 Gilmar estendeu a suspeição a Atibaia e ao Instituto Lula; a PGR recorreu em julho. **Em linguagem simples**: nenhuma dessas decisões disse que Lula era inocente ou culpado; disseram que o processo correu no lugar errado e com um juiz que não podia julgá-lo.",
+      "eventos": [
+        {
+          "data": "2021-03-08",
+          "fato": "Fachin (HC 193726) declara a incompetência da 13ª Vara Federal de Curitiba e anula as condenações do tríplex e de Atibaia e as duas ações do Instituto Lula, remetendo-as à Justiça Federal do DF; declara prejudicado o HC da suspeição.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://www.em.com.br/app/noticia/internacional/2021/03/08/interna_internacional,1244514/ministro-edson-fachin-do-stf-anula-todas-as-condenacoes-de-lula-na-lava.shtml",
+          "tipo": "decisao"
+        },
+        {
+          "data": "2021-03-23",
+          "fato": "2ª Turma do STF declara Moro parcial no HC 164493 por 3x2.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://noticias.stf.jus.br/postsnoticias/stf-confirma-suspeicao-de-sergio-moro-na-acao-do-triplex-do-guaruja/",
+          "tipo": "decisao"
+        },
+        {
+          "data": "2021-04-15",
+          "fato": "Plenário referenda a incompetência por 8x3 (Fachin, Moraes, Rosa Weber, Toffoli, Gilmar, Lewandowski, Cármen Lúcia, Barroso x Nunes Marques, Marco Aurélio, Fux).",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://www.poder360.com.br/justica/stf-confirma-anulacao-das-decisoes-da-justica-de-curitiba/",
+          "tipo": "decisao"
+        },
+        {
+          "data": "2021-04",
+          "fato": "Instituto Lula: a anulação 'não tem o condão de reparar os danos irremediáveis' (literal conforme imprensa).",
+          "citacao_literal": "não tem o condão de reparar os danos irremediáveis",
+          "literal": true,
+          "quem_disse": "Instituto Lula",
+          "url": "https://www.cut.org.br/noticias/instituto-lula-anulacao-dos-processos-chega-apos-danos-irreparaveis-9d81/",
+          "tipo": "declaracao",
+          "fonte_da_citacao": "imprensa"
+        },
+        {
+          "data": "2021-06-23",
+          "fato": "Plenário mantém a suspeição de Moro por 7x4; efeito: anulação de todos os atos de Moro no tríplex, inclusive da fase pré-processual.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://noticias.stf.jus.br/postsnoticias/stf-confirma-suspeicao-de-sergio-moro-na-acao-do-triplex-do-guaruja/",
+          "tipo": "decisao"
+        },
+        {
+          "data": "2021-06-24",
+          "fato": "Gilmar Mendes estende a suspeição de Moro aos casos de Atibaia e do imóvel do Instituto Lula.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://www.moneytimes.com.br/gilmar-mendes-estende-suspeicao-de-moro-a-outros-processos-contra-lula",
+          "tipo": "decisao"
+        },
+        {
+          "data": "2021-07",
+          "fato": "PGR recorre da decisão que estendeu a suspeição.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://observador.pt/2021/07/03/pgr-do-brasil-recorre-de-decisao-que-declarou-moro-suspeito-em-mais-dois-processos-de-lula/",
+          "tipo": "fato"
+        }
+      ],
+      "o_que_a_acusacao_dizia": "PGR e votos vencidos (Nunes Marques, Marco Aurélio, Fux): a competência de Curitiba era válida e/ou a Turma não podia julgar a suspeição depois que o HC foi declarado prejudicado.",
+      "o_que_a_defesa_dizia": "Defesa de Lula: os fatos não tinham ligação com a Petrobras (incompetência) e Moro atuou como acusador (parcialidade), como mostrariam as mensagens da Vaza Jato.",
+      "numeros": [
+        {
+          "rotulo": "Placar da incompetência (Plenário)",
+          "valor": 8,
+          "unidade": "votos x 3",
+          "periodo": "2021-04-15",
+          "fonte": {
+            "nome": "Poder360",
+            "url": "https://www.poder360.com.br/justica/stf-confirma-anulacao-das-decisoes-da-justica-de-curitiba/",
+            "acesso_em": "2026-10-21",
+            "tier": "imprensa"
+          }
+        },
+        {
+          "rotulo": "Placar da suspeição (2ª Turma)",
+          "valor": 3,
+          "unidade": "votos x 2",
+          "periodo": "2021-03-23",
+          "fonte": {
+            "nome": "STF Notícias",
+            "url": "https://noticias.stf.jus.br/postsnoticias/stf-confirma-suspeicao-de-sergio-moro-na-acao-do-triplex-do-guaruja/",
+            "acesso_em": "2026-10-21",
+            "tier": "oficial"
+          }
+        },
+        {
+          "rotulo": "Placar da suspeição (Plenário)",
+          "valor": 7,
+          "unidade": "votos x 4",
+          "periodo": "2021-06-23",
+          "fonte": {
+            "nome": "STF Notícias",
+            "url": "https://noticias.stf.jus.br/postsnoticias/stf-confirma-suspeicao-de-sergio-moro-na-acao-do-triplex-do-guaruja/",
+            "acesso_em": "2026-10-21",
+            "tier": "oficial"
+          }
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "titulo": "Prescrição em Brasília (2021-2022), absolvições de mérito em outros casos e o parecer da ONU (2022)",
+      "periodo": "2021-08-21 a 2022-04-28",
+      "texto_md": "Remetidos a Brasília, os casos não foram julgados de novo. Em Atibaia, a juíza Pollyana Kelly Maciel (12ª Vara Federal Criminal/DF) rejeitou a ratificação da denúncia em 21/08/2021 por falta de justa causa e, em 28/09/2021, declarou a prescrição: 'uma vez anulados todos os atos [...] foram tornados sem efeito todos os marcos interruptivos da prescrição', extinguindo a punibilidade dos acusados com mais de 70 anos (Lula e Léo Pinheiro). No tríplex, o MPF pediu arquivamento por prescrição em dezembro de 2021 e a mesma juíza declarou extinta a punibilidade em 27/01/2022. **Prescrição não é absolvição**: o Estado perdeu o prazo para punir sem dizer se houve crime. Em outros casos houve absolvição de mérito: Zelotes (juiz Frederico Botelho de Barros Viana, por falta de prova), 'Quadrilhão do PT' (juiz Marcus Vinicius Reis Bastos rejeitou a denúncia) e obstrução/Cerveró (2018). Em 27-28/04/2022 o Comitê de Direitos Humanos da ONU concluiu que Moro não foi imparcial e que o Brasil violou os artigos 9, 14, 17 e 25 do Pacto de Direitos Civis e Políticos, dando 180 dias para reparação; o Comitê não julga crimes, e Moro respondeu que o parecer 'não inocenta' Lula.",
+      "eventos": [
+        {
+          "data": "2021-08-21",
+          "fato": "Atibaia: juíza Pollyana Kelly Maciel rejeita a ratificação da denúncia por falta de justa causa.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://jovempan.com.br/politica/justica-do-federal-do-df-rejeita-denuncia-contra-lula-no-caso-do-sitio-de-atibaia/",
+          "tipo": "decisao"
+        },
+        {
+          "data": "2021-09-28",
+          "fato": "Atibaia: a juíza rejeita de novo e declara a prescrição para os acusados com mais de 70 anos (Lula, Léo Pinheiro) (literal conforme imprensa).",
+          "citacao_literal": "uma vez anulados todos os atos [...] foram tornados sem efeito todos os marcos interruptivos da prescrição",
+          "literal": true,
+          "quem_disse": "Juíza Pollyana Kelly Maciel",
+          "url": "https://www.conjur.com.br/?p=425040",
+          "tipo": "decisao",
+          "fonte_da_citacao": "imprensa"
+        },
+        {
+          "data": "2021-12",
+          "fato": "Tríplex: MPF pede arquivamento por prescrição.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://www.correiobraziliense.com.br/politica/2021/12/amp/4968840-mpf-pede-arquivamento-do-caso-triplex-envolvendo-ex-presidente-lula.html",
+          "tipo": "documento"
+        },
+        {
+          "data": "2022-01-27",
+          "fato": "Tríplex: a juíza declara extinta a punibilidade por prescrição (decisão divulgada em 28/01).",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://istoedinheiro.com.br/juiza-arquiva-acao-contra-lula-no-caso-do-triplex",
+          "tipo": "decisao"
+        },
+        {
+          "data": "2019-02",
+          "fato": "Condenação anterior em Atibaia (anulada em 2021): 12 anos e 11 meses, ampliada pelo TRF-4.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://www.cut.org.br/noticias/justica-do-df-volta-a-rejeitar-denuncia-contra-lula-no-caso-do-sitio-de-atibaia-6cfb",
+          "tipo": "decisao"
+        },
+        {
+          "data": null,
+          "fato": "Zelotes: Lula absolvido pelo juiz Frederico Botelho de Barros Viana (10ª Vara Federal/DF) por falta de prova.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://www.dci.com.br/politica/eleicoes-2022/lula-foi-absolvido-entenda-os-processos-contra-o-ex-presidente/",
+          "tipo": "decisao"
+        },
+        {
+          "data": null,
+          "fato": "'Quadrilhão do PT': juiz Marcus Vinicius Reis Bastos (12ª Vara Federal/DF) rejeita a denúncia por ausência de elementos de organização criminosa.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://crusoe.com.br/?p=141656",
+          "tipo": "decisao"
+        },
+        {
+          "data": "2022-09-02",
+          "fato": "Aos Fatos lista 3 absolvições de mérito (obstrução/Cerveró 2018; Quadrilhão 2019; Zelotes), 4 anulações (tríplex, Atibaia, Instituto Lula x2), prescrições (tríplex) e arquivamentos.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://www.aosfatos.org/noticias/o-que-e-falso-e-o-que-e-fato-em-declaracoes-de-lula-sobre-absolvicoes-na-onu-e-na-justica/",
+          "tipo": "documento"
+        },
+        {
+          "data": "2022-04-28",
+          "fato": "Comitê de Direitos Humanos da ONU: Moro não foi imparcial; Lula teve direitos políticos violados em 2018; violações aos arts. 9, 14, 17 e 25 do PIDCP; Brasil deve informar em 180 dias as medidas de reparação; a relatora considera que as anulações de 2021 não foram reparação oportuna e efetiva (divulgação 27-28/04/2022).",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://www.poder360.com.br/justica/leia-integra-das-conclusoes-da-onu-sobre-moro-e-lula/",
+          "tipo": "documento"
+        },
+        {
+          "data": "2022",
+          "fato": "Moro: o Comitê 'não inocenta' Lula e não nega a corrupção na Petrobras (paráfrase).",
+          "citacao_literal": null,
+          "literal": false,
+          "quem_disse": "Sergio Moro",
+          "url": "https://revistaoeste.com/politica/moro-rebate-comite-da-onu-sobre-condenacao-de-lula-nao-inocenta/",
+          "tipo": "declaracao"
+        }
+      ],
+      "o_que_a_acusacao_dizia": "Defensores da Lava Jato (Gazeta do Povo, editorial): a prescrição impediu que a prova do tríplex fosse examinada; nenhuma decisão examinou a prova para absolver Lula.",
+      "o_que_a_defesa_dizia": "Defesa e ONU: o julgamento foi parcial e as violações aos direitos de Lula exigem reparação; a presunção de inocência prevalece.",
+      "numeros": []
+    },
+    {
+      "id": "13",
+      "titulo": "Eleição de 2022 e a disputa 'inocentado' x 'descondenado'",
+      "periodo": "2022-08-28 a 2022-10-30",
+      "texto_md": "Elegível novamente, Lula venceu Jair Bolsonaro em 30/10/2022 com 60.345.999 votos (50,90% dos válidos) contra 58.206.354 (49,10%). No debate da Band (28/08/2022) disse 'fui absolvido na ONU' (falso, segundo a Aos Fatos: o Comitê não julga crimes) e 'fui absolvido em todos os 26 processos' ('não é bem assim'). Juristas ouvidos pela Aos Fatos divergem: Gustavo Badaró e Fernando Castelo Branco dizem que anulação não é absolvição; Davi Tangerino e Antonio Carlos de Freitas Jr. aceitam 'absolvido' na linguagem comum; Marcio Barandier observa que 'absolvição' implica mérito, mas a inocência jurídica vale de todo modo. O TSE negou direito de resposta sobre o termo, considerando controversa a discussão 'inocente x inocentado'. Síntese: 'inocente' (presunção constitucional) é correto; 'inocentado' é disputado; 'descondenado' é rótulo político, não jurídico.",
+      "eventos": [
+        {
+          "data": "2022-08-28",
+          "fato": "Debate da Band: Lula diz 'fui absolvido na ONU' (falso, Aos Fatos) e 'fui absolvido em todos os 26 processos' ('não é bem assim', Aos Fatos).",
+          "citacao_literal": "fui absolvido em todos os 26 processos",
+          "literal": true,
+          "quem_disse": "Lula",
+          "url": "https://www.aosfatos.org/noticias/o-que-e-falso-e-o-que-e-fato-em-declaracoes-de-lula-sobre-absolvicoes-na-onu-e-na-justica/",
+          "tipo": "declaracao"
+        },
+        {
+          "data": "2022",
+          "fato": "TSE nega direito de resposta sobre o termo, considerando controversa a discussão 'inocente x inocentado'.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://www.conjur.com.br/?p=351062",
+          "tipo": "decisao"
+        },
+        {
+          "data": "2022-10-30",
+          "fato": "2º turno: Lula 60.345.999 votos (50,90%) x Bolsonaro 58.206.354 (49,10%).",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://www.tse.jus.br/comunicacao/noticias/2022/Outubro/100-das-secoes-totalizadas-confira-como-ficou-o-quadro-eleitoral-apos-o-2o-turno",
+          "tipo": "fato"
+        }
+      ],
+      "o_que_a_acusacao_dizia": null,
+      "o_que_a_defesa_dizia": null,
+      "numeros": [
+        {
+          "rotulo": "Votos de Lula no 2º turno de 2022",
+          "valor": 60345999,
+          "unidade": "votos",
+          "periodo": "2022-10-30",
+          "fonte": {
+            "nome": "TSE",
+            "url": "https://www.tse.jus.br/comunicacao/noticias/2022/Outubro/100-das-secoes-totalizadas-confira-como-ficou-o-quadro-eleitoral-apos-o-2o-turno",
+            "acesso_em": "2026-10-21",
+            "tier": "oficial"
+          },
+          "percentual": 50.9
+        },
+        {
+          "rotulo": "Votos de Bolsonaro no 2º turno de 2022",
+          "valor": 58206354,
+          "unidade": "votos",
+          "periodo": "2022-10-30",
+          "fonte": {
+            "nome": "TSE",
+            "url": "https://www.tse.jus.br/comunicacao/noticias/2022/Outubro/100-das-secoes-totalizadas-confira-como-ficou-o-quadro-eleitoral-apos-o-2o-turno",
+            "acesso_em": "2026-10-21",
+            "tier": "oficial"
+          },
+          "percentual": 49.1
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "titulo": "Toffoli (06/09/2023): a leniência da Odebrecht e a frase 'uma armação'",
+      "periodo": "2023-09-06",
+      "texto_md": "Em 06/09/2023, em reclamação de Lula iniciada em 2020 com Lewandowski (aposentado em 11/04/2023), Toffoli anulou as provas do acordo de leniência da Odebrecht e escreveu que a prisão de Lula 'até poder-se-ia chamar' de 'um dos maiores erros judiciários da história do país', mas foi 'muito pior': 'Tratou-se de uma armação'. **A frase 'maior erro judiciário da história' é imprecisa**: o texto diz 'um dos maiores' e em seguida afirma que foi 'muito pior'. É uma decisão monocrática em reclamação, com forte carga opinativa; não é julgamento de mérito sobre Lula. Efeitos: provas da leniência imprestáveis em ações criminais, eleitorais, cíveis e de improbidade; PF deve entregar à defesa as mensagens da Spoofing. A AGU anunciou força-tarefa para apurar condutas; o Estadão criticou em editorial o 'festim da impunidade'; o TCU anunciou reavaliar decisões; a Transparência Internacional afirmou, sobre anulações em série por Toffoli, que isso 'abala, gravemente, a confiança da sociedade no STF'. O número da reclamação (imprensa fala em Rcl 43.007) não foi verificado.",
+      "eventos": [
+        {
+          "data": "2023-09-06",
+          "fato": "Toffoli anula as provas da leniência da Odebrecht e escreve sobre a prisão de Lula.",
+          "citacao_literal": "um dos maiores erros judiciários da história do país",
+          "literal": true,
+          "quem_disse": "Dias Toffoli (despacho)",
+          "url": "https://www.poder360.com.br/justica/prisao-de-lula-foi-armacao-diz-toffoli-ao-anular-acordo-da-odebrecht/",
+          "tipo": "decisao",
+          "contexto": "o texto diz que a prisão 'até poder-se-ia chamar' assim, mas foi 'muito pior'"
+        },
+        {
+          "data": "2023-09-06",
+          "fato": "Trecho do despacho de Toffoli.",
+          "citacao_literal": "Tratou-se de uma armação",
+          "literal": true,
+          "quem_disse": "Dias Toffoli (despacho)",
+          "url": "https://www.poder360.com.br/justica/prisao-de-lula-foi-armacao-diz-toffoli-ao-anular-acordo-da-odebrecht/",
+          "tipo": "decisao"
+        },
+        {
+          "data": "2023-09-06",
+          "fato": "Trecho do despacho de Toffoli sobre o 'projeto de poder'.",
+          "citacao_literal": "fruto de um projeto de poder de determinados agentes públicos em seu objetivo de conquista do Estado por meios aparentemente legais, mas com métodos e ações contra legem",
+          "literal": true,
+          "quem_disse": "Dias Toffoli (despacho)",
+          "url": "https://www.poder360.com.br/justica/prisao-de-lula-foi-armacao-diz-toffoli-ao-anular-acordo-da-odebrecht/",
+          "tipo": "decisao"
+        },
+        {
+          "data": "2023-09-06",
+          "fato": "Trecho do despacho de Toffoli sobre as colaborações.",
+          "citacao_literal": "uma verdadeira tortura psicológica, UM PAU DE ARARA DO SÉCULO XXI, para obter 'provas' contra inocentes",
+          "literal": true,
+          "quem_disse": "Dias Toffoli (despacho)",
+          "url": "https://www.poder360.com.br/justica/prisao-de-lula-foi-armacao-diz-toffoli-ao-anular-acordo-da-odebrecht/",
+          "tipo": "decisao",
+          "contexto": "também literal: 'com o intuito de levar um líder político às grades'"
+        },
+        {
+          "data": "2023-09-06",
+          "fato": "Efeitos: provas da leniência da Odebrecht (Novonor) imprestáveis em ações criminais, eleitorais, cíveis e de improbidade; PF deve entregar à defesa as mensagens da Spoofing em 10 dias; PGR, AGU, CNJ, CNMP e Receita notificados.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://www.opovo.com.br/noticias/brasil/2023/09/06/amp/toffoli-invalida-provas-obtidas-no-acordo-de-leniencia-da-odebrecht.html",
+          "tipo": "decisao"
+        },
+        {
+          "data": "2023-09",
+          "fato": "AGU (Jorge Messias) anuncia força-tarefa para apurar condutas e buscar ressarcimento.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://www.poder360.com.br/justica/prisao-de-lula-foi-armacao-diz-toffoli-ao-anular-acordo-da-odebrecht/",
+          "tipo": "fato"
+        },
+        {
+          "data": "2023-09",
+          "fato": "Editorial do Estadão critica 'festim da impunidade'; TCU anuncia reavaliar decisões sobre a Odebrecht.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://www.revistaoeste.com/imprensa/estadao-critica-festim-da-impunidade-patrocinado-por-toffoli/",
+          "tipo": "declaracao"
+        },
+        {
+          "data": null,
+          "fato": "Transparência Internacional, sobre anulações em série por Toffoli (caso Palocci): a anulação de centenas de condenações por macrocorrupção 'abala, gravemente, a confiança da sociedade no STF' (literal conforme Gazeta do Povo).",
+          "citacao_literal": "abala, gravemente, a confiança da sociedade no STF",
+          "literal": true,
+          "quem_disse": "Transparência Internacional",
+          "url": "https://www.gazetadopovo.com.br/opiniao/editoriais/toffoli-livra-palocci-lava-jato/",
+          "tipo": "declaracao",
+          "fonte_da_citacao": "imprensa"
+        }
+      ],
+      "o_que_a_acusacao_dizia": "Críticos da decisão (Estadão, Transparência Internacional): anulações em série promovem impunidade e abalam a confiança no STF.",
+      "o_que_a_defesa_dizia": "Toffoli e defesa de Lula: as provas da leniência foram obtidas com métodos ilegais e a prisão foi 'uma armação'.",
+      "numeros": []
+    },
+    {
+      "id": "15",
+      "titulo": "Dallagnol e Moro depois: indenização, cassação, absolvição no TSE e as eleições de 2026",
+      "periodo": "2020-08 a 2026-10-21",
+      "texto_md": "**Dallagnol**: condenado pelo STJ (4ª Turma, 4x1) a indenizar Lula em R$ 75 mil pelo PowerPoint (Lula pedira R$ 1 milhão); em agosto de 2022 o STJ manteve por unanimidade; Cármen Lúcia (STF) rejeitou recurso; em julho de 2025, após o trânsito em julgado, o TJSP mandou pagar R$ 135.416,88 (com correção, juros e honorários). Eleito deputado em 2022, foi cassado por unanimidade pelo TSE em 16/05/2023 por fraude à Lei da Ficha Limpa (pediu exoneração do MPF em 03/11/2021 já punido pelo CNMP e com 15 procedimentos desfavoráveis em curso), inelegível até 03/11/2029. Em 2026 obteve 2.904.594 votos (25,14%) para o Senado pelo Paraná com registro sub judice: o relator cassou o registro em 03/10/2026, o presidente Nunes Marques o restabeleceu em 04/10 e o julgamento do plenário foi retirado de pauta sem nova data. **Moro**: eleito senador em 2022, absolvido por unanimidade pelo TSE em 21/05/2024 (ações do PT e do PL) e eleito governador do Paraná no 1º turno em 04/10/2026 (PL, 50,10%, 3.127.911 votos), com posse em 06/01/2027. Não foi encontrada condenação de Moro a indenizar Lula.",
+      "eventos": [
+        {
+          "data": null,
+          "fato": "STJ, 4ª Turma (4x1): Dallagnol abusou de expressões desabonadoras da honra de Lula; indenização de R$ 75 mil (Lula pedira R$ 1 milhão).",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://www.conjur.com.br/?p=334651",
+          "tipo": "decisao"
+        },
+        {
+          "data": "2022-08",
+          "fato": "STJ mantém por unanimidade, em plenário virtual, a condenação, rejeitando recursos de Dallagnol e de Lula.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://www.agazeta.com.br/brasil/stj-mantem-decisao-que-condenou-deltan-a-indenizar-lula-por-powerpoint-0822",
+          "tipo": "decisao"
+        },
+        {
+          "data": null,
+          "fato": "Cármen Lúcia (STF) rejeita recurso de Dallagnol e mantém os R$ 75 mil.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://www.folhavitoria.com.br/politica/carmen-lucia-mantem-decisao-que-condenou-deltan-dallagnol-a-indenizar-lula-por-powerpoint/",
+          "tipo": "decisao"
+        },
+        {
+          "data": "2025-07-29",
+          "fato": "Após o trânsito em julgado, o TJSP manda Dallagnol pagar R$ 135.416,88 (R$ 75 mil + correção, juros e honorários) em 15 dias.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://www.band.com.br/noticias/justica-manda-deltan-pagar-r-135-mil-a-lula-por-caso-do-powerpoint-202507291027",
+          "tipo": "decisao"
+        },
+        {
+          "data": "2023-05-16",
+          "fato": "TSE cassa por unanimidade o mandato de deputado federal de Dallagnol (relator Benedito Gonçalves): fraude à Lei da Ficha Limpa; inelegibilidade de 8 anos (03/11/2021 a 03/11/2029); votos computados para a legenda.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://www.tse.jus.br/comunicacao/noticias/2023/Maio/por-unanimidade-tse-cassa-registro-do-deputado-federal-deltan-dallagnol-pode",
+          "tipo": "decisao"
+        },
+        {
+          "data": "2024-05-21",
+          "fato": "TSE absolve Moro por unanimidade nas ações do PT e do PL por abuso de poder econômico em 2022 (relator Floriano de Azevedo Marques); TRE-PR já havia rejeitado a cassação em abril de 2024 (5x2).",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://jovempan.com.br/politica/tse-absolve-moro-em-decisao-unanime-e-mantem-mandato-do-senador/",
+          "tipo": "decisao"
+        },
+        {
+          "data": "2026-09-21",
+          "fato": "TRE-PR defere o registro de Dallagnol ao Senado (4x3); o Ministério Público Eleitoral opina pela elegibilidade.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://www.brasildefato.com.br/2026/09/21/deltan-dallagnol-ainda-e-candidato-entenda-decisao-do-tse/",
+          "tipo": "decisao"
+        },
+        {
+          "data": "2026-10-03",
+          "fato": "Véspera do 1º turno: relator Floriano de Azevedo Marques (TSE) cassa o registro de Dallagnol e manda anular os votos.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://www.brasildefato.com.br/2026/10/03/tse-suspende-candidatura-e-deltan-dallagnol-fica-inelegivel/",
+          "tipo": "decisao"
+        },
+        {
+          "data": "2026-10-04",
+          "fato": "Manhã do 1º turno: presidente do TSE, Kassio Nunes Marques, em mandado de segurança, restabelece o registro até decisão do plenário.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://www.gazetadopovo.com.br/eleicoes/2026/parana-2026/como-fica-situacao-eleitoral-deltan-dallagnol-cargo-de-senador/",
+          "tipo": "decisao"
+        },
+        {
+          "data": "2026-10-04",
+          "fato": "Moro (PL) é eleito governador do Paraná no 1º turno com 3.127.911 votos (50,10%); Sandro Alex (PSD) 25,37%, Requião Filho (PDT) 23,47%; posse em 06/01/2027.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/sergio-moro-pl-e-eleito-governador-do-parana-no-1o-turno",
+          "tipo": "fato"
+        },
+        {
+          "data": "2026-10-04",
+          "fato": "Senado pelo Paraná: Filipe Barros (PL) 27,25% e Dallagnol (Novo) 25,14% (2.904.594 votos) ficam com as duas vagas.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://www.band.com.br/politica/eleicoes/veja-o-resultado-completo-das-eleicoes-2026-no-parana",
+          "tipo": "fato"
+        },
+        {
+          "data": "2026-10-08",
+          "fato": "Julgamento do recurso de Dallagnol no plenário do TSE, previsto para 08/10, é retirado de pauta sem nova data; se o registro cair, não haverá diplomação e haverá eleição suplementar.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://www.gazetadopovo.com.br/eleicoes/2026/parana-2026/julgamento-adia-tse-deltan-dallagnol-senado/",
+          "tipo": "fato"
+        }
+      ],
+      "o_que_a_acusacao_dizia": null,
+      "o_que_a_defesa_dizia": null,
+      "numeros": [
+        {
+          "rotulo": "Indenização fixada pelo STJ",
+          "valor": 75000,
+          "unidade": "R$",
+          "periodo": null,
+          "fonte": {
+            "nome": "ConJur",
+            "url": "https://www.conjur.com.br/?p=334651",
+            "acesso_em": "2026-10-21",
+            "tier": "imprensa"
+          }
+        },
+        {
+          "rotulo": "Valor atualizado cobrado pelo TJSP",
+          "valor": 135416.88,
+          "unidade": "R$",
+          "periodo": "2025-07",
+          "fonte": {
+            "nome": "Band",
+            "url": "https://www.band.com.br/noticias/justica-manda-deltan-pagar-r-135-mil-a-lula-por-caso-do-powerpoint-202507291027",
+            "acesso_em": "2026-10-21",
+            "tier": "imprensa"
+          }
+        },
+        {
+          "rotulo": "Votos de Moro para governador (1º turno)",
+          "valor": 3127911,
+          "unidade": "votos",
+          "periodo": "2026-10-04",
+          "fonte": {
+            "nome": "TSE",
+            "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/sergio-moro-pl-e-eleito-governador-do-parana-no-1o-turno",
+            "acesso_em": "2026-10-21",
+            "tier": "oficial"
+          },
+          "percentual": 50.1
+        },
+        {
+          "rotulo": "Votos de Dallagnol para o Senado",
+          "valor": 2904594,
+          "unidade": "votos",
+          "periodo": "2026-10-04",
+          "fonte": {
+            "nome": "Band",
+            "url": "https://www.band.com.br/politica/eleicoes/veja-o-resultado-completo-das-eleicoes-2026-no-parana",
+            "acesso_em": "2026-10-21",
+            "tier": "imprensa"
+          },
+          "percentual": 25.14
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "titulo": "2026: o tema volta à campanha presidencial",
+      "periodo": "2026-07 a 2026-10-21",
+      "texto_md": "No 1º turno de 04/10/2026 Flávio Bolsonaro teve 47,03% (56,1 milhões) e Lula 45,16% (53,8 milhões), a menor margem desde a redemocratização; o 2º turno é em 25/10/2026. No debate da Band (18/10/2026) Flávio disse que Lula foi 'condenado em todas as instâncias' e 'descondenado'; a Lupa classificou como falso. Flávio perguntou sobre o voto de presidiários (73% para Lula, sem fonte) e Lula respondeu que quer todos os votos, 'até do seu pai' (paráfrase). A campanha de Lula pediu checagem em tempo real no debate da Globo (23/10). Em julho de 2026 a PGR pediu que inquérito contra Flávio por calúnia contra Lula voltasse à PF (detalhe do inquérito não localizado).",
+      "eventos": [
+        {
+          "data": "2026-07",
+          "fato": "PGR pede que inquérito contra Flávio Bolsonaro por calúnia contra Lula volte à PF.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://www.dgabc.com.br/Noticia/4333579/pgr-pede-que-inquerito-contra-flavio-bolsonaro-por-calunia-contra-lula-volte-a-pf",
+          "tipo": "fato"
+        },
+        {
+          "data": "2026-10-04",
+          "fato": "1º turno: Flávio Bolsonaro 47,03% x Lula 45,16%; Augusto Cury 2,89%; brancos 1,84%, nulos 2,93%.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://www12.senado.leg.br/noticias/materias/2026/10/04/flavio-bolsonaro-e-lula-disputam-o-segundo-turno-das-eleicoes-para-presidente",
+          "tipo": "fato"
+        },
+        {
+          "data": "2026-10-18",
+          "fato": "Debate da Band: Flávio afirma que Lula foi condenado 'em todas as instâncias' e 'descondenado'; Lupa: falso.",
+          "citacao_literal": "Você foi condenado no STJ, você foi condenado no STF, você foi condenado em todas as instâncias, Lula",
+          "literal": true,
+          "quem_disse": "Flávio Bolsonaro",
+          "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+          "tipo": "declaracao"
+        },
+        {
+          "data": "2026-10-18",
+          "fato": "Flávio pergunta sobre o voto de presidiários (73% para Lula, sem fonte); Lula responde que quer todos os votos, 'até do seu pai' (paráfrase).",
+          "citacao_literal": null,
+          "literal": false,
+          "quem_disse": "Flávio Bolsonaro e Lula",
+          "url": "https://www.cnnbrasil.com.br/eleicoes/flavio-pergunta-sobre-voto-de-presidiarios-lula-responde-ate-do-seu-pai/",
+          "tipo": "declaracao"
+        },
+        {
+          "data": "2026-10-20",
+          "fato": "Campanha de Lula pede checagem de fatos em tempo real no debate da Globo (23/10/2026).",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://www.otempo.com.br/eleicoes/2026/presidentes/2026/10/20/campanha-de-lula-pede-checagem-de-fatos-em-tempo-real-em-debate-da-globo-com-flavio-bolsonaro",
+          "tipo": "fato"
+        }
+      ],
+      "o_que_a_acusacao_dizia": null,
+      "o_que_a_defesa_dizia": null,
+      "numeros": []
+    },
+    {
+      "id": "17",
+      "titulo": "O paralelo com a condenação de Bolsonaro (2025): anulação x trânsito em julgado",
+      "periodo": "2025-09-11 a 2026-07-03",
+      "texto_md": "Em 11/09/2025 a 1ª Turma do STF condenou Jair Bolsonaro por 4x1 (Fux pela absolvição) a 27 anos e 3 meses em regime inicial fechado por organização criminosa armada, golpe de Estado, tentativa de abolição violenta do Estado democrático de direito, dano qualificado e deterioração de patrimônio tombado. Em 07/11/2025 a Turma rejeitou embargos (4x0); em 22/11/2025 ele foi preso preventivamente (tentativa de romper a tornozeleira e risco de fuga), prisão que, segundo a Aos Fatos, 'ainda não diz respeito ao cumprimento da pena'; em 24/11 venceu o prazo sem novo recurso e em 25/11/2025 Moraes declarou o **trânsito em julgado**, referendado pela Turma na mesma noite (4x0). Transferido à 'Papudinha' em 15/01/2026, está em prisão domiciliar humanitária desde 24-27/03/2026, prorrogada por prazo indeterminado em 03/07/2026. A PGR pediu em junho de 2026 a rejeição da Revisão Criminal 6.021, único caminho remanescente.\n\n**A diferença jurídica, em linguagem simples**:\n- **Lula**: condenado em 1ª, 2ª e 3ª instância (nunca pelo STF); preso 580 dias por execução provisória (tese de 2016); solto quando a tese mudou (2019); condenações anuladas por incompetência e suspeição (2021), isto é, por defeitos no *processo*, sem exame do mérito; casos prescritos (2021-2022). Nunca houve trânsito em julgado: ele é juridicamente inocente por presunção constitucional, mas não houve absolvição de mérito no tríplex/Atibaia.\n- **Bolsonaro**: condenado pela 1ª Turma do STF em instância única (foro no STF); recursos esgotados; trânsito em julgado em 25/11/2025; pena em execução (fechado, depois domiciliar humanitária). A condenação é definitiva; só uma revisão criminal poderia alterá-la.\n\nAmbos foram presos ('presidiários' no sentido factual); só a condenação de Bolsonaro é juridicamente definitiva. Anulação não é absolvição; trânsito em julgado não é prisão preventiva.",
+      "eventos": [
+        {
+          "data": "2025-09-11",
+          "fato": "1ª Turma do STF condena Bolsonaro a 27 anos e 3 meses (4x1; voto decisivo de Zanin; Fux pela absolvição) por organização criminosa armada, golpe de Estado, tentativa de abolição violenta do Estado Democrático de Direito, dano qualificado e deterioração de patrimônio tombado; 124 dias-multa; regime inicial fechado.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://bpmoney.com.br/politica/stf-condena-bolsonaro-a-27-anos-e-3-meses-de-prisao/",
+          "tipo": "decisao"
+        },
+        {
+          "data": "2025-11-07",
+          "fato": "1ª Turma rejeita embargos de declaração por 4x0; acórdão publicado em 18/11/2025.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://www.congressoemfoco.com.br/noticia/114221/1-turma-confirma-transito-em-julgado-e-execucao-da-pena-de-bolsonaro",
+          "tipo": "decisao"
+        },
+        {
+          "data": "2025-11-22",
+          "fato": "Prisão preventiva decretada por Moraes a pedido da PF: violação da tornozeleira e 'elevado risco de fuga', em meio a vigília convocada por Flávio; levado à Superintendência da PF em Brasília (sala de Estado-Maior, ~12 m²). Aos Fatos: a prisão 'ainda não diz respeito ao cumprimento da pena'.",
+          "citacao_literal": "ainda não diz respeito ao cumprimento da pena",
+          "literal": true,
+          "quem_disse": "Aos Fatos (checagem)",
+          "url": "https://www.aosfatos.org/noticias/o-que-se-sabe-sobre-a-prisao-preventiva-de-jair-bolsonaro/",
+          "tipo": "decisao"
+        },
+        {
+          "data": "2025-11-25",
+          "fato": "Prazo para novos embargos vence em 24/11 sem recurso; Moraes declara o trânsito em julgado, afasta embargos infringentes (exigem 2 votos absolutórios) e determina a execução; 1ª Turma referenda por 4x0 na mesma noite.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://www.jornalopcao.com.br/ultimas-noticias/moraes-declara-transito-em-julgado-no-processo-do-golpe-e-libera-execucao-da-pena-de-bolsonaro-768892/",
+          "tipo": "decisao"
+        },
+        {
+          "data": "2026-01-15",
+          "fato": "Transferência para a 'Papudinha' (unidade da PM no complexo da Papuda); em 02/03/2026 Moraes nega domiciliar com base em perícia da PF.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://www.otempo.com.br/politica/judiciario/2026/3/2/moraes-nega-domiciliar-e-mantem-bolsonaro-preso-na-papudinha",
+          "tipo": "fato"
+        },
+        {
+          "data": "2026-03-24",
+          "fato": "Após parecer favorável da PGR (23/03), Moraes concede prisão domiciliar humanitária por 90 dias (broncopneumonia); Bolsonaro cumpre pena em casa em Brasília desde 27/03.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-03/pgr-da-parecer-favoravel-prisao-domiciliar-humanitaria-de-bolsonaro",
+          "tipo": "decisao"
+        },
+        {
+          "data": "2026-06-16",
+          "fato": "PGR pede a rejeição da Revisão Criminal 6.021 de Bolsonaro.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://static.poder360.com.br/uploads/2026/06/pgr-pede-que-a-revisao-criminal-de-bolsonaro-seja-rejeitada-16.jun_.2026.pdf",
+          "tipo": "documento"
+        },
+        {
+          "data": "2026-07-03",
+          "fato": "Moraes prorroga a domiciliar por prazo indeterminado; vedadas visitas e manifestações político-eleitorais até o fim das eleições de 2026, sob pena de retorno ao regime fechado.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://www.otempo.com.br/politica/judiciario/2026/7/3/bolsonaro-seguira-preso-em-regime-domiciliar-humanitario",
+          "tipo": "decisao"
+        }
+      ],
+      "o_que_a_acusacao_dizia": "PGR e maioria da 1ª Turma: Bolsonaro liderou organização criminosa para impedir a posse do governo eleito; a condenação é definitiva e a revisão criminal deve ser rejeitada.",
+      "o_que_a_defesa_dizia": "Defesa de Bolsonaro e Fux (voto vencido): absolvição; a defesa recorre à revisão criminal e pede o fim das restrições de visitas e manifestações.",
+      "numeros": [
+        {
+          "rotulo": "Pena de Bolsonaro",
+          "valor": 27.25,
+          "unidade": "anos",
+          "periodo": "2025-09-11",
+          "fonte": {
+            "nome": "BP Money",
+            "url": "https://bpmoney.com.br/politica/stf-condena-bolsonaro-a-27-anos-e-3-meses-de-prisao/",
+            "acesso_em": "2026-10-21",
+            "tier": "imprensa"
+          },
+          "detalhe": "27 anos e 3 meses"
+        },
+        {
+          "rotulo": "Placar da condenação (1ª Turma)",
+          "valor": 4,
+          "unidade": "votos x 1",
+          "periodo": "2025-09-11",
+          "fonte": {
+            "nome": "BP Money",
+            "url": "https://bpmoney.com.br/politica/stf-condena-bolsonaro-a-27-anos-e-3-meses-de-prisao/",
+            "acesso_em": "2026-10-21",
+            "tier": "imprensa"
+          }
+        }
+      ]
+    }
+  ],
+  "glossario_local": [
+    {
+      "termo": "Trânsito em julgado",
+      "definicao_simples": "Fim de todos os recursos possíveis. Só a partir daí uma condenação é definitiva. Lula nunca teve condenação transitada em julgado; Bolsonaro teve, em 25/11/2025."
+    },
+    {
+      "termo": "Absolvição de mérito",
+      "definicao_simples": "O juiz examina as provas e conclui que não houve crime ou que não há prova suficiente. Lula teve absolvições de mérito em outros casos (Zelotes, 'Quadrilhão do PT', obstrução/Cerveró), mas não no tríplex nem em Atibaia."
+    },
+    {
+      "termo": "Anulação por incompetência",
+      "definicao_simples": "O tribunal decide que aquele juiz ou vara não tinha atribuição legal para julgar o caso. Tudo o que foi decidido deixa de valer, mas ninguém é declarado inocente ou culpado. Foi o que o STF fez em 2021 com a 13ª Vara de Curitiba."
+    },
+    {
+      "termo": "Suspeição (parcialidade)",
+      "definicao_simples": "O juiz é considerado não imparcial; seus atos no processo são anulados. O STF declarou Moro suspeito em 2021 (3x2 na 2ª Turma; 7x4 no Plenário)."
+    },
+    {
+      "termo": "Prescrição",
+      "definicao_simples": "O Estado perde o prazo para punir. Extingue a punibilidade sem julgar o mérito, isto é, sem dizer se houve ou não crime. Para réus com mais de 70 anos o prazo cai pela metade; foi assim nos casos Atibaia e tríplex em 2021-2022."
+    },
+    {
+      "termo": "Habeas corpus (HC)",
+      "definicao_simples": "Ação que pede ao tribunal que impeça ou cesse uma prisão considerada ilegal. O HC 152752 (2018) discutia apenas se Lula podia ser preso antes do fim dos recursos; não julgou culpa."
+    },
+    {
+      "termo": "Execução provisória da pena",
+      "definicao_simples": "Cumprimento da pena antes do trânsito em julgado, após condenação em 2ª instância. Era permitida pelo entendimento do STF de 2016 e deixou de ser em 07/11/2019 (ADCs 43, 44 e 54, 6x5). Lula foi preso em 2018 com base nesse entendimento."
+    },
+    {
+      "termo": "Foro privilegiado (por prerrogativa de função)",
+      "definicao_simples": "Regra pela qual certas autoridades são julgadas diretamente por tribunais superiores. Bolsonaro foi julgado na 1ª Turma do STF em instância única; Lula, em 2017, era julgado em 1ª instância porque não tinha cargo."
+    },
+    {
+      "termo": "Delação premiada (colaboração)",
+      "definicao_simples": "Acordo em que o investigado confessa e aponta outros em troca de redução de pena. A própria sentença de Moro reconhece (§642) que os depoimentos dos delatores da OAS são 'questionáveis', mas os considerou corroborados por documentos."
+    },
+    {
+      "termo": "Decisão monocrática",
+      "definicao_simples": "Decisão de um único ministro, que depois pode ser confirmada ou revertida pelo colegiado (Turma ou Plenário). Fachin anulou as condenações sozinho em 08/03/2021 e o Plenário confirmou em 15/04/2021."
+    }
+  ],
+  "o_que_cada_lado_diz_hoje": {
+    "lado_a": {
+      "lado": "oposicao-flavio-pl",
+      "quem": "Flávio Bolsonaro (PL), debate da Band, 18/10/2026",
+      "frase": "Você foi condenado no STJ, você foi condenado no STF, você foi condenado em todas as instâncias, Lula",
+      "literal": true,
+      "frase_complementar": "Lula teria sido 'descondenado' por aliados.",
+      "veredito": "falso",
+      "explicacao": "Segundo a Lupa, o STF nunca condenou Lula: o HC de 2018 decidiu apenas se ele podia ser preso antes do fim dos recursos, não a culpa. A anulação de 2021 não examinou o mérito, por isso 'descondenado' também é um rótulo sem correspondência jurídica. É verdade que Lula foi condenado em 1ª instância, no TRF-4 e no STJ.",
+      "checagem_externa_url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+      "checagem_slug": null
+    },
+    "lado_b": {
+      "lado": "governo-lula-pt",
+      "quem": "Lula (PT), debate da Band, 28/08/2022",
+      "frase": "fui absolvido em todos os 26 processos",
+      "literal": true,
+      "frase_complementar": "Lula também disse ter sido 'absolvido na ONU'.",
+      "veredito": "falta-contexto",
+      "explicacao": "A Aos Fatos classificou 'absolvido em todos os processos' como 'não é bem assim': houve 3 absolvições de mérito (obstrução/Cerveró, 'Quadrilhão do PT', Zelotes), 4 anulações (tríplex, Atibaia, Instituto Lula x2), prescrições e arquivamentos; anulação e prescrição não são absolvição. 'Absolvido na ONU' foi classificado como falso, porque o Comitê de Direitos Humanos não julga crimes. Juridicamente, Lula é inocente por presunção constitucional, pois nunca teve condenação definitiva.",
+      "checagem_externa_url": "https://www.aosfatos.org/noticias/o-que-e-falso-e-o-que-e-fato-em-declaracoes-de-lula-sobre-absolvicoes-na-onu-e-na-justica/",
+      "checagem_slug": null
+    }
+  },
+  "perguntas_frequentes": [
+    {
+      "pergunta": "Lula foi inocentado?",
+      "resposta": "Depende do que se entende por 'inocentado'. No tríplex e em Atibaia, as condenações foram anuladas por motivos processuais (vara incompetente e juiz parcial) e depois os casos prescreveram; nenhum tribunal julgou de novo as provas para dizer se houve ou não crime. Em outros casos (Zelotes, 'Quadrilhão do PT', obstrução/Cerveró) houve absolvição de mérito. Juridicamente, Lula é inocente porque nunca teve condenação definitiva; 'inocentado' é expressão disputada entre juristas, segundo a Aos Fatos."
+    },
+    {
+      "pergunta": "Por que a condenação foi anulada?",
+      "resposta": "Por dois fundamentos decididos pelo STF em 2021. Primeiro, a 13ª Vara Federal de Curitiba não era competente para julgar os casos, porque os fatos não tinham ligação direta com os desvios na Petrobras (decisão de Fachin em 08/03/2021, confirmada pelo Plenário por 8x3 em 15/04/2021). Segundo, o juiz Sergio Moro foi declarado parcial (2ª Turma, 3x2, em 23/03/2021; Plenário, 7x4, em 23/06/2021), o que anulou todos os seus atos no processo do tríplex, inclusive os da fase de investigação."
+    },
+    {
+      "pergunta": "Lula era presidiário? Quanto tempo ficou preso?",
+      "resposta": "Sim, no sentido factual: ficou 580 dias preso, de 07/04/2018 a 08/11/2019, em uma sala de cerca de 15 m² na Superintendência da PF em Curitiba. A prisão era execução provisória da pena após a confirmação da condenação pelo TRF-4, permitida pelo entendimento do STF da época."
+    },
+    {
+      "pergunta": "Quem prendeu Lula?",
+      "resposta": "O mandado foi expedido pelo juiz Sergio Moro em 05/04/2018, menos de 20 horas depois de o STF negar, por 6x5, o habeas corpus que pedia para Lula aguardar em liberdade. Lula se entregou à PF em 07/04/2018, após impasse no Sindicato dos Metalúrgicos do ABC."
+    },
+    {
+      "pergunta": "Moro foi ministro de quem?",
+      "resposta": "De Jair Bolsonaro. Bolsonaro anunciou o convite em 29/10/2018, Moro aceitou em 01/11/2018 e foi ministro da Justiça e Segurança Pública de janeiro de 2019 a 24/04/2020."
+    },
+    {
+      "pergunta": "Por que Moro saiu do governo Bolsonaro?",
+      "resposta": "Moro se demitiu em 24/04/2020 afirmando que Bolsonaro queria trocar o diretor-geral da PF (Maurício Valeixo) e o superintendente do Rio por 'uma pessoa do contato pessoal dele que ele pudesse ligar' para 'colher relatórios de inteligência', o que Moro chamou de 'uma interferência política na polícia federal'. Bolsonaro negou buscar informações sigilosas. O caso virou o Inquérito 4831 no STF, que teve pedido de arquivamento da PGR em 2022 e foi reaberto em 16/10/2025."
+    },
+    {
+      "pergunta": "Lula foi condenado pelo STF?",
+      "resposta": "Não. O STF nunca condenou Lula. Em 2018 o tribunal apenas negou um habeas corpus (6x5), decidindo que ele podia ser preso após a 2ª instância; não julgou culpa. Em 2021 o STF anulou as condenações. A Lupa classificou como falsa a afirmação de Flávio Bolsonaro de que Lula foi 'condenado no STF'."
+    },
+    {
+      "pergunta": "Qual a diferença entre o caso de Lula e a condenação de Bolsonaro?",
+      "resposta": "Lula foi condenado em três instâncias, mas as condenações foram anuladas antes do trânsito em julgado e os casos prescreveram; nunca houve condenação definitiva. Bolsonaro foi condenado pela 1ª Turma do STF em 11/09/2025 (4x1), os prazos de recurso se esgotaram e o trânsito em julgado foi declarado em 25/11/2025; a pena está em execução (regime fechado, depois domiciliar humanitária). Ambos foram presos; só a condenação de Bolsonaro é definitiva."
+    }
+  ],
+  "lacunas": [
+    "Datas de 17/03/2014 (início da Lava Jato) e 04/03/2016 (condução coercitiva) são públicas, mas sem URL primária localizada na nota.",
+    "Não localizada transcrição integral oficial da coletiva de 14/09/2016; as citações literais vêm da InfoMoney/G1 (link direto do G1 não encontrado).",
+    "Não confirmado se Dallagnol efetivamente pagou os R$ 135.416,88.",
+    "Composição e placar do TRF-4 em 24/01/2018 (8ª Turma, unanimidade 3x0) não confirmados por URL; textos dos acórdãos do TRF-4 e do STJ não localizados.",
+    "Decisão escrita e data exata de Toffoli no caso do velório de Vavá (imprensa: 29/01/2019) não confirmadas.",
+    "Não localizado andamento do Inq 4831 posterior a 16/10/2025 (nenhuma denúncia ou arquivamento até 21/10/2026).",
+    "Data da denúncia do MP-RJ contra Flávio (04/11/2020 ou 19/10/2020) não confirmada em fonte primária; uma nota de pesquisa situa a anulação das quebras de sigilo pelo STJ em nov/2021, mas as fontes com data (Poder360/Migalhas) indicam 23/02/2021.",
+    "Reportagem original do Intercept (09/06/2019) retornou erro 403; usada a íntegra republicada pelo O Povo. Laudo da PF sobre a Vaza Jato não localizado em fonte primária. Recursos de Delgatti após 2023 não verificados.",
+    "Acórdão oficial das ADCs 43/44/54 não consultado no site do STF.",
+    "Não localizada checagem de 2022 (Lupa/Estadão Verifica/Comprova) sobre 'descondenado'; a checagem da Lupa é de 18/10/2026.",
+    "Não encontrada condenação de Moro a indenizar Lula; ações de Lula contra Moro não localizadas.",
+    "Número da Reclamação de Toffoli (imprensa: Rcl 43.007) não verificado.",
+    "Decisão do plenário do TSE sobre o registro de Dallagnol não localizada até 21/10/2026.",
+    "Não localizadas declarações literais de Lula em 2026 sobre a própria prisão com URL; nem o detalhe do inquérito por calúnia contra Flávio.",
+    "Status de Bolsonaro entre julho e 21/10/2026 (eventual retorno ao fechado; julgamento da revisão criminal) não localizado; último status confirmado: domiciliar por prazo indeterminado (03/07/2026). Número/data de autuação da AP 2668 não acessados no portal do STF.",
+    "Convenção de datas: eventos sem dia conhecido usam 'AAAA-MM' ou 'AAAA'; eventos sem data na nota têm data null."
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/15_historia_prisao_lula_moro_bolsonaro.md",
+  "atualizado_em": "2026-10-21",
+  "fontes": [
+    {
+      "nome": "Aos Fatos (documento hospedado)",
+      "url": "https://static.aosfatos.org/media/cke_uploads/2017/07/13/sentenca-lula.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "CartaCapital",
+      "url": "https://www.cartacapital.com.br/?p=264476",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "InfoMoney",
+      "url": "https://www.infomoney.com.br/?p=66814",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "IHU/Unisinos",
+      "url": "https://ihu.unisinos.br/categorias/185-noticias-2016/560497-denuncia-de-facebook",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    },
+    {
+      "nome": "Jornal Opção",
+      "url": "https://www.jornalopcao.com.br/opcao-cultural/crivo/o-demonio-vive-nos-detalhes-dificuldade-probatoria-na-operacao-lava-jato-94283/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Partido dos Trabalhadores (site oficial)",
+      "url": "https://pt.org.br/juristas-criticam-espetaculo-inconsistente-do-mpf-contra-lula/?amp=1",
+      "acesso_em": "2026-10-21",
+      "tier": "partidario"
+    },
+    {
+      "nome": "O Antagonista",
+      "url": "https://oantagonista.com.br/brasil/mais-powerpoints/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Metrópoles",
+      "url": "https://www.metropoles.com/brasil/justica/cnmp-arquiva-acusacao-de-lula-contra-dallagnol-por-uso-do-power-point",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Estado de Minas",
+      "url": "https://www.em.com.br/app/noticia/politica/2017/07/12/interna_politica,883273/moro-manda-confiscar-o-triplex-do-guaruja-que-lava-jato-atribui-a-lul.shtml",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Bahia Notícias",
+      "url": "https://www.bahianoticias.com.br/noticia/209697-moro-x-lula-narrativa-da-decisao-evidencia-que-discurso-sobre-falta-de-provas-e-falho",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Folha Vitória",
+      "url": "https://www.folhavitoria.com.br/politica/entenda-o-caso-triplex-em-que-lula-foi-condenado/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Aos Fatos",
+      "url": "https://aosfatos.org/noticias/o-que-e-fato-e-o-que-e-ficcao-na-condenacao-de-lula-na-lava-jato/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Poder360",
+      "url": "https://www.poder360.com.br/justica/stj-forma-maioria-por-reducao-de-pena-de-lula-no-caso-triplex-do-guaruja/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Tribuna PR",
+      "url": "https://www.tribunapr.com.br/noticias/politica/supremo-nega-habeas-corpus-por-6-a-5-e-abre-caminho-para-prisao-de-lula/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "O Povo",
+      "url": "https://www.opovo.com.br/noticias/politica/ae/2018/04/como-votaram-os-ministros-no-julgamento-de-habeas-corpus-de-lula.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Sul21",
+      "url": "https://sul21.com.br/?p=37207",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Voz da América",
+      "url": "https://www.vozdeamerica.com/a/brasil-lula-prision-policia-resistencia-/4337537.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Diario de Cuyo",
+      "url": "https://www.diariodecuyo.com.ar/noticias/lula-ya-esta-en-la-sede-de-la-policia-federal-en-curitiba-donde-cumplira-su-condena-311695.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "ConJur",
+      "url": "https://www.conjur.com.br/2018-jul-08/advogados-comentam-vaivem-decisoes-soltura-lula//?print=1",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "ConJur",
+      "url": "https://www.conjur.com.br/2019-abr-03/barroso-arquiva-inquerito-desembargador-deu-hc-lula//?print=1",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2018-08/com-base-na-recomendacao-da-onu-defesa-pede-registro-de-lula-no-tse",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Migalhas",
+      "url": "https://www.migalhas.com.br/quentes/286709/tse-indefere-registro-de-candidatura-de-lula",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Estado de Minas",
+      "url": "https://www.em.com.br/app/noticia/politica/2018/09/03/interna_politica,985822/vice-do-comite-da-onu-critica-descumprimento-do-brasil-em-candidatura.shtml",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Metrópoles",
+      "url": "https://www.metropoles.com/brasil/justica/dias-toffoli-revoga-liminar-que-libera-presos-apos-2a-instancia",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Congresso em Foco",
+      "url": "https://congressoemfoco.com.br/justica/lula-deixa-pf-em-curitiba-para-ir-ao-enterro-do-neto-em-sao-paulo",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Money Times",
+      "url": "https://www.moneytimes.com.br/juiza-autoriza-lula-a-comparecer-ao-velorio-do-neto-em-sao-bernardo/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Gazeta do Povo",
+      "url": "https://www.gazetadopovo.com.br/republica/lula-solto-alvara-justica-ex-presidente-lava-jato/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2018-10/bolsonaro-diz-que-vai-chamar-moro-para-ministerio-da-justica-ou-stf",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Metrópoles",
+      "url": "https://www.metropoles.com/brasil/politica-brasil/moro-diz-que-convite-de-bolsonaro-sera-objeto-de-discussao-e-reflexao",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Congresso em Foco",
+      "url": "https://congressoemfoco.com.br/corrupcao/moro-sera-ministro-da-justica-e-promete-forte-agenda-anticorrupcao-decisao-e-primeira-vitoria-de-bolsonaro",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Poder360",
+      "url": "https://poder360.com.br/governo/leia-a-transcricao-dos-trechos-da-reuniao-ministerial-destacados-pelo-stf/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Jornal de Brasília",
+      "url": "https://jornaldebrasilia.com.br/politica-e-poder/leia-a-integra-do-discurso-de-moro/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Poder360",
+      "url": "https://www.poder360.com.br/governo/sergio-moro-deixa-o-governo-bolsonaro/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Correio 24 Horas",
+      "url": "https://www.correio24horas.com.br/brasil/eu-quero-apenas-uma-superintendencia-disse-bolsonaro-a-moro-0520",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Congresso em Foco",
+      "url": "https://congressoemfoco.com.br/governo/ministro-do-stf-barra-nomeacao-de-ramagem-para-pf",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Money Times",
+      "url": "https://www.moneytimes.com.br/pgr-vai-investigar-troca-de-chefe-da-pf-do-rio-anunciada-por-bolsonaro/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "InfoMoney",
+      "url": "https://www.infomoney.com.br/?p=1442781",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Money Times",
+      "url": "https://www.moneytimes.com.br/em-depoimento-bolsonaro-diz-que-moro-aceitaria-ramagem-na-chefia-da-pf-se-fosse-indicado-ao-stf-2/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Poder360",
+      "url": "https://www.poder360.com.br/governo/bolsonaro-diz-em-depoimento-que-nunca-buscou-informacoes-sigilosas-na-pf/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Poder360",
+      "url": "https://www.poder360.com.br/governo/bolsonaro-manda-reporter-calar-a-boca-e-diz-que-nao-interferiu-na-pf",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Poder360 (documento hospedado)",
+      "url": "https://static.poder360.com.br/2020/04/Inq-4831-DF-decisao.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "STF Notícias",
+      "url": "https://noticias.stf.jus.br/postsnoticias/a-pedido-da-pgr-stf-reabre-investigacoes-sobre-suposta-interferencia-de-jair-bolsonaro-na-pf/",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Jornal do Brasil",
+      "url": "https://www.jb.com.br/brasil/justica/2024/05/amp/1050044-moraes-pede-que-pgr-avalie-arquivamento-de-inquerito-contra-bolsonaro.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Wikipédia (pt) — fonte secundária",
+      "url": "https://pt.wikipedia.org/wiki/Fl%C3%A1vio_Bolsonaro",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "InSight Crime",
+      "url": "https://www.insightcrime.org/news/analysis/bolsonaro-family-corruption-scandals/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Wikipédia (pt) — fonte secundária",
+      "url": "https://pt.wikipedia.org/wiki/Fabr%C3%ADcio_Queiroz",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Poder360",
+      "url": "https://www.poder360.com.br/justica/stj-anula-quebra-do-sigilo-de-flavio-bolsonaro-sobre-supostas-rachadinhas/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Poder360",
+      "url": "https://www.poder360.com.br/poder-justica/gilmar-nega-pedido-para-reabrir-acao-contra-flavio-por-rachadinha/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "InfoMoney",
+      "url": "https://www.infomoney.com.br/?p=3282175",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "O Povo",
+      "url": "https://www.opovo.com.br/noticias/politica/2019/06/13/veja-integra-da-conversa-entre-moro-e-dallagnol-que-embasaram-reportagens-do-the-intercept.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "InfoMoney",
+      "url": "https://www.infomoney.com.br/?p=56841",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "O Povo",
+      "url": "https://www.opovo.com.br/noticias/politica/2019/06/10/nao-tem-orientacao-nenhuma-ali---diz-moro-sobre-troca-de-mensagens-com-dallagnol.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "The Intercept Brasil",
+      "url": "https://intercept.com.br/2019/07/15/vazajato-as-provas-de-que-os-chats-sao-autenticos-agora-vem-de-diversos-veiculos-de-comunicacao-sao-definitivas-e-esmagadoras/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Brasil de Fato",
+      "url": "https://www.brasildefato.com.br/2019/07/23/pf-prende-quatro-suspeitos-de-terem-os-hackeado-celulares-de-moro-e-dallagnol",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Migalhas",
+      "url": "https://www.migalhas.com.br/quentes/304332/in-fux-we-trust-disse-moro-a-deltan-em-mensagem",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "ConJur",
+      "url": "https://www.conjur.com.br/?p=401755",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "O Cafezinho (fonte partidária)",
+      "url": "https://www.ocafezinho.com/2021/04/13/pf-agora-diz-que-nao-confirmou-a-autenticidade-de-dialogos-da-vaza-jato/amp/",
+      "acesso_em": "2026-10-21",
+      "tier": "partidario"
+    },
+    {
+      "nome": "Poder360 (documento hospedado)",
+      "url": "https://static.poder360.com.br/2021/03/voto-Gilmar-Mendes-suspeicao-de-Moro.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Poder360",
+      "url": "https://www.poder360.com.br/justica/justica-condena-delgatti-a-20-anos-de-prisao-por-vaza-jato/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Folha Vitória",
+      "url": "https://www.folhavitoria.com.br/politica/estelionatario-e-mentiroso-contumaz-diz-moro-sobre-condenacao-de-hacker-da-vaza-jato/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Poder360",
+      "url": "https://poder360.com.br/justica/stf-proibe-prisao-apos-condenacao-em-2a-instancia-e-beneficia-lula/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Aos Fatos",
+      "url": "https://www.aosfatos.org/noticias/falso-lula-liberdade-provisoria/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Estado de Minas",
+      "url": "https://www.em.com.br/app/noticia/internacional/2021/03/08/interna_internacional,1244514/ministro-edson-fachin-do-stf-anula-todas-as-condenacoes-de-lula-na-lava.shtml",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "STF Notícias",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-confirma-suspeicao-de-sergio-moro-na-acao-do-triplex-do-guaruja/",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Poder360",
+      "url": "https://www.poder360.com.br/justica/stf-confirma-anulacao-das-decisoes-da-justica-de-curitiba/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "CUT",
+      "url": "https://www.cut.org.br/noticias/instituto-lula-anulacao-dos-processos-chega-apos-danos-irreparaveis-9d81/",
+      "acesso_em": "2026-10-21",
+      "tier": "partidario"
+    },
+    {
+      "nome": "Money Times",
+      "url": "https://www.moneytimes.com.br/gilmar-mendes-estende-suspeicao-de-moro-a-outros-processos-contra-lula",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Observador",
+      "url": "https://observador.pt/2021/07/03/pgr-do-brasil-recorre-de-decisao-que-declarou-moro-suspeito-em-mais-dois-processos-de-lula/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Jovem Pan",
+      "url": "https://jovempan.com.br/politica/justica-do-federal-do-df-rejeita-denuncia-contra-lula-no-caso-do-sitio-de-atibaia/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "ConJur",
+      "url": "https://www.conjur.com.br/?p=425040",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Correio Braziliense",
+      "url": "https://www.correiobraziliense.com.br/politica/2021/12/amp/4968840-mpf-pede-arquivamento-do-caso-triplex-envolvendo-ex-presidente-lula.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "IstoÉ Dinheiro",
+      "url": "https://istoedinheiro.com.br/juiza-arquiva-acao-contra-lula-no-caso-do-triplex",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "CUT",
+      "url": "https://www.cut.org.br/noticias/justica-do-df-volta-a-rejeitar-denuncia-contra-lula-no-caso-do-sitio-de-atibaia-6cfb",
+      "acesso_em": "2026-10-21",
+      "tier": "partidario"
+    },
+    {
+      "nome": "DCI",
+      "url": "https://www.dci.com.br/politica/eleicoes-2022/lula-foi-absolvido-entenda-os-processos-contra-o-ex-presidente/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Crusoé",
+      "url": "https://crusoe.com.br/?p=141656",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Aos Fatos",
+      "url": "https://www.aosfatos.org/noticias/o-que-e-falso-e-o-que-e-fato-em-declaracoes-de-lula-sobre-absolvicoes-na-onu-e-na-justica/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Poder360",
+      "url": "https://www.poder360.com.br/justica/leia-integra-das-conclusoes-da-onu-sobre-moro-e-lula/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Revista Oeste",
+      "url": "https://revistaoeste.com/politica/moro-rebate-comite-da-onu-sobre-condenacao-de-lula-nao-inocenta/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "ConJur",
+      "url": "https://www.conjur.com.br/?p=351062",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "TSE",
+      "url": "https://www.tse.jus.br/comunicacao/noticias/2022/Outubro/100-das-secoes-totalizadas-confira-como-ficou-o-quadro-eleitoral-apos-o-2o-turno",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Poder360",
+      "url": "https://www.poder360.com.br/justica/prisao-de-lula-foi-armacao-diz-toffoli-ao-anular-acordo-da-odebrecht/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "O Povo",
+      "url": "https://www.opovo.com.br/noticias/brasil/2023/09/06/amp/toffoli-invalida-provas-obtidas-no-acordo-de-leniencia-da-odebrecht.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Revista Oeste",
+      "url": "https://www.revistaoeste.com/imprensa/estadao-critica-festim-da-impunidade-patrocinado-por-toffoli/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Gazeta do Povo",
+      "url": "https://www.gazetadopovo.com.br/opiniao/editoriais/toffoli-livra-palocci-lava-jato/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "ConJur",
+      "url": "https://www.conjur.com.br/?p=334651",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "A Gazeta",
+      "url": "https://www.agazeta.com.br/brasil/stj-mantem-decisao-que-condenou-deltan-a-indenizar-lula-por-powerpoint-0822",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Folha Vitória",
+      "url": "https://www.folhavitoria.com.br/politica/carmen-lucia-mantem-decisao-que-condenou-deltan-dallagnol-a-indenizar-lula-por-powerpoint/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Band",
+      "url": "https://www.band.com.br/noticias/justica-manda-deltan-pagar-r-135-mil-a-lula-por-caso-do-powerpoint-202507291027",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "TSE",
+      "url": "https://www.tse.jus.br/comunicacao/noticias/2023/Maio/por-unanimidade-tse-cassa-registro-do-deputado-federal-deltan-dallagnol-pode",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Jovem Pan",
+      "url": "https://jovempan.com.br/politica/tse-absolve-moro-em-decisao-unanime-e-mantem-mandato-do-senador/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Brasil de Fato",
+      "url": "https://www.brasildefato.com.br/2026/09/21/deltan-dallagnol-ainda-e-candidato-entenda-decisao-do-tse/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Brasil de Fato",
+      "url": "https://www.brasildefato.com.br/2026/10/03/tse-suspende-candidatura-e-deltan-dallagnol-fica-inelegivel/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Gazeta do Povo",
+      "url": "https://www.gazetadopovo.com.br/eleicoes/2026/parana-2026/como-fica-situacao-eleitoral-deltan-dallagnol-cargo-de-senador/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "TSE",
+      "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/sergio-moro-pl-e-eleito-governador-do-parana-no-1o-turno",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Band",
+      "url": "https://www.band.com.br/politica/eleicoes/veja-o-resultado-completo-das-eleicoes-2026-no-parana",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Gazeta do Povo",
+      "url": "https://www.gazetadopovo.com.br/eleicoes/2026/parana-2026/julgamento-adia-tse-deltan-dallagnol-senado/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Diário do Grande ABC",
+      "url": "https://www.dgabc.com.br/Noticia/4333579/pgr-pede-que-inquerito-contra-flavio-bolsonaro-por-calunia-contra-lula-volte-a-pf",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Agência Senado / Senado Federal",
+      "url": "https://www12.senado.leg.br/noticias/materias/2026/10/04/flavio-bolsonaro-e-lula-disputam-o-segundo-turno-das-eleicoes-para-presidente",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Agência Lupa",
+      "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/flavio-pergunta-sobre-voto-de-presidiarios-lula-responde-ate-do-seu-pai/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "O Tempo",
+      "url": "https://www.otempo.com.br/eleicoes/2026/presidentes/2026/10/20/campanha-de-lula-pede-checagem-de-fatos-em-tempo-real-em-debate-da-globo-com-flavio-bolsonaro",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "BP Money",
+      "url": "https://bpmoney.com.br/politica/stf-condena-bolsonaro-a-27-anos-e-3-meses-de-prisao/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Congresso em Foco",
+      "url": "https://www.congressoemfoco.com.br/noticia/114221/1-turma-confirma-transito-em-julgado-e-execucao-da-pena-de-bolsonaro",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Aos Fatos",
+      "url": "https://www.aosfatos.org/noticias/o-que-se-sabe-sobre-a-prisao-preventiva-de-jair-bolsonaro/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Jornal Opção",
+      "url": "https://www.jornalopcao.com.br/ultimas-noticias/moraes-declara-transito-em-julgado-no-processo-do-golpe-e-libera-execucao-da-pena-de-bolsonaro-768892/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "O Tempo",
+      "url": "https://www.otempo.com.br/politica/judiciario/2026/3/2/moraes-nega-domiciliar-e-mantem-bolsonaro-preso-na-papudinha",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-03/pgr-da-parecer-favoravel-prisao-domiciliar-humanitaria-de-bolsonaro",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Poder360 (documento hospedado)",
+      "url": "https://static.poder360.com.br/uploads/2026/06/pgr-pede-que-a-revisao-criminal-de-bolsonaro-seja-rejeitada-16.jun_.2026.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "O Tempo",
+      "url": "https://www.otempo.com.br/politica/judiciario/2026/7/3/bolsonaro-seguira-preso-em-regime-domiciliar-humanitario",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ]
+}

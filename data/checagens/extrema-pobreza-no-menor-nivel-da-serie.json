@@ -1,0 +1,275 @@
+{
+  "id": "chk-1044",
+  "slug": "extrema-pobreza-no-menor-nivel-da-serie",
+  "frase": "A pobreza extrema recuou para o menor nível da série, 4,6% da população",
+  "frase_normalizada": "A extrema pobreza está no menor nível desde 2012",
+  "variantes": [
+    "Menor pobreza e extrema pobreza desde 2012"
+  ],
+  "autor": {
+    "nome": "Programa de governo de Lula 2026 (coligação Brasil Pronto Pra Mais)",
+    "partido": "PT",
+    "cargo": "documento registrado no TSE"
+  },
+  "lado": "governo-lula-pt",
+  "alvo": null,
+  "data": "2026-08-08",
+  "onde": "Programa de governo registrado no TSE (08/08/2026)",
+  "url_declaracao": "https://static.congressoemfoco.com.br/2026/08/08/attachment/2026/08/08/32ce89_programa_governo_lula_2026.pdf",
+  "temas": [
+    "pobreza-programas-sociais",
+    "eleicao-2026"
+  ],
+  "tags": [
+    "pobreza",
+    "extrema-pobreza",
+    "ibge",
+    "banco-mundial"
+  ],
+  "veredito": "verdadeiro-mas",
+  "resumo_uma_frase": "A extrema pobreza caiu ao menor nível da série do IBGE em 2024 (3,5% pela linha de US$ 2,15, ou 7,4 milhões de pessoas) e a pobreza a 23,1%; o programa cita 4,6%, valor que não corresponde à linha do IBGE e provavelmente usa a nova linha de US$ 3,00 do Banco Mundial, sem especificar — a direção está certa, o número exige qualificação.",
+  "explicacao_simples": [
+    "Pela Síntese de Indicadores Sociais do IBGE, a extrema pobreza caiu para 3,5% em 2024 e a pobreza para 23,1%, os menores níveis desde 2012.",
+    "O programa de Lula fala em 4,6%, número que não bate com a linha do IBGE e provavelmente usa a nova linha de pobreza extrema do Banco Mundial, de US$ 3 por dia.",
+    "A queda desde o pico de 2021 combina emprego, salário mínimo e Bolsa Família ampliado, e sem programas sociais a extrema pobreza seria de 10%."
+  ],
+  "explicacao_completa_md": "## O que o IBGE mediu (SIS 2025, dados de 2024)\n\n- Extrema pobreza (US$ 2,15/dia, R$ 218/mês): 4,4% (2023) → 3,5% (2024), 7,4 milhões de pessoas, mínimo da série 2012-2024; pico de 9,0% em 2021 (18,9 milhões).\n- Pobreza (US$ 6,85/dia, R$ 694/mês): 27,3% → 23,1%, 48,9 milhões (−8,6 milhões); pico de 36,8% em 2021.\n- Sem programas sociais, a extrema pobreza seria 10% e a pobreza 28,7%; sem Bolsa Família e BPC o Gini de 2024 seria 0,542 em vez de 0,504.\n\n## O 4,6% do programa\n\nA nota de pesquisa observa que 4,6% difere dos 3,5% do IBGE e 'provavelmente' se refere à nova linha de US$ 3,00/dia (PPC 2021) adotada pelo Banco Mundial em 2025. Pelo PIP, essa linha dava 3,0% em 2024; a simulação do FGV IBRE com a linha de R$ 280 (≈ US$ 3,00) sobre a PNAD 2025 encontrou 4,61% — compatível com o número do programa.\n\n## Ressalvas\n\nA renda dos 10% mais pobres cresceu só 3,1% em 2025, contra 8,7% a 9,9% do topo, e o Gini subiu de 0,504 para 0,511; os dados de 2025 da SIS ainda não foram publicados.",
+  "o_que_e_verdade": [
+    "Extrema pobreza de 3,5% e pobreza de 23,1% em 2024 são os menores níveis da série do IBGE (2012-2024).",
+    "A queda tirou 8,6 milhões de pessoas da pobreza entre 2023 e 2024; o pico foi em 2021 (36,8%).",
+    "Sem programas sociais a extrema pobreza seria de 10% (IBGE)."
+  ],
+  "o_que_nao_se_sustenta": [
+    "O número de 4,6% não é o do IBGE para a linha de US$ 2,15 (3,5%); a linha usada não é especificada no programa.",
+    "Em 2025 a renda dos 10% mais pobres cresceu menos que a do topo e o Gini voltou a subir (0,511).",
+    "A pobreza da linha de US$ 6,85 (23,1%) ainda abrange 48,9 milhões de pessoas."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Mercado de trabalho (ocupação e renda recordes)",
+      "papel": "principal fator da queda desde 2021",
+      "peso": "alto"
+    },
+    {
+      "ator": "Governo Lula 3 (Bolsa Família ampliado, salário mínimo com ganho real)",
+      "papel": "transferências reduzem a extrema pobreza de 10% para 3,5%",
+      "peso": "alto"
+    },
+    {
+      "ator": "Governo Bolsonaro (Auxílio Emergencial e Auxílio Brasil)",
+      "papel": "2020 teve pobreza artificialmente baixa; 2021, o pico após o fim do auxílio",
+      "peso": "medio"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Extrema pobreza (US$ 2,15/dia, IBGE)",
+      "valor": 3.5,
+      "unidade": "% da população",
+      "periodo": "2024",
+      "fonte": {
+        "nome": "Metrópoles/Agência Brasil – IBGE: mais de 8,6 milhões deixam a pobreza (SIS 2025, 03/12/2025)",
+        "url": "https://www.metropoles.com/brasil/ibge-mais-de-86-milhoes-deixam-pobreza-em-melhor-numero-desde-2012",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "2023",
+        "valor": 4.4
+      }
+    },
+    {
+      "rotulo": "Pessoas em extrema pobreza (IBGE)",
+      "valor": 7.4,
+      "unidade": "milhões",
+      "periodo": "2024",
+      "fonte": {
+        "nome": "Metrópoles/Agência Brasil – IBGE: mais de 8,6 milhões deixam a pobreza (SIS 2025, 03/12/2025)",
+        "url": "https://www.metropoles.com/brasil/ibge-mais-de-86-milhoes-deixam-pobreza-em-melhor-numero-desde-2012",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "2021 (pico)",
+        "valor": 18.9
+      }
+    },
+    {
+      "rotulo": "Pobreza (US$ 6,85/dia, IBGE)",
+      "valor": 23.1,
+      "unidade": "% da população",
+      "periodo": "2024",
+      "fonte": {
+        "nome": "Metrópoles/Agência Brasil – IBGE: mais de 8,6 milhões deixam a pobreza (SIS 2025, 03/12/2025)",
+        "url": "https://www.metropoles.com/brasil/ibge-mais-de-86-milhoes-deixam-pobreza-em-melhor-numero-desde-2012",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "2021 (pico)",
+        "valor": 36.8
+      }
+    },
+    {
+      "rotulo": "Pessoas em pobreza (IBGE)",
+      "valor": 48.9,
+      "unidade": "milhões",
+      "periodo": "2024",
+      "fonte": {
+        "nome": "Metrópoles/Agência Brasil – IBGE: mais de 8,6 milhões deixam a pobreza (SIS 2025, 03/12/2025)",
+        "url": "https://www.metropoles.com/brasil/ibge-mais-de-86-milhoes-deixam-pobreza-em-melhor-numero-desde-2012",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "2023",
+        "valor": 57.6
+      }
+    },
+    {
+      "rotulo": "Extrema pobreza sem programas sociais (IBGE)",
+      "valor": 10.0,
+      "unidade": "% da população",
+      "periodo": "2024",
+      "fonte": {
+        "nome": "Fundação Perseu Abramo (ligada ao PT; números atribuídos ao IBGE/SIS 2025)",
+        "url": "https://fpabramo.org.br/brasil-reduz-pobreza-ao-menor-nivel-em-mais-de-uma-decada-aponta-ibge/",
+        "acesso_em": "2026-10-21",
+        "tier": "partidario"
+      },
+      "comparacao": {
+        "rotulo": "Com programas",
+        "valor": 3.5
+      }
+    },
+    {
+      "rotulo": "Extrema pobreza (US$ 3,00/dia, PPC 2021, Banco Mundial)",
+      "valor": 3.0,
+      "unidade": "% da população",
+      "periodo": "2024",
+      "fonte": {
+        "nome": "Banco Mundial – PIP (Brasil, linha US$ 3,00, PPC 2021)",
+        "url": "https://api.worldbank.org/pip/v1/pip?country=BRA&year=all&povline=3.00&ppp_version=2021&format=json",
+        "acesso_em": "2026-10-21",
+        "tier": "multilateral"
+      },
+      "comparacao": {
+        "rotulo": "2021",
+        "valor": 7.5
+      }
+    },
+    {
+      "rotulo": "Extrema pobreza na linha de R$ 280 (≈ US$ 3,00), simulação FGV IBRE sobre PNAD 2025",
+      "valor": 4.61,
+      "unidade": "% da população",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Blog do IBRE/FGV – Vitor Hugo Miro, simulação do reajuste do Bolsa Família (06/10/2026)",
+        "url": "https://blogdoibre.fgv.br/node/2410",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Gini do rendimento domiciliar per capita",
+      "valor": 0.511,
+      "unidade": "índice",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "IBGE – PNAD Contínua: Rendimento de todas as fontes 2025, Informativo (PDF, 08/05/2026)",
+        "url": "https://biblioteca.ibge.gov.br/visualizacao/livros/liv102275_informativo.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "2024 (mínimo da série)",
+        "valor": 0.504
+      }
+    }
+  ],
+  "series": [
+    "pobreza-ibge",
+    "extrema-pobreza-ibge",
+    "gini",
+    "pobreza-banco-mundial-ppc-2021",
+    "renda-per-capita-por-decimo-2025"
+  ],
+  "checagens_externas": [],
+  "fontes": [
+    {
+      "nome": "Metrópoles/Agência Brasil – IBGE: mais de 8,6 milhões deixam a pobreza (SIS 2025, 03/12/2025)",
+      "url": "https://www.metropoles.com/brasil/ibge-mais-de-86-milhoes-deixam-pobreza-em-melhor-numero-desde-2012",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Fundação Perseu Abramo (ligada ao PT; números atribuídos ao IBGE/SIS 2025)",
+      "url": "https://fpabramo.org.br/brasil-reduz-pobreza-ao-menor-nivel-em-mais-de-uma-decada-aponta-ibge/",
+      "acesso_em": "2026-10-21",
+      "tier": "partidario"
+    },
+    {
+      "nome": "Banco Mundial – PIP (Brasil, linha US$ 3,00, PPC 2021)",
+      "url": "https://api.worldbank.org/pip/v1/pip?country=BRA&year=all&povline=3.00&ppp_version=2021&format=json",
+      "acesso_em": "2026-10-21",
+      "tier": "multilateral"
+    },
+    {
+      "nome": "Blog do IBRE/FGV – Vitor Hugo Miro, simulação do reajuste do Bolsa Família (06/10/2026)",
+      "url": "https://blogdoibre.fgv.br/node/2410",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    },
+    {
+      "nome": "IBGE – PNAD Contínua: Rendimento de todas as fontes 2025, Informativo (PDF, 08/05/2026)",
+      "url": "https://biblioteca.ibge.gov.br/visualizacao/livros/liv102275_informativo.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Programa de governo Lula 2026 (PDF registrado no TSE, via Congresso em Foco)",
+      "url": "https://static.congressoemfoco.com.br/2026/08/08/attachment/2026/08/08/32ce89_programa_governo_lula_2026.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "partidario"
+    },
+    {
+      "nome": "Banco Mundial – PIP (Brasil, linha US$ 2,15, PPC 2017)",
+      "url": "https://api.worldbank.org/pip/v1/pip?country=BRA&year=all&povline=2.15&ppp_version=2017&format=json",
+      "acesso_em": "2026-10-21",
+      "tier": "multilateral"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/13_renda_por_faixa_e_simulacoes_de_impacto.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "Qual é a linha de extrema pobreza?",
+      "resposta": "O IBGE usa US$ 2,15 por dia (R$ 218/mês em 2024); o Banco Mundial passou a usar US$ 3,00 (PPC 2021) em 2025, e o IBGE deve adotar a nova linha na próxima Síntese."
+    },
+    {
+      "pergunta": "A pobreza caiu só por causa do Bolsa Família?",
+      "resposta": "Não. O IBGE atribui o crescimento da renda dos 40% mais pobres aos reajustes do salário mínimo e aos programas sociais, e a ocupação está em recorde; mas sem transferências a extrema pobreza seria de 10%."
+    },
+    {
+      "pergunta": "Em que governo a pobreza mais caiu?",
+      "resposta": "Pela linha de US$ 6,85 do Banco Mundial: de 48,7% (2003) para 24,4% (2014), em Lula 1-2 e Dilma 1; depois subiu até 2021 e caiu para 18,9% (critério PIP) ou 23,1% (IBGE) em 2024."
+    }
+  ],
+  "relacionadas": [
+    "brasil-saiu-do-mapa-da-fome",
+    "33-milhoes-passavam-fome-em-2022",
+    "bolsa-familia-reajustado-uma-semana-antes-do-segundo-turno",
+    "menor-desemprego-da-historia"
+  ],
+  "lacunas": [
+    "A linha exata usada pelo programa de Lula para o 4,6% não é especificada no documento; a nota infere a linha de US$ 3,00. Dados da SIS para 2025 ainda não publicados."
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false
+}

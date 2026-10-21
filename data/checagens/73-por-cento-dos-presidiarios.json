@@ -1,0 +1,188 @@
+{
+  "id": "chk-2051",
+  "slug": "73-por-cento-dos-presidiarios",
+  "frase": "73% dos presidiários votaram em você, Lula.",
+  "frase_normalizada": "73 dos presidiarios votaram em voce lula",
+  "variantes": [],
+  "autor": {
+    "nome": "Flávio Bolsonaro",
+    "partido": "PL",
+    "cargo": "senador (RJ) e candidato à Presidência"
+  },
+  "lado": "oposicao-flavio-pl",
+  "alvo": {
+    "nome": "Luiz Inácio Lula da Silva",
+    "partido": "PT"
+  },
+  "data": "2026-10-18",
+  "onde": "Debate da Band (consórcio Band/Cultura/Gazeta/Jovem Pan/Estadão), São Paulo (dita duas vezes)",
+  "url_declaracao": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+  "temas": [
+    "eleicao-2026",
+    "seguranca"
+  ],
+  "tags": [
+    "eleicao-2026",
+    "seguranca"
+  ],
+  "veredito": "falta-contexto",
+  "resumo_uma_frase": "Nas seções eleitorais instaladas em presídios, Lula teve 72,57% e Flávio 23,29% dos votos válidos (11.186 votos), mas essas seções também recebem votos de agentes e servidores, e só presos provisórios podem votar (cerca de 4,9 mil votos), uma fração mínima dos 964 mil encarcerados.",
+  "explicacao_simples": [
+    "O número vem das seções eleitorais montadas em presídios no 1º turno: Lula 72,57%, Flávio 23,29%, num total de 11.186 votos.",
+    "Mas só presos provisórios (sem condenação definitiva) votam, e as mesmas seções recebem votos de agentes penitenciários e outros servidores.",
+    "Falar em '73% dos presidiários' sugere que quase 1 milhão de presos votaram; na prática foram poucos milhares de votos, misturados com os de funcionários."
+  ],
+  "explicacao_completa_md": "Lupa: FALTA CONTEXTO (72,57% dos válidos nas seções de presídios, que incluem servidores); Aos Fatos: DISTORCIDO; Ranking dos Políticos: IMPRECISO (só presos provisórios votam; cerca de 4,9 mil votos). Contexto: a população prisional é de 964.668 (2025), 25,7% provisórios (Anuário 2026); condenados definitivos têm os direitos políticos suspensos.",
+  "o_que_e_verdade": [
+    "Lula teve 72,57% dos votos válidos nas seções instaladas em presídios no 1º turno."
+  ],
+  "o_que_nao_se_sustenta": [
+    "'73% dos presidiários': as seções incluem votos de servidores; só presos provisórios votam (cerca de 4,9 mil votos entre 964 mil encarcerados)."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "TSE",
+      "papel": "organiza seções em unidades prisionais para presos provisórios e servidores",
+      "peso": "medio"
+    },
+    {
+      "ator": "Flávio Bolsonaro",
+      "papel": "autor da frase",
+      "peso": "alto"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Votos válidos para Lula nas seções em presídios",
+      "valor": 72.57,
+      "unidade": "%",
+      "periodo": "1º turno 2026",
+      "fonte": {
+        "nome": "Agência Lupa",
+        "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": {
+        "rotulo": "Flávio",
+        "valor": 23.29
+      }
+    },
+    {
+      "rotulo": "Total de votos nas seções em presídios",
+      "valor": 11186,
+      "unidade": "votos",
+      "periodo": "1º turno 2026",
+      "fonte": {
+        "nome": "Agência Lupa",
+        "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Votos de presos provisórios (Ranking)",
+      "valor": 4900,
+      "unidade": "votos (aprox.)",
+      "periodo": "1º turno 2026",
+      "fonte": {
+        "nome": "Ranking dos Políticos",
+        "url": "https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "População prisional total",
+      "valor": 964668,
+      "unidade": "pessoas",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Anuário Brasileiro de Segurança Pública 2026 (FBSP, PDF)",
+        "url": "https://static.poder360.com.br/uploads/2026/07/anuario-seguranca-publica-23jul26.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      "comparacao": null
+    }
+  ],
+  "series": [
+    "populacao-prisional"
+  ],
+  "checagens_externas": [
+    {
+      "veiculo": "Agência Lupa",
+      "veredito_original": "FALTA CONTEXTO",
+      "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+      "data": "2026-10-18"
+    },
+    {
+      "veiculo": "Aos Fatos",
+      "veredito_original": "DISTORCIDO",
+      "url": "https://www.aosfatos.org/noticias/checamos-lula-flavio-bolsonaro-debate-band/",
+      "data": "2026-10-18"
+    },
+    {
+      "veiculo": "Ranking dos Políticos",
+      "veredito_original": "IMPRECISO",
+      "url": "https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026",
+      "data": "2026-10-18"
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Agência Lupa",
+      "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Ranking dos Políticos",
+      "url": "https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Anuário Brasileiro de Segurança Pública 2026 (FBSP, PDF)",
+      "url": "https://static.poder360.com.br/uploads/2026/07/anuario-seguranca-publica-23jul26.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    },
+    {
+      "nome": "Aos Fatos",
+      "url": "https://www.aosfatos.org/noticias/checamos-lula-flavio-bolsonaro-debate-band/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/09_acusacoes_e_falas_flavio_x_lula.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "Preso vota no Brasil?",
+      "resposta": "Só presos provisórios (sem condenação definitiva) e adolescentes internados; condenados definitivos têm os direitos políticos suspensos."
+    },
+    {
+      "pergunta": "Quantos presos votaram?",
+      "resposta": "Cerca de 4,9 mil votos, segundo o Ranking; o total das seções em presídios (11.186) inclui servidores."
+    },
+    {
+      "pergunta": "Então Lula venceu entre os presos?",
+      "resposta": "Nas seções em presídios, sim, com 72,57%; mas o universo é pequeno e misturado com funcionários."
+    }
+  ],
+  "relacionadas": [
+    "lula-solta-bandido",
+    "lula-ligado-a-faccoes-pcc-cv",
+    "eleicao-2026-resultado-primeiro-turno"
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false
+}

@@ -1,0 +1,297 @@
+{
+  "id": "chk-3005",
+  "slug": "lula-segura-o-preco-da-gasolina",
+  "frase": "O governo Lula segurou o preço da gasolina em 2026.",
+  "frase_normalizada": "o governo lula segurou o preço da gasolina em 2026",
+  "variantes": [],
+  "autor": {
+    "nome": "Afirmação recorrente em redes sociais e no debate eleitoral (sem autor único identificado nas notas)",
+    "partido": null,
+    "cargo": null
+  },
+  "lado": "ambos",
+  "alvo": {
+    "nome": "Governo federal (Lula)",
+    "partido": "PT"
+  },
+  "data": null,
+  "onde": "debate eleitoral",
+  "url_declaracao": null,
+  "temas": [
+    "combustiveis",
+    "contas-publicas"
+  ],
+  "tags": [
+    "gasolina",
+    "diesel",
+    "subvenção",
+    "Petrobras",
+    "Brent"
+  ],
+  "veredito": "verdadeiro-mas",
+  "resumo_uma_frase": "A gasolina ficou estável em 2026 (R$ 6,24 em janeiro, R$ 6,53 em outubro) apesar do Brent acima de US$ 100, mas com subvenções e cortes de tributos federais que somam dezenas de bilhões e com a Petrobras vendendo abaixo da paridade.",
+  "explicacao_simples": [
+    "Com o Brent acima de US$ 100 desde fevereiro, a gasolina subiu só 5,5% em 2026 e ficou entre R$ 6,51 e R$ 6,55 de agosto a outubro.",
+    "Isso foi obtido com subvenções por MP (créditos de R$ 24,4 bi até setembro, mais R$ 10,5 bi e R$ 5,2 bi em prorrogações), cortes de PIS/Cofins e a Petrobras vendendo com defasagem de até 72% no diesel.",
+    "O custo é pago pelo Tesouro e pelos acionistas da Petrobras (dividendos caíram 45,6% em 2025), e o diesel S10 ainda subiu 20,5% no ano."
+  ],
+  "explicacao_completa_md": "## O que aconteceu\n- Brent: acima de US$ 120 após fev/2026; US$ 111 em 19/10 e ~US$ 109,5 em 21/10/2026 (+75% em 12 meses).\n- Gasolina na bomba (ANP): R$ 6,24 (semana de 28/12/2025–03/01/2026) → pico de R$ 6,78–6,83 (fim de março) → R$ 6,53 (11–17/10/2026), +5,5% até o início de outubro. Diesel S10: R$ 6,13 → R$ 7,34 (+20,5%).\n- Instrumentos: MP 1.340 (diesel R$ 0,32/l), MP 1.349 (R$ 0,80/1,20), MP 1.358 (gasolina até R$ 0,89/l, efetivo R$ 0,44; diesel R$ 0,35), MP 1.363 (diesel R$ 1,12), MP 1.391 (diesel R$ 2,12), decreto de 09/09 (PIS/Cofins -R$ 0,63/l), zeramento de tributos federais da gasolina em 09/10 por 30 dias.\n- Petrobras: primeiro aumento da gasolina em quase dois anos no fim de maio (+R$ 0,48, compensado por subvenção de R$ 0,44); diesel a R$ 3,30/l com defasagem de R$ 3,50/l em 19–20/10/2026.\n- Custo: créditos extraordinários de R$ 24,4 bi até setembro (R$ 7 + 0,8 + 4,1 + 12,5 bi), R$ 10,5 bi da prorrogação e R$ 5,2 bi do pacote de outubro; o governo diz cobrir com receitas extraordinárias de petróleo (R$ 67,5 bi). Lula falou em 'R$ 47 bilhões'.\n\n## Veredito\n**Verdadeiro, mas.** O preço foi contido, porém por dinheiro público e pela estatal, com custo fiscal que já supera o de 2018 e se aproxima do de 2022, e sem conter o diesel na mesma medida.",
+  "o_que_e_verdade": [
+    "A gasolina ficou praticamente estável em 2026 apesar do choque do petróleo.",
+    "O governo federal usou tributos e subvenções, instrumentos que estão em seu poder."
+  ],
+  "o_que_nao_se_sustenta": [
+    "Não foi 'de graça': dezenas de bilhões do Tesouro e menor remuneração aos acionistas da Petrobras.",
+    "O diesel subiu 20,5% mesmo com subvenções de até R$ 2,12/l.",
+    "Governos anteriores (Temer 2018, Bolsonaro 2022) fizeram o mesmo com outros instrumentos."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Governo federal (Lula)",
+      "papel": "MPs de subvenção e cortes de tributos federais",
+      "peso": "alto"
+    },
+    {
+      "ator": "Petrobras",
+      "papel": "vende abaixo da paridade",
+      "peso": "alto"
+    },
+    {
+      "ator": "Congresso Nacional",
+      "papel": "converte as MPs",
+      "peso": "baixo"
+    },
+    {
+      "ator": "Mercado internacional",
+      "papel": "Brent acima de US$ 100",
+      "peso": "alto"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Gasolina comum",
+      "valor": 6.53,
+      "unidade": "R$/l",
+      "periodo": "11–17/10/2026",
+      "fonte": {
+        "nome": "ANP – Resumo semanal do Levantamento de Preços, 11 a 17/10/2026 (xlsx)",
+        "url": "https://www.gov.br/anp/pt-br/assuntos/precos-e-defesa-da-concorrencia/precos/arquivos-lpc/2026/resumo_semanal_lpc_2026_10_11-2026_10_17.xlsx",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "Semana de 28/12/2025–03/01/2026",
+        "valor": 6.24
+      }
+    },
+    {
+      "rotulo": "Alta da gasolina em 2026 até início de outubro",
+      "valor": 5.5,
+      "unidade": "%",
+      "periodo": "jan–out/2026",
+      "fonte": {
+        "nome": "combustiveis-anp.com.br (agregador de dados ANP) – Quanto subiram os combustíveis em 2026 (13/10/2026)",
+        "url": "https://www.combustiveis-anp.com.br/guia/quanto-subiram-combustiveis-2026-balanco",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "Diesel S10",
+        "valor": 20.5
+      }
+    },
+    {
+      "rotulo": "Brent",
+      "valor": 109.5,
+      "unidade": "US$/barril",
+      "periodo": "21/10/2026",
+      "fonte": {
+        "nome": "Trading Economics – Brent crude oil",
+        "url": "https://tradingeconomics.com/commodity/brent-crude-oil",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "Variação em 12 meses (%)",
+        "valor": 75
+      }
+    },
+    {
+      "rotulo": "Créditos extraordinários para subvenções até set/2026 (soma própria)",
+      "valor": 24.4,
+      "unidade": "R$ bilhões",
+      "periodo": "2026",
+      "fonte": {
+        "nome": "novaCana/CNN – Prorrogação da subvenção ao diesel em R$ 2,12 custará R$ 10,5 bilhões (01/10/2026)",
+        "url": "https://www.novacana.com/noticias/prorrogacao-da-subvencao-ao-diesel-em-r-2-12-custara-r-10-5-bilhoes",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "Prorrogação do diesel (30 dias)",
+        "valor": 10.5
+      }
+    },
+    {
+      "rotulo": "Pacote de 09/10/2026 (30 dias)",
+      "valor": 5.2,
+      "unidade": "R$ bilhões",
+      "periodo": "out/2026",
+      "fonte": {
+        "nome": "novaCana/CNN – Preço da gasolina mantém estabilidade ao longo da guerra com subsídios (13/10/2026)",
+        "url": "https://www.novacana.com/noticias/preco-da-gasolina-mantem-estabilidade-ao-longo-da-guerra-com-subsidios",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Subvenções recebidas pela Petrobras até 18/09/2026",
+      "valor": 9.9,
+      "unidade": "R$ bilhões",
+      "periodo": "2026",
+      "fonte": {
+        "nome": "eixos – Conta das subvenções cresce; Petrobras já recebeu quase R$ 10 bi (21/09/2026)",
+        "url": "https://eixos.com.br/newsletters/comece-seu-dia/conta-das-subvencoes-cresce-diesel-importado-bate-recorde-petrobras-ja-recebeu-quase-r-10-bi/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "Levantamento posterior",
+        "valor": 12.2
+      }
+    },
+    {
+      "rotulo": "Defasagem do diesel da Petrobras",
+      "valor": 3.5,
+      "unidade": "R$/l",
+      "periodo": "19–20/10/2026",
+      "fonte": {
+        "nome": "CNN Brasil – Abicom: diesel da Petrobras se aproxima ao subsídio com alta do Brent (20/10/2026)",
+        "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/abicom-diesel-da-petrobras-se-aproxima-ao-subsidio-com-alta-do-brent/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Remuneração aos acionistas da Petrobras em 2025",
+      "valor": 41.2,
+      "unidade": "R$ bilhões",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "CNN Brasil – Balanço da Petrobras, 4T2025 (05/03/2026)",
+        "url": "https://www.cnnbrasil.com.br/economia/negocios/balanco-petrobras-4t2026/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "2024",
+        "valor": 75.8
+      }
+    }
+  ],
+  "series": [
+    "gasolina-preco-anual",
+    "diesel-preco-anual",
+    "petrobras-dividendos-anual"
+  ],
+  "checagens_externas": [],
+  "fontes": [
+    {
+      "nome": "ANP – Resumo semanal do Levantamento de Preços, 11 a 17/10/2026 (xlsx)",
+      "url": "https://www.gov.br/anp/pt-br/assuntos/precos-e-defesa-da-concorrencia/precos/arquivos-lpc/2026/resumo_semanal_lpc_2026_10_11-2026_10_17.xlsx",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "combustiveis-anp.com.br (agregador de dados ANP) – Quanto subiram os combustíveis em 2026 (13/10/2026)",
+      "url": "https://www.combustiveis-anp.com.br/guia/quanto-subiram-combustiveis-2026-balanco",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "novaCana/CNN – Preço da gasolina mantém estabilidade ao longo da guerra com subsídios (13/10/2026)",
+      "url": "https://www.novacana.com/noticias/preco-da-gasolina-mantem-estabilidade-ao-longo-da-guerra-com-subsidios",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Trading Economics – Brent crude oil",
+      "url": "https://tradingeconomics.com/commodity/brent-crude-oil",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "eixos – Como fica o alívio aos combustíveis com o fim da desoneração e o novo modelo de subsídio (01/06/2026)",
+      "url": "https://eixos.com.br/newsletters/comece-seu-dia/como-fica-o-alivio-aos-combustiveis-com-o-fim-da-desoneracao-e-o-novo-modelo-de-subsidio/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "DOU – Medida Provisória 1.358, de 13/05/2026 (via TSE)",
+      "url": "https://sintse.tse.jus.br/documentos/2026/Mai/14/diario-oficial-da-uniao-secao-1-edicao-extra/medida-provisoria-no-1-358-de-13-de-maio-de-2026-autoriza-a-concessao-de-subvencao-economica-aos",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "novaCana/CNN – Prorrogação da subvenção ao diesel em R$ 2,12 custará R$ 10,5 bilhões (01/10/2026)",
+      "url": "https://www.novacana.com/noticias/prorrogacao-da-subvencao-ao-diesel-em-r-2-12-custara-r-10-5-bilhoes",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "eixos – Conta das subvenções cresce; Petrobras já recebeu quase R$ 10 bi (21/09/2026)",
+      "url": "https://eixos.com.br/newsletters/comece-seu-dia/conta-das-subvencoes-cresce-diesel-importado-bate-recorde-petrobras-ja-recebeu-quase-r-10-bi/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "CNN Brasil – Abicom: diesel da Petrobras se aproxima ao subsídio com alta do Brent (20/10/2026)",
+      "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/abicom-diesel-da-petrobras-se-aproxima-ao-subsidio-com-alta-do-brent/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "CNN Brasil – Balanço da Petrobras, 4T2025 (05/03/2026)",
+      "url": "https://www.cnnbrasil.com.br/economia/negocios/balanco-petrobras-4t2026/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Governo Federal – Release de 09/09/2026 sobre medidas para combustíveis (PDF)",
+      "url": "https://static.poder360.com.br/uploads/2026/09/0909-Release-Governo-Federal-adota-novas-medidas-para-combustiveis-apos-novos-aumentos-do-petroleo.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Senado Federal – Sumário da MPV 1.358/2026",
+      "url": "https://www12.senado.leg.br/publicacoes/estudos-legislativos/tipos-de-estudos/sumarios-de-proposicoes/mpv1358",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/06_energia_eletrobras_combustiveis.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "Isso é diferente do que Bolsonaro fez em 2022?",
+      "resposta": "Os instrumentos diferem (2022: zeramento de tributos federais e teto do ICMS, R$ 64,8 bi estimados; 2026: subvenções por MP e cortes temporários), mas em ambos os casos dinheiro público suavizou o preço na bomba."
+    }
+  ],
+  "relacionadas": [
+    "lula-gastou-47-bilhoes-com-subsidios-a-combustiveis",
+    "petrobras-define-o-preco-na-bomba",
+    "bolsonaro-zerou-impostos-dos-combustiveis-em-2022"
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false,
+  "lacunas": [
+    "Autoria, data e local da declaração não documentados nas notas; a checagem trata a afirmação em sua forma recorrente.",
+    "Total consolidado oficial das subvenções de 2026 não localizado.",
+    "Checagens já publicadas por Aos Fatos, Lupa, Estadão Verifica e Comprova sobre o tema não foram consultadas (cota de busca esgotada); cruzar antes da publicação."
+  ]
+}

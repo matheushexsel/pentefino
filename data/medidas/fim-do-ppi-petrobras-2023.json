@@ -1,0 +1,151 @@
+{
+  "id": "fim-do-ppi-petrobras-2023",
+  "nome": "Fim da paridade de importação (PPI) na Petrobras",
+  "tipo": "outro",
+  "governo": "lula-3",
+  "lado": "governo-lula-pt",
+  "norma": {
+    "nome": "Nova 'estratégia comercial' da Petrobras (decisão da empresa, gestão Jean Paul Prates), mai/2023",
+    "data": null,
+    "url": "https://agorarn.com.br/ultimas/petrobras-abandona-paridade-de-importacao-nos-precos-dos-combustiveis/",
+    "vigencia": "desde mai/2023"
+  },
+  "status": "em-vigor",
+  "o_que_faz_simples": [
+    "A Petrobras deixou de seguir a paridade de importação (PPI), adotada em out/2016 no governo Temer, e passou a acompanhar as cotações internacionais 'sem periodicidade fixa', 'evitando o repasse para os preços internos da volatilidade conjuntural das cotações internacionais e da taxa de câmbio'.",
+    "Um ano depois, a consultoria Leggio calculava preços cerca de 5% abaixo do PPI com defasagem de um mês; gasolina e diesel caíram em torno de 5% no primeiro ano; o CBIE disse que o fim do PPI 'existiu, mas não existiu'.",
+    "Em 2026, com Brent acima de US$ 100, a defasagem chegou a 72% no diesel (13/03/2026) e a R$ 3,50/l em 19–20/10/2026, e o Tesouro passou a pagar subvenções para cobrir parte da diferença."
+  ],
+  "quem_ganha": {
+    "descricao": "Consumidores de combustíveis, com preços mais estáveis e cerca de 5% abaixo do PPI no primeiro ano; em 2026, preços na bomba estáveis apesar do choque do petróleo.",
+    "pessoas": null,
+    "faixa_renda": "consumidores em geral",
+    "fonte": {
+      "nome": "InfoMoney – Um ano do fim do PPI na Petrobras (16/05/2024)",
+      "url": "https://www.infomoney.com.br/?p=2464513",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  },
+  "quem_paga": {
+    "descricao": "A Petrobras e seus acionistas (inclusive a União), que recebem menos quando a estatal vende abaixo da paridade: a remuneração aos acionistas caiu 45,6% em 2025 (R$ 41,2 bi) apesar do lucro de R$ 110,1 bi; importadores privados e a Acelen, pressionados pela defasagem; em 2026, o Tesouro, via subvenções.",
+    "pessoas": null,
+    "faixa_renda": "acionistas da Petrobras e contribuintes",
+    "fonte": {
+      "nome": "CNN Brasil – Balanço da Petrobras, 4T2025 (05/03/2026)",
+      "url": "https://www.cnnbrasil.com.br/economia/negocios/balanco-petrobras-4t2026/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  },
+  "custo_ou_arrecadacao": {
+    "valor": null,
+    "unidade": "R$ bilhões",
+    "fonte": {
+      "nome": "InfoMoney – Um ano do fim do PPI na Petrobras (16/05/2024)",
+      "url": "https://www.infomoney.com.br/?p=2464513",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  },
+  "regra_simulador": {
+    "tipo": "nenhuma",
+    "parametros": {}
+  },
+  "mitos": [
+    {
+      "mito": "Lula mandou a Petrobras segurar os preços.",
+      "fato": "Jean Paul Prates afirmou que o 'presidente Lula jamais pediu para segurar preço'; a decisão formal é da empresa, controlada pela União. Lula demitiu Prates em 14/05/2024 e nomeou Magda Chambriard.",
+      "fontes": [
+        {
+          "nome": "Monitor Mercantil – Presidente Lula jamais pediu para segurar preço, diz Prates",
+          "url": "https://monitormercantil.com.br/presidente-lula-jamais-pediu-para-segurar-preco-diz-prates/",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "Wikipédia (pt) – Lista de presidentes da Petrobras (fonte secundária)",
+          "url": "https://pt.wikipedia.org/wiki/Lista_de_presidentes_da_Petrobras",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        }
+      ]
+    },
+    {
+      "mito": "Com o fim do PPI o preço não acompanha mais o petróleo.",
+      "fato": "Acompanha com defasagem: em mai/2026 a Petrobras deu o primeiro aumento da gasolina em quase dois anos (+R$ 0,48/l, compensado por subvenção de R$ 0,44). A Abicom mede defasagens de até 72% no diesel em 2026.",
+      "fontes": [
+        {
+          "nome": "novaCana/CNN – Preço da gasolina mantém estabilidade ao longo da guerra com subsídios (13/10/2026)",
+          "url": "https://www.novacana.com/noticias/preco-da-gasolina-mantem-estabilidade-ao-longo-da-guerra-com-subsidios",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "CNN Brasil – tag Abicom",
+          "url": "https://www.cnnbrasil.com.br/tudo-sobre/abicom/",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Agora RN – Petrobras abandona paridade de importação nos preços dos combustíveis",
+      "url": "https://agorarn.com.br/ultimas/petrobras-abandona-paridade-de-importacao-nos-precos-dos-combustiveis/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "InfoMoney – Um ano do fim do PPI na Petrobras (16/05/2024)",
+      "url": "https://www.infomoney.com.br/?p=2464513",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "novaCana – Política de preços da Petrobras completa um ano com efeito reduzido (20/05/2024)",
+      "url": "https://novacana.com/noticias/politica-precos-petrobras-completa-ano-efeito-reduzido-combustiveis-200524",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Monitor Mercantil – Presidente Lula jamais pediu para segurar preço, diz Prates",
+      "url": "https://monitormercantil.com.br/presidente-lula-jamais-pediu-para-segurar-preco-diz-prates/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Wikipédia (pt) – Lista de presidentes da Petrobras (fonte secundária)",
+      "url": "https://pt.wikipedia.org/wiki/Lista_de_presidentes_da_Petrobras",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "CNN Brasil – tag Abicom",
+      "url": "https://www.cnnbrasil.com.br/tudo-sobre/abicom/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "CNN Brasil – Abicom: diesel da Petrobras se aproxima ao subsídio com alta do Brent (20/10/2026)",
+      "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/abicom-diesel-da-petrobras-se-aproxima-ao-subsidio-com-alta-do-brent/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "CNN Brasil – Balanço da Petrobras, 4T2025 (05/03/2026)",
+      "url": "https://www.cnnbrasil.com.br/economia/negocios/balanco-petrobras-4t2026/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/06_energia_eletrobras_combustiveis.md",
+  "atualizado_em": "2026-10-21",
+  "temas": [
+    "combustiveis"
+  ],
+  "lacunas": [
+    "Dia exato do anúncio da nova política (mai/2023) não consta das notas; não há estimativa oficial do custo da política para a Petrobras ou para a União."
+  ]
+}

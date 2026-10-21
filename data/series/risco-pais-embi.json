@@ -1,0 +1,144 @@
+{
+  "id": "risco-pais-embi",
+  "titulo": "Risco-país (EMBI+ Brasil) no fim de cada ano",
+  "descricao_simples": "Prêmio de risco cobrado dos títulos brasileiros, em pontos-base; quanto maior, mais desconfiança.",
+  "unidade": "pontos-base",
+  "tipo_grafico": "linha",
+  "frequencia": "anual",
+  "fonte": {
+    "nome": "Ipeadata, série JPM366_EMBI366 (JP Morgan)",
+    "url": "http://www.ipeadata.gov.br/api/odata4/ValoresSerie(SERCODIGO='JPM366_EMBI366')",
+    "acesso_em": "2026-10-21",
+    "tier": "oficial"
+  },
+  "pontos": [
+    {
+      "periodo": "2002",
+      "valor": 1445,
+      "maximo_ano": 2443,
+      "data_maximo": "27/09/2002"
+    },
+    {
+      "periodo": "2003",
+      "valor": 463,
+      "maximo_ano": 1427
+    },
+    {
+      "periodo": "2004",
+      "valor": 382
+    },
+    {
+      "periodo": "2005",
+      "valor": 311
+    },
+    {
+      "periodo": "2006",
+      "valor": 192
+    },
+    {
+      "periodo": "2007",
+      "valor": 221,
+      "minimo_ano": 138,
+      "data_minimo": "jun/2007"
+    },
+    {
+      "periodo": "2008",
+      "valor": 428,
+      "maximo_ano": 688,
+      "data_maximo": "23/10/2008"
+    },
+    {
+      "periodo": "2009",
+      "valor": 192
+    },
+    {
+      "periodo": "2010",
+      "valor": 189
+    },
+    {
+      "periodo": "2011",
+      "valor": 223
+    },
+    {
+      "periodo": "2012",
+      "valor": 142,
+      "minimo_ano": 137
+    },
+    {
+      "periodo": "2013",
+      "valor": 224
+    },
+    {
+      "periodo": "2014",
+      "valor": 259,
+      "maximo_ano": 318
+    },
+    {
+      "periodo": "2015",
+      "valor": 523,
+      "maximo_ano": 545,
+      "data_maximo": "21/12/2015"
+    },
+    {
+      "periodo": "2016",
+      "valor": 328,
+      "maximo_ano": 569,
+      "data_maximo": "11/02/2016"
+    },
+    {
+      "periodo": "2017",
+      "valor": 240
+    },
+    {
+      "periodo": "2018",
+      "valor": 276,
+      "maximo_ano": 349
+    },
+    {
+      "periodo": "2019",
+      "valor": 214
+    },
+    {
+      "periodo": "2020",
+      "valor": 260,
+      "maximo_ano": 476,
+      "data_maximo": "23/03/2020"
+    },
+    {
+      "periodo": "2021",
+      "valor": 326,
+      "maximo_ano": 375
+    },
+    {
+      "periodo": "2022",
+      "valor": 256,
+      "maximo_ano": 376
+    },
+    {
+      "periodo": "2023",
+      "valor": 195,
+      "maximo_ano": 278
+    },
+    {
+      "periodo": "2024 (até 30/07/2024)",
+      "valor": 228,
+      "maximo_ano": 238,
+      "parcial": true
+    }
+  ],
+  "faixas_referencia": [],
+  "notas_metodologicas": [
+    "A série do Ipeadata termina em 30/07/2024; não há fonte oficial gratuita para o EMBI+ depois disso.",
+    "Grau de investimento: obtido pelas três agências em 2008–2009 e perdido em 2015–2016 (datas e letras de rating não verificadas em fonte primária)."
+  ],
+  "lacunas": [
+    "EMBI+ e CDS após jul/2024 indisponíveis na nota.",
+    "Histórico de ratings soberanos é dado de memória, não verificado; não convertido em série."
+  ],
+  "ultimo_periodo": "2024 (até 30/07/2024)",
+  "temas": [
+    "economia"
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/01_macroeconomia_por_governo.md",
+  "atualizado_em": "2026-10-21"
+}

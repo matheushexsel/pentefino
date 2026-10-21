@@ -1,0 +1,783 @@
+{
+  "id": "conta-de-luz-quem-decide",
+  "pergunta": "Quem decide o valor da minha conta de luz?",
+  "resposta_curta": "A tarifa de cada distribuidora é homologada pela ANEEL, em reajuste anual e revisão periódica, a partir de custos que a agência separa em não gerenciáveis (compra de energia, transmissão, encargos: a 'Parcela A') e custos da própria distribuidora ('Parcela B'). O governo federal e o Congresso criam, por lei, encargos e subsídios pagos por todos os consumidores via Conta de Desenvolvimento Energético (CDE); os estados fixam o ICMS; a cor da bandeira tarifária depende de chuva e do uso de usinas térmicas. Nenhum presidente, governador ou prefeito fixa a tarifa de uma distribuidora, mas as leis que criam encargos e os contratos de concessão são decisões de governos e do Congresso.",
+  "temas": [
+    "energia"
+  ],
+  "cadeia_de_responsabilidade": [
+    {
+      "ator": "ANEEL (Agência Nacional de Energia Elétrica)",
+      "o_que_controla": "Homologa o reajuste anual e a revisão periódica de cada distribuidora em reunião pública da diretoria colegiada, com voto de diretor-relator (ex.: Enel SP 2026, relatora Agnes Costa, aprovado em 30/06/2026). Define todo mês a cor da bandeira tarifária e seus valores, homologa o orçamento da CDE, fiscaliza e multa as distribuidoras e recomenda (ou não) ao MME a caducidade de concessões.",
+      "o_que_nao_controla": "Os encargos setoriais, que 'são definidos por lei, não pela ANEEL'; o ICMS dos estados; a hidrologia; o preço do gás das térmicas.",
+      "peso": "alto",
+      "url": "https://agenciainfra.com/blog/aneel-aprova-reajuste-de-1018-nas-tarifas-da-enel-sp/"
+    },
+    {
+      "ator": "Distribuidora (ex.: Enel SP, privada desde 1998)",
+      "o_que_controla": "A Parcela B (custos próprios de operação e remuneração), a qualidade do serviço e os investimentos na rede. No reajuste de 2025 da Enel SP a Parcela B variou +1,02%; em 2026, +0,37 ponto percentual.",
+      "o_que_nao_controla": "A Parcela A (compra de energia, transmissão, encargos), que em 2025 variou +7,30% na Enel SP, nem os tributos.",
+      "peso": "medio",
+      "url": "https://www.osetoreletrico.com.br/?p=164719"
+    },
+    {
+      "ator": "Congresso Nacional",
+      "o_que_controla": "Cria por lei os encargos e subsídios pagos via CDE (Tarifa Social, fontes incentivadas, geração distribuída, Luz para Todos) e regras como a contratação obrigatória de térmicas na Lei 14.182/2021, o rateio da CDE e o teto da CDE a partir de 2027 (Lei 15.269/2025).",
+      "o_que_nao_controla": "A tarifa de cada distribuidora e a cor da bandeira.",
+      "peso": "alto",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/lei/L15269.htm"
+    },
+    {
+      "ator": "Governo federal (Presidência, MME, CNPE)",
+      "o_que_controla": "Propõe políticas por MP, decreto e projeto de lei (ex.: MP 1.300/2025, que zerou a conta de quem consome até 80 kWh no CadÚnico); decide a contratação de usinas e leilões via CNPE/MME; decide a política de preços da Petrobras para o gás das térmicas; dá a palavra final sobre a caducidade de uma concessão (MME).",
+      "o_que_nao_controla": "Não fixa a tarifa de nenhuma distribuidora, não define a cor da bandeira e não fixa o ICMS.",
+      "peso": "medio",
+      "url": "https://static.poder360.com.br/2025/12/3a-edicao-do-boletim-InfoTarifa-Aneel-Dezembro-2025.pdf"
+    },
+    {
+      "ator": "Estados (governadores e assembleias)",
+      "o_que_controla": "O ICMS sobre a energia, com alíquota média apurada de 18,0% (dez/2025). Desde a LC 194/2022 a alíquota fica limitada à modal (17–18%); o STF depois permitiu reincluir TUSD/TUST na base.",
+      "o_que_nao_controla": "Tarifa, encargos federais, bandeiras.",
+      "peso": "medio",
+      "url": "https://static.poder360.com.br/2023/11/NOTA-TECNICA-COMSEFAZ-023-2023-Impactos-das-LCs-192.22-e-LCs-194.22-sobre-arrecadacao-de-ICMS-dos-estados1-1.pdf"
+    },
+    {
+      "ator": "Consumidores de alta tensão vs. baixa tensão (rateio da CDE por lei)",
+      "o_que_controla": "Nada diretamente: o rateio da CDE é fixado em lei. A Lei 15.269/2025 mudou de BT 50% / MT 33% / AT 17% para BT 43% / MT 35% / AT 22%.",
+      "o_que_nao_controla": "O tamanho total da CDE.",
+      "peso": "baixo",
+      "url": "https://static.poder360.com.br/2025/12/3a-edicao-do-boletim-InfoTarifa-Aneel-Dezembro-2025.pdf"
+    },
+    {
+      "ator": "TCU e Justiça Federal",
+      "o_que_controla": "O TCU recomendou que MME e ANEEL analisem os custos de uma eventual caducidade da Enel SP; a Justiça Federal suspendeu e depois liberou o processo em mar/2026; o TCU chegou a suspender e liberou R$ 5 bi para abatimento de tarifas no N/NE em 2026.",
+      "o_que_nao_controla": "Reajustes tarifários.",
+      "peso": "baixo",
+      "url": "https://agenciainfra.com/blog/tag/enel-sp/"
+    }
+  ],
+  "composicao": [
+    {
+      "rotulo": "Energia (geração)",
+      "percentual": 30.4,
+      "fonte": {
+        "nome": "CLP – Energia cara no Brasil freia a competitividade, ago/2026 (PDF)",
+        "url": "https://static.poder360.com.br/uploads/2026/08/estudo-clp-Energia-cara-no-brasil-freia-a-competitividade-3ago2026.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      }
+    },
+    {
+      "rotulo": "Distribuição",
+      "percentual": 26.1,
+      "fonte": {
+        "nome": "CLP – Energia cara no Brasil freia a competitividade, ago/2026 (PDF)",
+        "url": "https://static.poder360.com.br/uploads/2026/08/estudo-clp-Energia-cara-no-brasil-freia-a-competitividade-3ago2026.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      }
+    },
+    {
+      "rotulo": "Tributos (ICMS, PIS/Cofins)",
+      "percentual": 18.1,
+      "fonte": {
+        "nome": "CLP – Energia cara no Brasil freia a competitividade, ago/2026 (PDF)",
+        "url": "https://static.poder360.com.br/uploads/2026/08/estudo-clp-Energia-cara-no-brasil-freia-a-competitividade-3ago2026.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      }
+    },
+    {
+      "rotulo": "Encargos setoriais (CDE e outros)",
+      "percentual": 15.2,
+      "fonte": {
+        "nome": "CLP – Energia cara no Brasil freia a competitividade, ago/2026 (PDF)",
+        "url": "https://static.poder360.com.br/uploads/2026/08/estudo-clp-Energia-cara-no-brasil-freia-a-competitividade-3ago2026.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      }
+    },
+    {
+      "rotulo": "Transmissão",
+      "percentual": 10.1,
+      "fonte": {
+        "nome": "CLP – Energia cara no Brasil freia a competitividade, ago/2026 (PDF)",
+        "url": "https://static.poder360.com.br/uploads/2026/08/estudo-clp-Energia-cara-no-brasil-freia-a-competitividade-3ago2026.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      }
+    }
+  ],
+  "linha_do_tempo": [
+    {
+      "data": "1998-04-15",
+      "evento": "Leilão da Eletropaulo (hoje Enel SP), arrematada sem ágio por R$ 2,026 bilhões pelo consórcio Lightgás; a AES virou controladora única em 2001.",
+      "url": "https://pt.wikipedia.org/wiki/Enel_Distribui%C3%A7%C3%A3o_S%C3%A3o_Paulo"
+    },
+    {
+      "data": "2015-01-01",
+      "evento": "Criação do sistema de bandeiras tarifárias (adicional mensal definido pela ANEEL).",
+      "url": "https://mais.opovo.com.br/jornal/farol/2025/02/01/aneel-anuncia-que-fevereiro-tera-bandeira-tarifaria-verde-sem-custo-adicional.html"
+    },
+    {
+      "data": "2016-11-28",
+      "evento": "Abradee: encargos e tributos eram 42,1% da conta; energia 39,7%, distribuição 15,6%, transmissão 2,7%.",
+      "url": "https://www.gazetadopovo.com.br/economia/energia-e-sustentabilidade/conta-de-luz-do-brasil-e-a-14-mais-cara-em-ranking-com-28-paises-4i4ih7q7mh5brcicudsfsc3x7"
+    },
+    {
+      "data": "2018-06-04",
+      "evento": "Enel Brasil compra 73,38% da Eletropaulo por R$ 5,55 bilhões; chega a 100% no fim de 2019 (mais R$ 256 milhões).",
+      "url": "https://pt.wikipedia.org/wiki/Enel_Distribui%C3%A7%C3%A3o_S%C3%A3o_Paulo"
+    },
+    {
+      "data": "2021-07-13",
+      "evento": "Sanção da Lei 14.182/2021 (privatização da Eletrobras), com contratação obrigatória de térmicas a gás e outros itens que associações estimam custar dezenas de bilhões aos consumidores.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/L14182.htm"
+    },
+    {
+      "data": "2022-06-23",
+      "evento": "LC 194/2022 classifica energia como essencial e limita o ICMS à alíquota modal (17–18%).",
+      "url": "https://static.poder360.com.br/2023/11/NOTA-TECNICA-COMSEFAZ-023-2023-Impactos-das-LCs-192.22-e-LCs-194.22-sobre-arrecadacao-de-ICMS-dos-estados1-1.pdf"
+    },
+    {
+      "data": "2023-11-03",
+      "evento": "Apagão em São Paulo: cerca de 4 milhões de pessoas sem luz, religação em até 7 dias em algumas regiões.",
+      "url": "https://www.poder360.com.br/energia/aneel-mantem-multa-de-r-165-milhoes-a-enel-por-apagao-em-sp"
+    },
+    {
+      "data": "2024-02-09",
+      "evento": "ANEEL multa a Enel SP em R$ 165,8 milhões pela demora na religação (multa mantida em abr/2024).",
+      "url": "https://mercadoeconsumo.com.br/09/02/2024/economia/aneel-aplica-multa-de-r-1658-milhoes-a-enel-sp-por-apagao-em-novembro/"
+    },
+    {
+      "data": "2024-10-11",
+      "evento": "Novo apagão em SP: mais de 2,1 milhões de endereços sem energia; prejuízo estimado pela FecomercioSP em R$ 1,65 bilhão; ANEEL abre processo de caducidade em 2024.",
+      "url": "https://edicao.correiobraziliense.com.br/correiobraziliense/2024/10/16/1023d7/pdf/A05-POL-1610-DIG.pdf"
+    },
+    {
+      "data": "2025-05-21",
+      "evento": "Lula assina a MP 1.300/2025 (reforma do setor elétrico e ampliação da Tarifa Social).",
+      "url": "https://www.congressoemfoco.com.br/noticia/108721/presidente-lula-assina-mp-da-reforma-do-setor-eletrico"
+    },
+    {
+      "data": "2025-07-01",
+      "evento": "ANEEL aprova reajuste de 13,94% da Enel SP (vigência 04/07/2025), puxado por encargos (+6,44 p.p.) e itens financeiros.",
+      "url": "https://www.poder360.com.br/poder-energia/aneel-aprova-reajuste-medio-de-1394-nas-tarifas-da-enel-sp/"
+    },
+    {
+      "data": "2025-07-05",
+      "evento": "Começa a gratuidade da conta para quem consome até 80 kWh/mês e está no CadÚnico, paga pela CDE.",
+      "url": "https://agenciainfra.com/blog/?p=30369"
+    },
+    {
+      "data": "2025-10-08",
+      "evento": "Lei 15.235/2025 converte a MP 1.300 (Tarifa Social: desconto de 100% até 80 kWh).",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/lei/L15235.htm"
+    },
+    {
+      "data": "2025-11-24",
+      "evento": "Lei 15.269/2025 (reforma do setor elétrico): abertura do mercado livre à baixa tensão, Desconto Social e teto da CDE a partir de 2027.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/lei/L15269.htm"
+    },
+    {
+      "data": "2025-12-05",
+      "evento": "ANEEL propõe CDE de R$ 52,7 bilhões para 2026 (R$ 47,8 bi via tarifas).",
+      "url": "https://agenciainfra.com/blog/?p=33412"
+    },
+    {
+      "data": "2025-12-31",
+      "evento": "Terceiro grande apagão em SP (dez/2025): mais de 4 milhões de imóveis afetados; relatora da ANEEL afirmou que as falhas não tiveram relação causal com a intensidade do evento climático.",
+      "url": "https://eixos.com.br/?p=540887"
+    },
+    {
+      "data": "2026-06-30",
+      "evento": "ANEEL aprova reajuste de 10,18% da Enel SP (residencial 9,02%), vigência 04/07/2026; itens financeiros respondem por 6,46 p.p.",
+      "url": "https://agenciainfra.com/blog/aneel-aprova-reajuste-de-1018-nas-tarifas-da-enel-sp/"
+    },
+    {
+      "data": "2026-10-06",
+      "evento": "Duas diretoras da ANEEL votam por recomendar ao MME a caducidade da concessão da Enel SP; um diretor pede vista; o caso volta em até 60 dias.",
+      "url": "https://eixos.com.br/?p=540887"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Tarifa residencial média (B1) sem tributos, referência dez/2026",
+      "valor": 851,
+      "unidade": "R$/MWh",
+      "periodo": "jun/2026",
+      "fonte": {
+        "nome": "SBT News – Conta de luz deve subir 8,6% em 2026, acima da inflação (12/06/2026)",
+        "url": "https://sbtnews.sbt.com.br/noticia/economia/conta-de-luz-deve-subir-8-6-em-2026-acima-da-inflacao",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Encargos setoriais na tarifa B1 sem tributos",
+      "valor": 20.6,
+      "unidade": "%",
+      "periodo": "jun/2026",
+      "fonte": {
+        "nome": "SBT News – Conta de luz deve subir 8,6% em 2026, acima da inflação (12/06/2026)",
+        "url": "https://sbtnews.sbt.com.br/noticia/economia/conta-de-luz-deve-subir-8-6-em-2026-acima-da-inflacao",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "ICMS médio 'por dentro' sobre a tarifa B1",
+      "valor": 18.0,
+      "unidade": "%",
+      "periodo": "dez/2025",
+      "fonte": {
+        "nome": "ANEEL – Boletim InfoTarifa nº 3, dez/2025 (PDF)",
+        "url": "https://static.poder360.com.br/2025/12/3a-edicao-do-boletim-InfoTarifa-Aneel-Dezembro-2025.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    {
+      "rotulo": "PIS/Cofins médio sobre a tarifa B1",
+      "valor": 4.9,
+      "unidade": "%",
+      "periodo": "dez/2025",
+      "fonte": {
+        "nome": "ANEEL – Boletim InfoTarifa nº 3, dez/2025 (PDF)",
+        "url": "https://static.poder360.com.br/2025/12/3a-edicao-do-boletim-InfoTarifa-Aneel-Dezembro-2025.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    {
+      "rotulo": "Peso médio da CDE na fatura",
+      "valor": 15,
+      "unidade": "%",
+      "periodo": "dez/2025",
+      "fonte": {
+        "nome": "ANEEL – Boletim InfoTarifa nº 3, dez/2025 (PDF)",
+        "url": "https://static.poder360.com.br/2025/12/3a-edicao-do-boletim-InfoTarifa-Aneel-Dezembro-2025.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    {
+      "rotulo": "Consumo médio residencial",
+      "valor": 165,
+      "unidade": "kWh/mês",
+      "periodo": "set/2025",
+      "fonte": {
+        "nome": "ANEEL – Boletim InfoTarifa nº 3, dez/2025 (PDF)",
+        "url": "https://static.poder360.com.br/2025/12/3a-edicao-do-boletim-InfoTarifa-Aneel-Dezembro-2025.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    {
+      "rotulo": "Efeito médio dos reajustes no Brasil em 2025",
+      "valor": 7.0,
+      "unidade": "%",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "ANEEL – Boletim InfoTarifa nº 3, dez/2025 (PDF)",
+        "url": "https://static.poder360.com.br/2025/12/3a-edicao-do-boletim-InfoTarifa-Aneel-Dezembro-2025.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "IPCA 2025",
+        "valor": 4.4
+      }
+    },
+    {
+      "rotulo": "Projeção ANEEL de alta média em 2026 (jun/2026)",
+      "valor": 8.6,
+      "unidade": "%",
+      "periodo": "2026",
+      "fonte": {
+        "nome": "SBT News – Conta de luz deve subir 8,6% em 2026, acima da inflação (12/06/2026)",
+        "url": "https://sbtnews.sbt.com.br/noticia/economia/conta-de-luz-deve-subir-8-6-em-2026-acima-da-inflacao",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "IPCA projetado 2026",
+        "valor": 4.9
+      }
+    },
+    {
+      "rotulo": "Projeção ANEEL de alta média em 2026 (edição set/2026 do InfoTarifa)",
+      "valor": 9.4,
+      "unidade": "%",
+      "periodo": "2026",
+      "fonte": {
+        "nome": "Agência iNFRA – tag CDE",
+        "url": "https://agenciainfra.com/blog/tag/cde/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "CDE 2025",
+      "valor": 49.2,
+      "unidade": "R$ bilhões",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "CLP – Energia cara no Brasil freia a competitividade, ago/2026 (PDF)",
+        "url": "https://static.poder360.com.br/uploads/2026/08/estudo-clp-Energia-cara-no-brasil-freia-a-competitividade-3ago2026.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      }
+    },
+    {
+      "rotulo": "CDE 2026 (proposta ANEEL)",
+      "valor": 52.7,
+      "unidade": "R$ bilhões",
+      "periodo": "2026",
+      "fonte": {
+        "nome": "Agência iNFRA – Orçamento da CDE 2026 (05/12/2025)",
+        "url": "https://agenciainfra.com/blog/?p=33412",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Subsídios na conta de luz (Subsidiômetro ANEEL)",
+      "valor": 56.3,
+      "unidade": "R$ bilhões",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "O Setor Elétrico – Reforma do setor elétrico redefine subsídios, impõe vetos e abre caminho para o mercado livre",
+        "url": "https://www.osetoreletrico.com.br/reforma-do-setor-eletrico-redefine-subsidios-impoe-vetos-e-abre-caminho-para-o-mercado-livre/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Maior tarifa B1 sem tributos (Equatorial PA)",
+      "valor": 978,
+      "unidade": "R$/MWh",
+      "periodo": "dez/2025",
+      "fonte": {
+        "nome": "ANEEL – Boletim InfoTarifa nº 3, dez/2025 (PDF)",
+        "url": "https://static.poder360.com.br/2025/12/3a-edicao-do-boletim-InfoTarifa-Aneel-Dezembro-2025.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "Menor (Hidropan)",
+        "valor": 605
+      }
+    },
+    {
+      "rotulo": "Tarifa B1 Enel SP sem tributos",
+      "valor": 725,
+      "unidade": "R$/MWh",
+      "periodo": "dez/2025",
+      "fonte": {
+        "nome": "ANEEL – Boletim InfoTarifa nº 3, dez/2025 (PDF)",
+        "url": "https://static.poder360.com.br/2025/12/3a-edicao-do-boletim-InfoTarifa-Aneel-Dezembro-2025.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    {
+      "rotulo": "Unidades consumidoras atendidas pela Enel SP",
+      "valor": 8900000,
+      "unidade": "unidades",
+      "periodo": "jun/2026",
+      "fonte": {
+        "nome": "Cenário Energia – ANEEL aprova reajuste da Enel São Paulo com efeito médio de 10,18% (30/06/2026)",
+        "url": "https://cenarioenergia.com.br/2026/06/30/aneel-aprova-reajuste-da-enel-sao-paulo-com-efeito-medio-de-1018/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Multas acumuladas pela Enel SP desde 2018",
+      "valor": 404,
+      "unidade": "R$ milhões",
+      "periodo": "2018–2026",
+      "fonte": {
+        "nome": "Wikipédia (pt) – Enel Distribuição São Paulo (fonte secundária)",
+        "url": "https://pt.wikipedia.org/wiki/Enel_Distribui%C3%A7%C3%A3o_S%C3%A3o_Paulo",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Custo preliminar estimado de uma caducidade da Enel SP (indenização de ativos não amortizados)",
+      "valor": 10,
+      "unidade": "R$ bilhões (acima de)",
+      "periodo": "out/2026",
+      "fonte": {
+        "nome": "eixos/Estadão Conteúdo – Votação da caducidade da Enel SP na ANEEL (06/10/2026)",
+        "url": "https://eixos.com.br/?p=540887",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Perdas totais de energia na distribuição",
+      "valor": 14.3,
+      "unidade": "%",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "CLP – Energia cara no Brasil freia a competitividade, ago/2026 (PDF)",
+        "url": "https://static.poder360.com.br/uploads/2026/08/estudo-clp-Energia-cara-no-brasil-freia-a-competitividade-3ago2026.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      }
+    }
+  ],
+  "series": [
+    "tarifa-residencial-vs-ipca",
+    "reajustes-enel-sp",
+    "cde-anual",
+    "bandeiras-tarifarias-mensais"
+  ],
+  "mitos_e_fatos": [
+    {
+      "mito": "O presidente pode baixar a conta de luz por decreto.",
+      "fato": "A tarifa de cada distribuidora é homologada pela ANEEL com base em contrato de concessão e custos. O governo federal influencia a conta por três canais: encargos criados em lei (CDE), decisões do CNPE/MME sobre contratação de usinas e a política de preços da Petrobras para o gás das térmicas. O que o Executivo fez em 2025 foi, por MP convertida em lei, zerar a conta de quem consome até 80 kWh no CadÚnico; esse custo é pago pelos demais consumidores via CDE, não pelo Tesouro.",
+      "fontes": [
+        {
+          "nome": "ANEEL – Boletim InfoTarifa nº 3, dez/2025 (PDF)",
+          "url": "https://static.poder360.com.br/2025/12/3a-edicao-do-boletim-InfoTarifa-Aneel-Dezembro-2025.pdf",
+          "acesso_em": "2026-10-21",
+          "tier": "oficial"
+        },
+        {
+          "nome": "Planalto – Lei 15.235/2025",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/lei/L15235.htm",
+          "acesso_em": "2026-10-21",
+          "tier": "oficial"
+        },
+        {
+          "nome": "eixos – Reforma do setor elétrico pode reduzir atratividade do mercado livre, diz Anace",
+          "url": "https://eixos.com.br/politica/congresso/reforma-do-setor-eletrico-pode-reduzir-atratividade-do-mercado-livre-diz-anace/",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        }
+      ]
+    },
+    {
+      "mito": "O governo federal aumentou a conta de luz da Enel.",
+      "fato": "Quem homologa o reajuste é a ANEEL. Em 2025 (13,94%) a agência atribuiu o aumento 'principalmente da elevação de custos que não são de responsabilidade e não são gerenciáveis pela companhia'; em 2026 (10,18%) a itens financeiros 'que não fazem parte da base econômica permanente das tarifas'. Os encargos que puxaram os reajustes vêm de leis aprovadas pelo Congresso e sancionadas por vários governos.",
+      "fontes": [
+        {
+          "nome": "Poder360 – ANEEL aprova reajuste médio de 13,94% nas tarifas da Enel SP",
+          "url": "https://www.poder360.com.br/poder-energia/aneel-aprova-reajuste-medio-de-1394-nas-tarifas-da-enel-sp/",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "SBT News – Conta de luz da Enel SP terá reajuste médio de 10,18%",
+          "url": "https://sbtnews.sbt.com.br/noticia/brasil/conta-de-luz-da-enel-sp-tera-reajuste-medio-de-10-18",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        }
+      ]
+    },
+    {
+      "mito": "A Enel aumentou a tarifa para lucrar mais.",
+      "fato": "A parte da tarifa que remunera a distribuidora (Parcela B) subiu 1,02% em 2025 e 0,37 ponto percentual em 2026; o grosso dos reajustes veio de encargos e componentes financeiros. Isso não apaga as falhas de serviço: a Enel SP acumula mais de R$ 404 milhões em multas desde 2018, inclusive R$ 165,8 milhões pelo apagão de nov/2023.",
+      "fontes": [
+        {
+          "nome": "O Setor Elétrico – Reajuste da Enel SP 2025",
+          "url": "https://www.osetoreletrico.com.br/?p=164719",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "Agência iNFRA – ANEEL aprova reajuste de 10,18% nas tarifas da Enel SP (30/06/2026)",
+          "url": "https://agenciainfra.com/blog/aneel-aprova-reajuste-de-1018-nas-tarifas-da-enel-sp/",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "Mercado&Consumo – ANEEL aplica multa de R$ 165,8 milhões à Enel SP (09/02/2024)",
+          "url": "https://mercadoeconsumo.com.br/09/02/2024/economia/aneel-aplica-multa-de-r-1658-milhoes-a-enel-sp-por-apagao-em-novembro/",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "Wikipédia (pt) – Enel Distribuição São Paulo (fonte secundária)",
+          "url": "https://pt.wikipedia.org/wiki/Enel_Distribui%C3%A7%C3%A3o_S%C3%A3o_Paulo",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        }
+      ]
+    },
+    {
+      "mito": "O governo já cassou a concessão da Enel em São Paulo.",
+      "fato": "Em 21/10/2026 não havia decisão final. Em 06/10/2026 duas diretoras da ANEEL votaram por recomendar a caducidade ao MME, um diretor pediu vista e o caso volta em até 60 dias. A decisão cabe ao MME, cujo ministro passou a falar em solução 'negociada'. A concessão vence em 2028.",
+      "fontes": [
+        {
+          "nome": "eixos/Estadão Conteúdo – Votação da caducidade da Enel SP na ANEEL (06/10/2026)",
+          "url": "https://eixos.com.br/?p=540887",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "Agência iNFRA – Caducidade da Enel SP (01/10/2026)",
+          "url": "https://agenciainfra.com/blog/?p=48315",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "Wikipédia (pt) – Enel Distribuição São Paulo (fonte secundária)",
+          "url": "https://pt.wikipedia.org/wiki/Enel_Distribui%C3%A7%C3%A3o_S%C3%A3o_Paulo",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        }
+      ]
+    },
+    {
+      "mito": "O custo da energia em si é a maior parte da conta.",
+      "fato": "A energia (geração) foi 30,4% da conta em 2025 segundo o CLP; distribuição 26,1%, tributos 18,1%, encargos 15,2% e transmissão 10,1%. Em qualquer base de cálculo, mais de dois terços da fatura não é 'custo da energia'.",
+      "fontes": [
+        {
+          "nome": "CLP – Energia cara no Brasil freia a competitividade, ago/2026 (PDF)",
+          "url": "https://static.poder360.com.br/uploads/2026/08/estudo-clp-Energia-cara-no-brasil-freia-a-competitividade-3ago2026.pdf",
+          "acesso_em": "2026-10-21",
+          "tier": "academico"
+        },
+        {
+          "nome": "Poder360 – ANEEL projeta alta de 8,6% na conta de luz em 2026",
+          "url": "https://poder360.com.br/poder-infra/aneel-projeta-alta-de-86-na-conta-de-luz-em-2026",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        }
+      ]
+    },
+    {
+      "mito": "A conta de luz acompanha a inflação.",
+      "fato": "Entre 2003 e 2024 a tarifa residencial subiu 269% contra IPCA de 218% (Abraceel); entre 2010 e 2024 o mercado regulado subiu 177% contra IPCA de 122%. Em 2025 o efeito médio foi 7,0% contra IPCA de 4,4%, 'principalmente devido ao aumento da CDE (Uso e GD)', segundo a ANEEL.",
+      "fontes": [
+        {
+          "nome": "Poder360/Abraceel – Tarifa de energia sobe 45% acima da inflação em 15 anos (09/06/2025)",
+          "url": "https://www.poder360.com.br/poder-energia/tarifa-de-energia-eletrica-sobe-45-acima-da-inflacao-em-15-anos/",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "ANEEL – Boletim InfoTarifa nº 3, dez/2025 (PDF)",
+          "url": "https://static.poder360.com.br/2025/12/3a-edicao-do-boletim-InfoTarifa-Aneel-Dezembro-2025.pdf",
+          "acesso_em": "2026-10-21",
+          "tier": "oficial"
+        }
+      ]
+    }
+  ],
+  "perguntas_frequentes": [
+    {
+      "pergunta": "O que são Parcela A e Parcela B?",
+      "resposta": "A ANEEL separa os custos não gerenciáveis pela distribuidora (compra de energia, transmissão e encargos: Parcela A) dos custos da própria distribuidora (Parcela B). No reajuste 2025 da Enel SP, a Parcela A variou +7,30% e a Parcela B +1,02%."
+    },
+    {
+      "pergunta": "Por que a conta subiu em 2025 e 2026 se a energia está barata?",
+      "resposta": "Segundo a ANEEL, os maiores motores do reajuste médio de 7,0% em 2025 foram os encargos setoriais (+4,1 p.p., sendo CDE Uso +1,2 e CDE GD +1,3); para 2026 pesam CDE Uso (+3,0 p.p.), CVA Energia (+2,9), CDE-Encargos (+2,9) e componentes financeiros (+4,3), parcialmente compensados por devolução de PIS/Cofins (R$ 5,3 bi) e recursos de UBP (R$ 4,3 bi)."
+    },
+    {
+      "pergunta": "Quem paga a Tarifa Social e os outros subsídios?",
+      "resposta": "Os demais consumidores, pela CDE. A proposta de CDE para 2026 soma R$ 52,7 bilhões, dos quais R$ 10,4 bilhões para a Tarifa Social (+33%), R$ 19,6 bilhões para descontos a fontes incentivadas e R$ 6,8 bilhões para geração distribuída (+87%). A Anace critica que o custo recai sobre os consumidores, não sobre o Tesouro."
+    },
+    {
+      "pergunta": "O governador pode baixar minha conta de luz?",
+      "resposta": "Só pela parcela do ICMS, cuja alíquota média apurada era 18,0% em dez/2025. A LC 194/2022 limitou o ICMS da energia à alíquota modal (17–18%); em 2023, 12 estados elevaram sua alíquota modal para 19–21%."
+    },
+    {
+      "pergunta": "Qual é a diferença entre a conta de SP e a de outros estados?",
+      "resposta": "A tarifa B1 sem tributos em dez/2025 ia de R$ 605/MWh (Hidropan) a R$ 978/MWh (Equatorial PA); Enel SP cobrava R$ 725, Enel RJ R$ 925, Cemig R$ 859, Light R$ 828 e Copel R$ 642."
+    },
+    {
+      "pergunta": "A privatização da Eletrobras baixou a conta?",
+      "resposta": "Não há balanço oficial do efeito líquido. A ANEEL registra alívio (R$ 32 bilhões à CDE em 25 anos e a quitação antecipada dos encargos CDE Covid e CDE Escassez em set/2024) e encarecimento (diminuição das cotas de garantia física, que elevou tarifas em 2025, e térmicas obrigatórias). Veja o explicador sobre a Eletrobras."
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "ANEEL – Boletim InfoTarifa nº 3, dez/2025 (PDF)",
+      "url": "https://static.poder360.com.br/2025/12/3a-edicao-do-boletim-InfoTarifa-Aneel-Dezembro-2025.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "SBT News – Conta de luz deve subir 8,6% em 2026, acima da inflação (12/06/2026)",
+      "url": "https://sbtnews.sbt.com.br/noticia/economia/conta-de-luz-deve-subir-8-6-em-2026-acima-da-inflacao",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Poder360 – ANEEL projeta alta de 8,6% na conta de luz em 2026",
+      "url": "https://poder360.com.br/poder-infra/aneel-projeta-alta-de-86-na-conta-de-luz-em-2026",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "CLP – Energia cara no Brasil freia a competitividade, ago/2026 (PDF)",
+      "url": "https://static.poder360.com.br/uploads/2026/08/estudo-clp-Energia-cara-no-brasil-freia-a-competitividade-3ago2026.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    },
+    {
+      "nome": "Gazeta do Povo/Estadão Conteúdo – Conta de luz do Brasil é a 14ª mais cara em ranking com 28 países (28/11/2016)",
+      "url": "https://www.gazetadopovo.com.br/economia/energia-e-sustentabilidade/conta-de-luz-do-brasil-e-a-14-mais-cara-em-ranking-com-28-paises-4i4ih7q7mh5brcicudsfsc3x7",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Esfera Energia (blog setorial) – Tarifa de energia elétrica",
+      "url": "https://blog.esferaenergia.com.br/economizar-em-casa/tarifa-de-energia-eletrica?amp=1",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Agência iNFRA – ANEEL aprova reajuste de 10,18% nas tarifas da Enel SP (30/06/2026)",
+      "url": "https://agenciainfra.com/blog/aneel-aprova-reajuste-de-1018-nas-tarifas-da-enel-sp/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "O Setor Elétrico – Reajuste da Enel SP 2025",
+      "url": "https://www.osetoreletrico.com.br/?p=164719",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Planalto – Lei 15.269/2025",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/lei/L15269.htm",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Planalto – Lei 15.235/2025",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/lei/L15235.htm",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Comsefaz – Nota Técnica 023/2023, impactos das LCs 192 e 194 (PDF)",
+      "url": "https://static.poder360.com.br/2023/11/NOTA-TECNICA-COMSEFAZ-023-2023-Impactos-das-LCs-192.22-e-LCs-194.22-sobre-arrecadacao-de-ICMS-dos-estados1-1.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Wikipédia (pt) – Enel Distribuição São Paulo (fonte secundária)",
+      "url": "https://pt.wikipedia.org/wiki/Enel_Distribui%C3%A7%C3%A3o_S%C3%A3o_Paulo",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Cenário Energia – ANEEL aprova reajuste da Enel São Paulo com efeito médio de 10,18% (30/06/2026)",
+      "url": "https://cenarioenergia.com.br/2026/06/30/aneel-aprova-reajuste-da-enel-sao-paulo-com-efeito-medio-de-1018/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Poder360 – ANEEL aprova reajuste médio de 13,94% nas tarifas da Enel SP",
+      "url": "https://www.poder360.com.br/poder-energia/aneel-aprova-reajuste-medio-de-1394-nas-tarifas-da-enel-sp/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "SBT News – Conta de luz da Enel SP terá reajuste médio de 10,18%",
+      "url": "https://sbtnews.sbt.com.br/noticia/brasil/conta-de-luz-da-enel-sp-tera-reajuste-medio-de-10-18",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Mercado&Consumo – ANEEL aplica multa de R$ 165,8 milhões à Enel SP (09/02/2024)",
+      "url": "https://mercadoeconsumo.com.br/09/02/2024/economia/aneel-aplica-multa-de-r-1658-milhoes-a-enel-sp-por-apagao-em-novembro/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Poder360 – ANEEL mantém multa de R$ 165 milhões à Enel por apagão em SP",
+      "url": "https://www.poder360.com.br/energia/aneel-mantem-multa-de-r-165-milhoes-a-enel-por-apagao-em-sp",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Correio Braziliense – Apagão em SP, 16/10/2024 (PDF)",
+      "url": "https://edicao.correiobraziliense.com.br/correiobraziliense/2024/10/16/1023d7/pdf/A05-POL-1610-DIG.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "eixos/Estadão Conteúdo – Votação da caducidade da Enel SP na ANEEL (06/10/2026)",
+      "url": "https://eixos.com.br/?p=540887",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Agência iNFRA – Caducidade da Enel SP (01/10/2026)",
+      "url": "https://agenciainfra.com/blog/?p=48315",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Agência iNFRA – tag Enel SP",
+      "url": "https://agenciainfra.com/blog/tag/enel-sp/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Agência iNFRA – Orçamento da CDE 2026 (05/12/2025)",
+      "url": "https://agenciainfra.com/blog/?p=33412",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Cenário Energia – CDE 2026 deve chegar a R$ 52,7 bilhões (05/12/2025)",
+      "url": "https://cenarioenergia.com.br/2025/12/05/cde-2026-deve-chegar-a-r-527-bilhoes-e-pressiona-debate-sobre-subsidios-no-setor-eletrico/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "O Setor Elétrico – Reforma do setor elétrico redefine subsídios, impõe vetos e abre caminho para o mercado livre",
+      "url": "https://www.osetoreletrico.com.br/reforma-do-setor-eletrico-redefine-subsidios-impoe-vetos-e-abre-caminho-para-o-mercado-livre/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "eixos – Reforma do setor elétrico pode reduzir atratividade do mercado livre, diz Anace",
+      "url": "https://eixos.com.br/politica/congresso/reforma-do-setor-eletrico-pode-reduzir-atratividade-do-mercado-livre-diz-anace/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Poder360/Abraceel – Tarifa de energia sobe 45% acima da inflação em 15 anos (09/06/2025)",
+      "url": "https://www.poder360.com.br/poder-energia/tarifa-de-energia-eletrica-sobe-45-acima-da-inflacao-em-15-anos/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Agência iNFRA – tag CDE",
+      "url": "https://agenciainfra.com/blog/tag/cde/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Congresso em Foco – Lula assina MP da reforma do setor elétrico (21/05/2025)",
+      "url": "https://www.congressoemfoco.com.br/noticia/108721/presidente-lula-assina-mp-da-reforma-do-setor-eletrico",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Agência iNFRA – Tarifa Social e Desconto Social (22/10/2025)",
+      "url": "https://agenciainfra.com/blog/?p=30369",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/06_energia_eletrobras_combustiveis.md",
+  "atualizado_em": "2026-10-21",
+  "lacunas": [
+    "O boletim InfoTarifa de jun/2026 (fonte dos R$ 851/MWh) não foi aberto diretamente; SBT e Poder360 divergem nos valores de distribuição (R$ 262 vs 292/MWh) e transmissão (R$ 60 vs 80/MWh).",
+    "A composição percentual usada é a do CLP (2025, com tributos); a composição oficial da ANEEL por componente não pôde ser extraída do PDF.",
+    "Páginas 'Entenda a tarifa' da ANEEL e texto da Lei 9.427/1996 não foram abertos; a descrição institucional se apoia nas fontes listadas.",
+    "Data exata da publicação da Lei 14.182/2021 usada na linha do tempo é a da notícia da sanção (13/07/2021), não conferida no DOU."
+  ]
+}

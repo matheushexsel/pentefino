@@ -1,0 +1,864 @@
+{
+  "id": "mensalao",
+  "nome": "Mensalão (Ação Penal 470)",
+  "periodo": {
+    "inicio": "2006-04",
+    "fim": "2014-03",
+    "nota": "Da denúncia da PGR (abr/2006) ao fim dos embargos infringentes no STF (mar/2014). O período exato dos fatos não está detalhado nas notas."
+  },
+  "governos_em_que_ocorreram_os_fatos": [
+    "lula-1-2"
+  ],
+  "governos_em_que_foi_investigado": [
+    "lula-1-2",
+    "dilma"
+  ],
+  "resumo_simples": [
+    "A PGR denunciou 40 pessoas em abril de 2006; 38 foram a julgamento no STF (um fez acordo e outro, José Janene, morreu).",
+    "O plenário do STF julgou o caso entre agosto e dezembro de 2012 e condenou 25 réus; após os embargos infringentes (mar/2014), ficaram 24 condenados, porque Breno Fischberg foi absolvido.",
+    "Em fevereiro de 2014, por 6 a 5, o STF absolveu do crime de formação de quadrilha José Dirceu, José Genoino e mais 6 réus, o que reduziu as penas.",
+    "As condenações são definitivas (STF em instância única) e nenhuma foi anulada depois. Em 2025 nenhum condenado estava preso: a maioria teve a pena extinta por indultos natalinos (Dilma 2014/2015; Temer 2017) ou já a cumpriu; Marcos Valério ainda cumpria pena em prisão domiciliar em junho de 2025."
+  ],
+  "valores": [
+    {
+      "rotulo": "Denunciados pela PGR (abr/2006)",
+      "valor": 40,
+      "unidade": "pessoas",
+      "fonte": {
+        "nome": "Wikipédia pt, Ação Penal 470 (índice)",
+        "url": "https://pt.wikipedia.org/wiki/A%C3%A7%C3%A3o_Penal_470",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Réus julgados pelo STF",
+      "valor": 38,
+      "unidade": "pessoas",
+      "fonte": {
+        "nome": "Gazeta do Povo, 11/06/2025: Mensalão 20 anos, como estão hoje os condenados",
+        "url": "https://www.gazetadopovo.com.br/ideias/mensalao-20-anos-como-estao-hoje-condenados-soltos-presos/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Condenados no julgamento de 2012",
+      "valor": 25,
+      "unidade": "pessoas",
+      "fonte": {
+        "nome": "Wikipédia pt, Ação Penal 470 (índice)",
+        "url": "https://pt.wikipedia.org/wiki/A%C3%A7%C3%A3o_Penal_470",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Condenados após os embargos infringentes (2014)",
+      "valor": 24,
+      "unidade": "pessoas",
+      "fonte": {
+        "nome": "Gazeta do Povo, 11/06/2025: Mensalão 20 anos, como estão hoje os condenados",
+        "url": "https://www.gazetadopovo.com.br/ideias/mensalao-20-anos-como-estao-hoje-condenados-soltos-presos/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Réus absolvidos do crime de quadrilha em fev/2014 (6 a 5)",
+      "valor": 8,
+      "unidade": "pessoas",
+      "fonte": {
+        "nome": "G1, fev/2014: por 6 a 5, STF absolve do crime de quadrilha Dirceu, Genoino e mais 6",
+        "url": "https://g1.globo.com/politica/mensalao/noticia/2014/02/por-6-5-supremo-absolve-do-crime-de-quadrilha-dirceu-genoino-e-mais-6.html",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Sessões do STF até concluir o julgamento",
+      "valor": 69,
+      "unidade": "sessões",
+      "fonte": {
+        "nome": "G1, mar/2014: STF conclui julgamento do mensalão após 69 sessões",
+        "url": "http://g1.globo.com/politica/mensalao/noticia/2014/03/apos-um-ano-e-meio-e-69-sessoes-stf-conclui-julgamento-do-mensalao.html",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Condenados com pena extinta por indultos de Natal (Dilma e Temer)",
+      "valor": 17,
+      "unidade": "pessoas",
+      "fonte": {
+        "nome": "Revista Oeste: todos os condenados pelo Mensalão estão soltos (fonte de opinião/política)",
+        "url": "https://revistaoeste.com/politica/todos-os-condenados-pelo-mensalao-estao-soltos/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "nao_verificado": true,
+      "nota": "Número de fonte de opinião/política, não confirmado em fonte oficial."
+    },
+    {
+      "rotulo": "Valor do esquema frequentemente citado (R$ 55 mi / R$ 141 mi)",
+      "valor": null,
+      "unidade": "R$ milhões",
+      "fonte": null,
+      "nao_verificado": true,
+      "nota": "Cifras não verificadas em fonte primária nesta pesquisa."
+    }
+  ],
+  "partidos": [
+    {
+      "partido": "PT",
+      "citados": null,
+      "denunciados": null,
+      "condenados_1a_instancia": null,
+      "condenados_definitivo": 5,
+      "condenacoes_anuladas": 0,
+      "nomes": [
+        "José Dirceu",
+        "José Genoino",
+        "Delúbio Soares",
+        "João Paulo Cunha",
+        "Henrique Pizzolato"
+      ],
+      "absolvidos": 4,
+      "nomes_absolvidos": [
+        "Anita Leocádia",
+        "João Magno",
+        "Professor Luizinho",
+        "Paulo Rocha"
+      ],
+      "fonte": {
+        "nome": "Exame, 05/11/2014 (atualizado 13/09/2016): onde estão os 24 condenados do mensalão",
+        "url": "https://exame.com/brasil/onde-estao-os-24-condenados-por-causa-do-mensalao/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "nota": "Contagem própria do pesquisador a partir das listas de condenados; STF julga em instância única, por isso não há coluna de 1ª instância."
+    },
+    {
+      "partido": "PTB",
+      "citados": null,
+      "denunciados": null,
+      "condenados_1a_instancia": null,
+      "condenados_definitivo": 3,
+      "condenacoes_anuladas": 0,
+      "nomes": [
+        "Roberto Jefferson",
+        "Romeu Queiroz",
+        "Emerson Palmieri"
+      ],
+      "fonte": {
+        "nome": "Exame, 05/11/2014 (atualizado 13/09/2016): onde estão os 24 condenados do mensalão",
+        "url": "https://exame.com/brasil/onde-estao-os-24-condenados-por-causa-do-mensalao/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "nota": "Contagem própria a partir das listas."
+    },
+    {
+      "partido": "PP",
+      "citados": null,
+      "denunciados": null,
+      "condenados_1a_instancia": null,
+      "condenados_definitivo": 3,
+      "condenacoes_anuladas": 0,
+      "nomes": [
+        "Pedro Corrêa",
+        "Pedro Henry",
+        "João Cláudio Genu"
+      ],
+      "fonte": {
+        "nome": "Exame, 05/11/2014 (atualizado 13/09/2016): onde estão os 24 condenados do mensalão",
+        "url": "https://exame.com/brasil/onde-estao-os-24-condenados-por-causa-do-mensalao/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "nota": "Contagem própria a partir das listas (2 parlamentares e 1 assessor)."
+    },
+    {
+      "partido": "PL/PR",
+      "citados": null,
+      "denunciados": null,
+      "condenados_1a_instancia": null,
+      "condenados_definitivo": 3,
+      "condenacoes_anuladas": 0,
+      "nomes": [
+        "Valdemar Costa Neto",
+        "Bispo Rodrigues (Carlos Alberto Rodrigues)",
+        "Jacinto Lamas"
+      ],
+      "fonte": {
+        "nome": "Exame, 05/11/2014 (atualizado 13/09/2016): onde estão os 24 condenados do mensalão",
+        "url": "https://exame.com/brasil/onde-estao-os-24-condenados-por-causa-do-mensalao/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "nota": "Contagem própria a partir das listas."
+    },
+    {
+      "partido": "PMDB",
+      "citados": null,
+      "denunciados": null,
+      "condenados_1a_instancia": null,
+      "condenados_definitivo": 1,
+      "condenacoes_anuladas": 0,
+      "nomes": [
+        "José Borba"
+      ],
+      "fonte": {
+        "nome": "Exame, 05/11/2014 (atualizado 13/09/2016): onde estão os 24 condenados do mensalão",
+        "url": "https://exame.com/brasil/onde-estao-os-24-condenados-por-causa-do-mensalao/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "nota": "Contagem própria a partir das listas."
+    },
+    {
+      "partido": "Sem partido (operadores privados: agências de Marcos Valério, Banco Rural, Bônus-Banval)",
+      "citados": null,
+      "denunciados": null,
+      "condenados_1a_instancia": null,
+      "condenados_definitivo": 11,
+      "condenacoes_anuladas": 0,
+      "fonte": {
+        "nome": "Exame, 05/11/2014 (atualizado 13/09/2016): onde estão os 24 condenados do mensalão",
+        "url": "https://exame.com/brasil/onde-estao-os-24-condenados-por-causa-do-mensalao/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "nota": "Contagem própria a partir das listas."
+    }
+  ],
+  "pessoas": [
+    {
+      "nome": "José Dirceu",
+      "partido_na_epoca": "PT",
+      "cargo": "ex-ministro da Casa Civil",
+      "crime": "corrupção ativa (absolvido de formação de quadrilha em 2014)",
+      "tribunal": "STF (Ação Penal 470, instância única)",
+      "data_condenacao": "2012",
+      "pena": "7 anos e 11 meses (inicial 10a10m) + multa de R$ 971 mil",
+      "status_atual": "Cumpriu cerca de 1 ano em regime fechado e depois domiciliar; pena extinta por indulto natalino (governo Dilma). Em 2025 estava 'ficha limpa'; candidato a deputado federal (PT-SP) em 2026, não eleito (78.450 votos). As anulações de 2024 que o beneficiaram referem-se à Lava Jato, não à AP 470.",
+      "status_categoria": "condenado-definitivo",
+      "url": "https://pt.wikipedia.org/wiki/Jos%C3%A9_Dirceu"
+    },
+    {
+      "nome": "José Genoino",
+      "partido_na_epoca": "PT",
+      "cargo": "ex-presidente do PT",
+      "crime": "corrupção ativa (absolvido de quadrilha em 2014)",
+      "tribunal": "STF (Ação Penal 470, instância única)",
+      "data_condenacao": "2012",
+      "pena": "4 anos e 8 meses (inicial 6a11m)",
+      "status_atual": "Pena extinta pelo STF em 2014 (indulto).",
+      "status_categoria": "condenado-definitivo",
+      "url": "https://exame.com/brasil/onde-estao-os-24-condenados-por-causa-do-mensalao/"
+    },
+    {
+      "nome": "Delúbio Soares",
+      "partido_na_epoca": "PT",
+      "cargo": "ex-tesoureiro do PT",
+      "crime": "corrupção ativa",
+      "tribunal": "STF (Ação Penal 470, instância única)",
+      "data_condenacao": "2012",
+      "pena": "6 anos e 8 meses (inicial 8a11m) + multa de R$ 466 mil",
+      "status_atual": "Cumpriu 2 anos e 3 meses em regime fechado; indulto concedido (decisão do ministro Barroso); livre.",
+      "status_categoria": "condenado-definitivo",
+      "url": "https://exame.com/brasil/onde-estao-os-24-condenados-por-causa-do-mensalao/"
+    },
+    {
+      "nome": "João Paulo Cunha",
+      "partido_na_epoca": "PT-SP",
+      "cargo": "deputado federal",
+      "crime": "corrupção passiva, peculato e lavagem de dinheiro",
+      "tribunal": "STF (Ação Penal 470, instância única)",
+      "data_condenacao": "2012",
+      "pena": "6 anos e 4 meses (inicial 9a4m)",
+      "status_atual": "Cumpriu em semiaberto e depois domiciliar; livre.",
+      "status_categoria": "pena-cumprida",
+      "url": "https://exame.com/brasil/onde-estao-os-24-condenados-por-causa-do-mensalao/"
+    },
+    {
+      "nome": "Henrique Pizzolato",
+      "partido_na_epoca": "PT",
+      "cargo": "ex-diretor do Banco do Brasil",
+      "crime": "peculato, corrupção passiva e lavagem de dinheiro",
+      "tribunal": "STF (Ação Penal 470, instância única)",
+      "data_condenacao": "2012",
+      "pena": "12 anos e 7 meses",
+      "status_atual": "Fugiu para a Itália em 2013; extraditado em 2015 (a extradição não está coberta pelas fontes das notas). Situação em 2026 não confirmada.",
+      "status_categoria": "condenado-definitivo",
+      "url": "https://exame.com/brasil/onde-estao-os-24-condenados-por-causa-do-mensalao/",
+      "nao_verificado": true
+    },
+    {
+      "nome": "Roberto Jefferson",
+      "partido_na_epoca": "PTB-RJ",
+      "cargo": "deputado federal (delator do caso)",
+      "crime": "corrupção passiva e lavagem de dinheiro",
+      "tribunal": "STF (Ação Penal 470, instância única)",
+      "data_condenacao": "2012",
+      "pena": "7 anos e 14 dias + multa de R$ 689 mil",
+      "status_atual": "Preso em 2014; regime aberto em 2015; indulto em 2015. Em 2025 estava em prisão domiciliar humanitária por outro caso (STF/Moraes, 2022), sem relação com a AP 470.",
+      "status_categoria": "condenado-definitivo",
+      "url": "https://exame.com/brasil/onde-estao-os-24-condenados-por-causa-do-mensalao/"
+    },
+    {
+      "nome": "Romeu Queiroz",
+      "partido_na_epoca": "PTB-MG",
+      "cargo": "deputado federal",
+      "crime": "corrupção passiva e lavagem de dinheiro",
+      "tribunal": "STF (Ação Penal 470, instância única)",
+      "data_condenacao": "2012",
+      "pena": "6 anos e 6 meses",
+      "status_atual": "Cumpriu em regime semiaberto (MG).",
+      "status_categoria": "pena-cumprida",
+      "url": "https://exame.com/brasil/onde-estao-os-24-condenados-por-causa-do-mensalao/"
+    },
+    {
+      "nome": "Emerson Palmieri",
+      "partido_na_epoca": "PTB",
+      "cargo": "ex-tesoureiro do PTB",
+      "crime": "corrupção passiva e lavagem de dinheiro",
+      "tribunal": "STF (Ação Penal 470, instância única)",
+      "data_condenacao": "2012",
+      "pena": "4 anos (pena restritiva de direitos)",
+      "status_atual": "Situação atual não informada nas notas.",
+      "status_categoria": "condenado-definitivo",
+      "url": "https://exame.com/brasil/onde-estao-os-24-condenados-por-causa-do-mensalao/",
+      "nao_verificado": true
+    },
+    {
+      "nome": "Pedro Corrêa",
+      "partido_na_epoca": "PP-PE",
+      "cargo": "deputado federal (cassado)",
+      "crime": "corrupção passiva e lavagem de dinheiro (quadrilha incluída na pena inicial de 9a5m)",
+      "tribunal": "STF (Ação Penal 470, instância única)",
+      "data_condenacao": "2012",
+      "pena": "7 anos e 2 meses (após embargos) + multa de R$ 1,08 mi",
+      "status_atual": "Cumpria pena em Pernambuco quando foi preso na Lava Jato (abr/2015). Ver também o registro em lava-jato-petrolao.",
+      "status_categoria": "condenado-definitivo",
+      "url": "https://exame.com/brasil/onde-estao-os-24-condenados-por-causa-do-mensalao/"
+    },
+    {
+      "nome": "Pedro Henry",
+      "partido_na_epoca": "PP-MT",
+      "cargo": "deputado federal",
+      "crime": "corrupção passiva e lavagem de dinheiro",
+      "tribunal": "STF (Ação Penal 470, instância única)",
+      "data_condenacao": "2012",
+      "pena": "7 anos e 2 meses",
+      "status_atual": "Cumpriu em semiaberto e depois domiciliar.",
+      "status_categoria": "pena-cumprida",
+      "url": "https://exame.com/brasil/onde-estao-os-24-condenados-por-causa-do-mensalao/"
+    },
+    {
+      "nome": "João Cláudio Genu",
+      "partido_na_epoca": "PP",
+      "cargo": "assessor parlamentar",
+      "crime": "corrupção passiva e lavagem de dinheiro",
+      "tribunal": "STF (Ação Penal 470, instância única)",
+      "data_condenacao": "2012",
+      "pena": "7 anos e 3 meses",
+      "status_atual": "Situação atual não informada nas notas.",
+      "status_categoria": "condenado-definitivo",
+      "url": "https://exame.com/brasil/onde-estao-os-24-condenados-por-causa-do-mensalao/",
+      "nao_verificado": true
+    },
+    {
+      "nome": "Valdemar Costa Neto",
+      "partido_na_epoca": "PL/PR-SP",
+      "cargo": "deputado federal",
+      "crime": "corrupção passiva e lavagem de dinheiro",
+      "tribunal": "STF (Ação Penal 470, instância única)",
+      "data_condenacao": "2012",
+      "pena": "7 anos e 10 meses + multa de R$ 1,67 mi",
+      "status_atual": "Cumpriu cerca de 1 ano na Papuda e depois domiciliar; indulto. Hoje é presidente nacional do PL.",
+      "status_categoria": "condenado-definitivo",
+      "url": "https://exame.com/brasil/onde-estao-os-24-condenados-por-causa-do-mensalao/"
+    },
+    {
+      "nome": "Bispo Rodrigues (Carlos Alberto Rodrigues)",
+      "partido_na_epoca": "PL/PR-RJ",
+      "cargo": "deputado federal",
+      "crime": "corrupção passiva e lavagem de dinheiro",
+      "tribunal": "STF (Ação Penal 470, instância única)",
+      "data_condenacao": "2012",
+      "pena": "6 anos e 3 meses",
+      "status_atual": "Cumpriu em domiciliar; livre.",
+      "status_categoria": "pena-cumprida",
+      "url": "https://exame.com/brasil/onde-estao-os-24-condenados-por-causa-do-mensalao/"
+    },
+    {
+      "nome": "Jacinto Lamas",
+      "partido_na_epoca": "PL",
+      "cargo": "ex-tesoureiro do PL",
+      "crime": "corrupção passiva e lavagem de dinheiro",
+      "tribunal": "STF (Ação Penal 470, instância única)",
+      "data_condenacao": "2012",
+      "pena": "5 anos",
+      "status_atual": "Cumpriu em domiciliar; livre.",
+      "status_categoria": "pena-cumprida",
+      "url": "https://exame.com/brasil/onde-estao-os-24-condenados-por-causa-do-mensalao/"
+    },
+    {
+      "nome": "José Borba",
+      "partido_na_epoca": "PMDB-PR",
+      "cargo": "deputado federal",
+      "crime": "corrupção passiva",
+      "tribunal": "STF (Ação Penal 470, instância única)",
+      "data_condenacao": "2012",
+      "pena": "2 anos e 6 meses, convertida em pena alternativa + multa",
+      "status_atual": "Não foi preso (pena convertida em restritiva de direitos).",
+      "status_categoria": "condenado-definitivo",
+      "url": "https://exame.com/brasil/onde-estao-os-24-condenados-por-causa-do-mensalao/"
+    },
+    {
+      "nome": "Marcos Valério",
+      "partido_na_epoca": "sem partido (publicitário, SMP&B)",
+      "cargo": "publicitário, operador do esquema",
+      "crime": "corrupção ativa, peculato, lavagem de dinheiro e evasão de divisas",
+      "tribunal": "STF (Ação Penal 470, instância única)",
+      "data_condenacao": "2012",
+      "pena": "cerca de 37 anos e 5 meses (Exame) / 40 anos, 4 meses e 6 dias (pena inicial, Wikipédia)",
+      "status_atual": "Cumpriu 6 anos em regime fechado, depois semiaberto e domiciliar na pandemia; em junho de 2025 ainda cumpria pena em prisão domiciliar. Situação em 2026 não confirmada.",
+      "status_categoria": "cumprindo-pena",
+      "url": "https://www.gazetadopovo.com.br/ideias/mensalao-20-anos-como-estao-hoje-condenados-soltos-presos/",
+      "nao_verificado": true
+    },
+    {
+      "nome": "Ramon Hollerbach",
+      "partido_na_epoca": "sem partido (sócio de Marcos Valério)",
+      "cargo": "empresário",
+      "crime": "corrupção ativa, peculato, lavagem de dinheiro e evasão de divisas",
+      "tribunal": "STF (Ação Penal 470, instância única)",
+      "data_condenacao": "2012",
+      "pena": "27 anos, 4 meses e 20 dias",
+      "status_atual": "Preso na Papuda em 2014; situação em 2026 não confirmada.",
+      "status_categoria": "condenado-definitivo",
+      "url": "https://exame.com/brasil/onde-estao-os-24-condenados-por-causa-do-mensalao/",
+      "nao_verificado": true
+    },
+    {
+      "nome": "Cristiano Paz",
+      "partido_na_epoca": "sem partido (sócio de Marcos Valério)",
+      "cargo": "empresário",
+      "crime": "corrupção ativa, peculato e lavagem de dinheiro",
+      "tribunal": "STF (Ação Penal 470, instância única)",
+      "data_condenacao": "2012",
+      "pena": "23 anos, 8 meses e 20 dias (inicial 25a11m)",
+      "status_atual": "Situação atual não informada nas notas.",
+      "status_categoria": "condenado-definitivo",
+      "url": "https://exame.com/brasil/onde-estao-os-24-condenados-por-causa-do-mensalao/",
+      "nao_verificado": true
+    },
+    {
+      "nome": "Rogério Tolentino",
+      "partido_na_epoca": "sem partido (advogado de Marcos Valério)",
+      "cargo": "advogado",
+      "crime": "corrupção ativa e lavagem de dinheiro",
+      "tribunal": "STF (Ação Penal 470, instância única)",
+      "data_condenacao": "2012",
+      "pena": "8 anos e 5 meses",
+      "status_atual": "Situação atual não informada nas notas.",
+      "status_categoria": "condenado-definitivo",
+      "url": "https://exame.com/brasil/onde-estao-os-24-condenados-por-causa-do-mensalao/",
+      "nao_verificado": true
+    },
+    {
+      "nome": "Simone Vasconcelos",
+      "partido_na_epoca": "sem partido (SMP&B)",
+      "cargo": "executiva da SMP&B",
+      "crime": "lavagem de dinheiro, corrupção ativa e evasão de divisas",
+      "tribunal": "STF (Ação Penal 470, instância única)",
+      "data_condenacao": "2012",
+      "pena": "12 anos, 7 meses e 20 dias",
+      "status_atual": "Situação atual não informada nas notas.",
+      "status_categoria": "condenado-definitivo",
+      "url": "https://exame.com/brasil/onde-estao-os-24-condenados-por-causa-do-mensalao/",
+      "nao_verificado": true
+    },
+    {
+      "nome": "Kátia Rabello",
+      "partido_na_epoca": "sem partido (Banco Rural)",
+      "cargo": "presidente do Banco Rural",
+      "crime": "lavagem de dinheiro, gestão fraudulenta e evasão de divisas",
+      "tribunal": "STF (Ação Penal 470, instância única)",
+      "data_condenacao": "2012",
+      "pena": "14 anos e 5 meses (inicial 16a8m)",
+      "status_atual": "Situação em 2026 não confirmada além de jun/2025.",
+      "status_categoria": "condenado-definitivo",
+      "url": "https://exame.com/brasil/onde-estao-os-24-condenados-por-causa-do-mensalao/",
+      "nao_verificado": true
+    },
+    {
+      "nome": "José Roberto Salgado",
+      "partido_na_epoca": "sem partido (Banco Rural)",
+      "cargo": "executivo do Banco Rural",
+      "crime": "lavagem de dinheiro, gestão fraudulenta e evasão de divisas",
+      "tribunal": "STF (Ação Penal 470, instância única)",
+      "data_condenacao": "2012",
+      "pena": "14 anos e 5 meses",
+      "status_atual": "Preso em Minas Gerais em 2014; situação atual não informada.",
+      "status_categoria": "condenado-definitivo",
+      "url": "https://exame.com/brasil/onde-estao-os-24-condenados-por-causa-do-mensalao/",
+      "nao_verificado": true
+    },
+    {
+      "nome": "Vinícius Samarane",
+      "partido_na_epoca": "sem partido (Banco Rural)",
+      "cargo": "executivo do Banco Rural",
+      "crime": "lavagem de dinheiro e gestão fraudulenta",
+      "tribunal": "STF (Ação Penal 470, instância única)",
+      "data_condenacao": "2012",
+      "pena": "8 anos, 9 meses e 10 dias",
+      "status_atual": "Preso em Minas Gerais em 2014; situação atual não informada.",
+      "status_categoria": "condenado-definitivo",
+      "url": "https://exame.com/brasil/onde-estao-os-24-condenados-por-causa-do-mensalao/",
+      "nao_verificado": true
+    },
+    {
+      "nome": "Enivaldo Quadrado",
+      "partido_na_epoca": "sem partido (Bônus-Banval)",
+      "cargo": "corretor",
+      "crime": "lavagem de dinheiro",
+      "tribunal": "STF (Ação Penal 470, instância única)",
+      "data_condenacao": "2012",
+      "pena": "3 anos e 6 meses (pena alternativa)",
+      "status_atual": "Não foi preso.",
+      "status_categoria": "condenado-definitivo",
+      "url": "https://exame.com/brasil/onde-estao-os-24-condenados-por-causa-do-mensalao/"
+    },
+    {
+      "nome": "Breno Fischberg",
+      "partido_na_epoca": "sem partido (Bônus-Banval)",
+      "cargo": "corretor",
+      "crime": "lavagem de dinheiro (acusação)",
+      "tribunal": "STF (AP 470)",
+      "data_condenacao": "2012",
+      "pena": "3 anos e 6 meses na condenação de 2012; absolvido nos embargos infringentes (2014)",
+      "status_atual": "Absolvido nos embargos infringentes de 2014, o que reduziu o total de condenados de 25 para 24.",
+      "status_categoria": "absolvido",
+      "url": "https://pt.wikipedia.org/wiki/A%C3%A7%C3%A3o_Penal_470"
+    },
+    {
+      "nome": "Anita Leocádia",
+      "partido_na_epoca": "PT",
+      "cargo": "não informado nas notas",
+      "crime": "acusações da denúncia da PGR (não detalhadas nas notas)",
+      "tribunal": "STF (AP 470)",
+      "data_condenacao": null,
+      "pena": null,
+      "status_atual": "Absolvido pelo STF, segundo a lista de denunciados e julgados.",
+      "status_categoria": "absolvido",
+      "url": "https://pt.wikipedia.org/wiki/Lista_de_denunciados_e_julgados_do_Esc%C3%A2ndalo_do_Mensal%C3%A3o"
+    },
+    {
+      "nome": "João Magno",
+      "partido_na_epoca": "PT",
+      "cargo": "deputado federal",
+      "crime": "acusações da denúncia da PGR (não detalhadas nas notas)",
+      "tribunal": "STF (AP 470)",
+      "data_condenacao": null,
+      "pena": null,
+      "status_atual": "Absolvido pelo STF, segundo a lista de denunciados e julgados.",
+      "status_categoria": "absolvido",
+      "url": "https://pt.wikipedia.org/wiki/Lista_de_denunciados_e_julgados_do_Esc%C3%A2ndalo_do_Mensal%C3%A3o"
+    },
+    {
+      "nome": "Professor Luizinho",
+      "partido_na_epoca": "PT",
+      "cargo": "deputado federal",
+      "crime": "acusações da denúncia da PGR (não detalhadas nas notas)",
+      "tribunal": "STF (AP 470)",
+      "data_condenacao": null,
+      "pena": null,
+      "status_atual": "Absolvido pelo STF, segundo a lista de denunciados e julgados.",
+      "status_categoria": "absolvido",
+      "url": "https://pt.wikipedia.org/wiki/Lista_de_denunciados_e_julgados_do_Esc%C3%A2ndalo_do_Mensal%C3%A3o"
+    },
+    {
+      "nome": "Paulo Rocha",
+      "partido_na_epoca": "PT",
+      "cargo": "deputado federal",
+      "crime": "acusações da denúncia da PGR (não detalhadas nas notas)",
+      "tribunal": "STF (AP 470)",
+      "data_condenacao": null,
+      "pena": null,
+      "status_atual": "Absolvido pelo STF, segundo a lista de denunciados e julgados.",
+      "status_categoria": "absolvido",
+      "url": "https://pt.wikipedia.org/wiki/Lista_de_denunciados_e_julgados_do_Esc%C3%A2ndalo_do_Mensal%C3%A3o"
+    },
+    {
+      "nome": "Luiz Gushiken",
+      "partido_na_epoca": "não informado nas notas",
+      "cargo": "ex-ministro",
+      "crime": "acusações da denúncia da PGR (não detalhadas nas notas)",
+      "tribunal": "STF (AP 470)",
+      "data_condenacao": null,
+      "pena": null,
+      "status_atual": "Absolvido pelo STF, segundo a lista de denunciados e julgados.",
+      "status_categoria": "absolvido",
+      "url": "https://pt.wikipedia.org/wiki/Lista_de_denunciados_e_julgados_do_Esc%C3%A2ndalo_do_Mensal%C3%A3o"
+    },
+    {
+      "nome": "Duda Mendonça",
+      "partido_na_epoca": "sem partido (publicitário)",
+      "cargo": "publicitário",
+      "crime": "acusações da denúncia da PGR (não detalhadas nas notas)",
+      "tribunal": "STF (AP 470)",
+      "data_condenacao": null,
+      "pena": null,
+      "status_atual": "Absolvido pelo STF, segundo a lista de denunciados e julgados.",
+      "status_categoria": "absolvido",
+      "url": "https://pt.wikipedia.org/wiki/Lista_de_denunciados_e_julgados_do_Esc%C3%A2ndalo_do_Mensal%C3%A3o"
+    },
+    {
+      "nome": "Zilmar Fernandes",
+      "partido_na_epoca": "sem partido",
+      "cargo": "sócia de Duda Mendonça",
+      "crime": "acusações da denúncia da PGR (não detalhadas nas notas)",
+      "tribunal": "STF (AP 470)",
+      "data_condenacao": null,
+      "pena": null,
+      "status_atual": "Absolvido pelo STF, segundo a lista de denunciados e julgados.",
+      "status_categoria": "absolvido",
+      "url": "https://pt.wikipedia.org/wiki/Lista_de_denunciados_e_julgados_do_Esc%C3%A2ndalo_do_Mensal%C3%A3o"
+    },
+    {
+      "nome": "Geiza Dias",
+      "partido_na_epoca": "sem partido",
+      "cargo": "funcionária da SMP&B",
+      "crime": "acusações da denúncia da PGR (não detalhadas nas notas)",
+      "tribunal": "STF (AP 470)",
+      "data_condenacao": null,
+      "pena": null,
+      "status_atual": "Absolvido pelo STF, segundo a lista de denunciados e julgados.",
+      "status_categoria": "absolvido",
+      "url": "https://pt.wikipedia.org/wiki/Lista_de_denunciados_e_julgados_do_Esc%C3%A2ndalo_do_Mensal%C3%A3o"
+    },
+    {
+      "nome": "Ayanna Tenório",
+      "partido_na_epoca": "sem partido (Banco Rural)",
+      "cargo": "executiva",
+      "crime": "acusações da denúncia da PGR (não detalhadas nas notas)",
+      "tribunal": "STF (AP 470)",
+      "data_condenacao": null,
+      "pena": null,
+      "status_atual": "Absolvido pelo STF, segundo a lista de denunciados e julgados.",
+      "status_categoria": "absolvido",
+      "url": "https://pt.wikipedia.org/wiki/Lista_de_denunciados_e_julgados_do_Esc%C3%A2ndalo_do_Mensal%C3%A3o"
+    },
+    {
+      "nome": "Antônio Lamas",
+      "partido_na_epoca": "não informado nas notas",
+      "cargo": "não informado nas notas",
+      "crime": "acusações da denúncia da PGR (não detalhadas nas notas)",
+      "tribunal": "STF (AP 470)",
+      "data_condenacao": null,
+      "pena": null,
+      "status_atual": "Absolvido pelo STF, segundo a lista de denunciados e julgados.",
+      "status_categoria": "absolvido",
+      "url": "https://pt.wikipedia.org/wiki/Lista_de_denunciados_e_julgados_do_Esc%C3%A2ndalo_do_Mensal%C3%A3o"
+    },
+    {
+      "nome": "José Luiz Alves",
+      "partido_na_epoca": "não informado nas notas",
+      "cargo": "não informado nas notas",
+      "crime": "acusações da denúncia da PGR (não detalhadas nas notas)",
+      "tribunal": "STF (AP 470)",
+      "data_condenacao": null,
+      "pena": null,
+      "status_atual": "Absolvido pelo STF, segundo a lista de denunciados e julgados.",
+      "status_categoria": "absolvido",
+      "url": "https://pt.wikipedia.org/wiki/Lista_de_denunciados_e_julgados_do_Esc%C3%A2ndalo_do_Mensal%C3%A3o"
+    },
+    {
+      "nome": "Anderson Adauto",
+      "partido_na_epoca": "não informado nas notas",
+      "cargo": "ex-ministro dos Transportes",
+      "crime": "acusações da denúncia da PGR (não detalhadas nas notas)",
+      "tribunal": "STF (AP 470)",
+      "data_condenacao": null,
+      "pena": null,
+      "status_atual": "Absolvido pelo STF, segundo a lista de denunciados e julgados.",
+      "status_categoria": "absolvido",
+      "url": "https://pt.wikipedia.org/wiki/Lista_de_denunciados_e_julgados_do_Esc%C3%A2ndalo_do_Mensal%C3%A3o"
+    },
+    {
+      "nome": "Sílvio Pereira",
+      "partido_na_epoca": "PT",
+      "cargo": "ex-secretário-geral do PT",
+      "crime": "acusação da denúncia (não detalhada nas notas)",
+      "tribunal": "STF (AP 470)",
+      "data_condenacao": null,
+      "pena": "transação penal: 750 horas de serviços comunitários",
+      "status_atual": "Fez transação penal (750 horas de serviços comunitários); não foi julgado nem condenado.",
+      "status_categoria": "arquivado",
+      "url": "https://pt.wikipedia.org/wiki/Lista_de_denunciados_e_julgados_do_Esc%C3%A2ndalo_do_Mensal%C3%A3o"
+    },
+    {
+      "nome": "Carlos Alberto Quaglia",
+      "partido_na_epoca": "sem partido",
+      "cargo": "não informado nas notas",
+      "crime": "acusação da denúncia (não detalhada nas notas)",
+      "tribunal": "STF (AP 470)",
+      "data_condenacao": null,
+      "pena": null,
+      "status_atual": "Processo desmembrado/anulado em relação a ele, segundo a lista de denunciados e julgados; desfecho posterior não informado nas notas.",
+      "status_categoria": "anulada",
+      "url": "https://pt.wikipedia.org/wiki/Lista_de_denunciados_e_julgados_do_Esc%C3%A2ndalo_do_Mensal%C3%A3o",
+      "nao_verificado": true
+    },
+    {
+      "nome": "José Janene",
+      "partido_na_epoca": "PP",
+      "cargo": "deputado federal",
+      "crime": "acusação da denúncia (não detalhada nas notas)",
+      "tribunal": "STF (AP 470)",
+      "data_condenacao": null,
+      "pena": null,
+      "status_atual": "Morreu antes do julgamento; processo extinto.",
+      "status_categoria": "arquivado",
+      "url": "https://pt.wikipedia.org/wiki/A%C3%A7%C3%A3o_Penal_470"
+    }
+  ],
+  "linha_do_tempo": [
+    {
+      "data": "2006-04",
+      "evento": "PGR apresenta denúncia com 40 nomes.",
+      "url": "https://pt.wikipedia.org/wiki/A%C3%A7%C3%A3o_Penal_470"
+    },
+    {
+      "data": "2012-08",
+      "evento": "Início do julgamento da AP 470 no plenário do STF (ago–dez/2012); 25 réus condenados.",
+      "url": "http://portal.stf.jus.br/processos/detalhe.asp?incidente=11541"
+    },
+    {
+      "data": "2012-12-17",
+      "evento": "PGR publica quadro oficial de réus, crimes e penas.",
+      "url": "http://noticias.pgr.mpf.mp.br/noticias/noticias-do-site/copy_of_pdfs/mensalao_quadro_reus_penas_final.pdf"
+    },
+    {
+      "data": "2013-11",
+      "evento": "STF determina a execução imediata das penas; dez condenados se apresentam à PF.",
+      "url": "https://congressoemfoco.com.br/noticia/67440/stf-determina-execucao-imediata-das-penas-do-mensalao"
+    },
+    {
+      "data": "2014-02",
+      "evento": "Por 6 a 5, STF absolve do crime de formação de quadrilha Dirceu, Genoino e mais 6 réus, reduzindo penas.",
+      "url": "https://g1.globo.com/politica/mensalao/noticia/2014/02/por-6-5-supremo-absolve-do-crime-de-quadrilha-dirceu-genoino-e-mais-6.html"
+    },
+    {
+      "data": "2014-03",
+      "evento": "Após um ano e meio e 69 sessões, STF conclui o julgamento dos embargos infringentes; 24 condenados (Breno Fischberg absolvido).",
+      "url": "http://g1.globo.com/politica/mensalao/noticia/2014/03/apos-um-ano-e-meio-e-69-sessoes-stf-conclui-julgamento-do-mensalao.html"
+    },
+    {
+      "data": "2014-12",
+      "evento": "Indultos natalinos de Dilma (2014 e 2015) e Temer (2017) extinguem penas de parte dos condenados.",
+      "url": "https://revistaoeste.com/politica/todos-os-condenados-pelo-mensalao-estao-soltos/",
+      "nao_verificado": true
+    },
+    {
+      "data": "2025-06-11",
+      "evento": "Gazeta do Povo: '38 réus, 24 condenados, nenhum preso'; Marcos Valério ainda cumpria pena em domiciliar.",
+      "url": "https://www.gazetadopovo.com.br/ideias/mensalao-20-anos-como-estao-hoje-condenados-soltos-presos/"
+    }
+  ],
+  "o_que_dizem_os_dois_lados": {
+    "acusacao": "A PGR denunciou 40 pessoas por um esquema de pagamento a parlamentares e partidos, operado por agências de Marcos Valério e pelo Banco Rural; o STF acolheu a maior parte das acusações e condenou dirigentes do PT, PTB, PP, PL/PR e PMDB por corrupção, peculato e lavagem, em decisão definitiva que nunca foi anulada.",
+    "defesa": "As defesas obtiveram, nos embargos infringentes de 2014, a absolvição do crime de formação de quadrilha para 8 réus (6 a 5) e a redução de várias penas, além da absolvição de Breno Fischberg; as penas restantes foram depois cumpridas ou extintas por indultos presidenciais e progressão de regime. As notas de pesquisa não registram a tese de mérito apresentada pelas defesas no julgamento de 2012."
+  },
+  "status_atual_md": "**Condenações definitivas e válidas.** A AP 470 é o único grande escândalo com condenações transitadas em julgado no STF para dirigentes de PT, PP, PL/PR, PTB e PMDB; nenhuma foi anulada depois (as anulações de 2024 em favor de José Dirceu referem-se à Lava Jato). O esvaziamento prático das penas veio por indultos presidenciais e progressão de regime, não por revisão judicial do mérito. Em junho de 2025 nenhum condenado estava preso; Marcos Valério cumpria pena em prisão domiciliar.",
+  "lacunas": [
+    "Não há contagem oficial do STF do total de absolvidos (as fontes indicam 12–13).",
+    "Valores do esquema (R$ 55 mi / R$ 141 mi frequentemente citados) não foram verificados em fonte primária.",
+    "Situação em 2026 de Marcos Valério, Ramon Hollerbach, Kátia Rabello e Henrique Pizzolato não confirmada além de jun/2025.",
+    "O PDF da PGR com o quadro de penas não pôde ser aberto.",
+    "O número de 17 condenados com pena extinta por indulto vem de fonte de opinião, sem confirmação oficial.",
+    "Datas exatas de cada condenação individual (ago–dez/2012) não constam nas notas; usou-se o ano."
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/04_escandalos_mensalao_petrolao_lavajato.md",
+  "fontes": [
+    {
+      "nome": "Wikipédia pt, Ação Penal 470 (índice)",
+      "url": "https://pt.wikipedia.org/wiki/A%C3%A7%C3%A3o_Penal_470",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Gazeta do Povo, 11/06/2025: Mensalão 20 anos, como estão hoje os condenados",
+      "url": "https://www.gazetadopovo.com.br/ideias/mensalao-20-anos-como-estao-hoje-condenados-soltos-presos/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "G1, fev/2014: por 6 a 5, STF absolve do crime de quadrilha Dirceu, Genoino e mais 6",
+      "url": "https://g1.globo.com/politica/mensalao/noticia/2014/02/por-6-5-supremo-absolve-do-crime-de-quadrilha-dirceu-genoino-e-mais-6.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "G1, mar/2014: STF conclui julgamento do mensalão após 69 sessões",
+      "url": "http://g1.globo.com/politica/mensalao/noticia/2014/03/apos-um-ano-e-meio-e-69-sessoes-stf-conclui-julgamento-do-mensalao.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Revista Oeste: todos os condenados pelo Mensalão estão soltos (fonte de opinião/política)",
+      "url": "https://revistaoeste.com/politica/todos-os-condenados-pelo-mensalao-estao-soltos/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Exame, 05/11/2014 (atualizado 13/09/2016): onde estão os 24 condenados do mensalão",
+      "url": "https://exame.com/brasil/onde-estao-os-24-condenados-por-causa-do-mensalao/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Wikipédia pt, José Dirceu (índice)",
+      "url": "https://pt.wikipedia.org/wiki/Jos%C3%A9_Dirceu",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Wikipédia pt, Lista de denunciados e julgados do Mensalão (índice)",
+      "url": "https://pt.wikipedia.org/wiki/Lista_de_denunciados_e_julgados_do_Esc%C3%A2ndalo_do_Mensal%C3%A3o",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "STF, página do processo AP 470",
+      "url": "http://portal.stf.jus.br/processos/detalhe.asp?incidente=11541",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "PGR, quadro de réus e penas da AP 470 (PDF, 17/12/2012; link não pôde ser aberto)",
+      "url": "http://noticias.pgr.mpf.mp.br/noticias/noticias-do-site/copy_of_pdfs/mensalao_quadro_reus_penas_final.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Congresso em Foco: STF determina execução imediata das penas do mensalão",
+      "url": "https://congressoemfoco.com.br/noticia/67440/stf-determina-execucao-imediata-das-penas-do-mensalao",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "atualizado_em": "2026-10-21",
+  "convencoes": [
+    "citado: nome aparece em delação, planilha, relatório de CPI ou reportagem, sem ato formal de investigação.",
+    "investigado: alvo de inquérito, busca, prisão temporária/preventiva ou indiciamento pela PF (indiciamento não é denúncia).",
+    "denunciado: PGR/MPF ofereceu denúncia; réu: a denúncia foi recebida pelo tribunal.",
+    "condenado-1a / condenado-2a: decisão de mérito ainda sujeita a recurso. Para condenações pelo STF em instância única sem trânsito em julgado confirmado nas notas, usa-se condenado-1a com explicação em status_atual.",
+    "condenado-definitivo: trânsito em julgado confirmado nas notas; cumprindo-pena / pena-cumprida quando as notas informam a execução.",
+    "anulada: condenação ou provas anuladas por nulidade (competência, parcialidade, prova ilícita), sem exame de mérito; absolvido: decisão de mérito favorável; arquivado: inquérito/denúncia encerrada sem mérito; prescrito: punibilidade extinta pelo tempo.",
+    "Pedido de indiciamento por CPI/CPMI não é indiciamento policial nem denúncia: é recomendação ao Ministério Público."
+  ]
+}

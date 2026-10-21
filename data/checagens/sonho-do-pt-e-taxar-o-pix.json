@@ -1,0 +1,208 @@
+{
+  "id": "chk-1041",
+  "slug": "sonho-do-pt-e-taxar-o-pix",
+  "frase": "O sonho do PT e do Lula é taxar o Pix",
+  "frase_normalizada": "O PT pretende criar um imposto sobre o Pix",
+  "variantes": [
+    "Se o Lula ganhar, vai taxar o Pix",
+    "O PIX é nosso e sem taxa"
+  ],
+  "autor": {
+    "nome": "Flávio Bolsonaro",
+    "partido": "PL",
+    "cargo": "senador (RJ) e candidato à Presidência"
+  },
+  "lado": "oposicao-flavio-pl",
+  "alvo": {
+    "nome": "Luiz Inácio Lula da Silva",
+    "partido": "PT"
+  },
+  "data": "2026-04-02",
+  "onde": "Declaração à imprensa (02/04/2026) e vídeo de campanha (26/04/2026)",
+  "url_declaracao": "https://www.poder360.com.br/poder-eleicoes/flavio-bolsonaro-nega-que-vai-acabar-com-pix-se-for-eleito/",
+  "temas": [
+    "pix",
+    "impostos",
+    "eleicao-2026"
+  ],
+  "tags": [
+    "pix",
+    "intencao",
+    "cpmf",
+    "guedes"
+  ],
+  "veredito": "insustentavel",
+  "resumo_uma_frase": "Não há nenhuma proposta, projeto ou menção em programa de governo do PT para tributar o Pix; o governo Lula editou MP reafirmando a não tributação (2025) e a Receita afirma que a Constituição proíbe tributar movimentações financeiras — a única proposta de imposto sobre transações digitais nos últimos anos partiu de Paulo Guedes, ministro de Bolsonaro, em 2020.",
+  "explicacao_simples": [
+    "A frase atribui uma intenção que não aparece em nenhum documento: o programa de Lula não menciona imposto sobre Pix e o governo editou em 2025 uma medida provisória reafirmando que o Pix não é tributado.",
+    "Tributar movimentação financeira exigiria emenda constitucional, como a extinta CPMF, e nenhum dos dois candidatos propõe isso.",
+    "A única proposta recente de imposto sobre transações digitais, inclusive Pix, foi do ministro Paulo Guedes, do governo Bolsonaro, em 2020, e não avançou."
+  ],
+  "explicacao_completa_md": "## O que existe nos registros\n\n- Programa de governo de Lula 2026: nenhuma menção a tributar Pix; promete 'justiça tributária' (IR mínimo para altas rendas, cesta básica isenta, cashback).\n- MP 1.288/2025 (governo Lula): reafirmou gratuidade, sigilo e não tributação do Pix; caducou em 02/06/2025 sem votação pelo Congresso.\n- Receita Federal: a Constituição 'proíbe a tributação de movimentações financeiras'; um tributo desse tipo exigiria nova emenda (a CPMF vigorou de 1997 a 2007 por emenda).\n- Governo Bolsonaro (2020): Paulo Guedes defendeu um 'imposto sobre transações digitais' nos moldes da CPMF, alíquota de ~0,2%, inclusive sobre Pix; a ideia foi rejeitada (PoderData: 48% contra, 29% a favor).\n- Plano de Flávio: 'Pix sem taxa'; nada sobre Pix no documento do TSE além da promessa de 'defender o Pix' diante da investigação da Seção 301 dos EUA.\n\n## Avaliação\n\nTrata-se de atribuição de intenção futura sem evidência documental — não é verificável nem falseável por dados, por isso 'insustentável'. Em sentido inverso, a nota também não localizou checagem da suposta peça do PT dizendo que Flávio taxaria o Pix em 25%.",
+  "o_que_e_verdade": [
+    "Houve, em 2024-2025, ampliação do monitoramento agregado de movimentações por fintechs (IN 2.219, revogada; IN 2.278, em vigor), o que alimentou a desconfiança."
+  ],
+  "o_que_nao_se_sustenta": [
+    "Não há proposta, projeto ou item de programa do PT para tributar o Pix; o governo editou MP reafirmando a não tributação.",
+    "A única proposta recente de imposto sobre transações digitais foi do governo Bolsonaro (Guedes, 2020).",
+    "Tributar movimentação financeira exigiria emenda constitucional, não ato do Executivo."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Flávio Bolsonaro e campanha",
+      "papel": "atribuição de intenção sem evidência",
+      "peso": "alto"
+    },
+    {
+      "ator": "Governo Lula (comunicação sobre as INs da Receita)",
+      "papel": "ruído que alimentou a desconfiança",
+      "peso": "baixo"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Alíquota do imposto sobre transações digitais defendido por Guedes (governo Bolsonaro)",
+      "valor": 0.2,
+      "unidade": "%",
+      "periodo": "2020 (não aprovado)",
+      "fonte": {
+        "nome": "Poder360 – Paulo Guedes diz que não desistiu do imposto sobre transações digitais (2020)",
+        "url": "https://www.poder360.com.br/economia/paulo-guedes-diz-que-nao-desistiu-do-imposto-sobre-transacoes-digitais/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Rejeição ao 'imposto digital' (PoderData)",
+      "valor": 48,
+      "unidade": "% contra",
+      "periodo": "2020",
+      "fonte": {
+        "nome": "Poder360 – Rejeição a imposto digital amplia obstáculos para reforma de Guedes (2020)",
+        "url": "https://www.poder360.com.br/governo/rejeicao-a-imposto-digital-amplia-obstaculos-para-reforma-de-guedes/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "A favor",
+        "valor": 29
+      }
+    },
+    {
+      "rotulo": "Data em que a MP 1.288/2025 (não tributação do Pix) perdeu vigência",
+      "valor": 2025,
+      "unidade": "ano",
+      "periodo": "02/06/2025",
+      "fonte": {
+        "nome": "Congresso Nacional – tramitação da MPV 1288/2025",
+        "url": "https://www.congressonacional.leg.br/materias/medidas-provisorias/-/mpv/166983/pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Transações Pix em 2025",
+      "valor": 80,
+      "unidade": "bilhões",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Metrópoles – Pix bate recorde em 2025 e movimenta R$ 35,4 trilhões",
+        "url": "https://metropoles.com/brasil/pix-bate-recorde-em-2025-e-movimenta-r-354-trilhoes",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": null
+    }
+  ],
+  "series": [],
+  "checagens_externas": [],
+  "fontes": [
+    {
+      "nome": "Poder360 – Paulo Guedes diz que não desistiu do imposto sobre transações digitais (2020)",
+      "url": "https://www.poder360.com.br/economia/paulo-guedes-diz-que-nao-desistiu-do-imposto-sobre-transacoes-digitais/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Poder360 – Rejeição a imposto digital amplia obstáculos para reforma de Guedes (2020)",
+      "url": "https://www.poder360.com.br/governo/rejeicao-a-imposto-digital-amplia-obstaculos-para-reforma-de-guedes/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Congresso Nacional – tramitação da MPV 1288/2025",
+      "url": "https://www.congressonacional.leg.br/materias/medidas-provisorias/-/mpv/166983/pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Metrópoles – Pix bate recorde em 2025 e movimenta R$ 35,4 trilhões",
+      "url": "https://metropoles.com/brasil/pix-bate-recorde-em-2025-e-movimenta-r-354-trilhoes",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Poder360 – Flávio Bolsonaro nega que vai acabar com Pix se for eleito (02/04/2026)",
+      "url": "https://www.poder360.com.br/poder-eleicoes/flavio-bolsonaro-nega-que-vai-acabar-com-pix-se-for-eleito/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Poder360 – 'O Pix é nosso e sem taxa', diz Flávio em novo vídeo (26/04/2026)",
+      "url": "https://www.poder360.com.br/poder-eleicoes/o-pix-e-nosso-e-sem-taxa-diz-flavio-em-novo-video/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Programa de governo Lula 2026 (PDF via Poder360)",
+      "url": "https://static.poder360.com.br/uploads/2026/08/Programa-Governo-LULA-2026.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "partidario"
+    },
+    {
+      "nome": "Receita Federal via Bora Investir/B3 – Receita volta a negar taxação do Pix e alerta para golpes",
+      "url": "https://borainvestir.b3.com.br/noticias/receita-federal-volta-a-negar-taxacao-do-pix-e-alerta-para-golpes/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Plano de Governo 2026 (agregador, com link ao TSE) – Flávio Bolsonaro",
+      "url": "https://planodegoverno2026.com.br/candidatos/presidente/flavio-bolsonaro/",
+      "acesso_em": "2026-10-21",
+      "tier": "partidario"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/12_pix_fake_news_e_impostos_quem_paga.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "Algum governo tentou taxar o Pix?",
+      "resposta": "Não. A única proposta de imposto sobre transações digitais (inclusive Pix) foi de Paulo Guedes, em 2020, no governo Bolsonaro, e não avançou."
+    },
+    {
+      "pergunta": "O governo Lula poderia taxar o Pix por decreto?",
+      "resposta": "Não. A Receita afirma que a Constituição proíbe tributar movimentações financeiras; seria preciso emenda constitucional, como a CPMF (1997-2007)."
+    },
+    {
+      "pergunta": "O PT disse que Flávio acabaria com o Pix?",
+      "resposta": "Flávio afirmou que 'o PT dizendo que eu vou acabar com o Pix' é mentira; a nota não localizou checagem independente dessa peça do PT."
+    }
+  ],
+  "relacionadas": [
+    "governo-vai-taxar-o-pix",
+    "regra-do-pix-voltou-disfarcada",
+    "taxa-das-blusinhas"
+  ],
+  "lacunas": [
+    "Não localizada checagem independente da suposta peça do PT sobre Flávio e o Pix; detalhes do 'Vira Pix' atribuído a Flávio não confirmados."
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false
+}

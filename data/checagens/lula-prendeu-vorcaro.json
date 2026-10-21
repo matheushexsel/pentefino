@@ -1,0 +1,195 @@
+{
+  "id": "chk-2020",
+  "slug": "lula-prendeu-vorcaro",
+  "frase": "Nós prendemos o Vorcaro.",
+  "frase_normalizada": "nos prendemos o vorcaro",
+  "variantes": [
+    "Foi o governo Lula que prendeu o Vorcaro",
+    "Quem prendeu Vorcaro foi o ministro André Mendonça"
+  ],
+  "autor": {
+    "nome": "Luiz Inácio Lula da Silva",
+    "partido": "PT",
+    "cargo": "presidente da República e candidato à reeleição"
+  },
+  "lado": "governo-lula-pt",
+  "alvo": {
+    "nome": null,
+    "partido": null
+  },
+  "data": "2026-10-18",
+  "onde": "Debate da Band (consórcio Band/Cultura/Gazeta/Jovem Pan/Estadão), São Paulo",
+  "url_declaracao": "https://www.aosfatos.org/noticias/checamos-lula-flavio-bolsonaro-debate-band/",
+  "temas": [
+    "corrupcao",
+    "justica-stf"
+  ],
+  "tags": [
+    "corrupcao",
+    "justica-stf"
+  ],
+  "veredito": "impreciso",
+  "resumo_uma_frase": "Vorcaro está preso (primeira prisão pela PF em 17/11/2025; preventiva decretada pelo ministro André Mendonça em 04/03/2026 e mantida pela 2ª Turma do STF), mas a prisão não decorreu de decisão do presidente: foi ato da PF e do Judiciário.",
+  "explicacao_simples": [
+    "É verdade que Vorcaro está preso, mas quem prende é a Polícia Federal com autorização judicial, não o presidente.",
+    "A primeira prisão foi em 17/11/2025, na Operação Compliance Zero; a prisão preventiva atual foi decretada pelo ministro André Mendonça em 04/03/2026.",
+    "O Aos Fatos considerou enganoso Lula atribuir a si a prisão; o Ranking confirmou que Vorcaro está preso."
+  ],
+  "explicacao_completa_md": "Daniel Vorcaro foi preso em 17/11/2025 em Guarulhos (Operação Compliance Zero, PF), solto pelo TRF-1 em 28/11/2025 com tornozeleira, e preso de novo em 04/03/2026 por decisão do ministro André Mendonça (STF), sem aval da PGR; a 2ª Turma manteve a preventiva em 20/03/2026; em 20/10/2026 seguia preso. No debate da Band, o Aos Fatos registrou que a prisão 'não decorreu de decisão do presidente' (ENGANOSO) e o Ranking dos Políticos classificou como VERDADEIRO que Vorcaro está preso. Do outro lado, Flávio atribuiu a prisão ao ministro Mendonça, e o Aos Fatos anotou que 'não é correto dizer que foi o ministro André Mendonça que prendeu Vorcaro' (a primeira prisão foi da PF); a nota 05, porém, registra que a preventiva de 04/03/2026 foi decretada por Mendonça.",
+  "o_que_e_verdade": [
+    "Vorcaro está preso preventivamente desde 04/03/2026, após primeira prisão em 17/11/2025.",
+    "A PF, subordinada ao Ministério da Justiça do governo Lula, conduziu a operação."
+  ],
+  "o_que_nao_se_sustenta": [
+    "'Nós prendemos': prisão é ato da PF com autorização judicial; a preventiva atual foi decretada pelo STF (Mendonça).",
+    "Versão de Flávio ('Mendonça prendeu'): a primeira prisão foi da PF em 17/11/2025, embora a preventiva de 04/03/2026 tenha sido decretada por Mendonça."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Polícia Federal",
+      "papel": "prendeu Vorcaro em 17/11/2025 (Compliance Zero)",
+      "peso": "alto"
+    },
+    {
+      "ator": "STF (André Mendonça; 2ª Turma)",
+      "papel": "decretou e manteve a prisão preventiva de 04/03/2026",
+      "peso": "alto"
+    },
+    {
+      "ator": "Lula",
+      "papel": "atribuiu a si a prisão",
+      "peso": "baixo"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Primeira prisão de Vorcaro",
+      "valor": 17,
+      "unidade": "nov/2025 (dia)",
+      "periodo": "17/11/2025",
+      "fonte": {
+        "nome": "Agência Pública, mar/2026 (reconstrução do caso Master)",
+        "url": "https://apublica.org/2026/03/banco-master-a-reconstrucao-completa-de-como-uma-fraude-capturou-a-republica/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Prisão preventiva decretada por Mendonça",
+      "valor": 4,
+      "unidade": "mar/2026 (dia)",
+      "periodo": "04/03/2026",
+      "fonte": {
+        "nome": "Jornal Grande Bahia, jul/2026 (dez fases da Compliance Zero)",
+        "url": "https://jornalgrandebahia.com.br/2026/07/daniel-vorcaro-e-o-caso-banco-master-suspeita-de-fraude-bilionaria-perdas-no-brb-impacto-no-fgc-e-dez-fases-da-compliance-zero/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Dias entre a 1ª prisão e a soltura pelo TRF-1",
+      "valor": 11,
+      "unidade": "dias",
+      "periodo": "17 a 28/11/2025",
+      "fonte": {
+        "nome": "Wikipédia: Escândalo do Banco Master (índice com fontes)",
+        "url": "https://pt.wikipedia.org/wiki/Esc%C3%A2ndalo_do_Banco_Master",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": null
+    }
+  ],
+  "series": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Aos Fatos",
+      "veredito_original": "ENGANOSO (prisão não decorreu de decisão do presidente)",
+      "url": "https://www.aosfatos.org/noticias/checamos-lula-flavio-bolsonaro-debate-band/",
+      "data": "2026-10-18"
+    },
+    {
+      "veiculo": "Ranking dos Políticos",
+      "veredito_original": "VERDADEIRO que Vorcaro está preso",
+      "url": "https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026",
+      "data": "2026-10-18"
+    },
+    {
+      "veiculo": "Aos Fatos",
+      "veredito_original": "'não é correto dizer que foi Mendonça que prendeu Vorcaro' (fala de Flávio)",
+      "url": "https://www.aosfatos.org/noticias/checamos-lula-flavio-bolsonaro-debate-band/",
+      "data": "2026-10-18"
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Agência Pública, mar/2026 (reconstrução do caso Master)",
+      "url": "https://apublica.org/2026/03/banco-master-a-reconstrucao-completa-de-como-uma-fraude-capturou-a-republica/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Jornal Grande Bahia, jul/2026 (dez fases da Compliance Zero)",
+      "url": "https://jornalgrandebahia.com.br/2026/07/daniel-vorcaro-e-o-caso-banco-master-suspeita-de-fraude-bilionaria-perdas-no-brb-impacto-no-fgc-e-dez-fases-da-compliance-zero/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Wikipédia: Escândalo do Banco Master (índice com fontes)",
+      "url": "https://pt.wikipedia.org/wiki/Esc%C3%A2ndalo_do_Banco_Master",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Aos Fatos",
+      "url": "https://www.aosfatos.org/noticias/checamos-lula-flavio-bolsonaro-debate-band/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Ranking dos Políticos",
+      "url": "https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Diário de Pernambuco, out/2026 (Vorcaro e diretor do BC)",
+      "url": "https://diariodepernambuco.com.br/politica/2026/10/11727100-vorcaro-mandou-sicario-rastrear-e-moer-diretor-do-banco-central.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/09_acusacoes_e_falas_flavio_x_lula.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "Quem prendeu Vorcaro?",
+      "resposta": "A Polícia Federal, em 17/11/2025, na Operação Compliance Zero; a prisão preventiva atual foi decretada pelo ministro André Mendonça em 04/03/2026."
+    },
+    {
+      "pergunta": "O presidente pode mandar prender alguém?",
+      "resposta": "Não. Prisões dependem de ordem judicial (ou flagrante); a PF é subordinada ao governo, mas atua sob autorização da Justiça."
+    },
+    {
+      "pergunta": "Vorcaro continua preso?",
+      "resposta": "Sim, em 20/10/2026 seguia preso (transferido à Papudinha em junho de 2026)."
+    }
+  ],
+  "relacionadas": [
+    "banco-master-ligacoes-politicas",
+    "vorcaro-golpe-de-60-bilhoes",
+    "lula-prometeu-ajudar-vorcaro"
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false,
+  "lacunas": [
+    "As notas divergem sobre o papel de Mendonça: o Aos Fatos diz não ser correto atribuir-lhe a prisão; a nota 05 registra que ele decretou a preventiva de 04/03/2026."
+  ]
+}

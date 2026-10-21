@@ -1,0 +1,125 @@
+{
+  "id": "sabatina-globo-lula-2026-10-15",
+  "tipo": "sabatina",
+  "nome": "Lula na TV Globo (Renata Lo Prete, após o Jornal Nacional)",
+  "data": "2026-10-15",
+  "veiculo": "TV Globo — entrevista com Renata Lo Prete, após o JN",
+  "participantes": [
+    "lula"
+  ],
+  "url_video": null,
+  "url_transcricao": null,
+  "resumo_uma_frase": "Lupa (13), Aos Fatos (16) e Ranking (27) concordam nos erros de comércio exterior, '22 milhões de empregos em 8 anos' e '99% de tudo aprovado'; acertam 7,5% do PIB, 10 ministérios extintos, 33 milhões na fome e Canella/Rogéria. Lula declarou-se 'como cidadão' a favor da redução da maioridade penal para hediondos.",
+  "placar": {
+    "lula": {
+      "checadas": 32,
+      "por_veredito": {
+        "verdadeiro": 12,
+        "verdadeiro-mas": 7,
+        "impreciso": 6,
+        "exagerado": 3,
+        "falta-contexto": 0,
+        "insustentavel": 0,
+        "falso": 5,
+        "opiniao": 1
+      },
+      "contagem_arquivos": {
+        "verdadeiro-mas": 7,
+        "exagerado": 4,
+        "verdadeiro": 11,
+        "impreciso": 6,
+        "falso": 5,
+        "opiniao": 1
+      }
+    }
+  },
+  "falas": [
+    "fala-0149",
+    "fala-0150",
+    "fala-0151",
+    "fala-0152",
+    "fala-0153",
+    "fala-0154",
+    "fala-0155",
+    "fala-0156",
+    "fala-0157",
+    "fala-0158",
+    "fala-0159",
+    "fala-0160",
+    "fala-0161",
+    "fala-0162",
+    "fala-0163",
+    "fala-0164",
+    "fala-0165",
+    "fala-0166",
+    "fala-0167",
+    "fala-0168",
+    "fala-0169",
+    "fala-0170",
+    "fala-0171",
+    "fala-0172",
+    "fala-0173",
+    "fala-0174",
+    "fala-0175",
+    "fala-0176",
+    "fala-0177",
+    "fala-0178",
+    "fala-0179",
+    "fala-0180",
+    "fala-0181",
+    "fala-0182"
+  ],
+  "checagens_externas": [
+    {
+      "veiculo": "Lupa",
+      "veredito_original": "13 checagens: V 5, EX 4, F 2, FC 1, SUBESTIMADO 1",
+      "url": "https://www.agencialupa.org/checagem/2026/10/15/ao-vivo-checagem-da-entrevista-de-lula-na-tv-globo/",
+      "data": "2026-10-15"
+    },
+    {
+      "veiculo": "Aos Fatos",
+      "veredito_original": "16 itens: 12 confirmados, 3 exagerados/enganosos, 1 ambíguo",
+      "url": "https://www.aosfatos.org/noticias/checamos-lula-globo-segundo-turno/",
+      "data": "2026-10-15"
+    },
+    {
+      "veiculo": "Ranking dos Políticos",
+      "veredito_original": "27 alegações: V 8, imprecisas 11, F 8",
+      "url": "https://ranking.org.br/en/articles/checagem-entrevista-lula-jornal-nacional-2-turno-2026",
+      "data": "2026-10-15"
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Lupa",
+      "url": "https://www.agencialupa.org/checagem/2026/10/15/ao-vivo-checagem-da-entrevista-de-lula-na-tv-globo/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Aos Fatos",
+      "url": "https://www.aosfatos.org/noticias/checamos-lula-globo-segundo-turno/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Ranking dos Políticos",
+      "url": "https://ranking.org.br/en/articles/checagem-entrevista-lula-jornal-nacional-2-turno-2026",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "TVT",
+      "url": "https://tvtnews.com.br/entrevista-do-lula-na-globo-sabatina-eleicoes/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
+  "atualizado_em": "2026-10-21",
+  "lacunas": [
+    "Sem transcrição integral; o Ranking não publica as falas literais.",
+    "Divergências de transcrição entre agências ('72%' vs '78%' endividados; '100 mil' vs '6 mil' obras).",
+    "A nota registra 'déficit de 2,8%' como falso (herança de 2022) ou verdadeiro-mas se lido como resultado de 2023; o item do FMI (quitação / empréstimo) foi desdobrado em duas falas, por isso há 34 arquivos para 33 itens contados."
+  ]
+}

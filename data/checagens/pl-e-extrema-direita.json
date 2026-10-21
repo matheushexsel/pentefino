@@ -1,0 +1,219 @@
+{
+  "id": "chk-2094",
+  "slug": "pl-e-extrema-direita",
+  "frase": "O PL de Flávio Bolsonaro é um partido de extrema direita.",
+  "frase_normalizada": "o pl de flavio bolsonaro e um partido de extrema direita",
+  "variantes": [
+    "O bolsonarismo é extrema direita",
+    "Flávio é candidato da extrema direita"
+  ],
+  "autor": {
+    "nome": "frase que circula nas redes",
+    "partido": null,
+    "cargo": null
+  },
+  "lado": "ambos",
+  "alvo": {
+    "nome": "PL / bolsonarismo",
+    "partido": "PL"
+  },
+  "data": null,
+  "onde": null,
+  "url_declaracao": null,
+  "temas": [
+    "ideologias"
+  ],
+  "tags": [
+    "ideologias"
+  ],
+  "veredito": "verdadeiro-mas",
+  "resumo_uma_frase": "A classificação acadêmica majoritária do bolsonarismo é 'direita radical populista', que pertence à família da extrema direita (far right) na tipologia de Cas Mudde; a BLS mede o PL em +0,493 (2021), na mesma faixa de PP e Republicanos, mas mede o PSL de Bolsonaro em +0,803 e Bolsonaro presidente em +0,87 ('o mais extremo da era democrática'), e os autores dizem que o PL pós-2021 deve ser lido mais à direita; como organização, o PL disputa eleições e tem a maior bancada do Congresso.",
+  "explicacao_simples": [
+    "Os cientistas políticos classificam o bolsonarismo como 'direita radical populista', que faz parte do que Cas Mudde chama de extrema direita em sentido amplo.",
+    "O PL como partido foi medido em 2021 como direita comum (+0,49, igual a PP e Republicanos), mas o movimento que o ocupou (PSL +0,80; Bolsonaro +0,87) está no extremo da escala.",
+    "O que diferencia 'direita radical' de 'direita extrema' é aceitar a regra da maioria: a negação do resultado de 2022 e o 8 de janeiro puxam o núcleo bolsonarista para a segunda, enquanto o partido participa das eleições e elegeu a maior bancada."
+  ],
+  "explicacao_completa_md": "**Medidas:** BLS (Zucco & Power): PL +0,574 (1990), +0,328 (2009, mínimo), +0,493 (2021); PP +0,510; Republicanos +0,550; Novo +0,711; PSL +0,803 (polo direito em 2021); DEM +0,431; Bolsonaro presidente +0,87, 'o presidente mais extremo da era democrática' (Temer +0,55; Collor +0,62). Os autores projetaram a 57ª Legislatura 'com ajustes para UNIÃO e PL', indicando que a posição efetiva do PL pós-2022 deve ser lida mais à direita que +0,49. A Wikipédia classifica o PL atual como 'direita a extrema direita' (bolsonarismo, conservadorismo nacional, populismo de direita, liberalismo econômico, direita cristã); antes de 2021 era Centrão clientelista sob Valdemar Costa Neto.\n\n**Classificação acadêmica:** Zanotti, Rama & Tanscheit (2023) tratam Bolsonaro como líder da direita radical populista (PRR): nativismo (exclusão racial/étnica), autoritarismo (lei e ordem, elogio à ditadura, conservadorismo moral) e populismo (antipetismo); a PRR 'aceita a essência da democracia mas se opõe a elementos da democracia liberal'. Mudde divide a far right em direita radical (aceita soberania popular e regra da maioria) e direita extrema (as rejeita). A nota 11 infere que a negação do resultado de 2022 e o 8/1, com a condenação do STF (11/09/2025), deslocam o núcleo para 'direita extrema', 'mas não necessariamente para o partido PL como organização, que participa de eleições e cuja bancada é a maior do Congresso' (121 deputados e 28-29 senadores eleitos em 2026).\n\n**Programa 2026:** liberal na economia (desestatização, corte de 10 ministérios, menos impostos) e autoritário/punitivista nos valores (maioridade penal aos 16, castração química, 1 milhão de câmeras), com propostas institucionais (limitar o STF, fim da reeleição); 'não há no programa proposta de regime militar ou de suspensão de eleições'.",
+  "o_que_e_verdade": [
+    "O bolsonarismo é classificado pela ciência política como direita radical populista, parte da família da extrema direita (far right).",
+    "Bolsonaro é o presidente mais à direita da era democrática na BLS (+0,87) e foi condenado por tentativa de golpe; o PSL que o elegeu era o polo direito do sistema (+0,80)."
+  ],
+  "o_que_nao_se_sustenta": [
+    "Tratar o PL como organização 'extrema' no sentido de Mudde (rejeição da regra da maioria): o partido disputa eleições, elegeu a maior bancada e seu programa não propõe suspender eleições; em 2021 era medido como direita comum (+0,49)."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "PL / bolsonarismo",
+      "papel": "programa e prática política",
+      "peso": "alto"
+    },
+    {
+      "ator": "Comunidade acadêmica (Mudde; Zanotti et al.; Zucco & Power)",
+      "papel": "classificação e medição",
+      "peso": "alto"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "PL na BLS 2021",
+      "valor": 0.493,
+      "unidade": "pontos (escala −1 a +1)",
+      "periodo": "2021",
+      "fonte": {
+        "nome": "Zucco & Power, material suplementar (Tabela C1/C2, BLS 1990-2021)",
+        "url": "https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S1531426X23000249/resource/name/S1531426X23000249sup001.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      "comparacao": {
+        "rotulo": "PSL (veículo de Bolsonaro em 2018)",
+        "valor": 0.803
+      }
+    },
+    {
+      "rotulo": "Bolsonaro presidente na BLS",
+      "valor": 0.87,
+      "unidade": "pontos (mais extremo da era democrática)",
+      "periodo": "2013-2021",
+      "fonte": {
+        "nome": "Zucco & Power, material suplementar (Tabela C1/C2, BLS 1990-2021)",
+        "url": "https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S1531426X23000249/resource/name/S1531426X23000249sup001.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      "comparacao": {
+        "rotulo": "Lula I-II",
+        "valor": -0.41
+      }
+    },
+    {
+      "rotulo": "Novo na BLS 2021",
+      "valor": 0.711,
+      "unidade": "pontos",
+      "periodo": "2021",
+      "fonte": {
+        "nome": "Zucco & Power, material suplementar (Tabela C1/C2, BLS 1990-2021)",
+        "url": "https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S1531426X23000249/resource/name/S1531426X23000249sup001.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Deputados federais eleitos pelo PL em 2026",
+      "valor": 121,
+      "unidade": "deputados",
+      "periodo": "2026",
+      "fonte": {
+        "nome": "CNN Brasil (bancada da Câmara 2026)",
+        "url": "https://www.cnnbrasil.com.br/eleicoes/bancada-partidos-camara/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Núcleo duro do bolsonarismo estimado por Camila Rocha",
+      "valor": 15,
+      "unidade": "% do eleitorado (12 a 15)",
+      "periodo": "2021",
+      "fonte": {
+        "nome": "Jornal Opção (Camila Rocha)",
+        "url": "https://www.jornalopcao.com.br/colunas-e-blogs/imprensa/permanencia-de-bolsonaro-e-fatal-para-a-nova-direita-diz-cientista-politica-camila-rocha-350275/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": null
+    }
+  ],
+  "series": [],
+  "checagens_externas": [],
+  "fontes": [
+    {
+      "nome": "Zucco & Power, material suplementar (Tabela C1/C2, BLS 1990-2021)",
+      "url": "https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S1531426X23000249/resource/name/S1531426X23000249sup001.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    },
+    {
+      "nome": "CNN Brasil (bancada da Câmara 2026)",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/bancada-partidos-camara/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Jornal Opção (Camila Rocha)",
+      "url": "https://www.jornalopcao.com.br/colunas-e-blogs/imprensa/permanencia-de-bolsonaro-e-fatal-para-a-nova-direita-diz-cientista-politica-camila-rocha-350275/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Zucco & Power, Latin American Politics and Society (2024)",
+      "url": "https://www.cambridge.org/core/product/FAF5489B3E01D39A16DBB4971458AD48/core-reader",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    },
+    {
+      "nome": "Zanotti, Rama & Tanscheit, Opinião Pública 29(1), 2023",
+      "url": "https://www.redalyc.org/journal/329/32975189001/",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    },
+    {
+      "nome": "Resenha Crítica (Mudde, The Far Right Today)",
+      "url": "https://resenhacritica.com.br/tag/polity-press-e",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    },
+    {
+      "nome": "Wikipedia: Liberal Party (Brazil, 2006)",
+      "url": "https://en.wikipedia.org/wiki/Liberal_Party_(Brazil,_2006)",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Portal Tela, 14/08/2026 (plano de governo de Flávio)",
+      "url": "https://www.portaltela.com/politica/2026/08/14/plano-de-governo-de-flavio-bolsonaro-tem-9-eixos-veja-propostas/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/11_espectro_ideologico_didatico.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "Qual a diferença entre direita radical e direita extrema?",
+      "resposta": "Para Mudde, ambas são 'extrema direita' em sentido amplo (far right); a radical aceita a soberania popular e a regra da maioria, mas ataca direitos de minorias e a separação de poderes; a extrema rejeita a própria regra da maioria."
+    },
+    {
+      "pergunta": "Onde a ciência política coloca o bolsonarismo?",
+      "resposta": "Como direita radical populista (nativismo, autoritarismo, populismo antipetista), com deslocamento para a direita extrema no núcleo que negou o resultado de 2022 e foi condenado pelo 8 de janeiro."
+    },
+    {
+      "pergunta": "E o PL antes de Bolsonaro?",
+      "resposta": "Era um partido de Centrão, clientelista, medido em +0,33 a +0,57 na BLS; Bolsonaro filiou-se em 30/11/2021 e o partido virou veículo do bolsonarismo."
+    },
+    {
+      "pergunta": "O programa de Flávio é extremista?",
+      "resposta": "É liberal na economia e punitivista em segurança (maioridade penal aos 16, castração química, vigilância), com propostas de limitar o STF e acabar com a reeleição; não propõe regime militar nem suspender eleições."
+    }
+  ],
+  "relacionadas": [
+    "pt-e-extrema-esquerda",
+    "bolsonaro-e-fascista",
+    "pl-quer-ditadura-militar",
+    "8-de-janeiro-nao-foi-golpe"
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false,
+  "nao_verificado": true,
+  "lacunas": [
+    "Nenhuma checagem de agência com esta redação; veredito derivado da literatura e da BLS (nota 11).",
+    "Os 'ajustes' de Zucco & Power para o PL pós-2022 não têm valores publicados; União Brasil não foi medido diretamente."
+  ]
+}

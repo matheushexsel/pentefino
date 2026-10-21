@@ -1,0 +1,225 @@
+{
+  "id": "chk-2004",
+  "slug": "mansao-de-flavio-bolsonaro",
+  "frase": "Flávio comprou uma casa de R$ 10 milhões e pagou parte com dinheiro do BRB.",
+  "frase_normalizada": "flavio comprou uma casa de r 10 milhoes e pagou parte com dinheiro do brb",
+  "variantes": [
+    "A mansão de R$ 10 milhões de Flávio Bolsonaro",
+    "Flávio comprou mansão com dinheiro do BRB"
+  ],
+  "autor": {
+    "nome": "Luiz Inácio Lula da Silva",
+    "partido": "PT",
+    "cargo": "presidente da República e candidato à reeleição"
+  },
+  "lado": "governo-lula-pt",
+  "alvo": {
+    "nome": "Flávio Bolsonaro",
+    "partido": "PL"
+  },
+  "data": "2026-10-18",
+  "onde": "Debate da Band (consórcio Band/Cultura/Gazeta/Jovem Pan/Estadão), São Paulo",
+  "url_declaracao": "https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026",
+  "temas": [
+    "corrupcao",
+    "eleicao-2026"
+  ],
+  "tags": [
+    "corrupcao",
+    "eleicao-2026"
+  ],
+  "veredito": "exagerado",
+  "resumo_uma_frase": "A compra (março de 2021) e o financiamento de R$ 3,1 milhões pelo BRB são reais e questionados na Justiça, mas o imóvel custou cerca de R$ 6 milhões (declarado ao TSE por R$ 6,23 milhões), não R$ 10 milhões.",
+  "explicacao_simples": [
+    "Flávio comprou em 2021 uma casa no Lago Sul, em Brasília, por cerca de R$ 6 milhões, e financiou R$ 3,1 milhões no BRB, banco do governo do Distrito Federal.",
+    "O valor de R$ 10 milhões citado por Lula não bate com a escritura nem com a declaração ao TSE (R$ 6,23 milhões).",
+    "A origem do dinheiro é objeto de uma ação popular, mas não há condenação; Flávio quitou o financiamento em 2024 e diz ter usado recursos próprios."
+  ],
+  "explicacao_completa_md": "**Fatos:** a casa no Lago Sul foi comprada em março de 2021 por R$ 5,97 milhões (Ranking dos Políticos) ou cerca de R$ 6 milhões (Aos Fatos); na declaração de bens ao TSE em 13/08/2026 consta por R$ 6.226.043,80, equivalente a 76% do patrimônio declarado de R$ 8.186.555,83. O BRB (banco público do GDF) concedeu empréstimo de R$ 3,1 milhões em 360 meses; Flávio quitou antecipadamente em 21/03/2024, com pagamento final de R$ 520,2 mil após cinco amortizações, e disse ter usado 'recursos próprios'. A deputada Erika Kokay (PT-DF) move ação popular e o TJDFT pediu comprovação de renda; um pedido de anulação foi negado; o BRB afirma não ter havido prejuízo.\n\n**Checagens:** Ranking dos Políticos: IMPRECISO (compra e financiamento reais, imóvel de R$ 5,97 milhões); Estadão Verifica: EXAGERADO (declarado R$ 6,2 milhões; os R$ 10 milhões parecem vir de uma disputa por uma ilha com o jogador Richarlison); Aos Fatos: 'parcialmente falso', valor correto R$ 6 milhões, com suspeita sobre a origem dos R$ 3,1 milhões do BRB.\n\n**Contexto:** o BRB está no centro do caso Banco Master (compra de R$ 12,2 bilhões em carteiras supostamente fictícias; presidente Paulo Henrique Costa preso em 16/04/2026), mas esse episódio é distinto do financiamento da casa de Flávio.",
+  "o_que_e_verdade": [
+    "Flávio comprou a casa no Lago Sul em março de 2021 e financiou R$ 3,1 milhões no BRB, banco público do GDF.",
+    "A compatibilidade da compra com a renda declarada é questionada em ação popular (Erika Kokay) e o TJDFT pediu comprovação de renda.",
+    "Flávio quitou o financiamento antecipadamente em 21/03/2024."
+  ],
+  "o_que_nao_se_sustenta": [
+    "O valor de R$ 10 milhões: a escritura indica R$ 5,97 milhões e a declaração ao TSE, R$ 6,23 milhões.",
+    "A sugestão de irregularidade comprovada: há ação popular em curso, mas nenhuma decisão de mérito; o BRB diz não ter tido prejuízo."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Flávio Bolsonaro",
+      "papel": "comprador; declarou o imóvel e a quitação",
+      "peso": "alto"
+    },
+    {
+      "ator": "BRB (banco do GDF)",
+      "papel": "concedeu e recebeu a quitação do financiamento",
+      "peso": "medio"
+    },
+    {
+      "ator": "TJDFT",
+      "papel": "analisa a ação popular que pede comprovação de renda",
+      "peso": "medio"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Valor da casa declarado ao TSE",
+      "valor": 6.226,
+      "unidade": "R$ milhões",
+      "periodo": "13/08/2026",
+      "fonte": {
+        "nome": "Poder360 (patrimônio TSE 2026 de Flávio)",
+        "url": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-declara-r-81-milhoes-em-patrimonio-quase-o-dobro-de-lula/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "Valor citado por Lula",
+        "valor": 10
+      }
+    },
+    {
+      "rotulo": "Valor de compra apontado pelo Ranking",
+      "valor": 5.97,
+      "unidade": "R$ milhões",
+      "periodo": "mar/2021",
+      "fonte": {
+        "nome": "Ranking dos Políticos",
+        "url": "https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Financiamento do BRB",
+      "valor": 3.1,
+      "unidade": "R$ milhões (360 meses)",
+      "periodo": "2021",
+      "fonte": {
+        "nome": "Metrópoles, 03/07/2024 (Flávio quita financiamento do BRB)",
+        "url": "https://www.metropoles.com/colunas/grande-angular/flavio-bolsonaro-quita-antecipadamente-financiamento-de-mansao-com-brb",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Pagamento final da quitação antecipada",
+      "valor": 520.2,
+      "unidade": "R$ mil",
+      "periodo": "21/03/2024",
+      "fonte": {
+        "nome": "Metrópoles, 03/07/2024 (Flávio quita financiamento do BRB)",
+        "url": "https://www.metropoles.com/colunas/grande-angular/flavio-bolsonaro-quita-antecipadamente-financiamento-de-mansao-com-brb",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Patrimônio total declarado por Flávio ao TSE",
+      "valor": 8.187,
+      "unidade": "R$ milhões",
+      "periodo": "2026",
+      "fonte": {
+        "nome": "Poder360 (patrimônio TSE 2026 de Flávio)",
+        "url": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-declara-r-81-milhoes-em-patrimonio-quase-o-dobro-de-lula/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "Patrimônio declarado por Lula",
+        "valor": 4.8
+      }
+    }
+  ],
+  "series": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Ranking dos Políticos",
+      "veredito_original": "IMPRECISO",
+      "url": "https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026",
+      "data": "2026-10-18"
+    },
+    {
+      "veiculo": "Estadão Verifica",
+      "veredito_original": "EXAGERADO",
+      "url": "https://www.polemicaparaiba.com.br/brasil/estadao-verifica-checa-declaracoes-de-lula-e-flavio-bolsonaro-em-debate-e-aponta-informacoes-falsas-enganosas-e-verdadeiras-confira/",
+      "data": "2026-10-18"
+    },
+    {
+      "veiculo": "Aos Fatos",
+      "veredito_original": "parcialmente falso (valor correto R$ 6 milhões)",
+      "url": "https://www.aosfatos.org/noticias/checamos-lula-flavio-bolsonaro-debate-band/",
+      "data": "2026-10-18"
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Poder360 (patrimônio TSE 2026 de Flávio)",
+      "url": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-declara-r-81-milhoes-em-patrimonio-quase-o-dobro-de-lula/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Ranking dos Políticos",
+      "url": "https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Metrópoles, 03/07/2024 (Flávio quita financiamento do BRB)",
+      "url": "https://www.metropoles.com/colunas/grande-angular/flavio-bolsonaro-quita-antecipadamente-financiamento-de-mansao-com-brb",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Estadão Verifica",
+      "url": "https://www.polemicaparaiba.com.br/brasil/estadao-verifica-checa-declaracoes-de-lula-e-flavio-bolsonaro-em-debate-e-aponta-informacoes-falsas-enganosas-e-verdadeiras-confira/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Aos Fatos",
+      "url": "https://www.aosfatos.org/noticias/checamos-lula-flavio-bolsonaro-debate-band/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Wikipédia: Flávio Bolsonaro (índice com fontes primárias)",
+      "url": "https://pt.wikipedia.org/wiki/Fl%C3%A1vio_Bolsonaro",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/09_acusacoes_e_falas_flavio_x_lula.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "De onde vem o número de R$ 10 milhões?",
+      "resposta": "Segundo o Estadão Verifica, parece vir de outra história, a disputa de Flávio com o jogador Richarlison por uma ilha; a casa custou cerca de R$ 6 milhões."
+    },
+    {
+      "pergunta": "Há algo irregular no financiamento do BRB?",
+      "resposta": "Há uma ação popular em curso e o TJDFT pediu comprovação de renda; não há decisão de mérito nem acusação criminal sobre a casa. O BRB afirma não ter tido prejuízo."
+    },
+    {
+      "pergunta": "Isso tem relação com o caso Banco Master?",
+      "resposta": "Não diretamente. O BRB aparece no caso Master por comprar carteiras de crédito do banco de Daniel Vorcaro; o financiamento da casa é um contrato separado, de 2021."
+    }
+  ],
+  "relacionadas": [
+    "flavio-bolsonaro-rachadinha",
+    "dark-horse-vorcaro-flavio",
+    "banco-master-ligacoes-politicas"
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false
+}

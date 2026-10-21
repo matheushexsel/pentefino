@@ -1,0 +1,245 @@
+{
+  "id": "chk-2102",
+  "slug": "desmatamento-caiu-com-lula",
+  "frase": "O desmatamento da Amazônia caiu pela metade no governo Lula e está no menor nível em 11 anos.",
+  "frase_normalizada": "o desmatamento da amazonia caiu pela metade no governo lula e esta no menor nivel em 11 anos",
+  "variantes": [
+    "Lula zerou o desmatamento",
+    "Bolsonaro destruiu a Amazônia"
+  ],
+  "autor": {
+    "nome": "frase que circula nas redes",
+    "partido": null,
+    "cargo": null
+  },
+  "lado": "ambos",
+  "alvo": {
+    "nome": "Governo Lula (2023-2026)",
+    "partido": "PT"
+  },
+  "data": null,
+  "onde": null,
+  "url_declaracao": null,
+  "temas": [
+    "meio-ambiente"
+  ],
+  "tags": [
+    "meio-ambiente"
+  ],
+  "veredito": "verdadeiro-mas",
+  "resumo_uma_frase": "O PRODES registra queda de 11.594 km² (2022) para 5.796 km² (2025), o menor em 11 anos e metade do último ano de Bolsonaro, com quatro quedas seguidas; mas 2024 teve recorde de área queimada (30 milhões de hectares, Amazônia com 15,6 milhões, maior desde 1985), o Cerrado só começou a cair em 2024 e o governo licenciou a perfuração na Margem Equatorial.",
+  "explicacao_simples": [
+    "Pelos dados oficiais do INPE (PRODES), o desmatamento na Amazônia caiu de 11.594 km² em 2022 para 5.796 km² em 2025, metade do último ano de Bolsonaro e o menor em 11 anos.",
+    "Mas 2024 teve o maior incêndio da série: 30 milhões de hectares queimados no país, 15,6 milhões na Amazônia, o pior desde 1985; e o Cerrado só começou a cair em 2024.",
+    "O desmatamento não foi zerado (5.796 km² ainda é maior que o mínimo de 4.571 km² de 2012) e o governo liberou a perfuração de petróleo na Margem Equatorial, criticada por ambientalistas."
+  ],
+  "explicacao_completa_md": "**PRODES Amazônia (km², ago-jul):** 2004 27.772 (pico, Lula 1); 2010 7.000; 2012 4.571 (mínimo, Dilma); 2016 7.893; 2018 7.536 (Temer); 2019 10.129; 2020 10.851; 2021 13.038 (pico recente, Bolsonaro); 2022 11.594; 2023 9.064; 2024 6.518 (consolidado; preliminar 6.288); 2025 5.796 (-11,08%; 4º ano seguido de queda; menor em 11 anos). Cerrado: 10.689 (2021/22), 11.002 (2022/23), 8.174 (2023/24, primeira queda em 5 anos), 7.235 (2025, -11,49%). DETER ago/2025-jul/2026: alertas na Amazônia -36,87% (menor desde 2016). **Queimadas 2024 (MapBiomas):** cerca de 30 milhões de hectares, 62% acima da média histórica (18,5 milhões) e +90% vs 2023; Amazônia 15,6 milhões de ha (maior desde 1985); Cerrado 9,6 milhões; Pantanal +157% vs média; coincidiu com seca extrema e El Niño. **Outros:** Fundo Amazônia paralisado em 2019 e reativado em 01/01/2023 (R$ 882 milhões aprovados em 2024, recorde); COP30 em Belém (nov/2025) sem 'mapa do caminho' dos fósseis; Ibama negou licença à Petrobras na Foz do Amazonas em maio de 2023 e concedeu em 20/10/2025 para um poço exploratório no Amapá. Fiscalização (Ibama/ICMBio/PF) é federal; estados (PA, MT) licenciam e fiscalizam.",
+  "o_que_e_verdade": [
+    "O desmatamento na Amazônia caiu 50% entre 2022 e 2025 (11.594 para 5.796 km²), menor nível em 11 anos, com quatro quedas seguidas.",
+    "O Fundo Amazônia foi reativado em 2023 após paralisação em 2019."
+  ],
+  "o_que_nao_se_sustenta": [
+    "'Zerou': 5.796 km² em 2025, acima do mínimo histórico de 2012 (4.571).",
+    "A imagem de política ambiental sem contradições: recorde de área queimada em 2024, licença para petróleo na Margem Equatorial (out/2025) e COP30 sem acordo sobre fósseis."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Governo federal (MMA, Ibama, ICMBio, PF)",
+      "papel": "comando e controle do desmatamento",
+      "peso": "alto"
+    },
+    {
+      "ator": "Governos estaduais (PA, MT e outros)",
+      "papel": "licenciamento e fiscalização",
+      "peso": "medio"
+    },
+    {
+      "ator": "Clima (seca extrema e El Niño em 2024)",
+      "papel": "fator das queimadas recordes",
+      "peso": "medio"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Desmatamento PRODES Amazônia 2025",
+      "valor": 5796,
+      "unidade": "km²",
+      "periodo": "ago/2024-jul/2025",
+      "fonte": {
+        "nome": "O Liberal/Estadão (PRODES 2025: -11,08%)",
+        "url": "https://www.oliberal.com/variedades/desmatamento-na-amazonia-em-2025-caiu-11-08-em-relacao-a-2024-afirma-prodes-inpe-1.1084212",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "2022 (último ano de Bolsonaro)",
+        "valor": 11594
+      }
+    },
+    {
+      "rotulo": "Pico recente (governo Bolsonaro)",
+      "valor": 13038,
+      "unidade": "km²",
+      "periodo": "2021",
+      "fonte": {
+        "nome": "MMA/INPE, apresentação maio/2025 (PRODES)",
+        "url": "https://static.poder360.com.br/2025/06/apresentacao-desmatamento-cerrado-amazonia-pantanal-maio-2025.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "Mínimo histórico (2012)",
+        "valor": 4571
+      }
+    },
+    {
+      "rotulo": "Área queimada no Brasil em 2024 (MapBiomas)",
+      "valor": 30,
+      "unidade": "milhões de hectares (+90% vs 2023)",
+      "periodo": "2024",
+      "fonte": {
+        "nome": "Sul21, jun/2025 (MapBiomas: 30 milhões de ha queimados em 2024)",
+        "url": "https://sul21.com.br/noticias/meio-ambiente/2025/06/queimadas-atingiram-30-milhoes-de-hectares-no-pais-em-2024/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "Média histórica anual",
+        "valor": 18.5
+      }
+    },
+    {
+      "rotulo": "Área queimada na Amazônia em 2024 (maior desde 1985)",
+      "valor": 15.6,
+      "unidade": "milhões de hectares",
+      "periodo": "2024",
+      "fonte": {
+        "nome": "Sul21, jun/2025 (MapBiomas: 30 milhões de ha queimados em 2024)",
+        "url": "https://sul21.com.br/noticias/meio-ambiente/2025/06/queimadas-atingiram-30-milhoes-de-hectares-no-pais-em-2024/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Desmatamento no Cerrado em 2025",
+      "valor": 7235,
+      "unidade": "km² (-11,49%)",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "O Liberal/Estadão (PRODES 2025: -11,08%)",
+        "url": "https://www.oliberal.com/variedades/desmatamento-na-amazonia-em-2025-caiu-11-08-em-relacao-a-2024-afirma-prodes-inpe-1.1084212",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Projetos aprovados pelo Fundo Amazônia em 2024 (recorde)",
+      "valor": 882,
+      "unidade": "R$ milhões",
+      "periodo": "2024",
+      "fonte": {
+        "nome": "Wikipédia: Fundo Amazônia (índice)",
+        "url": "https://pt.wikipedia.org/wiki/Fundo_Amaz%C3%B4nia",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": null
+    }
+  ],
+  "series": [
+    "desmatamento-amazonia-prodes",
+    "desmatamento-cerrado",
+    "queimadas",
+    "fundo-amazonia"
+  ],
+  "checagens_externas": [
+    {
+      "veiculo": "Aos Fatos",
+      "veredito_original": "FALSO que governos do PT fizeram 'a maior demarcação de terras indígenas' (fala de Lula na Band)",
+      "url": "https://www.aosfatos.org/noticias/checamos-lula-flavio-bolsonaro-debate-band/",
+      "data": "2026-10-18"
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "O Liberal/Estadão (PRODES 2025: -11,08%)",
+      "url": "https://www.oliberal.com/variedades/desmatamento-na-amazonia-em-2025-caiu-11-08-em-relacao-a-2024-afirma-prodes-inpe-1.1084212",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "MMA/INPE, apresentação maio/2025 (PRODES)",
+      "url": "https://static.poder360.com.br/2025/06/apresentacao-desmatamento-cerrado-amazonia-pantanal-maio-2025.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Sul21, jun/2025 (MapBiomas: 30 milhões de ha queimados em 2024)",
+      "url": "https://sul21.com.br/noticias/meio-ambiente/2025/06/queimadas-atingiram-30-milhoes-de-hectares-no-pais-em-2024/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Wikipédia: Fundo Amazônia (índice)",
+      "url": "https://pt.wikipedia.org/wiki/Fundo_Amaz%C3%B4nia",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Aos Fatos",
+      "url": "https://www.aosfatos.org/noticias/checamos-lula-flavio-bolsonaro-debate-band/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "O Povo, 20/10/2025 (Petrobras obtém licença no Amapá)",
+      "url": "https://www.opovo.com.br/noticias/economia/2025/10/20/amp/petrobras-obtem-licenca-exploratoria-em-aguas-profundas-do-amapa.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "JB, ago/2026 (DETER: alertas caem 36,87%)",
+      "url": "https://www.jb.com.br/brasil/meio-ambiente/2026/08/amp/1060529-desmatamento-na-amazonia-cai-3687-e-atinge-menor-nivel-desde-2016.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/07_saude_seguranca_educacao_infra_ambiente.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "Quanto caiu o desmatamento com Lula?",
+      "resposta": "De 11.594 km² (2022) para 5.796 km² (2025), cerca de 50%, com quatro quedas anuais seguidas (PRODES/INPE)."
+    },
+    {
+      "pergunta": "É o menor da história?",
+      "resposta": "Não. É o menor em 11 anos; o mínimo foi 4.571 km² em 2012, no governo Dilma."
+    },
+    {
+      "pergunta": "E as queimadas?",
+      "resposta": "2024 foi o pior ano da série do MapBiomas: 30 milhões de hectares, 62% acima da média, com a Amazônia em 15,6 milhões (maior desde 1985), em ano de seca extrema e El Niño."
+    },
+    {
+      "pergunta": "Quais são as contradições apontadas por ambientalistas?",
+      "resposta": "A licença do Ibama para a Petrobras perfurar na Margem Equatorial (out/2025), a defesa da Ferrogrão e da BR-319 e a COP30 sem 'mapa do caminho' para sair dos fósseis."
+    }
+  ],
+  "relacionadas": [
+    "desmatamento-recorde-2021-e-queda-2023-2025",
+    "eventos-climaticos-sem-causa-humana"
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false,
+  "nao_verificado": true,
+  "lacunas": [
+    "Nenhuma checagem de agência com esta redação; veredito derivado dos dados do PRODES/MapBiomas (nota 07).",
+    "Dados PRODES 2003-2011 vieram da Wikipédia (cita INPE); TerraBrasilis não carregou."
+  ]
+}

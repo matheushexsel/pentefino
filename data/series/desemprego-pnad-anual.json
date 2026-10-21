@@ -1,0 +1,102 @@
+{
+  "id": "desemprego-pnad-anual",
+  "titulo": "Taxa de desocupação média anual (PNAD Contínua)",
+  "descricao_simples": "Percentual de pessoas que procuraram trabalho e não encontraram, na média de cada ano, segundo o IBGE (série nacional iniciada em 2012).",
+  "unidade": "% da força de trabalho",
+  "tipo_grafico": "linha",
+  "frequencia": "anual",
+  "fonte": {
+    "nome": "IBGE, Retrospectiva PNAD Contínua 2012-2025 (publicada 30/01/2026)",
+    "url": "https://ftp.ibge.gov.br/Trabalho_e_Rendimento/Pesquisa_Nacional_por_Amostra_de_Domicilios_continua/Principais_destaques_PNAD_continua/2012_2025/PNAD_continua_retrospectiva_2012_2025.pdf",
+    "acesso_em": "2026-10-21",
+    "tier": "oficial"
+  },
+  "pontos": [
+    {
+      "periodo": "2012",
+      "valor": 7.4
+    },
+    {
+      "periodo": "2013",
+      "valor": 7.3,
+      "via_snippet": true
+    },
+    {
+      "periodo": "2014",
+      "valor": 7.0
+    },
+    {
+      "periodo": "2015",
+      "valor": 8.9,
+      "via_snippet": true
+    },
+    {
+      "periodo": "2016",
+      "valor": 11.6,
+      "via_snippet": true
+    },
+    {
+      "periodo": "2017",
+      "valor": 12.6,
+      "via_snippet": true
+    },
+    {
+      "periodo": "2018",
+      "valor": 12.1,
+      "via_snippet": true
+    },
+    {
+      "periodo": "2019",
+      "valor": 11.8,
+      "via_snippet": true
+    },
+    {
+      "periodo": "2020",
+      "valor": 13.7,
+      "via_snippet": true
+    },
+    {
+      "periodo": "2021",
+      "valor": 14.0,
+      "via_snippet": true
+    },
+    {
+      "periodo": "2022",
+      "valor": 9.6,
+      "via_snippet": true
+    },
+    {
+      "periodo": "2023",
+      "valor": 7.7,
+      "via_snippet": true
+    },
+    {
+      "periodo": "2024",
+      "valor": 6.6
+    },
+    {
+      "periodo": "2025",
+      "valor": 5.6
+    }
+  ],
+  "faixas_referencia": [
+    {
+      "rotulo": "Média 1S2026 (cálculo da nota 01 sobre SIDRA t4099)",
+      "valor": 5.8
+    }
+  ],
+  "notas_metodologicas": [
+    "Série recalculada pelo IBGE em 2025 (banco anual por visita); números publicados antes (ex.: 2016 = 11,7%, 2020 = 13,8%) diferem levemente dos atuais.",
+    "O PDF confirma explicitamente 2012, 2014, 2024 e 2025; os demais anos vieram de resumo de busca sobre o mesmo documento (via_snippet).",
+    "A nota 01 traz uma média dos quatro trimestres calculada sobre o SIDRA t4099 com valores um pouco diferentes (ex.: 2025 = 5,9%; 2021 = 13,2%); aqui prevalece a Retrospectiva oficial.",
+    "'Menor da história' significa menor da série da PNAD Contínua, iniciada em 2012. Antes disso só existe a PME (6 regiões metropolitanas), não comparável: ver desemprego-pme-anual.",
+    "2025: desocupados 6,2 milhões (média), ocupados 103 milhões, nível de ocupação 59,1% (recorde)."
+  ],
+  "lacunas": [],
+  "ultimo_periodo": "2025",
+  "temas": [
+    "emprego-renda"
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/03_emprego_renda_pobreza_social.md",
+  "atualizado_em": "2026-10-21"
+}

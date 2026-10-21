@@ -1,0 +1,226 @@
+{
+  "id": "chk-3003",
+  "slug": "privatizacao-da-eletrobras-baixou-a-conta",
+  "frase": "A privatização da Eletrobras vai reduzir a conta de luz em 7,36%.",
+  "frase_normalizada": "a privatização da eletrobras vai reduzir a conta de luz em 7,36%",
+  "variantes": [],
+  "autor": {
+    "nome": "Governo Bolsonaro (estimativa oficial divulgada em 2021–2022)",
+    "partido": "PL",
+    "cargo": "Presidência da República / MME"
+  },
+  "lado": "oposicao-flavio-pl",
+  "alvo": {
+    "nome": "Consumidores de energia",
+    "partido": null
+  },
+  "data": null,
+  "onde": "defesa pública da privatização",
+  "url_declaracao": "https://www.metropoles.com/brasil/economia-br/entenda-como-a-privatizacao-da-eletrobras-vai-afetar-o-seu-bolso",
+  "temas": [
+    "energia"
+  ],
+  "tags": [
+    "Eletrobras",
+    "privatização",
+    "tarifa",
+    "jabutis",
+    "CDE"
+  ],
+  "veredito": "insustentavel",
+  "resumo_uma_frase": "Era uma estimativa do governo; a ANEEL registra efeitos nos dois sentidos (alívio via R$ 32 bi à CDE; alta via descotização e térmicas obrigatórias) e não existe balanço oficial do efeito líquido.",
+  "explicacao_simples": [
+    "O governo Bolsonaro previa queda de 7,36% na conta com a privatização.",
+    "A ANEEL registrou em 2025 que a redução das cotas de garantia física 'em função da privatização' aumentou a tarifa, enquanto os R$ 32 bilhões à CDE quitaram encargos em 2024.",
+    "Associações estimaram custos de R$ 41 bi a mais de R$ 100 bi com as térmicas obrigatórias, e não há balanço oficial que feche a conta."
+  ],
+  "explicacao_completa_md": "## A promessa\nO governo Bolsonaro estimava redução de 7,36% na conta de luz.\n\n## O que aconteceu\n- **A favor da conta**: a Lei 14.182/2021 destina R$ 32 bi à CDE em 25 anos (R$ 5 bi só em 2022); em set/2024 a 'CDE Eletrobras' permitiu quitar antecipadamente os encargos CDE Covid e CDE Escassez (ANEEL).\n- **Contra a conta**: as usinas em regime de cotas vendiam a ~R$ 75/MWh e, descotizadas, podem vender a ~R$ 150/MWh (Tolmasquim); a ANEEL registra em 2025 a 'Diminuição das Cotas dos Contratos de Garantia Física – CCGF em função da privatização da Eletrobras, aumentando a tarifa em percentual superior a variação da RAG'. As térmicas obrigatórias (8 GW) foram estimadas em ~R$ 50 bi sem gasodutos; União pela Energia falou em R$ 41 bi + R$ 15 bi; Abrace em R$ 56–84 bi; colunistas em até R$ 100 bi.\n- **Contexto**: a conta subiu 7,0% em 2025 e deve subir 8,6–9,4% em 2026, acima da inflação, puxada pela CDE.\n\n## Veredito\n**Insustentável.** Não há dado oficial ex post que permita confirmar ou refutar os 7,36%; as evidências disponíveis apontam efeitos em ambos os sentidos.",
+  "o_que_e_verdade": [
+    "A privatização gerou R$ 32 bi para a CDE em 25 anos e quitou encargos Covid/Escassez em 2024."
+  ],
+  "o_que_nao_se_sustenta": [
+    "A redução de 7,36% não foi demonstrada; a ANEEL registrou alta de tarifa pela descotização em 2025 e as térmicas obrigatórias representam custo estimado em dezenas de bilhões."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Governo Bolsonaro",
+      "papel": "fez a estimativa e executou a privatização",
+      "peso": "alto"
+    },
+    {
+      "ator": "Congresso Nacional",
+      "papel": "incluiu as térmicas obrigatórias ('jabutis')",
+      "peso": "alto"
+    },
+    {
+      "ator": "ANEEL",
+      "papel": "registra os efeitos tarifários",
+      "peso": "baixo"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Redução prevista pelo governo Bolsonaro",
+      "valor": 7.36,
+      "unidade": "%",
+      "periodo": "2021–2022",
+      "fonte": {
+        "nome": "Metrópoles – Entenda como a privatização da Eletrobras vai afetar o seu bolso (27/05/2022)",
+        "url": "https://www.metropoles.com/brasil/economia-br/entenda-como-a-privatizacao-da-eletrobras-vai-afetar-o-seu-bolso",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Aportes à CDE em 25 anos",
+      "valor": 32,
+      "unidade": "R$ bilhões",
+      "periodo": "2022–2047",
+      "fonte": {
+        "nome": "Metrópoles – Entenda como a privatização da Eletrobras vai afetar o seu bolso (27/05/2022)",
+        "url": "https://www.metropoles.com/brasil/economia-br/entenda-como-a-privatizacao-da-eletrobras-vai-afetar-o-seu-bolso",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Preço das cotas antes da descotização",
+      "valor": 75,
+      "unidade": "R$/MWh",
+      "periodo": "2022",
+      "fonte": {
+        "nome": "Metrópoles – Entenda como a privatização da Eletrobras vai afetar o seu bolso (27/05/2022)",
+        "url": "https://www.metropoles.com/brasil/economia-br/entenda-como-a-privatizacao-da-eletrobras-vai-afetar-o-seu-bolso",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "Preço de mercado estimado",
+        "valor": 150
+      }
+    },
+    {
+      "rotulo": "Custo estimado das térmicas sem gasodutos",
+      "valor": 50,
+      "unidade": "R$ bilhões",
+      "periodo": "2022",
+      "fonte": {
+        "nome": "eixos – TCU aprovou privatização da Eletrobras com ampla maioria (18/05/2022)",
+        "url": "https://eixos.com.br/tcu-aprovou-privatizacao-da-eletrobras-com-ampla-maioria-de-votos/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Custo dos 'jabutis' estimado pela Abrace",
+      "valor": 56,
+      "unidade": "R$ bilhões",
+      "periodo": "2021",
+      "fonte": {
+        "nome": "Diário do Comércio – MP da privatização da Eletrobras é aprovada",
+        "url": "https://diariodocomercio.com.br/economia/mp-da-privatizacao-da-eletrobras-e-aprovada/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "Com políticas regionais e impostos",
+        "valor": 84
+      }
+    },
+    {
+      "rotulo": "Efeito médio dos reajustes em 2025",
+      "valor": 7.0,
+      "unidade": "%",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "ANEEL – Boletim InfoTarifa nº 3, dez/2025 (PDF)",
+        "url": "https://static.poder360.com.br/2025/12/3a-edicao-do-boletim-InfoTarifa-Aneel-Dezembro-2025.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "IPCA",
+        "valor": 4.4
+      }
+    }
+  ],
+  "series": [
+    "tarifa-residencial-vs-ipca",
+    "cde-anual"
+  ],
+  "checagens_externas": [],
+  "fontes": [
+    {
+      "nome": "Metrópoles – Entenda como a privatização da Eletrobras vai afetar o seu bolso (27/05/2022)",
+      "url": "https://www.metropoles.com/brasil/economia-br/entenda-como-a-privatizacao-da-eletrobras-vai-afetar-o-seu-bolso",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Mais Retorno – Privatização da Eletrobras",
+      "url": "https://maisretorno.com/portal/privatizacao-da-eletrobras-e-entrega-elevadissima",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "ANEEL – Boletim InfoTarifa nº 3, dez/2025 (PDF)",
+      "url": "https://static.poder360.com.br/2025/12/3a-edicao-do-boletim-InfoTarifa-Aneel-Dezembro-2025.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "eixos – TCU aprovou privatização da Eletrobras com ampla maioria (18/05/2022)",
+      "url": "https://eixos.com.br/tcu-aprovou-privatizacao-da-eletrobras-com-ampla-maioria-de-votos/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Idec/Folha – Novo relatório de MP da Eletrobras piora o que já estava ruim, diz indústria (jun/2021)",
+      "url": "https://idec.org.br/idec-na-imprensa/novo-relatorio-de-mp-da-eletrobras-piora-o-que-ja-estava-ruim-diz-industria",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Diário do Comércio – MP da privatização da Eletrobras é aprovada",
+      "url": "https://diariodocomercio.com.br/economia/mp-da-privatizacao-da-eletrobras-e-aprovada/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Poder360 – Privatização da Eletrobras pode cair na conta do consumidor (coluna, 20/05/2022)",
+      "url": "https://www.poder360.com.br/opiniao/privatizacao-da-eletrobras-pode-cair-na-conta-do-consumidor/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Planalto – Lei 14.182/2021 (texto consolidado)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/L14182.htm",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/06_energia_eletrobras_combustiveis.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "Existe algum estudo oficial sobre o efeito líquido?",
+      "resposta": "Não foi localizado balanço ex post do TCU ou da ANEEL; as estimativas de custo são de associações de consumidores industriais e colunistas, feitas em 2021–2022."
+    }
+  ],
+  "relacionadas": [
+    "quem-privatizou-a-eletrobras",
+    "a-conta-de-luz-subiu-por-culpa-do-governo-federal"
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false,
+  "lacunas": [
+    "Data exata da declaração de 7,36% não consta das notas.",
+    "Não localizado estudo com 'R$ 200–300 bi em 20 anos' citado em debates.",
+    "Checagens já publicadas por Aos Fatos, Lupa, Estadão Verifica e Comprova sobre o tema não foram consultadas (cota de busca esgotada); cruzar antes da publicação."
+  ]
+}

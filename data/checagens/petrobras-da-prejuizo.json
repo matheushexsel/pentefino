@@ -1,0 +1,211 @@
+{
+  "id": "chk-3006",
+  "slug": "petrobras-da-prejuizo",
+  "frase": "A Petrobras dá prejuízo.",
+  "frase_normalizada": "a petrobras dá prejuízo",
+  "variantes": [],
+  "autor": {
+    "nome": "Afirmação recorrente em redes sociais e no debate eleitoral (sem autor único identificado nas notas)",
+    "partido": null,
+    "cargo": null
+  },
+  "lado": "outro",
+  "alvo": {
+    "nome": "Petrobras",
+    "partido": null
+  },
+  "data": null,
+  "onde": "redes sociais",
+  "url_declaracao": null,
+  "temas": [
+    "combustiveis",
+    "economia"
+  ],
+  "tags": [
+    "Petrobras",
+    "lucro",
+    "dividendos"
+  ],
+  "veredito": "falso",
+  "resumo_uma_frase": "A Petrobras lucrou R$ 110,1 bilhões em 2025 (+201%), R$ 36,6 bi em 2024, R$ 124,6 bi em 2023 e R$ 188,3 bi em 2022; os únicos prejuízos da série citada foram em 2014 e 2015.",
+  "explicacao_simples": [
+    "Em 2025 a Petrobras lucrou R$ 110,1 bilhões, triplicando o resultado de 2024 (R$ 36,6 bi).",
+    "O recorde foi em 2022 (R$ 188,3 bi), seguido de R$ 124,6 bi em 2023; os prejuízos documentados foram em 2014 (R$ 21,6 bi) e 2015 (R$ 34,8 bi).",
+    "O que caiu em 2025 foram os dividendos (R$ 41,2 bi, -45,6%), não o lucro, em linha com a venda de combustível abaixo da paridade."
+  ],
+  "explicacao_completa_md": "## Lucro líquido por ano (R$ bilhões)\n2014: -21,6 | 2015: -34,8 | 2019: 40,1 | 2020: 7,0 | 2021: 106,6 | 2022: 188,3 (recorde) | 2023: 124,6 | 2024: 36,6 | 2025: 110,1 (+201%; Ebitda ajustado R$ 327,2 bi; fluxo de caixa livre R$ 91,6 bi; produção recorde de 2,40 milhões de barris/dia).\n\n## Dividendos\n2021: R$ 101,4 bi (28,67% à União); 2024: R$ 75,8 bi; 2025: R$ 41,2 bi (-45,6%). A queda é consistente com a política de preços abaixo da paridade e com prioridade a investimento.\n\n## Veredito\n**Falso.** A empresa tem lucros bilionários desde 2019; o que diminuiu em 2025 foi a distribuição aos acionistas.",
+  "o_que_e_verdade": [
+    "Os dividendos caíram 45,6% em 2025 e a União, como acionista, recebeu menos; a Petrobras vende diesel abaixo da paridade em 2026."
+  ],
+  "o_que_nao_se_sustenta": [
+    "A empresa não dá prejuízo: lucrou R$ 110,1 bi em 2025 e acumula lucros desde 2019."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Petrobras (gestão e conselho)",
+      "papel": "resultado operacional e política de preços",
+      "peso": "alto"
+    },
+    {
+      "ator": "União (acionista controladora)",
+      "papel": "indica a direção; recebe dividendos",
+      "peso": "medio"
+    },
+    {
+      "ator": "Mercado internacional",
+      "papel": "preço do petróleo",
+      "peso": "alto"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Lucro líquido 2025",
+      "valor": 110.1,
+      "unidade": "R$ bilhões",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "CNN Brasil – Balanço da Petrobras, 4T2025 (05/03/2026)",
+        "url": "https://www.cnnbrasil.com.br/economia/negocios/balanco-petrobras-4t2026/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "2024",
+        "valor": 36.6
+      }
+    },
+    {
+      "rotulo": "Lucro líquido 2022 (recorde)",
+      "valor": 188.3,
+      "unidade": "R$ bilhões",
+      "periodo": "2022",
+      "fonte": {
+        "nome": "Wikipédia (pt) – Petrobras (fonte secundária)",
+        "url": "https://pt.wikipedia.org/wiki/Petrobras",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "2023",
+        "valor": 124.6
+      }
+    },
+    {
+      "rotulo": "Prejuízo 2015",
+      "valor": -34.8,
+      "unidade": "R$ bilhões",
+      "periodo": "2015",
+      "fonte": {
+        "nome": "DIEESE/FUP – Visões estratégicas da Petrobras, abr/2023 (PDF; fonte sindical)",
+        "url": "https://fup.org.br/wp-content/uploads/2023/04/202304-DIEESE_FUP-visoes-estrategicas-da-Petrobras-1.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      "comparacao": {
+        "rotulo": "2014",
+        "valor": -21.6
+      }
+    },
+    {
+      "rotulo": "Remuneração aos acionistas 2025",
+      "valor": 41.2,
+      "unidade": "R$ bilhões",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "CNN Brasil – Balanço da Petrobras, 4T2025 (05/03/2026)",
+        "url": "https://www.cnnbrasil.com.br/economia/negocios/balanco-petrobras-4t2026/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "2024",
+        "valor": 75.8
+      }
+    },
+    {
+      "rotulo": "Produção de óleo 2025",
+      "valor": 2.4,
+      "unidade": "milhões de barris/dia",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Wikipédia (pt) – Petrobras (fonte secundária)",
+        "url": "https://pt.wikipedia.org/wiki/Petrobras",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    }
+  ],
+  "series": [
+    "petrobras-lucro-anual",
+    "petrobras-dividendos-anual"
+  ],
+  "checagens_externas": [],
+  "fontes": [
+    {
+      "nome": "CNN Brasil – Balanço da Petrobras, 4T2025 (05/03/2026)",
+      "url": "https://www.cnnbrasil.com.br/economia/negocios/balanco-petrobras-4t2026/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Monitor do Mercado – Petrobras triplica lucro em 2025, mas distribuirá menos dividendos",
+      "url": "https://monitordomercado.com.br/noticias/359900-petrobras-triplica-lucro-em-2025-mas-distribuira-menos-dividendos/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Safra – Petrobras: lucro e dividendos 2024",
+      "url": "https://oespecialista.safra.com.br/petrobras-lucro-dividendos-2024/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Wikipédia (pt) – Petrobras (fonte secundária)",
+      "url": "https://pt.wikipedia.org/wiki/Petrobras",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "CartaCapital – Lucro e dividendos da Petrobras em 2021 (23/02/2022)",
+      "url": "https://www.cartacapital.com.br/?p=258824",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Gazeta SP – Petrobras dará lucro de quase R$ 9 bilhões ao governo",
+      "url": "https://www.gazetasp.com.br/brasil/petrobras-dara-lucro-de-quase-r-9-bilhoes-ao-governo-nesta-semana/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "DIEESE/FUP – Visões estratégicas da Petrobras, abr/2023 (PDF; fonte sindical)",
+      "url": "https://fup.org.br/wp-content/uploads/2023/04/202304-DIEESE_FUP-visoes-estrategicas-da-Petrobras-1.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/06_energia_eletrobras_combustiveis.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "Quanto a União ganha com a Petrobras?",
+      "resposta": "A União recebeu R$ 34,4 bi em dividendos em 2019–2021 (Economática) e 28,67% dos R$ 101,4 bi de 2021; a série anual oficial de dividendos à União não foi localizada."
+    }
+  ],
+  "relacionadas": [
+    "lula-segura-o-preco-da-gasolina",
+    "petrobras-define-o-preco-na-bomba"
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false,
+  "lacunas": [
+    "Autoria, data e local da declaração não documentados nas notas; a checagem trata a afirmação em sua forma recorrente.",
+    "Reportagens divergem sobre 2022 (R$ 215,7 bi distribuídos vs lucro de R$ 188,3 bi); a Wikipédia traz R$ 100,9 bi para 2025, possivelmente outra base.",
+    "Checagens já publicadas por Aos Fatos, Lupa, Estadão Verifica e Comprova sobre o tema não foram consultadas (cota de busca esgotada); cruzar antes da publicação."
+  ]
+}

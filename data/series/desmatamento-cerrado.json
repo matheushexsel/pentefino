@@ -1,0 +1,73 @@
+{
+  "id": "desmatamento-cerrado",
+  "titulo": "Desmatamento no Cerrado (PRODES/INPE)",
+  "descricao_simples": "Área de vegetação nativa suprimida por ano no bioma Cerrado, medida pelo INPE. Subiu até 11.002 km² em 2023 e caiu para 8.174 km² (2024) e 7.235 km² (2025).",
+  "unidade": "km²",
+  "tipo_grafico": "barra",
+  "frequencia": "anual",
+  "fonte": {
+    "nome": "MMA/INPE — apresentação desmatamento Cerrado, Amazônia e Pantanal (maio/2025)",
+    "url": "https://static.poder360.com.br/2025/06/apresentacao-desmatamento-cerrado-amazonia-pantanal-maio-2025.pdf",
+    "acesso_em": "2026-10-21",
+    "tier": "oficial"
+  },
+  "pontos": [
+    {
+      "periodo": "2018/19",
+      "valor": 6319
+    },
+    {
+      "periodo": "2019/20",
+      "valor": 7905
+    },
+    {
+      "periodo": "2020/21",
+      "valor": 8531
+    },
+    {
+      "periodo": "2021/22",
+      "valor": 10689
+    },
+    {
+      "periodo": "2022/23",
+      "valor": 11002
+    },
+    {
+      "periodo": "2023/24",
+      "valor": 8174,
+      "detalhe": {
+        "variacao_pct": -25.7,
+        "nota": "primeira queda em 5 anos"
+      }
+    },
+    {
+      "periodo": "2025",
+      "valor": 7235,
+      "detalhe": {
+        "variacao_pct": -11.49
+      }
+    }
+  ],
+  "faixas_referencia": [],
+  "notas_metodologicas": [
+    "Período agosto–julho, como na Amazônia. O Cerrado continuou subindo em 2022/23 enquanto a Amazônia já caía; a queda veio em 2023/24.",
+    "Responsabilidade: no Cerrado, grande parte da supressão é legal (autorizada por órgãos estaduais) porque o Código Florestal exige reserva legal menor que na Amazônia; a fiscalização federal (Ibama) atua sobre o desmatamento ilegal."
+  ],
+  "ultimo_periodo": "2025",
+  "temas": [
+    "meio-ambiente"
+  ],
+  "fontes_adicionais": [
+    {
+      "nome": "O Liberal/Estadão — PRODES 2025",
+      "url": "https://www.oliberal.com/variedades/desmatamento-na-amazonia-em-2025-caiu-11-08-em-relacao-a-2024-afirma-prodes-inpe-1.1084212",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "lacunas": [
+    "Série anterior a 2018/19 não consta da nota."
+  ],
+  "atualizado_em": "2026-10-21",
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/07_saude_seguranca_educacao_infra_ambiente.md"
+}

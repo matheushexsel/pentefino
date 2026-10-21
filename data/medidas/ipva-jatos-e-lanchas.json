@@ -1,0 +1,122 @@
+{
+  "id": "ipva-jatos-e-lanchas",
+  "nome": "IPVA sobre jatos, helicópteros, iates e lanchas (EC 132/2023)",
+  "tipo": "imposto",
+  "governo": "lula-3",
+  "lado": "governo-lula-pt",
+  "norma": {
+    "nome": "Emenda Constitucional 132/2023 (nova redação do art. 155 da Constituição); PLP 138/2025 (Comsefaz/sen. Augusta Brito) em tramitação sobre qual estado cobra",
+    "data": null,
+    "url": "https://contadores.cnt.br/projetos/38/noticias/tecnicas/2026/04/08/reforma-tributaria-autoriza-cobranca-de-ipva-de-aeronaves-e-embarcacoes.html",
+    "vigencia": "Autorização constitucional vigente; a cobrança depende de lei de cada estado e do princípio da anterioridade"
+  },
+  "status": "aprovada-aguarda",
+  "o_que_faz_simples": [
+    "A reforma tributária mudou a Constituição para permitir que os estados cobrem IPVA de veículos aquáticos e aéreos (jatos, helicópteros, iates, lanchas), superando a jurisprudência do STF que limitava o IPVA a veículos terrestres.",
+    "Ficam de fora, por exceção taxativa: aeronaves agrícolas e de operador certificado para serviços a terceiros, embarcações de transporte aquaviário com outorga e de pesca, plataformas e tratores/máquinas agrícolas.",
+    "As alíquotas podem variar por valor, tipo, uso e impacto ambiental do veículo.",
+    "Cada estado precisa aprovar lei própria; o PLP 138/2025 busca resolver disputas sobre qual estado pode cobrar."
+  ],
+  "quem_ganha": {
+    "descricao": "Estados (arrecadação do IPVA). Não há beneficiário direto por faixa de renda.",
+    "pessoas": null,
+    "faixa_renda": "Não se aplica",
+    "fonte": {
+      "nome": "Contadores.cnt.br — reforma tributária autoriza cobrança de IPVA de aeronaves e embarcações (08/04/2026)",
+      "url": "https://contadores.cnt.br/projetos/38/noticias/tecnicas/2026/04/08/reforma-tributaria-autoriza-cobranca-de-ipva-de-aeronaves-e-embarcacoes.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  },
+  "quem_paga": {
+    "descricao": "Proprietários de aeronaves e embarcações de uso pessoal/recreativo — grupo de alto patrimônio. Aeronaves agrícolas, de táxi-aéreo certificado, embarcações comerciais com outorga e de pesca estão excluídas.",
+    "pessoas": null,
+    "faixa_renda": "Topo da distribuição (alto patrimônio)",
+    "fonte": {
+      "nome": "Contadores.cnt.br — reforma tributária autoriza cobrança de IPVA de aeronaves e embarcações (08/04/2026)",
+      "url": "https://contadores.cnt.br/projetos/38/noticias/tecnicas/2026/04/08/reforma-tributaria-autoriza-cobranca-de-ipva-de-aeronaves-e-embarcacoes.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  },
+  "custo_ou_arrecadacao": {
+    "valor": null,
+    "unidade": "R$ bilhões",
+    "periodo": null,
+    "descricao": "Estimativa de arrecadação não consta das notas; depende de leis estaduais.",
+    "fonte": {
+      "nome": "Contadores.cnt.br — reforma tributária autoriza cobrança de IPVA de aeronaves e embarcações (08/04/2026)",
+      "url": "https://contadores.cnt.br/projetos/38/noticias/tecnicas/2026/04/08/reforma-tributaria-autoriza-cobranca-de-ipva-de-aeronaves-e-embarcacoes.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  },
+  "regra_simulador": {
+    "tipo": "nenhuma",
+    "parametros": {}
+  },
+  "mitos": [
+    {
+      "mito": "O IPVA de jatos e iates já é cobrado em todo o país.",
+      "fato": "A EC 132 apenas autorizou a cobrança; ela depende de lei de cada estado e da anterioridade. Em 2025-2026 ainda tramitava o PLP 138/2025 para definir qual estado pode cobrar.",
+      "fontes": [
+        {
+          "nome": "Contadores.cnt.br — reforma tributária autoriza cobrança de IPVA de aeronaves e embarcações (08/04/2026)",
+          "url": "https://contadores.cnt.br/projetos/38/noticias/tecnicas/2026/04/08/reforma-tributaria-autoriza-cobranca-de-ipva-de-aeronaves-e-embarcacoes.html",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "Correio da Manhã (PDF, 27/06/2025) — PLP 138/2025 sobre qual estado cobra IPVA de jatos e iates",
+          "url": "https://digital.correiodamanha.com.br/jornalcorreiodamanha/2025/06/27/104463/pdf/2706cmanha08.pdf",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        }
+      ]
+    },
+    {
+      "mito": "Aviões agrícolas e barcos de pesca vão pagar IPVA.",
+      "fato": "A Constituição exclui expressamente aeronaves agrícolas e de operador certificado para terceiros, embarcações de transporte aquaviário com outorga e de pesca, plataformas e tratores/máquinas agrícolas.",
+      "fontes": [
+        {
+          "nome": "Contadores.cnt.br — reforma tributária autoriza cobrança de IPVA de aeronaves e embarcações (08/04/2026)",
+          "url": "https://contadores.cnt.br/projetos/38/noticias/tecnicas/2026/04/08/reforma-tributaria-autoriza-cobranca-de-ipva-de-aeronaves-e-embarcacoes.html",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "Jus.com.br — impactos da reforma tributária no IPVA",
+          "url": "https://jus.com.br/artigos/108248/impactos-da-reforma-tributaria-no-ipva-novas-incidencias-e-aliquotas-diferenciadas",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Contadores.cnt.br — reforma tributária autoriza cobrança de IPVA de aeronaves e embarcações (08/04/2026)",
+      "url": "https://contadores.cnt.br/projetos/38/noticias/tecnicas/2026/04/08/reforma-tributaria-autoriza-cobranca-de-ipva-de-aeronaves-e-embarcacoes.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Jus.com.br — impactos da reforma tributária no IPVA",
+      "url": "https://jus.com.br/artigos/108248/impactos-da-reforma-tributaria-no-ipva-novas-incidencias-e-aliquotas-diferenciadas",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Correio da Manhã (PDF, 27/06/2025) — PLP 138/2025 sobre qual estado cobra IPVA de jatos e iates",
+      "url": "https://digital.correiodamanha.com.br/jornalcorreiodamanha/2025/06/27/104463/pdf/2706cmanha08.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/12_pix_fake_news_e_impostos_quem_paga.md",
+  "lacunas": [
+    "Data de promulgação da EC 132/2023 e URL oficial não constam das notas.",
+    "Quais estados já aprovaram lei de IPVA para aeronaves/embarcações e estimativa de arrecadação: não localizados."
+  ],
+  "atualizado_em": "2026-10-21"
+}

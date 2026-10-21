@@ -1,0 +1,217 @@
+{
+  "id": "caso-marielle",
+  "nome": "Caso Marielle Franco e Anderson Gomes (julgamento dos mandantes no STF)",
+  "periodo": {
+    "inicio": null,
+    "fim": "2026-07-13",
+    "nota": "Data do crime não consta nas notas; condenação em 25/02/2026 e trânsito em julgado em 13/07/2026."
+  },
+  "governos_em_que_ocorreram_os_fatos": [],
+  "governos_em_que_foi_investigado": [
+    "lula-3"
+  ],
+  "resumo_simples": [
+    "Em 25/02/2026 a 1ª Turma do STF condenou por unanimidade Domingos Brazão (conselheiro do TCE-RJ) e Chiquinho Brazão (então deputado federal) a 76 anos e 3 meses cada por duplo homicídio, tentativa de homicídio e organização criminosa armada (200 dias-multa); Ronald Paulo Alves Pereira a 56 anos; Robson Calixto Fonseca a 9 anos; e Rivaldo Barbosa (ex-chefe da Polícia Civil do RJ) a 18 anos por obstrução e corrupção passiva.",
+    "Os réus devem indenizar as famílias em R$ 7 mi e perderam os cargos; Dino manteve a perda do mandato de Chiquinho. Em 13/07/2026 Moraes declarou o trânsito em julgado e o cumprimento imediato das penas; Chiquinho ficou em domiciliar por 90 dias por razões de saúde."
+  ],
+  "valores": [
+    {
+      "rotulo": "Pena dos irmãos Brazão (cada)",
+      "valor": 76.25,
+      "unidade": "anos (76 anos e 3 meses)",
+      "fonte": {
+        "nome": "Jornal Opção, 25/02/2026: STF condena irmãos Brazão a 76 anos pelo assassinato de Marielle Franco",
+        "url": "https://www.jornalopcao.com.br/ultimas-noticias/stf-condena-irmaos-brazao-a-76-anos-de-prisao-pelo-assassinato-de-marielle-franco-797770/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Pena de Ronald Paulo Alves Pereira",
+      "valor": 56,
+      "unidade": "anos",
+      "fonte": {
+        "nome": "Jornal do Brasil, fev/2026: STF condena réus pelo assassinato de Marielle Franco e Anderson Gomes",
+        "url": "https://www.jb.com.br/brasil/justica/2026/02/1058780-stf-condena-reus-pelo-assassinato-de-marielle-franco-e-anderson-gomes.html",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Pena de Rivaldo Barbosa",
+      "valor": 18,
+      "unidade": "anos",
+      "fonte": {
+        "nome": "Jornal do Brasil, fev/2026: STF condena réus pelo assassinato de Marielle Franco e Anderson Gomes",
+        "url": "https://www.jb.com.br/brasil/justica/2026/02/1058780-stf-condena-reus-pelo-assassinato-de-marielle-franco-e-anderson-gomes.html",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Pena de Robson Calixto Fonseca",
+      "valor": 9,
+      "unidade": "anos",
+      "fonte": {
+        "nome": "Jornal do Brasil, fev/2026: STF condena réus pelo assassinato de Marielle Franco e Anderson Gomes",
+        "url": "https://www.jb.com.br/brasil/justica/2026/02/1058780-stf-condena-reus-pelo-assassinato-de-marielle-franco-e-anderson-gomes.html",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Indenização às famílias",
+      "valor": 7,
+      "unidade": "R$ milhões",
+      "fonte": {
+        "nome": "InfoMoney: caso Marielle — STF decide que réus devem indenizar famílias em R$ 7 mi",
+        "url": "https://www.infomoney.com.br/politica/caso-marielle-stf-decide-que-reus-devem-indenizar-familias-das-vitimas-em-r-7-mi/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    }
+  ],
+  "partidos": [
+    {
+      "partido": "não informado nas notas (Chiquinho Brazão)",
+      "citados": null,
+      "denunciados": 1,
+      "condenados_1a_instancia": null,
+      "condenados_definitivo": 1,
+      "condenacoes_anuladas": 0,
+      "nomes": [
+        "Chiquinho Brazão (deputado federal à época da condenação)"
+      ],
+      "fonte": {
+        "nome": "Jornal Opção, 25/02/2026: STF condena irmãos Brazão a 76 anos pelo assassinato de Marielle Franco",
+        "url": "https://www.jornalopcao.com.br/ultimas-noticias/stf-condena-irmaos-brazao-a-76-anos-de-prisao-pelo-assassinato-de-marielle-franco-797770/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "nota": "Partido à época não consta nas fontes lidas (pesquisador registra 'eleito pelo Avante e migrou para o União Brasil' como conhecimento geral não checado).",
+      "nao_verificado": true
+    }
+  ],
+  "pessoas": [
+    {
+      "nome": "Domingos Brazão",
+      "partido_na_epoca": "não informado nas notas",
+      "cargo": "conselheiro do TCE-RJ",
+      "crime": "duplo homicídio, tentativa de homicídio e organização criminosa armada",
+      "tribunal": "STF, 1ª Turma",
+      "data_condenacao": "2026-02-25",
+      "pena": "76 anos e 3 meses + 200 dias-multa; perda do cargo; indenização (R$ 7 mi, solidária)",
+      "status_atual": "Trânsito em julgado em 13/07/2026; cumprimento imediato determinado por Moraes.",
+      "status_categoria": "condenado-definitivo",
+      "url": "https://www.jornalopcao.com.br/ultimas-noticias/stf-condena-irmaos-brazao-a-76-anos-de-prisao-pelo-assassinato-de-marielle-franco-797770/"
+    },
+    {
+      "nome": "Chiquinho Brazão",
+      "partido_na_epoca": "não informado nas notas",
+      "cargo": "deputado federal (mandato perdido)",
+      "crime": "duplo homicídio, tentativa de homicídio e organização criminosa armada",
+      "tribunal": "STF, 1ª Turma",
+      "data_condenacao": "2026-02-25",
+      "pena": "76 anos e 3 meses + 200 dias-multa; perda do mandato; indenização (R$ 7 mi, solidária)",
+      "status_atual": "Trânsito em julgado em 13/07/2026; em prisão domiciliar por 90 dias por razões de saúde; Dino manteve a perda do mandato.",
+      "status_categoria": "condenado-definitivo",
+      "url": "https://www.jornalopcao.com.br/ultimas-noticias/stf-condena-irmaos-brazao-a-76-anos-de-prisao-pelo-assassinato-de-marielle-franco-797770/",
+      "nao_verificado": true
+    },
+    {
+      "nome": "Rivaldo Barbosa",
+      "partido_na_epoca": "sem partido (delegado)",
+      "cargo": "ex-chefe da Polícia Civil do RJ",
+      "crime": "obstrução de justiça e corrupção passiva (reenquadramento)",
+      "tribunal": "STF, 1ª Turma",
+      "data_condenacao": "2026-02-25",
+      "pena": "18 anos; perda do cargo",
+      "status_atual": "Trânsito em julgado em 13/07/2026; cumprimento imediato.",
+      "status_categoria": "condenado-definitivo",
+      "url": "https://www.jb.com.br/brasil/justica/2026/02/1058780-stf-condena-reus-pelo-assassinato-de-marielle-franco-e-anderson-gomes.html"
+    },
+    {
+      "nome": "Ronald Paulo Alves Pereira",
+      "partido_na_epoca": "sem partido",
+      "cargo": "não informado nas notas",
+      "crime": "duplo homicídio e crimes conexos",
+      "tribunal": "STF, 1ª Turma",
+      "data_condenacao": "2026-02-25",
+      "pena": "56 anos",
+      "status_atual": "Trânsito em julgado em 13/07/2026.",
+      "status_categoria": "condenado-definitivo",
+      "url": "https://www.jb.com.br/brasil/justica/2026/02/1058780-stf-condena-reus-pelo-assassinato-de-marielle-franco-e-anderson-gomes.html"
+    },
+    {
+      "nome": "Robson Calixto Fonseca",
+      "partido_na_epoca": "sem partido",
+      "cargo": "não informado nas notas",
+      "crime": "não detalhado nas notas",
+      "tribunal": "STF, 1ª Turma",
+      "data_condenacao": "2026-02-25",
+      "pena": "9 anos",
+      "status_atual": "Trânsito em julgado em 13/07/2026.",
+      "status_categoria": "condenado-definitivo",
+      "url": "https://www.jb.com.br/brasil/justica/2026/02/1058780-stf-condena-reus-pelo-assassinato-de-marielle-franco-e-anderson-gomes.html"
+    }
+  ],
+  "linha_do_tempo": [
+    {
+      "data": "2026-02-25",
+      "evento": "1ª Turma do STF condena por unanimidade os irmãos Brazão (76a3m), Ronald Pereira (56a), Rivaldo Barbosa (18a) e Robson Calixto (9a); indenização de R$ 7 mi às famílias.",
+      "url": "https://www.jornalopcao.com.br/ultimas-noticias/stf-condena-irmaos-brazao-a-76-anos-de-prisao-pelo-assassinato-de-marielle-franco-797770/"
+    },
+    {
+      "data": "2026-07-13",
+      "evento": "Moraes declara o trânsito em julgado e determina o cumprimento imediato das penas; Chiquinho em domiciliar por 90 dias (saúde).",
+      "url": "https://www.diariodepernambuco.com.br/amp/politica/2026/07/11718769-caso-marielle-moraes-determina-cumprimento-imediato-de-penas.html"
+    }
+  ],
+  "o_que_dizem_os_dois_lados": {
+    "acusacao": "A PGR sustentou que os irmãos Brazão foram os mandantes do assassinato de Marielle Franco e Anderson Gomes e que Rivaldo Barbosa obstruiu a investigação; o STF acolheu por unanimidade.",
+    "defesa": "As defesas negaram a autoria intelectual; obtiveram para Rivaldo Barbosa o reenquadramento para obstrução e corrupção passiva (18 anos) e, para Chiquinho, prisão domiciliar temporária por razões de saúde. As notas não detalham as teses de defesa apresentadas."
+  },
+  "status_atual_md": "**Condenações definitivas** (trânsito em 13/07/2026) e em cumprimento. É, ao lado da AP 2668 e do caso Maranhãozinho, uma das poucas condenações definitivas de políticos no período 2025–2026.",
+  "lacunas": [
+    "Partido de Chiquinho Brazão à época não consta nas fontes lidas.",
+    "Data do crime e histórico anterior do caso (executores, investigações de 2018–2024) não constam nas notas.",
+    "Cargo de Ronald Pereira e Robson Calixto e crimes específicos de Calixto não detalhados."
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/05_escandalos_recentes_inss_master_bolsonaro.md",
+  "fontes": [
+    {
+      "nome": "Jornal Opção, 25/02/2026: STF condena irmãos Brazão a 76 anos pelo assassinato de Marielle Franco",
+      "url": "https://www.jornalopcao.com.br/ultimas-noticias/stf-condena-irmaos-brazao-a-76-anos-de-prisao-pelo-assassinato-de-marielle-franco-797770/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Jornal do Brasil, fev/2026: STF condena réus pelo assassinato de Marielle Franco e Anderson Gomes",
+      "url": "https://www.jb.com.br/brasil/justica/2026/02/1058780-stf-condena-reus-pelo-assassinato-de-marielle-franco-e-anderson-gomes.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "InfoMoney: caso Marielle — STF decide que réus devem indenizar famílias em R$ 7 mi",
+      "url": "https://www.infomoney.com.br/politica/caso-marielle-stf-decide-que-reus-devem-indenizar-familias-das-vitimas-em-r-7-mi/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Diário de Pernambuco, jul/2026: caso Marielle — Moraes determina cumprimento imediato de penas",
+      "url": "https://www.diariodepernambuco.com.br/amp/politica/2026/07/11718769-caso-marielle-moraes-determina-cumprimento-imediato-de-penas.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "atualizado_em": "2026-10-21",
+  "convencoes": [
+    "citado: nome aparece em delação, planilha, relatório de CPI ou reportagem, sem ato formal de investigação.",
+    "investigado: alvo de inquérito, busca, prisão temporária/preventiva ou indiciamento pela PF (indiciamento não é denúncia).",
+    "denunciado: PGR/MPF ofereceu denúncia; réu: a denúncia foi recebida pelo tribunal.",
+    "condenado-1a / condenado-2a: decisão de mérito ainda sujeita a recurso. Para condenações pelo STF em instância única sem trânsito em julgado confirmado nas notas, usa-se condenado-1a com explicação em status_atual.",
+    "condenado-definitivo: trânsito em julgado confirmado nas notas; cumprindo-pena / pena-cumprida quando as notas informam a execução.",
+    "anulada: condenação ou provas anuladas por nulidade (competência, parcialidade, prova ilícita), sem exame de mérito; absolvido: decisão de mérito favorável; arquivado: inquérito/denúncia encerrada sem mérito; prescrito: punibilidade extinta pelo tempo.",
+    "Pedido de indiciamento por CPI/CPMI não é indiciamento policial nem denúncia: é recomendação ao Ministério Público."
+  ]
+}

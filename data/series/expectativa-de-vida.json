@@ -1,0 +1,60 @@
+{
+  "id": "expectativa-de-vida",
+  "titulo": "Expectativa de vida ao nascer",
+  "descricao_simples": "Anos que um recém-nascido viveria, em média, mantidas as condições de mortalidade do ano. Caiu para 72,8 anos em 2021 (pandemia) e atingiu o recorde de 76,6 anos em 2024.",
+  "unidade": "anos",
+  "tipo_grafico": "linha",
+  "frequencia": "anual",
+  "fonte": {
+    "nome": "Monitor Mercantil (IBGE, Tábua de Mortalidade 2024)",
+    "url": "https://monitormercantil.com.br/expectativa-de-vida-do-brasileiro-chega-a-766-anos-em-2024/",
+    "acesso_em": "2026-10-21",
+    "tier": "imprensa"
+  },
+  "pontos": [
+    {
+      "periodo": "2021",
+      "valor": 72.8
+    },
+    {
+      "periodo": "2023",
+      "valor": 76.4
+    },
+    {
+      "periodo": "2024",
+      "valor": 76.6,
+      "detalhe": {
+        "mulheres": 79.9,
+        "homens": 73.3
+      }
+    }
+  ],
+  "faixas_referencia": [],
+  "notas_metodologicas": [
+    "Tábua de Mortalidade 2024 (IBGE, divulgada em 28/11/2025). A recuperação após a pandemia começou em 2022.",
+    "Ponto de 2022 não consta da nota."
+  ],
+  "ultimo_periodo": "2024",
+  "temas": [
+    "saude"
+  ],
+  "fontes_adicionais": [
+    {
+      "nome": "NSC Total (IBGE, Tábua de Mortalidade 2024)",
+      "url": "https://www.nsctotal.com.br/?p=7739876",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Jovem Pan (IBGE, Tábua de Mortalidade 2024)",
+      "url": "https://jovempan.com.br/noticias/brasil/expectativa-de-vida-do-brasileiro-sobe-para-766-anos-em-2024.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "lacunas": [
+    "Série anual 2003–2020 e 2022 não acessada na nota."
+  ],
+  "atualizado_em": "2026-10-21",
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/07_saude_seguranca_educacao_infra_ambiente.md"
+}

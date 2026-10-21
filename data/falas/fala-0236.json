@@ -1,0 +1,95 @@
+{
+  "id": "fala-0236",
+  "slug": "flavio-lei-antifaccao-ate-80-anos-presos",
+  "evento_id": "debate-band-2turno-2026-10-18",
+  "candidato": "flavio-bolsonaro",
+  "lado": "oposicao-flavio-pl",
+  "minuto": null,
+  "frase_literal": "A Lei Antifacção que nós aprovamos, os líderes dessas organizações vão ficar até 80 anos presos.",
+  "literal": true,
+  "tema": "seguranca",
+  "veredito": "falta-contexto",
+  "resumo_uma_frase": "A Lei 15.358/2026 prevê 20 a 40 anos, em dobro para líderes, mas o art. 75 do Código Penal limita o cumprimento a 40 anos; o projeto foi enviado pelo Executivo.",
+  "explicacao_simples": [
+    "Flávio Bolsonaro, no debate da Band (18/10/2026), disse: “A Lei Antifacção que nós aprovamos, os líderes dessas organizações vão ficar até 80 anos presos”.",
+    "Lupa: falta contexto; Estadão: enganoso; Ranking: impreciso — Lei 15.358/2026 (24/3/2026): 20–40 anos, dobro para líderes; art. 75 do CP limita o cumprimento a 40 anos. O projeto foi do Executivo.",
+    "A frase omite informações que mudam a leitura do dado; por isso é classificada como 'falta contexto'."
+  ],
+  "o_que_e_verdade": [
+    "A lei endureceu penas para líderes de facções."
+  ],
+  "o_que_nao_se_sustenta": [
+    "Ninguém cumpre mais de 40 anos (CP, art. 75).",
+    "'Que nós aprovamos' omite que o projeto veio do Executivo."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Limite de cumprimento de pena (CP, art. 75)",
+      "valor": 40,
+      "unidade": "anos",
+      "periodo": "vigente",
+      "fonte": {
+        "nome": "Lupa",
+        "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      }
+    }
+  ],
+  "base_legal": [
+    {
+      "norma": "Lei 15.358/2026 (Lei Antifacção), de 24/3/2026",
+      "o_que_diz": "Fixa penas de 20 a 40 anos para integrantes de organizações criminosas, em dobro para líderes; também alterou o Código Eleitoral para impedir o alistamento de presos provisórios.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/L15358.htm"
+    },
+    {
+      "norma": "Código Penal, art. 75",
+      "o_que_diz": "Limita o tempo de cumprimento de pena privativa de liberdade a 40 anos, com nova unificação em caso de condenação posterior.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm"
+    }
+  ],
+  "checagens_externas": [
+    {
+      "veiculo": "Lupa",
+      "veredito_original": "FALTA CONTEXTO",
+      "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+      "data": "2026-10-18"
+    },
+    {
+      "veiculo": "Estadão Verifica (via Polêmica Paraíba)",
+      "veredito_original": "ENGANOSO",
+      "url": "https://www.polemicaparaiba.com.br/brasil/estadao-verifica-checa-declaracoes-de-lula-e-flavio-bolsonaro-em-debate-e-aponta-informacoes-falsas-enganosas-e-verdadeiras-confira/",
+      "data": "2026-10-19"
+    },
+    {
+      "veiculo": "Ranking dos Políticos",
+      "veredito_original": "IMPRECISO",
+      "url": "https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026",
+      "data": "2026-10-19"
+    }
+  ],
+  "checagem_slug": "lei-antifaccao-80-anos",
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Lupa",
+      "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Estadão Verifica (via Polêmica Paraíba)",
+      "url": "https://www.polemicaparaiba.com.br/brasil/estadao-verifica-checa-declaracoes-de-lula-e-flavio-bolsonaro-em-debate-e-aponta-informacoes-falsas-enganosas-e-verdadeiras-confira/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Ranking dos Políticos",
+      "url": "https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
+  "atualizado_em": "2026-10-21"
+}

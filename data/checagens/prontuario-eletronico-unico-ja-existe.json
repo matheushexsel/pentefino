@@ -1,0 +1,146 @@
+{
+  "id": "chk-2104",
+  "slug": "prontuario-eletronico-unico-ja-existe",
+  "frase": "Vou criar um prontuário eletrônico único.",
+  "frase_normalizada": "vou criar um prontuario eletronico unico",
+  "variantes": [],
+  "autor": {
+    "nome": "Flávio Bolsonaro",
+    "partido": "PL",
+    "cargo": "senador (RJ) e candidato à Presidência"
+  },
+  "lado": "oposicao-flavio-pl",
+  "alvo": {
+    "nome": null,
+    "partido": null
+  },
+  "data": "2026-10-16",
+  "onde": "Entrevista à TV Globo (Renata Lo Prete)",
+  "url_declaracao": "https://www.aosfatos.org/noticias/checamos-flavio-bolsonaro-globo-segundo-turno/",
+  "temas": [
+    "saude",
+    "eleicao-2026"
+  ],
+  "tags": [
+    "saude",
+    "eleicao-2026"
+  ],
+  "veredito": "falta-contexto",
+  "resumo_uma_frase": "A Rede Nacional de Dados em Saúde (RNDS), criada em 2020 no governo Bolsonaro, já reúne mais de 5 bilhões de registros; o Aos Fatos anotou que o prontuário único 'já existe', e o programa de Lula também promete ampliá-lo.",
+  "explicacao_simples": [
+    "Flávio prometeu criar um prontuário eletrônico único para o SUS.",
+    "A RNDS, criada em 2020 no governo do pai dele, já faz isso em parte, com mais de 5 bilhões de registros.",
+    "O programa de Lula também promete prontuário único e teleconsultas; a promessa não é nova."
+  ],
+  "explicacao_completa_md": "Aos Fatos (Globo, 16/10): JÁ EXISTE (RNDS criada em 2020, mais de 5 bilhões de registros). O programa de Lula (08/08/2026) inclui prontuário único, teleconsultas, Mais Médicos e Farmácia Popular; o de Flávio inclui o eixo 'Brasil sem Fila' (digitalização). Contexto do SUS (nota 07): União financia cerca de 40% do gasto público em saúde (piso de 15% da RCL, R$ 245,5 bilhões no PLOA 2026); 'Agora Tem Especialistas' tinha 577 especialistas em dez/2025 e 1.501 em jun/2026.",
+  "o_que_e_verdade": [
+    "A integração de prontuários é uma necessidade reconhecida e consta dos dois programas."
+  ],
+  "o_que_nao_se_sustenta": [
+    "'Vou criar': a RNDS existe desde 2020, com mais de 5 bilhões de registros."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Ministério da Saúde (RNDS, desde 2020)",
+      "papel": "mantém a base nacional de dados em saúde",
+      "peso": "alto"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Registros na RNDS",
+      "valor": 5,
+      "unidade": "bilhões (mais de)",
+      "periodo": "2026",
+      "fonte": {
+        "nome": "Aos Fatos",
+        "url": "https://www.aosfatos.org/noticias/checamos-flavio-bolsonaro-globo-segundo-turno/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Ano de criação da RNDS",
+      "valor": 2020,
+      "unidade": "ano",
+      "periodo": "2020",
+      "fonte": {
+        "nome": "Aos Fatos",
+        "url": "https://www.aosfatos.org/noticias/checamos-flavio-bolsonaro-globo-segundo-turno/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Piso federal da saúde no PLOA 2026",
+      "valor": 245.5,
+      "unidade": "R$ bilhões",
+      "periodo": "2026",
+      "fonte": {
+        "nome": "O Imparcial/Estadão Conteúdo, ago/2025",
+        "url": "https://oimparcial.com.br/economia/2025/08/despesas-federais-poderao-crescer-ate-r-168-bilhoes-em-2026/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": null
+    }
+  ],
+  "series": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Aos Fatos",
+      "veredito_original": "JÁ EXISTE",
+      "url": "https://www.aosfatos.org/noticias/checamos-flavio-bolsonaro-globo-segundo-turno/",
+      "data": "2026-10-16"
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Aos Fatos",
+      "url": "https://www.aosfatos.org/noticias/checamos-flavio-bolsonaro-globo-segundo-turno/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "O Imparcial/Estadão Conteúdo, ago/2025",
+      "url": "https://oimparcial.com.br/economia/2025/08/despesas-federais-poderao-crescer-ate-r-168-bilhoes-em-2026/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Nota 07 deste projeto (saúde)",
+      "url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/07_saude_seguranca_educacao_infra_ambiente.md",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/09_acusacoes_e_falas_flavio_x_lula.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "Já existe prontuário eletrônico único no SUS?",
+      "resposta": "A RNDS, criada em 2020, integra mais de 5 bilhões de registros; a unificação completa ainda é promessa dos dois candidatos."
+    },
+    {
+      "pergunta": "Quem criou a RNDS?",
+      "resposta": "O Ministério da Saúde, em 2020, no governo Bolsonaro."
+    },
+    {
+      "pergunta": "O que Lula promete na saúde?",
+      "resposta": "Mais Médicos, Farmácia Popular, prontuário único, teleconsultas e o programa de especialistas."
+    }
+  ],
+  "relacionadas": [
+    "flavio-vai-acabar-com-a-farmacia-popular",
+    "covid-700-mil-mortes-responsabilidade"
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false
+}

@@ -1,0 +1,111 @@
+{
+  "id": "chk-2081",
+  "slug": "lula-jogou-a-bandeira-no-chao",
+  "frase": "Lula jogou a bandeira do Brasil no chão depois de votar.",
+  "frase_normalizada": "lula jogou a bandeira do brasil no chao depois de votar",
+  "variantes": [],
+  "autor": {
+    "nome": "frase que circula nas redes",
+    "partido": null,
+    "cargo": null
+  },
+  "lado": "ambos",
+  "alvo": {
+    "nome": "Luiz Inácio Lula da Silva",
+    "partido": "PT"
+  },
+  "data": null,
+  "onde": null,
+  "url_declaracao": null,
+  "temas": [
+    "eleicao-2026"
+  ],
+  "tags": [
+    "eleicao-2026"
+  ],
+  "veredito": "falso",
+  "resumo_uma_frase": "O vídeo foi cortado: Lula entregou a bandeira a um fotógrafo; o ministro Mendonça (TSE) mandou remover 16 posts.",
+  "explicacao_simples": [
+    "Um vídeo cortado sugeria que Lula jogou a bandeira no chão após votar no 1º turno.",
+    "A gravação completa mostra que ele a entregou a um fotógrafo.",
+    "O TSE (Mendonça) mandou remover 16 posts."
+  ],
+  "explicacao_completa_md": "Gazeta do Paraná (07/10/2026), compilando checagens: FALSO (vídeo cortado; Lula entregou a bandeira a um fotógrafo); Mendonça (TSE) mandou remover 16 posts. Faz parte do conjunto de boatos do pós-1º turno junto com a pausa de 50 minutos na divulgação ('fraude'), 'urnas antigas' e 'votos de mortos', todos classificados como falsos.",
+  "o_que_e_verdade": [
+    "Lula segurou uma bandeira após votar."
+  ],
+  "o_que_nao_se_sustenta": [
+    "'Jogou no chão': vídeo cortado; ele a entregou a um fotógrafo."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Perfis que divulgaram o vídeo cortado",
+      "papel": "manipulação por corte",
+      "peso": "alto"
+    },
+    {
+      "ator": "TSE (Mendonça)",
+      "papel": "removeu 16 posts",
+      "peso": "medio"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Posts removidos pelo TSE",
+      "valor": 16,
+      "unidade": "posts",
+      "periodo": "out/2026",
+      "fonte": {
+        "nome": "Gazeta do Paraná, 07/10/2026 (principais fake news do 2º turno)",
+        "url": "https://gazetadoparana.com.br/publico/das-urnas-as-deepfakes-as-principais-fake-news-que-abrem-o-segundo-turno-das-eleicoes-2026",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": null
+    }
+  ],
+  "series": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Gazeta do Paraná (compilação de checagens)",
+      "veredito_original": "FALSO",
+      "url": "https://gazetadoparana.com.br/publico/das-urnas-as-deepfakes-as-principais-fake-news-que-abrem-o-segundo-turno-das-eleicoes-2026",
+      "data": "2026-10-07"
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Gazeta do Paraná, 07/10/2026 (principais fake news do 2º turno)",
+      "url": "https://gazetadoparana.com.br/publico/das-urnas-as-deepfakes-as-principais-fake-news-que-abrem-o-segundo-turno-das-eleicoes-2026",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/08_eleicao_2026_cenario_checagens.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "Lula jogou a bandeira no chão?",
+      "resposta": "Não. O vídeo completo mostra a entrega a um fotógrafo."
+    },
+    {
+      "pergunta": "Houve decisão judicial?",
+      "resposta": "Sim, Mendonça (TSE) mandou remover 16 posts."
+    },
+    {
+      "pergunta": "Que outros boatos surgiram no pós-1º turno?",
+      "resposta": "Pausa na divulgação como 'fraude', 'urnas antigas travaram', 'mesários votaram por mortos' e 'quem não votou no 1º turno não pode votar no 2º', todos falsos."
+    }
+  ],
+  "relacionadas": [
+    "urnas-eletronicas-sao-confiaveis",
+    "atos-pro-lula-foram-inflados-por-ia"
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false
+}

@@ -1,0 +1,49 @@
+{
+  "id": "diesel-preco-anual",
+  "titulo": "Preço médio do diesel S10 (ANP)",
+  "descricao_simples": "Preço médio nacional do diesel S10 nos postos em 2026, em reais por litro.",
+  "unidade": "R$/l",
+  "tipo_grafico": "linha",
+  "frequencia": "mensal",
+  "fonte": {
+    "nome": "ANP – Levantamento de Preços de Combustíveis",
+    "url": "https://www.gov.br/anp/pt-br/assuntos/precos-e-defesa-da-concorrencia/precos/levantamento-de-precos-de-combustiveis-ultimas-semanas-pesquisadas",
+    "acesso_em": "2026-10-21",
+    "tier": "oficial"
+  },
+  "pontos": [
+    {
+      "periodo": "jan/2026",
+      "valor": 6.13
+    },
+    {
+      "periodo": "abr/2026",
+      "valor": 7.6
+    },
+    {
+      "periodo": "out/2026",
+      "valor": 7.34
+    }
+  ],
+  "faixas_referencia": [
+    {
+      "rotulo": "Preço de venda da Petrobras às distribuidoras desde 01/06/2026",
+      "valor": 3.3
+    }
+  ],
+  "notas_metodologicas": [
+    "jan/2026 = semana de 28/12/2025 a 03/01/2026; abr/2026 = pico na semana até 11/04/2026; out/2026 = semana de 11 a 17/10/2026 (ANP).",
+    "Diesel S500: R$ 6,06 (jan/2026), R$ 6,99 (semana de 27/09–03/10/2026, +15,3%) e R$ 7,00 (11–17/10/2026).",
+    "Até o início de outubro de 2026 o S10 subiu 20,5% no ano (R$ 7,38 na semana de 27/09–03/10). Mais de 25% do diesel consumido é importado.",
+    "Apesar do nome do id, as notas só trazem pontos de 2026; a frequência registrada é mensal/semanal."
+  ],
+  "ultimo_periodo": "out/2026",
+  "temas": [
+    "combustiveis"
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/06_energia_eletrobras_combustiveis.md",
+  "atualizado_em": "2026-10-21",
+  "lacunas": [
+    "Série anual do diesel 2003–2025 não consta das notas."
+  ]
+}

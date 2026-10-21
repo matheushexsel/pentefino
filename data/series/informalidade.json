@@ -1,0 +1,74 @@
+{
+  "id": "informalidade",
+  "titulo": "Taxa de informalidade (PNAD Contínua)",
+  "descricao_simples": "Parcela dos trabalhadores sem carteira, sem CNPJ ou em trabalho familiar auxiliar, segundo a medida do IBGE.",
+  "unidade": "% da população ocupada",
+  "tipo_grafico": "linha",
+  "frequencia": "trimestral",
+  "fonte": {
+    "nome": "IBGE, PNAD Contínua (Retrospectiva 2012-2025 e releases trimestrais via Agência Brasil/imprensa)",
+    "url": "https://ftp.ibge.gov.br/Trabalho_e_Rendimento/Pesquisa_Nacional_por_Amostra_de_Domicilios_continua/Principais_destaques_PNAD_continua/2012_2025/PNAD_continua_retrospectiva_2012_2025.pdf",
+    "acesso_em": "2026-10-21",
+    "tier": "oficial"
+  },
+  "pontos": [
+    {
+      "periodo": "1T2025",
+      "valor": 38.0
+    },
+    {
+      "periodo": "4T2025",
+      "valor": 37.6
+    },
+    {
+      "periodo": "1T2026",
+      "valor": 37.3
+    },
+    {
+      "periodo": "2T2026",
+      "valor": 37.4,
+      "via_snippet": true
+    },
+    {
+      "periodo": "mai–jul/2026",
+      "valor": 37.5,
+      "via_snippet": true
+    },
+    {
+      "periodo": "jun–ago/2026",
+      "valor": 37.5,
+      "via_snippet": true
+    }
+  ],
+  "faixas_referencia": [
+    {
+      "rotulo": "Média anual 2024",
+      "valor": 39.0
+    },
+    {
+      "rotulo": "Média anual 2025",
+      "valor": 38.1
+    },
+    {
+      "rotulo": "Setor privado sem carteira, 4T2016 (IE-Unicamp)",
+      "valor": 23.5
+    },
+    {
+      "rotulo": "Setor privado sem carteira, 4T2019 (IE-Unicamp)",
+      "valor": 26.0
+    }
+  ],
+  "notas_metodologicas": [
+    "Informais: 39,5 milhões em 2024; −273 mil em 2025. 72,9% dos conta própria não têm CNPJ.",
+    "Pontos de 2026 vêm de Agência Brasil (1T2026) e de resumos de busca de releases do IBGE (via_snippet)."
+  ],
+  "lacunas": [
+    "Série anual completa 2012–2023 não transcrita na nota."
+  ],
+  "ultimo_periodo": "jun–ago/2026",
+  "temas": [
+    "emprego-renda"
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/03_emprego_renda_pobreza_social.md",
+  "atualizado_em": "2026-10-21"
+}

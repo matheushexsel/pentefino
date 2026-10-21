@@ -1,0 +1,230 @@
+{
+  "id": "chk-1020",
+  "slug": "bolsonaro-deixou-inflacao-de-dois-digitos",
+  "frase": "Bolsonaro deixou o país com inflação de dois dígitos",
+  "frase_normalizada": "O governo Bolsonaro entregou inflação acima de 10% ao ano",
+  "variantes": [
+    "Herdamos inflação de dois dígitos",
+    "A inflação de Bolsonaro passou de 10%"
+  ],
+  "autor": {
+    "nome": "frase que circula nas redes",
+    "partido": null,
+    "cargo": null
+  },
+  "lado": "ambos",
+  "alvo": {
+    "nome": "Jair Bolsonaro (governo 2019-2022)",
+    "partido": "PL"
+  },
+  "data": null,
+  "onde": "Redes sociais e debate eleitoral de 2026",
+  "url_declaracao": null,
+  "temas": [
+    "economia",
+    "eleicao-2026"
+  ],
+  "tags": [
+    "ipca",
+    "inflacao",
+    "meta"
+  ],
+  "veredito": "impreciso",
+  "resumo_uma_frase": "O IPCA foi de 10,06% em 2021, mas o governo Bolsonaro terminou 2022 com inflação de 5,79% — ainda acima do teto da meta (5,0%), mas não de dois dígitos; a frase mistura o pior ano do mandato com o ano de entrega.",
+  "explicacao_simples": [
+    "O IPCA fechou 2021 em 10,06%, único ano de dois dígitos do governo Bolsonaro, acima do teto da meta de 5,25%.",
+    "Em 2022, ano em que o governo terminou, a inflação foi de 5,79%, também acima do teto de 5%, mas longe de dois dígitos.",
+    "Nos dois casos houve choque global de pandemia e guerra na Ucrânia, e a inflação mundial em 2022 foi de 8,7%."
+  ],
+  "explicacao_completa_md": "## IPCA por ano no governo Bolsonaro (BCB/IBGE)\n\n2019: 4,31% (dentro da meta) | 2020: 4,52% (dentro) | 2021: 10,06% (teto estourado; teto 5,25%) | 2022: 5,79% (teto estourado; teto 5,0%). Média do mandato: 6,17%.\n\n## O que a frase acerta e erra\n\nAcerta que houve um ano de dois dígitos (2021) e dois tetos estourados. Erra ao dizer que o país foi 'deixado' com inflação de dois dígitos: em dez/2022 o IPCA em 12 meses era 5,79%.\n\n## Comparação com outros governos\n\nO pior ano desde 2003 foi 2015 (10,67%, Dilma). Lula 1 teve 9,30% em 2003. Lula 3 teve 4,62% (2023), 4,83% (2024, teto estourado) e 4,26% (2025), com descumprimento formal da meta contínua em 2025. Pelo FMI, a inflação média do Brasil foi de 9,3% em 2022 contra 8,7% no mundo; em 2025, 5,0% contra 4,1%.",
+  "o_que_e_verdade": [
+    "O IPCA de 2021 foi de 10,06%, acima do teto de 5,25%, e o de 2022 (5,79%) também estourou o teto (5,0%).",
+    "A média do IPCA no governo Bolsonaro (6,17%) é maior que a de Lula 3 até 2025 (4,57%)."
+  ],
+  "o_que_nao_se_sustenta": [
+    "O governo Bolsonaro terminou com IPCA de 5,79% em dez/2022, não de dois dígitos.",
+    "Os estouros de 2021-2022 coincidiram com choques globais (reabertura pós-pandemia, guerra na Ucrânia); a inflação mundial foi de 8,7% em 2022.",
+    "A meta ficou mais apertada ao longo do tempo (de 4,5% até 2018 para 3,0% desde 2024), o que exige cautela ao comparar 'estouros'."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Choques externos (pandemia, commodities, guerra na Ucrânia)",
+      "papel": "principal fator da alta global de 2021-2022",
+      "peso": "alto"
+    },
+    {
+      "ator": "Copom / Banco Central (Campos Neto, indicado por Bolsonaro)",
+      "papel": "levou a Selic de 2% para 13,75% entre 2021 e 2022",
+      "peso": "alto"
+    },
+    {
+      "ator": "Governo federal (política fiscal e desonerações de combustíveis em 2022)",
+      "papel": "cortes de ICMS e PIS/Cofins reduziram o IPCA de 2022",
+      "peso": "medio"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "IPCA 2021",
+      "valor": 10.06,
+      "unidade": "%",
+      "periodo": "dez/2021",
+      "fonte": {
+        "nome": "Banco Central do Brasil – SGS 13522 (IPCA acumulado 12 meses)",
+        "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.13522/dados?formato=json",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "Teto da meta",
+        "valor": 5.25
+      }
+    },
+    {
+      "rotulo": "IPCA 2022",
+      "valor": 5.79,
+      "unidade": "%",
+      "periodo": "dez/2022",
+      "fonte": {
+        "nome": "Banco Central do Brasil – SGS 13522 (IPCA acumulado 12 meses)",
+        "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.13522/dados?formato=json",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "Teto da meta",
+        "valor": 5.0
+      }
+    },
+    {
+      "rotulo": "IPCA 2015 (pior ano desde 2003)",
+      "valor": 10.67,
+      "unidade": "%",
+      "periodo": "dez/2015",
+      "fonte": {
+        "nome": "Banco Central do Brasil – SGS 13522 (IPCA acumulado 12 meses)",
+        "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.13522/dados?formato=json",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "IPCA 2024",
+      "valor": 4.83,
+      "unidade": "%",
+      "periodo": "dez/2024",
+      "fonte": {
+        "nome": "Banco Central do Brasil – SGS 13522 (IPCA acumulado 12 meses)",
+        "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.13522/dados?formato=json",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "Teto da meta",
+        "valor": 4.5
+      }
+    },
+    {
+      "rotulo": "IPCA 2025",
+      "valor": 4.26,
+      "unidade": "%",
+      "periodo": "dez/2025",
+      "fonte": {
+        "nome": "Banco Central do Brasil – SGS 13522 (IPCA acumulado 12 meses)",
+        "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.13522/dados?formato=json",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Média do IPCA no governo Bolsonaro (cálculo da nota)",
+      "valor": 6.17,
+      "unidade": "% ao ano",
+      "periodo": "2019-2022",
+      "fonte": {
+        "nome": "Banco Central do Brasil – SGS 13522 (IPCA acumulado 12 meses)",
+        "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.13522/dados?formato=json",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "Lula 3 (2023-2025)",
+        "valor": 4.57
+      }
+    },
+    {
+      "rotulo": "Inflação mundial (FMI)",
+      "valor": 8.7,
+      "unidade": "%",
+      "periodo": "2022",
+      "fonte": {
+        "nome": "FMI – DataMapper PCPIPCH (inflação média anual)",
+        "url": "https://www.imf.org/external/datamapper/api/v1/PCPIPCH/BRA/WEOWORLD/ADVEC/ARG?periods=2021,2022,2023,2024,2025,2026",
+        "acesso_em": "2026-10-21",
+        "tier": "multilateral"
+      },
+      "comparacao": {
+        "rotulo": "Brasil (FMI, média anual)",
+        "valor": 9.3
+      }
+    }
+  ],
+  "series": [
+    "ipca-anual",
+    "selic-fim-de-ano"
+  ],
+  "checagens_externas": [],
+  "fontes": [
+    {
+      "nome": "Banco Central do Brasil – SGS 13522 (IPCA acumulado 12 meses)",
+      "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.13522/dados?formato=json",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "FMI – DataMapper PCPIPCH (inflação média anual)",
+      "url": "https://www.imf.org/external/datamapper/api/v1/PCPIPCH/BRA/WEOWORLD/ADVEC/ARG?periods=2021,2022,2023,2024,2025,2026",
+      "acesso_em": "2026-10-21",
+      "tier": "multilateral"
+    },
+    {
+      "nome": "Banco Central do Brasil – SGS 13521 (meta de inflação)",
+      "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.13521/dados?formato=json&dataInicial=01/01/2002&dataFinal=31/12/2027",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/01_macroeconomia_por_governo.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "Qual foi o pior ano de inflação desde 2003?",
+      "resposta": "2015, com 10,67% (Dilma), seguido de 2021 com 10,06% (Bolsonaro). Em Lula 3 o pior ano foi 2024, com 4,83%."
+    },
+    {
+      "pergunta": "O governo Lula 3 cumpriu a meta?",
+      "resposta": "Não em 2024 (4,83% contra teto de 4,5%) nem em 2025 pelo critério contínuo: o IPCA ficou fora do intervalo por 10 meses seguidos, o que configura descumprimento pelo Decreto 12.079/2024."
+    },
+    {
+      "pergunta": "Quem define a meta de inflação?",
+      "resposta": "O Conselho Monetário Nacional (governo), por proposta do ministro da Fazenda; o Banco Central autônomo decide os juros para alcançá-la."
+    }
+  ],
+  "relacionadas": [
+    "inflacao-dos-alimentos-disparou",
+    "inflacao-de-2025-foi-a-menor-em-4-anos",
+    "juros-mais-altos-do-mundo"
+  ],
+  "lacunas": [
+    "Os intervalos de tolerância por ano foram tomados de conhecimento geral (resoluções do CMN); a página oficial do BCB não pôde ser lida na pesquisa."
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false
+}

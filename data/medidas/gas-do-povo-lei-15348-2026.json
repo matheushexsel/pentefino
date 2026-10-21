@@ -1,0 +1,117 @@
+{
+  "id": "gas-do-povo-lei-15348-2026",
+  "nome": "Gás do Povo: botijão gratuito para famílias de baixa renda (Lei 15.348/2026)",
+  "tipo": "beneficio",
+  "governo": "lula-3",
+  "lado": "governo-lula-pt",
+  "norma": {
+    "nome": "Lei 15.348, de 13/02/2026 (conversão da MP 1.313, de 04/09/2025), sancionada com vetos; substitui o Auxílio Gás (Lei 14.237/2021)",
+    "data": "2026-02-13",
+    "url": "https://eixos.com.br/politica/sancionado-com-vetos-gas-do-povo-tem-r-47-bi-no-orcamento-de-2026/",
+    "vigencia": "em vigor desde 2025 (MP) com orçamento em 2025 e 2026"
+  },
+  "status": "em-vigor",
+  "o_que_faz_simples": [
+    "Famílias com renda per capita de até meio salário mínimo retiram botijões de 13 kg gratuitos em revendas credenciadas, em vez de receber dinheiro como no Auxílio Gás.",
+    "Cota de 4 botijões por ano para famílias de 2 a 3 pessoas e 6 por ano para famílias com 4 ou mais.",
+    "Meta de 15,5 milhões de famílias (cerca de 50 milhões de pessoas); o antigo Auxílio Gás atendia cerca de 5 milhões de famílias.",
+    "O governo fixa preços de referência por estado (de R$ 91,49 em AL a R$ 122,12 no AC na portaria de 2025), contestados por revendedores."
+  ],
+  "quem_ganha": {
+    "descricao": "Famílias de baixa renda: meta de 15,5 milhões de famílias, cerca de 50 milhões de pessoas.",
+    "pessoas": 50000000,
+    "faixa_renda": "renda per capita até 1/2 salário mínimo",
+    "fonte": {
+      "nome": "eixos – Sancionado com vetos, Gás do Povo tem R$ 4,7 bi no Orçamento de 2026 (19/02/2026)",
+      "url": "https://eixos.com.br/politica/sancionado-com-vetos-gas-do-povo-tem-r-47-bi-no-orcamento-de-2026/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  },
+  "quem_paga": {
+    "descricao": "O Tesouro Nacional, pelo Orçamento: R$ 3,57–3,6 bi em 2025 e R$ 4,7 bi em 2026 (R$ 5,1 bi no PLOA).",
+    "pessoas": null,
+    "faixa_renda": "contribuintes em geral",
+    "fonte": {
+      "nome": "eixos – Sancionado com vetos, Gás do Povo tem R$ 4,7 bi no Orçamento de 2026 (19/02/2026)",
+      "url": "https://eixos.com.br/politica/sancionado-com-vetos-gas-do-povo-tem-r-47-bi-no-orcamento-de-2026/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  },
+  "custo_ou_arrecadacao": {
+    "valor": 4.7,
+    "unidade": "R$ bilhões (Orçamento 2026 segundo eixos; PLOA previa R$ 5,1 bi; 2025: R$ 3,57–3,6 bi)",
+    "fonte": {
+      "nome": "eixos – Sancionado com vetos, Gás do Povo tem R$ 4,7 bi no Orçamento de 2026 (19/02/2026)",
+      "url": "https://eixos.com.br/politica/sancionado-com-vetos-gas-do-povo-tem-r-47-bi-no-orcamento-de-2026/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  },
+  "regra_simulador": {
+    "tipo": "nenhuma",
+    "parametros": {}
+  },
+  "mitos": [
+    {
+      "mito": "O botijão ficou de graça para todos.",
+      "fato": "Só para famílias com renda per capita até meio salário mínimo, dentro da cota anual. Para os demais, o botijão custava em média R$ 114,73 em 11–17/10/2026.",
+      "fontes": [
+        {
+          "nome": "eixos – Sancionado com vetos, Gás do Povo tem R$ 4,7 bi no Orçamento de 2026 (19/02/2026)",
+          "url": "https://eixos.com.br/politica/sancionado-com-vetos-gas-do-povo-tem-r-47-bi-no-orcamento-de-2026/",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "ANP – Resumo semanal do Levantamento de Preços, 11 a 17/10/2026 (xlsx)",
+          "url": "https://www.gov.br/anp/pt-br/assuntos/precos-e-defesa-da-concorrencia/precos/arquivos-lpc/2026/resumo_semanal_lpc_2026_10_11-2026_10_17.xlsx",
+          "acesso_em": "2026-10-21",
+          "tier": "oficial"
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "eixos – Sancionado com vetos, Gás do Povo tem R$ 4,7 bi no Orçamento de 2026 (19/02/2026)",
+      "url": "https://eixos.com.br/politica/sancionado-com-vetos-gas-do-povo-tem-r-47-bi-no-orcamento-de-2026/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Wikipédia (pt) – Gás do Povo (fonte secundária)",
+      "url": "https://pt.wikipedia.org/wiki/G%C3%A1s_do_Povo",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "O Fator – Preços de referência do Gás do Povo por estado",
+      "url": "https://ofator.com.br/?p=46416",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Mais Goiás – Fornecedores de gás criticam governo por preços do Gás do Povo",
+      "url": "https://www.maisgoias.com.br/brasil/fornecedores-de-gas-de-cozinha-criticam-governo-por-precos-do-programa-gas-do-povo/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "ANP – Resumo semanal do Levantamento de Preços, 11 a 17/10/2026 (xlsx)",
+      "url": "https://www.gov.br/anp/pt-br/assuntos/precos-e-defesa-da-concorrencia/precos/arquivos-lpc/2026/resumo_semanal_lpc_2026_10_11-2026_10_17.xlsx",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/06_energia_eletrobras_combustiveis.md",
+  "atualizado_em": "2026-10-21",
+  "temas": [
+    "combustiveis",
+    "pobreza-programas-sociais"
+  ],
+  "lacunas": [
+    "Portaria com preços de referência de 2026 não localizada; número de pessoas é aproximado ('~50 milhões')."
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "fala-0153",
+  "slug": "lula-pp-uniao-psd-pmdb-participaram-do-governo",
+  "evento_id": "sabatina-globo-lula-2026-10-15",
+  "candidato": "lula",
+  "lado": "governo-lula-pt",
+  "minuto": null,
+  "frase_literal": "O PP participou, União Brasil participou, o PSD participou, o PMDB participou.",
+  "literal": true,
+  "tema": "eleicao-2026",
+  "veredito": "verdadeiro-mas",
+  "resumo_uma_frase": "Esses partidos integraram o governo, mas o União Progressista deixou a base em setembro de 2025.",
+  "explicacao_simples": [
+    "Lula, na entrevista à TV Globo (15/10/2026), disse: “O PP participou, União Brasil participou, o PSD participou, o PMDB participou”.",
+    "Aos Fatos confirmou a participação; o Ranking lembrou a saída do União Progressista em set/2025.",
+    "O núcleo da frase está correto, mas falta uma ressalva que muda o peso do dado; por isso a classificação é 'verdadeiro, mas'."
+  ],
+  "o_que_e_verdade": [
+    "PP, União, PSD e MDB ocuparam cargos no governo."
+  ],
+  "o_que_nao_se_sustenta": [
+    "O União Progressista saiu em set/2025."
+  ],
+  "numeros": [],
+  "base_legal": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Aos Fatos",
+      "veredito_original": "verdade",
+      "url": "https://www.aosfatos.org/noticias/checamos-lula-globo-segundo-turno/",
+      "data": "2026-10-15"
+    },
+    {
+      "veiculo": "Ranking dos Políticos",
+      "veredito_original": "IMPRECISO",
+      "url": "https://ranking.org.br/en/articles/checagem-entrevista-lula-jornal-nacional-2-turno-2026",
+      "data": "2026-10-15"
+    }
+  ],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Aos Fatos",
+      "url": "https://www.aosfatos.org/noticias/checamos-lula-globo-segundo-turno/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Ranking dos Políticos",
+      "url": "https://ranking.org.br/en/articles/checagem-entrevista-lula-jornal-nacional-2-turno-2026",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
+  "atualizado_em": "2026-10-21"
+}

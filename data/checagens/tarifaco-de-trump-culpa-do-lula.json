@@ -1,0 +1,264 @@
+{
+  "id": "chk-2042",
+  "slug": "tarifaco-de-trump-culpa-do-lula",
+  "frase": "O governo não mandou ninguém, nem um representante, para defender o Brasil do tarifaço.",
+  "frase_normalizada": "o governo nao mandou ninguem nem um representante para defender o brasil do tarifaco",
+  "variantes": [
+    "O tarifaço é culpa do Lula",
+    "Lula não fez nada contra o tarifaço de Trump",
+    "Lula brigou com Trump e o Brasil pagou"
+  ],
+  "autor": {
+    "nome": "Flávio Bolsonaro",
+    "partido": "PL",
+    "cargo": "senador (RJ) e candidato à Presidência"
+  },
+  "lado": "oposicao-flavio-pl",
+  "alvo": {
+    "nome": "Governo Lula (2023-2026)",
+    "partido": "PT"
+  },
+  "data": "2026-10-18",
+  "onde": "Debate da Band (consórcio Band/Cultura/Gazeta/Jovem Pan/Estadão), São Paulo",
+  "url_declaracao": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+  "temas": [
+    "relacoes-exteriores",
+    "economia",
+    "eleicao-2026"
+  ],
+  "tags": [
+    "relacoes-exteriores",
+    "economia",
+    "eleicao-2026"
+  ],
+  "veredito": "falso",
+  "resumo_uma_frase": "Diplomatas brasileiros acompanharam a audiência do USTR em 07/07/2026, houve reuniões MDIC-USTR, Alckmin negociou com o secretário de Comércio, o chanceler Mauro Vieira foi a Washington, uma comitiva de senadores viajou, e Lula se reuniu com Trump por vídeo (06/10/2025) e em Kuala Lumpur (26/10/2025); três agências classificaram a frase como falsa.",
+  "explicacao_simples": [
+    "Flávio disse que o governo não mandou ninguém defender o Brasil; Lupa, Ranking e Aos Fatos mostraram que diplomatas, o vice Alckmin, o chanceler e senadores negociaram com os EUA.",
+    "O tarifaço de 50% (2025) foi justificado por Trump com o processo contra Jair Bolsonaro; o Brasil conseguiu isenções para café e carne em novembro de 2025 e a retirada das sanções a Moraes em dezembro.",
+    "Em 2026 vieram novas tarifas de 25%; Flávio pediu ao governo americano que as adiasse para depois da eleição, alegando que beneficiariam Lula."
+  ],
+  "explicacao_completa_md": "**Checagens:** Lupa: FALSO (diplomatas acompanharam a audiência do USTR em 07/07/2026); Ranking dos Políticos: FALSO (Alckmin negociou com o secretário de Comércio; Mauro Vieira foi a Washington; comitiva de senadores); Aos Fatos: FALSO. **Cronologia:** 02/04/2025 tarifa-base de 10%; abril/2025 Congresso aprova a Lei da Reciprocidade; 09/07/2025 carta de Trump ameaça 50% citando o processo contra Bolsonaro; 16-17/07/2025 USTR abre investigação (inclui o Pix); 30/07/2025 'emergência nacional' e tarifa adicional de 40% com quase 700 exceções; 06/10/2025 videoconferência Lula-Trump; 16/10/2025 EUA apresentam 21 exigências (reduzidas a 14 em 09/01/2026), rejeitadas; 26/10/2025 encontro em Kuala Lumpur; 20-21/11/2025 Ordem Executiva 14361 isenta café, carne e outros alimentos; 12/12/2025 Moraes retirado da lista Magnitsky; 01/06/2026 USTR conclui investigação e propõe 25%; 15/07/2026 tarifas de 25% (Seção 301); 03/08/2026 Pix lançado em 8 países incluindo EUA; nova rodada prevista no G20 (30/09/2026). **Efeitos:** corrente de comércio com os EUA caiu 6,8% e exportações 6,5% em jan-set/2026 (MDIC); a AtlasIntel registrou aprovação de Lula em 50,3% logo após o tarifaço (jul/2025). Flávio reuniu-se com Trump, Vance e Rubio em 26-28/05/2026 e em 02/07/2026 pediu ao USTR a suspensão das tarifas de 25% por motivo eleitoral.",
+  "o_que_e_verdade": [
+    "As tarifas dos EUA causaram perdas: comércio com os EUA caiu 6,8% em jan-set/2026.",
+    "Lula criticou publicamente Trump e o Brasil rejeitou as 21 (depois 14) exigências americanas."
+  ],
+  "o_que_nao_se_sustenta": [
+    "'Não mandou ninguém': diplomatas na audiência do USTR (07/07/2026), reuniões MDIC-USTR, Alckmin com o secretário de Comércio, Mauro Vieira em Washington, senadores em comitiva, Lula com Trump por vídeo e em Kuala Lumpur.",
+    "'Culpa do Lula': Trump vinculou a tarifa de 50% ao processo contra Bolsonaro, articulado nos EUA por Eduardo Bolsonaro, condenado por coação."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Governo Trump",
+      "papel": "impôs as tarifas, citando o processo contra Bolsonaro",
+      "peso": "alto"
+    },
+    {
+      "ator": "Eduardo Bolsonaro",
+      "papel": "articulou sanções nos EUA; condenado por coação",
+      "peso": "alto"
+    },
+    {
+      "ator": "Governo Lula (Itamaraty, MDIC, Alckmin)",
+      "papel": "negociou isenções e manteve rejeição às exigências",
+      "peso": "medio"
+    },
+    {
+      "ator": "Flávio Bolsonaro",
+      "papel": "pediu ao USTR adiamento das tarifas de 2026",
+      "peso": "medio"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Tarifa total dos EUA sobre o Brasil (2025)",
+      "valor": 50,
+      "unidade": "%",
+      "periodo": "30/07/2025",
+      "fonte": {
+        "nome": "Casa Branca, 30/07/2025 (fact sheet)",
+        "url": "https://www.whitehouse.gov/fact-sheets/2025/07/fact-sheet-president-donald-j-trump-addresses-threats-to-the-united-states-from-the-government-of-brazil/",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Queda da corrente de comércio com os EUA",
+      "valor": 6.8,
+      "unidade": "% (jan-set/2026)",
+      "periodo": "jan-set/2026",
+      "fonte": {
+        "nome": "Aos Fatos",
+        "url": "https://www.aosfatos.org/noticias/checamos-lula-globo-segundo-turno/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Exigências dos EUA ao Brasil",
+      "valor": 21,
+      "unidade": "exigências (reduzidas a 14 em 09/01/2026)",
+      "periodo": "16/10/2025",
+      "fonte": {
+        "nome": "Estadão (21 exigências)",
+        "url": "https://www.estadao.com.br/politica/governo-trump-impos-21-exigencias-brasil-negociar-tarifaco/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Aprovação de Lula após o tarifaço (AtlasIntel)",
+      "valor": 50.3,
+      "unidade": "%",
+      "periodo": "25-28/07/2025",
+      "fonte": {
+        "nome": "Wikipédia: Governo Lula (2023-presente)",
+        "url": "https://pt.wikipedia.org/wiki/Governo_Lula_(2023%E2%80%93presente)",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Nova tarifa da Seção 301",
+      "valor": 25,
+      "unidade": "%",
+      "periodo": "15/07/2026",
+      "fonte": {
+        "nome": "Wikipedia (en): 2025 Brazil-United States diplomatic dispute",
+        "url": "https://en.wikipedia.org/wiki/2025_Brazil%E2%80%93United_States_diplomatic_dispute",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": null
+    }
+  ],
+  "series": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Agência Lupa",
+      "veredito_original": "FALSO",
+      "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+      "data": "2026-10-18"
+    },
+    {
+      "veiculo": "Ranking dos Políticos",
+      "veredito_original": "FALSO",
+      "url": "https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026",
+      "data": "2026-10-18"
+    },
+    {
+      "veiculo": "Aos Fatos",
+      "veredito_original": "FALSO",
+      "url": "https://www.aosfatos.org/noticias/checamos-lula-flavio-bolsonaro-debate-band/",
+      "data": "2026-10-18"
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Casa Branca, 30/07/2025 (fact sheet)",
+      "url": "https://www.whitehouse.gov/fact-sheets/2025/07/fact-sheet-president-donald-j-trump-addresses-threats-to-the-united-states-from-the-government-of-brazil/",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Aos Fatos",
+      "url": "https://www.aosfatos.org/noticias/checamos-lula-globo-segundo-turno/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Estadão (21 exigências)",
+      "url": "https://www.estadao.com.br/politica/governo-trump-impos-21-exigencias-brasil-negociar-tarifaco/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Wikipédia: Governo Lula (2023-presente)",
+      "url": "https://pt.wikipedia.org/wiki/Governo_Lula_(2023%E2%80%93presente)",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Wikipedia (en): 2025 Brazil-United States diplomatic dispute",
+      "url": "https://en.wikipedia.org/wiki/2025_Brazil%E2%80%93United_States_diplomatic_dispute",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Agência Lupa",
+      "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Ranking dos Políticos",
+      "url": "https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Aos Fatos",
+      "url": "https://www.aosfatos.org/noticias/checamos-lula-flavio-bolsonaro-debate-band/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Estado de Minas/Folhapress, 02/07/2026 (Flávio ao USTR)",
+      "url": "https://www.em.com.br/politica/2026/07/7453606-flavio-bolsonaro-diz-a-trump-que-tarifaco-daria-vitoria-a-lula.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "g1, 12/12/2025 (EUA retiram Moraes da lista Magnitsky)",
+      "url": "https://g1.globo.com/politica/noticia/2025/12/12/governo-americano-retira-alexandre-de-moraes-e-esposa-da-lista-da-lei-magnitsky.ghtml",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Nota 08 deste projeto (seção 8)",
+      "url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/08_eleicao_2026_cenario_checagens.md",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/09_acusacoes_e_falas_flavio_x_lula.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "O governo negociou com os EUA?",
+      "resposta": "Sim: diplomatas na audiência do USTR, reuniões MDIC-USTR, Alckmin com o secretário de Comércio, Mauro Vieira em Washington, Lula com Trump em 06/10 e 26/10/2025."
+    },
+    {
+      "pergunta": "O que o Brasil conseguiu?",
+      "resposta": "Isenção de café, carne e outros alimentos (nov/2025) e a retirada de Moraes da lista Magnitsky (dez/2025); as exigências políticas dos EUA foram rejeitadas."
+    },
+    {
+      "pergunta": "Por que Trump taxou o Brasil?",
+      "resposta": "A carta de 09/07/2025 citou o julgamento de Bolsonaro; a investigação do USTR também incluiu o Pix."
+    },
+    {
+      "pergunta": "Qual é o papel de Flávio e Eduardo?",
+      "resposta": "Eduardo articulou sanções nos EUA e foi condenado por coação; Flávio reuniu-se com Trump, Vance e Rubio em maio de 2026 e pediu ao USTR adiar as tarifas de 25% para depois da eleição."
+    }
+  ],
+  "relacionadas": [
+    "eduardo-bolsonaro-nunca-pediu-tarifas",
+    "eduardo-bolsonaro-exilado",
+    "governo-vai-taxar-o-pix",
+    "lula-foi-aos-eua-defender-organizacoes-criminosas"
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false,
+  "lacunas": [
+    "Estimativa do impacto agregado do tarifaço (PIB, exportações totais) não encontrada."
+  ]
+}

@@ -1,0 +1,223 @@
+{
+  "id": "programa-lula-2026-6x1-e-continuidade",
+  "nome": "Programa de Lula 2026 ('Brasil Pronto Pra Mais'): fim da 6x1, continuidade da valorização do mínimo, isenção do IR e 'o rico no Imposto de Renda'",
+  "tipo": "outro",
+  "governo": "proposta-2026",
+  "lado": "governo-lula-pt",
+  "norma": {
+    "nome": "'Diretrizes para o Plano de Governo 2027-2030', registrado no TSE em 08/08/2026 pela coligação 'Brasil Pronto Pra Mais' (84 páginas)",
+    "data": "2026-08-08",
+    "url": "https://static.poder360.com.br/uploads/2026/08/Programa-Governo-LULA-2026.pdf",
+    "vigencia": "Proposta para o mandato 2027-2030; 2º turno em 25/10/2026"
+  },
+  "status": "proposta",
+  "o_que_faz_simples": [
+    "Fiscal: manter o arcabouço e 'controlar o crescimento do gasto primário'; cita déficit primário de 0,4% do PIB em 2026 e recomposição fiscal de 2% do PIB (~R$ 240 bi) já feita; sem meta numérica de primário para o próximo mandato e sem cortes de gastos (leitura da Gazeta do Povo e do SBT).",
+    "Renda e trabalho: manter a valorização real do salário mínimo ('meio estratégico de distribuição de renda'); 'assegurar o fim da escala 6x1 e a redução da jornada para 40 horas, sem redução salarial, nos termos aprovados na Câmara' (a PEC foi aprovada no Senado em 14/10/2026); previdência para trabalhadores de aplicativo; conta de investimento para recém-nascidos.",
+    "Tributos: 'colocar o pobre no orçamento e o rico no Imposto de Renda'; cita que 'cerca de 140 mil contribuintes do topo da pirâmide social passaram a contribuir mais, viabilizando alívio tributário para mais de 15 milhões' (Lei 15.270/2025) e a Lei 14.754/2023 como exemplo de 'tributar a renda dos super ricos'; concluir a reforma do consumo com cesta básica isenta, cashback e Imposto Seletivo para 'desestimular produtos nocivos à saúde'.",
+    "Programas: manter e aprimorar Pé-de-Meia e Farmácia Popular (41 medicamentos gratuitos); Gás do Povo (15 milhões de famílias, ~50 milhões de pessoas); crédito produtivo (Pronampe, Acredita, Procred 360: mais de R$ 130 bi); programa de reforma de moradias (~R$ 35 bi, em estudo); Ministério da Segurança Pública. Metas numéricas: 40h semanais; 80% das crianças alfabetizadas na idade certa; 45% da merenda da agricultura familiar. Pacote da reta final: fim da 6x1, benefícios a pequenos negócios, passe livre, perdão de dívidas de MEIs (R$ 12,6 bi), 'Pix MEI' (Prospera MEI, repasses de até R$ 5 mil — criticado por Flávio como 'compra de votos').",
+    "Custos já contratados para 2027 (nota): Bolsa Família reajustado +R$ 22 bi/ano; salário mínimo ~R$ 39 bi/ano na Previdência; isenção do IR R$ 26-31 bi/ano (compensada, em tese, pelos 141 mil do IR mínimo); 6x1: estimativas CNI (até R$ 267,2 bi) x Dieese."
+  ],
+  "quem_ganha": {
+    "descricao": "Grupos já identificáveis pelas medidas em vigor ou aprovadas (inferência da nota): ~62 milhões com renda atrelada ao salário mínimo; 19,3 milhões de famílias do Bolsa Família; ~16 milhões beneficiados pela isenção do IR; ~22 milhões de trabalhadores formais pelo fim da 6x1; 15 milhões de famílias do Gás do Povo; >4 milhões de estudantes do Pé-de-Meia.",
+    "pessoas": null,
+    "faixa_renda": "Décimos 1 a 6 (mínimo, Bolsa Família, Gás do Povo, Pé-de-Meia); 10-15% superiores da renda do trabalho (isenção do IR)",
+    "fonte": {
+      "nome": "Programa de Governo Lula 2026 — 'Brasil Pronto Pra Mais' (PDF, Poder360)",
+      "url": "https://static.poder360.com.br/uploads/2026/08/Programa-Governo-LULA-2026.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "partidario"
+    }
+  },
+  "quem_paga": {
+    "descricao": "Tesouro (sem meta de primário nem corte de gastos anunciado); 141 mil contribuintes com renda acima de R$ 600 mil/ano (IR mínimo); grandes multinacionais (Pilar 2); empresas e consumidores no caso da 6x1 (grau de repasse em disputa CNI x Dieese).",
+    "pessoas": null,
+    "faixa_renda": "Topo (0,1% dos adultos) via IR mínimo; empresas; Tesouro",
+    "fonte": {
+      "nome": "Gazeta do Povo — plano de governo de Lula: economia",
+      "url": "https://www.gazetadopovo.com.br/eleicoes/2026/plano-de-governo-lula-economia/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  },
+  "custo_ou_arrecadacao": {
+    "valor": null,
+    "unidade": "R$ bilhões",
+    "periodo": null,
+    "descricao": "O programa não consolida custos. Ordens de grandeza já contratadas (nota): +R$ 22 bi/ano Bolsa Família (2027); ~R$ 39 bi/ano salário mínimo (Previdência, 2026); R$ 26-31 bi/ano isenção do IR (compensação estimada em R$ 34,1 bi).",
+    "fonte": {
+      "nome": "Programa de Governo Lula 2026 — 'Brasil Pronto Pra Mais' (PDF, Poder360)",
+      "url": "https://static.poder360.com.br/uploads/2026/08/Programa-Governo-LULA-2026.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "partidario"
+    }
+  },
+  "regra_simulador": {
+    "tipo": "nenhuma",
+    "parametros": {}
+  },
+  "mitos": [
+    {
+      "mito": "Lula propõe salário mínimo de R$ 3 mil.",
+      "fato": "Comprova verificou que os vídeos com essa promessa foram feitos com inteligência artificial e são falsos. O programa fala em manter a valorização real do mínimo, hoje limitada a 2,5% ao ano pelo arcabouço.",
+      "fontes": [
+        {
+          "nome": "Comprova — não é verdade que Lula tenha proposta de salário mínimo de R$ 3 mil",
+          "url": "https://projetocomprova.com.br/publica%C3%A7%C3%B5es/nao-e-verdade-que-lula-tenha-proposta-para-aumentar-salario-minimo-para-r-3-mil-videos-sao-feitos-com-ia/",
+          "acesso_em": "2026-10-21",
+          "tier": "checagem"
+        },
+        {
+          "nome": "Programa de Governo Lula 2026 — 'Brasil Pronto Pra Mais' (PDF, Poder360)",
+          "url": "https://static.poder360.com.br/uploads/2026/08/Programa-Governo-LULA-2026.pdf",
+          "acesso_em": "2026-10-21",
+          "tier": "partidario"
+        }
+      ]
+    },
+    {
+      "mito": "O programa de Lula prevê taxar o Pix.",
+      "fato": "Não há nenhuma proposta nesse sentido no programa; o governo editou em 2025 a MP 1.288 reafirmando a gratuidade e a não tributação do Pix (que caducou) e a Receita desmentiu a 'taxa' repetidas vezes. A afirmação 'o sonho do PT é taxar o Pix' é de Flávio Bolsonaro, sem base documental localizada.",
+      "fontes": [
+        {
+          "nome": "Programa de Governo Lula 2026 — 'Brasil Pronto Pra Mais' (PDF, Poder360)",
+          "url": "https://static.poder360.com.br/uploads/2026/08/Programa-Governo-LULA-2026.pdf",
+          "acesso_em": "2026-10-21",
+          "tier": "partidario"
+        },
+        {
+          "nome": "Poder360 — Flávio Bolsonaro nega que vai acabar com Pix se for eleito (02/04/2026)",
+          "url": "https://www.poder360.com.br/poder-eleicoes/flavio-bolsonaro-nega-que-vai-acabar-com-pix-se-for-eleito/",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        }
+      ]
+    },
+    {
+      "mito": "O programa de Lula apresenta como vai pagar as novas promessas.",
+      "fato": "O programa mantém o arcabouço, mas não traz meta numérica de primário nem cortes de gastos; aposta em mais arrecadação dos mais ricos (leitura da Gazeta do Povo e do SBT). O reajuste do Bolsa Família (R$ 22-22,7 bi/ano) não estava no PLOA 2027. Não há simulação independente do programa como pacote.",
+      "fontes": [
+        {
+          "nome": "Gazeta do Povo — plano de governo de Lula: economia",
+          "url": "https://www.gazetadopovo.com.br/eleicoes/2026/plano-de-governo-lula-economia/",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "SBT News — economia e trabalho: propostas de Lula na íntegra",
+          "url": "https://sbtnews.sbt.com.br/noticia/eleicoes/economia-e-trabalho-veja-as-propostas-de-lula-na-integra",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "O Povo — Bolsa Família sobe 15% em outubro; mínimo vai a R$ 691 e médio projetado a R$ 777 (21/09/2026)",
+          "url": "https://www.opovo.com.br/trends/bolsa-familia-sobe-15-em-outubro-minimo-vai-a-r-691-e-valor-medio-projetado-chega-a-r-777/",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Programa de Governo Lula 2026 — 'Brasil Pronto Pra Mais' (PDF, Poder360)",
+      "url": "https://static.poder360.com.br/uploads/2026/08/Programa-Governo-LULA-2026.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "partidario"
+    },
+    {
+      "nome": "Programa de Governo Lula 2026 (PDF, Congresso em Foco/TSE)",
+      "url": "https://static.congressoemfoco.com.br/2026/08/08/attachment/2026/08/08/32ce89_programa_governo_lula_2026.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "partidario"
+    },
+    {
+      "nome": "Congresso em Foco — PT registra novo plano de governo de Lula no TSE (íntegra)",
+      "url": "https://congressoemfoco.com.br/noticia/121121/pt-registra-novo-plano-de-governo-de-lula-no-tse-veja-a-integra",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Sou Brasília — plano de governo de Lula no TSE: continuidade econômica (ago/2026)",
+      "url": "https://soubrasilia.com/plano-governo-lula-tse-continuidade-economica-agosto-2026/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Gazeta do Povo — plano de governo de Lula: economia",
+      "url": "https://www.gazetadopovo.com.br/eleicoes/2026/plano-de-governo-lula-economia/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "SBT News — economia e trabalho: propostas de Lula na íntegra",
+      "url": "https://sbtnews.sbt.com.br/noticia/eleicoes/economia-e-trabalho-veja-as-propostas-de-lula-na-integra",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Times Brasil — o que Lula incluiu no pacote de medidas da campanha",
+      "url": "https://timesbrasil.com.br/brasil/decisao-2026-veja-o-que-lula-incluiu-no-pacote-de-medidas-da-campanha-eleitoral/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "A Crítica — Lula propõe Ministério da Segurança, valorização do mínimo e mais investimentos",
+      "url": "https://acritica.net/eleicoes-2026/lula-propoe-ministerio-da-seguranca-valorizacao-do-minimo-e-mais-investimentos-em-defesa/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Exame — veja os planos de economia de Lula e Flávio Bolsonaro (12/10/2026)",
+      "url": "https://exame.com/brasil/eleicoes-2026-veja-os-planos-de-economia-de-lula-e-flavio-bolsonaro/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "O Povo — Bolsa Família sobe 15% em outubro; mínimo vai a R$ 691 e médio projetado a R$ 777 (21/09/2026)",
+      "url": "https://www.opovo.com.br/trends/bolsa-familia-sobe-15-em-outubro-minimo-vai-a-r-691-e-valor-medio-projetado-chega-a-r-777/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "DIEESE — Nota Técnica 289: salário mínimo 2026 (22/12/2025)",
+      "url": "https://www.dieese.org.br/notatecnica/2025/notaTec289salarioMinimo.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    },
+    {
+      "nome": "BP Money — Senado aprova fim da 6x1: estimativas Dieese, CNI, Warren Rena, CBIC (15/10/2026)",
+      "url": "https://bpmoney.com.br/?p=427285",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Bahia Notícias — Flávio critica 'Pix para MEIs' e acusa Lula de tentar comprar votos (13/10/2026)",
+      "url": "https://www.bahianoticias.com.br/noticia/322401-flavio-bolsonaro-critica-proposta-de-pix-para-meis-e-acusa-lula-de-tentar-comprar-o-voto-das-pessoas",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Lupa — checagem ao vivo do debate Lula x Flávio na Band (18/10/2026)",
+      "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Wikipedia (en) — 2026 Brazilian general election (resultado do 1º turno; verificar no TSE)",
+      "url": "https://en.wikipedia.org/wiki/2026_Brazilian_general_election",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/13_renda_por_faixa_e_simulacoes_de_impacto.md",
+  "notas_brutas_adicionais": [
+    "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/12_pix_fake_news_e_impostos_quem_paga.md"
+  ],
+  "lacunas": [
+    "Nenhuma simulação independente (IFI, Ipea, Made/USP, bancos) do impacto distributivo do programa como pacote foi localizada.",
+    "Programa não consolida custos nem meta de primário; os valores citados são de medidas isoladas.",
+    "Resultado oficial do 1º turno vem da Wikipedia; checar no TSE."
+  ],
+  "atualizado_em": "2026-10-21"
+}

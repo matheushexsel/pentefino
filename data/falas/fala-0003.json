@@ -1,0 +1,75 @@
+{
+  "id": "fala-0003",
+  "slug": "lula-10-milhoes-de-empregos-formais",
+  "evento_id": "lancamentos-campanha-2026-08-16",
+  "candidato": "lula",
+  "lado": "governo-lula-pt",
+  "minuto": null,
+  "frase_literal": "Nós criamos 10,1 milhões de empregos formais nesses últimos três anos e meio.",
+  "literal": true,
+  "tema": "emprego-renda",
+  "veredito": "verdadeiro-mas",
+  "resumo_uma_frase": "O número bate com os vínculos formais registrados na Rais entre jan/2023 e jun/2026, mas não é saldo líquido nem número de pessoas.",
+  "explicacao_simples": [
+    "Lula, no lançamento da campanha (16/8/2026), disse: “Nós criamos 10,1 milhões de empregos formais nesses últimos três anos e meio”.",
+    "A Rais registra 10,1 milhões de vínculos formais criados entre janeiro de 2023 e junho de 2026; a Pnad mostra os ocupados passando de 99,4 milhões para 103,1 milhões no período.",
+    "O núcleo da frase está correto, mas falta uma ressalva que muda o peso do dado; por isso a classificação é 'verdadeiro, mas'."
+  ],
+  "o_que_e_verdade": [
+    "10,1 milhões de vínculos formais na Rais (jan/2023–jun/2026)."
+  ],
+  "o_que_nao_se_sustenta": [
+    "Vínculos não são pessoas nem saldo líquido: a Pnad mostra +3,7 milhões de ocupados (99,4 → 103,1 milhões)."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Vínculos formais criados (Rais)",
+      "valor": 10.1,
+      "unidade": "milhões de vínculos",
+      "periodo": "jan/2023–jun/2026",
+      "fonte": {
+        "nome": "Lupa",
+        "url": "https://www.agencialupa.org/noticias/2026/08/17/em-pontape-da-campanha-flavio-e-lula-cometem-erros-sobre-desempenho-de-gestoes-passadas/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      }
+    },
+    {
+      "rotulo": "Pessoas ocupadas (Pnad)",
+      "valor": 103.1,
+      "unidade": "milhões",
+      "periodo": "2026",
+      "fonte": {
+        "nome": "Lupa",
+        "url": "https://www.agencialupa.org/noticias/2026/08/17/em-pontape-da-campanha-flavio-e-lula-cometem-erros-sobre-desempenho-de-gestoes-passadas/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": {
+        "rotulo": "Ocupados no início de 2023",
+        "valor": 99.4
+      }
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Lupa",
+      "veredito_original": "VERDADEIRO",
+      "url": "https://www.agencialupa.org/noticias/2026/08/17/em-pontape-da-campanha-flavio-e-lula-cometem-erros-sobre-desempenho-de-gestoes-passadas/",
+      "data": "2026-08-17"
+    }
+  ],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Lupa",
+      "url": "https://www.agencialupa.org/noticias/2026/08/17/em-pontape-da-campanha-flavio-e-lula-cometem-erros-sobre-desempenho-de-gestoes-passadas/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
+  "atualizado_em": "2026-10-21"
+}

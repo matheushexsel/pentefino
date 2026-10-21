@@ -1,0 +1,610 @@
+{
+  "id": "seguranca-publica-quem-e-responsavel",
+  "pergunta": "Segurança pública: quem é responsável — governador, presidente ou prefeito?",
+  "resposta_curta": "Principalmente os governadores. As polícias Militar e Civil, os presídios comuns e cerca de 80% do gasto com segurança são estaduais. A União cuida da Polícia Federal, da PRF, dos presídios federais, das leis penais e de fundos de repasse (11% do gasto); os municípios têm guardas e iluminação (8%). Por isso, homicídios e letalidade policial dizem mais sobre políticas estaduais do que sobre o presidente.",
+  "temas": [
+    "seguranca"
+  ],
+  "cadeia_de_responsabilidade": [
+    {
+      "ator": "Governos estaduais (governadores)",
+      "o_que_controla": "Polícia Militar, Polícia Civil, perícia, presídios estaduais, registro e investigação de homicídios, operações policiais (como a Operação Contenção no RJ), 80% do gasto com segurança (R$ 131,3 bi em 2025).",
+      "o_que_nao_controla": "Legislação penal e processual, controle de armas (PF/Exército), fronteiras, crimes federais, presídios federais.",
+      "peso": "alto",
+      "url": "https://static.poder360.com.br/uploads/2026/07/anuario-seguranca-publica-23jul26.pdf"
+    },
+    {
+      "ator": "Governo federal (presidente, Ministério da Justiça e Segurança Pública)",
+      "o_que_controla": "Polícia Federal (R$ 10,4 bi em 2025), PRF, Força Nacional, presídios federais, Fundo Nacional de Segurança Pública (R$ 2,22 bi em 2025) e Funpen, regras de armas (decretos), propostas de lei (PL Antifacção) e PECs; 11% do gasto total (R$ 18,1 bi em 2025).",
+      "o_que_nao_controla": "Comando das polícias estaduais, decisão de fazer operações, gestão dos presídios estaduais, classificação dos registros criminais.",
+      "peso": "medio",
+      "url": "https://static.poder360.com.br/uploads/2026/07/anuario-seguranca-publica-23jul26.pdf"
+    },
+    {
+      "ator": "Congresso Nacional",
+      "o_que_controla": "Código Penal, Lei Antifacção (PL 5.582/2025), PEC da Segurança (PEC 18/2025), orçamento dos fundos federais, CPIs (CPI do Crime Organizado, Senado, nov/2025).",
+      "o_que_nao_controla": "Execução policial e prisional.",
+      "peso": "medio",
+      "url": "https://www.congressoemfoco.com.br/noticia/123231/ccj-conclui-votacao-da-pec-da-seguranca-e-envia-texto-ao-plenario"
+    },
+    {
+      "ator": "Prefeituras",
+      "o_que_controla": "Guardas municipais, iluminação pública, videomonitoramento, prevenção social local; 8% do gasto (R$ 13,8 bi em 2025, o nível que mais cresceu desde 2016: +72,7%).",
+      "o_que_nao_controla": "Polícias, investigação criminal, presídios.",
+      "peso": "baixo",
+      "url": "https://static.poder360.com.br/uploads/2026/07/anuario-seguranca-publica-23jul26.pdf"
+    },
+    {
+      "ator": "Judiciário e Ministério Público",
+      "o_que_controla": "Prisões provisórias (25,7% dos presos em 2025), audiências de custódia, medidas protetivas (132.025 descumprimentos em 2025), controle externo da atividade policial.",
+      "o_que_nao_controla": "Políticas de policiamento e orçamento das polícias.",
+      "peso": "medio",
+      "url": "https://static.poder360.com.br/uploads/2026/07/anuario-seguranca-publica-23jul26.pdf"
+    }
+  ],
+  "composicao": [
+    {
+      "rotulo": "Estados e DF",
+      "percentual": 80,
+      "fonte": {
+        "nome": "Anuário Brasileiro de Segurança Pública 2026 (FBSP)",
+        "url": "https://static.poder360.com.br/uploads/2026/07/anuario-seguranca-publica-23jul26.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      }
+    },
+    {
+      "rotulo": "União",
+      "percentual": 11,
+      "fonte": {
+        "nome": "Anuário Brasileiro de Segurança Pública 2026 (FBSP)",
+        "url": "https://static.poder360.com.br/uploads/2026/07/anuario-seguranca-publica-23jul26.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      }
+    },
+    {
+      "rotulo": "Municípios",
+      "percentual": 8,
+      "fonte": {
+        "nome": "Anuário Brasileiro de Segurança Pública 2026 (FBSP)",
+        "url": "https://static.poder360.com.br/uploads/2026/07/anuario-seguranca-publica-23jul26.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      }
+    }
+  ],
+  "linha_do_tempo": [
+    {
+      "data": "2017",
+      "evento": "Pico de mortes violentas intencionais: 64.079 (taxa 31,2 por 100 mil), governo Temer.",
+      "url": "https://static.poder360.com.br/uploads/2026/07/anuario-seguranca-publica-23jul26.pdf"
+    },
+    {
+      "data": "2018",
+      "evento": "Início da queda das MVI (57.592), ainda no governo Temer.",
+      "url": "https://static.poder360.com.br/uploads/2026/07/anuario-seguranca-publica-23jul26.pdf"
+    },
+    {
+      "data": "2019",
+      "evento": "Decretos federais flexibilizam o acesso a armas; registros ativos no Sinarm sobem 63,5% em um ano.",
+      "url": "https://static.poder360.com.br/uploads/2026/07/anuario-seguranca-publica-23jul26.pdf"
+    },
+    {
+      "data": "2023",
+      "evento": "Decreto do governo Lula 3 suspende novos registros de CAC e transfere o controle ao Ministério da Justiça/PF.",
+      "url": "https://www.em.com.br/app/noticia/politica/2023/07/20/interna_politica,1522636/amp.html"
+    },
+    {
+      "data": "2024-10-09",
+      "evento": "Lei 14.994 torna o feminicídio tipo penal autônomo.",
+      "url": "https://static.poder360.com.br/uploads/2026/07/anuario-seguranca-publica-23jul26.pdf"
+    },
+    {
+      "data": "2025-10-28",
+      "evento": "Operação Contenção (governo do RJ, Cláudio Castro) nos complexos do Alemão e da Penha: 122 mortos, a mais letal da história.",
+      "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Conten%C3%A7%C3%A3o"
+    },
+    {
+      "data": "2025-10-31",
+      "evento": "Governo federal anuncia o PL Antifacção.",
+      "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Conten%C3%A7%C3%A3o"
+    },
+    {
+      "data": "2025-12",
+      "evento": "Câmara adia PEC da Segurança e PL Antifacção para 2026 por falta de acordo (maioridade penal era o ponto sensível).",
+      "url": "https://www.gazetadopovo.com.br/republica/camara-adia-votacao-da-pec-da-seguranca-e-do-pl-antifaccao-para-2026/"
+    },
+    {
+      "data": "2026-03-04",
+      "evento": "Câmara aprova a PEC 18/2025 (PEC da Segurança) em dois turnos: 487–15–1 e 461–14.",
+      "url": "https://sul21.com.br/?p=287759"
+    },
+    {
+      "data": "2026-03-24",
+      "evento": "Lula sanciona a Lei Antifacção com dois vetos.",
+      "url": "https://www.congressoemfoco.com.br/noticia/117518/lula-sanciona-texto-do-pl-antifaccao-com-apenas-um-veto"
+    },
+    {
+      "data": "2026-07-23",
+      "evento": "Anuário 2026: MVI caem a 40.775 em 2025 (taxa 19,1, menor desde 2012); letalidade policial e feminicídios batem recorde.",
+      "url": "https://static.poder360.com.br/uploads/2026/07/anuario-seguranca-publica-23jul26.pdf"
+    },
+    {
+      "data": "2026-10-14",
+      "evento": "CCJ do Senado conclui votação da PEC da Segurança mantendo o texto da Câmara.",
+      "url": "https://www.congressoemfoco.com.br/noticia/123231/ccj-conclui-votacao-da-pec-da-seguranca-e-envia-texto-ao-plenario"
+    },
+    {
+      "data": "2026-10-16",
+      "evento": "Alcolumbre anuncia que a PEC voltará à pauta do plenário após acordo sobre emendas; em 21/10/2026 ainda não estava aprovada.",
+      "url": "https://www.senado.leg.br/noticias/videos/2026/10/pec-da-seguranca-voltara-a-pauta-apos-acordo-sobre-emendas-anuncia-davi"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Gasto total com segurança pública",
+      "valor": 163.1,
+      "unidade": "R$ bilhões (constantes de 2025)",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Anuário Brasileiro de Segurança Pública 2026 (FBSP)",
+        "url": "https://static.poder360.com.br/uploads/2026/07/anuario-seguranca-publica-23jul26.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      }
+    },
+    {
+      "rotulo": "Gasto dos estados e DF",
+      "valor": 131.3,
+      "unidade": "R$ bilhões",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Anuário Brasileiro de Segurança Pública 2026 (FBSP)",
+        "url": "https://static.poder360.com.br/uploads/2026/07/anuario-seguranca-publica-23jul26.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      "comparacao": {
+        "rotulo": "2016",
+        "valor": 104.2
+      }
+    },
+    {
+      "rotulo": "Gasto da União",
+      "valor": 18.1,
+      "unidade": "R$ bilhões",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Anuário Brasileiro de Segurança Pública 2026 (FBSP)",
+        "url": "https://static.poder360.com.br/uploads/2026/07/anuario-seguranca-publica-23jul26.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      "comparacao": {
+        "rotulo": "2024",
+        "valor": 22.0
+      }
+    },
+    {
+      "rotulo": "Gasto dos municípios",
+      "valor": 13.8,
+      "unidade": "R$ bilhões",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Anuário Brasileiro de Segurança Pública 2026 (FBSP)",
+        "url": "https://static.poder360.com.br/uploads/2026/07/anuario-seguranca-publica-23jul26.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      "comparacao": {
+        "rotulo": "2016",
+        "valor": 8.0
+      }
+    },
+    {
+      "rotulo": "Fundo Nacional de Segurança Pública",
+      "valor": 2.22,
+      "unidade": "R$ bilhões",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Anuário Brasileiro de Segurança Pública 2026 (FBSP)",
+        "url": "https://static.poder360.com.br/uploads/2026/07/anuario-seguranca-publica-23jul26.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      "comparacao": {
+        "rotulo": "2024",
+        "valor": 2.4
+      }
+    },
+    {
+      "rotulo": "Mortes violentas intencionais",
+      "valor": 40775,
+      "unidade": "mortes",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Anuário Brasileiro de Segurança Pública 2026 (FBSP)",
+        "url": "https://static.poder360.com.br/uploads/2026/07/anuario-seguranca-publica-23jul26.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      "comparacao": {
+        "rotulo": "2017 (pico)",
+        "valor": 64079
+      }
+    },
+    {
+      "rotulo": "Taxa de MVI por 100 mil",
+      "valor": 19.1,
+      "unidade": "por 100 mil hab.",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Anuário Brasileiro de Segurança Pública 2026 (FBSP)",
+        "url": "https://static.poder360.com.br/uploads/2026/07/anuario-seguranca-publica-23jul26.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      "comparacao": {
+        "rotulo": "2017",
+        "valor": 31.2
+      }
+    },
+    {
+      "rotulo": "Mortes por intervenção policial",
+      "valor": 6602,
+      "unidade": "mortes",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Anuário Brasileiro de Segurança Pública 2026 (FBSP)",
+        "url": "https://static.poder360.com.br/uploads/2026/07/anuario-seguranca-publica-23jul26.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      "comparacao": {
+        "rotulo": "2024",
+        "valor": 6237
+      }
+    },
+    {
+      "rotulo": "Feminicídios",
+      "valor": 1571,
+      "unidade": "vítimas",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Anuário Brasileiro de Segurança Pública 2026 (FBSP)",
+        "url": "https://static.poder360.com.br/uploads/2026/07/anuario-seguranca-publica-23jul26.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      "comparacao": {
+        "rotulo": "2024",
+        "valor": 1504
+      }
+    },
+    {
+      "rotulo": "Roubos (total)",
+      "valor": 610959,
+      "unidade": "registros",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Anuário Brasileiro de Segurança Pública 2026 (FBSP)",
+        "url": "https://static.poder360.com.br/uploads/2026/07/anuario-seguranca-publica-23jul26.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      "comparacao": {
+        "rotulo": "2024",
+        "valor": 745193
+      }
+    },
+    {
+      "rotulo": "Estelionatos",
+      "valor": 2261055,
+      "unidade": "registros",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Anuário Brasileiro de Segurança Pública 2026 (FBSP)",
+        "url": "https://static.poder360.com.br/uploads/2026/07/anuario-seguranca-publica-23jul26.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      "comparacao": {
+        "rotulo": "2024",
+        "valor": 2193122
+      }
+    },
+    {
+      "rotulo": "Armas com registro ativo no Sinarm",
+      "valor": 2171213,
+      "unidade": "armas",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Anuário Brasileiro de Segurança Pública 2026 (FBSP)",
+        "url": "https://static.poder360.com.br/uploads/2026/07/anuario-seguranca-publica-23jul26.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      "comparacao": {
+        "rotulo": "2017",
+        "valor": 637972
+      }
+    },
+    {
+      "rotulo": "População prisional",
+      "valor": 964668,
+      "unidade": "pessoas",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Anuário Brasileiro de Segurança Pública 2026 (FBSP)",
+        "url": "https://static.poder360.com.br/uploads/2026/07/anuario-seguranca-publica-23jul26.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      "comparacao": {
+        "rotulo": "2000",
+        "valor": 232755
+      }
+    },
+    {
+      "rotulo": "Déficit de vagas prisionais (FBSP)",
+      "valor": 281213,
+      "unidade": "vagas",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Anuário Brasileiro de Segurança Pública 2026 (FBSP)",
+        "url": "https://static.poder360.com.br/uploads/2026/07/anuario-seguranca-publica-23jul26.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      }
+    },
+    {
+      "rotulo": "Votação da PEC da Segurança na Câmara (1º turno, favoráveis)",
+      "valor": 487,
+      "unidade": "votos",
+      "periodo": "2026-03-04",
+      "fonte": {
+        "nome": "Sul21 (PEC da Segurança na Câmara)",
+        "url": "https://sul21.com.br/?p=287759",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    }
+  ],
+  "series": [
+    "mortes-violentas-intencionais",
+    "taxa-homicidios-100-mil",
+    "letalidade-policial",
+    "feminicidios",
+    "armas-registradas-sinarm",
+    "populacao-prisional",
+    "gasto-seguranca-por-nivel-de-governo"
+  ],
+  "mitos_e_fatos": [
+    {
+      "mito": "O presidente é quem comanda a polícia e responde pelos homicídios.",
+      "fato": "As polícias Militar e Civil respondem aos governadores. Os estados gastam 80% do total com segurança; a União, 11%. A PEC 18/2025 amplia o papel federal (SUSP na Constituição, repasse obrigatório de 50% do FNSP e Funpen a estados), mas em 21/10/2026 ainda não havia sido aprovada pelo Senado.",
+      "fontes": [
+        {
+          "nome": "Anuário Brasileiro de Segurança Pública 2026 (FBSP)",
+          "url": "https://static.poder360.com.br/uploads/2026/07/anuario-seguranca-publica-23jul26.pdf",
+          "acesso_em": "2026-10-21",
+          "tier": "academico"
+        },
+        {
+          "nome": "Senado Notícias — PEC voltará à pauta após acordo (16/10/2026)",
+          "url": "https://www.senado.leg.br/noticias/videos/2026/10/pec-da-seguranca-voltara-a-pauta-apos-acordo-sobre-emendas-anuncia-davi",
+          "acesso_em": "2026-10-21",
+          "tier": "oficial"
+        }
+      ]
+    },
+    {
+      "mito": "Os homicídios só começaram a cair em 2019.",
+      "fato": "O pico foi em 2017 (64.079 MVI) e a queda começou em 2018 (57.592), no governo Temer. Continuou em 2019 (47.765), com repique em 2020, e seguiu nos governos Bolsonaro e Lula 3 até 40.775 em 2025. Especialistas do IPEA apontam envelhecimento populacional, gestão estadual e prevenção para jovens.",
+      "fontes": [
+        {
+          "nome": "Anuário Brasileiro de Segurança Pública 2026 (FBSP)",
+          "url": "https://static.poder360.com.br/uploads/2026/07/anuario-seguranca-publica-23jul26.pdf",
+          "acesso_em": "2026-10-21",
+          "tier": "academico"
+        },
+        {
+          "nome": "Agência Brasil — Atlas da Violência 2025 (IPEA/FBSP)",
+          "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2025-05/taxa-de-homicidio-cai-mas-violencia-matou-457-mil-no-brasil-em-2023",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        }
+      ]
+    },
+    {
+      "mito": "A violência explodiu nos últimos anos.",
+      "fato": "Em 2025, MVI caíram 8,2% e roubos 18,3%. Mas feminicídios (+4,0%), mortes por policiais (+5,4%) e estelionatos (+2,7%; +429,8% desde 2018) subiram, e o FBSP descreve 2025 como ano de expansão territorial de facções e explosão de fraudes.",
+      "fontes": [
+        {
+          "nome": "Anuário Brasileiro de Segurança Pública 2026 (FBSP)",
+          "url": "https://static.poder360.com.br/uploads/2026/07/anuario-seguranca-publica-23jul26.pdf",
+          "acesso_em": "2026-10-21",
+          "tier": "academico"
+        }
+      ]
+    },
+    {
+      "mito": "A Lei Antifacção foi obra só do governo ou só da oposição.",
+      "fato": "O PL 5.582/2025 foi anunciado pelo governo federal em 31/10/2025, relatado na Câmara por Guilherme Derrite (PP-SP, ex-secretário de Tarcísio), aprovado por 370–110, modificado no Senado (relator Alessandro Vieira) e sancionado por Lula em 24/03/2026 com dois vetos.",
+      "fontes": [
+        {
+          "nome": "Congresso em Foco — Lula sanciona PL Antifacção",
+          "url": "https://www.congressoemfoco.com.br/noticia/117518/lula-sanciona-texto-do-pl-antifaccao-com-apenas-um-veto",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "Poder360 — Lula sanciona PL Antifacção",
+          "url": "https://www.poder360.com.br/brasil/lula-sanciona-pl-antifaccao-com-veto-e-sem-alcolumbre-no-planalto/",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "SBT News — Câmara aprova PL Antifacção",
+          "url": "https://sbtnews.sbt.com.br/noticia/politica/camara-aprova-pl-antifaccao-e-texto-vai-a-sancao-do-presidente-lula",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        }
+      ]
+    },
+    {
+      "mito": "Mais armas legais fizeram os homicídios caírem.",
+      "fato": "O estoque legal de armas subiu 240% entre 2017 e 2025 e os homicídios caíram no mesmo período, mas a queda começou em 2018, antes dos decretos, e continuou após o decreto de 2023 que freou novos registros. Daniel Cerqueira (IPEA) observa que mais armas em circulação tendem a elevar homicídios.",
+      "fontes": [
+        {
+          "nome": "Anuário Brasileiro de Segurança Pública 2026 (FBSP)",
+          "url": "https://static.poder360.com.br/uploads/2026/07/anuario-seguranca-publica-23jul26.pdf",
+          "acesso_em": "2026-10-21",
+          "tier": "academico"
+        },
+        {
+          "nome": "Agência Brasil — Atlas da Violência 2025 (IPEA/FBSP)",
+          "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2025-05/taxa-de-homicidio-cai-mas-violencia-matou-457-mil-no-brasil-em-2023",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        }
+      ]
+    }
+  ],
+  "perguntas_frequentes": [
+    {
+      "pergunta": "O que a PEC da Segurança muda?",
+      "resposta": "Coloca o Sistema Único de Segurança Pública (SUSP) na Constituição, obriga o repasse de 50% do FNSP e do Funpen a estados e DF, protege os fundos contra contingenciamento, dá à PRF atuação em ferrovias e hidrovias e trata do sistema penal e da expropriação de bens do crime. O governo quer um Ministério da Segurança Pública permanente. Foi aprovada na Câmara em 04/03/2026 e, na data da nota (21/10/2026), aguardava o plenário do Senado."
+    },
+    {
+      "pergunta": "Quem respondeu pela Operação Contenção no Rio?",
+      "resposta": "O governo do estado do RJ (Cláudio Castro, PL). O ministro da Justiça Lewandowski disse não ter recebido pedido de GLO. A operação teve 122 mortos (5 agentes), 123 presos e 118–122 armas apreendidas. Em abr/2026 a PGR pediu ao STF acesso aos laudos e a PF disse que a PM não entregou imagens de câmeras; a CIDH pediu investigação em mar/2026."
+    },
+    {
+      "pergunta": "O que a Lei Antifacção faz?",
+      "resposta": "Cria o crime de 'domínio social estruturado' (20 a 40 anos, até 66 em casos agravados), define facção (3 ou mais pessoas que usam violência para controlar território), veda anistia, graça, fiança e livramento condicional e manda lideranças para presídios federais. Lula vetou a equiparação de penas de não-membros e a destinação de bens apreendidos a fundos estaduais e municipais."
+    },
+    {
+      "pergunta": "Por que a letalidade policial sobe enquanto os homicídios caem?",
+      "resposta": "Porque são decisões diferentes. A política de confronto é definida por cada governo estadual (RJ, BA, SP etc.). Em 2025 a polícia matou 6.602 pessoas (16,2% das MVI), com taxa 3,5 vezes maior entre negros; no RJ, mortes por policiais foram 20,5% das MVI."
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Anuário Brasileiro de Segurança Pública 2026 (FBSP)",
+      "url": "https://static.poder360.com.br/uploads/2026/07/anuario-seguranca-publica-23jul26.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    },
+    {
+      "nome": "Agência Brasil via Diário de Pernambuco (Anuário 2026)",
+      "url": "https://diariodepernambuco.com.br/brasil/2026/07/11719408-mortes-violentas-caem-82-no-pais-em-2025-feminicidios-aumentam-4.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Agência Brasil — Atlas da Violência 2025 (IPEA/FBSP)",
+      "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2025-05/taxa-de-homicidio-cai-mas-violencia-matou-457-mil-no-brasil-em-2023",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Sul21 (PEC da Segurança na Câmara)",
+      "url": "https://sul21.com.br/?p=287759",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Poder360 — Senado vota PEC da Segurança (15/10/2026)",
+      "url": "https://www.poder360.com.br/poder-congresso/ao-vivo-senado-vota-pec-da-seguranca-publica/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Congresso em Foco — CCJ conclui votação da PEC da Segurança",
+      "url": "https://www.congressoemfoco.com.br/noticia/123231/ccj-conclui-votacao-da-pec-da-seguranca-e-envia-texto-ao-plenario",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Senado Notícias — PEC voltará à pauta após acordo (16/10/2026)",
+      "url": "https://www.senado.leg.br/noticias/videos/2026/10/pec-da-seguranca-voltara-a-pauta-apos-acordo-sobre-emendas-anuncia-davi",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Senado Notícias — Randolfe sobre a PEC da Segurança",
+      "url": "https://www.senado.leg.br/noticias/audios/2026/10/randolfe-senado-pode-retomar-votacao-da-pec-da-seguranca-na-proxima-semana",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Gazeta do Povo — Câmara adia PEC e PL Antifacção",
+      "url": "https://www.gazetadopovo.com.br/republica/camara-adia-votacao-da-pec-da-seguranca-e-do-pl-antifaccao-para-2026/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Wikipédia pt — Operação Contenção (compilação com fontes)",
+      "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Conten%C3%A7%C3%A3o",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Poder360 — Castro chama megaoperação de sucesso",
+      "url": "https://www.poder360.com.br/poder-seguranca-publica/castro-chama-de-sucesso-megaoperacao-no-rio-com-mais-de-130-mortos/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "BBC via O Povo — mortes em megaoperação no Rio",
+      "url": "https://www.opovo.com.br/agencia/bbc/2025/10/28/amp/mortes-em-megaoperacao-no-rio-sao-mais-do-que-o-dobro-do-recorde-anterior-de-letalidade.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Congresso em Foco — Lula sanciona PL Antifacção",
+      "url": "https://www.congressoemfoco.com.br/noticia/117518/lula-sanciona-texto-do-pl-antifaccao-com-apenas-um-veto",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Poder360 — Lula sanciona PL Antifacção",
+      "url": "https://www.poder360.com.br/brasil/lula-sanciona-pl-antifaccao-com-veto-e-sem-alcolumbre-no-planalto/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "SBT News — Câmara aprova PL Antifacção",
+      "url": "https://sbtnews.sbt.com.br/noticia/politica/camara-aprova-pl-antifaccao-e-texto-vai-a-sancao-do-presidente-lula",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Estado de Minas (Anuário 2023)",
+      "url": "https://www.em.com.br/app/noticia/politica/2023/07/20/interna_politica,1522636/amp.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Alma Preta (Anuário 2026)",
+      "url": "https://almapreta.com.br/sessao/cotidiano/negros-mais-risco-morrer-acoes-policiais-anuario-2026/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Brasil de Fato (Anuário 2026)",
+      "url": "https://www.brasildefato.com.br/2026/07/23/letalidade-policial-piora-no-pais-e-faz-47-vitimas-civis-a-cada-agente-morto-em-supostos-confrontos/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "lacunas": [
+    "Resultado da votação da PEC 18/2025 no plenário do Senado após 16/10/2026 não localizado.",
+    "Número da Lei Antifacção sancionada e conclusões da CPI do Crime Organizado não constam da nota.",
+    "Estimativas de faturamento de PCC/CV não localizadas."
+  ],
+  "atualizado_em": "2026-10-21",
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/07_saude_seguranca_educacao_infra_ambiente.md"
+}

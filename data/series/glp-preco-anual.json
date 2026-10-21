@@ -1,0 +1,43 @@
+{
+  "id": "glp-preco-anual",
+  "titulo": "Preço médio do botijão de gás de 13 kg (ANP)",
+  "descricao_simples": "Preço médio nacional do botijão de GLP de 13 kg em 2026, em reais.",
+  "unidade": "R$ por botijão de 13 kg",
+  "tipo_grafico": "linha",
+  "frequencia": "mensal",
+  "fonte": {
+    "nome": "ANP – Levantamento de Preços de Combustíveis",
+    "url": "https://www.gov.br/anp/pt-br/assuntos/precos-e-defesa-da-concorrencia/precos/levantamento-de-precos-de-combustiveis-ultimas-semanas-pesquisadas",
+    "acesso_em": "2026-10-21",
+    "tier": "oficial"
+  },
+  "pontos": [
+    {
+      "periodo": "jan/2026",
+      "valor": 111.12
+    },
+    {
+      "periodo": "set/2026",
+      "valor": 116.13
+    },
+    {
+      "periodo": "out/2026",
+      "valor": 114.73
+    }
+  ],
+  "faixas_referencia": [],
+  "notas_metodologicas": [
+    "jan/2026 = semana de 28/12/2025 a 03/01/2026; set/2026 = semana de 27/09 a 03/10/2026 (+4,5% no ano); out/2026 = semana de 11 a 17/10/2026 (ANP), quando o GLP foi o único combustível a subir (+0,1%).",
+    "Estado de SP (11–17/10/2026): R$ 116,53; capital SP: R$ 119,21.",
+    "Apesar do nome do id, as notas só trazem pontos de 2026."
+  ],
+  "ultimo_periodo": "out/2026",
+  "temas": [
+    "combustiveis"
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/06_energia_eletrobras_combustiveis.md",
+  "atualizado_em": "2026-10-21",
+  "lacunas": [
+    "Série anual do GLP 2003–2025 não consta das notas."
+  ]
+}

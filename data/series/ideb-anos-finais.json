@@ -1,0 +1,101 @@
+{
+  "id": "ideb-anos-finais",
+  "titulo": "Ideb — anos finais do ensino fundamental (6º ao 9º ano)",
+  "descricao_simples": "Índice de Desenvolvimento da Educação Básica dos anos finais. Subiu de 3,5 (2005) para 5,0 (2023), abaixo da meta de 5,5; caiu 0,1 ponto entre 2021 e 2023.",
+  "unidade": "pontos (0 a 10)",
+  "tipo_grafico": "linha",
+  "frequencia": "anual",
+  "fonte": {
+    "nome": "Wikipédia pt — Ideb (compilação de dados Inep)",
+    "url": "https://pt.wikipedia.org/wiki/%C3%8Dndice_de_Desenvolvimento_da_Educa%C3%A7%C3%A3o_B%C3%A1sica",
+    "acesso_em": "2026-10-21",
+    "tier": "imprensa"
+  },
+  "pontos": [
+    {
+      "periodo": "2005",
+      "valor": 3.5
+    },
+    {
+      "periodo": "2007",
+      "valor": 3.8
+    },
+    {
+      "periodo": "2009",
+      "valor": 4.0
+    },
+    {
+      "periodo": "2011",
+      "valor": 4.1
+    },
+    {
+      "periodo": "2013",
+      "valor": 4.2
+    },
+    {
+      "periodo": "2015",
+      "valor": 4.5
+    },
+    {
+      "periodo": "2017",
+      "valor": 4.7
+    },
+    {
+      "periodo": "2019",
+      "valor": 4.9
+    },
+    {
+      "periodo": "2021",
+      "valor": 5.1
+    },
+    {
+      "periodo": "2023",
+      "valor": 5.0
+    }
+  ],
+  "faixas_referencia": [
+    {
+      "rotulo": "Meta 2023",
+      "valor": 5.5
+    },
+    {
+      "rotulo": "Ceará, Paraná e Goiás 2023 (líderes)",
+      "valor": 5.5
+    }
+  ],
+  "notas_metodologicas": [
+    "Ideb = fluxo (aprovação) x desempenho (Saeb). Fonte: Inep, via compilação da Wikipédia pt e cobertura do Ideb 2023 (divulgado em 14/08/2024).",
+    "O Ideb 2025 (coleta em 2025) ainda não havia sido divulgado nas fontes localizadas pela nota; a página do Inep foi atualizada em 05/08/2026.",
+    "Responsabilidade: anos iniciais são majoritariamente redes municipais; anos finais, municipais e estaduais; ensino médio, redes estaduais. A União financia via Fundeb e define a BNCC.",
+    "Entre 2021 e 2023, 16 estados melhoraram nos anos finais. A edição é bienal."
+  ],
+  "ultimo_periodo": "2023",
+  "temas": [
+    "educacao"
+  ],
+  "fontes_adicionais": [
+    {
+      "nome": "Folha Vitória — Ideb 2023 e metas",
+      "url": "https://www.folhavitoria.com.br/geral/brasil-fica-estagnado-na-qualidade-de-ensino-e-longe-da-maioria-das-metas/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "O Povo — Ideb 2023 (Ceará)",
+      "url": "https://www.opovo.com.br/noticias/ceara/2024/08/14/amp/ceara-supera-meta-nacional-do-ideb-no-ensino-fundamental-e-fica-abaixo-no-ensino-medio-em-2023.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Inep — resultados do Ideb",
+      "url": "https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/ideb/resultados",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    }
+  ],
+  "lacunas": [
+    "Ideb 2025 não divulgado nas fontes da nota."
+  ],
+  "atualizado_em": "2026-10-21",
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/07_saude_seguranca_educacao_infra_ambiente.md"
+}

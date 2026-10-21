@@ -1,0 +1,63 @@
+{
+  "id": "fala-0005",
+  "slug": "lula-fizemos-200-faculdades",
+  "evento_id": "lancamentos-campanha-2026-08-16",
+  "candidato": "lula",
+  "lado": "governo-lula-pt",
+  "minuto": null,
+  "frase_literal": "Eu e a Dilma, em apenas 16 anos, fizemos 200 [faculdades].",
+  "literal": true,
+  "tema": "educacao",
+  "veredito": "exagerado",
+  "resumo_uma_frase": "O número de instituições públicas de ensino superior subiu 120 entre 2000 e 2016, não 200.",
+  "explicacao_simples": [
+    "Lula, no lançamento da campanha (16/8/2026), disse: “Eu e a Dilma, em apenas 16 anos, fizemos 200 [faculdades]”.",
+    "As instituições públicas de ensino superior passaram de 176 em 2000 para 296 em 2016, um acréscimo de 120 (Inep/Mapa do Ensino Superior).",
+    "O sentido geral tem base, mas o número ou a dimensão foram inflados; por isso a classificação é 'exagerado'."
+  ],
+  "o_que_e_verdade": [
+    "Houve expansão expressiva: +120 instituições públicas entre 2000 e 2016."
+  ],
+  "o_que_nao_se_sustenta": [
+    "O acréscimo foi de 120 instituições, não 200."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Instituições públicas de ensino superior",
+      "valor": 296,
+      "unidade": "instituições",
+      "periodo": "2016",
+      "fonte": {
+        "nome": "Lupa",
+        "url": "https://www.agencialupa.org/noticias/2026/08/17/em-pontape-da-campanha-flavio-e-lula-cometem-erros-sobre-desempenho-de-gestoes-passadas/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": {
+        "rotulo": "Em 2000",
+        "valor": 176
+      }
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Lupa",
+      "veredito_original": "EXAGERADO",
+      "url": "https://www.agencialupa.org/noticias/2026/08/17/em-pontape-da-campanha-flavio-e-lula-cometem-erros-sobre-desempenho-de-gestoes-passadas/",
+      "data": "2026-08-17"
+    }
+  ],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Lupa",
+      "url": "https://www.agencialupa.org/noticias/2026/08/17/em-pontape-da-campanha-flavio-e-lula-cometem-erros-sobre-desempenho-de-gestoes-passadas/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
+  "atualizado_em": "2026-10-21"
+}

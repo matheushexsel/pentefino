@@ -1,0 +1,232 @@
+{
+  "id": "chk-1025",
+  "slug": "bolsa-familia-4-anos-sem-reajuste",
+  "frase": "Ficamos quatro anos sem reajuste do Bolsa Família",
+  "frase_normalizada": "O Bolsa Família ficou quatro anos sem reajuste antes de out/2026",
+  "variantes": [
+    "O Bolsa Família não era reajustado desde 2022"
+  ],
+  "autor": {
+    "nome": "Luiz Inácio Lula da Silva",
+    "partido": "PT",
+    "cargo": "presidente da República e candidato à reeleição"
+  },
+  "lado": "governo-lula-pt",
+  "alvo": null,
+  "data": "2026-10-01",
+  "onde": "Entrevista ao Flow Podcast (01/10/2026)",
+  "url_declaracao": "https://www.agencialupa.org/checagem/2026/10/01/ao-vivo-checagem-da-entrevista-de-lula-no-flow/",
+  "temas": [
+    "pobreza-programas-sociais",
+    "eleicao-2026"
+  ],
+  "tags": [
+    "bolsa-familia",
+    "reajuste",
+    "inpc"
+  ],
+  "veredito": "falta-contexto",
+  "resumo_uma_frase": "O piso de R$ 600 vigora desde agosto de 2022 e o reajuste de 15,04% de out/2026 foi o primeiro aumento geral, mas o próprio governo Lula criou em mar/2023 o adicional de R$ 150 por criança e refez o programa, de modo que 'quatro anos sem reajuste' omite que a decisão de não corrigir o piso pela inflação em 2023-2025 foi do governo atual.",
+  "explicacao_simples": [
+    "O piso de R$ 600 existe desde agosto de 2022 e só foi corrigido em outubro de 2026, para R$ 691, repondo o INPC de março de 2023 a agosto de 2026.",
+    "Em março de 2023 o governo Lula recriou o programa com R$ 150 por criança pequena, o que elevou o valor médio para cerca de R$ 680, mesmo sem mexer no piso.",
+    "A ausência de correção entre 2023 e 2025 foi uma escolha do governo atual, e economistas apontam que a inflação justificaria reajuste desde janeiro de 2026."
+  ],
+  "explicacao_completa_md": "## O que é correto\n\nO piso de R$ 600 foi fixado em ago/2022 (EC 123) e mantido pelo novo Bolsa Família (mar/2023). O reajuste de out/2026 (Decreto 13.120, de 17/09/2026) elevou o piso em 15,04%, para R$ 691, repondo o INPC acumulado de mar/2023 a ago/2026; o benefício médio projetado passou de R$ 675 para R$ 777, para mais de 19 milhões de famílias.\n\n## O que falta\n\n- O governo Lula recriou o programa em mar/2023 com o Benefício Primeira Infância (R$ 150 por criança de 0 a 6 anos), o que elevou o benefício médio a cerca de R$ 680 em 2023-2024.\n- Durante 2023-2025 o governo poderia ter corrigido o piso e não o fez; a frase soa como herança, mas o período sem correção é majoritariamente do mandato atual.\n- O reajuste começou a ser pago em 19/10/2026, uma semana antes do 2º turno, e custa R$ 5,8 bilhões em 2026 e R$ 22,7 bilhões em 2027, valor não previsto no PLOA 2027.\n\nA Lupa classificou a frase como FALTA CONTEXTO.",
+  "o_que_e_verdade": [
+    "O piso de R$ 600 vigora desde ago/2022 e o reajuste de out/2026 (15,04%, para R$ 691) foi o primeiro aumento geral desde então.",
+    "O índice usado foi o INPC acumulado de mar/2023 a ago/2026."
+  ],
+  "o_que_nao_se_sustenta": [
+    "O governo Lula alterou o programa em mar/2023 (R$ 150 por criança), elevando o benefício médio para cerca de R$ 680.",
+    "A decisão de não corrigir o piso entre 2023 e 2025 foi do governo atual, não de um antecessor.",
+    "O custo de R$ 22,7 bilhões ao ano do reajuste não consta do PLOA 2027."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Governo Lula 3 (MDS, Planejamento)",
+      "papel": "definiu o piso, o adicional por criança e a data do reajuste",
+      "peso": "alto"
+    },
+    {
+      "ator": "Congresso Nacional",
+      "papel": "aprovou a EC 126/2022 e os orçamentos de 2023-2026",
+      "peso": "medio"
+    },
+    {
+      "ator": "Governo Bolsonaro",
+      "papel": "fixou o piso de R$ 600 em 2022 por emenda temporária",
+      "peso": "medio"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Reajuste do piso do Bolsa Família",
+      "valor": 15.04,
+      "unidade": "%",
+      "periodo": "out/2026",
+      "fonte": {
+        "nome": "O Povo – Bolsa Família sobe 15% em outubro; mínimo vai a R$ 691 (21/09/2026)",
+        "url": "https://www.opovo.com.br/trends/bolsa-familia-sobe-15-em-outubro-minimo-vai-a-r-691-e-valor-medio-projetado-chega-a-r-777/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "Novo piso (R$)",
+        "valor": 691
+      }
+    },
+    {
+      "rotulo": "Benefício médio projetado após o reajuste",
+      "valor": 777,
+      "unidade": "R$",
+      "periodo": "out/2026",
+      "fonte": {
+        "nome": "O Povo – Bolsa Família sobe 15% em outubro; mínimo vai a R$ 691 (21/09/2026)",
+        "url": "https://www.opovo.com.br/trends/bolsa-familia-sobe-15-em-outubro-minimo-vai-a-r-691-e-valor-medio-projetado-chega-a-r-777/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "Antes",
+        "valor": 675
+      }
+    },
+    {
+      "rotulo": "Benefício médio em 2023",
+      "valor": 680,
+      "unidade": "R$",
+      "periodo": "2023",
+      "fonte": {
+        "nome": "Diário do Pará – Bolsa Família amplia alcance em 2024 (balanço MDS, 2025)",
+        "url": "https://diariodopara.com.br/noticias/brasil/bolsa-familia-amplia-alcance-em-2024-sem-gastar-mais-que-no-ano-anterior",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "2024",
+        "valor": 682
+      }
+    },
+    {
+      "rotulo": "Famílias atendidas",
+      "valor": 19.3,
+      "unidade": "milhões",
+      "periodo": "ago/2026",
+      "fonte": {
+        "nome": "O Povo – Bolsa Família sobe 15% em outubro; mínimo vai a R$ 691 (21/09/2026)",
+        "url": "https://www.opovo.com.br/trends/bolsa-familia-sobe-15-em-outubro-minimo-vai-a-r-691-e-valor-medio-projetado-chega-a-r-777/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "2023",
+        "valor": 21
+      }
+    },
+    {
+      "rotulo": "Custo do reajuste em 2027",
+      "valor": 22.7,
+      "unidade": "R$ bilhões por ano",
+      "periodo": "2027",
+      "fonte": {
+        "nome": "Gazeta do Povo – Governo Lula eleva valor do Bolsa Família às vésperas do segundo turno (out/2026)",
+        "url": "https://www.gazetadopovo.com.br/economia/governo-lula-eleva-valor-do-bolsa-familia-as-vesperas-do-segundo-turno/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "2026",
+        "valor": 5.8
+      }
+    },
+    {
+      "rotulo": "Benefício Primeira Infância criado em 2023",
+      "valor": 150,
+      "unidade": "R$ por criança de 0 a 6 anos",
+      "periodo": "mar/2023",
+      "fonte": {
+        "nome": "Lupa – Checagem ao vivo da entrevista de Lula no Flow (01/10/2026)",
+        "url": "https://www.agencialupa.org/checagem/2026/10/01/ao-vivo-checagem-da-entrevista-de-lula-no-flow/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": {
+        "rotulo": "Após reajuste de out/2026",
+        "valor": 173
+      }
+    }
+  ],
+  "series": [
+    "bolsa-familia-custo",
+    "bolsa-familia-familias"
+  ],
+  "checagens_externas": [
+    {
+      "veiculo": "Lupa",
+      "veredito_original": "FALTA CONTEXTO",
+      "url": "https://www.agencialupa.org/checagem/2026/10/01/ao-vivo-checagem-da-entrevista-de-lula-no-flow/",
+      "data": "2026-10-01"
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "O Povo – Bolsa Família sobe 15% em outubro; mínimo vai a R$ 691 (21/09/2026)",
+      "url": "https://www.opovo.com.br/trends/bolsa-familia-sobe-15-em-outubro-minimo-vai-a-r-691-e-valor-medio-projetado-chega-a-r-777/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Diário do Pará – Bolsa Família amplia alcance em 2024 (balanço MDS, 2025)",
+      "url": "https://diariodopara.com.br/noticias/brasil/bolsa-familia-amplia-alcance-em-2024-sem-gastar-mais-que-no-ano-anterior",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Gazeta do Povo – Governo Lula eleva valor do Bolsa Família às vésperas do segundo turno (out/2026)",
+      "url": "https://www.gazetadopovo.com.br/economia/governo-lula-eleva-valor-do-bolsa-familia-as-vesperas-do-segundo-turno/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Lupa – Checagem ao vivo da entrevista de Lula no Flow (01/10/2026)",
+      "url": "https://www.agencialupa.org/checagem/2026/10/01/ao-vivo-checagem-da-entrevista-de-lula-no-flow/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Blog do IBRE/FGV – Vitor Hugo Miro, simulação do reajuste do Bolsa Família (06/10/2026)",
+      "url": "https://blogdoibre.fgv.br/node/2410",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/03_emprego_renda_pobreza_social.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "Por que o reajuste só veio em 2026?",
+      "resposta": "O governo não corrigiu o piso em 2023-2025; o decreto de set/2026 repôs o INPC acumulado desde mar/2023. Críticos apontam o calendário eleitoral; o governo cita a inflação acumulada."
+    },
+    {
+      "pergunta": "Qual o efeito do reajuste sobre a pobreza?",
+      "resposta": "Simulação do FGV IBRE (Vitor Hugo Miro) indica queda de 0,65 ponto na extrema pobreza (linha de R$ 218), cerca de 1,39 milhão de pessoas, com efeito concentrado no Norte e Nordeste."
+    },
+    {
+      "pergunta": "O reajuste está no orçamento?",
+      "resposta": "Os R$ 5,8 bilhões de 2026 entram no orçamento vigente; os R$ 22,7 bilhões anuais a partir de 2027 não estavam previstos no PLOA 2027, segundo a Gazeta do Povo."
+    }
+  ],
+  "relacionadas": [
+    "bolsonaro-deu-600-reais-do-auxilio",
+    "bolsonaro-triplicou-o-bolsa-familia",
+    "bolsa-familia-reajustado-uma-semana-antes-do-segundo-turno"
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false
+}

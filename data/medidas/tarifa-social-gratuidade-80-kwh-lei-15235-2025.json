@@ -1,0 +1,143 @@
+{
+  "id": "tarifa-social-gratuidade-80-kwh-lei-15235-2025",
+  "nome": "Nova Tarifa Social: conta zerada até 80 kWh/mês (Lei 15.235/2025)",
+  "tipo": "beneficio",
+  "governo": "lula-3",
+  "lado": "governo-lula-pt",
+  "norma": {
+    "nome": "Lei 15.235, de 08/10/2025 (conversão da MP 1.300, assinada em 21/05/2025); altera a Lei 12.212 (Tarifa Social)",
+    "data": "2025-10-08",
+    "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/lei/L15235.htm",
+    "vigencia": "gratuidade desde 05/07/2025; Desconto Social (até 120 kWh) desde 01/01/2026"
+  },
+  "status": "em-vigor",
+  "o_que_faz_simples": [
+    "Famílias do CadÚnico que consomem até 80 kWh/mês passam a ter desconto de 100% na conta (e 0% acima disso), em vez dos descontos escalonados anteriores.",
+    "Famílias do CadÚnico com renda entre meio e um salário mínimo per capita ficam isentas das quotas da CDE até 120 kWh/mês ('Desconto Social', desde 01/01/2026, para cerca de 4,1 milhões de famílias).",
+    "A mesma lei passou a ratear os custos de Angra 1 e 2 entre todos os consumidores do SIN (antes só os cativos), com desconto de R$ 14,15/MWh aos baixa renda e efeito de -0,6% para cativos."
+  ],
+  "quem_ganha": {
+    "descricao": "Segundo o governo, 4,5 milhões de famílias ficam com conta zerada e outras 17,1 milhões deixam de pagar os primeiros 80 kWh; o MME estimava 115 milhões de consumidores com gratuidade ou conta menor. A ANEEL calcula redução média de 15% para quem consome menos de 120 kWh e de 11% no consumo médio (165 kWh) com o Desconto Social.",
+    "pessoas": null,
+    "faixa_renda": "famílias do CadÚnico; Desconto Social para renda per capita entre 1/2 e 1 salário mínimo",
+    "fonte": {
+      "nome": "Portal de Prefeitura – Nova Tarifa Social de energia elétrica",
+      "url": "https://portaldeprefeitura.com.br/bastidores-da-politica/nova-tarifa-social-energia-eletrica-conta-de-luz-gratuidade/598458/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  },
+  "quem_paga": {
+    "descricao": "Os demais consumidores de energia, pela CDE: a Tarifa Social passa de R$ 7,8 bi (2024) para R$ 10,4 bi na proposta de CDE 2026 (+33%). A Anace critica que o custo recai sobre os consumidores e não sobre o Tesouro.",
+    "pessoas": null,
+    "faixa_renda": "consumidores que não têm direito ao benefício",
+    "fonte": {
+      "nome": "Cenário Energia – CDE 2026 deve chegar a R$ 52,7 bilhões (05/12/2025)",
+      "url": "https://cenarioenergia.com.br/2025/12/05/cde-2026-deve-chegar-a-r-527-bilhoes-e-pressiona-debate-sobre-subsidios-no-setor-eletrico/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  },
+  "custo_ou_arrecadacao": {
+    "valor": 10.4,
+    "unidade": "R$ bilhões (Tarifa Social na proposta de CDE 2026)",
+    "fonte": {
+      "nome": "Cenário Energia – CDE 2026 deve chegar a R$ 52,7 bilhões (05/12/2025)",
+      "url": "https://cenarioenergia.com.br/2025/12/05/cde-2026-deve-chegar-a-r-527-bilhoes-e-pressiona-debate-sobre-subsidios-no-setor-eletrico/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  },
+  "regra_simulador": {
+    "tipo": "nenhuma",
+    "parametros": {}
+  },
+  "mitos": [
+    {
+      "mito": "O governo federal paga a conta de luz dos pobres com dinheiro do Tesouro.",
+      "fato": "A gratuidade é bancada pela CDE, encargo cobrado na conta de luz de todos os demais consumidores; o Tesouro não é a fonte principal.",
+      "fontes": [
+        {
+          "nome": "Agência iNFRA – Tarifa Social e Desconto Social (22/10/2025)",
+          "url": "https://agenciainfra.com/blog/?p=30369",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "eixos – Reforma do setor elétrico pode reduzir atratividade do mercado livre, diz Anace",
+          "url": "https://eixos.com.br/politica/congresso/reforma-do-setor-eletrico-pode-reduzir-atratividade-do-mercado-livre-diz-anace/",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        }
+      ]
+    },
+    {
+      "mito": "A conta de luz ficou de graça para todo mundo.",
+      "fato": "A gratuidade vale para famílias do CadÚnico com consumo de até 80 kWh/mês; acima disso o desconto é zero. O Desconto Social isenta das quotas da CDE até 120 kWh para famílias com renda per capita entre meio e um salário mínimo.",
+      "fontes": [
+        {
+          "nome": "Planalto – Lei 15.235/2025",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/lei/L15235.htm",
+          "acesso_em": "2026-10-21",
+          "tier": "oficial"
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Planalto – Lei 15.235/2025",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/lei/L15235.htm",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Congresso em Foco – Lula assina MP da reforma do setor elétrico (21/05/2025)",
+      "url": "https://www.congressoemfoco.com.br/noticia/108721/presidente-lula-assina-mp-da-reforma-do-setor-eletrico",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Agência iNFRA – Tarifa Social e Desconto Social (22/10/2025)",
+      "url": "https://agenciainfra.com/blog/?p=30369",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Portal de Prefeitura – Nova Tarifa Social de energia elétrica",
+      "url": "https://portaldeprefeitura.com.br/bastidores-da-politica/nova-tarifa-social-energia-eletrica-conta-de-luz-gratuidade/598458/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Agência Câmara – MP da reforma do setor elétrico, 22/05/2025",
+      "url": "https://www.camara.leg.br/noticias/1161307-mp-da-reforma-do-setor-eletrico-liberaliza-mercado-e-amplia-tarifa-social-de-energia-eletrica",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "ANEEL – Boletim InfoTarifa nº 3, dez/2025 (PDF)",
+      "url": "https://static.poder360.com.br/2025/12/3a-edicao-do-boletim-InfoTarifa-Aneel-Dezembro-2025.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Cenário Energia – CDE 2026 deve chegar a R$ 52,7 bilhões (05/12/2025)",
+      "url": "https://cenarioenergia.com.br/2025/12/05/cde-2026-deve-chegar-a-r-527-bilhoes-e-pressiona-debate-sobre-subsidios-no-setor-eletrico/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "eixos – Reforma do setor elétrico pode reduzir atratividade do mercado livre, diz Anace",
+      "url": "https://eixos.com.br/politica/congresso/reforma-do-setor-eletrico-pode-reduzir-atratividade-do-mercado-livre-diz-anace/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/06_energia_eletrobras_combustiveis.md",
+  "atualizado_em": "2026-10-21",
+  "temas": [
+    "energia",
+    "pobreza-programas-sociais"
+  ]
+}

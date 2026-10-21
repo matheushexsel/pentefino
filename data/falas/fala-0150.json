@@ -1,0 +1,87 @@
+{
+  "id": "fala-0150",
+  "slug": "lula-22-milhoes-de-empregos-em-oito-anos",
+  "evento_id": "sabatina-globo-lula-2026-10-15",
+  "candidato": "lula",
+  "lado": "governo-lula-pt",
+  "minuto": null,
+  "frase_literal": "E tínhamos criado 22 milhões de empregos em oito anos.",
+  "literal": true,
+  "tema": "emprego-renda",
+  "veredito": "exagerado",
+  "resumo_uma_frase": "A Rais registra 15,3 milhões de empregos formais criados entre 2003 e 2010; os 22 milhões só se aproximam somando o governo Dilma até 2015.",
+  "explicacao_simples": [
+    "Lula, na entrevista à TV Globo (15/10/2026), disse: “E tínhamos criado 22 milhões de empregos em oito anos”.",
+    "Lupa: 15,3 milhões (Rais, 2003–2010); Aos Fatos: ~20 milhões só somando Dilma (15,4 + 3,9 até 2015); Ranking: 15,04 milhões (Caged).",
+    "O sentido geral tem base, mas o número ou a dimensão foram inflados; por isso a classificação é 'exagerado'."
+  ],
+  "o_que_e_verdade": [
+    "Mais de 15 milhões de empregos formais foram criados em 2003–2010."
+  ],
+  "o_que_nao_se_sustenta": [
+    "22 milhões excede em cerca de 7 milhões o registro oficial."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Empregos formais criados (Rais)",
+      "valor": 15.3,
+      "unidade": "milhões",
+      "periodo": "2003–2010",
+      "fonte": {
+        "nome": "Lupa",
+        "url": "https://www.agencialupa.org/checagem/2026/10/15/ao-vivo-checagem-da-entrevista-de-lula-na-tv-globo/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": {
+        "rotulo": "Número citado",
+        "valor": 22
+      }
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Lupa",
+      "veredito_original": "EXAGERADO",
+      "url": "https://www.agencialupa.org/checagem/2026/10/15/ao-vivo-checagem-da-entrevista-de-lula-na-tv-globo/",
+      "data": "2026-10-15"
+    },
+    {
+      "veiculo": "Aos Fatos",
+      "veredito_original": "só somando Dilma",
+      "url": "https://www.aosfatos.org/noticias/checamos-lula-globo-segundo-turno/",
+      "data": "2026-10-15"
+    },
+    {
+      "veiculo": "Ranking dos Políticos",
+      "veredito_original": "FALSO",
+      "url": "https://ranking.org.br/en/articles/checagem-entrevista-lula-jornal-nacional-2-turno-2026",
+      "data": "2026-10-15"
+    }
+  ],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Lupa",
+      "url": "https://www.agencialupa.org/checagem/2026/10/15/ao-vivo-checagem-da-entrevista-de-lula-na-tv-globo/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Aos Fatos",
+      "url": "https://www.aosfatos.org/noticias/checamos-lula-globo-segundo-turno/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Ranking dos Políticos",
+      "url": "https://ranking.org.br/en/articles/checagem-entrevista-lula-jornal-nacional-2-turno-2026",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
+  "atualizado_em": "2026-10-21"
+}

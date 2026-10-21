@@ -1,0 +1,46 @@
+{
+  "id": "fala-0013",
+  "slug": "lula-ilacoes-tiradas-de-telefonemas",
+  "evento_id": "sabatina-jn-lula-2026-08-27",
+  "candidato": "lula",
+  "lado": "governo-lula-pt",
+  "minuto": null,
+  "frase_literal": "São ilações, ilações, ilações tiradas de telefonemas. / Até agora não existe uma prova de uma conversa do meu filho com qualquer ministro.",
+  "literal": true,
+  "tema": "corrupcao",
+  "veredito": "verdadeiro-mas",
+  "resumo_uma_frase": "Não há prova de conversa direta com ministro, mas há mensagens sobre almoços com um lobista e com o secretário-executivo da Saúde.",
+  "explicacao_simples": [
+    "Lula, na sabatina do Jornal Nacional (27/8/2026), disse: “São ilações, ilações, ilações tiradas de telefonemas. / Até agora não existe uma prova de uma conversa do meu filho com qualquer ministro”.",
+    "As investigações citam mensagens sobre almoços de Fábio Luís com o lobista conhecido como Marcola e com Swedenberger, então secretário-executivo da Saúde; não há registro de conversa com ministro.",
+    "O núcleo da frase está correto, mas falta uma ressalva que muda o peso do dado; por isso a classificação é 'verdadeiro, mas'."
+  ],
+  "o_que_e_verdade": [
+    "Não há prova pública de conversa de Fábio Luís com ministro."
+  ],
+  "o_que_nao_se_sustenta": [
+    "Há mensagens sobre encontros com um lobista e com um secretário-executivo, o que relativiza o 'só ilações'."
+  ],
+  "numeros": [],
+  "base_legal": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Aos Fatos",
+      "veredito_original": "contexto (há mensagens sobre almoços)",
+      "url": "https://www.aosfatos.org/noticias/checamos-entrevista-lula-globo/",
+      "data": "2026-08-27"
+    }
+  ],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Aos Fatos",
+      "url": "https://www.aosfatos.org/noticias/checamos-entrevista-lula-globo/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
+  "atualizado_em": "2026-10-21"
+}

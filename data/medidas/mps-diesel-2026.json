@@ -1,0 +1,171 @@
+{
+  "id": "mps-diesel-2026",
+  "nome": "Subvenções e cortes de tributos federais sobre combustíveis em 2026 (MPs 1.340, 1.349, 1.358, 1.363 e 1.391)",
+  "tipo": "outro",
+  "governo": "lula-3",
+  "lado": "governo-lula-pt",
+  "norma": {
+    "nome": "MP 1.340 (12/03/2026), MP 1.349 (07/04/2026), MP 1.358 (13/05/2026), MP 1.363 (30/05/2026), MP 1.391 (set/2026), Portaria MF 2.946 (25/09/2026), decreto de 09/09/2026 e pacote de 09/10/2026",
+    "data": "2026-03-12",
+    "url": "https://sintse.tse.jus.br/documentos/2026/Mai/14/diario-oficial-da-uniao-secao-1-edicao-extra/medida-provisoria-no-1-358-de-13-de-maio-de-2026-autoriza-a-concessao-de-subvencao-economica-aos",
+    "vigencia": "em vigor em 21/10/2026, com prorrogações de 30 dias"
+  },
+  "status": "em-vigor",
+  "o_que_faz_simples": [
+    "Após o Brent passar de US$ 120 com a guerra no Oriente Médio (fev/2026), o governo passou a pagar subvenção por litro a produtores e importadores de diesel: R$ 0,32/l (MP 1.340, crédito de R$ 7 bi), R$ 0,80/l nacional e R$ 1,20/l importado (MP 1.349, parte paga pelos estados, mais GLP e setor aéreo, R$ 800 mi), R$ 1,12/l (MP 1.363, crédito de R$ 12,5 bi) e R$ 2,12/l (MP 1.391).",
+    "Na gasolina, a MP 1.358 autorizou subvenção de até R$ 0,89/l (efetiva de R$ 0,44/l, crédito de R$ 4,1 bi); em 09/09/2026 um decreto cortou R$ 0,63/l de PIS/Cofins (10/09 a 05/10) e zerou o do etanol; em 09/10/2026 os tributos federais da gasolina foram zerados por 30 dias (R$ 0,89/l).",
+    "A Portaria MF 2.946 (25/09/2026) prorrogou a subvenção do diesel por 30 dias a um custo de R$ 10,5 bi; o pacote de outubro soma R$ 5,2 bi em 30 dias. O governo diz que as despesas são cobertas por receitas extraordinárias com petróleo (R$ 67,5 bi estimados em 2026) e ficam fora do limite de despesas.",
+    "Com a subvenção, a Petrobras manteve o diesel a R$ 3,30/l e a gasolina a R$ 2,61/l às distribuidoras; a gasolina na bomba ficou entre R$ 6,51 e R$ 6,55 de agosto a outubro."
+  ],
+  "quem_ganha": {
+    "descricao": "Consumidores de diesel, gasolina, GLP e do setor aéreo, com preços na bomba abaixo do que o petróleo a US$ 100+ implicaria; produtores e importadores que recebem a subvenção (a Petrobras informou ter recebido R$ 9,9 bi até 18/09/2026, R$ 12,2 bi em levantamento posterior).",
+    "pessoas": null,
+    "faixa_renda": "consumidores em geral, com peso maior para transportadores",
+    "fonte": {
+      "nome": "eixos – Conta das subvenções cresce; Petrobras já recebeu quase R$ 10 bi (21/09/2026)",
+      "url": "https://eixos.com.br/newsletters/comece-seu-dia/conta-das-subvencoes-cresce-diesel-importado-bate-recorde-petrobras-ja-recebeu-quase-r-10-bi/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  },
+  "quem_paga": {
+    "descricao": "O Tesouro Nacional: créditos extraordinários de R$ 24,4 bi até setembro (R$ 7 + 0,8 + 4,1 + 12,5 bi, soma própria das notas), mais R$ 10,5 bi da prorrogação do diesel e R$ 5,2 bi do pacote de outubro (cerca de R$ 40 bi); Lula falou em 'R$ 47 bilhões', valor sem detalhamento oficial. Estados pagam parte da subvenção da MP 1.349. Importadores privados sofrem com a defasagem (subsídio ao diesel importado chegou a R$ 3,52/l em out/2026).",
+    "pessoas": null,
+    "faixa_renda": "contribuintes em geral",
+    "fonte": {
+      "nome": "novaCana/CNN – Prorrogação da subvenção ao diesel em R$ 2,12 custará R$ 10,5 bilhões (01/10/2026)",
+      "url": "https://www.novacana.com/noticias/prorrogacao-da-subvencao-ao-diesel-em-r-2-12-custara-r-10-5-bilhoes",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  },
+  "custo_ou_arrecadacao": {
+    "valor": 24.4,
+    "unidade": "R$ bilhões (créditos extraordinários editados até set/2026; mais R$ 10,5 bi da prorrogação e R$ 5,2 bi do pacote de outubro)",
+    "fonte": {
+      "nome": "novaCana/CNN – Prorrogação da subvenção ao diesel em R$ 2,12 custará R$ 10,5 bilhões (01/10/2026)",
+      "url": "https://www.novacana.com/noticias/prorrogacao-da-subvencao-ao-diesel-em-r-2-12-custara-r-10-5-bilhoes",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  },
+  "regra_simulador": {
+    "tipo": "nenhuma",
+    "parametros": {}
+  },
+  "mitos": [
+    {
+      "mito": "O preço da gasolina está estável porque o governo resolveu o problema.",
+      "fato": "A estabilidade é sustentada por subvenções e cortes temporários de tributos federais pagos pelo Tesouro, com a Petrobras vendendo abaixo da paridade (defasagem de R$ 3,50/l no diesel em 19–20/10/2026).",
+      "fontes": [
+        {
+          "nome": "novaCana/CNN – Preço da gasolina mantém estabilidade ao longo da guerra com subsídios (13/10/2026)",
+          "url": "https://www.novacana.com/noticias/preco-da-gasolina-mantem-estabilidade-ao-longo-da-guerra-com-subsidios",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "CNN Brasil – Abicom: diesel da Petrobras se aproxima ao subsídio com alta do Brent (20/10/2026)",
+          "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/abicom-diesel-da-petrobras-se-aproxima-ao-subsidio-com-alta-do-brent/",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        }
+      ]
+    },
+    {
+      "mito": "O governo zerou todos os impostos da gasolina.",
+      "fato": "Zerou por 30 dias apenas os federais (R$ 0,89/l); o ICMS de R$ 1,57/l, fixado pelo Confaz, continuou.",
+      "fontes": [
+        {
+          "nome": "novaCana/CNN – Preço da gasolina mantém estabilidade ao longo da guerra com subsídios (13/10/2026)",
+          "url": "https://www.novacana.com/noticias/preco-da-gasolina-mantem-estabilidade-ao-longo-da-guerra-com-subsidios",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "Diário do Comércio – ICMS da gasolina e do diesel sobe em 2026",
+          "url": "https://diariodocomercio.com.br/economia/icms-gasolina-diesel-subir-2026-veja-novos-valores/",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "eixos – Como fica o alívio aos combustíveis com o fim da desoneração e o novo modelo de subsídio (01/06/2026)",
+      "url": "https://eixos.com.br/newsletters/comece-seu-dia/como-fica-o-alivio-aos-combustiveis-com-o-fim-da-desoneracao-e-o-novo-modelo-de-subsidio/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "novaCana/Reuters – Governo anuncia subsídio de até R$ 0,89/l à gasolina e nova subvenção ao diesel (13/05/2026)",
+      "url": "https://www.novacana.com/noticias/governo-anuncia-subsidio-ate-r-0-89-l-baixar-gasolina-nova-subvencao-diesel-130526",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "DOU – Medida Provisória 1.358, de 13/05/2026 (via TSE)",
+      "url": "https://sintse.tse.jus.br/documentos/2026/Mai/14/diario-oficial-da-uniao-secao-1-edicao-extra/medida-provisoria-no-1-358-de-13-de-maio-de-2026-autoriza-a-concessao-de-subvencao-economica-aos",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Senado Federal – Sumário da MPV 1.358/2026",
+      "url": "https://www12.senado.leg.br/publicacoes/estudos-legislativos/tipos-de-estudos/sumarios-de-proposicoes/mpv1358",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Governo Federal – Release de 09/09/2026 sobre medidas para combustíveis (PDF)",
+      "url": "https://static.poder360.com.br/uploads/2026/09/0909-Release-Governo-Federal-adota-novas-medidas-para-combustiveis-apos-novos-aumentos-do-petroleo.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "novaCana/CNN – Prorrogação da subvenção ao diesel em R$ 2,12 custará R$ 10,5 bilhões (01/10/2026)",
+      "url": "https://www.novacana.com/noticias/prorrogacao-da-subvencao-ao-diesel-em-r-2-12-custara-r-10-5-bilhoes",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "novaCana/CNN – Preço da gasolina mantém estabilidade ao longo da guerra com subsídios (13/10/2026)",
+      "url": "https://www.novacana.com/noticias/preco-da-gasolina-mantem-estabilidade-ao-longo-da-guerra-com-subsidios",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "eixos – Conta das subvenções cresce; Petrobras já recebeu quase R$ 10 bi (21/09/2026)",
+      "url": "https://eixos.com.br/newsletters/comece-seu-dia/conta-das-subvencoes-cresce-diesel-importado-bate-recorde-petrobras-ja-recebeu-quase-r-10-bi/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Cenário Energia – Petrobras aprova adesão a nova subvenção para gasolina e diesel (21/05/2026)",
+      "url": "https://cenarioenergia.com.br/2026/05/21/petrobras-aprova-adesao-a-nova-subvencao-para-gasolina-e-diesel/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Poder360 – Governo manterá subvenção a combustíveis até mercado melhorar",
+      "url": "https://www.poder360.com.br/poder-economia/governo-mantera-subvencao-a-combustiveis-ate-mercado-melhorar/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "CNN Brasil – Abicom: diesel da Petrobras se aproxima ao subsídio com alta do Brent (20/10/2026)",
+      "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/abicom-diesel-da-petrobras-se-aproxima-ao-subsidio-com-alta-do-brent/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/06_energia_eletrobras_combustiveis.md",
+  "atualizado_em": "2026-10-21",
+  "temas": [
+    "combustiveis",
+    "contas-publicas"
+  ],
+  "lacunas": [
+    "Total consolidado e oficial (Tesouro/Planejamento) das subvenções de 2026 até outubro não localizado; só valores por MP e declarações. Dia exato da MP 1.391 (set/2026) não consta das notas."
+  ]
+}

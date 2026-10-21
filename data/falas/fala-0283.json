@@ -1,0 +1,69 @@
+{
+  "id": "fala-0283",
+  "slug": "lula-deficit-de-2-8-band",
+  "evento_id": "debate-band-2turno-2026-10-18",
+  "candidato": "lula",
+  "lado": "governo-lula-pt",
+  "minuto": null,
+  "frase_literal": "Eles sabem que, quando eles governaram o país, […] ficou um déficit de 2,8%…",
+  "literal": true,
+  "tema": "contas-publicas",
+  "veredito": "falso",
+  "resumo_uma_frase": "2022 fechou com superávit de R$ 54,1 bilhões (0,5% do PIB); o déficit de 2,1% é de 2023.",
+  "explicacao_simples": [
+    "Lula, no debate da Band (18/10/2026), disse: “Eles sabem que, quando eles governaram o país, […] ficou um déficit de 2,8%…”.",
+    "Lupa e Ranking: falso (2022: superávit de R$ 54,1 bilhões, 0,5% do PIB; 2023: déficit 2,1%).",
+    "O dado central não corresponde aos registros disponíveis; por isso a frase é classificada como falsa."
+  ],
+  "o_que_e_verdade": [],
+  "o_que_nao_se_sustenta": [
+    "Não houve déficit herdado em 2022."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Superávit primário de 2022",
+      "valor": 54.1,
+      "unidade": "R$ bilhões",
+      "periodo": "2022",
+      "fonte": {
+        "nome": "Lupa",
+        "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      }
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Lupa",
+      "veredito_original": "FALSO",
+      "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+      "data": "2026-10-18"
+    },
+    {
+      "veiculo": "Ranking dos Políticos",
+      "veredito_original": "FALSO",
+      "url": "https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026",
+      "data": "2026-10-19"
+    }
+  ],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Lupa",
+      "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Ranking dos Políticos",
+      "url": "https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
+  "atualizado_em": "2026-10-21"
+}

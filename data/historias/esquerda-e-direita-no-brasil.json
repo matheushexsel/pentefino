@@ -1,0 +1,1325 @@
+{
+  "id": "esquerda-e-direita-no-brasil",
+  "titulo": "Esquerda e direita no Brasil: de onde vêm os rótulos, como a ciência política mede e onde ficam PT e PL",
+  "pergunta_principal": "O que significam 'esquerda' e 'direita', o PT é comunista, o bolsonarismo é fascista, e onde a pesquisa acadêmica posiciona cada partido?",
+  "resposta_curta": [
+    "'Esquerda' e 'direita' nasceram da posição dos assentos na Assembleia francesa em 1789 e hoje se referem, grosso modo, a mais ou menos Estado na economia e a igualdade/mudança versus ordem/tradição; a régua acadêmica mais longa para o Brasil (Brazilian Legislative Survey, 1990-2021) posiciona o PT em -0,69 (esquerda, não extrema), o PL em +0,49 (direita, mesma faixa de PP e Republicanos) e Bolsonaro em +0,87 (presidente mais à direita da era democrática).",
+    "Pelas definições de Marx e pelas constituições de Cuba e China, 'comunismo' exige abolição da propriedade privada dos meios de produção, crédito centralizado no Estado e partido único; o PT governa com propriedade privada, recorde de concessões, Banco Central autônomo e eleições competitivas; suas políticas sociais são, na definição acadêmica, 'elementos socialistas' de um híbrido capitalista, o padrão social-democrata. Checagens classificam como falsas as peças que dizem que Lula 'assumiu ser comunista'.",
+    "O bolsonarismo é classificado pela literatura como 'direita radical populista' (nativismo, autoritarismo, populismo); 'fascista' é tese acadêmica minoritária e contestada, e peças que o associam ao nazismo foram checadas como falsas; a condenação de Bolsonaro por tentativa de golpe (2025) é o fato que desloca o núcleo bolsonarista para a 'direita extrema' de Mudde (rejeição da regra da maioria), mas o PL como partido disputa eleições e tem a maior bancada do Congresso."
+  ],
+  "periodo": {
+    "inicio": "1789-09-11",
+    "fim": "2026-10-21"
+  },
+  "temas": [
+    "ideologias",
+    "eleicao-2026"
+  ],
+  "personagens": [
+    {
+      "id": "lula",
+      "nome": "Luiz Inácio Lula da Silva",
+      "papel_na_historia": "Presidente (PT); autor da Carta ao Povo Brasileiro (2002); alvo da acusação de 'comunista'.",
+      "partido_atual": "PT"
+    },
+    {
+      "id": "jair-bolsonaro",
+      "nome": "Jair Bolsonaro",
+      "papel_na_historia": "Ex-presidente; medido em +0,87 na BLS (presidente mais à direita da era democrática); condenado por tentativa de golpe em 2025; alvo do rótulo 'fascista'.",
+      "partido_atual": "PL"
+    },
+    {
+      "id": "flavio-bolsonaro",
+      "nome": "Flávio Bolsonaro",
+      "papel_na_historia": "Candidato do PL em 2026; agenda liberal na economia e conservadora/punitivista em segurança e costumes.",
+      "partido_atual": "PL"
+    },
+    {
+      "id": "karl-marx",
+      "nome": "Karl Marx e Friedrich Engels",
+      "papel_na_historia": "Autores do Manifesto do Partido Comunista (1848), referência para o teste do rótulo 'comunista'.",
+      "partido_atual": null
+    },
+    {
+      "id": "cas-mudde",
+      "nome": "Cas Mudde",
+      "papel_na_historia": "Cientista político; distingue 'direita radical' (aceita a regra da maioria) de 'direita extrema' (rejeita).",
+      "partido_atual": null
+    },
+    {
+      "id": "robert-paxton",
+      "nome": "Robert Paxton",
+      "papel_na_historia": "Historiador; autor de 'The Anatomy of Fascism' (2004), uma das definições-padrão de fascismo.",
+      "partido_atual": null
+    },
+    {
+      "id": "zucco-power",
+      "nome": "Cesar Zucco e Timothy Power",
+      "papel_na_historia": "Autores da Brazilian Legislative Survey (BLS), régua de posições partidárias usada aqui.",
+      "partido_atual": null
+    },
+    {
+      "id": "camila-rocha",
+      "nome": "Camila Rocha",
+      "papel_na_historia": "Cientista política (USP); estuda a 'nova direita' e estima o núcleo duro do bolsonarismo em 12-15% do eleitorado.",
+      "partido_atual": null
+    },
+    {
+      "id": "luiz-carlos-prestes",
+      "nome": "Luiz Carlos Prestes",
+      "papel_na_historia": "Líder da Intentona de 1935, 'mito fundador da ameaça comunista' no Brasil.",
+      "partido_atual": null
+    },
+    {
+      "id": "valdemar-costa-neto",
+      "nome": "Valdemar Costa Neto",
+      "papel_na_historia": "Presidente do PL desde 2000; conduziu o partido do Centrão ao bolsonarismo (filiação de Bolsonaro em 30/11/2021).",
+      "partido_atual": "PL"
+    }
+  ],
+  "capitulos": [
+    {
+      "id": "1",
+      "titulo": "1789: a origem dos termos",
+      "periodo": "1789-06 a 1789-09-11",
+      "texto_md": "Em 11 de setembro de 1789 a Assembleia Constituinte francesa debateu o poder de veto do rei Luís XVI. Os defensores do veto absoluto (monarquistas, chamados pejorativamente de 'aristocratas') sentaram-se à direita do presidente da Assembleia (o 'côté de la Reine'); os que queriam limitar o veto (representantes do Terceiro Estado e alguns nobres, os 'patriotas') sentaram-se à esquerda. A localização circunstancial conferiu significado político duradouro às posições e os dois polos passaram a se definir mutuamente. O conteúdo que carregam hoje (igualdade vs. hierarquia/ordem; mais vs. menos Estado na economia) é convenção histórica, não definição natural.",
+      "eventos": [
+        {
+          "data": "1789-06",
+          "fato": "O Terceiro Estado se proclama Assembleia Nacional após ser impedido de reunir-se pelo rei; a divisão em lados é posterior.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://en.wikipedia.org/wiki/National_Assembly_(French_Revolution)",
+          "tipo": "fato"
+        },
+        {
+          "data": "1789-09-11",
+          "fato": "Debate sobre o veto real: defensores do veto absoluto à direita do presidente da Assembleia; limitadores do poder real à esquerda.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://vermelho.org.br/?p=402150",
+          "tipo": "fato"
+        }
+      ],
+      "o_que_a_acusacao_dizia": null,
+      "o_que_a_defesa_dizia": null,
+      "numeros": []
+    },
+    {
+      "id": "2",
+      "titulo": "O que cada ideologia defende: comunismo, socialismo, social-democracia, fascismo, direita radical",
+      "periodo": "1848 a 2019",
+      "texto_md": "**Comunismo** (Marx/Engels, 1848): 'O que distingue o comunismo não é a abolição da propriedade em geral, mas a abolição da propriedade burguesa'; 'os comunistas podem condensar a sua teoria numa única expressão: supressão [Aufhebung] da propriedade privada'. As 10 medidas do Manifesto incluem expropriação da propriedade fundiária, 'pesado imposto progressivo', 'abolição do direito de herança', 'centralização do crédito nas mãos do Estado, através de um banco nacional com capital de Estado e monopólio exclusivo' e 'educação pública e gratuita de todas as crianças'. Na prática, a Constituição de Cuba (2019) baseia o sistema na propriedade de todo o povo sobre os meios fundamentais de produção, com o Partido Comunista como 'força dirigente superior', e a da China (art. 6) na 'propriedade pública socialista dos meios de produção'. **Socialismo** (SEP): exige que 'o grosso dos meios de produção esteja sob controle social e democrático'; sem isso é 'estatismo, não socialismo'. **Social-democracia**: 'domar o capitalismo' via governos eleitos, seguro social e bens públicos; o Estado de bem-estar é híbrido capitalista com 'alguns elementos socialistas'. **Fascismo**: Paxton (2004) o define por obsessão com o declínio da comunidade, cultos de unidade e pureza, partido nacionalista de massas em colaboração com elites, abandono das liberdades democráticas e violência redentora; Griffin, como 'ultranacionalismo populista palingenético'; Eco lista 14 traços do 'Ur-Fascismo' (criticados como elásticos); Gentile fala em 'sacralização da política' com partido único, culto ao líder, economia corporativista e imperialismo. **Extrema direita** (Mudde, 2019): 'antissistema e hostil à democracia liberal'; divide-se em direita extrema (rejeita soberania popular e regra da maioria) e direita radical (aceita, mas ataca direitos de minorias, separação de poderes e Estado de direito); a direita radical populista combina nativismo, autoritarismo e populismo.",
+      "eventos": [
+        {
+          "data": "1848",
+          "fato": "Manifesto do Partido Comunista, cap. II.",
+          "citacao_literal": "O que distingue o comunismo não é a abolição da propriedade em geral, mas a abolição da propriedade burguesa.",
+          "literal": true,
+          "quem_disse": "Marx e Engels",
+          "url": "https://www.marxists.org/portugues/marx/1848/ManifestoDoPartidoComunista/cap2.htm",
+          "tipo": "documento"
+        },
+        {
+          "data": "1848",
+          "fato": "Manifesto do Partido Comunista, cap. II: a fórmula única.",
+          "citacao_literal": "Neste sentido, os comunistas podem condensar a sua teoria numa única expressão: supressão [Aufhebung] da propriedade privada.",
+          "literal": true,
+          "quem_disse": "Marx e Engels",
+          "url": "https://www.marxists.org/portugues/marx/1848/ManifestoDoPartidoComunista/cap2.htm",
+          "tipo": "documento"
+        },
+        {
+          "data": "1848",
+          "fato": "Manifesto, cap. II: entre as 10 medidas, a centralização do crédito.",
+          "citacao_literal": "centralização do crédito nas mãos do Estado, através de um banco nacional com capital de Estado e monopólio exclusivo",
+          "literal": true,
+          "quem_disse": "Marx e Engels",
+          "url": "https://www.marxists.org/portugues/marx/1848/ManifestoDoPartidoComunista/cap2.htm",
+          "tipo": "documento"
+        },
+        {
+          "data": "1999-03-15",
+          "fato": "Emenda à Constituição da China: 'no estágio primário do socialismo' a 'propriedade pública é o pilar e diversas formas de propriedade se desenvolvem conjuntamente' (art. 6: propriedade pública socialista dos meios de produção como base).",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://cecc.gov/resources/legal-provisions/1999-amendment-to-the-constitution-of-the-peoples-republic-of-china",
+          "tipo": "documento"
+        },
+        {
+          "data": "2019-02-24",
+          "fato": "Constituição de Cuba aprovada em referendo (86,85%): sistema econômico socialista baseado na propriedade de todo o povo sobre os meios fundamentais de produção; Partido Comunista como 'força dirigente superior da sociedade e do Estado'.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://revistas.usergioarboleda.edu.co/index.php/fc_divul/article/download/2078/1524",
+          "tipo": "documento"
+        },
+        {
+          "data": "1995-04-25",
+          "fato": "Umberto Eco, conferência 'Ur-Fascism' (Columbia; publicada na NYRB em 22/06/1995): 14 traços; basta um para o fascismo 'coagular'.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://en.wikipedia.org/wiki/Ur-Fascism",
+          "tipo": "documento"
+        },
+        {
+          "data": "2004",
+          "fato": "Robert Paxton, 'The Anatomy of Fascism': definição e cinco estágios do fascismo (paráfrase da entrada da Wikipedia).",
+          "citacao_literal": null,
+          "literal": false,
+          "quem_disse": null,
+          "url": "https://en.wikipedia.org/wiki/Definitions_of_fascism",
+          "tipo": "documento"
+        },
+        {
+          "data": "2019",
+          "fato": "Cas Mudde, 'The Far Right Today': distinção entre direita extrema (rejeita a regra da maioria) e direita radical (aceita, mas se opõe à democracia liberal nos direitos das minorias e na separação de poderes), p. 19.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://resenhacritica.com.br/tag/polity-press-e",
+          "tipo": "documento"
+        },
+        {
+          "data": null,
+          "fato": "SEP (verbete 'Socialism'): socialismo exige controle social e democrático dos meios de produção; o Estado de bem-estar é híbrido capitalista com 'alguns elementos socialistas'.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://plato.stanford.edu/entries/socialism/",
+          "tipo": "documento"
+        }
+      ],
+      "o_que_a_acusacao_dizia": null,
+      "o_que_a_defesa_dizia": null,
+      "numeros": []
+    },
+    {
+      "id": "3",
+      "titulo": "Como se mede: a régua de Zucco & Power (1990-2021) e as posições de cada partido",
+      "periodo": "1990 a 2021",
+      "texto_md": "A Brazilian Legislative Survey (Zucco & Power, Latin American Politics and Society, 2024) tem nove ondas (1990-2021) em que legisladores posicionam os partidos numa escala 1-10 com redação idêntica; as estimativas são reescaladas para aproximadamente -1 (esquerda) a +1 (direita), com 17.974 avaliações de 24 partidos por 1.031 legisladores e erro padrão de ~0,03-0,05; correlação de 0,97 com o survey de especialistas PREPPS. 'Centro' é definido como -0,25 a +0,25. **Posições em 2021**: PSOL -0,874; PCdoB -0,822; PT -0,691; PSB -0,427; PDT -0,356; Cidadania -0,014; PROS +0,032; MDB +0,137; PSDB +0,157; SD +0,190; PSD +0,296; PODE +0,386; DEM (hoje União) +0,431; PTB +0,455; PL +0,493; PP +0,510; Republicanos +0,550; PSC +0,596; Novo +0,711; PSL +0,803. **Presidentes**: Sarney 0,50; Collor 0,62; Itamar 0,13; FHC 0,18; Lula I-II -0,41; Dilma I -0,41; Dilma II -0,50; Temer 0,55; Bolsonaro 0,87, 'o presidente mais extremo da era democrática'. O PT moderou-se de -0,931 (1990) e -0,793 (2001) para -0,525 (2005) e voltou a -0,691 (2021); o PL ficou estável à direita por 30 anos (0,574 em 1990; mínimo 0,328 em 2009; 0,493 em 2021). Os autores observam polarização crescente e 'esvaziamento do centro', e que o PL 'voltou ao lado conservador nas ondas recentes'. Outras medidas: Manifesto Project cobre plataformas presidenciais 1994-2018 (polarização súbita em 2018); Latinobarómetro 2024 coloca o Brasil entre os países com média acima de 5,0 (sem decimal informado); o Chapel Hill Expert Survey não cobre o Brasil.",
+      "eventos": [
+        {
+          "data": "2024-01",
+          "fato": "Publicação de Zucco & Power, 'The Ideology of Brazilian Parties and Presidents' (LAPS, DOI 10.1017/lap.2023.24): nove ondas da BLS, 1990-2021.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://www.cambridge.org/core/product/FAF5489B3E01D39A16DBB4971458AD48/core-reader",
+          "tipo": "documento"
+        },
+        {
+          "data": "2021",
+          "fato": "BLS 2021: PT -0,691; PSOL -0,874; PCdoB -0,822; PL +0,493; PP +0,510; Republicanos +0,550; Novo +0,711; PSL +0,803; MDB +0,137; PSDB +0,157.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S1531426X23000249/resource/name/S1531426X23000249sup001.pdf",
+          "tipo": "documento"
+        },
+        {
+          "data": "2021",
+          "fato": "Presidentes (Tabela C2): Lula I-II -0,41; Dilma II -0,50; Temer 0,55; Bolsonaro 0,87.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S1531426X23000249/resource/name/S1531426X23000249sup001.pdf",
+          "tipo": "documento"
+        },
+        {
+          "data": "2024-12",
+          "fato": "Latinobarómetro 2024: Brasil entre os países com autoposicionamento médio acima de 5,0 (0 = esquerda, 10 = direita); El Salvador 6,8; México 4,4.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://diario.elmundo.sv/politica/el-salvador-es-el-pais-mas-a-la-derecha-en-america-latina",
+          "tipo": "documento"
+        },
+        {
+          "data": "2023",
+          "fato": "Zanotti, Rama & Tanscheit (Opinião Pública): o voto em Bolsonaro em 2018 se explica por queixas culturais-ideológicas (segurança, religião, antipetismo, baixo apego à democracia), não econômicas; renda mais alta associou-se ao voto em Bolsonaro.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://www.redalyc.org/journal/329/32975189001/",
+          "tipo": "documento"
+        }
+      ],
+      "o_que_a_acusacao_dizia": null,
+      "o_que_a_defesa_dizia": null,
+      "numeros": [
+        {
+          "rotulo": "PT na BLS 2021",
+          "valor": -0.691,
+          "unidade": "escala -1 (esquerda) a +1 (direita)",
+          "periodo": "2021",
+          "fonte": {
+            "nome": "Cambridge Core (material suplementar)",
+            "url": "https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S1531426X23000249/resource/name/S1531426X23000249sup001.pdf",
+            "acesso_em": "2026-10-21",
+            "tier": "academico"
+          }
+        },
+        {
+          "rotulo": "PSOL na BLS 2021",
+          "valor": -0.874,
+          "unidade": "escala -1 a +1",
+          "periodo": "2021",
+          "fonte": {
+            "nome": "Cambridge Core (material suplementar)",
+            "url": "https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S1531426X23000249/resource/name/S1531426X23000249sup001.pdf",
+            "acesso_em": "2026-10-21",
+            "tier": "academico"
+          }
+        },
+        {
+          "rotulo": "PCdoB na BLS 2021",
+          "valor": -0.822,
+          "unidade": "escala -1 a +1",
+          "periodo": "2021",
+          "fonte": {
+            "nome": "Cambridge Core (material suplementar)",
+            "url": "https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S1531426X23000249/resource/name/S1531426X23000249sup001.pdf",
+            "acesso_em": "2026-10-21",
+            "tier": "academico"
+          }
+        },
+        {
+          "rotulo": "PL na BLS 2021",
+          "valor": 0.493,
+          "unidade": "escala -1 a +1",
+          "periodo": "2021",
+          "fonte": {
+            "nome": "Cambridge Core (material suplementar)",
+            "url": "https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S1531426X23000249/resource/name/S1531426X23000249sup001.pdf",
+            "acesso_em": "2026-10-21",
+            "tier": "academico"
+          }
+        },
+        {
+          "rotulo": "PP na BLS 2021",
+          "valor": 0.51,
+          "unidade": "escala -1 a +1",
+          "periodo": "2021",
+          "fonte": {
+            "nome": "Cambridge Core (material suplementar)",
+            "url": "https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S1531426X23000249/resource/name/S1531426X23000249sup001.pdf",
+            "acesso_em": "2026-10-21",
+            "tier": "academico"
+          }
+        },
+        {
+          "rotulo": "Republicanos na BLS 2021",
+          "valor": 0.55,
+          "unidade": "escala -1 a +1",
+          "periodo": "2021",
+          "fonte": {
+            "nome": "Cambridge Core (material suplementar)",
+            "url": "https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S1531426X23000249/resource/name/S1531426X23000249sup001.pdf",
+            "acesso_em": "2026-10-21",
+            "tier": "academico"
+          }
+        },
+        {
+          "rotulo": "Novo na BLS 2021",
+          "valor": 0.711,
+          "unidade": "escala -1 a +1",
+          "periodo": "2021",
+          "fonte": {
+            "nome": "Cambridge Core (material suplementar)",
+            "url": "https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S1531426X23000249/resource/name/S1531426X23000249sup001.pdf",
+            "acesso_em": "2026-10-21",
+            "tier": "academico"
+          }
+        },
+        {
+          "rotulo": "PSL na BLS 2021",
+          "valor": 0.803,
+          "unidade": "escala -1 a +1",
+          "periodo": "2021",
+          "fonte": {
+            "nome": "Cambridge Core (material suplementar)",
+            "url": "https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S1531426X23000249/resource/name/S1531426X23000249sup001.pdf",
+            "acesso_em": "2026-10-21",
+            "tier": "academico"
+          }
+        },
+        {
+          "rotulo": "MDB na BLS 2021",
+          "valor": 0.137,
+          "unidade": "escala -1 a +1",
+          "periodo": "2021",
+          "fonte": {
+            "nome": "Cambridge Core (material suplementar)",
+            "url": "https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S1531426X23000249/resource/name/S1531426X23000249sup001.pdf",
+            "acesso_em": "2026-10-21",
+            "tier": "academico"
+          }
+        },
+        {
+          "rotulo": "PSDB na BLS 2021",
+          "valor": 0.157,
+          "unidade": "escala -1 a +1",
+          "periodo": "2021",
+          "fonte": {
+            "nome": "Cambridge Core (material suplementar)",
+            "url": "https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S1531426X23000249/resource/name/S1531426X23000249sup001.pdf",
+            "acesso_em": "2026-10-21",
+            "tier": "academico"
+          }
+        },
+        {
+          "rotulo": "Bolsonaro (presidente) na BLS",
+          "valor": 0.87,
+          "unidade": "escala -1 a +1",
+          "periodo": "2013/2017/2021",
+          "fonte": {
+            "nome": "Cambridge Core (material suplementar)",
+            "url": "https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S1531426X23000249/resource/name/S1531426X23000249sup001.pdf",
+            "acesso_em": "2026-10-21",
+            "tier": "academico"
+          }
+        },
+        {
+          "rotulo": "Lula I-II (presidente) na BLS",
+          "valor": -0.41,
+          "unidade": "escala -1 a +1",
+          "periodo": "2013/2017/2021",
+          "fonte": {
+            "nome": "Cambridge Core (material suplementar)",
+            "url": "https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S1531426X23000249/resource/name/S1531426X23000249sup001.pdf",
+            "acesso_em": "2026-10-21",
+            "tier": "academico"
+          }
+        },
+        {
+          "rotulo": "PT na BLS 2005 (ponto de maior moderação)",
+          "valor": -0.525,
+          "unidade": "escala -1 a +1",
+          "periodo": "2005",
+          "fonte": {
+            "nome": "Cambridge Core (material suplementar)",
+            "url": "https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S1531426X23000249/resource/name/S1531426X23000249sup001.pdf",
+            "acesso_em": "2026-10-21",
+            "tier": "academico"
+          }
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "titulo": "Raízes históricas no Brasil: PCB (1922), Intentona (1935), 1964, PT (1980), PL (1985/2006)",
+      "periodo": "1922 a 2021-11-30",
+      "texto_md": "O PCB foi fundado em março de 1922. Em novembro de 1935 Prestes liderou revolta militar que se tornou o 'mito fundador da ameaça comunista'; em novembro de 1937, sob pretexto de um complô comunista (Plano Cohen), instaurou-se o Estado Novo; o registro do PCB foi cassado em 1947 e o partido ficou ilegal até 1985; Prestes e o PCB serviram de pretexto para o golpe de 1964. O uso de 'comunista' como acusação política é herança direta de 1935-37 e de 1964. O PCdoB (cisão de 1962) é aliado do PT no plano federal desde a Frente Brasil Popular de 1989 (PT, PCdoB e PSB) e integra desde 2022 a federação Brasil da Esperança (PT-PCdoB-PV). O PT foi fundado em 1980 (TSE nº 13); a Carta ao Povo Brasileiro (22/06/2002) marcou a virada ao centro: 'Premissa dessa transição será naturalmente o respeito aos contratos e obrigações do país'; 'Vamos preservar o superávit primário o quanto for necessário para impedir que a dívida interna aumente'. O PSOL nasceu em 2004 'em protesto contra a moderação do PT durante o primeiro governo Lula'. O PL original foi fundado em 25/06/1985 por Álvaro Valle; Valdemar Costa Neto assumiu em 2000; fusão com o PRONA em 26/10/2006 (Partido da República); volta ao nome PL em 07/05/2019; Bolsonaro filiou-se em 30/11/2021. O PL que Bolsonaro adotou era um partido de direita clientelista de Centrão (BLS ≈ +0,4); a radicalização medida pela BLS está no movimento (PSL +0,80; Bolsonaro +0,87), que depois ocupou a sigla.",
+      "eventos": [
+        {
+          "data": "1922-03",
+          "fato": "Fundação do Partido Comunista do Brasil (PCB), com Astrojildo Pereira entre os fundadores.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://blogs.correiobraziliense.com.br/azedo/memoria-partido-comunista-no-brasil-conhecido-como-partidao-completaria-101-anos/",
+          "tipo": "fato"
+        },
+        {
+          "data": "1935-11",
+          "fato": "Intentona Comunista liderada por Prestes; torna-se o 'mito fundador da ameaça comunista'; Prestes fica preso por nove anos.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://sites.usp.br/portalatinoamericano/espanol-prestes-luiz-carlos",
+          "tipo": "fato"
+        },
+        {
+          "data": "1937-11",
+          "fato": "Sob pretexto do Plano Cohen (complô comunista), instaura-se o Estado Novo.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://blogs.correiobraziliense.com.br/azedo/nas-entrelinhas-disputa-de-legado-marca-os-100-anos-de-pcb/",
+          "tipo": "fato"
+        },
+        {
+          "data": "1947",
+          "fato": "Registro do PCB e mandato de Prestes cassados; partido ilegal até 1985; serviu de pretexto para o golpe de 1964.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://blogs.correiobraziliense.com.br/azedo/nas-entrelinhas-disputa-de-legado-marca-os-100-anos-de-pcb/",
+          "tipo": "fato"
+        },
+        {
+          "data": "1980",
+          "fato": "Fundação do PT (TSE nº 13).",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S1531426X23000249/resource/name/S1531426X23000249sup001.pdf",
+          "tipo": "fato"
+        },
+        {
+          "data": "1985-06-25",
+          "fato": "Fundação do PL original por Álvaro Valle.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://en.wikipedia.org/wiki/Liberal_Party_(Brazil,_1985)",
+          "tipo": "fato"
+        },
+        {
+          "data": "1989",
+          "fato": "Frente Brasil Popular (PT, PCdoB e PSB); PCdoB aliado do PT no plano federal desde então.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://en.wikipedia.org/wiki/Communist_Party_of_Brazil",
+          "tipo": "fato"
+        },
+        {
+          "data": "2002-06-22",
+          "fato": "Carta ao Povo Brasileiro.",
+          "citacao_literal": "Premissa dessa transição será naturalmente o respeito aos contratos e obrigações do país",
+          "literal": true,
+          "quem_disse": "Lula (Carta ao Povo Brasileiro)",
+          "url": "https://www.congressoemfoco.com.br/noticias/lula-quer-fazer-nova-carta-aos-brasileiros-veja-a-integra-da-primeira/",
+          "tipo": "documento",
+          "contexto": "também literal: 'Vamos preservar o superávit primário o quanto for necessário para impedir que a dívida interna aumente'; 'Ninguém precisa me ensinar a importância do controle da inflação'"
+        },
+        {
+          "data": "2004",
+          "fato": "Fundação do PSOL, cisão do PT 'em protesto contra a moderação do PT durante o primeiro governo Lula'.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S1531426X23000249/resource/name/S1531426X23000249sup001.pdf",
+          "tipo": "fato"
+        },
+        {
+          "data": "2006-10-26",
+          "fato": "Fusão PL + PRONA cria o Partido da República.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://en.wikipedia.org/wiki/Liberal_Party_(Brazil,_2006)",
+          "tipo": "fato"
+        },
+        {
+          "data": "2019-05-07",
+          "fato": "TSE aprova a volta do nome Partido Liberal.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://en.wikipedia.org/wiki/Liberal_Party_(Brazil,_2006)",
+          "tipo": "fato"
+        },
+        {
+          "data": "2021-11-30",
+          "fato": "Jair Bolsonaro filia-se ao PL.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://www.cnnbrasil.com.br/politica/de-jose-alencar-a-bolsonaro-pl-de-valdemar-costa-neto-se-prepara-para-2022/",
+          "tipo": "fato"
+        },
+        {
+          "data": "2022",
+          "fato": "PT, PCdoB e PV formam a federação Brasil da Esperança.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://en.wikipedia.org/wiki/Communist_Party_of_Brazil",
+          "tipo": "fato"
+        }
+      ],
+      "o_que_a_acusacao_dizia": null,
+      "o_que_a_defesa_dizia": null,
+      "numeros": []
+    },
+    {
+      "id": "5",
+      "titulo": "O PT no poder: o que fez e o que isso diz sobre os rótulos",
+      "periodo": "2003 a 2026-04-26",
+      "texto_md": "O governo Lula 3 chegou ao fim de 2025 com 50 leilões federais de rodovias, portos e aeroportos, o maior volume da história (45 de Bolsonaro, 26 de FHC), R$ 247 bi previstos em rodovias; 84% do investimento em infraestrutura de 2025 era privado (Abdib). O Ibovespa fechou 2025 em 161.125 pontos (+33,95%, 32 recordes); o Itaú lucrou R$ 46,8 bi, 'o maior resultado da história de um banco brasileiro'. O Banco Central autônomo (LC 179/2021, do governo Bolsonaro; STF 8x2) foi mantido: Lula disse 'Se eu tivesse voto, eu era contra. Mas tá aí, vai ficar' e Galípolo completou um ano 'com uma postura ainda mais ortodoxa' que a do antecessor. Elementos redistributivos: isenção de IR até R$ 5 mil com imposto mínimo de até 10% sobre renda acima de R$ 600 mil/ano e 10% sobre dividendos acima de R$ 50 mil/mês (sancionada em 2025); fim da paridade de importação na Petrobras (16/05/2023). Em 22/09/2023 Lula disse ao PC Chinês que o PT tem 'fortes laços' com o partido; em 29/07/2023 disse que ser chamado de comunista não o ofende, mas nazista ou terrorista sim. O 8º Congresso do PT (26/04/2026) definiu 'horizonte programático o socialismo democrático', com 'acenos ao centro'. Nenhum critério definidor de comunismo (abolição da propriedade burguesa, banco estatal monopolista, partido único) está presente; o padrão (regra fiscal + BC autônomo + concessões + transferência de renda + imposto sobre alta renda) é social-democrata. Comparação: a Venezuela chavista é classificada como 'autoritarismo competitivo' e esquerda radical, não comunismo.",
+      "eventos": [
+        {
+          "data": "2023-05-16",
+          "fato": "Petrobras anuncia o fim da paridade de importação (PPI, vigente desde 2016).",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://borainvestir.b3.com.br/noticias/empresas/petrobras-anuncia-nova-politica-de-precos-dos-combustiveis/",
+          "tipo": "fato"
+        },
+        {
+          "data": "2023-07-29",
+          "fato": "Lula, na abertura do Foro de São Paulo, diz que ser chamado de comunista não o ofende, mas ser chamado de nazista ou terrorista sim (paráfrase).",
+          "citacao_literal": null,
+          "literal": false,
+          "quem_disse": "Lula",
+          "url": "https://www.aosfatos.org/noticias/falso-lula-assumiu-ser-comunista/",
+          "tipo": "declaracao"
+        },
+        {
+          "data": "2023-09-22",
+          "fato": "Lula, em reunião com Li Xi (PC Chinês), diz que o PT tem 'fortes laços' com o PCCh, em contexto de relações comerciais.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": "Lula",
+          "url": "https://www.aosfatos.org/noticias/falso-lula-assumiu-ser-comunista/",
+          "tipo": "declaracao"
+        },
+        {
+          "data": null,
+          "fato": "Lula sobre a autonomia do BC.",
+          "citacao_literal": "Se eu tivesse voto, eu era contra. Mas tá aí, vai ficar",
+          "literal": true,
+          "quem_disse": "Lula",
+          "url": "https://www.cartacapital.com.br/?p=451642",
+          "tipo": "declaracao"
+        },
+        {
+          "data": "2025-12-26",
+          "fato": "Lula sanciona isenção de IR até R$ 5 mil, imposto mínimo de até 10% acima de R$ 600 mil/ano e 10% sobre dividendos acima de R$ 50 mil/mês (vigência 2026). Obs.: outra nota do projeto registra a sanção em 26/11/2025 (Lei 15.270/2025).",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://jovempan.com.br/noticias/politica/lula-sanciona-isencao-de-ir-para-quem-ganha-ate-r-5-mil.html",
+          "tipo": "fato",
+          "nao_verificado": true
+        },
+        {
+          "data": "2025-12-27",
+          "fato": "Galípolo completa um ano no BC 'com uma postura ainda mais ortodoxa do que a de seu antecessor'.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://edicao.correiobraziliense.com.br/correiobraziliense/2025/12/27/1255c2/pdf/A08-ECO-2712-DIG.pdf",
+          "tipo": "fato"
+        },
+        {
+          "data": "2026-01-02",
+          "fato": "Ibovespa fecha 2025 em 161.125,37 pontos (+33,95%, 32 recordes).",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://www.b3.com.br/pt_br/noticias/ibovespa-b3-encerra-2025-com-32-recordes-historicos-e-alta-acumulada-de-34.htm",
+          "tipo": "fato"
+        },
+        {
+          "data": "2026-01-18",
+          "fato": "Lula 3 fecha 2025 com 50 leilões federais (26 portos, 22 rodovias, 2 aeroportos), contra 45 de Bolsonaro e 26 de FHC; 84% do investimento em infraestrutura privado.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://jornaldebrasilia.com.br/noticias/economia/lula-supera-bolsonaro-e-fhc-como-governo-que-mais-fez-concessoes-de-infraestrutura/",
+          "tipo": "fato"
+        },
+        {
+          "data": "2026",
+          "fato": "Itaú lucra R$ 46,8 bi em 2025, 'o maior resultado da história de um banco brasileiro'.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://bpmoney.com.br/?p=385378",
+          "tipo": "fato"
+        },
+        {
+          "data": "2026-04-26",
+          "fato": "8º Congresso do PT: manifesto define 'horizonte programático o socialismo democrático', com 'acenos ao centro'.",
+          "citacao_literal": "horizonte programático o socialismo democrático",
+          "literal": true,
+          "quem_disse": "Manifesto do 8º Congresso do PT",
+          "url": "https://www.poder360.com.br/poder-eleicoes/leia-o-manifesto-final-do-8o-congresso-nacional-do-pt/",
+          "tipo": "documento"
+        },
+        {
+          "data": "2024-08-03",
+          "fato": "Especialistas (CNN Brasil) classificam a Venezuela de Maduro como extrema esquerda autoritária/'autoritarismo competitivo'; nenhum a chama de comunista.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://www.cnnbrasil.com.br/internacional/o-que-faz-o-governo-maduro-ser-de-extrema-esquerda-especialistas-explicam/",
+          "tipo": "documento"
+        }
+      ],
+      "o_que_a_acusacao_dizia": null,
+      "o_que_a_defesa_dizia": null,
+      "numeros": [
+        {
+          "rotulo": "Leilões federais de infraestrutura (Lula 3, 2023-2025)",
+          "valor": 50,
+          "unidade": "leilões",
+          "periodo": "2023-2025",
+          "fonte": {
+            "nome": "Jornal de Brasília",
+            "url": "https://jornaldebrasilia.com.br/noticias/economia/lula-supera-bolsonaro-e-fhc-como-governo-que-mais-fez-concessoes-de-infraestrutura/",
+            "acesso_em": "2026-10-21",
+            "tier": "imprensa"
+          },
+          "comparacao": {
+            "rotulo": "Bolsonaro (2019-2022)",
+            "valor": 45
+          }
+        },
+        {
+          "rotulo": "Alta do Ibovespa em 2025",
+          "valor": 33.95,
+          "unidade": "%",
+          "periodo": "2025",
+          "fonte": {
+            "nome": "B3",
+            "url": "https://www.b3.com.br/pt_br/noticias/ibovespa-b3-encerra-2025-com-32-recordes-historicos-e-alta-acumulada-de-34.htm",
+            "acesso_em": "2026-10-21",
+            "tier": "oficial"
+          }
+        },
+        {
+          "rotulo": "Lucro do Itaú em 2025",
+          "valor": 46.8,
+          "unidade": "R$ bilhões",
+          "periodo": "2025",
+          "fonte": {
+            "nome": "BP Money",
+            "url": "https://bpmoney.com.br/?p=385378",
+            "acesso_em": "2026-10-21",
+            "tier": "imprensa"
+          }
+        },
+        {
+          "rotulo": "Investimento privado em infraestrutura (2025)",
+          "valor": 84,
+          "unidade": "%",
+          "periodo": "2025",
+          "fonte": {
+            "nome": "Jornal de Brasília",
+            "url": "https://jornaldebrasilia.com.br/noticias/economia/lula-supera-bolsonaro-e-fhc-como-governo-que-mais-fez-concessoes-de-infraestrutura/",
+            "acesso_em": "2026-10-21",
+            "tier": "imprensa"
+          }
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "titulo": "O bolsonarismo e o PL: direita radical populista, o debate 'fascista' e o programa de 2026",
+      "periodo": "2018 a 2026-08-14",
+      "texto_md": "Zanotti, Rama & Tanscheit (2023) tratam Bolsonaro como 'primeiro presidente PRR da região': nativismo como exclusão racial/étnica, autoritarismo em 'lei e ordem', elogio à ditadura e conservadorismo moral, populismo antipetista; eleitores brancos, evangélicos, de renda mais alta, favoráveis a 'mão dura' e com menor apego à democracia. Camila Rocha descreve a 'nova direita' ultraliberal-conservadora (2006-2010) e estima o núcleo duro do bolsonarismo em 12-15% do eleitorado. **Debate 'fascista'**: a favor, 8 acadêmicos da USP (2020) e o projeto da PUC-SP (~40 pesquisadores); com cautela, Casarões (FGV), Magalhães (FAAP/PUC-SP) e Caldeira Neto (UFJF), do Observatório da Extrema Direita, que lembram que o governo incluía liberais como Guedes; Emilio Gentile considera 'um equívoco'; categorias intermediárias: 'wannabe fascism' (Finchelstein), 'Fascism Lite', 'neofascismo'. Paxton: um fenômeno não precisa caber na fôrma europeia para ser classificado como fascista ou neofascista. Levitsky elogiou no Senado (12/08/2025) a resposta do STF ao 8 de janeiro. Em 11/09/2025 o STF condenou Bolsonaro (4x1) por tentativa de golpe; trânsito em julgado em 25/11/2025. **PL**: 121 deputados e 29 senadores (out/2026); classificação enciclopédica 'direita a extrema direita'; antes de 2021, Centrão. **Programa 2026 de Flávio** ('Para o Brasil Vencer o Atraso', 13/08/2026, 9 eixos): PCC/CV/milícias como 'narcoterroristas', maioridade penal aos 16, castração química, 1 milhão de câmeras com reconhecimento facial; revisar a reforma tributária e reduzir impostos; escolas cívico-militares e vouchers; meta de 4% a.a., R$ 900 bi em infraestrutura; mudanças no STF, fim da reeleição; corte de 10 ministérios e retomada das desestatizações. Flávio mantém a referência liberal de Guedes e diz que o Bolsa Família 'é direito adquirido', mas não deve ser 'o fim da estrada'. Perfil: liberal na economia, autoritário/punitivista nos valores; sem proposta de regime militar ou suspensão de eleições.",
+      "eventos": [
+        {
+          "data": "2020-06-26",
+          "fato": "Oito acadêmicos ligados à USP publicam 'Por que assistimos a uma volta do fascismo à brasileira'; PUC-SP mantém projeto 'Bolsonarismo: o novo fascismo brasileiro'; Observatório da Extrema Direita (Casarões, Magalhães, Caldeira Neto) pede cautela.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://jornaldebrasilia.com.br/noticias/politica-e-poder/ja-da-pra-chamar-bolsonaro-de-fascista-parte-da-academia-diz-que-sim/",
+          "tipo": "documento"
+        },
+        {
+          "data": "2019",
+          "fato": "Emilio Gentile: 'um equívoco tratar figuras políticas de extrema-direita como Donald Trump e Jair Bolsonaro como fascistas'.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": "Emilio Gentile (via Demian Melo)",
+          "url": "https://www.niepmarx.blog.br/MM/MM2019/AnaisMM2019/MC19/MC191.pdf",
+          "tipo": "declaracao"
+        },
+        {
+          "data": "2021-08-16",
+          "fato": "Camila Rocha: 'casamento entre nova direita e bolsonarismo sempre foi frágil'; núcleo duro de 12-15% do eleitorado.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": "Camila Rocha",
+          "url": "https://www.brasildefato.com.br/2021/08/16/casamento-entre-nova-direita-e-bolsonarismo-sempre-foi-fragil-diz-cientista-politica",
+          "tipo": "declaracao"
+        },
+        {
+          "data": "2023",
+          "fato": "Zanotti, Rama & Tanscheit: Bolsonaro como líder da direita radical populista; antipetismo como principal variável do voto em 2018.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://www.redalyc.org/journal/329/32975189001/",
+          "tipo": "documento"
+        },
+        {
+          "data": "2025-08-12",
+          "fato": "Levitsky, no Senado, elogia o STF pela resposta ao 8 de janeiro.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": "Steven Levitsky",
+          "url": "https://www12.senado.leg.br/noticias/materias/2025/08/12/no-senado-levitsky-elogia-stf-e-defende-democracia-e-regulacao-de-redes",
+          "tipo": "declaracao"
+        },
+        {
+          "data": "2025-09-11",
+          "fato": "1ª Turma do STF condena Bolsonaro (4x1) a 27 anos e 3 meses por organização criminosa armada, tentativa de abolição violenta do Estado democrático de direito, golpe de Estado e danos; trânsito em julgado em 25/11/2025.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://mercadoeconsumo.com.br/11/09/2025/economia/por-4-a-1-stf-condena-bolsonaro-e-mais-sete-pela-trama-golpista/amp/",
+          "tipo": "decisao"
+        },
+        {
+          "data": "2026-08-13",
+          "fato": "Flávio registra no TSE o plano 'Para o Brasil Vencer o Atraso' (76 páginas, 9 eixos).",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://www.portaltela.com/politica/2026/08/14/plano-de-governo-de-flavio-bolsonaro-tem-9-eixos-veja-propostas/",
+          "tipo": "documento"
+        },
+        {
+          "data": "2026",
+          "fato": "Flávio diz que manterá como referência a política econômica liberal de Paulo Guedes: desburocratização, iniciativa privada, redução do Estado.",
+          "citacao_literal": null,
+          "literal": false,
+          "quem_disse": "Flávio Bolsonaro",
+          "url": "https://www.infomoney.com.br/?p=3138155",
+          "tipo": "declaracao"
+        },
+        {
+          "data": "2026-08",
+          "fato": "Flávio: o Bolsa Família 'é direito adquirido do povo brasileiro', mas não deve ser 'o fim da estrada'.",
+          "citacao_literal": "é direito adquirido do povo brasileiro",
+          "literal": true,
+          "quem_disse": "Flávio Bolsonaro",
+          "url": "https://viva.com.br/politica/flavio-bolsonaro-diz-que-bolsa-familia-e-direito-adquirido-do-povo.html",
+          "tipo": "declaracao"
+        },
+        {
+          "data": "2026-10",
+          "fato": "PL tem 121 deputados e 29 senadores (Reuters, via Wikipedia).",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://en.wikipedia.org/wiki/Liberal_Party_(Brazil,_2006)",
+          "tipo": "fato"
+        }
+      ],
+      "o_que_a_acusacao_dizia": "Parte da academia (USP, PUC-SP): o bolsonarismo reúne ultranacionalismo, aceitação da violência, intolerância ao dissenso e culto ao líder, traços fascistas.",
+      "o_que_a_defesa_dizia": "Outra parte (UFJF, Gentile) e o próprio PL: o conceito de fascismo é estreito; o governo incluía liberais; o partido disputa eleições e seu programa é liberal na economia e conservador em segurança.",
+      "numeros": [
+        {
+          "rotulo": "Núcleo duro do bolsonarismo (estimativa de Camila Rocha)",
+          "valor": 12,
+          "unidade": "% do eleitorado (12-15%)",
+          "periodo": "2021",
+          "fonte": {
+            "nome": "Jornal Opção",
+            "url": "https://www.jornalopcao.com.br/colunas-e-blogs/imprensa/permanencia-de-bolsonaro-e-fatal-para-a-nova-direita-diz-cientista-politica-camila-rocha-350275/",
+            "acesso_em": "2026-10-21",
+            "tier": "imprensa"
+          }
+        },
+        {
+          "rotulo": "Bancada do PL na Câmara",
+          "valor": 121,
+          "unidade": "deputados",
+          "periodo": "2026-10",
+          "fonte": {
+            "nome": "Wikipedia (en) — fonte secundária",
+            "url": "https://en.wikipedia.org/wiki/Liberal_Party_(Brazil,_2006)",
+            "acesso_em": "2026-10-21",
+            "tier": "imprensa"
+          }
+        },
+        {
+          "rotulo": "Bancada do PL no Senado",
+          "valor": 29,
+          "unidade": "senadores",
+          "periodo": "2026-10",
+          "fonte": {
+            "nome": "Wikipedia (en) — fonte secundária",
+            "url": "https://en.wikipedia.org/wiki/Liberal_Party_(Brazil,_2006)",
+            "acesso_em": "2026-10-21",
+            "tier": "imprensa"
+          }
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "titulo": "O que as checagens dizem sobre os rótulos",
+      "periodo": "2020-05 a 2026-07",
+      "texto_md": "'Lula assumiu ser comunista' = FALSO (Aos Fatos, 30/09/2024): montagem de dois discursos de 2023 em que Lula não afirma ser comunista. 'Lula quer implantar comunismo chinês' = ENGANOSO (Comprova/Metrópoles, 21/07/2022): junta cenas de agressão em banco na China (2016) a entrevista de 2021 em que Lula elogia o desenvolvimento chinês. 'Apoiadores de Bolsonaro fizeram saudação nazista' = FALSO (Aos Fatos, mai/2020): era oração com imposição de mãos. 'Bolsonaro se alistou no exército nazista' = FALSO (Aos Fatos, fev/2022): gravação do CQC (2012) editada. 'Bolsonaro é fascista' não é checável como fato; é classificação acadêmica contestada. Não foram encontradas checagens com os enunciados 'PT quer implantar ditadura' e 'PL quer ditadura militar'; a Lupa documenta (jul/2026) que a desinformação eleitoral recorre a episódios históricos de golpes e narrativas de intervenção militar, e estudo sobre 2022 aponta que 'informações fraudulentas em favor a pautas ou candidatos conservadores foram mais comuns'. Quadro para o leitor: (a) 'PT é comunista' — errado pelas definições e pelas políticas; (b) 'PT quer ditadura' — sem evidência; (c) 'Bolsonaro é fascista' — contestado; (d) 'Bolsonaro é nazista' — falso; (e) 'PL quer ditadura militar' — exagerado quanto ao programa, mas o líder do partido foi condenado por tentativa de golpe.",
+      "eventos": [
+        {
+          "data": "2020-05",
+          "fato": "Aos Fatos: falso que apoiadores de Bolsonaro fizeram saudação nazista no Alvorada (gesto religioso).",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://www.aosfatos.org/noticias/e-falso-que-apoiadores-de-bolsonaro-tenham-feito-saudacao-nazista-gesto-e-religioso/",
+          "tipo": "documento"
+        },
+        {
+          "data": "2022-02",
+          "fato": "Aos Fatos: falso vídeo que atribui a Bolsonaro ter se alistado em exército nazista (CQC, 2012, editado).",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://www.aosfatos.org/noticias/bolsonaro-alistamento-exercito-nazista/",
+          "tipo": "documento"
+        },
+        {
+          "data": "2022-07-21",
+          "fato": "Comprova: enganoso que Lula quer implantar o comunismo chinês no Brasil.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://www.metropoles.com/projeto-comprova/lula-nao-disse-querer-implantar-comunismo-chines-no-brasil",
+          "tipo": "documento"
+        },
+        {
+          "data": "2024-09-30",
+          "fato": "Aos Fatos: falso que Lula 'assumiu ser comunista'.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://www.aosfatos.org/noticias/falso-lula-assumiu-ser-comunista/",
+          "tipo": "documento"
+        },
+        {
+          "data": "2026-07",
+          "fato": "Lupa publica 'Anatomia da desinformação eleitoral' (1º semestre de 2026); RSF registra deepfakes com falso Jornal Nacional anunciando Flávio presidente.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://uploads.agencialupa.org/2026/07/RELATORIO-ANATOMIA-DA-DESINFORMACAO-ELEITORAL_LUPA-FINAL.pdf",
+          "tipo": "documento"
+        }
+      ],
+      "o_que_a_acusacao_dizia": null,
+      "o_que_a_defesa_dizia": null,
+      "numeros": []
+    }
+  ],
+  "glossario_local": [
+    {
+      "termo": "Esquerda / Direita",
+      "definicao_simples": "Rótulos nascidos da disposição dos assentos na Assembleia francesa de 1789 (direita: defensores do veto absoluto do rei; esquerda: limitadores do poder real); hoje associam-se, grosso modo, a igualdade/mudança vs. ordem/hierarquia/tradição."
+    },
+    {
+      "termo": "Centro (na BLS)",
+      "definicao_simples": "Partido cuja posição na escala de Zucco & Power (-1 a +1) fica entre -0,25 e +0,25; em 2021: MDB, PSDB, Cidadania, PROS, SD, PV."
+    },
+    {
+      "termo": "Comunismo",
+      "definicao_simples": "Doutrina de Marx/Engels cuja fórmula é a 'supressão da propriedade privada' (burguesa), com crédito centralizado em banco estatal monopolista; na prática histórica (URSS, China, Cuba), propriedade pública dos meios de produção e partido único."
+    },
+    {
+      "termo": "Socialismo",
+      "definicao_simples": "Sistema em que 'o grosso dos meios de produção está sob controle social e democrático' (SEP); sem controle democrático é 'estatismo, não socialismo'."
+    },
+    {
+      "termo": "Social-democracia",
+      "definicao_simples": "Estratégia de 'domar o capitalismo' via governos eleitos, seguro social e bens públicos, mantendo a propriedade privada; o Estado de bem-estar é um híbrido capitalista com 'elementos socialistas'."
+    },
+    {
+      "termo": "Socialismo democrático",
+      "definicao_simples": "Via reformista/eleitoral; autodefinição programática do PT no 8º Congresso (2026): 'horizonte programático o socialismo democrático'."
+    },
+    {
+      "termo": "Liberalismo econômico",
+      "definicao_simples": "Defesa de mercados livres, menos Estado, privatizações e impostos baixos; no Brasil associado a Paulo Guedes e ao Novo (+0,711 na BLS 2021)."
+    },
+    {
+      "termo": "Conservadorismo",
+      "definicao_simples": "Valorização da tradição, da família, da religião e da ordem; desconfiança de mudanças rápidas (definição de trabalho)."
+    },
+    {
+      "termo": "Populismo",
+      "definicao_simples": "Visão do 'povo puro' contra 'elites corruptas'; pode ser de direita ou de esquerda (síntese a partir de Mudde)."
+    },
+    {
+      "termo": "Nativismo",
+      "definicao_simples": "Mudde: o Estado deve ser habitado pelo grupo 'nativo'; no Brasil aparece como exclusão racial/étnica, não anti-imigração."
+    },
+    {
+      "termo": "Autoritarismo (como traço ideológico)",
+      "definicao_simples": "Crença numa sociedade estritamente ordenada em que desafios à autoridade são punidos severamente ('lei e ordem')."
+    },
+    {
+      "termo": "Extrema direita (far right)",
+      "definicao_simples": "Família antissistema e hostil à democracia liberal; divide-se em direita radical e direita extrema (Mudde)."
+    },
+    {
+      "termo": "Direita radical (populista)",
+      "definicao_simples": "Aceita soberania popular e regra da maioria, mas ataca direitos de minorias, separação de poderes e Estado de direito; combina nativismo, autoritarismo e populismo."
+    },
+    {
+      "termo": "Direita extrema",
+      "definicao_simples": "Rejeita soberania popular e regra da maioria; é revolucionária/antidemocrática (Mudde)."
+    },
+    {
+      "termo": "Fascismo",
+      "definicao_simples": "Paxton: comportamento político obcecado com o declínio da comunidade, culto da unidade/pureza, partido nacionalista de massas em aliança com elites, abandono das liberdades democráticas e violência redentora; Griffin: 'ultranacionalismo populista palingenético'."
+    },
+    {
+      "termo": "Nazismo",
+      "definicao_simples": "Variante alemã do fascismo com racismo biológico e antissemitismo exterminador como núcleo (definição de trabalho)."
+    },
+    {
+      "termo": "Autoritarismo competitivo",
+      "definicao_simples": "Regime com eleições, mas campo tão desnivelado pelo governo que a oposição só vence alguns cargos; aplicado à Venezuela chavista."
+    },
+    {
+      "termo": "Centrão",
+      "definicao_simples": "Bloco de partidos de centro/centro-direita pragmáticos e clientelistas (PP, Republicanos, PL pré-2021, PSD)."
+    },
+    {
+      "termo": "Bolsonarismo",
+      "definicao_simples": "Movimento social de direita radical populista em torno de Jair Bolsonaro, distinto do Centrão; núcleo duro estimado em 12-15% do eleitorado (Rocha)."
+    },
+    {
+      "termo": "Antipetismo",
+      "definicao_simples": "Identidade negativa em relação ao PT; principal variável explicativa do voto em Bolsonaro em 2018."
+    },
+    {
+      "termo": "Brazilian Legislative Survey (BLS)",
+      "definicao_simples": "Survey de deputados e senadores (Power & Zucco), nove ondas 1990-2021, em que parlamentares posicionam partidos numa escala 1-10 reescalada para -1 (esquerda) a +1 (direita)."
+    }
+  ],
+  "o_que_cada_lado_diz_hoje": {
+    "lado_a": {
+      "lado": "oposicao-flavio-pl",
+      "quem": "Peças virais da direita (checadas pela Aos Fatos em 30/09/2024 e pelo Comprova em 21/07/2022)",
+      "frase": "Lula assumiu ser comunista / quer implantar o comunismo chinês no Brasil",
+      "literal": false,
+      "veredito": "falso",
+      "explicacao": "A Aos Fatos classificou como falso: a peça monta dois discursos de 2023 (reunião com Li Xi, do PC Chinês, sobre relações comerciais; e Foro de São Paulo, em que Lula disse que ser chamado de comunista não o ofende); em nenhum ele afirma que é comunista. O Comprova classificou como enganoso o vídeo sobre 'comunismo chinês'. Pelos critérios de Marx e das constituições de Cuba e China (abolição da propriedade privada, banco estatal monopolista, partido único), nenhum está presente no Brasil sob o PT: há recorde de concessões, BC autônomo, lucros recordes de bancos e eleições que o PT perdeu em 2018.",
+      "checagem_externa_url": "https://www.aosfatos.org/noticias/falso-lula-assumiu-ser-comunista/",
+      "checagem_slug": null
+    },
+    "lado_b": {
+      "lado": "governo-lula-pt",
+      "quem": "Setores da esquerda e parte da academia (PUC-SP, 8 acadêmicos da USP, 2020)",
+      "frase": "Bolsonaro é fascista",
+      "literal": false,
+      "veredito": "opiniao",
+      "explicacao": "Não é fato checável, mas classificação acadêmica contestada. Parte da academia aplica o rótulo (PUC-SP; 8 acadêmicos da USP); outra parte o rejeita ou qualifica (Observatório da Extrema Direita/UFJF; Emilio Gentile considera 'um equívoco'; Finchelstein fala em 'wannabe fascism'). A classificação com maior consenso é 'direita radical populista'; faltam traços definidores de Paxton/Griffin/Gentile (partido único, milícia de massas, economia corporativista, projeto de renascimento nacional violento). Peças que associam Bolsonaro ao nazismo foram checadas como falsas pela Aos Fatos. O fato judicial relevante é a condenação por tentativa de golpe (11/09/2025).",
+      "checagem_externa_url": "https://jornaldebrasilia.com.br/noticias/politica-e-poder/ja-da-pra-chamar-bolsonaro-de-fascista-parte-da-academia-diz-que-sim/",
+      "checagem_slug": null
+    }
+  },
+  "perguntas_frequentes": [
+    {
+      "pergunta": "De onde vêm 'esquerda' e 'direita'?",
+      "resposta": "Da Assembleia Constituinte francesa: em 11 de setembro de 1789, no debate sobre o veto do rei Luís XVI, os defensores do veto absoluto sentaram-se à direita do presidente da Assembleia e os que queriam limitar o poder real, à esquerda. A posição física virou rótulo político duradouro; o conteúdo que carregam hoje é convenção histórica, não definição natural."
+    },
+    {
+      "pergunta": "O PT é comunista?",
+      "resposta": "Não, pelos critérios do próprio Marx (supressão da propriedade privada, crédito centralizado em banco estatal monopolista) e das constituições de Cuba e China (propriedade pública dos meios de produção, partido único). Sob o PT há propriedade privada, recorde de concessões (50 leilões federais em 2023-2025), Banco Central autônomo, lucro recorde do Itaú (R$ 46,8 bi em 2025) e eleições competitivas. O PT se define como de 'socialismo democrático' e suas políticas (transferência de renda, SUS, imposto mínimo sobre alta renda) são, na definição acadêmica, 'elementos socialistas' de um híbrido capitalista, como na Suécia ou na Alemanha."
+    },
+    {
+      "pergunta": "O PT é de extrema esquerda?",
+      "resposta": "Não, pela régua acadêmica. Na Brazilian Legislative Survey (2021), o PT está em -0,691; o polo esquerdo é ocupado por PSOL (-0,874) e PCdoB (-0,822). O PSOL nasceu em 2004 justamente como protesto contra a moderação do PT. O PT moderou-se entre 2001 (-0,793) e 2005 (-0,525) e voltou a se deslocar à esquerda após 2013."
+    },
+    {
+      "pergunta": "Bolsonaro é fascista?",
+      "resposta": "É uma classificação acadêmica contestada, não um fato checável. A classificação com maior consenso é 'direita radical populista' (nativismo, autoritarismo/lei e ordem/elogio à ditadura, populismo antipetista); a BLS o mede em +0,87, o presidente mais à direita da era democrática. Há acadêmicos que usam 'fascista' ou 'neofascismo' e outros que rejeitam (Gentile) ou qualificam ('wannabe fascism'). Peças que o associam ao nazismo foram checadas como falsas."
+    },
+    {
+      "pergunta": "O PL quer uma ditadura militar?",
+      "resposta": "O programa 2026 de Flávio Bolsonaro não propõe regime militar nem suspensão de eleições; propõe agenda liberal na economia e punitivista em segurança, além de limitar o STF e acabar com a reeleição. Mas o líder histórico do partido foi condenado pelo STF (11/09/2025) por tentativa de golpe e abolição violenta do Estado democrático de direito, o que, pelos critérios de Mudde, desloca o núcleo bolsonarista da 'direita radical' para a 'direita extrema' (rejeição da regra da maioria). O PL como organização disputa eleições e tem a maior bancada do Congresso."
+    },
+    {
+      "pergunta": "O PT quer implantar uma ditadura?",
+      "resposta": "Não há evidência: o PT perdeu a eleição de 2018 e entregou o poder, disputa o 2º turno de 2026 e seu programa fala em 'socialismo democrático'. Não foi localizada checagem específica com esse enunciado, nem ato ou proposta que o sustente."
+    },
+    {
+      "pergunta": "Onde ficam os outros partidos?",
+      "resposta": "BLS 2021 (escala -1 a +1): PSOL -0,874; PCdoB -0,822; PT -0,691; PSB -0,427; PDT -0,356; Cidadania -0,014; PROS +0,032; MDB +0,137; PSDB +0,157; SD +0,190; PSD +0,296; PODE +0,386; DEM/União +0,431; PTB +0,455; PL +0,493; PP +0,510; Republicanos +0,550; PSC +0,596; Novo +0,711; PSL +0,803. PCB, UP, Avante e Missão não foram medidos."
+    },
+    {
+      "pergunta": "A Venezuela é comunista e o PT quer copiá-la?",
+      "resposta": "Especialistas ouvidos pela CNN Brasil classificam o regime Chávez/Maduro como esquerda radical autoritária ('autoritarismo competitivo', 'total nacionalização da economia', poderes subordinados), não como comunismo; 'socialismo do século XXI' é autodenominação. Comparar o PT à Venezuela exigiria mostrar ruptura democrática (não divulgação de atas, subordinação dos poderes), que não ocorreu no Brasil."
+    }
+  ],
+  "lacunas": [
+    "Britannica (definições de 'social democracy' e 'left') inacessível (HTTP 403); usadas SEP e fontes secundárias. Definições de Paxton e Mudde vêm de Wikipedia e resenha acadêmica, não dos textos originais.",
+    "Valores V-Party para PT e PL e média exata do Brasil no Latinobarómetro 2024 não obtidos; CHES não cobre o Brasil.",
+    "PCB, UP, Avante e Missão não constam da BLS; União Brasil não medido diretamente em 2021 (DEM +0,431 é o proxy); não há onda BLS pós-2021 publicada.",
+    "Programa partidário do 8º Congresso do PT e estatuto vigente não baixados (403); citações vêm do Poder360 e do pt.org.br. Estatuto/programa do PL não localizados.",
+    "Não localizadas checagens com os enunciados 'PT quer implantar ditadura' e 'PL quer ditadura militar'; relatório da Lupa (jul/2026) não pôde ser lido (mais de 10 MB).",
+    "Comparação quantitativa (gasto social/PIB, participação estatal) entre Brasil-PT e social-democracias europeias ou esquerdas latino-americanas não localizada; a comparação é conceitual.",
+    "Data da sanção da isenção de IR diverge entre notas do projeto (26/12/2025 na nota 11; 26/11/2025 na nota 12, Lei 15.270/2025).",
+    "Data exata de fundação do PT (10/02/1980) sem URL; consta apenas '1980' na fonte acadêmica.",
+    "Verbetes do glossário sobre conservadorismo, nazismo e liberalismo são definições de trabalho (síntese), com fonte de aprofundamento não consultada.",
+    "Não localizada autodefinição literal de Flávio Bolsonaro como 'liberal-conservador'; a caracterização vem de analistas e do programa."
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/11_espectro_ideologico_didatico.md",
+  "atualizado_em": "2026-10-21",
+  "fontes": [
+    {
+      "nome": "Wikipedia (en) — fonte secundária",
+      "url": "https://en.wikipedia.org/wiki/National_Assembly_(French_Revolution)",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Vermelho (PCdoB)",
+      "url": "https://vermelho.org.br/?p=402150",
+      "acesso_em": "2026-10-21",
+      "tier": "partidario"
+    },
+    {
+      "nome": "Marxists Internet Archive (texto de Marx/Engels)",
+      "url": "https://www.marxists.org/portugues/marx/1848/ManifestoDoPartidoComunista/cap2.htm",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    },
+    {
+      "nome": "CECC (EUA)",
+      "url": "https://cecc.gov/resources/legal-provisions/1999-amendment-to-the-constitution-of-the-peoples-republic-of-china",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Revista Universidad Sergio Arboleda",
+      "url": "https://revistas.usergioarboleda.edu.co/index.php/fc_divul/article/download/2078/1524",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    },
+    {
+      "nome": "Wikipedia (en) — fonte secundária",
+      "url": "https://en.wikipedia.org/wiki/Ur-Fascism",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Wikipedia (en) — fonte secundária",
+      "url": "https://en.wikipedia.org/wiki/Definitions_of_fascism",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Resenha Crítica",
+      "url": "https://resenhacritica.com.br/tag/polity-press-e",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    },
+    {
+      "nome": "Stanford Encyclopedia of Philosophy",
+      "url": "https://plato.stanford.edu/entries/socialism/",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    },
+    {
+      "nome": "Cambridge Core",
+      "url": "https://www.cambridge.org/core/product/FAF5489B3E01D39A16DBB4971458AD48/core-reader",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    },
+    {
+      "nome": "Cambridge Core (material suplementar)",
+      "url": "https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S1531426X23000249/resource/name/S1531426X23000249sup001.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    },
+    {
+      "nome": "El Mundo (El Salvador)",
+      "url": "https://diario.elmundo.sv/politica/el-salvador-es-el-pais-mas-a-la-derecha-en-america-latina",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Redalyc / Opinião Pública",
+      "url": "https://www.redalyc.org/journal/329/32975189001/",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    },
+    {
+      "nome": "Correio Braziliense (blogs)",
+      "url": "https://blogs.correiobraziliense.com.br/azedo/memoria-partido-comunista-no-brasil-conhecido-como-partidao-completaria-101-anos/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Portal Latino-Americano USP",
+      "url": "https://sites.usp.br/portalatinoamericano/espanol-prestes-luiz-carlos",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    },
+    {
+      "nome": "Correio Braziliense (blogs)",
+      "url": "https://blogs.correiobraziliense.com.br/azedo/nas-entrelinhas-disputa-de-legado-marca-os-100-anos-de-pcb/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Wikipedia (en) — fonte secundária",
+      "url": "https://en.wikipedia.org/wiki/Liberal_Party_(Brazil,_1985)",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Wikipedia (en) — fonte secundária",
+      "url": "https://en.wikipedia.org/wiki/Communist_Party_of_Brazil",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Congresso em Foco",
+      "url": "https://www.congressoemfoco.com.br/noticias/lula-quer-fazer-nova-carta-aos-brasileiros-veja-a-integra-da-primeira/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Wikipedia (en) — fonte secundária",
+      "url": "https://en.wikipedia.org/wiki/Liberal_Party_(Brazil,_2006)",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/politica/de-jose-alencar-a-bolsonaro-pl-de-valdemar-costa-neto-se-prepara-para-2022/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "B3 Bora Investir",
+      "url": "https://borainvestir.b3.com.br/noticias/empresas/petrobras-anuncia-nova-politica-de-precos-dos-combustiveis/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Aos Fatos",
+      "url": "https://www.aosfatos.org/noticias/falso-lula-assumiu-ser-comunista/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "CartaCapital",
+      "url": "https://www.cartacapital.com.br/?p=451642",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Jovem Pan",
+      "url": "https://jovempan.com.br/noticias/politica/lula-sanciona-isencao-de-ir-para-quem-ganha-ate-r-5-mil.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Correio Braziliense (edição impressa)",
+      "url": "https://edicao.correiobraziliense.com.br/correiobraziliense/2025/12/27/1255c2/pdf/A08-ECO-2712-DIG.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "B3",
+      "url": "https://www.b3.com.br/pt_br/noticias/ibovespa-b3-encerra-2025-com-32-recordes-historicos-e-alta-acumulada-de-34.htm",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Jornal de Brasília",
+      "url": "https://jornaldebrasilia.com.br/noticias/economia/lula-supera-bolsonaro-e-fhc-como-governo-que-mais-fez-concessoes-de-infraestrutura/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "BP Money",
+      "url": "https://bpmoney.com.br/?p=385378",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Poder360",
+      "url": "https://www.poder360.com.br/poder-eleicoes/leia-o-manifesto-final-do-8o-congresso-nacional-do-pt/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/internacional/o-que-faz-o-governo-maduro-ser-de-extrema-esquerda-especialistas-explicam/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Jornal de Brasília",
+      "url": "https://jornaldebrasilia.com.br/noticias/politica-e-poder/ja-da-pra-chamar-bolsonaro-de-fascista-parte-da-academia-diz-que-sim/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "NIEP-Marx (anais)",
+      "url": "https://www.niepmarx.blog.br/MM/MM2019/AnaisMM2019/MC19/MC191.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    },
+    {
+      "nome": "Brasil de Fato",
+      "url": "https://www.brasildefato.com.br/2021/08/16/casamento-entre-nova-direita-e-bolsonarismo-sempre-foi-fragil-diz-cientista-politica",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Agência Senado / Senado Federal",
+      "url": "https://www12.senado.leg.br/noticias/materias/2025/08/12/no-senado-levitsky-elogia-stf-e-defende-democracia-e-regulacao-de-redes",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Mercado&Consumo",
+      "url": "https://mercadoeconsumo.com.br/11/09/2025/economia/por-4-a-1-stf-condena-bolsonaro-e-mais-sete-pela-trama-golpista/amp/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Portal Tela",
+      "url": "https://www.portaltela.com/politica/2026/08/14/plano-de-governo-de-flavio-bolsonaro-tem-9-eixos-veja-propostas/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "InfoMoney",
+      "url": "https://www.infomoney.com.br/?p=3138155",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Viva",
+      "url": "https://viva.com.br/politica/flavio-bolsonaro-diz-que-bolsa-familia-e-direito-adquirido-do-povo.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Jornal Opção",
+      "url": "https://www.jornalopcao.com.br/colunas-e-blogs/imprensa/permanencia-de-bolsonaro-e-fatal-para-a-nova-direita-diz-cientista-politica-camila-rocha-350275/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Aos Fatos",
+      "url": "https://www.aosfatos.org/noticias/e-falso-que-apoiadores-de-bolsonaro-tenham-feito-saudacao-nazista-gesto-e-religioso/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Aos Fatos",
+      "url": "https://www.aosfatos.org/noticias/bolsonaro-alistamento-exercito-nazista/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Metrópoles",
+      "url": "https://www.metropoles.com/projeto-comprova/lula-nao-disse-querer-implantar-comunismo-chines-no-brasil",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Agência Lupa (relatório)",
+      "url": "https://uploads.agencialupa.org/2026/07/RELATORIO-ANATOMIA-DA-DESINFORMACAO-ELEITORAL_LUPA-FINAL.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    }
+  ]
+}

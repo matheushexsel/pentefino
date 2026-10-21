@@ -1,0 +1,272 @@
+{
+  "id": "chk-1004",
+  "slug": "brasil-saiu-do-mapa-da-fome",
+  "frase": "O Brasil saiu do Mapa da Fome e permanece fora dele",
+  "frase_normalizada": "O governo Lula 3 tirou o Brasil do Mapa da Fome da ONU",
+  "variantes": [
+    "Tiramos o Brasil do Mapa da Fome de novo",
+    "O Brasil está fora do Mapa da Fome"
+  ],
+  "autor": {
+    "nome": "Governo federal (MDS / Agência Gov)",
+    "partido": null,
+    "cargo": "comunicação oficial do governo Lula 3"
+  },
+  "lado": "governo-lula-pt",
+  "alvo": {
+    "nome": "Jair Bolsonaro (governo 2019-2022)",
+    "partido": "PL"
+  },
+  "data": "2026-07-21",
+  "onde": "Comunicado do MDS/Agência Gov sobre o relatório SOFI 2026 da FAO; tema recorrente em falas de Lula",
+  "url_declaracao": "https://agenciagov.ebc.com.br/noticias/202607/relatorio-da-onu-confirma-que-brasil-permanece-fora-do-mapa-da-fome",
+  "temas": [
+    "pobreza-programas-sociais",
+    "direitos-sociais",
+    "eleicao-2026"
+  ],
+  "tags": [
+    "mapa-da-fome",
+    "fao",
+    "sofi",
+    "inseguranca-alimentar"
+  ],
+  "veredito": "verdadeiro-mas",
+  "resumo_uma_frase": "A FAO retirou o Brasil do Mapa da Fome no relatório SOFI 2025 (dados do triênio 2022-2024) e o manteve fora no SOFI 2026; o fato é correto, mas o triênio inclui o último ano do governo Bolsonaro, o país havia voltado ao Mapa com dados de 2020-2022, e sair do Mapa não significa erradicar a fome: 20,3 milhões ainda viviam insegurança alimentar moderada ou grave em 2023-2025.",
+  "explicacao_simples": [
+    "A FAO considera que um país está fora do Mapa da Fome quando menos de 2,5% da população passa por subalimentação, e o Brasil cumpriu isso nos relatórios de 2025 e 2026.",
+    "O Brasil havia saído do Mapa em 2014, voltou com os dados de 2020 a 2022, quando 3,5% da população estava subalimentada, e saiu de novo com o triênio 2022 a 2024.",
+    "Como o triênio inclui 2022, último ano do governo Bolsonaro, e dois anos de Lula 3, nenhum dos lados pode reivindicar o indicador sozinho."
+  ],
+  "explicacao_completa_md": "## O critério\n\nO Mapa da Fome da FAO usa a prevalência de subalimentação (PoU): abaixo de 2,5% da população, o país sai do Mapa. O Brasil saiu em 2014 (relatório SOFI 2014, dados de 2012-2014), voltou no triênio 2020-2022 (3,5%) e saiu novamente com o SOFI 2025 (lançado em 28/07/2025, triênio 2022-2024), permanecendo fora no SOFI 2026 (triênio 2023-2025).\n\n## Outros indicadores do SOFI 2026\n\n- Insegurança alimentar grave: 0,6% (1,2 milhão de pessoas), menor da série; 16,7 milhões saíram da insegurança grave.\n- Insegurança moderada ou grave: 9,6% (20,3 milhões), contra 22,1% em 2020-2022.\n- 21,1% (44,8 milhões) não podiam pagar uma dieta saudável em 2025, contra o pico de 31,1% (65,3 milhões) em 2021.\n\n## Fontes nacionais\n\nA Rede PENSSAN mediu 33,1 milhões (15,5%) em insegurança alimentar grave na coleta de nov/2021 a abr/2022; o IBGE (PNAD Contínua 2023) mediu 4,1% (8,7 milhões) — pesquisas diferentes, comparação indireta.\n\n## Ressalvas\n\nJosé Graziano (ex-FAO) afirma que o PoU 'não é o melhor indicador' para definir presença no Mapa. A Lupa classificou como EXAGERADO Lula dizer que 'acabou com a fome em 2014': sair do Mapa não é erradicar a fome.",
+  "o_que_e_verdade": [
+    "O Brasil saiu do Mapa da Fome no SOFI 2025 (triênio 2022-2024) e permaneceu fora no SOFI 2026 (triênio 2023-2025).",
+    "A insegurança alimentar grave caiu para 0,6% (1,2 milhão) em 2023-2025, menor da série da FAO; a moderada ou grave caiu de 22,1% para 9,6%.",
+    "O retorno ao Mapa ocorreu com dados de 2020-2022, durante a pandemia e o governo Bolsonaro."
+  ],
+  "o_que_nao_se_sustenta": [
+    "O triênio que tirou o Brasil do Mapa inclui 2022, último ano do governo anterior, e o indicador é uma média de três anos.",
+    "Sair do Mapa não é 'acabar com a fome': 20,3 milhões ainda estavam em insegurança alimentar moderada ou grave e 44,8 milhões não podiam pagar dieta saudável em 2025.",
+    "O critério de 2,5% é contestado por especialistas como José Graziano, que considera o PoU um indicador limitado."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Governo federal (Bolsa Família, salário mínimo, programas alimentares)",
+      "papel": "transferências e renda sustentam o acesso a alimentos",
+      "peso": "alto"
+    },
+    {
+      "ator": "Mercado de trabalho (emprego e renda em alta desde 2021)",
+      "papel": "renda do trabalho recorde em 2025",
+      "peso": "alto"
+    },
+    {
+      "ator": "Pandemia e inflação de alimentos (2020-2022)",
+      "papel": "explicam o retorno ao Mapa",
+      "peso": "alto"
+    },
+    {
+      "ator": "FAO (metodologia PoU)",
+      "papel": "define o critério e a periodicidade trienal",
+      "peso": "medio"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Subalimentação (PoU) no triênio 2020-2022",
+      "valor": 3.5,
+      "unidade": "% da população",
+      "periodo": "2020-2022",
+      "fonte": {
+        "nome": "Agência Brasil – Brasil continua fora do Mapa da Fome, aponta relatório da ONU (22/07/2026)",
+        "url": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-07/brasil-continua-fora-do-mapa-da-fome-aponta-relatorio-da-onu",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "Limite para sair do Mapa",
+        "valor": 2.5
+      }
+    },
+    {
+      "rotulo": "Insegurança alimentar grave (SOFI 2026)",
+      "valor": 0.6,
+      "unidade": "% da população",
+      "periodo": "2023-2025",
+      "fonte": {
+        "nome": "Agência Brasil – Brasil continua fora do Mapa da Fome, aponta relatório da ONU (22/07/2026)",
+        "url": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-07/brasil-continua-fora-do-mapa-da-fome-aponta-relatorio-da-onu",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "Em milhões de pessoas",
+        "valor": 1.2
+      }
+    },
+    {
+      "rotulo": "Insegurança alimentar moderada ou grave (SOFI 2026)",
+      "valor": 9.6,
+      "unidade": "% da população",
+      "periodo": "2023-2025",
+      "fonte": {
+        "nome": "Agência Brasil – Brasil continua fora do Mapa da Fome, aponta relatório da ONU (22/07/2026)",
+        "url": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-07/brasil-continua-fora-do-mapa-da-fome-aponta-relatorio-da-onu",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "2020-2022",
+        "valor": 22.1
+      }
+    },
+    {
+      "rotulo": "Pessoas em insegurança moderada ou grave",
+      "valor": 20.3,
+      "unidade": "milhões",
+      "periodo": "2023-2025",
+      "fonte": {
+        "nome": "Agência Brasil – Brasil continua fora do Mapa da Fome, aponta relatório da ONU (22/07/2026)",
+        "url": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-07/brasil-continua-fora-do-mapa-da-fome-aponta-relatorio-da-onu",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Pessoas sem acesso a dieta saudável",
+      "valor": 44.8,
+      "unidade": "milhões",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Agência Brasil – Brasil continua fora do Mapa da Fome, aponta relatório da ONU (22/07/2026)",
+        "url": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-07/brasil-continua-fora-do-mapa-da-fome-aponta-relatorio-da-onu",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "Pico em 2021",
+        "valor": 65.3
+      }
+    },
+    {
+      "rotulo": "Insegurança alimentar grave (Rede PENSSAN)",
+      "valor": 33.1,
+      "unidade": "milhões",
+      "periodo": "nov/2021-abr/2022",
+      "fonte": {
+        "nome": "Poder360 – 33 milhões vivem insegurança alimentar grave no país, diz estudo (Rede PENSSAN, 08/06/2022)",
+        "url": "https://www.poder360.com.br/brasil/33-milhoes-vivem-inseguranca-alimentar-grave-no-pais-diz-estudo/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "% da população",
+        "valor": 15.5
+      }
+    },
+    {
+      "rotulo": "Insegurança alimentar grave (IBGE, PNAD Contínua)",
+      "valor": 4.1,
+      "unidade": "% da população",
+      "periodo": "2023",
+      "fonte": {
+        "nome": "Monitor Mercantil – Situação de fome recua de 15,5% para 4,1% da população (IBGE, abr/2024)",
+        "url": "https://monitormercantil.com.br/situacao-de-fome-recua-de-155-para-41-da-populacao/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "Em milhões",
+        "valor": 8.7
+      }
+    }
+  ],
+  "series": [
+    "pobreza-ibge",
+    "extrema-pobreza-ibge",
+    "pobreza-banco-mundial"
+  ],
+  "checagens_externas": [
+    {
+      "veiculo": "Lupa",
+      "veredito_original": "EXAGERADO para 'acabei com a fome em 2014'; VERDADEIRO para '33 milhões passando fome' (PENSSAN 2022)",
+      "url": "https://www.agencialupa.org/checagem/2026/10/15/ao-vivo-checagem-da-entrevista-de-lula-na-tv-globo/",
+      "data": "2026-10-15"
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Agência Brasil – Brasil continua fora do Mapa da Fome, aponta relatório da ONU (22/07/2026)",
+      "url": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-07/brasil-continua-fora-do-mapa-da-fome-aponta-relatorio-da-onu",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Poder360 – 33 milhões vivem insegurança alimentar grave no país, diz estudo (Rede PENSSAN, 08/06/2022)",
+      "url": "https://www.poder360.com.br/brasil/33-milhoes-vivem-inseguranca-alimentar-grave-no-pais-diz-estudo/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Monitor Mercantil – Situação de fome recua de 15,5% para 4,1% da população (IBGE, abr/2024)",
+      "url": "https://monitormercantil.com.br/situacao-de-fome-recua-de-155-para-41-da-populacao/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Agência Gov/MDS – Relatório da ONU confirma que Brasil permanece fora do Mapa da Fome (21/07/2026)",
+      "url": "https://agenciagov.ebc.com.br/noticias/202607/relatorio-da-onu-confirma-que-brasil-permanece-fora-do-mapa-da-fome",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "ONU Brasil – Artigo de Jorge Meza (FAO): Brasil voltou a sair do Mapa da Fome (2025)",
+      "url": "https://brasil.un.org/pt-br/299851-artigo-brasil-voltou-sair-do-mapa-da-fome",
+      "acesso_em": "2026-10-21",
+      "tier": "multilateral"
+    },
+    {
+      "nome": "Lupa – Checagem ao vivo da entrevista de Lula na TV Globo (15/10/2026)",
+      "url": "https://www.agencialupa.org/checagem/2026/10/15/ao-vivo-checagem-da-entrevista-de-lula-na-tv-globo/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/03_emprego_renda_pobreza_social.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "O que é o Mapa da Fome?",
+      "resposta": "É a lista da FAO (ONU) de países com 2,5% ou mais da população em subalimentação crônica, medida pela prevalência de subalimentação (PoU) em médias de três anos."
+    },
+    {
+      "pergunta": "Quando o Brasil entrou e saiu?",
+      "resposta": "Saiu em 2014 (dados 2012-2014), voltou com o triênio 2020-2022 (3,5%) e saiu de novo no SOFI 2025 (dados 2022-2024), permanecendo fora no SOFI 2026."
+    },
+    {
+      "pergunta": "Quantas pessoas ainda passam fome?",
+      "resposta": "Pelo SOFI 2026, 1,2 milhão em insegurança alimentar grave (0,6%) e 20,3 milhões em insegurança moderada ou grave (9,6%) no triênio 2023-2025."
+    },
+    {
+      "pergunta": "Os 33 milhões de 2022 são da mesma pesquisa?",
+      "resposta": "Não. Vêm do II VIGISAN da Rede PENSSAN (15,5% em insegurança grave), uma pesquisa domiciliar nacional diferente da FAO e do IBGE."
+    }
+  ],
+  "relacionadas": [
+    "33-milhoes-passavam-fome-em-2022",
+    "lula-acabou-com-a-fome-em-2014",
+    "extrema-pobreza-no-menor-nivel-da-serie",
+    "bolsonaro-deu-600-reais-do-auxilio"
+  ],
+  "lacunas": [
+    "Há divergência entre fontes sobre a data da primeira saída ('2014' no relatório vs '2013/2014' nos dados) e sobre o ano de retorno ('2018' em uma leitura; triênio 2020-2022 no SOFI)."
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false
+}

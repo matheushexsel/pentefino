@@ -1,0 +1,63 @@
+{
+  "id": "fala-0145",
+  "slug": "flavio-recorde-de-empresas-fechadas-0410",
+  "evento_id": "pronunciamentos-1-turno-2026-10-04",
+  "candidato": "flavio-bolsonaro",
+  "lado": "oposicao-flavio-pl",
+  "minuto": null,
+  "frase_literal": "[A era do PT que só tá deixando como legado]… recorde de empresas fechadas.",
+  "literal": true,
+  "tema": "economia",
+  "veredito": "falta-contexto",
+  "resumo_uma_frase": "Foram 2,8 milhões de empresas extintas em 2025 (maior desde 2008), mas mais de 5 milhões abertas, saldo de +2,2 milhões, com alta rotatividade de MEIs.",
+  "explicacao_simples": [
+    "Flávio Bolsonaro, na noite do 1º turno (4/10/2026), disse: “[A era do PT que só tá deixando como legado]… recorde de empresas fechadas”.",
+    "Mapa de Empresas: 2,8 milhões de CNPJs extintos em 2025, maior número desde 2008 (3,3 milhões), contra mais de 5 milhões abertos (saldo +2,2 milhões).",
+    "A frase omite informações que mudam a leitura do dado; por isso é classificada como 'falta contexto'."
+  ],
+  "o_que_e_verdade": [
+    "Alto número absoluto de empresas fechadas em 2025."
+  ],
+  "o_que_nao_se_sustenta": [
+    "Saldo líquido positivo de 2,2 milhões de empresas; recorde de fechamentos foi em 2008."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Empresas extintas (Mapa de Empresas)",
+      "valor": 2.8,
+      "unidade": "milhões",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Lupa",
+        "url": "https://www.agencialupa.org/checagem/2026/10/04/apos-confirmacao-do-2o-turno-lula-erra-sobre-superavit-e-flavio-sobre-reeleicao-e-endividamento/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": {
+        "rotulo": "Empresas abertas",
+        "valor": 5.0
+      }
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Lupa",
+      "veredito_original": "FALTA CONTEXTO",
+      "url": "https://www.agencialupa.org/checagem/2026/10/04/apos-confirmacao-do-2o-turno-lula-erra-sobre-superavit-e-flavio-sobre-reeleicao-e-endividamento/",
+      "data": "2026-10-04"
+    }
+  ],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Lupa",
+      "url": "https://www.agencialupa.org/checagem/2026/10/04/apos-confirmacao-do-2o-turno-lula-erra-sobre-superavit-e-flavio-sobre-reeleicao-e-endividamento/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
+  "atualizado_em": "2026-10-21"
+}

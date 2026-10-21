@@ -1,0 +1,91 @@
+{
+  "id": "tarifa-social-energia-renda",
+  "nome": "Tarifa Social de energia / Luz do Povo: gratuidade até 80 kWh e Desconto Social (referência para o simulador de renda)",
+  "tipo": "tarifa",
+  "governo": "lula-3",
+  "lado": "governo-lula-pt",
+  "norma": {
+    "nome": "MP 1.300/2025, convertida na Lei 15.235/2025 (sancionada em out/2025)",
+    "data": "2025-07-05",
+    "url": "https://www.ocafezinho.com/2025/10/09/luz-do-povo-lula-sanciona-programa-que-garante-energia-gratuita-para-familias-de-baixa-renda/amp/",
+    "vigencia": "Gratuidade desde 05/07/2025; Desconto Social (faixa 2) desde 01/01/2026"
+  },
+  "status": "em-vigor",
+  "o_que_faz_simples": [
+    "Registro de referência: o detalhamento completo (tarifas, CDE, Aneel) pertence ao tema energia. Aqui constam apenas os dados de alcance por faixa de renda.",
+    "Famílias do Cadastro Único com renda per capita até meio salário mínimo têm os primeiros 80 kWh/mês gratuitos desde 05/07/2025: 4,5 milhões de famílias com conta zerada e 17,1 milhões com direito à tarifa social (~60 milhões de pessoas, MME).",
+    "Desconto Social (faixa 2, desde 01/01/2026): famílias entre ½ e 1 salário mínimo per capita ficam isentas da CDE até 120 kWh/mês (~55 milhões de pessoas; 115 milhões no total das duas faixas).",
+    "O plano de Flávio Bolsonaro propõe reduzir a CDE mantendo a tarifa social."
+  ],
+  "quem_ganha": {
+    "descricao": "~60 milhões de pessoas (17,1 milhões de famílias) na gratuidade de 80 kWh e ~55 milhões no Desconto Social — total de ~115 milhões, segundo o governo.",
+    "pessoas": 60000000,
+    "faixa_renda": "Gratuidade: até ½ SM per capita (CadÚnico); Desconto Social: de ½ a 1 SM per capita",
+    "fonte": {
+      "nome": "O Imparcial — nova Tarifa Social de energia beneficia 60 milhões (jul/2025)",
+      "url": "https://oimparcial.com.br/noticias/2025/07/nova-tarifa-social-de-energia-beneficia-60-milhoes-de-brasileiros-com-gratuidade-para-consumo-de-ate-80-kwh/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  },
+  "quem_paga": {
+    "descricao": "Demais consumidores de energia via encargos (CDE) — detalhamento no registro do tema energia.",
+    "pessoas": null,
+    "faixa_renda": "Consumidores fora das faixas beneficiadas",
+    "fonte": {
+      "nome": "Adriano Freire — Tarifa Social de energia 2026: quem tem direito",
+      "url": "https://www.adrianofreire.com.br/blog/tarifa-social-energia-2026-quem-tem-direito",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  },
+  "custo_ou_arrecadacao": {
+    "valor": null,
+    "unidade": "R$ bilhões",
+    "periodo": null,
+    "descricao": "Custo não consta das notas de renda; ver registro do tema energia.",
+    "fonte": {
+      "nome": "O Imparcial — nova Tarifa Social de energia beneficia 60 milhões (jul/2025)",
+      "url": "https://oimparcial.com.br/noticias/2025/07/nova-tarifa-social-de-energia-beneficia-60-milhoes-de-brasileiros-com-gratuidade-para-consumo-de-ate-80-kwh/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  },
+  "regra_simulador": {
+    "tipo": "nenhuma",
+    "parametros": {}
+  },
+  "mitos": [],
+  "fontes": [
+    {
+      "nome": "O Imparcial — nova Tarifa Social de energia beneficia 60 milhões (jul/2025)",
+      "url": "https://oimparcial.com.br/noticias/2025/07/nova-tarifa-social-de-energia-beneficia-60-milhoes-de-brasileiros-com-gratuidade-para-consumo-de-ate-80-kwh/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "O Cafezinho — Luz do Povo: Lula sanciona programa (09/10/2025)",
+      "url": "https://www.ocafezinho.com/2025/10/09/luz-do-povo-lula-sanciona-programa-que-garante-energia-gratuita-para-familias-de-baixa-renda/amp/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Adriano Freire — Tarifa Social de energia 2026: quem tem direito",
+      "url": "https://www.adrianofreire.com.br/blog/tarifa-social-energia-2026-quem-tem-direito",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Exame — veja os planos de economia de Lula e Flávio Bolsonaro (12/10/2026)",
+      "url": "https://exame.com/brasil/eleicoes-2026-veja-os-planos-de-economia-de-lula-e-flavio-bolsonaro/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/13_renda_por_faixa_e_simulacoes_de_impacto.md",
+  "lacunas": [
+    "Registro de referência: custo, mecanismo tarifário e fontes primárias (Aneel/MME) ficam a cargo do registro completo do tema energia.",
+    "Número de famílias efetivamente beneficiadas em 2026 não consta das notas de renda."
+  ],
+  "atualizado_em": "2026-10-21"
+}

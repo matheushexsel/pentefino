@@ -1,0 +1,75 @@
+{
+  "id": "fala-0019",
+  "slug": "lula-fila-do-inss-chegou-a-3-milhoes",
+  "evento_id": "sabatina-jn-lula-2026-08-27",
+  "candidato": "lula",
+  "lado": "governo-lula-pt",
+  "minuto": null,
+  "frase_literal": "A fila do INSS chegou a 3 milhões e será zerada.",
+  "literal": false,
+  "tema": "direitos-sociais",
+  "veredito": "verdadeiro-mas",
+  "resumo_uma_frase": "A fila teve pico de 3,128 milhões em fevereiro de 2026 e caiu 59%, para 1,282 milhão; 'zerar em uma semana' é promessa, não fato.",
+  "explicacao_simples": [
+    "Lula, na sabatina do Jornal Nacional (27/8/2026), afirmou (em paráfrase registrada por Estadão Verifica) que a fila do INSS chegou a 3 milhões e será zerada.",
+    "A fila do INSS atingiu 3,128 milhões de pedidos em fevereiro de 2026 e caiu para 1,282 milhão (−59%); a promessa de zerar foi classificada como parcial.",
+    "O núcleo da frase está correto, mas falta uma ressalva que muda o peso do dado; por isso a classificação é 'verdadeiro, mas'."
+  ],
+  "o_que_e_verdade": [
+    "Pico de 3,128 milhões em fev/2026; fila atual ~1,3 milhão."
+  ],
+  "o_que_nao_se_sustenta": [
+    "'Zerar em uma semana' é promessa sem comprovação."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Fila do INSS (pico)",
+      "valor": 3.128,
+      "unidade": "milhões de pedidos",
+      "periodo": "fev/2026",
+      "fonte": {
+        "nome": "Estadão Verifica (via Brasilagro)",
+        "url": "https://brasilagro.com.br/conteudo/estadao-checou-a-entrevista-de-lula-no-jornal-nacional-veja-o-resultado.html",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": {
+        "rotulo": "Fila após queda de 59%",
+        "valor": 1.282
+      }
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Estadão Verifica (via Brasilagro)",
+      "veredito_original": "verdadeiro em partes",
+      "url": "https://brasilagro.com.br/conteudo/estadao-checou-a-entrevista-de-lula-no-jornal-nacional-veja-o-resultado.html",
+      "data": "2026-08-28"
+    },
+    {
+      "veiculo": "Ranking dos Políticos",
+      "veredito_original": "VERDADEIRA (fila ~1,3 mi) / PARCIAL (zerar em uma semana)",
+      "url": "https://ranking.org.br/en/articles/checagem-sabatina-jornal-nacional-2026-2",
+      "data": "2026-08-28"
+    }
+  ],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Estadão Verifica (via Brasilagro)",
+      "url": "https://brasilagro.com.br/conteudo/estadao-checou-a-entrevista-de-lula-no-jornal-nacional-veja-o-resultado.html",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Ranking dos Políticos",
+      "url": "https://ranking.org.br/en/articles/checagem-sabatina-jornal-nacional-2026-2",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
+  "atualizado_em": "2026-10-21"
+}
