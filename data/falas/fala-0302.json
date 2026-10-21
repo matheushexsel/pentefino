@@ -1,0 +1,89 @@
+{
+  "id": "fala-0302",
+  "slug": "lula-voce-mentiu-43-vezes-band",
+  "evento_id": "debate-band-2turno-2026-10-18",
+  "candidato": "lula",
+  "lado": "governo-lula-pt",
+  "minuto": null,
+  "frase_literal": "Só no caso do Vorcaro você mentiu 43 vezes.",
+  "literal": true,
+  "tema": "corrupcao",
+  "veredito": "verdadeiro-mas",
+  "resumo_uma_frase": "O número vem de levantamento do Aos Fatos (24/9) com 43 declarações enganosas; é contagem jornalística, não fato judicial.",
+  "explicacao_simples": [
+    "Lula, no debate da Band (18/10/2026), disse: “Só no caso do Vorcaro você mentiu 43 vezes”.",
+    "Ranking e Estadão: verdadeiro (levantamento Aos Fatos, 24/9); Gazeta do Paraná (19/10): sem comprovação.",
+    "O núcleo da frase está correto, mas falta uma ressalva que muda o peso do dado; por isso a classificação é 'verdadeiro, mas'."
+  ],
+  "o_que_e_verdade": [
+    "Levantamento do Aos Fatos conta 43 declarações enganosas."
+  ],
+  "o_que_nao_se_sustenta": [
+    "É contagem de uma agência, não constatação judicial."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Declarações enganosas de Flávio sobre Vorcaro (Aos Fatos)",
+      "valor": 43,
+      "unidade": "declarações",
+      "periodo": "até 24/9/2026",
+      "fonte": {
+        "nome": "Aos Fatos",
+        "url": "https://www.aosfatos.org/noticias/flavio-mentiu-ao-menos-43-vezes-sobre-envolvimento-com-vorcaro/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      }
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Ranking dos Políticos",
+      "veredito_original": "VERDADEIRO",
+      "url": "https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026",
+      "data": "2026-10-19"
+    },
+    {
+      "veiculo": "Estadão Verifica (via Polêmica Paraíba)",
+      "veredito_original": "VERDADEIRO",
+      "url": "https://www.polemicaparaiba.com.br/brasil/estadao-verifica-checa-declaracoes-de-lula-e-flavio-bolsonaro-em-debate-e-aponta-informacoes-falsas-enganosas-e-verdadeiras-confira/",
+      "data": "2026-10-19"
+    },
+    {
+      "veiculo": "Gazeta do Paraná",
+      "veredito_original": "SEM COMPROVAÇÃO (19/10)",
+      "url": "https://gazetadoparana.com.br/publico/lula-no-sbt-checagem-confirma-reajuste-do-bolsa-familia-mas-encontra-lacunas-em-acusacoes-sobre-vorcaro-e-promessas-de-seguranca",
+      "data": "2026-10-20"
+    }
+  ],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Ranking dos Políticos",
+      "url": "https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Estadão Verifica (via Polêmica Paraíba)",
+      "url": "https://www.polemicaparaiba.com.br/brasil/estadao-verifica-checa-declaracoes-de-lula-e-flavio-bolsonaro-em-debate-e-aponta-informacoes-falsas-enganosas-e-verdadeiras-confira/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Gazeta do Paraná",
+      "url": "https://gazetadoparana.com.br/publico/lula-no-sbt-checagem-confirma-reajuste-do-bolsa-familia-mas-encontra-lacunas-em-acusacoes-sobre-vorcaro-e-promessas-de-seguranca",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Aos Fatos",
+      "url": "https://www.aosfatos.org/noticias/flavio-mentiu-ao-menos-43-vezes-sobre-envolvimento-com-vorcaro/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
+  "atualizado_em": "2026-10-21"
+}

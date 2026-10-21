@@ -1,0 +1,132 @@
+{
+  "id": "sabatina-jn-lula-2026-08-27",
+  "tipo": "sabatina",
+  "nome": "Lula no Jornal Nacional (TV Globo)",
+  "data": "2026-08-27",
+  "veiculo": "TV Globo — Jornal Nacional (César Tralli e Renata Vasconcellos, ~40 min)",
+  "participantes": [
+    "lula"
+  ],
+  "url_video": null,
+  "url_transcricao": null,
+  "resumo_uma_frase": "Quatro checagens convergem: Lula errou ao negar conhecer a lobista Roberta Luchsinger, repetiu que o PIB 'só cresceu 3%' com ele e falou em 'déficit de 2,8%' herdado; acertou no PIB de 2010, nos R$ 3,5 bilhões devolvidos do INSS e no diploma universitário.",
+  "placar": {
+    "lula": {
+      "checadas": 34,
+      "por_veredito": {
+        "verdadeiro": 9,
+        "verdadeiro-mas": 6,
+        "impreciso": 4,
+        "exagerado": 2,
+        "falta-contexto": 5,
+        "insustentavel": 3,
+        "falso": 5
+      },
+      "contagem_arquivos": {
+        "falso": 6,
+        "verdadeiro-mas": 6,
+        "falta-contexto": 5,
+        "verdadeiro": 9,
+        "insustentavel": 3,
+        "exagerado": 2,
+        "impreciso": 4
+      }
+    }
+  },
+  "falas": [
+    "fala-0011",
+    "fala-0012",
+    "fala-0013",
+    "fala-0014",
+    "fala-0015",
+    "fala-0016",
+    "fala-0017",
+    "fala-0018",
+    "fala-0019",
+    "fala-0020",
+    "fala-0021",
+    "fala-0022",
+    "fala-0023",
+    "fala-0024",
+    "fala-0025",
+    "fala-0026",
+    "fala-0027",
+    "fala-0028",
+    "fala-0029",
+    "fala-0030",
+    "fala-0031",
+    "fala-0032",
+    "fala-0033",
+    "fala-0034",
+    "fala-0035",
+    "fala-0036",
+    "fala-0037",
+    "fala-0038",
+    "fala-0039",
+    "fala-0040",
+    "fala-0041",
+    "fala-0042",
+    "fala-0043",
+    "fala-0044",
+    "fala-0045"
+  ],
+  "checagens_externas": [
+    {
+      "veiculo": "Lupa",
+      "veredito_original": "9 checagens: V 3, F 2, FC 2, EX 2",
+      "url": "https://www.agencialupa.org/checagem/2026/08/27/ao-vivo-checagem-da-entrevista-de-lula-ao-jornal-nacional/",
+      "data": "2026-08-27"
+    },
+    {
+      "veiculo": "Aos Fatos",
+      "veredito_original": "11 caixas; 1 rótulo explícito FALSA",
+      "url": "https://www.aosfatos.org/noticias/checamos-entrevista-lula-globo/",
+      "data": "2026-08-27"
+    },
+    {
+      "veiculo": "Ranking dos Políticos",
+      "veredito_original": "27 alegações: V 10, parciais 7, não verificáveis 3, F 7",
+      "url": "https://ranking.org.br/en/articles/checagem-sabatina-jornal-nacional-2026-2",
+      "data": "2026-08-28"
+    },
+    {
+      "veiculo": "Estadão Verifica (via Brasilagro)",
+      "veredito_original": "16 itens: V 7, enganoso 3, impreciso 3, F 2, FC 1",
+      "url": "https://brasilagro.com.br/conteudo/estadao-checou-a-entrevista-de-lula-no-jornal-nacional-veja-o-resultado.html",
+      "data": "2026-08-28"
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Lupa",
+      "url": "https://www.agencialupa.org/checagem/2026/08/27/ao-vivo-checagem-da-entrevista-de-lula-ao-jornal-nacional/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Aos Fatos",
+      "url": "https://www.aosfatos.org/noticias/checamos-entrevista-lula-globo/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Ranking dos Políticos",
+      "url": "https://ranking.org.br/en/articles/checagem-sabatina-jornal-nacional-2026-2",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Estadão Verifica (via Brasilagro)",
+      "url": "https://brasilagro.com.br/conteudo/estadao-checou-a-entrevista-de-lula-no-jornal-nacional-veja-o-resultado.html",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
+  "atualizado_em": "2026-10-21",
+  "lacunas": [
+    "Texto original do Estadão Verifica não acessado (via Brasilagro).",
+    "Sem horário das falas dentro dos 40 minutos.",
+    "As contagens por veredito publicadas na nota (34 itens; falso 5; impreciso 4) não batem exatamente com o item a item do catálogo (35 arquivos de falas, com o item dos Correios desdobrado em dois; falso 6)."
+  ]
+}

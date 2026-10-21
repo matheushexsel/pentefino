@@ -1,0 +1,63 @@
+{
+  "id": "fala-0006",
+  "slug": "flavio-corte-de-4-2-bilhoes-nas-forcas-armadas",
+  "evento_id": "lancamentos-campanha-2026-08-16",
+  "candidato": "flavio-bolsonaro",
+  "lado": "oposicao-flavio-pl",
+  "minuto": null,
+  "frase_literal": "E o atual governo que ainda corta a verba das Forças Armadas, mais de R$ 4,2 bilhões.",
+  "literal": true,
+  "tema": "contas-publicas",
+  "veredito": "verdadeiro-mas",
+  "resumo_uma_frase": "Houve contingenciamento de R$ 4,3 bilhões na Defesa em maio de 2026, mas é bloqueio temporário dentro de um corte geral de R$ 22,1 bilhões, não corte definitivo.",
+  "explicacao_simples": [
+    "Flávio Bolsonaro, no lançamento da campanha (16/8/2026), disse: “E o atual governo que ainda corta a verba das Forças Armadas, mais de R$ 4,2 bilhões”.",
+    "Em maio de 2026 o governo contingenciou R$ 4,3 bilhões do orçamento da Defesa, dentro de um bloqueio total de R$ 22,1 bilhões; contingenciamento pode ser revertido ao longo do ano.",
+    "O núcleo da frase está correto, mas falta uma ressalva que muda o peso do dado; por isso a classificação é 'verdadeiro, mas'."
+  ],
+  "o_que_e_verdade": [
+    "Contingenciamento de R$ 4,3 bilhões na Defesa em maio de 2026."
+  ],
+  "o_que_nao_se_sustenta": [
+    "Trata-se de bloqueio temporário dentro de um corte geral de R$ 22,1 bilhões, não de um corte definitivo dirigido às Forças Armadas."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Contingenciamento na Defesa",
+      "valor": 4.3,
+      "unidade": "R$ bilhões",
+      "periodo": "mai/2026",
+      "fonte": {
+        "nome": "Lupa",
+        "url": "https://www.agencialupa.org/noticias/2026/08/17/em-pontape-da-campanha-flavio-e-lula-cometem-erros-sobre-desempenho-de-gestoes-passadas/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": {
+        "rotulo": "Bloqueio total do Orçamento",
+        "valor": 22.1
+      }
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Lupa",
+      "veredito_original": "VERDADEIRO",
+      "url": "https://www.agencialupa.org/noticias/2026/08/17/em-pontape-da-campanha-flavio-e-lula-cometem-erros-sobre-desempenho-de-gestoes-passadas/",
+      "data": "2026-08-17"
+    }
+  ],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Lupa",
+      "url": "https://www.agencialupa.org/noticias/2026/08/17/em-pontape-da-campanha-flavio-e-lula-cometem-erros-sobre-desempenho-de-gestoes-passadas/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
+  "atualizado_em": "2026-10-21"
+}

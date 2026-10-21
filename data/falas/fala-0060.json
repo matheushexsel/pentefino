@@ -1,0 +1,75 @@
+{
+  "id": "fala-0060",
+  "slug": "flavio-14-por-cento-maior-juro-real-do-mundo",
+  "evento_id": "sabatina-jn-flavio-2026-08-28",
+  "candidato": "flavio-bolsonaro",
+  "lado": "oposicao-flavio-pl",
+  "minuto": null,
+  "frase_literal": "A taxa de juro oficial, que é a Selic, vai lá para a lua. 14% é o maior juro real do mundo.",
+  "literal": true,
+  "tema": "economia",
+  "veredito": "verdadeiro-mas",
+  "resumo_uma_frase": "O Brasil tinha o maior juro real do mundo (9,67%), mas 14% é a Selic nominal, não o juro real.",
+  "explicacao_simples": [
+    "Flávio Bolsonaro, na sabatina do Jornal Nacional (28/8/2026), disse: “A taxa de juro oficial, que é a Selic, vai lá para a lua. 14% é o maior juro real do mundo”.",
+    "O juro real brasileiro era de 9,67%, primeiro no ranking mundial; Flávio citou a Selic nominal de 14,25% como se fosse o juro real.",
+    "O núcleo da frase está correto, mas falta uma ressalva que muda o peso do dado; por isso a classificação é 'verdadeiro, mas'."
+  ],
+  "o_que_e_verdade": [
+    "Maior juro real do mundo: 9,67%."
+  ],
+  "o_que_nao_se_sustenta": [
+    "14% é a taxa nominal (Selic), não o juro real."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Juro real do Brasil",
+      "valor": 9.67,
+      "unidade": "% ao ano",
+      "periodo": "ago/2026",
+      "fonte": {
+        "nome": "Lupa",
+        "url": "https://www.agencialupa.org/checagem/2026/08/28/ao-vivo-checagem-da-entrevista-de-flavio-bolsonaro-ao-jornal-nacional/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": {
+        "rotulo": "Selic nominal",
+        "valor": 14.25
+      }
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Lupa",
+      "veredito_original": "VERDADEIRO",
+      "url": "https://www.agencialupa.org/checagem/2026/08/28/ao-vivo-checagem-da-entrevista-de-flavio-bolsonaro-ao-jornal-nacional/",
+      "data": "2026-08-28"
+    },
+    {
+      "veiculo": "Ranking dos Políticos",
+      "veredito_original": "VERDADEIRA",
+      "url": "https://ranking.org.br/en/articles/veja-o-que-e-fato-e-o-que-e-fake-na-sabatina-de-flavio-bolsonaro-no-jornal-nacional",
+      "data": "2026-08-29"
+    }
+  ],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Lupa",
+      "url": "https://www.agencialupa.org/checagem/2026/08/28/ao-vivo-checagem-da-entrevista-de-flavio-bolsonaro-ao-jornal-nacional/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Ranking dos Políticos",
+      "url": "https://ranking.org.br/en/articles/veja-o-que-e-fato-e-o-que-e-fake-na-sabatina-de-flavio-bolsonaro-no-jornal-nacional",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
+  "atualizado_em": "2026-10-21"
+}

@@ -1,0 +1,98 @@
+{
+  "id": "fala-0164",
+  "slug": "lula-peguei-um-deficit-de-2-8-globo",
+  "evento_id": "sabatina-globo-lula-2026-10-15",
+  "candidato": "lula",
+  "lado": "governo-lula-pt",
+  "minuto": null,
+  "frase_literal": "Eu peguei um déficit de 2,8%.",
+  "literal": true,
+  "tema": "contas-publicas",
+  "veredito": "falso",
+  "resumo_uma_frase": "Como herança de 2022 a frase é falsa: houve superávit de 0,5% do PIB; o déficit de 2023 (2,1%–2,4%) já é do atual governo.",
+  "explicacao_simples": [
+    "Lula, na entrevista à TV Globo (15/10/2026), disse: “Eu peguei um déficit de 2,8%”.",
+    "Lupa e Ranking: falso (2022 teve superávit de 0,5% do PIB); o Aos Fatos chamou de 'fato' citando o TCU (déficit de 2,4% do PIB em 2023, R$ 264,5 bilhões), com resumo em 2,8% e corpo em 2,4%.",
+    "O dado central não corresponde aos registros disponíveis; por isso a frase é classificada como falsa."
+  ],
+  "o_que_e_verdade": [
+    "Em 2023 houve déficit primário de 2,1%–2,4% do PIB."
+  ],
+  "o_que_nao_se_sustenta": [
+    "Não foi herança: 2022 fechou com superávit de 0,5% do PIB."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Resultado primário de 2022",
+      "valor": 0.5,
+      "unidade": "% do PIB (superávit)",
+      "periodo": "2022",
+      "fonte": {
+        "nome": "Lupa",
+        "url": "https://www.agencialupa.org/checagem/2026/10/15/ao-vivo-checagem-da-entrevista-de-lula-na-tv-globo/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      }
+    },
+    {
+      "rotulo": "Déficit primário de 2023 (TCU)",
+      "valor": 2.4,
+      "unidade": "% do PIB",
+      "periodo": "2023",
+      "fonte": {
+        "nome": "Aos Fatos",
+        "url": "https://www.aosfatos.org/noticias/checamos-lula-globo-segundo-turno/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      }
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Lupa",
+      "veredito_original": "FALSO",
+      "url": "https://www.agencialupa.org/checagem/2026/10/15/ao-vivo-checagem-da-entrevista-de-lula-na-tv-globo/",
+      "data": "2026-10-15"
+    },
+    {
+      "veiculo": "Aos Fatos",
+      "veredito_original": "fato (citando 2023)",
+      "url": "https://www.aosfatos.org/noticias/checamos-lula-globo-segundo-turno/",
+      "data": "2026-10-15"
+    },
+    {
+      "veiculo": "Ranking dos Políticos",
+      "veredito_original": "FALSO",
+      "url": "https://ranking.org.br/en/articles/checagem-entrevista-lula-jornal-nacional-2-turno-2026",
+      "data": "2026-10-15"
+    }
+  ],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Lupa",
+      "url": "https://www.agencialupa.org/checagem/2026/10/15/ao-vivo-checagem-da-entrevista-de-lula-na-tv-globo/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Aos Fatos",
+      "url": "https://www.aosfatos.org/noticias/checamos-lula-globo-segundo-turno/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Ranking dos Políticos",
+      "url": "https://ranking.org.br/en/articles/checagem-entrevista-lula-jornal-nacional-2-turno-2026",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
+  "atualizado_em": "2026-10-21",
+  "lacunas": [
+    "Veredito depende da leitura: falso como herança de 2022; verdadeiro-mas se lido como resultado de 2023."
+  ]
+}

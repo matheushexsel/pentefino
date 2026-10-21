@@ -1,0 +1,93 @@
+{
+  "id": "fala-0301",
+  "slug": "lula-flavio-comprou-casa-de-10-milhoes-com-dinheiro-do-brb",
+  "evento_id": "debate-band-2turno-2026-10-18",
+  "candidato": "lula",
+  "lado": "governo-lula-pt",
+  "minuto": null,
+  "frase_literal": "Flávio comprou uma casa de R$ 10 milhões e pagou parte com dinheiro do BRB.",
+  "literal": false,
+  "tema": "corrupcao",
+  "veredito": "exagerado",
+  "resumo_uma_frase": "A casa custou R$ 5,97–6,2 milhões, com financiamento de R$ 3,1 milhões do BRB; os R$ 10 milhões não constam dos registros.",
+  "explicacao_simples": [
+    "Lula, no debate da Band (18/10/2026), afirmou (em paráfrase registrada por Ranking dos Políticos) que flávio comprou uma casa de R$ 10 milhões e pagou parte com dinheiro do BRB.",
+    "Ranking: impreciso (R$ 5,97 milhões); Estadão: exagerado (R$ 6,2 milhões declarados); Aos Fatos: impreciso (R$ 6 milhões; R$ 3,1 milhões do BRB).",
+    "O sentido geral tem base, mas o número ou a dimensão foram inflados; por isso a classificação é 'exagerado'."
+  ],
+  "o_que_e_verdade": [
+    "Compra em 2021 com financiamento de R$ 3,1 milhões do BRB."
+  ],
+  "o_que_nao_se_sustenta": [
+    "O valor foi ~R$ 6 milhões, não R$ 10 milhões."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Valor da casa no Lago Sul (declarado)",
+      "valor": 6.2,
+      "unidade": "R$ milhões",
+      "periodo": "2021",
+      "fonte": {
+        "nome": "Estadão Verifica (via Polêmica Paraíba)",
+        "url": "https://www.polemicaparaiba.com.br/brasil/estadao-verifica-checa-declaracoes-de-lula-e-flavio-bolsonaro-em-debate-e-aponta-informacoes-falsas-enganosas-e-verdadeiras-confira/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": {
+        "rotulo": "Financiamento do BRB",
+        "valor": 3.1
+      }
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Ranking dos Políticos",
+      "veredito_original": "IMPRECISO",
+      "url": "https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026",
+      "data": "2026-10-19"
+    },
+    {
+      "veiculo": "Estadão Verifica (via Polêmica Paraíba)",
+      "veredito_original": "EXAGERADO",
+      "url": "https://www.polemicaparaiba.com.br/brasil/estadao-verifica-checa-declaracoes-de-lula-e-flavio-bolsonaro-em-debate-e-aponta-informacoes-falsas-enganosas-e-verdadeiras-confira/",
+      "data": "2026-10-19"
+    },
+    {
+      "veiculo": "Aos Fatos",
+      "veredito_original": "impreciso",
+      "url": "https://www.aosfatos.org/noticias/checamos-lula-flavio-bolsonaro-debate-band/",
+      "data": "2026-10-18"
+    }
+  ],
+  "checagem_slug": "mansao-de-flavio-bolsonaro",
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Ranking dos Políticos",
+      "url": "https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Estadão Verifica (via Polêmica Paraíba)",
+      "url": "https://www.polemicaparaiba.com.br/brasil/estadao-verifica-checa-declaracoes-de-lula-e-flavio-bolsonaro-em-debate-e-aponta-informacoes-falsas-enganosas-e-verdadeiras-confira/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Aos Fatos",
+      "url": "https://www.aosfatos.org/noticias/checamos-lula-flavio-bolsonaro-debate-band/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Metrópoles",
+      "url": "https://www.metropoles.com/colunas/grande-angular/flavio-bolsonaro-quita-antecipadamente-financiamento-de-mansao-com-brb",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
+  "atualizado_em": "2026-10-21"
+}

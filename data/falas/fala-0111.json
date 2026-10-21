@@ -1,0 +1,63 @@
+{
+  "id": "fala-0111",
+  "slug": "daniella-marques-recorde-de-taxa-de-juros",
+  "evento_id": "live-flavio-2026-10-01",
+  "candidato": "daniella-marques",
+  "lado": "oposicao-flavio-pl",
+  "minuto": null,
+  "frase_literal": "Recorde de taxa de juros.",
+  "literal": false,
+  "tema": "economia",
+  "veredito": "falta-contexto",
+  "resumo_uma_frase": "A Selic de 15% (jun/2025) foi a maior desde 2006, mas o recorde histórico é 45% (mar/1999); em set/2026 estava em 13,75%.",
+  "explicacao_simples": [
+    "Daniella Marques, na live de 1/10/2026, afirmou (em paráfrase registrada por Lupa) que recorde de taxa de juros.",
+    "A Lupa lembrou que 15% em jun/2025 é o maior desde 2006, mas o recorde é 45% em mar/1999; em set/2026 a Selic era 13,75%.",
+    "A frase omite informações que mudam a leitura do dado; por isso é classificada como 'falta contexto'."
+  ],
+  "o_que_e_verdade": [
+    "Selic de 15% em 2025, maior desde 2006."
+  ],
+  "o_que_nao_se_sustenta": [
+    "O recorde histórico é 45% (1999)."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Selic",
+      "valor": 15,
+      "unidade": "% ao ano",
+      "periodo": "jun/2025",
+      "fonte": {
+        "nome": "Lupa",
+        "url": "https://www.agencialupa.org/checagem/2026/10/01/ao-vivo-checagem-da-live-de-flavio-bolsonaro/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": {
+        "rotulo": "Recorde em mar/1999",
+        "valor": 45
+      }
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Lupa",
+      "veredito_original": "FALTA CONTEXTO",
+      "url": "https://www.agencialupa.org/checagem/2026/10/01/ao-vivo-checagem-da-live-de-flavio-bolsonaro/",
+      "data": "2026-10-01"
+    }
+  ],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Lupa",
+      "url": "https://www.agencialupa.org/checagem/2026/10/01/ao-vivo-checagem-da-live-de-flavio-bolsonaro/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
+  "atualizado_em": "2026-10-21"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "fala-0157",
+  "slug": "lula-crescemos-16-com-alemanha-13-com-vietna",
+  "evento_id": "sabatina-globo-lula-2026-10-15",
+  "candidato": "lula",
+  "lado": "governo-lula-pt",
+  "minuto": null,
+  "frase_literal": "[Crescemos] 16% com a Alemanha, 13% com o Vietnã.",
+  "literal": true,
+  "tema": "relacoes-exteriores",
+  "veredito": "verdadeiro",
+  "resumo_uma_frase": "As exportações cresceram 15,8% para a Alemanha e 14,1% para o Vietnã.",
+  "explicacao_simples": [
+    "Lula, na entrevista à TV Globo (15/10/2026), disse: “[Crescemos] 16% com a Alemanha, 13% com o Vietnã”.",
+    "A Lupa confirmou: Alemanha +15,8%; Vietnã +14,1%.",
+    "Os dados disponíveis confirmam a afirmação, por isso ela é classificada como verdadeira."
+  ],
+  "o_que_e_verdade": [
+    "Alemanha +15,8%; Vietnã +14,1%."
+  ],
+  "o_que_nao_se_sustenta": [],
+  "numeros": [
+    {
+      "rotulo": "Variação das exportações à Alemanha",
+      "valor": 15.8,
+      "unidade": "%",
+      "periodo": "2026",
+      "fonte": {
+        "nome": "Lupa",
+        "url": "https://www.agencialupa.org/checagem/2026/10/15/ao-vivo-checagem-da-entrevista-de-lula-na-tv-globo/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": {
+        "rotulo": "Vietnã",
+        "valor": 14.1
+      }
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Lupa",
+      "veredito_original": "VERDADEIRO",
+      "url": "https://www.agencialupa.org/checagem/2026/10/15/ao-vivo-checagem-da-entrevista-de-lula-na-tv-globo/",
+      "data": "2026-10-15"
+    },
+    {
+      "veiculo": "Aos Fatos",
+      "veredito_original": "impreciso",
+      "url": "https://www.aosfatos.org/noticias/checamos-lula-globo-segundo-turno/",
+      "data": "2026-10-15"
+    }
+  ],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Lupa",
+      "url": "https://www.agencialupa.org/checagem/2026/10/15/ao-vivo-checagem-da-entrevista-de-lula-na-tv-globo/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Aos Fatos",
+      "url": "https://www.aosfatos.org/noticias/checamos-lula-globo-segundo-turno/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
+  "atualizado_em": "2026-10-21"
+}

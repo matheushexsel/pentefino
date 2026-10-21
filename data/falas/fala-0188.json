@@ -1,0 +1,58 @@
+{
+  "id": "fala-0188",
+  "slug": "flavio-lula-nao-conseguiu-explorar-a-margem-equatorial",
+  "evento_id": "sabatina-globo-flavio-2026-10-16",
+  "candidato": "flavio-bolsonaro",
+  "lado": "oposicao-flavio-pl",
+  "minuto": null,
+  "frase_literal": "E o presidente Lula não conseguiu iniciar a exploração do petróleo na margem equatorial.",
+  "literal": true,
+  "tema": "energia",
+  "veredito": "falta-contexto",
+  "resumo_uma_frase": "O Ibama negou licença em 2023, autorizou a perfuração em out/2025 e a Petrobras perfura o poço Morpho desde então; produção prevista para 2033.",
+  "explicacao_simples": [
+    "Flávio Bolsonaro, na entrevista à TV Globo (16/10/2026), disse: “E o presidente Lula não conseguiu iniciar a exploração do petróleo na margem equatorial”.",
+    "Lupa: Ibama negou em 2023 e autorizou poço em out/2025, produção prevista para 2033; Ranking: a Petrobras perfura o poço Morpho desde out/2025.",
+    "A frase omite informações que mudam a leitura do dado; por isso é classificada como 'falta contexto'."
+  ],
+  "o_que_e_verdade": [
+    "A produção comercial não começou."
+  ],
+  "o_que_nao_se_sustenta": [
+    "A perfuração exploratória foi autorizada e está em curso desde out/2025."
+  ],
+  "numeros": [],
+  "base_legal": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Lupa",
+      "veredito_original": "FALTA CONTEXTO",
+      "url": "https://www.agencialupa.org/checagem/2026/10/16/ao-vivo-checagem-da-entrevista-de-flavio-bolsonaro-na-globo/",
+      "data": "2026-10-16"
+    },
+    {
+      "veiculo": "Ranking dos Políticos",
+      "veredito_original": "FALSO",
+      "url": "https://ranking.org.br/en/articles/checagem-entrevista-flavio-bolsonaro-jornal-nacional-2-turno-2026",
+      "data": "2026-10-16"
+    }
+  ],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Lupa",
+      "url": "https://www.agencialupa.org/checagem/2026/10/16/ao-vivo-checagem-da-entrevista-de-flavio-bolsonaro-na-globo/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Ranking dos Políticos",
+      "url": "https://ranking.org.br/en/articles/checagem-entrevista-flavio-bolsonaro-jornal-nacional-2-turno-2026",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
+  "atualizado_em": "2026-10-21"
+}

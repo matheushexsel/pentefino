@@ -1,0 +1,71 @@
+{
+  "id": "fala-0289",
+  "slug": "lula-bolsonaro-nunca-ajustou-o-minimo-acima-da-inflacao",
+  "evento_id": "debate-band-2turno-2026-10-18",
+  "candidato": "lula",
+  "lado": "governo-lula-pt",
+  "minuto": null,
+  "frase_literal": "Bolsonaro nunca ajustou o mínimo acima da inflação.",
+  "literal": false,
+  "tema": "emprego-renda",
+  "veredito": "impreciso",
+  "resumo_uma_frase": "Em 2019 o mínimo teve ganho real de 1,14%, pela regra herdada.",
+  "explicacao_simples": [
+    "Lula, no debate da Band (18/10/2026), afirmou (em paráfrase registrada por Ranking dos Políticos) que bolsonaro nunca ajustou o mínimo acima da inflação.",
+    "Ranking: impreciso; Estadão: enganoso (2019: +1,14% real).",
+    "Há um erro de detalhe (número, data ou instituição) que não muda o sentido geral; por isso a classificação é 'impreciso'."
+  ],
+  "o_que_e_verdade": [
+    "Nos demais anos não houve ganho real."
+  ],
+  "o_que_nao_se_sustenta": [
+    "2019 teve ganho real de 1,14%."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Ganho real do salário mínimo",
+      "valor": 1.14,
+      "unidade": "%",
+      "periodo": "2019",
+      "fonte": {
+        "nome": "Estadão Verifica (via Polêmica Paraíba)",
+        "url": "https://www.polemicaparaiba.com.br/brasil/estadao-verifica-checa-declaracoes-de-lula-e-flavio-bolsonaro-em-debate-e-aponta-informacoes-falsas-enganosas-e-verdadeiras-confira/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      }
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Ranking dos Políticos",
+      "veredito_original": "IMPRECISO",
+      "url": "https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026",
+      "data": "2026-10-19"
+    },
+    {
+      "veiculo": "Estadão Verifica (via Polêmica Paraíba)",
+      "veredito_original": "ENGANOSO",
+      "url": "https://www.polemicaparaiba.com.br/brasil/estadao-verifica-checa-declaracoes-de-lula-e-flavio-bolsonaro-em-debate-e-aponta-informacoes-falsas-enganosas-e-verdadeiras-confira/",
+      "data": "2026-10-19"
+    }
+  ],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Ranking dos Políticos",
+      "url": "https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Estadão Verifica (via Polêmica Paraíba)",
+      "url": "https://www.polemicaparaiba.com.br/brasil/estadao-verifica-checa-declaracoes-de-lula-e-flavio-bolsonaro-em-debate-e-aponta-informacoes-falsas-enganosas-e-verdadeiras-confira/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
+  "atualizado_em": "2026-10-21"
+}

@@ -1,0 +1,57 @@
+{
+  "id": "fala-0078",
+  "slug": "lula-so-cresceu-acima-de-3-quando-voltei-sbt",
+  "evento_id": "sabatina-sbt-lula-2026-09-10",
+  "candidato": "lula",
+  "lado": "governo-lula-pt",
+  "minuto": null,
+  "frase_literal": "O país só cresceu acima de 3% agora que eu voltei.",
+  "literal": false,
+  "tema": "economia",
+  "veredito": "falso",
+  "resumo_uma_frase": "O PIB cresceu 4,8% em 2021 e 3,0% em 2022, antes do atual governo.",
+  "explicacao_simples": [
+    "Lula, na sabatina do SBT Brasil (10/9/2026), afirmou (em paráfrase registrada por Ranking dos Políticos) que o país só cresceu acima de 3% agora que eu voltei.",
+    "O Ranking lembrou os crescimentos de 2021 (4,8%) e 2022 (3,0%).",
+    "O dado central não corresponde aos registros disponíveis; por isso a frase é classificada como falsa."
+  ],
+  "o_que_e_verdade": [],
+  "o_que_nao_se_sustenta": [
+    "Crescimento acima de 3% em 2021 e 2022."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Crescimento do PIB em 2021",
+      "valor": 4.8,
+      "unidade": "%",
+      "periodo": "2021",
+      "fonte": {
+        "nome": "Ranking dos Políticos",
+        "url": "https://ranking.org.br/en/articles/checagem-sabatina-lula-sbt-2026",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      }
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Ranking dos Políticos",
+      "veredito_original": "FALSA",
+      "url": "https://ranking.org.br/en/articles/checagem-sabatina-lula-sbt-2026",
+      "data": "2026-09-10"
+    }
+  ],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Ranking dos Políticos",
+      "url": "https://ranking.org.br/en/articles/checagem-sabatina-lula-sbt-2026",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
+  "atualizado_em": "2026-10-21"
+}

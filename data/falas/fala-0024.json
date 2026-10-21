@@ -1,0 +1,71 @@
+{
+  "id": "fala-0024",
+  "slug": "lula-pais-devia-30-bilhoes-de-dolares-ao-fmi-jn",
+  "evento_id": "sabatina-jn-lula-2026-08-27",
+  "candidato": "lula",
+  "lado": "governo-lula-pt",
+  "minuto": null,
+  "frase_literal": "Esse país aqui devia 30 bilhões de dólares [ao FMI].",
+  "literal": true,
+  "tema": "contas-publicas",
+  "veredito": "verdadeiro-mas",
+  "resumo_uma_frase": "A dívida de US$ 30 bilhões com o FMI vinha de empréstimo de 2002 (governo FHC, com aval de Lula) e foi quitada em 2005; a parcela paga antecipadamente em 2005 foi de US$ 15,5 bilhões.",
+  "explicacao_simples": [
+    "Lula, na sabatina do Jornal Nacional (27/8/2026), disse: “Esse país aqui devia 30 bilhões de dólares [ao FMI]”.",
+    "O empréstimo foi contratado em 2002, no governo FHC, com aval do então candidato Lula; a quitação antecipada em dezembro de 2005 foi de US$ 15,5 bilhões, restante do total de cerca de US$ 30 bilhões.",
+    "O núcleo da frase está correto, mas falta uma ressalva que muda o peso do dado; por isso a classificação é 'verdadeiro, mas'."
+  ],
+  "o_que_e_verdade": [
+    "A dívida com o FMI chegou a cerca de US$ 30 bilhões e foi quitada em 2005."
+  ],
+  "o_que_nao_se_sustenta": [
+    "O empréstimo foi do governo FHC, com aval de Lula; a quitação antecipada de 2005 foi de US$ 15,5 bilhões."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Quitação antecipada ao FMI",
+      "valor": 15.5,
+      "unidade": "US$ bilhões",
+      "periodo": "dez/2005",
+      "fonte": {
+        "nome": "Ranking dos Políticos",
+        "url": "https://ranking.org.br/en/articles/checagem-sabatina-jornal-nacional-2026-2",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      }
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Aos Fatos",
+      "veredito_original": "verdadeira com omissão",
+      "url": "https://www.aosfatos.org/noticias/checamos-entrevista-lula-globo/",
+      "data": "2026-08-27"
+    },
+    {
+      "veiculo": "Ranking dos Políticos",
+      "veredito_original": "PARCIAL",
+      "url": "https://ranking.org.br/en/articles/checagem-sabatina-jornal-nacional-2026-2",
+      "data": "2026-08-28"
+    }
+  ],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Aos Fatos",
+      "url": "https://www.aosfatos.org/noticias/checamos-entrevista-lula-globo/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Ranking dos Políticos",
+      "url": "https://ranking.org.br/en/articles/checagem-sabatina-jornal-nacional-2026-2",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
+  "atualizado_em": "2026-10-21"
+}

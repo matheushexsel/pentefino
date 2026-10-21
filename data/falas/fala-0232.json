@@ -1,0 +1,63 @@
+{
+  "id": "fala-0232",
+  "slug": "flavio-esquerda-argentina-deixou-gente-na-miseria",
+  "evento_id": "debate-band-2turno-2026-10-18",
+  "candidato": "flavio-bolsonaro",
+  "lado": "oposicao-flavio-pl",
+  "minuto": null,
+  "frase_literal": "O governo de esquerda [da Argentina] deixou tanta gente na miséria que o governo de direita tem que ir lá consertar.",
+  "literal": false,
+  "tema": "relacoes-exteriores",
+  "veredito": "falta-contexto",
+  "resumo_uma_frase": "A pobreza argentina era 41,7% no fim de Fernández, subiu a 52,9% no 1º semestre de 2024 (Milei), caiu a 28,2% no 2º semestre de 2025 e voltou a 32,3% no 1º semestre de 2026.",
+  "explicacao_simples": [
+    "Flávio Bolsonaro, no debate da Band (18/10/2026), afirmou (em paráfrase registrada por Lupa) que o governo de esquerda [da Argentina] deixou tanta gente na miséria que o governo de direita tem que ir lá consertar.",
+    "Lupa: falta contexto (Indec: 41,7% no fim de Fernández; 52,9% 1º sem/2024; 28,2% 2º sem/2025; 32,3% 1º sem/2026).",
+    "A frase omite informações que mudam a leitura do dado; por isso é classificada como 'falta contexto'."
+  ],
+  "o_que_e_verdade": [
+    "A pobreza era alta no fim do governo Fernández (41,7%)."
+  ],
+  "o_que_nao_se_sustenta": [
+    "Ela subiu no início do governo Milei e voltou a crescer em 2026."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Pobreza na Argentina (Indec)",
+      "valor": 32.3,
+      "unidade": "% da população",
+      "periodo": "1º sem/2026",
+      "fonte": {
+        "nome": "Lupa",
+        "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": {
+        "rotulo": "Fim do governo Fernández",
+        "valor": 41.7
+      }
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Lupa",
+      "veredito_original": "FALTA CONTEXTO",
+      "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+      "data": "2026-10-18"
+    }
+  ],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Lupa",
+      "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
+  "atualizado_em": "2026-10-21"
+}

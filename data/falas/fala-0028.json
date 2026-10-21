@@ -1,0 +1,112 @@
+{
+  "id": "fala-0028",
+  "slug": "lula-ja-acabei-com-a-fome-duas-vezes-jn",
+  "evento_id": "sabatina-jn-lula-2026-08-27",
+  "candidato": "lula",
+  "lado": "governo-lula-pt",
+  "minuto": null,
+  "frase_literal": "Eu já acabei com a fome duas vezes.",
+  "literal": true,
+  "tema": "pobreza-programas-sociais",
+  "veredito": "exagerado",
+  "resumo_uma_frase": "O Brasil saiu do Mapa da Fome em 2014 (governo Dilma) e em 2025, mas sair do mapa não significa acabar com a fome: 1,2 milhão seguem em insegurança grave e 6,48 milhões passavam fome em 2024.",
+  "explicacao_simples": [
+    "Lula, na sabatina do Jornal Nacional (27/8/2026), disse: “Eu já acabei com a fome duas vezes”.",
+    "As saídas do Mapa da Fome ocorreram em 2014 (governo Dilma) e em 2025; o SOFI 2025 aponta menos de 2,5% de subalimentados, mas 1,2 milhão em insegurança grave e 44,8 milhões (21,1%) sem dieta saudável; o IBGE contou 8,47 milhões (2023) e 6,48 milhões (2024) com fome.",
+    "O sentido geral tem base, mas o número ou a dimensão foram inflados; por isso a classificação é 'exagerado'."
+  ],
+  "o_que_e_verdade": [
+    "O Brasil saiu do Mapa da Fome da FAO duas vezes (2014 e 2025)."
+  ],
+  "o_que_nao_se_sustenta": [
+    "A saída de 2014 foi no governo Dilma.",
+    "Sair do mapa não é 'acabar com a fome': milhões seguem em insegurança alimentar grave."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Pessoas com fome (IBGE)",
+      "valor": 6.48,
+      "unidade": "milhões",
+      "periodo": "2024",
+      "fonte": {
+        "nome": "Lupa",
+        "url": "https://www.agencialupa.org/checagem/2026/08/27/ao-vivo-checagem-da-entrevista-de-lula-ao-jornal-nacional/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": {
+        "rotulo": "Em 2023",
+        "valor": 8.47
+      }
+    },
+    {
+      "rotulo": "Sem acesso a dieta saudável (SOFI 2025)",
+      "valor": 44.8,
+      "unidade": "milhões",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Lupa",
+        "url": "https://www.agencialupa.org/checagem/2026/08/27/ao-vivo-checagem-da-entrevista-de-lula-ao-jornal-nacional/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      }
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Lupa",
+      "veredito_original": "EXAGERADO",
+      "url": "https://www.agencialupa.org/checagem/2026/08/27/ao-vivo-checagem-da-entrevista-de-lula-ao-jornal-nacional/",
+      "data": "2026-08-27"
+    },
+    {
+      "veiculo": "Aos Fatos",
+      "veredito_original": "exagerada",
+      "url": "https://www.aosfatos.org/noticias/checamos-entrevista-lula-globo/",
+      "data": "2026-08-27"
+    },
+    {
+      "veiculo": "Ranking dos Políticos",
+      "veredito_original": "VERDADEIRA",
+      "url": "https://ranking.org.br/en/articles/checagem-sabatina-jornal-nacional-2026-2",
+      "data": "2026-08-28"
+    },
+    {
+      "veiculo": "Estadão Verifica (via Brasilagro)",
+      "veredito_original": "VERDADEIRO",
+      "url": "https://brasilagro.com.br/conteudo/estadao-checou-a-entrevista-de-lula-no-jornal-nacional-veja-o-resultado.html",
+      "data": "2026-08-28"
+    }
+  ],
+  "checagem_slug": "brasil-saiu-do-mapa-da-fome",
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Lupa",
+      "url": "https://www.agencialupa.org/checagem/2026/08/27/ao-vivo-checagem-da-entrevista-de-lula-ao-jornal-nacional/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Aos Fatos",
+      "url": "https://www.aosfatos.org/noticias/checamos-entrevista-lula-globo/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Ranking dos Políticos",
+      "url": "https://ranking.org.br/en/articles/checagem-sabatina-jornal-nacional-2026-2",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Estadão Verifica (via Brasilagro)",
+      "url": "https://brasilagro.com.br/conteudo/estadao-checou-a-entrevista-de-lula-no-jornal-nacional-veja-o-resultado.html",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
+  "atualizado_em": "2026-10-21"
+}

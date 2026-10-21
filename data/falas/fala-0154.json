@@ -1,0 +1,71 @@
+{
+  "id": "fala-0154",
+  "slug": "lula-aprovamos-99-de-tudo",
+  "evento_id": "sabatina-globo-lula-2026-10-15",
+  "candidato": "lula",
+  "lado": "governo-lula-pt",
+  "minuto": null,
+  "frase_literal": "E aprovamos 99% de tudo que a gente queria aprovar, Renata.",
+  "literal": true,
+  "tema": "eleicao-2026",
+  "veredito": "exagerado",
+  "resumo_uma_frase": "O Senado rejeitou Jorge Messias para o STF (primeira vez desde 1894), vetos foram derrubados e só 38 de 192 MPs viraram lei (~23%).",
+  "explicacao_simples": [
+    "Lula, na entrevista à TV Globo (15/10/2026), disse: “E aprovamos 99% de tudo que a gente queria aprovar, Renata”.",
+    "Aos Fatos: Messias rejeitado, vetos derrubados, 38 de 192 MPs convertidas (~23%); Ranking: 22 de 59 projetos aprovados em 2023–24 (42%).",
+    "O sentido geral tem base, mas o número ou a dimensão foram inflados; por isso a classificação é 'exagerado'."
+  ],
+  "o_que_e_verdade": [
+    "O governo aprovou pautas importantes no Congresso."
+  ],
+  "o_que_nao_se_sustenta": [
+    "Rejeição de indicado ao STF, vetos derrubados e baixa conversão de MPs contradizem os 99%."
+  ],
+  "numeros": [
+    {
+      "rotulo": "MPs convertidas em lei",
+      "valor": 23,
+      "unidade": "% (38 de 192)",
+      "periodo": "2023–2026",
+      "fonte": {
+        "nome": "Aos Fatos",
+        "url": "https://www.aosfatos.org/noticias/checamos-lula-globo-segundo-turno/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      }
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Aos Fatos",
+      "veredito_original": "exagerou",
+      "url": "https://www.aosfatos.org/noticias/checamos-lula-globo-segundo-turno/",
+      "data": "2026-10-15"
+    },
+    {
+      "veiculo": "Ranking dos Políticos",
+      "veredito_original": "FALSO",
+      "url": "https://ranking.org.br/en/articles/checagem-entrevista-lula-jornal-nacional-2-turno-2026",
+      "data": "2026-10-15"
+    }
+  ],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Aos Fatos",
+      "url": "https://www.aosfatos.org/noticias/checamos-lula-globo-segundo-turno/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Ranking dos Políticos",
+      "url": "https://ranking.org.br/en/articles/checagem-entrevista-lula-jornal-nacional-2-turno-2026",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
+  "atualizado_em": "2026-10-21"
+}

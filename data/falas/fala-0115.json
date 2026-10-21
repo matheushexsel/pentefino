@@ -1,0 +1,73 @@
+{
+  "id": "fala-0115",
+  "slug": "lula-so-cresceu-acima-de-3-quando-voltei-flow",
+  "evento_id": "podcast-flow-lula-2026-10-01",
+  "candidato": "lula",
+  "lado": "governo-lula-pt",
+  "minuto": null,
+  "frase_literal": "O Brasil só cresceu acima de 3% quando eu voltei. / Você sabe, Igor, que o Brasil só cresceu acima de 3%, depois que eu deixei a Presidência, quando eu voltei.",
+  "literal": true,
+  "tema": "economia",
+  "veredito": "falso",
+  "resumo_uma_frase": "O PIB cresceu 4% em 2011, 3% em 2013, 4,8% em 2021 e 3% em 2022, antes do retorno de Lula; a Lupa desmentiu a frase pela 4ª vez.",
+  "explicacao_simples": [
+    "Lula, no Flow Podcast (1/10/2026), disse: “O Brasil só cresceu acima de 3% quando eu voltei. / Você sabe, Igor, que o Brasil só cresceu acima de 3%, depois que eu deixei a Presidência, quando eu voltei”.",
+    "O Aos Fatos lista 4% em 2011, 4,8% em 2021 e 3% em 2013 e 2022; a Lupa registrou ser a quarta vez que desmente a frase em 2026.",
+    "O dado central não corresponde aos registros disponíveis; por isso a frase é classificada como falsa."
+  ],
+  "o_que_e_verdade": [],
+  "o_que_nao_se_sustenta": [
+    "Crescimento acima de 3% em 2011, 2013, 2021 e 2022."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Crescimento do PIB em 2021",
+      "valor": 4.8,
+      "unidade": "%",
+      "periodo": "2021",
+      "fonte": {
+        "nome": "Aos Fatos",
+        "url": "https://www.aosfatos.org/noticias/checamos-entrevista-lula-ao-flow/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": {
+        "rotulo": "Em 2011",
+        "valor": 4.0
+      }
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Lupa",
+      "veredito_original": "FALSO",
+      "url": "https://www.agencialupa.org/checagem/2026/10/01/ao-vivo-checagem-da-entrevista-de-lula-no-flow/",
+      "data": "2026-10-01"
+    },
+    {
+      "veiculo": "Aos Fatos",
+      "veredito_original": "incorreto",
+      "url": "https://www.aosfatos.org/noticias/checamos-entrevista-lula-ao-flow/",
+      "data": "2026-10-01"
+    }
+  ],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Lupa",
+      "url": "https://www.agencialupa.org/checagem/2026/10/01/ao-vivo-checagem-da-entrevista-de-lula-no-flow/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Aos Fatos",
+      "url": "https://www.aosfatos.org/noticias/checamos-entrevista-lula-ao-flow/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
+  "atualizado_em": "2026-10-21"
+}

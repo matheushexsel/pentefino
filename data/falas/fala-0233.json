@@ -1,0 +1,95 @@
+{
+  "id": "fala-0233",
+  "slug": "flavio-criminalidade-explodiu-band",
+  "evento_id": "debate-band-2turno-2026-10-18",
+  "candidato": "flavio-bolsonaro",
+  "lado": "oposicao-flavio-pl",
+  "minuto": null,
+  "frase_literal": "Lula, com você, a criminalidade explodiu no Brasil. / Governo recordista em criminalidade.",
+  "literal": true,
+  "tema": "seguranca",
+  "veredito": "falso",
+  "resumo_uma_frase": "As mortes violentas caíram 8,2% em 2025 (19,1 por 100 mil, menor desde 2012); subiram feminicídios (+4%) e mortes por intervenção policial (+5,4%).",
+  "explicacao_simples": [
+    "Flávio Bolsonaro, no debate da Band (18/10/2026), disse: “Lula, com você, a criminalidade explodiu no Brasil. / Governo recordista em criminalidade”.",
+    "Anuário 2026: MVI −8,2% em 2025, taxa 19,1/100 mil, menor desde 2012; feminicídios +4%; mortes por intervenção policial +5,4%. Lupa, Aos Fatos (x2) e Ranking: falso.",
+    "O dado central não corresponde aos registros disponíveis; por isso a frase é classificada como falsa."
+  ],
+  "o_que_e_verdade": [
+    "Feminicídios e mortes por intervenção policial subiram."
+  ],
+  "o_que_nao_se_sustenta": [
+    "A criminalidade violenta em geral caiu ao menor nível desde 2012."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Mortes violentas intencionais",
+      "valor": 19.1,
+      "unidade": "por 100 mil habitantes",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Lupa",
+        "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      }
+    },
+    {
+      "rotulo": "Variação das mortes violentas",
+      "valor": -8.2,
+      "unidade": "%",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Lupa",
+        "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      }
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Lupa",
+      "veredito_original": "FALSO",
+      "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+      "data": "2026-10-18"
+    },
+    {
+      "veiculo": "Aos Fatos",
+      "veredito_original": "falso (x2)",
+      "url": "https://www.aosfatos.org/noticias/checamos-lula-flavio-bolsonaro-debate-band/",
+      "data": "2026-10-18"
+    },
+    {
+      "veiculo": "Ranking dos Políticos",
+      "veredito_original": "FALSO",
+      "url": "https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026",
+      "data": "2026-10-19"
+    }
+  ],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Lupa",
+      "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Aos Fatos",
+      "url": "https://www.aosfatos.org/noticias/checamos-lula-flavio-bolsonaro-debate-band/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Ranking dos Políticos",
+      "url": "https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
+  "atualizado_em": "2026-10-21"
+}

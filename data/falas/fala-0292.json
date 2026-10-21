@@ -1,0 +1,63 @@
+{
+  "id": "fala-0292",
+  "slug": "lula-mais-medicos-18-mil-12-mil-27-mil",
+  "evento_id": "debate-band-2turno-2026-10-18",
+  "candidato": "lula",
+  "lado": "governo-lula-pt",
+  "minuto": null,
+  "frase_literal": "O Mais Médicos chegou a 18 mil; em 2023 eram 12 mil; hoje 27 mil.",
+  "literal": false,
+  "tema": "saude",
+  "veredito": "impreciso",
+  "resumo_uma_frase": "Pico de 18,2 mil em 2015; 13,7 mil em 2023; 27,3 mil em dez/2025.",
+  "explicacao_simples": [
+    "Lula, no debate da Band (18/10/2026), afirmou (em paráfrase registrada por Estadão Verifica) que o Mais Médicos chegou a 18 mil; em 2023 eram 12 mil; hoje 27 mil.",
+    "Estadão: impreciso (pico 18,2 mil em 2015; 13,7 mil em 2023; 27,3 mil em dez/2025).",
+    "Há um erro de detalhe (número, data ou instituição) que não muda o sentido geral; por isso a classificação é 'impreciso'."
+  ],
+  "o_que_e_verdade": [
+    "Ordem de grandeza correta."
+  ],
+  "o_que_nao_se_sustenta": [
+    "Em 2023 eram 13,7 mil, não 12 mil."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Médicos no Mais Médicos",
+      "valor": 27.3,
+      "unidade": "mil",
+      "periodo": "dez/2025",
+      "fonte": {
+        "nome": "Estadão Verifica (via Polêmica Paraíba)",
+        "url": "https://www.polemicaparaiba.com.br/brasil/estadao-verifica-checa-declaracoes-de-lula-e-flavio-bolsonaro-em-debate-e-aponta-informacoes-falsas-enganosas-e-verdadeiras-confira/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": {
+        "rotulo": "2023",
+        "valor": 13.7
+      }
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Estadão Verifica (via Polêmica Paraíba)",
+      "veredito_original": "IMPRECISO",
+      "url": "https://www.polemicaparaiba.com.br/brasil/estadao-verifica-checa-declaracoes-de-lula-e-flavio-bolsonaro-em-debate-e-aponta-informacoes-falsas-enganosas-e-verdadeiras-confira/",
+      "data": "2026-10-19"
+    }
+  ],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Estadão Verifica (via Polêmica Paraíba)",
+      "url": "https://www.polemicaparaiba.com.br/brasil/estadao-verifica-checa-declaracoes-de-lula-e-flavio-bolsonaro-em-debate-e-aponta-informacoes-falsas-enganosas-e-verdadeiras-confira/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
+  "atualizado_em": "2026-10-21"
+}

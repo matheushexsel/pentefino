@@ -1,0 +1,75 @@
+{
+  "id": "fala-0192",
+  "slug": "flavio-bolsonaro-triplicou-o-bolsa-familia-globo",
+  "evento_id": "sabatina-globo-flavio-2026-10-16",
+  "candidato": "flavio-bolsonaro",
+  "lado": "oposicao-flavio-pl",
+  "minuto": null,
+  "frase_literal": "Foi o Bolsonaro que triplicou o valor [do Bolsa Família], que era R$ 190 em média, passou para R$ 600.",
+  "literal": true,
+  "tema": "pobreza-programas-sociais",
+  "veredito": "exagerado",
+  "resumo_uma_frase": "O Auxílio Brasil foi fixado em R$ 400 em 2021; os R$ 600 valeram só de junho a dezembro de 2022, e o orçamento de 2023 previa R$ 400.",
+  "explicacao_simples": [
+    "Flávio Bolsonaro, na entrevista à TV Globo (16/10/2026), disse: “Foi o Bolsonaro que triplicou o valor [do Bolsa Família], que era R$ 190 em média, passou para R$ 600”.",
+    "Lupa: exagerado; Ranking: impreciso — MP de 2021 fixou R$ 400; R$ 600 só jun–dez/2022; orçamento 2023 previa R$ 400; média de R$ 191,86 até mar/2020.",
+    "O sentido geral tem base, mas o número ou a dimensão foram inflados; por isso a classificação é 'exagerado'."
+  ],
+  "o_que_e_verdade": [
+    "O valor médio era ~R$ 190 e chegou a R$ 600 em 2022."
+  ],
+  "o_que_nao_se_sustenta": [
+    "Os R$ 600 foram temporários (jun–dez/2022); a proposta para 2023 era R$ 400."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Bolsa Família/Auxílio Brasil (média até mar/2020)",
+      "valor": 191.86,
+      "unidade": "R$",
+      "periodo": "2020",
+      "fonte": {
+        "nome": "Ranking dos Políticos",
+        "url": "https://ranking.org.br/en/articles/checagem-entrevista-flavio-bolsonaro-jornal-nacional-2-turno-2026",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": {
+        "rotulo": "Valor proposto no orçamento 2023",
+        "valor": 400
+      }
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Lupa",
+      "veredito_original": "EXAGERADO",
+      "url": "https://www.agencialupa.org/checagem/2026/10/16/ao-vivo-checagem-da-entrevista-de-flavio-bolsonaro-na-globo/",
+      "data": "2026-10-16"
+    },
+    {
+      "veiculo": "Ranking dos Políticos",
+      "veredito_original": "IMPRECISO",
+      "url": "https://ranking.org.br/en/articles/checagem-entrevista-flavio-bolsonaro-jornal-nacional-2-turno-2026",
+      "data": "2026-10-16"
+    }
+  ],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Lupa",
+      "url": "https://www.agencialupa.org/checagem/2026/10/16/ao-vivo-checagem-da-entrevista-de-flavio-bolsonaro-na-globo/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Ranking dos Políticos",
+      "url": "https://ranking.org.br/en/articles/checagem-entrevista-flavio-bolsonaro-jornal-nacional-2-turno-2026",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
+  "atualizado_em": "2026-10-21"
+}

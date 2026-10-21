@@ -1,0 +1,61 @@
+{
+  "id": "fala-0135",
+  "slug": "lula-superavit-primario-durante-8-anos",
+  "evento_id": "pronunciamentos-1-turno-2026-10-04",
+  "candidato": "lula",
+  "lado": "governo-lula-pt",
+  "minuto": null,
+  "frase_literal": "É importante lembrar que foi nos meus mandatos que o Brasil fez superávit primário durante 8 anos do meu governo.",
+  "literal": true,
+  "tema": "contas-publicas",
+  "veredito": "verdadeiro",
+  "resumo_uma_frase": "O setor público teve superávit primário em todos os anos de 2003 a 2010 (de 2,06% a 4,84% do PIB).",
+  "explicacao_simples": [
+    "Lula, na noite do 1º turno (4/10/2026), disse: “É importante lembrar que foi nos meus mandatos que o Brasil fez superávit primário durante 8 anos do meu governo”.",
+    "Dados do BC: 2003 4,32%; 2004 4,59%; 2005 4,84%; 2006 4,32%; 2007 3,98%; 2008 4,08%; 2009 2,06%; 2010 2,78% do PIB.",
+    "Os dados disponíveis confirmam a afirmação, por isso ela é classificada como verdadeira."
+  ],
+  "o_que_e_verdade": [
+    "Superávit primário em todos os anos de 2003 a 2010."
+  ],
+  "o_que_nao_se_sustenta": [],
+  "numeros": [
+    {
+      "rotulo": "Superávit primário (menor do período)",
+      "valor": 2.06,
+      "unidade": "% do PIB",
+      "periodo": "2009",
+      "fonte": {
+        "nome": "Lupa",
+        "url": "https://www.agencialupa.org/checagem/2026/10/04/apos-confirmacao-do-2o-turno-lula-erra-sobre-superavit-e-flavio-sobre-reeleicao-e-endividamento/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": {
+        "rotulo": "Maior do período, 2005",
+        "valor": 4.84
+      }
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Lupa",
+      "veredito_original": "VERDADEIRO",
+      "url": "https://www.agencialupa.org/checagem/2026/10/04/apos-confirmacao-do-2o-turno-lula-erra-sobre-superavit-e-flavio-sobre-reeleicao-e-endividamento/",
+      "data": "2026-10-04"
+    }
+  ],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Lupa",
+      "url": "https://www.agencialupa.org/checagem/2026/10/04/apos-confirmacao-do-2o-turno-lula-erra-sobre-superavit-e-flavio-sobre-reeleicao-e-endividamento/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
+  "atualizado_em": "2026-10-21"
+}

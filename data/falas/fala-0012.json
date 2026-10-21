@@ -1,0 +1,58 @@
+{
+  "id": "fala-0012",
+  "slug": "lula-nao-tem-nenhuma-acusacao-contra-lulinha",
+  "evento_id": "sabatina-jn-lula-2026-08-27",
+  "candidato": "lula",
+  "lado": "governo-lula-pt",
+  "minuto": null,
+  "frase_literal": "Veja, primeiro, não tem nenhuma acusação [contra o Lulinha].",
+  "literal": true,
+  "tema": "corrupcao",
+  "veredito": "verdadeiro-mas",
+  "resumo_uma_frase": "Não há denúncia do Ministério Público, mas Fábio Luís é alvo de três inquéritos da PF autorizados pelo STF.",
+  "explicacao_simples": [
+    "Lula, na sabatina do Jornal Nacional (27/8/2026), disse: “Veja, primeiro, não tem nenhuma acusação [contra o Lulinha]”.",
+    "Até o fim de julho de 2026 o STF havia autorizado três inquéritos da Polícia Federal envolvendo Fábio Luís Lula da Silva; não há denúncia formal do Ministério Público.",
+    "O núcleo da frase está correto, mas falta uma ressalva que muda o peso do dado; por isso a classificação é 'verdadeiro, mas'."
+  ],
+  "o_que_e_verdade": [
+    "Nenhuma denúncia do MP até a data."
+  ],
+  "o_que_nao_se_sustenta": [
+    "Há três inquéritos abertos no STF, o que a frase omite."
+  ],
+  "numeros": [],
+  "base_legal": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Lupa",
+      "veredito_original": "VERDADEIRO",
+      "url": "https://www.agencialupa.org/checagem/2026/08/27/ao-vivo-checagem-da-entrevista-de-lula-ao-jornal-nacional/",
+      "data": "2026-08-27"
+    },
+    {
+      "veiculo": "Ranking dos Políticos",
+      "veredito_original": "PARCIAL",
+      "url": "https://ranking.org.br/en/articles/checagem-sabatina-jornal-nacional-2026-2",
+      "data": "2026-08-28"
+    }
+  ],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Lupa",
+      "url": "https://www.agencialupa.org/checagem/2026/08/27/ao-vivo-checagem-da-entrevista-de-lula-ao-jornal-nacional/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Ranking dos Políticos",
+      "url": "https://ranking.org.br/en/articles/checagem-sabatina-jornal-nacional-2026-2",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
+  "atualizado_em": "2026-10-21"
+}

@@ -1,0 +1,75 @@
+{
+  "id": "fala-0228",
+  "slug": "flavio-bolsonaro-triplicou-o-bolsa-familia-band",
+  "evento_id": "debate-band-2turno-2026-10-18",
+  "candidato": "flavio-bolsonaro",
+  "lado": "oposicao-flavio-pl",
+  "minuto": null,
+  "frase_literal": "O ex-presidente Bolsonaro, que passou para no mínimo R$ 600 o Bolsa Família. / [O valor médio] era em média 190. O presidente Bolsonaro triplicou esse valor.",
+  "literal": true,
+  "tema": "pobreza-programas-sociais",
+  "veredito": "exagerado",
+  "resumo_uma_frase": "A MP de 2021 fixou R$ 400; os R$ 600 valeram só de jun a dez/2022 (EC 123); a média em jan/2019 era R$ 187,91.",
+  "explicacao_simples": [
+    "Flávio Bolsonaro, no debate da Band (18/10/2026), disse: “O ex-presidente Bolsonaro, que passou para no mínimo R$ 600 o Bolsa Família. / [O valor médio] era em média 190. O presidente Bolsonaro triplicou esse valor”.",
+    "Lupa: exagerado (x2); Ranking: impreciso — MP 2021 R$ 400; R$ 600 só jun–dez/2022 (EC 123); média R$ 187,91 em jan/2019.",
+    "O sentido geral tem base, mas o número ou a dimensão foram inflados; por isso a classificação é 'exagerado'."
+  ],
+  "o_que_e_verdade": [
+    "O valor médio subiu de ~R$ 190 para R$ 600 em 2022."
+  ],
+  "o_que_nao_se_sustenta": [
+    "Os R$ 600 foram temporários; o patamar permanente proposto era R$ 400."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Bolsa Família (média)",
+      "valor": 187.91,
+      "unidade": "R$",
+      "periodo": "jan/2019",
+      "fonte": {
+        "nome": "Lupa",
+        "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": {
+        "rotulo": "Auxílio Brasil pela MP de 2021",
+        "valor": 400
+      }
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Lupa",
+      "veredito_original": "EXAGERADO (x2)",
+      "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+      "data": "2026-10-18"
+    },
+    {
+      "veiculo": "Ranking dos Políticos",
+      "veredito_original": "IMPRECISO",
+      "url": "https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026",
+      "data": "2026-10-19"
+    }
+  ],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Lupa",
+      "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Ranking dos Políticos",
+      "url": "https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
+  "atualizado_em": "2026-10-21"
+}

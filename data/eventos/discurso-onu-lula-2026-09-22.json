@@ -1,0 +1,65 @@
+{
+  "id": "discurso-onu-lula-2026-09-22",
+  "tipo": "discurso",
+  "nome": "Lula na abertura da 81ª Assembleia Geral da ONU (Nova York)",
+  "data": "2026-09-22",
+  "veiculo": "ONU — 81ª Assembleia Geral (evento oficial, não eleitoral)",
+  "participantes": [
+    "lula"
+  ],
+  "url_video": null,
+  "url_transcricao": null,
+  "resumo_uma_frase": "Evento oficial; o Aos Fatos checou 8 afirmações sem rótulos e os dados sustentaram todas, com uma inconsistência interna no desmatamento ('menor em 11 anos').",
+  "placar": {
+    "lula": {
+      "checadas": 7,
+      "por_veredito": {
+        "verdadeiro": 3,
+        "verdadeiro-mas": 4,
+        "impreciso": 0,
+        "exagerado": 0,
+        "falta-contexto": 0,
+        "insustentavel": 0,
+        "falso": 0,
+        "opiniao": 1
+      },
+      "contagem_arquivos": {
+        "verdadeiro": 3,
+        "verdadeiro-mas": 4,
+        "opiniao": 1
+      }
+    }
+  },
+  "falas": [
+    "fala-0091",
+    "fala-0092",
+    "fala-0093",
+    "fala-0094",
+    "fala-0095",
+    "fala-0096",
+    "fala-0097",
+    "fala-0098"
+  ],
+  "checagens_externas": [
+    {
+      "veiculo": "Aos Fatos",
+      "veredito_original": "8 afirmações contextualizadas, sem rótulos",
+      "url": "https://www.aosfatos.org/noticias/checamos-discurso-lula-onu-2026/",
+      "data": "2026-09-22"
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Aos Fatos",
+      "url": "https://www.aosfatos.org/noticias/checamos-discurso-lula-onu-2026/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
+  "atualizado_em": "2026-10-21",
+  "lacunas": [
+    "Sem rótulos da agência; itens não checados: 'maior operação contra o crime organizado da história', 'novo recorde de exportações'.",
+    "A nota agrupa as falas sobre IA, big techs e bets (itens 6–8) com veredito conjunto 'opiniao/verdadeiro-mas', sem atribuição individual; a distribuição aqui (IA = opinião; big techs e bets = verdadeiro-mas) é escolha editorial marcada como não verificada."
+  ]
+}

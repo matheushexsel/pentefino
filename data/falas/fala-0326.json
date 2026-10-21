@@ -1,0 +1,57 @@
+{
+  "id": "fala-0326",
+  "slug": "lula-bolsa-familia-sem-correcao-desde-marco-de-2023",
+  "evento_id": "sabatina-sbt-lula-2026-10-19",
+  "candidato": "lula",
+  "lado": "governo-lula-pt",
+  "minuto": null,
+  "frase_literal": "O Bolsa Família estava sem correção desde março de 2023.",
+  "literal": false,
+  "tema": "pobreza-programas-sociais",
+  "veredito": "verdadeiro",
+  "resumo_uma_frase": "O reajuste de 15,04% em out/2026 foi o primeiro desde mar/2023.",
+  "explicacao_simples": [
+    "Lula, na sabatina do SBT Brasil (19/10/2026), afirmou (em paráfrase registrada por Gazeta do Paraná) que o Bolsa Família estava sem correção desde março de 2023.",
+    "Gazeta do Paraná: verdadeira com ressalvas (reajuste de 15,04% em out/2026).",
+    "Os dados disponíveis confirmam a afirmação, por isso ela é classificada como verdadeira."
+  ],
+  "o_que_e_verdade": [
+    "Primeiro reajuste desde mar/2023."
+  ],
+  "o_que_nao_se_sustenta": [],
+  "numeros": [
+    {
+      "rotulo": "Reajuste do Bolsa Família",
+      "valor": 15.04,
+      "unidade": "%",
+      "periodo": "out/2026",
+      "fonte": {
+        "nome": "Gazeta do Paraná",
+        "url": "https://gazetadoparana.com.br/publico/lula-no-sbt-checagem-confirma-reajuste-do-bolsa-familia-mas-encontra-lacunas-em-acusacoes-sobre-vorcaro-e-promessas-de-seguranca",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Gazeta do Paraná",
+      "veredito_original": "VERDADEIRA COM RESSALVAS",
+      "url": "https://gazetadoparana.com.br/publico/lula-no-sbt-checagem-confirma-reajuste-do-bolsa-familia-mas-encontra-lacunas-em-acusacoes-sobre-vorcaro-e-promessas-de-seguranca",
+      "data": "2026-10-20"
+    }
+  ],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Gazeta do Paraná",
+      "url": "https://gazetadoparana.com.br/publico/lula-no-sbt-checagem-confirma-reajuste-do-bolsa-familia-mas-encontra-lacunas-em-acusacoes-sobre-vorcaro-e-promessas-de-seguranca",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
+  "atualizado_em": "2026-10-21"
+}

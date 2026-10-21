@@ -1,0 +1,73 @@
+{
+  "id": "fala-0025",
+  "slug": "lula-rombo-de-94-bilhoes-pec-transicao",
+  "evento_id": "sabatina-jn-lula-2026-08-27",
+  "candidato": "lula",
+  "lado": "governo-lula-pt",
+  "minuto": null,
+  "frase_literal": "A PEC da Transição e os precatórios deixaram um rombo de R$ 94 bilhões.",
+  "literal": false,
+  "tema": "contas-publicas",
+  "veredito": "insustentavel",
+  "resumo_uma_frase": "O número não corresponde a nenhuma das cifras públicas: a PEC dos Precatórios abriu R$ 91,6 bilhões em 2022 e a PEC da Transição liberou R$ 145 bilhões.",
+  "explicacao_simples": [
+    "Lula, na sabatina do Jornal Nacional (27/8/2026), afirmou (em paráfrase registrada por Ranking dos Políticos) que a PEC da Transição e os precatórios deixaram um rombo de R$ 94 bilhões.",
+    "O Ranking considerou a cifra não verificável; o Estadão apontou que a PEC dos Precatórios abriu espaço de R$ 91,6 bilhões em 2022 e a PEC da Transição liberou R$ 145 bilhões.",
+    "Não há documento ou dado público que permita confirmar ou negar a afirmação; por isso ela é classificada como 'insustentável'."
+  ],
+  "o_que_e_verdade": [],
+  "o_que_nao_se_sustenta": [
+    "Não há fonte pública para 'R$ 94 bilhões'; as cifras conhecidas são R$ 91,6 bilhões (precatórios, 2022) e R$ 145 bilhões (PEC da Transição)."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Espaço aberto pela PEC da Transição",
+      "valor": 145,
+      "unidade": "R$ bilhões",
+      "periodo": "2023",
+      "fonte": {
+        "nome": "Estadão Verifica (via Brasilagro)",
+        "url": "https://brasilagro.com.br/conteudo/estadao-checou-a-entrevista-de-lula-no-jornal-nacional-veja-o-resultado.html",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": {
+        "rotulo": "PEC dos Precatórios, 2022",
+        "valor": 91.6
+      }
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Ranking dos Políticos",
+      "veredito_original": "NÃO VERIFICÁVEL",
+      "url": "https://ranking.org.br/en/articles/checagem-sabatina-jornal-nacional-2026-2",
+      "data": "2026-08-28"
+    },
+    {
+      "veiculo": "Estadão Verifica (via Brasilagro)",
+      "veredito_original": "IMPRECISO",
+      "url": "https://brasilagro.com.br/conteudo/estadao-checou-a-entrevista-de-lula-no-jornal-nacional-veja-o-resultado.html",
+      "data": "2026-08-28"
+    }
+  ],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Ranking dos Políticos",
+      "url": "https://ranking.org.br/en/articles/checagem-sabatina-jornal-nacional-2026-2",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Estadão Verifica (via Brasilagro)",
+      "url": "https://brasilagro.com.br/conteudo/estadao-checou-a-entrevista-de-lula-no-jornal-nacional-veja-o-resultado.html",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
+  "atualizado_em": "2026-10-21"
+}

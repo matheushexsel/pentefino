@@ -1,0 +1,63 @@
+{
+  "id": "fala-0010",
+  "slug": "flavio-alagoas-estado-mais-violento-alfredo-gaspar",
+  "evento_id": "lancamentos-campanha-2026-08-16",
+  "candidato": "flavio-bolsonaro",
+  "lado": "oposicao-flavio-pl",
+  "minuto": null,
+  "frase_literal": "Alagoas, que por 10 anos consecutivos foi o estado mais violento do Brasil. Bastou Alfredo virar secretário […].",
+  "literal": true,
+  "tema": "seguranca",
+  "veredito": "falta-contexto",
+  "resumo_uma_frase": "Alagoas liderou o Atlas da Violência de 2006 a 2014, mas a queda dos homicídios já estava em curso antes de Alfredo Gaspar assumir, e ele ficou 2 anos e 4 meses no cargo.",
+  "explicacao_simples": [
+    "Flávio Bolsonaro, no lançamento da campanha (16/8/2026), disse: “Alagoas, que por 10 anos consecutivos foi o estado mais violento do Brasil. Bastou Alfredo virar secretário […]”.",
+    "Alagoas liderou o Atlas da Violência entre 2006 e 2014, com pico de 71,42 homicídios por 100 mil habitantes em 2011; a taxa já havia caído para 54,95 em 2015, e Alfredo Gaspar ficou 2 anos e 4 meses como secretário.",
+    "A frase omite informações que mudam a leitura do dado; por isso é classificada como 'falta contexto'."
+  ],
+  "o_que_e_verdade": [
+    "Alagoas foi o estado mais violento do país por nove anos seguidos (2006–2014)."
+  ],
+  "o_que_nao_se_sustenta": [
+    "A queda já estava em curso antes da gestão citada, que durou pouco mais de dois anos."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Taxa de homicídios em Alagoas (pico)",
+      "valor": 71.42,
+      "unidade": "por 100 mil habitantes",
+      "periodo": "2011",
+      "fonte": {
+        "nome": "Lupa",
+        "url": "https://www.agencialupa.org/noticias/2026/08/17/em-pontape-da-campanha-flavio-e-lula-cometem-erros-sobre-desempenho-de-gestoes-passadas/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": {
+        "rotulo": "Taxa em 2015",
+        "valor": 54.95
+      }
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Lupa",
+      "veredito_original": "FALTA CONTEXTO",
+      "url": "https://www.agencialupa.org/noticias/2026/08/17/em-pontape-da-campanha-flavio-e-lula-cometem-erros-sobre-desempenho-de-gestoes-passadas/",
+      "data": "2026-08-17"
+    }
+  ],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Lupa",
+      "url": "https://www.agencialupa.org/noticias/2026/08/17/em-pontape-da-campanha-flavio-e-lula-cometem-erros-sobre-desempenho-de-gestoes-passadas/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
+  "atualizado_em": "2026-10-21"
+}

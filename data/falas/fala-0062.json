@@ -1,0 +1,75 @@
+{
+  "id": "fala-0062",
+  "slug": "flavio-governo-criou-22-mil-cargos-comissionados",
+  "evento_id": "sabatina-jn-flavio-2026-08-28",
+  "candidato": "flavio-bolsonaro",
+  "lado": "oposicao-flavio-pl",
+  "minuto": null,
+  "frase_literal": "Agora o atual governo já criou mais 22 mil [cargos comissionados].",
+  "literal": true,
+  "tema": "contas-publicas",
+  "veredito": "exagerado",
+  "resumo_uma_frase": "Os cargos comissionados passaram de 46.989 para 52.780 (+5,7 mil) até junho de 2026; os 22 mil são novos servidores concursados.",
+  "explicacao_simples": [
+    "Flávio Bolsonaro, na sabatina do Jornal Nacional (28/8/2026), disse: “Agora o atual governo já criou mais 22 mil [cargos comissionados]”.",
+    "Segundo a Lupa, os cargos comissionados subiram de 46.989 para 52.780 em junho de 2026 (+5,7 mil); o número de 22 mil refere-se a novos servidores, não a comissionados.",
+    "O sentido geral tem base, mas o número ou a dimensão foram inflados; por isso a classificação é 'exagerado'."
+  ],
+  "o_que_e_verdade": [
+    "Houve aumento de cargos comissionados (+5,7 mil)."
+  ],
+  "o_que_nao_se_sustenta": [
+    "22 mil é o número de novos servidores, não de comissionados."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Cargos comissionados no governo federal",
+      "valor": 52780,
+      "unidade": "cargos",
+      "periodo": "jun/2026",
+      "fonte": {
+        "nome": "Lupa",
+        "url": "https://www.agencialupa.org/checagem/2026/08/28/ao-vivo-checagem-da-entrevista-de-flavio-bolsonaro-ao-jornal-nacional/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": {
+        "rotulo": "Início do governo",
+        "valor": 46989
+      }
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Lupa",
+      "veredito_original": "EXAGERADO",
+      "url": "https://www.agencialupa.org/checagem/2026/08/28/ao-vivo-checagem-da-entrevista-de-flavio-bolsonaro-ao-jornal-nacional/",
+      "data": "2026-08-28"
+    },
+    {
+      "veiculo": "Ranking dos Políticos",
+      "veredito_original": "NÃO VERIFICÁVEL",
+      "url": "https://ranking.org.br/en/articles/veja-o-que-e-fato-e-o-que-e-fake-na-sabatina-de-flavio-bolsonaro-no-jornal-nacional",
+      "data": "2026-08-29"
+    }
+  ],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Lupa",
+      "url": "https://www.agencialupa.org/checagem/2026/08/28/ao-vivo-checagem-da-entrevista-de-flavio-bolsonaro-ao-jornal-nacional/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Ranking dos Políticos",
+      "url": "https://ranking.org.br/en/articles/veja-o-que-e-fato-e-o-que-e-fake-na-sabatina-de-flavio-bolsonaro-no-jornal-nacional",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
+  "atualizado_em": "2026-10-21"
+}

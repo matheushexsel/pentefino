@@ -1,0 +1,86 @@
+{
+  "id": "live-flavio-2026-10-01",
+  "tipo": "live",
+  "nome": "Live de Flávio Bolsonaro no YouTube (com Douglas Ruas, Guilherme Derrite e Daniella Marques)",
+  "data": "2026-10-01",
+  "veiculo": "YouTube — live de ~2 h, no horário do debate cancelado da Globo",
+  "participantes": [
+    "flavio-bolsonaro"
+  ],
+  "url_video": null,
+  "url_transcricao": null,
+  "resumo_uma_frase": "Lupa (16 checagens, incluindo aliados) e Aos Fatos (8) classificaram como falsas as frases sobre 'censura' do debate, 'pai do tigrinho', 'povo com fome' e 'não tinha corrupção'; verdadeira a dos 32 milhões de abstenções.",
+  "placar": {
+    "flavio-bolsonaro": {
+      "checadas": 11,
+      "por_veredito": {
+        "verdadeiro": 1,
+        "verdadeiro-mas": 0,
+        "impreciso": 0,
+        "exagerado": 1,
+        "falta-contexto": 3,
+        "insustentavel": 0,
+        "falso": 6
+      },
+      "contagem_arquivos": {
+        "falso": 5,
+        "falta-contexto": 4,
+        "verdadeiro": 1,
+        "exagerado": 1
+      }
+    }
+  },
+  "falas": [
+    "fala-0099",
+    "fala-0100",
+    "fala-0101",
+    "fala-0102",
+    "fala-0103",
+    "fala-0104",
+    "fala-0105",
+    "fala-0106",
+    "fala-0107",
+    "fala-0108",
+    "fala-0109",
+    "fala-0110",
+    "fala-0111",
+    "fala-0112",
+    "fala-0113",
+    "fala-0114"
+  ],
+  "checagens_externas": [
+    {
+      "veiculo": "Lupa",
+      "veredito_original": "16 checagens: F 6, FC 3, EX 1, V 4 (inclui aliados; atribuições corrigidas por errata)",
+      "url": "https://www.agencialupa.org/checagem/2026/10/01/ao-vivo-checagem-da-live-de-flavio-bolsonaro/",
+      "data": "2026-10-01"
+    },
+    {
+      "veiculo": "Aos Fatos",
+      "veredito_original": "8 itens",
+      "url": "https://www.aosfatos.org/noticias/checamos-live-flavio-bolsonaro/",
+      "data": "2026-10-01"
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Lupa",
+      "url": "https://www.agencialupa.org/checagem/2026/10/01/ao-vivo-checagem-da-live-de-flavio-bolsonaro/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Aos Fatos",
+      "url": "https://www.aosfatos.org/noticias/checamos-live-flavio-bolsonaro/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
+  "atualizado_em": "2026-10-21",
+  "lacunas": [
+    "A live não tem transcrição pública; horários das falas não constam.",
+    "Cinco falas de aliados (Daniella Marques, Douglas Ruas, Guilherme Derrite) estão catalogadas, mas não entram no placar de Flávio.",
+    "A contagem publicada (falta-contexto 3; falso 6) difere do item a item (falta-contexto 4; falso 5)."
+  ]
+}

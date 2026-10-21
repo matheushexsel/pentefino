@@ -1,0 +1,113 @@
+{
+  "id": "sabatina-jn-flavio-2026-08-28",
+  "tipo": "sabatina",
+  "nome": "Flávio Bolsonaro no Jornal Nacional (TV Globo)",
+  "data": "2026-08-28",
+  "veiculo": "TV Globo — Jornal Nacional (César Tralli e Renata Vasconcellos, ~40 min)",
+  "participantes": [
+    "flavio-bolsonaro"
+  ],
+  "url_video": null,
+  "url_transcricao": null,
+  "resumo_uma_frase": "Lupa (15 checagens, 5 falsas) e Aos Fatos (11 caixas) convergem nos erros sobre Pix, processo eleitoral, 8 de janeiro, Adriano da Nóbrega, clima e cargos comissionados; acertos no juro real, na data da homenagem a Adriano e na pressão sobre fontes jornalísticas.",
+  "placar": {
+    "flavio-bolsonaro": {
+      "checadas": 22,
+      "por_veredito": {
+        "verdadeiro": 6,
+        "verdadeiro-mas": 1,
+        "impreciso": 1,
+        "exagerado": 3,
+        "falta-contexto": 3,
+        "insustentavel": 2,
+        "falso": 8
+      },
+      "contagem_arquivos": {
+        "falta-contexto": 2,
+        "insustentavel": 2,
+        "falso": 8,
+        "exagerado": 3,
+        "impreciso": 1,
+        "verdadeiro": 5,
+        "verdadeiro-mas": 1
+      }
+    }
+  },
+  "falas": [
+    "fala-0046",
+    "fala-0047",
+    "fala-0048",
+    "fala-0049",
+    "fala-0050",
+    "fala-0051",
+    "fala-0052",
+    "fala-0053",
+    "fala-0054",
+    "fala-0055",
+    "fala-0056",
+    "fala-0057",
+    "fala-0058",
+    "fala-0059",
+    "fala-0060",
+    "fala-0061",
+    "fala-0062",
+    "fala-0063",
+    "fala-0064",
+    "fala-0065",
+    "fala-0066",
+    "fala-0067"
+  ],
+  "checagens_externas": [
+    {
+      "veiculo": "Lupa",
+      "veredito_original": "15 checagens: F 5, FC 5, V 3, EX 2",
+      "url": "https://www.agencialupa.org/checagem/2026/08/28/ao-vivo-checagem-da-entrevista-de-flavio-bolsonaro-ao-jornal-nacional/",
+      "data": "2026-08-28"
+    },
+    {
+      "veiculo": "Aos Fatos",
+      "veredito_original": "11 caixas (sem rótulos padronizados)",
+      "url": "https://aosfatos.org/noticias/checamos-flavio-bolsonaro-globo/",
+      "data": "2026-08-28"
+    },
+    {
+      "veiculo": "Ranking dos Políticos",
+      "veredito_original": "9 alegações: V 4, parciais 3, F 1, não verificável 1",
+      "url": "https://ranking.org.br/en/articles/veja-o-que-e-fato-e-o-que-e-fake-na-sabatina-de-flavio-bolsonaro-no-jornal-nacional",
+      "data": "2026-08-29"
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Lupa",
+      "url": "https://www.agencialupa.org/checagem/2026/08/28/ao-vivo-checagem-da-entrevista-de-flavio-bolsonaro-ao-jornal-nacional/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Aos Fatos",
+      "url": "https://aosfatos.org/noticias/checamos-flavio-bolsonaro-globo/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Ranking dos Políticos",
+      "url": "https://ranking.org.br/en/articles/veja-o-que-e-fato-e-o-que-e-fake-na-sabatina-de-flavio-bolsonaro-no-jornal-nacional",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "SBT News",
+      "url": "https://sbtnews.sbt.com.br/noticia/eleicoes/flavio-repete-o-pai-e-usa-cola-na-mao-durante-sabatina",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
+  "atualizado_em": "2026-10-21",
+  "lacunas": [
+    "Estadão Verifica do JN de Flávio não localizado (BNews retornou 403).",
+    "A frase 'mais de 30 impostos criados ou aumentados' teve a classificação do Aos Fatos removida para revisão em 29/8 e ficou sem veredito (não catalogada).",
+    "A contagem publicada na nota (22 itens; verdadeiro 6; falta-contexto 3) soma 24 e difere do item a item (verdadeiro 5; falta-contexto 2)."
+  ]
+}

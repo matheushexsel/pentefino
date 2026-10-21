@@ -1,0 +1,69 @@
+{
+  "id": "fala-0101",
+  "slug": "flavio-32-milhoes-nao-votaram-em-2022-live",
+  "evento_id": "live-flavio-2026-10-01",
+  "candidato": "flavio-bolsonaro",
+  "lado": "oposicao-flavio-pl",
+  "minuto": null,
+  "frase_literal": "32 milhões que não votaram nas últimas eleições.",
+  "literal": true,
+  "tema": "eleicao-2026",
+  "veredito": "verdadeiro",
+  "resumo_uma_frase": "Foram 32,7 milhões de abstenções no 1º turno de 2022 e 32,2 milhões no 2º.",
+  "explicacao_simples": [
+    "Flávio Bolsonaro, na live de 1/10/2026, disse: “32 milhões que não votaram nas últimas eleições”.",
+    "Lupa e Aos Fatos confirmaram: 32,7 milhões de abstenções no 1º turno e 32,2 milhões no 2º turno de 2022 (TSE).",
+    "Os dados disponíveis confirmam a afirmação, por isso ela é classificada como verdadeira."
+  ],
+  "o_que_e_verdade": [
+    "32,7 milhões de abstenções no 1º turno de 2022."
+  ],
+  "o_que_nao_se_sustenta": [],
+  "numeros": [
+    {
+      "rotulo": "Abstenções no 1º turno",
+      "valor": 32.7,
+      "unidade": "milhões",
+      "periodo": "2022",
+      "fonte": {
+        "nome": "Lupa",
+        "url": "https://www.agencialupa.org/checagem/2026/10/01/ao-vivo-checagem-da-live-de-flavio-bolsonaro/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      }
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Lupa",
+      "veredito_original": "VERDADEIRO",
+      "url": "https://www.agencialupa.org/checagem/2026/10/01/ao-vivo-checagem-da-live-de-flavio-bolsonaro/",
+      "data": "2026-10-01"
+    },
+    {
+      "veiculo": "Aos Fatos",
+      "veredito_original": "confirma",
+      "url": "https://www.aosfatos.org/noticias/checamos-live-flavio-bolsonaro/",
+      "data": "2026-10-01"
+    }
+  ],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Lupa",
+      "url": "https://www.agencialupa.org/checagem/2026/10/01/ao-vivo-checagem-da-live-de-flavio-bolsonaro/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Aos Fatos",
+      "url": "https://www.aosfatos.org/noticias/checamos-live-flavio-bolsonaro/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
+  "atualizado_em": "2026-10-21"
+}

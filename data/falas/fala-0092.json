@@ -1,0 +1,46 @@
+{
+  "id": "fala-0092",
+  "slug": "lula-retirou-o-brasil-do-mapa-da-fome-onu",
+  "evento_id": "discurso-onu-lula-2026-09-22",
+  "candidato": "lula",
+  "lado": "governo-lula-pt",
+  "minuto": null,
+  "frase_literal": "[Programa] que retirou o Brasil do mapa da fome.",
+  "literal": true,
+  "tema": "pobreza-programas-sociais",
+  "veredito": "verdadeiro-mas",
+  "resumo_uma_frase": "O Brasil saiu do Mapa da Fome em 2014 (governo Dilma), voltou em 2019–2021 e saiu de novo em julho de 2025.",
+  "explicacao_simples": [
+    "Lula, no discurso na ONU (22/9/2026), disse: “[Programa] que retirou o Brasil do mapa da fome”.",
+    "Segundo a FAO, o Brasil saiu do Mapa da Fome em 2014, voltou entre 2019 e 2021 e saiu novamente em julho de 2025, mantendo-se fora em 2026.",
+    "O núcleo da frase está correto, mas falta uma ressalva que muda o peso do dado; por isso a classificação é 'verdadeiro, mas'."
+  ],
+  "o_que_e_verdade": [
+    "Saída do Mapa da Fome em jul/2025."
+  ],
+  "o_que_nao_se_sustenta": [
+    "A primeira saída (2014) foi no governo Dilma."
+  ],
+  "numeros": [],
+  "base_legal": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Aos Fatos",
+      "veredito_original": "confirmado (sem rótulo)",
+      "url": "https://www.aosfatos.org/noticias/checamos-discurso-lula-onu-2026/",
+      "data": "2026-09-22"
+    }
+  ],
+  "checagem_slug": "brasil-saiu-do-mapa-da-fome",
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Aos Fatos",
+      "url": "https://www.aosfatos.org/noticias/checamos-discurso-lula-onu-2026/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
+  "atualizado_em": "2026-10-21"
+}

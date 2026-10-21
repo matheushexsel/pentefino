@@ -1,0 +1,63 @@
+{
+  "id": "fala-0142",
+  "slug": "flavio-recorde-de-brasileiros-endividados-0410",
+  "evento_id": "pronunciamentos-1-turno-2026-10-04",
+  "candidato": "flavio-bolsonaro",
+  "lado": "oposicao-flavio-pl",
+  "minuto": null,
+  "frase_literal": "[No governo Lula] recorde de brasileiros endividados.",
+  "literal": true,
+  "tema": "economia",
+  "veredito": "falta-contexto",
+  "resumo_uma_frase": "Inadimplentes passaram de 70,09 milhões (43,13%) em jan/2023 para 83,9 milhões (51,06%) em ago/2026, mas a alta vem desde 2020.",
+  "explicacao_simples": [
+    "Flávio Bolsonaro, na noite do 1º turno (4/10/2026), disse: “[No governo Lula] recorde de brasileiros endividados”.",
+    "Serasa: 70,09 milhões/43,13% em jan/2023 → 83,9 milhões/51,06% em ago/2026; a tendência de alta começou em 2020.",
+    "A frase omite informações que mudam a leitura do dado; por isso é classificada como 'falta contexto'."
+  ],
+  "o_que_e_verdade": [
+    "Nível recorde de inadimplentes."
+  ],
+  "o_que_nao_se_sustenta": [
+    "A alta começou no governo anterior."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Inadimplentes (Serasa)",
+      "valor": 83.9,
+      "unidade": "milhões",
+      "periodo": "ago/2026",
+      "fonte": {
+        "nome": "Lupa",
+        "url": "https://www.agencialupa.org/checagem/2026/10/04/apos-confirmacao-do-2o-turno-lula-erra-sobre-superavit-e-flavio-sobre-reeleicao-e-endividamento/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": {
+        "rotulo": "jan/2023",
+        "valor": 70.09
+      }
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Lupa",
+      "veredito_original": "FALTA CONTEXTO",
+      "url": "https://www.agencialupa.org/checagem/2026/10/04/apos-confirmacao-do-2o-turno-lula-erra-sobre-superavit-e-flavio-sobre-reeleicao-e-endividamento/",
+      "data": "2026-10-04"
+    }
+  ],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Lupa",
+      "url": "https://www.agencialupa.org/checagem/2026/10/04/apos-confirmacao-do-2o-turno-lula-erra-sobre-superavit-e-flavio-sobre-reeleicao-e-endividamento/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
+  "atualizado_em": "2026-10-21"
+}

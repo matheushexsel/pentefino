@@ -1,0 +1,71 @@
+{
+  "id": "fala-0226",
+  "slug": "flavio-gastou-350-bilhoes-para-se-reeleger-band",
+  "evento_id": "debate-band-2turno-2026-10-18",
+  "candidato": "flavio-bolsonaro",
+  "lado": "oposicao-flavio-pl",
+  "minuto": null,
+  "frase_literal": "[Lula] gastou mais 350 bilhões já para tentar se reeleger.",
+  "literal": true,
+  "tema": "contas-publicas",
+  "veredito": "exagerado",
+  "resumo_uma_frase": "O Gastômetro do Estadão soma R$ 354 bilhões em medidas, dos quais R$ 55 bilhões são renúncias; não há prova de finalidade eleitoral.",
+  "explicacao_simples": [
+    "Flávio Bolsonaro, no debate da Band (18/10/2026), disse: “[Lula] gastou mais 350 bilhões já para tentar se reeleger”.",
+    "Lupa: exagerado (R$ 354 bilhões no Gastômetro; R$ 55 bilhões de renúncias; sem prova de finalidade eleitoral); Ranking deixou fora da contagem por falta de dado verificável.",
+    "O sentido geral tem base, mas o número ou a dimensão foram inflados; por isso a classificação é 'exagerado'."
+  ],
+  "o_que_e_verdade": [
+    "Levantamento aponta R$ 354 bilhões em medidas no ano eleitoral."
+  ],
+  "o_que_nao_se_sustenta": [
+    "A finalidade eleitoral não está demonstrada; parte é renúncia fiscal."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Medidas no ano eleitoral (Gastômetro/Estadão)",
+      "valor": 354,
+      "unidade": "R$ bilhões",
+      "periodo": "out/2026",
+      "fonte": {
+        "nome": "Lupa",
+        "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      }
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Lupa",
+      "veredito_original": "EXAGERADO",
+      "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+      "data": "2026-10-18"
+    },
+    {
+      "veiculo": "UOL Confere (via ICL Notícias)",
+      "veredito_original": "exagerada (inferência pela contagem)",
+      "url": "https://iclnoticias.com.br/flavio-lidera-mentiras-debate-checagem/",
+      "data": "2026-10-19"
+    }
+  ],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Lupa",
+      "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "UOL Confere (via ICL Notícias)",
+      "url": "https://iclnoticias.com.br/flavio-lidera-mentiras-debate-checagem/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
+  "atualizado_em": "2026-10-21"
+}

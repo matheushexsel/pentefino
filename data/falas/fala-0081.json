@@ -1,0 +1,46 @@
+{
+  "id": "fala-0081",
+  "slug": "lula-inflacao-de-alimentos-comparada-sbt",
+  "evento_id": "sabatina-sbt-lula-2026-09-10",
+  "candidato": "lula",
+  "lado": "governo-lula-pt",
+  "minuto": null,
+  "frase_literal": "A inflação de alimentos do governo Bolsonaro foi muito maior que a do meu governo.",
+  "literal": false,
+  "tema": "economia",
+  "veredito": "verdadeiro-mas",
+  "resumo_uma_frase": "Os números estão corretos, mas comparam quatro anos fechados com um mandato ainda em curso.",
+  "explicacao_simples": [
+    "Lula, na sabatina do SBT Brasil (10/9/2026), afirmou (em paráfrase registrada por Ranking dos Políticos) que a inflação de alimentos do governo Bolsonaro foi muito maior que a do meu governo.",
+    "O Ranking classificou como parcial: números corretos, comparação entre períodos de duração diferente.",
+    "O núcleo da frase está correto, mas falta uma ressalva que muda o peso do dado; por isso a classificação é 'verdadeiro, mas'."
+  ],
+  "o_que_e_verdade": [
+    "Inflação de alimentos foi menor no atual governo."
+  ],
+  "o_que_nao_se_sustenta": [
+    "Compara mandato completo com mandato em curso."
+  ],
+  "numeros": [],
+  "base_legal": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Ranking dos Políticos",
+      "veredito_original": "PARCIAL",
+      "url": "https://ranking.org.br/en/articles/checagem-sabatina-lula-sbt-2026",
+      "data": "2026-09-10"
+    }
+  ],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Ranking dos Políticos",
+      "url": "https://ranking.org.br/en/articles/checagem-sabatina-lula-sbt-2026",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
+  "atualizado_em": "2026-10-21"
+}

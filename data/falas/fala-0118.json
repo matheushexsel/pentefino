@@ -1,0 +1,63 @@
+{
+  "id": "fala-0118",
+  "slug": "lula-4-anos-sem-reajuste-no-bolsa-familia",
+  "evento_id": "podcast-flow-lula-2026-10-01",
+  "candidato": "lula",
+  "lado": "governo-lula-pt",
+  "minuto": null,
+  "frase_literal": "A gente estava 4 anos sem dar reajuste no Bolsa Família.",
+  "literal": true,
+  "tema": "pobreza-programas-sociais",
+  "veredito": "verdadeiro-mas",
+  "resumo_uma_frase": "O piso de R$ 600 vigorava desde 2022 (EC 123); o primeiro reajuste pela inflação (15,04%, piso R$ 691) veio em outubro de 2026.",
+  "explicacao_simples": [
+    "Lula, no Flow Podcast (1/10/2026), disse: “A gente estava 4 anos sem dar reajuste no Bolsa Família”.",
+    "O valor de R$ 600 foi fixado em 2022 pela EC 123; o primeiro reajuste pela inflação foi em outubro de 2026 (15,04%, piso de R$ 691).",
+    "O núcleo da frase está correto, mas falta uma ressalva que muda o peso do dado; por isso a classificação é 'verdadeiro, mas'."
+  ],
+  "o_que_e_verdade": [
+    "Sem reajuste do piso entre 2022 e out/2026."
+  ],
+  "o_que_nao_se_sustenta": [
+    "O valor de R$ 600 foi criado em 2022, não há 'quatro anos' completos do atual governo sem reajuste."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Reajuste do Bolsa Família",
+      "valor": 15.04,
+      "unidade": "%",
+      "periodo": "out/2026",
+      "fonte": {
+        "nome": "Lupa",
+        "url": "https://www.agencialupa.org/checagem/2026/10/01/ao-vivo-checagem-da-entrevista-de-lula-no-flow/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": {
+        "rotulo": "Novo piso (R$)",
+        "valor": 691
+      }
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Lupa",
+      "veredito_original": "FALTA CONTEXTO",
+      "url": "https://www.agencialupa.org/checagem/2026/10/01/ao-vivo-checagem-da-entrevista-de-lula-no-flow/",
+      "data": "2026-10-01"
+    }
+  ],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Lupa",
+      "url": "https://www.agencialupa.org/checagem/2026/10/01/ao-vivo-checagem-da-entrevista-de-lula-no-flow/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
+  "atualizado_em": "2026-10-21"
+}

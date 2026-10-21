@@ -1,0 +1,83 @@
+{
+  "id": "fala-0245",
+  "slug": "flavio-recorde-de-mulher-assassinada-band",
+  "evento_id": "debate-band-2turno-2026-10-18",
+  "candidato": "flavio-bolsonaro",
+  "lado": "oposicao-flavio-pl",
+  "minuto": null,
+  "frase_literal": "Recorde de mulher assassinada. / Recorde de mulheres espancadas.",
+  "literal": false,
+  "tema": "seguranca",
+  "veredito": "verdadeiro-mas",
+  "resumo_uma_frase": "Feminicídios bateram recorde (1.571 em 2025), em parte por melhora dos registros; o total de mulheres assassinadas caiu.",
+  "explicacao_simples": [
+    "Flávio Bolsonaro, no debate da Band (18/10/2026), afirmou (em paráfrase registrada por Ranking dos Políticos) que recorde de mulher assassinada. / Recorde de mulheres espancadas.",
+    "Ranking: verdadeiro (1.571 feminicídios); Aos Fatos: contexto enganoso (melhora de registros) para feminicídio e 'acertou' para 'espancadas'; Lupa (1/10): falta contexto.",
+    "O núcleo da frase está correto, mas falta uma ressalva que muda o peso do dado; por isso a classificação é 'verdadeiro, mas'."
+  ],
+  "o_que_e_verdade": [
+    "Feminicídios e registros de violência contra a mulher em recorde."
+  ],
+  "o_que_nao_se_sustenta": [
+    "Homicídios de mulheres em geral caíram; parte do recorde é melhora de registro."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Feminicídios",
+      "valor": 1571,
+      "unidade": "casos",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Ranking dos Políticos",
+        "url": "https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      }
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Ranking dos Políticos",
+      "veredito_original": "VERDADEIRO",
+      "url": "https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026",
+      "data": "2026-10-19"
+    },
+    {
+      "veiculo": "Aos Fatos",
+      "veredito_original": "contexto enganoso / acertou",
+      "url": "https://www.aosfatos.org/noticias/checamos-lula-flavio-bolsonaro-debate-band/",
+      "data": "2026-10-18"
+    },
+    {
+      "veiculo": "Lupa",
+      "veredito_original": "FALTA CONTEXTO (1/10)",
+      "url": "https://www.agencialupa.org/checagem/2026/10/01/ao-vivo-checagem-da-live-de-flavio-bolsonaro/",
+      "data": "2026-10-01"
+    }
+  ],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Ranking dos Políticos",
+      "url": "https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Aos Fatos",
+      "url": "https://www.aosfatos.org/noticias/checamos-lula-flavio-bolsonaro-debate-band/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Lupa",
+      "url": "https://www.agencialupa.org/checagem/2026/10/01/ao-vivo-checagem-da-live-de-flavio-bolsonaro/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
+  "atualizado_em": "2026-10-21"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "fala-0002",
+  "slug": "lula-bolsonaro-criou-2-milhoes-de-empregos",
+  "evento_id": "lancamentos-campanha-2026-08-16",
+  "candidato": "lula",
+  "lado": "governo-lula-pt",
+  "minuto": null,
+  "frase_literal": "Enquanto eles [governo Bolsonaro] criaram no mandato deles 2 milhões de empregos.",
+  "literal": true,
+  "tema": "emprego-renda",
+  "veredito": "falso",
+  "resumo_uma_frase": "Os 2 milhões são o saldo de um único ano (2022); no mandato inteiro o Novo Caged soma 4,6 milhões de vagas formais e a Pnad, 6,4 milhões de ocupados a mais.",
+  "explicacao_simples": [
+    "Lula, no lançamento da campanha (16/8/2026), disse: “Enquanto eles [governo Bolsonaro] criaram no mandato deles 2 milhões de empregos”.",
+    "O saldo de 2 milhões de empregos formais refere-se apenas a 2022 (Caged); entre 2020 e 2022 o Novo Caged registrou 4,6 milhões de vagas e a Pnad mostra 6,4 milhões de ocupados a mais no mandato.",
+    "O dado central não corresponde aos registros disponíveis; por isso a frase é classificada como falsa."
+  ],
+  "o_que_e_verdade": [
+    "Em 2022 o saldo do Caged foi de cerca de 2 milhões de vagas."
+  ],
+  "o_que_nao_se_sustenta": [
+    "O mandato inteiro somou 4,6 milhões de vagas formais (Novo Caged, 2020–2022) e +6,4 milhões de ocupados (Pnad).",
+    "A série do Novo Caged não é comparável à anterior, o que exige cautela em qualquer comparação entre governos."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Saldo de vagas formais no governo Bolsonaro (Novo Caged)",
+      "valor": 4.6,
+      "unidade": "milhões de vagas",
+      "periodo": "2020–2022",
+      "fonte": {
+        "nome": "Lupa",
+        "url": "https://www.agencialupa.org/noticias/2026/08/17/em-pontape-da-campanha-flavio-e-lula-cometem-erros-sobre-desempenho-de-gestoes-passadas/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": {
+        "rotulo": "Ocupados a mais (Pnad) no mandato",
+        "valor": 6.4
+      }
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Lupa",
+      "veredito_original": "FALSO",
+      "url": "https://www.agencialupa.org/noticias/2026/08/17/em-pontape-da-campanha-flavio-e-lula-cometem-erros-sobre-desempenho-de-gestoes-passadas/",
+      "data": "2026-08-17"
+    }
+  ],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Lupa",
+      "url": "https://www.agencialupa.org/noticias/2026/08/17/em-pontape-da-campanha-flavio-e-lula-cometem-erros-sobre-desempenho-de-gestoes-passadas/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
+  "atualizado_em": "2026-10-21"
+}

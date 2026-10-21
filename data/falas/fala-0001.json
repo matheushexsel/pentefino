@@ -1,0 +1,62 @@
+{
+  "id": "fala-0001",
+  "slug": "lula-5-milhoes-com-diploma-em-2003",
+  "evento_id": "lancamentos-campanha-2026-08-16",
+  "candidato": "lula",
+  "lado": "governo-lula-pt",
+  "minuto": null,
+  "frase_literal": "Quando eu assumi a presidência em 2003, havia apenas 5 milhões de brasileiros no mercado de trabalho [com diploma].",
+  "literal": true,
+  "tema": "educacao",
+  "veredito": "verdadeiro",
+  "resumo_uma_frase": "O número de ocupados com ensino superior em 2003 era de cerca de 5,5 milhões, segundo o IBGE.",
+  "explicacao_simples": [
+    "Lula, no lançamento da campanha (16/8/2026), disse: “Quando eu assumi a presidência em 2003, havia apenas 5 milhões de brasileiros no mercado de trabalho [com diploma]”.",
+    "O IBGE registrava 5,8 milhões de pessoas com ensino superior em 2003, das quais cerca de 5,5 milhões ocupadas; em 2025 eram 25,5 milhões de ocupados com diploma.",
+    "Os dados disponíveis confirmam a afirmação, por isso ela é classificada como verdadeira."
+  ],
+  "o_que_e_verdade": [
+    "Cerca de 5,5 milhões de ocupados com ensino superior em 2003 (IBGE).",
+    "Em 2025 eram 25,5 milhões, segundo a mesma fonte."
+  ],
+  "o_que_nao_se_sustenta": [],
+  "numeros": [
+    {
+      "rotulo": "Ocupados com ensino superior",
+      "valor": 5.5,
+      "unidade": "milhões de pessoas",
+      "periodo": "2003",
+      "fonte": {
+        "nome": "Lupa",
+        "url": "https://www.agencialupa.org/noticias/2026/08/17/em-pontape-da-campanha-flavio-e-lula-cometem-erros-sobre-desempenho-de-gestoes-passadas/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": {
+        "rotulo": "Ocupados com ensino superior em 2025",
+        "valor": 25.5
+      }
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Lupa",
+      "veredito_original": "VERDADEIRO",
+      "url": "https://www.agencialupa.org/noticias/2026/08/17/em-pontape-da-campanha-flavio-e-lula-cometem-erros-sobre-desempenho-de-gestoes-passadas/",
+      "data": "2026-08-17"
+    }
+  ],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Lupa",
+      "url": "https://www.agencialupa.org/noticias/2026/08/17/em-pontape-da-campanha-flavio-e-lula-cometem-erros-sobre-desempenho-de-gestoes-passadas/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
+  "atualizado_em": "2026-10-21"
+}

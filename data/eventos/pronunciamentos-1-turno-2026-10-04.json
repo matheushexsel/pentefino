@@ -1,0 +1,112 @@
+{
+  "id": "pronunciamentos-1-turno-2026-10-04",
+  "tipo": "discurso",
+  "nome": "Noite do 1º turno: pronunciamento de Lula e coletiva de Flávio Bolsonaro",
+  "data": "2026-10-04",
+  "veiculo": "Pronunciamento ao vivo (Lula) e coletiva no QG do PL em Brasília (Flávio)",
+  "participantes": [
+    "lula",
+    "flavio-bolsonaro"
+  ],
+  "url_video": null,
+  "url_transcricao": null,
+  "resumo_uma_frase": "Após o resultado (Flávio 47,03% x Lula 45,16% dos válidos), a Lupa checou 4 falas de Lula e 6 de Flávio: superávit em 8 anos verdadeiro e 'único do G20' falso; 'único pelo fim da reeleição' falso e 'R$ 350 bilhões' exagerado.",
+  "placar": {
+    "lula": {
+      "checadas": 4,
+      "por_veredito": {
+        "verdadeiro": 1,
+        "verdadeiro-mas": 0,
+        "impreciso": 1,
+        "exagerado": 1,
+        "falta-contexto": 0,
+        "insustentavel": 0,
+        "falso": 1,
+        "opiniao": 1
+      },
+      "contagem_arquivos": {
+        "verdadeiro": 1,
+        "falso": 1,
+        "exagerado": 1,
+        "impreciso": 1,
+        "opiniao": 1
+      }
+    },
+    "flavio-bolsonaro": {
+      "checadas": 8,
+      "por_veredito": {
+        "verdadeiro": 2,
+        "verdadeiro-mas": 0,
+        "impreciso": 0,
+        "exagerado": 1,
+        "falta-contexto": 4,
+        "insustentavel": 0,
+        "falso": 1,
+        "opiniao": 1
+      },
+      "contagem_arquivos": {
+        "opiniao": 1,
+        "falta-contexto": 4,
+        "falso": 1,
+        "verdadeiro": 2,
+        "exagerado": 1
+      }
+    }
+  },
+  "falas": [
+    "fala-0135",
+    "fala-0136",
+    "fala-0137",
+    "fala-0138",
+    "fala-0139",
+    "fala-0140",
+    "fala-0141",
+    "fala-0142",
+    "fala-0143",
+    "fala-0144",
+    "fala-0145",
+    "fala-0146",
+    "fala-0147",
+    "fala-0148"
+  ],
+  "checagens_externas": [
+    {
+      "veiculo": "Lupa",
+      "veredito_original": "Lula 4 (V 1, F 1, FC 1, SUBESTIMADO 1); Flávio 6 (V 1, EX 1, FC 2, F 1, CONTRADITÓRIO 1)",
+      "url": "https://www.agencialupa.org/checagem/2026/10/04/apos-confirmacao-do-2o-turno-lula-erra-sobre-superavit-e-flavio-sobre-reeleicao-e-endividamento/",
+      "data": "2026-10-04"
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Lupa",
+      "url": "https://www.agencialupa.org/checagem/2026/10/04/apos-confirmacao-do-2o-turno-lula-erra-sobre-superavit-e-flavio-sobre-reeleicao-e-endividamento/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "O Povo",
+      "url": "https://mais.opovo.com.br/jornal/politica/2026/10/05/flavio-bolsonaro-agradece-eleitores-diz-que-foi-por-muito-pouco-e-aposta-no-fim-da-era-do-pt.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Estado de Minas",
+      "url": "https://www.em.com.br/politica/2026/10/7514596-lula-eu-estava-convencido-que-ia-ganhar-no-1-turno.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "O Povo/AFP",
+      "url": "https://www.opovo.com.br/noticias/mundo/2026/10/05/flavio-bolsonaro-e-lula-disputarao-2-turno-presidencial.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
+  "atualizado_em": "2026-10-21",
+  "lacunas": [
+    "Horário e local do pronunciamento de Lula não constam na Lupa.",
+    "A matéria do O Povo grafa 'domingo, 3 de outubro' (erro de data; o 1º turno foi 4/10)."
+  ]
+}

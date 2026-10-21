@@ -1,0 +1,65 @@
+{
+  "id": "fala-0322",
+  "slug": "lula-voce-mentiu-43-vezes-sbt",
+  "evento_id": "sabatina-sbt-lula-2026-10-19",
+  "candidato": "lula",
+  "lado": "governo-lula-pt",
+  "minuto": null,
+  "frase_literal": "Só no caso do Vorcaro você mentiu 43 vezes.",
+  "literal": true,
+  "tema": "corrupcao",
+  "veredito": "verdadeiro-mas",
+  "resumo_uma_frase": "O número é do levantamento do Aos Fatos (24/9), não constatação judicial.",
+  "explicacao_simples": [
+    "Lula, na sabatina do SBT Brasil (19/10/2026), disse: “Só no caso do Vorcaro você mentiu 43 vezes”.",
+    "Gazeta do Paraná: sem comprovação; o projeto considera verdadeiro-mas por existir o levantamento do Aos Fatos.",
+    "O núcleo da frase está correto, mas falta uma ressalva que muda o peso do dado; por isso a classificação é 'verdadeiro, mas'."
+  ],
+  "o_que_e_verdade": [
+    "Levantamento do Aos Fatos com 43 declarações enganosas."
+  ],
+  "o_que_nao_se_sustenta": [
+    "É contagem jornalística, não fato judicial."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Declarações enganosas de Flávio sobre Vorcaro (Aos Fatos)",
+      "valor": 43,
+      "unidade": "declarações",
+      "periodo": "até 24/9/2026",
+      "fonte": {
+        "nome": "Aos Fatos",
+        "url": "https://www.aosfatos.org/noticias/flavio-mentiu-ao-menos-43-vezes-sobre-envolvimento-com-vorcaro/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      }
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Gazeta do Paraná",
+      "veredito_original": "SEM COMPROVAÇÃO",
+      "url": "https://gazetadoparana.com.br/publico/lula-no-sbt-checagem-confirma-reajuste-do-bolsa-familia-mas-encontra-lacunas-em-acusacoes-sobre-vorcaro-e-promessas-de-seguranca",
+      "data": "2026-10-20"
+    }
+  ],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Gazeta do Paraná",
+      "url": "https://gazetadoparana.com.br/publico/lula-no-sbt-checagem-confirma-reajuste-do-bolsa-familia-mas-encontra-lacunas-em-acusacoes-sobre-vorcaro-e-promessas-de-seguranca",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Aos Fatos",
+      "url": "https://www.aosfatos.org/noticias/flavio-mentiu-ao-menos-43-vezes-sobre-envolvimento-com-vorcaro/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
+  "atualizado_em": "2026-10-21"
+}

@@ -1,0 +1,59 @@
+{
+  "id": "fala-0303",
+  "slug": "lula-vorcaro-deu-golpe-de-60-bilhoes",
+  "evento_id": "debate-band-2turno-2026-10-18",
+  "candidato": "lula",
+  "lado": "governo-lula-pt",
+  "minuto": null,
+  "frase_literal": "Vorcaro deu golpe de R$ 60 bilhões.",
+  "literal": false,
+  "tema": "corrupcao",
+  "veredito": "exagerado",
+  "resumo_uma_frase": "O prejuízo confirmado ao FGC é de R$ 51,8 bilhões.",
+  "explicacao_simples": [
+    "Lula, no debate da Band (18/10/2026), afirmou (em paráfrase registrada por Ranking dos Políticos) que vorcaro deu golpe de R$ 60 bilhões.",
+    "Ranking: impreciso (R$ 51,8 bilhões confirmados ao FGC).",
+    "O sentido geral tem base, mas o número ou a dimensão foram inflados; por isso a classificação é 'exagerado'."
+  ],
+  "o_que_e_verdade": [
+    "Prejuízo de dezenas de bilhões ao FGC."
+  ],
+  "o_que_nao_se_sustenta": [
+    "Confirmado: R$ 51,8 bilhões."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Prejuízo confirmado ao FGC",
+      "valor": 51.8,
+      "unidade": "R$ bilhões",
+      "periodo": "2026",
+      "fonte": {
+        "nome": "Ranking dos Políticos",
+        "url": "https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      }
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Ranking dos Políticos",
+      "veredito_original": "IMPRECISO",
+      "url": "https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026",
+      "data": "2026-10-19"
+    }
+  ],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Ranking dos Políticos",
+      "url": "https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
+  "atualizado_em": "2026-10-21"
+}
