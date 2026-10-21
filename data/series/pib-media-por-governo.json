@@ -1,0 +1,66 @@
+{
+  "id": "pib-media-por-governo",
+  "titulo": "Média anual de crescimento do PIB por governo",
+  "descricao_simples": "Média simples do crescimento real do PIB nos anos-calendário de cada governo.",
+  "unidade": "% ao ano (média)",
+  "tipo_grafico": "barra",
+  "frequencia": "anual",
+  "fonte": {
+    "nome": "Cálculo próprio da nota de pesquisa a partir de BCB/SGS 7326",
+    "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.7326/dados?formato=json",
+    "acesso_em": "2026-10-21",
+    "tier": "oficial"
+  },
+  "pontos": [
+    {
+      "periodo": "Lula 1-2 (2003–2010)",
+      "valor": 4.08,
+      "governo": "lula-1-2",
+      "pib_acumulado_pct": 37.8,
+      "pib_acumulado_periodo": "4T2002→4T2010"
+    },
+    {
+      "periodo": "Dilma (2011–2016)",
+      "valor": 0.43,
+      "governo": "dilma",
+      "media_2011_2015": 1.17,
+      "pib_acumulado_pct": 0.7,
+      "pib_acumulado_periodo": "4T2010→2T2016"
+    },
+    {
+      "periodo": "Temer (2017–2018)",
+      "valor": 1.55,
+      "governo": "temer",
+      "pib_acumulado_pct": 3.2,
+      "pib_acumulado_periodo": "2T2016→4T2018"
+    },
+    {
+      "periodo": "Bolsonaro (2019–2022)",
+      "valor": 1.43,
+      "governo": "bolsonaro",
+      "pib_acumulado_pct": 6.7,
+      "pib_acumulado_periodo": "4T2018→4T2022"
+    },
+    {
+      "periodo": "Lula 3 (2023–2025)",
+      "valor": 2.98,
+      "governo": "lula-3",
+      "media_com_focus_2026": 2.7,
+      "pib_acumulado_pct": 9.9,
+      "pib_acumulado_periodo": "4T2022→2T2026"
+    }
+  ],
+  "faixas_referencia": [],
+  "notas_metodologicas": [
+    "Atribuição por anos-calendário; 2016 é compartilhado entre Dilma (até 31/08) e Temer.",
+    "Efeitos de política econômica têm defasagem; a média de um mandato não prova causalidade.",
+    "PIB acumulado calculado sobre o índice dessazonalizado do IBGE (SIDRA t1621)."
+  ],
+  "lacunas": [],
+  "ultimo_periodo": "Lula 3 (2023–2025)",
+  "temas": [
+    "economia"
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/01_macroeconomia_por_governo.md",
+  "atualizado_em": "2026-10-21"
+}

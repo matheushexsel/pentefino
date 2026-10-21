@@ -1,0 +1,66 @@
+{
+  "id": "castelo-de-areia",
+  "nome": "Operação Castelo de Areia (Camargo Corrêa)",
+  "periodo": {
+    "inicio": "2009",
+    "fim": "2015"
+  },
+  "governos_em_que_ocorreram_os_fatos": [
+    "lula-1-2"
+  ],
+  "governos_em_que_foi_investigado": [
+    "lula-1-2",
+    "dilma"
+  ],
+  "resumo_simples": [
+    "A Operação Castelo de Areia (2009) investigou a construtora Camargo Corrêa.",
+    "Em 2011 o STJ declarou ilegais as interceptações autorizadas a partir de denúncia anônima e anulou todas as provas; o TRF-3 anulou a sentença do juiz Fausto De Sanctis em dezembro de 2011.",
+    "No STF, o ministro Barroso negou dois recursos do MPF e o plenário negou o último por 4 a 0 em 2015, encerrando o caso."
+  ],
+  "valores": [],
+  "partidos": [],
+  "pessoas": [],
+  "linha_do_tempo": [
+    {
+      "data": "2009",
+      "evento": "Deflagração da Operação Castelo de Areia (Camargo Corrêa).",
+      "url": "https://www.conjur.com.br/2011-dez-23/trf-anula-sentenca-sanctis-operacao-castelo-areia-pf/"
+    },
+    {
+      "data": "2011",
+      "evento": "STJ declara ilegais as interceptações baseadas em denúncia anônima e anula todas as provas.",
+      "url": "https://www.conjur.com.br/2011-dez-23/trf-anula-sentenca-sanctis-operacao-castelo-areia-pf/"
+    },
+    {
+      "data": "2011-12-23",
+      "evento": "TRF-3 anula a sentença de De Sanctis.",
+      "url": "https://www.conjur.com.br/2011-dez-23/trf-anula-sentenca-sanctis-operacao-castelo-areia-pf/"
+    },
+    {
+      "data": "2015",
+      "evento": "STF: Barroso nega dois recursos do MPF; plenário nega o último por 4x0.",
+      "url": "https://www.sedep.com.br/?p=60931"
+    }
+  ],
+  "o_que_dizem_os_dois_lados": {
+    "acusacao": "Para o MPF e defensores da Lava Jato, a Castelo de Areia é o precedente de 'anulação por formalismo' que teria blindado empreiteiras cinco anos antes da Lava Jato.",
+    "defesa": "Para as defesas e garantistas, é precedente de respeito às garantias processuais: provas obtidas a partir de denúncia anônima, sem base legal, não podem sustentar condenações."
+  },
+  "status_atual_md": "Caso inteiramente anulado (STJ 2011; TRF-3 dez/2011) e encerrado no STF em 2015. Nenhuma condenação subsistiu.",
+  "lacunas": [
+    "As notas não detalham os réus, as acusações nem os valores investigados.",
+    "Não há informação sobre eventuais ações posteriores contra os mesmos fatos."
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/04_escandalos_mensalao_petrolao_lavajato.md",
+  "fontes": [],
+  "atualizado_em": "2026-10-21",
+  "convencoes": [
+    "citado: nome aparece em delação, planilha, relatório de CPI ou reportagem, sem ato formal de investigação.",
+    "investigado: alvo de inquérito, busca, prisão temporária/preventiva ou indiciamento pela PF (indiciamento não é denúncia).",
+    "denunciado: PGR/MPF ofereceu denúncia; réu: a denúncia foi recebida pelo tribunal.",
+    "condenado-1a / condenado-2a: decisão de mérito ainda sujeita a recurso. Para condenações pelo STF em instância única sem trânsito em julgado confirmado nas notas, usa-se condenado-1a com explicação em status_atual.",
+    "condenado-definitivo: trânsito em julgado confirmado nas notas; cumprindo-pena / pena-cumprida quando as notas informam a execução.",
+    "anulada: condenação ou provas anuladas por nulidade (competência, parcialidade, prova ilícita), sem exame de mérito; absolvido: decisão de mérito favorável; arquivado: inquérito/denúncia encerrada sem mérito; prescrito: punibilidade extinta pelo tempo.",
+    "Pedido de indiciamento por CPI/CPMI não é indiciamento policial nem denúncia: é recomendação ao Ministério Público."
+  ]
+}

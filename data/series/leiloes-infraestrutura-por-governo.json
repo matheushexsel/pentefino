@@ -1,0 +1,89 @@
+{
+  "id": "leiloes-infraestrutura-por-governo",
+  "titulo": "Leilões de concessão de infraestrutura federal por governo",
+  "descricao_simples": "Número de leilões de concessão (rodovias, portos, aeroportos, ferrovias) realizados pela União desde 1995, por governo, segundo compilação da Folhapress. Lula 3 (2023–2025) fez 50, recorde; Bolsonaro, 45; FHC, 26.",
+  "unidade": "leilões",
+  "tipo_grafico": "barra",
+  "frequencia": "anual",
+  "fonte": {
+    "nome": "Jornal de Brasília/Folhapress — Lula supera Bolsonaro e FHC em concessões (18/01/2026)",
+    "url": "https://jornaldebrasilia.com.br/noticias/economia/lula-supera-bolsonaro-e-fhc-como-governo-que-mais-fez-concessoes-de-infraestrutura/",
+    "acesso_em": "2026-10-21",
+    "tier": "imprensa"
+  },
+  "pontos": [
+    {
+      "periodo": "FHC (1995–2002)",
+      "valor": 26,
+      "governo": null
+    },
+    {
+      "periodo": "Lula 1–2 (2003–2010)",
+      "valor": null,
+      "governo": "lula-1-2",
+      "lacuna": "número de leilões não consta da nota"
+    },
+    {
+      "periodo": "Dilma (2011–2016)",
+      "valor": null,
+      "governo": "dilma",
+      "lacuna": "número de leilões não consta da nota"
+    },
+    {
+      "periodo": "Temer (2016–2018)",
+      "valor": null,
+      "governo": "temer",
+      "lacuna": "número de leilões não consta da nota"
+    },
+    {
+      "periodo": "Bolsonaro (2019–2022)",
+      "valor": 45,
+      "governo": "bolsonaro",
+      "detalhe": {
+        "aeroportos_leiloes": 9,
+        "aeroportos_terminais": 49,
+        "ferrovias": "FIOL (2021), último leilão ferroviário"
+      }
+    },
+    {
+      "periodo": "Lula 3 (2023–2025)",
+      "valor": 50,
+      "governo": "lula-3",
+      "detalhe": {
+        "terminais_portuarios": 26,
+        "terminais_portuarios_rs_bi": 15.5,
+        "rodovias": 22,
+        "rodovias_em_2025": 13,
+        "rodovias_investimento_previsto_rs_bi": 247,
+        "aeroportos": 2,
+        "ferrovias": 0,
+        "participacao_no_total_historico_pct": 31
+      }
+    }
+  ],
+  "faixas_referencia": [
+    {
+      "rotulo": "Total de leilões desde 1995",
+      "valor": 160
+    },
+    {
+      "rotulo": "Leilões ferroviários desde 1995 (9 de FHC)",
+      "valor": 12
+    }
+  ],
+  "notas_metodologicas": [
+    "Contagem por leilão, não por ativo: os 9 leilões de aeroportos de Bolsonaro agruparam 49 terminais. Leilão de concessão não significa obra entregue nem venda de estatal.",
+    "Previsão para 2026: 8 leilões ferroviários (~R$ 140 bi), 13 rodovias e o Tecon 10 (R$ 6,5 bi) — não realizados na data da nota.",
+    "Privatizações (venda de ativos) estão na série privatizacoes-por-governo; o governo Bolsonaro liderou em privatizações e o governo Lula 3 em concessões.",
+    "Responsabilidade: concessões federais são da União (ministérios, ANTT, Antaq, Anac); rodovias estaduais e municipais pertencem aos respectivos entes."
+  ],
+  "ultimo_periodo": "2025",
+  "temas": [
+    "infraestrutura"
+  ],
+  "lacunas": [
+    "Número de leilões dos governos Lula 1–2, Dilma e Temer não consta da nota (só o total histórico de 160)."
+  ],
+  "atualizado_em": "2026-10-21",
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/07_saude_seguranca_educacao_infra_ambiente.md"
+}

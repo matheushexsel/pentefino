@@ -1,0 +1,62 @@
+{
+  "id": "mortalidade-infantil",
+  "titulo": "Mortalidade infantil (menores de 1 ano)",
+  "descricao_simples": "Mortes de crianças com menos de um ano por mil nascidos vivos, segundo a Tábua de Mortalidade do IBGE. Em 2024 chegou a 12,3 por mil, o menor valor da série.",
+  "unidade": "óbitos por mil nascidos vivos",
+  "tipo_grafico": "linha",
+  "frequencia": "anual",
+  "fonte": {
+    "nome": "NSC Total (IBGE, Tábua de Mortalidade 2024)",
+    "url": "https://www.nsctotal.com.br/?p=7739876",
+    "acesso_em": "2026-10-21",
+    "tier": "imprensa"
+  },
+  "pontos": [
+    {
+      "periodo": "2023",
+      "valor": 12.5
+    },
+    {
+      "periodo": "2024",
+      "valor": 12.3
+    }
+  ],
+  "faixas_referencia": [
+    {
+      "rotulo": "1940 (IBGE)",
+      "valor": 146
+    },
+    {
+      "rotulo": "Mortalidade na infância (<5 anos), 2022 e 2023",
+      "valor": 14.7
+    }
+  ],
+  "notas_metodologicas": [
+    "Tábua de Mortalidade 2024 divulgada pelo IBGE em 28/11/2025; dado de 2025 ainda não publicado.",
+    "O IBGE atribui a queda de longo prazo a vacinação, pré-natal, aleitamento, agentes comunitários de saúde, renda, escolaridade e saneamento — fatores que atravessam governos.",
+    "Responsabilidade: atenção básica e vacinação são municipais; hospitais regionais e UTIs, em geral estaduais; compra de vacinas e políticas nacionais, federais."
+  ],
+  "ultimo_periodo": "2024",
+  "temas": [
+    "saude"
+  ],
+  "fontes_adicionais": [
+    {
+      "nome": "Monitor Mercantil (IBGE, Tábua de Mortalidade 2024)",
+      "url": "https://monitormercantil.com.br/expectativa-de-vida-do-brasileiro-chega-a-766-anos-em-2024/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Jovem Pan (IBGE, Tábua de Mortalidade 2024)",
+      "url": "https://jovempan.com.br/noticias/brasil/expectativa-de-vida-do-brasileiro-sobe-para-766-anos-em-2024.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "lacunas": [
+    "Série anual 2003–2022 não acessada (página do IBGE retornou 403). A nota menciona altas pontuais em 2016 (zika/crise) e 2021 no DATASUS/SIM, mas sem fonte localizada."
+  ],
+  "atualizado_em": "2026-10-21",
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/07_saude_seguranca_educacao_infra_ambiente.md"
+}

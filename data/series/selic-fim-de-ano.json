@@ -1,0 +1,102 @@
+{
+  "id": "selic-fim-de-ano",
+  "titulo": "Meta da taxa Selic no fim de cada ano",
+  "descricao_simples": "Taxa básica de juros definida pelo Copom, vigente no fim do ano (anos em que a nota informa o valor).",
+  "unidade": "% ao ano",
+  "tipo_grafico": "linha",
+  "frequencia": "anual",
+  "fonte": {
+    "nome": "Banco Central do Brasil, SGS 432 (meta Selic, diária)",
+    "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.432/dados?formato=json&dataInicial=01/01/2018&dataFinal=21/10/2026",
+    "acesso_em": "2026-10-21",
+    "tier": "oficial"
+  },
+  "pontos": [
+    {
+      "periodo": "2003",
+      "valor": 16.5,
+      "vigencia": "18/12/2003"
+    },
+    {
+      "periodo": "2010",
+      "valor": 10.75,
+      "vigencia": "22/07/2010"
+    },
+    {
+      "periodo": "2012",
+      "valor": 7.25,
+      "vigencia": "11/10/2012"
+    },
+    {
+      "periodo": "2015",
+      "valor": 14.25,
+      "vigencia": "30/07/2015"
+    },
+    {
+      "periodo": "2018",
+      "valor": 6.5,
+      "vigencia": "22/03/2018"
+    },
+    {
+      "periodo": "2020",
+      "valor": 2.0,
+      "vigencia": "06/08/2020"
+    },
+    {
+      "periodo": "2022",
+      "valor": 13.75,
+      "vigencia": "04/08/2022"
+    },
+    {
+      "periodo": "2025",
+      "valor": 15.0,
+      "vigencia": "19/06/2025"
+    },
+    {
+      "periodo": "set/2026 (vigente em 21/10/2026)",
+      "valor": 13.75,
+      "vigencia": "17/09/2026",
+      "parcial": true
+    }
+  ],
+  "faixas_referencia": [
+    {
+      "rotulo": "Pico Lula 1 (20/02/2003)",
+      "valor": 26.5
+    },
+    {
+      "rotulo": "Mínima Lula 1-2 (23/07/2009)",
+      "valor": 8.75
+    },
+    {
+      "rotulo": "Mínima histórica (06/08/2020 a 17/03/2021)",
+      "valor": 2.0
+    },
+    {
+      "rotulo": "Maior desde 2006 (19/06/2025 a 18/03/2026)",
+      "valor": 15.0
+    },
+    {
+      "rotulo": "Focus fim de 2026 (mediana, 16/10/2026)",
+      "valor": 13.25
+    },
+    {
+      "rotulo": "Focus fim de 2027",
+      "valor": 12.0
+    }
+  ],
+  "notas_metodologicas": [
+    "A nota de pesquisa lista as mudanças da meta Selic por data, não o valor de 31/12 de cada ano; só constam aqui os anos em que a taxa de fim de ano pode ser lida diretamente da nota.",
+    "Mudanças em 2026: 19/03 14,75; 30/04 14,50; 18/06 14,25; 06/08 14,00; 17/09 13,75 (281ª reunião do Copom).",
+    "Para a taxa efetivamente acumulada em cada ano, ver selic-efetiva-acumulada-ano."
+  ],
+  "lacunas": [
+    "Valor de fim de ano não informado na nota para 2004–2009, 2011, 2013, 2014, 2016, 2017, 2019, 2021, 2023 e 2024."
+  ],
+  "ultimo_periodo": "set/2026 (vigente em 21/10/2026)",
+  "temas": [
+    "economia"
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/01_macroeconomia_por_governo.md",
+  "atualizado_em": "2026-10-21"
+}

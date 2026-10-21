@@ -1,0 +1,648 @@
+{
+  "id": "eletrobras-privatizacao-quem-fez-quando-por-quanto",
+  "pergunta": "Quem privatizou a Eletrobras, quando e por quanto?",
+  "resposta_curta": "A privatização foi autorizada pela Lei 14.182/2021, que converteu a MP 1.031/2021 do governo Bolsonaro: o Senado aprovou por 42 votos a 37 em 17/06/2021 e a Câmara concluiu em 21/06/2021. O TCU liberou a operação em 18/05/2022 (7 votos a 1) e, em junho de 2022, a empresa fez uma oferta de ações de R$ 33,7 bilhões a R$ 42 por ação; a União caiu de 68,6% para cerca de 40% do capital votante e nenhum acionista pode votar com mais de 10%. O governo calculou em R$ 67 bilhões os valores ligados à operação, pagos em 25 anos (R$ 25,3 bi de outorga ao Tesouro, R$ 32 bi à CDE e programas de revitalização de bacias). O governo Lula não privatizou nem reestatizou a empresa: contestou o teto de voto no STF em 2023 e, por acordo homologado em 11/12/2025, passou a indicar 3 dos 10 conselheiros. Desde outubro de 2025 a empresa se chama Axia Energia.",
+  "temas": [
+    "energia"
+  ],
+  "cadeia_de_responsabilidade": [
+    {
+      "ator": "Governo Bolsonaro (Presidência e MME)",
+      "o_que_controla": "Editou a MP 1.031 em 23/02/2021, defendeu a aprovação no Congresso, estimava redução de 7,36% na conta de luz e executou a oferta de ações em junho de 2022, regulamentando as contratações obrigatórias pelo Decreto 11.042/2022.",
+      "o_que_nao_controla": "Os votos no Congresso, a aprovação do TCU e o preço de mercado das ações.",
+      "peso": "alto",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/L14182.htm"
+    },
+    {
+      "ator": "Congresso Nacional (Câmara e Senado)",
+      "o_que_controla": "Converteu a MP em lei e incluiu os chamados 'jabutis': contratação obrigatória de 8 GW de térmicas a gás por 15 anos em regiões sem gasoduto, prorrogação do Proinfa por 20 anos e reserva para PCHs. Senado: 42 a 37 em 17/06/2021; Câmara: texto final em 21/06/2021.",
+      "o_que_nao_controla": "A execução da oferta e a avaliação da empresa.",
+      "peso": "alto",
+      "url": "https://pt.wikipedia.org/wiki/Eletrobras"
+    },
+    {
+      "ator": "TCU",
+      "o_que_controla": "Aprovou a modelagem em 18/05/2022 por 7 votos a 1; o ministro Vital do Rêgo (voto contrário) apontou 'subavaliação de R$ 46 bilhões' e defendia valor de pelo menos R$ 130 bilhões.",
+      "o_que_nao_controla": "A decisão política de privatizar, tomada por lei.",
+      "peso": "medio",
+      "url": "https://eixos.com.br/tcu-aprovou-privatizacao-da-eletrobras-com-ampla-maioria-de-votos/"
+    },
+    {
+      "ator": "Acionistas privados e conselho da Axia Energia (ex-Eletrobras)",
+      "o_que_controla": "A gestão da empresa. Pela lei, qualquer acionista ou grupo vota com no máximo 10%, o que dilui a União apesar de ela seguir como maior acionista.",
+      "o_que_nao_controla": "Itaipu e Eletronuclear, que permaneceram sob controle da União (art. 3º, I).",
+      "peso": "alto",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/L14182.htm"
+    },
+    {
+      "ator": "Governo Lula (AGU e MME)",
+      "o_que_controla": "Ajuizou a ADI 7.385 em 2023 contra o limite de voto; fechou acordo (anunciado em 28/02/2025) pelo qual indica 3 de 10 conselheiros de administração e 1 de 5 do conselho fiscal, e assumiu compromisso de subscrever até R$ 2,4 bilhões em debêntures da Eletronuclear para Angra 1.",
+      "o_que_nao_controla": "Não controla a empresa: a União vota como se tivesse 10%; a Eletrobras ficou liberada de investir em Eletronuclear/Angra 3. Reverter a privatização exigiria nova lei ou decisão judicial.",
+      "peso": "medio",
+      "url": "https://www.cnnbrasil.com.br/politica/stf-homologa-acordo-entre-governo-e-eletrobras/"
+    },
+    {
+      "ator": "STF",
+      "o_que_controla": "Homologou integralmente o acordo em 11/12/2025 por 6 a 4 (relator Nunes Marques; Moraes, Cármen Lúcia, Dino e Fachin queriam homologar só a parte de governança). Não derrubou o teto de 10% de votos.",
+      "o_que_nao_controla": "O desenho da lei.",
+      "peso": "medio",
+      "url": "https://cenarioenergia.com.br/2025/12/12/stf-homologa-integralmente-acordo-entre-uniao-e-axia-e-redefine-governanca-da-ex-eletrobras/"
+    },
+    {
+      "ator": "ANEEL",
+      "o_que_controla": "Reflete nas tarifas os efeitos da lei: em 2025 registrou a 'Diminuição das Cotas dos Contratos de Garantia Física – CCGF em função da privatização da Eletrobras, aumentando a tarifa'; por outro lado, a 'CDE Eletrobras' permitiu quitar em set/2024 os encargos CDE Covid e CDE Escassez.",
+      "o_que_nao_controla": "Os termos da privatização.",
+      "peso": "baixo",
+      "url": "https://static.poder360.com.br/2025/12/3a-edicao-do-boletim-InfoTarifa-Aneel-Dezembro-2025.pdf"
+    }
+  ],
+  "composicao": [],
+  "linha_do_tempo": [
+    {
+      "data": "2021-02-23",
+      "evento": "Governo Bolsonaro edita a MP 1.031/2021, que autoriza a desestatização da Eletrobras por aumento de capital com renúncia da União ao direito de subscrição.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/L14182.htm"
+    },
+    {
+      "data": "2021-06-17",
+      "evento": "Senado aprova a MP por 42 votos a 37.",
+      "url": "https://pt.wikipedia.org/wiki/Eletrobras"
+    },
+    {
+      "data": "2021-06-21",
+      "evento": "Câmara conclui a votação do texto final.",
+      "url": "https://pt.wikipedia.org/wiki/Eletrobras"
+    },
+    {
+      "data": "2021-07-13",
+      "evento": "Sanção com vetos noticiada (Lei 14.182/2021).",
+      "url": "https://pt.wikipedia.org/wiki/Eletrobras"
+    },
+    {
+      "data": "2022-05-18",
+      "evento": "TCU aprova a privatização por 7 votos a 1; Vital do Rêgo aponta subavaliação de R$ 46 bilhões.",
+      "url": "https://eixos.com.br/tcu-aprovou-privatizacao-da-eletrobras-com-ampla-maioria-de-votos/"
+    },
+    {
+      "data": "2022-06-10",
+      "evento": "Oferta de ações de R$ 33,7 bilhões (802,1 milhões de ações a R$ 42; primária R$ 30,76 bi, secundária do BNDES R$ 2,938 bi).",
+      "url": "https://mercadoeconsumo.com.br/10/06/2022/economia/eletrobras-e-privatizada-com-oferta-de-r-337-bilhoes-na-bolsa/"
+    },
+    {
+      "data": "2022-06-13",
+      "evento": "Novas ações começam a ser negociadas na Bolsa; União cai de 68,6% para 40,3% do capital votante.",
+      "url": "https://www.folhape.com.br/economia/novas-acoes-da-eletrobras-estreiam-na-bolsa-veja-como-dinheiro/230168/"
+    },
+    {
+      "data": "2023-06-01",
+      "evento": "União (AGU) ajuíza a ADI 7.385 contra o limite de 10% de votos, alegando ter 1 de 9 conselheiros com 42% das ações. (Dia exato não documentado nas notas.)",
+      "url": "https://www.cnnbrasil.com.br/politica/stf-homologa-acordo-entre-governo-e-eletrobras/"
+    },
+    {
+      "data": "2024-09-30",
+      "evento": "Recursos da 'CDE Eletrobras' quitam antecipadamente os encargos CDE Covid e CDE Escassez (set/2024; dia não documentado).",
+      "url": "https://static.poder360.com.br/2025/12/3a-edicao-do-boletim-InfoTarifa-Aneel-Dezembro-2025.pdf"
+    },
+    {
+      "data": "2025-02-28",
+      "evento": "Governo e Eletrobras anunciam acordo na CCAF; fechado em abr/2025.",
+      "url": "https://www.poder360.com.br/poder-energia/eletrobras-e-uniao-fecham-acordo-para-encerrar-processo-no-stf"
+    },
+    {
+      "data": "2025-10-22",
+      "evento": "Eletrobras anuncia o novo nome Axia Energia (troca de tickers até 10/11/2025).",
+      "url": "https://pt.wikipedia.org/wiki/Eletrobras"
+    },
+    {
+      "data": "2025-12-11",
+      "evento": "STF homologa integralmente o acordo por 6 a 4: União indica 3 de 10 conselheiros; a cota cai a 2 se a fatia ficar abaixo de 30% e a zero abaixo de 20%.",
+      "url": "https://www.cnnbrasil.com.br/politica/stf-homologa-acordo-entre-governo-e-eletrobras/"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Valor da oferta de ações",
+      "valor": 33.7,
+      "unidade": "R$ bilhões",
+      "periodo": "jun/2022",
+      "fonte": {
+        "nome": "Mercado&Consumo – Eletrobras é privatizada com oferta de R$ 33,7 bilhões (10/06/2022)",
+        "url": "https://mercadoeconsumo.com.br/10/06/2022/economia/eletrobras-e-privatizada-com-oferta-de-r-337-bilhoes-na-bolsa/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Preço por ação",
+      "valor": 42,
+      "unidade": "R$",
+      "periodo": "jun/2022",
+      "fonte": {
+        "nome": "Mercado&Consumo – Eletrobras é privatizada com oferta de R$ 33,7 bilhões (10/06/2022)",
+        "url": "https://mercadoeconsumo.com.br/10/06/2022/economia/eletrobras-e-privatizada-com-oferta-de-r-337-bilhoes-na-bolsa/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Oferta primária (dinheiro que entrou na empresa)",
+      "valor": 30.76,
+      "unidade": "R$ bilhões",
+      "periodo": "jun/2022",
+      "fonte": {
+        "nome": "Mercado&Consumo – Eletrobras é privatizada com oferta de R$ 33,7 bilhões (10/06/2022)",
+        "url": "https://mercadoeconsumo.com.br/10/06/2022/economia/eletrobras-e-privatizada-com-oferta-de-r-337-bilhoes-na-bolsa/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "Oferta secundária (BNDES)",
+        "valor": 2.938
+      }
+    },
+    {
+      "rotulo": "Participação da União no capital votante antes",
+      "valor": 68.6,
+      "unidade": "%",
+      "periodo": "2022",
+      "fonte": {
+        "nome": "Wikipédia (pt) – Eletrobras (fonte secundária)",
+        "url": "https://pt.wikipedia.org/wiki/Eletrobras",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "Depois",
+        "valor": 40.3
+      }
+    },
+    {
+      "rotulo": "Teto de votos por acionista ou grupo",
+      "valor": 10,
+      "unidade": "%",
+      "periodo": "desde 2022",
+      "fonte": {
+        "nome": "Planalto – Lei 14.182/2021 (texto consolidado)",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/L14182.htm",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    {
+      "rotulo": "Valores relacionados à privatização calculados pelo governo (25 anos)",
+      "valor": 67,
+      "unidade": "R$ bilhões",
+      "periodo": "2022–2047",
+      "fonte": {
+        "nome": "Folha PE – Novas ações da Eletrobras estreiam na Bolsa (13/06/2022)",
+        "url": "https://www.folhape.com.br/economia/novas-acoes-da-eletrobras-estreiam-na-bolsa-veja-como-dinheiro/230168/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Bonificação de outorga ao Tesouro",
+      "valor": 25.3,
+      "unidade": "R$ bilhões",
+      "periodo": "25 anos",
+      "fonte": {
+        "nome": "Folha PE – Novas ações da Eletrobras estreiam na Bolsa (13/06/2022)",
+        "url": "https://www.folhape.com.br/economia/novas-acoes-da-eletrobras-estreiam-na-bolsa-veja-como-dinheiro/230168/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Aportes à CDE (modicidade tarifária)",
+      "valor": 32,
+      "unidade": "R$ bilhões",
+      "periodo": "25 anos",
+      "fonte": {
+        "nome": "Metrópoles – Entenda como a privatização da Eletrobras vai afetar o seu bolso (27/05/2022)",
+        "url": "https://www.metropoles.com/brasil/economia-br/entenda-como-a-privatizacao-da-eletrobras-vai-afetar-o-seu-bolso",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "Só em 2022",
+        "valor": 5
+      }
+    },
+    {
+      "rotulo": "Revitalização da bacia do São Francisco",
+      "valor": 350,
+      "unidade": "R$ milhões/ano por 10 anos",
+      "periodo": "art. 6º",
+      "fonte": {
+        "nome": "Planalto – Lei 14.182/2021 (texto consolidado)",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/L14182.htm",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    {
+      "rotulo": "Amazônia Legal / navegabilidade",
+      "valor": 295,
+      "unidade": "R$ milhões/ano por 10 anos",
+      "periodo": "art. 7º",
+      "fonte": {
+        "nome": "Planalto – Lei 14.182/2021 (texto consolidado)",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/L14182.htm",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    {
+      "rotulo": "Bacias de Furnas",
+      "valor": 230,
+      "unidade": "R$ milhões/ano por 10 anos",
+      "periodo": "art. 8º",
+      "fonte": {
+        "nome": "Planalto – Lei 14.182/2021 (texto consolidado)",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/L14182.htm",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    {
+      "rotulo": "Térmicas a gás de contratação obrigatória",
+      "valor": 8,
+      "unidade": "GW por 15 anos",
+      "periodo": "lei de 2021",
+      "fonte": {
+        "nome": "Metrópoles – Entenda como a privatização da Eletrobras vai afetar o seu bolso (27/05/2022)",
+        "url": "https://www.metropoles.com/brasil/economia-br/entenda-como-a-privatizacao-da-eletrobras-vai-afetar-o-seu-bolso",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Redução da conta de luz prevista pelo governo Bolsonaro",
+      "valor": 7.36,
+      "unidade": "%",
+      "periodo": "estimativa 2021–2022",
+      "fonte": {
+        "nome": "Metrópoles – Entenda como a privatização da Eletrobras vai afetar o seu bolso (27/05/2022)",
+        "url": "https://www.metropoles.com/brasil/economia-br/entenda-como-a-privatizacao-da-eletrobras-vai-afetar-o-seu-bolso",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Custo dos 'jabutis' ao consumidor estimado pela União pela Energia (texto da Câmara)",
+      "valor": 41,
+      "unidade": "R$ bilhões",
+      "periodo": "jun/2021",
+      "fonte": {
+        "nome": "Idec/Folha – Novo relatório de MP da Eletrobras piora o que já estava ruim, diz indústria (jun/2021)",
+        "url": "https://idec.org.br/idec-na-imprensa/novo-relatorio-de-mp-da-eletrobras-piora-o-que-ja-estava-ruim-diz-industria",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "Acréscimo do texto do Senado",
+        "valor": 15
+      }
+    },
+    {
+      "rotulo": "Custo estimado pela Abrace",
+      "valor": 56,
+      "unidade": "R$ bilhões",
+      "periodo": "2021",
+      "fonte": {
+        "nome": "Diário do Comércio – MP da privatização da Eletrobras é aprovada",
+        "url": "https://diariodocomercio.com.br/economia/mp-da-privatizacao-da-eletrobras-e-aprovada/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "Com políticas regionais e impostos",
+        "valor": 84
+      }
+    },
+    {
+      "rotulo": "Custo das térmicas sem gasodutos (base PDE 2031)",
+      "valor": 50,
+      "unidade": "R$ bilhões",
+      "periodo": "2022",
+      "fonte": {
+        "nome": "eixos – TCU aprovou privatização da Eletrobras com ampla maioria (18/05/2022)",
+        "url": "https://eixos.com.br/tcu-aprovou-privatizacao-da-eletrobras-com-ampla-maioria-de-votos/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Subavaliação apontada por Vital do Rêgo (TCU)",
+      "valor": 46,
+      "unidade": "R$ bilhões",
+      "periodo": "mai/2022",
+      "fonte": {
+        "nome": "eixos – TCU aprovou privatização da Eletrobras com ampla maioria (18/05/2022)",
+        "url": "https://eixos.com.br/tcu-aprovou-privatizacao-da-eletrobras-com-ampla-maioria-de-votos/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Preço das usinas em regime de cotas antes da descotização",
+      "valor": 75,
+      "unidade": "R$/MWh",
+      "periodo": "2022",
+      "fonte": {
+        "nome": "Metrópoles – Entenda como a privatização da Eletrobras vai afetar o seu bolso (27/05/2022)",
+        "url": "https://www.metropoles.com/brasil/economia-br/entenda-como-a-privatizacao-da-eletrobras-vai-afetar-o-seu-bolso",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "Preço de mercado estimado (Tolmasquim)",
+        "valor": 150
+      }
+    },
+    {
+      "rotulo": "Conselheiros indicados pela União após o acordo",
+      "valor": 3,
+      "unidade": "de 10",
+      "periodo": "dez/2025",
+      "fonte": {
+        "nome": "CNN Brasil – STF homologa acordo entre governo e Eletrobras (11/12/2025)",
+        "url": "https://www.cnnbrasil.com.br/politica/stf-homologa-acordo-entre-governo-e-eletrobras/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Debêntures da Eletronuclear a subscrever (Angra 1)",
+      "valor": 2.4,
+      "unidade": "R$ bilhões (até)",
+      "periodo": "acordo 2025",
+      "fonte": {
+        "nome": "CNN Brasil – STF homologa acordo entre governo e Eletrobras (11/12/2025)",
+        "url": "https://www.cnnbrasil.com.br/politica/stf-homologa-acordo-entre-governo-e-eletrobras/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    }
+  ],
+  "series": [
+    "cde-anual"
+  ],
+  "mitos_e_fatos": [
+    {
+      "mito": "Foi o governo Lula que privatizou a Eletrobras.",
+      "fato": "A privatização foi autorizada pela Lei 14.182/2021, oriunda da MP 1.031/2021 do governo Bolsonaro, aprovada pelo Congresso em junho de 2021 e executada em junho de 2022, ainda no governo Bolsonaro. O governo Lula tomou posse em 2023, quando a operação já estava concluída.",
+      "fontes": [
+        {
+          "nome": "Planalto – Lei 14.182/2021 (texto consolidado)",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/L14182.htm",
+          "acesso_em": "2026-10-21",
+          "tier": "oficial"
+        },
+        {
+          "nome": "Wikipédia (pt) – Eletrobras (fonte secundária)",
+          "url": "https://pt.wikipedia.org/wiki/Eletrobras",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "Mercado&Consumo – Eletrobras é privatizada com oferta de R$ 33,7 bilhões (10/06/2022)",
+          "url": "https://mercadoeconsumo.com.br/10/06/2022/economia/eletrobras-e-privatizada-com-oferta-de-r-337-bilhoes-na-bolsa/",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        }
+      ]
+    },
+    {
+      "mito": "O governo federal manda na Eletrobras.",
+      "fato": "A União é a maior acionista (cerca de 40–42% das ações ordinárias), mas a lei limita qualquer acionista a 10% dos votos e veda acordos de voto acima disso. Até 2025 a União tinha 1 de 9 conselheiros; após o acordo homologado pelo STF em 11/12/2025, indica 3 de 10. Isso não é controle.",
+      "fontes": [
+        {
+          "nome": "Planalto – Lei 14.182/2021 (texto consolidado)",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/L14182.htm",
+          "acesso_em": "2026-10-21",
+          "tier": "oficial"
+        },
+        {
+          "nome": "CNN Brasil – STF homologa acordo entre governo e Eletrobras (11/12/2025)",
+          "url": "https://www.cnnbrasil.com.br/politica/stf-homologa-acordo-entre-governo-e-eletrobras/",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "Cenário Energia – STF homologa integralmente acordo entre União e Axia (12/12/2025)",
+          "url": "https://cenarioenergia.com.br/2025/12/12/stf-homologa-integralmente-acordo-entre-uniao-e-axia-e-redefine-governanca-da-ex-eletrobras/",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        }
+      ]
+    },
+    {
+      "mito": "Lula reestatizou (ou vai reestatizar) a Eletrobras.",
+      "fato": "O acordo de 2025 deu à União 3 assentos no conselho e compromissos sobre a Eletronuclear; o STF homologou o acordo e não derrubou o teto de votos. Reverter a privatização exigiria nova lei ou decisão judicial, e nenhuma das duas ocorreu até 21/10/2026.",
+      "fontes": [
+        {
+          "nome": "CNN Brasil – STF homologa acordo entre governo e Eletrobras (11/12/2025)",
+          "url": "https://www.cnnbrasil.com.br/politica/stf-homologa-acordo-entre-governo-e-eletrobras/",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "Poder360 – Eletrobras e União fecham acordo para encerrar processo no STF",
+          "url": "https://www.poder360.com.br/poder-energia/eletrobras-e-uniao-fecham-acordo-para-encerrar-processo-no-stf",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        }
+      ]
+    },
+    {
+      "mito": "A privatização baixou a conta de luz em 7,36%.",
+      "fato": "Os 7,36% eram uma estimativa do governo Bolsonaro. A ANEEL registrou em 2025 que a diminuição das cotas de garantia física 'em função da privatização' aumentou a tarifa, e associações de consumidores industriais estimaram custos de R$ 41 bilhões a mais de R$ 100 bilhões com as térmicas obrigatórias. Em sentido contrário, a CDE recebe R$ 32 bilhões em 25 anos e quitou em 2024 os encargos Covid e Escassez. Não há balanço oficial ex post do efeito líquido.",
+      "fontes": [
+        {
+          "nome": "Metrópoles – Entenda como a privatização da Eletrobras vai afetar o seu bolso (27/05/2022)",
+          "url": "https://www.metropoles.com/brasil/economia-br/entenda-como-a-privatizacao-da-eletrobras-vai-afetar-o-seu-bolso",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "ANEEL – Boletim InfoTarifa nº 3, dez/2025 (PDF)",
+          "url": "https://static.poder360.com.br/2025/12/3a-edicao-do-boletim-InfoTarifa-Aneel-Dezembro-2025.pdf",
+          "acesso_em": "2026-10-21",
+          "tier": "oficial"
+        },
+        {
+          "nome": "Idec/Folha – Novo relatório de MP da Eletrobras piora o que já estava ruim, diz indústria (jun/2021)",
+          "url": "https://idec.org.br/idec-na-imprensa/novo-relatorio-de-mp-da-eletrobras-piora-o-que-ja-estava-ruim-diz-industria",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "Poder360 – Privatização da Eletrobras pode cair na conta do consumidor (coluna, 20/05/2022)",
+          "url": "https://www.poder360.com.br/opiniao/privatizacao-da-eletrobras-pode-cair-na-conta-do-consumidor/",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        }
+      ]
+    },
+    {
+      "mito": "A Eletrobras foi vendida por R$ 33,7 bilhões, que foram para o governo.",
+      "fato": "Não houve venda do controle: a operação foi um aumento de capital com emissão de novas ações e renúncia da União ao direito de subscrição. Dos R$ 33,7 bilhões, R$ 30,76 bilhões (oferta primária) entraram no caixa da empresa e R$ 2,938 bilhões foram da venda de ações do BNDES. O que a União recebe são R$ 25,3 bilhões de outorga ao longo de 25 anos, além de R$ 32 bilhões destinados à CDE.",
+      "fontes": [
+        {
+          "nome": "Planalto – Lei 14.182/2021 (texto consolidado)",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/L14182.htm",
+          "acesso_em": "2026-10-21",
+          "tier": "oficial"
+        },
+        {
+          "nome": "Mercado&Consumo – Eletrobras é privatizada com oferta de R$ 33,7 bilhões (10/06/2022)",
+          "url": "https://mercadoeconsumo.com.br/10/06/2022/economia/eletrobras-e-privatizada-com-oferta-de-r-337-bilhoes-na-bolsa/",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "Folha PE – Novas ações da Eletrobras estreiam na Bolsa (13/06/2022)",
+          "url": "https://www.folhape.com.br/economia/novas-acoes-da-eletrobras-estreiam-na-bolsa-veja-como-dinheiro/230168/",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        }
+      ]
+    }
+  ],
+  "perguntas_frequentes": [
+    {
+      "pergunta": "Itaipu e as usinas nucleares também foram privatizadas?",
+      "resposta": "Não. A Lei 14.182/2021 (art. 3º, I) manteve Eletronuclear e Itaipu sob controle da União."
+    },
+    {
+      "pergunta": "O que são os 'jabutis' da lei?",
+      "resposta": "Itens incluídos pelo Congresso sem relação direta com a venda: contratação obrigatória de 8 GW de térmicas a gás por 15 anos em regiões sem gasoduto (1.000 MW no NE em capitais sem gasoduto, 2.500 MW no Norte etc.), prorrogação do Proinfa por 20 anos e reserva para PCHs até 50 MW (até 4.900 MW na redação de 2025). A Lei 15.269/2025 ainda acrescentou 3.000 MW de térmicas a biomassa. O CLP (2026) classifica essas contratações como parte da 'legislação e regulação mal desenhadas' que encarecem a energia."
+    },
+    {
+      "pergunta": "Quanto a União ainda tem na empresa?",
+      "resposta": "Cerca de 40,3% do capital votante segundo a Wikipédia e 42% das ações ordinárias segundo a CNN, votando com no máximo 10%. A composição acionária atual detalhada (União/BNDESPar/fundos) não foi confirmada em fonte primária."
+    },
+    {
+      "pergunta": "Por que a empresa se chama Axia?",
+      "resposta": "A troca de nome para Axia Energia foi anunciada em 22/10/2025, com troca de tickers na Bolsa até 10/11/2025."
+    },
+    {
+      "pergunta": "Quem recebe os dividendos hoje?",
+      "resposta": "Os acionistas, na proporção de suas ações; a União segue recebendo como acionista minoritária relevante. As notas não trazem a série de dividendos pagos à União pela Eletrobras/Axia."
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Planalto – Lei 14.182/2021 (texto consolidado)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/L14182.htm",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Wikipédia (pt) – Eletrobras (fonte secundária)",
+      "url": "https://pt.wikipedia.org/wiki/Eletrobras",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "eixos – TCU aprovou privatização da Eletrobras com ampla maioria (18/05/2022)",
+      "url": "https://eixos.com.br/tcu-aprovou-privatizacao-da-eletrobras-com-ampla-maioria-de-votos/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Poder360 – Privatização da Eletrobras pode cair na conta do consumidor (coluna, 20/05/2022)",
+      "url": "https://www.poder360.com.br/opiniao/privatizacao-da-eletrobras-pode-cair-na-conta-do-consumidor/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Mercado&Consumo – Eletrobras é privatizada com oferta de R$ 33,7 bilhões (10/06/2022)",
+      "url": "https://mercadoeconsumo.com.br/10/06/2022/economia/eletrobras-e-privatizada-com-oferta-de-r-337-bilhoes-na-bolsa/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Suno – Oferta da Eletrobras",
+      "url": "https://www.suno.com.br/noticias/?p=266349",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Folha PE – Novas ações da Eletrobras estreiam na Bolsa (13/06/2022)",
+      "url": "https://www.folhape.com.br/economia/novas-acoes-da-eletrobras-estreiam-na-bolsa-veja-como-dinheiro/230168/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "CNN Brasil – STF homologa acordo entre governo e Eletrobras (11/12/2025)",
+      "url": "https://www.cnnbrasil.com.br/politica/stf-homologa-acordo-entre-governo-e-eletrobras/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Metrópoles – Entenda como a privatização da Eletrobras vai afetar o seu bolso (27/05/2022)",
+      "url": "https://www.metropoles.com/brasil/economia-br/entenda-como-a-privatizacao-da-eletrobras-vai-afetar-o-seu-bolso",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Mais Retorno – Privatização da Eletrobras",
+      "url": "https://maisretorno.com/portal/privatizacao-da-eletrobras-e-entrega-elevadissima",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Idec/Folha – Novo relatório de MP da Eletrobras piora o que já estava ruim, diz indústria (jun/2021)",
+      "url": "https://idec.org.br/idec-na-imprensa/novo-relatorio-de-mp-da-eletrobras-piora-o-que-ja-estava-ruim-diz-industria",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Diário do Comércio – MP da privatização da Eletrobras é aprovada",
+      "url": "https://diariodocomercio.com.br/economia/mp-da-privatizacao-da-eletrobras-e-aprovada/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Cenário Energia – STF homologa integralmente acordo entre União e Axia (12/12/2025)",
+      "url": "https://cenarioenergia.com.br/2025/12/12/stf-homologa-integralmente-acordo-entre-uniao-e-axia-e-redefine-governanca-da-ex-eletrobras/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Poder360 – Eletrobras e União fecham acordo para encerrar processo no STF",
+      "url": "https://www.poder360.com.br/poder-energia/eletrobras-e-uniao-fecham-acordo-para-encerrar-processo-no-stf",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Safra – Eletrobras (ELET3): acordo, análise",
+      "url": "https://oespecialista.safra.com.br/eletrobras-elet3-acordo-analise-safra/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "ANEEL – Boletim InfoTarifa nº 3, dez/2025 (PDF)",
+      "url": "https://static.poder360.com.br/2025/12/3a-edicao-do-boletim-InfoTarifa-Aneel-Dezembro-2025.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "CLP – Energia cara no Brasil freia a competitividade, ago/2026 (PDF)",
+      "url": "https://static.poder360.com.br/uploads/2026/08/estudo-clp-Energia-cara-no-brasil-freia-a-competitividade-3ago2026.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/06_energia_eletrobras_combustiveis.md",
+  "atualizado_em": "2026-10-21",
+  "lacunas": [
+    "Número do Acórdão do TCU (mai/2022) e contagem de votos na Câmara em 21/06/2021 não localizados.",
+    "Não localizado estudo (PSR ou Instituto Escolhas) com o valor 'R$ 200–300 bi em 20 anos' citado em debates; as estimativas localizadas vão de R$ 41 bi a mais de R$ 100 bi, todas de 2021–2022 e de associações ou colunistas.",
+    "Composição acionária atual (União/BNDESPar/fundos) não confirmada em fonte primária; a Wikipédia lista 'Governo Federal 46,60%' com base incerta.",
+    "Não há balanço ex post oficial (TCU/ANEEL) do efeito líquido da privatização sobre a tarifa.",
+    "Dias exatos do ajuizamento da ADI 7.385 (2023) e da quitação dos encargos via CDE Eletrobras (set/2024) não constam das notas; a linha do tempo usa datas aproximadas assinaladas no texto."
+  ]
+}

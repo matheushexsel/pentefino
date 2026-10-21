@@ -1,0 +1,69 @@
+{
+  "id": "rodovias-cnt-estado",
+  "titulo": "Rodovias em estado ruim ou péssimo (Pesquisa CNT)",
+  "descricao_simples": "Percentual da extensão avaliada pela Confederação Nacional do Transporte classificada como ruim ou péssima no estado geral. Caiu de 26,6% (2024) para 19,1% (2025), mas 62% das rodovias ainda têm algum problema.",
+  "unidade": "% da extensão avaliada",
+  "tipo_grafico": "barra",
+  "frequencia": "anual",
+  "fonte": {
+    "nome": "Poder360 — Pesquisa CNT de Rodovias 2025",
+    "url": "https://www.poder360.com.br/poder-infra/qualidade-das-rodovias-melhora-em-2025-mas-62-seguem-problematicas/",
+    "acesso_em": "2026-10-21",
+    "tier": "imprensa"
+  },
+  "pontos": [
+    {
+      "periodo": "2024",
+      "valor": 26.6,
+      "detalhe": {
+        "concessionadas_ruim_pessimo_km": 1609,
+        "publicas_ruim_pessimo_km": 21630
+      }
+    },
+    {
+      "periodo": "2025",
+      "valor": 19.1,
+      "detalhe": {
+        "otimo_bom": 37.9,
+        "regular": 43.0,
+        "km_avaliados": 114197,
+        "malha_pavimentada_km": 216976,
+        "concessionadas_ruim_pessimo_km": 618,
+        "publicas_ruim_pessimo_km": 16594,
+        "nordeste_bom_otimo": 24.1
+      }
+    }
+  ],
+  "faixas_referencia": [
+    {
+      "rotulo": "Ótimo/bom em 2025 (+4,9 p.p. vs 2024)",
+      "valor": 37.9
+    },
+    {
+      "rotulo": "Rodovias públicas com problemas de pavimento em 2025",
+      "valor": 64.4
+    }
+  ],
+  "notas_metodologicas": [
+    "Pesquisa CNT de Rodovias 2025 (divulgada em 17/12/2025): 114.197 km avaliados, 52,6% da malha pavimentada. Nas concessionadas, a extensão ruim/péssima caiu 61,6% (1.609 para 618 km); nas públicas, -23,3% (21.630 para 16.594 km).",
+    "A CNT estima desperdício de 1,2 bi de litros de diesel por ano (R$ 7,2 bi) e 697.435 acidentes em rodovias federais entre 2016 e jul/2025 (custo R$ 149,6 bi).",
+    "Responsabilidade: rodovias federais (BR) são da União (DNIT/ANTT) ou de concessionárias; estaduais e municipais, dos respectivos governos. A pesquisa cobre rodovias federais e parte das estaduais."
+  ],
+  "ultimo_periodo": "2025",
+  "temas": [
+    "infraestrutura"
+  ],
+  "fontes_adicionais": [
+    {
+      "nome": "Movimento Econômico — rodovias do Nordeste (CNT 2025)",
+      "url": "https://movimentoeconomico.com.br/infraestrutura-2/2026/01/02/feliz-estrada-velha-ne-entra-2026-com-apenas-24-das-rodovias-em-bom-estado/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "lacunas": [
+    "Série anterior a 2024 não consta da nota; percentuais de ótimo/bom e regular de 2024 não informados diretamente (só a variação de +4,9 p.p.)."
+  ],
+  "atualizado_em": "2026-10-21",
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/07_saude_seguranca_educacao_infra_ambiente.md"
+}

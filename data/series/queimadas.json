@@ -1,0 +1,61 @@
+{
+  "id": "queimadas",
+  "titulo": "Área queimada no Brasil (MapBiomas)",
+  "descricao_simples": "Hectares atingidos pelo fogo por ano segundo o Relatório Anual do Fogo do MapBiomas. 2024 teve cerca de 30 milhões de hectares queimados, 62% acima da média histórica e 90% mais que em 2023.",
+  "unidade": "milhões de hectares",
+  "tipo_grafico": "barra",
+  "frequencia": "anual",
+  "fonte": {
+    "nome": "Sul21 — MapBiomas, Relatório Anual do Fogo 2024",
+    "url": "https://sul21.com.br/noticias/meio-ambiente/2025/06/queimadas-atingiram-30-milhoes-de-hectares-no-pais-em-2024/",
+    "acesso_em": "2026-10-21",
+    "tier": "imprensa"
+  },
+  "pontos": [
+    {
+      "periodo": "2024",
+      "valor": 30,
+      "detalhe": {
+        "amazonia": 15.6,
+        "cerrado": 9.6,
+        "variacao_vs_2023_pct": 90,
+        "acima_da_media_pct": 62,
+        "pantanal_vs_media_pct": 157
+      }
+    }
+  ],
+  "faixas_referencia": [
+    {
+      "rotulo": "Média histórica anual (1985 em diante)",
+      "valor": 18.5
+    }
+  ],
+  "notas_metodologicas": [
+    "Relatório divulgado em 24/06/2025. Na Amazônia, 15,6 milhões de hectares (maior desde 1985; 52% do total), e pela primeira vez a floresta foi o tipo de vegetação mais atingido.",
+    "O ano de 2024 combinou seca extrema e El Niño; é o principal dado ambiental desfavorável ao governo Lula 3 no período, enquanto o desmatamento PRODES caía.",
+    "Responsabilidade: combate ao fogo envolve Ibama/ICMBio (Prevfogo, áreas federais), corpos de bombeiros estaduais e brigadas municipais; a origem do fogo é majoritariamente humana (manejo agropecuário e desmatamento)."
+  ],
+  "ultimo_periodo": "2024",
+  "temas": [
+    "meio-ambiente"
+  ],
+  "fontes_adicionais": [
+    {
+      "nome": "Extra Classe — queimadas 2024 (MapBiomas)",
+      "url": "https://www.extraclasse.org.br/?p=116419",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Jovem Pan — recorde de áreas queimadas em 2024",
+      "url": "https://jovempan.com.br/brasil/brasil-bate-recorde-de-areas-queimadas-em-2024/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "lacunas": [
+    "Valores anuais de 2023 e anteriores e dados fechados de 2025 não constam da nota (só a variação de +90% vs 2023)."
+  ],
+  "atualizado_em": "2026-10-21",
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/07_saude_seguranca_educacao_infra_ambiente.md"
+}

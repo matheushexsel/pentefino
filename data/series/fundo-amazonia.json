@@ -1,0 +1,94 @@
+{
+  "id": "fundo-amazonia",
+  "titulo": "Fundo Amazônia — valor aprovado em projetos por ano",
+  "descricao_simples": "Recursos de doações internacionais (Noruega, Alemanha) e da Petrobras aprovados pelo BNDES para projetos de combate ao desmatamento. Paralisado em 2019–2022, reativado em 2023 e com recorde de aprovações em 2024 (R$ 882 mi).",
+  "unidade": "R$ milhões",
+  "tipo_grafico": "barra",
+  "frequencia": "anual",
+  "fonte": {
+    "nome": "Wikipédia pt — Fundo Amazônia (compilação com fontes)",
+    "url": "https://pt.wikipedia.org/wiki/Fundo_Amaz%C3%B4nia",
+    "acesso_em": "2026-10-21",
+    "tier": "imprensa"
+  },
+  "pontos": [
+    {
+      "periodo": "2019",
+      "valor": null,
+      "nao_verificado": true,
+      "detalhe": {
+        "nota": "paralisado: Decreto 9.759 extinguiu os comitês; Noruega suspendeu R$ 133 mi e Alemanha R$ 155 mi"
+      }
+    },
+    {
+      "periodo": "2020",
+      "valor": null,
+      "nao_verificado": true,
+      "detalhe": {
+        "nota": "paralisado"
+      }
+    },
+    {
+      "periodo": "2021",
+      "valor": null,
+      "nao_verificado": true,
+      "detalhe": {
+        "nota": "paralisado"
+      }
+    },
+    {
+      "periodo": "2022",
+      "valor": null,
+      "nao_verificado": true,
+      "detalhe": {
+        "nota": "paralisado; reativado em 01/01/2023"
+      }
+    },
+    {
+      "periodo": "2023",
+      "valor": 553
+    },
+    {
+      "periodo": "2024",
+      "valor": 882,
+      "detalhe": {
+        "recebido_em_doacoes_rs_mi": 643,
+        "nota": "recorde de aprovações"
+      }
+    }
+  ],
+  "faixas_referencia": [
+    {
+      "rotulo": "Doações acumuladas até 2018 (R$ bi; Noruega ~94%, Alemanha ~6%, Petrobras)",
+      "valor": 3.4
+    }
+  ],
+  "notas_metodologicas": [
+    "Criado em 01/08/2008 (Decreto 6.527, governo Lula 2). Os pontos de 2019–2022 ficam sem valor: o fundo esteve paralisado (sem comitês) no governo Bolsonaro, mas a nota não traz valor oficial de aprovações nesses anos.",
+    "Doações recentes: Noruega US$ 50 mi (R$ 275 mi) em jun/2024 e R$ 245–247 mi na COP28.",
+    "Responsabilidade: o fundo é gerido pelo BNDES (federal) com comitê orientador; depende de doadores externos e da queda do desmatamento medida pelo INPE."
+  ],
+  "ultimo_periodo": "2024",
+  "temas": [
+    "meio-ambiente"
+  ],
+  "fontes_adicionais": [
+    {
+      "nome": "Poder360 — Noruega formaliza doação ao Fundo Amazônia",
+      "url": "https://www.poder360.com.br/meio-ambiente/noruega-formaliza-nova-doacao-de-r-275-mi-ao-fundo-amazonia/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Poder360 — Fundo Amazônia recebeu R$ 3,4 bi em 13 anos",
+      "url": "https://www.poder360.com.br/economia/fundo-amazonia-recebeu-r-34-bilhoes-de-doacoes-em-13-anos/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "lacunas": [
+    "Aprovações anuais de 2008 a 2018 e total de doações em 2025 não constam da nota; valores de 2019–2022 não constam da nota (fundo paralisado)."
+  ],
+  "atualizado_em": "2026-10-21",
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/07_saude_seguranca_educacao_infra_ambiente.md"
+}

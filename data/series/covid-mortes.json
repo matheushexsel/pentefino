@@ -1,0 +1,95 @@
+{
+  "id": "covid-mortes",
+  "titulo": "Mortes por covid-19 no Brasil (acumulado)",
+  "descricao_simples": "Óbitos acumulados por covid-19. O país passou de 100 mil mortes em agosto de 2020, de 200 mil em janeiro de 2021 e de 700 mil em março de 2023; o total chegou a 716.238 em junho de 2025.",
+  "unidade": "óbitos acumulados",
+  "tipo_grafico": "linha",
+  "frequencia": "mensal",
+  "fonte": {
+    "nome": "Wikipédia pt — Pandemia de COVID-19 no Brasil",
+    "url": "https://pt.wikipedia.org/wiki/Pandemia_de_COVID-19_no_Brasil",
+    "acesso_em": "2026-10-21",
+    "tier": "imprensa"
+  },
+  "pontos": [
+    {
+      "periodo": "ago/2020",
+      "valor": 100000,
+      "detalhe": {
+        "data": "2020-08-08",
+        "marco": "100 mil mortes"
+      }
+    },
+    {
+      "periodo": "jan/2021",
+      "valor": 200000,
+      "detalhe": {
+        "data": "2021-01-07",
+        "marco": "200 mil mortes"
+      }
+    },
+    {
+      "periodo": "mar/2023",
+      "valor": 700239,
+      "detalhe": {
+        "data": "2023-03-28",
+        "marco": "700 mil mortes (Conass)"
+      }
+    },
+    {
+      "periodo": "jun/2025",
+      "valor": 716238,
+      "detalhe": {
+        "casos": 39279090,
+        "marco": "total do painel (Wikipédia pt)"
+      }
+    }
+  ],
+  "faixas_referencia": [
+    {
+      "rotulo": "Pico diário (07/04/2021) — mortes por dia",
+      "valor": 4000
+    }
+  ],
+  "notas_metodologicas": [
+    "Os pontos são marcos do acumulado, não uma série mensal regular. O Brasil é o 2º país em mortes absolutas (atrás dos EUA) e o 3º em casos.",
+    "Vacinação: Anvisa autorizou CoronaVac e AstraZeneca em 17/01/2021; campanha nacional em 19/01/2021; cerca de 147 milhões com ao menos uma dose em set/2021; 80% dos adultos com 2 doses ao fim de 2021. Estudo da Lancet (jun/2022) estima cerca de 1 milhão de mortes adicionais evitadas pela vacinação até dez/2021.",
+    "Em mar/2023, 19,1 milhões estavam com a 2ª dose atrasada e 68,6 milhões sem a 1ª dose de reforço. Estudo de 2022 estimou mais de 4.500 profissionais de saúde mortos.",
+    "Responsabilidade: compra de vacinas e coordenação nacional são federais; medidas de restrição foram decididas por governadores e prefeitos, com competência concorrente validada pelo STF."
+  ],
+  "ultimo_periodo": "jun/2025",
+  "temas": [
+    "saude"
+  ],
+  "fontes_adicionais": [
+    {
+      "nome": "Wikipedia en — COVID-19 pandemic in Brazil",
+      "url": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Brazil",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "CartaCapital — 700 mil mortes por covid",
+      "url": "https://www.cartacapital.com.br/saude/covid-19-tres-anos-apos-primeira-morte-brasil-alcanca-a-marca-de-700-mil-mortes-pela-doenca/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "WUSF/AP — Brazil hits 700,000 covid deaths",
+      "url": "https://health.wusf.usf.edu/health-news-florida/2023-03-29/brazil-hits-700-000-covid-deaths-second-most-in-the-world",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Jornal de Brasília — MS anunciará 700 mil mortes",
+      "url": "https://jornaldebrasilia.com.br/noticias/brasil/ministerio-da-saude-anunciara-700-mil-mortes-por-covid-no-brasil/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "lacunas": [
+    "Ranking per capita e excesso de mortalidade (OMS 2022) não capturados na nota."
+  ],
+  "atualizado_em": "2026-10-21",
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/07_saude_seguranca_educacao_infra_ambiente.md"
+}

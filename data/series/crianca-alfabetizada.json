@@ -1,0 +1,84 @@
+{
+  "id": "crianca-alfabetizada",
+  "titulo": "Crianças alfabetizadas ao fim do 2º ano do ensino fundamental",
+  "descricao_simples": "Percentual de crianças alfabetizadas na idade certa, indicador do Compromisso Nacional Criança Alfabetizada (MEC/Inep). Subiu de 44% (2023) para 66% (2025); a meta para 2030 é 80%.",
+  "unidade": "% das crianças do 2º ano",
+  "tipo_grafico": "barra",
+  "frequencia": "anual",
+  "fonte": {
+    "nome": "InfoMoney — Criança Alfabetizada 2025",
+    "url": "https://www.infomoney.com.br/?p=3263581",
+    "acesso_em": "2026-10-21",
+    "tier": "imprensa"
+  },
+  "pontos": [
+    {
+      "periodo": "2023",
+      "valor": 44
+    },
+    {
+      "periodo": "2024",
+      "valor": 59.2,
+      "detalhe": {
+        "meta": 60.2,
+        "meta_atingida": false,
+        "nota": "MEC atribui o não atingimento às enchentes no RS"
+      }
+    },
+    {
+      "periodo": "2025",
+      "valor": 66,
+      "detalhe": {
+        "meta": 64,
+        "meta_atingida": true,
+        "divulgado_em": "2026-03-23"
+      }
+    }
+  ],
+  "faixas_referencia": [
+    {
+      "rotulo": "Meta 2024",
+      "valor": 60.2
+    },
+    {
+      "rotulo": "Meta 2025",
+      "valor": 64
+    },
+    {
+      "rotulo": "Meta 2030",
+      "valor": 80
+    },
+    {
+      "rotulo": "Rio Grande do Norte 2025 (último colocado)",
+      "valor": 48
+    }
+  ],
+  "notas_metodologicas": [
+    "Programa lançado em 2023 pelo governo federal (Lula 3) em pacto com estados e municípios, que executam a alfabetização nas redes municipais.",
+    "O TCU apontou 15 estados abaixo da média e 5 sem atingir as metas.",
+    "O indicador de 2023 serve de linha de base; o valor de 2025 foi divulgado em 23/03/2026."
+  ],
+  "ultimo_periodo": "2025",
+  "temas": [
+    "educacao"
+  ],
+  "fontes_adicionais": [
+    {
+      "nome": "TCU — Minuto do TCU sobre alfabetização",
+      "url": "https://portal.tcu.gov.br/imprensa/minuto-do-tcu/i18w797qis232ppis3op17rb",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "O Povo — 59,2% de crianças alfabetizadas em 2024",
+      "url": "https://www.opovo.com.br/noticias/brasil/2025/07/11/amp/com-592-de-criancas-alfabetizadas-em-2024-brasil-nao-atinge-meta.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "lacunas": [
+    "Resultados por estado além do RN não constam da nota."
+  ],
+  "atualizado_em": "2026-10-21",
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/07_saude_seguranca_educacao_infra_ambiente.md"
+}

@@ -1,0 +1,484 @@
+[
+  {
+    "sigla": "PT",
+    "nome": "Partido dos Trabalhadores",
+    "fundacao": "1980",
+    "posicao_espectro": { "bls_score": -0.691, "ano": 2021, "fonte": { "nome": "Zucco & Power, Tabela C1, material suplementar (LAPS, DOI 10.1017/lap.2023.24)", "url": "https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S1531426X23000249/resource/name/S1531426X23000249sup001.pdf", "acesso_em": "2026-10-21", "tier": "academico" }, "serie_bls": { "1990": -0.931, "1993": -0.830, "1997": -0.881, "2001": -0.793, "2005": -0.525, "2009": -0.534, "2013": -0.532, "2017": -0.668, "2021": -0.691 }, "leitura": "esquerda" },
+    "presidente": null,
+    "bancada_camara_2023": null,
+    "bancada_camara_2027": 70,
+    "bancada_senado_2027": 9,
+    "fontes": [
+      { "nome": "Zucco & Power, material suplementar", "url": "https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S1531426X23000249/resource/name/S1531426X23000249sup001.pdf", "acesso_em": "2026-10-21", "tier": "academico" },
+      { "nome": "CNN Brasil, bancadas da Câmara 2027", "url": "https://www.cnnbrasil.com.br/eleicoes/bancada-partidos-camara/", "acesso_em": "2026-10-21", "tier": "imprensa" },
+      { "nome": "Agência Brasil, PL elege 19 senadores e soma 28 (05/10/2026)", "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/pl-elege-19-senadores-e-soma-28-mdb-conquista-sete-vagas-e-pt-seis", "acesso_em": "2026-10-21", "tier": "oficial" }
+    ],
+    "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/11_espectro_ideologico_didatico.md",
+    "atualizado_em": "2026-10-21",
+    "lacunas": ["Bancada 2023 do PT isolado não consta (apenas FE Brasil = 82).", "Senado 2027: Agência Brasil registra 9; Wikipédia registra 10 (inclui Wellington Dias, licenciado).", "Data exata de fundação (10/02/1980) não consta com URL na nota; TSE nº 13."]
+  },
+  {
+    "sigla": "PL",
+    "nome": "Partido Liberal",
+    "fundacao": "1985-06-25",
+    "posicao_espectro": { "bls_score": 0.493, "ano": 2021, "fonte": { "nome": "Zucco & Power, Tabela C1, material suplementar (LAPS, DOI 10.1017/lap.2023.24)", "url": "https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S1531426X23000249/resource/name/S1531426X23000249sup001.pdf", "acesso_em": "2026-10-21", "tier": "academico" }, "serie_bls": { "1990": 0.574, "1993": 0.643, "1997": 0.627, "2001": 0.422, "2005": 0.416, "2009": 0.328, "2013": 0.409, "2017": 0.434, "2021": 0.493 }, "leitura": "direita; os autores projetam a posição pós-2022 'com ajustes' (não publicados) após a filiação de Jair Bolsonaro em 30/11/2021; PSL (veículo de 2018) mediu +0,803 e Bolsonaro presidente +0,87" },
+    "presidente": "Valdemar Costa Neto",
+    "bancada_camara_2023": null,
+    "bancada_camara_2027": 121,
+    "bancada_senado_2027": 28,
+    "fontes": [
+      { "nome": "Zucco & Power, material suplementar", "url": "https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S1531426X23000249/resource/name/S1531426X23000249sup001.pdf", "acesso_em": "2026-10-21", "tier": "academico" },
+      { "nome": "Wikipedia: Liberal Party (Brazil, 1985)", "url": "https://en.wikipedia.org/wiki/Liberal_Party_(Brazil,_1985)", "acesso_em": "2026-10-21", "tier": "imprensa" },
+      { "nome": "Wikipedia: Liberal Party (Brazil, 2006)", "url": "https://en.wikipedia.org/wiki/Liberal_Party_(Brazil,_2006)", "acesso_em": "2026-10-21", "tier": "imprensa" },
+      { "nome": "CNN Brasil, bancadas da Câmara 2027", "url": "https://www.cnnbrasil.com.br/eleicoes/bancada-partidos-camara/", "acesso_em": "2026-10-21", "tier": "imprensa" },
+      { "nome": "Agência Brasil, PL elege 19 senadores e soma 28 (05/10/2026)", "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/pl-elege-19-senadores-e-soma-28-mdb-conquista-sete-vagas-e-pt-seis", "acesso_em": "2026-10-21", "tier": "oficial" }
+    ],
+    "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/11_espectro_ideologico_didatico.md",
+    "atualizado_em": "2026-10-21",
+    "lacunas": ["Histórico: PL original fundado em 25/06/1985 (Álvaro Valle); fusão com PRONA em 26/10/2006 (Partido da República); volta ao nome PL em 07/05/2019.", "Bancada 2023 divergente: 97 (TV Senado) ou 99 (CNN/Wikipédia).", "Senado 2027 divergente: 28 (Agência Brasil) ou 29 (Wikipédia/Reuters)."]
+  },
+  {
+    "sigla": "PSOL",
+    "nome": "Partido Socialismo e Liberdade",
+    "fundacao": "2004",
+    "posicao_espectro": { "bls_score": -0.874, "ano": 2021, "fonte": { "nome": "Zucco & Power, Tabela C1, material suplementar (LAPS, DOI 10.1017/lap.2023.24)", "url": "https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S1531426X23000249/resource/name/S1531426X23000249sup001.pdf", "acesso_em": "2026-10-21", "tier": "academico" }, "serie_bls": { "2005": -0.958, "2009": -0.968, "2013": -0.898, "2017": -0.874, "2021": -0.874 }, "leitura": "esquerda (polo esquerdo)" },
+    "presidente": null,
+    "bancada_camara_2023": null,
+    "bancada_camara_2027": 14,
+    "bancada_senado_2027": null,
+    "fontes": [
+      { "nome": "Zucco & Power, material suplementar (PSOL: cisão do PT em 2004)", "url": "https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S1531426X23000249/resource/name/S1531426X23000249sup001.pdf", "acesso_em": "2026-10-21", "tier": "academico" },
+      { "nome": "CNN Brasil, bancadas da Câmara 2027", "url": "https://www.cnnbrasil.com.br/eleicoes/bancada-partidos-camara/", "acesso_em": "2026-10-21", "tier": "imprensa" }
+    ],
+    "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/11_espectro_ideologico_didatico.md",
+    "atualizado_em": "2026-10-21",
+    "lacunas": ["Senado 2027: nenhum senador do PSOL listado nas fontes; não confirmado."]
+  },
+  {
+    "sigla": "PCdoB",
+    "nome": "Partido Comunista do Brasil",
+    "fundacao": "1962",
+    "posicao_espectro": { "bls_score": -0.822, "ano": 2021, "fonte": { "nome": "Zucco & Power, Tabela C1, material suplementar (LAPS, DOI 10.1017/lap.2023.24)", "url": "https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S1531426X23000249/resource/name/S1531426X23000249sup001.pdf", "acesso_em": "2026-10-21", "tier": "academico" }, "serie_bls": { "1990": -0.995, "1993": -0.946, "1997": -0.966, "2001": -0.898, "2005": -0.743, "2009": -0.732, "2013": -0.744, "2017": -0.737, "2021": -0.822 }, "leitura": "esquerda" },
+    "presidente": null,
+    "bancada_camara_2023": null,
+    "bancada_camara_2027": 11,
+    "bancada_senado_2027": null,
+    "fontes": [
+      { "nome": "Zucco & Power, material suplementar", "url": "https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S1531426X23000249/resource/name/S1531426X23000249sup001.pdf", "acesso_em": "2026-10-21", "tier": "academico" },
+      { "nome": "Wikipedia: Communist Party of Brazil", "url": "https://en.wikipedia.org/wiki/Communist_Party_of_Brazil", "acesso_em": "2026-10-21", "tier": "imprensa" },
+      { "nome": "CNN Brasil, bancadas da Câmara 2027", "url": "https://www.cnnbrasil.com.br/eleicoes/bancada-partidos-camara/", "acesso_em": "2026-10-21", "tier": "imprensa" }
+    ],
+    "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/11_espectro_ideologico_didatico.md",
+    "atualizado_em": "2026-10-21",
+    "lacunas": ["Fundação: cisão do PCB em 1962, reivindica herança de 1922 (fonte: Vermelho/Wikipedia).", "Aliado federal do PT desde 1989; na federação Brasil da Esperança desde 2022."]
+  },
+  {
+    "sigla": "PSTU",
+    "nome": "Partido Socialista dos Trabalhadores Unificado",
+    "fundacao": null,
+    "posicao_espectro": { "bls_score": -0.826, "ano": 1993, "fonte": { "nome": "Zucco & Power, Tabela C1, material suplementar (LAPS, DOI 10.1017/lap.2023.24)", "url": "https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S1531426X23000249/resource/name/S1531426X23000249sup001.pdf", "acesso_em": "2026-10-21", "tier": "academico" }, "serie_bls": { "1993": -0.826 }, "leitura": "esquerda (avaliado só em 1993)" },
+    "presidente": null,
+    "bancada_camara_2023": null,
+    "bancada_camara_2027": null,
+    "bancada_senado_2027": null,
+    "fontes": [
+      { "nome": "Zucco & Power, material suplementar", "url": "https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S1531426X23000249/resource/name/S1531426X23000249sup001.pdf", "acesso_em": "2026-10-21", "tier": "academico" }
+    ],
+    "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/11_espectro_ideologico_didatico.md",
+    "atualizado_em": "2026-10-21",
+    "lacunas": ["Única medição BLS em 1993.", "Candidato a presidente em 2026: Hertz Dias (43.103 votos; 0,04%); recebeu o piso do fundo eleitoral (R$ 3,3 mi)."]
+  },
+  {
+    "sigla": "REDE",
+    "nome": "Rede Sustentabilidade",
+    "fundacao": null,
+    "posicao_espectro": { "bls_score": -0.555, "ano": 2017, "fonte": { "nome": "Zucco & Power, Tabela C1, material suplementar (LAPS, DOI 10.1017/lap.2023.24)", "url": "https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S1531426X23000249/resource/name/S1531426X23000249sup001.pdf", "acesso_em": "2026-10-21", "tier": "academico" }, "serie_bls": { "2017": -0.555 }, "leitura": "centro-esquerda/esquerda (não avaliado em 2021)" },
+    "presidente": null,
+    "bancada_camara_2023": null,
+    "bancada_camara_2027": 1,
+    "bancada_senado_2027": 1,
+    "fontes": [
+      { "nome": "Zucco & Power, material suplementar", "url": "https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S1531426X23000249/resource/name/S1531426X23000249sup001.pdf", "acesso_em": "2026-10-21", "tier": "academico" },
+      { "nome": "CNN Brasil, bancadas da Câmara 2027", "url": "https://www.cnnbrasil.com.br/eleicoes/bancada-partidos-camara/", "acesso_em": "2026-10-21", "tier": "imprensa" },
+      { "nome": "Agência Brasil, composição do Senado 2027", "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/pl-elege-19-senadores-e-soma-28-mdb-conquista-sete-vagas-e-pt-seis", "acesso_em": "2026-10-21", "tier": "oficial" }
+    ],
+    "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/11_espectro_ideologico_didatico.md",
+    "atualizado_em": "2026-10-21",
+    "lacunas": ["Federação PSOL-REDE elegeu 15 deputados (PSOL 14, REDE 1)."]
+  },
+  {
+    "sigla": "PSB",
+    "nome": "Partido Socialista Brasileiro",
+    "fundacao": null,
+    "posicao_espectro": { "bls_score": -0.427, "ano": 2021, "fonte": { "nome": "Zucco & Power, Tabela C1, material suplementar (LAPS, DOI 10.1017/lap.2023.24)", "url": "https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S1531426X23000249/resource/name/S1531426X23000249sup001.pdf", "acesso_em": "2026-10-21", "tier": "academico" }, "serie_bls": { "1990": -0.757, "1993": -0.746, "1997": -0.662, "2001": -0.631, "2005": -0.537, "2009": -0.490, "2013": -0.428, "2017": -0.171, "2021": -0.427 }, "leitura": "centro-esquerda" },
+    "presidente": null,
+    "bancada_camara_2023": null,
+    "bancada_camara_2027": 15,
+    "bancada_senado_2027": 4,
+    "fontes": [
+      { "nome": "Zucco & Power, material suplementar", "url": "https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S1531426X23000249/resource/name/S1531426X23000249sup001.pdf", "acesso_em": "2026-10-21", "tier": "academico" },
+      { "nome": "CNN Brasil, bancadas da Câmara 2027", "url": "https://www.cnnbrasil.com.br/eleicoes/bancada-partidos-camara/", "acesso_em": "2026-10-21", "tier": "imprensa" },
+      { "nome": "Agência Brasil, composição do Senado 2027", "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/pl-elege-19-senadores-e-soma-28-mdb-conquista-sete-vagas-e-pt-seis", "acesso_em": "2026-10-21", "tier": "oficial" }
+    ],
+    "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/11_espectro_ideologico_didatico.md",
+    "atualizado_em": "2026-10-21"
+  },
+  {
+    "sigla": "PDT",
+    "nome": "Partido Democrático Trabalhista",
+    "fundacao": null,
+    "posicao_espectro": { "bls_score": -0.356, "ano": 2021, "fonte": { "nome": "Zucco & Power, Tabela C1, material suplementar (LAPS, DOI 10.1017/lap.2023.24)", "url": "https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S1531426X23000249/resource/name/S1531426X23000249sup001.pdf", "acesso_em": "2026-10-21", "tier": "academico" }, "serie_bls": { "1990": -0.542, "1993": -0.447, "1997": -0.541, "2001": -0.490, "2005": -0.353, "2009": -0.374, "2013": -0.336, "2017": -0.405, "2021": -0.356 }, "leitura": "centro-esquerda" },
+    "presidente": null,
+    "bancada_camara_2023": null,
+    "bancada_camara_2027": 6,
+    "bancada_senado_2027": 1,
+    "fontes": [
+      { "nome": "Zucco & Power, material suplementar", "url": "https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S1531426X23000249/resource/name/S1531426X23000249sup001.pdf", "acesso_em": "2026-10-21", "tier": "academico" },
+      { "nome": "CNN Brasil, bancadas da Câmara 2027", "url": "https://www.cnnbrasil.com.br/eleicoes/bancada-partidos-camara/", "acesso_em": "2026-10-21", "tier": "imprensa" },
+      { "nome": "Agência Brasil, composição do Senado 2027", "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/pl-elege-19-senadores-e-soma-28-mdb-conquista-sete-vagas-e-pt-seis", "acesso_em": "2026-10-21", "tier": "oficial" }
+    ],
+    "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/11_espectro_ideologico_didatico.md",
+    "atualizado_em": "2026-10-21",
+    "lacunas": ["Bancada 2023 divergente: 16 ou 17."]
+  },
+  {
+    "sigla": "PV",
+    "nome": "Partido Verde",
+    "fundacao": null,
+    "posicao_espectro": { "bls_score": -0.069, "ano": 2017, "fonte": { "nome": "Zucco & Power, Tabela C1, material suplementar (LAPS, DOI 10.1017/lap.2023.24)", "url": "https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S1531426X23000249/resource/name/S1531426X23000249sup001.pdf", "acesso_em": "2026-10-21", "tier": "academico" }, "serie_bls": { "2009": -0.267, "2013": -0.230, "2017": -0.069 }, "leitura": "centro (não avaliado em 2021)" },
+    "presidente": null,
+    "bancada_camara_2023": null,
+    "bancada_camara_2027": 7,
+    "bancada_senado_2027": null,
+    "fontes": [
+      { "nome": "Zucco & Power, material suplementar", "url": "https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S1531426X23000249/resource/name/S1531426X23000249sup001.pdf", "acesso_em": "2026-10-21", "tier": "academico" },
+      { "nome": "CNN Brasil, bancadas da Câmara 2027", "url": "https://www.cnnbrasil.com.br/eleicoes/bancada-partidos-camara/", "acesso_em": "2026-10-21", "tier": "imprensa" }
+    ],
+    "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/11_espectro_ideologico_didatico.md",
+    "atualizado_em": "2026-10-21",
+    "lacunas": ["Integra a federação Brasil da Esperança (PT-PCdoB-PV)."]
+  },
+  {
+    "sigla": "CIDADANIA",
+    "nome": "Cidadania (ex-PPS)",
+    "fundacao": null,
+    "posicao_espectro": { "bls_score": -0.014, "ano": 2021, "fonte": { "nome": "Zucco & Power, Tabela C1, material suplementar (LAPS, DOI 10.1017/lap.2023.24)", "url": "https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S1531426X23000249/resource/name/S1531426X23000249sup001.pdf", "acesso_em": "2026-10-21", "tier": "academico" }, "serie_bls": { "1990": -0.830, "1993": -0.597, "1997": -0.609, "2001": -0.399, "2005": -0.407, "2009": -0.191, "2013": -0.217, "2017": -0.129, "2021": -0.014 }, "leitura": "centro" },
+    "presidente": null,
+    "bancada_camara_2023": null,
+    "bancada_camara_2027": 0,
+    "bancada_senado_2027": null,
+    "fontes": [
+      { "nome": "Zucco & Power, material suplementar", "url": "https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S1531426X23000249/resource/name/S1531426X23000249sup001.pdf", "acesso_em": "2026-10-21", "tier": "academico" },
+      { "nome": "CNN Brasil, bancadas da Câmara 2027", "url": "https://www.cnnbrasil.com.br/eleicoes/bancada-partidos-camara/", "acesso_em": "2026-10-21", "tier": "imprensa" }
+    ],
+    "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/11_espectro_ideologico_didatico.md",
+    "atualizado_em": "2026-10-21",
+    "lacunas": ["Federação PSDB-Cidadania elegeu 11 deputados, todos do PSDB."]
+  },
+  {
+    "sigla": "PROS",
+    "nome": "Partido Republicano da Ordem Social",
+    "fundacao": null,
+    "posicao_espectro": { "bls_score": 0.032, "ano": 2021, "fonte": { "nome": "Zucco & Power, Tabela C1, material suplementar (LAPS, DOI 10.1017/lap.2023.24)", "url": "https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S1531426X23000249/resource/name/S1531426X23000249sup001.pdf", "acesso_em": "2026-10-21", "tier": "academico" }, "serie_bls": { "2017": 0.020, "2021": 0.032 }, "leitura": "centro" },
+    "presidente": null,
+    "bancada_camara_2023": null,
+    "bancada_camara_2027": null,
+    "bancada_senado_2027": null,
+    "fontes": [
+      { "nome": "Zucco & Power, material suplementar", "url": "https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S1531426X23000249/resource/name/S1531426X23000249sup001.pdf", "acesso_em": "2026-10-21", "tier": "academico" }
+    ],
+    "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/11_espectro_ideologico_didatico.md",
+    "atualizado_em": "2026-10-21",
+    "lacunas": ["Partido não aparece nas bancadas eleitas de 2026 listadas na nota 08."]
+  },
+  {
+    "sigla": "MDB",
+    "nome": "Movimento Democrático Brasileiro",
+    "fundacao": null,
+    "posicao_espectro": { "bls_score": 0.137, "ano": 2021, "fonte": { "nome": "Zucco & Power, Tabela C1, material suplementar (LAPS, DOI 10.1017/lap.2023.24)", "url": "https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S1531426X23000249/resource/name/S1531426X23000249sup001.pdf", "acesso_em": "2026-10-21", "tier": "academico" }, "serie_bls": { "1990": -0.069, "1993": -0.022, "1997": 0.063, "2001": 0.151, "2005": 0.116, "2009": 0.054, "2013": 0.179, "2017": 0.385, "2021": 0.137 }, "leitura": "centro" },
+    "presidente": null,
+    "bancada_camara_2023": 42,
+    "bancada_camara_2027": 36,
+    "bancada_senado_2027": 8,
+    "fontes": [
+      { "nome": "Zucco & Power, material suplementar", "url": "https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S1531426X23000249/resource/name/S1531426X23000249sup001.pdf", "acesso_em": "2026-10-21", "tier": "academico" },
+      { "nome": "CNN Brasil, bancadas da Câmara 2027", "url": "https://www.cnnbrasil.com.br/eleicoes/bancada-partidos-camara/", "acesso_em": "2026-10-21", "tier": "imprensa" },
+      { "nome": "Agência Brasil, composição do Senado 2027", "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/pl-elege-19-senadores-e-soma-28-mdb-conquista-sete-vagas-e-pt-seis", "acesso_em": "2026-10-21", "tier": "oficial" }
+    ],
+    "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/11_espectro_ideologico_didatico.md",
+    "atualizado_em": "2026-10-21"
+  },
+  {
+    "sigla": "PSDB",
+    "nome": "Partido da Social Democracia Brasileira",
+    "fundacao": null,
+    "posicao_espectro": { "bls_score": 0.157, "ano": 2021, "fonte": { "nome": "Zucco & Power, Tabela C1, material suplementar (LAPS, DOI 10.1017/lap.2023.24)", "url": "https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S1531426X23000249/resource/name/S1531426X23000249sup001.pdf", "acesso_em": "2026-10-21", "tier": "academico" }, "serie_bls": { "1990": -0.309, "1993": -0.225, "1997": 0.162, "2001": 0.179, "2005": 0.141, "2009": 0.087, "2013": 0.219, "2017": 0.477, "2021": 0.157 }, "leitura": "centro (centro-direita em 2017)" },
+    "presidente": null,
+    "bancada_camara_2023": null,
+    "bancada_camara_2027": 11,
+    "bancada_senado_2027": 2,
+    "fontes": [
+      { "nome": "Zucco & Power, material suplementar", "url": "https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S1531426X23000249/resource/name/S1531426X23000249sup001.pdf", "acesso_em": "2026-10-21", "tier": "academico" },
+      { "nome": "CNN Brasil, bancadas da Câmara 2027", "url": "https://www.cnnbrasil.com.br/eleicoes/bancada-partidos-camara/", "acesso_em": "2026-10-21", "tier": "imprensa" },
+      { "nome": "Agência Brasil, composição do Senado 2027", "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/pl-elege-19-senadores-e-soma-28-mdb-conquista-sete-vagas-e-pt-seis", "acesso_em": "2026-10-21", "tier": "oficial" }
+    ],
+    "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/11_espectro_ideologico_didatico.md",
+    "atualizado_em": "2026-10-21"
+  },
+  {
+    "sigla": "SOLIDARIEDADE",
+    "nome": "Solidariedade",
+    "fundacao": null,
+    "posicao_espectro": { "bls_score": 0.190, "ano": 2021, "fonte": { "nome": "Zucco & Power, Tabela C1, material suplementar (LAPS, DOI 10.1017/lap.2023.24)", "url": "https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S1531426X23000249/resource/name/S1531426X23000249sup001.pdf", "acesso_em": "2026-10-21", "tier": "academico" }, "serie_bls": { "2017": 0.153, "2021": 0.190 }, "leitura": "centro" },
+    "presidente": null,
+    "bancada_camara_2023": null,
+    "bancada_camara_2027": 2,
+    "bancada_senado_2027": null,
+    "fontes": [
+      { "nome": "Zucco & Power, material suplementar", "url": "https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S1531426X23000249/resource/name/S1531426X23000249sup001.pdf", "acesso_em": "2026-10-21", "tier": "academico" },
+      { "nome": "CNN Brasil, bancadas da Câmara 2027", "url": "https://www.cnnbrasil.com.br/eleicoes/bancada-partidos-camara/", "acesso_em": "2026-10-21", "tier": "imprensa" }
+    ],
+    "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/11_espectro_ideologico_didatico.md",
+    "atualizado_em": "2026-10-21",
+    "lacunas": ["Federação Renovação Solidária (PRD 5 + Solidariedade 2) elegeu 7 deputados."]
+  },
+  {
+    "sigla": "PSD",
+    "nome": "Partido Social Democrático",
+    "fundacao": null,
+    "posicao_espectro": { "bls_score": 0.296, "ano": 2021, "fonte": { "nome": "Zucco & Power, Tabela C1, material suplementar (LAPS, DOI 10.1017/lap.2023.24)", "url": "https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S1531426X23000249/resource/name/S1531426X23000249sup001.pdf", "acesso_em": "2026-10-21", "tier": "academico" }, "serie_bls": { "2013": 0.373, "2017": 0.399, "2021": 0.296 }, "leitura": "centro-direita" },
+    "presidente": null,
+    "bancada_camara_2023": null,
+    "bancada_camara_2027": 43,
+    "bancada_senado_2027": 5,
+    "fontes": [
+      { "nome": "Zucco & Power, material suplementar", "url": "https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S1531426X23000249/resource/name/S1531426X23000249sup001.pdf", "acesso_em": "2026-10-21", "tier": "academico" },
+      { "nome": "CNN Brasil, bancadas da Câmara 2027", "url": "https://www.cnnbrasil.com.br/eleicoes/bancada-partidos-camara/", "acesso_em": "2026-10-21", "tier": "imprensa" },
+      { "nome": "Agência Brasil, composição do Senado 2027", "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/pl-elege-19-senadores-e-soma-28-mdb-conquista-sete-vagas-e-pt-seis", "acesso_em": "2026-10-21", "tier": "oficial" }
+    ],
+    "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/11_espectro_ideologico_didatico.md",
+    "atualizado_em": "2026-10-21",
+    "lacunas": ["Senado 2027 divergente: 5 (Agência Brasil) ou 4 (Wikipédia).", "Candidato a presidente em 2026: Ronaldo Caiado (2,18%); direção nacional neutra no 2º turno."]
+  },
+  {
+    "sigla": "PODE",
+    "nome": "Podemos",
+    "fundacao": null,
+    "posicao_espectro": { "bls_score": 0.386, "ano": 2021, "fonte": { "nome": "Zucco & Power, Tabela C1, material suplementar (LAPS, DOI 10.1017/lap.2023.24)", "url": "https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S1531426X23000249/resource/name/S1531426X23000249sup001.pdf", "acesso_em": "2026-10-21", "tier": "academico" }, "serie_bls": { "2017": 0.269, "2021": 0.386 }, "leitura": "centro-direita" },
+    "presidente": null,
+    "bancada_camara_2023": 18,
+    "bancada_camara_2027": 27,
+    "bancada_senado_2027": 2,
+    "fontes": [
+      { "nome": "Zucco & Power, material suplementar", "url": "https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S1531426X23000249/resource/name/S1531426X23000249sup001.pdf", "acesso_em": "2026-10-21", "tier": "academico" },
+      { "nome": "CNN Brasil, bancadas da Câmara 2027", "url": "https://www.cnnbrasil.com.br/eleicoes/bancada-partidos-camara/", "acesso_em": "2026-10-21", "tier": "imprensa" },
+      { "nome": "Agência Brasil, composição do Senado 2027", "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/pl-elege-19-senadores-e-soma-28-mdb-conquista-sete-vagas-e-pt-seis", "acesso_em": "2026-10-21", "tier": "oficial" }
+    ],
+    "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/11_espectro_ideologico_didatico.md",
+    "atualizado_em": "2026-10-21"
+  },
+  {
+    "sigla": "DEM",
+    "nome": "Democratas (ex-PFL; fundiu-se com o PSL em 2022 para formar o União Brasil)",
+    "fundacao": null,
+    "posicao_espectro": { "bls_score": 0.431, "ano": 2021, "fonte": { "nome": "Zucco & Power, Tabela C1, material suplementar (LAPS, DOI 10.1017/lap.2023.24)", "url": "https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S1531426X23000249/resource/name/S1531426X23000249sup001.pdf", "acesso_em": "2026-10-21", "tier": "academico" }, "serie_bls": { "1990": 0.716, "1993": 0.671, "1997": 0.789, "2001": 0.717, "2005": 0.666, "2009": 0.635, "2013": 0.793, "2017": 0.739, "2021": 0.431 }, "leitura": "direita; melhor proxy disponível para o União Brasil" },
+    "presidente": null,
+    "bancada_camara_2023": null,
+    "bancada_camara_2027": null,
+    "bancada_senado_2027": null,
+    "fontes": [
+      { "nome": "Zucco & Power, material suplementar", "url": "https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S1531426X23000249/resource/name/S1531426X23000249sup001.pdf", "acesso_em": "2026-10-21", "tier": "academico" }
+    ],
+    "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/11_espectro_ideologico_didatico.md",
+    "atualizado_em": "2026-10-21",
+    "lacunas": ["Partido extinto pela fusão em União Brasil (2022); sem bancadas próprias em 2027."]
+  },
+  {
+    "sigla": "UNIÃO",
+    "nome": "União Brasil",
+    "fundacao": "2022",
+    "posicao_espectro": { "bls_score": null, "ano": null, "fonte": { "nome": "Zucco & Power, Latin American Politics and Society (Cambridge Core)", "url": "https://www.cambridge.org/core/product/FAF5489B3E01D39A16DBB4971458AD48/core-reader", "acesso_em": "2026-10-21", "tier": "academico" }, "leitura": "não medido diretamente na BLS (fusão DEM +0,431 e PSL +0,803 em 2021); os autores usaram 'ajustes' não publicados para projetar a 57ª Legislatura" },
+    "presidente": null,
+    "bancada_camara_2023": null,
+    "bancada_camara_2027": 46,
+    "bancada_senado_2027": 6,
+    "fontes": [
+      { "nome": "Zucco & Power, Latin American Politics and Society (Cambridge Core)", "url": "https://www.cambridge.org/core/product/FAF5489B3E01D39A16DBB4971458AD48/core-reader", "acesso_em": "2026-10-21", "tier": "academico" },
+      { "nome": "CNN Brasil, bancadas da Câmara 2027", "url": "https://www.cnnbrasil.com.br/eleicoes/bancada-partidos-camara/", "acesso_em": "2026-10-21", "tier": "imprensa" },
+      { "nome": "Brasil de Fato, Senado 2027 (05/10/2026)", "url": "https://www.brasildefato.com.br/2026/10/05/dominio-da-direita-no-senado-veja-os-eleitos-e-como-fica-a-casa-em-2027/", "acesso_em": "2026-10-21", "tier": "imprensa" }
+    ],
+    "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/08_eleicao_2026_cenario_checagens.md",
+    "atualizado_em": "2026-10-21",
+    "lacunas": ["Ano de fundação (2022) inferido da fusão DEM+PSL citada na nota 11; data exata não consta.", "Federação União Progressista (União 46 + PP 41) elegeu 87 deputados (eram 105–106 em 2023).", "Senado 2027 divergente: 6 (Brasil de Fato) ou 5 (Agência Brasil).", "Fundo eleitoral 2026: R$ 526 mi."]
+  },
+  {
+    "sigla": "PTB",
+    "nome": "Partido Trabalhista Brasileiro",
+    "fundacao": null,
+    "posicao_espectro": { "bls_score": 0.455, "ano": 2021, "fonte": { "nome": "Zucco & Power, Tabela C1, material suplementar (LAPS, DOI 10.1017/lap.2023.24)", "url": "https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S1531426X23000249/resource/name/S1531426X23000249sup001.pdf", "acesso_em": "2026-10-21", "tier": "academico" }, "serie_bls": { "1990": 0.487, "1993": 0.482, "1997": 0.572, "2001": 0.459, "2005": 0.375, "2009": 0.276, "2013": 0.323, "2017": 0.198, "2021": 0.455 }, "leitura": "direita" },
+    "presidente": null,
+    "bancada_camara_2023": null,
+    "bancada_camara_2027": null,
+    "bancada_senado_2027": null,
+    "fontes": [
+      { "nome": "Zucco & Power, material suplementar", "url": "https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S1531426X23000249/resource/name/S1531426X23000249sup001.pdf", "acesso_em": "2026-10-21", "tier": "academico" }
+    ],
+    "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/11_espectro_ideologico_didatico.md",
+    "atualizado_em": "2026-10-21",
+    "lacunas": ["Partido não aparece nas bancadas eleitas de 2026 listadas na nota 08 (a federação Renovação Solidária inclui o PRD, sucessor do PTB, não confirmado na nota)."]
+  },
+  {
+    "sigla": "PP",
+    "nome": "Progressistas",
+    "fundacao": null,
+    "posicao_espectro": { "bls_score": 0.510, "ano": 2021, "fonte": { "nome": "Zucco & Power, Tabela C1, material suplementar (LAPS, DOI 10.1017/lap.2023.24)", "url": "https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S1531426X23000249/resource/name/S1531426X23000249sup001.pdf", "acesso_em": "2026-10-21", "tier": "academico" }, "serie_bls": { "1990": 0.881, "1993": 0.734, "1997": 0.853, "2001": 0.789, "2005": 0.674, "2009": 0.528, "2013": 0.610, "2017": 0.577, "2021": 0.510 }, "leitura": "direita" },
+    "presidente": null,
+    "bancada_camara_2023": null,
+    "bancada_camara_2027": 41,
+    "bancada_senado_2027": 6,
+    "fontes": [
+      { "nome": "Zucco & Power, material suplementar", "url": "https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S1531426X23000249/resource/name/S1531426X23000249sup001.pdf", "acesso_em": "2026-10-21", "tier": "academico" },
+      { "nome": "CNN Brasil, bancadas da Câmara 2027", "url": "https://www.cnnbrasil.com.br/eleicoes/bancada-partidos-camara/", "acesso_em": "2026-10-21", "tier": "imprensa" },
+      { "nome": "Agência Brasil, composição do Senado 2027", "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/pl-elege-19-senadores-e-soma-28-mdb-conquista-sete-vagas-e-pt-seis", "acesso_em": "2026-10-21", "tier": "oficial" }
+    ],
+    "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/11_espectro_ideologico_didatico.md",
+    "atualizado_em": "2026-10-21",
+    "lacunas": ["Fundo eleitoral 2026: R$ 417 mi."]
+  },
+  {
+    "sigla": "REPUBLICANOS",
+    "nome": "Republicanos",
+    "fundacao": null,
+    "posicao_espectro": { "bls_score": 0.550, "ano": 2021, "fonte": { "nome": "Zucco & Power, Tabela C1, material suplementar (LAPS, DOI 10.1017/lap.2023.24)", "url": "https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S1531426X23000249/resource/name/S1531426X23000249sup001.pdf", "acesso_em": "2026-10-21", "tier": "academico" }, "serie_bls": { "2017": 0.425, "2021": 0.550 }, "leitura": "direita" },
+    "presidente": null,
+    "bancada_camara_2023": null,
+    "bancada_camara_2027": 41,
+    "bancada_senado_2027": 5,
+    "fontes": [
+      { "nome": "Zucco & Power, material suplementar", "url": "https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S1531426X23000249/resource/name/S1531426X23000249sup001.pdf", "acesso_em": "2026-10-21", "tier": "academico" },
+      { "nome": "CNN Brasil, bancadas da Câmara 2027", "url": "https://www.cnnbrasil.com.br/eleicoes/bancada-partidos-camara/", "acesso_em": "2026-10-21", "tier": "imprensa" },
+      { "nome": "Brasil de Fato, Senado 2027 (05/10/2026)", "url": "https://www.brasildefato.com.br/2026/10/05/dominio-da-direita-no-senado-veja-os-eleitos-e-como-fica-a-casa-em-2027/", "acesso_em": "2026-10-21", "tier": "imprensa" }
+    ],
+    "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/11_espectro_ideologico_didatico.md",
+    "atualizado_em": "2026-10-21",
+    "lacunas": ["Senado 2027 divergente: 5 (Brasil de Fato) ou 6 (Agência Brasil)."]
+  },
+  {
+    "sigla": "PSC",
+    "nome": "Partido Social Cristão",
+    "fundacao": null,
+    "posicao_espectro": { "bls_score": 0.596, "ano": 2021, "fonte": { "nome": "Zucco & Power, Tabela C1, material suplementar (LAPS, DOI 10.1017/lap.2023.24)", "url": "https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S1531426X23000249/resource/name/S1531426X23000249sup001.pdf", "acesso_em": "2026-10-21", "tier": "academico" }, "serie_bls": { "2017": 0.541, "2021": 0.596 }, "leitura": "direita" },
+    "presidente": null,
+    "bancada_camara_2023": null,
+    "bancada_camara_2027": null,
+    "bancada_senado_2027": null,
+    "fontes": [
+      { "nome": "Zucco & Power, material suplementar", "url": "https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S1531426X23000249/resource/name/S1531426X23000249sup001.pdf", "acesso_em": "2026-10-21", "tier": "academico" }
+    ],
+    "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/11_espectro_ideologico_didatico.md",
+    "atualizado_em": "2026-10-21",
+    "lacunas": ["Partido não aparece nas bancadas eleitas de 2026 listadas na nota 08."]
+  },
+  {
+    "sigla": "NOVO",
+    "nome": "Partido Novo",
+    "fundacao": null,
+    "posicao_espectro": { "bls_score": 0.711, "ano": 2021, "fonte": { "nome": "Zucco & Power, Tabela C1, material suplementar (LAPS, DOI 10.1017/lap.2023.24)", "url": "https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S1531426X23000249/resource/name/S1531426X23000249sup001.pdf", "acesso_em": "2026-10-21", "tier": "academico" }, "serie_bls": { "2021": 0.711 }, "leitura": "direita (liberalismo econômico)" },
+    "presidente": null,
+    "bancada_camara_2023": 3,
+    "bancada_camara_2027": 10,
+    "bancada_senado_2027": 3,
+    "fontes": [
+      { "nome": "Zucco & Power, material suplementar", "url": "https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S1531426X23000249/resource/name/S1531426X23000249sup001.pdf", "acesso_em": "2026-10-21", "tier": "academico" },
+      { "nome": "CNN Brasil, bancadas da Câmara 2027", "url": "https://www.cnnbrasil.com.br/eleicoes/bancada-partidos-camara/", "acesso_em": "2026-10-21", "tier": "imprensa" },
+      { "nome": "Agência Brasil, composição do Senado 2027", "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/pl-elege-19-senadores-e-soma-28-mdb-conquista-sete-vagas-e-pt-seis", "acesso_em": "2026-10-21", "tier": "oficial" }
+    ],
+    "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/11_espectro_ideologico_didatico.md",
+    "atualizado_em": "2026-10-21",
+    "lacunas": ["Candidato a presidente em 2026: Romeu Zema (0,27%); apoia Flávio Bolsonaro no 2º turno."]
+  },
+  {
+    "sigla": "PSL",
+    "nome": "Partido Social Liberal (fundiu-se com o DEM em 2022 para formar o União Brasil)",
+    "fundacao": null,
+    "posicao_espectro": { "bls_score": 0.803, "ano": 2021, "fonte": { "nome": "Zucco & Power, Tabela C1, material suplementar (LAPS, DOI 10.1017/lap.2023.24)", "url": "https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S1531426X23000249/resource/name/S1531426X23000249sup001.pdf", "acesso_em": "2026-10-21", "tier": "academico" }, "serie_bls": { "2021": 0.803 }, "leitura": "polo direito do sistema em 2021 (veículo de Bolsonaro em 2018; substituiu o DEM como partido mais à direita)" },
+    "presidente": null,
+    "bancada_camara_2023": null,
+    "bancada_camara_2027": null,
+    "bancada_senado_2027": null,
+    "fontes": [
+      { "nome": "Zucco & Power, material suplementar", "url": "https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S1531426X23000249/resource/name/S1531426X23000249sup001.pdf", "acesso_em": "2026-10-21", "tier": "academico" },
+      { "nome": "Zucco & Power, Latin American Politics and Society (Cambridge Core)", "url": "https://www.cambridge.org/core/product/FAF5489B3E01D39A16DBB4971458AD48/core-reader", "acesso_em": "2026-10-21", "tier": "academico" }
+    ],
+    "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/11_espectro_ideologico_didatico.md",
+    "atualizado_em": "2026-10-21",
+    "lacunas": ["Partido extinto pela fusão em União Brasil (2022)."]
+  },
+  {
+    "sigla": "PCB",
+    "nome": "Partido Comunista Brasileiro",
+    "fundacao": "1922-03",
+    "posicao_espectro": { "bls_score": null, "ano": null, "fonte": { "nome": "Zucco & Power, material suplementar (partido não avaliado)", "url": "https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S1531426X23000249/resource/name/S1531426X23000249sup001.pdf", "acesso_em": "2026-10-21", "tier": "academico" }, "leitura": "não consta da Tabela C1 da BLS" },
+    "presidente": null,
+    "bancada_camara_2023": null,
+    "bancada_camara_2027": null,
+    "bancada_senado_2027": null,
+    "fontes": [
+      { "nome": "Correio Braziliense (coluna: PCB completaria 101 anos)", "url": "https://blogs.correiobraziliense.com.br/azedo/memoria-partido-comunista-no-brasil-conhecido-como-partidao-completaria-101-anos/", "acesso_em": "2026-10-21", "tier": "imprensa" },
+      { "nome": "CartaCapital, TSE encerra apuração (05/10/2026)", "url": "https://www.cartacapital.com.br/politica/tse-encerra-apuracao-do-1o-turno/", "acesso_em": "2026-10-21", "tier": "imprensa" }
+    ],
+    "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/11_espectro_ideologico_didatico.md",
+    "atualizado_em": "2026-10-21",
+    "lacunas": ["Fundado em março de 1922 (Astrojildo Pereira entre os fundadores); ilegal de 1947 a 1985.", "Candidato a presidente em 2026: Edmilson Costa (22.693 votos; 0,02%); apoia Lula no 2º turno.", "Sem survey acadêmico com posição numérica."]
+  },
+  {
+    "sigla": "UP",
+    "nome": "Unidade Popular",
+    "fundacao": null,
+    "posicao_espectro": { "bls_score": null, "ano": null, "fonte": { "nome": "Zucco & Power, material suplementar (partido não avaliado)", "url": "https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S1531426X23000249/resource/name/S1531426X23000249sup001.pdf", "acesso_em": "2026-10-21", "tier": "academico" }, "leitura": "não consta da Tabela C1 da BLS" },
+    "presidente": null,
+    "bancada_camara_2023": null,
+    "bancada_camara_2027": null,
+    "bancada_senado_2027": null,
+    "fontes": [
+      { "nome": "CartaCapital, TSE encerra apuração (05/10/2026)", "url": "https://www.cartacapital.com.br/politica/tse-encerra-apuracao-do-1o-turno/", "acesso_em": "2026-10-21", "tier": "imprensa" }
+    ],
+    "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/08_eleicao_2026_cenario_checagens.md",
+    "atualizado_em": "2026-10-21",
+    "lacunas": ["Candidata a presidente em 2026: Samara Martins (122.911 votos; 0,10%); apoia Lula no 2º turno.", "Sem survey acadêmico com posição numérica."]
+  },
+  {
+    "sigla": "AVANTE",
+    "nome": "Avante",
+    "fundacao": null,
+    "posicao_espectro": { "bls_score": null, "ano": null, "fonte": { "nome": "Zucco & Power, material suplementar (partido não avaliado)", "url": "https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S1531426X23000249/resource/name/S1531426X23000249sup001.pdf", "acesso_em": "2026-10-21", "tier": "academico" }, "leitura": "não consta da Tabela C1 da BLS" },
+    "presidente": null,
+    "bancada_camara_2023": null,
+    "bancada_camara_2027": 5,
+    "bancada_senado_2027": null,
+    "fontes": [
+      { "nome": "CNN Brasil, bancadas da Câmara 2027", "url": "https://www.cnnbrasil.com.br/eleicoes/bancada-partidos-camara/", "acesso_em": "2026-10-21", "tier": "imprensa" },
+      { "nome": "CartaCapital, TSE encerra apuração (05/10/2026)", "url": "https://www.cartacapital.com.br/politica/tse-encerra-apuracao-do-1o-turno/", "acesso_em": "2026-10-21", "tier": "imprensa" }
+    ],
+    "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/08_eleicao_2026_cenario_checagens.md",
+    "atualizado_em": "2026-10-21",
+    "lacunas": ["Candidato a presidente em 2026: Augusto Cury (3.448.569 votos; 2,89%, 3º colocado); apoia Flávio Bolsonaro no 2º turno.", "Sem survey acadêmico com posição numérica."]
+  },
+  {
+    "sigla": "MISSÃO",
+    "nome": "Missão",
+    "fundacao": null,
+    "posicao_espectro": { "bls_score": null, "ano": null, "fonte": { "nome": "Zucco & Power, material suplementar (partido não avaliado)", "url": "https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S1531426X23000249/resource/name/S1531426X23000249sup001.pdf", "acesso_em": "2026-10-21", "tier": "academico" }, "leitura": "não consta da Tabela C1 da BLS" },
+    "presidente": null,
+    "bancada_camara_2023": null,
+    "bancada_camara_2027": 1,
+    "bancada_senado_2027": null,
+    "fontes": [
+      { "nome": "CNN Brasil, bancadas da Câmara 2027", "url": "https://www.cnnbrasil.com.br/eleicoes/bancada-partidos-camara/", "acesso_em": "2026-10-21", "tier": "imprensa" },
+      { "nome": "CartaCapital, TSE encerra apuração (05/10/2026)", "url": "https://www.cartacapital.com.br/politica/tse-encerra-apuracao-do-1o-turno/", "acesso_em": "2026-10-21", "tier": "imprensa" }
+    ],
+    "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/08_eleicao_2026_cenario_checagens.md",
+    "atualizado_em": "2026-10-21",
+    "lacunas": ["Candidato a presidente em 2026: Renan Santos (2.675.887 votos; 2,24%); neutro no 2º turno; 1 deputado federal eleito (líder: Kim Kataguiri).", "Sem survey acadêmico com posição numérica."]
+  }
+]

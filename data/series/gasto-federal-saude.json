@@ -1,0 +1,87 @@
+{
+  "id": "gasto-federal-saude",
+  "titulo": "Piso constitucional federal da saúde (15% da receita corrente líquida)",
+  "descricao_simples": "Valor mínimo que a União é obrigada a aplicar em ações e serviços públicos de saúde. Foi de R$ 185,1 bi em 2023 e R$ 217,9 bi em 2024; o PLOA 2026 estima R$ 245,5 bi.",
+  "unidade": "R$ bilhões",
+  "tipo_grafico": "barra",
+  "frequencia": "anual",
+  "fonte": {
+    "nome": "Câmara dos Deputados — Consultoria de Orçamento, NT 36/2024",
+    "url": "https://www2.camara.leg.br/orcamento-da-uniao/estudos/2024/nt-36-de-2024-simulacoes-gastos-minimos-da-uniao-saude-educacao-e-beneficios-rgps",
+    "acesso_em": "2026-10-21",
+    "tier": "oficial"
+  },
+  "pontos": [
+    {
+      "periodo": "2023",
+      "valor": 185.06
+    },
+    {
+      "periodo": "2024",
+      "valor": 217.86
+    },
+    {
+      "periodo": "2026",
+      "valor": 245.5,
+      "detalhe": {
+        "nota": "estimativa do PLOA 2026 (O Imparcial/Estadão Conteúdo)",
+        "nao_verificado": true
+      }
+    }
+  ],
+  "faixas_referencia": [
+    {
+      "rotulo": "Despesa federal com saúde em 2019 (aprox., 2,16% do PIB)",
+      "valor": 194
+    },
+    {
+      "rotulo": "Despesa federal com saúde em 2022 (aprox., volta ao nível pré-pandemia)",
+      "valor": 190
+    },
+    {
+      "rotulo": "Projeção da Consultoria da Câmara para 2025 — piso pela regra da RCL",
+      "valor": 219.6
+    },
+    {
+      "rotulo": "Projeção da Consultoria da Câmara para 2025 — cenário alto",
+      "valor": 231.3
+    }
+  ],
+  "notas_metodologicas": [
+    "Os pontos são o piso (mínimo obrigatório), não a despesa executada. A Consultoria da Câmara projetava para 2026 entre R$ 234,3 bi e R$ 244,2 bi; o PLOA 2026 trouxe R$ 245,5 bi.",
+    "Alta de 17,72% do piso entre 2023 e 2024.",
+    "Execução: 2019 ≈ R$ 194 bi (2,16% do PIB); 2020 +19,6% real; 2021 14,9% acima de 2019; 2022 ≈ R$ 190 bi (Fiocruz, com dados do Ministério da Fazenda). Sob a EC 95 (teto de gastos), a despesa só pôde crescer na pandemia via créditos extraordinários.",
+    "Regras: EC 29/2000 criou os pisos; EC 86/2015 (governo Dilma) vinculou o piso federal a 15% da RCL; EC 95/2016 (governo Temer) congelou-o em termos reais; LC 200/2023 (governo Lula 3) restabeleceu os 15% da RCL a partir de 2024. O próprio governo projeta aperto em 2027, porque os pisos crescem com a receita e o arcabouço limita a despesa total a 0,6%–2,5% reais ao ano.",
+    "Gasto total em saúde (público + privado): 8,7% do PIB em média 2010–2019, dos quais 3,7% público; participação pública caiu de 43,5% (2015) para 40,9% (2019)."
+  ],
+  "ultimo_periodo": "2026 (estimativa PLOA)",
+  "temas": [
+    "saude",
+    "contas-publicas"
+  ],
+  "fontes_adicionais": [
+    {
+      "nome": "Fiocruz — Nota Técnica Horizontes: gasto público em saúde",
+      "url": "https://agencia.fiocruz.br/sites/agencia.fiocruz.br/files/u35/nt-horizontes-gasto-publico-em-saude.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    },
+    {
+      "nome": "O Imparcial/Estadão Conteúdo — PLOA 2026",
+      "url": "https://oimparcial.com.br/economia/2025/08/despesas-federais-poderao-crescer-ate-r-168-bilhoes-em-2026/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "InfoMoney — governo projeta falta de recursos para saúde e educação em 2027",
+      "url": "https://www.infomoney.com.br/politica/governo-projeta-falta-de-recursos-para-saude-e-educacao-no-orcamento-de-2027/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "lacunas": [
+    "Série anual completa 2003–2025 de gasto federal em saúde (R$ e % do PIB) não localizada em fonte única; execução efetiva (empenho/pago) de 2023–2025 não localizada."
+  ],
+  "atualizado_em": "2026-10-21",
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/07_saude_seguranca_educacao_infra_ambiente.md"
+}

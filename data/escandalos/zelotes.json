@@ -1,0 +1,222 @@
+{
+  "id": "zelotes",
+  "nome": "Operação Zelotes (Carf)",
+  "periodo": {
+    "inicio": "2015-03-26",
+    "fim": null
+  },
+  "governos_em_que_ocorreram_os_fatos": [],
+  "governos_em_que_foi_investigado": [
+    "dilma",
+    "temer",
+    "bolsonaro",
+    "lula-3"
+  ],
+  "resumo_simples": [
+    "A Operação Zelotes (PF, 26/03/2015; 41 mandados, 180 policiais) investigou a compra de decisões no Carf, o conselho que julga recursos de contribuintes contra a Receita Federal.",
+    "O prejuízo estimado foi de R$ 5,7 bi nos casos iniciais e cerca de R$ 19 bi no total investigado. Houve denúncias (caso BankBoston, com 11 réus em 2017; Guido Mantega réu em 2018; Lula e Gilberto Carvalho).",
+    "Lula foi absolvido em 21/06/2021 (10ª Vara Federal do DF) a pedido do próprio MPF; a investigação contra Mantega foi encerrada em 24/02/2025; em nov/2024 a 10ª Vara Federal do DF declarou falso o relatório do Coaf que embasou a operação, o que abriu caminho a pedidos de anulação."
+  ],
+  "valores": [
+    {
+      "rotulo": "Prejuízo nos casos iniciais",
+      "valor": 5.7,
+      "unidade": "R$ bilhões",
+      "fonte": {
+        "nome": "Wikipédia pt, Operação Zelotes (índice)",
+        "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Zelotes",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Total investigado",
+      "valor": 19,
+      "unidade": "R$ bilhões",
+      "fonte": {
+        "nome": "Wikipédia pt, Operação Zelotes (índice)",
+        "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Zelotes",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Mandados na deflagração (26/03/2015)",
+      "valor": 41,
+      "unidade": "mandados",
+      "fonte": {
+        "nome": "Wikipédia pt, Operação Zelotes (índice)",
+        "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Zelotes",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Réus no caso BankBoston (24/07/2017)",
+      "valor": 11,
+      "unidade": "pessoas",
+      "fonte": {
+        "nome": "O Globo, 24/07/2017: Justiça aceita denúncia; ex-diretor do BankBoston e outros dez viram réus na Zelotes",
+        "url": "https://oglobo.globo.com/economia/justica-aceita-denuncia-ex-diretor-do-bankboston-outros-dez-viram-reus-na-zelotes-21626117",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    }
+  ],
+  "partidos": [
+    {
+      "partido": "PT",
+      "citados": null,
+      "denunciados": null,
+      "condenados_1a_instancia": null,
+      "condenados_definitivo": null,
+      "condenacoes_anuladas": null,
+      "absolvidos_nomeados": [
+        "Lula",
+        "Gilberto Carvalho"
+      ],
+      "arquivados_nomeados": [
+        "Guido Mantega (investigação encerrada 24/02/2025)"
+      ],
+      "fonte": {
+        "nome": "G1, 21/06/2021: Justiça Federal absolve Lula e Gilberto Carvalho na Zelotes",
+        "url": "https://g1.globo.com/politica/noticia/2021/06/21/justica-federal-absolve-lula-e-gilberto-carvalho-em-acao-da-operacao-zelotes.ghtml",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "nota": "Lista de condenados da Zelotes com penas não localizada nas notas."
+    }
+  ],
+  "pessoas": [
+    {
+      "nome": "Luiz Inácio Lula da Silva",
+      "partido_na_epoca": "PT",
+      "cargo": "ex-presidente da República",
+      "crime": "corrupção (MP das montadoras)",
+      "tribunal": "10ª Vara Federal do DF (Frederico Viana)",
+      "data_condenacao": null,
+      "pena": null,
+      "status_atual": "Absolvido em 21/06/2021, com Gilberto Carvalho e 5 outros réus, após o MPF pedir a absolvição (mai/2021).",
+      "status_categoria": "absolvido",
+      "url": "https://g1.globo.com/politica/noticia/2021/06/21/justica-federal-absolve-lula-e-gilberto-carvalho-em-acao-da-operacao-zelotes.ghtml",
+      "caso": "MP das montadoras"
+    },
+    {
+      "nome": "Luiz Inácio Lula da Silva",
+      "partido_na_epoca": "PT",
+      "cargo": "ex-presidente da República",
+      "crime": "corrupção (caças Gripen e MP 627)",
+      "tribunal": "Justiça Federal do DF (Vallisney)",
+      "data_condenacao": null,
+      "pena": null,
+      "status_atual": "Ação suspensa por Lewandowski (STF) em 02/03/2022; status em 2026 não confirmado.",
+      "status_categoria": "reu",
+      "url": "https://pt.wikipedia.org/wiki/Pris%C3%A3o_de_Luiz_In%C3%A1cio_Lula_da_Silva",
+      "caso": "Gripen / MP 627",
+      "nao_verificado": true
+    },
+    {
+      "nome": "Gilberto Carvalho",
+      "partido_na_epoca": "PT",
+      "cargo": "ex-ministro-chefe da Secretaria-Geral da Presidência",
+      "crime": "corrupção (MP das montadoras)",
+      "tribunal": "10ª Vara Federal do DF (Frederico Viana)",
+      "data_condenacao": null,
+      "pena": null,
+      "status_atual": "Absolvido em 21/06/2021.",
+      "status_categoria": "absolvido",
+      "url": "https://g1.globo.com/politica/noticia/2021/06/21/justica-federal-absolve-lula-e-gilberto-carvalho-em-acao-da-operacao-zelotes.ghtml"
+    },
+    {
+      "nome": "Guido Mantega",
+      "partido_na_epoca": "PT",
+      "cargo": "ex-ministro da Fazenda",
+      "crime": "corrupção e lavagem de dinheiro",
+      "tribunal": "Justiça Federal do DF",
+      "data_condenacao": null,
+      "pena": null,
+      "status_atual": "Réu em 12/03/2018; investigação encerrada em 24/02/2025.",
+      "status_categoria": "arquivado",
+      "url": "https://g1.globo.com/politica/noticia/2025/02/24/justica-federal-do-df-encerra-investigacao-contra-mantega-por-corrupcao-e-lavagem.ghtml"
+    }
+  ],
+  "linha_do_tempo": [
+    {
+      "data": "2015-03-26",
+      "evento": "PF deflagra a Operação Zelotes (41 mandados, 180 policiais).",
+      "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Zelotes"
+    },
+    {
+      "data": "2017-07-24",
+      "evento": "Justiça aceita denúncia: ex-diretor do BankBoston e outros dez viram réus.",
+      "url": "https://oglobo.globo.com/economia/justica-aceita-denuncia-ex-diretor-do-bankboston-outros-dez-viram-reus-na-zelotes-21626117"
+    },
+    {
+      "data": "2018-03-12",
+      "evento": "Guido Mantega vira réu.",
+      "url": "https://oglobo.globo.com/brasil/ex-ministro-guido-mantega-vira-reu-na-operacao-zelotes-22481844"
+    },
+    {
+      "data": "2021-06-21",
+      "evento": "10ª Vara Federal do DF absolve Lula, Gilberto Carvalho e 5 outros (MP das montadoras), a pedido do MPF.",
+      "url": "https://g1.globo.com/politica/noticia/2021/06/21/justica-federal-absolve-lula-e-gilberto-carvalho-em-acao-da-operacao-zelotes.ghtml"
+    },
+    {
+      "data": "2022-03-02",
+      "evento": "Lewandowski (STF) suspende a ação contra Lula sobre caças Gripen e MP 627.",
+      "url": "https://pt.wikipedia.org/wiki/Pris%C3%A3o_de_Luiz_In%C3%A1cio_Lula_da_Silva"
+    },
+    {
+      "data": "2024-11",
+      "evento": "10ª Vara Federal Criminal do DF declara falso o RIF do Coaf usado como base da operação; defesas pedem anulações.",
+      "url": "https://www.revistaoeste.com/politica/decisao-da-justica-federal-pode-anular-condenacoes-da-operacao-zelotes/"
+    },
+    {
+      "data": "2025-02-24",
+      "evento": "Justiça Federal do DF encerra a investigação contra Mantega.",
+      "url": "https://g1.globo.com/politica/noticia/2025/02/24/justica-federal-do-df-encerra-investigacao-contra-mantega-por-corrupcao-e-lavagem.ghtml"
+    }
+  ],
+  "o_que_dizem_os_dois_lados": {
+    "acusacao": "O MPF e a PF sustentaram que houve venda de decisões no Carf, com prejuízo de R$ 5,7 bi nos casos iniciais e ~R$ 19 bi no total investigado, e denunciaram conselheiros, lobistas, executivos (BankBoston) e ex-autoridades (Mantega, Lula, Gilberto Carvalho).",
+    "defesa": "As defesas apontam que Lula e Gilberto Carvalho foram absolvidos a pedido do próprio MPF, que a investigação contra Mantega foi encerrada e que o relatório do Coaf que deu origem à operação foi declarado falso pela Justiça Federal (nov/2024), o que, pela teoria dos 'frutos da árvore envenenada', contaminaria as demais ações."
+  },
+  "status_atual_md": "Poucas condenações conhecidas; os principais ex-integrantes do governo investigados foram absolvidos (Lula, Gilberto Carvalho) ou tiveram a investigação encerrada (Mantega). Após a decisão de nov/2024 sobre o RIF falso do Coaf, há pedidos de anulação em curso cujo desfecho (2025–2026) não foi verificado.",
+  "lacunas": [
+    "Lista de condenados da Zelotes com penas não localizada (há condenações de conselheiros do Carf e lobistas, não verificadas).",
+    "Desfecho (2025–2026) dos pedidos de anulação após a decisão sobre o RIF falso não verificado.",
+    "Período dos fatos investigados não detalhado nas notas; por isso 'governos_em_que_ocorreram_os_fatos' ficou vazio.",
+    "Status em 2026 da ação sobre caças Gripen/MP 627 (suspensa em 2022) não confirmado."
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/04_escandalos_mensalao_petrolao_lavajato.md",
+  "fontes": [
+    {
+      "nome": "Wikipédia pt, Operação Zelotes (índice)",
+      "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Zelotes",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "O Globo, 24/07/2017: Justiça aceita denúncia; ex-diretor do BankBoston e outros dez viram réus na Zelotes",
+      "url": "https://oglobo.globo.com/economia/justica-aceita-denuncia-ex-diretor-do-bankboston-outros-dez-viram-reus-na-zelotes-21626117",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "G1, 21/06/2021: Justiça Federal absolve Lula e Gilberto Carvalho na Zelotes",
+      "url": "https://g1.globo.com/politica/noticia/2021/06/21/justica-federal-absolve-lula-e-gilberto-carvalho-em-acao-da-operacao-zelotes.ghtml",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "atualizado_em": "2026-10-21",
+  "convencoes": [
+    "citado: nome aparece em delação, planilha, relatório de CPI ou reportagem, sem ato formal de investigação.",
+    "investigado: alvo de inquérito, busca, prisão temporária/preventiva ou indiciamento pela PF (indiciamento não é denúncia).",
+    "denunciado: PGR/MPF ofereceu denúncia; réu: a denúncia foi recebida pelo tribunal.",
+    "condenado-1a / condenado-2a: decisão de mérito ainda sujeita a recurso. Para condenações pelo STF em instância única sem trânsito em julgado confirmado nas notas, usa-se condenado-1a com explicação em status_atual.",
+    "condenado-definitivo: trânsito em julgado confirmado nas notas; cumprindo-pena / pena-cumprida quando as notas informam a execução.",
+    "anulada: condenação ou provas anuladas por nulidade (competência, parcialidade, prova ilícita), sem exame de mérito; absolvido: decisão de mérito favorável; arquivado: inquérito/denúncia encerrada sem mérito; prescrito: punibilidade extinta pelo tempo.",
+    "Pedido de indiciamento por CPI/CPMI não é indiciamento policial nem denúncia: é recomendação ao Ministério Público."
+  ]
+}

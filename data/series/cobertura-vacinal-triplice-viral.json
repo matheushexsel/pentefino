@@ -1,0 +1,91 @@
+{
+  "id": "cobertura-vacinal-triplice-viral",
+  "titulo": "Cobertura vacinal da tríplice viral (2ª dose)",
+  "descricao_simples": "Percentual de crianças com a segunda dose da vacina contra sarampo, caxumba e rubéola. Caiu para 57,6% em 2022 e subiu para 80,1% em 2024, ainda abaixo da meta de 95%.",
+  "unidade": "% do público-alvo",
+  "tipo_grafico": "barra",
+  "frequencia": "anual",
+  "fonte": {
+    "nome": "Agência Gov — municípios com mais de 95% de cobertura vacinal (jan/2025)",
+    "url": "https://agenciagov.ebc.com.br/noticias/202501/cresce-numero-de-municipios-com-mais-de-95-de-cobertura-vacinal",
+    "acesso_em": "2026-10-21",
+    "tier": "oficial"
+  },
+  "pontos": [
+    {
+      "periodo": "2022",
+      "valor": 57.6,
+      "detalhe": {
+        "municipios_com_meta_atingida": 855
+      }
+    },
+    {
+      "periodo": "2024",
+      "valor": 80.1,
+      "detalhe": {
+        "municipios_com_meta_atingida": 2408
+      }
+    }
+  ],
+  "faixas_referencia": [
+    {
+      "rotulo": "Meta do Programa Nacional de Imunizações",
+      "valor": 95
+    }
+  ],
+  "notas_metodologicas": [
+    "Dados do Ministério da Saúde divulgados pela Agência Gov (jan/2025). Estudo com dados do DATASUS (HU Revista/UFJF) traz 80,20% para a D2 em 2024 e 90,20% para a pólio injetável.",
+    "A tríplice viral não atinge 95% desde 2017; a pólio e a meningocócica, desde 2016 (IFF/Fiocruz). Entre 2010 e 2024, a tríplice viral atingiu a meta em 8 anos e a pólio em 5 (CNM).",
+    "Em 2024, 15 dos 16 imunizantes tiveram alta frente a 2022; BCG, tríplice viral D1 e pólio oral superaram 95%. Municípios com meta para VOP: 1.466 (2022) para 2.825 (2024). Em nov/2024 a gotinha (VOP) foi substituída pela VIP injetável.",
+    "Em 2025 o Ministério da Saúde considerava alto o risco de reintrodução da pólio (cobertura abaixo de 80% em diversos estados) e registrava abandono da tríplice viral acima de 50% em alguns estados.",
+    "Responsabilidade: calendário, compra e distribuição de vacinas são federais; aplicação nas UBS e busca ativa são municipais. A queda começou em 2016–2017 (governos Dilma/Temer), aprofundou-se em 2019–2022 (Bolsonaro, com pandemia e desinformação) e a recuperação em 2023–2024 (Lula 3) é real, mas incompleta."
+  ],
+  "ultimo_periodo": "2024",
+  "temas": [
+    "saude"
+  ],
+  "fontes_adicionais": [
+    {
+      "nome": "HU Revista (UFJF) — estudo com dados DATASUS",
+      "url": "https://periodicos.ufjf.br/index.php/hurevista/article/download/48275/29469/221610",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    },
+    {
+      "nome": "CNM — estudo técnico cobertura vacinal 2010–2024",
+      "url": "https://cnm.org.br/biblioteca/download/16281",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    },
+    {
+      "nome": "Portal de Boas Práticas IFF/Fiocruz — retomada da cobertura vacinal",
+      "url": "https://portaldeboaspraticas.iff.fiocruz.br/atencao-crianca/principais-questoes-sobre-retomada-da-cobertura-vacinal/",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    },
+    {
+      "nome": "Brasil 61 — cobertura vacinal supera meta em várias cidades",
+      "url": "https://brasil61.com/n/cobertura-vacinal-supera-a-meta-de-95-em-varias-cidades-do-brasil-bras2513403",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Jornal de Brasília — Saúde alerta para baixa cobertura vacinal",
+      "url": "https://jornaldebrasilia.com.br/noticias/saude/saude-alerta-para-baixa-cobertura-vacinal-de-triplice-viral-poliomielite-influenza-e-covid-19/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "O Imparcial — cobertura da tríplice viral no Nordeste (out/2025)",
+      "url": "https://oimparcial.com.br/noticias/2025/10/maranhao-lidera-negativamente-cobertura-vacinal-de-triplice-viral-no-nordeste/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "lacunas": [
+    "Série anual oficial do SI-PNI por vacina (2015–2025) não obtida; ponto de 2023 e balanço fechado de 2025 não localizados.",
+    "Status do certificado de eliminação do sarampo (perdido em 2019) não confirmado em fonte oficial."
+  ],
+  "atualizado_em": "2026-10-21",
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/07_saude_seguranca_educacao_infra_ambiente.md"
+}

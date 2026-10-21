@@ -1,0 +1,112 @@
+{
+  "id": "investimento-publico-pib",
+  "titulo": "Investimento público total em % do PIB",
+  "descricao_simples": "Investimento de União, estados, municípios e estatais federais como proporção do PIB (FGV IBRE). Bateu o piso de 2,02% em 2021 e subiu para 3,04% em 2024, o melhor desde 2014.",
+  "unidade": "% do PIB",
+  "tipo_grafico": "barra",
+  "frequencia": "anual",
+  "fonte": {
+    "nome": "FGV IBRE — Observatório de Política Fiscal, investimentos públicos 1947–2024",
+    "url": "https://observatorio-politica-fiscal.ibre.fgv.br/series-historicas/investimentos-publicos/investimentos-publicos-1947-2024",
+    "acesso_em": "2026-10-21",
+    "tier": "academico"
+  },
+  "pontos": [
+    {
+      "periodo": "2021",
+      "valor": 2.02,
+      "detalhe": {
+        "uniao": 0.26,
+        "nota": "2º pior desde 1947 (o pior foi 2017); União no menor nível desde 2004 (0,21%)"
+      }
+    },
+    {
+      "periodo": "2022",
+      "valor": 2.53
+    },
+    {
+      "periodo": "2023",
+      "valor": 2.61,
+      "detalhe": {
+        "uniao": 0.3,
+        "nota": "primeira alta da União desde 2014"
+      }
+    },
+    {
+      "periodo": "2024",
+      "valor": 3.04
+    }
+  ],
+  "faixas_referencia": [
+    {
+      "rotulo": "União em 2004 (menor valor citado)",
+      "valor": 0.21
+    }
+  ],
+  "governos": [
+    {
+      "governo": "bolsonaro",
+      "inicio": {
+        "periodo": "2021",
+        "valor": 2.02
+      },
+      "fim": {
+        "periodo": "2022",
+        "valor": 2.53
+      }
+    },
+    {
+      "governo": "lula-3",
+      "inicio": {
+        "periodo": "2023",
+        "valor": 2.61
+      },
+      "fim": {
+        "periodo": "2024",
+        "valor": 3.04
+      }
+    }
+  ],
+  "notas_metodologicas": [
+    "A nota qualifica o nível de 2024 como 'bem abaixo' do observado no PAC 1 (segundo governo Lula) e informa que o investimento líquido (descontada a depreciação) é positivo há 3 anos, exceto no governo central, ainda negativo.",
+    "Em 2025 o Tesouro registrou despesas do governo geral em 46,9% do PIB, maior em 16 anos, com 'redução do investimento líquido' citada como compensação parcial dos juros.",
+    "O Brasil investe cerca de 2% do PIB em infraestrutura (ideal acima de 4%, segundo a Abdib); em 2025 foram R$ 280 bi, 84% privados.",
+    "Responsabilidade: a série soma os três níveis de governo e estatais federais; o valor da União isolada aparece no campo 'detalhe'."
+  ],
+  "ultimo_periodo": "2024",
+  "temas": [
+    "infraestrutura",
+    "contas-publicas"
+  ],
+  "fontes_adicionais": [
+    {
+      "nome": "Jornal de Brasília — investimento público sobe em 2023",
+      "url": "https://jornaldebrasilia.com.br/noticias/economia/investimento-publico-sobe-em-2023-mas-tendencia-de-estagnacao-permanece/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "PT.org.br (dados FGV 2021)",
+      "url": "https://pt.org.br/em-2021-pais-teve-o-2o-pior-investimento-publico-desde-1947-o-1o-em-2017/",
+      "acesso_em": "2026-10-21",
+      "tier": "partidario"
+    },
+    {
+      "nome": "InfoMoney — gasto do governo geral em 2025 (Tesouro)",
+      "url": "https://www.infomoney.com.br/economia/gasto-do-governo-geral-sobe-a-469-do-pib-em-2025-maior-nivel-em-16-anos/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Jornal de Brasília/Folhapress — Lula supera Bolsonaro e FHC em concessões (18/01/2026)",
+      "url": "https://jornaldebrasilia.com.br/noticias/economia/lula-supera-bolsonaro-e-fhc-como-governo-que-mais-fez-concessoes-de-infraestrutura/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "lacunas": [
+    "Série anual 2003–2020 e 2025 não lida (planilha da FGV não consultada); valores do PAC 1 e PAC 2 previstos vs executados não confirmados."
+  ],
+  "atualizado_em": "2026-10-21",
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/07_saude_seguranca_educacao_infra_ambiente.md"
+}

@@ -1,0 +1,116 @@
+{
+  "id": "privatizacoes-por-governo",
+  "titulo": "Privatizações e desinvestimentos federais por governo",
+  "descricao_simples": "Valores arrecadados com venda de ativos e outorgas por governo, segundo compilação da Wikipédia (com fontes). O governo Bolsonaro somou R$ 304,2 bi em privatizações e desinvestimentos, incluindo a Eletrobras (R$ 33,7 bi).",
+  "unidade": "R$ bilhões (valores correntes)",
+  "tipo_grafico": "barra",
+  "frequencia": "anual",
+  "fonte": {
+    "nome": "Wikipédia pt — Privatização no Brasil (compilação com fontes)",
+    "url": "https://pt.wikipedia.org/wiki/Privatiza%C3%A7%C3%A3o_no_Brasil",
+    "acesso_em": "2026-10-21",
+    "tier": "imprensa"
+  },
+  "pontos": [
+    {
+      "periodo": "Lula 1–2 (2003–2010)",
+      "valor": 1.4,
+      "governo": "lula-1-2",
+      "detalhe": {
+        "itens": [
+          "Ferrovia Norte-Sul (720 km) para a Vale, R$ 1,4 bi",
+          "cerca de 2.600 km de rodovias federais concedidos em 09/10/2007 (valor não informado)",
+          "bancos BEC e BEM (valor não informado)"
+        ]
+      },
+      "lacuna": "valor parcial: só a Norte-Sul tem valor na nota"
+    },
+    {
+      "periodo": "Dilma (2011–2016)",
+      "valor": 46,
+      "governo": "dilma",
+      "detalhe": {
+        "itens": [
+          "6 aeroportos (Natal, Brasília, Guarulhos, Viracopos, Galeão, Confins): R$ 46 bi em outorgas",
+          "Porto de Libra (2013): R$ 15 bi (não somado ao valor)"
+        ]
+      },
+      "lacuna": "outorgas de concessão, não venda de estatais"
+    },
+    {
+      "periodo": "Temer (2016–2018)",
+      "valor": 46.4,
+      "governo": "temer",
+      "detalhe": {
+        "itens": [
+          "124 de 193 projetos concluídos",
+          "R$ 46,4 bi em outorgas",
+          "R$ 253,3 bi de investimentos previstos",
+          "4 aeroportos"
+        ]
+      },
+      "lacuna": "outorgas de concessão, não venda de estatais"
+    },
+    {
+      "periodo": "Bolsonaro (2019–2022)",
+      "valor": 304.2,
+      "governo": "bolsonaro",
+      "detalhe": {
+        "itens": [
+          "Eletrobras: R$ 33,7 bi (14/06/2022; União de 68,6% para 40,3% do capital votante)",
+          "TAG: R$ 33,5 bi",
+          "BR Distribuidora: R$ 21 bi",
+          "NTS: R$ 21 bi",
+          "RLAM: R$ 8,9 bi",
+          "ações da Petrobras: R$ 31,5 bi",
+          "ações da Vale: R$ 24,5 bi",
+          "leilão 5G: R$ 46,8 bi (R$ 7,4 bi ao Tesouro)",
+          "12 aeroportos",
+          "cessão onerosa (2019): ~R$ 70 bi",
+          "Cedae (>R$ 22 bi) é estadual e não entra no total"
+        ]
+      }
+    },
+    {
+      "periodo": "Lula 3 (2023–2025)",
+      "valor": null,
+      "governo": "lula-3",
+      "detalhe": {
+        "itens": [
+          "nenhuma venda de estatal registrada na nota; concessões em leiloes-infraestrutura-por-governo"
+        ]
+      },
+      "lacuna": "valor não consta da nota"
+    }
+  ],
+  "faixas_referencia": [],
+  "notas_metodologicas": [
+    "Os valores não são estritamente comparáveis: Dilma e Temer aparecem com outorgas de concessões; Bolsonaro, com o total de 'privatizações e desinvestimentos' (venda de controle, de participações e outorgas, inclusive 5G e cessão onerosa). Valores correntes, sem correção pela inflação.",
+    "O 5G (R$ 46,8 bi) é licitação de espectro, dos quais apenas R$ 7,4 bi foram ao Tesouro; o restante são compromissos de investimento.",
+    "Responsabilidade: privatizações de empresas federais dependem do Executivo federal, do Congresso (leis autorizativas) e do TCU; a Cedae é estadual (RJ)."
+  ],
+  "ultimo_periodo": "2025",
+  "temas": [
+    "infraestrutura",
+    "energia"
+  ],
+  "fontes_adicionais": [
+    {
+      "nome": "Wikipédia pt — Eletrobras",
+      "url": "https://pt.wikipedia.org/wiki/Eletrobras",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Jornal de Brasília/Folhapress — Lula supera Bolsonaro e FHC em concessões (18/01/2026)",
+      "url": "https://jornaldebrasilia.com.br/noticias/economia/lula-supera-bolsonaro-e-fhc-como-governo-que-mais-fez-concessoes-de-infraestrutura/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "lacunas": [
+    "Valores de Lula 1–2 (rodovias, bancos) e Lula 3 não constam da nota; totais oficiais do PND/PPI por governo não consultados."
+  ],
+  "atualizado_em": "2026-10-21",
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/07_saude_seguranca_educacao_infra_ambiente.md"
+}

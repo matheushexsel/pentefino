@@ -1,0 +1,67 @@
+{
+  "id": "ranking-pib-mundial",
+  "titulo": "Posição do Brasil entre as maiores economias (PIB em US$)",
+  "descricao_simples": "Em que lugar o Brasil aparece no ranking mundial de PIB nominal em dólares.",
+  "unidade": "posição",
+  "tipo_grafico": "linha",
+  "frequencia": "anual",
+  "fonte": {
+    "nome": "FMI, DataMapper NGDPD (ranking calculado na nota, excluindo agregados)",
+    "url": "https://www.imf.org/external/datamapper/api/v1/NGDPD?periods=2010,2014,2020,2022,2025,2026",
+    "acesso_em": "2026-10-21",
+    "tier": "multilateral"
+  },
+  "pontos": [
+    {
+      "periodo": "2010",
+      "valor": 7,
+      "pib_usd_bi": 2209
+    },
+    {
+      "periodo": "2014",
+      "valor": 7,
+      "pib_usd_bi": 2456
+    },
+    {
+      "periodo": "2020",
+      "valor": 12,
+      "pib_usd_bi": 1476
+    },
+    {
+      "periodo": "2022",
+      "valor": 11,
+      "pib_usd_bi": 1952
+    },
+    {
+      "periodo": "2025",
+      "valor": 11,
+      "pib_usd_bi": 2280
+    },
+    {
+      "periodo": "2026 (projeção)",
+      "valor": 10,
+      "pib_usd_bi": 2655,
+      "projecao": true
+    }
+  ],
+  "faixas_referencia": [
+    {
+      "rotulo": "Ranking em paridade de poder de compra, 2025",
+      "valor": 8
+    }
+  ],
+  "notas_metodologicas": [
+    "Posição muito sensível ao câmbio: a queda de 7º para 12º entre 2014 e 2020 reflete sobretudo a depreciação do real.",
+    "2025: atrás de EUA, China, Alemanha, Japão, Reino Unido, Índia, França, Rússia, Itália e Canadá. Em PPC (2025) o Brasil é 8º."
+  ],
+  "lacunas": [
+    "A nota só traz anos selecionados (2010, 2014, 2020, 2022, 2025, 2026)."
+  ],
+  "ultimo_periodo": "2026 (projeção)",
+  "temas": [
+    "economia",
+    "relacoes-exteriores"
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/01_macroeconomia_por_governo.md",
+  "atualizado_em": "2026-10-21"
+}

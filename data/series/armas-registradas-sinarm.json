@@ -1,0 +1,131 @@
+{
+  "id": "armas-registradas-sinarm",
+  "titulo": "Armas de fogo com registro ativo no Sinarm (Polícia Federal)",
+  "descricao_simples": "Estoque legal de armas de pessoas físicas e jurídicas registradas na Polícia Federal. Saltou de 637,9 mil (2017) para 2,17 milhões (2025), com crescimento concentrado em 2019–2022 e quase estagnação em 2025.",
+  "unidade": "armas registradas",
+  "tipo_grafico": "linha",
+  "frequencia": "anual",
+  "fonte": {
+    "nome": "Anuário Brasileiro de Segurança Pública 2026 (FBSP)",
+    "url": "https://static.poder360.com.br/uploads/2026/07/anuario-seguranca-publica-23jul26.pdf",
+    "acesso_em": "2026-10-21",
+    "tier": "academico"
+  },
+  "pontos": [
+    {
+      "periodo": "2017",
+      "valor": 637972
+    },
+    {
+      "periodo": "2018",
+      "valor": 646127
+    },
+    {
+      "periodo": "2019",
+      "valor": 1056670
+    },
+    {
+      "periodo": "2020",
+      "valor": 1233745
+    },
+    {
+      "periodo": "2021",
+      "valor": 1490323
+    },
+    {
+      "periodo": "2022",
+      "valor": 1558416
+    },
+    {
+      "periodo": "2023",
+      "valor": 2088048,
+      "detalhe": {
+        "nota": "mudança de metodologia: passa a incluir armas de CACs migradas do Exército para a PF"
+      }
+    },
+    {
+      "periodo": "2024",
+      "valor": 2154944
+    },
+    {
+      "periodo": "2025",
+      "valor": 2171213
+    }
+  ],
+  "faixas_referencia": [
+    {
+      "rotulo": "Armas de 'cidadãos comuns' em 2022 (Anuário 2023)",
+      "valor": 803000
+    },
+    {
+      "rotulo": "Certificados de Registro (CR) ativos de CAC no Exército em 2022",
+      "valor": 783385
+    }
+  ],
+  "governos": [
+    {
+      "governo": "temer",
+      "inicio": {
+        "periodo": "2017",
+        "valor": 637972
+      },
+      "fim": {
+        "periodo": "2018",
+        "valor": 646127
+      }
+    },
+    {
+      "governo": "bolsonaro",
+      "inicio": {
+        "periodo": "2019",
+        "valor": 1056670
+      },
+      "fim": {
+        "periodo": "2022",
+        "valor": 1558416
+      }
+    },
+    {
+      "governo": "lula-3",
+      "inicio": {
+        "periodo": "2023",
+        "valor": 2088048
+      },
+      "fim": {
+        "periodo": "2025",
+        "valor": 2171213
+      }
+    }
+  ],
+  "notas_metodologicas": [
+    "Entre 2018 e 2019 a alta foi de 63,5%; entre 2017 e 2025, de 240%. Em 2025 a variação foi de +0,8%, a menor da série.",
+    "Quebra de série em 2023: o Sinarm passou a incluir as armas de caçadores, atiradores e colecionadores (CACs) antes registradas no Exército (Sigma). Por isso o salto de 2022 para 2023 não representa novas armas.",
+    "Composição em 2025: 1,1 milhão de pistolas (54,9%), 549 mil revólveres e cerca de 192 mil rifles, fuzis e carabinas. Cerca de 1 milhão de CACs possuem 1,6 milhão de armas; 3 em cada 10 registros estão vencidos.",
+    "Armas apreendidas pelas polícias estaduais: 102.812 (2024) para 108.786 (2025), +5,4%.",
+    "Responsabilidade: a flexibilização de 2019–2022 veio de decretos federais do governo Bolsonaro; o decreto de 2023 do governo Lula 3 suspendeu novos registros de CAC e transferiu o controle ao Ministério da Justiça/PF. O estoque não diminuiu, apenas parou de crescer.",
+    "Anuário 2023: armas de cidadãos comuns +116% entre 2019 e 2022; total Sinarm 1,5 milhão (+47,5%); venda de munição no varejo +159% frente a 2019."
+  ],
+  "ultimo_periodo": "2025",
+  "temas": [
+    "seguranca"
+  ],
+  "fontes_adicionais": [
+    {
+      "nome": "Estado de Minas (Anuário 2023)",
+      "url": "https://www.em.com.br/app/noticia/politica/2023/07/20/interna_politica,1522636/amp.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Forum on the Arms Trade",
+      "url": "https://www.forumarmstrade.org/blog/previous/4",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    }
+  ],
+  "lacunas": [
+    "Dados oficiais do Exército sobre armas de CAC por ano (2019–2022) não obtidos; só o recorte do FBSP."
+  ],
+  "atualizado_em": "2026-10-21",
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/07_saude_seguranca_educacao_infra_ambiente.md"
+}

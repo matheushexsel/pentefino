@@ -1,0 +1,858 @@
+{
+  "id": "gasolina-e-diesel-quem-decide",
+  "pergunta": "Quem decide o preço da gasolina e do diesel?",
+  "resposta_curta": "O preço na bomba soma o preço de refinaria ou de importação (a Petrobras, controlada pela União, é a maior ofertante, mas há a Acelen, em Mataripe, e importadores que trazem mais de 25% do diesel consumido), a mistura obrigatória de biocombustível, os tributos federais (PIS/Cofins/Cide, decididos pelo governo federal), o ICMS (estadual, mas cobrado desde 2023 em valor fixo nacional por litro fixado pelo Confaz: R$ 1,57 na gasolina e R$ 1,17 no diesel em 2026) e as margens de distribuição e revenda. O petróleo Brent e o câmbio movem o custo de base. Em outubro de 2026 a Petrobras vendia diesel a R$ 3,30/l às distribuidoras e a bomba cobrava em média R$ 7,00 (S500): menos da metade do preço final é a parcela da estatal.",
+  "temas": [
+    "combustiveis"
+  ],
+  "cadeia_de_responsabilidade": [
+    {
+      "ator": "Petrobras (diretoria e conselho; controlada pela União)",
+      "o_que_controla": "O preço de venda nas refinarias e a política comercial: paridade de importação (PPI) de out/2016 a mai/2023; desde então, acompanhamento das cotações 'sem periodicidade fixa'. Em 2026 vende diesel e gasolina muito abaixo da paridade (defasagem de até 72% no diesel em 13/03/2026).",
+      "o_que_nao_controla": "Tributos federais e ICMS, margens de distribuição e revenda, cotação do Brent, câmbio e os preços da Acelen e dos importadores.",
+      "peso": "alto",
+      "url": "https://agorarn.com.br/ultimas/petrobras-abandona-paridade-de-importacao-nos-precos-dos-combustiveis/"
+    },
+    {
+      "ator": "Governo federal (Presidência, Ministério da Fazenda, MME)",
+      "o_que_controla": "PIS/Cofins e Cide (carga federal cheia na gasolina de cerca de R$ 0,79/l em 2026); subvenções por MP (R$ 0,32 a R$ 2,12/l no diesel em 2026); indicação do presidente e do conselho da Petrobras (Bolsonaro trocou quatro presidentes; Lula demitiu Prates em mai/2024); negociação do ICMS com estados por lei complementar.",
+      "o_que_nao_controla": "Não fixa o ICMS (estadual), não define a margem dos postos nem o preço internacional do petróleo.",
+      "peso": "alto",
+      "url": "https://static.poder360.com.br/uploads/2026/09/0909-Release-Governo-Federal-adota-novas-medidas-para-combustiveis-apos-novos-aumentos-do-petroleo.pdf"
+    },
+    {
+      "ator": "Congresso Nacional",
+      "o_que_controla": "Aprovou as LCs 192/2022 (monofasia e ICMS fixo por litro) e 194/2022 (combustíveis como essenciais, ICMS limitado a 17–18%) e converte as MPs de subvenção.",
+      "o_que_nao_controla": "O preço de refinaria.",
+      "peso": "medio",
+      "url": "https://static.poder360.com.br/2023/11/NOTA-TECNICA-COMSEFAZ-023-2023-Impactos-das-LCs-192.22-e-LCs-194.22-sobre-arrecadacao-de-ICMS-dos-estados1-1.pdf"
+    },
+    {
+      "ator": "Estados, via Confaz (colegiado dos 27 estados)",
+      "o_que_controla": "O valor do ICMS por litro, único em todo o país e reajustado anualmente com base nos preços médios da ANP: em 2026, R$ 1,57/l na gasolina (era R$ 1,47 em 2025) e R$ 1,17/l no diesel (era R$ 1,12). Um governador sozinho não altera esse valor.",
+      "o_que_nao_controla": "Tributos federais, preço de refinaria.",
+      "peso": "medio",
+      "url": "https://diariodocomercio.com.br/economia/icms-gasolina-diesel-subir-2026-veja-novos-valores/"
+    },
+    {
+      "ator": "Distribuidoras e postos",
+      "o_que_controla": "As margens de distribuição e revenda e o preço final afixado na bomba, dentro da concorrência local; a ANP apenas pesquisa e divulga os preços (4.526 postos na semana de 11–17/10/2026).",
+      "o_que_nao_controla": "Preço de refinaria, tributos.",
+      "peso": "medio",
+      "url": "https://www.gov.br/anp/pt-br/assuntos/precos-e-defesa-da-concorrencia/precos/arquivos-lpc/2026/resumo_semanal_lpc_2026_10_11-2026_10_17.xlsx"
+    },
+    {
+      "ator": "Acelen (refinaria de Mataripe, BA) e importadores (Abicom)",
+      "o_que_controla": "Praticam preços próximos ao internacional (defasagem de 1–2% em jul/2026); mais de 25% do diesel consumido no Brasil é importado.",
+      "o_que_nao_controla": "A política de preços da Petrobras, que pressiona sua competitividade quando vende abaixo da paridade.",
+      "peso": "medio",
+      "url": "https://static.poder360.com.br/uploads/2026/09/0909-Release-Governo-Federal-adota-novas-medidas-para-combustiveis-apos-novos-aumentos-do-petroleo.pdf"
+    },
+    {
+      "ator": "Mercado internacional (Brent e câmbio)",
+      "o_que_controla": "O custo de base. O Brent passou de US$ 120 após o início das tensões no Oriente Médio em fev/2026, estava em US$ 111 em 19/10/2026 e cerca de US$ 109,5 em 21/10/2026 (+75% em 12 meses); o dólar estava em R$ 5,02 (-6,75% em 12 meses).",
+      "o_que_nao_controla": "Nada no Brasil decide o preço internacional.",
+      "peso": "alto",
+      "url": "https://tradingeconomics.com/commodity/brent-crude-oil"
+    },
+    {
+      "ator": "CNPE (mistura de biocombustíveis)",
+      "o_que_controla": "Dentro da Lei 14.993/2024, a mistura de etanol anidro na gasolina (22% a 35%) e de biodiesel no diesel (15% desde 01/03/2025, 16% desde 01/03/2026, subindo a 20% em 2030).",
+      "o_que_nao_controla": "Preços.",
+      "peso": "baixo",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/L14993.htm"
+    }
+  ],
+  "composicao": [],
+  "linha_do_tempo": [
+    {
+      "data": "2016-10-01",
+      "evento": "Petrobras adota a paridade de importação (PPI) na gestão Pedro Parente, governo Temer (mês de out/2016; dia não documentado).",
+      "url": "https://www.infomoney.com.br/?p=2464513"
+    },
+    {
+      "data": "2018-06-01",
+      "evento": "Greve dos caminhoneiros: MP 838 cria subvenção ao diesel (R$ 9,5 bi; R$ 0,30/l de 08/06 a 31/12/2018); Pedro Parente renuncia à presidência da Petrobras.",
+      "url": "https://www12.senado.leg.br/publicacoes/estudos-legislativos/tipos-de-estudos/sumarios-de-proposicoes/mpv838"
+    },
+    {
+      "data": "2021-02-19",
+      "evento": "Bolsonaro anuncia a demissão de Roberto Castello Branco um dia após criticar reajustes ('Não dá para governar, estar à frente de uma estatal dessa forma').",
+      "url": "https://mercadoeconsumo.com.br/20/02/2021/economia/bolsonaro-nega-interferencia-na-petrobras-e-critica-castello-branco/"
+    },
+    {
+      "data": "2021-11-30",
+      "evento": "Gasolina atinge R$ 6,71, maior valor real em 20 anos (nov/2021; dia não documentado).",
+      "url": "https://www.poder360.com.br/economia/gasolina-e-diesel-alcancam-maior-valor-real-em-20-anos/"
+    },
+    {
+      "data": "2022-03-11",
+      "evento": "LC 192/2022: monofasia e ICMS com alíquota fixa por litro (ad rem) nacional; PIS/Cofins do diesel, biodiesel, GLP e QAV zerados.",
+      "url": "https://static.poder360.com.br/2023/11/NOTA-TECNICA-COMSEFAZ-023-2023-Impactos-das-LCs-192.22-e-LCs-194.22-sobre-arrecadacao-de-ICMS-dos-estados1-1.pdf"
+    },
+    {
+      "data": "2022-06-23",
+      "evento": "LC 194/2022: combustíveis, energia e telecom como essenciais; ICMS limitado a 17–18%; Cide/PIS/Cofins de gasolina, etanol e GNV zerados até 31/12/2022. Pacote estimado em R$ 64,8 bi para 2022.",
+      "url": "https://eixos.com.br/corte-de-impostos-dos-combustiveis-custara-r-648-bi-ao-governo-em-ano-eleitoral/"
+    },
+    {
+      "data": "2022-10-28",
+      "evento": "Sem reajuste da Petrobras antes do 2º turno, a defasagem chega a 20% no diesel e 18% na gasolina (Abicom).",
+      "url": "https://mercadoeconsumo.com.br/28/10/2022/economia/sem-reajuste-da-petrobras-defasagem-do-diesel-sobe-a-20-e-a-da-gasolina-a-18/"
+    },
+    {
+      "data": "2023-01-26",
+      "evento": "Jean Paul Prates assume a Petrobras (governo Lula).",
+      "url": "https://pt.wikipedia.org/wiki/Lista_de_presidentes_da_Petrobras"
+    },
+    {
+      "data": "2023-05-16",
+      "evento": "Petrobras abandona o PPI por uma 'estratégia comercial' sem periodicidade fixa (mai/2023; dia não documentado nas notas).",
+      "url": "https://agorarn.com.br/ultimas/petrobras-abandona-paridade-de-importacao-nos-precos-dos-combustiveis/"
+    },
+    {
+      "data": "2023-06-01",
+      "evento": "ICMS ad rem passa a valer na gasolina (R$ 1,22/l); no diesel valia desde 01/05/2023 (R$ 0,94/l).",
+      "url": "https://static.poder360.com.br/2023/11/NOTA-TECNICA-COMSEFAZ-023-2023-Impactos-das-LCs-192.22-e-LCs-194.22-sobre-arrecadacao-de-ICMS-dos-estados1-1.pdf"
+    },
+    {
+      "data": "2023-06-02",
+      "evento": "STF homologa por unanimidade o acordo de R$ 27 bi de compensação da União aos estados pelas perdas de ICMS (ADI 7191 e ADPF 984).",
+      "url": "https://www.noticiasagricolas.com.br/noticia/351323"
+    },
+    {
+      "data": "2024-05-24",
+      "evento": "Magda Chambriard assume a Petrobras após a demissão de Prates (14/05/2024).",
+      "url": "https://pt.wikipedia.org/wiki/Lista_de_presidentes_da_Petrobras"
+    },
+    {
+      "data": "2026-01-01",
+      "evento": "ICMS ad rem sobe para R$ 1,57/l (gasolina) e R$ 1,17/l (diesel) – Convênios ICMS 112/2025 e 113/2025.",
+      "url": "https://diariodocomercio.com.br/economia/icms-gasolina-diesel-subir-2026-veja-novos-valores/"
+    },
+    {
+      "data": "2026-03-12",
+      "evento": "MP 1.340: subvenção ao diesel de R$ 0,32/l (crédito extraordinário de R$ 7 bi), após o Brent passar de US$ 120.",
+      "url": "https://eixos.com.br/newsletters/comece-seu-dia/como-fica-o-alivio-aos-combustiveis-com-o-fim-da-desoneracao-e-o-novo-modelo-de-subsidio/"
+    },
+    {
+      "data": "2026-03-13",
+      "evento": "Defasagem do diesel da Petrobras chega a 72% com petróleo a US$ 100 (Abicom).",
+      "url": "https://www.cnnbrasil.com.br/tudo-sobre/abicom/"
+    },
+    {
+      "data": "2026-04-07",
+      "evento": "MP 1.349: diesel R$ 0,80/l (nacional) e R$ 1,20/l (importado), parte paga pelos estados; GLP e setor aéreo (R$ 800 mi).",
+      "url": "https://eixos.com.br/newsletters/comece-seu-dia/como-fica-o-alivio-aos-combustiveis-com-o-fim-da-desoneracao-e-o-novo-modelo-de-subsidio/"
+    },
+    {
+      "data": "2026-05-13",
+      "evento": "MP 1.358: subvenção à gasolina de até R$ 0,89/l (efetivo R$ 0,44) e diesel R$ 0,35/l; crédito de R$ 4,1 bi.",
+      "url": "https://sintse.tse.jus.br/documentos/2026/Mai/14/diario-oficial-da-uniao-secao-1-edicao-extra/medida-provisoria-no-1-358-de-13-de-maio-de-2026-autoriza-a-concessao-de-subvencao-economica-aos"
+    },
+    {
+      "data": "2026-05-30",
+      "evento": "MP 1.363: subvenção ao diesel de R$ 1,12/l (crédito de R$ 12,5 bi); Petrobras vende diesel a R$ 3,30/l a partir de 01/06.",
+      "url": "https://eixos.com.br/newsletters/comece-seu-dia/como-fica-o-alivio-aos-combustiveis-com-o-fim-da-desoneracao-e-o-novo-modelo-de-subsidio/"
+    },
+    {
+      "data": "2026-09-09",
+      "evento": "Decreto reduz PIS/Cofins da gasolina em R$ 0,63/l (10/09 a 05/10) e zera o do etanol; MP 1.391 eleva a subvenção do diesel para R$ 2,12/l.",
+      "url": "https://static.poder360.com.br/uploads/2026/09/0909-Release-Governo-Federal-adota-novas-medidas-para-combustiveis-apos-novos-aumentos-do-petroleo.pdf"
+    },
+    {
+      "data": "2026-09-25",
+      "evento": "Portaria MF 2.946 prorroga por 30 dias a subvenção ao diesel, a um custo de R$ 10,5 bi.",
+      "url": "https://www.novacana.com/noticias/prorrogacao-da-subvencao-ao-diesel-em-r-2-12-custara-r-10-5-bilhoes"
+    },
+    {
+      "data": "2026-10-09",
+      "evento": "Tributos federais da gasolina zerados por 30 dias (redução de R$ 0,89/l); pacote de R$ 5,2 bi em 30 dias.",
+      "url": "https://www.novacana.com/noticias/preco-da-gasolina-mantem-estabilidade-ao-longo-da-guerra-com-subsidios"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Gasolina comum, média nacional",
+      "valor": 6.53,
+      "unidade": "R$/l",
+      "periodo": "11–17/10/2026",
+      "fonte": {
+        "nome": "ANP – Resumo semanal do Levantamento de Preços, 11 a 17/10/2026 (xlsx)",
+        "url": "https://www.gov.br/anp/pt-br/assuntos/precos-e-defesa-da-concorrencia/precos/arquivos-lpc/2026/resumo_semanal_lpc_2026_10_11-2026_10_17.xlsx",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "Semana de 28/12/2025–03/01/2026",
+        "valor": 6.24
+      }
+    },
+    {
+      "rotulo": "Diesel S10, média nacional",
+      "valor": 7.34,
+      "unidade": "R$/l",
+      "periodo": "11–17/10/2026",
+      "fonte": {
+        "nome": "ANP – Resumo semanal do Levantamento de Preços, 11 a 17/10/2026 (xlsx)",
+        "url": "https://www.gov.br/anp/pt-br/assuntos/precos-e-defesa-da-concorrencia/precos/arquivos-lpc/2026/resumo_semanal_lpc_2026_10_11-2026_10_17.xlsx",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "Semana de 28/12/2025–03/01/2026",
+        "valor": 6.13
+      }
+    },
+    {
+      "rotulo": "Diesel S500, média nacional",
+      "valor": 7.0,
+      "unidade": "R$/l",
+      "periodo": "11–17/10/2026",
+      "fonte": {
+        "nome": "ANP – Resumo semanal do Levantamento de Preços, 11 a 17/10/2026 (xlsx)",
+        "url": "https://www.gov.br/anp/pt-br/assuntos/precos-e-defesa-da-concorrencia/precos/arquivos-lpc/2026/resumo_semanal_lpc_2026_10_11-2026_10_17.xlsx",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    {
+      "rotulo": "Etanol hidratado, média nacional",
+      "valor": 4.11,
+      "unidade": "R$/l",
+      "periodo": "11–17/10/2026",
+      "fonte": {
+        "nome": "ANP – Resumo semanal do Levantamento de Preços, 11 a 17/10/2026 (xlsx)",
+        "url": "https://www.gov.br/anp/pt-br/assuntos/precos-e-defesa-da-concorrencia/precos/arquivos-lpc/2026/resumo_semanal_lpc_2026_10_11-2026_10_17.xlsx",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    {
+      "rotulo": "Preço do diesel vendido pela Petrobras às distribuidoras",
+      "valor": 3.3,
+      "unidade": "R$/l",
+      "periodo": "desde 01/06/2026",
+      "fonte": {
+        "nome": "eixos – Como fica o alívio aos combustíveis com o fim da desoneração e o novo modelo de subsídio (01/06/2026)",
+        "url": "https://eixos.com.br/newsletters/comece-seu-dia/como-fica-o-alivio-aos-combustiveis-com-o-fim-da-desoneracao-e-o-novo-modelo-de-subsidio/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Preço da gasolina vendida pela Petrobras às distribuidoras",
+      "valor": 2.61,
+      "unidade": "R$/l",
+      "periodo": "mai/2026",
+      "fonte": {
+        "nome": "novaCana/CNN – Preço da gasolina mantém estabilidade ao longo da guerra com subsídios (13/10/2026)",
+        "url": "https://www.novacana.com/noticias/preco-da-gasolina-mantem-estabilidade-ao-longo-da-guerra-com-subsidios",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "Antes do reajuste de maio",
+        "valor": 2.57
+      }
+    },
+    {
+      "rotulo": "ICMS por litro de gasolina",
+      "valor": 1.57,
+      "unidade": "R$/l",
+      "periodo": "2026",
+      "fonte": {
+        "nome": "Diário do Comércio – ICMS da gasolina e do diesel sobe em 2026",
+        "url": "https://diariodocomercio.com.br/economia/icms-gasolina-diesel-subir-2026-veja-novos-valores/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "2025",
+        "valor": 1.47
+      }
+    },
+    {
+      "rotulo": "ICMS por litro de diesel",
+      "valor": 1.17,
+      "unidade": "R$/l",
+      "periodo": "2026",
+      "fonte": {
+        "nome": "Diário do Comércio – ICMS da gasolina e do diesel sobe em 2026",
+        "url": "https://diariodocomercio.com.br/economia/icms-gasolina-diesel-subir-2026-veja-novos-valores/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "2025",
+        "valor": 1.12
+      }
+    },
+    {
+      "rotulo": "Carga federal cheia (PIS/Cofins/Cide) na gasolina",
+      "valor": 0.79,
+      "unidade": "R$/l (aprox.)",
+      "periodo": "2026",
+      "fonte": {
+        "nome": "Governo Federal – Release de 09/09/2026 sobre medidas para combustíveis (PDF)",
+        "url": "https://static.poder360.com.br/uploads/2026/09/0909-Release-Governo-Federal-adota-novas-medidas-para-combustiveis-apos-novos-aumentos-do-petroleo.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    {
+      "rotulo": "Defasagem do diesel da Petrobras frente à paridade (pico)",
+      "valor": 72,
+      "unidade": "%",
+      "periodo": "13/03/2026",
+      "fonte": {
+        "nome": "CNN Brasil – tag Abicom",
+        "url": "https://www.cnnbrasil.com.br/tudo-sobre/abicom/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Defasagem do diesel da Petrobras em R$/l",
+      "valor": 3.5,
+      "unidade": "R$/l",
+      "periodo": "19–20/10/2026",
+      "fonte": {
+        "nome": "CNN Brasil – Abicom: diesel da Petrobras se aproxima ao subsídio com alta do Brent (20/10/2026)",
+        "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/abicom-diesel-da-petrobras-se-aproxima-ao-subsidio-com-alta-do-brent/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "Gasolina (20%)",
+        "valor": 0.43
+      }
+    },
+    {
+      "rotulo": "Parcela do diesel consumido que é importada",
+      "valor": 25,
+      "unidade": "% (mais de)",
+      "periodo": "2026",
+      "fonte": {
+        "nome": "Governo Federal – Release de 09/09/2026 sobre medidas para combustíveis (PDF)",
+        "url": "https://static.poder360.com.br/uploads/2026/09/0909-Release-Governo-Federal-adota-novas-medidas-para-combustiveis-apos-novos-aumentos-do-petroleo.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    {
+      "rotulo": "Brent",
+      "valor": 109.5,
+      "unidade": "US$/barril",
+      "periodo": "21/10/2026",
+      "fonte": {
+        "nome": "Trading Economics – Brent crude oil",
+        "url": "https://tradingeconomics.com/commodity/brent-crude-oil",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "Variação em 12 meses (%)",
+        "valor": 75
+      }
+    },
+    {
+      "rotulo": "Câmbio",
+      "valor": 5.02,
+      "unidade": "R$/US$",
+      "periodo": "21/10/2026",
+      "fonte": {
+        "nome": "Trading Economics – Brazilian real",
+        "url": "https://tradingeconomics.com/brazil/currency",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Alta do diesel S10 em 2026 até início de outubro",
+      "valor": 20.5,
+      "unidade": "%",
+      "periodo": "jan–out/2026",
+      "fonte": {
+        "nome": "combustiveis-anp.com.br (agregador de dados ANP) – Quanto subiram os combustíveis em 2026 (13/10/2026)",
+        "url": "https://www.combustiveis-anp.com.br/guia/quanto-subiram-combustiveis-2026-balanco",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "Gasolina",
+        "valor": 5.5
+      }
+    },
+    {
+      "rotulo": "Gasolina no Brasil em dólar",
+      "valor": 1.26,
+      "unidade": "US$/l",
+      "periodo": "12/10/2026",
+      "fonte": {
+        "nome": "GlobalPetrolPrices – Gasoline prices (12/10/2026)",
+        "url": "https://www.globalpetrolprices.com/gasoline_prices/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "Média mundial",
+        "valor": 1.6
+      }
+    },
+    {
+      "rotulo": "Posição do Brasil entre 170 países (do mais barato ao mais caro)",
+      "valor": 42,
+      "unidade": "posição",
+      "periodo": "12/10/2026",
+      "fonte": {
+        "nome": "GlobalPetrolPrices – Gasoline prices (12/10/2026)",
+        "url": "https://www.globalpetrolprices.com/gasoline_prices/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Litros de gasolina por salário mínimo (máximo da série)",
+      "valor": 254,
+      "unidade": "litros",
+      "periodo": "mar/2017",
+      "fonte": {
+        "nome": "InvestNews – Em 20 anos, quantidade de gasolina que o salário mínimo compra aumenta 57% (15/03/2021)",
+        "url": "https://investnews.com.br/economia/em-20-anos-quantidade-de-gasolina-que-salario-minimo-pode-comprar-aumenta-57",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "mar/2021",
+        "valor": 200
+      }
+    }
+  ],
+  "series": [
+    "gasolina-preco-anual",
+    "diesel-preco-anual",
+    "gasolina-litros-por-salario-minimo",
+    "petrobras-lucro-anual",
+    "petrobras-dividendos-anual"
+  ],
+  "mitos_e_fatos": [
+    {
+      "mito": "A Petrobras define o preço na bomba.",
+      "fato": "A Petrobras define o preço de venda nas refinarias. Em out/2026 ela vendia diesel a R$ 3,30/l e o preço médio na bomba era R$ 7,00 (S500): o resto é biodiesel, ICMS (R$ 1,17/l), tributos federais e margens de distribuição e revenda. Há ainda a Acelen e importadores, que respondem por mais de 25% do diesel.",
+      "fontes": [
+        {
+          "nome": "eixos – Como fica o alívio aos combustíveis com o fim da desoneração e o novo modelo de subsídio (01/06/2026)",
+          "url": "https://eixos.com.br/newsletters/comece-seu-dia/como-fica-o-alivio-aos-combustiveis-com-o-fim-da-desoneracao-e-o-novo-modelo-de-subsidio/",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "ANP – Resumo semanal do Levantamento de Preços, 11 a 17/10/2026 (xlsx)",
+          "url": "https://www.gov.br/anp/pt-br/assuntos/precos-e-defesa-da-concorrencia/precos/arquivos-lpc/2026/resumo_semanal_lpc_2026_10_11-2026_10_17.xlsx",
+          "acesso_em": "2026-10-21",
+          "tier": "oficial"
+        },
+        {
+          "nome": "Diário do Comércio – ICMS da gasolina e do diesel sobe em 2026",
+          "url": "https://diariodocomercio.com.br/economia/icms-gasolina-diesel-subir-2026-veja-novos-valores/",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "Governo Federal – Release de 09/09/2026 sobre medidas para combustíveis (PDF)",
+          "url": "https://static.poder360.com.br/uploads/2026/09/0909-Release-Governo-Federal-adota-novas-medidas-para-combustiveis-apos-novos-aumentos-do-petroleo.pdf",
+          "acesso_em": "2026-10-21",
+          "tier": "oficial"
+        }
+      ]
+    },
+    {
+      "mito": "O presidente da República define o preço da gasolina.",
+      "fato": "A Petrobras decide o preço de refinaria; o governo federal age sobre tributos federais e subvenções e indica a direção da estatal; o ICMS é fixado pelo Confaz. Tanto Bolsonaro (trocas de presidente em 2021 e congelamento pré-eleitoral em 2022) quanto Lula (fim do PPI em 2023; subvenções em 2026) usaram a Petrobras e o Tesouro para conter preços, com instrumentos e custos diferentes.",
+      "fontes": [
+        {
+          "nome": "Mercado&Consumo – Bolsonaro nega interferência na Petrobras e critica Castello Branco (20/02/2021)",
+          "url": "https://mercadoeconsumo.com.br/20/02/2021/economia/bolsonaro-nega-interferencia-na-petrobras-e-critica-castello-branco/",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "Mercado&Consumo – Sem reajuste da Petrobras, defasagem do diesel sobe a 20% (28/10/2022)",
+          "url": "https://mercadoeconsumo.com.br/28/10/2022/economia/sem-reajuste-da-petrobras-defasagem-do-diesel-sobe-a-20-e-a-da-gasolina-a-18/",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "Agora RN – Petrobras abandona paridade de importação nos preços dos combustíveis",
+          "url": "https://agorarn.com.br/ultimas/petrobras-abandona-paridade-de-importacao-nos-precos-dos-combustiveis/",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "novaCana/CNN – Prorrogação da subvenção ao diesel em R$ 2,12 custará R$ 10,5 bilhões (01/10/2026)",
+          "url": "https://www.novacana.com/noticias/prorrogacao-da-subvencao-ao-diesel-em-r-2-12-custara-r-10-5-bilhoes",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        }
+      ]
+    },
+    {
+      "mito": "O governador aumentou o ICMS da gasolina.",
+      "fato": "Desde 2023 o ICMS dos combustíveis é um valor único nacional por litro, fixado pelo Confaz (colegiado dos 27 estados) e reajustado anualmente com base nos preços médios da ANP. Em 2026 subiu para R$ 1,57/l na gasolina e R$ 1,17/l no diesel.",
+      "fontes": [
+        {
+          "nome": "Comsefaz – Nota Técnica 023/2023, impactos das LCs 192 e 194 (PDF)",
+          "url": "https://static.poder360.com.br/2023/11/NOTA-TECNICA-COMSEFAZ-023-2023-Impactos-das-LCs-192.22-e-LCs-194.22-sobre-arrecadacao-de-ICMS-dos-estados1-1.pdf",
+          "acesso_em": "2026-10-21",
+          "tier": "oficial"
+        },
+        {
+          "nome": "Diário do Comércio – ICMS da gasolina e do diesel sobe em 2026",
+          "url": "https://diariodocomercio.com.br/economia/icms-gasolina-diesel-subir-2026-veja-novos-valores/",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "O Povo+ – ICMS em gasolina e etanol sobe R$ 0,10 em 2026 (09/09/2025)",
+          "url": "https://mais.opovo.com.br/jornal/economia/2025/09/09/icms-em-gasolina-e-etanol-sobe-rs-010-em-2026-diesel-sobe-rs-005.html",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        }
+      ]
+    },
+    {
+      "mito": "O governo zerou os impostos da gasolina.",
+      "fato": "Em 09/10/2026 o governo federal zerou por 30 dias apenas os tributos federais (PIS/Cofins/Cide, R$ 0,89/l). O ICMS de R$ 1,57/l continuou. O mesmo valia em 2022: as LCs 192 e 194 zeraram os tributos federais e limitaram, mas não zeraram, o ICMS.",
+      "fontes": [
+        {
+          "nome": "novaCana/CNN – Preço da gasolina mantém estabilidade ao longo da guerra com subsídios (13/10/2026)",
+          "url": "https://www.novacana.com/noticias/preco-da-gasolina-mantem-estabilidade-ao-longo-da-guerra-com-subsidios",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "Diário do Comércio – ICMS da gasolina e do diesel sobe em 2026",
+          "url": "https://diariodocomercio.com.br/economia/icms-gasolina-diesel-subir-2026-veja-novos-valores/",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "Comsefaz – Nota Técnica 023/2023, impactos das LCs 192 e 194 (PDF)",
+          "url": "https://static.poder360.com.br/2023/11/NOTA-TECNICA-COMSEFAZ-023-2023-Impactos-das-LCs-192.22-e-LCs-194.22-sobre-arrecadacao-de-ICMS-dos-estados1-1.pdf",
+          "acesso_em": "2026-10-21",
+          "tier": "oficial"
+        }
+      ]
+    },
+    {
+      "mito": "A gasolina brasileira é a mais cara do mundo.",
+      "fato": "Em dólar, a gasolina no Brasil custava US$ 1,26/l em 12/10/2026, abaixo da média mundial (US$ 1,60), de Argentina (1,459), Chile (1,506) e da Europa (Alemanha 2,422), e pouco acima dos EUA (1,229): 42º mais barato entre 170 países. A comparação muda quando se mede em poder de compra: em mar/2021 o salário mínimo comprava 200 litros, contra 254 em 2017.",
+      "fontes": [
+        {
+          "nome": "GlobalPetrolPrices – Gasoline prices (12/10/2026)",
+          "url": "https://www.globalpetrolprices.com/gasoline_prices/",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "InvestNews – Em 20 anos, quantidade de gasolina que o salário mínimo compra aumenta 57% (15/03/2021)",
+          "url": "https://investnews.com.br/economia/em-20-anos-quantidade-de-gasolina-que-salario-minimo-pode-comprar-aumenta-57",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        }
+      ]
+    },
+    {
+      "mito": "A gasolina está estável em 2026 porque o custo caiu.",
+      "fato": "Com o Brent acima de US$ 100, a estabilidade na bomba (R$ 6,51–6,55 de agosto a outubro) resulta de subvenções pagas pelo Tesouro e de cortes temporários de tributos federais, com a Petrobras vendendo abaixo da paridade. É um custo fiscal, não uma queda de custo.",
+      "fontes": [
+        {
+          "nome": "novaCana/CNN – Preço da gasolina mantém estabilidade ao longo da guerra com subsídios (13/10/2026)",
+          "url": "https://www.novacana.com/noticias/preco-da-gasolina-mantem-estabilidade-ao-longo-da-guerra-com-subsidios",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "CNN Brasil – Abicom: diesel da Petrobras se aproxima ao subsídio com alta do Brent (20/10/2026)",
+          "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/abicom-diesel-da-petrobras-se-aproxima-ao-subsidio-com-alta-do-brent/",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "novaCana/CNN – Prorrogação da subvenção ao diesel em R$ 2,12 custará R$ 10,5 bilhões (01/10/2026)",
+          "url": "https://www.novacana.com/noticias/prorrogacao-da-subvencao-ao-diesel-em-r-2-12-custara-r-10-5-bilhoes",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        }
+      ]
+    }
+  ],
+  "perguntas_frequentes": [
+    {
+      "pergunta": "O que foi o PPI e por que acabou?",
+      "resposta": "A paridade de importação, adotada em out/2016 no governo Temer, alinhava o preço de refinaria ao custo de importar. Em mai/2023, no governo Lula, a Petrobras passou a seguir as cotações 'sem periodicidade fixa', 'evitando o repasse da volatilidade conjuntural'. Um ano depois, a consultoria Leggio calculava preços cerca de 5% abaixo do PPI com defasagem de um mês; o CBIE disse que o fim do PPI 'existiu, mas não existiu'."
+    },
+    {
+      "pergunta": "Quanto custaram as intervenções do governo federal nos combustíveis?",
+      "resposta": "2018 (Temer): subvenção ao diesel de R$ 9,5 bi mais R$ 4 bi de renúncia, total de R$ 13,5 bi. 2022 (Bolsonaro): pacote estimado em R$ 64,8 bi (R$ 35,2 bi de tributos federais e R$ 29,6 bi de compensação a estados), mais R$ 27 bi pagos aos estados pelo acordo de 2023. 2026 (Lula): créditos extraordinários de R$ 24,4 bi até setembro (soma própria das MPs), mais R$ 10,5 bi da prorrogação do diesel e R$ 5,2 bi do pacote de outubro; Lula falou em 'R$ 47 bilhões', valor sem detalhamento oficial."
+    },
+    {
+      "pergunta": "O que é 'defasagem'?",
+      "resposta": "A diferença entre o preço de venda da Petrobras e o preço de paridade de importação, calculada pela Abicom (importadores). Em 13/03/2026 a defasagem do diesel chegou a 72%; em 19–20/10/2026 era de R$ 3,50/l no diesel e 20% (R$ 0,43/l) na gasolina."
+    },
+    {
+      "pergunta": "Por que o diesel subiu mais que a gasolina em 2026?",
+      "resposta": "O diesel S10 subiu 20,5% e a gasolina 5,5% entre o início de janeiro e o início de outubro de 2026. Mais de 25% do diesel é importado e, portanto, segue o preço internacional, que disparou com o Brent acima de US$ 100; as subvenções ao diesel foram sucessivamente ampliadas (R$ 0,32 → 0,80 → 1,12 → 2,12/l)."
+    },
+    {
+      "pergunta": "A Petrobras dá prejuízo?",
+      "resposta": "Não nos anos recentes: lucrou R$ 110,1 bi em 2025, R$ 36,6 bi em 2024, R$ 124,6 bi em 2023 e R$ 188,3 bi em 2022 (recorde). Os únicos prejuízos da série citada foram em 2014 (R$ 21,6 bi) e 2015 (R$ 34,8 bi)."
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "ANP – Resumo semanal do Levantamento de Preços, 11 a 17/10/2026 (xlsx)",
+      "url": "https://www.gov.br/anp/pt-br/assuntos/precos-e-defesa-da-concorrencia/precos/arquivos-lpc/2026/resumo_semanal_lpc_2026_10_11-2026_10_17.xlsx",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "ANP – Levantamento de Preços de Combustíveis",
+      "url": "https://www.gov.br/anp/pt-br/assuntos/precos-e-defesa-da-concorrencia/precos/levantamento-de-precos-de-combustiveis-ultimas-semanas-pesquisadas",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Comsefaz – Nota Técnica 023/2023, impactos das LCs 192 e 194 (PDF)",
+      "url": "https://static.poder360.com.br/2023/11/NOTA-TECNICA-COMSEFAZ-023-2023-Impactos-das-LCs-192.22-e-LCs-194.22-sobre-arrecadacao-de-ICMS-dos-estados1-1.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Notícias Agrícolas – STF homologa acordo de R$ 27 bi entre União e estados (06/06/2023)",
+      "url": "https://www.noticiasagricolas.com.br/noticia/351323",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Acordo União–estados sobre ICMS, dez/2022 (PDF via Poder360)",
+      "url": "https://static.poder360.com.br/2022/12/acordo-estados-uniao-icms-stf-2-dez-2022.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Diário do Comércio – ICMS da gasolina e do diesel sobe em 2026",
+      "url": "https://diariodocomercio.com.br/economia/icms-gasolina-diesel-subir-2026-veja-novos-valores/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "O Povo+ – ICMS em gasolina e etanol sobe R$ 0,10 em 2026 (09/09/2025)",
+      "url": "https://mais.opovo.com.br/jornal/economia/2025/09/09/icms-em-gasolina-e-etanol-sobe-rs-010-em-2026-diesel-sobe-rs-005.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Agência iNFRA – ICMS ad rem 2026",
+      "url": "https://agenciainfra.com/blog/?p=27381",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Governo Federal – Release de 09/09/2026 sobre medidas para combustíveis (PDF)",
+      "url": "https://static.poder360.com.br/uploads/2026/09/0909-Release-Governo-Federal-adota-novas-medidas-para-combustiveis-apos-novos-aumentos-do-petroleo.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "novaCana/Reuters – Governo anuncia subsídio de até R$ 0,89/l à gasolina e nova subvenção ao diesel (13/05/2026)",
+      "url": "https://www.novacana.com/noticias/governo-anuncia-subsidio-ate-r-0-89-l-baixar-gasolina-nova-subvencao-diesel-130526",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "eixos – Como fica o alívio aos combustíveis com o fim da desoneração e o novo modelo de subsídio (01/06/2026)",
+      "url": "https://eixos.com.br/newsletters/comece-seu-dia/como-fica-o-alivio-aos-combustiveis-com-o-fim-da-desoneracao-e-o-novo-modelo-de-subsidio/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "novaCana/CNN – Preço da gasolina mantém estabilidade ao longo da guerra com subsídios (13/10/2026)",
+      "url": "https://www.novacana.com/noticias/preco-da-gasolina-mantem-estabilidade-ao-longo-da-guerra-com-subsidios",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Money Times/Abicom – Queda do petróleo não alivia diesel; defasagem abre semana em 58% (jul/2026)",
+      "url": "https://www.moneytimes.com.br/abicom-queda-do-petroleo-nao-alivia-diesel-e-defasagem-no-brasil-abre-semana-em-58/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "CNN Brasil – Abicom: diesel da Petrobras se aproxima ao subsídio com alta do Brent (20/10/2026)",
+      "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/abicom-diesel-da-petrobras-se-aproxima-ao-subsidio-com-alta-do-brent/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "CNN Brasil – tag Abicom",
+      "url": "https://www.cnnbrasil.com.br/tudo-sobre/abicom/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Planalto – Lei 14.993/2024 (Combustível do Futuro)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/L14993.htm",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "InfoMoney – Um ano do fim do PPI na Petrobras (16/05/2024)",
+      "url": "https://www.infomoney.com.br/?p=2464513",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Wikipédia (pt) – Petrobras (fonte secundária)",
+      "url": "https://pt.wikipedia.org/wiki/Petrobras",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Agora RN – Petrobras abandona paridade de importação nos preços dos combustíveis",
+      "url": "https://agorarn.com.br/ultimas/petrobras-abandona-paridade-de-importacao-nos-precos-dos-combustiveis/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Wikipédia (pt) – Lista de presidentes da Petrobras (fonte secundária)",
+      "url": "https://pt.wikipedia.org/wiki/Lista_de_presidentes_da_Petrobras",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Mercado&Consumo – Bolsonaro nega interferência na Petrobras e critica Castello Branco (20/02/2021)",
+      "url": "https://mercadoeconsumo.com.br/20/02/2021/economia/bolsonaro-nega-interferencia-na-petrobras-e-critica-castello-branco/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Arab News/Reuters – Bolsonaro e a troca de comando da Petrobras (2021)",
+      "url": "https://arabnews.com/node/1812536/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Money Times – Quem é Jean Paul Prates, novo presidente da Petrobras",
+      "url": "https://www.moneytimes.com.br/petrobras-petr4-quem-e-jean-prates-novo-presidente-da-estatal/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "novaCana – Política de preços da Petrobras completa um ano com efeito reduzido (20/05/2024)",
+      "url": "https://novacana.com/noticias/politica-precos-petrobras-completa-ano-efeito-reduzido-combustiveis-200524",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Monitor Mercantil – Presidente Lula jamais pediu para segurar preço, diz Prates",
+      "url": "https://monitormercantil.com.br/presidente-lula-jamais-pediu-para-segurar-preco-diz-prates/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Mercado&Consumo – Sem reajuste da Petrobras, defasagem do diesel sobe a 20% (28/10/2022)",
+      "url": "https://mercadoeconsumo.com.br/28/10/2022/economia/sem-reajuste-da-petrobras-defasagem-do-diesel-sobe-a-20-e-a-da-gasolina-a-18/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Agência Petrobras",
+      "url": "https://agencia.petrobras.com.br/",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Senado Federal – Sumário da MPV 1.358/2026",
+      "url": "https://www12.senado.leg.br/publicacoes/estudos-legislativos/tipos-de-estudos/sumarios-de-proposicoes/mpv1358",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Trading Economics – Brent crude oil",
+      "url": "https://tradingeconomics.com/commodity/brent-crude-oil",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Trading Economics – Brazilian real",
+      "url": "https://tradingeconomics.com/brazil/currency",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "combustiveis-anp.com.br (agregador de dados ANP) – Quanto subiram os combustíveis em 2026 (13/10/2026)",
+      "url": "https://www.combustiveis-anp.com.br/guia/quanto-subiram-combustiveis-2026-balanco",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "InvestNews – Em 20 anos, quantidade de gasolina que o salário mínimo compra aumenta 57% (15/03/2021)",
+      "url": "https://investnews.com.br/economia/em-20-anos-quantidade-de-gasolina-que-salario-minimo-pode-comprar-aumenta-57",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Poder360 – Gasolina e diesel alcançam maior valor real em 20 anos (nov/2021)",
+      "url": "https://www.poder360.com.br/economia/gasolina-e-diesel-alcancam-maior-valor-real-em-20-anos/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "GlobalPetrolPrices – Gasoline prices (12/10/2026)",
+      "url": "https://www.globalpetrolprices.com/gasoline_prices/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Senado Federal – Sumário da MPV 838/2018",
+      "url": "https://www12.senado.leg.br/publicacoes/estudos-legislativos/tipos-de-estudos/sumarios-de-proposicoes/mpv838",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "eixos – Corte de impostos dos combustíveis custará R$ 64,8 bi ao governo em ano eleitoral (09/06/2022)",
+      "url": "https://eixos.com.br/corte-de-impostos-dos-combustiveis-custara-r-648-bi-ao-governo-em-ano-eleitoral/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "DOU – Medida Provisória 1.358, de 13/05/2026 (via TSE)",
+      "url": "https://sintse.tse.jus.br/documentos/2026/Mai/14/diario-oficial-da-uniao-secao-1-edicao-extra/medida-provisoria-no-1-358-de-13-de-maio-de-2026-autoriza-a-concessao-de-subvencao-economica-aos",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "novaCana/CNN – Prorrogação da subvenção ao diesel em R$ 2,12 custará R$ 10,5 bilhões (01/10/2026)",
+      "url": "https://www.novacana.com/noticias/prorrogacao-da-subvencao-ao-diesel-em-r-2-12-custara-r-10-5-bilhoes",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "eixos – Conta das subvenções cresce; Petrobras já recebeu quase R$ 10 bi (21/09/2026)",
+      "url": "https://eixos.com.br/newsletters/comece-seu-dia/conta-das-subvencoes-cresce-diesel-importado-bate-recorde-petrobras-ja-recebeu-quase-r-10-bi/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/06_energia_eletrobras_combustiveis.md",
+  "atualizado_em": "2026-10-21",
+  "lacunas": [
+    "Decomposição oficial atualizada do preço (Petrobras 'Composição de preços', out/2026, com percentual de cada parcela) não foi aberta; por isso 'composicao' está vazia e só há valores em R$/l.",
+    "Datas da lista de presidentes da Petrobras vêm da Wikipédia; a saída de Castello Branco (anúncio 19/02/2021 vs. assembleia 13/04/2021) não foi confirmada em fonte primária.",
+    "Dia exato da adoção do PPI (out/2016) e do seu fim (mai/2023) não constam das notas; a linha do tempo marca o mês.",
+    "Data exata de adoção do E30 e do B15 pelo CNPE não confirmada.",
+    "A associação país-valor no ranking da GlobalPetrolPrices foi feita pela ordem da lista, pois a página não rotula cada valor."
+  ]
+}

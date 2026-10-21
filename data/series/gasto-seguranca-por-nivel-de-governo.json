@@ -1,0 +1,95 @@
+{
+  "id": "gasto-seguranca-por-nivel-de-governo",
+  "titulo": "Gasto com segurança pública por nível de governo",
+  "descricao_simples": "Despesas empenhadas na função Segurança Pública por União, estados e municípios, em reais constantes de 2025. Os estados respondem por cerca de 80% do total; a União, por 11%; os municípios, por 8%.",
+  "unidade": "R$ bilhões (constantes de 2025)",
+  "tipo_grafico": "barra",
+  "frequencia": "anual",
+  "fonte": {
+    "nome": "Anuário Brasileiro de Segurança Pública 2026 (FBSP)",
+    "url": "https://static.poder360.com.br/uploads/2026/07/anuario-seguranca-publica-23jul26.pdf",
+    "acesso_em": "2026-10-21",
+    "tier": "academico"
+  },
+  "pontos": [
+    {
+      "periodo": "2016",
+      "valor": 127.1,
+      "detalhe": {
+        "uniao": 15.0,
+        "municipios": 8.0,
+        "estados": 104.2
+      }
+    },
+    {
+      "periodo": "2019",
+      "valor": 132.1,
+      "detalhe": {
+        "uniao": 15.5,
+        "municipios": 9.1,
+        "estados": 107.5
+      }
+    },
+    {
+      "periodo": "2022",
+      "valor": 143.7,
+      "detalhe": {
+        "uniao": 16.6,
+        "municipios": 10.6,
+        "estados": 116.5
+      }
+    },
+    {
+      "periodo": "2024",
+      "valor": 159.8,
+      "detalhe": {
+        "uniao": 22.0,
+        "municipios": 14.2,
+        "estados": 123.6
+      }
+    },
+    {
+      "periodo": "2025",
+      "valor": 163.1,
+      "detalhe": {
+        "uniao": 18.1,
+        "municipios": 13.8,
+        "estados": 131.3
+      }
+    }
+  ],
+  "faixas_referencia": [],
+  "composicao_2025": [
+    {
+      "rotulo": "Estados e DF",
+      "valor": 131.3,
+      "percentual": 80
+    },
+    {
+      "rotulo": "União",
+      "valor": 18.1,
+      "percentual": 11
+    },
+    {
+      "rotulo": "Municípios",
+      "valor": 13.8,
+      "percentual": 8
+    }
+  ],
+  "notas_metodologicas": [
+    "O 'valor' de cada ponto é o total; o campo 'detalhe' traz a divisão entre União, estados e municípios (Anuário 2026, Tabela 59 e Gráfico 73).",
+    "Variação 2016–2025: União +20,8%, municípios +72,7%, estados +26,0%. Em 2025 a despesa da União caiu 17,7% e a dos estados subiu 6,2%.",
+    "Fundo Nacional de Segurança Pública (FNSP): R$ 1,68 bi (2021), R$ 2,40 bi (2024), R$ 2,22 bi (2025), +32,2% no período e -7,5% em 2025. Polícia Federal: R$ 9,8 bi (2021) para R$ 10,4 bi (2025), +6,2% real.",
+    "Anos entre os pontos (2017–2018, 2020–2021, 2023) não constam da nota."
+  ],
+  "ultimo_periodo": "2025",
+  "temas": [
+    "seguranca",
+    "contas-publicas"
+  ],
+  "lacunas": [
+    "Pontos anuais intermediários não constam da nota."
+  ],
+  "atualizado_em": "2026-10-21",
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/07_saude_seguranca_educacao_infra_ambiente.md"
+}

@@ -1,0 +1,69 @@
+{
+  "id": "pisa",
+  "titulo": "PISA — pontuação do Brasil em matemática",
+  "descricao_simples": "Nota média dos estudantes brasileiros de 15 anos em matemática no exame internacional da OCDE. 379 pontos em 2022 (384 em 2018), contra 472 da média da OCDE; estável desde 2009.",
+  "unidade": "pontos",
+  "tipo_grafico": "barra",
+  "frequencia": "anual",
+  "fonte": {
+    "nome": "Agência Gov — resultados do PISA 2022",
+    "url": "https://agenciagov.ebc.com.br/noticias/202312/divulgados-os-resultados-do-pisa-2022",
+    "acesso_em": "2026-10-21",
+    "tier": "oficial"
+  },
+  "pontos": [
+    {
+      "periodo": "2018",
+      "valor": 384,
+      "detalhe": {
+        "leitura": 413,
+        "ciencias": 404
+      }
+    },
+    {
+      "periodo": "2022",
+      "valor": 379,
+      "detalhe": {
+        "leitura": 410,
+        "ciencias": 403,
+        "posicao_aprox": "64º em matemática, 53º em leitura, 61º em ciências entre 81"
+      }
+    }
+  ],
+  "faixas_referencia": [
+    {
+      "rotulo": "Média OCDE 2022 — matemática",
+      "valor": 472
+    },
+    {
+      "rotulo": "Média OCDE 2022 — leitura",
+      "valor": 476
+    },
+    {
+      "rotulo": "Média OCDE 2022 — ciências",
+      "valor": 485
+    }
+  ],
+  "notas_metodologicas": [
+    "O exame é trienal (2022 foi adiado um ano pela pandemia). Resultados de 2022 divulgados em dez/2023. Apenas 27% dos brasileiros atingiram o nível 2 em matemática (OCDE: 69%).",
+    "Próxima edição: PISA 2025, com resultados previstos para 2026 (não localizados na nota).",
+    "Responsabilidade: os alunos avaliados estão majoritariamente em redes estaduais (ensino médio) e municipais; a União coordena a participação via Inep."
+  ],
+  "ultimo_periodo": "2022",
+  "temas": [
+    "educacao"
+  ],
+  "fontes_adicionais": [
+    {
+      "nome": "Diário do Nordeste/Agência Brasil — PISA 2022",
+      "url": "https://diariodonordeste.verdesmares.com.br/ultima-hora/pais/pisa-2022-brasil-fica-abaixo-da-media-em-matematica-leitura-e-ciencias-1.3452036",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "lacunas": [
+    "Edições de 2003 a 2015 não compiladas na nota; resultados do PISA 2025 não localizados."
+  ],
+  "atualizado_em": "2026-10-21",
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/07_saude_seguranca_educacao_infra_ambiente.md"
+}

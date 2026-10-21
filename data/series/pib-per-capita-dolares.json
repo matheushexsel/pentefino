@@ -1,0 +1,109 @@
+{
+  "id": "pib-per-capita-dolares",
+  "titulo": "PIB per capita em dólares (FMI)",
+  "descricao_simples": "Renda média por habitante em dólares correntes, segundo o FMI; sensível ao câmbio.",
+  "unidade": "US$ correntes",
+  "tipo_grafico": "linha",
+  "frequencia": "anual",
+  "fonte": {
+    "nome": "FMI, DataMapper NGDPDPC",
+    "url": "https://www.imf.org/external/datamapper/api/v1/NGDPDPC/BRA/MEX/ARG/CHL/COL/CHN/WEOWORLD?periods=2002,2010,2011,2014,2015,2016,2018,2020,2022,2023,2024,2025,2026",
+    "acesso_em": "2026-10-21",
+    "tier": "multilateral"
+  },
+  "pontos": [
+    {
+      "periodo": "2002",
+      "valor": 2844
+    },
+    {
+      "periodo": "2003",
+      "valor": 3078
+    },
+    {
+      "periodo": "2010",
+      "valor": 11341
+    },
+    {
+      "periodo": "2011",
+      "valor": 13326
+    },
+    {
+      "periodo": "2014",
+      "valor": 12231
+    },
+    {
+      "periodo": "2015",
+      "valor": 8893
+    },
+    {
+      "periodo": "2016",
+      "valor": 8813
+    },
+    {
+      "periodo": "2018",
+      "valor": 9282
+    },
+    {
+      "periodo": "2020",
+      "valor": 7057
+    },
+    {
+      "periodo": "2022",
+      "valor": 9256
+    },
+    {
+      "periodo": "2023",
+      "valor": 10350
+    },
+    {
+      "periodo": "2024",
+      "valor": 10282
+    },
+    {
+      "periodo": "2025",
+      "valor": 10683
+    },
+    {
+      "periodo": "2026 (projeção FMI)",
+      "valor": 12397,
+      "projecao": true
+    }
+  ],
+  "faixas_referencia": [
+    {
+      "rotulo": "México 2025",
+      "valor": 13759
+    },
+    {
+      "rotulo": "Argentina 2025",
+      "valor": 14399
+    },
+    {
+      "rotulo": "Chile 2025",
+      "valor": 17837
+    },
+    {
+      "rotulo": "Colômbia 2025",
+      "valor": 8617
+    },
+    {
+      "rotulo": "China 2025",
+      "valor": 13970
+    },
+    {
+      "rotulo": "Mundo 2025",
+      "valor": 14749
+    }
+  ],
+  "notas_metodologicas": [],
+  "lacunas": [
+    "A nota traz apenas anos selecionados (2002, 2003, 2010, 2011, 2014–2016, 2018, 2020, 2022–2026); os demais anos não foram levantados."
+  ],
+  "ultimo_periodo": "2026 (projeção FMI)",
+  "temas": [
+    "economia"
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/01_macroeconomia_por_governo.md",
+  "atualizado_em": "2026-10-21"
+}

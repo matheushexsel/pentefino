@@ -1,0 +1,203 @@
+{
+  "id": "pedaladas-impeachment-dilma",
+  "nome": "Pedaladas fiscais, impeachment de Dilma e chapa Dilma-Temer no TSE",
+  "periodo": {
+    "inicio": "2014",
+    "fim": "2023-08-22"
+  },
+  "governos_em_que_ocorreram_os_fatos": [
+    "dilma"
+  ],
+  "governos_em_que_foi_investigado": [
+    "dilma",
+    "temer",
+    "bolsonaro",
+    "lula-3"
+  ],
+  "resumo_simples": [
+    "Dilma Rousseff foi afastada por crime de responsabilidade: atraso de repasses a bancos públicos ('pedaladas fiscais', violação da LRF) e edição de decretos de crédito suplementar sem autorização do Congresso. O TCU havia recomendado a rejeição das contas de 2014 em out/2015; a perícia do Senado (jun/2016) concluiu que ela não praticou as pedaladas, mas editou 3 decretos sem autorização.",
+    "Em 31/08/2016 o Senado a condenou por 61 a 20 (perda do cargo), mas rejeitou a inabilitação por 42 a 36 (eram necessários 54 votos), e ela manteve os direitos políticos.",
+    "Dilma não tem condenação criminal. A ação de improbidade do MPF (dez/2018) foi extinta em set/2022 e a extinção mantida pelo TRF-1 em 22/08/2023 sem julgamento de mérito — o que não é absolvição (Aos Fatos classificou como falso dizer que ela 'foi absolvida').",
+    "No TSE, a chapa Dilma-Temer foi absolvida por 4 a 3 em 09/06/2017 na ação do PSDB por abuso de poder na campanha de 2014; a maioria excluiu as provas das delações da Odebrecht e de João Santana/Mônica Moura."
+  ],
+  "valores": [
+    {
+      "rotulo": "Senado — votos pela condenação (perda do cargo)",
+      "valor": 61,
+      "unidade": "votos (contra 20)",
+      "fonte": {
+        "nome": "Aos Fatos, 28/08/2023: Lula engana ao dizer que Dilma foi absolvida das pedaladas",
+        "url": "https://www.aosfatos.org/noticias/lula-engana-ao-dizer-dilma-foi-absolvida-pedaladas/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      }
+    },
+    {
+      "rotulo": "Senado — votos pela inabilitação (rejeitada; exigia 54)",
+      "valor": 42,
+      "unidade": "votos (contra 36)",
+      "fonte": {
+        "nome": "Aos Fatos, 28/08/2023: Lula engana ao dizer que Dilma foi absolvida das pedaladas",
+        "url": "https://www.aosfatos.org/noticias/lula-engana-ao-dizer-dilma-foi-absolvida-pedaladas/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      }
+    },
+    {
+      "rotulo": "Irregularidades apontadas pelo TCU nas contas de 2014",
+      "valor": 10,
+      "unidade": "irregularidades",
+      "fonte": {
+        "nome": "Jornal Opção: TCU recomenda rejeição de contas de Dilma e aponta 10 irregularidades",
+        "url": "https://www.jornalopcao.com.br/ultimas-noticias/tcu-recomenda-rejeicao-de-contas-de-dilma-rousseff-e-aponta-10-irregularidades-76959/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "TSE — placar da absolvição da chapa (09/06/2017)",
+      "valor": 4,
+      "unidade": "votos (contra 3)",
+      "fonte": {
+        "nome": "Poder360, 09/06/2017: Gilmar Mendes desempata e TSE absolve chapa Dilma-Temer por 4 a 3",
+        "url": "https://www.poder360.com.br/justica/gilmar-mendes-desempata-e-tse-absolve-michel-temer-por-4-a-3/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    }
+  ],
+  "partidos": [
+    {
+      "partido": "PT",
+      "citados": null,
+      "denunciados": null,
+      "condenados_1a_instancia": 0,
+      "condenados_definitivo": 0,
+      "condenacoes_anuladas": null,
+      "fonte": {
+        "nome": "Aos Fatos, 28/08/2023: Lula engana ao dizer que Dilma foi absolvida das pedaladas",
+        "url": "https://www.aosfatos.org/noticias/lula-engana-ao-dizer-dilma-foi-absolvida-pedaladas/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "nota": "Refere-se a Dilma Rousseff: nenhuma condenação criminal; responsabilização apenas político-administrativa (impeachment)."
+    }
+  ],
+  "pessoas": [
+    {
+      "nome": "Dilma Rousseff",
+      "partido_na_epoca": "PT",
+      "cargo": "presidente da República (2011–2016)",
+      "crime": "crime de responsabilidade: pedaladas fiscais (LRF) e decretos de crédito suplementar sem autorização do Congresso",
+      "tribunal": "Senado Federal (processo de impeachment)",
+      "data_condenacao": "2016-08-31",
+      "pena": "perda do cargo (61x20); inabilitação rejeitada (42x36)",
+      "status_atual": "Afastada pelo Senado em 31/08/2016, mantendo os direitos políticos. Sem condenação criminal; não foi ré em ação penal da Lava Jato. Delação da JBS citou Dilma e Lula (contas no exterior), sem comprovação pela PGR.",
+      "status_categoria": "condenado-definitivo",
+      "url": "https://www.aosfatos.org/noticias/lula-engana-ao-dizer-dilma-foi-absolvida-pedaladas/",
+      "caso": "Impeachment (não criminal)"
+    },
+    {
+      "nome": "Dilma Rousseff",
+      "partido_na_epoca": "PT",
+      "cargo": "ex-presidente da República",
+      "crime": "improbidade administrativa (mesmos fatos do impeachment) — ação do MPF de dez/2018",
+      "tribunal": "4ª Vara Federal do DF (Frederico Viana); TRF-1 (10ª Turma)",
+      "data_condenacao": null,
+      "pena": null,
+      "status_atual": "Ação extinta em set/2022 com base na tese do STF de que presidente não responde por improbidade pelos mesmos fatos do impeachment; TRF-1 manteve por unanimidade em 22/08/2023 SEM julgar o mérito. Não é absolvição.",
+      "status_categoria": "arquivado",
+      "url": "https://www.aosfatos.org/noticias/lula-engana-ao-dizer-dilma-foi-absolvida-pedaladas/",
+      "caso": "Improbidade (civil)"
+    },
+    {
+      "nome": "Dilma Rousseff e Michel Temer (chapa 2014)",
+      "partido_na_epoca": "PT / PMDB",
+      "cargo": "presidente e vice eleitos em 2014",
+      "crime": "abuso de poder político e econômico na campanha de 2014 (ação do PSDB)",
+      "tribunal": "TSE",
+      "data_condenacao": null,
+      "pena": null,
+      "status_atual": "Chapa absolvida por 4x3 em 09/06/2017 (Gilmar Mendes desempatou; relator Herman Benjamin, Fux e Rosa Weber votaram pela cassação). A maioria excluiu as provas das delações da Odebrecht e de João Santana/Mônica Moura por extrapolarem o objeto inicial.",
+      "status_categoria": "absolvido",
+      "url": "https://www.poder360.com.br/justica/gilmar-mendes-desempata-e-tse-absolve-michel-temer-por-4-a-3/",
+      "caso": "Ação eleitoral (TSE)"
+    }
+  ],
+  "linha_do_tempo": [
+    {
+      "data": "2015-10",
+      "evento": "TCU recomenda a rejeição das contas de 2014 e aponta 10 irregularidades.",
+      "url": "https://www.jornalopcao.com.br/ultimas-noticias/tcu-recomenda-rejeicao-de-contas-de-dilma-rousseff-e-aponta-10-irregularidades-76959/"
+    },
+    {
+      "data": "2016-06",
+      "evento": "Perícia do Senado conclui que Dilma não praticou as pedaladas, mas editou 3 decretos sem autorização.",
+      "url": "https://www.aosfatos.org/noticias/lula-engana-ao-dizer-dilma-foi-absolvida-pedaladas/"
+    },
+    {
+      "data": "2016-08-31",
+      "evento": "Senado condena Dilma por 61x20 (perda do cargo) e rejeita a inabilitação por 42x36.",
+      "url": "https://www.aosfatos.org/noticias/lula-engana-ao-dizer-dilma-foi-absolvida-pedaladas/"
+    },
+    {
+      "data": "2017-06-09",
+      "evento": "TSE absolve a chapa Dilma-Temer por 4x3.",
+      "url": "https://www.poder360.com.br/justica/gilmar-mendes-desempata-e-tse-absolve-michel-temer-por-4-a-3/"
+    },
+    {
+      "data": "2018-12",
+      "evento": "MPF ajuíza ação de improbidade contra Dilma.",
+      "url": "https://www.aosfatos.org/noticias/lula-engana-ao-dizer-dilma-foi-absolvida-pedaladas/"
+    },
+    {
+      "data": "2022-09",
+      "evento": "4ª Vara Federal do DF extingue a ação de improbidade sem julgar o mérito.",
+      "url": "https://www.aosfatos.org/noticias/lula-engana-ao-dizer-dilma-foi-absolvida-pedaladas/"
+    },
+    {
+      "data": "2023-08-22",
+      "evento": "TRF-1 (10ª Turma) mantém a extinção por unanimidade, sem julgar o mérito.",
+      "url": "https://www.aosfatos.org/noticias/lula-engana-ao-dizer-dilma-foi-absolvida-pedaladas/"
+    }
+  ],
+  "o_que_dizem_os_dois_lados": {
+    "acusacao": "O TCU apontou 10 irregularidades nas contas de 2014 e a acusação sustentou que as pedaladas violaram a LRF e que os decretos de crédito suplementar foram editados sem autorização do Congresso; o Senado acolheu a tese por 61 a 20. Aos Fatos classificou como falso dizer que Dilma 'foi absolvida' das pedaladas, porque a ação de improbidade foi extinta sem exame de mérito.",
+    "defesa": "A defesa aponta que a perícia do Senado concluiu que Dilma não praticou as pedaladas, que ela manteve os direitos políticos (42x36), que não tem nenhuma condenação criminal nem foi ré na Lava Jato, que a chapa foi absolvida pelo TSE (4x3) e que a ação de improbidade foi encerrada em duas instâncias."
+  },
+  "status_atual_md": "Dilma é a única entre os protagonistas da época sem condenação criminal e sem ter sido ré em ação penal da Lava Jato; sua responsabilização foi exclusivamente político-administrativa (impeachment). A ação de improbidade está extinta sem mérito (TRF-1, 22/08/2023).",
+  "lacunas": [
+    "Não localizada decisão do TCU de 2024–2025 revisando as 'pedaladas'."
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/04_escandalos_mensalao_petrolao_lavajato.md",
+  "fontes": [
+    {
+      "nome": "Aos Fatos, 28/08/2023: Lula engana ao dizer que Dilma foi absolvida das pedaladas",
+      "url": "https://www.aosfatos.org/noticias/lula-engana-ao-dizer-dilma-foi-absolvida-pedaladas/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Jornal Opção: TCU recomenda rejeição de contas de Dilma e aponta 10 irregularidades",
+      "url": "https://www.jornalopcao.com.br/ultimas-noticias/tcu-recomenda-rejeicao-de-contas-de-dilma-rousseff-e-aponta-10-irregularidades-76959/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Poder360, 09/06/2017: Gilmar Mendes desempata e TSE absolve chapa Dilma-Temer por 4 a 3",
+      "url": "https://www.poder360.com.br/justica/gilmar-mendes-desempata-e-tse-absolve-michel-temer-por-4-a-3/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "atualizado_em": "2026-10-21",
+  "convencoes": [
+    "citado: nome aparece em delação, planilha, relatório de CPI ou reportagem, sem ato formal de investigação.",
+    "investigado: alvo de inquérito, busca, prisão temporária/preventiva ou indiciamento pela PF (indiciamento não é denúncia).",
+    "denunciado: PGR/MPF ofereceu denúncia; réu: a denúncia foi recebida pelo tribunal.",
+    "condenado-1a / condenado-2a: decisão de mérito ainda sujeita a recurso. Para condenações pelo STF em instância única sem trânsito em julgado confirmado nas notas, usa-se condenado-1a com explicação em status_atual.",
+    "condenado-definitivo: trânsito em julgado confirmado nas notas; cumprindo-pena / pena-cumprida quando as notas informam a execução.",
+    "anulada: condenação ou provas anuladas por nulidade (competência, parcialidade, prova ilícita), sem exame de mérito; absolvido: decisão de mérito favorável; arquivado: inquérito/denúncia encerrada sem mérito; prescrito: punibilidade extinta pelo tempo.",
+    "Pedido de indiciamento por CPI/CPMI não é indiciamento policial nem denúncia: é recomendação ao Ministério Público."
+  ]
+}

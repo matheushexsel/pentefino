@@ -1,0 +1,133 @@
+{
+  "id": "cambio-fim-de-periodo",
+  "titulo": "Dólar: cotação no fim de cada ano (R$/US$)",
+  "descricao_simples": "Cotação do dólar comercial (venda) no último dia útil de dezembro.",
+  "unidade": "R$ por US$",
+  "tipo_grafico": "linha",
+  "frequencia": "anual",
+  "fonte": {
+    "nome": "Banco Central do Brasil, SGS 3695 (fim de período, mensal)",
+    "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.3695/dados?formato=json",
+    "acesso_em": "2026-10-21",
+    "tier": "oficial"
+  },
+  "pontos": [
+    {
+      "periodo": "2002",
+      "valor": 3.5325
+    },
+    {
+      "periodo": "2003",
+      "valor": 2.8884
+    },
+    {
+      "periodo": "2004",
+      "valor": 2.6536
+    },
+    {
+      "periodo": "2005",
+      "valor": 2.3399
+    },
+    {
+      "periodo": "2006",
+      "valor": 2.1372
+    },
+    {
+      "periodo": "2007",
+      "valor": 1.7705
+    },
+    {
+      "periodo": "2008",
+      "valor": 2.3362
+    },
+    {
+      "periodo": "2009",
+      "valor": 1.7404
+    },
+    {
+      "periodo": "2010",
+      "valor": 1.6654
+    },
+    {
+      "periodo": "2011",
+      "valor": 1.8751
+    },
+    {
+      "periodo": "2012",
+      "valor": 2.0429
+    },
+    {
+      "periodo": "2013",
+      "valor": 2.342
+    },
+    {
+      "periodo": "2014",
+      "valor": 2.6556
+    },
+    {
+      "periodo": "2015",
+      "valor": 3.9042
+    },
+    {
+      "periodo": "2016",
+      "valor": 3.2585
+    },
+    {
+      "periodo": "2017",
+      "valor": 3.3074
+    },
+    {
+      "periodo": "2018",
+      "valor": 3.8742
+    },
+    {
+      "periodo": "2019",
+      "valor": 4.0301
+    },
+    {
+      "periodo": "2020",
+      "valor": 5.1961
+    },
+    {
+      "periodo": "2021",
+      "valor": 5.5799
+    },
+    {
+      "periodo": "2022",
+      "valor": 5.2171
+    },
+    {
+      "periodo": "2023",
+      "valor": 4.8407
+    },
+    {
+      "periodo": "2024",
+      "valor": 6.1917
+    },
+    {
+      "periodo": "2025",
+      "valor": 5.5018
+    },
+    {
+      "periodo": "set/2026 (fim de mês)",
+      "valor": 5.1803,
+      "parcial": true
+    }
+  ],
+  "faixas_referencia": [
+    {
+      "rotulo": "Recorde nominal (dez/2024)",
+      "valor": 6.1917
+    }
+  ],
+  "notas_metodologicas": [],
+  "lacunas": [
+    "Cotação diária de 21/10/2026 não coletada (apenas o fechamento de set/2026)."
+  ],
+  "ultimo_periodo": "set/2026 (fim de mês)",
+  "temas": [
+    "economia"
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/01_macroeconomia_por_governo.md",
+  "atualizado_em": "2026-10-21"
+}

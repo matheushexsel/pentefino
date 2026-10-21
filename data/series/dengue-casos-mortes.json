@@ -1,0 +1,74 @@
+{
+  "id": "dengue-casos-mortes",
+  "titulo": "Mortes por dengue no Brasil",
+  "descricao_simples": "Óbitos confirmados por dengue segundo o painel do Ministério da Saúde. 2024 foi o pior ano da série histórica iniciada em 2000, com 6.022 mortes e cerca de 6,6 milhões de registros.",
+  "unidade": "óbitos",
+  "tipo_grafico": "barra",
+  "frequencia": "anual",
+  "fonte": {
+    "nome": "Revista Oeste (painel do MS) — dengue 2024",
+    "url": "https://www.revistaoeste.com/saude/recorde-brasil-tem-66-milhoes-de-casos-de-dengue-em-2024-e-mais-de-6-mil-mortes/",
+    "acesso_em": "2026-10-21",
+    "tier": "imprensa"
+  },
+  "pontos": [
+    {
+      "periodo": "2023",
+      "valor": 1179,
+      "detalhe": {
+        "nota": "valor citado em jun/2024 (Agência Brasil); fontes de abr/2024 traziam 1.079–1.094"
+      }
+    },
+    {
+      "periodo": "2024",
+      "valor": 6022,
+      "detalhe": {
+        "registros": 6600000,
+        "casos_provaveis_adicionais": 652053,
+        "ate": "2024-12-28"
+      }
+    }
+  ],
+  "faixas_referencia": [],
+  "notas_metodologicas": [
+    "As 6.022 mortes de 2024 superam a soma dos sete anos anteriores (2017–2023), segundo imprensa que reproduz o painel do MS.",
+    "O número de mortes de 2023 varia conforme a data da consulta: 1.079–1.094 (abr/2024) e 1.179 (jun/2024), por causa de confirmações tardias. Usou-se o valor mais recente.",
+    "Em mar/2024 o país já superava 2 milhões de casos; em jun/2024, mais de 6 milhões de casos prováveis e 4.019 mortes. O governo federal repassou R$ 1,5 bi a estados e municípios em caráter emergencial.",
+    "Responsabilidade: controle do mosquito (agentes de endemias) é municipal com apoio estadual; vacina (Qdenga) e repasses emergenciais são federais. A epidemia coincidiu com El Niño e a expansão do sorotipo 3."
+  ],
+  "ultimo_periodo": "2024",
+  "temas": [
+    "saude"
+  ],
+  "fontes_adicionais": [
+    {
+      "nome": "Agência Brasil/Radioagência — recorde de dengue (jun/2024)",
+      "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/saude/audio/2024-06/brasil-bate-recorde-de-casos-de-dengue-e-numero-de-mortes-pela-doenca",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Poder360 — Brasil ultrapassa 5.000 mortes por dengue",
+      "url": "https://www.poder360.com.br/poder-saude/brasil-ultrapassa-marca-de-5-000-mortes-por-dengue/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "RR/Lusa — Brasil supera 2 milhões de casos de dengue (mar/2024)",
+      "url": "https://rr.pt/noticia/mundo/2024/03/22/brasil-supera-dois-milhoes-de-casos-de-dengue-e-bate-recorde-historico/371831/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "NSC Total — óbitos por dengue (abr/2024)",
+      "url": "https://www.nsctotal.com.br/?p=7131397",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "lacunas": [
+    "Painel oficial de arboviroses não acessado; casos de 2023, doses da Qdenga e números fechados de 2025 não localizados."
+  ],
+  "atualizado_em": "2026-10-21",
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/07_saude_seguranca_educacao_infra_ambiente.md"
+}
