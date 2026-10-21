@@ -4,7 +4,7 @@
   "pergunta_principal": "Por que Jair Bolsonaro foi condenado, qual é a situação dele e dos condenados pelo 8 de janeiro, e houve anistia?",
   "resposta_curta": [
     "Em 11/09/2025 a 1ª Turma do STF condenou Jair Bolsonaro, por 4x1, a 27 anos e 3 meses por organização criminosa armada, golpe de Estado, tentativa de abolição violenta do Estado democrático de direito, dano qualificado e deterioração de patrimônio tombado; o trânsito em julgado foi declarado em 25/11/2025, e ele cumpre pena (preso em 22/11/2025; Papudinha desde 15/01/2026; domiciliar humanitária desde 24-27/03/2026).",
-    "O STF contabiliza 1.402 condenados pelo 8 de janeiro (431 a prisão, 419 a penas alternativas, 552 acordos); a Lei da Dosimetria (Lei 15.402/2026), que reduz penas sem anistiar, teve o veto de Lula derrubado e foi promulgada em 08/05/2026, mas está suspensa por Moraes desde 09/05/2026, sem julgamento de mérito.",
+    "O STF contabilizava em dezembro de 2025 1.374 responsabilizados pelo 8 de janeiro (810 condenados e 564 acordos de não persecução penal; 14 absolvições) e, em abril de 2026, 1.402 responsabilizados (431 a prisão, 419 a penas alternativas, 552 acordos) — 'condenados' e 'responsabilizados' não são sinônimos; a Lei da Dosimetria (Lei 15.402/2026), que reduz penas sem anistiar, teve o veto de Lula derrubado e foi promulgada em 08/05/2026, mas está suspensa por Moraes desde 09/05/2026, sem julgamento de mérito.",
     "Eduardo Bolsonaro foi condenado a 4 anos e 2 meses por coação (16/06/2026) e perdeu o mandato; Ramagem (16 anos, 1 mês e 15 dias) fugiu para os EUA. Não houve anistia: houve uma lei de redução de penas, hoje suspensa."
   ],
   "periodo": {
@@ -83,7 +83,7 @@
       "id": "1",
       "titulo": "O 8 de janeiro e os números do STF",
       "periodo": "2023-01-08 a 2026-04-30",
-      "texto_md": "Em 08/01/2023 apoiadores de Bolsonaro invadiram e depredaram as sedes dos Três Poderes em Brasília (a data do evento é pública; a nota de pesquisa não traz URL primária específica para ela). Balanço do STF divulgado em 30/04/2026: 1.402 condenados; 431 penas de prisão, 419 alternativas e 552 acordos de não persecução penal; 404 réus com pena de 1 ano (28,82%); 213 condenações a 14 anos (15,19%); 190 presos (169 com pena definitiva, 21 provisória). A Asfav (associação de familiares) estima cerca de 600 beneficiários potenciais da Lei da Dosimetria (150 em regime fechado, 70 em domiciliar, 380 com cautelares).",
+      "texto_md": "Em 08/01/2023 apoiadores de Bolsonaro invadiram e depredaram as sedes dos Três Poderes em Brasília (a data do evento é pública; a nota de pesquisa não traz URL primária específica para ela). Os balanços do STF usam o termo 'responsabilizados' (condenados + acordos de não persecução penal): 898 em jan/2025 (371 condenados + 527 ANPPs); 1.190 em ago/2025 (638 + 552); 1.374 em 16/12/2025 (810 condenados, 395 por crimes graves e 415 leves, + 564 ANPPs; 1.734 ações autuadas; 14 absolvições; 45% ANPP, 31% penas até 2a6m, 24% graves, ~5% acima de 12 anos). O balanço de 30/04/2026 (Agência Brasil) fala em 1.402 (431 penas de prisão, 419 alternativas e 552 ANPPs; 850 condenados); 404 réus com pena de 1 ano (28,82%); 213 condenações a 14 anos (15,19%); 190 presos (169 com pena definitiva, 21 provisória). As séries divergem na contagem de ANPPs (552 vs 564) e o STF não publica 'penas médias', só distribuições. A Asfav (associação de familiares) estima cerca de 600 beneficiários potenciais da Lei da Dosimetria (150 em regime fechado, 70 em domiciliar, 380 com cautelares).",
       "eventos": [
         {
           "data": "2023-01-08",
@@ -96,8 +96,35 @@
           "nao_verificado": true
         },
         {
+          "data": "2025-01",
+          "fato": "Balanço do STF (2 anos): 898 responsabilizados — 371 condenados e 527 ANPPs; mais de R$ 1,7 mi arrecadados em acordos.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://noticias.stf.jus.br/postsnoticias/em-dois-anos-stf-responsabilizou-898-pessoas-por-atos-antidemocraticos-de-8-de-janeiro/",
+          "tipo": "documento"
+        },
+        {
+          "data": "2025-08",
+          "fato": "Balanço do STF: 1.190 responsabilizados — 638 condenados e 552 ANPPs (ANPP só para incitação e associação criminosa, acampados; multa de R$ 5 mil).",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://noticias.stf.jus.br/postsnoticias/atos-antidemocraticos-de-8-1-1-190-pessoas-ja-foram-responsabilizadas/",
+          "tipo": "documento"
+        },
+        {
+          "data": "2025-12-16",
+          "fato": "Balanço da 1ª Turma (atualizado em 08/01/2026): 1.374 responsabilizados — 810 condenados (395 graves, 415 leves) e 564 ANPPs; 1.734 ações autuadas; 14 absolvições; mais de R$ 3 mi arrecadados; 346 ações em instrução; 98 denúncias pendentes.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://noticias.stf.jus.br/postsnoticias/1a-turma-faz-balanco-dos-julgamentos-sobre-atos-antidemocraticos/",
+          "tipo": "documento"
+        },
+        {
           "data": "2026-04-30",
-          "fato": "Balanço do STF: 1.402 condenados; 431 a prisão, 419 penas alternativas, 552 ANPPs; 190 presos.",
+          "fato": "Balanço (Agência Brasil): 1.402 responsabilizados — 431 a prisão, 419 penas alternativas, 552 ANPPs; 850 condenados; 190 presos.",
           "citacao_literal": null,
           "literal": null,
           "quem_disse": null,
@@ -118,13 +145,41 @@
       "o_que_a_defesa_dizia": null,
       "numeros": [
         {
-          "rotulo": "Condenados pelo 8 de janeiro (STF)",
+          "rotulo": "Responsabilizados pelo 8 de janeiro (condenados + ANPPs)",
           "valor": 1402,
           "unidade": "pessoas",
           "periodo": "2026-04-30",
           "fonte": {
             "nome": "Agência Brasil",
             "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-04/entenda-como-o-pl-da-dosimetria-pode-beneficiar-condenados-pelo-81",
+            "acesso_em": "2026-10-21",
+            "tier": "oficial"
+          }
+        },
+        {
+          "rotulo": "Condenados (balanço STF dez/2025)",
+          "valor": 810,
+          "unidade": "pessoas",
+          "periodo": "2025-12-16",
+          "fonte": {
+            "nome": "STF Notícias",
+            "url": "https://noticias.stf.jus.br/postsnoticias/1a-turma-faz-balanco-dos-julgamentos-sobre-atos-antidemocraticos/",
+            "acesso_em": "2026-10-21",
+            "tier": "oficial"
+          },
+          "comparacao": {
+            "rotulo": "ANPPs homologados (dez/2025)",
+            "valor": 564
+          }
+        },
+        {
+          "rotulo": "Absolvições (balanço STF dez/2025)",
+          "valor": 14,
+          "unidade": "pessoas",
+          "periodo": "2025-12-16",
+          "fonte": {
+            "nome": "STF Notícias",
+            "url": "https://noticias.stf.jus.br/postsnoticias/1a-turma-faz-balanco-dos-julgamentos-sobre-atos-antidemocraticos/",
             "acesso_em": "2026-10-21",
             "tier": "oficial"
           }
@@ -183,7 +238,7 @@
       "id": "2",
       "titulo": "A AP 2668 ('trama golpista'): cautelares, julgamento e pena (2025)",
       "periodo": "2025-07-18 a 2025-11-18",
-      "texto_md": "Em 18/07/2025 Moraes impôs tornozeleira e recolhimento noturno; em 03-04/08/2025 decretou prisão domiciliar preventiva por descumprimento de cautelares (Pet 14.129), após áudio em ato em Copacabana, ligada à investigação por coação capitaneada por Eduardo Bolsonaro. Em 11/09/2025 a 1ª Turma condenou Bolsonaro por 4x1 (Moraes, Dino, Cármen Lúcia e Zanin; Fux divergiu, condenando apenas Cid e Braga Netto) a 27 anos e 3 meses (24 anos e 9 meses de reclusão + 2 anos e 9 meses de detenção), multa (124 dias-multa; R$ 376 mil segundo a CNN) e regime inicial fechado; a Turma declarou os 8 condenados inelegíveis por 8 anos. Co-réus do núcleo 1: Braga Netto, Augusto Heleno, Almir Garnier, Paulo Sérgio Nogueira, Anderson Torres, Mauro Cid e Alexandre Ramagem (16 anos, 1 mês e 15 dias; crimes de dano ficaram fora porque a Câmara suspendeu a ação quanto a fatos pós-diplomação). As penas individuais dos demais não constaram das fontes lidas. Em 07/11/2025 a Turma rejeitou embargos de declaração (4x0); o acórdão foi publicado em 18/11/2025.",
+      "texto_md": "Em 18/07/2025 Moraes impôs tornozeleira e recolhimento noturno; em 03-04/08/2025 decretou prisão domiciliar preventiva por descumprimento de cautelares (Pet 14.129), após áudio em ato em Copacabana, ligada à investigação por coação capitaneada por Eduardo Bolsonaro. Em 11/09/2025 a 1ª Turma condenou Bolsonaro por 4x1 (Moraes, Dino, Cármen Lúcia e Zanin; Fux divergiu, condenando apenas Cid e Braga Netto) a 27 anos e 3 meses (24 anos e 9 meses de reclusão + 2 anos e 6 meses de detenção, conforme o registro oficial da AP 2668 no portal do STF), multa (124 dias-multa; R$ 376 mil segundo a CNN) e regime inicial fechado; a Turma declarou os 8 condenados inelegíveis por 8 anos. Penas individuais fixadas em 11/09/2025 (STF): Braga Netto 26 anos; Anderson Torres 24; Almir Garnier 24; Augusto Heleno 21; Paulo Sérgio Nogueira 19; Alexandre Ramagem 16 anos, 1 mês e 15 dias (crimes de dano ficaram fora porque a Câmara suspendeu a ação quanto a fatos pós-diplomação); Mauro Cid (colaborador) 2 anos em regime aberto. A dosimetria foi fixada por 4 votos (Fux não votou na dosimetria por ter absolvido; propôs pena menor só para Braga Netto); Cid por unanimidade; inelegibilidade de todos por 8 anos após o cumprimento da pena; perda do mandato de Ramagem e do cargo de delegado da PF de Ramagem e Torres; encaminhamento ao STM (unânime) de Bolsonaro, Braga Netto, Heleno, Garnier e Paulo Sérgio para análise de indignidade para o oficialato; indenização solidária por danos morais coletivos de R$ 30 milhões. A multa de Bolsonaro, 124 dias-multa de 2 salários mínimos cada, equivale a R$ 376.464 (124 × 2 × R$ 1.518; cálculo próprio), o que reconcilia '124 dias-multa' e 'R$ 376 mil'. Em 07/11/2025 a Turma rejeitou embargos de declaração (4x0); o acórdão foi publicado em 18/11/2025.",
       "eventos": [
         {
           "data": "2025-07-18",
@@ -228,6 +283,24 @@
           "literal": null,
           "quem_disse": null,
           "url": "https://www.cnnbrasil.com.br/politica/jair-bolsonaro-completa-um-ano-preso-relembre-os-principais-acontecimentos/",
+          "tipo": "decisao"
+        },
+        {
+          "data": "2025-09-11",
+          "fato": "STF fixa as penas: Braga Netto 26 anos; Torres 24; Garnier 24; Heleno 21; Paulo Sérgio 19; Ramagem 16a1m15d; Cid 2 anos (aberto); dosimetria por 4 votos; encaminhamento ao STM (unânime); R$ 30 milhões de danos morais coletivos (solidário); multa de Bolsonaro: 124 dias-multa de 2 salários mínimos.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://noticias.stf.jus.br/postsnoticias/stf-fixa-penas-de-16-a-27-anos-para-condenados-por-tentativa-de-golpe-de-estado/",
+          "tipo": "decisao"
+        },
+        {
+          "data": "2025-10-30",
+          "fato": "Início do cumprimento da pena de Mauro Cid (2 anos, regime aberto); benefícios da colaboração estendidos a pai, esposa e filha.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://noticias.stf.jus.br/postsnoticias/ap-2668-stf-determina-cumprimento-imediato-da-pena-dos-sete-reus-do-nucleo-1-da-tentativa-de-golpe/",
           "tipo": "decisao"
         },
         {
@@ -289,14 +362,177 @@
             "tier": "imprensa"
           },
           "detalhe": "16 anos, 1 mês e 15 dias"
+        },
+        {
+          "rotulo": "Pena de Braga Netto",
+          "valor": 26,
+          "unidade": "anos",
+          "periodo": "2025-09-11",
+          "fonte": {
+            "nome": "STF Notícias",
+            "url": "https://noticias.stf.jus.br/postsnoticias/stf-fixa-penas-de-16-a-27-anos-para-condenados-por-tentativa-de-golpe-de-estado/",
+            "acesso_em": "2026-10-21",
+            "tier": "oficial"
+          }
+        },
+        {
+          "rotulo": "Pena de Anderson Torres",
+          "valor": 24,
+          "unidade": "anos",
+          "periodo": "2025-09-11",
+          "fonte": {
+            "nome": "STF Notícias",
+            "url": "https://noticias.stf.jus.br/postsnoticias/stf-fixa-penas-de-16-a-27-anos-para-condenados-por-tentativa-de-golpe-de-estado/",
+            "acesso_em": "2026-10-21",
+            "tier": "oficial"
+          }
+        },
+        {
+          "rotulo": "Pena de Almir Garnier",
+          "valor": 24,
+          "unidade": "anos",
+          "periodo": "2025-09-11",
+          "fonte": {
+            "nome": "STF Notícias",
+            "url": "https://noticias.stf.jus.br/postsnoticias/stf-fixa-penas-de-16-a-27-anos-para-condenados-por-tentativa-de-golpe-de-estado/",
+            "acesso_em": "2026-10-21",
+            "tier": "oficial"
+          }
+        },
+        {
+          "rotulo": "Pena de Augusto Heleno",
+          "valor": 21,
+          "unidade": "anos",
+          "periodo": "2025-09-11",
+          "fonte": {
+            "nome": "STF Notícias",
+            "url": "https://noticias.stf.jus.br/postsnoticias/stf-fixa-penas-de-16-a-27-anos-para-condenados-por-tentativa-de-golpe-de-estado/",
+            "acesso_em": "2026-10-21",
+            "tier": "oficial"
+          }
+        },
+        {
+          "rotulo": "Pena de Paulo Sérgio Nogueira",
+          "valor": 19,
+          "unidade": "anos",
+          "periodo": "2025-09-11",
+          "fonte": {
+            "nome": "STF Notícias",
+            "url": "https://noticias.stf.jus.br/postsnoticias/stf-fixa-penas-de-16-a-27-anos-para-condenados-por-tentativa-de-golpe-de-estado/",
+            "acesso_em": "2026-10-21",
+            "tier": "oficial"
+          }
+        },
+        {
+          "rotulo": "Pena de Mauro Cid (colaborador)",
+          "valor": 2,
+          "unidade": "anos (regime aberto)",
+          "periodo": "2025-09-11",
+          "fonte": {
+            "nome": "STF Notícias",
+            "url": "https://noticias.stf.jus.br/postsnoticias/stf-fixa-penas-de-16-a-27-anos-para-condenados-por-tentativa-de-golpe-de-estado/",
+            "acesso_em": "2026-10-21",
+            "tier": "oficial"
+          }
+        },
+        {
+          "rotulo": "Indenização por danos morais coletivos (solidária)",
+          "valor": 30,
+          "unidade": "R$ milhões",
+          "periodo": "2025-09-11",
+          "fonte": {
+            "nome": "STF Notícias",
+            "url": "https://noticias.stf.jus.br/postsnoticias/stf-fixa-penas-de-16-a-27-anos-para-condenados-por-tentativa-de-golpe-de-estado/",
+            "acesso_em": "2026-10-21",
+            "tier": "oficial"
+          }
+        },
+        {
+          "rotulo": "Multa de Bolsonaro (124 dias-multa x 2 SM de R$ 1.518; cálculo próprio)",
+          "valor": 376464,
+          "unidade": "R$",
+          "periodo": "2025-09-11",
+          "fonte": {
+            "nome": "STF Notícias",
+            "url": "https://noticias.stf.jus.br/postsnoticias/stf-fixa-penas-de-16-a-27-anos-para-condenados-por-tentativa-de-golpe-de-estado/",
+            "acesso_em": "2026-10-21",
+            "tier": "oficial"
+          }
         }
-      ]
+      ],
+      "penas_individuais": [
+        {
+          "reu": "Jair Bolsonaro",
+          "pena": "27 anos e 3 meses",
+          "regime_inicial": "fechado",
+          "dias_multa": "124 x 2 SM",
+          "custodia_25_11_2025": "Superintendência da PF/DF",
+          "situacao_out_2026": "Papudinha (15/01/2026) → domiciliar humanitária (24/03/2026; prazo indeterminado em 03/07/2026); RvC 6.021 pendente"
+        },
+        {
+          "reu": "Walter Braga Netto",
+          "pena": "26 anos",
+          "regime_inicial": "fechado",
+          "dias_multa": "100 x 1 SM",
+          "custodia_25_11_2025": "1ª Divisão do Exército, Vila Militar (RJ)",
+          "situacao_out_2026": "embargos rejeitados como protelatórios"
+        },
+        {
+          "reu": "Anderson Torres",
+          "pena": "24 anos",
+          "regime_inicial": "fechado",
+          "dias_multa": "100 x 1 SM",
+          "custodia_25_11_2025": "19º BPM, Complexo da Papuda (DF)",
+          "situacao_out_2026": "perda do cargo de delegado da PF"
+        },
+        {
+          "reu": "Almir Garnier",
+          "pena": "24 anos",
+          "regime_inicial": "fechado",
+          "dias_multa": "100 x 1 SM",
+          "custodia_25_11_2025": "Estação Rádio da Marinha (Brasília)",
+          "situacao_out_2026": null
+        },
+        {
+          "reu": "Augusto Heleno",
+          "pena": "21 anos",
+          "regime_inicial": "fechado",
+          "dias_multa": "84 x 1 SM",
+          "custodia_25_11_2025": "Comando Militar do Planalto",
+          "situacao_out_2026": "embargos rejeitados como protelatórios"
+        },
+        {
+          "reu": "Paulo Sérgio Nogueira",
+          "pena": "19 anos",
+          "regime_inicial": "fechado",
+          "dias_multa": "84 x 1 SM",
+          "custodia_25_11_2025": "Comando Militar do Planalto",
+          "situacao_out_2026": "embargos rejeitados como protelatórios"
+        },
+        {
+          "reu": "Alexandre Ramagem",
+          "pena": "16 anos, 1 mês e 15 dias",
+          "regime_inicial": "fechado",
+          "dias_multa": "50 x 1 SM",
+          "custodia_25_11_2025": "mandado de prisão (BNMP); foragido",
+          "situacao_out_2026": "nos EUA; pedido de asilo (abr/2026); AP 2737 pendente"
+        },
+        {
+          "reu": "Mauro Cid (colaborador)",
+          "pena": "2 anos",
+          "regime_inicial": "aberto",
+          "dias_multa": null,
+          "custodia_25_11_2025": "início decretado em 30/10/2025",
+          "situacao_out_2026": "benefícios da colaboração estendidos a pai, esposa e filha"
+        }
+      ],
+      "fonte_penas_individuais": "https://noticias.stf.jus.br/postsnoticias/ap-2668-stf-determina-cumprimento-imediato-da-pena-dos-sete-reus-do-nucleo-1-da-tentativa-de-golpe/"
     },
     {
       "id": "3",
       "titulo": "Prisão preventiva (22/11/2025), trânsito em julgado (25/11/2025) e cumprimento da pena",
       "periodo": "2025-11-22 a 2026-08-05",
-      "texto_md": "Em 22/11/2025 Bolsonaro tentou romper a tornozeleira (ferro de solda, por volta da meia-noite) em meio a vigília convocada por Flávio; Moraes decretou prisão preventiva a pedido da PF ('elevado risco de fuga') e o transferiu à Superintendência da PF em Brasília (sala de Estado-Maior, ~12 m²). Segundo a Aos Fatos, essa prisão 'ainda não diz respeito ao cumprimento da pena'. Em 24/11 venceu o prazo para novos embargos sem recurso; em 25/11/2025 Moraes declarou o trânsito em julgado, afastou embargos infringentes (exigem 2 votos absolutórios) e determinou a execução; a 1ª Turma referendou por 4x0 na mesma noite (Fux já havia migrado para a 2ª Turma). Cirurgias em 25/12 e 29/12/2025; transferência à 'Papudinha' (unidade da PM no complexo da Papuda) em 15/01/2026; Moraes negou domiciliar em 02/03/2026 com base em perícia da PF; em 23/03 a PGR opinou pela domiciliar humanitária e em 24/03/2026 Moraes a concedeu por 90 dias (broncopneumonia), cumprida em casa em Brasília desde 27/03; em 03/07/2026 prorrogou por prazo indeterminado, vedadas visitas e manifestações político-eleitorais até o fim das eleições de 2026 (decisão de 17/10/2025), sob pena de retorno ao fechado. Em 04/08/2026 completou 1 ano sob restrição; em 05/08/2026 Moraes deu 5 dias à PGR sobre pedido da defesa para o fim das restrições a visitas (inclusive de Flávio). Em junho de 2026 a PGR pediu a rejeição da Revisão Criminal 6.021.",
+      "texto_md": "Em 22/11/2025 Bolsonaro tentou romper a tornozeleira (ferro de solda, por volta da meia-noite) em meio a vigília convocada por Flávio; Moraes decretou prisão preventiva a pedido da PF ('elevado risco de fuga') e o transferiu à Superintendência da PF em Brasília (sala de Estado-Maior, ~12 m²). Segundo a Aos Fatos, essa prisão 'ainda não diz respeito ao cumprimento da pena'. Em 24/11 venceu o prazo para novos embargos sem recurso; em 25/11/2025 Moraes declarou o trânsito em julgado, afastou embargos infringentes (exigem 2 votos absolutórios) e determinou a execução; a 1ª Turma referendou por 4x0 na mesma noite (Fux já havia migrado para a 2ª Turma). Cirurgias em 25/12 e 29/12/2025; transferência à 'Papudinha' (unidade da PM no complexo da Papuda) em 15/01/2026; Moraes negou domiciliar em 02/03/2026 com base em perícia da PF; em 23/03 a PGR opinou pela domiciliar humanitária e em 24/03/2026 Moraes a concedeu por 90 dias (broncopneumonia), cumprida em casa em Brasília desde 27/03; em 03/07/2026 prorrogou por prazo indeterminado, vedadas visitas e manifestações político-eleitorais até o fim das eleições de 2026 (decisão de 17/10/2025), sob pena de retorno ao fechado. Em 04/08/2026 completou 1 ano sob restrição; em 05/08/2026 Moraes deu 5 dias à PGR sobre pedido da defesa para o fim das restrições a visitas (inclusive de Flávio); em 12/10/2026 Moraes liberou as visitas de Flávio (a proibição durara 90 dias); boletim médico de 09/10/2026 registrou taquicardia e dificuldade para respirar. **Revisão Criminal 6.021**: protocolada em 08/05/2026; relator sorteado Nunes Marques (Fux excluído por ter atuado na AP 2668), revisor André Mendonça, competência do Plenário; teses: o julgamento deveria ter sido do Plenário, nulidade da delação de Cid, acesso 'tardio, massivo e funcionalmente ineficaz' às provas, atos de mera 'cogitação/preparação', ausência de indícios de conhecimento; PGR (Gonet) manifestou-se em 16/06/2026 pelo não conhecimento; em 24/09/2026 a defesa pediu a suspensão da pena e, cerca de duas horas depois, desistiu apenas desse pedido cautelar; segunda petição de revisão teria sido protocolada em 25/09/2026 (não confirmada no portal); em 07/10/2026 o gabinete do relator informou que o caso irá ao Plenário após o 2º turno. Sem julgamento até 21/10/2026.",
       "eventos": [
         {
           "data": "2025-11-22",
@@ -318,11 +554,29 @@
         },
         {
           "data": "2025-11-25",
-          "fato": "Moraes declara o trânsito em julgado, afasta embargos infringentes e determina a execução; 1ª Turma referenda por 4x0 na mesma noite.",
+          "fato": "Moraes declara o trânsito em julgado 'independentemente da publicação do Acórdão', afasta embargos infringentes e determina a execução com locais de custódia individualizados (PF/DF para Bolsonaro; Vila Militar/RJ para Braga Netto; 19º BPM/Papuda para Torres; Estação Rádio da Marinha para Garnier; Comando Militar do Planalto para Heleno e Paulo Sérgio; mandado de prisão para Ramagem); 1ª Turma referenda por unanimidade em sessão virtual encerrada em 26/11/2025.",
           "citacao_literal": null,
           "literal": null,
           "quem_disse": null,
-          "url": "https://www.jornalopcao.com.br/ultimas-noticias/moraes-declara-transito-em-julgado-no-processo-do-golpe-e-libera-execucao-da-pena-de-bolsonaro-768892/",
+          "url": "https://noticias.stf.jus.br/postsnoticias/ap-2668-stf-determina-cumprimento-imediato-da-pena-dos-sete-reus-do-nucleo-1-da-tentativa-de-golpe/",
+          "tipo": "decisao"
+        },
+        {
+          "data": "2025-11-26",
+          "fato": "Registro oficial da AP 2668 (número único 0100569-46.2025.1.00.0000, incidente 7223339, aba Decisões): trânsito em julgado declarado em 25/11/2025 'independentemente da publicação do Acórdão'; pena total de Bolsonaro de 27 anos e 3 meses = 24 anos e 9 meses de reclusão + 2 anos e 6 meses de detenção; referendo unânime da 1ª Turma em sessão virtual encerrada em 26/11/2025 (também para Braga Netto, Heleno, Paulo Sérgio Nogueira, Garnier, Anderson Torres e Ramagem).",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://portal.stf.jus.br/processos/abaDecisoes.asp?incidente=7223339&imprimir=true",
+          "tipo": "decisao"
+        },
+        {
+          "data": "2025-11-26",
+          "fato": "1ª Turma confirma o início do cumprimento e rejeita como protelatórios os novos embargos de Paulo Sérgio Nogueira, Braga Netto e Heleno.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://noticias.stf.jus.br/postsnoticias/ap-2668-1a-turma-confirma-inicio-de-cumprimento-da-pena-de-reus-do-nucleo-1-da-tentativa-de-golpe/",
           "tipo": "decisao"
         },
         {
@@ -353,8 +607,17 @@
           "tipo": "decisao"
         },
         {
+          "data": "2026-05-08",
+          "fato": "Defesa protocola a Revisão Criminal 6.021 (STF noticiou em 12/05); distribuída em 11/05/2026 a Nunes Marques (Fux excluído: 'RISTF, ART. 77, caput. Processo que justifica: AP 2668'), revisor André Mendonça; competência do Plenário.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://noticias.stf.jus.br/postsnoticias/ex-presidente-bolsonaro-apresenta-revisao-criminal-contra-condenacao-por-tentativa-de-golpe-de-estado/",
+          "tipo": "documento"
+        },
+        {
           "data": "2026-06-16",
-          "fato": "PGR pede a rejeição da Revisão Criminal 6.021.",
+          "fato": "PGR (Gonet) manifesta-se pelo não conhecimento da Revisão Criminal 6.021 (sem fato novo, prova falsa ou ilegalidade manifesta).",
           "citacao_literal": null,
           "literal": null,
           "quem_disse": null,
@@ -377,6 +640,33 @@
           "literal": null,
           "quem_disse": null,
           "url": "https://www.cnnbrasil.com.br/politica/jair-bolsonaro-completa-um-ano-preso-relembre-os-principais-acontecimentos/",
+          "tipo": "decisao"
+        },
+        {
+          "data": "2026-09-24",
+          "fato": "Defesa pede a suspensão da execução da pena durante a revisão e, cerca de duas horas depois, desiste apenas desse pedido cautelar, mantendo a revisão; advogados 'não explicaram o motivo da mudança' (literal conforme Congresso em Foco).",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://www.congressoemfoco.com.br/noticia/122545/defesa-de-bolsonaro-recua-e-desiste-de-pedir-suspensao-da-pena",
+          "tipo": "fato"
+        },
+        {
+          "data": "2026-10-07",
+          "fato": "Gabinete de Nunes Marques: revisão irá ao Plenário após o 2º turno (25/10/2026); relator 'avalia a possibilidade de conceder uma liminar'; 'ainda não há decisão tomada' (literal conforme DGABC/Folha); segunda petição de revisão teria sido protocolada em 25/09/2026 (não confirmada no portal).",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://www.diariodepernambuco.com.br/politica/2026/10/11725942-nunes-marques-indicado-por-jair-bolsonaro-quer-pautar-a-revisao-criminal-que-pode-libertar-o-ex-presidente.html",
+          "tipo": "fato"
+        },
+        {
+          "data": "2026-10-12",
+          "fato": "Moraes libera as visitas de Flávio ao pai (proibição durara 90 dias); boletim médico de 09/10 registra taquicardia e dificuldade para respirar; em 08/10/2026 Moraes determinara a execução da pena de Eduardo Bolsonaro.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://www.opovo.com.br/noticias/politica/2026/10/16/stf-decide-sobre-bolsonaro-e-reus-do-8-1-apos-1-turno.html",
           "tipo": "decisao"
         }
       ],
@@ -532,8 +822,26 @@
       "id": "5",
       "titulo": "Eduardo Bolsonaro e Alexandre Ramagem",
       "periodo": "2025-03-18 a 2026-09-25",
-      "texto_md": "Eduardo Bolsonaro licenciou-se da Câmara e mudou-se aos EUA em 18/03/2025; em 09/07/2025 Trump anunciou tarifa de 50% ao Brasil e em julho os EUA revogaram vistos de ministros do STF; em 21/07/2025 Moraes bloqueou bens de Eduardo. Em 22/09/2025 a PGR denunciou Eduardo e Paulo Figueiredo por coação no curso do processo (art. 344 CP); a 1ª Turma recebeu a denúncia em 14/11/2025; a Mesa da Câmara declarou a perda do mandato por faltas em 18/12/2025. Em 16/06/2026 a 1ª Turma o condenou a 4 anos e 2 meses (semiaberto), 50 dias-multa (~R$ 162 mil) e 12 anos de inelegibilidade (até 2038); embargos rejeitados em 18/09/2026; em 25/09/2026 foi condenado por difamação contra Tabata Amaral (7 x 3; 1 ano de detenção e multa acima de R$ 80 mil); demitido da PF em 21/09/2026 por abandono de cargo. Ramagem: Operação Última Milha (out/2023) e Vigilância Aproximada (25/01/2024) sobre a 'Abin paralela' (FirstMile comprado por R$ 5,7 mi sem licitação no fim de 2018, usado ~30 mil vezes); PF indiciou 34 pessoas em jun/2025; condenado na AP 2668 (11/09/2025); trânsito em julgado em 25/11/2025; demitido da PF em 03/12/2025; mandato cassado em 18/12/2025; saiu clandestinamente pela Guiana (set/2025, segundo a PF); detido pelo ICE em Orlando em 13/04/2026, solto em 15/04 e pediu asilo.",
+      "texto_md": "Eduardo Bolsonaro licenciou-se da Câmara e mudou-se aos EUA em 18/03/2025; em 09/07/2025 Trump anunciou tarifa de 50% ao Brasil e em julho os EUA revogaram vistos de ministros do STF; em 21/07/2025 Moraes bloqueou bens de Eduardo. Em 22/09/2025 a PGR denunciou Eduardo e Paulo Figueiredo por coação no curso do processo (art. 344 CP); a 1ª Turma recebeu a denúncia em 14/11/2025; a Mesa da Câmara declarou a perda do mandato por faltas em 18/12/2025. Em 16/06/2026 a 1ª Turma (AP 2782) o condenou por unanimidade (4x0: Moraes, Zanin, Cármen Lúcia, Dino) por coação no curso do processo em continuidade delitiva ('pelo menos nove ocasiões') a 4 anos e 2 meses (semiaberto), 50 dias-multa de 2 salários mínimos, perda do cargo de escrivão da PF e **inelegibilidade por 8 anos após o cumprimento da pena** (segundo o MPF/PGR; a Wikipédia fala em '12 anos/até 2038' — prefere-se a fonte oficial); a ação contra Paulo Figueiredo foi desmembrada e 'segue curso próprio' (reside nos EUA; sem julgamento localizado); embargos rejeitados em 18/09/2026; em 08/10/2026 Moraes determinou a execução da pena; em 25/09/2026 foi condenado por difamação contra Tabata Amaral (7 x 3; 1 ano de detenção e multa acima de R$ 80 mil); demitido da PF em 21/09/2026 por abandono de cargo. Ramagem: Operação Última Milha (out/2023) e Vigilância Aproximada (25/01/2024) sobre a 'Abin paralela' (FirstMile comprado por R$ 5,7 mi sem licitação no fim de 2018, usado ~30 mil vezes); PF indiciou 34 pessoas em jun/2025; condenado na AP 2668 (11/09/2025); trânsito em julgado em 25/11/2025; demitido da PF em 03/12/2025; mandato cassado em 18/12/2025; saiu clandestinamente pela Guiana (set/2025, segundo a PF); detido pelo ICE em Orlando em 13/04/2026, solto em 15/04 e pediu asilo. **AP 2737 (8 de janeiro)**: em 22/12/2025 Moraes retomou a ação por dano qualificado e deterioração de patrimônio tombado (crimes suspensos pela Câmara em 2025; a suspensão caiu com a perda do mandato) e marcou audiência para 05/02/2026 por videoconferência; em 12/03/2026 a PGR apresentou alegações finais pedindo condenação; sem julgamento localizado até 21/10/2026.",
       "eventos": [
+        {
+          "data": "2025-12-22",
+          "fato": "AP 2737: Moraes retoma a ação contra Ramagem por dano qualificado e deterioração de patrimônio tombado; audiência de instrução marcada para 05/02/2026 (videoconferência).",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://www.congressoemfoco.com.br/noticia/115116/stf-retoma-acao-penal-contra-ramagem-por-crimes-no-8-de-janeiro",
+          "tipo": "decisao"
+        },
+        {
+          "data": "2026-03-12",
+          "fato": "AP 2737: PGR apresenta alegações finais pedindo a condenação de Ramagem; sem julgamento até 21/10/2026.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://static.poder360.com.br/2026/03/PGR-pede-condenacao-ramagem-8-janeiro-12.mar_.2026.pdf",
+          "tipo": "documento"
+        },
         {
           "data": "2025-03-18",
           "fato": "Eduardo Bolsonaro se licencia da Câmara e muda-se aos EUA.",
@@ -590,13 +898,21 @@
         },
         {
           "data": "2026-06-16",
-          "fato": "1ª Turma condena Eduardo a 4 anos e 2 meses (semiaberto), 50 dias-multa e 12 anos de inelegibilidade (placar não localizado).",
+          "fato": "1ª Turma (AP 2782) condena Eduardo por unanimidade (4x0: Moraes, Zanin, Cármen Lúcia, Dino) por coação no curso do processo em continuidade delitiva ('pelo menos nove ocasiões'): 4 anos e 2 meses (semiaberto), 50 dias-multa de 2 SM, inelegibilidade por 8 anos após o cumprimento da pena, perda do cargo de escrivão da PF; ação de Paulo Figueiredo desmembrada.",
           "citacao_literal": null,
           "literal": null,
           "quem_disse": null,
-          "url": "https://pt.wikipedia.org/wiki/Eduardo_Bolsonaro",
-          "tipo": "decisao",
-          "nao_verificado": true
+          "url": "https://www.mpf.mp.br/o-mpf/unidades/procuradoria-geral-da-republica-pgr/noticias/stf-condena-eduardo-bolsonaro-a-quatro-anos-e-dois-meses-de-prisao-pelo-crime-de-coacao-no-curso-do-processo",
+          "tipo": "decisao"
+        },
+        {
+          "data": "2026-10-08",
+          "fato": "Moraes determina a execução da pena de Eduardo Bolsonaro (4 anos e 2 meses).",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://www.opovo.com.br/noticias/politica/2026/10/16/stf-decide-sobre-bolsonaro-e-reus-do-8-1-apos-1-turno.html",
+          "tipo": "decisao"
         },
         {
           "data": "2026-09-18",
@@ -651,8 +967,17 @@
       "id": "6",
       "titulo": "Os outros casos de Bolsonaro: inelegibilidade, cartões de vacina, joias, Covaxin",
       "periodo": "2021-06-16 a 2026-03-18",
-      "texto_md": "TSE (30/06/2023): inelegível até 2030 por abuso de poder político e uso indevido dos meios de comunicação. Cartões de vacinação: Moraes arquivou a investigação (Pet 10405) em março de 2025 a pedido da PGR, por ausência de provas dos crimes narrados na delação de Mauro Cid. Joias sauditas: a PF indiciou Bolsonaro por lavagem e associação criminosa; a PGR pediu arquivamento alegando 'lacuna legislativa'; em 18/03/2026 Moraes pediu novo parecer da PGR sobre a parte relativa a Frederick Wassef; caso pendente. Covaxin: o inquérito por prevaricação foi arquivado após a PF concluir que não houve crime; a vice-PGR Lindôra Araújo pediu o arquivamento de 7 apurações pós-CPI da Covid. Bolsonaro apoiou a candidatura de Flávio em 2026.",
+      "texto_md": "TSE (30/06/2023): inelegível até 2030 por abuso de poder político e uso indevido dos meios de comunicação. Cartões de vacinação: Moraes arquivou a investigação (Pet 10405) em março de 2025 a pedido da PGR, por ausência de provas dos crimes narrados na delação de Mauro Cid. Joias sauditas: a PF indiciou Bolsonaro e 11 pessoas em julho de 2024 por lavagem e associação criminosa (presentes avaliados em ~R$ 6,8 mi); a PGR pediu arquivamento em 05/03/2026 alegando 'lacuna legislativa'; em 18/03/2026 Moraes pediu novo parecer sobre a parte relativa a Frederick Wassef; em 24/07/2026 a Receita pediu à PF os laudos das joias; em ~26/08/2026 a Justiça Federal de Guarulhos remeteu ao STF inquérito sobre as joias; nenhuma decisão de Moraes sobre o arquivamento localizada. Covaxin/CPI da Covid: o relatório final da CPI (relator Renan Calheiros; presidente Omar Aziz) foi aprovado em 26/10/2021 por 7x4, com 1.279 páginas e 80 pedidos de indiciamento (78 pessoas e 2 empresas, Precisa e VTCLog), entregue a Aras e Moraes em 27/10/2021; Aras recusou abrir inquéritos; o inquérito por prevaricação (Covaxin) foi arquivado após a PF concluir que não houve crime; a vice-PGR Lindôra Araújo pediu o arquivamento de 7 apurações; em mar/2024 senadores pediram a Gonet o desarquivamento. Bolsonaro apoiou a candidatura de Flávio em 2026.",
       "eventos": [
+        {
+          "data": "2021-10-26",
+          "fato": "CPI da Covid aprova o relatório final (Renan Calheiros) por 7x4: 1.279 páginas, 80 pedidos de indiciamento (78 pessoas + Precisa e VTCLog), incluindo Bolsonaro (prevaricação, charlatanismo, epidemia com resultado morte, crimes contra a humanidade, entre outros); entregue à PGR e ao STF em 27/10/2021.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://www12.senado.leg.br/noticias/materias/2021/10/26/apos-seis-meses-cpi-da-pandemia-e-encerrada-com-80-pedidos-de-indiciamento",
+          "tipo": "documento"
+        },
         {
           "data": "2023-06-30",
           "fato": "TSE declara Bolsonaro inelegível até 2030.",
@@ -663,6 +988,24 @@
           "tipo": "decisao"
         },
         {
+          "data": "2024-03",
+          "fato": "Senadores pedem a Gonet o desarquivamento dos pedidos de inquérito da CPI da Covid, recusados por Aras.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://www12.senado.leg.br/noticias/audios/2024/03/senadores-vao-a-pgr-por-desarquivamento-de-pedidos-de-inquerito-da-cpi-da-pandemia",
+          "tipo": "fato"
+        },
+        {
+          "data": "2024-07",
+          "fato": "PF indicia Bolsonaro e outras 11 pessoas no caso das joias sauditas (lavagem e associação criminosa; presentes avaliados em ~R$ 6,8 mi).",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://www.band.com.br/noticias/pgr-pede-arquivamento-de-inquerito-sobre-desvio-de-joias-por-bolsonaro-202603051112",
+          "tipo": "documento"
+        },
+        {
           "data": "2025-03",
           "fato": "Moraes arquiva a investigação dos cartões de vacina (Pet 10405) a pedido da PGR.",
           "citacao_literal": null,
@@ -670,6 +1013,24 @@
           "quem_disse": null,
           "url": "https://noticias.stf.jus.br/postsnoticias/stf-arquiva-investigacao-contra-ex-presidente-da-republica-por-fraude-em-cartao-de-vacina/",
           "tipo": "decisao"
+        },
+        {
+          "data": "2026-03-05",
+          "fato": "PGR pede o arquivamento do inquérito das joias ('lacuna legislativa' sobre a natureza jurídica dos presentes; análise restrita à esfera penal).",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://www.band.com.br/noticias/pgr-pede-arquivamento-de-inquerito-sobre-desvio-de-joias-por-bolsonaro-202603051112",
+          "tipo": "documento"
+        },
+        {
+          "data": "2026-07-24",
+          "fato": "Receita Federal pede à PF os laudos das joias.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://www.opovo.com.br/noticias/politica/2026/07/24/receita-pede-a-pf-laudos-de-joias-sauditas-dadas-a-bolsonaro.html",
+          "tipo": "fato"
         },
         {
           "data": "2026-03-18",
@@ -814,22 +1175,22 @@
       "literal": false,
       "nao_verificado": true,
       "veredito": "verdadeiro-mas",
-      "explicacao": "Bolsonaro cumpre pena de 27 anos e 3 meses, com condenação definitiva (25/11/2025). Ficou em regime fechado (PF em Brasília, depois Papudinha) de 22/11/2025 a 24/03/2026 e desde então está em prisão domiciliar humanitária, prorrogada por prazo indeterminado em 03/07/2026, com proibição de visitas e manifestações político-eleitorais até o fim das eleições de 2026.",
+      "explicacao": "Bolsonaro cumpre pena de 27 anos e 3 meses, com condenação definitiva (25/11/2025). Ficou em regime fechado (PF em Brasília, depois Papudinha) de 22/11/2025 a 24/03/2026 e desde então está em prisão domiciliar humanitária, prorrogada por prazo indeterminado em 03/07/2026, com proibição de visitas e manifestações político-eleitorais até o fim das eleições de 2026; em 12/10/2026 Moraes liberou as visitas de Flávio ao pai (a proibição durara 90 dias). A Revisão Criminal 6.021 segue sem julgamento.",
       "checagem_slug": null
     }
   },
   "perguntas_frequentes": [
     {
       "pergunta": "Por que Bolsonaro foi condenado?",
-      "resposta": "Pela 1ª Turma do STF, em 11/09/2025 (4x1), por organização criminosa armada, golpe de Estado, tentativa de abolição violenta do Estado democrático de direito, dano qualificado e deterioração de patrimônio tombado (AP 2668, a 'trama golpista'). Pena: 27 anos e 3 meses (24 anos e 9 meses de reclusão + 2 anos e 9 meses de detenção), multa e regime inicial fechado."
+      "resposta": "Pela 1ª Turma do STF, em 11/09/2025 (4x1), por organização criminosa armada, golpe de Estado, tentativa de abolição violenta do Estado democrático de direito, dano qualificado e deterioração de patrimônio tombado (AP 2668, a 'trama golpista'). Pena: 27 anos e 3 meses (24 anos e 9 meses de reclusão + 2 anos e 6 meses de detenção, conforme o registro oficial da AP 2668 no portal do STF), multa e regime inicial fechado."
     },
     {
       "pergunta": "A condenação é definitiva?",
-      "resposta": "Sim. Os embargos de declaração foram rejeitados em 07/11/2025; o prazo para novos recursos venceu em 24/11 sem recurso da defesa; em 25/11/2025 Moraes declarou o trânsito em julgado e a 1ª Turma referendou por 4x0. Só uma revisão criminal poderia alterá-la; a PGR pediu a rejeição da Revisão Criminal 6.021 em junho de 2026."
+      "resposta": "Sim. Os embargos de declaração foram rejeitados em 07/11/2025; o prazo para novos recursos venceu em 24/11 sem recurso da defesa; em 25/11/2025 Moraes declarou o trânsito em julgado e a 1ª Turma referendou por 4x0. Só uma revisão criminal poderia alterá-la: a Revisão Criminal 6.021 foi protocolada em 08/05/2026 (relator Nunes Marques, revisor André Mendonça, competência do Plenário); a PGR opinou pelo não conhecimento em 16/06/2026; em 24/09/2026 a defesa desistiu apenas do pedido de suspensão da pena; o gabinete do relator informou (07/10/2026) que o caso irá ao Plenário após o 2º turno. Sem julgamento até 21/10/2026."
     },
     {
       "pergunta": "Bolsonaro está preso ou em casa?",
-      "resposta": "Cumpre pena em prisão domiciliar humanitária desde 24-27/03/2026 (broncopneumonia), prorrogada por prazo indeterminado em 03/07/2026, com proibição de visitas e manifestações político-eleitorais até o fim das eleições de 2026, sob pena de voltar ao regime fechado. Antes, ficou na PF em Brasília (22/11/2025) e na 'Papudinha' (15/01/2026)."
+      "resposta": "Cumpre pena em prisão domiciliar humanitária desde 24-27/03/2026 (broncopneumonia), prorrogada por prazo indeterminado em 03/07/2026, com proibição de visitas e manifestações político-eleitorais até o fim das eleições de 2026, sob pena de voltar ao regime fechado. Em 12/10/2026 Moraes liberou as visitas de Flávio ao pai. Antes, ficou na PF em Brasília (22/11/2025) e na 'Papudinha' (15/01/2026)."
     },
     {
       "pergunta": "Houve anistia para o 8 de janeiro?",
@@ -837,7 +1198,7 @@
     },
     {
       "pergunta": "Quantas pessoas foram condenadas pelo 8 de janeiro?",
-      "resposta": "Segundo balanço do STF (abril de 2026): 1.402 condenados, dos quais 431 a prisão, 419 a penas alternativas e 552 por acordos de não persecução penal; 404 réus com pena de 1 ano (28,82%) e 213 condenações a 14 anos (15,19%); 190 presos (169 com pena definitiva, 21 provisória)."
+      "resposta": "Depende da data e do termo. O STF fala em 'responsabilizados' (condenados + acordos): 898 em jan/2025 (371 condenados), 1.190 em ago/2025 (638 condenados), 1.374 em dez/2025 (810 condenados e 564 acordos de não persecução penal; 14 absolvições). O balanço de abril de 2026 (Agência Brasil) soma 1.402 (431 a prisão, 419 a penas alternativas e 552 acordos; 850 condenados); 404 réus com pena de 1 ano (28,82%) e 213 condenações a 14 anos (15,19%); 190 presos (169 com pena definitiva, 21 provisória). As séries divergem na contagem de acordos (552 vs 564)."
     },
     {
       "pergunta": "Qual a diferença entre o caso de Bolsonaro e o de Lula?",
@@ -850,18 +1211,36 @@
   ],
   "lacunas": [
     "Data do 8 de janeiro de 2023 é pública, mas a nota não traz URL primária específica para o evento.",
-    "Penas individuais dos demais condenados do núcleo 1 (Braga Netto, Heleno, Torres, Garnier, Paulo Sérgio, Cid) e locais de prisão não constaram das fontes lidas.",
-    "Multa: 124 dias-multa (Bem Paraná/BP Money) e R$ 376 mil (CNN) são formas diferentes de descrever o mesmo valor; não conferido.",
-    "Divergência de nome do local de prisão: 'Papudinha' (CNN) vs 'Papuda' (Gazeta do Povo).",
-    "Placar da condenação de Eduardo em 16/06/2026 não localizado.",
-    "Não localizado julgamento da AP 2737 (Ramagem/8 de janeiro) nem denúncia específica sobre a Abin paralela.",
-    "Desfecho do caso das joias após mar/2026 e status de Bolsonaro entre julho e 21/10/2026 (retorno ao fechado? revisão criminal?) não localizados.",
-    "Número/data de autuação da AP 2668 não acessados no portal do STF.",
+    "Trânsito em julgado individual dos corréus consta apenas da decisão genérica de 25/11/2025; divergência 'Papudinha' (CNN) x 'Papuda' (Gazeta do Povo) não resolvida; o STF não publica 'penas médias', só distribuições; as séries de balanço divergem (552 vs 564 ANPPs).",
+    "Detenção na pena de Bolsonaro: adotados 2 anos e 6 meses (registro oficial do STF na aba Decisões da AP 2668, coerente com o total de 27a3m); a nota 05 registrava 2 anos e 9 meses, valor que não fecha a soma.",
+    "AP 2737 (Ramagem/8 de janeiro) sem julgamento localizado; Paulo Figueiredo sem julgamento; denúncia específica sobre a Abin paralela (34 indiciados) não localizada.",
+    "Joias: decisão de Moraes sobre o pedido de arquivamento não localizada; nomes dos 11 coindiciados não localizados; Michelle Bolsonaro: nada em 2026.",
+    "Revisão Criminal 6.021: teor da segunda petição (25/09/2026) não confirmado no portal do STF; decisões de Moraes de 24/03 e 03/07/2026 (domiciliar) não constam na aba de decisões da AP 2668 (autos de execução próprios).",
+    "CPI da Covid: decisão da PGR sobre o material remetido ao STF (out/2024) e situação de Maximiano/Precisa não localizadas.",
+    "Inelegibilidade de Eduardo: MPF/PGR fala em 8 anos após a pena; Wikipédia em '12 anos/até 2038' — adotada a fonte oficial.",
     "As frases em 'o_que_cada_lado_diz_hoje' são sínteses de narrativas recorrentes, não citações literais."
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/05_escandalos_recentes_inss_master_bolsonaro.md",
   "atualizado_em": "2026-10-21",
   "fontes": [
+    {
+      "nome": "STF Notícias",
+      "url": "https://noticias.stf.jus.br/postsnoticias/em-dois-anos-stf-responsabilizou-898-pessoas-por-atos-antidemocraticos-de-8-de-janeiro/",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "STF Notícias",
+      "url": "https://noticias.stf.jus.br/postsnoticias/atos-antidemocraticos-de-8-1-1-190-pessoas-ja-foram-responsabilizadas/",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "STF Notícias",
+      "url": "https://noticias.stf.jus.br/postsnoticias/1a-turma-faz-balanco-dos-julgamentos-sobre-atos-antidemocraticos/",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
     {
       "nome": "Agência Brasil",
       "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-04/entenda-como-o-pl-da-dosimetria-pode-beneficiar-condenados-pelo-81",
@@ -899,6 +1278,18 @@
       "tier": "imprensa"
     },
     {
+      "nome": "STF Notícias",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-fixa-penas-de-16-a-27-anos-para-condenados-por-tentativa-de-golpe-de-estado/",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "STF Notícias",
+      "url": "https://noticias.stf.jus.br/postsnoticias/ap-2668-stf-determina-cumprimento-imediato-da-pena-dos-sete-reus-do-nucleo-1-da-tentativa-de-golpe/",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
       "nome": "Congresso em Foco",
       "url": "https://www.congressoemfoco.com.br/noticia/114221/1-turma-confirma-transito-em-julgado-e-execucao-da-pena-de-bolsonaro",
       "acesso_em": "2026-10-21",
@@ -917,10 +1308,16 @@
       "tier": "imprensa"
     },
     {
-      "nome": "Jornal Opção",
-      "url": "https://www.jornalopcao.com.br/ultimas-noticias/moraes-declara-transito-em-julgado-no-processo-do-golpe-e-libera-execucao-da-pena-de-bolsonaro-768892/",
+      "nome": "Portal STF",
+      "url": "https://portal.stf.jus.br/processos/abaDecisoes.asp?incidente=7223339&imprimir=true",
       "acesso_em": "2026-10-21",
-      "tier": "imprensa"
+      "tier": "oficial"
+    },
+    {
+      "nome": "STF Notícias",
+      "url": "https://noticias.stf.jus.br/postsnoticias/ap-2668-1a-turma-confirma-inicio-de-cumprimento-da-pena-de-reus-do-nucleo-1-da-tentativa-de-golpe/",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
     },
     {
       "nome": "O Tempo",
@@ -935,6 +1332,12 @@
       "tier": "oficial"
     },
     {
+      "nome": "STF Notícias",
+      "url": "https://noticias.stf.jus.br/postsnoticias/ex-presidente-bolsonaro-apresenta-revisao-criminal-contra-condenacao-por-tentativa-de-golpe-de-estado/",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
       "nome": "Poder360 (documento hospedado)",
       "url": "https://static.poder360.com.br/uploads/2026/06/pgr-pede-que-a-revisao-criminal-de-bolsonaro-seja-rejeitada-16.jun_.2026.pdf",
       "acesso_em": "2026-10-21",
@@ -943,6 +1346,24 @@
     {
       "nome": "O Tempo",
       "url": "https://www.otempo.com.br/politica/judiciario/2026/7/3/bolsonaro-seguira-preso-em-regime-domiciliar-humanitario",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Congresso em Foco",
+      "url": "https://www.congressoemfoco.com.br/noticia/122545/defesa-de-bolsonaro-recua-e-desiste-de-pedir-suspensao-da-pena",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Diário de Pernambuco",
+      "url": "https://www.diariodepernambuco.com.br/politica/2026/10/11725942-nunes-marques-indicado-por-jair-bolsonaro-quer-pautar-a-revisao-criminal-que-pode-libertar-o-ex-presidente.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "O Povo",
+      "url": "https://www.opovo.com.br/noticias/politica/2026/10/16/stf-decide-sobre-bolsonaro-e-reus-do-8-1-apos-1-turno.html",
       "acesso_em": "2026-10-21",
       "tier": "imprensa"
     },
@@ -965,6 +1386,18 @@
       "tier": "imprensa"
     },
     {
+      "nome": "Congresso em Foco",
+      "url": "https://www.congressoemfoco.com.br/noticia/115116/stf-retoma-acao-penal-contra-ramagem-por-crimes-no-8-de-janeiro",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Poder360 (documento hospedado)",
+      "url": "https://static.poder360.com.br/2026/03/PGR-pede-condenacao-ramagem-8-janeiro-12.mar_.2026.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
       "nome": "Wikipédia (pt) — fonte secundária",
       "url": "https://pt.wikipedia.org/wiki/Eduardo_Bolsonaro",
       "acesso_em": "2026-10-21",
@@ -983,10 +1416,22 @@
       "tier": "imprensa"
     },
     {
+      "nome": "MPF / PGR",
+      "url": "https://www.mpf.mp.br/o-mpf/unidades/procuradoria-geral-da-republica-pgr/noticias/stf-condena-eduardo-bolsonaro-a-quatro-anos-e-dois-meses-de-prisao-pelo-crime-de-coacao-no-curso-do-processo",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
       "nome": "Brasil de Fato",
       "url": "https://www.brasildefato.com.br/2025/09/18/futuro-alexandre-ramagem/",
       "acesso_em": "2026-10-21",
       "tier": "imprensa"
+    },
+    {
+      "nome": "Agência Senado / Senado Federal",
+      "url": "https://www12.senado.leg.br/noticias/materias/2021/10/26/apos-seis-meses-cpi-da-pandemia-e-encerrada-com-80-pedidos-de-indiciamento",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
     },
     {
       "nome": "Wikipedia (en) — fonte secundária",
@@ -995,10 +1440,28 @@
       "tier": "imprensa"
     },
     {
+      "nome": "Agência Senado / Senado Federal",
+      "url": "https://www12.senado.leg.br/noticias/audios/2024/03/senadores-vao-a-pgr-por-desarquivamento-de-pedidos-de-inquerito-da-cpi-da-pandemia",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Band",
+      "url": "https://www.band.com.br/noticias/pgr-pede-arquivamento-de-inquerito-sobre-desvio-de-joias-por-bolsonaro-202603051112",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
       "nome": "STF Notícias",
       "url": "https://noticias.stf.jus.br/postsnoticias/stf-arquiva-investigacao-contra-ex-presidente-da-republica-por-fraude-em-cartao-de-vacina/",
       "acesso_em": "2026-10-21",
       "tier": "oficial"
+    },
+    {
+      "nome": "O Povo",
+      "url": "https://www.opovo.com.br/noticias/politica/2026/07/24/receita-pede-a-pf-laudos-de-joias-sauditas-dadas-a-bolsonaro.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
     },
     {
       "nome": "Agência Brasil",
@@ -1023,6 +1486,12 @@
       "url": "https://noticias.stf.jus.br/postsnoticias/stf-confirma-suspeicao-de-sergio-moro-na-acao-do-triplex-do-guaruja/",
       "acesso_em": "2026-10-21",
       "tier": "oficial"
+    },
+    {
+      "nome": "Jornal Opção",
+      "url": "https://www.jornalopcao.com.br/ultimas-noticias/moraes-declara-transito-em-julgado-no-processo-do-golpe-e-libera-execucao-da-pena-de-bolsonaro-768892/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
     },
     {
       "nome": "Agência Lupa",

@@ -59,7 +59,7 @@
       "id": "1",
       "titulo": "A MP 1.031 e a Lei 14.182/2021: como o Congresso aprovou",
       "periodo": "2021-02-23 a 2021-07-13",
-      "texto_md": "A privatização foi proposta pela MP 1.031, de 23/02/2021, do governo Bolsonaro. A Câmara aprovou a MP em maio de 2021; o Senado aprovou em 17/06/2021 por 42 votos a 37; a Câmara concluiu a votação em 21/06/2021 e a sanção com vetos foi noticiada em 13/07/2021 (a contagem de votos da Câmara e o número do acórdão do TCU não foram localizados). A lei adotou a 'desestatização na modalidade de aumento do capital social, por meio da subscrição pública de ações ordinárias com renúncia do direito de subscrição pela União', novas concessões de 30 anos, manutenção de Eletronuclear e Itaipu sob controle da União, veto a que qualquer acionista vote com mais de 10% e ação especial da União com poder de veto. Em troca, a empresa paga à CDE 50% do valor adicionado pelos novos contratos e bonificação de outorga com os outros 50%, além de aportes anuais por 10 anos às bacias do São Francisco (R$ 350 mi), Amazônia Legal (R$ 295 mi) e Furnas (R$ 230 mi). O Congresso incluiu os chamados 'jabutis': contratação obrigatória de termelétricas a gás em leilão de reserva de capacidade (8 GW por 15 anos em regiões sem infraestrutura de gás), prorrogação do Proinfa por 20 anos e reserva para PCHs.",
+      "texto_md": "A privatização foi proposta pela MP 1.031, de 23/02/2021, do governo Bolsonaro. A Câmara aprovou a subemenda substitutiva global em 19/05/2021 por **313 votos a 166** (5 abstenções; relator da redação final, aprovada em 20/05, deputado Elmar Nascimento, DEM-BA); o Senado aprovou em 17/06/2021 por 42 votos a 37 (relator Marcos Rogério, DEM-RO; MP convertida no PLV 7/2021); em 21/06/2021 a Câmara aprovou o bloco de emendas do Senado por **258 a 136** (5 abstenções), com destaques nominais no mesmo dia (Emenda 1 do Senado 245x174; Emenda 2 292x151; Emenda 15 296x142; Emenda 28 278x172; Emenda 8 rejeitada 162x278) e redação final às 20h50; a sanção com vetos foi noticiada em 13/07/2021 (o número do acórdão do TCU não foi localizado). A lei adotou a 'desestatização na modalidade de aumento do capital social, por meio da subscrição pública de ações ordinárias com renúncia do direito de subscrição pela União', novas concessões de 30 anos, manutenção de Eletronuclear e Itaipu sob controle da União, veto a que qualquer acionista vote com mais de 10% e ação especial da União com poder de veto. Em troca, a empresa paga à CDE 50% do valor adicionado pelos novos contratos e bonificação de outorga com os outros 50%, além de aportes anuais por 10 anos às bacias do São Francisco (R$ 350 mi), Amazônia Legal (R$ 295 mi) e Furnas (R$ 230 mi). O Congresso incluiu os chamados 'jabutis': contratação obrigatória de termelétricas a gás em leilão de reserva de capacidade (8 GW por 15 anos em regiões sem infraestrutura de gás), prorrogação do Proinfa por 20 anos e reserva para PCHs.",
       "eventos": [
         {
           "data": "2021-02-23",
@@ -71,22 +71,21 @@
           "tipo": "documento"
         },
         {
-          "data": "2021-05",
-          "fato": "Câmara aprova a MP (contagem de votos não localizada).",
+          "data": "2021-05-19",
+          "fato": "Câmara aprova a subemenda substitutiva global ao PLV (votação 2270789-73, 22h13): 'Sim: 313; não: 166; abstenção: 5; total: 484'; redação final aprovada em 20/05/2021 (relator Elmar Nascimento, DEM-BA).",
           "citacao_literal": null,
           "literal": null,
           "quem_disse": null,
-          "url": "https://pt.wikipedia.org/wiki/Eletrobras",
-          "tipo": "fato",
-          "nao_verificado": true
+          "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270789-73",
+          "tipo": "fato"
         },
         {
           "data": "2021-06-17",
-          "fato": "Senado aprova a MP por 42 votos a 37.",
+          "fato": "Senado aprova a MP por 42 votos a 37 (relator Marcos Rogério, DEM-RO; PLV 7/2021).",
           "citacao_literal": null,
           "literal": null,
           "quem_disse": null,
-          "url": "https://pt.wikipedia.org/wiki/Eletrobras",
+          "url": "https://www12.senado.leg.br/noticias/materias/2021/06/17/senado-aprova-mp-que-desestatiza-eletrobras-texto-volta-para-camara",
           "tipo": "fato"
         },
         {
@@ -100,11 +99,11 @@
         },
         {
           "data": "2021-06-21",
-          "fato": "Câmara conclui a votação do texto final.",
+          "fato": "Câmara aprova o bloco de emendas do Senado (votação 2270789-157, 18h32): 'Sim: 258; não: 136; abstenção: 5; total: 399'; destaques: Emenda 1 245x174, Emenda 2 292x151, Emenda 15 296x142, Emenda 28 278x172, Emenda 8 rejeitada 162x278; redação final às 20h50.",
           "citacao_literal": null,
           "literal": null,
           "quem_disse": null,
-          "url": "https://pt.wikipedia.org/wiki/Eletrobras",
+          "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270789-157",
           "tipo": "fato"
         },
         {
@@ -148,15 +147,39 @@
       "o_que_a_defesa_dizia": "Governo Bolsonaro: a capitalização destravaria investimentos, geraria R$ 67 bi à União e à CDE e reduziria a conta em 7,36%.",
       "numeros": [
         {
+          "rotulo": "Placar na Câmara (19/05/2021, substitutivo)",
+          "valor": 313,
+          "unidade": "votos a favor x 166 (5 abstenções)",
+          "periodo": "2021-05-19",
+          "fonte": {
+            "nome": "Câmara dos Deputados — Dados Abertos",
+            "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270789-73",
+            "acesso_em": "2026-10-21",
+            "tier": "oficial"
+          }
+        },
+        {
           "rotulo": "Placar no Senado",
           "valor": 42,
           "unidade": "votos a favor x 37",
           "periodo": "2021-06-17",
           "fonte": {
-            "nome": "Wikipédia (pt) — fonte secundária",
-            "url": "https://pt.wikipedia.org/wiki/Eletrobras",
+            "nome": "Agência Senado / Senado Federal",
+            "url": "https://www12.senado.leg.br/noticias/materias/2021/06/17/senado-aprova-mp-que-desestatiza-eletrobras-texto-volta-para-camara",
             "acesso_em": "2026-10-21",
-            "tier": "imprensa"
+            "tier": "oficial"
+          }
+        },
+        {
+          "rotulo": "Placar na Câmara (21/06/2021, emendas do Senado)",
+          "valor": 258,
+          "unidade": "votos a favor x 136 (5 abstenções)",
+          "periodo": "2021-06-21",
+          "fonte": {
+            "nome": "Câmara dos Deputados — Dados Abertos",
+            "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270789-157",
+            "acesso_em": "2026-10-21",
+            "tier": "oficial"
           }
         },
         {
@@ -297,8 +320,17 @@
       "id": "3",
       "titulo": "A oferta de ações (junho de 2022): R$ 33,7 bilhões",
       "periodo": "2022-06-10 a 2022-06-13",
-      "texto_md": "A oferta de ações levantou R$ 33,7 bilhões (cerca de US$ 6,9 bi) a R$ 42 por ação, com 802,1 milhões de ações: oferta primária de R$ 30,76 bi e secundária (BNDES) de R$ 2,938 bi; as novas ações passaram a ser negociadas em 13/06/2022. A participação da União no capital votante caiu 'de 68,6% para 40,3%' (Wikipédia) ou '42% das ações ordinárias' (CNN), com voto limitado a menos de 10%. O governo calculou em R$ 67 bilhões os valores ligados à privatização: R$ 25,3 bi ao Tesouro pelas outorgas e R$ 32 bi à CDE ao longo de 25 anos (R$ 5 bi só em 2022). A soma de R$ 25,3 bi + R$ 32 bi + cerca de R$ 8,75 bi em revitalização de bacias aproxima-se dos R$ 67 bi divulgados.",
+      "texto_md": "A oferta de ações levantou R$ 33,7 bilhões (cerca de US$ 6,9 bi) a R$ 42 por ação, com 802,1 milhões de ações: oferta primária de R$ 30,76 bi e secundária (BNDES) de R$ 2,938 bi; as novas ações passaram a ser negociadas em 13/06/2022. A participação da União no capital votante caiu 'de 68,6% para 40,3%' (Wikipédia) ou '42% das ações ordinárias' (CNN), com voto limitado a menos de 10%. O governo calculou em R$ 67 bilhões os valores ligados à privatização: R$ 25,3 bi ao Tesouro pelas outorgas e R$ 32 bi à CDE ao longo de 25 anos (R$ 5 bi só em 2022). A soma de R$ 25,3 bi + R$ 32 bi + cerca de R$ 8,75 bi em revitalização de bacias aproxima-se dos R$ 67 bi divulgados. **Composição acionária atual** (RI da Axia, posição de setembro de 2026): o 'Grupo Governo' (União, BNDES/BNDESPar, FND, FGHAB, BNB, BB Asset, Caixa Asset, Petros e Previ) tem 993.157.201 ON = **40,67% das ON** e 1.143.484.325 ações = **40,43% do capital total**, incluindo a ação de classe especial (golden share); não residentes 34,19% das ON; ADR 2,02%; FMP-FGTS 2,19%; demais pessoas físicas e jurídicas 19,06% das ON; tesouraria 1,87%. A página não discrimina a União isoladamente (logo a União sozinha é menor que 40%) nem menciona o teto de 10% de voto, que está no estatuto e na lei. Isso corrige o 'Governo Federal 46,60%' da Wikipédia.",
       "eventos": [
+        {
+          "data": "2026-09",
+          "fato": "Composição acionária da Axia/Eletrobras (RI, posição set/2026): Grupo Governo 40,67% das ON e 40,43% do capital; não residentes 34,19% das ON; total de 2.441.805.426 ON e 386.839.004 PN.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://ri.axia.com.br/a-axia/estrutura-acionaria-composicao-acionaria/",
+          "tipo": "documento"
+        },
         {
           "data": "2022-06-10",
           "fato": "Eletrobras é privatizada com oferta de R$ 33,7 bilhões na bolsa; R$ 42 por ação; 802,1 milhões de ações; primária R$ 30,76 bi, secundária (BNDES) R$ 2,938 bi.",
@@ -413,6 +445,43 @@
             "acesso_em": "2026-10-21",
             "tier": "imprensa"
           }
+        },
+        {
+          "rotulo": "Grupo Governo nas ações ordinárias (Axia RI, set/2026)",
+          "valor": 40.67,
+          "unidade": "% das ON",
+          "periodo": "2026-09",
+          "fonte": {
+            "nome": "Axia Energia — RI",
+            "url": "https://ri.axia.com.br/a-axia/estrutura-acionaria-composicao-acionaria/",
+            "acesso_em": "2026-10-21",
+            "tier": "oficial"
+          },
+          "detalhe": "inclui União, BNDES/BNDESPar, FND, FGHAB, BNB, BB Asset, Caixa Asset, Petros e Previ"
+        },
+        {
+          "rotulo": "Grupo Governo no capital total (Axia RI, set/2026)",
+          "valor": 40.43,
+          "unidade": "% do capital",
+          "periodo": "2026-09",
+          "fonte": {
+            "nome": "Axia Energia — RI",
+            "url": "https://ri.axia.com.br/a-axia/estrutura-acionaria-composicao-acionaria/",
+            "acesso_em": "2026-10-21",
+            "tier": "oficial"
+          }
+        },
+        {
+          "rotulo": "Acionistas não residentes (Axia RI, set/2026)",
+          "valor": 34.19,
+          "unidade": "% das ON",
+          "periodo": "2026-09",
+          "fonte": {
+            "nome": "Axia Energia — RI",
+            "url": "https://ri.axia.com.br/a-axia/estrutura-acionaria-composicao-acionaria/",
+            "acesso_em": "2026-10-21",
+            "tier": "oficial"
+          }
         }
       ]
     },
@@ -420,8 +489,17 @@
       "id": "4",
       "titulo": "Efeitos na conta de luz: descotização, CDE e os jabutis",
       "periodo": "2022-2026",
-      "texto_md": "Segundo Maurício Tolmasquim (UFRJ), as usinas em regime de cotas vendiam a cerca de R$ 75/MWh e, descotizadas, podem vender a preço de mercado (~R$ 150/MWh). A ANEEL registra em 2025 a 'Diminuição das Cotas dos Contratos de Garantia Física – CCGF em função da privatização da Eletrobras, aumentando a tarifa em percentual superior a variação da RAG'; por outro lado, a 'CDE Eletrobras' permitiu quitar antecipadamente, em setembro de 2024, os encargos CDE Covid e CDE Escassez. O CLP (think tank, 2026) chama de 'jabutis' as contratações compulsórias da Lei 14.182 (regulamentada pelo Decreto 11.042/2022) e observa que o PL 5.017/2019, aprovado em 14/07/2026 na CI do Senado, repete a lógica com 2.500 MW de térmicas a gás e 4.900 MW de PCHs. Não foi localizado balanço ex post oficial (TCU/ANEEL) do efeito líquido da privatização na tarifa.",
+      "texto_md": "Segundo Maurício Tolmasquim (UFRJ), as usinas em regime de cotas vendiam a cerca de R$ 75/MWh e, descotizadas, podem vender a preço de mercado (~R$ 150/MWh). A ANEEL registra em 2025 a 'Diminuição das Cotas dos Contratos de Garantia Física – CCGF em função da privatização da Eletrobras, aumentando a tarifa em percentual superior a variação da RAG'; por outro lado, a 'CDE Eletrobras' permitiu quitar antecipadamente, em setembro de 2024, os encargos CDE Covid e CDE Escassez. O CLP (think tank, 2026) chama de 'jabutis' as contratações compulsórias da Lei 14.182 (regulamentada pelo Decreto 11.042/2022) e observa que o PL 5.017/2019, aprovado em 14/07/2026 na CI do Senado, repete a lógica com 2.500 MW de térmicas a gás e 4.900 MW de PCHs. Não foi localizado balanço ex post oficial (TCU/ANEEL) do efeito líquido da privatização na tarifa. Contexto da CDE (base oficial da ANEEL, orçamento anual, R$ bi nominais): 2022 32,10; 2023 34,99; 2024 37,17; 2025 49,23; 2026 52,66 (quotas de uso R$ 47,79 bi); o aporte da Eletrobras pela Lei 14.182 registrado em 2024 foi de R$ 1,30 bi. A Conta Escassez Hídrica, cujo encargo foi quitado em set/2024 com recursos da CDE Eletrobras, foi criada pelo Decreto 10.939, de 13/01/2022 ('Fica autorizada a criação e a gestão da Conta Escassez Hídrica pela Câmara de Comercialização de Energia Elétrica - CCEE'); o valor do empréstimo não foi localizado em fonte oficial.",
       "eventos": [
+        {
+          "data": "2022-01-13",
+          "fato": "Decreto 10.939/2022 autoriza a criação e gestão da Conta Escassez Hídrica pela CCEE, com repasse dos custos à CDE conforme regulação da ANEEL.",
+          "citacao_literal": "Fica autorizada a criação e a gestão da Conta Escassez Hídrica pela Câmara de Comercialização de Energia Elétrica - CCEE",
+          "literal": true,
+          "quem_disse": "Decreto 10.939/2022",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/decreto/d10939.htm",
+          "tipo": "documento"
+        },
         {
           "data": "2022-05-27",
           "fato": "Tolmasquim: usinas em cotas vendiam a ~R$ 75/MWh; descotizadas, podem vender a ~R$ 150/MWh.",
@@ -430,6 +508,15 @@
           "quem_disse": "Maurício Tolmasquim (UFRJ)",
           "url": "https://www.metropoles.com/brasil/economia-br/entenda-como-a-privatizacao-da-eletrobras-vai-afetar-o-seu-bolso",
           "tipo": "declaracao"
+        },
+        {
+          "data": "2024",
+          "fato": "Aporte da Eletrobras à CDE pela Lei 14.182 registrado na base da ANEEL: R$ 1,30 bi em 2024.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://dadosabertos.aneel.gov.br/dataset/conta-desenvolvimento-energetico-cde-custeio-dos-beneficios-tarifarios",
+          "tipo": "documento"
         },
         {
           "data": "2024-09",
@@ -493,6 +580,55 @@
             "url": "https://www.metropoles.com/brasil/economia-br/entenda-como-a-privatizacao-da-eletrobras-vai-afetar-o-seu-bolso",
             "acesso_em": "2026-10-21",
             "tier": "imprensa"
+          }
+        },
+        {
+          "rotulo": "CDE 2022 (base ANEEL)",
+          "valor": 32.1,
+          "unidade": "R$ bilhões",
+          "periodo": "2022",
+          "fonte": {
+            "nome": "ANEEL — Dados Abertos",
+            "url": "https://dadosabertos.aneel.gov.br/dataset/conta-desenvolvimento-energetico-cde-custeio-dos-beneficios-tarifarios",
+            "acesso_em": "2026-10-21",
+            "tier": "oficial"
+          }
+        },
+        {
+          "rotulo": "CDE 2024 (base ANEEL)",
+          "valor": 37.17,
+          "unidade": "R$ bilhões",
+          "periodo": "2024",
+          "fonte": {
+            "nome": "ANEEL — Dados Abertos",
+            "url": "https://dadosabertos.aneel.gov.br/dataset/conta-desenvolvimento-energetico-cde-custeio-dos-beneficios-tarifarios",
+            "acesso_em": "2026-10-21",
+            "tier": "oficial"
+          }
+        },
+        {
+          "rotulo": "CDE 2026 (base ANEEL, orçamento vigente em out/2026)",
+          "valor": 52.66,
+          "unidade": "R$ bilhões",
+          "periodo": "2026",
+          "fonte": {
+            "nome": "ANEEL — Dados Abertos",
+            "url": "https://dadosabertos.aneel.gov.br/dataset/conta-desenvolvimento-energetico-cde-custeio-dos-beneficios-tarifarios",
+            "acesso_em": "2026-10-21",
+            "tier": "oficial"
+          },
+          "detalhe": "quotas CDE-Uso R$ 47,79 bi"
+        },
+        {
+          "rotulo": "Aporte da Eletrobras à CDE (Lei 14.182) em 2024",
+          "valor": 1.3,
+          "unidade": "R$ bilhões",
+          "periodo": "2024",
+          "fonte": {
+            "nome": "ANEEL — Dados Abertos",
+            "url": "https://dadosabertos.aneel.gov.br/dataset/conta-desenvolvimento-energetico-cde-custeio-dos-beneficios-tarifarios",
+            "acesso_em": "2026-10-21",
+            "tier": "oficial"
           }
         }
       ]
@@ -653,7 +789,7 @@
     },
     {
       "pergunta": "O governo Lula ainda manda na Eletrobras?",
-      "resposta": "Não controla. A União é a maior acionista (cerca de 40% a 42% das ações ordinárias), mas a lei de 2021 limita qualquer acionista a 10% dos votos. Pelo acordo homologado pelo STF em 11/12/2025, a União indica 3 de 10 conselheiros de administração e 1 de 5 do conselho fiscal; reverter isso exigiria nova lei ou decisão judicial."
+      "resposta": "Não controla. O 'Grupo Governo' (União, BNDES, fundos de bancos públicos, Petros e Previ) tinha 40,67% das ações ordinárias e 40,43% do capital em setembro de 2026 (RI da Axia; a União sozinha é menor), mas a lei de 2021 limita qualquer acionista a 10% dos votos. Pelo acordo homologado pelo STF em 11/12/2025, a União indica 3 de 10 conselheiros de administração e 1 de 5 do conselho fiscal; reverter isso exigiria nova lei ou decisão judicial."
     },
     {
       "pergunta": "Lula reestatizou ou vai reestatizar a Eletrobras?",
@@ -669,11 +805,12 @@
     }
   ],
   "lacunas": [
-    "Número do Acórdão do TCU (maio/2022) e contagem de votos na Câmara em 21/06/2021 não localizados.",
+    "Número do Acórdão do TCU (18/05/2022) e do processo (TC) não localizados: o portal de jurisprudência do TCU bloqueou o acesso automatizado; conferir em pesquisa.apps.tcu.gov.br.",
     "Não encontrado estudo (PSR/Instituto Escolhas) com o valor 'R$ 200-300 bi em 20 anos' citado em briefing; as estimativas localizadas variam de R$ 41 bi a mais de R$ 100 bi.",
-    "Composição acionária atual detalhada (União/BNDESPar/fundos) não confirmada em fonte primária; a Wikipédia lista 'Governo Federal 46,60%' com base incerta.",
+    "A RI da Axia não discrimina a participação da União isoladamente (só o 'Grupo Governo', 40,67% das ON).",
     "Não localizado balanço ex post oficial (TCU/ANEEL) do efeito líquido da privatização na tarifa.",
-    "Tramitação (datas de votação, sanção) e rebatismo para Axia vêm de fonte secundária (Wikipédia).",
+    "Valor do empréstimo da Conta Escassez Hídrica e seu custo ao consumidor não localizados em fonte oficial (só o decreto de criação).",
+    "Datas de sanção (13/07/2021) e rebatismo para Axia (22/10/2025) vêm de fonte secundária (Wikipédia); as votações da Câmara e do Senado estão confirmadas em fonte primária.",
     "Checagens já publicadas (Aos Fatos, Lupa, Estadão Verifica, Comprova) sobre o tema não foram consultadas na nota; as frases em 'o_que_cada_lado_diz_hoje' são sínteses de narrativas, não citações."
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/06_energia_eletrobras_combustiveis.md",
@@ -686,16 +823,28 @@
       "tier": "oficial"
     },
     {
-      "nome": "Wikipédia (pt) — fonte secundária",
-      "url": "https://pt.wikipedia.org/wiki/Eletrobras",
+      "nome": "Câmara dos Deputados — Dados Abertos",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270789-73",
       "acesso_em": "2026-10-21",
-      "tier": "imprensa"
+      "tier": "oficial"
+    },
+    {
+      "nome": "Agência Senado / Senado Federal",
+      "url": "https://www12.senado.leg.br/noticias/materias/2021/06/17/senado-aprova-mp-que-desestatiza-eletrobras-texto-volta-para-camara",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
     },
     {
       "nome": "Idec",
       "url": "https://idec.org.br/idec-na-imprensa/novo-relatorio-de-mp-da-eletrobras-piora-o-que-ja-estava-ruim-diz-industria",
       "acesso_em": "2026-10-21",
       "tier": "imprensa"
+    },
+    {
+      "nome": "Câmara dos Deputados — Dados Abertos",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270789-157",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
     },
     {
       "nome": "Diário do Comércio",
@@ -722,6 +871,12 @@
       "tier": "imprensa"
     },
     {
+      "nome": "Axia Energia — RI",
+      "url": "https://ri.axia.com.br/a-axia/estrutura-acionaria-composicao-acionaria/",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
       "nome": "Mercado&Consumo",
       "url": "https://mercadoeconsumo.com.br/10/06/2022/economia/eletrobras-e-privatizada-com-oferta-de-r-337-bilhoes-na-bolsa/",
       "acesso_em": "2026-10-21",
@@ -732,6 +887,24 @@
       "url": "https://www.folhape.com.br/economia/novas-acoes-da-eletrobras-estreiam-na-bolsa-veja-como-dinheiro/230168/",
       "acesso_em": "2026-10-21",
       "tier": "imprensa"
+    },
+    {
+      "nome": "Wikipédia (pt) — fonte secundária",
+      "url": "https://pt.wikipedia.org/wiki/Eletrobras",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Planalto (legislação)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/decreto/d10939.htm",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "ANEEL — Dados Abertos",
+      "url": "https://dadosabertos.aneel.gov.br/dataset/conta-desenvolvimento-energetico-cde-custeio-dos-beneficios-tarifarios",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
     },
     {
       "nome": "Poder360 (documento hospedado)",
