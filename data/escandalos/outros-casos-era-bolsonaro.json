@@ -1,0 +1,283 @@
+{
+  "id": "outros-casos-era-bolsonaro",
+  "nome": "Outros casos do governo Bolsonaro: Milton Ribeiro/FNDE, Ricardo Salles, Pedro Guimarães, Pazuello (Manaus)",
+  "periodo": {
+    "inicio": "2021",
+    "fim": null
+  },
+  "governos_em_que_ocorreram_os_fatos": [
+    "bolsonaro"
+  ],
+  "governos_em_que_foi_investigado": [
+    "bolsonaro",
+    "lula-3"
+  ],
+  "resumo_simples": [
+    "Milton Ribeiro (MEC): áudio de 21/03/2022 sobre priorizar municípios indicados pelos pastores Gilmar Santos e Arilton Moura 'a pedido especial do presidente'; renunciou em 28/03/2022; preso preventivamente em 22/06/2022 e solto no dia seguinte pelo TRF-1; o delegado do caso foi indiciado por abuso de autoridade (2024); nenhuma denúncia ou sentença no caso FNDE foi localizada.",
+    "Ricardo Salles (Meio Ambiente): virou réu no Pará em 28/08/2023 por facilitar contrabando de madeira; já tinha condenação de 1ª instância por improbidade (2018). Hoje deputado federal (Novo); desistiu da candidatura ao Senado em 28/09/2026.",
+    "Pedro Guimarães (Caixa): denúncias de assédio publicadas em 28/06/2022; deixou o cargo em 29/06/2022; réu por assédio sexual e moral desde mar/2023 (15ª Vara Federal de Brasília), sem sentença localizada.",
+    "Eduardo Pazuello (Saúde): inquérito sobre o oxigênio em Manaus foi à 1ª instância; inocentado por improbidade pela Justiça do Amazonas em 10/05/2022 (alteração da LIA); Exército arquivou o caso do ato de 23/05/2021. Hoje deputado federal (PL-RJ)."
+  ],
+  "valores": [
+    {
+      "rotulo": "Mulheres que denunciaram Pedro Guimarães (ao menos)",
+      "valor": 14,
+      "unidade": "pessoas",
+      "fonte": {
+        "nome": "Wikipédia pt, Pedro Guimarães (índice)",
+        "url": "https://pt.wikipedia.org/wiki/Pedro_Guimar%C3%A3es",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Pedido do MPT contra Pedro Guimarães",
+      "valor": 30.5,
+      "unidade": "R$ milhões",
+      "fonte": {
+        "nome": "InfoMoney: ex-presidente da Caixa vira réu por assédio a funcionárias",
+        "url": "https://www.infomoney.com.br/politica/ex-presidente-da-caixa-vira-reu-por-assedio-a-funcionarias-do-banco/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Multas do TRE-SP a Ricardo Salles (candidatura ao Senado, 2026)",
+      "valor": 15,
+      "unidade": "R$ mil (R$ 10 mil + R$ 5 mil)",
+      "fonte": {
+        "nome": "Wikipédia pt, Ricardo de Aquino Salles (índice)",
+        "url": "https://pt.wikipedia.org/wiki/Ricardo_de_Aquino_Salles",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    }
+  ],
+  "partidos": [
+    {
+      "partido": "PL / governo Bolsonaro",
+      "citados": null,
+      "denunciados": null,
+      "condenados_1a_instancia": 1,
+      "condenados_definitivo": 0,
+      "condenacoes_anuladas": null,
+      "nomes": [
+        "Ricardo Salles (improbidade, 1ª instância, 2018 — civil; réu criminal no Pará desde 2023)"
+      ],
+      "investigados_nomeados": [
+        "Milton Ribeiro (FNDE; sem denúncia localizada)"
+      ],
+      "reus_nomeados": [
+        "Pedro Guimarães (assédio, desde mar/2023)",
+        "Ricardo Salles (madeira, Pará, desde 28/08/2023)"
+      ],
+      "absolvidos_nomeados": [
+        "Eduardo Pazuello (improbidade, Manaus, 10/05/2022)"
+      ],
+      "fonte": {
+        "nome": "Wikipédia pt, Ricardo de Aquino Salles (índice)",
+        "url": "https://pt.wikipedia.org/wiki/Ricardo_de_Aquino_Salles",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "nota": "A condenação de Salles é por improbidade (ação civil), não criminal; filiação à época: Salles era PL, hoje Novo."
+    }
+  ],
+  "pessoas": [
+    {
+      "nome": "Milton Ribeiro",
+      "partido_na_epoca": "não informado nas notas",
+      "cargo": "ex-ministro da Educação (renunciou em 28/03/2022)",
+      "crime": "corrupção passiva, prevaricação, advocacia administrativa e tráfico de influência (FNDE) — hipóteses da prisão preventiva",
+      "tribunal": "Justiça Federal; TRF-1 (Ney Bello)",
+      "data_condenacao": null,
+      "pena": null,
+      "status_atual": "Preso preventivamente em 22/06/2022 e solto em 23/06/2022 pelo TRF-1. O delegado do caso, Bruno Calandrini, foi indiciado por abuso de autoridade e inserção de dados falsos (29/03/2024). Nenhuma denúncia ou sentença no caso FNDE localizada. Em caso separado, réu por homofobia (TRF-1, mar/2025).",
+      "status_categoria": "investigado",
+      "url": "https://pt.wikipedia.org/wiki/Milton_Ribeiro_(pastor)",
+      "caso": "FNDE/pastores"
+    },
+    {
+      "nome": "Ricardo Salles",
+      "partido_na_epoca": "PL à época; hoje Novo",
+      "cargo": "ex-ministro do Meio Ambiente; deputado federal",
+      "crime": "facilitação de contrabando de madeira para EUA/Europa",
+      "tribunal": "Justiça Federal no Pará",
+      "data_condenacao": null,
+      "pena": null,
+      "status_atual": "Notícia-crime do delegado Alexandre Saraiva (14/04/2021); operação da PF com quebra de sigilos (19/05/2021, Moraes); PGR pediu inquérito em 31/05/2021; réu no Pará desde 28/08/2023, sem sentença localizada. Desfecho do inquérito no STF não localizado. Multado pelo TRE-SP e desistiu da candidatura ao Senado em 28/09/2026.",
+      "status_categoria": "reu",
+      "url": "https://pt.wikipedia.org/wiki/Ricardo_de_Aquino_Salles",
+      "caso": "Madeira ilegal"
+    },
+    {
+      "nome": "Ricardo Salles",
+      "partido_na_epoca": "PL à época (hoje Novo)",
+      "cargo": "ex-secretário estadual de Meio Ambiente de SP",
+      "crime": "improbidade administrativa (Várzea do Tietê)",
+      "tribunal": "Justiça de São Paulo (1ª instância)",
+      "data_condenacao": "2018-12-19",
+      "pena": "3 anos de suspensão dos direitos políticos",
+      "status_atual": "Condenado em 1ª instância em 19/12/2018 (ação civil, não criminal); recurso sem desfecho na fonte.",
+      "status_categoria": "condenado-1a",
+      "url": "https://pt.wikipedia.org/wiki/Ricardo_de_Aquino_Salles",
+      "caso": "Improbidade (civil)",
+      "nao_verificado": true
+    },
+    {
+      "nome": "Pedro Guimarães",
+      "partido_na_epoca": "não informado nas notas",
+      "cargo": "ex-presidente da Caixa Econômica Federal (saiu em 29/06/2022)",
+      "crime": "assédio sexual e assédio moral",
+      "tribunal": "15ª Vara Federal de Brasília",
+      "data_condenacao": null,
+      "pena": null,
+      "status_atual": "Denunciado pelo MPF; réu desde mar/2023 (processo em sigilo); MPT pede R$ 30,5 mi; ao menos 14 mulheres denunciaram. Sem sentença localizada.",
+      "status_categoria": "reu",
+      "url": "https://www.infomoney.com.br/politica/ex-presidente-da-caixa-vira-reu-por-assedio-a-funcionarias-do-banco/"
+    },
+    {
+      "nome": "Eduardo Pazuello",
+      "partido_na_epoca": "hoje PL-RJ (sem filiação informada à época)",
+      "cargo": "ex-ministro da Saúde; deputado federal",
+      "crime": "improbidade administrativa (crise do oxigênio em Manaus)",
+      "tribunal": "Justiça do Amazonas",
+      "data_condenacao": null,
+      "pena": null,
+      "status_atual": "Inquérito autorizado por Lewandowski (PGR, jan/2021) foi à 1ª instância com a saída do ministério (mar/2021); em 10/05/2022 a Justiça do Amazonas inocentou Pazuello, Mayra Pinheiro e Hélio Angotti por alteração da LIA. Exército arquivou o caso do ato de 23/05/2021 (03/06/2021).",
+      "status_categoria": "absolvido",
+      "url": "https://pt.wikipedia.org/wiki/Eduardo_Pazuello",
+      "caso": "Oxigênio em Manaus (improbidade)"
+    }
+  ],
+  "linha_do_tempo": [
+    {
+      "data": "2021-01",
+      "evento": "Lewandowski autoriza inquérito (PGR) contra Pazuello sobre o oxigênio em Manaus; caso vai à 1ª instância em mar/2021.",
+      "url": "https://www.poder360.com.br/governo/pazuello-perde-foro-privilegiado-e-sera-investigado-na-1a-instancia/"
+    },
+    {
+      "data": "2021-04-14",
+      "evento": "Delegado Alexandre Saraiva apresenta notícia-crime contra Ricardo Salles; Cármen Lúcia relatora (16/04); operação da PF em 19/05/2021; PGR pede inquérito em 31/05/2021.",
+      "url": "https://pt.wikipedia.org/wiki/Ricardo_de_Aquino_Salles"
+    },
+    {
+      "data": "2022-03-21",
+      "evento": "Áudio de Milton Ribeiro sobre pastores e 'pedido especial do presidente'; renúncia em 28/03/2022.",
+      "url": "https://congressoemfoco.com.br/area/governo/entenda-o-esquema-de-corrupcao-no-mec-envolvendo-milton-ribeiro"
+    },
+    {
+      "data": "2022-05-10",
+      "evento": "Justiça do Amazonas inocenta Pazuello, Mayra Pinheiro e Hélio Angotti por improbidade.",
+      "url": "https://pt.wikipedia.org/wiki/Eduardo_Pazuello"
+    },
+    {
+      "data": "2022-06-22",
+      "evento": "Milton Ribeiro é preso preventivamente; solto em 23/06 pelo TRF-1 (Ney Bello).",
+      "url": "https://www.agazeta.com.br/brasil/quem-e-milton-ribeiro-ex-ministro-da-educacao-preso-nesta-quarta-pela-pf-0622"
+    },
+    {
+      "data": "2022-06-28",
+      "evento": "Denúncias de assédio contra Pedro Guimarães são publicadas; ele deixa a Caixa em 29/06/2022.",
+      "url": "https://pt.wikipedia.org/wiki/Pedro_Guimar%C3%A3es"
+    },
+    {
+      "data": "2023-03",
+      "evento": "15ª Vara Federal de Brasília torna Pedro Guimarães réu por assédio sexual e moral.",
+      "url": "https://www.itatiaia.com.br/politica/justica-aceita-denuncia-contra-ex-presidente-da-caixa-que-vira-reu-por-assedio-sexual-e-moral/"
+    },
+    {
+      "data": "2023-08-28",
+      "evento": "Ricardo Salles vira réu no Pará por facilitar contrabando de madeira.",
+      "url": "https://pt.wikipedia.org/wiki/Ricardo_de_Aquino_Salles"
+    },
+    {
+      "data": "2024-03-29",
+      "evento": "Delegado Bruno Calandrini (caso Milton Ribeiro) indiciado por abuso de autoridade e inserção de dados falsos.",
+      "url": "https://pt.wikipedia.org/wiki/Milton_Ribeiro_(pastor)"
+    },
+    {
+      "data": "2026-09-28",
+      "evento": "Salles desiste da candidatura ao Senado por SP após multas do TRE-SP.",
+      "url": "https://pt.wikipedia.org/wiki/Ricardo_de_Aquino_Salles"
+    }
+  ],
+  "o_que_dizem_os_dois_lados": {
+    "acusacao": "PF e MPF apontaram tráfico de influência de pastores no FNDE sob Milton Ribeiro, facilitação de contrabando de madeira por Salles e assédio sexual e moral de Pedro Guimarães contra ao menos 14 funcionárias; críticos afirmam que a PGR de Aras não levou adiante a maioria dos casos da era Bolsonaro.",
+    "defesa": "Milton Ribeiro foi solto em 24 horas e o próprio delegado do caso acabou indiciado por abuso de autoridade, sem denúncia contra o ex-ministro; Pazuello foi inocentado por improbidade; Salles e Guimarães negam os crimes e não têm sentença."
+  },
+  "status_atual_md": "Milton Ribeiro: **investigado**, sem denúncia/sentença localizada no caso FNDE. Salles: **réu** no Pará (criminal, 2023) e condenado em 1ª instância por improbidade (civil, 2018). Pedro Guimarães: **réu** desde mar/2023, sem sentença. Pazuello: **absolvido** por improbidade (Manaus, 2022). Os casos que avançaram (Salles, Guimarães) estão há anos sem sentença conhecida.",
+  "lacunas": [
+    "Desfecho do inquérito de Salles no STF (arquivamento pela PGR?) não localizado.",
+    "Denúncia do MPF contra Milton Ribeiro no caso FNDE não localizada.",
+    "Sentença do caso Pedro Guimarães não localizada.",
+    "Filiação partidária de Milton Ribeiro, Pedro Guimarães e Pazuello (à época) não informada nas notas."
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/05_escandalos_recentes_inss_master_bolsonaro.md",
+  "fontes": [
+    {
+      "nome": "Wikipédia pt, Pedro Guimarães (índice)",
+      "url": "https://pt.wikipedia.org/wiki/Pedro_Guimar%C3%A3es",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "InfoMoney: ex-presidente da Caixa vira réu por assédio a funcionárias",
+      "url": "https://www.infomoney.com.br/politica/ex-presidente-da-caixa-vira-reu-por-assedio-a-funcionarias-do-banco/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Wikipédia pt, Ricardo de Aquino Salles (índice)",
+      "url": "https://pt.wikipedia.org/wiki/Ricardo_de_Aquino_Salles",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Wikipédia pt, Milton Ribeiro (pastor) (índice)",
+      "url": "https://pt.wikipedia.org/wiki/Milton_Ribeiro_(pastor)",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Wikipédia pt, Eduardo Pazuello (índice)",
+      "url": "https://pt.wikipedia.org/wiki/Eduardo_Pazuello",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Poder360: Pazuello perde foro privilegiado e será investigado na 1ª instância",
+      "url": "https://www.poder360.com.br/governo/pazuello-perde-foro-privilegiado-e-sera-investigado-na-1a-instancia/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Congresso em Foco: entenda o esquema de corrupção no MEC envolvendo Milton Ribeiro",
+      "url": "https://congressoemfoco.com.br/area/governo/entenda-o-esquema-de-corrupcao-no-mec-envolvendo-milton-ribeiro",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "A Gazeta, jun/2022: quem é Milton Ribeiro, ex-ministro preso pela PF",
+      "url": "https://www.agazeta.com.br/brasil/quem-e-milton-ribeiro-ex-ministro-da-educacao-preso-nesta-quarta-pela-pf-0622",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Itatiaia: Justiça aceita denúncia contra ex-presidente da Caixa, réu por assédio sexual e moral",
+      "url": "https://www.itatiaia.com.br/politica/justica-aceita-denuncia-contra-ex-presidente-da-caixa-que-vira-reu-por-assedio-sexual-e-moral/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "atualizado_em": "2026-10-21",
+  "convencoes": [
+    "citado: nome aparece em delação, planilha, relatório de CPI ou reportagem, sem ato formal de investigação.",
+    "investigado: alvo de inquérito, busca, prisão temporária/preventiva ou indiciamento pela PF (indiciamento não é denúncia).",
+    "denunciado: PGR/MPF ofereceu denúncia; réu: a denúncia foi recebida pelo tribunal.",
+    "condenado-1a / condenado-2a: decisão de mérito ainda sujeita a recurso. Para condenações pelo STF em instância única sem trânsito em julgado confirmado nas notas, usa-se condenado-1a com explicação em status_atual.",
+    "condenado-definitivo: trânsito em julgado confirmado nas notas; cumprindo-pena / pena-cumprida quando as notas informam a execução.",
+    "anulada: condenação ou provas anuladas por nulidade (competência, parcialidade, prova ilícita), sem exame de mérito; absolvido: decisão de mérito favorável; arquivado: inquérito/denúncia encerrada sem mérito; prescrito: punibilidade extinta pelo tempo.",
+    "Pedido de indiciamento por CPI/CPMI não é indiciamento policial nem denúncia: é recomendação ao Ministério Público."
+  ]
+}

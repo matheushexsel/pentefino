@@ -1,0 +1,952 @@
+{
+  "id": "fraude-do-inss",
+  "nome": "Fraude dos descontos indevidos no INSS (Operação Sem Desconto)",
+  "periodo": {
+    "inicio": "2019",
+    "fim": null,
+    "nota": "Fatos de 2019 a 2024 segundo a PF (a CPMI aprovou investigar desde 2015); operação deflagrada em 23/04/2025; investigação em curso."
+  },
+  "governos_em_que_ocorreram_os_fatos": [
+    "bolsonaro",
+    "lula-3"
+  ],
+  "governos_em_que_foi_investigado": [
+    "lula-3"
+  ],
+  "resumo_simples": [
+    "Entidades associativas descontavam mensalidades não autorizadas de aposentadorias e pensões. A PF e a CGU estimam R$ 6,3 bilhões movimentados entre 2019 e 2024 e mais de 4 milhões de beneficiários afetados (INSS: 4,1 milhões).",
+    "Segundo a PF, o esquema começa em 2019 (governo Bolsonaro) e cerca de 64% do valor refere-se a 2023–2024 (governo Lula): os descontos saltaram de R$ 36 mi (2020) para R$ 2,4 bi (2024).",
+    "O caso derrubou o ministro da Previdência Carlos Lupi (PDT), levou à prisão o ex-presidente do INSS Alessandro Stefanutto e gerou uma CPMI (ago/2025–mar/2026) que terminou sem relatório aprovado: o texto do relator (216 pedidos de indiciamento, incluindo Lupi e Lulinha) foi rejeitado por 19 a 12 e o alternativo governista (201 pedidos, incluindo Jair e Flávio Bolsonaro) não foi votado.",
+    "Em 14/07/2026 a PF indiciou 48 pessoas (Stefanutto, o 'Careca do INSS' e outros). Até out/2026 não há denúncia da PGR nem condenação criminal localizada. O governo ressarciu mais de 5 milhões de beneficiários, total acima de R$ 3,5 bi."
+  ],
+  "valores": [
+    {
+      "rotulo": "Valor movimentado pelo esquema (PF/CGU, 2019–2024)",
+      "valor": 6.3,
+      "unidade": "R$ bilhões",
+      "fonte": {
+        "nome": "O Tempo, 23/04/2026: operação contra fraudes no INSS completa um ano",
+        "url": "https://www.otempo.com.br/politica/judiciario/2026/4/23/operacao-contra-fraudes-no-inss-completa-um-ano-com-desdobramentos-mas-sem-ouvir-todos-investigados",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Beneficiários afetados (estimativa INSS)",
+      "valor": 4.1,
+      "unidade": "milhões de pessoas",
+      "fonte": {
+        "nome": "Wikipédia pt, Operação Sem Desconto (índice)",
+        "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Sem_Desconto",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Parcela do valor referente a 2023–2024",
+      "valor": 64,
+      "unidade": "%",
+      "fonte": {
+        "nome": "Wikipédia pt, Operação Sem Desconto (índice)",
+        "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Sem_Desconto",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Descontos associativos em 2017",
+      "valor": 41,
+      "unidade": "R$ milhões",
+      "fonte": {
+        "nome": "Wikipédia pt, Operação Sem Desconto (índice)",
+        "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Sem_Desconto",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "nota": "Aproximado."
+    },
+    {
+      "rotulo": "Descontos associativos em 2018",
+      "valor": 200,
+      "unidade": "R$ milhões",
+      "fonte": {
+        "nome": "Wikipédia pt, Operação Sem Desconto (índice)",
+        "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Sem_Desconto",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "nota": "Aproximado."
+    },
+    {
+      "rotulo": "Descontos associativos em 2020",
+      "valor": 36,
+      "unidade": "R$ milhões",
+      "fonte": {
+        "nome": "Wikipédia pt, Operação Sem Desconto (índice)",
+        "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Sem_Desconto",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Descontos associativos em 2024",
+      "valor": 2.4,
+      "unidade": "R$ bilhões",
+      "fonte": {
+        "nome": "Wikipédia pt, Operação Sem Desconto (índice)",
+        "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Sem_Desconto",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Descontos associativos no 1º trimestre de 2025",
+      "valor": 655,
+      "unidade": "R$ milhões",
+      "fonte": {
+        "nome": "Wikipédia pt, Operação Sem Desconto (índice)",
+        "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Sem_Desconto",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Mandados de busca na deflagração (23/04/2025)",
+      "valor": 211,
+      "unidade": "mandados",
+      "fonte": {
+        "nome": "O Tempo, 23/04/2026: operação contra fraudes no INSS completa um ano",
+        "url": "https://www.otempo.com.br/politica/judiciario/2026/4/23/operacao-contra-fraudes-no-inss-completa-um-ano-com-desdobramentos-mas-sem-ouvir-todos-investigados",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Mandados de prisão temporária na deflagração",
+      "valor": 6,
+      "unidade": "mandados",
+      "fonte": {
+        "nome": "O Tempo, 23/04/2026: operação contra fraudes no INSS completa um ano",
+        "url": "https://www.otempo.com.br/politica/judiciario/2026/4/23/operacao-contra-fraudes-no-inss-completa-um-ano-com-desdobramentos-mas-sem-ouvir-todos-investigados",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Entidades formalmente indiciadas pela PF",
+      "valor": 11,
+      "unidade": "entidades",
+      "fonte": {
+        "nome": "Wikipédia pt, Operação Sem Desconto (índice)",
+        "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Sem_Desconto",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "nota": "Suspeita de mais de 20 similares; Metrópoles citou 43."
+    },
+    {
+      "rotulo": "Valor recuperado pela PF",
+      "valor": 1,
+      "unidade": "R$ bilhões",
+      "fonte": {
+        "nome": "Wikipédia pt, Operação Sem Desconto (índice)",
+        "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Sem_Desconto",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "nota": "Aproximado."
+    },
+    {
+      "rotulo": "Bloqueio de bens de 12 associações (mai/2025)",
+      "valor": 2.56,
+      "unidade": "R$ bilhões",
+      "fonte": {
+        "nome": "Wikipédia pt, Operação Sem Desconto (índice)",
+        "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Sem_Desconto",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Bens bloqueados até 12/06/2025",
+      "valor": 2.8,
+      "unidade": "R$ bilhões",
+      "fonte": {
+        "nome": "Wikipédia pt, Operação Sem Desconto (índice)",
+        "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Sem_Desconto",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Bloqueio do Sindnapi (14/10/2025)",
+      "valor": 390,
+      "unidade": "R$ milhões",
+      "fonte": {
+        "nome": "Wikipédia pt, Operação Sem Desconto (índice)",
+        "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Sem_Desconto",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Bloqueio do Sindnapi em ação do INSS (05/03/2026)",
+      "valor": 500,
+      "unidade": "R$ milhões",
+      "fonte": {
+        "nome": "Wikipédia pt, Operação Sem Desconto (índice)",
+        "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Sem_Desconto",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Suspeita sobre a Contag",
+      "valor": 2,
+      "unidade": "R$ bilhões",
+      "fonte": {
+        "nome": "Wikipédia pt, Operação Sem Desconto (índice)",
+        "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Sem_Desconto",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "nota": "Outra citação fala em R$ 2,9 bi (2016–2023) — divergência entre fontes."
+    },
+    {
+      "rotulo": "Ressarcido pelo governo até 12/06/2025",
+      "valor": 292,
+      "unidade": "R$ milhões",
+      "fonte": {
+        "nome": "Wikipédia pt, Operação Sem Desconto (índice)",
+        "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Sem_Desconto",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Ressarcido até fev/2026 (4,2 milhões de beneficiários)",
+      "valor": 2.9,
+      "unidade": "R$ bilhões",
+      "fonte": {
+        "nome": "Rádio Senado, 05/02/2026: presidente do INSS destaca ressarcimento de 4 milhões de aposentados",
+        "url": "https://www12.senado.leg.br/radio/1/noticia/2026/02/05/presidente-do-inss-destaca-ressarcimento-de-4-milhoes-de-aposentados-por-descontos-indevidos",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    {
+      "rotulo": "Ressarcido até jul/2026 (>4,7 milhões)",
+      "valor": 3.2,
+      "unidade": "R$ bilhões",
+      "fonte": {
+        "nome": "BandAB, jul/2026: INSS paga beneficiários de desconto indevido",
+        "url": "https://www.bandab.com.br/economia/inss-paga-beneficiarios-desconto-indevido/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Crédito extraordinário para ressarcimento (MP 1.378/2026)",
+      "valor": 547,
+      "unidade": "R$ milhões",
+      "fonte": {
+        "nome": "O Hoje, 22/07/2026: aposentados terão R$ 547 milhões para ressarcimento",
+        "url": "https://ohoje.com/2026/07/22/aposentados-terao-r-547-milhoes-para-ressarcimento-de-descontos-indevidos-do-inss/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Ressarcido até out/2026 (>5 milhões de pessoas)",
+      "valor": 3.5,
+      "unidade": "R$ bilhões",
+      "fonte": {
+        "nome": "meutudo, 16/10/2026: mais de 5 milhões receberam ressarcimento do INSS",
+        "url": "https://meutudo.com.br/blog/noticias/2026/10/16/mais-de-5-milhoes-receberam-ressarcimento-do-inss-ministro-diz-que-nao-ha-mais-pendencias",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "nota": "Mixvale (15/10/2026) fala em ~5,1 milhões de pessoas."
+    },
+    {
+      "rotulo": "Pessoas indiciadas pela PF (14/07/2026)",
+      "valor": 48,
+      "unidade": "pessoas",
+      "fonte": {
+        "nome": "Correio Braziliense, 14/07/2026: PF indicia 'Careca do INSS' e mais 47 pessoas",
+        "url": "https://www.correiobraziliense.com.br/politica/2026/07/7461264-pf-indicia-careca-do-inss-e-mais-47-pessoas-por-fraudes.html",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Pedidos de indiciamento no relatório do relator da CPMI (rejeitado 19x12)",
+      "valor": 216,
+      "unidade": "pessoas",
+      "fonte": {
+        "nome": "Agência Brasil, mar/2026: relatório da CPMI do INSS pede indiciamento de 216 pessoas",
+        "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-03/relatorio-da-cpmi-do-inss-pede-indiciamento-de-216-pessoas",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Pedidos de indiciamento no relatório alternativo governista (não votado)",
+      "valor": 201,
+      "unidade": "pessoas",
+      "fonte": {
+        "nome": "Agência Brasil, mar/2026: CPMI do INSS termina sem relatório final",
+        "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-03/cpmi-do-inss-termina-sem-relatorio-final",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Quebras de sigilo aprovadas pela CPMI (11/09/2025) — pessoas",
+      "valor": 67,
+      "unidade": "pessoas",
+      "fonte": {
+        "nome": "Wikipédia pt, Operação Sem Desconto (índice)",
+        "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Sem_Desconto",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "nota": "Mais 91 empresas."
+    },
+    {
+      "rotulo": "Pedidos de prisão preventiva aprovados pela CPMI até nov/2025",
+      "valor": 27,
+      "unidade": "pedidos",
+      "fonte": {
+        "nome": "Wikipédia pt, Operação Sem Desconto (índice)",
+        "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Sem_Desconto",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "CPFs expostos em vazamento da Dataprev (26/05/2026)",
+      "valor": 2.8,
+      "unidade": "milhões",
+      "fonte": {
+        "nome": "Wikipédia pt, Operação Sem Desconto (índice)",
+        "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Sem_Desconto",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "nota": "98% de falecidos."
+    }
+  ],
+  "partidos": [
+    {
+      "partido": "PDT",
+      "citados": null,
+      "denunciados": 0,
+      "condenados_1a_instancia": 0,
+      "condenados_definitivo": 0,
+      "condenacoes_anuladas": null,
+      "investigados_nomeados": [
+        "Weverton Rocha (senador, PDT-MA; busca em 18/12/2025)"
+      ],
+      "citados_nomeados": [
+        "Carlos Lupi (ex-ministro; delatado; não denunciado)",
+        "Wolney Queiroz (ministro; reunião com o 'Careca' em jan/2023 revelada pelo Metrópoles)"
+      ],
+      "fonte": {
+        "nome": "O Tempo, 23/04/2026: operação contra fraudes no INSS completa um ano",
+        "url": "https://www.otempo.com.br/politica/judiciario/2026/4/23/operacao-contra-fraudes-no-inss-completa-um-ano-com-desdobramentos-mas-sem-ouvir-todos-investigados",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "nota": "Zeros indicam 'nenhum localizado nas fontes até out/2026', não um levantamento oficial."
+    },
+    {
+      "partido": "MDB",
+      "citados": null,
+      "denunciados": 0,
+      "condenados_1a_instancia": 0,
+      "condenados_definitivo": 0,
+      "condenacoes_anuladas": null,
+      "investigados_nomeados": [
+        "Maria Gorete Pereira (deputada, MDB-CE; tornozeleira desde 17/03/2026)"
+      ],
+      "fonte": {
+        "nome": "Wikipédia pt, Operação Sem Desconto (índice)",
+        "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Sem_Desconto",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "nota": "Zeros indicam 'nenhum localizado nas fontes até out/2026'."
+    },
+    {
+      "partido": "Republicanos",
+      "citados": null,
+      "denunciados": 0,
+      "condenados_1a_instancia": 0,
+      "condenados_definitivo": 0,
+      "condenacoes_anuladas": null,
+      "citados_nomeados": [
+        "Euclydes Pettersen (deputado, MG; pedido de indiciamento no relatório rejeitado da CPMI)"
+      ],
+      "fonte": {
+        "nome": "Agência Brasil, mar/2026: relatório da CPMI do INSS pede indiciamento de 216 pessoas",
+        "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-03/relatorio-da-cpmi-do-inss-pede-indiciamento-de-216-pessoas",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "nota": "Zeros indicam 'nenhum localizado nas fontes até out/2026'."
+    },
+    {
+      "partido": "PSB",
+      "citados": null,
+      "denunciados": 0,
+      "condenados_1a_instancia": 0,
+      "condenados_definitivo": 0,
+      "condenacoes_anuladas": null,
+      "citados_nomeados": [
+        "Edson Araújo (deputado estadual, MA; pedido de indiciamento no relatório rejeitado da CPMI)"
+      ],
+      "fonte": {
+        "nome": "Agência Brasil, mar/2026: relatório da CPMI do INSS pede indiciamento de 216 pessoas",
+        "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-03/relatorio-da-cpmi-do-inss-pede-indiciamento-de-216-pessoas",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "nota": "Zeros indicam 'nenhum localizado nas fontes até out/2026'."
+    },
+    {
+      "partido": "PT",
+      "citados": null,
+      "denunciados": 0,
+      "condenados_1a_instancia": 0,
+      "condenados_definitivo": 0,
+      "condenacoes_anuladas": null,
+      "citados_nomeados": [
+        "Fábio Luís Lula da Silva, 'Lulinha' (citado em delação e no relatório rejeitado da CPMI; não investigado pela PF)",
+        "Frei Chico (vice-presidente do Sindnapi; não investigado)"
+      ],
+      "fonte": {
+        "nome": "CNN Brasil, mar/2026: relatório da CPMI do INSS pede indiciamento de Lulinha e outras 218 pessoas",
+        "url": "https://www.cnnbrasil.com.br/politica/relatorio-da-cpmi-do-inss-pede-indicamento-de-lulinha-e-outras-218-pessoas/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "nota": "Zeros indicam 'nenhum localizado nas fontes até out/2026'."
+    },
+    {
+      "partido": "PL / governo Bolsonaro",
+      "citados": null,
+      "denunciados": 0,
+      "condenados_1a_instancia": 0,
+      "condenados_definitivo": 0,
+      "condenacoes_anuladas": null,
+      "citados_nomeados": [
+        "José Carlos Oliveira (ex-ministro da Previdência; pedido de indiciamento no relatório rejeitado da CPMI)",
+        "Jair Bolsonaro e Flávio Bolsonaro (pedidos de indiciamento no relatório alternativo governista, não votado)"
+      ],
+      "fonte": {
+        "nome": "Agência Brasil, mar/2026: CPMI do INSS termina sem relatório final",
+        "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-03/cpmi-do-inss-termina-sem-relatorio-final",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "nota": "Zeros indicam 'nenhum localizado nas fontes até out/2026'. Pedido de indiciamento por CPMI não é indiciamento policial nem denúncia."
+    },
+    {
+      "partido": "Centrão (partidos não especificados)",
+      "citados": 20,
+      "denunciados": null,
+      "condenados_1a_instancia": null,
+      "condenados_definitivo": null,
+      "condenacoes_anuladas": null,
+      "fonte": {
+        "nome": "Wikipédia pt, Operação Sem Desconto (índice)",
+        "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Sem_Desconto",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "nota": "G1 apurou que acusações podem atingir cerca de 20 parlamentares de partidos do Centrão (número aproximado, sem nomes)."
+    }
+  ],
+  "pessoas": [
+    {
+      "nome": "Carlos Lupi",
+      "partido_na_epoca": "PDT",
+      "cargo": "ministro da Previdência (até 02/05/2025)",
+      "crime": "pedidos da CPMI (relatório rejeitado): prevaricação, condescendência criminosa, crime de responsabilidade, furto/fraude eletrônica por omissão imprópria",
+      "tribunal": "STF (inquérito sigiloso sob André Mendonça) — existência de inquérito formal contra Lupi não verificada",
+      "data_condenacao": null,
+      "pena": null,
+      "status_atual": "Pediu demissão em 02/05/2025; admitiu ter sido alertado sobre irregularidades e negou responsabilidade direta; delatado por servidores do INSS (Metrópoles, 27/02/2026). Não foi denunciado formalmente (até abr/2026). Pedido de indiciamento da CPMI rejeitado em 28/03/2026.",
+      "status_categoria": "nao-investigado",
+      "url": "https://www.otempo.com.br/politica/judiciario/2026/4/23/operacao-contra-fraudes-no-inss-completa-um-ano-com-desdobramentos-mas-sem-ouvir-todos-investigados",
+      "nao_verificado": true
+    },
+    {
+      "nome": "Alessandro Stefanutto",
+      "partido_na_epoca": "não informado nas notas",
+      "cargo": "ex-presidente do INSS (governo Lula 3)",
+      "crime": "indiciado pela PF (crimes não detalhados nas notas para ele)",
+      "tribunal": "STF (inquérito sob André Mendonça)",
+      "data_condenacao": null,
+      "pena": null,
+      "status_atual": "Demitido; preso em 13/11/2025; indiciado pela PF em 14/07/2026. Até out/2026 nenhuma denúncia da PGR nem condenação criminal foi localizada nas fontes.",
+      "status_categoria": "investigado",
+      "url": "https://www.correiobraziliense.com.br/politica/2026/07/7461264-pf-indicia-careca-do-inss-e-mais-47-pessoas-por-fraudes.html"
+    },
+    {
+      "nome": "Virgílio Antônio Ribeiro de Oliveira Filho",
+      "partido_na_epoca": "não informado nas notas",
+      "cargo": "ex-procurador-geral do INSS",
+      "crime": "indiciado pela PF (crimes não detalhados nas notas)",
+      "tribunal": "STF (inquérito sob André Mendonça)",
+      "data_condenacao": null,
+      "pena": null,
+      "status_atual": "Preso em 13/11/2025; fez delação (fim de fev/2026); indiciado em 14/07/2026. Até out/2026 nenhuma denúncia da PGR nem condenação criminal foi localizada nas fontes.",
+      "status_categoria": "investigado",
+      "url": "https://www.correiobraziliense.com.br/politica/2026/07/7461264-pf-indicia-careca-do-inss-e-mais-47-pessoas-por-fraudes.html"
+    },
+    {
+      "nome": "Antônio Carlos Camilo Antunes ('Careca do INSS')",
+      "partido_na_epoca": "sem partido (empresário/lobista)",
+      "cargo": "operador do esquema, segundo a PF e a CPMI",
+      "crime": "lavagem de dinheiro e participação em corrupção ativa (indiciamento PF, 14/07/2026)",
+      "tribunal": "STF (inquérito sob André Mendonça)",
+      "data_condenacao": null,
+      "pena": null,
+      "status_atual": "Preso pela PF; indiciado em 14/07/2026; Justiça do DF negou pedido para barrar o apelido (abr/2026). Até out/2026 nenhuma denúncia da PGR nem condenação criminal foi localizada nas fontes.",
+      "status_categoria": "investigado",
+      "url": "https://www.correiobraziliense.com.br/politica/2026/07/7461264-pf-indicia-careca-do-inss-e-mais-47-pessoas-por-fraudes.html"
+    },
+    {
+      "nome": "Maurício Camisotti",
+      "partido_na_epoca": "sem partido (empresário)",
+      "cargo": "empresário ligado a entidades associativas",
+      "crime": "não detalhado nas notas",
+      "tribunal": "STF (inquérito sob André Mendonça)",
+      "data_condenacao": null,
+      "pena": null,
+      "status_atual": "Preso desde 12/09/2025; confirmou delação (abr/2026) e admitiu o esquema. Até out/2026 nenhuma denúncia da PGR nem condenação criminal foi localizada nas fontes.",
+      "status_categoria": "investigado",
+      "url": "https://www.otempo.com.br/politica/judiciario/2026/4/23/operacao-contra-fraudes-no-inss-completa-um-ano-com-desdobramentos-mas-sem-ouvir-todos-investigados"
+    },
+    {
+      "nome": "André Fidélis",
+      "partido_na_epoca": "não informado nas notas",
+      "cargo": "ex-diretor do INSS",
+      "crime": "não detalhado nas notas",
+      "tribunal": "STF (inquérito sob André Mendonça)",
+      "data_condenacao": null,
+      "pena": null,
+      "status_atual": "Fez delação (fim de fev/2026). Até out/2026 nenhuma denúncia da PGR nem condenação criminal foi localizada nas fontes.",
+      "status_categoria": "investigado",
+      "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Sem_Desconto"
+    },
+    {
+      "nome": "Carlos Roberto Ferreira Lopes",
+      "partido_na_epoca": "sem partido (dirigente da Conafer)",
+      "cargo": "ex-presidente da Conafer",
+      "crime": "organização criminosa, lavagem majorada e corrupção ativa majorada (indiciamento PF, 14/07/2026)",
+      "tribunal": "STF (inquérito sob André Mendonça)",
+      "data_condenacao": null,
+      "pena": null,
+      "status_atual": "Indiciado em 14/07/2026. Até out/2026 nenhuma denúncia da PGR nem condenação criminal foi localizada nas fontes.",
+      "status_categoria": "investigado",
+      "url": "https://www.band.com.br/politica/noticias/pf-indicia-careca-do-inss-ex-presidente-da-entidade-por-fraude-bilionaria-202607141740"
+    },
+    {
+      "nome": "Romeu Carvalho Antunes",
+      "partido_na_epoca": "sem partido",
+      "cargo": "filho do 'Careca do INSS'",
+      "crime": "não detalhado nas notas",
+      "tribunal": "STF (inquérito sob André Mendonça)",
+      "data_condenacao": null,
+      "pena": null,
+      "status_atual": "Preso em 18/12/2025. Até out/2026 nenhuma denúncia da PGR nem condenação criminal foi localizada nas fontes.",
+      "status_categoria": "investigado",
+      "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Sem_Desconto"
+    },
+    {
+      "nome": "Alexandre Moreira da Silva",
+      "partido_na_epoca": "sem partido",
+      "cargo": "operador do 'Careca', segundo a PF",
+      "crime": "não detalhado nas notas",
+      "tribunal": "STF (inquérito sob André Mendonça)",
+      "data_condenacao": null,
+      "pena": null,
+      "status_atual": "Preso em 11/03/2026. Até out/2026 nenhuma denúncia da PGR nem condenação criminal foi localizada nas fontes.",
+      "status_categoria": "investigado",
+      "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Sem_Desconto"
+    },
+    {
+      "nome": "Philipe Roters Coutinho",
+      "partido_na_epoca": "sem partido (policial federal)",
+      "cargo": "policial federal",
+      "crime": "não detalhado nas notas (preso em flagrante com US$ 200 mil)",
+      "tribunal": "não informado nas notas",
+      "data_condenacao": null,
+      "pena": null,
+      "status_atual": "Preso em flagrante com US$ 200 mil. Até out/2026 nenhuma denúncia da PGR nem condenação criminal foi localizada nas fontes.",
+      "status_categoria": "investigado",
+      "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Sem_Desconto"
+    },
+    {
+      "nome": "Roberta Luchsinger",
+      "partido_na_epoca": "sem partido",
+      "cargo": "citada como intermediária de supostas 'mesadas' e viagens a Lulinha (relatório rejeitado da CPMI)",
+      "crime": "não detalhado nas notas",
+      "tribunal": "STF (inquérito sob André Mendonça)",
+      "data_condenacao": null,
+      "pena": null,
+      "status_atual": "Alvo de buscas em dez/2025; o nome de Lulinha apareceu nessas buscas. Até out/2026 nenhuma denúncia da PGR nem condenação criminal foi localizada nas fontes.",
+      "status_categoria": "investigado",
+      "url": "https://www.cnnbrasil.com.br/politica/relatorio-da-cpmi-do-inss-pede-indicamento-de-lulinha-e-outras-218-pessoas/"
+    },
+    {
+      "nome": "Weverton Rocha",
+      "partido_na_epoca": "PDT-MA",
+      "cargo": "senador",
+      "crime": "não detalhado nas notas",
+      "tribunal": "STF (inquérito sob André Mendonça)",
+      "data_condenacao": null,
+      "pena": null,
+      "status_atual": "Alvo de busca em 18/12/2025; pedido de indiciamento no relatório rejeitado da CPMI. Até out/2026 nenhuma denúncia da PGR nem condenação criminal foi localizada nas fontes.",
+      "status_categoria": "investigado",
+      "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Sem_Desconto"
+    },
+    {
+      "nome": "Maria Gorete Pereira",
+      "partido_na_epoca": "MDB-CE",
+      "cargo": "deputada federal",
+      "crime": "não detalhado nas notas",
+      "tribunal": "STF (inquérito sob André Mendonça)",
+      "data_condenacao": null,
+      "pena": null,
+      "status_atual": "Alvo de fase da operação em 17/03/2026; passou a usar tornozeleira eletrônica. Até out/2026 nenhuma denúncia da PGR nem condenação criminal foi localizada nas fontes.",
+      "status_categoria": "investigado",
+      "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Sem_Desconto"
+    },
+    {
+      "nome": "Euclydes Pettersen",
+      "partido_na_epoca": "Republicanos-MG",
+      "cargo": "deputado federal",
+      "crime": "não detalhado nas notas",
+      "tribunal": "—",
+      "data_condenacao": null,
+      "pena": null,
+      "status_atual": "Pedido de indiciamento no relatório do relator da CPMI, rejeitado em 28/03/2026; investigação formal não localizada nas notas.",
+      "status_categoria": "nao-investigado",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-03/relatorio-da-cpmi-do-inss-pede-indiciamento-de-216-pessoas",
+      "nao_verificado": true
+    },
+    {
+      "nome": "Edson Araújo",
+      "partido_na_epoca": "PSB-MA",
+      "cargo": "deputado estadual",
+      "crime": "não detalhado nas notas",
+      "tribunal": "—",
+      "data_condenacao": null,
+      "pena": null,
+      "status_atual": "Pedido de indiciamento no relatório do relator da CPMI, rejeitado; investigação formal não localizada nas notas.",
+      "status_categoria": "nao-investigado",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-03/relatorio-da-cpmi-do-inss-pede-indiciamento-de-216-pessoas",
+      "nao_verificado": true
+    },
+    {
+      "nome": "José Carlos Oliveira",
+      "partido_na_epoca": "não informado nas notas (governo Bolsonaro)",
+      "cargo": "ex-ministro da Previdência",
+      "crime": "não detalhado nas notas",
+      "tribunal": "—",
+      "data_condenacao": null,
+      "pena": null,
+      "status_atual": "Pedido de indiciamento no relatório do relator da CPMI (rejeitado); sem investigação formal localizada.",
+      "status_categoria": "nao-investigado",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-03/relatorio-da-cpmi-do-inss-pede-indiciamento-de-216-pessoas",
+      "nao_verificado": true
+    },
+    {
+      "nome": "Leonardo Rolim e Glauco Wamburg",
+      "partido_na_epoca": "não informado nas notas",
+      "cargo": "ex-presidentes do INSS",
+      "crime": "não detalhado nas notas",
+      "tribunal": "—",
+      "data_condenacao": null,
+      "pena": null,
+      "status_atual": "Nomes no relatório do relator da CPMI (rejeitado); investigação formal não localizada nas notas.",
+      "status_categoria": "nao-investigado",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-03/relatorio-da-cpmi-do-inss-pede-indiciamento-de-216-pessoas",
+      "nao_verificado": true
+    },
+    {
+      "nome": "Fábio Luís Lula da Silva ('Lulinha')",
+      "partido_na_epoca": "sem filiação informada (filho do presidente Lula)",
+      "cargo": "empresário",
+      "crime": "pedidos da CPMI (relatório rejeitado): tráfico de influência, lavagem, organização criminosa e participação em corrupção passiva",
+      "tribunal": "—",
+      "data_condenacao": null,
+      "pena": null,
+      "status_atual": "Citado em delação (fev/2026) e nas buscas contra Roberta Luchsinger (dez/2025); CPMI aprovou quebra de sigilo bancário em 26/02/2026, suspensa/anulada por Flávio Dino em 4–5/03/2026; o relator admitiu que a CPMI 'não conseguiu avançar'. A defesa nega. Não é formalmente investigado pela PF (abr/2026); pedido de indiciamento rejeitado em 28/03/2026.",
+      "status_categoria": "nao-investigado",
+      "url": "https://www.cnnbrasil.com.br/politica/relatorio-da-cpmi-do-inss-pede-indicamento-de-lulinha-e-outras-218-pessoas/"
+    },
+    {
+      "nome": "José Ferreira da Silva ('Frei Chico')",
+      "partido_na_epoca": "sem filiação informada (irmão do presidente Lula)",
+      "cargo": "vice-presidente do Sindnapi",
+      "crime": "—",
+      "tribunal": "—",
+      "data_condenacao": null,
+      "pena": null,
+      "status_atual": "Não é investigado diretamente. O Sindnapi teve R$ 390 mi (14/10/2025) e R$ 500 mi (05/03/2026) bloqueados pela Justiça.",
+      "status_categoria": "nao-investigado",
+      "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Sem_Desconto"
+    },
+    {
+      "nome": "Jair Bolsonaro e Flávio Bolsonaro",
+      "partido_na_epoca": "PL",
+      "cargo": "ex-presidente / senador e candidato à Presidência em 2026",
+      "crime": "pedidos do relatório alternativo da base governista (não votado): Jair como 'comandante' da organização; Flávio por organização criminosa",
+      "tribunal": "—",
+      "data_condenacao": null,
+      "pena": null,
+      "status_atual": "O relatório alternativo não foi votado; não há nas notas registro de investigação formal de ambos neste caso.",
+      "status_categoria": "nao-investigado",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-03/cpmi-do-inss-termina-sem-relatorio-final"
+    },
+    {
+      "nome": "Daniel Vorcaro",
+      "partido_na_epoca": "sem partido (banqueiro, Banco Master)",
+      "cargo": "controlador do Banco Master",
+      "crime": "relatório do relator da CPMI aponta ligações entre o Master e concessão irregular de consignados a aposentados",
+      "tribunal": "STF",
+      "data_condenacao": null,
+      "pena": null,
+      "status_atual": "Quebra de sigilo aprovada pela CPMI em 04/12/2025; executivo do Master (Augusto Lima) no relatório. Ver registro completo em banco-master.",
+      "status_categoria": "investigado",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-03/cpmi-do-inss-termina-sem-relatorio-final"
+    }
+  ],
+  "linha_do_tempo": [
+    {
+      "data": "2025-03-18",
+      "evento": "Operação Caça ao Tesouro (saques ilegais, RJ, >R$ 50 mi).",
+      "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Sem_Desconto"
+    },
+    {
+      "data": "2025-04-23",
+      "evento": "PF e CGU deflagram a Operação Sem Desconto: 211 mandados de busca e 6 de prisão temporária em 13 estados e DF.",
+      "url": "https://www.otempo.com.br/politica/judiciario/2026/4/23/operacao-contra-fraudes-no-inss-completa-um-ano-com-desdobramentos-mas-sem-ouvir-todos-investigados"
+    },
+    {
+      "data": "2025-05-02",
+      "evento": "Carlos Lupi (PDT) pede demissão do Ministério da Previdência; Wolney Queiroz (PDT) assume. Stefanutto demitido; Gilberto Waller Jr. assume o INSS.",
+      "url": "https://pt.wikipedia.org/wiki/Carlos_Lupi"
+    },
+    {
+      "data": "2025-05-14",
+      "evento": "Fase Conafer; novos consignados suspensos desde mai/2025; biometria exigida desde 23/05/2025.",
+      "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Sem_Desconto"
+    },
+    {
+      "data": "2025-06-17",
+      "evento": "Toffoli nega pedido do governo para suspender ações de aposentados e marca conciliação; inquérito aberto no STF; requerimento da CPMI lido por Alcolumbre.",
+      "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Sem_Desconto"
+    },
+    {
+      "data": "2025-07",
+      "evento": "Início do ressarcimento pelo governo (descontos de mar/2020 a mar/2025).",
+      "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Sem_Desconto"
+    },
+    {
+      "data": "2025-08-20",
+      "evento": "Instalação da CPMI do INSS (presidente Carlos Viana, Podemos-MG; relator Alfredo Gaspar); aprovado investigar fatos desde 2015.",
+      "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Sem_Desconto"
+    },
+    {
+      "data": "2025-08-25",
+      "evento": "Relatoria do inquérito no STF passa de Toffoli a André Mendonça.",
+      "url": "https://www.otempo.com.br/politica/judiciario/2026/4/23/operacao-contra-fraudes-no-inss-completa-um-ano-com-desdobramentos-mas-sem-ouvir-todos-investigados"
+    },
+    {
+      "data": "2025-09-12",
+      "evento": "Maurício Camisotti é preso.",
+      "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Sem_Desconto"
+    },
+    {
+      "data": "2025-10-09",
+      "evento": "Fase com 66 mandados; Sindnapi entre os alvos; bloqueio de R$ 390 mi do Sindnapi em 14/10/2025.",
+      "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Sem_Desconto"
+    },
+    {
+      "data": "2025-11-13",
+      "evento": "Prisões de Alessandro Stefanutto (ex-presidente do INSS) e Virgílio Oliveira Filho (ex-procurador-geral do INSS).",
+      "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Sem_Desconto"
+    },
+    {
+      "data": "2025-12-18",
+      "evento": "Prisão de Romeu Carvalho Antunes; busca contra o senador Weverton Rocha (PDT-MA).",
+      "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Sem_Desconto"
+    },
+    {
+      "data": "2026-02-05",
+      "evento": "INSS informa ressarcimento de 4,2 milhões de beneficiários (~R$ 2,9 bi).",
+      "url": "https://www12.senado.leg.br/radio/1/noticia/2026/02/05/presidente-do-inss-destaca-ressarcimento-de-4-milhoes-de-aposentados-por-descontos-indevidos"
+    },
+    {
+      "data": "2026-02-26",
+      "evento": "CPMI aprova quebra de sigilo bancário de Lulinha; Flávio Dino suspende/anula em 4–5/03/2026. Delações de Virgílio Oliveira e André Fidélis (fim de fev); Lupi delatado por servidores (Metrópoles, 27/02).",
+      "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Sem_Desconto"
+    },
+    {
+      "data": "2026-03-17",
+      "evento": "Fase contra a deputada Maria Gorete Pereira (MDB-CE), que passa a usar tornozeleira.",
+      "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Sem_Desconto"
+    },
+    {
+      "data": "2026-03-26",
+      "evento": "STF rejeita prorrogação da CPMI.",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-03/cpmi-do-inss-termina-sem-relatorio-final"
+    },
+    {
+      "data": "2026-03-28",
+      "evento": "Relatório do relator (4.340 páginas, 216 pedidos de indiciamento) é rejeitado por 19 a 12; relatório alternativo governista (201 pedidos) não é votado; CPMI encerra sem relatório. Na véspera o governo exonerou o ministro Carlos Fávaro.",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-03/cpmi-do-inss-termina-sem-relatorio-final"
+    },
+    {
+      "data": "2026-05-27",
+      "evento": "31 mandados contra entidades no DF e RJ; vazamento da Dataprev (26/05) expõe 2,8 mi de CPFs.",
+      "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Sem_Desconto"
+    },
+    {
+      "data": "2026-06-20",
+      "evento": "Encerra o prazo de contestação/adesão ao ressarcimento.",
+      "url": "https://www.otempo.com.br/politica/judiciario/2026/4/23/operacao-contra-fraudes-no-inss-completa-um-ano-com-desdobramentos-mas-sem-ouvir-todos-investigados"
+    },
+    {
+      "data": "2026-07-14",
+      "evento": "PF conclui a primeira parte e indicia 48 pessoas; relatório de 265 páginas enviado ao STF (Mendonça); cabe à PGR denunciar, pedir diligências ou arquivar.",
+      "url": "https://www.correiobraziliense.com.br/politica/2026/07/7461264-pf-indicia-careca-do-inss-e-mais-47-pessoas-por-fraudes.html"
+    },
+    {
+      "data": "2026-07-22",
+      "evento": "MP 1.378/2026 abre crédito extraordinário de R$ 547 mi para ressarcimento.",
+      "url": "https://ohoje.com/2026/07/22/aposentados-terao-r-547-milhoes-para-ressarcimento-de-descontos-indevidos-do-inss/"
+    },
+    {
+      "data": "2026-09-25",
+      "evento": "Fachin manda a PGR analisar pedidos pendentes nas investigações do Master e do INSS.",
+      "url": "https://pt.wikipedia.org/wiki/Esc%C3%A2ndalo_do_Banco_Master"
+    },
+    {
+      "data": "2026-10-16",
+      "evento": "Ministro Wolney Queiroz afirma que mais de 5 milhões receberam ressarcimento, total acima de R$ 3,5 bi.",
+      "url": "https://meutudo.com.br/blog/noticias/2026/10/16/mais-de-5-milhoes-receberam-ressarcimento-do-inss-ministro-diz-que-nao-ha-mais-pendencias"
+    }
+  ],
+  "o_que_dizem_os_dois_lados": {
+    "acusacao": "A oposição e o relatório do relator da CPMI (Alfredo Gaspar) sustentam que o esquema explodiu sob o governo Lula (64% do valor em 2023–2024), que Lupi foi alertado e não agiu (pedidos de indiciamento por prevaricação e condescendência criminosa), que dirigentes de entidades ligadas ao governo (Contag, Sindnapi, com Frei Chico na vice-presidência) foram beneficiadas e que Lulinha teria recebido 'mesadas' do 'Careca' — tese que o próprio relator admitiu não ter conseguido comprovar. Também criticam a tentativa do governo de suspender no STF as ações de aposentados (negada) e a exoneração de Fávaro às vésperas da votação.",
+    "defesa": "O governo e sua base apontam que, segundo a PF, o esquema começou em 2019 sob Bolsonaro (ministro José Carlos Oliveira), que foi a PF e a CGU do governo Lula que o desmontaram (abr/2025), que Lupi renunciou e Stefanutto foi demitido e preso, e que o governo ressarciu mais de 5 milhões de beneficiários (>R$ 3,5 bi). Lulinha e Frei Chico não são investigados pela PF. O relatório alternativo da base pediu o indiciamento de Jair Bolsonaro como 'comandante' e de Flávio Bolsonaro por organização criminosa, mas não foi votado."
+  },
+  "status_atual_md": "**Em out/2026 o caso está no estágio de indiciamento policial (48 pessoas em 14/07/2026) e delações; nenhuma denúncia da PGR nem condenação criminal foi localizada**, o que é consistente com a decisão de Fachin (25/09/2026) cobrando a PGR por pedidos pendentes. O esquema atravessa dois governos: começa em 2019 (Bolsonaro) e cresce em volume em 2023–2024 (Lula). Os dois ex-ministros da Previdência (José Carlos Oliveira e Carlos Lupi) constaram em pedidos de indiciamento da CPMI; nenhum foi denunciado. A disputa partidária paralisou a CPMI: nenhum relatório foi aprovado. Há condenações cíveis isoladas (TRF-6 manteve indenização de R$ 8 mil; em Caratinga/MG uma entidade foi condenada à devolução em dobro + R$ 5 mil).",
+  "lacunas": [
+    "Não localizada denúncia da PGR contra o 'Careca', Stefanutto ou qualquer indiciado, nem ação penal em curso (até out/2026).",
+    "Conteúdo das delações contra Lupi não verificado em fonte primária; não verificado se há inquérito formal contra Lupi ou Wolney Queiroz no STF.",
+    "Novas fases da operação entre jul e out/2026 não cobertas pelas fontes.",
+    "Divergência nos números de ressarcimento (4,2 → 5,1 milhões; R$ 2,9 → 3,5 bi) decorre de datas distintas; não há nota oficial do INSS consolidando o total.",
+    "Partido do relator Alfredo Gaspar diverge entre fontes (União-AL segundo Agência Brasil; PL-AL segundo CNN); em ago/2026 foi anunciado vice de Flávio Bolsonaro pelo PL.",
+    "Divergência sobre a Contag: ~R$ 2 bi vs. R$ 2,9 bi (2016–2023).",
+    "Partido/filiação de Stefanutto, Virgílio Oliveira, Fidélis, Rolim, Wamburg e José Carlos Oliveira não informados nas notas."
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/05_escandalos_recentes_inss_master_bolsonaro.md",
+  "fontes": [
+    {
+      "nome": "O Tempo, 23/04/2026: operação contra fraudes no INSS completa um ano",
+      "url": "https://www.otempo.com.br/politica/judiciario/2026/4/23/operacao-contra-fraudes-no-inss-completa-um-ano-com-desdobramentos-mas-sem-ouvir-todos-investigados",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Wikipédia pt, Operação Sem Desconto (índice)",
+      "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Sem_Desconto",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Rádio Senado, 05/02/2026: presidente do INSS destaca ressarcimento de 4 milhões de aposentados",
+      "url": "https://www12.senado.leg.br/radio/1/noticia/2026/02/05/presidente-do-inss-destaca-ressarcimento-de-4-milhoes-de-aposentados-por-descontos-indevidos",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "BandAB, jul/2026: INSS paga beneficiários de desconto indevido",
+      "url": "https://www.bandab.com.br/economia/inss-paga-beneficiarios-desconto-indevido/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "O Hoje, 22/07/2026: aposentados terão R$ 547 milhões para ressarcimento",
+      "url": "https://ohoje.com/2026/07/22/aposentados-terao-r-547-milhoes-para-ressarcimento-de-descontos-indevidos-do-inss/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "meutudo, 16/10/2026: mais de 5 milhões receberam ressarcimento do INSS",
+      "url": "https://meutudo.com.br/blog/noticias/2026/10/16/mais-de-5-milhoes-receberam-ressarcimento-do-inss-ministro-diz-que-nao-ha-mais-pendencias",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Correio Braziliense, 14/07/2026: PF indicia 'Careca do INSS' e mais 47 pessoas",
+      "url": "https://www.correiobraziliense.com.br/politica/2026/07/7461264-pf-indicia-careca-do-inss-e-mais-47-pessoas-por-fraudes.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Agência Brasil, mar/2026: relatório da CPMI do INSS pede indiciamento de 216 pessoas",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-03/relatorio-da-cpmi-do-inss-pede-indiciamento-de-216-pessoas",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Agência Brasil, mar/2026: CPMI do INSS termina sem relatório final",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-03/cpmi-do-inss-termina-sem-relatorio-final",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "CNN Brasil, mar/2026: relatório da CPMI do INSS pede indiciamento de Lulinha e outras 218 pessoas",
+      "url": "https://www.cnnbrasil.com.br/politica/relatorio-da-cpmi-do-inss-pede-indicamento-de-lulinha-e-outras-218-pessoas/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Band, 14/07/2026: PF indicia 'Careca do INSS' e ex-presidente de entidade",
+      "url": "https://www.band.com.br/politica/noticias/pf-indicia-careca-do-inss-ex-presidente-da-entidade-por-fraude-bilionaria-202607141740",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Wikipédia pt, Carlos Lupi (índice)",
+      "url": "https://pt.wikipedia.org/wiki/Carlos_Lupi",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Wikipédia pt, Escândalo do Banco Master (índice)",
+      "url": "https://pt.wikipedia.org/wiki/Esc%C3%A2ndalo_do_Banco_Master",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "atualizado_em": "2026-10-21",
+  "convencoes": [
+    "citado: nome aparece em delação, planilha, relatório de CPI ou reportagem, sem ato formal de investigação.",
+    "investigado: alvo de inquérito, busca, prisão temporária/preventiva ou indiciamento pela PF (indiciamento não é denúncia).",
+    "denunciado: PGR/MPF ofereceu denúncia; réu: a denúncia foi recebida pelo tribunal.",
+    "condenado-1a / condenado-2a: decisão de mérito ainda sujeita a recurso. Para condenações pelo STF em instância única sem trânsito em julgado confirmado nas notas, usa-se condenado-1a com explicação em status_atual.",
+    "condenado-definitivo: trânsito em julgado confirmado nas notas; cumprindo-pena / pena-cumprida quando as notas informam a execução.",
+    "anulada: condenação ou provas anuladas por nulidade (competência, parcialidade, prova ilícita), sem exame de mérito; absolvido: decisão de mérito favorável; arquivado: inquérito/denúncia encerrada sem mérito; prescrito: punibilidade extinta pelo tempo.",
+    "Pedido de indiciamento por CPI/CPMI não é indiciamento policial nem denúncia: é recomendação ao Ministério Público."
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "id": "covaxin-cpi-da-covid",
+  "nome": "Covaxin e CPI da Covid",
+  "periodo": {
+    "inicio": "2021",
+    "fim": null,
+    "nota": "Irregularidades apontadas pelo MPF em 16/06/2021; arquivamentos pela PGR nos anos seguintes; desfecho de 11 procedimentos na PR-DF não localizado."
+  },
+  "governos_em_que_ocorreram_os_fatos": [
+    "bolsonaro"
+  ],
+  "governos_em_que_foi_investigado": [
+    "bolsonaro",
+    "lula-3"
+  ],
+  "resumo_simples": [
+    "Em 16/06/2021 o MPF apontou irregularidades na compra de 20 milhões de doses da vacina Covaxin via Precisa Medicamentos; o contrato foi suspenso em 29/06/2021; os irmãos Miranda depuseram à CPI em 25/06/2021 e a PGR pediu inquérito por prevaricação contra Bolsonaro em 02/07/2021.",
+    "O inquérito de prevaricação foi arquivado após a PF concluir que não houve crime, com a PGR seguindo esse entendimento. A vice-PGR Lindôra Araújo pediu ao STF o arquivamento de 7 apurações preliminares pós-CPI (Bolsonaro, Pazuello, Queiroga, Braga Netto, Wagner Rosário, Osmar Terra e ex-secretários).",
+    "O material da CPI foi desmembrado em 11 procedimentos na PR-DF, 5 arquivados por duplicidade, com diligências sobre Prevent Senior e VTC Log; o resultado final não foi localizado."
+  ],
+  "valores": [
+    {
+      "rotulo": "Doses de Covaxin no contrato com a Precisa",
+      "valor": 20,
+      "unidade": "milhões de doses",
+      "fonte": {
+        "nome": "Wikipedia (en), Covaxgate (índice)",
+        "url": "https://en.wikipedia.org/wiki/Covaxgate",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Apurações pós-CPI cujo arquivamento a PGR pediu",
+      "valor": 7,
+      "unidade": "apurações",
+      "fonte": {
+        "nome": "Congresso em Foco: PGR pede arquivamento de investigações da CPI contra Bolsonaro",
+        "url": "https://congressoemfoco.com.br/area/justica/pgr-pede-arquivamento-de-investigacoes-da-cpi-contra-bolsonaro",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Procedimentos derivados da CPI na PR-DF",
+      "valor": 11,
+      "unidade": "procedimentos (5 arquivados por duplicidade)",
+      "fonte": {
+        "nome": "BandAB: CPI da Covid empaca na PGR e investigados entram na corrida eleitoral",
+        "url": "https://www.bandab.com.br/politica/cpi-da-covid-empaca-na-pgr-e-investigados-entram-na-corrida-eleitoral/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    }
+  ],
+  "partidos": [
+    {
+      "partido": "PL / governo Bolsonaro",
+      "citados": null,
+      "denunciados": 0,
+      "condenados_1a_instancia": 0,
+      "condenados_definitivo": 0,
+      "condenacoes_anuladas": null,
+      "arquivados_nomeados": [
+        "Jair Bolsonaro (prevaricação/Covaxin)"
+      ],
+      "citados_nomeados": [
+        "Eduardo Pazuello",
+        "Marcelo Queiroga",
+        "Walter Braga Netto",
+        "Wagner Rosário",
+        "Osmar Terra"
+      ],
+      "fonte": {
+        "nome": "Congresso em Foco: PGR pede arquivamento de investigações da CPI contra Bolsonaro",
+        "url": "https://congressoemfoco.com.br/area/justica/pgr-pede-arquivamento-de-investigacoes-da-cpi-contra-bolsonaro",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "nota": "Zeros indicam 'nenhum localizado nas fontes'."
+    }
+  ],
+  "pessoas": [
+    {
+      "nome": "Jair Bolsonaro",
+      "partido_na_epoca": "PL",
+      "cargo": "presidente da República (então)",
+      "crime": "prevaricação (Covaxin)",
+      "tribunal": "STF",
+      "data_condenacao": null,
+      "pena": null,
+      "status_atual": "Inquérito arquivado após a PF concluir que não houve crime, com a PGR seguindo esse entendimento.",
+      "status_categoria": "arquivado",
+      "url": "https://congressoemfoco.com.br/area/justica/pgr-pede-arquivamento-de-investigacoes-da-cpi-contra-bolsonaro",
+      "caso": "Covaxin"
+    },
+    {
+      "nome": "Eduardo Pazuello",
+      "partido_na_epoca": "PL-RJ (hoje deputado federal; sem filiação informada à época)",
+      "cargo": "ex-ministro da Saúde",
+      "crime": "apuração preliminar pós-CPI (crimes não detalhados nas notas)",
+      "tribunal": "STF / PR-DF",
+      "data_condenacao": null,
+      "pena": null,
+      "status_atual": "PGR pediu arquivamento da apuração pós-CPI; desfecho não localizado. No caso do oxigênio em Manaus, inocentado por improbidade pela Justiça do Amazonas em 10/05/2022 (ver outros-casos-era-bolsonaro).",
+      "status_categoria": "investigado",
+      "url": "https://congressoemfoco.com.br/area/justica/pgr-pede-arquivamento-de-investigacoes-da-cpi-contra-bolsonaro",
+      "nao_verificado": true
+    },
+    {
+      "nome": "Marcelo Queiroga",
+      "partido_na_epoca": "não informado nas notas",
+      "cargo": "ex-ministro da Saúde",
+      "crime": "apuração preliminar pós-CPI",
+      "tribunal": "STF / PR-DF",
+      "data_condenacao": null,
+      "pena": null,
+      "status_atual": "PGR pediu arquivamento; desfecho não localizado.",
+      "status_categoria": "investigado",
+      "url": "https://congressoemfoco.com.br/area/justica/pgr-pede-arquivamento-de-investigacoes-da-cpi-contra-bolsonaro",
+      "nao_verificado": true
+    },
+    {
+      "nome": "Walter Braga Netto",
+      "partido_na_epoca": "não informado nas notas",
+      "cargo": "ex-ministro da Defesa",
+      "crime": "apuração preliminar pós-CPI",
+      "tribunal": "STF / PR-DF",
+      "data_condenacao": null,
+      "pena": null,
+      "status_atual": "PGR pediu arquivamento; desfecho não localizado. Condenado em outro caso (AP 2668).",
+      "status_categoria": "investigado",
+      "url": "https://congressoemfoco.com.br/area/justica/pgr-pede-arquivamento-de-investigacoes-da-cpi-contra-bolsonaro",
+      "nao_verificado": true
+    },
+    {
+      "nome": "Wagner Rosário",
+      "partido_na_epoca": "não informado nas notas",
+      "cargo": "ex-ministro da CGU",
+      "crime": "apuração preliminar pós-CPI",
+      "tribunal": "STF / PR-DF",
+      "data_condenacao": null,
+      "pena": null,
+      "status_atual": "PGR pediu arquivamento; desfecho não localizado.",
+      "status_categoria": "investigado",
+      "url": "https://congressoemfoco.com.br/area/justica/pgr-pede-arquivamento-de-investigacoes-da-cpi-contra-bolsonaro",
+      "nao_verificado": true
+    },
+    {
+      "nome": "Osmar Terra",
+      "partido_na_epoca": "não informado nas notas",
+      "cargo": "deputado federal; ex-ministro",
+      "crime": "apuração preliminar pós-CPI",
+      "tribunal": "STF / PR-DF",
+      "data_condenacao": null,
+      "pena": null,
+      "status_atual": "PGR pediu arquivamento; desfecho não localizado.",
+      "status_categoria": "investigado",
+      "url": "https://congressoemfoco.com.br/area/justica/pgr-pede-arquivamento-de-investigacoes-da-cpi-contra-bolsonaro",
+      "nao_verificado": true
+    }
+  ],
+  "linha_do_tempo": [
+    {
+      "data": "2021-06-16",
+      "evento": "MPF aponta irregularidades na compra de 20 mi de doses da Covaxin via Precisa Medicamentos.",
+      "url": "https://en.wikipedia.org/wiki/Covaxgate"
+    },
+    {
+      "data": "2021-06-25",
+      "evento": "Irmãos Miranda depõem à CPI da Covid.",
+      "url": "https://en.wikipedia.org/wiki/Covaxgate"
+    },
+    {
+      "data": "2021-06-29",
+      "evento": "Contrato da Covaxin suspenso.",
+      "url": "https://en.wikipedia.org/wiki/Covaxgate"
+    },
+    {
+      "data": "2021-07-02",
+      "evento": "PGR pede inquérito por prevaricação contra Bolsonaro; busca na Precisa autorizada por Toffoli.",
+      "url": "https://en.wikipedia.org/wiki/Covaxgate"
+    },
+    {
+      "data": "2022",
+      "evento": "Vice-PGR Lindôra Araújo pede ao STF o arquivamento de 7 apurações pós-CPI; material desmembrado em 11 procedimentos na PR-DF (data exata não informada nas notas).",
+      "url": "https://congressoemfoco.com.br/area/justica/pgr-pede-arquivamento-de-investigacoes-da-cpi-contra-bolsonaro",
+      "nao_verificado": true
+    }
+  ],
+  "o_que_dizem_os_dois_lados": {
+    "acusacao": "A CPI da Covid e o MPF apontaram irregularidades no contrato da Covaxin e pediram apuração de prevaricação do presidente e de ex-ministros; críticos afirmam que a PGR de Augusto Aras/Lindôra Araújo 'empacou' as investigações.",
+    "defesa": "A PF concluiu que não houve crime de prevaricação e a PGR pediu o arquivamento das apurações; o contrato foi suspenso antes de qualquer pagamento, segundo a defesa; nenhum investigado foi denunciado."
+  },
+  "status_atual_md": "Prevaricação/Covaxin: **arquivado**. Apurações pós-CPI: PGR pediu arquivamento de 7; 11 procedimentos na PR-DF (5 arquivados por duplicidade), com diligências sobre Prevent Senior e VTC Log cujo resultado não foi localizado. A maior parte dos casos da era Bolsonaro não chegou a denúncia ou terminou arquivada sob a PGR de Augusto Aras.",
+  "lacunas": [
+    "Relatório final da CPI da Covid (data e número de indiciamentos pedidos) não localizado em fonte lida.",
+    "Resultado final dos 11 procedimentos na PR-DF (Prevent Senior, VTC Log) não localizado.",
+    "Situação de Ricardo Barros (PP) e Francisco Maximiano (Precisa) não localizada.",
+    "Datas exatas dos pedidos de arquivamento da PGR não constam nas notas."
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/05_escandalos_recentes_inss_master_bolsonaro.md",
+  "fontes": [
+    {
+      "nome": "Wikipedia (en), Covaxgate (índice)",
+      "url": "https://en.wikipedia.org/wiki/Covaxgate",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Congresso em Foco: PGR pede arquivamento de investigações da CPI contra Bolsonaro",
+      "url": "https://congressoemfoco.com.br/area/justica/pgr-pede-arquivamento-de-investigacoes-da-cpi-contra-bolsonaro",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "BandAB: CPI da Covid empaca na PGR e investigados entram na corrida eleitoral",
+      "url": "https://www.bandab.com.br/politica/cpi-da-covid-empaca-na-pgr-e-investigados-entram-na-corrida-eleitoral/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "atualizado_em": "2026-10-21",
+  "convencoes": [
+    "citado: nome aparece em delação, planilha, relatório de CPI ou reportagem, sem ato formal de investigação.",
+    "investigado: alvo de inquérito, busca, prisão temporária/preventiva ou indiciamento pela PF (indiciamento não é denúncia).",
+    "denunciado: PGR/MPF ofereceu denúncia; réu: a denúncia foi recebida pelo tribunal.",
+    "condenado-1a / condenado-2a: decisão de mérito ainda sujeita a recurso. Para condenações pelo STF em instância única sem trânsito em julgado confirmado nas notas, usa-se condenado-1a com explicação em status_atual.",
+    "condenado-definitivo: trânsito em julgado confirmado nas notas; cumprindo-pena / pena-cumprida quando as notas informam a execução.",
+    "anulada: condenação ou provas anuladas por nulidade (competência, parcialidade, prova ilícita), sem exame de mérito; absolvido: decisão de mérito favorável; arquivado: inquérito/denúncia encerrada sem mérito; prescrito: punibilidade extinta pelo tempo.",
+    "Pedido de indiciamento por CPI/CPMI não é indiciamento policial nem denúncia: é recomendação ao Ministério Público."
+  ]
+}

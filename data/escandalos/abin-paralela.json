@@ -1,0 +1,189 @@
+{
+  "id": "abin-paralela",
+  "nome": "Abin paralela (Operação Última Milha)",
+  "periodo": {
+    "inicio": "2018",
+    "fim": null,
+    "nota": "FirstMile comprado no fim de 2018 e usado até meados de 2021; operação da PF desde out/2023; sem denúncia localizada até out/2026."
+  },
+  "governos_em_que_ocorreram_os_fatos": [
+    "temer",
+    "bolsonaro"
+  ],
+  "governos_em_que_foi_investigado": [
+    "lula-3"
+  ],
+  "resumo_simples": [
+    "A PF investiga o uso da Abin, sob Alexandre Ramagem (governo Bolsonaro), para monitorar ilegalmente autoridades e adversários com o software FirstMile (Cognyte), comprado por R$ 5,7 mi sem licitação no fim de 2018 (governo Temer) e usado cerca de 30 mil vezes até meados de 2021.",
+    "Operação Última Milha (out/2023); Vigilância Aproximada (25/01/2024) com busca contra Ramagem; em 29/01/2024 buscas incluíram Carlos Bolsonaro (Angra); 4ª fase (jul/2024) com 5 prisões mantidas pelo STF.",
+    "Em jun/2025 a PF concluiu o inquérito e indiciou 34 pessoas, incluindo Ramagem. Até out/2026 não foi localizada denúncia da PGR específica sobre a Abin paralela. Ramagem foi condenado em outro processo (AP 2668, trama golpista) e está foragido nos EUA."
+  ],
+  "valores": [
+    {
+      "rotulo": "Compra do FirstMile (Cognyte), sem licitação, fim de 2018",
+      "valor": 5.7,
+      "unidade": "R$ milhões",
+      "fonte": {
+        "nome": "Wikipédia pt, Operação Última Milha (índice)",
+        "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_%C3%9Altima_Milha",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Usos do FirstMile até meados de 2021",
+      "valor": 30000,
+      "unidade": "consultas (aproximado)",
+      "fonte": {
+        "nome": "Wikipédia pt, Operação Última Milha (índice)",
+        "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_%C3%9Altima_Milha",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Indiciados pela PF (jun/2025)",
+      "valor": 34,
+      "unidade": "pessoas",
+      "fonte": {
+        "nome": "Brasil de Fato, 18/09/2025: o futuro de Alexandre Ramagem",
+        "url": "https://www.brasildefato.com.br/2025/09/18/futuro-alexandre-ramagem/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Prisões mantidas pelo STF na 4ª fase (jul/2024)",
+      "valor": 5,
+      "unidade": "pessoas",
+      "fonte": {
+        "nome": "Folha PE: STF mantém prisão de cinco investigados no caso Abin paralela",
+        "url": "https://www.folhape.com.br/politica/stf-mantem-prisao-de-cinco-investigados-no-caso-abin-paralela/348503/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    }
+  ],
+  "partidos": [
+    {
+      "partido": "PL",
+      "citados": null,
+      "denunciados": 0,
+      "condenados_1a_instancia": 0,
+      "condenados_definitivo": 0,
+      "condenacoes_anuladas": null,
+      "investigados_nomeados": [
+        "Alexandre Ramagem (indiciado, jun/2025)",
+        "Carlos Bolsonaro (buscas, 29/01/2024)"
+      ],
+      "fonte": {
+        "nome": "Brasil de Fato, 18/09/2025: o futuro de Alexandre Ramagem",
+        "url": "https://www.brasildefato.com.br/2025/09/18/futuro-alexandre-ramagem/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "nota": "Zeros indicam 'nenhum localizado nas fontes até out/2026' neste caso; Ramagem foi condenado em outro processo (AP 2668)."
+    }
+  ],
+  "pessoas": [
+    {
+      "nome": "Alexandre Ramagem",
+      "partido_na_epoca": "PL-RJ",
+      "cargo": "ex-diretor-geral da Abin (2019–2022); deputado federal (mandato cassado em 18/12/2025)",
+      "crime": "indiciado pela PF no inquérito da Abin paralela (crimes não detalhados nas notas)",
+      "tribunal": "STF",
+      "data_condenacao": null,
+      "pena": null,
+      "status_atual": "Busca em 25/01/2024; indiciado em jun/2025 com outras 33 pessoas; sem denúncia específica localizada. Condenado em outro processo (AP 2668) a 16a1m15d; foragido nos EUA (ver trama-golpista-8-de-janeiro).",
+      "status_categoria": "investigado",
+      "url": "https://www.brasildefato.com.br/2025/09/18/futuro-alexandre-ramagem/"
+    },
+    {
+      "nome": "Carlos Bolsonaro",
+      "partido_na_epoca": "não informado nas notas",
+      "cargo": "vereador do Rio de Janeiro; filho de Jair Bolsonaro",
+      "crime": "não detalhado nas notas",
+      "tribunal": "STF",
+      "data_condenacao": null,
+      "pena": null,
+      "status_atual": "Alvo de buscas em 29/01/2024 (Angra dos Reis). Sem indiciamento ou denúncia registrados nas notas.",
+      "status_categoria": "investigado",
+      "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_%C3%9Altima_Milha",
+      "nao_verificado": true
+    }
+  ],
+  "linha_do_tempo": [
+    {
+      "data": "2018-12",
+      "evento": "Abin compra o FirstMile (Cognyte) por R$ 5,7 mi sem licitação (fim de 2018, governo Temer).",
+      "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_%C3%9Altima_Milha"
+    },
+    {
+      "data": "2023-10",
+      "evento": "PF deflagra a Operação Última Milha.",
+      "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_%C3%9Altima_Milha"
+    },
+    {
+      "data": "2024-01-25",
+      "evento": "Operação Vigilância Aproximada, com busca contra Ramagem; em 29/01/2024 buscas incluem Carlos Bolsonaro.",
+      "url": "https://pt.wikipedia.org/wiki/Alexandre_Ramagem"
+    },
+    {
+      "data": "2024-07",
+      "evento": "4ª fase; STF mantém 5 prisões.",
+      "url": "https://www.folhape.com.br/politica/stf-mantem-prisao-de-cinco-investigados-no-caso-abin-paralela/348503/"
+    },
+    {
+      "data": "2025-06",
+      "evento": "PF conclui o inquérito e indicia 34 pessoas, incluindo Ramagem.",
+      "url": "https://www.brasildefato.com.br/2025/09/18/futuro-alexandre-ramagem/"
+    }
+  ],
+  "o_que_dizem_os_dois_lados": {
+    "acusacao": "A PF sustenta que a Abin, sob Ramagem, montou uma estrutura paralela para monitorar ilegalmente adversários e autoridades com o FirstMile, e indiciou 34 pessoas em jun/2025.",
+    "defesa": "A defesa de Ramagem nega irregularidades; ele alega perseguição política e pediu asilo nos EUA após a condenação na trama golpista. Até out/2026 a PGR não ofereceu denúncia específica sobre a Abin paralela, segundo as fontes lidas."
+  },
+  "status_atual_md": "Inquérito concluído pela PF com 34 indiciados (jun/2025); **sem denúncia da PGR localizada** até out/2026. Ramagem está condenado e foragido por outro caso (AP 2668).",
+  "lacunas": [
+    "Não localizada denúncia da PGR sobre a Abin paralela nem a lista dos 34 indiciados.",
+    "Crimes imputados e situação de Carlos Bolsonaro não detalhados.",
+    "Julgamento da AP 2737 (Ramagem/8 de janeiro) não localizado."
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/05_escandalos_recentes_inss_master_bolsonaro.md",
+  "fontes": [
+    {
+      "nome": "Wikipédia pt, Operação Última Milha (índice)",
+      "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_%C3%9Altima_Milha",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Brasil de Fato, 18/09/2025: o futuro de Alexandre Ramagem",
+      "url": "https://www.brasildefato.com.br/2025/09/18/futuro-alexandre-ramagem/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Folha PE: STF mantém prisão de cinco investigados no caso Abin paralela",
+      "url": "https://www.folhape.com.br/politica/stf-mantem-prisao-de-cinco-investigados-no-caso-abin-paralela/348503/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Wikipédia pt, Alexandre Ramagem (índice)",
+      "url": "https://pt.wikipedia.org/wiki/Alexandre_Ramagem",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "atualizado_em": "2026-10-21",
+  "convencoes": [
+    "citado: nome aparece em delação, planilha, relatório de CPI ou reportagem, sem ato formal de investigação.",
+    "investigado: alvo de inquérito, busca, prisão temporária/preventiva ou indiciamento pela PF (indiciamento não é denúncia).",
+    "denunciado: PGR/MPF ofereceu denúncia; réu: a denúncia foi recebida pelo tribunal.",
+    "condenado-1a / condenado-2a: decisão de mérito ainda sujeita a recurso. Para condenações pelo STF em instância única sem trânsito em julgado confirmado nas notas, usa-se condenado-1a com explicação em status_atual.",
+    "condenado-definitivo: trânsito em julgado confirmado nas notas; cumprindo-pena / pena-cumprida quando as notas informam a execução.",
+    "anulada: condenação ou provas anuladas por nulidade (competência, parcialidade, prova ilícita), sem exame de mérito; absolvido: decisão de mérito favorável; arquivado: inquérito/denúncia encerrada sem mérito; prescrito: punibilidade extinta pelo tempo.",
+    "Pedido de indiciamento por CPI/CPMI não é indiciamento policial nem denúncia: é recomendação ao Ministério Público."
+  ]
+}

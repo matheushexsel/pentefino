@@ -1,0 +1,137 @@
+{
+  "id": "americanas-fraude-contabil",
+  "nome": "Fraude contábil nas Americanas",
+  "periodo": {
+    "inicio": "2023",
+    "fim": null
+  },
+  "governos_em_que_ocorreram_os_fatos": [],
+  "governos_em_que_foi_investigado": [
+    "lula-3"
+  ],
+  "resumo_simples": [
+    "A fraude contábil nas Americanas é estimada em R$ 25 bi (inconsistências de mais de R$ 20 bi anunciadas em 2023).",
+    "O MPF denunciou 13 ex-executivos (mar–abr/2025) por associação criminosa, falsidade ideológica e manipulação de mercado; Miguel Gutierrez ('planejou, ordenou e executou') está na Espanha desde 2023 e o MPF pediu extradição; Márcio Cruz Meirelles fez delação.",
+    "A 6ª Vara Federal Criminal do RJ recebeu a denúncia e tornou 12 réus na semana de 16/10/2026, em sigilo; a CVM também processa Gutierrez. Caso empresarial, sem réus políticos."
+  ],
+  "valores": [
+    {
+      "rotulo": "Fraude contábil estimada",
+      "valor": 25,
+      "unidade": "R$ bilhões",
+      "fonte": {
+        "nome": "Mercado&Consumo, 01/04/2025: fraude nas Americanas — MPF denuncia 13 ex-executivos",
+        "url": "https://mercadoeconsumo.com.br/01/04/2025/noticias-varejo/fraude-nas-americanas-mpf-denuncia-13-ex-executivos-por-crime-financeiro/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Ex-executivos denunciados pelo MPF",
+      "valor": 13,
+      "unidade": "pessoas",
+      "fonte": {
+        "nome": "Mercado&Consumo, 01/04/2025: fraude nas Americanas — MPF denuncia 13 ex-executivos",
+        "url": "https://mercadoeconsumo.com.br/01/04/2025/noticias-varejo/fraude-nas-americanas-mpf-denuncia-13-ex-executivos-por-crime-financeiro/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Réus (6ª Vara Federal Criminal do RJ, out/2026)",
+      "valor": 12,
+      "unidade": "pessoas",
+      "fonte": {
+        "nome": "Diário de Pernambuco, out/2026: Justiça torna 12 ex-executivos da Americanas réus",
+        "url": "https://www.diariodepernambuco.com.br/brasil/2026/10/11726828-justica-torna-12-ex-executivos-da-americanas-reus-por-fraude-bilionaria.html",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    }
+  ],
+  "partidos": [],
+  "pessoas": [
+    {
+      "nome": "Miguel Gutierrez",
+      "partido_na_epoca": "sem partido (executivo)",
+      "cargo": "ex-CEO das Americanas",
+      "crime": "associação criminosa, falsidade ideológica e manipulação de mercado",
+      "tribunal": "6ª Vara Federal Criminal do RJ",
+      "data_condenacao": null,
+      "pena": null,
+      "status_atual": "Denunciado (MPF: 'planejou, ordenou e executou'); na Espanha desde 2023, com pedido de extradição; réu desde out/2026; também processado pela CVM.",
+      "status_categoria": "reu",
+      "url": "https://www.diariodepernambuco.com.br/brasil/2026/10/11726828-justica-torna-12-ex-executivos-da-americanas-reus-por-fraude-bilionaria.html"
+    },
+    {
+      "nome": "Anna Saicali, Timotheo Barros, Marcio Cruz, João Guerra, Murilo Corrêa, Maria Christina Nascimento, Fabien Picavet, Raoni Fabiano, Luiz Augusto Saraiva Henriques, Jean Pierre Lessa, Anna Christina Sotero e outro",
+      "partido_na_epoca": "sem partido (executivos)",
+      "cargo": "ex-executivos das Americanas",
+      "crime": "associação criminosa, falsidade ideológica e manipulação de mercado",
+      "tribunal": "6ª Vara Federal Criminal do RJ",
+      "data_condenacao": null,
+      "pena": null,
+      "status_atual": "13 denunciados em mar–abr/2025; 12 tornados réus na semana de 16/10/2026 (processo em sigilo); Márcio Cruz Meirelles fez delação. Qual denunciado não virou réu não consta nas notas.",
+      "status_categoria": "reu",
+      "url": "https://timesbrasil.com.br/brasil/fraude-na-americanas-justica-aceita-denuncia-contra-12-ex-executivos/",
+      "nao_verificado": true
+    }
+  ],
+  "linha_do_tempo": [
+    {
+      "data": "2023",
+      "evento": "Americanas anuncia inconsistências contábeis de mais de R$ 20 bi; Gutierrez deixa o país.",
+      "url": "https://mercadoeconsumo.com.br/01/04/2025/noticias-varejo/fraude-nas-americanas-mpf-denuncia-13-ex-executivos-por-crime-financeiro/"
+    },
+    {
+      "data": "2025-04-01",
+      "evento": "MPF denuncia 13 ex-executivos (mar–abr/2025).",
+      "url": "https://mercadoeconsumo.com.br/01/04/2025/noticias-varejo/fraude-nas-americanas-mpf-denuncia-13-ex-executivos-por-crime-financeiro/"
+    },
+    {
+      "data": "2026-10-16",
+      "evento": "6ª Vara Federal Criminal do RJ recebe a denúncia e torna 12 réus (semana de 16/10/2026).",
+      "url": "https://www.diariodepernambuco.com.br/brasil/2026/10/11726828-justica-torna-12-ex-executivos-da-americanas-reus-por-fraude-bilionaria.html"
+    }
+  ],
+  "o_que_dizem_os_dois_lados": {
+    "acusacao": "O MPF sustenta que a diretoria planejou e executou fraude contábil de ~R$ 25 bi, com manipulação de mercado e falsidade ideológica, sob comando de Miguel Gutierrez.",
+    "defesa": "Os ex-executivos negam participação dolosa; Gutierrez permanece na Espanha e contesta a extradição; o processo corre em sigilo e não há sentença. As notas não detalham as teses de defesa."
+  },
+  "status_atual_md": "12 ex-executivos **réus** desde out/2026 na Justiça Federal do RJ; sem sentença. Caso sem envolvimento político registrado.",
+  "lacunas": [
+    "Qual dos 13 denunciados não se tornou réu não consta nas notas.",
+    "Teses de defesa e andamento do pedido de extradição não detalhados."
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/05_escandalos_recentes_inss_master_bolsonaro.md",
+  "fontes": [
+    {
+      "nome": "Mercado&Consumo, 01/04/2025: fraude nas Americanas — MPF denuncia 13 ex-executivos",
+      "url": "https://mercadoeconsumo.com.br/01/04/2025/noticias-varejo/fraude-nas-americanas-mpf-denuncia-13-ex-executivos-por-crime-financeiro/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Diário de Pernambuco, out/2026: Justiça torna 12 ex-executivos da Americanas réus",
+      "url": "https://www.diariodepernambuco.com.br/brasil/2026/10/11726828-justica-torna-12-ex-executivos-da-americanas-reus-por-fraude-bilionaria.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Times Brasil: fraude na Americanas — Justiça aceita denúncia contra 12 ex-executivos",
+      "url": "https://timesbrasil.com.br/brasil/fraude-na-americanas-justica-aceita-denuncia-contra-12-ex-executivos/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "atualizado_em": "2026-10-21",
+  "convencoes": [
+    "citado: nome aparece em delação, planilha, relatório de CPI ou reportagem, sem ato formal de investigação.",
+    "investigado: alvo de inquérito, busca, prisão temporária/preventiva ou indiciamento pela PF (indiciamento não é denúncia).",
+    "denunciado: PGR/MPF ofereceu denúncia; réu: a denúncia foi recebida pelo tribunal.",
+    "condenado-1a / condenado-2a: decisão de mérito ainda sujeita a recurso. Para condenações pelo STF em instância única sem trânsito em julgado confirmado nas notas, usa-se condenado-1a com explicação em status_atual.",
+    "condenado-definitivo: trânsito em julgado confirmado nas notas; cumprindo-pena / pena-cumprida quando as notas informam a execução.",
+    "anulada: condenação ou provas anuladas por nulidade (competência, parcialidade, prova ilícita), sem exame de mérito; absolvido: decisão de mérito favorável; arquivado: inquérito/denúncia encerrada sem mérito; prescrito: punibilidade extinta pelo tempo.",
+    "Pedido de indiciamento por CPI/CPMI não é indiciamento policial nem denúncia: é recomendação ao Ministério Público."
+  ]
+}

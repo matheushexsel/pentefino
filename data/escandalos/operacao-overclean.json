@@ -1,0 +1,410 @@
+{
+  "id": "operacao-overclean",
+  "nome": "Operação Overclean (emendas, Dnocs e Codevasf na Bahia)",
+  "periodo": {
+    "inicio": "2024-12",
+    "fim": null,
+    "nota": "9 fases até 13/01/2026; período dos fatos (convênios/emendas) não detalhado nas notas."
+  },
+  "governos_em_que_ocorreram_os_fatos": [],
+  "governos_em_que_foi_investigado": [
+    "lula-3"
+  ],
+  "resumo_simples": [
+    "A Operação Overclean (PF, desde dez/2024; relator Nunes Marques no STF) investiga desvios em emendas e convênios do Dnocs (BA) e da Codevasf, com cerca de R$ 1,4 bi movimentados.",
+    "A 1ª fase teve 43 buscas e 17 prisões preventivas (Lucas Lobão, ex-Dnocs-BA; o vereador Francisquinho Nascimento, primo do deputado Elmar Nascimento/União-BA, teria jogado dinheiro pela janela). Fases seguintes alcançaram o deputado Félix Mendonça Jr. (PDT-BA), o deputado Dal Barreto (União-BA), prefeitos de PT, PSB, PSD e MDB, Luiz França (Podemos) e parentes de Elmar Nascimento.",
+    "Até out/2026 não foram localizadas denúncias da PGR decorrentes da operação."
+  ],
+  "valores": [
+    {
+      "rotulo": "Valor movimentado (estimativa PF)",
+      "valor": 1.4,
+      "unidade": "R$ bilhões (aproximado)",
+      "fonte": {
+        "nome": "Acessa.com, jan/2026: Operação Overclean, que mira deputado, já achou dinheiro em gaveta e jogado da janela",
+        "url": "https://www.acessa.com/politica/2026/01/304590-operacao-overclean-que-mira-deputado-ja-achou-dinheiro-em-gaveta-bota-e-jogado-da-janela-lembre.html",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Buscas na 1ª fase",
+      "valor": 43,
+      "unidade": "mandados",
+      "fonte": {
+        "nome": "Acessa.com, jan/2026: Operação Overclean, que mira deputado, já achou dinheiro em gaveta e jogado da janela",
+        "url": "https://www.acessa.com/politica/2026/01/304590-operacao-overclean-que-mira-deputado-ja-achou-dinheiro-em-gaveta-bota-e-jogado-da-janela-lembre.html",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Prisões preventivas na 1ª fase",
+      "valor": 17,
+      "unidade": "pessoas",
+      "fonte": {
+        "nome": "Acessa.com, jan/2026: Operação Overclean, que mira deputado, já achou dinheiro em gaveta e jogado da janela",
+        "url": "https://www.acessa.com/politica/2026/01/304590-operacao-overclean-que-mira-deputado-ja-achou-dinheiro-em-gaveta-bota-e-jogado-da-janela-lembre.html",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Bloqueio na 9ª fase (13/01/2026)",
+      "valor": 24,
+      "unidade": "R$ milhões",
+      "fonte": {
+        "nome": "Radar18, 13/01/2026: PF deflagra nona fase da Operação Overclean e mira deputado federal",
+        "url": "https://radar18.com.br/2026/01/13/pf-deflagra-nona-fase-da-operacao-overclean-e-mira-deputado-federal/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Dinheiro em gavetas de ex-prefeito de Paratinga (PT)",
+      "valor": 1,
+      "unidade": "R$ milhões (mais de)",
+      "fonte": {
+        "nome": "Acessa.com, jan/2026: Operação Overclean, que mira deputado, já achou dinheiro em gaveta e jogado da janela",
+        "url": "https://www.acessa.com/politica/2026/01/304590-operacao-overclean-que-mira-deputado-ja-achou-dinheiro-em-gaveta-bota-e-jogado-da-janela-lembre.html",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Fases até 13/01/2026",
+      "valor": 9,
+      "unidade": "fases",
+      "fonte": {
+        "nome": "Radar18, 13/01/2026: PF deflagra nona fase da Operação Overclean e mira deputado federal",
+        "url": "https://radar18.com.br/2026/01/13/pf-deflagra-nona-fase-da-operacao-overclean-e-mira-deputado-federal/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    }
+  ],
+  "partidos": [
+    {
+      "partido": "PDT",
+      "citados": null,
+      "denunciados": 0,
+      "condenados_1a_instancia": 0,
+      "condenados_definitivo": 0,
+      "condenacoes_anuladas": null,
+      "investigados_nomeados": [
+        "Félix Mendonça Jr. (deputado federal, BA; fases 4 e 9)"
+      ],
+      "fonte": {
+        "nome": "Acessa.com, jan/2026: Operação Overclean, que mira deputado, já achou dinheiro em gaveta e jogado da janela",
+        "url": "https://www.acessa.com/politica/2026/01/304590-operacao-overclean-que-mira-deputado-ja-achou-dinheiro-em-gaveta-bota-e-jogado-da-janela-lembre.html",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "nota": "Zeros indicam 'nenhum localizado nas fontes até out/2026'."
+    },
+    {
+      "partido": "União Brasil",
+      "citados": null,
+      "denunciados": 0,
+      "condenados_1a_instancia": 0,
+      "condenados_definitivo": 0,
+      "condenacoes_anuladas": null,
+      "investigados_nomeados": [
+        "Dal Barreto (deputado federal, BA; 6ª fase)",
+        "Elmo Nascimento e Francisquinho Nascimento (irmão e primo de Elmar Nascimento)"
+      ],
+      "citados_nomeados": [
+        "Elmar Nascimento (não é alvo)",
+        "Bruno Reis (prefeito de Salvador; sócio de investigado, negou relação)",
+        "Bruno Barral (ex-gestão ACM Neto; afastado em BH)"
+      ],
+      "fonte": {
+        "nome": "Acessa.com, jan/2026: Operação Overclean, que mira deputado, já achou dinheiro em gaveta e jogado da janela",
+        "url": "https://www.acessa.com/politica/2026/01/304590-operacao-overclean-que-mira-deputado-ja-achou-dinheiro-em-gaveta-bota-e-jogado-da-janela-lembre.html",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "nota": "Zeros indicam 'nenhum localizado nas fontes até out/2026'."
+    },
+    {
+      "partido": "PT",
+      "citados": null,
+      "denunciados": 0,
+      "condenados_1a_instancia": 0,
+      "condenados_definitivo": 0,
+      "condenacoes_anuladas": null,
+      "investigados_nomeados": [
+        "prefeito de Ibipitanga (afastado, 4ª fase)",
+        "ex-prefeito de Paratinga (>R$ 1 mi em gavetas)"
+      ],
+      "fonte": {
+        "nome": "Acessa.com, jan/2026: Operação Overclean, que mira deputado, já achou dinheiro em gaveta e jogado da janela",
+        "url": "https://www.acessa.com/politica/2026/01/304590-operacao-overclean-que-mira-deputado-ja-achou-dinheiro-em-gaveta-bota-e-jogado-da-janela-lembre.html",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "nota": "Nomes não constam nas notas. Zeros indicam 'nenhum localizado nas fontes'."
+    },
+    {
+      "partido": "PSB",
+      "citados": null,
+      "denunciados": 0,
+      "condenados_1a_instancia": 0,
+      "condenados_definitivo": 0,
+      "condenacoes_anuladas": null,
+      "investigados_nomeados": [
+        "prefeito de Boquira (afastado, 4ª fase)"
+      ],
+      "fonte": {
+        "nome": "Acessa.com, jan/2026: Operação Overclean, que mira deputado, já achou dinheiro em gaveta e jogado da janela",
+        "url": "https://www.acessa.com/politica/2026/01/304590-operacao-overclean-que-mira-deputado-ja-achou-dinheiro-em-gaveta-bota-e-jogado-da-janela-lembre.html",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "nota": "Nome não consta nas notas."
+    },
+    {
+      "partido": "PSD",
+      "citados": null,
+      "denunciados": 0,
+      "condenados_1a_instancia": 0,
+      "condenados_definitivo": 0,
+      "condenacoes_anuladas": null,
+      "investigados_nomeados": [
+        "prefeito de Riacho de Santana (afastado, 7ª fase)"
+      ],
+      "fonte": {
+        "nome": "Acessa.com, jan/2026: Operação Overclean, que mira deputado, já achou dinheiro em gaveta e jogado da janela",
+        "url": "https://www.acessa.com/politica/2026/01/304590-operacao-overclean-que-mira-deputado-ja-achou-dinheiro-em-gaveta-bota-e-jogado-da-janela-lembre.html",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "nota": "Nome não consta nas notas."
+    },
+    {
+      "partido": "MDB",
+      "citados": null,
+      "denunciados": 0,
+      "condenados_1a_instancia": 0,
+      "condenados_definitivo": 0,
+      "condenacoes_anuladas": null,
+      "investigados_nomeados": [
+        "prefeito de Wenceslau Guimarães (7ª fase)"
+      ],
+      "fonte": {
+        "nome": "Acessa.com, jan/2026: Operação Overclean, que mira deputado, já achou dinheiro em gaveta e jogado da janela",
+        "url": "https://www.acessa.com/politica/2026/01/304590-operacao-overclean-que-mira-deputado-ja-achou-dinheiro-em-gaveta-bota-e-jogado-da-janela-lembre.html",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "nota": "Nome não consta nas notas."
+    },
+    {
+      "partido": "Podemos",
+      "citados": null,
+      "denunciados": 0,
+      "condenados_1a_instancia": 0,
+      "condenados_definitivo": 0,
+      "condenacoes_anuladas": null,
+      "investigados_nomeados": [
+        "Luiz França (8ª fase)"
+      ],
+      "fonte": {
+        "nome": "Acessa.com, jan/2026: Operação Overclean, que mira deputado, já achou dinheiro em gaveta e jogado da janela",
+        "url": "https://www.acessa.com/politica/2026/01/304590-operacao-overclean-que-mira-deputado-ja-achou-dinheiro-em-gaveta-bota-e-jogado-da-janela-lembre.html",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "nota": "Zeros indicam 'nenhum localizado nas fontes'."
+    }
+  ],
+  "pessoas": [
+    {
+      "nome": "Lucas Lobão",
+      "partido_na_epoca": "não informado nas notas",
+      "cargo": "ex-dirigente do Dnocs na Bahia",
+      "crime": "não detalhado nas notas",
+      "tribunal": "STF (relator Nunes Marques)",
+      "data_condenacao": null,
+      "pena": null,
+      "status_atual": "Prisão preventiva na 1ª fase (dez/2024).",
+      "status_categoria": "investigado",
+      "url": "https://www.acessa.com/politica/2026/01/304590-operacao-overclean-que-mira-deputado-ja-achou-dinheiro-em-gaveta-bota-e-jogado-da-janela-lembre.html"
+    },
+    {
+      "nome": "Francisquinho Nascimento",
+      "partido_na_epoca": "não informado nas notas",
+      "cargo": "vereador; primo de Elmar Nascimento (União-BA)",
+      "crime": "não detalhado nas notas",
+      "tribunal": "STF (relator Nunes Marques)",
+      "data_condenacao": null,
+      "pena": null,
+      "status_atual": "Prisão preventiva na 1ª fase; teria jogado dinheiro pela janela durante a busca.",
+      "status_categoria": "investigado",
+      "url": "https://www.acessa.com/politica/2026/01/304590-operacao-overclean-que-mira-deputado-ja-achou-dinheiro-em-gaveta-bota-e-jogado-da-janela-lembre.html"
+    },
+    {
+      "nome": "Elmo Nascimento",
+      "partido_na_epoca": "não informado nas notas",
+      "cargo": "irmão de Elmar Nascimento",
+      "crime": "não detalhado nas notas",
+      "tribunal": "STF (relator Nunes Marques)",
+      "data_condenacao": null,
+      "pena": null,
+      "status_atual": "Alvo da 5ª fase (Codevasf/Campo Formoso).",
+      "status_categoria": "investigado",
+      "url": "https://www.acessa.com/politica/2026/01/304590-operacao-overclean-que-mira-deputado-ja-achou-dinheiro-em-gaveta-bota-e-jogado-da-janela-lembre.html"
+    },
+    {
+      "nome": "Elmar Nascimento",
+      "partido_na_epoca": "União Brasil-BA",
+      "cargo": "deputado federal",
+      "crime": "—",
+      "tribunal": "—",
+      "data_condenacao": null,
+      "pena": null,
+      "status_atual": "Não é alvo da operação; irmão e primo são alvos.",
+      "status_categoria": "nao-investigado",
+      "url": "https://www.acessa.com/politica/2026/01/304590-operacao-overclean-que-mira-deputado-ja-achou-dinheiro-em-gaveta-bota-e-jogado-da-janela-lembre.html"
+    },
+    {
+      "nome": "Marcelo Moreira",
+      "partido_na_epoca": "não informado nas notas",
+      "cargo": "ex-presidente da Codevasf",
+      "crime": "não detalhado nas notas",
+      "tribunal": "STF (relator Nunes Marques)",
+      "data_condenacao": null,
+      "pena": null,
+      "status_atual": "Alvo da 5ª fase.",
+      "status_categoria": "investigado",
+      "url": "https://www.acessa.com/politica/2026/01/304590-operacao-overclean-que-mira-deputado-ja-achou-dinheiro-em-gaveta-bota-e-jogado-da-janela-lembre.html"
+    },
+    {
+      "nome": "Bruno Barral",
+      "partido_na_epoca": "não informado nas notas (ex-gestão ACM Neto em Salvador)",
+      "cargo": "secretário municipal em Belo Horizonte",
+      "crime": "não detalhado nas notas",
+      "tribunal": "STF (relator Nunes Marques)",
+      "data_condenacao": null,
+      "pena": null,
+      "status_atual": "Afastado do cargo na 3ª fase.",
+      "status_categoria": "investigado",
+      "url": "https://www.acessa.com/politica/2026/01/304590-operacao-overclean-que-mira-deputado-ja-achou-dinheiro-em-gaveta-bota-e-jogado-da-janela-lembre.html"
+    },
+    {
+      "nome": "Bruno Reis",
+      "partido_na_epoca": "União Brasil",
+      "cargo": "prefeito de Salvador",
+      "crime": "—",
+      "tribunal": "—",
+      "data_condenacao": null,
+      "pena": null,
+      "status_atual": "Sócio de investigado; negou relação. Não há nas notas registro de que seja alvo.",
+      "status_categoria": "nao-investigado",
+      "url": "https://www.acessa.com/politica/2026/01/304590-operacao-overclean-que-mira-deputado-ja-achou-dinheiro-em-gaveta-bota-e-jogado-da-janela-lembre.html",
+      "nao_verificado": true
+    },
+    {
+      "nome": "Félix Mendonça Jr.",
+      "partido_na_epoca": "PDT-BA",
+      "cargo": "deputado federal",
+      "crime": "não detalhado nas notas (emendas)",
+      "tribunal": "STF (relator Nunes Marques)",
+      "data_condenacao": null,
+      "pena": null,
+      "status_atual": "Emendas alvo da 4ª fase; novas buscas na 9ª fase (13/01/2026), com bloqueio de R$ 24 mi.",
+      "status_categoria": "investigado",
+      "url": "https://radar18.com.br/2026/01/13/pf-deflagra-nona-fase-da-operacao-overclean-e-mira-deputado-federal/"
+    },
+    {
+      "nome": "Dal Barreto",
+      "partido_na_epoca": "União Brasil-BA",
+      "cargo": "deputado federal",
+      "crime": "não detalhado nas notas",
+      "tribunal": "STF (relator Nunes Marques)",
+      "data_condenacao": null,
+      "pena": null,
+      "status_atual": "Alvo da 6ª fase.",
+      "status_categoria": "investigado",
+      "url": "https://www.acessa.com/politica/2026/01/304590-operacao-overclean-que-mira-deputado-ja-achou-dinheiro-em-gaveta-bota-e-jogado-da-janela-lembre.html"
+    },
+    {
+      "nome": "Luiz França",
+      "partido_na_epoca": "Podemos",
+      "cargo": "não informado nas notas",
+      "crime": "não detalhado nas notas",
+      "tribunal": "STF (relator Nunes Marques)",
+      "data_condenacao": null,
+      "pena": null,
+      "status_atual": "Alvo da 8ª fase.",
+      "status_categoria": "investigado",
+      "url": "https://www.acessa.com/politica/2026/01/304590-operacao-overclean-que-mira-deputado-ja-achou-dinheiro-em-gaveta-bota-e-jogado-da-janela-lembre.html"
+    },
+    {
+      "nome": "Prefeitos de Ibipitanga (PT), Boquira (PSB), Riacho de Santana (PSD) e Wenceslau Guimarães (MDB); ex-prefeito de Paratinga (PT)",
+      "partido_na_epoca": "PT / PSB / PSD / MDB",
+      "cargo": "prefeitos e ex-prefeito",
+      "crime": "não detalhado nas notas",
+      "tribunal": "Justiça Federal / STF",
+      "data_condenacao": null,
+      "pena": null,
+      "status_atual": "Afastados (Ibipitanga, Boquira, Riacho de Santana) ou alvos; ex-prefeito de Paratinga com mais de R$ 1 mi em gavetas. Nomes não constam nas notas.",
+      "status_categoria": "investigado",
+      "url": "https://www.acessa.com/politica/2026/01/304590-operacao-overclean-que-mira-deputado-ja-achou-dinheiro-em-gaveta-bota-e-jogado-da-janela-lembre.html"
+    }
+  ],
+  "linha_do_tempo": [
+    {
+      "data": "2024-12",
+      "evento": "1ª fase: 43 buscas e 17 prisões preventivas (Lucas Lobão, Francisquinho Nascimento).",
+      "url": "https://www.acessa.com/politica/2026/01/304590-operacao-overclean-que-mira-deputado-ja-achou-dinheiro-em-gaveta-bota-e-jogado-da-janela-lembre.html"
+    },
+    {
+      "data": "2025",
+      "evento": "Fases 2 a 8: afastamento de Bruno Barral (3ª); emendas de Félix Mendonça Jr. e prefeitos de Ibipitanga e Boquira afastados (4ª); Codevasf/Campo Formoso, Elmo Nascimento e Marcelo Moreira (5ª); Dal Barreto (6ª); prefeitos de Riacho de Santana e Wenceslau Guimarães (7ª); Luiz França (8ª). Datas exatas não constam nas notas.",
+      "url": "https://www.acessa.com/politica/2026/01/304590-operacao-overclean-que-mira-deputado-ja-achou-dinheiro-em-gaveta-bota-e-jogado-da-janela-lembre.html"
+    },
+    {
+      "data": "2026-01-13",
+      "evento": "9ª fase: novas buscas contra Félix Mendonça Jr. e bloqueio de R$ 24 mi.",
+      "url": "https://radar18.com.br/2026/01/13/pf-deflagra-nona-fase-da-operacao-overclean-e-mira-deputado-federal/"
+    }
+  ],
+  "o_que_dizem_os_dois_lados": {
+    "acusacao": "A PF aponta um esquema de desvio de emendas e convênios do Dnocs e da Codevasf na Bahia, com ~R$ 1,4 bi movimentados, dinheiro em espécie encontrado em gavetas, botas e jogado pela janela, alcançando deputados de PDT e União Brasil e prefeitos de vários partidos.",
+    "defesa": "Elmar Nascimento não é alvo; Bruno Reis negou relação com o investigado de quem é sócio; os parlamentares investigados não foram denunciados. As notas não registram as manifestações de defesa de Félix Mendonça Jr. e Dal Barreto."
+  },
+  "status_atual_md": "Investigação em curso (9 fases até jan/2026), relatoria de Nunes Marques no STF. **Nenhuma denúncia da PGR localizada.** Investigados distribuídos entre PDT, União Brasil, PT, PSB, PSD, MDB e Podemos.",
+  "lacunas": [
+    "Não localizadas denúncias da PGR decorrentes da Overclean.",
+    "Datas exatas das fases 2 a 8 e nomes dos prefeitos investigados não constam nas notas.",
+    "Período dos fatos (convênios/emendas) não detalhado; 'governos_em_que_ocorreram_os_fatos' ficou vazio.",
+    "Fases posteriores a jan/2026 não cobertas.",
+    "Teses de defesa dos deputados investigados não constam nas notas."
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/05_escandalos_recentes_inss_master_bolsonaro.md",
+  "fontes": [
+    {
+      "nome": "Acessa.com, jan/2026: Operação Overclean, que mira deputado, já achou dinheiro em gaveta e jogado da janela",
+      "url": "https://www.acessa.com/politica/2026/01/304590-operacao-overclean-que-mira-deputado-ja-achou-dinheiro-em-gaveta-bota-e-jogado-da-janela-lembre.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Radar18, 13/01/2026: PF deflagra nona fase da Operação Overclean e mira deputado federal",
+      "url": "https://radar18.com.br/2026/01/13/pf-deflagra-nona-fase-da-operacao-overclean-e-mira-deputado-federal/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "atualizado_em": "2026-10-21",
+  "convencoes": [
+    "citado: nome aparece em delação, planilha, relatório de CPI ou reportagem, sem ato formal de investigação.",
+    "investigado: alvo de inquérito, busca, prisão temporária/preventiva ou indiciamento pela PF (indiciamento não é denúncia).",
+    "denunciado: PGR/MPF ofereceu denúncia; réu: a denúncia foi recebida pelo tribunal.",
+    "condenado-1a / condenado-2a: decisão de mérito ainda sujeita a recurso. Para condenações pelo STF em instância única sem trânsito em julgado confirmado nas notas, usa-se condenado-1a com explicação em status_atual.",
+    "condenado-definitivo: trânsito em julgado confirmado nas notas; cumprindo-pena / pena-cumprida quando as notas informam a execução.",
+    "anulada: condenação ou provas anuladas por nulidade (competência, parcialidade, prova ilícita), sem exame de mérito; absolvido: decisão de mérito favorável; arquivado: inquérito/denúncia encerrada sem mérito; prescrito: punibilidade extinta pelo tempo.",
+    "Pedido de indiciamento por CPI/CPMI não é indiciamento policial nem denúncia: é recomendação ao Ministério Público."
+  ]
+}

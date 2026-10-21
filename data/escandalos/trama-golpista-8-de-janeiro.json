@@ -1,0 +1,657 @@
+{
+  "id": "trama-golpista-8-de-janeiro",
+  "nome": "Trama golpista (AP 2668), 8 de janeiro e Lei da Dosimetria",
+  "periodo": {
+    "inicio": "2022",
+    "fim": null,
+    "nota": "Fatos ligados ao fim do governo Bolsonaro e ao 8 de janeiro de 2023; julgamentos de 2023 a 2026; Lei da Dosimetria suspensa pelo STF desde 09/05/2026."
+  },
+  "governos_em_que_ocorreram_os_fatos": [
+    "bolsonaro",
+    "lula-3"
+  ],
+  "governos_em_que_foi_investigado": [
+    "lula-3"
+  ],
+  "resumo_simples": [
+    "Em 11/09/2025 a 1ª Turma do STF condenou Jair Bolsonaro a 27 anos e 3 meses (4 a 1) por tentativa de golpe de Estado e outros 4 crimes, com multa de R$ 376 mil; o trânsito em julgado ocorreu em 25/11/2025. Co-réus do núcleo 1: Braga Netto, Augusto Heleno, Almir Garnier, Paulo Sérgio Nogueira, Anderson Torres, Mauro Cid e Alexandre Ramagem (16 anos, 1 mês e 15 dias). Os 8 foram declarados inelegíveis por 8 anos.",
+    "Bolsonaro está preso desde 22/11/2025 (tentou romper a tornozeleira): PF, depois Papudinha (15/01/2026) e prisão domiciliar por razões de saúde desde 24/03/2026, mantida por prazo indeterminado em 03/07/2026, com proibição de visitas e manifestações político-eleitorais. Já era inelegível até 2030 pelo TSE (30/06/2023).",
+    "Pelo 8 de janeiro, o STF contabiliza 1.402 condenados (431 a prisão, 419 a penas alternativas, 552 acordos de não persecução penal); 190 presos em abr/2026.",
+    "A Lei da Dosimetria (Lei 15.402/2026), que reduz penas sem anistiar, foi aprovada em dez/2025, vetada por Lula (08/01/2026), teve o veto derrubado (30/04/2026) e foi promulgada em 08/05/2026 — mas Moraes suspendeu sua aplicação em 09/05/2026 (ADIs 7966/7967), sem julgamento de mérito até out/2026. Eduardo Bolsonaro foi condenado a 4 anos e 2 meses por coação (16/06/2026) e a 1 ano por difamação (25/09/2026); Ramagem fugiu para os EUA e pediu asilo."
+  ],
+  "valores": [
+    {
+      "rotulo": "Pena de Jair Bolsonaro (AP 2668)",
+      "valor": 27.25,
+      "unidade": "anos (27 anos e 3 meses)",
+      "fonte": {
+        "nome": "CNN Brasil: Jair Bolsonaro completa um ano preso — principais acontecimentos",
+        "url": "https://www.cnnbrasil.com.br/politica/jair-bolsonaro-completa-um-ano-preso-relembre-os-principais-acontecimentos/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Multa de Jair Bolsonaro",
+      "valor": 376,
+      "unidade": "R$ mil",
+      "fonte": {
+        "nome": "CNN Brasil: Jair Bolsonaro completa um ano preso — principais acontecimentos",
+        "url": "https://www.cnnbrasil.com.br/politica/jair-bolsonaro-completa-um-ano-preso-relembre-os-principais-acontecimentos/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Placar da condenação na 1ª Turma",
+      "valor": 4,
+      "unidade": "votos (contra 1, Fux)",
+      "fonte": {
+        "nome": "CNN Brasil: Jair Bolsonaro completa um ano preso — principais acontecimentos",
+        "url": "https://www.cnnbrasil.com.br/politica/jair-bolsonaro-completa-um-ano-preso-relembre-os-principais-acontecimentos/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Condenados do núcleo 1 declarados inelegíveis por 8 anos",
+      "valor": 8,
+      "unidade": "pessoas",
+      "fonte": {
+        "nome": "CNN Brasil: Jair Bolsonaro completa um ano preso — principais acontecimentos",
+        "url": "https://www.cnnbrasil.com.br/politica/jair-bolsonaro-completa-um-ano-preso-relembre-os-principais-acontecimentos/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Condenados pelo 8 de janeiro (balanço STF, abr/2026)",
+      "valor": 1402,
+      "unidade": "pessoas",
+      "fonte": {
+        "nome": "Agência Brasil, 30/04/2026: entenda como o PL da Dosimetria pode beneficiar condenados pelo 8/1",
+        "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-04/entenda-como-o-pl-da-dosimetria-pode-beneficiar-condenados-pelo-81",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "8/1 — penas de prisão",
+      "valor": 431,
+      "unidade": "pessoas",
+      "fonte": {
+        "nome": "Agência Brasil, 30/04/2026: entenda como o PL da Dosimetria pode beneficiar condenados pelo 8/1",
+        "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-04/entenda-como-o-pl-da-dosimetria-pode-beneficiar-condenados-pelo-81",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "8/1 — penas alternativas",
+      "valor": 419,
+      "unidade": "pessoas",
+      "fonte": {
+        "nome": "Agência Brasil, 30/04/2026: entenda como o PL da Dosimetria pode beneficiar condenados pelo 8/1",
+        "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-04/entenda-como-o-pl-da-dosimetria-pode-beneficiar-condenados-pelo-81",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "8/1 — acordos de não persecução penal",
+      "valor": 552,
+      "unidade": "acordos",
+      "fonte": {
+        "nome": "Agência Brasil, 30/04/2026: entenda como o PL da Dosimetria pode beneficiar condenados pelo 8/1",
+        "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-04/entenda-como-o-pl-da-dosimetria-pode-beneficiar-condenados-pelo-81",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "8/1 — réus com pena de 1 ano",
+      "valor": 404,
+      "unidade": "pessoas (28,82%)",
+      "fonte": {
+        "nome": "Agência Brasil, 30/04/2026: entenda como o PL da Dosimetria pode beneficiar condenados pelo 8/1",
+        "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-04/entenda-como-o-pl-da-dosimetria-pode-beneficiar-condenados-pelo-81",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "8/1 — condenações a 14 anos",
+      "valor": 213,
+      "unidade": "pessoas (15,19%)",
+      "fonte": {
+        "nome": "Agência Brasil, 30/04/2026: entenda como o PL da Dosimetria pode beneficiar condenados pelo 8/1",
+        "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-04/entenda-como-o-pl-da-dosimetria-pode-beneficiar-condenados-pelo-81",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "8/1 — presos (abr/2026)",
+      "valor": 190,
+      "unidade": "pessoas (169 pena definitiva, 21 provisória)",
+      "fonte": {
+        "nome": "Agência Brasil, 30/04/2026: entenda como o PL da Dosimetria pode beneficiar condenados pelo 8/1",
+        "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-04/entenda-como-o-pl-da-dosimetria-pode-beneficiar-condenados-pelo-81",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Beneficiários estimados da Lei da Dosimetria (Asfav)",
+      "valor": 600,
+      "unidade": "pessoas (150 fechado, 70 domiciliar, 380 cautelares)",
+      "fonte": {
+        "nome": "Revista Oeste: PL da Dosimetria pode beneficiar 600 condenados pelo 8 de janeiro, diz associação",
+        "url": "https://revistaoeste.com/politica/pl-da-dosimetria-pode-beneficiar-600-condenados-pelo-8-de-janeiro-diz-associacao/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "nota": "Estimativa de associação de familiares, não oficial."
+    },
+    {
+      "rotulo": "Lei da Dosimetria — Câmara (10/12/2025)",
+      "valor": 291,
+      "unidade": "votos (contra 148)",
+      "fonte": {
+        "nome": "Wikipédia pt, Lei da Dosimetria (índice)",
+        "url": "https://pt.wikipedia.org/wiki/Lei_da_Dosimetria",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Lei da Dosimetria — Senado (17/12/2025)",
+      "valor": 48,
+      "unidade": "votos (contra 25)",
+      "fonte": {
+        "nome": "Wikipédia pt, Lei da Dosimetria (índice)",
+        "url": "https://pt.wikipedia.org/wiki/Lei_da_Dosimetria",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Derrubada do veto — Câmara (30/04/2026)",
+      "valor": 318,
+      "unidade": "votos (contra 144)",
+      "fonte": {
+        "nome": "Migalhas: Congresso derruba veto de Lula ao PL da Dosimetria",
+        "url": "https://www.migalhas.com.br/quentes/455046/congresso-derruba-veto-de-lula-ao-pl-da-dosimetria",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Derrubada do veto — Senado (30/04/2026)",
+      "valor": 49,
+      "unidade": "votos (contra 24)",
+      "fonte": {
+        "nome": "Migalhas: Congresso derruba veto de Lula ao PL da Dosimetria",
+        "url": "https://www.migalhas.com.br/quentes/455046/congresso-derruba-veto-de-lula-ao-pl-da-dosimetria",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Quaest (17/05/2026): contra a redução de penas",
+      "valor": 52,
+      "unidade": "% (39% a favor)",
+      "fonte": {
+        "nome": "Wikipédia pt, Lei da Dosimetria (índice)",
+        "url": "https://pt.wikipedia.org/wiki/Lei_da_Dosimetria",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Pena de Eduardo Bolsonaro por coação (16/06/2026)",
+      "valor": 4.17,
+      "unidade": "anos (4 anos e 2 meses, semiaberto)",
+      "fonte": {
+        "nome": "Wikipédia pt, Eduardo Bolsonaro (índice)",
+        "url": "https://pt.wikipedia.org/wiki/Eduardo_Bolsonaro",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Multa de Eduardo Bolsonaro (coação)",
+      "valor": 162,
+      "unidade": "R$ mil (50 dias-multa)",
+      "fonte": {
+        "nome": "Wikipédia pt, Eduardo Bolsonaro (índice)",
+        "url": "https://pt.wikipedia.org/wiki/Eduardo_Bolsonaro",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "nota": "Aproximado."
+    },
+    {
+      "rotulo": "Pena de Alexandre Ramagem (AP 2668)",
+      "valor": 16.13,
+      "unidade": "anos (16 anos, 1 mês e 15 dias)",
+      "fonte": {
+        "nome": "Diário de Pernambuco, 11/09/2025: ex-diretor da Abin Alexandre Ramagem é condenado a 16 anos",
+        "url": "https://www.diariodepernambuco.com.br/politica/2025/09/11695625-ex-diretor-da-abin-alexandre-ramagem-e-condenado-a-16-anos-de-prisao.html",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    }
+  ],
+  "partidos": [
+    {
+      "partido": "PL e ex-integrantes do governo Bolsonaro (núcleo 1 da AP 2668)",
+      "citados": null,
+      "denunciados": 8,
+      "condenados_1a_instancia": null,
+      "condenados_definitivo": 8,
+      "condenacoes_anuladas": 0,
+      "nomes": [
+        "Jair Bolsonaro",
+        "Walter Braga Netto",
+        "Augusto Heleno",
+        "Almir Garnier",
+        "Paulo Sérgio Nogueira",
+        "Anderson Torres",
+        "Mauro Cid",
+        "Alexandre Ramagem"
+      ],
+      "fonte": {
+        "nome": "Poder360: STF determina perda do mandato de Ramagem",
+        "url": "https://www.poder360.com.br/poder-justica/stf-determina-perda-do-mandato-de-ramagem/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "nota": "Trânsito em julgado confirmado nas notas para Bolsonaro e Ramagem (25/11/2025); para os demais, inferido do fato de a Lei da Dosimetria (que vale para sentença definitiva) ser apontada como aplicável a eles. Filiação partidária dos militares não informada nas notas.",
+      "nao_verificado": true
+    },
+    {
+      "partido": "PL (Eduardo Bolsonaro)",
+      "citados": null,
+      "denunciados": 1,
+      "condenados_1a_instancia": 1,
+      "condenados_definitivo": null,
+      "condenacoes_anuladas": 0,
+      "nomes": [
+        "Eduardo Bolsonaro (coação, 4a2m; difamação, 1 ano)"
+      ],
+      "fonte": {
+        "nome": "Wikipédia pt, Eduardo Bolsonaro (índice)",
+        "url": "https://pt.wikipedia.org/wiki/Eduardo_Bolsonaro",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "nota": "Embargos rejeitados em 18/09/2026; trânsito em julgado não confirmado nas notas."
+    },
+    {
+      "partido": "Sem filiação informada (8 de janeiro, 1.402 condenados)",
+      "citados": null,
+      "denunciados": null,
+      "condenados_1a_instancia": null,
+      "condenados_definitivo": 1402,
+      "condenacoes_anuladas": null,
+      "fonte": {
+        "nome": "Agência Brasil, 30/04/2026: entenda como o PL da Dosimetria pode beneficiar condenados pelo 8/1",
+        "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-04/entenda-como-o-pl-da-dosimetria-pode-beneficiar-condenados-pelo-81",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "nota": "Balanço do STF (abr/2026) inclui 552 acordos de não persecução penal; 169 presos com pena definitiva e 21 provisórios."
+    }
+  ],
+  "pessoas": [
+    {
+      "nome": "Jair Bolsonaro",
+      "partido_na_epoca": "PL",
+      "cargo": "ex-presidente da República (2019–2022)",
+      "crime": "tentativa de golpe de Estado e outros 4 crimes (AP 2668)",
+      "tribunal": "STF, 1ª Turma (relator Alexandre de Moraes)",
+      "data_condenacao": "2025-09-11",
+      "pena": "27 anos e 3 meses + multa de R$ 376 mil; inelegível por 8 anos (Ficha Limpa)",
+      "status_atual": "Trânsito em julgado em 25/11/2025. Tornozeleira e recolhimento noturno desde 18/07/2025; domiciliar preventiva em 03–04/08/2025; preso em 22/11/2025 após tentar romper a tornozeleira (PF em Brasília); cirurgias em 25 e 29/12/2025; Papudinha em 15/01/2026; domiciliar temporária em 24/03/2026 (90 dias), mantida por prazo indeterminado em 03/07/2026, com proibição de visitas e manifestações político-eleitorais até o fim das eleições de 2026. Já inelegível até 2030 pelo TSE (30/06/2023). Apoiou a candidatura de Flávio em 2026.",
+      "status_categoria": "cumprindo-pena",
+      "url": "https://www.cnnbrasil.com.br/politica/jair-bolsonaro-completa-um-ano-preso-relembre-os-principais-acontecimentos/"
+    },
+    {
+      "nome": "Alexandre Ramagem",
+      "partido_na_epoca": "PL-RJ",
+      "cargo": "deputado federal; ex-diretor-geral da Abin",
+      "crime": "organização criminosa armada (5 anos), abolição violenta do Estado democrático de direito (4a3m15d) e golpe de Estado (7 anos); crimes de dano ficaram fora porque a Câmara suspendeu a ação quanto a fatos pós-diplomação",
+      "tribunal": "STF, 1ª Turma",
+      "data_condenacao": "2025-09-11",
+      "pena": "16 anos, 1 mês e 15 dias; perda do cargo de delegado e do mandato (Fux divergiu)",
+      "status_atual": "Trânsito em julgado em 25/11/2025; demitido da PF em 03/12/2025; mandato cassado pela Mesa da Câmara em 18/12/2025. Saiu clandestinamente pela Guiana (set/2025 segundo a PF; público em nov/2025); detido pelo ICE em Orlando em 13/04/2026, solto em 15/04/2026 e pediu asilo nos EUA. Foragido. PGR pediu sua condenação também na AP 2737 (8/1); depôs por vídeo em fev/2026.",
+      "status_categoria": "condenado-definitivo",
+      "url": "https://pt.wikipedia.org/wiki/Alexandre_Ramagem"
+    },
+    {
+      "nome": "Walter Braga Netto",
+      "partido_na_epoca": "PL (candidato a vice em 2022)",
+      "cargo": "general; ex-ministro da Defesa e da Casa Civil",
+      "crime": "tentativa de golpe e crimes conexos (AP 2668)",
+      "tribunal": "STF, 1ª Turma",
+      "data_condenacao": "2025-09-11",
+      "pena": "não informada nas notas",
+      "status_atual": "Condenado pela 1ª Turma do STF em 11/09/2025 (AP 2668, núcleo 1; 4 a 1, Fux divergindo). Pena individual e local de prisão não constam nas notas; trânsito em julgado não confirmado individualmente (a Agência Brasil lista o nome entre potenciais beneficiários da Lei da Dosimetria, que vale para sentença definitiva). Declarado inelegível por 8 anos (Ficha Limpa). Fux condenou apenas Cid e Braga Netto.",
+      "status_categoria": "condenado-definitivo",
+      "url": "https://www.poder360.com.br/poder-justica/stf-determina-perda-do-mandato-de-ramagem/",
+      "nao_verificado": true
+    },
+    {
+      "nome": "Augusto Heleno",
+      "partido_na_epoca": "não informado nas notas",
+      "cargo": "general; ex-ministro do GSI",
+      "crime": "tentativa de golpe e crimes conexos (AP 2668)",
+      "tribunal": "STF, 1ª Turma",
+      "data_condenacao": "2025-09-11",
+      "pena": "não informada nas notas",
+      "status_atual": "Condenado pela 1ª Turma do STF em 11/09/2025 (AP 2668, núcleo 1; 4 a 1, Fux divergindo). Pena individual e local de prisão não constam nas notas; trânsito em julgado não confirmado individualmente (a Agência Brasil lista o nome entre potenciais beneficiários da Lei da Dosimetria, que vale para sentença definitiva). Declarado inelegível por 8 anos (Ficha Limpa).",
+      "status_categoria": "condenado-definitivo",
+      "url": "https://www.poder360.com.br/poder-justica/stf-determina-perda-do-mandato-de-ramagem/",
+      "nao_verificado": true
+    },
+    {
+      "nome": "Almir Garnier",
+      "partido_na_epoca": "não informado nas notas",
+      "cargo": "almirante; ex-comandante da Marinha",
+      "crime": "tentativa de golpe e crimes conexos (AP 2668)",
+      "tribunal": "STF, 1ª Turma",
+      "data_condenacao": "2025-09-11",
+      "pena": "não informada nas notas",
+      "status_atual": "Condenado pela 1ª Turma do STF em 11/09/2025 (AP 2668, núcleo 1; 4 a 1, Fux divergindo). Pena individual e local de prisão não constam nas notas; trânsito em julgado não confirmado individualmente (a Agência Brasil lista o nome entre potenciais beneficiários da Lei da Dosimetria, que vale para sentença definitiva). Declarado inelegível por 8 anos (Ficha Limpa).",
+      "status_categoria": "condenado-definitivo",
+      "url": "https://www.poder360.com.br/poder-justica/stf-determina-perda-do-mandato-de-ramagem/",
+      "nao_verificado": true
+    },
+    {
+      "nome": "Paulo Sérgio Nogueira",
+      "partido_na_epoca": "não informado nas notas",
+      "cargo": "general; ex-ministro da Defesa",
+      "crime": "tentativa de golpe e crimes conexos (AP 2668)",
+      "tribunal": "STF, 1ª Turma",
+      "data_condenacao": "2025-09-11",
+      "pena": "não informada nas notas",
+      "status_atual": "Condenado pela 1ª Turma do STF em 11/09/2025 (AP 2668, núcleo 1; 4 a 1, Fux divergindo). Pena individual e local de prisão não constam nas notas; trânsito em julgado não confirmado individualmente (a Agência Brasil lista o nome entre potenciais beneficiários da Lei da Dosimetria, que vale para sentença definitiva). Declarado inelegível por 8 anos (Ficha Limpa).",
+      "status_categoria": "condenado-definitivo",
+      "url": "https://www.poder360.com.br/poder-justica/stf-determina-perda-do-mandato-de-ramagem/",
+      "nao_verificado": true
+    },
+    {
+      "nome": "Anderson Torres",
+      "partido_na_epoca": "não informado nas notas",
+      "cargo": "ex-ministro da Justiça; ex-secretário de Segurança do DF",
+      "crime": "tentativa de golpe e crimes conexos (AP 2668)",
+      "tribunal": "STF, 1ª Turma",
+      "data_condenacao": "2025-09-11",
+      "pena": "não informada nas notas",
+      "status_atual": "Condenado pela 1ª Turma do STF em 11/09/2025 (AP 2668, núcleo 1; 4 a 1, Fux divergindo). Pena individual e local de prisão não constam nas notas; trânsito em julgado não confirmado individualmente (a Agência Brasil lista o nome entre potenciais beneficiários da Lei da Dosimetria, que vale para sentença definitiva). Declarado inelegível por 8 anos (Ficha Limpa).",
+      "status_categoria": "condenado-definitivo",
+      "url": "https://www.poder360.com.br/poder-justica/stf-determina-perda-do-mandato-de-ramagem/",
+      "nao_verificado": true
+    },
+    {
+      "nome": "Mauro Cid",
+      "partido_na_epoca": "não informado nas notas",
+      "cargo": "tenente-coronel; ex-ajudante de ordens de Bolsonaro (delator)",
+      "crime": "tentativa de golpe e crimes conexos (AP 2668)",
+      "tribunal": "STF, 1ª Turma",
+      "data_condenacao": "2025-09-11",
+      "pena": "não informada nas notas",
+      "status_atual": "Condenado pela 1ª Turma do STF em 11/09/2025 (AP 2668, núcleo 1; 4 a 1, Fux divergindo). Pena individual e local de prisão não constam nas notas; trânsito em julgado não confirmado individualmente (a Agência Brasil lista o nome entre potenciais beneficiários da Lei da Dosimetria, que vale para sentença definitiva). Declarado inelegível por 8 anos (Ficha Limpa). Delator; Fux condenou apenas Cid e Braga Netto.",
+      "status_categoria": "condenado-definitivo",
+      "url": "https://www.poder360.com.br/poder-justica/stf-determina-perda-do-mandato-de-ramagem/",
+      "nao_verificado": true
+    },
+    {
+      "nome": "Eduardo Bolsonaro",
+      "partido_na_epoca": "PL-SP",
+      "cargo": "deputado federal (mandato perdido em 18/12/2025); nos EUA desde mar/2025",
+      "crime": "coação no curso do processo (art. 344 CP) — articulação nos EUA de sanções contra ministros do STF",
+      "tribunal": "STF, 1ª Turma",
+      "data_condenacao": "2026-06-16",
+      "pena": "4 anos e 2 meses (semiaberto), 50 dias-multa (~R$ 162 mil) e 12 anos de inelegibilidade (até 2038)",
+      "status_atual": "Denunciado pela PGR em 22/09/2025 com Paulo Figueiredo; denúncia recebida por unanimidade em 14/11/2025; condenado em 16/06/2026 (contagem de votos não localizada); embargos rejeitados por unanimidade em 18/09/2026; trânsito em julgado não confirmado nas notas (classificado como condenado-1a por convenção). Moraes bloqueou seus bens em 21/07/2025; Mesa da Câmara declarou perda do mandato por faltas e cancelou o passaporte diplomático (18/12/2025); demitido da PF em 21/09/2026 (abandono de cargo). Investigado também no inquérito Dark Horse (ver banco-master).",
+      "status_categoria": "condenado-1a",
+      "url": "https://pt.wikipedia.org/wiki/Eduardo_Bolsonaro",
+      "caso": "Coação"
+    },
+    {
+      "nome": "Eduardo Bolsonaro",
+      "partido_na_epoca": "PL-SP",
+      "cargo": "ex-deputado federal",
+      "crime": "difamação contra a deputada Tabata Amaral",
+      "tribunal": "STF",
+      "data_condenacao": "2026-09-25",
+      "pena": "1 ano de detenção e multa superior a R$ 80 mil",
+      "status_atual": "Condenado por 7 a 3 em 25/09/2026; trânsito em julgado não informado.",
+      "status_categoria": "condenado-1a",
+      "url": "https://pt.wikipedia.org/wiki/Eduardo_Bolsonaro",
+      "caso": "Difamação",
+      "nao_verificado": true
+    },
+    {
+      "nome": "Paulo Figueiredo",
+      "partido_na_epoca": "sem partido (comentarista)",
+      "cargo": "comentarista, neto do ex-presidente João Figueiredo",
+      "crime": "coação no curso do processo (art. 344 CP)",
+      "tribunal": "STF, 1ª Turma",
+      "data_condenacao": null,
+      "pena": null,
+      "status_atual": "Denunciado com Eduardo Bolsonaro em 22/09/2025; denúncia recebida em 14/11/2025. Desfecho em relação a ele não detalhado nas notas.",
+      "status_categoria": "reu",
+      "url": "https://www.congressoemfoco.com.br/noticia/114232/1-turma-aceita-denuncia-e-eduardo-bolsonaro-vira-reu-por-coacao",
+      "nao_verificado": true
+    }
+  ],
+  "linha_do_tempo": [
+    {
+      "data": "2023-01-08",
+      "evento": "Invasão das sedes dos Três Poderes em Brasília (origem das ações penais do 8/1).",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-04/entenda-como-o-pl-da-dosimetria-pode-beneficiar-condenados-pelo-81"
+    },
+    {
+      "data": "2023-06-30",
+      "evento": "TSE declara Bolsonaro inelegível até 2030 por abuso de poder político e uso indevido dos meios de comunicação.",
+      "url": "https://en.wikipedia.org/wiki/2026_Brazilian_general_election"
+    },
+    {
+      "data": "2025-03-18",
+      "evento": "Eduardo Bolsonaro tira licença da Câmara e se muda para os EUA.",
+      "url": "https://pt.wikipedia.org/wiki/Eduardo_Bolsonaro"
+    },
+    {
+      "data": "2025-07-09",
+      "evento": "Trump anuncia tarifa de 50% sobre o Brasil; em jul/2025 os EUA revogam vistos de ministros do STF; Moraes bloqueia bens de Eduardo (21/07) e impõe tornozeleira a Bolsonaro (18/07).",
+      "url": "https://pt.wikipedia.org/wiki/Eduardo_Bolsonaro"
+    },
+    {
+      "data": "2025-08-04",
+      "evento": "Bolsonaro em prisão domiciliar preventiva após áudio em ato em Copacabana.",
+      "url": "https://www.cnnbrasil.com.br/politica/jair-bolsonaro-completa-um-ano-preso-relembre-os-principais-acontecimentos/"
+    },
+    {
+      "data": "2025-09-11",
+      "evento": "1ª Turma do STF condena Bolsonaro a 27a3m e Ramagem a 16a1m15d; demais réus do núcleo 1 condenados; Fux diverge (condena só Cid e Braga Netto).",
+      "url": "https://www.cnnbrasil.com.br/politica/jair-bolsonaro-completa-um-ano-preso-relembre-os-principais-acontecimentos/"
+    },
+    {
+      "data": "2025-09-22",
+      "evento": "PGR denuncia Eduardo Bolsonaro e Paulo Figueiredo por coação; 1ª Turma recebe a denúncia em 14/11/2025.",
+      "url": "https://www.congressoemfoco.com.br/noticia/114232/1-turma-aceita-denuncia-e-eduardo-bolsonaro-vira-reu-por-coacao"
+    },
+    {
+      "data": "2025-11-22",
+      "evento": "Bolsonaro tenta romper a tornozeleira; Moraes revoga a domiciliar e o transfere à PF. Ramagem é visto nos EUA (21/11).",
+      "url": "https://www.cnnbrasil.com.br/politica/jair-bolsonaro-completa-um-ano-preso-relembre-os-principais-acontecimentos/"
+    },
+    {
+      "data": "2025-11-25",
+      "evento": "Trânsito em julgado da AP 2668 para Bolsonaro e Ramagem; início do cumprimento da pena.",
+      "url": "https://www.cnnbrasil.com.br/politica/jair-bolsonaro-completa-um-ano-preso-relembre-os-principais-acontecimentos/"
+    },
+    {
+      "data": "2025-12-10",
+      "evento": "Câmara aprova o PL da Dosimetria (291x148); Senado aprova em 17/12 (48x25).",
+      "url": "https://pt.wikipedia.org/wiki/Lei_da_Dosimetria"
+    },
+    {
+      "data": "2025-12-18",
+      "evento": "Mesa da Câmara declara a perda dos mandatos de Eduardo Bolsonaro (faltas) e de Ramagem.",
+      "url": "https://pt.wikipedia.org/wiki/Alexandre_Ramagem"
+    },
+    {
+      "data": "2026-01-08",
+      "evento": "Lula veta integralmente o PL da Dosimetria.",
+      "url": "https://pt.wikipedia.org/wiki/Lei_da_Dosimetria"
+    },
+    {
+      "data": "2026-01-15",
+      "evento": "Bolsonaro transferido à Papudinha (assistência médica 24h).",
+      "url": "https://www.cnnbrasil.com.br/politica/jair-bolsonaro-completa-um-ano-preso-relembre-os-principais-acontecimentos/"
+    },
+    {
+      "data": "2026-03-24",
+      "evento": "Bolsonaro obtém prisão domiciliar temporária por 90 dias (proibidas visitas e conversas políticas).",
+      "url": "https://www.cnnbrasil.com.br/politica/jair-bolsonaro-completa-um-ano-preso-relembre-os-principais-acontecimentos/"
+    },
+    {
+      "data": "2026-04-13",
+      "evento": "Ramagem detido pelo ICE em Orlando; solto em 15/04 e pede asilo.",
+      "url": "https://pt.wikipedia.org/wiki/Alexandre_Ramagem"
+    },
+    {
+      "data": "2026-04-30",
+      "evento": "Congresso derruba o veto (Câmara 318x144; Senado 49x24); STF divulga balanço: 1.402 condenados pelo 8/1.",
+      "url": "https://www.migalhas.com.br/quentes/455046/congresso-derruba-veto-de-lula-ao-pl-da-dosimetria"
+    },
+    {
+      "data": "2026-05-08",
+      "evento": "Alcolumbre promulga a Lei 15.402/2026 após Lula deixar o prazo passar; em 09/05 Moraes suspende a lei (ADIs 7966/7967).",
+      "url": "https://pt.wikipedia.org/wiki/Lei_da_Dosimetria"
+    },
+    {
+      "data": "2026-06-16",
+      "evento": "1ª Turma condena Eduardo Bolsonaro a 4a2m por coação.",
+      "url": "https://pt.wikipedia.org/wiki/Eduardo_Bolsonaro"
+    },
+    {
+      "data": "2026-07-03",
+      "evento": "Domiciliar de Bolsonaro mantida por prazo indeterminado, com retorno ao fechado em caso de descumprimento.",
+      "url": "https://www.cnnbrasil.com.br/politica/jair-bolsonaro-completa-um-ano-preso-relembre-os-principais-acontecimentos/"
+    },
+    {
+      "data": "2026-08-03",
+      "evento": "Julgamento de mérito das ADIs sobre a Lei da Dosimetria ainda sem data.",
+      "url": "https://revistaforum.com.br/politica/stf-dosimetria-anistia-golpistas/"
+    },
+    {
+      "data": "2026-09-18",
+      "evento": "Embargos de Eduardo rejeitados por unanimidade; demitido da PF em 21/09; condenado por difamação (7x3) em 25/09/2026.",
+      "url": "https://pt.wikipedia.org/wiki/Eduardo_Bolsonaro"
+    }
+  ],
+  "o_que_dizem_os_dois_lados": {
+    "acusacao": "PGR e a maioria da 1ª Turma (Moraes, Dino, Cármen Lúcia, Zanin) concluíram que houve organização criminosa armada e tentativa de golpe, com penas de 27a3m para Bolsonaro e 16a1m15d para Ramagem, e que a atuação de Eduardo Bolsonaro nos EUA (tarifas, sanções) configurou coação no curso do processo. A ABI e a federação PSOL-Rede questionam a Lei da Dosimetria no STF (ADIs 7966/7967); pesquisa Quaest (17/05/2026) indica 52% contra a redução de penas.",
+    "defesa": "Fux divergiu, condenando apenas Cid e Braga Netto. As defesas obtiveram prisão domiciliar humanitária para Bolsonaro e sustentam que as penas são excessivas: o Congresso aprovou e promulgou a Lei da Dosimetria (que impede a soma das penas de golpe e abolição violenta e reduz penas em 'contexto de multidão'), com apoio de 39% na Quaest. Flávio Bolsonaro declarou que 'derrotar Lula é o que vai salvar meu pai da prisão'. Ramagem alega perseguição e pediu asilo nos EUA; a defesa de Eduardo nega coação."
+  },
+  "status_atual_md": "**Condenações definitivas (AP 2668, trânsito em 25/11/2025)**: Bolsonaro cumpre 27a3m em prisão domiciliar por razões de saúde; Ramagem está foragido nos EUA. **Eduardo Bolsonaro**: condenado por coação (4a2m) e difamação (1 ano), embargos rejeitados, sem trânsito confirmado nas notas. **8/1**: 1.402 condenados. **Lei da Dosimetria**: promulgada em 08/05/2026 e suspensa por decisão monocrática de Moraes em 09/05/2026, sem julgamento de mérito até out/2026 — não houve anistia; houve lei de redução de penas, suspensa. A redução, se aplicada, não é automática: cada defesa deve pedir ao STF.",
+  "lacunas": [
+    "Penas individuais de Braga Netto, Heleno, Torres, Garnier, Paulo Sérgio e Cid e locais de prisão não constam nas notas (verificar no STF, AP 2668).",
+    "Trânsito em julgado não confirmado individualmente para os co-réus além de Bolsonaro e Ramagem.",
+    "Contagem de votos da condenação de Eduardo Bolsonaro em 16/06/2026 não localizada.",
+    "Julgamento da AP 2737 (Ramagem/8 de janeiro) não localizado.",
+    "Desfecho do processo de Paulo Figueiredo não detalhado.",
+    "Fontes divergem sobre o local da prisão de Bolsonaro em jan/2026 ('Papuda' na Gazeta do Povo; 'Papudinha' na CNN).",
+    "Filiação partidária dos militares condenados não informada nas notas."
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/05_escandalos_recentes_inss_master_bolsonaro.md",
+  "fontes": [
+    {
+      "nome": "CNN Brasil: Jair Bolsonaro completa um ano preso — principais acontecimentos",
+      "url": "https://www.cnnbrasil.com.br/politica/jair-bolsonaro-completa-um-ano-preso-relembre-os-principais-acontecimentos/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Agência Brasil, 30/04/2026: entenda como o PL da Dosimetria pode beneficiar condenados pelo 8/1",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-04/entenda-como-o-pl-da-dosimetria-pode-beneficiar-condenados-pelo-81",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Revista Oeste: PL da Dosimetria pode beneficiar 600 condenados pelo 8 de janeiro, diz associação",
+      "url": "https://revistaoeste.com/politica/pl-da-dosimetria-pode-beneficiar-600-condenados-pelo-8-de-janeiro-diz-associacao/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Wikipédia pt, Lei da Dosimetria (índice)",
+      "url": "https://pt.wikipedia.org/wiki/Lei_da_Dosimetria",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Migalhas: Congresso derruba veto de Lula ao PL da Dosimetria",
+      "url": "https://www.migalhas.com.br/quentes/455046/congresso-derruba-veto-de-lula-ao-pl-da-dosimetria",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Wikipédia pt, Eduardo Bolsonaro (índice)",
+      "url": "https://pt.wikipedia.org/wiki/Eduardo_Bolsonaro",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Diário de Pernambuco, 11/09/2025: ex-diretor da Abin Alexandre Ramagem é condenado a 16 anos",
+      "url": "https://www.diariodepernambuco.com.br/politica/2025/09/11695625-ex-diretor-da-abin-alexandre-ramagem-e-condenado-a-16-anos-de-prisao.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Poder360: STF determina perda do mandato de Ramagem",
+      "url": "https://www.poder360.com.br/poder-justica/stf-determina-perda-do-mandato-de-ramagem/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Wikipédia pt, Alexandre Ramagem (índice)",
+      "url": "https://pt.wikipedia.org/wiki/Alexandre_Ramagem",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Congresso em Foco: 1ª Turma aceita denúncia e Eduardo Bolsonaro vira réu por coação",
+      "url": "https://www.congressoemfoco.com.br/noticia/114232/1-turma-aceita-denuncia-e-eduardo-bolsonaro-vira-reu-por-coacao",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Wikipedia (en), 2026 Brazilian general election (índice)",
+      "url": "https://en.wikipedia.org/wiki/2026_Brazilian_general_election",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Revista Fórum: STF, dosimetria e anistia",
+      "url": "https://revistaforum.com.br/politica/stf-dosimetria-anistia-golpistas/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "atualizado_em": "2026-10-21",
+  "convencoes": [
+    "citado: nome aparece em delação, planilha, relatório de CPI ou reportagem, sem ato formal de investigação.",
+    "investigado: alvo de inquérito, busca, prisão temporária/preventiva ou indiciamento pela PF (indiciamento não é denúncia).",
+    "denunciado: PGR/MPF ofereceu denúncia; réu: a denúncia foi recebida pelo tribunal.",
+    "condenado-1a / condenado-2a: decisão de mérito ainda sujeita a recurso. Para condenações pelo STF em instância única sem trânsito em julgado confirmado nas notas, usa-se condenado-1a com explicação em status_atual.",
+    "condenado-definitivo: trânsito em julgado confirmado nas notas; cumprindo-pena / pena-cumprida quando as notas informam a execução.",
+    "anulada: condenação ou provas anuladas por nulidade (competência, parcialidade, prova ilícita), sem exame de mérito; absolvido: decisão de mérito favorável; arquivado: inquérito/denúncia encerrada sem mérito; prescrito: punibilidade extinta pelo tempo.",
+    "Pedido de indiciamento por CPI/CPMI não é indiciamento policial nem denúncia: é recomendação ao Ministério Público."
+  ]
+}
