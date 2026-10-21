@@ -1,0 +1,51 @@
+{
+  "id": "rendimento-medio-real-trimestre-movel",
+  "titulo": "Rendimento médio real habitual, trimestres móveis de 2026",
+  "descricao_simples": "Rendimento médio real dos ocupados nos trimestres móveis mais recentes.",
+  "unidade": "R$ a preços do último trimestre",
+  "tipo_grafico": "linha",
+  "frequencia": "mensal",
+  "fonte": {
+    "nome": "IBGE/SIDRA, tabela 6390 (últimos 6 períodos)",
+    "url": "https://apisidra.ibge.gov.br/values/t/6390/n1/all/v/all/p/last%206",
+    "acesso_em": "2026-10-21",
+    "tier": "oficial"
+  },
+  "pontos": [
+    {
+      "periodo": "jan–mar/2026",
+      "valor": 3804
+    },
+    {
+      "periodo": "fev–abr/2026",
+      "valor": 3785
+    },
+    {
+      "periodo": "mar–mai/2026",
+      "valor": 3752
+    },
+    {
+      "periodo": "abr–jun/2026",
+      "valor": 3747
+    },
+    {
+      "periodo": "mai–jul/2026",
+      "valor": 3760
+    },
+    {
+      "periodo": "jun–ago/2026",
+      "valor": 3777
+    }
+  ],
+  "faixas_referencia": [],
+  "notas_metodologicas": [
+    "jun–ago/2026: +3,7% em um ano; +0,7% vs trimestre anterior. Imprensa registrou R$ 3.783 (trimestre até fev/2026) como recorde (via snippet)."
+  ],
+  "lacunas": [],
+  "ultimo_periodo": "jun–ago/2026",
+  "temas": [
+    "emprego-renda"
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/03_emprego_renda_pobreza_social.md",
+  "atualizado_em": "2026-10-21"
+}

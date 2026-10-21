@@ -1,0 +1,175 @@
+{
+  "id": "salario-minimo-nominal",
+  "titulo": "Salário mínimo nominal a cada reajuste",
+  "descricao_simples": "Valor do salário mínimo em reais na data de cada reajuste.",
+  "unidade": "R$",
+  "tipo_grafico": "linha",
+  "frequencia": "anual",
+  "fonte": {
+    "nome": "DIEESE, Nota Técnica 283 (jan/2025), Tabela 1",
+    "url": "https://www.dieese.org.br/notatecnica/2025/notaTec283salarioMinimo.pdf",
+    "acesso_em": "2026-10-21",
+    "tier": "academico"
+  },
+  "pontos": [
+    {
+      "periodo": "abr/2003",
+      "valor": 240,
+      "ano": "2003"
+    },
+    {
+      "periodo": "mai/2004",
+      "valor": 260,
+      "ano": "2004"
+    },
+    {
+      "periodo": "mai/2005",
+      "valor": 300,
+      "ano": "2005"
+    },
+    {
+      "periodo": "abr/2006",
+      "valor": 350,
+      "ano": "2006"
+    },
+    {
+      "periodo": "abr/2007",
+      "valor": 380,
+      "ano": "2007"
+    },
+    {
+      "periodo": "mar/2008",
+      "valor": 415,
+      "ano": "2008"
+    },
+    {
+      "periodo": "fev/2009",
+      "valor": 465,
+      "ano": "2009"
+    },
+    {
+      "periodo": "jan/2010",
+      "valor": 510,
+      "ano": "2010"
+    },
+    {
+      "periodo": "jan/2011",
+      "valor": 545,
+      "ano": "2011"
+    },
+    {
+      "periodo": "jan/2012",
+      "valor": 622,
+      "ano": "2012"
+    },
+    {
+      "periodo": "jan/2013",
+      "valor": 678,
+      "ano": "2013"
+    },
+    {
+      "periodo": "jan/2014",
+      "valor": 724,
+      "ano": "2014"
+    },
+    {
+      "periodo": "jan/2015",
+      "valor": 788,
+      "ano": "2015"
+    },
+    {
+      "periodo": "jan/2016",
+      "valor": 880,
+      "ano": "2016"
+    },
+    {
+      "periodo": "jan/2017",
+      "valor": 937,
+      "ano": "2017"
+    },
+    {
+      "periodo": "jan/2018",
+      "valor": 954,
+      "ano": "2018"
+    },
+    {
+      "periodo": "jan/2019",
+      "valor": 998,
+      "ano": "2019"
+    },
+    {
+      "periodo": "jan/2020",
+      "valor": 1039,
+      "ano": "2020"
+    },
+    {
+      "periodo": "fev/2020",
+      "valor": 1045,
+      "ano": "2020"
+    },
+    {
+      "periodo": "jan/2021",
+      "valor": 1100,
+      "ano": "2021"
+    },
+    {
+      "periodo": "jan/2022",
+      "valor": 1212,
+      "ano": "2022"
+    },
+    {
+      "periodo": "jan/2023",
+      "valor": 1302,
+      "ano": "2023"
+    },
+    {
+      "periodo": "mai/2023",
+      "valor": 1320,
+      "ano": "2023"
+    },
+    {
+      "periodo": "jan/2024",
+      "valor": 1412,
+      "ano": "2024"
+    },
+    {
+      "periodo": "jan/2025",
+      "valor": 1518,
+      "ano": "2025"
+    },
+    {
+      "periodo": "jan/2026",
+      "valor": 1621,
+      "ano": "2026",
+      "reajuste_nominal_pct": 6.79,
+      "fonte_ponto": "Decreto 12.797/2025 via fontes secundárias (via snippet)"
+    }
+  ],
+  "faixas_referencia": [
+    {
+      "rotulo": "Reajuste nominal acumulado 2002–2025",
+      "valor": 659
+    },
+    {
+      "rotulo": "INPC acumulado 2002–2025",
+      "valor": 289.9
+    },
+    {
+      "rotulo": "Valor que seria pago em 2026 sem o teto de 2,5% da Lei 15.077/2024",
+      "valor": 1636
+    }
+  ],
+  "notas_metodologicas": [
+    "2020 teve dois valores (R$ 1.039 em janeiro e R$ 1.045 em fevereiro); 2023 também (R$ 1.302 em janeiro e R$ 1.320 em maio).",
+    "Regra de valorização (INPC + PIB de dois anos antes) vigorou de 2007/2008 a 2019; sem ganho real em 2019–2022; retomada pela Lei 14.663/2023; Lei 15.077/2024 limita o ganho real a 0,6%–2,5%.",
+    "Alcance (DIEESE): 59,9 milhões de pessoas têm rendimento referenciado no mínimo; cada R$ 1 custa R$ 365,9 mi/ano à Previdência.",
+    "O número exato do decreto de 2026 (12.797/2025) não foi confirmado no texto oficial; veio de fontes secundárias convergentes."
+  ],
+  "lacunas": [],
+  "ultimo_periodo": "jan/2026",
+  "temas": [
+    "emprego-renda"
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/03_emprego_renda_pobreza_social.md",
+  "atualizado_em": "2026-10-21"
+}

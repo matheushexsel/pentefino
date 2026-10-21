@@ -1,0 +1,49 @@
+{
+  "id": "petrobras-dividendos-anual",
+  "titulo": "Dividendos e remuneração aos acionistas da Petrobras por ano",
+  "descricao_simples": "Valor total distribuído pela Petrobras aos acionistas (União e privados) referente a cada exercício.",
+  "unidade": "R$ bilhões",
+  "tipo_grafico": "barra",
+  "frequencia": "anual",
+  "fonte": {
+    "nome": "CNN Brasil – Balanço da Petrobras, 4T2025 (05/03/2026)",
+    "url": "https://www.cnnbrasil.com.br/economia/negocios/balanco-petrobras-4t2026/",
+    "acesso_em": "2026-10-21",
+    "tier": "imprensa"
+  },
+  "pontos": [
+    {
+      "periodo": "2021",
+      "valor": 101.4
+    },
+    {
+      "periodo": "2022",
+      "valor": 215.7,
+      "nao_verificado": true
+    },
+    {
+      "periodo": "2024",
+      "valor": 75.8
+    },
+    {
+      "periodo": "2025",
+      "valor": 41.2
+    }
+  ],
+  "faixas_referencia": [],
+  "notas_metodologicas": [
+    "2021: R$ 101,4 bi, dos quais '28,67% vão para União' (CartaCapital). 2022: R$ 215,7 bi pagos a acionistas segundo a Revista Oeste, com cerca de R$ 79 bi à União; as reportagens divergem e o valor supera o lucro do ano (R$ 188,3 bi), por isso o ponto está marcado como não verificado. 2024: R$ 75,8 bi (Safra). 2025: R$ 41,2 bi, 45,6% a menos que em 2024 (CNN; Monitor do Mercado).",
+    "A União recebeu R$ 34,4 bi em dividendos em 2019–2021 (Economática via Suno).",
+    "A queda dos dividendos em 2025 apesar do lucro alto é consistente com a política de preços abaixo da paridade e prioridade a investimento; como acionista controladora, a União recebe menos quando a estatal segura preços."
+  ],
+  "ultimo_periodo": "2025",
+  "temas": [
+    "combustiveis",
+    "contas-publicas"
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/06_energia_eletrobras_combustiveis.md",
+  "atualizado_em": "2026-10-21",
+  "lacunas": [
+    "Série anual de dividendos efetivamente recebidos pela União (Tesouro + BNDES) 2019–2025 não localizada em fonte oficial (Tesouro Transparente retornou 404); 2023 não consta das notas. Por isso não foi criada a série 'petrobras-dividendos-uniao'."
+  ]
+}

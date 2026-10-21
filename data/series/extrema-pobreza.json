@@ -1,0 +1,96 @@
+{
+  "id": "extrema-pobreza",
+  "titulo": "Extrema pobreza segundo o Banco Mundial (US$ 2,15/dia, PPC 2017)",
+  "descricao_simples": "Parcela da população abaixo da linha internacional de extrema pobreza de US$ 2,15 por dia.",
+  "unidade": "% da população",
+  "tipo_grafico": "linha",
+  "frequencia": "anual",
+  "fonte": {
+    "nome": "Banco Mundial, PIP API (BRA, US$ 2,15, PPC 2017)",
+    "url": "https://api.worldbank.org/pip/v1/pip?country=BRA&year=all&povline=2.15&ppp_version=2017&format=json",
+    "acesso_em": "2026-10-21",
+    "tier": "multilateral"
+  },
+  "pontos": [
+    {
+      "periodo": "2003",
+      "valor": 12.6
+    },
+    {
+      "periodo": "2006",
+      "valor": 8.3
+    },
+    {
+      "periodo": "2009",
+      "valor": 6.1
+    },
+    {
+      "periodo": "2011",
+      "valor": 5.3
+    },
+    {
+      "periodo": "2012",
+      "valor": 4.5
+    },
+    {
+      "periodo": "2014",
+      "valor": 3.3
+    },
+    {
+      "periodo": "2016",
+      "valor": 4.8
+    },
+    {
+      "periodo": "2018",
+      "valor": 5.3
+    },
+    {
+      "periodo": "2019",
+      "valor": 5.4
+    },
+    {
+      "periodo": "2020",
+      "valor": 1.9,
+      "observacao": "5ª visita da PNADC; reflete o Auxílio Emergencial"
+    },
+    {
+      "periodo": "2021",
+      "valor": 5.8,
+      "observacao": "5ª visita da PNADC"
+    },
+    {
+      "periodo": "2022",
+      "valor": 3.5
+    },
+    {
+      "periodo": "2023",
+      "valor": 2.7
+    },
+    {
+      "periodo": "2024",
+      "valor": 2.0
+    }
+  ],
+  "faixas_referencia": [
+    {
+      "rotulo": "IBGE/SIS 2023 (mesma linha nominal)",
+      "valor": 4.4
+    },
+    {
+      "rotulo": "IBGE/SIS 2024",
+      "valor": 3.5
+    }
+  ],
+  "notas_metodologicas": [
+    "Os percentuais do IBGE para a mesma linha nominal são maiores; ver extrema-pobreza-ibge."
+  ],
+  "lacunas": [
+    "Anos 2002, 2004, 2005, 2007, 2008, 2010, 2013, 2015 e 2017 não constam na nota."
+  ],
+  "ultimo_periodo": "2024",
+  "temas": [
+    "pobreza-programas-sociais"
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/03_emprego_renda_pobreza_social.md",
+  "atualizado_em": "2026-10-21"
+}

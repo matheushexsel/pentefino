@@ -1,0 +1,57 @@
+{
+  "id": "extrema-pobreza-ibge",
+  "titulo": "Extrema pobreza segundo o IBGE (linha de US$ 2,15 PPC/dia)",
+  "descricao_simples": "Parcela da população com renda abaixo de US$ 2,15 por dia (R$ 218/mês em 2024), segundo a Síntese de Indicadores Sociais do IBGE.",
+  "unidade": "% da população",
+  "tipo_grafico": "linha",
+  "frequencia": "anual",
+  "fonte": {
+    "nome": "IBGE, Síntese de Indicadores Sociais 2025 (dados de 2024), via MDS/Agência Brasil",
+    "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/economia/audio/2025-12/ibge-aponta-nova-reducao-de-pessoas-em-condicoes-de-extrema-pobreza",
+    "acesso_em": "2026-10-21",
+    "tier": "oficial"
+  },
+  "pontos": [
+    {
+      "periodo": "2023",
+      "valor": 4.4,
+      "pessoas_milhoes": 9.3
+    },
+    {
+      "periodo": "2024",
+      "valor": 3.5,
+      "pessoas_milhoes": 7.4,
+      "observacao": "menor nível desde 2012"
+    }
+  ],
+  "faixas_referencia": [
+    {
+      "rotulo": "Extrema pobreza em 2024 sem programas sociais (simulação IBGE)",
+      "valor": 10
+    },
+    {
+      "rotulo": "Entre idosos sem Previdência (simulação)",
+      "valor": 35.4
+    },
+    {
+      "rotulo": "Entre idosos com Previdência",
+      "valor": 1.9
+    },
+    {
+      "rotulo": "Crianças 0–14 anos, 2024",
+      "valor": 5.6
+    }
+  ],
+  "notas_metodologicas": [
+    "Linha: US$ 2,15/dia = R$ 218/mês. Para a série anual longa, ver extrema-pobreza (Banco Mundial)."
+  ],
+  "lacunas": [
+    "Anos 2012–2022 do IBGE não acessados."
+  ],
+  "ultimo_periodo": "2024",
+  "temas": [
+    "pobreza-programas-sociais"
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/03_emprego_renda_pobreza_social.md",
+  "atualizado_em": "2026-10-21"
+}

@@ -1,0 +1,57 @@
+{
+  "id": "inadimplencia-pf",
+  "titulo": "Inadimplência das pessoas físicas (BCB)",
+  "descricao_simples": "Parcela do crédito às famílias com atraso acima de 90 dias.",
+  "unidade": "% da carteira",
+  "tipo_grafico": "linha",
+  "frequencia": "mensal",
+  "fonte": {
+    "nome": "Banco Central do Brasil, SGS 21082 (total PF) e SGS 21084 (recursos livres PF)",
+    "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.21082/dados?formato=json&dataInicial=01/01/2022",
+    "acesso_em": "2026-10-21",
+    "tier": "oficial"
+  },
+  "pontos": [
+    {
+      "periodo": "dez/2022",
+      "valor": 3.07
+    },
+    {
+      "periodo": "dez/2023",
+      "valor": 3.29
+    },
+    {
+      "periodo": "dez/2024",
+      "valor": 3.08,
+      "recursos_livres": 3.63
+    },
+    {
+      "periodo": "dez/2025",
+      "valor": 4.2,
+      "recursos_livres": 5.12
+    },
+    {
+      "periodo": "ago/2026",
+      "valor": 5.04,
+      "recursos_livres": 6.03
+    }
+  ],
+  "faixas_referencia": [
+    {
+      "rotulo": "Inadimplência no rotativo do cartão, dez/2025 (LCA, via snippet)",
+      "valor": 64.5
+    }
+  ],
+  "notas_metodologicas": [
+    "URL dos recursos livres: https://api.bcb.gov.br/dados/serie/bcdata.sgs.21084/dados?formato=json&dataInicial=01/01/2022"
+  ],
+  "lacunas": [
+    "Meses intermediários não transcritos; série do juro do rotativo não localizada no SGS."
+  ],
+  "ultimo_periodo": "ago/2026",
+  "temas": [
+    "emprego-renda"
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/03_emprego_renda_pobreza_social.md",
+  "atualizado_em": "2026-10-21"
+}

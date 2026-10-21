@@ -1,0 +1,142 @@
+{
+  "id": "divida-bruta-fmi",
+  "titulo": "Dívida bruta do governo geral na metodologia do FMI (% do PIB)",
+  "descricao_simples": "Dívida pública brasileira medida pelo FMI, que inclui os títulos na carteira do Banco Central; serve para comparar com outros países.",
+  "unidade": "% do PIB",
+  "tipo_grafico": "linha",
+  "frequencia": "anual",
+  "fonte": {
+    "nome": "FMI, Fiscal Monitor abr/2026, Tabela A15 (2017–2031) e DataMapper GGXWDG_NGDP (2010, 2014, 2016)",
+    "url": "https://www.imf.org/-/media/files/publications/fiscal-monitor/2026/april/english/text.pdf",
+    "acesso_em": "2026-10-21",
+    "tier": "multilateral"
+  },
+  "pontos": [
+    {
+      "periodo": "2010",
+      "valor": 62.4,
+      "fonte_ponto": "DataMapper"
+    },
+    {
+      "periodo": "2014",
+      "valor": 61.6,
+      "fonte_ponto": "DataMapper"
+    },
+    {
+      "periodo": "2016",
+      "valor": 77.4,
+      "fonte_ponto": "DataMapper"
+    },
+    {
+      "periodo": "2017",
+      "valor": 82.7
+    },
+    {
+      "periodo": "2018",
+      "valor": 84.8
+    },
+    {
+      "periodo": "2019",
+      "valor": 87.1
+    },
+    {
+      "periodo": "2020",
+      "valor": 96.0
+    },
+    {
+      "periodo": "2021",
+      "valor": 88.9
+    },
+    {
+      "periodo": "2022",
+      "valor": 83.9
+    },
+    {
+      "periodo": "2023",
+      "valor": 84.0
+    },
+    {
+      "periodo": "2024",
+      "valor": 87.0
+    },
+    {
+      "periodo": "2025",
+      "valor": 93.3
+    },
+    {
+      "periodo": "2026 (projeção)",
+      "valor": 96.5,
+      "projecao": true
+    },
+    {
+      "periodo": "2027 (projeção)",
+      "valor": 100.0,
+      "projecao": true
+    },
+    {
+      "periodo": "2028 (projeção)",
+      "valor": 102.3,
+      "projecao": true
+    },
+    {
+      "periodo": "2031 (projeção)",
+      "valor": 106.5,
+      "projecao": true
+    }
+  ],
+  "faixas_referencia": [
+    {
+      "rotulo": "Média emergentes e renda média, 2025",
+      "valor": 75.3
+    },
+    {
+      "rotulo": "América Latina, 2025",
+      "valor": 74.2
+    },
+    {
+      "rotulo": "China, 2025",
+      "valor": 99.2
+    },
+    {
+      "rotulo": "Índia, 2025",
+      "valor": 84.1
+    },
+    {
+      "rotulo": "México, 2025",
+      "valor": 61.8
+    },
+    {
+      "rotulo": "Colômbia, 2025",
+      "valor": 59.9
+    },
+    {
+      "rotulo": "Chile, 2025",
+      "valor": 41.8
+    },
+    {
+      "rotulo": "Argentina, 2025",
+      "valor": 80.3
+    },
+    {
+      "rotulo": "África do Sul, 2025",
+      "valor": 78.6
+    },
+    {
+      "rotulo": "Artigo IV 2026 do FMI (via Poder360): 2026",
+      "valor": 97.8
+    }
+  ],
+  "notas_metodologicas": [
+    "DataMapper (URL: https://www.imf.org/external/datamapper/api/v1/GGXWDG_NGDP/BRA/WEOWORLD/ADVEC/USA/CHN/IND/MEX/COL/CHL/ARG?periods=2010,2014,2016,2018,2019,2020,2022,2024,2025,2026) traz 97,0% para 2026 e 105,3% para 2031; a Tabela A15 do Fiscal Monitor traz 96,5% e 106,5%. Divergência de vintage não explicada na nota.",
+    "Não comparável com divida-bruta-pib (BCB): em 2025, 93,3% (FMI) x 78,6% (BCB)."
+  ],
+  "lacunas": [
+    "Anos 2011–2013 e 2015 não constam na nota."
+  ],
+  "ultimo_periodo": "2031 (projeção)",
+  "temas": [
+    "contas-publicas"
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/02_contas_publicas_divida.md",
+  "atualizado_em": "2026-10-21"
+}

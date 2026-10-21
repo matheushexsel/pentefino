@@ -1,0 +1,71 @@
+{
+  "id": "endividamento-familias",
+  "titulo": "Endividamento das famílias (% da renda acumulada em 12 meses, BCB)",
+  "descricao_simples": "Quanto as dívidas das famílias representam da renda que elas recebem em um ano.",
+  "unidade": "% da renda",
+  "tipo_grafico": "linha",
+  "frequencia": "mensal",
+  "fonte": {
+    "nome": "Banco Central do Brasil, SGS 29037",
+    "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.29037/dados?formato=json&dataInicial=01/01/2022",
+    "acesso_em": "2026-10-21",
+    "tier": "oficial"
+  },
+  "pontos": [
+    {
+      "periodo": "dez/2022",
+      "valor": 49.14
+    },
+    {
+      "periodo": "dez/2023",
+      "valor": 47.75
+    },
+    {
+      "periodo": "dez/2024",
+      "valor": 48.45
+    },
+    {
+      "periodo": "dez/2025",
+      "valor": 49.7
+    },
+    {
+      "periodo": "abr/2026",
+      "valor": 49.88
+    },
+    {
+      "periodo": "jul/2026",
+      "valor": 49.86
+    }
+  ],
+  "faixas_referencia": [
+    {
+      "rotulo": "Pico anterior (jul/2022)",
+      "valor": 49.88
+    },
+    {
+      "rotulo": "fev/2026 (divulgação de abr/2026, Poder360)",
+      "valor": 49.9
+    },
+    {
+      "rotulo": "Comprometimento de renda jan/2026 (recorde, divulgação BCB)",
+      "valor": 29.3
+    },
+    {
+      "rotulo": "Comprometimento de renda jul/2026 (SGS 29034)",
+      "valor": 28.72
+    }
+  ],
+  "notas_metodologicas": [
+    "A série SGS 29034 (comprometimento de renda) mostra 28,09% em dez/2025 e 28,72% em jul/2026; a diferença com os 29,3% divulgados provavelmente vem de revisões/ajuste sazonal — conferir no BCB.",
+    "Para o percentual de famílias com dívidas (CNC/Peic) ver familias-endividadas-peic; para negativados (Serasa) ver serasa-negativados."
+  ],
+  "lacunas": [
+    "Meses anteriores a dez/2022 não transcritos."
+  ],
+  "ultimo_periodo": "jul/2026",
+  "temas": [
+    "emprego-renda"
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/03_emprego_renda_pobreza_social.md",
+  "atualizado_em": "2026-10-21"
+}

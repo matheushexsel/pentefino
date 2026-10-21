@@ -1,0 +1,69 @@
+{
+  "id": "desemprego-pme-anual",
+  "titulo": "Taxa de desemprego média anual (PME, 6 regiões metropolitanas, 2003–2012)",
+  "descricao_simples": "Desemprego medido pela antiga Pesquisa Mensal de Emprego do IBGE, que cobria só seis regiões metropolitanas; não é comparável com a PNAD Contínua.",
+  "unidade": "% da população economicamente ativa",
+  "tipo_grafico": "linha",
+  "frequencia": "anual",
+  "fonte": {
+    "nome": "IPEA, Boletim Mercado de Trabalho nº 54 (fev/2013), tabela IV.1, fonte PME/IBGE",
+    "url": "https://repositorio.ipea.gov.br/server/api/core/bitstreams/8a51da69-fe16-4dee-962d-f24e8c4ef126/content",
+    "acesso_em": "2026-10-21",
+    "tier": "academico"
+  },
+  "pontos": [
+    {
+      "periodo": "2003",
+      "valor": 12.3
+    },
+    {
+      "periodo": "2004",
+      "valor": 11.5
+    },
+    {
+      "periodo": "2005",
+      "valor": 9.8
+    },
+    {
+      "periodo": "2006",
+      "valor": 10.0
+    },
+    {
+      "periodo": "2007",
+      "valor": 9.3
+    },
+    {
+      "periodo": "2008",
+      "valor": 7.9
+    },
+    {
+      "periodo": "2009",
+      "valor": 8.1
+    },
+    {
+      "periodo": "2010",
+      "valor": 6.7
+    },
+    {
+      "periodo": "2011",
+      "valor": 6.0
+    },
+    {
+      "periodo": "2012",
+      "valor": 5.5
+    }
+  ],
+  "faixas_referencia": [],
+  "notas_metodologicas": [
+    "Cobertura: Recife, Salvador, Belo Horizonte, Rio de Janeiro, São Paulo e Porto Alegre. Pesquisa descontinuada em 2016.",
+    "Uma retrospectiva do IBGE de 2014 registra 12,4% para 2003 (diferença de arredondamento/revisão).",
+    "Não comparar com desemprego-pnad-anual (cobertura nacional, metodologia diferente)."
+  ],
+  "lacunas": [],
+  "ultimo_periodo": "2012",
+  "temas": [
+    "emprego-renda"
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/03_emprego_renda_pobreza_social.md",
+  "atualizado_em": "2026-10-21"
+}

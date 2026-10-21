@@ -1,0 +1,105 @@
+{
+  "id": "carteira-assinada-pnad",
+  "titulo": "Empregados do setor privado com carteira (PNAD Contínua)",
+  "descricao_simples": "Quantas pessoas trabalham com carteira assinada no setor privado, em milhares, no 4º trimestre de cada ano.",
+  "unidade": "mil pessoas",
+  "tipo_grafico": "linha",
+  "frequencia": "trimestral",
+  "fonte": {
+    "nome": "IBGE/SIDRA, tabela 4097",
+    "url": "https://apisidra.ibge.gov.br/values/t/4097/n1/all/v/all/p/all/c11913/all",
+    "acesso_em": "2026-10-21",
+    "tier": "oficial"
+  },
+  "pontos": [
+    {
+      "periodo": "4T2012",
+      "valor": 35742,
+      "conta_propria": 20146
+    },
+    {
+      "periodo": "4T2013",
+      "valor": 36855
+    },
+    {
+      "periodo": "4T2014",
+      "valor": 37249,
+      "sem_carteira_privado": 10550,
+      "ocupados_total": 92340
+    },
+    {
+      "periodo": "4T2015",
+      "valor": 36059
+    },
+    {
+      "periodo": "4T2016",
+      "valor": 34354
+    },
+    {
+      "periodo": "4T2017",
+      "valor": 33713
+    },
+    {
+      "periodo": "4T2018",
+      "valor": 33560
+    },
+    {
+      "periodo": "4T2019",
+      "valor": 34235,
+      "sem_carteira_privado": 12028,
+      "conta_propria": 23983,
+      "ocupados_total": 93920
+    },
+    {
+      "periodo": "4T2020",
+      "valor": 30919,
+      "ocupados_total": 85669
+    },
+    {
+      "periodo": "4T2021",
+      "valor": 33761,
+      "conta_propria": 25476
+    },
+    {
+      "periodo": "4T2022",
+      "valor": 36101,
+      "sem_carteira_privado": 12993,
+      "ocupados_total": 97517
+    },
+    {
+      "periodo": "4T2023",
+      "valor": 37215
+    },
+    {
+      "periodo": "4T2024",
+      "valor": 38469,
+      "sem_carteira_privado": 13927
+    },
+    {
+      "periodo": "4T2025",
+      "valor": 39409,
+      "sem_carteira_privado": 13565,
+      "conta_propria": 26109,
+      "ocupados_total": 102998
+    },
+    {
+      "periodo": "2T2026",
+      "valor": 39419,
+      "sem_carteira_privado": 13568,
+      "conta_propria": 26093,
+      "ocupados_total": 103057
+    }
+  ],
+  "faixas_referencia": [],
+  "notas_metodologicas": [
+    "2T2026 (39.419 mil) é recorde. O estoque só superou o pico de 2014 (37.249 mil) a partir de 2023.",
+    "Médias anuais (Retrospectiva): carteira privada 35 mi (2012) → 37 mi (2014) → 32 mi (2020, −8,6%) → 38,9 mi (2025); conta própria 20 mi (2012) → 26,1 mi (2025)."
+  ],
+  "lacunas": [],
+  "ultimo_periodo": "2T2026",
+  "temas": [
+    "emprego-renda"
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/03_emprego_renda_pobreza_social.md",
+  "atualizado_em": "2026-10-21"
+}

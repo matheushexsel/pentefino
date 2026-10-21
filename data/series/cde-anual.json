@@ -1,0 +1,57 @@
+{
+  "id": "cde-anual",
+  "titulo": "Conta de Desenvolvimento Energético (CDE) por ano",
+  "descricao_simples": "Orçamento anual da CDE, o fundo de subsídios do setor elétrico pago principalmente pelos consumidores na conta de luz.",
+  "unidade": "R$ bilhões",
+  "tipo_grafico": "barra",
+  "frequencia": "anual",
+  "fonte": {
+    "nome": "Agência iNFRA – Orçamento da CDE 2026 (05/12/2025)",
+    "url": "https://agenciainfra.com/blog/?p=33412",
+    "acesso_em": "2026-10-21",
+    "tier": "imprensa"
+  },
+  "pontos": [
+    {
+      "periodo": "2022",
+      "valor": 32.1,
+      "rotulo": "orçado"
+    },
+    {
+      "periodo": "2025",
+      "valor": 49.2,
+      "rotulo": "realizado (R$ 46,8 bi via tarifa)"
+    },
+    {
+      "periodo": "2026",
+      "valor": 52.7,
+      "rotulo": "proposta ANEEL dez/2025 (R$ 47,8 bi via tarifa)"
+    },
+    {
+      "periodo": "2027",
+      "valor": 55.1,
+      "rotulo": "projeção ANEEL"
+    }
+  ],
+  "faixas_referencia": [
+    {
+      "rotulo": "Teto legal da CDE em 2027 (Lei 15.269/2025)",
+      "valor": 48.7
+    }
+  ],
+  "notas_metodologicas": [
+    "2022: CDE orçada em R$ 32,1 bi (Metrópoles). 2025: R$ 49,2 bi, dos quais R$ 46,8 bi pagos pelos consumidores (CLP; Agência iNFRA). 2026: proposta de R$ 52,7 bi, R$ 47,8 bi via tarifas, impacto tarifário médio de 0,71%; consulta pública de 10/12/2025 a 26/01/2026. 2027: projeção ANEEL de R$ 55,1 bi contra teto de R$ 48,7 bi.",
+    "Principais itens da proposta 2026: descontos a fontes incentivadas R$ 19,6 bi (+16%), Tarifa Social R$ 10,4 bi (+33%; R$ 7,8 bi em 2024), geração distribuída R$ 6,8 bi (+87,4%); Luz para Todos -33%, carvão -84%, CCC -8,8%.",
+    "A Lei 15.269/2025 limita a CDE a partir de 2027 ao valor de 2025 corrigido pelo IPCA (exceto itens protegidos); em 2026 o teto já teria sido ultrapassado em R$ 5,1 bi se vigente.",
+    "Subsidiômetro da ANEEL (inclui outros subsídios): R$ 52,5 bi (dez/2024–nov/2025), R$ 56,3 bi em 2025 e R$ 55 bi (jun/2025–mai/2026)."
+  ],
+  "ultimo_periodo": "2027",
+  "temas": [
+    "energia"
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/06_energia_eletrobras_combustiveis.md",
+  "atualizado_em": "2026-10-21",
+  "lacunas": [
+    "Valor final homologado da CDE 2026 (previsto para fev/2026) não localizado; anos 2023 e 2024 não constam das notas."
+  ]
+}

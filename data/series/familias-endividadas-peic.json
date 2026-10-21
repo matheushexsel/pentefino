@@ -1,0 +1,73 @@
+{
+  "id": "familias-endividadas-peic",
+  "titulo": "Famílias com dívidas (CNC/Peic)",
+  "descricao_simples": "Percentual de famílias que declaram ter dívidas (cartão, carnê, financiamento etc.), segundo a pesquisa da CNC.",
+  "unidade": "% das famílias",
+  "tipo_grafico": "linha",
+  "frequencia": "mensal",
+  "fonte": {
+    "nome": "CNC, Pesquisa de Endividamento e Inadimplência do Consumidor (Peic), via CNN Brasil, Senado Notícias, Lupa e imprensa",
+    "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/cnc-endividamento-das-familias-atinge-novo-recorde-e-chega-a-80-4/",
+    "acesso_em": "2026-10-21",
+    "tier": "imprensa"
+  },
+  "pontos": [
+    {
+      "periodo": "2021",
+      "valor": 76.3,
+      "via_snippet": true
+    },
+    {
+      "periodo": "2022",
+      "valor": 79.3,
+      "inadimplentes_pct": 30,
+      "via_snippet": true
+    },
+    {
+      "periodo": "dez/2022",
+      "valor": 78,
+      "inadimplentes_pct": 30
+    },
+    {
+      "periodo": "mar/2025",
+      "valor": 77.1
+    },
+    {
+      "periodo": "fev/2026",
+      "valor": 80.2
+    },
+    {
+      "periodo": "mar/2026",
+      "valor": 80.4,
+      "inadimplentes_pct": 29.6,
+      "sem_condicoes_pct": 12.3
+    },
+    {
+      "periodo": "abr/2026",
+      "valor": 80.9,
+      "inadimplentes_pct": 29.7,
+      "sem_condicoes_pct": 12.3,
+      "via_snippet": true
+    },
+    {
+      "periodo": "mai/2026",
+      "valor": 81.6,
+      "via_snippet": true,
+      "observacao": "maior da série, fonte regional"
+    }
+  ],
+  "faixas_referencia": [],
+  "notas_metodologicas": [
+    "Cartão de crédito é o principal fator para 83,6% das famílias (abr/2026). Rotativo do cartão cobrava 428% a 440,5% ao ano (BCB via Senado)."
+  ],
+  "lacunas": [
+    "Peic de set/out/2026 não lida.",
+    "Série mensal completa não transcrita."
+  ],
+  "ultimo_periodo": "mai/2026",
+  "temas": [
+    "emprego-renda"
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/03_emprego_renda_pobreza_social.md",
+  "atualizado_em": "2026-10-21"
+}

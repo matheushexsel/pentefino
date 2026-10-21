@@ -1,0 +1,131 @@
+{
+  "id": "desemprego-pnad-trimestral",
+  "titulo": "Taxa de desocupação por trimestre (PNAD Contínua)",
+  "descricao_simples": "Desemprego no 4º trimestre de cada ano e em trimestres de destaque (picos e mínimas).",
+  "unidade": "% da força de trabalho",
+  "tipo_grafico": "linha",
+  "frequencia": "trimestral",
+  "fonte": {
+    "nome": "IBGE/SIDRA, tabela 4099 (variável 4099)",
+    "url": "https://apisidra.ibge.gov.br/values/t/4099/n1/all/v/all/p/all",
+    "acesso_em": "2026-10-21",
+    "tier": "oficial"
+  },
+  "pontos": [
+    {
+      "periodo": "4T2012",
+      "valor": 6.9
+    },
+    {
+      "periodo": "4T2013",
+      "valor": 6.2
+    },
+    {
+      "periodo": "4T2014",
+      "valor": 6.6
+    },
+    {
+      "periodo": "4T2015",
+      "valor": 9.1
+    },
+    {
+      "periodo": "2T2016",
+      "valor": 11.4
+    },
+    {
+      "periodo": "4T2016",
+      "valor": 12.1
+    },
+    {
+      "periodo": "1T2017",
+      "valor": 13.9
+    },
+    {
+      "periodo": "4T2017",
+      "valor": 11.9
+    },
+    {
+      "periodo": "4T2018",
+      "valor": 11.7
+    },
+    {
+      "periodo": "4T2019",
+      "valor": 11.1
+    },
+    {
+      "periodo": "3T2020",
+      "valor": 14.9
+    },
+    {
+      "periodo": "4T2020",
+      "valor": 14.2
+    },
+    {
+      "periodo": "1T2021",
+      "valor": 14.9
+    },
+    {
+      "periodo": "4T2021",
+      "valor": 11.1
+    },
+    {
+      "periodo": "4T2022",
+      "valor": 7.9
+    },
+    {
+      "periodo": "4T2023",
+      "valor": 7.4
+    },
+    {
+      "periodo": "4T2024",
+      "valor": 6.2
+    },
+    {
+      "periodo": "1T2025",
+      "valor": 7.0
+    },
+    {
+      "periodo": "2T2025",
+      "valor": 5.8
+    },
+    {
+      "periodo": "3T2025",
+      "valor": 5.6
+    },
+    {
+      "periodo": "4T2025",
+      "valor": 5.1
+    },
+    {
+      "periodo": "1T2026",
+      "valor": 6.1
+    },
+    {
+      "periodo": "2T2026",
+      "valor": 5.4
+    }
+  ],
+  "faixas_referencia": [
+    {
+      "rotulo": "Pico da série (3T2020 e 1T2021)",
+      "valor": 14.9
+    },
+    {
+      "rotulo": "Menor trimestre da série (4T2025)",
+      "valor": 5.1
+    }
+  ],
+  "notas_metodologicas": [
+    "A nota lista apenas o 4º trimestre de cada ano e marcos; os demais trimestres estão no SIDRA, não transcritos.",
+    "1T2026 (6,1%) foi o menor já registrado para um primeiro trimestre; comparações justas são com o mesmo trimestre do ano anterior."
+  ],
+  "lacunas": [
+    "Trimestres intermediários de 2012–2024 não transcritos na nota."
+  ],
+  "ultimo_periodo": "2T2026",
+  "temas": [
+    "emprego-renda"
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/03_emprego_renda_pobreza_social.md",
+  "atualizado_em": "2026-10-21"
+}

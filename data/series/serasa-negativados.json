@@ -1,0 +1,62 @@
+{
+  "id": "serasa-negativados",
+  "titulo": "Pessoas com dívidas em atraso (Serasa)",
+  "descricao_simples": "Quantidade de brasileiros com o nome negativado por dívidas atrasadas.",
+  "unidade": "milhões de pessoas",
+  "tipo_grafico": "linha",
+  "frequencia": "anual",
+  "fonte": {
+    "nome": "Serasa, Mapa da Inadimplência",
+    "url": "https://www.serasa.com.br/limpa-nome-online/blog/mapa-da-inadimplencia-e-renogociacao-de-dividas-no-brasil/",
+    "acesso_em": "2026-10-21",
+    "tier": "imprensa"
+  },
+  "pontos": [
+    {
+      "periodo": "dez/2021",
+      "valor": 63.97
+    },
+    {
+      "periodo": "dez/2022",
+      "valor": 69.43,
+      "pct_adultos": 42.76
+    },
+    {
+      "periodo": "dez/2023",
+      "valor": 71.1
+    },
+    {
+      "periodo": "dez/2024",
+      "valor": 73.51
+    },
+    {
+      "periodo": "dez/2025",
+      "valor": 81.2
+    },
+    {
+      "periodo": "jan/2026",
+      "valor": 81.3
+    },
+    {
+      "periodo": "abr/2026",
+      "valor": 83.5,
+      "pct_adultos": 50.8,
+      "via_snippet": true
+    },
+    {
+      "periodo": "jul–ago/2026",
+      "valor": 83.9
+    }
+  ],
+  "faixas_referencia": [],
+  "notas_metodologicas": [
+    "Boa parte do salto ocorreu em 2025, coincidindo com a alta da Selic de 10,5% para 15%."
+  ],
+  "lacunas": [],
+  "ultimo_periodo": "jul–ago/2026",
+  "temas": [
+    "emprego-renda"
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/03_emprego_renda_pobreza_social.md",
+  "atualizado_em": "2026-10-21"
+}

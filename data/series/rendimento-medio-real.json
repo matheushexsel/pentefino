@@ -1,0 +1,92 @@
+{
+  "id": "rendimento-medio-real",
+  "titulo": "Rendimento médio real habitual do trabalho (PNAD Contínua)",
+  "descricao_simples": "Quanto, em média, as pessoas ocupadas ganham por mês, já descontada a inflação, no 4º trimestre de cada ano.",
+  "unidade": "R$ a preços do último trimestre",
+  "tipo_grafico": "linha",
+  "frequencia": "trimestral",
+  "fonte": {
+    "nome": "IBGE/SIDRA, tabela 5436 (variável 5933)",
+    "url": "https://apisidra.ibge.gov.br/values/t/5436/n1/all/v/all/p/all",
+    "acesso_em": "2026-10-21",
+    "tier": "oficial"
+  },
+  "pontos": [
+    {
+      "periodo": "4T2012",
+      "valor": 3181
+    },
+    {
+      "periodo": "4T2014",
+      "valor": 3341
+    },
+    {
+      "periodo": "4T2015",
+      "valor": 3232
+    },
+    {
+      "periodo": "4T2016",
+      "valor": 3252
+    },
+    {
+      "periodo": "4T2017",
+      "valor": 3298
+    },
+    {
+      "periodo": "4T2018",
+      "valor": 3343
+    },
+    {
+      "periodo": "4T2019",
+      "valor": 3353
+    },
+    {
+      "periodo": "4T2022",
+      "valor": 3310
+    },
+    {
+      "periodo": "4T2023",
+      "valor": 3410
+    },
+    {
+      "periodo": "4T2024",
+      "valor": 3555
+    },
+    {
+      "periodo": "4T2025",
+      "valor": 3734
+    },
+    {
+      "periodo": "1T2026",
+      "valor": 3795
+    },
+    {
+      "periodo": "2T2026",
+      "valor": 3738
+    }
+  ],
+  "faixas_referencia": [
+    {
+      "rotulo": "Média anual 2025 (Retrospectiva)",
+      "valor": 3560
+    },
+    {
+      "rotulo": "Trimestre jun–ago/2026 (tab. 6390)",
+      "valor": 3777
+    }
+  ],
+  "notas_metodologicas": [
+    "Conferir no SIDRA qual deflator a variável usa; a tabela traz mais de uma variante de deflacionamento.",
+    "Média anual 2025: R$ 3.560 (+5,7% vs 2024; +15,5% vs 2012). O rendimento só superou o nível de 2014 de forma consistente a partir de 2023.",
+    "IE-Unicamp (preços da época): R$ 2.843 (4T2017), R$ 2.875 (4T2018), R$ 2.879 (4T2019) — base diferente, não misturar."
+  ],
+  "lacunas": [
+    "4T2013, 4T2020 e 4T2021 não constam na nota."
+  ],
+  "ultimo_periodo": "2T2026",
+  "temas": [
+    "emprego-renda"
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/03_emprego_renda_pobreza_social.md",
+  "atualizado_em": "2026-10-21"
+}
