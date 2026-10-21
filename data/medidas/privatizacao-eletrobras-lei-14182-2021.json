@@ -16,7 +16,7 @@
     "Nenhum acionista ou grupo pode votar com mais de 10%; a União recebeu uma ação preferencial de classe especial com poder de veto. Itaipu e Eletronuclear ficaram fora, sob controle da União.",
     "Em troca das novas concessões, a empresa paga bonificação de outorga ao Tesouro (R$ 25,3 bi) e aportes à CDE (R$ 32 bi em 25 anos) e financia programas de revitalização de bacias (R$ 350 mi/ano ao São Francisco, R$ 295 mi/ano à Amazônia Legal e R$ 230 mi/ano a Furnas, por 10 anos).",
     "Inclui os chamados 'jabutis': contratação obrigatória de 8 GW de térmicas a gás por 15 anos em regiões sem gasoduto, prorrogação do Proinfa por 20 anos e reserva para PCHs; a Lei 15.269/2025 acrescentou 3.000 MW de biomassa.",
-    "A oferta de jun/2022 somou R$ 33,7 bilhões (R$ 42 por ação; primária R$ 30,76 bi, secundária do BNDES R$ 2,938 bi). O Senado aprovou por 42 a 37 (17/06/2021); o TCU liberou por 7 a 1 (18/05/2022)."
+    "A oferta de jun/2022 somou R$ 33,7 bilhões (R$ 42 por ação; primária R$ 30,76 bi, secundária do BNDES R$ 2,938 bi). Câmara: 313 a 166 em 19/05/2021 e 258 a 136 (emendas do Senado) em 21/06/2021; Senado: 42 a 37 em 17/06/2021; TCU: 7 a 1 em 18/05/2022. Em set/2026 o 'Grupo Governo' (União, BNDES, FND, fundos de bancos públicos, Petros e Previ) tinha 40,67% das ações ON e 40,43% do capital (RI da Axia). O aporte da Eletrobras à CDE em 2024 foi de R$ 1,30 bi (base ANEEL)."
   ],
   "quem_ganha": {
     "descricao": "Acionistas privados (a empresa foi capitalizada em R$ 30,76 bi e descotizou usinas que vendiam a ~R$ 75/MWh e podem vender a preço de mercado, ~R$ 150/MWh); o Tesouro (R$ 25,3 bi de outorga); os consumidores, via CDE (R$ 32 bi em 25 anos, que permitiram quitar em set/2024 os encargos CDE Covid e CDE Escassez); bacias hidrográficas (R$ 875 mi/ano por 10 anos); geradores térmicos a gás, PCHs e Proinfa contratados por obrigação legal.",
@@ -188,6 +188,36 @@
       "url": "https://static.poder360.com.br/uploads/2026/08/estudo-clp-Energia-cara-no-brasil-freia-a-competitividade-3ago2026.pdf",
       "acesso_em": "2026-10-21",
       "tier": "academico"
+    },
+    {
+      "nome": "Câmara dos Deputados – votação 2270789-73 (19/05/2021, 313 x 166)",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270789-73",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Câmara dos Deputados – votação 2270789-157 (21/06/2021, 258 x 136)",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270789-157",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Agência Senado – Senado aprova MP que desestatiza Eletrobras (17/06/2021)",
+      "url": "https://www12.senado.leg.br/noticias/materias/2021/06/17/senado-aprova-mp-que-desestatiza-eletrobras-texto-volta-para-camara",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Axia Energia RI – Composição acionária (posição set/2026)",
+      "url": "https://ri.axia.com.br/a-axia/estrutura-acionaria-composicao-acionaria/",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "ANEEL Dados Abertos – CDE, custeio dos benefícios tarifários (CSV gerado em 01/10/2026)",
+      "url": "https://dadosabertos.aneel.gov.br/dataset/conta-desenvolvimento-energetico-cde-custeio-dos-beneficios-tarifarios",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/06_energia_eletrobras_combustiveis.md",
@@ -196,6 +226,6 @@
     "energia"
   ],
   "lacunas": [
-    "Data exata de publicação da lei usada é a da notícia da sanção (13/07/2021); número do Acórdão do TCU e votação na Câmara não localizados; não há balanço oficial do efeito líquido na tarifa."
+    "Data exata de publicação da lei usada é a da notícia da sanção (13/07/2021); número do Acórdão do TCU não localizado (portal bloqueou acesso automatizado); não há balanço oficial do efeito líquido na tarifa."
   ]
 }

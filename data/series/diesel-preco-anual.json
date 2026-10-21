@@ -1,28 +1,77 @@
 {
   "id": "diesel-preco-anual",
-  "titulo": "Preço médio do diesel S10 (ANP)",
-  "descricao_simples": "Preço médio nacional do diesel S10 nos postos em 2026, em reais por litro.",
+  "titulo": "Preço médio anual do diesel S10 (ANP), 2013–2026",
+  "descricao_simples": "Média anual do preço do diesel S10 nos postos do Brasil, em reais por litro (o S10 passou a ser pesquisado pela ANP no fim de 2012).",
   "unidade": "R$/l",
   "tipo_grafico": "linha",
-  "frequencia": "mensal",
+  "frequencia": "anual",
   "fonte": {
-    "nome": "ANP – Levantamento de Preços de Combustíveis",
-    "url": "https://www.gov.br/anp/pt-br/assuntos/precos-e-defesa-da-concorrencia/precos/levantamento-de-precos-de-combustiveis-ultimas-semanas-pesquisadas",
+    "nome": "ANP – Série histórica do levantamento de preços (médias mensais Brasil)",
+    "url": "https://www.gov.br/anp/pt-br/assuntos/precos-e-defesa-da-concorrencia/precos/precos-revenda-e-de-distribuicao-combustiveis/serie-historica-do-levantamento-de-precos",
     "acesso_em": "2026-10-21",
     "tier": "oficial"
   },
   "pontos": [
     {
-      "periodo": "jan/2026",
-      "valor": 6.13
+      "periodo": "dez/2012",
+      "valor": 2.226,
+      "rotulo": "só dezembro"
     },
     {
-      "periodo": "abr/2026",
-      "valor": 7.6
+      "periodo": "2013",
+      "valor": 2.413
     },
     {
-      "periodo": "out/2026",
-      "valor": 7.34
+      "periodo": "2014",
+      "valor": 2.634
+    },
+    {
+      "periodo": "2015",
+      "valor": 2.976
+    },
+    {
+      "periodo": "2016",
+      "valor": 3.155
+    },
+    {
+      "periodo": "2017",
+      "valor": 3.248
+    },
+    {
+      "periodo": "2018",
+      "valor": 3.582
+    },
+    {
+      "periodo": "2019",
+      "valor": 3.673
+    },
+    {
+      "periodo": "2020",
+      "valor": 3.512
+    },
+    {
+      "periodo": "2021",
+      "valor": 4.626
+    },
+    {
+      "periodo": "2022",
+      "valor": 6.682
+    },
+    {
+      "periodo": "2023",
+      "valor": 5.843
+    },
+    {
+      "periodo": "2024",
+      "valor": 5.99
+    },
+    {
+      "periodo": "2025",
+      "valor": 6.152
+    },
+    {
+      "periodo": "2026 (jan–set)",
+      "valor": 6.893
     }
   ],
   "faixas_referencia": [
@@ -32,18 +81,16 @@
     }
   ],
   "notas_metodologicas": [
-    "jan/2026 = semana de 28/12/2025 a 03/01/2026; abr/2026 = pico na semana até 11/04/2026; out/2026 = semana de 11 a 17/10/2026 (ANP).",
-    "Diesel S500: R$ 6,06 (jan/2026), R$ 6,99 (semana de 27/09–03/10/2026, +15,3%) e R$ 7,00 (11–17/10/2026).",
-    "Até o início de outubro de 2026 o S10 subiu 20,5% no ano (R$ 7,38 na semana de 27/09–03/10). Mais de 25% do diesel consumido é importado.",
-    "Apesar do nome do id, as notas só trazem pontos de 2026; a frequência registrada é mensal/semanal."
+    "Fonte: ANP, 'Série histórica do levantamento de preços' (planilhas mensal-brasil-2001-a-2012.xlsx e mensal-brasil-desde-jan2013.xlsx); média simples das médias mensais nacionais de revenda, cálculo próprio. 2020 sem ago–out (pesquisa suspensa); 2026 = jan–set. Valores nominais.",
+    "Semanas de referência (ANP): 28/12/2025–03/01/2026 R$ 6,13; pico na semana até 11/04/2026 R$ 7,60; 27/09–03/10/2026 R$ 7,38 (+20,5% no ano); 11–17/10/2026 R$ 7,34. A série do diesel S500 (2003–2026) está em 'diesel-s500-preco-anual'. Mais de 25% do diesel consumido é importado."
   ],
-  "ultimo_periodo": "out/2026",
+  "ultimo_periodo": "2026 (jan–set)",
   "temas": [
     "combustiveis"
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/06_energia_eletrobras_combustiveis.md",
   "atualizado_em": "2026-10-21",
   "lacunas": [
-    "Série anual do diesel 2003–2025 não consta das notas."
+    "Dados brutos baixados na rodada 2 de enriquecimento (21/10/2026); valores calculados sobre base oficial estão indicados como cálculo próprio na nota."
   ]
 }

@@ -1,28 +1,28 @@
 {
   "id": "educacao-quem-e-responsavel",
   "pergunta": "Educação: quem cuida da creche, da escola e da universidade?",
-  "resposta_curta": "Prefeituras cuidam de creches, pré-escola e anos iniciais do fundamental; estados, dos anos finais e do ensino médio; a União, das universidades e institutos federais, da BNCC, do Enem e do financiamento via Fundeb (cuja complementação federal sobe de 10% para 23% até 2026). O Ideb reflete sobretudo redes municipais e estaduais — Ceará e Paraná são os destaques — enquanto o piso dos professores é fixado pela União, mas pago por estados e municípios.",
+  "resposta_curta": "Prefeituras cuidam de creches, pré-escola e anos iniciais do fundamental; estados, dos anos finais e do ensino médio; a União, das universidades e institutos federais, da BNCC, do Enem e do financiamento via Fundeb (cuja complementação federal subiu de 12% em 2021 para 23% em 2026, pela Lei 14.113/2020). O Ideb reflete sobretudo redes municipais e estaduais — Paraná e Ceará lideram em 2025 — enquanto o piso dos professores é fixado pela União, mas pago por estados e municípios.",
   "temas": [
     "educacao"
   ],
   "cadeia_de_responsabilidade": [
     {
       "ator": "Prefeituras",
-      "o_que_controla": "Creches, pré-escola e anos iniciais do ensino fundamental (Ideb anos iniciais: 6,0 em 2023, meta atingida); alfabetização na idade certa (66% em 2025); pagamento do piso aos professores municipais.",
+      "o_que_controla": "Creches, pré-escola e anos iniciais do ensino fundamental (Ideb anos iniciais: 6,0 em 2023 e 6,3 em 2025, meta superada); alfabetização na idade certa (66% em 2025); pagamento do piso aos professores municipais.",
       "o_que_nao_controla": "Valor do piso (fixado pela União), BNCC, Enem, ensino médio.",
       "peso": "alto",
       "url": "https://pt.wikipedia.org/wiki/Fundeb"
     },
     {
       "ator": "Governos estaduais",
-      "o_que_controla": "Ensino médio (Ideb 4,3 em 2023, meta 5,2) e parte dos anos finais (Ideb 5,0, meta 5,5); implementação do Novo Ensino Médio; maior parte do Fundeb (R$ 151 bi de estados e municípios em 2019).",
+      "o_que_controla": "Ensino médio (Ideb 4,3 em 2023 e 4,5 em 2025, meta 5,2 não atingida desde 2013) e parte dos anos finais (Ideb 5,0 em 2023 e 5,3 em 2025, meta 5,5); implementação do Novo Ensino Médio; maior parte do Fundeb (R$ 151 bi de estados e municípios em 2019).",
       "o_que_nao_controla": "Currículo nacional (BNCC), regras do Fundeb, piso salarial, universidades federais.",
       "peso": "alto",
       "url": "https://pt.wikipedia.org/wiki/%C3%8Dndice_de_Desenvolvimento_da_Educa%C3%A7%C3%A3o_B%C3%A1sica"
     },
     {
       "ator": "Governo federal (MEC)",
-      "o_que_controla": "Complementação da União ao Fundeb (R$ 15 bi em 2019; de 10% para 23% até 2026), universidades e institutos federais (orçamento discricionário de R$ 6,7 bi em 2016 para R$ 3,5 bi em 2021 e R$ 5 bi em 2024), Enem, Pé-de-Meia (R$ 12,5 bi/ano), Compromisso Criança Alfabetizada, piso do magistério (R$ 5.130,63 em 2026), avaliação (Saeb/Ideb/PISA via Inep).",
+      "o_que_controla": "Complementação da União ao Fundeb (R$ 15 bi em 2019; 12% em 2021, 15% em 2022, 17% em 2023, 19% em 2024, 21% em 2025 e 23% em 2026, art. 41 da Lei 14.113/2020), universidades e institutos federais (orçamento discricionário de R$ 6,7 bi em 2016 para R$ 3,5 bi em 2021 e R$ 5 bi em 2024), Enem, Pé-de-Meia (R$ 12,5 bi/ano), Compromisso Criança Alfabetizada, piso do magistério (R$ 5.130,63 em 2026), avaliação (Saeb/Ideb/PISA via Inep).",
       "o_que_nao_controla": "Gestão das escolas de educação básica, contratação de professores das redes, 90% do Fundeb.",
       "peso": "medio",
       "url": "https://pt.wikipedia.org/wiki/Fundeb"
@@ -77,8 +77,13 @@
     },
     {
       "data": "2020-08",
-      "evento": "EC 108 torna o Fundeb permanente e eleva a complementação da União de 10% para 23% até 2026 (iniciativa do Congresso, governo Bolsonaro); regulamentada em 22/03/2021.",
+      "evento": "EC 108 torna o Fundeb permanente e eleva a complementação da União de 10% para 23% até 2026 (iniciativa do Congresso, governo Bolsonaro).",
       "url": "https://pt.wikipedia.org/wiki/Fundeb"
+    },
+    {
+      "data": "2020-12-25",
+      "evento": "Lei 14.113 regulamenta o novo Fundeb; art. 41 fixa a complementação em 12% (2021), 15% (2022), 17% (2023), 19% (2024), 21% (2025) e 23% (2026).",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l14113.htm"
     },
     {
       "data": "2023",
@@ -109,6 +114,16 @@
       "data": "2026-05-26",
       "evento": "Senado aprova MP 1.334/2026: piso do magistério de R$ 5.130,63 (+5,4%); nova regra INPC + 50% do crescimento real médio do Fundeb.",
       "url": "https://www.congressoemfoco.com.br/noticia/119194/reajuste-de-5-4-no-piso-salarial-dos-professores-vai-a-sancao"
+    },
+    {
+      "data": "2026-08-05",
+      "evento": "Inep divulga o Ideb 2025: 6,3 (anos iniciais, meta superada), 5,3 (anos finais, meta 5,5) e 4,5 (ensino médio, meta 5,2) — recordes da série, mas 12 anos sem cumprir as metas de anos finais e médio.",
+      "url": "https://www.opovo.com.br/noticias/brasil/2026/08/05/amp/ideb-mostra-avanco-da-educacao-basica-no-pais.html"
+    },
+    {
+      "data": "2026-09-08",
+      "evento": "Divulgado o PISA 2025: Brasil 377 em matemática (71º de 91), 408 em leitura (53º) e 409 em ciências (68º); estagnação desde 2009.",
+      "url": "https://en.wikipedia.org/wiki/Programme_for_International_Student_Assessment"
     }
   ],
   "numeros": [
@@ -141,15 +156,19 @@
       }
     },
     {
-      "rotulo": "Complementação da União — alíquota até 2026",
+      "rotulo": "Complementação da União — alíquota em 2026",
       "valor": 23,
-      "unidade": "% (de 10%)",
+      "unidade": "% dos fundos estaduais",
       "periodo": "2026",
       "fonte": {
-        "nome": "Wikipédia pt — Fundeb (compilação com fontes)",
-        "url": "https://pt.wikipedia.org/wiki/Fundeb",
+        "nome": "Planalto — Lei 14.113/2020 (novo Fundeb), texto integral",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l14113.htm",
         "acesso_em": "2026-10-21",
-        "tier": "imprensa"
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "2021",
+        "valor": 12
       }
     },
     {
@@ -182,12 +201,12 @@
     },
     {
       "rotulo": "Ideb anos iniciais",
-      "valor": 6.0,
+      "valor": 6.3,
       "unidade": "pontos",
-      "periodo": "2023",
+      "periodo": "2025",
       "fonte": {
-        "nome": "Wikipédia pt — Ideb (compilação de dados Inep)",
-        "url": "https://pt.wikipedia.org/wiki/%C3%8Dndice_de_Desenvolvimento_da_Educa%C3%A7%C3%A3o_B%C3%A1sica",
+        "nome": "Agência Brasil via O Povo, 05/08/2026 — Ideb 2025",
+        "url": "https://www.opovo.com.br/noticias/brasil/2026/08/05/amp/ideb-mostra-avanco-da-educacao-basica-no-pais.html",
         "acesso_em": "2026-10-21",
         "tier": "imprensa"
       },
@@ -198,34 +217,66 @@
     },
     {
       "rotulo": "Ideb anos finais",
-      "valor": 5.0,
+      "valor": 5.3,
       "unidade": "pontos",
-      "periodo": "2023",
+      "periodo": "2025",
       "fonte": {
-        "nome": "Wikipédia pt — Ideb (compilação de dados Inep)",
-        "url": "https://pt.wikipedia.org/wiki/%C3%8Dndice_de_Desenvolvimento_da_Educa%C3%A7%C3%A3o_B%C3%A1sica",
+        "nome": "Agência Brasil via O Povo, 05/08/2026 — Ideb 2025",
+        "url": "https://www.opovo.com.br/noticias/brasil/2026/08/05/amp/ideb-mostra-avanco-da-educacao-basica-no-pais.html",
         "acesso_em": "2026-10-21",
         "tier": "imprensa"
       },
       "comparacao": {
-        "rotulo": "meta 2023",
+        "rotulo": "meta 2025",
         "valor": 5.5
       }
     },
     {
       "rotulo": "Ideb ensino médio",
-      "valor": 4.3,
+      "valor": 4.5,
       "unidade": "pontos",
-      "periodo": "2023",
+      "periodo": "2025",
       "fonte": {
-        "nome": "Wikipédia pt — Ideb (compilação de dados Inep)",
-        "url": "https://pt.wikipedia.org/wiki/%C3%8Dndice_de_Desenvolvimento_da_Educa%C3%A7%C3%A3o_B%C3%A1sica",
+        "nome": "Agência Brasil via O Povo, 05/08/2026 — Ideb 2025",
+        "url": "https://www.opovo.com.br/noticias/brasil/2026/08/05/amp/ideb-mostra-avanco-da-educacao-basica-no-pais.html",
         "acesso_em": "2026-10-21",
         "tier": "imprensa"
       },
       "comparacao": {
-        "rotulo": "meta 2023",
+        "rotulo": "meta 2025",
         "valor": 5.2
+      }
+    },
+    {
+      "rotulo": "Municípios com Ideb até 4,9 nos anos iniciais",
+      "valor": 442,
+      "unidade": "municípios",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Agência Brasil via O Povo, 05/08/2026 — Ideb 2025",
+        "url": "https://www.opovo.com.br/noticias/brasil/2026/08/05/amp/ideb-mostra-avanco-da-educacao-basica-no-pais.html",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "2005",
+        "valor": 4110
+      }
+    },
+    {
+      "rotulo": "PISA 2025 — matemática",
+      "valor": 377,
+      "unidade": "pontos",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Wikipedia en — Programme for International Student Assessment (tabelas 2022 e 2025, citando OCDE)",
+        "url": "https://en.wikipedia.org/wiki/Programme_for_International_Student_Assessment",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "média OCDE 2025",
+        "valor": 463
       }
     },
     {
@@ -240,7 +291,7 @@
         "tier": "oficial"
       },
       "comparacao": {
-        "rotulo": "média OCDE",
+        "rotulo": "média OCDE 2022",
         "valor": 472
       }
     },
@@ -344,17 +395,23 @@
   "mitos_e_fatos": [
     {
       "mito": "O Ideb é nota do governo federal.",
-      "fato": "O Ideb mede escolas de redes municipais (anos iniciais) e estaduais (anos finais e ensino médio). Os líderes de 2023 são estados e suas redes: Paraná (6,7), Ceará (6,6) e SP (6,5) nos anos iniciais; Ceará, Paraná e Goiás (5,5) nos finais; Paraná (4,9) no médio. A União financia via Fundeb e define a BNCC.",
+      "fato": "O Ideb mede escolas de redes municipais (anos iniciais) e estaduais (anos finais e ensino médio). Os líderes de 2025 são estados e suas redes: Paraná (7,0; 6,9 na Agência Brasil), Ceará (6,8) e Santa Catarina (6,7) nos anos iniciais; Paraná (5,9), Ceará e Goiás (5,7) nos finais; Paraná (5,1) e Piauí (5,0) no médio. A União avalia (Inep), financia via Fundeb e define a BNCC.",
       "fontes": [
         {
-          "nome": "Folha Vitória — Ideb 2023 e metas",
-          "url": "https://www.folhavitoria.com.br/geral/brasil-fica-estagnado-na-qualidade-de-ensino-e-longe-da-maioria-das-metas/",
+          "nome": "Agência Brasil via O Povo, 05/08/2026 — Ideb 2025",
+          "url": "https://www.opovo.com.br/noticias/brasil/2026/08/05/amp/ideb-mostra-avanco-da-educacao-basica-no-pais.html",
           "acesso_em": "2026-10-21",
           "tier": "imprensa"
         },
         {
-          "nome": "O Povo — Ideb 2023 (Ceará)",
-          "url": "https://www.opovo.com.br/noticias/ceara/2024/08/14/amp/ceara-supera-meta-nacional-do-ideb-no-ensino-fundamental-e-fica-abaixo-no-ensino-medio-em-2023.html",
+          "nome": "PEBSP — tabela Ideb/Inep 2025 por estado (05/08/2026)",
+          "url": "https://www.pebsp.com/mec-apresenta-resultados-do-ideb-2025-veja-as-notas-de-todos-os-estados/",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "Folha Vitória — Ideb 2023 e metas",
+          "url": "https://www.folhavitoria.com.br/geral/brasil-fica-estagnado-na-qualidade-de-ensino-e-longe-da-maioria-das-metas/",
           "acesso_em": "2026-10-21",
           "tier": "imprensa"
         }
@@ -362,13 +419,19 @@
     },
     {
       "mito": "O Fundeb permanente foi obra do governo Bolsonaro.",
-      "fato": "A EC 108 foi aprovada em ago/2020, durante o governo Bolsonaro, mas por iniciativa do Congresso; elevou a complementação da União de 10% para 23% até 2026. O Fundeb original é de 2007 (governo Lula 2).",
+      "fato": "A EC 108 foi aprovada em ago/2020, durante o governo Bolsonaro, mas por iniciativa do Congresso; a Lei 14.113/2020 escalonou a complementação da União em 12% (2021), 15% (2022), 17% (2023), 19% (2024), 21% (2025) e 23% (2026) — ou seja, a maior parte da escada foi paga no governo Lula 3. O Fundeb original é de 2007 (governo Lula 2).",
       "fontes": [
         {
           "nome": "Wikipédia pt — Fundeb (compilação com fontes)",
           "url": "https://pt.wikipedia.org/wiki/Fundeb",
           "acesso_em": "2026-10-21",
           "tier": "imprensa"
+        },
+        {
+          "nome": "Planalto — Lei 14.113/2020 (novo Fundeb), texto integral",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l14113.htm",
+          "acesso_em": "2026-10-21",
+          "tier": "oficial"
         }
       ]
     },
@@ -410,7 +473,7 @@
     },
     {
       "mito": "O ensino médio melhorou muito.",
-      "fato": "O Ideb do ensino médio ficou parado entre 2011 e 2017 (3,7–3,8), subiu para 4,2 em 2019 e 4,3 em 2023, ainda longe da meta de 5,2 e, segundo o Inep, abaixo do nível pré-pandemia (4,4 em 2019). O PISA 2022 ficou estável e baixo: 379 em matemática.",
+      "fato": "O Ideb do ensino médio ficou parado entre 2011 e 2017 (3,7–3,8), subiu para 4,2 em 2019, 4,3 em 2023 e 4,5 em 2025 — recorde da série, mas ainda longe da meta de 5,2, não cumprida desde 2013; só o Paraná (5,1) e o Piauí (5,0) passam de 5. O PISA segue estagnado desde 2009: 379 em matemática em 2022 e 377 em 2025 (média OCDE 463).",
       "fontes": [
         {
           "nome": "Wikipédia pt — Ideb (compilação de dados Inep)",
@@ -419,16 +482,22 @@
           "tier": "imprensa"
         },
         {
-          "nome": "Folha Vitória — Ideb 2023 e metas",
-          "url": "https://www.folhavitoria.com.br/geral/brasil-fica-estagnado-na-qualidade-de-ensino-e-longe-da-maioria-das-metas/",
+          "nome": "Agência Brasil via O Povo, 05/08/2026 — Ideb 2025",
+          "url": "https://www.opovo.com.br/noticias/brasil/2026/08/05/amp/ideb-mostra-avanco-da-educacao-basica-no-pais.html",
           "acesso_em": "2026-10-21",
           "tier": "imprensa"
         },
         {
-          "nome": "Agência Gov — resultados do PISA 2022",
-          "url": "https://agenciagov.ebc.com.br/noticias/202312/divulgados-os-resultados-do-pisa-2022",
+          "nome": "Gazeta do Povo — Ideb 2025 e metas do PNE",
+          "url": "https://www.gazetadopovo.com.br/educacao/ideb-escolas-encerram-2025-sem-atingir-metas-previstas-2021/",
           "acesso_em": "2026-10-21",
-          "tier": "oficial"
+          "tier": "imprensa"
+        },
+        {
+          "nome": "Wikipedia en — Programme for International Student Assessment (tabelas 2022 e 2025, citando OCDE)",
+          "url": "https://en.wikipedia.org/wiki/Programme_for_International_Student_Assessment",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
         }
       ]
     }
@@ -455,6 +524,12 @@
       "tier": "imprensa"
     },
     {
+      "nome": "Planalto — Lei 14.113/2020 (novo Fundeb), texto integral",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l14113.htm",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
       "nome": "Congresso em Foco — reajuste do piso dos professores (2026)",
       "url": "https://www.congressoemfoco.com.br/noticia/119194/reajuste-de-5-4-no-piso-salarial-dos-professores-vai-a-sancao",
       "acesso_em": "2026-10-21",
@@ -469,6 +544,24 @@
     {
       "nome": "Wikipédia pt — Ideb (compilação de dados Inep)",
       "url": "https://pt.wikipedia.org/wiki/%C3%8Dndice_de_Desenvolvimento_da_Educa%C3%A7%C3%A3o_B%C3%A1sica",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Agência Brasil via O Povo, 05/08/2026 — Ideb 2025",
+      "url": "https://www.opovo.com.br/noticias/brasil/2026/08/05/amp/ideb-mostra-avanco-da-educacao-basica-no-pais.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Gazeta do Povo — Ideb 2025 e metas do PNE",
+      "url": "https://www.gazetadopovo.com.br/educacao/ideb-escolas-encerram-2025-sem-atingir-metas-previstas-2021/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "PEBSP — tabela Ideb/Inep 2025 por estado (05/08/2026)",
+      "url": "https://www.pebsp.com/mec-apresenta-resultados-do-ideb-2025-veja-as-notas-de-todos-os-estados/",
       "acesso_em": "2026-10-21",
       "tier": "imprensa"
     },
@@ -489,6 +582,12 @@
       "url": "https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/ideb/resultados",
       "acesso_em": "2026-10-21",
       "tier": "oficial"
+    },
+    {
+      "nome": "Wikipedia en — Programme for International Student Assessment (tabelas 2022 e 2025, citando OCDE)",
+      "url": "https://en.wikipedia.org/wiki/Programme_for_International_Student_Assessment",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
     },
     {
       "nome": "Agência Gov — resultados do PISA 2022",
@@ -570,9 +669,9 @@
     }
   ],
   "lacunas": [
-    "Cronograma anual exato da complementação do Fundeb (10% para 23%) e valores de 2023–2026 não obtidos.",
-    "Matrículas em creche (meta PNE 50%), gasto por aluno (OCDE), ProUni/FIES por governo e cotas não localizados.",
-    "Ideb 2025 não divulgado nas fontes da nota."
+    "Valores anuais em R$ da complementação da União ao Fundeb (VAAF/VAAT/VAAR, 2021–2026) não obtidos.",
+    "Matrículas em creche (meta PNE 50%), gasto por aluno (OCDE), ProUni/FIES por ano (só 420,3 mil bolsas em 2020 e 296,3 mil em 2021) e cotas não localizados.",
+    "Ideb 2025 por UF vem de fonte secundária; Paraná diverge (6,9 ou 7,0). PISA 2025 não confirmado no site da OCDE."
   ],
   "atualizado_em": "2026-10-21",
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/07_saude_seguranca_educacao_infra_ambiente.md"

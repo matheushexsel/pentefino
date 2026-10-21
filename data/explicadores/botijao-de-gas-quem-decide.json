@@ -43,7 +43,48 @@
       "url": "https://www.maisgoias.com.br/brasil/fornecedores-de-gas-de-cozinha-criticam-governo-por-precos-do-programa-gas-do-povo/"
     }
   ],
-  "composicao": [],
+  "composicao": [
+    {
+      "rotulo": "Distribuição e revenda",
+      "percentual": 53.0,
+      "fonte": {
+        "nome": "Petrobras – Preços de venda de combustíveis: GLP (composição, coleta 11–17/10/2026)",
+        "url": "https://precos.petrobras.com.br/precos-glp",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    {
+      "rotulo": "Parcela da Petrobras (realização)",
+      "percentual": 30.3,
+      "fonte": {
+        "nome": "Petrobras – Preços de venda de combustíveis: GLP (composição, coleta 11–17/10/2026)",
+        "url": "https://precos.petrobras.com.br/precos-glp",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    {
+      "rotulo": "ICMS (imposto estadual)",
+      "percentual": 16.7,
+      "fonte": {
+        "nome": "Petrobras – Preços de venda de combustíveis: GLP (composição, coleta 11–17/10/2026)",
+        "url": "https://precos.petrobras.com.br/precos-glp",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    {
+      "rotulo": "Impostos federais",
+      "percentual": 0.0,
+      "fonte": {
+        "nome": "Petrobras – Preços de venda de combustíveis: GLP (composição, coleta 11–17/10/2026)",
+        "url": "https://precos.petrobras.com.br/precos-glp",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    }
+  ],
   "linha_do_tempo": [
     {
       "data": "2021-11-19",
@@ -253,6 +294,70 @@
         "acesso_em": "2026-10-21",
         "tier": "imprensa"
       }
+    },
+    {
+      "rotulo": "Botijão R$ 114,73: parcela da Petrobras",
+      "valor": 34.77,
+      "unidade": "R$ (30,3%)",
+      "periodo": "11–17/10/2026",
+      "fonte": {
+        "nome": "Petrobras – Preços de venda de combustíveis: GLP (composição, coleta 11–17/10/2026)",
+        "url": "https://precos.petrobras.com.br/precos-glp",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "Distribuição e revenda (53,0%)",
+        "valor": 60.85
+      }
+    },
+    {
+      "rotulo": "Botijão: ICMS",
+      "valor": 19.11,
+      "unidade": "R$ (16,7%)",
+      "periodo": "11–17/10/2026",
+      "fonte": {
+        "nome": "Petrobras – Preços de venda de combustíveis: GLP (composição, coleta 11–17/10/2026)",
+        "url": "https://precos.petrobras.com.br/precos-glp",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "Impostos federais",
+        "valor": 0.0
+      }
+    },
+    {
+      "rotulo": "Média anual do botijão (ANP)",
+      "valor": 112.87,
+      "unidade": "R$",
+      "periodo": "2026 (jan–set)",
+      "fonte": {
+        "nome": "ANP – Série histórica do levantamento de preços (médias mensais Brasil)",
+        "url": "https://www.gov.br/anp/pt-br/assuntos/precos-e-defesa-da-concorrencia/precos/precos-revenda-e-de-distribuicao-combustiveis/serie-historica-do-levantamento-de-precos",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "2003",
+        "valor": 29.2
+      }
+    },
+    {
+      "rotulo": "Alta nominal do GLP 2003→2025",
+      "valor": 271.8,
+      "unidade": "%",
+      "periodo": "2003–2025",
+      "fonte": {
+        "nome": "ANP – Série histórica do levantamento de preços (médias mensais Brasil)",
+        "url": "https://www.gov.br/anp/pt-br/assuntos/precos-e-defesa-da-concorrencia/precos/precos-revenda-e-de-distribuicao-combustiveis/serie-historica-do-levantamento-de-precos",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "IPCA no período",
+        "valor": 232.1
+      }
     }
   ],
   "series": [
@@ -261,17 +366,17 @@
   "mitos_e_fatos": [
     {
       "mito": "O governo federal fixa o preço do botijão.",
-      "fato": "Não. O preço resulta do GLP vendido pela Petrobras e importadores, do ICMS fixado pelo Confaz (R$ 1,47/kg em 2026), de tributos federais e das margens de distribuidoras e revendas. O governo federal atua pela subvenção (R$ 660 milhões em 2026) e pelo Gás do Povo; os preços de referência que fixa valem só para o programa, e os revendedores os contestam.",
+      "fato": "Não. Pela composição oficial da Petrobras (coleta ANP 11–17/10/2026), do botijão de R$ 114,73 a parcela da estatal é R$ 34,77 (30,3%), distribuição e revenda ficam com R$ 60,85 (53,0%), o ICMS fixado pelo Confaz é R$ 19,11 (16,7%) e os impostos federais são zero. O governo federal atua pela subvenção (R$ 660 milhões em 2026) e pelo Gás do Povo; os preços de referência que fixa valem só para o programa, e os revendedores os contestam.",
       "fontes": [
+        {
+          "nome": "Petrobras – Preços de venda de combustíveis: GLP (composição, coleta 11–17/10/2026)",
+          "url": "https://precos.petrobras.com.br/precos-glp",
+          "acesso_em": "2026-10-21",
+          "tier": "oficial"
+        },
         {
           "nome": "eixos – Como fica o alívio aos combustíveis com o fim da desoneração e o novo modelo de subsídio (01/06/2026)",
           "url": "https://eixos.com.br/newsletters/comece-seu-dia/como-fica-o-alivio-aos-combustiveis-com-o-fim-da-desoneracao-e-o-novo-modelo-de-subsidio/",
-          "acesso_em": "2026-10-21",
-          "tier": "imprensa"
-        },
-        {
-          "nome": "Diário do Comércio – ICMS da gasolina e do diesel sobe em 2026",
-          "url": "https://diariodocomercio.com.br/economia/icms-gasolina-diesel-subir-2026-veja-novos-valores/",
           "acesso_em": "2026-10-21",
           "tier": "imprensa"
         },
@@ -322,6 +427,24 @@
           "url": "https://diariodocomercio.com.br/economia/icms-gasolina-diesel-subir-2026-veja-novos-valores/",
           "acesso_em": "2026-10-21",
           "tier": "imprensa"
+        }
+      ]
+    },
+    {
+      "mito": "O preço do botijão é culpa da Petrobras.",
+      "fato": "A parcela da Petrobras é menos de um terço (30,3%); mais da metade do preço (53,0%) fica na distribuição e na revenda. De 2003 a 2025 o botijão subiu 271,8% em média anual (ANP), acima do IPCA (232,1%).",
+      "fontes": [
+        {
+          "nome": "Petrobras – Preços de venda de combustíveis: GLP (composição, coleta 11–17/10/2026)",
+          "url": "https://precos.petrobras.com.br/precos-glp",
+          "acesso_em": "2026-10-21",
+          "tier": "oficial"
+        },
+        {
+          "nome": "ANP – Série histórica do levantamento de preços (médias mensais Brasil)",
+          "url": "https://www.gov.br/anp/pt-br/assuntos/precos-e-defesa-da-concorrencia/precos/precos-revenda-e-de-distribuicao-combustiveis/serie-historica-do-levantamento-de-precos",
+          "acesso_em": "2026-10-21",
+          "tier": "oficial"
         }
       ]
     }
@@ -406,14 +529,25 @@
       "url": "https://www.maisgoias.com.br/brasil/fornecedores-de-gas-de-cozinha-criticam-governo-por-precos-do-programa-gas-do-povo/",
       "acesso_em": "2026-10-21",
       "tier": "imprensa"
+    },
+    {
+      "nome": "Petrobras – Preços de venda de combustíveis: GLP (composição, coleta 11–17/10/2026)",
+      "url": "https://precos.petrobras.com.br/precos-glp",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "ANP – Série histórica do levantamento de preços (médias mensais Brasil)",
+      "url": "https://www.gov.br/anp/pt-br/assuntos/precos-e-defesa-da-concorrencia/precos/precos-revenda-e-de-distribuicao-combustiveis/serie-historica-do-levantamento-de-precos",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/06_energia_eletrobras_combustiveis.md",
   "atualizado_em": "2026-10-21",
   "lacunas": [
     "Portaria com os preços de referência do Gás do Povo para 2026 não localizada; os valores por estado são da portaria de 2025.",
-    "Decomposição percentual do preço do botijão (parcela da Petrobras, ICMS, margens) não consta das notas; 'composicao' ficou vazia.",
-    "Situação atual (2026) do PIS/Cofins sobre o GLP não documentada nas notas; a LC 192/2022 zerou os tributos em 2022.",
-    "Datas exatas da Lei 14.237/2021 e da MP 1.155/2023 não constam das notas."
+    "Datas exatas da Lei 14.237/2021 e da MP 1.155/2023 não constam das notas.",
+    "A composição da Petrobras mostra impostos federais iguais a zero no GLP em out/2026."
   ]
 }

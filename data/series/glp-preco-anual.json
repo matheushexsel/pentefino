@@ -1,43 +1,126 @@
 {
   "id": "glp-preco-anual",
-  "titulo": "Preço médio do botijão de gás de 13 kg (ANP)",
-  "descricao_simples": "Preço médio nacional do botijão de GLP de 13 kg em 2026, em reais.",
+  "titulo": "Preço médio anual do botijão de gás de 13 kg (ANP), 2003–2026",
+  "descricao_simples": "Média anual do preço do botijão de GLP de 13 kg no Brasil, em reais.",
   "unidade": "R$ por botijão de 13 kg",
   "tipo_grafico": "linha",
-  "frequencia": "mensal",
+  "frequencia": "anual",
   "fonte": {
-    "nome": "ANP – Levantamento de Preços de Combustíveis",
-    "url": "https://www.gov.br/anp/pt-br/assuntos/precos-e-defesa-da-concorrencia/precos/levantamento-de-precos-de-combustiveis-ultimas-semanas-pesquisadas",
+    "nome": "ANP – Série histórica do levantamento de preços (médias mensais Brasil)",
+    "url": "https://www.gov.br/anp/pt-br/assuntos/precos-e-defesa-da-concorrencia/precos/precos-revenda-e-de-distribuicao-combustiveis/serie-historica-do-levantamento-de-precos",
     "acesso_em": "2026-10-21",
     "tier": "oficial"
   },
   "pontos": [
     {
-      "periodo": "jan/2026",
-      "valor": 111.12
+      "periodo": "2003",
+      "valor": 29.2
     },
     {
-      "periodo": "set/2026",
-      "valor": 116.13
+      "periodo": "2004",
+      "valor": 30.95
     },
     {
-      "periodo": "out/2026",
-      "valor": 114.73
+      "periodo": "2005",
+      "valor": 30.11
+    },
+    {
+      "periodo": "2006",
+      "valor": 32.16
+    },
+    {
+      "periodo": "2007",
+      "valor": 32.92
+    },
+    {
+      "periodo": "2008",
+      "valor": 33.15
+    },
+    {
+      "periodo": "2009",
+      "valor": 35.7
+    },
+    {
+      "periodo": "2010",
+      "valor": 38.2
+    },
+    {
+      "periodo": "2011",
+      "valor": 38.47
+    },
+    {
+      "periodo": "2012",
+      "valor": 39.3
+    },
+    {
+      "periodo": "2013",
+      "valor": 41.16
+    },
+    {
+      "periodo": "2014",
+      "valor": 43.21
+    },
+    {
+      "periodo": "2015",
+      "valor": 48.29
+    },
+    {
+      "periodo": "2016",
+      "valor": 54.07
+    },
+    {
+      "periodo": "2017",
+      "valor": 59.0
+    },
+    {
+      "periodo": "2018",
+      "valor": 67.99
+    },
+    {
+      "periodo": "2019",
+      "valor": 69.09
+    },
+    {
+      "periodo": "2020",
+      "valor": 70.74
+    },
+    {
+      "periodo": "2021",
+      "valor": 90.51
+    },
+    {
+      "periodo": "2022",
+      "valor": 109.86
+    },
+    {
+      "periodo": "2023",
+      "valor": 104.22
+    },
+    {
+      "periodo": "2024",
+      "valor": 103.59
+    },
+    {
+      "periodo": "2025",
+      "valor": 108.58
+    },
+    {
+      "periodo": "2026 (jan–set)",
+      "valor": 112.87
     }
   ],
   "faixas_referencia": [],
   "notas_metodologicas": [
-    "jan/2026 = semana de 28/12/2025 a 03/01/2026; set/2026 = semana de 27/09 a 03/10/2026 (+4,5% no ano); out/2026 = semana de 11 a 17/10/2026 (ANP), quando o GLP foi o único combustível a subir (+0,1%).",
-    "Estado de SP (11–17/10/2026): R$ 116,53; capital SP: R$ 119,21.",
-    "Apesar do nome do id, as notas só trazem pontos de 2026."
+    "Fonte: ANP, 'Série histórica do levantamento de preços' (planilhas mensal-brasil-2001-a-2012.xlsx e mensal-brasil-desde-jan2013.xlsx); média simples das médias mensais nacionais de revenda, cálculo próprio. 2020 sem ago–out (pesquisa suspensa); 2026 = jan–set. Valores nominais.",
+    "2003→2025 o GLP subiu 271,8% nominal, acima do IPCA (232,1%). Semanas de referência (ANP): 28/12/2025–03/01/2026 R$ 111,12; 27/09–03/10/2026 R$ 116,13 (+4,5%); 11–17/10/2026 R$ 114,73 (SP R$ 116,53; capital R$ 119,21)."
   ],
-  "ultimo_periodo": "out/2026",
+  "ultimo_periodo": "2026 (jan–set)",
   "temas": [
     "combustiveis"
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/06_energia_eletrobras_combustiveis.md",
   "atualizado_em": "2026-10-21",
   "lacunas": [
-    "Série anual do GLP 2003–2025 não consta das notas."
+    "Dados brutos baixados na rodada 2 de enriquecimento (21/10/2026); valores calculados sobre base oficial estão indicados como cálculo próprio na nota."
   ]
 }

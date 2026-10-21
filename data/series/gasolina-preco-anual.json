@@ -1,95 +1,128 @@
 {
   "id": "gasolina-preco-anual",
-  "titulo": "Preço médio da gasolina comum (ANP)",
-  "descricao_simples": "Preço médio nacional da gasolina comum nos postos, em reais por litro, em pontos selecionados de 2003 a 2026.",
+  "titulo": "Preço médio anual da gasolina comum (ANP), 2003–2026",
+  "descricao_simples": "Média anual do preço da gasolina comum nos postos do Brasil, em reais por litro.",
   "unidade": "R$/l",
   "tipo_grafico": "linha",
   "frequencia": "anual",
   "fonte": {
-    "nome": "ANP – Levantamento de Preços de Combustíveis",
-    "url": "https://www.gov.br/anp/pt-br/assuntos/precos-e-defesa-da-concorrencia/precos/levantamento-de-precos-de-combustiveis-ultimas-semanas-pesquisadas",
+    "nome": "ANP – Série histórica do levantamento de preços (médias mensais Brasil)",
+    "url": "https://www.gov.br/anp/pt-br/assuntos/precos-e-defesa-da-concorrencia/precos/precos-revenda-e-de-distribuicao-combustiveis/serie-historica-do-levantamento-de-precos",
     "acesso_em": "2026-10-21",
     "tier": "oficial"
   },
   "pontos": [
     {
-      "periodo": "mar/2003",
-      "valor": 2.215
+      "periodo": "2003",
+      "valor": 2.073
     },
     {
-      "periodo": "mar/2006",
-      "valor": 2.587
+      "periodo": "2004",
+      "valor": 2.137
     },
     {
-      "periodo": "mar/2010",
-      "valor": 2.578
+      "periodo": "2005",
+      "valor": 2.34
     },
     {
-      "periodo": "mar/2014",
-      "valor": 2.98
+      "periodo": "2006",
+      "valor": 2.552
     },
     {
-      "periodo": "mar/2015",
-      "valor": 3.323
+      "periodo": "2007",
+      "valor": 2.508
     },
     {
-      "periodo": "mar/2017",
-      "valor": 3.687
+      "periodo": "2008",
+      "valor": 2.5
     },
     {
-      "periodo": "mar/2018",
-      "valor": 4.199
+      "periodo": "2009",
+      "valor": 2.511
     },
     {
-      "periodo": "mar/2019",
-      "valor": 4.305
+      "periodo": "2010",
+      "valor": 2.566
     },
     {
-      "periodo": "mar/2020",
-      "valor": 4.462
+      "periodo": "2011",
+      "valor": 2.731
     },
     {
-      "periodo": "mar/2021",
-      "valor": 5.492
+      "periodo": "2012",
+      "valor": 2.736
     },
     {
-      "periodo": "nov/2021",
-      "valor": 6.71
+      "periodo": "2013",
+      "valor": 2.854
     },
     {
-      "periodo": "dez/2023",
-      "valor": 5.58
+      "periodo": "2014",
+      "valor": 2.975
     },
     {
-      "periodo": "dez/2024",
-      "valor": 6.15
+      "periodo": "2015",
+      "valor": 3.343
     },
     {
-      "periodo": "jan/2026",
-      "valor": 6.24
+      "periodo": "2016",
+      "valor": 3.68
     },
     {
-      "periodo": "mar/2026",
-      "valor": 6.78
+      "periodo": "2017",
+      "valor": 3.767
     },
     {
-      "periodo": "out/2026",
-      "valor": 6.53
+      "periodo": "2018",
+      "valor": 4.409
+    },
+    {
+      "periodo": "2019",
+      "valor": 4.378
+    },
+    {
+      "periodo": "2020",
+      "valor": 4.279
+    },
+    {
+      "periodo": "2021",
+      "valor": 5.781
+    },
+    {
+      "periodo": "2022",
+      "valor": 6.113
+    },
+    {
+      "periodo": "2023",
+      "valor": 5.504
+    },
+    {
+      "periodo": "2024",
+      "valor": 5.927
+    },
+    {
+      "periodo": "2025",
+      "valor": 6.238
+    },
+    {
+      "periodo": "2026 (jan–set)",
+      "valor": 6.539
     }
   ],
   "faixas_referencia": [],
   "notas_metodologicas": [
-    "Valores nominais (sem correção pela inflação). Os pontos de 2003 a 2021 são o preço de março de cada ano (InvestNews/ANP, 15/03/2021); nov/2021 foi o maior valor real em 20 anos (Poder360); dez/2023 e dez/2024 são de fim de ano (ANP via Portal de Prefeitura; +10,2% em 2024); jan/2026 = semana de 28/12/2025 a 03/01/2026; mar/2026 = semana de 22 a 28/03 (pico, 6,78–6,83); out/2026 = semana de 11 a 17/10/2026 (ANP, 4.526 postos).",
-    "Em 2026 a gasolina subiu cerca de 5,5% até o início de outubro; a maior parte da alta ocorreu em poucas semanas de março, após o Brent passar de US$ 120.",
-    "Estado de SP em 11–17/10/2026: R$ 6,36; capital: R$ 6,34; regiões de R$ 6,39 (Sudeste) a R$ 6,94 (Norte)."
+    "Fonte: ANP, 'Série histórica do levantamento de preços' (planilhas mensal-brasil-2001-a-2012.xlsx e mensal-brasil-desde-jan2013.xlsx); média simples das médias mensais nacionais de revenda, cálculo próprio. 2020 sem ago–out (pesquisa suspensa); 2026 = jan–set. Valores nominais.",
+    "2003→2025 a gasolina subiu 200,9% nominal, abaixo do IPCA do período (232,1%, dez/2003–dez/2025, cálculo próprio).",
+    "Pontos de referência semanais (ANP): nov/2021 R$ 6,71, maior valor real em 20 anos (Poder360); fim de 2023 R$ 5,58 e fim de 2024 R$ 6,15 (+10,2% no ano); semana de 28/12/2025–03/01/2026 R$ 6,24; pico de 2026 na semana de 22–28/03 (R$ 6,78–6,83); 11–17/10/2026 R$ 6,53 (4.526 postos). Versão anterior desta série usava o preço de março de cada ano (InvestNews): mar/2003 R$ 2,215 vs média anual de 2003 R$ 2,073."
   ],
-  "ultimo_periodo": "out/2026",
+  "ultimo_periodo": "2026 (jan–set)",
   "temas": [
     "combustiveis"
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/06_energia_eletrobras_combustiveis.md",
   "atualizado_em": "2026-10-21",
   "lacunas": [
-    "Série ANP de médias anuais 2022–2025 e série deflacionada completa não obtidas; mix de meses de referência (março, novembro, dezembro, outubro)."
+    "Dados brutos baixados na rodada 2 de enriquecimento (21/10/2026); valores calculados sobre base oficial estão indicados como cálculo próprio na nota.",
+    "Anos 2001–2002 não foram incluídos na tabela da nota."
   ]
 }

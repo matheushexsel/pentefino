@@ -1,7 +1,7 @@
 {
   "id": "bandeiras-tarifarias-o-que-sao",
   "pergunta": "O que são as bandeiras tarifárias e quem decide a cor?",
-  "resposta_curta": "As bandeiras são um adicional mensal na conta de luz, definido pela ANEEL conforme a hidrologia (chuva e nível dos reservatórios) e o uso de usinas térmicas, para repassar à vista o custo extra de geração. Desde abril de 2024 valem: verde sem cobrança, amarela R$ 1,885, vermelha patamar 1 R$ 4,463 e vermelha patamar 2 R$ 7,877 por 100 kWh. A cor depende de chuva e reservatórios, não de decisão do Planalto; o que governos e Congresso decidem é a contratação estrutural de térmicas, que encarece o sistema quando elas são acionadas.",
+  "resposta_curta": "As bandeiras são um adicional mensal na conta de luz, definido pela ANEEL conforme a hidrologia (chuva e nível dos reservatórios) e o uso de usinas térmicas, para repassar à vista o custo extra de geração. Desde abril de 2024 (REH 3.306/2024) valem: verde sem cobrança, amarela R$ 1,885, vermelha patamar 1 R$ 4,463 e vermelha patamar 2 R$ 7,877 por 100 kWh. A cor depende de chuva e reservatórios, não de decisão do Planalto; o que governos e Congresso decidem é a contratação estrutural de térmicas, que encarece o sistema quando elas são acionadas.",
   "temas": [
     "energia"
   ],
@@ -15,10 +15,10 @@
     },
     {
       "ator": "CMSE e ONS (monitoramento do sistema)",
-      "o_que_controla": "Acompanham reservatórios e risco de suprimento: o CMSE registrou armazenamento de 71% ao fim de abril de 2026 e, em julho, alertou para risco de El Niño.",
+      "o_que_controla": "Acompanham reservatórios e risco de suprimento. O ONS registrou energia armazenada no SE/CO de 66,1% ao fim de abril de 2026 (o CMSE citou 71% para o SIN inteiro) e, em julho, o CMSE alertou para risco de El Niño. Em 19/10/2026 o SE/CO estava em 54,8%, contra 17,3% na mesma data de 2021.",
       "o_que_nao_controla": "A cor da bandeira (decisão da ANEEL) e o clima.",
       "peso": "medio",
-      "url": "https://static.poder360.com.br/uploads/2026/08/estudo-clp-Energia-cara-no-brasil-freia-a-competitividade-3ago2026.pdf"
+      "url": "https://dados.ons.org.br/dataset/ear-diario-por-subsistema"
     },
     {
       "ator": "Governo federal e Congresso (contratação estrutural)",
@@ -43,19 +43,34 @@
       "url": "https://mais.opovo.com.br/jornal/farol/2025/02/01/aneel-anuncia-que-fevereiro-tera-bandeira-tarifaria-verde-sem-custo-adicional.html"
     },
     {
+      "data": "2015-03-02",
+      "evento": "REH 1.859/2015 fixa amarela R$ 25 e vermelha R$ 55 por MWh; 2015 teve vermelha P1 em todos os meses.",
+      "url": "https://dadosabertos.aneel.gov.br/dataset/7f43a020-6dc5-44b8-80b4-d97eaa94436c/resource/5879ca80-b3bd-45b1-a135-d9b77c1d5b36/download/bandeira-tarifaria-adicional.csv"
+    },
+    {
       "data": "2020-06-01",
       "evento": "ANEEL suspende o acionamento das bandeiras (Despacho 1.511); retomada em dez/2020.",
       "url": "https://static.poder360.com.br/2021/03/voto-diretor-Aneel-bandeira-tarifaria-23mar2021.pdf"
     },
     {
       "data": "2021-09-01",
-      "evento": "Bandeira 'escassez hídrica' de R$ 14,20 por 100 kWh, vigente em set, out, nov e dez de 2021 (e, segundo fontes não abertas, até abr/2022).",
-      "url": "https://static.poder360.com.br/2025/12/3a-edicao-do-boletim-InfoTarifa-Aneel-Dezembro-2025.pdf"
+      "evento": "Res. CREG 3/2021 cria a bandeira de escassez hídrica (R$ 142/MWh = R$ 14,20 por 100 kWh), vigente de set/2021 a abr/2022; mínimo do SE/CO de 16,5% em 06/10/2021.",
+      "url": "https://dadosabertos.aneel.gov.br/dataset/7f43a020-6dc5-44b8-80b4-d97eaa94436c/resource/5879ca80-b3bd-45b1-a135-d9b77c1d5b36/download/bandeira-tarifaria-adicional.csv"
+    },
+    {
+      "data": "2022-01-13",
+      "evento": "Decreto 10.939 autoriza a Conta Escassez Hídrica (CCEE), com repasse dos custos à CDE; o encargo CDE Escassez foi quitado antecipadamente em set/2024.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/decreto/d10939.htm"
     },
     {
       "data": "2022-04-01",
-      "evento": "Início do maior período de bandeira verde da história: abr/2022 a jul/2024.",
-      "url": "https://mais.opovo.com.br/jornal/farol/2025/02/01/aneel-anuncia-que-fevereiro-tera-bandeira-tarifaria-verde-sem-custo-adicional.html"
+      "evento": "Último mês da escassez hídrica, com adicional reduzido à metade (R$ 71/MWh = R$ 7,10 por 100 kWh).",
+      "url": "https://dadosabertos.aneel.gov.br/dataset/7f43a020-6dc5-44b8-80b4-d97eaa94436c/resource/0591b8f6-fe54-437b-b72b-1aa2efd46e42/download/bandeira-tarifaria-acionamento.csv"
+    },
+    {
+      "data": "2022-05-01",
+      "evento": "Início do maior período de bandeira verde da história: mai/2022 a jun/2024 (26 meses).",
+      "url": "https://dadosabertos.aneel.gov.br/dataset/7f43a020-6dc5-44b8-80b4-d97eaa94436c/resource/0591b8f6-fe54-437b-b72b-1aa2efd46e42/download/bandeira-tarifaria-acionamento.csv"
     },
     {
       "data": "2022-07-01",
@@ -66,6 +81,11 @@
       "data": "2024-04-01",
       "evento": "Novos valores: amarela R$ 1,885 (-36,9%), P1 R$ 4,463 (-31,3%), P2 R$ 7,877 (-19,6%) por 100 kWh; ainda em vigor em out/2026.",
       "url": "https://www.poder360.com.br/economia/bandeiras-tarifarias-da-conta-de-luz-custarao-menos-em-2024"
+    },
+    {
+      "data": "2024-07-01",
+      "evento": "Bandeira amarela em julho de 2024 encerra o período verde; 2024 seguiu com verde (ago), vermelha P1 (set), vermelha P2 (out), amarela (nov) e verde (dez).",
+      "url": "https://dadosabertos.aneel.gov.br/dataset/7f43a020-6dc5-44b8-80b4-d97eaa94436c/resource/0591b8f6-fe54-437b-b72b-1aa2efd46e42/download/bandeira-tarifaria-acionamento.csv"
     },
     {
       "data": "2025-05-01",
@@ -196,10 +216,67 @@
         "acesso_em": "2026-10-21",
         "tier": "imprensa"
       }
+    },
+    {
+      "rotulo": "Energia armazenada no SE/CO em 19/10/2026 (ONS)",
+      "valor": 54.8,
+      "unidade": "%",
+      "periodo": "19/10/2026",
+      "fonte": {
+        "nome": "ONS Dados Abertos – EAR diário por subsistema",
+        "url": "https://dados.ons.org.br/dataset/ear-diario-por-subsistema",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "19/10/2021",
+        "valor": 17.3
+      }
+    },
+    {
+      "rotulo": "Mínimo do SE/CO na crise de 2021",
+      "valor": 16.5,
+      "unidade": "%",
+      "periodo": "06/10/2021",
+      "fonte": {
+        "nome": "ONS Dados Abertos – EAR diário por subsistema",
+        "url": "https://dados.ons.org.br/dataset/ear-diario-por-subsistema",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "Mínimo de 2025 (12/12/2025)",
+        "valor": 40.0
+      }
+    },
+    {
+      "rotulo": "Duração do maior período verde (mai/2022–jun/2024)",
+      "valor": 26,
+      "unidade": "meses",
+      "periodo": "2022–2024",
+      "fonte": {
+        "nome": "ANEEL Dados Abertos – bandeira-tarifaria-acionamento.csv",
+        "url": "https://dadosabertos.aneel.gov.br/dataset/7f43a020-6dc5-44b8-80b4-d97eaa94436c/resource/0591b8f6-fe54-437b-b72b-1aa2efd46e42/download/bandeira-tarifaria-acionamento.csv",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    {
+      "rotulo": "Escassez hídrica em abr/2022 (adicional reduzido)",
+      "valor": 7.1,
+      "unidade": "R$ por 100 kWh",
+      "periodo": "abr/2022",
+      "fonte": {
+        "nome": "ANEEL Dados Abertos – bandeira-tarifaria-acionamento.csv",
+        "url": "https://dadosabertos.aneel.gov.br/dataset/7f43a020-6dc5-44b8-80b4-d97eaa94436c/resource/0591b8f6-fe54-437b-b72b-1aa2efd46e42/download/bandeira-tarifaria-acionamento.csv",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
     }
   ],
   "series": [
-    "bandeiras-tarifarias-mensais"
+    "bandeiras-tarifarias-mensais",
+    "reservatorios-se-co"
   ],
   "mitos_e_fatos": [
     {
@@ -228,13 +305,13 @@
     },
     {
       "mito": "O governo acabou com a bandeira tarifária.",
-      "fato": "O sistema segue em vigor; o que ocorre é bandeira verde (sem cobrança) quando chove bem. O maior período verde foi de abr/2022 a jul/2024, atravessando os governos Bolsonaro e Lula. A única suspensão formal foi a da ANEEL em jun–dez/2020, na pandemia.",
+      "fato": "O sistema segue em vigor; o que ocorre é bandeira verde (sem cobrança) quando chove bem. O maior período verde foi de mai/2022 a jun/2024 (26 meses, base ANEEL Dados Abertos), atravessando os governos Bolsonaro e Lula; julho/2024 já foi amarela. A única suspensão formal foi a da ANEEL em jun–dez/2020, na pandemia.",
       "fontes": [
         {
-          "nome": "O Povo+ – Fevereiro terá bandeira verde (01/02/2025)",
-          "url": "https://mais.opovo.com.br/jornal/farol/2025/02/01/aneel-anuncia-que-fevereiro-tera-bandeira-tarifaria-verde-sem-custo-adicional.html",
+          "nome": "ANEEL Dados Abertos – Bandeiras Tarifárias (acionamento mensal, CSV gerado em 19/10/2026)",
+          "url": "https://dadosabertos.aneel.gov.br/dataset/bandeiras-tarifarias",
           "acesso_em": "2026-10-21",
-          "tier": "imprensa"
+          "tier": "oficial"
         },
         {
           "nome": "ANEEL – Voto de diretor sobre bandeiras tarifárias, 23/03/2021 (PDF)",
@@ -255,6 +332,24 @@
           "tier": "oficial"
         }
       ]
+    },
+    {
+      "mito": "A bandeira amarela de 2026 mostra que os reservatórios estão como em 2021.",
+      "fato": "Não. Ao fim de setembro de 2026 o SE/CO tinha 56,5% de energia armazenada (ONS), contra 16,8% em set/2021; a amarela de mai–set/2026 ocorreu com reservatórios 3 a 4 vezes maiores que na crise de 2021, quando se cobrou a escassez hídrica de R$ 14,20 por 100 kWh.",
+      "fontes": [
+        {
+          "nome": "ONS Dados Abertos – EAR diário por subsistema",
+          "url": "https://dados.ons.org.br/dataset/ear-diario-por-subsistema",
+          "acesso_em": "2026-10-21",
+          "tier": "oficial"
+        },
+        {
+          "nome": "ANEEL Dados Abertos – Bandeiras Tarifárias (acionamento mensal, CSV gerado em 19/10/2026)",
+          "url": "https://dadosabertos.aneel.gov.br/dataset/bandeiras-tarifarias",
+          "acesso_em": "2026-10-21",
+          "tier": "oficial"
+        }
+      ]
     }
   ],
   "perguntas_frequentes": [
@@ -264,7 +359,7 @@
     },
     {
       "pergunta": "O que foi a bandeira de escassez hídrica?",
-      "resposta": "Um patamar extraordinário de R$ 14,20 por 100 kWh cobrado a partir de set/2021, na crise hídrica, muito acima da vermelha P2 da época (R$ 9,492). O mês exato de encerramento em 2022 não foi confirmado nas notas (fontes não abertas indicam abril)."
+      "resposta": "Um patamar extraordinário de R$ 14,20 por 100 kWh (Res. CREG 3/2021) cobrado de set/2021 a mar/2022, reduzido a R$ 7,10 em abr/2022, último mês de vigência (base ANEEL Dados Abertos). Era bem acima da vermelha P2 da época (R$ 9,492). O Decreto 10.939/2022 autorizou a Conta Escassez Hídrica, gerida pela CCEE e repassada à CDE; o valor do empréstimo não foi localizado em fonte oficial."
     },
     {
       "pergunta": "Quem decide quantas térmicas existem?",
@@ -361,13 +456,43 @@
       "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/L14182.htm",
       "acesso_em": "2026-10-21",
       "tier": "oficial"
+    },
+    {
+      "nome": "ANEEL Dados Abertos – Bandeiras Tarifárias (acionamento mensal, CSV gerado em 19/10/2026)",
+      "url": "https://dadosabertos.aneel.gov.br/dataset/bandeiras-tarifarias",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "ANEEL Dados Abertos – bandeira-tarifaria-acionamento.csv",
+      "url": "https://dadosabertos.aneel.gov.br/dataset/7f43a020-6dc5-44b8-80b4-d97eaa94436c/resource/0591b8f6-fe54-437b-b72b-1aa2efd46e42/download/bandeira-tarifaria-acionamento.csv",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "ANEEL Dados Abertos – bandeira-tarifaria-adicional.csv (valores por resolução)",
+      "url": "https://dadosabertos.aneel.gov.br/dataset/7f43a020-6dc5-44b8-80b4-d97eaa94436c/resource/5879ca80-b3bd-45b1-a135-d9b77c1d5b36/download/bandeira-tarifaria-adicional.csv",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "ONS Dados Abertos – EAR diário por subsistema",
+      "url": "https://dados.ons.org.br/dataset/ear-diario-por-subsistema",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Planalto – Decreto 10.939, de 13/01/2022 (Conta Escassez Hídrica)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/decreto/d10939.htm",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/06_energia_eletrobras_combustiveis.md",
   "atualizado_em": "2026-10-21",
   "lacunas": [
-    "Mês exato do fim da bandeira de escassez hídrica em 2022 não confirmado (fontes não abertas indicam abr/2022).",
     "Valor do empréstimo da 'Conta Escassez Hídrica' e seu custo ao consumidor não localizados.",
-    "Dias exatos da criação do sistema (2015) e do início da escassez hídrica (set/2021) não constam das notas; a linha do tempo usa o primeiro dia do período."
+    "Valor do empréstimo da Conta Escassez Hídrica e seu custo ao consumidor: só o Decreto 10.939/2022 foi confirmado; a REH que homologou o montante e a quitação de set/2024 não foram abertas.",
+    "Reservatórios de 2022 e 2023 (ONS) não processados."
   ]
 }

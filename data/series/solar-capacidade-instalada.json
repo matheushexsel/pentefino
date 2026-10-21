@@ -1,0 +1,55 @@
+{
+  "id": "solar-capacidade-instalada",
+  "titulo": "Capacidade instalada de energia solar no Brasil",
+  "descricao_simples": "Potência solar fotovoltaica instalada (centralizada + geração distribuída), em gigawatts, segundo EPE/BEN e ABSOLAR.",
+  "unidade": "GW",
+  "tipo_grafico": "barra",
+  "frequencia": "anual",
+  "fonte": {
+    "nome": "EPE – Balanço Energético Nacional 2026, Relatório Síntese (ano-base 2025) (PDF)",
+    "url": "https://www.epe.gov.br/sites-pt/publicacoes-dados-abertos/publicacoes/PublicacoesArquivos/publicacao-975/topico-847/BEN_S%C3%ADntese_2026_PT.pdf",
+    "acesso_em": "2026-10-21",
+    "tier": "oficial"
+  },
+  "pontos": [
+    {
+      "periodo": "jan/2025",
+      "valor": 53.9,
+      "rotulo": "ABSOLAR"
+    },
+    {
+      "periodo": "2025",
+      "valor": 64.793,
+      "rotulo": "EPE/BEN 2026 (ano-base 2025; +33,7%)"
+    },
+    {
+      "periodo": "jan/2026",
+      "valor": 63.7,
+      "rotulo": "ABSOLAR (24,5% da capacidade total)"
+    }
+  ],
+  "faixas_referencia": [
+    {
+      "rotulo": "Micro e minigeração distribuída solar (MMGD), 2025 (BEN)",
+      "valor": 44.742
+    },
+    {
+      "rotulo": "Eólica, 2025 (BEN)",
+      "valor": 34.707
+    }
+  ],
+  "notas_metodologicas": [
+    "Fontes distintas e bases distintas: EPE/BEN 2026 registra 64.793 MW de capacidade solar em 2025 (+33,7%), com 44.742 MW de MMGD solar (solar = 97,5% da MMGD); a ABSOLAR (via Canal Solar) informa 63,7 GW em jan/2026 e 53,9 GW em jan/2025. Eólica: 34.707 MW em 2025 (+17,5%).",
+    "A geração solar em 2025 foi 88,1 TWh (+24,7%); a MMGD solar gerou 53.144 GWh (7,0% da geração nacional)."
+  ],
+  "ultimo_periodo": "jan/2026",
+  "temas": [
+    "energia"
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/06_energia_eletrobras_combustiveis.md",
+  "atualizado_em": "2026-10-21",
+  "lacunas": [
+    "Dados brutos baixados na rodada 2 de enriquecimento (21/10/2026); valores calculados sobre base oficial estão indicados como cálculo próprio na nota.",
+    "Série anual de capacidade solar/GD por ano (ANEEL/Absolar) não processada; só os cortes 2025 (BEN) e jan/2025–jan/2026 (ABSOLAR)."
+  ]
+}

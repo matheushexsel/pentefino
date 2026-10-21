@@ -27,13 +27,13 @@
     "margens"
   ],
   "veredito": "impreciso",
-  "resumo_uma_frase": "A Petrobras define só o preço de refinaria: em out/2026 vendia diesel a R$ 3,30/l e a bomba cobrava R$ 7,00; o resto é ICMS (R$ 1,17/l), tributos federais, biodiesel e margens de distribuição e revenda, além de haver Acelen e importadores.",
+  "resumo_uma_frase": "Pela composição oficial da Petrobras (coleta ANP 11–17/10/2026), a parcela da estatal é 31,9% do preço da gasolina (R$ 2,08 de R$ 6,53) e 38,6% do diesel S10 (R$ 2,83 de R$ 7,34); o resto é distribuição e revenda, ICMS, biocombustível e impostos federais, além de haver Acelen e importadores.",
   "explicacao_simples": [
-    "A Petrobras vende diesel às distribuidoras a R$ 3,30/l e gasolina a R$ 2,61/l, menos da metade dos R$ 7,00 e R$ 6,53 cobrados na bomba em outubro de 2026.",
-    "A diferença é ICMS (R$ 1,17 no diesel e R$ 1,57 na gasolina, fixados pelo Confaz), tributos federais, mistura de biocombustível e margens de distribuidoras e postos.",
+    "A própria Petrobras publica a composição: na gasolina de R$ 6,53, sua parcela é R$ 2,08 (31,9%); distribuição e revenda levam R$ 1,83 (28,0%), o ICMS R$ 1,57 (24,0%), o etanol anidro R$ 0,99 (15,2%) e os impostos federais R$ 0,06 (0,9%).",
+    "No diesel S10 de R$ 7,34, a parcela da Petrobras é R$ 2,83 (38,6%), distribuição e revenda R$ 2,20 (30,0%), ICMS R$ 1,17 (15,9%), biodiesel R$ 0,82 (11,2%) e impostos federais R$ 0,32 (4,4%).",
     "Além disso, a Acelen e importadores vendem a preços próximos ao internacional e respondem por mais de 25% do diesel."
   ],
-  "explicacao_completa_md": "## Preço de refinaria vs. bomba (out/2026)\n- Diesel: Petrobras R$ 3,30/l (desde 01/06/2026) vs bomba R$ 7,00 (S500) e R$ 7,34 (S10).\n- Gasolina: Petrobras R$ 2,57–2,61/l (mai/2026) vs bomba R$ 6,53.\n- ICMS (Confaz, 2026): R$ 1,57/l gasolina; R$ 1,17/l diesel.\n- Tributos federais na gasolina: carga cheia de ~R$ 0,79/l (zerada por 30 dias desde 09/10/2026).\n- Mistura: 16% de biodiesel desde 01/03/2026; etanol anidro de 22% a 35%.\n- Margens de distribuição e revenda: definidas pelo mercado; a ANP apenas pesquisa preços.\n\n## Veredito\n**Impreciso.** A Petrobras é o maior ofertante e seu preço de refinaria é a base, mas não define o preço final nem é a única fornecedora.",
+  "explicacao_completa_md": "## Preço de refinaria vs. bomba (out/2026)\n- Diesel: Petrobras R$ 3,30/l (desde 01/06/2026) vs bomba R$ 7,00 (S500) e R$ 7,34 (S10).\n- Gasolina: Petrobras R$ 2,57–2,61/l (mai/2026) vs bomba R$ 6,53.\n- ICMS (Confaz, 2026): R$ 1,57/l gasolina; R$ 1,17/l diesel.\n- Tributos federais na gasolina: carga cheia de ~R$ 0,79/l (zerada por 30 dias desde 09/10/2026).\n- Mistura: 16% de biodiesel desde 01/03/2026; etanol anidro de 22% a 35%.\n- Margens de distribuição e revenda: definidas pelo mercado; a ANP apenas pesquisa preços.\n\n## Veredito\n**Impreciso.** A Petrobras é o maior ofertante e seu preço de refinaria é a base, mas não define o preço final nem é a única fornecedora.\n\n## Atualização (rodada 2): composição oficial\nPetrobras, 'Preços de venda de combustíveis' (coleta ANP 11–17/10/2026): gasolina R$ 6,53 = Petrobras R$ 2,08 (31,9%) + distribuição e revenda R$ 1,83 (28,0%) + ICMS R$ 1,57 (24,0%) + etanol anidro R$ 0,99 (15,2%) + impostos federais R$ 0,06 (0,9%). Diesel S10 R$ 7,34 = Petrobras R$ 2,83 (38,6%) + distribuição e revenda R$ 2,20 (30,0%) + ICMS R$ 1,17 (15,9%) + biodiesel R$ 0,82 (11,2%) + impostos federais R$ 0,32 (4,4%). A página ainda calcula com 30% de etanol e 15% de biodiesel, embora o E32 vigore desde 01/08/2026. O Comprova publicou em 24/05/2023 um explicador sobre as políticas de preço da Petrobras.",
   "o_que_e_verdade": [
     "A Petrobras é a maior ofertante e seu preço de refinaria é a base do preço final; em 2026 sua decisão de vender abaixo da paridade manteve a bomba estável."
   ],
@@ -68,6 +68,94 @@
     }
   ],
   "numeros": [
+    {
+      "rotulo": "Gasolina R$ 6,53/l: parcela da Petrobras",
+      "valor": 2.08,
+      "unidade": "R$/l (31,9%)",
+      "periodo": "11–17/10/2026",
+      "fonte": {
+        "nome": "Petrobras – Preços de venda de combustíveis: gasolina (composição, coleta 11–17/10/2026)",
+        "url": "https://precos.petrobras.com.br/precos-gasolina",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "Distribuição e revenda (28,0%)",
+        "valor": 1.83
+      }
+    },
+    {
+      "rotulo": "Gasolina: ICMS",
+      "valor": 1.57,
+      "unidade": "R$/l (24,0%)",
+      "periodo": "11–17/10/2026",
+      "fonte": {
+        "nome": "Petrobras – Preços de venda de combustíveis: gasolina (composição, coleta 11–17/10/2026)",
+        "url": "https://precos.petrobras.com.br/precos-gasolina",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "Etanol anidro (15,2%)",
+        "valor": 0.99
+      }
+    },
+    {
+      "rotulo": "Gasolina: impostos federais (reduzidos temporariamente)",
+      "valor": 0.06,
+      "unidade": "R$/l (0,9%)",
+      "periodo": "11–17/10/2026",
+      "fonte": {
+        "nome": "Petrobras – Preços de venda de combustíveis: gasolina (composição, coleta 11–17/10/2026)",
+        "url": "https://precos.petrobras.com.br/precos-gasolina",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    {
+      "rotulo": "Diesel S10 R$ 7,34/l: parcela da Petrobras",
+      "valor": 2.83,
+      "unidade": "R$/l (38,6%)",
+      "periodo": "11–17/10/2026",
+      "fonte": {
+        "nome": "Petrobras – Preços de venda de combustíveis: diesel (composição, coleta 11–17/10/2026)",
+        "url": "https://precos.petrobras.com.br/precos-diesel",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "Distribuição e revenda (30,0%)",
+        "valor": 2.2
+      }
+    },
+    {
+      "rotulo": "Diesel S10: ICMS",
+      "valor": 1.17,
+      "unidade": "R$/l (15,9%)",
+      "periodo": "11–17/10/2026",
+      "fonte": {
+        "nome": "Petrobras – Preços de venda de combustíveis: diesel (composição, coleta 11–17/10/2026)",
+        "url": "https://precos.petrobras.com.br/precos-diesel",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "Biodiesel (11,2%)",
+        "valor": 0.82
+      }
+    },
+    {
+      "rotulo": "Diesel S10: impostos federais",
+      "valor": 0.32,
+      "unidade": "R$/l (4,4%)",
+      "periodo": "11–17/10/2026",
+      "fonte": {
+        "nome": "Petrobras – Preços de venda de combustíveis: diesel (composição, coleta 11–17/10/2026)",
+        "url": "https://precos.petrobras.com.br/precos-diesel",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
     {
       "rotulo": "Diesel vendido pela Petrobras às distribuidoras",
       "valor": 3.3,
@@ -157,7 +245,15 @@
     "diesel-preco-anual",
     "gasolina-preco-anual"
   ],
-  "checagens_externas": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Comprova",
+      "veredito_original": "explicador (sem veredito)",
+      "url": "https://projetocomprova.com.br/publicações/entenda-as-politicas-de-preco-da-petrobras/",
+      "data": "2023-05-24",
+      "titulo": "Entenda as políticas de preços da Petrobras (24/05/2023)"
+    }
+  ],
   "fontes": [
     {
       "nome": "eixos – Como fica o alívio aos combustíveis com o fim da desoneração e o novo modelo de subsídio (01/06/2026)",
@@ -200,6 +296,30 @@
       "url": "https://www.moneytimes.com.br/abicom-queda-do-petroleo-nao-alivia-diesel-e-defasagem-no-brasil-abre-semana-em-58/",
       "acesso_em": "2026-10-21",
       "tier": "imprensa"
+    },
+    {
+      "nome": "Petrobras – Preços de venda de combustíveis: gasolina (composição, coleta 11–17/10/2026)",
+      "url": "https://precos.petrobras.com.br/precos-gasolina",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Petrobras – Preços de venda de combustíveis: diesel (composição, coleta 11–17/10/2026)",
+      "url": "https://precos.petrobras.com.br/precos-diesel",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Comprova – Entenda as políticas de preços da Petrobras (24/05/2023)",
+      "url": "https://projetocomprova.com.br/publicações/entenda-as-politicas-de-preco-da-petrobras/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "CNPE – Resolução nº 9, de 14/07/2026 (E32 temporário; DOU 30/07/2026) (PDF)",
+      "url": "https://www.gov.br/mme/pt-br/assuntos/conselhos-e-comites/cnpe/resolucoes-do-cnpe/2026/resolucao-9-dou.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/06_energia_eletrobras_combustiveis.md",
@@ -219,12 +339,16 @@
     {
       "data": "2026-10-21",
       "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "rodada 2: composição oficial da Petrobras; checagem externa Comprova"
     }
   ],
   "exemplo": false,
   "lacunas": [
     "Autoria, data e local da declaração não documentados nas notas; a checagem trata a afirmação em sua forma recorrente.",
-    "Decomposição oficial percentual do preço (Petrobras 'Composição de preços') não aberta.",
-    "Checagens já publicadas por Aos Fatos, Lupa, Estadão Verifica e Comprova sobre o tema não foram consultadas (cota de busca esgotada); cruzar antes da publicação."
+    "A composição da Petrobras ainda usa E30/B15 em out/2026 (E32 vigora desde 01/08/2026); a do diesel S500 não consta da nota.",
+    "Checagens da Lupa, Estadão Verifica e g1 Fato ou Fake não puderam ser abertas na rodada 2 (bloqueio de fetch); a lista de checagens externas cobre apenas Aos Fatos e Comprova."
   ]
 }

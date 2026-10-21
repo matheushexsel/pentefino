@@ -1,0 +1,189 @@
+{
+  "id": "chk-3022",
+  "slug": "brasil-vai-ter-desabastecimento-de-combustivel",
+  "frase": "O Brasil pode sofrer desabastecimento de combustível a partir desta quinta-feira.",
+  "frase_normalizada": "o brasil pode sofrer desabastecimento de combustível a partir desta quinta-feira",
+  "variantes": [],
+  "autor": {
+    "nome": "Conteúdos virais em redes sociais (checados pelo Aos Fatos)",
+    "partido": null,
+    "cargo": null
+  },
+  "lado": "outro",
+  "alvo": {
+    "nome": "Governo federal / Petrobras",
+    "partido": null
+  },
+  "data": "2026-03",
+  "onde": "redes sociais",
+  "url_declaracao": "https://www.aosfatos.org/noticias/falso-brasil-pode-sofrer-desabastecimento-combustivel-a-partir-quinta-feira/",
+  "temas": [
+    "combustiveis"
+  ],
+  "tags": [
+    "desabastecimento",
+    "diesel",
+    "importação",
+    "Aos Fatos"
+  ],
+  "veredito": "falso",
+  "resumo_uma_frase": "O Aos Fatos classificou como falso (12/03/2026) o alerta de desabastecimento iminente; o que houve em março de 2026 foi alta de preço com o Brent acima de US$ 100, defasagem de até 72% no diesel da Petrobras e subvenções para manter a importação.",
+  "explicacao_simples": [
+    "O Aos Fatos verificou em 12/03/2026 que é falso que o Brasil sofreria desabastecimento de combustível a partir daquela quinta-feira.",
+    "O que existia era pressão de preço: Brent a US$ 103 em média em março, defasagem do diesel da Petrobras de 72% em 13/03/2026 e mais de 25% do diesel vindo de importação.",
+    "O governo respondeu no mesmo dia 12/03 com a MP 1.340 (subvenção de R$ 0,32/l ao diesel) e depois com subvenções maiores ao diesel importado (R$ 1,20/l na MP 1.349), justamente para garantir a oferta."
+  ],
+  "explicacao_completa_md": "## O que o Aos Fatos verificou\n'É falso que Brasil pode sofrer desabastecimento de combustível a partir desta quinta-feira' (12/03/2026).\n\n## O que estava acontecendo\n- Brent: média mensal de US$ 103,13 em março e 117,29 em abril de 2026 (EIA).\n- Defasagem do diesel da Petrobras frente à paridade: 72% com petróleo a US$ 100 (13/03/2026, Abicom); 'mais de 25% do diesel consumido no Brasil é proveniente de importações' (governo federal).\n- Resposta: MP 1.340 (12/03, R$ 0,32/l), MP 1.349 (07/04, R$ 0,80/l nacional e R$ 1,20/l importado), MP 1.363 (30/05, R$ 1,12/l), MP 1.391 (set, R$ 2,12/l); o subsídio ao diesel importado chegou a R$ 3,52/l no início de outubro e o diesel importado bateu recorde em set/2026 (eixos).\n\n## Veredito\n**Falso.** Houve risco de preço e de margem para importadores, tratado com subvenções, não desabastecimento.",
+  "o_que_e_verdade": [
+    "A defasagem da Petrobras pressionava importadores privados, que respondem por mais de 25% do diesel."
+  ],
+  "o_que_nao_se_sustenta": [
+    "Não houve desabastecimento; o alerta de data marcada foi classificado como falso pelo Aos Fatos."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Autores do conteúdo viral",
+      "papel": "alerta falso",
+      "peso": "alto"
+    },
+    {
+      "ator": "Governo federal",
+      "papel": "subvenções ao diesel importado",
+      "peso": "medio"
+    },
+    {
+      "ator": "Petrobras",
+      "papel": "venda abaixo da paridade",
+      "peso": "medio"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Defasagem do diesel da Petrobras",
+      "valor": 72,
+      "unidade": "%",
+      "periodo": "13/03/2026",
+      "fonte": {
+        "nome": "CNN Brasil – tag Abicom",
+        "url": "https://www.cnnbrasil.com.br/tudo-sobre/abicom/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Parcela importada do diesel consumido",
+      "valor": 25,
+      "unidade": "% (mais de)",
+      "periodo": "2026",
+      "fonte": {
+        "nome": "Governo Federal – Release de 09/09/2026 sobre medidas para combustíveis (PDF)",
+        "url": "https://static.poder360.com.br/uploads/2026/09/0909-Release-Governo-Federal-adota-novas-medidas-para-combustiveis-apos-novos-aumentos-do-petroleo.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    {
+      "rotulo": "Subvenção ao diesel importado na MP 1.349",
+      "valor": 1.2,
+      "unidade": "R$/l",
+      "periodo": "abr/2026",
+      "fonte": {
+        "nome": "eixos – Como fica o alívio aos combustíveis com o fim da desoneração e o novo modelo de subsídio (01/06/2026)",
+        "url": "https://eixos.com.br/newsletters/comece-seu-dia/como-fica-o-alivio-aos-combustiveis-com-o-fim-da-desoneracao-e-o-novo-modelo-de-subsidio/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "Diesel nacional",
+        "valor": 0.8
+      }
+    },
+    {
+      "rotulo": "Subsídio ao diesel importado no início de outubro",
+      "valor": 3.52,
+      "unidade": "R$/l",
+      "periodo": "out/2026",
+      "fonte": {
+        "nome": "CNN Brasil – Abicom: diesel da Petrobras se aproxima ao subsídio com alta do Brent (20/10/2026)",
+        "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/abicom-diesel-da-petrobras-se-aproxima-ao-subsidio-com-alta-do-brent/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    }
+  ],
+  "series": [
+    "diesel-preco-anual",
+    "brent-anual"
+  ],
+  "checagens_externas": [
+    {
+      "veiculo": "Aos Fatos",
+      "veredito_original": "falso",
+      "url": "https://www.aosfatos.org/noticias/falso-brasil-pode-sofrer-desabastecimento-combustivel-a-partir-quinta-feira/",
+      "data": "2026-03-12",
+      "titulo": "É falso que Brasil pode sofrer desabastecimento de combustível a partir desta quinta-feira (12/03/2026)"
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Aos Fatos – É falso que Brasil pode sofrer desabastecimento de combustível a partir desta quinta-feira (12/03/2026)",
+      "url": "https://www.aosfatos.org/noticias/falso-brasil-pode-sofrer-desabastecimento-combustivel-a-partir-quinta-feira/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "CNN Brasil – tag Abicom",
+      "url": "https://www.cnnbrasil.com.br/tudo-sobre/abicom/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Governo Federal – Release de 09/09/2026 sobre medidas para combustíveis (PDF)",
+      "url": "https://static.poder360.com.br/uploads/2026/09/0909-Release-Governo-Federal-adota-novas-medidas-para-combustiveis-apos-novos-aumentos-do-petroleo.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "eixos – Como fica o alívio aos combustíveis com o fim da desoneração e o novo modelo de subsídio (01/06/2026)",
+      "url": "https://eixos.com.br/newsletters/comece-seu-dia/como-fica-o-alivio-aos-combustiveis-com-o-fim-da-desoneracao-e-o-novo-modelo-de-subsidio/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "CNN Brasil – Abicom: diesel da Petrobras se aproxima ao subsídio com alta do Brent (20/10/2026)",
+      "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/abicom-diesel-da-petrobras-se-aproxima-ao-subsidio-com-alta-do-brent/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "eixos – Conta das subvenções cresce; Petrobras já recebeu quase R$ 10 bi (21/09/2026)",
+      "url": "https://eixos.com.br/newsletters/comece-seu-dia/conta-das-subvencoes-cresce-diesel-importado-bate-recorde-petrobras-ja-recebeu-quase-r-10-bi/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "EIA – Europe Brent Spot Price FOB, média mensal (xls)",
+      "url": "https://www.eia.gov/dnav/pet/hist_xls/RBRTEm.xls",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/06_energia_eletrobras_combustiveis.md",
+  "perguntas_frequentes": [],
+  "relacionadas": [
+    "lula-segura-o-preco-da-gasolina",
+    "petrobras-define-o-preco-na-bomba"
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false,
+  "lacunas": [
+    "Conteúdo exato do alerta viral não consta da nota.",
+    "Checagens da Lupa, Estadão Verifica e g1 Fato ou Fake não puderam ser abertas na rodada 2 (bloqueio de fetch); a lista de checagens externas cobre apenas Aos Fatos e Comprova."
+  ]
+}

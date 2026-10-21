@@ -1,0 +1,230 @@
+{
+  "id": "reservatorios-se-co",
+  "titulo": "Reservatórios do Sudeste/Centro-Oeste: energia armazenada no fim de cada mês (2021, 2024–2026)",
+  "descricao_simples": "Energia armazenada (EAR) do subsistema SE/CO em % da capacidade máxima, no último dia de cada mês, segundo o ONS.",
+  "unidade": "% da capacidade máxima",
+  "tipo_grafico": "linha",
+  "frequencia": "mensal",
+  "fonte": {
+    "nome": "ONS Dados Abertos – EAR diário por subsistema",
+    "url": "https://dados.ons.org.br/dataset/ear-diario-por-subsistema",
+    "acesso_em": "2026-10-21",
+    "tier": "oficial"
+  },
+  "pontos": [
+    {
+      "periodo": "2021-01",
+      "valor": 23.4
+    },
+    {
+      "periodo": "2021-02",
+      "valor": 29.6
+    },
+    {
+      "periodo": "2021-03",
+      "valor": 35.3
+    },
+    {
+      "periodo": "2021-04",
+      "valor": 34.7
+    },
+    {
+      "periodo": "2021-05",
+      "valor": 32.1
+    },
+    {
+      "periodo": "2021-06",
+      "valor": 29.1
+    },
+    {
+      "periodo": "2021-07",
+      "valor": 26.0
+    },
+    {
+      "periodo": "2021-08",
+      "valor": 21.3
+    },
+    {
+      "periodo": "2021-09",
+      "valor": 16.8
+    },
+    {
+      "periodo": "2021-10",
+      "valor": 18.2
+    },
+    {
+      "periodo": "2021-11",
+      "valor": 19.7
+    },
+    {
+      "periodo": "2021-12",
+      "valor": 25.7
+    },
+    {
+      "periodo": "2024-01",
+      "valor": 61.1
+    },
+    {
+      "periodo": "2024-02",
+      "valor": 64.5
+    },
+    {
+      "periodo": "2024-03",
+      "valor": 69.5
+    },
+    {
+      "periodo": "2024-04",
+      "valor": 72.9
+    },
+    {
+      "periodo": "2024-05",
+      "valor": 71.4
+    },
+    {
+      "periodo": "2024-06",
+      "valor": 67.6
+    },
+    {
+      "periodo": "2024-07",
+      "valor": 62.5
+    },
+    {
+      "periodo": "2024-08",
+      "valor": 55.7
+    },
+    {
+      "periodo": "2024-09",
+      "valor": 46.5
+    },
+    {
+      "periodo": "2024-10",
+      "valor": 40.4
+    },
+    {
+      "periodo": "2024-11",
+      "valor": 42.7
+    },
+    {
+      "periodo": "2024-12",
+      "valor": 51.0
+    },
+    {
+      "periodo": "2025-01",
+      "valor": 62.0
+    },
+    {
+      "periodo": "2025-02",
+      "valor": 68.7
+    },
+    {
+      "periodo": "2025-03",
+      "valor": 68.4
+    },
+    {
+      "periodo": "2025-04",
+      "valor": 70.2
+    },
+    {
+      "periodo": "2025-05",
+      "valor": 68.4
+    },
+    {
+      "periodo": "2025-06",
+      "valor": 66.5
+    },
+    {
+      "periodo": "2025-07",
+      "valor": 63.1
+    },
+    {
+      "periodo": "2025-08",
+      "valor": 57.7
+    },
+    {
+      "periodo": "2025-09",
+      "valor": 50.3
+    },
+    {
+      "periodo": "2025-10",
+      "valor": 44.3
+    },
+    {
+      "periodo": "2025-11",
+      "valor": 41.6
+    },
+    {
+      "periodo": "2025-12",
+      "valor": 42.1
+    },
+    {
+      "periodo": "2026-01",
+      "valor": 47.4
+    },
+    {
+      "periodo": "2026-02",
+      "valor": 57.3
+    },
+    {
+      "periodo": "2026-03",
+      "valor": 65.3
+    },
+    {
+      "periodo": "2026-04",
+      "valor": 66.1
+    },
+    {
+      "periodo": "2026-05",
+      "valor": 66.1
+    },
+    {
+      "periodo": "2026-06",
+      "valor": 65.6
+    },
+    {
+      "periodo": "2026-07",
+      "valor": 63.0
+    },
+    {
+      "periodo": "2026-08",
+      "valor": 58.0
+    },
+    {
+      "periodo": "2026-09",
+      "valor": 56.5
+    },
+    {
+      "periodo": "2026-10",
+      "valor": 54.8,
+      "rotulo": "posição de 19/10/2026"
+    }
+  ],
+  "faixas_referencia": [
+    {
+      "rotulo": "Mínimo de 2021 (06/10/2021)",
+      "valor": 16.5
+    },
+    {
+      "rotulo": "Mínimo de 2024 (02/11/2024)",
+      "valor": 40.2
+    },
+    {
+      "rotulo": "Mínimo de 2025 (12/12/2025)",
+      "valor": 40.0
+    }
+  ],
+  "notas_metodologicas": [
+    "Fonte: ONS Dados Abertos, 'EAR diário por subsistema' (arquivos EAR_DIARIO_SUBSISTEMA_2021/2024/2025/2026.csv); valor de fim de mês, cálculo próprio da nota. Anos 2022–2023 não foram processados.",
+    "Todos os subsistemas em 19/10 de cada ano: 2021 NE 37,2 / N 51,8 / SE 17,3 / S 41,9; 2024 NE 45,9 / N 66,9 / SE 41,2 / S 64,6; 2025 NE 50,9 / N 77,7 / SE 46,3 / S 91,6; 2026 NE 63,6 / N 65,7 / SE 54,8 / S 80,6.",
+    "A bandeira amarela de mai–set/2026 ocorreu com reservatórios do SE/CO 3 a 4 vezes maiores que em 2021; o acionamento de 2025 (vermelha P2 em ago–set) ocorreu com SE/CO em 50–58%. A diferença entre 66,1% (SE/CO, ONS, abr/2026) e os '71%' do CMSE é a base (SIN inteiro vs. subsistema)."
+  ],
+  "ultimo_periodo": "2026-10",
+  "temas": [
+    "energia"
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/06_energia_eletrobras_combustiveis.md",
+  "atualizado_em": "2026-10-21",
+  "lacunas": [
+    "Dados brutos baixados na rodada 2 de enriquecimento (21/10/2026); valores calculados sobre base oficial estão indicados como cálculo próprio na nota.",
+    "Anos 2022 e 2023 não processados."
+  ]
+}

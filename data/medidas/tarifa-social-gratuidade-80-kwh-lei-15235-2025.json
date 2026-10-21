@@ -28,7 +28,7 @@
     }
   },
   "quem_paga": {
-    "descricao": "Os demais consumidores de energia, pela CDE: a Tarifa Social passa de R$ 7,8 bi (2024) para R$ 10,4 bi na proposta de CDE 2026 (+33%). A Anace critica que o custo recai sobre os consumidores e não sobre o Tesouro.",
+    "descricao": "Os demais consumidores de energia, pela CDE: a despesa com Tarifa Social/baixa renda é de R$ 10,44 bi no orçamento 2026 da CDE (base ANEEL Dados Abertos) contra R$ 7,83 bi em 2025 (+33%); reportagens citavam R$ 7,8 bi em 2024. A Anace critica que o custo recai sobre os consumidores e não sobre o Tesouro; o Comprova (28/04/2025) explicou a proposta e quem paga.",
     "pessoas": null,
     "faixa_renda": "consumidores que não têm direito ao benefício",
     "fonte": {
@@ -39,13 +39,13 @@
     }
   },
   "custo_ou_arrecadacao": {
-    "valor": 10.4,
-    "unidade": "R$ bilhões (Tarifa Social na proposta de CDE 2026)",
+    "valor": 10.44,
+    "unidade": "R$ bilhões (Tarifa Social/baixa renda no orçamento 2026 da CDE, base ANEEL; 2025: R$ 7,83 bi)",
     "fonte": {
-      "nome": "Cenário Energia – CDE 2026 deve chegar a R$ 52,7 bilhões (05/12/2025)",
-      "url": "https://cenarioenergia.com.br/2025/12/05/cde-2026-deve-chegar-a-r-527-bilhoes-e-pressiona-debate-sobre-subsidios-no-setor-eletrico/",
+      "nome": "ANEEL Dados Abertos – CDE, custeio dos benefícios tarifários (CSV gerado em 01/10/2026)",
+      "url": "https://dadosabertos.aneel.gov.br/dataset/conta-desenvolvimento-energetico-cde-custeio-dos-beneficios-tarifarios",
       "acesso_em": "2026-10-21",
-      "tier": "imprensa"
+      "tier": "oficial"
     }
   },
   "regra_simulador": {
@@ -132,6 +132,18 @@
       "url": "https://eixos.com.br/politica/congresso/reforma-do-setor-eletrico-pode-reduzir-atratividade-do-mercado-livre-diz-anace/",
       "acesso_em": "2026-10-21",
       "tier": "imprensa"
+    },
+    {
+      "nome": "ANEEL Dados Abertos – CDE, custeio dos benefícios tarifários (CSV gerado em 01/10/2026)",
+      "url": "https://dadosabertos.aneel.gov.br/dataset/conta-desenvolvimento-energetico-cde-custeio-dos-beneficios-tarifarios",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Comprova – Entenda a proposta do governo para ampliar tarifa social da conta de luz e quem vai pagar por isso (28/04/2025)",
+      "url": "https://projetocomprova.com.br/publicações/entenda-a-proposta-do-governo-para-ampliar-tarifa-social-da-conta-de-luz-e-quem-vai-pagar-por-isso/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/06_energia_eletrobras_combustiveis.md",
@@ -139,5 +151,8 @@
   "temas": [
     "energia",
     "pobreza-programas-sociais"
+  ],
+  "lacunas": [
+    "Divergência de base: a ANEEL registra R$ 7,83 bi de baixa renda no orçamento 2025 da CDE, enquanto reportagens atribuíram R$ 7,8 bi a 2024."
   ]
 }

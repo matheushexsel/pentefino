@@ -34,11 +34,12 @@
     "A CDE é criada e ampliada por leis do Congresso sancionadas por vários governos; em 2025 o governo Lula ampliou a Tarifa Social, cujo custo (R$ 10,4 bi em 2026) é pago pelos demais consumidores.",
     "Os estados fixam o ICMS (média de 18%) e a cor da bandeira depende da chuva, então culpar um só governo por um reajuste é simplificar demais."
   ],
-  "explicacao_completa_md": "## O que a frase diz\nQue a alta da conta de luz é responsabilidade do governo federal.\n\n## O que o registro mostra\n- **Quem decide**: a tarifa de cada distribuidora é homologada pela ANEEL em reunião pública (ex.: Enel SP 2026, aprovado em 30/06/2026). O governo federal não fixa tarifa.\n- **Por que subiu**: a ANEEL atribui o efeito médio de 7,0% em 2025 (IPCA 4,4%) 'principalmente devido ao aumento da CDE (Uso e GD)' e a alta projetada de 8,6% a 9,4% em 2026 'principalmente pelo aumento da Conta de Desenvolvimento Energético'. Na Enel SP, os reajustes de 13,94% (2025) e 10,18% (2026) vieram de encargos e itens financeiros; a parcela da distribuidora subiu 1,02% e 0,37 p.p.\n- **O que é do governo federal e do Congresso**: a CDE é definida em lei. A proposta para 2026 soma R$ 52,7 bi, com Tarifa Social de R$ 10,4 bi (+33%, ampliada pela MP 1.300/2025 do governo Lula), fontes incentivadas R$ 19,6 bi e geração distribuída R$ 6,8 bi (+87%). A Lei 14.182/2021 (governo Bolsonaro e Congresso) obrigou a contratação de térmicas que associações estimam custar dezenas de bilhões. A Lei 15.269/2025 (governo Lula e Congresso) criou um teto para a CDE a partir de 2027.\n- **O que não é do governo federal**: o ICMS (estados, alíquota média de 18,0%), a cor da bandeira (hidrologia) e a qualidade do serviço da distribuidora.\n\n## Veredito\n**Falta contexto.** Há responsabilidade federal e do Congresso pelos encargos que puxaram os reajustes, inclusive por decisões do governo atual (Tarifa Social via CDE), mas a tarifa é homologada pela ANEEL e os encargos resultam de leis acumuladas por vários governos.",
+  "explicacao_completa_md": "## O que a frase diz\nQue a alta da conta de luz é responsabilidade do governo federal.\n\n## O que o registro mostra\n- **Quem decide**: a tarifa de cada distribuidora é homologada pela ANEEL em reunião pública (ex.: Enel SP 2026, aprovado em 30/06/2026). O governo federal não fixa tarifa.\n- **Por que subiu**: a ANEEL atribui o efeito médio de 7,0% em 2025 (IPCA 4,4%) 'principalmente devido ao aumento da CDE (Uso e GD)' e a alta projetada de 8,6% a 9,4% em 2026 'principalmente pelo aumento da Conta de Desenvolvimento Energético'. Na Enel SP, os reajustes de 13,94% (2025) e 10,18% (2026) vieram de encargos e itens financeiros; a parcela da distribuidora subiu 1,02% e 0,37 p.p.\n- **O que é do governo federal e do Congresso**: a CDE é definida em lei. A proposta para 2026 soma R$ 52,7 bi, com Tarifa Social de R$ 10,4 bi (+33%, ampliada pela MP 1.300/2025 do governo Lula), fontes incentivadas R$ 19,6 bi e geração distribuída R$ 6,8 bi (+87%). A Lei 14.182/2021 (governo Bolsonaro e Congresso) obrigou a contratação de térmicas que associações estimam custar dezenas de bilhões. A Lei 15.269/2025 (governo Lula e Congresso) criou um teto para a CDE a partir de 2027.\n- **O que não é do governo federal**: o ICMS (estados, alíquota média de 18,0%), a cor da bandeira (hidrologia) e a qualidade do serviço da distribuidora.\n\n## Veredito\n**Falta contexto.** Há responsabilidade federal e do Congresso pelos encargos que puxaram os reajustes, inclusive por decisões do governo atual (Tarifa Social via CDE), mas a tarifa é homologada pela ANEEL e os encargos resultam de leis acumuladas por vários governos.\n\n## Atualização (rodada 2)\nA base ANEEL Dados Abertos confirma a CDE de 2026 em R$ 52,66 bi (R$ 47,79 bi via quotas de uso) e mostra a trajetória: R$ 14,12 bi (2013), 20,05 (2018), 32,10 (2022), 34,99 (2023), 37,17 (2024), 49,23 (2025). A média simples da tarifa B1 das distribuidoras subiu 130,6% entre 2010 e 2025, praticamente o IPCA (131,6%), e 144,5% até out/2026; ou seja, a alta acima da inflação é um fenômeno de 2025–2026, puxado pela CDE.",
   "o_que_e_verdade": [
     "Os encargos (CDE) foram o principal motor dos reajustes de 2025 e 2026, segundo a ANEEL.",
     "A CDE é definida por lei; o governo Lula ampliou a Tarifa Social em 2025, paga pela CDE, e a proposta de CDE para 2026 cresce para R$ 52,7 bi.",
-    "A conta sobe acima da inflação há mais de uma década."
+    "A conta sobe acima da inflação há mais de uma década.",
+    "A CDE cresceu de R$ 14,12 bi (2013) para R$ 52,66 bi (2026) na base oficial da ANEEL, atravessando os governos Dilma, Temer, Bolsonaro e Lula."
   ],
   "o_que_nao_se_sustenta": [
     "O governo federal não fixa a tarifa de nenhuma distribuidora: quem homologa é a ANEEL.",
@@ -197,14 +198,71 @@
         "acesso_em": "2026-10-21",
         "tier": "oficial"
       }
+    },
+    {
+      "rotulo": "CDE 2026 na base oficial da ANEEL",
+      "valor": 52.66,
+      "unidade": "R$ bilhões",
+      "periodo": "2026",
+      "fonte": {
+        "nome": "ANEEL Dados Abertos – CDE, custeio dos benefícios tarifários (CSV gerado em 01/10/2026)",
+        "url": "https://dadosabertos.aneel.gov.br/dataset/conta-desenvolvimento-energetico-cde-custeio-dos-beneficios-tarifarios",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "2013",
+        "valor": 14.12
+      }
+    },
+    {
+      "rotulo": "Tarifa B1 média simples das distribuidoras",
+      "valor": 838.53,
+      "unidade": "R$/MWh",
+      "periodo": "2026 (até out)",
+      "fonte": {
+        "nome": "ANEEL Dados Abertos – Tarifas de aplicação das distribuidoras (CSV gerado em 21/10/2026)",
+        "url": "https://dadosabertos.aneel.gov.br/dataset/tarifas-distribuidoras-energia-eletrica",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "2025",
+        "valor": 790.8
+      }
+    },
+    {
+      "rotulo": "Alta da B1 média simples 2010→2025",
+      "valor": 130.6,
+      "unidade": "%",
+      "periodo": "2010–2025",
+      "fonte": {
+        "nome": "ANEEL Dados Abertos – Tarifas de aplicação das distribuidoras (CSV gerado em 21/10/2026)",
+        "url": "https://dadosabertos.aneel.gov.br/dataset/tarifas-distribuidoras-energia-eletrica",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "IPCA dez/2010–dez/2025",
+        "valor": 131.6
+      }
     }
   ],
   "series": [
     "tarifa-residencial-vs-ipca",
     "reajustes-enel-sp",
-    "cde-anual"
+    "cde-anual",
+    "tarifa-b1-media-nacional"
   ],
-  "checagens_externas": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Comprova",
+      "veredito_original": "explicador (sem veredito)",
+      "url": "https://projetocomprova.com.br/publicações/entenda-o-papel-da-enel-e-de-cada-ente-da-federacao-na-crise-de-energia-em-sp/",
+      "data": "2024-10-17",
+      "titulo": "Entenda o papel da Enel e de cada ente da Federação na crise de energia em SP (17/10/2024)"
+    }
+  ],
   "fontes": [
     {
       "nome": "ANEEL – Boletim InfoTarifa nº 3, dez/2025 (PDF)",
@@ -271,6 +329,24 @@
       "url": "https://static.poder360.com.br/2023/11/NOTA-TECNICA-COMSEFAZ-023-2023-Impactos-das-LCs-192.22-e-LCs-194.22-sobre-arrecadacao-de-ICMS-dos-estados1-1.pdf",
       "acesso_em": "2026-10-21",
       "tier": "oficial"
+    },
+    {
+      "nome": "ANEEL Dados Abertos – CDE, custeio dos benefícios tarifários (CSV gerado em 01/10/2026)",
+      "url": "https://dadosabertos.aneel.gov.br/dataset/conta-desenvolvimento-energetico-cde-custeio-dos-beneficios-tarifarios",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "ANEEL Dados Abertos – Tarifas de aplicação das distribuidoras (CSV gerado em 21/10/2026)",
+      "url": "https://dadosabertos.aneel.gov.br/dataset/tarifas-distribuidoras-energia-eletrica",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Comprova – Entenda o papel da Enel e de cada ente da Federação na crise de energia em SP (17/10/2024)",
+      "url": "https://projetocomprova.com.br/publicações/entenda-o-papel-da-enel-e-de-cada-ente-da-federacao-na-crise-de-energia-em-sp/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/06_energia_eletrobras_combustiveis.md",
@@ -296,11 +372,15 @@
     {
       "data": "2026-10-21",
       "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "rodada 2: CDE 2013–2026 oficial, média B1 nacional, checagem externa Comprova"
     }
   ],
   "exemplo": false,
   "lacunas": [
     "Autoria, data e local da declaração não documentados nas notas; a checagem trata a afirmação em sua forma recorrente.",
-    "Checagens já publicadas por Aos Fatos, Lupa, Estadão Verifica e Comprova sobre o tema não foram consultadas (cota de busca esgotada); cruzar antes da publicação."
+    "Checagens da Lupa, Estadão Verifica e g1 Fato ou Fake não puderam ser abertas na rodada 2 (bloqueio de fetch); a lista de checagens externas cobre apenas Aos Fatos e Comprova."
   ]
 }

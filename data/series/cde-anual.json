@@ -1,36 +1,77 @@
 {
   "id": "cde-anual",
-  "titulo": "Conta de Desenvolvimento Energético (CDE) por ano",
-  "descricao_simples": "Orçamento anual da CDE, o fundo de subsídios do setor elétrico pago principalmente pelos consumidores na conta de luz.",
+  "titulo": "Conta de Desenvolvimento Energético (CDE) por ano, 2013–2026",
+  "descricao_simples": "Orçamento anual da CDE, o fundo de subsídios do setor elétrico pago principalmente pelos consumidores na conta de luz (R$ bilhões nominais).",
   "unidade": "R$ bilhões",
   "tipo_grafico": "barra",
   "frequencia": "anual",
   "fonte": {
-    "nome": "Agência iNFRA – Orçamento da CDE 2026 (05/12/2025)",
-    "url": "https://agenciainfra.com/blog/?p=33412",
+    "nome": "ANEEL Dados Abertos – CDE, custeio dos benefícios tarifários (CSV gerado em 01/10/2026)",
+    "url": "https://dadosabertos.aneel.gov.br/dataset/conta-desenvolvimento-energetico-cde-custeio-dos-beneficios-tarifarios",
     "acesso_em": "2026-10-21",
-    "tier": "imprensa"
+    "tier": "oficial"
   },
   "pontos": [
     {
+      "periodo": "2013",
+      "valor": 14.12
+    },
+    {
+      "periodo": "2014",
+      "valor": 18.07
+    },
+    {
+      "periodo": "2015",
+      "valor": 25.25
+    },
+    {
+      "periodo": "2016",
+      "valor": 18.29
+    },
+    {
+      "periodo": "2017",
+      "valor": 15.99
+    },
+    {
+      "periodo": "2018",
+      "valor": 20.05
+    },
+    {
+      "periodo": "2019",
+      "valor": 20.21
+    },
+    {
+      "periodo": "2020",
+      "valor": 21.91
+    },
+    {
+      "periodo": "2021",
+      "valor": 23.92
+    },
+    {
       "periodo": "2022",
-      "valor": 32.1,
-      "rotulo": "orçado"
+      "valor": 32.1
+    },
+    {
+      "periodo": "2023",
+      "valor": 34.99
+    },
+    {
+      "periodo": "2024",
+      "valor": 37.17
     },
     {
       "periodo": "2025",
-      "valor": 49.2,
-      "rotulo": "realizado (R$ 46,8 bi via tarifa)"
+      "valor": 49.23
     },
     {
       "periodo": "2026",
-      "valor": 52.7,
-      "rotulo": "proposta ANEEL dez/2025 (R$ 47,8 bi via tarifa)"
+      "valor": 52.66
     },
     {
       "periodo": "2027",
       "valor": 55.1,
-      "rotulo": "projeção ANEEL"
+      "rotulo": "projeção ANEEL (Agência iNFRA)"
     }
   ],
   "faixas_referencia": [
@@ -40,10 +81,10 @@
     }
   ],
   "notas_metodologicas": [
-    "2022: CDE orçada em R$ 32,1 bi (Metrópoles). 2025: R$ 49,2 bi, dos quais R$ 46,8 bi pagos pelos consumidores (CLP; Agência iNFRA). 2026: proposta de R$ 52,7 bi, R$ 47,8 bi via tarifas, impacto tarifário médio de 0,71%; consulta pública de 10/12/2025 a 26/01/2026. 2027: projeção ANEEL de R$ 55,1 bi contra teto de R$ 48,7 bi.",
-    "Principais itens da proposta 2026: descontos a fontes incentivadas R$ 19,6 bi (+16%), Tarifa Social R$ 10,4 bi (+33%; R$ 7,8 bi em 2024), geração distribuída R$ 6,8 bi (+87,4%); Luz para Todos -33%, carvão -84%, CCC -8,8%.",
-    "A Lei 15.269/2025 limita a CDE a partir de 2027 ao valor de 2025 corrigido pelo IPCA (exceto itens protegidos); em 2026 o teto já teria sido ultrapassado em R$ 5,1 bi se vigente.",
-    "Subsidiômetro da ANEEL (inclui outros subsídios): R$ 52,5 bi (dez/2024–nov/2025), R$ 56,3 bi em 2025 e R$ 55 bi (jun/2025–mai/2026)."
+    "Fonte 2013–2026: ANEEL Dados Abertos, 'CDE – Custeio dos Benefícios Tarifários' (CSV gerado em 01/10/2026), soma das despesas por ano (cálculo próprio). 2026 = R$ 52,66 bi, igual à proposta de dez/2025 (R$ 52,7 bi); o arquivo não traz o número da REH homologatória, mas é o orçamento vigente na base oficial em out/2026. 2027 = projeção da ANEEL citada pela Agência iNFRA.",
+    "Detalhe 2026: Quotas CDE-Uso (pagas via tarifa) R$ 47,79 bi; Quotas CDE-GD R$ 2,95 bi; UBP R$ 1,44 bi; despesas: fontes incentivadas R$ 13,39 bi (consumidor) + R$ 3,73 bi (transmissoras) + R$ 0,95 bi (geração); CCC R$ 11,45 bi; Tarifa Social/baixa renda R$ 10,44 bi; GD (Lei 14.300) R$ 6,86 bi; Luz para Todos R$ 2,60 bi; irrigação/aquicultura R$ 1,55 bi; cooperativas R$ 0,72 bi.",
+    "Detalhe 2025: CDE-Uso R$ 41,41 bi; CCC R$ 12,56 bi; fontes incentivadas R$ 11,30 bi; baixa renda R$ 7,83 bi; Luz para Todos R$ 3,92 bi; GD R$ 3,66 bi; aporte da Eletrobras (Lei 14.182) de R$ 1,30 bi em 2024.",
+    "A Lei 15.269/2025 limita a CDE a partir de 2027 ao valor de 2025 corrigido pelo IPCA (exceto itens protegidos); em 2026 o teto já teria sido ultrapassado em R$ 5,1 bi se vigente. Subsidiômetro ANEEL (inclui outros subsídios): R$ 56,3 bi em 2025."
   ],
   "ultimo_periodo": "2027",
   "temas": [
@@ -52,6 +93,7 @@
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/06_energia_eletrobras_combustiveis.md",
   "atualizado_em": "2026-10-21",
   "lacunas": [
-    "Valor final homologado da CDE 2026 (previsto para fev/2026) não localizado; anos 2023 e 2024 não constam das notas."
+    "Dados brutos baixados na rodada 2 de enriquecimento (21/10/2026); valores calculados sobre base oficial estão indicados como cálculo próprio na nota.",
+    "Número da resolução homologatória da CDE 2026 não consta da base."
   ]
 }

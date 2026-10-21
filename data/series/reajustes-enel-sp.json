@@ -1,44 +1,168 @@
 {
   "id": "reajustes-enel-sp",
-  "titulo": "Reajuste tarifário anual da Enel SP aprovado pela ANEEL",
-  "descricao_simples": "Efeito médio do reajuste anual da distribuidora Enel São Paulo, homologado pela ANEEL com vigência em 4 de julho.",
-  "unidade": "% (efeito médio)",
+  "titulo": "Tarifa residencial (B1) da Enel SP homologada pela ANEEL, 2010–2026: variação a cada resolução",
+  "descricao_simples": "Variação da tarifa residencial B1 (TUSD + TE, sem tributos) da Enel SP/Eletropaulo em cada resolução homologatória da ANEEL, com vigência normalmente em 4 de julho.",
+  "unidade": "% (variação da tarifa B1 homologada)",
   "tipo_grafico": "barra",
   "frequencia": "anual",
   "fonte": {
-    "nome": "Agência iNFRA – ANEEL aprova reajuste de 10,18% nas tarifas da Enel SP (30/06/2026)",
-    "url": "https://agenciainfra.com/blog/aneel-aprova-reajuste-de-1018-nas-tarifas-da-enel-sp/",
+    "nome": "ANEEL Dados Abertos – Tarifas de aplicação das distribuidoras (CSV gerado em 21/10/2026)",
+    "url": "https://dadosabertos.aneel.gov.br/dataset/tarifas-distribuidoras-energia-eletrica",
     "acesso_em": "2026-10-21",
-    "tier": "imprensa"
+    "tier": "oficial"
   },
   "pontos": [
     {
-      "periodo": "2021",
-      "valor": 9.44
+      "periodo": "jul/2010",
+      "valor": null,
+      "reh": "REH 1.025, de 29/06/2010",
+      "tarifa_b1_rs_mwh": 296.51
     },
     {
-      "periodo": "2025",
-      "valor": 13.94
+      "periodo": "jul/2011",
+      "valor": -9.4,
+      "reh": "REH 1.317, de 02/07/2012 (retroativa a 04/07/2011)",
+      "tarifa_b1_rs_mwh": 268.68
     },
     {
-      "periodo": "2026",
-      "valor": 10.18
+      "periodo": "jul/2012",
+      "valor": 8.4,
+      "reh": "REH 1.319, de 03/07/2012",
+      "tarifa_b1_rs_mwh": 291.14
+    },
+    {
+      "periodo": "jan/2013",
+      "valor": -18.2,
+      "reh": "REH 1.436, de 24/01/2013 (revisão extraordinária, MP 579)",
+      "tarifa_b1_rs_mwh": 238.01
+    },
+    {
+      "periodo": "jul/2013",
+      "valor": 0.2,
+      "reh": "REH 1.563, de 02/07/2013",
+      "tarifa_b1_rs_mwh": 238.44
+    },
+    {
+      "periodo": "jul/2014",
+      "valor": 17.9,
+      "reh": "REH 1.759, de 03/07/2014",
+      "tarifa_b1_rs_mwh": 281.17
+    },
+    {
+      "periodo": "jan/2015",
+      "valor": 3.2,
+      "reh": "REH 1.844, de 05/01/2015",
+      "tarifa_b1_rs_mwh": 290.16
+    },
+    {
+      "periodo": "mar/2015",
+      "valor": 28.1,
+      "reh": "REH 1.858, de 27/02/2015 (revisão extraordinária)",
+      "tarifa_b1_rs_mwh": 371.82
+    },
+    {
+      "periodo": "jul/2015",
+      "valor": 17.3,
+      "reh": "REH 1.920, de 30/06/2015",
+      "tarifa_b1_rs_mwh": 436.11
+    },
+    {
+      "periodo": "jul/2016",
+      "valor": -7.3,
+      "reh": "REH 2.103, de 28/06/2016",
+      "tarifa_b1_rs_mwh": 404.43
+    },
+    {
+      "periodo": "abr/2017",
+      "valor": -1.3,
+      "reh": "REH 2.214, de 28/03/2017",
+      "tarifa_b1_rs_mwh": 399.06
+    },
+    {
+      "periodo": "jul/2017",
+      "valor": 5.2,
+      "reh": "REH 2.263, de 27/06/2017",
+      "tarifa_b1_rs_mwh": 419.61
+    },
+    {
+      "periodo": "jul/2018",
+      "valor": 15.3,
+      "reh": "REH 2.412, de 03/07/2018",
+      "tarifa_b1_rs_mwh": 483.63
+    },
+    {
+      "periodo": "jul/2019",
+      "valor": 6.6,
+      "reh": "REH 2.568, de 02/07/2019",
+      "tarifa_b1_rs_mwh": 515.59
+    },
+    {
+      "periodo": "jul/2020",
+      "valor": 3.6,
+      "reh": "REH 2.719, de 30/06/2020",
+      "tarifa_b1_rs_mwh": 534.19
+    },
+    {
+      "periodo": "jul/2021",
+      "valor": 11.3,
+      "reh": "REH 2.890, de 29/06/2021",
+      "tarifa_b1_rs_mwh": 594.49
+    },
+    {
+      "periodo": "jul/2022",
+      "valor": 10.4,
+      "reh": "REH 3.053, de 28/06/2022",
+      "tarifa_b1_rs_mwh": 656.49
+    },
+    {
+      "periodo": "jul/2023",
+      "valor": -1.1,
+      "reh": "REH 3.215, de 27/06/2023",
+      "tarifa_b1_rs_mwh": 649.1
+    },
+    {
+      "periodo": "jul/2024",
+      "valor": -2.0,
+      "reh": "REH 3.339, de 02/07/2024",
+      "tarifa_b1_rs_mwh": 636.24
+    },
+    {
+      "periodo": "jul/2025",
+      "valor": 14.0,
+      "reh": "REH 3.477, de 01/07/2025",
+      "tarifa_b1_rs_mwh": 725.18
+    },
+    {
+      "periodo": "jul/2026",
+      "valor": 8.9,
+      "reh": "REH 3.596, de 03/07/2026",
+      "tarifa_b1_rs_mwh": 789.38
     }
   ],
-  "faixas_referencia": [],
-  "notas_metodologicas": [
-    "2021: efeito médio 9,44%; baixa tensão 11,38%; alta tensão 3,67%; vigência 04/07/2021 (Jovem Pan).",
-    "2025: efeito médio 13,94%, aprovado em 01/07/2025; AT 15,77%, BT 13,47%; componentes: encargos setoriais +6,44 p.p., retirada de financeiros do ano anterior +7,97, financeiros atuais -2,35, aquisição de energia +1,38, custos da distribuidora (Parcela B) +1,02, transmissão -0,52.",
-    "2026: efeito médio 10,18%, aprovado em 30/06/2026; residencial B1 9,02%; BT 8,97%; AT 15,00%; itens financeiros ligados a compra de energia e transmissão respondem por 6,46 p.p.; Parcela B 0,37 p.p.",
-    "A ANEEL atribuiu os reajustes de 2025 e 2026 a custos não gerenciáveis pela distribuidora e a itens financeiros, não ao aumento da remuneração da empresa."
+  "faixas_referencia": [
+    {
+      "rotulo": "IPCA acumulado dez/2010–set/2026 (BCB/SGS 433)",
+      "valor": 140.8
+    },
+    {
+      "rotulo": "Acumulado da B1 Enel SP 2010→2026",
+      "valor": 166.2
+    }
   ],
-  "ultimo_periodo": "2026",
+  "notas_metodologicas": [
+    "Fonte: ANEEL Dados Abertos, 'Tarifas de aplicação das distribuidoras' (CSV gerado em 21/10/2026), filtro agente ELETROPAULO, subgrupo B1, modalidade Convencional, subclasse Residencial; variação é cálculo próprio sobre a tarifa homologada, não o 'efeito médio' divulgado pela ANEEL (2021: 11,3% na B1 vs 11,38% BT; 2025: 14,0% vs 13,47% BT; 2026: 8,9% vs 9,02% B1).",
+    "Efeitos médios divulgados pela ANEEL/imprensa: 2021 +9,44% (BT 11,38%, AT 3,67%); 2025 +13,94% (AT 15,77%, BT 13,47%; encargos +6,44 p.p., retirada de financeiros +7,97, financeiros atuais -2,35, energia +1,38, Parcela B +1,02, transmissão -0,52); 2026 +10,18% (B1 9,02%, BT 8,97%, AT 15,00%; itens financeiros 6,46 p.p., Parcela B 0,37 p.p.). A reunião de 2026 foi em 30/06; a REH 3.596 é datada de 03/07/2026.",
+    "O campo 'tarifa_b1_rs_mwh' traz a tarifa B1 em R$/MWh sem tributos; o ponto jul/2010 é a base (variação nula). Em 2023 e 2024 a tarifa residencial da Enel SP caiu nominalmente; o salto de 2025 veio após dois anos de queda. Acumulado 2010→2026: +166,2% contra IPCA de ~140,8% (dez/2010–set/2026), cálculo próprio.",
+    "Em 2010 a B1 da Enel SP (R$ 296,51) era 13,5% menor que a média simples nacional (R$ 342,89); em 2026 (R$ 789,38 vs R$ 838,53) é 5,9% menor."
+  ],
+  "ultimo_periodo": "jul/2026",
   "temas": [
     "energia"
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/06_energia_eletrobras_combustiveis.md",
   "atualizado_em": "2026-10-21",
   "lacunas": [
-    "Reajustes de 2019, 2020, 2022, 2023 e 2024 e os números das resoluções homologatórias não foram localizados; consultar o painel de processos tarifários da ANEEL."
+    "Dados brutos baixados na rodada 2 de enriquecimento (21/10/2026); valores calculados sobre base oficial estão indicados como cálculo próprio na nota.",
+    "Tarifas anteriores a 2010 não constam da base da ANEEL."
   ]
 }

@@ -35,7 +35,7 @@
     "A CDE, principal veículo, custou R$ 49,2 bi em 2025 (R$ 46,8 bi via tarifa) e a proposta para 2026 é de R$ 52,7 bi, contra R$ 32,1 bi em 2022.",
     "Os maiores itens de 2026 são descontos a fontes incentivadas (R$ 19,6 bi), Tarifa Social (R$ 10,4 bi) e geração distribuída (R$ 6,8 bi, +87%)."
   ],
-  "explicacao_completa_md": "## Dados\n- Subsidiômetro ANEEL: R$ 52,5 bi (dez/2024–nov/2025); R$ 56,3 bi em 2025; R$ 55 bi (jun/2025–mai/2026).\n- CDE: R$ 32,1 bi (2022, orçada); R$ 49,2 bi (2025); R$ 52,7 bi (proposta 2026, impacto tarifário médio de 0,71%); projeção de R$ 55,1 bi em 2027 contra teto legal de R$ 48,7 bi.\n- Itens 2026: fontes incentivadas R$ 19,6 bi (+16%); Tarifa Social R$ 10,4 bi (+33%); GD R$ 6,8 bi (+87,4%); Luz para Todos -33%; carvão -84%.\n- A CDE representa em média 15% da fatura (ANEEL).\n\n## Quem decidiu\nOs subsídios são criados por lei (Congresso e governos de vários períodos). O governo Lula ampliou a Tarifa Social em 2025 e, com o Congresso, criou um teto para a CDE a partir de 2027 (Lei 15.269/2025).\n\n## Veredito\n**Verdadeiro.**",
+  "explicacao_completa_md": "## Dados\n- Subsidiômetro ANEEL: R$ 52,5 bi (dez/2024–nov/2025); R$ 56,3 bi em 2025; R$ 55 bi (jun/2025–mai/2026).\n- CDE: R$ 32,1 bi (2022, orçada); R$ 49,2 bi (2025); R$ 52,7 bi (proposta 2026, impacto tarifário médio de 0,71%); projeção de R$ 55,1 bi em 2027 contra teto legal de R$ 48,7 bi.\n- Itens 2026: fontes incentivadas R$ 19,6 bi (+16%); Tarifa Social R$ 10,4 bi (+33%); GD R$ 6,8 bi (+87,4%); Luz para Todos -33%; carvão -84%.\n- A CDE representa em média 15% da fatura (ANEEL).\n\n## Quem decidiu\nOs subsídios são criados por lei (Congresso e governos de vários períodos). O governo Lula ampliou a Tarifa Social em 2025 e, com o Congresso, criou um teto para a CDE a partir de 2027 (Lei 15.269/2025).\n\n## Veredito\n**Verdadeiro.**\n\n## Atualização (rodada 2)\nBase ANEEL Dados Abertos: CDE de R$ 14,12 bi (2013), 18,07 (2014), 25,25 (2015), 18,29 (2016), 15,99 (2017), 20,05 (2018), 20,21 (2019), 21,91 (2020), 23,92 (2021), 32,10 (2022), 34,99 (2023), 37,17 (2024), 49,23 (2025) e 52,66 (2026). Detalhe 2026: fontes incentivadas R$ 13,39 bi (consumidor) + 3,73 (transmissoras) + 0,95 (geração); CCC R$ 11,45 bi; baixa renda R$ 10,44 bi; GD R$ 6,86 bi; Luz para Todos R$ 2,60 bi; irrigação R$ 1,55 bi; cooperativas R$ 0,72 bi.",
   "o_que_e_verdade": [
     "Os subsídios superam R$ 50 bi por ano desde 2025 em qualquer das medidas da ANEEL."
   ],
@@ -151,6 +151,54 @@
         "acesso_em": "2026-10-21",
         "tier": "oficial"
       }
+    },
+    {
+      "rotulo": "CDE 2026 na base oficial da ANEEL",
+      "valor": 52.66,
+      "unidade": "R$ bilhões",
+      "periodo": "2026",
+      "fonte": {
+        "nome": "ANEEL Dados Abertos – CDE, custeio dos benefícios tarifários (CSV gerado em 01/10/2026)",
+        "url": "https://dadosabertos.aneel.gov.br/dataset/conta-desenvolvimento-energetico-cde-custeio-dos-beneficios-tarifarios",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "Quotas CDE-Uso via tarifa",
+        "valor": 47.79
+      }
+    },
+    {
+      "rotulo": "CDE 2024",
+      "valor": 37.17,
+      "unidade": "R$ bilhões",
+      "periodo": "2024",
+      "fonte": {
+        "nome": "ANEEL Dados Abertos – CDE, custeio dos benefícios tarifários (CSV gerado em 01/10/2026)",
+        "url": "https://dadosabertos.aneel.gov.br/dataset/conta-desenvolvimento-energetico-cde-custeio-dos-beneficios-tarifarios",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "2023",
+        "valor": 34.99
+      }
+    },
+    {
+      "rotulo": "Tarifa Social/baixa renda na CDE 2026",
+      "valor": 10.44,
+      "unidade": "R$ bilhões",
+      "periodo": "2026",
+      "fonte": {
+        "nome": "ANEEL Dados Abertos – CDE, custeio dos benefícios tarifários (CSV gerado em 01/10/2026)",
+        "url": "https://dadosabertos.aneel.gov.br/dataset/conta-desenvolvimento-energetico-cde-custeio-dos-beneficios-tarifarios",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "CCC (sistemas isolados)",
+        "valor": 11.45
+      }
     }
   ],
   "series": [
@@ -211,6 +259,12 @@
       "url": "https://agenciainfra.com/blog/tag/cde/",
       "acesso_em": "2026-10-21",
       "tier": "imprensa"
+    },
+    {
+      "nome": "ANEEL Dados Abertos – CDE, custeio dos benefícios tarifários (CSV gerado em 01/10/2026)",
+      "url": "https://dadosabertos.aneel.gov.br/dataset/conta-desenvolvimento-energetico-cde-custeio-dos-beneficios-tarifarios",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/06_energia_eletrobras_combustiveis.md",
@@ -229,12 +283,16 @@
     {
       "data": "2026-10-21",
       "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "rodada 2: série CDE 2013–2026 oficial"
     }
   ],
   "exemplo": false,
   "lacunas": [
     "Autoria, data e local da declaração não documentados nas notas; a checagem trata a afirmação em sua forma recorrente.",
-    "Valor final homologado da CDE 2026 não localizado.",
-    "Checagens já publicadas por Aos Fatos, Lupa, Estadão Verifica e Comprova sobre o tema não foram consultadas (cota de busca esgotada); cruzar antes da publicação."
+    "O orçamento 2026 da CDE na base ANEEL é R$ 52,66 bi, mas o arquivo não traz o número da resolução homologatória.",
+    "Checagens da Lupa, Estadão Verifica e g1 Fato ou Fake não puderam ser abertas na rodada 2 (bloqueio de fetch); a lista de checagens externas cobre apenas Aos Fatos e Comprova."
   ]
 }

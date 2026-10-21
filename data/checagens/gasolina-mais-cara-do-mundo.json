@@ -33,9 +33,9 @@
     "Argentina (US$ 1,459), Chile (1,506), México (1,545) e os países europeus (acima de US$ 2) pagam mais; os EUA pagam US$ 1,229.",
     "Em poder de compra a comparação piora, mas as notas não têm ranking em paridade de poder de compra para gasolina, só o dado de que o salário mínimo comprava 200 litros em mar/2021 contra 254 em 2017."
   ],
-  "explicacao_completa_md": "## Os números\nGlobalPetrolPrices, 12/10/2026 (US$/litro): Venezuela 0,035; EUA 1,229; **Brasil 1,260 (42º mais barato de 170)**; Colômbia 1,319; Argentina 1,459; Chile 1,506; México 1,545; Espanha 2,001; Itália 2,260; Reino Unido 2,323; Portugal 2,363; França 2,394; Alemanha 2,422; média mundial 1,60.\n\nNo Brasil (ANP, 11–17/10/2026): gasolina comum R$ 6,53/l; câmbio de R$ 5,02/US$ em 21/10/2026.\n\n## Ressalva\nEm dólar nominal o Brasil está abaixo da média. Medido pela renda, o peso é maior: o salário mínimo comprava 254 litros em mar/2017 e 200 litros em mar/2021. As notas não trazem ranking em paridade de poder de compra para gasolina.\n\n## Veredito\n**Falso.** Em dólar, a gasolina brasileira está abaixo da média mundial e de dezenas de países.",
+  "explicacao_completa_md": "## Os números\nGlobalPetrolPrices, 12/10/2026 (US$/litro): Venezuela 0,035; EUA 1,229; **Brasil 1,260 (42º mais barato de 170)**; Colômbia 1,319; Argentina 1,459; Chile 1,506; México 1,545; Espanha 2,001; Itália 2,260; Reino Unido 2,323; Portugal 2,363; França 2,394; Alemanha 2,422; média mundial 1,60.\n\nNo Brasil (ANP, 11–17/10/2026): gasolina comum R$ 6,53/l; câmbio de R$ 5,02/US$ em 21/10/2026.\n\n## Ressalva\nEm dólar nominal o Brasil está abaixo da média. Medido pela renda, o peso é maior: o salário mínimo comprava 254 litros em mar/2017 e 200 litros em mar/2021. As notas não trazem ranking em paridade de poder de compra para gasolina.\n\n## Veredito\n**Falso.** Em dólar, a gasolina brasileira está abaixo da média mundial e de dezenas de países.\n\n## Atualização (rodada 2)\nMédias anuais da ANP: de 2003 a 2025 a gasolina subiu 200,9%, abaixo do IPCA (232,1%); o salário mínimo comprava 115,8 litros em 2003 e 247,9 em 2026 (jan–set). Uma foto de posto 'vendendo gasolina a R$ 12,85 no Pará' foi checada como falsa pelo Aos Fatos (16/03/2026); a média do Norte na ANP em 11–17/10/2026 era R$ 6,94.",
   "o_que_e_verdade": [
-    "A gasolina pesa mais no orçamento do brasileiro do que em países ricos; em mar/2021 o salário mínimo comprava 200 litros, abaixo dos 254 de 2017.",
+    "Em poder de compra a gasolina pesa mais no Brasil do que em países ricos; mas em 2026 (jan–set) o salário mínimo compra 247,9 litros, perto do melhor nível da série ANP desde 2003 (248,7 l em 2017) e muito acima de 2021 (190,3 l).",
     "Em 2026 o preço na bomba só se manteve estável por subvenções e cortes de tributos federais."
   ],
   "o_que_nao_se_sustenta": [
@@ -151,13 +151,66 @@
         "rotulo": "mar/2017",
         "valor": 254
       }
+    },
+    {
+      "rotulo": "Alta nominal da gasolina 2003→2025 (médias anuais ANP)",
+      "valor": 200.9,
+      "unidade": "%",
+      "periodo": "2003–2025",
+      "fonte": {
+        "nome": "ANP – Série histórica do levantamento de preços (médias mensais Brasil)",
+        "url": "https://www.gov.br/anp/pt-br/assuntos/precos-e-defesa-da-concorrencia/precos/precos-revenda-e-de-distribuicao-combustiveis/serie-historica-do-levantamento-de-precos",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "IPCA no período",
+        "valor": 232.1
+      }
+    },
+    {
+      "rotulo": "Litros de gasolina por salário mínimo (média anual)",
+      "valor": 247.9,
+      "unidade": "litros",
+      "periodo": "2026 (jan–set)",
+      "fonte": {
+        "nome": "ANP – Série histórica do levantamento de preços (médias mensais Brasil)",
+        "url": "https://www.gov.br/anp/pt-br/assuntos/precos-e-defesa-da-concorrencia/precos/precos-revenda-e-de-distribuicao-combustiveis/serie-historica-do-levantamento-de-precos",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "2021",
+        "valor": 190.3
+      }
+    },
+    {
+      "rotulo": "Eletricidade residencial: posição do Brasil entre 144 países",
+      "valor": 68,
+      "unidade": "posição",
+      "periodo": "3º tri/2026",
+      "fonte": {
+        "nome": "GlobalPetrolPrices – Electricity prices (3º tri/2026)",
+        "url": "https://www.globalpetrolprices.com/electricity_prices/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
     }
   ],
   "series": [
     "gasolina-preco-anual",
-    "gasolina-litros-por-salario-minimo"
+    "gasolina-litros-por-salario-minimo",
+    "brent-anual"
   ],
-  "checagens_externas": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Aos Fatos",
+      "veredito_original": "falso",
+      "url": "https://www.aosfatos.org/noticias/falsa-foto-posto-gasolina-para/",
+      "data": "2026-03-16",
+      "titulo": "É falsa foto que mostra posto vendendo gasolina a R$ 12,85 no Pará (16/03/2026)"
+    }
+  ],
   "fontes": [
     {
       "nome": "GlobalPetrolPrices – Gasoline prices (12/10/2026)",
@@ -182,6 +235,30 @@
       "url": "https://investnews.com.br/economia/em-20-anos-quantidade-de-gasolina-que-salario-minimo-pode-comprar-aumenta-57",
       "acesso_em": "2026-10-21",
       "tier": "imprensa"
+    },
+    {
+      "nome": "ANP – Série histórica do levantamento de preços (médias mensais Brasil)",
+      "url": "https://www.gov.br/anp/pt-br/assuntos/precos-e-defesa-da-concorrencia/precos/precos-revenda-e-de-distribuicao-combustiveis/serie-historica-do-levantamento-de-precos",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Banco Central do Brasil – SGS 1619 (salário mínimo)",
+      "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.1619/dados?formato=json",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Aos Fatos – É falsa foto que mostra posto vendendo gasolina a R$ 12,85 no Pará (16/03/2026)",
+      "url": "https://www.aosfatos.org/noticias/falsa-foto-posto-gasolina-para/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "GlobalPetrolPrices – Electricity prices (3º tri/2026)",
+      "url": "https://www.globalpetrolprices.com/electricity_prices/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/06_energia_eletrobras_combustiveis.md",
@@ -200,12 +277,16 @@
     {
       "data": "2026-10-21",
       "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "rodada 2: médias anuais ANP, litros/SM confirmado, checagem Aos Fatos"
     }
   ],
   "exemplo": false,
   "lacunas": [
     "Autoria, data e local da declaração não documentados nas notas; a checagem trata a afirmação em sua forma recorrente.",
     "A associação país-valor na GlobalPetrolPrices foi feita pela ordem da lista, pois a página não rotula os valores.",
-    "Checagens já publicadas por Aos Fatos, Lupa, Estadão Verifica e Comprova sobre o tema não foram consultadas (cota de busca esgotada); cruzar antes da publicação."
+    "Checagens da Lupa, Estadão Verifica e g1 Fato ou Fake não puderam ser abertas na rodada 2 (bloqueio de fetch); a lista de checagens externas cobre apenas Aos Fatos e Comprova."
   ]
 }

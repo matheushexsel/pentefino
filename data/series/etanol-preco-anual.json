@@ -1,0 +1,126 @@
+{
+  "id": "etanol-preco-anual",
+  "titulo": "Preço médio anual do etanol hidratado (ANP), 2003–2026",
+  "descricao_simples": "Média anual do preço do etanol hidratado nos postos do Brasil, em reais por litro.",
+  "unidade": "R$/l",
+  "tipo_grafico": "linha",
+  "frequencia": "anual",
+  "fonte": {
+    "nome": "ANP – Série histórica do levantamento de preços (médias mensais Brasil)",
+    "url": "https://www.gov.br/anp/pt-br/assuntos/precos-e-defesa-da-concorrencia/precos/precos-revenda-e-de-distribuicao-combustiveis/serie-historica-do-levantamento-de-precos",
+    "acesso_em": "2026-10-21",
+    "tier": "oficial"
+  },
+  "pontos": [
+    {
+      "periodo": "2003",
+      "valor": 1.347
+    },
+    {
+      "periodo": "2004",
+      "valor": 1.325
+    },
+    {
+      "periodo": "2005",
+      "valor": 1.385
+    },
+    {
+      "periodo": "2006",
+      "valor": 1.634
+    },
+    {
+      "periodo": "2007",
+      "valor": 1.448
+    },
+    {
+      "periodo": "2008",
+      "valor": 1.445
+    },
+    {
+      "periodo": "2009",
+      "valor": 1.485
+    },
+    {
+      "periodo": "2010",
+      "valor": 1.669
+    },
+    {
+      "periodo": "2011",
+      "valor": 1.996
+    },
+    {
+      "periodo": "2012",
+      "valor": 1.943
+    },
+    {
+      "periodo": "2013",
+      "valor": 1.969
+    },
+    {
+      "periodo": "2014",
+      "valor": 2.067
+    },
+    {
+      "periodo": "2015",
+      "valor": 2.23
+    },
+    {
+      "periodo": "2016",
+      "valor": 2.652
+    },
+    {
+      "periodo": "2017",
+      "valor": 2.691
+    },
+    {
+      "periodo": "2018",
+      "valor": 2.889
+    },
+    {
+      "periodo": "2019",
+      "valor": 2.901
+    },
+    {
+      "periodo": "2020",
+      "valor": 2.95
+    },
+    {
+      "periodo": "2021",
+      "valor": 4.334
+    },
+    {
+      "periodo": "2022",
+      "valor": 4.428
+    },
+    {
+      "periodo": "2023",
+      "valor": 3.751
+    },
+    {
+      "periodo": "2024",
+      "valor": 3.86
+    },
+    {
+      "periodo": "2025",
+      "valor": 4.277
+    },
+    {
+      "periodo": "2026 (jan–set)",
+      "valor": 4.34
+    }
+  ],
+  "faixas_referencia": [],
+  "notas_metodologicas": [
+    "Fonte: ANP, 'Série histórica do levantamento de preços' (planilhas mensal-brasil-2001-a-2012.xlsx e mensal-brasil-desde-jan2013.xlsx); média simples das médias mensais nacionais de revenda, cálculo próprio. 2020 sem ago–out (pesquisa suspensa); 2026 = jan–set. Valores nominais.",
+    "Semanas de referência (ANP): 28/12/2025–03/01/2026 R$ 4,64; 27/09–03/10/2026 R$ 4,46 (-3,8% no ano); 11–17/10/2026 R$ 4,11 (SP R$ 3,86). Mistura de etanol anidro na gasolina comum: 30% desde 01/08/2025 (Res. CNPE 9/2025) e 32% desde 01/08/2026 (Res. CNPE 9/2026, temporária por 180 dias prorrogáveis)."
+  ],
+  "ultimo_periodo": "2026 (jan–set)",
+  "temas": [
+    "combustiveis"
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/06_energia_eletrobras_combustiveis.md",
+  "atualizado_em": "2026-10-21",
+  "lacunas": [
+    "Dados brutos baixados na rodada 2 de enriquecimento (21/10/2026); valores calculados sobre base oficial estão indicados como cálculo próprio na nota."
+  ]
+}

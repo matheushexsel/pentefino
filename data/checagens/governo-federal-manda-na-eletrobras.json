@@ -33,7 +33,7 @@
     "Até 2025 a União tinha 1 de 9 conselheiros; o acordo homologado pelo STF em 11/12/2025 deu a ela 3 de 10 assentos no conselho de administração e 1 de 5 no fiscal.",
     "Controle de verdade só voltaria com nova lei ou decisão judicial, e o STF homologou o acordo sem derrubar o teto."
   ],
-  "explicacao_completa_md": "## Regras\n- Lei 14.182/2021, art. 3º, III: o estatuto deve 'vedar que qualquer acionista ou grupo de acionistas exerça votos em número superior a 10%'. A União ficou com ação de classe especial com poder de veto em temas específicos.\n- Participação da União: de 68,6% para 40,3% do capital votante (Wikipédia); 42% das ações ordinárias (CNN).\n- Acordo (ADI 7.385): União indica 3 de 10 conselheiros de administração e 1 de 5 do conselho fiscal; cai a 2 se a fatia ficar abaixo de 30% e a zero abaixo de 20%; subscrição de até R$ 2,4 bi em debêntures da Eletronuclear; Eletrobras liberada de obrigações com Angra 3. STF homologou por 6 a 4 em 11/12/2025.\n- A empresa se chama Axia Energia desde 22/10/2025.\n\n## Veredito\n**Falso.** A União é acionista relevante com 3 assentos, não controladora.",
+  "explicacao_completa_md": "## Regras\n- Lei 14.182/2021, art. 3º, III: o estatuto deve 'vedar que qualquer acionista ou grupo de acionistas exerça votos em número superior a 10%'. A União ficou com ação de classe especial com poder de veto em temas específicos.\n- Participação: de 68,6% para 40,3% do capital votante na oferta (Wikipédia); 42% das ações ordinárias (CNN). Em set/2026, a RI da Axia registra o 'Grupo Governo' (União, BNDES/BNDESPar, FND, FGHAB, BNB, BB Asset, Caixa Asset, Petros e Previ) com 40,67% das ON e 40,43% do capital total, incluindo a golden share; a União sozinha é menor.\n- Acordo (ADI 7.385): União indica 3 de 10 conselheiros de administração e 1 de 5 do conselho fiscal; cai a 2 se a fatia ficar abaixo de 30% e a zero abaixo de 20%; subscrição de até R$ 2,4 bi em debêntures da Eletronuclear; Eletrobras liberada de obrigações com Angra 3. STF homologou por 6 a 4 em 11/12/2025.\n- A empresa se chama Axia Energia desde 22/10/2025.\n\n## Veredito\n**Falso.** A União é acionista relevante com 3 assentos, não controladora.",
   "o_que_e_verdade": [
     "A União é a maior acionista individual e passou a indicar 3 de 10 conselheiros em dez/2025; mantém veto por ação de classe especial em temas previstos na lei."
   ],
@@ -117,6 +117,22 @@
         "rotulo": "Divergentes",
         "valor": 4
       }
+    },
+    {
+      "rotulo": "'Grupo Governo' (União, BNDES, fundos públicos, Petros, Previ) nas ações ON",
+      "valor": 40.67,
+      "unidade": "%",
+      "periodo": "set/2026",
+      "fonte": {
+        "nome": "Axia Energia RI – Composição acionária (posição set/2026)",
+        "url": "https://ri.axia.com.br/a-axia/estrutura-acionaria-composicao-acionaria/",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "No capital total",
+        "valor": 40.43
+      }
     }
   ],
   "series": [],
@@ -157,6 +173,12 @@
       "url": "https://oespecialista.safra.com.br/eletrobras-elet3-acordo-analise-safra/",
       "acesso_em": "2026-10-21",
       "tier": "imprensa"
+    },
+    {
+      "nome": "Axia Energia RI – Composição acionária (posição set/2026)",
+      "url": "https://ri.axia.com.br/a-axia/estrutura-acionaria-composicao-acionaria/",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/06_energia_eletrobras_combustiveis.md",
@@ -174,12 +196,16 @@
     {
       "data": "2026-10-21",
       "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "rodada 2: composição acionária em fonte primária (RI Axia)"
     }
   ],
   "exemplo": false,
   "lacunas": [
     "Autoria, data e local da declaração não documentados nas notas; a checagem trata a afirmação em sua forma recorrente.",
-    "Composição acionária atual detalhada não confirmada em fonte primária.",
-    "Checagens já publicadas por Aos Fatos, Lupa, Estadão Verifica e Comprova sobre o tema não foram consultadas (cota de busca esgotada); cruzar antes da publicação."
+    "A RI da Axia não discrimina a União dentro do 'Grupo Governo'.",
+    "Checagens da Lupa, Estadão Verifica e g1 Fato ou Fake não puderam ser abertas na rodada 2 (bloqueio de fetch); a lista de checagens externas cobre apenas Aos Fatos e Comprova."
   ]
 }

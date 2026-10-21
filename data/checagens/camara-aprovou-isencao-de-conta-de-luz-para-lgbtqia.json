@@ -1,0 +1,131 @@
+{
+  "id": "chk-3023",
+  "slug": "camara-aprovou-isencao-de-conta-de-luz-para-lgbtqia",
+  "frase": "A Câmara aprovou isenção de conta de luz para pessoas LGBTQIA+.",
+  "frase_normalizada": "a câmara aprovou isenção de conta de luz para pessoas lgbtqia+",
+  "variantes": [],
+  "autor": {
+    "nome": "Conteúdos virais em redes sociais (checados pelo Aos Fatos)",
+    "partido": null,
+    "cargo": null
+  },
+  "lado": "outro",
+  "alvo": {
+    "nome": "Câmara dos Deputados",
+    "partido": null
+  },
+  "data": "2026-06",
+  "onde": "redes sociais",
+  "url_declaracao": "https://www.aosfatos.org/noticias/isencao-conta-luz-lgbtqia/",
+  "temas": [
+    "energia",
+    "direitos-sociais"
+  ],
+  "tags": [
+    "conta de luz",
+    "Tarifa Social",
+    "PL 1182/2023",
+    "Aos Fatos"
+  ],
+  "veredito": "falso",
+  "resumo_uma_frase": "Segundo o Aos Fatos (08/06/2026), a Câmara não aprovou isenção para pessoas LGBTQIA+; o PL 1182/2023 isenta apenas abrigos enquadrados na subclasse baixa renda, dentro da lógica da Tarifa Social paga pela CDE.",
+  "explicacao_simples": [
+    "O Aos Fatos verificou em 08/06/2026 que a Câmara não aprovou isenção de conta de luz para pessoas LGBTQIA+.",
+    "O PL 1182/2023 isenta apenas abrigos (instituições de acolhimento) enquadrados na subclasse residencial baixa renda, não indivíduos.",
+    "A isenção real existente é a da Tarifa Social (Lei 15.235/2025): conta zerada até 80 kWh/mês para famílias do CadÚnico, paga pela CDE (R$ 10,44 bi em 2026)."
+  ],
+  "explicacao_completa_md": "## O que o Aos Fatos verificou\n'Câmara não aprovou isenção de conta de luz para LGBTQIA+' (08/06/2026, falso): o PL 1182/2023 isenta apenas abrigos na subclasse baixa renda.\n\n## O que existe de fato\nA Tarifa Social de Energia Elétrica (Lei 12.212, alterada pela Lei 15.235/2025) dá desconto de 100% até 80 kWh/mês a famílias do CadÚnico e, desde 01/01/2026, isenta das quotas da CDE até 120 kWh as famílias com renda per capita entre meio e um salário mínimo. O custo (R$ 10,44 bi em 2026) é pago pelos demais consumidores via CDE.\n\n## Veredito\n**Falso.**",
+  "o_que_e_verdade": [
+    "Há um projeto (PL 1182/2023) sobre isenção para abrigos de baixa renda."
+  ],
+  "o_que_nao_se_sustenta": [
+    "Não há isenção aprovada para pessoas LGBTQIA+ como grupo."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Autores do conteúdo viral",
+      "papel": "distorção do PL 1182/2023",
+      "peso": "alto"
+    },
+    {
+      "ator": "Câmara dos Deputados",
+      "papel": "tramitação do PL 1182/2023",
+      "peso": "baixo"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Consumo máximo para gratuidade na Tarifa Social",
+      "valor": 80,
+      "unidade": "kWh/mês",
+      "periodo": "desde 05/07/2025",
+      "fonte": {
+        "nome": "Planalto – Lei 15.235/2025",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/lei/L15235.htm",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    {
+      "rotulo": "Tarifa Social/baixa renda na CDE 2026",
+      "valor": 10.44,
+      "unidade": "R$ bilhões",
+      "periodo": "2026",
+      "fonte": {
+        "nome": "ANEEL Dados Abertos – CDE, custeio dos benefícios tarifários (CSV gerado em 01/10/2026)",
+        "url": "https://dadosabertos.aneel.gov.br/dataset/conta-desenvolvimento-energetico-cde-custeio-dos-beneficios-tarifarios",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    }
+  ],
+  "series": [
+    "cde-anual"
+  ],
+  "checagens_externas": [
+    {
+      "veiculo": "Aos Fatos",
+      "veredito_original": "falso",
+      "url": "https://www.aosfatos.org/noticias/isencao-conta-luz-lgbtqia/",
+      "data": "2026-06-08",
+      "titulo": "Câmara não aprovou isenção de conta de luz para LGBTQIA+ (08/06/2026)"
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Aos Fatos – Câmara não aprovou isenção de conta de luz para LGBTQIA+ (08/06/2026)",
+      "url": "https://www.aosfatos.org/noticias/isencao-conta-luz-lgbtqia/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Planalto – Lei 15.235/2025",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/lei/L15235.htm",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "ANEEL Dados Abertos – CDE, custeio dos benefícios tarifários (CSV gerado em 01/10/2026)",
+      "url": "https://dadosabertos.aneel.gov.br/dataset/conta-desenvolvimento-energetico-cde-custeio-dos-beneficios-tarifarios",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/06_energia_eletrobras_combustiveis.md",
+  "perguntas_frequentes": [],
+  "relacionadas": [
+    "lula-zerou-a-conta-de-luz-de-quem-consome-ate-80-kwh"
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false,
+  "lacunas": [
+    "Situação de tramitação do PL 1182/2023 não consta da nota.",
+    "Checagens da Lupa, Estadão Verifica e g1 Fato ou Fake não puderam ser abertas na rodada 2 (bloqueio de fetch); a lista de checagens externas cobre apenas Aos Fatos e Comprova."
+  ]
+}

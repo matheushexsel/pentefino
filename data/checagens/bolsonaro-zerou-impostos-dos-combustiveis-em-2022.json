@@ -137,6 +137,38 @@
         "acesso_em": "2026-10-21",
         "tier": "imprensa"
       }
+    },
+    {
+      "rotulo": "Gasolina média anual (ANP)",
+      "valor": 6.113,
+      "unidade": "R$/l",
+      "periodo": "2022",
+      "fonte": {
+        "nome": "ANP – Série histórica do levantamento de preços (médias mensais Brasil)",
+        "url": "https://www.gov.br/anp/pt-br/assuntos/precos-e-defesa-da-concorrencia/precos/precos-revenda-e-de-distribuicao-combustiveis/serie-historica-do-levantamento-de-precos",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "2023",
+        "valor": 5.504
+      }
+    },
+    {
+      "rotulo": "Brent médio anual (EIA)",
+      "valor": 100.93,
+      "unidade": "US$/barril",
+      "periodo": "2022",
+      "fonte": {
+        "nome": "EIA – Europe Brent Spot Price FOB, média anual (xls)",
+        "url": "https://www.eia.gov/dnav/pet/hist_xls/RBRTEa.xls",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "2023",
+        "valor": 82.49
+      }
     }
   ],
   "series": [
@@ -179,6 +211,18 @@
       "url": "https://diariodocomercio.com.br/economia/icms-gasolina-diesel-subir-2026-veja-novos-valores/",
       "acesso_em": "2026-10-21",
       "tier": "imprensa"
+    },
+    {
+      "nome": "ANP – Série histórica do levantamento de preços (médias mensais Brasil)",
+      "url": "https://www.gov.br/anp/pt-br/assuntos/precos-e-defesa-da-concorrencia/precos/precos-revenda-e-de-distribuicao-combustiveis/serie-historica-do-levantamento-de-precos",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "EIA – Europe Brent Spot Price FOB, média anual (xls)",
+      "url": "https://www.eia.gov/dnav/pet/hist_xls/RBRTEa.xls",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/06_energia_eletrobras_combustiveis.md",
@@ -197,12 +241,16 @@
     {
       "data": "2026-10-21",
       "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "rodada 2: fontes e lacunas atualizadas"
     }
   ],
   "exemplo": false,
   "lacunas": [
     "Autoria, data e local da declaração não documentados nas notas; a checagem trata a afirmação em sua forma recorrente.",
     "Custo efetivamente executado (não estimado) da desoneração de 2022 não localizado em fonte oficial.",
-    "Checagens já publicadas por Aos Fatos, Lupa, Estadão Verifica e Comprova sobre o tema não foram consultadas (cota de busca esgotada); cruzar antes da publicação."
+    "Checagens da Lupa, Estadão Verifica e g1 Fato ou Fake não puderam ser abertas na rodada 2 (bloqueio de fetch); a lista de checagens externas cobre apenas Aos Fatos e Comprova."
   ]
 }

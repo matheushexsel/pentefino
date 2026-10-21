@@ -34,7 +34,7 @@
     "Mesmo após a ANEEL concluir, a decisão final é do Ministério de Minas e Energia, cujo ministro Alexandre Silveira pediu a rescisão em dez/2025 e depois passou a falar em solução 'negociada'.",
     "A caducidade poderia custar mais de R$ 10 bilhões em indenização de ativos não amortizados; a concessão vence em 2028."
   ],
-  "explicacao_completa_md": "## Onde o processo está\n- Processo 48500.903331/2024-72, aberto pela ANEEL em 2024 após os apagões de 03/11/2023 (~4 milhões de pessoas; multa de R$ 165,8 mi) e 11/10/2024 (2,1 milhões de endereços; prejuízo de R$ 1,65 bi estimado pela FecomercioSP); novo apagão em dez/2025 (mais de 4 milhões de imóveis).\n- Suspenso e liberado pela Justiça Federal em mar/2026; em 11/08/2026 a diretoria rejeitou por unanimidade o pedido de reconsideração da Enel; alegações finais em ago/2026.\n- 06/10/2026: duas diretoras votam por recomendar a caducidade; pedido de vista; 60 dias corridos para retorno. O diretor-geral Sandoval Feitosa disse que a ANEEL sofreu pressão 'de todas as esferas de poder'. Desde 2019 foram 11 planos de melhoria pactuados, 7 rejeitados.\n- Posições: governador Tarcísio de Freitas e prefeito Ricardo Nunes pediram o fim do contrato; prefeitos de 22 municípios defenderam manter; o TCU recomendou analisar os custos e o MP-TCU sugeriu solução consensual. A Enel diz ter investido ~R$ 6,5 bi entre 2024 e jul/2026.\n\n## Veredito\n**Falso.** Nem a ANEEL concluiu a recomendação nem o MME decidiu. Também é falso dizer que a ANEEL 'inocentou' a Enel.",
+  "explicacao_completa_md": "## Onde o processo está\n- Processo 48500.903331/2024-72, aberto pela ANEEL em 2024 após os apagões de 03/11/2023 (~4 milhões de pessoas; multa de R$ 165,8 mi) e 11/10/2024 (2,1 milhões de endereços; prejuízo de R$ 1,65 bi estimado pela FecomercioSP); novo apagão em dez/2025 (mais de 4 milhões de imóveis).\n- Suspenso e liberado pela Justiça Federal em mar/2026; em 11/08/2026 a diretoria rejeitou por unanimidade o pedido de reconsideração da Enel; alegações finais em ago/2026.\n- 06/10/2026: duas diretoras votam por recomendar a caducidade; pedido de vista; 60 dias corridos para retorno. O diretor-geral Sandoval Feitosa disse que a ANEEL sofreu pressão 'de todas as esferas de poder'. Desde 2019 foram 11 planos de melhoria pactuados, 7 rejeitados.\n- Posições: governador Tarcísio de Freitas e prefeito Ricardo Nunes pediram o fim do contrato; prefeitos de 22 municípios defenderam manter; o TCU recomendou analisar os custos e o MP-TCU sugeriu solução consensual. A Enel diz ter investido ~R$ 6,5 bi entre 2024 e jul/2026.\n\n## Veredito\n**Falso.** Nem a ANEEL concluiu a recomendação nem o MME decidiu. Também é falso dizer que a ANEEL 'inocentou' a Enel.\n\n## Atualização (rodada 2)\nIndicadores ANEEL (DEC/FEC, agente Eletropaulo): DEC de 6,36 h (2022), 6,78 (2023), 6,68 (2024), 6,83 (2025) e 3,85 (jan–jul/2026); FEC 3,40 → 3,41 → 3,21 → 3,82 → 2,59. O DEC apurado inclui parcelas expurgáveis e os apagões de nov/2023, out/2024 e dez/2025 são em parte classificados como expurgo, o que explica a estabilidade do indicador apesar dos eventos; a piora visível na série é a de 2014–2016 (AES Eletropaulo, DEC de 23,77 h em 2015). O Comprova (17/10/2024) explicou o papel da Enel e de cada ente da Federação na crise de energia em SP.",
   "o_que_e_verdade": [
     "A ANEEL está em fase final de um processo de caducidade e duas diretoras já votaram pela recomendação."
   ],
@@ -159,12 +159,53 @@
         "acesso_em": "2026-10-21",
         "tier": "imprensa"
       }
+    },
+    {
+      "rotulo": "DEC da Enel SP (horas sem luz por consumidor)",
+      "valor": 6.83,
+      "unidade": "horas",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "ANEEL Dados Abertos – Indicadores Coletivos de Continuidade (DEC e FEC)",
+        "url": "https://dadosabertos.aneel.gov.br/dataset/indicadores-coletivos-de-continuidade-dec-e-fec",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "2015 (AES Eletropaulo)",
+        "valor": 23.77
+      }
+    },
+    {
+      "rotulo": "FEC da Enel SP (interrupções por consumidor)",
+      "valor": 3.82,
+      "unidade": "interrupções",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "ANEEL Dados Abertos – Indicadores Coletivos de Continuidade (DEC e FEC)",
+        "url": "https://dadosabertos.aneel.gov.br/dataset/indicadores-coletivos-de-continuidade-dec-e-fec",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "2024",
+        "valor": 3.21
+      }
     }
   ],
   "series": [
-    "reajustes-enel-sp"
+    "reajustes-enel-sp",
+    "dec-fec-enel-sp"
   ],
-  "checagens_externas": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Comprova",
+      "veredito_original": "explicador (sem veredito)",
+      "url": "https://projetocomprova.com.br/publicações/entenda-o-papel-da-enel-e-de-cada-ente-da-federacao-na-crise-de-energia-em-sp/",
+      "data": "2024-10-17",
+      "titulo": "Entenda o papel da Enel e de cada ente da Federação na crise de energia em SP (17/10/2024)"
+    }
+  ],
   "fontes": [
     {
       "nome": "eixos/Estadão Conteúdo – Votação da caducidade da Enel SP na ANEEL (06/10/2026)",
@@ -231,6 +272,18 @@
       "url": "https://cenarioenergia.com.br/2026/06/30/aneel-aprova-reajuste-da-enel-sao-paulo-com-efeito-medio-de-1018/",
       "acesso_em": "2026-10-21",
       "tier": "imprensa"
+    },
+    {
+      "nome": "ANEEL Dados Abertos – Indicadores Coletivos de Continuidade (DEC e FEC)",
+      "url": "https://dadosabertos.aneel.gov.br/dataset/indicadores-coletivos-de-continuidade-dec-e-fec",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Comprova – Entenda o papel da Enel e de cada ente da Federação na crise de energia em SP (17/10/2024)",
+      "url": "https://projetocomprova.com.br/publicações/entenda-o-papel-da-enel-e-de-cada-ente-da-federacao-na-crise-de-energia-em-sp/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/06_energia_eletrobras_combustiveis.md",
@@ -249,12 +302,16 @@
     {
       "data": "2026-10-21",
       "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "rodada 2: DEC/FEC 2010–2026, checagem externa Comprova"
     }
   ],
   "exemplo": false,
   "lacunas": [
     "Autoria, data e local da declaração não documentados nas notas; a checagem trata a afirmação em sua forma recorrente.",
     "Número total de clientes afetados e dias sem luz em out/2024 e dez/2025 (dados consolidados da ANEEL) não localizados.",
-    "Checagens já publicadas por Aos Fatos, Lupa, Estadão Verifica e Comprova sobre o tema não foram consultadas (cota de busca esgotada); cruzar antes da publicação."
+    "Checagens da Lupa, Estadão Verifica e g1 Fato ou Fake não puderam ser abertas na rodada 2 (bloqueio de fetch); a lista de checagens externas cobre apenas Aos Fatos e Comprova."
   ]
 }

@@ -1,0 +1,134 @@
+{
+  "id": "dec-fec-enel-sp",
+  "titulo": "Enel SP: duração (DEC) e frequência (FEC) das interrupções por consumidor, 2010–2026",
+  "descricao_simples": "DEC (horas sem energia por consumidor no ano) e FEC (número de interrupções por consumidor) da Enel SP/Eletropaulo, apurados pela ANEEL.",
+  "unidade": "horas (DEC)",
+  "tipo_grafico": "barra",
+  "frequencia": "anual",
+  "fonte": {
+    "nome": "ANEEL Dados Abertos – Indicadores Coletivos de Continuidade (DEC e FEC)",
+    "url": "https://dadosabertos.aneel.gov.br/dataset/indicadores-coletivos-de-continuidade-dec-e-fec",
+    "acesso_em": "2026-10-21",
+    "tier": "oficial"
+  },
+  "pontos": [
+    {
+      "periodo": "2010",
+      "valor": 10.64,
+      "fec": 5.43,
+      "consumidores_milhoes": 6.51
+    },
+    {
+      "periodo": "2011",
+      "valor": 11.16,
+      "fec": 5.76,
+      "consumidores_milhoes": 6.51
+    },
+    {
+      "periodo": "2012",
+      "valor": 9.66,
+      "fec": 5.31,
+      "consumidores_milhoes": 6.52
+    },
+    {
+      "periodo": "2013",
+      "valor": 9.62,
+      "fec": 5.17,
+      "consumidores_milhoes": 6.69
+    },
+    {
+      "periodo": "2014",
+      "valor": 13.01,
+      "fec": 5.15,
+      "consumidores_milhoes": 7.01
+    },
+    {
+      "periodo": "2015",
+      "valor": 23.77,
+      "fec": 6.58,
+      "consumidores_milhoes": 6.8
+    },
+    {
+      "periodo": "2016",
+      "valor": 15.69,
+      "fec": 6.87,
+      "consumidores_milhoes": 6.93
+    },
+    {
+      "periodo": "2017",
+      "valor": 11.74,
+      "fec": 6.23,
+      "consumidores_milhoes": 7.12
+    },
+    {
+      "periodo": "2018",
+      "valor": 7.18,
+      "fec": 4.4,
+      "consumidores_milhoes": 7.2
+    },
+    {
+      "periodo": "2019",
+      "valor": 6.45,
+      "fec": 3.71,
+      "consumidores_milhoes": 7.28
+    },
+    {
+      "periodo": "2020",
+      "valor": 7.52,
+      "fec": 3.84,
+      "consumidores_milhoes": 7.41
+    },
+    {
+      "periodo": "2021",
+      "valor": 6.77,
+      "fec": 3.63,
+      "consumidores_milhoes": 7.53
+    },
+    {
+      "periodo": "2022",
+      "valor": 6.36,
+      "fec": 3.4,
+      "consumidores_milhoes": 7.67
+    },
+    {
+      "periodo": "2023",
+      "valor": 6.78,
+      "fec": 3.41,
+      "consumidores_milhoes": 7.85
+    },
+    {
+      "periodo": "2024",
+      "valor": 6.68,
+      "fec": 3.21,
+      "consumidores_milhoes": 7.92
+    },
+    {
+      "periodo": "2025",
+      "valor": 6.83,
+      "fec": 3.82,
+      "consumidores_milhoes": 8.07
+    },
+    {
+      "periodo": "2026 (jan–jul)",
+      "valor": 3.85,
+      "fec": 2.59,
+      "consumidores_milhoes": 8.09
+    }
+  ],
+  "faixas_referencia": [],
+  "notas_metodologicas": [
+    "Fonte: ANEEL Dados Abertos, 'Indicadores Coletivos de Continuidade (DEC e FEC)', agente ELETROPAULO; cálculo próprio da nota (soma dos valores mensais dos conjuntos ponderados pelo número de consumidores). Campos extras: 'fec' (interrupções por consumidor) e 'consumidores_milhoes'. 2026 = jan–jul.",
+    "Cuidado: o DEC apurado inclui parcelas expurgáveis (eventos 'dia crítico'/externos), e os apagões de nov/2023, out/2024 e dez/2025 são em parte classificados como expurgo, o que explica o DEC anual quase estável (6,4–6,8 h) apesar dos eventos. A piora visível é a de 2014–2016 (AES Eletropaulo), não a da era Enel (desde 2018).",
+    "Consumidores: 8,07 milhões em dez/2025 e 8,09 milhões em jul/2026, compatível com os '8,9 milhões de unidades' citados pela Enel (que inclui outros grupos tarifários/consumidores não ativos)."
+  ],
+  "ultimo_periodo": "2026 (jan–jul)",
+  "temas": [
+    "energia"
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/06_energia_eletrobras_combustiveis.md",
+  "atualizado_em": "2026-10-21",
+  "lacunas": [
+    "Dados brutos baixados na rodada 2 de enriquecimento (21/10/2026); valores calculados sobre base oficial estão indicados como cálculo próprio na nota.",
+    "Consumidores afetados e dias sem luz consolidados em out/2024 e dez/2025 não processados (base 'Interrupções de energia elétrica' da ANEEL)."
+  ]
+}

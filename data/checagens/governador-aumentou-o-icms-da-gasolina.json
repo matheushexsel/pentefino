@@ -114,6 +114,18 @@
         "acesso_em": "2026-10-21",
         "tier": "oficial"
       }
+    },
+    {
+      "rotulo": "ICMS na composição oficial do preço da gasolina",
+      "valor": 24.0,
+      "unidade": "% do preço (R$ 1,57 de R$ 6,53)",
+      "periodo": "11–17/10/2026",
+      "fonte": {
+        "nome": "Petrobras – Preços de venda de combustíveis: gasolina (composição, coleta 11–17/10/2026)",
+        "url": "https://precos.petrobras.com.br/precos-gasolina",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
     }
   ],
   "series": [
@@ -144,6 +156,12 @@
       "url": "https://agenciainfra.com/blog/?p=27381",
       "acesso_em": "2026-10-21",
       "tier": "imprensa"
+    },
+    {
+      "nome": "Petrobras – Preços de venda de combustíveis: gasolina (composição, coleta 11–17/10/2026)",
+      "url": "https://precos.petrobras.com.br/precos-gasolina",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/06_energia_eletrobras_combustiveis.md",
@@ -162,11 +180,15 @@
     {
       "data": "2026-10-21",
       "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "rodada 2: fontes e lacunas atualizadas"
     }
   ],
   "exemplo": false,
   "lacunas": [
     "Autoria, data e local da declaração não documentados nas notas; a checagem trata a afirmação em sua forma recorrente.",
-    "Checagens já publicadas por Aos Fatos, Lupa, Estadão Verifica e Comprova sobre o tema não foram consultadas (cota de busca esgotada); cruzar antes da publicação."
+    "Checagens da Lupa, Estadão Verifica e g1 Fato ou Fake não puderam ser abertas na rodada 2 (bloqueio de fetch); a lista de checagens externas cobre apenas Aos Fatos e Comprova."
   ]
 }

@@ -1,7 +1,7 @@
 {
   "id": "seguranca-publica-quem-e-responsavel",
   "pergunta": "Segurança pública: quem é responsável — governador, presidente ou prefeito?",
-  "resposta_curta": "Principalmente os governadores. As polícias Militar e Civil, os presídios comuns e cerca de 80% do gasto com segurança são estaduais. A União cuida da Polícia Federal, da PRF, dos presídios federais, das leis penais e de fundos de repasse (11% do gasto); os municípios têm guardas e iluminação (8%). Por isso, homicídios e letalidade policial dizem mais sobre políticas estaduais do que sobre o presidente.",
+  "resposta_curta": "Principalmente os governadores. As polícias Militar e Civil, os presídios comuns e cerca de 80% do gasto com segurança são estaduais. A União cuida da Polícia Federal, da PRF, dos presídios federais, das leis penais (como a Lei Antifacção, Lei 15.358/2026) e de fundos de repasse (11% do gasto); os municípios têm guardas e iluminação (8%). A PEC 18/2025, que amplia o papel federal, foi retirada de pauta no Senado em 15/10/2026 e seguia pendente. Por isso, homicídios e letalidade policial dizem mais sobre políticas estaduais do que sobre o presidente.",
   "temas": [
     "seguranca"
   ],
@@ -22,7 +22,7 @@
     },
     {
       "ator": "Congresso Nacional",
-      "o_que_controla": "Código Penal, Lei Antifacção (PL 5.582/2025), PEC da Segurança (PEC 18/2025), orçamento dos fundos federais, CPIs (CPI do Crime Organizado, Senado, nov/2025).",
+      "o_que_controla": "Código Penal, Lei Antifacção (Lei 15.358/2026, origem PL 5.582/2025), PEC da Segurança (PEC 18/2025, pendente no plenário do Senado), orçamento dos fundos federais, CPIs (CPI do Crime Organizado, Senado, nov/2025).",
       "o_que_nao_controla": "Execução policial e prisional.",
       "peso": "medio",
       "url": "https://www.congressoemfoco.com.br/noticia/123231/ccj-conclui-votacao-da-pec-da-seguranca-e-envia-texto-ao-plenario"
@@ -76,6 +76,21 @@
   ],
   "linha_do_tempo": [
     {
+      "data": "2003–2011",
+      "evento": "Óbitos por agressão (DATASUS/SIM) oscilam entre 47,6 mil e 52,3 mil por ano (taxa 25–28 por 100 mil), sem tendência clara, nos governos Lula 1–2.",
+      "url": "http://tabnet.datasus.gov.br/cgi/tabcgi.exe?sim/cnv/ext10uf.def"
+    },
+    {
+      "data": "2015-03-09",
+      "evento": "Lei 13.104 cria a qualificadora de feminicídio; a série nacional comparável começa em 2016 (929 casos).",
+      "url": "https://static.poder360.com.br/uploads/2026/07/anuario-seguranca-publica-23jul26.pdf"
+    },
+    {
+      "data": "2016",
+      "evento": "Mortes por intervenção policial: 4.240 (início da série do FBSP); 61.600 MVI no último ano de Dilma.",
+      "url": "https://static.poder360.com.br/uploads/2026/07/anuario-seguranca-publica-23jul26.pdf"
+    },
+    {
       "data": "2017",
       "evento": "Pico de mortes violentas intencionais: 64.079 (taxa 31,2 por 100 mil), governo Temer.",
       "url": "https://static.poder360.com.br/uploads/2026/07/anuario-seguranca-publica-23jul26.pdf"
@@ -122,23 +137,38 @@
     },
     {
       "data": "2026-03-24",
-      "evento": "Lula sanciona a Lei Antifacção com dois vetos.",
-      "url": "https://www.congressoemfoco.com.br/noticia/117518/lula-sanciona-texto-do-pl-antifaccao-com-apenas-um-veto"
+      "evento": "Lula sanciona a Lei 15.358/2026 (Lei Antifacção, 'Lei Raul Jungmann'), publicada no DOU de 25/03/2026 com vigência imediata e dois vetos.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_Ato2023-2026/2026/Lei/L15358.htm"
     },
     {
       "data": "2026-07-23",
-      "evento": "Anuário 2026: MVI caem a 40.775 em 2025 (taxa 19,1, menor desde 2012); letalidade policial e feminicídios batem recorde.",
+      "evento": "Anuário 2026: MVI caem a 40.775 em 2025 (taxa 19,1, menor desde 2012); letalidade policial (6.602) e feminicídios (1.571) batem recorde.",
       "url": "https://static.poder360.com.br/uploads/2026/07/anuario-seguranca-publica-23jul26.pdf"
     },
     {
+      "data": "2026-10-09",
+      "evento": "Aos Fatos classifica como falso que PCC e CV tenham declarado apoio a Lula.",
+      "url": "https://aosfatos.org/noticias/pcc-comando-vermelho-apoio-lula-falso/"
+    },
+    {
       "data": "2026-10-14",
-      "evento": "CCJ do Senado conclui votação da PEC da Segurança mantendo o texto da Câmara.",
+      "evento": "CCJ do Senado conclui votação da PEC da Segurança mantendo o texto da Câmara; calendário especial aprovado (RQS 713/2026).",
       "url": "https://www.congressoemfoco.com.br/noticia/123231/ccj-conclui-votacao-da-pec-da-seguranca-e-envia-texto-ao-plenario"
     },
     {
+      "data": "2026-10-15",
+      "evento": "Plenário do Senado: a PEC 18/2025 é retirada de pauta após as Emendas 87 (Camilo Santana e outros) e 88 (Eduardo Gomes, Sergio Moro, Hamilton Mourão e outros) e destaques das lideranças do PL e do PP; situação 'pronto para deliberação do plenário'.",
+      "url": "https://legis.senado.leg.br/dadosabertos/processo/9006525"
+    },
+    {
       "data": "2026-10-16",
-      "evento": "Alcolumbre anuncia que a PEC voltará à pauta do plenário após acordo sobre emendas; em 21/10/2026 ainda não estava aprovada.",
+      "evento": "Alcolumbre anuncia que a PEC voltará à pauta após acordo sobre emendas; Randolfe diz que pode ser votada antes do 2º turno.",
       "url": "https://www.senado.leg.br/noticias/videos/2026/10/pec-da-seguranca-voltara-a-pauta-apos-acordo-sobre-emendas-anuncia-davi"
+    },
+    {
+      "data": "2026-10-19",
+      "evento": "Informe legislativo: 'aguardando inclusão em Ordem do Dia, discussão em primeiro turno'. Em 21/10/2026 a PEC não havia sido votada no plenário do Senado.",
+      "url": "https://legis.senado.leg.br/dadosabertos/materia/movimentacoes/172997"
     }
   ],
   "numeros": [
@@ -262,8 +292,8 @@
         "tier": "academico"
       },
       "comparacao": {
-        "rotulo": "2024",
-        "valor": 6237
+        "rotulo": "2016 (início da série)",
+        "valor": 4240
       }
     },
     {
@@ -278,8 +308,40 @@
         "tier": "academico"
       },
       "comparacao": {
+        "rotulo": "2016 (início da série)",
+        "valor": 929
+      }
+    },
+    {
+      "rotulo": "Policiais vítimas de crimes violentos letais",
+      "valor": 139,
+      "unidade": "policiais",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Anuário Brasileiro de Segurança Pública 2026 (FBSP)",
+        "url": "https://static.poder360.com.br/uploads/2026/07/anuario-seguranca-publica-23jul26.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      "comparacao": {
         "rotulo": "2024",
-        "valor": 1504
+        "valor": 144
+      }
+    },
+    {
+      "rotulo": "Óbitos por agressão (SIM) no último ano de Lula 2",
+      "valor": 52260,
+      "unidade": "mortes",
+      "periodo": "2010",
+      "fonte": {
+        "nome": "DATASUS/SIM — óbitos por agressões (CID-10 X85–Y09), Brasil 2003–2011 (TabNet)",
+        "url": "http://tabnet.datasus.gov.br/cgi/tabcgi.exe?sim/cnv/ext10uf.def",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "2003",
+        "valor": 51043
       }
     },
     {
@@ -374,22 +436,32 @@
   "series": [
     "mortes-violentas-intencionais",
     "taxa-homicidios-100-mil",
+    "mvi-por-uf-2025",
     "letalidade-policial",
+    "mortes-de-policiais",
     "feminicidios",
+    "homicidios-de-mulheres",
     "armas-registradas-sinarm",
     "populacao-prisional",
+    "populacao-prisional-por-regime",
     "gasto-seguranca-por-nivel-de-governo"
   ],
   "mitos_e_fatos": [
     {
       "mito": "O presidente é quem comanda a polícia e responde pelos homicídios.",
-      "fato": "As polícias Militar e Civil respondem aos governadores. Os estados gastam 80% do total com segurança; a União, 11%. A PEC 18/2025 amplia o papel federal (SUSP na Constituição, repasse obrigatório de 50% do FNSP e Funpen a estados), mas em 21/10/2026 ainda não havia sido aprovada pelo Senado.",
+      "fato": "As polícias Militar e Civil respondem aos governadores. Os estados gastam 80% do total com segurança; a União, 11%. A PEC 18/2025 amplia o papel federal (SUSP na Constituição, repasse obrigatório de 50% do FNSP e Funpen a estados), mas foi retirada de pauta no plenário do Senado em 15/10/2026 e em 21/10/2026 ainda não havia sido votada.",
       "fontes": [
         {
           "nome": "Anuário Brasileiro de Segurança Pública 2026 (FBSP)",
           "url": "https://static.poder360.com.br/uploads/2026/07/anuario-seguranca-publica-23jul26.pdf",
           "acesso_em": "2026-10-21",
           "tier": "academico"
+        },
+        {
+          "nome": "Senado, Dados Abertos — processo 9006525 (PEC 18/2025)",
+          "url": "https://legis.senado.leg.br/dadosabertos/processo/9006525",
+          "acesso_em": "2026-10-21",
+          "tier": "oficial"
         },
         {
           "nome": "Senado Notícias — PEC voltará à pauta após acordo (16/10/2026)",
@@ -401,7 +473,7 @@
     },
     {
       "mito": "Os homicídios só começaram a cair em 2019.",
-      "fato": "O pico foi em 2017 (64.079 MVI) e a queda começou em 2018 (57.592), no governo Temer. Continuou em 2019 (47.765), com repique em 2020, e seguiu nos governos Bolsonaro e Lula 3 até 40.775 em 2025. Especialistas do IPEA apontam envelhecimento populacional, gestão estadual e prevenção para jovens.",
+      "fato": "O pico foi em 2017 (64.079 MVI) e a queda começou em 2018 (57.592), no governo Temer. Continuou em 2019 (47.765), com repique em 2020, e seguiu nos governos Bolsonaro e Lula 3 até 40.775 em 2025. Antes disso, nos anos Lula 1–2 (2003–2010), os óbitos por agressão oscilaram entre 47,6 mil e 52,3 mil sem tendência clara, e a escalada ocorreu em 2012–2017. Especialistas do IPEA apontam envelhecimento populacional, gestão estadual e prevenção para jovens.",
       "fontes": [
         {
           "nome": "Anuário Brasileiro de Segurança Pública 2026 (FBSP)",
@@ -414,6 +486,42 @@
           "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2025-05/taxa-de-homicidio-cai-mas-violencia-matou-457-mil-no-brasil-em-2023",
           "acesso_em": "2026-10-21",
           "tier": "imprensa"
+        },
+        {
+          "nome": "DATASUS/SIM — óbitos por agressões (CID-10 X85–Y09), Brasil 2003–2011 (TabNet)",
+          "url": "http://tabnet.datasus.gov.br/cgi/tabcgi.exe?sim/cnv/ext10uf.def",
+          "acesso_em": "2026-10-21",
+          "tier": "oficial"
+        },
+        {
+          "nome": "Banco Mundial — homicídios intencionais por 100 mil (UNODC), VC.IHR.PSRC.P5, Brasil 2000–2023",
+          "url": "https://api.worldbank.org/v2/country/BRA/indicator/VC.IHR.PSRC.P5?format=json&per_page=100&date=2000:2023",
+          "acesso_em": "2026-10-21",
+          "tier": "multilateral"
+        }
+      ]
+    },
+    {
+      "mito": "PCC e Comando Vermelho declararam apoio a Lula.",
+      "fato": "Falso, segundo a Aos Fatos (09/10/2026); a agência também mostrou (12/10/2026) que uma foto forjada e um falso elo com facções retomam a narrativa que associa o PT ao crime. Foi o governo Lula 3 que sancionou a Lei Antifacção (Lei 15.358/2026) e o governo estadual do RJ (PL) que conduziu a Operação Contenção contra o CV.",
+      "fontes": [
+        {
+          "nome": "Aos Fatos, 09/10/2026 — É falso que PCC e CV declararam apoio a Lula",
+          "url": "https://aosfatos.org/noticias/pcc-comando-vermelho-apoio-lula-falso/",
+          "acesso_em": "2026-10-21",
+          "tier": "checagem"
+        },
+        {
+          "nome": "Aos Fatos, 12/10/2026 — Foto forjada e falso elo com facções retomam narrativa que associa PT ao crime",
+          "url": "https://aosfatos.org/noticias/foto-forjada-e-falso-elo-com-faccoes-retomam-narrativa-que-associa-pt-ao-crime/",
+          "acesso_em": "2026-10-21",
+          "tier": "checagem"
+        },
+        {
+          "nome": "Planalto — Lei 15.358, de 24/03/2026 (Lei Antifacção), texto integral",
+          "url": "https://www.planalto.gov.br/ccivil_03/_Ato2023-2026/2026/Lei/L15358.htm",
+          "acesso_em": "2026-10-21",
+          "tier": "oficial"
         }
       ]
     },
@@ -474,8 +582,8 @@
   ],
   "perguntas_frequentes": [
     {
-      "pergunta": "O que a PEC da Segurança muda?",
-      "resposta": "Coloca o Sistema Único de Segurança Pública (SUSP) na Constituição, obriga o repasse de 50% do FNSP e do Funpen a estados e DF, protege os fundos contra contingenciamento, dá à PRF atuação em ferrovias e hidrovias e trata do sistema penal e da expropriação de bens do crime. O governo quer um Ministério da Segurança Pública permanente. Foi aprovada na Câmara em 04/03/2026 e, na data da nota (21/10/2026), aguardava o plenário do Senado."
+      "pergunta": "O que a PEC da Segurança muda e em que pé está?",
+      "resposta": "Altera os arts. 5º, 15, 22, 23, 24, 40, 49, 84, 103-B, 130-A e 144 da Constituição e inclui os arts. 144-A e 144-B: coloca o Sistema Único de Segurança Pública (SUSP) na Constituição, obriga o repasse de 50% do FNSP e do Funpen a estados e DF, protege os fundos contra contingenciamento, dá à PRF atuação em ferrovias e hidrovias e trata do sistema penal e da expropriação de bens do crime. O governo quer um Ministério da Segurança Pública permanente. Foi aprovada na Câmara em 04/03/2026 (487–15–1 e 461–14), passou pela CCJ do Senado em 14/10/2026, foi retirada de pauta no plenário em 15/10/2026 após novas emendas e destaques, e em 19/10 constava como 'aguardando inclusão em Ordem do Dia'. Em 21/10/2026 não havia sido votada no plenário do Senado."
     },
     {
       "pergunta": "Quem respondeu pela Operação Contenção no Rio?",
@@ -483,7 +591,7 @@
     },
     {
       "pergunta": "O que a Lei Antifacção faz?",
-      "resposta": "Cria o crime de 'domínio social estruturado' (20 a 40 anos, até 66 em casos agravados), define facção (3 ou mais pessoas que usam violência para controlar território), veda anistia, graça, fiança e livramento condicional e manda lideranças para presídios federais. Lula vetou a equiparação de penas de não-membros e a destinação de bens apreendidos a fundos estaduais e municipais."
+      "resposta": "A Lei 15.358, de 24/03/2026 ('Lei Raul Jungmann', DOU de 25/03/2026, vigência imediata), cria o crime de 'domínio social estruturado' com reclusão de 20 a 40 anos, aumentada de 2/3 ao dobro em hipóteses agravadas (até 66 anos), define facção (3 ou mais pessoas que usam violência para controlar território), veda anistia, graça, fiança e livramento condicional, exige até 85% da pena em regime fechado, veda auxílio-reclusão a dependentes de presos por esses crimes e manda lideranças para presídios federais (Lei 11.671/2008). Lula vetou o enquadramento sem comprovação de vínculo com organização criminosa e a destinação de bens apreendidos a fundos estaduais/DF; os vetos aguardavam análise do Congresso. Comentários jurídicos mencionam uma ADI da Abracrim (abr/2026), não verificada no STF."
     },
     {
       "pergunta": "Por que a letalidade policial sobe enquanto os homicídios caem?",
@@ -510,6 +618,18 @@
       "tier": "imprensa"
     },
     {
+      "nome": "DATASUS/SIM — óbitos por agressões (CID-10 X85–Y09), Brasil 2003–2011 (TabNet)",
+      "url": "http://tabnet.datasus.gov.br/cgi/tabcgi.exe?sim/cnv/ext10uf.def",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Banco Mundial — homicídios intencionais por 100 mil (UNODC), VC.IHR.PSRC.P5, Brasil 2000–2023",
+      "url": "https://api.worldbank.org/v2/country/BRA/indicator/VC.IHR.PSRC.P5?format=json&per_page=100&date=2000:2023",
+      "acesso_em": "2026-10-21",
+      "tier": "multilateral"
+    },
+    {
       "nome": "Sul21 (PEC da Segurança na Câmara)",
       "url": "https://sul21.com.br/?p=287759",
       "acesso_em": "2026-10-21",
@@ -526,6 +646,18 @@
       "url": "https://www.congressoemfoco.com.br/noticia/123231/ccj-conclui-votacao-da-pec-da-seguranca-e-envia-texto-ao-plenario",
       "acesso_em": "2026-10-21",
       "tier": "imprensa"
+    },
+    {
+      "nome": "Senado, Dados Abertos — processo 9006525 (PEC 18/2025)",
+      "url": "https://legis.senado.leg.br/dadosabertos/processo/9006525",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Senado, Dados Abertos — movimentações da matéria 172997 (PEC 18/2025)",
+      "url": "https://legis.senado.leg.br/dadosabertos/materia/movimentacoes/172997",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
     },
     {
       "nome": "Senado Notícias — PEC voltará à pauta após acordo (16/10/2026)",
@@ -564,6 +696,18 @@
       "tier": "imprensa"
     },
     {
+      "nome": "Planalto — Lei 15.358, de 24/03/2026 (Lei Antifacção), texto integral",
+      "url": "https://www.planalto.gov.br/ccivil_03/_Ato2023-2026/2026/Lei/L15358.htm",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Agência Senado, 25/03/2026 — Lei Antifacção entra em vigor",
+      "url": "https://www12.senado.leg.br/noticias/materias/2026/03/25/lei-antifaccao-de-combate-ao-crime-organizado-entra-em-vigor",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
       "nome": "Congresso em Foco — Lula sanciona PL Antifacção",
       "url": "https://www.congressoemfoco.com.br/noticia/117518/lula-sanciona-texto-do-pl-antifaccao-com-apenas-um-veto",
       "acesso_em": "2026-10-21",
@@ -598,12 +742,25 @@
       "url": "https://www.brasildefato.com.br/2026/07/23/letalidade-policial-piora-no-pais-e-faz-47-vitimas-civis-a-cada-agente-morto-em-supostos-confrontos/",
       "acesso_em": "2026-10-21",
       "tier": "imprensa"
+    },
+    {
+      "nome": "Aos Fatos, 09/10/2026 — É falso que PCC e CV declararam apoio a Lula",
+      "url": "https://aosfatos.org/noticias/pcc-comando-vermelho-apoio-lula-falso/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Aos Fatos, 12/10/2026 — Foto forjada e falso elo com facções retomam narrativa que associa PT ao crime",
+      "url": "https://aosfatos.org/noticias/foto-forjada-e-falso-elo-com-faccoes-retomam-narrativa-que-associa-pt-ao-crime/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
     }
   ],
   "lacunas": [
-    "Resultado da votação da PEC 18/2025 no plenário do Senado após 16/10/2026 não localizado.",
-    "Número da Lei Antifacção sancionada e conclusões da CPI do Crime Organizado não constam da nota.",
-    "Estimativas de faturamento de PCC/CV não localizadas."
+    "A PEC 18/2025 seguia sem votação no plenário do Senado em 21/10/2026 (última movimentação em 20/10/2026); acompanhar.",
+    "Conclusões da CPI do Crime Organizado (Senado, nov/2025) e estimativas de faturamento de PCC/CV não localizadas.",
+    "Letalidade policial e feminicídios de 2013–2015 não constam do Anuário 2026.",
+    "ADI da Abracrim contra a Lei 15.358/2026 mencionada em fonte secundária, não verificada no STF."
   ],
   "atualizado_em": "2026-10-21",
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/07_saude_seguranca_educacao_infra_ambiente.md"

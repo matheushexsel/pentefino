@@ -14,7 +14,8 @@
   "o_que_faz_simples": [
     "A Petrobras deixou de seguir a paridade de importação (PPI), adotada em out/2016 no governo Temer, e passou a acompanhar as cotações internacionais 'sem periodicidade fixa', 'evitando o repasse para os preços internos da volatilidade conjuntural das cotações internacionais e da taxa de câmbio'.",
     "Um ano depois, a consultoria Leggio calculava preços cerca de 5% abaixo do PPI com defasagem de um mês; gasolina e diesel caíram em torno de 5% no primeiro ano; o CBIE disse que o fim do PPI 'existiu, mas não existiu'.",
-    "Em 2026, com Brent acima de US$ 100, a defasagem chegou a 72% no diesel (13/03/2026) e a R$ 3,50/l em 19–20/10/2026, e o Tesouro passou a pagar subvenções para cobrir parte da diferença."
+    "Em 2026, com Brent acima de US$ 100, a defasagem chegou a 72% no diesel (13/03/2026) e a R$ 3,50/l em 19–20/10/2026, e o Tesouro passou a pagar subvenções para cobrir parte da diferença.",
+    "Pela composição oficial da Petrobras em out/2026, a parcela da estatal é 31,9% do preço da gasolina e 38,6% do diesel S10; o Comprova (24/05/2023) publicou um explicador sobre as políticas de preço da empresa."
   ],
   "quem_ganha": {
     "descricao": "Consumidores de combustíveis, com preços mais estáveis e cerca de 5% abaixo do PPI no primeiro ano; em 2026, preços na bomba estáveis apesar do choque do petróleo.",
@@ -138,6 +139,18 @@
       "url": "https://www.cnnbrasil.com.br/economia/negocios/balanco-petrobras-4t2026/",
       "acesso_em": "2026-10-21",
       "tier": "imprensa"
+    },
+    {
+      "nome": "Comprova – Entenda as políticas de preços da Petrobras (24/05/2023)",
+      "url": "https://projetocomprova.com.br/publicações/entenda-as-politicas-de-preco-da-petrobras/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Petrobras – Preços de venda de combustíveis: gasolina (composição, coleta 11–17/10/2026)",
+      "url": "https://precos.petrobras.com.br/precos-gasolina",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/06_energia_eletrobras_combustiveis.md",

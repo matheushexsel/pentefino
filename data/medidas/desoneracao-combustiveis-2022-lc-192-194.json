@@ -15,7 +15,8 @@
     "LC 192: cobrança monofásica do ICMS sobre combustíveis com alíquota fixa por litro (ad rem), igual em todo o país e fixada pelo Confaz (em vigor desde 01/05/2023 no diesel, R$ 0,94/l, e 01/06/2023 na gasolina, R$ 1,22/l); zerou PIS/Cofins do diesel, biodiesel, GLP e QAV.",
     "LC 194: combustíveis, energia e telecomunicações passaram a ser 'essenciais', com ICMS limitado à alíquota modal (17–18%); zerou Cide/PIS/Cofins de gasolina, etanol e GNV até 31/12/2022 e retirou TUSD/TUST da base do ICMS da energia (depois reincluídas por decisão do STF).",
     "O pacote previa compensar estados que zerassem o ICMS do diesel e do GLP e reduzissem o do etanol (R$ 29,6 bi, fora do teto de gastos); estimava queda de R$ 0,76/l no diesel e R$ 1,65/l na gasolina.",
-    "A prorrogação da desoneração federal para 2023, proposta no fim de 2022, custaria R$ 52,9 bi; a reoneração ocorreu ao longo de 2023 (gasolina em março; diesel ao longo do ano)."
+    "A prorrogação da desoneração federal para 2023, proposta no fim de 2022, custaria R$ 52,9 bi; a reoneração ocorreu ao longo de 2023 (gasolina em março; diesel ao longo do ano).",
+    "Médias anuais da ANP: a gasolina passou de R$ 5,781/l (2021) para R$ 6,113 (2022) e R$ 5,504 (2023); o diesel S10 de R$ 4,626 para R$ 6,682 e R$ 5,843; o GLP de R$ 90,51 para R$ 109,86 e R$ 104,22. O Brent médio foi US$ 70,86 (2021), US$ 100,93 (2022) e US$ 82,49 (2023)."
   ],
   "quem_ganha": {
     "descricao": "Consumidores de combustíveis em 2022 (queda estimada de R$ 1,65/l na gasolina e R$ 0,76/l no diesel) e de energia e telecom (ICMS limitado).",
@@ -127,6 +128,18 @@
       "url": "https://diariodocomercio.com.br/economia/icms-gasolina-diesel-subir-2026-veja-novos-valores/",
       "acesso_em": "2026-10-21",
       "tier": "imprensa"
+    },
+    {
+      "nome": "ANP – Série histórica do levantamento de preços (médias mensais Brasil)",
+      "url": "https://www.gov.br/anp/pt-br/assuntos/precos-e-defesa-da-concorrencia/precos/precos-revenda-e-de-distribuicao-combustiveis/serie-historica-do-levantamento-de-precos",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "EIA – Europe Brent Spot Price FOB, média anual (xls)",
+      "url": "https://www.eia.gov/dnav/pet/hist_xls/RBRTEa.xls",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/06_energia_eletrobras_combustiveis.md",
@@ -136,6 +149,6 @@
     "impostos"
   ],
   "lacunas": [
-    "Custo efetivamente executado (não estimado) da desoneração de 2022 e da reoneração parcial de 2023 não localizado em fonte oficial; dia exato da LC 194 não consta das notas (jun/2022)."
+    "Custo efetivamente executado (não estimado) da desoneração de 2022 e da reoneração de 2023 não localizado: o Boletim RTN do Tesouro respondeu '429 Too Many Requests' e a Receita (gastos tributários, bases efetivas) não foi consultada; dia exato da LC 194 não consta das notas (jun/2022)."
   ]
 }

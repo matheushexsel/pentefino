@@ -15,10 +15,10 @@
     },
     {
       "ator": "Congresso Nacional (Câmara e Senado)",
-      "o_que_controla": "Converteu a MP em lei e incluiu os chamados 'jabutis': contratação obrigatória de 8 GW de térmicas a gás por 15 anos em regiões sem gasoduto, prorrogação do Proinfa por 20 anos e reserva para PCHs. Senado: 42 a 37 em 17/06/2021; Câmara: texto final em 21/06/2021.",
+      "o_que_controla": "Converteu a MP em lei e incluiu os chamados 'jabutis': contratação obrigatória de 8 GW de térmicas a gás por 15 anos em regiões sem gasoduto, prorrogação do Proinfa por 20 anos e reserva para PCHs. Câmara: 313 a 166 (5 abstenções) em 19/05/2021 e 258 a 136 no bloco de emendas do Senado em 21/06/2021 (API da Câmara); Senado: 42 a 37 em 17/06/2021 (relator Marcos Rogério, DEM-RO).",
       "o_que_nao_controla": "A execução da oferta e a avaliação da empresa.",
       "peso": "alto",
-      "url": "https://pt.wikipedia.org/wiki/Eletrobras"
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2270789/votacoes"
     },
     {
       "ator": "TCU",
@@ -29,7 +29,7 @@
     },
     {
       "ator": "Acionistas privados e conselho da Axia Energia (ex-Eletrobras)",
-      "o_que_controla": "A gestão da empresa. Pela lei, qualquer acionista ou grupo vota com no máximo 10%, o que dilui a União apesar de ela seguir como maior acionista.",
+      "o_que_controla": "A gestão da empresa. Pela lei, qualquer acionista ou grupo vota com no máximo 10%, o que dilui a União apesar de ela seguir como maior acionista. Em set/2026 o 'Grupo Governo' (União, BNDES/BNDESPar, FND, FGHAB, BNB, BB Asset, Caixa Asset, Petros e Previ) tinha 40,67% das ações ON e 40,43% do capital total; não residentes 34,19% das ON (RI da Axia).",
       "o_que_nao_controla": "Itaipu e Eletronuclear, que permaneceram sob controle da União (art. 3º, I).",
       "peso": "alto",
       "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/L14182.htm"
@@ -64,14 +64,19 @@
       "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/L14182.htm"
     },
     {
+      "data": "2021-05-19",
+      "evento": "Câmara aprova a subemenda substitutiva global do relator (Dep. Elmar Nascimento, DEM-BA) por 313 a 166, com 5 abstenções (484 votantes); redação final em 20/05/2021.",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270789-73"
+    },
+    {
       "data": "2021-06-17",
       "evento": "Senado aprova a MP por 42 votos a 37.",
-      "url": "https://pt.wikipedia.org/wiki/Eletrobras"
+      "url": "https://www12.senado.leg.br/noticias/materias/2021/06/17/senado-aprova-mp-que-desestatiza-eletrobras-texto-volta-para-camara"
     },
     {
       "data": "2021-06-21",
-      "evento": "Câmara conclui a votação do texto final.",
-      "url": "https://pt.wikipedia.org/wiki/Eletrobras"
+      "evento": "Câmara aprova o bloco de emendas do Senado por 258 a 136 (5 abstenções, 399 votantes); destaques: Emenda 1 245x174, Emenda 2 292x151, Emenda 15 296x142, Emenda 28 278x172, Emenda 8 rejeitada 162x278; redação final às 20h50.",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270789-157"
     },
     {
       "data": "2021-07-13",
@@ -383,6 +388,82 @@
         "acesso_em": "2026-10-21",
         "tier": "imprensa"
       }
+    },
+    {
+      "rotulo": "Votação na Câmara em 19/05/2021 (favoráveis)",
+      "valor": 313,
+      "unidade": "votos",
+      "periodo": "19/05/2021",
+      "fonte": {
+        "nome": "Câmara dos Deputados – votação 2270789-73 (19/05/2021, 313 x 166)",
+        "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270789-73",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "Contrários",
+        "valor": 166
+      }
+    },
+    {
+      "rotulo": "Votação na Câmara em 21/06/2021, emendas do Senado (favoráveis)",
+      "valor": 258,
+      "unidade": "votos",
+      "periodo": "21/06/2021",
+      "fonte": {
+        "nome": "Câmara dos Deputados – votação 2270789-157 (21/06/2021, 258 x 136)",
+        "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270789-157",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "Contrários",
+        "valor": 136
+      }
+    },
+    {
+      "rotulo": "'Grupo Governo' no capital votante (ON) da Axia",
+      "valor": 40.67,
+      "unidade": "%",
+      "periodo": "set/2026",
+      "fonte": {
+        "nome": "Axia Energia RI – Composição acionária (posição set/2026)",
+        "url": "https://ri.axia.com.br/a-axia/estrutura-acionaria-composicao-acionaria/",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "No capital total",
+        "valor": 40.43
+      }
+    },
+    {
+      "rotulo": "Acionistas não residentes nas ON",
+      "valor": 34.19,
+      "unidade": "%",
+      "periodo": "set/2026",
+      "fonte": {
+        "nome": "Axia Energia RI – Composição acionária (posição set/2026)",
+        "url": "https://ri.axia.com.br/a-axia/estrutura-acionaria-composicao-acionaria/",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "Demais pessoas físicas e jurídicas (ON)",
+        "valor": 19.06
+      }
+    },
+    {
+      "rotulo": "Aporte da Eletrobras à CDE em 2024 (Lei 14.182)",
+      "valor": 1.3,
+      "unidade": "R$ bilhões",
+      "periodo": "2024",
+      "fonte": {
+        "nome": "ANEEL Dados Abertos – CDE, custeio dos benefícios tarifários (CSV gerado em 01/10/2026)",
+        "url": "https://dadosabertos.aneel.gov.br/dataset/conta-desenvolvimento-energetico-cde-custeio-dos-beneficios-tarifarios",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
     }
   ],
   "series": [
@@ -521,7 +602,7 @@
     },
     {
       "pergunta": "Quanto a União ainda tem na empresa?",
-      "resposta": "Cerca de 40,3% do capital votante segundo a Wikipédia e 42% das ações ordinárias segundo a CNN, votando com no máximo 10%. A composição acionária atual detalhada (União/BNDESPar/fundos) não foi confirmada em fonte primária."
+      "resposta": "Segundo a RI da Axia (posição set/2026), o 'Grupo Governo' (União, BNDES/BNDESPar, FND, FGHAB, BNB, BB Asset, Caixa Asset, Petros e Previ) tem 993.157.201 ações ON = 40,67% das ON e 40,43% do capital total (1.143.484.325 ações), incluindo 1 ação de classe especial (golden share); a União sozinha é menor, pois o grupo inclui fundos de pensão de estatais. Isso corrige o 'Governo Federal 46,60%' da Wikipédia. Não residentes têm 34,19% das ON; ADRs 2,02%; FMP-FGTS 2,19%; demais 19,06%; tesouraria 1,87%."
     },
     {
       "pergunta": "Por que a empresa se chama Axia?",
@@ -634,15 +715,51 @@
       "url": "https://static.poder360.com.br/uploads/2026/08/estudo-clp-Energia-cara-no-brasil-freia-a-competitividade-3ago2026.pdf",
       "acesso_em": "2026-10-21",
       "tier": "academico"
+    },
+    {
+      "nome": "Câmara dos Deputados – API de Dados Abertos, votações da MPV 1031/2021",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2270789/votacoes",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Câmara dos Deputados – votação 2270789-73 (19/05/2021, 313 x 166)",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270789-73",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Câmara dos Deputados – votação 2270789-157 (21/06/2021, 258 x 136)",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270789-157",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Agência Senado – Senado aprova MP que desestatiza Eletrobras (17/06/2021)",
+      "url": "https://www12.senado.leg.br/noticias/materias/2021/06/17/senado-aprova-mp-que-desestatiza-eletrobras-texto-volta-para-camara",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Axia Energia RI – Composição acionária (posição set/2026)",
+      "url": "https://ri.axia.com.br/a-axia/estrutura-acionaria-composicao-acionaria/",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "ANEEL Dados Abertos – CDE, custeio dos benefícios tarifários (CSV gerado em 01/10/2026)",
+      "url": "https://dadosabertos.aneel.gov.br/dataset/conta-desenvolvimento-energetico-cde-custeio-dos-beneficios-tarifarios",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/06_energia_eletrobras_combustiveis.md",
   "atualizado_em": "2026-10-21",
   "lacunas": [
-    "Número do Acórdão do TCU (mai/2022) e contagem de votos na Câmara em 21/06/2021 não localizados.",
     "Não localizado estudo (PSR ou Instituto Escolhas) com o valor 'R$ 200–300 bi em 20 anos' citado em debates; as estimativas localizadas vão de R$ 41 bi a mais de R$ 100 bi, todas de 2021–2022 e de associações ou colunistas.",
-    "Composição acionária atual (União/BNDESPar/fundos) não confirmada em fonte primária; a Wikipédia lista 'Governo Federal 46,60%' com base incerta.",
     "Não há balanço ex post oficial (TCU/ANEEL) do efeito líquido da privatização sobre a tarifa.",
-    "Dias exatos do ajuizamento da ADI 7.385 (2023) e da quitação dos encargos via CDE Eletrobras (set/2024) não constam das notas; a linha do tempo usa datas aproximadas assinaladas no texto."
+    "Dias exatos do ajuizamento da ADI 7.385 (2023) e da quitação dos encargos via CDE Eletrobras (set/2024) não constam das notas; a linha do tempo usa datas aproximadas assinaladas no texto.",
+    "Número do Acórdão do TCU (18/05/2022) e do processo (TC) não localizados: o portal de jurisprudência do TCU bloqueou o acesso automatizado; conferir manualmente em https://pesquisa.apps.tcu.gov.br.",
+    "A RI da Axia não discrimina a participação da União isoladamente dentro do 'Grupo Governo' (40,67% das ON)."
   ]
 }

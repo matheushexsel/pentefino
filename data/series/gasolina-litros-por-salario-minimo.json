@@ -1,69 +1,145 @@
 {
   "id": "gasolina-litros-por-salario-minimo",
-  "titulo": "Quantos litros de gasolina um salário mínimo compra",
-  "descricao_simples": "Salário mínimo dividido pelo preço médio da gasolina em março de cada ano (ANP), em litros.",
+  "titulo": "Quantos litros de gasolina um salário mínimo compra, 2003–2026",
+  "descricao_simples": "Salário mínimo vigente no fim de cada ano (BCB/SGS 1619) dividido pelo preço médio anual da gasolina comum (ANP), em litros.",
   "unidade": "litros",
   "tipo_grafico": "linha",
   "frequencia": "anual",
   "fonte": {
-    "nome": "InvestNews – Em 20 anos, quantidade de gasolina que o salário mínimo compra aumenta 57% (15/03/2021)",
-    "url": "https://investnews.com.br/economia/em-20-anos-quantidade-de-gasolina-que-salario-minimo-pode-comprar-aumenta-57",
+    "nome": "ANP – Série histórica do levantamento de preços (médias mensais Brasil)",
+    "url": "https://www.gov.br/anp/pt-br/assuntos/precos-e-defesa-da-concorrencia/precos/precos-revenda-e-de-distribuicao-combustiveis/serie-historica-do-levantamento-de-precos",
     "acesso_em": "2026-10-21",
-    "tier": "imprensa"
+    "tier": "oficial"
   },
   "pontos": [
     {
       "periodo": "2003",
-      "valor": 108
+      "valor": 115.8,
+      "salario_minimo": 240
+    },
+    {
+      "periodo": "2004",
+      "valor": 121.7,
+      "salario_minimo": 260
+    },
+    {
+      "periodo": "2005",
+      "valor": 128.2,
+      "salario_minimo": 300
     },
     {
       "periodo": "2006",
-      "valor": 135
+      "valor": 137.1,
+      "salario_minimo": 350
+    },
+    {
+      "periodo": "2007",
+      "valor": 151.5,
+      "salario_minimo": 380
+    },
+    {
+      "periodo": "2008",
+      "valor": 166.0,
+      "salario_minimo": 415
+    },
+    {
+      "periodo": "2009",
+      "valor": 185.2,
+      "salario_minimo": 465
     },
     {
       "periodo": "2010",
-      "valor": 198
+      "valor": 198.8,
+      "salario_minimo": 510
+    },
+    {
+      "periodo": "2011",
+      "valor": 199.6,
+      "salario_minimo": 545
+    },
+    {
+      "periodo": "2012",
+      "valor": 227.3,
+      "salario_minimo": 622
+    },
+    {
+      "periodo": "2013",
+      "valor": 237.6,
+      "salario_minimo": 678
     },
     {
       "periodo": "2014",
-      "valor": 243
+      "valor": 243.4,
+      "salario_minimo": 724
     },
     {
       "periodo": "2015",
-      "valor": 237
+      "valor": 235.7,
+      "salario_minimo": 788
+    },
+    {
+      "periodo": "2016",
+      "valor": 239.1,
+      "salario_minimo": 880
     },
     {
       "periodo": "2017",
-      "valor": 254
+      "valor": 248.7,
+      "salario_minimo": 937
     },
     {
       "periodo": "2018",
-      "valor": 227
+      "valor": 216.4,
+      "salario_minimo": 954
     },
     {
       "periodo": "2019",
-      "valor": 232
+      "valor": 228.0,
+      "salario_minimo": 998
     },
     {
       "periodo": "2020",
-      "valor": 234
+      "valor": 244.2,
+      "salario_minimo": 1045
     },
     {
       "periodo": "2021",
-      "valor": 200
+      "valor": 190.3,
+      "salario_minimo": 1100
     },
     {
-      "periodo": "2026",
-      "valor": 248,
-      "nao_verificado": true
+      "periodo": "2022",
+      "valor": 198.3,
+      "salario_minimo": 1212
+    },
+    {
+      "periodo": "2023",
+      "valor": 239.8,
+      "salario_minimo": 1320
+    },
+    {
+      "periodo": "2024",
+      "valor": 238.2,
+      "salario_minimo": 1412
+    },
+    {
+      "periodo": "2025",
+      "valor": 243.3,
+      "salario_minimo": 1518
+    },
+    {
+      "periodo": "2026 (jan–set)",
+      "valor": 247.9,
+      "salario_minimo": 1621
     }
   ],
   "faixas_referencia": [],
   "notas_metodologicas": [
-    "2003–2021: cálculo da InvestNews com preço de março (ANP) e salário mínimo do ano (R$ 240 em 2003; R$ 510 em 2010; R$ 1.045 em 2020; R$ 1.100 em 2021). Máximo da série em 2017 (254 litros).",
-    "2026: cálculo próprio das notas (salário mínimo de R$ 1.621 dividido por R$ 6,53/l em out/2026 ≈ 248 litros); o valor do salário mínimo de 2026 não foi verificado nas notas, por isso o ponto está marcado como não verificado."
+    "Cálculo próprio da nota: salário mínimo (BCB/SGS 1619, valor vigente no fim do ano; 2026 = R$ 1.621 desde 01/01/2026) dividido pela média anual ANP da gasolina comum. O campo 'salario_minimo' traz o SM em R$.",
+    "Pior ano de poder de compra desde 2010: 2021 (190 l/SM); melhores: 2017 (249 l) e 2026 (248 l). A versão anterior desta série usava o preço de março (InvestNews: 2003 108 l; 2017 254 l; 2021 200 l) e trazia 2026 como não verificado; o SM de 2026 foi confirmado no BCB/SGS 1619.",
+    "Série do salário mínimo (BCB/SGS 1619): 2003 R$ 240 (abr); 2004 260; 2005 300; 2006 350; 2007 380; 2008 415; 2009 465; 2010 510; 2011 545 (mar); 2012 622; 2013 678; 2014 724; 2015 788; 2016 880; 2017 937; 2018 954; 2019 998; 2020 1.045 (fev); 2021 1.100; 2022 1.212; 2023 1.320 (mai); 2024 1.412; 2025 1.518; 2026 1.621."
   ],
-  "ultimo_periodo": "2026",
+  "ultimo_periodo": "2026 (jan–set)",
   "temas": [
     "combustiveis",
     "emprego-renda"
@@ -71,6 +147,6 @@
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/06_energia_eletrobras_combustiveis.md",
   "atualizado_em": "2026-10-21",
   "lacunas": [
-    "Anos intermediários (2004–2005, 2007–2009, 2011–2013, 2016, 2022–2025) não constam das notas."
+    "Dados brutos baixados na rodada 2 de enriquecimento (21/10/2026); valores calculados sobre base oficial estão indicados como cálculo próprio na nota."
   ]
 }
