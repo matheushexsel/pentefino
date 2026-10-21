@@ -37,7 +37,7 @@
     "No debate Lula falou em 'Petrobras', o que o Ranking classificou como falso: a Petrobras não foi privatizada, embora subsidiárias (BR Distribuidora, TAG, NTS, refinaria RLAM) e ações tenham sido vendidas.",
     "'Preço de banana' é opinião; as notas registram o valor da operação, não uma avaliação independente do preço justo."
   ],
-  "explicacao_completa_md": "Ranking dos Políticos: FALSO para 'Petrobras privatizada a preço de banana' (Lula provavelmente se referia à Eletrobras, 2022). **Fatos (nota 07):** privatizações/desinvestimentos do governo Bolsonaro somaram R$ 304,2 bilhões: Eletrobras R$ 33,7 bilhões (14/06/2022; União de 68,6% para 40,3% do capital votante), TAG R$ 33,5 bilhões, BR Distribuidora R$ 21 bilhões, NTS R$ 21 bilhões, RLAM R$ 8,9 bilhões, ações da Petrobras R$ 31,5 bilhões e da Vale R$ 24,5 bilhões, 5G R$ 46,8 bilhões, 12 aeroportos; leilão da cessão onerosa (2019) cerca de R$ 70 bilhões. Governos anteriores também privatizaram/concederam: Lula 1-2 (rodovias em 2007, Norte-Sul para a Vale por R$ 1,4 bilhão, bancos BEC e BEM); Dilma (6 aeroportos, R$ 46 bilhões em outorgas; Libra R$ 15 bilhões); Temer (R$ 46,4 bilhões em outorgas). Lula 3 lidera em concessões (50 leilões em 2023-2025) sem venda de estatais. A nota 07 infere: 'Bolsonaro liderou em privatizações (venda de ativos); Lula 3 lidera em concessões'. Flávio disse em 2026 que privatizaria 95% das estatais; sua campanha nega privatizar Petrobras, BB e Caixa.",
+  "explicacao_completa_md": "Ranking dos Políticos: FALSO para 'Petrobras privatizada a preço de banana' (Lula provavelmente se referia à Eletrobras, 2022). **Fatos (nota 07):** privatizações/desinvestimentos do governo Bolsonaro somaram R$ 304,2 bilhões: Eletrobras R$ 33,7 bilhões (14/06/2022; União de 68,6% para 40,3% do capital votante), TAG R$ 33,5 bilhões, BR Distribuidora R$ 21 bilhões, NTS R$ 21 bilhões, RLAM R$ 8,9 bilhões, ações da Petrobras R$ 31,5 bilhões e da Vale R$ 24,5 bilhões, 5G R$ 46,8 bilhões, 12 aeroportos; leilão da cessão onerosa (2019) cerca de R$ 70 bilhões. Governos anteriores também privatizaram/concederam: Lula 1-2 (rodovias em 2007, Norte-Sul para a Vale por R$ 1,4 bilhão, bancos BEC e BEM); Dilma (6 aeroportos, R$ 46 bilhões em outorgas; Libra R$ 15 bilhões); Temer (R$ 46,4 bilhões em outorgas). Lula 3 lidera em concessões (50 leilões em 2023-2025) sem venda de estatais. A nota 07 infere: 'Bolsonaro liderou em privatizações (venda de ativos); Lula 3 lidera em concessões'. Flávio disse em 2026 que privatizaria 95% das estatais; sua campanha nega privatizar Petrobras, BB e Caixa.\n\n**Atualização (enriquecimento, 21/10/2026):** na legenda automática da live da Band (≈22h08, considerações finais), Lula diz 'privatizaram a preço de banana', sem que a palavra 'Petrobras' apareça nesse trecho; a atribuição de 'Petrobras' é do Ranking dos Políticos.",
   "o_que_e_verdade": [
     "A Eletrobras foi privatizada em 14/06/2022 no governo Bolsonaro (R$ 33,7 bilhões; União de 68,6% para 40,3% do capital votante).",
     "O governo Bolsonaro arrecadou R$ 304,2 bilhões em privatizações e desinvestimentos, incluindo subsidiárias da Petrobras."
@@ -164,6 +164,12 @@
       "url": "https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026",
       "acesso_em": "2026-10-21",
       "tier": "checagem"
+    },
+    {
+      "nome": "Band Jornalismo (YouTube, live integral do debate de 18/10/2026; legenda automática)",
+      "url": "https://www.youtube.com/watch?v=Gqc1rQtzWUk",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/07_saude_seguranca_educacao_infra_ambiente.md",
@@ -196,11 +202,15 @@
     {
       "data": "2026-10-21",
       "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "enriquecimento rodada 2 (21/10/2026): trecho da legenda automática; incerteza sobre 'Petrobras' registrada"
     }
   ],
   "exemplo": false,
   "lacunas": [
     "Avaliação independente do preço da privatização não consta nas notas lidas (ver nota 06 do projeto).",
-    "Lula disse 'Petrobras' no debate; a interpretação de que se referia à Eletrobras é do Ranking dos Políticos."
+    "A palavra 'Petrobras' é atribuída pelo Ranking dos Políticos; a legenda automática do trecho registra só 'privatizaram a preço de banana' (incerteza de transcrição)."
   ]
 }

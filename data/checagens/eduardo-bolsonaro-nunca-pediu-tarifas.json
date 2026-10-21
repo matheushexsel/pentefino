@@ -36,7 +36,7 @@
     "Trump justificou a tarifa de 50% citando o processo contra Jair Bolsonaro, mas não há prova de que Eduardo pediu especificamente a tarifa.",
     "Em 2026 Flávio pediu ao governo americano que suspendesse novas tarifas porque elas dariam vitória política a Lula, o que mostra a ligação entre a disputa eleitoral e as tarifas."
   ],
-  "explicacao_completa_md": "A Lupa (JN, 28/08) classificou como FALTA CONTEXTO: Eduardo admitiu discutir tarifas e chamou a medida de 'sucesso'. O Ranking dos Políticos classificou como IMPRECISO 'ninguém trabalhou para tarifar empresa brasileira' (Trump vinculou a tarifa ao julgamento de Bolsonaro; Eduardo articulou, sem prova de pedido específico). **Cronologia:** 02/04/2025 tarifa-base de 10%; 09/07/2025 carta de Trump ameaça 50% citando o processo contra Bolsonaro; 16-17/07 USTR abre investigação (inclui o Pix); 30/07/2025 'emergência nacional' e tarifa adicional de 40% (total 50%) com quase 700 exceções; 18/07 e 30/07/2025 sanções (vistos e Magnitsky) a Moraes; 20-21/11/2025 isenção de café, carne e alimentos; 12/12/2025 Moraes retirado da lista Magnitsky; 01/06/2026 USTR propõe 25% (Seção 301); 15/07/2026 tarifas de 25% sobre móveis, etanol, máquinas, calçados, açúcar. Em 02/07/2026 Flávio enviou ao USTR documento de 19 páginas pedindo a suspensão das tarifas de 25% porque 'dariam ao atual governo brasileiro exatamente a vitória política que ele vem buscando' e registrou-se para falar na audiência de 07/07; o Intercept (11/07) registrou que ele não contestou os motivos dos EUA e pediu adiamento para depois da campanha. Eduardo foi condenado por coação (16/06/2026) pela campanha por sanções.",
+  "explicacao_completa_md": "A Lupa (JN, 28/08) classificou como FALTA CONTEXTO: Eduardo admitiu discutir tarifas e chamou a medida de 'sucesso'. O Ranking dos Políticos classificou como IMPRECISO 'ninguém trabalhou para tarifar empresa brasileira' (Trump vinculou a tarifa ao julgamento de Bolsonaro; Eduardo articulou, sem prova de pedido específico). **Cronologia:** 02/04/2025 tarifa-base de 10%; 09/07/2025 carta de Trump ameaça 50% citando o processo contra Bolsonaro; 16-17/07 USTR abre investigação (inclui o Pix); 30/07/2025 'emergência nacional' e tarifa adicional de 40% (total 50%) com quase 700 exceções; 18/07 e 30/07/2025 sanções (vistos e Magnitsky) a Moraes; 20-21/11/2025 isenção de café, carne e alimentos; 12/12/2025 Moraes retirado da lista Magnitsky; 01/06/2026 USTR propõe 25% (Seção 301); 15/07/2026 tarifas de 25% sobre móveis, etanol, máquinas, calçados, açúcar. Em 02/07/2026 Flávio enviou ao USTR documento de 19 páginas pedindo a suspensão das tarifas de 25% porque 'dariam ao atual governo brasileiro exatamente a vitória política que ele vem buscando' e registrou-se para falar na audiência de 07/07; o Intercept (11/07) registrou que ele não contestou os motivos dos EUA e pediu adiamento para depois da campanha. Eduardo foi condenado por coação (16/06/2026) pela campanha por sanções.\n\n**Atualização (enriquecimento, 21/10/2026):** a condenação de Eduardo pela 1ª Turma (AP 2782, 16/06/2026, 4 a 0) foi por coação no curso do processo em continuidade delitiva, em 'pelo menos nove ocasiões', ligada à campanha por sanções dos EUA durante o julgamento do pai; pena de 4 anos e 2 meses (semiaberto) e inelegibilidade por 8 anos após o cumprimento (MPF/PGR). Paulo Figueiredo teve a ação desmembrada.",
   "o_que_e_verdade": [
     "Não há prova documental de pedido específico de Eduardo pela tarifa."
   ],
@@ -112,6 +112,19 @@
         "tier": "imprensa"
       },
       "comparacao": null
+    },
+    {
+      "rotulo": "Ocasiões de coação apontadas na condenação de Eduardo (continuidade delitiva)",
+      "valor": 9,
+      "unidade": "ocasiões ('pelo menos')",
+      "periodo": "16/06/2026",
+      "fonte": {
+        "nome": "MPF/PGR, 16/06/2026",
+        "url": "https://www.mpf.mp.br/o-mpf/unidades/procuradoria-geral-da-republica-pgr/noticias/stf-condena-eduardo-bolsonaro-a-quatro-anos-e-dois-meses-de-prisao-pelo-crime-de-coacao-no-curso-do-processo",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": null
     }
   ],
   "series": [],
@@ -171,6 +184,12 @@
       "url": "https://g1.globo.com/politica/noticia/2025/12/12/governo-americano-retira-alexandre-de-moraes-e-esposa-da-lista-da-lei-magnitsky.ghtml",
       "acesso_em": "2026-10-21",
       "tier": "imprensa"
+    },
+    {
+      "nome": "MPF/PGR, 16/06/2026",
+      "url": "https://www.mpf.mp.br/o-mpf/unidades/procuradoria-geral-da-republica-pgr/noticias/stf-condena-eduardo-bolsonaro-a-quatro-anos-e-dois-meses-de-prisao-pelo-crime-de-coacao-no-curso-do-processo",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/09_acusacoes_e_falas_flavio_x_lula.md",
@@ -197,6 +216,10 @@
     {
       "data": "2026-10-21",
       "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "enriquecimento rodada 2 (21/10/2026): detalhes da condenação na AP 2782 (4x0; 'pelo menos nove ocasiões')"
     }
   ],
   "exemplo": false

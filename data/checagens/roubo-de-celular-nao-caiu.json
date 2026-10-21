@@ -30,7 +30,7 @@
     "Há uma lei de 2026 contra a revenda e uma operação federal que recuperou quase 10 mil aparelhos em agosto.",
     "Os furtos (sem violência) não caíram, e o policiamento é dos estados; mas dizer que nada fez efeito é falso."
   ],
-  "explicacao_completa_md": "Lupa: FALSO (roubos de celular de 492.905 em 2022 para 308.723 em 2025, -37,4%; Lei 15.397/2026; Operação Última Chamada recuperou 9.989 celulares em agosto). Anuário 2026: roubo de celular 377.787 (2024) para 308.723 (2025), -18,6%; furto de celular 477.326 para 483.561 (+0,9%); roubos em geral -18,3%; estelionatos +2,7% (+429,8% desde 2018). Policiamento ostensivo e investigação são estaduais.",
+  "explicacao_completa_md": "Lupa: FALSO (roubos de celular de 492.905 em 2022 para 308.723 em 2025, -37,4%; Lei 15.397/2026; Operação Última Chamada recuperou 9.989 celulares em agosto). Anuário 2026: roubo de celular 377.787 (2024) para 308.723 (2025), -18,6%; furto de celular 477.326 para 483.561 (+0,9%); roubos em geral -18,3%; estelionatos +2,7% (+429,8% desde 2018). Policiamento ostensivo e investigação são estaduais.\n\n**Atualização (enriquecimento, 21/10/2026):** somando roubos e furtos, os casos com celulares caíram de 855.113 (2024) para 792.284 (2025), −7,7% (371,2 por 100 mil); roubos de outros tipos −19,2% (Anuário 2026). A execução do policiamento é estadual.",
   "o_que_e_verdade": [
     "Furtos de celular não caíram (+0,9% em 2025) e golpes/estelionatos seguem em alta."
   ],
@@ -117,6 +117,19 @@
         "tier": "academico"
       },
       "comparacao": null
+    },
+    {
+      "rotulo": "Roubos + furtos de celulares",
+      "valor": 792284,
+      "unidade": "casos (855.113 em 2024; −7,7%)",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Anuário Brasileiro de Segurança Pública 2026 (FBSP, PDF)",
+        "url": "https://static.poder360.com.br/uploads/2026/07/anuario-seguranca-publica-23jul26.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      "comparacao": null
     }
   ],
   "series": [],
@@ -166,6 +179,10 @@
     {
       "data": "2026-10-21",
       "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "enriquecimento rodada 2 (21/10/2026): roubos + furtos de celular 2024→2025 (Anuário 2026)"
     }
   ],
   "exemplo": false

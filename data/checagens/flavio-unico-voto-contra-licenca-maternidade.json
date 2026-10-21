@@ -32,7 +32,7 @@
     "Três agências confirmaram; o Ranking fez a ressalva de que Lula deu a entender que foi na Câmara dos Deputados.",
     "Flávio também foi o único voto contra o programa Renda Melhor (2011) e um dos dois contra a CPI das Milícias (2008) na Alerj."
   ],
-  "explicacao_completa_md": "Lupa, Aos Fatos e Estadão Verifica: VERDADEIRO (45 a 1 na Alerj, 2009); Ranking: IMPRECISO (Lula sugeriu a Câmara). Outros votos de Flávio na Alerj registrados na nota 09: único contra o Renda Melhor ('bolsa-farelo', nov/2011); um dos dois contra a CPI das Milícias (2008); único contra lei que proibia postais com mulheres seminuas (2005). No Senado: SIM à reforma da Previdência (2019), NÃO à reforma tributária (2023) e à sua regulamentação (2024), autor de emenda rejeitada para limitar cotas à baixa renda (2023), SIM à dosimetria (2025), SIM ao fim da 6x1 (14/10/2026, após mudar de posição).",
+  "explicacao_completa_md": "Lupa, Aos Fatos e Estadão Verifica: VERDADEIRO (45 a 1 na Alerj, 2009); Ranking: IMPRECISO (Lula sugeriu a Câmara). Outros votos de Flávio na Alerj registrados na nota 09: único contra o Renda Melhor ('bolsa-farelo', nov/2011); um dos dois contra a CPI das Milícias (2008); único contra lei que proibia postais com mulheres seminuas (2005). No Senado: SIM à reforma da Previdência (2019), NÃO à reforma tributária (2023) e à sua regulamentação (2024), autor de emenda rejeitada para limitar cotas à baixa renda (2023), SIM à dosimetria (2025), SIM ao fim da 6x1 (14/10/2026, após mudar de posição).\n\n**Atualização (enriquecimento, 21/10/2026):** a Sociedade Brasileira de Pediatria registrou em 09/06/2009 que a Alerj votaria naquele dia projeto que incluía no Estatuto dos Servidores 'a ampliação do benefício de quatro para seis meses, prorrogáveis por mais três em caso de aleitamento materno'; o resultado nominal (45 a 1) continua sem registro primário da Alerj acessível e segue lastreado nas três agências. No debate, Lula perguntou 'O que você tem contra as mulheres?' e Flávio respondeu: 'Eu não tenho absolutamente nada contra as mulheres. Pelo contrário.' (Agência Estado via A Crítica; BPMoney). Também em 2009, segundo a TVT News (com base em apuração da Folha), Flávio foi o único deputado a votar contra o projeto de Inês Pandeló (PT) que permitiu ao Estado recolher armas de agentes de segurança suspeitos de violência doméstica sem esperar decisão definitiva (Lei estadual 5.402/2009), alegando o 'direito à ampla defesa e ao contraditório' — sem placar nem registro primário. Os votos de Flávio no Senado citados acima foram reconferidos na API de dados abertos do Senado: NÃO à PEC 45/2019 (08/11/2023, 53 a 24), NÃO ao PLP 68/2024 (12/12/2024, 49 a 19) e SIM à PEC 221/2019 do fim da 6x1 nos dois turnos (14/10/2026, 75 a 1).",
   "o_que_e_verdade": [
     "Flávio foi o único voto contra a licença-maternidade de 180 dias na Alerj em 2009 (45 a 1)."
   ],
@@ -131,6 +131,42 @@
       "url": "https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026",
       "acesso_em": "2026-10-21",
       "tier": "checagem"
+    },
+    {
+      "nome": "Sociedade Brasileira de Pediatria, 09/06/2009",
+      "url": "https://www.sbp.com.br/alerj-estuda-licencao-para-maes/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "A Crítica/Agência Estado, 18/10/2026",
+      "url": "https://acritica.net/politica/debate-lula-flavio-licenca-maternidade-2009-alerj/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "BPMoney, 18/10/2026",
+      "url": "https://bpmoney.com.br/?p=428131",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "TVT News, 16/10/2026 (Lei estadual 5.402/2009)",
+      "url": "https://tvtnews.com.br/flavio-contra-restricao-arma-policiais-violencia-domestica/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Senado, dados abertos — lista de votação de 08/11/2023",
+      "url": "https://legis.senado.leg.br/dadosabertos/plenario/lista/votacao/20231108.json",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Senado, dados abertos — lista de votação de 14/10/2026",
+      "url": "https://legis.senado.leg.br/dadosabertos/plenario/lista/votacao/20261014.json",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/09_acusacoes_e_falas_flavio_x_lula.md",
@@ -151,17 +187,23 @@
   "relacionadas": [
     "flavio-vai-cortar-programas-sociais",
     "flavio-miliciano",
-    "flavio-vereador-aos-21"
+    "flavio-vereador-aos-21",
+    "flavio-votou-contra-a-reforma-tributaria"
   ],
   "atualizado_em": "2026-10-21",
   "changelog": [
     {
       "data": "2026-10-21",
       "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "enriquecimento rodada 2 (21/10/2026): SBP (pauta de 09/06/2009) e réplica literal de Flávio; voto isolado na Lei estadual 5.402/2009 (TVT/Folha); votos no Senado reconferidos na API; lacuna mantida para o registro primário da Alerj"
     }
   ],
   "exemplo": false,
   "lacunas": [
-    "Fontes das votações da Alerj vieram em parte do site partidário flaviomente.com, que cita fontes primárias; não foram todas reverificadas."
+    "Nenhum registro primário da Alerj (ata, painel ou Diário Oficial) acessível; o placar 45 a 1 e o 'único de 49' seguem lastreados nas agências (Lupa, Aos Fatos, Estadão Verifica) e na SBP, que registra só a pauta de 09/06/2009; número do projeto e da lei estadual não localizados.",
+    "Os demais votos da Alerj citados (Renda Melhor, CPI das Milícias, postais) vêm em parte do site partidário flaviomente.com e não foram reverificados."
   ]
 }

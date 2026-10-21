@@ -26,18 +26,18 @@
     "seguranca"
   ],
   "veredito": "falta-contexto",
-  "resumo_uma_frase": "Nas seções eleitorais instaladas em presídios, Lula teve 72,57% e Flávio 23,29% dos votos válidos (11.186 votos), mas essas seções também recebem votos de agentes e servidores, e só presos provisórios podem votar (cerca de 4,9 mil votos), uma fração mínima dos 964 mil encarcerados.",
+  "resumo_uma_frase": "Nas seções eleitorais instaladas em presídios, Lula teve 72,57% e Flávio 23,29% dos votos válidos (11.186 votos), mas essas seções também recebem votos de agentes e servidores, e só presos provisórios e adolescentes internados podem votar, uma fração mínima dos 964 mil encarcerados.",
   "explicacao_simples": [
     "O número vem das seções eleitorais montadas em presídios no 1º turno: Lula 72,57%, Flávio 23,29%, num total de 11.186 votos.",
     "Mas só presos provisórios (sem condenação definitiva) votam, e as mesmas seções recebem votos de agentes penitenciários e outros servidores.",
-    "Falar em '73% dos presidiários' sugere que quase 1 milhão de presos votaram; na prática foram poucos milhares de votos, misturados com os de funcionários."
+    "Falar em '73% dos presidiários' sugere que quase 1 milhão de presos votaram; na prática foram cerca de 11 mil votos nas seções, misturados com os de funcionários."
   ],
-  "explicacao_completa_md": "Lupa: FALTA CONTEXTO (72,57% dos válidos nas seções de presídios, que incluem servidores); Aos Fatos: DISTORCIDO; Ranking dos Políticos: IMPRECISO (só presos provisórios votam; cerca de 4,9 mil votos). Contexto: a população prisional é de 964.668 (2025), 25,7% provisórios (Anuário 2026); condenados definitivos têm os direitos políticos suspensos.",
+  "explicacao_completa_md": "Lupa: FALTA CONTEXTO (72,57% dos válidos nas seções de presídios, que incluem servidores); Aos Fatos: DISTORCIDO; Ranking dos Políticos: IMPRECISO (só presos provisórios votam; o Ranking cita '79,8%' e cerca de 4,9 mil votos, números que vêm de compilação da Gazeta do Povo sobre o 1º turno de 2022, não de 2026). Contexto: a população prisional é de 964.668 (2025), 25,7% provisórios (Anuário 2026); condenados definitivos têm os direitos políticos suspensos.\n\n**Atualização (enriquecimento, 21/10/2026):** hora da fala: ≈20h50 (04:49:46 da live da Band Jornalismo; a CNN publicou a troca às 21h07) — o '~21h39' que circulou é a hora de publicação do Poder360. Literais (legenda automática): 'Ô Lula, com você a criminalidade explodiu no Brasil. Inclusive, você pode explicar por que que 73% dos presidiários votaram em você?'; 'Quando você foi declarado presidente em 22, os presídios ficaram em festa'; 'Em que que você acha que o ladrão do seu celular vai votar?'; Lula: 'Eu quero que vote os 100% até teu pai'. Seções penais em 2022 (Gazeta do Povo, 11/04/2026, com dados do TSE filtrados pelo nome da seção, recorte que pode incluir votos de policiais penais): 1º turno Lula 4.899 (79,8%) x Bolsonaro 867 (14,1%); 2º turno Lula 4.460 (80,4%) x Bolsonaro 893 (16,1%) — outro recorte e outro ano, por isso não contradiz os 11.186 votos de 2026. Em 2022, segundo a DPU (via Aos Fatos), 12.903 presos provisórios estavam regularizados para votar; em 2026 havia 200,4 mil presos provisórios no país (CNJ/BNMP, abr/2026), e em 23/04/2026 o TSE decidiu por unanimidade que a vedação ao voto de presos da Lei 15.358/2026 não vale para este ano (anualidade). Em São Paulo, boletins de urna de 2026 mostram, por exemplo, Lula 206 (89,57%) x Flávio 22 no CDP de Caraguatatuba e Flávio 8 (47,06%) x Lula 7 na P2 de Potim (Brasil Paralelo).",
   "o_que_e_verdade": [
     "Lula teve 72,57% dos votos válidos nas seções instaladas em presídios no 1º turno."
   ],
   "o_que_nao_se_sustenta": [
-    "'73% dos presidiários': as seções incluem votos de servidores; só presos provisórios votam (cerca de 4,9 mil votos entre 964 mil encarcerados)."
+    "'73% dos presidiários': as seções incluem votos de servidores; só presos provisórios e adolescentes internados votam, e os 11.186 votos das seções equivalem a cerca de 1,2% dos 964 mil encarcerados."
   ],
   "quem_e_responsavel": [
     {
@@ -82,15 +82,15 @@
       "comparacao": null
     },
     {
-      "rotulo": "Votos de presos provisórios (Ranking)",
-      "valor": 4900,
-      "unidade": "votos (aprox.)",
-      "periodo": "1º turno 2026",
+      "rotulo": "Votos de Lula nas seções penais no 1º turno de 2022 (compilação da Gazeta do Povo; origem dos '~4,9 mil' citados pelo Ranking)",
+      "valor": 4899,
+      "unidade": "votos (79,8% dos válidos no recorte)",
+      "periodo": "1º turno 2022",
       "fonte": {
-        "nome": "Ranking dos Políticos",
-        "url": "https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026",
+        "nome": "Gazeta do Povo, 11/04/2026 (votos nas seções penais em 2022)",
+        "url": "https://www.gazetadopovo.com.br/ideias/se-apenas-os-presos-votassem-o-pt-seria-imbativel-veja-os-numeros/",
         "acesso_em": "2026-10-21",
-        "tier": "checagem"
+        "tier": "imprensa"
       },
       "comparacao": null
     },
@@ -104,6 +104,32 @@
         "url": "https://static.poder360.com.br/uploads/2026/07/anuario-seguranca-publica-23jul26.pdf",
         "acesso_em": "2026-10-21",
         "tier": "academico"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Presos provisórios regularizados para votar em 2022 (≈3% dos que estavam nessa situação)",
+      "valor": 12903,
+      "unidade": "pessoas",
+      "periodo": "2022",
+      "fonte": {
+        "nome": "Aos Fatos, 26/08/2026 (voto de presos)",
+        "url": "https://www.aosfatos.org/noticias/tse-preso-eleicoes-2026/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Presos provisórios no país (CNJ/BNMP)",
+      "valor": 200400,
+      "unidade": "pessoas (aprox.)",
+      "periodo": "abr/2026",
+      "fonte": {
+        "nome": "Agência Brasil, 28/04/2026 (voto de pessoas reclusas)",
+        "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-04/direito-voto-entre-pessoas-reclusas-nao-e-efetivo-no-brasil",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
       },
       "comparacao": null
     }
@@ -155,6 +181,42 @@
       "url": "https://www.aosfatos.org/noticias/checamos-lula-flavio-bolsonaro-debate-band/",
       "acesso_em": "2026-10-21",
       "tier": "checagem"
+    },
+    {
+      "nome": "Aos Fatos, 26/08/2026 (voto de presos)",
+      "url": "https://www.aosfatos.org/noticias/tse-preso-eleicoes-2026/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Agência Brasil, 28/04/2026 (voto de pessoas reclusas)",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-04/direito-voto-entre-pessoas-reclusas-nao-e-efetivo-no-brasil",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Band Jornalismo (YouTube, live integral do debate de 18/10/2026; legenda automática)",
+      "url": "https://www.youtube.com/watch?v=Gqc1rQtzWUk",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Gazeta do Povo, 11/04/2026",
+      "url": "https://www.gazetadopovo.com.br/ideias/se-apenas-os-presos-votassem-o-pt-seria-imbativel-veja-os-numeros/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Brasil Paralelo, 06/10/2026 (seções em presídios de SP)",
+      "url": "https://www.brasilparalelo.com.br/noticias/lula-vence-com-vantagem-em-diversos-presidios-de-sao-paulo",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "TNH1/Agência Senado, 13/09/2026",
+      "url": "https://www.tnh1.com.br/noticia/nid/com-proibicao-suspensa-pelo-tse-presos-provisorios-votarao-em-2026/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/09_acusacoes_e_falas_flavio_x_lula.md",
@@ -165,7 +227,7 @@
     },
     {
       "pergunta": "Quantos presos votaram?",
-      "resposta": "Cerca de 4,9 mil votos, segundo o Ranking; o total das seções em presídios (11.186) inclui servidores."
+      "resposta": "Não há número oficial de presos que votaram em 2026: as seções em presídios somaram 11.186 votos, que incluem servidores e mesários transferidos. Os '~4,9 mil' citados pelo Ranking são os votos de Lula no 1º turno de 2022 num recorte da Gazeta do Povo; em 2022 havia 12.903 presos provisórios regularizados para votar (cerca de 3% dos que estavam nessa situação, segundo a DPU)."
     },
     {
       "pergunta": "Então Lula venceu entre os presos?",
@@ -175,14 +237,23 @@
   "relacionadas": [
     "lula-solta-bandido",
     "lula-ligado-a-faccoes-pcc-cv",
-    "eleicao-2026-resultado-primeiro-turno"
+    "eleicao-2026-resultado-primeiro-turno",
+    "73-por-cento-dos-presidiarios-votaram-em-lula",
+    "bolsonaro-nao-pode-votar"
   ],
   "atualizado_em": "2026-10-21",
   "changelog": [
     {
       "data": "2026-10-21",
       "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "enriquecimento rodada 2 (21/10/2026): corrigida a atribuição dos '~4,9 mil votos' (são votos de Lula em 2022 num recorte da Gazeta do Povo, não presos que votaram em 2026); hora da fala ≈20h50 (não 21h39); seções penais de 2022 (79,8% e 80,4%); 12.903 presos aptos em 2022; decisão do TSE de 23/04/2026"
     }
   ],
-  "exemplo": false
+  "exemplo": false,
+  "lacunas": [
+    "Número oficial de presos habilitados a votar em 2026 não confirmado em página do TSE; a recomputação com os boletins de urna e a marcação de 'preso provisório' do eleitorado não foi feita."
+  ]
 }

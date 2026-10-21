@@ -30,9 +30,9 @@
   "explicacao_simples": [
     "Moro de fato saiu por vontade própria do governo Bolsonaro em abril de 2020, mas acusando o presidente de interferir na Polícia Federal.",
     "Em 2021 o STF declarou Moro parcial como juiz no caso Lula, o que anulou as condenações.",
-    "Hoje Moro é aliado de Flávio e foi eleito governador do Paraná pelo PL em 2026 com 50,10% no 1º turno."
+    "Hoje Moro é aliado de Flávio e foi eleito governador do Paraná pelo PL em 2026 com 50,11% dos válidos no 1º turno."
   ],
-  "explicacao_completa_md": "Lupa (Globo, 16/10): FALTA CONTEXTO (saiu em abr/2020 acusando interferência na PF). Moro deixou a magistratura no fim de 2018 para ser ministro de Bolsonaro; a Vaza Jato (Intercept, jun/2019) expôs mensagens dele com procuradores; a 2ª Turma do STF o declarou parcial em 23/03/2021 (3 a 2) e o plenário confirmou por 7 a 4 (jun/2021); eleito senador (União-PR) em 2022 e governador do Paraná (PL) em 2026 (50,10% x 25,37%). Deltan Dallagnol teve o mandato cassado pelo TSE em 2023.",
+  "explicacao_completa_md": "Lupa (Globo, 16/10): FALTA CONTEXTO (saiu em abr/2020 acusando interferência na PF). Moro deixou a magistratura no fim de 2018 para ser ministro de Bolsonaro; a Vaza Jato (Intercept, jun/2019) expôs mensagens dele com procuradores; a 2ª Turma do STF o declarou parcial em 23/03/2021 (3 a 2) e o plenário confirmou por 7 a 4 (jun/2021); eleito senador (União-PR) em 2022 e governador do Paraná (PL) em 2026 (50,11% x 25,37%, dados abertos do TSE). Deltan Dallagnol teve o mandato cassado pelo TSE em 2023.\n\n**Atualização (enriquecimento, 21/10/2026):** no livro 'Contra o Sistema da Corrupção' (2021), Moro escreveu sobre a saída: 'Também concluí que ele simplesmente não confiava em mim e não desejava a minha presença no governo'; 'Se não conseguisse conter a interferência, não haveria mais razão para continuar'; 'Esse seria o meu limite'; e atribui a Bolsonaro a frase 'Se não vai ajudar, então não atrapalhe' (trechos via Bandab). Em fevereiro de 2026 disse: 'Jamais estarei do lado do PT ou do Lula'. O inquérito sobre a interferência na PF (Inq 4831) segue sem denúncia nem arquivamento: o último andamento é 'Vista à PGR' em 08/04/2026.",
   "o_que_e_verdade": [
     "Moro saiu por iniciativa própria em abril de 2020 e hoje é aliado de Flávio (governador eleito do PR pelo PL)."
   ],
@@ -112,6 +112,30 @@
       "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2024-03/lava-jato-completa-10-anos-com-resultados-em-xeque-e-prestigio-abalado",
       "acesso_em": "2026-10-21",
       "tier": "oficial"
+    },
+    {
+      "nome": "Bandab, 30/11/2021 (livro de Moro)",
+      "url": "https://www.bandab.com.br/politica/moro-lancamento-curitiba/amp/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "O Antagonista, fev/2026 (Moro)",
+      "url": "https://oantagonista.com.br/brasil/moro-jamais-estarei-do-lado-do-pt-ou-do-lula/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "STF, Inq 4831 — aba Andamentos",
+      "url": "https://portal.stf.jus.br/processos/abaAndamentos.asp?incidente=5899439&imprimir=true",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "TSE, dados abertos — votação por candidato 2026",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2026.zip",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/09_acusacoes_e_falas_flavio_x_lula.md",
@@ -138,6 +162,10 @@
     {
       "data": "2026-10-21",
       "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "enriquecimento rodada 2 (21/10/2026): percentual de Moro corrigido pelo TSE (50,11%, não 50,10%); trechos do livro de 2021 sobre a saída; Inq 4831 sem desfecho"
     }
   ],
   "exemplo": false

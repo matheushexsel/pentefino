@@ -30,7 +30,7 @@
     "O perito não teve acesso ao fundo nos EUA por onde passou cerca de 70% das despesas, e R$ 20,9 milhões gastos no Brasil ficaram sem explicação.",
     "Lupa e Aos Fatos classificaram a frase como falsa; a Polícia Civil de SP fala em suspeitas consistentes de desvio."
   ],
-  "explicacao_completa_md": "Lupa e Aos Fatos (16/10/2026) classificaram como FALSO: a prestação de contas é perícia privada sem documentos comprobatórios; o perito não teve acesso ao fundo Havengate (EUA), que concentra cerca de 70% das despesas; R$ 20,9 milhões gastos no Brasil não têm explicação; a Polícia Civil de SP aponta 'consistentes suspeitas' de desvio. A Operação Make Up (10/09/2026) teve como alvos Mario Frias (PL-SP) e Karina Gama (Go Up); o ministro Dino apura emendas (R$ 2 milhões de duas emendas a entidade de Karina Gama).",
+  "explicacao_completa_md": "Lupa e Aos Fatos (16/10/2026) classificaram como FALSO: a prestação de contas é perícia privada sem documentos comprobatórios; o perito não teve acesso ao fundo Havengate (EUA), que concentra cerca de 70% das despesas; R$ 20,9 milhões gastos no Brasil não têm explicação; a Polícia Civil de SP aponta 'consistentes suspeitas' de desvio. A Operação Make Up (10/09/2026) teve como alvos Mario Frias (PL-SP) e Karina Gama (Go Up); o ministro Dino apura emendas (R$ 2 milhões de duas emendas a entidade de Karina Gama).\n\n**Atualização (enriquecimento, 21/10/2026):** o UOL Confere (via A Crítica, 17/10/2026) também classificou a afirmação como falsa (cerca de R$ 134 milhões pedidos; ao menos R$ 61 milhões transferidos por Vorcaro). O laudo da produtora Karina Gama (Go Up) à Justiça fala em R$ 75 milhões gastos, todos oriundos do fundo Havengate (O Povo, 23/07/2026) — é esse documento, sem notas, recibos ou extratos, que a campanha chama de 'prestação de contas'.",
   "o_que_e_verdade": [
     "A produtora apresentou um documento de perícia."
   ],
@@ -88,6 +88,19 @@
         "tier": "checagem"
       },
       "comparacao": null
+    },
+    {
+      "rotulo": "Gasto total da produção segundo laudo da produtora (Go Up) à Justiça, todo oriundo do Havengate",
+      "valor": 75,
+      "unidade": "R$ milhões",
+      "periodo": "2026",
+      "fonte": {
+        "nome": "O Povo, 23/07/2026",
+        "url": "https://www.opovo.com.br/noticias/politica/2026/07/23/andre-mendonca-autoriza-inquerito-sobre-repasses-para-dark-horse-filme-sobre-jair-bolsonaro.html",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": null
     }
   ],
   "series": [],
@@ -103,6 +116,12 @@
       "veredito_original": "FALSO",
       "url": "https://www.aosfatos.org/noticias/checamos-flavio-bolsonaro-globo-segundo-turno/",
       "data": "2026-10-16"
+    },
+    {
+      "veiculo": "UOL Confere (via A Crítica)",
+      "veredito_original": "'prestação de contas já entregue' é FALSA (cerca de R$ 134 mi pedidos; ao menos R$ 61 mi transferidos por Vorcaro)",
+      "url": "https://acritica.net/noticias/em-sabatina-flavio-nao-explica-propostas-e-cita-acusacoes-falsas/",
+      "data": "2026-10-17"
     }
   ],
   "fontes": [
@@ -129,6 +148,18 @@
       "url": "https://pt.wikipedia.org/wiki/Dark_Horse_(filme_de_2026)",
       "acesso_em": "2026-10-21",
       "tier": "imprensa"
+    },
+    {
+      "nome": "O Povo, 23/07/2026",
+      "url": "https://www.opovo.com.br/noticias/politica/2026/07/23/andre-mendonca-autoriza-inquerito-sobre-repasses-para-dark-horse-filme-sobre-jair-bolsonaro.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "UOL Confere (via A Crítica)",
+      "url": "https://acritica.net/noticias/em-sabatina-flavio-nao-explica-propostas-e-cita-acusacoes-falsas/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/08_eleicao_2026_cenario_checagens.md",
@@ -155,6 +186,10 @@
     {
       "data": "2026-10-21",
       "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "enriquecimento rodada 2 (21/10/2026): UOL Confere (falso) e laudo de R$ 75 mi da produtora"
     }
   ],
   "exemplo": false

@@ -1,0 +1,144 @@
+{
+  "id": "chk-2116",
+  "slug": "recorde-de-queimadas-em-outubro",
+  "frase": "O governo Lula é recordista em queimadas na Amazônia; outubro teve a maior queimada da história.",
+  "frase_normalizada": "o governo lula e recordista em queimadas na amazonia outubro teve a maior queimada da historia",
+  "variantes": [],
+  "autor": {
+    "nome": "Flávio Bolsonaro",
+    "partido": "PL",
+    "cargo": "senador (RJ) e candidato à Presidência"
+  },
+  "lado": "oposicao-flavio-pl",
+  "alvo": {
+    "nome": "Governo Lula (2023-2026)",
+    "partido": "PT"
+  },
+  "data": "2026-10-16",
+  "onde": "Entrevista à TV Globo (Renata Lo Prete)",
+  "url_declaracao": "https://ranking.org.br/en/articles/checagem-entrevista-flavio-bolsonaro-jornal-nacional-2-turno-2026",
+  "temas": [
+    "meio-ambiente",
+    "eleicao-2026"
+  ],
+  "tags": [
+    "meio-ambiente",
+    "eleicao-2026"
+  ],
+  "veredito": "falso",
+  "resumo_uma_frase": "Os focos de queimada na Amazônia em outubro de 2026 estavam abaixo da média e muito longe do recorde: 7.815 até 12/10 (12% abaixo da média, segundo o Ranking) ou 9.544 até 15/10, contra 28.731 em outubro de 2007 (Inpe, via A Crítica); o recorde recente de área queimada é de 2024.",
+  "explicacao_simples": [
+    "Na entrevista à Globo, Flávio disse que o governo é recordista em queimadas e que outubro teve a maior queimada da história.",
+    "Os dados do Inpe mostram outubro de 2026 abaixo da média: cerca de 9,5 mil focos na Amazônia até o dia 15, contra 28,7 mil em outubro de 2007.",
+    "O recorde recente foi em 2024, ano de seca extrema, quando o Brasil teve 30 milhões de hectares queimados; em 2026 não há recorde."
+  ],
+  "explicacao_completa_md": "**A fala:** Globo, 16/10/2026 (paráfrase do Ranking dos Políticos): 'recordista em queimadas na Amazônia' e 'maior queimada da história' em outubro. Ranking: IMPRECISO (o recorde do AM foi 2024; em 2026, até 12/10, 7.815 focos, 12% abaixo da média). A Crítica (17/10/2026), com dados do Inpe, apontou que a afirmação não se sustenta: 9.544 focos na Amazônia até 15/10/2026, contra 28.731 em outubro de 2007. **Contexto:** 2024 teve recorde de área queimada no Brasil na série do MapBiomas (30 milhões de hectares, Amazônia com 15,6 milhões, maior desde 1985), em ano de seca extrema e El Niño. O projeto classifica a frase como falsa para outubro de 2026.",
+  "o_que_e_verdade": [
+    "2024 teve recorde de área queimada (MapBiomas), já no governo Lula, em ano de seca extrema e El Niño."
+  ],
+  "o_que_nao_se_sustenta": [
+    "'Maior queimada da história' em outubro de 2026: os focos estavam abaixo da média (7.815 até 12/10) e muito abaixo de outubro de 2007 (28.731)."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Flávio Bolsonaro",
+      "papel": "autor da afirmação",
+      "peso": "alto"
+    },
+    {
+      "ator": "Governo federal (Ibama, ICMBio, PF) e estados",
+      "papel": "fiscalização ambiental: comando e controle federal; estados como PA e MT licenciam e também fiscalizam",
+      "peso": "medio"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Focos de queimada na Amazônia em outubro de 2026 (até o dia 15)",
+      "valor": 9544,
+      "unidade": "focos",
+      "periodo": "out/2026",
+      "fonte": {
+        "nome": "A Crítica, 17/10/2026 (dados do Inpe)",
+        "url": "https://acritica.net/noticias/em-sabatina-flavio-nao-explica-propostas-e-cita-acusacoes-falsas/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "Outubro de 2007",
+        "valor": 28731
+      }
+    },
+    {
+      "rotulo": "Focos de queimada até 12/10/2026, segundo o Ranking",
+      "valor": 7815,
+      "unidade": "focos (12% abaixo da média)",
+      "periodo": "out/2026",
+      "fonte": {
+        "nome": "Ranking dos Políticos (entrevista de Flávio à Globo, 16/10)",
+        "url": "https://ranking.org.br/en/articles/checagem-entrevista-flavio-bolsonaro-jornal-nacional-2-turno-2026",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": null
+    }
+  ],
+  "series": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Ranking dos Políticos",
+      "veredito_original": "IMPRECISO (recorde do AM foi 2024; 2026 até 12/10: 7.815 focos, 12% abaixo da média)",
+      "url": "https://ranking.org.br/en/articles/checagem-entrevista-flavio-bolsonaro-jornal-nacional-2-turno-2026",
+      "data": "2026-10-16"
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "A Crítica, 17/10/2026 (dados do Inpe)",
+      "url": "https://acritica.net/noticias/em-sabatina-flavio-nao-explica-propostas-e-cita-acusacoes-falsas/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Ranking dos Políticos (entrevista de Flávio à Globo, 16/10)",
+      "url": "https://ranking.org.br/en/articles/checagem-entrevista-flavio-bolsonaro-jornal-nacional-2-turno-2026",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Nota 07 deste projeto (meio ambiente)",
+      "url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/07_saude_seguranca_educacao_infra_ambiente.md",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "Outubro de 2026 teve recorde de queimadas?",
+      "resposta": "Não. Os focos estavam abaixo da média; outubro de 2007 teve três vezes mais focos na Amazônia."
+    },
+    {
+      "pergunta": "Quando foi o recorde recente?",
+      "resposta": "Em 2024, com 30 milhões de hectares queimados no país (MapBiomas), em ano de seca extrema."
+    },
+    {
+      "pergunta": "Quem responde pela fiscalização?",
+      "resposta": "A fiscalização (Ibama, ICMBio, PF) e o comando e controle são federais; estados como Pará e Mato Grosso licenciam e também fiscalizam."
+    }
+  ],
+  "relacionadas": [
+    "desmatamento-caiu-com-lula",
+    "eventos-climaticos-sem-causa-humana"
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação (enriquecimento rodada 2, 21/10/2026)"
+    }
+  ],
+  "exemplo": false,
+  "lacunas": [
+    "Frase registrada por paráfrase do Ranking; transcrição literal não localizada. Os números de focos são de compilações (Ranking; A Crítica) sobre dados do Inpe, cujo portal não foi acessado diretamente."
+  ]
+}

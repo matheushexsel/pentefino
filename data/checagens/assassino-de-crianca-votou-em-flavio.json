@@ -1,0 +1,118 @@
+{
+  "id": "chk-2113",
+  "slug": "assassino-de-crianca-votou-em-flavio",
+  "frase": "Esse assassino que você não deixou ser preso, que matou a criança de cinco anos, votou em você.",
+  "frase_normalizada": "esse assassino que voce nao deixou ser preso que matou a crianca de cinco anos votou em voce",
+  "variantes": [],
+  "autor": {
+    "nome": "Luiz Inácio Lula da Silva",
+    "partido": "PT",
+    "cargo": "presidente da República e candidato à reeleição"
+  },
+  "lado": "governo-lula-pt",
+  "alvo": {
+    "nome": "Flávio Bolsonaro",
+    "partido": "PL"
+  },
+  "data": "2026-10-18",
+  "onde": "Debate da Band (consórcio Band/Cultura/Gazeta/Jovem Pan/Estadão), São Paulo",
+  "url_declaracao": "https://www.youtube.com/watch?v=Gqc1rQtzWUk",
+  "temas": [
+    "seguranca",
+    "eleicao-2026"
+  ],
+  "tags": [
+    "seguranca",
+    "eleicao-2026"
+  ],
+  "veredito": "insustentavel",
+  "resumo_uma_frase": "Não há como saber em quem o PM acusado de matar Ana Clara votou: o voto é secreto, e o policial, que responde ao processo em liberdade desde 2021, não vota em seção penal; a frase usa a mesma lógica que o projeto rejeitou na fala de Flávio sobre 'voto de estuprador'.",
+  "explicacao_simples": [
+    "Lula respondeu à fala sobre o voto dos presos dizendo que o assassino da menina Ana Clara, de 5 anos, votou em Flávio.",
+    "O voto é secreto, então não há como saber em quem o policial acusado votou; ele está solto desde 2021 e não vota em seção de presídio.",
+    "Ele é acusado, não condenado; a frase troca um dado verificável por uma suposição, como fez Flávio ao falar em 'voto de estuprador'."
+  ],
+  "explicacao_completa_md": "**A fala:** no bloco dos '73% dos presidiários' (≈20h51, legenda automática da live da Band), depois de Flávio dizer 'você teve voto de estuprador, de assaltante', Lula respondeu: 'Esse assassino que você não deixou ser preso, que matou a criança de cinco anos, votou em você'. Nenhuma agência checou essa frase. **O caso:** Ana Clara Gomes Machado, de 5 anos, foi morta em 02/02/2021 em Niterói; o PM Bruno Delaroli é acusado, não condenado, e estava solto desde 2021; Flávio assinou em 2024, como advogado, recurso ao STJ contra a pronúncia ao júri, negado (Ranking: IMPRECISO para 'interferiu para que não fosse preso'; Aos Fatos: 'de fato interferiu'). **Por que insustentável:** o voto é secreto e não existe registro de voto individual; o projeto aplica aqui a mesma regra usada para a fala de Flávio sobre 'voto de estuprador' (condenados não votam; não há como saber o voto de cada eleitor).",
+  "o_que_e_verdade": [
+    "O PM acusado no caso Ana Clara responde em liberdade desde 2021, e Flávio atuou como advogado em recurso da defesa ao STJ (2024)."
+  ],
+  "o_que_nao_se_sustenta": [
+    "'Votou em você': o voto é secreto; não há como saber em quem o acusado votou."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Lula",
+      "papel": "atribuiu um voto sem possibilidade de verificação",
+      "peso": "alto"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Idade de Ana Clara Gomes Machado, morta em Niterói em 02/02/2021",
+      "valor": 5,
+      "unidade": "anos",
+      "periodo": "2021",
+      "fonte": {
+        "nome": "GC Mais, 18/10/2026 (caso Ana Clara)",
+        "url": "https://gcmais.com.br/noticias/2026/10/18/flavio-bolsonaro-e-caso-ana-clara-entenda-a-relacao-citada-por-lula-no-debate",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": null
+    }
+  ],
+  "series": [],
+  "checagens_externas": [],
+  "fontes": [
+    {
+      "nome": "GC Mais, 18/10/2026 (caso Ana Clara)",
+      "url": "https://gcmais.com.br/noticias/2026/10/18/flavio-bolsonaro-e-caso-ana-clara-entenda-a-relacao-citada-por-lula-no-debate",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Band Jornalismo (YouTube, live integral do debate de 18/10/2026; legenda automática)",
+      "url": "https://www.youtube.com/watch?v=Gqc1rQtzWUk",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Ranking dos Políticos (debate da Band)",
+      "url": "https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "Dá para saber em quem o PM votou?",
+      "resposta": "Não. O voto é secreto, e ele não vota em seção penal: responde ao processo em liberdade."
+    },
+    {
+      "pergunta": "Ele foi condenado?",
+      "resposta": "Não; é acusado. Flávio atuou como advogado em recurso da defesa ao STJ em 2024, negado."
+    },
+    {
+      "pergunta": "Por que o veredito é o mesmo da fala de Flávio sobre presos?",
+      "resposta": "Porque nos dois casos se atribui voto a pessoas sem qualquer registro possível; o projeto aplica a mesma regra aos dois lados."
+    }
+  ],
+  "relacionadas": [
+    "flavio-interferiu-no-caso-ana-clara",
+    "73-por-cento-dos-presidiarios",
+    "bolsonaro-nao-pode-votar"
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação (enriquecimento rodada 2, 21/10/2026)"
+    }
+  ],
+  "exemplo": false,
+  "nao_verificado": true,
+  "lacunas": [
+    "Nenhuma agência checou esta frase; veredito do projeto (nota 14, rodada 2). Transcrição de legenda automática, sem pontuação confiável."
+  ]
+}

@@ -32,7 +32,7 @@
     "O estupro de vulnerável continua sendo crime grave; em 2025 houve 84.388 registros de estupro, 77% contra vulneráveis.",
     "O Aos Fatos classificou a frase como falsa; a crítica que se sustenta é a não implementação do cadastro de pedófilos."
   ],
-  "explicacao_completa_md": "Aos Fatos (Band): FALSO. Contexto: a lei do cadastro nacional de condenados por crimes sexuais contra crianças (nov/2024) não foi implementada (Ranking: VERDADEIRO). A frase se insere na campanha que associou Lula à pedofilia a partir da fala sobre exames de toque (28/09/2026), que o TSE mandou remover das redes.",
+  "explicacao_completa_md": "Aos Fatos (Band): FALSO. Contexto: a lei do cadastro nacional de condenados por crimes sexuais contra crianças (nov/2024) não foi implementada (Ranking: VERDADEIRO). A frase se insere na campanha que associou Lula à pedofilia a partir da fala sobre exames de toque (28/09/2026), que o TSE mandou remover das redes.\n\n**Atualização (enriquecimento, 21/10/2026):** literal (legenda automática da live da Band, ≈21h57): 'Diferente do que faz esse atual governo que acha que as pessoas que abusam de crianças […] são pessoas doentes, não são pessoas criminosas'; na mesma fala Flávio prometeu 'castração química para estuprador' e mudar a Constituição para reduzir a maioridade penal (promessas, não checáveis como fato).",
   "o_que_e_verdade": [
     "A lei do cadastro de pedófilos (2024) não foi implementada."
   ],
@@ -82,6 +82,12 @@
       "url": "https://www.aosfatos.org/noticias/checamos-lula-flavio-bolsonaro-debate-band/",
       "acesso_em": "2026-10-21",
       "tier": "checagem"
+    },
+    {
+      "nome": "Band Jornalismo (YouTube, live integral do debate de 18/10/2026; legenda automática)",
+      "url": "https://www.youtube.com/watch?v=Gqc1rQtzWUk",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/09_acusacoes_e_falas_flavio_x_lula.md",
@@ -108,10 +114,14 @@
     {
       "data": "2026-10-21",
       "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "enriquecimento rodada 2 (21/10/2026): literal localizado na legenda automática do debate"
     }
   ],
   "exemplo": false,
   "lacunas": [
-    "A nota 09 registra apenas o veredito do Aos Fatos, sem a justificativa detalhada."
+    "A nota 09 registra apenas o veredito do Aos Fatos, sem a justificativa detalhada; a frase literal vem da legenda automática da transmissão (sem pontuação confiável)."
   ]
 }

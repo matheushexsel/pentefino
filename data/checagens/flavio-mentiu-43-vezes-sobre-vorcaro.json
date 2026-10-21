@@ -32,7 +32,7 @@
     "Entre elas: dizer que não conhecia o banqueiro, chamar os áudios de mentira e horas depois confirmá-los, e errar a data do último pagamento.",
     "Duas agências que checaram o debate confirmaram o número como verdadeiro."
   ],
-  "explicacao_completa_md": "O levantamento do Aos Fatos (24/09/2026) identificou 43 declarações enganosas e cinco estratégias: negar a relação ('não conheço', março de 2026); desqualificar as provas ('É mentira, pelo amor de Deus', 13/05 de manhã) e confirmá-las horas depois ('apenas um filho buscando investimento privado'); minimizar valores e datas (disse que o último pagamento foi em maio de 2025, mas o Coaf registra transferência em 16/09/2025); apresentar-se como fiscalizador (disse que 'pedia muito' a CPMI do Master, mas assinou apenas 2 dos 5 pedidos, e só após os áudios de maio); e atribuir a acusação à campanha adversária. No debate da Band (18/10) o Ranking dos Políticos e o Estadão Verifica classificaram a frase de Lula como VERDADEIRA. Na Globo (16/10), Lupa e Aos Fatos classificaram como FALSA a afirmação de Flávio de que a produtora do filme 'prestou contas de tudo' (perícia privada sem notas, recibos ou extratos; perito sem acesso ao fundo Havengate, que concentra cerca de 70% das despesas).",
+  "explicacao_completa_md": "O levantamento do Aos Fatos (24/09/2026) identificou 43 declarações enganosas e cinco estratégias: negar a relação ('não conheço', março de 2026); desqualificar as provas ('É mentira, pelo amor de Deus', 13/05 de manhã) e confirmá-las horas depois ('apenas um filho buscando investimento privado'); minimizar valores e datas (disse que o último pagamento foi em maio de 2025, mas o Coaf registra transferência em 16/09/2025); apresentar-se como fiscalizador (disse que 'pedia muito' a CPMI do Master, mas assinou apenas 2 dos 5 pedidos, e só após os áudios de maio); e atribuir a acusação à campanha adversária. No debate da Band (18/10) o Ranking dos Políticos e o Estadão Verifica classificaram a frase de Lula como VERDADEIRA. Na Globo (16/10), Lupa e Aos Fatos classificaram como FALSA a afirmação de Flávio de que a produtora do filme 'prestou contas de tudo' (perícia privada sem notas, recibos ou extratos; perito sem acesso ao fundo Havengate, que concentra cerca de 70% das despesas).\n\n**Atualização (enriquecimento, 21/10/2026):** literal de Lula no debate (legenda automática da live da Band, ≈20h39): '43 mentiras. Todo dia ele contava uma mentira e a empresa desmentia'. O Aos Fatos, na checagem do debate, registrou o item sem rótulo próprio, remetendo ao levantamento de 24/09/2026. Cifras do caso reconciliadas na rodada 2: US$ 24 milhões (≈ R$ 134 milhões) negociados; ao menos US$ 10,6 milhões (≈ R$ 61 milhões) transferidos segundo o Intercept; US$ 12,3 milhões na delação de 'Mineiro'; R$ 75 milhões de gasto declarado pela produtora.",
   "o_que_e_verdade": [
     "O Aos Fatos documentou 43 declarações enganosas de Flávio sobre o caso Vorcaro até setembro de 2026.",
     "Flávio admitiu, em 14/05/2026, ter mentido sobre a relação, alegando cláusula de confidencialidade."
@@ -138,6 +138,18 @@
       "url": "https://pt.wikipedia.org/wiki/Dark_Horse_(filme_de_2026)",
       "acesso_em": "2026-10-21",
       "tier": "imprensa"
+    },
+    {
+      "nome": "Band Jornalismo (YouTube, live integral do debate de 18/10/2026; legenda automática)",
+      "url": "https://www.youtube.com/watch?v=Gqc1rQtzWUk",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "O Povo, 23/07/2026 (cifras do caso)",
+      "url": "https://www.opovo.com.br/noticias/politica/2026/07/23/andre-mendonca-autoriza-inquerito-sobre-repasses-para-dark-horse-filme-sobre-jair-bolsonaro.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/09_acusacoes_e_falas_flavio_x_lula.md",
@@ -165,6 +177,10 @@
     {
       "data": "2026-10-21",
       "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "enriquecimento rodada 2 (21/10/2026): literal do debate e cifras reconciliadas"
     }
   ],
   "exemplo": false

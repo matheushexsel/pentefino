@@ -30,7 +30,7 @@
     "Ele se elegeu deputado estadual em 2002, aos 21 anos, e ficou na Alerj até 2019.",
     "Antes disso, aos 19, ocupou cargo na liderança do PPB na Câmara, em Brasília, enquanto vivia no Rio."
   ],
-  "explicacao_completa_md": "A Lupa classificou a frase como FALSA: Flávio Bolsonaro nunca exerceu mandato de vereador. Eleito em 2002, tomou posse como deputado estadual do RJ em 01/02/2003 (aos 21 anos) e cumpriu quatro mandatos até 01/02/2019, quando assumiu o Senado (eleito em 2018 com cerca de 4,38 milhões de votos). Entre dezembro de 2000 e 2002, aos 19 anos, ocupou cargo na liderança do PPB na Câmara dos Deputados, em Brasília, enquanto vivia no Rio (cerca de R$ 56,5 mil recebidos em 2001, segundo o Terra). Classificamos como impreciso porque a idade e a ideia de carreira política precoce estão corretas; o cargo citado está errado.",
+  "explicacao_completa_md": "A Lupa classificou a frase como FALSA: Flávio Bolsonaro nunca exerceu mandato de vereador. Eleito em 2002, tomou posse como deputado estadual do RJ em 01/02/2003 (aos 21 anos) e cumpriu quatro mandatos até 01/02/2019, quando assumiu o Senado (eleito em 2018 com cerca de 4,38 milhões de votos). Em dezembro de 2000, aos 19 anos, foi nomeado 'assistente técnico de gabinete' na liderança do PPB na Câmara dos Deputados, em Brasília (uma semana depois da saída de Ana Cristina Siqueira Valle, então esposa de Jair Bolsonaro, do mesmo posto), cargo que ocupou por 'quase dois anos' e pelo qual recebeu R$ 56.548,63 só em 2001, segundo apuração da BBC News Brasil, enquanto vivia no Rio (cerca de R$ 56,5 mil recebidos em 2001, segundo o Terra). Classificamos como impreciso porque a idade e a ideia de carreira política precoce estão corretas; o cargo citado está errado.\n\n**Atualização (enriquecimento, 21/10/2026):** a apuração sobre o cargo na Câmara é da BBC News Brasil (republicada pelo Terra em 08/10/2026); a assessoria de Flávio 'se recusou a responder qualquer questionamento'. Flávio não concorreu em 2022 (o mandato de senador 2019–2027 não estava em disputa; nenhum registro no arquivo consulta_cand_2022 do TSE).",
   "o_que_e_verdade": [
     "Flávio entrou na política eleitoral aos 21 anos (eleito em 2002, posse em 2003).",
     "Sua trajetória é quase inteiramente de cargos públicos: cargo na Câmara aos 19, deputado estadual aos 21, senador aos 37."
@@ -84,6 +84,19 @@
         "tier": "imprensa"
       },
       "comparacao": null
+    },
+    {
+      "rotulo": "Remuneração de Flávio no cargo da Câmara só em 2001",
+      "valor": 56548.63,
+      "unidade": "R$ (~R$ 13,5 mil mensais atualizados)",
+      "periodo": "2001",
+      "fonte": {
+        "nome": "Terra/BBC News Brasil, 08/10/2026",
+        "url": "https://www.terra.com.br/diversao/gente/como-flavio-bolsonaro-conseguiu-um-cargo-de-r-135-mil-na-camara-aos-19-anos,c857a24ce972f07145daa2a07655c357la0md1wc.html",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": null
     }
   ],
   "series": [],
@@ -113,6 +126,12 @@
       "url": "https://www.terra.com.br/diversao/gente/como-flavio-bolsonaro-conseguiu-um-cargo-de-r-135-mil-na-camara-aos-19-anos,c857a24ce972f07145daa2a07655c357la0md1wc.html",
       "acesso_em": "2026-10-21",
       "tier": "imprensa"
+    },
+    {
+      "nome": "TSE, dados abertos — consulta_cand_2022",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand/consulta_cand_2022.zip",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/09_acusacoes_e_falas_flavio_x_lula.md",
@@ -123,7 +142,7 @@
     },
     {
       "pergunta": "Qual foi o primeiro cargo público de Flávio?",
-      "resposta": "Um cargo na liderança do PPB na Câmara dos Deputados, em Brasília, entre dezembro de 2000 e 2002, quando tinha 19 anos e morava no Rio."
+      "resposta": "Um cargo na liderança do PPB na Câmara dos Deputados, em Brasília, a partir de dezembro de 2000 e por 'quase dois anos' (BBC News Brasil), quando tinha 19 anos e morava no Rio."
     },
     {
       "pergunta": "Por que 'impreciso' e não 'falso'?",
@@ -139,6 +158,10 @@
     {
       "data": "2026-10-21",
       "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "enriquecimento rodada 2 (21/10/2026): cargo de 2000 reverificado na BBC/Terra ('assistente técnico de gabinete', 'quase dois anos', R$ 56.548,63 em 2001)"
     }
   ],
   "exemplo": false

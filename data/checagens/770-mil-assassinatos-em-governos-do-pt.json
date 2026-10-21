@@ -34,7 +34,7 @@
     "Mas o PT governou cerca de 17 anos e 4 meses, não 20 (o Estadão Verifica classificou os '20 de 24 anos' como exagero).",
     "Homicídios são sobretudo resultado de políticas estaduais; a taxa atual (19,1 por 100 mil em 2025) é a menor desde 2012."
   ],
-  "explicacao_completa_md": "Ranking dos Políticos: VERDADEIRO que a soma do Atlas supera 770 mil, mas o período é de cerca de 17 anos. 'PT governa há 20 dos últimos 24 anos': Ranking IMPRECISO; Estadão Verifica EXAGERADO (cerca de 17 anos e 4 meses: 2003 a 31/08/2016 e 2023-2026). Atlas da Violência: 2013 57.396; 2017 65.602 (pico, governo Temer); 2023 45.747 (menor em 31 anos). FBSP: taxa de MVI de 27,7 (2012) para 30,2 (2016) no governo Dilma; 19,1 em 2025 no governo Lula 3. Segurança é 80% gasto estadual.",
+  "explicacao_completa_md": "Ranking dos Políticos: VERDADEIRO que a soma do Atlas supera 770 mil, mas o período é de cerca de 17 anos. 'PT governa há 20 dos últimos 24 anos': Ranking IMPRECISO; Estadão Verifica EXAGERADO (cerca de 17 anos e 4 meses: 2003 a 31/08/2016 e 2023-2026). Atlas da Violência: 2013 57.396; 2017 65.602 (pico, governo Temer); 2023 45.747 (menor em 31 anos). FBSP: taxa de MVI de 27,7 (2012) para 30,2 (2016) no governo Dilma; 19,1 em 2025 no governo Lula 3. Segurança é 80% gasto estadual.\n\n**Atualização (enriquecimento, 21/10/2026):** série longa (DATASUS/SIM, óbitos por agressão por local de ocorrência): 51.043 (2003), 48.374, 47.578, 49.145, 47.707, 50.113, 51.434, 52.260 (2010) e 52.198 (2011) — nos oito anos de Lula 1–2 oscilaram entre 47,6 mil e 52,3 mil (taxa 25–28 por 100 mil), sem tendência clara; a escalada até o pico de 2017 ocorreu em 2012–2017 (Atlas: 57.045 em 2012 e 65.602 em 2017). Taxa UNODC via Banco Mundial (por 100 mil): 31,2 (2017), 27,2 (2018), 21,2 (2019), 21,8 (2020), 20,5 (2021), 20,1 (2022), 19,3 (2023). A execução policial é estadual.",
   "o_que_e_verdade": [
     "A soma dos homicídios dos anos de governo do PT supera 770 mil.",
     "A taxa de homicídios subiu no governo Dilma (27,7 em 2012 para 30,2 em 2016)."
@@ -113,6 +113,22 @@
         "tier": "oficial"
       },
       "comparacao": null
+    },
+    {
+      "rotulo": "Óbitos por agressão em 2003, primeiro ano de Lula (SIM, local de ocorrência)",
+      "valor": 51043,
+      "unidade": "óbitos",
+      "periodo": "2003",
+      "fonte": {
+        "nome": "DATASUS/SIM — óbitos por agressões, 2003–2011 (TabNet)",
+        "url": "http://tabnet.datasus.gov.br/cgi/tabcgi.exe?sim/cnv/ext10uf.def",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "Óbitos em 2010",
+        "valor": 52260
+      }
     }
   ],
   "series": [
@@ -157,6 +173,18 @@
       "url": "https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026",
       "acesso_em": "2026-10-21",
       "tier": "checagem"
+    },
+    {
+      "nome": "DATASUS/SIM — óbitos por agressões, 2003–2011 (TabNet)",
+      "url": "http://tabnet.datasus.gov.br/cgi/tabcgi.exe?sim/cnv/ext10uf.def",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Atlas da Violência 2019 (Ipea/FBSP, PDF)",
+      "url": "https://www.ipea.gov.br/portal/images/stories/PDFs/relatorio_institucional/190605_atlas_da_violencia_2019.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/09_acusacoes_e_falas_flavio_x_lula.md",
@@ -184,6 +212,10 @@
     {
       "data": "2026-10-21",
       "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "enriquecimento rodada 2 (21/10/2026): série anual de homicídios 2003–2011 (SIM) e escalada de 2012–2017"
     }
   ],
   "exemplo": false

@@ -30,7 +30,7 @@
     "Em 2020, a Artigo 19 contou 1.682 declarações falsas no ano, cerca de 4,6 por dia.",
     "O número de Lula é mais que o dobro do medido; o Ranking classificou como falso e o Estadão Verifica como exagerado."
   ],
-  "explicacao_completa_md": "Ranking dos Políticos: FALSO; Estadão Verifica: EXAGERADO (Aos Fatos: média de 4,58/dia no mandato; Artigo 19: 1.682 em 2020). Para comparação, no 2º turno de 2026 o Aos Fatos contou 43 declarações enganosas de Flávio só sobre Vorcaro, e nas sabatinas da Globo checou 15 itens de Lula (12 verdadeiros) e 14 de Flávio (12 falsos).",
+  "explicacao_completa_md": "Ranking dos Políticos: FALSO; Estadão Verifica: EXAGERADO (Aos Fatos: média de 4,58/dia no mandato; Artigo 19: 1.682 em 2020). Para comparação, no 2º turno de 2026 o Aos Fatos contou 43 declarações enganosas de Flávio só sobre Vorcaro, e nas sabatinas da Globo checou 15 itens de Lula (12 verdadeiros) e 14 de Flávio (12 falsos).\n\n**Atualização (enriquecimento, 21/10/2026):** literal (legenda automática da live da Band, ≈20h39): '43 mentiras. Todo dia ele contava uma mentira e a empresa desmentia. […] O pai dele mentia 11 vezes por dia. Ele tá batendo record'.",
   "o_que_e_verdade": [
     "Bolsonaro acumulou milhares de declarações falsas ou distorcidas no mandato, segundo monitoramentos independentes (cerca de 4,6 por dia)."
   ],
@@ -119,6 +119,12 @@
       "url": "https://www.aosfatos.org/noticias/checamos-flavio-bolsonaro-globo-segundo-turno/",
       "acesso_em": "2026-10-21",
       "tier": "checagem"
+    },
+    {
+      "nome": "Band Jornalismo (YouTube, live integral do debate de 18/10/2026; legenda automática)",
+      "url": "https://www.youtube.com/watch?v=Gqc1rQtzWUk",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/09_acusacoes_e_falas_flavio_x_lula.md",
@@ -145,6 +151,10 @@
     {
       "data": "2026-10-21",
       "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "enriquecimento rodada 2 (21/10/2026): literal localizado na legenda automática do debate"
     }
   ],
   "exemplo": false

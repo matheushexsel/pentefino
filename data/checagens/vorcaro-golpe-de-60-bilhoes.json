@@ -26,13 +26,13 @@
     "economia"
   ],
   "veredito": "exagerado",
-  "resumo_uma_frase": "O prejuízo confirmado ao FGC era de R$ 51,8 bilhões segundo o Ranking dos Políticos (cerca de R$ 52 bilhões em fev/2026), com estimativas que vão de R$ 41 bilhões (nov/2025) a R$ 57,4 bilhões no total; R$ 60 bilhões está acima de todas as cifras documentadas.",
+  "resumo_uma_frase": "O prejuízo confirmado ao FGC era de R$ 51,8 bilhões segundo o Ranking dos Políticos (cerca de R$ 52 bilhões em fev/2026), com estimativas que vão de R$ 41 bilhões (nov/2025) a R$ 57,4 bilhões (estimativa de terceiros, não do FGC; os comunicados do FGC somam cerca de R$ 51,8 bilhões: Master R$ 40,6 bi, Will Bank R$ 6,3 bi, Pleno R$ 4,9 bi); R$ 60 bilhões está acima de todas as cifras documentadas.",
   "explicacao_simples": [
     "O rombo do Banco Master ao Fundo Garantidor de Créditos é enorme, mas o número varia conforme a data e o que se inclui.",
-    "As estimativas vão de R$ 41 bilhões (logo após a liquidação) a R$ 57,4 bilhões (total estimado com bancos ligados); R$ 60 bilhões arredonda para cima.",
+    "As estimativas vão de R$ 41 bilhões (logo após a liquidação) a R$ 57,4 bilhões (estimativa de terceiros); os comunicados do FGC somam cerca de R$ 51,8 bilhões com Will Bank e Pleno, e R$ 60 bilhões arredonda para cima.",
     "O Ranking dos Políticos classificou a frase como imprecisa, com prejuízo confirmado de R$ 51,8 bilhões."
   ],
-  "explicacao_completa_md": "Custo ao FGC segundo as fontes das notas: cerca de R$ 41 bilhões (CNN, 18/11/2025); cerca de R$ 47 bilhões incluindo o Will Bank (Agência Pública); cerca de R$ 52 bilhões (CNN, 18/02/2026); R$ 56 bilhões após a liquidação do Banco Pleno (Pública); provisão de R$ 40,6 bilhões no fim de 2025 e custo total estimado em R$ 57,4 bilhões (JGB); a Lupa citava R$ 49,4 bilhões já reembolsados em out/2026. O Ranking dos Políticos usou R$ 51,8 bilhões de prejuízo confirmado e classificou a frase de Lula como IMPRECISA. Vorcaro está preso preventivamente desde 04/03/2026 (primeira prisão em 17/11/2025); não há denúncia da PGR localizada, portanto 'golpe' é a descrição da acusação em investigação, não de uma condenação.",
+  "explicacao_completa_md": "Custo ao FGC segundo as fontes das notas: cerca de R$ 41 bilhões (CNN, 18/11/2025); cerca de R$ 47 bilhões incluindo o Will Bank (Agência Pública); cerca de R$ 52 bilhões (CNN, 18/02/2026); R$ 56 bilhões após a liquidação do Banco Pleno (Pública); provisão de R$ 40,6 bilhões no fim de 2025 e custo total estimado em R$ 57,4 bilhões (JGB, estimativa de terceiros); pelos comunicados do FGC, as garantias do Master foram revisadas para R$ 40,6 bilhões (R$ 37,2 bilhões pagos, 92%), com Will Bank R$ 6,3 bilhões e Pleno R$ 4,9 bilhões, soma de cerca de R$ 51,8 bilhões — o que coincide com o número do Ranking; a Lupa citava R$ 49,4 bilhões já reembolsados em out/2026. O Ranking dos Políticos usou R$ 51,8 bilhões de prejuízo confirmado e classificou a frase de Lula como IMPRECISA. Vorcaro está preso preventivamente desde 04/03/2026 (primeira prisão em 17/11/2025); não há denúncia da PGR localizada, portanto 'golpe' é a descrição da acusação em investigação, não de uma condenação.\n\n**Atualização (enriquecimento, 21/10/2026):** a delação de Vorcaro está encerrada: a PF recusou a 1ª proposta por volta de 20/05/2026 (alegou blindagem de aliados políticos), a PGR rejeitou a 2ª em 15/06/2026 e, em 01/09/2026, Paulo Gonet negou 'definitivamente' a 3ª tentativa (sem admissão efetiva dos crimes, sem fatos novos, divergência sobre devolução de valores); Vorcaro segue preso na Papudinha e não há denúncia da PGR/MPF localizada até 21/10/2026.",
   "o_que_e_verdade": [
     "O caso Master gerou dezenas de bilhões em reembolsos do FGC e Vorcaro está preso preventivamente."
   ],
@@ -148,6 +148,24 @@
       "url": "https://apublica.org/2026/03/banco-master-a-reconstrucao-completa-de-como-uma-fraude-capturou-a-republica/",
       "acesso_em": "2026-10-21",
       "tier": "imprensa"
+    },
+    {
+      "nome": "Suno (FGC, R$ 40,6 bi)",
+      "url": "https://www.suno.com.br/noticias/?p=640671",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Bora Investir/B3 (Will Bank e Pleno)",
+      "url": "https://borainvestir.b3.com.br/noticias/total-das-garantias-do-caso-master-no-fgc-passa-de-r-41-bi-veja-valores-e-como-resgatar/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Itatiaia, 01/09/2026 (delação negada)",
+      "url": "https://www.itatiaia.com.br/politica/pgr-nega-definitivamente-delacao-de-daniel-vorcaro",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/09_acusacoes_e_falas_flavio_x_lula.md",
@@ -175,10 +193,14 @@
     {
       "data": "2026-10-21",
       "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "enriquecimento rodada 2 (21/10/2026): custo ao FGC reconciliado (R$ 40,6 bi + R$ 11,2 bi; R$ 57,4 bi é estimativa de terceiros); delação encerrada"
     }
   ],
   "exemplo": false,
   "lacunas": [
-    "Valor final do custo ao FGC não verificado em fonte oficial do BC/FGC."
+    "Custo final ao FGC só por comunicados via imprensa (site fgc.org.br inacessível); a soma de R$ 51,8 bilhões é cálculo próprio."
   ]
 }

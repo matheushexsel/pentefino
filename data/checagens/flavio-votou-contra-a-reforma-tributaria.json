@@ -1,0 +1,157 @@
+{
+  "id": "chk-2111",
+  "slug": "flavio-votou-contra-a-reforma-tributaria",
+  "frase": "Flávio Bolsonaro votou contra a reforma tributária.",
+  "frase_normalizada": "flavio bolsonaro votou contra a reforma tributaria",
+  "variantes": [
+    "Flávio votou contra a cesta básica com alíquota zero"
+  ],
+  "autor": {
+    "nome": "frase que circula nas redes",
+    "partido": null,
+    "cargo": null
+  },
+  "lado": "ambos",
+  "alvo": {
+    "nome": "Flávio Bolsonaro",
+    "partido": "PL"
+  },
+  "data": "2023-11-08",
+  "onde": "Senado Federal (PEC 45/2019 e PLP 68/2024)",
+  "url_declaracao": "https://legis.senado.leg.br/dadosabertos/plenario/lista/votacao/20231108.json",
+  "temas": [
+    "impostos",
+    "eleicao-2026"
+  ],
+  "tags": [
+    "impostos",
+    "eleicao-2026"
+  ],
+  "veredito": "verdadeiro",
+  "resumo_uma_frase": "Verdadeiro: Flávio votou NÃO à PEC 45/2019 nos dois turnos (o 2º, em 08/11/2023, terminou 53 a 24) e NÃO ao texto-base da regulamentação (PLP 68/2024, 12/12/2024, 49 a 19), justificando-se com a alíquota de 28% do IVA; ele defendeu sem sucesso incluir armas e munições no Imposto Seletivo (33 a 32, eram necessários 41).",
+  "explicacao_simples": [
+    "Na votação da reforma tributária (PEC 45/2019), Flávio votou NÃO nos dois turnos; ela foi aprovada por 53 a 24 em 8 de novembro de 2023.",
+    "Na regulamentação (PLP 68/2024, que inclui a cesta básica com alíquota zero), também votou NÃO, em 12 de dezembro de 2024; o texto passou por 49 a 19.",
+    "Ele disse discordar da alíquota de 28% do IVA; hoje sua campanha diz que manterá a reforma, renegociando exceções."
+  ],
+  "explicacao_completa_md": "**PEC 45/2019:** a lista nominal de 08/11/2023 registra 53 Sim x 24 Não no 2º turno (mais 3 registros 'AP' e o presidente), com Flávio NÃO; no 1º turno (substitutivo, Emenda 803) também NÃO; votou SIM às emendas destacadas 805 e 806, rejeitadas, e NÃO, na véspera, ao calendário especial (RQS 988/2023). Segundo a CNN, só Eduardo Gomes, do PL, votou sim. A Emenda Constitucional 132 foi promulgada em 20/12/2023. **PLP 68/2024 (regulamentação do consumo):** NÃO ao substitutivo (Emenda 2.171) em 12/12/2024, aprovado por 49 a 19 segundo o Senado Notícias; NÃO à emenda 2.203 e SIM às 2.201 e 2.223, rejeitadas. Flávio defendeu emenda para devolver armas e munições ao Imposto Seletivo, derrotada por 33 a 32 (precisava de 41): 'O marginal compra arma em loja? Sabe quanto o Estado do Rio de Janeiro arrecadou de ICMS com [apreensão de fuzis]? Zero.' **Hoje:** segundo Daniella Marques, a campanha pretende manter a reforma tributária, renegociar exceções e acabar com o split payment.",
+  "o_que_e_verdade": [
+    "Flávio votou NÃO à reforma tributária (PEC 45/2019, 08/11/2023, 53 a 24) e à regulamentação (PLP 68/2024, 12/12/2024, 49 a 19)."
+  ],
+  "o_que_nao_se_sustenta": [
+    "Ler o voto como oposição a qualquer reforma: ele justificou o voto com a alíquota de 28% do IVA e sua campanha diz que manterá a reforma, renegociando exceções."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Flávio Bolsonaro (senador)",
+      "papel": "votou NÃO nos dois turnos da PEC e no texto-base da regulamentação",
+      "peso": "alto"
+    },
+    {
+      "ator": "Senado Federal",
+      "papel": "aprovou a PEC 45 (53 a 24) e o PLP 68 (49 a 19)",
+      "peso": "medio"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Placar da PEC 45/2019 no 2º turno do Senado",
+      "valor": 53,
+      "unidade": "votos a 24",
+      "periodo": "08/11/2023",
+      "fonte": {
+        "nome": "Senado, dados abertos — lista de votação de 08/11/2023",
+        "url": "https://legis.senado.leg.br/dadosabertos/plenario/lista/votacao/20231108.json",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Placar do texto-base da regulamentação (PLP 68/2024) no Senado",
+      "valor": 49,
+      "unidade": "votos a 19",
+      "periodo": "12/12/2024",
+      "fonte": {
+        "nome": "Senado Notícias, 12/12/2024",
+        "url": "https://www12.senado.leg.br/noticias/materias/2024/12/12/reforma-tributaria-aprovado-o-texto-base-da-regulamentacao-sobre-consumo",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Votos da emenda de Flávio para incluir armas e munições no Imposto Seletivo",
+      "valor": 33,
+      "unidade": "votos a 32 (eram necessários 41)",
+      "periodo": "12/12/2024",
+      "fonte": {
+        "nome": "Senado Notícias, 12/12/2024",
+        "url": "https://www12.senado.leg.br/noticias/materias/2024/12/12/reforma-tributaria-aprovado-o-texto-base-da-regulamentacao-sobre-consumo",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": null
+    }
+  ],
+  "series": [],
+  "checagens_externas": [],
+  "fontes": [
+    {
+      "nome": "Senado, dados abertos — lista de votação de 08/11/2023",
+      "url": "https://legis.senado.leg.br/dadosabertos/plenario/lista/votacao/20231108.json",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Senado Notícias, 12/12/2024",
+      "url": "https://www12.senado.leg.br/noticias/materias/2024/12/12/reforma-tributaria-aprovado-o-texto-base-da-regulamentacao-sobre-consumo",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "CNN Brasil (como votou cada senador na reforma)",
+      "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/reforma-tributaria-veja-como-votou-cada-senador/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Nota 08 deste projeto (programas)",
+      "url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/08_eleicao_2026_cenario_checagens.md",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/09_acusacoes_e_falas_flavio_x_lula.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "Como Flávio votou na reforma tributária?",
+      "resposta": "NÃO nos dois turnos da PEC 45/2019 (aprovada por 53 a 24 em 08/11/2023) e NÃO ao texto-base da regulamentação (49 a 19, em 12/12/2024)."
+    },
+    {
+      "pergunta": "Por que ele votou contra?",
+      "resposta": "Justificou com a alíquota de 28% do IVA; também tentou incluir armas e munições no Imposto Seletivo."
+    },
+    {
+      "pergunta": "Ele vai revogar a reforma?",
+      "resposta": "A campanha diz que vai mantê-la, renegociar exceções e acabar com o split payment (Daniella Marques)."
+    }
+  ],
+  "relacionadas": [
+    "flavio-votou-contra-o-arcabouco",
+    "flavio-votou-contra-a-isencao-do-ir",
+    "flavio-unico-voto-contra-licenca-maternidade",
+    "carga-tributaria-recorde"
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação (enriquecimento rodada 2, 21/10/2026)"
+    }
+  ],
+  "exemplo": false,
+  "lacunas": [
+    "Nenhuma checagem de agência nem autor específico da frase foram localizados; a lista individual do PLP 68 não foi publicada pela Agência Senado (o voto vem do registro nominal do senador)."
+  ]
+}

@@ -32,7 +32,7 @@
     "As assinaturas vieram depois que os áudios da negociação dele com Vorcaro vieram a público, em maio de 2026.",
     "A Lupa classificou a frase como exagerada."
   ],
-  "explicacao_completa_md": "A Lupa (JN, 28/08/2026) classificou como EXAGERADO: Flávio assinou 2 dos 5 pedidos de CPMI do Master, após os áudios de maio de 2026 revelados pelo Intercept. O Aos Fatos inclui a afirmação entre as 43 declarações enganosas de Flávio sobre o caso. Senadores impetraram mandado de segurança para instalar a CPI em 25/03/2026; a nota 05 não localiza CPI do Master instalada até out/2026.",
+  "explicacao_completa_md": "A Lupa (JN, 28/08/2026) classificou como EXAGERADO: Flávio assinou 2 dos 5 pedidos de CPMI do Master, após os áudios de maio de 2026 revelados pelo Intercept. O Aos Fatos inclui a afirmação entre as 43 declarações enganosas de Flávio sobre o caso. Senadores impetraram mandado de segurança para instalar a CPI em 25/03/2026; a nota 05 não localiza CPI do Master instalada até out/2026.\n\n**Atualização (enriquecimento, 21/10/2026):** a CPI do Master não foi instalada: em 21/05/2026 Davi Alcolumbre reiterou a resistência citando a proximidade das eleições; havia 8 requerimentos (6 com assinaturas suficientes) aguardando leitura; nenhuma notícia posterior de instalação até 21/10/2026.",
   "o_que_e_verdade": [
     "Flávio assinou dois pedidos de CPMI sobre o Master."
   ],
@@ -57,6 +57,19 @@
         "url": "https://www.agencialupa.org/checagem/2026/08/28/ao-vivo-checagem-da-entrevista-de-flavio-bolsonaro-ao-jornal-nacional/",
         "acesso_em": "2026-10-21",
         "tier": "checagem"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Requerimentos de CPI do Master aguardando leitura (21/05/2026)",
+      "valor": 8,
+      "unidade": "requerimentos (6 com assinaturas suficientes)",
+      "periodo": "2026-05-21",
+      "fonte": {
+        "nome": "Band, 21/05/2026",
+        "url": "https://www.band.com.br/noticias/jornal-da-noite/ultimas/davi-alcolumbre-nega-criacao-de-abertura-de-cpi-sobre-banco-master-202605212339",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
       },
       "comparacao": null
     }
@@ -94,6 +107,12 @@
       "url": "https://pt.wikipedia.org/wiki/Esc%C3%A2ndalo_do_Banco_Master",
       "acesso_em": "2026-10-21",
       "tier": "imprensa"
+    },
+    {
+      "nome": "Band, 21/05/2026",
+      "url": "https://www.band.com.br/noticias/jornal-da-noite/ultimas/davi-alcolumbre-nega-criacao-de-abertura-de-cpi-sobre-banco-master-202605212339",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/08_eleicao_2026_cenario_checagens.md",
@@ -120,6 +139,10 @@
     {
       "data": "2026-10-21",
       "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "enriquecimento rodada 2 (21/10/2026): status da CPI do Master (não instalada)"
     }
   ],
   "exemplo": false

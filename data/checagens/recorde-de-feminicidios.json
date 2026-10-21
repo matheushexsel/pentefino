@@ -34,7 +34,7 @@
     "Mas o total de mulheres assassinadas caiu, de 3.934 em 2022 para 3.539 em 2025; parte do aumento do feminicídio vem de melhor classificação dos casos.",
     "Quem registra e investiga esses crimes são as polícias estaduais; o governo federal atua com leis e fundos."
   ],
-  "explicacao_completa_md": "Ranking dos Políticos: VERDADEIRO (1.571 feminicídios em 2025, recorde); Lupa: FALTA CONTEXTO (total de mulheres mortas caiu de 3.934 em 2022 para 3.539 em 2025); Aos Fatos: o recorde se deve à melhora dos registros. Anuário 2026: feminicídios 1.504 (2024) para 1.571 (2025), +4,0%; 65,1% negras; 60,9% mortas por parceiro íntimo; tentativas 3.940 para 4.189 (+5,9%); descumprimento de medida protetiva 112.695 para 132.025 (+16,7%); homicídios de mulheres 3.728 para 3.539 (-5,5%). O feminicídio virou tipo penal autônomo pela Lei 14.994 (09/10/2024).",
+  "explicacao_completa_md": "Ranking dos Políticos: VERDADEIRO (1.571 feminicídios em 2025, recorde); Lupa: FALTA CONTEXTO (total de mulheres mortas caiu de 3.934 em 2022 para 3.539 em 2025); Aos Fatos: o recorde se deve à melhora dos registros. Anuário 2026: feminicídios 1.504 (2024) para 1.571 (2025), +4,0%; 65,1% negras; 60,9% mortas por parceiro íntimo; tentativas 3.940 para 4.189 (+5,9%); descumprimento de medida protetiva 112.695 para 132.025 (+16,7%); homicídios de mulheres 3.728 para 3.539 (-5,5%). O feminicídio virou tipo penal autônomo pela Lei 14.994 (09/10/2024).\n\n**Atualização (enriquecimento, 21/10/2026):** série nacional do FBSP (Anuário 2026): feminicídios 929 (2016), 1.075, 1.229, 1.330, 1.354, 1.347, 1.455, 1.475, 1.504 e 1.571 (2025) — a série comparável começa em 2016 porque a qualificadora só existe desde a Lei 13.104/2015; homicídios de mulheres (incluindo feminicídios) 4.245 (2016) → 3.539 (2025). A proporção de feminicídios entre os homicídios de mulheres subiu de 40,3% (2024) para 44,4% (2025).",
   "o_que_e_verdade": [
     "1.571 feminicídios em 2025, recorde da série (+4%).",
     "Tentativas de feminicídio e descumprimentos de medida protetiva também subiram."
@@ -105,6 +105,19 @@
       "valor": 132025,
       "unidade": "casos (+16,7%)",
       "periodo": "2025",
+      "fonte": {
+        "nome": "Anuário Brasileiro de Segurança Pública 2026 (FBSP, PDF)",
+        "url": "https://static.poder360.com.br/uploads/2026/07/anuario-seguranca-publica-23jul26.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Feminicídios no Brasil em 2016 (início da série comparável)",
+      "valor": 929,
+      "unidade": "casos",
+      "periodo": "2016",
       "fonte": {
         "nome": "Anuário Brasileiro de Segurança Pública 2026 (FBSP, PDF)",
         "url": "https://static.poder360.com.br/uploads/2026/07/anuario-seguranca-publica-23jul26.pdf",
@@ -200,6 +213,10 @@
     {
       "data": "2026-10-21",
       "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "enriquecimento rodada 2 (21/10/2026): série 2016–2025 de feminicídios e homicídios de mulheres (Anuário 2026)"
     }
   ],
   "exemplo": false

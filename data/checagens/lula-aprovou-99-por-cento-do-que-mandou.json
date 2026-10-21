@@ -32,7 +32,7 @@
     "Perdeu votações grandes: o IOF (383 a 98), a indicação de Messias ao STF (42 a 34, primeira rejeição desde 1894) e vários vetos derrubados.",
     "Só 23% das medidas provisórias viraram lei; o Aos Fatos classificou a frase como exagerada."
   ],
-  "explicacao_completa_md": "Aos Fatos (Globo, 15/10): EXAGEROU (derrotas: vetos derrubados no marco temporal e na desoneração; Messias rejeitado; 38 de 192 MPs viraram lei, cerca de 23%, segundo o Ranking dos Políticos, ago/2026). Nota 08: decreto do IOF derrubado por 383 a 98 (25/06/2025); Messias rejeitado por 42 a 34 (29/04/2026), primeira rejeição de indicado ao STF desde 1894; veto à Lei da Dosimetria derrubado (30/04/2026); PP e União Brasil romperam com o governo em 2025. Vitórias: isenção do IR até R$ 5 mil por unanimidade (2025), arcabouço (2023), reforma tributária (EC 132/2023), PEC da 6x1 aprovada no Senado em 14/10/2026. O Centrão (cerca de 253 deputados) controla quase metade da Câmara.",
+  "explicacao_completa_md": "Aos Fatos (Globo, 15/10): EXAGEROU (derrotas: vetos derrubados no marco temporal e na desoneração; Messias rejeitado; 38 de 192 MPs viraram lei, cerca de 23%, segundo o Ranking dos Políticos, ago/2026). Nota 08: decreto do IOF derrubado por 383 a 98 (25/06/2025); Messias rejeitado por 42 a 34 (29/04/2026), primeira rejeição de indicado ao STF desde 1894; veto à Lei da Dosimetria derrubado (30/04/2026); PP e União Brasil romperam com o governo em 2025. Vitórias: isenção do IR até R$ 5 mil por unanimidade (2025), arcabouço (2023), reforma tributária (EC 132/2023), PEC da 6x1 aprovada no Senado em 14/10/2026. O Centrão (cerca de 253 deputados) controla quase metade da Câmara.\n\n**Atualização (enriquecimento, 21/10/2026):** a rejeição de Jorge Messias está no registro da API do Senado: 34 Sim x 42 Não (29/04/2026, votação secreta). O fim da escala 6x1 (PEC 221/2019) passou no Senado em 14/10/2026 por 75 a 1 nos dois turnos, com voto SIM de Flávio (lista nominal). Duas pautas citadas como vitória do governo não tiveram votação nominal no Senado (isenção do IR até R$ 5 mil, 'votação unânime'; valorização do salário mínimo), e o arcabouço passou por 57 a 17 (21/06/2023).",
   "o_que_e_verdade": [
     "O governo aprovou pautas centrais: arcabouço fiscal, reforma tributária, isenção do IR até R$ 5 mil e a PEC do fim da 6x1."
   ],
@@ -119,6 +119,24 @@
       "url": "https://www12.senado.leg.br/noticias/materias/2026/04/29/indicacao-de-jorge-messias-ao-stf-e-rejeitada-pelo-senado",
       "acesso_em": "2026-10-21",
       "tier": "oficial"
+    },
+    {
+      "nome": "Senado, dados abertos — votações do senador 5894 (matérias de 2026)",
+      "url": "https://legis.senado.leg.br/dadosabertos/senador/5894/votacoes.json?ano=2026",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Senado, dados abertos — lista de votação de 14/10/2026",
+      "url": "https://legis.senado.leg.br/dadosabertos/plenario/lista/votacao/20261014.json",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Senado, dados abertos — lista de votação de 21/06/2023",
+      "url": "https://legis.senado.leg.br/dadosabertos/plenario/lista/votacao/20230621.json",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/08_eleicao_2026_cenario_checagens.md",
@@ -145,6 +163,10 @@
     {
       "data": "2026-10-21",
       "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "enriquecimento rodada 2 (21/10/2026): placares conferidos na API do Senado (Messias 34x42; 6x1 75x1; arcabouço 57x17)"
     }
   ],
   "exemplo": false

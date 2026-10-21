@@ -5,7 +5,8 @@
   "frase_normalizada": "o congresso aprovou a anistia aos presos do 8 de janeiro",
   "variantes": [
     "Bolsonaro vai ser solto pela lei da dosimetria",
-    "A anistia já é lei"
+    "A anistia já é lei",
+    "A anistia foi aprovada"
   ],
   "autor": {
     "nome": "frase que circula nas redes",
@@ -33,7 +34,7 @@
     "A lei foi aprovada pelo Congresso em dezembro de 2025, vetada por Lula, teve o veto derrubado em abril de 2026 e foi promulgada em maio.",
     "No dia seguinte à promulgação o ministro Moraes suspendeu a aplicação; até outubro de 2026 o STF não julgou o mérito, então ninguém teve a pena reduzida."
   ],
-  "explicacao_completa_md": "**Tramitação:** PL 2.162/2023 (autor Marcelo Crivella, Republicanos-RJ; relator Paulinho da Força, Solidariedade-SP). Câmara: 291 a 148 (10/12/2025); Senado: 48 a 25 (17/12/2025), com Flávio Bolsonaro votando SIM. Lula vetou integralmente em 08/01/2026; o Congresso derrubou o veto em 30/04/2026 (Câmara 318 a 144; Senado 49 a 24); Alcolumbre promulgou a Lei 15.402/2026 em 08/05/2026 após Lula deixar o prazo passar; Flávio disse que Bolsonaro 'ficou muito feliz com essa vitória'. **Conteúdo:** impede a soma das penas de golpe e abolição violenta (prevalece a mais grave, acrescida de 1/6 a 1/2); progressão de 1/4 para 1/6 para primários (30% reincidentes; 50% para líderes de organização criminosa hedionda); redução de 1/3 a 2/3 em 'contexto de multidão' (não para líderes e financiadores); remição por trabalho e estudo; vale para sentença definitiva; a redução não é automática (a defesa pede ao STF). O texto da Câmara abandonou a anistia. Potenciais beneficiários: Bolsonaro, Garnier, Paulo Sérgio Nogueira, Braga Netto, Heleno; a Asfav estima cerca de 600 beneficiários. **STF:** ADI 7966 (ABI) e ADI 7967 (PSOL-Rede); o relator Moraes suspendeu a lei em 09/05/2026 até o julgamento de mérito; em 03/08/2026 não havia data. Quaest (17/05/2026): 52% contra a redução de penas, 39% a favor. **Status em 21/10/2026:** lei promulgada e suspensa por decisão monocrática; nenhuma pena reduzida; Bolsonaro segue com 27 anos e 3 meses em domiciliar por saúde.",
+  "explicacao_completa_md": "**Tramitação:** PL 2.162/2023 (autor Marcelo Crivella, Republicanos-RJ; relator Paulinho da Força, Solidariedade-SP). Câmara: 291 a 148 (10/12/2025); Senado: 48 a 25 (17/12/2025), com Flávio Bolsonaro votando SIM. Lula vetou integralmente em 08/01/2026; o Congresso derrubou o veto em 30/04/2026 (Câmara 318 a 144; Senado 49 a 24); Alcolumbre promulgou a Lei 15.402/2026 em 08/05/2026 após Lula deixar o prazo passar; Flávio disse que Bolsonaro 'ficou muito feliz com essa vitória'. **Conteúdo:** impede a soma das penas de golpe e abolição violenta (prevalece a mais grave, acrescida de 1/6 a 1/2); progressão de 1/4 para 1/6 para primários (30% reincidentes; 50% para líderes de organização criminosa hedionda); redução de 1/3 a 2/3 em 'contexto de multidão' (não para líderes e financiadores); remição por trabalho e estudo; vale para sentença definitiva; a redução não é automática (a defesa pede ao STF). O texto da Câmara abandonou a anistia. Potenciais beneficiários: Bolsonaro, Garnier, Paulo Sérgio Nogueira, Braga Netto, Heleno; a Asfav estima cerca de 600 beneficiários. **STF:** ADI 7966 (ABI) e ADI 7967 (PSOL-Rede); o relator Moraes suspendeu a lei em 09/05/2026 até o julgamento de mérito; em 03/08/2026 não havia data. Quaest (17/05/2026): 52% contra a redução de penas, 39% a favor. **Status em 21/10/2026:** lei promulgada e suspensa por decisão monocrática; nenhuma pena reduzida; Bolsonaro segue com 27 anos e 3 meses em domiciliar por saúde.\n\n**Atualização (enriquecimento, 21/10/2026):** o voto SIM de Flávio Bolsonaro em 17/12/2025 está confirmado no registro nominal da API de dados abertos do Senado (senador 5894). Universo potencialmente afetado: segundo a Agência Brasil (30/04/2026), 1.402 pessoas foram responsabilizadas pelo 8/1, das quais 850 condenadas (431 a prisão, 419 a penas alternativas) e 552 com acordo de não persecução penal — estas não têm pena a reduzir.",
   "o_que_e_verdade": [
     "O Congresso aprovou e promulgou uma lei que reduz penas dos condenados por crimes contra o Estado democrático, derrubando o veto de Lula.",
     "Bolsonaro e outros condenados do núcleo 1 seriam potenciais beneficiários."
@@ -184,6 +185,12 @@
       "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15402.htm",
       "acesso_em": "2026-10-21",
       "tier": "oficial"
+    },
+    {
+      "nome": "Senado, dados abertos — votações nominais do senador 5894 (matérias de 2023)",
+      "url": "https://legis.senado.leg.br/dadosabertos/senador/5894/votacoes.json?ano=2023",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/05_escandalos_recentes_inss_master_bolsonaro.md",
@@ -215,6 +222,10 @@
     {
       "data": "2026-10-21",
       "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "enriquecimento rodada 2 (21/10/2026): voto SIM de Flávio confirmado na API do Senado; universo do 8/1 (850 condenados + 552 ANPPs); variante 'a anistia foi aprovada' (o registro cobre esse enunciado; não foi criado registro duplicado)"
     }
   ],
   "exemplo": false,

@@ -32,7 +32,7 @@
     "Não existe investigação, denúncia ou prova de vínculo de Flávio com a facção.",
     "O caso espelha as acusações, também sem prova, de que Lula seria ligado ao PCC e ao CV, igualmente removidas pelo TSE."
   ],
-  "explicacao_completa_md": "TSE (15/10/2026, unânime): remoção em 24 horas de vídeo de Fabrício Santos Vargas ligando Flávio ao Comando Vermelho, a pedido do PL; na mesma sessão o TSE removeu seis vídeos de Flávio e Nikolas sobre Lulinha. A ligação documentada de Flávio no campo da segurança é com Adriano da Nóbrega (milícia/'Escritório do Crime', emprego de parentes e homenagem), não com o Comando Vermelho; Lula o chamou de 'miliciano', qualificação sem lastro judicial.",
+  "explicacao_completa_md": "TSE (15/10/2026, unânime): remoção em 24 horas de vídeo de Fabrício Santos Vargas ligando Flávio ao Comando Vermelho, a pedido do PL; na mesma sessão o TSE removeu seis vídeos de Flávio e Nikolas sobre Lulinha. A ligação documentada de Flávio no campo da segurança é com Adriano da Nóbrega (milícia/'Escritório do Crime', emprego de parentes e homenagem), não com o Comando Vermelho; Lula o chamou de 'miliciano', qualificação sem lastro judicial.\n\n**Atualização (enriquecimento, 21/10/2026):** a Lupa classificou como FALSO, em 03/06/2026, que o FBI tenha pedido a prisão de Flávio por ligação com facções; a peça citava o deputado Lindbergh Farias (PT), que foi à Interpol pedir investigação de Flávio.",
   "o_que_e_verdade": [
     "Nada; não há evidência de vínculo."
   ],
@@ -73,6 +73,12 @@
       "veredito_original": "remoção do vídeo em 24 horas",
       "url": "https://www.metropoles.com/brasil/tse-atende-a-lula-e-flavio-e-determina-a-remocao-de-conteudos-das-redes",
       "data": "2026-10-15"
+    },
+    {
+      "veiculo": "Agência Lupa",
+      "veredito_original": "FALSO ('o FBI pediu a prisão de Flávio Bolsonaro por ligação com facções')",
+      "url": "https://www.agencialupa.org/verificacao/2026/06/03/e-falso-que-o-fbi-pediu-a-prisao-de-flavio-bolsonaro-por-ligacao-com-faccoes/",
+      "data": "2026-06-03"
     }
   ],
   "fontes": [
@@ -81,6 +87,12 @@
       "url": "https://www.metropoles.com/brasil/tse-atende-a-lula-e-flavio-e-determina-a-remocao-de-conteudos-das-redes",
       "acesso_em": "2026-10-21",
       "tier": "imprensa"
+    },
+    {
+      "nome": "Agência Lupa",
+      "url": "https://www.agencialupa.org/verificacao/2026/06/03/e-falso-que-o-fbi-pediu-a-prisao-de-flavio-bolsonaro-por-ligacao-com-faccoes/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/09_acusacoes_e_falas_flavio_x_lula.md",
@@ -108,10 +120,14 @@
     {
       "data": "2026-10-21",
       "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "enriquecimento rodada 2 (21/10/2026): checagem correlata da Lupa (FBI, 03/06/2026)"
     }
   ],
   "exemplo": false,
   "lacunas": [
-    "A nota 09 registra apenas a decisão do TSE; não há checagem de agência com esta redação."
+    "Nenhuma checagem de agência com a redação exata; a Lupa (03/06/2026) checou peça correlata (FBI) e o TSE removeu o vídeo de 15/10."
   ]
 }
