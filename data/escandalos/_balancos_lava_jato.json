@@ -1,0 +1,660 @@
+{
+  "id": "_balancos_lava_jato",
+  "nome": "Balanços da Lava Jato (MPF) e recursos recebidos pela Petrobras",
+  "descricao": "Balanços públicos da Lava Jato em datas diferentes (séries não idênticas: algumas só Curitiba, outras todas as frentes) e marcos de recursos recebidos pela Petrobras. O MPF não publica balanço desde o encerramento da força-tarefa (15/02/2021) e a página oficial de resultados está offline; os números são um teto histórico, não um retrato de 2026, porque várias condenações foram anuladas depois.",
+  "balancos_mpf": [
+    {
+      "data": "2018-11-01",
+      "abrangencia": "Curitiba (Moro)",
+      "fonte": {
+        "nome": "Congresso em Foco, 01/11/2018: Moro condenou 140 a penas que ultrapassam 2 mil anos",
+        "url": "https://congressoemfoco.com.br/corrupcao/moro-condenou-140-a-penas-que-ultrapassam-2-mil-anos-veja-numeros-do-juiz-na-lava-jato",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "indicadores": [
+        {
+          "rotulo": "Acusados",
+          "valor": 347,
+          "unidade": "pessoas"
+        },
+        {
+          "rotulo": "Condenações",
+          "valor": 200,
+          "unidade": "condenações (mais de)"
+        },
+        {
+          "rotulo": "Pessoas condenadas",
+          "valor": 140,
+          "unidade": "pessoas (ao menos)"
+        },
+        {
+          "rotulo": "Soma de penas",
+          "valor": 2036,
+          "unidade": "anos"
+        },
+        {
+          "rotulo": "Buscas",
+          "valor": 1072,
+          "unidade": "mandados (ao menos)"
+        },
+        {
+          "rotulo": "Pedidos de ressarcimento",
+          "valor": 40,
+          "unidade": "R$ bilhões (aproximado)"
+        }
+      ]
+    },
+    {
+      "data": "2019-03-17",
+      "abrangencia": "Curitiba, Rio, STF, TRF-4 e total (PGR)",
+      "fonte": {
+        "nome": "Poder360, 17/03/2019: 5 anos de Lava Jato — 285 condenações, 600 réus e 3.000 anos de penas",
+        "url": "https://www.poder360.com.br/lava-jato/5-anos-de-lava-jato-285-condenacoes-600-reus-e-3-000-anos-de-penas/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "indicadores": [
+        {
+          "rotulo": "Fases",
+          "valor": 60,
+          "unidade": "fases"
+        },
+        {
+          "rotulo": "Denúncias em Curitiba",
+          "valor": 91,
+          "unidade": "denúncias (426 acusados)"
+        },
+        {
+          "rotulo": "Réus em todas as frentes (PGR)",
+          "valor": 600,
+          "unidade": "pessoas (mais de)"
+        },
+        {
+          "rotulo": "Condenações em Curitiba",
+          "valor": 242,
+          "unidade": "condenações (155 pessoas)"
+        },
+        {
+          "rotulo": "Condenações no total",
+          "valor": 285,
+          "unidade": "condenações"
+        },
+        {
+          "rotulo": "Condenados no Rio",
+          "valor": 40,
+          "unidade": "pessoas (em 9 sentenças)"
+        },
+        {
+          "rotulo": "STF: condenações / absolvições",
+          "valor": 1,
+          "unidade": "condenação (Nelson Meurer) e 1 absolvição (Gleisi Hoffmann)"
+        },
+        {
+          "rotulo": "Soma de penas em Curitiba",
+          "valor": 2242,
+          "unidade": "anos"
+        },
+        {
+          "rotulo": "Soma de penas no Rio",
+          "valor": 665.5,
+          "unidade": "anos (665a6m)"
+        },
+        {
+          "rotulo": "Soma de penas no total",
+          "valor": 3093,
+          "unidade": "anos (3.093a11m23d)"
+        },
+        {
+          "rotulo": "Buscas (PR+RJ)",
+          "valor": 1644,
+          "unidade": "mandados"
+        },
+        {
+          "rotulo": "Prisões preventivas (PR+RJ)",
+          "valor": 347,
+          "unidade": "mandados"
+        },
+        {
+          "rotulo": "Prisões temporárias (PR+RJ)",
+          "valor": 196,
+          "unidade": "mandados"
+        },
+        {
+          "rotulo": "TRF-4: apelações julgadas",
+          "valor": 35,
+          "unidade": "apelações (185 réus)"
+        },
+        {
+          "rotulo": "TRF-4: condenações mantidas",
+          "valor": 138,
+          "unidade": "condenações (43 aumentadas, 32 reduzidas, 63 iguais)"
+        },
+        {
+          "rotulo": "TRF-4: decisões reformadas",
+          "valor": 17,
+          "unidade": "decisões (9 para condenação, 9 para absolvição, segundo a fonte)",
+          "nota": "A fonte soma 9 + 9 = 18 para 17 reformadas; divergência na própria reportagem."
+        }
+      ]
+    },
+    {
+      "data": "2019-10",
+      "abrangencia": "Curitiba (balanço MPF)",
+      "fonte": {
+        "nome": "Jovem Pan, out/2019: valor devolvido pela Lava Jato ultrapassa R$ 4 bilhões",
+        "url": "https://jovempan.com.br/brasil/valor-devolvido-operacao-lava-jato-ultrapassa-r-4-bilhoes/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "indicadores": [
+        {
+          "rotulo": "Total restituído",
+          "valor": 4,
+          "unidade": "R$ bilhões (mais de)"
+        },
+        {
+          "rotulo": "Restituído à Petrobras",
+          "valor": 3,
+          "unidade": "R$ bilhões (aproximado)"
+        },
+        {
+          "rotulo": "Restituído à União",
+          "valor": 410,
+          "unidade": "R$ milhões (mais de)"
+        },
+        {
+          "rotulo": "Soma de penas",
+          "valor": 2249,
+          "unidade": "anos",
+          "fonte": {
+            "nome": "Folha Vitória/Estadão Conteúdo, out/2019: Lava Jato devolveu R$ 4 bi e penas somam 2.249 anos",
+            "url": "https://www.folhavitoria.com.br/politica/lava-jato-ja-devolveu-r-4-bi-e-impos-penas-que-somam-2-249-anos-de-prisao/",
+            "acesso_em": "2026-10-21",
+            "tier": "imprensa"
+          }
+        }
+      ]
+    },
+    {
+      "data": "2019-12",
+      "abrangencia": "Curitiba, Rio, São Paulo, STF e STJ (tabela MPF 'última atualização 12/2019', reproduzida pela Wikipédia; página oficial offline)",
+      "fonte": {
+        "nome": "MPF, Caso Lava Jato — resultados (HTTP 404 em 21/10/2026)",
+        "url": "http://www.mpf.mp.br/grandes-casos/lava-jato/resultados",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "fonte_reproducao": {
+        "nome": "Wikipédia pt, Operação Lava Jato (índice)",
+        "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Lava_Jato",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "frentes": [
+        {
+          "frente": "Curitiba (1ª inst.)",
+          "denuncias": 113,
+          "acoes_penais": 116,
+          "condenados": 159,
+          "colaboracoes": 49,
+          "leniencias": 14,
+          "operacoes": 68,
+          "denunciados": 484,
+          "devolvido": {
+            "valor": 4,
+            "unidade": "R$ bilhões"
+          }
+        },
+        {
+          "frente": "Rio (1ª inst.)",
+          "denuncias": 56,
+          "acoes_penais": 56,
+          "condenados": 41,
+          "colaboracoes": 37,
+          "leniencias": 3,
+          "operacoes": 39,
+          "denunciados": 339,
+          "devolvido": null
+        },
+        {
+          "frente": "São Paulo (1ª inst.)",
+          "denuncias": 13,
+          "acoes_penais": 14,
+          "condenados": 4,
+          "colaboracoes": 10,
+          "leniencias": 2,
+          "operacoes": 6,
+          "denunciados": 76,
+          "devolvido": null
+        },
+        {
+          "frente": "STF",
+          "denuncias": 45,
+          "inqueritos": 71,
+          "denunciados": 126
+        },
+        {
+          "frente": "STJ",
+          "acoes_penais": 2,
+          "denunciados": 7
+        }
+      ],
+      "totais_aproximados": {
+        "denuncias_1a_instancia": 182,
+        "condenados": 204,
+        "colaboracoes": 96,
+        "leniencias": 19,
+        "fases": 80,
+        "nota": "Somas da nota de pesquisa (Curitiba + Rio + SP; STF)."
+      }
+    },
+    {
+      "data": "2021-02-15",
+      "abrangencia": "Curitiba — balanço de encerramento da força-tarefa (MPF-PR, via Folhapress)",
+      "fonte": {
+        "nome": "Band/Folhapress, 15/02/2021: saiba o que aconteceu com os principais alvos da Lava Jato de Curitiba (balanço de encerramento, MPF-PR)",
+        "url": "https://www.bandab.com.br/politica/saiba-o-que-aconteceu-com-os-principais-alvos-da-lava-jato-de-curitiba/amp/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "indicadores": [
+        {
+          "rotulo": "Fases",
+          "valor": 80,
+          "unidade": "fases"
+        },
+        {
+          "rotulo": "Ações penais",
+          "valor": 179,
+          "unidade": "ações penais"
+        },
+        {
+          "rotulo": "Condenados (1ª e 2ª instâncias)",
+          "valor": 174,
+          "unidade": "pessoas"
+        },
+        {
+          "rotulo": "Acordos de colaboração",
+          "valor": 209,
+          "unidade": "acordos"
+        },
+        {
+          "rotulo": "Acordos de leniência",
+          "valor": 17,
+          "unidade": "acordos"
+        },
+        {
+          "rotulo": "Buscas",
+          "valor": 1455,
+          "unidade": "mandados"
+        },
+        {
+          "rotulo": "Mandados de prisão",
+          "valor": 295,
+          "unidade": "mandados"
+        },
+        {
+          "rotulo": "Devolvido aos cofres públicos",
+          "valor": 4.3,
+          "unidade": "R$ bilhões"
+        },
+        {
+          "rotulo": "Multas previstas em acordos",
+          "valor": 14.8,
+          "unidade": "R$ bilhões"
+        },
+        {
+          "rotulo": "Renúncias voluntárias",
+          "valor": 111.5,
+          "unidade": "R$ milhões"
+        }
+      ]
+    }
+  ],
+  "outros_numeros_mpf": [
+    {
+      "rotulo": "Ressarcimento pedido pelo MPF (2015)",
+      "valor": 14.5,
+      "unidade": "R$ bilhões",
+      "fonte": {
+        "nome": "Congresso em Foco, 2015: Lava Jato recuperou R$ 2,8 bi, diz MPF",
+        "url": "https://congressoemfoco.com.br/noticia/46993/lava-jato-recuperou-r-28-bi-desviados-diz-mpf",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Recuperado até 2015 (19% do pedido)",
+      "valor": 2.8,
+      "unidade": "R$ bilhões",
+      "fonte": {
+        "nome": "Congresso em Foco, 2015: Lava Jato recuperou R$ 2,8 bi, diz MPF",
+        "url": "https://congressoemfoco.com.br/noticia/46993/lava-jato-recuperou-r-28-bi-desviados-diz-mpf",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Leniências homologadas pela 5ª CCR do MPF (2014–2019)",
+      "valor": 31,
+      "unidade": "acordos (14 de Curitiba)",
+      "fonte": {
+        "nome": "Band: 5ª CCR do MPF homologou 31 acordos de leniência",
+        "url": "https://www.bandab.com.br/?p=551089",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Valor previsto nas leniências do MPF (2014–2019)",
+      "valor": 22,
+      "unidade": "R$ bilhões (mais de; Curitiba >R$ 14 bi)",
+      "fonte": {
+        "nome": "Band: 5ª CCR do MPF homologou 31 acordos de leniência",
+        "url": "https://www.bandab.com.br/?p=551089",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Pedidos em ações civis do MPF-PR e AGU (abr/2017)",
+      "valor": 70,
+      "unidade": "R$ bilhões (quase; R$ 19,6 bi para a Petrobras)",
+      "fonte": {
+        "nome": "Wikipédia pt, Operação Lava Jato (índice)",
+        "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Lava_Jato",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Condenações em Curitiba (2019; 159 pessoas)",
+      "valor": 244,
+      "unidade": "condenações",
+      "fonte": {
+        "nome": "A Gazeta, jul/2019: Lava Jato devolve R$ 424 milhões à Petrobras",
+        "url": "https://www.agazeta.com.br/brasil/lava-jato-devolve-r-424-milhoes-a-petrobras-0719",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    }
+  ],
+  "petrobras_recebimentos": [
+    {
+      "data": "2019-07",
+      "evento": "Devolução de R$ 424 mi à Petrobras",
+      "valor": 424,
+      "unidade": "R$ milhões",
+      "acumulado": null,
+      "fonte": {
+        "nome": "A Gazeta, jul/2019: Lava Jato devolve R$ 424 milhões à Petrobras",
+        "url": "https://www.agazeta.com.br/brasil/lava-jato-devolve-r-424-milhoes-a-petrobras-0719",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "data": "2021-03",
+      "evento": "Samsung Heavy Industries: 1ª parcela de R$ 360 mi (de R$ 705,9 mi); SBM ~R$ 1,1 bi",
+      "valor": 360,
+      "unidade": "R$ milhões",
+      "acumulado": {
+        "valor": 5.3,
+        "unidade": "R$ bilhões"
+      },
+      "fonte": {
+        "nome": "Forbes, mar/2021: Petrobras recebe R$ 360 mi da Samsung Heavy",
+        "url": "https://forbes.com.br/forbes-money/2021/03/petrobras-recebe-r-360-mi-por-1a-parcela-de-acordo-de-leniencia-da-samsung-heavy-industries/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "data": "2021-06-25",
+      "evento": "Technip/Flexibras: última parcela de R$ 271,1 mi (parcelas anteriores R$ 578,3 mi em 2019–2020)",
+      "valor": 271.1,
+      "unidade": "R$ milhões",
+      "acumulado": {
+        "valor": 6,
+        "unidade": "R$ bilhões (mais de)"
+      },
+      "fonte": {
+        "nome": "Forbes, jun/2021: Petrobras recebe mais R$ 271 milhões de leniência",
+        "url": "https://forbes.com.br/forbes-money/2021/06/petrobras-recebe-mais-r-271-milhoes-de-acordo-de-leniencia-no-ambito-da-lava-jato/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "data": "2021-12-28",
+      "evento": "Carioca Engenharia (colaboração MPF/RJ); mais de R$ 1,2 bi recuperados em 2021",
+      "valor": 1.2,
+      "unidade": "R$ bilhões (recuperado em 2021, mais de)",
+      "acumulado": {
+        "valor": 6.17,
+        "unidade": "R$ bilhões (aproximado; projeção de fechamento de 2021)"
+      },
+      "fonte": {
+        "nome": "BP Money, 28/12/2021: Petrobras recupera recursos da Carioca Engenharia",
+        "url": "https://bpmoney.com.br/?p=153746",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "data": "2022-11-01",
+      "evento": "Camargo Corrêa, Novonor e SBM (leniências) + Pedro Barusco (colaboração): R$ 439 mi no trimestre; Novonor paga o restante em 22 parcelas anuais",
+      "valor": 439,
+      "unidade": "R$ milhões",
+      "acumulado": {
+        "valor": 6.7,
+        "unidade": "R$ bilhões (mais de)"
+      },
+      "fonte": {
+        "nome": "Agência Petrobras, 01/11/2022: Petrobras recupera R$ 439 milhões por acordos de leniência e colaboração",
+        "url": "https://agencia.petrobras.com.br/w/petrobras-recupera-r-439-milhoes-por-meio-de-acordos-de-leniencia-da-camargo-correa-novonor-s.a-e-sbm-e-acordo-de-colaboracao",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "fonte_reproducao": {
+        "nome": "Suno, 01/11/2022: Petrobras recebeu mais de R$ 6,7 bi de acordos da Lava Jato",
+        "url": "https://www.suno.com.br/noticias/?p=314459",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "data": "2023-01-16",
+      "evento": "UOP LLC (Honeywell), leniência CGU/AGU",
+      "valor": 456,
+      "unidade": "R$ milhões (aproximado)",
+      "acumulado": {
+        "valor": 7.1,
+        "unidade": "R$ bilhões (aproximado)",
+        "nota": "Soma própria (R$ 6,7 bi + ~R$ 0,456 bi); a Petrobras não informou o acumulado."
+      },
+      "fonte": {
+        "nome": "Agência Petrobras, 16/01/2023: Petrobras recebe nova devolução de recursos (UOP LLC)",
+        "url": "https://agencia.petrobras.com.br/w/petrobras-recebe-nova-devolucao-de-recursos",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    {
+      "data": "2023–2026",
+      "evento": "Nenhum comunicado posterior localizado na Agência Petrobras (buscas 'leniência', 'devolução de recursos', 'ressarcimento').",
+      "valor": null,
+      "unidade": null,
+      "acumulado": null,
+      "fonte": {
+        "nome": "Agência Petrobras, busca por 'leniência' (nenhum comunicado após jan/2023)",
+        "url": "https://agencia.petrobras.com.br/busca?q=leni%C3%AAncia",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    }
+  ],
+  "petrobras_outros": [
+    {
+      "rotulo": "Valor ainda buscado pela Petrobras em 8 ações de improbidade (data não especificada)",
+      "valor": 5.5,
+      "unidade": "R$ bilhões (aproximado)",
+      "fonte": {
+        "nome": "Brasil61: Petrobras já recuperou mais de R$ 4,5 bi por leniências e delações",
+        "url": "https://brasil61.com/noticias/petrobras-ja-recuperou-mais-de-r-4-5-bi-por-meio-de-acordos-de-leniencia-e-delacoes-premiadas-bras200592",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "nao_verificado": true
+    },
+    {
+      "rotulo": "Devolvido via delações desde 2014 (levantamento d'O Globo, data não especificada)",
+      "valor": 1.837,
+      "unidade": "R$ bilhões (aproximado)",
+      "fonte": {
+        "nome": "Wikipédia pt, Operação Lava Jato (índice)",
+        "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Lava_Jato",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "nao_verificado": true
+    },
+    {
+      "rotulo": "Perda reconhecida pela Petrobras com desvios (baixa contábil no balanço de 2014)",
+      "valor": 6.2,
+      "unidade": "R$ bilhões",
+      "fonte": {
+        "nome": "Estado de Minas, 22/01/2015: balanço do prejuízo com a corrupção",
+        "url": "https://www.em.com.br/app/noticia/politica/2015/01/22/interna_politica,610365/balanco-do-prejuizo-com-a-corrupcao.shtml",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    }
+  ],
+  "lacunas": [
+    "Página oficial de resultados do MPF offline (HTTP 404 em 21/10/2026) e web.archive.org bloqueado; não há balanço oficial do MPF posterior a 15/02/2021.",
+    "Página 'Lava Jato em números' do TRF-4 não localizada; dados do TRF-4 são de mar/2019 (Poder360).",
+    "Petrobras: nenhum comunicado com total acumulado posterior a 01/11/2022 (R$ 6,7 bi) além da UOP (16/01/2023); PDFs trimestrais (3T22, 1T23, 3T23) e Form 20-F não lidos. Não existe série oficial anual.",
+    "As séries não são comparáveis entre si: 2018 e 15/02/2021 referem-se a Curitiba; mar/2019 e dez/2019 incluem outras frentes.",
+    "Não há balanço oficial do MPF (5ª CCR) de valores efetivamente pagos nas leniências J&F/Novonor/Camargo/Andrade; o lado CGU está em _leniencias_cgu.json."
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/04_escandalos_mensalao_petrolao_lavajato.md",
+  "fontes": [
+    {
+      "nome": "Congresso em Foco, 01/11/2018: Moro condenou 140 a penas que ultrapassam 2 mil anos",
+      "url": "https://congressoemfoco.com.br/corrupcao/moro-condenou-140-a-penas-que-ultrapassam-2-mil-anos-veja-numeros-do-juiz-na-lava-jato",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Poder360, 17/03/2019: 5 anos de Lava Jato — 285 condenações, 600 réus e 3.000 anos de penas",
+      "url": "https://www.poder360.com.br/lava-jato/5-anos-de-lava-jato-285-condenacoes-600-reus-e-3-000-anos-de-penas/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Jovem Pan, out/2019: valor devolvido pela Lava Jato ultrapassa R$ 4 bilhões",
+      "url": "https://jovempan.com.br/brasil/valor-devolvido-operacao-lava-jato-ultrapassa-r-4-bilhoes/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Folha Vitória/Estadão Conteúdo, out/2019: Lava Jato devolveu R$ 4 bi e penas somam 2.249 anos",
+      "url": "https://www.folhavitoria.com.br/politica/lava-jato-ja-devolveu-r-4-bi-e-impos-penas-que-somam-2-249-anos-de-prisao/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "MPF, Caso Lava Jato — resultados (HTTP 404 em 21/10/2026)",
+      "url": "http://www.mpf.mp.br/grandes-casos/lava-jato/resultados",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Wikipédia pt, Operação Lava Jato (índice)",
+      "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Lava_Jato",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Band/Folhapress, 15/02/2021: saiba o que aconteceu com os principais alvos da Lava Jato de Curitiba (balanço de encerramento, MPF-PR)",
+      "url": "https://www.bandab.com.br/politica/saiba-o-que-aconteceu-com-os-principais-alvos-da-lava-jato-de-curitiba/amp/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Congresso em Foco, 2015: Lava Jato recuperou R$ 2,8 bi, diz MPF",
+      "url": "https://congressoemfoco.com.br/noticia/46993/lava-jato-recuperou-r-28-bi-desviados-diz-mpf",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Band: 5ª CCR do MPF homologou 31 acordos de leniência",
+      "url": "https://www.bandab.com.br/?p=551089",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "A Gazeta, jul/2019: Lava Jato devolve R$ 424 milhões à Petrobras",
+      "url": "https://www.agazeta.com.br/brasil/lava-jato-devolve-r-424-milhoes-a-petrobras-0719",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Forbes, mar/2021: Petrobras recebe R$ 360 mi da Samsung Heavy",
+      "url": "https://forbes.com.br/forbes-money/2021/03/petrobras-recebe-r-360-mi-por-1a-parcela-de-acordo-de-leniencia-da-samsung-heavy-industries/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Forbes, jun/2021: Petrobras recebe mais R$ 271 milhões de leniência",
+      "url": "https://forbes.com.br/forbes-money/2021/06/petrobras-recebe-mais-r-271-milhoes-de-acordo-de-leniencia-no-ambito-da-lava-jato/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "BP Money, 28/12/2021: Petrobras recupera recursos da Carioca Engenharia",
+      "url": "https://bpmoney.com.br/?p=153746",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Agência Petrobras, 01/11/2022: Petrobras recupera R$ 439 milhões por acordos de leniência e colaboração",
+      "url": "https://agencia.petrobras.com.br/w/petrobras-recupera-r-439-milhoes-por-meio-de-acordos-de-leniencia-da-camargo-correa-novonor-s.a-e-sbm-e-acordo-de-colaboracao",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Suno, 01/11/2022: Petrobras recebeu mais de R$ 6,7 bi de acordos da Lava Jato",
+      "url": "https://www.suno.com.br/noticias/?p=314459",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Agência Petrobras, 16/01/2023: Petrobras recebe nova devolução de recursos (UOP LLC)",
+      "url": "https://agencia.petrobras.com.br/w/petrobras-recebe-nova-devolucao-de-recursos",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Agência Petrobras, busca por 'leniência' (nenhum comunicado após jan/2023)",
+      "url": "https://agencia.petrobras.com.br/busca?q=leni%C3%AAncia",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Brasil61: Petrobras já recuperou mais de R$ 4,5 bi por leniências e delações",
+      "url": "https://brasil61.com/noticias/petrobras-ja-recuperou-mais-de-r-4-5-bi-por-meio-de-acordos-de-leniencia-e-delacoes-premiadas-bras200592",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Estado de Minas, 22/01/2015: balanço do prejuízo com a corrupção",
+      "url": "https://www.em.com.br/app/noticia/politica/2015/01/22/interna_politica,610365/balanco-do-prejuizo-com-a-corrupcao.shtml",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "atualizado_em": "2026-10-21"
+}

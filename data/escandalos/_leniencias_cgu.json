@@ -1,0 +1,748 @@
+{
+  "id": "_leniencias_cgu",
+  "nome": "Acordos de leniência da CGU/AGU (Lei Anticorrupção): valores acordados por empresa",
+  "descricao": "Tabela dos acordos de leniência celebrados pela CGU/AGU, transcrita da página oficial 'Acordos celebrados' (sem data de atualização e sem valor pago por acordo), com os totais oficiais de set/2026. Valores são os ACORDADOS, não os pagos. Os acordos firmados só com o MPF (J&F, Odebrecht–MPF) não estão nesta base.",
+  "totais_oficiais": {
+    "data_referencia": "set/2026",
+    "acordos_celebrados": 37,
+    "negociacoes_em_andamento": 16,
+    "valor_acordado": {
+      "valor": 20.12,
+      "unidade": "R$ bilhões"
+    },
+    "valor_pago": {
+      "valor": 11.35,
+      "unidade": "R$ bilhões",
+      "nota": "R$ 11,0 bi de principal."
+    },
+    "fonte": {
+      "nome": "CGU, Acordo de Leniência (totais, set/2026)",
+      "url": "https://www.gov.br/cgu/pt-br/assuntos/combate-a-corrupcao/acordo-leniencia",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    }
+  },
+  "total_da_pagina_acordos_celebrados": {
+    "valor_reais": 20124173505.5,
+    "valor": 20.124,
+    "unidade": "R$ bilhões",
+    "linhas_listadas_na_pagina": 40,
+    "linhas_nesta_tabela": 37,
+    "soma_das_linhas_transcritas_reais": 20124173515.5,
+    "diferenca_reais": 10.0,
+    "nota": "A página lista 40 linhas (algumas são aditivos/empresas coligadas); a nota de pesquisa agrupa algumas delas (ex.: Viken, 3 empresas), por isso esta tabela tem menos linhas. A soma das linhas transcritas (R$ 20.124.173.515,50) difere em R$ 10,00 do total informado (R$ 20.124.173.505,50): provável erro de digitação em uma linha ou no total; não foi possível conferir na página.",
+    "nao_verificado": true,
+    "fonte": {
+      "nome": "CGU, acordos de leniência celebrados",
+      "url": "https://www.gov.br/cgu/pt-br/assuntos/integridade-privada/acordo-leniencia/acordos-celebrados",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    }
+  },
+  "subtotal_lava_jato_petrobras": {
+    "valor_reais": 17353130589.77,
+    "valor": 17.353,
+    "unidade": "R$ bilhões",
+    "acordos": 14,
+    "nota": "Cálculo próprio: soma das linhas que a nota de pesquisa marca como relacionadas à Lava Jato/Petrobras (em negrito na Tabela F). Não é número oficial.",
+    "fonte": {
+      "nome": "CGU, acordos de leniência celebrados",
+      "url": "https://www.gov.br/cgu/pt-br/assuntos/integridade-privada/acordo-leniencia/acordos-celebrados",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    }
+  },
+  "por_ano": [
+    {
+      "ano": 2017,
+      "acordos_na_tabela": 2,
+      "valor_reais": 585694510.7,
+      "valor": 585.69,
+      "unidade": "R$ milhões",
+      "nota": "Cálculo próprio a partir das linhas da página."
+    },
+    {
+      "ano": 2018,
+      "acordos_na_tabela": 4,
+      "valor_reais": 5881375428.32,
+      "valor": 5.881,
+      "unidade": "R$ bilhões",
+      "nota": "Cálculo próprio a partir das linhas da página."
+    },
+    {
+      "ano": 2019,
+      "acordos_na_tabela": 5,
+      "valor_reais": 7533636572.62,
+      "valor": 7.534,
+      "unidade": "R$ bilhões",
+      "nota": "Cálculo próprio a partir das linhas da página."
+    },
+    {
+      "ano": 2020,
+      "acordos_na_tabela": 1,
+      "valor_reais": 762200.76,
+      "valor": 0.76,
+      "unidade": "R$ milhões",
+      "nota": "Cálculo próprio a partir das linhas da página."
+    },
+    {
+      "ano": 2021,
+      "acordos_na_tabela": 5,
+      "valor_reais": 1772573132.13,
+      "valor": 1.773,
+      "unidade": "R$ bilhões",
+      "nota": "Cálculo próprio a partir das linhas da página."
+    },
+    {
+      "ano": 2022,
+      "acordos_na_tabela": 8,
+      "valor_reais": 2769472383.83,
+      "valor": 2.769,
+      "unidade": "R$ bilhões",
+      "nota": "Cálculo próprio a partir das linhas da página."
+    },
+    {
+      "ano": 2023,
+      "acordos_na_tabela": 2,
+      "valor_reais": 27375048.13,
+      "valor": 27.38,
+      "unidade": "R$ milhões",
+      "nota": "Cálculo próprio a partir das linhas da página."
+    },
+    {
+      "ano": 2024,
+      "acordos_na_tabela": 3,
+      "valor_reais": 290594876.92,
+      "valor": 290.59,
+      "unidade": "R$ milhões",
+      "nota": "Cálculo próprio a partir das linhas da página."
+    },
+    {
+      "ano": 2025,
+      "acordos_na_tabela": 4,
+      "valor_reais": 1230869738.29,
+      "valor": 1.231,
+      "unidade": "R$ bilhões",
+      "nota": "Cálculo próprio a partir das linhas da página."
+    },
+    {
+      "ano": 2026,
+      "acordos_na_tabela": 3,
+      "valor_reais": 31819623.8,
+      "valor": 31.82,
+      "unidade": "R$ milhões",
+      "nota": "Cálculo próprio a partir das linhas da página."
+    }
+  ],
+  "acordos": [
+    {
+      "ano": 2017,
+      "empresa": "UTC Participações",
+      "valor_acordado_reais": 574658165.21,
+      "valor": 574.66,
+      "unidade": "R$ milhões",
+      "relacionado_lava_jato_petrobras": true,
+      "fonte": {
+        "nome": "CGU, acordos de leniência celebrados",
+        "url": "https://www.gov.br/cgu/pt-br/assuntos/integridade-privada/acordo-leniencia/acordos-celebrados",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    {
+      "ano": 2017,
+      "empresa": "Bilfinger",
+      "valor_acordado_reais": 11036345.49,
+      "valor": 11.04,
+      "unidade": "R$ milhões",
+      "relacionado_lava_jato_petrobras": true,
+      "fonte": {
+        "nome": "CGU, acordos de leniência celebrados",
+        "url": "https://www.gov.br/cgu/pt-br/assuntos/integridade-privada/acordo-leniencia/acordos-celebrados",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "observacao": "moeda estrangeira"
+    },
+    {
+      "ano": 2018,
+      "empresa": "Odebrecht",
+      "valor_acordado_reais": 2727239997.64,
+      "valor": 2.727,
+      "unidade": "R$ bilhões",
+      "relacionado_lava_jato_petrobras": true,
+      "fonte": {
+        "nome": "CGU, acordos de leniência celebrados",
+        "url": "https://www.gov.br/cgu/pt-br/assuntos/integridade-privada/acordo-leniencia/acordos-celebrados",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "observacao": "suborno transnacional"
+    },
+    {
+      "ano": 2018,
+      "empresa": "SBM Offshore",
+      "valor_acordado_reais": 1614774295.4,
+      "valor": 1.615,
+      "unidade": "R$ bilhões",
+      "relacionado_lava_jato_petrobras": true,
+      "fonte": {
+        "nome": "CGU, acordos de leniência celebrados",
+        "url": "https://www.gov.br/cgu/pt-br/assuntos/integridade-privada/acordo-leniencia/acordos-celebrados",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "observacao": "moeda estrangeira"
+    },
+    {
+      "ano": 2018,
+      "empresa": "Andrade Gutierrez",
+      "valor_acordado_reais": 1489361135.28,
+      "valor": 1.489,
+      "unidade": "R$ bilhões",
+      "relacionado_lava_jato_petrobras": true,
+      "fonte": {
+        "nome": "CGU, acordos de leniência celebrados",
+        "url": "https://www.gov.br/cgu/pt-br/assuntos/integridade-privada/acordo-leniencia/acordos-celebrados",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    {
+      "ano": 2018,
+      "empresa": "MullenLowe e FCB Brasil",
+      "valor_acordado_reais": 50000000.0,
+      "valor": 50.0,
+      "unidade": "R$ milhões",
+      "relacionado_lava_jato_petrobras": false,
+      "fonte": {
+        "nome": "CGU, acordos de leniência celebrados",
+        "url": "https://www.gov.br/cgu/pt-br/assuntos/integridade-privada/acordo-leniencia/acordos-celebrados",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    {
+      "ano": 2019,
+      "empresa": "Braskem",
+      "valor_acordado_reais": 2872154048.0,
+      "valor": 2.872,
+      "unidade": "R$ bilhões",
+      "relacionado_lava_jato_petrobras": true,
+      "fonte": {
+        "nome": "CGU, acordos de leniência celebrados",
+        "url": "https://www.gov.br/cgu/pt-br/assuntos/integridade-privada/acordo-leniencia/acordos-celebrados",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    {
+      "ano": 2019,
+      "empresa": "Technip Brasil e Flexibras",
+      "valor_acordado_reais": 819794768.79,
+      "valor": 819.79,
+      "unidade": "R$ milhões",
+      "relacionado_lava_jato_petrobras": true,
+      "fonte": {
+        "nome": "CGU, acordos de leniência celebrados",
+        "url": "https://www.gov.br/cgu/pt-br/assuntos/integridade-privada/acordo-leniencia/acordos-celebrados",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    {
+      "ano": 2019,
+      "empresa": "Camargo Corrêa",
+      "valor_acordado_reais": 1396128459.76,
+      "valor": 1.396,
+      "unidade": "R$ bilhões",
+      "relacionado_lava_jato_petrobras": true,
+      "fonte": {
+        "nome": "CGU, acordos de leniência celebrados",
+        "url": "https://www.gov.br/cgu/pt-br/assuntos/integridade-privada/acordo-leniencia/acordos-celebrados",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    {
+      "ano": 2019,
+      "empresa": "Nova Participações (Engevix)",
+      "valor_acordado_reais": 516301313.7,
+      "valor": 516.3,
+      "unidade": "R$ milhões",
+      "relacionado_lava_jato_petrobras": true,
+      "fonte": {
+        "nome": "CGU, acordos de leniência celebrados",
+        "url": "https://www.gov.br/cgu/pt-br/assuntos/integridade-privada/acordo-leniencia/acordos-celebrados",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "observacao": "suborno transnacional"
+    },
+    {
+      "ano": 2019,
+      "empresa": "OAS",
+      "valor_acordado_reais": 1929257982.37,
+      "valor": 1.929,
+      "unidade": "R$ bilhões",
+      "relacionado_lava_jato_petrobras": true,
+      "fonte": {
+        "nome": "CGU, acordos de leniência celebrados",
+        "url": "https://www.gov.br/cgu/pt-br/assuntos/integridade-privada/acordo-leniencia/acordos-celebrados",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "observacao": "suborno transnacional; a pagar até dez/2047, parcelas crescentes por estar em recuperação judicial; composição: restituição de propinas R$ 720,14 mi, enriquecimento ilícito R$ 800,37 mi, multa administrativa R$ 320,06 mi, multa civil R$ 84,73 mi (composição via Monitor Mercantil, trecho indexado; página devolveu 403)",
+      "fonte_composicao": {
+        "nome": "Monitor Mercantil: OAS voltará a fornecer ao governo após acordo de leniência (403 ao fetch; trecho indexado)",
+        "url": "https://monitormercantil.com.br/oas-voltara-a-fornecer-ao-governo-apos-acordo-de-leniencia/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "ano": 2020,
+      "empresa": "Car Rental Systems do Brasil",
+      "valor_acordado_reais": 762200.76,
+      "valor": 0.76,
+      "unidade": "R$ milhões",
+      "relacionado_lava_jato_petrobras": false,
+      "fonte": {
+        "nome": "CGU, acordos de leniência celebrados",
+        "url": "https://www.gov.br/cgu/pt-br/assuntos/integridade-privada/acordo-leniencia/acordos-celebrados",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    {
+      "ano": 2021,
+      "empresa": "Samsung Heavy Industries",
+      "valor_acordado_reais": 811786743.49,
+      "valor": 811.79,
+      "unidade": "R$ milhões",
+      "relacionado_lava_jato_petrobras": true,
+      "fonte": {
+        "nome": "CGU, acordos de leniência celebrados",
+        "url": "https://www.gov.br/cgu/pt-br/assuntos/integridade-privada/acordo-leniencia/acordos-celebrados",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    {
+      "ano": 2021,
+      "empresa": "SICPA e CEPTIS",
+      "valor_acordado_reais": 762736310.1,
+      "valor": 762.74,
+      "unidade": "R$ milhões",
+      "relacionado_lava_jato_petrobras": false,
+      "fonte": {
+        "nome": "CGU, acordos de leniência celebrados",
+        "url": "https://www.gov.br/cgu/pt-br/assuntos/integridade-privada/acordo-leniencia/acordos-celebrados",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    {
+      "ano": 2021,
+      "empresa": "Amec Foster Wheeler",
+      "valor_acordado_reais": 86196063.32,
+      "valor": 86.2,
+      "unidade": "R$ milhões",
+      "relacionado_lava_jato_petrobras": false,
+      "fonte": {
+        "nome": "CGU, acordos de leniência celebrados",
+        "url": "https://www.gov.br/cgu/pt-br/assuntos/integridade-privada/acordo-leniencia/acordos-celebrados",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    {
+      "ano": 2021,
+      "empresa": "Rolls-Royce PLC",
+      "valor_acordado_reais": 93838750.25,
+      "valor": 93.84,
+      "unidade": "R$ milhões",
+      "relacionado_lava_jato_petrobras": false,
+      "fonte": {
+        "nome": "CGU, acordos de leniência celebrados",
+        "url": "https://www.gov.br/cgu/pt-br/assuntos/integridade-privada/acordo-leniencia/acordos-celebrados",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    {
+      "ano": 2021,
+      "empresa": "Statkraft",
+      "valor_acordado_reais": 18015264.97,
+      "valor": 18.02,
+      "unidade": "R$ milhões",
+      "relacionado_lava_jato_petrobras": false,
+      "fonte": {
+        "nome": "CGU, acordos de leniência celebrados",
+        "url": "https://www.gov.br/cgu/pt-br/assuntos/integridade-privada/acordo-leniencia/acordos-celebrados",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    {
+      "ano": 2022,
+      "empresa": "Keppel Offshore & Marine",
+      "valor_acordado_reais": 1223657710.19,
+      "valor": 1.224,
+      "unidade": "R$ bilhões",
+      "relacionado_lava_jato_petrobras": true,
+      "fonte": {
+        "nome": "CGU, acordos de leniência celebrados",
+        "url": "https://www.gov.br/cgu/pt-br/assuntos/integridade-privada/acordo-leniencia/acordos-celebrados",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    {
+      "ano": 2022,
+      "empresa": "UOP LLC",
+      "valor_acordado_reais": 638046365.87,
+      "valor": 638.05,
+      "unidade": "R$ milhões",
+      "relacionado_lava_jato_petrobras": true,
+      "fonte": {
+        "nome": "CGU, acordos de leniência celebrados",
+        "url": "https://www.gov.br/cgu/pt-br/assuntos/integridade-privada/acordo-leniencia/acordos-celebrados",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    {
+      "ano": 2022,
+      "empresa": "BRF",
+      "valor_acordado_reais": 583977360.48,
+      "valor": 583.98,
+      "unidade": "R$ milhões",
+      "relacionado_lava_jato_petrobras": false,
+      "fonte": {
+        "nome": "CGU, acordos de leniência celebrados",
+        "url": "https://www.gov.br/cgu/pt-br/assuntos/integridade-privada/acordo-leniencia/acordos-celebrados",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    {
+      "ano": 2022,
+      "empresa": "Hypera",
+      "valor_acordado_reais": 110882122.19,
+      "valor": 110.88,
+      "unidade": "R$ milhões",
+      "relacionado_lava_jato_petrobras": false,
+      "fonte": {
+        "nome": "CGU, acordos de leniência celebrados",
+        "url": "https://www.gov.br/cgu/pt-br/assuntos/integridade-privada/acordo-leniencia/acordos-celebrados",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    {
+      "ano": 2022,
+      "empresa": "Stericycle",
+      "valor_acordado_reais": 109698073.8,
+      "valor": 109.7,
+      "unidade": "R$ milhões",
+      "relacionado_lava_jato_petrobras": false,
+      "fonte": {
+        "nome": "CGU, acordos de leniência celebrados",
+        "url": "https://www.gov.br/cgu/pt-br/assuntos/integridade-privada/acordo-leniencia/acordos-celebrados",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    {
+      "ano": 2022,
+      "empresa": "Mar Holding/TUR",
+      "valor_acordado_reais": 74376821.93,
+      "valor": 74.38,
+      "unidade": "R$ milhões",
+      "relacionado_lava_jato_petrobras": false,
+      "fonte": {
+        "nome": "CGU, acordos de leniência celebrados",
+        "url": "https://www.gov.br/cgu/pt-br/assuntos/integridade-privada/acordo-leniencia/acordos-celebrados",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    {
+      "ano": 2022,
+      "empresa": "Resource",
+      "valor_acordado_reais": 14567326.98,
+      "valor": 14.57,
+      "unidade": "R$ milhões",
+      "relacionado_lava_jato_petrobras": false,
+      "fonte": {
+        "nome": "CGU, acordos de leniência celebrados",
+        "url": "https://www.gov.br/cgu/pt-br/assuntos/integridade-privada/acordo-leniencia/acordos-celebrados",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    {
+      "ano": 2022,
+      "empresa": "Gol",
+      "valor_acordado_reais": 14266602.39,
+      "valor": 14.27,
+      "unidade": "R$ milhões",
+      "relacionado_lava_jato_petrobras": false,
+      "fonte": {
+        "nome": "CGU, acordos de leniência celebrados",
+        "url": "https://www.gov.br/cgu/pt-br/assuntos/integridade-privada/acordo-leniencia/acordos-celebrados",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    {
+      "ano": 2023,
+      "empresa": "Neoway",
+      "valor_acordado_reais": 27178868.56,
+      "valor": 27.18,
+      "unidade": "R$ milhões",
+      "relacionado_lava_jato_petrobras": false,
+      "fonte": {
+        "nome": "CGU, acordos de leniência celebrados",
+        "url": "https://www.gov.br/cgu/pt-br/assuntos/integridade-privada/acordo-leniencia/acordos-celebrados",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    {
+      "ano": 2023,
+      "empresa": "Mauro Luvizoto",
+      "valor_acordado_reais": 196179.57,
+      "valor": 0.2,
+      "unidade": "R$ milhões",
+      "relacionado_lava_jato_petrobras": false,
+      "fonte": {
+        "nome": "CGU, acordos de leniência celebrados",
+        "url": "https://www.gov.br/cgu/pt-br/assuntos/integridade-privada/acordo-leniencia/acordos-celebrados",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    {
+      "ano": 2024,
+      "empresa": "Viken (3 empresas)",
+      "valor_acordado_reais": 153184045.95,
+      "valor": 153.18,
+      "unidade": "R$ milhões",
+      "relacionado_lava_jato_petrobras": false,
+      "fonte": {
+        "nome": "CGU, acordos de leniência celebrados",
+        "url": "https://www.gov.br/cgu/pt-br/assuntos/integridade-privada/acordo-leniencia/acordos-celebrados",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "observacao": "a nota agrupa 3 empresas numa linha"
+    },
+    {
+      "ano": 2024,
+      "empresa": "Freepoint",
+      "valor_acordado_reais": 131253647.32,
+      "valor": 131.25,
+      "unidade": "R$ milhões",
+      "relacionado_lava_jato_petrobras": false,
+      "fonte": {
+        "nome": "CGU, acordos de leniência celebrados",
+        "url": "https://www.gov.br/cgu/pt-br/assuntos/integridade-privada/acordo-leniencia/acordos-celebrados",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    {
+      "ano": 2024,
+      "empresa": "MicroStrategy",
+      "valor_acordado_reais": 6157183.65,
+      "valor": 6.16,
+      "unidade": "R$ milhões",
+      "relacionado_lava_jato_petrobras": false,
+      "fonte": {
+        "nome": "CGU, acordos de leniência celebrados",
+        "url": "https://www.gov.br/cgu/pt-br/assuntos/integridade-privada/acordo-leniencia/acordos-celebrados",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    {
+      "ano": 2025,
+      "empresa": "Seatrium/Estaleiro Jurong Aracruz",
+      "valor_acordado_reais": 728933258.58,
+      "valor": 728.93,
+      "unidade": "R$ milhões",
+      "relacionado_lava_jato_petrobras": true,
+      "fonte": {
+        "nome": "CGU, acordos de leniência celebrados",
+        "url": "https://www.gov.br/cgu/pt-br/assuntos/integridade-privada/acordo-leniencia/acordos-celebrados",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    {
+      "ano": 2025,
+      "empresa": "Trafigura",
+      "valor_acordado_reais": 435410672.26,
+      "valor": 435.41,
+      "unidade": "R$ milhões",
+      "relacionado_lava_jato_petrobras": false,
+      "fonte": {
+        "nome": "CGU, acordos de leniência celebrados",
+        "url": "https://www.gov.br/cgu/pt-br/assuntos/integridade-privada/acordo-leniencia/acordos-celebrados",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    {
+      "ano": 2025,
+      "empresa": "Qualicorp",
+      "valor_acordado_reais": 44485434.29,
+      "valor": 44.49,
+      "unidade": "R$ milhões",
+      "relacionado_lava_jato_petrobras": false,
+      "fonte": {
+        "nome": "CGU, acordos de leniência celebrados",
+        "url": "https://www.gov.br/cgu/pt-br/assuntos/integridade-privada/acordo-leniencia/acordos-celebrados",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    {
+      "ano": 2025,
+      "empresa": "Minerva",
+      "valor_acordado_reais": 22040373.16,
+      "valor": 22.04,
+      "unidade": "R$ milhões",
+      "relacionado_lava_jato_petrobras": false,
+      "fonte": {
+        "nome": "CGU, acordos de leniência celebrados",
+        "url": "https://www.gov.br/cgu/pt-br/assuntos/integridade-privada/acordo-leniencia/acordos-celebrados",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    {
+      "ano": 2026,
+      "empresa": "JBJ Agropecuária/Prima Foods",
+      "valor_acordado_reais": 31156767.7,
+      "valor": 31.16,
+      "unidade": "R$ milhões",
+      "relacionado_lava_jato_petrobras": false,
+      "fonte": {
+        "nome": "CGU, acordos de leniência celebrados",
+        "url": "https://www.gov.br/cgu/pt-br/assuntos/integridade-privada/acordo-leniencia/acordos-celebrados",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    {
+      "ano": 2026,
+      "empresa": "Bonasa",
+      "valor_acordado_reais": 631799.74,
+      "valor": 0.63,
+      "unidade": "R$ milhões",
+      "relacionado_lava_jato_petrobras": false,
+      "fonte": {
+        "nome": "CGU, acordos de leniência celebrados",
+        "url": "https://www.gov.br/cgu/pt-br/assuntos/integridade-privada/acordo-leniencia/acordos-celebrados",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    {
+      "ano": 2026,
+      "empresa": "Arla Foods",
+      "valor_acordado_reais": 31056.36,
+      "valor": 0.03,
+      "unidade": "R$ milhões",
+      "relacionado_lava_jato_petrobras": false,
+      "fonte": {
+        "nome": "CGU, acordos de leniência celebrados",
+        "url": "https://www.gov.br/cgu/pt-br/assuntos/integridade-privada/acordo-leniencia/acordos-celebrados",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    }
+  ],
+  "fora_desta_base": [
+    {
+      "acordo": "J&F com o MPF (2017)",
+      "valor": 10.3,
+      "unidade": "R$ bilhões",
+      "situacao": "Não consta na base da CGU (acordo só com o MPF), por isso a suspensão de Toffoli (dez/2023) não afetou a CGU. 5ª CCR reduziu para pouco mais de R$ 3,5 bi (mai–jun/2023), desconto anulado pelo Conselho Institucional do MPF (noticiado em 11/10/2024); 10ª Vara Federal do DF mandou recalcular (01/11/2025). Valor vigente em out/2026 indefinido.",
+      "fonte": {
+        "nome": "O Antagonista, 03/11/2025: Justiça determina recálculo de multa de R$ 10 bilhões da J&F",
+        "url": "https://oantagonista.com.br/brasil/justica-determina-recalculo-de-multa-de-r-10-bilhoes-da-jf-por-onerosidade-excessiva/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "acordo": "Odebrecht/Novonor com o MPF",
+      "valor": 3.8,
+      "unidade": "R$ bilhões (R$ 8,5 bi corrigidos)",
+      "situacao": "Multas suspensas por Toffoli em 01/02/2024; a suspensão não alcança os acordos com CGU/AGU (STF, 09/02/2024). Não aparece em nenhuma base oficial pública localizada.",
+      "fonte": {
+        "nome": "STF Notícias, 01/02/2024: STF suspende multas de R$ 8,5 bilhões da antiga Odebrecht",
+        "url": "https://noticias.stf.jus.br/postsnoticias/stf-suspende-multas-de-r-85-bilhoes-da-antiga-odebrecht-e-autoriza-a-reavaliacao-do-acordo-de-leniencia-da-operacao-lava-jato/",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    }
+  ],
+  "contexto": [
+    {
+      "fato": "ADPF 1051 (relator André Mendonça): voto de 15/08/2025 pela validade dos acordos e repactuação das obrigações; retomada no plenário virtual em 28/11/2025 com tese de CGU central nos acordos da Lei Anticorrupção e MPF sem competência para leniência administrativa; Dino divergente em parte. Desconto potencial de até R$ 5,7 bi. Resultado final não localizado.",
+      "url": "https://www.congressoemfoco.com.br/noticia/114334/stf-volta-a-julgar-alcance-dos-acordos-de-leniencia-da-lava-jato"
+    }
+  ],
+  "lacunas": [
+    "Divergência de R$ 10,00 entre a soma das linhas transcritas e o total informado na nota de pesquisa; linha com erro não identificada.",
+    "A página da CGU não traz data de atualização da lista nem o valor pago por acordo; só o total pago (R$ 11,35 bi, set/2026).",
+    "O lado MPF (J&F, Novonor, demais acordos da 5ª CCR) não tem balanço oficial localizado de valores pagos.",
+    "A marcação 'relacionado à Lava Jato/Petrobras' segue a nota de pesquisa (negrito na Tabela F), não uma classificação oficial da CGU.",
+    "Valor de eventual acordo da OAS com o MPF não localizado."
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/04_escandalos_mensalao_petrolao_lavajato.md",
+  "fontes": [
+    {
+      "nome": "CGU, Acordo de Leniência (totais, set/2026)",
+      "url": "https://www.gov.br/cgu/pt-br/assuntos/combate-a-corrupcao/acordo-leniencia",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "CGU, acordos de leniência celebrados",
+      "url": "https://www.gov.br/cgu/pt-br/assuntos/integridade-privada/acordo-leniencia/acordos-celebrados",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Monitor Mercantil: OAS voltará a fornecer ao governo após acordo de leniência (403 ao fetch; trecho indexado)",
+      "url": "https://monitormercantil.com.br/oas-voltara-a-fornecer-ao-governo-apos-acordo-de-leniencia/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "O Antagonista, 03/11/2025: Justiça determina recálculo de multa de R$ 10 bilhões da J&F",
+      "url": "https://oantagonista.com.br/brasil/justica-determina-recalculo-de-multa-de-r-10-bilhoes-da-jf-por-onerosidade-excessiva/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "STF Notícias, 01/02/2024: STF suspende multas de R$ 8,5 bilhões da antiga Odebrecht",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-suspende-multas-de-r-85-bilhoes-da-antiga-odebrecht-e-autoriza-a-reavaliacao-do-acordo-de-leniencia-da-operacao-lava-jato/",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Congresso em Foco, 28/11/2025: STF volta a julgar alcance dos acordos de leniência da Lava Jato",
+      "url": "https://www.congressoemfoco.com.br/noticia/114334/stf-volta-a-julgar-alcance-dos-acordos-de-leniencia-da-lava-jato",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "atualizado_em": "2026-10-21"
+}

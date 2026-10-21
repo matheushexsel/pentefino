@@ -17,7 +17,7 @@
     "lula-3"
   ],
   "resumo_simples": [
-    "A Lava Jato investigou propinas em contratos da Petrobras e de outros órgãos pagas por empreiteiras a agentes públicos e partidos. O último balanço oficial do MPF localizado (dez/2019) registra, só em Curitiba, 113 denúncias, 159 condenados, 49 colaborações, 14 leniências e cerca de R$ 4 bilhões devolvidos.",
+    "A Lava Jato investigou propinas em contratos da Petrobras e de outros órgãos pagas por empreiteiras a agentes públicos e partidos. O balanço do MPF de dez/2019 registra, só em Curitiba, 113 denúncias, 159 condenados, 49 colaborações, 14 leniências e cerca de R$ 4 bilhões devolvidos; no encerramento da força-tarefa (15/02/2021, último balanço localizado) eram 80 fases, 179 ações penais, 174 condenados em 1ª e 2ª instâncias, 209 colaborações, 17 leniências e R$ 4,3 bi devolvidos. Do lado da CGU/AGU, 37 acordos de leniência somavam R$ 20,12 bi acordados e R$ 11,35 bi pagos em set/2026.",
     "Não existe número oficial único de 'quanto foi desviado': as estimativas vão de R$ 6,2 bi (baixa contábil da Petrobras, 2015) a R$ 29 bi (extrapolação do TCU) e R$ 42,8 bi (PF, 2015). A Petrobras informou ter recebido mais de R$ 6,7 bi via colaborações, leniências e repatriações (nov/2022).",
     "A delação da Odebrecht citou ao menos 415 políticos de 26 partidos (PT 93, PSDB 77, PMDB 77, PP 35...). Citação não equivale a culpa: o número de políticos condenados é muito menor e caiu com as anulações de 2021–2025.",
     "Entre 2021 e 2025 o STF anulou condenações de Lula (incompetência da 13ª Vara e suspeição de Moro), Dirceu, Palocci, Vaccari, Cunha e outros, quase sempre por nulidade processual e não por absolvição de mérito. Em out/2026, Fernando Collor é o único ex-presidente com condenação transitada em julgado e em cumprimento."
@@ -611,6 +611,247 @@
         "acesso_em": "2026-10-21",
         "tier": "imprensa"
       }
+    },
+    {
+      "rotulo": "Plenário do STF, 15/04/2021 — votos pela anulação das condenações de Lula (HC 193.726)",
+      "valor": 8,
+      "unidade": "votos (contra 3: Nunes Marques, Marco Aurélio e Fux)",
+      "fonte": {
+        "nome": "Poder360, 15/04/2021: STF confirma anulação das decisões da Justiça de Curitiba (8x3)",
+        "url": "https://www.poder360.com.br/justica/stf-confirma-anulacao-das-decisoes-da-justica-de-curitiba/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Condenados em 1ª e 2ª instância — balanço de encerramento da força-tarefa de Curitiba (15/02/2021)",
+      "valor": 174,
+      "unidade": "pessoas",
+      "fonte": {
+        "nome": "Band/Folhapress, 15/02/2021: saiba o que aconteceu com os principais alvos da Lava Jato de Curitiba (balanço de encerramento, MPF-PR)",
+        "url": "https://www.bandab.com.br/politica/saiba-o-que-aconteceu-com-os-principais-alvos-da-lava-jato-de-curitiba/amp/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "nota": "Balanço do MPF-PR reproduzido pela Folhapress; ver _balancos_lava_jato.json."
+    },
+    {
+      "rotulo": "Ações penais — balanço de encerramento (15/02/2021)",
+      "valor": 179,
+      "unidade": "ações penais",
+      "fonte": {
+        "nome": "Band/Folhapress, 15/02/2021: saiba o que aconteceu com os principais alvos da Lava Jato de Curitiba (balanço de encerramento, MPF-PR)",
+        "url": "https://www.bandab.com.br/politica/saiba-o-que-aconteceu-com-os-principais-alvos-da-lava-jato-de-curitiba/amp/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Acordos de colaboração — balanço de encerramento (15/02/2021)",
+      "valor": 209,
+      "unidade": "acordos",
+      "fonte": {
+        "nome": "Band/Folhapress, 15/02/2021: saiba o que aconteceu com os principais alvos da Lava Jato de Curitiba (balanço de encerramento, MPF-PR)",
+        "url": "https://www.bandab.com.br/politica/saiba-o-que-aconteceu-com-os-principais-alvos-da-lava-jato-de-curitiba/amp/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Acordos de leniência — balanço de encerramento (15/02/2021)",
+      "valor": 17,
+      "unidade": "acordos",
+      "fonte": {
+        "nome": "Band/Folhapress, 15/02/2021: saiba o que aconteceu com os principais alvos da Lava Jato de Curitiba (balanço de encerramento, MPF-PR)",
+        "url": "https://www.bandab.com.br/politica/saiba-o-que-aconteceu-com-os-principais-alvos-da-lava-jato-de-curitiba/amp/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Devolvido aos cofres públicos — balanço de encerramento (15/02/2021)",
+      "valor": 4.3,
+      "unidade": "R$ bilhões",
+      "fonte": {
+        "nome": "Band/Folhapress, 15/02/2021: saiba o que aconteceu com os principais alvos da Lava Jato de Curitiba (balanço de encerramento, MPF-PR)",
+        "url": "https://www.bandab.com.br/politica/saiba-o-que-aconteceu-com-os-principais-alvos-da-lava-jato-de-curitiba/amp/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Multas previstas em acordos — balanço de encerramento (15/02/2021)",
+      "valor": 14.8,
+      "unidade": "R$ bilhões",
+      "fonte": {
+        "nome": "Band/Folhapress, 15/02/2021: saiba o que aconteceu com os principais alvos da Lava Jato de Curitiba (balanço de encerramento, MPF-PR)",
+        "url": "https://www.bandab.com.br/politica/saiba-o-que-aconteceu-com-os-principais-alvos-da-lava-jato-de-curitiba/amp/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "nota": "Mais R$ 111,5 mi em renúncias voluntárias."
+    },
+    {
+      "rotulo": "Condenações em Curitiba — balanço de 5 anos (17/03/2019)",
+      "valor": 242,
+      "unidade": "condenações (155 pessoas)",
+      "fonte": {
+        "nome": "Poder360, 17/03/2019: 5 anos de Lava Jato — 285 condenações, 600 réus e 3.000 anos de penas",
+        "url": "https://www.poder360.com.br/lava-jato/5-anos-de-lava-jato-285-condenacoes-600-reus-e-3-000-anos-de-penas/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "nota": "285 condenações no total; 3.093a11m23d de penas somadas; >600 réus em todas as frentes (PGR)."
+    },
+    {
+      "rotulo": "Devolução da UOP LLC (Honeywell) à Petrobras, leniência CGU/AGU (16/01/2023)",
+      "valor": 456,
+      "unidade": "R$ milhões (aproximado)",
+      "fonte": {
+        "nome": "Agência Petrobras, 16/01/2023: Petrobras recebe nova devolução de recursos (UOP LLC)",
+        "url": "https://agencia.petrobras.com.br/w/petrobras-recebe-nova-devolucao-de-recursos",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "nota": "Último comunicado da Agência Petrobras localizado; soma própria após ele: ≈R$ 7,1 bi. Nenhum comunicado 2023–2026 posterior."
+    },
+    {
+      "rotulo": "CGU — acordos de leniência celebrados (set/2026)",
+      "valor": 37,
+      "unidade": "acordos",
+      "fonte": {
+        "nome": "CGU, Acordo de Leniência (totais, set/2026)",
+        "url": "https://www.gov.br/cgu/pt-br/assuntos/combate-a-corrupcao/acordo-leniencia",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "nota": "Mais 16 negociações em andamento; a página de acordos celebrados lista 40 linhas (aditivos/coligadas). Ver _leniencias_cgu.json."
+    },
+    {
+      "rotulo": "CGU — valor acordado em leniências (set/2026)",
+      "valor": 20.12,
+      "unidade": "R$ bilhões",
+      "fonte": {
+        "nome": "CGU, Acordo de Leniência (totais, set/2026)",
+        "url": "https://www.gov.br/cgu/pt-br/assuntos/combate-a-corrupcao/acordo-leniencia",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    {
+      "rotulo": "CGU — valor pago em leniências (set/2026)",
+      "valor": 11.35,
+      "unidade": "R$ bilhões",
+      "fonte": {
+        "nome": "CGU, Acordo de Leniência (totais, set/2026)",
+        "url": "https://www.gov.br/cgu/pt-br/assuntos/combate-a-corrupcao/acordo-leniencia",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "nota": "R$ 11,0 bi de principal. O lado MPF (J&F, Novonor) não tem balanço oficial localizado."
+    },
+    {
+      "rotulo": "Leniência OAS (CGU/AGU, 2019)",
+      "valor": 1.929,
+      "unidade": "R$ bilhões",
+      "fonte": {
+        "nome": "CGU, acordos de leniência celebrados",
+        "url": "https://www.gov.br/cgu/pt-br/assuntos/integridade-privada/acordo-leniencia/acordos-celebrados",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "nota": "R$ 1.929.257.982,37, a pagar até dez/2047: restituição de propinas R$ 720,14 mi, enriquecimento ilícito R$ 800,37 mi, multa administrativa R$ 320,06 mi, multa civil R$ 84,73 mi (composição via Monitor Mercantil, trecho indexado)."
+    },
+    {
+      "rotulo": "J&F — multa reduzida pela 5ª CCR do MPF (mai–jun/2023), depois anulada pelo Conselho Institucional",
+      "valor": 3.5,
+      "unidade": "R$ bilhões (pouco mais de)",
+      "fonte": {
+        "nome": "Poder360, 18/08/2023: Câmara do MPF divulga detalhes de acordo com a J&F",
+        "url": "https://www.poder360.com.br/justica/camara-do-mpf-divulga-detalhes-de-acordo-com-a-jf/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "nota": "De R$ 10,3 bi para ~R$ 3,5 bi, prazo de 25 para 8 anos, pagamento só à União; o Conselho Institucional do MPF suspendeu (set/2023) e anulou o desconto por unanimidade (noticiado em 11/10/2024)."
+    },
+    {
+      "rotulo": "J&F — pago à União até 16/08/2023",
+      "valor": 608.2,
+      "unidade": "R$ milhões",
+      "fonte": {
+        "nome": "Poder360, 18/08/2023: Câmara do MPF divulga detalhes de acordo com a J&F",
+        "url": "https://www.poder360.com.br/justica/camara-do-mpf-divulga-detalhes-de-acordo-com-a-jf/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "J&F — multa estimada pela empresa após o recálculo determinado em 01/11/2025",
+      "valor": 1,
+      "unidade": "R$ bilhões (aproximado; J&F citava também R$ 595 mi)",
+      "fonte": {
+        "nome": "O Antagonista, 03/11/2025: Justiça determina recálculo de multa de R$ 10 bilhões da J&F",
+        "url": "https://oantagonista.com.br/brasil/justica-determina-recalculo-de-multa-de-r-10-bilhoes-da-jf-por-onerosidade-excessiva/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "nota": "Valor final vigente em out/2026 indefinido."
+    },
+    {
+      "rotulo": "Novonor — multas suspensas por Toffoli em 01/02/2024 (valor corrigido do acordo com o MPF)",
+      "valor": 8.5,
+      "unidade": "R$ bilhões",
+      "fonte": {
+        "nome": "STF Notícias, 01/02/2024: STF suspende multas de R$ 8,5 bilhões da antiga Odebrecht",
+        "url": "https://noticias.stf.jus.br/postsnoticias/stf-suspende-multas-de-r-85-bilhoes-da-antiga-odebrecht-e-autoriza-a-reavaliacao-do-acordo-de-leniencia-da-operacao-lava-jato/",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    {
+      "rotulo": "Delgatti (Spoofing) — pena exata",
+      "valor": 20.08,
+      "unidade": "anos (20 anos e 1 mês) + 736 dias-multa",
+      "fonte": {
+        "nome": "Poder360, 21/08/2023: Justiça condena Delgatti a 20 anos por Vaza Jato",
+        "url": "https://www.poder360.com.br/justica/justica-condena-delgatti-a-20-anos-de-prisao-por-vaza-jato/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Sérgio Cabral — soma das penas após anulações (dez/2022)",
+      "valor": 375,
+      "unidade": "anos (375a8m29d)",
+      "fonte": {
+        "nome": "Band/Folhapress, 17/12/2022: penas de Cabral somam 375 anos após anulações",
+        "url": "https://www.bandab.com.br/?p=1224966",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "nota": "24 condenações somavam >400 anos; TRF-2 eliminou mais 40a6m em mar/2024."
+    },
+    {
+      "rotulo": "Repatriação no processo Cabral/Eike Batista (16/05/2024)",
+      "valor": 74.8,
+      "unidade": "R$ milhões",
+      "fonte": {
+        "nome": "G1, 16/05/2024: MPF repatria R$ 74,8 milhões em processo contra Cabral e Eike Batista",
+        "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2024/05/16/mpf-consegue-repatriar-r-748-milhoes-em-processo-da-lava-jato-contra-sergio-cabral-e-eike-batista.ghtml",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Pezão — pena em 1ª instância (jun/2021)",
+      "valor": 98.9,
+      "unidade": "anos (98a11m)",
+      "fonte": {
+        "nome": "A Gazeta, jun/2021: ex-governador Pezão é condenado a mais de 98 anos na Lava Jato",
+        "url": "https://www.agazeta.com.br/brasil/ex-governador-pezao-e-condenado-a-mais-de-98-anos-de-prisao-na-lava-jato-0621",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
     }
   ],
   "partidos": [
@@ -636,7 +877,13 @@
         "José Dirceu",
         "João Vaccari Neto",
         "Antonio Palocci",
-        "Delúbio Soares"
+        "Delúbio Soares",
+        "André Vargas",
+        "Paulo Bernardo"
+      ],
+      "absolvidos_nomeados": [
+        "Gleisi Hoffmann (STF 2ª Turma, 2018)",
+        "Lula (obstrução; quadrilhão do PT; Zelotes/MP das montadoras)"
       ],
       "fonte": {
         "nome": "Bahia Notícias/Estadão, 16/04/2017: delação da Odebrecht cita 415 políticos de 26 partidos",
@@ -644,7 +891,7 @@
         "acesso_em": "2026-10-21",
         "tier": "imprensa"
       },
-      "nota": "Citados = delação Odebrecht (Estadão, abr/2017). Não existe levantamento oficial de condenados por partido; a lista de nomes é parcial e não exaustiva (compilação do pesquisador). Em out/2026 nenhum dos nomes listados tinha condenação vigente; André Vargas não verificado."
+      "nota": "Citados = delação Odebrecht (Estadão, abr/2017). Não existe levantamento oficial de condenados por partido; a lista de nomes é parcial e não exaustiva (compilação do pesquisador). Em out/2026 nenhum dos nomes listados tinha condenação vigente: as de André Vargas foram anuladas pela 2ª Turma (dez/2022 e 2023)."
     },
     {
       "partido": "PSDB",
@@ -664,7 +911,7 @@
         "acesso_em": "2026-10-21",
         "tier": "imprensa"
       },
-      "nota": "Zero refere-se a políticos nacionais (dirigentes) segundo as notas: Aécio absolvido (2022), Beto Richa sem condenação criminal (processos anulados em 2023)."
+      "nota": "Zero refere-se a políticos nacionais (dirigentes) segundo as notas: Aécio absolvido (2022), Beto Richa sem condenação criminal (processos anulados em 2023). Paulo Vieira de Souza ('Paulo Preto', ex-Dersa, governos do PSDB-SP) foi condenado em 2019 (27 anos e 145a8m), mas não era político filiado/eleito."
     },
     {
       "partido": "PMDB/MDB",
@@ -678,10 +925,16 @@
       "condenados_nomeados_nas_notas": [
         "Eduardo Cunha",
         "Sérgio Cabral",
-        "Geddel Vieira Lima"
+        "Geddel Vieira Lima",
+        "Luiz Fernando Pezão (98a11m, 1ª instância, 2021)",
+        "Jorge Picciani (TRF-2, 21 anos; falecido em 2021)",
+        "Edson Albertassi (TRF-2, 13a4m)",
+        "Paulo Melo (TRF-2, 12a5m)",
+        "Henrique Eduardo Alves (10ª Vara DF, 2018, 8a8m — anulada pelo TRF-1 em 2021)"
       ],
       "absolvidos_nomeados": [
         "Michel Temer",
+        "Moreira Franco",
         "Eduardo Cunha (quadrilhão do MDB)",
         "Geddel Vieira Lima (quadrilhão do MDB)"
       ],
@@ -691,7 +944,7 @@
         "acesso_em": "2026-10-21",
         "tier": "imprensa"
       },
-      "nota": "Cunha: 2 condenações anuladas (uma remetida à Justiça Eleitoral); Cabral: parte das ~24 sentenças anuladas, nenhuma definitiva; Geddel: condenado pelo STF (2019), liberdade condicional em 2022; Temer e Henrique Alves: nenhuma condenação."
+      "nota": "Cunha: 2 condenações anuladas (uma remetida à Justiça Eleitoral); Cabral: parte das ~24 sentenças anuladas (soma 375a8m29d em dez/2022; −40a6m em mar/2024), nenhuma definitiva; Geddel: condenado pelo STF (2019; pena reduzida a 13a4m em 2021), livramento condicional em fev/2022; Temer: absolvido/denúncia rejeitada em todas as ações localizadas."
     },
     {
       "partido": "PP",
@@ -703,8 +956,9 @@
       "inqueritos_stf_lista_fachin_2017": 8,
       "citados_planilhas_odebrecht_2016": 22,
       "condenados_nomeados_nas_notas": [
-        "Pedro Corrêa",
-        "Nelson Meurer"
+        "Pedro Corrêa (29a5m somados em Curitiba)",
+        "Nelson Meurer (STF, 13a9m10d; falecido em 12/07/2020 cumprindo pena)",
+        "João Cláudio Genu (Moro, 9a4m)"
       ],
       "fonte": {
         "nome": "Bahia Notícias/Estadão, 16/04/2017: delação da Odebrecht cita 415 políticos de 26 partidos",
@@ -712,7 +966,7 @@
         "acesso_em": "2026-10-21",
         "tier": "imprensa"
       },
-      "nota": "Status atual de Pedro Corrêa e Nelson Meurer não verificado nas notas."
+      "nota": "Status 2022–2026 de Pedro Corrêa e Genu não verificado nas notas; Meurer morreu em 2020 (punibilidade extinta)."
     },
     {
       "partido": "DEM",
@@ -769,7 +1023,8 @@
       "condenados_definitivo": 1,
       "condenacoes_anuladas": null,
       "condenados_nomeados_nas_notas": [
-        "Fernando Collor (ex-PTB; PTC/PRD à época da condenação)"
+        "Fernando Collor (ex-PTB; PTC/PRD à época da condenação)",
+        "Gim Argello (PTB-DF; Moro, 2017, 11a8m; perdão judicial em 2019 por indulto de Temer)"
       ],
       "fonte": {
         "nome": "Bahia Notícias/Estadão, 16/04/2017: delação da Odebrecht cita 415 políticos de 26 partidos",
@@ -777,7 +1032,7 @@
         "acesso_em": "2026-10-21",
         "tier": "imprensa"
       },
-      "nota": "Collor: STF (AP 1.025), mai/2023, 8a10m, trânsito em julgado; preso em 25/04/2025; domiciliar humanitária desde 01/05/2025."
+      "nota": "Collor: STF (AP 1.025), mai/2023, 8a10m, trânsito em julgado; preso em 25/04/2025; domiciliar humanitária desde 01/05/2025. Argello: condenado em 1ª instância, pena extinta por indulto (não contado em 'definitivo')."
     },
     {
       "partido": "PR (ex-PL)",
@@ -843,14 +1098,17 @@
       "condenados_1a_instancia": null,
       "condenados_definitivo": null,
       "condenacoes_anuladas": null,
+      "condenados_nomeados_nas_notas": [
+        "Luiz Argôlo (SD-BA; Moro, 2016, 12a8m + R$ 2 mi; liberdade condicional após 4 anos em regime fechado)"
+      ],
       "arquivados_nomeados": [
         "Paulinho da Força (caixa 2; investigação encerrada por decisão monocrática de Toffoli)"
       ],
       "fonte": {
-        "nome": "Transparência Internacional Brasil, fev/2026: a farra das leniências — decisões controversas e anulações em massa",
-        "url": "https://transparenciainternacional.org.br/posts/a-farra-das-leniencias-decisoes-controversas-e-anulacoes-em-massa/",
+        "nome": "Band/Folhapress, 15/02/2021: saiba o que aconteceu com os principais alvos da Lava Jato de Curitiba (balanço de encerramento, MPF-PR)",
+        "url": "https://www.bandab.com.br/politica/saiba-o-que-aconteceu-com-os-principais-alvos-da-lava-jato-de-curitiba/amp/",
         "acesso_em": "2026-10-21",
-        "tier": "academico"
+        "tier": "imprensa"
       }
     }
   ],
@@ -863,7 +1121,7 @@
       "tribunal": "13ª Vara Federal de Curitiba (Moro); TRF-4; STJ 5ª Turma",
       "data_condenacao": "2017-07-12",
       "pena": "9a6m (Moro, 12/07/2017); 12a1m (TRF-4, 24/01/2018, unânime); 8a10m20d (STJ, 23/04/2019)",
-      "status_atual": "Condenação ANULADA pelo STF (Fachin, HC 193.726, 08/03/2021, incompetência da 13ª Vara; plenário confirmou em 15/04/2021); Moro declarado suspeito (2ª Turma 23/03/2021, 3x2; plenário 7x4 em 23/06/2021). Reiniciado na 12ª Vara Federal do DF, o caso PRESCREVEU em 28/01/2022 (prazo pela metade por Lula ter mais de 70 anos). Não houve absolvição de mérito. Lula ficou preso 580 dias (07/04/2018–08/11/2019).",
+      "status_atual": "Condenação ANULADA pelo STF (Fachin, HC 193.726, 08/03/2021, incompetência da 13ª Vara; plenário confirmou em 15/04/2021 por 8x3 — vencidos Nunes Marques, Marco Aurélio e Fux; em 14/04 o plenário decidiu por 9x2 que o julgamento cabia a ele, e em 22/04/2021 definiu o envio dos 4 processos à Justiça Federal do DF); Moro declarado suspeito (2ª Turma 23/03/2021, 3x2; plenário 7x4 em 23/06/2021). Reiniciado na 12ª Vara Federal do DF, o caso PRESCREVEU em 28/01/2022 (prazo pela metade por Lula ter mais de 70 anos). Não houve absolvição de mérito. Lula ficou preso 580 dias (07/04/2018–08/11/2019).",
       "status_categoria": "prescrito",
       "url": "https://conjur.com.br/2022-jan-28/justica-df-declara-prescricao-arquiva-acao-triplex-guaruja/",
       "caso": "Tríplex do Guarujá"
@@ -995,7 +1253,7 @@
       "tribunal": "13ª Vara Federal de Curitiba (Moro); TRF-4",
       "data_condenacao": "2016-05-18",
       "pena": "23a3m (18/05/2016) e 11a3m (08/03/2017); total citado após TRF-4: 30a9m",
-      "status_atual": "Gilmar Mendes (STF) anulou em 28/10/2024 todas as condenações de Moro contra Dirceu (extensão da suspeição); STJ encerrou ações remanescentes no fim de 2024. Ficou preso ago/2015–mai/2017, mai–jun/2018 e mai–nov/2019. Candidato (PT-SP) em 2026, não eleito. A condenação do mensalão (AP 470) não foi afetada.",
+      "status_atual": "Gilmar Mendes (STF) anulou em 28/10/2024 todas as condenações de Moro contra Dirceu (extensão da suspeição; penas somavam mais de 39 anos); STJ encerrou ações remanescentes no fim de 2024. Ficou preso ago/2015–mai/2017, mai–jun/2018 e mai–nov/2019. Candidato (PT-SP) em 2026, não eleito. A condenação do mensalão (AP 470) não foi afetada.",
       "status_categoria": "anulada",
       "url": "http://g1.globo.com/pr/parana/noticia/2016/05/justica-condena-ex-ministro-ze-dirceu-acao-da-lava-jato.html"
     },
@@ -1006,7 +1264,7 @@
       "crime": "corrupção passiva e lavagem de dinheiro",
       "tribunal": "13ª Vara Federal de Curitiba (Moro); TRF-4",
       "data_condenacao": "2015-09-21",
-      "pena": "15a4m (21/09/2015, absolvido pelo TRF-4 em 27/06/2017); 6a8m (15/09/2016, Schahin/Bumlai); 7a6m20d (19/02/2020, sondas); condenações no 'Departamento de Propinas' (2017)",
+      "pena": "15a4m (21/09/2015, absolvido pelo TRF-4 em 27/06/2017); 6a8m (15/09/2016, Schahin/Bumlai); 7a6m20d (19/02/2020, sondas); condenações no 'Departamento de Propinas' (2017); total de 37a4m em 3 processos (Folhapress, fev/2021)",
       "status_atual": "STJ (Rissato) anulou condenações de Palocci, Vaccari e 11 réus em dez/2021 (competência eleitoral); Fachin anulou condenação em jan/2024; indulto natalino (Temer 2017) concedido em ago/2019.",
       "status_categoria": "anulada",
       "url": "https://pt.wikipedia.org/wiki/Jo%C3%A3o_Vaccari_Neto"
@@ -1019,7 +1277,7 @@
       "tribunal": "13ª Vara Federal de Curitiba (Moro)",
       "data_condenacao": "2017-06-26",
       "pena": "12 anos",
-      "status_atual": "Preso em set/2016; delação com a PF homologada pelo TRF-4 (jun/2018); domiciliar desde nov/2018. STJ anulou condenação em dez/2021 (competência eleitoral); Toffoli anulou todos os atos da Lava Jato contra ele em 19/02/2025 (conluio Moro–MPF); PGR recorreu em 10/03/2025; 2ª Turma manteve por 3x2 (2025; informação de fonte secundária, acórdão não localizado).",
+      "status_atual": "Preso em set/2016; delação com a PF homologada pelo TRF-4 (jun/2018); domiciliar desde nov/2018. STJ anulou condenação em dez/2021 (competência eleitoral); Toffoli anulou todos os atos da Lava Jato contra ele em 19/02/2025 (conluio Moro–MPF); PGR recorreu em 10/03/2025; a 2ª Turma rejeitou o recurso por 3x2 na PET 13.460 (sessão virtual de 15 a 22/08/2025: Toffoli, Gilmar Mendes e Nunes Marques × André Mendonça e Fachin), preservando a delação.",
       "status_categoria": "anulada",
       "url": "https://g1.globo.com/politica/noticia/2025/02/19/toffoli-anula-processos-contra-ex-ministro-antonio-palocci-na-operacao-lava-jato.ghtml"
     },
@@ -1030,23 +1288,22 @@
       "crime": "lavagem de dinheiro",
       "tribunal": "13ª Vara Federal de Curitiba",
       "data_condenacao": null,
-      "pena": null,
+      "pena": "6 anos (lavagem); solto em nov/2019",
       "status_atual": "Condenação anulada pelo STJ (Ribeiro Dantas) e remetida à Justiça Eleitoral.",
       "status_categoria": "anulada",
-      "url": "https://www.gazetadopovo.com.br/ideias/mensalao-20-anos-como-estao-hoje-condenados-soltos-presos/"
+      "url": "https://www.bandab.com.br/politica/saiba-o-que-aconteceu-com-os-principais-alvos-da-lava-jato-de-curitiba/amp/"
     },
     {
       "nome": "André Vargas",
       "partido_na_epoca": "PT (ex-vice-presidente da Câmara)",
       "cargo": "deputado federal",
-      "crime": "não detalhado nas notas",
-      "tribunal": "13ª Vara Federal de Curitiba (Moro)",
+      "crime": "lavagem de dinheiro e corrupção passiva",
+      "tribunal": "13ª Vara Federal de Curitiba (Moro); TRF-4",
       "data_condenacao": "2015-09",
-      "pena": null,
-      "status_atual": "Primeiro político condenado na Lava Jato (set/2015). Status atual não pesquisado.",
-      "status_categoria": "condenado-1a",
-      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2024-03/lava-jato-completa-10-anos-com-resultados-em-xeque-e-prestigio-abalado",
-      "nao_verificado": true
+      "pena": "~14a6m (set/2015) + 2ª condenação confirmada pelo TRF-4 em nov/2017; total das duas ações 19a10m + multa de R$ 1,1 mi",
+      "status_atual": "Primeiro político condenado na Lava Jato (set/2015). Preso cerca de 3,5 anos, solto em 2018 (progressão/condicional, 37% da pena). AMBAS as condenações foram ANULADAS pela 2ª Turma do STF por incompetência da 13ª Vara: a 1ª em dez/2022 (prevaleceu Lewandowski, plenário virtual) e a 2ª por 4x1 (Zanin relator; Fachin vencido), noticiada em 01/10/2023. Destino dos processos (recomeço no DF/prescrição) não localizado.",
+      "status_categoria": "anulada",
+      "url": "https://www.gazetadopovo.com.br/republica/stf-anula-condenacao-de-moro-contra-1o-reu-da-lava-jato/"
     },
     {
       "nome": "Pedro Corrêa",
@@ -1055,24 +1312,74 @@
       "crime": "corrupção passiva e lavagem de dinheiro",
       "tribunal": "13ª Vara Federal de Curitiba (Moro)",
       "data_condenacao": "2015-10-29",
-      "pena": "20a7m10d",
-      "status_atual": "Fez delação (termos não cobertos pelas fontes); status atual não confirmado.",
-      "status_categoria": "condenado-1a",
-      "url": "http://veja.abril.com.br/noticia/brasil/lava-jato-ex-deputado-pedro-correa-e-condenado-a-20-anos-de-prisao",
+      "pena": "20a7m10d (29/10/2015); total nas ações de Curitiba: 29a5m",
+      "status_atual": "Última situação localizada (15/02/2021): regime semiaberto com tornozeleira, 'após delação'. Status 2022–2026 sem fonte. No mensalão, pena inicial de 9a5m (26/11/2012).",
+      "status_categoria": "cumprindo-pena",
+      "url": "https://www.bandab.com.br/politica/saiba-o-que-aconteceu-com-os-principais-alvos-da-lava-jato-de-curitiba/amp/",
       "nao_verificado": true
     },
     {
       "nome": "Nelson Meurer",
-      "partido_na_epoca": "PP",
+      "partido_na_epoca": "PP-PR",
       "cargo": "deputado federal em exercício",
-      "crime": "corrupção e lavagem de dinheiro",
+      "crime": "corrupção passiva e lavagem de dinheiro (AP 996)",
       "tribunal": "STF, 2ª Turma",
       "data_condenacao": "2018-05",
-      "pena": "13a9m em regime fechado",
-      "status_atual": "Primeiro parlamentar em exercício condenado na Lava Jato pelo STF. Trânsito em julgado e status atual não verificados nas notas (classificado como condenado-1a por convenção: STF em instância única sem trânsito confirmado).",
+      "pena": "13a9m10d em regime fechado",
+      "status_atual": "Primeiro parlamentar em exercício condenado na Lava Jato pelo STF; execução da pena mantida pelo STF em 2019; Fachin negou prisão domiciliar em abr/2020 e a 2ª Turma manteve. MORREU em 12/07/2020, aos 77 anos, de covid-19, cumprindo pena na Penitenciária Estadual de Francisco Beltrão (PR). Com a morte a punibilidade se extingue; não deve constar como condenação vigente.",
+      "status_categoria": "condenado-definitivo",
+      "url": "https://www.poder360.com.br/brasil/ex-deputado-nelson-meurer-morre-por-covid-19/",
+      "falecido_em": "2020-07-12"
+    },
+    {
+      "nome": "João Cláudio Genu",
+      "partido_na_epoca": "PP",
+      "cargo": "ex-tesoureiro do PP (também condenado na AP 470)",
+      "crime": "corrupção passiva e associação criminosa",
+      "tribunal": "13ª Vara Federal de Curitiba (Moro)",
+      "data_condenacao": null,
+      "pena": "9a4m",
+      "status_atual": "Solto em nov/2019 (decisão do STF sobre execução da pena só após o trânsito em julgado). Status posterior não verificado.",
       "status_categoria": "condenado-1a",
-      "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Lava_Jato",
+      "url": "https://www.bandab.com.br/politica/saiba-o-que-aconteceu-com-os-principais-alvos-da-lava-jato-de-curitiba/amp/",
       "nao_verificado": true
+    },
+    {
+      "nome": "Luiz Argôlo",
+      "partido_na_epoca": "Solidariedade-BA",
+      "cargo": "ex-deputado federal",
+      "crime": "corrupção passiva e lavagem de dinheiro",
+      "tribunal": "13ª Vara Federal de Curitiba (Moro)",
+      "data_condenacao": "2016",
+      "pena": "12a8m + multa de R$ 2 mi",
+      "status_atual": "Liberdade condicional após 4 anos em regime fechado; indulto negado (fev/2021). Status posterior não verificado.",
+      "status_categoria": "cumprindo-pena",
+      "url": "https://www.bandab.com.br/politica/saiba-o-que-aconteceu-com-os-principais-alvos-da-lava-jato-de-curitiba/amp/",
+      "nao_verificado": true
+    },
+    {
+      "nome": "Gim Argello",
+      "partido_na_epoca": "PTB-DF",
+      "cargo": "ex-senador",
+      "crime": "corrupção passiva, lavagem de dinheiro e obstrução (CPI da Petrobras)",
+      "tribunal": "13ª Vara Federal de Curitiba (Moro)",
+      "data_condenacao": "2017",
+      "pena": "11a8m + multa de R$ 7,35 mi",
+      "status_atual": "Perdão judicial em 2019 com base no indulto natalino de Temer (2017); pena extinta.",
+      "status_categoria": "condenado-1a",
+      "url": "https://www.bandab.com.br/politica/saiba-o-que-aconteceu-com-os-principais-alvos-da-lava-jato-de-curitiba/amp/"
+    },
+    {
+      "nome": "Gleisi Hoffmann",
+      "partido_na_epoca": "PT-PR",
+      "cargo": "senadora",
+      "crime": "não detalhado nas notas",
+      "tribunal": "STF, 2ª Turma",
+      "data_condenacao": null,
+      "pena": null,
+      "status_atual": "ABSOLVIDA pelo STF (2ª Turma, 2018) — única absolvição do STF na Lava Jato até mar/2019.",
+      "status_categoria": "absolvido",
+      "url": "https://www.poder360.com.br/lava-jato/5-anos-de-lava-jato-285-condenacoes-600-reus-e-3-000-anos-de-penas/"
     },
     {
       "nome": "Eduardo Cunha",
@@ -1082,7 +1389,7 @@
       "tribunal": "13ª Vara Federal de Curitiba (Moro); TRF-4",
       "data_condenacao": "2017-03-30",
       "pena": "15a4m (Moro); reduzida a 14a6m pelo TRF-4 (2018)",
-      "status_atual": "Toffoli negou em nov/2024 estender a suspeição de Moro a Cunha ('falta de conexão plausível'); situação desta condenação em 2026 não detalhada nas notas. Cunha ficou preso de 19/10/2016 a mar/2020 (domiciliar), revogada em 28/04/2021. Candidato a deputado estadual (Republicanos-MG) em 2026, não eleito.",
+      "status_atual": "Toffoli negou em nov/2024 estender a suspeição de Moro a Cunha ('falta de conexão plausível'); situação desta condenação em 2026 não detalhada nas notas. Cunha ficou preso de 19/10/2016 a mar/2020 (domiciliar), revogada em 28/04/2021. Em 2026 pediu registro como candidato a DEPUTADO FEDERAL (Republicanos-MG): TRE-MG indeferiu por unanimidade em 03/09/2026 (inelegível até 01/02/2027 pela cassação de 2016, contagem da redação anterior da Ficha Limpa); recurso ao TSE (relator Floriano de Azevedo Marques) pendente em out/2026, com parecer da PGE (01/10/2026) pela manutenção; obteve 32.075 votos anulados em 04/10/2026, não eleito (em 2022, PTB-SP, 5.044 votos).",
       "status_categoria": "condenado-2a",
       "url": "http://estaticog1.globo.com/2017/03/30/sentenca_cunha.pdf",
       "caso": "Contas na Suíça (Curitiba)",
@@ -1131,26 +1438,125 @@
       "nome": "Sérgio Cabral",
       "partido_na_epoca": "PMDB/MDB",
       "cargo": "ex-governador do RJ",
-      "crime": "corrupção, lavagem de dinheiro e outros (múltiplas ações)",
+      "crime": "corrupção, lavagem de dinheiro, organização criminosa e outros (múltiplas ações)",
       "tribunal": "13ª Vara Federal de Curitiba (Moro); 7ª Vara Federal Criminal do RJ (Bretas) e outros",
       "data_condenacao": "2017-06-13",
-      "pena": "≥23–24 condenações somando 414–435 anos (ex.: 14a2m Moro 13/06/2017; 45a2m Bretas 20/09/2017; 17a7m 31/05/2022)",
-      "status_atual": "Preso de 17/11/2016 a dez/2022; solto pela 2ª Turma do STF (dez/2022, 3x2, excesso de prisão preventiva), com recolhimento noturno e tornozeleira. Várias sentenças anuladas desde 2021–2023 (STJ, TRF-2, juiz Appio); delação homologada por Fachin (06/02/2020) anulada pelo STF em mai/2021; Toffoli negou (jul/2025) estender a anulação de Youssef. Condenação CIVIL em 06/10/2025 (15ª Vara de Fazenda Pública do RJ: R$ 2,5 bi; direitos políticos suspensos por 10 anos). Nenhuma sentença criminal transitada em julgado; inelegível (Ficha Limpa). Lista das sentenças ainda válidas não confirmada.",
-      "status_categoria": "condenado-1a",
+      "pena": "24 condenações somavam mais de 400 anos (dez/2022); após anulações do STF (uma em dez/2021) e revisões do TRF-2, 375a8m29d (dez/2022); TRF-2 eliminou mais 40a6m em mar/2024 (3 sentenças anuladas por incompetência da 7ª Vara)",
+      "status_atual": "Preso de 17/11/2016 a 16/12/2022, quando a 2ª Turma do STF derrubou o último mandado (3x2, excesso de prazo); recolhimento noturno autorizado pela JF-PR em 17–18/01/2023; liberado da domiciliar com tornozeleira em 09/02/2023 e sem restrições de circulação em 03/03/2023 (juiz Appio). Delação homologada por Fachin (06/02/2020) anulada pelo STF em mai/2021; Appio anulou a condenação de Moro por parcialidade e Toffoli restaurou; Toffoli negou (jul/2025) estender a anulação de Youssef. Repatriação de R$ 74,8 mi (Cabral/Eike) em 16/05/2024. Condenação CIVIL em 06/10/2025 (15ª Vara de Fazenda Pública do RJ: R$ 2,5 bi; direitos políticos suspensos por 10 anos; recorrível). Nenhuma sentença criminal transitada em julgado; inelegível (Ficha Limpa); nenhum registro de candidatura em 2026 localizado (inferência pela ausência de notícia após o prazo de 15/08/2026). Lista completa das 23–24 sentenças com status individual indisponível; soma vigente em 2026 não recalculada.",
+      "status_categoria": "condenado-2a",
       "url": "https://pt.wikipedia.org/wiki/S%C3%A9rgio_Cabral_Filho",
-      "nao_verificado": true
+      "nao_verificado": true,
+      "condenacoes_detalhe": [
+        {
+          "data": "2017-06-13",
+          "juizo": "13ª Vara Federal de Curitiba (Moro)",
+          "pena": "14a2m",
+          "caso": "Comperj; corrupção passiva e lavagem",
+          "status": "Confirmada pelo TRF-4 em 30/05/2018; 2ª Turma do STF manteve os atos de Moro (incompetência rejeitada, dez/2022)",
+          "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2017/06/13/moro-condena-sergio-cabral-por-corrupcao-passiva-na-comperj.htm"
+        },
+        {
+          "data": "2017-09-20",
+          "juizo": "7ª Vara Federal Criminal do RJ (Bretas)",
+          "pena": "45a2m",
+          "caso": "Calicute; corrupção passiva, lavagem, organização criminosa",
+          "status": "não verificado",
+          "url": "https://veja.abril.com.br/politica/juiz-da-lava-jato-condena-sergio-cabral-a-45-anos-de-prisao/"
+        },
+        {
+          "data": "2017-10-20",
+          "juizo": "JF-RJ",
+          "pena": "13a",
+          "caso": "Mascate; lavagem",
+          "status": "não verificado",
+          "url": "https://pt.wikipedia.org/wiki/S%C3%A9rgio_Cabral_Filho"
+        },
+        {
+          "data": "2017-12",
+          "juizo": "JF-RJ",
+          "pena": "15a",
+          "caso": "4ª condenação (com Adriana Ancelmo)",
+          "status": "não verificado",
+          "url": "https://g1.globo.com/jornal-nacional/noticia/2017/12/ex-governador-cabral-e-mulher-sao-condenados-de-novo-na-lava-jato.html"
+        },
+        {
+          "data": "2018-03-02",
+          "juizo": "JF-RJ",
+          "pena": "13a4m",
+          "caso": "Joias H.Stern; lavagem (soma então ~100 anos)",
+          "status": "não verificado",
+          "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2018/03/02/cabral-e-condenado-pela-5-vez-e-pena-chega-a-100-anos.htm"
+        },
+        {
+          "data": "2018-09-11",
+          "juizo": "JF-RJ",
+          "pena": "47a4m",
+          "caso": "corrupção, quadrilha",
+          "status": "não verificado",
+          "url": "https://pt.wikipedia.org/wiki/S%C3%A9rgio_Cabral_Filho"
+        },
+        {
+          "data": "2019-08-28",
+          "juizo": "7ª Vara Federal Criminal do RJ (Bretas)",
+          "pena": "18a",
+          "caso": "Rede Dirija; lavagem",
+          "status": "não verificado",
+          "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2019/08/28/sergio-cabral-e-condenado-a-mais-18-anos-de-prisao.ghtml"
+        },
+        {
+          "data": "2019-10",
+          "juizo": "JF-RJ",
+          "pena": "33a3m",
+          "caso": "corrupção passiva, lavagem, evasão",
+          "status": "não verificado",
+          "url": "https://pt.wikipedia.org/wiki/S%C3%A9rgio_Cabral_Filho"
+        },
+        {
+          "data": "2020-01-29",
+          "juizo": "7ª Vara Federal Criminal do RJ (Bretas)",
+          "pena": "14a7m",
+          "caso": "contratos de saúde; corrupção passiva (soma então 280 anos)",
+          "status": "não verificado",
+          "url": "https://www.conjur.com.br/2020-jan-29/cabral-condenado-14-anos-penas-somam-280-anos"
+        },
+        {
+          "data": "2021-11",
+          "juizo": "7ª Vara Federal Criminal do RJ (Bretas)",
+          "pena": "10a8m",
+          "caso": "propina Olimpíadas",
+          "status": "não verificado",
+          "url": "https://pt.wikipedia.org/wiki/S%C3%A9rgio_Cabral_Filho"
+        },
+        {
+          "data": "2022-05-31",
+          "juizo": "JF-RJ",
+          "pena": "17a7m9d",
+          "caso": "Odebrecht (PAC Favelas, Maracanã, Linha 4, Arco Metropolitano); corrupção passiva",
+          "status": "não verificado",
+          "url": "https://pt.wikipedia.org/wiki/S%C3%A9rgio_Cabral_Filho"
+        },
+        {
+          "data": "2025-10-06",
+          "juizo": "15ª Vara de Fazenda Pública do RJ (civil)",
+          "pena": "R$ 2,5 bi + 10 anos sem direitos políticos",
+          "caso": "improbidade (com Pezão e Hudson Braga)",
+          "status": "recorrível",
+          "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2025/10/06/cabral-pezao-e-hudson-braga-sao-condenados-esquema-de-currupcao.ghtml"
+        }
+      ],
+      "nota_condenacoes": "Tabela parcial (11 condenações criminais com data; a Wikipédia lista 23–24). Anulações conhecidas: 1 pelo STF em dez/2021 (não identificada); 3 pelo TRF-2 em mar/2024 (−40a6m)."
     },
     {
       "nome": "Geddel Vieira Lima",
       "partido_na_epoca": "PMDB/MDB",
       "cargo": "ex-ministro",
-      "crime": "lavagem de dinheiro ('bunker' com R$ 51 mi)",
+      "crime": "lavagem de dinheiro ('bunker' com R$ 51 mi); associação criminosa derrubada em 2021",
       "tribunal": "STF, 2ª Turma",
       "data_condenacao": "2019-10-22",
-      "pena": "14a10m em regime fechado + R$ 52 mi de danos (irmão Lúcio Vieira Lima: 10a6m)",
-      "status_atual": "Preso em jul e set/2017; crime de associação criminosa derrubado depois; Fachin autorizou semiaberto; liberdade condicional em fev/2022. Absolvido no quadrilhão do MDB (2021/2023). Situação em 2026 não localizada; trânsito em julgado não explicitado nas notas.",
-      "status_categoria": "condenado-1a",
-      "url": "https://www.poder360.com.br/justica/stf-condena-geddel-e-lucio-vieira-lima-por-bunker-de-r-51-milhoes/",
+      "pena": "14a10m em regime fechado + R$ 52 mi de danos (irmão Lúcio Vieira Lima: 10a6m); reduzida a 13a4m em 23/08/2021 (associação criminosa e multa derrubadas, 3x1)",
+      "status_atual": "Preso em jul e set/2017; prisão domiciliar desde jul/2020 (liminar covid); progressão ao semiaberto em set/2021 (1/6 da pena); livramento condicional deferido por Fachin (EP 31) em fev/2022, com remição de 681 dias. Em jul/2023 admitiu em podcast que os R$ 51 mi eram para sua campanha ao governo da Bahia e disse pretender voltar a concorrer. Absolvido no quadrilhão do MDB (2021/2023). Situação 2024–2026 (extinção da pena, candidatura) não localizada.",
+      "status_categoria": "cumprindo-pena",
+      "url": "https://www.aosfatos.org/noticias/geddel-nao-foi-inocentado-de-todos-os-crimes-do-caso-das-malas-com-r-51-milhoes/",
       "nao_verificado": true
     },
     {
@@ -1158,10 +1564,10 @@
       "partido_na_epoca": "PMDB/MDB",
       "cargo": "ex-presidente da Câmara, ex-ministro do Turismo",
       "crime": "corrupção passiva, lavagem de dinheiro e falsidade eleitoral (Operação Sépsis)",
-      "tribunal": "Justiça Federal; TRF-1",
-      "data_condenacao": null,
-      "pena": null,
-      "status_atual": "Nenhuma condenação em nenhuma instância (defesa, dez/2021). Preso em 06/06/2017 (Manus/Arena das Dunas), domiciliar em mai/2018, livre em jul/2018. Ação da Sépsis anulada pelo TRF-1 (dez/2021) e remetida à Justiça Eleitoral do RN. Candidato (PSB) em 2022, não eleito; voltou ao MDB em 2026.",
+      "tribunal": "10ª Vara Federal Criminal do DF; TRF-1",
+      "data_condenacao": "2018",
+      "pena": "8a8m por lavagem (10ª Vara Federal Criminal do DF, 2018; Poder360, ago/2021)",
+      "status_atual": "Preso em 06/06/2017 (Manus/Arena das Dunas), domiciliar em mai/2018, livre em jul/2018. Ação da Sépsis ANULADA pelo TRF-1 (dez/2021) e remetida à Justiça Eleitoral do RN; a defesa afirmava em dez/2021 não haver condenação em nenhuma instância (divergência entre fontes: a condenação de 2018 consta de Poder360). Candidato (PSB) em 2022, não eleito; voltou ao MDB em 2026.",
       "status_categoria": "anulada",
       "url": "https://pt.wikipedia.org/wiki/Henrique_Eduardo_Alves"
     },
@@ -1169,13 +1575,25 @@
       "nome": "Michel Temer",
       "partido_na_epoca": "PMDB/MDB",
       "cargo": "ex-presidente da República",
-      "crime": "corrupção passiva (JBS/Rocha Loures), obstrução de justiça e organização criminosa ('quadrilhão do PMDB', ≥R$ 587 mi) — denúncias da PGR em 2017",
-      "tribunal": "Câmara (barrou as denúncias em 2017); 12ª Vara Federal do DF; TRF-1; 7ª Vara Federal Criminal do RJ (Bretas)",
+      "crime": "corrupção passiva (JBS/Rocha Loures), obstrução de justiça e organização criminosa ('quadrilhão do PMDB', ≥R$ 587 mi) — denúncias da PGR em 2017; corrupção e lavagem (Eletronuclear/Angra 3)",
+      "tribunal": "Câmara (barrou as denúncias em 2017); 12ª Vara Federal do DF; TRF-1; 7ª Vara Federal Criminal do RJ (Bretas); 11ª Vara Federal do RJ (improbidade)",
       "data_condenacao": null,
       "pena": null,
-      "status_atual": "Nenhuma condenação. Preso em 21–25/03/2019 e 09–14/05/2019 por ordem de Bretas (Eletronuclear/Engevix); solto pelo TRF-2 e pelo STJ. Absolvido sumariamente no quadrilhão do MDB (12ª Vara DF, mai/2021; TRF-1 negou recurso do MPF em mar/2023), no caso da gravação com Joesley e na obstrução. Status das ações Eletronuclear/Angra 3 e Skala/Porto de Santos não localizado.",
+      "status_atual": "Nenhuma condenação. Preso em 21–25/03/2019 e 09–14/05/2019 por ordem de Bretas (Eletronuclear/Engevix); solto pelo TRF-2 e pelo STJ. Absolvido sumariamente no quadrilhão do MDB (12ª Vara DF, mai/2021; TRF-1 negou recurso do MPF em mar/2023), no caso da gravação com Joesley e na obstrução. ELETRONUCLEAR: Moraes anulou em 20/05/2021 a decisão de Bretas que o tornara réu e remeteu o caso ao DF; a 12ª Vara Federal do DF rejeitou a denúncia/absolveu sumariamente 8 réus em fev/2022 (denúncia 'genérica', baseada só na delação de Antunes Sobrinho), decisão transitada em julgado; na improbidade, a 11ª Vara Federal do RJ absolveu 16 réus em 26/11/2025 (propina alegada de R$ 1 mi, AF Consult/Engevix). Skala/Porto de Santos: desfecho não localizado. Escritório contratado pelo Banco Master (ver banco-master).",
       "status_categoria": "absolvido",
       "url": "https://pt.wikipedia.org/wiki/Michel_Temer"
+    },
+    {
+      "nome": "Moreira Franco",
+      "partido_na_epoca": "PMDB/MDB",
+      "cargo": "ex-ministro (Secretaria-Geral; Minas e Energia)",
+      "crime": "corrupção e lavagem (Eletronuclear/Angra 3); improbidade",
+      "tribunal": "12ª Vara Federal do DF; 11ª Vara Federal do RJ",
+      "data_condenacao": null,
+      "pena": null,
+      "status_atual": "Denúncia rejeitada/absolvição sumária na 12ª Vara Federal do DF (fev/2022), transitada em julgado; absolvido na ação de improbidade (11ª Vara Federal do RJ, 26/11/2025).",
+      "status_categoria": "absolvido",
+      "url": "https://www.conjur.com.br/2025-nov-26/temer-moreira-franco-e-othon-sao-absolvidos-em-acao-de-improbidade-na-eletronuclear/"
     },
     {
       "nome": "Fernando Collor",
@@ -1216,14 +1634,104 @@
     {
       "nome": "Luiz Fernando Pezão",
       "partido_na_epoca": "PMDB/MDB",
-      "cargo": "ex-governador do RJ",
-      "crime": "não detalhado nas notas (ações no RJ)",
-      "tribunal": "Justiça Federal do RJ; Justiça Eleitoral",
-      "data_condenacao": null,
-      "pena": null,
-      "status_atual": "Condenações no RJ não detalhadas nas fontes obtidas; provas Drousys/MyWebDay anuladas em ação eleitoral (Toffoli); condenado em ação CIVIL junto com Cabral (06/10/2025).",
-      "status_categoria": "anulada",
-      "url": "https://transparenciainternacional.org.br/posts/a-farra-das-leniencias-decisoes-controversas-e-anulacoes-em-massa/",
+      "cargo": "ex-governador do RJ; prefeito de Piraí (RJ) desde 01/01/2025",
+      "crime": "corrupção ativa e passiva, organização criminosa e lavagem de dinheiro (Boca de Lobo/Calicute/Eficiência)",
+      "tribunal": "7ª Vara Federal Criminal do RJ (Bretas)",
+      "data_condenacao": "2021-06",
+      "pena": "98a11m",
+      "status_atual": "Condenado em jun/2021; recorre em liberdade; status do recurso no TRF-2 não localizado. Provas Drousys/MyWebDay (Odebrecht) anuladas em ação eleitoral no RJ (Toffoli, abr/2025). Eleito prefeito de Piraí (MDB) em 2024 com 58,58%, sub judice por improbidade (liminar de Mendonça), confirmado. Condenação CIVIL em 06/10/2025 (com Cabral e Hudson Braga): R$ 1,4 bi + 9 anos de suspensão de direitos políticos, recorrível.",
+      "status_categoria": "condenado-1a",
+      "url": "https://www.agazeta.com.br/brasil/ex-governador-pezao-e-condenado-a-mais-de-98-anos-de-prisao-na-lava-jato-0621"
+    },
+    {
+      "nome": "Jorge Picciani",
+      "partido_na_epoca": "MDB-RJ",
+      "cargo": "ex-presidente da Alerj",
+      "crime": "corrupção, lavagem de dinheiro e organização criminosa (Fetranspor/Odebrecht — Operação Cadeia Velha)",
+      "tribunal": "TRF-2, 1ª Seção Especializada (rel. Abel Gomes)",
+      "data_condenacao": "2019-03-28",
+      "pena": "21 anos + multa de R$ 11 mi; inelegível por 8 anos",
+      "status_atual": "Condenado por unanimidade pelo TRF-2 em 28/03/2019 (foro por prerrogativa); estava em prisão domiciliar; cabia recurso ao STJ. MORREU em 14/05/2021, aos 66 anos, sem trânsito em julgado.",
+      "status_categoria": "condenado-2a",
+      "url": "https://www.conjur.com.br/2019-mar-28/trf-condena-picciani-outros-ex-deputados-corrupcao/",
+      "falecido_em": "2021-05-14"
+    },
+    {
+      "nome": "Edson Albertassi",
+      "partido_na_epoca": "MDB-RJ",
+      "cargo": "ex-deputado estadual",
+      "crime": "organização criminosa e corrupção (Cadeia Velha)",
+      "tribunal": "TRF-2, 1ª Seção Especializada",
+      "data_condenacao": "2019-03-28",
+      "pena": "13a4m + multa de R$ 6 mi",
+      "status_atual": "Preso em Bangu 8 à época; recurso ao STJ possível; status 2026 não verificado.",
+      "status_categoria": "condenado-2a",
+      "url": "https://www.poder360.com.br/justica/trf-2-condena-ex-presidente-da-alerj-e-2-ex-deputados-por-corrupcao/",
+      "nao_verificado": true
+    },
+    {
+      "nome": "Paulo Melo",
+      "partido_na_epoca": "MDB-RJ",
+      "cargo": "ex-presidente da Alerj",
+      "crime": "organização criminosa e corrupção (Cadeia Velha)",
+      "tribunal": "TRF-2, 1ª Seção Especializada",
+      "data_condenacao": "2019-03-28",
+      "pena": "12a5m + multa de R$ 7 mi",
+      "status_atual": "Preso em Bangu 8 à época; status 2026 não verificado.",
+      "status_categoria": "condenado-2a",
+      "url": "https://www.poder360.com.br/justica/trf-2-condena-ex-presidente-da-alerj-e-2-ex-deputados-por-corrupcao/",
+      "nao_verificado": true
+    },
+    {
+      "nome": "Jacob Barata Filho",
+      "partido_na_epoca": "sem partido (empresário de ônibus)",
+      "cargo": "empresário",
+      "crime": "corrupção ativa (Cadeia Velha)",
+      "tribunal": "7ª Vara Federal Criminal do RJ (Bretas)",
+      "data_condenacao": "2019-03-28",
+      "pena": "12 anos",
+      "status_atual": "Sentença de 28/03/2019; status posterior não verificado.",
+      "status_categoria": "condenado-1a",
+      "url": "https://exame.com/brasil/bretas-condena-barata-picciani-e-mais-nove-na-operacao-cadeia-velha",
+      "nao_verificado": true
+    },
+    {
+      "nome": "Felipe Picciani",
+      "partido_na_epoca": "sem partido (empresário; filho de Jorge Picciani)",
+      "cargo": "empresário",
+      "crime": "lavagem de dinheiro e organização criminosa (Cadeia Velha)",
+      "tribunal": "7ª Vara Federal Criminal do RJ (Bretas)",
+      "data_condenacao": "2019-03-28",
+      "pena": "17a10m",
+      "status_atual": "Sentença de 28/03/2019; status posterior não verificado.",
+      "status_categoria": "condenado-1a",
+      "url": "https://exame.com/brasil/bretas-condena-barata-picciani-e-mais-nove-na-operacao-cadeia-velha",
+      "nao_verificado": true
+    },
+    {
+      "nome": "Lélis Teixeira",
+      "partido_na_epoca": "sem partido (ex-presidente da Fetranspor)",
+      "cargo": "ex-presidente da Fetranspor",
+      "crime": "corrupção ativa qualificada (Cadeia Velha)",
+      "tribunal": "7ª Vara Federal Criminal do RJ (Bretas)",
+      "data_condenacao": "2019-03-28",
+      "pena": "13 anos",
+      "status_atual": "Sentença de 28/03/2019 (Bretas condenou 11 réus; 8 não nomeados na fonte); status posterior não verificado.",
+      "status_categoria": "condenado-1a",
+      "url": "https://exame.com/brasil/bretas-condena-barata-picciani-e-mais-nove-na-operacao-cadeia-velha",
+      "nao_verificado": true
+    },
+    {
+      "nome": "Paulo Vieira de Souza ('Paulo Preto')",
+      "partido_na_epoca": "sem partido (ex-diretor da Dersa em governos do PSDB-SP)",
+      "cargo": "ex-diretor da Dersa",
+      "crime": "não detalhado nas notas (frente São Paulo)",
+      "tribunal": "5ª Vara Federal Criminal de São Paulo",
+      "data_condenacao": "2019-02-28",
+      "pena": "27 anos (28/02/2019) e 145a8m (06/03/2019)",
+      "status_atual": "Condenado mais próximo do PSDB-SP localizado, mas não era político filiado/eleito. Status 2026 das condenações não verificado.",
+      "status_categoria": "condenado-1a",
+      "url": "https://www.poder360.com.br/lava-jato/5-anos-de-lava-jato-285-condenacoes-600-reus-e-3-000-anos-de-penas/",
       "nao_verificado": true
     },
     {
@@ -1257,7 +1765,7 @@
       "crime": "corrupção ativa, lavagem de dinheiro e associação criminosa",
       "tribunal": "13ª Vara Federal de Curitiba (Moro)",
       "data_condenacao": "2016-03-08",
-      "pena": "19a4m (reduzida por acordo; Fachin reduziu de 10 para 7,5 anos em abr/2022)",
+      "pena": "19a4m na 1ª sentença; penas somadas 43a8m (Folhapress, fev/2021), reduzidas por acordo (Fachin reduziu de 10 para 7,5 anos em abr/2022)",
       "status_atual": "Preso em 19/06/2015; delação em 01/12/2016; domiciliar em 19/12/2017 após ~2,5 anos preso; pena cumprida em 28/04/2023. Toffoli anulou decisões da 13ª Vara contra ele (21/05/2024); 2ª Turma manteve a anulação mas preservou as ações (06/09/2024).",
       "status_categoria": "pena-cumprida",
       "url": "https://g1.globo.com/politica/noticia/2024/05/21/stf-anula-decisoes-da-lava-jato-contra-marcelo-odebrecht.ghtml"
@@ -1266,11 +1774,11 @@
       "nome": "Alberto Youssef",
       "partido_na_epoca": "sem partido (doleiro, delator)",
       "cargo": "doleiro",
-      "crime": "lavagem de dinheiro e outros (condenações somavam >120 anos)",
+      "crime": "lavagem de dinheiro e outros",
       "tribunal": "13ª Vara Federal de Curitiba",
       "data_condenacao": null,
-      "pena": "Condenações somadas superiores a 120 anos (anuladas)",
-      "status_atual": "Toffoli anulou em 2025 todos os atos da Lava Jato contra ele.",
+      "pena": "122 anos somados (Folhapress, fev/2021) — todas anuladas",
+      "status_atual": "Toffoli anulou em 2025 todos os atos da Lava Jato contra ele (nulidade absoluta).",
       "status_categoria": "anulada",
       "url": "https://transparenciainternacional.org.br/posts/a-farra-das-leniencias-decisoes-controversas-e-anulacoes-em-massa/"
     },
@@ -1281,7 +1789,7 @@
       "crime": "não detalhado nas notas",
       "tribunal": "STF, 2ª Turma",
       "data_condenacao": null,
-      "pena": null,
+      "pena": "~37 anos somados (Folhapress, fev/2021) — anuladas",
       "status_atual": "2ª Turma do STF anulou as ações contra ele em 2025.",
       "status_categoria": "anulada",
       "url": "https://transparenciainternacional.org.br/posts/a-farra-das-leniencias-decisoes-controversas-e-anulacoes-em-massa/"
@@ -1299,17 +1807,134 @@
       "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2024-03/lava-jato-completa-10-anos-com-resultados-em-xeque-e-prestigio-abalado"
     },
     {
+      "nome": "Paulo Roberto Costa",
+      "partido_na_epoca": "sem partido (ex-diretor de Abastecimento da Petrobras; delator)",
+      "cargo": "ex-diretor da Petrobras",
+      "crime": "corrupção, lavagem e outros",
+      "tribunal": "13ª Vara Federal de Curitiba",
+      "data_condenacao": null,
+      "pena": "mais de 75 anos somados (Folhapress, fev/2021)",
+      "status_atual": "Delator; em regime aberto em fev/2021. Status posterior não verificado.",
+      "status_categoria": "cumprindo-pena",
+      "url": "https://www.bandab.com.br/politica/saiba-o-que-aconteceu-com-os-principais-alvos-da-lava-jato-de-curitiba/amp/",
+      "nao_verificado": true
+    },
+    {
+      "nome": "Renato Duque",
+      "partido_na_epoca": "sem partido (ex-diretor de Serviços da Petrobras, indicado pelo PT)",
+      "cargo": "ex-diretor da Petrobras",
+      "crime": "corrupção, lavagem e outros",
+      "tribunal": "13ª Vara Federal de Curitiba",
+      "data_condenacao": null,
+      "pena": "~140 anos somados (Folhapress, fev/2021)",
+      "status_atual": "Em prisão domiciliar desde mar/2020; pedido de anulação pendente na 2ª Turma do STF (2x2: Gilmar e Toffoli × Mendonça e Nunes Marques; falta Fux). Moraes cobrou explicações sobre a partilha de R$ 162 mi confiscados dele com Mônaco (dez/2025).",
+      "status_categoria": "condenado-1a",
+      "url": "https://docs.transparenciainternacional.org.br/biblioteca/retrospectiva-brasil-2025.pdf",
+      "nao_verificado": true
+    },
+    {
+      "nome": "Nestor Cerveró",
+      "partido_na_epoca": "sem partido (ex-diretor Internacional da Petrobras; delator)",
+      "cargo": "ex-diretor da Petrobras",
+      "crime": "corrupção, lavagem e outros",
+      "tribunal": "13ª Vara Federal de Curitiba",
+      "data_condenacao": null,
+      "pena": "32a5m + 6a8m (Folhapress, fev/2021)",
+      "status_atual": "Status posterior a fev/2021 não verificado.",
+      "status_categoria": "condenado-1a",
+      "url": "https://www.bandab.com.br/politica/saiba-o-que-aconteceu-com-os-principais-alvos-da-lava-jato-de-curitiba/amp/",
+      "nao_verificado": true
+    },
+    {
+      "nome": "Pedro Barusco",
+      "partido_na_epoca": "sem partido (ex-gerente da Petrobras; delator)",
+      "cargo": "ex-gerente da Petrobras",
+      "crime": "corrupção, lavagem e outros",
+      "tribunal": "13ª Vara Federal de Curitiba",
+      "data_condenacao": null,
+      "pena": "17a6m / 27a4m, suspensas por acordo de colaboração",
+      "status_atual": "Penas suspensas pelo acordo; devolveu valores à Petrobras (parcela de R$ 439 mi no 3T2022 com Camargo Corrêa, Novonor e SBM).",
+      "status_categoria": "condenado-1a",
+      "url": "https://www.bandab.com.br/politica/saiba-o-que-aconteceu-com-os-principais-alvos-da-lava-jato-de-curitiba/amp/",
+      "nao_verificado": true
+    },
+    {
+      "nome": "João Santana",
+      "partido_na_epoca": "sem partido (marqueteiro de campanhas do PT)",
+      "cargo": "publicitário",
+      "crime": "lavagem de dinheiro e outros",
+      "tribunal": "13ª Vara Federal de Curitiba",
+      "data_condenacao": null,
+      "pena": "15a10m (Folhapress, fev/2021)",
+      "status_atual": "Toffoli estendeu a ele e a Mônica Moura (jun/2024) a anulação das provas da leniência Odebrecht.",
+      "status_categoria": "anulada",
+      "url": "https://www.poder360.com.br/justica/toffoli-anula-provas-da-odebrecht-contra-ex-marqueteiro-do-pt/"
+    },
+    {
+      "nome": "Dario Galvão",
+      "partido_na_epoca": "sem partido (empresário, Galvão Engenharia)",
+      "cargo": "empresário",
+      "crime": "corrupção e outros",
+      "tribunal": "13ª Vara Federal de Curitiba",
+      "data_condenacao": null,
+      "pena": "20a6m (Folhapress, fev/2021)",
+      "status_atual": "Status posterior não verificado.",
+      "status_categoria": "condenado-1a",
+      "url": "https://www.bandab.com.br/politica/saiba-o-que-aconteceu-com-os-principais-alvos-da-lava-jato-de-curitiba/amp/",
+      "nao_verificado": true
+    },
+    {
+      "nome": "Fernando Soares ('Fernando Baiano')",
+      "partido_na_epoca": "sem partido (operador; delator)",
+      "cargo": "operador financeiro",
+      "crime": "corrupção, lavagem e outros",
+      "tribunal": "13ª Vara Federal de Curitiba",
+      "data_condenacao": null,
+      "pena": "31 anos, pena suspensa por delação",
+      "status_atual": "Status posterior não verificado.",
+      "status_categoria": "condenado-1a",
+      "url": "https://www.bandab.com.br/politica/saiba-o-que-aconteceu-com-os-principais-alvos-da-lava-jato-de-curitiba/amp/",
+      "nao_verificado": true
+    },
+    {
+      "nome": "Eike Batista",
+      "partido_na_epoca": "sem partido (empresário)",
+      "cargo": "empresário",
+      "crime": "corrupção ativa e lavagem (propina a Cabral)",
+      "tribunal": "7ª Vara Federal Criminal do RJ (Bretas)",
+      "data_condenacao": null,
+      "pena": "30 anos (Poder360, mar/2019)",
+      "status_atual": "Repatriação de R$ 74,8 mi no processo Cabral/Eike (16/05/2024). Status 2026 não verificado.",
+      "status_categoria": "condenado-1a",
+      "url": "https://www.poder360.com.br/lava-jato/5-anos-de-lava-jato-285-condenacoes-600-reus-e-3-000-anos-de-penas/",
+      "nao_verificado": true
+    },
+    {
       "nome": "Walter Delgatti Neto",
       "partido_na_epoca": "sem partido (hacker)",
       "cargo": "hacker (Operação Spoofing / Vaza Jato)",
       "crime": "invasão de dispositivo, interceptação ilegal, organização criminosa e lavagem de dinheiro",
       "tribunal": "10ª Vara Federal do DF (Ricardo Leite)",
-      "data_condenacao": "2023-08",
-      "pena": "20 anos (recorrível)",
-      "status_atual": "Confessou em 24/07/2019 ter invadido celulares de Moro e de centenas de autoridades; condenado em ago/2023. Status do recurso e pena final não verificados.",
+      "data_condenacao": "2023-08-21",
+      "pena": "20 anos e 1 mês + 736 dias-multa",
+      "status_atual": "Confessou em 24/07/2019 ter invadido celulares de Moro e de centenas de autoridades; condenado em 21/08/2023 (co-réus: Thiago Eliezer Martins Santos 18a11m, Gustavo Henrique Elias Santos 13a9m, Danilo Cristiano Marques 10a5m, Suelen Priscila de Oliveira 6a). Resultado da apelação no TRF-1 não localizado. Também condenado por calúnia contra Bolsonaro (3ª Vara Criminal de Brasília, jul/2024, 10m20d) e contra o procurador Januário Paludo (1a1m10d).",
       "status_categoria": "condenado-1a",
-      "url": "https://oimparcial.com.br/noticias/2023/08/hacker-delgatti-e-condenado-a-20-anos-de-prisao-por-vazar-mensagens-da-lava-jato/",
+      "url": "https://www.poder360.com.br/justica/justica-condena-delgatti-a-20-anos-de-prisao-por-vaza-jato/",
+      "caso": "Operação Spoofing (Vaza Jato)",
       "nao_verificado": true
+    },
+    {
+      "nome": "Walter Delgatti Neto",
+      "partido_na_epoca": "sem partido (hacker)",
+      "cargo": "hacker",
+      "crime": "invasão de dispositivo e falsidade ideológica (invasão do sistema do CNJ, com Carla Zambelli)",
+      "tribunal": "STF, 1ª Turma",
+      "data_condenacao": "2025-05-14",
+      "pena": "8a3m",
+      "status_atual": "Condenado por unanimidade em 14/05/2025; trânsito em julgado em jun/2025; semiaberto autorizado por Moraes em 09/01/2026; remição de 100 dias pelo Enem PPL (31/03/2026); regime aberto autorizado em 07/05/2026, deixou a Penitenciária 2 de Potim em 08/05/2026; pedido de indulto natalino (jan/2026) sem resultado localizado. A prisão cumprida em 2025–26 foi por este caso, não pela Spoofing.",
+      "status_categoria": "cumprindo-pena",
+      "url": "https://g1.globo.com/politica/noticia/2026/05/07/moraes-autoriza-hacker-de-araraquara-a-cumprir-pena-em-regime-aberto.ghtml",
+      "caso": "Caso CNJ (não é Lava Jato)"
     }
   ],
   "linha_do_tempo": [
@@ -1334,6 +1959,11 @@
       "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2024-03/lava-jato-completa-10-anos-com-resultados-em-xeque-e-prestigio-abalado"
     },
     {
+      "data": "2016",
+      "evento": "Moro condena o ex-deputado Luiz Argôlo (Solidariedade-BA) a 12a8m + multa de R$ 2 mi.",
+      "url": "https://www.bandab.com.br/politica/saiba-o-que-aconteceu-com-os-principais-alvos-da-lava-jato-de-curitiba/amp/"
+    },
+    {
       "data": "2016-05-18",
       "evento": "Moro condena José Dirceu a 23a3m.",
       "url": "http://g1.globo.com/pr/parana/noticia/2016/05/justica-condena-ex-ministro-ze-dirceu-acao-da-lava-jato.html"
@@ -1352,6 +1982,11 @@
       "data": "2017-03-30",
       "evento": "Moro condena Eduardo Cunha a 15a4m.",
       "url": "http://estaticog1.globo.com/2017/03/30/sentenca_cunha.pdf"
+    },
+    {
+      "data": "2017",
+      "evento": "Moro condena o ex-senador Gim Argello (PTB-DF) a 11a8m + R$ 7,35 mi (corrupção, lavagem e obstrução na CPI da Petrobras); perdão judicial em 2019 com base no indulto de Temer (2017).",
+      "url": "https://www.bandab.com.br/politica/saiba-o-que-aconteceu-com-os-principais-alvos-da-lava-jato-de-curitiba/amp/"
     },
     {
       "data": "2017-04",
@@ -1390,13 +2025,33 @@
     },
     {
       "data": "2018-05",
-      "evento": "STF (2ª Turma) condena Nelson Meurer (PP), primeiro parlamentar em exercício condenado na Lava Jato pelo STF.",
-      "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Lava_Jato"
+      "evento": "STF (2ª Turma) condena Nelson Meurer (PP) a 13a9m10d (AP 996), primeiro parlamentar em exercício condenado na Lava Jato pelo STF; no mesmo ano a 2ª Turma absolve Gleisi Hoffmann (PT).",
+      "url": "https://www.poder360.com.br/lava-jato/5-anos-de-lava-jato-285-condenacoes-600-reus-e-3-000-anos-de-penas/"
+    },
+    {
+      "data": "2018-11-01",
+      "evento": "Balanço MPF: Moro já condenara ≥140 pessoas (>200 condenações), penas somadas de 2.036 anos, 347 acusados, ≥1.072 buscas.",
+      "url": "https://congressoemfoco.com.br/corrupcao/moro-condenou-140-a-penas-que-ultrapassam-2-mil-anos-veja-numeros-do-juiz-na-lava-jato"
     },
     {
       "data": "2018-11",
       "evento": "Moro deixa a magistratura para ser ministro da Justiça de Bolsonaro.",
       "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2024-03/lava-jato-completa-10-anos-com-resultados-em-xeque-e-prestigio-abalado"
+    },
+    {
+      "data": "2019-02-28",
+      "evento": "5ª Vara Federal de SP condena Paulo Vieira de Souza ('Paulo Preto', ex-Dersa) a 27 anos; em 06/03/2019, a 145a8m.",
+      "url": "https://www.poder360.com.br/lava-jato/5-anos-de-lava-jato-285-condenacoes-600-reus-e-3-000-anos-de-penas/"
+    },
+    {
+      "data": "2019-03-17",
+      "evento": "Balanço de 5 anos: 242 condenações/155 pessoas em Curitiba, 285 no total; >600 réus; penas somadas 3.093a11m23d; TRF-4 manteve 138 condenações e reformou 17.",
+      "url": "https://www.poder360.com.br/lava-jato/5-anos-de-lava-jato-285-condenacoes-600-reus-e-3-000-anos-de-penas/"
+    },
+    {
+      "data": "2019-03-28",
+      "evento": "Cadeia Velha (Alerj): TRF-2 condena Jorge Picciani (21a), Edson Albertassi (13a4m) e Paulo Melo (12a5m), todos MDB; Bretas condena Jacob Barata Filho (12a), Felipe Picciani (17a10m), Lélis Teixeira (13a) e mais 8.",
+      "url": "https://www.conjur.com.br/2019-mar-28/trf-condena-picciani-outros-ex-deputados-corrupcao/"
     },
     {
       "data": "2019-02-06",
@@ -1434,13 +2089,23 @@
       "url": "http://www.mpf.mp.br/grandes-casos/lava-jato/resultados"
     },
     {
+      "data": "2020-07-12",
+      "evento": "Nelson Meurer morre de covid-19 cumprindo pena em Francisco Beltrão (PR).",
+      "url": "https://www.poder360.com.br/brasil/ex-deputado-nelson-meurer-morre-por-covid-19/"
+    },
+    {
       "data": "2021-02-03",
       "evento": "Força-tarefa de Curitiba deixa de existir (procuradores incorporados ao Gaeco), sob o PGR Augusto Aras.",
       "url": "https://g1.globo.com/pr/parana/noticia/2021/02/03/forca-tarefa-da-lava-jato-no-parana-deixa-de-existir-diz-mpf.ghtml"
     },
     {
+      "data": "2021-02-15",
+      "evento": "Balanço de encerramento da força-tarefa (MPF-PR/Folhapress): 80 fases, 179 ações penais, 174 condenados, 209 colaborações, 17 leniências, R$ 4,3 bi devolvidos, R$ 14,8 bi em multas previstas.",
+      "url": "https://www.bandab.com.br/politica/saiba-o-que-aconteceu-com-os-principais-alvos-da-lava-jato-de-curitiba/amp/"
+    },
+    {
       "data": "2021-03-08",
-      "evento": "Fachin anula as condenações de Lula por incompetência da 13ª Vara (HC 193.726); plenário confirma em 15/04/2021.",
+      "evento": "Fachin anula as condenações de Lula por incompetência da 13ª Vara (HC 193.726).",
       "url": "https://g1.globo.com/politica/noticia/2021/03/08/fachin-anula-condenacoes-de-lula-relacionadas-a-operacao-lava-jato.ghtml"
     },
     {
@@ -1449,18 +2114,38 @@
       "url": "https://www.agazeta.com.br/brasil/carmen-lucia-muda-voto-e-stf-declara-moro-parcial-em-caso-de-lula-0321"
     },
     {
-      "data": "2021-05",
-      "evento": "12ª Vara Federal do DF absolve sumariamente Temer, Cunha, Geddel e mais 10 no 'quadrilhão do MDB'; STF anula a delação de Sérgio Cabral.",
-      "url": "https://www.cnnbrasil.com.br/politica/justica-absolve-integrantes-do-quadrilhao-do-mdb/"
+      "data": "2021-04-14",
+      "evento": "Plenário decide (9x2) que cabe a ele, e não à 2ª Turma, julgar a anulação das condenações de Lula.",
+      "url": "https://www.migalhas.com.br/quentes/343696/stf-decide-que-cabe-ao-plenario-julgar-condenacoes-de-lula"
     },
     {
-      "data": "2021-06-21",
-      "evento": "Lula e Gilberto Carvalho absolvidos na Zelotes (MP das montadoras), a pedido do MPF.",
-      "url": "https://g1.globo.com/politica/noticia/2021/06/21/justica-federal-absolve-lula-e-gilberto-carvalho-em-acao-da-operacao-zelotes.ghtml"
+      "data": "2021-04-15",
+      "evento": "Plenário confirma por 8x3 a anulação das condenações de Lula (vencidos Nunes Marques, Marco Aurélio e Fux); em 22/04 define o envio dos 4 processos à Justiça Federal do DF.",
+      "url": "https://www.poder360.com.br/justica/stf-confirma-anulacao-das-decisoes-da-justica-de-curitiba/"
+    },
+    {
+      "data": "2021-05-14",
+      "evento": "Jorge Picciani morre, aos 66 anos, sem trânsito em julgado da condenação de 21 anos.",
+      "url": "https://istoedinheiro.com.br/paes-e-castro-lamentam-a-morte-de-jorge-picciani"
+    },
+    {
+      "data": "2021-05-20",
+      "evento": "Moraes anula a decisão de Bretas que tornara Temer réu (Eletronuclear) e remete o caso a Brasília; em mai/2021 a 12ª Vara Federal do DF absolve sumariamente Temer, Cunha, Geddel e mais 10 no 'quadrilhão do MDB'; STF anula a delação de Sérgio Cabral.",
+      "url": "https://www.em.com.br/app/noticia/politica/2021/05/20/interna_politica,1268777/moraes-anula-decisao-de-bretas-que-colocou-temer-no-banco-dos-reus.shtml"
+    },
+    {
+      "data": "2021-06",
+      "evento": "Bretas condena Pezão a 98a11m (Boca de Lobo/Calicute/Eficiência); Lula e Gilberto Carvalho absolvidos na Zelotes (21/06).",
+      "url": "https://www.agazeta.com.br/brasil/ex-governador-pezao-e-condenado-a-mais-de-98-anos-de-prisao-na-lava-jato-0621"
+    },
+    {
+      "data": "2021-08-23",
+      "evento": "2ª Turma (3x1) derruba a condenação de Geddel por associação criminosa e a multa de R$ 52 mi; pena cai de 14a10m para 13a4m.",
+      "url": "https://www.aosfatos.org/noticias/geddel-nao-foi-inocentado-de-todos-os-crimes-do-caso-das-malas-com-r-51-milhoes/"
     },
     {
       "data": "2021-12-07",
-      "evento": "TRF-1 anula a condenação de Eduardo Cunha (FI-FGTS) e remete à Justiça Eleitoral; STJ anula condenações de Palocci, Vaccari e 11 réus (dez/2021).",
+      "evento": "TRF-1 anula a condenação de Eduardo Cunha (FI-FGTS) e a ação da Sépsis contra Henrique Alves, remetendo-as à Justiça Eleitoral; STJ anula condenações de Palocci, Vaccari e 11 réus (dez/2021); STF anula uma condenação de Cabral.",
       "url": "https://www.tupi.fm/justica/trf-1-anula-condenacoes-de-eduardo-cunha-caso-vai-a-justica-eleitoral/"
     },
     {
@@ -1469,59 +2154,84 @@
       "url": "https://conjur.com.br/2022-jan-28/justica-df-declara-prescricao-arquiva-acao-triplex-guaruja/"
     },
     {
+      "data": "2022-02",
+      "evento": "12ª Vara Federal do DF rejeita a denúncia/absolve sumariamente Temer, Moreira Franco e mais 6 no caso Eletronuclear (decisão transitada em julgado); Geddel obtém livramento condicional (Fachin, EP 31, 09/02).",
+      "url": "https://mais.opovo.com.br/jornal/politica/2022/02/07/temer-e-absolvido-em-acao-que-o-levou-a-prisao.html"
+    },
+    {
       "data": "2022-03-11",
       "evento": "Aécio Neves absolvido no caso JBS (7ª Vara Criminal Federal de SP); TRF-3 confirma em 27/07/2022.",
       "url": "https://atarde.com.br/politica/brasil/justica-de-sp-absolve-aecio-neves-no-caso-jbs-1189525"
     },
     {
       "data": "2022-11-01",
-      "evento": "Petrobras informa ter recebido mais de R$ 6,7 bi de colaborações, leniências e repatriações.",
-      "url": "https://www.suno.com.br/noticias/?p=314459"
+      "evento": "Petrobras informa ter recebido mais de R$ 6,7 bi de colaborações, leniências e repatriações; em 16/01/2023 recebe ~R$ 456 mi da UOP LLC (último comunicado localizado).",
+      "url": "https://agencia.petrobras.com.br/w/petrobras-recupera-r-439-milhoes-por-meio-de-acordos-de-leniencia-da-camargo-correa-novonor-s.a-e-sbm-e-acordo-de-colaboracao"
     },
     {
       "data": "2022-12",
-      "evento": "2ª Turma do STF solta Sérgio Cabral (3x2) por excesso de prisão preventiva.",
-      "url": "https://pt.wikipedia.org/wiki/S%C3%A9rgio_Cabral_Filho"
+      "evento": "2ª Turma do STF anula a 1ª condenação de André Vargas (incompetência); em 16/12 solta Sérgio Cabral (3x2) por excesso de prazo — penas de Cabral somavam 375a8m29d após anulações.",
+      "url": "https://oglobo.globo.com/rio/noticia/2022/12/ex-governador-sergio-cabral-tem-ultimo-mandado-de-prisao-derrubado-pelo-stf-apos-seis-anos-entenda-o-caso.ghtml"
     },
     {
       "data": "2023-03",
-      "evento": "TRF-1 nega recurso do MPF contra a absolvição de Temer, Cunha e Geddel no quadrilhão do MDB.",
+      "evento": "TRF-1 nega recurso do MPF contra a absolvição de Temer, Cunha e Geddel no quadrilhão do MDB; Appio retira as últimas restrições de circulação de Cabral (03/03).",
       "url": "https://exame.com/brasil/quadrilhao-do-mdb-trf1-nega-recurso-contra-absolvicao-de-temer-cunha-e-geddel"
     },
     {
       "data": "2023-05",
-      "evento": "STF condena Fernando Collor a 8a10m (AP 1.025).",
+      "evento": "STF condena Fernando Collor a 8a10m (AP 1.025); 2ª Turma anula (3x2) a condenação de Cunha no caso das sondas Samsung (29/05).",
       "url": "https://www.conjur.com.br/2025-abr-29/stf-confirma-prisao-de-collor-por-caso-da-lava-jato/"
     },
     {
-      "data": "2023-05-29",
-      "evento": "2ª Turma do STF anula (3x2) a condenação de Cunha no caso das sondas Samsung.",
-      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2023-05/supremo-anula-condenacao-de-cunha-na-lava-jato"
+      "data": "2023-06",
+      "evento": "5ª CCR do MPF reduz a multa da J&F de R$ 10,3 bi para ~R$ 3,5 bi (mai–jun/2023; divulgado em 18/08/2023); procurador do caso reclama ao Conselho Institucional (22/08).",
+      "url": "https://www.poder360.com.br/justica/camara-do-mpf-divulga-detalhes-de-acordo-com-a-jf/"
     },
     {
-      "data": "2023-08",
-      "evento": "Walter Delgatti condenado a 20 anos (Operação Spoofing).",
-      "url": "https://oimparcial.com.br/noticias/2023/08/hacker-delgatti-e-condenado-a-20-anos-de-prisao-por-vazar-mensagens-da-lava-jato/"
+      "data": "2023-08-21",
+      "evento": "Walter Delgatti condenado a 20a1m + 736 dias-multa (Operação Spoofing).",
+      "url": "https://www.poder360.com.br/justica/justica-condena-delgatti-a-20-anos-de-prisao-por-vaza-jato/"
     },
     {
       "data": "2023-09-06",
-      "evento": "Toffoli (RCL 43.007) anula todas as provas obtidas via leniência da Odebrecht usadas contra Lula; chama a prisão de 'armação'.",
+      "evento": "Toffoli (RCL 43.007) anula todas as provas obtidas via leniência da Odebrecht usadas contra Lula; chama a prisão de 'armação'. Conselho Institucional do MPF suspende o desconto da J&F (set/2023).",
       "url": "https://congressoemfoco.com.br/area/justica/toffoli-anula-todas-as-provas-contra-lula-em-acordos-da-lava-jato"
     },
     {
+      "data": "2023-10-01",
+      "evento": "2ª Turma anula (4x1) a 2ª condenação de André Vargas; ambas as condenações do 1º político condenado na Lava Jato estão anuladas.",
+      "url": "https://www.gazetadopovo.com.br/republica/stf-anula-condenacao-de-moro-contra-1o-reu-da-lava-jato/"
+    },
+    {
       "data": "2023-12-19",
-      "evento": "Toffoli suspende o pagamento da multa de R$ 10,3 bi da J&F ao MPF.",
+      "evento": "Toffoli suspende o pagamento da multa de R$ 10,3 bi da J&F ao MPF; TI-Brasil chama a decisão monocrática de 'desconcertante'.",
       "url": "https://www.cnnbrasil.com.br/politica/toffoli-suspende-multa-de-mais-de-r-10-bilhoes-do-acordo-de-leniencia-da-jf/"
     },
     {
       "data": "2024-02-01",
-      "evento": "Toffoli suspende provisoriamente os R$ 3,8 bi da Novonor ao MPF; em 09/02/2024 o STF esclarece que a suspensão não alcança CGU/AGU.",
-      "url": "https://www.poder360.com.br/justica/toffoli-suspende-pagamentos-de-multas-da-novonor/"
+      "evento": "Toffoli suspende as multas de R$ 8,5 bi (valor corrigido) da Novonor ao MPF e autoriza reavaliação do acordo; em 09/02/2024 o STF esclarece que a suspensão não alcança CGU/AGU; conciliação da ADPF 1051 aberta em fev/2024 (prorrogada em jul e ago).",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-suspende-multas-de-r-85-bilhoes-da-antiga-odebrecht-e-autoriza-a-reavaliacao-do-acordo-de-leniencia-da-operacao-lava-jato/"
+    },
+    {
+      "data": "2024-02-05",
+      "evento": "Toffoli manda a PGR apurar suposto acordo entre Transparência Internacional e a força-tarefa sobre recursos de leniências; a TI nega; sigilo retirado em 06/02.",
+      "url": "https://www.poder360.com.br/justica/transparencia-internacional-nega-ganhos-com-a-lava-jato/"
+    },
+    {
+      "data": "2024-03",
+      "evento": "TRF-2 anula 3 sentenças contra Cabral por incompetência da 7ª Vara, eliminando 40a6m.",
+      "url": "https://www.conjur.com.br/?p=758675"
     },
     {
       "data": "2024-05-21",
-      "evento": "Toffoli anula decisões da 13ª Vara contra Marcelo Odebrecht; 2ª Turma mantém a anulação mas preserva as ações (06/09/2024).",
+      "evento": "Toffoli anula decisões da 13ª Vara contra Marcelo Odebrecht; 2ª Turma mantém a anulação mas preserva as ações (06/09/2024). Repatriação de R$ 74,8 mi no processo Cabral/Eike (16/05).",
       "url": "https://g1.globo.com/politica/noticia/2024/05/21/stf-anula-decisoes-da-lava-jato-contra-marcelo-odebrecht.ghtml"
+    },
+    {
+      "data": "2024-10-11",
+      "evento": "Noticiado que o Conselho Institucional do MPF anulou por unanimidade o desconto de R$ 6,8 bi concedido à J&F.",
+      "url": "https://revistaoeste.com/politica/mpf-anula-desconto-de-r-68-bilhoes-concedido-a-jf-dos-irmaos-batista/"
     },
     {
       "data": "2024-10-28",
@@ -1544,40 +2254,61 @@
       "url": "https://www.conjur.com.br/2025-abr-29/stf-confirma-prisao-de-collor-por-caso-da-lava-jato/"
     },
     {
-      "data": "2025-10-06",
-      "evento": "Cabral e Pezão condenados em ação civil (15ª Vara de Fazenda Pública do RJ: R$ 2,5 bi; direitos políticos suspensos por 10 anos).",
-      "url": "https://guiadoinvestidor.com.br/?p=380526"
+      "data": "2025-08-15",
+      "evento": "ADPF 1051: Mendonça vota pela validade dos acordos de leniência e repactuação das obrigações; Dino pede vista. Sessão virtual de 15–22/08: 2ª Turma rejeita (3x2) o recurso da PGR contra a anulação dos atos contra Palocci (PET 13.460).",
+      "url": "https://noticias.stf.jus.br/postsnoticias/relator-vota-pela-validade-dos-acordos-de-leniencia-da-lava-jato/"
     },
     {
-      "data": "2025-11-04",
-      "evento": "10ª Vara Federal Criminal do DF reconhece coação do MPF na leniência da J&F, anula a cláusula penal e manda recalcular a multa.",
-      "url": "https://www.migalhas.com.br/quentes/443706/juiz-ve-coacao-em-acordo-de-leniencia-da-j-f-e-reduz-multa-bilionaria"
+      "data": "2025-10-06",
+      "evento": "Cabral (R$ 2,5 bi; 10 anos sem direitos políticos), Pezão (R$ 1,4 bi; 9 anos) e Hudson Braga condenados em ação civil de improbidade (15ª Vara de Fazenda Pública do RJ), recorrível.",
+      "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2025/10/06/cabral-pezao-e-hudson-braga-sao-condenados-esquema-de-currupcao.ghtml"
+    },
+    {
+      "data": "2025-11-01",
+      "evento": "10ª Vara Federal Criminal do DF reconhece coação do MPF e 'onerosidade excessiva' na leniência da J&F, anula a cláusula de R$ 10,3 bi e manda recalcular (dedução do pago aos EUA; base limitada ao Brasil); noticiado em 03–04/11.",
+      "url": "https://oantagonista.com.br/brasil/justica-determina-recalculo-de-multa-de-r-10-bilhoes-da-jf-por-onerosidade-excessiva/"
+    },
+    {
+      "data": "2025-11-26",
+      "evento": "11ª Vara Federal do RJ absolve Temer, Moreira Franco, Othon e mais 13 na ação de improbidade da Eletronuclear.",
+      "url": "https://www.conjur.com.br/2025-nov-26/temer-moreira-franco-e-othon-sao-absolvidos-em-acao-de-improbidade-na-eletronuclear/"
+    },
+    {
+      "data": "2025-11-28",
+      "evento": "ADPF 1051 retomada no plenário virtual (até 05/12/2025): Mendonça, Nunes Marques e Barroso pela validade dos acordos e competência central da CGU (MPF sem competência para leniência administrativa); Dino divergente em parte. Resultado final não localizado.",
+      "url": "https://www.congressoemfoco.com.br/noticia/114334/stf-volta-a-julgar-alcance-dos-acordos-de-leniencia-da-lava-jato"
     },
     {
       "data": "2026-02",
-      "evento": "Transparência Internacional Brasil publica balanço sobre 'farra das leniências' e 'anulações em massa'; ADPF 1051 (renegociação das leniências) pendente no plenário.",
-      "url": "https://transparenciainternacional.org.br/posts/a-farra-das-leniencias-decisoes-controversas-e-anulacoes-em-massa/"
+      "evento": "Transparência Internacional Brasil publica a Retrospectiva Brasil 2025 (cap. 'Farra das leniências', pp. 63-67): recursos contra Toffoli pendentes desde 2023; beneficiados em 2025 incluem Paulinho da Força, Pezão, Palocci, Léo Pinheiro, Paulo Bernardo, Youssef, Jaques Wagner (improbidade suspensa).",
+      "url": "https://docs.transparenciainternacional.org.br/biblioteca/retrospectiva-brasil-2025.pdf"
+    },
+    {
+      "data": "2026-09-03",
+      "evento": "TRE-MG indefere, por unanimidade, o registro de Eduardo Cunha a deputado federal (inelegível até 01/02/2027); em 04/10 ele obtém 32.075 votos anulados; recurso no TSE pendente.",
+      "url": "https://www.jb.com.br/brasil/justica/2026/09/1060809-tre-mg-indefere-candidatura-de-eduardo-cunha-a-deputado-federal.html"
     }
   ],
   "o_que_dizem_os_dois_lados": {
     "acusacao": "Para o MPF e ex-integrantes da força-tarefa, a operação comprovou um esquema bilionário de propinas em contratos públicos, com 159 condenados só em Curitiba, R$ 4 bi devolvidos e leniências de mais de R$ 22 bi; as anulações posteriores seriam formais (competência, parcialidade, prova ilícita) e não exame de mérito. Moro chamou os vazamentos da Vaza Jato de 'tentativa de inocentar corruptos' e Delgatti de 'estelionatário e mentiroso contumaz'; o MPF afirmou que as mensagens não mostravam ilegalidade; Dallagnol diz que a operação 'salvou o país'. A Transparência Internacional Brasil fala em 'farra das leniências' e aponta recursos da PGR/ANPR pendentes desde 2023.",
     "defesa": "Para as defesas e críticos, a Vaza Jato (mensagens Moro–Dallagnol publicadas pelo Intercept em 2019) mostrou juiz e acusação atuando em conjunto; o STF declarou Moro suspeito (2021) e a 13ª Vara incompetente para julgar fatos sem ligação direta com a Petrobras; Toffoli (set/2023) anulou provas da leniência Odebrecht e chamou a prisão de Lula de 'armação' e 'um dos maiores erros judiciários da história do país'. Críticas acadêmicas apontam interceptações prorrogadas além do prazo legal e prisões para forçar delações; Gilmar Mendes (2017): 'o combate ao crime não pode ser feito cometendo crimes'. Em nov/2025 a Justiça Federal do DF reconheceu coação do MPF na leniência da J&F."
   },
-  "status_atual_md": "**Em out/2026, a maior parte das condenações da Lava Jato contra políticos de primeira linha foi anulada (2021–2025) ou prescreveu**, quase sempre por nulidade processual (competência da 13ª Vara, suspeição de Moro, provas da leniência Odebrecht), e não por absolvição de mérito. Absolvições de mérito foram minoritárias (Aécio/JBS, Lula/Zelotes-MP e obstrução e quadrilhão do PT, Temer/quadrilhão do MDB). Com condenação criminal ainda em vigor entre os nomes mais citados restam Collor (trânsito em julgado, cumprindo pena em domiciliar), Nelson Meurer e Geddel (status não verificado) e parte das sentenças de Cabral (nenhuma definitiva). O MPF não publica balanço desde 2021, por isso os números de 2019 (159/204 condenados) são um teto histórico, não um retrato de 2026. As multas de leniência da J&F (R$ 10,3 bi) e da Novonor (R$ 3,8 bi) devidas ao MPF estão suspensas/em recálculo desde dez/2023; a renegociação geral (ADPF 1051) estava pendente em fev/2026.",
+  "status_atual_md": "**Em out/2026, a maior parte das condenações da Lava Jato contra políticos de primeira linha foi anulada (2021–2025) ou prescreveu**, quase sempre por nulidade processual (competência da 13ª Vara, suspeição de Moro, provas da leniência Odebrecht), e não por absolvição de mérito. Absolvições de mérito foram minoritárias (Aécio/JBS, Gleisi Hoffmann, Lula/Zelotes-MP e obstrução e quadrilhão do PT, Temer e Moreira Franco/quadrilhão do MDB e Eletronuclear). Com condenação criminal ainda em vigor entre os nomes mais citados restam Collor (trânsito em julgado, cumprindo pena em domiciliar), Geddel (13a4m; livramento condicional em 2022; situação 2024–2026 não localizada), Pezão (98a11m em 1ª instância, recorre em liberdade), parte das sentenças de Cabral (375a8m29d em dez/2022, menos 40a6m em 2024; nenhuma definitiva) e os ex-deputados da Alerj condenados pelo TRF-2 (Albertassi, Paulo Melo; Picciani morreu em 2021). Nelson Meurer morreu em 2020 cumprindo pena e André Vargas teve as duas condenações anuladas (2022–2023). O MPF não publica balanço desde o encerramento da força-tarefa (15/02/2021: 174 condenados, R$ 4,3 bi devolvidos), por isso esses números são um teto histórico, não um retrato de 2026. As multas de leniência da J&F (R$ 10,3 bi; reduzida pela 5ª CCR em 2023, desconto anulado pelo Conselho Institucional do MPF, suspensa por Toffoli em dez/2023 e mandada recalcular pela 10ª Vara do DF em 01/11/2025 — valor vigente indefinido) e da Novonor (R$ 3,8 bi/R$ 8,5 bi corrigidos) devidas ao MPF estão suspensas/em recálculo; a renegociação geral (ADPF 1051) foi ao plenário virtual em 28/11/2025 sem resultado final localizado. Do lado da CGU, 37 acordos somam R$ 20,12 bi acordados e R$ 11,35 bi pagos (set/2026).",
   "lacunas": [
-    "Página oficial de resultados do MPF offline (HTTP 404 em 21/10/2026); não há balanço oficial consolidado posterior a fev/2021.",
-    "Não existe levantamento oficial de 'condenados por partido'; a tabela de pessoas é parcial e exclui dezenas de condenados menos conhecidos (João Pizzolatti/PP, Luiz Argôlo/SD etc.).",
-    "Status atual (2026) de André Vargas, Pedro Corrêa, Nelson Meurer e Geddel não verificado.",
-    "Cabral: lista de quais das ~24 sentenças seguem válidas não confirmada; candidatura em 2026 não verificada.",
-    "Cunha: contradição não resolvida sobre inelegibilidade ('até o fim de 2026' vs. 'até 2027').",
-    "Contagem de votos do plenário do STF em 15/04/2021 não confirmada.",
-    "Status em 2026 das ações de Lula suspensas por Lewandowski (Gripen e Instituto Lula/Odebrecht) não confirmado.",
-    "Acórdão da 2ª Turma que teria mantido (3x2) a anulação de Palocci não localizado (fonte secundária).",
-    "Não há balanço oficial dos valores efetivamente pagos nas leniências após as suspensões de 2023–2024, nem comunicado da Petrobras posterior a nov/2022.",
-    "Novo valor da multa da J&F após o recálculo de nov/2025 e decisão final da ADPF 1051 não localizados; valor da leniência da OAS não localizado.",
-    "Status (2024–2026) das ações Eletronuclear/Angra 3 e Skala/Porto de Santos contra Temer não localizado.",
-    "Status do recurso de Delgatti e pena final não verificados.",
-    "Partidos citados: a soma de 'citados' por partido na delação da Odebrecht é de levantamento do Estadão (abr/2017), não oficial."
+    "Página oficial de resultados do MPF offline (HTTP 404 em 21/10/2026) e web.archive.org bloqueado; o melhor substituto é o balanço de encerramento de 15/02/2021 (Folhapress/MPF-PR). Não há balanço oficial do MPF (5ª CCR) de valores pagos nas leniências J&F/Novonor/Camargo/Andrade.",
+    "Página 'Lava Jato em números' do TRF-4 não localizada; dados do TRF-4 são de mar/2019.",
+    "Não existe levantamento oficial de 'condenados por partido'; a tabela de pessoas é parcial e exclui dezenas de condenados menos conhecidos (ex.: João Pizzolatti/PP).",
+    "Status posterior às datas indicadas de Geddel (2024–2026), Pedro Corrêa (2022–2026), Genu, Argôlo, Albertassi/Paulo Melo (após 2019), Pezão (recurso da pena de 98a11m no TRF-2) e dos operadores privados listados.",
+    "Cabral: lista completa das 23–24 sentenças com status individual indisponível; soma vigente em 2026 não recalculada; ausência de candidatura em 2026 é inferência pela falta de notícia após 15/08/2026, não confirmação no DivulgaCand.",
+    "Cunha: decisão do TSE sobre o registro de 2026 (rel. Floriano de Azevedo Marques) pendente em 21/10/2026. Destino dos processos de André Vargas após as anulações (recomeço no DF/prescrição) não localizado.",
+    "Status em 2026 das ações de Lula suspensas por Lewandowski (Gripen e Instituto Lula/Odebrecht) não revisitado.",
+    "Petrobras: nenhum comunicado com total acumulado posterior a 01/11/2022 (R$ 6,7 bi) além da devolução da UOP (16/01/2023); PDFs trimestrais e Form 20-F não lidos; ainda buscava ~R$ 5,5 bi em 8 ações de improbidade (data não especificada).",
+    "J&F: data exata da sessão do Conselho Institucional do MPF que anulou o desconto (entre set/2023 e out/2024) e estado atual (out/2026) da ação revisional após 01/11/2025 (recurso do MPF? valor recalculado?) não localizados. ADPF 1051: resultado final não localizado (STF Notícias sem registro de conclusão). Valor de eventual acordo da OAS com o MPF não localizado.",
+    "Temer — Skala/Porto de Santos (Rodrimar): desfecho não localizado (resultados só de mar/2018).",
+    "Delgatti: resultado da apelação (TRF-1) contra a pena de 20a1m e do pedido de indulto (jan/2026) não localizados.",
+    "Partidos citados: a soma de 'citados' por partido na delação da Odebrecht é de levantamento do Estadão (abr/2017), cruzado por duas reproduções; URL original não localizada.",
+    "Henrique Alves: divergência entre a defesa ('nenhuma condenação em nenhuma instância', dez/2021) e Poder360 (condenação de 8a8m em 2018 na 10ª Vara do DF); a ação foi anulada pelo TRF-1 em dez/2021.",
+    "TI Retrospectiva Brasil 2024 (PDF >10 MB) não lida."
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/04_escandalos_mensalao_petrolao_lavajato.md",
   "fontes": [
@@ -1708,6 +2439,84 @@
       "tier": "imprensa"
     },
     {
+      "nome": "Poder360, 15/04/2021: STF confirma anulação das decisões da Justiça de Curitiba (8x3)",
+      "url": "https://www.poder360.com.br/justica/stf-confirma-anulacao-das-decisoes-da-justica-de-curitiba/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Band/Folhapress, 15/02/2021: saiba o que aconteceu com os principais alvos da Lava Jato de Curitiba (balanço de encerramento, MPF-PR)",
+      "url": "https://www.bandab.com.br/politica/saiba-o-que-aconteceu-com-os-principais-alvos-da-lava-jato-de-curitiba/amp/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Poder360, 17/03/2019: 5 anos de Lava Jato — 285 condenações, 600 réus e 3.000 anos de penas",
+      "url": "https://www.poder360.com.br/lava-jato/5-anos-de-lava-jato-285-condenacoes-600-reus-e-3-000-anos-de-penas/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Agência Petrobras, 16/01/2023: Petrobras recebe nova devolução de recursos (UOP LLC)",
+      "url": "https://agencia.petrobras.com.br/w/petrobras-recebe-nova-devolucao-de-recursos",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "CGU, Acordo de Leniência (totais, set/2026)",
+      "url": "https://www.gov.br/cgu/pt-br/assuntos/combate-a-corrupcao/acordo-leniencia",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "CGU, acordos de leniência celebrados",
+      "url": "https://www.gov.br/cgu/pt-br/assuntos/integridade-privada/acordo-leniencia/acordos-celebrados",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Poder360, 18/08/2023: Câmara do MPF divulga detalhes de acordo com a J&F",
+      "url": "https://www.poder360.com.br/justica/camara-do-mpf-divulga-detalhes-de-acordo-com-a-jf/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "O Antagonista, 03/11/2025: Justiça determina recálculo de multa de R$ 10 bilhões da J&F",
+      "url": "https://oantagonista.com.br/brasil/justica-determina-recalculo-de-multa-de-r-10-bilhoes-da-jf-por-onerosidade-excessiva/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "STF Notícias, 01/02/2024: STF suspende multas de R$ 8,5 bilhões da antiga Odebrecht",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-suspende-multas-de-r-85-bilhoes-da-antiga-odebrecht-e-autoriza-a-reavaliacao-do-acordo-de-leniencia-da-operacao-lava-jato/",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Poder360, 21/08/2023: Justiça condena Delgatti a 20 anos por Vaza Jato",
+      "url": "https://www.poder360.com.br/justica/justica-condena-delgatti-a-20-anos-de-prisao-por-vaza-jato/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Band/Folhapress, 17/12/2022: penas de Cabral somam 375 anos após anulações",
+      "url": "https://www.bandab.com.br/?p=1224966",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "G1, 16/05/2024: MPF repatria R$ 74,8 milhões em processo contra Cabral e Eike Batista",
+      "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2024/05/16/mpf-consegue-repatriar-r-748-milhoes-em-processo-da-lava-jato-contra-sergio-cabral-e-eike-batista.ghtml",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "A Gazeta, jun/2021: ex-governador Pezão é condenado a mais de 98 anos na Lava Jato",
+      "url": "https://www.agazeta.com.br/brasil/ex-governador-pezao-e-condenado-a-mais-de-98-anos-de-prisao-na-lava-jato-0621",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
       "nome": "ConJur, 28/01/2022: Justiça do DF declara prescrição e arquiva ação do tríplex",
       "url": "https://conjur.com.br/2022-jan-28/justica-df-declara-prescricao-arquiva-acao-triplex-guaruja/",
       "acesso_em": "2026-10-21",
@@ -1750,20 +2559,14 @@
       "tier": "imprensa"
     },
     {
-      "nome": "Gazeta do Povo, 11/06/2025: Mensalão 20 anos, como estão hoje os condenados",
-      "url": "https://www.gazetadopovo.com.br/ideias/mensalao-20-anos-como-estao-hoje-condenados-soltos-presos/",
+      "nome": "Gazeta do Povo, 01/10/2023: STF anula condenação de Moro contra 1º réu da Lava Jato",
+      "url": "https://www.gazetadopovo.com.br/republica/stf-anula-condenacao-de-moro-contra-1o-reu-da-lava-jato/",
       "acesso_em": "2026-10-21",
       "tier": "imprensa"
     },
     {
-      "nome": "Agência Brasil, 17/03/2024: Lava Jato completa 10 anos com resultados em xeque",
-      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2024-03/lava-jato-completa-10-anos-com-resultados-em-xeque-e-prestigio-abalado",
-      "acesso_em": "2026-10-21",
-      "tier": "imprensa"
-    },
-    {
-      "nome": "Veja, 29/10/2015: ex-deputado Pedro Corrêa é condenado a 20 anos",
-      "url": "http://veja.abril.com.br/noticia/brasil/lava-jato-ex-deputado-pedro-correa-e-condenado-a-20-anos-de-prisao",
+      "nome": "Poder360, 12/07/2020: ex-deputado Nelson Meurer morre por covid-19",
+      "url": "https://www.poder360.com.br/brasil/ex-deputado-nelson-meurer-morre-por-covid-19/",
       "acesso_em": "2026-10-21",
       "tier": "imprensa"
     },
@@ -1798,10 +2601,52 @@
       "tier": "imprensa"
     },
     {
-      "nome": "Poder360: STF condena Geddel e Lúcio Vieira Lima por bunker de R$ 51 milhões",
-      "url": "https://www.poder360.com.br/justica/stf-condena-geddel-e-lucio-vieira-lima-por-bunker-de-r-51-milhoes/",
+      "nome": "UOL, 13/06/2017: Moro condena Sérgio Cabral por corrupção passiva na Comperj",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2017/06/13/moro-condena-sergio-cabral-por-corrupcao-passiva-na-comperj.htm",
       "acesso_em": "2026-10-21",
       "tier": "imprensa"
+    },
+    {
+      "nome": "Veja, 20/09/2017: juiz da Lava Jato condena Sérgio Cabral a 45 anos",
+      "url": "https://veja.abril.com.br/politica/juiz-da-lava-jato-condena-sergio-cabral-a-45-anos-de-prisao/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "G1/JN, dez/2017: Cabral e mulher são condenados de novo na Lava Jato",
+      "url": "https://g1.globo.com/jornal-nacional/noticia/2017/12/ex-governador-cabral-e-mulher-sao-condenados-de-novo-na-lava-jato.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "UOL, 02/03/2018: Cabral é condenado pela 5ª vez e pena chega a 100 anos",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2018/03/02/cabral-e-condenado-pela-5-vez-e-pena-chega-a-100-anos.htm",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "G1, 28/08/2019: Sérgio Cabral é condenado a mais 18 anos de prisão",
+      "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2019/08/28/sergio-cabral-e-condenado-a-mais-18-anos-de-prisao.ghtml",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "ConJur, 29/01/2020: Cabral condenado a 14 anos; penas somam 280 anos",
+      "url": "https://www.conjur.com.br/2020-jan-29/cabral-condenado-14-anos-penas-somam-280-anos",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "G1, 06/10/2025: Cabral, Pezão e Hudson Braga são condenados por esquema de corrupção (ação civil)",
+      "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2025/10/06/cabral-pezao-e-hudson-braga-sao-condenados-esquema-de-currupcao.ghtml",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Aos Fatos, 27/08/2021: Geddel não foi inocentado de todos os crimes do caso das malas",
+      "url": "https://www.aosfatos.org/noticias/geddel-nao-foi-inocentado-de-todos-os-crimes-do-caso-das-malas-com-r-51-milhoes/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
     },
     {
       "nome": "Wikipédia pt, Henrique Eduardo Alves (índice)",
@@ -1812,6 +2657,12 @@
     {
       "nome": "Wikipédia pt, Michel Temer (índice)",
       "url": "https://pt.wikipedia.org/wiki/Michel_Temer",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "ConJur, 26/11/2025: Temer, Moreira Franco e Othon são absolvidos em ação de improbidade na Eletronuclear",
+      "url": "https://www.conjur.com.br/2025-nov-26/temer-moreira-franco-e-othon-sao-absolvidos-em-acao-de-improbidade-na-eletronuclear/",
       "acesso_em": "2026-10-21",
       "tier": "imprensa"
     },
@@ -1834,14 +2685,50 @@
       "tier": "imprensa"
     },
     {
+      "nome": "ConJur, 28/03/2019: TRF-2 condena Picciani e outros ex-deputados por corrupção",
+      "url": "https://www.conjur.com.br/2019-mar-28/trf-condena-picciani-outros-ex-deputados-corrupcao/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Poder360, 28/03/2019: TRF-2 condena ex-presidente da Alerj e 2 ex-deputados",
+      "url": "https://www.poder360.com.br/justica/trf-2-condena-ex-presidente-da-alerj-e-2-ex-deputados-por-corrupcao/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Exame, 29/03/2019: Bretas condena Barata, Picciani e mais nove na Operação Cadeia Velha",
+      "url": "https://exame.com/brasil/bretas-condena-barata-picciani-e-mais-nove-na-operacao-cadeia-velha",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
       "nome": "G1, 21/05/2024: STF anula decisões da Lava Jato contra Marcelo Odebrecht",
       "url": "https://g1.globo.com/politica/noticia/2024/05/21/stf-anula-decisoes-da-lava-jato-contra-marcelo-odebrecht.ghtml",
       "acesso_em": "2026-10-21",
       "tier": "imprensa"
     },
     {
-      "nome": "O Imparcial, ago/2023: hacker Delgatti é condenado a 20 anos",
-      "url": "https://oimparcial.com.br/noticias/2023/08/hacker-delgatti-e-condenado-a-20-anos-de-prisao-por-vazar-mensagens-da-lava-jato/",
+      "nome": "Agência Brasil, 17/03/2024: Lava Jato completa 10 anos com resultados em xeque",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2024-03/lava-jato-completa-10-anos-com-resultados-em-xeque-e-prestigio-abalado",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Transparência Internacional Brasil, Retrospectiva Brasil 2025 (PDF, pp. 63-67)",
+      "url": "https://docs.transparenciainternacional.org.br/biblioteca/retrospectiva-brasil-2025.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    },
+    {
+      "nome": "Poder360: Toffoli anula provas da Odebrecht contra ex-marqueteiro do PT",
+      "url": "https://www.poder360.com.br/justica/toffoli-anula-provas-da-odebrecht-contra-ex-marqueteiro-do-pt/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "G1, 07/05/2026: Moraes autoriza hacker de Araraquara a cumprir pena em regime aberto",
+      "url": "https://g1.globo.com/politica/noticia/2026/05/07/moraes-autoriza-hacker-de-araraquara-a-cumprir-pena-em-regime-aberto.ghtml",
       "acesso_em": "2026-10-21",
       "tier": "imprensa"
     },
@@ -1876,6 +2763,12 @@
       "tier": "imprensa"
     },
     {
+      "nome": "Congresso em Foco, 01/11/2018: Moro condenou 140 a penas que ultrapassam 2 mil anos",
+      "url": "https://congressoemfoco.com.br/corrupcao/moro-condenou-140-a-penas-que-ultrapassam-2-mil-anos-veja-numeros-do-juiz-na-lava-jato",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
       "nome": "Wikipédia pt, Prisão de Michel Temer (índice)",
       "url": "https://pt.wikipedia.org/wiki/Pris%C3%A3o_de_Michel_Temer",
       "acesso_em": "2026-10-21",
@@ -1884,6 +2777,12 @@
     {
       "nome": "The Intercept Brasil, 09/06/2019: chats Moro–Deltan",
       "url": "https://theintercept.com/2019/06/09/chat-moro-deltan-telegram-lava-jato/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Poder360: STF condena Geddel e Lúcio Vieira Lima por bunker de R$ 51 milhões",
+      "url": "https://www.poder360.com.br/justica/stf-condena-geddel-e-lucio-vieira-lima-por-bunker-de-r-51-milhoes/",
       "acesso_em": "2026-10-21",
       "tier": "imprensa"
     },
@@ -1906,20 +2805,62 @@
       "tier": "imprensa"
     },
     {
-      "nome": "CNN Brasil: Justiça absolve integrantes do quadrilhão do MDB",
-      "url": "https://www.cnnbrasil.com.br/politica/justica-absolve-integrantes-do-quadrilhao-do-mdb/",
+      "nome": "Migalhas, 14/04/2021: STF decide (9x2) que cabe ao plenário julgar condenações de Lula",
+      "url": "https://www.migalhas.com.br/quentes/343696/stf-decide-que-cabe-ao-plenario-julgar-condenacoes-de-lula",
       "acesso_em": "2026-10-21",
       "tier": "imprensa"
     },
     {
-      "nome": "G1, 21/06/2021: Justiça Federal absolve Lula e Gilberto Carvalho na Zelotes",
-      "url": "https://g1.globo.com/politica/noticia/2021/06/21/justica-federal-absolve-lula-e-gilberto-carvalho-em-acao-da-operacao-zelotes.ghtml",
+      "nome": "IstoÉ Dinheiro, 14/05/2021: Paes e Castro lamentam a morte de Jorge Picciani",
+      "url": "https://istoedinheiro.com.br/paes-e-castro-lamentam-a-morte-de-jorge-picciani",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Estado de Minas, 20/05/2021: Moraes anula decisão de Bretas que colocou Temer no banco dos réus",
+      "url": "https://www.em.com.br/app/noticia/politica/2021/05/20/interna_politica,1268777/moraes-anula-decisao-de-bretas-que-colocou-temer-no-banco-dos-reus.shtml",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "O Povo, 07/02/2022: Temer é absolvido em ação que o levou à prisão",
+      "url": "https://mais.opovo.com.br/jornal/politica/2022/02/07/temer-e-absolvido-em-acao-que-o-levou-a-prisao.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Agência Petrobras, 01/11/2022: Petrobras recupera R$ 439 milhões por acordos de leniência e colaboração",
+      "url": "https://agencia.petrobras.com.br/w/petrobras-recupera-r-439-milhoes-por-meio-de-acordos-de-leniencia-da-camargo-correa-novonor-s.a-e-sbm-e-acordo-de-colaboracao",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "O Globo, 16/12/2022: Cabral tem último mandado de prisão derrubado pelo STF",
+      "url": "https://oglobo.globo.com/rio/noticia/2022/12/ex-governador-sergio-cabral-tem-ultimo-mandado-de-prisao-derrubado-pelo-stf-apos-seis-anos-entenda-o-caso.ghtml",
       "acesso_em": "2026-10-21",
       "tier": "imprensa"
     },
     {
       "nome": "Congresso em Foco, 06/09/2023: Toffoli anula provas contra Lula dos acordos da Lava Jato",
       "url": "https://congressoemfoco.com.br/area/justica/toffoli-anula-todas-as-provas-contra-lula-em-acordos-da-lava-jato",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Poder360, 05/02/2024: Transparência Internacional nega ganhos com a Lava Jato",
+      "url": "https://www.poder360.com.br/justica/transparencia-internacional-nega-ganhos-com-a-lava-jato/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "ConJur, mar/2024: TRF-2 anula 3 sentenças contra Cabral por incompetência da 7ª Vara",
+      "url": "https://www.conjur.com.br/?p=758675",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Revista Oeste, 11/10/2024: MPF anula desconto de R$ 6,8 bilhões concedido à J&F",
+      "url": "https://revistaoeste.com/politica/mpf-anula-desconto-de-r-68-bilhoes-concedido-a-jf-dos-irmaos-batista/",
       "acesso_em": "2026-10-21",
       "tier": "imprensa"
     },
@@ -1936,14 +2877,20 @@
       "tier": "imprensa"
     },
     {
-      "nome": "Guia do Investidor, 18/01/2026 (fonte secundária)",
-      "url": "https://guiadoinvestidor.com.br/?p=380526",
+      "nome": "STF Notícias, 15/08/2025: relator vota pela validade dos acordos de leniência da Lava Jato",
+      "url": "https://noticias.stf.jus.br/postsnoticias/relator-vota-pela-validade-dos-acordos-de-leniencia-da-lava-jato/",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Congresso em Foco, 28/11/2025: STF volta a julgar alcance dos acordos de leniência da Lava Jato",
+      "url": "https://www.congressoemfoco.com.br/noticia/114334/stf-volta-a-julgar-alcance-dos-acordos-de-leniencia-da-lava-jato",
       "acesso_em": "2026-10-21",
       "tier": "imprensa"
     },
     {
-      "nome": "Migalhas, 04/11/2025: juiz vê coação em acordo de leniência da J&F e reduz multa",
-      "url": "https://www.migalhas.com.br/quentes/443706/juiz-ve-coacao-em-acordo-de-leniencia-da-j-f-e-reduz-multa-bilionaria",
+      "nome": "Jornal do Brasil, 04/09/2026: TRE-MG indefere candidatura de Eduardo Cunha a deputado federal",
+      "url": "https://www.jb.com.br/brasil/justica/2026/09/1060809-tre-mg-indefere-candidatura-de-eduardo-cunha-a-deputado-federal.html",
       "acesso_em": "2026-10-21",
       "tier": "imprensa"
     }

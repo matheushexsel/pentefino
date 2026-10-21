@@ -89,12 +89,12 @@
           "condenados_definitivo": {
             "valor": null,
             "fonte": {
-              "nome": "Agência Brasil, 17/03/2024: Lava Jato completa 10 anos com resultados em xeque",
-              "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2024-03/lava-jato-completa-10-anos-com-resultados-em-xeque-e-prestigio-abalado",
+              "nome": "Gazeta do Povo, 01/10/2023: STF anula condenação de Moro contra 1º réu da Lava Jato",
+              "url": "https://www.gazetadopovo.com.br/republica/stf-anula-condenacao-de-moro-contra-1o-reu-da-lava-jato/",
               "acesso_em": "2026-10-21",
               "tier": "imprensa"
             },
-            "nota": "Nenhuma condenação vigente entre os nomes acima em out/2026; André Vargas não verificado."
+            "nota": "Nenhuma condenação vigente entre os nomes acima em out/2026: as duas condenações de André Vargas (19a10m somados) foram anuladas pela 2ª Turma do STF (dez/2022 e 2023)."
           },
           "anuladas": {
             "valor": null,
@@ -104,13 +104,14 @@
               "acesso_em": "2026-10-21",
               "tier": "academico"
             },
-            "nota": "Anuladas/prescritas: Lula (2 casos), Dirceu, Vaccari, Palocci, Delúbio; Paulo Bernardo (provas anuladas).",
+            "nota": "Anuladas/prescritas: Lula (2 casos), Dirceu, Vaccari, Palocci (PET 13.460, 3x2, ago/2025), Delúbio, André Vargas (2 condenações); Paulo Bernardo (provas anuladas).",
             "nomes": [
               "Lula",
               "José Dirceu",
               "João Vaccari Neto",
               "Antonio Palocci",
               "Delúbio Soares",
+              "André Vargas",
               "Paulo Bernardo"
             ]
           },
@@ -122,7 +123,11 @@
               "acesso_em": "2026-10-21",
               "tier": "imprensa"
             },
-            "nota": "Lula absolvido no mérito em 3 casos (obstrução; quadrilhão do PT; Zelotes/MP das montadoras)."
+            "nota": "Lula absolvido no mérito em 3 casos (obstrução; quadrilhão do PT; Zelotes/MP das montadoras); Gleisi Hoffmann absolvida pela 2ª Turma do STF (2018), única absolvição do STF na Lava Jato até mar/2019 (Poder360).",
+            "nomes": [
+              "Lula",
+              "Gleisi Hoffmann"
+            ]
           }
         },
         {
@@ -179,12 +184,12 @@
           "denunciados": {
             "valor": 0,
             "fonte": {
-              "nome": "CNN Brasil, mar/2026: relatório da CPMI do INSS pede indiciamento de Lulinha e outras 218 pessoas",
-              "url": "https://www.cnnbrasil.com.br/politica/relatorio-da-cpmi-do-inss-pede-indicamento-de-lulinha-e-outras-218-pessoas/",
+              "nome": "Congresso em Foco, 31/07/2026: Mendonça autoriza inquérito sobre Lulinha por tráfico de influência",
+              "url": "https://www.congressoemfoco.com.br/noticia/120915/mendonca-autoriza-inquerito-sobre-lulinha-por-trafico-de-influencia",
               "acesso_em": "2026-10-21",
               "tier": "imprensa"
             },
-            "nota": "Zero = nenhum localizado nas fontes até out/2026 (não é levantamento oficial). Lulinha citado em delação e no relatório rejeitado da CPMI; não investigado pela PF. Frei Chico não investigado."
+            "nota": "Zero = nenhum localizado nas fontes até out/2026 (não é levantamento oficial). Lulinha (filho do presidente, sem filiação informada): não era investigado pela PF até abr/2026; desde 30/07/2026 é investigado em inquérito no STF autorizado por Mendonça (tráfico de influência e corrupção), sem denúncia. Frei Chico não investigado."
           },
           "condenados_1a": {
             "valor": 0,
@@ -251,12 +256,12 @@
           "denunciados": {
             "valor": 0,
             "fonte": {
-              "nome": "Acessa.com, jan/2026: Operação Overclean, que mira deputado, já achou dinheiro em gaveta e jogado da janela",
-              "url": "https://www.acessa.com/politica/2026/01/304590-operacao-overclean-que-mira-deputado-ja-achou-dinheiro-em-gaveta-bota-e-jogado-da-janela-lembre.html",
+              "nome": "Metrópoles, 27/06/2025: em nova fase da Overclean, STF afasta prefeitos ligados a deputado",
+              "url": "https://www.metropoles.com/colunas/mirelle-pinheiro/em-nova-fase-da-overclean-stf-afasta-prefeitos-ligados-a-deputado",
               "acesso_em": "2026-10-21",
               "tier": "imprensa"
             },
-            "nota": "Zero = nenhum localizado nas fontes até out/2026 (não é levantamento oficial). Prefeito de Ibipitanga afastado; ex-prefeito de Paratinga alvo."
+            "nota": "Zero = nenhum localizado nas fontes até out/2026 (não é levantamento oficial). Prefeito de Ibipitanga afastado e preso em flagrante por porte de arma (27/06/2025); ex-prefeito de Paratinga alvo."
           },
           "condenados_1a": {
             "valor": 0,
@@ -328,18 +333,31 @@
           "condenados_1a": {
             "valor": null,
             "fonte": {
-              "nome": "Wikipédia pt, Operação Lava Jato (índice)",
-              "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Lava_Jato",
+              "nome": "Band/Folhapress, 15/02/2021: saiba o que aconteceu com os principais alvos da Lava Jato de Curitiba (balanço de encerramento, MPF-PR)",
+              "url": "https://www.bandab.com.br/politica/saiba-o-que-aconteceu-com-os-principais-alvos-da-lava-jato-de-curitiba/amp/",
               "acesso_em": "2026-10-21",
               "tier": "imprensa"
             },
-            "nota": "Nomeados: Pedro Corrêa (Moro, 2015, 20a7m10d), Nelson Meurer (STF 2ª Turma, 2018, 13a9m); status atual não verificado.",
+            "nota": "Nomeados: Pedro Corrêa (Moro, 29/10/2015, 20a7m10d; 29a5m somados em Curitiba; semiaberto com tornozeleira após delação em fev/2021), João Cláudio Genu (Moro, 9a4m; solto em nov/2019). Status 2022–2026 de ambos não verificado.",
             "nomes": [
               "Pedro Corrêa",
+              "João Cláudio Genu"
+            ],
+            "nao_verificado": true
+          },
+          "condenados_definitivo": {
+            "valor": null,
+            "fonte": {
+              "nome": "Poder360, 12/07/2020: ex-deputado Nelson Meurer morre por covid-19",
+              "url": "https://www.poder360.com.br/brasil/ex-deputado-nelson-meurer-morre-por-covid-19/",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Nelson Meurer (STF 2ª Turma, AP 996, mai/2018, 13a9m10d; pena em execução desde 2019) morreu em 12/07/2020, cumprindo pena: punibilidade extinta, não é condenação vigente em 2026.",
+            "nomes": [
               "Nelson Meurer"
             ]
           },
-          "condenados_definitivo": null,
           "anuladas": null,
           "absolvidos": null
         },
@@ -441,22 +459,26 @@
               "acesso_em": "2026-10-21",
               "tier": "imprensa"
             },
-            "nota": "Nomeados: Eduardo Cunha (3 condenações), Sérgio Cabral (~24, nenhuma definitiva), Geddel (STF 2019, 14a10m).",
+            "nota": "Nomeados: Eduardo Cunha (3 condenações, 2 anuladas); Sérgio Cabral (~24 sentenças; 375a8m29d em dez/2022 após anulações, menos 40a6m em mar/2024; nenhuma definitiva); Geddel (STF 2019, 14a10m, reduzida a 13a4m em 23/08/2021); Pezão (7ª Vara Federal do RJ, jun/2021, 98a11m; recorre em liberdade); Jorge Picciani (TRF-2, 28/03/2019, 21 anos; morreu em 14/05/2021 sem trânsito), Edson Albertassi (TRF-2, 13a4m) e Paulo Melo (TRF-2, 12a5m) na Cadeia Velha.",
             "nomes": [
               "Eduardo Cunha",
               "Sérgio Cabral",
-              "Geddel Vieira Lima"
+              "Geddel Vieira Lima",
+              "Luiz Fernando Pezão",
+              "Jorge Picciani",
+              "Edson Albertassi",
+              "Paulo Melo"
             ]
           },
           "condenados_definitivo": {
             "valor": null,
             "fonte": {
-              "nome": "Wikipédia pt, Sérgio Cabral Filho (índice)",
-              "url": "https://pt.wikipedia.org/wiki/S%C3%A9rgio_Cabral_Filho",
+              "nome": "Aos Fatos, 27/08/2021: Geddel não foi inocentado de todos os crimes do caso das malas",
+              "url": "https://www.aosfatos.org/noticias/geddel-nao-foi-inocentado-de-todos-os-crimes-do-caso-das-malas-com-r-51-milhoes/",
               "acesso_em": "2026-10-21",
-              "tier": "imprensa"
+              "tier": "checagem"
             },
-            "nota": "Cabral: nenhuma sentença criminal transitada; Geddel: trânsito não explicitado; Temer e Henrique Alves: 0 condenações."
+            "nota": "Cabral: nenhuma sentença criminal transitada; Geddel: condenado pelo STF (instância única), pena de 13a4m, livramento condicional desde fev/2022 (situação 2024–2026 não localizada); Temer, Moreira Franco e Henrique Alves: nenhuma condenação vigente."
           },
           "anuladas": {
             "valor": null,
@@ -481,9 +503,10 @@
               "acesso_em": "2026-10-21",
               "tier": "imprensa"
             },
-            "nota": "Temer, Cunha, Geddel e mais 10 absolvidos sumariamente no quadrilhão do MDB (2021; TRF-1 2023); Temer também na gravação Joesley e obstrução.",
+            "nota": "Temer, Cunha, Geddel e mais 10 absolvidos sumariamente no quadrilhão do MDB (2021; TRF-1 2023); Temer também na gravação Joesley e obstrução. Eletronuclear: denúncia rejeitada/absolvição sumária de Temer, Moreira Franco e mais 6 na 12ª Vara Federal do DF (fev/2022, transitada) e absolvição de 16 réus na improbidade (11ª Vara Federal do RJ, 26/11/2025).",
             "nomes": [
               "Michel Temer",
+              "Moreira Franco",
               "Eduardo Cunha",
               "Geddel Vieira Lima"
             ]
@@ -549,12 +572,12 @@
           "denunciados": {
             "valor": 0,
             "fonte": {
-              "nome": "Wikipédia pt, Escândalo do Banco Master (índice)",
-              "url": "https://pt.wikipedia.org/wiki/Esc%C3%A2ndalo_do_Banco_Master",
+              "nome": "Correio Braziliense, 08/04/2026 (PDF; trecho indexado): Ibaneis, Celina e a CPI do Crime Organizado",
+              "url": "https://edicao.correiobraziliense.com.br/correiobraziliense/2026/04/08/1428f0/pdf/A02-POL-0804-DIG.pdf",
               "acesso_em": "2026-10-21",
               "tier": "imprensa"
             },
-            "nota": "Zero = nenhum localizado nas fontes até out/2026 (não é levantamento oficial). GDF (Ibaneis Rocha/BRB): investigação formal não localizada."
+            "nota": "Zero = nenhum localizado nas fontes até out/2026 (não é levantamento oficial). GDF (Ibaneis Rocha/BRB): investigação formal não localizada (rodadas 1 e 2); Ibaneis faltou à CPI do Crime Organizado amparado por habeas corpus de Mendonça."
           },
           "condenados_1a": {
             "valor": 0,
@@ -668,7 +691,19 @@
             }
           },
           "denunciados": null,
-          "condenados_1a": null,
+          "condenados_1a": {
+            "valor": 1,
+            "fonte": {
+              "nome": "Band/Folhapress, 15/02/2021: saiba o que aconteceu com os principais alvos da Lava Jato de Curitiba (balanço de encerramento, MPF-PR)",
+              "url": "https://www.bandab.com.br/politica/saiba-o-que-aconteceu-com-os-principais-alvos-da-lava-jato-de-curitiba/amp/",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Gim Argello (PTB-DF, ex-senador): Moro, 2017, 11a8m + R$ 7,35 mi; perdão judicial em 2019 com base no indulto de Temer (2017).",
+            "nomes": [
+              "Gim Argello"
+            ]
+          },
           "condenados_definitivo": {
             "valor": 1,
             "fonte": {
@@ -756,16 +791,28 @@
             },
             "nota": "Núcleo 1 da AP 2668 (PL e ex-integrantes do governo Bolsonaro; filiação dos militares não informada)."
           },
-          "condenados_1a": null,
+          "condenados_1a": {
+            "valor": 1,
+            "fonte": {
+              "nome": "MPF/PGR, 16/06/2026: STF condena Eduardo Bolsonaro a quatro anos e dois meses por coação no curso do processo",
+              "url": "https://www.mpf.mp.br/o-mpf/unidades/procuradoria-geral-da-republica-pgr/noticias/stf-condena-eduardo-bolsonaro-a-quatro-anos-e-dois-meses-de-prisao-pelo-crime-de-coacao-no-curso-do-processo",
+              "acesso_em": "2026-10-21",
+              "tier": "oficial"
+            },
+            "nota": "Eduardo Bolsonaro: condenado por coação no curso do processo (AP 2782, 16/06/2026, 4x0, 4a2m em semiaberto, inelegível por 8 anos após o cumprimento) e por difamação (1 ano, 25/09/2026); embargos rejeitados; trânsito não confirmado. Paulo Figueiredo (sem partido): ação desmembrada, sem julgamento.",
+            "nomes": [
+              "Eduardo Bolsonaro"
+            ]
+          },
           "condenados_definitivo": {
             "valor": 8,
             "fonte": {
-              "nome": "CNN Brasil: Jair Bolsonaro completa um ano preso — principais acontecimentos",
-              "url": "https://www.cnnbrasil.com.br/politica/jair-bolsonaro-completa-um-ano-preso-relembre-os-principais-acontecimentos/",
+              "nome": "STF Notícias, 25/11/2025: AP 2668 — STF determina cumprimento imediato da pena dos réus do núcleo 1",
+              "url": "https://noticias.stf.jus.br/postsnoticias/ap-2668-stf-determina-cumprimento-imediato-da-pena-dos-sete-reus-do-nucleo-1-da-tentativa-de-golpe/",
               "acesso_em": "2026-10-21",
-              "tier": "imprensa"
+              "tier": "oficial"
             },
-            "nota": "Bolsonaro (27a3m) e Ramagem (16a1m15d) com trânsito em 25/11/2025; demais co-réus inferidos como definitivos (Lei da Dosimetria aplicável). Eduardo Bolsonaro: condenado por coação (4a2m, 16/06/2026) e difamação (1 ano), embargos rejeitados, trânsito não confirmado.",
+            "nota": "Núcleo 1 da AP 2668: Moraes declarou o trânsito em julgado em 25/11/2025 (decisão única para os 7 réus, com locais de custódia individualizados) e Cid cumpre desde 30/10/2025. Penas (11/09/2025): Bolsonaro 27a3m, Braga Netto 26a, Torres 24a, Garnier 24a, Heleno 21a, Paulo Sérgio 19a, Ramagem 16a1m15d (foragido), Cid 2a (aberto). Filiação dos militares não informada.",
             "nomes": [
               "Jair Bolsonaro",
               "Alexandre Ramagem",
@@ -775,16 +822,15 @@
               "Paulo Sérgio Nogueira",
               "Anderson Torres",
               "Mauro Cid"
-            ],
-            "nao_verificado": true
+            ]
           },
           "anuladas": {
             "valor": 0,
             "fonte": {
-              "nome": "CNN Brasil: Jair Bolsonaro completa um ano preso — principais acontecimentos",
-              "url": "https://www.cnnbrasil.com.br/politica/jair-bolsonaro-completa-um-ano-preso-relembre-os-principais-acontecimentos/",
+              "nome": "STF Notícias, 25/11/2025: AP 2668 — STF determina cumprimento imediato da pena dos réus do núcleo 1",
+              "url": "https://noticias.stf.jus.br/postsnoticias/ap-2668-stf-determina-cumprimento-imediato-da-pena-dos-sete-reus-do-nucleo-1-da-tentativa-de-golpe/",
               "acesso_em": "2026-10-21",
-              "tier": "imprensa"
+              "tier": "oficial"
             }
           },
           "absolvidos": null
@@ -805,12 +851,12 @@
           "condenados_1a": {
             "valor": 3,
             "fonte": {
-              "nome": "Wikipédia pt, Josimar Maranhãozinho (índice)",
-              "url": "https://pt.wikipedia.org/wiki/Josimar_Maranh%C3%A3ozinho",
+              "nome": "Movimento Econômico, 17/03/2026: STF vê rede de 'atacadistas de emendas' e condena deputados do MA (trecho indexado)",
+              "url": "https://movimentoeconomico.com.br/economia/justica/2026/03/17/stf-ve-rede-de-atacadistas-de-emendas-e-condena-deputados-do-ma/",
               "acesso_em": "2026-10-21",
               "tier": "imprensa"
             },
-            "nota": "Condenados pelo STF em 17/03/2026 (6a5m, 5a6m, 5a), trânsito não confirmado. Valdemar Costa Neto (bloqueio R$ 119 mi) e Mario Frias (Make Up) investigados.",
+            "nota": "Condenados pela 1ª Turma do STF em 17/03/2026 por 4x0 (6a5m, 5a6m, 5a; semiaberto; sem prisão imediata), trânsito não confirmado. Valdemar Costa Neto (bloqueio R$ 119 mi) e Mario Frias (Make Up) investigados.",
             "nomes": [
               "Josimar Maranhãozinho",
               "Pastor Gil",
@@ -944,7 +990,7 @@
               "acesso_em": "2026-10-21",
               "tier": "imprensa"
             },
-            "nota": "Bolsonaro: prevaricação arquivada; PGR pediu arquivamento das apurações da CPI."
+            "nota": "Bolsonaro: prevaricação arquivada; PGR pediu arquivamento das apurações da CPI. A CPI (26/10/2021, 80 pedidos de indiciamento) incluiu Bolsonaro, Flávio, Eduardo e Carlos Bolsonaro, Bia Kicis, Carla Zambelli, Carlos Jordy e ex-ministros; pedido de CPI é recomendação, não denúncia."
           },
           "condenados_1a": {
             "valor": 0,
@@ -1092,7 +1138,7 @@
               "acesso_em": "2026-10-21",
               "tier": "imprensa"
             },
-            "nota": "Nenhum político nacional condenado (Aécio absolvido; Beto Richa sem condenação criminal, processos anulados em 2023)."
+            "nota": "Nenhum político nacional condenado (Aécio absolvido; Beto Richa sem condenação criminal, processos anulados em 2023). Paulo Vieira de Souza ('Paulo Preto', ex-diretor da Dersa em governos do PSDB-SP) foi condenado pela 5ª Vara Federal de SP (27 anos em 28/02/2019; 145a8m em 06/03/2019), mas não era político filiado/eleito; status 2026 não verificado."
           },
           "condenados_definitivo": {
             "valor": 0,
@@ -1164,12 +1210,12 @@
           "denunciados": {
             "valor": 1,
             "fonte": {
-              "nome": "Wikipédia pt, Juscelino Filho (índice)",
-              "url": "https://pt.wikipedia.org/wiki/Juscelino_Filho",
+              "nome": "Jornal Opção, abr/2025: PGR denuncia Juscelino Filho ao STF por suposta corrupção com emendas",
+              "url": "https://jornalopcao.com.br/ultimas-noticias/pgr-denuncia-juscelino-filho-ao-stf-por-suposta-corrupcao-com-emendas-parlamentares-696168/",
               "acesso_em": "2026-10-21",
               "tier": "imprensa"
             },
-            "nota": "Juscelino Filho (PGR, 08/04/2025); recebimento não confirmado.",
+            "nota": "Juscelino Filho (PGR, 08/04/2025); nenhuma notícia de recebimento da denúncia até out/2026 (não é réu).",
             "nomes": [
               "Juscelino Filho"
             ]
@@ -1196,6 +1242,47 @@
           "absolvidos": null
         },
         {
+          "escandalo_id": "caso-marielle",
+          "citados": null,
+          "denunciados": {
+            "valor": 1,
+            "fonte": {
+              "nome": "Wikipédia pt, Chiquinho Brazão (índice)",
+              "url": "https://pt.wikipedia.org/wiki/Chiquinho_Braz%C3%A3o",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Chiquinho Brazão, filiado ao União Brasil quando foi preso e denunciado (2024); expulso em 24/03/2024. Em mar/2018 (crime) era MDB ou Avante (não determinado).",
+            "nomes": [
+              "Chiquinho Brazão"
+            ]
+          },
+          "condenados_1a": null,
+          "condenados_definitivo": {
+            "valor": 1,
+            "fonte": {
+              "nome": "Diário de Pernambuco, jul/2026: caso Marielle — Moraes determina cumprimento imediato de penas",
+              "url": "https://www.diariodepernambuco.com.br/amp/politica/2026/07/11718769-caso-marielle-moraes-determina-cumprimento-imediato-de-penas.html",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "76a3m; trânsito em julgado em 13/07/2026; condenado já sem partido.",
+            "nomes": [
+              "Chiquinho Brazão"
+            ]
+          },
+          "anuladas": {
+            "valor": 0,
+            "fonte": {
+              "nome": "Diário de Pernambuco, jul/2026: caso Marielle — Moraes determina cumprimento imediato de penas",
+              "url": "https://www.diariodepernambuco.com.br/amp/politica/2026/07/11718769-caso-marielle-moraes-determina-cumprimento-imediato-de-penas.html",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            }
+          },
+          "absolvidos": null
+        },
+        {
           "escandalo_id": "operacao-overclean",
           "citados": null,
           "denunciados": {
@@ -1206,7 +1293,7 @@
               "acesso_em": "2026-10-21",
               "tier": "imprensa"
             },
-            "nota": "Zero = nenhum localizado nas fontes até out/2026 (não é levantamento oficial). Dal Barreto investigado; irmão e primo de Elmar Nascimento alvos; Elmar não é alvo."
+            "nota": "Zero = nenhum localizado nas fontes até out/2026 (não é levantamento oficial). Dal Barreto investigado (6ª fase, 14/10/2025); Elmo Nascimento (prefeito de Campo Formoso, irmão de Elmar; 5ª fase, 17/07/2025) e primo de Elmar alvos; Elmar não é alvo."
           },
           "condenados_1a": {
             "valor": 0,
@@ -1435,12 +1522,12 @@
           "denunciados": {
             "valor": 0,
             "fonte": {
-              "nome": "Acessa.com, jan/2026: Operação Overclean, que mira deputado, já achou dinheiro em gaveta e jogado da janela",
-              "url": "https://www.acessa.com/politica/2026/01/304590-operacao-overclean-que-mira-deputado-ja-achou-dinheiro-em-gaveta-bota-e-jogado-da-janela-lembre.html",
+              "nome": "Gazeta do Povo, out/2025: prefeito de Riacho de Santana (BA) afastado em operação sobre desvio de emendas",
+              "url": "https://www.gazetadopovo.com.br/brasil/prefeito-cidade-ba-afastado-operacao-desvio-emendas/",
               "acesso_em": "2026-10-21",
               "tier": "imprensa"
             },
-            "nota": "Zero = nenhum localizado nas fontes até out/2026 (não é levantamento oficial). Prefeito de Riacho de Santana afastado."
+            "nota": "Zero = nenhum localizado nas fontes até out/2026 (não é levantamento oficial). João Vítor Laranjeira, prefeito de Riacho de Santana, afastado (7ª fase, out/2025)."
           },
           "condenados_1a": {
             "valor": 0,
@@ -1709,7 +1796,19 @@
           "escandalo_id": "lava-jato-petrolao",
           "citados": null,
           "denunciados": null,
-          "condenados_1a": null,
+          "condenados_1a": {
+            "valor": 1,
+            "fonte": {
+              "nome": "Band/Folhapress, 15/02/2021: saiba o que aconteceu com os principais alvos da Lava Jato de Curitiba (balanço de encerramento, MPF-PR)",
+              "url": "https://www.bandab.com.br/politica/saiba-o-que-aconteceu-com-os-principais-alvos-da-lava-jato-de-curitiba/amp/",
+              "acesso_em": "2026-10-21",
+              "tier": "imprensa"
+            },
+            "nota": "Luiz Argôlo (SD-BA, ex-deputado federal): Moro, 2016, 12a8m + R$ 2 mi; liberdade condicional após 4 anos em regime fechado; indulto negado (fev/2021); status posterior não verificado.",
+            "nomes": [
+              "Luiz Argôlo"
+            ]
+          },
           "condenados_definitivo": null,
           "anuladas": null,
           "absolvidos": null,
@@ -1807,7 +1906,7 @@
           "escandalo_id": "caso-marielle",
           "citados": null,
           "denunciados": {
-            "valor": 5,
+            "valor": 4,
             "fonte": {
               "nome": "Jornal Opção, 25/02/2026: STF condena irmãos Brazão a 76 anos pelo assassinato de Marielle Franco",
               "url": "https://www.jornalopcao.com.br/ultimas-noticias/stf-condena-irmaos-brazao-a-76-anos-de-prisao-pelo-assassinato-de-marielle-franco-797770/",
@@ -1817,17 +1916,16 @@
           },
           "condenados_1a": null,
           "condenados_definitivo": {
-            "valor": 5,
+            "valor": 4,
             "fonte": {
               "nome": "Diário de Pernambuco, jul/2026: caso Marielle — Moraes determina cumprimento imediato de penas",
               "url": "https://www.diariodepernambuco.com.br/amp/politica/2026/07/11718769-caso-marielle-moraes-determina-cumprimento-imediato-de-penas.html",
               "acesso_em": "2026-10-21",
               "tier": "imprensa"
             },
-            "nota": "Domingos Brazão (76a3m), Chiquinho Brazão (76a3m; partido não informado), Ronald Pereira (56a), Rivaldo Barbosa (18a), Robson Calixto (9a); trânsito em julgado 13/07/2026.",
+            "nota": "Domingos Brazão (76a3m; partido não informado), Ronald Pereira (56a), Rivaldo Barbosa (18a), Robson Calixto (9a); trânsito em julgado 13/07/2026. Chiquinho Brazão está contado na linha DEM/União Brasil.",
             "nomes": [
               "Domingos Brazão",
-              "Chiquinho Brazão",
               "Ronald Paulo Alves Pereira",
               "Rivaldo Barbosa",
               "Robson Calixto Fonseca"
@@ -1850,17 +1948,27 @@
           "denunciados": null,
           "condenados_1a": null,
           "condenados_definitivo": {
-            "valor": 1402,
+            "valor": 810,
             "fonte": {
-              "nome": "Agência Brasil, 30/04/2026: entenda como o PL da Dosimetria pode beneficiar condenados pelo 8/1",
-              "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-04/entenda-como-o-pl-da-dosimetria-pode-beneficiar-condenados-pelo-81",
+              "nome": "STF Notícias, 16/12/2025 (atualizado 08/01/2026): 1ª Turma faz balanço dos julgamentos sobre atos antidemocráticos",
+              "url": "https://noticias.stf.jus.br/postsnoticias/1a-turma-faz-balanco-dos-julgamentos-sobre-atos-antidemocraticos/",
               "acesso_em": "2026-10-21",
-              "tier": "imprensa"
+              "tier": "oficial"
             },
-            "nota": "Condenados pelo 8 de janeiro (balanço STF, abr/2026): 431 prisão, 419 alternativas, 552 ANPPs."
+            "nota": "Condenados pelo 8 de janeiro no balanço do STF de 16/12/2025 (atualizado 08/01/2026): 810 (395 por crimes graves, 415 leves); 850 em 30/04/2026 (Agência Brasil). 'Definitivo' segue o critério do balanço do STF (condenações da 1ª Turma), não o trânsito individual."
           },
           "anuladas": null,
-          "absolvidos": null
+          "absolvidos": {
+            "valor": 14,
+            "fonte": {
+              "nome": "STF Notícias, 16/12/2025 (atualizado 08/01/2026): 1ª Turma faz balanço dos julgamentos sobre atos antidemocráticos",
+              "url": "https://noticias.stf.jus.br/postsnoticias/1a-turma-faz-balanco-dos-julgamentos-sobre-atos-antidemocraticos/",
+              "acesso_em": "2026-10-21",
+              "tier": "oficial"
+            },
+            "nota": "Absolvições no balanço de dez/2025."
+          },
+          "nota": "Responsabilizados (condenados + acordos de não persecução penal) não são o mesmo que condenados: 1.374 em dez/2025 (810 + 564 ANPPs) e 1.402 em 30/04/2026 (431 penas de prisão + 419 alternativas + 552 ANPPs, Agência Brasil). O número '1.402' é de responsabilizados."
         },
         {
           "escandalo_id": "silvio-almeida",
@@ -2015,7 +2123,7 @@
               "acesso_em": "2026-10-21",
               "tier": "imprensa"
             },
-            "nota": "Marcelo Odebrecht: pena cumprida (28/04/2023); Youssef, Léo Pinheiro, Bendine: anuladas; Delgatti (Spoofing): condenado-1a 20 anos (ago/2023). Balanço MPF dez/2019: 159 condenados em Curitiba, ~204 no total (teto histórico, não retrato de 2026)."
+            "nota": "Marcelo Odebrecht: pena cumprida (28/04/2023); Youssef, Léo Pinheiro, Bendine: anuladas; Paulo Vieira de Souza (ex-Dersa): condenado em 1ª instância (2019); Delgatti (Spoofing): 20a1m + 736 dias-multa em 1ª instância (21/08/2023; apelação no TRF-1 sem resultado localizado) — a prisão cumprida em 2025–26 foi pelo caso CNJ (STF, 8a3m; regime aberto desde 08/05/2026). Balanços: MPF dez/2019, 159 condenados em Curitiba (~204 no total); encerramento da força-tarefa (15/02/2021), 174 condenados em 1ª e 2ª instâncias — teto histórico, não retrato de 2026 (ver _balancos_lava_jato.json)."
           },
           "anuladas": null,
           "absolvidos": null
@@ -2026,9 +2134,155 @@
   "lacunas": [
     "Não existe levantamento oficial de condenados por partido na Lava Jato; as células usam nomes citados nas notas e são parciais.",
     "Zeros em casos de 2025–2026 (INSS, Master, Overclean, emendas) significam 'nenhum localizado nas fontes até out/2026', não um levantamento oficial.",
-    "Filiação partidária de militares da AP 2668, de Chiquinho Brazão e de vários investigados do INSS/Overclean não consta nas notas.",
-    "Partido de Alfredo Gaspar (relator da CPMI do INSS) diverge entre fontes (União-AL vs. PL-AL)."
+    "Filiação partidária de militares da AP 2668 e de vários investigados do INSS/Overclean não consta nas notas; partido de Chiquinho Brazão em mar/2018 (MDB ou Avante) não determinado.",
+    "Status 2022–2026 de Pedro Corrêa, Genu, Argôlo, Albertassi, Paulo Melo, Geddel e do recurso de Pezão (98a11m) não verificado.",
+    "Não existe lista oficial de ministros que deixaram o cargo sob suspeita por governo; a tabela 'ministros_que_sairam_sob_suspeita' é contagem mínima com fontes jornalísticas e subestima Lula 1–2, Temer e Bolsonaro."
   ],
+  "ministros_que_sairam_sob_suspeita": {
+    "nota": "Contagem mínima documentada na pesquisa (nota 05, rodada 2) — NÃO é lista oficial nem exaustiva, e não distingue motivos (ex.: Gonçalves Dias saiu por omissão no 8/1, não por corrupção). Para comparações entre governos, apresentar como contagem jornalística com critério explícito.",
+    "governos": [
+      {
+        "governo": "lula-1-2",
+        "periodo": "Lula 1 (2003–2006)",
+        "ministros": [
+          "José Dirceu (Casa Civil, 2005, mensalão)",
+          "Luiz Gushiken (citado; sem data na fonte)"
+        ],
+        "denunciados_depois": [
+          "José Dirceu (mensalão)"
+        ],
+        "condenados_depois": [
+          "José Dirceu (AP 470)"
+        ],
+        "fonte": {
+          "nome": "Portal Tela, 04/05/2025: Lula enfrenta desafios na demissão de ministros por irregularidades",
+          "url": "https://www.portaltela.com/noticias/politica/2025/05/04/lula-enfrenta-desafios-na-demissao-de-ministros-por-irregularidades-no-governo-atual/",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        }
+      },
+      {
+        "governo": "lula-1-2",
+        "periodo": "Lula 2 (2007–2010)",
+        "ministros": [
+          "Silas Rondeau (Minas e Energia; 4 meses e 22 dias no cargo; suspeita de propina de R$ 100 mil — Operação Navalha)"
+        ],
+        "denunciados_depois": null,
+        "condenados_depois": null,
+        "nota": "Denúncia e condenação não verificadas.",
+        "fonte": {
+          "nome": "Poder360: saiba quem foram os primeiros ministros a cair em cada governo",
+          "url": "https://www.poder360.com.br/governo/saiba-quem-foram-os-primeiros-ministros-a-cair-em-cada-governo/",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        }
+      },
+      {
+        "governo": "dilma",
+        "periodo": "Dilma 1 (2011–2014)",
+        "contagem": 6,
+        "ministros": [
+          "Antonio Palocci (Casa Civil, 07/06/2011, patrimônio)",
+          "Alfredo Nascimento (Transportes, 06/07/2011, propina)",
+          "Wagner Rossi (Agricultura, 17/08/2011, Conab)",
+          "Pedro Novais (Turismo, 14/09/2011, verbas para fins pessoais)",
+          "Orlando Silva (Esporte, 26/10/2011, desvio para o PCdoB)",
+          "Carlos Lupi (Trabalho, dez/2011, tráfico de influência)"
+        ],
+        "denunciados_depois": null,
+        "condenados_depois": null,
+        "nota": "Seis saídas em 2011; Jobim saiu por divergências, não por escândalo. Denúncias/condenações posteriores não verificadas.",
+        "fonte": {
+          "nome": "Jornal do Brasil, 21/12/2011: retrospectiva 2011 — queda de ministros e impunidade em Brasília",
+          "url": "https://www.jb.com.br/pais/noticias/2011/12/21/amp/retrospectiva-2011-politica-queda-de-ministros-e-impunidade-em-brasilia.html",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        }
+      },
+      {
+        "governo": "dilma",
+        "periodo": "Dilma 2 (2015–2016)",
+        "contagem": 0,
+        "ministros": [],
+        "nota": "Nenhum documentado na pesquisa (a 1ª saída, Marcelo Neri, não foi por escândalo).",
+        "fonte": {
+          "nome": "Poder360: saiba quem foram os primeiros ministros a cair em cada governo",
+          "url": "https://www.poder360.com.br/governo/saiba-quem-foram-os-primeiros-ministros-a-cair-em-cada-governo/",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        }
+      },
+      {
+        "governo": "temer",
+        "periodo": "Temer (2016–2018)",
+        "contagem": 7,
+        "ministros": [
+          "Romero Jucá (Planejamento, 12 dias, áudio 'estancar a sangria')",
+          "Fabiano Silveira (Transparência, mesmo episódio)",
+          "Henrique Eduardo Alves (Turismo, ~1 mês, delação de Sérgio Machado)",
+          "Geddel Vieira Lima (25/11/2016, pressão sobre o Iphan)"
+        ],
+        "denunciados_depois": [
+          "Geddel Vieira Lima",
+          "Henrique Eduardo Alves"
+        ],
+        "condenados_depois": [
+          "Geddel Vieira Lima (STF; lavagem; associação criminosa derrubada pela 2ª Turma em 2021)",
+          "Henrique Eduardo Alves (10ª Vara Federal Criminal do DF, 2018, 8a8m por lavagem — Operação Sépsis; ação anulada pelo TRF-1 em dez/2021, ver lava-jato-petrolao)"
+        ],
+        "nota": "O Poder360 fala em 7 saídas por escândalo e nomeia 4.",
+        "fonte": {
+          "nome": "Poder360, 31/08/2021: onde estão os ministros de Temer 5 anos depois do impeachment",
+          "url": "https://poder360.com.br/historia/onde-estao-os-ministros-de-temer-5-anos-depois-do-impeachment-de-dilma/",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        }
+      },
+      {
+        "governo": "bolsonaro",
+        "periodo": "Bolsonaro (2019–2022)",
+        "ministros": [
+          "Gustavo Bebianno (Secretaria-Geral, 48 dias, candidaturas laranja)",
+          "Milton Ribeiro (Educação, 28/03/2022, FNDE/pastores)",
+          "Ricardo Salles (Meio Ambiente, 2021, madeira — data de saída não verificada)"
+        ],
+        "denunciados_depois": [
+          "Ricardo Salles (réu no Pará desde 2023)"
+        ],
+        "condenados_depois": [],
+        "nota": "Milton Ribeiro sem denúncia no caso FNDE. A saída de Pazuello (mar/2021) não é atribuída a escândalo pelas fontes.",
+        "fonte": {
+          "nome": "Poder360: saiba quem foram os primeiros ministros a cair em cada governo",
+          "url": "https://www.poder360.com.br/governo/saiba-quem-foram-os-primeiros-ministros-a-cair-em-cada-governo/",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        }
+      },
+      {
+        "governo": "lula-3",
+        "periodo": "Lula 3 (2023–)",
+        "contagem": 4,
+        "ministros": [
+          "Gonçalves Dias (GSI, 19/04/2023, vídeos do 8/1)",
+          "Silvio Almeida (Direitos Humanos, 06/09/2024)",
+          "Juscelino Filho (Comunicações, 08/04/2025)",
+          "Carlos Lupi (Previdência, 02/05/2025)"
+        ],
+        "denunciados_depois": [
+          "Juscelino Filho (abr/2025)",
+          "Silvio Almeida (mar/2026)"
+        ],
+        "condenados_depois": [],
+        "nota": "Nenhum réu até out/2026.",
+        "fonte": {
+          "nome": "Poder360: saiba quem foram os primeiros ministros a cair em cada governo",
+          "url": "https://www.poder360.com.br/governo/saiba-quem-foram-os-primeiros-ministros-a-cair-em-cada-governo/",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        }
+      }
+    ]
+  },
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/04_escandalos_mensalao_petrolao_lavajato.md",
   "notas_brutas_adicionais": [
     "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/05_escandalos_recentes_inss_master_bolsonaro.md"
@@ -2065,6 +2319,12 @@
       "tier": "imprensa"
     },
     {
+      "nome": "Gazeta do Povo, 01/10/2023: STF anula condenação de Moro contra 1º réu da Lava Jato",
+      "url": "https://www.gazetadopovo.com.br/republica/stf-anula-condenacao-de-moro-contra-1o-reu-da-lava-jato/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
       "nome": "Transparência Internacional Brasil, fev/2026: a farra das leniências — decisões controversas e anulações em massa",
       "url": "https://transparenciainternacional.org.br/posts/a-farra-das-leniencias-decisoes-controversas-e-anulacoes-em-massa/",
       "acesso_em": "2026-10-21",
@@ -2089,8 +2349,8 @@
       "tier": "checagem"
     },
     {
-      "nome": "CNN Brasil, mar/2026: relatório da CPMI do INSS pede indiciamento de Lulinha e outras 218 pessoas",
-      "url": "https://www.cnnbrasil.com.br/politica/relatorio-da-cpmi-do-inss-pede-indicamento-de-lulinha-e-outras-218-pessoas/",
+      "nome": "Congresso em Foco, 31/07/2026: Mendonça autoriza inquérito sobre Lulinha por tráfico de influência",
+      "url": "https://www.congressoemfoco.com.br/noticia/120915/mendonca-autoriza-inquerito-sobre-lulinha-por-trafico-de-influencia",
       "acesso_em": "2026-10-21",
       "tier": "imprensa"
     },
@@ -2107,14 +2367,26 @@
       "tier": "imprensa"
     },
     {
+      "nome": "Metrópoles, 27/06/2025: em nova fase da Overclean, STF afasta prefeitos ligados a deputado",
+      "url": "https://www.metropoles.com/colunas/mirelle-pinheiro/em-nova-fase-da-overclean-stf-afasta-prefeitos-ligados-a-deputado",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
       "nome": "Acessa.com, jan/2026: Operação Overclean, que mira deputado, já achou dinheiro em gaveta e jogado da janela",
       "url": "https://www.acessa.com/politica/2026/01/304590-operacao-overclean-que-mira-deputado-ja-achou-dinheiro-em-gaveta-bota-e-jogado-da-janela-lembre.html",
       "acesso_em": "2026-10-21",
       "tier": "imprensa"
     },
     {
-      "nome": "Wikipédia pt, Operação Lava Jato (índice)",
-      "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Lava_Jato",
+      "nome": "Band/Folhapress, 15/02/2021: saiba o que aconteceu com os principais alvos da Lava Jato de Curitiba (balanço de encerramento, MPF-PR)",
+      "url": "https://www.bandab.com.br/politica/saiba-o-que-aconteceu-com-os-principais-alvos-da-lava-jato-de-curitiba/amp/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Poder360, 12/07/2020: ex-deputado Nelson Meurer morre por covid-19",
+      "url": "https://www.poder360.com.br/brasil/ex-deputado-nelson-meurer-morre-por-covid-19/",
       "acesso_em": "2026-10-21",
       "tier": "imprensa"
     },
@@ -2125,10 +2397,10 @@
       "tier": "imprensa"
     },
     {
-      "nome": "Wikipédia pt, Sérgio Cabral Filho (índice)",
-      "url": "https://pt.wikipedia.org/wiki/S%C3%A9rgio_Cabral_Filho",
+      "nome": "Aos Fatos, 27/08/2021: Geddel não foi inocentado de todos os crimes do caso das malas",
+      "url": "https://www.aosfatos.org/noticias/geddel-nao-foi-inocentado-de-todos-os-crimes-do-caso-das-malas-com-r-51-milhoes/",
       "acesso_em": "2026-10-21",
-      "tier": "imprensa"
+      "tier": "checagem"
     },
     {
       "nome": "Agência Brasil, 29/05/2023: Supremo anula condenação de Cunha na Lava Jato",
@@ -2155,6 +2427,12 @@
       "tier": "imprensa"
     },
     {
+      "nome": "Correio Braziliense, 08/04/2026 (PDF; trecho indexado): Ibaneis, Celina e a CPI do Crime Organizado",
+      "url": "https://edicao.correiobraziliense.com.br/correiobraziliense/2026/04/08/1428f0/pdf/A02-POL-0804-DIG.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
       "nome": "Wikipédia pt, Escândalo do Banco Master (índice)",
       "url": "https://pt.wikipedia.org/wiki/Esc%C3%A2ndalo_do_Banco_Master",
       "acesso_em": "2026-10-21",
@@ -2167,20 +2445,38 @@
       "tier": "imprensa"
     },
     {
+      "nome": "Wikipédia pt, Operação Lava Jato (índice)",
+      "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Lava_Jato",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
       "nome": "Poder360: STF determina perda do mandato de Ramagem",
       "url": "https://www.poder360.com.br/poder-justica/stf-determina-perda-do-mandato-de-ramagem/",
       "acesso_em": "2026-10-21",
       "tier": "imprensa"
     },
     {
-      "nome": "CNN Brasil: Jair Bolsonaro completa um ano preso — principais acontecimentos",
-      "url": "https://www.cnnbrasil.com.br/politica/jair-bolsonaro-completa-um-ano-preso-relembre-os-principais-acontecimentos/",
+      "nome": "MPF/PGR, 16/06/2026: STF condena Eduardo Bolsonaro a quatro anos e dois meses por coação no curso do processo",
+      "url": "https://www.mpf.mp.br/o-mpf/unidades/procuradoria-geral-da-republica-pgr/noticias/stf-condena-eduardo-bolsonaro-a-quatro-anos-e-dois-meses-de-prisao-pelo-crime-de-coacao-no-curso-do-processo",
       "acesso_em": "2026-10-21",
-      "tier": "imprensa"
+      "tier": "oficial"
+    },
+    {
+      "nome": "STF Notícias, 25/11/2025: AP 2668 — STF determina cumprimento imediato da pena dos réus do núcleo 1",
+      "url": "https://noticias.stf.jus.br/postsnoticias/ap-2668-stf-determina-cumprimento-imediato-da-pena-dos-sete-reus-do-nucleo-1-da-tentativa-de-golpe/",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
     },
     {
       "nome": "Wikipédia pt, Josimar Maranhãozinho (índice)",
       "url": "https://pt.wikipedia.org/wiki/Josimar_Maranh%C3%A3ozinho",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Movimento Econômico, 17/03/2026: STF vê rede de 'atacadistas de emendas' e condena deputados do MA (trecho indexado)",
+      "url": "https://movimentoeconomico.com.br/economia/justica/2026/03/17/stf-ve-rede-de-atacadistas-de-emendas-e-condena-deputados-do-ma/",
       "acesso_em": "2026-10-21",
       "tier": "imprensa"
     },
@@ -2227,14 +2523,38 @@
       "tier": "imprensa"
     },
     {
+      "nome": "Jornal Opção, abr/2025: PGR denuncia Juscelino Filho ao STF por suposta corrupção com emendas",
+      "url": "https://jornalopcao.com.br/ultimas-noticias/pgr-denuncia-juscelino-filho-ao-stf-por-suposta-corrupcao-com-emendas-parlamentares-696168/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
       "nome": "Wikipédia pt, Juscelino Filho (índice)",
       "url": "https://pt.wikipedia.org/wiki/Juscelino_Filho",
       "acesso_em": "2026-10-21",
       "tier": "imprensa"
     },
     {
+      "nome": "Wikipédia pt, Chiquinho Brazão (índice)",
+      "url": "https://pt.wikipedia.org/wiki/Chiquinho_Braz%C3%A3o",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Diário de Pernambuco, jul/2026: caso Marielle — Moraes determina cumprimento imediato de penas",
+      "url": "https://www.diariodepernambuco.com.br/amp/politica/2026/07/11718769-caso-marielle-moraes-determina-cumprimento-imediato-de-penas.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
       "nome": "Agência Brasil, mar/2026: relatório da CPMI do INSS pede indiciamento de 216 pessoas",
       "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-03/relatorio-da-cpmi-do-inss-pede-indiciamento-de-216-pessoas",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Gazeta do Povo, out/2025: prefeito de Riacho de Santana (BA) afastado em operação sobre desvio de emendas",
+      "url": "https://www.gazetadopovo.com.br/brasil/prefeito-cidade-ba-afastado-operacao-desvio-emendas/",
       "acesso_em": "2026-10-21",
       "tier": "imprensa"
     },
@@ -2251,16 +2571,10 @@
       "tier": "imprensa"
     },
     {
-      "nome": "Diário de Pernambuco, jul/2026: caso Marielle — Moraes determina cumprimento imediato de penas",
-      "url": "https://www.diariodepernambuco.com.br/amp/politica/2026/07/11718769-caso-marielle-moraes-determina-cumprimento-imediato-de-penas.html",
+      "nome": "STF Notícias, 16/12/2025 (atualizado 08/01/2026): 1ª Turma faz balanço dos julgamentos sobre atos antidemocráticos",
+      "url": "https://noticias.stf.jus.br/postsnoticias/1a-turma-faz-balanco-dos-julgamentos-sobre-atos-antidemocraticos/",
       "acesso_em": "2026-10-21",
-      "tier": "imprensa"
-    },
-    {
-      "nome": "Agência Brasil, 30/04/2026: entenda como o PL da Dosimetria pode beneficiar condenados pelo 8/1",
-      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-04/entenda-como-o-pl-da-dosimetria-pode-beneficiar-condenados-pelo-81",
-      "acesso_em": "2026-10-21",
-      "tier": "imprensa"
+      "tier": "oficial"
     },
     {
       "nome": "Band, 21/03/2026: PGR denuncia Silvio Almeida por importunação sexual contra Anielle Franco",
@@ -2295,6 +2609,30 @@
     {
       "nome": "G1, 21/05/2024: STF anula decisões da Lava Jato contra Marcelo Odebrecht",
       "url": "https://g1.globo.com/politica/noticia/2024/05/21/stf-anula-decisoes-da-lava-jato-contra-marcelo-odebrecht.ghtml",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Portal Tela, 04/05/2025: Lula enfrenta desafios na demissão de ministros por irregularidades",
+      "url": "https://www.portaltela.com/noticias/politica/2025/05/04/lula-enfrenta-desafios-na-demissao-de-ministros-por-irregularidades-no-governo-atual/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Poder360: saiba quem foram os primeiros ministros a cair em cada governo",
+      "url": "https://www.poder360.com.br/governo/saiba-quem-foram-os-primeiros-ministros-a-cair-em-cada-governo/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Jornal do Brasil, 21/12/2011: retrospectiva 2011 — queda de ministros e impunidade em Brasília",
+      "url": "https://www.jb.com.br/pais/noticias/2011/12/21/amp/retrospectiva-2011-politica-queda-de-ministros-e-impunidade-em-brasilia.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Poder360, 31/08/2021: onde estão os ministros de Temer 5 anos depois do impeachment",
+      "url": "https://poder360.com.br/historia/onde-estao-os-ministros-de-temer-5-anos-depois-do-impeachment-de-dilma/",
       "acesso_em": "2026-10-21",
       "tier": "imprensa"
     }

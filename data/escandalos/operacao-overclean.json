@@ -4,7 +4,7 @@
   "periodo": {
     "inicio": "2024-12",
     "fim": null,
-    "nota": "9 fases até 13/01/2026; período dos fatos (convênios/emendas) não detalhado nas notas."
+    "nota": "10 fases até 17/09/2026; período dos fatos (convênios/emendas) não detalhado nas notas, exceto a 10ª fase (contratos da Prefeitura de BH de 2024–2025)."
   },
   "governos_em_que_ocorreram_os_fatos": [],
   "governos_em_que_foi_investigado": [
@@ -12,7 +12,7 @@
   ],
   "resumo_simples": [
     "A Operação Overclean (PF, desde dez/2024; relator Nunes Marques no STF) investiga desvios em emendas e convênios do Dnocs (BA) e da Codevasf, com cerca de R$ 1,4 bi movimentados.",
-    "A 1ª fase teve 43 buscas e 17 prisões preventivas (Lucas Lobão, ex-Dnocs-BA; o vereador Francisquinho Nascimento, primo do deputado Elmar Nascimento/União-BA, teria jogado dinheiro pela janela). Fases seguintes alcançaram o deputado Félix Mendonça Jr. (PDT-BA), o deputado Dal Barreto (União-BA), prefeitos de PT, PSB, PSD e MDB, Luiz França (Podemos) e parentes de Elmar Nascimento.",
+    "A 1ª fase teve 43 buscas e 17 prisões preventivas (Lucas Lobão, ex-Dnocs-BA; o vereador Francisquinho Nascimento, primo do deputado Elmar Nascimento/União-BA, teria jogado dinheiro pela janela). Fases seguintes alcançaram o deputado Félix Mendonça Jr. (PDT-BA; 4ª fase em 27/06/2025 e 9ª em 13/01/2026), o prefeito de Campo Formoso Elmo Nascimento, irmão de Elmar (5ª, 17/07/2025, bloqueio de R$ 85,7 mi), o deputado Dal Barreto (União-BA; 6ª, 14/10/2025), prefeitos de PT, PSB, PSD e MDB, Luiz França (Podemos) e, na 10ª fase (17/09/2026), contratos da Prefeitura de Belo Horizonte e o empresário Marcos Moura ('Rei do Lixo').",
     "Até out/2026 não foram localizadas denúncias da PGR decorrentes da operação."
   ],
   "valores": [
@@ -72,12 +72,35 @@
       }
     },
     {
-      "rotulo": "Fases até 13/01/2026",
-      "valor": 9,
+      "rotulo": "Fases até 17/09/2026",
+      "valor": 10,
       "unidade": "fases",
       "fonte": {
-        "nome": "Radar18, 13/01/2026: PF deflagra nona fase da Operação Overclean e mira deputado federal",
-        "url": "https://radar18.com.br/2026/01/13/pf-deflagra-nona-fase-da-operacao-overclean-e-mira-deputado-federal/",
+        "nome": "BNews, 17/09/2026: Overclean — 'Rei do Lixo' Marcos Moura volta a ser alvo da PF (fonte única; página indisponível ao leitor)",
+        "url": "https://www.bnews.com.br/noticias/policia/overclean-rei-do-lixo-marcos-moura-volta-ser-alvo-da-pf.html",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "nota": "A 10ª fase vem de fonte única (BNews), página indisponível ao leitor."
+    },
+    {
+      "rotulo": "Bloqueio na 5ª fase (17/07/2025, Campo Formoso)",
+      "valor": 85.7,
+      "unidade": "R$ milhões",
+      "fonte": {
+        "nome": "Jornal Opção, 17/07/2025: na 5ª fase da Overclean, PF bloqueia R$ 85,7 milhões",
+        "url": "https://www.jornalopcao.com.br/ultimas-noticias/na-quinta-fase-de-operacao-que-envestiga-desvio-bilionario-pf-bloqueia-r-857-milhoes-das-contas-dos-suspeitos-726223/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Mandados na 10ª fase (17/09/2026)",
+      "valor": 24,
+      "unidade": "mandados (6 em Salvador; 18 em MG, SP, TO, PR e ES)",
+      "fonte": {
+        "nome": "BNews, 17/09/2026: Overclean — 'Rei do Lixo' Marcos Moura volta a ser alvo da PF (fonte única; página indisponível ao leitor)",
+        "url": "https://www.bnews.com.br/noticias/policia/overclean-rei-do-lixo-marcos-moura-volta-ser-alvo-da-pf.html",
         "acesso_em": "2026-10-21",
         "tier": "imprensa"
       }
@@ -110,8 +133,8 @@
       "condenados_definitivo": 0,
       "condenacoes_anuladas": null,
       "investigados_nomeados": [
-        "Dal Barreto (deputado federal, BA; 6ª fase)",
-        "Elmo Nascimento e Francisquinho Nascimento (irmão e primo de Elmar Nascimento)"
+        "Dal Barreto (deputado federal, BA; 6ª fase, 14/10/2025)",
+        "Elmo Nascimento (prefeito de Campo Formoso, irmão de Elmar; 5ª fase, 17/07/2025) e Francisquinho Nascimento (primo de Elmar)"
       ],
       "citados_nomeados": [
         "Elmar Nascimento (não é alvo)",
@@ -134,12 +157,12 @@
       "condenados_definitivo": 0,
       "condenacoes_anuladas": null,
       "investigados_nomeados": [
-        "prefeito de Ibipitanga (afastado, 4ª fase)",
+        "prefeito de Ibipitanga (afastado e preso em flagrante por porte de arma, 4ª fase, 27/06/2025)",
         "ex-prefeito de Paratinga (>R$ 1 mi em gavetas)"
       ],
       "fonte": {
-        "nome": "Acessa.com, jan/2026: Operação Overclean, que mira deputado, já achou dinheiro em gaveta e jogado da janela",
-        "url": "https://www.acessa.com/politica/2026/01/304590-operacao-overclean-que-mira-deputado-ja-achou-dinheiro-em-gaveta-bota-e-jogado-da-janela-lembre.html",
+        "nome": "Metrópoles, 27/06/2025: em nova fase da Overclean, STF afasta prefeitos ligados a deputado",
+        "url": "https://www.metropoles.com/colunas/mirelle-pinheiro/em-nova-fase-da-overclean-stf-afasta-prefeitos-ligados-a-deputado",
         "acesso_em": "2026-10-21",
         "tier": "imprensa"
       },
@@ -153,11 +176,11 @@
       "condenados_definitivo": 0,
       "condenacoes_anuladas": null,
       "investigados_nomeados": [
-        "prefeito de Boquira (afastado, 4ª fase)"
+        "prefeito de Boquira (afastado e preso em flagrante por porte de arma, 4ª fase, 27/06/2025)"
       ],
       "fonte": {
-        "nome": "Acessa.com, jan/2026: Operação Overclean, que mira deputado, já achou dinheiro em gaveta e jogado da janela",
-        "url": "https://www.acessa.com/politica/2026/01/304590-operacao-overclean-que-mira-deputado-ja-achou-dinheiro-em-gaveta-bota-e-jogado-da-janela-lembre.html",
+        "nome": "Metrópoles, 27/06/2025: em nova fase da Overclean, STF afasta prefeitos ligados a deputado",
+        "url": "https://www.metropoles.com/colunas/mirelle-pinheiro/em-nova-fase-da-overclean-stf-afasta-prefeitos-ligados-a-deputado",
         "acesso_em": "2026-10-21",
         "tier": "imprensa"
       },
@@ -171,15 +194,14 @@
       "condenados_definitivo": 0,
       "condenacoes_anuladas": null,
       "investigados_nomeados": [
-        "prefeito de Riacho de Santana (afastado, 7ª fase)"
+        "João Vítor Laranjeira, prefeito de Riacho de Santana (afastado, 7ª fase, out/2025)"
       ],
       "fonte": {
-        "nome": "Acessa.com, jan/2026: Operação Overclean, que mira deputado, já achou dinheiro em gaveta e jogado da janela",
-        "url": "https://www.acessa.com/politica/2026/01/304590-operacao-overclean-que-mira-deputado-ja-achou-dinheiro-em-gaveta-bota-e-jogado-da-janela-lembre.html",
+        "nome": "Gazeta do Povo, out/2025: prefeito de Riacho de Santana (BA) afastado em operação sobre desvio de emendas",
+        "url": "https://www.gazetadopovo.com.br/brasil/prefeito-cidade-ba-afastado-operacao-desvio-emendas/",
         "acesso_em": "2026-10-21",
         "tier": "imprensa"
-      },
-      "nota": "Nome não consta nas notas."
+      }
     },
     {
       "partido": "MDB",
@@ -246,14 +268,14 @@
     {
       "nome": "Elmo Nascimento",
       "partido_na_epoca": "não informado nas notas",
-      "cargo": "irmão de Elmar Nascimento",
+      "cargo": "prefeito de Campo Formoso (BA); irmão de Elmar Nascimento",
       "crime": "não detalhado nas notas",
       "tribunal": "STF (relator Nunes Marques)",
       "data_condenacao": null,
       "pena": null,
-      "status_atual": "Alvo da 5ª fase (Codevasf/Campo Formoso).",
+      "status_atual": "Alvo da 5ª fase (17/07/2025; Codevasf/Campo Formoso), com bloqueio de R$ 85,7 mi das contas dos suspeitos.",
       "status_categoria": "investigado",
-      "url": "https://www.acessa.com/politica/2026/01/304590-operacao-overclean-que-mira-deputado-ja-achou-dinheiro-em-gaveta-bota-e-jogado-da-janela-lembre.html"
+      "url": "https://www.jornalopcao.com.br/ultimas-noticias/na-quinta-fase-de-operacao-que-envestiga-desvio-bilionario-pf-bloqueia-r-857-milhoes-das-contas-dos-suspeitos-726223/"
     },
     {
       "nome": "Elmar Nascimento",
@@ -312,7 +334,7 @@
       "tribunal": "STF (relator Nunes Marques)",
       "data_condenacao": null,
       "pena": null,
-      "status_atual": "Emendas alvo da 4ª fase; novas buscas na 9ª fase (13/01/2026), com bloqueio de R$ 24 mi.",
+      "status_atual": "Emendas alvo da 4ª fase (27/06/2025); novas buscas na 9ª fase (13/01/2026), com bloqueio de R$ 24 mi.",
       "status_categoria": "investigado",
       "url": "https://radar18.com.br/2026/01/13/pf-deflagra-nona-fase-da-operacao-overclean-e-mira-deputado-federal/"
     },
@@ -324,9 +346,9 @@
       "tribunal": "STF (relator Nunes Marques)",
       "data_condenacao": null,
       "pena": null,
-      "status_atual": "Alvo da 6ª fase.",
+      "status_atual": "Alvo da 6ª fase (14/10/2025); segundo o Metrópoles, controla os Correios na Bahia.",
       "status_categoria": "investigado",
-      "url": "https://www.acessa.com/politica/2026/01/304590-operacao-overclean-que-mira-deputado-ja-achou-dinheiro-em-gaveta-bota-e-jogado-da-janela-lembre.html"
+      "url": "https://www.metropoles.com/colunas/igor-gadelha/alvo-da-pf-deputado-do-uniao-brasil-controla-correios-na-bahia"
     },
     {
       "nome": "Luiz França",
@@ -336,21 +358,46 @@
       "tribunal": "STF (relator Nunes Marques)",
       "data_condenacao": null,
       "pena": null,
-      "status_atual": "Alvo da 8ª fase.",
+      "status_atual": "Alvo da 8ª fase (data não confirmada).",
       "status_categoria": "investigado",
-      "url": "https://www.acessa.com/politica/2026/01/304590-operacao-overclean-que-mira-deputado-ja-achou-dinheiro-em-gaveta-bota-e-jogado-da-janela-lembre.html"
+      "url": "https://www.congressoemfoco.com.br/noticia/113441/pf-realiza-oitava-fase-de-operacao-que-investiga-desvio-de-emendas"
     },
     {
-      "nome": "Prefeitos de Ibipitanga (PT), Boquira (PSB), Riacho de Santana (PSD) e Wenceslau Guimarães (MDB); ex-prefeito de Paratinga (PT)",
-      "partido_na_epoca": "PT / PSB / PSD / MDB",
+      "nome": "João Vítor Laranjeira",
+      "partido_na_epoca": "PSD",
+      "cargo": "prefeito de Riacho de Santana (BA)",
+      "crime": "não detalhado nas notas (desvio de emendas)",
+      "tribunal": "STF (relator Nunes Marques)",
+      "data_condenacao": null,
+      "pena": null,
+      "status_atual": "Afastado do cargo na 7ª fase (out/2025).",
+      "status_categoria": "investigado",
+      "url": "https://www.gazetadopovo.com.br/brasil/prefeito-cidade-ba-afastado-operacao-desvio-emendas/"
+    },
+    {
+      "nome": "Marcos Moura ('Rei do Lixo')",
+      "partido_na_epoca": "sem partido (empresário)",
+      "cargo": "empresário",
+      "crime": "não detalhado nas notas (contratos da Prefeitura de Belo Horizonte, 2024–2025)",
+      "tribunal": "não informado nas notas",
+      "data_condenacao": null,
+      "pena": null,
+      "status_atual": "Alvo da 10ª fase (17/09/2026): 6 mandados em Salvador e 18 em MG, SP, TO, PR e ES; 'volta a ser alvo' da PF, segundo a fonte (única; página indisponível ao leitor).",
+      "status_categoria": "investigado",
+      "url": "https://www.bnews.com.br/noticias/policia/overclean-rei-do-lixo-marcos-moura-volta-ser-alvo-da-pf.html",
+      "nao_verificado": true
+    },
+    {
+      "nome": "Prefeitos de Ibipitanga (PT), Boquira (PSB) e Wenceslau Guimarães (MDB); ex-prefeito de Paratinga (PT)",
+      "partido_na_epoca": "PT / PSB / MDB",
       "cargo": "prefeitos e ex-prefeito",
       "crime": "não detalhado nas notas",
       "tribunal": "Justiça Federal / STF",
       "data_condenacao": null,
       "pena": null,
-      "status_atual": "Afastados (Ibipitanga, Boquira, Riacho de Santana) ou alvos; ex-prefeito de Paratinga com mais de R$ 1 mi em gavetas. Nomes não constam nas notas.",
+      "status_atual": "Prefeitos de Ibipitanga e Boquira afastados pelo STF na 4ª fase (27/06/2025) e presos em flagrante por porte de arma; Wenceslau Guimarães alvo na 7ª fase; ex-prefeito de Paratinga com mais de R$ 1 mi em gavetas. Nomes não constam nas notas.",
       "status_categoria": "investigado",
-      "url": "https://www.acessa.com/politica/2026/01/304590-operacao-overclean-que-mira-deputado-ja-achou-dinheiro-em-gaveta-bota-e-jogado-da-janela-lembre.html"
+      "url": "https://www.metropoles.com/colunas/mirelle-pinheiro/em-nova-fase-da-overclean-stf-afasta-prefeitos-ligados-a-deputado"
     }
   ],
   "linha_do_tempo": [
@@ -361,25 +408,51 @@
     },
     {
       "data": "2025",
-      "evento": "Fases 2 a 8: afastamento de Bruno Barral (3ª); emendas de Félix Mendonça Jr. e prefeitos de Ibipitanga e Boquira afastados (4ª); Codevasf/Campo Formoso, Elmo Nascimento e Marcelo Moreira (5ª); Dal Barreto (6ª); prefeitos de Riacho de Santana e Wenceslau Guimarães (7ª); Luiz França (8ª). Datas exatas não constam nas notas.",
-      "url": "https://www.acessa.com/politica/2026/01/304590-operacao-overclean-que-mira-deputado-ja-achou-dinheiro-em-gaveta-bota-e-jogado-da-janela-lembre.html"
+      "evento": "Fases 2 e 3 (datas não confirmadas): afastamento de Bruno Barral (3ª).",
+      "url": "https://www.acessa.com/politica/2026/01/304590-operacao-overclean-que-mira-deputado-ja-achou-dinheiro-em-gaveta-bota-e-jogado-da-janela-lembre.html",
+      "nao_verificado": true
+    },
+    {
+      "data": "2025-06-27",
+      "evento": "4ª fase: emendas de Félix Mendonça Jr. (PDT-BA); STF afasta os prefeitos de Ibipitanga (PT) e Boquira (PSB), presos em flagrante por porte de arma.",
+      "url": "https://www.metropoles.com/colunas/mirelle-pinheiro/em-nova-fase-da-overclean-stf-afasta-prefeitos-ligados-a-deputado"
+    },
+    {
+      "data": "2025-07-17",
+      "evento": "5ª fase: Campo Formoso (BA), prefeito Elmo Nascimento (irmão de Elmar) e ex-presidente da Codevasf Marcelo Moreira; bloqueio de R$ 85,7 mi.",
+      "url": "https://www.jornalopcao.com.br/ultimas-noticias/na-quinta-fase-de-operacao-que-envestiga-desvio-bilionario-pf-bloqueia-r-857-milhoes-das-contas-dos-suspeitos-726223/"
+    },
+    {
+      "data": "2025-10-14",
+      "evento": "6ª fase: deputado Dal Barreto (União-BA).",
+      "url": "https://www.metropoles.com/colunas/igor-gadelha/alvo-da-pf-deputado-do-uniao-brasil-controla-correios-na-bahia"
+    },
+    {
+      "data": "2025-10",
+      "evento": "7ª fase: prefeito de Riacho de Santana, João Vítor Laranjeira (PSD), afastado; prefeito de Wenceslau Guimarães (MDB) alvo. A 8ª fase (data não confirmada nas notas) teve como alvo Luiz França (Podemos).",
+      "url": "https://www.gazetadopovo.com.br/brasil/prefeito-cidade-ba-afastado-operacao-desvio-emendas/"
     },
     {
       "data": "2026-01-13",
       "evento": "9ª fase: novas buscas contra Félix Mendonça Jr. e bloqueio de R$ 24 mi.",
       "url": "https://radar18.com.br/2026/01/13/pf-deflagra-nona-fase-da-operacao-overclean-e-mira-deputado-federal/"
+    },
+    {
+      "data": "2026-09-17",
+      "evento": "10ª fase: contratações da Prefeitura de Belo Horizonte (2024–2025); 6 mandados em Salvador e 18 em MG, SP, TO, PR e ES; alvo o empresário Marcos Moura ('Rei do Lixo'). Fonte única.",
+      "url": "https://www.bnews.com.br/noticias/policia/overclean-rei-do-lixo-marcos-moura-volta-ser-alvo-da-pf.html"
     }
   ],
   "o_que_dizem_os_dois_lados": {
     "acusacao": "A PF aponta um esquema de desvio de emendas e convênios do Dnocs e da Codevasf na Bahia, com ~R$ 1,4 bi movimentados, dinheiro em espécie encontrado em gavetas, botas e jogado pela janela, alcançando deputados de PDT e União Brasil e prefeitos de vários partidos.",
     "defesa": "Elmar Nascimento não é alvo; Bruno Reis negou relação com o investigado de quem é sócio; os parlamentares investigados não foram denunciados. As notas não registram as manifestações de defesa de Félix Mendonça Jr. e Dal Barreto."
   },
-  "status_atual_md": "Investigação em curso (9 fases até jan/2026), relatoria de Nunes Marques no STF. **Nenhuma denúncia da PGR localizada.** Investigados distribuídos entre PDT, União Brasil, PT, PSB, PSD, MDB e Podemos.",
+  "status_atual_md": "Investigação em curso (10 fases até 17/09/2026; a 10ª, sobre contratos da Prefeitura de Belo Horizonte, vem de fonte única), relatoria de Nunes Marques no STF. **Nenhuma denúncia da PGR localizada.** Investigados distribuídos entre PDT, União Brasil, PT, PSB, PSD, MDB e Podemos.",
   "lacunas": [
     "Não localizadas denúncias da PGR decorrentes da Overclean.",
-    "Datas exatas das fases 2 a 8 e nomes dos prefeitos investigados não constam nas notas.",
+    "Datas das fases 2, 3 e 8 não confirmadas; nomes dos prefeitos de Ibipitanga, Boquira e Wenceslau Guimarães e do ex-prefeito de Paratinga não constam nas notas.",
+    "A 10ª fase (17/09/2026) vem de fonte única com página indisponível ao leitor.",
     "Período dos fatos (convênios/emendas) não detalhado; 'governos_em_que_ocorreram_os_fatos' ficou vazio.",
-    "Fases posteriores a jan/2026 não cobertas.",
     "Teses de defesa dos deputados investigados não constam nas notas."
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/05_escandalos_recentes_inss_master_bolsonaro.md",
@@ -393,6 +466,42 @@
     {
       "nome": "Radar18, 13/01/2026: PF deflagra nona fase da Operação Overclean e mira deputado federal",
       "url": "https://radar18.com.br/2026/01/13/pf-deflagra-nona-fase-da-operacao-overclean-e-mira-deputado-federal/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "BNews, 17/09/2026: Overclean — 'Rei do Lixo' Marcos Moura volta a ser alvo da PF (fonte única; página indisponível ao leitor)",
+      "url": "https://www.bnews.com.br/noticias/policia/overclean-rei-do-lixo-marcos-moura-volta-ser-alvo-da-pf.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Jornal Opção, 17/07/2025: na 5ª fase da Overclean, PF bloqueia R$ 85,7 milhões",
+      "url": "https://www.jornalopcao.com.br/ultimas-noticias/na-quinta-fase-de-operacao-que-envestiga-desvio-bilionario-pf-bloqueia-r-857-milhoes-das-contas-dos-suspeitos-726223/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Metrópoles, 27/06/2025: em nova fase da Overclean, STF afasta prefeitos ligados a deputado",
+      "url": "https://www.metropoles.com/colunas/mirelle-pinheiro/em-nova-fase-da-overclean-stf-afasta-prefeitos-ligados-a-deputado",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Gazeta do Povo, out/2025: prefeito de Riacho de Santana (BA) afastado em operação sobre desvio de emendas",
+      "url": "https://www.gazetadopovo.com.br/brasil/prefeito-cidade-ba-afastado-operacao-desvio-emendas/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Metrópoles, 14/10/2025: alvo da PF, deputado do União Brasil controla Correios na Bahia (Dal Barreto)",
+      "url": "https://www.metropoles.com/colunas/igor-gadelha/alvo-da-pf-deputado-do-uniao-brasil-controla-correios-na-bahia",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Congresso em Foco: PF realiza oitava fase de operação que investiga desvio de emendas",
+      "url": "https://www.congressoemfoco.com.br/noticia/113441/pf-realiza-oitava-fase-de-operacao-que-investiga-desvio-de-emendas",
       "acesso_em": "2026-10-21",
       "tier": "imprensa"
     }

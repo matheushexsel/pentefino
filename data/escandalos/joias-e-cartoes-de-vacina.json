@@ -14,7 +14,7 @@
   ],
   "resumo_simples": [
     "Cartões de vacinação: em mar/2025 Moraes arquivou a investigação (Pet 10405) contra Bolsonaro e o deputado Gutemberg Reis (MDB-RJ), a pedido da PGR, por ausência de provas dos crimes narrados na delação de Mauro Cid; o restante foi à Justiça Federal do DF.",
-    "Joias sauditas: a PF indiciou Bolsonaro por lavagem de dinheiro e associação criminosa, em inquérito com outras 11 pessoas (incluindo Mauro Cid). A PGR pediu o arquivamento alegando 'lacuna legislativa'; em 18/03/2026 Moraes pediu novo parecer, porque a PGR não analisara a parte sobre Frederick Wassef (que recomprou um Rolex vendido nos EUA). Caso pendente."
+    "Joias sauditas: a PF indiciou Bolsonaro em jul/2024 por lavagem de dinheiro e associação criminosa, em inquérito com outras 11 pessoas (incluindo Mauro Cid), por desvio de presentes avaliados em ~R$ 6,8 mi. A PGR pediu o arquivamento em 05/03/2026 alegando 'lacuna legislativa' (análise restrita à esfera penal); em 18/03/2026 Moraes pediu novo parecer, porque a PGR não analisara a parte sobre Frederick Wassef (que recomprou um Rolex vendido nos EUA). Em 24/07/2026 a Receita pediu à PF os laudos das joias e em ~26/08/2026 a Justiça Federal de Guarulhos remeteu ao STF inquérito sobre as joias. Nenhuma decisão de Moraes sobre o arquivamento localizada."
   ],
   "valores": [
     {
@@ -24,6 +24,17 @@
       "fonte": {
         "nome": "CNN Brasil: trama do golpe, joias e Abin paralela — os processos de Bolsonaro",
         "url": "https://www.cnnbrasil.com.br/politica/trama-do-golpe-joias-e-abin-paralela-os-processos-de-bolsonaro/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Valor dos presentes desviados, segundo o indiciamento da PF",
+      "valor": 6.8,
+      "unidade": "R$ milhões (aproximado)",
+      "fonte": {
+        "nome": "Band, 05/03/2026: PGR pede arquivamento de inquérito sobre desvio de joias por Bolsonaro",
+        "url": "https://www.band.com.br/noticias/pgr-pede-arquivamento-de-inquerito-sobre-desvio-de-joias-por-bolsonaro-202603051112",
         "acesso_em": "2026-10-21",
         "tier": "imprensa"
       }
@@ -85,13 +96,26 @@
       "nome": "Jair Bolsonaro",
       "partido_na_epoca": "PL",
       "cargo": "ex-presidente da República",
-      "crime": "lavagem de dinheiro e associação criminosa (indiciamento da PF)",
-      "tribunal": "STF (relator Alexandre de Moraes)",
+      "crime": "lavagem de dinheiro e associação criminosa (indiciamento da PF, jul/2024; desvio de presentes avaliados em ~R$ 6,8 mi)",
+      "tribunal": "STF (relator Alexandre de Moraes; inquérito remetido pela JF de Guarulhos em ago/2026 tramita junto ao inquérito das milícias digitais)",
       "data_condenacao": null,
       "pena": null,
-      "status_atual": "Indiciado pela PF (texto da nota cita 2023; link indica jul/2024); PGR pediu arquivamento alegando 'lacuna legislativa'; em 18/03/2026 Moraes pediu novo parecer da PGR sobre a parte de Frederick Wassef. Pendente; desfecho após mar/2026 não localizado.",
+      "status_atual": "Indiciado pela PF em jul/2024 com outras 11 pessoas; PGR pediu arquivamento em 05/03/2026 ('lacuna legislativa' sobre a natureza jurídica dos presentes; análise restrita à esfera penal); em 18/03/2026 Moraes pediu novo parecer da PGR sobre a parte de Frederick Wassef; em 24/07/2026 a Receita pediu à PF os laudos das joias; ~26/08/2026 a JF de Guarulhos remeteu inquérito ao STF (trecho indexado). Pendente: nenhuma decisão de Moraes sobre o arquivamento localizada.",
       "status_categoria": "investigado",
-      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-03/stf-pede-novo-parecer-da-pgr-sobre-caso-das-joias-saudita",
+      "url": "https://www.band.com.br/noticias/pgr-pede-arquivamento-de-inquerito-sobre-desvio-de-joias-por-bolsonaro-202603051112",
+      "caso": "Joias sauditas"
+    },
+    {
+      "nome": "Michelle Bolsonaro",
+      "partido_na_epoca": "PL",
+      "cargo": "ex-primeira-dama; presidente do PL Mulher",
+      "crime": "não detalhado nas notas (joias)",
+      "tribunal": "STF",
+      "data_condenacao": null,
+      "pena": null,
+      "status_atual": "Apenas fatos de 2023 localizados: quebra de sigilo em ago/2023 e silêncio em depoimento à PF em 31/08/2023. Nada localizado para 2024–2026.",
+      "status_categoria": "investigado",
+      "url": "https://www.cnnbrasil.com.br/politica/trama-do-golpe-joias-e-abin-paralela-os-processos-de-bolsonaro/",
       "caso": "Joias sauditas",
       "nao_verificado": true
     },
@@ -143,10 +167,15 @@
       "url": "https://www.cnnbrasil.com.br/politica/trama-do-golpe-joias-e-abin-paralela-os-processos-de-bolsonaro/"
     },
     {
-      "data": "2024-07",
-      "evento": "PF indicia Bolsonaro por lavagem e associação criminosa no caso das joias (data indicada pelo link; texto da nota cita 2023).",
+      "data": "2023-08",
+      "evento": "Quebra de sigilo de Michelle Bolsonaro; em 31/08/2023 ela fica em silêncio em depoimento à PF.",
       "url": "https://www.cnnbrasil.com.br/politica/trama-do-golpe-joias-e-abin-paralela-os-processos-de-bolsonaro/",
       "nao_verificado": true
+    },
+    {
+      "data": "2024-07",
+      "evento": "PF indicia Bolsonaro e outras 11 pessoas por lavagem e associação criminosa no caso das joias (presentes avaliados em ~R$ 6,8 mi).",
+      "url": "https://www.band.com.br/noticias/pgr-pede-arquivamento-de-inquerito-sobre-desvio-de-joias-por-bolsonaro-202603051112"
     },
     {
       "data": "2025-03",
@@ -154,27 +183,49 @@
       "url": "https://noticias.stf.jus.br/postsnoticias/stf-arquiva-investigacao-contra-ex-presidente-da-republica-por-fraude-em-cartao-de-vacina/"
     },
     {
+      "data": "2026-03-05",
+      "evento": "PGR pede o arquivamento do inquérito das joias ('lacuna legislativa').",
+      "url": "https://www.band.com.br/noticias/pgr-pede-arquivamento-de-inquerito-sobre-desvio-de-joias-por-bolsonaro-202603051112"
+    },
+    {
       "data": "2026-03-18",
       "evento": "Moraes pede novo parecer da PGR no caso das joias (parte sobre Frederick Wassef não analisada).",
       "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-03/stf-pede-novo-parecer-da-pgr-sobre-caso-das-joias-saudita"
+    },
+    {
+      "data": "2026-07-24",
+      "evento": "Receita Federal pede à PF os laudos das joias.",
+      "url": "https://www.opovo.com.br/noticias/politica/2026/07/24/receita-pede-a-pf-laudos-de-joias-sauditas-dadas-a-bolsonaro.html"
+    },
+    {
+      "data": "2026-08-26",
+      "evento": "Justiça Federal de Guarulhos remete ao STF inquérito sobre as joias, a tramitar junto ao inquérito das milícias digitais (Moraes) — data aproximada; página via trecho indexado.",
+      "url": "https://www.maisgoias.com.br/brasil/justica-federal-envia-ao-stf-inquerito-sobre-joias-recebidas-por-bolsonaro/",
+      "nao_verificado": true
     }
   ],
   "o_que_dizem_os_dois_lados": {
     "acusacao": "A PF concluiu que houve lavagem de dinheiro e associação criminosa na venda de joias recebidas de autoridades sauditas, indiciando Bolsonaro e outras 11 pessoas; a delação de Mauro Cid também narrou fraude nos cartões de vacinação.",
     "defesa": "A PGR pediu o arquivamento do caso das joias por 'lacuna legislativa' e o arquivamento dos cartões por ausência de provas, acolhido pelo STF em mar/2025; a defesa sustenta que não houve crime. Nenhuma denúncia foi oferecida em nenhum dos dois casos."
   },
-  "status_atual_md": "Cartões de vacinação: **arquivado** (mar/2025). Joias: **inquérito pendente**; Bolsonaro foi indiciado pela PF, a PGR pediu arquivamento e Moraes solicitou novo parecer em 18/03/2026. A tendência indicada pela PGR é o arquivamento. Dos casos paralelos de Bolsonaro, só o das joias segue aberto.",
+  "status_atual_md": "Cartões de vacinação: **arquivado** (mar/2025). Joias: **inquérito pendente**; Bolsonaro foi indiciado pela PF (jul/2024), a PGR pediu arquivamento em 05/03/2026 e Moraes solicitou novo parecer em 18/03/2026; desdobramentos em jul–ago/2026 (laudos pedidos pela Receita; inquérito remetido pela JF de Guarulhos ao STF) sem decisão sobre o arquivamento. A tendência indicada pela PGR é o arquivamento. Dos casos paralelos de Bolsonaro, só o das joias segue aberto.",
   "lacunas": [
-    "Desfecho do caso das joias após mar/2026 não localizado.",
-    "Data do indiciamento da PF diverge (2023 no texto; jul/2024 no link).",
-    "Situação de Michelle Bolsonaro (joias/PL Mulher) não pesquisada com sucesso; nenhuma fonte lida traz investigação ou processo contra ela.",
-    "Nomes das demais 11 pessoas do inquérito das joias (além de Cid) não constam nas notas."
+    "Decisão de Moraes sobre o pedido de arquivamento das joias não localizada.",
+    "Nomes dos 11 coindiciados (além de Cid) não localizados.",
+    "Michelle Bolsonaro: apenas fatos de 2023 (quebra de sigilo em ago/2023; silêncio na PF em 31/08/2023); nada em 2024–2026.",
+    "A remessa do inquérito da JF de Guarulhos ao STF (~26/08/2026) vem de página indisponível ao leitor (trecho indexado)."
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/05_escandalos_recentes_inss_master_bolsonaro.md",
   "fontes": [
     {
       "nome": "CNN Brasil: trama do golpe, joias e Abin paralela — os processos de Bolsonaro",
       "url": "https://www.cnnbrasil.com.br/politica/trama-do-golpe-joias-e-abin-paralela-os-processos-de-bolsonaro/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Band, 05/03/2026: PGR pede arquivamento de inquérito sobre desvio de joias por Bolsonaro",
+      "url": "https://www.band.com.br/noticias/pgr-pede-arquivamento-de-inquerito-sobre-desvio-de-joias-por-bolsonaro-202603051112",
       "acesso_em": "2026-10-21",
       "tier": "imprensa"
     },
@@ -189,6 +240,18 @@
       "url": "https://noticias.stf.jus.br/postsnoticias/stf-arquiva-investigacao-contra-ex-presidente-da-republica-por-fraude-em-cartao-de-vacina/",
       "acesso_em": "2026-10-21",
       "tier": "oficial"
+    },
+    {
+      "nome": "O Povo, 24/07/2026: Receita pede à PF laudos de joias sauditas dadas a Bolsonaro",
+      "url": "https://www.opovo.com.br/noticias/politica/2026/07/24/receita-pede-a-pf-laudos-de-joias-sauditas-dadas-a-bolsonaro.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Mais Goiás, ago/2026: Justiça Federal envia ao STF inquérito sobre joias recebidas por Bolsonaro (trecho indexado)",
+      "url": "https://www.maisgoias.com.br/brasil/justica-federal-envia-ao-stf-inquerito-sobre-joias-recebidas-por-bolsonaro/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
     }
   ],
   "atualizado_em": "2026-10-21",

@@ -17,7 +17,8 @@
     "A PGR denunciou 40 pessoas em abril de 2006; 38 foram a julgamento no STF (um fez acordo e outro, José Janene, morreu).",
     "O plenário do STF julgou o caso entre agosto e dezembro de 2012 e condenou 25 réus; após os embargos infringentes (mar/2014), ficaram 24 condenados, porque Breno Fischberg foi absolvido.",
     "Em fevereiro de 2014, por 6 a 5, o STF absolveu do crime de formação de quadrilha José Dirceu, José Genoino e mais 6 réus, o que reduziu as penas.",
-    "As condenações são definitivas (STF em instância única) e nenhuma foi anulada depois. Em 2025 nenhum condenado estava preso: a maioria teve a pena extinta por indultos natalinos (Dilma 2014/2015; Temer 2017) ou já a cumpriu; Marcos Valério ainda cumpria pena em prisão domiciliar em junho de 2025."
+    "As condenações são definitivas (STF em instância única) e nenhuma foi anulada depois. Em 2025 nenhum condenado estava preso: a maioria teve a pena extinta por indultos natalinos (Dilma 2014/2015; Temer 2017) ou já a cumpriu; Marcos Valério ainda cumpria pena em prisão domiciliar em junho de 2025.",
+    "Contagem consolidada dos 40 denunciados: 24 condenados, 12 absolvidos integralmente e 3 outros desfechos (Quaglia — processo anulado/desmembrado; José Janene — falecido em 2010; Sílvio Pereira — transação penal). Em 2018 o ministro Barroso contabilizava 13 de 23 condenados já perdoados, ao menos em parte, por indulto."
   ],
   "valores": [
     {
@@ -87,7 +88,54 @@
       }
     },
     {
-      "rotulo": "Condenados com pena extinta por indultos de Natal (Dilma e Temer)",
+      "rotulo": "Absolvidos integralmente (contagem consolidada da lista de 40 denunciados)",
+      "valor": 12,
+      "unidade": "pessoas",
+      "fonte": {
+        "nome": "Wikipédia pt, Lista de denunciados e julgados do Mensalão (índice)",
+        "url": "https://pt.wikipedia.org/wiki/Lista_de_denunciados_e_julgados_do_Esc%C3%A2ndalo_do_Mensal%C3%A3o",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "nota": "Apoiada na lista da Wikipédia (que cita o quadro da PGR, offline) e na parcial do Estado de Minas de 22/10/2012 (25 condenados de 37 réus julgados, 7 absolvidos de tudo, 3 empates resolvidos pro reo em 23/10/2012); sem documento do STF."
+    },
+    {
+      "rotulo": "Réus efetivamente julgados na fase de mérito (22/10/2012)",
+      "valor": 37,
+      "unidade": "pessoas",
+      "fonte": {
+        "nome": "Estado de Minas, 22/10/2012: parcial do julgamento do mensalão (25 condenados, 7 absolvidos, 3 empates)",
+        "url": "https://www.em.com.br/app/noticia/politica/2012/10/22/interna_politica,324774/amp.html",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Condenados já perdoados por indulto, ao menos em parte (contagem de Barroso, 2018)",
+      "valor": 13,
+      "unidade": "pessoas (de 23)",
+      "fonte": {
+        "nome": "O Antagonista, 2018: Barroso lembra que 13 condenados no mensalão já foram perdoados por indulto",
+        "url": "https://oantagonista.com.br/brasil/barroso-lembra-que-13-condenados-no-mensalao-ja-foram-perdoados-por-indulto/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "nota": "Melhor dado oficial-indireto localizado; inclui Genoino (mar/2015), Dirceu e os 6 do decreto de dez/2015."
+    },
+    {
+      "rotulo": "Condenados perdoados pelo decreto de indulto de dez/2015 (Dilma)",
+      "valor": 6,
+      "unidade": "pessoas",
+      "fonte": {
+        "nome": "Bahia Notícias/Estadão: condenados no mensalão pedem ao STF perdão com base em indulto de Natal (dez/2015)",
+        "url": "https://www.bahianoticias.com.br/estadao/noticia/111555-condenados-no-mensalao-pedem-ao-stf-perdao-com-base-em-indulto-de-natal",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "nota": "Roberto Jefferson, Pedro Henry, Romeu Queiroz, Bispo Rodrigues, Vinícius Samarane e Rogério Tolentino."
+    },
+    {
+      "rotulo": "Condenados com pena extinta por indultos de Natal (Dilma e Temer) — número da Revista Oeste",
       "valor": 17,
       "unidade": "pessoas",
       "fonte": {
@@ -97,7 +145,7 @@
         "tier": "imprensa"
       },
       "nao_verificado": true,
-      "nota": "Número de fonte de opinião/política, não confirmado em fonte oficial."
+      "nota": "Número de fonte de opinião/política, não confirmado em segunda fonte; preferir 'ao menos 13 (2018)'."
     },
     {
       "rotulo": "Valor do esquema frequentemente citado (R$ 55 mi / R$ 141 mi)",
@@ -239,9 +287,9 @@
       "cargo": "ex-ministro da Casa Civil",
       "crime": "corrupção ativa (absolvido de formação de quadrilha em 2014)",
       "tribunal": "STF (Ação Penal 470, instância única)",
-      "data_condenacao": "2012",
-      "pena": "7 anos e 11 meses (inicial 10a10m) + multa de R$ 971 mil",
-      "status_atual": "Cumpriu cerca de 1 ano em regime fechado e depois domiciliar; pena extinta por indulto natalino (governo Dilma). Em 2025 estava 'ficha limpa'; candidato a deputado federal (PT-SP) em 2026, não eleito (78.450 votos). As anulações de 2024 que o beneficiaram referem-se à Lava Jato, não à AP 470.",
+      "data_condenacao": "2012-11-12",
+      "pena": "7 anos e 11 meses (inicial 10a10m, fixada em 12/11/2012, + 280 dias-multa — R$ 742 mil segundo Gazeta do Povo; Exame registra multa de R$ 971 mil)",
+      "status_atual": "Cumpriu cerca de 1 ano em regime fechado e depois domiciliar; pena de 7a11m extinta por Barroso com base em indulto natalino do governo Dilma. Em 2025 estava 'ficha limpa'; candidato a deputado federal (PT-SP) em 2026, não eleito (78.450 votos). As anulações de 2024 que o beneficiaram referem-se à Lava Jato, não à AP 470.",
       "status_categoria": "condenado-definitivo",
       "url": "https://pt.wikipedia.org/wiki/Jos%C3%A9_Dirceu"
     },
@@ -251,11 +299,11 @@
       "cargo": "ex-presidente do PT",
       "crime": "corrupção ativa (absolvido de quadrilha em 2014)",
       "tribunal": "STF (Ação Penal 470, instância única)",
-      "data_condenacao": "2012",
-      "pena": "4 anos e 8 meses (inicial 6a11m)",
-      "status_atual": "Pena extinta pelo STF em 2014 (indulto).",
+      "data_condenacao": "2012-11-12",
+      "pena": "4 anos e 8 meses (inicial 6a11m, fixada em 12/11/2012)",
+      "status_atual": "Pena extinta pelo plenário do STF (unânime) em mar/2015, com base no indulto de Dilma de 2014.",
       "status_categoria": "condenado-definitivo",
-      "url": "https://exame.com/brasil/onde-estao-os-24-condenados-por-causa-do-mensalao/"
+      "url": "https://www.jornalopcao.com.br/ultimas-noticias/condenado-no-caso-do-mensalao-jose-genoino-tem-pena-extinta-29922/"
     },
     {
       "nome": "Delúbio Soares",
@@ -263,9 +311,9 @@
       "cargo": "ex-tesoureiro do PT",
       "crime": "corrupção ativa",
       "tribunal": "STF (Ação Penal 470, instância única)",
-      "data_condenacao": "2012",
-      "pena": "6 anos e 8 meses (inicial 8a11m) + multa de R$ 466 mil",
-      "status_atual": "Cumpriu 2 anos e 3 meses em regime fechado; indulto concedido (decisão do ministro Barroso); livre.",
+      "data_condenacao": "2012-11-12",
+      "pena": "6 anos e 8 meses (inicial 8a11m, fixada em 12/11/2012) + multa de R$ 466 mil",
+      "status_atual": "Cumpriu 2 anos e 3 meses em regime fechado; indulto concedido (decisão do ministro Barroso); livre. Na Lava Jato, condenado a 6 anos por lavagem (anulada), solto em nov/2019.",
       "status_categoria": "condenado-definitivo",
       "url": "https://exame.com/brasil/onde-estao-os-24-condenados-por-causa-do-mensalao/"
     },
@@ -302,7 +350,7 @@
       "tribunal": "STF (Ação Penal 470, instância única)",
       "data_condenacao": "2012",
       "pena": "7 anos e 14 dias + multa de R$ 689 mil",
-      "status_atual": "Preso em 2014; regime aberto em 2015; indulto em 2015. Em 2025 estava em prisão domiciliar humanitária por outro caso (STF/Moraes, 2022), sem relação com a AP 470.",
+      "status_atual": "Preso em 2014; regime aberto em 2015; perdoado pelo decreto de indulto de dez/2015 (Dilma). Em 2025 estava em prisão domiciliar humanitária por outro caso (STF/Moraes, 2022), sem relação com a AP 470.",
       "status_categoria": "condenado-definitivo",
       "url": "https://exame.com/brasil/onde-estao-os-24-condenados-por-causa-do-mensalao/"
     },
@@ -314,7 +362,7 @@
       "tribunal": "STF (Ação Penal 470, instância única)",
       "data_condenacao": "2012",
       "pena": "6 anos e 6 meses",
-      "status_atual": "Cumpriu em regime semiaberto (MG).",
+      "status_atual": "Cumpriu em regime semiaberto (MG); perdoado pelo decreto de indulto de dez/2015.",
       "status_categoria": "pena-cumprida",
       "url": "https://exame.com/brasil/onde-estao-os-24-condenados-por-causa-do-mensalao/"
     },
@@ -337,11 +385,11 @@
       "cargo": "deputado federal (cassado)",
       "crime": "corrupção passiva e lavagem de dinheiro (quadrilha incluída na pena inicial de 9a5m)",
       "tribunal": "STF (Ação Penal 470, instância única)",
-      "data_condenacao": "2012",
-      "pena": "7 anos e 2 meses (após embargos) + multa de R$ 1,08 mi",
+      "data_condenacao": "2012-11-26",
+      "pena": "7 anos e 2 meses (após embargos) + multa de R$ 1,08 mi. Pena inicial fixada em 26/11/2012: 9a5m (2a3m quadrilha; 2a6m + R$ 456 mil corrupção passiva; 4a8m + R$ 624 mil lavagem)",
       "status_atual": "Cumpria pena em Pernambuco quando foi preso na Lava Jato (abr/2015). Ver também o registro em lava-jato-petrolao.",
       "status_categoria": "condenado-definitivo",
-      "url": "https://exame.com/brasil/onde-estao-os-24-condenados-por-causa-do-mensalao/"
+      "url": "http://noticias.uol.com.br/politica/ultimas-noticias/2012/11/26/ex-presidente-do-pp-pedro-correa-e-condenado-a-9-anos-e-5-meses-em-regime-fechado.htm"
     },
     {
       "nome": "Pedro Henry",
@@ -351,19 +399,19 @@
       "tribunal": "STF (Ação Penal 470, instância única)",
       "data_condenacao": "2012",
       "pena": "7 anos e 2 meses",
-      "status_atual": "Cumpriu em semiaberto e depois domiciliar.",
+      "status_atual": "Cumpriu em semiaberto e depois domiciliar; perdoado pelo decreto de indulto de dez/2015.",
       "status_categoria": "pena-cumprida",
       "url": "https://exame.com/brasil/onde-estao-os-24-condenados-por-causa-do-mensalao/"
     },
     {
       "nome": "João Cláudio Genu",
       "partido_na_epoca": "PP",
-      "cargo": "assessor parlamentar",
+      "cargo": "assessor parlamentar; ex-tesoureiro do PP",
       "crime": "corrupção passiva e lavagem de dinheiro",
       "tribunal": "STF (Ação Penal 470, instância única)",
       "data_condenacao": "2012",
       "pena": "7 anos e 3 meses",
-      "status_atual": "Situação atual não informada nas notas.",
+      "status_atual": "Situação da pena da AP 470 não informada nas notas. Na Lava Jato foi condenado por Moro a 9a4m (corrupção passiva e associação criminosa) e solto em nov/2019 (ver lava-jato-petrolao).",
       "status_categoria": "condenado-definitivo",
       "url": "https://exame.com/brasil/onde-estao-os-24-condenados-por-causa-do-mensalao/",
       "nao_verificado": true
@@ -388,7 +436,7 @@
       "tribunal": "STF (Ação Penal 470, instância única)",
       "data_condenacao": "2012",
       "pena": "6 anos e 3 meses",
-      "status_atual": "Cumpriu em domiciliar; livre.",
+      "status_atual": "Cumpriu em domiciliar; perdoado pelo decreto de indulto de dez/2015; livre.",
       "status_categoria": "pena-cumprida",
       "url": "https://exame.com/brasil/onde-estao-os-24-condenados-por-causa-do-mensalao/"
     },
@@ -463,10 +511,9 @@
       "tribunal": "STF (Ação Penal 470, instância única)",
       "data_condenacao": "2012",
       "pena": "8 anos e 5 meses",
-      "status_atual": "Situação atual não informada nas notas.",
+      "status_atual": "Perdoado pelo decreto de indulto de dez/2015 (Dilma).",
       "status_categoria": "condenado-definitivo",
-      "url": "https://exame.com/brasil/onde-estao-os-24-condenados-por-causa-do-mensalao/",
-      "nao_verificado": true
+      "url": "https://www.bahianoticias.com.br/estadao/noticia/111555-condenados-no-mensalao-pedem-ao-stf-perdao-com-base-em-indulto-de-natal"
     },
     {
       "nome": "Simone Vasconcelos",
@@ -515,10 +562,9 @@
       "tribunal": "STF (Ação Penal 470, instância única)",
       "data_condenacao": "2012",
       "pena": "8 anos, 9 meses e 10 dias",
-      "status_atual": "Preso em Minas Gerais em 2014; situação atual não informada.",
+      "status_atual": "Preso em Minas Gerais em 2014; perdoado pelo decreto de indulto de dez/2015 (Dilma).",
       "status_categoria": "condenado-definitivo",
-      "url": "https://exame.com/brasil/onde-estao-os-24-condenados-por-causa-do-mensalao/",
-      "nao_verificado": true
+      "url": "https://www.bahianoticias.com.br/estadao/noticia/111555-condenados-no-mensalao-pedem-ao-stf-perdao-com-base-em-indulto-de-natal"
     },
     {
       "nome": "Enivaldo Quadrado",
@@ -721,9 +767,9 @@
       "tribunal": "STF (AP 470)",
       "data_condenacao": null,
       "pena": null,
-      "status_atual": "Morreu antes do julgamento; processo extinto.",
+      "status_atual": "Morreu em 2010, antes do julgamento; processo extinto.",
       "status_categoria": "arquivado",
-      "url": "https://pt.wikipedia.org/wiki/A%C3%A7%C3%A3o_Penal_470"
+      "url": "https://pt.wikipedia.org/wiki/Lista_de_denunciados_e_julgados_do_Esc%C3%A2ndalo_do_Mensal%C3%A3o"
     }
   ],
   "linha_do_tempo": [
@@ -733,14 +779,49 @@
       "url": "https://pt.wikipedia.org/wiki/A%C3%A7%C3%A3o_Penal_470"
     },
     {
-      "data": "2012-08",
-      "evento": "Início do julgamento da AP 470 no plenário do STF (ago–dez/2012); 25 réus condenados.",
-      "url": "http://portal.stf.jus.br/processos/detalhe.asp?incidente=11541"
+      "data": "2012-08-02",
+      "evento": "Início do julgamento da AP 470 no plenário do STF.",
+      "url": "https://pt.wikipedia.org/wiki/A%C3%A7%C3%A3o_Penal_470"
+    },
+    {
+      "data": "2012-08-16",
+      "evento": "Início da fase de condenações/absolvições por capítulo da denúncia.",
+      "url": "https://www.gazetadopovo.com.br/vida-publica/dirceu-e-condenado-a-quase-11-anos-de-prisao-delubio-8-e-genoino-quase-7-1xtb4ek5u4nb1m0d912bl0g9a"
+    },
+    {
+      "data": "2012-10-09",
+      "evento": "Maioria condena Delúbio, Marcos Valério, Hollerbach, Cristiano Paz e Simone Vasconcelos por corrupção ativa.",
+      "url": "https://www.gazetadopovo.com.br/vida-publica/jose-dirceu-e-outros-nove-sao-condenados-por-formacao-de-quadrilha-1op9pxfblinzv4tyivp9fhgzy"
+    },
+    {
+      "data": "2012-10-22",
+      "evento": "Formação de quadrilha: Dirceu, Genoino, Delúbio e mais 8 condenados (absolvidas Geiza Dias e Ayanna Tenório); parcial de 25 condenados de 37 réus, 7 absolvidos de tudo e 3 empates (Adauto, Paulo Rocha, João Magno — lavagem), resolvidos pro reo em 23/10; 12 absolvidos ao fim do mérito.",
+      "url": "https://www.em.com.br/app/noticia/politica/2012/10/22/interna_politica,324774/amp.html"
+    },
+    {
+      "data": "2012-10-23",
+      "evento": "Início da dosimetria (Valério: 11a8m por 3 crimes, parcial).",
+      "url": "https://www.em.com.br/app/noticia/politica/2012/10/22/interna_politica,324774/amp.html"
+    },
+    {
+      "data": "2012-11-12",
+      "evento": "Penas fixadas: Dirceu 10a10m + 280 dias-multa, Delúbio 8a11m, Genoino 6a11m.",
+      "url": "https://www.gazetadopovo.com.br/vida-publica/dirceu-e-condenado-a-quase-11-anos-de-prisao-delubio-8-e-genoino-quase-7-1xtb4ek5u4nb1m0d912bl0g9a"
+    },
+    {
+      "data": "2012-11-26",
+      "evento": "Pena de Pedro Corrêa: 9a5m em regime fechado + ~R$ 1,08 mi.",
+      "url": "http://noticias.uol.com.br/politica/ultimas-noticias/2012/11/26/ex-presidente-do-pp-pedro-correa-e-condenado-a-9-anos-e-5-meses-em-regime-fechado.htm"
     },
     {
       "data": "2012-12-17",
-      "evento": "PGR publica quadro oficial de réus, crimes e penas.",
+      "evento": "Encerramento da 1ª fase; PGR publica quadro oficial de réus, crimes e penas.",
       "url": "http://noticias.pgr.mpf.mp.br/noticias/noticias-do-site/copy_of_pdfs/mensalao_quadro_reus_penas_final.pdf"
+    },
+    {
+      "data": "2013-08-29",
+      "evento": "STF rejeita embargos de declaração de Dirceu e Cristiano Paz.",
+      "url": "https://www.migalhas.com.br/quentes/185280/stf-rejeita-embargos-de-dirceu-e-cristiano-paz"
     },
     {
       "data": "2013-11",
@@ -758,10 +839,19 @@
       "url": "http://g1.globo.com/politica/mensalao/noticia/2014/03/apos-um-ano-e-meio-e-69-sessoes-stf-conclui-julgamento-do-mensalao.html"
     },
     {
-      "data": "2014-12",
-      "evento": "Indultos natalinos de Dilma (2014 e 2015) e Temer (2017) extinguem penas de parte dos condenados.",
-      "url": "https://revistaoeste.com/politica/todos-os-condenados-pelo-mensalao-estao-soltos/",
-      "nao_verificado": true
+      "data": "2015-03",
+      "evento": "Plenário do STF extingue (unânime) a pena de Genoino com base no indulto de Dilma de 2014.",
+      "url": "https://www.jornalopcao.com.br/ultimas-noticias/condenado-no-caso-do-mensalao-jose-genoino-tem-pena-extinta-29922/"
+    },
+    {
+      "data": "2015-12",
+      "evento": "Decreto de indulto de Dilma: 6 condenados perdoados (Jefferson, Henry, Romeu Queiroz, Bispo Rodrigues, Samarane, Tolentino).",
+      "url": "https://www.bahianoticias.com.br/estadao/noticia/111555-condenados-no-mensalao-pedem-ao-stf-perdao-com-base-em-indulto-de-natal"
+    },
+    {
+      "data": "2018",
+      "evento": "Barroso: 13 de 23 condenados já perdoados, ao menos em parte, por indulto.",
+      "url": "https://oantagonista.com.br/brasil/barroso-lembra-que-13-condenados-no-mensalao-ja-foram-perdoados-por-indulto/"
     },
     {
       "data": "2025-06-11",
@@ -775,12 +865,13 @@
   },
   "status_atual_md": "**Condenações definitivas e válidas.** A AP 470 é o único grande escândalo com condenações transitadas em julgado no STF para dirigentes de PT, PP, PL/PR, PTB e PMDB; nenhuma foi anulada depois (as anulações de 2024 em favor de José Dirceu referem-se à Lava Jato). O esvaziamento prático das penas veio por indultos presidenciais e progressão de regime, não por revisão judicial do mérito. Em junho de 2025 nenhum condenado estava preso; Marcos Valério cumpria pena em prisão domiciliar.",
   "lacunas": [
-    "Não há contagem oficial do STF do total de absolvidos (as fontes indicam 12–13).",
+    "Contagem de 12 absolvidos apoiada na lista da Wikipédia (que cita o quadro da PGR) e na parcial do Estado de Minas de 22/10/2012, sem documento do STF.",
     "Valores do esquema (R$ 55 mi / R$ 141 mi frequentemente citados) não foram verificados em fonte primária.",
-    "Situação em 2026 de Marcos Valério, Ramon Hollerbach, Kátia Rabello e Henrique Pizzolato não confirmada além de jun/2025.",
-    "O PDF da PGR com o quadro de penas não pôde ser aberto.",
-    "O número de 17 condenados com pena extinta por indulto vem de fonte de opinião, sem confirmação oficial.",
-    "Datas exatas de cada condenação individual (ago–dez/2012) não constam nas notas; usou-se o ano."
+    "Situação em 2026 de Marcos Valério, Ramon Hollerbach, Kátia Rabello e Henrique Pizzolato não confirmada além de jun/2025 (não revisitada na rodada 2).",
+    "O PDF da PGR com o quadro de penas segue offline (503 em 21/10/2026).",
+    "'17 penas extintas por indulto' não confirmado em segunda fonte; melhor dado: 13 de 23 (Barroso, 2018).",
+    "Datas de fixação de pena verificadas apenas para Dirceu, Delúbio, Genoino (12/11/2012) e Pedro Corrêa (26/11/2012); para os demais usou-se o ano.",
+    "Divergência na multa de Dirceu: R$ 742 mil (280 dias-multa, Gazeta do Povo 2012) vs. R$ 971 mil (Exame 2014)."
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/04_escandalos_mensalao_petrolao_lavajato.md",
   "fontes": [
@@ -809,6 +900,30 @@
       "tier": "imprensa"
     },
     {
+      "nome": "Wikipédia pt, Lista de denunciados e julgados do Mensalão (índice)",
+      "url": "https://pt.wikipedia.org/wiki/Lista_de_denunciados_e_julgados_do_Esc%C3%A2ndalo_do_Mensal%C3%A3o",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Estado de Minas, 22/10/2012: parcial do julgamento do mensalão (25 condenados, 7 absolvidos, 3 empates)",
+      "url": "https://www.em.com.br/app/noticia/politica/2012/10/22/interna_politica,324774/amp.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "O Antagonista, 2018: Barroso lembra que 13 condenados no mensalão já foram perdoados por indulto",
+      "url": "https://oantagonista.com.br/brasil/barroso-lembra-que-13-condenados-no-mensalao-ja-foram-perdoados-por-indulto/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Bahia Notícias/Estadão: condenados no mensalão pedem ao STF perdão com base em indulto de Natal (dez/2015)",
+      "url": "https://www.bahianoticias.com.br/estadao/noticia/111555-condenados-no-mensalao-pedem-ao-stf-perdao-com-base-em-indulto-de-natal",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
       "nome": "Revista Oeste: todos os condenados pelo Mensalão estão soltos (fonte de opinião/política)",
       "url": "https://revistaoeste.com/politica/todos-os-condenados-pelo-mensalao-estao-soltos/",
       "acesso_em": "2026-10-21",
@@ -827,22 +942,40 @@
       "tier": "imprensa"
     },
     {
-      "nome": "Wikipédia pt, Lista de denunciados e julgados do Mensalão (índice)",
-      "url": "https://pt.wikipedia.org/wiki/Lista_de_denunciados_e_julgados_do_Esc%C3%A2ndalo_do_Mensal%C3%A3o",
+      "nome": "Jornal Opção, mar/2015: condenado no mensalão, José Genoino tem pena extinta",
+      "url": "https://www.jornalopcao.com.br/ultimas-noticias/condenado-no-caso-do-mensalao-jose-genoino-tem-pena-extinta-29922/",
       "acesso_em": "2026-10-21",
       "tier": "imprensa"
     },
     {
-      "nome": "STF, página do processo AP 470",
-      "url": "http://portal.stf.jus.br/processos/detalhe.asp?incidente=11541",
+      "nome": "UOL, 26/11/2012: ex-presidente do PP Pedro Corrêa é condenado a 9 anos e 5 meses",
+      "url": "http://noticias.uol.com.br/politica/ultimas-noticias/2012/11/26/ex-presidente-do-pp-pedro-correa-e-condenado-a-9-anos-e-5-meses-em-regime-fechado.htm",
       "acesso_em": "2026-10-21",
-      "tier": "oficial"
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Gazeta do Povo, 12/11/2012: Dirceu é condenado a quase 11 anos; Delúbio 8; Genoino quase 7",
+      "url": "https://www.gazetadopovo.com.br/vida-publica/dirceu-e-condenado-a-quase-11-anos-de-prisao-delubio-8-e-genoino-quase-7-1xtb4ek5u4nb1m0d912bl0g9a",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Gazeta do Povo, out/2012: José Dirceu e outros nove são condenados por formação de quadrilha",
+      "url": "https://www.gazetadopovo.com.br/vida-publica/jose-dirceu-e-outros-nove-sao-condenados-por-formacao-de-quadrilha-1op9pxfblinzv4tyivp9fhgzy",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
     },
     {
       "nome": "PGR, quadro de réus e penas da AP 470 (PDF, 17/12/2012; link não pôde ser aberto)",
       "url": "http://noticias.pgr.mpf.mp.br/noticias/noticias-do-site/copy_of_pdfs/mensalao_quadro_reus_penas_final.pdf",
       "acesso_em": "2026-10-21",
       "tier": "oficial"
+    },
+    {
+      "nome": "Migalhas, 29/08/2013: STF rejeita embargos de Dirceu e Cristiano Paz",
+      "url": "https://www.migalhas.com.br/quentes/185280/stf-rejeita-embargos-de-dirceu-e-cristiano-paz",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
     },
     {
       "nome": "Congresso em Foco: STF determina execução imediata das penas do mensalão",
