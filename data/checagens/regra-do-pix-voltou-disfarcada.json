@@ -40,11 +40,12 @@
   "explicacao_completa_md": "## O que voltou\n\nA IN RFB 2.278, de 28/08/2025 (DOU 29/08), estende a e-Financeira a instituições de pagamento (reguladas ou não pelo BC), participantes de arranjos de pagamento e empresas de split payment; todas as contas de pagamento devem ser informadas, inclusive operações via Pix, com dados retroativos a janeiro de 2025. Foi editada após as operações Carbono Oculto, Quasar e Tank, que apuraram uso de fintechs por organizações criminosas. As fintechs informam apenas o total movimentado por cliente no período.\n\n## O que não voltou\n\nNenhum tributo. A Receita (nota de 14/01/2026) reiterou que não existe tributação nem fiscalização do Pix com esse objetivo, que a IN 'apenas estende às fintechs as mesmas obrigações de transparência já aplicadas aos bancos' e que a disseminação dessas mensagens 'atende a interesses do crime organizado' e de quem monetiza engajamento. O deputado Rogério Correia (PT) acionou a AGU contra os vídeos.\n\n## Leitura\n\nA afirmação de que a obrigação de reporte das fintechs 'voltou' tem fundo factual; a sugestão de que isso é 'taxa' ou vigilância de cada transação segue falsa. A ausência de reação pública em 2025 — ao contrário de janeiro — deve-se ao contexto de combate ao PCC, segundo a nota.",
   "o_que_e_verdade": [
     "A IN RFB 2.278/2025 reeditou a obrigação de fintechs enviarem a e-Financeira, com escopo mais amplo (todas as contas de pagamento) e dados retroativos a jan/2025.",
-    "O piso de reporte vigente em 2026 não foi confirmado na fonte primária; o mais provável é o piso bancário original (R$ 2 mil/R$ 6 mil mensais)."
+    "O piso de reporte vigente em 2026 é o da IN 1.571/2015, repristinada pela IN 2.247 e estendida às fintechs pela IN 2.278: R$ 2 mil (pessoa física) e R$ 6 mil (empresa) de movimentação mensal — e não R$ 5 mil, limite da norma revogada que Nikolas, a Lupa e o Estadão Verifica repetiram."
   ],
   "o_que_nao_se_sustenta": [
     "Não há 'taxa', imposto ou fiscalização individual de transações: o reporte é o total movimentado por cliente, igual ao dos bancos desde 2015.",
-    "A norma não foi 'disfarçada': foi publicada no DOU em 29/08/2025, com justificativa pública ligada às operações contra o crime organizado."
+    "A norma não foi 'disfarçada': foi publicada no DOU em 29/08/2025, com justificativa pública ligada às operações contra o crime organizado.",
+    "O limite de 'R$ 5 mil' citado no vídeo é o da norma revogada em jan/2025; a regra vigente (IN 1.571/2015, estendida pela IN 2.278) usa R$ 2 mil para pessoas físicas e R$ 6 mil para empresas."
   ],
   "quem_e_responsavel": [
     {
@@ -65,15 +66,15 @@
   ],
   "numeros": [
     {
-      "rotulo": "Piso provável de reporte mensal para pessoa física (regra bancária original)",
+      "rotulo": "Piso de reporte mensal para pessoa física vigente em 2026 (IN 1.571/2015 repristinada; IN 2.278/2025)",
       "valor": 2000,
       "unidade": "R$",
-      "periodo": "2026 (a confirmar na IN)",
+      "periodo": "desde 29/08/2025",
       "fonte": {
-        "nome": "Econet – Revogação das regras de monitoramento do Pix: o que você precisa saber",
-        "url": "https://blog.econeteditora.com.br/revogacao-das-regras-de-monitoramento-do-pix-o-que-voce-precisa-saber/",
+        "nome": "DOU – Instrução Normativa RFB 2.278, de 28/08/2025 (fintechs na e-Financeira)",
+        "url": "https://www.in.gov.br/web/dou/-/instrucao-normativa-rfb-n-2.278-de-28-de-agosto-de-2025-651968141",
         "acesso_em": "2026-10-21",
-        "tier": "imprensa"
+        "tier": "oficial"
       },
       "comparacao": {
         "rotulo": "Empresas",
@@ -108,6 +109,51 @@
         "tier": "imprensa"
       },
       "comparacao": null
+    },
+    {
+      "rotulo": "Limite citado por Nikolas no vídeo de jan/2026 ('mais que R$ 5 mil no mês')",
+      "valor": 5000,
+      "unidade": "R$",
+      "periodo": "jan/2026 (limite da IN 2.219, revogada)",
+      "fonte": {
+        "nome": "Lupa (Explicador) – Governo vai monitorar Pix? Entenda nova regra da Receita Federal (14/01/2026)",
+        "url": "https://www.agencialupa.org/explicador/2026/01/14/governo-vai-monitorar-pix-entenda-nova-regra-da-receita-federal/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": {
+        "rotulo": "Piso vigente (IN 1.571)",
+        "valor": 2000
+      }
+    },
+    {
+      "rotulo": "Visualizações do novo vídeo de Nikolas (Instagram, via Lupa)",
+      "valor": 43,
+      "unidade": "milhões",
+      "periodo": "jan/2026",
+      "fonte": {
+        "nome": "Lupa (Explicador) – Governo vai monitorar Pix? Entenda nova regra da Receita Federal (14/01/2026)",
+        "url": "https://www.agencialupa.org/explicador/2026/01/14/governo-vai-monitorar-pix-entenda-nova-regra-da-receita-federal/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Queda sazonal das transações Pix dez/2025 → jan/2026 (BCB, base aberta)",
+      "valor": -10.3,
+      "unidade": "%",
+      "periodo": "jan/2026",
+      "fonte": {
+        "nome": "BCB – Pix Dados Abertos, EstatisticasTransacoesPix (API Olinda)",
+        "url": "https://olinda.bcb.gov.br/olinda/servico/Pix_DadosAbertos/versao/v1/odata/EstatisticasTransacoesPix(Database=@Database)?@Database='202401'&$format=json",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "dez/2024 → jan/2025",
+        "valor": -11.4
+      }
     }
   ],
   "series": [],
@@ -117,6 +163,24 @@
       "veredito_original": "FALSO para a taxação do Pix (jan/2025); a nota não localizou checagem específica dos vídeos de jan/2026",
       "url": "https://www.aosfatos.org/noticias/mentiras-virais-pix-agenda-economica-2025/",
       "data": "2025-01-09"
+    },
+    {
+      "veiculo": "Comprova (Explica)",
+      "veredito_original": "Norma que obriga fintechs a informar operações acima de R$ 2 mil já existe para bancos e não tributa Pix",
+      "url": "https://projetocomprova.com.br/publica%C3%A7%C3%B5es/norma-que-obriga-fintechs-a-informar-receita-sobre-operacoes-acima-de-r-2-mil-ja-existe-para-bancos-e-nao-tributa-pix/",
+      "data": "2025-09-09"
+    },
+    {
+      "veiculo": "Lupa (Explicador)",
+      "veredito_original": "Não há taxação sobre o Pix; explicador descreve o piso como R$ 5 mil (limite da IN revogada)",
+      "url": "https://www.agencialupa.org/explicador/2026/01/14/governo-vai-monitorar-pix-entenda-nova-regra-da-receita-federal/",
+      "data": "2026-01-14"
+    },
+    {
+      "veiculo": "Estadão Verifica",
+      "veredito_original": "Receita não tem acesso a destinatário ou motivo da transação; não há quebra de sigilo (também usa R$ 5 mil como piso)",
+      "url": "https://www.estadao.com.br/estadao-verifica/lula-cartao-corporativo-sigilo-eterno-pix-5-mil/",
+      "data": "2026-01-19"
     }
   ],
   "fontes": [
@@ -161,6 +225,30 @@
       "url": "https://www.migalhas.com.br/quentes/447963/deputado-aciona-agu-contra-video-de-nikolas-sobre-pix",
       "acesso_em": "2026-10-21",
       "tier": "imprensa"
+    },
+    {
+      "nome": "DOU – Instrução Normativa RFB 2.278, de 28/08/2025 (fintechs na e-Financeira)",
+      "url": "https://www.in.gov.br/web/dou/-/instrucao-normativa-rfb-n-2.278-de-28-de-agosto-de-2025-651968141",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Lupa (Explicador) – Governo vai monitorar Pix? Entenda nova regra da Receita Federal (14/01/2026)",
+      "url": "https://www.agencialupa.org/explicador/2026/01/14/governo-vai-monitorar-pix-entenda-nova-regra-da-receita-federal/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "BCB – Pix Dados Abertos, EstatisticasTransacoesPix (API Olinda)",
+      "url": "https://olinda.bcb.gov.br/olinda/servico/Pix_DadosAbertos/versao/v1/odata/EstatisticasTransacoesPix(Database=@Database)?@Database='202401'&$format=json",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "DOU – Instrução Normativa RFB 2.247, de 15/01/2025 (revogação e repristinação)",
+      "url": "https://www.in.gov.br/web/dou/-/instrucao-normativa-rfb-n-2.247-de-15-de-janeiro-de-2025-607230293",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/12_pix_fake_news_e_impostos_quem_paga.md",
@@ -183,13 +271,17 @@
     "sonho-do-pt-e-taxar-o-pix"
   ],
   "lacunas": [
-    "Limite de reporte mensal vigente em 2026 não confirmado na fonte primária (IN 2.278 / IN 1.571); checagem independente dos vídeos de jan/2026 não localizada."
+    "Texto literal da IN 1.571/2015 não lido na fonte primária (portal da Receita sem texto; DOU digital não cobre 2015); os limites de R$ 2 mil/R$ 6 mil foram confirmados pelo Comprova (09/09/2025), por escritório tributário e pela remissão expressa da IN 2.278."
   ],
   "atualizado_em": "2026-10-21",
   "changelog": [
     {
       "data": "2026-10-21",
       "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "enriquecimento rodada 2: piso vigente em 2026 confirmado (R$ 2 mil/R$ 6 mil, IN 1.571 repristinada), vídeo de jan/2026 (43 mi views, R$ 5 mil), checagens Comprova/Lupa/Estadão"
     }
   ],
   "exemplo": false

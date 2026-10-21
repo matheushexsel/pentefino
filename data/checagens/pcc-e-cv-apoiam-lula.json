@@ -1,0 +1,200 @@
+{
+  "id": "chk-5013",
+  "slug": "pcc-e-cv-apoiam-lula",
+  "frase": "PCC e Comando Vermelho declararam apoio a Lula.",
+  "frase_normalizada": "pcc e comando vermelho declararam apoio a lula.",
+  "variantes": [
+    "As facções apoiam o PT",
+    "O crime organizado está com Lula",
+    "Facções pediram voto em Lula"
+  ],
+  "autor": {
+    "nome": "Afirmação recorrente no debate eleitoral (sem autor único identificado na nota)",
+    "partido": null,
+    "cargo": null,
+    "nao_verificado": true
+  },
+  "lado": "oposicao-flavio-pl",
+  "alvo": {
+    "nome": "Lula / PT",
+    "partido": "PT"
+  },
+  "data": "2026-10",
+  "onde": "Redes sociais (conteúdo viral na campanha de 2026)",
+  "url_declaracao": null,
+  "temas": [
+    "seguranca",
+    "eleicao-2026"
+  ],
+  "tags": [
+    "pcc",
+    "comando-vermelho",
+    "faccoes",
+    "desinformacao",
+    "aos-fatos",
+    "lula"
+  ],
+  "veredito": "falso",
+  "resumo_uma_frase": "A Aos Fatos (09/10/2026) classificou como falso que PCC e CV tenham declarado apoio a Lula; em 12/10 mostrou que uma foto forjada e um falso elo com facções sustentam a narrativa, enquanto o governo Lula 3 sancionou a Lei Antifacção (Lei 15.358/2026).",
+  "explicacao_simples": [
+    "Conteúdos virais na campanha de 2026 afirmam que o PCC e o Comando Vermelho declararam apoio a Lula; a agência Aos Fatos verificou e classificou a afirmação como falsa em 09/10/2026.",
+    "Em 12/10/2026 a mesma agência publicou explicador mostrando que uma foto forjada e um falso elo com facções retomam a narrativa que associa o PT ao crime organizado.",
+    "No plano dos fatos, o governo Lula 3 propôs e sancionou a Lei Antifacção (Lei 15.358/2026), que cria o crime de domínio social estruturado com pena de 20 a 40 anos; o combate direto às facções (polícias, presídios) é dos governos estaduais."
+  ],
+  "explicacao_completa_md": "## O que foi verificado\n\n- **Aos Fatos, 09/10/2026:** \"É falso que PCC e CV declararam apoio a Lula\" — veredito **Falso**.\n- **Aos Fatos, 12/10/2026:** explicador \"Foto forjada e falso elo com facções retomam narrativa que associa PT ao crime\".\n\nA nota não localizou checagens da Lupa, AFP Checamos, UOL Confere, Estadão Verifica ou G1 Fato ou Fake sobre o tema (sites bloqueados para consulta); o Comprova não tinha itens na página inicial em 21/10/2026.\n\n## O que os fatos mostram sobre governo e facções\n\n- O governo federal (Lula 3) anunciou o PL Antifacção em 31/10/2025, dias após a Operação Contenção (28/10/2025), e sancionou a **Lei 15.358, de 24/03/2026** (\"Lei Raul Jungmann\"): crime de domínio social estruturado (20 a 40 anos, aumento de 2/3 ao dobro em casos agravados), facção definida como 3 ou mais pessoas, vedação de anistia, graça, fiança e livramento, até 85% da pena em regime fechado, lideranças em presídios federais. Relator na Câmara: Guilherme Derrite (PP-SP), da oposição; aprovada por 370–110.\n- O FBSP descreve 2025 como ano de \"expansão territorial de facções criminosas\", um problema que atravessa governos e cuja repressão direta (polícias, presídios) é estadual.\n- A Operação Contenção contra o Comando Vermelho (122 mortos) foi do governo estadual do RJ (PL).\n\n## Veredito\n\nFalso, conforme a verificação da Aos Fatos. Não há declaração de apoio das facções a Lula; o material que circula inclui foto forjada.",
+  "o_que_e_verdade": [
+    "Facções criminosas se expandiram territorialmente em 2025, segundo o FBSP — fato que não equivale a apoio político a qualquer candidato.",
+    "A Lei Antifacção (15.358/2026) foi construída com participação de governo e oposição."
+  ],
+  "o_que_nao_se_sustenta": [
+    "Que PCC e Comando Vermelho tenham declarado apoio a Lula: falso segundo a Aos Fatos (09/10/2026).",
+    "A foto usada para sustentar a narrativa: forjada, segundo a Aos Fatos (12/10/2026)."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Autores e disseminadores do conteúdo",
+      "papel": "Criação e viralização de material falso",
+      "peso": "alto"
+    },
+    {
+      "ator": "Governos estaduais",
+      "papel": "Combate direto às facções (polícias e presídios)",
+      "peso": "alto"
+    },
+    {
+      "ator": "Governo federal e Congresso",
+      "papel": "Legislação penal (Lei 15.358/2026), PF, presídios federais",
+      "peso": "medio"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Pena do crime de domínio social estruturado (mínimo)",
+      "valor": 20,
+      "unidade": "anos de reclusão",
+      "periodo": "2026",
+      "fonte": {
+        "nome": "Planalto — Lei 15.358, de 24/03/2026 (Lei Antifacção), texto integral",
+        "url": "https://www.planalto.gov.br/ccivil_03/_Ato2023-2026/2026/Lei/L15358.htm",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "máximo sem agravante",
+        "valor": 40
+      }
+    },
+    {
+      "rotulo": "Votação do PL Antifacção na Câmara (favoráveis)",
+      "valor": 370,
+      "unidade": "votos",
+      "periodo": "nov/2025",
+      "fonte": {
+        "nome": "SBT News — Câmara aprova PL Antifacção",
+        "url": "https://sbtnews.sbt.com.br/noticia/politica/camara-aprova-pl-antifaccao-e-texto-vai-a-sancao-do-presidente-lula",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "contrários",
+        "valor": 110
+      }
+    },
+    {
+      "rotulo": "Mortos na Operação Contenção (governo do RJ)",
+      "valor": 122,
+      "unidade": "pessoas",
+      "periodo": "2025-10-28",
+      "fonte": {
+        "nome": "Wikipédia pt — Operação Contenção (compilação com fontes)",
+        "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Conten%C3%A7%C3%A3o",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    }
+  ],
+  "series": [
+    "mortes-violentas-intencionais",
+    "letalidade-policial"
+  ],
+  "checagens_externas": [
+    {
+      "veiculo": "Aos Fatos",
+      "veredito_original": "Falso",
+      "url": "https://aosfatos.org/noticias/pcc-comando-vermelho-apoio-lula-falso/",
+      "data": "2026-10-09"
+    },
+    {
+      "veiculo": "Aos Fatos (explicador)",
+      "veredito_original": "Foto forjada e falso elo com facções",
+      "url": "https://aosfatos.org/noticias/foto-forjada-e-falso-elo-com-faccoes-retomam-narrativa-que-associa-pt-ao-crime/",
+      "data": "2026-10-12"
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Aos Fatos, 09/10/2026 — É falso que PCC e CV declararam apoio a Lula",
+      "url": "https://aosfatos.org/noticias/pcc-comando-vermelho-apoio-lula-falso/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Aos Fatos, 12/10/2026 — Foto forjada e falso elo com facções retomam narrativa que associa PT ao crime",
+      "url": "https://aosfatos.org/noticias/foto-forjada-e-falso-elo-com-faccoes-retomam-narrativa-que-associa-pt-ao-crime/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Planalto — Lei 15.358, de 24/03/2026 (Lei Antifacção), texto integral",
+      "url": "https://www.planalto.gov.br/ccivil_03/_Ato2023-2026/2026/Lei/L15358.htm",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Agência Senado, 25/03/2026 — Lei Antifacção entra em vigor",
+      "url": "https://www12.senado.leg.br/noticias/materias/2026/03/25/lei-antifaccao-de-combate-ao-crime-organizado-entra-em-vigor",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "SBT News — Câmara aprova PL Antifacção",
+      "url": "https://sbtnews.sbt.com.br/noticia/politica/camara-aprova-pl-antifaccao-e-texto-vai-a-sancao-do-presidente-lula",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Anuário Brasileiro de Segurança Pública 2026 (FBSP)",
+      "url": "https://static.poder360.com.br/uploads/2026/07/anuario-seguranca-publica-23jul26.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    },
+    {
+      "nome": "Wikipédia pt — Operação Contenção (compilação com fontes)",
+      "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Conten%C3%A7%C3%A3o",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/07_saude_seguranca_educacao_infra_ambiente.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "Algum partido é 'o partido do crime'?",
+      "resposta": "A nota não traz evidência de vínculo institucional de facções com partidos. A Lei Antifacção teve relator da oposição (Derrite, PP-SP) e sanção do governo (Lula, PT); a repressão direta é feita por governos estaduais de diferentes partidos."
+    }
+  ],
+  "relacionadas": [
+    "violencia-explodiu-no-governo-lula",
+    "operacao-contencao-rj-122-mortos"
+  ],
+  "lacunas": [
+    "Autor original e alcance do conteúdo viral não constam da nota; outras agências de checagem não acessadas."
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false
+}

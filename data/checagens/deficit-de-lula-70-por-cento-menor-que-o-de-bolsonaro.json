@@ -180,6 +180,70 @@
         "rotulo": "Lula 3 (dez/2022 a ago/2026)",
         "valor": 11.2
       }
+    },
+    {
+      "rotulo": "Resultado primário do governo central em 2020, critério BCB",
+      "valor": -745.3,
+      "unidade": "R$ bilhões",
+      "periodo": "2020",
+      "fonte": {
+        "nome": "Banco Central do Brasil – SGS 4639 (resultado primário do governo central, R$ milhões, critério BCB)",
+        "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.4639/dados?formato=json&dataInicial=01/01/2002",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "2022",
+        "valor": 54.9
+      }
+    },
+    {
+      "rotulo": "Resultado primário do governo central em 2023, critério BCB",
+      "valor": -264.5,
+      "unidade": "R$ bilhões",
+      "periodo": "2023",
+      "fonte": {
+        "nome": "Banco Central do Brasil – SGS 4639 (resultado primário do governo central, R$ milhões, critério BCB)",
+        "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.4639/dados?formato=json&dataInicial=01/01/2002",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "2025",
+        "valor": -58.7
+      }
+    },
+    {
+      "rotulo": "Déficit primário do governo central jan-ago/2026, critério BCB",
+      "valor": -97.1,
+      "unidade": "R$ bilhões",
+      "periodo": "jan-ago/2026",
+      "fonte": {
+        "nome": "Banco Central do Brasil – SGS 4639 (resultado primário do governo central, R$ milhões, critério BCB)",
+        "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.4639/dados?formato=json&dataInicial=01/01/2002",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "jan-ago/2025",
+        "valor": -84.6
+      }
+    },
+    {
+      "rotulo": "Superávit primário consolidado em 2003 (via Lupa)",
+      "valor": 4.32,
+      "unidade": "% do PIB",
+      "periodo": "2003",
+      "fonte": {
+        "nome": "Lupa – Após confirmação do 2º turno, Lula erra sobre superávit e Flávio sobre reeleição e endividamento (04/10/2026)",
+        "url": "https://www.agencialupa.org/checagem/2026/10/04/apos-confirmacao-do-2o-turno-lula-erra-sobre-superavit-e-flavio-sobre-reeleicao-e-endividamento/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": {
+        "rotulo": "2010",
+        "valor": 2.78
+      }
     }
   ],
   "series": [
@@ -194,6 +258,12 @@
       "veredito_original": "FALSO para 'peguei déficit de 2,8%' (Lula), frase correlata",
       "url": "https://www.agencialupa.org/checagem/2026/10/15/ao-vivo-checagem-da-entrevista-de-lula-na-tv-globo/",
       "data": "2026-10-15"
+    },
+    {
+      "veiculo": "Lupa",
+      "veredito_original": "VERDADEIRO para 'superávit primário nos 8 anos do meu governo' (Lula): superávits de 2003 (R$ 60,9 bi, 4,32% do PIB) a 2010 (R$ 101,7 bi, 2,78%)",
+      "url": "https://www.agencialupa.org/checagem/2026/10/04/apos-confirmacao-do-2o-turno-lula-erra-sobre-superavit-e-flavio-sobre-reeleicao-e-endividamento/",
+      "data": "2026-10-04"
     }
   ],
   "fontes": [
@@ -220,6 +290,18 @@
       "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2025-01/banco-central-setor-publico-registra-deficit-de-04-do-pib-em-2024",
       "acesso_em": "2026-10-21",
       "tier": "imprensa"
+    },
+    {
+      "nome": "Banco Central do Brasil – SGS 4639 (resultado primário do governo central, R$ milhões, critério BCB)",
+      "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.4639/dados?formato=json&dataInicial=01/01/2002",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Lupa – Após confirmação do 2º turno, Lula erra sobre superávit e Flávio sobre reeleição e endividamento (04/10/2026)",
+      "url": "https://www.agencialupa.org/checagem/2026/10/04/apos-confirmacao-do-2o-turno-lula-erra-sobre-superavit-e-flavio-sobre-reeleicao-e-endividamento/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/02_contas_publicas_divida.md",
@@ -241,7 +323,8 @@
     "peguei-deficit-de-2-8-do-pib",
     "meta-fiscal-foi-cumprida",
     "divida-publica-de-11-trilhoes",
-    "bolsonaro-deu-600-reais-do-auxilio"
+    "bolsonaro-deu-600-reais-do-auxilio",
+    "superavit-primario-nos-8-anos-de-lula"
   ],
   "lacunas": [
     "A Fazenda não detalhou o cálculo dos '70%'; a nota apenas reproduz a aritmética das somas e observa que o resultado depende do fechamento de 2026. O valor 'cerca de −R$ 84 bilhões' para 2019+2021+2022 é soma dos três anos da planilha do Tesouro."
@@ -251,6 +334,10 @@
     {
       "data": "2026-10-21",
       "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "enriquecimento rodada 2: séries do BCB (critério abaixo da linha) por ano, Lupa 04/10"
     }
   ],
   "exemplo": false

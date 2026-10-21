@@ -1,0 +1,228 @@
+{
+  "id": "chk-1054",
+  "slug": "superavit-primario-nos-8-anos-de-lula",
+  "frase": "Tivemos superávit primário nos oito anos do meu governo",
+  "frase_normalizada": "O setor público teve superávit primário em todos os anos de 2003 a 2010",
+  "variantes": [
+    "Fiz superávit todos os anos",
+    "Nos meus oito anos as contas fecharam no azul"
+  ],
+  "autor": {
+    "nome": "Luiz Inácio Lula da Silva",
+    "partido": "PT",
+    "cargo": "presidente da República e candidato à reeleição"
+  },
+  "lado": "governo-lula-pt",
+  "alvo": null,
+  "data": "2026-10-04",
+  "onde": "Discurso após a confirmação do 2º turno (04/10/2026)",
+  "url_declaracao": "https://www.agencialupa.org/checagem/2026/10/04/apos-confirmacao-do-2o-turno-lula-erra-sobre-superavit-e-flavio-sobre-reeleicao-e-endividamento/",
+  "temas": [
+    "contas-publicas",
+    "eleicao-2026"
+  ],
+  "tags": [
+    "superavit-primario",
+    "lula-1-2",
+    "ldo"
+  ],
+  "veredito": "verdadeiro",
+  "resumo_uma_frase": "O setor público consolidado teve superávit primário em todos os anos de 2003 a 2010 — de 4,32% do PIB (R$ 60,9 bilhões) em 2003 a 2,78% (R$ 101,7 bilhões) em 2010, pela Lupa; 3,24% a 2,62% na série do BCB —, com metas de 4,25% a 3,1% do PIB nas LDOs e ajudado pelo ciclo de commodities.",
+  "explicacao_simples": [
+    "De 2003 a 2010 as contas públicas fecharam com superávit primário em todos os anos, de R$ 60,9 bilhões em 2003 a R$ 101,7 bilhões em 2010, segundo a Lupa.",
+    "Na série do Banco Central, o superávit do setor público ficou entre 3,74% do PIB em 2005 e 1,94% em 2009, ano da crise global.",
+    "As metas das leis orçamentárias eram de 4,25% do PIB até 2007 e caíram para 3,1% em 2010, com abatimentos para investimentos do PAC."
+  ],
+  "explicacao_completa_md": "## Os dados\n\n- Lupa (04/10/2026): superávits de 2003 (R$ 60,9 bilhões, 4,32% do PIB) a 2010 (R$ 101,7 bilhões, 2,78%) — VERDADEIRO.\n- BCB (SGS 5793, setor público consolidado, % do PIB): 2003 3,24 | 2004 3,69 | 2005 3,74 | 2006 3,15 | 2007 3,24 | 2008 3,33 | 2009 1,94 | 2010 2,62. Em R$ (BCB, fluxos): 2003 +55,6 bi; 2008 +103,6 bi; 2009 +64,8 bi; 2010 +101,7 bi.\n- Metas das LDOs: 4,25% do PIB (2003-2007), 3,80% (2008-2009, reduzida a 2,50% em 2009), 3,30%/3,10% (2010), com abatimentos do PPI/PAC crescentes (R$ 3 bi em 2006; R$ 29,8 bi em 2010).\n\n## Contexto\n\nA receita de 2010 foi inflada pela capitalização da Petrobras (receita líquida do governo central de 20,21% do PIB, recuando a 18,86% em 2011); o período coincidiu com o ciclo de commodities. A Lupa classificou como FALSO a frase complementar de que o Brasil foi 'o único país do G20 com superávit' no período (a Argentina também teve). O governo central (Tesouro) teve superávit em 11 anos seguidos (2003-2013).",
+  "o_que_e_verdade": [
+    "Houve superávit primário do setor público em todos os anos de 2003 a 2010 (BCB: entre 1,94% e 3,74% do PIB).",
+    "O governo central teve superávit de 2003 a 2013, onze anos seguidos; o primeiro déficit da série foi em 2014."
+  ],
+  "o_que_nao_se_sustenta": [
+    "A frase complementar 'único país do G20 com superávit' é falsa (Lupa): a Argentina também teve superávit no período.",
+    "Parte do resultado veio do ciclo de commodities e, em 2010, da capitalização da Petrobras; as metas foram reduzidas em 2009-2010 com abatimentos do PAC."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Governo Lula 1-2 (Fazenda e Tesouro)",
+      "papel": "cumpriu metas de superávit de 4,25% a 3,1% do PIB",
+      "peso": "alto"
+    },
+    {
+      "ator": "Ciclo de commodities e crescimento de 4,1% ao ano",
+      "papel": "ampliou a arrecadação",
+      "peso": "alto"
+    },
+    {
+      "ator": "Congresso (LDOs 2003-2010)",
+      "papel": "fixou as metas e os abatimentos do PAC",
+      "peso": "medio"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Superávit primário do setor público em 2003 (via Lupa)",
+      "valor": 60.9,
+      "unidade": "R$ bilhões",
+      "periodo": "2003",
+      "fonte": {
+        "nome": "Lupa – Após confirmação do 2º turno, Lula erra sobre superávit e Flávio sobre reeleição e endividamento (04/10/2026)",
+        "url": "https://www.agencialupa.org/checagem/2026/10/04/apos-confirmacao-do-2o-turno-lula-erra-sobre-superavit-e-flavio-sobre-reeleicao-e-endividamento/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": {
+        "rotulo": "% do PIB (Lupa)",
+        "valor": 4.32
+      }
+    },
+    {
+      "rotulo": "Superávit primário do setor público em 2010 (via Lupa)",
+      "valor": 101.7,
+      "unidade": "R$ bilhões",
+      "periodo": "2010",
+      "fonte": {
+        "nome": "Lupa – Após confirmação do 2º turno, Lula erra sobre superávit e Flávio sobre reeleição e endividamento (04/10/2026)",
+        "url": "https://www.agencialupa.org/checagem/2026/10/04/apos-confirmacao-do-2o-turno-lula-erra-sobre-superavit-e-flavio-sobre-reeleicao-e-endividamento/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": {
+        "rotulo": "% do PIB (Lupa)",
+        "valor": 2.78
+      }
+    },
+    {
+      "rotulo": "Resultado primário do setor público consolidado (BCB)",
+      "valor": 3.74,
+      "unidade": "% do PIB",
+      "periodo": "2005 (máximo do período)",
+      "fonte": {
+        "nome": "Banco Central do Brasil – SGS 5793 (resultado primário do setor público, 12 meses, % PIB)",
+        "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.5793/dados?formato=json",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "2009 (mínimo do período)",
+        "valor": 1.94
+      }
+    },
+    {
+      "rotulo": "Resultado primário do setor público consolidado (BCB)",
+      "valor": 2.62,
+      "unidade": "% do PIB",
+      "periodo": "2010",
+      "fonte": {
+        "nome": "Banco Central do Brasil – SGS 5793 (resultado primário do setor público, 12 meses, % PIB)",
+        "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.5793/dados?formato=json",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "2014 (1º déficit da série)",
+        "valor": -0.56
+      }
+    },
+    {
+      "rotulo": "Meta de superávit primário das LDOs 2003-2007",
+      "valor": 4.25,
+      "unidade": "% do PIB",
+      "periodo": "2003-2007",
+      "fonte": {
+        "nome": "Planalto – Lei 11.439/2006 (LDO 2007), art. 2º",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11439.htm",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "Meta de 2010 após a Lei 12.377/2010",
+        "valor": 3.1
+      }
+    },
+    {
+      "rotulo": "Receita líquida do governo central em 2010 (capitalização da Petrobras)",
+      "valor": 20.21,
+      "unidade": "% do PIB",
+      "periodo": "2010",
+      "fonte": {
+        "nome": "Tesouro Nacional – Série Histórica RTN (planilha jul/2026)",
+        "url": "https://www.tesourotransparente.gov.br/ckan/dataset/ab56485b-9c40-4efb-8563-9ce3e1973c4b/resource/527ccdb1-3059-42f3-bf23-b5e3ab4c6dc6/download/seriehistoricajul26.xlsx",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "2011",
+        "valor": 18.86
+      }
+    }
+  ],
+  "series": [
+    "resultado-primario-pib",
+    "resultado-primario-governo-central-pib",
+    "divida-liquida-pib"
+  ],
+  "checagens_externas": [
+    {
+      "veiculo": "Lupa",
+      "veredito_original": "VERDADEIRO ('superávit primário nos 8 anos'); FALSO ('único país do G20 com superávit 2003-2010')",
+      "url": "https://www.agencialupa.org/checagem/2026/10/04/apos-confirmacao-do-2o-turno-lula-erra-sobre-superavit-e-flavio-sobre-reeleicao-e-endividamento/",
+      "data": "2026-10-04"
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Lupa – Após confirmação do 2º turno, Lula erra sobre superávit e Flávio sobre reeleição e endividamento (04/10/2026)",
+      "url": "https://www.agencialupa.org/checagem/2026/10/04/apos-confirmacao-do-2o-turno-lula-erra-sobre-superavit-e-flavio-sobre-reeleicao-e-endividamento/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Banco Central do Brasil – SGS 5793 (resultado primário do setor público, 12 meses, % PIB)",
+      "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.5793/dados?formato=json",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Planalto – Lei 11.439/2006 (LDO 2007), art. 2º",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11439.htm",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Tesouro Nacional – Série Histórica RTN (planilha jul/2026)",
+      "url": "https://www.tesourotransparente.gov.br/ckan/dataset/ab56485b-9c40-4efb-8563-9ce3e1973c4b/resource/527ccdb1-3059-42f3-bf23-b5e3ab4c6dc6/download/seriehistoricajul26.xlsx",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/02_contas_publicas_divida.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "O que é superávit primário?",
+      "resposta": "Receitas menos despesas sem contar juros. Mesmo com superávit primário o Brasil teve déficit nominal (com juros) em todos os anos de 2003-2010, entre 1,99% (2008) e 5,18% (2003) do PIB."
+    },
+    {
+      "pergunta": "As metas foram sempre cumpridas?",
+      "resposta": "As LDOs previam 4,25% do PIB até 2007 e 3,80% em 2008-2009; em 2009 a meta foi reduzida a 2,50% e em 2010 a 3,10%, com abatimentos do PAC de até R$ 29,8 bilhões."
+    },
+    {
+      "pergunta": "Quando acabaram os superávits?",
+      "resposta": "O setor público consolidado teve o primeiro déficit da série em 2014 (−0,56% do PIB); voltou a superávit em 2021-2022 e a déficit de 2023 a 2026."
+    }
+  ],
+  "relacionadas": [
+    "deficit-de-lula-70-por-cento-menor-que-o-de-bolsonaro",
+    "primeiro-presidente-com-dois-graus-de-investimento",
+    "lula-pagou-o-fmi-e-deixou-reservas",
+    "unico-pais-do-g20-com-superavit-primario"
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false
+}

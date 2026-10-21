@@ -1,0 +1,234 @@
+{
+  "id": "chk-1058",
+  "slug": "orcamento-de-2027-com-superavit-de-0-1",
+  "frase": "Apresentamos um orçamento com superávit de 0,1%",
+  "frase_normalizada": "O PLOA 2027 prevê superávit primário de 0,1% do PIB",
+  "variantes": [
+    "Nosso orçamento de 2027 tem superávit"
+  ],
+  "autor": {
+    "nome": "Luiz Inácio Lula da Silva",
+    "partido": "PT",
+    "cargo": "presidente da República e candidato à reeleição"
+  },
+  "lado": "governo-lula-pt",
+  "alvo": null,
+  "data": "2026-10-18",
+  "onde": "Debate da Band (18/10/2026)",
+  "url_declaracao": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+  "temas": [
+    "contas-publicas",
+    "eleicao-2026"
+  ],
+  "tags": [
+    "ploa-2027",
+    "superavit-primario",
+    "ifi",
+    "deducoes"
+  ],
+  "veredito": "verdadeiro-mas",
+  "resumo_uma_frase": "O PLOA 2027 projeta superávit primário efetivo de R$ 18,6 bilhões (0,13% do PIB) e R$ 83,4 bilhões após deduções de R$ 64,7 bilhões — a Lupa classificou como verdadeiro —, mas a IFI projeta déficit efetivo de R$ 86,1 bilhões (−0,6% do PIB) com as mesmas regras, por premissas de PIB, inflação e massa salarial mais conservadoras, e R$ 42 bilhões da receita dependem de um Imposto Seletivo cujo projeto nem foi enviado.",
+  "explicacao_simples": [
+    "O projeto de orçamento de 2027 enviado pelo governo prevê superávit primário de R$ 18,6 bilhões, ou 0,13% do PIB, e R$ 83,4 bilhões no cálculo da meta, que exclui R$ 64,7 bilhões de precatórios e outras despesas.",
+    "A Lupa confirmou o número, mas a Instituição Fiscal Independente projeta déficit de R$ 86,1 bilhões com as mesmas regras, porque usa PIB de 1,8% em vez de 2,5% e inflação de 4% em vez de 3,6%.",
+    "A diferença total de R$ 104,8 bilhões inclui R$ 42 bilhões de um Imposto Seletivo cujas alíquotas ainda não foram enviadas ao Congresso."
+  ],
+  "explicacao_completa_md": "## O que o PLOA 2027 diz\n\nSuperávit primário efetivo de R$ 18,6 bilhões (0,1% do PIB; 0,13% pela Lupa) e R$ 83,4 bilhões após deduções de R$ 64,7 bilhões (R$ 59,2 bilhões de precatórios e RPVs excedentes; R$ 5,0 bilhões de defesa; R$ 0,6 bilhão do Fundo Social). Meta da LDO 2027: superávit de 0,5% do PIB (R$ 73,2 bilhões; piso de R$ 36,6 bilhões). A Lupa classificou a frase como VERDADEIRO.\n\n## O que a IFI diz (RAF 116, set/2026)\n\nDéficit efetivo de R$ 86,1 bilhões (−0,6% do PIB) e superávit apurado de só R$ 0,9 bilhão, abaixo do piso de R$ 36,6 bilhões — contingenciamento necessário de R$ 35,7 bilhões. Divergência de R$ 104,8 bilhões por premissas: PIB 2,5% (governo) x 1,8% (IFI) x 1,5% (Focus); IPCA 3,6% x 4,0% x 4,3%; massa salarial +10,1% x +7,3%; receita condicionada de R$ 42 bilhões do Imposto Seletivo 'cujo projeto sequer foi enviado'; CBS de R$ 636,8 bilhões (4,3% do PIB) como receita condicionada.\n\n## Histórico\n\nAs previsões iniciais de 2024 e 2025 também apontavam cumprimento, e os anos fecharam com déficits efetivos de R$ 42,9-47,6 bilhões e R$ 61,6-61,7 bilhões (Lupa: FALTA CONTEXTO para 'primeira vez com resultado positivo'). O reajuste do Bolsa Família de out/2026 (R$ 22,7 bilhões ao ano) não estava no PLOA 2027.",
+  "o_que_e_verdade": [
+    "O PLOA 2027 prevê superávit primário efetivo de R$ 18,6 bilhões (0,13% do PIB) e R$ 83,4 bilhões após deduções (Lupa: VERDADEIRO)."
+  ],
+  "o_que_nao_se_sustenta": [
+    "A IFI projeta déficit efetivo de R$ 86,1 bilhões (−0,6% do PIB) para 2027 com premissas mais conservadoras; a divergência é de R$ 104,8 bilhões.",
+    "R$ 42 bilhões da receita dependem do Imposto Seletivo, sem projeto de alíquotas enviado até out/2026; o reajuste do Bolsa Família (R$ 22,7 bilhões ao ano) não estava no projeto.",
+    "Projetos de 2024 e 2025 também previam cumprimento e fecharam em déficit efetivo."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Executivo (Fazenda e Planejamento)",
+      "papel": "elaborou o PLOA 2027 com as premissas de PIB e inflação",
+      "peso": "alto"
+    },
+    {
+      "ator": "Congresso Nacional",
+      "papel": "aprova o orçamento e as alíquotas do Imposto Seletivo",
+      "peso": "alto"
+    },
+    {
+      "ator": "IFI (Senado)",
+      "papel": "avaliação independente com premissas distintas",
+      "peso": "medio"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Superávit primário efetivo projetado no PLOA 2027",
+      "valor": 18.6,
+      "unidade": "R$ bilhões",
+      "periodo": "2027",
+      "fonte": {
+        "nome": "IFI – Relatório de Acompanhamento Fiscal nº 116 (set/2026)",
+        "url": "https://www12.senado.leg.br/ifi/pdf/raf116_set2026.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "% do PIB (Lupa)",
+        "valor": 0.13
+      }
+    },
+    {
+      "rotulo": "Resultado para a meta após deduções (PLOA 2027)",
+      "valor": 83.4,
+      "unidade": "R$ bilhões",
+      "periodo": "2027",
+      "fonte": {
+        "nome": "IFI – Relatório de Acompanhamento Fiscal nº 116 (set/2026)",
+        "url": "https://www12.senado.leg.br/ifi/pdf/raf116_set2026.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "Deduções previstas",
+        "valor": 64.7
+      }
+    },
+    {
+      "rotulo": "Meta da LDO 2027 (superávit)",
+      "valor": 73.2,
+      "unidade": "R$ bilhões",
+      "periodo": "2027",
+      "fonte": {
+        "nome": "IFI – Relatório de Acompanhamento Fiscal nº 116 (set/2026)",
+        "url": "https://www12.senado.leg.br/ifi/pdf/raf116_set2026.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "Piso da banda",
+        "valor": 36.6
+      }
+    },
+    {
+      "rotulo": "Déficit primário efetivo projetado pela IFI",
+      "valor": -86.1,
+      "unidade": "R$ bilhões",
+      "periodo": "2027",
+      "fonte": {
+        "nome": "IFI – Relatório de Acompanhamento Fiscal nº 116 (set/2026)",
+        "url": "https://www12.senado.leg.br/ifi/pdf/raf116_set2026.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "% do PIB",
+        "valor": -0.6
+      }
+    },
+    {
+      "rotulo": "Divergência total entre PLOA e IFI",
+      "valor": 104.8,
+      "unidade": "R$ bilhões",
+      "periodo": "2027",
+      "fonte": {
+        "nome": "IFI – Relatório de Acompanhamento Fiscal nº 116 (set/2026)",
+        "url": "https://www12.senado.leg.br/ifi/pdf/raf116_set2026.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "Receita condicionada do Imposto Seletivo",
+        "valor": 42.0
+      }
+    },
+    {
+      "rotulo": "PIB de 2027 assumido pelo governo",
+      "valor": 2.5,
+      "unidade": "%",
+      "periodo": "PLOA 2027",
+      "fonte": {
+        "nome": "IFI – Relatório de Acompanhamento Fiscal nº 116 (set/2026)",
+        "url": "https://www12.senado.leg.br/ifi/pdf/raf116_set2026.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "IFI",
+        "valor": 1.8
+      }
+    },
+    {
+      "rotulo": "Custo anual do reajuste do Bolsa Família não previsto no PLOA 2027",
+      "valor": 22.7,
+      "unidade": "R$ bilhões",
+      "periodo": "2027",
+      "fonte": {
+        "nome": "Gazeta do Povo – Governo Lula eleva valor do Bolsa Família às vésperas do segundo turno (out/2026)",
+        "url": "https://www.gazetadopovo.com.br/economia/governo-lula-eleva-valor-do-bolsa-familia-as-vesperas-do-segundo-turno/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": null
+    }
+  ],
+  "series": [
+    "resultado-primario-governo-central-pib",
+    "resultado-primario-pib"
+  ],
+  "checagens_externas": [
+    {
+      "veiculo": "Lupa",
+      "veredito_original": "VERDADEIRO ('orçamento com superávit de 0,1%'); FALTA CONTEXTO ('primeira vez com resultado positivo')",
+      "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+      "data": "2026-10-18"
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "IFI – Relatório de Acompanhamento Fiscal nº 116 (set/2026)",
+      "url": "https://www12.senado.leg.br/ifi/pdf/raf116_set2026.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Gazeta do Povo – Governo Lula eleva valor do Bolsa Família às vésperas do segundo turno (out/2026)",
+      "url": "https://www.gazetadopovo.com.br/economia/governo-lula-eleva-valor-do-bolsa-familia-as-vesperas-do-segundo-turno/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Congresso em Foco – Com alíquotas indefinidas, Fazenda mantém Imposto Seletivo para 2027 (set/2026)",
+      "url": "https://www.congressoemfoco.com.br/noticia/119267/com-aliquotas-indefinidas-fazenda-mantem-imposto-seletivo-para-2027",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/02_contas_publicas_divida.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "Qual é a meta de 2027?",
+      "resposta": "Superávit de 0,5% do PIB (R$ 73,2 bilhões), com piso de R$ 36,6 bilhões; o PLOA chega a R$ 83,4 bilhões só após deduzir R$ 64,7 bilhões, sobretudo precatórios."
+    },
+    {
+      "pergunta": "Por que a IFI discorda?",
+      "resposta": "Usa PIB de 1,8% (governo: 2,5%), IPCA de 4,0% (3,6%) e massa salarial de +7,3% (+10,1%), e não conta os R$ 42 bilhões do Imposto Seletivo sem projeto."
+    },
+    {
+      "pergunta": "Os orçamentos anteriores acertaram?",
+      "resposta": "Não: 2024 e 2025 previam cumprimento e fecharam com déficits efetivos de R$ 42,9 bilhões e R$ 61,7 bilhões, cumprindo a meta só após deduções."
+    }
+  ],
+  "relacionadas": [
+    "meta-fiscal-foi-cumprida",
+    "iva-de-30-por-cento",
+    "bolsa-familia-reajustado-uma-semana-antes-do-segundo-turno",
+    "divida-publica-de-11-trilhoes"
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false
+}

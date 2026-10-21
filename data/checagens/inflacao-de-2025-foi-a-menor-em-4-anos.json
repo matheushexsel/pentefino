@@ -32,13 +32,13 @@
     "O número está correto, mas em 2025 a inflação ficou acima do teto da meta por dez meses seguidos, o que configurou descumprimento formal da meta contínua.",
     "A inflação dos mais pobres foi ainda menor em 2025, de 3,81%, graças à queda dos preços dos alimentos."
   ],
-  "explicacao_completa_md": "## Os números\n\nIPCA (dez/dez): 2020 4,52% | 2021 10,06% | 2022 5,79% | 2023 4,62% | 2024 4,83% | 2025 4,26%. A Lupa classificou como VERDADEIRO.\n\n## Contexto\n\n- Pela meta contínua (Decreto 12.079/2024), vale o IPCA em 12 meses mês a mês: em 2025 ele ficou acima do teto de 4,5% de janeiro a outubro (10 meses), configurando descumprimento formal em jun/2025, mesmo com dezembro dentro do intervalo.\n- Em 2026 o IPCA em 12 meses estava em 4,58% em setembro (acima do teto) e o Focus projeta 5,22% para dezembro.\n- Por faixa de renda (Ipea), a inflação de 2025 foi de 3,81% para a renda muito baixa e 4,72% para a renda alta, inversão do padrão de 2024 (4,91% contra 4,43%), graças à deflação de alimentos.\n- Comparação internacional (FMI, média anual): Brasil 5,0% em 2025 contra 4,1% do mundo.",
+  "explicacao_completa_md": "## Os números\n\nIPCA (dez/dez): 2020 4,52% | 2021 10,06% | 2022 5,79% | 2023 4,62% | 2024 4,83% | 2025 4,26%. A Lupa classificou como VERDADEIRO.\n\n## Contexto\n\n- Pela meta contínua (Decreto 12.079/2024), vale o IPCA em 12 meses mês a mês: em 2025 ele ficou acima do teto de 4,5% de janeiro a outubro (10 meses), configurando descumprimento formal em jun/2025 (IPCA de 5,35% em 12 meses), formalizado em carta aberta de 10/07/2025, mesmo com dezembro dentro do intervalo.\n- Em 2026 o IPCA em 12 meses estava em 4,58% em setembro (acima do teto) e o Focus projeta 5,22% para dezembro.\n- Por faixa de renda (Ipea), a inflação de 2025 foi de 3,81% para a renda muito baixa e 4,72% para a renda alta, inversão do padrão de 2024 (4,91% contra 4,43%), graças à deflação de alimentos.\n- Comparação internacional (FMI, média anual): Brasil 5,0% em 2025 contra 4,1% do mundo.",
   "o_que_e_verdade": [
     "O IPCA de 2025 (4,26%) foi o menor desde 2020 e abaixo de todos os anos de 2021 a 2024.",
     "Para as famílias de renda muito baixa, a inflação de 2025 foi de 3,81% (Ipea)."
   ],
   "o_que_nao_se_sustenta": [
-    "2025 foi um ano de meta formalmente descumprida: o IPCA em 12 meses ficou acima de 4,5% de janeiro a outubro.",
+    "2025 foi um ano de meta formalmente descumprida: o IPCA em 12 meses ficou acima de 4,5% de janeiro a outubro, e o BC formalizou o descumprimento em carta aberta ao Ministro da Fazenda em 10/07/2025.",
     "A inflação brasileira em 2025 (5,0% na média anual do FMI) superou a média mundial (4,1%).",
     "Em 2026 o IPCA voltou a ficar acima do teto (4,58% em setembro; Focus de 5,22% para dezembro)."
   ],
@@ -171,6 +171,54 @@
         "rotulo": "Mundo",
         "valor": 4.1
       }
+    },
+    {
+      "rotulo": "IPCA em 12 meses no 6º mês consecutivo fora do intervalo",
+      "valor": 5.35,
+      "unidade": "%",
+      "periodo": "jun/2025",
+      "fonte": {
+        "nome": "BCB – Relatório de Política Monetária, setembro/2025 (nota sobre o descumprimento da meta)",
+        "url": "https://www.bcb.gov.br/content/ri/relatorioinflacao/202509/rpm202509p.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "Teto",
+        "valor": 4.5
+      }
+    },
+    {
+      "rotulo": "Projeção do Copom para o IPCA de 2026 (cenário de referência, ata 281)",
+      "valor": 5.2,
+      "unidade": "%",
+      "periodo": "set/2026",
+      "fonte": {
+        "nome": "BCB – Ata da 281ª reunião do Copom (16/09/2026)",
+        "url": "https://www.bcb.gov.br/publicacoes/atascopom/16092026",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "2027",
+        "valor": 3.9
+      }
+    },
+    {
+      "rotulo": "Alta da alimentação no domicílio (IPCA)",
+      "valor": 1.43,
+      "unidade": "%",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "IBGE – SIDRA tabela 7060 (IPCA por grupo e subgrupo, 2020-2026)",
+        "url": "https://apisidra.ibge.gov.br/values/t/7060/n1/all/v/69,2265/p/202012,202112,202212,202312,202412,202512,202609/c315/7169,7170,7171?formato=json",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "2024",
+        "valor": 8.23
+      }
     }
   ],
   "series": [
@@ -216,6 +264,30 @@
       "url": "https://olinda.bcb.gov.br/olinda/servico/Expectativas/versao/v1/odata/ExpectativasMercadoAnuais?%24filter=Indicador%20eq%20'IPCA'%20and%20DataReferencia%20eq%20'2026'&%24orderby=Data%20desc&%24top=3&%24format=json",
       "acesso_em": "2026-10-21",
       "tier": "oficial"
+    },
+    {
+      "nome": "BCB – Relatório de Política Monetária, setembro/2025 (nota sobre o descumprimento da meta)",
+      "url": "https://www.bcb.gov.br/content/ri/relatorioinflacao/202509/rpm202509p.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "BCB – Ata da 281ª reunião do Copom (16/09/2026)",
+      "url": "https://www.bcb.gov.br/publicacoes/atascopom/16092026",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "IBGE – SIDRA tabela 7060 (IPCA por grupo e subgrupo, 2020-2026)",
+      "url": "https://apisidra.ibge.gov.br/values/t/7060/n1/all/v/69,2265/p/202012,202112,202212,202312,202412,202512,202609/c315/7169,7170,7171?formato=json",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "BCB – Histórico de metas para a inflação (conteúdo oficial via API do site)",
+      "url": "https://www.bcb.gov.br/api/paginasite/sitebcb/controleinflacao/historicometas",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/01_macroeconomia_por_governo.md",
@@ -243,6 +315,10 @@
     {
       "data": "2026-10-21",
       "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "enriquecimento rodada 2: carta aberta de 10/07/2025 (RPM set/2025), projeção do Copom, alimentação no domicílio"
     }
   ],
   "exemplo": false

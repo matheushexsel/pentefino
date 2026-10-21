@@ -36,7 +36,7 @@
     "Houve de fato medidas em ano eleitoral, como o reajuste de 15% do Bolsa Família, o fim da taxa das blusinhas, o perdão de dívidas de 3,6 milhões de MEIs e o Pix MEI.",
     "Em 2022 o governo Bolsonaro também aprovou a PEC Kamikaze, com cerca de R$ 41 bilhões fora das regras fiscais em ano eleitoral."
   ],
-  "explicacao_completa_md": "## A origem do número\n\nO Gastômetro (Estadão) contabiliza R$ 354 bilhões em medidas de 2026, incluindo R$ 55 bilhões de renúncias e R$ 34 bilhões fora do orçamento. A Lupa classificou 'R$ 350 bi para se reeleger' como EXAGERADO, por tratar renúncias e itens extraorçamentários como gasto.\n\n## Medidas documentadas de 2026\n\n- Reajuste de 15,04% do Bolsa Família: R$ 5,8 bilhões em 2026 e R$ 22,7 bilhões em 2027, pago a partir de 19/10/2026.\n- Fim da 'taxa das blusinhas' (MP 1.357/2026; lei sancionada em 10/09/2026, '24 dias da eleição').\n- Perdão de dívidas de MEI (PLC 186/2026, 16/10/2026): 3,6 milhões de empreendedores, R$ 12,6 bilhões.\n- Prospera MEI/'Pix MEI' (repasses de até R$ 5 mil), criticado por Flávio como 'compra de votos'.\n- Novo Desenrola (MP 1.355/2026) e aprovação da PEC do fim da 6x1 no Senado (14/10/2026).\n\n## Simetria\n\nEm 2022: EC 123 ('PEC Kamikaze', R$ 41,2 bilhões fora das regras fiscais), Auxílio Brasil de R$ 600, cortes de IPI e PIS/Cofins de combustíveis e teto de ICMS (LC 194/2022), com renúncia estimada entre R$ 35 e R$ 64,8 bilhões.",
+  "explicacao_completa_md": "## A origem do número\n\nO Gastômetro (Estadão) contabiliza R$ 354 bilhões em medidas de 2026, incluindo R$ 55 bilhões de renúncias e R$ 34 bilhões fora do orçamento. A Lupa classificou 'R$ 350 bi para se reeleger' como EXAGERADO, por tratar renúncias e itens extraorçamentários como gasto.\n\n## Medidas documentadas de 2026\n\n- Reajuste de 15,04% do Bolsa Família: R$ 5,8 bilhões em 2026 e R$ 22,7 bilhões em 2027, pago a partir de 19/10/2026.\n- Fim da 'taxa das blusinhas' (MP 1.357/2026; Lei 15.502/2026, sancionada em 10/09/2026, '24 dias da eleição').\n- Perdão de dívidas de MEI (PLC 186/2026, 16/10/2026): 3,6 milhões de empreendedores, R$ 12,6 bilhões.\n- Prospera MEI/'Pix MEI' (repasses de até R$ 5 mil), criticado por Flávio como 'compra de votos'.\n- Novo Desenrola (MP 1.355/2026) e aprovação da PEC do fim da 6x1 no Senado (14/10/2026).\n\n## Simetria\n\nEm 2022: EC 123 ('PEC Kamikaze', R$ 41,2 bilhões fora das regras fiscais), Auxílio Brasil de R$ 600, cortes de IPI e PIS/Cofins de combustíveis e teto de ICMS (LC 194/2022), com renúncia estimada entre R$ 35 e R$ 64,8 bilhões.",
   "o_que_e_verdade": [
     "O Gastômetro do Estadão soma R$ 354 bilhões em medidas de 2026.",
     "O governo adotou medidas de impacto eleitoral em 2026: reajuste do Bolsa Família, fim da taxa das blusinhas, perdão de dívidas de MEI, Pix MEI e Novo Desenrola.",
@@ -154,6 +154,22 @@
         "tier": "imprensa"
       },
       "comparacao": null
+    },
+    {
+      "rotulo": "Despesas de deslocamento de toda a estrutura federal (Portal da Transparência, via Lupa)",
+      "valor": 7.14,
+      "unidade": "R$ bilhões",
+      "periodo": "2023-2025",
+      "fonte": {
+        "nome": "Lupa – Checagem ao vivo do debate Lula x Flávio Bolsonaro na Band (18/10/2026)",
+        "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": {
+        "rotulo": "2026",
+        "valor": 1.31
+      }
     }
   ],
   "series": [
@@ -166,6 +182,12 @@
       "veredito_original": "EXAGERADO",
       "url": "https://www.agencialupa.org/checagem/2026/10/16/ao-vivo-checagem-da-entrevista-de-flavio-bolsonaro-na-globo/",
       "data": "2026-10-16"
+    },
+    {
+      "veiculo": "Lupa",
+      "veredito_original": "FALSO para 'R$ 7 bilhões que você gastou em viagens com a Janja' (Flávio): valor é o de deslocamentos de toda a estrutura federal em 2023-2025",
+      "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+      "data": "2026-10-18"
     }
   ],
   "fontes": [
@@ -231,13 +253,18 @@
     "bolsa-familia-reajustado-uma-semana-antes-do-segundo-turno",
     "taxa-das-blusinhas",
     "perdao-de-dividas-para-3-6-milhoes-de-meis",
-    "meta-fiscal-foi-cumprida"
+    "meta-fiscal-foi-cumprida",
+    "7-bilhoes-em-viagens-com-a-janja"
   ],
   "atualizado_em": "2026-10-21",
   "changelog": [
     {
       "data": "2026-10-21",
       "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "enriquecimento rodada 2: Lei 15.502/2026, Lupa 18/10 (viagens)"
     }
   ],
   "exemplo": false

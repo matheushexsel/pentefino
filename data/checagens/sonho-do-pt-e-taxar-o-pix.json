@@ -38,7 +38,7 @@
     "Tributar movimentação financeira exigiria emenda constitucional, como a extinta CPMF, e nenhum dos dois candidatos propõe isso.",
     "A única proposta recente de imposto sobre transações digitais, inclusive Pix, foi do ministro Paulo Guedes, do governo Bolsonaro, em 2020, e não avançou."
   ],
-  "explicacao_completa_md": "## O que existe nos registros\n\n- Programa de governo de Lula 2026: nenhuma menção a tributar Pix; promete 'justiça tributária' (IR mínimo para altas rendas, cesta básica isenta, cashback).\n- MP 1.288/2025 (governo Lula): reafirmou gratuidade, sigilo e não tributação do Pix; caducou em 02/06/2025 sem votação pelo Congresso.\n- Receita Federal: a Constituição 'proíbe a tributação de movimentações financeiras'; um tributo desse tipo exigiria nova emenda (a CPMF vigorou de 1997 a 2007 por emenda).\n- Governo Bolsonaro (2020): Paulo Guedes defendeu um 'imposto sobre transações digitais' nos moldes da CPMF, alíquota de ~0,2%, inclusive sobre Pix; a ideia foi rejeitada (PoderData: 48% contra, 29% a favor).\n- Plano de Flávio: 'Pix sem taxa'; nada sobre Pix no documento do TSE além da promessa de 'defender o Pix' diante da investigação da Seção 301 dos EUA.\n\n## Avaliação\n\nTrata-se de atribuição de intenção futura sem evidência documental — não é verificável nem falseável por dados, por isso 'insustentável'. Em sentido inverso, a nota também não localizou checagem da suposta peça do PT dizendo que Flávio taxaria o Pix em 25%.",
+  "explicacao_completa_md": "## O que existe nos registros\n\n- Programa de governo de Lula 2026: nenhuma menção a tributar Pix; promete 'justiça tributária' (IR mínimo para altas rendas, cesta básica isenta, cashback).\n- MP 1.288/2025 (governo Lula), art. 3º: 'Não incide tributo, seja imposto, taxa ou contribuição, no uso do Pix'; caducou em 02/06/2025 sem votação pelo Congresso.\n- Receita Federal: a Constituição 'proíbe a tributação de movimentações financeiras'; um tributo desse tipo exigiria nova emenda (a CPMF vigorou de 1997 a 2007 por emenda).\n- Governo Bolsonaro (2020): Paulo Guedes defendeu um 'imposto sobre transações digitais' nos moldes da CPMF, alíquota de ~0,2%, inclusive sobre Pix; a ideia foi rejeitada (PoderData: 48% contra, 29% a favor).\n- Plano de Flávio: 'Pix sem taxa'; nada sobre Pix no documento do TSE além da promessa de 'defender o Pix' diante da investigação da Seção 301 dos EUA.\n\n## Avaliação\n\nTrata-se de atribuição de intenção futura sem evidência documental — não é verificável nem falseável por dados, por isso 'insustentável'. Em sentido inverso, a nota também não localizou checagem da suposta peça do PT dizendo que Flávio taxaria o Pix em 25%.",
   "o_que_e_verdade": [
     "Houve, em 2024-2025, ampliação do monitoramento agregado de movimentações por fintechs (IN 2.219, revogada; IN 2.278, em vigor), o que alimentou a desconfiança."
   ],
@@ -95,8 +95,8 @@
       "unidade": "ano",
       "periodo": "02/06/2025",
       "fonte": {
-        "nome": "Congresso Nacional – tramitação da MPV 1288/2025",
-        "url": "https://www.congressonacional.leg.br/materias/medidas-provisorias/-/mpv/166983/pdf",
+        "nome": "Planalto – MP 1.288/2025 (Pix: não incidência de tributo, vigência encerrada)",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/Mpv/mpv1288.htm",
         "acesso_em": "2026-10-21",
         "tier": "oficial"
       },
@@ -117,7 +117,14 @@
     }
   ],
   "series": [],
-  "checagens_externas": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Comprova",
+      "veredito_original": "'Plano de governo de Lula não propõe medidas como nova CPMF, tributação do PIX e congelamento da poupança' (2022)",
+      "url": "https://projetocomprova.com.br/?s=pix",
+      "data": "2022-01-01"
+    }
+  ],
   "fontes": [
     {
       "nome": "Poder360 – Paulo Guedes diz que não desistiu do imposto sobre transações digitais (2020)",
@@ -172,6 +179,12 @@
       "url": "https://planodegoverno2026.com.br/candidatos/presidente/flavio-bolsonaro/",
       "acesso_em": "2026-10-21",
       "tier": "partidario"
+    },
+    {
+      "nome": "Planalto – MP 1.288/2025 (Pix: não incidência de tributo, vigência encerrada)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/Mpv/mpv1288.htm",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/12_pix_fake_news_e_impostos_quem_paga.md",
@@ -195,13 +208,17 @@
     "taxa-das-blusinhas"
   ],
   "lacunas": [
-    "Não localizada checagem independente da suposta peça do PT sobre Flávio e o Pix; detalhes do 'Vira Pix' atribuído a Flávio não confirmados."
+    "Não localizada checagem independente da suposta peça do PT sobre Flávio e o Pix; detalhes do 'Vira Pix' atribuído a Flávio não confirmados; a data exata da checagem do Comprova de 2022 não consta da listagem de busca (registrada como 2022-01-01 por convenção)."
   ],
   "atualizado_em": "2026-10-21",
   "changelog": [
     {
       "data": "2026-10-21",
       "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "enriquecimento rodada 2: texto do art. 3º da MP 1.288 (Planalto), Comprova 2022 sobre o plano de governo"
     }
   ],
   "exemplo": false

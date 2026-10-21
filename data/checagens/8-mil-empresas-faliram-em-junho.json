@@ -1,0 +1,223 @@
+{
+  "id": "chk-1049",
+  "slug": "8-mil-empresas-faliram-em-junho",
+  "frase": "8.000 empresas faliram no Brasil em junho",
+  "frase_normalizada": "Oito mil empresas faliram no Brasil em junho de 2026",
+  "variantes": [
+    "Oito mil falências em um mês",
+    "Empresas estão falindo aos milhares"
+  ],
+  "autor": {
+    "nome": "Márcio Bittar",
+    "partido": "PL",
+    "cargo": "senador (AC); compartilhou o post"
+  },
+  "lado": "oposicao-flavio-pl",
+  "alvo": {
+    "nome": "Governo Lula 3 (2023-2026)",
+    "partido": "PT"
+  },
+  "data": "2026-08-01",
+  "onde": "Post em redes sociais compartilhado pelo senador Márcio Bittar (PL-AC), checado em 24/08/2026",
+  "url_declaracao": "https://www.aosfatos.org/noticias/8000-empresas-faliram-brasil-junho/",
+  "temas": [
+    "economia",
+    "eleicao-2026"
+  ],
+  "tags": [
+    "falencias",
+    "serasa",
+    "desinformacao"
+  ],
+  "veredito": "falso",
+  "resumo_uma_frase": "A Serasa Experian registrou 58 pedidos de falência em abril de 2026 e 224 processos de falência (234 CNPJs) em janeiro-abril; não há base para 8.000 falências em um mês — o número real de falências decretadas foi de 734 em todo o ano de 2025, contra o recorde de 1.828 em 2015.",
+  "explicacao_simples": [
+    "A Serasa contou 58 pedidos de falência em abril de 2026 e 224 processos de falência entre janeiro e abril, dezenas de vezes menos que os 8 mil alegados para junho.",
+    "Em todo o ano de 2025 foram 734 falências decretadas, abaixo das 862 de 2024 e longe do recorde de 1.828 em 2015.",
+    "O que bate recorde é a inadimplência de empresas, com 9,1 milhões de CNPJs negativados em junho de 2026, e as recuperações judiciais, com 602 CNPJs de janeiro a abril."
+  ],
+  "explicacao_completa_md": "## O que o Aos Fatos verificou (24/08/2026)\n\n- Serasa Experian: 58 pedidos de falência em abr/2026; 224 processos de falência (234 CNPJs) em jan-abr/2026; 602 CNPJs em recuperação judicial em jan-abr/2026; 9,1 milhões de CNPJs inadimplentes em jun/2026 (recorde da série).\n- Classificação: FALSO.\n\n## Série de falências decretadas (Serasa, via Aos Fatos 16/10/2026)\n\n2015: 1.828 (recorde) | 2024: 862 | 2025: 734 | até mai/2026: 277. Em outra checagem (20/10/2026), o Aos Fatos cita 484 falências decretadas em jan-mai/2026 (+36% sobre 2025) — recortes distintos da mesma fonte.\n\n## Contexto\n\nO estresse real está no crédito caro (Selic de 15% em 2025; juro real de ~9,5%): recuperações judiciais recordes em 2025 (5.680 empresas, Estadão Verifica) e inadimplência de pessoas jurídicas em máxima. O saldo de empresas abertas menos fechadas foi positivo em cerca de 2,2 milhões em 2025.",
+  "o_que_e_verdade": [
+    "Os CNPJs inadimplentes chegaram a 9,1 milhões em jun/2026, recorde da série da Serasa, e as recuperações judiciais estão em alta (602 CNPJs em jan-abr/2026)."
+  ],
+  "o_que_nao_se_sustenta": [
+    "Não houve 8.000 falências em junho de 2026: foram 58 pedidos em abril e 224 processos em janeiro-abril, segundo a Serasa.",
+    "O recorde anual de falências decretadas é de 2015 (1.828); 2025 teve 734, menos que 2024 (862)."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Autores e difusores do post (inclusive o senador Márcio Bittar)",
+      "papel": "divulgaram número sem base",
+      "peso": "alto"
+    },
+    {
+      "ator": "Copom / Banco Central (Selic de 15%)",
+      "papel": "custo do crédito pressiona empresas endividadas",
+      "peso": "medio"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Pedidos de falência (Serasa Experian)",
+      "valor": 58,
+      "unidade": "pedidos",
+      "periodo": "abr/2026",
+      "fonte": {
+        "nome": "Aos Fatos – É falso que 8.000 empresas faliram no Brasil em junho (24/08/2026)",
+        "url": "https://www.aosfatos.org/noticias/8000-empresas-faliram-brasil-junho/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": {
+        "rotulo": "Alegado no post para junho",
+        "valor": 8000
+      }
+    },
+    {
+      "rotulo": "Processos de falência (Serasa Experian)",
+      "valor": 224,
+      "unidade": "processos (234 CNPJs)",
+      "periodo": "jan-abr/2026",
+      "fonte": {
+        "nome": "Aos Fatos – É falso que 8.000 empresas faliram no Brasil em junho (24/08/2026)",
+        "url": "https://www.aosfatos.org/noticias/8000-empresas-faliram-brasil-junho/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "CNPJs em recuperação judicial (Serasa Experian)",
+      "valor": 602,
+      "unidade": "CNPJs",
+      "periodo": "jan-abr/2026",
+      "fonte": {
+        "nome": "Aos Fatos – É falso que 8.000 empresas faliram no Brasil em junho (24/08/2026)",
+        "url": "https://www.aosfatos.org/noticias/8000-empresas-faliram-brasil-junho/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "CNPJs inadimplentes (Serasa Experian)",
+      "valor": 9.1,
+      "unidade": "milhões",
+      "periodo": "jun/2026 (recorde)",
+      "fonte": {
+        "nome": "Aos Fatos – É falso que 8.000 empresas faliram no Brasil em junho (24/08/2026)",
+        "url": "https://www.aosfatos.org/noticias/8000-empresas-faliram-brasil-junho/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Falências decretadas (Serasa Experian)",
+      "valor": 734,
+      "unidade": "falências",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Aos Fatos – Checamos a entrevista de Flávio Bolsonaro à Globo no segundo turno (16/10/2026)",
+        "url": "https://www.aosfatos.org/noticias/checamos-flavio-bolsonaro-globo-segundo-turno/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": {
+        "rotulo": "2015 (recorde)",
+        "valor": 1828
+      }
+    },
+    {
+      "rotulo": "Falências decretadas (Serasa Experian)",
+      "valor": 862,
+      "unidade": "falências",
+      "periodo": "2024",
+      "fonte": {
+        "nome": "Aos Fatos – Checamos a entrevista de Flávio Bolsonaro à Globo no segundo turno (16/10/2026)",
+        "url": "https://www.aosfatos.org/noticias/checamos-flavio-bolsonaro-globo-segundo-turno/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": {
+        "rotulo": "jan-mai/2026",
+        "valor": 277
+      }
+    }
+  ],
+  "series": [
+    "selic-fim-de-ano",
+    "inadimplencia-pf"
+  ],
+  "checagens_externas": [
+    {
+      "veiculo": "Aos Fatos",
+      "veredito_original": "FALSO",
+      "url": "https://www.aosfatos.org/noticias/8000-empresas-faliram-brasil-junho/",
+      "data": "2026-08-24"
+    },
+    {
+      "veiculo": "Aos Fatos",
+      "veredito_original": "FALSO para 'recorde de empresas fechadas' (Flávio Bolsonaro, Globo)",
+      "url": "https://www.aosfatos.org/noticias/checamos-flavio-bolsonaro-globo-segundo-turno/",
+      "data": "2026-10-16"
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Aos Fatos – É falso que 8.000 empresas faliram no Brasil em junho (24/08/2026)",
+      "url": "https://www.aosfatos.org/noticias/8000-empresas-faliram-brasil-junho/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Aos Fatos – Checamos a entrevista de Flávio Bolsonaro à Globo no segundo turno (16/10/2026)",
+      "url": "https://www.aosfatos.org/noticias/checamos-flavio-bolsonaro-globo-segundo-turno/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Aos Fatos – Flávio Bolsonaro mente sobre recorde de falências (20/10/2026)",
+      "url": "https://www.aosfatos.org/noticias/flavio-bolsonaro-mente-recorde-falencias-empresas/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Estadão Verifica – Checamos o debate entre Lula e Flávio na Band (18/10/2026)",
+      "url": "https://www.estadao.com.br/estadao-verifica/checamos-o-debate-entre-lula-e-flavio-na-band/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/01_macroeconomia_por_governo.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "Quantas empresas faliram em 2025?",
+      "resposta": "734 falências decretadas, segundo a Serasa Experian (via Aos Fatos), abaixo das 862 de 2024 e do recorde de 1.828 em 2015."
+    },
+    {
+      "pergunta": "Então as empresas não estão em dificuldade?",
+      "resposta": "Estão, mas o indicador é outro: 9,1 milhões de CNPJs inadimplentes em jun/2026 (recorde) e recuperações judiciais em alta, reflexo do crédito caro."
+    },
+    {
+      "pergunta": "Qual a diferença entre pedido de falência e falência decretada?",
+      "resposta": "O pedido é o início do processo; a decretação é a decisão judicial de liquidar a empresa. A Serasa publica as duas contagens, por isso os números divergem entre reportagens."
+    }
+  ],
+  "relacionadas": [
+    "recorde-de-falencias",
+    "esta-todo-mundo-quebrando",
+    "2-8-milhoes-de-cnpjs-fechados"
+  ],
+  "lacunas": [
+    "Data exata da publicação do post não consta da nota (registrada como 2026-08-01 por convenção; checagem de 24/08/2026). As checagens do Aos Fatos de 16/10 (277 até maio) e 20/10 (484 em jan-mai) usam recortes diferentes da Serasa."
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false
+}

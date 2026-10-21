@@ -38,12 +38,14 @@
   "o_que_e_verdade": [
     "No critério legal (deduções e banda), a meta de 2025 foi cumprida: déficit apurado de R$ 13 bilhões contra piso de R$ 31 bilhões.",
     "O déficit de 2025 (0,48% do PIB) é muito menor que os de 2015-2016 (2,0% a 2,6%) ou de 2023 (2,09%).",
-    "O governo central teve superávit de Tesouro e BC de R$ 255,5 bilhões; o déficit vem da Previdência (R$ 317,2 bilhões)."
+    "O governo central teve superávit de Tesouro e BC de R$ 255,5 bilhões; o déficit vem da Previdência (R$ 317,2 bilhões).",
+    "A LDO 2025 (Lei 15.080/2024) fixa meta zero com tolerância de R$ 30,97 bilhões; a LDO 2026 (Lei 15.321/2025) fixa superávit de R$ 34,26 bilhões com limite inferior zero."
   ],
   "o_que_nao_se_sustenta": [
     "No critério efetivo (sem deduções), nenhuma meta de 2024 ou 2025 foi atingida: déficits de R$ 42,9 bilhões e R$ 61,7 bilhões.",
     "O déficit de 2025 foi 32,3% maior em termos reais que o de 2024, e o déficit em 12 meses voltou a piorar em 2026 (0,62% do PIB em agosto).",
-    "A dívida bruta continuou subindo (78,64% em dez/2025; 82,87% em ago/2026), porque o esforço primário é muito inferior aos juros (7,91% do PIB em 2025)."
+    "A dívida bruta continuou subindo (78,64% em dez/2025; 82,87% em ago/2026), porque o esforço primário é muito inferior aos juros (7,91% do PIB em 2025).",
+    "Em 2024 a meta também só foi cumprida com deduções (déficit de R$ 46,3 bilhões antes dos abatimentos, R$ 14,5 bilhões depois, segundo a IFI), ajudada por R$ 29,1 bilhões de dividendos de estatais em nov-dez/2024 e pela antecipação de R$ 32,2 bilhões de precatórios em dez/2023."
   ],
   "quem_e_responsavel": [
     {
@@ -205,6 +207,86 @@
         "rotulo": "2022",
         "valor": 1.25
       }
+    },
+    {
+      "rotulo": "Meta de resultado primário da LDO 2025 (Lei 15.080/2024)",
+      "valor": 0,
+      "unidade": "R$",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Planalto – Lei 15.080/2024 (LDO 2025)",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/L15080.htm",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "Banda de tolerância (R$ bilhões)",
+        "valor": 30.97
+      }
+    },
+    {
+      "rotulo": "Meta de superávit da LDO 2026 (Lei 15.321/2025)",
+      "valor": 34.26,
+      "unidade": "R$ bilhões",
+      "periodo": "2026",
+      "fonte": {
+        "nome": "Planalto – Lei 15.321/2025 (LDO 2026)",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/lei/L15321.htm",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "Limite inferior (R$)",
+        "valor": 0
+      }
+    },
+    {
+      "rotulo": "Déficit do governo central em 2024 antes das deduções (IFI, RAF 96)",
+      "valor": -46.3,
+      "unidade": "R$ bilhões",
+      "periodo": "2024",
+      "fonte": {
+        "nome": "IFI – Relatório de Acompanhamento Fiscal nº 96 (jan/2025)",
+        "url": "https://www12.senado.leg.br/ifi/pdf/raf96_jan2025.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "Resultado para a meta após deduções",
+        "valor": -14.5
+      }
+    },
+    {
+      "rotulo": "Precatórios federais pagos em 2023 (critério SIOP, IFI)",
+      "valor": 151.0,
+      "unidade": "R$ bilhões",
+      "periodo": "2023",
+      "fonte": {
+        "nome": "IFI – Relatório de Acompanhamento Fiscal nº 116 (set/2026)",
+        "url": "https://www12.senado.leg.br/ifi/pdf/raf116_set2026.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "% do PIB",
+        "valor": 1.38
+      }
+    },
+    {
+      "rotulo": "Despesas obrigatórias como parcela do limite de despesas (IFI)",
+      "valor": 90.8,
+      "unidade": "%",
+      "periodo": "2026",
+      "fonte": {
+        "nome": "IFI – Relatório de Acompanhamento Fiscal nº 116 (set/2026)",
+        "url": "https://www12.senado.leg.br/ifi/pdf/raf116_set2026.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "2027",
+        "valor": 89.4
+      }
     }
   ],
   "series": [
@@ -217,6 +299,12 @@
     {
       "veiculo": "Lupa",
       "veredito_original": "FALTA CONTEXTO para a frase de Lula 'primeira vez com resultado positivo' (déficits de R$ 47,6 bi em 2024 e R$ 61,6 bi em 2025)",
+      "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+      "data": "2026-10-18"
+    },
+    {
+      "veiculo": "Lupa",
+      "veredito_original": "VERDADEIRO para 'apresentamos um orçamento com superávit de 0,1%' (PLOA 2027: R$ 18,6 bi, 0,13% do PIB); FALSO para 'ficou um déficit de 2,8%'",
       "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
       "data": "2026-10-18"
     }
@@ -287,6 +375,24 @@
       "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
       "acesso_em": "2026-10-21",
       "tier": "checagem"
+    },
+    {
+      "nome": "Planalto – Lei 15.080/2024 (LDO 2025)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/L15080.htm",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Planalto – Lei 15.321/2025 (LDO 2026)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/lei/L15321.htm",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "IFI – Relatório de Acompanhamento Fiscal nº 96 (jan/2025)",
+      "url": "https://www12.senado.leg.br/ifi/pdf/raf96_jan2025.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/02_contas_publicas_divida.md",
@@ -314,11 +420,18 @@
     "peguei-deficit-de-2-8-do-pib",
     "lula-quebrou-o-brasil"
   ],
+  "lacunas": [
+    "Valor exato das deduções da meta de 2024 (calamidade do RS etc.) não obtido do Tesouro (HTTP 429); R$ 31,8 bilhões é cálculo da nota por diferença a partir da IFI (RAF 96)."
+  ],
   "atualizado_em": "2026-10-21",
   "changelog": [
     {
       "data": "2026-10-21",
       "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "enriquecimento rodada 2: metas das LDOs 2025 e 2026 no texto legal, deduções de 2024 (IFI RAF 96), precatórios SIOP, rigidez do limite, Lupa 18/10"
     }
   ],
   "exemplo": false

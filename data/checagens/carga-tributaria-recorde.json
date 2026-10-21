@@ -109,8 +109,8 @@
       "unidade": "% do PIB",
       "periodo": "2010",
       "fonte": {
-        "nome": "Tesouro Nacional – Carga Tributária do Governo Geral 2025 (10/04/2026)",
-        "url": "https://www.tesourotransparente.gov.br/publicacoes/carga-tributaria-do-governo-geral/2025/114",
+        "nome": "Tesouro Nacional – planilha 'Base CTB GG.xlsx' (Carga Tributária do Governo Geral, Tabela 1)",
+        "url": "https://thot-arquivos.tesouro.gov.br/publicacao-anexo/28024",
         "acesso_em": "2026-10-21",
         "tier": "oficial"
       },
@@ -176,6 +176,80 @@
         "tier": "imprensa"
       },
       "comparacao": null
+    },
+    {
+      "rotulo": "Carga tributária em 2022 (série revisada do Tesouro)",
+      "valor": 31.24,
+      "unidade": "% do PIB",
+      "periodo": "2022",
+      "fonte": {
+        "nome": "Tesouro Nacional – planilha 'Base CTB GG.xlsx' (Carga Tributária do Governo Geral, Tabela 1)",
+        "url": "https://thot-arquivos.tesouro.gov.br/publicacao-anexo/28024",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "Valor citado em algumas fontes, inexistente na série do Tesouro",
+        "valor": 33.07
+      }
+    },
+    {
+      "rotulo": "Carga tributária bruta do governo geral",
+      "valor": 4127.2,
+      "unidade": "R$ bilhões",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Tesouro Nacional – planilha 'Base CTB GG.xlsx' (Carga Tributária do Governo Geral, Tabela 1)",
+        "url": "https://thot-arquivos.tesouro.gov.br/publicacao-anexo/28024",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "Variação real sobre 2024 (%)",
+        "valor": 4.3
+      }
+    },
+    {
+      "rotulo": "IOF arrecadado (Tesouro, Tabela 3)",
+      "valor": 86.2,
+      "unidade": "R$ bilhões",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Tesouro Nacional – planilha 'Base CTB GG.xlsx' (Carga Tributária do Governo Geral, Tabela 1)",
+        "url": "https://thot-arquivos.tesouro.gov.br/publicacao-anexo/28024",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "2024",
+        "valor": 67.5
+      }
+    },
+    {
+      "rotulo": "IRRF arrecadado (Tesouro, Tabela 3)",
+      "valor": 637.5,
+      "unidade": "R$ bilhões",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Tesouro Nacional – planilha 'Base CTB GG.xlsx' (Carga Tributária do Governo Geral, Tabela 1)",
+        "url": "https://thot-arquivos.tesouro.gov.br/publicacao-anexo/28024",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Contribuições ao RGPS",
+      "valor": 687.4,
+      "unidade": "R$ bilhões",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Tesouro Nacional – planilha 'Base CTB GG.xlsx' (Carga Tributária do Governo Geral, Tabela 1)",
+        "url": "https://thot-arquivos.tesouro.gov.br/publicacao-anexo/28024",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": null
     }
   ],
   "series": [
@@ -206,6 +280,18 @@
       "url": "https://impostometro.org/artigos/carga-tributaria-brasil/",
       "acesso_em": "2026-10-21",
       "tier": "imprensa"
+    },
+    {
+      "nome": "Tesouro Nacional – planilha 'Base CTB GG.xlsx' (Carga Tributária do Governo Geral, Tabela 1)",
+      "url": "https://thot-arquivos.tesouro.gov.br/publicacao-anexo/28024",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Tesouro Nacional – Boletim Carga Tributária do Governo Geral 2024 (28/03/2025, PDF via Poder360)",
+      "url": "https://static.poder360.com.br/2025/03/boletim-carga-tributaria-pib-tesouro-nacional-28mar2025.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/02_contas_publicas_divida.md",
@@ -234,13 +320,17 @@
     "divida-publica-de-11-trilhoes"
   ],
   "lacunas": [
-    "Valor de 2022 na série revisada citado em algumas fontes (33,07%) não foi confirmado; a nota usa a planilha do Tesouro (31,24%)."
+    "O valor de 33,07% para 2022 citado em algumas fontes não existe na série revisada do Tesouro (confirmado na planilha oficial: 31,24%); o boletim em PDF com o dado de 2025 (32,40%) não pôde ser aberto (HTTP 429), mas a planilha 'Base CTB GG.xlsx' traz 2025 como preliminar."
   ],
   "atualizado_em": "2026-10-21",
   "changelog": [
     {
       "data": "2026-10-21",
       "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "enriquecimento rodada 2: 2022 = 31,24% confirmado na planilha oficial; valores em R$ e componentes de 2025; boletim de mar/2025 com a série revisada"
     }
   ],
   "exemplo": false

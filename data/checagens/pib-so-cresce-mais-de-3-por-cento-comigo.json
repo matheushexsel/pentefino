@@ -1,0 +1,222 @@
+{
+  "id": "chk-1052",
+  "slug": "pib-so-cresce-mais-de-3-por-cento-comigo",
+  "frase": "O Brasil crescia 7,5% e só voltou a crescer mais de 3,5% quando eu retornei",
+  "frase_normalizada": "Depois de 2010 o PIB só voltou a crescer mais de 3,5% ao ano no governo Lula 3",
+  "variantes": [
+    "O país só cresce acima de 3% comigo",
+    "A economia só voltou a crescer quando eu voltei"
+  ],
+  "autor": {
+    "nome": "Luiz Inácio Lula da Silva",
+    "partido": "PT",
+    "cargo": "presidente da República e candidato à reeleição"
+  },
+  "lado": "governo-lula-pt",
+  "alvo": {
+    "nome": "Jair Bolsonaro (governo 2019-2022)",
+    "partido": "PL"
+  },
+  "data": "2026-10-18",
+  "onde": "Debate da Band (18/10/2026)",
+  "url_declaracao": "https://www.estadao.com.br/estadao-verifica/checamos-o-debate-entre-lula-e-flavio-na-band/",
+  "temas": [
+    "economia",
+    "eleicao-2026"
+  ],
+  "tags": [
+    "pib",
+    "crescimento"
+  ],
+  "veredito": "falso",
+  "resumo_uma_frase": "O PIB cresceu 7,53% em 2010 (fato), mas depois disso voltou a crescer mais de 3,5% em 2011 (3,97%, Dilma) e em 2021 (4,76%, Bolsonaro), antes do retorno de Lula; em Lula 3, 2023 (3,24%) e 2024 (3,42%) nem alcançaram 3,5% — a frase foi classificada como enganosa pelo Estadão Verifica.",
+  "explicacao_simples": [
+    "O PIB de fato cresceu 7,5% em 2010, último ano do segundo governo Lula.",
+    "Mas o país voltou a crescer mais de 3,5% em 2011, com Dilma, e em 2021, com Bolsonaro, quando o PIB subiu 4,8% na recuperação da pandemia.",
+    "Nos anos de Lula 3 o crescimento foi de 3,2% em 2023, 3,4% em 2024 e 2,3% em 2025, nenhum deles acima de 3,5%."
+  ],
+  "explicacao_completa_md": "## Os números (IBGE/BCB)\n\n2010: 7,53% | 2011: 3,97% | 2013: 3,00% | 2021: 4,76% | 2022: 3,02% | 2023: 3,24% | 2024: 3,42% | 2025: 2,29%. Médias por governo: Lula 1-2 4,08%; Dilma 0,43%; Temer 1,55%; Bolsonaro 1,43%; Lula 3 2,98% (2023-2025).\n\n## Avaliação\n\nO Estadão Verifica classificou como ENGANOSO: 'o PIB cresceu 4,6% em 2021, no governo de Jair Bolsonaro' (efeito-base da pandemia); a assessoria de Lula respondeu citando a média de ~3% em Lula 3 contra 1,4% em Bolsonaro — comparação de médias que é correta, mas não é o que a frase diz. A Lupa já havia classificado como FALSO versões anteriores ('só cresceu mais de 3% com Lula', abr e out/2026). Em 2026 o ritmo é de 1,9% acumulado em quatro trimestres até o 2T e o Focus projeta 1,83%.",
+  "o_que_e_verdade": [
+    "O PIB cresceu 7,53% em 2010 e a média de crescimento dos governos Lula (4,08% em 2003-2010; 2,98% em 2023-2025) supera as de Dilma, Temer e Bolsonaro."
+  ],
+  "o_que_nao_se_sustenta": [
+    "O PIB cresceu 3,97% em 2011 (Dilma) e 4,76% em 2021 (Bolsonaro), acima de 3,5%, antes do retorno de Lula.",
+    "Em Lula 3 nenhum ano superou 3,5%: 3,24% (2023), 3,42% (2024) e 2,29% (2025)."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Ciclo internacional (commodities, pandemia e recuperação)",
+      "papel": "explica 2010 e 2021",
+      "peso": "alto"
+    },
+    {
+      "ator": "Governo federal (política fiscal e reformas)",
+      "papel": "influência parcial e defasada",
+      "peso": "medio"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "PIB 2010",
+      "valor": 7.53,
+      "unidade": "% ao ano",
+      "periodo": "2010",
+      "fonte": {
+        "nome": "Banco Central do Brasil – SGS 7326 (variação real anual do PIB, origem IBGE)",
+        "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.7326/dados?formato=json",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "PIB 2011",
+      "valor": 3.97,
+      "unidade": "% ao ano",
+      "periodo": "2011",
+      "fonte": {
+        "nome": "Banco Central do Brasil – SGS 7326 (variação real anual do PIB, origem IBGE)",
+        "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.7326/dados?formato=json",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "PIB 2021",
+      "valor": 4.76,
+      "unidade": "% ao ano",
+      "periodo": "2021",
+      "fonte": {
+        "nome": "Banco Central do Brasil – SGS 7326 (variação real anual do PIB, origem IBGE)",
+        "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.7326/dados?formato=json",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "Citado pelo Estadão Verifica",
+        "valor": 4.6
+      }
+    },
+    {
+      "rotulo": "PIB 2024",
+      "valor": 3.42,
+      "unidade": "% ao ano",
+      "periodo": "2024",
+      "fonte": {
+        "nome": "Banco Central do Brasil – SGS 7326 (variação real anual do PIB, origem IBGE)",
+        "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.7326/dados?formato=json",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "2023",
+        "valor": 3.24
+      }
+    },
+    {
+      "rotulo": "PIB 2025",
+      "valor": 2.29,
+      "unidade": "% ao ano",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Banco Central do Brasil – SGS 7326 (variação real anual do PIB, origem IBGE)",
+        "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.7326/dados?formato=json",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "Focus 2026",
+        "valor": 1.83
+      }
+    },
+    {
+      "rotulo": "Média anual Lula 3 (cálculo da nota)",
+      "valor": 2.98,
+      "unidade": "% ao ano",
+      "periodo": "2023-2025",
+      "fonte": {
+        "nome": "Banco Central do Brasil – SGS 7326 (variação real anual do PIB, origem IBGE)",
+        "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.7326/dados?formato=json",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "Bolsonaro 2019-2022",
+        "valor": 1.43
+      }
+    }
+  ],
+  "series": [
+    "pib-anual",
+    "pib-media-por-governo"
+  ],
+  "checagens_externas": [
+    {
+      "veiculo": "Estadão Verifica",
+      "veredito_original": "ENGANOSO (PIB cresceu 4,6% em 2021, no governo Bolsonaro)",
+      "url": "https://www.estadao.com.br/estadao-verifica/checamos-o-debate-entre-lula-e-flavio-na-band/",
+      "data": "2026-10-18"
+    },
+    {
+      "veiculo": "Lupa",
+      "veredito_original": "FALSO para 'economia não cresce mais de 3% desde 2010' (versão anterior da frase)",
+      "url": "https://www.agencialupa.org/checagem/2026/04/14/lula-exagera-ao-falar-de-empregos-e-erra-sobre-preco-de-combustiveis-no-brasil/",
+      "data": "2026-04-14"
+    },
+    {
+      "veiculo": "Aos Fatos",
+      "veredito_original": "Corretos '7ª economia do mundo' e 'crescimento de 7,5%' (2010)",
+      "url": "https://www.aosfatos.org/noticias/checamos-lula-globo-segundo-turno/",
+      "data": "2026-10-15"
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Banco Central do Brasil – SGS 7326 (variação real anual do PIB, origem IBGE)",
+      "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.7326/dados?formato=json",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "BCB – Focus, expectativas de mercado anuais (PIB 2026), 16/10/2026",
+      "url": "https://olinda.bcb.gov.br/olinda/servico/Expectativas/versao/v1/odata/ExpectativasMercadoAnuais?%24filter=Indicador%20eq%20'PIB%20Total'%20and%20DataReferencia%20eq%20'2026'&%24orderby=Data%20desc&%24top=2&%24format=json",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Lupa – Lula exagera ao falar de empregos (14/04/2026)",
+      "url": "https://www.agencialupa.org/checagem/2026/04/14/lula-exagera-ao-falar-de-empregos-e-erra-sobre-preco-de-combustiveis-no-brasil/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/01_macroeconomia_por_governo.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "Por que o PIB cresceu tanto em 2021?",
+      "resposta": "Pela recuperação após a queda de 3,28% em 2020 (pandemia): efeito-base. Em 2022 cresceu 3,02%."
+    },
+    {
+      "pergunta": "Qual a média de Lula 3?",
+      "resposta": "2,98% ao ano em 2023-2025, segunda melhor média desde 2003, mas com desaceleração para 1,9% acumulado em quatro trimestres até o 2T2026."
+    },
+    {
+      "pergunta": "A frase anterior 'mais de 3%' era verdadeira?",
+      "resposta": "Não: a Lupa a classificou como FALSO em abril e outubro de 2026 (3,97% em 2011; 3,00% em 2013; 4,76% em 2021; 3,02% em 2022)."
+    }
+  ],
+  "relacionadas": [
+    "pib-cresce-mais-com-lula",
+    "brasil-era-a-setima-economia-do-mundo",
+    "pib-industrial-cresceu-3-4"
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false
+}

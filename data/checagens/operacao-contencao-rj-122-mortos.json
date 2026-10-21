@@ -39,7 +39,7 @@
     "O balanço oficial inicial falava em 58–64 mortos; a Defensoria contou 132 depois que moradores recolheram cerca de 50 corpos na mata; o número consolidado ficou em 122.",
     "Foi a operação policial mais letal da história, superando Jacarezinho (28 mortos, 2021) e o Carandiru; a decisão foi do governo do estado (Cláudio Castro, PL), que a chamou de 'sucesso'."
   ],
-  "explicacao_completa_md": "## Os números\n\n- Data: 28/10/2025, complexos do Alemão e da Penha, contra o Comando Vermelho.\n- Efetivo: cerca de 2.500 agentes e 32 blindados.\n- Mortos: balanço oficial inicial de 58–64; Defensoria contou 132 após moradores recolherem ~50 corpos na mata; contagem consolidada de 122 mortos, dos quais 5 agentes (Anuário 2026 e compilações).\n- Presos: 123 (113 adultos, 10 adolescentes). Armas: 118–122 (93–96 fuzis). Drogas: mais de 1 tonelada.\n- Comparação: Jacarezinho (2021) teve 28 mortos; a operação superou também o Carandiru.\n\n## Reações e desdobramentos\n\n- Cláudio Castro (PL) chamou a operação de \"sucesso\" e disse que \"de vítima, só tivemos esses 4 policiais\" (a contagem consolidada registra 5 agentes mortos).\n- Lula classificou como \"desastrosa\"/\"matança\"; o ministro Lewandowski disse não ter recebido pedido de GLO; a ONU se declarou \"horrorizada\"; a Defensoria foi barrada das perícias.\n- Em 28/11/2025, 5 PMs do Choque foram presos por furto. Em mar/2026 a CIDH pediu investigação; em abr/2026 a PGR pediu ao STF acesso aos laudos e a PF disse que a PM não entregou imagens de câmeras.\n- Pesquisas: Datafolha, 57% dos cariocas aprovaram; Quaest nacional, 67% aprovaram; a aprovação de Castro subiu ~10 pontos (Quaest).\n- Consequências políticas: \"Consórcio da Paz\" de 7 governadores (30/10/2025), PL Antifacção anunciado pelo governo federal (31/10/2025) e sancionado em 24/03/2026, CPI do Crime Organizado no Senado (04/11/2025).\n\n## Quem responde\n\nA operação é da Polícia do estado do RJ, sob o governador. O governo federal não participou (sem GLO). A letalidade policial em 2025 bateu recorde nacional: 6.602 mortes; no RJ, mortes por policiais foram 20,5% das MVI.\n\n## Veredito\n\nVerdadeiro: 122 mortos na contagem consolidada, a mais letal da história. A frase de Castro de que só houve \"4 policiais\" como vítimas não corresponde à contagem consolidada (5 agentes mortos entre os 122).",
+  "explicacao_completa_md": "## Os números\n\n- Data: 28/10/2025, complexos do Alemão e da Penha, contra o Comando Vermelho.\n- Efetivo: cerca de 2.500 agentes e 32 blindados.\n- Mortos: balanço oficial inicial de 58–64; Defensoria contou 132 após moradores recolherem ~50 corpos na mata; contagem consolidada de 122 mortos, dos quais 5 agentes (Anuário 2026 e compilações).\n- Presos: 123 (113 adultos, 10 adolescentes). Armas: 118–122 (93–96 fuzis). Drogas: mais de 1 tonelada.\n- Comparação: Jacarezinho (2021) teve 28 mortos; a operação superou também o Carandiru.\n\n## Reações e desdobramentos\n\n- Cláudio Castro (PL) chamou a operação de \"sucesso\" e disse que \"de vítima, só tivemos esses 4 policiais\" (a contagem consolidada registra 5 agentes mortos).\n- Lula classificou como \"desastrosa\"/\"matança\"; o ministro Lewandowski disse não ter recebido pedido de GLO; a ONU se declarou \"horrorizada\"; a Defensoria foi barrada das perícias.\n- Em 28/11/2025, 5 PMs do Choque foram presos por furto. Em mar/2026 a CIDH pediu investigação; em abr/2026 a PGR pediu ao STF acesso aos laudos e a PF disse que a PM não entregou imagens de câmeras.\n- Pesquisas: Datafolha, 57% dos cariocas aprovaram; Quaest nacional, 67% aprovaram; a aprovação de Castro subiu ~10 pontos (Quaest).\n- Consequências políticas: \"Consórcio da Paz\" de 7 governadores (30/10/2025), PL Antifacção anunciado pelo governo federal (31/10/2025) e sancionado como Lei 15.358, de 24/03/2026 (\"Lei Raul Jungmann\", DOU de 25/03/2026), CPI do Crime Organizado no Senado (04/11/2025).\n\n## Quem responde\n\nA operação é da Polícia do estado do RJ, sob o governador. O governo federal não participou (sem GLO). A letalidade policial em 2025 bateu recorde nacional: 6.602 mortes (4.240 em 2016); no RJ, mortes por policiais foram 798 (703 em 2024), 20,5% das MVI do estado, que subiram 2,1% (3.809 para 3.890). Policiais mortos no país: 144 (2024) para 139 (2025).\n\n## Veredito\n\nVerdadeiro: 122 mortos na contagem consolidada, a mais letal da história. A frase de Castro de que só houve \"4 policiais\" como vítimas não corresponde à contagem consolidada (5 agentes mortos entre os 122).",
   "o_que_e_verdade": [
     "122 mortos (5 agentes) na contagem consolidada; 123 presos; 118–122 armas, 93–96 fuzis; mais de 1 tonelada de drogas.",
     "Mais letal da história: superou Jacarezinho (28 mortos, 2021) e o Carandiru.",
@@ -170,11 +170,33 @@
         "url": "https://static.poder360.com.br/uploads/2026/07/anuario-seguranca-publica-23jul26.pdf",
         "acesso_em": "2026-10-21",
         "tier": "academico"
+      },
+      "comparacao": {
+        "rotulo": "2016",
+        "valor": 4240
+      }
+    },
+    {
+      "rotulo": "Mortes por intervenção policial no RJ",
+      "valor": 798,
+      "unidade": "mortes",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Anuário Brasileiro de Segurança Pública 2026 (FBSP)",
+        "url": "https://static.poder360.com.br/uploads/2026/07/anuario-seguranca-publica-23jul26.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      "comparacao": {
+        "rotulo": "2024",
+        "valor": 703
       }
     }
   ],
   "series": [
     "letalidade-policial",
+    "mortes-de-policiais",
+    "mvi-por-uf-2025",
     "mortes-violentas-intencionais"
   ],
   "checagens_externas": [],
@@ -204,6 +226,18 @@
       "tier": "academico"
     },
     {
+      "nome": "Planalto — Lei 15.358, de 24/03/2026 (Lei Antifacção), texto integral",
+      "url": "https://www.planalto.gov.br/ccivil_03/_Ato2023-2026/2026/Lei/L15358.htm",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Agência Senado, 25/03/2026 — Lei Antifacção entra em vigor",
+      "url": "https://www12.senado.leg.br/noticias/materias/2026/03/25/lei-antifaccao-de-combate-ao-crime-organizado-entra-em-vigor",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
       "nome": "Congresso em Foco — Lula sanciona PL Antifacção",
       "url": "https://www.congressoemfoco.com.br/noticia/117518/lula-sanciona-texto-do-pl-antifaccao-com-apenas-um-veto",
       "acesso_em": "2026-10-21",
@@ -214,25 +248,30 @@
   "perguntas_frequentes": [
     {
       "pergunta": "O governo federal podia ter impedido?",
-      "resposta": "A operação é de competência do governo estadual. Lewandowski afirmou não ter recebido pedido de GLO; o governo federal reagiu com o PL Antifacção, anunciado em 31/10/2025."
+      "resposta": "A operação é de competência do governo estadual. Lewandowski afirmou não ter recebido pedido de GLO; o governo federal reagiu com o PL Antifacção, anunciado em 31/10/2025 e sancionado como Lei 15.358/2026 em 24/03/2026."
     },
     {
       "pergunta": "A operação reduziu a violência no RJ?",
-      "resposta": "O RJ foi uma das 7 UFs com alta de MVI em 2025 (+2,1%), puxada por mortes por policiais (20,5% das MVI do estado). A nota não traz dados de 2026 para o RJ."
+      "resposta": "O RJ foi uma das 7 UFs com alta de MVI em 2025 (3.809 para 3.890, +2,1%), puxada por mortes por policiais (703 para 798; 20,5% das MVI do estado). A nota não traz dados de 2026 para o RJ."
     }
   ],
   "relacionadas": [
     "violencia-explodiu-no-governo-lula",
-    "homicidios-cairam-no-governo-bolsonaro-e-continuaram-caindo"
+    "homicidios-cairam-no-governo-bolsonaro-e-continuaram-caindo",
+    "pcc-e-cv-apoiam-lula"
   ],
   "lacunas": [
-    "Número da Lei Antifacção e conclusões da CPI do Crime Organizado não constam da nota."
+    "Conclusões da CPI do Crime Organizado não constam da nota; ADI contra a Lei 15.358/2026 mencionada em fonte secundária, não verificada."
   ],
   "atualizado_em": "2026-10-21",
   "changelog": [
     {
       "data": "2026-10-21",
       "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "rodada 2 de enriquecimento: número da Lei Antifacção (15.358/2026), dados do RJ e policiais mortos"
     }
   ],
   "exemplo": false

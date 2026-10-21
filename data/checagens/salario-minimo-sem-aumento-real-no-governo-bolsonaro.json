@@ -1,25 +1,25 @@
 {
   "id": "chk-1016",
   "slug": "salario-minimo-sem-aumento-real-no-governo-bolsonaro",
-  "frase": "No governo Bolsonaro o salário mínimo ficou quatro anos sem aumento real",
-  "frase_normalizada": "Entre 2019 e 2022 o salário mínimo só foi corrigido pela inflação, sem ganho real",
+  "frase": "O governo Bolsonaro não ajustou o salário mínimo acima da inflação em nenhum ano",
+  "frase_normalizada": "Entre 2019 e 2022 o salário mínimo nunca teve aumento real",
   "variantes": [
-    "Bolsonaro acabou com a política de valorização do salário mínimo",
-    "Quatro anos sem aumento real do mínimo"
+    "Quatro anos sem aumento real do mínimo",
+    "Bolsonaro acabou com a política de valorização do salário mínimo"
   ],
   "autor": {
-    "nome": "frase que circula nas redes",
-    "partido": null,
-    "cargo": null
+    "nome": "Luiz Inácio Lula da Silva",
+    "partido": "PT",
+    "cargo": "presidente da República e candidato à reeleição"
   },
-  "lado": "ambos",
+  "lado": "governo-lula-pt",
   "alvo": {
     "nome": "Jair Bolsonaro (governo 2019-2022)",
     "partido": "PL"
   },
-  "data": null,
-  "onde": "Redes sociais, material sindical e falas de campanha de 2026",
-  "url_declaracao": null,
+  "data": "2026-10-18",
+  "onde": "Debate da Band (18/10/2026); frase também circula em material sindical e nas redes",
+  "url_declaracao": "https://www.estadao.com.br/estadao-verifica/checamos-o-debate-entre-lula-e-flavio-na-band/",
   "temas": [
     "emprego-renda",
     "direitos-sociais"
@@ -30,12 +30,12 @@
     "inpc",
     "politica-de-valorizacao"
   ],
-  "veredito": "verdadeiro-mas",
-  "resumo_uma_frase": "O DIEESE registra que de 2019 a 2022 houve 'somente o repasse anual da inflação passada, sem aumento real' e que a lei de valorização deixou de existir após o reajuste de jan/2019; a ressalva é que o reajuste de 2019 (R$ 998) ainda teve ganho real de 1,14% pela regra herdada, e os de 2021-2022 ficaram praticamente iguais ao INPC (+0,01% e +0,02%).",
+  "veredito": "exagerado",
+  "resumo_uma_frase": "Em 2020, 2021 e 2022 os reajustes do mínimo só repuseram a inflação (ganhos reais de 0,39%, 0,01% e 0,02% pelo DIEESE) e a política legal de valorização deixou de existir após jan/2019 — mas o primeiro reajuste do governo Bolsonaro (jan/2019, R$ 998) teve ganho real de 1,14% pela regra herdada, por isso 'em nenhum ano' é exagero (Estadão Verifica: enganoso).",
   "explicacao_simples": [
-    "Depois do reajuste de janeiro de 2019, calculado ainda pela regra da lei de Dilma, não existiu mais política legal de valorização do salário mínimo até 2023, segundo o DIEESE.",
-    "Os reajustes de 2020, 2021 e 2022 apenas repuseram a inflação, com ganhos reais de 0,39%, 0,01% e 0,02%, e o poder de compra em cestas básicas caiu de 2,04 em 2019 para 1,59 em 2022.",
-    "A regra foi retomada em 2023 e, desde a lei do arcabouço, o ganho real fica limitado entre 0,6% e 2,5% ao ano."
+    "Em três dos quatro anos do governo Bolsonaro, de 2020 a 2022, o salário mínimo foi corrigido apenas pela inflação, com ganhos reais de 0,39%, 0,01% e 0,02%, e a política legal de valorização deixou de existir depois de janeiro de 2019.",
+    "O reajuste de janeiro de 2019, para R$ 998, ainda seguiu a regra da lei anterior e teve ganho real de 1,14%, o que torna exagerado dizer que não houve aumento real em nenhum ano.",
+    "O poder de compra em cestas básicas caiu de 2,04 em 2019 para 1,59 em 2022, e a regra de valorização só voltou em 2023, hoje limitada a ganho real de 0,6% a 2,5% ao ano."
   ],
   "explicacao_completa_md": "## Reajustes e ganho real (DIEESE, NT 283)\n\n- jan/2019: R$ 998 (+1,14% real, regra INPC + PIB da Lei 13.152/2015)\n- jan/2020: R$ 1.039 (−0,36%) e fev/2020: R$ 1.045 (+0,39%)\n- jan/2021: R$ 1.100 (+0,01%)\n- jan/2022: R$ 1.212 (+0,02%)\n- jan/2023: R$ 1.302 (+1,41%) e mai/2023: R$ 1.320\n- jan/2024: R$ 1.412 (+4,69%)\n- jan/2025: R$ 1.518 (+2,61%)\n- jan/2026: R$ 1.621 (+2,5%, teto da Lei 15.077/2024)\n\nO DIEESE afirma: 'depois do reajuste de janeiro de 2019, do ponto de vista legal, não existe mais política voltada para o salário mínimo' e, de 2019 a 2022, houve 'somente o repasse anual da inflação passada, sem aumento real'. Fontes sindicais (Brasil de Fato/CUT) registram que a LDO 2022 confirmou o fim da política e que o reajuste de 2021 (5,26%) ficou abaixo do INPC (5,45%).\n\n## Poder de compra\n\nCestas básicas de São Paulo compradas com um mínimo (média anual): 2019 2,04 | 2020 1,88 | 2021 1,68 | 2022 1,59 (mínimo recente) | 2023 1,71 | 2024 1,74 | jan/2025 1,80 | jan/2026 1,93. Os alimentos subiram 44,3% entre 2020 e 2022.\n\n## Simetria\n\nA Lei 15.077/2024, do governo Lula, limitou o ganho real a 2,5%: sem o teto, o mínimo de 2026 seria R$ 1.636, R$ 15 a mais.",
   "o_que_e_verdade": [
@@ -44,7 +44,7 @@
     "A Lei 14.663/2023 retomou a regra (INPC + PIB de dois anos antes) e o mínimo teve ganho real de 4,69% em 2024."
   ],
   "o_que_nao_se_sustenta": [
-    "O reajuste de jan/2019 (primeiro do governo Bolsonaro) teve ganho real de 1,14%, calculado pela lei anterior — portanto não foram exatamente 'quatro anos' sem nenhum ganho.",
+    "O reajuste de jan/2019 (R$ 998) teve ganho real de 1,14%, calculado pela Lei 13.152/2015: houve um ano com aumento acima da inflação, ainda que por regra herdada — por isso o Estadão Verifica classificou a frase como enganosa.",
     "Em 2017 e 2018 (Temer) o mínimo também perdeu valor real (−0,10% e −0,25%); a estagnação não começou em 2019.",
     "O governo Lula limitou o ganho real a 2,5% ao ano pela lei do arcabouço (R$ 15 a menos em 2026)."
   ],
@@ -164,10 +164,10 @@
       "unidade": "R$",
       "periodo": "jan/2026",
       "fonte": {
-        "nome": "DIEESE – Nota Técnica 289, salário mínimo 2026 (22/12/2025)",
-        "url": "https://www.dieese.org.br/notatecnica/2025/notaTec289salarioMinimo.pdf",
+        "nome": "Planalto – Decreto 12.797/2025 (salário mínimo de 2026)",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/decreto/D12797.htm",
         "acesso_em": "2026-10-21",
-        "tier": "academico"
+        "tier": "oficial"
       },
       "comparacao": {
         "rotulo": "Sem o teto de 2,5% do arcabouço",
@@ -199,6 +199,70 @@
         "tier": "academico"
       },
       "comparacao": null
+    },
+    {
+      "rotulo": "Salário mínimo real a preços de set/2026 (Ipeadata)",
+      "valor": 1442,
+      "unidade": "R$",
+      "periodo": "dez/2019",
+      "fonte": {
+        "nome": "Ipeadata – GAC12_SALMINRE12, salário mínimo real (preços de set/2026)",
+        "url": "http://www.ipeadata.gov.br/api/odata4/ValoresSerie(SERCODIGO='GAC12_SALMINRE12')",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "dez/2022",
+        "valor": 1423
+      }
+    },
+    {
+      "rotulo": "Salário mínimo real a preços de set/2026 (Ipeadata)",
+      "valor": 1621,
+      "unidade": "R$",
+      "periodo": "set/2026",
+      "fonte": {
+        "nome": "Ipeadata – GAC12_SALMINRE12, salário mínimo real (preços de set/2026)",
+        "url": "http://www.ipeadata.gov.br/api/odata4/ValoresSerie(SERCODIGO='GAC12_SALMINRE12')",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "dez/2010",
+        "valor": 1218
+      }
+    },
+    {
+      "rotulo": "Salário mínimo em US$ correntes (câmbio médio do ano, cálculo da nota)",
+      "valor": 235,
+      "unidade": "US$",
+      "periodo": "2022",
+      "fonte": {
+        "nome": "DIEESE – Nota Técnica 283, salário mínimo 2025 (jan/2025)",
+        "url": "https://www.dieese.org.br/notatecnica/2025/notaTec283salarioMinimo.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      "comparacao": {
+        "rotulo": "2011 (pico)",
+        "valor": 325
+      }
+    },
+    {
+      "rotulo": "Razão salário mínimo necessário (DIEESE) / salário mínimo",
+      "valor": 5.49,
+      "unidade": "vezes",
+      "periodo": "dez/2022 (pior razão recente)",
+      "fonte": {
+        "nome": "DIEESE – Salário mínimo nominal e necessário (série mensal)",
+        "url": "https://www.dieese.org.br/analisecestabasica/salarioMinimo.html",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      "comparacao": {
+        "rotulo": "set/2026",
+        "valor": 4.78
+      }
     }
   ],
   "series": [
@@ -213,6 +277,18 @@
       "veredito_original": "EXAGERADO para 'o mínimo comprava 1,8 cesta com Bolsonaro e 2,2 hoje' (Lula): 1,62 em ago/2022 e 1,8 em ago/2026",
       "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
       "data": "2026-10-18"
+    },
+    {
+      "veiculo": "Estadão Verifica",
+      "veredito_original": "ENGANOSO (jan/2019: R$ 998, aumento real de 1,14%; sem ganho real nos três anos seguintes)",
+      "url": "https://www.estadao.com.br/estadao-verifica/checamos-o-debate-entre-lula-e-flavio-na-band/",
+      "data": "2026-10-18"
+    },
+    {
+      "veiculo": "Aos Fatos",
+      "veredito_original": "Flávio respondeu 'sim' a manter reajustes do mínimo acima da inflação e 'não' a desvincular aposentadorias do mínimo (entrevista à Globo)",
+      "url": "https://www.aosfatos.org/noticias/checamos-flavio-bolsonaro-globo-segundo-turno/",
+      "data": "2026-10-16"
     }
   ],
   "fontes": [
@@ -237,6 +313,36 @@
     {
       "nome": "Lupa – Checagem ao vivo do debate Lula x Flávio Bolsonaro na Band (18/10/2026)",
       "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Planalto – Decreto 12.797/2025 (salário mínimo de 2026)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/decreto/D12797.htm",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Ipeadata – GAC12_SALMINRE12, salário mínimo real (preços de set/2026)",
+      "url": "http://www.ipeadata.gov.br/api/odata4/ValoresSerie(SERCODIGO='GAC12_SALMINRE12')",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "DIEESE – Salário mínimo nominal e necessário (série mensal)",
+      "url": "https://www.dieese.org.br/analisecestabasica/salarioMinimo.html",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    },
+    {
+      "nome": "Estadão Verifica – Checamos o debate entre Lula e Flávio na Band (18/10/2026)",
+      "url": "https://www.estadao.com.br/estadao-verifica/checamos-o-debate-entre-lula-e-flavio-na-band/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Aos Fatos – Checamos a entrevista de Flávio Bolsonaro à Globo no segundo turno (16/10/2026)",
+      "url": "https://www.aosfatos.org/noticias/checamos-flavio-bolsonaro-globo-segundo-turno/",
       "acesso_em": "2026-10-21",
       "tier": "checagem"
     }
@@ -267,13 +373,17 @@
     "bolsonaro-deu-600-reais-do-auxilio"
   ],
   "lacunas": [
-    "Para 2021, o DIEESE (NT 283) registra +0,01% real enquanto fontes sindicais falam em reajuste abaixo do INPC; a nota usa o DIEESE. Para 2024, a NT 283 traz +4,69% e a NT 289 +5,64% (bases de INPC diferentes)."
+    "Para 2021, o DIEESE (NT 283) registra +0,01% real enquanto fontes sindicais falam em reajuste abaixo do INPC; a nota usa o DIEESE. Para 2024, a NT 283 traz +4,69% e a NT 289 +5,64% (bases de INPC diferentes). O decreto do mínimo de 2026 (12.797/2025) foi confirmado no Planalto."
   ],
   "atualizado_em": "2026-10-21",
   "changelog": [
     {
       "data": "2026-10-21",
       "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "enriquecimento rodada 2: frase literal de Lula no debate da Band (Estadão Verifica: enganoso) — autor, lado e veredito ajustados (verdadeiro-mas → exagerado); SM real, SM em dólar, SM necessário; decreto 12.797 confirmado"
     }
   ],
   "exemplo": false

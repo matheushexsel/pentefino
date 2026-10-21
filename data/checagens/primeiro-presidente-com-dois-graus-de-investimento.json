@@ -34,7 +34,7 @@
     "O Aos Fatos classificou a afirmação como correta no debate da Band.",
     "O país perdeu o grau de investimento em 2015 e 2016, no governo Dilma, e segue em grau especulativo em 2026, a um ou dois degraus da recuperação."
   ],
-  "explicacao_completa_md": "## O histórico (dados de memória da nota, a confirmar nas agências)\n\n- S&P: BBB− em 30/04/2008 (grau de investimento); rebaixado a BB+ em 09/09/2015; BB em 2016; BB− em 2018; elevado a BB em 19/12/2023.\n- Fitch: BBB− em 29/05/2008; BB+ em 16/12/2015; BB em 2016; BB− em 2018; elevado a BB em 26/07/2023.\n- Moody's: Baa3 em 22/09/2009; Baa2 em 2011; rebaixado a Ba2 em 24/02/2016; elevado a Ba1 em 01/10/2024.\n\n## Indicadores verificados\n\nO EMBI+ caiu de 2.443 pontos (set/2002) para 192 (dez/2006) e 189 (dez/2010). Em 2026 o Brasil está em BB (S&P, Fitch) e Ba1 (Moody's): grau especulativo, mas a um ou dois degraus do grau de investimento; nenhum rebaixamento foi identificado em Lula 3.\n\n## Nota\n\n'Dois graus' na frase se refere, provavelmente, às duas primeiras agências (S&P e Fitch, 2008); a terceira veio em 2009. O Aos Fatos classificou como correto.",
+  "explicacao_completa_md": "## O histórico (anos/meses corroborados por Estadão Verifica e imprensa; 2017-2025 pelo agregador FX Empire; datas-dia de 2008-2016 não confirmadas)\n\n- S&P: BBB− em 30/04/2008 (grau de investimento); rebaixado a BB+ em 09/09/2015; BB em 2016; BB− em 2018; elevado a BB em 19/12/2023.\n- Fitch: BBB− em 29/05/2008; BB+ em 16/12/2015; BB em 2016; BB− em 2018; elevado a BB em 26/07/2023.\n- Moody's: Baa3 em 22/09/2009; Baa2 em 2011; rebaixado a Ba2 em 24/02/2016; elevado a Ba1 em 01/10/2024.\n\n## Indicadores verificados\n\nO EMBI+ caiu de 2.443 pontos (set/2002) para 192 (dez/2006) e 189 (dez/2010). Em 2026 o Brasil está em BB (S&P, Fitch) e Ba1 (Moody's): grau especulativo, mas a um ou dois degraus do grau de investimento; nenhum rebaixamento de nota foi identificado em Lula 3 (houve piora de perspectiva da Moody's, de positiva para estável, em 30/05/2025); os únicos rebaixamentos de 2017-2025 foram em jan-fev/2018, no governo Temer.\n\n## Nota\n\n'Dois graus' na frase se refere, provavelmente, às duas primeiras agências (S&P e Fitch, 2008); a terceira veio em 2009. O Aos Fatos classificou como correto.",
   "o_que_e_verdade": [
     "O Brasil obteve grau de investimento pela primeira vez em 2008 (S&P e Fitch) e 2009 (Moody's), no governo Lula 2.",
     "O risco-país caiu de 2.443 pontos (2002) para menos de 200 pontos (2006-2010)."
@@ -64,54 +64,51 @@
       "rotulo": "Data do grau de investimento pela S&P (BBB−)",
       "valor": 2008,
       "unidade": "ano",
-      "periodo": "30/04/2008",
+      "periodo": "abr/2008 (dia 30/04 não confirmado)",
       "fonte": {
-        "nome": "Tesouro Nacional – Relacionamento com Investidores (classificação de risco)",
-        "url": "https://www.gov.br/tesouronacional/pt-br/divida-publica-federal/relacionamento-com-investidores",
+        "nome": "Estadão Verifica – Checamos o debate entre Lula e Flávio na Band (18/10/2026)",
+        "url": "https://www.estadao.com.br/estadao-verifica/checamos-o-debate-entre-lula-e-flavio-na-band/",
         "acesso_em": "2026-10-21",
-        "tier": "oficial"
+        "tier": "checagem"
       },
-      "comparacao": null,
-      "nao_verificado": true
+      "comparacao": null
     },
     {
       "rotulo": "Data do grau de investimento pela Fitch (BBB−)",
       "valor": 2008,
       "unidade": "ano",
-      "periodo": "29/05/2008",
+      "periodo": "mai/2008 (dia 29/05 não confirmado)",
       "fonte": {
-        "nome": "Tesouro Nacional – Relacionamento com Investidores (classificação de risco)",
-        "url": "https://www.gov.br/tesouronacional/pt-br/divida-publica-federal/relacionamento-com-investidores",
+        "nome": "Estadão Verifica – Checamos o debate entre Lula e Flávio na Band (18/10/2026)",
+        "url": "https://www.estadao.com.br/estadao-verifica/checamos-o-debate-entre-lula-e-flavio-na-band/",
         "acesso_em": "2026-10-21",
-        "tier": "oficial"
+        "tier": "checagem"
       },
-      "comparacao": null,
-      "nao_verificado": true
+      "comparacao": null
     },
     {
       "rotulo": "Data do grau de investimento pela Moody's (Baa3)",
       "valor": 2009,
       "unidade": "ano",
-      "periodo": "22/09/2009",
+      "periodo": "set/2009 (dia 22/09 não confirmado)",
       "fonte": {
-        "nome": "Tesouro Nacional – Relacionamento com Investidores (classificação de risco)",
-        "url": "https://www.gov.br/tesouronacional/pt-br/divida-publica-federal/relacionamento-com-investidores",
+        "nome": "Estadão Verifica – Checamos o debate entre Lula e Flávio na Band (18/10/2026)",
+        "url": "https://www.estadao.com.br/estadao-verifica/checamos-o-debate-entre-lula-e-flavio-na-band/",
         "acesso_em": "2026-10-21",
-        "tier": "oficial"
+        "tier": "checagem"
       },
-      "comparacao": null,
-      "nao_verificado": true
+      "comparacao": null
     },
     {
       "rotulo": "Ano da perda do grau de investimento (S&P e Fitch)",
       "valor": 2015,
       "unidade": "ano",
-      "periodo": "set e dez/2015",
+      "periodo": "set/2015 (S&P) e dez/2015 (Fitch); fev/2016 (Moody's)",
       "fonte": {
-        "nome": "Tesouro Nacional – Relacionamento com Investidores (classificação de risco)",
-        "url": "https://www.gov.br/tesouronacional/pt-br/divida-publica-federal/relacionamento-com-investidores",
+        "nome": "FX Empire – histórico de ratings soberanos do Brasil (agregador, 2017-2026)",
+        "url": "https://fxempire.com/macro/credit-ratings/brazil",
         "acesso_em": "2026-10-21",
-        "tier": "oficial"
+        "tier": "imprensa"
       },
       "comparacao": {
         "rotulo": "Moody's",
@@ -150,6 +147,35 @@
         "rotulo": "2010",
         "valor": 2.62
       }
+    },
+    {
+      "rotulo": "Upgrades de rating em Lula 3 (Fitch 26/07/2023, S&P 19/12/2023, Moody's 01/10/2024)",
+      "valor": 3,
+      "unidade": "upgrades",
+      "periodo": "2023-2024",
+      "fonte": {
+        "nome": "FX Empire – histórico de ratings soberanos do Brasil (agregador, 2017-2026)",
+        "url": "https://fxempire.com/macro/credit-ratings/brazil",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "Rebaixamentos de nota em Lula 3",
+        "valor": 0
+      }
+    },
+    {
+      "rotulo": "Rebaixamentos de nota em 2017-2025 (S&P e Fitch para BB−)",
+      "valor": 2,
+      "unidade": "rebaixamentos",
+      "periodo": "jan-fev/2018 (governo Temer)",
+      "fonte": {
+        "nome": "FX Empire – histórico de ratings soberanos do Brasil (agregador, 2017-2026)",
+        "url": "https://fxempire.com/macro/credit-ratings/brazil",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": null
     }
   ],
   "series": [
@@ -162,6 +188,12 @@
       "veiculo": "Aos Fatos",
       "veredito_original": "Correto",
       "url": "https://www.aosfatos.org/noticias/checamos-lula-flavio-bolsonaro-debate-band/",
+      "data": "2026-10-18"
+    },
+    {
+      "veiculo": "Estadão Verifica",
+      "veredito_original": "VERDADEIRO (grau de investimento em 2008 pela Fitch e S&P e em 2009 pela Moody's)",
+      "url": "https://www.estadao.com.br/estadao-verifica/checamos-o-debate-entre-lula-e-flavio-na-band/",
       "data": "2026-10-18"
     }
   ],
@@ -189,6 +221,18 @@
       "url": "https://www.aosfatos.org/noticias/checamos-lula-flavio-bolsonaro-debate-band/",
       "acesso_em": "2026-10-21",
       "tier": "checagem"
+    },
+    {
+      "nome": "Estadão Verifica – Checamos o debate entre Lula e Flávio na Band (18/10/2026)",
+      "url": "https://www.estadao.com.br/estadao-verifica/checamos-o-debate-entre-lula-e-flavio-na-band/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "FX Empire – histórico de ratings soberanos do Brasil (agregador, 2017-2026)",
+      "url": "https://fxempire.com/macro/credit-ratings/brazil",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/01_macroeconomia_por_governo.md",
@@ -212,13 +256,17 @@
     "divida-publica-de-11-trilhoes"
   ],
   "lacunas": [
-    "Datas e letras de rating são dado de memória da nota (páginas do Tesouro retornaram 404 e os sites das agências bloquearam o acesso); confirmar em fonte primária antes de publicar."
+    "Anos e meses dos movimentos de 2008-2016 corroborados por Estadão Verifica e imprensa; as datas-dia continuam sem fonte primária (Tesouro Transparente respondeu HTTP 429; agências bloquearam o acesso). Movimentos de 2017-2025 vêm do agregador FX Empire (fonte secundária). 'Moody's Baa2 em 2011' segue sem confirmação."
   ],
   "atualizado_em": "2026-10-21",
   "changelog": [
     {
       "data": "2026-10-21",
       "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "enriquecimento rodada 2: Estadão Verifica (verdadeiro), anos/meses corroborados (nao_verificado removido dos anos), histórico 2017-2025 via FX Empire"
     }
   ],
   "exemplo": false

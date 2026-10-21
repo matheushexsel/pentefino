@@ -169,6 +169,54 @@
         "tier": "imprensa"
       },
       "comparacao": null
+    },
+    {
+      "rotulo": "Resultado primário do governo central, critério BCB ('abaixo da linha')",
+      "valor": 54.9,
+      "unidade": "R$ bilhões",
+      "periodo": "2022",
+      "fonte": {
+        "nome": "Banco Central do Brasil – SGS 4639 (resultado primário do governo central, R$ milhões, critério BCB)",
+        "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.4639/dados?formato=json&dataInicial=01/01/2002",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "2023",
+        "valor": -264.5
+      }
+    },
+    {
+      "rotulo": "Meta de resultado primário da LDO 2023 (Lei 14.436/2022, art. 2º)",
+      "valor": -65.9,
+      "unidade": "R$ bilhões",
+      "periodo": "2023 (OFSS)",
+      "fonte": {
+        "nome": "Planalto – Lei 14.436/2022 (LDO 2023)",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/L14436.htm",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "Valor citado na imprensa como meta após a EC 126 (ausente do texto da lei)",
+        "valor": -231.55
+      }
+    },
+    {
+      "rotulo": "Precatórios federais pagos em 2023 (critério SIOP, IFI)",
+      "valor": 151.0,
+      "unidade": "R$ bilhões",
+      "periodo": "2023",
+      "fonte": {
+        "nome": "IFI – Relatório de Acompanhamento Fiscal nº 116 (set/2026)",
+        "url": "https://www12.senado.leg.br/ifi/pdf/raf116_set2026.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "Critério BCB",
+        "valor": 92.4
+      }
     }
   ],
   "series": [
@@ -182,6 +230,12 @@
       "veredito_original": "FALSO",
       "url": "https://www.agencialupa.org/checagem/2026/10/15/ao-vivo-checagem-da-entrevista-de-lula-na-tv-globo/",
       "data": "2026-10-15"
+    },
+    {
+      "veiculo": "Lupa",
+      "veredito_original": "FALSO ('ficou um déficit de 2,8%', debate da Band)",
+      "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+      "data": "2026-10-18"
     }
   ],
   "fontes": [
@@ -214,6 +268,24 @@
       "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2022-12/congresso-promulga-pec-da-transicao",
       "acesso_em": "2026-10-21",
       "tier": "imprensa"
+    },
+    {
+      "nome": "Banco Central do Brasil – SGS 4639 (resultado primário do governo central, R$ milhões, critério BCB)",
+      "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.4639/dados?formato=json&dataInicial=01/01/2002",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Planalto – Lei 14.436/2022 (LDO 2023)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/L14436.htm",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "IFI – Relatório de Acompanhamento Fiscal nº 116 (set/2026)",
+      "url": "https://www12.senado.leg.br/ifi/pdf/raf116_set2026.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/02_contas_publicas_divida.md",
@@ -234,13 +306,21 @@
   "relacionadas": [
     "meta-fiscal-foi-cumprida",
     "deficit-de-lula-70-por-cento-menor-que-o-de-bolsonaro",
-    "divida-publica-de-11-trilhoes"
+    "divida-publica-de-11-trilhoes",
+    "deficit-herdado-de-231-bilhoes"
+  ],
+  "lacunas": [
+    "O valor de 'R$ 231,55 bi' como meta de 2023 não aparece no texto compilado da Lei 14.436/2022 (que fixa déficit de R$ 65,9 bilhões para o OFSS); corresponde à meta efetiva após as exclusões da EC 126/2022, segundo a imprensa."
   ],
   "atualizado_em": "2026-10-21",
   "changelog": [
     {
       "data": "2026-10-21",
       "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "enriquecimento rodada 2: critério BCB 2022-2023, meta da LDO 2023 no texto legal, precatórios SIOP, Lupa 18/10"
     }
   ],
   "exemplo": false

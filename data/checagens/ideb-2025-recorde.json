@@ -1,0 +1,247 @@
+{
+  "id": "chk-5014",
+  "slug": "ideb-2025-recorde",
+  "frase": "O Ideb 2025 foi o melhor da história em todas as etapas.",
+  "frase_normalizada": "o ideb 2025 foi o melhor da história em todas as etapas.",
+  "variantes": [
+    "A educação básica bateu recorde no Ideb 2025",
+    "O Brasil superou as metas do Ideb"
+  ],
+  "autor": {
+    "nome": "Afirmação recorrente no debate eleitoral (sem autor único identificado na nota)",
+    "partido": null,
+    "cargo": null,
+    "nao_verificado": true
+  },
+  "lado": "governo-lula-pt",
+  "alvo": {
+    "nome": "Governo Lula 3 (2023–)",
+    "partido": "PT"
+  },
+  "data": "2026-08-05",
+  "onde": "Divulgação do Ideb 2025 pelo Inep/MEC",
+  "url_declaracao": null,
+  "temas": [
+    "educacao"
+  ],
+  "tags": [
+    "ideb",
+    "inep",
+    "2025",
+    "metas",
+    "pne"
+  ],
+  "veredito": "verdadeiro-mas",
+  "resumo_uma_frase": "Sim: 6,3 (anos iniciais), 5,3 (anos finais) e 4,5 (ensino médio) são os maiores valores desde 2005, mas só os anos iniciais cumpriram a meta; anos finais e médio fecharam o PNE com 12 anos sem atingir as metas, e as redes são estaduais e municipais.",
+  "explicacao_simples": [
+    "O Ideb 2025, divulgado em 05/08/2026, trouxe 6,3 nos anos iniciais, 5,3 nos anos finais e 4,5 no ensino médio — todos os maiores valores da série iniciada em 2005 (3,8 / 3,5 / 3,4).",
+    "Mas 'superar as metas' só vale para os anos iniciais (meta 6,0): anos finais (meta 5,5) e ensino médio (meta 5,2) ficaram abaixo, e o ensino médio não cumpre a meta desde 2013.",
+    "O índice mede escolas de redes municipais e estaduais; todas as 27 UFs melhoraram nos anos iniciais, 24 nos finais e 23 no médio (DF foi a única a cair), com Paraná e Ceará na frente."
+  ],
+  "explicacao_completa_md": "## Os números (Inep/MEC, 05/08/2026)\n\n| Etapa | 2023 | 2025 | Meta | Rede pública 2023 → 2025 |\n|---|---|---|---|---|\n| Anos iniciais | 6,0 | **6,3** | 6,0 (superada) | 5,7 → 6,1 |\n| Anos finais | 5,0 | **5,3** | 5,5 (não atingida) | 4,7 → 5,0 |\n| Ensino médio | 4,3 | **4,5** | 5,2 (não atingida) | 4,1 → 4,3 |\n\n- Alunos avaliados: 14,5 mi (iniciais), 11,2 mi (finais), 7,3 mi (médio). Próximo Ideb: 2027.\n- UFs que melhoraram: 27 (iniciais), 24 (finais), 23 (médio; DF foi a única com queda).\n- Municípios com Ideb até 4,9 nos anos iniciais: 4.110 (2005) → 1.097 (2023) → 442 (2025).\n- Líderes 2025: anos iniciais PR 7,0 (6,9 na Agência Brasil), CE 6,8, SC 6,7; anos finais PR 5,9, CE e GO 5,7; ensino médio PR 5,1, PI 5,0, ES e RS 4,9. Menores: AP 5,5 (iniciais); RR 4,4 (finais); AM e RR 3,8 (médio).\n\n## O \"mas\"\n\n- O ensino médio não atinge a meta desde 2013; o ciclo do PNE se encerrou em 2025 com 12 anos seguidos sem cumprir as metas de anos finais e médio.\n- O PISA 2025 (377 em matemática) mostra estagnação desde 2009, o que relativiza o avanço do Ideb, cujo componente de fluxo (aprovação) pode subir sem ganho equivalente de aprendizagem.\n- Responsabilidade: anos iniciais sobretudo municipais; anos finais estaduais/municipais; ensino médio estadual. A União avalia e financia (Fundeb, cuja complementação subiu de 12% em 2021 para 21% em 2025 e 23% em 2026).\n\n## Veredito\n\nVerdadeiro, mas: recorde em todas as etapas, meta cumprida em apenas uma, e mérito compartilhado com as redes estaduais e municipais.",
+  "o_que_e_verdade": [
+    "6,3 / 5,3 / 4,5 são os maiores valores da série do Ideb (desde 2005) nas três etapas.",
+    "Anos iniciais superaram a meta de 6,0; todas as 27 UFs melhoraram.",
+    "Rede pública também avançou: 5,7 → 6,1; 4,7 → 5,0; 4,1 → 4,3."
+  ],
+  "o_que_nao_se_sustenta": [
+    "Que o Brasil tenha 'superado as metas': anos finais (5,3 vs 5,5) e ensino médio (4,5 vs 5,2) não atingiram.",
+    "Que o recorde seja mérito do governo federal: o Ideb mede redes municipais e estaduais.",
+    "Que o avanço do Ideb signifique salto de aprendizagem: o PISA 2025 ficou em 377 em matemática, estável desde 2009."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Redes municipais",
+      "papel": "Anos iniciais (6,3, meta superada)",
+      "peso": "alto"
+    },
+    {
+      "ator": "Redes estaduais",
+      "papel": "Ensino médio (4,5) e parte dos anos finais (5,3)",
+      "peso": "alto"
+    },
+    {
+      "ator": "Governo federal (MEC/Inep, Lula 3)",
+      "papel": "Avaliação, Fundeb, Criança Alfabetizada, Pé-de-Meia",
+      "peso": "medio"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Ideb anos iniciais",
+      "valor": 6.3,
+      "unidade": "pontos",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Agência Brasil via O Povo, 05/08/2026 — Ideb 2025",
+        "url": "https://www.opovo.com.br/noticias/brasil/2026/08/05/amp/ideb-mostra-avanco-da-educacao-basica-no-pais.html",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "meta",
+        "valor": 6.0
+      }
+    },
+    {
+      "rotulo": "Ideb anos finais",
+      "valor": 5.3,
+      "unidade": "pontos",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Agência Brasil via O Povo, 05/08/2026 — Ideb 2025",
+        "url": "https://www.opovo.com.br/noticias/brasil/2026/08/05/amp/ideb-mostra-avanco-da-educacao-basica-no-pais.html",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "meta",
+        "valor": 5.5
+      }
+    },
+    {
+      "rotulo": "Ideb ensino médio",
+      "valor": 4.5,
+      "unidade": "pontos",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Agência Brasil via O Povo, 05/08/2026 — Ideb 2025",
+        "url": "https://www.opovo.com.br/noticias/brasil/2026/08/05/amp/ideb-mostra-avanco-da-educacao-basica-no-pais.html",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "meta",
+        "valor": 5.2
+      }
+    },
+    {
+      "rotulo": "Ideb anos iniciais em 2005",
+      "valor": 3.8,
+      "unidade": "pontos",
+      "periodo": "2005",
+      "fonte": {
+        "nome": "Wikipédia pt — Ideb (compilação de dados Inep)",
+        "url": "https://pt.wikipedia.org/wiki/%C3%8Dndice_de_Desenvolvimento_da_Educa%C3%A7%C3%A3o_B%C3%A1sica",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "ensino médio em 2005",
+        "valor": 3.4
+      }
+    },
+    {
+      "rotulo": "UFs que melhoraram nos anos iniciais",
+      "valor": 27,
+      "unidade": "UFs",
+      "periodo": "2023–2025",
+      "fonte": {
+        "nome": "Agência Brasil via O Povo, 05/08/2026 — Ideb 2025",
+        "url": "https://www.opovo.com.br/noticias/brasil/2026/08/05/amp/ideb-mostra-avanco-da-educacao-basica-no-pais.html",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "ensino médio",
+        "valor": 23
+      }
+    },
+    {
+      "rotulo": "Municípios com Ideb até 4,9 (anos iniciais)",
+      "valor": 442,
+      "unidade": "municípios",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Agência Brasil via O Povo, 05/08/2026 — Ideb 2025",
+        "url": "https://www.opovo.com.br/noticias/brasil/2026/08/05/amp/ideb-mostra-avanco-da-educacao-basica-no-pais.html",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "2005",
+        "valor": 4110
+      }
+    },
+    {
+      "rotulo": "Anos sem cumprir metas de anos finais e médio",
+      "valor": 12,
+      "unidade": "anos",
+      "periodo": "2013–2025",
+      "fonte": {
+        "nome": "Gazeta do Povo — Ideb 2025 e metas do PNE",
+        "url": "https://www.gazetadopovo.com.br/educacao/ideb-escolas-encerram-2025-sem-atingir-metas-previstas-2021/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    }
+  ],
+  "series": [
+    "ideb-anos-iniciais",
+    "ideb-anos-finais",
+    "ideb-ensino-medio",
+    "pisa"
+  ],
+  "checagens_externas": [],
+  "fontes": [
+    {
+      "nome": "Agência Brasil via O Povo, 05/08/2026 — Ideb 2025",
+      "url": "https://www.opovo.com.br/noticias/brasil/2026/08/05/amp/ideb-mostra-avanco-da-educacao-basica-no-pais.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Gazeta do Povo — Ideb 2025 e metas do PNE",
+      "url": "https://www.gazetadopovo.com.br/educacao/ideb-escolas-encerram-2025-sem-atingir-metas-previstas-2021/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "PEBSP — tabela Ideb/Inep 2025 por estado (05/08/2026)",
+      "url": "https://www.pebsp.com/mec-apresenta-resultados-do-ideb-2025-veja-as-notas-de-todos-os-estados/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Inep — resultados do Ideb",
+      "url": "https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/ideb/resultados",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Wikipédia pt — Ideb (compilação de dados Inep)",
+      "url": "https://pt.wikipedia.org/wiki/%C3%8Dndice_de_Desenvolvimento_da_Educa%C3%A7%C3%A3o_B%C3%A1sica",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Wikipedia en — Programme for International Student Assessment (tabelas 2022 e 2025, citando OCDE)",
+      "url": "https://en.wikipedia.org/wiki/Programme_for_International_Student_Assessment",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/07_saude_seguranca_educacao_infra_ambiente.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "O Ideb 2025 é do governo Lula?",
+      "resposta": "Cobre fluxo e Saeb de 2025, segundo ano do governo Lula 3, mas as escolas avaliadas são de redes municipais e estaduais; o Ideb 2023 (primeiro ano) havia mostrado queda nos anos finais."
+    }
+  ],
+  "relacionadas": [
+    "ideb-melhorou-ou-piorou",
+    "pisa-2025-brasil-caiu-ou-subiu",
+    "pe-de-meia-reduziu-evasao"
+  ],
+  "lacunas": [
+    "Tabela por UF vem de fonte secundária (PEBSP); Paraná diverge (6,9/7,0); planilhas do Inep não lidas."
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false
+}

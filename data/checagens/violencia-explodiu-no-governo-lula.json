@@ -39,7 +39,7 @@
     "Alguns indicadores pioraram: feminicídios (+4,0%, recorde), mortes por policiais (+5,4%, recorde) e estelionatos (+2,7%; +429,8% desde 2018), e o FBSP fala em expansão territorial das facções.",
     "Nada disso configura 'explosão' da violência, e as polícias e presídios são estaduais, não federais."
   ],
-  "explicacao_completa_md": "## O que caiu (2025 vs 2024, Anuário 2026)\n\n- Mortes violentas intencionais: 44.220 para 40.775 (-8,2%); taxa de 20,8 para 19,1 por 100 mil, a menor desde 2012. No governo Lula 3 a série foi 46.441 (2023), 44.220 (2024), 40.775 (2025).\n- Roubos (total): 745.193 para 610.959 (-18,3%). Roubo de veículo -20,6%; roubo de celular -18,6%; roubo de carga -18,3%; roubo a banco -35,5% (121 para 75).\n- Estupros (inclui vulnerável): 88.843 para 84.388 (-5,4%), primeira queda desde a pandemia.\n- Homicídios de mulheres (total): 3.728 para 3.539 (-5,5%).\n\n## O que subiu\n\n- Feminicídios: 1.504 para 1.571 (+4,0%), recorde; tentativas +5,9%; descumprimento de medida protetiva +16,7%.\n- Mortes por intervenção policial: 6.237 para 6.602 (+5,4%), recorde; 16,2% das MVI.\n- Estelionatos: 2.193.122 para 2.261.055 (+2,7%; +429,8% desde 2018).\n- Furto de celular: +0,9%.\n- O FBSP descreve 2025 como ano de \"expansão territorial de facções criminosas, crescimento das economias ilícitas e explosão das fraudes e golpes\".\n\n## Quem responde\n\nPolícias Militar e Civil, presídios e registros criminais são estaduais; os estados fazem 80% do gasto com segurança. A União atua com PF, PRF, fundos e leis — a Lei Antifacção foi sancionada em 24/03/2026 e a PEC da Segurança ainda aguardava o Senado em 21/10/2026. Em 2025 a despesa federal com segurança caiu 17,7% (R$ 22,0 bi para R$ 18,1 bi).\n\n## Veredito\n\nFalso. Violência letal e crimes patrimoniais caíram a mínimos da série; o que cresceu foram feminicídios, letalidade policial (ambos decisões de política estadual e de registro) e golpes financeiros, que o próprio FBSP chama de \"explosão\" — mas de fraudes, não de violência. A frase genérica não se sustenta.",
+  "explicacao_completa_md": "## O que caiu (2025 vs 2024, Anuário 2026)\n\n- Mortes violentas intencionais: 44.220 para 40.775 (-8,2%); taxa de 20,8 para 19,1 por 100 mil, a menor desde 2012. No governo Lula 3 a série foi 46.441 (2023), 44.220 (2024), 40.775 (2025). Componentes: homicídio doloso 36.440 → 32.914 (-10,0%); latrocínio 969 → 807 (-17,0%); lesão corporal seguida de morte 774 → 659 (-15,2%). Sete UFs subiram; maiores quedas em AM (-32,5%), RS (-25,7%) e MT (-23,2%).\n- Roubos (total): 745.193 para 610.959 (-18,3%). Roubo de veículo -20,6%; roubo de celular -18,6%; roubo de carga -18,3%; roubo a banco -35,5% (121 para 75).\n- Estupros (inclui vulnerável): 88.843 para 84.388 (-5,4%), primeira queda desde a pandemia.\n- Homicídios de mulheres (total): 3.728 para 3.539 (-5,5%).\n\n## O que subiu\n\n- Feminicídios: 1.504 para 1.571 (+4,0%), recorde; tentativas +5,9%; descumprimento de medida protetiva +16,7%.\n- Mortes por intervenção policial: 6.237 para 6.602 (+5,4%), recorde; 16,2% das MVI.\n- Estelionatos: 2.193.122 para 2.261.055 (+2,7%; +429,8% desde 2018).\n- Furto de celular: +0,9%.\n- O FBSP descreve 2025 como ano de \"expansão territorial de facções criminosas, crescimento das economias ilícitas e explosão das fraudes e golpes\".\n\n## Quem responde\n\nPolícias Militar e Civil, presídios e registros criminais são estaduais; os estados fazem 80% do gasto com segurança. A União atua com PF, PRF, fundos e leis — a Lei Antifacção (Lei 15.358/2026) foi sancionada em 24/03/2026 e a PEC da Segurança foi retirada de pauta no Senado em 15/10/2026, seguindo pendente em 21/10/2026. Em 2025 a despesa federal com segurança caiu 17,7% (R$ 22,0 bi para R$ 18,1 bi).\n\nUma variante dessa narrativa — a de que PCC e Comando Vermelho teriam declarado apoio a Lula — foi classificada como falsa pela Aos Fatos (09/10/2026).\n\n## Veredito\n\nFalso. Violência letal e crimes patrimoniais caíram a mínimos da série; o que cresceu foram feminicídios, letalidade policial (ambos decisões de política estadual e de registro) e golpes financeiros, que o próprio FBSP chama de \"explosão\" — mas de fraudes, não de violência. A frase genérica não se sustenta.",
   "o_que_e_verdade": [
     "Feminicídios (1.571) e mortes por policiais (6.602) bateram recorde em 2025.",
     "Estelionatos cresceram 2,7% em 2025 e 429,8% desde 2018; o FBSP fala em 'explosão das fraudes e golpes' e expansão territorial das facções.",
@@ -184,11 +184,20 @@
   "series": [
     "mortes-violentas-intencionais",
     "taxa-homicidios-100-mil",
+    "mvi-por-uf-2025",
     "letalidade-policial",
     "feminicidios",
+    "homicidios-de-mulheres",
     "gasto-seguranca-por-nivel-de-governo"
   ],
-  "checagens_externas": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Aos Fatos",
+      "veredito_original": "Falso (PCC e CV declararam apoio a Lula)",
+      "url": "https://aosfatos.org/noticias/pcc-comando-vermelho-apoio-lula-falso/",
+      "data": "2026-10-09"
+    }
+  ],
   "fontes": [
     {
       "nome": "Anuário Brasileiro de Segurança Pública 2026 (FBSP)",
@@ -221,16 +230,28 @@
       "tier": "imprensa"
     },
     {
-      "nome": "Congresso em Foco — Lula sanciona PL Antifacção",
-      "url": "https://www.congressoemfoco.com.br/noticia/117518/lula-sanciona-texto-do-pl-antifaccao-com-apenas-um-veto",
+      "nome": "Planalto — Lei 15.358, de 24/03/2026 (Lei Antifacção), texto integral",
+      "url": "https://www.planalto.gov.br/ccivil_03/_Ato2023-2026/2026/Lei/L15358.htm",
       "acesso_em": "2026-10-21",
-      "tier": "imprensa"
+      "tier": "oficial"
+    },
+    {
+      "nome": "Senado, Dados Abertos — processo 9006525 (PEC 18/2025)",
+      "url": "https://legis.senado.leg.br/dadosabertos/processo/9006525",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
     },
     {
       "nome": "Senado Notícias — PEC voltará à pauta após acordo (16/10/2026)",
       "url": "https://www.senado.leg.br/noticias/videos/2026/10/pec-da-seguranca-voltara-a-pauta-apos-acordo-sobre-emendas-anuncia-davi",
       "acesso_em": "2026-10-21",
       "tier": "oficial"
+    },
+    {
+      "nome": "Aos Fatos, 09/10/2026 — É falso que PCC e CV declararam apoio a Lula",
+      "url": "https://aosfatos.org/noticias/pcc-comando-vermelho-apoio-lula-falso/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/07_saude_seguranca_educacao_infra_ambiente.md",
@@ -242,21 +263,31 @@
     {
       "pergunta": "A queda das MVI é mérito do governo Lula?",
       "resposta": "Não diretamente. A queda começou em 2018, atravessou o governo Bolsonaro e continuou em 2023–2025; a execução é estadual e há fatores demográficos."
+    },
+    {
+      "pergunta": "Os estupros também caíram?",
+      "resposta": "Os registros de estupro e estupro de vulnerável caíram de 88.843 para 84.388 (-5,4%) em 2025, primeira queda desde a pandemia; pela contagem de vítimas da Tabela 29, foram 81.040 → 84.269 (taxa 38,1 → 39,5). A nota não resolveu a diferença entre as duas colunas."
     }
   ],
   "relacionadas": [
     "homicidios-cairam-no-governo-bolsonaro-e-continuaram-caindo",
     "homicidios-cairam-com-bolsonaro",
-    "operacao-contencao-rj-122-mortos"
+    "operacao-contencao-rj-122-mortos",
+    "pcc-e-cv-apoiam-lula"
   ],
   "lacunas": [
-    "Dados nacionais de 2026 (Monitor da Violência) não localizados; só parciais estaduais (PE -13,6%, CE -40,8%, PB -13% no 1º semestre)."
+    "Dados nacionais de 2026 (Monitor da Violência) não localizados; só parciais estaduais (PE -13,6%, CE -40,8%, PB -13% no 1º semestre).",
+    "Estupros: colunas de vítimas (84.269) e registros (84.388) para 2025 não conciliadas."
   ],
   "atualizado_em": "2026-10-21",
   "changelog": [
     {
       "data": "2026-10-21",
       "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "rodada 2 de enriquecimento: componentes das MVI, dados por UF, Lei 15.358/2026, PEC retirada de pauta e checagem da Aos Fatos sobre facções"
     }
   ],
   "exemplo": false

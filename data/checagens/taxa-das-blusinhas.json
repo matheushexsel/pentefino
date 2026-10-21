@@ -37,14 +37,14 @@
     "O dispositivo não veio de projeto do governo: foi incluído pelo Congresso como emenda estranha ao projeto do programa Mover, e o Executivo optou por sancionar em vez de vetar.",
     "Em maio de 2026 o governo zerou a taxa por medida provisória e Lula sancionou a lei em 10 de setembro, 24 dias antes da eleição, o que a oposição criticou como eleitoreiro."
   ],
-  "explicacao_completa_md": "## Linha do tempo\n\n- jun/2024: Lei 14.902/2024 — 20% de imposto de importação sobre remessas até US$ 50, inserida como 'jabuti' no PL do Mover, aprovada pelo Congresso e sancionada por Lula. Vale para todas as compras internacionais (eletrônicos, cosméticos etc.), não só roupas.\n- ago/2024: início da cobrança.\n- 12/05/2026: MP 1.357/2026 autoriza a Fazenda a reduzir a zero o imposto em remessas até US$ 50; isenção efetiva a partir de 13/05/2026 (Rogério Ceron).\n- 03/09/2026: Senado aprova a MP (com isenção para medicamentos de doenças raras; compras de US$ 50 a US$ 3 mil podem ter alíquota reduzida de 60% para 30%; ICMS estadual continua).\n- 10/09/2026: Lula sanciona a lei, 'a 24 dias da eleição'.\n\n## Responsabilidade\n\nA nota de pesquisa classifica como compartilhada: o Congresso inseriu e aprovou, o Executivo sancionou (poderia vetar) e cobrou por 21 meses, depois revogou em ano eleitoral. É uma das duas medidas tributárias de Lula 3 que recaíram sobre consumidores em geral (a outra é o IOF-câmbio de 2025).",
+  "explicacao_completa_md": "## Linha do tempo\n\n- 27/06/2024 (DOU 28/06): Lei 14.902/2024 — 20% de imposto de importação sobre remessas até US$ 50 (60% com dedução de US$ 20 de US$ 50,01 a US$ 3.000), inserida como 'jabuti' no PL do Mover, aprovada pelo Congresso e sancionada por Lula. Vale para todas as compras internacionais (eletrônicos, cosméticos etc.), não só roupas.\n- ago/2024: início da cobrança.\n- 12/05/2026: MP 1.357/2026 autoriza a Fazenda a reduzir a zero o imposto em remessas até US$ 50; isenção efetiva a partir de 13/05/2026 (Rogério Ceron).\n- 03/09/2026: Senado aprova a MP (com isenção para medicamentos de doenças raras; compras de US$ 50 a US$ 3 mil podem ter alíquota reduzida de 60% para 30%; ICMS estadual continua).\n- 10/09/2026: Lula sanciona a Lei 15.502/2026 (DOU edição extra de 10/09/2026), 'a 24 dias da eleição'; a lei zera o imposto até US$ 50 e fixa 30% até US$ 3.000 para plataformas do Remessa Conforme, isenta medicamentos para doenças raras e obriga a Fazenda a avaliar os efeitos em 3 meses e depois a cada 6 meses.\n\n## Responsabilidade\n\nA nota de pesquisa classifica como compartilhada: o Congresso inseriu e aprovou, o Executivo sancionou (poderia vetar) e cobrou por 21 meses, depois revogou em ano eleitoral. É uma das duas medidas tributárias de Lula 3 que recaíram sobre consumidores em geral (a outra é o IOF-câmbio de 2025).",
   "o_que_e_verdade": [
     "A Lei 14.902/2024, sancionada por Lula, criou o imposto de 20% em compras internacionais até US$ 50, cobrado de ago/2024 a mai/2026.",
     "A medida atingiu consumidores em geral, não apenas compradores de roupas."
   ],
   "o_que_nao_se_sustenta": [
     "A taxa não foi proposta pelo governo: foi emenda do Congresso ('jabuti') ao PL do Mover; a responsabilidade é compartilhada.",
-    "A taxa foi revogada pelo próprio governo (MP 1.357/2026; isenção desde 13/05/2026; lei de 10/09/2026).",
+    "A taxa foi revogada pelo próprio governo (MP 1.357/2026; isenção desde 13/05/2026; Lei 15.502/2026, de 10/09/2026).",
     "O ICMS estadual sobre as compras continua, e a faixa de US$ 50 a US$ 3 mil segue tributada (alíquota pode cair de 60% para 30%)."
   ],
   "quem_e_responsavel": [
@@ -74,12 +74,12 @@
       "rotulo": "Imposto de importação em compras até US$ 50 (Lei 14.902/2024)",
       "valor": 20,
       "unidade": "%",
-      "periodo": "ago/2024 a mai/2026",
+      "periodo": "ago/2024 a 12/05/2026",
       "fonte": {
-        "nome": "Congresso em Foco – Da taxa das blusinhas à reforma tributária: principais leis de 2024",
-        "url": "https://congressoemfoco.com.br/noticia/5495/da-taxa-das-blusinhas-a-reforma-tributaria-entenda-as-principais-leis-aprovadas-pelo-congresso-em-2024",
+        "nome": "Planalto – Lei 14.902/2024 (Mover e tabela do regime de tributação simplificada)",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/L14902.htm",
         "acesso_em": "2026-10-21",
-        "tier": "imprensa"
+        "tier": "oficial"
       },
       "comparacao": {
         "rotulo": "Após a MP 1.357/2026",
@@ -105,8 +105,8 @@
       "unidade": "%",
       "periodo": "a partir da lei de 2026",
       "fonte": {
-        "nome": "Agência Senado – Senado zera taxa das blusinhas nas remessas de até US$ 50 (03/09/2026)",
-        "url": "https://www12.senado.leg.br/noticias/materias/2026/09/03/senado-zera-taxa-das-blusinhas-nas-remessas-internacionais-de-ate-us-50",
+        "nome": "Planalto – Lei 15.502/2026 (conversão da MP 1.357/2026, fim da taxa das blusinhas)",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/L15502.htm",
         "acesso_em": "2026-10-21",
         "tier": "oficial"
       },
@@ -125,6 +125,64 @@
         "url": "https://www.agazeta.com.br/economia/lula-sanciona-lei-do-fim-da-taxa-das-blusinhas-a-24-dias-da-eleicao-0926",
         "acesso_em": "2026-10-21",
         "tier": "imprensa"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Alíquota da faixa de US$ 50,01 a US$ 3.000 na Lei 14.902/2024 (com dedução de US$ 20)",
+      "valor": 60,
+      "unidade": "%",
+      "periodo": "2024-2026",
+      "fonte": {
+        "nome": "Planalto – Lei 14.902/2024 (Mover e tabela do regime de tributação simplificada)",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/L14902.htm",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Imposto de importação sobre remessas internacionais",
+      "valor": 2.88,
+      "unidade": "R$ bilhões",
+      "periodo": "2024",
+      "fonte": {
+        "nome": "AmdJus – Receita obtém R$ 5 bilhões com imposto sobre blusinhas (05/02/2026)",
+        "url": "https://amdjus.com.br/arrecadacao-recorde-receita-federal-obtem-r-5-bilhoes-com-imposto-sobre-blusinhas/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "2025",
+        "valor": 5.0
+      }
+    },
+    {
+      "rotulo": "Impostos sobre remessas no Remessa Conforme (levantamento DC News em balanços da Receita)",
+      "valor": 3.52,
+      "unidade": "R$ bilhões",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Tribuna do Planalto – Remessas internacionais batem recorde em 2025 (20/03/2026)",
+        "url": "https://tribunadoplanalto.com.br/remessas-internacionais-batem-recorde-em-2025-e-impulsionam-arrecadacao-federal-com-a-taxa-das-blusinhas/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "Remessas (milhões)",
+        "valor": 165.5
+      }
+    },
+    {
+      "rotulo": "Prazo da primeira avaliação de efeitos exigida pela Lei 15.502/2026 (art. 1º-A)",
+      "valor": 3,
+      "unidade": "meses",
+      "periodo": "a partir de 10/09/2026",
+      "fonte": {
+        "nome": "Planalto – Lei 15.502/2026 (conversão da MP 1.357/2026, fim da taxa das blusinhas)",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/L15502.htm",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
       },
       "comparacao": null
     }
@@ -175,6 +233,36 @@
       "url": "https://www.camara.leg.br/noticias/1302664-camara-aprova-mp-que-acaba-com-a-taxa-das-blusinhas/",
       "acesso_em": "2026-10-21",
       "tier": "oficial"
+    },
+    {
+      "nome": "Planalto – Lei 14.902/2024 (Mover e tabela do regime de tributação simplificada)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/L14902.htm",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Planalto – Lei 15.502/2026 (conversão da MP 1.357/2026, fim da taxa das blusinhas)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/L15502.htm",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "AmdJus – Receita obtém R$ 5 bilhões com imposto sobre blusinhas (05/02/2026)",
+      "url": "https://amdjus.com.br/arrecadacao-recorde-receita-federal-obtem-r-5-bilhoes-com-imposto-sobre-blusinhas/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Tribuna do Planalto – Remessas internacionais batem recorde em 2025 (20/03/2026)",
+      "url": "https://tribunadoplanalto.com.br/remessas-internacionais-batem-recorde-em-2025-e-impulsionam-arrecadacao-federal-com-a-taxa-das-blusinhas/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Planalto – MP 1.357/2026 (redução a zero do imposto de importação em remessas até US$ 50)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/Mpv/mpv1357.htm",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/12_pix_fake_news_e_impostos_quem_paga.md",
@@ -189,7 +277,7 @@
     },
     {
       "pergunta": "Quanto a taxa arrecadou?",
-      "resposta": "A nota não localizou a arrecadação efetiva do imposto de 2024-2026."
+      "resposta": "Cerca de R$ 2,88 bilhões em 2024 e R$ 5 bilhões em 2025 no total do imposto sobre remessas (Receita via AmdJus); outro levantamento aponta R$ 3,52 bilhões em 2025 só no Remessa Conforme. Não há consolidação oficial acessível."
     }
   ],
   "relacionadas": [
@@ -199,13 +287,17 @@
     "governo-vai-taxar-o-pix"
   ],
   "lacunas": [
-    "Número da lei de conversão da MP 1.357/2026 e seu DOU não localizados; arrecadação efetiva da taxa não localizada."
+    "Arrecadação consolidada em fonte primária não localizada (R$ 3,52 bi x R$ 5 bi em 2025, recortes diferentes); renúncia oficial do fim da taxa e a avaliação trimestral exigida pela Lei 15.502 ainda não localizadas."
   ],
   "atualizado_em": "2026-10-21",
   "changelog": [
     {
       "data": "2026-10-21",
       "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "enriquecimento rodada 2: Lei 15.502/2026 e Lei 14.902/2024 no Planalto (lacuna fechada), arrecadação 2024-2025, avaliação obrigatória"
     }
   ],
   "exemplo": false

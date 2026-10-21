@@ -39,6 +39,7 @@
     "Emendas parlamentares cresceram de 2% para 24% da despesa discricionária desde 2015 e somaram R$ 47,1 bilhões empenhados em 2025."
   ],
   "o_que_nao_se_sustenta": [
+    "As despesas discricionárias federais somam R$ 237,7 bilhões em 2026 (1,7% do PIB) e as obrigatórias ocupam 90,8% do limite de gastos: um corte de R$ 200 bilhões em 'regalias' equivaleria a quase todo o gasto discricionário, que inclui investimentos e emendas.",
     "Não há lista de despesas, cronograma ou estimativa de impacto que sustente os R$ 200 bilhões; o programa no TSE não traz números consolidados.",
     "Cerca de metade da despesa federal é indexada ao salário mínimo e a campanha promete não mexer em aposentados, BPC, Bolsa Família nem na regra do mínimo, o que limita o espaço para um corte dessa ordem em 'regalias'.",
     "A fala de 'transição de 2 anos' no Bolsa Família (19/10/2026) contradiz parcialmente a promessa de não afetar o programa."
@@ -155,6 +156,54 @@
         "rotulo": "2019",
         "valor": 13.86
       }
+    },
+    {
+      "rotulo": "Despesas discricionárias sujeitas ao limite (IFI, Relatório do 3º bimestre)",
+      "valor": 237.7,
+      "unidade": "R$ bilhões",
+      "periodo": "2026",
+      "fonte": {
+        "nome": "IFI – Relatório de Acompanhamento Fiscal nº 116 (set/2026)",
+        "url": "https://www12.senado.leg.br/ifi/pdf/raf116_set2026.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "Corte prometido pela campanha",
+        "valor": 200
+      }
+    },
+    {
+      "rotulo": "Despesas obrigatórias como parcela do limite de despesas (IFI)",
+      "valor": 90.8,
+      "unidade": "%",
+      "periodo": "2026",
+      "fonte": {
+        "nome": "IFI – Relatório de Acompanhamento Fiscal nº 116 (set/2026)",
+        "url": "https://www12.senado.leg.br/ifi/pdf/raf116_set2026.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "Limite de despesas (R$ bilhões)",
+        "valor": 2392.7
+      }
+    },
+    {
+      "rotulo": "Benefícios previdenciários (IFI)",
+      "valor": 1081.8,
+      "unidade": "R$ bilhões",
+      "periodo": "2026",
+      "fonte": {
+        "nome": "IFI – Relatório de Acompanhamento Fiscal nº 116 (set/2026)",
+        "url": "https://www12.senado.leg.br/ifi/pdf/raf116_set2026.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "Pessoal e encargos",
+        "valor": 416.9
+      }
     }
   ],
   "series": [
@@ -234,6 +283,12 @@
       "url": "https://www.poder360.com.br/poder-eleicoes-2026/pt-usa-fala-de-daniella-para-cobrar-flavio-sobre-bolsa-familia/",
       "acesso_em": "2026-10-21",
       "tier": "imprensa"
+    },
+    {
+      "nome": "IFI – Relatório de Acompanhamento Fiscal nº 116 (set/2026)",
+      "url": "https://www12.senado.leg.br/ifi/pdf/raf116_set2026.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/13_renda_por_faixa_e_simulacoes_de_impacto.md",
@@ -265,6 +320,10 @@
     {
       "data": "2026-10-21",
       "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "enriquecimento rodada 2: despesas discricionárias e obrigatórias de 2026 (IFI RAF 116, Tabela 7) como régua para o corte prometido"
     }
   ],
   "exemplo": false

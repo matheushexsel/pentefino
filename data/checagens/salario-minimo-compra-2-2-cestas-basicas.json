@@ -38,7 +38,8 @@
   "explicacao_completa_md": "## Os números\n\nA Lupa, com cálculo da Folha/4intelligence sobre dados do DIEESE, apurou 1,62 cesta em ago/2022 e 1,8 em ago/2026. Pela série anual do DIEESE (média de cestas de São Paulo por mínimo): 2003 1,38 | 2010 2,06 | 2012 2,13 (máximo) | 2019 2,04 | 2020 1,88 | 2021 1,68 | 2022 1,59 (mínimo recente) | 2023 1,71 | 2024 1,74 | 2025 1,75 | jan/2026 1,93 (maior desde 2019). A cesta de São Paulo custava R$ 841,23 em nov/2025 e o mínimo de 2026 é R$ 1.621.\n\n## Leitura\n\nA tendência de recuperação é real (de 1,59-1,62 para 1,8-1,93), sustentada pelos ganhos reais de 2023-2026 e pela deflação de alimentos em 2025. Mas 2,2 cestas nunca foi alcançado na série do DIEESE — o máximo foi 2,13 em 2012 — e 1,8 em 2022 superestima o ponto de partida.",
   "o_que_e_verdade": [
     "O poder de compra do mínimo em cestas melhorou: de 1,62 (ago/2022) para 1,8 (ago/2026), ou de 1,59 (média 2022) para 1,93 (jan/2026).",
-    "O mínimo teve ganho real em 2023, 2024, 2025 e 2026, após quatro anos de reposição apenas da inflação."
+    "O mínimo teve ganho real em 2023, 2024, 2025 e 2026, após quatro anos de reposição apenas da inflação.",
+    "A relação entre o mínimo necessário do DIEESE e o mínimo vigente melhorou de 5,49 vezes (dez/2022) para 4,43 (jan/2026) e 4,78 (set/2026)."
   ],
   "o_que_nao_se_sustenta": [
     "Nenhuma medição do DIEESE mostra 2,2 cestas; o máximo histórico é 2,13 (2012).",
@@ -138,6 +139,70 @@
         "rotulo": "Mínimo de 2026",
         "valor": 1621
       }
+    },
+    {
+      "rotulo": "Custo da cesta básica de São Paulo",
+      "valor": 922.51,
+      "unidade": "R$",
+      "periodo": "set/2026",
+      "fonte": {
+        "nome": "DIEESE – Pesquisa Nacional da Cesta Básica de Alimentos, setembro/2026 (PDF, 09/10/2026)",
+        "url": "https://www.dieese.org.br/analisecestabasica/2026/202609cestabasica.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      "comparacao": {
+        "rotulo": "% do salário mínimo líquido",
+        "valor": 61.52
+      }
+    },
+    {
+      "rotulo": "Salário mínimo necessário (DIEESE)",
+      "valor": 7750.01,
+      "unidade": "R$",
+      "periodo": "set/2026",
+      "fonte": {
+        "nome": "DIEESE – Pesquisa Nacional da Cesta Básica de Alimentos, setembro/2026 (PDF, 09/10/2026)",
+        "url": "https://www.dieese.org.br/analisecestabasica/2026/202609cestabasica.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      "comparacao": {
+        "rotulo": "Em salários mínimos",
+        "valor": 4.78
+      }
+    },
+    {
+      "rotulo": "Razão salário mínimo necessário / salário mínimo",
+      "valor": 5.49,
+      "unidade": "vezes",
+      "periodo": "dez/2022",
+      "fonte": {
+        "nome": "DIEESE – Salário mínimo nominal e necessário (série mensal)",
+        "url": "https://www.dieese.org.br/analisecestabasica/salarioMinimo.html",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      "comparacao": {
+        "rotulo": "jan/2026",
+        "valor": 4.43
+      }
+    },
+    {
+      "rotulo": "Tempo médio de trabalho para comprar a cesta (27 capitais)",
+      "valor": 102.2,
+      "unidade": "horas",
+      "periodo": "set/2026",
+      "fonte": {
+        "nome": "DIEESE – Pesquisa Nacional da Cesta Básica de Alimentos, setembro/2026 (PDF, 09/10/2026)",
+        "url": "https://www.dieese.org.br/analisecestabasica/2026/202609cestabasica.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      "comparacao": {
+        "rotulo": "set/2025",
+        "valor": 99.9
+      }
     }
   ],
   "series": [
@@ -170,6 +235,18 @@
       "url": "https://www.dieese.org.br/notatecnica/2025/notaTec289salarioMinimo.pdf",
       "acesso_em": "2026-10-21",
       "tier": "academico"
+    },
+    {
+      "nome": "DIEESE – Pesquisa Nacional da Cesta Básica de Alimentos, setembro/2026 (PDF, 09/10/2026)",
+      "url": "https://www.dieese.org.br/analisecestabasica/2026/202609cestabasica.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    },
+    {
+      "nome": "DIEESE – Salário mínimo nominal e necessário (série mensal)",
+      "url": "https://www.dieese.org.br/analisecestabasica/salarioMinimo.html",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/03_emprego_renda_pobreza_social.md",
@@ -184,7 +261,7 @@
     },
     {
       "pergunta": "Qual seria o salário mínimo 'necessário'?",
-      "resposta": "O DIEESE calcula R$ 7.067,18 (nov/2025) para uma família de quatro pessoas, mais de quatro vezes o mínimo de 2026."
+      "resposta": "O DIEESE calcula R$ 7.750,01 em set/2026 (4,78 vezes o mínimo de R$ 1.621) para uma família de quatro pessoas; em dez/2022 a razão era 5,49, a pior da série recente."
     }
   ],
   "relacionadas": [
@@ -192,11 +269,18 @@
     "inflacao-dos-alimentos-disparou",
     "inflacao-de-2025-foi-a-menor-em-4-anos"
   ],
+  "lacunas": [
+    "Tempo médio de trabalho em horas (102h11m em set/2026; 99h53m em set/2025) foi convertido para decimal pela nota."
+  ],
   "atualizado_em": "2026-10-21",
   "changelog": [
     {
       "data": "2026-10-21",
       "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "enriquecimento rodada 2: cesta básica e mínimo necessário do DIEESE em set/2026, razão necessário/vigente por ano"
     }
   ],
   "exemplo": false

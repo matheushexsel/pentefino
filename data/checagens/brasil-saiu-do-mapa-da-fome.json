@@ -38,7 +38,7 @@
     "O Brasil havia saído do Mapa em 2014, voltou com os dados de 2020 a 2022, quando 3,5% da população estava subalimentada, e saiu de novo com o triênio 2022 a 2024.",
     "Como o triênio inclui 2022, último ano do governo Bolsonaro, e dois anos de Lula 3, nenhum dos lados pode reivindicar o indicador sozinho."
   ],
-  "explicacao_completa_md": "## O critério\n\nO Mapa da Fome da FAO usa a prevalência de subalimentação (PoU): abaixo de 2,5% da população, o país sai do Mapa. O Brasil saiu em 2014 (relatório SOFI 2014, dados de 2012-2014), voltou no triênio 2020-2022 (3,5%) e saiu novamente com o SOFI 2025 (lançado em 28/07/2025, triênio 2022-2024), permanecendo fora no SOFI 2026 (triênio 2023-2025).\n\n## Outros indicadores do SOFI 2026\n\n- Insegurança alimentar grave: 0,6% (1,2 milhão de pessoas), menor da série; 16,7 milhões saíram da insegurança grave.\n- Insegurança moderada ou grave: 9,6% (20,3 milhões), contra 22,1% em 2020-2022.\n- 21,1% (44,8 milhões) não podiam pagar uma dieta saudável em 2025, contra o pico de 31,1% (65,3 milhões) em 2021.\n\n## Fontes nacionais\n\nA Rede PENSSAN mediu 33,1 milhões (15,5%) em insegurança alimentar grave na coleta de nov/2021 a abr/2022; o IBGE (PNAD Contínua 2023) mediu 4,1% (8,7 milhões) — pesquisas diferentes, comparação indireta.\n\n## Ressalvas\n\nJosé Graziano (ex-FAO) afirma que o PoU 'não é o melhor indicador' para definir presença no Mapa. A Lupa classificou como EXAGERADO Lula dizer que 'acabou com a fome em 2014': sair do Mapa não é erradicar a fome.",
+  "explicacao_completa_md": "## O critério\n\nO Mapa da Fome da FAO usa a prevalência de subalimentação (PoU): abaixo de 2,5% da população, o país sai do Mapa. O Brasil saiu em 2014 (relatório SOFI 2014, dados de 2012-2014), voltou no triênio 2020-2022 (3,5%) e saiu novamente com o SOFI 2025 (lançado em 28/07/2025, triênio 2022-2024), permanecendo fora no SOFI 2026 (triênio 2023-2025).\n\n## Outros indicadores do SOFI 2026\n\n- Insegurança alimentar grave: 0,6% (1,2 milhão de pessoas), menor da série; 16,7 milhões saíram da insegurança grave.\n- Insegurança moderada ou grave: 9,6% (20,3 milhões), contra 22,1% em 2020-2022.\n- 21,1% (44,8 milhões) não podiam pagar uma dieta saudável em 2025, contra o pico de 31,1% (65,3 milhões) em 2021.\n\n## Fontes nacionais\n\nA Rede PENSSAN mediu 33,1 milhões (15,5%) em insegurança alimentar grave na coleta de nov/2021 a abr/2022; o IBGE (PNAD Contínua) mediu 4,1% dos domicílios em 2023 (4,0% das pessoas, 8,475 milhões), caindo a 3,2% dos domicílios e 3,1% das pessoas (6,483 milhões) em 2024 — pesquisas diferentes, comparação indireta.\n\n## Ressalvas\n\nJosé Graziano (ex-FAO) afirma que o PoU 'não é o melhor indicador' para definir presença no Mapa. A Lupa classificou como EXAGERADO Lula dizer que 'acabou com a fome em 2014': sair do Mapa não é erradicar a fome.",
   "o_que_e_verdade": [
     "O Brasil saiu do Mapa da Fome no SOFI 2025 (triênio 2022-2024) e permaneceu fora no SOFI 2026 (triênio 2023-2025).",
     "A insegurança alimentar grave caiu para 0,6% (1,2 milhão) em 2023-2025, menor da série da FAO; a moderada ou grave caiu de 22,1% para 9,6%.",
@@ -166,9 +166,9 @@
       }
     },
     {
-      "rotulo": "Insegurança alimentar grave (IBGE, PNAD Contínua)",
+      "rotulo": "Domicílios em insegurança alimentar grave (IBGE, PNAD Contínua)",
       "valor": 4.1,
-      "unidade": "% da população",
+      "unidade": "% dos domicílios",
       "periodo": "2023",
       "fonte": {
         "nome": "Monitor Mercantil – Situação de fome recua de 15,5% para 4,1% da população (IBGE, abr/2024)",
@@ -177,8 +177,56 @@
         "tier": "imprensa"
       },
       "comparacao": {
-        "rotulo": "Em milhões",
-        "valor": 8.7
+        "rotulo": "2024",
+        "valor": 3.2
+      }
+    },
+    {
+      "rotulo": "Pessoas em insegurança alimentar grave (IBGE, PNAD Contínua)",
+      "valor": 8.475,
+      "unidade": "milhões",
+      "periodo": "2023",
+      "fonte": {
+        "nome": "IBGE – SIDRA tabela 9751 (PNAD Contínua – Segurança Alimentar, moradores)",
+        "url": "https://apisidra.ibge.gov.br/values/t/9751/n1/all/v/10114,10117/p/all/c58/all/c12404/all",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "2024",
+        "valor": 6.483
+      }
+    },
+    {
+      "rotulo": "Pessoas em insegurança alimentar grave (IBGE)",
+      "valor": 3.1,
+      "unidade": "% da população",
+      "periodo": "2024",
+      "fonte": {
+        "nome": "IBGE – SIDRA tabela 9751 (PNAD Contínua – Segurança Alimentar, moradores)",
+        "url": "https://apisidra.ibge.gov.br/values/t/9751/n1/all/v/10114,10117/p/all/c58/all/c12404/all",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "2023",
+        "valor": 4.0
+      }
+    },
+    {
+      "rotulo": "Pobreza (US$ 6,85/dia, IBGE SIS 2025, Tabela 2.18)",
+      "valor": 23.11,
+      "unidade": "% da população",
+      "periodo": "2024",
+      "fonte": {
+        "nome": "IBGE – Síntese de Indicadores Sociais 2025, Tabelas de distribuição de renda (xls, FTP)",
+        "url": "https://ftp.ibge.gov.br/Indicadores_Sociais/Sintese_de_Indicadores_Sociais/Sintese_de_Indicadores_Sociais_2025/Tabelas/xls/2_Distribuicao_Renda_xls.zip",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "2021 (pico)",
+        "valor": 36.77
       }
     }
   ],
@@ -193,6 +241,12 @@
       "veredito_original": "EXAGERADO para 'acabei com a fome em 2014'; VERDADEIRO para '33 milhões passando fome' (PENSSAN 2022)",
       "url": "https://www.agencialupa.org/checagem/2026/10/15/ao-vivo-checagem-da-entrevista-de-lula-na-tv-globo/",
       "data": "2026-10-15"
+    },
+    {
+      "veiculo": "Lupa",
+      "veredito_original": "FALTA CONTEXTO para 'já vencemos a fome uma vez, tivemos que vencer outra vez' (Lula): SOFI 2025 e PNADC 2023-2024 (8,47 mi → 6,48 mi em insegurança grave)",
+      "url": "https://www.agencialupa.org/checagem/2026/10/04/apos-confirmacao-do-2o-turno-lula-erra-sobre-superavit-e-flavio-sobre-reeleicao-e-endividamento/",
+      "data": "2026-10-04"
     }
   ],
   "fontes": [
@@ -231,6 +285,24 @@
       "url": "https://www.agencialupa.org/checagem/2026/10/15/ao-vivo-checagem-da-entrevista-de-lula-na-tv-globo/",
       "acesso_em": "2026-10-21",
       "tier": "checagem"
+    },
+    {
+      "nome": "IBGE – SIDRA tabela 9751 (PNAD Contínua – Segurança Alimentar, moradores)",
+      "url": "https://apisidra.ibge.gov.br/values/t/9751/n1/all/v/10114,10117/p/all/c58/all/c12404/all",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "IBGE – Síntese de Indicadores Sociais 2025, Tabelas de distribuição de renda (xls, FTP)",
+      "url": "https://ftp.ibge.gov.br/Indicadores_Sociais/Sintese_de_Indicadores_Sociais/Sintese_de_Indicadores_Sociais_2025/Tabelas/xls/2_Distribuicao_Renda_xls.zip",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Lupa – Após confirmação do 2º turno, Lula erra sobre superávit e Flávio sobre reeleição e endividamento (04/10/2026)",
+      "url": "https://www.agencialupa.org/checagem/2026/10/04/apos-confirmacao-do-2o-turno-lula-erra-sobre-superavit-e-flavio-sobre-reeleicao-e-endividamento/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/03_emprego_renda_pobreza_social.md",
@@ -266,6 +338,10 @@
     {
       "data": "2026-10-21",
       "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "enriquecimento rodada 2: distinção domicílios x pessoas na PNADC-SA, dados de 2024 (6,48 mi), série oficial da SIS, Lupa 04/10"
     }
   ],
   "exemplo": false

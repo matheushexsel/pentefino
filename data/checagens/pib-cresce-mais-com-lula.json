@@ -38,7 +38,8 @@
   "explicacao_completa_md": "## Anos com crescimento acima de 3% (IBGE/BCB)\n\nDesde 2003: 2004 (5,76), 2005 (3,20), 2006 (3,96), 2007 (6,07), 2008 (5,09), 2010 (7,53), 2011 (3,97), 2013 (3,00), 2021 (4,76), 2022 (3,02), 2023 (3,24), 2024 (3,42). Quatro desses anos são posteriores a 2010 e não pertencem a governos Lula, incluindo 2021 e 2022 (Bolsonaro).\n\n## Médias por governo (cálculo da nota sobre a série SGS 7326)\n\n- Lula 1-2 (2003-2010): 4,08% (acumulado +37,8%)\n- Dilma (2011-2016): 0,43% (recessão de 2015-16)\n- Temer (2017-2018): 1,55%\n- Bolsonaro (2019-2022): 1,43% (inclui −3,28% da Covid)\n- Lula 3 (2023-2025): 2,98%; acumulado 4T2022→2T2026 +9,9%\n\n## Contexto\n\nO ciclo de commodities ajudou Lula 1-2; a pandemia derrubou 2020; 2021 foi recuperação. Em 2026 o ritmo desacelera: +1,9% acumulado em quatro trimestres até o 2T2026, Focus de 1,83% e FMI de 2,2%. A Lupa classificou a frase como FALSO em duas ocasiões (14/04 e 01/10/2026).",
   "o_que_e_verdade": [
     "A média de crescimento dos governos Lula (4,08% em 2003-2010; 2,98% em 2023-2025) supera as de Dilma, Temer e Bolsonaro.",
-    "O PIB está em máxima histórica (2T2026) e cresceu 3,24% em 2023 e 3,42% em 2024."
+    "O PIB está em máxima histórica (2T2026) e cresceu 3,24% em 2023 e 3,42% em 2024.",
+    "O PIB per capita real só superou o nível de 2013 em 2024, onze anos depois; em 2023-2025 cresceu 2,6% ao ano em média, contra 0,9% em 2019-2022."
   ],
   "o_que_nao_se_sustenta": [
     "O PIB cresceu 3,97% em 2011 e 3,00% em 2013 (Dilma) e 4,76% em 2021 e 3,02% em 2022 (Bolsonaro).",
@@ -174,6 +175,54 @@
         "tier": "oficial"
       },
       "comparacao": null
+    },
+    {
+      "rotulo": "PIB per capita real, variação",
+      "valor": 3.0,
+      "unidade": "%",
+      "periodo": "2024",
+      "fonte": {
+        "nome": "IBGE – Contas Nacionais Trimestrais, 4º trimestre de 2024 (PDF)",
+        "url": "https://biblioteca.ibge.gov.br/visualizacao/periodicos/2121/cnt_2024_4tri.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "2025",
+        "valor": 1.9
+      }
+    },
+    {
+      "rotulo": "PIB per capita a preços de 2025 (IBGE, deflacionado pela nota)",
+      "valor": 59687,
+      "unidade": "R$",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "IBGE – SIDRA tabela 6784 (PIB per capita, variação em volume)",
+        "url": "https://apisidra.ibge.gov.br/values/t/6784/n1/all/v/9810,9812,9814,93/p/all?formato=json",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "2013 (só superado em 2024)",
+        "valor": 57455
+      }
+    },
+    {
+      "rotulo": "Média anual de variação real do PIB per capita em Lula 3 (cálculo da nota)",
+      "valor": 2.6,
+      "unidade": "% ao ano",
+      "periodo": "2023-2025",
+      "fonte": {
+        "nome": "IBGE – SIDRA tabela 6784 (PIB per capita, variação em volume)",
+        "url": "https://apisidra.ibge.gov.br/values/t/6784/n1/all/v/9810,9812,9814,93/p/all?formato=json",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "Bolsonaro 2019-2022",
+        "valor": 0.9
+      }
     }
   ],
   "series": [
@@ -191,6 +240,12 @@
       "veredito_original": "FALSO",
       "url": "https://www.agencialupa.org/checagem/2026/10/01/ao-vivo-checagem-da-entrevista-de-lula-no-flow/",
       "data": "2026-10-01"
+    },
+    {
+      "veiculo": "Estadão Verifica",
+      "veredito_original": "ENGANOSO para 'só voltou a crescer mais de 3,5% quando retornou' (PIB cresceu 4,6% em 2021, no governo Bolsonaro)",
+      "url": "https://www.estadao.com.br/estadao-verifica/checamos-o-debate-entre-lula-e-flavio-na-band/",
+      "data": "2026-10-18"
     }
   ],
   "fontes": [
@@ -223,6 +278,30 @@
       "url": "https://apisidra.ibge.gov.br/values/t/1621/n1/all/v/584/p/all/c11255/90707?formato=json",
       "acesso_em": "2026-10-21",
       "tier": "oficial"
+    },
+    {
+      "nome": "IBGE – Contas Nacionais Trimestrais, 4º trimestre de 2024 (PDF)",
+      "url": "https://biblioteca.ibge.gov.br/visualizacao/periodicos/2121/cnt_2024_4tri.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "IBGE – SIDRA tabela 6784 (PIB per capita, variação em volume)",
+      "url": "https://apisidra.ibge.gov.br/values/t/6784/n1/all/v/9810,9812,9814,93/p/all?formato=json",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Estadão Verifica – Checamos o debate entre Lula e Flávio na Band (18/10/2026)",
+      "url": "https://www.estadao.com.br/estadao-verifica/checamos-o-debate-entre-lula-e-flavio-na-band/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "IBGE – Contas Nacionais Trimestrais, 4º trimestre de 2025 (PDF)",
+      "url": "https://biblioteca.ibge.gov.br/visualizacao/periodicos/2121/cnt_2025_4tri.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/01_macroeconomia_por_governo.md",
@@ -243,13 +322,18 @@
   "relacionadas": [
     "lula-quebrou-o-brasil",
     "pib-industrial-cresceu-3-4",
-    "menor-desemprego-da-historia"
+    "menor-desemprego-da-historia",
+    "pib-so-cresce-mais-de-3-por-cento-comigo"
   ],
   "atualizado_em": "2026-10-21",
   "changelog": [
     {
       "data": "2026-10-21",
       "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "enriquecimento rodada 2: PIB per capita oficial 2024-2025, nível real vs 2013, Estadão Verifica 18/10"
     }
   ],
   "exemplo": false

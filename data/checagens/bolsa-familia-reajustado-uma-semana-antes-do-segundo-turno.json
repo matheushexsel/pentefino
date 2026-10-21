@@ -37,7 +37,7 @@
     "O reajuste repõe a inflação acumulada de março de 2023 a agosto de 2026 e custa R$ 5,8 bilhões em 2026 e R$ 22,7 bilhões por ano a partir de 2027, valor que não estava no orçamento de 2027.",
     "Em 2022 o governo Bolsonaro também elevou o então Auxílio Brasil para R$ 600 em agosto, por emenda constitucional válida só até dezembro."
   ],
-  "explicacao_completa_md": "## Os fatos\n\nO Decreto 13.120/2026 (17/09/2026) reajustou em 15,04% os componentes do Bolsa Família: Benefício de Renda de Cidadania de R$ 142 para R$ 164 por pessoa; Primeira Infância de R$ 150 para R$ 173; Variável Familiar de R$ 50 para R$ 58; piso de R$ 600 para R$ 691; benefício médio projetado de R$ 675 para R$ 777. Famílias: 19,3 milhões (ago/2026). O índice é o INPC acumulado de mar/2023 a ago/2026. Pagamentos a partir de 19/10/2026; o 2º turno foi marcado para 25/10/2026.\n\n## Custo e efeito\n\n- R$ 5,8 bilhões em 2026 e R$ 22 a 22,7 bilhões em 2027 (não previstos no PLOA 2027). O Ipea estima deterioração de R$ 27,8 bilhões frente ao PLOA com o reajuste e a proibição das bets, antes de compensações.\n- Simulação FGV IBRE: extrema pobreza (R$ 218) de 3,14% para 2,49% (~1,39 milhão de pessoas); ganho médio per capita de R$ 11,87 no Nordeste e R$ 2,65 no Sul.\n\n## Contexto\n\nCríticos falam em uso eleitoral; economistas observam que a inflação justificaria reajuste desde janeiro de 2026. Em 2022, a EC 123 elevou o Auxílio Brasil a R$ 600 em agosto, com validade até dezembro, e o Lupa classificou como EXAGERADO atribuir a Bolsonaro a consolidação dos R$ 600. 'Comprar votos' é um juízo de valor; o calendário e os custos são fatos.",
+  "explicacao_completa_md": "## Os fatos\n\nO Decreto 13.120/2026 (17/09/2026, DOU edição extra; efeitos financeiros a partir do mês seguinte) reajustou em 15,04% os componentes do Bolsa Família: Benefício de Renda de Cidadania de R$ 142 para R$ 164 por pessoa; Primeira Infância de R$ 150 para R$ 173; Variável Familiar de R$ 50 para R$ 58; piso de R$ 600 para R$ 691; benefício médio projetado de R$ 675 para R$ 777. Famílias: 19,3 milhões (ago/2026). O índice é o INPC acumulado de mar/2023 a ago/2026. Pagamentos a partir de 19/10/2026; o 2º turno foi marcado para 25/10/2026.\n\n## Custo e efeito\n\n- R$ 5,8 bilhões em 2026 e R$ 22 a 22,7 bilhões em 2027 (não previstos no PLOA 2027). O Ipea estima deterioração de R$ 27,8 bilhões frente ao PLOA com o reajuste e a proibição das bets, antes de compensações.\n- Simulação FGV IBRE: extrema pobreza (R$ 218) de 3,14% para 2,49% (~1,39 milhão de pessoas); ganho médio per capita de R$ 11,87 no Nordeste e R$ 2,65 no Sul.\n\n## Contexto\n\nCríticos falam em uso eleitoral; economistas observam que a inflação justificaria reajuste desde janeiro de 2026. Em 2022, a EC 123 elevou o Auxílio Brasil a R$ 600 em agosto, com validade até dezembro, e o Lupa classificou como EXAGERADO atribuir a Bolsonaro a consolidação dos R$ 600. 'Comprar votos' é um juízo de valor; o calendário e os custos são fatos.",
   "o_que_e_verdade": [
     "O pagamento do piso de R$ 691 começou em 19/10/2026, uma semana antes do 2º turno (25/10/2026).",
     "O reajuste foi o primeiro aumento geral desde 2023 e seu custo anual de R$ 22,7 bilhões não constava do PLOA 2027.",
@@ -46,7 +46,8 @@
   "o_que_nao_se_sustenta": [
     "O decreto é de 17/09/2026 e o índice (15,04%) apenas repõe o INPC acumulado desde mar/2023; não houve ganho real.",
     "O precedente de 2022 (Auxílio Brasil de R$ 600 em agosto de ano eleitoral, por EC 123) mostra que a prática não é exclusiva de um lado.",
-    "Qualificar o reajuste como 'compra de votos' é opinião; os dados mostram efeito concentrado nos dois décimos mais pobres."
+    "Qualificar o reajuste como 'compra de votos' é opinião; os dados mostram efeito concentrado nos dois décimos mais pobres.",
+    "A Lei 14.601/2023 manda revisar os valores a cada 24 meses no máximo; o governo levou 43 meses, de modo que o reajuste era devido desde 2025, independentemente do calendário eleitoral."
   ],
   "quem_e_responsavel": [
     {
@@ -72,10 +73,10 @@
       "unidade": "%",
       "periodo": "out/2026",
       "fonte": {
-        "nome": "O Povo – Bolsa Família sobe 15% em outubro; mínimo vai a R$ 691 (21/09/2026)",
-        "url": "https://www.opovo.com.br/trends/bolsa-familia-sobe-15-em-outubro-minimo-vai-a-r-691-e-valor-medio-projetado-chega-a-r-777/",
+        "nome": "Planalto – Decreto 13.120/2026 (reajuste do Bolsa Família)",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/decreto/D13120.htm",
         "acesso_em": "2026-10-21",
-        "tier": "imprensa"
+        "tier": "oficial"
       },
       "comparacao": {
         "rotulo": "Novo piso (R$)",
@@ -88,10 +89,10 @@
       "unidade": "R$",
       "periodo": "out/2026",
       "fonte": {
-        "nome": "Blog do IBRE/FGV – Vitor Hugo Miro, simulação do reajuste do Bolsa Família (06/10/2026)",
-        "url": "https://blogdoibre.fgv.br/node/2410",
+        "nome": "Planalto – Decreto 13.120/2026 (reajuste do Bolsa Família)",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/decreto/D13120.htm",
         "acesso_em": "2026-10-21",
-        "tier": "academico"
+        "tier": "oficial"
       },
       "comparacao": {
         "rotulo": "Antes",
@@ -181,6 +182,54 @@
         "tier": "imprensa"
       },
       "comparacao": null
+    },
+    {
+      "rotulo": "Intervalo máximo entre reajustes previsto na Lei 14.601/2023",
+      "valor": 24,
+      "unidade": "meses",
+      "periodo": "regra legal",
+      "fonte": {
+        "nome": "Planalto – Lei 14.601/2023 (Programa Bolsa Família)",
+        "url": "https://www.planalto.gov.br/ccivil_03/_Ato2023-2026/2023/Lei/L14601.htm",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "Intervalo efetivo (meses)",
+        "valor": 43
+      }
+    },
+    {
+      "rotulo": "Famílias beneficiárias em dezembro",
+      "valor": 18618236,
+      "unidade": "famílias",
+      "periodo": "dez/2025",
+      "fonte": {
+        "nome": "Ipeadata – FAM_PBF, famílias beneficiárias do Bolsa Família em dezembro (MDS/Portal da Transparência)",
+        "url": "http://www.ipeadata.gov.br/api/odata4/ValoresSerie(SERCODIGO='FAM_PBF')",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "dez/2022",
+        "valor": 20975152
+      }
+    },
+    {
+      "rotulo": "Despesa com Bolsa Família sujeita ao limite (IFI)",
+      "valor": 155.8,
+      "unidade": "R$ bilhões",
+      "periodo": "2026",
+      "fonte": {
+        "nome": "IFI – Relatório de Acompanhamento Fiscal nº 116 (set/2026)",
+        "url": "https://www12.senado.leg.br/ifi/pdf/raf116_set2026.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "PLOA 2027 (antes do reajuste)",
+        "valor": 157.1
+      }
     }
   ],
   "series": [
@@ -237,6 +286,30 @@
       "url": "https://www.bahianoticias.com.br/noticia/322401-flavio-bolsonaro-critica-proposta-de-pix-para-meis-e-acusa-lula-de-tentar-comprar-o-voto-das-pessoas",
       "acesso_em": "2026-10-21",
       "tier": "imprensa"
+    },
+    {
+      "nome": "Planalto – Decreto 13.120/2026 (reajuste do Bolsa Família)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/decreto/D13120.htm",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Planalto – Lei 14.601/2023 (Programa Bolsa Família)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_Ato2023-2026/2023/Lei/L14601.htm",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Ipeadata – FAM_PBF, famílias beneficiárias do Bolsa Família em dezembro (MDS/Portal da Transparência)",
+      "url": "http://www.ipeadata.gov.br/api/odata4/ValoresSerie(SERCODIGO='FAM_PBF')",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "IFI – Relatório de Acompanhamento Fiscal nº 116 (set/2026)",
+      "url": "https://www12.senado.leg.br/ifi/pdf/raf116_set2026.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/03_emprego_renda_pobreza_social.md",
@@ -269,6 +342,10 @@
     {
       "data": "2026-10-21",
       "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "enriquecimento rodada 2: Decreto 13.120 no Planalto, regra de 24 meses da Lei 14.601, famílias dez/2025, despesa 2026 (IFI)"
     }
   ],
   "exemplo": false

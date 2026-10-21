@@ -51,8 +51,9 @@
   "o_que_nao_se_sustenta": [
     "Não há calote, hiperinflação, crise cambial, depressão nem rating de default — os critérios objetivos de 'quebra'.",
     "O PIB real está em máxima histórica (2T2026) e cresceu em média 3,0% ao ano em 2023-2025, segunda melhor média desde 2003.",
-    "O desemprego está na mínima da série da PNAD Contínua (5,3%) e o Ibovespa bateu recorde nominal em 19/10/2026.",
-    "As reservas internacionais (US$ 362,8 bilhões) estão estáveis e as exportações bateram recorde em 2025."
+    "O desemprego está na mínima da série da PNAD Contínua (5,3%) e o Ibovespa bateu recorde nominal em 20/10/2026 (208.296 pontos).",
+    "As reservas internacionais (US$ 362,8 bilhões) estão estáveis e as exportações bateram recorde em 2025.",
+    "Pela datação oficial do CODACE/FGV, o Brasil está em expansão desde o 3T2020 e nenhuma recessão foi datada em Lula 3; o PIB per capita real só superou o nível de 2013 em 2024."
   ],
   "quem_e_responsavel": [
     {
@@ -188,16 +189,19 @@
     },
     {
       "rotulo": "Ibovespa (fechamento)",
-      "valor": 205079,
+      "valor": 208296,
       "unidade": "pontos",
-      "periodo": "19/10/2026 (recorde nominal)",
+      "periodo": "20/10/2026 (recorde nominal)",
       "fonte": {
         "nome": "Ipeadata – Ibovespa fechamento (GM366_IBVSP366)",
         "url": "http://www.ipeadata.gov.br/api/odata4/ValoresSerie(SERCODIGO='GM366_IBVSP366')",
         "acesso_em": "2026-10-21",
         "tier": "oficial"
       },
-      "comparacao": null
+      "comparacao": {
+        "rotulo": "19/10/2026",
+        "valor": 205079
+      }
     },
     {
       "rotulo": "Juro real ex-post (Selic 12 meses deflacionada pelo IPCA, cálculo da nota)",
@@ -211,6 +215,86 @@
         "tier": "oficial"
       },
       "comparacao": null
+    },
+    {
+      "rotulo": "Trimestres de recessão datados pelo CODACE/FGV em 2023-2026",
+      "valor": 0,
+      "unidade": "trimestres",
+      "periodo": "último comunicado: 02/02/2023 (expansão desde o 3T2020)",
+      "fonte": {
+        "nome": "CODACE/FGV IBRE – Comunicado de datação de ciclos econômicos (02/02/2023, PDF)",
+        "url": "https://portalibre.fgv.br/sites/default/files/2023-02/comunicado-do-comite-de-datacao-de-ciclos-economicos-31_01_2023_minuta.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      "comparacao": {
+        "rotulo": "Recessão 2014-2016 (trimestres)",
+        "valor": 11
+      }
+    },
+    {
+      "rotulo": "Queda do PIB pico-vale na recessão de 2014-2016 (CODACE)",
+      "valor": -8.1,
+      "unidade": "%",
+      "periodo": "2T2014-4T2016",
+      "fonte": {
+        "nome": "CODACE/FGV IBRE – Comunicado de datação de ciclos econômicos (02/02/2023, PDF)",
+        "url": "https://portalibre.fgv.br/sites/default/files/2023-02/comunicado-do-comite-de-datacao-de-ciclos-economicos-31_01_2023_minuta.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      "comparacao": {
+        "rotulo": "Pandemia (1T-2T2020)",
+        "valor": -10.7
+      }
+    },
+    {
+      "rotulo": "Juro real ex-ante (Focus, cálculo da nota)",
+      "valor": 9.3,
+      "unidade": "% ao ano",
+      "periodo": "dez/2024 (maior desde dez/2005)",
+      "fonte": {
+        "nome": "Banco Central do Brasil – SGS 4390 (Selic acumulada no mês)",
+        "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.4390/dados?formato=json",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "dez/2025",
+        "valor": 7.9
+      }
+    },
+    {
+      "rotulo": "PIB per capita real, variação",
+      "valor": 1.9,
+      "unidade": "%",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "IBGE – Contas Nacionais Trimestrais, 4º trimestre de 2025 (PDF)",
+        "url": "https://biblioteca.ibge.gov.br/visualizacao/periodicos/2121/cnt_2025_4tri.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "2024",
+        "valor": 3.0
+      }
+    },
+    {
+      "rotulo": "Dívida bruta na metodologia antiga do BCB (inclui títulos no BC)",
+      "valor": 94.54,
+      "unidade": "% do PIB",
+      "periodo": "ago/2026",
+      "fonte": {
+        "nome": "Banco Central do Brasil – SGS 4537 (DBGG % PIB, metodologia antiga até 2007)",
+        "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.4537/dados?formato=json&dataInicial=01/12/2001&dataFinal=31/12/2010",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "dez/2002",
+        "valor": 76.1
+      }
     }
   ],
   "series": [
@@ -242,6 +326,18 @@
       "veredito_original": "Contextualizou 'está todo mundo quebrando' (Renan Santos) com dados da Serasa, sem rótulo",
       "url": "https://www.aosfatos.org/noticias/checamos-debate-presidencial-band/",
       "data": "2026-08-23"
+    },
+    {
+      "veiculo": "Estadão Verifica",
+      "veredito_original": "25 checagens do debate da Band, nenhuma sobre a frase 'quebrou o Brasil'; itens correlatos: 'recorde de empresas fechando' (Flávio) = falta contexto; grau de investimento e FMI (Lula) = verdadeiro",
+      "url": "https://www.estadao.com.br/estadao-verifica/checamos-o-debate-entre-lula-e-flavio-na-band/",
+      "data": "2026-10-18"
+    },
+    {
+      "veiculo": "Aos Fatos",
+      "veredito_original": "FALSO para '8.000 empresas faliram em junho' (post compartilhado pelo senador Márcio Bittar, PL-AC)",
+      "url": "https://www.aosfatos.org/noticias/8000-empresas-faliram-brasil-junho/",
+      "data": "2026-08-24"
     }
   ],
   "fontes": [
@@ -316,6 +412,48 @@
       "url": "https://www.bcb.gov.br/publicacoes/atascopom/16092026",
       "acesso_em": "2026-10-21",
       "tier": "oficial"
+    },
+    {
+      "nome": "CODACE/FGV IBRE – Comunicado de datação de ciclos econômicos (02/02/2023, PDF)",
+      "url": "https://portalibre.fgv.br/sites/default/files/2023-02/comunicado-do-comite-de-datacao-de-ciclos-economicos-31_01_2023_minuta.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    },
+    {
+      "nome": "IBGE – Contas Nacionais Trimestrais, 4º trimestre de 2025 (PDF)",
+      "url": "https://biblioteca.ibge.gov.br/visualizacao/periodicos/2121/cnt_2025_4tri.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Banco Central do Brasil – SGS 4537 (DBGG % PIB, metodologia antiga até 2007)",
+      "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.4537/dados?formato=json&dataInicial=01/12/2001&dataFinal=31/12/2010",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Estadão Verifica – Checamos o debate entre Lula e Flávio na Band (18/10/2026)",
+      "url": "https://www.estadao.com.br/estadao-verifica/checamos-o-debate-entre-lula-e-flavio-na-band/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Aos Fatos – É falso que 8.000 empresas faliram no Brasil em junho (24/08/2026)",
+      "url": "https://www.aosfatos.org/noticias/8000-empresas-faliram-brasil-junho/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "FX Empire – histórico de ratings soberanos do Brasil (agregador, 2017-2026)",
+      "url": "https://fxempire.com/macro/credit-ratings/brazil",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "IBGE – Contas Nacionais Trimestrais, 4º trimestre de 2024 (PDF)",
+      "url": "https://biblioteca.ibge.gov.br/visualizacao/periodicos/2121/cnt_2024_4tri.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/01_macroeconomia_por_governo.md",
@@ -347,15 +485,19 @@
     "esta-todo-mundo-quebrando"
   ],
   "lacunas": [
-    "Data e local exatos da declaração de Flávio Bolsonaro não verificados nas notas; nenhuma checagem da frase literal foi localizada (Aos Fatos, Lupa, Comprova).",
-    "Histórico de ratings (datas e letras) é dado de memória da nota, não confirmado em fonte primária.",
-    "Juro real de ~9,5% é cálculo próprio da nota a partir das séries SGS 4390 e 13522."
+    "Data e local exatos da declaração de Flávio Bolsonaro não verificados; buscas internas em Aos Fatos, Comprova e Estadão Verifica (21/10/2026) não localizaram checagem da frase literal.",
+    "Ratings: datas-dia de 2008-2016 seguem sem fonte primária (anos e meses corroborados por Estadão Verifica e imprensa); 2017-2025 com datas via agregador FX Empire (fonte secundária).",
+    "Juro real ex-post (~9,5%) e ex-ante (9,3% em dez/2024) são cálculos próprios da nota a partir de SGS 4390/13522 e do Focus."
   ],
   "atualizado_em": "2026-10-21",
   "changelog": [
     {
       "data": "2026-10-21",
       "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "enriquecimento rodada 2: Ibovespa 208.296 (20/10), datação CODACE, juro real ex-ante, PIB per capita oficial, DBGG metodologia antiga, novas checagens, lacunas atualizadas"
     }
   ],
   "exemplo": false
