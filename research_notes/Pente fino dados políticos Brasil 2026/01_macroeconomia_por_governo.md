@@ -426,3 +426,285 @@ Fontes: todas as linhas remetem às tabelas 1–6 desta nota e respectivas URLs 
 ### Gaps
 - Checagens das agências (Aos Fatos, Lupa, Comprova, Estadão Verifica, AFP Checamos, g1 Fato ou Fake) sobre a frase literal "Lula quebrou o Brasil"/"quebrou o país" NÃO foram localizadas: o orçamento de buscas na web desta sessão estava esgotado, o site da Lupa e o AFP Checamos bloquearam o acesso, e as páginas de busca de Aos Fatos e Comprova não retornaram itens com essa frase. As checagens mais próximas encontradas (Aos Fatos, 18 e 20/10/2026) tratam das afirmações de Flávio Bolsonaro no debate da Band (dívida de R$ 11 tri: correto; recorde de empresas fechadas: falso; juros caíram 2%: incorreto) — [Aos Fatos, debate Band](https://www.aosfatos.org/noticias/checamos-lula-flavio-bolsonaro-debate-band/); [Aos Fatos, falências](https://www.aosfatos.org/noticias/flavio-bolsonaro-mente-recorde-falencias-empresas/). No debate anterior da Band (23/08/2026, sem Lula e Flávio), Renan Santos disse "Está todo mundo quebrando" e Aos Fatos contextualizou com dados da Serasa (recorde de recuperações judiciais em 2025, falências em queda), sem rótulo de veredito — [Aos Fatos, 23/08/2026](https://www.aosfatos.org/noticias/checamos-debate-presidencial-band/).
 - Não foi verificada a data/local exato em que Flávio Bolsonaro disse "o Lula quebrou o Brasil"; o pesquisador que usar esta nota deve localizar a declaração original (vídeo/transcrição) antes de contrapor os números.
+
+
+---
+
+## Enriquecimento — rodada 2 (21/10/2026)
+
+Rodada de aprofundamento sobre as lacunas listadas nas seções 1–11 acima e nos campos `lacunas`/`nao_verificado`/`intervalo_nao_verificado` dos arquivos `data/governos.json` e `data/series/*.json` (pib-anual, ipca-meta-e-teto, selic-fim-de-ano, cambio-fim-de-periodo, divida-bruta-pib, risco-pais-embi, ibovespa-fim-de-ano, pib-per-capita-reais, ranking-pib-mundial). Nada do texto anterior foi alterado; os arquivos em `data/` também não foram editados — as correções sugeridas estão listadas para aplicação pelo mantenedor. Todas as consultas desta rodada foram feitas em 21/10/2026. Convenção: "cálculo próprio" indica agregação feita nesta nota a partir de dados oficiais (p.ex. soma de meses, encadeamento de índices).
+
+### Lacunas fechadas
+
+**(a) Histórico de rating soberano — parcialmente fechado (2017–2025 com datas exatas; 2008–2016 só corroborado em fonte secundária).**
+- A página do Tesouro Nacional "Classificação de risco" ([tesourotransparente.gov.br/temas/divida-publica-federal/classificacao-de-risco](https://www.tesourotransparente.gov.br/temas/divida-publica-federal/classificacao-de-risco)) respondeu HTTP 429 ("Muitas Requisições Detectadas") em quatro tentativas espaçadas; as páginas em gov.br/tesouronacional retornaram 404; as APIs da Moody's e da S&P retornaram 403; a página da Fitch carregou (1,8 MB) mas o histórico é renderizado em JavaScript. Portanto, a tabela abaixo combina: (i) agregador FX Empire (fonte secundária, histórico a partir de mar/2017) — [fxempire.com/macro/credit-ratings/brazil](https://fxempire.com/macro/credit-ratings/brazil); (ii) Estadão Verifica, 18/10/2026, que classificou como "verdadeiro" que o Brasil recebeu o grau de investimento "em 2008 ... das agências internacionais Fitch Ratings e S&P. Em 2009, o selo foi concedido pela agência Moody's" — [Estadão Verifica](https://www.estadao.com.br/estadao-verifica/checamos-o-debate-entre-lula-e-flavio-na-band/).
+
+| Data | Agência | De → Para (nota/perspectiva) | Governo | Fonte |
+|---|---|---|---|---|
+| abr/2008 | S&P | BB+ → BBB− (grau de investimento) | Lula 2 | ano/mês: Estadão Verifica; dia exato (30/04/2008, memória) não confirmado |
+| mai/2008 | Fitch | BB+ → BBB− (grau de investimento) | Lula 2 | idem (29/05/2008 não confirmado) |
+| set/2009 | Moody's | Ba1 → Baa3 (grau de investimento) | Lula 2 | idem (22/09/2009 não confirmado) |
+| set/2015 | S&P | BBB− → BB+ (perda do grau) | Dilma 2 | mês corroborado em fontes de imprensa listadas na busca; dia (09/09/2015) não confirmado |
+| dez/2015 | Fitch | BBB− → BB+ (perda do grau) | Dilma 2 | idem (16/12/2015 não confirmado) |
+| fev/2016 | S&P | BB+ → BB | Dilma 2 | idem (17/02/2016 não confirmado) |
+| fev/2016 | Moody's | Baa3 → Ba2 (perda do grau; dois degraus) | Dilma 2 | idem (24/02/2016 não confirmado) |
+| mai/2016 | Fitch | BB+ → BB | Dilma 2 | idem (05/05/2016 não confirmado) |
+| 15/03/2017 | Moody's | Ba2 negativa → Ba2 estável | Temer | FX Empire |
+| 22/05/2017 | S&P | BB negativa → BB (CreditWatch negativo) | Temer | FX Empire |
+| 26/05/2017 | Moody's | Ba2 estável → Ba2 negativa | Temer | FX Empire |
+| 15/08/2017 | S&P | BB CreditWatch → BB negativa | Temer | FX Empire |
+| 11/01/2018 | S&P | BB → BB− estável | Temer | FX Empire |
+| 23/02/2018 | Fitch | BB → BB− estável | Temer | FX Empire |
+| 09/04/2018 | Moody's | Ba2 negativa → Ba2 estável | Temer | FX Empire |
+| 11/12/2019 | S&P | BB− estável → BB− positiva | Bolsonaro | FX Empire |
+| 06/04/2020 | S&P | BB− positiva → BB− estável | Bolsonaro | FX Empire |
+| 05/05/2020 | Fitch | BB− estável → BB− negativa | Bolsonaro | FX Empire |
+| 15/07/2022 | Fitch | BB− negativa → BB− estável | Bolsonaro | FX Empire |
+| 14/06/2023 | S&P | BB− estável → BB− positiva | Lula 3 | FX Empire |
+| 26/07/2023 | Fitch | BB− → BB estável (upgrade) | Lula 3 | FX Empire |
+| 19/12/2023 | S&P | BB− → BB estável (upgrade) | Lula 3 | FX Empire |
+| 01/05/2024 | Moody's | Ba2 estável → Ba2 positiva | Lula 3 | FX Empire |
+| 01/10/2024 | Moody's | Ba2 → Ba1 positiva (upgrade) | Lula 3 | FX Empire |
+| 30/05/2025 | Moody's | Ba1 positiva → Ba1 estável | Lula 3 | FX Empire |
+| out/2026 (vigente) | S&P BB estável; Fitch BB estável; Moody's Ba1 estável | — | — | FX Empire |
+
+- Leitura para a seção 5 e para `data/series/risco-pais-embi.json` (`notas_metodologicas`): confirma-se que não houve rebaixamento de nota por nenhuma das três agências em Lula 3 (2023–out/2026); houve dois upgrades em 2023 (Fitch, S&P), um em 2024 (Moody's) e uma piora de perspectiva (Moody's, positiva → estável, 30/05/2025). Os únicos rebaixamentos de nota no período 2017–2025 ocorreram em jan–fev/2018 (Temer), quando S&P e Fitch levaram o país a BB−. As datas exatas de 2008–2016 continuam pendentes de fonte primária (ver "Lacunas que permanecem").
+
+**(b) Intervalos de tolerância da meta de inflação por ano — FECHADO em fonte primária.** O conteúdo da página oficial "Histórico: meta de inflação vs. inflação efetiva" foi obtido pelo endpoint de conteúdo do site do BC — [bcb.gov.br/api/paginasite/sitebcb/controleinflacao/historicometas](https://www.bcb.gov.br/api/paginasite/sitebcb/controleinflacao/historicometas) (mesmo conteúdo de [bcb.gov.br/controleinflacao/historicometas](https://www.bcb.gov.br/controleinflacao/historicometas)). Tabela oficial (ano, norma, data, meta, intervalo, IPCA, carta aberta):
+
+| Ano | Norma (CMN) | Data | Meta (%) | ± (p.p.) | Intervalo (%) | IPCA (%) | Carta aberta |
+|---|---|---|---|---|---|---|---|
+| 2003 | Res. 2.972 (revisou Res. 2.842 de 28/6/2001, que previa 3,25 ±2) | 27/6/2002 | 4,0 | 2,5 | 1,5–6,5 | 9,30 | Sim (21/1/2003, metas ajustadas 8,5% p/ 2003 e 5,5% p/ 2004) |
+| 2004 | Res. 3.108 (revisou Res. 2.972, que previa 3,75 ±2,5) | 25/6/2003 | 5,5 | 2,5 | 3–8 | 7,60 | Não |
+| 2005 | Res. 3.108 | 25/6/2003 | 4,5 | 2,5 | 2–7 | 5,69 | Não |
+| 2006 | Res. 3.210 | 30/6/2004 | 4,5 | 2,0 | 2,5–6,5 | 3,14 | Não |
+| 2007 | Res. 3.291 | 23/6/2005 | 4,5 | 2,0 | 2,5–6,5 | 4,46 | Não |
+| 2008 | Res. 3.378 | 29/6/2006 | 4,5 | 2,0 | 2,5–6,5 | 5,90 | Não |
+| 2009 | Res. 3.463 | 26/6/2007 | 4,5 | 2,0 | 2,5–6,5 | 4,31 | Não |
+| 2010 | Res. 3.584 | 01/7/2008 | 4,5 | 2,0 | 2,5–6,5 | 5,91 | Não |
+| 2011 | Res. 3.748 | 30/6/2009 | 4,5 | 2,0 | 2,5–6,5 | 6,50 | Não |
+| 2012 | Res. 3.880 | 22/6/2010 | 4,5 | 2,0 | 2,5–6,5 | 5,84 | Não |
+| 2013 | Res. 3.991 | 30/6/2011 | 4,5 | 2,0 | 2,5–6,5 | 5,91 | Não |
+| 2014 | Res. 4.095 | 28/6/2012 | 4,5 | 2,0 | 2,5–6,5 | 6,41 | Não |
+| 2015 | Res. 4.237 | 28/6/2013 | 4,5 | 2,0 | 2,5–6,5 | 10,67 | Sim |
+| 2016 | Res. 4.345 | 25/6/2014 | 4,5 | 2,0 | 2,5–6,5 | 6,29 | Não |
+| 2017 | Res. 4.419 | 25/6/2015 | 4,5 | 1,5 | 3,0–6,0 | 2,95 | Sim |
+| 2018 | Res. 4.499 | 30/6/2016 | 4,5 | 1,5 | 3,0–6,0 | 3,75 | Não |
+| 2019 | Res. 4.582 | 29/6/2017 | 4,25 | 1,5 | 2,75–5,75 | 4,31 | Não |
+| 2020 | Res. 4.582 | 29/6/2017 | 4,00 | 1,5 | 2,50–5,50 | 4,52 | Não |
+| 2021 | Res. 4.671 | 26/6/2018 | 3,75 | 1,5 | 2,25–5,25 | 10,06 | Sim |
+| 2022 | Res. 4.724 | 27/6/2019 | 3,50 | 1,5 | 2,00–5,00 | 5,79 | Sim |
+| 2023 | Res. 4.831 | 25/6/2020 | 3,25 | 1,5 | 1,75–4,75 | 4,62 | Não |
+| 2024 | Res. 4.918 | 24/6/2021 | 3,00 | 1,5 | 1,50–4,50 | 4,83 | Sim |
+| 2025– (contínua) | Res. 5.141 (revogou Res. 5.018 e 5.091, que fixavam 2025 e 2026) | 26/6/2024 | 3,00 | 1,5 | 1,50–4,50 | — | ver (b2) |
+
+- Texto oficial: "No período de 1999 a 2024 ... a inflação ficou fora do intervalo de tolerância em oito anos: 2001, 2002, 2003, 2015, 2017, 2021, 2022 e 2024." A meta contínua "é de 3,00%, com intervalo de tolerância de ±1,5 ponto percentual, considerando-se descumprida quando a inflação se desviar por seis meses consecutivos da faixa do intervalo de tolerância" — mesma fonte.
+- Efeito: todos os pisos/tetos da Tabela 3 desta nota e de `data/series/ipca-meta-e-teto.json` estão corretos; o flag `intervalo_nao_verificado: true` (24 pontos) e `nao_verificado: true` podem ser removidos, e a `fonte` pode passar a citar a página oficial acima. Observação de precisão: a norma da meta de 2024 é a Resolução CMN nº 4.918 (24/6/2021).
+
+**(b2) Carta aberta de descumprimento da meta de 2025 — FECHADO.** O Relatório de Política Monetária de setembro de 2025 (p. 103, "Nota sobre o descumprimento da meta para a inflação") registra: "Em junho de 2025, a inflação acumulada em doze meses ... atingiu 5,35% e ultrapassou o limite superior de tolerância de 4,5% ... caracterizando-se assim descumprimento da meta para a inflação" e, em nota de rodapé: "O descumprimento da meta foi formalizado em carta aberta divulgada publicamente em 10 de julho de 2025" — [BCB, RPM set/2025 (PDF)](https://www.bcb.gov.br/content/ri/relatorioinflacao/202509/rpm202509p.pdf). O RPM de junho de 2025 já antecipava: "se caracterizará descumprimento da meta ... e será necessária a publicação das razões ... por meio de nota neste Relatório e de carta aberta ao MF" — [BCB, RPM jun/2025 (PDF)](https://www.bcb.gov.br/content/ri/relatorioinflacao/202506/rpm202506p.pdf). Lista de RPMs: [API BCB rpm/relatorios](https://www.bcb.gov.br/api/servico/sitebcb/rpm/relatorios?quantidade=8). Fecha a lacuna da seção 2 e de `ipca-meta-e-teto.json` ("Não verificado se/quando o BC publicou carta aberta"). Data a registrar: **10/07/2025** (Gabriel Galípolo ao Ministro da Fazenda). Observação: a Tabela 3 diz que o 6º mês foi "jun/2025"; o BC confirma (jan–jun/2025 fora da faixa; IPCA 12m de jun/2025 = 5,35%).
+
+**(c) CDS 5 anos e EMBI+ 2024–2026 — parcialmente fechado (CDS via imprensa; EMBI+ permanece sem fonte).**
+- Ipeadata JPM366_EMBI366 reconfirmado em 21/10/2026: última observação 30/07/2024 = 228 pb; em 2024 (145 obs.), mínimo 186 pb (16/01/2024) e máximo 238 pb (02/07/2024) — [Ipeadata](http://www.ipeadata.gov.br/api/odata4/ValoresSerie(SERCODIGO='JPM366_EMBI366')). Nenhuma outra série de EMBI/CDS foi localizada no catálogo OData do Ipeadata (consulta a `Metadados` com filtro por nome não retornou itens).
+- CDS Brasil 5 anos (Poder360, fonte dos números não identificada no texto — tratar como secundário): 08/05/2026 = 116 pb, "menor nível no 3º mandato de Lula" e "menor patamar desde fevereiro de 2020"; 15/05/2026 = 121 pb; 08/05/2025 = 178 pb; 15/05/2025 = 165 pb; pico de Lula 3 "próximo de 280 pontos" em mar/2023 (crise do SVB); mínimo do governo Bolsonaro 93 pb em fev/2020 — [Poder360, 09/05/2026](https://www.poder360.com.br/poder-economia/risco-brasil-registra-116-pontos-menor-nivel-no-3o-mandato-de-lula/); [Poder360, 16/05/2026](https://www.poder360.com.br/poder-economia/depois-de-minima-risco-brasil-volta-a-subir-sob-lula/). Não foi localizado valor de ago–out/2026.
+
+**(d) Selic (meta) vigente em 31/12 de cada ano, 2003–2025 — FECHADO em fonte primária.** Série diária SGS 432 baixada em janelas de 5 anos (a API recusa janelas de 10 anos) — [2003–2012](https://api.bcb.gov.br/dados/serie/bcdata.sgs.432/dados?formato=json&dataInicial=01/01/2003&dataFinal=31/12/2012), [2013–2017](https://api.bcb.gov.br/dados/serie/bcdata.sgs.432/dados?formato=json&dataInicial=01/01/2013&dataFinal=31/12/2017), [2018–2022](https://api.bcb.gov.br/dados/serie/bcdata.sgs.432/dados?formato=json&dataInicial=01/01/2018&dataFinal=31/12/2022), [2023–2026](https://api.bcb.gov.br/dados/serie/bcdata.sgs.432/dados?formato=json&dataInicial=01/01/2023&dataFinal=21/10/2026); número/data da reunião do Copom pelo histórico oficial — [BCB historicotaxasjuros](https://www.bcb.gov.br/api/servico/sitebcb/historicotaxasjuros).
+
+| Ano | Selic em 31/12 (% a.a.) | Vigente desde | Reunião do Copom | Ano | Selic em 31/12 | Vigente desde | Reunião |
+|---|---|---|---|---|---|---|---|
+| 2003 | 16,50 | 18/12/2003 | 91ª (17/12/2003) | 2015 | 14,25 | 30/07/2015 (reafirmada 26/11/2015) | 195ª (25/11/2015) |
+| 2004 | 17,75 | 16/12/2004 | 103ª (15/12/2004) | 2016 | 13,75 | 01/12/2016 | 203ª (30/11/2016) |
+| 2005 | 18,00 | 15/12/2005 | 115ª (14/12/2005) | 2017 | 7,00 | 07/12/2017 | 211ª (06/12/2017) |
+| 2006 | 13,25 | 30/11/2006 | 123ª (29/11/2006) | 2018 | 6,50 | 22/03/2018 (reafirmada 13/12/2018) | 219ª (12/12/2018) |
+| 2007 | 11,25 | 06/09/2007 (reafirmada 06/12/2007) | 131ª (05/12/2007) | 2019 | 4,50 | 12/12/2019 | 227ª (11/12/2019) |
+| 2008 | 13,75 | 11/09/2008 (reafirmada 11/12/2008) | 139ª (10/12/2008) | 2020 | 2,00 | 06/08/2020 (reafirmada 10/12/2020) | 235ª (09/12/2020) |
+| 2009 | 8,75 | 23/07/2009 (reafirmada 10/12/2009) | 147ª (09/12/2009) | 2021 | 9,25 | 09/12/2021 | 243ª (08/12/2021) |
+| 2010 | 10,75 | 22/07/2010 (reafirmada 09/12/2010) | 155ª (08/12/2010) | 2022 | 13,75 | 04/08/2022 (reafirmada 08/12/2022) | 251ª (07/12/2022) |
+| 2011 | 11,00 | 01/12/2011 | 163ª (30/11/2011) | 2023 | 11,75 | 14/12/2023 | 259ª (13/12/2023) |
+| 2012 | 7,25 | 11/10/2012 (reafirmada 29/11/2012) | 171ª (28/11/2012) | 2024 | 12,25 | 12/12/2024 | 267ª (11/12/2024) |
+| 2013 | 10,00 | 28/11/2013 | 179ª (27/11/2013) | 2025 | 15,00 | 20/06/2025 (reafirmada 11/12/2025) | 275ª (10/12/2025) |
+| 2014 | 11,75 | 04/12/2014 | 187ª (03/12/2014) | 2026 (21/10) | 13,75 | 17/09/2026 | 281ª (16/09/2026) |
+
+- Preenche a lacuna de `data/series/selic-fim-de-ano.json` ("Valor de fim de ano não informado ... para 2004–2009, 2011, 2013, 2014, 2016, 2017, 2019, 2021, 2023 e 2024"). Nota: o histórico oficial registra a vigência de 15,00% a partir de 20/06/2025 (271ª reunião, 18/06/2025); a seção 3 desta nota cita "19/06/2025" — ver "Correções".
+- Variação por mandato (31/12 do ano anterior ao início → 31/12 do último ano; 2002 = 25,00% em 31/12/2002, SGS 432): Lula 1-2: 25,00 → 10,75 (−14,25 p.p.); Dilma: 10,75 → 14,25 em dez/2015 e 14,25 em 31/08/2016 (+3,5 p.p.); Temer: 14,25 → 6,50 (−7,75); Bolsonaro: 6,50 → 13,75 (+7,25); Lula 3: 13,75 → 13,75 em 21/10/2026 (0,0; máximo intermediário 15,00 e mínimo 10,50).
+- Próxima reunião do Copom (282ª): fontes secundárias indicam 3–4/11/2026 (decisão em 04/11) e a 283ª em 8–9/12/2026 — [Investidor10](https://investidor10.com.br/amp/noticias/copom-em-2026-tera-oito-reunioes-veja-o-cronograma-divulgado-pelo-bc-113749/); [Toro](https://blog.toroinvestimentos.com.br/renda-fixa/proximas-reunioes-do-copom/). O calendário oficial no site do BC é renderizado em JavaScript e os endpoints de API testados retornaram erro; a ata da 281ª reunião (obtida via [API copom/atas_detalhes?nro_reuniao=281](https://www.bcb.gov.br/api/servico/sitebcb/copom/atas_detalhes?nro_reuniao=281)) não menciona a data da próxima reunião. Fecha parcialmente a lacuna da seção 3.
+
+**(e) Ibovespa no último pregão de 2004, 2005 e 2012 — FECHADO.** Ipeadata GM366_IBVSP366: 30/12/2004 = 26.196; 29/12/2005 = 33.456; 28/12/2012 = 60.952 — [Ipeadata](http://www.ipeadata.gov.br/api/odata4/ValoresSerie(SERCODIGO='GM366_IBVSP366')). Preenche `data/series/ibovespa-fim-de-ano.json`. Atualização: 20/10/2026 = 208.296 pontos (novo recorde nominal, acima dos 205.079 de 19/10/2026 citados na seção 8). Confirmados também os demais fechamentos da seção 8 (2006 = 44.473,71, arredondado para 44.474).
+
+**(f) Datação oficial de recessões (CODACE/FGV IBRE) — FECHADO.** Página do comitê acessível em 21/10/2026 — [portalibre.fgv.br/codace](https://portalibre.fgv.br/codace) — e comunicados em PDF:
+- Comunicado de 02/02/2023 (reunião de 31/01/2023): "identificou a ocorrência de um vale no ciclo de negócios brasileiro no segundo trimestre de 2020. O vale representa o fim de um período de contração econômica que durou dois trimestres — o primeiro e o segundo de 2020 — e sinaliza o retorno do país à expansão econômica a partir do terceiro trimestre de 2020" — [PDF](https://portalibre.fgv.br/sites/default/files/2023-02/comunicado-do-comite-de-datacao-de-ciclos-economicos-31_01_2023_minuta.pdf). Cronologia trimestral nesse comunicado (duração; queda acumulada pico-vale, PIB dessaz. IBGE): 1T2003–2T2003 (2 trim.; −1,3%); 4T2008–1T2009 (2; −5,1%); 2T2014–4T2016 (11; −8,1%); 1T2020–2T2020 (2; −10,7%). Expansões: 3T2003–3T2008 (21 trim.; +30,2%); 2T2009–1T2014 (20; +23,1%); 1T2017–4T2019 (12; +5,6%).
+- Comunicado de 29/06/2020: pico no 4T2019; "datação mensal da recessão de 2014-2016 ... pico em março de 2014 e um vale em dezembro de 2016 ... 33 meses, entre abril de 2014 e dezembro de 2016" — [PDF](https://portalibre.fgv.br/sites/default/files/2020-06/comunicado-do-comite-de-datacao-de-ciclos-economicos-29_06_2020-1.pdf).
+- Comunicado de 30/10/2017: vale no 4T2016; "recessão que durou 11 trimestres — entre o segundo trimestre de 2014 e o quarto de 2016 ... a mais longa entre as nove datadas pelo Comitê a partir de 1980, empatada com a de 1989-1992. A perda acumulada de PIB ... foi de 8,6%" (valor revisado para −8,1% na tabela de 2023, com Contas Nacionais atualizadas) — [PDF](https://portalibre.fgv.br/sites/default/files/2020-03/comite-de-data_o-de-ciclos-econ_micos-comunicado-de-30_10_2017-_1_.pdf).
+- Comunicado de 04/08/2015: pico no 1T2014, "entrada do país em uma recessão a partir do segundo trimestre de 2014" — [PDF](https://portalibre.fgv.br/sites/default/files/2020-03/comite-de-datacao-de-ciclos-economicos-comunicado-de-4_8_2015.pdf).
+- Não há comunicado posterior a 02/02/2023: pela datação oficial, o Brasil está em expansão desde o 3T2020 e nenhuma recessão foi datada em Lula 3. Confirma a seção 1 (pico 1T2014/vale 4T2016, −8,1%) e fecha a lacuna de `pib-anual.json`. Composição atual do CODACE (coordenador Samuel Pessôa) consta na página.
+
+**(g) PIB per capita oficial do IBGE para 2024 e 2025 — FECHADO.** Publicações "Contas Nacionais Trimestrais — Indicadores de Volume e Valores Correntes", 4º trimestre: "o PIB per capita alcançou R$ 55.247,45 (em valores correntes) em 2024, um avanço (em termos reais) de 3,0% em relação ao ano anterior" — [IBGE, CNT 4T2024 (PDF)](https://biblioteca.ibge.gov.br/visualizacao/periodicos/2121/cnt_2024_4tri.pdf); "o PIB per capita alcançou R$ 59.687,49 (em valores correntes) em 2025, um avanço (em termos reais) de 1,9%" — [IBGE, CNT 4T2025 (PDF)](https://biblioteca.ibge.gov.br/visualizacao/periodicos/2121/cnt_2025_4tri.pdf). Substituem as estimativas próprias "≈ 55,4 mil" e "≈ 59,7 mil" (Tabela 1, seção 7 e `data/series/pib-per-capita-reais.json`, pontos 2024 e 2025 marcados `estimativa`/`nao_verificado`). São números oficiais, ainda sujeitos à revisão do Sistema de Contas Nacionais anual (a tabela SIDRA 6784 continua terminando em 2023 — [SIDRA 6784](https://apisidra.ibge.gov.br/values/t/6784/n1/all/v/9812/p/last%205?formato=json)).
+
+**(h) Frase literal "Lula quebrou o Brasil" — NÃO fechado (ver lacunas), mas checagens de 2026 ligadas ao tema localizadas.** Busca nos sites de Aos Fatos (`/noticias/?q=quebrou+o+Brasil`) e Comprova não retornou checagem da frase; Lupa (busca interna 404) e Estadão (busca) idem. Checagens relevantes encontradas:
+- Estadão Verifica, "Checamos o debate entre Lula e Flávio na Band", 18/10/2026 22h51 (atualizado 19/10) — [Estadão Verifica](https://www.estadao.com.br/estadao-verifica/checamos-o-debate-entre-lula-e-flavio-na-band/): (i) Lula, "primeiro presidente ... a conseguir dois graus de investimento": **verdadeiro** (Fitch e S&P em 2008; Moody's em 2009); (ii) Lula, Brasil "crescia 7,5%" e "só voltou a crescer mais de 3,5% quando retornou": **enganoso** — "o PIB cresceu 4,6% em 2021, no governo de Jair Bolsonaro" (efeito-base de 2020; assessoria de Lula cita média ~3% em Lula 3 vs. 1,4% em Bolsonaro); (iii) Lula, dívida de US$ 30 bi com o FMI quitada e reservas de US$ 270 bi: **verdadeiro** ("contraiu uma dívida de US$ 30,4 bilhões com o FMI" em 2002; quitada antecipadamente em 2005); (iv) Lula, "governo Bolsonaro não ajustou o salário mínimo acima da inflação em nenhum ano": **enganoso** (jan/2019: R$ 998, "aumento real de 1,14%"; sem ganho real nos três anos seguintes); (v) Flávio, "recorde de empresas fechando": **falta contexto** ("2,8 milhões de CNPJs foram encerrados no ano [2025], outros 5,1 milhões foram emitidos", recorde de abertura; recorde de recuperações judiciais em 2025: 5.680 empresas); (vi) Flávio, "PT governou o País em 20 dos últimos 24 anos": **exagerado** (17 anos, 4 meses e 12 dias). Nenhuma das 25 checagens trata da frase "quebrou o Brasil".
+- Aos Fatos, 24/08/2026, "É falso que 8.000 empresas faliram no Brasil em junho" (post compartilhado pelo senador Márcio Bittar, PL-AC): **falso**; Serasa Experian: 58 pedidos de falência em abr/2026; 224 processos de falência (234 CNPJs) em jan–abr/2026; 602 CNPJs em recuperação judicial em jan–abr/2026; 9,1 milhões de CNPJs inadimplentes em jun/2026 (recorde da série) — [Aos Fatos](https://www.aosfatos.org/noticias/8000-empresas-faliram-brasil-junho/).
+- Agência Lupa também checou o debate de 18/10/2026 (R$ 7 bi em viagens atribuídos a Lula/Janja = despesas de deslocamento de todo o governo federal 2023–2025; ressalva sobre o "Auxílio de R$ 600"), segundo [Jornal Opção, 19/10/2026](https://www.jornalopcao.com.br/ultimas-noticias/checagem-aponta-informacoes-falsas-e-imprecisas-em-falas-de-lula-e-flavio-bolsonaro-na-band-880214/) (página da Lupa não acessada: 403).
+- Cruzamento com a seção 2: a checagem Aos Fatos de 18/10/2026 citou "inflação de alimentos ... 56,17%" nos quatro anos de Bolsonaro; o subgrupo "Alimentação no domicílio" do IPCA acumula exatamente 56,2% em 2019–2022 (cálculo próprio sobre SIDRA, ver "Novos dados"), o que identifica a métrica usada (alimentação no domicílio, não o grupo "Alimentação e bebidas", que acumula 46,2%). Para Lula 3 (2023–2025), o grupo acumula 12,0% e o subgrupo 9,2% — compatível com o "13%" citado se incluir parte de 2026.
+
+**(i) Ordens executivas dos EUA sobre o Brasil — FECHADO (texto integral lido via GovInfo, espelho oficial do Federal Register; federalregister.gov redireciona para página anti-bot).**
+- EO 14323, assinada 30/07/2025, publicada 05/08/2025 (90 FR 37739): "Articles of Brazil imported into the customs territory of the United States shall be ... subject to an additional ad valorem rate of duty of 40 percent", eficaz "12:01 a.m. eastern daylight time 7 days after the date of this order" (06/08/2025); exceções do Anexo I "including certain silicon metal, pig iron, civil aircraft and parts ..., metallurgical grade alumina, tin ore, wood pulp, precious metals, energy and energy products, and fertilizers"; cumulativa com a tarifa recíproca da EO 14257 ("shall apply in addition to the ad valorem duty imposed in this order") — i.e., 40 p.p. adicionais sobre os 10% recíprocos, total 50% para os produtos não isentos; não se aplica a bens sob a Seção 232 — [GovInfo, FR 2025-14896](https://www.govinfo.gov/content/pkg/FR-2025-08-05/html/2025-14896.htm).
+- EO 14361, assinada 20/11/2025, publicada 26/11/2025 (90 FR 54467): "certain agricultural products shall not be subject to the additional ad valorem rate of duty imposed under Executive Order 14323", com Anexo I atualizado eficaz a partir de 12:01 EST de **13/11/2025** (retroativo, com reembolso de tarifas cobradas) — [GovInfo, FR 2025-21417](https://www.govinfo.gov/content/pkg/FR-2025-11-26/html/2025-21417.htm).
+- EO 14389 "Ending Certain Tariff Actions", assinada 20/02/2026, publicada 25/02/2026 (91 FR 9437): "In light of recent events, the additional ad valorem duties imposed pursuant to IEEPA in ... Executive Order 14323, as amended ... shall no longer be in effect and, as soon as practicable, shall no longer be collected" — ou seja, a tarifa adicional de 40% sobre o Brasil (e as tarifas recíprocas da EO 14257) foi **encerrada** em fev/2026; a emergência nacional declarada contra o Brasil não foi revogada — [GovInfo, FR 2026-03832](https://www.govinfo.gov/content/pkg/FR-2026-02-25/html/2026-03832.htm). O texto não especifica os "recent events".
+- Memorando presidencial da Seção 301, assinado 15/07/2026, publicado 20/07/2026 (91 FR 45619): "The Trade Representative shall impose a tariff of 25 percent on all goods of Brazil, with exemptions for certain goods" listados em anexo (matérias-primas, produtos sem oferta doméstica suficiente etc.); investigação sobre comércio digital/pagamentos eletrônicos (Pix), tarifas preferenciais, anticorrupção, propriedade intelectual, etanol e desmatamento — [GovInfo, FR 2026-14654](https://www.govinfo.gov/content/pkg/FR-2026-07-20/html/2026-14654.htm).
+- Síntese cronológica para a seção 10 e para `governos.json` (lula-3, `contexto_externo`): 06/08/2025–fev/2026 tarifa adicional de 40% (50% com a recíproca) com isenções; 13/11/2025 isenção de agrícolas; 20–25/02/2026 fim das tarifas IEEPA (incl. a de 40%); 15/07/2026 nova tarifa de 25% via Seção 301 com isenções. Lacuna da seção 10 ("conteúdo integral ... não lido") fechada; a lista de produtos do anexo da Seção 301 é imagem (TIFF) no FR e não foi transcrita.
+
+**(j) DBGG 2002–2005 — FECHADO com a série da metodologia antiga.** Série SGS 4537 "Dívida bruta do governo geral (% PIB) — Metodologia utilizada até 2007" (nome confirmado no catálogo [dadosabertos.bcb.gov.br](https://dadosabertos.bcb.gov.br/api/3/action/package_search?q=4537)), que inclui toda a carteira de títulos do Tesouro no BC e por isso é mais alta que a SGS 13762; é publicada até hoje (ago/2026 = 94,54%). Dezembros: 2002 76,10; 2003 71,51; 2004 68,03; 2005 66,97; 2006 64,60; 2007 63,02; 2008 61,42; 2009 64,70; 2010 62,43 — [BCB SGS 4537](https://api.bcb.gov.br/dados/serie/bcdata.sgs.4537/dados?formato=json&dataInicial=01/12/2001&dataFinal=31/12/2010); jun/2026 95,78; jul/2026 95,41; ago/2026 94,54 — [SGS 4537 (últimos)](https://api.bcb.gov.br/dados/serie/bcdata.sgs.4537/dados/ultimos/3?formato=json). Em Lula 1-2 a DBGG nessa metodologia caiu 13,7 p.p. (76,1% → 62,4%). Não é comparável nível a nível com a SGS 13762 (dez/2006: 64,60 vs 55,48), mas serve para a trajetória 2002–2006. Preenche `divida-bruta-pib.json` e `governos.json` (lula-1-2, lacuna "DBGG inexistente ... para 2002-2005") desde que rotulada "metodologia antiga".
+
+**Outros itens de lacunas fechados nesta rodada**
+- Cotação diária do dólar (PTAX venda, SGS 1) em out/2026: 01/10 5,2079; 05/10 4,9859; 09/10 4,9892; 16/10 5,0826; 19/10 5,0564; **20/10/2026 5,0140** (último dado em 21/10) — [BCB SGS 1](https://api.bcb.gov.br/dados/serie/bcdata.sgs.1/dados?formato=json&dataInicial=01/10/2026&dataFinal=21/10/2026). Fecha a lacuna da seção 4 e de `cambio-fim-de-periodo.json`.
+- Pico mensal da DBGG: out/2020 = **87,66%** confirmado na fonte oficial (SGS 13762: set/2020 87,42; out/2020 87,66; nov/2020 86,96; dez/2020 86,94) — [BCB SGS 13762](https://api.bcb.gov.br/dados/serie/bcdata.sgs.13762/dados?formato=json&dataInicial=01/01/2020&dataFinal=31/12/2021). Remove o "agregador privado, conferir" de `divida-bruta-pib.json` (`faixas_referencia`).
+- Projeções do Copom (ata da 281ª reunião, 16/09/2026, cenário de referência): IPCA 2026 = 5,2%; 2027 = 3,9%; 1T2028 = 3,2% ("atual horizonte relevante"); Focus citado na ata: 4,9% (2026) e 4,3% (2027); comunicado: "a inflação cheia e a média das medidas subjacentes desaceleraram, situando-se abaixo do limite superior do intervalo de tolerância, porém ainda acima da meta" — [API BCB copom/atas_detalhes 281](https://www.bcb.gov.br/api/servico/sitebcb/copom/atas_detalhes?nro_reuniao=281); [comunicados_detalhes 281](https://www.bcb.gov.br/api/servico/sitebcb/copom/comunicados_detalhes?nro_reuniao=281).
+
+### Correções a dados existentes
+
+1. **Tabela 1 (seção 1), seção 7 e `data/series/pib-per-capita-reais.json`:** substituir as estimativas próprias de PIB per capita por valores oficiais do IBGE: 2024 = **R$ 55.247,45** (nota: "≈55,4 mil"; arquivo: 55400) e 2025 = **R$ 59.687,49** (nota: "≈59,7 mil"; arquivo: 59700). Remover `estimativa: true` e `nao_verificado: true`; fonte: IBGE, CNT 4T2024 e 4T2025 (URLs em (g)). Variação real do PIB per capita oficial: 2024 +3,0%; 2025 +1,9%.
+2. **Seção 3, "altas de 19/09/2024 (10,75) a 19/06/2025 15,00" e `selic-fim-de-ano.json` (`faixas_referencia`: "Maior desde 2006 (19/06/2025 a 18/03/2026)"; ponto 2025 `vigencia: "19/06/2025"`):** o histórico oficial do Copom registra a 271ª reunião em 18/06/2025 com vigência da meta de 15,00% a partir de **20/06/2025** (não 19/06) — [BCB historicotaxasjuros](https://www.bcb.gov.br/api/servico/sitebcb/historicotaxasjuros). Pequena correção de data (a SGS 432 diária mostra 15,00 a partir de 20/06/2025).
+3. **Seção 3, data do fim de 2010:** a Selic de 10,75% vigorou a partir de 22/07/2010 e foi reafirmada em 09/12/2010 (155ª reunião); o valor de 31/12/2010 = 10,75% está correto. Para 2003, o valor de 31/12 (16,50%) e a vigência (18/12/2003) estão corretos.
+4. **Seção 10 e `governos.json` (lula-3, `contexto_externo`):** a descrição das tarifas dos EUA deve incluir que a tarifa adicional de 40% (EO 14323) foi **encerrada pela EO 14389 em 20/02/2026** e que a tarifa vigente desde jul/2026 é a de **25% da Seção 301** (com isenções), e não mais a de 40%/50%. A alíquota "40 p.p. adicionais, total 50%" citada como "conhecimento geral" está confirmada no texto da EO 14323 (40% adicional, cumulativo com a recíproca da EO 14257).
+5. **Seção 5 e `risco-pais-embi.json` (`notas_metodologicas`):** as datas de 2017–2025 do histórico de rating passam a ter fonte datada (FX Empire; secundária). A afirmação de memória "Moody's: Baa2 em 2011" segue sem confirmação. Acrescentar a mudança de perspectiva Moody's Ba1 positiva → estável em 30/05/2025 (a seção 5 diz apenas "em 2025").
+6. **Seção 8 e `ibovespa-fim-de-ano.json`:** recorde nominal atualizado para 208.296 pontos em 20/10/2026 (o ponto "19/10/2026 = 205.079" fica como penúltimo).
+7. **`data/series/ipca-meta-e-teto.json`:** remover `intervalo_nao_verificado`/`nao_verificado` (todos os 24 intervalos confirmados na página oficial do BC); a fonte dos intervalos passa a ser a página "Histórico de metas" (URL em (b)). A `lacuna` sobre a carta aberta de 2025 é fechada com a data 10/07/2025.
+8. **Discrepância (não é erro):** o IPCA de 2010 aparece como 5,91% no BCB (SGS 13522 e página de metas) e como 5,92% na tabela SIDRA 2938 ("variação acumulada no ano", dez/2010) — [SIDRA 2938](https://apisidra.ibge.gov.br/values/t/2938/n1/all/v/69/p/201012/c315/7169?formato=json). O valor oficial de fechamento usado pelo IBGE e pelo BC é 5,91%; manter.
+9. **`governos.json` (dilma, lacuna "Selic exata em 31/08/2016"):** a meta Selic em 31/08/2016 era 14,25% (vigente de 30/07/2015 a 19/10/2016, SGS 432) — já coerente com o arquivo; a lacuna pode ser fechada. Câmbio e reservas de 31/08/2016 não foram levantados nesta rodada.
+
+### Novos dados
+
+**N1. IPCA por ano: índice geral, grupo "Alimentação e bebidas" e subgrupo "Alimentação no domicílio" (variação acumulada no ano, dez/dez, %), 2003–2025 e 2026 parcial.** Fontes: IBGE/SIDRA, variável 69 (acumulado no ano) e 2265 (12 meses): [t2938 (2006–2011)](https://apisidra.ibge.gov.br/values/t/2938/n1/all/v/69/p/200612,200712,200812,200912,201012,201112/c315/7169,7170,7171?formato=json); [t1419 (2012–2019)](https://apisidra.ibge.gov.br/values/t/1419/n1/all/v/69/p/201212,201312,201412,201512,201612,201712,201812,201912/c315/7169,7170,7171?formato=json); [t7060 (2020–2026)](https://apisidra.ibge.gov.br/values/t/7060/n1/all/v/69,2265/p/202012,202112,202212,202312,202412,202512,202609/c315/7169,7170,7171?formato=json). Para 2003–2005 a tabela 655 só traz a variação mensal (v63); os anuais foram obtidos por composição dos 12 meses (cálculo próprio; o índice geral reproduziu exatamente 9,30/7,60/5,69) — [t655 (jan/2003–dez/2005, mensal)](https://apisidra.ibge.gov.br/values/t/655/n1/all/v/63/p/200301-200512/c315/7169,7170,7171?formato=json).
+
+| Ano | Governo | IPCA geral | Alimentação e bebidas | Alimentação no domicílio |
+|---|---|---|---|---|
+| 2003 | Lula 1 | 9,30 | 7,48* | 6,72* |
+| 2004 | Lula 1 | 7,60 | 3,87* | 2,57* |
+| 2005 | Lula 1 | 5,69 | 1,99* | 0,59* |
+| 2006 | Lula 1 | 3,14 | 1,23 | −0,16 |
+| 2007 | Lula 2 | 4,46 | 10,79 | 12,39 |
+| 2008 | Lula 2 | 5,90 | 11,11 | 10,68 |
+| 2009 | Lula 2 | 4,31 | 3,18 | 0,88 |
+| 2010 | Lula 2 | 5,91 (SIDRA: 5,92) | 10,39 | 10,70 |
+| 2011 | Dilma 1 | 6,50 | 7,18 | 5,43 |
+| 2012 | Dilma 1 | 5,84 | 9,86 | 10,04 |
+| 2013 | Dilma 1 | 5,91 | 8,48 | 7,64 |
+| 2014 | Dilma 1 | 6,41 | 8,03 | 7,10 |
+| 2015 | Dilma 2 | 10,67 | 12,03 | 12,92 |
+| 2016 | Dilma/Temer | 6,29 | 8,62 | 9,36 |
+| 2017 | Temer | 2,95 | −1,87 | −4,85 |
+| 2018 | Temer | 3,75 | 4,04 | 4,53 |
+| 2019 | Bolsonaro | 4,31 | 6,37 | 7,84 |
+| 2020 | Bolsonaro | 4,52 | 14,09 | 18,15 |
+| 2021 | Bolsonaro | 10,06 | 7,94 | 8,24 |
+| 2022 | Bolsonaro | 5,79 | 11,64 | 13,23 |
+| 2023 | Lula 3 | 4,62 | 1,03 | −0,52 |
+| 2024 | Lula 3 | 4,83 | 7,69 | 8,23 |
+| 2025 | Lula 3 | 4,26 | 2,95 | 1,43 |
+| 2026 (jan–set, acum. no ano) | Lula 3 | 3,95 | 4,37 | 4,44 |
+| 2026 (12 meses até set) | Lula 3 | 4,58 | 4,66 | 4,21 |
+
+\* composição de variações mensais (cálculo próprio). Acumulado por governo (cálculo próprio, produto dos anos): Lula 1-2 (2003–2010): geral 56,7% / alimentação e bebidas 61,6% / alimentação no domicílio 52,7%; Dilma (2011–2016): 49,4 / 67,9 / 65,2; Temer (2017–2018): 6,8 / 2,1 / −0,5; Bolsonaro (2019–2022): 26,9 / 46,2 / **56,2**; Lula 3 (2023–2025): 14,3 / 12,0 / 9,2. Maiores altas anuais de alimentação no domicílio: 2020 (18,15%), 2022 (13,23%), 2015 (12,92%), 2007 (12,39%); únicas quedas: 2006, 2017 (−4,85%) e 2023 (−0,52%).
+
+**N2. Juro real ex-ante por ano (fim de dezembro), 2003–2025 e out/2026 (cálculo próprio).** Definição: mediana Focus da Selic para o fim do ano seguinte, deflacionada pela mediana Focus do IPCA acumulado nos 12 meses à frente (suavizada), na última pesquisa de dezembro: real = (1+Selic esp.)/(1+IPCA esp.) − 1. Fontes: [Olinda/Focus ExpectativasMercadoInflacao12Meses](https://olinda.bcb.gov.br/olinda/servico/Expectativas/versao/v1/odata/ExpectativasMercadoInflacao12Meses?%24filter=Indicador%20eq%20'IPCA'%20and%20Suavizada%20eq%20'S'&%24orderby=Data%20desc&%24top=1&%24format=json) e [ExpectativasMercadoAnuais (Selic)](https://olinda.bcb.gov.br/olinda/servico/Expectativas/versao/v1/odata/ExpectativasMercadoAnuais?%24filter=Indicador%20eq%20'Selic'%20and%20DataReferencia%20eq%20'2027'&%24orderby=Data%20desc&%24top=1&%24format=json) (para cada ano, o filtro de data foi `Data ge 'AAAA-12-10' and Data le 'AAAA-12-31'`, `DataReferencia eq 'AAAA+1'`).
+
+| Data da pesquisa | Selic esperada fim do ano seguinte (%) | IPCA esperado 12m (%) | Juro real ex-ante (% a.a.) | Governo |
+|---|---|---|---|---|
+| 30/12/2003 | 13,93 | 5,95 | 7,5 | Lula 1 |
+| 30/12/2004 | 16,00 | 5,83 | 9,6 | Lula 1 |
+| 30/12/2005 | 15,00 | 4,52 | 10,0 | Lula 1 |
+| 29/12/2006 | 11,75 | 4,06 | 7,4 | Lula 1 |
+| 31/12/2007 | 10,75 | 4,28 | 6,2 | Lula 2 |
+| 31/12/2008 | 12,00 | 4,96 | 6,7 | Lula 2 |
+| 31/12/2009 | 10,75 | 4,44 | 6,0 | Lula 2 |
+| 31/12/2010 | 12,25 | 5,35 | 6,6 | Lula 2 |
+| 30/12/2011 | 9,50 | 5,33 | 4,0 | Dilma 1 |
+| 31/12/2012 | 7,25 | 5,52 | 1,6 | Dilma 1 |
+| 31/12/2013 | 10,50 | 6,01 | 4,2 | Dilma 1 |
+| 31/12/2014 | 12,50 | 6,61 | 5,5 | Dilma 1 |
+| 31/12/2015 | 15,25 | 6,94 | 7,8 | Dilma 2 |
+| 30/12/2016 | 10,25 | 4,80 | 5,2 | Temer |
+| 29/12/2017 | 6,75 | 3,90 | 2,7 | Temer |
+| 31/12/2018 | 7,13 | 3,90 | 3,1 | Temer |
+| 31/12/2019 | 4,50 | 3,73 | 0,7 | Bolsonaro |
+| 31/12/2020 | 3,00 | 3,56 | −0,5 | Bolsonaro |
+| 31/12/2021 | 11,50 | 5,07 | 6,1 | Bolsonaro |
+| 30/12/2022 | 12,25 | 5,30 | 6,6 | Bolsonaro |
+| 29/12/2023 | 9,00 | 3,88 | 4,9 | Lula 3 |
+| 31/12/2024 | 14,75 | 4,95 | 9,3 | Lula 3 |
+| 31/12/2025 | 12,25 | 4,02 | 7,9 | Lula 3 |
+| 16/10/2026 (Selic fim-2027) | 12,00 | 4,51 | 7,2 | Lula 3 |
+
+- Leitura: o juro real ex-ante de dez/2024 (9,3%) é o maior da série desde dez/2005 (10,0%); os menores foram dez/2020 (−0,5%, único negativo) e dez/2019 (0,7%). Médias por governo (cálculo próprio, dezembros do mandato): Lula 1-2 7,5%; Dilma (2011–2015) 4,6%; Temer 3,7% (2016–2018); Bolsonaro 3,2%; Lula 3 7,4% (2023–2025). Esta medida difere do juro real ex-ante usual de mercado (swap pré-DI 360 dias deflacionado pelo Focus), porque a série de swap do SGS (7806) foi descontinuada em set/2019 — [SGS 7806](https://api.bcb.gov.br/dados/serie/bcdata.sgs.7806/dados/ultimos/3?formato=json).
+
+**N3. PIB per capita em R$ constantes de 2025 e variação real anual (IBGE), 2002–2025.** Variação em volume oficial do PIB per capita: SIDRA 6784, variável 9814 (1996–2023) — [SIDRA 6784 v9810,9812,9814,93](https://apisidra.ibge.gov.br/values/t/6784/n1/all/v/9810,9812,9814,93/p/all?formato=json); 2024 (+3,0%) e 2025 (+1,9%) das CNT 4T2024/4T2025 (URLs em (g)). Nível em R$ de 2025 = R$ 59.687,49 (2025) deflacionado retroativamente pelas variações em volume (cálculo próprio; arredondado).
+
+| Ano | Var. real PIB per capita (%) | PIB per capita (R$ de 2025) | Ano | Var. real (%) | R$ de 2025 |
+|---|---|---|---|---|---|
+| 2002 | 1,8 | 42.592 | 2014 | −0,3 | 57.283 |
+| 2003 | −0,1 | 42.550 | 2015 | −4,3 | 54.820 |
+| 2004 | 4,6 | 44.507 | 2016 | −4,0 | 52.627 |
+| 2005 | 2,1 | 45.441 | 2017 | 0,6 | 52.942 |
+| 2006 | 2,8 | 46.714 | 2018 | 1,0 | 53.472 |
+| 2007 | 5,0 | 49.050 | 2019 | 0,6 | 53.793 |
+| 2008 | 4,1 | 51.061 | 2020 | −3,9 | 51.695 |
+| 2009 | −1,1 | 50.499 | 2021 | 4,3 | 53.918 |
+| 2010 | 6,7 | 53.882 | 2022 | 2,6 | 55.320 |
+| 2011 | 3,2 | 55.607 | 2023 | 2,8 | 56.869 |
+| 2012 | 1,1 | 56.218 | 2024 | 3,0 | 58.575 |
+| 2013 | 2,2 | 57.455 | 2025 | 1,9 | 59.687 |
+
+- Médias anuais da variação real do PIB per capita por governo (cálculo próprio): Lula 1-2 (2003–2010) +3,0%; Dilma (2011–2016) −0,35% (2011–2015: +0,4%); Temer (2017–2018) +0,8%; Bolsonaro (2019–2022) +0,9%; Lula 3 (2023–2025) +2,6%. Acumulado: 2003–2010 +26,5%; 2011–2016 −2,3%; 2017–2018 +1,6%; 2019–2022 +3,5%; 2023–2025 +7,9%; 2011–2025 +10,8%. O PIB per capita real só superou o nível de 2013 (57.455) em **2024** (58.575) — onze anos depois; isto substitui a inferência da seção 7 ("PIB per capita real de 2022 próximo ao de 2013"), que fica confirmada (2022 = 55.320 < 2013 = 57.455). População residente usada pelo IBGE (var. 93): 2023 = 211,695 milhões.
+
+**N4. Taxa de investimento (FBCF/PIB, % em valores correntes), 2002–2026.** Soma dos quatro trimestres de FBCF e PIB nominais (cálculo próprio) — [SIDRA 1846 v585 c11255/90707,93406](https://apisidra.ibge.gov.br/values/t/1846/n1/all/v/585/p/all/c11255/90707,93406?formato=json); trimestres oficiais (taxa de investimento) — [SIDRA 6727 v2517](https://apisidra.ibge.gov.br/values/t/6727/n1/all/v/all/p/all?formato=json).
+
+| Ano | FBCF/PIB (%) | Ano | FBCF/PIB (%) | Ano | FBCF/PIB (%) |
+|---|---|---|---|---|---|
+| 2002 | 17,9 | 2011 | 20,6 | 2020 | 16,6 |
+| 2003 | 16,6 | 2012 | 20,7 | 2021 | 17,9 |
+| 2004 | 17,3 | 2013 | 20,9 (máximo) | 2022 | 17,8 |
+| 2005 | 17,1 | 2014 | 19,9 | 2023 | 16,4 |
+| 2006 | 17,2 | 2015 | 17,8 | 2024 | 16,9 |
+| 2007 | 18,0 | 2016 | 15,5 | 2025 | 16,8 |
+| 2008 | 19,4 | 2017 | 14,6 (mínimo) | 2026 (1S) | 16,3 (1T 16,5; 2T 16,1) |
+| 2009 | 19,1 | 2018 | 15,1 | | |
+| 2010 | 20,5 | 2019 | 15,5 | | |
+
+- Médias por governo (cálculo próprio): Lula 1-2 17,9%; Dilma (2011–2016) 19,2%; Temer 14,9%; Bolsonaro 17,0%; Lula 3 (2023–2025) 16,7%. PIB nominal anual (soma dos trimestres, R$ bi): 2023 10.943; 2024 11.779; 2025 12.739; 1S2026 6.677.
+
+**N5. Transações correntes (balanço de pagamentos), 2002–2026.** Saldo anual = soma dos meses da SGS 22701 (US$ milhões, BPM6; cálculo próprio) — [BCB SGS 22701](https://api.bcb.gov.br/dados/serie/bcdata.sgs.22701/dados?formato=json); saldo acumulado em 12 meses em % do PIB (dezembro) — [BCB SGS 23079](https://api.bcb.gov.br/dados/serie/bcdata.sgs.23079/dados?formato=json).
+
+| Ano | Saldo (US$ mi) | % PIB (12m, dez) | Ano | Saldo (US$ mi) | % PIB |
+|---|---|---|---|---|---|
+| 2002 | −9.407 | −1,85 | 2015 | −63.409 | −3,53 |
+| 2003 | +2.193 | +0,39 | 2016 | −30.529 | −1,70 |
+| 2004 | +8.959 | +1,34 | 2017 | −25.264 | −1,22 |
+| 2005 | +11.679 | +1,31 | 2018 | −53.818 | −2,81 |
+| 2006 | +10.774 | +0,97 | 2019 | −63.960 | −3,42 |
+| 2007 | −2.754 | −0,20 | 2020 | −24.223 | −1,64 |
+| 2008 | −35.602 | −2,10 | 2021 | −39.398 | −2,36 |
+| 2009 | −29.328 | −1,75 | 2022 | −41.960 | −2,15 |
+| 2010 | −86.718 | −3,92 | 2023 | −26.981 | −1,23 |
+| 2011 | −83.576 | −3,20 | 2024 | −65.313 | −2,99 |
+| 2012 | −92.678 | −3,76 | 2025 | −67.405 | −2,96 |
+| 2013 | −88.384 | −3,58 | 2026 (jan–ago) | −43.512 | −2,47 (12m até ago) |
+| 2014 | −110.494 (recorde) | −4,50 | | | |
+
+- Leitura: superávits em conta corrente só em 2003–2006 (Lula 1); maior déficit em 2014 (Dilma, −4,5% do PIB); Lula 3 tem déficits de 1,2–3,0% do PIB, financiados com folga pelo IDP (US$ 65–85 bi/ano, seção 6) — não há sinal de restrição externa.
+
+**N6. Dívida bruta do governo geral na metodologia antiga (SGS 4537), dezembros 2002–2010 e 2026** — ver (j) acima; série contínua 2002–ago/2026 disponível para gráficos de longo prazo com rótulo próprio.
+
+**N7. Selic em 31/12 por ano (2003–2025)** — ver (d); pronta para completar `data/series/selic-fim-de-ano.json` (23 pontos + 2026 parcial).
+
+**N8. Posição do Brasil no ranking de PIB nominal (FMI) — anos faltantes não levantados nesta rodada** (a API do DataMapper exige ranking por ano; `ranking-pib-mundial.json` segue com 2010, 2014, 2020, 2022, 2025, 2026).
+
+### Lacunas que permanecem
+
+- **Datas-dia dos movimentos de rating de 2008–2016 em fonte primária.** O Tesouro Nacional (Tesouro Transparente) bloqueou o acesso com HTTP 429 em todas as tentativas; agências retornaram 403/JS. Meses e anos estão corroborados (Estadão Verifica 18/10/2026 para 2008–2009; imprensa para 2015–2016); as datas-dia da seção 5 continuam "de memória". Alternativas: PDF do Relatório Anual da Dívida (Tesouro) ou press releases das agências acessados por navegador.
+- **EMBI+ após 30/07/2024 e CDS de 5 anos em ago–out/2026.** Nenhuma fonte oficial gratuita; o Ipeadata não tem série sucessora. CDS disponível só até mai/2026 via Poder360 (sem fonte explícita).
+- **Frase literal "Lula quebrou o Brasil".** Nenhuma checagem localizada em Aos Fatos, Comprova, Estadão Verifica (buscas internas) nem na busca web; nenhuma fonte com data/local da declaração. A busca web retornou apenas que Lula afirmou ter assumido o país "quebrado" em 2003 e 2023 (enquadramento inverso), sem checagem — não confirmado em fonte primária. Recomenda-se localizar a transcrição do debate da Band (18/10/2026) ou das entrevistas à Globo (15–16/10/2026).
+- **Calendário oficial do Copom para nov–dez/2026**: datas (4/11 e 9/12) só em fontes secundárias; o site do BC é JS e os endpoints de API testados falharam.
+- **Texto da carta aberta de 10/07/2025** (PDF) não foi baixado — a página de "Cartas abertas" do BC retorna conteúdo vazio pela API; a existência e a data estão confirmadas pelo RPM set/2025.
+- **Anexo de isenções da tarifa de 25% (Seção 301, jul/2026)**: publicado como imagem no Federal Register; não transcrito.
+- **Ranking FMI por ano (2003–2026 completo)** e **PIB per capita em US$ para todos os anos** (`pib-per-capita-dolares.json`, `ranking-pib-mundial.json`) não foram ampliados nesta rodada.
+- **Câmbio e reservas em 31/08/2016** (`governos.json`, dilma) não levantados.
+- A busca na web desta sessão ficou indisponível durante parte da rodada (limite compartilhado), o que restringiu a verificação de fontes secundárias; todos os dados numéricos acima vêm de APIs/páginas oficiais, exceto onde marcado como secundário (FX Empire, Poder360, Investidor10/Toro, Jornal Opção).
