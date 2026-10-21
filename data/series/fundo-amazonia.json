@@ -1,78 +1,316 @@
 {
   "id": "fundo-amazonia",
-  "titulo": "Fundo Amazônia — valor aprovado em projetos por ano",
-  "descricao_simples": "Recursos de doações internacionais (Noruega, Alemanha) e da Petrobras aprovados pelo BNDES para projetos de combate ao desmatamento. Paralisado em 2019–2022, reativado em 2023 e com recorde de aprovações em 2024 (R$ 882 mi).",
+  "titulo": "Fundo Amazônia — doações internalizadas por ano",
+  "descricao_simples": "Doações internacionais recebidas pelo Fundo Amazônia (BNDES), somadas por ano-calendário a partir da tabela oficial de doações. Pico de R$ 1,47 bi em 2013, nenhuma doação entre dez/2018 e dez/2023 (fundo paralisado) e recorde recente de cerca de R$ 990 mi em 2024.",
   "unidade": "R$ milhões",
   "tipo_grafico": "barra",
   "frequencia": "anual",
   "fonte": {
-    "nome": "Wikipédia pt — Fundo Amazônia (compilação com fontes)",
-    "url": "https://pt.wikipedia.org/wiki/Fundo_Amaz%C3%B4nia",
+    "nome": "Fundo Amazônia/BNDES — Doações (dados até 30/09/2026)",
+    "url": "https://www.fundoamazonia.gov.br/pt/transparencia/doacoes/",
     "acesso_em": "2026-10-21",
-    "tier": "imprensa"
+    "tier": "oficial"
   },
   "pontos": [
     {
-      "periodo": "2019",
-      "valor": null,
-      "nao_verificado": true,
+      "periodo": "2009",
+      "valor": 36,
       "detalhe": {
-        "nota": "paralisado: Decreto 9.759 extinguiu os comitês; Noruega suspendeu R$ 133 mi e Alemanha R$ 155 mi"
+        "doadores": [
+          "Noruega 36,4 mi (09/10/2009)"
+        ]
+      }
+    },
+    {
+      "periodo": "2010",
+      "valor": 56,
+      "detalhe": {
+        "doadores": [
+          "Noruega 49,6 mi (09/08/2010)",
+          "Alemanha 6,6 mi (29/12/2010)"
+        ]
+      }
+    },
+    {
+      "periodo": "2011",
+      "valor": null,
+      "detalhe": {
+        "nota": "apenas parcelas da Petrobras (excluídas da soma; 29 parcelas de 14/10/2011 a 16/05/2018, R$ 17,3 mi no total)"
+      }
+    },
+    {
+      "periodo": "2012",
+      "valor": 118,
+      "detalhe": {
+        "doadores": [
+          "Noruega 82,1 mi (23/03/2012)",
+          "Noruega 36,1 mi (02/10/2012)"
+        ]
+      }
+    },
+    {
+      "periodo": "2013",
+      "valor": 1466,
+      "detalhe": {
+        "doadores": [
+          "Alemanha 16,0 mi (08/01/2013)",
+          "Noruega 16,1 mi e 23,5 mi (26/06/2013)",
+          "Noruega 1.024,6 mi (04/10/2013)",
+          "Noruega 385,4 mi (23/12/2013)"
+        ],
+        "nota": "pico da série"
+      }
+    },
+    {
+      "periodo": "2014",
+      "valor": 327,
+      "detalhe": {
+        "doadores": [
+          "Alemanha 26,2 mi (06/01/2014)",
+          "Alemanha 11,9 mi (22/07/2014)",
+          "Noruega 289,0 mi (15/12/2014)"
+        ]
+      }
+    },
+    {
+      "periodo": "2015",
+      "valor": 502,
+      "detalhe": {
+        "doadores": [
+          "Noruega 46,4 mi (12/03/2015)",
+          "Noruega 455,6 mi (04/12/2015)"
+        ]
+      }
+    },
+    {
+      "periodo": "2016",
+      "valor": 330,
+      "detalhe": {
+        "doadores": [
+          "Noruega 330,2 mi (16/12/2016)"
+        ]
+      }
+    },
+    {
+      "periodo": "2017",
+      "valor": 271,
+      "detalhe": {
+        "doadores": [
+          "Alemanha 132,0 mi (12/12/2017)",
+          "Noruega 139,3 mi (14/12/2017)"
+        ]
+      }
+    },
+    {
+      "periodo": "2018",
+      "valor": 272,
+      "detalhe": {
+        "doadores": [
+          "Noruega 272,4 mi (17/12/2018)"
+        ]
+      }
+    },
+    {
+      "periodo": "2019",
+      "valor": 0,
+      "detalhe": {
+        "nota": "nenhuma doação; Decreto 9.759 extinguiu os comitês, Noruega suspendeu R$ 133 mi e Alemanha R$ 155 mi"
       }
     },
     {
       "periodo": "2020",
-      "valor": null,
-      "nao_verificado": true,
+      "valor": 0,
       "detalhe": {
-        "nota": "paralisado"
+        "nota": "nenhuma doação (fundo paralisado)"
       }
     },
     {
       "periodo": "2021",
-      "valor": null,
-      "nao_verificado": true,
+      "valor": 0,
       "detalhe": {
-        "nota": "paralisado"
+        "nota": "nenhuma doação (fundo paralisado)"
       }
     },
     {
       "periodo": "2022",
-      "valor": null,
-      "nao_verificado": true,
+      "valor": 0,
       "detalhe": {
-        "nota": "paralisado; reativado em 01/01/2023"
+        "nota": "nenhuma doação (fundo paralisado); reativado em 01/01/2023"
       }
     },
     {
       "periodo": "2023",
-      "valor": 553
+      "valor": 150,
+      "detalhe": {
+        "doadores": [
+          "Alemanha 106,6 mi (23/10/2023)",
+          "Suíça 28,1 mi (11/12/2023)",
+          "EUA 14,9 mi (13/12/2023)"
+        ],
+        "aprovado_em_projetos_rs_mi": 553
+      }
     },
     {
       "periodo": "2024",
-      "valor": 882,
+      "valor": 990,
       "detalhe": {
-        "recebido_em_doacoes_rs_mi": 643,
-        "nota": "recorde de aprovações"
+        "doadores": [
+          "Japão 14,9 mi (22/03/2024)",
+          "Noruega 282,5 mi / US$ 50 mi (02/07/2024)",
+          "Alemanha 88,6 mi (11/07/2024)",
+          "EUA 257,0 mi (14/08/2024)",
+          "EUA 19,5 mi (15/10/2024)",
+          "Reino Unido 284,0 mi (18/11/2024)",
+          "Dinamarca 43,4 mi (18/12/2024)"
+        ],
+        "aprovado_em_projetos_rs_mi": 882,
+        "nota": "recorde recente; a nota anterior citava R$ 643 mi recebidos em 2024, provavelmente outro corte/conceito (relatório anual)"
+      }
+    },
+    {
+      "periodo": "2025",
+      "valor": 449,
+      "detalhe": {
+        "doadores": [
+          "Irlanda 31,5 mi (14/08/2025)",
+          "Dinamarca 41,3 mi (25/11/2025)",
+          "Suíça 10,1 mi (08/12/2025)",
+          "Noruega 335,1 mi / US$ 60,6 mi (22/12/2025)",
+          "União Europeia 30,5 mi (29/12/2025)"
+        ]
+      }
+    },
+    {
+      "periodo": "2026 (até set)",
+      "valor": 280,
+      "detalhe": {
+        "doadores": [
+          "Reino Unido 271,1 mi (05/05/2026)",
+          "Suíça 9,4 mi (25/09/2026)"
+        ]
       }
     }
   ],
   "faixas_referencia": [
     {
-      "rotulo": "Doações acumuladas até 2018 (R$ bi; Noruega ~94%, Alemanha ~6%, Petrobras)",
+      "rotulo": "Total internalizado até 30/09/2026 (R$ bi)",
+      "valor": 5.265
+    },
+    {
+      "rotulo": "Doações acumuladas até 2018 (R$ bi)",
       "valor": 3.4
+    },
+    {
+      "rotulo": "Carteira: valor aprovado em projetos (R$ bi, 155 projetos)",
+      "valor": 5.844
+    },
+    {
+      "rotulo": "Carteira: valor desembolsado (R$ bi)",
+      "valor": 2.754
+    }
+  ],
+  "por_doador": {
+    "fonte": {
+      "nome": "Fundo Amazônia/BNDES — Doações (dados até 30/09/2026)",
+      "url": "https://www.fundoamazonia.gov.br/pt/transparencia/doacoes/",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    "valores_rs": {
+      "Noruega": 3804376093.74,
+      "Reino Unido": 555026894.76,
+      "Alemanha": 387859396.0,
+      "EUA": 291382003.2,
+      "Dinamarca": 84741838.56,
+      "Suíça": 47584155.05,
+      "Irlanda": 31529500.0,
+      "União Europeia": 30510045.0,
+      "Petrobras": 17285079.13,
+      "Japão": 14943000.0
+    },
+    "total_rs": 5265238005.44
+  },
+  "governos": [
+    {
+      "governo": "lula-1-2",
+      "inicio": {
+        "periodo": "2009",
+        "valor": 36
+      },
+      "fim": {
+        "periodo": "2010",
+        "valor": 56
+      }
+    },
+    {
+      "governo": "dilma",
+      "inicio": {
+        "periodo": "2012",
+        "valor": 118
+      },
+      "fim": {
+        "periodo": "2016",
+        "valor": 330
+      }
+    },
+    {
+      "governo": "temer",
+      "inicio": {
+        "periodo": "2017",
+        "valor": 271
+      },
+      "fim": {
+        "periodo": "2018",
+        "valor": 272
+      }
+    },
+    {
+      "governo": "bolsonaro",
+      "inicio": {
+        "periodo": "2019",
+        "valor": 0
+      },
+      "fim": {
+        "periodo": "2022",
+        "valor": 0
+      }
+    },
+    {
+      "governo": "lula-3",
+      "inicio": {
+        "periodo": "2023",
+        "valor": 150
+      },
+      "fim": {
+        "periodo": "2025",
+        "valor": 449
+      }
     }
   ],
   "notas_metodologicas": [
-    "Criado em 01/08/2008 (Decreto 6.527, governo Lula 2). Os pontos de 2019–2022 ficam sem valor: o fundo esteve paralisado (sem comitês) no governo Bolsonaro, mas a nota não traz valor oficial de aprovações nesses anos.",
-    "Doações recentes: Noruega US$ 50 mi (R$ 275 mi) em jun/2024 e R$ 245–247 mi na COP28.",
-    "Responsabilidade: o fundo é gerido pelo BNDES (federal) com comitê orientador; depende de doadores externos e da queda do desmatamento medida pelo INPE."
+    "Soma aproximada, feita na nota, das doações listadas na tabela oficial do BNDES (dados até 30/09/2026), por ano-calendário e excluindo as 29 parcelas da Petrobras (R$ 17,3 mi, 2011–2018). Valores em R$ internalizados, sem correção pela inflação.",
+    "Criado em 01/08/2008 (Decreto 6.527, governo Lula 2). Nenhuma doação entre 17/12/2018 e 13/12/2023, o que confirma a paralisação no governo Bolsonaro (Decreto 9.759 extinguiu os comitês em 2019) e a retomada em 2023.",
+    "Total internalizado: R$ 5,265 bi — Noruega R$ 3,80 bi (16 doações), Reino Unido R$ 555 mi, Alemanha R$ 388 mi, EUA R$ 291 mi, Dinamarca R$ 85 mi, Suíça R$ 48 mi, Irlanda R$ 32 mi, União Europeia R$ 31 mi, Petrobras R$ 17 mi, Japão R$ 15 mi. O total 'R$ 3,4 bi até 2018' é consistente com a tabela (Noruega 3,187 bi + Alemanha 192,7 mi + Petrobras 17,3 mi).",
+    "Aprovações em projetos: R$ 553 mi (2023) e R$ 882 mi (2024, recorde). Carteira (sem data): 155 projetos, R$ 5,844 bi aprovados, R$ 2,754 bi desembolsados.",
+    "Responsabilidade: o fundo é gerido pelo BNDES (federal), com comitê orientador presidido pelo MMA; depende de doadores externos e da queda do desmatamento medida pelo INPE."
   ],
-  "ultimo_periodo": "2024",
+  "ultimo_periodo": "2026 (até set)",
   "temas": [
     "meio-ambiente"
   ],
   "fontes_adicionais": [
+    {
+      "nome": "Fundo Amazônia/BNDES — página inicial (carteira)",
+      "url": "https://www.fundoamazonia.gov.br/pt/home/",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Wikipédia pt — Fundo Amazônia (compilação com fontes)",
+      "url": "https://pt.wikipedia.org/wiki/Fundo_Amaz%C3%B4nia",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
     {
       "nome": "Poder360 — Noruega formaliza doação ao Fundo Amazônia",
       "url": "https://www.poder360.com.br/meio-ambiente/noruega-formaliza-nova-doacao-de-r-275-mi-ao-fundo-amazonia/",
@@ -87,7 +325,7 @@
     }
   ],
   "lacunas": [
-    "Aprovações anuais de 2008 a 2018 e total de doações em 2025 não constam da nota; valores de 2019–2022 não constam da nota (fundo paralisado)."
+    "Aprovações em projetos ano a ano (2008–2025) não obtidas; a soma anual é aproximada e feita na nota, não publicada pelo BNDES."
   ],
   "atualizado_em": "2026-10-21",
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/07_saude_seguranca_educacao_infra_ambiente.md"

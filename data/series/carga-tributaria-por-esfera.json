@@ -1,0 +1,174 @@
+{
+  "id": "carga-tributaria-por-esfera",
+  "titulo": "Carga tributária por esfera de governo (% do PIB)",
+  "descricao_simples": "Quanto União, estados e municípios arrecadam em tributos, cada um, em proporção do PIB.",
+  "unidade": "% do PIB",
+  "tipo_grafico": "area",
+  "frequencia": "anual",
+  "fonte": {
+    "nome": "Tesouro Nacional, planilha 'Base CTB GG.xlsx', Tabela 1 (2025 preliminar)",
+    "url": "https://thot-arquivos.tesouro.gov.br/publicacao-anexo/28024",
+    "acesso_em": "2026-10-21",
+    "tier": "oficial"
+  },
+  "pontos": [
+    {
+      "periodo": "2010",
+      "valor": 30.32,
+      "governo_central": 20.44,
+      "estados": 8.2,
+      "municipios": 1.68,
+      "total_reais_bilhoes": 1178.1,
+      "pib_reais_bilhoes": 3885.8
+    },
+    {
+      "periodo": "2011",
+      "valor": 31.0,
+      "governo_central": 21.17,
+      "estados": 8.1,
+      "municipios": 1.73,
+      "total_reais_bilhoes": 1356.6,
+      "pib_reais_bilhoes": 4376.4
+    },
+    {
+      "periodo": "2012",
+      "valor": 30.6,
+      "governo_central": 20.69,
+      "estados": 8.13,
+      "municipios": 1.78,
+      "total_reais_bilhoes": 1473.1,
+      "pib_reais_bilhoes": 4814.8
+    },
+    {
+      "periodo": "2013",
+      "valor": 30.3,
+      "governo_central": 20.36,
+      "estados": 8.15,
+      "municipios": 1.78,
+      "total_reais_bilhoes": 1615.2,
+      "pib_reais_bilhoes": 5331.6
+    },
+    {
+      "periodo": "2014",
+      "valor": 29.53,
+      "governo_central": 19.65,
+      "estados": 8.04,
+      "municipios": 1.84,
+      "total_reais_bilhoes": 1706.5,
+      "pib_reais_bilhoes": 5779.0
+    },
+    {
+      "periodo": "2015",
+      "valor": 29.69,
+      "governo_central": 19.67,
+      "estados": 8.1,
+      "municipios": 1.92,
+      "total_reais_bilhoes": 1780.0,
+      "pib_reais_bilhoes": 5995.8
+    },
+    {
+      "periodo": "2016",
+      "valor": 29.79,
+      "governo_central": 19.77,
+      "estados": 8.13,
+      "municipios": 1.9,
+      "total_reais_bilhoes": 1867.9,
+      "pib_reais_bilhoes": 6269.3
+    },
+    {
+      "periodo": "2017",
+      "valor": 29.93,
+      "governo_central": 19.73,
+      "estados": 8.26,
+      "municipios": 1.94,
+      "total_reais_bilhoes": 1971.0,
+      "pib_reais_bilhoes": 6585.5
+    },
+    {
+      "periodo": "2018",
+      "valor": 30.4,
+      "governo_central": 20.0,
+      "estados": 8.37,
+      "municipios": 2.04,
+      "total_reais_bilhoes": 2129.5,
+      "pib_reais_bilhoes": 7004.1
+    },
+    {
+      "periodo": "2019",
+      "valor": 30.39,
+      "governo_central": 19.78,
+      "estados": 8.46,
+      "municipios": 2.15,
+      "total_reais_bilhoes": 2245.8,
+      "pib_reais_bilhoes": 7389.1
+    },
+    {
+      "periodo": "2020",
+      "valor": 29.15,
+      "governo_central": 18.63,
+      "estados": 8.39,
+      "municipios": 2.13,
+      "total_reais_bilhoes": 2218.5,
+      "pib_reais_bilhoes": 7609.6
+    },
+    {
+      "periodo": "2021",
+      "valor": 30.88,
+      "governo_central": 19.89,
+      "estados": 8.81,
+      "municipios": 2.17,
+      "total_reais_bilhoes": 2783.1,
+      "pib_reais_bilhoes": 9012.1
+    },
+    {
+      "periodo": "2022",
+      "valor": 31.24,
+      "governo_central": 20.57,
+      "estados": 8.48,
+      "municipios": 2.18,
+      "total_reais_bilhoes": 3148.7,
+      "pib_reais_bilhoes": 10079.7
+    },
+    {
+      "periodo": "2023",
+      "valor": 30.26,
+      "governo_central": 19.93,
+      "estados": 8.05,
+      "municipios": 2.28,
+      "total_reais_bilhoes": 3311.3,
+      "pib_reais_bilhoes": 10943.3
+    },
+    {
+      "periodo": "2024",
+      "valor": 32.22,
+      "governo_central": 21.34,
+      "estados": 8.48,
+      "municipios": 2.4,
+      "total_reais_bilhoes": 3794.7,
+      "pib_reais_bilhoes": 11779.3
+    },
+    {
+      "periodo": "2025",
+      "valor": 32.4,
+      "governo_central": 21.6,
+      "estados": 8.38,
+      "municipios": 2.42,
+      "total_reais_bilhoes": 4127.2,
+      "pib_reais_bilhoes": 12738.6
+    }
+  ],
+  "faixas_referencia": [],
+  "notas_metodologicas": [
+    "O campo valor é a carga total do governo geral; os campos por esfera somam o total.",
+    "Variação 2024→2025: +0,18 p.p. (central +0,26; municípios +0,03; estados −0,10). Componentes federais em 2025: IRRF R$ 637,5 bi; IRPJ R$ 283,6 bi; CSLL R$ 172,4 bi; IRPF R$ 73,0 bi; Cofins R$ 381,8 bi; PIS R$ 78,5 bi; IPI R$ 86,7 bi; IOF R$ 86,2 bi (R$ 67,5 bi em 2024); imposto de importação R$ 90,2 bi; contribuições ao RGPS R$ 687,4 bi.",
+    "Comparativo STN x RFB só até 2017 (RFB 32,43% x STN 29,93% em 2017)."
+  ],
+  "lacunas": [],
+  "ultimo_periodo": "2025",
+  "temas": [
+    "contas-publicas",
+    "impostos"
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/02_contas_publicas_divida.md",
+  "atualizado_em": "2026-10-21"
+}

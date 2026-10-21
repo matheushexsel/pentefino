@@ -13,12 +13,69 @@
   },
   "pontos": [
     {
+      "periodo": "2016",
+      "valor": 929,
+      "detalhe": {
+        "homicidios_de_mulheres_total": 4245
+      }
+    },
+    {
+      "periodo": "2017",
+      "valor": 1075,
+      "detalhe": {
+        "homicidios_de_mulheres_total": 4556
+      }
+    },
+    {
+      "periodo": "2018",
+      "valor": 1229,
+      "detalhe": {
+        "homicidios_de_mulheres_total": 4340
+      }
+    },
+    {
+      "periodo": "2019",
+      "valor": 1330,
+      "detalhe": {
+        "homicidios_de_mulheres_total": 3966
+      }
+    },
+    {
+      "periodo": "2020",
+      "valor": 1354,
+      "detalhe": {
+        "homicidios_de_mulheres_total": 3999
+      }
+    },
+    {
+      "periodo": "2021",
+      "valor": 1347,
+      "detalhe": {
+        "homicidios_de_mulheres_total": 3869
+      }
+    },
+    {
+      "periodo": "2022",
+      "valor": 1455,
+      "detalhe": {
+        "homicidios_de_mulheres_total": 3934
+      }
+    },
+    {
+      "periodo": "2023",
+      "valor": 1475,
+      "detalhe": {
+        "homicidios_de_mulheres_total": 3937
+      }
+    },
+    {
       "periodo": "2024",
       "valor": 1504,
       "detalhe": {
         "tentativas_de_feminicidio": 3940,
         "descumprimento_medida_protetiva": 112695,
-        "homicidios_de_mulheres_total": 3728
+        "homicidios_de_mulheres_total": 3728,
+        "proporcao_feminicidio_pct": 40.3
       }
     },
     {
@@ -27,16 +84,52 @@
       "detalhe": {
         "tentativas_de_feminicidio": 4189,
         "descumprimento_medida_protetiva": 132025,
-        "homicidios_de_mulheres_total": 3539
+        "homicidios_de_mulheres_total": 3539,
+        "proporcao_feminicidio_pct": 44.4
       }
     }
   ],
   "faixas_referencia": [],
+  "governos": [
+    {
+      "governo": "temer",
+      "inicio": {
+        "periodo": "2016",
+        "valor": 929
+      },
+      "fim": {
+        "periodo": "2018",
+        "valor": 1229
+      }
+    },
+    {
+      "governo": "bolsonaro",
+      "inicio": {
+        "periodo": "2019",
+        "valor": 1330
+      },
+      "fim": {
+        "periodo": "2022",
+        "valor": 1455
+      }
+    },
+    {
+      "governo": "lula-3",
+      "inicio": {
+        "periodo": "2023",
+        "valor": 1475
+      },
+      "fim": {
+        "periodo": "2025",
+        "valor": 1571
+      }
+    }
+  ],
   "notas_metodologicas": [
+    "Série 2016–2025 do Anuário 2026 (Gráfico 35 e Tabela 21). A qualificadora de feminicídio só existe desde a Lei 13.104, de 09/03/2015, por isso a série nacional comparável começa em 2016; parte do crescimento reflete melhor classificação pelas polícias (a proporção feminicídio/homicídios de mulheres subiu de 40,3% em 2024 para 44,4% em 2025).",
     "Alta de 4,0% em 2025. Vítimas: 65,1% negras; 60,9% mortas por parceiro íntimo. Tentativas de feminicídio +5,9%; descumprimento de medida protetiva +16,7%.",
-    "O total de homicídios de mulheres (todas as motivações) caiu 5,5% (3.728 para 3.539).",
-    "O feminicídio passou a ser tipo penal autônomo com a Lei 14.994, de 09/10/2024 (legislação federal); registro e investigação são estaduais.",
-    "Mudanças na classificação pelas polícias estaduais podem afetar a comparação entre anos."
+    "O total de homicídios de mulheres (todas as motivações) caiu de 4.556 (2017) para 3.539 (2025), -5,5% só em 2025; ver série homicidios-de-mulheres.",
+    "O feminicídio passou a ser tipo penal autônomo com a Lei 14.994, de 09/10/2024 (legislação federal); registro e investigação são estaduais."
   ],
   "ultimo_periodo": "2025",
   "temas": [
@@ -52,7 +145,7 @@
     }
   ],
   "lacunas": [
-    "Série anterior a 2024 não consta da nota."
+    "2013–2015 não existem como 'feminicídio' (tipificado em 03/2015)."
   ],
   "atualizado_em": "2026-10-21",
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/07_saude_seguranca_educacao_infra_ambiente.md"

@@ -1,0 +1,108 @@
+{
+  "id": "greves-dieese",
+  "titulo": "Número de greves por ano (DIEESE/SAG)",
+  "descricao_simples": "Quantas greves o Sistema de Acompanhamento de Greves do DIEESE registrou a cada ano.",
+  "unidade": "greves",
+  "tipo_grafico": "barra",
+  "frequencia": "anual",
+  "fonte": {
+    "nome": "DIEESE, Balanços das Greves (Estudos e Pesquisas nº 41, 45, 63, 66, 79, 84, 87, 89, 93, 99, 102, 104, 109, 111, 114)",
+    "url": "https://www.dieese.org.br/estudosepesquisas/2026/estPesq113greves.pdf",
+    "acesso_em": "2026-10-21",
+    "tier": "academico"
+  },
+  "pontos": [
+    {
+      "periodo": "2007",
+      "valor": 316
+    },
+    {
+      "periodo": "2008",
+      "valor": 411,
+      "horas_paradas_mil": 24.6
+    },
+    {
+      "periodo": "2009",
+      "valor": 518
+    },
+    {
+      "periodo": "2010",
+      "valor": 446
+    },
+    {
+      "periodo": "2011",
+      "valor": 554
+    },
+    {
+      "periodo": "2012",
+      "valor": 873,
+      "horas_paradas_mil": 86.9,
+      "observacao": "revisado para 877 no balanço de 2013"
+    },
+    {
+      "periodo": "2013",
+      "valor": 2050,
+      "horas_paradas_mil": 111.342,
+      "observacao": "maior desde 1990"
+    },
+    {
+      "periodo": "2016",
+      "valor": 2093
+    },
+    {
+      "periodo": "2017",
+      "valor": 1566
+    },
+    {
+      "periodo": "2018",
+      "valor": 1453
+    },
+    {
+      "periodo": "2019",
+      "valor": 1118
+    },
+    {
+      "periodo": "2020",
+      "valor": 649
+    },
+    {
+      "periodo": "2021",
+      "valor": 721
+    },
+    {
+      "periodo": "2022",
+      "valor": 1067,
+      "horas_paradas_mil": 54
+    },
+    {
+      "periodo": "2023",
+      "valor": 1132,
+      "horas_paradas_mil": 42
+    },
+    {
+      "periodo": "2024",
+      "valor": 880,
+      "horas_paradas_mil": 35.416,
+      "observacao": "36,7 mil horas após revisão"
+    },
+    {
+      "periodo": "2025",
+      "valor": 1006,
+      "horas_paradas_mil": 33.1
+    }
+  ],
+  "faixas_referencia": [],
+  "notas_metodologicas": [
+    "2011: 554 greves, maior desde 1997 (631). 2025: privado 539 (53,6%; 86,8% defensivas), público 395; estatais +54%. Pico histórico em 2013 e 2016; queda em 2017–2021 (mínimo na pandemia); retomada moderada em 2022–2025.",
+    "URLs dos balanços anuais estão na nota de pesquisa (seção 'Enriquecimento — rodada 2', item 10)."
+  ],
+  "lacunas": [
+    "Balanços de 2014 e 2015 não localizados no site do DIEESE."
+  ],
+  "ultimo_periodo": "2025",
+  "temas": [
+    "emprego-renda"
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/03_emprego_renda_pobreza_social.md",
+  "atualizado_em": "2026-10-21"
+}

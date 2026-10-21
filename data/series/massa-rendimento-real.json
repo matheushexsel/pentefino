@@ -1,41 +1,122 @@
 {
   "id": "massa-rendimento-real",
-  "titulo": "Massa de rendimento real habitual",
-  "descricao_simples": "Soma de tudo o que os trabalhadores ocupados ganham por mês, descontada a inflação.",
+  "titulo": "Massa de rendimento real habitual, 2012–2026",
+  "descricao_simples": "Soma de tudo o que os trabalhadores ocupados ganham por mês, descontada a inflação: média anual dos trimestres móveis e trimestre out–dez.",
   "unidade": "R$ bilhões",
   "tipo_grafico": "linha",
-  "frequencia": "mensal",
+  "frequencia": "anual",
   "fonte": {
-    "nome": "IBGE/SIDRA, tabela 6392",
-    "url": "https://apisidra.ibge.gov.br/values/t/6392/n1/all/v/all/p/last%206",
+    "nome": "IBGE/SIDRA, tabela 6392, variável 6293 (R$ bilhões a preços do último mês da série); médias anuais são aritmética da nota",
+    "url": "https://apisidra.ibge.gov.br/values/t/6392/n1/all/v/all/p/all",
     "acesso_em": "2026-10-21",
     "tier": "oficial"
   },
   "pontos": [
     {
-      "periodo": "2025 (média anual)",
-      "valor": 361.7,
-      "fonte_ponto": "Retrospectiva 2012-2025"
+      "periodo": "2012",
+      "valor": 274.9,
+      "media_trimestres_moveis": 274.9,
+      "trimestre_out_dez": 277.9
+    },
+    {
+      "periodo": "2013",
+      "valor": 287.2,
+      "media_trimestres_moveis": 287.2
+    },
+    {
+      "periodo": "2014",
+      "valor": 297.2,
+      "media_trimestres_moveis": 297.2,
+      "trimestre_out_dez": 299.8
+    },
+    {
+      "periodo": "2015",
+      "valor": 293.1,
+      "media_trimestres_moveis": 293.1
+    },
+    {
+      "periodo": "2016",
+      "valor": 282.6,
+      "media_trimestres_moveis": 282.6,
+      "trimestre_out_dez": 284.1
+    },
+    {
+      "periodo": "2017",
+      "valor": 287.3,
+      "media_trimestres_moveis": 287.3
+    },
+    {
+      "periodo": "2018",
+      "valor": 296.0,
+      "media_trimestres_moveis": 296.0
+    },
+    {
+      "periodo": "2019",
+      "valor": 303.2,
+      "media_trimestres_moveis": 303.2,
+      "trimestre_out_dez": 308.7
+    },
+    {
+      "periodo": "2020",
+      "valor": 291.3,
+      "media_trimestres_moveis": 291.3,
+      "trimestre_out_dez": 287.9
+    },
+    {
+      "periodo": "2021",
+      "valor": 283.7,
+      "media_trimestres_moveis": 283.7,
+      "trimestre_out_dez": 282.2
+    },
+    {
+      "periodo": "2022",
+      "valor": 303.0,
+      "media_trimestres_moveis": 303.0,
+      "trimestre_out_dez": 318.0
+    },
+    {
+      "periodo": "2023",
+      "valor": 323.5,
+      "media_trimestres_moveis": 323.5,
+      "trimestre_out_dez": 333.5
+    },
+    {
+      "periodo": "2024",
+      "valor": 347.8,
+      "media_trimestres_moveis": 347.8,
+      "trimestre_out_dez": 357.8
+    },
+    {
+      "periodo": "2025",
+      "valor": 368.9,
+      "media_trimestres_moveis": 368.9,
+      "trimestre_out_dez": 380.7
     },
     {
       "periodo": "dez/2025–fev/2026",
       "valor": 371.092,
+      "parcial": true,
       "fonte_ponto": "Lupa, 14/04/2026"
     },
     {
       "periodo": "jun–ago/2026",
       "valor": 385.566,
+      "parcial": true,
       "recorde": true
     }
   ],
-  "faixas_referencia": [],
+  "faixas_referencia": [
+    {
+      "rotulo": "Média anual 2025 segundo a Retrospectiva 2012-2025 do IBGE (banco anual)",
+      "valor": 361.7
+    }
+  ],
   "notas_metodologicas": [
-    "jun–ago/2026: +4,8% em um ano; +1,4% vs trimestre anterior; recorde da série.",
-    "2025: +7,5% (+R$ 25,4 bi) vs 2024."
+    "Rodada 2 (21/10/2026): série anual preenchida pela média dos quatro trimestres móveis encerrados em mar/jun/set/dez (aritmética da nota). A média de 2025 pela tabela 6392 (R$ 368,9 bi) difere da Retrospectiva (R$ 361,7 bi) por deflator/base de preços e construção (trimestres móveis x banco anual): usar a Retrospectiva para 'média anual' oficial e a 6392 só para a série; não misturar.",
+    "A massa só superou o nível de 2014 em 2022 e o de 2019 em 2023. jun–ago/2026: R$ 385,6 bi (+4,8% a/a; +1,4% vs trimestre anterior), recorde.",
+    "2025 (Retrospectiva): +7,5% (+R$ 25,4 bi) vs 2024."
   ],
-  "lacunas": [
-    "Série anual 2012–2024 não obtida (só 2025 e trimestres móveis de 2026)."
-  ],
+  "lacunas": [],
   "ultimo_periodo": "jun–ago/2026",
   "temas": [
     "emprego-renda"

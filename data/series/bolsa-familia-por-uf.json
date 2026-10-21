@@ -1,0 +1,224 @@
+{
+  "id": "bolsa-familia-por-uf",
+  "titulo": "Bolsa Família por estado: famílias em dez/2022 e dez/2025",
+  "descricao_simples": "Quantas famílias recebem o Bolsa Família em cada estado e quantas são por mil habitantes.",
+  "unidade": "famílias (dez/2025)",
+  "tipo_grafico": "barra",
+  "frequencia": "anual",
+  "fonte": {
+    "nome": "Ipeadata, FAM_PBF nível Estados (origem MDS/Portal da Transparência); população IBGE/SIDRA 6579 (2025)",
+    "url": "http://www.ipeadata.gov.br/api/odata4/ValoresSerie(SERCODIGO='FAM_PBF')",
+    "acesso_em": "2026-10-21",
+    "tier": "oficial"
+  },
+  "pontos": [
+    {
+      "periodo": "Maranhão",
+      "valor": 1149711,
+      "familias_dez_2022": 1168924,
+      "familias_dez_2025": 1149711,
+      "familias_por_mil_hab_2025": 163.8
+    },
+    {
+      "periodo": "Piauí",
+      "valor": 547595,
+      "familias_dez_2022": 622879,
+      "familias_dez_2025": 547595,
+      "familias_por_mil_hab_2025": 161.8
+    },
+    {
+      "periodo": "Bahia",
+      "valor": 2301351,
+      "familias_dez_2022": 2558556,
+      "familias_dez_2025": 2301351,
+      "familias_por_mil_hab_2025": 154.8
+    },
+    {
+      "periodo": "Alagoas",
+      "valor": 497039,
+      "familias_dez_2022": 539917,
+      "familias_dez_2025": 497039,
+      "familias_por_mil_hab_2025": 154.3
+    },
+    {
+      "periodo": "Pernambuco",
+      "valor": 1466691,
+      "familias_dez_2022": 1687528,
+      "familias_dez_2025": 1466691,
+      "familias_por_mil_hab_2025": 153.4
+    },
+    {
+      "periodo": "Sergipe",
+      "valor": 351946,
+      "familias_dez_2022": 403255,
+      "familias_dez_2025": 351946,
+      "familias_por_mil_hab_2025": 153.1
+    },
+    {
+      "periodo": "Paraíba",
+      "valor": 620831,
+      "familias_dez_2022": 691850,
+      "familias_dez_2025": 620831,
+      "familias_por_mil_hab_2025": 149.1
+    },
+    {
+      "periodo": "Ceará",
+      "valor": 1336594,
+      "familias_dez_2022": 1485317,
+      "familias_dez_2025": 1336594,
+      "familias_por_mil_hab_2025": 144.2
+    },
+    {
+      "periodo": "Pará",
+      "valor": 1245636,
+      "familias_dez_2022": 1293671,
+      "familias_dez_2025": 1245636,
+      "familias_por_mil_hab_2025": 143.0
+    },
+    {
+      "periodo": "Acre",
+      "valor": 123535,
+      "familias_dez_2022": 130972,
+      "familias_dez_2025": 123535,
+      "familias_por_mil_hab_2025": 139.7
+    },
+    {
+      "periodo": "Amapá",
+      "valor": 111909,
+      "familias_dez_2022": 121742,
+      "familias_dez_2025": 111909,
+      "familias_por_mil_hab_2025": 138.8
+    },
+    {
+      "periodo": "Amazonas",
+      "valor": 594604,
+      "familias_dez_2022": 611433,
+      "familias_dez_2025": 594604,
+      "familias_por_mil_hab_2025": 137.6
+    },
+    {
+      "periodo": "Rio Grande do Norte",
+      "valor": 465403,
+      "familias_dez_2022": 511503,
+      "familias_dez_2025": 465403,
+      "familias_por_mil_hab_2025": 134.7
+    },
+    {
+      "periodo": "Roraima",
+      "valor": 72735,
+      "familias_dez_2022": 62870,
+      "familias_dez_2025": 72735,
+      "familias_por_mil_hab_2025": 98.5
+    },
+    {
+      "periodo": "Tocantins",
+      "valor": 141403,
+      "familias_dez_2022": 154667,
+      "familias_dez_2025": 141403,
+      "familias_por_mil_hab_2025": 89.1
+    },
+    {
+      "periodo": "Rio de Janeiro",
+      "valor": 1398338,
+      "familias_dez_2022": 1840978,
+      "familias_dez_2025": 1398338,
+      "familias_por_mil_hab_2025": 81.2
+    },
+    {
+      "periodo": "Rondônia",
+      "valor": 122498,
+      "familias_dez_2022": 122041,
+      "familias_dez_2025": 122498,
+      "familias_por_mil_hab_2025": 69.9
+    },
+    {
+      "periodo": "Espírito Santo",
+      "valor": 273125,
+      "familias_dez_2022": 301751,
+      "familias_dez_2025": 273125,
+      "familias_por_mil_hab_2025": 66.2
+    },
+    {
+      "periodo": "Minas Gerais",
+      "valor": 1402293,
+      "familias_dez_2022": 1607780,
+      "familias_dez_2025": 1402293,
+      "familias_por_mil_hab_2025": 65.5
+    },
+    {
+      "periodo": "Mato Grosso do Sul",
+      "valor": 179439,
+      "familias_dez_2022": 204751,
+      "familias_dez_2025": 179439,
+      "familias_por_mil_hab_2025": 61.4
+    },
+    {
+      "periodo": "Goiás",
+      "valor": 437540,
+      "familias_dez_2022": 489303,
+      "familias_dez_2025": 437540,
+      "familias_por_mil_hab_2025": 58.9
+    },
+    {
+      "periodo": "Mato Grosso",
+      "valor": 211696,
+      "familias_dez_2022": 252351,
+      "familias_dez_2025": 211696,
+      "familias_por_mil_hab_2025": 54.4
+    },
+    {
+      "periodo": "Distrito Federal",
+      "valor": 151806,
+      "familias_dez_2022": 162811,
+      "familias_dez_2025": 151806,
+      "familias_por_mil_hab_2025": 50.7
+    },
+    {
+      "periodo": "São Paulo",
+      "valor": 2163208,
+      "familias_dez_2022": 2539853,
+      "familias_dez_2025": 2163208,
+      "familias_por_mil_hab_2025": 46.9
+    },
+    {
+      "periodo": "Rio Grande do Sul",
+      "valor": 518649,
+      "familias_dez_2022": 603434,
+      "familias_dez_2025": 518649,
+      "familias_por_mil_hab_2025": 46.2
+    },
+    {
+      "periodo": "Paraná",
+      "valor": 534223,
+      "familias_dez_2022": 588266,
+      "familias_dez_2025": 534223,
+      "familias_por_mil_hab_2025": 44.9
+    },
+    {
+      "periodo": "Santa Catarina",
+      "valor": 198438,
+      "familias_dez_2022": 216749,
+      "familias_dez_2025": 198438,
+      "familias_por_mil_hab_2025": 24.2
+    },
+    {
+      "periodo": "Brasil",
+      "valor": 18618236,
+      "familias_dez_2022": 20975152,
+      "familias_dez_2025": 18618236,
+      "familias_por_mil_hab_2025": 87.5
+    }
+  ],
+  "faixas_referencia": [],
+  "notas_metodologicas": [
+    "familias_por_mil_hab_2025 = famílias / população estimada 2025 × 1.000 (aritmética da nota); não é 'percentual da população coberta' (família ≠ pessoa). População: https://apisidra.ibge.gov.br/values/t/6579/n3/all/v/9324/p/2025",
+    "Queda de 2,36 milhões de famílias entre dez/2022 e dez/2025 (−11,2%), concentrada em RJ (−442 mil), SP (−377 mil), BA (−257 mil) e PE (−221 mil); só Roraima e Rondônia cresceram."
+  ],
+  "lacunas": [],
+  "ultimo_periodo": "dez/2025",
+  "temas": [
+    "pobreza-programas-sociais"
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/03_emprego_renda_pobreza_social.md",
+  "atualizado_em": "2026-10-21"
+}

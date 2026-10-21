@@ -86,22 +86,42 @@
       "valor": 22.7
     },
     {
-      "rotulo": "Auxílio Emergencial 2020–2021, faixa mínima (Senado)",
-      "valor": 293
+      "rotulo": "Auxílio Emergencial pago em 2020 (Portal da Transparência via Ipeadata VAL_AUXEMG)",
+      "valor": 293.34
     },
     {
-      "rotulo": "Auxílio Emergencial 2020–2021, faixa máxima (Portal da Transparência)",
-      "valor": 354
+      "rotulo": "Auxílio Emergencial pago em 2021",
+      "valor": 56.89
+    },
+    {
+      "rotulo": "Auxílio Emergencial pago em 2022 (residual)",
+      "valor": 3.37
+    },
+    {
+      "rotulo": "Auxílio Emergencial total 2020–2023 (soma da nota)",
+      "valor": 353.6
+    },
+    {
+      "rotulo": "Bolsa Família sujeito ao limite da LC 200 em 2026 (Relatório 3º bimestre/2026)",
+      "valor": 155.8
+    },
+    {
+      "rotulo": "Bolsa Família no PLOA 2027",
+      "valor": 157.1
     }
   ],
   "notas_metodologicas": [
     "Os pontos misturam valores pagos e valores orçados (campo tipo). Fontes divergem: 2024 = R$ 168,2 bi (Poder360), ~R$ 170,2 bi (balanço MDS via imprensa) ou R$ 163,50 bi (Portal Transparência Brasil).",
     "Dados de 2023–2026 vêm das notas 02 e 03; URL alternativa da nota 03: https://diariodopara.com.br/noticias/brasil/bolsa-familia-amplia-alcance-em-2024-sem-gastar-mais-que-no-ano-anterior",
-    "Não há série oficial anual em fonte primária acessada (Portal da Transparência bloqueou o acesso)."
+    "Não há série oficial anual em fonte primária acessada (Portal da Transparência bloqueou o acesso).",
+    "Rodada 2 (21/10/2026): a série de benefícios pagos do Portal da Transparência (Ipeadata VAL_PBF12) dá R$ 150,8 bi (2023), R$ 161,5 bi (2024) e R$ 157,1 bi (2025), abaixo dos R$ 170,4 / 168,2 / 158,6 bi desta série; são conceitos diferentes (benefícios pagos x despesa orçamentária, que inclui outros custos e benefícios extraordinários). Ver bolsa-familia-valor-pago-anual.",
+    "Auxílio Emergencial com fonte primária (Ipeadata/MDS, Portal da Transparência): R$ 293,34 bi (2020), R$ 56,89 bi (2021), R$ 3,37 bi (2022), total ≈ R$ 353,6 bi — fecha a faixa R$ 293–354 bi da rodada 1; não é número auditado pelo TCU.",
+    "IFI (RAF 115/116): em 2026 há queda das despesas com o Bolsa Família pela perda de valor real do benefício (congelado até out/2026) e pela redução do número de famílias."
   ],
   "lacunas": [
-    "Custo anual 2007–2021 não levantado.",
-    "Custo final auditado do Auxílio Emergencial (Tesouro) não obtido; só a faixa R$ 293–354 bi."
+    "Custo anual 2007–2021 em despesa orçamentária não levantado (valores pagos de 2013–2021 em bolsa-familia-valor-pago-anual).",
+    "Série oficial 2023–2025 do Tesouro (RTN) inacessível (HTTP 429).",
+    "Relatório final do TCU com custo auditado do Auxílio Emergencial não localizado."
   ],
   "ultimo_periodo": "2026",
   "temas": [

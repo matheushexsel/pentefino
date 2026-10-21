@@ -98,15 +98,15 @@
     },
     {
       "periodo": "2024",
-      "valor": 55400,
-      "estimativa": true,
-      "nao_verificado": true
+      "valor": 55247.45,
+      "fonte_ponto": "IBGE, Contas Nacionais Trimestrais 4T2024",
+      "url": "https://biblioteca.ibge.gov.br/visualizacao/periodicos/2121/cnt_2024_4tri.pdf"
     },
     {
       "periodo": "2025",
-      "valor": 59700,
-      "estimativa": true,
-      "nao_verificado": true
+      "valor": 59687.49,
+      "fonte_ponto": "IBGE, Contas Nacionais Trimestrais 4T2025",
+      "url": "https://biblioteca.ibge.gov.br/visualizacao/periodicos/2121/cnt_2025_4tri.pdf"
     }
   ],
   "faixas_referencia": [
@@ -116,8 +116,9 @@
     }
   ],
   "notas_metodologicas": [
-    "A série anual definitiva do IBGE vai até 2023.",
-    "2024 (≈ R$ 55,4 mil) e 2025 (≈ R$ 59,7 mil) são estimativas da nota de pesquisa (PIB nominal trimestral ÷ população projetada), não números oficiais do IBGE; marcadas como nao_verificado."
+    "A série anual definitiva do IBGE (SIDRA 6784) vai até 2023.",
+    "Rodada 2 (21/10/2026): 2024 (R$ 55.247,45) e 2025 (R$ 59.687,49) são valores oficiais das Contas Nacionais Trimestrais do IBGE (4T2024 e 4T2025), que substituíram as estimativas próprias da rodada 1 (≈55,4 mil e ≈59,7 mil); ainda sujeitos à revisão do Sistema de Contas Nacionais anual.",
+    "Variação real do PIB per capita (IBGE): 2024 +3,0%; 2025 +1,9%. Ver pib-per-capita-real-variacao para a série 2002–2025."
   ],
   "lacunas": [],
   "ultimo_periodo": "2025",

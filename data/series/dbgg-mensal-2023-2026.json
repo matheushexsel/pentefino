@@ -1,0 +1,293 @@
+{
+  "id": "dbgg-mensal-2023-2026",
+  "titulo": "Dívida bruta e líquida mês a mês, jan/2023–ago/2026",
+  "descricao_simples": "Evolução mensal da dívida bruta do governo geral (em % do PIB e em reais) e da dívida líquida do setor público no governo Lula 3.",
+  "unidade": "% do PIB",
+  "tipo_grafico": "linha",
+  "frequencia": "mensal",
+  "fonte": {
+    "nome": "Banco Central do Brasil, SGS 13762 (DBGG % PIB), 13761 (DBGG R$ milhões) e 4513 (DLSP % PIB)",
+    "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.13762/dados?formato=json&dataInicial=01/01/2023",
+    "acesso_em": "2026-10-21",
+    "tier": "oficial"
+  },
+  "pontos": [
+    {
+      "periodo": "01/2023",
+      "valor": 71.38,
+      "dbgg_reais_bilhoes": 7257.2,
+      "dlsp_pct_pib": 55.21
+    },
+    {
+      "periodo": "02/2023",
+      "valor": 71.77,
+      "dbgg_reais_bilhoes": 7351.9,
+      "dlsp_pct_pib": 55.71
+    },
+    {
+      "periodo": "03/2023",
+      "valor": 71.54,
+      "dbgg_reais_bilhoes": 7398.0,
+      "dlsp_pct_pib": 55.98
+    },
+    {
+      "periodo": "04/2023",
+      "valor": 71.57,
+      "dbgg_reais_bilhoes": 7456.7,
+      "dlsp_pct_pib": 55.92
+    },
+    {
+      "periodo": "05/2023",
+      "valor": 72.11,
+      "dbgg_reais_bilhoes": 7563.9,
+      "dlsp_pct_pib": 56.59
+    },
+    {
+      "periodo": "06/2023",
+      "valor": 71.97,
+      "dbgg_reais_bilhoes": 7594.0,
+      "dlsp_pct_pib": 57.78
+    },
+    {
+      "periodo": "07/2023",
+      "valor": 72.48,
+      "dbgg_reais_bilhoes": 7685.5,
+      "dlsp_pct_pib": 58.34
+    },
+    {
+      "periodo": "08/2023",
+      "valor": 72.89,
+      "dbgg_reais_bilhoes": 7771.6,
+      "dlsp_pct_pib": 58.68
+    },
+    {
+      "periodo": "09/2023",
+      "valor": 73.01,
+      "dbgg_reais_bilhoes": 7826.1,
+      "dlsp_pct_pib": 58.87
+    },
+    {
+      "periodo": "10/2023",
+      "valor": 73.32,
+      "dbgg_reais_bilhoes": 7913.5,
+      "dlsp_pct_pib": 58.85
+    },
+    {
+      "periodo": "11/2023",
+      "valor": 73.32,
+      "dbgg_reais_bilhoes": 7972.6,
+      "dlsp_pct_pib": 59.08
+    },
+    {
+      "periodo": "12/2023",
+      "valor": 73.83,
+      "dbgg_reais_bilhoes": 8079.3,
+      "dlsp_pct_pib": 60.43
+    },
+    {
+      "periodo": "01/2024",
+      "valor": 74.47,
+      "dbgg_reais_bilhoes": 8210.7,
+      "dlsp_pct_pib": 59.55
+    },
+    {
+      "periodo": "02/2024",
+      "valor": 74.81,
+      "dbgg_reais_bilhoes": 8301.8,
+      "dlsp_pct_pib": 60.32
+    },
+    {
+      "periodo": "03/2024",
+      "valor": 75.02,
+      "dbgg_reais_bilhoes": 8347.1,
+      "dlsp_pct_pib": 60.59
+    },
+    {
+      "periodo": "04/2024",
+      "valor": 75.15,
+      "dbgg_reais_bilhoes": 8424.2,
+      "dlsp_pct_pib": 60.55
+    },
+    {
+      "periodo": "05/2024",
+      "valor": 75.67,
+      "dbgg_reais_bilhoes": 8522.8,
+      "dlsp_pct_pib": 61.23
+    },
+    {
+      "periodo": "06/2024",
+      "valor": 76.68,
+      "dbgg_reais_bilhoes": 8691.5,
+      "dlsp_pct_pib": 61.28
+    },
+    {
+      "periodo": "07/2024",
+      "valor": 77.21,
+      "dbgg_reais_bilhoes": 8826.4,
+      "dlsp_pct_pib": 60.91
+    },
+    {
+      "periodo": "08/2024",
+      "valor": 77.36,
+      "dbgg_reais_bilhoes": 8898.0,
+      "dlsp_pct_pib": 61.08
+    },
+    {
+      "periodo": "09/2024",
+      "valor": 77.09,
+      "dbgg_reais_bilhoes": 8928.0,
+      "dlsp_pct_pib": 61.46
+    },
+    {
+      "periodo": "10/2024",
+      "valor": 77.38,
+      "dbgg_reais_bilhoes": 9031.9,
+      "dlsp_pct_pib": 61.12
+    },
+    {
+      "periodo": "11/2024",
+      "valor": 77.5,
+      "dbgg_reais_bilhoes": 9091.1,
+      "dlsp_pct_pib": 60.99
+    },
+    {
+      "periodo": "12/2024",
+      "valor": 76.27,
+      "dbgg_reais_bilhoes": 8984.2,
+      "dlsp_pct_pib": 61.3
+    },
+    {
+      "periodo": "01/2025",
+      "valor": 75.48,
+      "dbgg_reais_bilhoes": 8940.0,
+      "dlsp_pct_pib": 60.96
+    },
+    {
+      "periodo": "02/2025",
+      "valor": 75.78,
+      "dbgg_reais_bilhoes": 9045.3,
+      "dlsp_pct_pib": 61.13
+    },
+    {
+      "periodo": "03/2025",
+      "valor": 75.55,
+      "dbgg_reais_bilhoes": 9095.9,
+      "dlsp_pct_pib": 61.3
+    },
+    {
+      "periodo": "04/2025",
+      "valor": 75.62,
+      "dbgg_reais_bilhoes": 9176.3,
+      "dlsp_pct_pib": 61.25
+    },
+    {
+      "periodo": "05/2025",
+      "valor": 75.75,
+      "dbgg_reais_bilhoes": 9264.7,
+      "dlsp_pct_pib": 61.71
+    },
+    {
+      "periodo": "06/2025",
+      "valor": 76.3,
+      "dbgg_reais_bilhoes": 9388.8,
+      "dlsp_pct_pib": 62.6
+    },
+    {
+      "periodo": "07/2025",
+      "valor": 77.18,
+      "dbgg_reais_bilhoes": 9555.2,
+      "dlsp_pct_pib": 63.41
+    },
+    {
+      "periodo": "08/2025",
+      "valor": 77.31,
+      "dbgg_reais_bilhoes": 9619.8,
+      "dlsp_pct_pib": 64.05
+    },
+    {
+      "periodo": "09/2025",
+      "valor": 77.84,
+      "dbgg_reais_bilhoes": 9748.5,
+      "dlsp_pct_pib": 64.57
+    },
+    {
+      "periodo": "10/2025",
+      "valor": 78.29,
+      "dbgg_reais_bilhoes": 9855.8,
+      "dlsp_pct_pib": 64.68
+    },
+    {
+      "periodo": "11/2025",
+      "valor": 78.95,
+      "dbgg_reais_bilhoes": 9990.9,
+      "dlsp_pct_pib": 65.18
+    },
+    {
+      "periodo": "12/2025",
+      "valor": 78.64,
+      "dbgg_reais_bilhoes": 10017.9,
+      "dlsp_pct_pib": 65.24
+    },
+    {
+      "periodo": "01/2026",
+      "valor": 78.7,
+      "dbgg_reais_bilhoes": 10080.0,
+      "dlsp_pct_pib": 64.94
+    },
+    {
+      "periodo": "02/2026",
+      "valor": 79.13,
+      "dbgg_reais_bilhoes": 10178.3,
+      "dlsp_pct_pib": 65.46
+    },
+    {
+      "periodo": "03/2026",
+      "valor": 79.88,
+      "dbgg_reais_bilhoes": 10355.8,
+      "dlsp_pct_pib": 66.67
+    },
+    {
+      "periodo": "04/2026",
+      "valor": 80.09,
+      "dbgg_reais_bilhoes": 10442.8,
+      "dlsp_pct_pib": 67.13
+    },
+    {
+      "periodo": "05/2026",
+      "valor": 81.04,
+      "dbgg_reais_bilhoes": 10622.3,
+      "dlsp_pct_pib": 67.88
+    },
+    {
+      "periodo": "06/2026",
+      "valor": 81.95,
+      "dbgg_reais_bilhoes": 10809.5,
+      "dlsp_pct_pib": 68.49
+    },
+    {
+      "periodo": "07/2026",
+      "valor": 82.55,
+      "dbgg_reais_bilhoes": 10946.7,
+      "dlsp_pct_pib": 69.11
+    },
+    {
+      "periodo": "08/2026",
+      "valor": 82.87,
+      "dbgg_reais_bilhoes": 11055.0,
+      "dlsp_pct_pib": 69.27
+    }
+  ],
+  "faixas_referencia": [],
+  "notas_metodologicas": [
+    "dbgg_reais_bilhoes convertido de R$ milhões (SGS 13761) para bilhões.",
+    "DLSP em ago/2026: 69,3% do PIB (R$ 9,2 tri), +4,0 p.p. no ano (juros +5,8; primário +0,7; câmbio +0,6; PIB nominal −3,0).",
+    "URLs: https://api.bcb.gov.br/dados/serie/bcdata.sgs.13761/dados?formato=json&dataInicial=01/01/2023 ; https://api.bcb.gov.br/dados/serie/bcdata.sgs.4513/dados?formato=json&dataInicial=01/01/2023"
+  ],
+  "lacunas": [],
+  "ultimo_periodo": "08/2026",
+  "temas": [
+    "contas-publicas"
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/02_contas_publicas_divida.md",
+  "atualizado_em": "2026-10-21"
+}

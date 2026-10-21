@@ -18,9 +18,8 @@
     },
     {
       "periodo": "2024 (ano-base 2023)",
-      "valor": 43200000,
-      "aproximado": true,
-      "divergencia": "Receita: 43,2 mi declarações; nota técnica Dutra/Monteiro/Gobetti com dados da RFB: ~40,7 mi pessoas declararam"
+      "valor": 40670592,
+      "divergencia": "Dutra/Monteiro/Gobetti (Tabela A1, dados RFB): 40.670.592 declarantes; a Receita falava em 43,2 mi declarações entregues em 2024 (inclui retificadoras/duplicidades?) — conceitos possivelmente distintos"
     },
     {
       "periodo": "2025 (ano-base 2024)",
@@ -43,17 +42,22 @@
     {
       "rotulo": "Contribuintes atingidos pelo IR mínimo (renda > R$ 600 mil/ano)",
       "valor": 141400
+    },
+    {
+      "rotulo": "Declarantes na Tabela 8 dos Grandes Números IRPF 2025 (AC 2024)",
+      "valor": 41676491
     }
   ],
   "notas_metodologicas": [
     "IRPF 2025: 56,4% das declarações com imposto a restituir; 22,2% com imposto a pagar; 21,2% sem imposto a pagar ou restituir. Obrigatório para rendimentos tributáveis acima de R$ 33.888 em 2024 (≈2 SM/mês ficam dispensados).",
     "Declarantes representam ~25-27% dos adultos; os demais têm renda abaixo do limite ou informal — qualquer medida de IRPF atinge diretamente só a metade superior da distribuição (inferência da nota).",
     "Distribuição (ano-calendário 2023, Sindifisco/Unafisco): 94% dos declarantes estão nas faixas até 20 SM e detêm 52% da renda declarada (R$ 5,693 trilhões no total); os 6% acima de 20 SM detêm 48%. DIRPF 2022: 94% até 20 SM com 54,5%; 6% do topo com 45,5%.",
-    "O número total de pessoas com imposto devido > 0 está na Tabela 1 dos Grandes Números da Receita (Excel), não extraída."
+    "O número total de pessoas com imposto devido > 0 está na Tabela 1 dos Grandes Números da Receita (Excel), não extraída.",
+    "Grandes Números IRPF 2025 (AC 2024, Tabela 8): 41.676.491 declarantes; imposto devido total R$ 338,1 bi (5,6% da renda total de R$ 6,09 tri = 3.085,9 + 633,3 + 2.370,0 bi); 6,1 mi declarantes até 2 SM praticamente sem imposto; 867 mil acima de 40 SM devem 20,5% do imposto. Ver série irpf-por-faixa-sm-2025."
   ],
   "lacunas": [
     "Exercícios anteriores a 2023 não constam das notas.",
-    "Tabelas por faixa de SM dos Grandes Números (declarantes, imposto devido, alíquota efetiva) não extraídas."
+    "Tabelas por faixa de SM do AC 2023 (Grandes Números 2024) não extraídas; a do AC 2024 está na série irpf-por-faixa-sm-2025."
   ],
   "ultimo_periodo": "2025 (ano-base 2024)",
   "temas": [
@@ -61,5 +65,19 @@
     "emprego-renda"
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/13_renda_por_faixa_e_simulacoes_de_impacto.md",
-  "atualizado_em": "2026-10-21"
+  "atualizado_em": "2026-10-21",
+  "fontes_adicionais": [
+    {
+      "nome": "Receita Federal — Grandes Números IRPF 2025 (ano-calendário 2024), Tabelas 8 e 9 (planilha; agregação da nota)",
+      "url": "https://www.gov.br/receitafederal/pt-br/centrais-de-conteudo/publicacoes/estudos/imposto-de-renda/estudos-por-ano/grandes-numeros-do-IRPF-2008-a-2025/grandes-numeros-do-irpf-2025-ano-calendario-2024-tabelas/view",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Dutra, Monteiro e Gobetti — 'Concentração de renda no Brasil: o que os dados do IRPF revelam' (FiscalData, 14/08/2025), Tabelas 2, 3, A1 e A2",
+      "url": "https://static.poder360.com.br/2025/08/Concentracao-de-renda-no-Brasil-o-que-os-dados-do-IRPF-revelam-14-ago-2025.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    }
+  ]
 }

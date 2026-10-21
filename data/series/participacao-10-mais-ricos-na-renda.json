@@ -6,15 +6,59 @@
   "tipo_grafico": "linha",
   "frequencia": "anual",
   "fonte": {
-    "nome": "IBGE — PNAD Contínua: Rendimento de todas as fontes 2025 (Informativo, 08/05/2026)",
-    "url": "https://biblioteca.ibge.gov.br/visualizacao/livros/liv102275_informativo.pdf",
+    "nome": "IBGE/SIDRA — tabela 7527: parcela da massa de rendimento domiciliar per capita por classe (PNAD Contínua anual, via API, acesso 21/10/2026)",
+    "url": "https://sidra.ibge.gov.br/tabela/7527",
     "acesso_em": "2026-10-21",
     "tier": "oficial"
   },
   "pontos": [
     {
+      "periodo": "2012",
+      "valor": 42.8
+    },
+    {
+      "periodo": "2013",
+      "valor": 42.2
+    },
+    {
+      "periodo": "2014",
+      "valor": 41.6
+    },
+    {
+      "periodo": "2015",
+      "valor": 41.3
+    },
+    {
+      "periodo": "2016",
+      "valor": 42.4
+    },
+    {
+      "periodo": "2017",
+      "valor": 42.5
+    },
+    {
+      "periodo": "2018",
+      "valor": 43.1
+    },
+    {
       "periodo": "2019",
       "valor": 42.8
+    },
+    {
+      "periodo": "2020",
+      "valor": 41.5
+    },
+    {
+      "periodo": "2021",
+      "valor": 42.6
+    },
+    {
+      "periodo": "2022",
+      "valor": 40.5
+    },
+    {
+      "periodo": "2023",
+      "valor": 40.9
     },
     {
       "periodo": "2024",
@@ -48,13 +92,11 @@
     }
   ],
   "notas_metodologicas": [
-    "Os 70% mais pobres somavam 32,8% da massa em 2025 — menos que o décimo mais rico.",
-    "A PNAD subcapta o topo: pelo IRPF, os 10% superiores dos declarantes detinham 52,0% da renda declarada em 2023 (PNADC: 43,8%), o 1% 24,5% (PNADC 12,6%) e o 0,1% 12,5% (PNADC 2,9%) — SPE/Fazenda.",
-    "Dutra, Monteiro e Gobetti (2025): a fatia do 1% mais rico na renda disponível bruta subiu de 20,4% (2017) para 24,3% (2023); 85% desse acréscimo foi capturado pelo 0,1% e metade pelo 0,01%; 90% do aumento vem de rendas do capital, 66% de lucros e dividendos."
+    "Série completa 2012-2025 (SIDRA 7527). Corrige a impressão de queda contínua: a fatia dos 10% mais ricos oscilou entre 41,3% (2015) e 43,1% (2018) de 2012 a 2021 e caiu para 40,5% (2022), 40,9% (2023), 39,6% (2024) e 40,3% (2025).",
+    "1% mais rico na mesma base: 12,1% (2012), 12,4% (2019), 10,7% (2024), 11,0% (2025); 10% mais pobres: 1,0% (2012), 0,7% (2021), 1,2% (2025). Os 70% mais pobres somavam 32,8% em 2025.",
+    "A PNAD subcapta o topo: pelo IRPF, os 10% superiores dos declarantes detinham 52,0% da renda declarada em 2023 (PNADC: 43,8%), o 1% 24,5% (PNADC 12,6%) e o 0,1% 12,5% (PNADC 2,9%) — SPE/Fazenda. Ver série top-1-por-cento-renda-irpf (Dutra/Monteiro/Gobetti)."
   ],
-  "lacunas": [
-    "Anos 2012-2018 e 2020-2023 não constam da nota."
-  ],
+  "lacunas": [],
   "ultimo_periodo": "2025",
   "temas": [
     "emprego-renda",

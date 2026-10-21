@@ -1,0 +1,234 @@
+{
+  "id": "cesta-basica-por-capital",
+  "titulo": "Custo da cesta básica por capital e peso no salário mínimo (DIEESE, setembro/2026)",
+  "descricao_simples": "Quanto custa a cesta básica de alimentos em cada capital e que fatia do salário mínimo líquido ela consome.",
+  "unidade": "R$ (valor); % do SM líquido e tempo de trabalho nos campos adicionais",
+  "tipo_grafico": "barra",
+  "frequencia": "mensal",
+  "fonte": {
+    "nome": "DIEESE — Pesquisa Nacional da Cesta Básica de Alimentos, setembro/2026, Tabela 1 (PDF, 09/10/2026)",
+    "url": "https://www.dieese.org.br/analisecestabasica/2026/202609cestabasica.pdf",
+    "acesso_em": "2026-10-21",
+    "tier": "academico"
+  },
+  "pontos": [
+    {
+      "periodo": "São Paulo",
+      "valor": 922.51,
+      "variacao_mes_pct": 2.43,
+      "pct_salario_minimo_liquido": 61.52,
+      "tempo_de_trabalho": "125h12m"
+    },
+    {
+      "periodo": "Florianópolis",
+      "valor": 915.62,
+      "variacao_mes_pct": 7.61,
+      "pct_salario_minimo_liquido": 61.06,
+      "tempo_de_trabalho": "124h16m"
+    },
+    {
+      "periodo": "Rio de Janeiro",
+      "valor": 913.46,
+      "variacao_mes_pct": 7.32,
+      "pct_salario_minimo_liquido": 60.92,
+      "tempo_de_trabalho": "123h58m"
+    },
+    {
+      "periodo": "Cuiabá",
+      "valor": 891.24,
+      "variacao_mes_pct": 4.66,
+      "pct_salario_minimo_liquido": 59.44,
+      "tempo_de_trabalho": "120h58m"
+    },
+    {
+      "periodo": "Porto Alegre",
+      "valor": 889.15,
+      "variacao_mes_pct": 5.93,
+      "pct_salario_minimo_liquido": 59.3,
+      "tempo_de_trabalho": "120h40m"
+    },
+    {
+      "periodo": "Curitiba",
+      "valor": 841.93,
+      "variacao_mes_pct": 5.39,
+      "pct_salario_minimo_liquido": 56.15,
+      "tempo_de_trabalho": "114h16m"
+    },
+    {
+      "periodo": "Vitória",
+      "valor": 829.14,
+      "variacao_mes_pct": 4.95,
+      "pct_salario_minimo_liquido": 55.3,
+      "tempo_de_trabalho": "112h32m"
+    },
+    {
+      "periodo": "Goiânia",
+      "valor": 808.01,
+      "variacao_mes_pct": 4.54,
+      "pct_salario_minimo_liquido": 53.89,
+      "tempo_de_trabalho": "109h40m"
+    },
+    {
+      "periodo": "Campo Grande",
+      "valor": 806.56,
+      "variacao_mes_pct": 0.18,
+      "pct_salario_minimo_liquido": 53.79,
+      "tempo_de_trabalho": "109h28m"
+    },
+    {
+      "periodo": "Belo Horizonte",
+      "valor": 802.99,
+      "variacao_mes_pct": 5.72,
+      "pct_salario_minimo_liquido": 53.55,
+      "tempo_de_trabalho": "108h59m"
+    },
+    {
+      "periodo": "Fortaleza",
+      "valor": 779.96,
+      "variacao_mes_pct": 3.23,
+      "pct_salario_minimo_liquido": 52.02,
+      "tempo_de_trabalho": "105h52m"
+    },
+    {
+      "periodo": "Brasília",
+      "valor": 773.78,
+      "variacao_mes_pct": 5.37,
+      "pct_salario_minimo_liquido": 51.61,
+      "tempo_de_trabalho": "105h01m"
+    },
+    {
+      "periodo": "Palmas",
+      "valor": 752.68,
+      "variacao_mes_pct": 4.75,
+      "pct_salario_minimo_liquido": 50.2,
+      "tempo_de_trabalho": "102h09m"
+    },
+    {
+      "periodo": "Belém",
+      "valor": 731.62,
+      "variacao_mes_pct": 3.17,
+      "pct_salario_minimo_liquido": 48.79,
+      "tempo_de_trabalho": "99h17m"
+    },
+    {
+      "periodo": "Macapá",
+      "valor": 720.01,
+      "variacao_mes_pct": 2.47,
+      "pct_salario_minimo_liquido": 48.02,
+      "tempo_de_trabalho": "97h43m"
+    },
+    {
+      "periodo": "Boa Vista",
+      "valor": 699.75,
+      "variacao_mes_pct": 0.24,
+      "pct_salario_minimo_liquido": 46.67,
+      "tempo_de_trabalho": "94h58m"
+    },
+    {
+      "periodo": "Teresina",
+      "valor": 698.55,
+      "variacao_mes_pct": 1.27,
+      "pct_salario_minimo_liquido": 46.59,
+      "tempo_de_trabalho": "94h49m"
+    },
+    {
+      "periodo": "São Luís",
+      "valor": 692.94,
+      "variacao_mes_pct": 4.71,
+      "pct_salario_minimo_liquido": 46.21,
+      "tempo_de_trabalho": "94h02m"
+    },
+    {
+      "periodo": "Porto Velho",
+      "valor": 691.25,
+      "variacao_mes_pct": 3.98,
+      "pct_salario_minimo_liquido": 46.1,
+      "tempo_de_trabalho": "93h49m"
+    },
+    {
+      "periodo": "Rio Branco",
+      "valor": 678.35,
+      "variacao_mes_pct": 2.83,
+      "pct_salario_minimo_liquido": 45.24,
+      "tempo_de_trabalho": "92h04m"
+    },
+    {
+      "periodo": "Manaus",
+      "valor": 676.18,
+      "variacao_mes_pct": 1.53,
+      "pct_salario_minimo_liquido": 45.1,
+      "tempo_de_trabalho": "91h46m"
+    },
+    {
+      "periodo": "Recife",
+      "valor": 663.48,
+      "variacao_mes_pct": 3.18,
+      "pct_salario_minimo_liquido": 44.25,
+      "tempo_de_trabalho": "90h03m"
+    },
+    {
+      "periodo": "João Pessoa",
+      "valor": 660.21,
+      "variacao_mes_pct": 2.98,
+      "pct_salario_minimo_liquido": 44.03,
+      "tempo_de_trabalho": "89h36m"
+    },
+    {
+      "periodo": "Natal",
+      "valor": 635.6,
+      "variacao_mes_pct": 1.3,
+      "pct_salario_minimo_liquido": 42.39,
+      "tempo_de_trabalho": "86h16m"
+    },
+    {
+      "periodo": "Salvador",
+      "valor": 634.67,
+      "variacao_mes_pct": 0.92,
+      "pct_salario_minimo_liquido": 42.33,
+      "tempo_de_trabalho": "86h08m"
+    },
+    {
+      "periodo": "Maceió",
+      "valor": 631.28,
+      "variacao_mes_pct": 0.61,
+      "pct_salario_minimo_liquido": 42.1,
+      "tempo_de_trabalho": "85h41m"
+    },
+    {
+      "periodo": "Aracaju",
+      "valor": 587.76,
+      "variacao_mes_pct": 2.94,
+      "pct_salario_minimo_liquido": 39.2,
+      "tempo_de_trabalho": "79h46m"
+    }
+  ],
+  "faixas_referencia": [
+    {
+      "rotulo": "Salário mínimo 2026 (R$)",
+      "valor": 1621
+    },
+    {
+      "rotulo": "Salário mínimo necessário, set/2026 (R$)",
+      "valor": 7750.01
+    },
+    {
+      "rotulo": "SM necessário em salários mínimos, set/2026",
+      "valor": 4.78
+    }
+  ],
+  "notas_metodologicas": [
+    "DIEESE, Pesquisa Nacional da Cesta Básica de Alimentos, set/2026, Tabela 1; % do salário mínimo líquido após 7,5% de INSS; tempo de trabalho ao SM de R$ 1.621.",
+    "Tempo médio de trabalho nas 27 capitais: 102h11m em set/2026 (98h37m em ago/2026; 99h53m em set/2025). Salário mínimo necessário (família de 4, cesta mais cara): R$ 7.750,01 em set/2026 = 4,78 SM (R$ 7.565,86/4,67 SM em ago/2026; R$ 7.075,83/4,66 SM em set/2025).",
+    "Cesta de São Paulo em nov/2025: R$ 841,23; o SM comprava 1,75 cesta de SP em 2025 e 1,93 em jan/2026 (DIEESE NT 289)."
+  ],
+  "lacunas": [
+    "Séries históricas por capital não transcritas (só set/2026)."
+  ],
+  "ultimo_periodo": "set/2026",
+  "temas": [
+    "emprego-renda",
+    "economia"
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/13_renda_por_faixa_e_simulacoes_de_impacto.md",
+  "atualizado_em": "2026-10-21"
+}

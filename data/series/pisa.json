@@ -1,17 +1,41 @@
 {
   "id": "pisa",
   "titulo": "PISA — pontuação do Brasil em matemática",
-  "descricao_simples": "Nota média dos estudantes brasileiros de 15 anos em matemática no exame internacional da OCDE. 379 pontos em 2022 (384 em 2018), contra 472 da média da OCDE; estável desde 2009.",
+  "descricao_simples": "Nota média dos estudantes brasileiros de 15 anos em matemática no exame internacional da OCDE. Subiu de 334 (2000) para 386 (2009) e desde então oscila entre 377 e 389: 379 em 2022 e 377 em 2025 (média OCDE 463), atravessando todos os governos.",
   "unidade": "pontos",
-  "tipo_grafico": "barra",
+  "tipo_grafico": "linha",
   "frequencia": "anual",
   "fonte": {
-    "nome": "Agência Gov — resultados do PISA 2022",
-    "url": "https://agenciagov.ebc.com.br/noticias/202312/divulgados-os-resultados-do-pisa-2022",
+    "nome": "Wikipedia en — Programme for International Student Assessment (tabelas 2022 e 2025, citando OCDE)",
+    "url": "https://en.wikipedia.org/wiki/Programme_for_International_Student_Assessment",
     "acesso_em": "2026-10-21",
-    "tier": "oficial"
+    "tier": "imprensa"
   },
   "pontos": [
+    {
+      "periodo": "2000",
+      "valor": 334
+    },
+    {
+      "periodo": "2003",
+      "valor": 356
+    },
+    {
+      "periodo": "2006",
+      "valor": 370
+    },
+    {
+      "periodo": "2009",
+      "valor": 386
+    },
+    {
+      "periodo": "2012",
+      "valor": 389
+    },
+    {
+      "periodo": "2015",
+      "valor": 377
+    },
     {
       "periodo": "2018",
       "valor": 384,
@@ -26,34 +50,205 @@
       "detalhe": {
         "leitura": 410,
         "ciencias": 403,
-        "posicao_aprox": "64º em matemática, 53º em leitura, 61º em ciências entre 81"
+        "posicao": "65º em matemática, 52º em leitura, 61º em ciências entre 81",
+        "nivel_2_matematica_pct": 27
+      }
+    },
+    {
+      "periodo": "2025",
+      "valor": 377,
+      "detalhe": {
+        "leitura": 408,
+        "ciencias": 409,
+        "posicao": "71º em matemática, 53º em leitura, 68º em ciências entre 91",
+        "divulgado_em": "2026-09-08"
       }
     }
   ],
   "faixas_referencia": [
     {
+      "rotulo": "Média OCDE 2025 — matemática",
+      "valor": 463
+    },
+    {
+      "rotulo": "Média OCDE 2025 — ciências",
+      "valor": 482
+    },
+    {
+      "rotulo": "Média OCDE 2025 — leitura",
+      "valor": 461
+    },
+    {
       "rotulo": "Média OCDE 2022 — matemática",
       "valor": 472
     },
     {
-      "rotulo": "Média OCDE 2022 — leitura",
-      "valor": 476
+      "rotulo": "Chile 2025 — matemática",
+      "valor": 403
     },
     {
-      "rotulo": "Média OCDE 2022 — ciências",
-      "valor": 485
+      "rotulo": "Uruguai 2025 — matemática",
+      "valor": 405
+    },
+    {
+      "rotulo": "Argentina 2025 — matemática",
+      "valor": 367
     }
   ],
+  "comparacao_latam": {
+    "fonte": {
+      "nome": "Wikipedia en — Programme for International Student Assessment (tabelas 2022 e 2025, citando OCDE)",
+      "url": "https://en.wikipedia.org/wiki/Programme_for_International_Student_Assessment",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    "2022": {
+      "Chile": [
+        412,
+        448,
+        444
+      ],
+      "Uruguai": [
+        409,
+        430,
+        435
+      ],
+      "México": [
+        395,
+        415,
+        410
+      ],
+      "Peru": [
+        391,
+        408,
+        408
+      ],
+      "Costa Rica": [
+        385,
+        415,
+        411
+      ],
+      "Colômbia": [
+        383,
+        409,
+        411
+      ],
+      "Brasil": [
+        379,
+        410,
+        403
+      ],
+      "Argentina": [
+        378,
+        401,
+        406
+      ],
+      "República Dominicana": [
+        339,
+        351,
+        360
+      ],
+      "Paraguai": [
+        338,
+        373,
+        368
+      ],
+      "OCDE": [
+        472,
+        476,
+        485
+      ]
+    },
+    "2025": {
+      "Uruguai": [
+        405,
+        423,
+        445
+      ],
+      "Chile": [
+        403,
+        436,
+        442
+      ],
+      "México": [
+        388,
+        408,
+        414
+      ],
+      "Costa Rica": [
+        387,
+        416,
+        424
+      ],
+      "Peru": [
+        382,
+        390,
+        406
+      ],
+      "Colômbia": [
+        381,
+        399,
+        414
+      ],
+      "Brasil": [
+        377,
+        408,
+        409
+      ],
+      "Argentina": [
+        367,
+        389,
+        393
+      ],
+      "El Salvador": [
+        346,
+        null,
+        385
+      ],
+      "República Dominicana": [
+        339,
+        null,
+        361
+      ],
+      "Paraguai": [
+        334,
+        null,
+        355
+      ],
+      "Guatemala": [
+        334,
+        null,
+        351
+      ],
+      "OCDE": [
+        463,
+        461,
+        482
+      ]
+    },
+    "ordem": [
+      "matemática",
+      "leitura",
+      "ciências"
+    ]
+  },
   "notas_metodologicas": [
-    "O exame é trienal (2022 foi adiado um ano pela pandemia). Resultados de 2022 divulgados em dez/2023. Apenas 27% dos brasileiros atingiram o nível 2 em matemática (OCDE: 69%).",
-    "Próxima edição: PISA 2025, com resultados previstos para 2026 (não localizados na nota).",
-    "Responsabilidade: os alunos avaliados estão majoritariamente em redes estaduais (ensino médio) e municipais; a União coordena a participação via Inep."
+    "O exame é trienal (2022 foi adiado um ano pela pandemia). Resultados de 2022 divulgados em dez/2023; de 2025, em 08/09/2026 (91 países/economias, mais de 760 mil alunos). Apenas 27% dos brasileiros atingiram o nível 2 em matemática em 2022 (OCDE: 69%).",
+    "Estagnação desde 2009 (386): 389 (2012), 377 (2015), 384 (2018), 379 (2022), 377 (2025) — atravessa os governos Lula 2, Dilma, Temer, Bolsonaro e Lula 3.",
+    "Os valores de 2025 vêm da compilação da Wikipédia (citando a OCDE); o site da OCDE retornou erro na sessão. A pontuação de leitura (408) convém ser confirmada no relatório oficial.",
+    "Responsabilidade: os alunos avaliados estão majoritariamente em redes estaduais (ensino médio e anos finais); a União coordena a participação via Inep."
   ],
-  "ultimo_periodo": "2022",
+  "ultimo_periodo": "2025",
   "temas": [
     "educacao"
   ],
   "fontes_adicionais": [
+    {
+      "nome": "Agência Gov — resultados do PISA 2022",
+      "url": "https://agenciagov.ebc.com.br/noticias/202312/divulgados-os-resultados-do-pisa-2022",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
     {
       "nome": "Diário do Nordeste/Agência Brasil — PISA 2022",
       "url": "https://diariodonordeste.verdesmares.com.br/ultima-hora/pais/pisa-2022-brasil-fica-abaixo-da-media-em-matematica-leitura-e-ciencias-1.3452036",
@@ -62,7 +257,7 @@
     }
   ],
   "lacunas": [
-    "Edições de 2003 a 2015 não compiladas na nota; resultados do PISA 2025 não localizados."
+    "PISA 2025 não confirmado na fonte OCDE (oecd.org retornou 403); leitura e ciências de 2000–2015 não compiladas."
   ],
   "atualizado_em": "2026-10-21",
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/07_saude_seguranca_educacao_infra_ambiente.md"

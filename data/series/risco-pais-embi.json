@@ -123,17 +123,22 @@
       "periodo": "2024 (até 30/07/2024)",
       "valor": 228,
       "maximo_ano": 238,
-      "parcial": true
+      "parcial": true,
+      "minimo_ano": 186,
+      "data_minimo": "16/01/2024",
+      "data_maximo": "02/07/2024"
     }
   ],
   "faixas_referencia": [],
   "notas_metodologicas": [
-    "A série do Ipeadata termina em 30/07/2024; não há fonte oficial gratuita para o EMBI+ depois disso.",
-    "Grau de investimento: obtido pelas três agências em 2008–2009 e perdido em 2015–2016 (datas e letras de rating não verificadas em fonte primária)."
+    "A série do Ipeadata termina em 30/07/2024 (reconfirmado em 21/10/2026); não há série sucessora no catálogo do Ipeadata.",
+    "Rodada 2 (21/10/2026): histórico de ratings 2017–2025 com datas exatas via FX Empire (fonte secundária) e 2008–2016 corroborado em mês/ano pelo Estadão Verifica (18/10/2026) e imprensa; ver série rating-soberano-eventos. Não houve rebaixamento de nota por nenhuma agência em Lula 3 (2023–out/2026): upgrades Fitch (26/07/2023, BB), S&P (19/12/2023, BB) e Moody's (01/10/2024, Ba1); perspectiva Moody's passou de positiva a estável em 30/05/2025. Únicos rebaixamentos de 2017–2025: jan–fev/2018 (S&P e Fitch para BB−), sob Temer.",
+    "Posição em out/2026: S&P BB estável; Fitch BB estável (afirmado 16/06/2026); Moody's Ba1 estável.",
+    "CDS Brasil 5 anos (Poder360, fonte dos números não identificada; secundário): 08/05/2026 116 pb (menor de Lula 3 e menor desde fev/2020); 15/05/2026 121 pb; 08/05/2025 178 pb; 15/05/2025 165 pb; pico de Lula 3 ≈ 280 pb em mar/2023; mínimo de Bolsonaro 93 pb em fev/2020. Ver série cds-brasil-5-anos."
   ],
   "lacunas": [
-    "EMBI+ e CDS após jul/2024 indisponíveis na nota.",
-    "Histórico de ratings soberanos é dado de memória, não verificado; não convertido em série."
+    "EMBI+ após 30/07/2024 e CDS de 5 anos em ago–out/2026 sem fonte oficial gratuita.",
+    "Datas-dia dos movimentos de rating de 2008–2016 continuam sem fonte primária (Tesouro respondeu HTTP 429; agências bloquearam)."
   ],
   "ultimo_periodo": "2024 (até 30/07/2024)",
   "temas": [

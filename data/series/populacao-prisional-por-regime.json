@@ -1,0 +1,66 @@
+{
+  "id": "populacao-prisional-por-regime",
+  "titulo": "Presos provisórios e por regime de cumprimento",
+  "descricao_simples": "Participação dos presos sem condenação (provisórios) no total de encarcerados, com a distribuição por regime segundo o Sisdepen. Os provisórios caíram de 29% (2016) para 24–26% (2020–2025); o regime fechado foi de 44% (2016) a 48% (2019) e 42% (2025).",
+  "unidade": "% do total de presos",
+  "tipo_grafico": "linha",
+  "frequencia": "anual",
+  "fonte": {
+    "nome": "Anuário Brasileiro de Segurança Pública 2026 (FBSP)",
+    "url": "https://static.poder360.com.br/uploads/2026/07/anuario-seguranca-publica-23jul26.pdf",
+    "acesso_em": "2026-10-21",
+    "tier": "academico"
+  },
+  "pontos": [
+    {
+      "periodo": "2016",
+      "valor": 29,
+      "detalhe": {
+        "regime_fechado_pct": 44
+      }
+    },
+    {
+      "periodo": "2019",
+      "valor": null,
+      "detalhe": {
+        "regime_fechado_pct": 48,
+        "nota": "percentual de provisórios de 2019 não consta da nota (faixa 24–26% para 2020–2025)"
+      }
+    },
+    {
+      "periodo": "2024",
+      "valor": 24.0,
+      "detalhe": {
+        "condenados": 691369,
+        "provisorios": 218225
+      }
+    },
+    {
+      "periodo": "2025",
+      "valor": 25.7,
+      "detalhe": {
+        "regime_fechado_pct": 42,
+        "condenados": 717119,
+        "provisorios": 247549,
+        "presos_federais_condenados": 561,
+        "presos_federais_provisorios": 33
+      }
+    }
+  ],
+  "faixas_referencia": [],
+  "notas_metodologicas": [
+    "Anuário 2026 (Tabelas 72–77 e gráfico de regimes). Semiaberto, aberto e medida de segurança somam cerca de um terço do total, estáveis nos últimos 5 anos.",
+    "Presos provisórios são decisão do Judiciário (prisões preventivas e audiências de custódia); a oferta de vagas e o regime dependem dos governos estaduais.",
+    "Pontos anuais entre 2017 e 2023 não constam da nota (apenas a faixa de 24–26% para 2020–2025)."
+  ],
+  "ultimo_periodo": "2025",
+  "temas": [
+    "seguranca",
+    "justica-stf"
+  ],
+  "lacunas": [
+    "Percentuais anuais de 2017–2023 não constam da nota."
+  ],
+  "atualizado_em": "2026-10-21",
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/07_saude_seguranca_educacao_infra_ambiente.md"
+}

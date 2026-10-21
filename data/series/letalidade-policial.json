@@ -13,10 +13,47 @@
   },
   "pontos": [
     {
+      "periodo": "2016",
+      "valor": 4240
+    },
+    {
+      "periodo": "2017",
+      "valor": 5179
+    },
+    {
+      "periodo": "2018",
+      "valor": 6175
+    },
+    {
+      "periodo": "2019",
+      "valor": 6351
+    },
+    {
+      "periodo": "2020",
+      "valor": 6413
+    },
+    {
+      "periodo": "2021",
+      "valor": 6493
+    },
+    {
+      "periodo": "2022",
+      "valor": 6455
+    },
+    {
+      "periodo": "2023",
+      "valor": 6413
+    },
+    {
       "periodo": "2024",
       "valor": 6237,
       "detalhe": {
-        "taxa_100_mil": 2.9
+        "taxa_100_mil": 2.9,
+        "participacao_nas_mvi_pct": 14.1,
+        "pm_em_servico": 2692,
+        "pc_em_servico": 107,
+        "pm_fora_de_servico": 195,
+        "pc_fora_de_servico": 13
       }
     },
     {
@@ -24,7 +61,12 @@
       "valor": 6602,
       "detalhe": {
         "taxa_100_mil": 3.1,
-        "participacao_nas_mvi_pct": 16.2
+        "participacao_nas_mvi_pct": 16.2,
+        "media_por_dia": 18,
+        "pm_em_servico": 2909,
+        "pc_em_servico": 160,
+        "pm_fora_de_servico": 165,
+        "pc_fora_de_servico": 18
       }
     }
   ],
@@ -32,12 +74,53 @@
     {
       "rotulo": "Operação Contenção (RJ, 28/10/2025) — mortos",
       "valor": 122
+    },
+    {
+      "rotulo": "Bahia 2025 — mortos por policiais (quase 1/4 do país)",
+      "valor": 1570
+    }
+  ],
+  "governos": [
+    {
+      "governo": "temer",
+      "inicio": {
+        "periodo": "2016",
+        "valor": 4240
+      },
+      "fim": {
+        "periodo": "2018",
+        "valor": 6175
+      }
+    },
+    {
+      "governo": "bolsonaro",
+      "inicio": {
+        "periodo": "2019",
+        "valor": 6351
+      },
+      "fim": {
+        "periodo": "2022",
+        "valor": 6455
+      }
+    },
+    {
+      "governo": "lula-3",
+      "inicio": {
+        "periodo": "2023",
+        "valor": 6413
+      },
+      "fim": {
+        "periodo": "2025",
+        "valor": 6602
+      }
     }
   ],
   "notas_metodologicas": [
-    "Alta de 5,4% em 2025 frente a 2024 e de 55,7% entre 2016 e 2025 (a nota traz só a variação acumulada, não o valor de 2016).",
+    "Série completa 2016–2025 do Anuário 2026 (Gráfico 13, Tabelas 08 e 09): mortes decorrentes de intervenção de policiais militares e civis, em serviço e fora. Alta de 5,4% em 2025 frente a 2024 e de 55,7% entre 2016 e 2025. A série começa em 2016; 2013–2015 não constam da edição 2026.",
+    "Taxas por UF em 2025: Amapá 17,1 (maior pelo 7º ano), Bahia 10,6 (1.570 mortos), Sergipe 8,4, Pará 7,3; menores: Roraima 0,4, DF 0,5, RS 0,7, Piauí 0,9, Amazonas 0,9. Detalhe por UF em mvi-por-uf-2025.",
+    "A desagregação por corporação no campo 'detalhe' soma apenas as UFs que informam (Amapá não desagrega).",
     "Taxa de mortes por intervenção policial por 100 mil: negros 3,5 e brancos 1,0 (2025), ou seja, 3,5 vezes maior.",
-    "Policiais mortos: 144 (2024) para 139 (2025), -3,5%, na tabela de MVI do Anuário; outra leitura dá 133 policiais mortos intencionalmente em 2025.",
+    "Policiais mortos: 144 (2024) para 139 (2025), -3,5%; razão de cerca de 47 civis mortos por policiais para cada policial morto (Brasil de Fato). Ver série mortes-de-policiais.",
     "No Rio de Janeiro, mortes por policiais foram 20,5% das MVI em 2025.",
     "Responsabilidade: polícias Militar e Civil respondem aos governadores; a letalidade policial é resultado de política estadual."
   ],
@@ -60,7 +143,7 @@
     }
   ],
   "lacunas": [
-    "Valores anuais de 2016 a 2023 não constam da nota (só a variação acumulada 2016–2025)."
+    "Valores de 2013–2015 não constam do Anuário 2026 (verificar Anuários 2015–2017)."
   ],
   "atualizado_em": "2026-10-21",
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/07_saude_seguranca_educacao_infra_ambiente.md"

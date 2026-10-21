@@ -1,24 +1,114 @@
 {
   "id": "mortalidade-infantil",
   "titulo": "Mortalidade infantil (menores de 1 ano)",
-  "descricao_simples": "Mortes de crianças com menos de um ano por mil nascidos vivos, segundo a Tábua de Mortalidade do IBGE. Em 2024 chegou a 12,3 por mil, o menor valor da série.",
+  "descricao_simples": "Mortes de crianças com menos de um ano por mil nascidos vivos. Caiu de 24,0 (2003) para 12,3 (2024), com alta pontual em 2016 (zika e crise). Série anual do UN IGME/Banco Mundial (fonte substituta); o IBGE confirma 12,3 em 2024.",
   "unidade": "óbitos por mil nascidos vivos",
   "tipo_grafico": "linha",
   "frequencia": "anual",
   "fonte": {
-    "nome": "NSC Total (IBGE, Tábua de Mortalidade 2024)",
-    "url": "https://www.nsctotal.com.br/?p=7739876",
+    "nome": "Banco Mundial/UN IGME — mortalidade infantil, SP.DYN.IMRT.IN, Brasil 2003–2024",
+    "url": "https://api.worldbank.org/v2/country/BRA/indicator/SP.DYN.IMRT.IN?format=json&per_page=100&date=2003:2024",
     "acesso_em": "2026-10-21",
-    "tier": "imprensa"
+    "tier": "multilateral"
   },
+  "fonte_substituta": true,
   "pontos": [
     {
+      "periodo": "2003",
+      "valor": 24.0
+    },
+    {
+      "periodo": "2004",
+      "valor": 22.4
+    },
+    {
+      "periodo": "2005",
+      "valor": 21.0
+    },
+    {
+      "periodo": "2006",
+      "valor": 19.7
+    },
+    {
+      "periodo": "2007",
+      "valor": 18.6
+    },
+    {
+      "periodo": "2008",
+      "valor": 17.6
+    },
+    {
+      "periodo": "2009",
+      "valor": 16.7
+    },
+    {
+      "periodo": "2010",
+      "valor": 16.0
+    },
+    {
+      "periodo": "2011",
+      "valor": 15.3
+    },
+    {
+      "periodo": "2012",
+      "valor": 14.8
+    },
+    {
+      "periodo": "2013",
+      "valor": 14.4
+    },
+    {
+      "periodo": "2014",
+      "valor": 14.0
+    },
+    {
+      "periodo": "2015",
+      "valor": 13.7
+    },
+    {
+      "periodo": "2016",
+      "valor": 14.6,
+      "detalhe": {
+        "nota": "alta pontual (zika + crise)"
+      }
+    },
+    {
+      "periodo": "2017",
+      "valor": 13.3
+    },
+    {
+      "periodo": "2018",
+      "valor": 13.1
+    },
+    {
+      "periodo": "2019",
+      "valor": 12.9
+    },
+    {
+      "periodo": "2020",
+      "valor": 12.8
+    },
+    {
+      "periodo": "2021",
+      "valor": 12.7
+    },
+    {
+      "periodo": "2022",
+      "valor": 12.6
+    },
+    {
       "periodo": "2023",
-      "valor": 12.5
+      "valor": 12.4,
+      "detalhe": {
+        "ibge": 12.5
+      }
     },
     {
       "periodo": "2024",
-      "valor": 12.3
+      "valor": 12.3,
+      "detalhe": {
+        "ibge": 12.3
+      }
     }
   ],
   "faixas_referencia": [
@@ -27,12 +117,70 @@
       "valor": 146
     },
     {
-      "rotulo": "Mortalidade na infância (<5 anos), 2022 e 2023",
+      "rotulo": "Mortalidade na infância (<5 anos), 2022 e 2023 (IBGE)",
       "valor": 14.7
     }
   ],
+  "governos": [
+    {
+      "governo": "lula-1-2",
+      "inicio": {
+        "periodo": "2003",
+        "valor": 24.0
+      },
+      "fim": {
+        "periodo": "2010",
+        "valor": 16.0
+      }
+    },
+    {
+      "governo": "dilma",
+      "inicio": {
+        "periodo": "2011",
+        "valor": 15.3
+      },
+      "fim": {
+        "periodo": "2016",
+        "valor": 14.6
+      }
+    },
+    {
+      "governo": "temer",
+      "inicio": {
+        "periodo": "2017",
+        "valor": 13.3
+      },
+      "fim": {
+        "periodo": "2018",
+        "valor": 13.1
+      }
+    },
+    {
+      "governo": "bolsonaro",
+      "inicio": {
+        "periodo": "2019",
+        "valor": 12.9
+      },
+      "fim": {
+        "periodo": "2022",
+        "valor": 12.6
+      }
+    },
+    {
+      "governo": "lula-3",
+      "inicio": {
+        "periodo": "2023",
+        "valor": 12.4
+      },
+      "fim": {
+        "periodo": "2024",
+        "valor": 12.3
+      }
+    }
+  ],
   "notas_metodologicas": [
-    "Tábua de Mortalidade 2024 divulgada pelo IBGE em 28/11/2025; dado de 2025 ainda não publicado.",
+    "Fonte substituta: a série anual é do UN IGME via Banco Mundial (SP.DYN.IMRT.IN), porque a página do IBGE/SIDRA estava inacessível. Para 2024 coincide com o IBGE (12,3); para 2023 o IBGE dá 12,5 e o Banco Mundial 12,4. A Tábua de Mortalidade 2024 do IBGE foi divulgada em 28/11/2025; dado de 2025 ainda não publicado.",
+    "A série confirma a alta pontual de 2016 (14,6, zika e crise) e a queda contínua em todos os governos.",
     "O IBGE atribui a queda de longo prazo a vacinação, pré-natal, aleitamento, agentes comunitários de saúde, renda, escolaridade e saneamento — fatores que atravessam governos.",
     "Responsabilidade: atenção básica e vacinação são municipais; hospitais regionais e UTIs, em geral estaduais; compra de vacinas e políticas nacionais, federais."
   ],
@@ -41,6 +189,12 @@
     "saude"
   ],
   "fontes_adicionais": [
+    {
+      "nome": "NSC Total (IBGE, Tábua de Mortalidade 2024)",
+      "url": "https://www.nsctotal.com.br/?p=7739876",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
     {
       "nome": "Monitor Mercantil (IBGE, Tábua de Mortalidade 2024)",
       "url": "https://monitormercantil.com.br/expectativa-de-vida-do-brasileiro-chega-a-766-anos-em-2024/",
@@ -55,7 +209,7 @@
     }
   ],
   "lacunas": [
-    "Série anual 2003–2022 não acessada (página do IBGE retornou 403). A nota menciona altas pontuais em 2016 (zika/crise) e 2021 no DATASUS/SIM, mas sem fonte localizada."
+    "Série anual do IBGE (Tábuas 2003–2024) não acessada; usada a série UN IGME/Banco Mundial."
   ],
   "atualizado_em": "2026-10-21",
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/07_saude_seguranca_educacao_infra_ambiente.md"

@@ -1,0 +1,82 @@
+{
+  "id": "divida-bruta-metodologia-antiga",
+  "titulo": "Dívida bruta do governo geral na metodologia antiga do BCB (% do PIB)",
+  "descricao_simples": "Dívida bruta medida como o Banco Central fazia até 2007 (inclui toda a carteira de títulos do Tesouro no BC); única medida de dívida bruta disponível para 2002–2005.",
+  "unidade": "% do PIB",
+  "tipo_grafico": "linha",
+  "frequencia": "anual",
+  "fonte": {
+    "nome": "Banco Central do Brasil, SGS 4537 ('Dívida bruta do governo geral (% PIB) — Metodologia utilizada até 2007')",
+    "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.4537/dados?formato=json&dataInicial=01/12/2001&dataFinal=31/12/2010",
+    "acesso_em": "2026-10-21",
+    "tier": "oficial"
+  },
+  "pontos": [
+    {
+      "periodo": "2002",
+      "valor": 76.1
+    },
+    {
+      "periodo": "2003",
+      "valor": 71.51
+    },
+    {
+      "periodo": "2004",
+      "valor": 68.03
+    },
+    {
+      "periodo": "2005",
+      "valor": 66.97
+    },
+    {
+      "periodo": "2006",
+      "valor": 64.6
+    },
+    {
+      "periodo": "2007",
+      "valor": 63.02
+    },
+    {
+      "periodo": "2008",
+      "valor": 61.42
+    },
+    {
+      "periodo": "2009",
+      "valor": 64.7
+    },
+    {
+      "periodo": "2010",
+      "valor": 62.43
+    },
+    {
+      "periodo": "jun/2026",
+      "valor": 95.78,
+      "parcial": true
+    },
+    {
+      "periodo": "jul/2026",
+      "valor": 95.41,
+      "parcial": true
+    },
+    {
+      "periodo": "ago/2026",
+      "valor": 94.54,
+      "parcial": true
+    }
+  ],
+  "faixas_referencia": [],
+  "notas_metodologicas": [
+    "Não comparável nível a nível com divida-bruta-pib (SGS 13762): em dez/2006, 64,60% aqui contra 55,48% na metodologia atual. Serve para a trajetória 2002–2006 e como medida próxima da do FMI.",
+    "Em Lula 1-2 a dívida bruta nesta metodologia caiu 13,7 p.p. (76,1% em dez/2002 → 62,4% em dez/2010).",
+    "A série continua publicada: https://api.bcb.gov.br/dados/serie/bcdata.sgs.4537/dados/ultimos/3?formato=json"
+  ],
+  "lacunas": [
+    "Dezembros de 2011 a 2025 não transcritos na nota (apenas 2002–2010 e jun–ago/2026)."
+  ],
+  "ultimo_periodo": "ago/2026",
+  "temas": [
+    "contas-publicas"
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/01_macroeconomia_por_governo.md",
+  "atualizado_em": "2026-10-21"
+}

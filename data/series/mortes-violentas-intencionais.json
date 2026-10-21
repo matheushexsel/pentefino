@@ -1,7 +1,7 @@
 {
   "id": "mortes-violentas-intencionais",
   "titulo": "Mortes violentas intencionais (MVI) no Brasil",
-  "descricao_simples": "Soma de homicídios dolosos, latrocínios, lesões corporais seguidas de morte e mortes por intervenção policial registradas pelas polícias estaduais e compiladas pelo Fórum Brasileiro de Segurança Pública. O pico foi em 2017 (64.079) e o menor valor da série é 2025 (40.775).",
+  "descricao_simples": "Soma de homicídios dolosos, latrocínios, lesões corporais seguidas de morte e mortes por intervenção policial registradas pelas polícias estaduais e compiladas pelo Fórum Brasileiro de Segurança Pública (2012–2025). Para 2003–2011, óbitos por agressão do DATASUS/SIM. Nos anos Lula 1–2 o total oscilou entre 47,6 mil e 52,3 mil; a escalada foi em 2012–2017 (pico de 64.079) e a queda começou em 2018, chegando a 40.775 em 2025.",
   "unidade": "mortes",
   "tipo_grafico": "barra",
   "frequencia": "anual",
@@ -12,6 +12,69 @@
     "tier": "academico"
   },
   "pontos": [
+    {
+      "periodo": "2003",
+      "valor": 51043,
+      "detalhe": {
+        "conceito": "DATASUS/SIM: óbitos por agressão (CID-10 X85–Y09), por local de ocorrência — fonte distinta dos registros policiais do FBSP"
+      }
+    },
+    {
+      "periodo": "2004",
+      "valor": 48374,
+      "detalhe": {
+        "conceito": "DATASUS/SIM: óbitos por agressão (CID-10 X85–Y09), por local de ocorrência — fonte distinta dos registros policiais do FBSP"
+      }
+    },
+    {
+      "periodo": "2005",
+      "valor": 47578,
+      "detalhe": {
+        "conceito": "DATASUS/SIM: óbitos por agressão (CID-10 X85–Y09), por local de ocorrência — fonte distinta dos registros policiais do FBSP"
+      }
+    },
+    {
+      "periodo": "2006",
+      "valor": 49145,
+      "detalhe": {
+        "conceito": "DATASUS/SIM: óbitos por agressão (CID-10 X85–Y09), por local de ocorrência — fonte distinta dos registros policiais do FBSP"
+      }
+    },
+    {
+      "periodo": "2007",
+      "valor": 47707,
+      "detalhe": {
+        "conceito": "DATASUS/SIM: óbitos por agressão (CID-10 X85–Y09), por local de ocorrência — fonte distinta dos registros policiais do FBSP"
+      }
+    },
+    {
+      "periodo": "2008",
+      "valor": 50113,
+      "detalhe": {
+        "conceito": "DATASUS/SIM: óbitos por agressão (CID-10 X85–Y09), por local de ocorrência — fonte distinta dos registros policiais do FBSP"
+      }
+    },
+    {
+      "periodo": "2009",
+      "valor": 51434,
+      "detalhe": {
+        "conceito": "DATASUS/SIM: óbitos por agressão (CID-10 X85–Y09), por local de ocorrência — fonte distinta dos registros policiais do FBSP"
+      }
+    },
+    {
+      "periodo": "2010",
+      "valor": 52260,
+      "detalhe": {
+        "conceito": "DATASUS/SIM: óbitos por agressão (CID-10 X85–Y09), por local de ocorrência — fonte distinta dos registros policiais do FBSP"
+      }
+    },
+    {
+      "periodo": "2011",
+      "valor": 52198,
+      "detalhe": {
+        "conceito": "DATASUS/SIM: óbitos por agressão (CID-10 X85–Y09), por local de ocorrência — fonte distinta dos registros policiais do FBSP"
+      }
+    },
     {
       "periodo": "2012",
       "valor": 54694
@@ -79,12 +142,137 @@
       "valor": 40775
     }
   ],
+  "series_alternativas": [
+    {
+      "nome": "Atlas da Violência (Ipea/FBSP) — homicídios (agressões + intervenções legais, por residência)",
+      "unidade": "homicídios",
+      "fonte": {
+        "nome": "Agência Brasil — Atlas da Violência 2025 (IPEA/FBSP)",
+        "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2025-05/taxa-de-homicidio-cai-mas-violencia-matou-457-mil-no-brasil-em-2023",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "fontes_adicionais": [
+        {
+          "nome": "Atlas da Violência 2016 (Ipea/FBSP), Tabela 1.3 e taxas 2004–2014",
+          "url": "http://www.ipea.gov.br/portal/images/stories/PDFs/nota_tecnica/160322_nt_17_atlas_da_violencia_2016_finalizado.pdf",
+          "acesso_em": "2026-10-21",
+          "tier": "academico"
+        },
+        {
+          "nome": "Atlas da Violência 2017 (Ipea/FBSP), taxas 2005–2015",
+          "url": "https://www.ipea.gov.br/portal/images/170602_atlas_da_violencia_2017.pdf",
+          "acesso_em": "2026-10-21",
+          "tier": "academico"
+        },
+        {
+          "nome": "Atlas da Violência 2019 (Ipea/FBSP), Tabelas 2.1 e 2.2 (2007–2017)",
+          "url": "https://www.ipea.gov.br/portal/images/stories/PDFs/relatorio_institucional/190605_atlas_da_violencia_2019.pdf",
+          "acesso_em": "2026-10-21",
+          "tier": "academico"
+        }
+      ],
+      "pontos": [
+        {
+          "periodo": "2004",
+          "valor": 48909
+        },
+        {
+          "periodo": "2005",
+          "valor": 48136
+        },
+        {
+          "periodo": "2006",
+          "valor": 49704
+        },
+        {
+          "periodo": "2007",
+          "valor": 48219
+        },
+        {
+          "periodo": "2008",
+          "valor": 50659
+        },
+        {
+          "periodo": "2009",
+          "valor": 52043
+        },
+        {
+          "periodo": "2010",
+          "valor": 53016
+        },
+        {
+          "periodo": "2011",
+          "valor": 52807
+        },
+        {
+          "periodo": "2012",
+          "valor": 57045
+        },
+        {
+          "periodo": "2013",
+          "valor": 57396
+        },
+        {
+          "periodo": "2014",
+          "valor": 60474
+        },
+        {
+          "periodo": "2015",
+          "valor": 59080
+        },
+        {
+          "periodo": "2016",
+          "valor": 62517
+        },
+        {
+          "periodo": "2017",
+          "valor": 65602
+        },
+        {
+          "periodo": "2018",
+          "valor": 57956
+        },
+        {
+          "periodo": "2019",
+          "valor": 45503
+        },
+        {
+          "periodo": "2020",
+          "valor": 49868
+        },
+        {
+          "periodo": "2021",
+          "valor": 47847
+        },
+        {
+          "periodo": "2022",
+          "valor": 46409
+        },
+        {
+          "periodo": "2023",
+          "valor": 45747
+        }
+      ]
+    }
+  ],
   "governos": [
+    {
+      "governo": "lula-1-2",
+      "inicio": {
+        "periodo": "2003",
+        "valor": 51043
+      },
+      "fim": {
+        "periodo": "2010",
+        "valor": 52260
+      }
+    },
     {
       "governo": "dilma",
       "inicio": {
-        "periodo": "2012",
-        "valor": 54694
+        "periodo": "2011",
+        "valor": 52198
       },
       "fim": {
         "periodo": "2016",
@@ -126,7 +314,11 @@
     }
   ],
   "notas_metodologicas": [
+    "Quebra de série em 2012: os pontos 2003–2011 são óbitos por agressão do DATASUS/SIM (TabNet, dados finais, extração do MS em 02/12/2025), por local de ocorrência; de 2012 em diante são MVI dos registros policiais compilados pelo FBSP. Os dois conceitos são próximos, mas não idênticos (o SIM não inclui as mortes por intervenção policial, classificadas em Y35–Y36).",
     "Dados do Anuário Brasileiro de Segurança Pública 2026 (Tabela 02), compilados a partir dos registros das secretarias estaduais de segurança. A edição 2025 havia divulgado 44.127 MVI para 2024; a edição 2026 revisou o número para 44.220.",
+    "Componentes nacionais 2024 → 2025: homicídio doloso 36.440 → 32.914 (-10,0%); latrocínio 969 → 807 (-17,0%); lesão corporal seguida de morte 774 → 659 (-15,2%); mortes por intervenção policial 6.237 → 6.602 (+5,4%); policiais vítimas 144 → 139.",
+    "Por UF (Tabela 02): Rio de Janeiro 4.241 (2012) → 6.749 (2017) → 3.890 (2025); São Paulo 6.328 → 4.831 → 3.615; Bahia 6.530 → 6.979 → 5.473 (picos de 7.091 em 2016 e 7.069 em 2021); Ceará 3.734 → 5.329 (2017) → 2.359 (2019) → 3.220; Pará 3.401 → 4.720 (2018) → 2.477; Rio Grande do Norte 388 (2012, subnotificação) → 2.355 (2017) → 1.007. Detalhe por UF em mvi-por-uf-2025.",
+    "Homicídios de 2014 no Atlas: 59.627 na edição 2016 e 60.474 nas edições 2019/2025 (revisão do SIM); usa-se o valor mais recente.",
     "Queda de 8,2% em 2025 frente a 2024. Em 2025, 7 unidades da federação tiveram alta (RN +19,6%, RO +7,5%, AC +6,3%, RR +5,8%, DF +5,8%, MS +4,9%, RJ +2,1%); em RO e RJ a alta foi puxada por mortes decorrentes de intervenção policial.",
     "Quase 80% das vítimas de MVI são pessoas negras (CNN Brasil, com dados do FBSP).",
     "Responsabilidade: polícias Militar e Civil são estaduais; a União atua por meio da PF, PRF, fundos (FNSP/Funpen), presídios federais e legislação penal. A queda começou em 2018, antes do governo Bolsonaro, e continuou nos governos Bolsonaro e Lula 3.",
@@ -154,11 +346,29 @@
       "url": "https://www.cnnbrasil.com.br/nacional/brasil/quase-80-das-vitimas-de-mortes-violentas-no-brasil-sao-pessoas-negras/",
       "acesso_em": "2026-10-21",
       "tier": "imprensa"
+    },
+    {
+      "nome": "DATASUS/SIM — óbitos por agressões (CID-10 X85–Y09), Brasil 2003–2011 (TabNet)",
+      "url": "http://tabnet.datasus.gov.br/cgi/tabcgi.exe?sim/cnv/ext10uf.def",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Atlas da Violência 2016 (Ipea/FBSP), Tabela 1.3 e taxas 2004–2014",
+      "url": "http://www.ipea.gov.br/portal/images/stories/PDFs/nota_tecnica/160322_nt_17_atlas_da_violencia_2016_finalizado.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    },
+    {
+      "nome": "Atlas da Violência 2019 (Ipea/FBSP), Tabelas 2.1 e 2.2 (2007–2017)",
+      "url": "https://www.ipea.gov.br/portal/images/stories/PDFs/relatorio_institucional/190605_atlas_da_violencia_2019.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
     }
   ],
   "lacunas": [
-    "Série 2003–2011 não acessada na nota (Atlas da Violência/DATASUS retornou vazio).",
-    "Monitor da Violência nacional para 2026 não localizado; só dados estaduais parciais (PE -13,6%, CE -40,8%, PB -13% no 1º semestre de 2026)."
+    "Monitor da Violência nacional para 2026 não localizado (site bloqueado); só dados estaduais parciais (PE -13,6%, CE -40,8%, PB -13% no 1º semestre de 2026).",
+    "Não há série única de MVI (registros policiais) antes de 2012; os pontos 2003–2011 vêm do SIM/DATASUS."
   ],
   "atualizado_em": "2026-10-21",
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/07_saude_seguranca_educacao_infra_ambiente.md"

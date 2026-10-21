@@ -6,12 +6,44 @@
   "tipo_grafico": "linha",
   "frequencia": "trimestral",
   "fonte": {
-    "nome": "IBGE, PNAD Contínua (Retrospectiva 2012-2025 e releases trimestrais via Agência Brasil/imprensa)",
-    "url": "https://ftp.ibge.gov.br/Trabalho_e_Rendimento/Pesquisa_Nacional_por_Amostra_de_Domicilios_continua/Principais_destaques_PNAD_continua/2012_2025/PNAD_continua_retrospectiva_2012_2025.pdf",
+    "nome": "IBGE/SIDRA, tabelas 6402 e 4093 (taxa de informalidade, variável 12466); trimestres móveis via Agência Brasil/imprensa",
+    "url": "https://apisidra.ibge.gov.br/values/t/6402/n1/all/v/4099,12466/p/all/c86/all",
     "acesso_em": "2026-10-21",
     "tier": "oficial"
   },
   "pontos": [
+    {
+      "periodo": "4T2016",
+      "valor": 39.1
+    },
+    {
+      "periodo": "4T2018",
+      "valor": 40.8
+    },
+    {
+      "periodo": "4T2019",
+      "valor": 40.7
+    },
+    {
+      "periodo": "4T2020",
+      "valor": 39.1
+    },
+    {
+      "periodo": "4T2021",
+      "valor": 40.8
+    },
+    {
+      "periodo": "4T2022",
+      "valor": 38.9
+    },
+    {
+      "periodo": "4T2023",
+      "valor": 39.2
+    },
+    {
+      "periodo": "4T2024",
+      "valor": 38.6
+    },
     {
       "periodo": "1T2025",
       "valor": 38.0
@@ -26,8 +58,7 @@
     },
     {
       "periodo": "2T2026",
-      "valor": 37.4,
-      "via_snippet": true
+      "valor": 37.4
     },
     {
       "periodo": "mai–jul/2026",
@@ -60,10 +91,12 @@
   ],
   "notas_metodologicas": [
     "Informais: 39,5 milhões em 2024; −273 mil em 2025. 72,9% dos conta própria não têm CNPJ.",
-    "Pontos de 2026 vêm de Agência Brasil (1T2026) e de resumos de busca de releases do IBGE (via_snippet)."
+    "Pontos de 2026 vêm de Agência Brasil (1T2026) e de resumos de busca de releases do IBGE (via_snippet).",
+    "Rodada 2 (21/10/2026): série dos 4º trimestres 2016–2025 preenchida com a taxa de informalidade oficial do IBGE (variável 12466, SIDRA 6402/4093); a variável não é calculada para 2012–2015. 4T2017 não consta na nota.",
+    "Por sexo e cor/raça (2T2026): homens 39,0; mulheres 35,4; branca 31,9; preta 40,3; parda 42,1 — ver desocupacao-por-sexo-raca-idade. Por UF: ver informalidade-por-uf."
   ],
   "lacunas": [
-    "Série anual completa 2012–2023 não transcrita na nota."
+    "Taxa de informalidade não calculada pelo IBGE para 2012–2015; 4T2017 não transcrito."
   ],
   "ultimo_periodo": "jun–ago/2026",
   "temas": [

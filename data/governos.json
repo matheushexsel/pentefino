@@ -10,8 +10,9 @@
     "contexto_externo": [
       "Ciclo de alta dos preços de commodities, favorável às exportações brasileiras.",
       "Crise financeira global de 2008-2009: o PIB mundial caiu 0,4% em 2009 e o brasileiro 0,13%.",
-      "Brasil obteve grau de investimento das três agências de rating em 2008-2009 (datas não verificadas em fonte primária).",
-      "Dívida com o FMI quitada durante o governo (confirmado pela checagem do Aos Fatos)."
+      "Brasil obteve grau de investimento das três agências de rating: S&P (abr/2008), Fitch (mai/2008) e Moody's (set/2009); meses corroborados pelo Estadão Verifica (18/10/2026), dias exatos sem fonte primária.",
+      "Dívida de US$ 30,4 bilhões com o FMI (contraída em 2002) quitada antecipadamente em 2005 (confirmado por Aos Fatos e Estadão Verifica).",
+      "Recessões datadas pelo CODACE no período: 1T2003–2T2003 (−1,3%) e 4T2008–1T2009 (−5,1%); expansão de 3T2003 a 3T2008 (+30,2%)."
     ],
     "indicadores_inicio_fim": [
       {
@@ -35,6 +36,22 @@
         }
       },
       {
+        "serie": "pib-per-capita-real-variacao",
+        "inicio": {
+          "periodo": "2003",
+          "valor": -0.1
+        },
+        "fim": {
+          "periodo": "2010",
+          "valor": 6.7
+        },
+        "media": {
+          "periodo": "2003–2010",
+          "valor": 3.0
+        },
+        "observacao": "Média anual 2003–2010: +3,0%; acumulado +26,5%."
+      },
+      {
         "serie": "ipca-anual",
         "inicio": {
           "periodo": "2003",
@@ -49,14 +66,68 @@
       {
         "serie": "selic-fim-de-ano",
         "inicio": {
-          "periodo": "23/01/2003",
-          "valor": 25.5
+          "periodo": "31/12/2002",
+          "valor": 25.0
+        },
+        "fim": {
+          "periodo": "31/12/2010",
+          "valor": 10.75
+        },
+        "observacao": "Variação de −14,25 p.p.; pico de 26,50% em 20/02/2003; mínima de 8,75% em jul/2009."
+      },
+      {
+        "serie": "juro-real-ex-ante",
+        "inicio": {
+          "periodo": "30/12/2003",
+          "valor": 7.5
+        },
+        "fim": {
+          "periodo": "31/12/2010",
+          "valor": 6.6
+        },
+        "media": {
+          "periodo": "2003–2010",
+          "valor": 7.5
+        },
+        "observacao": "Média dos dezembros do mandato: 7,5%."
+      },
+      {
+        "serie": "fbcf-pib",
+        "inicio": {
+          "periodo": "2003",
+          "valor": 16.6
+        },
+        "fim": {
+          "periodo": "2010",
+          "valor": 20.5
+        },
+        "media": {
+          "periodo": "2003–2010",
+          "valor": 17.9
+        },
+        "observacao": "Média do período: 17,9%."
+      },
+      {
+        "serie": "caged-com-ajustes-por-governo",
+        "inicio": null,
+        "fim": null,
+        "media": {
+          "periodo": "2003–2010 (soma)",
+          "valor": 13449992
+        },
+        "observacao": "Soma dos saldos anuais com ajustes (MTE): +13.449.992 vínculos; estoque de 22,7 mi (dez/2002) para 36,2 mi (dez/2010)."
+      },
+      {
+        "serie": "divida-bruta-metodologia-antiga",
+        "inicio": {
+          "periodo": "dez/2002",
+          "valor": 76.1
         },
         "fim": {
           "periodo": "dez/2010",
-          "valor": 10.75
+          "valor": 62.43
         },
-        "observacao": "Taxa de 25,50% é a primeira mudança registrada em 2003; pico de 26,50% em 20/02/2003."
+        "observacao": "Metodologia do BCB usada até 2007 (SGS 4537), única medida de dívida bruta disponível para 2002–2005; queda de 13,7 p.p."
       },
       {
         "serie": "cambio-fim-de-periodo",
@@ -193,11 +264,22 @@
       "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/03_emprego_renda_pobreza_social.md"
     ],
     "lacunas": [
-      "Dívida bruta (DBGG) inexistente na metodologia atual para 2002-2005.",
+      "Dívida bruta na metodologia atual (SGS 13762) inexistente para 2002-2005; coberta pela metodologia antiga (SGS 4537), não comparável nível a nível.",
       "Desemprego nacional comparável (PNAD Contínua) só a partir de 2012.",
-      "Pobreza e Gini de 2010 não constam nas notas."
+      "Pobreza e Gini de 2010 não constam nas notas.",
+      "Dias exatos das decisões de rating de 2008-2009 sem fonte primária."
     ],
-    "atualizado_em": "2026-10-21"
+    "atualizado_em": "2026-10-21",
+    "changelog": [
+      {
+        "data": "2026-10-21",
+        "o_que_mudou": "publicação (rodada 1)"
+      },
+      {
+        "data": "2026-10-21",
+        "o_que_mudou": "rodada 2: tarifas dos EUA com textos oficiais, ratings com datas, Selic de 31/12, PIB per capita real, FBCF, juro real ex-ante, CAGED com ajustes, DBGG metodologia antiga; lacunas atualizadas"
+      }
+    ]
   },
   {
     "id": "dilma",
@@ -210,7 +292,8 @@
     "contexto_externo": [
       "Queda dos preços de commodities a partir de 2014.",
       "Enquanto o Brasil recuava (−3,55% em 2015 e −3,28% em 2016), o mundo crescia entre 3,2% e 3,6% ao ano.",
-      "Perda do grau de investimento pelas três agências em 2015-2016 (datas não verificadas em fonte primária).",
+      "Perda do grau de investimento pelas três agências: S&P (set/2015), Fitch (dez/2015) e Moody's (fev/2016); meses corroborados pela imprensa, dias exatos sem fonte primária.",
+      "Recessão datada pelo CODACE: 2T2014–4T2016 (11 trimestres; −8,1%), a mais longa desde 1980, empatada com 1989–1992.",
       "Ano de 2016 compartilhado com Temer a partir de 31/08/2016; dados anuais de 2016 refletem os dois governos."
     ],
     "indicadores_inicio_fim": [
@@ -237,6 +320,22 @@
         "observacao": "2016 compartilhado com Temer."
       },
       {
+        "serie": "pib-per-capita-real-variacao",
+        "inicio": {
+          "periodo": "2011",
+          "valor": 3.2
+        },
+        "fim": {
+          "periodo": "2016",
+          "valor": -4.0
+        },
+        "media": {
+          "periodo": "2011–2016",
+          "valor": -0.35
+        },
+        "observacao": "Média anual 2011–2016: −0,35% (2011–2015: +0,4%); acumulado −2,3%."
+      },
+      {
         "serie": "ipca-anual",
         "inicio": {
           "periodo": "2011",
@@ -251,14 +350,56 @@
       {
         "serie": "selic-fim-de-ano",
         "inicio": {
-          "periodo": "dez/2010",
+          "periodo": "31/12/2010",
           "valor": 10.75
         },
         "fim": {
-          "periodo": "ago/2016",
+          "periodo": "31/08/2016",
           "valor": 14.25
         },
-        "observacao": "14,25% vigorou de 30/07/2015 a 20/10/2016."
+        "observacao": "14,25% vigorou de 30/07/2015 a 19/10/2016 (SGS 432); variação +3,5 p.p. Em 31/12/2015: 14,25%."
+      },
+      {
+        "serie": "juro-real-ex-ante",
+        "inicio": {
+          "periodo": "30/12/2011",
+          "valor": 4.0
+        },
+        "fim": {
+          "periodo": "31/12/2015",
+          "valor": 7.8
+        },
+        "media": {
+          "periodo": "2011–2015",
+          "valor": 4.6
+        },
+        "observacao": "Média dos dezembros 2011–2015: 4,6%."
+      },
+      {
+        "serie": "fbcf-pib",
+        "inicio": {
+          "periodo": "2011",
+          "valor": 20.6
+        },
+        "fim": {
+          "periodo": "2016",
+          "valor": 15.5
+        },
+        "media": {
+          "periodo": "2011–2016",
+          "valor": 19.2
+        },
+        "observacao": "Média 2011–2016: 19,2%; máximo da série em 2013 (20,9%)."
+      },
+      {
+        "serie": "caged-com-ajustes-por-governo",
+        "inicio": null,
+        "fim": null,
+        "media": {
+          "periodo": "2011–2016 (soma)",
+          "valor": 2096870
+        },
+        "observacao": "Soma dos saldos anuais com ajustes (MTE): Dilma 1 (2011–2014) +4.958.417; Dilma 2 (2015–2016) −2.861.547."
       },
       {
         "serie": "cambio-fim-de-periodo",
@@ -398,10 +539,21 @@
       "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/03_emprego_renda_pobreza_social.md"
     ],
     "lacunas": [
-      "Câmbio, reservas e Selic exatos em 31/08/2016 não constam nas notas; usados dezembros próximos.",
-      "Cestas básicas de 2011 não constam na tabela do DIEESE."
+      "Câmbio e reservas em 31/08/2016 não levantados (Selic de 31/08/2016 = 14,25% confirmada na SGS 432).",
+      "Cestas básicas de 2011 não constam na tabela do DIEESE.",
+      "Dias exatos das decisões de rating de 2015-2016 sem fonte primária."
     ],
-    "atualizado_em": "2026-10-21"
+    "atualizado_em": "2026-10-21",
+    "changelog": [
+      {
+        "data": "2026-10-21",
+        "o_que_mudou": "publicação (rodada 1)"
+      },
+      {
+        "data": "2026-10-21",
+        "o_que_mudou": "rodada 2: tarifas dos EUA com textos oficiais, ratings com datas, Selic de 31/12, PIB per capita real, FBCF, juro real ex-ante, CAGED com ajustes, DBGG metodologia antiga; lacunas atualizadas"
+      }
+    ]
   },
   {
     "id": "temer",
@@ -438,6 +590,22 @@
         }
       },
       {
+        "serie": "pib-per-capita-real-variacao",
+        "inicio": {
+          "periodo": "2017",
+          "valor": 0.6
+        },
+        "fim": {
+          "periodo": "2018",
+          "valor": 1.0
+        },
+        "media": {
+          "periodo": "2017–2018",
+          "valor": 0.8
+        },
+        "observacao": "Média anual: +0,8%; acumulado +1,6%."
+      },
+      {
         "serie": "ipca-anual",
         "inicio": {
           "periodo": "2017",
@@ -452,13 +620,62 @@
       {
         "serie": "selic-fim-de-ano",
         "inicio": {
-          "periodo": "ago/2016",
+          "periodo": "31/08/2016",
           "valor": 14.25
         },
         "fim": {
-          "periodo": "dez/2018",
+          "periodo": "31/12/2018",
           "valor": 6.5
-        }
+        },
+        "observacao": "Variação de −7,75 p.p.; em 31/12/2016: 13,75%; em 31/12/2017: 7,00%."
+      },
+      {
+        "serie": "juro-real-ex-ante",
+        "inicio": {
+          "periodo": "30/12/2016",
+          "valor": 5.2
+        },
+        "fim": {
+          "periodo": "31/12/2018",
+          "valor": 3.1
+        },
+        "media": {
+          "periodo": "2016–2018",
+          "valor": 3.7
+        },
+        "observacao": "Média dos dezembros 2016–2018: 3,7%."
+      },
+      {
+        "serie": "fbcf-pib",
+        "inicio": {
+          "periodo": "2017",
+          "valor": 14.6
+        },
+        "fim": {
+          "periodo": "2018",
+          "valor": 15.1
+        },
+        "media": {
+          "periodo": "2017–2018",
+          "valor": 14.9
+        },
+        "observacao": "Média: 14,9%; 2017 foi o mínimo da série."
+      },
+      {
+        "serie": "caged-com-ajustes-por-governo",
+        "inicio": null,
+        "fim": null,
+        "media": {
+          "periodo": "2017–2018 (soma)",
+          "valor": 534481
+        },
+        "observacao": "Soma dos saldos anuais com ajustes (MTE): +534.481."
+      },
+      {
+        "serie": "rating-soberano-eventos",
+        "inicio": null,
+        "fim": null,
+        "observacao": "Rebaixamentos a BB− por S&P (11/01/2018) e Fitch (23/02/2018), os únicos cortes de nota entre 2017 e 2025."
       },
       {
         "serie": "cambio-fim-de-periodo",
@@ -596,7 +813,17 @@
     "lacunas": [
       "Cestas básicas de 2017 não constam na tabela do DIEESE."
     ],
-    "atualizado_em": "2026-10-21"
+    "atualizado_em": "2026-10-21",
+    "changelog": [
+      {
+        "data": "2026-10-21",
+        "o_que_mudou": "publicação (rodada 1)"
+      },
+      {
+        "data": "2026-10-21",
+        "o_que_mudou": "rodada 2: tarifas dos EUA com textos oficiais, ratings com datas, Selic de 31/12, PIB per capita real, FBCF, juro real ex-ante, CAGED com ajustes, DBGG metodologia antiga; lacunas atualizadas"
+      }
+    ]
   },
   {
     "id": "bolsonaro",
@@ -632,7 +859,23 @@
           "periodo": "2022",
           "valor": 3.02
         },
-        "observacao": "2020: −3,28% (pandemia)."
+        "observacao": "2020: −3,28% (pandemia). Recessão datada pelo CODACE: 1T2020–2T2020 (−10,7%)."
+      },
+      {
+        "serie": "pib-per-capita-real-variacao",
+        "inicio": {
+          "periodo": "2019",
+          "valor": 0.6
+        },
+        "fim": {
+          "periodo": "2022",
+          "valor": 2.6
+        },
+        "media": {
+          "periodo": "2019–2022",
+          "valor": 0.9
+        },
+        "observacao": "Média anual: +0,9%; acumulado +3,5%."
       },
       {
         "serie": "ipca-anual",
@@ -644,19 +887,61 @@
           "periodo": "2022",
           "valor": 5.79
         },
-        "observacao": "2021: 10,06%, acima do teto; 2022 também acima do teto. Média: 6,17%."
+        "observacao": "2021: 10,06%, acima do teto; 2022 também acima do teto. Média: 6,17%. Alimentação no domicílio acumulou 56,2% em 2019–2022."
       },
       {
         "serie": "selic-fim-de-ano",
         "inicio": {
-          "periodo": "dez/2018",
+          "periodo": "31/12/2018",
           "valor": 6.5
         },
         "fim": {
-          "periodo": "dez/2022",
+          "periodo": "31/12/2022",
           "valor": 13.75
         },
-        "observacao": "Mínima histórica de 2,00% entre ago/2020 e mar/2021."
+        "observacao": "Variação +7,25 p.p.; mínima histórica de 2,00% entre ago/2020 e mar/2021; 31/12/2019 4,50%; 31/12/2021 9,25%."
+      },
+      {
+        "serie": "juro-real-ex-ante",
+        "inicio": {
+          "periodo": "31/12/2019",
+          "valor": 0.7
+        },
+        "fim": {
+          "periodo": "30/12/2022",
+          "valor": 6.6
+        },
+        "media": {
+          "periodo": "2019–2022",
+          "valor": 3.2
+        },
+        "observacao": "Média dos dezembros: 3,2%; dez/2020 (−0,5%) foi o único negativo da série."
+      },
+      {
+        "serie": "fbcf-pib",
+        "inicio": {
+          "periodo": "2019",
+          "valor": 15.5
+        },
+        "fim": {
+          "periodo": "2022",
+          "valor": 17.8
+        },
+        "media": {
+          "periodo": "2019–2022",
+          "valor": 17.0
+        },
+        "observacao": "Média: 17,0%."
+      },
+      {
+        "serie": "caged-com-ajustes-por-governo",
+        "inicio": null,
+        "fim": null,
+        "media": {
+          "periodo": "2019–2022 (soma)",
+          "valor": 5251875
+        },
+        "observacao": "Soma dos saldos anuais com ajustes (MTE): +5.251.875 (2019 Caged antigo; 2020–2022 Novo Caged); estoque de 38,8 mi para 44,1 mi."
       },
       {
         "serie": "cambio-fim-de-periodo",
@@ -796,7 +1081,17 @@
       "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/03_emprego_renda_pobreza_social.md"
     ],
     "lacunas": [],
-    "atualizado_em": "2026-10-21"
+    "atualizado_em": "2026-10-21",
+    "changelog": [
+      {
+        "data": "2026-10-21",
+        "o_que_mudou": "publicação (rodada 1)"
+      },
+      {
+        "data": "2026-10-21",
+        "o_que_mudou": "rodada 2: tarifas dos EUA com textos oficiais, ratings com datas, Selic de 31/12, PIB per capita real, FBCF, juro real ex-ante, CAGED com ajustes, DBGG metodologia antiga; lacunas atualizadas"
+      }
+    ]
   },
   {
     "id": "lula-3",
@@ -807,11 +1102,13 @@
     "vice": "Geraldo Alckmin (PSB)",
     "resumo_uma_frase": "Crescimento médio de 3,0% em 2023-2025 com desemprego no menor nível da série da PNAD Contínua, exportações e bolsa em recorde, mas inflação acima do teto em 2024 e 2025, Selic de 15% e dívida bruta na máxima da série (82,9% do PIB em ago/2026) com déficits primários.",
     "contexto_externo": [
-      "Tarifas adicionais dos EUA sobre produtos brasileiros (Ordem Executiva 14323, ago/2025; escopo reduzido em nov/2025; ação da Seção 301 em jul/2026); mesmo assim as exportações bateram recorde em 2025.",
+      "Tarifas dos EUA sobre o Brasil (textos oficiais lidos no Federal Register/GovInfo): Ordem Executiva 14323 (assinada 30/07/2025) impôs tarifa adicional de 40% a partir de 06/08/2025, cumulativa com a recíproca de 10% (total 50% para produtos não isentos; exceções para aeronaves, celulose, metais, energia, fertilizantes etc.); a EO 14361 (20/11/2025) isentou produtos agrícolas retroativamente a 13/11/2025; a EO 14389 (20/02/2026) encerrou as tarifas IEEPA, inclusive a de 40%; o memorando da Seção 301 (15/07/2026) impôs nova tarifa de 25% sobre bens do Brasil, com isenções, vigente em out/2026. Mesmo assim as exportações bateram recorde em 2025 (US$ 350,5 bi).",
       "Conflitos armados no Oriente Médio e incerteza sobre a política monetária de economias avançadas, citados pelo Copom em set/2026.",
       "Inflação brasileira em 2025 (5,0%, FMI) acima da média mundial (4,1%).",
       "Mundo cresceu 3,4% ao ano em média em 2023-2025 e a América Latina 2,4%; o Brasil, 3,0%.",
-      "Upgrades de rating em 2023 (Fitch e S&P) e 2024 (Moody's), sem recuperar o grau de investimento (datas não verificadas em fonte primária)."
+      "Rating: upgrades da Fitch (26/07/2023, BB) e S&P (19/12/2023, BB) e da Moody's (01/10/2024, Ba1); perspectiva da Moody's passou de positiva a estável em 30/05/2025; nenhum rebaixamento de nota no período. Grau de investimento não recuperado (datas via FX Empire, fonte secundária).",
+      "Risco-país: CDS de 5 anos em 116 pontos em 08/05/2026, menor nível de Lula 3 e menor desde fev/2020 (Poder360, secundário); EMBI+ sem fonte oficial após jul/2024.",
+      "Pela datação oficial do CODACE, o Brasil está em expansão desde o 3T2020; nenhuma recessão foi datada em Lula 3."
     ],
     "indicadores_inicio_fim": [
       {
@@ -837,6 +1134,22 @@
         "observacao": "2026: +1,9% acumulado em quatro trimestres até o 2T2026 (parcial)."
       },
       {
+        "serie": "pib-per-capita-real-variacao",
+        "inicio": {
+          "periodo": "2023",
+          "valor": 2.8
+        },
+        "fim": {
+          "periodo": "2025",
+          "valor": 1.9
+        },
+        "media": {
+          "periodo": "2023–2025",
+          "valor": 2.6
+        },
+        "observacao": "Média anual 2023–2025: +2,6%; acumulado +7,9%. O PIB per capita real superou o nível de 2013 só em 2024."
+      },
+      {
         "serie": "ipca-anual",
         "inicio": {
           "periodo": "2023",
@@ -846,19 +1159,61 @@
           "periodo": "2025",
           "valor": 4.26
         },
-        "observacao": "2024 (4,83%) estourou o teto; 2025 descumpriu a meta contínua. 12 meses até set/2026: 4,58%. Focus para dez/2026: 5,22%."
+        "observacao": "2024 (4,83%) estourou o teto; 2025 descumpriu a meta contínua (carta aberta em 10/07/2025). 12 meses até set/2026: 4,58%. Focus para dez/2026: 5,22%; Copom: 5,2%. Alimentação no domicílio acumulou 9,2% em 2023–2025."
       },
       {
         "serie": "selic-fim-de-ano",
         "inicio": {
-          "periodo": "dez/2022",
+          "periodo": "31/12/2022",
           "valor": 13.75
         },
         "fim": {
-          "periodo": "set/2026",
+          "periodo": "21/10/2026",
           "valor": 13.75
         },
-        "observacao": "Caiu a 10,50% (mai/2024), subiu a 15,00% (jun/2025, maior desde 2006) e voltou a 13,75% em 17/09/2026."
+        "observacao": "Caiu a 10,50% (mai/2024), subiu a 15,00% (20/06/2025, maior desde 2006) e voltou a 13,75% em 17/09/2026; 31/12/2023 11,75%; 31/12/2024 12,25%; 31/12/2025 15,00%."
+      },
+      {
+        "serie": "juro-real-ex-ante",
+        "inicio": {
+          "periodo": "29/12/2023",
+          "valor": 4.9
+        },
+        "fim": {
+          "periodo": "16/10/2026",
+          "valor": 7.2
+        },
+        "media": {
+          "periodo": "2023–2025",
+          "valor": 7.4
+        },
+        "observacao": "Média dos dezembros 2023–2025: 7,4%; dez/2024 (9,3%) foi o maior desde dez/2005."
+      },
+      {
+        "serie": "fbcf-pib",
+        "inicio": {
+          "periodo": "2023",
+          "valor": 16.4
+        },
+        "fim": {
+          "periodo": "2025",
+          "valor": 16.8
+        },
+        "media": {
+          "periodo": "2023–2025",
+          "valor": 16.7
+        },
+        "observacao": "Média 2023–2025: 16,7%; 1S2026: 16,3%."
+      },
+      {
+        "serie": "caged-com-ajustes-por-governo",
+        "inicio": null,
+        "fim": null,
+        "media": {
+          "periodo": "2023–ago/2026 (soma)",
+          "valor": 5546385
+        },
+        "observacao": "Soma dos saldos anuais com ajustes (MTE): +4.412.352 (2023–2025) ou +5.546.385 até ago/2026; estoque recorde de 48,47 mi em dez/2025."
       },
       {
         "serie": "cambio-fim-de-periodo",
@@ -999,8 +1354,20 @@
     ],
     "lacunas": [
       "Pobreza e Gini de 2025/2026 pelo Banco Mundial ainda não disponíveis; IBGE/SIS só até 2024 (pobreza) e 2025 (Gini).",
-      "EMBI+ após jul/2024 e CDS não disponíveis em fonte oficial gratuita."
+      "EMBI+ após jul/2024 e CDS de ago-out/2026 não disponíveis em fonte oficial gratuita.",
+      "Anexo de isenções da tarifa de 25% da Seção 301 (jul/2026) publicado como imagem, não transcrito.",
+      "Checagem da frase literal 'Lula quebrou o Brasil' não localizada em nenhuma agência."
     ],
-    "atualizado_em": "2026-10-21"
+    "atualizado_em": "2026-10-21",
+    "changelog": [
+      {
+        "data": "2026-10-21",
+        "o_que_mudou": "publicação (rodada 1)"
+      },
+      {
+        "data": "2026-10-21",
+        "o_que_mudou": "rodada 2: tarifas dos EUA com textos oficiais, ratings com datas, Selic de 31/12, PIB per capita real, FBCF, juro real ex-ante, CAGED com ajustes, DBGG metodologia antiga; lacunas atualizadas"
+      }
+    ]
   }
 ]

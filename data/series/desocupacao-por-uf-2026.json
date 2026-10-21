@@ -1,0 +1,270 @@
+{
+  "id": "desocupacao-por-uf-2026",
+  "titulo": "Taxa de desocupação por estado (2T2026, com 4T2014, 4T2019, 4T2022 e 4T2025)",
+  "descricao_simples": "Desemprego em cada estado no 2º trimestre de 2026 e em trimestres de comparação.",
+  "unidade": "% da força de trabalho (2T2026)",
+  "tipo_grafico": "barra",
+  "frequencia": "trimestral",
+  "fonte": {
+    "nome": "IBGE/SIDRA, tabela 4099, nível UF",
+    "url": "https://apisidra.ibge.gov.br/values/t/4099/n3/all/v/4099/p/201404,201904,202204,202504,202602",
+    "acesso_em": "2026-10-21",
+    "tier": "oficial"
+  },
+  "pontos": [
+    {
+      "periodo": "Amapá",
+      "valor": 9.8,
+      "4T2014": 9.6,
+      "4T2019": 15.8,
+      "4T2022": 13.4,
+      "4T2025": 8.4,
+      "2T2026": 9.8
+    },
+    {
+      "periodo": "Bahia",
+      "valor": 9.1,
+      "4T2014": 9.8,
+      "4T2019": 16.6,
+      "4T2022": 13.5,
+      "4T2025": 8.0,
+      "2T2026": 9.1
+    },
+    {
+      "periodo": "Piauí",
+      "valor": 8.3,
+      "4T2014": 6.0,
+      "4T2019": 13.3,
+      "4T2022": 9.5,
+      "4T2025": 8.0,
+      "2T2026": 8.3
+    },
+    {
+      "periodo": "Pernambuco",
+      "valor": 8.3,
+      "4T2014": 7.7,
+      "4T2019": 14.2,
+      "4T2022": 12.3,
+      "4T2025": 8.8,
+      "2T2026": 8.3
+    },
+    {
+      "periodo": "Alagoas",
+      "valor": 7.9,
+      "4T2014": 9.5,
+      "4T2019": 13.7,
+      "4T2022": 9.4,
+      "4T2025": 8.0,
+      "2T2026": 7.9
+    },
+    {
+      "periodo": "Sergipe",
+      "valor": 7.9,
+      "4T2014": 9.1,
+      "4T2019": 15.1,
+      "4T2022": 12.0,
+      "4T2025": 7.5,
+      "2T2026": 7.9
+    },
+    {
+      "periodo": "Amazonas",
+      "valor": 7.5,
+      "4T2014": 7.9,
+      "4T2019": 13.1,
+      "4T2022": 10.1,
+      "4T2025": 7.3,
+      "2T2026": 7.5
+    },
+    {
+      "periodo": "Rio de Janeiro",
+      "valor": 7.1,
+      "4T2014": 5.8,
+      "4T2019": 13.8,
+      "4T2022": 11.4,
+      "4T2025": 6.9,
+      "2T2026": 7.1
+    },
+    {
+      "periodo": "Acre",
+      "valor": 6.6,
+      "4T2014": 6.3,
+      "4T2019": 13.8,
+      "4T2022": 9.8,
+      "4T2025": 6.4,
+      "2T2026": 6.6
+    },
+    {
+      "periodo": "Ceará",
+      "valor": 6.6,
+      "4T2014": 6.6,
+      "4T2019": 10.3,
+      "4T2022": 7.8,
+      "4T2025": 5.0,
+      "2T2026": 6.6
+    },
+    {
+      "periodo": "Distrito Federal",
+      "valor": 6.5,
+      "4T2014": 8.8,
+      "4T2019": 12.6,
+      "4T2022": 10.3,
+      "4T2025": 6.8,
+      "2T2026": 6.5
+    },
+    {
+      "periodo": "Pará",
+      "valor": 6.2,
+      "4T2014": 7.1,
+      "4T2019": 9.2,
+      "4T2022": 8.2,
+      "4T2025": 5.8,
+      "2T2026": 6.2
+    },
+    {
+      "periodo": "Maranhão",
+      "valor": 6.0,
+      "4T2014": 7.2,
+      "4T2019": 12.5,
+      "4T2022": 8.4,
+      "4T2025": 5.6,
+      "2T2026": 6.0
+    },
+    {
+      "periodo": "Rio Grande do Norte",
+      "valor": 5.6,
+      "4T2014": 10.5,
+      "4T2019": 12.9,
+      "4T2022": 10.0,
+      "4T2025": 6.7,
+      "2T2026": 5.6
+    },
+    {
+      "periodo": "Paraíba",
+      "valor": 5.4,
+      "4T2014": 8.2,
+      "4T2019": 12.2,
+      "4T2022": 10.3,
+      "4T2025": 5.7,
+      "2T2026": 5.4
+    },
+    {
+      "periodo": "São Paulo",
+      "valor": 5.4,
+      "4T2014": 7.2,
+      "4T2019": 11.6,
+      "4T2022": 7.7,
+      "4T2025": 4.7,
+      "2T2026": 5.4
+    },
+    {
+      "periodo": "Roraima",
+      "valor": 5.0,
+      "4T2014": 6.5,
+      "4T2019": 15.0,
+      "4T2022": 4.6,
+      "4T2025": 4.7,
+      "2T2026": 5.0
+    },
+    {
+      "periodo": "Rio Grande do Sul",
+      "valor": 4.2,
+      "4T2014": 4.6,
+      "4T2019": 7.3,
+      "4T2022": 4.6,
+      "4T2025": 3.7,
+      "2T2026": 4.2
+    },
+    {
+      "periodo": "Tocantins",
+      "valor": 4.1,
+      "4T2014": 6.4,
+      "4T2019": 9.3,
+      "4T2022": 5.2,
+      "4T2025": 4.0,
+      "2T2026": 4.1
+    },
+    {
+      "periodo": "Goiás",
+      "valor": 4.0,
+      "4T2014": 5.1,
+      "4T2019": 10.6,
+      "4T2022": 6.7,
+      "4T2025": 3.9,
+      "2T2026": 4.0
+    },
+    {
+      "periodo": "Minas Gerais",
+      "valor": 3.8,
+      "4T2014": 6.3,
+      "4T2019": 9.6,
+      "4T2022": 5.8,
+      "4T2025": 3.8,
+      "2T2026": 3.8
+    },
+    {
+      "periodo": "Paraná",
+      "valor": 3.1,
+      "4T2014": 3.7,
+      "4T2019": 7.4,
+      "4T2022": 5.2,
+      "4T2025": 3.2,
+      "2T2026": 3.1
+    },
+    {
+      "periodo": "Mato Grosso do Sul",
+      "valor": 2.7,
+      "4T2014": 3.9,
+      "4T2019": 6.7,
+      "4T2022": 3.3,
+      "4T2025": 2.4,
+      "2T2026": 2.7
+    },
+    {
+      "periodo": "Rondônia",
+      "valor": 2.6,
+      "4T2014": 3.6,
+      "4T2019": 8.2,
+      "4T2022": 3.1,
+      "4T2025": 2.6,
+      "2T2026": 2.6
+    },
+    {
+      "periodo": "Espírito Santo",
+      "valor": 2.3,
+      "4T2014": 6.2,
+      "4T2019": 10.5,
+      "4T2022": 7.3,
+      "4T2025": 2.4,
+      "2T2026": 2.3
+    },
+    {
+      "periodo": "Mato Grosso",
+      "valor": 2.2,
+      "4T2014": 4.1,
+      "4T2019": 6.5,
+      "4T2022": 3.6,
+      "4T2025": 2.4,
+      "2T2026": 2.2
+    },
+    {
+      "periodo": "Santa Catarina",
+      "valor": 2.1,
+      "4T2014": 2.7,
+      "4T2019": 5.5,
+      "4T2022": 3.3,
+      "4T2025": 2.2,
+      "2T2026": 2.1
+    }
+  ],
+  "faixas_referencia": [],
+  "notas_metodologicas": [
+    "Brasil: 6,6 (4T2014); 11,1 (4T2019); 7,9 (4T2022); 5,1 (4T2025); 5,4 (2T2026). Ordenado da maior para a menor taxa em 2T2026."
+  ],
+  "lacunas": [],
+  "ultimo_periodo": "2T2026",
+  "temas": [
+    "emprego-renda"
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/03_emprego_renda_pobreza_social.md",
+  "atualizado_em": "2026-10-21"
+}

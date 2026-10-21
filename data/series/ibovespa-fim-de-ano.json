@@ -21,6 +21,16 @@
       "valor": 22236
     },
     {
+      "periodo": "2004",
+      "valor": 26196,
+      "data": "30/12/2004"
+    },
+    {
+      "periodo": "2005",
+      "valor": 33456,
+      "data": "29/12/2005"
+    },
+    {
       "periodo": "2006",
       "valor": 44474
     },
@@ -43,6 +53,11 @@
     {
       "periodo": "2011",
       "valor": 56754
+    },
+    {
+      "periodo": "2012",
+      "valor": 60952,
+      "data": "28/12/2012"
     },
     {
       "periodo": "2013",
@@ -99,6 +114,11 @@
     {
       "periodo": "19/10/2026",
       "valor": 205079,
+      "parcial": true
+    },
+    {
+      "periodo": "20/10/2026",
+      "valor": 208296,
       "parcial": true,
       "recorde_nominal": true
     }
@@ -106,12 +126,10 @@
   "faixas_referencia": [],
   "notas_metodologicas": [
     "Valores nominais, não deflacionados nem convertidos em dólar.",
-    "205.079 pontos em 19/10/2026 é recorde nominal."
+    "Rodada 2 (21/10/2026): fechamentos de 2004 (26.196), 2005 (33.456) e 2012 (60.952) obtidos no Ipeadata; recorde nominal atualizado para 208.296 pontos em 20/10/2026 (205.079 em 19/10/2026 fica como penúltimo). 2006 = 44.473,71, arredondado para 44.474."
   ],
-  "lacunas": [
-    "A nota não traz os fechamentos de 2004, 2005 e 2012."
-  ],
-  "ultimo_periodo": "19/10/2026",
+  "lacunas": [],
+  "ultimo_periodo": "20/10/2026",
   "temas": [
     "economia"
   ],

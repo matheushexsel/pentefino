@@ -104,10 +104,6 @@
       "valor": 51.27
     },
     {
-      "rotulo": "Pico mensal (out/2020, agregador privado, conferir)",
-      "valor": 87.66
-    },
-    {
       "rotulo": "Projeção Focus/Prisma Fiscal para 2026",
       "valor": 83.4
     },
@@ -122,17 +118,24 @@
     {
       "rotulo": "Projeção Focus para 2030",
       "valor": 95.1
+    },
+    {
+      "rotulo": "Pico mensal da série (out/2020, confirmado na SGS 13762)",
+      "valor": 87.66
     }
   ],
   "notas_metodologicas": [
-    "Série começa em dez/2006; não existe DBGG nesta metodologia para 2002–2005 (usar divida-liquida-pib).",
     "Trajetória mensal de 2026: mar 79,88; abr 80,09; mai 81,04; jun 81,95; jul 82,55; ago 82,87 (maior desde mar/2021, 85,1%).",
     "Em reais: R$ 10,017 tri (dez/2025) e R$ 11,1 tri (ago/2026).",
     "Variação por mandato (dez a dez, cálculo da nota): 2006→2010 −3,7 p.p.; 2010→2016 +18,1; 2016→2018 +5,4; 2018→2022 −3,6; 2022→ago/2026 +11,2.",
-    "O FMI mede a dívida de outro jeito (inclui títulos na carteira do BC) e chega a números maiores; ver divida-bruta-fmi."
+    "O FMI mede a dívida de outro jeito (inclui títulos na carteira do BC) e chega a números maiores; ver divida-bruta-fmi.",
+    "Série começa em dez/2006. Para 2002–2005 use divida-bruta-metodologia-antiga (SGS 4537, metodologia até 2007; não comparável nível a nível).",
+    "Rodada 2 (21/10/2026): máximo (87,66%, out/2020; set/2020 87,42; nov/2020 86,96) e mínimo (51,27%, dez/2011) confirmados na própria série do BCB.",
+    "Fatores oficiais da variação: em 2025 a DBGG subiu 2,4 p.p. (juros +8,9; reconhecimento de dívidas +0,2; PIB nominal −5,7; câmbio −0,5; emissões líquidas −0,3; ajustes externos −0,2); em jan–ago/2026 subiu 4,2 p.p. (juros +6,5; emissões líquidas +1,5; PIB nominal −3,6; câmbio −0,2). Fonte: BCB, Notas para a Imprensa de 30/01/2026 e 30/09/2026.",
+    "Série mensal jan/2023–ago/2026 com valores em R$ e DLSP: ver dbgg-mensal-2023-2026."
   ],
   "lacunas": [
-    "DBGG de 2002 a 2005 não existe na metodologia atual."
+    "DBGG de 2002 a 2005 não existe na metodologia atual (ver divida-bruta-metodologia-antiga)."
   ],
   "ultimo_periodo": "ago/2026",
   "temas": [

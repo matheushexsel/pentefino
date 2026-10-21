@@ -1,0 +1,133 @@
+{
+  "id": "salario-minimo-necessario-dieese",
+  "titulo": "Salário mínimo necessário (DIEESE) x salário mínimo vigente, 2019-2026",
+  "descricao_simples": "Quanto o DIEESE calcula que um salário mínimo deveria valer para sustentar uma família de quatro pessoas, comparado ao mínimo em vigor.",
+  "unidade": "R$ (valor = SM necessário); razão SM necessário/SM nos campos adicionais",
+  "tipo_grafico": "linha",
+  "frequencia": "mensal",
+  "fonte": {
+    "nome": "DIEESE — Salário mínimo nominal e necessário (série mensal)",
+    "url": "https://www.dieese.org.br/analisecestabasica/salarioMinimo.html",
+    "acesso_em": "2026-10-21",
+    "tier": "academico"
+  },
+  "pontos": [
+    {
+      "periodo": "dez/2019",
+      "valor": 4342.57,
+      "salario_minimo": 998,
+      "razao_calculo_proprio": 4.35
+    },
+    {
+      "periodo": "dez/2020",
+      "valor": 5304.9,
+      "salario_minimo": 1045,
+      "razao_calculo_proprio": 5.08
+    },
+    {
+      "periodo": "dez/2021",
+      "valor": 5800.98,
+      "salario_minimo": 1100,
+      "razao_calculo_proprio": 5.27
+    },
+    {
+      "periodo": "dez/2022",
+      "valor": 6647.63,
+      "salario_minimo": 1212,
+      "razao_calculo_proprio": 5.49
+    },
+    {
+      "periodo": "dez/2023",
+      "valor": 6439.62,
+      "salario_minimo": 1320,
+      "razao_calculo_proprio": 4.88
+    },
+    {
+      "periodo": "dez/2024",
+      "valor": 7067.68,
+      "salario_minimo": 1412,
+      "razao_calculo_proprio": 5.01
+    },
+    {
+      "periodo": "dez/2025",
+      "valor": 7106.83,
+      "salario_minimo": 1518,
+      "razao_calculo_proprio": 4.68
+    },
+    {
+      "periodo": "jan/2026",
+      "valor": 7177.57,
+      "salario_minimo": 1621,
+      "razao_calculo_proprio": 4.43
+    },
+    {
+      "periodo": "fev/2026",
+      "valor": 7164.94,
+      "salario_minimo": 1621
+    },
+    {
+      "periodo": "mar/2026",
+      "valor": 7425.99,
+      "salario_minimo": 1621
+    },
+    {
+      "periodo": "abr/2026",
+      "valor": 7612.49,
+      "salario_minimo": 1621
+    },
+    {
+      "periodo": "mai/2026",
+      "valor": 7999.44,
+      "salario_minimo": 1621
+    },
+    {
+      "periodo": "jun/2026",
+      "valor": 8110.92,
+      "salario_minimo": 1621
+    },
+    {
+      "periodo": "jul/2026",
+      "valor": 7687.01,
+      "salario_minimo": 1621
+    },
+    {
+      "periodo": "ago/2026",
+      "valor": 7565.86,
+      "salario_minimo": 1621,
+      "razao_calculo_proprio": 4.67
+    },
+    {
+      "periodo": "set/2026",
+      "valor": 7750.01,
+      "salario_minimo": 1621,
+      "razao_calculo_proprio": 4.78
+    }
+  ],
+  "faixas_referencia": [
+    {
+      "rotulo": "jan/2019: SM necessário R$ 3.928,73 (3,94 SM)",
+      "valor": 3928.73
+    },
+    {
+      "rotulo": "Pior razão recente: dez/2022, 5,49 SM",
+      "valor": 6647.63
+    },
+    {
+      "rotulo": "Máximo nominal da série: jun/2026",
+      "valor": 8110.92
+    }
+  ],
+  "notas_metodologicas": [
+    "Razão SM necessário/SM é cálculo próprio da nota: dez/2019 4,35; dez/2020 5,08; dez/2021 5,27; dez/2022 5,49 (pior da série recente); dez/2023 4,88; dez/2024 5,01; dez/2025 4,68; jan/2026 4,43; set/2026 4,78.",
+    "O salário mínimo necessário é estimado pelo DIEESE a partir da cesta básica mais cara entre as capitais, para uma família de dois adultos e duas crianças (preceito constitucional)."
+  ],
+  "lacunas": [
+    "Meses de 2019-2025 fora de dezembro não transcritos."
+  ],
+  "ultimo_periodo": "set/2026",
+  "temas": [
+    "emprego-renda"
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/13_renda_por_faixa_e_simulacoes_de_impacto.md",
+  "atualizado_em": "2026-10-21"
+}

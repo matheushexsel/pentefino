@@ -1,0 +1,149 @@
+{
+  "id": "inflacao-por-faixa-de-renda",
+  "titulo": "Inflação anual por faixa de renda (Ipea), 2018-2026",
+  "descricao_simples": "Quanto os preços subiram para as famílias mais pobres em comparação com as mais ricas, ano a ano. O valor principal é a faixa de renda muito baixa; as demais faixas e o IPCA aparecem nos campos adicionais.",
+  "unidade": "% ao ano (dez/dez)",
+  "tipo_grafico": "linha",
+  "frequencia": "anual",
+  "fonte": {
+    "nome": "Ipea — Inflação por faixa de renda, tabela (xlsx, 15/09/2026)",
+    "url": "https://www.ipea.gov.br/cartadeconjuntura/wp-content/uploads/2026/09/260915_inflacao-por-faixa-de-renda_tabela.xlsx",
+    "acesso_em": "2026-10-21",
+    "tier": "oficial"
+  },
+  "pontos": [
+    {
+      "periodo": "2018",
+      "valor": 3.37,
+      "baixa": 3.43,
+      "media_baixa": 3.5,
+      "media": 3.69,
+      "media_alta": 3.9,
+      "alta": 3.9,
+      "dif_muito_baixa_menos_alta_pp": -0.53
+    },
+    {
+      "periodo": "2019",
+      "valor": 4.42,
+      "baixa": 4.35,
+      "media_baixa": 4.26,
+      "media": 4.31,
+      "media_alta": 4.12,
+      "alta": 4.18,
+      "dif_muito_baixa_menos_alta_pp": 0.24
+    },
+    {
+      "periodo": "2020",
+      "valor": 6.22,
+      "baixa": 5.43,
+      "media_baixa": 4.8,
+      "media": 3.97,
+      "media_alta": 3.37,
+      "alta": 2.74,
+      "dif_muito_baixa_menos_alta_pp": 3.48
+    },
+    {
+      "periodo": "2021",
+      "valor": 10.08,
+      "baixa": 10.1,
+      "media_baixa": 10.4,
+      "media": 10.26,
+      "media_alta": 9.66,
+      "alta": 9.54,
+      "dif_muito_baixa_menos_alta_pp": 0.54
+    },
+    {
+      "periodo": "2022",
+      "valor": 6.35,
+      "baixa": 6.05,
+      "media_baixa": 5.6,
+      "media": 5.68,
+      "media_alta": 5.64,
+      "alta": 6.81,
+      "dif_muito_baixa_menos_alta_pp": -0.46
+    },
+    {
+      "periodo": "2023",
+      "valor": 3.27,
+      "baixa": 3.72,
+      "media_baixa": 4.28,
+      "media": 4.83,
+      "media_alta": 5.15,
+      "alta": 6.22,
+      "dif_muito_baixa_menos_alta_pp": -2.95
+    },
+    {
+      "periodo": "2024",
+      "valor": 4.91,
+      "baixa": 5.02,
+      "media_baixa": 4.86,
+      "media": 4.86,
+      "media_alta": 4.78,
+      "alta": 4.43,
+      "dif_muito_baixa_menos_alta_pp": 0.48
+    },
+    {
+      "periodo": "2025",
+      "valor": 3.81,
+      "baixa": 4.05,
+      "media_baixa": 4.13,
+      "media": 4.29,
+      "media_alta": 4.52,
+      "alta": 4.72,
+      "dif_muito_baixa_menos_alta_pp": -0.91
+    },
+    {
+      "periodo": "2026 (jan-ago)",
+      "valor": 3.12,
+      "baixa": 3.27,
+      "media_baixa": 3.11,
+      "media": 3.04,
+      "media_alta": 2.96,
+      "alta": 3.05,
+      "dif_muito_baixa_menos_alta_pp": 0.07,
+      "parcial": true
+    }
+  ],
+  "faixas_referencia": [
+    {
+      "rotulo": "IPCA 2024",
+      "valor": 4.83
+    },
+    {
+      "rotulo": "IPCA 2025",
+      "valor": 4.26
+    },
+    {
+      "rotulo": "Acumulado 2019-2022, renda muito baixa (%)",
+      "valor": 29.8
+    },
+    {
+      "rotulo": "Acumulado 2019-2022, renda alta (%)",
+      "valor": 25.2
+    },
+    {
+      "rotulo": "Acumulado 2023-2025, renda muito baixa (%)",
+      "valor": 12.5
+    },
+    {
+      "rotulo": "Acumulado 2023-2025, renda alta (%)",
+      "valor": 16.2
+    }
+  ],
+  "notas_metodologicas": [
+    "Faixas por renda domiciliar mensal (R$ de jan/2026): muito baixa < R$ 2.299,82; baixa até R$ 3.449,73; média-baixa até R$ 5.749,55; média até R$ 11.499,11; média-alta até R$ 22.998,22; alta acima disso (Ipea, CC 71 Nota 16).",
+    "Variação anual calculada pela nota pela composição das variações mensais da planilha oficial do Ipea (coincide com a aba 'Acumulado 12 meses' em dezembro). 2026 = jan-ago (parcial).",
+    "Acumulado por governo (cálculo da nota): 2019-2022 renda muito baixa +29,8% vs alta +25,2% (alimentos em 2020); 2023-2025 muito baixa +12,5% vs alta +16,2% (deflação de alimentos em 2023 e 2025). Ago/2026: IPCA −0,32%; muito baixa −0,40%; alta −0,34%; 12 meses: IPCA 4,22%, muito baixa 3,85%, alta 4,63%.",
+    "Faixa 'muito baixa' em divulgações anteriores do Ipea: renda familiar < R$ 2.202,02/mês (dez/2025)."
+  ],
+  "lacunas": [
+    "Anos anteriores a 2018 não constam das notas."
+  ],
+  "ultimo_periodo": "2026 (jan-ago)",
+  "temas": [
+    "economia",
+    "emprego-renda"
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/13_renda_por_faixa_e_simulacoes_de_impacto.md",
+  "atualizado_em": "2026-10-21"
+}

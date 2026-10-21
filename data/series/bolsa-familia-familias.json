@@ -1,99 +1,205 @@
 {
   "id": "bolsa-familia-familias",
-  "titulo": "Famílias atendidas pelo Bolsa Família / Auxílio Brasil",
-  "descricao_simples": "Quantas famílias recebiam o programa de transferência de renda em cada momento (valores aproximados conforme as fontes).",
+  "titulo": "Famílias atendidas pelo Bolsa Família / Auxílio Brasil em dezembro de cada ano",
+  "descricao_simples": "Quantas famílias receberam o programa de transferência de renda em dezembro de cada ano (2004–2025), com o valor pago no mês e o benefício médio.",
   "unidade": "milhões de famílias",
   "tipo_grafico": "linha",
   "frequencia": "anual",
   "fonte": {
-    "nome": "MDS/Ministério da Cidadania via Wikipedia pt (Bolsa Família, com fontes UOL 2006 e Banco Mundial 2010), Agência Brasil, Correio Braziliense e Lupa",
-    "url": "https://pt.wikipedia.org/wiki/Bolsa_Fam%C3%ADlia",
+    "nome": "Ipeadata, séries FAM_PBF (benefícios em dezembro, excluindo suspensos) e VAL_PBF (valor pago em dezembro), origem MDS/Portal da Transparência",
+    "url": "http://www.ipeadata.gov.br/api/odata4/ValoresSerie(SERCODIGO='FAM_PBF')",
     "acesso_em": "2026-10-21",
-    "tier": "imprensa"
+    "tier": "oficial"
   },
   "pontos": [
     {
-      "periodo": "2003",
-      "valor": 3.0,
-      "observacao": "pouco mais de 3 milhões (início do programa)",
-      "aproximado": true
+      "periodo": "dez/2004",
+      "valor": 6.572,
+      "familias": 6571839,
+      "valor_pago_mes_reais_milhoes": 439.9,
+      "beneficio_medio_reais": 66.93,
+      "programa": "Bolsa Família"
     },
     {
-      "periodo": "2006",
-      "valor": 11.1,
-      "custo_r_bilhoes": 8.2,
-      "custo_pib_pct": 0.4
+      "periodo": "dez/2005",
+      "valor": 8.7,
+      "familias": 8700445,
+      "valor_pago_mes_reais_milhoes": 549.4,
+      "beneficio_medio_reais": 63.14,
+      "programa": "Bolsa Família"
     },
     {
-      "periodo": "set/2010",
-      "valor": 12.7,
-      "observacao": "ao menos 12,7 milhões",
-      "aproximado": true
+      "periodo": "dez/2006",
+      "valor": 10.966,
+      "familias": 10965810,
+      "valor_pago_mes_reais_milhoes": 686.7,
+      "beneficio_medio_reais": 62.62,
+      "programa": "Bolsa Família"
     },
     {
-      "periodo": "2012–2019",
-      "valor": 14.0,
-      "observacao": "~14 milhões estáveis de 2012 em diante",
-      "aproximado": true
+      "periodo": "dez/2007",
+      "valor": 11.043,
+      "familias": 11043076,
+      "valor_pago_mes_reais_milhoes": 831.1,
+      "beneficio_medio_reais": 75.26,
+      "programa": "Bolsa Família"
     },
     {
-      "periodo": "mai/2020",
-      "valor": 14.33,
-      "observacao": "recorde de famílias",
-      "via_snippet": true
+      "periodo": "dez/2008",
+      "valor": 10.558,
+      "familias": 10557996,
+      "valor_pago_mes_reais_milhoes": 905.9,
+      "beneficio_medio_reais": 85.8,
+      "programa": "Bolsa Família"
     },
     {
-      "periodo": "jun/2020",
-      "valor": 14.2,
-      "via_snippet": true
+      "periodo": "dez/2009",
+      "valor": 12.371,
+      "familias": 12370915,
+      "valor_pago_mes_reais_milhoes": 1174.3,
+      "beneficio_medio_reais": 94.92,
+      "programa": "Bolsa Família"
     },
     {
-      "periodo": "out/2021",
-      "valor": 14.7,
-      "observacao": "último mês antes do Auxílio Brasil",
-      "via_snippet": true
+      "periodo": "dez/2010",
+      "valor": 12.778,
+      "familias": 12778220,
+      "valor_pago_mes_reais_milhoes": 1239.0,
+      "beneficio_medio_reais": 96.97,
+      "programa": "Bolsa Família"
     },
     {
-      "periodo": "nov/2021",
-      "valor": 14.5,
+      "periodo": "dez/2011",
+      "valor": 13.352,
+      "familias": 13352306,
+      "valor_pago_mes_reais_milhoes": 1602.1,
+      "beneficio_medio_reais": 119.99,
+      "programa": "Bolsa Família"
+    },
+    {
+      "periodo": "dez/2012",
+      "valor": 13.902,
+      "familias": 13902155,
+      "valor_pago_mes_reais_milhoes": 2012.7,
+      "beneficio_medio_reais": 144.78,
+      "programa": "Bolsa Família"
+    },
+    {
+      "periodo": "dez/2013",
+      "valor": 14.08,
+      "familias": 14080293,
+      "valor_pago_mes_reais_milhoes": 2138.2,
+      "beneficio_medio_reais": 151.86,
+      "programa": "Bolsa Família"
+    },
+    {
+      "periodo": "dez/2014",
+      "valor": 14.054,
+      "familias": 14054243,
+      "valor_pago_mes_reais_milhoes": 2367.0,
+      "beneficio_medio_reais": 168.42,
+      "programa": "Bolsa Família"
+    },
+    {
+      "periodo": "dez/2015",
+      "valor": 13.98,
+      "familias": 13980491,
+      "valor_pago_mes_reais_milhoes": 2270.8,
+      "beneficio_medio_reais": 162.43,
+      "programa": "Bolsa Família"
+    },
+    {
+      "periodo": "dez/2016",
+      "valor": 13.564,
+      "familias": 13563768,
+      "valor_pago_mes_reais_milhoes": 2457.0,
+      "beneficio_medio_reais": 181.15,
+      "programa": "Bolsa Família"
+    },
+    {
+      "periodo": "dez/2017",
+      "valor": 13.905,
+      "familias": 13905348,
+      "valor_pago_mes_reais_milhoes": 2481.0,
+      "beneficio_medio_reais": 178.42,
+      "programa": "Bolsa Família"
+    },
+    {
+      "periodo": "dez/2018",
+      "valor": 14.195,
+      "familias": 14195226,
+      "valor_pago_mes_reais_milhoes": 2641.6,
+      "beneficio_medio_reais": 186.09,
+      "programa": "Bolsa Família"
+    },
+    {
+      "periodo": "dez/2019",
+      "valor": 13.238,
+      "familias": 13238457,
+      "valor_pago_mes_reais_milhoes": 2525.7,
+      "beneficio_medio_reais": 190.79,
+      "programa": "Bolsa Família"
+    },
+    {
+      "periodo": "dez/2020",
+      "valor": 14.274,
+      "familias": 14274018,
+      "valor_pago_mes_reais_milhoes": 2730.7,
+      "beneficio_medio_reais": 191.31,
+      "programa": "Bolsa Família"
+    },
+    {
+      "periodo": "dez/2021",
+      "valor": 14.185,
+      "familias": 14184940,
+      "valor_pago_mes_reais_milhoes": 3191.2,
+      "beneficio_medio_reais": 224.97,
       "programa": "Auxílio Brasil",
-      "observacao": "mais de 14,5 milhões; ~R$ 400 em média"
+      "beneficio_medio_nao_comparavel": true
     },
     {
-      "periodo": "abr/2022",
-      "valor": 18.06,
+      "periodo": "dez/2022",
+      "valor": 20.975,
+      "familias": 20975152,
+      "valor_pago_mes_reais_milhoes": 7990.4,
+      "beneficio_medio_reais": 380.94,
       "programa": "Auxílio Brasil",
-      "via_snippet": true
+      "beneficio_medio_nao_comparavel": true
     },
     {
-      "periodo": "2023",
-      "valor": 21.0,
-      "programa": "novo Bolsa Família",
-      "beneficio_medio_r": 680
+      "periodo": "dez/2023",
+      "valor": 20.884,
+      "familias": 20884006,
+      "valor_pago_mes_reais_milhoes": 13671.4,
+      "beneficio_medio_reais": 654.64,
+      "programa": "novo Bolsa Família"
     },
     {
-      "periodo": "2024",
-      "valor": 20.8,
-      "programa": "novo Bolsa Família",
-      "beneficio_medio_r": 682
+      "periodo": "dez/2024",
+      "valor": 20.444,
+      "familias": 20444419,
+      "valor_pago_mes_reais_milhoes": 13950.8,
+      "beneficio_medio_reais": 682.38,
+      "programa": "novo Bolsa Família"
+    },
+    {
+      "periodo": "dez/2025",
+      "valor": 18.618,
+      "familias": 18618236,
+      "valor_pago_mes_reais_milhoes": 12612.5,
+      "beneficio_medio_reais": 677.43,
+      "programa": "novo Bolsa Família"
     },
     {
       "periodo": "out/2026",
       "valor": 19.0,
       "programa": "novo Bolsa Família",
-      "observacao": "mais de 19 milhões de lares; piso R$ 691 após reajuste de 15,04%",
-      "aproximado": true
+      "observacao": "mais de 19 milhões de lares (Gazeta do Povo); piso R$ 691 após reajuste de 15,04% (Decreto 13.120/2026)",
+      "aproximado": true,
+      "parcial": true
     }
   ],
   "faixas_referencia": [
-    {
-      "rotulo": "Benefício médio jan/2019 (R$)",
-      "valor": 187.91
-    },
-    {
-      "rotulo": "Benefício médio até mar/2020 (R$)",
-      "valor": 191.86
-    },
     {
       "rotulo": "Piso Auxílio Brasil dez/2021 (R$)",
       "valor": 400
@@ -109,16 +215,38 @@
     {
       "rotulo": "Benefício médio estimado após reajuste de out/2026 (R$)",
       "valor": 777
+    },
+    {
+      "rotulo": "Benefício médio jan/2019 (Ministério da Cidadania, via Lupa; R$)",
+      "valor": 187.91
+    },
+    {
+      "rotulo": "Benefício médio até mar/2020 (Ministério da Cidadania, via Lupa; R$)",
+      "valor": 191.86
+    },
+    {
+      "rotulo": "Benefício médio oficial ago/2026 (MDS; R$)",
+      "valor": 678.35
+    },
+    {
+      "rotulo": "Recorde mensal de famílias (mai/2020, via snippet; milhões)",
+      "valor": 14.33
+    },
+    {
+      "rotulo": "Auxílio Brasil em abr/2022 (via snippet; milhões)",
+      "valor": 18.06
     }
   ],
   "notas_metodologicas": [
-    "Vários pontos são aproximações ('pouco mais de 3 milhões', '~14 milhões') ou vieram de resumos de busca (via_snippet); não são série oficial anual.",
-    "Pente-fino 2023–2024: 3,9 mi famílias excluídas em 2023 e ~3 mi em 2024, com 4,8 mi incluídas; 2,8 mi em 'regra de proteção' em 2024.",
-    "Fontes primárias (MDS/VIS Data, gov.br) bloquearam o acesso automatizado; a página do MDS deve ser consultada antes de publicar."
+    "Rodada 2 (21/10/2026): pontos aproximados da rodada 1 ('2003: 3,0'; '2006: 11,1'; '2012–2019: ~14,0'; '2023: 21,0'; '2024: 20,8') substituídos pelos valores oficiais de dezembro (Portal da Transparência/MDS via Ipeadata). Entre 2012 e 2019 as famílias variaram de 13,24 mi (2019) a 14,20 mi (2018), sem 'estabilidade em 14 mi'. 2025 (18,62 mi) é ponto novo. Para 2003 não há dado (série começa em 2004; a rodada 1 citava 'pouco mais de 3 milhões' via Wikipedia).",
+    "Benefício médio = valor pago em dezembro / famílias (aritmética da nota). Em dez/2021 e dez/2022 a média implícita (R$ 225 e R$ 381) fica abaixo do piso legal (R$ 400 e R$ 600) porque a série registra só o Auxílio Brasil 'base', sem o benefício extraordinário; para comparar 'R$ 190 x R$ 400 x R$ 600' use os pisos legais e a média do MDS. Para 2023–2025 a média (R$ 655–682) bate com o balanço do MDS.",
+    "Queda de 2,36 milhões de famílias entre dez/2022 e dez/2025 (−11,2%), concentrada em RJ, SP, BA e PE; ver bolsa-familia-por-uf. Pente-fino 2023–2024: 3,9 mi excluídas em 2023 e ~3 mi em 2024, com 4,8 mi incluídas.",
+    "Reajuste de out/2026 (Decreto 13.120, de 17/09/2026, confirmado no texto oficial): Benefício de Renda de Cidadania R$ 164/pessoa; complementar até R$ 691/família; Primeira Infância R$ 173; Variável Familiar R$ 58; correção pelo INPC mar/2023–ago/2026. Texto: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/decreto/D13120.htm",
+    "URL do valor pago: http://www.ipeadata.gov.br/api/odata4/ValoresSerie(SERCODIGO='VAL_PBF')"
   ],
   "lacunas": [
-    "Famílias e valor médio ano a ano 2003–2021 não obtidos (dados abertos do MDS não acessados).",
-    "2007–2009, 2011 e 2025 sem ponto."
+    "Famílias em 2003 (série do Portal começa em 2004).",
+    "Total oficial de famílias em out/2026 (só 'mais de 19 milhões' via imprensa)."
   ],
   "ultimo_periodo": "out/2026",
   "temas": [

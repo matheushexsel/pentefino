@@ -1,7 +1,7 @@
 {
   "id": "ideb-ensino-medio",
   "titulo": "Ideb — ensino médio",
-  "descricao_simples": "Índice de Desenvolvimento da Educação Básica do ensino médio. Ficou quase parado entre 2011 e 2017 (3,7–3,8), subiu para 4,2 em 2019 e 4,3 em 2023, longe da meta de 5,2.",
+  "descricao_simples": "Índice de Desenvolvimento da Educação Básica do ensino médio. Ficou quase parado entre 2011 e 2017 (3,7–3,8), subiu para 4,2 em 2019, 4,3 em 2023 e 4,5 em 2025, maior valor da série, mas longe da meta de 5,2; não cumpre a meta desde 2013.",
   "unidade": "pontos (0 a 10)",
   "tipo_grafico": "linha",
   "frequencia": "anual",
@@ -51,12 +51,31 @@
     {
       "periodo": "2023",
       "valor": 4.3
+    },
+    {
+      "periodo": "2025",
+      "valor": 4.5,
+      "detalhe": {
+        "meta": 5.2,
+        "meta_atingida": false,
+        "rede_publica": 4.3,
+        "ufs_que_melhoraram": 23,
+        "nota": "DF foi a única UF com queda"
+      }
     }
   ],
   "faixas_referencia": [
     {
-      "rotulo": "Meta 2023",
+      "rotulo": "Meta 2023/2025",
       "valor": 5.2
+    },
+    {
+      "rotulo": "Paraná 2025 (líder)",
+      "valor": 5.1
+    },
+    {
+      "rotulo": "Piauí 2025",
+      "valor": 5.0
     },
     {
       "rotulo": "Paraná 2023 (líder)",
@@ -67,18 +86,76 @@
       "valor": 4.4
     }
   ],
+  "por_uf_2025": {
+    "fonte": {
+      "nome": "PEBSP — tabela Ideb/Inep 2025 por estado (05/08/2026)",
+      "url": "https://www.pebsp.com/mec-apresenta-resultados-do-ideb-2025-veja-as-notas-de-todos-os-estados/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    "nota": "fonte secundária (PEBSP/Agência Brasil); conferir nas planilhas do Inep",
+    "valores": {
+      "AC": 4.2,
+      "AL": 4.3,
+      "AM": 3.8,
+      "AP": 4.0,
+      "BA": 4.0,
+      "CE": 4.5,
+      "DF": 4.1,
+      "ES": 4.9,
+      "GO": 4.8,
+      "MA": 3.9,
+      "MG": 4.6,
+      "MS": 4.4,
+      "MT": 4.4,
+      "PA": 4.6,
+      "PB": 4.4,
+      "PE": 4.7,
+      "PI": 5.0,
+      "PR": 5.1,
+      "RJ": 4.2,
+      "RN": 4.2,
+      "RO": 4.2,
+      "RR": 3.8,
+      "RS": 4.9,
+      "SC": 4.5,
+      "SE": 4.3,
+      "SP": 4.7,
+      "TO": 4.3
+    }
+  },
   "notas_metodologicas": [
-    "Ideb = fluxo (aprovação) x desempenho (Saeb). Fonte: Inep, via compilação da Wikipédia pt e cobertura do Ideb 2023 (divulgado em 14/08/2024).",
-    "O Ideb 2025 (coleta em 2025) ainda não havia sido divulgado nas fontes localizadas pela nota; a página do Inep foi atualizada em 05/08/2026.",
-    "Responsabilidade: anos iniciais são majoritariamente redes municipais; anos finais, municipais e estaduais; ensino médio, redes estaduais. A União financia via Fundeb e define a BNCC.",
-    "Entre 2021 e 2023, 17 estados melhoraram no ensino médio; o Inep afirmou na divulgação que o ensino médio não voltou ao nível pré-pandemia (4,4 em 2019, valor que difere do 4,2 da compilação para o mesmo ano).",
+    "Ideb = fluxo (aprovação) x desempenho (Saeb). Fonte: Inep, via compilação da Wikipédia pt (2005–2023) e cobertura do Ideb 2023 (14/08/2024) e do Ideb 2025 (divulgado em 05/08/2026).",
+    "Ideb 2025: anos iniciais 6,3 (meta 6,0 superada), anos finais 5,3 (meta 5,5 não atingida), ensino médio 4,5 (meta 5,2 não atingida) — todos os maiores valores da série iniciada em 2005. Rede pública: 5,7 → 6,1; 4,7 → 5,0; 4,1 → 4,3 entre 2023 e 2025. Alunos avaliados: 14,5 mi (iniciais), 11,2 mi (finais), 7,3 mi (médio). Próximo Ideb: 2027.",
+    "O ciclo do PNE se encerrou em 2025 com 12 anos seguidos sem cumprir as metas de anos finais e ensino médio (o ensino médio não atinge a meta desde 2013).",
+    "Responsabilidade: anos iniciais são majoritariamente redes municipais; anos finais, municipais e estaduais; ensino médio, redes estaduais. A União avalia (Saeb/Inep), financia via Fundeb e define a BNCC.",
+    "Entre 2021 e 2023, 17 estados melhoraram no ensino médio; entre 2023 e 2025, 23 (DF foi a única com queda). O Inep afirmou na divulgação de 2024 que o ensino médio não havia voltado ao nível pré-pandemia (4,4 em 2019, valor que difere do 4,2 da compilação para o mesmo ano).",
+    "Maiores em 2025: PR 5,1; PI 5,0; ES e RS 4,9. Menores: AM e RR 3,8; MA 3,9.",
     "Matrículas no ensino médio caíram de 7,79 milhões (2024) para 7,37 milhões (2025), -5,4%, menor em cerca de 10 anos, por efeito demográfico (Censo Escolar 2025)."
   ],
-  "ultimo_periodo": "2023",
+  "ultimo_periodo": "2025",
   "temas": [
     "educacao"
   ],
   "fontes_adicionais": [
+    {
+      "nome": "Agência Brasil via O Povo, 05/08/2026 — Ideb 2025",
+      "url": "https://www.opovo.com.br/noticias/brasil/2026/08/05/amp/ideb-mostra-avanco-da-educacao-basica-no-pais.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Gazeta do Povo — Ideb 2025 e metas do PNE",
+      "url": "https://www.gazetadopovo.com.br/educacao/ideb-escolas-encerram-2025-sem-atingir-metas-previstas-2021/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "PEBSP — tabela Ideb/Inep 2025 por estado (05/08/2026)",
+      "url": "https://www.pebsp.com/mec-apresenta-resultados-do-ideb-2025-veja-as-notas-de-todos-os-estados/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
     {
       "nome": "Folha Vitória — Ideb 2023 e metas",
       "url": "https://www.folhavitoria.com.br/geral/brasil-fica-estagnado-na-qualidade-de-ensino-e-longe-da-maioria-das-metas/",
@@ -105,8 +182,7 @@
     }
   ],
   "lacunas": [
-    "Ideb 2025 não divulgado nas fontes da nota.",
-    "Divergência entre 4,2 e 4,4 para 2019 não resolvida na nota."
+    "Divergência entre 4,2 e 4,4 para 2019 não resolvida (precisa da planilha do Inep)."
   ],
   "atualizado_em": "2026-10-21",
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/07_saude_seguranca_educacao_infra_ambiente.md"

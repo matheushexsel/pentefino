@@ -1,0 +1,249 @@
+{
+  "id": "rating-soberano-eventos",
+  "titulo": "Mudanças de nota e perspectiva do rating soberano do Brasil",
+  "descricao_simples": "Linha do tempo das decisões das agências S&P, Fitch e Moody's sobre a nota de crédito do Brasil, de 2008 a 2025.",
+  "unidade": "evento (sem valor numérico)",
+  "tipo_grafico": "linha",
+  "frequencia": "anual",
+  "fonte": {
+    "nome": "FX Empire (agregador, 2017–2025); Estadão Verifica 18/10/2026 e imprensa (2008–2016, mês/ano)",
+    "url": "https://fxempire.com/macro/credit-ratings/brazil",
+    "acesso_em": "2026-10-21",
+    "tier": "imprensa"
+  },
+  "pontos": [
+    {
+      "periodo": "abr/2008",
+      "valor": null,
+      "agencia": "S&P",
+      "mudanca": "BB+ → BBB− (grau de investimento)",
+      "governo": "lula-1-2",
+      "fonte_ponto": "Estadão Verifica (mês); dia 30/04/2008 de memória",
+      "nao_verificado": true
+    },
+    {
+      "periodo": "mai/2008",
+      "valor": null,
+      "agencia": "Fitch",
+      "mudanca": "BB+ → BBB− (grau de investimento)",
+      "governo": "lula-1-2",
+      "fonte_ponto": "Estadão Verifica (mês); dia 29/05/2008 de memória",
+      "nao_verificado": true
+    },
+    {
+      "periodo": "set/2009",
+      "valor": null,
+      "agencia": "Moody's",
+      "mudanca": "Ba1 → Baa3 (grau de investimento)",
+      "governo": "lula-1-2",
+      "fonte_ponto": "Estadão Verifica (mês); dia 22/09/2009 de memória",
+      "nao_verificado": true
+    },
+    {
+      "periodo": "set/2015",
+      "valor": null,
+      "agencia": "S&P",
+      "mudanca": "BBB− → BB+ (perda do grau)",
+      "governo": "dilma",
+      "fonte_ponto": "imprensa (mês); dia 09/09/2015 de memória",
+      "nao_verificado": true
+    },
+    {
+      "periodo": "dez/2015",
+      "valor": null,
+      "agencia": "Fitch",
+      "mudanca": "BBB− → BB+ (perda do grau)",
+      "governo": "dilma",
+      "fonte_ponto": "imprensa (mês); dia 16/12/2015 de memória",
+      "nao_verificado": true
+    },
+    {
+      "periodo": "fev/2016",
+      "valor": null,
+      "agencia": "S&P",
+      "mudanca": "BB+ → BB",
+      "governo": "dilma",
+      "fonte_ponto": "imprensa (mês); dia 17/02/2016 de memória",
+      "nao_verificado": true
+    },
+    {
+      "periodo": "fev/2016",
+      "valor": null,
+      "agencia": "Moody's",
+      "mudanca": "Baa3 → Ba2 (perda do grau; dois degraus)",
+      "governo": "dilma",
+      "fonte_ponto": "imprensa (mês); dia 24/02/2016 de memória",
+      "nao_verificado": true
+    },
+    {
+      "periodo": "mai/2016",
+      "valor": null,
+      "agencia": "Fitch",
+      "mudanca": "BB+ → BB",
+      "governo": "dilma",
+      "fonte_ponto": "imprensa (mês); dia 05/05/2016 de memória",
+      "nao_verificado": true
+    },
+    {
+      "periodo": "15/03/2017",
+      "valor": null,
+      "agencia": "Moody's",
+      "mudanca": "Ba2 negativa → Ba2 estável",
+      "governo": "temer",
+      "fonte_ponto": "FX Empire"
+    },
+    {
+      "periodo": "22/05/2017",
+      "valor": null,
+      "agencia": "S&P",
+      "mudanca": "BB negativa → BB (CreditWatch negativo)",
+      "governo": "temer",
+      "fonte_ponto": "FX Empire"
+    },
+    {
+      "periodo": "26/05/2017",
+      "valor": null,
+      "agencia": "Moody's",
+      "mudanca": "Ba2 estável → Ba2 negativa",
+      "governo": "temer",
+      "fonte_ponto": "FX Empire"
+    },
+    {
+      "periodo": "15/08/2017",
+      "valor": null,
+      "agencia": "S&P",
+      "mudanca": "BB CreditWatch → BB negativa",
+      "governo": "temer",
+      "fonte_ponto": "FX Empire"
+    },
+    {
+      "periodo": "11/01/2018",
+      "valor": null,
+      "agencia": "S&P",
+      "mudanca": "BB → BB− estável (rebaixamento)",
+      "governo": "temer",
+      "fonte_ponto": "FX Empire"
+    },
+    {
+      "periodo": "23/02/2018",
+      "valor": null,
+      "agencia": "Fitch",
+      "mudanca": "BB → BB− estável (rebaixamento)",
+      "governo": "temer",
+      "fonte_ponto": "FX Empire"
+    },
+    {
+      "periodo": "09/04/2018",
+      "valor": null,
+      "agencia": "Moody's",
+      "mudanca": "Ba2 negativa → Ba2 estável",
+      "governo": "temer",
+      "fonte_ponto": "FX Empire"
+    },
+    {
+      "periodo": "11/12/2019",
+      "valor": null,
+      "agencia": "S&P",
+      "mudanca": "BB− estável → BB− positiva",
+      "governo": "bolsonaro",
+      "fonte_ponto": "FX Empire"
+    },
+    {
+      "periodo": "06/04/2020",
+      "valor": null,
+      "agencia": "S&P",
+      "mudanca": "BB− positiva → BB− estável",
+      "governo": "bolsonaro",
+      "fonte_ponto": "FX Empire"
+    },
+    {
+      "periodo": "05/05/2020",
+      "valor": null,
+      "agencia": "Fitch",
+      "mudanca": "BB− estável → BB− negativa",
+      "governo": "bolsonaro",
+      "fonte_ponto": "FX Empire"
+    },
+    {
+      "periodo": "15/07/2022",
+      "valor": null,
+      "agencia": "Fitch",
+      "mudanca": "BB− negativa → BB− estável",
+      "governo": "bolsonaro",
+      "fonte_ponto": "FX Empire"
+    },
+    {
+      "periodo": "14/06/2023",
+      "valor": null,
+      "agencia": "S&P",
+      "mudanca": "BB− estável → BB− positiva",
+      "governo": "lula-3",
+      "fonte_ponto": "FX Empire"
+    },
+    {
+      "periodo": "26/07/2023",
+      "valor": null,
+      "agencia": "Fitch",
+      "mudanca": "BB− → BB estável (upgrade)",
+      "governo": "lula-3",
+      "fonte_ponto": "FX Empire"
+    },
+    {
+      "periodo": "19/12/2023",
+      "valor": null,
+      "agencia": "S&P",
+      "mudanca": "BB− → BB estável (upgrade)",
+      "governo": "lula-3",
+      "fonte_ponto": "FX Empire"
+    },
+    {
+      "periodo": "01/05/2024",
+      "valor": null,
+      "agencia": "Moody's",
+      "mudanca": "Ba2 estável → Ba2 positiva",
+      "governo": "lula-3",
+      "fonte_ponto": "FX Empire"
+    },
+    {
+      "periodo": "01/10/2024",
+      "valor": null,
+      "agencia": "Moody's",
+      "mudanca": "Ba2 → Ba1 positiva (upgrade)",
+      "governo": "lula-3",
+      "fonte_ponto": "FX Empire; IFI RAF 93"
+    },
+    {
+      "periodo": "30/05/2025",
+      "valor": null,
+      "agencia": "Moody's",
+      "mudanca": "Ba1 positiva → Ba1 estável",
+      "governo": "lula-3",
+      "fonte_ponto": "FX Empire"
+    },
+    {
+      "periodo": "out/2026 (vigente)",
+      "valor": null,
+      "agencia": "S&P / Fitch / Moody's",
+      "mudanca": "BB estável / BB estável / Ba1 estável",
+      "governo": "lula-3",
+      "fonte_ponto": "FX Empire; Fitch afirmado em 16/06/2026 (Investing.com)"
+    }
+  ],
+  "faixas_referencia": [],
+  "notas_metodologicas": [
+    "Eventos de 2008–2016 têm mês e ano corroborados (Estadão Verifica: grau de investimento em 2008 por Fitch e S&P e em 2009 por Moody's), mas o dia exato é dado de memória, não confirmado em fonte primária (nao_verificado).",
+    "Páginas do Tesouro Nacional sobre classificação de risco responderam HTTP 429/404 e as agências bloquearam o acesso em 21/10/2026.",
+    "A afirmação de memória 'Moody's Baa2 em 2011' segue sem confirmação e não foi incluída."
+  ],
+  "lacunas": [
+    "Datas-dia de 2008–2016 em fonte primária (Relatório Anual da Dívida do Tesouro ou press releases das agências)."
+  ],
+  "ultimo_periodo": "out/2026 (vigente)",
+  "temas": [
+    "economia",
+    "contas-publicas"
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/01_macroeconomia_por_governo.md",
+  "atualizado_em": "2026-10-21",
+  "nao_verificado": true
+}

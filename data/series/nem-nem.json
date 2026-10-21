@@ -1,0 +1,141 @@
+{
+  "id": "nem-nem",
+  "titulo": "Jovens de 15 a 29 anos que não estudam nem trabalham",
+  "descricao_simples": "Parcela dos jovens que não estão na escola nem ocupados ('nem-nem'), em duas definições do IBGE.",
+  "unidade": "% dos jovens de 15 a 29 anos",
+  "tipo_grafico": "linha",
+  "frequencia": "anual",
+  "fonte": {
+    "nome": "IBGE, SIS 2025, Tabela 1.42 (não estuda e não está ocupado); PNADC anual SIDRA 7205 (definição mais estrita, inclui cursos)",
+    "url": "https://ftp.ibge.gov.br/Indicadores_Sociais/Sintese_de_Indicadores_Sociais/Sintese_de_Indicadores_Sociais_2025/Tabelas/xls/1_Trabalho_xls.zip",
+    "acesso_em": "2026-10-21",
+    "tier": "oficial"
+  },
+  "pontos": [
+    {
+      "periodo": "2012",
+      "valor": 21.83,
+      "sis_pct": 21.83,
+      "sis_mil_pessoas": 11218
+    },
+    {
+      "periodo": "2013",
+      "valor": 21.65,
+      "sis_pct": 21.65,
+      "sis_mil_pessoas": 11099
+    },
+    {
+      "periodo": "2014",
+      "valor": 21.75,
+      "sis_pct": 21.75,
+      "sis_mil_pessoas": 11061
+    },
+    {
+      "periodo": "2015",
+      "valor": 22.96,
+      "sis_pct": 22.96,
+      "sis_mil_pessoas": 11629
+    },
+    {
+      "periodo": "2016",
+      "valor": 24.7,
+      "sis_pct": 24.7,
+      "sis_mil_pessoas": 12451
+    },
+    {
+      "periodo": "2017",
+      "valor": 24.8,
+      "sis_pct": 24.8,
+      "sis_mil_pessoas": 12415
+    },
+    {
+      "periodo": "2018",
+      "valor": 24.71,
+      "sis_pct": 24.71,
+      "sis_mil_pessoas": 12246
+    },
+    {
+      "periodo": "2019",
+      "valor": 24.13,
+      "sis_pct": 24.13,
+      "sis_mil_pessoas": 11874,
+      "sidra_7205_pct": 22.4,
+      "sidra_7205_milhoes": 11.02
+    },
+    {
+      "periodo": "2020",
+      "valor": 27.94,
+      "sis_pct": 27.94,
+      "sis_mil_pessoas": 13645
+    },
+    {
+      "periodo": "2021",
+      "valor": 25.67,
+      "sis_pct": 25.67,
+      "sis_mil_pessoas": 12446
+    },
+    {
+      "periodo": "2022",
+      "valor": 22.19,
+      "sis_pct": 22.19,
+      "sis_mil_pessoas": 10650,
+      "sidra_7205_pct": 19.9,
+      "sidra_7205_milhoes": 9.56
+    },
+    {
+      "periodo": "2023",
+      "valor": 21.0,
+      "sis_pct": 21.0,
+      "sis_mil_pessoas": 9992,
+      "sidra_7205_pct": 19.6,
+      "sidra_7205_milhoes": 9.35
+    },
+    {
+      "periodo": "2024",
+      "valor": 19.8,
+      "sis_pct": 19.8,
+      "sis_mil_pessoas": 9301,
+      "sidra_7205_pct": 18.2,
+      "sidra_7205_milhoes": 8.57
+    },
+    {
+      "periodo": "2025",
+      "valor": null,
+      "sidra_7205_pct": 17.5,
+      "sidra_7205_milhoes": 8.16,
+      "observacao": "SIS 2025 não cobre 2025; valor da PNADC (SIDRA 7205)"
+    }
+  ],
+  "faixas_referencia": [
+    {
+      "rotulo": "Pico (2020, SIS)",
+      "valor": 27.94
+    },
+    {
+      "rotulo": "Mínimo da série SIS (2024)",
+      "valor": 19.8
+    },
+    {
+      "rotulo": "Nordeste 2024 (SIS)",
+      "valor": 27.55
+    },
+    {
+      "rotulo": "Sul 2024 (SIS)",
+      "valor": 13.34
+    }
+  ],
+  "notas_metodologicas": [
+    "As duas séries diferem por definição: a SIS conta como 'estuda' só escola; a tabela 7205 inclui pré-vestibular, técnico e qualificação (por isso é menor). Citar a fonte correta em cada caso.",
+    "SIDRA 7205 por faixa: 18–24 anos 26,9% (2019) → 20,9% (2025); 25–29 anos 24,7% → 20,2%; 15–17 anos 7,3% → 4,4%. URL: https://apisidra.ibge.gov.br/values/t/7205/n1/all/v/10313,10315/p/all/c58/all/c876/all"
+  ],
+  "lacunas": [
+    "SIS: anos 2025 em diante ainda não publicados."
+  ],
+  "ultimo_periodo": "2025",
+  "temas": [
+    "emprego-renda",
+    "educacao"
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/03_emprego_renda_pobreza_social.md",
+  "atualizado_em": "2026-10-21"
+}

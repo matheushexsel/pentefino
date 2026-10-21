@@ -1,0 +1,194 @@
+{
+  "id": "ldo-metas-primario",
+  "titulo": "Metas de resultado primário fixadas nas LDOs (2003–2014 e 2023–2026)",
+  "descricao_simples": "O que cada Lei de Diretrizes Orçamentárias prometeu de superávit ou déficit primário, com os abatimentos permitidos.",
+  "unidade": "% do PIB (2003–2010) ou R$ bilhões (2011–2014, 2023–2026); ver campos",
+  "tipo_grafico": "barra",
+  "frequencia": "anual",
+  "fonte": {
+    "nome": "Textos compilados das LDOs no Planalto (acesso 21/10/2026)",
+    "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/lei/L15321.htm",
+    "acesso_em": "2026-10-21",
+    "tier": "oficial"
+  },
+  "pontos": [
+    {
+      "periodo": "2003",
+      "valor": 4.25,
+      "meta_pct_pib": 4.25,
+      "meta_reais_bilhoes": null,
+      "lei": "Lei 10.524/2002",
+      "descricao": "3,75% do PIB, revista para 4,25% (Anexo de Metas Fiscais da LDO 2004)",
+      "abatimento": null,
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10524.htm"
+    },
+    {
+      "periodo": "2004",
+      "valor": 4.25,
+      "meta_pct_pib": 4.25,
+      "meta_reais_bilhoes": null,
+      "lei": "Lei 10.707/2003",
+      "descricao": "setor público 4,25%; governo federal R$ 55,7 bi (3,15%); governo central R$ 43,3 bi (2,45%)",
+      "abatimento": null,
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.707.htm"
+    },
+    {
+      "periodo": "2005",
+      "valor": 4.25,
+      "meta_pct_pib": 4.25,
+      "meta_reais_bilhoes": null,
+      "lei": "Lei 10.934/2004",
+      "descricao": "Anexo IV não está no HTML; 4,25% inferido dos anexos das LDOs 2004 e 2006 (3,15% governo federal; 2,45% governo central)",
+      "abatimento": null,
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.934.htm"
+    },
+    {
+      "periodo": "2006",
+      "valor": 4.25,
+      "meta_pct_pib": 4.25,
+      "meta_reais_bilhoes": null,
+      "lei": "Lei 11.178/2005",
+      "descricao": "2,45% OFSS + 0,70% PDG; abatimento PPI até R$ 3,0 bi",
+      "abatimento": "PPI até R$ 3,0 bi",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11178.htm"
+    },
+    {
+      "periodo": "2007",
+      "valor": 4.25,
+      "meta_pct_pib": 4.25,
+      "meta_reais_bilhoes": null,
+      "lei": "Lei 11.439/2006",
+      "descricao": "2,45% OFSS + 0,70% PDG; PPI até R$ 4,59 bi, ampliado para R$ 11,283 bi (Lei 11.477/2007)",
+      "abatimento": "PPI até R$ 11,283 bi",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11439.htm"
+    },
+    {
+      "periodo": "2008",
+      "valor": 3.8,
+      "meta_pct_pib": 3.8,
+      "meta_reais_bilhoes": null,
+      "lei": "Lei 11.514/2007",
+      "descricao": "2,20% OFSS + 0,65% PDG; PPI até R$ 13,825 bi",
+      "abatimento": "PPI até R$ 13,825 bi",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11514.htm"
+    },
+    {
+      "periodo": "2009",
+      "valor": 3.8,
+      "meta_pct_pib": 3.8,
+      "meta_reais_bilhoes": null,
+      "lei": "Lei 11.768/2008",
+      "descricao": "reduzida a 2,50% (1,40% OFSS + 0,20% PDG) pela Lei 12.053/2009, com abatimento do PAC até R$ 28,5 bi; Petrobras excluída do PDG",
+      "abatimento": "PAC até R$ 28,5 bi",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11768.htm"
+    },
+    {
+      "periodo": "2010",
+      "valor": 3.3,
+      "meta_pct_pib": 3.3,
+      "meta_reais_bilhoes": null,
+      "lei": "Lei 12.017/2009",
+      "descricao": "2,15% OFSS + 0,20% PDG; reduzida a 3,10% (PDG 0,0%) pela Lei 12.377/2010; abatimento do PAC elevado a R$ 29,8 bi (Lei 12.182/2009); Petrobras e Eletrobras excluídas",
+      "abatimento": "PAC até R$ 29,8 bi",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12017.htm"
+    },
+    {
+      "periodo": "2011",
+      "valor": 125.5,
+      "meta_pct_pib": null,
+      "meta_reais_bilhoes": 125.5,
+      "lei": "Lei 12.309/2010",
+      "descricao": "R$ 125,5 bi (R$ 81,76 bi OFSS + R$ 7,61 bi PDG), alterada para R$ 117,89 bi (PDG R$ 0); abatimento do PAC até R$ 32,0 bi",
+      "abatimento": "PAC até R$ 32,0 bi",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12309.htm"
+    },
+    {
+      "periodo": "2012",
+      "valor": 139.822,
+      "meta_pct_pib": null,
+      "meta_reais_bilhoes": 139.822,
+      "lei": "Lei 12.465/2011",
+      "descricao": "R$ 139,822 bi consolidado (R$ 96,973 bi OFSS); PAC até R$ 40,6 bi",
+      "abatimento": "PAC até R$ 40,6 bi",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12465.htm"
+    },
+    {
+      "periodo": "2013",
+      "valor": 155.851,
+      "meta_pct_pib": null,
+      "meta_reais_bilhoes": 155.851,
+      "lei": "Lei 12.708/2012",
+      "descricao": "R$ 155,851 bi consolidado (R$ 108,09 bi OFSS); Lei 12.901/2013: meta OFSS 'de forma a buscar obter' o consolidado; abatimento até R$ 45,2 bi, ampliado para R$ 65,2 bi (Lei 12.795/2013)",
+      "abatimento": "até R$ 65,2 bi (PAC e desonerações)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12708.htm"
+    },
+    {
+      "periodo": "2014",
+      "valor": 167.36,
+      "meta_pct_pib": null,
+      "meta_reais_bilhoes": 167.36,
+      "lei": "Lei 12.919/2013",
+      "descricao": "R$ 116,072 bi OFSS 'de forma a buscar obter' R$ 167,36 bi consolidado; abatimento até R$ 67,0 bi, trocado por 'até o montante das desonerações e do PAC' sem teto (Lei 13.053/2014)",
+      "abatimento": "sem teto numérico após Lei 13.053/2014",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12919.htm"
+    },
+    {
+      "periodo": "2023",
+      "valor": -65.906,
+      "meta_pct_pib": null,
+      "meta_reais_bilhoes": -65.906,
+      "lei": "Lei 14.436/2022",
+      "descricao": "déficit de R$ 65.905.760.000,00 para o OFSS; PDG das estatais déficit de R$ 3.002.938.355,00; precatórios (art. 100 §§ 11 e 21 da CF) fora da meta",
+      "abatimento": null,
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/L14436.htm"
+    },
+    {
+      "periodo": "2024",
+      "valor": 0.0,
+      "meta_pct_pib": null,
+      "meta_reais_bilhoes": 0.0,
+      "lei": "Lei 14.791/2023",
+      "descricao": "resultado zero para o OFSS; banda de −R$ 28,756 bi a +R$ 28,756 bi",
+      "abatimento": "banda ±R$ 28,756 bi",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/L14791.htm"
+    },
+    {
+      "periodo": "2025",
+      "valor": 0.0,
+      "meta_pct_pib": null,
+      "meta_reais_bilhoes": 0.0,
+      "lei": "Lei 15.080/2024",
+      "descricao": "resultado zero para o governo central; banda ±R$ 30,970 bi",
+      "abatimento": "banda ±R$ 30,970 bi",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/L15080.htm"
+    },
+    {
+      "periodo": "2026",
+      "valor": 34.265,
+      "meta_pct_pib": null,
+      "meta_reais_bilhoes": 34.265,
+      "lei": "Lei 15.321/2025",
+      "descricao": "superávit de R$ 34.264.603.518,00 para o governo central; limite superior R$ 68,529 bi; limite inferior R$ 0,00",
+      "abatimento": "banda de 0 a R$ 68,529 bi",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/lei/L15321.htm"
+    }
+  ],
+  "faixas_referencia": [],
+  "notas_metodologicas": [
+    "Unidade mista: até 2010 a meta era em % do PIB (setor público consolidado); de 2011 em diante, em R$ (campo meta_reais_bilhoes). O campo valor repete a meta na unidade do ano.",
+    "Leitura: 4,25% em 2003–2007; 3,80% em 2008–2009 (reduzido a 2,50% em 2009); 3,30%/3,10% em 2010; de 2011 em diante metas em reais com abatimentos crescentes do PAC (R$ 32 bi → R$ 67 bi) e das desonerações, até a Lei 13.053/2014 eliminar o teto — o que permitiu declarar 'cumprida' a meta de 2014 apesar do déficit de R$ 23,5 bi do governo central.",
+    "2015–2022: não levantadas nesta rodada (período do teto de gastos; metas das LDOs 2015–2022 não constam na nota).",
+    "Metas revisadas de 2025–2027 em % do PIB (rodada 1): 2025 zero ±0,25 p.p.; 2026 +0,25% (R$ 34,3 bi); 2027 +0,5% (R$ 73,2 bi)."
+  ],
+  "lacunas": [
+    "LDOs 2015–2022 não levantadas.",
+    "LDO 2005: Anexo IV não está no HTML do Planalto (meta inferida).",
+    "LDO 2026: Anexo IV.1 (metas 2027–2028) é PDF de imagem, não lido."
+  ],
+  "ultimo_periodo": "2026",
+  "temas": [
+    "contas-publicas"
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/02_contas_publicas_divida.md",
+  "atualizado_em": "2026-10-21"
+}
