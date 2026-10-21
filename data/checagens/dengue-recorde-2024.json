@@ -1,0 +1,199 @@
+{
+  "id": "chk-5007",
+  "slug": "dengue-recorde-2024",
+  "frase": "Em 2024 o Brasil teve o pior ano de dengue da história, com mais de 6 mil mortes.",
+  "frase_normalizada": "em 2024 o brasil teve o pior ano de dengue da história, com mais de 6 mil mortes.",
+  "variantes": [
+    "A dengue matou mais em 2024 do que nos sete anos anteriores somados",
+    "O governo Lula deixou a dengue explodir"
+  ],
+  "autor": {
+    "nome": "Afirmação recorrente no debate eleitoral (sem autor único identificado na nota)",
+    "partido": null,
+    "cargo": null,
+    "nao_verificado": true
+  },
+  "lado": "oposicao-flavio-pl",
+  "alvo": {
+    "nome": "Governo Lula 3 (2023–)",
+    "partido": "PT"
+  },
+  "data": null,
+  "onde": null,
+  "url_declaracao": null,
+  "temas": [
+    "saude"
+  ],
+  "tags": [
+    "dengue",
+    "arboviroses",
+    "2024",
+    "lula-3"
+  ],
+  "veredito": "verdadeiro",
+  "resumo_uma_frase": "2024 foi o pior ano da série histórica iniciada em 2000: 6.022 mortes e 6,6 milhões de registros até 28/12/2024, mais que a soma de 2017–2023; o controle do mosquito é municipal e a vacina e os repasses são federais.",
+  "explicacao_simples": [
+    "Até 28/12/2024 o Brasil registrou 6,6 milhões de notificações e 6.022 mortes por dengue, superando a soma dos sete anos anteriores, segundo o painel do Ministério da Saúde reproduzido pela imprensa.",
+    "Já em março de 2024 o país passou de 2 milhões de casos (recorde da série) e em abril as mortes das 13 primeiras semanas superaram todo o ano de 2023.",
+    "O controle do mosquito é feito pelos municípios (agentes de endemias) com apoio dos estados; a vacina Qdenga e os R$ 1,5 bi de repasses emergenciais são federais, e a epidemia coincidiu com El Niño e expansão do sorotipo 3."
+  ],
+  "explicacao_completa_md": "## Os números de 2024\n\n- Até 28/12/2024: 6,6 milhões de registros, 652.053 casos prováveis adicionais e 6.022 mortes — mais que a soma de 2017–2023 (imprensa citando o painel do MS).\n- Mar/2024: mais de 2 milhões de casos, recorde da série iniciada em 2000.\n- Abr/2024: 1.116 óbitos em 13 semanas superaram o total de 2023 (1.079–1.094, conforme a fonte).\n- Jun/2024: mais de 6 milhões de casos prováveis; mortes de 1.179 (2023) para 4.019 (2024) à época; o MS afirmava queda por 15 semanas após o pico de março.\n\n## Quem responde\n\n- Municípios: controle vetorial (agentes de endemias), vigilância local, atenção básica.\n- Estados: apoio ao controle vetorial, leitos e regulação.\n- União: vacina (Qdenga), repasses emergenciais (R$ 1,5 bi em 2024), coordenação nacional.\n- Fatores externos: El Niño (calor e chuvas) e expansão do sorotipo 3.\n\n## Veredito\n\nVerdadeiro. Atribuir a epidemia exclusivamente ao governo federal, porém, ignora que o controle do mosquito é municipal e que o clima pesou.",
+  "o_que_e_verdade": [
+    "6.022 mortes e 6,6 milhões de registros em 2024, pior ano da série histórica.",
+    "Mortes de 2024 superaram a soma dos sete anos anteriores.",
+    "Recorde de casos já em março de 2024."
+  ],
+  "o_que_nao_se_sustenta": [
+    "Responsabilizar só o governo federal: controle do mosquito é municipal, com apoio estadual.",
+    "Ignorar o clima: a epidemia coincidiu com El Niño e a expansão do sorotipo 3."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Prefeituras",
+      "papel": "Controle do mosquito (agentes de endemias) e atenção básica",
+      "peso": "alto"
+    },
+    {
+      "ator": "Governo federal (Lula 3)",
+      "papel": "Vacina Qdenga, repasses emergenciais (R$ 1,5 bi), coordenação",
+      "peso": "medio"
+    },
+    {
+      "ator": "Governos estaduais",
+      "papel": "Apoio ao controle vetorial e rede hospitalar",
+      "peso": "medio"
+    },
+    {
+      "ator": "Clima (El Niño) e sorotipo 3",
+      "papel": "Condições favoráveis à epidemia",
+      "peso": "medio"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Mortes por dengue",
+      "valor": 6022,
+      "unidade": "óbitos",
+      "periodo": "2024 (até 28/12)",
+      "fonte": {
+        "nome": "Revista Oeste (painel do MS) — dengue 2024",
+        "url": "https://www.revistaoeste.com/saude/recorde-brasil-tem-66-milhoes-de-casos-de-dengue-em-2024-e-mais-de-6-mil-mortes/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "2023 (jun/2024)",
+        "valor": 1179
+      }
+    },
+    {
+      "rotulo": "Registros de dengue",
+      "valor": 6600000,
+      "unidade": "notificações",
+      "periodo": "2024",
+      "fonte": {
+        "nome": "Revista Oeste (painel do MS) — dengue 2024",
+        "url": "https://www.revistaoeste.com/saude/recorde-brasil-tem-66-milhoes-de-casos-de-dengue-em-2024-e-mais-de-6-mil-mortes/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Casos prováveis adicionais",
+      "valor": 652053,
+      "unidade": "casos",
+      "periodo": "2024",
+      "fonte": {
+        "nome": "Revista Oeste (painel do MS) — dengue 2024",
+        "url": "https://www.revistaoeste.com/saude/recorde-brasil-tem-66-milhoes-de-casos-de-dengue-em-2024-e-mais-de-6-mil-mortes/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Mortes nas 13 primeiras semanas de 2024",
+      "valor": 1116,
+      "unidade": "óbitos",
+      "periodo": "abr/2024",
+      "fonte": {
+        "nome": "NSC Total — óbitos por dengue (abr/2024)",
+        "url": "https://www.nsctotal.com.br/?p=7131397",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "total de 2023 (máx.)",
+        "valor": 1094
+      }
+    },
+    {
+      "rotulo": "Repasses emergenciais a estados e municípios",
+      "valor": 1.5,
+      "unidade": "R$ bilhões",
+      "periodo": "2024",
+      "fonte": {
+        "nome": "Agência Brasil/Radioagência — recorde de dengue (jun/2024)",
+        "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/saude/audio/2024-06/brasil-bate-recorde-de-casos-de-dengue-e-numero-de-mortes-pela-doenca",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    }
+  ],
+  "series": [
+    "dengue-casos-mortes"
+  ],
+  "checagens_externas": [],
+  "fontes": [
+    {
+      "nome": "Revista Oeste (painel do MS) — dengue 2024",
+      "url": "https://www.revistaoeste.com/saude/recorde-brasil-tem-66-milhoes-de-casos-de-dengue-em-2024-e-mais-de-6-mil-mortes/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "RR/Lusa — Brasil supera 2 milhões de casos de dengue (mar/2024)",
+      "url": "https://rr.pt/noticia/mundo/2024/03/22/brasil-supera-dois-milhoes-de-casos-de-dengue-e-bate-recorde-historico/371831/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "NSC Total — óbitos por dengue (abr/2024)",
+      "url": "https://www.nsctotal.com.br/?p=7131397",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Agência Brasil/Radioagência — recorde de dengue (jun/2024)",
+      "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/saude/audio/2024-06/brasil-bate-recorde-de-casos-de-dengue-e-numero-de-mortes-pela-doenca",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Poder360 — Brasil ultrapassa 5.000 mortes por dengue",
+      "url": "https://www.poder360.com.br/poder-saude/brasil-ultrapassa-marca-de-5-000-mortes-por-dengue/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/07_saude_seguranca_educacao_infra_ambiente.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "E 2025?",
+      "resposta": "A nota não acessou o painel oficial de arboviroses nem números fechados de 2025 ou doses da Qdenga aplicadas."
+    }
+  ],
+  "relacionadas": [
+    "vacinacao-caiu-no-governo-bolsonaro"
+  ],
+  "lacunas": [
+    "Painel oficial de arboviroses não acessado; números de 2025 e doses da Qdenga não localizados; o número de mortes de 2023 varia conforme a data (1.079 a 1.179)."
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false
+}

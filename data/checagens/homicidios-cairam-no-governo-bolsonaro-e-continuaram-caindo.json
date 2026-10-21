@@ -1,0 +1,223 @@
+{
+  "id": "chk-5001",
+  "slug": "homicidios-cairam-no-governo-bolsonaro-e-continuaram-caindo",
+  "frase": "Os homicídios caíram no governo Bolsonaro e continuaram caindo no governo Lula.",
+  "frase_normalizada": "os homicídios caíram no governo bolsonaro e continuaram caindo no governo lula.",
+  "variantes": [
+    "A violência caiu com Bolsonaro",
+    "Os homicídios estão no menor nível da história",
+    "Bolsonaro reduziu os homicídios e Lula só colheu"
+  ],
+  "autor": {
+    "nome": "Afirmação recorrente no debate eleitoral (sem autor único identificado na nota)",
+    "partido": null,
+    "cargo": null,
+    "nao_verificado": true
+  },
+  "lado": "ambos",
+  "alvo": {
+    "nome": "Governos Bolsonaro e Lula 3",
+    "partido": "PL / PT"
+  },
+  "data": null,
+  "onde": null,
+  "url_declaracao": null,
+  "temas": [
+    "seguranca"
+  ],
+  "tags": [
+    "homicidios",
+    "mvi",
+    "fbsp",
+    "bolsonaro",
+    "lula-3"
+  ],
+  "veredito": "verdadeiro-mas",
+  "resumo_uma_frase": "Os números confirmam a queda nos dois governos, mas ela começou em 2018, no governo Temer, e a execução da segurança é estadual.",
+  "explicacao_simples": [
+    "As mortes violentas intencionais caíram de 64.079 (2017) para 47.963 ao fim do governo Bolsonaro (2022) e para 40.775 em 2025, no governo Lula 3, menor valor da série.",
+    "A queda começou em 2018 (57.592), ainda no governo Temer, e teve um repique em 2020; portanto nenhum dos dois presidentes iniciou a tendência.",
+    "Polícias e presídios são estaduais, e especialistas atribuem a queda a envelhecimento populacional e políticas estaduais, não a um presidente."
+  ],
+  "explicacao_completa_md": "## O que dizem os dados\n\nSérie de mortes violentas intencionais (MVI) do Fórum Brasileiro de Segurança Pública (Anuário 2026, Tabela 02):\n\n| Ano | MVI | Taxa/100 mil | Governo |\n|---|---|---|---|\n| 2016 | 61.600 | 30,2 | Dilma |\n| 2017 | 64.079 | 31,2 | Temer (pico) |\n| 2018 | 57.592 | 27,9 | Temer |\n| 2019 | 47.765 | 23,0 | Bolsonaro |\n| 2020 | 50.448 | 24,1 | Bolsonaro |\n| 2021 | 48.286 | 23,0 | Bolsonaro |\n| 2022 | 47.963 | 22,7 | Bolsonaro |\n| 2023 | 46.441 | 21,9 | Lula 3 |\n| 2024 | 44.220 | 20,8 | Lula 3 |\n| 2025 | 40.775 | 19,1 | Lula 3 |\n\nA taxa de 2025 (19,1) é a menor desde 2012. O Atlas da Violência 2025 (IPEA/FBSP, dados do SIM/DATASUS) mostra a mesma trajetória: pico de 65.602 homicídios em 2017 (31,8) e 45.747 em 2023 (21,2, menor em 31 anos).\n\n## Por que a frase precisa de contexto\n\n- **A queda começou antes de Bolsonaro.** O pico foi 2017 e 2018 já teve queda de 64.079 para 57.592, no governo Temer.\n- **Houve repique em 2020** (50.448), em plena pandemia.\n- **A segurança é executada pelos estados.** Polícias Militar e Civil respondem aos governadores; os estados fazem 80% do gasto com segurança (R$ 131,3 bi em 2025) contra 11% da União.\n- **Explicações dos especialistas.** Daniel Cerqueira (IPEA) cita envelhecimento populacional, uma \"revolução invisível\" nas políticas estaduais (planejamento, dados, inteligência) e programas de prevenção para jovens. Ele também observa que mais armas em circulação tendem a elevar homicídios — o que vai contra a tese de que os decretos de armas do governo Bolsonaro explicariam a queda.\n- **Nem tudo caiu.** A letalidade policial bateu recorde em 2025 (6.602 mortes, 16,2% das MVI) e os feminicídios também (1.571).\n\n## Veredito\n\nVerdadeiro, mas incompleto: a queda atravessa três governos (Temer, Bolsonaro, Lula 3), depende sobretudo de políticas estaduais e de fatores demográficos, e não autoriza crédito exclusivo a nenhum presidente.",
+  "o_que_e_verdade": [
+    "As MVI caíram de 57.592 (2018) para 47.963 (2022) durante o governo Bolsonaro, com repique em 2020.",
+    "Continuaram caindo no governo Lula 3: 46.441 (2023), 44.220 (2024) e 40.775 (2025), -8,2% no último ano.",
+    "A taxa de 19,1 por 100 mil em 2025 é a menor da série iniciada em 2012."
+  ],
+  "o_que_nao_se_sustenta": [
+    "Que a queda tenha começado com Bolsonaro: o pico foi em 2017 e a queda começou em 2018 (governo Temer).",
+    "Que o presidente seja o principal responsável: polícias e presídios são estaduais; a União responde por 11% do gasto.",
+    "Que a flexibilização de armas explique a queda: o IPEA aponta que mais armas tendem a elevar homicídios."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Governos estaduais",
+      "papel": "Comandam as polícias e os presídios; 80% do gasto com segurança",
+      "peso": "alto"
+    },
+    {
+      "ator": "Dinâmica demográfica (envelhecimento)",
+      "papel": "Reduz a população jovem, mais exposta à violência letal",
+      "peso": "medio"
+    },
+    {
+      "ator": "Governo federal (Bolsonaro e Lula 3)",
+      "papel": "PF, PRF, fundos, legislação penal e política de armas",
+      "peso": "baixo"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "MVI no pico",
+      "valor": 64079,
+      "unidade": "mortes",
+      "periodo": "2017",
+      "fonte": {
+        "nome": "Anuário Brasileiro de Segurança Pública 2026 (FBSP)",
+        "url": "https://static.poder360.com.br/uploads/2026/07/anuario-seguranca-publica-23jul26.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      "comparacao": {
+        "rotulo": "taxa por 100 mil",
+        "valor": 31.2
+      }
+    },
+    {
+      "rotulo": "MVI no primeiro ano de Bolsonaro",
+      "valor": 47765,
+      "unidade": "mortes",
+      "periodo": "2019",
+      "fonte": {
+        "nome": "Anuário Brasileiro de Segurança Pública 2026 (FBSP)",
+        "url": "https://static.poder360.com.br/uploads/2026/07/anuario-seguranca-publica-23jul26.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      "comparacao": {
+        "rotulo": "2018",
+        "valor": 57592
+      }
+    },
+    {
+      "rotulo": "MVI no último ano de Bolsonaro",
+      "valor": 47963,
+      "unidade": "mortes",
+      "periodo": "2022",
+      "fonte": {
+        "nome": "Anuário Brasileiro de Segurança Pública 2026 (FBSP)",
+        "url": "https://static.poder360.com.br/uploads/2026/07/anuario-seguranca-publica-23jul26.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      "comparacao": {
+        "rotulo": "taxa",
+        "valor": 22.7
+      }
+    },
+    {
+      "rotulo": "MVI em 2025",
+      "valor": 40775,
+      "unidade": "mortes",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Anuário Brasileiro de Segurança Pública 2026 (FBSP)",
+        "url": "https://static.poder360.com.br/uploads/2026/07/anuario-seguranca-publica-23jul26.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      "comparacao": {
+        "rotulo": "taxa (menor desde 2012)",
+        "valor": 19.1
+      }
+    },
+    {
+      "rotulo": "Variação 2025 vs 2024",
+      "valor": -8.2,
+      "unidade": "%",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Agência Brasil via Diário de Pernambuco (Anuário 2026)",
+        "url": "https://diariodepernambuco.com.br/brasil/2026/07/11719408-mortes-violentas-caem-82-no-pais-em-2025-feminicidios-aumentam-4.html",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Gasto dos estados com segurança",
+      "valor": 131.3,
+      "unidade": "R$ bilhões",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Anuário Brasileiro de Segurança Pública 2026 (FBSP)",
+        "url": "https://static.poder360.com.br/uploads/2026/07/anuario-seguranca-publica-23jul26.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      "comparacao": {
+        "rotulo": "União",
+        "valor": 18.1
+      }
+    }
+  ],
+  "series": [
+    "mortes-violentas-intencionais",
+    "taxa-homicidios-100-mil",
+    "gasto-seguranca-por-nivel-de-governo"
+  ],
+  "checagens_externas": [],
+  "fontes": [
+    {
+      "nome": "Anuário Brasileiro de Segurança Pública 2026 (FBSP)",
+      "url": "https://static.poder360.com.br/uploads/2026/07/anuario-seguranca-publica-23jul26.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    },
+    {
+      "nome": "Agência Brasil via Diário de Pernambuco (Anuário 2026)",
+      "url": "https://diariodepernambuco.com.br/brasil/2026/07/11719408-mortes-violentas-caem-82-no-pais-em-2025-feminicidios-aumentam-4.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Agência Brasil — Atlas da Violência 2025 (IPEA/FBSP)",
+      "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2025-05/taxa-de-homicidio-cai-mas-violencia-matou-457-mil-no-brasil-em-2023",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Brasil 61 (Anuário 2025)",
+      "url": "https://brasil61.com/n/as-cidades-e-os-estados-mais-violentos-do-brasil-bras2514391",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/07_saude_seguranca_educacao_infra_ambiente.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "Qual fonte é a oficial?",
+      "resposta": "Não há uma única. O FBSP compila registros policiais (MVI); o Atlas da Violência usa os óbitos do SIM/DATASUS. As duas mostram pico em 2017 e queda desde 2018."
+    },
+    {
+      "pergunta": "Todos os estados melhoraram em 2025?",
+      "resposta": "Não. Sete UFs tiveram alta: RN (+19,6%), RO (+7,5%), AC (+6,3%), RR (+5,8%), DF (+5,8%), MS (+4,9%) e RJ (+2,1%); em RO e RJ a alta foi puxada por mortes por policiais."
+    }
+  ],
+  "relacionadas": [
+    "homicidios-cairam-com-bolsonaro",
+    "violencia-explodiu-no-governo-lula",
+    "brasil-tem-mais-armas-depois-dos-decretos"
+  ],
+  "lacunas": [
+    "Série 2003–2011 não acessada na nota; fonte sobre 'pacificação entre facções' após 2017–2018 não localizada."
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false
+}
