@@ -5,9 +5,9 @@
   "governo": "lula-3",
   "lado": "governo-lula-pt",
   "norma": {
-    "nome": "Lei 14.663/2023 (retoma a regra INPC + PIB de dois anos antes); Lei 15.077/2024 (arcabouço: ganho real limitado a 0,6%-2,5% até 2030); Decreto 12.797/2025 (SM 2026 = R$ 1.621; DOU 24/12/2025)",
-    "data": "2025-12-24",
-    "url": "https://www.dieese.org.br/notatecnica/2025/notaTec289salarioMinimo.pdf",
+    "nome": "Lei 14.663, de 2023 (DOU 28/08/2023, edição extra; retoma a regra INPC + PIB de dois anos antes e isenta 2 SM no IR); Lei 15.077/2024 (arcabouço: ganho real limitado a 0,6%-2,5% até 2030); Decreto 12.797, de 23/12/2025 (DOU 24/12/2025): SM 2026 = R$ 1.621,00 (R$ 54,04/dia; R$ 7,37/hora)",
+    "data": "2025-12-23",
+    "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/decreto/D12797.htm",
     "vigencia": "Regra em vigor desde 2023; teto de ganho real até 2030"
   },
   "status": "em-vigor",
@@ -17,7 +17,8 @@
     "Valores: jan/2023 R$ 1.302 (+7,43%; +1,41% real) e mai/2023 R$ 1.320; 2024 R$ 1.412; 2025 R$ 1.518 (+7,5%); 2026 R$ 1.621 (+6,79%, +R$ 103). Ganho real em 2024: +4,69% (DIEESE NT 283) ou +5,64% (DIEESE NT 289) — as duas notas do DIEESE trazem números diferentes.",
     "Ganho real acumulado: de R$ 200 (abr/2002) a R$ 1.621 (jan/2026) o reajuste nominal foi de 710,5% contra INPC de 306,7%, ganho real de ≈100%; até 2025 (NT 283): nominal 659%, INPC 289,9%, real 94,7%. Maiores ganhos reais: 2006 (13,04%), 2005 (8,23%), 2012 (7,59%).",
     "Poder de compra: o mínimo comprava 1,75 cesta básica de SP em 2025 e 1,93 em jan/2026 (maior desde 2019, quando era 2,04); mínimo recente de 1,59 em 2022. Cesta de SP em nov/2025: R$ 841,23; salário mínimo necessário (DIEESE, nov/2025): R$ 7.067,18.",
-    "Incremento de renda na economia com o reajuste de 2026: R$ 81,7 bilhões (R$ 93,7 bi pela regra antiga). O programa de Lula para 2026 promete manter a valorização real; Flávio Bolsonaro disse que não pretende acabar com a vinculação do mínimo à inflação."
+    "Incremento de renda na economia com o reajuste de 2026: R$ 81,7 bilhões (R$ 93,7 bi pela regra antiga). O programa de Lula para 2026 promete manter a valorização real; Flávio Bolsonaro disse que não pretende acabar com a vinculação do mínimo à inflação.",
+    "Poder de compra em outras medidas: o salário mínimo necessário do DIEESE (família de 4, cesta mais cara) foi de R$ 7.750,01 em set/2026 = 4,78 vezes o mínimo (dez/2022: R$ 6.647,63 = 5,49 vezes, pior razão recente; dez/2025: 4,68; jan/2026: 4,43). Em dólar corrente, o mínimo de 2026 (US$ 315, câmbio médio jan-set) ainda está abaixo do pico de 2011 (US$ 325); em US$ PPC (US$ 635,4 em set/2026) é o maior da série. O PLOA 2027 prevê mínimo de R$ 1.741 (+R$ 120), segundo o Comprova."
   ],
   "quem_ganha": {
     "descricao": "61,941 milhões de pessoas com renda referenciada no mínimo (DIEESE, dez/2025): 29,273 mi beneficiários do INSS, 17,671 mi empregados, 10,751 mi conta-própria, 3,863 mi trabalhadores domésticos e 383 mil empregadores; 70,8% dos beneficiários da Previdência recebem até 1 SM. Grupo concentrado nos décimos 2 a 6 da renda domiciliar per capita (inferência da nota).",
@@ -62,7 +63,8 @@
         "2023_mai": 1320,
         "2024": 1412,
         "2025": 1518,
-        "2026": 1621
+        "2026": 1621,
+        "2027_ploa": 1741
       },
       "reajuste_2026": {
         "nominal_pct": 6.79,
@@ -75,7 +77,8 @@
       "regra": "SM(t) = SM(t-1) × (1 + INPC(t-1)) × (1 + min(max(PIB(t-2), 0,6%), 2,5%)) — forma da regra conforme DIEESE; a redação legal exata não consta das notas",
       "custo_previdencia_por_real_de_aumento": 380500000,
       "fonte_formula": "DIEESE NT 289",
-      "fonte_formula_url": "https://www.dieese.org.br/notatecnica/2025/notaTec289salarioMinimo.pdf"
+      "fonte_formula_url": "https://www.dieese.org.br/notatecnica/2025/notaTec289salarioMinimo.pdf",
+      "fonte_formula_url_decreto_2026": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/decreto/D12797.htm"
     }
   },
   "mitos": [
@@ -99,7 +102,7 @@
     },
     {
       "mito": "Lula (ou Flávio) prometeu salário mínimo de R$ 3 mil.",
-      "fato": "Comprova verificou que os vídeos atribuindo a promessa a Lula e a Flávio foram feitos com inteligência artificial e são falsos.",
+      "fato": "Comprova verificou (Flávio: 02/09/2026; Lula: 18/09/2026) que os vídeos atribuindo a promessa aos dois candidatos foram feitos com inteligência artificial e são falsos. O PLOA 2027 prevê mínimo de R$ 1.741.",
       "fontes": [
         {
           "nome": "Comprova — não é verdade que Lula tenha proposta de salário mínimo de R$ 3 mil (vídeos com IA)",
@@ -200,6 +203,42 @@
       "url": "https://static.congressoemfoco.com.br/2026/08/08/attachment/2026/08/08/32ce89_programa_governo_lula_2026.pdf",
       "acesso_em": "2026-10-21",
       "tier": "partidario"
+    },
+    {
+      "nome": "Planalto — Decreto 12.797/2025 (salário mínimo 2026)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/decreto/D12797.htm",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Planalto — Lei 14.663/2023 (salário mínimo e isenção de 2 SM)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/L14663.htm",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "DIEESE — Pesquisa Nacional da Cesta Básica de Alimentos, setembro/2026 (PDF, 09/10/2026)",
+      "url": "https://www.dieese.org.br/analisecestabasica/2026/202609cestabasica.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    },
+    {
+      "nome": "DIEESE — Salário mínimo nominal e necessário (série mensal)",
+      "url": "https://www.dieese.org.br/analisecestabasica/salarioMinimo.html",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    },
+    {
+      "nome": "Ipeadata — GAC12_SALMINDOL12: salário mínimo em US$ PPC",
+      "url": "http://www.ipeadata.gov.br/api/odata4/ValoresSerie(SERCODIGO='GAC12_SALMINDOL12')",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Ipeadata — GAC12_SALMINRE12: salário mínimo real",
+      "url": "http://www.ipeadata.gov.br/api/odata4/ValoresSerie(SERCODIGO='GAC12_SALMINRE12')",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/13_renda_por_faixa_e_simulacoes_de_impacto.md",
@@ -209,8 +248,7 @@
   "lacunas": [
     "Ganho real de 2024 diverge entre notas do DIEESE (+4,69% na NT 283; +5,64% na NT 289).",
     "Ganho real acumulado oficial 2023-2026 em um só número não localizado (soma aproximada da nota: ≈12-13%).",
-    "Número do decreto do SM 2026 (12.797/2025) vem de fontes secundárias convergentes, não do texto do decreto.",
-    "URLs oficiais das Leis 14.663/2023 e 15.077/2024 não constam das notas."
+    "URL oficial da Lei 15.077/2024 (arcabouço) não consta das notas; a da Lei 14.663/2023 e a do Decreto 12.797/2025 foram confirmadas no Planalto."
   ],
   "atualizado_em": "2026-10-21"
 }

@@ -5,17 +5,17 @@
   "governo": "lula-3",
   "lado": "governo-lula-pt",
   "norma": {
-    "nome": "Emenda Constitucional 132/2023; Lei Complementar 214/2025 (regulamentação; DOU edição extra de 16/01/2025, com vetos); Lei Complementar 227/2026 (Comitê Gestor do IBS e ITCMD progressivo; 14/01/2026)",
-    "data": "2025-01-16",
-    "url": "https://www.conjur.com.br/2025-jan-16/presidente-sanciona-texto-da-regulamentacao-da-reforma-tributaria//?print=1",
-    "vigencia": "Transição de 2026 a 2033 (ICMS e ISS extintos até 2032); cesta básica totalmente livre só em 2033; Imposto Seletivo a partir de 2027"
+    "nome": "Emenda Constitucional 132, de 20/12/2023 (DOU 21/12/2023); Lei Complementar 214, de 16/01/2025 (DOU edição extra de 16/01/2025, republicada em 23/01/2025, com vetos); Lei Complementar 227, de 13/01/2026 (DOU 14/01/2026, republicada em 15/01/2026)",
+    "data": "2023-12-20",
+    "url": "https://www.planalto.gov.br/ccivil_03/constituicao/Emendas/Emc/emc132.htm",
+    "vigencia": "Transição (ADCT, arts. 125-128 da EC 132): 2026 — IBS a 0,1% e CBS a 0,9% (compensáveis com PIS/Cofins); 2027 — cobram-se CBS e Imposto Seletivo, extinguem-se PIS/Cofins e o IPI tem alíquotas zeradas (exceto Zona Franca); 2027-2028 — IBS a 0,05% estadual + 0,05% municipal; 2029-2032 — ICMS/ISS reduzidos a 9/10, 8/10, 7/10 e 6/10; extinção de ICMS/ISS a partir de 2033."
   },
   "status": "em-vigor",
   "o_que_faz_simples": [
     "Substitui cinco tributos sobre consumo — PIS, Cofins e IPI (federais), ICMS (estadual) e ISS (municipal) — por dois: a CBS (federal) e o IBS (estados e municípios), com transição de 2026 a 2033.",
     "Cesta básica nacional: 26 itens (arroz, feijão, leite, carnes, café, açúcar, pão francês, massas etc.) com IBS/CBS zerados, mais hortifrúti e ovos. O ICMS continua até 2032 (com reduções a partir de 2029), então a cesta só fica totalmente livre em 2033. A lei não obriga repasse a preços.",
-    "Cashback: famílias do Cadastro Único com renda até meio salário mínimo por pessoa recebem de volta 100% da CBS em energia, água, gás e telefone e 20% da CBS nas demais compras (detalhamento de fonte única; percentuais a verificar no texto legal). Bernard Appy: as exceções criadas pelo Congresso reduziram o espaço do cashback.",
-    "Cria o Imposto Seletivo (ver medida própria), autoriza IPVA sobre jatos e iates (ver medida própria) e permite ITCMD progressivo sobre heranças (regulado pela LC 227/2026).",
+    "Cashback (LC 214, arts. 112, 113 e 118): devolução da CBS pela União e do IBS por estados/municípios ao responsável por família inscrita no Cadastro Único com renda mensal per capita de até meio salário mínimo, residente no país e com CPF regular, incluída automaticamente. Percentuais: 100% da CBS e 20% do IBS no botijão de GLP até 13 kg, energia elétrica residencial, água, esgoto, gás canalizado e telecomunicações; 20% da CBS e do IBS nas demais compras. Bernard Appy: as exceções criadas pelo Congresso reduziram o espaço do cashback.",
+    "Cria o Imposto Seletivo (LC 214, art. 409; ver medida própria), autoriza IPVA sobre veículos 'terrestres, aquáticos e aéreos' (art. 155, III da Constituição; ver medida própria) e torna o ITCMD 'progressivo em razão do valor do quinhão, do legado ou da doação' (EC 132, art. 155, § 1º, VI, regulado pela LC 227/2026).",
     "Prevê avaliação quinquenal obrigatória dos regimes especiais, da redução de desigualdade e da sustentabilidade da alíquota.",
     "Alíquotas de referência do IBS/CBS e do Imposto Seletivo ainda não estavam fixadas em out/2026. O plano de Flávio Bolsonaro propõe revisar a reforma para reduzir o IVA, que o próprio plano estima em ~30% (contra 19% de média da OCDE), cortar exceções setoriais e eliminar o split payment; na pré-campanha, Flávio disse que suspenderia a entrada em vigor por pelo menos um ano."
   ],
@@ -78,8 +78,14 @@
     },
     {
       "mito": "A cesta básica já está isenta de impostos em 2026.",
-      "fato": "Os 26 itens da cesta têm IBS/CBS zerados, mas o ICMS estadual continua até 2032 (com reduções a partir de 2029); a cesta só fica totalmente livre em 2033. A lei não obriga que a redução seja repassada aos preços.",
+      "fato": "Os 26 itens da cesta têm IBS/CBS zerados, mas o ICMS estadual continua até 2032 (reduzido a 9/10, 8/10, 7/10 e 6/10 entre 2029 e 2032, pelo ADCT); a cesta só fica totalmente livre em 2033. A lei não obriga que a redução seja repassada aos preços.",
       "fontes": [
+        {
+          "nome": "Planalto — Emenda Constitucional 132/2023",
+          "url": "https://www.planalto.gov.br/ccivil_03/constituicao/Emendas/Emc/emc132.htm",
+          "acesso_em": "2026-10-21",
+          "tier": "oficial"
+        },
         {
           "nome": "Valor Final — guia: cesta básica e cashback na reforma tributária",
           "url": "https://valorfinal.com.br/guia/reforma-tributaria-cesta-basica-e-cashback",
@@ -197,15 +203,30 @@
       "url": "https://static.poder360.com.br/uploads/2026/08/Programa-Governo-LULA-2026.pdf",
       "acesso_em": "2026-10-21",
       "tier": "partidario"
+    },
+    {
+      "nome": "Planalto — Emenda Constitucional 132/2023",
+      "url": "https://www.planalto.gov.br/ccivil_03/constituicao/Emendas/Emc/emc132.htm",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Planalto — Lei Complementar 214/2025",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp214.htm",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Planalto — Lei Complementar 227/2026",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp227.htm",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/12_pix_fake_news_e_impostos_quem_paga.md",
   "lacunas": [
     "Estudo oficial por decil (Ipea/Fipe/Fazenda) com o efeito líquido da reforma após as exceções do Congresso não localizado; só a estatística agregada de Orair (27% vs 10%).",
-    "Artigos exatos do cashback (percentuais 100%/20%) e do ITCMD sobre bens no exterior não verificados no texto legal (fonte única).",
-    "Calendário detalhado 2026-2033 (alíquotas-teste de CBS/IBS em 2026 etc.) não apareceu nas fontes.",
-    "Data de promulgação da EC 132/2023 não consta das notas.",
-    "URLs oficiais (Planalto) da EC 132, LC 214 e LC 227 não constam das notas."
+    "Alíquota de referência do IBS/CBS e alíquotas do Imposto Seletivo não fixadas em out/2026 (sem projeto do Executivo protocolado)."
   ],
   "atualizado_em": "2026-10-21"
 }

@@ -1,20 +1,20 @@
 {
   "id": "taxa-das-blusinhas-lei-14902-2024-e-fim-2026",
-  "nome": "'Taxa das blusinhas': 20% de Imposto de Importação em compras até US$ 50 (Lei 14.902/2024) e seu fim (MP 1.357/2026, lei de 10/09/2026)",
+  "nome": "'Taxa das blusinhas': 20% de Imposto de Importação em compras até US$ 50 (Lei 14.902/2024) e seu fim (MP 1.357/2026 → Lei 15.502/2026)",
   "tipo": "imposto",
   "governo": "lula-3",
   "lado": "governo-lula-pt",
   "norma": {
-    "nome": "Lei 14.902/2024 (emenda ao PL do programa Mover, jun/2024); revogação: MP 1.357/2026 (12/05/2026) convertida em lei sancionada em 10/09/2026",
-    "data": null,
-    "url": "https://www.camara.leg.br/noticias/1271806-medida-provisoria-permite-eliminar-a-taxa-das-blusinhas",
+    "nome": "Lei 14.902, de 27/06/2024 (DOU 28/06/2024; emenda ao PL do programa Mover); revogação da taxa: MP 1.357, de 12/05/2026 (DOU edição extra de 12/05/2026), convertida na Lei 15.502, de 10/09/2026 (DOU edição extra de 10/09/2026)",
+    "data": "2024-06-27",
+    "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/L14902.htm",
     "vigencia": "Cobrança de ago/2024 a 12/05/2026; isenção efetiva desde 13/05/2026"
   },
   "status": "revogada",
   "o_que_faz_simples": [
-    "A Lei 14.902/2024 criou um Imposto de Importação de 20% sobre compras internacionais de até US$ 50 (antes isentas), cobrado desde ago/2024. Valia para todas as compras — eletrônicos, cosméticos etc. —, não só roupas.",
+    "A Lei 14.902/2024 inseriu no Decreto-Lei 1.804/1980 o § 2º-A: no regime de tributação simplificada, remessas de US$ 0 a US$ 50,00 pagam 20,0% de Imposto de Importação (sem parcela a deduzir) e de US$ 50,01 a US$ 3.000,00 pagam 60,0% com dedução de US$ 20,00. Cobrança desde ago/2024, para todas as compras internacionais — eletrônicos, cosméticos etc. —, não só roupas.",
     "A regra foi inserida pelo Congresso como 'jabuti' (emenda estranha ao tema) no projeto do programa Mover, aprovada e sancionada por Lula — responsabilidade compartilhada entre Congresso e Executivo.",
-    "Em 12/05/2026 a MP 1.357/2026 autorizou a Fazenda a zerar o imposto nessas compras; a isenção vale desde 13/05/2026. A Câmara aprovou a MP (com isenção para medicamentos de doenças raras); o Senado aprovou em 03/09/2026 (compras de US$ 50 a US$ 3 mil podem passar de 60% para 30%); Lula sancionou em 10/09/2026, 24 dias antes da eleição.",
+    "Em 12/05/2026 a MP 1.357/2026 autorizou o Ministro da Fazenda a reduzir as alíquotas 'a zero na faixa de tributação de até US$ 50,00 e a 30% na faixa de tributação de até US$ 3.000,00' para plataformas aderentes ao Remessa Conforme; a isenção vale desde 13/05/2026. A Lei 15.502/2026 (10/09/2026, 24 dias antes da eleição) manteve a autorização, inclusive para remessa expressa; zerou o II de medicamentos sem similar nacional para doenças raras/negligenciadas (§ 2º-C, efeitos em até 180 dias); permitiu limites de quantidade/frequência contra fracionamento e revenda (§ 2º-F); e obriga a Fazenda a publicar avaliação dos efeitos em 3 meses e depois a cada 6 meses (art. 1º-A), com foco em têxteis/vestuário, calçados, acessórios, brinquedos e cosméticos.",
     "O ICMS estadual sobre essas compras continua."
   ],
   "quem_ganha": {
@@ -40,13 +40,13 @@
     }
   },
   "custo_ou_arrecadacao": {
-    "valor": null,
+    "valor": 5,
     "unidade": "R$ bilhões",
-    "periodo": null,
-    "descricao": "Arrecadação da taxa (2024-2026) e renúncia com o fim (2026) não constam das notas.",
+    "periodo": "2025 (Imposto de Importação sobre remessas; estimativas divergem)",
+    "descricao": "Imposto de importação sobre remessas: R$ 2,88 bi (2024) → R$ 5 bi (2025), com queda de encomendas de 189,15 mi para 165,7 mi e gasto de R$ 15 bi → R$ 18,6 bi (AmdJus citando Receita). Levantamento DC News em balanços da Receita: 165,5 mi de remessas em 2025, 97% no Remessa Conforme, R$ 3,52 bi de impostos (pico nov/2025: 17,7 mi remessas, R$ 397,1 mi); média mensal de R$ 175,8 mi desde o início (JOTA via LAI). A divergência (R$ 3,52 bi vs R$ 5 bi) vem do recorte (Remessa Conforme vs total do II sobre remessas). Renúncia do fim da taxa (mai/2026 em diante) não localizada.",
     "fonte": {
-      "nome": "Congresso em Foco — da taxa das blusinhas à reforma tributária: leis aprovadas em 2024",
-      "url": "https://congressoemfoco.com.br/noticia/5495/da-taxa-das-blusinhas-a-reforma-tributaria-entenda-as-principais-leis-aprovadas-pelo-congresso-em-2024",
+      "nome": "AmdJus — Receita obtém R$ 5 bilhões com imposto sobre 'blusinhas' em 2025 (05/02/2026)",
+      "url": "https://amdjus.com.br/arrecadacao-recorde-receita-federal-obtem-r-5-bilhoes-com-imposto-sobre-blusinhas/",
       "acesso_em": "2026-10-21",
       "tier": "imprensa"
     }
@@ -54,11 +54,22 @@
   "regra_simulador": {
     "tipo": "percentual",
     "parametros": {
-      "base": "valor da compra internacional em US$ (remessa) convertido em R$",
-      "faixa_valor_usd": {
-        "ate": 50
-      },
-      "aliquota_pct_por_periodo": [
+      "base": "valor da remessa internacional em US$, convertido em R$",
+      "tabela_legal_lei_14902_2024": [
+        {
+          "de_usd": 0,
+          "ate_usd": 50.0,
+          "aliquota_pct": 20.0,
+          "deducao_usd": 0
+        },
+        {
+          "de_usd": 50.01,
+          "ate_usd": 3000.0,
+          "aliquota_pct": 60.0,
+          "deducao_usd": 20.0
+        }
+      ],
+      "aliquota_pct_por_periodo_ate_50_usd": [
         {
           "de": "2024-08-01",
           "ate": "2026-05-12",
@@ -67,12 +78,18 @@
         {
           "de": "2026-05-13",
           "ate": null,
-          "aliquota_pct": 0
+          "aliquota_pct": 0,
+          "condicao": "plataforma aderente ao Remessa Conforme (MP 1.357/2026; Lei 15.502/2026)"
         }
       ],
-      "observacao": "ICMS estadual continua incidindo; compras de US$ 50 a US$ 3 mil: alíquota pode cair de 60% para 30% (Senado, 03/09/2026), não detalhado nas notas",
-      "fonte_formula": "Congresso em Foco / Agência Câmara / Agência Senado",
-      "fonte_formula_url": "https://www12.senado.leg.br/noticias/materias/2026/09/03/senado-zera-taxa-das-blusinhas-nas-remessas-internacionais-de-ate-us-50"
+      "aliquota_pct_50_a_3000_usd_desde_2026_05_13": {
+        "aliquota_pct": 30,
+        "condicao": "autorização para reduzir de 60% a 30% em plataformas aderentes (Lei 15.502/2026)",
+        "deducao_usd": null
+      },
+      "observacao": "ICMS estadual continua incidindo; medicamentos sem similar nacional para doenças raras: II zero (§ 2º-C, efeitos em até 180 dias)",
+      "fonte_formula": "Lei 14.902/2024 e Lei 15.502/2026 (Planalto)",
+      "fonte_formula_url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/L15502.htm"
     }
   },
   "mitos": [
@@ -114,23 +131,17 @@
     },
     {
       "mito": "A taxa das blusinhas ainda está sendo cobrada.",
-      "fato": "A isenção vale desde 13/05/2026 (MP 1.357/2026) e foi confirmada em lei sancionada em 10/09/2026. O ICMS estadual continua.",
+      "fato": "A isenção para compras até US$ 50 vale desde 13/05/2026 (MP 1.357/2026) e foi confirmada pela Lei 15.502, de 10/09/2026 (DOU edição extra), que também autoriza reduzir de 60% para 30% a alíquota da faixa de US$ 50,01 a US$ 3.000 em plataformas do Remessa Conforme. O ICMS estadual continua.",
       "fontes": [
         {
-          "nome": "Olhar Digital — governo anuncia fim da taxa das blusinhas (12/05/2026)",
-          "url": "https://olhardigital.com.br/2026/05/12/pro/governo-anuncia-fim-da-taxa-das-blusinhas-sobre-itens-importados/",
+          "nome": "Planalto — MP 1.357/2026",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/Mpv/mpv1357.htm",
           "acesso_em": "2026-10-21",
-          "tier": "imprensa"
+          "tier": "oficial"
         },
         {
-          "nome": "A Gazeta/Folha — Lula sanciona lei do fim da taxa das blusinhas a 24 dias da eleição",
-          "url": "https://www.agazeta.com.br/economia/lula-sanciona-lei-do-fim-da-taxa-das-blusinhas-a-24-dias-da-eleicao-0926",
-          "acesso_em": "2026-10-21",
-          "tier": "imprensa"
-        },
-        {
-          "nome": "Agência Senado — Senado zera taxa das blusinhas nas remessas de até US$ 50 (03/09/2026)",
-          "url": "https://www12.senado.leg.br/noticias/materias/2026/09/03/senado-zera-taxa-das-blusinhas-nas-remessas-internacionais-de-ate-us-50",
+          "nome": "Planalto — Lei 15.502/2026 (conversão da MP 1.357)",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/L15502.htm",
           "acesso_em": "2026-10-21",
           "tier": "oficial"
         }
@@ -197,13 +208,48 @@
       "url": "https://www.legisweb.com.br/noticia/?id=34369",
       "acesso_em": "2026-10-21",
       "tier": "imprensa"
+    },
+    {
+      "nome": "Planalto — Lei 14.902/2024",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/L14902.htm",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Planalto — MP 1.357/2026",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/Mpv/mpv1357.htm",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Planalto — Lei 15.502/2026 (conversão da MP 1.357)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/L15502.htm",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "AmdJus — Receita obtém R$ 5 bilhões com imposto sobre 'blusinhas' em 2025 (05/02/2026)",
+      "url": "https://amdjus.com.br/arrecadacao-recorde-receita-federal-obtem-r-5-bilhoes-com-imposto-sobre-blusinhas/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Tribuna do Planalto — remessas internacionais batem recorde em 2025 (20/03/2026)",
+      "url": "https://tribunadoplanalto.com.br/remessas-internacionais-batem-recorde-em-2025-e-impulsionam-arrecadacao-federal-com-a-taxa-das-blusinhas/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "IBET — média mensal da arrecadação da taxa das blusinhas (JOTA via LAI)",
+      "url": "https://www.ibet.com.br/?p=98505",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/12_pix_fake_news_e_impostos_quem_paga.md",
   "lacunas": [
-    "Data exata e URL oficial da Lei 14.902/2024 não constam das notas (apenas 'jun/2024').",
-    "Número da lei de conversão da MP 1.357/2026 e seu DOU não localizados.",
-    "Arrecadação efetiva da taxa (2024-2026) e renúncia do fim não localizadas."
+    "Arrecadação consolidada em fonte primária (Receita/Remessa Conforme): fontes divergem (R$ 3,52 bi vs R$ 5 bi em 2025).",
+    "Renúncia oficial do fim da taxa (mai/2026 em diante) não localizada; a avaliação trimestral exigida pela Lei 15.502 (art. 1º-A) ainda não foi localizada."
   ],
   "atualizado_em": "2026-10-21"
 }

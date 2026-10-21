@@ -13,10 +13,11 @@
   "status": "caducou",
   "o_que_faz_simples": [
     "Pagou R$ 600 por mês (R$ 1.200 para mães solo) por 3 meses a informais, desempregados e famílias de baixa renda durante a pandemia; prorrogado por mais 2 meses (Decreto 10.412/2020, crédito de R$ 101,6 bi) e depois 4 parcelas de R$ 300 (set-dez/2020). Em 2021, parcelas de R$ 150, R$ 250 ou R$ 375 (MP 1.039/2021, teto de R$ 44 bi).",
-    "A projeção inicial do Ministério da Economia era R$ 15 bi para 15-20 milhões de pessoas; em maio/2020 o custo de 3 meses já era R$ 152,6 bi. TCU (jul/2020): R$ 76,86 bi pagos até maio para 59 milhões de pessoas (49,9 mi famílias); 63,4 mi admitidos até junho; custo mensal 16 vezes o do Bolsa Família pré-crise; 565 mil benefícios suspensos por indícios de irregularidade.",
+    "A projeção inicial do Ministério da Economia era R$ 15 bi para 15-20 milhões de pessoas; em maio/2020 o custo de 3 meses já era R$ 152,6 bi. TCU: primeira parcela com R$ 41,3 bi orçados (86,6% executados em abr/2020) e erro de inclusão de ~6 milhões de pessoas (10%); R$ 76,86 bi pagos até maio para 59 milhões de pessoas; balanço de set/2022: cerca de R$ 45 bilhões pagos indevidamente (7,4 milhões receberam ao menos uma parcela irregular; 6,4 milhões de mães receberam cota dupla indevida), R$ 12,3 bilhões de economia com cruzamentos de dados e 4,9 milhões de beneficiários irregulares identificados por CGU e tribunais de contas.",
     "Efeito: a pobreza (até ½ SM per capita) caiu 23,7% até ago/2020 vs 2019 (−15 milhões; ~50 milhões de pobres, 'nível mais baixo de toda a série', FGV Social); em jul/2020, 107 milhões de pessoas moravam em lares com algum auxílio; o Gini de 2020 foi o menor da história (0,488 pelo Banco Mundial; 0,523 pelo IBGE) e a extrema pobreza caiu a 1,9% (PIP).",
     "Ressaca: com o fim do auxílio, 2021 teve o pico de pobreza da série (36,8%, 77 milhões) e extrema pobreza de 9,0% (18,9 milhões); IBGE: extrema pobreza +48,2% em 2021. Quase 68 milhões de brasileiros foram impactados pelo fim do auxílio (G1, jan/2021).",
-    "Os domicílios com 'outros programas sociais' (inclui o auxílio) saltaram de 0,7% (2019) para 23,6% (2020) e 15,5% (2021) na PNAD."
+    "Os domicílios com 'outros programas sociais' (inclui o auxílio) saltaram de 0,7% (2019) para 23,6% (2020) e 15,5% (2021) na PNAD.",
+    "Pagamentos registrados no Portal da Transparência (via Ipeadata): 2020 R$ 293,34 bi (abr 34,71; mai 41,46; jun 27,12; jul 42,74; ago 38,10; set 33,39; out 21,94; nov 28,11; dez 25,76); 2021 R$ 56,89 bi (abr 9,00 a out 5,21, mais resíduos); 2022 R$ 3,37 bi (residuais); total 2020-2023 ≈ R$ 353,6 bi. Parcelas pagas por mês: 48,5 mi (abr/2020), 59,0 mi (mai), 78,6 mi (nov/2020, pico), 39,0 mi (abr/2021), 25,1 mi (out/2021)."
   ],
   "quem_ganha": {
     "descricao": "68,2 milhões de pessoas em 2020 (FGV; ~68,3 milhões elegíveis segundo a UFRJ); 45,6 milhões de famílias em 2021. Fortemente pró-pobre: efeito nos décimos 1 a 4 (inferência da nota).",
@@ -30,7 +31,7 @@
     }
   },
   "quem_paga": {
-    "descricao": "União, com crédito extraordinário fora do teto de gastos: R$ 322 bi autorizados e R$ 293 bi gastos em 2020; crédito total de R$ 364,4 bi (abr/2020-abr/2021: R$ 294,6 bi em 2020 + R$ 42,5 bi em 2021); orçamento de R$ 43-44 bi em 2021.",
+    "descricao": "União, com crédito extraordinário fora do teto de gastos: R$ 322 bi autorizados e R$ 293,34 bi pagos em 2020; R$ 56,89 bi em 2021 e R$ 3,37 bi residuais em 2022 (Portal da Transparência) — total ≈ R$ 353,6 bi. TCU: ~R$ 45 bi pagos indevidamente.",
     "pessoas": null,
     "faixa_renda": "Não se aplica (Tesouro/dívida pública)",
     "fonte": {
@@ -41,15 +42,15 @@
     }
   },
   "custo_ou_arrecadacao": {
-    "valor": 293,
+    "valor": 353.6,
     "unidade": "R$ bilhões",
-    "periodo": "2020 (efetivamente gasto)",
-    "descricao": "R$ 293 bi gastos em 2020 (R$ 322 bi autorizados; estimativa UOL de R$ 322 bi); R$ 42,5-44 bi em 2021. TCU projetava R$ 465,8 bi até dez/2020 se mantidos os R$ 600. Custo final auditado 2020-21 não localizado.",
+    "periodo": "2020-2023 (total pago, Portal da Transparência via Ipeadata; soma da nota)",
+    "descricao": "R$ 293,34 bi em 2020 + R$ 56,89 bi em 2021 + R$ 3,37 bi em 2022 (residuais) ≈ R$ 353,6 bi. Confere com os R$ 293 bi gastos em 2020 (R$ 322 bi autorizados) e supera o teto de R$ 44 bi da MP 1.039/2021 porque inclui resíduos. Não é um número auditado pelo TCU: o relatório final com custo consolidado não foi localizado; o TCU estima R$ 45 bi pagos indevidamente e R$ 12,3 bi economizados com cruzamentos.",
     "fonte": {
-      "nome": "Jornal do Brasil — auxílio emergencial menor começa a ser pago (abr/2021)",
-      "url": "https://www.jb.com.br/economia/2021/04/amp/1029370-auxilio-emergencial-menor-comeca-a-ser-pago-em-meio-a-piora-da-pandemia.html",
+      "nome": "Ipeadata — VAL_AUXEMG: valor mensal do Auxílio Emergencial (Portal da Transparência)",
+      "url": "http://www.ipeadata.gov.br/api/odata4/ValoresSerie(SERCODIGO='VAL_AUXEMG')",
       "acesso_em": "2026-10-21",
-      "tier": "imprensa"
+      "tier": "oficial"
     }
   },
   "regra_simulador": {
@@ -90,6 +91,30 @@
           "url": "https://pt.wikipedia.org/wiki/Aux%C3%ADlio_Emergencial",
           "acesso_em": "2026-10-21",
           "tier": "imprensa"
+        },
+        {
+          "nome": "TCU — auxílio emergencial pode chegar a meio trilhão até dezembro (17/07/2020)",
+          "url": "https://portal.tcu.gov.br/imprensa/noticias/tcu-verifica-que-auxilio-emergencial-pode-chegar-a-meio-trilhao-ate-dezembro",
+          "acesso_em": "2026-10-21",
+          "tier": "oficial"
+        }
+      ]
+    },
+    {
+      "mito": "O Auxílio Emergencial custou R$ 600 bilhões.",
+      "fato": "Os pagamentos registrados no Portal da Transparência somam ≈R$ 353,6 bi em 2020-2023 (R$ 293,34 bi em 2020; R$ 56,89 bi em 2021; R$ 3,37 bi em 2022). O TCU projetava R$ 465,8 bi até dez/2020 caso os R$ 600 fossem mantidos o ano todo — o que não ocorreu (R$ 300 de set a dez/2020). Cerca de R$ 45 bi foram pagos indevidamente, segundo o TCU.",
+      "fontes": [
+        {
+          "nome": "Ipeadata — VAL_AUXEMG: valor mensal do Auxílio Emergencial (Portal da Transparência)",
+          "url": "http://www.ipeadata.gov.br/api/odata4/ValoresSerie(SERCODIGO='VAL_AUXEMG')",
+          "acesso_em": "2026-10-21",
+          "tier": "oficial"
+        },
+        {
+          "nome": "TCU — TCU atualiza balanço da fiscalização do Auxílio Emergencial (14/09/2022)",
+          "url": "https://portal.tcu.gov.br/imprensa/noticias/tcu-atualiza-balanco-da-fiscalizacao-do-auxilio-emergencial.htm",
+          "acesso_em": "2026-10-21",
+          "tier": "oficial"
         },
         {
           "nome": "TCU — auxílio emergencial pode chegar a meio trilhão até dezembro (17/07/2020)",
@@ -190,6 +215,30 @@
       "url": "https://biblioteca.ibge.gov.br/visualizacao/livros/liv102275_informativo.pdf",
       "acesso_em": "2026-10-21",
       "tier": "oficial"
+    },
+    {
+      "nome": "Ipeadata — VAL_AUXEMG: valor mensal do Auxílio Emergencial (Portal da Transparência)",
+      "url": "http://www.ipeadata.gov.br/api/odata4/ValoresSerie(SERCODIGO='VAL_AUXEMG')",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Ipeadata — FAM_AUXEMG: parcelas do Auxílio Emergencial pagas por mês",
+      "url": "http://www.ipeadata.gov.br/api/odata4/ValoresSerie(SERCODIGO='FAM_AUXEMG')",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "TCU — TCU atualiza balanço da fiscalização do Auxílio Emergencial (14/09/2022)",
+      "url": "https://portal.tcu.gov.br/imprensa/noticias/tcu-atualiza-balanco-da-fiscalizacao-do-auxilio-emergencial.htm",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "TCU — Acórdão 1428/2020-Plenário: avaliação da implementação do Auxílio Emergencial (09/06/2020)",
+      "url": "https://portal.tcu.gov.br/imprensa/noticias/tcu-avalia-a-implementacao-do-auxilio-emergencial.htm",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/13_renda_por_faixa_e_simulacoes_de_impacto.md",
@@ -197,7 +246,7 @@
     "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/03_emprego_renda_pobreza_social.md"
   ],
   "lacunas": [
-    "Custo final auditado do Auxílio Emergencial 2020 e 2021 (Tesouro/CGU) não localizado — só projeções e estimativas.",
+    "Relatório final/acórdão do TCU com custo total auditado não localizado; o total de R$ 353,6 bi é a soma dos pagamentos do Portal da Transparência (via Ipeadata/MDS).",
     "Data e URL oficial da Lei 13.982/2020 não constam das notas.",
     "Papel do Congresso na fixação do valor de R$ 600 não detalhado nas notas."
   ],

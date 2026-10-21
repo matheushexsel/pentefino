@@ -16,7 +16,8 @@
     "De 2020 a 2022 houve 'somente o repasse anual da inflação passada, sem aumento real': jan/2020 R$ 1.039 (−0,36% real) e fev/2020 R$ 1.045 (+0,39%); jan/2021 R$ 1.100 (+0,01% real pelo DIEESE; fontes sindicais apontam reajuste de 5,26% abaixo do INPC de 5,45%); jan/2022 R$ 1.212 (+0,02%).",
     "A LDO 2022 confirmou o fim da política. Em 2022 veio a público um plano da equipe de Bolsonaro para desvincular do INPC o reajuste do mínimo e das aposentadorias.",
     "Poder de compra em cestas básicas de SP: 2,04 (2019), 1,88 (2020), 1,68 (2021), 1,59 (2022, mínimo recente). Os alimentos subiram 44,3% entre 2020 e 2022 (DIEESE) e 54,2% entre jan/2019 e jul/2022 (Lupa).",
-    "Estimativa sindical: perda de ~5,4% sobre R$ 1.320 pela não aplicação da valorização em 2019-22 (fonte sindical, não verificada em fonte técnica independente)."
+    "Estimativa sindical: perda de ~5,4% sobre R$ 1.320 pela não aplicação da valorização em 2019-22 (fonte sindical, não verificada em fonte técnica independente).",
+    "Outras medidas do poder de compra no período: a razão salário mínimo necessário/mínimo (DIEESE) foi de 3,94 em jan/2019 e 4,35 em dez/2019 para 5,08 (dez/2020), 5,27 (dez/2021) e 5,49 (dez/2022), a pior da série recente; em dólar corrente o mínimo caiu de US$ 253 (2019) para US$ 203-204 (2020-21) e US$ 235 (2022); o mínimo real a preços de set/2026 (Ipeadata) foi de R$ 1.442 (2019) para R$ 1.368 (2021) e R$ 1.423 (2022)."
   ],
   "quem_ganha": {
     "descricao": "Tesouro Nacional e Previdência (menor crescimento da despesa com benefícios indexados ao mínimo) e empregadores de baixa remuneração. Valores não quantificados nas notas.",
@@ -136,6 +137,24 @@
       "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
       "acesso_em": "2026-10-21",
       "tier": "checagem"
+    },
+    {
+      "nome": "DIEESE — Salário mínimo nominal e necessário (série mensal)",
+      "url": "https://www.dieese.org.br/analisecestabasica/salarioMinimo.html",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    },
+    {
+      "nome": "Ipeadata — GAC12_SALMINRE12: salário mínimo real",
+      "url": "http://www.ipeadata.gov.br/api/odata4/ValoresSerie(SERCODIGO='GAC12_SALMINRE12')",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Ipeadata — GAC12_SALMINDOL12: salário mínimo em US$ PPC",
+      "url": "http://www.ipeadata.gov.br/api/odata4/ValoresSerie(SERCODIGO='GAC12_SALMINDOL12')",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/03_emprego_renda_pobreza_social.md",

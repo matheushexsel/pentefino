@@ -1,7 +1,7 @@
 {
   "id": "renda",
   "titulo": "Simulador de renda: onde você está na distribuição e como cada medida te afeta",
-  "aviso_metodologico": "A PNAD Contínua mede rendimento domiciliar per capita (renda do domicílio dividida pelo número de moradores) e rendimento individual do trabalho; o IRPF mede renda individual declarada. As três grandezas não são intercambiáveis. Para posicionar o usuário na PNAD, perguntar renda familiar total e número de moradores. Os valores por décimo são médias dentro de cada décimo, não os limites (percentis) entre eles.",
+  "aviso_metodologico": "A PNAD Contínua mede rendimento domiciliar per capita (renda do domicílio dividida pelo número de moradores) e rendimento individual do trabalho; o IRPF mede renda individual declarada. As três grandezas não são intercambiáveis. Para posicionar o usuário na PNAD, perguntar renda familiar total e número de moradores e usar os LIMITES de percentil (percentis_renda_domiciliar_per_capita), não as médias por décimo. Convenção: SIDRA 7438 e 7536 são valores nominais a preços médios de cada ano; SIDRA 7533 é real, a preços médios de 2025.",
   "salario_minimo": {
     "valor": 1621,
     "ano": 2026,
@@ -20,8 +20,8 @@
   "distribuicao": [
     {
       "rotulo": "1º décimo (10% mais pobres)",
-      "faixa_max": null,
-      "pessoas": null,
+      "faixa_max": 451,
+      "pessoas": 21302000,
       "percentual_acumulado": 10,
       "renda_media_decimo": 268,
       "renda_media_decimo_2024": 260,
@@ -33,140 +33,257 @@
         "url": "https://biblioteca.ibge.gov.br/visualizacao/livros/liv102275_informativo.pdf",
         "acesso_em": "2026-10-21",
         "tier": "oficial"
+      },
+      "fonte_parcela_da_massa": {
+        "nome": "IBGE/SIDRA — tabela 7527: parcela da massa de rendimento domiciliar per capita por classe (PNAD Contínua anual, via API, acesso 21/10/2026)",
+        "url": "https://sidra.ibge.gov.br/tabela/7527",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "faixa_max_observacao": "limite superior do décimo em R$ nominais de 2025 (SIDRA 7438); null para o último décimo",
+      "fonte_pessoas": {
+        "nome": "IBGE/SIDRA — tabela 7521: população residente por classe de percentual (PNAD Contínua anual, via API, acesso 21/10/2026)",
+        "url": "https://sidra.ibge.gov.br/tabela/7521",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
       }
     },
     {
       "rotulo": "2º décimo (10% a 20%)",
-      "faixa_max": null,
-      "pessoas": null,
+      "faixa_max": 694,
+      "pessoas": 21227000,
       "percentual_acumulado": 20,
       "renda_media_decimo": 568,
       "renda_media_decimo_2024": 544,
       "renda_media_decimo_2019": 399,
       "parcela_da_massa_pct_2025": 2.5,
-      "parcela_da_massa_leitura_de_grafico": true,
+      "parcela_da_massa_leitura_de_grafico": false,
       "fonte": {
         "nome": "IBGE — PNAD Contínua: Rendimento de todas as fontes 2025 (Informativo, 08/05/2026)",
         "url": "https://biblioteca.ibge.gov.br/visualizacao/livros/liv102275_informativo.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "fonte_parcela_da_massa": {
+        "nome": "IBGE/SIDRA — tabela 7527: parcela da massa de rendimento domiciliar per capita por classe (PNAD Contínua anual, via API, acesso 21/10/2026)",
+        "url": "https://sidra.ibge.gov.br/tabela/7527",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "faixa_max_observacao": "limite superior do décimo em R$ nominais de 2025 (SIDRA 7438); null para o último décimo",
+      "fonte_pessoas": {
+        "nome": "IBGE/SIDRA — tabela 7521: população residente por classe de percentual (PNAD Contínua anual, via API, acesso 21/10/2026)",
+        "url": "https://sidra.ibge.gov.br/tabela/7521",
         "acesso_em": "2026-10-21",
         "tier": "oficial"
       }
     },
     {
       "rotulo": "3º décimo (20% a 30%)",
-      "faixa_max": null,
-      "pessoas": null,
+      "faixa_max": 906,
+      "pessoas": 21276000,
       "percentual_acumulado": 30,
       "renda_media_decimo": 791,
       "renda_media_decimo_2024": 754,
       "renda_media_decimo_2019": 592,
       "parcela_da_massa_pct_2025": 3.5,
-      "parcela_da_massa_leitura_de_grafico": true,
+      "parcela_da_massa_leitura_de_grafico": false,
       "fonte": {
         "nome": "IBGE — PNAD Contínua: Rendimento de todas as fontes 2025 (Informativo, 08/05/2026)",
         "url": "https://biblioteca.ibge.gov.br/visualizacao/livros/liv102275_informativo.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "fonte_parcela_da_massa": {
+        "nome": "IBGE/SIDRA — tabela 7527: parcela da massa de rendimento domiciliar per capita por classe (PNAD Contínua anual, via API, acesso 21/10/2026)",
+        "url": "https://sidra.ibge.gov.br/tabela/7527",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "faixa_max_observacao": "limite superior do décimo em R$ nominais de 2025 (SIDRA 7438); null para o último décimo",
+      "fonte_pessoas": {
+        "nome": "IBGE/SIDRA — tabela 7521: população residente por classe de percentual (PNAD Contínua anual, via API, acesso 21/10/2026)",
+        "url": "https://sidra.ibge.gov.br/tabela/7521",
         "acesso_em": "2026-10-21",
         "tier": "oficial"
       }
     },
     {
       "rotulo": "4º décimo (30% a 40%)",
-      "faixa_max": null,
-      "pessoas": null,
+      "faixa_max": 1154,
+      "pessoas": 21223000,
       "percentual_acumulado": 40,
       "renda_media_decimo": 1027,
       "renda_media_decimo_2024": 975,
       "renda_media_decimo_2019": 788,
       "parcela_da_massa_pct_2025": 4.5,
-      "parcela_da_massa_leitura_de_grafico": true,
+      "parcela_da_massa_leitura_de_grafico": false,
       "fonte": {
         "nome": "IBGE — PNAD Contínua: Rendimento de todas as fontes 2025 (Informativo, 08/05/2026)",
         "url": "https://biblioteca.ibge.gov.br/visualizacao/livros/liv102275_informativo.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "fonte_parcela_da_massa": {
+        "nome": "IBGE/SIDRA — tabela 7527: parcela da massa de rendimento domiciliar per capita por classe (PNAD Contínua anual, via API, acesso 21/10/2026)",
+        "url": "https://sidra.ibge.gov.br/tabela/7527",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "faixa_max_observacao": "limite superior do décimo em R$ nominais de 2025 (SIDRA 7438); null para o último décimo",
+      "fonte_pessoas": {
+        "nome": "IBGE/SIDRA — tabela 7521: população residente por classe de percentual (PNAD Contínua anual, via API, acesso 21/10/2026)",
+        "url": "https://sidra.ibge.gov.br/tabela/7521",
         "acesso_em": "2026-10-21",
         "tier": "oficial"
       }
     },
     {
       "rotulo": "5º décimo (40% a 50%)",
-      "faixa_max": null,
-      "pessoas": null,
+      "faixa_max": 1490,
+      "pessoas": 21397000,
       "percentual_acumulado": 50,
       "renda_media_decimo": 1311,
       "renda_media_decimo_2024": 1228,
       "renda_media_decimo_2019": 1018,
       "parcela_da_massa_pct_2025": 5.8,
-      "parcela_da_massa_leitura_de_grafico": true,
+      "parcela_da_massa_leitura_de_grafico": false,
       "fonte": {
         "nome": "IBGE — PNAD Contínua: Rendimento de todas as fontes 2025 (Informativo, 08/05/2026)",
         "url": "https://biblioteca.ibge.gov.br/visualizacao/livros/liv102275_informativo.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "fonte_parcela_da_massa": {
+        "nome": "IBGE/SIDRA — tabela 7527: parcela da massa de rendimento domiciliar per capita por classe (PNAD Contínua anual, via API, acesso 21/10/2026)",
+        "url": "https://sidra.ibge.gov.br/tabela/7527",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "faixa_max_observacao": "limite superior do décimo em R$ nominais de 2025 (SIDRA 7438); null para o último décimo",
+      "fonte_pessoas": {
+        "nome": "IBGE/SIDRA — tabela 7521: população residente por classe de percentual (PNAD Contínua anual, via API, acesso 21/10/2026)",
+        "url": "https://sidra.ibge.gov.br/tabela/7521",
         "acesso_em": "2026-10-21",
         "tier": "oficial"
       }
     },
     {
       "rotulo": "6º décimo (50% a 60%)",
-      "faixa_max": null,
-      "pessoas": null,
+      "faixa_max": 1697,
+      "pessoas": 21139000,
       "percentual_acumulado": 60,
       "renda_media_decimo": 1560,
       "renda_media_decimo_2024": 1495,
       "renda_media_decimo_2019": 1307,
       "parcela_da_massa_pct_2025": 6.9,
-      "parcela_da_massa_leitura_de_grafico": true,
+      "parcela_da_massa_leitura_de_grafico": false,
       "fonte": {
         "nome": "IBGE — PNAD Contínua: Rendimento de todas as fontes 2025 (Informativo, 08/05/2026)",
         "url": "https://biblioteca.ibge.gov.br/visualizacao/livros/liv102275_informativo.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "fonte_parcela_da_massa": {
+        "nome": "IBGE/SIDRA — tabela 7527: parcela da massa de rendimento domiciliar per capita por classe (PNAD Contínua anual, via API, acesso 21/10/2026)",
+        "url": "https://sidra.ibge.gov.br/tabela/7527",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "faixa_max_observacao": "limite superior do décimo em R$ nominais de 2025 (SIDRA 7438); null para o último décimo",
+      "fonte_pessoas": {
+        "nome": "IBGE/SIDRA — tabela 7521: população residente por classe de percentual (PNAD Contínua anual, via API, acesso 21/10/2026)",
+        "url": "https://sidra.ibge.gov.br/tabela/7521",
         "acesso_em": "2026-10-21",
         "tier": "oficial"
       }
     },
     {
       "rotulo": "7º décimo (60% a 70%)",
-      "faixa_max": null,
-      "pessoas": null,
+      "faixa_max": 2158,
+      "pessoas": 21271000,
       "percentual_acumulado": 70,
       "renda_media_decimo": 1913,
       "renda_media_decimo_2024": 1819,
       "renda_media_decimo_2019": 1581,
       "parcela_da_massa_pct_2025": 8.5,
-      "parcela_da_massa_leitura_de_grafico": true,
+      "parcela_da_massa_leitura_de_grafico": false,
       "fonte": {
         "nome": "IBGE — PNAD Contínua: Rendimento de todas as fontes 2025 (Informativo, 08/05/2026)",
         "url": "https://biblioteca.ibge.gov.br/visualizacao/livros/liv102275_informativo.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "fonte_parcela_da_massa": {
+        "nome": "IBGE/SIDRA — tabela 7527: parcela da massa de rendimento domiciliar per capita por classe (PNAD Contínua anual, via API, acesso 21/10/2026)",
+        "url": "https://sidra.ibge.gov.br/tabela/7527",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "faixa_max_observacao": "limite superior do décimo em R$ nominais de 2025 (SIDRA 7438); null para o último décimo",
+      "fonte_pessoas": {
+        "nome": "IBGE/SIDRA — tabela 7521: população residente por classe de percentual (PNAD Contínua anual, via API, acesso 21/10/2026)",
+        "url": "https://sidra.ibge.gov.br/tabela/7521",
         "acesso_em": "2026-10-21",
         "tier": "oficial"
       }
     },
     {
       "rotulo": "8º décimo (70% a 80%)",
-      "faixa_max": null,
-      "pessoas": null,
+      "faixa_max": 2958,
+      "pessoas": 21242000,
       "percentual_acumulado": 80,
       "renda_media_decimo": 2494,
       "renda_media_decimo_2024": 2355,
       "renda_media_decimo_2019": 2075,
       "parcela_da_massa_pct_2025": 11.0,
-      "parcela_da_massa_leitura_de_grafico": true,
+      "parcela_da_massa_leitura_de_grafico": false,
       "fonte": {
         "nome": "IBGE — PNAD Contínua: Rendimento de todas as fontes 2025 (Informativo, 08/05/2026)",
         "url": "https://biblioteca.ibge.gov.br/visualizacao/livros/liv102275_informativo.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "fonte_parcela_da_massa": {
+        "nome": "IBGE/SIDRA — tabela 7527: parcela da massa de rendimento domiciliar per capita por classe (PNAD Contínua anual, via API, acesso 21/10/2026)",
+        "url": "https://sidra.ibge.gov.br/tabela/7527",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "faixa_max_observacao": "limite superior do décimo em R$ nominais de 2025 (SIDRA 7438); null para o último décimo",
+      "fonte_pessoas": {
+        "nome": "IBGE/SIDRA — tabela 7521: população residente por classe de percentual (PNAD Contínua anual, via API, acesso 21/10/2026)",
+        "url": "https://sidra.ibge.gov.br/tabela/7521",
         "acesso_em": "2026-10-21",
         "tier": "oficial"
       }
     },
     {
       "rotulo": "9º décimo (80% a 90%)",
-      "faixa_max": null,
-      "pessoas": null,
+      "faixa_max": 4609,
+      "pessoas": 21280000,
       "percentual_acumulado": 90,
       "renda_media_decimo": 3590,
       "renda_media_decimo_2024": 3366,
       "renda_media_decimo_2019": 2978,
       "parcela_da_massa_pct_2025": 15.9,
-      "parcela_da_massa_leitura_de_grafico": true,
+      "parcela_da_massa_leitura_de_grafico": false,
       "fonte": {
         "nome": "IBGE — PNAD Contínua: Rendimento de todas as fontes 2025 (Informativo, 08/05/2026)",
         "url": "https://biblioteca.ibge.gov.br/visualizacao/livros/liv102275_informativo.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "fonte_parcela_da_massa": {
+        "nome": "IBGE/SIDRA — tabela 7527: parcela da massa de rendimento domiciliar per capita por classe (PNAD Contínua anual, via API, acesso 21/10/2026)",
+        "url": "https://sidra.ibge.gov.br/tabela/7527",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "faixa_max_observacao": "limite superior do décimo em R$ nominais de 2025 (SIDRA 7438); null para o último décimo",
+      "fonte_pessoas": {
+        "nome": "IBGE/SIDRA — tabela 7521: população residente por classe de percentual (PNAD Contínua anual, via API, acesso 21/10/2026)",
+        "url": "https://sidra.ibge.gov.br/tabela/7521",
         "acesso_em": "2026-10-21",
         "tier": "oficial"
       }
@@ -174,7 +291,7 @@
     {
       "rotulo": "10º décimo (10% mais ricos)",
       "faixa_max": null,
-      "pessoas": null,
+      "pessoas": 21265000,
       "percentual_acumulado": 100,
       "renda_media_decimo": 9117,
       "renda_media_decimo_2024": 8385,
@@ -184,6 +301,19 @@
       "fonte": {
         "nome": "IBGE — PNAD Contínua: Rendimento de todas as fontes 2025 (Informativo, 08/05/2026)",
         "url": "https://biblioteca.ibge.gov.br/visualizacao/livros/liv102275_informativo.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "fonte_parcela_da_massa": {
+        "nome": "IBGE/SIDRA — tabela 7527: parcela da massa de rendimento domiciliar per capita por classe (PNAD Contínua anual, via API, acesso 21/10/2026)",
+        "url": "https://sidra.ibge.gov.br/tabela/7527",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "faixa_max_observacao": "limite superior do décimo em R$ nominais de 2025 (SIDRA 7438); null para o último décimo",
+      "fonte_pessoas": {
+        "nome": "IBGE/SIDRA — tabela 7521: população residente por classe de percentual (PNAD Contínua anual, via API, acesso 21/10/2026)",
+        "url": "https://sidra.ibge.gov.br/tabela/7521",
         "acesso_em": "2026-10-21",
         "tier": "oficial"
       }
@@ -201,6 +331,13 @@
         "url": "https://biblioteca.ibge.gov.br/visualizacao/livros/liv102275_informativo.pdf",
         "acesso_em": "2026-10-21",
         "tier": "oficial"
+      },
+      "pessoas": 10634000,
+      "fonte_pessoas": {
+        "nome": "IBGE/SIDRA — tabela 7521: população residente por classe de percentual (PNAD Contínua anual, via API, acesso 21/10/2026)",
+        "url": "https://sidra.ibge.gov.br/tabela/7521",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
       }
     },
     {
@@ -214,6 +351,13 @@
         "url": "https://biblioteca.ibge.gov.br/visualizacao/livros/liv102275_informativo.pdf",
         "acesso_em": "2026-10-21",
         "tier": "oficial"
+      },
+      "pessoas": 8503000,
+      "fonte_pessoas": {
+        "nome": "IBGE/SIDRA — tabela 7521: população residente por classe de percentual (PNAD Contínua anual, via API, acesso 21/10/2026)",
+        "url": "https://sidra.ibge.gov.br/tabela/7521",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
       }
     },
     {
@@ -225,6 +369,13 @@
       "fonte": {
         "nome": "IBGE — PNAD Contínua: Rendimento de todas as fontes 2025 (Informativo, 08/05/2026)",
         "url": "https://biblioteca.ibge.gov.br/visualizacao/livros/liv102275_informativo.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "pessoas": 2128000,
+      "fonte_pessoas": {
+        "nome": "IBGE/SIDRA — tabela 7521: população residente por classe de percentual (PNAD Contínua anual, via API, acesso 21/10/2026)",
+        "url": "https://sidra.ibge.gov.br/tabela/7521",
         "acesso_em": "2026-10-21",
         "tier": "oficial"
       }
@@ -323,47 +474,44 @@
     }
   },
   "mediana": {
-    "valor": null,
-    "valor_aproximado": 1518,
-    "faixa_inferida": {
-      "min": 1400,
-      "max": 1500
-    },
+    "valor": 1490,
+    "unidade": "R$ nominais a preços médios de 2025",
     "periodo": "2025",
-    "inferencia": true,
-    "nao_verificado": true,
-    "descricao": "O IBGE não publicou a mediana no informativo. Como a média do 5º décimo (R$ 1.311) e a do 6º (R$ 1.560) cercam o salário mínimo de 2025 (R$ 1.518), a nota infere que a mediana da renda domiciliar per capita em 2025 está em torno de 1 salário mínimo: metade dos brasileiros vive em domicílios com até ~R$ 1,4-1,5 mil por pessoa. Os limites de percentil (P50, P90, P99) estão nas tabelas SIDRA 7531/7545, não acessadas.",
+    "inferencia": false,
+    "nao_verificado": false,
+    "percentual_do_salario_minimo_2025": 98.2,
+    "descricao": "Mediana (P50) oficial da renda domiciliar per capita em 2025: R$ 1.490/mês (98,2% do salário mínimo de 2025, R$ 1.518). Metade dos brasileiros vivia em domicílios com até R$ 1.490 por pessoa. Substitui a inferência anterior (R$ 1,4-1,5 mil), que estava correta. Série: 507 (2012), 633 (2014), 694 (2016), 770 (2018), 824 (2019), 834 (2020), 810 (2021), 996 (2022), 1.178 (2023), 1.328 (2024).",
     "fonte": {
-      "nome": "IBGE — PNAD Contínua: Rendimento de todas as fontes 2025 (Informativo, 08/05/2026)",
-      "url": "https://biblioteca.ibge.gov.br/visualizacao/livros/liv102275_informativo.pdf",
+      "nome": "IBGE/SIDRA — tabela 7438: limites superiores das classes de percentual do rendimento domiciliar per capita (PNAD Contínua anual, via API, acesso 21/10/2026)",
+      "url": "https://sidra.ibge.gov.br/tabela/7438",
       "acesso_em": "2026-10-21",
       "tier": "oficial"
     }
   },
   "posicionamento_inferido": {
-    "descricao": "Cortes aproximados inferidos pela nota a partir das médias por classe (não são percentis oficiais).",
-    "inferencia": true,
-    "cortes": [
+    "descricao": "Substituído pelos limites oficiais de percentil (SIDRA 7438). Os cortes antes citados (~R$ 3.600, ~R$ 5.500, ~R$ 9.600) eram médias de classe, não limites.",
+    "inferencia": false,
+    "cortes_oficiais_2025": [
       {
-        "renda_per_capita_acima_de": 3600,
-        "posicao": "20% mais ricos"
+        "renda_per_capita_acima_de": 2958,
+        "posicao": "20% mais ricos (P80)"
       },
       {
-        "renda_per_capita_acima_de": 5500,
-        "posicao": "10% mais ricos (classe 90-95%)"
+        "renda_per_capita_acima_de": 4609,
+        "posicao": "10% mais ricos (P90)"
       },
       {
-        "renda_per_capita_acima_de": 9600,
-        "posicao": "5% mais ricos"
+        "renda_per_capita_acima_de": 6900,
+        "posicao": "5% mais ricos (P95)"
       },
       {
-        "renda_per_capita_media": 24973,
-        "posicao": "1% mais rico (média)"
+        "renda_per_capita_acima_de": 15214,
+        "posicao": "1% mais rico (P99)"
       }
     ],
     "fonte": {
-      "nome": "IBGE — PNAD Contínua: Rendimento de todas as fontes 2025 (Informativo, 08/05/2026)",
-      "url": "https://biblioteca.ibge.gov.br/visualizacao/livros/liv102275_informativo.pdf",
+      "nome": "IBGE/SIDRA — tabela 7438: limites superiores das classes de percentual do rendimento domiciliar per capita (PNAD Contínua anual, via API, acesso 21/10/2026)",
+      "url": "https://sidra.ibge.gov.br/tabela/7438",
       "acesso_em": "2026-10-21",
       "tier": "oficial"
     }
@@ -629,21 +777,456 @@
         "acesso_em": "2026-10-21",
         "tier": "imprensa"
       }
+    },
+    "grandes_numeros_2025_ano_calendario_2024": {
+      "descricao": "Receita Federal, Tabela 8 (agregação nacional da nota; faixas em salários mínimos de 2024 = R$ 1.412; rendimentos = tributáveis + tributação exclusiva + isentos; coluna 'imposto_devido'). Ressalva: a planilha apresenta inconsistências de unidade nas faixas baixas.",
+      "colunas": [
+        "faixa",
+        "declarantes",
+        "pct_declarantes",
+        "rend_tributavel_bi",
+        "rend_exclusiva_bi",
+        "rend_isentos_bi",
+        "imposto_devido_bi",
+        "imposto_sobre_renda_total_pct"
+      ],
+      "linhas": [
+        [
+          "Até 1/2 SM",
+          1533178,
+          3.7,
+          0.9,
+          0.4,
+          0.5,
+          0.0,
+          0.0
+        ],
+        [
+          "1/2 a 1 SM",
+          579453,
+          1.4,
+          5.8,
+          0.6,
+          1.3,
+          0.0,
+          0.0
+        ],
+        [
+          "1 a 2 SM",
+          3964807,
+          9.5,
+          90.3,
+          4.5,
+          13.1,
+          0.0,
+          0.0
+        ],
+        [
+          "2 a 3 SM",
+          8787703,
+          21.1,
+          310.7,
+          24.0,
+          37.1,
+          2.1,
+          0.6
+        ],
+        [
+          "3 a 5 SM",
+          10908688,
+          26.2,
+          553.5,
+          49.2,
+          112.3,
+          19.6,
+          2.7
+        ],
+        [
+          "5 a 7 SM",
+          5134482,
+          12.3,
+          380.1,
+          38.1,
+          94.2,
+          30.3,
+          5.9
+        ],
+        [
+          "7 a 10 SM",
+          3828156,
+          9.2,
+          378.5,
+          43.2,
+          118.3,
+          45.0,
+          8.3
+        ],
+        [
+          "10 a 15 SM",
+          2954484,
+          7.1,
+          391.9,
+          53.4,
+          162.0,
+          58.7,
+          9.7
+        ],
+        [
+          "15 a 20 SM",
+          1369171,
+          3.3,
+          234.0,
+          38.9,
+          127.0,
+          39.3,
+          9.8
+        ],
+        [
+          "20 a 30 SM",
+          1220520,
+          2.9,
+          259.4,
+          53.3,
+          188.1,
+          46.8,
+          9.4
+        ],
+        [
+          "30 a 40 SM",
+          528766,
+          1.3,
+          140.0,
+          35.5,
+          132.4,
+          26.6,
+          8.7
+        ],
+        [
+          "40 a 60 SM",
+          408200,
+          1.0,
+          120.8,
+          42.1,
+          170.9,
+          23.6,
+          7.1
+        ],
+        [
+          "60 a 80 SM",
+          163394,
+          0.4,
+          54.0,
+          24.9,
+          111.3,
+          10.8,
+          5.7
+        ],
+        [
+          "80 a 160 SM",
+          183592,
+          0.4,
+          70.5,
+          46.8,
+          220.4,
+          14.6,
+          4.3
+        ],
+        [
+          "160 a 240 SM",
+          46045,
+          0.1,
+          22.9,
+          21.1,
+          107.2,
+          4.9,
+          3.2
+        ],
+        [
+          "240 a 320 SM",
+          21076,
+          0.05,
+          12.7,
+          13.4,
+          72.2,
+          2.7,
+          2.8
+        ],
+        [
+          "Mais de 320 SM (> R$ 452 mil/mês)",
+          44776,
+          0.1,
+          59.8,
+          143.9,
+          701.7,
+          12.7,
+          1.4
+        ]
+      ],
+      "total": {
+        "declarantes": 41676491,
+        "rend_tributavel_bi": 3085.9,
+        "rend_exclusiva_bi": 633.3,
+        "rend_isentos_bi": 2370.0,
+        "imposto_devido_bi": 338.1,
+        "imposto_sobre_renda_total_pct": 5.6
+      },
+      "leitura": "Até 2 SM (6,1 mi, 14,6%) praticamente não devem imposto; 2 a 5 SM (19,7 mi, 47,3%) devem R$ 21,7 bi (6,4%); 5 a 10 SM (9,0 mi, 21,5%) devem R$ 75,4 bi (22,3%); 10 a 40 SM (6,1 mi, 14,6%) devem R$ 171,5 bi (50,7%); acima de 40 SM (867 mil, 2,1%) devem R$ 69,4 bi (20,5%). A razão imposto/renda sobe de 0,6% a 9,8% até 15-20 SM e cai a 1,4% acima de 320 SM, porque R$ 701,7 bi dos R$ 905 bi de renda do topo são isentos. Universo do IRPFM (> R$ 600 mil/ano ≈ 35 SM/mês de 2024): a faixa 'mais de 320 SM' (44,8 mil) e parte das faixas de 80 a 320 SM (250 mil).",
+      "tabela_9_lucros_dividendos_e_socios_do_simples": {
+        "declarantes": 6405596,
+        "rendimentos_isentos_bi": 1582,
+        "acima_de_320_sm": {
+          "declarantes": 36286,
+          "rendimentos_isentos_bi": 583,
+          "pct_do_total_isento": 36.8
+        }
+      },
+      "fonte": {
+        "nome": "Receita Federal — Grandes Números IRPF 2025 (ano-calendário 2024), Tabelas 8 e 9 (planilha; agregação da nota)",
+        "url": "https://www.gov.br/receitafederal/pt-br/centrais-de-conteudo/publicacoes/estudos/imposto-de-renda/estudos-por-ano/grandes-numeros-do-IRPF-2008-a-2025/grandes-numeros-do-irpf-2025-ano-calendario-2024-tabelas/view",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    "aliquota_efetiva_media_por_faixa_sm_dieese_2022_pct": {
+      "valores": {
+        "1-2 SM": 0.57,
+        "2-3 SM": 1.53,
+        "3-5 SM": 3.26,
+        "5-7 SM": 6.02,
+        "7-10 SM": 8.74,
+        "10-15 SM": 10.71,
+        "15-20 SM": 11.34,
+        "20-30 SM": 11.14,
+        "30-40 SM": 10.8,
+        "40-60 SM": 9.37,
+        "60-80 SM": 7.98,
+        "80-160 SM": 6.73,
+        "160-240 SM": 5.74,
+        "240-320 SM": 5.4,
+        "> 320 SM": 4.87
+      },
+      "fonte": {
+        "nome": "DIEESE — Nota Técnica 284 (21/03/2025): defasagem da tabela do IR e alíquota efetiva por faixa (dados RFB 2022)",
+        "url": "https://sindipetronf.org.br/wp-content/uploads/2025/03/notaTec284IR.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      }
+    },
+    "concentracao_no_topo_ipea_2022": {
+      "1_pct": {
+        "adultos": 1540000,
+        "renda_anual_a_partir_de": 389900,
+        "parcela_renda_pct": 23.6,
+        "parcela_rendimentos_do_capital_pct_aprox": 70
+      },
+      "0_1_pct": {
+        "adultos": 153700,
+        "renda_anual_a_partir_de": 1620000,
+        "parcela_renda_pct": 11.9
+      },
+      "0_01_pct": {
+        "adultos": 15400,
+        "renda_anual_a_partir_de": 8950000,
+        "parcela_renda_pct": 5.8
+      },
+      "aliquota_maxima_por_centil": {
+        "cenario_100_pct_irpj_imputado": {
+          "percentil": 98,
+          "renda_media": 516000,
+          "aliquota_pct": 14.2,
+          "ultimo_centil_pct": 13.3
+        },
+        "cenario_intermediario": {
+          "percentil": 97,
+          "renda_media": 423000,
+          "aliquota_pct": 13.2,
+          "ultimo_centil_pct": 10.3,
+          "milesimo_mais_rico_pct": 9.7,
+          "renda_media_milesimo": 14000000
+        }
+      },
+      "socios_do_simples": {
+        "pessoas": 38400,
+        "renda_media": 1600000,
+        "aliquota_media_pct": 7.4,
+        "comparacao": "menos que um assalariado de R$ 4,5 mil/mês"
+      },
+      "fonte": {
+        "nome": "Ipea — Carta de Conjuntura 65, Nota 8: progressividade tributária (Sérgio Gobetti, 29/10/2024)",
+        "url": "https://www.ipea.gov.br/cartadeconjuntura/wp-content/uploads/2024/10/241029_cc_65_nota_8_progressividade_tributaria.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    "top_1_pct_renda_disponivel_bruta_gobetti": {
+      "descricao": "Participação do 1% e do 0,1% mais ricos na Renda Disponível Bruta das famílias (IRPF + Contas Nacionais); bases RB2 (2006-2021) e RB4 (2017-2023). Ver série top-1-por-cento-renda-irpf.",
+      "2017_rb4_pct": 20.4,
+      "2023_rb4_pct": 24.3,
+      "decomposicao_ganho_3_9_pp": {
+        "dividendos_e_jcp_pp": 3.4,
+        "outras_rendas_de_capital_pp": 1.2,
+        "salarios_e_beneficios_pp": -1.6
+      },
+      "0_1_pct": {
+        "2017": 9.1,
+        "2023": 12.5,
+        "ganho_vindo_de_dividendos_e_jcp_pct": 66.1
+      },
+      "limiares_2023": {
+        "1_pct_renda_anual_acima_de": 1700000,
+        "faixa_1_pct_menos_0_1_pct": [
+          360000,
+          1700000
+        ]
+      },
+      "pessoas_no_1_pct_2023": 1601786,
+      "renda_media_anual_1_pct_2023": 1158580,
+      "populacao_adulta_2023": 160178633,
+      "por_uf_2023": {
+        "SP": 569168,
+        "RJ": 179524,
+        "MG": 146214,
+        "RS": 112132,
+        "PR": 104521,
+        "DF_pct_populacao_adulta": 2.86,
+        "MA_pct_populacao_adulta": 0.21
+      },
+      "declarantes_2023": 40670592,
+      "renda_total_declarada_2023_trilhoes": 5.62,
+      "fonte": {
+        "nome": "Dutra, Monteiro e Gobetti — 'Concentração de renda no Brasil: o que os dados do IRPF revelam' (FiscalData, 14/08/2025), Tabelas 2, 3, A1 e A2",
+        "url": "https://static.poder360.com.br/2025/08/Concentracao-de-renda-no-Brasil-o-que-os-dados-do-IRPF-revelam-14-ago-2025.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      }
     }
   },
   "inflacao_por_faixa_de_renda_2025": {
-    "descricao": "Ipea — inflação fechada de 2025 por faixa de renda (renda muito baixa = renda familiar abaixo de R$ 2.202,02/mês)",
-    "renda_muito_baixa_pct": 3.81,
-    "ipca_pct": 4.26,
-    "renda_alta_pct": 4.72,
-    "em_2024": {
-      "renda_muito_baixa_pct": 4.91,
-      "ipca_pct": 4.83,
-      "renda_alta_pct": 4.43
+    "descricao": "Ipea — inflação anual (dez/dez) por faixa de renda domiciliar; faixas em R$ de jan/2026 (ver série inflacao-por-faixa-de-renda).",
+    "faixas": {
+      "muito_baixa_ate": 2299.82,
+      "baixa_ate": 3449.73,
+      "media_baixa_ate": 5749.55,
+      "media_ate": 11499.11,
+      "media_alta_ate": 22998.22,
+      "alta_acima_de": 22998.22,
+      "unidade": "renda domiciliar mensal em R$ de jan/2026"
+    },
+    "anos": [
+      "2018",
+      "2019",
+      "2020",
+      "2021",
+      "2022",
+      "2023",
+      "2024",
+      "2025",
+      "2026 (jan-ago)"
+    ],
+    "muito_baixa": [
+      3.37,
+      4.42,
+      6.22,
+      10.08,
+      6.35,
+      3.27,
+      4.91,
+      3.81,
+      3.12
+    ],
+    "baixa": [
+      3.43,
+      4.35,
+      5.43,
+      10.1,
+      6.05,
+      3.72,
+      5.02,
+      4.05,
+      3.27
+    ],
+    "media_baixa": [
+      3.5,
+      4.26,
+      4.8,
+      10.4,
+      5.6,
+      4.28,
+      4.86,
+      4.13,
+      3.11
+    ],
+    "media": [
+      3.69,
+      4.31,
+      3.97,
+      10.26,
+      5.68,
+      4.83,
+      4.86,
+      4.29,
+      3.04
+    ],
+    "media_alta": [
+      3.9,
+      4.12,
+      3.37,
+      9.66,
+      5.64,
+      5.15,
+      4.78,
+      4.52,
+      2.96
+    ],
+    "alta": [
+      3.9,
+      4.18,
+      2.74,
+      9.54,
+      6.81,
+      6.22,
+      4.43,
+      4.72,
+      3.05
+    ],
+    "dif_muito_baixa_menos_alta_pp": [
+      -0.53,
+      0.24,
+      3.48,
+      0.54,
+      -0.46,
+      -2.95,
+      0.48,
+      -0.91,
+      0.07
+    ],
+    "acumulado_por_governo_calculo_proprio": {
+      "2019_2022": {
+        "muito_baixa_pct": 29.8,
+        "alta_pct": 25.2
+      },
+      "2023_2025": {
+        "muito_baixa_pct": 12.5,
+        "alta_pct": 16.2
+      }
+    },
+    "ago_2026": {
+      "ipca_mes": -0.32,
+      "muito_baixa_mes": -0.4,
+      "alta_mes": -0.34,
+      "acumulado_12m_ipca": 4.22,
+      "acumulado_12m_muito_baixa": 3.85,
+      "acumulado_12m_alta": 4.63
     },
     "fonte": {
-      "nome": "Ipea — Carta de Conjuntura 69, Nota 19: inflação por faixa de renda (12/12/2025)",
-      "url": "https://www.ipea.gov.br/cartadeconjuntura/wp-content/uploads/2025/12/251212_cc_69_nota_19_ifr_nov25.pdf",
+      "nome": "Ipea — Inflação por faixa de renda, tabela (xlsx, 15/09/2026)",
+      "url": "https://www.ipea.gov.br/cartadeconjuntura/wp-content/uploads/2026/09/260915_inflacao-por-faixa-de-renda_tabela.xlsx",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    "fonte_notas": {
+      "nome": "Ipea — Carta de Conjuntura 72, Nota 13: inflação por faixa de renda, agosto/2026 (15/09/2026)",
+      "url": "https://www.ipea.gov.br/cartadeconjuntura/wp-content/uploads/2026/09/260915_cc_72_nota_13_ifr_ago_26.pdf",
       "acesso_em": "2026-10-21",
       "tier": "oficial"
     }
@@ -658,7 +1241,72 @@
       "url": "https://jornalgrandebahia.com.br/2026/03/inadimplencia-no-brasil-atinge-817-milhoes-e-cresce-38-em-uma-decada-aponta-serasa/",
       "acesso_em": "2026-10-21",
       "tier": "imprensa"
-    }
+    },
+    "bcb_sgs": {
+      "descricao": "Endividamento das famílias com o SFN (% da renda acumulada em 12 meses, SGS 29037) e comprometimento de renda com serviço da dívida (SGS 29034, dessazonalizado); o BCB não publica por faixa de renda.",
+      "endividamento_dez": {
+        "2018": 39.02,
+        "2019": 41.46,
+        "2020": 41.78,
+        "2021": 49.48,
+        "2022": 49.14,
+        "2023": 47.75,
+        "2024": 48.45,
+        "2025": 49.7
+      },
+      "endividamento_2026": {
+        "jan": 49.92,
+        "fev": 49.81,
+        "mar": 49.85,
+        "abr": 49.88,
+        "mai": 49.82,
+        "jun": 49.65,
+        "jul": 49.86
+      },
+      "endividamento_exceto_habitacional_dez": {
+        "2018": 23.21,
+        "2019": 25.51,
+        "2020": 25.62,
+        "2021": 31.03,
+        "2022": 31.16,
+        "2023": 29.86,
+        "2024": 30.3,
+        "2025": 31.16,
+        "jul_2026": 30.81
+      },
+      "comprometimento_renda_dez": {
+        "2018": 22.58,
+        "2019": 22.65,
+        "2020": 21.84,
+        "2021": 25.58,
+        "2022": 27.57,
+        "2023": 25.84,
+        "2024": 26.8,
+        "2025": 28.09
+      },
+      "comprometimento_renda_2026": {
+        "jan": 28.23,
+        "fev": 28.27,
+        "mar": 28.24,
+        "abr": 28.38,
+        "mai": 28.47,
+        "jun": 28.66,
+        "jul": 28.72
+      },
+      "comprometimento_exceto_habitacional": {
+        "dez_2022": 25.48,
+        "dez_2025": 25.73,
+        "jul_2026": 26.43
+      },
+      "maximo_da_serie": "28,72% em jul/2026",
+      "fonte": {
+        "nome": "Banco Central — SGS 29037/29038/29034/29035: endividamento e comprometimento de renda das famílias (API)",
+        "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.29037/dados?formato=json&dataInicial=01/12/2018",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    "pessoas_com_divida_no_cartao_a_juros_acima_de_100_pct_aa": 101000000
   },
   "medidas": [
     "lei-15270-2025-isencao-ir-5-mil-e-ir-minimo",
@@ -697,25 +1345,1723 @@
     "programa-lula-2026-6x1-e-continuidade"
   ],
   "notas": [
-    "Valores da PNAD a preços médios de 2025; os décimos trazem médias dentro de cada classe, não limites entre classes. Parcelas da massa dos décimos 2 a 9 são leitura de gráfico do IBGE (aproximadas).",
-    "A mediana é inferência da nota (em torno de 1 SM de 2025); a mediana oficial e os percentis P50/P90/P99 não foram acessados (SIDRA 7531/7545).",
-    "Renda individual de R$ 5-7,35 mil corresponde aproximadamente aos 10-15% de maior renda do trabalho; o IR mínimo atinge ~141 mil pessoas (~0,1% dos adultos). Cerca de 73% dos adultos não declaram IRPF, logo medidas de IRPF atingem diretamente só a metade superior da distribuição (inferências da nota).",
-    "A PNAD subcapta o topo: capta só 1/11,67 da renda do 0,01% registrada no IRPF; o 1% mais rico no IRPF corresponde a renda anual acima de R$ 1,7 milhão (Dutra, Monteiro e Gobetti, 2025).",
-    "Juros altos (Selic 14,75% em mar/2026) penalizam famílias de até 2 SM (78% dos negativados) e beneficiam detentores de renda financeira concentrados no 1%.",
+    "Valores da PNAD por décimo a preços médios de 2025 (SIDRA 7533); os limites de percentil (SIDRA 7438, 7536) são nominais a preços de cada ano. Décimos trazem médias dentro de cada classe; para posicionar o usuário use os limites (P80 = R$ 2.958; P90 = R$ 4.609; P95 = R$ 6.900; P99 = R$ 15.214 em 2025). Parcelas da massa confirmadas na SIDRA 7527.",
+    "Mediana oficial 2025: R$ 1.490 (SIDRA 7438), 98,2% do SM de 2025; a inferência anterior (R$ 1,4-1,5 mil) estava correta.",
+    "Renda individual do trabalho de R$ 5-7,35 mil corresponde ao intervalo entre o percentil ~82-85 e o ~91 dos ocupados com rendimento (P80 = R$ 4.470; P90 = R$ 6.985 em 2025); o IR mínimo atinge ~141 mil pessoas (~0,1% dos adultos). Cerca de 73% dos adultos não declaram IRPF.",
+    "A PNAD subcapta o topo: capta só 1/11,67 da renda do 0,01% registrada no IRPF; o 1% mais rico no IRPF corresponde a renda anual acima de R$ 1,7 milhão (1.601.786 pessoas em 2023, renda média de R$ 1.158.580/ano).",
+    "Grandes Números IRPF 2025 (AC 2024): 41,68 mi declarantes; imposto devido R$ 338,1 bi (5,6% da renda total); razão imposto/renda cai de 9,8% (15-20 SM) para 1,4% (> 320 SM) pela isenção de dividendos.",
+    "Inflação por faixa (Ipea): 2019-2022 a inflação da renda muito baixa (+29,8%) superou a da renda alta (+25,2%); 2023-2025 inverteu (+12,5% vs +16,2%) pela deflação de alimentos.",
+    "Juros altos (Selic 14,75% em mar/2026) penalizam famílias de até 2 SM (78% dos negativados) e beneficiam detentores de renda financeira; comprometimento de renda com dívidas atingiu 28,72% em jul/2026 (máximo da série).",
     "Não há simulação independente por faixa de renda dos programas de 2026 de Lula e Flávio; só de medidas isoladas (IFI para o IR; FGV IBRE para o Bolsa Família; CNI/Dieese/Warren Rena para a 6x1)."
   ],
   "lacunas": [
-    "Mediana oficial e limites de percentil da PNAD 2025 não obtidos; distribuição por faixas fixas de SM (até 1/4, 1/2, 1, 2 SM) com nº de pessoas não obtida (SIDRA 7531/7545; portal do IBGE devolveu 403).",
-    "Número de pessoas por décimo não consta das notas (campo 'pessoas' nulo).",
-    "Cortes por sexo e cor/raça da PNAD 2025 e rendimento por posição na ocupação não acessados.",
-    "Tabelas oficiais por faixa de SM dos Grandes Números do IRPF (declarantes, imposto devido e alíquota efetiva por faixa) existem só em Excel na página da Receita; não extraídas. Nº de pessoas com renda acima de R$ 50 mil/mês e R$ 20 mil/mês não obtido.",
-    "Totais 2026 do Cadastro Único e do BPC não obtidos.",
-    "Distribuição por classes (A 2,9% ... DE 27,9%) é de fonte secundária sem edição/ano identificados."
+    "Grandes Números IRPF do AC 2023 por faixa de SM (Tabelas 5, 6, 8, 9, 19) não extraídos (Excel inacessível); para o AC 2024 a Tabela 8 foi agregada pela nota, com ressalva de inconsistências de unidade nas faixas baixas. Nº de pessoas acima de R$ 20 mil e R$ 50 mil/mês só por aproximação (faixas de SM).",
+    "Totais oficiais de 2026 do Cadastro Único e do BPC (MDS VIS Data/INSS): só proxies — CadÚnico jul/2025 (41,67 mi famílias); BPC set/2026 via Ipeadata (6,62 mi); imprensa fala em 6,02 mi e 'mais de 11 milhões de famílias' em revisão (não verificados).",
+    "Cortes por sexo e cor/raça da renda domiciliar per capita por décimo não existem nas tabelas 7438/7521 (só o total Brasil); há renda do trabalho por sexo e raça (7444/7441) e Gini por região (7435).",
+    "Endividamento por faixa de renda (BCB/Relatório de Economia Bancária) não obtido; só a série agregada do SGS e indicações qualitativas (FGV IBRE/LCA).",
+    "Bolsa Família por estado em out/2026 e Decreto 13.120/2026 (confirmação da linha de R$ 218): não localizados.",
+    "Distribuição por classes (A 2,9% ... DE 27,9%) é de fonte secundária sem edição/ano identificados; UBS: motivo da revisão de 433 mil para ~377 mil milionários em 2024 não verificado.",
+    "Tabela 7531 (décimos 'a preços médios do ano'): confirmar base de preços na documentação do SIDRA antes de comparar com divulgações anteriores."
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/13_renda_por_faixa_e_simulacoes_de_impacto.md",
   "notas_brutas_adicionais": [
     "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/12_pix_fake_news_e_impostos_quem_paga.md",
     "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/03_emprego_renda_pobreza_social.md"
   ],
-  "atualizado_em": "2026-10-21"
+  "atualizado_em": "2026-10-21",
+  "percentis_renda_domiciliar_per_capita": {
+    "descricao": "Limites superiores das classes de percentual, Brasil, R$ nominais a preços médios de cada ano (SIDRA 7438). Para 'onde você está': em 2025, acima de R$ 2.958 (P80) = 20% mais ricos; acima de R$ 4.609 (P90) = 10% mais ricos; acima de R$ 6.900 (P95) = 5% mais ricos; acima de R$ 15.214 (P99) = 1% mais rico.",
+    "anos": [
+      "2012",
+      "2014",
+      "2016",
+      "2018",
+      "2019",
+      "2020",
+      "2021",
+      "2022",
+      "2023",
+      "2024",
+      "2025"
+    ],
+    "limites": {
+      "P5": [
+        90,
+        121,
+        114,
+        103,
+        107,
+        145,
+        94,
+        177,
+        232,
+        276,
+        299
+      ],
+      "P10": [
+        147,
+        188,
+        197,
+        201,
+        210,
+        252,
+        203,
+        298,
+        348,
+        405,
+        451
+      ],
+      "P20": [
+        229,
+        291,
+        306,
+        333,
+        347,
+        395,
+        356,
+        460,
+        544,
+        626,
+        694
+      ],
+      "P30": [
+        311,
+        386,
+        433,
+        473,
+        498,
+        527,
+        496,
+        612,
+        708,
+        815,
+        906
+      ],
+      "P40": [
+        403,
+        499,
+        550,
+        608,
+        649,
+        672,
+        635,
+        798,
+        917,
+        1029,
+        1154
+      ],
+      "P50": [
+        507,
+        633,
+        694,
+        770,
+        824,
+        834,
+        810,
+        996,
+        1178,
+        1328,
+        1490
+      ],
+      "P60": [
+        630,
+        755,
+        874,
+        966,
+        1002,
+        1034,
+        1050,
+        1210,
+        1379,
+        1526,
+        1697
+      ],
+      "P70": [
+        797,
+        974,
+        1079,
+        1209,
+        1274,
+        1261,
+        1269,
+        1502,
+        1745,
+        1964,
+        2158
+      ],
+      "P80": [
+        1075,
+        1299,
+        1477,
+        1637,
+        1728,
+        1676,
+        1723,
+        2009,
+        2350,
+        2607,
+        2958
+      ],
+      "P90": [
+        1706,
+        2050,
+        2378,
+        2614,
+        2714,
+        2628,
+        2724,
+        3186,
+        3702,
+        4026,
+        4609
+      ],
+      "P95": [
+        2693,
+        3235,
+        3706,
+        4061,
+        4190,
+        4054,
+        4249,
+        4929,
+        5656,
+        6027,
+        6900
+      ],
+      "P99": [
+        6386,
+        7468,
+        8616,
+        9877,
+        10306,
+        9800,
+        10223,
+        10766,
+        12795,
+        13316,
+        15214
+      ]
+    },
+    "anos_adicionais": {
+      "P50": {
+        "2013": 569,
+        "2015": 671,
+        "2017": 727
+      },
+      "P90": {
+        "2013": 1907,
+        "2015": 2175,
+        "2017": 2446
+      },
+      "P99": {
+        "2013": 7028,
+        "2015": 7755,
+        "2017": 9042
+      }
+    },
+    "razao_p90_p10": {
+      "2012": 11.6,
+      "2019": 12.9,
+      "2025": 10.2,
+      "calculo_proprio_da_nota": true
+    },
+    "fonte": {
+      "nome": "IBGE/SIDRA — tabela 7438: limites superiores das classes de percentual do rendimento domiciliar per capita (PNAD Contínua anual, via API, acesso 21/10/2026)",
+      "url": "https://sidra.ibge.gov.br/tabela/7438",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    }
+  },
+  "pessoas_por_classe_2025_mil": {
+    "valores": {
+      "total": 212624,
+      "ate_p5": 10789,
+      "p5_p10": 10513,
+      "ate_p10": 21302,
+      "p10_p20": 21227,
+      "p20_p30": 21276,
+      "p30_p40": 21223,
+      "p40_p50": 21397,
+      "p50_p60": 21139,
+      "p60_p70": 21271,
+      "p70_p80": 21242,
+      "p80_p90": 21280,
+      "acima_p90": 21265,
+      "p90_p95": 10634,
+      "p95_p99": 8503,
+      "acima_p99": 2128
+    },
+    "leitura": "cada décimo tem ≈21,2-21,4 milhões de pessoas; o 1% mais rico tem ≈2,1 milhões",
+    "fonte": {
+      "nome": "IBGE/SIDRA — tabela 7521: população residente por classe de percentual (PNAD Contínua anual, via API, acesso 21/10/2026)",
+      "url": "https://sidra.ibge.gov.br/tabela/7521",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    }
+  },
+  "renda_media_por_classe_2012_2025": {
+    "descricao": "Rendimento domiciliar per capita médio por classe, R$ a preços médios de 2025 (SIDRA 7533).",
+    "anos": [
+      "2012",
+      "2013",
+      "2014",
+      "2015",
+      "2016",
+      "2017",
+      "2018",
+      "2019",
+      "2020",
+      "2021",
+      "2022",
+      "2023",
+      "2024",
+      "2025"
+    ],
+    "valores": {
+      "Total": [
+        1782,
+        1840,
+        1891,
+        1830,
+        1806,
+        1811,
+        1879,
+        1904,
+        1820,
+        1692,
+        1809,
+        2018,
+        2118,
+        2264
+      ],
+      "Até P5": [
+        93,
+        107,
+        118,
+        108,
+        86,
+        74,
+        72,
+        72,
+        75,
+        49,
+        99,
+        137,
+        161,
+        166
+      ],
+      "Até P10": [
+        171,
+        188,
+        203,
+        192,
+        165,
+        152,
+        150,
+        150,
+        173,
+        117,
+        187,
+        230,
+        260,
+        268
+      ],
+      "P10-P20": [
+        392,
+        414,
+        441,
+        428,
+        395,
+        392,
+        396,
+        399,
+        439,
+        352,
+        433,
+        493,
+        544,
+        568
+      ],
+      "P20-P30": [
+        563,
+        594,
+        626,
+        610,
+        573,
+        570,
+        583,
+        592,
+        626,
+        526,
+        625,
+        695,
+        754,
+        791
+      ],
+      "P30-P40": [
+        737,
+        778,
+        814,
+        797,
+        753,
+        755,
+        770,
+        788,
+        807,
+        702,
+        802,
+        894,
+        975,
+        1027
+      ],
+      "P40-P50": [
+        943,
+        990,
+        1036,
+        1008,
+        966,
+        972,
+        995,
+        1018,
+        1015,
+        901,
+        1017,
+        1139,
+        1228,
+        1311
+      ],
+      "P50-P60": [
+        1196,
+        1253,
+        1291,
+        1265,
+        1226,
+        1240,
+        1274,
+        1307,
+        1276,
+        1158,
+        1279,
+        1414,
+        1495,
+        1560
+      ],
+      "P60-P70": [
+        1469,
+        1526,
+        1578,
+        1544,
+        1492,
+        1511,
+        1547,
+        1581,
+        1529,
+        1427,
+        1535,
+        1698,
+        1819,
+        1913
+      ],
+      "P70-P80": [
+        1924,
+        1991,
+        2060,
+        2005,
+        1958,
+        1962,
+        2031,
+        2075,
+        1968,
+        1847,
+        1996,
+        2205,
+        2355,
+        2494
+      ],
+      "P80-P90": [
+        2786,
+        2884,
+        2974,
+        2880,
+        2857,
+        2849,
+        2949,
+        2978,
+        2806,
+        2675,
+        2873,
+        3164,
+        3366,
+        3590
+      ],
+      "Acima P90": [
+        7638,
+        7782,
+        7880,
+        7569,
+        7670,
+        7704,
+        8094,
+        8147,
+        7566,
+        7213,
+        7337,
+        8256,
+        8385,
+        9117
+      ],
+      "P90-P95": [
+        4383,
+        4600,
+        4687,
+        4505,
+        4528,
+        4476,
+        4682,
+        4655,
+        4394,
+        4193,
+        4436,
+        4954,
+        5150,
+        5519
+      ],
+      "P95-P99": [
+        8215,
+        8369,
+        8588,
+        8102,
+        8274,
+        8352,
+        8632,
+        8651,
+        8071,
+        7787,
+        7831,
+        8809,
+        8843,
+        9648
+      ],
+      "Acima P99": [
+        21591,
+        21332,
+        21015,
+        20727,
+        20957,
+        21252,
+        23005,
+        23593,
+        21399,
+        20000,
+        19875,
+        22540,
+        22716,
+        24973
+      ]
+    },
+    "variacao_real_por_governo_pct": {
+      "colunas": [
+        "2012→2014 (Dilma 1)",
+        "2014→2016 (Dilma 2/crise)",
+        "2016→2018 (Temer)",
+        "2018→2022 (Bolsonaro)",
+        "2022→2025 (Lula 3)",
+        "2012→2025"
+      ],
+      "Total": [
+        6.1,
+        -4.5,
+        4.0,
+        -3.7,
+        25.2,
+        27.0
+      ],
+      "Até P10": [
+        18.7,
+        -18.7,
+        -9.1,
+        24.7,
+        43.3,
+        56.7
+      ],
+      "P10-P20": [
+        12.5,
+        -10.4,
+        0.3,
+        9.3,
+        31.2,
+        44.9
+      ],
+      "P20-P30": [
+        11.2,
+        -8.5,
+        1.7,
+        7.2,
+        26.6,
+        40.5
+      ],
+      "P30-P40": [
+        10.4,
+        -7.5,
+        2.3,
+        4.2,
+        28.1,
+        39.3
+      ],
+      "P40-P50": [
+        9.9,
+        -6.8,
+        3.0,
+        2.2,
+        28.9,
+        39.0
+      ],
+      "P50-P60": [
+        7.9,
+        -5.0,
+        3.9,
+        0.4,
+        22.0,
+        30.4
+      ],
+      "P60-P70": [
+        7.4,
+        -5.4,
+        3.7,
+        -0.8,
+        24.6,
+        30.2
+      ],
+      "P70-P80": [
+        7.1,
+        -5.0,
+        3.7,
+        -1.7,
+        24.9,
+        29.6
+      ],
+      "P80-P90": [
+        6.7,
+        -3.9,
+        3.2,
+        -2.6,
+        25.0,
+        28.9
+      ],
+      "Acima P90": [
+        3.2,
+        -2.7,
+        5.5,
+        -9.4,
+        24.3,
+        19.4
+      ],
+      "Acima P99": [
+        -2.7,
+        -0.3,
+        9.8,
+        -13.6,
+        25.7,
+        15.7
+      ]
+    },
+    "variacao_calculo_proprio_da_nota": true,
+    "leitura": "2018→2022: renda média −3,7%, 10% mais pobres +24,7% (Auxílio Emergencial/Auxílio Brasil), décimo mais rico −9,4%; 2022→2025: todos os décimos +22% a +43%, 1º décimo +43,3% e topo +24-26% acompanhando a média; 2016→2018: 1º décimo −9,1% e 1% mais rico +9,8%. Anos 2020-2022 com ressalva de comparabilidade (pandemia).",
+    "fonte": {
+      "nome": "IBGE/SIDRA — tabela 7533: rendimento domiciliar per capita médio por classe, a preços médios de 2025 (PNAD Contínua anual, via API, acesso 21/10/2026)",
+      "url": "https://sidra.ibge.gov.br/tabela/7533",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    }
+  },
+  "parcela_da_massa_por_classe_2012_2025_pct": {
+    "anos": [
+      "2012",
+      "2013",
+      "2014",
+      "2015",
+      "2016",
+      "2017",
+      "2018",
+      "2019",
+      "2020",
+      "2021",
+      "2022",
+      "2023",
+      "2024",
+      "2025"
+    ],
+    "valores": {
+      "Até P10": [
+        1.0,
+        1.0,
+        1.1,
+        1.1,
+        0.9,
+        0.9,
+        0.8,
+        0.8,
+        0.9,
+        0.7,
+        1.0,
+        1.1,
+        1.2,
+        1.2
+      ],
+      "P10-P20": [
+        2.2,
+        2.3,
+        2.3,
+        2.4,
+        2.2,
+        2.2,
+        2.1,
+        2.1,
+        2.4,
+        2.1,
+        2.4,
+        2.4,
+        2.6,
+        2.5
+      ],
+      "P20-P30": [
+        3.2,
+        3.3,
+        3.3,
+        3.3,
+        3.2,
+        3.1,
+        3.1,
+        3.1,
+        3.4,
+        3.1,
+        3.5,
+        3.4,
+        3.6,
+        3.5
+      ],
+      "P30-P40": [
+        4.1,
+        4.2,
+        4.3,
+        4.4,
+        4.2,
+        4.2,
+        4.1,
+        4.2,
+        4.4,
+        4.1,
+        4.5,
+        4.4,
+        4.6,
+        4.5
+      ],
+      "P40-P50": [
+        5.3,
+        5.4,
+        5.5,
+        5.5,
+        5.4,
+        5.4,
+        5.3,
+        5.3,
+        5.6,
+        5.3,
+        5.6,
+        5.6,
+        5.8,
+        5.8
+      ],
+      "P50-P60": [
+        6.7,
+        6.8,
+        6.8,
+        6.9,
+        6.7,
+        6.9,
+        6.8,
+        6.9,
+        7.0,
+        6.9,
+        7.0,
+        7.0,
+        7.0,
+        6.9
+      ],
+      "P60-P70": [
+        8.2,
+        8.3,
+        8.3,
+        8.5,
+        8.3,
+        8.4,
+        8.2,
+        8.2,
+        8.4,
+        8.4,
+        8.6,
+        8.4,
+        8.6,
+        8.5
+      ],
+      "P70-P80": [
+        10.8,
+        10.8,
+        10.9,
+        11.0,
+        10.9,
+        10.9,
+        10.8,
+        10.9,
+        10.8,
+        10.9,
+        11.0,
+        10.9,
+        11.1,
+        11.0
+      ],
+      "P80-P90": [
+        15.6,
+        15.6,
+        15.7,
+        15.7,
+        15.8,
+        15.7,
+        15.7,
+        15.6,
+        15.4,
+        15.9,
+        15.9,
+        15.7,
+        15.9,
+        15.9
+      ],
+      "Acima P90": [
+        42.8,
+        42.2,
+        41.6,
+        41.3,
+        42.4,
+        42.5,
+        43.1,
+        42.8,
+        41.5,
+        42.6,
+        40.5,
+        40.9,
+        39.6,
+        40.3
+      ],
+      "P90-P95": [
+        12.3,
+        12.5,
+        12.4,
+        12.3,
+        12.5,
+        12.3,
+        12.5,
+        12.2,
+        12.1,
+        12.4,
+        12.3,
+        12.3,
+        12.2,
+        12.2
+      ],
+      "P95-P99": [
+        18.4,
+        18.2,
+        18.2,
+        17.7,
+        18.3,
+        18.5,
+        18.4,
+        18.2,
+        17.8,
+        18.4,
+        17.3,
+        17.4,
+        16.7,
+        17.0
+      ],
+      "Acima P99": [
+        12.1,
+        11.6,
+        11.1,
+        11.3,
+        11.6,
+        11.7,
+        12.2,
+        12.4,
+        11.7,
+        11.8,
+        11.0,
+        11.2,
+        10.7,
+        11.0
+      ]
+    },
+    "fonte": {
+      "nome": "IBGE/SIDRA — tabela 7527: parcela da massa de rendimento domiciliar per capita por classe (PNAD Contínua anual, via API, acesso 21/10/2026)",
+      "url": "https://sidra.ibge.gov.br/tabela/7527",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    }
+  },
+  "renda_do_trabalho": {
+    "percentis_rendimento_habitual_ocupados_com_rendimento": {
+      "descricao": "Limites superiores das classes de percentual do rendimento habitual de todos os trabalhos, R$ nominais a preços médios de cada ano (SIDRA 7536); 101,6 milhões de ocupados com rendimento em 2025.",
+      "anos": [
+        "2019",
+        "2022",
+        "2024",
+        "2025"
+      ],
+      "P5": [
+        297,
+        396,
+        449,
+        498
+      ],
+      "P10": [
+        495,
+        599,
+        748,
+        801
+      ],
+      "P20": [
+        966,
+        1184,
+        1390,
+        1504
+      ],
+      "P30": [
+        999,
+        1208,
+        1432,
+        1536
+      ],
+      "P40": [
+        1189,
+        1381,
+        1623,
+        1829
+      ],
+      "P50": [
+        1399,
+        1590,
+        1991,
+        2037
+      ],
+      "P60": [
+        1601,
+        1984,
+        2455,
+        2546
+      ],
+      "P70": [
+        2000,
+        2474,
+        2987,
+        3055
+      ],
+      "P80": [
+        2805,
+        3075,
+        3983,
+        4470
+      ],
+      "P90": [
+        4441,
+        4985,
+        6030,
+        6985
+      ],
+      "P95": [
+        6978,
+        7949,
+        9955,
+        10174
+      ],
+      "P99": [
+        17174,
+        19284,
+        20334,
+        24839
+      ],
+      "fonte": {
+        "nome": "IBGE/SIDRA — tabela 7536: limites de percentil do rendimento habitual de todos os trabalhos (PNAD Contínua anual, via API, acesso 21/10/2026)",
+        "url": "https://sidra.ibge.gov.br/tabela/7536",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    "pessoas_por_classe_2025_mil": {
+      "valores": {
+        "ate_p10": 10138,
+        "p10_p20": 10213,
+        "p20_p30": 10174,
+        "p30_p40": 10073,
+        "p40_p50": 10702,
+        "p50_p60": 9340,
+        "p60_p70": 10497,
+        "p70_p80": 10172,
+        "p80_p90": 10143,
+        "acima_p90": 10174,
+        "p95_p99": 4077,
+        "acima_p99": 1019
+      },
+      "fonte": {
+        "nome": "IBGE/SIDRA — tabela 7537: pessoas ocupadas com rendimento por classe de percentual (PNAD Contínua anual, via API, acesso 21/10/2026)",
+        "url": "https://sidra.ibge.gov.br/tabela/7537",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    "leitura": "Em 2025 metade dos ocupados com rendimento ganhava até R$ 2.037 (1,34 SM); P20 (R$ 1.504) e P30 (R$ 1.536) cercam o SM de R$ 1.518. A faixa da isenção do IR (R$ 5.000-7.350) fica entre o P80 (R$ 4.470) e pouco acima do P90 (R$ 6.985): isenção plena a partir do percentil ~82-85 e fim do redutor em torno do ~91 (inferência da nota). A lei se aplica à renda tributável total (inclui aposentadorias).",
+    "rendimento_medio_real_por_sexo_e_cor_raca": {
+      "descricao": "Rendimento médio mensal real habitual de todos os trabalhos, R$ a preços médios de 2025 (SIDRA 7444 e 7441).",
+      "anos": [
+        "2012",
+        "2014",
+        "2016",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025"
+      ],
+      "Total": [
+        3083,
+        3280,
+        3164,
+        3217,
+        3204,
+        3310,
+        3101,
+        3032,
+        3249,
+        3368,
+        3560
+      ],
+      "Homens": [
+        3462,
+        3672,
+        3498,
+        3539,
+        3545,
+        3637,
+        3382,
+        3334,
+        3569,
+        3710,
+        3921
+      ],
+      "Mulheres": [
+        2539,
+        2726,
+        2700,
+        2780,
+        2742,
+        2848,
+        2700,
+        2626,
+        2823,
+        2917,
+        3085
+      ],
+      "Branca": [
+        3934,
+        4176,
+        4111,
+        4168,
+        4163,
+        4281,
+        4007,
+        3847,
+        4185,
+        4326,
+        4577
+      ],
+      "Preta": [
+        2265,
+        2409,
+        2284,
+        2364,
+        2331,
+        2407,
+        2260,
+        2303,
+        2443,
+        2580,
+        2657
+      ],
+      "Parda": [
+        2239,
+        2399,
+        2281,
+        2398,
+        2393,
+        2452,
+        2324,
+        2346,
+        2482,
+        2615,
+        2755
+      ],
+      "razoes_calculo_proprio": {
+        "mulheres_homens_pct": {
+          "2012": 73.3,
+          "2025": 78.7
+        },
+        "pretos_brancos_pct": {
+          "2012": 57.6,
+          "2025": 58.0
+        },
+        "pardos_brancos_pct": {
+          "2012": 56.9,
+          "2025": 60.2
+        }
+      },
+      "fonte": {
+        "nome": "IBGE/SIDRA — tabela 7444: rendimento médio real do trabalho por sexo (PNAD Contínua anual, via API, acesso 21/10/2026)",
+        "url": "https://sidra.ibge.gov.br/tabela/7444",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "fonte_cor_raca": {
+        "nome": "IBGE/SIDRA — tabela 7441: rendimento médio real do trabalho por cor ou raça (PNAD Contínua anual, via API, acesso 21/10/2026)",
+        "url": "https://sidra.ibge.gov.br/tabela/7441",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    }
+  },
+  "gini_por_regiao": {
+    "descricao": "Gini do rendimento domiciliar per capita por grande região (SIDRA 7435).",
+    "anos": [
+      "2012",
+      "2014",
+      "2016",
+      "2018",
+      "2019",
+      "2020",
+      "2021",
+      "2022",
+      "2023",
+      "2024",
+      "2025"
+    ],
+    "Brasil": [
+      0.54,
+      0.526,
+      0.537,
+      0.545,
+      0.543,
+      0.523,
+      0.543,
+      0.517,
+      0.517,
+      0.504,
+      0.511
+    ],
+    "Norte": [
+      0.544,
+      0.518,
+      0.523,
+      0.551,
+      0.538,
+      0.495,
+      0.528,
+      0.508,
+      0.5,
+      0.488,
+      0.492
+    ],
+    "Nordeste": [
+      0.546,
+      0.532,
+      0.543,
+      0.546,
+      0.559,
+      0.525,
+      0.555,
+      0.515,
+      0.507,
+      0.499,
+      0.503
+    ],
+    "Sudeste": [
+      0.516,
+      0.509,
+      0.523,
+      0.534,
+      0.528,
+      0.517,
+      0.533,
+      0.504,
+      0.506,
+      0.49,
+      0.5
+    ],
+    "Sul": [
+      0.478,
+      0.458,
+      0.463,
+      0.473,
+      0.466,
+      0.455,
+      0.461,
+      0.456,
+      0.452,
+      0.457,
+      0.458
+    ],
+    "Centro-Oeste": [
+      0.533,
+      0.509,
+      0.514,
+      0.512,
+      0.505,
+      0.496,
+      0.513,
+      0.491,
+      0.496,
+      0.485,
+      0.506
+    ],
+    "anos_adicionais": {
+      "2013": {
+        "Brasil": 0.532,
+        "Norte": 0.54,
+        "Nordeste": 0.538,
+        "Sudeste": 0.512,
+        "Sul": 0.465,
+        "Centro-Oeste": 0.516
+      },
+      "2015": {
+        "Brasil": 0.524,
+        "Norte": 0.524,
+        "Nordeste": 0.533,
+        "Sudeste": 0.508,
+        "Sul": 0.451,
+        "Centro-Oeste": 0.509
+      },
+      "2017": {
+        "Brasil": 0.539,
+        "Norte": 0.53,
+        "Nordeste": 0.556,
+        "Sudeste": 0.521,
+        "Sul": 0.466,
+        "Centro-Oeste": 0.521
+      }
+    },
+    "sis_2025_gini_2024": {
+      "Brasil": 0.5044,
+      "Nordeste": 0.4995,
+      "Sudeste": 0.4898,
+      "Sul": 0.4569,
+      "fonte": {
+        "nome": "IBGE — SIS 2025, Tabela 2.18 (planilha oficial): proporção de pessoas abaixo das linhas de pobreza, 2012-2024",
+        "url": "https://ftp.ibge.gov.br/Indicadores_Sociais/Sintese_de_Indicadores_Sociais/Sintese_de_Indicadores_Sociais_2025/Tabelas/xls/2_Distribuicao_Renda_xls.zip",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    "fonte": {
+      "nome": "IBGE/SIDRA — tabela 7435: índice de Gini do rendimento domiciliar per capita (PNAD Contínua anual, via API, acesso 21/10/2026)",
+      "url": "https://sidra.ibge.gov.br/tabela/7435",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    }
+  },
+  "pessoas_com_rendimento_por_tipo_2025": {
+    "todas_as_fontes": 143026000,
+    "todas_as_fontes_pct": 67.2,
+    "trabalho_habitual": 101627000,
+    "trabalho_habitual_pct": 47.8,
+    "trabalho_efetivo": 99413000,
+    "outras_fontes": 57601000,
+    "outras_fontes_pct": 27.1,
+    "aposentadoria_e_pensao": 29300000,
+    "aposentadoria_pct": 13.8,
+    "aluguel_e_arrendamento": 4002000,
+    "pensao_alimenticia_doacao_mesada": 4876000,
+    "programas_sociais_do_governo": 19447000,
+    "programas_sociais_pct": 9.1,
+    "outros_rendimentos": 4133000,
+    "fonte": {
+      "nome": "IBGE/SIDRA — tabela 7426: pessoas com rendimento por tipo (PNAD Contínua anual, via API, acesso 21/10/2026)",
+      "url": "https://sidra.ibge.gov.br/tabela/7426",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    }
+  },
+  "cesta_basica_dieese_set_2026": {
+    "descricao": "Custo da cesta por capital, variação mensal, % do salário mínimo líquido (após 7,5% de INSS) e tempo de trabalho ao SM de R$ 1.621 (DIEESE, set/2026). Ver série cesta-basica-por-capital.",
+    "capitais": [
+      {
+        "capital": "São Paulo",
+        "cesta": 922.51,
+        "var_mes_pct": 2.43,
+        "pct_sm_liquido": 61.52,
+        "tempo_trabalho": "125h12m"
+      },
+      {
+        "capital": "Florianópolis",
+        "cesta": 915.62,
+        "var_mes_pct": 7.61,
+        "pct_sm_liquido": 61.06,
+        "tempo_trabalho": "124h16m"
+      },
+      {
+        "capital": "Rio de Janeiro",
+        "cesta": 913.46,
+        "var_mes_pct": 7.32,
+        "pct_sm_liquido": 60.92,
+        "tempo_trabalho": "123h58m"
+      },
+      {
+        "capital": "Cuiabá",
+        "cesta": 891.24,
+        "var_mes_pct": 4.66,
+        "pct_sm_liquido": 59.44,
+        "tempo_trabalho": "120h58m"
+      },
+      {
+        "capital": "Porto Alegre",
+        "cesta": 889.15,
+        "var_mes_pct": 5.93,
+        "pct_sm_liquido": 59.3,
+        "tempo_trabalho": "120h40m"
+      },
+      {
+        "capital": "Curitiba",
+        "cesta": 841.93,
+        "var_mes_pct": 5.39,
+        "pct_sm_liquido": 56.15,
+        "tempo_trabalho": "114h16m"
+      },
+      {
+        "capital": "Vitória",
+        "cesta": 829.14,
+        "var_mes_pct": 4.95,
+        "pct_sm_liquido": 55.3,
+        "tempo_trabalho": "112h32m"
+      },
+      {
+        "capital": "Goiânia",
+        "cesta": 808.01,
+        "var_mes_pct": 4.54,
+        "pct_sm_liquido": 53.89,
+        "tempo_trabalho": "109h40m"
+      },
+      {
+        "capital": "Campo Grande",
+        "cesta": 806.56,
+        "var_mes_pct": 0.18,
+        "pct_sm_liquido": 53.79,
+        "tempo_trabalho": "109h28m"
+      },
+      {
+        "capital": "Belo Horizonte",
+        "cesta": 802.99,
+        "var_mes_pct": 5.72,
+        "pct_sm_liquido": 53.55,
+        "tempo_trabalho": "108h59m"
+      },
+      {
+        "capital": "Fortaleza",
+        "cesta": 779.96,
+        "var_mes_pct": 3.23,
+        "pct_sm_liquido": 52.02,
+        "tempo_trabalho": "105h52m"
+      },
+      {
+        "capital": "Brasília",
+        "cesta": 773.78,
+        "var_mes_pct": 5.37,
+        "pct_sm_liquido": 51.61,
+        "tempo_trabalho": "105h01m"
+      },
+      {
+        "capital": "Palmas",
+        "cesta": 752.68,
+        "var_mes_pct": 4.75,
+        "pct_sm_liquido": 50.2,
+        "tempo_trabalho": "102h09m"
+      },
+      {
+        "capital": "Belém",
+        "cesta": 731.62,
+        "var_mes_pct": 3.17,
+        "pct_sm_liquido": 48.79,
+        "tempo_trabalho": "99h17m"
+      },
+      {
+        "capital": "Macapá",
+        "cesta": 720.01,
+        "var_mes_pct": 2.47,
+        "pct_sm_liquido": 48.02,
+        "tempo_trabalho": "97h43m"
+      },
+      {
+        "capital": "Boa Vista",
+        "cesta": 699.75,
+        "var_mes_pct": 0.24,
+        "pct_sm_liquido": 46.67,
+        "tempo_trabalho": "94h58m"
+      },
+      {
+        "capital": "Teresina",
+        "cesta": 698.55,
+        "var_mes_pct": 1.27,
+        "pct_sm_liquido": 46.59,
+        "tempo_trabalho": "94h49m"
+      },
+      {
+        "capital": "São Luís",
+        "cesta": 692.94,
+        "var_mes_pct": 4.71,
+        "pct_sm_liquido": 46.21,
+        "tempo_trabalho": "94h02m"
+      },
+      {
+        "capital": "Porto Velho",
+        "cesta": 691.25,
+        "var_mes_pct": 3.98,
+        "pct_sm_liquido": 46.1,
+        "tempo_trabalho": "93h49m"
+      },
+      {
+        "capital": "Rio Branco",
+        "cesta": 678.35,
+        "var_mes_pct": 2.83,
+        "pct_sm_liquido": 45.24,
+        "tempo_trabalho": "92h04m"
+      },
+      {
+        "capital": "Manaus",
+        "cesta": 676.18,
+        "var_mes_pct": 1.53,
+        "pct_sm_liquido": 45.1,
+        "tempo_trabalho": "91h46m"
+      },
+      {
+        "capital": "Recife",
+        "cesta": 663.48,
+        "var_mes_pct": 3.18,
+        "pct_sm_liquido": 44.25,
+        "tempo_trabalho": "90h03m"
+      },
+      {
+        "capital": "João Pessoa",
+        "cesta": 660.21,
+        "var_mes_pct": 2.98,
+        "pct_sm_liquido": 44.03,
+        "tempo_trabalho": "89h36m"
+      },
+      {
+        "capital": "Natal",
+        "cesta": 635.6,
+        "var_mes_pct": 1.3,
+        "pct_sm_liquido": 42.39,
+        "tempo_trabalho": "86h16m"
+      },
+      {
+        "capital": "Salvador",
+        "cesta": 634.67,
+        "var_mes_pct": 0.92,
+        "pct_sm_liquido": 42.33,
+        "tempo_trabalho": "86h08m"
+      },
+      {
+        "capital": "Maceió",
+        "cesta": 631.28,
+        "var_mes_pct": 0.61,
+        "pct_sm_liquido": 42.1,
+        "tempo_trabalho": "85h41m"
+      },
+      {
+        "capital": "Aracaju",
+        "cesta": 587.76,
+        "var_mes_pct": 2.94,
+        "pct_sm_liquido": 39.2,
+        "tempo_trabalho": "79h46m"
+      }
+    ],
+    "tempo_medio_27_capitais": {
+      "set_2026": "102h11m",
+      "ago_2026": "98h37m",
+      "set_2025": "99h53m"
+    },
+    "salario_minimo_necessario": {
+      "set_2026": 7750.01,
+      "set_2026_em_sm": 4.78,
+      "ago_2026": 7565.86,
+      "ago_2026_em_sm": 4.67,
+      "set_2025": 7075.83,
+      "set_2025_em_sm": 4.66
+    },
+    "fonte": {
+      "nome": "DIEESE — Pesquisa Nacional da Cesta Básica de Alimentos, setembro/2026, Tabela 1 (PDF, 09/10/2026)",
+      "url": "https://www.dieese.org.br/analisecestabasica/2026/202609cestabasica.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    }
+  },
+  "salario_minimo_necessario_dieese": {
+    "descricao": "SM nominal / SM necessário (família de 4) / razão (cálculo próprio da nota). Ver série salario-minimo-necessario-dieese.",
+    "pontos": [
+      {
+        "periodo": "dez/2019",
+        "sm": 998,
+        "sm_necessario": 4342.57,
+        "razao": 4.35
+      },
+      {
+        "periodo": "dez/2020",
+        "sm": 1045,
+        "sm_necessario": 5304.9,
+        "razao": 5.08
+      },
+      {
+        "periodo": "dez/2021",
+        "sm": 1100,
+        "sm_necessario": 5800.98,
+        "razao": 5.27
+      },
+      {
+        "periodo": "dez/2022",
+        "sm": 1212,
+        "sm_necessario": 6647.63,
+        "razao": 5.49
+      },
+      {
+        "periodo": "dez/2023",
+        "sm": 1320,
+        "sm_necessario": 6439.62,
+        "razao": 4.88
+      },
+      {
+        "periodo": "dez/2024",
+        "sm": 1412,
+        "sm_necessario": 7067.68,
+        "razao": 5.01
+      },
+      {
+        "periodo": "dez/2025",
+        "sm": 1518,
+        "sm_necessario": 7106.83,
+        "razao": 4.68
+      },
+      {
+        "periodo": "jan/2026",
+        "sm": 1621,
+        "sm_necessario": 7177.57,
+        "razao": 4.43
+      },
+      {
+        "periodo": "fev/2026",
+        "sm": 1621,
+        "sm_necessario": 7164.94,
+        "razao": null
+      },
+      {
+        "periodo": "mar/2026",
+        "sm": 1621,
+        "sm_necessario": 7425.99,
+        "razao": null
+      },
+      {
+        "periodo": "abr/2026",
+        "sm": 1621,
+        "sm_necessario": 7612.49,
+        "razao": null
+      },
+      {
+        "periodo": "mai/2026",
+        "sm": 1621,
+        "sm_necessario": 7999.44,
+        "razao": null
+      },
+      {
+        "periodo": "jun/2026",
+        "sm": 1621,
+        "sm_necessario": 8110.92,
+        "razao": null
+      },
+      {
+        "periodo": "jul/2026",
+        "sm": 1621,
+        "sm_necessario": 7687.01,
+        "razao": null
+      },
+      {
+        "periodo": "ago/2026",
+        "sm": 1621,
+        "sm_necessario": 7565.86,
+        "razao": 4.67
+      },
+      {
+        "periodo": "set/2026",
+        "sm": 1621,
+        "sm_necessario": 7750.01,
+        "razao": 4.78
+      }
+    ],
+    "jan_2019": {
+      "sm": 998,
+      "sm_necessario": 3928.73,
+      "razao": 3.94
+    },
+    "fonte": {
+      "nome": "DIEESE — Salário mínimo nominal e necessário (série mensal)",
+      "url": "https://www.dieese.org.br/analisecestabasica/salarioMinimo.html",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    }
+  },
+  "programas_sociais_totais_oficiais": {
+    "bolsa_familia_familias_dez": {
+      "2019": 13238457,
+      "2020": 14274018,
+      "2021": 14184940,
+      "2022": 20975152,
+      "2023": 20884006,
+      "2024": 20444419,
+      "2025": 18618236,
+      "ago_2026_aprox": 19300000,
+      "beneficio_medio_dez": {
+        "2023": 654.64,
+        "2024": 682.38,
+        "2025": 677.43
+      },
+      "beneficio_medio_ago_2026": 678.35,
+      "fonte": {
+        "nome": "Ipeadata — FAM_PBF: famílias do Bolsa Família em dezembro (MDS/Portal da Transparência)",
+        "url": "http://www.ipeadata.gov.br/api/odata4/ValoresSerie(SERCODIGO='FAM_PBF')",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    "bolsa_familia_domicilios_pnad": {
+      "2019": 10006000,
+      "2024": 14388000,
+      "2025": 13638000,
+      "total_domicilios_2025": 79305000,
+      "fonte": {
+        "nome": "IBGE/SIDRA — tabela 7457: domicílios com Bolsa Família e BPC (PNAD Contínua anual, via API, acesso 21/10/2026)",
+        "url": "https://sidra.ibge.gov.br/tabela/7457",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    "bpc_beneficios_dez": {
+      "2019": 4626185,
+      "2020": 4657978,
+      "2021": 4708582,
+      "2022": 5115806,
+      "2023": 5710833,
+      "2024": 6292449,
+      "2025": 6385830,
+      "ago_2026": 6522255,
+      "set_2026": 6620994,
+      "fonte": {
+        "nome": "Ipeadata — PES_BPC: benefícios do BPC em dezembro (MDS)",
+        "url": "http://www.ipeadata.gov.br/api/odata4/ValoresSerie(SERCODIGO='PES_BPC')",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    "bpc_valor_anual_bi": {
+      "2019": 55.5,
+      "2020": 58.2,
+      "2021": 61.8,
+      "2022": 70.9,
+      "2023": 85.1,
+      "2024": 102.3,
+      "2025": 116.6,
+      "jan_set_2026": 93.4,
+      "valor_mensal_set_2026": 10.73,
+      "projecao_pldo_2026": 133.4,
+      "soma_calculo_proprio_da_nota": true,
+      "fonte": {
+        "nome": "Ipeadata — VAL_BPC: valor mensal do BPC (MDS)",
+        "url": "http://www.ipeadata.gov.br/api/odata4/ValoresSerie(SERCODIGO='VAL_BPC')",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    "bpc_domicilios_pnad": {
+      "2019": 2478000,
+      "2024": 3900000,
+      "2025": 4196000,
+      "fonte": {
+        "nome": "IBGE/SIDRA — tabela 7457: domicílios com Bolsa Família e BPC (PNAD Contínua anual, via API, acesso 21/10/2026)",
+        "url": "https://sidra.ibge.gov.br/tabela/7457",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    "cadastro_unico_jul_2025": {
+      "familias": 41674821,
+      "pessoas": 95366582,
+      "mulheres_pct": 57.1,
+      "nao_brancas_pct": 70,
+      "0_a_14_anos_pct": 30.1,
+      "familias_ate_meio_sm_per_capita_pct": 65.9,
+      "fonte": {
+        "nome": "Sebrae/MDS — Relatório Técnico 'Empreendedorismo nas Famílias de Baixa Renda' (fev/2026), dados do CadÚnico de jul/2025",
+        "url": "https://datasebrae.com.br/wp-content/uploads/2026/02/Relatorio-Tecnico-Empreendedorismo-nas-Familias-de-Baixa-Renda_v4-pos-MDS.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    "pobreza_ibge_sis_2025_linha_6_85_pct": {
+      "2012": 34.73,
+      "2013": 32.48,
+      "2014": 30.88,
+      "2015": 31.72,
+      "2016": 33.75,
+      "2017": 33.79,
+      "2018": 33.44,
+      "2019": 32.61,
+      "2020": 31.06,
+      "2021": 36.77,
+      "2022": 31.65,
+      "2023": 27.3,
+      "2024": 23.11,
+      "fonte": {
+        "nome": "IBGE — SIS 2025, Tabela 2.18 (planilha oficial): proporção de pessoas abaixo das linhas de pobreza, 2012-2024",
+        "url": "https://ftp.ibge.gov.br/Indicadores_Sociais/Sintese_de_Indicadores_Sociais/Sintese_de_Indicadores_Sociais_2025/Tabelas/xls/2_Distribuicao_Renda_xls.zip",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    "extrema_pobreza_ibge_sis_2025_linha_2_15_pct": {
+      "2012": 6.59,
+      "2013": 5.84,
+      "2014": 5.19,
+      "2015": 5.65,
+      "2016": 6.74,
+      "2017": 7.3,
+      "2018": 7.38,
+      "2019": 7.37,
+      "2020": 6.05,
+      "2021": 9.02,
+      "2022": 5.87,
+      "2023": 4.4,
+      "2024": 3.47,
+      "fonte": {
+        "nome": "IBGE — SIS 2025, Tabela 2.18 (planilha oficial): proporção de pessoas abaixo das linhas de pobreza, 2012-2024",
+        "url": "https://ftp.ibge.gov.br/Indicadores_Sociais/Sintese_de_Indicadores_Sociais/Sintese_de_Indicadores_Sociais_2025/Tabelas/xls/2_Distribuicao_Renda_xls.zip",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    }
+  }
 }

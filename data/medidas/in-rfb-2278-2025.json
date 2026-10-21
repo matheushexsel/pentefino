@@ -5,18 +5,18 @@
   "governo": "lula-3",
   "lado": "governo-lula-pt",
   "norma": {
-    "nome": "Instrução Normativa RFB 2.278, de 28/08/2025 (DOU 29/08/2025)",
+    "nome": "Instrução Normativa RFB 2.278, de 28/08/2025 (DOU 29/08/2025; vigor na publicação); remete à IN RFB 1.571/2015 (limites de R$ 2 mil PF / R$ 6 mil PJ)",
     "data": "2025-08-28",
-    "url": "https://www.mattosfilho.com.br/unico/instituicoes-pagamento-entregar-e-financeira/",
+    "url": "https://www.in.gov.br/web/dou/-/instrucao-normativa-rfb-n-2.278-de-28-de-agosto-de-2025-651968141",
     "vigencia": "Em vigor desde 29/08/2025, com dados retroativos a janeiro/2025"
   },
   "status": "em-vigor",
   "o_que_faz_simples": [
-    "Estende a e-Financeira (informe de totais movimentados por cliente) a instituições de pagamento, reguladas ou não pelo Banco Central, participantes de arranjos de pagamento e empresas de split payment; todas as contas de pagamento devem ser informadas, incluindo operações via Pix.",
+    "Texto literal: art. 1º — 'medidas para o combate aos crimes contra a ordem tributária, inclusive aqueles relacionados ao crime organizado'; art. 2º — 'As instituições de pagamento e os participantes de arranjos de pagamentos sujeitam-se às mesmas normas e obrigações acessórias aplicáveis às instituições financeiras [...] relativas à apresentação da e-Financeira, instituída pela Instrução Normativa RFB nº 1.571, de 2 de julho de 2015'; o parágrafo único afasta a exceção do § 4º do art. 6º da Lei 12.865/2013, de modo que todas as contas de pagamento (inclusive via Pix) devem ser informadas.",
     "Editada após as operações Carbono Oculto, Quasar e Tank, que investigaram uso de fintechs pelo crime organizado (PCC). A Receita cobra dados retroativos a janeiro/2025.",
     "As fintechs informam apenas o total movimentado por cliente no período, sem detalhar quem pagou a quem — como os bancos já fazem. Não há imposto.",
     "Materialmente, a obrigação para fintechs revogada em jan/2025 voltou em ago/2025 com escopo até mais amplo, sem a reação pública de 2025. Em jan/2026 Nikolas Ferreira voltou a dizer que a norma voltou 'disfarçada'; a Receita respondeu em 14/01/2026 que não existe tributação nem fiscalização do Pix com esse objetivo e que a disseminação dessas mensagens 'atende a interesses do crime organizado'.",
-    "Piso de reporte vigente em 2026: as fontes divergem (R$ 2 mil/R$ 6 mil vs R$ 5 mil/R$ 15 mil mensais); como a IN 2.278 trata de contas de pagamento 'independentemente do volume', o piso bancário original (R$ 2 mil/R$ 6 mil) é o mais provável — a confirmar na IN."
+    "Piso de reporte vigente em 2026 (lacuna fechada): a IN 2.278 não fixa limites próprios — valem os da IN 1.571/2015, R$ 2.000 (PF) e R$ 6.000 (PJ) de movimentação mensal por tipo de operação (Comprova, 09/09/2025; Cescon Barrieu, 01/09/2025). O piso de R$ 5 mil/R$ 15 mil só existiu na IN 2.219, revogada; as checagens da Lupa (14/01/2026) e do Estadão Verifica (19/01/2026) que falam em R$ 5 mil repetem o limite da norma revogada. Comprova confirma envio semestral de valores agregados (crédito, débito, Pix, TED) e dados retroativos a jan/2025 anunciados por Barreirinhas na Câmara."
   ],
   "quem_ganha": {
     "descricao": "Receita Federal e órgãos de combate à lavagem de dinheiro. Nenhum grupo de renda recebe ou paga dinheiro.",
@@ -59,43 +59,49 @@
   "mitos": [
     {
       "mito": "A 'taxa do Pix' voltou disfarçada em 2025.",
-      "fato": "Tem um fundo factual e uma parte falsa. Factual: a obrigação de fintechs enviarem a e-Financeira, revogada em jan/2025, voltou em ago/2025 (IN 2.278), com escopo mais amplo. Falso: continua não existindo qualquer imposto sobre o Pix; o que é enviado é o total movimentado por cliente, como bancos fazem. A Receita desmentiu novamente em 14/01/2026.",
+      "fato": "Tem um fundo factual e uma parte falsa. Factual: a obrigação de fintechs enviarem a e-Financeira, revogada em jan/2025, voltou em ago/2025 (IN 2.278), com escopo mais amplo e piso de R$ 2 mil/R$ 6 mil (IN 1.571/2015) — mais baixo que os R$ 5 mil da norma revogada. Falso: continua não existindo qualquer imposto sobre o Pix; o que é enviado é o total movimentado por cliente, sem identificação de contrapartes. Lupa (14/01/2026) transcreve o novo vídeo de Nikolas ('Se você movimentar mais que R$ 5 mil no mês pelo Pix [...] a Receita vai saber', mais de 43 milhões de visualizações) e a resposta da Receita: 'não há qualquer taxação sobre o Pix, mesmo naquelas transações acima de R$ 5 mil'.",
       "fontes": [
         {
-          "nome": "Mattos Filho — instituições de pagamento devem entregar a e-Financeira (IN RFB 2.278/2025)",
-          "url": "https://www.mattosfilho.com.br/unico/instituicoes-pagamento-entregar-e-financeira/",
+          "nome": "DOU (in.gov.br) — IN RFB 2.278, de 28/08/2025",
+          "url": "https://www.in.gov.br/web/dou/-/instrucao-normativa-rfb-n-2.278-de-28-de-agosto-de-2025-651968141",
           "acesso_em": "2026-10-21",
-          "tier": "imprensa"
+          "tier": "oficial"
         },
         {
-          "nome": "Fast Company Brasil — Pix vai ser tributado? Veja o que a Receita diz",
-          "url": "https://fastcompanybrasil.com/money/pix-vai-ser-tributado-veja-o-que-a-receita-federal-diz/",
+          "nome": "Comprova — norma que obriga fintechs a informar Receita sobre operações acima de R$ 2 mil já existe para bancos e não tributa Pix (09/09/2025)",
+          "url": "https://projetocomprova.com.br/publica%C3%A7%C3%B5es/norma-que-obriga-fintechs-a-informar-receita-sobre-operacoes-acima-de-r-2-mil-ja-existe-para-bancos-e-nao-tributa-pix/",
           "acesso_em": "2026-10-21",
-          "tier": "imprensa"
+          "tier": "checagem"
         },
         {
-          "nome": "Mercado & Consumo — Receita volta a negar taxação do Pix e alerta para golpes (15/01/2026)",
-          "url": "https://mercadoeconsumo.com.br/15/01/2026/economia/receita-federal-volta-a-negar-taxacao-do-pix-e-alerta-para-golpes/",
+          "nome": "Lupa (Explicador) — governo vai monitorar Pix? Entenda nova regra da Receita (14/01/2026)",
+          "url": "https://www.agencialupa.org/explicador/2026/01/14/governo-vai-monitorar-pix-entenda-nova-regra-da-receita-federal/",
           "acesso_em": "2026-10-21",
-          "tier": "imprensa"
+          "tier": "checagem"
         },
         {
-          "nome": "Congresso em Foco — governo desmente taxação do Pix e rebate vídeo de Nikolas Ferreira (jan/2026)",
-          "url": "https://www.congressoemfoco.com.br/noticia/115510/governo-desmente-taxacao-do-pix-e-rebate-video-de-nikolas-ferreira",
+          "nome": "Estadão Verifica — governo não quebrou sigilo de Pix acima de R$ 5 mil (19/01/2026)",
+          "url": "https://www.estadao.com.br/estadao-verifica/lula-cartao-corporativo-sigilo-eterno-pix-5-mil/",
           "acesso_em": "2026-10-21",
-          "tier": "imprensa"
+          "tier": "checagem"
         }
       ]
     },
     {
       "mito": "O Pix está em queda por causa da fiscalização.",
-      "fato": "Em 2025 o Pix bateu recordes: ~80 bilhões de transações (+25,7% sobre 2024), R$ 35,36 trilhões movimentados (+33,7%), recorde diário de 313,3 milhões em 05/12/2025 e 148,3 milhões de pessoas físicas ativas em dez/2025. Em abr/2026, 142 milhões de brasileiros (93% dos adultos) fizeram ao menos um Pix.",
+      "fato": "Em 2025 o Pix bateu recordes. Imprensa a partir do BCB: ~80 bilhões de transações (+25,7%), R$ 35,36 trilhões (+33,7%), recorde diário de 313,3 milhões em 05/12/2025, 148,3 milhões de PF ativas. Base aberta do BCB (exclui parte das transações): 56,31 bi (2024) → 71,32 bi (2025), +26,7%, R$ 22,12 tri → R$ 29,61 tri (+33,9%); jan-set/2026 = 61,65 bi e R$ 26,80 tri. Não misturar as duas bases; a variação anual é semelhante.",
       "fontes": [
         {
           "nome": "Metrópoles — Pix bate recorde em 2025 e movimenta R$ 35,4 trilhões",
           "url": "https://metropoles.com/brasil/pix-bate-recorde-em-2025-e-movimenta-r-354-trilhoes",
           "acesso_em": "2026-10-21",
           "tier": "imprensa"
+        },
+        {
+          "nome": "BCB — Pix Dados Abertos, EstatisticasTransacoesPix (API Olinda)",
+          "url": "https://olinda.bcb.gov.br/olinda/servico/Pix_DadosAbertos/versao/v1/odata/EstatisticasTransacoesPix(Database=@Database)?@Database='202401'&$format=json",
+          "acesso_em": "2026-10-21",
+          "tier": "oficial"
         }
       ]
     }
@@ -160,12 +166,47 @@
       "url": "https://metropoles.com/brasil/pix-bate-recorde-em-2025-e-movimenta-r-354-trilhoes",
       "acesso_em": "2026-10-21",
       "tier": "imprensa"
+    },
+    {
+      "nome": "DOU (in.gov.br) — IN RFB 2.278, de 28/08/2025",
+      "url": "https://www.in.gov.br/web/dou/-/instrucao-normativa-rfb-n-2.278-de-28-de-agosto-de-2025-651968141",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Comprova — norma que obriga fintechs a informar Receita sobre operações acima de R$ 2 mil já existe para bancos e não tributa Pix (09/09/2025)",
+      "url": "https://projetocomprova.com.br/publica%C3%A7%C3%B5es/norma-que-obriga-fintechs-a-informar-receita-sobre-operacoes-acima-de-r-2-mil-ja-existe-para-bancos-e-nao-tributa-pix/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Cescon Barrieu — fintechs passam a ser obrigadas a apresentar a e-Financeira (01/09/2025)",
+      "url": "https://cesconbarrieu.com.br/fintechs-passam-a-ser-obrigadas-a-apresentar-a-e-financeira/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Lupa (Explicador) — governo vai monitorar Pix? Entenda nova regra da Receita (14/01/2026)",
+      "url": "https://www.agencialupa.org/explicador/2026/01/14/governo-vai-monitorar-pix-entenda-nova-regra-da-receita-federal/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Estadão Verifica — governo não quebrou sigilo de Pix acima de R$ 5 mil (19/01/2026)",
+      "url": "https://www.estadao.com.br/estadao-verifica/lula-cartao-corporativo-sigilo-eterno-pix-5-mil/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "BCB — Pix Dados Abertos, EstatisticasTransacoesPix (API Olinda)",
+      "url": "https://olinda.bcb.gov.br/olinda/servico/Pix_DadosAbertos/versao/v1/odata/EstatisticasTransacoesPix(Database=@Database)?@Database='202401'&$format=json",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/12_pix_fake_news_e_impostos_quem_paga.md",
   "lacunas": [
-    "Limite de reporte mensal vigente em 2026 não confirmado na fonte primária (IN 2.278 / IN 1.571).",
-    "URL oficial da IN 2.278/2025 (Receita/DOU) não consta das notas."
+    "Texto literal da IN RFB 1.571/2015 não lido na fonte primária (portal de normas da Receita não devolve texto; DOU digital não cobre 2015)."
   ],
   "atualizado_em": "2026-10-21"
 }

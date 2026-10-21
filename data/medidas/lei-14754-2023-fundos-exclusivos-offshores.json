@@ -7,8 +7,8 @@
   "norma": {
     "nome": "Lei 14.754/2023 (regulamentada pela IN RFB 2.166)",
     "data": "2023-12-12",
-    "url": "https://www.camara.leg.br/noticias/1025775-SANCIONADA-LEI-COM-NOVA-TRIBUTACAO-PARA-FUNDOS-DE-INVESTIMENTOS-E-OFFSHORES",
-    "vigencia": "Desde 01/01/2024 (sanção com veto parcial em 12/12/2023; DOU 13/12/2023)"
+    "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/L14754.htm",
+    "vigencia": "Sanção com veto parcial em 12/12/2023; DOU 13/12/2023; efeitos desde 01/01/2024. Art. 2º: PF paga 15% no ajuste anual sobre rendimentos de aplicações no exterior; art. 14: atualização de bens no exterior a valor de mercado com alíquota definitiva de 8%; art. 17: fundos passam ao IRRF periódico 'no último dia útil dos meses de maio e novembro' (15% regra geral; 20% curto prazo)."
   },
   "status": "em-vigor",
   "o_que_faz_simples": [
@@ -41,15 +41,15 @@
     }
   },
   "custo_ou_arrecadacao": {
-    "valor": 20,
+    "valor": 20.67,
     "unidade": "R$ bilhões",
-    "periodo": "2024 (estimativa do governo)",
-    "descricao": "Governo projetava ~R$ 20 bi em 2024 (R$ 7,05 bi offshores + R$ 13,28 bi fundos onshore); o relator no Senado falava em ~R$ 13 bi. Resultado parcial: R$ 3,9 bi arrecadados em dez/2023 com o estoque de fundos fechados e offshores (Receita); entrada de janeiro/2024 'acima do esperado' (Tesouro). Arrecadação efetiva de 2024-2025 não localizada.",
+    "periodo": "2024 (realizado, Receita Federal)",
+    "descricao": "Receita Federal (Análise da Arrecadação dez/2024, fatores não recorrentes): 'IRRF-Rendimentos de Capital (tributação fundos exclusivos)' R$ 13,000 bi + 'IRPF (atualização de bens e direitos no exterior)' R$ 7,670 bi = R$ 20,67 bi em 2024, ante estimativa de ~R$ 20,3 bi do governo em 2023 (R$ 7,05 bi + R$ 13,28 bi) e ~R$ 13 bi do relator no Senado. O Tesouro atribui à lei alta de 0,38 p.p. do PIB no IRRF em 2024. Em 2025 o efeito permanente aparece diluído (IRRF-Capital R$ 162,594 bi, +6,42% real; IRPF R$ 78,210 bi, +4,18%, com quotas do ajuste +28,80%); o recorte isolado de 2025 não é publicado.",
     "fonte": {
-      "nome": "Fenacon — Sancionada lei com nova tributação para fundos e offshores",
-      "url": "https://fenacon.org.br/noticias/sancionada-lei-com-nova-tributacao-para-fundos-de-investimentos-e-offshores/",
+      "nome": "Receita Federal — Análise da Arrecadação das Receitas Federais, dez/2024",
+      "url": "https://www.gov.br/receitafederal/pt-br/centrais-de-conteudo/publicacoes/relatorios/arrecadacao-federal/2024/analise-mensal-dez-2024.pdf",
       "acesso_em": "2026-10-21",
-      "tier": "imprensa"
+      "tier": "oficial"
     }
   },
   "regra_simulador": {
@@ -82,24 +82,24 @@
       ]
     },
     {
-      "mito": "A lei já arrecadou os R$ 20 bilhões prometidos.",
-      "fato": "R$ 20 bi era a estimativa do governo para 2024 (o relator do Senado estimava R$ 13 bi). O único resultado localizado é parcial: R$ 3,9 bi em dez/2023 com o estoque. Não há balanço oficial da arrecadação de 2024 e 2025 nas fontes consultadas.",
+      "mito": "A lei dos fundos exclusivos e offshores não arrecadou o que o governo prometeu.",
+      "fato": "Em 2024 a Receita registrou R$ 20,67 bi (R$ 13,0 bi de IRRF sobre o estoque dos fundos + R$ 7,67 bi da atualização de bens no exterior), em linha com a estimativa de ~R$ 20,3 bi do governo e acima dos ~R$ 13 bi previstos pelo relator do Senado. Boa parte era receita não recorrente (estoque até 2023); o efeito permanente de 2025 (come-cotas semestral + 15% das offshores) não é publicado isoladamente.",
       "fontes": [
         {
-          "nome": "NetCPA — secretário fala em 'alegria' por arrecadar R$ 3,9 bi com offshores",
-          "url": "https://netcpa.com.br/colunas/secretario-fala-em-alegria-por-arrecadar-r-39-bi-com-offshores/21476",
+          "nome": "Receita Federal — Análise da Arrecadação das Receitas Federais, dez/2024",
+          "url": "https://www.gov.br/receitafederal/pt-br/centrais-de-conteudo/publicacoes/relatorios/arrecadacao-federal/2024/analise-mensal-dez-2024.pdf",
+          "acesso_em": "2026-10-21",
+          "tier": "oficial"
+        },
+        {
+          "nome": "Poder360 — Pedro Paulo: arrecadação recorde reflete o sucesso da tributação de offshores (07/02/2025)",
+          "url": "https://www.poder360.com.br/opiniao/arrecadacao-recorde-reflete-o-sucesso-da-tributacao-de-offshores/",
           "acesso_em": "2026-10-21",
           "tier": "imprensa"
         },
         {
-          "nome": "Fenacon — Sancionada lei com nova tributação para fundos e offshores",
-          "url": "https://fenacon.org.br/noticias/sancionada-lei-com-nova-tributacao-para-fundos-de-investimentos-e-offshores/",
-          "acesso_em": "2026-10-21",
-          "tier": "imprensa"
-        },
-        {
-          "nome": "Rádio Senado — lei que tributa offshores e fundos exclusivos é sancionada",
-          "url": "https://www12.senado.leg.br/radio/1/noticia/2023/12/14/lei-que-tributa-offshores-e-fundos-exclusivos-e-sancionada",
+          "nome": "Tesouro Nacional — Boletim Carga Tributária do Governo Geral 2024 (28/03/2025, PDF via Poder360)",
+          "url": "https://static.poder360.com.br/2025/03/boletim-carga-tributaria-pib-tesouro-nacional-28mar2025.pdf",
           "acesso_em": "2026-10-21",
           "tier": "oficial"
         }
@@ -166,12 +166,41 @@
       "url": "https://static.poder360.com.br/uploads/2026/08/Programa-Governo-LULA-2026.pdf",
       "acesso_em": "2026-10-21",
       "tier": "partidario"
+    },
+    {
+      "nome": "Planalto — Lei 14.754/2023",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/L14754.htm",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Receita Federal — Análise da Arrecadação das Receitas Federais, dez/2024",
+      "url": "https://www.gov.br/receitafederal/pt-br/centrais-de-conteudo/publicacoes/relatorios/arrecadacao-federal/2024/analise-mensal-dez-2024.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Receita Federal — Análise da Arrecadação, dez/2025 (cópia Poder360)",
+      "url": "https://static.poder360.com.br/2026/01/relatorio-arrecadacao-receita-federal-22jan2026.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Poder360 — Pedro Paulo: arrecadação recorde reflete o sucesso da tributação de offshores (07/02/2025)",
+      "url": "https://www.poder360.com.br/opiniao/arrecadacao-recorde-reflete-o-sucesso-da-tributacao-de-offshores/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Tesouro Nacional — Boletim Carga Tributária do Governo Geral 2024 (28/03/2025, PDF via Poder360)",
+      "url": "https://static.poder360.com.br/2025/03/boletim-carga-tributaria-pib-tesouro-nacional-28mar2025.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/12_pix_fake_news_e_impostos_quem_paga.md",
   "lacunas": [
-    "Balanço oficial (Receita/Tesouro) da arrecadação efetiva de 2024 e 2025 com a Lei 14.754 e com a atualização de 8% não localizado.",
-    "URL oficial do texto da lei (Planalto) não consta das notas.",
+    "Arrecadação isolada de 2025 (come-cotas semestral + 15% das offshores): a Receita não publica recorte por lei; só o efeito não recorrente de 2024 (R$ 20,67 bi) está isolado.",
     "A frase 'patrimônio mínimo típico R$ 10 mi+' não foi encontrada em fonte citável."
   ],
   "atualizado_em": "2026-10-21"

@@ -7,15 +7,16 @@
   "norma": {
     "nome": "Lei 14.973/2024 (DOU edição extra de 16/09/2024, com 4 vetos); antecedente: Lei 14.288/2021 (Bolsonaro) prorrogou a desoneração até 31/12/2023",
     "data": "2024-09-16",
-    "url": "https://www12.senado.leg.br/noticias/materias/2024/09/17/lula-sanciona-com-vetos-reoneracao-gradual-da-folha-de-pagamentos",
-    "vigencia": "Desoneração integral mantida em 2024; transição de 2025 a 2027; fim da CPRB em 2028"
+    "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/L14973.htm",
+    "vigencia": "DOU edição extra de 16/09/2024. Desoneração integral mantida em 2024; transição de 2025 a 2027; fim da CPRB em 2028. Art. 2º: adicional de Cofins-Importação de 0,8% (2025), 0,6% (2026), 0,4% (2027); art. 3º: contribuição patronal dos municípios com coeficiente do FPM < 4,0: 8% até 31/12/2024, 12% em 2025, 16% em 2026, 20% a partir de 01/01/2027; art. 4º: de 2025 a 2027 a empresa optante pela CPRB deve manter ≥ 75% do quadro médio de empregados do ano anterior, sob pena de voltar aos 20% sobre a folha."
   },
   "status": "em-vigor",
   "o_que_faz_simples": [
     "Desde 2011-2012, 17 setores (como tecnologia, call center, construção, transporte) podiam pagar a CPRB (1% a 4,5% sobre a receita) em vez dos 20% de contribuição patronal sobre a folha. A Lei 14.288/2021 (governo Bolsonaro) prorrogou isso até 31/12/2023, com +1% de Cofins-Importação como compensação.",
     "A Lei 14.973/2024 acabou com o benefício aos poucos: desoneração integral em 2024; contribuição sobre a folha de 5% em 2025, 10% em 2026, 15% em 2027 e 20% em 2028 (fim da CPRB).",
     "O adicional de Cofins-Importação cai para 0,8% (2025), 0,6% (2026) e 0,4% (2027).",
-    "Foi um acordo entre o governo Lula e o Congresso, após disputa no STF em 2024."
+    "Foi um acordo entre o governo Lula e o Congresso, após disputa no STF em 2024.",
+    "Também reonera gradualmente os municípios pequenos (coeficiente do FPM abaixo de 4,0): contribuição patronal de 8% até 2024, 12% em 2025, 16% em 2026 e 20% a partir de 2027 (art. 3º). Contrapartida das empresas: manter pelo menos 75% do quadro médio de empregados do ano anterior (art. 4º)."
   ],
   "quem_ganha": {
     "descricao": "Previdência/União (recuperação gradual da receita da contribuição patronal). Valores não constam das notas.",
@@ -68,8 +69,15 @@
         "2026": 0.6,
         "2027": 0.4
       },
-      "fonte_formula": "Agência Senado",
-      "fonte_formula_url": "https://www12.senado.leg.br/noticias/materias/2024/09/17/lula-sanciona-com-vetos-reoneracao-gradual-da-folha-de-pagamentos"
+      "fonte_formula": "Lei 14.973/2024 (Planalto), arts. 2º a 4º; Agência Senado",
+      "fonte_formula_url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/L14973.htm",
+      "municipios_fpm_menor_que_4_contribuicao_patronal_pct_por_ano": {
+        "2024": 8,
+        "2025": 12,
+        "2026": 16,
+        "2027": 20
+      },
+      "contrapartida_emprego_pct_do_quadro_medio": 75
     }
   },
   "mitos": [
@@ -134,12 +142,17 @@
       "url": "https://www.folhavitoria.com.br/politica/bolsonaro-sanciona-lei-que-prorroga-desoneracao-da-folha-de-pagamentos-ate-2023/",
       "acesso_em": "2026-10-21",
       "tier": "imprensa"
+    },
+    {
+      "nome": "Planalto — Lei 14.973/2024",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/L14973.htm",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/12_pix_fake_news_e_impostos_quem_paga.md",
   "lacunas": [
-    "Renúncia fiscal da desoneração e ganho de receita com a reoneração não constam das notas.",
-    "Lista dos 17 setores e regra da CPRB residual durante a transição não detalhadas nas notas."
+    "Lista nominal dos 17 setores (Lei 12.546/2011) e renúncia anual da desoneração/ganho da reoneração não extraídos."
   ],
   "atualizado_em": "2026-10-21"
 }

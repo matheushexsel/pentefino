@@ -7,8 +7,8 @@
   "norma": {
     "nome": "Lei 15.079/2024 (origem: MP 1.262, de 03/10/2024); regulamentação do recolhimento: IN RFB 2.319/2026",
     "data": "2024-12-27",
-    "url": "https://lefosse.com/noticias/alerta/sancionada-a-lei-15-079-que-preve-a-cobranca-de-adicional-de-csll-em-linha-com-as-medidas-de-tributacao-corporativa-minima-global-em-linha-com-o-pilar-2-da-ocde/",
-    "vigencia": "Desde 01/01/2025; primeiro recolhimento em 2026 (DCTFWeb até o 6º mês após o exercício; pagamento até o último dia útil do 7º mês; código de receita 1809)"
+    "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/L15079.htm",
+    "vigencia": "Sanção 27/12/2024; DOU 30/12/2024; art. 43: efeitos a partir de 01/01/2025 (regras GloBE). Art. 2º: adicional da CSLL para 'tributação mínima efetiva de 15%'; art. 4º: grupos com receitas anuais consolidadas ≥ €750.000.000,00 em pelo menos 2 dos 4 anos fiscais anteriores. Primeiro recolhimento em 2026 (IN RFB 2.319/2026)."
   },
   "status": "em-vigor",
   "o_que_faz_simples": [
@@ -141,12 +141,23 @@
       "url": "https://static.poder360.com.br/2025/10/mensagem-presidencial-ploa-2026-trecho-multinacionais.pdf",
       "acesso_em": "2026-10-21",
       "tier": "oficial"
+    },
+    {
+      "nome": "Planalto — Lei 15.079/2024",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/L15079.htm",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Receita Federal — Análise da Arrecadação, ago/2026",
+      "url": "https://www.gov.br/receitafederal/pt-br/centrais-de-conteudo/publicacoes/relatorios/arrecadacao-federal/2026/analise-mensal-ago-2026.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/12_pix_fake_news_e_impostos_quem_paga.md",
   "lacunas": [
-    "Arrecadação efetiva de 2026 (primeiro ano de recolhimento) não localizada.",
-    "URL oficial do texto da lei (Planalto) não consta das notas."
+    "Primeira arrecadação do Adicional da CSLL em 2026: os relatórios de jul e ago/2026 da Receita não destacam a rubrica; o relatório de set/2026 ainda não estava publicado em 21/10/2026."
   ],
   "atualizado_em": "2026-10-21"
 }

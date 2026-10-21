@@ -5,19 +5,19 @@
   "governo": "lula-3",
   "lado": "governo-lula-pt",
   "norma": {
-    "nome": "Decretos 12.466 e 12.467 (mai/2025) e 12.499/2025 (DOU extra 11/06/2025); Decreto Legislativo 176/2025 (27/06/2025) sustou os três; STF (ADI 7827, ADI 7839, ADC 96) restabeleceu o Decreto 12.499 em 16/07/2025, exceto 'risco sacado'",
+    "nome": "Decreto 12.499, de 11/06/2025 (DOU edição extra de 11/06/2025), que revogou os Decretos 12.466 (22/05/2025) e 12.467 (23/05/2025); Decreto Legislativo 176/2025 (27/06/2025) sustou os três; STF (ADI 7827, ADI 7839 e ADC 96, rel. Alexandre de Moraes) restabeleceu o Decreto 12.499 em 16/07/2025, exceto 'risco sacado'",
     "data": "2025-06-11",
-    "url": "https://www.demarest.com.br/majoracao-do-iof-stf-publica-decisao-cautelar-restabelecendo-a-eficacia-do-decreto-no-12-499-2025/",
-    "vigencia": "Em vigor por decisão cautelar do STF (16/07/2025), com efeito retroativo salvo no período de suspensão (04/07 a 16/07/2025); referendo do plenário não localizado"
+    "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/decreto/D12499.htm",
+    "vigencia": "Em vigor por decisão cautelar monocrática do STF (16/07/2025, 'deferido em parte', ad referendum do Plenário), com efeitos ex tunc salvo no período de suspensão (04 a 16/07/2025; esclarecimento de 18/07/2025). Não houve referendo do Plenário nem julgamento de mérito até 26/08/2026 (PGR manifestou-se em 07/07/2026; processo concluso ao relator em 08/07 e 26/08/2026)."
   },
   "status": "em-vigor",
   "o_que_faz_simples": [
-    "Cartões de crédito, débito e pré-pagos internacionais e compra de moeda em espécie: IOF de 3,5%.",
-    "Remessas para conta própria no exterior: 1,1%; transferência de aplicações ao exterior: 0%.",
-    "Crédito para empresas: 0,38% + 0,0082% ao dia (teto de 3,38% ao ano; antes 0,0041% ao dia); empresas do Simples com operações até R$ 30 mil: 0,00274% ao dia.",
-    "Planos VGBL: isenção para aportes até R$ 300 mil/ano em 2025 e até R$ 600 mil/ano a partir de 2026; 5% acima disso.",
+    "Cartões de crédito, débito e pré-pagos internacionais e saques no exterior: IOF de 3,5%; compra de moeda em espécie: 3,5% (art. 15-B do Decreto 6.306/2007).",
+    "Transferência para disponibilidade própria no exterior: 3,5%; com finalidade de investimento: 1,10%; demais saídas: 3,5%; entradas: 0,38%.",
+    "Crédito a empresas (art. 7º): 0,0082% ao dia + adicional de 0,38% (PF e PJ), exceto risco sacado — antes 0,0041% ao dia (teto de 3,38% ao ano); Simples/MEI com operações até R$ 30 mil: 0,00274% ao dia. Os §§ 15, 23 e 24 (risco sacado como operação de crédito) seguem suspensos pelo STF.",
+    "Planos VGBL: 5% sobre aportes que excederem R$ 300 mil/ano em 2025 e R$ 600 mil/ano a partir de 2026 (soma em todas as seguradoras).",
     "O IOF sobre 'risco sacado' (forfait) foi derrubado pelo STF; a Fazenda estimou perda de R$ 450 mi em 2025 e R$ 3,5 bi em 2026 com essa exclusão.",
-    "O Congresso tentou derrubar os decretos (DL 176/2025); o ministro Alexandre de Moraes suspendeu tudo em 04/07/2025 e em 16/07/2025 restabeleceu o Decreto 12.499 ad referendum do plenário. O Tesouro atribui ao IOF parte da alta da carga tributária de 2025 (32,40% do PIB, recorde).",
+    "O Congresso derrubou os decretos (DL 176/2025); Moraes suspendeu tudo em 04/07/2025 e em 16/07/2025 restabeleceu o Decreto 12.499 ad referendum do Plenário — referendo que não ocorreu até 26/08/2026. Arrecadação do IOF (Receita): R$ 68,809 bi em 2024 → R$ 86,477 bi em 2025 (+20,54% real; 2,95% da receita administrada, ante 2,54%); jan-ago/2026: R$ 67,159 bi (+24,11% real). A Receita atribui ao decreto ~R$ 12 bi em 2025 (estimativa de jun/2025: R$ 10 bi). O Tesouro atribui ao IOF parte da alta da carga tributária de 2025 (32,40% do PIB).",
     "O plano de Flávio Bolsonaro propõe extinguir gradualmente o IOF sobre câmbio, como 'exigência para entrar na OCDE'."
   ],
   "quem_ganha": {
@@ -43,36 +43,38 @@
     }
   },
   "custo_ou_arrecadacao": {
-    "valor": null,
+    "valor": 86.48,
     "unidade": "R$ bilhões",
-    "periodo": null,
-    "descricao": "Arrecadação efetiva do IOF 2025 não localizada. Perda com a exclusão do risco sacado: R$ 450 mi (2025) e R$ 3,5 bi (2026), segundo a Fazenda.",
+    "periodo": "2025 (arrecadação total do IOF, Receita Federal)",
+    "descricao": "IOF total: R$ 68,809 bi (2024, +5,49% real) → R$ 86,477 bi (2025, +20,54% real); dez/2025 R$ 8,669 bi (+26,72%); jan-ago/2026 R$ 67,159 bi (+24,11% real). Efeito atribuído ao Decreto 12.499 em 2025: ~R$ 12 bi (Claudemir Malaquias, Receita), acima da estimativa de R$ 10 bi de jun/2025. Perda com a exclusão do risco sacado: R$ 450 mi (2025) e R$ 3,5 bi (2026), segundo a Fazenda.",
     "fonte": {
-      "nome": "Mercado & Consumo — entenda como fica o IOF após decisão do STF (18/07/2025)",
-      "url": "https://mercadoeconsumo.com.br/18/07/2025/noticias/entenda-como-fica-o-iof-apos-decisao-de-ministro-do-stf/",
+      "nome": "Receita Federal — Análise da Arrecadação, dez/2025 (cópia Poder360)",
+      "url": "https://static.poder360.com.br/2026/01/relatorio-arrecadacao-receita-federal-22jan2026.pdf",
       "acesso_em": "2026-10-21",
-      "tier": "imprensa"
+      "tier": "oficial"
     }
   },
   "regra_simulador": {
     "tipo": "percentual",
     "parametros": {
-      "cartao_internacional_e_compra_de_moeda": {
+      "cartao_internacional_saques_exterior_e_moeda_em_especie": {
         "aliquota_pct": 3.5,
-        "base": "valor gasto em cartão internacional ou moeda em espécie, em R$"
+        "base": "valor gasto em cartão internacional, saque no exterior ou moeda em espécie, em R$"
       },
-      "remessa_conta_propria_exterior": {
-        "aliquota_pct": 1.1
+      "transferencia_disponibilidade_propria_exterior": {
+        "aliquota_pct": 3.5,
+        "com_finalidade_de_investimento_pct": 1.1
       },
-      "transferencia_aplicacoes_exterior": {
-        "aliquota_pct": 0
-      },
+      "demais_saidas_pct": 3.5,
+      "entradas_pct": 0.38,
       "credito_pj": {
-        "fixo_pct": 0.38,
+        "adicional_fixo_pct": 0.38,
         "diario_pct": 0.0082,
-        "teto_anual_pct": 3.38
+        "diario_anterior_pct": 0.0041,
+        "teto_anual_pct": 3.38,
+        "excecao": "risco sacado (suspenso pelo STF)"
       },
-      "simples_ate_30_mil": {
+      "simples_mei_ate_30_mil": {
         "diario_pct": 0.00274
       },
       "vgbl": {
@@ -80,35 +82,36 @@
           "2025": 300000,
           "2026_em_diante": 600000
         },
-        "aliquota_acima_pct": 5
+        "aliquota_acima_pct": 5,
+        "base": "soma dos aportes em todas as seguradoras"
       },
-      "vigencia": "desde 16/07/2025 (cautelar STF), retroativo salvo 04-16/07/2025",
-      "fonte_formula": "PwC e Mercado & Consumo",
-      "fonte_formula_url": "https://www.pwc.com.br/pt/consultoria-tributaria-societaria/thinking-about-taxes/tax-legis/2025/iof-alteracoes-decreto-federal-12499-2025.html"
+      "vigencia": "desde 16/07/2025 (cautelar STF, ad referendum), retroativo salvo 04-16/07/2025",
+      "fonte_formula": "Decreto 12.499/2025 (Planalto), arts. 7º e 15-B do Decreto 6.306/2007",
+      "fonte_formula_url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/decreto/D12499.htm"
     }
   },
   "mitos": [
     {
       "mito": "O Congresso derrubou o aumento do IOF e ele não vale mais.",
-      "fato": "O Decreto Legislativo 176/2025 sustou os decretos, mas o STF (Moraes, 16/07/2025) restabeleceu o Decreto 12.499/2025, exceto o IOF sobre 'risco sacado', com efeito retroativo salvo no período de suspensão. As alíquotas de 3,5% (cartão/câmbio), 1,1% (remessas) e as regras de crédito e VGBL seguem em vigor.",
+      "fato": "O Decreto Legislativo 176/2025 sustou os decretos, mas o STF (Moraes, 16/07/2025) restabeleceu o Decreto 12.499/2025, exceto o IOF sobre 'risco sacado', com efeitos ex tunc salvo no período de suspensão. A decisão é cautelar e monocrática: não houve referendo do Plenário nem julgamento de mérito até 26/08/2026. As alíquotas de 3,5% (cartão/câmbio), 1,10% (remessas para investimento) e as regras de crédito e VGBL seguem em vigor, e o IOF arrecadou R$ 86,48 bi em 2025 (+20,54% real).",
       "fontes": [
         {
-          "nome": "Demarest — STF publica decisão cautelar restabelecendo a eficácia do Decreto 12.499/2025",
-          "url": "https://www.demarest.com.br/majoracao-do-iof-stf-publica-decisao-cautelar-restabelecendo-a-eficacia-do-decreto-no-12-499-2025/",
+          "nome": "STF — ADI 7827 (ADI 7839 e ADC 96 apensadas): andamentos",
+          "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7303647",
           "acesso_em": "2026-10-21",
-          "tier": "imprensa"
+          "tier": "oficial"
         },
         {
-          "nome": "Mayer Brown — IOF: preliminary injunction of STF reinstates Decree 12.499/2025",
-          "url": "https://www.mayerbrown.com/en/insights/publications/2025/07/tax-on-financial-transactions-iof-preliminary-injunction-of-stf-reinstates-decree-no-12499-2025-and-suspends-the-levy-of-tax-over-forfait-transactions",
+          "nome": "Planalto — Decreto 12.499/2025 (IOF)",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/decreto/D12499.htm",
           "acesso_em": "2026-10-21",
-          "tier": "imprensa"
+          "tier": "oficial"
         },
         {
-          "nome": "COAD — decisão que restabeleceu aumento do IOF não alcança período de suspensão",
-          "url": "https://www.coad.com.br/home/noticias-detalhe/132953/decisao-que-restabeleceu-aumento-do-iof-nao-alcanca-periodo-de-suspensao-esclarece-stf",
+          "nome": "Receita Federal — Análise da Arrecadação, dez/2025 (cópia Poder360)",
+          "url": "https://static.poder360.com.br/2026/01/relatorio-arrecadacao-receita-federal-22jan2026.pdf",
           "acesso_em": "2026-10-21",
-          "tier": "imprensa"
+          "tier": "oficial"
         }
       ]
     },
@@ -179,13 +182,59 @@
       "url": "https://exame.com/brasil/eleicoes-2026-veja-os-planos-de-economia-de-lula-e-flavio-bolsonaro/",
       "acesso_em": "2026-10-21",
       "tier": "imprensa"
+    },
+    {
+      "nome": "Planalto — Decreto 12.499/2025 (IOF)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/decreto/D12499.htm",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Planalto — Decreto 12.466/2025 (revogado)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/decreto/D12466.htm",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Planalto — Decreto 12.467/2025 (revogado)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/decreto/D12467.htm",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "STF — ADI 7827 (ADI 7839 e ADC 96 apensadas): andamentos",
+      "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7303647",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Receita Federal — Análise da Arrecadação das Receitas Federais, dez/2024",
+      "url": "https://www.gov.br/receitafederal/pt-br/centrais-de-conteudo/publicacoes/relatorios/arrecadacao-federal/2024/analise-mensal-dez-2024.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Receita Federal — Análise da Arrecadação, dez/2025 (cópia Poder360)",
+      "url": "https://static.poder360.com.br/2026/01/relatorio-arrecadacao-receita-federal-22jan2026.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Receita Federal — Análise da Arrecadação, ago/2026",
+      "url": "https://www.gov.br/receitafederal/pt-br/centrais-de-conteudo/publicacoes/relatorios/arrecadacao-federal/2026/analise-mensal-ago-2026.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "CNN Brasil — em 2025, alta do IOF impulsionou arrecadação do imposto em 20% (jan/2026)",
+      "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/em-2025-alta-do-iof-impulsionou-arrecadacao-do-imposto-em-20/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/12_pix_fake_news_e_impostos_quem_paga.md",
   "lacunas": [
-    "Arrecadação efetiva do IOF em 2025 não localizada.",
-    "Resultado do referendo do plenário do STF sobre a cautelar de Moraes (ADC 96/ADI 7827) não localizado.",
-    "URLs oficiais dos decretos (Planalto/DOU) não constam das notas."
+    "Julgamento de mérito/referendo da cautelar pelo Plenário do STF: não ocorreu até 26/08/2026 (lacuna fechada como 'não houve referendo'); a cautelar monocrática segue vigendo."
   ],
   "atualizado_em": "2026-10-21"
 }

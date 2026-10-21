@@ -5,28 +5,28 @@
   "governo": "lula-3",
   "lado": "governo-lula-pt",
   "norma": {
-    "nome": "Recriação do Bolsa Família em março/2023 (substitui o Auxílio Brasil; número da lei não consta das notas); elegibilidade: renda familiar per capita até R$ 218/mês",
-    "data": null,
-    "url": "https://www.gov.br/mds/pt-br/acoes-e-programas/bolsa-familia",
+    "nome": "Lei 14.601, de 19/06/2023 (conversão da MP 1.164/2023): institui o Programa Bolsa Família 'em substituição ao Programa Auxílio Brasil' (art. 1º); elegibilidade: renda familiar per capita mensal igual ou inferior a R$ 218,00 (art. 5º, II)",
+    "data": "2023-06-19",
+    "url": "https://www.planalto.gov.br/ccivil_03/_Ato2023-2026/2023/Lei/L14601.htm",
     "vigencia": "Desde mar/2023; piso de R$ 600 vigorou até set/2026 (reajustado para R$ 691 na folha de out/2026 — ver medida própria)"
   },
   "status": "em-vigor",
   "o_que_faz_simples": [
-    "Garante um piso de R$ 600 por família, mais R$ 150 por criança de 0 a 6 anos (Benefício Primeira Infância). Componentes até set/2026: Benefício de Renda de Cidadania de R$ 142 por pessoa; Primeira Infância R$ 150; Benefício Variável Familiar de R$ 50 para gestantes, nutrizes e jovens de 7 a 18 anos.",
-    "Entra quem tem renda familiar de até R$ 218 por pessoa ao mês. Regra de proteção: quem consegue emprego formal mantém 50% do benefício por 2 anos se a renda per capita ficar até meio salário mínimo.",
-    "Alcance: 21 milhões de famílias em 2023 (benefício médio ~R$ 680; R$ 170,4 bi); 20,8 milhões em 2024 (R$ 682; ~R$ 170,2 bi; MDS fala em mais de 20 milhões e R$ 168,3 bi); 19,3 milhões em ago/2026, após 'pente-fino' que excluiu 3,9 mi famílias em 2023 e ~3 mi em 2024 e incluiu 4,8 mi. Valor médio em abr/2026: R$ 678,22; 11,3 milhões de famílias em qualificação cadastral em jul/2026.",
-    "Histórico: o Bolsa Família começou em 2003 com ~3 milhões de famílias, chegou a 11,1 mi (2006), 12,7 mi (2010) e ~14 mi (2012-2021, benefício médio ~R$ 190: R$ 187,91 em jan/2019 e R$ 191,86 até mar/2020); virou Auxílio Brasil em nov/2021 (R$ 400; R$ 600 só de ago a dez/2022) e voltou como Bolsa Família em mar/2023.",
-    "Efeitos: a renda per capita média dos domicílios com Bolsa Família era R$ 774 em 2025 (vs R$ 2.682 nos sem o programa); sem Bolsa Família e BPC o Gini de 2024 seria 0,542 em vez de 0,504; a pobreza caiu de 36,8% (2021) para 23,1% (2024) e a extrema pobreza de 9,0% para 3,5%. 17,2% dos domicílios recebiam o programa em 2025 (Nordeste 32,4%, Norte 31,6%, Sul 6,8%)."
+    "Benefícios da Lei 14.601/2023 (art. 7º, § 1º): I — Benefício de Renda de Cidadania de R$ 142,00 por integrante; II — Benefício Complementar, que completa a diferença até R$ 600,00 quando a soma dos BRC da família é inferior a isso (o piso de R$ 600 é um complemento, não um valor fixo); III — Benefício Primeira Infância de R$ 150,00 por criança de 0 a 7 anos incompletos; IV — Benefício Variável Familiar de R$ 50,00 por gestante, nutriz, criança de 7 a 12 anos incompletos ou adolescente de 12 a 18 anos incompletos; V — Benefício Extraordinário de Transição (diferença entre o valor de mai/2023 no Auxílio Brasil e o de jun/2023).",
+    "Entra quem tem renda familiar de até R$ 218 por pessoa ao mês (art. 5º, II). Regra de proteção (art. 6º): família cuja renda per capita supere R$ 218 fica até 24 meses recebendo 50% dos benefícios, desde que a renda per capita (excluído o BF) não supere meio salário mínimo. Reajuste (art. 7º, §§ 3º-4º): o Executivo 'poderá alterar' os valores e a linha de R$ 218 por decreto 'a cada intervalo de, no máximo, 24 meses', 'vedada sua redução' — o reajuste de out/2026 foi o primeiro em 3 anos e 7 meses, acima do intervalo máximo previsto.",
+    "Alcance (Portal da Transparência/MDS via Ipeadata, dezembro): 20.884.006 famílias em 2023 (benefício médio R$ 654,64), 20.444.419 em 2024 (R$ 682,38) e 18.618.236 em 2025 (R$ 677,43); 19,3 milhões em ago/2026 (médio R$ 678,35). Balanço MDS: 21 mi famílias em 2023 (~R$ 680) e 20,8 mi em 2024 (R$ 682), com 'pente-fino' que excluiu 3,9 mi famílias em 2023 e ~3 mi em 2024 e incluiu 4,8 mi; 11,3 milhões de famílias em qualificação cadastral em jul/2026. Queda de 2,36 milhões de famílias entre dez/2022 e dez/2025 (−11,2%), concentrada em RJ (−442 mil), SP (−377 mil), BA (−257 mil) e PE (−221 mil); só Roraima e Rondônia cresceram.",
+    "Histórico (dezembro de cada ano, Portal da Transparência): 6,57 mi famílias (2004), 10,97 mi (2006), 12,78 mi (2010), entre 13,24 mi (2019) e 14,20 mi (2018) em 2012-2019, benefício médio de R$ 144,78 (2012) a R$ 190,79 (2019) e R$ 191,31 (2020); Auxílio Brasil em nov/2021 (piso R$ 400; R$ 600 só de ago a dez/2022); volta como Bolsa Família em jun/2023 (Lei 14.601).",
+    "Efeitos: 13,638 milhões de domicílios recebiam Bolsa Família em 2025 (17,2% dos 79,305 milhões; 14,388 mi em 2024; 10,006 mi em 2019) e 4,196 mi recebiam BPC (SIDRA 7457); renda per capita média dos domicílios com BF: R$ 774 (vs R$ 2.682 nos sem o programa); sem Bolsa Família e BPC o Gini de 2024 seria 0,542 em vez de 0,504; pobreza de 36,8% (2021) para 23,1% (2024) e extrema pobreza de 9,0% para 3,5%. Cadastro Único (jul/2025): 41.674.821 famílias e 95.366.582 pessoas, 65,9% das famílias com renda per capita até meio salário mínimo."
   ],
   "quem_ganha": {
-    "descricao": "19,3 milhões de famílias (ago/2026) com renda per capita até R$ 218, concentradas nos dois décimos mais pobres (inferência da nota); 9,1% da população (19,4 milhões de pessoas) recebia rendimento de programas sociais em 2025 (Bolsa Família, BPC e outros, PNAD).",
+    "descricao": "18,6 milhões de famílias em dez/2025 e 19,3 milhões em ago/2026, com renda per capita até R$ 218, concentradas nos dois décimos mais pobres (inferência da nota); 19,447 milhões de pessoas (9,1% da população) recebiam rendimento de programas sociais em 2025 (BF, BPC e outros, SIDRA 7426). Cobertura por mil habitantes em 2025: Maranhão 163,8, Piauí 161,8, Bahia 154,8; Santa Catarina 24,2 (Brasil 87,5).",
     "pessoas": null,
     "faixa_renda": "Renda familiar per capita até R$ 218/mês (extrema pobreza); décimos 1 e 2 da renda per capita",
     "fonte": {
-      "nome": "O Povo — Bolsa Família sobe 15% em outubro; mínimo vai a R$ 691 e médio projetado a R$ 777 (21/09/2026)",
-      "url": "https://www.opovo.com.br/trends/bolsa-familia-sobe-15-em-outubro-minimo-vai-a-r-691-e-valor-medio-projetado-chega-a-r-777/",
+      "nome": "Ipeadata — FAM_PBF: famílias do Bolsa Família/Auxílio Brasil em dezembro (MDS/Portal da Transparência)",
+      "url": "http://www.ipeadata.gov.br/api/odata4/ValoresSerie(SERCODIGO='FAM_PBF')",
       "acesso_em": "2026-10-21",
-      "tier": "imprensa"
+      "tier": "oficial"
     }
   },
   "quem_paga": {
@@ -44,7 +44,7 @@
     "valor": 158,
     "unidade": "R$ bilhões",
     "periodo": "2026 (LOA; igual a 2025)",
-    "descricao": "Orçamento de R$ 158 bi em 2026, igual a 2025 (antes do reajuste de out/2026, que custa R$ 5,8 bi adicionais em 2026). 2023: R$ 170,4 bi (R$ 14,2 bi/mês); 2024: ~R$ 170,2 bi (R$ 14,1 bi/mês), segundo balanço do MDS.",
+    "descricao": "Orçamento (LOA): R$ 158 bi em 2026, igual a 2025 (antes do reajuste de out/2026, +R$ 5,8 bi em 2026). Despesa orçamentária (MDS): R$ 170,4 bi (2023) e ~R$ 170,2 bi (2024). Benefícios efetivamente pagos (Portal da Transparência via Ipeadata, soma dos meses): R$ 150,8 bi (2023), R$ 161,5 bi (2024), R$ 157,1 bi (2025) e R$ 102,9 bi em jan-ago/2026 (ago/2026: R$ 12,76 bi) — conceitos diferentes (benefícios pagos x despesa orçamentária com outros custos e benefícios extraordinários). Série anterior: R$ 31,2 bi (2019), R$ 32,0 bi (2020), R$ 33,6 bi (2021), R$ 69,6 bi (2022, Auxílio Brasil).",
     "fonte": {
       "nome": "CNN Brasil — Bolsa Família terá orçamento de R$ 158 bilhões em 2026 (LOA)",
       "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/bolsa-familia-tera-orcamento-de-r-158-bilhoes-em-2026/",
@@ -59,19 +59,21 @@
       "elegibilidade_renda_per_capita_max": 218,
       "piso_por_familia": 600,
       "componentes": {
-        "renda_de_cidadania_por_pessoa": 142,
-        "primeira_infancia_0_a_6_anos": 150,
-        "variavel_familiar_gestantes_nutrizes_7_a_18": 50
+        "renda_de_cidadania_por_integrante": 142,
+        "beneficio_complementar_ate_por_familia": 600,
+        "primeira_infancia_0_a_7_anos_incompletos": 150,
+        "variavel_familiar_gestantes_nutrizes_7_a_18_incompletos": 50
       },
-      "formula": "beneficio = max(piso_por_familia, renda_de_cidadania_por_pessoa × nº de pessoas) + primeira_infancia × nº de crianças 0-6 + variavel_familiar × nº de gestantes/nutrizes/jovens 7-18",
-      "estrutura_da_formula_inferida_pela_nota": true,
+      "formula": "beneficio = BRC × nº de integrantes + max(0, 600 − BRC × nº de integrantes) [Benefício Complementar] + 150 × nº de crianças de 0 a 7 anos incompletos + 50 × nº de gestantes, nutrizes, crianças de 7 a 12 e adolescentes de 12 a 18 anos incompletos (Lei 14.601/2023, art. 7º, § 1º)",
+      "estrutura_da_formula_inferida_pela_nota": false,
       "regra_de_protecao": {
         "percentual_mantido": 50,
         "duracao_meses": 24,
         "renda_per_capita_max_sm": 0.5
       },
-      "fonte_formula": "Blog do IBRE/FGV (componentes) e MDS (elegibilidade)",
-      "fonte_formula_url": "https://blogdoibre.fgv.br/node/2410"
+      "fonte_formula": "Lei 14.601/2023 (Planalto), arts. 5º a 7º",
+      "fonte_formula_url": "https://www.planalto.gov.br/ccivil_03/_Ato2023-2026/2023/Lei/L14601.htm",
+      "estrutura_verificada_no_texto_legal": true
     }
   },
   "mitos": [
@@ -113,23 +115,17 @@
     },
     {
       "mito": "O número de famílias no Bolsa Família só cresce.",
-      "fato": "Caiu de 21 milhões (2023) para 20,8 milhões (2024) e 19,3 milhões (ago/2026), com 'pente-fino' que excluiu 6,9 milhões de famílias em 2023-24 e incluiu 4,8 milhões; 11,3 milhões estavam em qualificação cadastral em jul/2026.",
+      "fato": "Caiu: 20.884.006 famílias (dez/2023) → 20.444.419 (dez/2024) → 18.618.236 (dez/2025), com 'pente-fino' que excluiu 6,9 milhões de famílias em 2023-24 e incluiu 4,8 milhões; 11,3 milhões estavam em qualificação cadastral em jul/2026. Entre dez/2022 e dez/2025 a queda foi de 2,36 milhões (−11,2%).",
       "fontes": [
+        {
+          "nome": "Ipeadata — FAM_PBF: famílias do Bolsa Família/Auxílio Brasil em dezembro (MDS/Portal da Transparência)",
+          "url": "http://www.ipeadata.gov.br/api/odata4/ValoresSerie(SERCODIGO='FAM_PBF')",
+          "acesso_em": "2026-10-21",
+          "tier": "oficial"
+        },
         {
           "nome": "Diário do Pará — balanço MDS: Bolsa Família amplia alcance em 2024 sem gastar mais (2025)",
           "url": "https://diariodopara.com.br/noticias/brasil/bolsa-familia-amplia-alcance-em-2024-sem-gastar-mais-que-no-ano-anterior",
-          "acesso_em": "2026-10-21",
-          "tier": "imprensa"
-        },
-        {
-          "nome": "Portal de Prefeitura — revisão cadastral 2026 (MDS, jul/2026)",
-          "url": "https://portaldeprefeitura.com.br/cotidiano/bolsa-familia-milhoes-de-beneficiarios-podem-ser-bloqueados-por-falta/625889/",
-          "acesso_em": "2026-10-21",
-          "tier": "imprensa"
-        },
-        {
-          "nome": "O Povo — Bolsa Família sobe 15% em outubro; mínimo vai a R$ 691 e médio projetado a R$ 777 (21/09/2026)",
-          "url": "https://www.opovo.com.br/trends/bolsa-familia-sobe-15-em-outubro-minimo-vai-a-r-691-e-valor-medio-projetado-chega-a-r-777/",
           "acesso_em": "2026-10-21",
           "tier": "imprensa"
         }
@@ -232,6 +228,42 @@
       "url": "https://www.poder360.com.br/poder-eleicoes/flavio-bolsonaro-defende-bolsa-familia-e-isencao-de-ir-ate-r-5-000/",
       "acesso_em": "2026-10-21",
       "tier": "imprensa"
+    },
+    {
+      "nome": "Planalto — Lei 14.601/2023 (Programa Bolsa Família)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_Ato2023-2026/2023/Lei/L14601.htm",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Ipeadata — FAM_PBF: famílias do Bolsa Família/Auxílio Brasil em dezembro (MDS/Portal da Transparência)",
+      "url": "http://www.ipeadata.gov.br/api/odata4/ValoresSerie(SERCODIGO='FAM_PBF')",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Ipeadata — VAL_PBF12: valor mensal pago pelo Bolsa Família (Portal da Transparência)",
+      "url": "http://www.ipeadata.gov.br/api/odata4/ValoresSerie(SERCODIGO='VAL_PBF12')",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Agência Gov/MDS — pagamento do Bolsa Família de agosto (18/08/2026)",
+      "url": "https://agenciagov.ebc.com.br/noticias/202608/pagamento-do-bolsa-familia-de-agosto-comeca-nesta-terca-feira-18",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "IBGE/SIDRA — tabela 7457: domicílios com Bolsa Família e BPC (PNAD Contínua anual)",
+      "url": "https://sidra.ibge.gov.br/tabela/7457",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Sebrae/MDS — Relatório Técnico 'Empreendedorismo nas Famílias de Baixa Renda' (fev/2026), dados do CadÚnico de jul/2025",
+      "url": "https://datasebrae.com.br/wp-content/uploads/2026/02/Relatorio-Tecnico-Empreendedorismo-nas-Familias-de-Baixa-Renda_v4-pos-MDS.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/13_renda_por_faixa_e_simulacoes_de_impacto.md",
@@ -239,10 +271,9 @@
     "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/03_emprego_renda_pobreza_social.md"
   ],
   "lacunas": [
-    "Número e URL da lei que recriou o Bolsa Família em 2023 não constam das notas.",
-    "Famílias e valor médio ano a ano 2003-2021 (dados abertos do MDS) não acessados.",
-    "Totais oficiais 2026 de famílias/pessoas no Cadastro Único não obtidos.",
-    "A estrutura exata da fórmula (piso vs. soma por pessoa) é inferida a partir dos componentes; verificar no decreto."
+    "Totais oficiais de 2026 do Cadastro Único (último dado primário: jul/2025, 41,67 mi famílias e 95,37 mi pessoas) não obtidos; imprensa fala em revisão cadastral de 'mais de 11 milhões de famílias' (não verificado em fonte oficial).",
+    "Bolsa Família por estado em out/2026 (famílias e valor médio) não localizado.",
+    "A série do Portal da Transparência para dez/2021 e dez/2022 registra só o Auxílio Brasil 'base' (média implícita abaixo do piso); usar os pisos legais (R$ 400/R$ 600) e a média do MDS para 2021-2022."
   ],
   "atualizado_em": "2026-10-21"
 }

@@ -5,17 +5,17 @@
   "governo": "bolsonaro",
   "lado": "oposicao-flavio-pl",
   "norma": {
-    "nome": "Decreto 10.979/2022 (fev/2022, −25%); Decreto 11.055/2022 (publicado 29/04/2022, vigência 01/05/2022, −35%)",
-    "data": "2022-04-29",
-    "url": "https://www.mattosfilho.com.br/unico/governo-aliquotas-ipi/",
-    "vigencia": "Desde 01/05/2022; status atual (manutenção/alteração após 2022) não consta das notas"
+    "nome": "Decreto 10.979, de 25/02/2022 (DOU edição extra de 25/02/2022; −25%; revogado a partir de 01/05/2022 pelo Decreto 11.055); Decreto 11.055, de 28/04/2022 (DOU 29/04/2022; efeitos desde 01/05/2022; −35%), revogado pelo Decreto 11.158, de 29/07/2022, que aprovou a TIPI em vigor incorporando as reduções ('Vide ADI 7153/DF'; 'Vide alterações')",
+    "data": "2022-04-28",
+    "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/decreto/D11055.htm",
+    "vigencia": "Reduções desde 01/05/2022, incorporadas à TIPI do Decreto 11.158/2022 (29/07/2022), que segue como referência legal com alterações posteriores; o corte não foi 'revertido' por ato único."
   },
   "status": "em-vigor",
-  "status_nao_verificado": true,
   "o_que_faz_simples": [
     "Em fevereiro de 2022 o governo Bolsonaro cortou em 25% as alíquotas do IPI (Decreto 10.979); em maio ampliou o corte para 35% (Decreto 11.055), com exceções: produtos da Zona Franca de Manaus (25%) e automóveis (18,5%).",
     "Custo estimado: R$ 15,2 bi em 2022, R$ 27,3 bi em 2023 e R$ 29,3 bi em 2024.",
-    "Foi parte de um pacote de cortes de tributos em ano eleitoral, junto com a desoneração de combustíveis (LC 192 e 194/2022), o teto do ICMS e a redução de 10% da TEC do Mercosul."
+    "Foi parte de um pacote de cortes de tributos em ano eleitoral, junto com a desoneração de combustíveis (LC 192 e 194/2022), o teto do ICMS e a redução de 10% da TEC do Mercosul.",
+    "O Decreto 11.055 foi revogado pelo Decreto 11.158/2022 (29/07/2022), que aprovou a nova TIPI (base NCM) incorporando as reduções de 2022; a tabela permanece como referência legal, com alterações posteriores listadas pelo Planalto. O detalhamento alíquota a alíquota após 2022 (quais voltaram) não foi verificado."
   ],
   "quem_ganha": {
     "descricao": "Consumidores de bens industrializados (eletrodomésticos, eletrônicos etc.) e a indústria. Em valor absoluto, ganha mais quem gasta mais com esses bens (inferência da nota).",
@@ -74,13 +74,30 @@
       "url": "https://jornalcontabil.com.br/noticia/reducao-nas-aliquotas-de-ipi-de-25-para-ate-35-medida-ja-esta-valendo/amp/",
       "acesso_em": "2026-10-21",
       "tier": "imprensa"
+    },
+    {
+      "nome": "Planalto — Decreto 10.979/2022 (IPI −25%)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/decreto/D10979.htm",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Planalto — Decreto 11.055/2022 (IPI −35%)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/decreto/D11055.htm",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Planalto — Decreto 11.158/2022 (TIPI vigente)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/decreto/D11158.htm",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/12_pix_fake_news_e_impostos_quem_paga.md",
   "lacunas": [
-    "Status atual do corte do IPI (manutenção ou reversão após 2022) não consta das notas; status 'em-vigor' não verificado.",
-    "Efeito sobre preços e distribuição por faixa de renda não localizado.",
-    "URLs oficiais dos decretos não constam das notas."
+    "Status detalhado da TIPI após 2022 (quais alíquotas voltaram a subir) e efeito distributivo do corte do IPI por decil: não localizados.",
+    "Efeito sobre preços não localizado."
   ],
   "atualizado_em": "2026-10-21"
 }

@@ -5,16 +5,16 @@
   "governo": "lula-3",
   "lado": "governo-lula-pt",
   "norma": {
-    "nome": "EC 132/2023 e LC 214/2025 (lista de produtos); alíquotas dependem de lei ordinária ainda não enviada ao Congresso (set/2026)",
+    "nome": "EC 132/2023 e LC 214/2025 (art. 409 e Anexo XVII: lista de produtos); LC 227/2026 (teto de 0,25% para bens minerais; escalonamento das alíquotas de fumígenos, álcool e açucaradas de 2029 a 2033); alíquotas dependem de lei ordinária ainda não enviada pelo Executivo (out/2026)",
     "data": "2025-01-16",
-    "url": "https://www.congressoemfoco.com.br/noticia/119267/com-aliquotas-indefinidas-fazenda-mantem-imposto-seletivo-para-2027",
-    "vigencia": "Cobrança prevista a partir de 2027; alíquotas indefinidas em out/2026"
+    "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp214.htm",
+    "vigencia": "Cobrança prevista a partir de 2027 (ADCT, art. 126); alíquotas indefinidas em out/2026. Por anterioridade anual e noventena, lei ordinária aprovada até 03/10/2026 valeria em 01/01/2027; se enviada só pelo próximo governo, as alíquotas valeriam em 2028 (Fábio Calcini)."
   },
   "status": "aprovada-aguarda",
   "o_que_faz_simples": [
     "Cria um imposto extra sobre produtos considerados nocivos à saúde ou ao meio ambiente: fumígenos, bebidas alcoólicas, bebidas açucaradas, veículos, bens minerais, concursos de prognósticos e fantasy sport (bets), embarcações e aeronaves.",
-    "O produto está listado na LC 214/2025, mas as alíquotas precisam de outra lei. O governo adiou para 2026 o envio do projeto; em set/2026 a Fazenda mantinha a previsão de cobrança em 2027 com alíquotas indefinidas.",
-    "O Senado incluiu no PLP 108 um teto de 2% para bebidas açucaradas e 0,25% para minerais; a Câmara retirou o teto de 2% em dez/2025.",
+    "Os produtos estão listados na LC 214/2025 (art. 409), mas as alíquotas precisam de outra lei. Em 21/10/2026 não havia projeto do Executivo protocolado (busca na API da Câmara: só PL 3210/2025 e PL 4353/2025, de parlamentares); o governo cogitava enviar MP ou PL com urgência 'somente no segundo semestre, provavelmente depois das eleições' e avaliava 'plano B' (MP ou PEC; manutenção da carga do IPI). O PLP 42/2026 (Novo) propõe limitar as alíquotas entre 0% e 5%.",
+    "A LC 214 só fixa teto para bens minerais (0,25%, redação da LC 227/2026). O Senado havia incluído no PLP 108 um teto de 2% para bebidas açucaradas, retirado pela Câmara em dez/2025; a LC 227 escalonou as alíquotas de fumígenos, álcool e bebidas açucaradas de 2029 a 2033 para incorporar o diferencial do ICMS.",
     "O programa de Lula para 2026 promete usar o Imposto Seletivo para 'desestimular produtos nocivos à saúde'."
   ],
   "quem_ganha": {
@@ -58,19 +58,25 @@
   "mitos": [
     {
       "mito": "O 'imposto do pecado' já está sendo cobrado.",
-      "fato": "A cobrança está prevista para 2027 e o projeto com as alíquotas não havia sido enviado ao Congresso até set/2026. Em out/2026 nenhuma alíquota do Imposto Seletivo estava fixada.",
+      "fato": "A cobrança está prevista para 2027 e, até 21/10/2026, nenhum projeto do Executivo com as alíquotas havia sido protocolado na Câmara; a LC 214 só fixa teto para minerais (0,25%). Se a lei das alíquotas for aprovada só pelo próximo governo, elas valeriam a partir de 2028.",
       "fontes": [
         {
-          "nome": "Congresso em Foco — com alíquotas indefinidas, Fazenda mantém Imposto Seletivo para 2027",
-          "url": "https://www.congressoemfoco.com.br/noticia/119267/com-aliquotas-indefinidas-fazenda-mantem-imposto-seletivo-para-2027",
+          "nome": "Câmara — API Dados Abertos: proposições com 'Imposto Seletivo' (2025)",
+          "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?keywords=Imposto%20Seletivo&ano=2025&siglaTipo=PL",
+          "acesso_em": "2026-10-21",
+          "tier": "oficial"
+        },
+        {
+          "nome": "NeoFeed — indefinição sobre 'imposto do pecado' pode atrasar reforma tributária (2026)",
+          "url": "https://neofeed.com.br/poder/indefinicao-sobre-imposto-do-pecado-pode-atrasar-reforma-tributaria/",
           "acesso_em": "2026-10-21",
           "tier": "imprensa"
         },
         {
-          "nome": "Sindifisco-MS — governo adia projeto das alíquotas do Imposto Seletivo para 2026",
-          "url": "https://www.sindifisco-ms.org.br/imposto-seletivo-governo-decide-adiar-projeto-das-aliquotas-do-imposto-do-pecado-e-texto-ficara-para-2026/",
+          "nome": "TAGD Advogados — Fazenda avalia MP ou PEC para regulamentar alíquotas do IS (08/07/2026)",
+          "url": "https://tagdlaw.com.br/fazenda-avalia-mp-ou-pec-como-para-regulamentar-aliquotas-do-imposto-seletivo/",
           "acesso_em": "2026-10-21",
-          "tier": "partidario"
+          "tier": "imprensa"
         }
       ]
     },
@@ -129,12 +135,47 @@
       "url": "https://static.poder360.com.br/uploads/2026/08/Programa-Governo-LULA-2026.pdf",
       "acesso_em": "2026-10-21",
       "tier": "partidario"
+    },
+    {
+      "nome": "Planalto — Lei Complementar 214/2025",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp214.htm",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Planalto — Lei Complementar 227/2026",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp227.htm",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Câmara — API Dados Abertos: proposições com 'Imposto Seletivo' (2025)",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes?keywords=Imposto%20Seletivo&ano=2025&siglaTipo=PL",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "NeoFeed — indefinição sobre 'imposto do pecado' pode atrasar reforma tributária (2026)",
+      "url": "https://neofeed.com.br/poder/indefinicao-sobre-imposto-do-pecado-pode-atrasar-reforma-tributaria/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "TAGD Advogados — Fazenda avalia MP ou PEC para regulamentar alíquotas do IS (08/07/2026)",
+      "url": "https://tagdlaw.com.br/fazenda-avalia-mp-ou-pec-como-para-regulamentar-aliquotas-do-imposto-seletivo/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "CRCSP/Congresso em Foco — PLP 42/2026 (Novo) propõe limitar o IS entre 0% e 5%",
+      "url": "https://online.crcsp.org.br/portal/noticias/noticia.asp?c=11012",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/12_pix_fake_news_e_impostos_quem_paga.md",
   "lacunas": [
-    "Projeto de lei com as alíquotas do IS não enviado/não localizado; impacto por faixa de renda indeterminável.",
-    "Texto legal da LC 214 (artigos do IS) não acessado diretamente."
+    "Projeto de lei do Executivo com as alíquotas do IS não protocolado até 21/10/2026; impacto por faixa de renda indeterminável."
   ],
   "atualizado_em": "2026-10-21"
 }

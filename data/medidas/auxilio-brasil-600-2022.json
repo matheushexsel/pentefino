@@ -15,8 +15,9 @@
     "Substituiu o Bolsa Família (que pagava em média ~R$ 190: R$ 187,91 em jan/2019 e R$ 191,86 até mar/2020) por um benefício com piso de R$ 400 a partir de nov/2021 (14,5 milhões de famílias no 1º mês; previsão de R$ 89 bi em 2022).",
     "Ampliou o alcance: de 14,7 milhões de famílias (out/2021) para 18,06 milhões (abr/2022) e 20,2 milhões (ago/2022, +2,2 mi incluídas).",
     "Em ago/2022, por emenda constitucional temporária (EC 123), o piso subiu para R$ 600 até dez/2022: benefício médio de R$ 607,88 e desembolso de mais de R$ 12,1 bi no mês; o gasto mensal médio em 2022 foi R$ 7,8 bi (balanço MDS). O PLOA 2023 do governo Bolsonaro previa voltar a R$ 400 (benefício médio R$ 405,21).",
-    "Em set/2021 o IOF-crédito foi elevado (3% → 4,08% a.a. para PF; 1,5% → 2,04% para PJ, até 31/12/2021) para custear o programa, com receita estimada de R$ 2,14 bi.",
-    "Rendimento médio de programas sociais na PNAD (R$ de 2025): R$ 472 em 2021, R$ 719 em 2022, R$ 857 em 2023."
+    "Em set/2021 o IOF-crédito foi elevado pelo Decreto 10.797, de 16/09/2021 (DOU 17/09/2021): de 3% para 4,08% a.a. (PF) e de 1,5% para 2,04% (PJ), de 20/09 a 31/12/2021, para custear o programa, com receita estimada de R$ 2,14 bi.",
+    "Rendimento médio de programas sociais na PNAD (R$ de 2025): R$ 472 em 2021, R$ 719 em 2022, R$ 857 em 2023.",
+    "Portal da Transparência (via Ipeadata): 14.184.940 benefícios em dez/2021 e 20.975.152 em dez/2022; valor pago no mês de dez/2022: R$ 7,99 bi (a série registra o Auxílio Brasil 'base', sem o benefício extraordinário que completava o piso — por isso a média implícita fica abaixo de R$ 400/R$ 600); valor pago no ano: R$ 33,6 bi (2021) → R$ 69,6 bi (2022), contra R$ 31,2 bi em 2019 e R$ 32,0 bi em 2020 (Bolsa Família)."
   ],
   "quem_ganha": {
     "descricao": "20,2 milhões de famílias em ago/2022 (benefício médio R$ 607,88), fortemente pró-pobre (décimos 1 a 4, inferência da nota). O salto de ~R$ 190 para R$ 400 no benefício médio ocorreu nesta medida.",
@@ -44,7 +45,7 @@
     "valor": 89,
     "unidade": "R$ bilhões",
     "periodo": "2022 (previsão de dez/2021)",
-    "descricao": "Previsão de R$ 89 bi em 2022; gasto mensal médio de R$ 7,8 bi em 2022 (MDS) e mais de R$ 12,1 bi em ago/2022 com o piso de R$ 600.",
+    "descricao": "Previsão de R$ 89 bi em 2022 (dez/2021); benefícios pagos registrados no Portal da Transparência: R$ 69,6 bi em 2022 (R$ 33,6 bi em 2021) — a série exclui o benefício extraordinário que completava o piso; gasto mensal médio de R$ 7,8 bi em 2022 (MDS) e mais de R$ 12,1 bi em ago/2022 com o piso de R$ 600.",
     "fonte": {
       "nome": "Correio Braziliense — Auxílio Brasil: 1º mês atendeu 14,5 milhões de famílias (23/12/2021)",
       "url": "https://www.correiobraziliense.com.br/economia/2021/12/4972978-auxilio-brasil-1-mes-de-funcionamento-atendeu-145-milhoes-de-familias.html",
@@ -166,6 +167,24 @@
       "url": "https://biblioteca.ibge.gov.br/visualizacao/livros/liv102275_informativo.pdf",
       "acesso_em": "2026-10-21",
       "tier": "oficial"
+    },
+    {
+      "nome": "Planalto — Decreto 10.797/2021 (IOF para o Auxílio Brasil)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/decreto/D10797.htm",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Ipeadata — FAM_PBF: famílias do Bolsa Família/Auxílio Brasil em dezembro (MDS/Portal da Transparência)",
+      "url": "http://www.ipeadata.gov.br/api/odata4/ValoresSerie(SERCODIGO='FAM_PBF')",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Ipeadata — VAL_PBF12: valor mensal pago pelo Bolsa Família (Portal da Transparência)",
+      "url": "http://www.ipeadata.gov.br/api/odata4/ValoresSerie(SERCODIGO='VAL_PBF12')",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/03_emprego_renda_pobreza_social.md",
@@ -174,7 +193,7 @@
   ],
   "lacunas": [
     "Período exato dos R$ 600 diverge entre fontes (ago-dez/2022 na maioria; Lupa cita jun-dez/2022 em uma checagem).",
-    "Custo total executado do Auxílio Brasil em 2022 não localizado (só previsão de R$ 89 bi e gasto mensal médio de R$ 7,8 bi)."
+    "Custo total executado do Auxílio Brasil em 2022: o Portal da Transparência registra R$ 69,6 bi de benefícios 'base' (sem o benefício extraordinário do piso); despesa orçamentária total não localizada."
   ],
   "atualizado_em": "2026-10-21"
 }
