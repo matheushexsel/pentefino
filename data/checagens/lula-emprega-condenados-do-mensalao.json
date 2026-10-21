@@ -1,0 +1,219 @@
+{
+  "id": "chk-2031",
+  "slug": "lula-emprega-condenados-do-mensalao",
+  "frase": "Lula está dando emprego para condenados do Mensalão.",
+  "frase_normalizada": "lula esta dando emprego para condenados do mensalao",
+  "variantes": [],
+  "autor": {
+    "nome": "Flávio Bolsonaro",
+    "partido": "PL",
+    "cargo": "senador (RJ) e candidato à Presidência"
+  },
+  "lado": "oposicao-flavio-pl",
+  "alvo": {
+    "nome": "Governo Lula (2023-2026)",
+    "partido": "PT"
+  },
+  "data": "2026-10-18",
+  "onde": "Debate da Band (consórcio Band/Cultura/Gazeta/Jovem Pan/Estadão), São Paulo",
+  "url_declaracao": "https://www.polemicaparaiba.com.br/brasil/estadao-verifica-checa-declaracoes-de-lula-e-flavio-bolsonaro-em-debate-e-aponta-informacoes-falsas-enganosas-e-verdadeiras-confira/",
+  "temas": [
+    "corrupcao",
+    "eleicao-2026"
+  ],
+  "tags": [
+    "corrupcao",
+    "eleicao-2026"
+  ],
+  "veredito": "falso",
+  "resumo_uma_frase": "Nenhum condenado da Ação Penal 470 integra o governo Lula; José Dirceu e Delúbio Soares concorreram em 2026 e perderam; já o presidente nacional do PL, partido de Flávio, Valdemar Costa Neto, é um dos 24 condenados do mensalão.",
+  "explicacao_simples": [
+    "Estadão Verifica e Aos Fatos checaram: nenhum dos 24 condenados do mensalão tem cargo no governo Lula.",
+    "José Dirceu e Delúbio Soares, os mais conhecidos, foram candidatos em 2026 e não se elegeram.",
+    "Entre os 24 condenados estão também Valdemar Costa Neto, hoje presidente nacional do PL, e políticos de PP, PTB e PMDB."
+  ],
+  "explicacao_completa_md": "O Estadão Verifica e o Aos Fatos classificaram a frase como FALSA: nenhum condenado do mensalão integra o governo; Dirceu (PT-SP, 78.450 votos) e Delúbio concorreram em 2026 e perderam. **A AP 470:** o STF julgou 38 réus em 2012, condenou 25 (24 após os embargos de 2014) e absolveu os demais; penas em parte reduzidas em 2014; em 2025 nenhum condenado estava preso (indultos de Dilma 2014/2015 e Temer 2017; penas cumpridas), exceto Marcos Valério em domiciliar. Condenados por partido à época: PT 5 (Dirceu, Genoino, Delúbio, João Paulo Cunha, Pizzolato), PTB 3 (Roberto Jefferson, Romeu Queiroz, Palmieri), PP 3 (Pedro Corrêa, Pedro Henry, Genu), PL/PR 3 (Valdemar Costa Neto, Bispo Rodrigues, Jacinto Lamas), PMDB 1 (José Borba), mais 11 operadores privados. Valdemar Costa Neto (7 anos e 10 meses; cerca de 1 ano na Papuda, domiciliar e indulto) preside o PL e teve R$ 119 milhões bloqueados pelo ministro Dino em jul/2026 em apuração sobre emendas de liderança.",
+  "o_que_e_verdade": [
+    "Dirceu e Delúbio, condenados no mensalão, seguem na política pelo PT (concorreram em 2026, sem êxito).",
+    "Nenhuma condenação do mensalão foi anulada; as penas foram extintas por indulto ou cumprimento."
+  ],
+  "o_que_nao_se_sustenta": [
+    "'Lula dá emprego a condenados do mensalão': nenhum deles integra o governo (Estadão Verifica; Aos Fatos).",
+    "A frase omite que o presidente do PL, Valdemar Costa Neto, também foi condenado no mensalão."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Flávio Bolsonaro",
+      "papel": "autor da frase",
+      "peso": "alto"
+    },
+    {
+      "ator": "Governo Lula",
+      "papel": "não tem condenados da AP 470 em cargos, segundo as checagens",
+      "peso": "medio"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Réus julgados na AP 470",
+      "valor": 38,
+      "unidade": "réus",
+      "periodo": "2012",
+      "fonte": {
+        "nome": "Wikipédia: Ação Penal 470 (índice)",
+        "url": "https://pt.wikipedia.org/wiki/A%C3%A7%C3%A3o_Penal_470",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Condenados após os embargos",
+      "valor": 24,
+      "unidade": "pessoas",
+      "periodo": "2014",
+      "fonte": {
+        "nome": "Gazeta do Povo, 11/06/2025 (mensalão 20 anos)",
+        "url": "https://www.gazetadopovo.com.br/ideias/mensalao-20-anos-como-estao-hoje-condenados-soltos-presos/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Condenados ligados ao PT",
+      "valor": 5,
+      "unidade": "pessoas",
+      "periodo": "2012",
+      "fonte": {
+        "nome": "Exame (onde estão os 24 condenados do mensalão)",
+        "url": "https://exame.com/brasil/onde-estao-os-24-condenados-por-causa-do-mensalao/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "Condenados ligados ao PL/PR (incl. Valdemar Costa Neto)",
+        "valor": 3
+      }
+    },
+    {
+      "rotulo": "Votos de José Dirceu para deputado federal em 2026",
+      "valor": 78450,
+      "unidade": "votos (não eleito)",
+      "periodo": "2026",
+      "fonte": {
+        "nome": "Wikipédia: José Dirceu (índice)",
+        "url": "https://pt.wikipedia.org/wiki/Jos%C3%A9_Dirceu",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Pena de Valdemar Costa Neto no mensalão",
+      "valor": 7.8,
+      "unidade": "anos (7 anos e 10 meses)",
+      "periodo": "2012-2014",
+      "fonte": {
+        "nome": "Exame (onde estão os 24 condenados do mensalão)",
+        "url": "https://exame.com/brasil/onde-estao-os-24-condenados-por-causa-do-mensalao/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": null
+    }
+  ],
+  "series": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Estadão Verifica",
+      "veredito_original": "FALSO",
+      "url": "https://www.polemicaparaiba.com.br/brasil/estadao-verifica-checa-declaracoes-de-lula-e-flavio-bolsonaro-em-debate-e-aponta-informacoes-falsas-enganosas-e-verdadeiras-confira/",
+      "data": "2026-10-18"
+    },
+    {
+      "veiculo": "Aos Fatos",
+      "veredito_original": "FALSO",
+      "url": "https://www.aosfatos.org/noticias/checamos-lula-flavio-bolsonaro-debate-band/",
+      "data": "2026-10-18"
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Wikipédia: Ação Penal 470 (índice)",
+      "url": "https://pt.wikipedia.org/wiki/A%C3%A7%C3%A3o_Penal_470",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Gazeta do Povo, 11/06/2025 (mensalão 20 anos)",
+      "url": "https://www.gazetadopovo.com.br/ideias/mensalao-20-anos-como-estao-hoje-condenados-soltos-presos/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Exame (onde estão os 24 condenados do mensalão)",
+      "url": "https://exame.com/brasil/onde-estao-os-24-condenados-por-causa-do-mensalao/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Wikipédia: José Dirceu (índice)",
+      "url": "https://pt.wikipedia.org/wiki/Jos%C3%A9_Dirceu",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Estadão Verifica",
+      "url": "https://www.polemicaparaiba.com.br/brasil/estadao-verifica-checa-declaracoes-de-lula-e-flavio-bolsonaro-em-debate-e-aponta-informacoes-falsas-enganosas-e-verdadeiras-confira/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Aos Fatos",
+      "url": "https://www.aosfatos.org/noticias/checamos-lula-flavio-bolsonaro-debate-band/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Agência Pública, jul/2026 (Dino intima presidentes de partidos)",
+      "url": "https://apublica.org/2026/07/farra-das-emendas-flavio-dino-intima-presidentes-de-partidos/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Nota 04 deste projeto (seção 1)",
+      "url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/04_escandalos_mensalao_petrolao_lavajato.md",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/09_acusacoes_e_falas_flavio_x_lula.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "Algum condenado do mensalão trabalha no governo Lula?",
+      "resposta": "Não, segundo Estadão Verifica e Aos Fatos."
+    },
+    {
+      "pergunta": "Dirceu e Delúbio voltaram à política?",
+      "resposta": "Sim. Ambos concorreram em 2026 e não se elegeram; Dirceu teve 78.450 votos para deputado federal por SP."
+    },
+    {
+      "pergunta": "Só o PT foi condenado no mensalão?",
+      "resposta": "Não. Dos 24 condenados, 5 eram do PT, 3 do PTB, 3 do PP, 3 do PL/PR (incluindo Valdemar Costa Neto, atual presidente do PL) e 1 do PMDB, além de 11 operadores privados."
+    }
+  ],
+  "relacionadas": [
+    "so-o-pt-foi-condenado-no-mensalao",
+    "orcamento-secreto",
+    "lula-foi-condenado-e-descondenado"
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false
+}

@@ -1,0 +1,154 @@
+{
+  "id": "chk-2018",
+  "slug": "lula-prometeu-ajudar-vorcaro",
+  "frase": "Lula disse a Vorcaro: não vende o banco agora, não, a gente vai trocar o presidente do Banco Central e a gente consegue te ajudar.",
+  "frase_normalizada": "lula disse a vorcaro nao vende o banco agora nao a gente vai trocar o presidente do banco central e a gente consegue te ajudar",
+  "variantes": [],
+  "autor": {
+    "nome": "Flávio Bolsonaro",
+    "partido": "PL",
+    "cargo": "senador (RJ) e candidato à Presidência"
+  },
+  "lado": "oposicao-flavio-pl",
+  "alvo": {
+    "nome": "Luiz Inácio Lula da Silva",
+    "partido": "PT"
+  },
+  "data": "2026-10-18",
+  "onde": "Debate da Band (consórcio Band/Cultura/Gazeta/Jovem Pan/Estadão), São Paulo",
+  "url_declaracao": "https://www.polemicaparaiba.com.br/brasil/estadao-verifica-checa-declaracoes-de-lula-e-flavio-bolsonaro-em-debate-e-aponta-informacoes-falsas-enganosas-e-verdadeiras-confira/",
+  "temas": [
+    "corrupcao",
+    "economia",
+    "eleicao-2026"
+  ],
+  "tags": [
+    "corrupcao",
+    "economia",
+    "eleicao-2026"
+  ],
+  "veredito": "insustentavel",
+  "resumo_uma_frase": "A reunião de Lula com Vorcaro em 04/12/2024 (fora da agenda, com Mantega e Galípolo) é confirmada, mas não há prova de promessa de ajuda; Lula diz ter avisado que não haveria 'posição política pró ou contra', e o BC sob Galípolo vetou a compra pelo BRB e liquidou o banco.",
+  "explicacao_simples": [
+    "Lula recebeu o banqueiro Vorcaro no Planalto em dezembro de 2024, fora da agenda oficial, com Guido Mantega e Gabriel Galípolo presentes.",
+    "A frase que Flávio atribuiu a Lula não tem registro ou testemunho conhecido; o Estadão Verifica a classificou como enganosa.",
+    "O que aconteceu depois contraria a ideia de ajuda: o BC, já sob Galípolo, vetou a compra do Master pelo BRB e liquidou o banco em novembro de 2025."
+  ],
+  "explicacao_completa_md": "Vorcaro relatou reunião com Lula em 04/12/2024, confirmada pelo Planalto, fora da agenda, com Guido Mantega e Gabriel Galípolo (então diretor do BC e já indicado para a presidência); Vorcaro foi três vezes ao Planalto fora da agenda (Metrópoles, 28/01/2026). Em 05/02/2026 Lula disse ter avisado que não haveria perseguição política contra o Master, apenas 'investigação técnica'; não havia investigação formal à época (Folha, 05/02). O Estadão Verifica classificou a frase de Flávio como ENGANOSA: a reunião existiu, mas não há prova da promessa. Sob Galípolo, o BC vetou a compra do Master pelo BRB (set/2025), decretou a liquidação em 18/11/2025 e a PF prendeu Vorcaro; o Correio Braziliense descreve a gestão Galípolo como 'ainda mais ortodoxa' que a anterior.",
+  "o_que_e_verdade": [
+    "A reunião de 04/12/2024 entre Lula e Vorcaro, fora da agenda, é confirmada pelo Planalto.",
+    "Galípolo, presente na reunião, assumiu a presidência do BC em janeiro de 2025."
+  ],
+  "o_que_nao_se_sustenta": [
+    "A citação atribuída a Lula: não há registro, áudio ou testemunho; o Estadão Verifica classificou como enganosa.",
+    "A ideia de que o governo ajudou o banco: o BC vetou a compra pelo BRB e liquidou o Master."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Flávio Bolsonaro",
+      "papel": "atribuiu a Lula uma frase sem registro",
+      "peso": "alto"
+    },
+    {
+      "ator": "Lula",
+      "papel": "recebeu Vorcaro fora da agenda; nega favorecimento",
+      "peso": "medio"
+    },
+    {
+      "ator": "Banco Central (Galípolo)",
+      "papel": "vetou a compra pelo BRB e liquidou o Master",
+      "peso": "medio"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Visitas de Vorcaro ao Planalto fora da agenda",
+      "valor": 3,
+      "unidade": "visitas",
+      "periodo": "até dez/2024",
+      "fonte": {
+        "nome": "Wikipédia: Escândalo do Banco Master (índice com fontes)",
+        "url": "https://pt.wikipedia.org/wiki/Esc%C3%A2ndalo_do_Banco_Master",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Data da liquidação do Master pelo BC",
+      "valor": 18,
+      "unidade": "nov/2025 (dia)",
+      "periodo": "18/11/2025",
+      "fonte": {
+        "nome": "Agência Pública, mar/2026 (reconstrução do caso Master)",
+        "url": "https://apublica.org/2026/03/banco-master-a-reconstrucao-completa-de-como-uma-fraude-capturou-a-republica/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": null
+    }
+  ],
+  "series": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Estadão Verifica",
+      "veredito_original": "ENGANOSO",
+      "url": "https://www.polemicaparaiba.com.br/brasil/estadao-verifica-checa-declaracoes-de-lula-e-flavio-bolsonaro-em-debate-e-aponta-informacoes-falsas-enganosas-e-verdadeiras-confira/",
+      "data": "2026-10-18"
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Wikipédia: Escândalo do Banco Master (índice com fontes)",
+      "url": "https://pt.wikipedia.org/wiki/Esc%C3%A2ndalo_do_Banco_Master",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Agência Pública, mar/2026 (reconstrução do caso Master)",
+      "url": "https://apublica.org/2026/03/banco-master-a-reconstrucao-completa-de-como-uma-fraude-capturou-a-republica/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Estadão Verifica",
+      "url": "https://www.polemicaparaiba.com.br/brasil/estadao-verifica-checa-declaracoes-de-lula-e-flavio-bolsonaro-em-debate-e-aponta-informacoes-falsas-enganosas-e-verdadeiras-confira/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Nota 11 deste projeto (BC sob Galípolo)",
+      "url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/11_espectro_ideologico_didatico.md",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/09_acusacoes_e_falas_flavio_x_lula.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "A reunião existiu?",
+      "resposta": "Sim, em 04/12/2024, fora da agenda, confirmada pelo Planalto, com Mantega e Galípolo."
+    },
+    {
+      "pergunta": "Há prova de que Lula prometeu ajuda?",
+      "resposta": "Não. A frase citada por Flávio não tem registro conhecido; Lula afirma ter dito que só haveria 'investigação técnica'."
+    },
+    {
+      "pergunta": "O governo ajudou o Master?",
+      "resposta": "Os atos posteriores foram contrários ao banco: veto do BC à compra pelo BRB, liquidação em 18/11/2025 e prisão de Vorcaro."
+    }
+  ],
+  "relacionadas": [
+    "banco-master-ligacoes-politicas",
+    "instituto-lula-30-milhoes-por-fora",
+    "lula-prendeu-vorcaro"
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false
+}

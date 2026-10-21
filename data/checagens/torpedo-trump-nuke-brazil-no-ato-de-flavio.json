@@ -1,0 +1,111 @@
+{
+  "id": "chk-2090",
+  "slug": "torpedo-trump-nuke-brazil-no-ato-de-flavio",
+  "frase": "No ato de Flávio na Paulista havia um torpedo inflável com a inscrição 'Trump nuke Brazil'.",
+  "frase_normalizada": "no ato de flavio na paulista havia um torpedo inflavel com a inscricao trump nuke brazil",
+  "variantes": [],
+  "autor": {
+    "nome": "Luiz Inácio Lula da Silva",
+    "partido": "PT",
+    "cargo": "presidente da República e candidato à reeleição"
+  },
+  "lado": "governo-lula-pt",
+  "alvo": {
+    "nome": "Flávio Bolsonaro",
+    "partido": "PL"
+  },
+  "data": "2026-10-18",
+  "onde": "Debate da Band (consórcio Band/Cultura/Gazeta/Jovem Pan/Estadão), São Paulo",
+  "url_declaracao": "https://www.polemicaparaiba.com.br/brasil/estadao-verifica-checa-declaracoes-de-lula-e-flavio-bolsonaro-em-debate-e-aponta-informacoes-falsas-enganosas-e-verdadeiras-confira/",
+  "temas": [
+    "eleicao-2026",
+    "relacoes-exteriores"
+  ],
+  "tags": [
+    "eleicao-2026",
+    "relacoes-exteriores"
+  ],
+  "veredito": "verdadeiro",
+  "resumo_uma_frase": "O Estadão Verifica confirmou a presença do inflável no ato de 18/10/2026; Flávio não comentou o objeto e disse que confrontaria os 'crimes' de Trump.",
+  "explicacao_simples": [
+    "Lula citou no debate um torpedo inflável com 'Trump nuke Brazil' no ato de Flávio na Paulista, no mesmo dia.",
+    "O Estadão Verifica confirmou que o objeto estava lá.",
+    "Flávio não comentou o inflável e disse que confrontaria os 'crimes' de Trump."
+  ],
+  "explicacao_completa_md": "Estadão Verifica: VERDADEIRO. Contexto: Flávio reuniu-se com Trump, Vance e Rubio em maio de 2026, pediu ao USTR o adiamento das tarifas de 25% e recebeu Javier Milei na convenção do PL (25/07/2026); a campanha de Lula explora 'soberania' e o Pix desde o tarifaço de 2025.",
+  "o_que_e_verdade": [
+    "O inflável com 'Trump nuke Brazil' estava no ato de Flávio em 18/10/2026."
+  ],
+  "o_que_nao_se_sustenta": [
+    "Nada; a responsabilidade pelo objeto não foi atribuída à organização do ato nas notas."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Participantes do ato de Flávio",
+      "papel": "exibiram o inflável",
+      "peso": "medio"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Data do ato e do debate",
+      "valor": 18,
+      "unidade": "out/2026 (dia)",
+      "periodo": "18/10/2026",
+      "fonte": {
+        "nome": "Estadão Verifica (via Polêmica Paraíba)",
+        "url": "https://www.polemicaparaiba.com.br/brasil/estadao-verifica-checa-declaracoes-de-lula-e-flavio-bolsonaro-em-debate-e-aponta-informacoes-falsas-enganosas-e-verdadeiras-confira/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": null
+    }
+  ],
+  "series": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Estadão Verifica",
+      "veredito_original": "VERDADEIRO",
+      "url": "https://www.polemicaparaiba.com.br/brasil/estadao-verifica-checa-declaracoes-de-lula-e-flavio-bolsonaro-em-debate-e-aponta-informacoes-falsas-enganosas-e-verdadeiras-confira/",
+      "data": "2026-10-18"
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Estadão Verifica (via Polêmica Paraíba)",
+      "url": "https://www.polemicaparaiba.com.br/brasil/estadao-verifica-checa-declaracoes-de-lula-e-flavio-bolsonaro-em-debate-e-aponta-informacoes-falsas-enganosas-e-verdadeiras-confira/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/09_acusacoes_e_falas_flavio_x_lula.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "O torpedo existiu?",
+      "resposta": "Sim, confirmado pelo Estadão Verifica."
+    },
+    {
+      "pergunta": "Flávio respondeu?",
+      "resposta": "Não comentou o objeto; disse que confrontaria os 'crimes' de Trump."
+    },
+    {
+      "pergunta": "Por que isso importa na campanha?",
+      "resposta": "Porque a relação de Flávio e Eduardo com o governo Trump e o tarifaço é um dos eixos de ataque da campanha de Lula."
+    }
+  ],
+  "relacionadas": [
+    "tarifaco-de-trump-culpa-do-lula",
+    "eduardo-bolsonaro-nunca-pediu-tarifas"
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false,
+  "lacunas": [
+    "Autoria do inflável não identificada nas notas."
+  ]
+}

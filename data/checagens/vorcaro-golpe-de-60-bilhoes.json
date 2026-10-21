@@ -1,0 +1,184 @@
+{
+  "id": "chk-2019",
+  "slug": "vorcaro-golpe-de-60-bilhoes",
+  "frase": "Vorcaro deu um golpe de R$ 60 bilhões.",
+  "frase_normalizada": "vorcaro deu um golpe de r 60 bilhoes",
+  "variantes": [],
+  "autor": {
+    "nome": "Luiz Inácio Lula da Silva",
+    "partido": "PT",
+    "cargo": "presidente da República e candidato à reeleição"
+  },
+  "lado": "governo-lula-pt",
+  "alvo": {
+    "nome": "Daniel Vorcaro / Flávio Bolsonaro",
+    "partido": "PL"
+  },
+  "data": "2026-10-18",
+  "onde": "Debate da Band (consórcio Band/Cultura/Gazeta/Jovem Pan/Estadão), São Paulo",
+  "url_declaracao": "https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026",
+  "temas": [
+    "corrupcao",
+    "economia"
+  ],
+  "tags": [
+    "corrupcao",
+    "economia"
+  ],
+  "veredito": "exagerado",
+  "resumo_uma_frase": "O prejuízo confirmado ao FGC era de R$ 51,8 bilhões segundo o Ranking dos Políticos (cerca de R$ 52 bilhões em fev/2026), com estimativas que vão de R$ 41 bilhões (nov/2025) a R$ 57,4 bilhões no total; R$ 60 bilhões está acima de todas as cifras documentadas.",
+  "explicacao_simples": [
+    "O rombo do Banco Master ao Fundo Garantidor de Créditos é enorme, mas o número varia conforme a data e o que se inclui.",
+    "As estimativas vão de R$ 41 bilhões (logo após a liquidação) a R$ 57,4 bilhões (total estimado com bancos ligados); R$ 60 bilhões arredonda para cima.",
+    "O Ranking dos Políticos classificou a frase como imprecisa, com prejuízo confirmado de R$ 51,8 bilhões."
+  ],
+  "explicacao_completa_md": "Custo ao FGC segundo as fontes das notas: cerca de R$ 41 bilhões (CNN, 18/11/2025); cerca de R$ 47 bilhões incluindo o Will Bank (Agência Pública); cerca de R$ 52 bilhões (CNN, 18/02/2026); R$ 56 bilhões após a liquidação do Banco Pleno (Pública); provisão de R$ 40,6 bilhões no fim de 2025 e custo total estimado em R$ 57,4 bilhões (JGB); a Lupa citava R$ 49,4 bilhões já reembolsados em out/2026. O Ranking dos Políticos usou R$ 51,8 bilhões de prejuízo confirmado e classificou a frase de Lula como IMPRECISA. Vorcaro está preso preventivamente desde 04/03/2026 (primeira prisão em 17/11/2025); não há denúncia da PGR localizada, portanto 'golpe' é a descrição da acusação em investigação, não de uma condenação.",
+  "o_que_e_verdade": [
+    "O caso Master gerou dezenas de bilhões em reembolsos do FGC e Vorcaro está preso preventivamente."
+  ],
+  "o_que_nao_se_sustenta": [
+    "R$ 60 bilhões: as cifras documentadas vão de R$ 41 a 57,4 bilhões; o Ranking usa R$ 51,8 bilhões.",
+    "'Golpe' como fato julgado: Vorcaro não foi denunciado nem condenado até out/2026."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Daniel Vorcaro e Banco Master",
+      "papel": "operação investigada como fraude; preso preventivamente",
+      "peso": "alto"
+    },
+    {
+      "ator": "FGC",
+      "papel": "reembolsa investidores; valor final não consolidado",
+      "peso": "medio"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Prejuízo confirmado ao FGC (Ranking)",
+      "valor": 51.8,
+      "unidade": "R$ bilhões",
+      "periodo": "out/2026",
+      "fonte": {
+        "nome": "Ranking dos Políticos",
+        "url": "https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": {
+        "rotulo": "Valor citado por Lula",
+        "valor": 60
+      }
+    },
+    {
+      "rotulo": "Custo total estimado ao FGC (faixa alta)",
+      "valor": 57.4,
+      "unidade": "R$ bilhões",
+      "periodo": "2026",
+      "fonte": {
+        "nome": "Jornal Grande Bahia, jul/2026 (dez fases da Compliance Zero)",
+        "url": "https://jornalgrandebahia.com.br/2026/07/daniel-vorcaro-e-o-caso-banco-master-suspeita-de-fraude-bilionaria-perdas-no-brb-impacto-no-fgc-e-dez-fases-da-compliance-zero/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Estimativa inicial (CNN)",
+      "valor": 41,
+      "unidade": "R$ bilhões",
+      "periodo": "18/11/2025",
+      "fonte": {
+        "nome": "Wikipédia: Escândalo do Banco Master (índice com fontes)",
+        "url": "https://pt.wikipedia.org/wiki/Esc%C3%A2ndalo_do_Banco_Master",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Reembolsado pelo FGC segundo a Lupa",
+      "valor": 49.4,
+      "unidade": "R$ bilhões",
+      "periodo": "out/2026",
+      "fonte": {
+        "nome": "Agência Lupa",
+        "url": "https://www.agencialupa.org/checagem/2026/10/16/ao-vivo-checagem-da-entrevista-de-flavio-bolsonaro-na-globo/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": null
+    }
+  ],
+  "series": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Ranking dos Políticos",
+      "veredito_original": "IMPRECISO",
+      "url": "https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026",
+      "data": "2026-10-18"
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Ranking dos Políticos",
+      "url": "https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Jornal Grande Bahia, jul/2026 (dez fases da Compliance Zero)",
+      "url": "https://jornalgrandebahia.com.br/2026/07/daniel-vorcaro-e-o-caso-banco-master-suspeita-de-fraude-bilionaria-perdas-no-brb-impacto-no-fgc-e-dez-fases-da-compliance-zero/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Wikipédia: Escândalo do Banco Master (índice com fontes)",
+      "url": "https://pt.wikipedia.org/wiki/Esc%C3%A2ndalo_do_Banco_Master",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Agência Lupa",
+      "url": "https://www.agencialupa.org/checagem/2026/10/16/ao-vivo-checagem-da-entrevista-de-flavio-bolsonaro-na-globo/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Agência Pública, mar/2026 (reconstrução do caso Master)",
+      "url": "https://apublica.org/2026/03/banco-master-a-reconstrucao-completa-de-como-uma-fraude-capturou-a-republica/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/09_acusacoes_e_falas_flavio_x_lula.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "Qual é o tamanho real do rombo?",
+      "resposta": "Depende da data e do escopo: de R$ 41 bilhões (nov/2025) a R$ 57,4 bilhões (estimativa total com Will Bank e Pleno); o Ranking usa R$ 51,8 bilhões confirmados."
+    },
+    {
+      "pergunta": "Quem paga essa conta?",
+      "resposta": "O FGC, fundo mantido pelos próprios bancos, que garante até R$ 250 mil por CPF por instituição."
+    },
+    {
+      "pergunta": "Vorcaro foi condenado?",
+      "resposta": "Não. Está preso preventivamente desde 04/03/2026; não há denúncia da PGR localizada nas notas."
+    }
+  ],
+  "relacionadas": [
+    "banco-master-ligacoes-politicas",
+    "dark-horse-vorcaro-flavio",
+    "lula-prendeu-vorcaro"
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false,
+  "lacunas": [
+    "Valor final do custo ao FGC não verificado em fonte oficial do BC/FGC."
+  ]
+}

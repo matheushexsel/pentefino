@@ -1,0 +1,143 @@
+{
+  "id": "chk-2083",
+  "slug": "lula-trocou-27-superintendentes-da-pf",
+  "frase": "Lula trocou os 27 superintendentes da PF; Bolsonaro trocou um, Lula troca 27.",
+  "frase_normalizada": "lula trocou os 27 superintendentes da pf bolsonaro trocou um lula troca 27",
+  "variantes": [],
+  "autor": {
+    "nome": "Flávio Bolsonaro",
+    "partido": "PL",
+    "cargo": "senador (RJ) e candidato à Presidência"
+  },
+  "lado": "oposicao-flavio-pl",
+  "alvo": {
+    "nome": "Luiz Inácio Lula da Silva",
+    "partido": "PT"
+  },
+  "data": "2026-10-16",
+  "onde": "Entrevista à TV Globo (Renata Lo Prete)",
+  "url_declaracao": "https://www.agencialupa.org/checagem/2026/10/16/ao-vivo-checagem-da-entrevista-de-flavio-bolsonaro-na-globo/",
+  "temas": [
+    "justica-stf",
+    "eleicao-2026"
+  ],
+  "tags": [
+    "justica-stf",
+    "eleicao-2026"
+  ],
+  "veredito": "verdadeiro-mas",
+  "resumo_uma_frase": "Lula trocou ao menos 26 dos 27 superintendentes da PF (Folha, 2025), mas Bolsonaro não trocou 'um': trocou ao menos 20 delegados de chefia em três anos e cinco diretores-gerais, e Sergio Moro deixou o governo em abril de 2020 acusando interferência na PF.",
+  "explicacao_simples": [
+    "É verdade que Lula trocou quase todos os superintendentes da PF: 26 de 27, segundo a Folha.",
+    "Mas Bolsonaro não trocou 'só um': trocou ao menos 20 chefias em três anos e cinco diretores-gerais, e seu ministro da Justiça, Sergio Moro, saiu acusando interferência na PF.",
+    "A Lupa classificou a primeira parte como verdadeira e a comparação como falsa."
+  ],
+  "explicacao_completa_md": "Lupa (Globo, 16/10): VERDADEIRO (ao menos 26 de 27 superintendentes trocados por Lula); FALSO que 'Bolsonaro troca um' (ao menos 20 delegados de chefia em 3 anos e 5 trocas de diretor-geral). 'Moro pediu para sair e hoje somos aliados': FALTA CONTEXTO (saiu em abr/2020 acusando interferência na PF). Hoje a PF é dirigida por Andrei Rodrigues, que em dez/2024 mudou a contagem de operações (só homologadas) e conduziu Sem Desconto, Compliance Zero e Dark Horse.",
+  "o_que_e_verdade": [
+    "Lula trocou ao menos 26 dos 27 superintendentes da PF."
+  ],
+  "o_que_nao_se_sustenta": [
+    "'Bolsonaro trocou um': ao menos 20 chefias e 5 diretores-gerais; Moro saiu em 2020 acusando interferência."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Governo Lula (Ministério da Justiça/PF)",
+      "papel": "trocou superintendentes",
+      "peso": "alto"
+    },
+    {
+      "ator": "Governo Bolsonaro",
+      "papel": "trocou chefias e 5 diretores-gerais",
+      "peso": "alto"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Superintendentes da PF trocados por Lula",
+      "valor": 26,
+      "unidade": "de 27",
+      "periodo": "2023-2025",
+      "fonte": {
+        "nome": "Agência Lupa",
+        "url": "https://www.agencialupa.org/checagem/2026/10/16/ao-vivo-checagem-da-entrevista-de-flavio-bolsonaro-na-globo/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Delegados de chefia trocados por Bolsonaro",
+      "valor": 20,
+      "unidade": "ao menos, em 3 anos",
+      "periodo": "2019-2022",
+      "fonte": {
+        "nome": "Agência Lupa",
+        "url": "https://www.agencialupa.org/checagem/2026/10/16/ao-vivo-checagem-da-entrevista-de-flavio-bolsonaro-na-globo/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": {
+        "rotulo": "Citado por Flávio",
+        "valor": 1
+      }
+    },
+    {
+      "rotulo": "Diretores-gerais da PF trocados por Bolsonaro",
+      "valor": 5,
+      "unidade": "trocas",
+      "periodo": "2019-2022",
+      "fonte": {
+        "nome": "Agência Lupa",
+        "url": "https://www.agencialupa.org/checagem/2026/10/16/ao-vivo-checagem-da-entrevista-de-flavio-bolsonaro-na-globo/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": null
+    }
+  ],
+  "series": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Agência Lupa",
+      "veredito_original": "VERDADEIRO (27) / FALSO ('Bolsonaro troca um') / FALTA CONTEXTO (Moro)",
+      "url": "https://www.agencialupa.org/checagem/2026/10/16/ao-vivo-checagem-da-entrevista-de-flavio-bolsonaro-na-globo/",
+      "data": "2026-10-16"
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Agência Lupa",
+      "url": "https://www.agencialupa.org/checagem/2026/10/16/ao-vivo-checagem-da-entrevista-de-flavio-bolsonaro-na-globo/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/09_acusacoes_e_falas_flavio_x_lula.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "Lula trocou os superintendentes da PF?",
+      "resposta": "Sim, ao menos 26 de 27, segundo a Folha (2025)."
+    },
+    {
+      "pergunta": "Bolsonaro trocou só um?",
+      "resposta": "Não. Ao menos 20 delegados de chefia e cinco diretores-gerais em três anos."
+    },
+    {
+      "pergunta": "Por que Moro saiu do governo Bolsonaro?",
+      "resposta": "Em abril de 2020, acusando interferência política na PF; hoje é senador (União-PR), governador eleito do Paraná pelo PL e aliado de Flávio."
+    }
+  ],
+  "relacionadas": [
+    "moro-pediu-para-sair",
+    "stf-ameaca-fontes-jornalisticas",
+    "dino-na-mare"
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false
+}

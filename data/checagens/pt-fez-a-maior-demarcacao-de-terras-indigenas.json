@@ -1,0 +1,117 @@
+{
+  "id": "chk-2106",
+  "slug": "pt-fez-a-maior-demarcacao-de-terras-indigenas",
+  "frase": "Os governos do PT fizeram a maior demarcação de terras indígenas da história.",
+  "frase_normalizada": "os governos do pt fizeram a maior demarcacao de terras indigenas da historia",
+  "variantes": [],
+  "autor": {
+    "nome": "Luiz Inácio Lula da Silva",
+    "partido": "PT",
+    "cargo": "presidente da República e candidato à reeleição"
+  },
+  "lado": "governo-lula-pt",
+  "alvo": {
+    "nome": null,
+    "partido": null
+  },
+  "data": "2026-10-18",
+  "onde": "Debate da Band (consórcio Band/Cultura/Gazeta/Jovem Pan/Estadão), São Paulo",
+  "url_declaracao": "https://www.aosfatos.org/noticias/checamos-lula-flavio-bolsonaro-debate-band/",
+  "temas": [
+    "meio-ambiente",
+    "direitos-sociais"
+  ],
+  "tags": [
+    "meio-ambiente",
+    "direitos-sociais"
+  ],
+  "veredito": "falso",
+  "resumo_uma_frase": "O Aos Fatos classificou a afirmação como falsa no debate da Band; a nota não detalha os números comparativos por governo.",
+  "explicacao_simples": [
+    "Lula afirmou que os governos do PT fizeram a maior demarcação de terras indígenas.",
+    "O Aos Fatos classificou como falso.",
+    "As notas de pesquisa não trazem a série de demarcações por governo; registramos a lacuna."
+  ],
+  "explicacao_completa_md": "Aos Fatos (Band, 18/10/2026): FALSO. A nota 09 registra apenas o veredito. Contexto ambiental do governo Lula 3: queda do desmatamento (5.796 km² em 2025), Fundo Amazônia reativado, mas veto ao marco temporal derrubado pelo Congresso (nota 08) e recorde de queimadas em 2024.",
+  "o_que_e_verdade": [
+    "Os governos do PT demarcaram terras indígenas e Lula vetou o marco temporal (veto derrubado)."
+  ],
+  "o_que_nao_se_sustenta": [
+    "'Maior demarcação da história': FALSO (Aos Fatos)."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Lula",
+      "papel": "autor da frase",
+      "peso": "alto"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Desmatamento PRODES Amazônia em 2025 (contexto)",
+      "valor": 5796,
+      "unidade": "km²",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "O Liberal/Estadão (PRODES 2025: -11,08%)",
+        "url": "https://www.oliberal.com/variedades/desmatamento-na-amazonia-em-2025-caiu-11-08-em-relacao-a-2024-afirma-prodes-inpe-1.1084212",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": null
+    }
+  ],
+  "series": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Aos Fatos",
+      "veredito_original": "FALSO",
+      "url": "https://www.aosfatos.org/noticias/checamos-lula-flavio-bolsonaro-debate-band/",
+      "data": "2026-10-18"
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "O Liberal/Estadão (PRODES 2025: -11,08%)",
+      "url": "https://www.oliberal.com/variedades/desmatamento-na-amazonia-em-2025-caiu-11-08-em-relacao-a-2024-afirma-prodes-inpe-1.1084212",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Aos Fatos",
+      "url": "https://www.aosfatos.org/noticias/checamos-lula-flavio-bolsonaro-debate-band/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/09_acusacoes_e_falas_flavio_x_lula.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "Qual governo mais demarcou terras indígenas?",
+      "resposta": "A nota de pesquisa não traz a série; o Aos Fatos classificou a afirmação de Lula como falsa."
+    },
+    {
+      "pergunta": "O que Lula fez sobre o marco temporal?",
+      "resposta": "Vetou a lei do marco temporal; o Congresso derrubou o veto (nota 08)."
+    },
+    {
+      "pergunta": "Por que esta checagem é curta?",
+      "resposta": "Porque as notas registram apenas o veredito da agência, sem os números; a lacuna está indicada."
+    }
+  ],
+  "relacionadas": [
+    "desmatamento-caiu-com-lula",
+    "lula-aprovou-99-por-cento-do-que-mandou"
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false,
+  "lacunas": [
+    "Série de demarcações por governo não consta nas notas; apenas o veredito do Aos Fatos."
+  ]
+}

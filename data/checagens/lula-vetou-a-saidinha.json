@@ -1,0 +1,128 @@
+{
+  "id": "chk-2048",
+  "slug": "lula-vetou-a-saidinha",
+  "frase": "Lula vetou o fim da saidinha, e a gente teve que derrubar no Congresso.",
+  "frase_normalizada": "lula vetou o fim da saidinha e a gente teve que derrubar no congresso",
+  "variantes": [
+    "Um sargento da PM foi morto por detento da saidinha"
+  ],
+  "autor": {
+    "nome": "Flávio Bolsonaro",
+    "partido": "PL",
+    "cargo": "senador (RJ) e candidato à Presidência"
+  },
+  "lado": "oposicao-flavio-pl",
+  "alvo": {
+    "nome": "Luiz Inácio Lula da Silva",
+    "partido": "PT"
+  },
+  "data": "2026-10-18",
+  "onde": "Debate da Band (consórcio Band/Cultura/Gazeta/Jovem Pan/Estadão), São Paulo",
+  "url_declaracao": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+  "temas": [
+    "seguranca",
+    "eleicao-2026"
+  ],
+  "tags": [
+    "seguranca",
+    "eleicao-2026"
+  ],
+  "veredito": "verdadeiro-mas",
+  "resumo_uma_frase": "Lula vetou trechos da lei que restringiu a saída temporária de presos e o Congresso derrubou o veto em 28/05/2024; também é verdade que o sargento PM Dias foi morto em janeiro de 2024 por um detento em saidinha; mas é falso que o governo acionou a Justiça para restabelecer a saidinha (a ADI 7663 é da Anacrim).",
+  "explicacao_simples": [
+    "É verdade: Lula vetou a restrição à saidinha e o Congresso derrubou o veto em maio de 2024.",
+    "Também é verdade que um sargento da PM foi morto em janeiro de 2024 por um preso em saidinha, caso citado no debate.",
+    "O que não é verdade é que o governo tenha acionado o STF para trazer a saidinha de volta: a ação é de uma associação de criminalistas."
+  ],
+  "explicacao_completa_md": "Lupa: VERDADEIRO que Lula vetou a saidinha e o Congresso derrubou o veto (28/05/2024); FALSO que Lula 'acionou a Justiça para fazer a saidinha voltar' (ADI 7663 é da Anacrim); Estadão Verifica: ENGANOSO para essa segunda parte. Ranking dos Políticos: VERDADEIRO que o sargento PM Dias foi morto por detento da saidinha (jan/2024).",
+  "o_que_e_verdade": [
+    "Lula vetou a restrição à saidinha; veto derrubado pelo Congresso em 28/05/2024.",
+    "O sargento PM Dias foi morto em janeiro de 2024 por detento em saidinha."
+  ],
+  "o_que_nao_se_sustenta": [
+    "'Lula acionou a Justiça para a saidinha voltar': a ADI 7663 é da Anacrim."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Lula",
+      "papel": "vetou trechos da lei",
+      "peso": "alto"
+    },
+    {
+      "ator": "Congresso Nacional",
+      "papel": "derrubou o veto em 28/05/2024",
+      "peso": "alto"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Data da derrubada do veto",
+      "valor": 28,
+      "unidade": "mai/2024 (dia)",
+      "periodo": "28/05/2024",
+      "fonte": {
+        "nome": "Agência Lupa",
+        "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": null
+    }
+  ],
+  "series": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Agência Lupa",
+      "veredito_original": "VERDADEIRO (veto) / FALSO (acionou a Justiça)",
+      "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+      "data": "2026-10-18"
+    },
+    {
+      "veiculo": "Ranking dos Políticos",
+      "veredito_original": "VERDADEIRO (sargento PM Dias)",
+      "url": "https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026",
+      "data": "2026-10-18"
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Agência Lupa",
+      "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Ranking dos Políticos",
+      "url": "https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/09_acusacoes_e_falas_flavio_x_lula.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "Lula vetou o fim da saidinha?",
+      "resposta": "Vetou trechos da lei que a restringia; o Congresso derrubou o veto em 28/05/2024."
+    },
+    {
+      "pergunta": "A saidinha ainda existe?",
+      "resposta": "A lei de 2024 restringiu a saída temporária; há ação da Anacrim (ADI 7663) no STF questionando a restrição."
+    },
+    {
+      "pergunta": "O governo quer a saidinha de volta?",
+      "resposta": "Não há ação do governo nesse sentido; a ADI é de uma associação de advogados criminalistas."
+    }
+  ],
+  "relacionadas": [
+    "lula-solta-bandido",
+    "violencia-explodiu-no-governo-lula"
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false
+}

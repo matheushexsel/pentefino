@@ -1,0 +1,161 @@
+{
+  "id": "chk-2100",
+  "slug": "bolsonaro-comprou-a-vacina",
+  "frase": "Lula tomou vacina e quem a comprou foi Bolsonaro.",
+  "frase_normalizada": "lula tomou vacina e quem a comprou foi bolsonaro",
+  "variantes": [],
+  "autor": {
+    "nome": "Flávio Bolsonaro",
+    "partido": "PL",
+    "cargo": "senador (RJ) e candidato à Presidência"
+  },
+  "lado": "oposicao-flavio-pl",
+  "alvo": {
+    "nome": "Luiz Inácio Lula da Silva",
+    "partido": "PT"
+  },
+  "data": "2026-10-18",
+  "onde": "Debate da Band (consórcio Band/Cultura/Gazeta/Jovem Pan/Estadão), São Paulo",
+  "url_declaracao": "https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026",
+  "temas": [
+    "saude",
+    "eleicao-2026"
+  ],
+  "tags": [
+    "saude",
+    "eleicao-2026"
+  ],
+  "veredito": "verdadeiro-mas",
+  "resumo_uma_frase": "Lula tomou a vacina em março de 2021 e o contrato da CoronaVac é de janeiro de 2021, no governo Bolsonaro; mas a compra só ocorreu depois de Bolsonaro dizer que não compraria, após o governo ignorar 81 e-mails da Pfizer e 11 ofertas de vacina em 2020.",
+  "explicacao_simples": [
+    "É verdade: Lula se vacinou em março de 2021 e o governo Bolsonaro assinou o contrato da CoronaVac em janeiro de 2021.",
+    "Mas a compra veio tarde: o governo ignorou 81 e-mails da Pfizer desde agosto de 2020 e recusou 11 ofertas, e Bolsonaro havia dito que não compraria a CoronaVac.",
+    "A vacinação evitou cerca de 1 milhão de mortes; o Ranking classificou como verdadeiro e o Aos Fatos acrescentou o contexto do atraso."
+  ],
+  "explicacao_completa_md": "Ranking dos Políticos: VERDADEIRO (dose em mar/2021; contrato CoronaVac jan/2021); Aos Fatos: a compra só veio depois de Bolsonaro dizer que não compraria. Contexto (nota 07): 81 e-mails da Pfizer não respondidos (ofertas desde ago/2020); 11 recusas listadas pela CPI; cloroquina em 23 discursos; Anvisa autorizou CoronaVac e AstraZeneca em 17/01/2021; 80% dos adultos com 2 doses ao fim de 2021; cerca de 1 milhão de mortes evitadas (Lancet).",
+  "o_que_e_verdade": [
+    "Lula foi vacinado em março de 2021 com vacina comprada pelo governo Bolsonaro (contrato CoronaVac de janeiro de 2021)."
+  ],
+  "o_que_nao_se_sustenta": [
+    "A implicação de que o governo Bolsonaro foi diligente: ignorou 81 e-mails da Pfizer e 11 ofertas em 2020 e Bolsonaro disse que não compraria a CoronaVac antes de fechá-la."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Governo Bolsonaro (Ministério da Saúde)",
+      "papel": "comprou as vacinas, com atraso documentado pela CPI",
+      "peso": "alto"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "E-mails da Pfizer ignorados pelo governo",
+      "valor": 81,
+      "unidade": "e-mails",
+      "periodo": "2020",
+      "fonte": {
+        "nome": "Wikipédia: CPI da Pandemia (índice)",
+        "url": "https://pt.wikipedia.org/wiki/CPI_da_Pandemia",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Data da autorização da Anvisa (CoronaVac e AstraZeneca)",
+      "valor": 17,
+      "unidade": "jan/2021 (dia)",
+      "periodo": "17/01/2021",
+      "fonte": {
+        "nome": "Wikipédia: Pandemia de COVID-19 no Brasil (índice)",
+        "url": "https://pt.wikipedia.org/wiki/Pandemia_de_COVID-19_no_Brasil",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Adultos com duas doses ao fim de 2021",
+      "valor": 80,
+      "unidade": "%",
+      "periodo": "dez/2021",
+      "fonte": {
+        "nome": "Wikipédia: Pandemia de COVID-19 no Brasil (índice)",
+        "url": "https://pt.wikipedia.org/wiki/Pandemia_de_COVID-19_no_Brasil",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": null
+    }
+  ],
+  "series": [
+    "covid-mortes"
+  ],
+  "checagens_externas": [
+    {
+      "veiculo": "Ranking dos Políticos",
+      "veredito_original": "VERDADEIRO",
+      "url": "https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026",
+      "data": "2026-10-18"
+    },
+    {
+      "veiculo": "Aos Fatos",
+      "veredito_original": "compra só veio após Bolsonaro dizer que não compraria",
+      "url": "https://www.aosfatos.org/noticias/checamos-lula-flavio-bolsonaro-debate-band/",
+      "data": "2026-10-18"
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Wikipédia: CPI da Pandemia (índice)",
+      "url": "https://pt.wikipedia.org/wiki/CPI_da_Pandemia",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Wikipédia: Pandemia de COVID-19 no Brasil (índice)",
+      "url": "https://pt.wikipedia.org/wiki/Pandemia_de_COVID-19_no_Brasil",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Ranking dos Políticos",
+      "url": "https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Aos Fatos",
+      "url": "https://www.aosfatos.org/noticias/checamos-lula-flavio-bolsonaro-debate-band/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/09_acusacoes_e_falas_flavio_x_lula.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "Quem comprou a vacina que Lula tomou?",
+      "resposta": "O governo Bolsonaro (contrato da CoronaVac, janeiro de 2021); Lula se vacinou em março de 2021."
+    },
+    {
+      "pergunta": "O governo Bolsonaro demorou?",
+      "resposta": "Sim: ignorou 81 e-mails da Pfizer desde agosto de 2020, recusou 11 ofertas e Bolsonaro disse que não compraria a CoronaVac antes de fechar o contrato."
+    },
+    {
+      "pergunta": "Quantas vidas a vacinação salvou?",
+      "resposta": "Cerca de 1 milhão de mortes adicionais evitadas até dezembro de 2021, segundo estudo da Lancet."
+    }
+  ],
+  "relacionadas": [
+    "covid-700-mil-mortes-responsabilidade",
+    "vacinacao-caiu-no-governo-bolsonaro",
+    "brasil-segundo-pais-em-mortes-por-covid"
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false
+}

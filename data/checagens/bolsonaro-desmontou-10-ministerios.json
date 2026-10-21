@@ -1,0 +1,154 @@
+{
+  "id": "chk-2101",
+  "slug": "bolsonaro-desmontou-10-ministerios",
+  "frase": "Foram 10 ministérios desmontados pelo Bolsonaro; ele teve três ministros da Saúde.",
+  "frase_normalizada": "foram 10 ministerios desmontados pelo bolsonaro ele teve tres ministros da saude",
+  "variantes": [],
+  "autor": {
+    "nome": "Luiz Inácio Lula da Silva",
+    "partido": "PT",
+    "cargo": "presidente da República e candidato à reeleição"
+  },
+  "lado": "governo-lula-pt",
+  "alvo": {
+    "nome": "Governo Bolsonaro (2019-2022)",
+    "partido": "PL"
+  },
+  "data": "2026-10-15",
+  "onde": "Entrevista à TV Globo (Renata Lo Prete) ('três ministros' no debate da Band, 18/10)",
+  "url_declaracao": "https://www.agencialupa.org/checagem/2026/10/15/ao-vivo-checagem-da-entrevista-de-lula-na-tv-globo/",
+  "temas": [
+    "saude",
+    "eleicao-2026"
+  ],
+  "tags": [
+    "saude",
+    "eleicao-2026"
+  ],
+  "veredito": "verdadeiro-mas",
+  "resumo_uma_frase": "Bolsonaro extinguiu 10 ministérios (Lupa e Aos Fatos: verdadeiro), mas teve quatro ministros da Saúde, não três (Ranking: impreciso); Flávio promete cortar ao menos 10 ministérios se eleito.",
+  "explicacao_simples": [
+    "Bolsonaro reduziu a estrutura do governo em 10 ministérios em 2019; Lupa e Aos Fatos confirmaram.",
+    "Na Saúde, porém, ele teve quatro ministros durante a pandemia, não três.",
+    "Flávio promete repetir o corte de pelo menos 10 ministérios."
+  ],
+  "explicacao_completa_md": "Lupa e Aos Fatos (Globo, 15/10): VERDADEIRO ('10 ministérios desmontados'). Ranking (Band, 18/10): IMPRECISO ('três ministros da Saúde'; foram quatro). O programa de Flávio prevê corte de ao menos 10 ministérios, reforma administrativa e Programa Nacional de Desestatização; o governo Lula criou cerca de 5,7 mil cargos comissionados (Flávio disse 22 mil: EXAGERADO).",
+  "o_que_e_verdade": [
+    "Bolsonaro extinguiu 10 ministérios."
+  ],
+  "o_que_nao_se_sustenta": [
+    "'Três ministros da Saúde': foram quatro."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Governo Bolsonaro",
+      "papel": "reorganizou a Esplanada em 2019 e trocou ministros da Saúde na pandemia",
+      "peso": "alto"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Ministérios extintos por Bolsonaro",
+      "valor": 10,
+      "unidade": "ministérios",
+      "periodo": "2019",
+      "fonte": {
+        "nome": "Agência Lupa",
+        "url": "https://www.agencialupa.org/checagem/2026/10/15/ao-vivo-checagem-da-entrevista-de-lula-na-tv-globo/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Ministros da Saúde no governo Bolsonaro",
+      "valor": 4,
+      "unidade": "ministros",
+      "periodo": "2019-2022",
+      "fonte": {
+        "nome": "Ranking dos Políticos",
+        "url": "https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": {
+        "rotulo": "Citado por Lula",
+        "valor": 3
+      }
+    }
+  ],
+  "series": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Agência Lupa",
+      "veredito_original": "VERDADEIRO (10 ministérios)",
+      "url": "https://www.agencialupa.org/checagem/2026/10/15/ao-vivo-checagem-da-entrevista-de-lula-na-tv-globo/",
+      "data": "2026-10-15"
+    },
+    {
+      "veiculo": "Aos Fatos",
+      "veredito_original": "VERDADEIRO (10 ministérios)",
+      "url": "https://www.aosfatos.org/noticias/checamos-lula-globo-segundo-turno/",
+      "data": "2026-10-15"
+    },
+    {
+      "veiculo": "Ranking dos Políticos",
+      "veredito_original": "IMPRECISO (três ministros da Saúde)",
+      "url": "https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026",
+      "data": "2026-10-18"
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Agência Lupa",
+      "url": "https://www.agencialupa.org/checagem/2026/10/15/ao-vivo-checagem-da-entrevista-de-lula-na-tv-globo/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Ranking dos Políticos",
+      "url": "https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Aos Fatos",
+      "url": "https://www.aosfatos.org/noticias/checamos-lula-globo-segundo-turno/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Portal Tela, 14/08/2026 (plano de governo de Flávio)",
+      "url": "https://www.portaltela.com/politica/2026/08/14/plano-de-governo-de-flavio-bolsonaro-tem-9-eixos-veja-propostas/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/09_acusacoes_e_falas_flavio_x_lula.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "Bolsonaro cortou 10 ministérios?",
+      "resposta": "Sim, confirmado por Lupa e Aos Fatos."
+    },
+    {
+      "pergunta": "Quantos ministros da Saúde ele teve?",
+      "resposta": "Quatro, não três."
+    },
+    {
+      "pergunta": "Flávio quer repetir?",
+      "resposta": "Sim; o programa prevê corte de ao menos 10 ministérios e reforma administrativa."
+    }
+  ],
+  "relacionadas": [
+    "governo-criou-22-mil-cargos-comissionados",
+    "covid-700-mil-mortes-responsabilidade"
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false
+}

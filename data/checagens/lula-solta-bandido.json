@@ -1,0 +1,219 @@
+{
+  "id": "chk-2047",
+  "slug": "lula-solta-bandido",
+  "frase": "Lula coloca nas ruas marginais perigosos, alegando que não tem vagas no sistema penitenciário.",
+  "frase_normalizada": "lula coloca nas ruas marginais perigosos alegando que nao tem vagas no sistema penitenciario",
+  "variantes": [
+    "Lula solta bandido",
+    "O governo Lula solta presos por falta de vaga",
+    "Lula acionou a Justiça para trazer a saidinha de volta"
+  ],
+  "autor": {
+    "nome": "Flávio Bolsonaro",
+    "partido": "PL",
+    "cargo": "senador (RJ) e candidato à Presidência"
+  },
+  "lado": "oposicao-flavio-pl",
+  "alvo": {
+    "nome": "Governo Lula (2023-2026)",
+    "partido": "PT"
+  },
+  "data": "2026-10-18",
+  "onde": "Debate da Band (consórcio Band/Cultura/Gazeta/Jovem Pan/Estadão), São Paulo",
+  "url_declaracao": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+  "temas": [
+    "seguranca",
+    "justica-stf",
+    "eleicao-2026"
+  ],
+  "tags": [
+    "seguranca",
+    "justica-stf",
+    "eleicao-2026"
+  ],
+  "veredito": "falso",
+  "resumo_uma_frase": "Não existe norma de soltura por falta de vagas; o mutirão do programa Pena Justa beneficiou quem já tinha direito; a população prisional subiu a 964.668 em 2025 (recorde); quem solta ou prende é o Judiciário, e a ação no STF para restabelecer a saidinha (ADI 7663) é da Anacrim, não do governo.",
+  "explicacao_simples": [
+    "Nenhuma lei ou decreto do governo Lula manda soltar presos por falta de vagas; a Lupa classificou a frase como falsa.",
+    "O número de presos nunca foi tão alto: 964.668 em 2025, com déficit de 281 mil vagas, e a prisão domiciliar cresceu por decisões judiciais.",
+    "Soltar ou prender é decisão de juízes; a ação no STF para voltar a saidinha foi de uma associação de advogados criminalistas, não do governo."
+  ],
+  "explicacao_completa_md": "A Lupa classificou como FALSO: não há norma de soltura por falta de vagas; o mutirão do programa Pena Justa (CNJ/governo) beneficiou presos que já tinham direito a progressão ou soltura. A alegação de que Lula 'acionou a Justiça para tentar fazer com que a saidinha voltasse' também foi classificada como FALSA (a ADI 7663 é da Anacrim) e como ENGANOSA pelo Estadão Verifica; é VERDADEIRO que Lula vetou a saidinha e o Congresso derrubou o veto em 28/05/2024. **Dados (Anuário 2026):** população prisional de 909.594 (2024) para 964.668 (2025), +314,5% desde 2000; déficit de 281.213 vagas (FBSP) ou cerca de 202 mil (Senappen); 25,7% provisórios; prisão domiciliar de 6.027 (2º semestre de 2016) para 235.880 (1º semestre de 2025). Mortes violentas intencionais caíram 8,2% em 2025 (40.775; taxa 19,1, menor desde 2012); roubos caíram 18,3%. **Responsabilidade:** execução penal e presídios são sobretudo estaduais (estados gastam 80% da segurança pública); a União atua via presídios federais, fundos (FNSP/Funpen) e legislação penal.",
+  "o_que_e_verdade": [
+    "Lula vetou a lei que restringiu a saidinha e o Congresso derrubou o veto (28/05/2024).",
+    "A prisão domiciliar cresceu muito (235.880 pessoas no 1º semestre de 2025), por decisões do Judiciário."
+  ],
+  "o_que_nao_se_sustenta": [
+    "'Solta por falta de vagas': não há norma nesse sentido; o mutirão beneficiou quem já tinha direito; a população prisional é recorde.",
+    "'Acionou a Justiça pela saidinha': a ADI 7663 é da Anacrim, não do governo."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Judiciário (juízes de execução penal; CNJ)",
+      "papel": "decide prisões, progressões e solturas",
+      "peso": "alto"
+    },
+    {
+      "ator": "Governos estaduais",
+      "papel": "administram presídios e respondem por 80% do gasto em segurança",
+      "peso": "alto"
+    },
+    {
+      "ator": "Governo federal (Senappen; Pena Justa)",
+      "papel": "coordena mutirões e presídios federais; não solta presos",
+      "peso": "medio"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "População prisional",
+      "valor": 964668,
+      "unidade": "pessoas",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Anuário Brasileiro de Segurança Pública 2026 (FBSP, PDF)",
+        "url": "https://static.poder360.com.br/uploads/2026/07/anuario-seguranca-publica-23jul26.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      "comparacao": {
+        "rotulo": "2022",
+        "valor": 832295
+      }
+    },
+    {
+      "rotulo": "Déficit de vagas (FBSP)",
+      "valor": 281213,
+      "unidade": "vagas",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "BNews/Correio Braziliense (Brasil se aproxima de 1 milhão de presos)",
+        "url": "https://www.bnewssaopaulo.com.br/noticias/policia/brasil-se-aproxima-de-1-milhao-de-presos-e-deficit-de-vagas-ultrapassa-281-mil.html",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Pessoas em prisão domiciliar",
+      "valor": 235880,
+      "unidade": "pessoas",
+      "periodo": "1º sem/2025",
+      "fonte": {
+        "nome": "Anuário Brasileiro de Segurança Pública 2026 (FBSP, PDF)",
+        "url": "https://static.poder360.com.br/uploads/2026/07/anuario-seguranca-publica-23jul26.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      "comparacao": {
+        "rotulo": "2º sem/2016",
+        "valor": 6027
+      }
+    },
+    {
+      "rotulo": "Mortes violentas intencionais",
+      "valor": 40775,
+      "unidade": "mortes (-8,2%)",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Anuário Brasileiro de Segurança Pública 2026 (FBSP, PDF)",
+        "url": "https://static.poder360.com.br/uploads/2026/07/anuario-seguranca-publica-23jul26.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Roubos (variação 2025 vs 2024)",
+      "valor": -18.3,
+      "unidade": "%",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Anuário Brasileiro de Segurança Pública 2026 (FBSP, PDF)",
+        "url": "https://static.poder360.com.br/uploads/2026/07/anuario-seguranca-publica-23jul26.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      "comparacao": null
+    }
+  ],
+  "series": [
+    "populacao-prisional",
+    "mortes-violentas-intencionais"
+  ],
+  "checagens_externas": [
+    {
+      "veiculo": "Agência Lupa",
+      "veredito_original": "FALSO (soltura por falta de vagas) / FALSO (acionou a Justiça pela saidinha)",
+      "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+      "data": "2026-10-18"
+    },
+    {
+      "veiculo": "Estadão Verifica",
+      "veredito_original": "ENGANOSO (acionou a Justiça pela saidinha)",
+      "url": "https://www.polemicaparaiba.com.br/brasil/estadao-verifica-checa-declaracoes-de-lula-e-flavio-bolsonaro-em-debate-e-aponta-informacoes-falsas-enganosas-e-verdadeiras-confira/",
+      "data": "2026-10-18"
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Anuário Brasileiro de Segurança Pública 2026 (FBSP, PDF)",
+      "url": "https://static.poder360.com.br/uploads/2026/07/anuario-seguranca-publica-23jul26.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    },
+    {
+      "nome": "BNews/Correio Braziliense (Brasil se aproxima de 1 milhão de presos)",
+      "url": "https://www.bnewssaopaulo.com.br/noticias/policia/brasil-se-aproxima-de-1-milhao-de-presos-e-deficit-de-vagas-ultrapassa-281-mil.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Agência Lupa",
+      "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Estadão Verifica",
+      "url": "https://www.polemicaparaiba.com.br/brasil/estadao-verifica-checa-declaracoes-de-lula-e-flavio-bolsonaro-em-debate-e-aponta-informacoes-falsas-enganosas-e-verdadeiras-confira/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Nota 07 deste projeto (segurança)",
+      "url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/07_saude_seguranca_educacao_infra_ambiente.md",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/09_acusacoes_e_falas_flavio_x_lula.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "O governo federal pode soltar presos?",
+      "resposta": "Não. Soltura, progressão e prisão domiciliar são decisões judiciais; o Executivo administra presídios (sobretudo os estados) e coordena mutirões como o Pena Justa."
+    },
+    {
+      "pergunta": "O número de presos caiu com Lula?",
+      "resposta": "Não. Subiu de 832.295 (2022) para 964.668 (2025), recorde da série."
+    },
+    {
+      "pergunta": "Lula tentou trazer a saidinha de volta?",
+      "resposta": "Não. Ele vetou a lei que a restringiu (veto derrubado em 28/05/2024); a ação no STF (ADI 7663) é da Anacrim."
+    }
+  ],
+  "relacionadas": [
+    "lula-vetou-a-saidinha",
+    "violencia-explodiu-no-governo-lula",
+    "73-por-cento-dos-presidiarios",
+    "lei-antifaccao-80-anos"
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false
+}

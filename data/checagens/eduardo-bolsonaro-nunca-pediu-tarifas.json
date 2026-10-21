@@ -1,0 +1,203 @@
+{
+  "id": "chk-2041",
+  "slug": "eduardo-bolsonaro-nunca-pediu-tarifas",
+  "frase": "Eduardo nunca pediu tarifas contra o Brasil.",
+  "frase_normalizada": "eduardo nunca pediu tarifas contra o brasil",
+  "variantes": [
+    "Ninguém da oposição trabalhou para tarifar empresa brasileira"
+  ],
+  "autor": {
+    "nome": "Flávio Bolsonaro",
+    "partido": "PL",
+    "cargo": "senador (RJ) e candidato à Presidência"
+  },
+  "lado": "oposicao-flavio-pl",
+  "alvo": {
+    "nome": null,
+    "partido": null
+  },
+  "data": "2026-08-28",
+  "onde": "Entrevista ao Jornal Nacional (TV Globo) (variante no debate da Band, 18/10)",
+  "url_declaracao": "https://www.agencialupa.org/checagem/2026/08/28/ao-vivo-checagem-da-entrevista-de-flavio-bolsonaro-ao-jornal-nacional/",
+  "temas": [
+    "relacoes-exteriores",
+    "economia",
+    "eleicao-2026"
+  ],
+  "tags": [
+    "relacoes-exteriores",
+    "economia",
+    "eleicao-2026"
+  ],
+  "veredito": "falta-contexto",
+  "resumo_uma_frase": "Não há prova de pedido específico da tarifa, mas Eduardo admitiu discutir tarifas com o governo Trump e chamou a medida de 'sucesso'; a carta de Trump (09/07/2025) vinculou os 50% ao julgamento de Bolsonaro, e o próprio Flávio pediu ao USTR em 2026 que adiasse novas tarifas porque dariam 'vitória política' a Lula.",
+  "explicacao_simples": [
+    "Eduardo Bolsonaro fez campanha nos EUA por sanções contra autoridades brasileiras e admitiu ter discutido tarifas, chamando o tarifaço de 'sucesso'.",
+    "Trump justificou a tarifa de 50% citando o processo contra Jair Bolsonaro, mas não há prova de que Eduardo pediu especificamente a tarifa.",
+    "Em 2026 Flávio pediu ao governo americano que suspendesse novas tarifas porque elas dariam vitória política a Lula, o que mostra a ligação entre a disputa eleitoral e as tarifas."
+  ],
+  "explicacao_completa_md": "A Lupa (JN, 28/08) classificou como FALTA CONTEXTO: Eduardo admitiu discutir tarifas e chamou a medida de 'sucesso'. O Ranking dos Políticos classificou como IMPRECISO 'ninguém trabalhou para tarifar empresa brasileira' (Trump vinculou a tarifa ao julgamento de Bolsonaro; Eduardo articulou, sem prova de pedido específico). **Cronologia:** 02/04/2025 tarifa-base de 10%; 09/07/2025 carta de Trump ameaça 50% citando o processo contra Bolsonaro; 16-17/07 USTR abre investigação (inclui o Pix); 30/07/2025 'emergência nacional' e tarifa adicional de 40% (total 50%) com quase 700 exceções; 18/07 e 30/07/2025 sanções (vistos e Magnitsky) a Moraes; 20-21/11/2025 isenção de café, carne e alimentos; 12/12/2025 Moraes retirado da lista Magnitsky; 01/06/2026 USTR propõe 25% (Seção 301); 15/07/2026 tarifas de 25% sobre móveis, etanol, máquinas, calçados, açúcar. Em 02/07/2026 Flávio enviou ao USTR documento de 19 páginas pedindo a suspensão das tarifas de 25% porque 'dariam ao atual governo brasileiro exatamente a vitória política que ele vem buscando' e registrou-se para falar na audiência de 07/07; o Intercept (11/07) registrou que ele não contestou os motivos dos EUA e pediu adiamento para depois da campanha. Eduardo foi condenado por coação (16/06/2026) pela campanha por sanções.",
+  "o_que_e_verdade": [
+    "Não há prova documental de pedido específico de Eduardo pela tarifa."
+  ],
+  "o_que_nao_se_sustenta": [
+    "'Nunca pediu tarifas': Eduardo admitiu discutir tarifas e chamou o tarifaço de 'sucesso'; Trump vinculou a medida ao julgamento de Bolsonaro; Eduardo foi condenado por coação pela campanha por sanções."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Eduardo Bolsonaro",
+      "papel": "articulou sanções nos EUA; admitiu discutir tarifas",
+      "peso": "alto"
+    },
+    {
+      "ator": "Governo Trump (Casa Branca, USTR)",
+      "papel": "impôs as tarifas de 50% (2025) e 25% (2026)",
+      "peso": "alto"
+    },
+    {
+      "ator": "Flávio Bolsonaro",
+      "papel": "pediu ao USTR adiamento das tarifas de 2026 por motivo eleitoral",
+      "peso": "medio"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Tarifa adicional dos EUA sobre o Brasil",
+      "valor": 40,
+      "unidade": "% (total 50%)",
+      "periodo": "30/07/2025",
+      "fonte": {
+        "nome": "Casa Branca, 30/07/2025 (fact sheet)",
+        "url": "https://www.whitehouse.gov/fact-sheets/2025/07/fact-sheet-president-donald-j-trump-addresses-threats-to-the-united-states-from-the-government-of-brazil/",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Exceções à tarifa de 50%",
+      "valor": 700,
+      "unidade": "produtos (quase)",
+      "periodo": "30/07/2025",
+      "fonte": {
+        "nome": "Wikipedia (en): 2025 Brazil-United States diplomatic dispute",
+        "url": "https://en.wikipedia.org/wiki/2025_Brazil%E2%80%93United_States_diplomatic_dispute",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Nova tarifa da Seção 301",
+      "valor": 25,
+      "unidade": "%",
+      "periodo": "15/07/2026",
+      "fonte": {
+        "nome": "Wikipedia (en): 2025 Brazil-United States diplomatic dispute",
+        "url": "https://en.wikipedia.org/wiki/2025_Brazil%E2%80%93United_States_diplomatic_dispute",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Documento de Flávio ao USTR",
+      "valor": 19,
+      "unidade": "páginas",
+      "periodo": "02/07/2026",
+      "fonte": {
+        "nome": "Estado de Minas/Folhapress, 02/07/2026 (Flávio ao USTR)",
+        "url": "https://www.em.com.br/politica/2026/07/7453606-flavio-bolsonaro-diz-a-trump-que-tarifaco-daria-vitoria-a-lula.html",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": null
+    }
+  ],
+  "series": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Agência Lupa",
+      "veredito_original": "FALTA CONTEXTO",
+      "url": "https://www.agencialupa.org/checagem/2026/08/28/ao-vivo-checagem-da-entrevista-de-flavio-bolsonaro-ao-jornal-nacional/",
+      "data": "2026-08-28"
+    },
+    {
+      "veiculo": "Ranking dos Políticos",
+      "veredito_original": "IMPRECISO ('ninguém trabalhou para tarifar')",
+      "url": "https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026",
+      "data": "2026-10-18"
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Casa Branca, 30/07/2025 (fact sheet)",
+      "url": "https://www.whitehouse.gov/fact-sheets/2025/07/fact-sheet-president-donald-j-trump-addresses-threats-to-the-united-states-from-the-government-of-brazil/",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Wikipedia (en): 2025 Brazil-United States diplomatic dispute",
+      "url": "https://en.wikipedia.org/wiki/2025_Brazil%E2%80%93United_States_diplomatic_dispute",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Estado de Minas/Folhapress, 02/07/2026 (Flávio ao USTR)",
+      "url": "https://www.em.com.br/politica/2026/07/7453606-flavio-bolsonaro-diz-a-trump-que-tarifaco-daria-vitoria-a-lula.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Agência Lupa",
+      "url": "https://www.agencialupa.org/checagem/2026/08/28/ao-vivo-checagem-da-entrevista-de-flavio-bolsonaro-ao-jornal-nacional/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Ranking dos Políticos",
+      "url": "https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Tesouro dos EUA, 30/07/2025 (Magnitsky)",
+      "url": "https://home.treasury.gov/news/press-releases/sb0211",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "g1, 12/12/2025 (EUA retiram Moraes da lista Magnitsky)",
+      "url": "https://g1.globo.com/politica/noticia/2025/12/12/governo-americano-retira-alexandre-de-moraes-e-esposa-da-lista-da-lei-magnitsky.ghtml",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/09_acusacoes_e_falas_flavio_x_lula.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "Por que Trump taxou o Brasil em 50%?",
+      "resposta": "A carta de 09/07/2025 citou o processo contra Jair Bolsonaro; a Casa Branca declarou 'emergência nacional' em 30/07/2025, com quase 700 exceções."
+    },
+    {
+      "pergunta": "Eduardo pediu a tarifa?",
+      "resposta": "Não há prova de pedido específico, mas ele admitiu discutir tarifas, chamou a medida de 'sucesso' e foi condenado por coação pela campanha por sanções."
+    },
+    {
+      "pergunta": "O que Flávio fez em relação às tarifas de 2026?",
+      "resposta": "Enviou ao USTR documento de 19 páginas pedindo a suspensão dos 25% porque dariam vitória política a Lula, e pediu adiamento para depois da campanha."
+    }
+  ],
+  "relacionadas": [
+    "tarifaco-de-trump-culpa-do-lula",
+    "eduardo-bolsonaro-exilado"
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false
+}

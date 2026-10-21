@@ -1,0 +1,199 @@
+{
+  "id": "chk-2029",
+  "slug": "nao-tinha-corrupcao-no-governo-bolsonaro",
+  "frase": "Não tinha corrupção no governo Bolsonaro.",
+  "frase_normalizada": "nao tinha corrupcao no governo bolsonaro",
+  "variantes": [],
+  "autor": {
+    "nome": "Flávio Bolsonaro",
+    "partido": "PL",
+    "cargo": "senador (RJ) e candidato à Presidência"
+  },
+  "lado": "oposicao-flavio-pl",
+  "alvo": {
+    "nome": "Governo Bolsonaro (2019-2022)",
+    "partido": "PL"
+  },
+  "data": "2026-10-01",
+  "onde": "Live de Flávio Bolsonaro (noite do debate da Globo cancelado)",
+  "url_declaracao": "https://www.agencialupa.org/checagem/2026/10/01/ao-vivo-checagem-da-live-de-flavio-bolsonaro/",
+  "temas": [
+    "corrupcao"
+  ],
+  "tags": [
+    "corrupcao"
+  ],
+  "veredito": "falso",
+  "resumo_uma_frase": "A Lupa cita o caso dos pastores no MEC (ministro Milton Ribeiro preso em 2022), a investigação de propina na compra da Covaxin (arquivada) e o orçamento secreto (declarado inconstitucional pelo STF); a maioria dos casos terminou em arquivamento, mas 'não tinha corrupção' ignora investigações, prisões e a primeira condenação por desvio de emendas de relator.",
+  "explicacao_simples": [
+    "Houve casos de corrupção investigados no governo Bolsonaro: o ministro da Educação Milton Ribeiro foi preso em 2022 no caso dos pastores do MEC, a compra da Covaxin foi investigada e o orçamento secreto foi declarado inconstitucional pelo STF.",
+    "A maior parte desses casos terminou arquivada pela PGR de Augusto Aras ou sem sentença, e Bolsonaro foi condenado por outro motivo (trama golpista), não por corrupção.",
+    "Mesmo assim, dizer que 'não tinha corrupção' é falso: em 2026 veio a primeira condenação do STF por desvio de emendas do orçamento secreto, de deputados do PL."
+  ],
+  "explicacao_completa_md": "A Lupa (live de 01/10/2026) classificou como FALSO, citando os pastores do MEC, a propina da vacina investigada e arquivada e o orçamento secreto. **Casos:** Milton Ribeiro (MEC) renunciou em 28/03/2022 após áudio sobre priorizar municípios indicados pelos pastores Gilmar Santos e Arilton Moura 'a pedido especial do presidente'; foi preso em 22/06/2022 (corrupção passiva, prevaricação, advocacia administrativa, tráfico de influência) e solto no dia seguinte pelo TRF-1; a nota 05 não localiza denúncia ou sentença no caso FNDE. Covaxin: MPF apontou irregularidades (16/06/2021), contrato suspenso (29/06/2021); inquérito de prevaricação arquivado após a PF concluir que não houve crime; a PGR pediu o arquivamento de sete apurações da CPI da Covid. Orçamento secreto (emendas de relator, RP9): cerca de R$ 16 bilhões em 2021 e valor similar em 2022; declarado inconstitucional pelo STF em 15/12/2022 (ADPF 854); primeira condenação por desvio em 17/03/2026 (Josimar Maranhãozinho, Pastor Gil e Bosco Costa, do PL, por corrupção passiva). Outros: Pedro Guimarães (Caixa) réu por assédio desde 2023; Ricardo Salles réu no Pará por contrabando de madeira (2023); Abin paralela com 34 indiciados (2025); joias sauditas com pedido de arquivamento da PGR pendente. **Importante:** Jair Bolsonaro não tem condenação por corrupção; sua condenação (27 anos e 3 meses) é pela trama golpista.",
+  "o_que_e_verdade": [
+    "Jair Bolsonaro não foi condenado por corrupção; a maioria dos casos da era Bolsonaro terminou arquivada ou sem sentença (Covaxin, cartões de vacina, CPI da Covid)."
+  ],
+  "o_que_nao_se_sustenta": [
+    "'Não tinha corrupção': um ministro foi preso (Milton Ribeiro, 2022), houve investigação de propina na Covaxin, o orçamento secreto foi declarado inconstitucional e três deputados do PL foram condenados pelo STF em 2026 por desvio de emendas de relator."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Governo Bolsonaro (MEC, Saúde, Casa Civil)",
+      "papel": "casos investigados: pastores do MEC, Covaxin, orçamento secreto",
+      "peso": "alto"
+    },
+    {
+      "ator": "Congresso (relatoria do orçamento 2021-2022)",
+      "papel": "operou as emendas de relator",
+      "peso": "alto"
+    },
+    {
+      "ator": "PGR (Augusto Aras/Lindôra Araújo)",
+      "papel": "pediu arquivamento da maior parte das apurações",
+      "peso": "medio"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Emendas de relator (orçamento secreto) em 2021",
+      "valor": 16,
+      "unidade": "R$ bilhões",
+      "periodo": "2021",
+      "fonte": {
+        "nome": "Wikipédia: Orçamento secreto (índice com fontes)",
+        "url": "https://pt.wikipedia.org/wiki/Or%C3%A7amento_secreto",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Pena de Josimar Maranhãozinho (PL-MA) por desvio de emendas",
+      "valor": 6.4,
+      "unidade": "anos (6 anos e 5 meses)",
+      "periodo": "17/03/2026",
+      "fonte": {
+        "nome": "Wikipédia: Josimar Maranhãozinho (índice)",
+        "url": "https://pt.wikipedia.org/wiki/Josimar_Maranh%C3%A3ozinho",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Indiciados pela PF na Abin paralela",
+      "valor": 34,
+      "unidade": "pessoas",
+      "periodo": "jun/2025",
+      "fonte": {
+        "nome": "Brasil de Fato, 18/09/2025",
+        "url": "https://www.brasildefato.com.br/2025/09/18/futuro-alexandre-ramagem/",
+        "acesso_em": "2026-10-21",
+        "tier": "partidario"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Dia da prisão de Milton Ribeiro",
+      "valor": 22,
+      "unidade": "jun/2022 (solto em 23/06)",
+      "periodo": "22/06/2022",
+      "fonte": {
+        "nome": "Wikipédia: Milton Ribeiro (índice)",
+        "url": "https://pt.wikipedia.org/wiki/Milton_Ribeiro_(pastor)",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": null
+    }
+  ],
+  "series": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Agência Lupa",
+      "veredito_original": "FALSO",
+      "url": "https://www.agencialupa.org/checagem/2026/10/01/ao-vivo-checagem-da-live-de-flavio-bolsonaro/",
+      "data": "2026-10-01"
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Wikipédia: Orçamento secreto (índice com fontes)",
+      "url": "https://pt.wikipedia.org/wiki/Or%C3%A7amento_secreto",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Wikipédia: Josimar Maranhãozinho (índice)",
+      "url": "https://pt.wikipedia.org/wiki/Josimar_Maranh%C3%A3ozinho",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Brasil de Fato, 18/09/2025",
+      "url": "https://www.brasildefato.com.br/2025/09/18/futuro-alexandre-ramagem/",
+      "acesso_em": "2026-10-21",
+      "tier": "partidario"
+    },
+    {
+      "nome": "Wikipédia: Milton Ribeiro (índice)",
+      "url": "https://pt.wikipedia.org/wiki/Milton_Ribeiro_(pastor)",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Agência Lupa",
+      "url": "https://www.agencialupa.org/checagem/2026/10/01/ao-vivo-checagem-da-live-de-flavio-bolsonaro/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Wikipedia (en): Covaxgate",
+      "url": "https://en.wikipedia.org/wiki/Covaxgate",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Congresso em Foco (PGR pede arquivamento de apurações da CPI)",
+      "url": "https://congressoemfoco.com.br/area/justica/pgr-pede-arquivamento-de-investigacoes-da-cpi-contra-bolsonaro",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Nota 05 deste projeto (seções 3, 7 e 8)",
+      "url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/05_escandalos_recentes_inss_master_bolsonaro.md",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/09_acusacoes_e_falas_flavio_x_lula.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "Bolsonaro foi condenado por corrupção?",
+      "resposta": "Não. Sua condenação (11/09/2025, 27 anos e 3 meses) é por organização criminosa armada, tentativa de abolição violenta do Estado democrático, golpe de Estado e danos."
+    },
+    {
+      "pergunta": "Quais casos de corrupção houve no governo dele?",
+      "resposta": "Pastores do MEC (ministro preso em 2022), propina na Covaxin (investigada e arquivada), orçamento secreto (inconstitucional; primeira condenação em 2026), Abin paralela (34 indiciados), joias sauditas (pendente)."
+    },
+    {
+      "pergunta": "Por que a maioria terminou arquivada?",
+      "resposta": "A PGR de Augusto Aras pediu o arquivamento de sete apurações da CPI da Covid; a PF concluiu não haver crime na Covaxin; o caso do MEC não teve denúncia localizada."
+    }
+  ],
+  "relacionadas": [
+    "orcamento-secreto",
+    "covid-700-mil-mortes-responsabilidade",
+    "bolsonaro-condenado-por-golpe-sem-provas",
+    "lula-emprega-condenados-do-mensalao"
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false
+}

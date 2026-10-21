@@ -1,0 +1,158 @@
+{
+  "id": "chk-2026",
+  "slug": "flavio-escritorio-com-careca-do-inss",
+  "frase": "Flávio mantém escritório com o Careca do INSS.",
+  "frase_normalizada": "flavio mantem escritorio com o careca do inss",
+  "variantes": [],
+  "autor": {
+    "nome": "Luiz Inácio Lula da Silva",
+    "partido": "PT",
+    "cargo": "presidente da República e candidato à reeleição"
+  },
+  "lado": "governo-lula-pt",
+  "alvo": {
+    "nome": "Flávio Bolsonaro",
+    "partido": "PL"
+  },
+  "data": "2026-10-18",
+  "onde": "Debate da Band (consórcio Band/Cultura/Gazeta/Jovem Pan/Estadão), São Paulo",
+  "url_declaracao": "https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026",
+  "temas": [
+    "corrupcao",
+    "eleicao-2026"
+  ],
+  "tags": [
+    "corrupcao",
+    "eleicao-2026"
+  ],
+  "veredito": "falta-contexto",
+  "resumo_uma_frase": "Empresas de Flávio e do 'Careca do INSS' dividem o mesmo endereço e o contador de Flávio é sócio do 'Careca', mas não há documento de sociedade entre os dois; em paralelo, a PF apura se Flávio tinha conta conjunta com o advogado Willer Tomaz, alvo da Operação Sem Desconto.",
+  "explicacao_simples": [
+    "Dados públicos mostram que empresas de Flávio e do 'Careca do INSS' usam o mesmo endereço e que o contador de Flávio é sócio do 'Careca'.",
+    "Isso não prova um escritório em sociedade: não existe documento que os ligue como sócios.",
+    "A PF apura, separadamente, se Flávio tinha conta conjunta com o advogado Willer Tomaz, investigado na fraude; Flávio e Tomaz negam."
+  ],
+  "explicacao_completa_md": "O Ranking dos Políticos classificou a frase como IMPRECISA (as empresas dividem endereço e o contador é sócio do 'Careca', mas não há documento de sociedade); o Aos Fatos afirmou que 'dados comprovam' o escritório em comum, contra a negativa de Flávio no debate. Em paralelo, a PF apura se Flávio tinha conta conjunta com o advogado Willer Tomaz (alvo da Operação Sem Desconto), a partir de e-mails de um banco pedindo a retirada de Flávio de conta de empresa de Tomaz (CNN, 10/10/2026); há um segundo inquérito no STF (relator Moraes) sobre lavagem envolvendo Tomaz (PF viu conta de R$ 130 milhões entre mar-mai/2025 e conta da Alcazar Holding com Flávio como 'usuário master'); Flávio e Tomaz negam. O relatório alternativo da CPMI (governista, não votado) pedia o indiciamento de Flávio por organização criminosa.",
+  "o_que_e_verdade": [
+    "Empresas de Flávio e do 'Careca' compartilham endereço e o contador de Flávio é sócio do 'Careca' (Ranking; Aos Fatos).",
+    "A PF apura conta conjunta de Flávio com o advogado Willer Tomaz, alvo da operação, e há inquérito no STF sobre lavagem."
+  ],
+  "o_que_nao_se_sustenta": [
+    "'Escritório com o Careca' como sociedade: não há documento de sociedade entre Flávio e o 'Careca'."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Flávio Bolsonaro",
+      "papel": "nega escritório em comum; investigado no STF por lavagem com Willer Tomaz",
+      "peso": "alto"
+    },
+    {
+      "ator": "PF e STF (Moraes)",
+      "papel": "apuram conta conjunta e lavagem",
+      "peso": "alto"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Conta analisada pela PF ligada a Willer Tomaz",
+      "valor": 130,
+      "unidade": "R$ milhões",
+      "periodo": "mar-mai/2025",
+      "fonte": {
+        "nome": "O Povo, 18/10/2026",
+        "url": "https://www.opovo.com.br/noticias/politica/2026/10/18/flavio-e-investigado-em-2-inquerito-no-stf-para-apurar-suspeitas-de-lavagem-com-advogado.html",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Inquéritos no STF contra Flávio",
+      "valor": 2,
+      "unidade": "inquéritos",
+      "periodo": "out/2026",
+      "fonte": {
+        "nome": "O Povo, 18/10/2026",
+        "url": "https://www.opovo.com.br/noticias/politica/2026/10/18/flavio-e-investigado-em-2-inquerito-no-stf-para-apurar-suspeitas-de-lavagem-com-advogado.html",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": null
+    }
+  ],
+  "series": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Ranking dos Políticos",
+      "veredito_original": "IMPRECISO",
+      "url": "https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026",
+      "data": "2026-10-18"
+    },
+    {
+      "veiculo": "Aos Fatos",
+      "veredito_original": "'dados comprovam' o escritório em comum",
+      "url": "https://www.aosfatos.org/noticias/checamos-lula-flavio-bolsonaro-debate-band/",
+      "data": "2026-10-18"
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "O Povo, 18/10/2026",
+      "url": "https://www.opovo.com.br/noticias/politica/2026/10/18/flavio-e-investigado-em-2-inquerito-no-stf-para-apurar-suspeitas-de-lavagem-com-advogado.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Ranking dos Políticos",
+      "url": "https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Aos Fatos",
+      "url": "https://www.aosfatos.org/noticias/checamos-lula-flavio-bolsonaro-debate-band/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "CNN Brasil, 10/10/2026 (PF apura conta conjunta)",
+      "url": "https://www.cnnbrasil.com.br/blogs/gustavo-uribe/eleicoes/pf-apura-se-flavio-tinha-conta-conjunta-com-alvo-da-sem-desconto/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Agência Brasil, mar/2026 (CPMI termina sem relatório)",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-03/cpmi-do-inss-termina-sem-relatorio-final",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/09_acusacoes_e_falas_flavio_x_lula.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "Flávio é sócio do 'Careca do INSS'?",
+      "resposta": "Não há documento de sociedade. Há endereço compartilhado e um contador em comum que é sócio do 'Careca'."
+    },
+    {
+      "pergunta": "Flávio é investigado na fraude do INSS?",
+      "resposta": "Não diretamente. A PF apura se ele tinha conta conjunta com o advogado Willer Tomaz, alvo da operação, e há inquérito no STF sobre lavagem; o relatório governista da CPMI (não votado) pedia seu indiciamento."
+    },
+    {
+      "pergunta": "O que Flávio diz?",
+      "resposta": "Nega ter escritório com o 'Careca' e nega a conta conjunta; Tomaz também nega."
+    }
+  ],
+  "relacionadas": [
+    "careca-do-inss-era-do-governo-lula",
+    "lulinha-e-a-fraude-do-inss",
+    "dark-horse-vorcaro-flavio"
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false
+}

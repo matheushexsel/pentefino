@@ -1,0 +1,182 @@
+{
+  "id": "chk-2022",
+  "slug": "fraude-do-inss-comecou-no-governo-bolsonaro",
+  "frase": "O Careca do INSS é resultado de uma quadrilha montada no governo Bolsonaro.",
+  "frase_normalizada": "o careca do inss e resultado de uma quadrilha montada no governo bolsonaro",
+  "variantes": [
+    "A fraude do INSS começou no governo Bolsonaro",
+    "Bolsonaro criou a quadrilha do INSS"
+  ],
+  "autor": {
+    "nome": "Luiz Inácio Lula da Silva",
+    "partido": "PT",
+    "cargo": "presidente da República e candidato à reeleição"
+  },
+  "lado": "governo-lula-pt",
+  "alvo": {
+    "nome": "Governo Bolsonaro (2019-2022)",
+    "partido": "PL"
+  },
+  "data": "2026-10-18",
+  "onde": "Debate da Band (consórcio Band/Cultura/Gazeta/Jovem Pan/Estadão), São Paulo",
+  "url_declaracao": "https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026",
+  "temas": [
+    "corrupcao"
+  ],
+  "tags": [
+    "corrupcao"
+  ],
+  "veredito": "impreciso",
+  "resumo_uma_frase": "A PF situa o início do esquema em 2019 (governo Bolsonaro) e descontos irregulares já ocorriam em 2017-2018, mas cerca de 64% do valor é de 2023-2024, no governo Lula, cujo ministro renunciou; a frase omite a inércia do governo atual.",
+  "explicacao_simples": [
+    "Os descontos irregulares começaram em 2017-2018 e cresceram a partir de 2019, no governo Bolsonaro.",
+    "Mas a maior parte do dinheiro (cerca de 64% dos R$ 6,3 bilhões) foi desviada em 2023 e 2024, já no governo Lula, cujo ministro Carlos Lupi renunciou.",
+    "O Ranking dos Políticos classificou a frase como imprecisa por omitir a parte do governo atual."
+  ],
+  "explicacao_completa_md": "**O esquema:** descontos associativos não autorizados em aposentadorias e pensões. A Operação Sem Desconto (PF/CGU) foi deflagrada em 23/04/2025 com 211 mandados de busca e 6 prisões temporárias em 13 estados e no DF; a PF/CGU estimam cerca de R$ 6,3 bilhões movimentados entre 2019 e 2024 e cerca de 4 milhões de vítimas (INSS: 4,1 milhões). Evolução dos descontos: cerca de R$ 41 milhões (2017), R$ 200 milhões (2018), R$ 36 milhões (2020), R$ 2,4 bilhões (2024) e R$ 655 milhões no 1º trimestre de 2025; cerca de 64% do valor refere-se a 2023-2024. Onze entidades foram indiciadas (entre elas Contag, Caap, Ambec, Sindnapi, Conafer).\n\n**Consequências:** o ministro Carlos Lupi (PDT) renunciou em 02/05/2025; o ex-presidente do INSS Alessandro Stefanutto foi preso em 13/11/2025; a CPMI (ago/2025-mar/2026) terminou sem relatório aprovado (o relatório de Alfredo Gaspar, com 216 pedidos de indiciamento, foi rejeitado por 19 a 12 em 28/03/2026; o alternativo governista, com 201 pedidos, não foi votado). Em 14/07/2026 a PF indiciou 48 pessoas (Stefanutto, o 'Careca do INSS' Antônio Carlos Camilo Antunes, o ex-procurador Virgílio Oliveira Filho e outros) e enviou o relatório ao STF (relator André Mendonça). Até 21/10/2026 as notas não localizam denúncia da PGR nem condenação criminal. O governo ressarciu mais de 5 milhões de beneficiários, cerca de R$ 3,5 bilhões (ministro Wolney Queiroz, out/2026).\n\n**Checagem:** o Ranking dos Políticos classificou a frase de Lula como IMPRECISA: os descontos começaram em 2017-2018 e cresceram a partir de 2019, mas a frase omite a inércia do governo atual; a PF/CGU estimam R$ 6,3 bilhões de prejuízo nos dois governos. A CPMI aprovou em ago/2025 investigar fatos desde 2015 (governo Dilma). O relatório da oposição pediu o indiciamento de Lupi (gov. Lula) e o alternativo governista, de Jair Bolsonaro como 'comandante'; nenhum foi aprovado.",
+  "o_que_e_verdade": [
+    "A PF situa o início do esquema em 2019 (governo Bolsonaro); o ex-ministro José Carlos Oliveira constou nos pedidos de indiciamento da CPMI.",
+    "Em 2022, onze partidos (incluindo o PL) votaram para enfraquecer a regra de revalidação anual dos descontos, e Bolsonaro sancionou a lei."
+  ],
+  "o_que_nao_se_sustenta": [
+    "'Montada no governo Bolsonaro' como explicação completa: 64% do valor foi desviado em 2023-2024, no governo Lula, cujo ministro Lupi admitiu ter sido alertado e renunciou."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Governo Bolsonaro (INSS/Previdência 2019-2022)",
+      "papel": "período de início e crescimento do esquema; lei de 2022 extinguiu a revalidação anual",
+      "peso": "alto"
+    },
+    {
+      "ator": "Governo Lula (INSS/Previdência 2023-2025)",
+      "papel": "período de maior volume de descontos; ministro renunciou; deflagrou a operação e ressarciu",
+      "peso": "alto"
+    },
+    {
+      "ator": "Entidades associativas e operadores",
+      "papel": "executaram os descontos",
+      "peso": "alto"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Descontos em 2018 (governo Temer)",
+      "valor": 200,
+      "unidade": "R$ milhões",
+      "periodo": "2018",
+      "fonte": {
+        "nome": "Wikipédia: Operação Sem Desconto (índice com fontes)",
+        "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Sem_Desconto",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Descontos em 2024 (governo Lula)",
+      "valor": 2.4,
+      "unidade": "R$ bilhões",
+      "periodo": "2024",
+      "fonte": {
+        "nome": "Wikipédia: Operação Sem Desconto (índice com fontes)",
+        "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Sem_Desconto",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "Descontos em 2020 (governo Bolsonaro)",
+        "valor": 0.036
+      }
+    },
+    {
+      "rotulo": "Parcela do valor total em 2023-2024",
+      "valor": 64,
+      "unidade": "%",
+      "periodo": "2019-2024",
+      "fonte": {
+        "nome": "Wikipédia: Operação Sem Desconto (índice com fontes)",
+        "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Sem_Desconto",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Prejuízo total estimado (PF/CGU)",
+      "valor": 6.3,
+      "unidade": "R$ bilhões",
+      "periodo": "2019-2024",
+      "fonte": {
+        "nome": "O Tempo, 23/04/2026 (um ano da Operação Sem Desconto)",
+        "url": "https://www.otempo.com.br/politica/judiciario/2026/4/23/operacao-contra-fraudes-no-inss-completa-um-ano-com-desdobramentos-mas-sem-ouvir-todos-investigados",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": null
+    }
+  ],
+  "series": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Ranking dos Políticos",
+      "veredito_original": "IMPRECISO",
+      "url": "https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026",
+      "data": "2026-10-18"
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Wikipédia: Operação Sem Desconto (índice com fontes)",
+      "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Sem_Desconto",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "O Tempo, 23/04/2026 (um ano da Operação Sem Desconto)",
+      "url": "https://www.otempo.com.br/politica/judiciario/2026/4/23/operacao-contra-fraudes-no-inss-completa-um-ano-com-desdobramentos-mas-sem-ouvir-todos-investigados",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Ranking dos Políticos",
+      "url": "https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Nota 05 deste projeto",
+      "url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/05_escandalos_recentes_inss_master_bolsonaro.md",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/09_acusacoes_e_falas_flavio_x_lula.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "Quando a fraude começou?",
+      "resposta": "Descontos irregulares já existiam em 2017-2018; a PF situa o início do esquema investigado em 2019."
+    },
+    {
+      "pergunta": "Em que governo o prejuízo foi maior?",
+      "resposta": "No governo Lula: cerca de 64% dos R$ 6,3 bilhões referem-se a 2023-2024 (R$ 2,4 bilhões só em 2024)."
+    },
+    {
+      "pergunta": "Quem foi responsabilizado?",
+      "resposta": "O ministro Lupi renunciou (02/05/2025), o presidente do INSS foi demitido e preso (nov/2025) e a PF indiciou 48 pessoas (jul/2026); não há condenação criminal até out/2026."
+    }
+  ],
+  "relacionadas": [
+    "careca-do-inss-era-do-governo-lula",
+    "pt-derrubou-mp-de-bolsonaro-contra-fraude-no-inss",
+    "inss-maior-roubo-da-historia",
+    "lulinha-e-a-fraude-do-inss"
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false
+}

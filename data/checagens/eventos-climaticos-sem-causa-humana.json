@@ -1,0 +1,133 @@
+{
+  "id": "chk-2103",
+  "slug": "eventos-climaticos-sem-causa-humana",
+  "frase": "Eu acho que tem eventos climáticos extremos, mas não é culpa do homem.",
+  "frase_normalizada": "eu acho que tem eventos climaticos extremos mas nao e culpa do homem",
+  "variantes": [],
+  "autor": {
+    "nome": "Flávio Bolsonaro",
+    "partido": "PL",
+    "cargo": "senador (RJ) e candidato à Presidência"
+  },
+  "lado": "oposicao-flavio-pl",
+  "alvo": {
+    "nome": null,
+    "partido": null
+  },
+  "data": "2026-08-28",
+  "onde": "Entrevista ao Jornal Nacional (TV Globo)",
+  "url_declaracao": "https://www.agencialupa.org/checagem/2026/08/28/ao-vivo-checagem-da-entrevista-de-flavio-bolsonaro-ao-jornal-nacional/",
+  "temas": [
+    "meio-ambiente"
+  ],
+  "tags": [
+    "meio-ambiente"
+  ],
+  "veredito": "falso",
+  "resumo_uma_frase": "A Lupa classificou como falso: o consenso científico (IPCC) atribui o aquecimento global e a intensificação de eventos extremos à ação humana; o próprio programa de Flávio promete 'desmatamento ilegal zero até 2029'.",
+  "explicacao_simples": [
+    "Flávio negou no Jornal Nacional que os eventos climáticos extremos tenham causa humana.",
+    "O IPCC, painel da ONU, atribui o aquecimento e a intensificação dos extremos à ação humana; a Lupa classificou como falso.",
+    "O programa de governo de Flávio, ainda assim, promete desmatamento ilegal zero até 2029."
+  ],
+  "explicacao_completa_md": "Lupa (JN, 28/08/2026): FALSO (IPCC). Contexto: 2024 teve recorde de área queimada no Brasil (30 milhões de hectares, MapBiomas) em ano de seca extrema e El Niño; a COP30 em Belém (nov/2025) aprovou 29 decisões por consenso, mas sem 'mapa do caminho' para os combustíveis fósseis. O plano de Flávio inclui 'desmatamento ilegal zero até 2029' e R$ 900 bilhões em infraestrutura.",
+  "o_que_e_verdade": [
+    "Existem eventos climáticos extremos (Flávio reconhece)."
+  ],
+  "o_que_nao_se_sustenta": [
+    "'Não é culpa do homem': contraria o consenso científico do IPCC."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Flávio Bolsonaro",
+      "papel": "autor da frase",
+      "peso": "alto"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Área queimada no Brasil em 2024",
+      "valor": 30,
+      "unidade": "milhões de hectares",
+      "periodo": "2024",
+      "fonte": {
+        "nome": "Sul21, jun/2025 (MapBiomas: 30 milhões de ha queimados em 2024)",
+        "url": "https://sul21.com.br/noticias/meio-ambiente/2025/06/queimadas-atingiram-30-milhoes-de-hectares-no-pais-em-2024/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Meta do programa de Flávio para desmatamento ilegal zero",
+      "valor": 2029,
+      "unidade": "ano",
+      "periodo": "2026",
+      "fonte": {
+        "nome": "Portal Tela, 14/08/2026 (plano de governo de Flávio)",
+        "url": "https://www.portaltela.com/politica/2026/08/14/plano-de-governo-de-flavio-bolsonaro-tem-9-eixos-veja-propostas/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": null
+    }
+  ],
+  "series": [
+    "queimadas"
+  ],
+  "checagens_externas": [
+    {
+      "veiculo": "Agência Lupa",
+      "veredito_original": "FALSO",
+      "url": "https://www.agencialupa.org/checagem/2026/08/28/ao-vivo-checagem-da-entrevista-de-flavio-bolsonaro-ao-jornal-nacional/",
+      "data": "2026-08-28"
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Sul21, jun/2025 (MapBiomas: 30 milhões de ha queimados em 2024)",
+      "url": "https://sul21.com.br/noticias/meio-ambiente/2025/06/queimadas-atingiram-30-milhoes-de-hectares-no-pais-em-2024/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Portal Tela, 14/08/2026 (plano de governo de Flávio)",
+      "url": "https://www.portaltela.com/politica/2026/08/14/plano-de-governo-de-flavio-bolsonaro-tem-9-eixos-veja-propostas/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Agência Lupa",
+      "url": "https://www.agencialupa.org/checagem/2026/08/28/ao-vivo-checagem-da-entrevista-de-flavio-bolsonaro-ao-jornal-nacional/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/09_acusacoes_e_falas_flavio_x_lula.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "O que diz a ciência?",
+      "resposta": "O IPCC atribui o aquecimento global e a intensificação de eventos extremos à ação humana."
+    },
+    {
+      "pergunta": "O que Flávio propõe para o ambiente?",
+      "resposta": "Desmatamento ilegal zero até 2029, segundo seu plano de governo."
+    },
+    {
+      "pergunta": "Como foi 2024 no Brasil?",
+      "resposta": "Pior ano da série de queimadas do MapBiomas: 30 milhões de hectares, Amazônia com 15,6 milhões."
+    }
+  ],
+  "relacionadas": [
+    "desmatamento-caiu-com-lula",
+    "desmatamento-recorde-2021-e-queda-2023-2025"
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false
+}

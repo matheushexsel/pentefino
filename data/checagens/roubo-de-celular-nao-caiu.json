@@ -1,0 +1,172 @@
+{
+  "id": "chk-2056",
+  "slug": "roubo-de-celular-nao-caiu",
+  "frase": "As medidas contra roubo de celular até agora não fizeram efeito; estão vendo algum combate a quem revende?",
+  "frase_normalizada": "as medidas contra roubo de celular ate agora nao fizeram efeito estao vendo algum combate a quem revende",
+  "variantes": [],
+  "autor": {
+    "nome": "Flávio Bolsonaro",
+    "partido": "PL",
+    "cargo": "senador (RJ) e candidato à Presidência"
+  },
+  "lado": "oposicao-flavio-pl",
+  "alvo": {
+    "nome": "Governo Lula (2023-2026)",
+    "partido": "PT"
+  },
+  "data": "2026-10-18",
+  "onde": "Debate da Band (consórcio Band/Cultura/Gazeta/Jovem Pan/Estadão), São Paulo",
+  "url_declaracao": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+  "temas": [
+    "seguranca"
+  ],
+  "tags": [
+    "seguranca"
+  ],
+  "veredito": "falso",
+  "resumo_uma_frase": "Os roubos de celular caíram de 492.905 (2022) para 308.723 (2025), queda de 37,4% (18,6% só em 2025); a Lei 15.397/2026 criou regras contra a revenda e a Operação Última Chamada recuperou 9.989 celulares em agosto de 2026; os furtos, porém, ficaram estáveis (+0,9%).",
+  "explicacao_simples": [
+    "Os roubos de celular caíram 37,4% entre 2022 e 2025, segundo os dados oficiais reunidos pelo Anuário de Segurança Pública.",
+    "Há uma lei de 2026 contra a revenda e uma operação federal que recuperou quase 10 mil aparelhos em agosto.",
+    "Os furtos (sem violência) não caíram, e o policiamento é dos estados; mas dizer que nada fez efeito é falso."
+  ],
+  "explicacao_completa_md": "Lupa: FALSO (roubos de celular de 492.905 em 2022 para 308.723 em 2025, -37,4%; Lei 15.397/2026; Operação Última Chamada recuperou 9.989 celulares em agosto). Anuário 2026: roubo de celular 377.787 (2024) para 308.723 (2025), -18,6%; furto de celular 477.326 para 483.561 (+0,9%); roubos em geral -18,3%; estelionatos +2,7% (+429,8% desde 2018). Policiamento ostensivo e investigação são estaduais.",
+  "o_que_e_verdade": [
+    "Furtos de celular não caíram (+0,9% em 2025) e golpes/estelionatos seguem em alta."
+  ],
+  "o_que_nao_se_sustenta": [
+    "'Não fizeram efeito': roubos de celular caíram 37,4% desde 2022; há lei contra revenda (2026) e operação de recuperação de aparelhos."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Governos estaduais (polícias)",
+      "papel": "policiamento e investigação",
+      "peso": "alto"
+    },
+    {
+      "ator": "Governo federal e Congresso",
+      "papel": "Lei 15.397/2026 e Operação Última Chamada",
+      "peso": "medio"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Roubos de celular",
+      "valor": 308723,
+      "unidade": "casos",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Anuário Brasileiro de Segurança Pública 2026 (FBSP, PDF)",
+        "url": "https://static.poder360.com.br/uploads/2026/07/anuario-seguranca-publica-23jul26.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      "comparacao": {
+        "rotulo": "2022",
+        "valor": 492905
+      }
+    },
+    {
+      "rotulo": "Variação dos roubos de celular 2022-2025",
+      "valor": -37.4,
+      "unidade": "%",
+      "periodo": "2022-2025",
+      "fonte": {
+        "nome": "Agência Lupa",
+        "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Furtos de celular",
+      "valor": 483561,
+      "unidade": "casos (+0,9%)",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Anuário Brasileiro de Segurança Pública 2026 (FBSP, PDF)",
+        "url": "https://static.poder360.com.br/uploads/2026/07/anuario-seguranca-publica-23jul26.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Celulares recuperados na Operação Última Chamada",
+      "valor": 9989,
+      "unidade": "aparelhos",
+      "periodo": "ago/2026",
+      "fonte": {
+        "nome": "Agência Lupa",
+        "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Estelionatos",
+      "valor": 2261055,
+      "unidade": "casos (+2,7%; +429,8% desde 2018)",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Anuário Brasileiro de Segurança Pública 2026 (FBSP, PDF)",
+        "url": "https://static.poder360.com.br/uploads/2026/07/anuario-seguranca-publica-23jul26.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      "comparacao": null
+    }
+  ],
+  "series": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Agência Lupa",
+      "veredito_original": "FALSO",
+      "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+      "data": "2026-10-18"
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Anuário Brasileiro de Segurança Pública 2026 (FBSP, PDF)",
+      "url": "https://static.poder360.com.br/uploads/2026/07/anuario-seguranca-publica-23jul26.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    },
+    {
+      "nome": "Agência Lupa",
+      "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/09_acusacoes_e_falas_flavio_x_lula.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "O roubo de celular caiu?",
+      "resposta": "Sim: de 492.905 (2022) para 308.723 (2025), -37,4%."
+    },
+    {
+      "pergunta": "E o furto?",
+      "resposta": "Ficou estável (+0,9% em 2025), e os golpes digitais (estelionato) seguem crescendo."
+    },
+    {
+      "pergunta": "O que o governo federal fez?",
+      "resposta": "Lei 15.397/2026 contra a revenda e a Operação Última Chamada (9.989 aparelhos recuperados em agosto de 2026); o policiamento é estadual."
+    }
+  ],
+  "relacionadas": [
+    "violencia-explodiu-no-governo-lula",
+    "lula-solta-bandido"
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false
+}

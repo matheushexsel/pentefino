@@ -1,0 +1,127 @@
+{
+  "id": "chk-2086",
+  "slug": "dino-chamou-bolsonaro-de-demonio",
+  "frase": "Flávio Dino já disse que Bolsonaro era o demônio na terra.",
+  "frase_normalizada": "flavio dino ja disse que bolsonaro era o demonio na terra",
+  "variantes": [],
+  "autor": {
+    "nome": "Flávio Bolsonaro",
+    "partido": "PL",
+    "cargo": "senador (RJ) e candidato à Presidência"
+  },
+  "lado": "oposicao-flavio-pl",
+  "alvo": {
+    "nome": "Flávio Dino",
+    "partido": null
+  },
+  "data": "2026-10-16",
+  "onde": "Entrevista à TV Globo (Renata Lo Prete)",
+  "url_declaracao": "https://www.agencialupa.org/checagem/2026/10/16/ao-vivo-checagem-da-entrevista-de-flavio-bolsonaro-na-globo/",
+  "temas": [
+    "justica-stf",
+    "eleicao-2026"
+  ],
+  "tags": [
+    "justica-stf",
+    "eleicao-2026"
+  ],
+  "veredito": "verdadeiro",
+  "resumo_uma_frase": "A Lupa confirmou a declaração, feita em abril de 2022 (UOL), quando Dino era senador eleito pelo Maranhão e aliado de Lula; Dino foi ministro da Justiça (2023) e é ministro do STF desde fevereiro de 2024, tendo votado pela condenação de Bolsonaro em 2025.",
+  "explicacao_simples": [
+    "Flávio Dino chamou Bolsonaro de 'demônio na terra' em abril de 2022, quando era político de oposição.",
+    "Em 2024 Dino virou ministro do STF, indicado por Lula, e em 2025 votou pela condenação de Bolsonaro na Primeira Turma.",
+    "A Lupa classificou a frase de Flávio como verdadeira; o argumento de suspeição é político, não houve decisão judicial sobre isso."
+  ],
+  "explicacao_completa_md": "Lupa (Globo, 16/10): VERDADEIRO (UOL, abr/2022). Dino foi governador do Maranhão, senador eleito em 2022, ministro da Justiça em 2023 e ministro do STF desde 22/02/2024 (indicado por Lula); integrou a Primeira Turma que condenou Bolsonaro em 11/09/2025 (4 a 1). Em 2026 Dino relata o inquérito de emendas (bloqueios a Valdemar Costa Neto e Eduardo Cunha), anulou a quebra de sigilo de Lulinha na CPMI e apura o encontro de Mendonça com Vorcaro.",
+  "o_que_e_verdade": [
+    "Dino disse em abril de 2022 que Bolsonaro era 'o demônio na terra'; depois tornou-se ministro do STF e votou pela condenação de Bolsonaro."
+  ],
+  "o_que_nao_se_sustenta": [
+    "Nada factual; a conclusão de que Dino estaria impedido de julgar não foi acolhida judicialmente."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Flávio Dino",
+      "papel": "autor da declaração (2022); ministro do STF desde 2024",
+      "peso": "alto"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Ano da declaração de Dino",
+      "valor": 2022,
+      "unidade": "ano (abril)",
+      "periodo": "abr/2022",
+      "fonte": {
+        "nome": "Agência Lupa",
+        "url": "https://www.agencialupa.org/checagem/2026/10/16/ao-vivo-checagem-da-entrevista-de-flavio-bolsonaro-na-globo/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Posse de Dino no STF",
+      "valor": 22,
+      "unidade": "fev/2024 (dia)",
+      "periodo": "22/02/2024",
+      "fonte": {
+        "nome": "Wikipedia (en): Supreme Federal Court",
+        "url": "https://en.wikipedia.org/wiki/Supreme_Federal_Court",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": null
+    }
+  ],
+  "series": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Agência Lupa",
+      "veredito_original": "VERDADEIRO",
+      "url": "https://www.agencialupa.org/checagem/2026/10/16/ao-vivo-checagem-da-entrevista-de-flavio-bolsonaro-na-globo/",
+      "data": "2026-10-16"
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Agência Lupa",
+      "url": "https://www.agencialupa.org/checagem/2026/10/16/ao-vivo-checagem-da-entrevista-de-flavio-bolsonaro-na-globo/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Wikipedia (en): Supreme Federal Court",
+      "url": "https://en.wikipedia.org/wiki/Supreme_Federal_Court",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/09_acusacoes_e_falas_flavio_x_lula.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "Dino chamou Bolsonaro de demônio?",
+      "resposta": "Sim, em abril de 2022, segundo o UOL, confirmado pela Lupa."
+    },
+    {
+      "pergunta": "Dino julgou Bolsonaro?",
+      "resposta": "Sim; votou pela condenação na Primeira Turma em 11/09/2025 (4 a 1)."
+    },
+    {
+      "pergunta": "Isso o impedia de julgar?",
+      "resposta": "Não houve decisão judicial reconhecendo impedimento ou suspeição; a crítica é política."
+    }
+  ],
+  "relacionadas": [
+    "bolsonaro-condenado-por-golpe-sem-provas",
+    "dino-na-mare"
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false
+}

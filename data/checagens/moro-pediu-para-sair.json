@@ -1,0 +1,144 @@
+{
+  "id": "chk-2084",
+  "slug": "moro-pediu-para-sair",
+  "frase": "Moro pediu para sair e hoje somos aliados.",
+  "frase_normalizada": "moro pediu para sair e hoje somos aliados",
+  "variantes": [],
+  "autor": {
+    "nome": "Flávio Bolsonaro",
+    "partido": "PL",
+    "cargo": "senador (RJ) e candidato à Presidência"
+  },
+  "lado": "oposicao-flavio-pl",
+  "alvo": {
+    "nome": null,
+    "partido": null
+  },
+  "data": "2026-10-16",
+  "onde": "Entrevista à TV Globo (Renata Lo Prete)",
+  "url_declaracao": "https://www.agencialupa.org/checagem/2026/10/16/ao-vivo-checagem-da-entrevista-de-flavio-bolsonaro-na-globo/",
+  "temas": [
+    "justica-stf",
+    "eleicao-2026"
+  ],
+  "tags": [
+    "justica-stf",
+    "eleicao-2026"
+  ],
+  "veredito": "falta-contexto",
+  "resumo_uma_frase": "Sergio Moro deixou o Ministério da Justiça em abril de 2020 acusando Bolsonaro de interferência política na PF; em 2021 o STF o declarou parcial no caso Lula; em 2026 foi eleito governador do Paraná pelo PL e apoia Flávio.",
+  "explicacao_simples": [
+    "Moro de fato saiu por vontade própria do governo Bolsonaro em abril de 2020, mas acusando o presidente de interferir na Polícia Federal.",
+    "Em 2021 o STF declarou Moro parcial como juiz no caso Lula, o que anulou as condenações.",
+    "Hoje Moro é aliado de Flávio e foi eleito governador do Paraná pelo PL em 2026 com 50,10% no 1º turno."
+  ],
+  "explicacao_completa_md": "Lupa (Globo, 16/10): FALTA CONTEXTO (saiu em abr/2020 acusando interferência na PF). Moro deixou a magistratura no fim de 2018 para ser ministro de Bolsonaro; a Vaza Jato (Intercept, jun/2019) expôs mensagens dele com procuradores; a 2ª Turma do STF o declarou parcial em 23/03/2021 (3 a 2) e o plenário confirmou por 7 a 4 (jun/2021); eleito senador (União-PR) em 2022 e governador do Paraná (PL) em 2026 (50,10% x 25,37%). Deltan Dallagnol teve o mandato cassado pelo TSE em 2023.",
+  "o_que_e_verdade": [
+    "Moro saiu por iniciativa própria em abril de 2020 e hoje é aliado de Flávio (governador eleito do PR pelo PL)."
+  ],
+  "o_que_nao_se_sustenta": [
+    "A omissão do motivo: Moro acusou Bolsonaro de interferência política na PF."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Sergio Moro",
+      "papel": "ex-juiz, ex-ministro, governador eleito do PR (PL)",
+      "peso": "alto"
+    },
+    {
+      "ator": "Jair Bolsonaro",
+      "papel": "acusado por Moro de interferir na PF (2020)",
+      "peso": "medio"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Votação de Moro para governador do PR (1º turno 2026)",
+      "valor": 50.1,
+      "unidade": "% dos válidos",
+      "periodo": "04/10/2026",
+      "fonte": {
+        "nome": "Wikipedia (en): 2026 Brazilian gubernatorial elections",
+        "url": "https://en.wikipedia.org/wiki/2026_Brazilian_gubernatorial_elections",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Placar do plenário do STF sobre parcialidade de Moro",
+      "valor": 7,
+      "unidade": "votos a 4",
+      "periodo": "jun/2021",
+      "fonte": {
+        "nome": "Bem Paraná (plenário mantém parcialidade de Moro)",
+        "url": "https://www.bemparana.com.br/noticias/politica/maioria-do-stf-mantem-julgamento-que-declarou-moro-parcial-844/amp/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": null
+    }
+  ],
+  "series": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Agência Lupa",
+      "veredito_original": "FALTA CONTEXTO",
+      "url": "https://www.agencialupa.org/checagem/2026/10/16/ao-vivo-checagem-da-entrevista-de-flavio-bolsonaro-na-globo/",
+      "data": "2026-10-16"
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Wikipedia (en): 2026 Brazilian gubernatorial elections",
+      "url": "https://en.wikipedia.org/wiki/2026_Brazilian_gubernatorial_elections",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Bem Paraná (plenário mantém parcialidade de Moro)",
+      "url": "https://www.bemparana.com.br/noticias/politica/maioria-do-stf-mantem-julgamento-que-declarou-moro-parcial-844/amp/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Agência Lupa",
+      "url": "https://www.agencialupa.org/checagem/2026/10/16/ao-vivo-checagem-da-entrevista-de-flavio-bolsonaro-na-globo/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Agência Brasil, 17/03/2024 (Lava Jato 10 anos)",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2024-03/lava-jato-completa-10-anos-com-resultados-em-xeque-e-prestigio-abalado",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/09_acusacoes_e_falas_flavio_x_lula.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "Por que Moro saiu do governo Bolsonaro?",
+      "resposta": "Em abril de 2020, acusando o presidente de interferência política na Polícia Federal."
+    },
+    {
+      "pergunta": "Moro e Bolsonaro se reconciliaram?",
+      "resposta": "Politicamente sim: Moro foi eleito governador do Paraná pelo PL em 2026 e apoia Flávio."
+    },
+    {
+      "pergunta": "O que o STF decidiu sobre Moro como juiz?",
+      "resposta": "Que foi parcial no caso Lula (2ª Turma 3 a 2; plenário 7 a 4, 2021), um dos fundamentos da anulação das condenações."
+    }
+  ],
+  "relacionadas": [
+    "lula-trocou-27-superintendentes-da-pf",
+    "lula-foi-condenado-e-descondenado"
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false
+}

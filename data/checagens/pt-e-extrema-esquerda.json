@@ -1,0 +1,154 @@
+{
+  "id": "chk-2093",
+  "slug": "pt-e-extrema-esquerda",
+  "frase": "O PT é um partido de extrema esquerda.",
+  "frase_normalizada": "o pt e um partido de extrema esquerda",
+  "variantes": [],
+  "autor": {
+    "nome": "frase que circula nas redes",
+    "partido": null,
+    "cargo": null
+  },
+  "lado": "ambos",
+  "alvo": {
+    "nome": "PT / governo Lula",
+    "partido": "PT"
+  },
+  "data": null,
+  "onde": null,
+  "url_declaracao": null,
+  "temas": [
+    "ideologias"
+  ],
+  "tags": [
+    "ideologias"
+  ],
+  "veredito": "exagerado",
+  "resumo_uma_frase": "Na régua acadêmica mais longa do Brasil (BLS, Zucco & Power, 1990-2021), o PT está em -0,691, posição de esquerda, mas à direita do polo ocupado por PSOL (-0,874), PCdoB (-0,822) e PSTU (-0,826); o próprio PSOL nasceu em 2004 em protesto contra a moderação do PT.",
+  "explicacao_simples": [
+    "Na escala de -1 (esquerda) a +1 (direita) construída com parlamentares brasileiros, o PT está em -0,69: esquerda, mas não o extremo.",
+    "O polo mais à esquerda é ocupado por PSOL (-0,87), PCdoB (-0,82) e PSTU; o PSOL saiu do PT em 2004 por achá-lo moderado demais.",
+    "Chamar o PT de 'esquerda' é exato; 'extrema esquerda' é exagero pela medida acadêmica."
+  ],
+  "explicacao_completa_md": "BLS (Zucco & Power, 9 ondas, 1990-2021; r = 0,97 com o survey de especialistas PREPPS): PT -0,931 (1990), -0,793 (2001), -0,525 (2005), -0,532 (2013), -0,668 (2017), -0,691 (2021); PSOL -0,874; PCdoB -0,822; PSTU -0,826 (1993); PSB -0,427; PDT -0,356; centro (−0,25 a +0,25): MDB +0,137, PSDB +0,157. Estudo de votações nominais na Câmara (2011-2015) mostra o PT à esquerda, superado apenas pelo PSOL; análise de 1991-1998 posicionava os petistas na extrema esquerda, e após 2002 o partido tornou-se mais moderado. Presidentes: Lula I-II -0,41; Dilma I -0,41; Dilma II -0,50. A nota 11 conclui: 'chamar o PT de extrema esquerda é inconsistente com a medida; chamá-lo de esquerda é exato'.",
+  "o_que_e_verdade": [
+    "O PT é um partido de esquerda, claramente distinto dos demais grandes partidos (Lucas & Samuels; BLS).",
+    "Nos anos 1990 o PT era posicionado perto do extremo esquerdo (-0,931 em 1990)."
+  ],
+  "o_que_nao_se_sustenta": [
+    "'Extrema esquerda' hoje: PSOL, PCdoB e PSTU ocupam o polo; o PT está em posição intermediária entre eles e PSB/PDT."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Zucco & Power (BLS)",
+      "papel": "medição acadêmica de referência",
+      "peso": "alto"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "PT na BLS 2021",
+      "valor": -0.691,
+      "unidade": "pontos",
+      "periodo": "2021",
+      "fonte": {
+        "nome": "Zucco & Power, material suplementar (Tabela C1/C2, BLS 1990-2021)",
+        "url": "https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S1531426X23000249/resource/name/S1531426X23000249sup001.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      "comparacao": {
+        "rotulo": "PSOL",
+        "valor": -0.874
+      }
+    },
+    {
+      "rotulo": "PCdoB na BLS 2021",
+      "valor": -0.822,
+      "unidade": "pontos",
+      "periodo": "2021",
+      "fonte": {
+        "nome": "Zucco & Power, material suplementar (Tabela C1/C2, BLS 1990-2021)",
+        "url": "https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S1531426X23000249/resource/name/S1531426X23000249sup001.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "PT em 1990",
+      "valor": -0.931,
+      "unidade": "pontos",
+      "periodo": "1990",
+      "fonte": {
+        "nome": "Zucco & Power, material suplementar (Tabela C1/C2, BLS 1990-2021)",
+        "url": "https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S1531426X23000249/resource/name/S1531426X23000249sup001.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Correlação da BLS com o survey de especialistas PREPPS",
+      "valor": 0.97,
+      "unidade": "r",
+      "periodo": "2024",
+      "fonte": {
+        "nome": "Zucco & Power, Latin American Politics and Society (2024)",
+        "url": "https://www.cambridge.org/core/product/FAF5489B3E01D39A16DBB4971458AD48/core-reader",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      "comparacao": null
+    }
+  ],
+  "series": [],
+  "checagens_externas": [],
+  "fontes": [
+    {
+      "nome": "Zucco & Power, material suplementar (Tabela C1/C2, BLS 1990-2021)",
+      "url": "https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S1531426X23000249/resource/name/S1531426X23000249sup001.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    },
+    {
+      "nome": "Zucco & Power, Latin American Politics and Society (2024)",
+      "url": "https://www.cambridge.org/core/product/FAF5489B3E01D39A16DBB4971458AD48/core-reader",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/11_espectro_ideologico_didatico.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "Como se mede a posição de um partido?",
+      "resposta": "A BLS pergunta a deputados e senadores, desde 1990, onde cada partido está numa escala 1-10; os dados são reescalados para -1 a +1 e validados com surveys de especialistas (r = 0,97)."
+    },
+    {
+      "pergunta": "Quem é a extrema esquerda no Brasil pela medida?",
+      "resposta": "PSOL (-0,874), PCdoB (-0,822) e PSTU (-0,826 em 1993); PCB e UP não foram medidos."
+    },
+    {
+      "pergunta": "O PT já foi mais à esquerda?",
+      "resposta": "Sim: -0,931 em 1990; moderou-se até -0,525 em 2005 (primeiro governo Lula) e voltou a -0,691 em 2021."
+    }
+  ],
+  "relacionadas": [
+    "pl-e-extrema-direita",
+    "lula-e-o-pt-sao-comunistas",
+    "pt-e-socialista"
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false,
+  "nao_verificado": true,
+  "lacunas": [
+    "Nenhuma checagem de agência com esta redação; veredito derivado da BLS (nota 11).",
+    "Não há onda da BLS posterior a 2021."
+  ]
+}
