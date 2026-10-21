@@ -1,0 +1,172 @@
+{
+  "id": "chk-1030",
+  "slug": "fuga-de-empresas-para-o-paraguai",
+  "frase": "As empresas estão fugindo do Brasil para o Paraguai",
+  "frase_normalizada": "Há uma fuga de empresas brasileiras para o Paraguai no governo Lula 3",
+  "variantes": [
+    "Empresas fecham no Brasil e abrem no Paraguai"
+  ],
+  "autor": {
+    "nome": "Flávio Bolsonaro",
+    "partido": "PL",
+    "cargo": "senador (RJ) e candidato à Presidência"
+  },
+  "lado": "oposicao-flavio-pl",
+  "alvo": {
+    "nome": "Governo Lula 3 (2023-2026)",
+    "partido": "PT"
+  },
+  "data": "2026-10-18",
+  "onde": "Debate da Band (18/10/2026) e entrevista à TV Globo (16/10/2026)",
+  "url_declaracao": "https://www.aosfatos.org/noticias/flavio-bolsonaro-mente-recorde-falencias-empresas/",
+  "temas": [
+    "economia",
+    "eleicao-2026"
+  ],
+  "tags": [
+    "paraguai",
+    "maquila",
+    "empresas"
+  ],
+  "veredito": "impreciso",
+  "resumo_uma_frase": "Segundo dados do MDIC citados pelo Aos Fatos, 232 empresas brasileiras entraram no regime de maquila do Paraguai entre 2007 e 2026, com pico em 2016-2020 — um fenômeno antigo e de pequena escala frente aos 3,87 milhões de empresas abertas no Brasil só em 2023, e sem aceleração atribuível ao governo atual.",
+  "explicacao_simples": [
+    "O regime de maquila do Paraguai atraiu 232 empresas brasileiras no acumulado de 2007 a 2026, com pico entre 2016 e 2020, antes do governo Lula 3.",
+    "O número é pequeno diante dos 3,87 milhões de empresas abertas no Brasil em 2023 e do saldo líquido positivo de cerca de 2,2 milhões em 2025.",
+    "O Aos Fatos classificou a frase como enganosa porque apresenta um fenômeno antigo e limitado como fuga atual."
+  ],
+  "explicacao_completa_md": "## Os dados\n\nO Aos Fatos (20/10/2026), com dados do MDIC, contou 232 empresas brasileiras no regime de maquila do Paraguai acumuladas desde 2007, com pico em 2016-2020 (governos Temer e Bolsonaro). Não há sinal de aceleração em 2023-2026 nas fontes citadas.\n\n## Escala\n\nO Mapa das Empresas registrou 3,87 milhões de aberturas e 2,17 milhões de fechamentos em 2023 e saldo líquido de cerca de +2,2 milhões em 2025. O investimento direto no país foi de US$ 85 bilhões em 2025 e US$ 64,4 bilhões em jan-ago/2026.\n\n## Avaliação\n\nO Aos Fatos usou o rótulo ENGANOSO; nesta base, a frase é classificada como imprecisa por apresentar um estoque acumulado de duas décadas como movimento atual.",
+  "o_que_e_verdade": [
+    "Existem empresas brasileiras operando no regime de maquila do Paraguai (232 acumuladas desde 2007).",
+    "O custo de capital no Brasil é alto (juro real de ~9,5%), o que pesa em decisões de localização."
+  ],
+  "o_que_nao_se_sustenta": [
+    "O pico de adesões ao regime foi em 2016-2020, não no governo atual.",
+    "232 empresas em 19 anos são irrelevantes diante de milhões de aberturas anuais no Brasil e de IDP de US$ 85 bilhões em 2025."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Custo de capital e carga tributária no Brasil",
+      "papel": "fatores estruturais de competitividade",
+      "peso": "medio"
+    },
+    {
+      "ator": "Política de incentivos do Paraguai (regime de maquila)",
+      "papel": "atrai indústrias de fronteira desde 2007",
+      "peso": "medio"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Empresas brasileiras no regime de maquila do Paraguai (acumulado)",
+      "valor": 232,
+      "unidade": "empresas",
+      "periodo": "2007-2026 (pico 2016-2020)",
+      "fonte": {
+        "nome": "Aos Fatos – Flávio Bolsonaro mente sobre recorde de falências (20/10/2026)",
+        "url": "https://www.aosfatos.org/noticias/flavio-bolsonaro-mente-recorde-falencias-empresas/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Aberturas de empresas no Brasil",
+      "valor": 3.87,
+      "unidade": "milhões",
+      "periodo": "2023",
+      "fonte": {
+        "nome": "Aos Fatos – Flávio Bolsonaro mente sobre recorde de falências (20/10/2026)",
+        "url": "https://www.aosfatos.org/noticias/flavio-bolsonaro-mente-recorde-falencias-empresas/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": {
+        "rotulo": "Fechamentos",
+        "valor": 2.17
+      }
+    },
+    {
+      "rotulo": "Saldo líquido de empresas",
+      "valor": 2.2,
+      "unidade": "milhões",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Aos Fatos – Flávio Bolsonaro mente sobre recorde de falências (20/10/2026)",
+        "url": "https://www.aosfatos.org/noticias/flavio-bolsonaro-mente-recorde-falencias-empresas/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Investimento direto no país",
+      "valor": 85044,
+      "unidade": "US$ milhões",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Banco Central do Brasil – SGS 22885 (investimento direto no país)",
+        "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.22885/dados?formato=json",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "jan-ago/2026",
+        "valor": 64414
+      }
+    }
+  ],
+  "series": [
+    "investimento-direto-pais"
+  ],
+  "checagens_externas": [
+    {
+      "veiculo": "Aos Fatos",
+      "veredito_original": "ENGANOSO",
+      "url": "https://www.aosfatos.org/noticias/flavio-bolsonaro-mente-recorde-falencias-empresas/",
+      "data": "2026-10-20"
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Aos Fatos – Flávio Bolsonaro mente sobre recorde de falências (20/10/2026)",
+      "url": "https://www.aosfatos.org/noticias/flavio-bolsonaro-mente-recorde-falencias-empresas/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Banco Central do Brasil – SGS 22885 (investimento direto no país)",
+      "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.22885/dados?formato=json",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/01_macroeconomia_por_governo.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "O que é o regime de maquila?",
+      "resposta": "Um regime tributário do Paraguai para empresas que importam insumos, produzem no país e exportam, com tributação reduzida; atrai indústrias brasileiras de fronteira desde 2007."
+    },
+    {
+      "pergunta": "Quando houve mais adesões?",
+      "resposta": "Entre 2016 e 2020, segundo o MDIC citado pelo Aos Fatos."
+    },
+    {
+      "pergunta": "O investimento estrangeiro está caindo no Brasil?",
+      "resposta": "Não: o IDP foi de US$ 85 bilhões em 2025 e US$ 64,4 bilhões em jan-ago/2026; o mínimo recente foi em 2020 (US$ 38,3 bilhões)."
+    }
+  ],
+  "relacionadas": [
+    "recorde-de-falencias",
+    "esta-todo-mundo-quebrando",
+    "juros-mais-altos-do-mundo"
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false
+}

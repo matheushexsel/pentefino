@@ -1,0 +1,175 @@
+{
+  "id": "chk-1035",
+  "slug": "lula-pagou-o-fmi-e-deixou-reservas",
+  "frase": "O governo Lula pagou o FMI e deixou R$ 270 bilhões em reservas",
+  "frase_normalizada": "O governo Lula 1-2 quitou a dívida com o FMI e deixou reservas de US$ 270 a 289 bilhões",
+  "variantes": [
+    "Paguei o FMI",
+    "Deixei o país com reservas recordes"
+  ],
+  "autor": {
+    "nome": "Luiz Inácio Lula da Silva",
+    "partido": "PT",
+    "cargo": "presidente da República e candidato à reeleição"
+  },
+  "lado": "governo-lula-pt",
+  "alvo": null,
+  "data": "2026-10-18",
+  "onde": "Debate da Band (18/10/2026)",
+  "url_declaracao": "https://www.aosfatos.org/noticias/checamos-lula-flavio-bolsonaro-debate-band/",
+  "temas": [
+    "economia",
+    "relacoes-exteriores",
+    "eleicao-2026"
+  ],
+  "tags": [
+    "reservas",
+    "fmi",
+    "lula-1-2"
+  ],
+  "veredito": "verdadeiro-mas",
+  "resumo_uma_frase": "A última dívida com o FMI foi quitada no governo Lula 1-2 e as reservas subiram de US$ 37,8 bilhões (dez/2002) para US$ 288,6 bilhões (dez/2010), o que o Aos Fatos classificou como correto; a ressalva é que o valor é em dólares (não reais) e um pouco maior que o citado, e que as reservas seguiram subindo até US$ 373 bilhões em 2012 e estão em US$ 362,8 bilhões em 2026.",
+  "explicacao_simples": [
+    "O Brasil quitou a dívida com o FMI no governo Lula e as reservas internacionais passaram de US$ 37,8 bilhões em 2002 para US$ 288,6 bilhões em 2010.",
+    "O Aos Fatos considerou a afirmação correta, com a ressalva de que o valor das reservas é medido em dólares e foi um pouco maior que o citado.",
+    "As reservas continuaram a crescer no governo Dilma, até US$ 373 bilhões em 2012, e estão em US$ 362,8 bilhões em setembro de 2026."
+  ],
+  "explicacao_completa_md": "## Os dados (BCB, SGS 3546, reservas em dezembro)\n\n2002 US$ 37.823 mi | 2006 US$ 85.839 mi | 2008 US$ 193.783 mi | 2010 US$ 288.575 mi | 2012 US$ 373.147 mi (pico) | 2022 US$ 324.703 mi | 2025 US$ 358.234 mi | set/2026 US$ 362.821 mi.\n\n## O FMI\n\nO Brasil teve acordo com o FMI em 2002-2005; a última dívida com o Fundo foi quitada no governo Lula 1-2, o que o Aos Fatos classificou como correto no debate da Band. O risco-país (EMBI+) caiu de 2.443 pontos (set/2002) para 192 (dez/2006) e 189 (dez/2010).\n\n## Ressalvas\n\nO valor citado ('R$ 270 bilhões') está em moeda errada e abaixo dos US$ 288,6 bilhões registrados; o acúmulo de reservas foi favorecido pelo ciclo de commodities e pela entrada de capitais; as reservas de 2026 (≈16% do PIB) seguem estáveis e são apontadas pela própria nota como sinal de que não há crise externa hoje.",
+  "o_que_e_verdade": [
+    "A dívida com o FMI foi quitada no governo Lula 1-2 e as reservas subiram de US$ 37,8 bilhões para US$ 288,6 bilhões entre 2002 e 2010.",
+    "O risco-país caiu de 2.443 pontos (set/2002) para 189 pontos (dez/2010)."
+  ],
+  "o_que_nao_se_sustenta": [
+    "O valor é em dólares, não em reais, e foi de US$ 288,6 bilhões, acima dos 270 citados.",
+    "As reservas continuaram subindo após 2010 (US$ 373 bilhões em 2012) e permanecem em patamar semelhante (US$ 362,8 bilhões em set/2026) sob governos de ambos os lados."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Governo Lula 1-2 e Banco Central (Meirelles)",
+      "papel": "política de acúmulo de reservas e quitação do FMI",
+      "peso": "alto"
+    },
+    {
+      "ator": "Ciclo de commodities e fluxo de capitais (2003-2011)",
+      "papel": "entrada de dólares que permitiu o acúmulo",
+      "peso": "alto"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Reservas internacionais",
+      "valor": 288575,
+      "unidade": "US$ milhões",
+      "periodo": "dez/2010",
+      "fonte": {
+        "nome": "Banco Central do Brasil – SGS 3546 (reservas internacionais)",
+        "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.3546/dados?formato=json",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "dez/2002",
+        "valor": 37823
+      }
+    },
+    {
+      "rotulo": "Reservas internacionais (pico)",
+      "valor": 373147,
+      "unidade": "US$ milhões",
+      "periodo": "dez/2012",
+      "fonte": {
+        "nome": "Banco Central do Brasil – SGS 3546 (reservas internacionais)",
+        "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.3546/dados?formato=json",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Reservas internacionais",
+      "valor": 362821,
+      "unidade": "US$ milhões",
+      "periodo": "set/2026",
+      "fonte": {
+        "nome": "Banco Central do Brasil – SGS 3546 (reservas internacionais)",
+        "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.3546/dados?formato=json",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "dez/2022",
+        "valor": 324703
+      }
+    },
+    {
+      "rotulo": "EMBI+ Risco Brasil",
+      "valor": 2443,
+      "unidade": "pontos-base",
+      "periodo": "27/09/2002 (máximo)",
+      "fonte": {
+        "nome": "Ipeadata – EMBI+ Risco Brasil (JPM366_EMBI366)",
+        "url": "http://www.ipeadata.gov.br/api/odata4/ValoresSerie(SERCODIGO='JPM366_EMBI366')",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "dez/2010",
+        "valor": 189
+      }
+    }
+  ],
+  "series": [
+    "reservas-internacionais",
+    "risco-pais-embi"
+  ],
+  "checagens_externas": [
+    {
+      "veiculo": "Aos Fatos",
+      "veredito_original": "Correto (com observação sobre o valor das reservas)",
+      "url": "https://www.aosfatos.org/noticias/checamos-lula-flavio-bolsonaro-debate-band/",
+      "data": "2026-10-18"
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Banco Central do Brasil – SGS 3546 (reservas internacionais)",
+      "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.3546/dados?formato=json",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Ipeadata – EMBI+ Risco Brasil (JPM366_EMBI366)",
+      "url": "http://www.ipeadata.gov.br/api/odata4/ValoresSerie(SERCODIGO='JPM366_EMBI366')",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/01_macroeconomia_por_governo.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "Quando o Brasil deveu ao FMI?",
+      "resposta": "Houve acordo de socorro em 2002-2005, após a crise cambial de 1999-2002; a dívida foi quitada no governo Lula 1-2."
+    },
+    {
+      "pergunta": "As reservas caíram depois?",
+      "resposta": "Oscilam entre US$ 325 e 375 bilhões desde 2011; estavam em US$ 362,8 bilhões em set/2026, cerca de 16% do PIB."
+    },
+    {
+      "pergunta": "Reservas altas significam que o país não pode quebrar?",
+      "resposta": "Reduzem muito o risco de crise cambial; a vulnerabilidade apontada por BC e FMI em 2026 é fiscal (dívida), não externa."
+    }
+  ],
+  "relacionadas": [
+    "primeiro-presidente-com-dois-graus-de-investimento",
+    "lula-quebrou-o-brasil",
+    "divida-publica-de-11-trilhoes"
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false
+}

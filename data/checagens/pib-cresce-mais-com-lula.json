@@ -1,0 +1,256 @@
+{
+  "id": "chk-1019",
+  "slug": "pib-cresce-mais-com-lula",
+  "frase": "A economia brasileira só cresceu mais de 3% ao ano nos governos do Lula",
+  "frase_normalizada": "O PIB só cresce acima de 3% com Lula; não cresce mais de 3% desde 2010",
+  "variantes": [
+    "A economia não cresce mais de 3% desde 2010",
+    "Só comigo o PIB cresceu mais de 3%"
+  ],
+  "autor": {
+    "nome": "Luiz Inácio Lula da Silva",
+    "partido": "PT",
+    "cargo": "presidente da República e candidato à reeleição"
+  },
+  "lado": "governo-lula-pt",
+  "alvo": {
+    "nome": "Jair Bolsonaro (governo 2019-2022)",
+    "partido": "PL"
+  },
+  "data": "2026-10-01",
+  "onde": "Entrevista ao Flow Podcast (01/10/2026); versão anterior em entrevista a DCM/Fórum/247 (14/04/2026)",
+  "url_declaracao": "https://www.agencialupa.org/checagem/2026/10/01/ao-vivo-checagem-da-entrevista-de-lula-no-flow/",
+  "temas": [
+    "economia",
+    "eleicao-2026"
+  ],
+  "tags": [
+    "pib",
+    "crescimento"
+  ],
+  "veredito": "falso",
+  "resumo_uma_frase": "O PIB cresceu acima de 3% em 2011 (3,97%, Dilma), 2013 (3,00%), 2021 (4,76%, Bolsonaro) e 2022 (3,02%, Bolsonaro); o que é verdade é que as médias dos governos Lula (4,08% em 2003-2010 e 2,98% em 2023-2025) superam as de Dilma (0,43%), Temer (1,55%) e Bolsonaro (1,43%).",
+  "explicacao_simples": [
+    "Depois de 2010 o PIB cresceu mais de 3% em 2011, 2013, 2021 e 2022, dois deles no governo Bolsonaro.",
+    "A frase erra nos anos, mas a média anual dos governos Lula é de fato maior que a dos governos Dilma, Temer e Bolsonaro.",
+    "Em 2025 o PIB cresceu 2,29% e o mercado espera 1,83% para 2026, abaixo da média do mandato."
+  ],
+  "explicacao_completa_md": "## Anos com crescimento acima de 3% (IBGE/BCB)\n\nDesde 2003: 2004 (5,76), 2005 (3,20), 2006 (3,96), 2007 (6,07), 2008 (5,09), 2010 (7,53), 2011 (3,97), 2013 (3,00), 2021 (4,76), 2022 (3,02), 2023 (3,24), 2024 (3,42). Quatro desses anos são posteriores a 2010 e não pertencem a governos Lula, incluindo 2021 e 2022 (Bolsonaro).\n\n## Médias por governo (cálculo da nota sobre a série SGS 7326)\n\n- Lula 1-2 (2003-2010): 4,08% (acumulado +37,8%)\n- Dilma (2011-2016): 0,43% (recessão de 2015-16)\n- Temer (2017-2018): 1,55%\n- Bolsonaro (2019-2022): 1,43% (inclui −3,28% da Covid)\n- Lula 3 (2023-2025): 2,98%; acumulado 4T2022→2T2026 +9,9%\n\n## Contexto\n\nO ciclo de commodities ajudou Lula 1-2; a pandemia derrubou 2020; 2021 foi recuperação. Em 2026 o ritmo desacelera: +1,9% acumulado em quatro trimestres até o 2T2026, Focus de 1,83% e FMI de 2,2%. A Lupa classificou a frase como FALSO em duas ocasiões (14/04 e 01/10/2026).",
+  "o_que_e_verdade": [
+    "A média de crescimento dos governos Lula (4,08% em 2003-2010; 2,98% em 2023-2025) supera as de Dilma, Temer e Bolsonaro.",
+    "O PIB está em máxima histórica (2T2026) e cresceu 3,24% em 2023 e 3,42% em 2024."
+  ],
+  "o_que_nao_se_sustenta": [
+    "O PIB cresceu 3,97% em 2011 e 3,00% em 2013 (Dilma) e 4,76% em 2021 e 3,02% em 2022 (Bolsonaro).",
+    "Em 2025 o crescimento foi de 2,29%, abaixo de 3%, e a projeção para 2026 é de 1,83% (Focus)."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Ciclo internacional (commodities, pandemia, juros globais)",
+      "papel": "explica boa parte das diferenças entre mandatos",
+      "peso": "alto"
+    },
+    {
+      "ator": "Governo federal (política fiscal e reformas)",
+      "papel": "influência parcial, com defasagem",
+      "peso": "medio"
+    },
+    {
+      "ator": "Copom / Banco Central",
+      "papel": "Selic alta desacelera a atividade em 2025-2026",
+      "peso": "medio"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "PIB 2011",
+      "valor": 3.97,
+      "unidade": "% ao ano",
+      "periodo": "2011",
+      "fonte": {
+        "nome": "Banco Central do Brasil – SGS 7326 (variação real anual do PIB, origem IBGE)",
+        "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.7326/dados?formato=json",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "PIB 2013",
+      "valor": 3.0,
+      "unidade": "% ao ano",
+      "periodo": "2013",
+      "fonte": {
+        "nome": "Banco Central do Brasil – SGS 7326 (variação real anual do PIB, origem IBGE)",
+        "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.7326/dados?formato=json",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "PIB 2021",
+      "valor": 4.76,
+      "unidade": "% ao ano",
+      "periodo": "2021",
+      "fonte": {
+        "nome": "Banco Central do Brasil – SGS 7326 (variação real anual do PIB, origem IBGE)",
+        "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.7326/dados?formato=json",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "PIB 2022",
+      "valor": 3.02,
+      "unidade": "% ao ano",
+      "periodo": "2022",
+      "fonte": {
+        "nome": "Banco Central do Brasil – SGS 7326 (variação real anual do PIB, origem IBGE)",
+        "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.7326/dados?formato=json",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "PIB 2025",
+      "valor": 2.29,
+      "unidade": "% ao ano",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Banco Central do Brasil – SGS 7326 (variação real anual do PIB, origem IBGE)",
+        "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.7326/dados?formato=json",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "2024",
+        "valor": 3.42
+      }
+    },
+    {
+      "rotulo": "Média anual Lula 1-2 (cálculo da nota)",
+      "valor": 4.08,
+      "unidade": "% ao ano",
+      "periodo": "2003-2010",
+      "fonte": {
+        "nome": "Banco Central do Brasil – SGS 7326 (variação real anual do PIB, origem IBGE)",
+        "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.7326/dados?formato=json",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "Bolsonaro 2019-2022",
+        "valor": 1.43
+      }
+    },
+    {
+      "rotulo": "Média anual Lula 3 (cálculo da nota)",
+      "valor": 2.98,
+      "unidade": "% ao ano",
+      "periodo": "2023-2025",
+      "fonte": {
+        "nome": "Banco Central do Brasil – SGS 7326 (variação real anual do PIB, origem IBGE)",
+        "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.7326/dados?formato=json",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "Dilma 2011-2016",
+        "valor": 0.43
+      }
+    },
+    {
+      "rotulo": "Projeção Focus para o PIB de 2026",
+      "valor": 1.83,
+      "unidade": "%",
+      "periodo": "16/10/2026",
+      "fonte": {
+        "nome": "BCB – Focus, expectativas de mercado anuais (PIB 2026), 16/10/2026",
+        "url": "https://olinda.bcb.gov.br/olinda/servico/Expectativas/versao/v1/odata/ExpectativasMercadoAnuais?%24filter=Indicador%20eq%20'PIB%20Total'%20and%20DataReferencia%20eq%20'2026'&%24orderby=Data%20desc&%24top=2&%24format=json",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": null
+    }
+  ],
+  "series": [
+    "pib-anual"
+  ],
+  "checagens_externas": [
+    {
+      "veiculo": "Lupa",
+      "veredito_original": "FALSO",
+      "url": "https://www.agencialupa.org/checagem/2026/04/14/lula-exagera-ao-falar-de-empregos-e-erra-sobre-preco-de-combustiveis-no-brasil/",
+      "data": "2026-04-14"
+    },
+    {
+      "veiculo": "Lupa",
+      "veredito_original": "FALSO",
+      "url": "https://www.agencialupa.org/checagem/2026/10/01/ao-vivo-checagem-da-entrevista-de-lula-no-flow/",
+      "data": "2026-10-01"
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Banco Central do Brasil – SGS 7326 (variação real anual do PIB, origem IBGE)",
+      "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.7326/dados?formato=json",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "BCB – Focus, expectativas de mercado anuais (PIB 2026), 16/10/2026",
+      "url": "https://olinda.bcb.gov.br/olinda/servico/Expectativas/versao/v1/odata/ExpectativasMercadoAnuais?%24filter=Indicador%20eq%20'PIB%20Total'%20and%20DataReferencia%20eq%20'2026'&%24orderby=Data%20desc&%24top=2&%24format=json",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Lupa – Lula exagera ao falar de empregos (14/04/2026)",
+      "url": "https://www.agencialupa.org/checagem/2026/04/14/lula-exagera-ao-falar-de-empregos-e-erra-sobre-preco-de-combustiveis-no-brasil/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Lupa – Checagem ao vivo da entrevista de Lula no Flow (01/10/2026)",
+      "url": "https://www.agencialupa.org/checagem/2026/10/01/ao-vivo-checagem-da-entrevista-de-lula-no-flow/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "IBGE – SIDRA tabela 1621 (índice de volume do PIB dessazonalizado)",
+      "url": "https://apisidra.ibge.gov.br/values/t/1621/n1/all/v/584/p/all/c11255/90707?formato=json",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/01_macroeconomia_por_governo.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "Qual governo teve a maior média de crescimento desde 2003?",
+      "resposta": "Lula 1-2, com 4,08% ao ano (2003-2010), seguido de Lula 3 (2,98% em 2023-2025). Dilma teve 0,43%, Temer 1,55% e Bolsonaro 1,43%."
+    },
+    {
+      "pergunta": "O Brasil cresceu mais que o mundo?",
+      "resposta": "Em Lula 1-2 cresceu em linha com o mundo (4,1% contra 4,0%); em Lula 3 cresceu abaixo do mundo (3,0% contra 3,4%) mas acima da América Latina (2,4%), segundo o FMI."
+    },
+    {
+      "pergunta": "A média de um mandato prova mérito do governo?",
+      "resposta": "Não. Efeitos de política econômica têm defasagem e câmbio, commodities e choques como a pandemia são em grande parte externos."
+    }
+  ],
+  "relacionadas": [
+    "lula-quebrou-o-brasil",
+    "pib-industrial-cresceu-3-4",
+    "menor-desemprego-da-historia"
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false
+}

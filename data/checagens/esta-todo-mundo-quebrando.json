@@ -1,0 +1,302 @@
+{
+  "id": "chk-1042",
+  "slug": "esta-todo-mundo-quebrando",
+  "frase": "Está todo mundo quebrando",
+  "frase_normalizada": "Empresas e famílias brasileiras estão quebrando em massa em 2026",
+  "variantes": [
+    "O brasileiro está quebrado",
+    "As empresas estão quebrando"
+  ],
+  "autor": {
+    "nome": "Renan Santos",
+    "partido": null,
+    "cargo": "candidato à Presidência no 1º turno de 2026"
+  },
+  "lado": "outro",
+  "alvo": {
+    "nome": "Governo Lula 3 (2023-2026)",
+    "partido": "PT"
+  },
+  "data": "2026-08-23",
+  "onde": "Debate presidencial da Band (23/08/2026, sem Lula e Flávio)",
+  "url_declaracao": "https://www.aosfatos.org/noticias/checamos-debate-presidencial-band/",
+  "temas": [
+    "economia",
+    "emprego-renda",
+    "eleicao-2026"
+  ],
+  "tags": [
+    "falencias",
+    "endividamento",
+    "inadimplencia",
+    "serasa"
+  ],
+  "veredito": "exagerado",
+  "resumo_uma_frase": "Há estresse financeiro real — recuperações judiciais recordes em 2025, 83,9 milhões de negativados e 81,6% das famílias endividadas em 2026 —, mas as falências caíram em 2025, o saldo de empresas é positivo, o desemprego está em mínima e a renda em recorde; 'todo mundo quebrando' generaliza indicadores de crédito para toda a economia.",
+  "explicacao_simples": [
+    "Os indicadores de crédito estão em recorde negativo: 83,9 milhões de pessoas negativadas, 81,6% das famílias com dívidas e recuperações judiciais no maior nível em 2025.",
+    "Ao mesmo tempo, as falências caíram de 2024 para 2025, o saldo de empresas abertas é positivo e o desemprego e a renda do trabalho estão em níveis recordes favoráveis.",
+    "O Aos Fatos contextualizou a frase com os dados da Serasa sem dar rótulo, e aqui ela é classificada como exagero por generalizar o quadro de crédito."
+  ],
+  "explicacao_completa_md": "## O que sustenta a frase\n\n- Serasa: 83,9 milhões de negativados (jul-ago/2026), contra 69,43 milhões em dez/2022; 78% dos negativados ganham até 2 salários mínimos.\n- CNC/Peic: 81,6% das famílias endividadas (mai/2026), recorde; 29,7% com contas em atraso.\n- BCB: endividamento de 49,9% da renda (fev/2026) e inadimplência da pessoa física de 5,04% (ago/2026), contra 3,07% em dez/2022.\n- Recuperações judiciais: recorde em 2025; falências +36% em jan-mai/2026.\n- Rotativo do cartão: 428% a 440% ao ano.\n\n## O que a contradiz\n\n- Falências caíram entre 2024 e 2025 e não superaram o nível de 2012-2019.\n- Saldo líquido de empresas: cerca de +2,2 milhões em 2025.\n- Desemprego de 5,3% (mínimo da série), ocupação de 103,5 milhões e massa de rendimentos recorde.\n- PIB em máxima histórica e Ibovespa em recorde nominal.\n\n## Leitura\n\nO quadro é de 'crédito caro' (Selic de 14-15%), não de quebra generalizada; a frase é típica da campanha de 2026 e foi usada por candidatos de oposição de diferentes partidos.",
+  "o_que_e_verdade": [
+    "Negativados (83,9 milhões), famílias endividadas (81,6%) e inadimplência da pessoa física (5,04%) estão em recordes em 2026.",
+    "Recuperações judiciais bateram recorde em 2025 e as falências subiram 36% em jan-mai/2026."
+  ],
+  "o_que_nao_se_sustenta": [
+    "As falências caíram em 2025 e o saldo de empresas é positivo (+2,2 milhões em 2025).",
+    "Desemprego em mínima histórica, renda recorde, PIB em máxima e bolsa em recorde não descrevem uma economia 'quebrando'."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Copom / Banco Central (Selic de 15%)",
+      "papel": "principal causa do custo do crédito",
+      "peso": "alto"
+    },
+    {
+      "ator": "Bancos e emissores de cartão (rotativo acima de 400% ao ano)",
+      "papel": "spread elevado",
+      "peso": "alto"
+    },
+    {
+      "ator": "Governo federal (política fiscal; Desenrola e perdão de dívidas de MEI como respostas)",
+      "papel": "influência indireta sobre juros longos e medidas paliativas",
+      "peso": "medio"
+    },
+    {
+      "ator": "Famílias (apostas online de ~R$ 30 bilhões/mês, segundo CNC)",
+      "papel": "fator de endividamento apontado pelo Senado",
+      "peso": "baixo"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Pessoas negativadas (Serasa)",
+      "valor": 83.9,
+      "unidade": "milhões",
+      "periodo": "jul-ago/2026",
+      "fonte": {
+        "nome": "Serasa – Mapa da Inadimplência",
+        "url": "https://www.serasa.com.br/limpa-nome-online/blog/mapa-da-inadimplencia-e-renogociacao-de-dividas-no-brasil/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "dez/2022",
+        "valor": 69.43
+      }
+    },
+    {
+      "rotulo": "Famílias endividadas (CNC/Peic)",
+      "valor": 81.6,
+      "unidade": "%",
+      "periodo": "mai/2026 (recorde)",
+      "fonte": {
+        "nome": "Diário do Vale – CNC/Serasa: endividamento bate recorde no Brasil (mai/2026)",
+        "url": "https://diariodovale.com.br/destaque/cnc-serasa-endividamento-bate-recorde-no-brasil/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "dez/2022",
+        "valor": 78
+      }
+    },
+    {
+      "rotulo": "Inadimplência da pessoa física (BCB)",
+      "valor": 5.04,
+      "unidade": "%",
+      "periodo": "ago/2026",
+      "fonte": {
+        "nome": "Banco Central do Brasil – SGS 21082 (inadimplência pessoa física)",
+        "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.21082/dados?formato=json&dataInicial=01/01/2022",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "dez/2022",
+        "valor": 3.07
+      }
+    },
+    {
+      "rotulo": "Endividamento das famílias (BCB)",
+      "valor": 49.9,
+      "unidade": "% da renda",
+      "periodo": "fev/2026 (recorde)",
+      "fonte": {
+        "nome": "Poder360 – Endividamento das famílias atinge máxima histórica, diz BC (27/04/2026)",
+        "url": "https://www.poder360.com.br/poder-economia/endividamento-das-familias-atinge-maxima-historica-diz-bc/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "Pico anterior (jul/2022)",
+        "valor": 49.88
+      }
+    },
+    {
+      "rotulo": "Juros do rotativo do cartão",
+      "valor": 440.5,
+      "unidade": "% ao ano",
+      "periodo": "2026",
+      "fonte": {
+        "nome": "Senado Notícias – Dívidas em recorde assombram as famílias brasileiras (mai/2026)",
+        "url": "https://www12.senado.leg.br/noticias/infomaterias/2026/05/dividas-em-recorde-assombram-as-familias-brasileiras",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "Mínimo citado",
+        "valor": 428
+      }
+    },
+    {
+      "rotulo": "Falências decretadas",
+      "valor": 484,
+      "unidade": "casos",
+      "periodo": "jan-mai/2026 (+36%)",
+      "fonte": {
+        "nome": "Aos Fatos – Flávio Bolsonaro mente sobre recorde de falências (20/10/2026)",
+        "url": "https://www.aosfatos.org/noticias/flavio-bolsonaro-mente-recorde-falencias-empresas/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Saldo líquido de empresas",
+      "valor": 2.2,
+      "unidade": "milhões",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Aos Fatos – Flávio Bolsonaro mente sobre recorde de falências (20/10/2026)",
+        "url": "https://www.aosfatos.org/noticias/flavio-bolsonaro-mente-recorde-falencias-empresas/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Taxa de desocupação",
+      "valor": 5.3,
+      "unidade": "%",
+      "periodo": "jun-ago/2026",
+      "fonte": {
+        "nome": "Banco Central do Brasil – SGS 24369 (taxa de desocupação, trimestre móvel, origem IBGE)",
+        "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.24369/dados?formato=json",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": null
+    }
+  ],
+  "series": [
+    "endividamento-familias",
+    "inadimplencia-pf",
+    "desemprego-pnad-trimestral",
+    "familias-endividadas-peic",
+    "serasa-negativados"
+  ],
+  "checagens_externas": [
+    {
+      "veiculo": "Aos Fatos",
+      "veredito_original": "Contextualizada com dados da Serasa (recorde de recuperações judiciais, falências em queda), sem rótulo",
+      "url": "https://www.aosfatos.org/noticias/checamos-debate-presidencial-band/",
+      "data": "2026-08-23"
+    },
+    {
+      "veiculo": "Aos Fatos",
+      "veredito_original": "FALSO para 'recorde de empresas fechadas' (Flávio Bolsonaro)",
+      "url": "https://www.aosfatos.org/noticias/flavio-bolsonaro-mente-recorde-falencias-empresas/",
+      "data": "2026-10-20"
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Serasa – Mapa da Inadimplência",
+      "url": "https://www.serasa.com.br/limpa-nome-online/blog/mapa-da-inadimplencia-e-renogociacao-de-dividas-no-brasil/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Diário do Vale – CNC/Serasa: endividamento bate recorde no Brasil (mai/2026)",
+      "url": "https://diariodovale.com.br/destaque/cnc-serasa-endividamento-bate-recorde-no-brasil/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Banco Central do Brasil – SGS 21082 (inadimplência pessoa física)",
+      "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.21082/dados?formato=json&dataInicial=01/01/2022",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Poder360 – Endividamento das famílias atinge máxima histórica, diz BC (27/04/2026)",
+      "url": "https://www.poder360.com.br/poder-economia/endividamento-das-familias-atinge-maxima-historica-diz-bc/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Senado Notícias – Dívidas em recorde assombram as famílias brasileiras (mai/2026)",
+      "url": "https://www12.senado.leg.br/noticias/infomaterias/2026/05/dividas-em-recorde-assombram-as-familias-brasileiras",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Aos Fatos – Flávio Bolsonaro mente sobre recorde de falências (20/10/2026)",
+      "url": "https://www.aosfatos.org/noticias/flavio-bolsonaro-mente-recorde-falencias-empresas/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Banco Central do Brasil – SGS 24369 (taxa de desocupação, trimestre móvel, origem IBGE)",
+      "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.24369/dados?formato=json",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Jornal Grande Bahia – Inadimplência atinge 81,7 milhões e cresce 38% em uma década, aponta Serasa (26/03/2026)",
+      "url": "https://jornalgrandebahia.com.br/2026/03/inadimplencia-no-brasil-atinge-817-milhoes-e-cresce-38-em-uma-decada-aponta-serasa/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "CNN Brasil – CNC: endividamento das famílias atinge novo recorde e chega a 80,4% (07/04/2026)",
+      "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/cnc-endividamento-das-familias-atinge-novo-recorde-e-chega-a-80-4/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/01_macroeconomia_por_governo.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "Quem está mais endividado?",
+      "resposta": "Pela Serasa, 48% dos negativados ganham até 1 salário mínimo e 30% entre 1 e 2; bancos e cartões respondem por cerca de 45% das dívidas."
+    },
+    {
+      "pergunta": "O governo fez algo?",
+      "resposta": "Lançou o Desenrola (2023-2024), o Novo Desenrola (MP 1.355/2026, descontos de até 90%) e o perdão de dívidas de 3,6 milhões de MEIs (PLC 186/2026, R$ 12,6 bilhões)."
+    },
+    {
+      "pergunta": "Quando a inadimplência subiu mais?",
+      "resposta": "Em 2025: a inadimplência da pessoa física foi de 3,08% (dez/2024) para 4,20% (dez/2025), junto com a alta da Selic de 10,5% para 15%."
+    }
+  ],
+  "relacionadas": [
+    "recorde-de-falencias",
+    "lula-quebrou-o-brasil",
+    "endividamento-das-familias-e-heranca-de-selic-alta",
+    "78-por-cento-da-populacao-endividada"
+  ],
+  "lacunas": [
+    "Partido de Renan Santos não consta das notas (campo deixado nulo)."
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false
+}

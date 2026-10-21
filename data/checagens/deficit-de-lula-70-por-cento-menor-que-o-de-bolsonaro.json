@@ -1,0 +1,257 @@
+{
+  "id": "chk-1048",
+  "slug": "deficit-de-lula-70-por-cento-menor-que-o-de-bolsonaro",
+  "frase": "O déficit primário acumulado do governo Lula 3 será 70% menor que o do governo Bolsonaro",
+  "frase_normalizada": "O governo Lula 3 acumulou um déficit muito menor que o do governo Bolsonaro",
+  "variantes": [
+    "Bolsonaro gastou mais do que Lula",
+    "O rombo de Bolsonaro foi três vezes maior"
+  ],
+  "autor": {
+    "nome": "Ministério da Fazenda (nota oficial)",
+    "partido": null,
+    "cargo": "governo federal"
+  },
+  "lado": "governo-lula-pt",
+  "alvo": {
+    "nome": "Jair Bolsonaro (governo 2019-2022)",
+    "partido": "PL"
+  },
+  "data": "2025-12-29",
+  "onde": "Nota do Ministério da Fazenda citada pelo Metrópoles (29/12/2025)",
+  "url_declaracao": "https://www.metropoles.com/brasil/economia-br/entenda-a-situacao-fiscal-que-o-governo-vai-enfrentar-em-2026",
+  "temas": [
+    "contas-publicas",
+    "eleicao-2026"
+  ],
+  "tags": [
+    "deficit-primario",
+    "tesouro",
+    "pandemia"
+  ],
+  "veredito": "falta-contexto",
+  "resumo_uma_frase": "Somando os resultados do governo central pelo Tesouro, Bolsonaro acumulou −R$ 827,0 bilhões em 2019-2022 e Lula 3 −R$ 333,1 bilhões em 2023-2025 (−R$ 414 bilhões com jan-jul/2026), mas 90% do déficit de Bolsonaro é o ano da pandemia (2020, −R$ 743,3 bilhões); excluído o choque da Covid, os dois governos ficam próximos, e a dívida bruta subiu 11,2 pontos do PIB sob Lula 3 contra queda de 3,6 pontos sob Bolsonaro.",
+  "explicacao_simples": [
+    "Somando os anos pelo Tesouro, o governo Bolsonaro acumulou déficit de R$ 827 bilhões em 2019 a 2022 e o governo Lula 3, R$ 333 bilhões em 2023 a 2025.",
+    "Nove em cada dez reais do déficit de Bolsonaro são de 2020, ano da pandemia, quando o Auxílio Emergencial elevou a despesa a 25,6% do PIB.",
+    "Sem o choque da Covid a comparação fica equilibrada, e a dívida bruta subiu 11,2 pontos do PIB sob Lula 3 enquanto caiu 3,6 pontos sob Bolsonaro."
+  ],
+  "explicacao_completa_md": "## A aritmética (Tesouro, Série Histórica RTN, governo central)\n\n- Bolsonaro: 2019 −95,1; 2020 −743,3; 2021 −35,1; 2022 +46,4 → −R$ 827,0 bilhões.\n- Lula 3: 2023 −228,5; 2024 −42,9; 2025 −61,7 → −R$ 333,1 bilhões; com jan-jul/2026 (−81,3), −R$ 414 bilhões.\n\nA nota de pesquisa observa que 90% do déficit de Bolsonaro é o ano de 2020 (pandemia). O percentual final de '70% menor' depende do fechamento de 2026 e não foi calculado na nota.\n\n## O que falta\n\n- 2020 foi um choque exógeno: a despesa do governo central saltou de 19,52% para 25,59% do PIB com o Auxílio Emergencial (R$ 293 a 354 bilhões em 2020-2021).\n- Excluído 2020, Bolsonaro acumula cerca de −R$ 84 bilhões em três anos (2019, 2021, 2022), menos que Lula 3 em qualquer ano isolado exceto 2024.\n- O déficit de 2023 foi inflado por R$ 92,4 bilhões de precatórios represados pelo governo anterior (EC 113/2021).\n- Em dívida bruta, o saldo é inverso: −3,6 pontos do PIB sob Bolsonaro (75,27% → 71,68%) e +11,2 pontos sob Lula 3 (71,68% → 82,87% em ago/2026), porque os juros (R$ 1 trilhão em 2025) não entram no primário.\n\n## Avaliação\n\nA soma nominal favorece o governo atual, mas a comparação sem separar a pandemia e sem olhar a dívida é incompleta — por isso 'falta contexto'. Vale a mesma régua da frase de Lula 'peguei déficit de 2,8%', classificada como FALSO pela Lupa.",
+  "o_que_e_verdade": [
+    "Pelo Tesouro, o governo central acumulou −R$ 827,0 bilhões em 2019-2022 e −R$ 333,1 bilhões em 2023-2025.",
+    "Os déficits de 2024 (0,36% do PIB) e 2025 (0,48%) são menores que os de 2015-2019 e muito menores que o de 2020."
+  ],
+  "o_que_nao_se_sustenta": [
+    "90% do déficit de Bolsonaro é o ano da pandemia (−R$ 743,3 bilhões em 2020); sem 2020, os três anos restantes somam cerca de −R$ 84 bilhões.",
+    "O déficit de 2023 inclui R$ 92,4 bilhões de precatórios represados pelo governo anterior, o que distorce a comparação nos dois sentidos.",
+    "A dívida bruta caiu 3,6 pontos do PIB sob Bolsonaro e subiu 11,2 pontos sob Lula 3; o primário não captura o custo dos juros."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Pandemia de Covid-19 (2020)",
+      "papel": "explica 90% do déficit acumulado de 2019-2022",
+      "peso": "alto"
+    },
+    {
+      "ator": "Governo Bolsonaro e Congresso",
+      "papel": "Auxílio Emergencial, PEC dos Precatórios (EC 113) e PEC Kamikaze (EC 123)",
+      "peso": "alto"
+    },
+    {
+      "ator": "Governo Lula 3 e Congresso",
+      "papel": "PEC da Transição, deduções da meta e déficits de 2023-2026",
+      "peso": "alto"
+    },
+    {
+      "ator": "Copom / Banco Central",
+      "papel": "juros elevam a dívida sem passar pelo primário",
+      "peso": "medio"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Déficit primário do governo central em 2020",
+      "valor": -743.255,
+      "unidade": "R$ bilhões",
+      "periodo": "2020",
+      "fonte": {
+        "nome": "Tesouro Nacional – Série Histórica RTN (planilha jul/2026)",
+        "url": "https://www.tesourotransparente.gov.br/ckan/dataset/ab56485b-9c40-4efb-8563-9ce3e1973c4b/resource/527ccdb1-3059-42f3-bf23-b5e3ab4c6dc6/download/seriehistoricajul26.xlsx",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "% do PIB",
+        "valor": -9.77
+      }
+    },
+    {
+      "rotulo": "Soma do primário do governo central 2019-2022 (aritmética da nota)",
+      "valor": -827.0,
+      "unidade": "R$ bilhões",
+      "periodo": "2019-2022",
+      "fonte": {
+        "nome": "Tesouro Nacional – Série Histórica RTN (planilha jul/2026)",
+        "url": "https://www.tesourotransparente.gov.br/ckan/dataset/ab56485b-9c40-4efb-8563-9ce3e1973c4b/resource/527ccdb1-3059-42f3-bf23-b5e3ab4c6dc6/download/seriehistoricajul26.xlsx",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "2023-2025",
+        "valor": -333.1
+      }
+    },
+    {
+      "rotulo": "Resultado primário do governo central em 2022",
+      "valor": 46.408,
+      "unidade": "R$ bilhões",
+      "periodo": "2022",
+      "fonte": {
+        "nome": "Tesouro Nacional – Série Histórica RTN (planilha jul/2026)",
+        "url": "https://www.tesourotransparente.gov.br/ckan/dataset/ab56485b-9c40-4efb-8563-9ce3e1973c4b/resource/527ccdb1-3059-42f3-bf23-b5e3ab4c6dc6/download/seriehistoricajul26.xlsx",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "2019",
+        "valor": -95.065
+      }
+    },
+    {
+      "rotulo": "Resultado primário do governo central em 2023",
+      "valor": -228.499,
+      "unidade": "R$ bilhões",
+      "periodo": "2023",
+      "fonte": {
+        "nome": "Tesouro Nacional – Série Histórica RTN (planilha jul/2026)",
+        "url": "https://www.tesourotransparente.gov.br/ckan/dataset/ab56485b-9c40-4efb-8563-9ce3e1973c4b/resource/527ccdb1-3059-42f3-bf23-b5e3ab4c6dc6/download/seriehistoricajul26.xlsx",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "Precatórios pagos em 2023",
+        "valor": 92.4
+      }
+    },
+    {
+      "rotulo": "Déficit primário do governo central jan-jul/2026",
+      "valor": -81.305,
+      "unidade": "R$ bilhões",
+      "periodo": "jan-jul/2026",
+      "fonte": {
+        "nome": "Tesouro Nacional – Série Histórica RTN (planilha jul/2026)",
+        "url": "https://www.tesourotransparente.gov.br/ckan/dataset/ab56485b-9c40-4efb-8563-9ce3e1973c4b/resource/527ccdb1-3059-42f3-bf23-b5e3ab4c6dc6/download/seriehistoricajul26.xlsx",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "jan-jul/2025",
+        "valor": -70.347
+      }
+    },
+    {
+      "rotulo": "Despesa do governo central em 2020",
+      "valor": 25.59,
+      "unidade": "% do PIB",
+      "periodo": "2020",
+      "fonte": {
+        "nome": "Tesouro Nacional – Série Histórica RTN (planilha jul/2026)",
+        "url": "https://www.tesourotransparente.gov.br/ckan/dataset/ab56485b-9c40-4efb-8563-9ce3e1973c4b/resource/527ccdb1-3059-42f3-bf23-b5e3ab4c6dc6/download/seriehistoricajul26.xlsx",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "2019",
+        "valor": 19.52
+      }
+    },
+    {
+      "rotulo": "Variação da DBGG no governo Bolsonaro (dez/2018 a dez/2022)",
+      "valor": -3.6,
+      "unidade": "pontos percentuais do PIB",
+      "periodo": "2018-2022",
+      "fonte": {
+        "nome": "Banco Central do Brasil – SGS 13762 (Dívida Bruta do Governo Geral, % PIB)",
+        "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.13762/dados?formato=json",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "Lula 3 (dez/2022 a ago/2026)",
+        "valor": 11.2
+      }
+    }
+  ],
+  "series": [
+    "resultado-primario-pib",
+    "divida-bruta-pib",
+    "juros-nominais-pib",
+    "resultado-primario-governo-central-pib"
+  ],
+  "checagens_externas": [
+    {
+      "veiculo": "Lupa",
+      "veredito_original": "FALSO para 'peguei déficit de 2,8%' (Lula), frase correlata",
+      "url": "https://www.agencialupa.org/checagem/2026/10/15/ao-vivo-checagem-da-entrevista-de-lula-na-tv-globo/",
+      "data": "2026-10-15"
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Tesouro Nacional – Série Histórica RTN (planilha jul/2026)",
+      "url": "https://www.tesourotransparente.gov.br/ckan/dataset/ab56485b-9c40-4efb-8563-9ce3e1973c4b/resource/527ccdb1-3059-42f3-bf23-b5e3ab4c6dc6/download/seriehistoricajul26.xlsx",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Banco Central do Brasil – SGS 13762 (Dívida Bruta do Governo Geral, % PIB)",
+      "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.13762/dados?formato=json",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Metrópoles – Entenda a situação fiscal que o governo vai enfrentar em 2026 (29/12/2025)",
+      "url": "https://www.metropoles.com/brasil/economia-br/entenda-a-situacao-fiscal-que-o-governo-vai-enfrentar-em-2026",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Agência Brasil – Setor público registra déficit de 0,4% do PIB em 2024 (31/01/2025)",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2025-01/banco-central-setor-publico-registra-deficit-de-04-do-pib-em-2024",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/02_contas_publicas_divida.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "Quanto custou o Auxílio Emergencial?",
+      "resposta": "Entre R$ 293 bilhões (dados do Senado: ~R$ 230 bilhões em 2020 e ~R$ 63 bilhões em 2021) e R$ 352-354 bilhões (Portal da Transparência, bruto), conforme o critério."
+    },
+    {
+      "pergunta": "É justo comparar governos somando déficits?",
+      "resposta": "Só separando choques (pandemia, precatórios) e olhando também a dívida e os juros; a soma nominal isolada favorece quem não enfrentou a Covid."
+    },
+    {
+      "pergunta": "Qual governo mais reduziu a dívida?",
+      "resposta": "Em pontos do PIB (dez a dez): Lula 2 (−3,7) e Bolsonaro (−3,6); Dilma (+18,1), Temer (+5,4) e Lula 3 (+11,2 até ago/2026) elevaram."
+    }
+  ],
+  "relacionadas": [
+    "peguei-deficit-de-2-8-do-pib",
+    "meta-fiscal-foi-cumprida",
+    "divida-publica-de-11-trilhoes",
+    "bolsonaro-deu-600-reais-do-auxilio"
+  ],
+  "lacunas": [
+    "A Fazenda não detalhou o cálculo dos '70%'; a nota apenas reproduz a aritmética das somas e observa que o resultado depende do fechamento de 2026. O valor 'cerca de −R$ 84 bilhões' para 2019+2021+2022 é soma dos três anos da planilha do Tesouro."
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false
+}

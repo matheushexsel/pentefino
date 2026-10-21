@@ -1,0 +1,160 @@
+{
+  "id": "chk-1022",
+  "slug": "juros-cairam-2-por-cento",
+  "frase": "A taxa de juros caiu 2%",
+  "frase_normalizada": "A Selic caiu dois pontos percentuais em 2026",
+  "variantes": [
+    "Os juros já caíram 2 pontos"
+  ],
+  "autor": {
+    "nome": "Flávio Bolsonaro",
+    "partido": "PL",
+    "cargo": "senador (RJ) e candidato à Presidência"
+  },
+  "lado": "oposicao-flavio-pl",
+  "alvo": null,
+  "data": "2026-10-18",
+  "onde": "Debate da Band (18/10/2026)",
+  "url_declaracao": "https://www.aosfatos.org/noticias/checamos-lula-flavio-bolsonaro-debate-band/",
+  "temas": [
+    "economia",
+    "eleicao-2026"
+  ],
+  "tags": [
+    "selic",
+    "copom"
+  ],
+  "veredito": "impreciso",
+  "resumo_uma_frase": "A Selic caiu 1,25 ponto percentual em 2026, de 15,00% para 13,75%, em cinco cortes de 0,25 ponto entre março e setembro; o Aos Fatos considerou incorreto falar em queda de 2%.",
+  "explicacao_simples": [
+    "O Copom cortou a Selic cinco vezes em 2026, de 15% para 13,75%, uma queda de 1,25 ponto percentual.",
+    "A frase de que os juros caíram 2% não corresponde ao dado oficial, e o Aos Fatos a considerou incorreta.",
+    "O mercado espera Selic de 13,25% no fim de 2026, o que ainda deixaria a queda do ano em 1,75 ponto."
+  ],
+  "explicacao_completa_md": "## O ciclo de cortes de 2026 (BCB, SGS 432 e histórico do Copom)\n\n19/03/2026: 14,75% | 30/04/2026: 14,50% | 18/06/2026: 14,25% | 06/08/2026: 14,00% | 17/09/2026: 13,75% (vigente em 21/10/2026). Total: −1,25 ponto a partir dos 15,00% vigentes desde 19/06/2025.\n\n## Projeção\n\nFocus (16/10/2026): Selic de 13,25% no fim de 2026 e 12,00% no fim de 2027. A IFI projeta 14,0% no fim de 2026. Mesmo no cenário do Focus a queda do ano seria de 1,75 ponto, inferior a 2.",
+  "o_que_e_verdade": [
+    "A Selic está em ciclo de queda desde mar/2026: cinco cortes, de 15,00% para 13,75%."
+  ],
+  "o_que_nao_se_sustenta": [
+    "A queda acumulada é de 1,25 ponto percentual, não 2."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Copom / Banco Central",
+      "papel": "decide os cortes da Selic",
+      "peso": "alto"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Meta Selic antes do ciclo de cortes",
+      "valor": 15.0,
+      "unidade": "% ao ano",
+      "periodo": "19/06/2025 a 18/03/2026",
+      "fonte": {
+        "nome": "Banco Central do Brasil – SGS 432 (meta Selic)",
+        "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.432/dados?formato=json&dataInicial=01/01/2018&dataFinal=21/10/2026",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Meta Selic vigente",
+      "valor": 13.75,
+      "unidade": "% ao ano",
+      "periodo": "desde 17/09/2026",
+      "fonte": {
+        "nome": "BCB – Histórico das taxas de juros fixadas pelo Copom",
+        "url": "https://www.bcb.gov.br/api/servico/sitebcb/historicotaxasjuros",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "Queda acumulada em 2026 (pontos)",
+        "valor": 1.25
+      }
+    },
+    {
+      "rotulo": "Projeção Focus para a Selic no fim de 2026",
+      "valor": 13.25,
+      "unidade": "% ao ano",
+      "periodo": "16/10/2026",
+      "fonte": {
+        "nome": "BCB – Focus, expectativas de mercado anuais (Selic 2026), 16/10/2026",
+        "url": "https://olinda.bcb.gov.br/olinda/servico/Expectativas/versao/v1/odata/ExpectativasMercadoAnuais?%24filter=Indicador%20eq%20'Selic'%20and%20DataReferencia%20eq%20'2026'&%24orderby=Data%20desc&%24top=2&%24format=json",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "Fim de 2027",
+        "valor": 12.0
+      }
+    }
+  ],
+  "series": [
+    "selic-fim-de-ano",
+    "selic-efetiva-acumulada-ano"
+  ],
+  "checagens_externas": [
+    {
+      "veiculo": "Aos Fatos",
+      "veredito_original": "Incorreto ('não é correto afirmar que a taxa de juros caiu 2%')",
+      "url": "https://www.aosfatos.org/noticias/checamos-lula-flavio-bolsonaro-debate-band/",
+      "data": "2026-10-18"
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Banco Central do Brasil – SGS 432 (meta Selic)",
+      "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.432/dados?formato=json&dataInicial=01/01/2018&dataFinal=21/10/2026",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "BCB – Histórico das taxas de juros fixadas pelo Copom",
+      "url": "https://www.bcb.gov.br/api/servico/sitebcb/historicotaxasjuros",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "BCB – Focus, expectativas de mercado anuais (Selic 2026), 16/10/2026",
+      "url": "https://olinda.bcb.gov.br/olinda/servico/Expectativas/versao/v1/odata/ExpectativasMercadoAnuais?%24filter=Indicador%20eq%20'Selic'%20and%20DataReferencia%20eq%20'2026'&%24orderby=Data%20desc&%24top=2&%24format=json",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Aos Fatos – Checamos Lula x Flávio Bolsonaro no debate da Band (18/10/2026)",
+      "url": "https://www.aosfatos.org/noticias/checamos-lula-flavio-bolsonaro-debate-band/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/01_macroeconomia_por_governo.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "Quantas vezes o Copom cortou a Selic em 2026?",
+      "resposta": "Cinco: em março, abril, junho, agosto e setembro, sempre 0,25 ponto, de 15,00% para 13,75%."
+    },
+    {
+      "pergunta": "Quando a próxima reunião?",
+      "resposta": "A 282ª reunião está prevista para novembro de 2026 (data não verificada em fonte oficial pela nota)."
+    },
+    {
+      "pergunta": "Dois por cento e dois pontos percentuais são a mesma coisa?",
+      "resposta": "Não. Dois pontos de 15% levariam a 13%; dois por cento de 15% seriam 0,3 ponto. Em qualquer leitura, a queda real (1,25 ponto) não corresponde à frase."
+    }
+  ],
+  "relacionadas": [
+    "juros-mais-altos-do-mundo",
+    "juros-7-pontos-acima-do-previsto"
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false
+}

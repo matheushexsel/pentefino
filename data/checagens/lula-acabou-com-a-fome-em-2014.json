@@ -1,0 +1,218 @@
+{
+  "id": "chk-1021",
+  "slug": "lula-acabou-com-a-fome-em-2014",
+  "frase": "Eu acabei com a fome no Brasil em 2014",
+  "frase_normalizada": "O Brasil erradicou a fome em 2014",
+  "variantes": [
+    "Tiramos o Brasil do Mapa da Fome em 2014 e acabamos com a fome"
+  ],
+  "autor": {
+    "nome": "Luiz Inácio Lula da Silva",
+    "partido": "PT",
+    "cargo": "presidente da República e candidato à reeleição"
+  },
+  "lado": "governo-lula-pt",
+  "alvo": null,
+  "data": "2026-10-15",
+  "onde": "Entrevista à TV Globo (15/10/2026)",
+  "url_declaracao": "https://www.agencialupa.org/checagem/2026/10/15/ao-vivo-checagem-da-entrevista-de-lula-na-tv-globo/",
+  "temas": [
+    "pobreza-programas-sociais",
+    "direitos-sociais"
+  ],
+  "tags": [
+    "mapa-da-fome",
+    "fao",
+    "fome-zero"
+  ],
+  "veredito": "exagerado",
+  "resumo_uma_frase": "O Brasil saiu do Mapa da Fome da FAO em 2014 e o número de desnutridos caiu de 19 milhões (2002) para 3,4 milhões (2013), mas sair do Mapa (menos de 2,5% da população subalimentada) não é erradicar a fome — e 2014 foi o governo Dilma, não o de Lula.",
+  "explicacao_simples": [
+    "Em 2014 a FAO retirou o Brasil do Mapa da Fome porque menos de 2,5% da população estava subalimentada, resultado de uma década de queda da pobreza iniciada em 2003.",
+    "O número de desnutridos caiu de 19 milhões em 2002 para 3,4 milhões em 2013, o que é uma redução grande, mas não zero.",
+    "A Lupa classificou a frase como exagerada porque sair do Mapa não significa acabar com a fome, e o relatório de 2014 saiu no governo Dilma."
+  ],
+  "explicacao_completa_md": "## O que aconteceu em 2014\n\nO relatório SOFI 2014 da FAO retirou o Brasil do Mapa da Fome, com dados do triênio 2012-2014: a prevalência de subalimentação ficou abaixo de 2,5%. Segundo a Lupa, o número de desnutridos caiu de 19 milhões em 2002 para 3,4 milhões em 2013.\n\n## Por que é exagero\n\n- 'Fora do Mapa' é um limiar estatístico (menos de 2,5%), não ausência de fome; 3,4 milhões de pessoas seguiam desnutridas.\n- O relatório de 2014 corresponde ao governo Dilma; o período Lula 1-2 (2003-2010) foi o de maior queda da pobreza (de 48,7% para 24,4% entre 2003 e 2014 pela linha de US$ 6,85 do Banco Mundial), mas o marco citado não ocorreu no seu mandato.\n- O país voltou ao Mapa com os dados de 2020-2022 e só saiu de novo em 2025, o que mostra que o resultado de 2014 não era permanente.\n\n## Simetria\n\nA mesma régua vale para a frase de Flávio Bolsonaro de que seu pai 'elevou o Bolsa Família a R$ 600': também classificada como EXAGERADO pela Lupa.",
+  "o_que_e_verdade": [
+    "O Brasil saiu do Mapa da Fome da FAO em 2014 (dados de 2012-2014).",
+    "A pobreza caiu de 48,7% (2003) para 24,4% (2014) pela linha de US$ 6,85 do Banco Mundial; os desnutridos caíram de 19 milhões para 3,4 milhões entre 2002 e 2013.",
+    "O programa Fome Zero foi criado em 30/01/2003 (Lupa: VERDADEIRO)."
+  ],
+  "o_que_nao_se_sustenta": [
+    "Sair do Mapa da Fome não é erradicar a fome: 3,4 milhões de pessoas ainda estavam desnutridas em 2013.",
+    "O marco de 2014 ocorreu no governo Dilma, não no de Lula.",
+    "O Brasil voltou ao Mapa com os dados de 2020-2022, o que mostra que o resultado não foi definitivo."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Governos Lula 1-2 e Dilma 1 (Bolsa Família, valorização do salário mínimo, crescimento)",
+      "papel": "queda contínua da pobreza de 2003 a 2014",
+      "peso": "alto"
+    },
+    {
+      "ator": "Ciclo de commodities (2003-2011)",
+      "papel": "sustentou crescimento e emprego",
+      "peso": "medio"
+    },
+    {
+      "ator": "FAO (critério de 2,5%)",
+      "papel": "define o limiar estatístico do Mapa",
+      "peso": "medio"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Pessoas desnutridas em 2002",
+      "valor": 19,
+      "unidade": "milhões",
+      "periodo": "2002",
+      "fonte": {
+        "nome": "Lupa – Checagem ao vivo da entrevista de Lula na TV Globo (15/10/2026)",
+        "url": "https://www.agencialupa.org/checagem/2026/10/15/ao-vivo-checagem-da-entrevista-de-lula-na-tv-globo/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": {
+        "rotulo": "2013",
+        "valor": 3.4
+      }
+    },
+    {
+      "rotulo": "Pobreza (US$ 6,85/dia, Banco Mundial)",
+      "valor": 48.7,
+      "unidade": "% da população",
+      "periodo": "2003",
+      "fonte": {
+        "nome": "Banco Mundial – PIP (Brasil, linha US$ 6,85, PPC 2017)",
+        "url": "https://api.worldbank.org/pip/v1/pip?country=BRA&year=all&povline=6.85&ppp_version=2017&format=json",
+        "acesso_em": "2026-10-21",
+        "tier": "multilateral"
+      },
+      "comparacao": {
+        "rotulo": "2014",
+        "valor": 24.4
+      }
+    },
+    {
+      "rotulo": "Extrema pobreza (US$ 2,15/dia, Banco Mundial)",
+      "valor": 12.6,
+      "unidade": "% da população",
+      "periodo": "2003",
+      "fonte": {
+        "nome": "Banco Mundial – PIP (Brasil, linha US$ 2,15, PPC 2017)",
+        "url": "https://api.worldbank.org/pip/v1/pip?country=BRA&year=all&povline=2.15&ppp_version=2017&format=json",
+        "acesso_em": "2026-10-21",
+        "tier": "multilateral"
+      },
+      "comparacao": {
+        "rotulo": "2014",
+        "valor": 3.3
+      }
+    },
+    {
+      "rotulo": "Limite da FAO para sair do Mapa da Fome",
+      "valor": 2.5,
+      "unidade": "% da população subalimentada",
+      "periodo": "critério",
+      "fonte": {
+        "nome": "Agência Brasil – Brasil continua fora do Mapa da Fome, aponta relatório da ONU (22/07/2026)",
+        "url": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-07/brasil-continua-fora-do-mapa-da-fome-aponta-relatorio-da-onu",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Subalimentação no triênio 2020-2022 (retorno ao Mapa)",
+      "valor": 3.5,
+      "unidade": "% da população",
+      "periodo": "2020-2022",
+      "fonte": {
+        "nome": "Agência Brasil – Brasil continua fora do Mapa da Fome, aponta relatório da ONU (22/07/2026)",
+        "url": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-07/brasil-continua-fora-do-mapa-da-fome-aponta-relatorio-da-onu",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": null
+    }
+  ],
+  "series": [
+    "pobreza-ibge",
+    "pobreza-banco-mundial",
+    "extrema-pobreza"
+  ],
+  "checagens_externas": [
+    {
+      "veiculo": "Lupa",
+      "veredito_original": "EXAGERADO",
+      "url": "https://www.agencialupa.org/checagem/2026/10/15/ao-vivo-checagem-da-entrevista-de-lula-na-tv-globo/",
+      "data": "2026-10-15"
+    },
+    {
+      "veiculo": "Lupa",
+      "veredito_original": "VERDADEIRO para 'criamos o Fome Zero' (30/01/2003)",
+      "url": "https://www.agencialupa.org/checagem/2026/10/01/ao-vivo-checagem-da-entrevista-de-lula-no-flow/",
+      "data": "2026-10-01"
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Lupa – Checagem ao vivo da entrevista de Lula na TV Globo (15/10/2026)",
+      "url": "https://www.agencialupa.org/checagem/2026/10/15/ao-vivo-checagem-da-entrevista-de-lula-na-tv-globo/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Banco Mundial – PIP (Brasil, linha US$ 6,85, PPC 2017)",
+      "url": "https://api.worldbank.org/pip/v1/pip?country=BRA&year=all&povline=6.85&ppp_version=2017&format=json",
+      "acesso_em": "2026-10-21",
+      "tier": "multilateral"
+    },
+    {
+      "nome": "Banco Mundial – PIP (Brasil, linha US$ 2,15, PPC 2017)",
+      "url": "https://api.worldbank.org/pip/v1/pip?country=BRA&year=all&povline=2.15&ppp_version=2017&format=json",
+      "acesso_em": "2026-10-21",
+      "tier": "multilateral"
+    },
+    {
+      "nome": "Agência Brasil – Brasil continua fora do Mapa da Fome, aponta relatório da ONU (22/07/2026)",
+      "url": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-07/brasil-continua-fora-do-mapa-da-fome-aponta-relatorio-da-onu",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "ONU Brasil – Artigo de Jorge Meza (FAO): Brasil voltou a sair do Mapa da Fome (2025)",
+      "url": "https://brasil.un.org/pt-br/299851-artigo-brasil-voltou-sair-do-mapa-da-fome",
+      "acesso_em": "2026-10-21",
+      "tier": "multilateral"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/03_emprego_renda_pobreza_social.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "Quem era presidente quando o Brasil saiu do Mapa da Fome em 2014?",
+      "resposta": "Dilma Rousseff. O relatório da FAO usa dados de 2012-2014; a queda da pobreza vinha desde 2003."
+    },
+    {
+      "pergunta": "Sair do Mapa da Fome significa fome zero?",
+      "resposta": "Não. Significa que menos de 2,5% da população está em subalimentação crônica; milhões de pessoas podem continuar em insegurança alimentar."
+    },
+    {
+      "pergunta": "Por que o Brasil voltou ao Mapa?",
+      "resposta": "Com os dados de 2020-2022 (pandemia, inflação de alimentos de 44% e fim do Auxílio Emergencial), a subalimentação subiu a 3,5%."
+    }
+  ],
+  "relacionadas": [
+    "brasil-saiu-do-mapa-da-fome",
+    "33-milhoes-passavam-fome-em-2022",
+    "bolsonaro-deu-600-reais-do-auxilio"
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false
+}

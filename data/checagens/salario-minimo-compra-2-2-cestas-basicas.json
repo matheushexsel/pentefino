@@ -1,0 +1,203 @@
+{
+  "id": "chk-1026",
+  "slug": "salario-minimo-compra-2-2-cestas-basicas",
+  "frase": "Com Bolsonaro o salário mínimo comprava 1,8 cesta básica; hoje compra 2,2",
+  "frase_normalizada": "O poder de compra do salário mínimo em cestas básicas subiu de 1,8 para 2,2 entre 2022 e 2026",
+  "variantes": [
+    "O mínimo compra mais de duas cestas básicas hoje"
+  ],
+  "autor": {
+    "nome": "Luiz Inácio Lula da Silva",
+    "partido": "PT",
+    "cargo": "presidente da República e candidato à reeleição"
+  },
+  "lado": "governo-lula-pt",
+  "alvo": {
+    "nome": "Jair Bolsonaro (governo 2019-2022)",
+    "partido": "PL"
+  },
+  "data": "2026-10-18",
+  "onde": "Debate da Band (18/10/2026)",
+  "url_declaracao": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+  "temas": [
+    "emprego-renda",
+    "eleicao-2026"
+  ],
+  "tags": [
+    "salario-minimo",
+    "cesta-basica",
+    "dieese"
+  ],
+  "veredito": "exagerado",
+  "resumo_uma_frase": "Pelos dados do DIEESE calculados por Folha/4intelligence, o mínimo comprava 1,62 cesta básica em ago/2022 e 1,8 em ago/2026 — a direção está certa, mas os dois números citados por Lula estão inflados; a média de 2025 foi 1,75 cesta e jan/2026 chegou a 1,93.",
+  "explicacao_simples": [
+    "O poder de compra do salário mínimo em cestas básicas de São Paulo melhorou, de 1,62 em agosto de 2022 para 1,8 em agosto de 2026, segundo cálculo com dados do DIEESE.",
+    "Lula citou 1,8 para o fim do governo Bolsonaro e 2,2 para hoje, números maiores do que os medidos, e por isso a Lupa classificou a frase como exagerada.",
+    "O pico histórico foi de 2,13 cestas em 2012, e em 2026 o mínimo ainda não voltou a esse nível."
+  ],
+  "explicacao_completa_md": "## Os números\n\nA Lupa, com cálculo da Folha/4intelligence sobre dados do DIEESE, apurou 1,62 cesta em ago/2022 e 1,8 em ago/2026. Pela série anual do DIEESE (média de cestas de São Paulo por mínimo): 2003 1,38 | 2010 2,06 | 2012 2,13 (máximo) | 2019 2,04 | 2020 1,88 | 2021 1,68 | 2022 1,59 (mínimo recente) | 2023 1,71 | 2024 1,74 | 2025 1,75 | jan/2026 1,93 (maior desde 2019). A cesta de São Paulo custava R$ 841,23 em nov/2025 e o mínimo de 2026 é R$ 1.621.\n\n## Leitura\n\nA tendência de recuperação é real (de 1,59-1,62 para 1,8-1,93), sustentada pelos ganhos reais de 2023-2026 e pela deflação de alimentos em 2025. Mas 2,2 cestas nunca foi alcançado na série do DIEESE — o máximo foi 2,13 em 2012 — e 1,8 em 2022 superestima o ponto de partida.",
+  "o_que_e_verdade": [
+    "O poder de compra do mínimo em cestas melhorou: de 1,62 (ago/2022) para 1,8 (ago/2026), ou de 1,59 (média 2022) para 1,93 (jan/2026).",
+    "O mínimo teve ganho real em 2023, 2024, 2025 e 2026, após quatro anos de reposição apenas da inflação."
+  ],
+  "o_que_nao_se_sustenta": [
+    "Nenhuma medição do DIEESE mostra 2,2 cestas; o máximo histórico é 2,13 (2012).",
+    "Em ago/2022 o mínimo comprava 1,62 cesta, não 1,8."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Governo Lula 3 e Congresso (Lei 14.663/2023 e Lei 15.077/2024)",
+      "papel": "ganhos reais do mínimo em 2023-2026",
+      "peso": "alto"
+    },
+    {
+      "ator": "Preços dos alimentos (alta de 44,3% em 2020-2022; deflação em 2025)",
+      "papel": "determinam o custo da cesta",
+      "peso": "alto"
+    },
+    {
+      "ator": "Governo Bolsonaro (reajustes só pelo INPC em 2020-2022)",
+      "papel": "poder de compra caiu ao mínimo recente em 2022",
+      "peso": "medio"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Cestas básicas por salário mínimo (Folha/4intelligence com DIEESE)",
+      "valor": 1.8,
+      "unidade": "cestas",
+      "periodo": "ago/2026",
+      "fonte": {
+        "nome": "Lupa – Checagem ao vivo do debate Lula x Flávio Bolsonaro na Band (18/10/2026)",
+        "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": {
+        "rotulo": "ago/2022",
+        "valor": 1.62
+      }
+    },
+    {
+      "rotulo": "Cestas básicas por salário mínimo (média anual, SP)",
+      "valor": 1.59,
+      "unidade": "cestas",
+      "periodo": "2022",
+      "fonte": {
+        "nome": "DIEESE – Nota Técnica 283, salário mínimo 2025 (jan/2025)",
+        "url": "https://www.dieese.org.br/notatecnica/2025/notaTec283salarioMinimo.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      "comparacao": {
+        "rotulo": "2012 (máximo)",
+        "valor": 2.13
+      }
+    },
+    {
+      "rotulo": "Cestas básicas por salário mínimo (SP)",
+      "valor": 1.93,
+      "unidade": "cestas",
+      "periodo": "jan/2026",
+      "fonte": {
+        "nome": "DIEESE – Nota Técnica 289, salário mínimo 2026 (22/12/2025)",
+        "url": "https://www.dieese.org.br/notatecnica/2025/notaTec289salarioMinimo.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      "comparacao": {
+        "rotulo": "Média de 2025",
+        "valor": 1.75
+      }
+    },
+    {
+      "rotulo": "Custo da cesta básica de São Paulo",
+      "valor": 841.23,
+      "unidade": "R$",
+      "periodo": "nov/2025",
+      "fonte": {
+        "nome": "DIEESE – Nota Técnica 289, salário mínimo 2026 (22/12/2025)",
+        "url": "https://www.dieese.org.br/notatecnica/2025/notaTec289salarioMinimo.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Salário mínimo necessário (DIEESE)",
+      "valor": 7067.18,
+      "unidade": "R$",
+      "periodo": "nov/2025",
+      "fonte": {
+        "nome": "DIEESE – Nota Técnica 289, salário mínimo 2026 (22/12/2025)",
+        "url": "https://www.dieese.org.br/notatecnica/2025/notaTec289salarioMinimo.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      "comparacao": {
+        "rotulo": "Mínimo de 2026",
+        "valor": 1621
+      }
+    }
+  ],
+  "series": [
+    "salario-minimo-ganho-real",
+    "salario-minimo-cestas-basicas"
+  ],
+  "checagens_externas": [
+    {
+      "veiculo": "Lupa",
+      "veredito_original": "EXAGERADO",
+      "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+      "data": "2026-10-18"
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Lupa – Checagem ao vivo do debate Lula x Flávio Bolsonaro na Band (18/10/2026)",
+      "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "DIEESE – Nota Técnica 283, salário mínimo 2025 (jan/2025)",
+      "url": "https://www.dieese.org.br/notatecnica/2025/notaTec283salarioMinimo.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    },
+    {
+      "nome": "DIEESE – Nota Técnica 289, salário mínimo 2026 (22/12/2025)",
+      "url": "https://www.dieese.org.br/notatecnica/2025/notaTec289salarioMinimo.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/03_emprego_renda_pobreza_social.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "O que é a cesta básica do DIEESE?",
+      "resposta": "Um conjunto de 13 alimentos essenciais pesquisado mensalmente em capitais; a de São Paulo custava R$ 841,23 em nov/2025."
+    },
+    {
+      "pergunta": "Quando o mínimo comprou mais cestas?",
+      "resposta": "Em 2012, com média de 2,13 cestas; em 2022 chegou ao mínimo recente de 1,59."
+    },
+    {
+      "pergunta": "Qual seria o salário mínimo 'necessário'?",
+      "resposta": "O DIEESE calcula R$ 7.067,18 (nov/2025) para uma família de quatro pessoas, mais de quatro vezes o mínimo de 2026."
+    }
+  ],
+  "relacionadas": [
+    "salario-minimo-sem-aumento-real-no-governo-bolsonaro",
+    "inflacao-dos-alimentos-disparou",
+    "inflacao-de-2025-foi-a-menor-em-4-anos"
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false
+}

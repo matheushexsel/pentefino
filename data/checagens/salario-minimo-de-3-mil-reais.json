@@ -1,0 +1,217 @@
+{
+  "id": "chk-1047",
+  "slug": "salario-minimo-de-3-mil-reais",
+  "frase": "O candidato prometeu salário mínimo de R$ 3 mil",
+  "frase_normalizada": "Lula (ou Flávio Bolsonaro) prometeu elevar o salário mínimo para R$ 3 mil",
+  "variantes": [
+    "Lula vai aumentar o salário mínimo para R$ 3 mil",
+    "Flávio promete mínimo de R$ 3 mil"
+  ],
+  "autor": {
+    "nome": "frase que circula nas redes",
+    "partido": null,
+    "cargo": null
+  },
+  "lado": "ambos",
+  "alvo": {
+    "nome": "Lula e Flávio Bolsonaro (vídeos atribuídos a ambos)",
+    "partido": "PT / PL"
+  },
+  "data": null,
+  "onde": "Vídeos feitos com inteligência artificial que circularam nas redes em 2026",
+  "url_declaracao": null,
+  "temas": [
+    "emprego-renda",
+    "eleicao-2026"
+  ],
+  "tags": [
+    "salario-minimo",
+    "deepfake",
+    "ia",
+    "comprova"
+  ],
+  "veredito": "falso",
+  "resumo_uma_frase": "O Comprova verificou que os vídeos que atribuem a Lula e a Flávio Bolsonaro a promessa de salário mínimo de R$ 3 mil foram feitos com inteligência artificial; nenhum dos dois fez tal proposta, e a regra em vigor limita o ganho real do mínimo (R$ 1.621 em 2026) a 2,5% ao ano.",
+  "explicacao_simples": [
+    "Vídeos manipulados com inteligência artificial atribuíram a Lula e a Flávio Bolsonaro a promessa de um salário mínimo de R$ 3 mil, e o Comprova mostrou que nenhum dos dois fez essa proposta.",
+    "O salário mínimo de 2026 é R$ 1.621 e a lei em vigor limita o ganho real a 2,5% ao ano, regra que o programa de Lula promete manter.",
+    "Cada R$ 1 de aumento no mínimo custa cerca de R$ 380 milhões por ano à Previdência, segundo o DIEESE."
+  ],
+  "explicacao_completa_md": "## O que circulou\n\nVídeos com voz e imagem geradas por IA mostravam Lula e, em outra versão, Flávio Bolsonaro prometendo salário mínimo de R$ 3 mil. O Comprova classificou os dois como falsos: 'não é verdade que Lula tenha proposta para aumentar salário mínimo para R$ 3 mil' e 'Flávio Bolsonaro não prometeu salário mínimo de R$ 3 mil'.\n\n## O que os programas dizem\n\n- Lula: manter a valorização real do mínimo como 'meio estratégico de distribuição de renda', dentro da regra do arcabouço (ganho real entre 0,6% e 2,5% até 2030).\n- Flávio: ao SBT, disse não pretender acabar com a vinculação do mínimo à inflação; a coordenadora econômica Daniella Marques afirmou que não haverá mudança nos critérios de reajuste.\n\n## Ordem de grandeza\n\nO mínimo de 2026 é R$ 1.621 (+6,79% nominal). Cada R$ 1 de aumento custa R$ 380,5 milhões por ano à Previdência (DIEESE) ou R$ 429,3 milhões (governo); o reajuste de R$ 103 em 2026 custa R$ 39,1 bilhões ao ano.",
+  "o_que_e_verdade": [
+    "Ambos os candidatos defendem manter a correção do mínimo pela inflação; Lula promete manter ganhos reais limitados pela regra do arcabouço."
+  ],
+  "o_que_nao_se_sustenta": [
+    "Nenhum dos dois candidatos prometeu salário mínimo de R$ 3 mil; os vídeos são deepfakes.",
+    "Um mínimo de R$ 3 mil em 2027 exigiria quase dobrar o piso, contra a regra legal de ganho real máximo de 2,5% ao ano."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Produtores e divulgadores dos vídeos com IA",
+      "papel": "fabricação e disseminação de promessa falsa",
+      "peso": "alto"
+    },
+    {
+      "ator": "Plataformas de redes sociais",
+      "papel": "alcance do conteúdo manipulado",
+      "peso": "medio"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Salário mínimo",
+      "valor": 1621,
+      "unidade": "R$",
+      "periodo": "2026",
+      "fonte": {
+        "nome": "DIEESE – Nota Técnica 289, salário mínimo 2026 (22/12/2025)",
+        "url": "https://www.dieese.org.br/notatecnica/2025/notaTec289salarioMinimo.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      "comparacao": {
+        "rotulo": "Valor atribuído falsamente aos candidatos",
+        "valor": 3000
+      }
+    },
+    {
+      "rotulo": "Reajuste nominal do mínimo em 2026",
+      "valor": 6.79,
+      "unidade": "%",
+      "periodo": "jan/2026",
+      "fonte": {
+        "nome": "DIEESE – Nota Técnica 289, salário mínimo 2026 (22/12/2025)",
+        "url": "https://www.dieese.org.br/notatecnica/2025/notaTec289salarioMinimo.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      "comparacao": {
+        "rotulo": "Ganho real (teto legal)",
+        "valor": 2.5
+      }
+    },
+    {
+      "rotulo": "Custo anual de cada R$ 1 de aumento para a Previdência (DIEESE)",
+      "valor": 380.5,
+      "unidade": "R$ milhões",
+      "periodo": "2026",
+      "fonte": {
+        "nome": "DIEESE – Nota Técnica 289, salário mínimo 2026 (22/12/2025)",
+        "url": "https://www.dieese.org.br/notatecnica/2025/notaTec289salarioMinimo.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      "comparacao": {
+        "rotulo": "Estimativa do governo",
+        "valor": 429.3
+      }
+    },
+    {
+      "rotulo": "Custo do reajuste de R$ 103 em 2026 para a Previdência",
+      "valor": 39.1,
+      "unidade": "R$ bilhões por ano",
+      "periodo": "2026",
+      "fonte": {
+        "nome": "DIEESE – Nota Técnica 289, salário mínimo 2026 (22/12/2025)",
+        "url": "https://www.dieese.org.br/notatecnica/2025/notaTec289salarioMinimo.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Pessoas com renda referenciada no mínimo",
+      "valor": 61.941,
+      "unidade": "milhões",
+      "periodo": "dez/2025",
+      "fonte": {
+        "nome": "DIEESE – Nota Técnica 289, salário mínimo 2026 (22/12/2025)",
+        "url": "https://www.dieese.org.br/notatecnica/2025/notaTec289salarioMinimo.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      "comparacao": null
+    }
+  ],
+  "series": [
+    "salario-minimo-nominal",
+    "salario-minimo-ganho-real"
+  ],
+  "checagens_externas": [
+    {
+      "veiculo": "Comprova",
+      "veredito_original": "FALSO (vídeo atribuído a Lula, feito com IA)",
+      "url": "https://projetocomprova.com.br/publica%C3%A7%C3%B5es/nao-e-verdade-que-lula-tenha-proposta-para-aumentar-salario-minimo-para-r-3-mil-videos-sao-feitos-com-ia/",
+      "data": "2026-01-01"
+    },
+    {
+      "veiculo": "Comprova",
+      "veredito_original": "FALSO (vídeo atribuído a Flávio Bolsonaro, feito com IA)",
+      "url": "https://projetocomprova.com.br/publica%C3%A7%C3%B5es/flavio-bolsonaro-nao-prometeu-salario-minimo-de-r-3-mil-informacao-circula-em-videos-com-ia/",
+      "data": "2026-01-01"
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "DIEESE – Nota Técnica 289, salário mínimo 2026 (22/12/2025)",
+      "url": "https://www.dieese.org.br/notatecnica/2025/notaTec289salarioMinimo.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    },
+    {
+      "nome": "Comprova – Não é verdade que Lula tenha proposta para aumentar salário mínimo para R$ 3 mil (2026)",
+      "url": "https://projetocomprova.com.br/publica%C3%A7%C3%B5es/nao-e-verdade-que-lula-tenha-proposta-para-aumentar-salario-minimo-para-r-3-mil-videos-sao-feitos-com-ia/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Comprova – Flávio Bolsonaro não prometeu salário mínimo de R$ 3 mil (2026)",
+      "url": "https://projetocomprova.com.br/publica%C3%A7%C3%B5es/flavio-bolsonaro-nao-prometeu-salario-minimo-de-r-3-mil-informacao-circula-em-videos-com-ia/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Portal de Prefeitura – Reajuste do salário mínimo terá impacto de bilhões na Previdência (dez/2025)",
+      "url": "https://portaldeprefeitura.com.br/brasil/reajuste-do-salario-minimo-tera-impacto-de-bilhoes-na-previdencia/611327/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Programa de governo Lula 2026 (PDF registrado no TSE, via Congresso em Foco)",
+      "url": "https://static.congressoemfoco.com.br/2026/08/08/attachment/2026/08/08/32ce89_programa_governo_lula_2026.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "partidario"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/03_emprego_renda_pobreza_social.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "Como saber se um vídeo de candidato é falso?",
+      "resposta": "Procure a declaração em fontes oficiais (TSE, programas de governo, agências de checagem). O Comprova verificou os dois vídeos e confirmou o uso de IA."
+    },
+    {
+      "pergunta": "Qual é a regra atual do mínimo?",
+      "resposta": "INPC mais o crescimento do PIB de dois anos antes, com ganho real limitado entre 0,6% e 2,5% (Lei 14.663/2023 e Lei 15.077/2024)."
+    },
+    {
+      "pergunta": "O que cada candidato propõe para o mínimo?",
+      "resposta": "Lula promete manter a valorização real dentro do arcabouço; Flávio diz que não mudará a vinculação à inflação nem os critérios de reajuste, segundo sua equipe."
+    }
+  ],
+  "relacionadas": [
+    "salario-minimo-sem-aumento-real-no-governo-bolsonaro",
+    "salario-minimo-compra-2-2-cestas-basicas",
+    "governo-vai-taxar-o-pix"
+  ],
+  "lacunas": [
+    "O Comprova não informa, nas fontes da nota, a data exata de publicação das duas checagens de 2026 (registradas como 2026-01-01 por convenção)."
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false
+}

@@ -1,0 +1,299 @@
+{
+  "id": "chk-1043",
+  "slug": "endividamento-das-familias-e-heranca-de-selic-alta",
+  "frase": "Herdamos uma taxa Selic elevada e uma política econômica equivocada que levaram ao endividamento elevado das famílias",
+  "frase_normalizada": "O endividamento recorde das famílias é herança da Selic alta do governo Bolsonaro",
+  "variantes": [
+    "O endividamento das famílias é culpa da herança de Bolsonaro"
+  ],
+  "autor": {
+    "nome": "Programa de governo de Lula 2026 (coligação Brasil Pronto Pra Mais)",
+    "partido": "PT",
+    "cargo": "documento registrado no TSE"
+  },
+  "lado": "governo-lula-pt",
+  "alvo": {
+    "nome": "Jair Bolsonaro (governo 2019-2022)",
+    "partido": "PL"
+  },
+  "data": "2026-08-08",
+  "onde": "Programa de governo registrado no TSE (08/08/2026)",
+  "url_declaracao": "https://static.congressoemfoco.com.br/2026/08/08/attachment/2026/08/08/32ce89_programa_governo_lula_2026.pdf",
+  "temas": [
+    "economia",
+    "emprego-renda",
+    "eleicao-2026"
+  ],
+  "tags": [
+    "selic",
+    "endividamento",
+    "inadimplencia",
+    "heranca"
+  ],
+  "veredito": "falta-contexto",
+  "resumo_uma_frase": "A Selic herdada era de fato alta (13,75% em jan/2023) e o endividamento já batia recordes em 2022, mas os indicadores atingiram novos recordes em 2025-2026 — 83,9 milhões de negativados, 81,6% das famílias endividadas, inadimplência de 5,04% — depois que a Selic, sob o BC presidido por indicado de Lula, subiu de 10,5% para 15% em 2024-2025.",
+  "explicacao_simples": [
+    "O governo Lula 3 começou com Selic de 13,75% e endividamento das famílias já em recorde, o que torna a herança um fato.",
+    "Mas a Selic caiu a 10,5% em 2024 e voltou a subir para 15% em 2025, e foi nesse período que a inadimplência das pessoas físicas saltou de 3,08% para 4,20% em um ano e os negativados passaram de 73,5 para 81,2 milhões.",
+    "O programa também omite que o Banco Central é presidido desde 2025 por Gabriel Galípolo, indicado pelo próprio governo, e que o Copom cita o risco fiscal entre as razões dos juros altos."
+  ],
+  "explicacao_completa_md": "## A herança\n\nSelic de 13,75% (ago/2022 a ago/2023); Peic de 78% de famílias endividadas e 30% inadimplentes em dez/2022; Serasa com 69,43 milhões de negativados; endividamento de 49,14% da renda (BCB).\n\n## O que aconteceu no mandato\n\n- Selic: cortes até 10,50% (mai/2024); altas até 15,00% (jun/2025); 13,75% em set/2026.\n- Inadimplência PF (BCB): 3,07% (dez/2022) → 3,29% (dez/2023) → 3,08% (dez/2024) → 4,20% (dez/2025) → 5,04% (ago/2026). O salto coincide com a alta da Selic de 10,5% para 15%.\n- Negativados (Serasa): 71,1 mi (2023) → 73,5 mi (2024) → 81,2 mi (2025) → 83,9 mi (ago/2026).\n- Endividamento (BCB): 49,90% da renda em fev/2026, acima do pico anterior de 49,88% (jul/2022).\n- Rotativo do cartão: 428% a 440% ao ano; o teto de 100% do rotativo (Lei 14.690/2023) não tem efeito medido nas fontes.\n\n## Quem decide\n\nA Selic é do Copom (BC autônomo); Galípolo, indicado por Lula, preside o BC desde jan/2025. A ata de set/2026 cita inflação acima da meta, incerteza externa e a política fiscal como fatores. A alta de 2024 teve como gatilho o câmbio recorde (R$ 6,19) após a reação ao pacote fiscal de nov/2024 — responsabilidade compartilhada entre Executivo, Congresso e choques externos.",
+  "o_que_e_verdade": [
+    "A Selic herdada era de 13,75% e o endividamento das famílias já estava em recorde em 2022 (78% na Peic; 49,14% da renda no BCB).",
+    "Juros do rotativo acima de 400% ao ano e spread bancário de 34,6 pontos são fatores estruturais do endividamento."
+  ],
+  "o_que_nao_se_sustenta": [
+    "Os recordes atuais (83,9 milhões de negativados; 81,6% endividadas; inadimplência de 5,04%) foram atingidos em 2025-2026, após a Selic subir de 10,5% para 15% já no mandato atual.",
+    "O BC é presidido por indicado do governo desde 2025 e o Copom cita o risco fiscal entre as razões dos juros altos.",
+    "A inflação de 2021 (10,06%) e a Selic de 2022 responderam a choques globais da pandemia e da guerra, não só a 'política equivocada'."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Copom / Banco Central (Campos Neto até 2024; Galípolo desde 2025)",
+      "papel": "Selic de 13,75% em 2022 e de 15% em 2025",
+      "peso": "alto"
+    },
+    {
+      "ator": "Executivo e Congresso (política fiscal 2023-2026)",
+      "papel": "prêmio de risco e câmbio pressionaram a Selic em 2024-2025",
+      "peso": "alto"
+    },
+    {
+      "ator": "Bancos e cartões",
+      "papel": "rotativo acima de 400% ao ano",
+      "peso": "alto"
+    },
+    {
+      "ator": "Governo Bolsonaro",
+      "papel": "Selic herdada de 13,75% e inflação de 10% em 2021",
+      "peso": "medio"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Meta Selic herdada em jan/2023",
+      "valor": 13.75,
+      "unidade": "% ao ano",
+      "periodo": "ago/2022 a ago/2023",
+      "fonte": {
+        "nome": "Banco Central do Brasil – SGS 432 (meta Selic)",
+        "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.432/dados?formato=json&dataInicial=01/01/2018&dataFinal=21/10/2026",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "Pico em jun/2025",
+        "valor": 15.0
+      }
+    },
+    {
+      "rotulo": "Meta Selic mínima do mandato",
+      "valor": 10.5,
+      "unidade": "% ao ano",
+      "periodo": "mai/2024 a set/2024",
+      "fonte": {
+        "nome": "Banco Central do Brasil – SGS 432 (meta Selic)",
+        "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.432/dados?formato=json&dataInicial=01/01/2018&dataFinal=21/10/2026",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Inadimplência da pessoa física (BCB)",
+      "valor": 3.08,
+      "unidade": "%",
+      "periodo": "dez/2024",
+      "fonte": {
+        "nome": "Banco Central do Brasil – SGS 21082 (inadimplência pessoa física)",
+        "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.21082/dados?formato=json&dataInicial=01/01/2022",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "dez/2025",
+        "valor": 4.2
+      }
+    },
+    {
+      "rotulo": "Inadimplência da pessoa física (BCB)",
+      "valor": 5.04,
+      "unidade": "%",
+      "periodo": "ago/2026",
+      "fonte": {
+        "nome": "Banco Central do Brasil – SGS 21082 (inadimplência pessoa física)",
+        "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.21082/dados?formato=json&dataInicial=01/01/2022",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "dez/2022",
+        "valor": 3.07
+      }
+    },
+    {
+      "rotulo": "Pessoas negativadas (Serasa)",
+      "valor": 83.9,
+      "unidade": "milhões",
+      "periodo": "jul-ago/2026",
+      "fonte": {
+        "nome": "Serasa – Mapa da Inadimplência",
+        "url": "https://www.serasa.com.br/limpa-nome-online/blog/mapa-da-inadimplencia-e-renogociacao-de-dividas-no-brasil/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "dez/2022",
+        "valor": 69.43
+      }
+    },
+    {
+      "rotulo": "Endividamento das famílias (BCB)",
+      "valor": 49.9,
+      "unidade": "% da renda",
+      "periodo": "fev/2026",
+      "fonte": {
+        "nome": "Poder360 – Endividamento das famílias atinge máxima histórica, diz BC (27/04/2026)",
+        "url": "https://www.poder360.com.br/poder-economia/endividamento-das-familias-atinge-maxima-historica-diz-bc/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "dez/2022",
+        "valor": 49.14
+      }
+    },
+    {
+      "rotulo": "Famílias endividadas (Peic/CNC)",
+      "valor": 81.6,
+      "unidade": "%",
+      "periodo": "mai/2026",
+      "fonte": {
+        "nome": "Diário do Vale – CNC/Serasa: endividamento bate recorde no Brasil (mai/2026)",
+        "url": "https://diariodovale.com.br/destaque/cnc-serasa-endividamento-bate-recorde-no-brasil/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "dez/2022",
+        "valor": 78
+      }
+    },
+    {
+      "rotulo": "Juros do rotativo do cartão",
+      "valor": 428,
+      "unidade": "% ao ano",
+      "periodo": "2026 (mínimo citado)",
+      "fonte": {
+        "nome": "Senado Notícias – Dívidas em recorde assombram as famílias brasileiras (mai/2026)",
+        "url": "https://www12.senado.leg.br/noticias/infomaterias/2026/05/dividas-em-recorde-assombram-as-familias-brasileiras",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "Máximo citado",
+        "valor": 440.5
+      }
+    }
+  ],
+  "series": [
+    "selic-fim-de-ano",
+    "endividamento-familias",
+    "inadimplencia-pf",
+    "familias-endividadas-peic",
+    "serasa-negativados"
+  ],
+  "checagens_externas": [
+    {
+      "veiculo": "Lupa",
+      "veredito_original": "FALTA CONTEXTO para '78% da população endividada' (Lula)",
+      "url": "https://www.agencialupa.org/checagem/2026/10/15/ao-vivo-checagem-da-entrevista-de-lula-na-tv-globo/",
+      "data": "2026-10-15"
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Banco Central do Brasil – SGS 432 (meta Selic)",
+      "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.432/dados?formato=json&dataInicial=01/01/2018&dataFinal=21/10/2026",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Banco Central do Brasil – SGS 21082 (inadimplência pessoa física)",
+      "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.21082/dados?formato=json&dataInicial=01/01/2022",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Serasa – Mapa da Inadimplência",
+      "url": "https://www.serasa.com.br/limpa-nome-online/blog/mapa-da-inadimplencia-e-renogociacao-de-dividas-no-brasil/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Poder360 – Endividamento das famílias atinge máxima histórica, diz BC (27/04/2026)",
+      "url": "https://www.poder360.com.br/poder-economia/endividamento-das-familias-atinge-maxima-historica-diz-bc/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Diário do Vale – CNC/Serasa: endividamento bate recorde no Brasil (mai/2026)",
+      "url": "https://diariodovale.com.br/destaque/cnc-serasa-endividamento-bate-recorde-no-brasil/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Senado Notícias – Dívidas em recorde assombram as famílias brasileiras (mai/2026)",
+      "url": "https://www12.senado.leg.br/noticias/infomaterias/2026/05/dividas-em-recorde-assombram-as-familias-brasileiras",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Programa de governo Lula 2026 (PDF registrado no TSE, via Congresso em Foco)",
+      "url": "https://static.congressoemfoco.com.br/2026/08/08/attachment/2026/08/08/32ce89_programa_governo_lula_2026.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "partidario"
+    },
+    {
+      "nome": "BCB – Ata da 281ª reunião do Copom (16/09/2026)",
+      "url": "https://www.bcb.gov.br/publicacoes/atascopom/16092026",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Jornal Grande Bahia – Inadimplência atinge 81,7 milhões e cresce 38% em uma década, aponta Serasa (26/03/2026)",
+      "url": "https://jornalgrandebahia.com.br/2026/03/inadimplencia-no-brasil-atinge-817-milhoes-e-cresce-38-em-uma-decada-aponta-serasa/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/13_renda_por_faixa_e_simulacoes_de_impacto.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "A Selic de 2022 era herança?",
+      "resposta": "Sim: 13,75% desde ago/2022, fixada pelo Copom sob Campos Neto em resposta à inflação de 10,06% em 2021; foi mantida até ago/2023."
+    },
+    {
+      "pergunta": "Por que a inadimplência subiu em 2025?",
+      "resposta": "A Selic foi de 10,5% para 15% entre set/2024 e jun/2025; a inadimplência da pessoa física passou de 3,08% para 4,20% em 2025 e 5,04% em ago/2026."
+    },
+    {
+      "pergunta": "Quem são os mais endividados?",
+      "resposta": "Pela Serasa, 78% dos negativados ganham até 2 salários mínimos; o setor financeiro (bancos e cartões) responde por cerca de 45% das dívidas."
+    }
+  ],
+  "relacionadas": [
+    "78-por-cento-da-populacao-endividada",
+    "juros-mais-altos-do-mundo",
+    "juros-7-pontos-acima-do-previsto",
+    "esta-todo-mundo-quebrando"
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false
+}

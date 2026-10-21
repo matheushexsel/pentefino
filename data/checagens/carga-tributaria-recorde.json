@@ -1,0 +1,247 @@
+{
+  "id": "chk-1018",
+  "slug": "carga-tributaria-recorde",
+  "frase": "A carga tributária bateu recorde no governo Lula",
+  "frase_normalizada": "A carga tributária brasileira atingiu o maior nível da história em 2025",
+  "variantes": [
+    "Nunca se pagou tanto imposto no Brasil",
+    "Carga tributária de 32,4% do PIB é recorde"
+  ],
+  "autor": {
+    "nome": "frase que circula nas redes",
+    "partido": null,
+    "cargo": null
+  },
+  "lado": "ambos",
+  "alvo": {
+    "nome": "Governo Lula 3 (2023-2026)",
+    "partido": "PT"
+  },
+  "data": null,
+  "onde": "Redes sociais e debate público após a divulgação do Tesouro (abr/2026)",
+  "url_declaracao": null,
+  "temas": [
+    "impostos",
+    "contas-publicas"
+  ],
+  "tags": [
+    "carga-tributaria",
+    "tesouro",
+    "iof",
+    "irrf"
+  ],
+  "veredito": "verdadeiro-mas",
+  "resumo_uma_frase": "A carga tributária bruta do governo geral foi de 32,40% do PIB em 2025, o maior valor da série do Tesouro iniciada em 2010 (puxado por IRRF, IOF e contribuições federais); a ressalva é que a série foi revista em 2025-2026 (saíram FGTS e Sistema S) e a metodologia antiga da Receita já apurava 32-33% em 2010-2017.",
+  "explicacao_simples": [
+    "Segundo o Tesouro Nacional, a carga tributária foi de 32,40% do PIB em 2025, acima dos 32,22% de 2024 e o maior valor da série iniciada em 2010.",
+    "A alta veio do governo federal, com imposto de renda retido na fonte em 5% do PIB, IOF e contribuições previdenciárias, enquanto o ICMS dos estados recuou.",
+    "A comparação com anos anteriores exige cuidado porque a série foi revista em 2025 e a metodologia antiga da Receita já mostrava 32% a 33% entre 2010 e 2017."
+  ],
+  "explicacao_completa_md": "## A série do Tesouro (% do PIB)\n\n2010 30,32 | 2011 31,00 | 2014 29,53 | 2016 29,79 | 2018 30,40 | 2019 30,39 | 2020 29,15 | 2021 30,88 | 2022 31,24 | 2023 30,26 | 2024 32,22 | 2025 32,40. Em 2025: governo central 21,60%, estados 8,38%, municípios 2,42%.\n\n## Por que subiu\n\nO Tesouro atribui o recorde de 2025 ao IRRF (que atingiu 5% do PIB, maior da série, com o crescimento da massa salarial), ao IOF (que cresceu R$ 15,4 bilhões, +21,3%) e às contribuições previdenciárias; a alta de 2024 veio em parte da reoneração dos combustíveis. A estratégia de Lula 3 foi reequilibrar as contas pelo lado da receita (IOF, fim de benefícios, tributação de fundos exclusivos e offshores), o que a IFI considera insuficiente para estabilizar a dívida.\n\n## Ressalvas\n\n- A revisão metodológica retirou FGTS e Sistema S da série; o número de 34,2% para 2024 divulgado em mar/2025 é anterior à revisão e não deve ser comparado com os 32,4% de 2025.\n- Na metodologia da Receita Federal, 2010-2017 já apareciam com 32-33%; portanto 'recorde' vale para a série revisada do Tesouro.\n- A carga caiu durante Dilma 2, Temer e na pandemia (29,15% em 2020) e subiu sob Lula 3 (de 30,26% em 2023 para 32,40% em 2025).\n- O governo Bolsonaro cortou tributos sobretudo em 2022 (IPI, PIS/Cofins de combustíveis, teto de ICMS), o que reduziu a base de comparação de 2022-2023.",
+  "o_que_e_verdade": [
+    "32,40% do PIB em 2025 é o maior valor da série do Tesouro iniciada em 2010; 2024 (32,22%) já era recorde.",
+    "A alta é federal: a carga do governo central subiu de 21,34% para 21,60% do PIB, com IRRF em 5% do PIB e IOF em alta.",
+    "A carga subiu 2,1 pontos do PIB entre 2023 (30,26%) e 2025, sob o governo Lula 3."
+  ],
+  "o_que_nao_se_sustenta": [
+    "Não é possível afirmar 'maior da história' além de 2010: a série revisada do Tesouro começa em 2010, e a metodologia antiga da Receita já apurava 32-33% em 2010-2017.",
+    "Comparar os 34,2% divulgados para 2024 em mar/2025 com os 32,4% de 2025 mistura metodologias diferentes.",
+    "Parte da alta reflete crescimento da massa salarial e do emprego (mais IRRF), não só novas alíquotas."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Executivo (Fazenda)",
+      "papel": "decretos de IOF, reoneração de combustíveis, tributação de fundos exclusivos e offshores",
+      "peso": "alto"
+    },
+    {
+      "ator": "Congresso Nacional",
+      "papel": "aprovou leis tributárias (Lei 14.754/2023, 15.079/2024, 15.270/2025) e derrubou parte do IOF em 2025",
+      "peso": "alto"
+    },
+    {
+      "ator": "STF",
+      "papel": "restabeleceu o decreto do IOF em 16/07/2025, exceto o risco sacado",
+      "peso": "medio"
+    },
+    {
+      "ator": "Governo Bolsonaro (2022)",
+      "papel": "cortes de IPI e PIS/Cofins reduziram a base de 2022-2023",
+      "peso": "baixo"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Carga tributária bruta do governo geral",
+      "valor": 32.4,
+      "unidade": "% do PIB",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Tesouro Nacional – Carga Tributária do Governo Geral 2025 (10/04/2026)",
+        "url": "https://www.tesourotransparente.gov.br/publicacoes/carga-tributaria-do-governo-geral/2025/114",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "2024",
+        "valor": 32.22
+      }
+    },
+    {
+      "rotulo": "Carga tributária em 2023",
+      "valor": 30.26,
+      "unidade": "% do PIB",
+      "periodo": "2023",
+      "fonte": {
+        "nome": "Tesouro Nacional – Carga Tributária do Governo Geral 2025 (10/04/2026)",
+        "url": "https://www.tesourotransparente.gov.br/publicacoes/carga-tributaria-do-governo-geral/2025/114",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "2020 (mínimo da série)",
+        "valor": 29.15
+      }
+    },
+    {
+      "rotulo": "Carga tributária em 2010 (início da série)",
+      "valor": 30.32,
+      "unidade": "% do PIB",
+      "periodo": "2010",
+      "fonte": {
+        "nome": "Tesouro Nacional – Carga Tributária do Governo Geral 2025 (10/04/2026)",
+        "url": "https://www.tesourotransparente.gov.br/publicacoes/carga-tributaria-do-governo-geral/2025/114",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "2022",
+        "valor": 31.24
+      }
+    },
+    {
+      "rotulo": "Carga do governo central",
+      "valor": 21.6,
+      "unidade": "% do PIB",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Tesouro Nacional – Carga Tributária do Governo Geral 2025 (10/04/2026)",
+        "url": "https://www.tesourotransparente.gov.br/publicacoes/carga-tributaria-do-governo-geral/2025/114",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "2024",
+        "valor": 21.34
+      }
+    },
+    {
+      "rotulo": "IRRF",
+      "valor": 5.0,
+      "unidade": "% do PIB",
+      "periodo": "2025 (maior da série)",
+      "fonte": {
+        "nome": "Contábeis – Carga tributária do Brasil atinge recorde de 32,4% do PIB em 2025 (23/04/2026)",
+        "url": "https://www.contabeis.com.br/noticias/76330/carga-tributaria-do-brasil-atinge-recorde-de-32-4-do-pib-em-2025/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Crescimento da arrecadação de IOF",
+      "valor": 15.4,
+      "unidade": "R$ bilhões",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Agência Brasil – Déficit primário do governo central totaliza R$ 61,7 bilhões em 2025 (29/01/2026)",
+        "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/deficit-primario-do-governo-central-totaliza-r-617-bilhoes-em-2025",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "Variação",
+        "valor": 21.3
+      }
+    },
+    {
+      "rotulo": "Carga de 2024 divulgada antes da revisão metodológica (não comparável)",
+      "valor": 34.2,
+      "unidade": "% do PIB",
+      "periodo": "mar/2025",
+      "fonte": {
+        "nome": "Impostômetro – Carga tributária no Brasil (nota sobre revisão metodológica)",
+        "url": "https://impostometro.org/artigos/carga-tributaria-brasil/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": null
+    }
+  ],
+  "series": [
+    "carga-tributaria"
+  ],
+  "checagens_externas": [],
+  "fontes": [
+    {
+      "nome": "Tesouro Nacional – Carga Tributária do Governo Geral 2025 (10/04/2026)",
+      "url": "https://www.tesourotransparente.gov.br/publicacoes/carga-tributaria-do-governo-geral/2025/114",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Contábeis – Carga tributária do Brasil atinge recorde de 32,4% do PIB em 2025 (23/04/2026)",
+      "url": "https://www.contabeis.com.br/noticias/76330/carga-tributaria-do-brasil-atinge-recorde-de-32-4-do-pib-em-2025/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Agência Brasil – Déficit primário do governo central totaliza R$ 61,7 bilhões em 2025 (29/01/2026)",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/deficit-primario-do-governo-central-totaliza-r-617-bilhoes-em-2025",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Impostômetro – Carga tributária no Brasil (nota sobre revisão metodológica)",
+      "url": "https://impostometro.org/artigos/carga-tributaria-brasil/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/02_contas_publicas_divida.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "Quem decide a carga tributária?",
+      "resposta": "Congresso e Executivo criam e alteram tributos federais; estados (ICMS) e municípios (ISS) têm seus próprios. Em 2025 a carga federal subiu e a estadual caiu."
+    },
+    {
+      "pergunta": "Quem paga mais, em proporção da renda?",
+      "resposta": "Os tributos sobre consumo pesam mais nos pobres: os 10% mais pobres gastam cerca de 27% da renda com PIS, Cofins, IPI, ICMS e ISS, contra 10% dos 10% mais ricos (Fazenda, 2024)."
+    },
+    {
+      "pergunta": "A reforma tributária vai aumentar a carga?",
+      "resposta": "A EC 132/2023 e a LC 214/2025 substituem cinco tributos por IBS, CBS e Imposto Seletivo, com transição de 2026 a 2033; as alíquotas de referência ainda não estavam fixadas em out/2026."
+    },
+    {
+      "pergunta": "Qual foi a carga no governo Bolsonaro?",
+      "resposta": "Entre 29,15% (2020, pandemia) e 31,24% (2022); em 2022 houve cortes de IPI, PIS/Cofins de combustíveis e teto de ICMS em ano eleitoral."
+    }
+  ],
+  "relacionadas": [
+    "impostos-do-lula-so-atingem-super-ricos",
+    "isencao-do-ir-ate-5-mil-beneficia-x-milhoes",
+    "taxa-das-blusinhas",
+    "divida-publica-de-11-trilhoes"
+  ],
+  "lacunas": [
+    "Valor de 2022 na série revisada citado em algumas fontes (33,07%) não foi confirmado; a nota usa a planilha do Tesouro (31,24%)."
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false
+}

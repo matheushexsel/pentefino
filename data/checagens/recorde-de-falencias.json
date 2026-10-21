@@ -1,0 +1,258 @@
+{
+  "id": "chk-1009",
+  "slug": "recorde-de-falencias",
+  "frase": "O Brasil tem recorde de empresas fechadas",
+  "frase_normalizada": "O governo Lula 3 produziu um recorde de falências e fechamento de empresas",
+  "variantes": [
+    "Recorde de falências",
+    "Nunca tantas empresas fecharam"
+  ],
+  "autor": {
+    "nome": "Flávio Bolsonaro",
+    "partido": "PL",
+    "cargo": "senador (RJ) e candidato à Presidência"
+  },
+  "lado": "oposicao-flavio-pl",
+  "alvo": {
+    "nome": "Governo Lula 3 (2023-2026)",
+    "partido": "PT"
+  },
+  "data": "2026-10-18",
+  "onde": "Debate da Band (18/10/2026) e entrevista à TV Globo (16/10/2026)",
+  "url_declaracao": "https://www.aosfatos.org/noticias/flavio-bolsonaro-mente-recorde-falencias-empresas/",
+  "temas": [
+    "economia",
+    "eleicao-2026"
+  ],
+  "tags": [
+    "falencias",
+    "serasa",
+    "recuperacao-judicial",
+    "empresas"
+  ],
+  "veredito": "falso",
+  "resumo_uma_frase": "As falências decretadas (Serasa Experian) caíram entre 2024 e 2025 e em nenhum ano cheio de Lula 3 superaram o nível de 2012-2019; o que bateu recorde em 2025 foram os pedidos de recuperação judicial, e em jan-mai/2026 as falências subiram 36% (484 casos) — sinal de estresse sob juro real de 9,5%, mas não um recorde de fechamentos.",
+  "explicacao_simples": [
+    "Os dados da Serasa mostram que as falências caíram de 2024 para 2025 e que nenhum ano do governo Lula 3 superou o nível de 2012 a 2019.",
+    "O que bateu recorde em 2025 foram os pedidos de recuperação judicial, atribuídos pela Serasa ao crédito caro, e nos cinco primeiros meses de 2026 as falências subiram 36%.",
+    "O saldo de empresas abertas menos fechadas foi positivo em cerca de 2,2 milhões em 2025, segundo o Mapa das Empresas."
+  ],
+  "explicacao_completa_md": "## O que o Aos Fatos verificou (20/10/2026)\n\n- Falências decretadas (Serasa Experian) caíram entre 2024 e 2025 e, em nenhum dos três anos cheios de Lula 3, superaram o nível de 2012-2019.\n- Jan-mai/2026: 484 falências decretadas, +36% sobre o mesmo período de 2025.\n- Recuperações judiciais: recorde em 2025, atribuído pela Serasa ao crédito caro.\n- Mapa das Empresas: 3,87 milhões de aberturas contra 2,17 milhões de fechamentos em 2023; saldo líquido de cerca de +2,2 milhões em 2025.\n- 'Fuga de empresas para o Paraguai': 232 empresas brasileiras no regime de maquila acumuladas em 2007-2026, com pico em 2016-2020 (MDIC) — classificada como ENGANOSO.\n- Cerca de 20 checagens de posts falsos sobre demissões em massa em 2026.\n\n## Contexto\n\nO juro real de cerca de 9,5% ao ano (Selic de 15% em 2025) e o rotativo do cartão acima de 400% explicam o estresse de empresas endividadas; a Selic é decidida pelo BC autônomo. Ao mesmo tempo, o Ibovespa está em recorde nominal (205.079 pontos em 19/10/2026), o desemprego em mínima e o estoque de vínculos formais em 48,2 milhões. No debate da Band de ago/2026, Renan Santos disse que 'está todo mundo quebrando' e o Aos Fatos contextualizou com os mesmos dados da Serasa.",
+  "o_que_e_verdade": [
+    "Os pedidos de recuperação judicial bateram recorde em 2025 (Serasa atribui ao crédito caro).",
+    "As falências decretadas subiram 36% em jan-mai/2026 (484 casos) sobre o mesmo período de 2025.",
+    "O juro real de ~9,5% ao ano é um dos mais altos do mundo e pressiona empresas endividadas."
+  ],
+  "o_que_nao_se_sustenta": [
+    "As falências caíram entre 2024 e 2025 e em nenhum ano cheio de Lula 3 superaram o nível de 2012-2019: não há recorde de empresas fechadas.",
+    "O saldo líquido de empresas foi positivo em cerca de 2,2 milhões em 2025 (3,87 milhões de aberturas contra 2,17 milhões de fechamentos em 2023).",
+    "A 'fuga para o Paraguai' soma 232 empresas desde 2007, com pico em 2016-2020, antes do atual governo."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Copom / Banco Central (Selic de 15% em 2025)",
+      "papel": "custo do crédito é a causa apontada pela Serasa para as recuperações judiciais",
+      "peso": "alto"
+    },
+    {
+      "ator": "Governo federal (política fiscal e prêmio de risco)",
+      "papel": "déficits e dívida pressionam os juros longos",
+      "peso": "medio"
+    },
+    {
+      "ator": "Bancos (spread de 34,6 pontos nos cinco maiores)",
+      "papel": "crédito caro para empresas e famílias",
+      "peso": "medio"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Falências decretadas",
+      "valor": 484,
+      "unidade": "casos",
+      "periodo": "jan-mai/2026",
+      "fonte": {
+        "nome": "Aos Fatos – Flávio Bolsonaro mente sobre recorde de falências (20/10/2026)",
+        "url": "https://www.aosfatos.org/noticias/flavio-bolsonaro-mente-recorde-falencias-empresas/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": {
+        "rotulo": "Variação sobre jan-mai/2025 (%)",
+        "valor": 36
+      }
+    },
+    {
+      "rotulo": "Saldo líquido de empresas (Mapa das Empresas)",
+      "valor": 2.2,
+      "unidade": "milhões",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Aos Fatos – Flávio Bolsonaro mente sobre recorde de falências (20/10/2026)",
+        "url": "https://www.aosfatos.org/noticias/flavio-bolsonaro-mente-recorde-falencias-empresas/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Aberturas de empresas",
+      "valor": 3.87,
+      "unidade": "milhões",
+      "periodo": "2023",
+      "fonte": {
+        "nome": "Aos Fatos – Flávio Bolsonaro mente sobre recorde de falências (20/10/2026)",
+        "url": "https://www.aosfatos.org/noticias/flavio-bolsonaro-mente-recorde-falencias-empresas/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": {
+        "rotulo": "Fechamentos",
+        "valor": 2.17
+      }
+    },
+    {
+      "rotulo": "Empresas brasileiras no regime de maquila do Paraguai (acumulado)",
+      "valor": 232,
+      "unidade": "empresas",
+      "periodo": "2007-2026",
+      "fonte": {
+        "nome": "Aos Fatos – Flávio Bolsonaro mente sobre recorde de falências (20/10/2026)",
+        "url": "https://www.aosfatos.org/noticias/flavio-bolsonaro-mente-recorde-falencias-empresas/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Juro real ex-post (cálculo da nota)",
+      "valor": 9.5,
+      "unidade": "% ao ano",
+      "periodo": "set/2026",
+      "fonte": {
+        "nome": "Banco Central do Brasil – SGS 4390 (Selic acumulada no mês)",
+        "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.4390/dados?formato=json",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "dez/2020",
+        "valor": -1.7
+      }
+    },
+    {
+      "rotulo": "Ibovespa (fechamento)",
+      "valor": 205079,
+      "unidade": "pontos",
+      "periodo": "19/10/2026",
+      "fonte": {
+        "nome": "Ipeadata – Ibovespa fechamento (GM366_IBVSP366)",
+        "url": "http://www.ipeadata.gov.br/api/odata4/ValoresSerie(SERCODIGO='GM366_IBVSP366')",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Estoque de vínculos formais",
+      "valor": 48244696,
+      "unidade": "vínculos",
+      "periodo": "ago/2026",
+      "fonte": {
+        "nome": "MTE – Divulgação Novo Caged agosto/2026 (PDF via Poder360)",
+        "url": "https://static.poder360.com.br/uploads/2026/09/caged-agosto-2026.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": null
+    }
+  ],
+  "series": [
+    "selic-fim-de-ano",
+    "ibovespa-fim-de-ano"
+  ],
+  "checagens_externas": [
+    {
+      "veiculo": "Aos Fatos",
+      "veredito_original": "FALSO ('recorde de empresas fechadas'); ENGANOSO ('fuga de empresas para o Paraguai')",
+      "url": "https://www.aosfatos.org/noticias/flavio-bolsonaro-mente-recorde-falencias-empresas/",
+      "data": "2026-10-20"
+    },
+    {
+      "veiculo": "Aos Fatos",
+      "veredito_original": "Contextualizou 'está todo mundo quebrando' (Renan Santos) sem rótulo",
+      "url": "https://www.aosfatos.org/noticias/checamos-debate-presidencial-band/",
+      "data": "2026-08-23"
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Aos Fatos – Flávio Bolsonaro mente sobre recorde de falências (20/10/2026)",
+      "url": "https://www.aosfatos.org/noticias/flavio-bolsonaro-mente-recorde-falencias-empresas/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Banco Central do Brasil – SGS 4390 (Selic acumulada no mês)",
+      "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.4390/dados?formato=json",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Ipeadata – Ibovespa fechamento (GM366_IBVSP366)",
+      "url": "http://www.ipeadata.gov.br/api/odata4/ValoresSerie(SERCODIGO='GM366_IBVSP366')",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "MTE – Divulgação Novo Caged agosto/2026 (PDF via Poder360)",
+      "url": "https://static.poder360.com.br/uploads/2026/09/caged-agosto-2026.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Aos Fatos – Checamos Lula x Flávio Bolsonaro no debate da Band (18/10/2026)",
+      "url": "https://www.aosfatos.org/noticias/checamos-lula-flavio-bolsonaro-debate-band/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Senado Notícias – Dívidas em recorde assombram as famílias brasileiras (mai/2026)",
+      "url": "https://www12.senado.leg.br/noticias/infomaterias/2026/05/dividas-em-recorde-assombram-as-familias-brasileiras",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/01_macroeconomia_por_governo.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "Qual a diferença entre falência e recuperação judicial?",
+      "resposta": "Na recuperação judicial a empresa renegocia dívidas para continuar operando; na falência ela é liquidada. 2025 teve recorde de recuperações, não de falências."
+    },
+    {
+      "pergunta": "Por que as recuperações judiciais aumentaram?",
+      "resposta": "A Serasa atribui ao crédito caro: Selic de 15% em 2025, juro real de ~9,5% e spread bancário elevado."
+    },
+    {
+      "pergunta": "Empresas estão fugindo para o Paraguai?",
+      "resposta": "O regime de maquila paraguaio acumula 232 empresas brasileiras desde 2007, com pico em 2016-2020; o Aos Fatos classificou a frase como enganosa."
+    }
+  ],
+  "relacionadas": [
+    "fuga-de-empresas-para-o-paraguai",
+    "esta-todo-mundo-quebrando",
+    "juros-mais-altos-do-mundo",
+    "lula-quebrou-o-brasil"
+  ],
+  "lacunas": [
+    "A nota não traz a série anual de falências da Serasa em números absolutos (apenas a leitura do Aos Fatos)."
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false
+}

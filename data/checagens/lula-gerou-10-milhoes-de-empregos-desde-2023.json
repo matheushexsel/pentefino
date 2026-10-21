@@ -1,0 +1,254 @@
+{
+  "id": "chk-1032",
+  "slug": "lula-gerou-10-milhoes-de-empregos-desde-2023",
+  "frase": "10,6 milhões de empregos desde 2023, contra cerca de 6 milhões no governo anterior",
+  "frase_normalizada": "O governo Lula 3 gerou 10,6 milhões de empregos, quase o dobro do governo Bolsonaro",
+  "variantes": [
+    "Lula criou mais de 10 milhões de empregos"
+  ],
+  "autor": {
+    "nome": "Partido dos Trabalhadores (material de campanha)",
+    "partido": "PT",
+    "cargo": "partido"
+  },
+  "lado": "governo-lula-pt",
+  "alvo": {
+    "nome": "Jair Bolsonaro (governo 2019-2022)",
+    "partido": "PL"
+  },
+  "data": null,
+  "onde": "Material de campanha do PT na internet (2026)",
+  "url_declaracao": "https://pt.org.br/da-inflacao-a-seguranca-numeros-mostram-brasil-melhor-com-lula-do-que-com-bolsonaro/",
+  "temas": [
+    "emprego-renda",
+    "eleicao-2026"
+  ],
+  "tags": [
+    "empregos",
+    "novo-caged",
+    "pnad"
+  ],
+  "veredito": "exagerado",
+  "resumo_uma_frase": "Pelo Novo Caged (Ipeadata), o saldo de empregos formais de 2023 a ago/2026 é de cerca de 5,5 milhões, próximo dos ~5,6 milhões de 2019-2022; os 10,6 milhões não aparecem em nenhuma base pública localizada, e as duas séries do Caged nem sequer são comparáveis entre si pela quebra de 2020.",
+  "explicacao_simples": [
+    "O Novo Caged soma cerca de 5,5 milhões de empregos com carteira criados entre 2023 e agosto de 2026, metade do número divulgado pelo PT.",
+    "O governo Bolsonaro somou cerca de 5,6 milhões pelo Caged, mas a série mudou em 2020 e inclui a queda e a recuperação da pandemia, o que impede comparação direta.",
+    "O estoque de carteira assinada é recorde, com 48,2 milhões de vínculos, e a população ocupada chegou a 103,5 milhões."
+  ],
+  "explicacao_completa_md": "## O que as bases mostram\n\n- **Novo Caged (Ipeadata, soma dos saldos mensais)**: 2023 +1.478.340; 2024 +1.676.514; 2025 +1.256.997; jan-ago/2026 +1.124.267 — cerca de 5,5 milhões. Fechamento oficial de 2025 (MTE): +1.279.498, pior ano da série nova fora da pandemia.\n- **Governo Bolsonaro**: 2019 (Caged antigo) +559.626; 2020 +171.266; 2021 +2.852.413; 2022 +2.011.366 — cerca de 5,6 milhões, mas 2020-2021 inclui a perda e a recuperação da pandemia.\n- **PNAD Contínua (ocupados)**: de 97,5 milhões (4T2022) para 103,1 milhões (2T2026) e 103,5 milhões (trimestre até ago/2026).\n\nNenhuma dessas bases produz 10,6 milhões. A nota de pesquisa registra o número como 'ponto a checar' e não localizou checagem publicada.\n\n## Por que a comparação é frágil\n\nO MTE grafa que 'os dados de 2002 a 2019 são do Caged e a partir de 2020 do Novo Caged', série 'não diretamente comparável'. O Comprova (2023) ouviu especialista segundo o qual tabelas que somam as duas séries 'não deveriam' ser usadas para comparar governos.",
+  "o_que_e_verdade": [
+    "O estoque de vínculos formais é recorde (48.244.696 em ago/2026) e a população ocupada chegou a 103,5 milhões.",
+    "O saldo anual do Novo Caged foi positivo em todos os anos de Lula 3 (+1,48 milhão em 2023, +1,68 milhão em 2024, +1,26 milhão em 2025)."
+  ],
+  "o_que_nao_se_sustenta": [
+    "A soma do Novo Caged de 2023 a ago/2026 é de cerca de 5,5 milhões, não 10,6 milhões; a variação de ocupados da PNAD também fica em torno de 6 milhões.",
+    "Comparar com 'cerca de 6 milhões no governo anterior' mistura o Caged antigo (2019) com o Novo Caged (2020-2022) e inclui o choque da pandemia.",
+    "2025 teve o menor saldo da série nova fora da pandemia (+1,28 milhão), sinal de desaceleração sob juros altos."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Ciclo econômico e recuperação pós-pandemia",
+      "papel": "crescimento do emprego desde 2021",
+      "peso": "alto"
+    },
+    {
+      "ator": "Governo federal (demanda, salário mínimo, transferências)",
+      "papel": "sustentação do emprego em 2023-2025",
+      "peso": "medio"
+    },
+    {
+      "ator": "Copom / Banco Central",
+      "papel": "Selic de 15% desacelerou o emprego formal em 2025",
+      "peso": "medio"
+    },
+    {
+      "ator": "PT (material de campanha)",
+      "papel": "divulgou número sem base identificável",
+      "peso": "alto"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Saldo do Novo Caged em 2023",
+      "valor": 1478340,
+      "unidade": "vínculos",
+      "periodo": "2023",
+      "fonte": {
+        "nome": "Ipeadata – série CAGED12_SALDON12 (Novo Caged, MTE)",
+        "url": "http://www.ipeadata.gov.br/api/odata4/ValoresSerie(SERCODIGO='CAGED12_SALDON12')",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Saldo do Novo Caged em 2024",
+      "valor": 1676514,
+      "unidade": "vínculos",
+      "periodo": "2024",
+      "fonte": {
+        "nome": "Ipeadata – série CAGED12_SALDON12 (Novo Caged, MTE)",
+        "url": "http://www.ipeadata.gov.br/api/odata4/ValoresSerie(SERCODIGO='CAGED12_SALDON12')",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Saldo do Novo Caged em 2025",
+      "valor": 1256997,
+      "unidade": "vínculos",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Ipeadata – série CAGED12_SALDON12 (Novo Caged, MTE)",
+        "url": "http://www.ipeadata.gov.br/api/odata4/ValoresSerie(SERCODIGO='CAGED12_SALDON12')",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "Fechamento oficial do MTE",
+        "valor": 1279498
+      }
+    },
+    {
+      "rotulo": "Saldo do Novo Caged em 2026",
+      "valor": 1124267,
+      "unidade": "vínculos",
+      "periodo": "jan-ago/2026",
+      "fonte": {
+        "nome": "Ipeadata – série CAGED12_SALDON12 (Novo Caged, MTE)",
+        "url": "http://www.ipeadata.gov.br/api/odata4/ValoresSerie(SERCODIGO='CAGED12_SALDON12')",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Saldo do Novo Caged em 2021 (recorde da série nova)",
+      "valor": 2852413,
+      "unidade": "vínculos",
+      "periodo": "2021",
+      "fonte": {
+        "nome": "Ipeadata – série CAGED12_SALDON12 (Novo Caged, MTE)",
+        "url": "http://www.ipeadata.gov.br/api/odata4/ValoresSerie(SERCODIGO='CAGED12_SALDON12')",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "2022",
+        "valor": 2011366
+      }
+    },
+    {
+      "rotulo": "Estoque de vínculos formais",
+      "valor": 48244696,
+      "unidade": "vínculos",
+      "periodo": "ago/2026 (recorde)",
+      "fonte": {
+        "nome": "MTE – Divulgação Novo Caged agosto/2026 (PDF via Poder360)",
+        "url": "https://static.poder360.com.br/uploads/2026/09/caged-agosto-2026.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "População ocupada (PNAD Contínua)",
+      "valor": 103057,
+      "unidade": "mil pessoas",
+      "periodo": "2T2026",
+      "fonte": {
+        "nome": "IBGE – SIDRA tabela 4097 (posição na ocupação)",
+        "url": "https://apisidra.ibge.gov.br/values/t/4097/n1/all/v/all/p/all/c11913/all",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "4T2022",
+        "valor": 97517
+      }
+    }
+  ],
+  "series": [
+    "emprego-formal-caged-saldo",
+    "desemprego-pnad-anual",
+    "carteira-assinada-pnad"
+  ],
+  "checagens_externas": [
+    {
+      "veiculo": "Comprova",
+      "veredito_original": "ENGANOSO para comparação de empregos entre governos que soma Caged antigo e Novo Caged (post pró-Bolsonaro, set/2023)",
+      "url": "https://www.correiobraziliense.com.br/holofote/2023/09/amp/5122576-publicacao-engana-ao-comparar-dados-de-empregos-de-lula-e-dilma-com-bolsonaro.html",
+      "data": "2023-09-01"
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Ipeadata – série CAGED12_SALDON12 (Novo Caged, MTE)",
+      "url": "http://www.ipeadata.gov.br/api/odata4/ValoresSerie(SERCODIGO='CAGED12_SALDON12')",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "MTE – Divulgação Novo Caged agosto/2026 (PDF via Poder360)",
+      "url": "https://static.poder360.com.br/uploads/2026/09/caged-agosto-2026.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "IBGE – SIDRA tabela 4097 (posição na ocupação)",
+      "url": "https://apisidra.ibge.gov.br/values/t/4097/n1/all/v/all/p/all/c11913/all",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "PT – Da inflação à segurança, números mostram Brasil melhor com Lula (2026)",
+      "url": "https://pt.org.br/da-inflacao-a-seguranca-numeros-mostram-brasil-melhor-com-lula-do-que-com-bolsonaro/",
+      "acesso_em": "2026-10-21",
+      "tier": "partidario"
+    },
+    {
+      "nome": "IstoÉ Dinheiro – Saldo de emprego de 2025 é compatível com maior juro real do mundo, diz Marinho (29/01/2026)",
+      "url": "https://www.istoedinheiro.com.br/saldo-de-emprego-de-2025-e-compativel-com-maior-juro-real-do-mundo-diz-marinho",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Comprova (via Correio Braziliense) – Publicação engana ao comparar empregos de Lula e Dilma com Bolsonaro (set/2023)",
+      "url": "https://www.correiobraziliense.com.br/holofote/2023/09/amp/5122576-publicacao-engana-ao-comparar-dados-de-empregos-de-lula-e-dilma-com-bolsonaro.html",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/03_emprego_renda_pobreza_social.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "De onde vem o número de 10,6 milhões?",
+      "resposta": "Não foi possível identificar. O Novo Caged soma cerca de 5,5 milhões de 2023 a ago/2026, e a PNAD mostra alta de cerca de 6 milhões de ocupados desde o fim de 2022."
+    },
+    {
+      "pergunta": "É possível comparar Lula 3 com Bolsonaro no Caged?",
+      "resposta": "Com cautela. A série mudou em 2020 (eSocial) e 2020-2021 inclui a queda e a recuperação da pandemia; o próprio MTE separa as duas séries."
+    },
+    {
+      "pergunta": "O emprego formal está crescendo ou desacelerando?",
+      "resposta": "Crescendo, mas em ritmo menor: +1,28 milhão em 2025 contra +1,68 milhão em 2024; em 12 meses até ago/2026, +887.708 (+1,87%)."
+    }
+  ],
+  "relacionadas": [
+    "lula-gerou-20-milhoes-de-empregos",
+    "bolsonaro-gerou-mais-empregos-que-lula-e-dilma-juntos",
+    "menor-desemprego-da-historia"
+  ],
+  "lacunas": [
+    "Nenhuma checagem de 2026 localizada sobre a comparação formal 'empregos Bolsonaro x Lula 3' com Novo Caged; a nota não identificou a base usada pelo PT."
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false
+}
