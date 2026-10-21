@@ -1,0 +1,201 @@
+{
+  "id": "chk-4009",
+  "slug": "73-por-cento-dos-presidiarios-votaram-em-lula",
+  "frase": "73% dos presidiários votaram em Lula.",
+  "frase_normalizada": "73 por cento dos presidiarios votaram em lula",
+  "variantes": [
+    "'73% dos presidiários votaram em você' (Flávio, Band, 18/10/2026)",
+    "Os presos votam no PT"
+  ],
+  "autor": {
+    "nome": "Flávio Bolsonaro",
+    "partido": "PL",
+    "cargo": "senador e candidato a presidente"
+  },
+  "lado": "oposicao-flavio-pl",
+  "alvo": {
+    "nome": "Luiz Inácio Lula da Silva",
+    "partido": "PT"
+  },
+  "data": "2026-10-18",
+  "onde": "Debate da Band (2º turno)",
+  "url_declaracao": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+  "temas": [
+    "eleicao-2026",
+    "seguranca"
+  ],
+  "tags": [
+    "presos provisórios",
+    "voto",
+    "debate Band",
+    "Lei Antifacção",
+    "TSE"
+  ],
+  "veredito": "falta-contexto",
+  "resumo_uma_frase": "O número existe: Lula teve 72,57% e Flávio 23,29% nos 11.186 votos das seções instaladas em presídios (Lupa); mas essas seções também recebem votos de agentes e outros eleitores, só presos provisórios (não condenados) podem votar, e os votantes são uma fração mínima dos 200 mil presos provisórios do país.",
+  "explicacao_simples": [
+    "Nas seções eleitorais instaladas em presídios, Lula teve 72,57% e Flávio 23,29% dos 11.186 votos (Lupa, 18/10/2026).",
+    "Essas seções também recebem votos de agentes penitenciários e outros eleitores, e só presos provisórios (sem condenação definitiva) e adolescentes internados podem votar.",
+    "Em 2026 havia 200,4 mil presos provisórios (CNJ, abr/2026); em 2022 apenas ~13 mil estavam aptos e 3% votaram; o número de habilitados em 2026 não foi confirmado."
+  ],
+  "explicacao_completa_md": "**O dado:** Lupa (debate da Band, 18/10/2026): Lula 72,57% e Flávio 23,29% nas seções em presídios, 11.186 votos; Aos Fatos classificou a frase de Flávio como 'distorcida' e a Lupa como 'falta contexto', porque as seções em unidades prisionais também recebem votos de agentes e de outros eleitores. **Quem pode votar preso:** apenas presos provisórios (sem condenação transitada em julgado) e adolescentes em medida socioeducativa; condenados definitivos têm direitos políticos suspensos (por isso Jair Bolsonaro não votou em 2026). **Escala:** 200,4 mil presos provisórios (CNJ/BNMP, abr/2026) e 11.680 adolescentes em meio fechado (CNJ, jan/2025); em 2022 havia ~13 mil presos aptos e 3% votaram (12,9 mil pessoas, TSE/DPU); em 2024 os aptos caíram para 6 mil (OAB-SP); prazo de alistamento/transferência em 2026: 06/05. **Lei Antifacção (15.358/2026):** restringia o voto de presos, mas em 23/04/2026 o TSE decidiu, por unanimidade, que a restrição não vale para 04/10/2026 pelo princípio da anualidade. **Leitura:** 11.186 votos equivalem a 0,009% dos 119,3 milhões de votos válidos; a frase omite que a amostra é mínima e mistura eleitores que não são presos.",
+  "o_que_e_verdade": [
+    "Lula teve 72,57% nos 11.186 votos das seções em presídios.",
+    "Só presos provisórios e adolescentes internados votam; a Lei Antifacção tentou restringir isso, mas o TSE suspendeu a regra para 2026."
+  ],
+  "o_que_nao_se_sustenta": [
+    "Que '73% dos presidiários' tenham votado em Lula: a maioria dos presos não vota (condenados) ou não se habilitou; as seções incluem agentes e outros eleitores.",
+    "Que o dado tenha peso eleitoral: são 11.186 votos em 119,3 milhões de válidos."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Flávio Bolsonaro",
+      "papel": "Usou o percentual sem o contexto da amostra",
+      "peso": "alto"
+    },
+    {
+      "ator": "TSE",
+      "papel": "Define seções em unidades prisionais e suspendeu a restrição da Lei Antifacção para 2026",
+      "peso": "medio"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Lula nas seções em presídios",
+      "valor": 72.57,
+      "unidade": "% dos votos",
+      "periodo": "1º turno, 04/10/2026",
+      "fonte": {
+        "nome": "Lupa, checagem do debate da Band (18/10/2026)",
+        "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": {
+        "rotulo": "Flávio nas seções em presídios",
+        "valor": 23.29
+      }
+    },
+    {
+      "rotulo": "Votos nas seções em presídios",
+      "valor": 11186,
+      "unidade": "votos",
+      "periodo": "1º turno, 04/10/2026",
+      "fonte": {
+        "nome": "Lupa, checagem do debate da Band (18/10/2026)",
+        "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": {
+        "rotulo": "Votos válidos para presidente (total)",
+        "valor": 119300788
+      }
+    },
+    {
+      "rotulo": "Presos provisórios no país",
+      "valor": 200400,
+      "unidade": "pessoas",
+      "periodo": "abr/2026 (CNJ/BNMP)",
+      "fonte": {
+        "nome": "Diário do Pará, 18/09/2026",
+        "url": "https://diariodopara.com.br/eleicoes-2026/mais-de-200-mil-presos-provisorios-poderao-votar-nas-eleicoes-2026-entenda-o-que-muda/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "Presos aptos a votar em 2022",
+        "valor": 13000
+      }
+    },
+    {
+      "rotulo": "Presos que votaram em 2022",
+      "valor": 3,
+      "unidade": "% dos aptos",
+      "periodo": "2022",
+      "fonte": {
+        "nome": "Agência Brasil, 28/04/2026",
+        "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-04/direito-voto-entre-pessoas-reclusas-nao-e-efetivo-no-brasil",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "Presos aptos em 2024 (OAB-SP)",
+        "valor": 6000
+      }
+    }
+  ],
+  "series": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Lupa",
+      "veredito_original": "Falta contexto",
+      "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+      "data": "2026-10-18"
+    },
+    {
+      "veiculo": "Aos Fatos",
+      "veredito_original": "Distorcido",
+      "url": "https://www.aosfatos.org/noticias/checamos-lula-flavio-bolsonaro-debate-band/",
+      "data": "2026-10-18"
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Lupa, checagem do debate da Band (18/10/2026)",
+      "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Aos Fatos, checagem do debate da Band (18/10/2026)",
+      "url": "https://www.aosfatos.org/noticias/checamos-lula-flavio-bolsonaro-debate-band/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Agência Brasil, 28/04/2026 (voto de pessoas reclusas)",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-04/direito-voto-entre-pessoas-reclusas-nao-e-efetivo-no-brasil",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "TNH1/Agência Senado, 13/09/2026 (TSE suspende proibição)",
+      "url": "https://www.tnh1.com.br/noticia/nid/com-proibicao-suspensa-pelo-tse-presos-provisorios-votarao-em-2026/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Diário do Pará, 18/09/2026",
+      "url": "https://diariodopara.com.br/eleicoes-2026/mais-de-200-mil-presos-provisorios-poderao-votar-nas-eleicoes-2026-entenda-o-que-muda/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/08_eleicao_2026_cenario_checagens.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "Presos condenados votam?",
+      "resposta": "Não: condenados em definitivo têm direitos políticos suspensos. Votam presos provisórios e adolescentes internados, se habilitados."
+    },
+    {
+      "pergunta": "Quantos presos votaram em 2026?",
+      "resposta": "O número de habilitados não foi confirmado (um resumo de busca atribuiu ao TSE 12.814); as seções em presídios registraram 11.186 votos, incluindo agentes e outros eleitores."
+    }
+  ],
+  "relacionadas": [
+    "eleicao-2026-resultado-primeiro-turno",
+    "violencia-explodiu-no-governo-lula"
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false,
+  "lacunas": [
+    "Número oficial de presos habilitados em 2026 e de seções instaladas não confirmado; o arquivo votacao_secao_2026 permitiria recalcular os 11.186 votos."
+  ]
+}

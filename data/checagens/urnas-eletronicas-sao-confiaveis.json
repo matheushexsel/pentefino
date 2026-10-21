@@ -3,15 +3,37 @@
   "slug": "urnas-eletronicas-sao-confiaveis",
   "frase": "A pausa de 50 minutos na divulgação dos resultados do 1º turno foi fraude; urnas antigas travaram a contagem e mesários votaram no lugar de mortos.",
   "frase_normalizada": "urnas eletronicas foram fraudadas no primeiro turno de 2026",
-  "variantes": ["As urnas eletrônicas não são confiáveis", "O TSE anulou o pleito após erro em mais de 2 mil urnas", "Hackers invadiram urnas 35 vezes no teste do TSE", "Chips taiwaneses permitem alterar o resultado", "A mensagem 'Faltou' no site do TSE significa voto não contado"],
-  "autor": { "nome": "Publicações virais em redes sociais (autoria difusa)", "partido": null, "cargo": null },
+  "variantes": [
+    "As urnas eletrônicas não são confiáveis",
+    "O TSE anulou o pleito após erro em mais de 2 mil urnas",
+    "Hackers invadiram urnas 35 vezes no teste do TSE",
+    "Chips taiwaneses permitem alterar o resultado",
+    "A mensagem 'Faltou' no site do TSE significa voto não contado"
+  ],
+  "autor": {
+    "nome": "Publicações virais em redes sociais (autoria difusa)",
+    "partido": null,
+    "cargo": null
+  },
   "lado": "outro",
-  "alvo": { "nome": "Tribunal Superior Eleitoral", "partido": null },
+  "alvo": {
+    "nome": "Tribunal Superior Eleitoral",
+    "partido": null
+  },
   "data": "2026-10-04",
   "onde": "Redes sociais e aplicativos de mensagem, entre 04 e 20/10/2026",
   "url_declaracao": "https://gazetadoparana.com.br/publico/das-urnas-as-deepfakes-as-principais-fake-news-que-abrem-o-segundo-turno-das-eleicoes-2026",
-  "temas": ["eleicao-2026", "justica-stf"],
-  "tags": ["urnas eletrônicas", "fraude", "TSE", "desinformação", "apuração"],
+  "temas": [
+    "eleicao-2026",
+    "justica-stf"
+  ],
+  "tags": [
+    "urnas eletrônicas",
+    "fraude",
+    "TSE",
+    "desinformação",
+    "apuração"
+  ],
   "veredito": "falso",
   "resumo_uma_frase": "Todas as alegações de fraude nas urnas em 2026 foram desmentidas por Lupa, Comprova e pelo próprio TSE: a pausa de ~50 minutos foi uma falha na apresentação ao público, não na totalização, e não há fraude comprovada na captação ou totalização de votos desde 1996.",
   "explicacao_simples": [
@@ -19,7 +41,7 @@
     "Boatos sobre urnas antigas que travaram a contagem, votos de mortos, 2 mil urnas anuladas, hackers e chips taiwaneses foram checados e classificados como falsos pela Lupa e pelo TSE.",
     "A Lupa registra que não há fraude comprovada na captação ou totalização desde 1996, que testes públicos checam software, hardware e transmissão meses antes, e que o volume de boatos em 2026 foi menor que em 2022 e 2024."
   ],
-  "explicacao_completa_md": "**O que circulou e o veredito das checagens:**\n\n- Pausa de ~50 minutos na divulgação em 04/10 'foi fraude' — **FALSO**: falha na apresentação ao público, não na totalização (Gazeta do Paraná, 07/10).\n- 'Urnas antigas UE2013/UE2015 travaram a contagem' — **FALSO** (TSE).\n- Mensagem 'Faltou' no site do TSE significaria voto não contado — **ENGANOSO**: refere-se a comparecimento; o TSE mudou o texto para 'em processamento'.\n- 'Quem não votou no 1º turno não pode votar no 2º' — **FALSO**.\n- 'Votos do PL ao Senado não batem com votos de Flávio' — **ENGANOSO**: cada eleitor tem dois votos para o Senado e um para presidente.\n- 'Mesários votaram no lugar de mortos' — **FALSO** (TSE, 14/10).\n- 'TSE anulou o pleito após erro em mais de 2 mil urnas' — **FALSO** (Lupa, 19/06/2026).\n- 'Hackers invadiram urnas 35 vezes no teste do TSE' — **FALSO** (31/08/2026).\n- 'Chips taiwaneses permitem alterar resultado', 'TSE anunciou novas urnas para 2026', 'PF abriu código-fonte e Lula teve 36% em 2022' — **FALSOS** (Lupa, 04/10/2026).\n- Entrega de mídias de urnas em sala aberta 'é crime' — **FALSO**: segue protocolo do TSE (Comprova, 09/10).\n\n**Incidentes reais:** teclas 3 e 1 danificadas/coladas em urnas no RS e em Curitiba, com substituição dos equipamentos.\n\n**Contexto institucional:** a Res. TSE 23.755/2026 obriga plataformas a remover de ofício conteúdo que ataque as urnas; a página 'Fato ou Boato' foi reformulada em ago/2026 com 10 parceiros (AFP, Lupa, Aos Fatos, Boatos.org, Comprova, E-farsas, Estadão Verifica, Fato ou Fake, Justiça Eleitoral, UOL Confere). Pesquisa de maio/2026 (Agência Brasil) apontou que as fake news sobre eleições miram sobretudo as urnas.\n\n**Relação com os candidatos:** Flávio Bolsonaro questionou o processo eleitoral em 2014, 2018, 2021 e 2022 e afirmou no Jornal Nacional (28/08/2026) que 'jamais questionou' — classificado como FALSO pela Lupa. Jair Bolsonaro não votou em 2026 (direitos políticos suspensos).",
+  "explicacao_completa_md": "**O que circulou e o veredito das checagens:**\n\n- Pausa de ~50 minutos na divulgação em 04/10 'foi fraude' — **FALSO**: falha na apresentação ao público, não na totalização (Gazeta do Paraná, 07/10).\n- 'Urnas antigas UE2013/UE2015 travaram a contagem' — **FALSO** (TSE).\n- Mensagem 'Faltou' no site do TSE significaria voto não contado — **ENGANOSO**: refere-se a comparecimento; o TSE mudou o texto para 'em processamento'.\n- 'Quem não votou no 1º turno não pode votar no 2º' — **FALSO**.\n- 'Votos do PL ao Senado não batem com votos de Flávio' — **ENGANOSO**: cada eleitor tem dois votos para o Senado e um para presidente.\n- 'Mesários votaram no lugar de mortos' — **FALSO** (TSE, 14/10).\n- 'TSE anulou o pleito após erro em mais de 2 mil urnas' — **FALSO** (Lupa, 19/06/2026).\n- 'Hackers invadiram urnas 35 vezes no teste do TSE' — **FALSO** (31/08/2026).\n- 'Chips taiwaneses permitem alterar resultado', 'TSE anunciou novas urnas para 2026', 'PF abriu código-fonte e Lula teve 36% em 2022' — **FALSOS** (Lupa, 04/10/2026).\n- Entrega de mídias de urnas em sala aberta 'é crime' — **FALSO**: segue protocolo do TSE (Comprova, 09/10).\n\n**Incidentes reais:** teclas 3 e 1 danificadas/coladas em urnas no RS e em Curitiba, com substituição dos equipamentos.\n\n**Contexto institucional:** a Res. TSE 23.755/2026 obriga plataformas a remover de ofício conteúdo que ataque as urnas; a página 'Fato ou Boato' foi reformulada em ago/2026 com 10 parceiros (AFP, Lupa, Aos Fatos, Boatos.org, Comprova, E-farsas, Estadão Verifica, Fato ou Fake, Justiça Eleitoral, UOL Confere). Pesquisa de maio/2026 (Agência Brasil) apontou que as fake news sobre eleições miram sobretudo as urnas.\n\n**Relação com os candidatos:** Flávio Bolsonaro questionou o processo eleitoral em 2014, 2018, 2021 e 2022 e afirmou no Jornal Nacional (28/08/2026) que 'jamais questionou' — classificado como FALSO pela Lupa. Jair Bolsonaro não votou em 2026 (direitos políticos suspensos).\n\n**Detalhes da pausa (Comprova, 08/10/2026):** a interrupção durou cerca de 50 minutos (de ~19h14 a 20h04), começou com 64,81% dos dados divulgados, afetou apenas a aba 'Brasil' (presidente/vice) e foi causada por 'contenção no processamento' pelo volume de dados (nota do TSE de 06/10); os boletins de urna continuaram sendo recebidos; o post original ('caixinha mágica') teve ~6 milhões de visualizações até 06/10.\n\n**Balanço do TSE no dia (04/10/2026):** 1.121 urnas substituídas (~0,2% do total); ~2,8 mil ocorrências de desinformação registradas desde 16/08 e 453 apontamentos até as 13h; 59 pessoas conduzidas (25 em flagrante); 'nenhum indicativo concreto de interferência internacional'. 'Ocorrências' e 'apontamentos' não equivalem a remoções.\n\n**Boatos adicionais checados:** 'TSE anunciou novas urnas para 2026' — FALSO (Aos Fatos, 27/07: serão usados a UE2022 e modelos anteriores; inspeção do código-fonte ocorre desde 2002; entidades credenciadas analisam os programas desde out/2025; observadores internacionais desde 2022). Lupa 2026: 'TSE faz votos sumirem' — ENGANOSO (01/06); 'PF abriu o código-fonte e Lula teve 36%' — FALSO (02/06); 'TSE anulou a eleição após fraude em 2 mil urnas' — FALSO (19/06); 'site da Smartmatic contradiz o TSE' — não sustentado (29/07); 'chips taiwaneses' — não sustentado (03/08); 'hackers invadiram urnas 35 vezes no TPS' — FALSO (31/08); vídeo de Moraes sobre 'sala escura' — FORA DE CONTEXTO (09/09). Lupa 2025: 'STF e TSE fraudaram 2022', 'gráfico de Musk prova vitória de Bolsonaro', 'Financial Times disse que Biden fraudou 2022', 'TSE destruiu urnas', 'Barroso mandou instalar chips', 'Lula só venceu com urna eletrônica' — todos FALSOS. A Lupa fez ao menos 26 verificações sobre o código-fonte entre 2021 e 2024; no 2º turno de 2022 o TSE recebia ~500 alertas diários de boatos.\n\n**'Votos do PL ao Senado não batem com votos de Flávio':** cada eleitor tem dois votos para o Senado e um para presidente; nacionalmente, os votos válidos para senador (207.038.240) são quase o dobro dos de presidente (119.300.788). Em SP, por exemplo, o PL teve 12.703.089 votos para o Senado (29,3%) e Flávio 12.922.023 para presidente; a comparação direta é indevida.\n\n**Logística do 2º turno:** 444 seções com endereço alterado, 130 mil eleitores em 22 estados (MG 29.715; PR 17.968; AP 11.614); DF e 4 estados sem alterações; TRE-RJ definiu em 21/10 as urnas a auditar.",
   "o_que_e_verdade": [
     "Houve uma pausa de cerca de 50 minutos na divulgação pública dos resultados em 04/10/2026.",
     "Houve urnas com teclas danificadas no RS e em Curitiba, que foram substituídas conforme o protocolo.",
@@ -31,42 +53,310 @@
     "Que exista qualquer fraude comprovada na captação ou totalização de votos desde 1996."
   ],
   "quem_e_responsavel": [
-    { "ator": "Tribunal Superior Eleitoral", "papel": "Opera as urnas, realiza testes públicos e totaliza os votos", "peso": "alto" },
-    { "ator": "Plataformas digitais", "papel": "Dever de remover de ofício ataques às urnas (Res. 23.755/2026)", "peso": "medio" },
-    { "ator": "Agências de checagem parceiras do 'Fato ou Boato'", "papel": "Verificam e desmentem boatos", "peso": "medio" }
+    {
+      "ator": "Tribunal Superior Eleitoral",
+      "papel": "Opera as urnas, realiza testes públicos e totaliza os votos",
+      "peso": "alto"
+    },
+    {
+      "ator": "Plataformas digitais",
+      "papel": "Dever de remover de ofício ataques às urnas (Res. 23.755/2026)",
+      "peso": "medio"
+    },
+    {
+      "ator": "Agências de checagem parceiras do 'Fato ou Boato'",
+      "papel": "Verificam e desmentem boatos",
+      "peso": "medio"
+    }
   ],
   "numeros": [
-    { "rotulo": "Duração da pausa na divulgação dos resultados", "valor": 50, "unidade": "minutos (aprox.)", "periodo": "04/10/2026", "fonte": { "nome": "Gazeta do Paraná, 07/10/2026", "url": "https://gazetadoparana.com.br/publico/das-urnas-as-deepfakes-as-principais-fake-news-que-abrem-o-segundo-turno-das-eleicoes-2026", "acesso_em": "2026-10-21", "tier": "imprensa" }, "comparacao": { "rotulo": "Fraudes comprovadas na totalização desde 1996", "valor": 0 } },
-    { "rotulo": "Eleitores com biometria cadastrada", "valor": 141301540, "unidade": "eleitores", "periodo": "2026", "fonte": { "nome": "Wikipédia pt, Eleições gerais no Brasil em 2026", "url": "https://pt.wikipedia.org/wiki/Elei%C3%A7%C3%B5es_gerais_no_Brasil_em_2026", "acesso_em": "2026-10-21", "tier": "imprensa" }, "comparacao": { "rotulo": "Percentual do eleitorado", "valor": 89.01 } },
-    { "rotulo": "Parceiros do 'Fato ou Boato' do TSE", "valor": 10, "unidade": "organizações", "periodo": "ago/2026", "fonte": { "nome": "TSE, página reformulada (ago/2026)", "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Agosto/fato-ou-boato-pagina-e-reformulada-para-as-eleicoes-2026-e-amplia-ferramentas-de-combate-a-desinformacao", "acesso_em": "2026-10-21", "tier": "oficial" }, "comparacao": { "rotulo": "Esclarecimentos publicados em 2022", "valor": 193 } }
+    {
+      "rotulo": "Duração da pausa na divulgação dos resultados",
+      "valor": 50,
+      "unidade": "minutos (aprox.)",
+      "periodo": "04/10/2026",
+      "fonte": {
+        "nome": "Gazeta do Paraná, 07/10/2026",
+        "url": "https://gazetadoparana.com.br/publico/das-urnas-as-deepfakes-as-principais-fake-news-que-abrem-o-segundo-turno-das-eleicoes-2026",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "Fraudes comprovadas na totalização desde 1996",
+        "valor": 0
+      }
+    },
+    {
+      "rotulo": "Eleitores com biometria cadastrada",
+      "valor": 141301540,
+      "unidade": "eleitores",
+      "periodo": "2026",
+      "fonte": {
+        "nome": "Wikipédia pt, Eleições gerais no Brasil em 2026",
+        "url": "https://pt.wikipedia.org/wiki/Elei%C3%A7%C3%B5es_gerais_no_Brasil_em_2026",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "Percentual do eleitorado",
+        "valor": 89.01
+      }
+    },
+    {
+      "rotulo": "Parceiros do 'Fato ou Boato' do TSE",
+      "valor": 10,
+      "unidade": "organizações",
+      "periodo": "ago/2026",
+      "fonte": {
+        "nome": "TSE, página reformulada (ago/2026)",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Agosto/fato-ou-boato-pagina-e-reformulada-para-as-eleicoes-2026-e-amplia-ferramentas-de-combate-a-desinformacao",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "Esclarecimentos publicados em 2022",
+        "valor": 193
+      }
+    },
+    {
+      "rotulo": "Urnas substituídas no 1º turno",
+      "valor": 1121,
+      "unidade": "urnas (~0,2% do total)",
+      "periodo": "04/10/2026",
+      "fonte": {
+        "nome": "Tribuna de Jundiaí, 04/10/2026 (balanço do TSE)",
+        "url": "https://tribunadejundiai.com.br/politica/eleicoes-2026/interferencia-estrangeira-eleicoes/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "Ocorrências de desinformação registradas pelo TSE desde 16/08",
+        "valor": 2800
+      }
+    },
+    {
+      "rotulo": "Dados já divulgados quando a divulgação pausou",
+      "valor": 64.81,
+      "unidade": "%",
+      "periodo": "04/10/2026, ~19h14",
+      "fonte": {
+        "nome": "Comprova, 08/10/2026 (interrupção não afetou a totalização)",
+        "url": "https://projetocomprova.com.br/publicações/interrupcao-na-divulgacao-dos-resultados-nao-afetou-a-totalizacao-dos-votos-no-primeiro-turno-das-eleicoes/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": {
+        "rotulo": "Visualizações do post 'caixinha mágica' até 06/10 (milhões)",
+        "valor": 6
+      }
+    },
+    {
+      "rotulo": "Votos válidos para senador (dois por eleitor)",
+      "valor": 207038240,
+      "unidade": "votos",
+      "periodo": "1º turno, 04/10/2026",
+      "fonte": {
+        "nome": "TSE, dados abertos, detalhe da votação por município e zona 2026 (gerado 21/10/2026)",
+        "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/detalhe_votacao_munzona/detalhe_votacao_munzona_2026.zip",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "Votos válidos para presidente",
+        "valor": 119300788
+      }
+    },
+    {
+      "rotulo": "Verificações da Lupa sobre o código-fonte das urnas (2021–2024)",
+      "valor": 26,
+      "unidade": "checagens",
+      "periodo": "2021–2024",
+      "fonte": {
+        "nome": "Lupa, Lente #130 (05/04/2024)",
+        "url": "https://agencialupa.substack.com/p/lente-130-como-a-fake-sobre-fraude",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": {
+        "rotulo": "Alertas diários de boatos recebidos pelo TSE no 2º turno de 2022",
+        "valor": 500
+      }
+    }
   ],
   "series": [],
   "checagens_externas": [
-    { "veiculo": "Lupa", "veredito_original": "Falso (série de boatos sobre urnas)", "url": "https://www.agencialupa.org/jornalismo/2026/10/04/urnas-eletronicas-voltam-a-ser-alvo-de-desinformacao-em-2026/", "data": "2026-10-04" },
-    { "veiculo": "Gazeta do Paraná (compilação de checagens TSE/agências)", "veredito_original": "Falso / Enganoso", "url": "https://gazetadoparana.com.br/publico/das-urnas-as-deepfakes-as-principais-fake-news-que-abrem-o-segundo-turno-das-eleicoes-2026", "data": "2026-10-07" },
-    { "veiculo": "Comprova", "veredito_original": "Entrega de mídias em sala aberta segue protocolo (não é crime)", "url": "https://projetocomprova.com.br/publicações/entrega-de-midias-de-urnas-em-sala-aberta-segue-protocolo-e-regras-da-justica-eleitoral/", "data": "2026-10-09" },
-    { "veiculo": "Lupa", "veredito_original": "Post distorce vídeo de 2019 sobre urnas dos EUA", "url": "https://www.agencialupa.org/verificacao/2026/10/20/post-distorce-video-de-2019-sobre-urnas-dos-eua/", "data": "2026-10-20" },
-    { "veiculo": "Lupa (entrevista de Flávio ao JN)", "veredito_original": "Falso: 'jamais questionei o processo eleitoral'", "url": "https://www.agencialupa.org/checagem/2026/08/28/ao-vivo-checagem-da-entrevista-de-flavio-bolsonaro-ao-jornal-nacional/", "data": "2026-08-28" }
+    {
+      "veiculo": "Lupa",
+      "veredito_original": "Falso (série de boatos sobre urnas)",
+      "url": "https://www.agencialupa.org/jornalismo/2026/10/04/urnas-eletronicas-voltam-a-ser-alvo-de-desinformacao-em-2026/",
+      "data": "2026-10-04"
+    },
+    {
+      "veiculo": "Gazeta do Paraná (compilação de checagens TSE/agências)",
+      "veredito_original": "Falso / Enganoso",
+      "url": "https://gazetadoparana.com.br/publico/das-urnas-as-deepfakes-as-principais-fake-news-que-abrem-o-segundo-turno-das-eleicoes-2026",
+      "data": "2026-10-07"
+    },
+    {
+      "veiculo": "Comprova",
+      "veredito_original": "Entrega de mídias em sala aberta segue protocolo (não é crime)",
+      "url": "https://projetocomprova.com.br/publicações/entrega-de-midias-de-urnas-em-sala-aberta-segue-protocolo-e-regras-da-justica-eleitoral/",
+      "data": "2026-10-09"
+    },
+    {
+      "veiculo": "Lupa",
+      "veredito_original": "Post distorce vídeo de 2019 sobre urnas dos EUA",
+      "url": "https://www.agencialupa.org/verificacao/2026/10/20/post-distorce-video-de-2019-sobre-urnas-dos-eua/",
+      "data": "2026-10-20"
+    },
+    {
+      "veiculo": "Lupa (entrevista de Flávio ao JN)",
+      "veredito_original": "Falso: 'jamais questionei o processo eleitoral'",
+      "url": "https://www.agencialupa.org/checagem/2026/08/28/ao-vivo-checagem-da-entrevista-de-flavio-bolsonaro-ao-jornal-nacional/",
+      "data": "2026-08-28"
+    },
+    {
+      "veiculo": "Comprova",
+      "veredito_original": "Interrupção na divulgação não afetou a totalização dos votos",
+      "url": "https://projetocomprova.com.br/publicações/interrupcao-na-divulgacao-dos-resultados-nao-afetou-a-totalizacao-dos-votos-no-primeiro-turno-das-eleicoes/",
+      "data": "2026-10-08"
+    },
+    {
+      "veiculo": "Aos Fatos",
+      "veredito_original": "Falso: TSE anunciou 'novas urnas' para 2026",
+      "url": "https://www.aosfatos.org/noticias/tse-novas-urnas-eletronicas-eleicoes/",
+      "data": "2026-07-27"
+    },
+    {
+      "veiculo": "Comprova",
+      "veredito_original": "Post usa humor para levar eleitor a errar número de urna",
+      "url": "https://projetocomprova.com.br/publicações/post-usa-humor-para-levar-eleitor-a-errar-numero-de-urna-no-dia-da-votacao/",
+      "data": "2026-10"
+    }
   ],
   "fontes": [
-    { "nome": "Lupa, urnas voltam a ser alvo de desinformação (04/10/2026)", "url": "https://www.agencialupa.org/jornalismo/2026/10/04/urnas-eletronicas-voltam-a-ser-alvo-de-desinformacao-em-2026/", "acesso_em": "2026-10-21", "tier": "checagem" },
-    { "nome": "Gazeta do Paraná, principais fake news do 2º turno (07/10/2026)", "url": "https://gazetadoparana.com.br/publico/das-urnas-as-deepfakes-as-principais-fake-news-que-abrem-o-segundo-turno-das-eleicoes-2026", "acesso_em": "2026-10-21", "tier": "imprensa" },
-    { "nome": "Comprova (09/10/2026)", "url": "https://projetocomprova.com.br/publicações/entrega-de-midias-de-urnas-em-sala-aberta-segue-protocolo-e-regras-da-justica-eleitoral/", "acesso_em": "2026-10-21", "tier": "checagem" },
-    { "nome": "Agência Brasil, pesquisa sobre fake news e urnas (maio/2026)", "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-05/pesquisa-aponta-que-fake-news-sobre-eleicoes-miram-urnas-eletronicas", "acesso_em": "2026-10-21", "tier": "oficial" },
-    { "nome": "TSE, 'Fato ou Boato' reformulado (ago/2026)", "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Agosto/fato-ou-boato-pagina-e-reformulada-para-as-eleicoes-2026-e-amplia-ferramentas-de-combate-a-desinformacao", "acesso_em": "2026-10-21", "tier": "oficial" },
-    { "nome": "Conjur, plataformas terão de remover de ofício conteúdo antidemocrático (05/03/2026)", "url": "https://www.conjur.com.br/2026-mar-05/plataformas-terao-de-remover-de-oficio-conteudo-antidemocratico/", "acesso_em": "2026-10-21", "tier": "imprensa" },
-    { "nome": "Wikipédia pt, Eleição presidencial no Brasil em 2026 (incidentes com teclas)", "url": "https://pt.wikipedia.org/wiki/Elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026", "acesso_em": "2026-10-21", "tier": "imprensa" }
+    {
+      "nome": "Lupa, urnas voltam a ser alvo de desinformação (04/10/2026)",
+      "url": "https://www.agencialupa.org/jornalismo/2026/10/04/urnas-eletronicas-voltam-a-ser-alvo-de-desinformacao-em-2026/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Gazeta do Paraná, principais fake news do 2º turno (07/10/2026)",
+      "url": "https://gazetadoparana.com.br/publico/das-urnas-as-deepfakes-as-principais-fake-news-que-abrem-o-segundo-turno-das-eleicoes-2026",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Comprova (09/10/2026)",
+      "url": "https://projetocomprova.com.br/publicações/entrega-de-midias-de-urnas-em-sala-aberta-segue-protocolo-e-regras-da-justica-eleitoral/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Agência Brasil, pesquisa sobre fake news e urnas (maio/2026)",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-05/pesquisa-aponta-que-fake-news-sobre-eleicoes-miram-urnas-eletronicas",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "TSE, 'Fato ou Boato' reformulado (ago/2026)",
+      "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Agosto/fato-ou-boato-pagina-e-reformulada-para-as-eleicoes-2026-e-amplia-ferramentas-de-combate-a-desinformacao",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Conjur, plataformas terão de remover de ofício conteúdo antidemocrático (05/03/2026)",
+      "url": "https://www.conjur.com.br/2026-mar-05/plataformas-terao-de-remover-de-oficio-conteudo-antidemocratico/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Wikipédia pt, Eleição presidencial no Brasil em 2026 (incidentes com teclas)",
+      "url": "https://pt.wikipedia.org/wiki/Elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Comprova, 08/10/2026 (interrupção não afetou a totalização)",
+      "url": "https://projetocomprova.com.br/publicações/interrupcao-na-divulgacao-dos-resultados-nao-afetou-a-totalizacao-dos-votos-no-primeiro-turno-das-eleicoes/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Tribuna de Jundiaí, 04/10/2026 (balanço do TSE)",
+      "url": "https://tribunadejundiai.com.br/politica/eleicoes-2026/interferencia-estrangeira-eleicoes/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "TSE, dados abertos, detalhe da votação por município e zona 2026 (gerado 21/10/2026)",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/detalhe_votacao_munzona/detalhe_votacao_munzona_2026.zip",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "TSE, dados abertos, votação por partido 2026",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_partido_munzona/votacao_partido_munzona_2026.zip",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Aos Fatos, 27/07/2026 (novas urnas — falso)",
+      "url": "https://www.aosfatos.org/noticias/tse-novas-urnas-eletronicas-eleicoes/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Agência Brasil, 19/10/2026 (seções alteradas no 2º turno)",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/2o-turno-130-mil-eleitores-de-22-estados-votarao-em-local-diferente",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/08_eleicao_2026_cenario_checagens.md",
   "perguntas_frequentes": [
-    { "pergunta": "Por que a divulgação parou por 50 minutos?", "resposta": "Foi uma falha na apresentação dos dados ao público no site do TSE; a totalização dos votos continuou normalmente." },
-    { "pergunta": "Já houve fraude comprovada nas urnas?", "resposta": "Segundo a Lupa, não há fraude comprovada na captação ou totalização de votos desde 1996." },
-    { "pergunta": "O que mudou nas regras em 2026?", "resposta": "A Res. TSE 23.755/2026 obriga plataformas a remover de ofício, sem ordem judicial, conteúdo que ataque as urnas ou incite crimes contra o Estado Democrático." },
-    { "pergunta": "Houve problemas reais com urnas?", "resposta": "Sim: teclas danificadas em urnas no RS e em Curitiba, substituídas conforme o protocolo." }
+    {
+      "pergunta": "Por que a divulgação parou por 50 minutos?",
+      "resposta": "Por 'contenção no processamento' pelo volume de dados (nota do TSE de 06/10): a aba 'Brasil' do site parou de ~19h14 a 20h04, com 64,81% dos dados já divulgados, enquanto os boletins de urna continuavam sendo recebidos e totalizados (Comprova)."
+    },
+    {
+      "pergunta": "Já houve fraude comprovada nas urnas?",
+      "resposta": "Segundo a Lupa, não há fraude comprovada na captação ou totalização de votos desde 1996."
+    },
+    {
+      "pergunta": "O que mudou nas regras em 2026?",
+      "resposta": "A Res. TSE 23.755/2026 obriga plataformas a remover de ofício, sem ordem judicial, conteúdo que ataque as urnas ou incite crimes contra o Estado Democrático."
+    },
+    {
+      "pergunta": "Houve problemas reais com urnas?",
+      "resposta": "Sim: teclas danificadas em urnas no RS e em Curitiba, substituídas conforme o protocolo."
+    },
+    {
+      "pergunta": "Os votos do PL para o Senado 'não batem' com os de Flávio?",
+      "resposta": "Cada eleitor tem dois votos para senador e um para presidente, por isso os totais não são comparáveis; nacionalmente houve 207 milhões de votos válidos para senador contra 119 milhões para presidente."
+    }
   ],
-  "relacionadas": ["eleicao-2026-resultado-primeiro-turno", "pesquisas-eleitorais-erram-sempre"],
+  "relacionadas": [
+    "eleicao-2026-resultado-primeiro-turno",
+    "pesquisas-eleitorais-erram-sempre"
+  ],
   "atualizado_em": "2026-10-21",
-  "changelog": [ { "data": "2026-10-21", "o_que_mudou": "publicação" } ],
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "enriquecimento rodada 2: fontes primárias do TSE/Senado, novas pesquisas e correções"
+    }
+  ],
   "exemplo": false,
-  "lacunas": ["As fontes não atribuem a autoria dos boatos a um candidato ou partido; 'lado' marcado como 'outro'.", "Participação das Forças Armadas na fiscalização das urnas em 2026 não localizada.", "Checagens de Estadão Verifica, UOL Confere e g1 Fato ou Fake não acessadas."]
+  "lacunas": [
+    "Participação das Forças Armadas na fiscalização das urnas em 2026 não localizada.",
+    "Checagens de Estadão Verifica, UOL Confere e g1 Fato ou Fake não acessadas.",
+    "Texto oficial da Res. TSE 23.755/2026 não acessado (TSE 403); numeração dos artigos vem de fontes secundárias divergentes.",
+    "Balanço consolidado do TSE sobre remoções em 2026 inexistente até 21/10."
+  ]
 }

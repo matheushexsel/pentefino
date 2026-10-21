@@ -5,7 +5,9 @@
     "categoria": "ideologia",
     "definicao_simples": "Rótulos nascidos da posição dos assentos na Assembleia Nacional francesa em 1789: à direita do presidente sentaram os defensores do veto absoluto do rei; à esquerda, os que queriam limitar o poder real.",
     "definicao_completa_md": "Em 11 de setembro de 1789 a Assembleia Constituinte francesa debateu o poder de veto de Luís XVI. Os monarquistas (defensores do veto absoluto) ficaram à direita do presidente da Assembleia e os representantes do Terceiro Estado e nobres \"patriotas\" (que queriam limitar o veto) ficaram à esquerda. A localização circunstancial virou significado político duradouro e os dois polos passaram a se definir mutuamente. Hoje, grosso modo, associam-se a igualdade/mudança (esquerda) e ordem/hierarquia/tradição (direita), mas esse conteúdo é convenção histórica, não definição natural.",
-    "exemplos_historicos": ["Assembleia Nacional francesa, 11/09/1789 (debate do veto real)"],
+    "exemplos_historicos": [
+      "Assembleia Nacional francesa, 11/09/1789 (debate do veto real)"
+    ],
     "o_que_nao_e": "Não é uma classificação científica fixa: o conteúdo de cada lado muda com o tempo e com o país.",
     "criterios_academicos": [
       "Eixo econômico: quanto Estado na economia (mais vs. menos).",
@@ -13,13 +15,30 @@
       "Eixo democrático: aceita-se perder eleições e respeitar o Estado de direito?"
     ],
     "fontes": [
-      { "nome": "Vermelho (divulgação histórica; veículo ligado ao PCdoB)", "url": "https://vermelho.org.br/?p=402150", "acesso_em": "2026-10-21", "tier": "partidario" },
-      { "nome": "Outras Palavras", "url": "https://outraspalavras.net/movimentoserebeldias/esquerda-uma-aposta-em-meio-a-modernidade/", "acesso_em": "2026-10-21", "tier": "imprensa" },
-      { "nome": "Wikipedia: National Assembly (French Revolution)", "url": "https://en.wikipedia.org/wiki/National_Assembly_(French_Revolution)", "acesso_em": "2026-10-21", "tier": "imprensa" }
+      {
+        "nome": "Vermelho (divulgação histórica; veículo ligado ao PCdoB)",
+        "url": "https://vermelho.org.br/?p=402150",
+        "acesso_em": "2026-10-21",
+        "tier": "partidario"
+      },
+      {
+        "nome": "Outras Palavras",
+        "url": "https://outraspalavras.net/movimentoserebeldias/esquerda-uma-aposta-em-meio-a-modernidade/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      {
+        "nome": "Wikipedia: National Assembly (French Revolution)",
+        "url": "https://en.wikipedia.org/wiki/National_Assembly_(French_Revolution)",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
     ],
     "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/11_espectro_ideologico_didatico.md",
     "atualizado_em": "2026-10-21",
-    "lacunas": ["A Britannica (verbetes 'left' e 'social democracy') não pôde ser acessada (HTTP 403)."]
+    "lacunas": [
+      "A Britannica (verbetes 'left' e 'social democracy') não pôde ser acessada (HTTP 403)."
+    ]
   },
   {
     "termo": "Centro",
@@ -27,12 +46,26 @@
     "categoria": "ideologia",
     "definicao_simples": "Na régua da Brazilian Legislative Survey (Zucco & Power), partido cuja posição reescalada fica entre -0,25 e +0,25.",
     "definicao_completa_md": "Zucco & Power definem operacionalmente 'partido de centro' como aquele com posição entre -0,25 e +0,25 na escala reescalada de aproximadamente -1 (esquerda) a +1 (direita). Em 2021 estavam nessa faixa MDB (+0,137), PSDB (+0,157), Cidadania (-0,014), PROS (+0,032), Solidariedade (+0,190) e PV (-0,069 em 2017). Os autores registram 'esvaziamento do centro' e polarização crescente desde 2016.",
-    "exemplos_historicos": ["MDB, PSDB e Cidadania na onda de 2021 da BLS"],
+    "exemplos_historicos": [
+      "MDB, PSDB e Cidadania na onda de 2021 da BLS"
+    ],
     "o_que_nao_e": "Não é sinônimo de 'Centrão', que é um bloco pragmático de partidos de centro e centro-direita, não uma posição ideológica medida.",
-    "criterios_academicos": ["Posição BLS entre -0,25 e +0,25 (Zucco & Power, Apêndice E)."],
+    "criterios_academicos": [
+      "Posição BLS entre -0,25 e +0,25 (Zucco & Power, Apêndice E)."
+    ],
     "fontes": [
-      { "nome": "Zucco & Power, material suplementar (LAPS, DOI 10.1017/lap.2023.24)", "url": "https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S1531426X23000249/resource/name/S1531426X23000249sup001.pdf", "acesso_em": "2026-10-21", "tier": "academico" },
-      { "nome": "Zucco & Power, Latin American Politics and Society (Cambridge Core)", "url": "https://www.cambridge.org/core/product/FAF5489B3E01D39A16DBB4971458AD48/core-reader", "acesso_em": "2026-10-21", "tier": "academico" }
+      {
+        "nome": "Zucco & Power, material suplementar (LAPS, DOI 10.1017/lap.2023.24)",
+        "url": "https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S1531426X23000249/resource/name/S1531426X23000249sup001.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      {
+        "nome": "Zucco & Power, Latin American Politics and Society (Cambridge Core)",
+        "url": "https://www.cambridge.org/core/product/FAF5489B3E01D39A16DBB4971458AD48/core-reader",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      }
     ],
     "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/11_espectro_ideologico_didatico.md",
     "atualizado_em": "2026-10-21"
@@ -43,11 +76,20 @@
     "categoria": "ideologia",
     "definicao_simples": "Posições intermediárias entre o centro e os polos. Na BLS 2021, PSB (-0,427) e PDT (-0,356) ficam à centro-esquerda; PSD (+0,296) e Podemos (+0,386) à centro-direita.",
     "definicao_completa_md": "Síntese a partir da régua de Zucco & Power: partidos fora da faixa de centro (-0,25 a +0,25) mas longe dos polos (≈ ±0,8 a ±1,0). Centro-esquerda em 2021: PSB (-0,427), PDT (-0,356) e Rede (-0,555 em 2017). Centro-direita: PSD (+0,296) e Podemos (+0,386).",
-    "exemplos_historicos": ["PSB e PDT (centro-esquerda); PSD e Podemos (centro-direita), BLS 2021"],
+    "exemplos_historicos": [
+      "PSB e PDT (centro-esquerda); PSD e Podemos (centro-direita), BLS 2021"
+    ],
     "o_que_nao_e": "Não há limites numéricos oficiais dos autores para 'centro-esquerda' e 'centro-direita'; a classificação é síntese do redator a partir dos valores publicados.",
-    "criterios_academicos": ["Posição BLS fora de ±0,25 e distante dos polos (síntese)."],
+    "criterios_academicos": [
+      "Posição BLS fora de ±0,25 e distante dos polos (síntese)."
+    ],
     "fontes": [
-      { "nome": "Zucco & Power, material suplementar (LAPS, DOI 10.1017/lap.2023.24)", "url": "https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S1531426X23000249/resource/name/S1531426X23000249sup001.pdf", "acesso_em": "2026-10-21", "tier": "academico" }
+      {
+        "nome": "Zucco & Power, material suplementar (LAPS, DOI 10.1017/lap.2023.24)",
+        "url": "https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S1531426X23000249/resource/name/S1531426X23000249sup001.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      }
     ],
     "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/11_espectro_ideologico_didatico.md",
     "atualizado_em": "2026-10-21"
@@ -56,20 +98,63 @@
     "termo": "Comunismo",
     "slug": "comunismo",
     "categoria": "ideologia",
-    "definicao_simples": "Doutrina de Marx e Engels (1848) cuja fórmula única é a 'supressão da propriedade privada' burguesa, com centralização do crédito num banco estatal monopolista; na prática histórica (URSS, China, Cuba), propriedade pública dos meios de produção e partido único.",
-    "definicao_completa_md": "O Manifesto do Partido Comunista (cap. II) diz que 'o que distingue o comunismo não é a abolição da propriedade em geral, mas a abolição da propriedade burguesa' e que os comunistas podem condensar sua teoria numa expressão: 'supressão da propriedade privada'. As 10 medidas listadas incluem expropriação da propriedade fundiária, imposto progressivo pesado, abolição da herança, centralização do crédito num banco nacional estatal com monopólio exclusivo, centralização dos transportes, multiplicação de fábricas nacionais, trabalho obrigatório e educação pública gratuita. Na Crítica ao Programa de Gotha, Marx descreve duas fases: uma transicional (cada um recebe conforme contribui) e uma final (capacidades/necessidades). Na prática, a Constituição de Cuba (2019, art. 18 e 22) define a economia como socialista baseada na propriedade de todo o povo sobre os meios fundamentais de produção, com planificação e o Partido Comunista como 'força dirigente superior'; a Constituição da China (art. 6) coloca a propriedade pública socialista dos meios de produção como 'base' do sistema.",
-    "exemplos_historicos": ["URSS", "China (Constituição, art. 6; emenda de 1999)", "Cuba (Constituição de 2019, aprovada em referendo com 86,85%)"],
-    "o_que_nao_e": "Não é sinônimo de programas de transferência de renda, salário mínimo ou saúde pública: pela Stanford Encyclopedia of Philosophy, esses são 'elementos socialistas' de um híbrido capitalista, não comunismo.",
+    "definicao_simples": "Doutrina de Marx e Engels (1848) cuja fórmula única é a 'supressão da propriedade privada' burguesa; na prática constitucional de Cuba e China, o que define o sistema é a propriedade pública dos meios de produção como 'base' e a direção do Partido Comunista inscrita na Constituição — não a abolição literal de toda propriedade privada.",
+    "definicao_completa_md": "O Manifesto do Partido Comunista (cap. II) diz que 'o que distingue o comunismo não é a abolição da propriedade em geral, mas a abolição da propriedade burguesa' e que os comunistas podem condensar sua teoria numa expressão: 'supressão da propriedade privada'. As 10 medidas listadas incluem expropriação da propriedade fundiária, imposto progressivo pesado, abolição da herança, centralização do crédito num banco nacional estatal com monopólio exclusivo, centralização dos transportes, multiplicação de fábricas nacionais, trabalho obrigatório e educação pública gratuita. Na Crítica ao Programa de Gotha, Marx descreve duas fases: uma transicional (cada um recebe conforme contribui) e uma final (capacidades/necessidades). Na prática, a Constituição de Cuba (2019, art. 18 e 22) define a economia como socialista baseada na propriedade de todo o povo sobre os meios fundamentais de produção, com planificação e o Partido Comunista como 'força dirigente superior'; a Constituição da China (art. 6) coloca a propriedade pública socialista dos meios de produção como 'base' do sistema.\n\n**Nuance constitucional (rodada 2):** a Constituição da China (art. 13) declara que 'a propriedade privada legal dos cidadãos é inviolável' e o art. 15 registra uma 'economia socialista de mercado'; a de Cuba (art. 22) reconhece a propriedade privada com 'papel complementar na economia' e o art. 28 'promove e garante o investimento estrangeiro'. O traço comum a ambas é (a) a propriedade pública como base do sistema (China art. 6 e 7; Cuba art. 18 e 19, com planificação socialista como componente central) e (b) a liderança do Partido Comunista inscrita na Constituição (China art. 1: 'característica definidora do socialismo com características chinesas'; Cuba art. 5: 'força dirigente superior da sociedade e do Estado'). A Venezuela não tem nenhum dos dois na letra constitucional (art. 112 garante a livre iniciativa; art. 115 garante o direito de propriedade). O Brasil não tem nenhum dos dois.",
+    "exemplos_historicos": [
+      "URSS",
+      "China (Constituição, art. 6; emenda de 1999)",
+      "Cuba (Constituição de 2019, aprovada em referendo com 86,85%)"
+    ],
+    "o_que_nao_e": "Não é sinônimo de programas de transferência de renda, salário mínimo ou saúde pública (SEP: 'elementos socialistas' de um híbrido capitalista); e o teste 'há propriedade privada?' é insuficiente, pois China e Cuba a reconhecem na Constituição.",
     "criterios_academicos": [
-      "Abolição (ou programa de abolição) da propriedade privada dos meios de produção (Marx).",
-      "Centralização do crédito num banco estatal monopolista (Manifesto, cap. II).",
-      "Partido único como força dirigente do Estado (Cuba, art. 5; China)."
+      "Programa de supressão da propriedade privada burguesa dos meios de produção (Marx, Manifesto, cap. II).",
+      "Propriedade pública dos meios de produção como base do sistema econômico (Cuba art. 18; China art. 6–7).",
+      "Direção do Partido Comunista inscrita na Constituição (Cuba art. 5; China art. 1).",
+      "Não é critério suficiente a mera existência de propriedade privada: China (art. 13) e Cuba (art. 22) a reconhecem."
     ],
     "fontes": [
-      { "nome": "Manifesto do Partido Comunista, cap. II (marxists.org)", "url": "https://www.marxists.org/portugues/marx/1848/ManifestoDoPartidoComunista/cap2.htm", "acesso_em": "2026-10-21", "tier": "academico" },
-      { "nome": "Stanford Encyclopedia of Philosophy: Socialism", "url": "https://plato.stanford.edu/entries/socialism/", "acesso_em": "2026-10-21", "tier": "academico" },
-      { "nome": "Revista Universidad Sergio Arboleda (Constituição de Cuba 2019)", "url": "https://revistas.usergioarboleda.edu.co/index.php/fc_divul/article/download/2078/1524", "acesso_em": "2026-10-21", "tier": "academico" },
-      { "nome": "CECC: 1999 Amendment to the PRC Constitution", "url": "https://cecc.gov/resources/legal-provisions/1999-amendment-to-the-constitution-of-the-peoples-republic-of-china", "acesso_em": "2026-10-21", "tier": "oficial" }
+      {
+        "nome": "Manifesto do Partido Comunista, cap. II (marxists.org)",
+        "url": "https://www.marxists.org/portugues/marx/1848/ManifestoDoPartidoComunista/cap2.htm",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      {
+        "nome": "Stanford Encyclopedia of Philosophy: Socialism",
+        "url": "https://plato.stanford.edu/entries/socialism/",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      {
+        "nome": "Revista Universidad Sergio Arboleda (Constituição de Cuba 2019)",
+        "url": "https://revistas.usergioarboleda.edu.co/index.php/fc_divul/article/download/2078/1524",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      {
+        "nome": "CECC: 1999 Amendment to the PRC Constitution",
+        "url": "https://cecc.gov/resources/legal-provisions/1999-amendment-to-the-constitution-of-the-peoples-republic-of-china",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      {
+        "nome": "Constitute Project: Constituição de Cuba (2019)",
+        "url": "https://www.constituteproject.org/constitution/Cuba_2019",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      {
+        "nome": "Constitute Project: Constituição da China (1982, rev. 2018)",
+        "url": "https://www.constituteproject.org/constitution/China_2018",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      {
+        "nome": "Constitute Project: Constituição da Venezuela (1999, rev. 2009)",
+        "url": "https://www.constituteproject.org/constitution/Venezuela_2009",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
     ],
     "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/11_espectro_ideologico_didatico.md",
     "atualizado_em": "2026-10-21"
@@ -80,11 +165,40 @@
     "categoria": "ideologia",
     "definicao_simples": "Sistema em que 'o grosso dos meios de produção está sob controle social e democrático'; um Estado que dirige a economia sem controle democrático é 'estatismo, não socialismo' (SEP).",
     "definicao_completa_md": "A Stanford Encyclopedia of Philosophy exige, no mínimo, que a maior parte dos meios de produção esteja sob controle social e democrático. Distingue três estratégias: 'esmagar o capitalismo' (socialismo revolucionário, que no século XX 'terminou em estatismo autoritário em vez de socialismo'), 'domar o capitalismo' (social-democracia) e socialismo de mercado (mantém mercados sem classe capitalista separada). Economias de mercado com Estado de bem-estar são híbridos com 'alguns elementos socialistas', mantendo a propriedade privada dos meios de produção.",
-    "exemplos_historicos": ["Socialismo revolucionário do século XX (SEP: terminou em estatismo autoritário)", "Social-democracias europeias como estratégia de 'domar o capitalismo'"],
+    "exemplos_historicos": [
+      "Socialismo revolucionário do século XX (SEP: terminou em estatismo autoritário)",
+      "Social-democracias europeias como estratégia de 'domar o capitalismo'",
+      "Comparação quantitativa (rodada 2): carga tributária Brasil 33,7% do PIB (2024) x média OCDE 34,1%; consumo final do governo Brasil 18,8% x Suécia 26,6%, Cuba 24,8%, França 24,2%; Gini Brasil 50,3 x Suécia 29,3, Alemanha 33,7, Uruguai 40,0"
+    ],
     "o_que_nao_e": "Não é qualquer política social: pela SEP, 'nenhum desses mecanismos [de bem-estar], por si só, tornaria uma sociedade socialista em vez de capitalista'.",
-    "criterios_academicos": ["Controle social e democrático da maior parte dos meios de produção (SEP)."],
+    "criterios_academicos": [
+      "Controle social e democrático da maior parte dos meios de produção (SEP)."
+    ],
     "fontes": [
-      { "nome": "Stanford Encyclopedia of Philosophy: Socialism", "url": "https://plato.stanford.edu/entries/socialism/", "acesso_em": "2026-10-21", "tier": "academico" }
+      {
+        "nome": "Stanford Encyclopedia of Philosophy: Socialism",
+        "url": "https://plato.stanford.edu/entries/socialism/",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      {
+        "nome": "OCDE/CEPAL/BID/CIAT, Revenue Statistics in Latin America and the Caribbean 2026 (brochura, PDF)",
+        "url": "https://oecd.org/content/dam/oecd/en/topics/policy-sub-issues/global-tax-revenues/brochure-revenue-statistics-latin-america-and-caribbean.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "multilateral"
+      },
+      {
+        "nome": "Banco Mundial, API, indicador SI.POV.GINI",
+        "url": "https://api.worldbank.org/v2/country/BRA;SWE;DEU;PRT;ESP;DNK;NOR;FRA;CHL;URY;ARG;COL;MEX;VEN;CUB;CHN;USA/indicator/SI.POV.GINI?date=2015:2024&format=json&per_page=500",
+        "acesso_em": "2026-10-21",
+        "tier": "multilateral"
+      },
+      {
+        "nome": "Banco Mundial, API, indicador NE.CON.GOVT.ZS (consumo final do governo geral)",
+        "url": "https://api.worldbank.org/v2/country/BRA;SWE;DEU;PRT;ESP;DNK;NOR;FRA;CHL;URY;ARG;COL;MEX;VEN;CUB;CHN;USA/indicator/NE.CON.GOVT.ZS?date=2015:2024&format=json&per_page=500",
+        "acesso_em": "2026-10-21",
+        "tier": "multilateral"
+      }
     ],
     "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/11_espectro_ideologico_didatico.md",
     "atualizado_em": "2026-10-21"
@@ -95,11 +209,20 @@
     "categoria": "ideologia",
     "definicao_simples": "Direção da economia pelo Estado sem controle democrático dos participantes da vida econômica; para a SEP, é 'alguma forma de estatismo, não socialismo'.",
     "definicao_completa_md": "Termo usado pela Stanford Encyclopedia of Philosophy para separar o controle estatal autoritário da economia do socialismo propriamente dito, que exige controle democrático. O socialismo revolucionário do século XX, segundo a SEP, 'terminou em estatismo autoritário'.",
-    "exemplos_historicos": ["Regimes de partido único do século XX (classificação da SEP)"],
+    "exemplos_historicos": [
+      "Regimes de partido único do século XX (classificação da SEP)"
+    ],
     "o_que_nao_e": "Não equivale a socialismo nem a social-democracia.",
-    "criterios_academicos": ["Controle estatal da economia sem controle democrático (SEP)."],
+    "criterios_academicos": [
+      "Controle estatal da economia sem controle democrático (SEP)."
+    ],
     "fontes": [
-      { "nome": "Stanford Encyclopedia of Philosophy: Socialism", "url": "https://plato.stanford.edu/entries/socialism/", "acesso_em": "2026-10-21", "tier": "academico" }
+      {
+        "nome": "Stanford Encyclopedia of Philosophy: Socialism",
+        "url": "https://plato.stanford.edu/entries/socialism/",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      }
     ],
     "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/11_espectro_ideologico_didatico.md",
     "atualizado_em": "2026-10-21"
@@ -110,33 +233,81 @@
     "categoria": "ideologia",
     "definicao_simples": "Via reformista e eleitoral para ampliar o controle democrático da economia; é a autodefinição programática do PT no manifesto do 8º Congresso (abril/2026): 'horizonte programático o socialismo democrático'.",
     "definicao_completa_md": "Na tipologia da SEP corresponde à via reformista/democrática, não à revolucionária. O manifesto final do 8º Congresso Nacional do PT (encerrado em 26/04/2026) define 'objetivos estratégicos claros — tendo como horizonte programático o socialismo democrático'; o Poder360 registra que o texto 'traz acenos ao centro político'. Desde a Carta ao Povo Brasileiro (22/06/2002) o partido compromete-se com respeito a contratos, superávit primário e controle da inflação. O PSOL nasceu em 2004 como cisão do PT 'em protesto contra a moderação do PT durante o primeiro governo Lula'.",
-    "exemplos_historicos": ["Manifesto do 8º Congresso do PT (26/04/2026)", "Carta ao Povo Brasileiro (22/06/2002)"],
+    "exemplos_historicos": [
+      "Manifesto do 8º Congresso do PT (26/04/2026)",
+      "Carta ao Povo Brasileiro (22/06/2002)"
+    ],
     "o_que_nao_e": "Não é comunismo nem socialismo revolucionário: não propõe abolir a propriedade privada nem o pluripartidarismo.",
-    "criterios_academicos": ["Via eleitoral/reformista para controle democrático da economia (SEP)."],
+    "criterios_academicos": [
+      "Via eleitoral/reformista para controle democrático da economia (SEP)."
+    ],
     "fontes": [
-      { "nome": "Stanford Encyclopedia of Philosophy: Socialism", "url": "https://plato.stanford.edu/entries/socialism/", "acesso_em": "2026-10-21", "tier": "academico" },
-      { "nome": "Poder360, manifesto final do 8º Congresso do PT (27/04/2026)", "url": "https://www.poder360.com.br/poder-eleicoes/leia-o-manifesto-final-do-8o-congresso-nacional-do-pt/", "acesso_em": "2026-10-21", "tier": "imprensa" },
-      { "nome": "Congresso em Foco, íntegra da Carta ao Povo Brasileiro", "url": "https://www.congressoemfoco.com.br/noticias/lula-quer-fazer-nova-carta-aos-brasileiros-veja-a-integra-da-primeira/", "acesso_em": "2026-10-21", "tier": "imprensa" }
+      {
+        "nome": "Stanford Encyclopedia of Philosophy: Socialism",
+        "url": "https://plato.stanford.edu/entries/socialism/",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      {
+        "nome": "Poder360, manifesto final do 8º Congresso do PT (27/04/2026)",
+        "url": "https://www.poder360.com.br/poder-eleicoes/leia-o-manifesto-final-do-8o-congresso-nacional-do-pt/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      {
+        "nome": "Congresso em Foco, íntegra da Carta ao Povo Brasileiro",
+        "url": "https://www.congressoemfoco.com.br/noticias/lula-quer-fazer-nova-carta-aos-brasileiros-veja-a-integra-da-primeira/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
     ],
     "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/11_espectro_ideologico_didatico.md",
     "atualizado_em": "2026-10-21",
-    "lacunas": ["PDF do programa partidário do 8º Congresso e estatuto vigente do PT não acessados (403); citações via Poder360 e pt.org.br."]
+    "lacunas": [
+      "PDF do programa partidário do 8º Congresso e estatuto vigente do PT não acessados (403); citações via Poder360 e pt.org.br."
+    ]
   },
   {
     "termo": "Social-democracia",
     "slug": "social-democracia",
     "categoria": "ideologia",
     "definicao_simples": "Estratégia de 'domar o capitalismo' por governos eleitos, com seguro social e bens públicos, mantendo a propriedade privada dos meios de produção.",
-    "definicao_completa_md": "Para a SEP, a social-democracia atua via governos eleitos para neutralizar os piores danos do capitalismo com seguro social e bens públicos. O Estado de bem-estar resultante é um híbrido capitalista com 'elementos socialistas', não socialismo; a SEP observa seu declínio desde os anos 1980. O padrão de políticas regra fiscal + Banco Central autônomo + concessões + transferência de renda + imposto sobre alta renda é, pela nota, o padrão social-democrata.",
-    "exemplos_historicos": ["Social-democracias europeias do pós-guerra (SEP)"],
+    "definicao_completa_md": "Para a SEP, a social-democracia atua via governos eleitos para neutralizar os piores danos do capitalismo com seguro social e bens públicos. O Estado de bem-estar resultante é um híbrido capitalista com 'elementos socialistas', não socialismo; a SEP observa seu declínio desde os anos 1980. O padrão de políticas regra fiscal + Banco Central autônomo + concessões + transferência de renda + imposto sobre alta renda é, pela nota, o padrão social-democrata.\n\n**Comparação quantitativa (rodada 2):** carga tributária total 2024 — Brasil 33,7% do PIB (maior da América Latina), média OCDE 34,1%, Argentina 27,6, Uruguai 27,3, Cuba 22,9, Chile 20,5, México 18,3; consumo final do governo geral 2024 — Suécia 26,6, Cuba 24,8, França 24,2, Dinamarca 23,0, Alemanha 22,0, Espanha 19,3, Brasil 18,8, Portugal 16,8, China 16,7; Gini (último ano) — Brasil 50,3 (2024), Colômbia 54,4, Chile 43,0, Uruguai 40,0, China 36,0, Portugal 33,9, Alemanha 33,7, Suécia 29,3, Noruega 26,5. Leitura da nota: o Brasil tem carga de nível europeu e Estado (consumo) abaixo das social-democracias, mas desigualdade muito acima; o que o diferencia é o resultado distributivo, não o tamanho do Estado.",
+    "exemplos_historicos": [
+      "Social-democracias europeias do pós-guerra (SEP)"
+    ],
     "o_que_nao_e": "Não é comunismo: preserva propriedade privada, mercados e eleições competitivas.",
-    "criterios_academicos": ["Governo eleito; seguro social e bens públicos; propriedade privada mantida (SEP)."],
+    "criterios_academicos": [
+      "Governo eleito; seguro social e bens públicos; propriedade privada mantida (SEP)."
+    ],
     "fontes": [
-      { "nome": "Stanford Encyclopedia of Philosophy: Socialism", "url": "https://plato.stanford.edu/entries/socialism/", "acesso_em": "2026-10-21", "tier": "academico" }
+      {
+        "nome": "Stanford Encyclopedia of Philosophy: Socialism",
+        "url": "https://plato.stanford.edu/entries/socialism/",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      {
+        "nome": "OCDE/CEPAL/BID/CIAT, Revenue Statistics in Latin America and the Caribbean 2026 (brochura, PDF)",
+        "url": "https://oecd.org/content/dam/oecd/en/topics/policy-sub-issues/global-tax-revenues/brochure-revenue-statistics-latin-america-and-caribbean.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "multilateral"
+      },
+      {
+        "nome": "Banco Mundial, API, indicador SI.POV.GINI",
+        "url": "https://api.worldbank.org/v2/country/BRA;SWE;DEU;PRT;ESP;DNK;NOR;FRA;CHL;URY;ARG;COL;MEX;VEN;CUB;CHN;USA/indicator/SI.POV.GINI?date=2015:2024&format=json&per_page=500",
+        "acesso_em": "2026-10-21",
+        "tier": "multilateral"
+      },
+      {
+        "nome": "Banco Mundial, API, indicador NE.CON.GOVT.ZS (consumo final do governo geral)",
+        "url": "https://api.worldbank.org/v2/country/BRA;SWE;DEU;PRT;ESP;DNK;NOR;FRA;CHL;URY;ARG;COL;MEX;VEN;CUB;CHN;USA/indicator/NE.CON.GOVT.ZS?date=2015:2024&format=json&per_page=500",
+        "acesso_em": "2026-10-21",
+        "tier": "multilateral"
+      }
     ],
     "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/11_espectro_ideologico_didatico.md",
-    "atualizado_em": "2026-10-21",
-    "lacunas": ["Não há nas notas comparação quantitativa (gasto social/PIB) entre Brasil e social-democracias europeias."]
+    "atualizado_em": "2026-10-21"
   },
   {
     "termo": "Estado de bem-estar social",
@@ -144,11 +315,20 @@
     "categoria": "ideologia",
     "definicao_simples": "Economia de mercado em que o Estado garante seguro social e bens públicos (saúde, educação, previdência); pela SEP, um híbrido capitalista com 'alguns elementos socialistas'.",
     "definicao_completa_md": "A SEP afirma que 'nenhum desses mecanismos, por si só, tornaria uma sociedade socialista em vez de capitalista': economias de mercado com welfare state mantêm a propriedade privada dos meios de produção. Vale igualmente para Suécia, Alemanha ou Brasil.",
-    "exemplos_historicos": ["Suécia, Alemanha (exemplos citados na nota como híbridos)"],
+    "exemplos_historicos": [
+      "Suécia, Alemanha (exemplos citados na nota como híbridos)"
+    ],
     "o_que_nao_e": "Não é socialismo nem comunismo.",
-    "criterios_academicos": ["Propriedade privada dos meios de produção + seguro social e bens públicos (SEP)."],
+    "criterios_academicos": [
+      "Propriedade privada dos meios de produção + seguro social e bens públicos (SEP)."
+    ],
     "fontes": [
-      { "nome": "Stanford Encyclopedia of Philosophy: Socialism", "url": "https://plato.stanford.edu/entries/socialism/", "acesso_em": "2026-10-21", "tier": "academico" }
+      {
+        "nome": "Stanford Encyclopedia of Philosophy: Socialism",
+        "url": "https://plato.stanford.edu/entries/socialism/",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      }
     ],
     "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/11_espectro_ideologico_didatico.md",
     "atualizado_em": "2026-10-21"
@@ -158,84 +338,202 @@
     "slug": "trabalhismo",
     "categoria": "ideologia",
     "definicao_simples": "Tradição de partidos ligados ao movimento sindical (ex.: PTB histórico de Vargas, PDT de Brizola); no Brasil, o PDT mede -0,356 na BLS 2021 (centro-esquerda).",
-    "definicao_completa_md": "Definição de trabalho (síntese do redator da nota): tradição política ligada ao movimento sindical e a direitos do trabalho. No Brasil está associada ao PTB histórico de Getúlio Vargas e ao PDT de Leonel Brizola. Na BLS 2021 o PDT aparece em -0,356 (centro-esquerda) e o PTB atual em +0,455 (direita), mostrando que a sigla PTB atual não mantém a posição do trabalhismo histórico.",
-    "exemplos_historicos": ["PTB de Vargas", "PDT de Brizola"],
+    "definicao_completa_md": "Definição de trabalho (síntese do redator da nota): tradição política ligada ao movimento sindical e a direitos do trabalho. No Brasil está associada ao PTB histórico de Getúlio Vargas e ao PDT de Leonel Brizola. Na BLS 2021 o PDT aparece em -0,356 (centro-esquerda) e o PTB atual em +0,455 (direita), mostrando que a sigla PTB atual não mantém a posição do trabalhismo histórico.\n\nOutras réguas: o PDT mede 1,92 no eixo econômico do V-Party 2018 (centro-esquerda) e 6,66/20 na PREPPS 2018–19 (DP 2,99; n 115); o PTB, 3,88 (2014) e 13,88/20.",
+    "exemplos_historicos": [
+      "PTB de Vargas",
+      "PDT de Brizola"
+    ],
     "o_que_nao_e": "Não é o mesmo que o PTB atual, posicionado à direita (+0,455) na BLS 2021.",
-    "criterios_academicos": ["Sem fonte conceitual acadêmica fetchada; definição de trabalho (síntese)."],
+    "criterios_academicos": [
+      "Sem fonte conceitual acadêmica fetchada; definição de trabalho (síntese)."
+    ],
     "fontes": [
-      { "nome": "Zucco & Power, material suplementar (LAPS, DOI 10.1017/lap.2023.24)", "url": "https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S1531426X23000249/resource/name/S1531426X23000249sup001.pdf", "acesso_em": "2026-10-21", "tier": "academico" }
+      {
+        "nome": "Zucco & Power, material suplementar (LAPS, DOI 10.1017/lap.2023.24)",
+        "url": "https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S1531426X23000249/resource/name/S1531426X23000249sup001.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      {
+        "nome": "V-Party Dataset v2 (V-Dem), via pacote vdemdata",
+        "url": "https://raw.githubusercontent.com/vdeminstitute/vdemdata/master/data/vparty.RData",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      {
+        "nome": "PREPPS Latam V2 (Harvard Dataverse, DOI 10.7910/DVN/JLOYIJ), dados TSV",
+        "url": "https://dataverse.harvard.edu/api/access/datafile/4372420",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      }
     ],
     "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/11_espectro_ideologico_didatico.md",
     "atualizado_em": "2026-10-21",
-    "lacunas": ["Verbete marcado na nota como síntese sem fonte conceitual; tratar como definição de trabalho."]
+    "lacunas": [
+      "Verbete marcado na nota como síntese sem fonte conceitual; tratar como definição de trabalho."
+    ]
   },
   {
     "termo": "Liberalismo econômico",
     "slug": "liberalismo-economico",
     "categoria": "ideologia",
     "definicao_simples": "Defesa de mercados livres, menos Estado, privatizações e impostos baixos; no Brasil associado a Paulo Guedes e ao partido Novo (+0,711 na BLS 2021).",
-    "definicao_completa_md": "Síntese: corrente que prioriza a iniciativa privada e a redução do papel do Estado na economia. Flávio Bolsonaro afirmou (Irmãos Dias Podcast) que manterá como referência a política econômica liberal de Paulo Guedes: desburocratização, estímulo à iniciativa privada e redução do papel do Estado; seu programa de 2026 prevê corte de pelo menos 10 ministérios e retomada do Programa Nacional de Desestatização. O partido Novo aparece em +0,711 na BLS 2021.",
-    "exemplos_historicos": ["Agenda Paulo Guedes (2019–2022)", "Partido Novo"],
+    "definicao_completa_md": "Síntese: corrente que prioriza a iniciativa privada e a redução do papel do Estado na economia. Flávio Bolsonaro afirmou (Irmãos Dias Podcast) que manterá como referência a política econômica liberal de Paulo Guedes: desburocratização, estímulo à iniciativa privada e redução do papel do Estado; seu programa de 2026 prevê corte de pelo menos 10 ministérios e retomada do Programa Nacional de Desestatização. O partido Novo aparece em +0,711 na BLS 2021.\n\n**SEP (Liberalism, §2.1):** 'Para os liberais clássicos — os \"velhos\" liberais — liberdade e propriedade privada estão intimamente relacionadas'; o liberalismo 'parte da premissa de que a autoridade política precisa ser justificada' (§1.1). No V-Party, a posição econômica (0 = extrema esquerda, 6 = extrema direita) mede exatamente esse eixo: PSL 2018 = 5,37; PP 4,79; DEM 4,59; PL/PR 4,44; PSDB 4,20; MDB 3,66; PT 1,39.",
+    "exemplos_historicos": [
+      "Agenda Paulo Guedes (2019–2022)",
+      "Partido Novo"
+    ],
     "o_que_nao_e": "Não implica posição liberal nos costumes: a literatura separa o eixo econômico do eixo social/autoritário.",
-    "criterios_academicos": ["Eixo econômico Estado × mercado (síntese; ver SEP 'Liberalism')."],
+    "criterios_academicos": [
+      "Liberdade ligada à propriedade privada e à ordem de mercado (SEP, Liberalism §2.1).",
+      "Eixo econômico V-Party (v2pariglef): menos impostos, menos regulação, menos gasto e welfare mais enxuto = direita econômica."
+    ],
     "fontes": [
-      { "nome": "InfoMoney (Flávio Bolsonaro e a política econômica de Paulo Guedes)", "url": "https://www.infomoney.com.br/?p=3138155", "acesso_em": "2026-10-21", "tier": "imprensa" },
-      { "nome": "Zucco & Power, material suplementar (LAPS, DOI 10.1017/lap.2023.24)", "url": "https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S1531426X23000249/resource/name/S1531426X23000249sup001.pdf", "acesso_em": "2026-10-21", "tier": "academico" }
+      {
+        "nome": "InfoMoney (Flávio Bolsonaro e a política econômica de Paulo Guedes)",
+        "url": "https://www.infomoney.com.br/?p=3138155",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      {
+        "nome": "Zucco & Power, material suplementar (LAPS, DOI 10.1017/lap.2023.24)",
+        "url": "https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S1531426X23000249/resource/name/S1531426X23000249sup001.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      {
+        "nome": "Stanford Encyclopedia of Philosophy: Liberalism (Courtland, Gaus & Schmidtz; publicado 28/11/1996, revisão substantiva 25/02/2026)",
+        "url": "https://plato.stanford.edu/entries/liberalism/",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      {
+        "nome": "V-Party Dataset v2 (V-Dem), via pacote vdemdata",
+        "url": "https://raw.githubusercontent.com/vdeminstitute/vdemdata/master/data/vparty.RData",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      {
+        "nome": "Codebook V-Party v2 (PDF)",
+        "url": "https://www.v-dem.net/documents/6/vparty_codebook_v2.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      }
     ],
     "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/11_espectro_ideologico_didatico.md",
-    "atualizado_em": "2026-10-21",
-    "lacunas": ["Definição conceitual é síntese da nota; verbete SEP 'Liberalism' não fetchado."]
+    "atualizado_em": "2026-10-21"
   },
   {
     "termo": "Liberalismo social",
     "slug": "liberalismo-social",
     "categoria": "ideologia",
-    "definicao_simples": "Defesa de liberdades civis e direitos individuais combinada com aceitação de intervenção estatal para garantir igualdade de oportunidades ('liberalismo' no sentido norte-americano).",
-    "definicao_completa_md": "Síntese da nota, com indicação do verbete 'Liberalism' da Stanford Encyclopedia of Philosophy para aprofundamento. Distingue-se do liberalismo econômico por aceitar o Estado como garantidor de oportunidades. O PL original (1985) baseava-se no 'liberalismo social', mas afastou-se desses princípios por alianças estratégicas e práticas clientelistas sob Valdemar Costa Neto, segundo dissertação acadêmica.",
-    "exemplos_historicos": ["PL de Álvaro Valle (1985), segundo a fonte acadêmica citada"],
+    "definicao_simples": "O 'novo' liberalismo (SEP: 'new', 'revisionist', 'welfare state' ou 'social justice' liberalism): defende liberdades civis e direitos individuais e questiona a ligação íntima entre liberdade pessoal e ordem de mercado baseada em propriedade privada, aceitando intervenção estatal por igualdade de oportunidades.",
+    "definicao_completa_md": "Pela Stanford Encyclopedia of Philosophy (verbete Liberalism, de Courtland, Gaus & Schmidtz, revisado em 25/02/2026), o liberalismo 'parte da premissa de que a autoridade política precisa ser justificada' (§1.1; Cranston: 'um liberal é um homem que acredita na liberdade'). O §2.1 define o liberalismo clássico pela ligação entre liberdade e propriedade privada; o §2.2 define o 'novo' liberalismo — também chamado 'revisionist', 'welfare state' ou 'social justice' liberalism — como o que 'desafia essa conexão íntima entre liberdade pessoal e uma ordem de mercado baseada em propriedade privada'. O PL original (1985) baseava-se no 'liberalismo social', mas afastou-se desses princípios por alianças estratégicas e práticas clientelistas sob Valdemar Costa Neto, segundo dissertação acadêmica.",
+    "exemplos_historicos": [
+      "PL de Álvaro Valle (1985), segundo a fonte acadêmica citada"
+    ],
     "o_que_nao_e": "Não é liberalismo econômico nem libertarianismo.",
-    "criterios_academicos": ["Liberdades civis + intervenção estatal por igualdade de oportunidades (síntese; ver SEP 'Liberalism')."],
+    "criterios_academicos": [
+      "Autoridade política precisa ser justificada (SEP §1.1).",
+      "Questiona a ligação entre liberdade e propriedade privada; aceita Estado de bem-estar (SEP §2.2)."
+    ],
     "fontes": [
-      { "nome": "Stanford Encyclopedia of Philosophy: Liberalism (indicado, não fetchado)", "url": "https://plato.stanford.edu/entries/liberalism/", "acesso_em": "2026-10-21", "tier": "academico" },
-      { "nome": "eduCAPES (dissertação sobre o PL)", "url": "https://educapes.capes.gov.br/handle/11449/259556?mode=full", "acesso_em": "2026-10-21", "tier": "academico" }
+      {
+        "nome": "Stanford Encyclopedia of Philosophy: Liberalism (indicado, não fetchado)",
+        "url": "https://plato.stanford.edu/entries/liberalism/",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      {
+        "nome": "eduCAPES (dissertação sobre o PL)",
+        "url": "https://educapes.capes.gov.br/handle/11449/259556?mode=full",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      {
+        "nome": "Stanford Encyclopedia of Philosophy: Liberalism (Courtland, Gaus & Schmidtz; publicado 28/11/1996, revisão substantiva 25/02/2026)",
+        "url": "https://plato.stanford.edu/entries/liberalism/",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      }
     ],
     "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/11_espectro_ideologico_didatico.md",
-    "atualizado_em": "2026-10-21",
-    "lacunas": ["Verbete SEP não fetchado; definição de trabalho."]
+    "atualizado_em": "2026-10-21"
   },
   {
     "termo": "Conservadorismo",
     "slug": "conservadorismo",
     "categoria": "ideologia",
-    "definicao_simples": "Valorização da tradição, da família, da religião e da ordem; desconfiança de mudanças rápidas.",
-    "definicao_completa_md": "Síntese da nota, com indicação do verbete 'Conservatism' da SEP. No Brasil, cientista política citada pelo Jornal de Brasília afirma que 'conservadorismo fala mais alto que liberais na base de Bolsonaro'. Análise de opinião descreve Flávio Bolsonaro como orientado por 'conservadorismo britânico': valores conservadores nos costumes e princípios liberais na economia.",
-    "exemplos_historicos": ["Base eleitoral de Bolsonaro em 2018 (Zanotti, Rama & Tanscheit: evangélicos, favoráveis a 'mão dura')"],
-    "o_que_nao_e": "Não é sinônimo de extrema direita: conservadores podem aceitar plenamente a democracia liberal.",
-    "criterios_academicos": ["Tradição, ordem, família e religião; resistência a mudanças rápidas (síntese; ver SEP 'Conservatism')."],
+    "definicao_simples": "Abordagem que 'desconfia tanto do raciocínio a priori quanto da revolução' e vê as tradições 'em fluxo suave e gradual' (SEP); valoriza tradição, família, religião e ordem. A SEP ressalta: 'é a reação, e não o conservadorismo, que é inerentemente autoritária'.",
+    "definicao_completa_md": "Pela Stanford Encyclopedia of Philosophy (verbete Conservatism, revisado em 18/07/2025), o conservadorismo 'desconfia tanto do raciocínio a priori quanto da revolução' e 'repousa sobre o que se pode chamar ceticismo particularista quanto a princípios racionais abstratos' (§1.2); as tradições são vistas 'não como estáticas, mas em fluxo suave e gradual' (§1.3). Distinção crucial para o debate brasileiro: 'é a reação, e não o conservadorismo, que é inerentemente autoritária' (§1.3), e o conservadorismo 'não é reação dogmática nem o radicalismo de direita' de Thatcher ou dos neoconservadores (Introdução). No Brasil, cientista política citada pelo Jornal de Brasília afirma que 'conservadorismo fala mais alto que liberais na base de Bolsonaro'; análise de opinião descreve Flávio Bolsonaro como orientado por 'conservadorismo britânico'.",
+    "exemplos_historicos": [
+      "Base eleitoral de Bolsonaro em 2018 (Zanotti, Rama & Tanscheit: evangélicos, favoráveis a 'mão dura')"
+    ],
+    "o_que_nao_e": "Não é sinônimo de extrema direita nem de reação: pela SEP, o conservadorismo burkeano é reformista e cético, e a reação é que é inerentemente autoritária.",
+    "criterios_academicos": [
+      "Ceticismo quanto a princípios abstratos e à revolução (SEP §1.2).",
+      "Tradição em mudança gradual, não estática (SEP §1.3).",
+      "Distinto da reação (autoritária) e do radicalismo de direita (SEP Introdução e §1.3)."
+    ],
     "fontes": [
-      { "nome": "Stanford Encyclopedia of Philosophy: Conservatism (indicado, não fetchado)", "url": "https://plato.stanford.edu/entries/conservatism/", "acesso_em": "2026-10-21", "tier": "academico" },
-      { "nome": "Jornal de Brasília (cientista política sobre base de Bolsonaro)", "url": "https://jornaldebrasilia.com.br/noticias/politica-e-poder/conservadorismo-fala-mais-alto-que-liberais-a-base-de-bolsonaro-diz-cientista/", "acesso_em": "2026-10-21", "tier": "imprensa" }
+      {
+        "nome": "Stanford Encyclopedia of Philosophy: Conservatism (indicado, não fetchado)",
+        "url": "https://plato.stanford.edu/entries/conservatism/",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      {
+        "nome": "Jornal de Brasília (cientista política sobre base de Bolsonaro)",
+        "url": "https://jornaldebrasilia.com.br/noticias/politica-e-poder/conservadorismo-fala-mais-alto-que-liberais-a-base-de-bolsonaro-diz-cientista/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      {
+        "nome": "Stanford Encyclopedia of Philosophy: Conservatism (publicado 01/08/2015, revisão substantiva 18/07/2025)",
+        "url": "https://plato.stanford.edu/entries/conservatism/",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      }
     ],
     "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/11_espectro_ideologico_didatico.md",
-    "atualizado_em": "2026-10-21",
-    "lacunas": ["Verbete SEP não fetchado; definição de trabalho."]
+    "atualizado_em": "2026-10-21"
   },
   {
     "termo": "Libertarianismo",
     "slug": "libertarianismo",
     "categoria": "ideologia",
-    "definicao_simples": "Defesa radical da liberdade individual e da propriedade, com Estado mínimo.",
-    "definicao_completa_md": "Síntese da nota, com indicação do verbete 'Libertarianism' da SEP. Camila Rocha descreve a 'nova direita' brasileira como amálgama ultraliberal-conservador surgido em contrapúblicos digitais entre 2006 e 2010 ('Menos Marx, mais Mises').",
-    "exemplos_historicos": ["'Nova direita' ultraliberal brasileira (Camila Rocha, 2021)"],
+    "definicao_simples": "Toma 'a liberdade individual como valor político supremo'; defende ordem econômica baseada em propriedade privada, liberdade de contrato e cooperação voluntária, com Estado restrito a 'fazer valer um sistema de direitos' — o 'Estado mínimo' (SEP).",
+    "definicao_completa_md": "Pela Stanford Encyclopedia of Philosophy (verbete Libertarianism, revisado em 07/08/2023): 'libertários tomam a liberdade individual como o valor político supremo'; defendem 'uma ordem econômica baseada em direitos de propriedade privada, liberdade de contrato e cooperação voluntária'; o papel do Estado é 'fazer valer um sistema de direitos que facilite a cooperação socioeconômica, e pouco mais'; 'autopropriedade é a ideia de que todos os indivíduos têm direitos de propriedade sobre si mesmos' (§1); libertários de esquerda admitem 'um princípio exigindo que os recursos externos sejam igualmente distribuídos entre autoproprietários' (§4); para Nozick, um Estado 'com domínio de atividade estritamente limitado poderia existir sem violar direitos de ninguém' — o Estado mínimo (§5). Camila Rocha descreve a 'nova direita' brasileira como amálgama ultraliberal-conservador surgido em contrapúblicos digitais entre 2006 e 2010.",
+    "exemplos_historicos": [
+      "'Nova direita' ultraliberal brasileira (Camila Rocha, 2021)"
+    ],
     "o_que_nao_e": "Não é conservadorismo: libertários tendem a rejeitar a regulação estatal dos costumes.",
-    "criterios_academicos": ["Estado mínimo; primazia da liberdade individual e da propriedade (síntese; ver SEP 'Libertarianism')."],
+    "criterios_academicos": [
+      "Liberdade individual como valor supremo; autopropriedade (SEP §1).",
+      "Propriedade privada, liberdade de contrato, cooperação voluntária; Estado mínimo (SEP §1, §5)."
+    ],
     "fontes": [
-      { "nome": "Stanford Encyclopedia of Philosophy: Libertarianism (indicado, não fetchado)", "url": "https://plato.stanford.edu/entries/libertarianism/", "acesso_em": "2026-10-21", "tier": "academico" },
-      { "nome": "Teses USP (Camila Rocha)", "url": "https://teses.usp.br/teses/disponiveis/8/8131/tde-19092019-174426/en.php", "acesso_em": "2026-10-21", "tier": "academico" }
+      {
+        "nome": "Stanford Encyclopedia of Philosophy: Libertarianism (indicado, não fetchado)",
+        "url": "https://plato.stanford.edu/entries/libertarianism/",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      {
+        "nome": "Teses USP (Camila Rocha)",
+        "url": "https://teses.usp.br/teses/disponiveis/8/8131/tde-19092019-174426/en.php",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      {
+        "nome": "Stanford Encyclopedia of Philosophy: Libertarianism (publicado 05/09/2002, revisão substantiva 07/08/2023)",
+        "url": "https://plato.stanford.edu/entries/libertarianism/",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      }
     ],
     "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/11_espectro_ideologico_didatico.md",
-    "atualizado_em": "2026-10-21",
-    "lacunas": ["Verbete SEP não fetchado; definição de trabalho."]
+    "atualizado_em": "2026-10-21"
   },
   {
     "termo": "Nacionalismo e nativismo",
@@ -243,11 +541,21 @@
     "categoria": "ideologia",
     "definicao_simples": "Nativismo (Mudde): combinação de nacionalismo e xenofobia segundo a qual o Estado deve ser habitado pelo grupo 'nativo' e elementos não nativos ameaçam a nação homogênea.",
     "definicao_completa_md": "É um dos três traços da direita radical populista de Cas Mudde (2007), ao lado de autoritarismo e populismo. No Brasil, Zanotti, Rama & Tanscheit (2023) mostram que o nativismo bolsonarista aparece como exclusão racial/étnica, não como pauta anti-imigração.",
-    "exemplos_historicos": ["Direita radical populista europeia (Mudde)", "Bolsonarismo (adaptação racial/étnica, segundo Zanotti et al.)"],
+    "exemplos_historicos": [
+      "Direita radical populista europeia (Mudde)",
+      "Bolsonarismo (adaptação racial/étnica, segundo Zanotti et al.)"
+    ],
     "o_que_nao_e": "Não é qualquer defesa da soberania nacional: o nativismo exige a ideia de 'nação homogênea' ameaçada por não nativos.",
-    "criterios_academicos": ["Nacionalismo + xenofobia; Estado habitado exclusivamente pelo grupo nativo (Mudde, 2007)."],
+    "criterios_academicos": [
+      "Nacionalismo + xenofobia; Estado habitado exclusivamente pelo grupo nativo (Mudde, 2007)."
+    ],
     "fontes": [
-      { "nome": "Zanotti, Rama & Tanscheit, Opinião Pública 29(1), 2023 (DOI 10.1590/1807-019120232911)", "url": "https://www.redalyc.org/journal/329/32975189001/", "acesso_em": "2026-10-21", "tier": "academico" }
+      {
+        "nome": "Zanotti, Rama & Tanscheit, Opinião Pública 29(1), 2023 (DOI 10.1590/1807-019120232911)",
+        "url": "https://www.redalyc.org/journal/329/32975189001/",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      }
     ],
     "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/11_espectro_ideologico_didatico.md",
     "atualizado_em": "2026-10-21"
@@ -257,12 +565,34 @@
     "slug": "populismo",
     "categoria": "ideologia",
     "definicao_simples": "Visão do 'povo puro' contra 'elites corruptas'; pode ser de direita (contra elites políticas/culturais e minorias) ou de esquerda (contra elites econômicas).",
-    "definicao_completa_md": "Síntese a partir de Mudde: o populismo é uma ideologia 'fina' que divide a sociedade entre o povo e as elites corruptas. No bolsonarismo, aparece no enquadramento antiestablishment, sobretudo contra o PT (antipetismo), segundo Zanotti, Rama & Tanscheit (2023). Griffin combina populismo com ultranacionalismo e palingenesia na definição do fascismo.",
-    "exemplos_historicos": ["Direita radical populista (Mudde)", "Bolsonarismo (populismo antipetista)"],
+    "definicao_completa_md": "Síntese a partir de Mudde: o populismo é uma ideologia 'fina' que divide a sociedade entre o povo e as elites corruptas. No bolsonarismo, aparece no enquadramento antiestablishment, sobretudo contra o PT (antipetismo), segundo Zanotti, Rama & Tanscheit (2023). Griffin combina populismo com ultranacionalismo e palingenesia na definição do fascismo.\n\nNo V-Party (índice 0–1 = média harmônica de antielitismo e centralidade do povo), em 2018 o PT era o partido mais populista do sistema (antielitismo 3,49/4; índice 0,78) e ao mesmo tempo um dos mais comprometidos com o pluralismo (3,90/4); o PSL combinava populismo moderado (0,35) com o maior antipluralismo (0,95). Populismo e antipluralismo são, portanto, dimensões distintas.",
+    "exemplos_historicos": [
+      "Direita radical populista (Mudde)",
+      "Bolsonarismo (populismo antipetista)"
+    ],
     "o_que_nao_e": "Não é sinônimo de fascismo nem de autoritarismo; é um traço que pode combinar-se com ideologias diferentes.",
-    "criterios_academicos": ["Povo puro × elites corruptas (Mudde, via Zanotti et al. 2023)."],
+    "criterios_academicos": [
+      "Povo puro × elites corruptas (Mudde, via Zanotti et al. 2023)."
+    ],
     "fontes": [
-      { "nome": "Zanotti, Rama & Tanscheit, Opinião Pública 29(1), 2023", "url": "https://www.redalyc.org/journal/329/32975189001/", "acesso_em": "2026-10-21", "tier": "academico" }
+      {
+        "nome": "Zanotti, Rama & Tanscheit, Opinião Pública 29(1), 2023",
+        "url": "https://www.redalyc.org/journal/329/32975189001/",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      {
+        "nome": "V-Party Dataset v2 (V-Dem), via pacote vdemdata",
+        "url": "https://raw.githubusercontent.com/vdeminstitute/vdemdata/master/data/vparty.RData",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      {
+        "nome": "Codebook V-Party v2 (PDF)",
+        "url": "https://www.v-dem.net/documents/6/vparty_codebook_v2.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      }
     ],
     "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/11_espectro_ideologico_didatico.md",
     "atualizado_em": "2026-10-21"
@@ -273,12 +603,26 @@
     "categoria": "ideologia",
     "definicao_simples": "Crença numa sociedade estritamente ordenada em que desafios à autoridade são punidos severamente ('lei e ordem').",
     "definicao_completa_md": "Um dos três traços da direita radical populista de Mudde. No Brasil, Zanotti, Rama & Tanscheit (2023) o identificam em posições de 'lei e ordem', elogio à ditadura militar e conservadorismo moral sobre gênero e LGBTI+. O programa 2026 de Flávio Bolsonaro traz propostas punitivistas (maioridade penal aos 16, castração química, 1 milhão de câmeras de reconhecimento facial), classificadas pela nota como 'socialmente autoritário/punitivista', sem propor regime militar ou suspensão de eleições.",
-    "exemplos_historicos": ["Posições de 'lei e ordem' e elogio à ditadura no bolsonarismo (Zanotti et al.)"],
+    "exemplos_historicos": [
+      "Posições de 'lei e ordem' e elogio à ditadura no bolsonarismo (Zanotti et al.)"
+    ],
     "o_que_nao_e": "Não é o mesmo que regime autoritário: aqui é um traço de atitude/ideologia medido em eleitores e líderes, não uma forma de governo.",
-    "criterios_academicos": ["Sociedade estritamente ordenada; punição severa de desafios à autoridade (Mudde, 2007)."],
+    "criterios_academicos": [
+      "Sociedade estritamente ordenada; punição severa de desafios à autoridade (Mudde, 2007)."
+    ],
     "fontes": [
-      { "nome": "Zanotti, Rama & Tanscheit, Opinião Pública 29(1), 2023", "url": "https://www.redalyc.org/journal/329/32975189001/", "acesso_em": "2026-10-21", "tier": "academico" },
-      { "nome": "Portal Tela, plano de governo de Flávio Bolsonaro (14/08/2026)", "url": "https://www.portaltela.com/politica/2026/08/14/plano-de-governo-de-flavio-bolsonaro-tem-9-eixos-veja-propostas/", "acesso_em": "2026-10-21", "tier": "imprensa" }
+      {
+        "nome": "Zanotti, Rama & Tanscheit, Opinião Pública 29(1), 2023",
+        "url": "https://www.redalyc.org/journal/329/32975189001/",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      {
+        "nome": "Portal Tela, plano de governo de Flávio Bolsonaro (14/08/2026)",
+        "url": "https://www.portaltela.com/politica/2026/08/14/plano-de-governo-de-flavio-bolsonaro-tem-9-eixos-veja-propostas/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
     ],
     "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/11_espectro_ideologico_didatico.md",
     "atualizado_em": "2026-10-21"
@@ -289,33 +633,80 @@
     "categoria": "ideologia",
     "definicao_simples": "Em Cas Mudde, família 'antissistema e hostil à democracia liberal' que se divide em direita radical (aceita eleições e regra da maioria) e direita extrema (rejeita-as).",
     "definicao_completa_md": "Em *The Far Right Today* (2019; ed. bras. EdUERJ 2022, p. 19), Mudde define a far right como antissistema e hostil à democracia liberal, dividida em duas: a direita extrema (extreme right), que rejeita soberania popular e regra da maioria e por isso é revolucionária; e a direita radical (radical right), que aceita soberania popular e regra da maioria, mas se opõe à democracia liberal nos direitos das minorias, na legitimidade das leis e na separação de poderes. Mudde chama a onda atual de 'quarta onda'. Para o bolsonarismo, a classificação acadêmica de maior consenso é 'direita radical populista'; a contestação do resultado de 2022 e o 8 de janeiro (com condenação de Jair Bolsonaro pelo STF em 11/09/2025) são evidências que deslocam o núcleo golpista para 'direita extrema'.",
-    "exemplos_historicos": ["'Quarta onda' de movimentos de direita na Europa e nas Américas (Mudde)"],
+    "exemplos_historicos": [
+      "'Quarta onda' de movimentos de direita na Europa e nas Américas (Mudde)"
+    ],
     "o_que_nao_e": "Não é sinônimo de fascismo: a far right inclui partidos que participam de eleições e aceitam a regra da maioria.",
     "criterios_academicos": [
       "Antissistema e hostil à democracia liberal (Mudde, p. 19).",
       "Subdivisão: radical (aceita regra da maioria) × extrema (rejeita)."
     ],
     "fontes": [
-      { "nome": "Resenha Crítica (resenha de The Far Right Today, Polity Press)", "url": "https://resenhacritica.com.br/tag/polity-press-e", "acesso_em": "2026-10-21", "tier": "imprensa" },
-      { "nome": "O Antagonista (análise sobre Mudde e extremismo)", "url": "https://oantagonista.com.br/analise/politica-e-linguagem-onde-esta-o-extremismo-politico/", "acesso_em": "2026-10-21", "tier": "imprensa" }
+      {
+        "nome": "Resenha Crítica (resenha de The Far Right Today, Polity Press)",
+        "url": "https://resenhacritica.com.br/tag/polity-press-e",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      {
+        "nome": "O Antagonista (análise sobre Mudde e extremismo)",
+        "url": "https://oantagonista.com.br/analise/politica-e-linguagem-onde-esta-o-extremismo-politico/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
     ],
     "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/11_espectro_ideologico_didatico.md",
     "atualizado_em": "2026-10-21",
-    "lacunas": ["Edição original de Mudde (2019) não fetchada; distinção vem de resenha que cita a p. 19."]
+    "lacunas": [
+      "Edição original de Mudde (2019) não fetchada; distinção vem de resenha que cita a p. 19."
+    ]
   },
   {
     "termo": "Direita radical (populista)",
     "slug": "direita-radical",
     "categoria": "ideologia",
     "definicao_simples": "Aceita soberania popular e regra da maioria, mas ataca direitos de minorias, separação de poderes e Estado de direito; combina nativismo, autoritarismo e populismo (Mudde).",
-    "definicao_completa_md": "A direita radical populista (PRR) de Mudde (2007) é definida por nativismo, autoritarismo e populismo. Zanotti, Rama & Tanscheit (2023) tratam Jair Bolsonaro como líder PRR e 'primeiro presidente PRR da região': nativismo como exclusão racial/étnica, autoritarismo em 'lei e ordem' e elogio à ditadura, populismo antipetista. A direita radical 'aceita a essência da democracia mas se opõe a elementos da democracia liberal, como direitos de minorias e Estado de direito'. É a classificação com maior consenso acadêmico para o bolsonarismo.",
-    "exemplos_historicos": ["Bolsonarismo (Zanotti, Rama & Tanscheit, 2023)", "Partidos PRR europeus (Mudde, 2007)"],
+    "definicao_completa_md": "A direita radical populista (PRR) de Mudde (2007) é definida por nativismo, autoritarismo e populismo. Zanotti, Rama & Tanscheit (2023) tratam Jair Bolsonaro como líder PRR e 'primeiro presidente PRR da região': nativismo como exclusão racial/étnica, autoritarismo em 'lei e ordem' e elogio à ditadura, populismo antipetista. A direita radical 'aceita a essência da democracia mas se opõe a elementos da democracia liberal, como direitos de minorias e Estado de direito'. É a classificação com maior consenso acadêmico para o bolsonarismo.\n\nV-Party 2018: PSL com populismo 0,35 e antipluralismo 0,95; PR/PL com populismo 0,10 e antipluralismo 0,17. Esther Solano (2018) descreve o movimento como 'espécie de pinochetismo'; Lilia Schwarcz (2021), como 'extrema direita, populista e tecnocrata' — nenhuma das duas usa 'fascismo' nos textos localizados.",
+    "exemplos_historicos": [
+      "Bolsonarismo (Zanotti, Rama & Tanscheit, 2023)",
+      "Partidos PRR europeus (Mudde, 2007)"
+    ],
     "o_que_nao_e": "Não é 'direita extrema': a radical participa de eleições e aceita perder; nem é o Centrão, do qual o bolsonarismo é descrito como distinto.",
-    "criterios_academicos": ["Nativismo + autoritarismo + populismo (Mudde, 2007).", "Aceitação da soberania popular e da regra da maioria (Mudde, 2019)."],
+    "criterios_academicos": [
+      "Nativismo + autoritarismo + populismo (Mudde, 2007).",
+      "Aceitação da soberania popular e da regra da maioria (Mudde, 2019)."
+    ],
     "fontes": [
-      { "nome": "Zanotti, Rama & Tanscheit, Opinião Pública 29(1), 2023", "url": "https://www.redalyc.org/journal/329/32975189001/", "acesso_em": "2026-10-21", "tier": "academico" },
-      { "nome": "Resenha Crítica (Mudde, The Far Right Today)", "url": "https://resenhacritica.com.br/tag/polity-press-e", "acesso_em": "2026-10-21", "tier": "imprensa" },
-      { "nome": "Cambridge Core (resenha: bolsonarismo como direita populista radical distinta do Centrão)", "url": "https://www.cambridge.org/core/product/94FF980F8CF1D28AEAC72F96DD3516E6", "acesso_em": "2026-10-21", "tier": "academico" }
+      {
+        "nome": "Zanotti, Rama & Tanscheit, Opinião Pública 29(1), 2023",
+        "url": "https://www.redalyc.org/journal/329/32975189001/",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      {
+        "nome": "Resenha Crítica (Mudde, The Far Right Today)",
+        "url": "https://resenhacritica.com.br/tag/polity-press-e",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      {
+        "nome": "Cambridge Core (resenha: bolsonarismo como direita populista radical distinta do Centrão)",
+        "url": "https://www.cambridge.org/core/product/94FF980F8CF1D28AEAC72F96DD3516E6",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      {
+        "nome": "V-Party Dataset v2 (V-Dem), via pacote vdemdata",
+        "url": "https://raw.githubusercontent.com/vdeminstitute/vdemdata/master/data/vparty.RData",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      {
+        "nome": "Agência Pública, debate Lilia Schwarcz x Marcos Nobre (22/02/2021)",
+        "url": "https://apublica.org/2021/02/o-bolsonarismo/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
     ],
     "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/11_espectro_ideologico_didatico.md",
     "atualizado_em": "2026-10-21"
@@ -325,14 +716,45 @@
     "slug": "direita-extrema",
     "categoria": "ideologia",
     "definicao_simples": "Rejeita soberania popular e regra da maioria; é revolucionária/antidemocrática (Mudde).",
-    "definicao_completa_md": "Para Mudde, o extremismo (de qualquer lado) liga-se à rejeição do voto como expressão da soberania popular, da ordem constitucional e, em última instância, da própria democracia. A nota avalia que a negação do resultado de 2022 e a condenação do STF por tentativa de golpe (11/09/2025; trânsito em julgado em 25/11/2025) tornam defensável classificar o núcleo golpista como direita extrema, mas não necessariamente o PL como organização, que participa de eleições e tem a maior bancada do Congresso.",
-    "exemplos_historicos": ["Núcleo golpista condenado pelo STF em 11/09/2025 (avaliação da nota)"],
+    "definicao_completa_md": "Para Mudde, o extremismo (de qualquer lado) liga-se à rejeição do voto como expressão da soberania popular, da ordem constitucional e, em última instância, da própria democracia. A nota avalia que a negação do resultado de 2022 e a condenação do STF por tentativa de golpe (11/09/2025; trânsito em julgado em 25/11/2025) tornam defensável classificar o núcleo golpista como direita extrema, mas não necessariamente o PL como organização, que participa de eleições e tem a maior bancada do Congresso.\n\n**Base empírica anterior a 2022 (V-Party 2018):** o PSL (veículo de Bolsonaro) tinha pluralismo político 1,89/4 ('fracamente comprometido' com eleições livres e aceitação da derrota), direitos de minorias 0,50/4, rejeição da violência 1,92/4 e índice de antipluralismo 0,95/1 — o maior do sistema; os demais partidos ficavam entre 0,03 (PT) e 0,30 (PP, PRB). O PL pós-2021 não foi codificado.",
+    "exemplos_historicos": [
+      "Núcleo golpista condenado pelo STF em 11/09/2025 (avaliação da nota)"
+    ],
     "o_que_nao_e": "Não é automaticamente 'fascismo': o fascismo exige ainda projeto de renascimento nacional violento, partido único e expansão externa.",
-    "criterios_academicos": ["Rejeição da soberania popular e da regra da maioria (Mudde, 2019, p. 19)."],
+    "criterios_academicos": [
+      "Rejeição da soberania popular e da regra da maioria (Mudde, 2019, p. 19)."
+    ],
     "fontes": [
-      { "nome": "Resenha Crítica (Mudde, The Far Right Today)", "url": "https://resenhacritica.com.br/tag/polity-press-e", "acesso_em": "2026-10-21", "tier": "imprensa" },
-      { "nome": "O Antagonista (análise sobre Mudde e extremismo)", "url": "https://oantagonista.com.br/analise/politica-e-linguagem-onde-esta-o-extremismo-politico/", "acesso_em": "2026-10-21", "tier": "imprensa" },
-      { "nome": "Diario de Pernambuco (trânsito em julgado da trama golpista, 25/11/2025)", "url": "https://www.diariodepernambuco.com.br/politica/2025/11/11701391-stf-declara-fim-do-processo-da-trama-golpista-e-bolsonaro-ja-pode-cumprir-pena.html", "acesso_em": "2026-10-21", "tier": "imprensa" }
+      {
+        "nome": "Resenha Crítica (Mudde, The Far Right Today)",
+        "url": "https://resenhacritica.com.br/tag/polity-press-e",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      {
+        "nome": "O Antagonista (análise sobre Mudde e extremismo)",
+        "url": "https://oantagonista.com.br/analise/politica-e-linguagem-onde-esta-o-extremismo-politico/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      {
+        "nome": "Diario de Pernambuco (trânsito em julgado da trama golpista, 25/11/2025)",
+        "url": "https://www.diariodepernambuco.com.br/politica/2025/11/11701391-stf-declara-fim-do-processo-da-trama-golpista-e-bolsonaro-ja-pode-cumprir-pena.html",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      {
+        "nome": "V-Party Dataset v2 (V-Dem), via pacote vdemdata",
+        "url": "https://raw.githubusercontent.com/vdeminstitute/vdemdata/master/data/vparty.RData",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      {
+        "nome": "Codebook V-Party v2 (PDF)",
+        "url": "https://www.v-dem.net/documents/6/vparty_codebook_v2.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      }
     ],
     "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/11_espectro_ideologico_didatico.md",
     "atualizado_em": "2026-10-21"
@@ -342,40 +764,113 @@
     "slug": "extrema-esquerda",
     "categoria": "ideologia",
     "definicao_simples": "Partidos que, na BLS, ocupam o polo esquerdo (PSOL -0,874; PCdoB -0,822 em 2021; PSTU -0,826 em 1993); no uso de Mudde, o critério análogo seria rejeitar a democracia liberal.",
-    "definicao_completa_md": "Pela régua de Zucco & Power, o polo esquerdo brasileiro (≈ -0,8 a -1,0) é ocupado por PSOL, PCdoB e PSTU. O PT (-0,691 em 2021) fica em posição intermediária entre esses e PSB/PDT; a nota conclui que chamar o PT de 'extrema esquerda' é inconsistente com a medida, enquanto 'esquerda' é exato. Os autores observam ainda que o PT se moderou fortemente entre 2001 (-0,793) e 2005 (-0,525) e voltou a se deslocar à esquerda após 2013.",
-    "exemplos_historicos": ["PSOL (-0,874), PCdoB (-0,822) na BLS 2021", "PSTU (-0,826) na BLS 1993"],
+    "definicao_completa_md": "Pela régua de Zucco & Power, o polo esquerdo brasileiro (≈ -0,8 a -1,0) é ocupado por PSOL, PCdoB e PSTU. O PT (-0,691 em 2021) fica em posição intermediária entre esses e PSB/PDT; a nota conclui que chamar o PT de 'extrema esquerda' é inconsistente com a medida, enquanto 'esquerda' é exato. Os autores observam ainda que o PT se moderou fortemente entre 2001 (-0,793) e 2005 (-0,525) e voltou a se deslocar à esquerda após 2013.\n\nNa PREPPS (1–20) o PSOL mede 1,66 (DP 1,05) e o PT 5,04 (DP 2,70) — mais de 3 pontos do polo; na dimensão 'redistribuição' PSOL 1,93 e PT 4,00. O Informe Latinobarómetro 2026 classifica o governo brasileiro entre os 4 'governos de esquerda' (com México, Guatemala e Uruguai), não entre as 'ditaduras' (El Salvador, Venezuela, Nicarágua) nem na 'extrema direita' (Colômbia, Chile, Peru, Argentina).",
+    "exemplos_historicos": [
+      "PSOL (-0,874), PCdoB (-0,822) na BLS 2021",
+      "PSTU (-0,826) na BLS 1993"
+    ],
     "o_que_nao_e": "Não inclui o PT segundo a BLS 2021 (-0,691).",
-    "criterios_academicos": ["Polo esquerdo da escala BLS (síntese).", "Analogia com Mudde: rejeição da democracia liberal (síntese)."],
+    "criterios_academicos": [
+      "Polo esquerdo da escala BLS (síntese).",
+      "Analogia com Mudde: rejeição da democracia liberal (síntese)."
+    ],
     "fontes": [
-      { "nome": "Zucco & Power, material suplementar (LAPS, DOI 10.1017/lap.2023.24)", "url": "https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S1531426X23000249/resource/name/S1531426X23000249sup001.pdf", "acesso_em": "2026-10-21", "tier": "academico" }
+      {
+        "nome": "Zucco & Power, material suplementar (LAPS, DOI 10.1017/lap.2023.24)",
+        "url": "https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S1531426X23000249/resource/name/S1531426X23000249sup001.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      {
+        "nome": "PREPPS Latam V2 (Harvard Dataverse, DOI 10.7910/DVN/JLOYIJ), dados TSV",
+        "url": "https://dataverse.harvard.edu/api/access/datafile/4372420",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      {
+        "nome": "Informe Latinobarómetro 2026, '¿La crisis de la democracia liberal?' (02/10/2026, PDF)",
+        "url": "https://www.latinobarometro.org/documents/informe-latinobarometro-2026.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      }
     ],
     "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/11_espectro_ideologico_didatico.md",
     "atualizado_em": "2026-10-21",
-    "lacunas": ["PCB, UP e PSTU (exceto 1993) não foram avaliados na BLS."]
+    "lacunas": [
+      "PCB, UP e PSTU (exceto 1993) não foram avaliados na BLS."
+    ]
   },
   {
     "termo": "Fascismo",
     "slug": "fascismo",
     "categoria": "ideologia",
     "definicao_simples": "Paxton: comportamento político obcecado com o declínio da comunidade, culto da unidade/pureza, partido nacionalista de massas aliado a elites, abandono das liberdades democráticas e violência redentora. Griffin: 'ultranacionalismo populista palingenético'.",
-    "definicao_completa_md": "Robert Paxton (*The Anatomy of Fascism*, 2004) define fascismo como forma de comportamento político marcado pela preocupação obsessiva com o declínio ou vitimização da comunidade, compensada por cultos de unidade e pureza, conduzido por um partido nacionalista de massas em colaboração com elites tradicionais, que abandona as liberdades democráticas e persegue, com violência redentora e sem limites legais ou éticos, a limpeza interna e a expansão externa; propõe cinco estágios (criação, enraizamento, tomada do poder, exercício, radicalização ou entropia). Roger Griffin (1991) define o 'mínimo fascista' como ultranacionalismo populista palingenético: revolução que destrói a velha ordem para o 'renascimento nacional'. Emilio Gentile (1996) fala em 'sacralização da política' com dez elementos (partido único, culto ao líder, aparato policial, economia corporativista, imperialismo etc.). No Brasil, o rótulo aplicado ao bolsonarismo é contestado: parte da academia diz sim (PUC-SP, 8 acadêmicos da USP), parte diz que o conceito é estreito (Observatório da Extrema Direita/UFJF; Gentile); surgiram categorias intermediárias ('wannabe fascism', Finchelstein 2022; 'neofascismo', Boito Jr. 2020).",
-    "exemplos_historicos": ["Itália fascista (1922–1945)", "Integralismo brasileiro (anos 1920–40), descrito como o maior movimento fascista fora da Europa"],
+    "definicao_completa_md": "Robert Paxton (*The Anatomy of Fascism*, 2004) define fascismo como forma de comportamento político marcado pela preocupação obsessiva com o declínio ou vitimização da comunidade, compensada por cultos de unidade e pureza, conduzido por um partido nacionalista de massas em colaboração com elites tradicionais, que abandona as liberdades democráticas e persegue, com violência redentora e sem limites legais ou éticos, a limpeza interna e a expansão externa; propõe cinco estágios (criação, enraizamento, tomada do poder, exercício, radicalização ou entropia). Roger Griffin (1991) define o 'mínimo fascista' como ultranacionalismo populista palingenético: revolução que destrói a velha ordem para o 'renascimento nacional'. Emilio Gentile (1996) fala em 'sacralização da política' com dez elementos (partido único, culto ao líder, aparato policial, economia corporativista, imperialismo etc.). No Brasil, o rótulo aplicado ao bolsonarismo é contestado: parte da academia diz sim (PUC-SP, 8 acadêmicos da USP), parte diz que o conceito é estreito (Observatório da Extrema Direita/UFJF; Gentile); surgiram categorias intermediárias ('wannabe fascism', Finchelstein 2022; 'neofascismo', Boito Jr. 2020).\n\n**Definição literal de Paxton (The Anatomy of Fascism, 2004, p. 218):** 'Fascism is a form of political behavior marked by obsessive preoccupation with community decline, humiliation, or victimhood and by compensatory cults of unity, energy, and purity, in which a mass-based party of committed nationalist militants, working in uneasy but effective collaboration with traditional elites, abandons democratic liberties and pursues with redemptive violence and without ethical or legal restraints, with the goals of internal cleansing and external expansion.' Tradução de trabalho: forma de comportamento político marcada pela preocupação obsessiva com o declínio, a humilhação ou a vitimização da comunidade e por cultos compensatórios de unidade, energia e pureza, na qual um partido de massas de militantes nacionalistas comprometidos, em colaboração desconfortável mas eficaz com elites tradicionais, abandona as liberdades democráticas e persegue, com violência redentora e sem freios éticos ou legais, objetivos de limpeza interna e expansão externa. Ruth Ben-Ghiat (HNN, 07/12/2022) registra que o 6 de janeiro de 2021 mudou a opinião de Paxton sobre aplicar o termo a Trump. **A Stanford Encyclopedia of Philosophy não tem verbete 'Fascism'** (HTTP 404, verificado em 21/10/2026). Lilia Schwarcz (2021) classifica o bolsonarismo como 'movimento retrógrado, de extrema direita, populista e tecnocrata', sem usar 'fascismo'.",
+    "exemplos_historicos": [
+      "Itália fascista (1922–1945)",
+      "Integralismo brasileiro (anos 1920–40), descrito como o maior movimento fascista fora da Europa"
+    ],
     "o_que_nao_e": "Não é qualquer governo autoritário ou de direita radical: faltam ao bolsonarismo, segundo a nota, partido único, milícia partidária de massas, economia corporativista, projeto revolucionário de renascimento nacional e expansão externa.",
     "criterios_academicos": [
-      "Paxton: obsessão com declínio da comunidade; culto da unidade/pureza; partido de massas + elites; abandono das liberdades; violência redentora; expansão externa.",
+      "Paxton (p. 218, literal): obsessão com declínio/humilhação/vitimização da comunidade; cultos de unidade, energia e pureza; partido de massas de militantes nacionalistas em colaboração com elites tradicionais; abandono das liberdades democráticas; violência redentora sem freios éticos ou legais; limpeza interna e expansão externa.",
       "Griffin: palingenesia + populismo + ultranacionalismo.",
       "Gentile: sacralização da política por métodos totalitários; partido único; culto ao líder; economia corporativista."
     ],
     "fontes": [
-      { "nome": "Wikipedia: Definitions of fascism", "url": "https://en.wikipedia.org/wiki/Definitions_of_fascism", "acesso_em": "2026-10-21", "tier": "imprensa" },
-      { "nome": "Wikipedia: Palingenetic ultranationalism", "url": "https://en.wikipedia.org/wiki/Palingenetic_ultranationalism", "acesso_em": "2026-10-21", "tier": "imprensa" },
-      { "nome": "Le Monde Diplomatique Brasil (Paxton sobre aplicabilidade do conceito)", "url": "https://diplomatique.org.br/tem-que-mudar-tudo-isso-que-ta-ai-ta-ok/", "acesso_em": "2026-10-21", "tier": "imprensa" },
-      { "nome": "Jornal de Brasília/Folhapress (debate acadêmico 'Bolsonaro é fascista?')", "url": "https://jornaldebrasilia.com.br/noticias/politica-e-poder/ja-da-pra-chamar-bolsonaro-de-fascista-parte-da-academia-diz-que-sim/", "acesso_em": "2026-10-21", "tier": "imprensa" },
-      { "nome": "Anais Marx e o Marxismo 2019 (Gentile via Demian Melo)", "url": "https://www.niepmarx.blog.br/MM/MM2019/AnaisMM2019/MC19/MC191.pdf", "acesso_em": "2026-10-21", "tier": "academico" }
+      {
+        "nome": "Wikipedia: Definitions of fascism",
+        "url": "https://en.wikipedia.org/wiki/Definitions_of_fascism",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      {
+        "nome": "Wikipedia: Palingenetic ultranationalism",
+        "url": "https://en.wikipedia.org/wiki/Palingenetic_ultranationalism",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      {
+        "nome": "Le Monde Diplomatique Brasil (Paxton sobre aplicabilidade do conceito)",
+        "url": "https://diplomatique.org.br/tem-que-mudar-tudo-isso-que-ta-ai-ta-ok/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      {
+        "nome": "Jornal de Brasília/Folhapress (debate acadêmico 'Bolsonaro é fascista?')",
+        "url": "https://jornaldebrasilia.com.br/noticias/politica-e-poder/ja-da-pra-chamar-bolsonaro-de-fascista-parte-da-academia-diz-que-sim/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      {
+        "nome": "Anais Marx e o Marxismo 2019 (Gentile via Demian Melo)",
+        "url": "https://www.niepmarx.blog.br/MM/MM2019/AnaisMM2019/MC19/MC191.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      {
+        "nome": "OER Project, 'What is Fascism?' (transcrição com a definição literal de Paxton, PDF)",
+        "url": "https://www.oerproject.com/-/media/WHP/PDF/Transcripts/What_is_Fascism.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      {
+        "nome": "History News Network, Ruth Ben-Ghiat, 'What exactly is fascism' (07/12/2022; cita Paxton, p. 218)",
+        "url": "https://www.historynewsnetwork.org/article/what-exactly-is-fascism",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      {
+        "nome": "Agência Pública, debate Lilia Schwarcz x Marcos Nobre (22/02/2021)",
+        "url": "https://apublica.org/2021/02/o-bolsonarismo/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
     ],
     "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/11_espectro_ideologico_didatico.md",
     "atualizado_em": "2026-10-21",
-    "lacunas": ["Texto integral de Paxton não localizado em português; definição é paráfrase reproduzida pela Wikipedia."]
+    "lacunas": [
+      "A SEP não possui verbete sobre fascismo; a fonte de aprofundamento é Paxton (2004), Griffin (1991) e Gentile (1996)."
+    ]
   },
   {
     "termo": "Nazismo",
@@ -383,17 +878,38 @@
     "categoria": "ideologia",
     "definicao_simples": "Variante alemã do fascismo com racismo biológico e antissemitismo exterminador como núcleo.",
     "definicao_completa_md": "Síntese da nota (ver Gentile/Paxton). Peças virais associando Jair Bolsonaro ao nazismo foram classificadas como falsas: 'apoiadores fizeram saudação nazista no Alvorada' (maio/2020; o gesto era oração com imposição de mãos) e 'Bolsonaro se alistou no exército nazista' (fev/2022; gravação de bastidores do CQC de 2012 editada), ambas pelo Aos Fatos.",
-    "exemplos_historicos": ["Alemanha nazista (1933–1945)"],
+    "exemplos_historicos": [
+      "Alemanha nazista (1933–1945)"
+    ],
     "o_que_nao_e": "Não é sinônimo de 'fascismo' em geral nem de 'extrema direita'.",
-    "criterios_academicos": ["Fascismo + racismo biológico + antissemitismo exterminador (síntese)."],
+    "criterios_academicos": [
+      "Fascismo + racismo biológico + antissemitismo exterminador (síntese)."
+    ],
     "fontes": [
-      { "nome": "Wikipedia: Definitions of fascism", "url": "https://en.wikipedia.org/wiki/Definitions_of_fascism", "acesso_em": "2026-10-21", "tier": "imprensa" },
-      { "nome": "Aos Fatos: falso que apoiadores de Bolsonaro fizeram saudação nazista", "url": "https://www.aosfatos.org/noticias/e-falso-que-apoiadores-de-bolsonaro-tenham-feito-saudacao-nazista-gesto-e-religioso/", "acesso_em": "2026-10-21", "tier": "checagem" },
-      { "nome": "Aos Fatos: vídeo sobre alistamento em exército nazista é falso", "url": "https://www.aosfatos.org/noticias/bolsonaro-alistamento-exercito-nazista/", "acesso_em": "2026-10-21", "tier": "checagem" }
+      {
+        "nome": "Wikipedia: Definitions of fascism",
+        "url": "https://en.wikipedia.org/wiki/Definitions_of_fascism",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      {
+        "nome": "Aos Fatos: falso que apoiadores de Bolsonaro fizeram saudação nazista",
+        "url": "https://www.aosfatos.org/noticias/e-falso-que-apoiadores-de-bolsonaro-tenham-feito-saudacao-nazista-gesto-e-religioso/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      {
+        "nome": "Aos Fatos: vídeo sobre alistamento em exército nazista é falso",
+        "url": "https://www.aosfatos.org/noticias/bolsonaro-alistamento-exercito-nazista/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      }
     ],
     "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/11_espectro_ideologico_didatico.md",
     "atualizado_em": "2026-10-21",
-    "lacunas": ["Definição conceitual é síntese; fonte de aprofundamento (SEP/Gentile) não fetchada."]
+    "lacunas": [
+      "Definição conceitual é síntese; a SEP não possui verbete 'Fascism' (HTTP 404), por isso não é indicada como fonte de aprofundamento; ver Paxton (2004) e Gentile (1996)."
+    ]
   },
   {
     "termo": "Ur-Fascismo (Umberto Eco)",
@@ -401,12 +917,26 @@
     "categoria": "ideologia",
     "definicao_simples": "Lista de 14 traços recorrentes do fascismo (culto da tradição, medo da diferença, machismo, populismo seletivo etc.); Eco diz que basta um para o fascismo 'coagular', razão pela qual a lista é criticada como elástica demais.",
     "definicao_completa_md": "Conferência de Eco na Columbia (25/04/1995), publicada na *New York Review of Books* em 22/06/1995. Os 14 traços: culto da tradição, rejeição do modernismo, culto da ação pela ação, 'desacordo é traição', medo da diferença, apelo à classe média frustrada, obsessão com complô, inimigo 'forte e fraco ao mesmo tempo', 'pacifismo é conluio', desprezo pelos fracos, culto do heroísmo/morte, machismo, populismo seletivo e novilíngua. Eco reconhece que os traços não formam sistema e muitos se contradizem. Um artigo do *Il Foglio* (ago/2026) sustenta que o 'fascismo eterno' é um mito analítico.",
-    "exemplos_historicos": ["Conferência de Eco em 1995"],
+    "exemplos_historicos": [
+      "Conferência de Eco em 1995"
+    ],
     "o_que_nao_e": "Não é uma definição operacional aceita pela historiografia (Paxton, Griffin, Gentile usam critérios mais estritos).",
-    "criterios_academicos": ["14 traços de Eco (1995); crítica: basta um traço, o que torna o conceito elástico."],
+    "criterios_academicos": [
+      "14 traços de Eco (1995); crítica: basta um traço, o que torna o conceito elástico."
+    ],
     "fontes": [
-      { "nome": "Wikipedia: Ur-Fascism", "url": "https://en.wikipedia.org/wiki/Ur-Fascism", "acesso_em": "2026-10-21", "tier": "imprensa" },
-      { "nome": "Il Foglio (18/08/2026)", "url": "https://www.ilfoglio.it/en/culture/2026/08/18/news/ecos-eternal-fascism-is-a-myth-eternal-totalitarianism-is-alive-and-well--404994", "acesso_em": "2026-10-21", "tier": "imprensa" }
+      {
+        "nome": "Wikipedia: Ur-Fascism",
+        "url": "https://en.wikipedia.org/wiki/Ur-Fascism",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      {
+        "nome": "Il Foglio (18/08/2026)",
+        "url": "https://www.ilfoglio.it/en/culture/2026/08/18/news/ecos-eternal-fascism-is-a-myth-eternal-totalitarianism-is-alive-and-well--404994",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
     ],
     "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/11_espectro_ideologico_didatico.md",
     "atualizado_em": "2026-10-21"
@@ -417,28 +947,63 @@
     "categoria": "ideologia",
     "definicao_simples": "Movimento político brasileiro dos anos 1920–40 descrito como o maior movimento fascista fora da Europa no período.",
     "definicao_completa_md": "A nota registra apenas a caracterização de um livro (via Goodreads) de que o integralismo foi o maior movimento fascista fora da Europa nos anos 1920–40. Pesquisadores citados na nota (David Magalhães) mencionam que a agenda bolsonarista atrai 'grupos fascistas e neointegralistas'.",
-    "exemplos_historicos": ["Ação Integralista Brasileira (anos 1930)"],
+    "exemplos_historicos": [
+      "Ação Integralista Brasileira (anos 1930)"
+    ],
     "o_que_nao_e": "Não é o mesmo que o bolsonarismo, classificado majoritariamente como direita radical populista.",
     "criterios_academicos": [],
     "fontes": [
-      { "nome": "Goodreads (livro sobre o integralismo)", "url": "https://www.goodreads.com/book/show/204804362", "acesso_em": "2026-10-21", "tier": "imprensa" }
+      {
+        "nome": "Goodreads (livro sobre o integralismo)",
+        "url": "https://www.goodreads.com/book/show/204804362",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
     ],
     "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/11_espectro_ideologico_didatico.md",
     "atualizado_em": "2026-10-21",
-    "lacunas": ["Nenhum verbete acadêmico (CPDOC/FGV) sobre integralismo foi fetchado; definição mínima."]
+    "lacunas": [
+      "Nenhum verbete acadêmico (CPDOC/FGV) sobre integralismo foi fetchado; definição mínima."
+    ]
   },
   {
     "termo": "Autoritarismo competitivo",
     "slug": "autoritarismo-competitivo",
     "categoria": "ideologia",
     "definicao_simples": "Regime em que há eleições, mas o campo é tão desnivelado pelo governo que a oposição só vence alguns cargos; aplicado à Venezuela chavista.",
-    "definicao_completa_md": "Especialistas ouvidos pela CNN Brasil (03/08/2024) classificam o regime Chávez/Maduro como esquerda radical autoritária: 'autoritarismo competitivo', 'total nacionalização da economia', controle da política cambial, cinco poderes subordinados à presidência; para Regiane Bressan (Unifesp), o governo 'já rompeu com a democracia' ao não divulgar atas eleitorais. Alarcón & Álvarez (2014) tratam o chavismo como 'um caso de autoritarismo competitivo'. Nenhum dos quatro especialistas chama o regime de 'comunista'.",
-    "exemplos_historicos": ["Venezuela sob Chávez e Maduro"],
+    "definicao_completa_md": "Especialistas ouvidos pela CNN Brasil (03/08/2024) classificam o regime Chávez/Maduro como esquerda radical autoritária: 'autoritarismo competitivo', 'total nacionalização da economia', controle da política cambial, cinco poderes subordinados à presidência; para Regiane Bressan (Unifesp), o governo 'já rompeu com a democracia' ao não divulgar atas eleitorais. Alarcón & Álvarez (2014) tratam o chavismo como 'um caso de autoritarismo competitivo'. Nenhum dos quatro especialistas chama o regime de 'comunista'.\n\n**Letra constitucional (rodada 2):** a Constituição da Venezuela (1999, rev. 2009) garante a livre iniciativa econômica (art. 112, com o Estado obrigado a promover a iniciativa privada) e 'o direito de propriedade' (art. 115), com expropriação só 'por razões de utilidade pública ou interesse social, por sentença definitiva, com pagamento oportuno de justa indenização' — nenhum dos dois traços constitucionais de Cuba e China (propriedade pública como base; direção do Partido Comunista). O Informe Latinobarómetro 2026 classifica a Venezuela entre as três 'ditaduras' da região (com El Salvador e Nicarágua).",
+    "exemplos_historicos": [
+      "Venezuela sob Chávez e Maduro"
+    ],
     "o_que_nao_e": "Não descreve o Brasil: comparar PT a Venezuela exige mostrar ruptura democrática (não divulgação de atas, subordinação dos poderes), que não ocorreu — o PT perdeu eleições em 2018 e disputa 2º turno em 2026.",
-    "criterios_academicos": ["Eleições existem, mas campo desnivelado pelo governo (Levitsky & Way, via CNN/UCR)."],
+    "criterios_academicos": [
+      "Eleições existem, mas campo desnivelado pelo governo (Levitsky & Way, via CNN/UCR)."
+    ],
     "fontes": [
-      { "nome": "CNN Brasil (especialistas sobre o governo Maduro)", "url": "https://www.cnnbrasil.com.br/internacional/o-que-faz-o-governo-maduro-ser-de-extrema-esquerda-especialistas-explicam/", "acesso_em": "2026-10-21", "tier": "imprensa" },
-      { "nome": "Revista Diálogos (UCR), Alarcón & Álvarez 2014", "url": "https://revistas.ucr.ac.cr/index.php/rdialogos/article/view/840", "acesso_em": "2026-10-21", "tier": "academico" }
+      {
+        "nome": "CNN Brasil (especialistas sobre o governo Maduro)",
+        "url": "https://www.cnnbrasil.com.br/internacional/o-que-faz-o-governo-maduro-ser-de-extrema-esquerda-especialistas-explicam/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      {
+        "nome": "Revista Diálogos (UCR), Alarcón & Álvarez 2014",
+        "url": "https://revistas.ucr.ac.cr/index.php/rdialogos/article/view/840",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      {
+        "nome": "Constitute Project: Constituição da Venezuela (1999, rev. 2009)",
+        "url": "https://www.constituteproject.org/constitution/Venezuela_2009",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      {
+        "nome": "Informe Latinobarómetro 2026, '¿La crisis de la democracia liberal?' (02/10/2026, PDF)",
+        "url": "https://www.latinobarometro.org/documents/informe-latinobarometro-2026.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      }
     ],
     "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/11_espectro_ideologico_didatico.md",
     "atualizado_em": "2026-10-21"
@@ -448,13 +1013,39 @@
     "slug": "socialismo-do-seculo-xxi",
     "categoria": "ideologia",
     "definicao_simples": "Autodenominação do chavismo venezuelano; especialistas o classificam como esquerda radical autoritária, não como comunismo.",
-    "definicao_completa_md": "Rótulo usado pelo próprio regime venezuelano. Walmrath & Moraes (2019) contestam a rotulagem acrítica da Venezuela chavista como 'socialista', comparando definições de socialismo e capitalismo com dados sobre empresas públicas e privadas; a propriedade privada não foi abolida como regra constitucional.",
-    "exemplos_historicos": ["Venezuela (Chávez, Maduro)"],
+    "definicao_completa_md": "Rótulo usado pelo próprio regime venezuelano. Walmrath & Moraes (2019) contestam a rotulagem acrítica da Venezuela chavista como 'socialista', comparando definições de socialismo e capitalismo com dados sobre empresas públicas e privadas; a propriedade privada não foi abolida como regra constitucional.\n\n**Letra constitucional (rodada 2):** a Constituição da Venezuela (1999, rev. 2009) garante a livre iniciativa econômica (art. 112, com o Estado obrigado a promover a iniciativa privada) e 'o direito de propriedade' (art. 115), com expropriação só 'por razões de utilidade pública ou interesse social, por sentença definitiva, com pagamento oportuno de justa indenização' — nenhum dos dois traços constitucionais de Cuba e China (propriedade pública como base; direção do Partido Comunista). O Informe Latinobarómetro 2026 classifica a Venezuela entre as três 'ditaduras' da região (com El Salvador e Nicarágua).",
+    "exemplos_historicos": [
+      "Venezuela (Chávez, Maduro)"
+    ],
     "o_que_nao_e": "Não é comunismo no sentido estrito nem social-democracia.",
-    "criterios_academicos": ["Autodenominação; literatura prefere 'autoritarismo competitivo' e 'esquerda radical'."],
+    "criterios_academicos": [
+      "Autodenominação; literatura prefere 'autoritarismo competitivo' e 'esquerda radical'."
+    ],
     "fontes": [
-      { "nome": "CNN Brasil (especialistas sobre o governo Maduro)", "url": "https://www.cnnbrasil.com.br/internacional/o-que-faz-o-governo-maduro-ser-de-extrema-esquerda-especialistas-explicam/", "acesso_em": "2026-10-21", "tier": "imprensa" },
-      { "nome": "Periódicos UFS (Walmrath & Moraes, 2019)", "url": "https://periodicos.ufs.br/historiar/article/download/3989/3334/11284", "acesso_em": "2026-10-21", "tier": "academico" }
+      {
+        "nome": "CNN Brasil (especialistas sobre o governo Maduro)",
+        "url": "https://www.cnnbrasil.com.br/internacional/o-que-faz-o-governo-maduro-ser-de-extrema-esquerda-especialistas-explicam/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      {
+        "nome": "Periódicos UFS (Walmrath & Moraes, 2019)",
+        "url": "https://periodicos.ufs.br/historiar/article/download/3989/3334/11284",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      {
+        "nome": "Constitute Project: Constituição da Venezuela (1999, rev. 2009)",
+        "url": "https://www.constituteproject.org/constitution/Venezuela_2009",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      {
+        "nome": "Informe Latinobarómetro 2026, '¿La crisis de la democracia liberal?' (02/10/2026, PDF)",
+        "url": "https://www.latinobarometro.org/documents/informe-latinobarometro-2026.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      }
     ],
     "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/11_espectro_ideologico_didatico.md",
     "atualizado_em": "2026-10-21"
@@ -464,13 +1055,43 @@
     "slug": "centrao",
     "categoria": "ideologia",
     "definicao_simples": "Bloco de partidos de centro e centro-direita pragmáticos e clientelistas (ex.: PP, Republicanos, PL antes de 2021, PSD).",
-    "definicao_completa_md": "Antes da virada bolsonarista (filiação de Jair Bolsonaro em 30/11/2021), o PL era classificado como centro-direita e parte do Centrão; fonte acadêmica descreve seu afastamento do liberalismo social por alianças estratégicas e práticas clientelistas sob Valdemar Costa Neto. Na BLS, o PL ficou estável à direita (+0,33 a +0,64) por 30 anos. A radicalização medida pela BLS está no PSL (+0,803) e em Bolsonaro presidente (+0,87), não na sigla PL (+0,493 em 2021).",
-    "exemplos_historicos": ["PP, Republicanos, PL pré-2021, PSD"],
+    "definicao_completa_md": "Antes da virada bolsonarista (filiação de Jair Bolsonaro em 30/11/2021), o PL era classificado como centro-direita e parte do Centrão; fonte acadêmica descreve seu afastamento do liberalismo social por alianças estratégicas e práticas clientelistas sob Valdemar Costa Neto. Na BLS, o PL ficou estável à direita (+0,33 a +0,64) por 30 anos. A radicalização medida pela BLS está no PSL (+0,803) e em Bolsonaro presidente (+0,87), não na sigla PL (+0,493 em 2021).\n\nA lista de partidos do Manifesto Project registra o PL nas coligações de Lula em 2002 e 2006 (ao lado de PT, PCdoB e PCB; vice José Alencar) — o mesmo partido que hoje abriga o bolsonarismo, o que ilustra a posição pragmática da legenda antes de 2021. Na PREPPS 2018–19, PP (17,00), PR/PL (17,05) e Republicanos (16,81) ocupam a mesma faixa à direita; no V-Party 2018, 4,79 / 4,44 / 4,52.",
+    "exemplos_historicos": [
+      "PP, Republicanos, PL pré-2021, PSD"
+    ],
     "o_que_nao_e": "Não é 'centro' ideológico medido: PP (+0,510) e Republicanos (+0,550) estão à direita na BLS 2021.",
     "criterios_academicos": [],
     "fontes": [
-      { "nome": "Wikipedia: Liberal Party (Brazil, 2006)", "url": "https://en.wikipedia.org/wiki/Liberal_Party_(Brazil,_2006)", "acesso_em": "2026-10-21", "tier": "imprensa" },
-      { "nome": "eduCAPES (dissertação sobre o PL)", "url": "https://educapes.capes.gov.br/handle/11449/259556?mode=full", "acesso_em": "2026-10-21", "tier": "academico" }
+      {
+        "nome": "Wikipedia: Liberal Party (Brazil, 2006)",
+        "url": "https://en.wikipedia.org/wiki/Liberal_Party_(Brazil,_2006)",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      {
+        "nome": "eduCAPES (dissertação sobre o PL)",
+        "url": "https://educapes.capes.gov.br/handle/11449/259556?mode=full",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      {
+        "nome": "Manifesto Project, lista de partidos MPDSSA2020b (PDF)",
+        "url": "https://manifesto-project.wzb.eu/down/data/SA2020b/codebooks/parties_MPDataset_MPDSSA2020b.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      {
+        "nome": "PREPPS Latam V2 (Harvard Dataverse, DOI 10.7910/DVN/JLOYIJ), dados TSV",
+        "url": "https://dataverse.harvard.edu/api/access/datafile/4372420",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      {
+        "nome": "V-Party Dataset v2 (V-Dem), via pacote vdemdata",
+        "url": "https://raw.githubusercontent.com/vdeminstitute/vdemdata/master/data/vparty.RData",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      }
     ],
     "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/11_espectro_ideologico_didatico.md",
     "atualizado_em": "2026-10-21"
@@ -481,12 +1102,26 @@
     "categoria": "ideologia",
     "definicao_simples": "Amálgama ultraliberal-conservador surgido em contrapúblicos digitais entre 2006 e 2010, no auge do lulismo (Camila Rocha).",
     "definicao_completa_md": "Camila Rocha (*Menos Marx, mais Mises*, Todavia 2021; tese USP premiada pela ABCP) descreve a 'nova direita' como amálgama ultraliberal-conservador formado em contrapúblicos digitais. Segundo ela, 'o casamento entre nova direita e bolsonarismo sempre foi frágil' e o núcleo duro do bolsonarismo seria 12% a 15% do eleitorado.",
-    "exemplos_historicos": ["Contrapúblicos digitais 2006–2010"],
+    "exemplos_historicos": [
+      "Contrapúblicos digitais 2006–2010"
+    ],
     "o_que_nao_e": "Não é sinônimo de bolsonarismo, com o qual tem relação descrita como frágil.",
-    "criterios_academicos": ["Ultraliberalismo + conservadorismo; origem digital (Rocha, 2021)."],
+    "criterios_academicos": [
+      "Ultraliberalismo + conservadorismo; origem digital (Rocha, 2021)."
+    ],
     "fontes": [
-      { "nome": "Teses USP (Camila Rocha)", "url": "https://teses.usp.br/teses/disponiveis/8/8131/tde-19092019-174426/en.php", "acesso_em": "2026-10-21", "tier": "academico" },
-      { "nome": "Brasil de Fato (entrevista, 16/08/2021)", "url": "https://www.brasildefato.com.br/2021/08/16/casamento-entre-nova-direita-e-bolsonarismo-sempre-foi-fragil-diz-cientista-politica", "acesso_em": "2026-10-21", "tier": "imprensa" }
+      {
+        "nome": "Teses USP (Camila Rocha)",
+        "url": "https://teses.usp.br/teses/disponiveis/8/8131/tde-19092019-174426/en.php",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      {
+        "nome": "Brasil de Fato (entrevista, 16/08/2021)",
+        "url": "https://www.brasildefato.com.br/2021/08/16/casamento-entre-nova-direita-e-bolsonarismo-sempre-foi-fragil-diz-cientista-politica",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
     ],
     "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/11_espectro_ideologico_didatico.md",
     "atualizado_em": "2026-10-21"
@@ -496,14 +1131,54 @@
     "slug": "bolsonarismo",
     "categoria": "ideologia",
     "definicao_simples": "Movimento social de direita radical populista em torno de Jair Bolsonaro, distinto do Centrão; núcleo duro estimado em 12–15% do eleitorado (Camila Rocha).",
-    "definicao_completa_md": "Artigo na Cambridge sustenta que explicar o negacionismo bolsonarista exige entender o populismo de direita radical brasileiro 'como mais do que uma ideologia: é um movimento social'. Na BLS, Bolsonaro presidente é medido em +0,87, 'o presidente mais extremo da era democrática', e o PSL (veículo de 2018) em +0,803. Em 2018 o voto em Bolsonaro se explicou por queixas culturais-ideológicas (segurança, religião, antipetismo, baixo apego à democracia), não econômicas; renda mais alta se associou ao voto nele.",
-    "exemplos_historicos": ["Eleição de 2018 (PSL)", "Filiação ao PL em 30/11/2021", "Condenação de Jair Bolsonaro pelo STF em 11/09/2025"],
+    "definicao_completa_md": "Artigo na Cambridge sustenta que explicar o negacionismo bolsonarista exige entender o populismo de direita radical brasileiro 'como mais do que uma ideologia: é um movimento social'. Na BLS, Bolsonaro presidente é medido em +0,87, 'o presidente mais extremo da era democrática', e o PSL (veículo de 2018) em +0,803. Em 2018 o voto em Bolsonaro se explicou por queixas culturais-ideológicas (segurança, religião, antipetismo, baixo apego à democracia), não econômicas; renda mais alta se associou ao voto nele.\n\nV-Party 2018 (PSL): posição econômica 5,37/6, único partido cujo intervalo de credibilidade não se sobrepõe a nenhum outro; antipluralismo 0,95/1. PREPPS: PSL 18,35/20; Bolsonaro 19,26/20 (DP 1,34). Tarouco (2022, Manifesto Project): o programa de Bolsonaro em 2018 foi o principal responsável pelo salto de polarização nas dimensões conservadorismo e liberdade de mercado.",
+    "exemplos_historicos": [
+      "Eleição de 2018 (PSL)",
+      "Filiação ao PL em 30/11/2021",
+      "Condenação de Jair Bolsonaro pelo STF em 11/09/2025"
+    ],
     "o_que_nao_e": "Não é consensualmente 'fascismo' (tese minoritária/contestada) nem se confunde com o PL como organização.",
-    "criterios_academicos": ["Direita radical populista (Mudde) + movimento social (Cambridge Core).", "Posição BLS: Bolsonaro +0,87; PSL +0,803."],
+    "criterios_academicos": [
+      "Direita radical populista (Mudde) + movimento social (Cambridge Core).",
+      "Posição BLS: Bolsonaro +0,87; PSL +0,803."
+    ],
     "fontes": [
-      { "nome": "Cambridge Core (populismo de direita radical como movimento social)", "url": "https://core-cms.cambridgecore.org/core/product/8CE2323DC7C51B079A922913AA91F566/core-reader", "acesso_em": "2026-10-21", "tier": "academico" },
-      { "nome": "Jornal Opção (Camila Rocha)", "url": "https://www.jornalopcao.com.br/colunas-e-blogs/imprensa/permanencia-de-bolsonaro-e-fatal-para-a-nova-direita-diz-cientista-politica-camila-rocha-350275/", "acesso_em": "2026-10-21", "tier": "imprensa" },
-      { "nome": "Zucco & Power, material suplementar (LAPS, DOI 10.1017/lap.2023.24)", "url": "https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S1531426X23000249/resource/name/S1531426X23000249sup001.pdf", "acesso_em": "2026-10-21", "tier": "academico" }
+      {
+        "nome": "Cambridge Core (populismo de direita radical como movimento social)",
+        "url": "https://core-cms.cambridgecore.org/core/product/8CE2323DC7C51B079A922913AA91F566/core-reader",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      {
+        "nome": "Jornal Opção (Camila Rocha)",
+        "url": "https://www.jornalopcao.com.br/colunas-e-blogs/imprensa/permanencia-de-bolsonaro-e-fatal-para-a-nova-direita-diz-cientista-politica-camila-rocha-350275/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      {
+        "nome": "Zucco & Power, material suplementar (LAPS, DOI 10.1017/lap.2023.24)",
+        "url": "https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S1531426X23000249/resource/name/S1531426X23000249sup001.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      {
+        "nome": "V-Party Dataset v2 (V-Dem), via pacote vdemdata",
+        "url": "https://raw.githubusercontent.com/vdeminstitute/vdemdata/master/data/vparty.RData",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      {
+        "nome": "PREPPS Latam V2 (Harvard Dataverse, DOI 10.7910/DVN/JLOYIJ), dados TSV",
+        "url": "https://dataverse.harvard.edu/api/access/datafile/4372420",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      {
+        "nome": "Tarouco, G. (2022), 'Esquerda, direita e eleições presidenciais no Brasil', Estudos Avançados 36(106), DOI 10.1590/s0103-4014.2022.36106.008",
+        "url": "https://revistas.usp.br/eav/article/download/205986/189561",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      }
     ],
     "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/11_espectro_ideologico_didatico.md",
     "atualizado_em": "2026-10-21"
@@ -514,11 +1189,20 @@
     "categoria": "ideologia",
     "definicao_simples": "Identidade negativa em relação ao PT; principal variável explicativa do voto em Bolsonaro em 2018.",
     "definicao_completa_md": "Zanotti, Rama & Tanscheit (2023) identificam o antipetismo como a principal variável explicativa do voto em Bolsonaro em 2018, ao lado de perfil branco, evangélico, de renda mais alta, favorável a 'mão dura' e com menor apego à democracia.",
-    "exemplos_historicos": ["Eleição presidencial de 2018"],
+    "exemplos_historicos": [
+      "Eleição presidencial de 2018"
+    ],
     "o_que_nao_e": "Não é uma ideologia positiva: define-se pela rejeição a um partido.",
-    "criterios_academicos": ["Identidade partidária negativa (Zanotti et al., 2023)."],
+    "criterios_academicos": [
+      "Identidade partidária negativa (Zanotti et al., 2023)."
+    ],
     "fontes": [
-      { "nome": "Zanotti, Rama & Tanscheit, Opinião Pública 29(1), 2023", "url": "https://www.redalyc.org/journal/329/32975189001/", "acesso_em": "2026-10-21", "tier": "academico" }
+      {
+        "nome": "Zanotti, Rama & Tanscheit, Opinião Pública 29(1), 2023",
+        "url": "https://www.redalyc.org/journal/329/32975189001/",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      }
     ],
     "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/11_espectro_ideologico_didatico.md",
     "atualizado_em": "2026-10-21"
@@ -529,30 +1213,78 @@
     "categoria": "ideologia",
     "definicao_simples": "Uso de 'comunista' como acusação política, com raízes na Intentona de 1935, no Plano Cohen (1937) e no golpe de 1964, quando o rótulo serviu para justificar ditaduras.",
     "definicao_completa_md": "O PCB foi fundado em março de 1922; a revolta de novembro de 1935 liderada por Prestes virou 'mito fundador da ameaça comunista'; em novembro de 1937, sob pretexto do Plano Cohen, instaurou-se o Estado Novo; o registro do PCB foi cassado em 1947 e o partido ficou ilegal até 1985; Prestes e o PCB serviram de pretexto para o golpe de 1964. A nota infere que essa herança explica a persistência do rótulo mesmo contra partidos que não propõem abolir a propriedade privada.",
-    "exemplos_historicos": ["Intentona Comunista (nov/1935)", "Plano Cohen e Estado Novo (1937)", "Cassação do PCB (1947)", "Golpe de 1964"],
+    "exemplos_historicos": [
+      "Intentona Comunista (nov/1935)",
+      "Plano Cohen e Estado Novo (1937)",
+      "Cassação do PCB (1947)",
+      "Golpe de 1964"
+    ],
     "o_que_nao_e": "Não é um teste de programa: o critério para 'comunismo' é abolição da propriedade privada, banco estatal monopolista e partido único.",
     "criterios_academicos": [],
     "fontes": [
-      { "nome": "Correio Braziliense (coluna: 100 anos do PCB)", "url": "https://blogs.correiobraziliense.com.br/azedo/nas-entrelinhas-disputa-de-legado-marca-os-100-anos-de-pcb/", "acesso_em": "2026-10-21", "tier": "imprensa" },
-      { "nome": "Portal Latino-Americano USP (Prestes)", "url": "https://sites.usp.br/portalatinoamericano/espanol-prestes-luiz-carlos", "acesso_em": "2026-10-21", "tier": "academico" },
-      { "nome": "UFF Mundo Livre", "url": "https://periodicos.uff.br/mundolivre/article/download/39968/23042/134303", "acesso_em": "2026-10-21", "tier": "academico" }
+      {
+        "nome": "Correio Braziliense (coluna: 100 anos do PCB)",
+        "url": "https://blogs.correiobraziliense.com.br/azedo/nas-entrelinhas-disputa-de-legado-marca-os-100-anos-de-pcb/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      {
+        "nome": "Portal Latino-Americano USP (Prestes)",
+        "url": "https://sites.usp.br/portalatinoamericano/espanol-prestes-luiz-carlos",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      {
+        "nome": "UFF Mundo Livre",
+        "url": "https://periodicos.uff.br/mundolivre/article/download/39968/23042/134303",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      }
     ],
     "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/11_espectro_ideologico_didatico.md",
     "atualizado_em": "2026-10-21",
-    "lacunas": ["Nenhum verbete CPDOC/FGV fetchado; fontes jornalísticas e periódico da UFF."]
+    "lacunas": [
+      "Nenhum verbete CPDOC/FGV fetchado; fontes jornalísticas e periódico da UFF."
+    ]
   },
   {
     "termo": "Brazilian Legislative Survey (BLS)",
     "slug": "bls",
     "categoria": "ideologia",
     "definicao_simples": "Survey de deputados e senadores conduzido por Timothy Power e Cesar Zucco em nove ondas (1990–2021), em que parlamentares posicionam partidos numa escala 1–10, reescalada para aproximadamente -1 (esquerda) a +1 (direita).",
-    "definicao_completa_md": "Zucco & Power (*Latin American Politics and Society*, DOI 10.1017/lap.2023.24): nove ondas da 48ª (1990) à 56ª Legislatura (2021); 17.974 avaliações de 24 partidos em 127 partido-anos por 1.031 legisladores; modelo espacial adaptado de Aldrich-McKelvey em framework bayesiano; estimativas centradas em zero, negativo = esquerda; erro padrão ≈ 0,03–0,05 (até 0,10 para partidos pequenos em 2021). Correlaciona r = 0,97 com o expert survey PREPPS. Achados: polarização crescente e 'esvaziamento do centro'; Bolsonaro (+0,87) é 'o presidente mais extremo da era democrática'; Lula I-II -0,41; Dilma I -0,41; Dilma II -0,50; Temer +0,55; FHC +0,18; Collor +0,62.",
-    "exemplos_historicos": ["Tabela C1 (partidos 1990–2021) e C2 (presidentes)"],
+    "definicao_completa_md": "Zucco & Power (*Latin American Politics and Society*, DOI 10.1017/lap.2023.24): nove ondas da 48ª (1990) à 56ª Legislatura (2021); 17.974 avaliações de 24 partidos em 127 partido-anos por 1.031 legisladores; modelo espacial adaptado de Aldrich-McKelvey em framework bayesiano; estimativas centradas em zero, negativo = esquerda; erro padrão ≈ 0,03–0,05 (até 0,10 para partidos pequenos em 2021). Correlaciona r = 0,97 com o expert survey PREPPS. Achados: polarização crescente e 'esvaziamento do centro'; Bolsonaro (+0,87) é 'o presidente mais extremo da era democrática'; Lula I-II -0,41; Dilma I -0,41; Dilma II -0,50; Temer +0,55; FHC +0,18; Collor +0,62.\n\n**Convergência com outras réguas (rodada 2):** a ordem dos partidos é quase idêntica na BLS 2021, na PREPPS 2018–19 (1–20) e no V-Party 2018 (0–6): PSOL -0,874 / 1,66 / —; PT -0,691 / 5,04 / 1,39; PSB -0,427 / 7,97 / 1,84; PDT -0,356 / 6,66 / 1,92; MDB +0,137 / 14,66 / 3,66; PSDB +0,157 / 14,77 / 4,20; PSD +0,296 / 15,81 / 4,18; PL +0,493 / 17,05 / 4,44; PP +0,510 / 17,00 / 4,79; Republicanos +0,550 / 16,81 / 4,52; DEM +0,431 / 18,09 / 4,59; Novo +0,711 / 18,31 / —; PSL +0,803 / 18,35 / 5,37; Bolsonaro +0,87 / 19,26 / —. Exceção: o PTB, que a PREPPS põe mais ao centro (13,88) que a BLS (+0,455).",
+    "exemplos_historicos": [
+      "Tabela C1 (partidos 1990–2021) e C2 (presidentes)"
+    ],
     "o_que_nao_e": "Não há onda publicada após 2021; a 57ª Legislatura aparece apenas como projeção com ajustes para União e PL.",
-    "criterios_academicos": ["Escala 1–10 com redação idêntica em todas as ondas; modelo Aldrich-McKelvey bayesiano; validação externa com PREPPS (r = 0,97)."],
+    "criterios_academicos": [
+      "Escala 1–10 com redação idêntica em todas as ondas; modelo Aldrich-McKelvey bayesiano; validação externa com PREPPS (r = 0,97)."
+    ],
     "fontes": [
-      { "nome": "Zucco & Power, Latin American Politics and Society (Cambridge Core)", "url": "https://www.cambridge.org/core/product/FAF5489B3E01D39A16DBB4971458AD48/core-reader", "acesso_em": "2026-10-21", "tier": "academico" },
-      { "nome": "Zucco & Power, material suplementar", "url": "https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S1531426X23000249/resource/name/S1531426X23000249sup001.pdf", "acesso_em": "2026-10-21", "tier": "academico" }
+      {
+        "nome": "Zucco & Power, Latin American Politics and Society (Cambridge Core)",
+        "url": "https://www.cambridge.org/core/product/FAF5489B3E01D39A16DBB4971458AD48/core-reader",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      {
+        "nome": "Zucco & Power, material suplementar",
+        "url": "https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S1531426X23000249/resource/name/S1531426X23000249sup001.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      {
+        "nome": "PREPPS Latam V2 (Harvard Dataverse, DOI 10.7910/DVN/JLOYIJ), dados TSV",
+        "url": "https://dataverse.harvard.edu/api/access/datafile/4372420",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      {
+        "nome": "V-Party Dataset v2 (V-Dem), via pacote vdemdata",
+        "url": "https://raw.githubusercontent.com/vdeminstitute/vdemdata/master/data/vparty.RData",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      }
     ],
     "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/11_espectro_ideologico_didatico.md",
     "atualizado_em": "2026-10-21"
@@ -563,13 +1295,31 @@
     "categoria": "economia",
     "definicao_simples": "LC 179/2021: o BC virou autarquia especial com mandatos fixos de 4 anos para presidente e diretores, não coincidentes com o do presidente da República; mantida pelo governo Lula apesar de discordância pessoal.",
     "definicao_completa_md": "A LC 179/2021 (sancionada no governo Bolsonaro) deu ao BC natureza de autarquia especial; o STF confirmou a constitucionalidade por 8 a 2 na ADI 6.696. Lula declarou não concordar ('Se eu tivesse voto, eu era contra. Mas tá aí, vai ficar') e criticou a Selic na gestão Campos Neto; em dez/2024 garantiu que o governo 'não vai interferir' na gestão Galípolo, que completou um ano (dez/2025) com postura descrita como ainda mais ortodoxa.",
-    "exemplos_historicos": ["ADI 6.696 (STF, 8 a 2)", "Transição Campos Neto → Galípolo (dez/2024)"],
+    "exemplos_historicos": [
+      "ADI 6.696 (STF, 8 a 2)",
+      "Transição Campos Neto → Galípolo (dez/2024)"
+    ],
     "o_que_nao_e": "Não significa que o BC define a meta de inflação: a meta é fixada pelo CMN (governo).",
     "criterios_academicos": [],
     "fontes": [
-      { "nome": "Dizer o Direito (LC 179/2021)", "url": "https://www.dizerodireito.com.br/2021/02/lei-complementar-1792021-confere.html", "acesso_em": "2026-10-21", "tier": "academico" },
-      { "nome": "CartaCapital (Lula sobre autonomia do BC)", "url": "https://www.cartacapital.com.br/?p=451642", "acesso_em": "2026-10-21", "tier": "imprensa" },
-      { "nome": "Monitor Mercantil (STF confirma autonomia)", "url": "https://monitormercantil.com.br/stf-confirma-autonomia-do-bc/", "acesso_em": "2026-10-21", "tier": "imprensa" }
+      {
+        "nome": "Dizer o Direito (LC 179/2021)",
+        "url": "https://www.dizerodireito.com.br/2021/02/lei-complementar-1792021-confere.html",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      {
+        "nome": "CartaCapital (Lula sobre autonomia do BC)",
+        "url": "https://www.cartacapital.com.br/?p=451642",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      {
+        "nome": "Monitor Mercantil (STF confirma autonomia)",
+        "url": "https://monitormercantil.com.br/stf-confirma-autonomia-do-bc/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
     ],
     "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/11_espectro_ideologico_didatico.md",
     "atualizado_em": "2026-10-21"
@@ -580,11 +1330,18 @@
     "categoria": "juridico",
     "definicao_simples": "Momento em que uma decisão judicial se torna definitiva, sem mais possibilidade de recurso.",
     "definicao_completa_md": "Exemplo documentado nas notas: a condenação de Jair Bolsonaro pela Primeira Turma do STF (11/09/2025, 27 anos e 3 meses) transitou em julgado em 25/11/2025, quando o STF declarou o fim do processo e o início do cumprimento da pena. Lula e Flávio Bolsonaro, por sua vez, não têm condenação transitada em julgado: as de Lula foram anuladas em 2021 e Flávio nunca foi julgado no mérito.",
-    "exemplos_historicos": ["AP da trama golpista (STF): trânsito em julgado em 25/11/2025"],
+    "exemplos_historicos": [
+      "AP da trama golpista (STF): trânsito em julgado em 25/11/2025"
+    ],
     "o_que_nao_e": "Não é o mesmo que condenação em 1ª ou 2ª instância, que ainda admite recurso.",
     "criterios_academicos": [],
     "fontes": [
-      { "nome": "Diario de Pernambuco (STF declara fim do processo da trama golpista)", "url": "https://www.diariodepernambuco.com.br/politica/2025/11/11701391-stf-declara-fim-do-processo-da-trama-golpista-e-bolsonaro-ja-pode-cumprir-pena.html", "acesso_em": "2026-10-21", "tier": "imprensa" }
+      {
+        "nome": "Diario de Pernambuco (STF declara fim do processo da trama golpista)",
+        "url": "https://www.diariodepernambuco.com.br/politica/2025/11/11701391-stf-declara-fim-do-processo-da-trama-golpista-e-bolsonaro-ja-pode-cumprir-pena.html",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
     ],
     "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/11_espectro_ideologico_didatico.md",
     "atualizado_em": "2026-10-21"
@@ -595,13 +1352,30 @@
     "categoria": "juridico",
     "definicao_simples": "Decisão em que o tribunal examina as provas e conclui que o réu não cometeu o crime (ou não há prova suficiente); difere de anulação por vício processual, que não julga a culpa.",
     "definicao_completa_md": "As notas distinguem os dois casos: as condenações de Lula (tríplex e Atibaia) foram anuladas pelo STF em 2021 por incompetência da 13ª Vara de Curitiba e por parcialidade do juiz, sem absolvição de mérito; a denúncia da 'rachadinha' contra Flávio Bolsonaro foi arquivada pelo TJRJ em 2022 por anulação de provas, também sem julgamento de mérito. Lula foi absolvido no mérito no caso 'Quadrilhão do PT' (23/11/2018). A Lupa classificou como FALSA a frase de Flávio de que Lula foi 'condenado em todas as instâncias e descondenado pelos amigos'.",
-    "exemplos_historicos": ["'Quadrilhão do PT': absolvição de Lula em 23/11/2018"],
+    "exemplos_historicos": [
+      "'Quadrilhão do PT': absolvição de Lula em 23/11/2018"
+    ],
     "o_que_nao_e": "Não é anulação por incompetência nem arquivamento por prescrição.",
     "criterios_academicos": [],
     "fontes": [
-      { "nome": "Wikipédia pt, Prisão de Luiz Inácio Lula da Silva", "url": "https://pt.wikipedia.org/wiki/Pris%C3%A3o_de_Luiz_In%C3%A1cio_Lula_da_Silva", "acesso_em": "2026-10-21", "tier": "imprensa" },
-      { "nome": "Lupa, checagem do debate da Band (18/10/2026)", "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/", "acesso_em": "2026-10-21", "tier": "checagem" },
-      { "nome": "Poder360, Justiça arquiva denúncia da rachadinha", "url": "https://www.poder360.com.br/justica/justica-arquiva-denuncia-contra-flavio-bolsonaro-por-rachadinhas/", "acesso_em": "2026-10-21", "tier": "imprensa" }
+      {
+        "nome": "Wikipédia pt, Prisão de Luiz Inácio Lula da Silva",
+        "url": "https://pt.wikipedia.org/wiki/Pris%C3%A3o_de_Luiz_In%C3%A1cio_Lula_da_Silva",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      {
+        "nome": "Lupa, checagem do debate da Band (18/10/2026)",
+        "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      {
+        "nome": "Poder360, Justiça arquiva denúncia da rachadinha",
+        "url": "https://www.poder360.com.br/justica/justica-arquiva-denuncia-contra-flavio-bolsonaro-por-rachadinhas/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
     ],
     "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/09_acusacoes_e_falas_flavio_x_lula.md",
     "atualizado_em": "2026-10-21"
@@ -612,11 +1386,18 @@
     "categoria": "juridico",
     "definicao_simples": "Anulação de um processo porque o juízo que o conduziu não tinha competência legal para julgá-lo; o caso recomeça no juízo correto, sem decidir a culpa.",
     "definicao_completa_md": "Em 08/03/2021 o ministro Fachin (STF) anulou as condenações de Lula (tríplex e Atibaia) por incompetência da 13ª Vara Federal de Curitiba, decisão confirmada pelo plenário em 15/04/2021. Os processos foram remetidos ao DF; o do tríplex foi arquivado em 28/01/2022 por prescrição iminente.",
-    "exemplos_historicos": ["HC de Lula no STF (08/03/2021; plenário 15/04/2021)"],
+    "exemplos_historicos": [
+      "HC de Lula no STF (08/03/2021; plenário 15/04/2021)"
+    ],
     "o_que_nao_e": "Não é absolvição: a culpa não foi examinada.",
     "criterios_academicos": [],
     "fontes": [
-      { "nome": "Wikipédia pt, Prisão de Luiz Inácio Lula da Silva", "url": "https://pt.wikipedia.org/wiki/Pris%C3%A3o_de_Luiz_In%C3%A1cio_Lula_da_Silva", "acesso_em": "2026-10-21", "tier": "imprensa" }
+      {
+        "nome": "Wikipédia pt, Prisão de Luiz Inácio Lula da Silva",
+        "url": "https://pt.wikipedia.org/wiki/Pris%C3%A3o_de_Luiz_In%C3%A1cio_Lula_da_Silva",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
     ],
     "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/09_acusacoes_e_falas_flavio_x_lula.md",
     "atualizado_em": "2026-10-21"
@@ -627,11 +1408,18 @@
     "categoria": "juridico",
     "definicao_simples": "Reconhecimento de que o juiz não tinha a imparcialidade exigida para julgar o caso, o que invalida seus atos no processo.",
     "definicao_completa_md": "Em 23/03/2021 a 2ª Turma do STF declarou Sergio Moro parcial no caso do tríplex (HC 164.493); o ministro Gilmar Mendes estendeu a parcialidade aos casos Atibaia e Instituto Lula. Em 27–28/04/2022 o Comitê de Direitos Humanos da ONU também concluiu pela parcialidade de Moro.",
-    "exemplos_historicos": ["HC 164.493 (STF, 23/03/2021)"],
+    "exemplos_historicos": [
+      "HC 164.493 (STF, 23/03/2021)"
+    ],
     "o_que_nao_e": "Não é julgamento sobre a culpa do réu.",
     "criterios_academicos": [],
     "fontes": [
-      { "nome": "Wikipédia pt, Prisão de Luiz Inácio Lula da Silva", "url": "https://pt.wikipedia.org/wiki/Pris%C3%A3o_de_Luiz_In%C3%A1cio_Lula_da_Silva", "acesso_em": "2026-10-21", "tier": "imprensa" }
+      {
+        "nome": "Wikipédia pt, Prisão de Luiz Inácio Lula da Silva",
+        "url": "https://pt.wikipedia.org/wiki/Pris%C3%A3o_de_Luiz_In%C3%A1cio_Lula_da_Silva",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
     ],
     "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/09_acusacoes_e_falas_flavio_x_lula.md",
     "atualizado_em": "2026-10-21"
@@ -642,11 +1430,18 @@
     "categoria": "juridico",
     "definicao_simples": "Perda do direito do Estado de punir pelo decurso do tempo; o processo é extinto sem decidir a culpa.",
     "definicao_completa_md": "Em 07/12/2021 o MPF-DF pediu o arquivamento do caso do tríplex por prescrição iminente; em 28/01/2022 a juíza Pollyanna Alves arquivou o processo. A nova denúncia do caso Atibaia foi rejeitada.",
-    "exemplos_historicos": ["Caso tríplex (arquivamento em 28/01/2022)"],
+    "exemplos_historicos": [
+      "Caso tríplex (arquivamento em 28/01/2022)"
+    ],
     "o_que_nao_e": "Não é absolvição nem condenação.",
     "criterios_academicos": [],
     "fontes": [
-      { "nome": "Wikipédia pt, Prisão de Luiz Inácio Lula da Silva", "url": "https://pt.wikipedia.org/wiki/Pris%C3%A3o_de_Luiz_In%C3%A1cio_Lula_da_Silva", "acesso_em": "2026-10-21", "tier": "imprensa" }
+      {
+        "nome": "Wikipédia pt, Prisão de Luiz Inácio Lula da Silva",
+        "url": "https://pt.wikipedia.org/wiki/Pris%C3%A3o_de_Luiz_In%C3%A1cio_Lula_da_Silva",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
     ],
     "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/09_acusacoes_e_falas_flavio_x_lula.md",
     "atualizado_em": "2026-10-21"
@@ -663,7 +1458,9 @@
     "fontes": [],
     "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/09_acusacoes_e_falas_flavio_x_lula.md",
     "atualizado_em": "2026-10-21",
-    "lacunas": ["Definição não sustentada por fonte nas notas lidas; mantida genérica."]
+    "lacunas": [
+      "Definição não sustentada por fonte nas notas lidas; mantida genérica."
+    ]
   },
   {
     "termo": "Delação premiada (colaboração premiada)",
@@ -671,15 +1468,24 @@
     "categoria": "juridico",
     "definicao_simples": "Acordo em que um investigado confessa e entrega informações sobre outros envolvidos em troca de redução de pena; só vale com provas de corroboração.",
     "definicao_completa_md": "Definição genérica. Nas notas: as três propostas de delação de Daniel Vorcaro (maio, junho e agosto de 2026) não contêm o suposto anexo sobre propina ao documentário de Lula; PF e PGR negaram que o depoimento exista (Lupa e Aos Fatos, 16/10/2026).",
-    "exemplos_historicos": ["Propostas de delação de Daniel Vorcaro (2026), segundo Lupa/Aos Fatos"],
+    "exemplos_historicos": [
+      "Propostas de delação de Daniel Vorcaro (2026), segundo Lupa/Aos Fatos"
+    ],
     "o_que_nao_e": "Não é prova por si só: a palavra do delator precisa de corroboração.",
     "criterios_academicos": [],
     "fontes": [
-      { "nome": "Lupa, checagem da entrevista de Flávio Bolsonaro na Globo (16/10/2026)", "url": "https://www.agencialupa.org/checagem/2026/10/16/ao-vivo-checagem-da-entrevista-de-flavio-bolsonaro-na-globo/", "acesso_em": "2026-10-21", "tier": "checagem" }
+      {
+        "nome": "Lupa, checagem da entrevista de Flávio Bolsonaro na Globo (16/10/2026)",
+        "url": "https://www.agencialupa.org/checagem/2026/10/16/ao-vivo-checagem-da-entrevista-de-flavio-bolsonaro-na-globo/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      }
     ],
     "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/08_eleicao_2026_cenario_checagens.md",
     "atualizado_em": "2026-10-21",
-    "lacunas": ["Definição conceitual genérica; fonte legal (Lei 12.850/2013) não consta das notas lidas."]
+    "lacunas": [
+      "Definição conceitual genérica; fonte legal (Lei 12.850/2013) não consta das notas lidas."
+    ]
   },
   {
     "termo": "Acordo de leniência",
@@ -693,7 +1499,9 @@
     "fontes": [],
     "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/08_eleicao_2026_cenario_checagens.md",
     "atualizado_em": "2026-10-21",
-    "lacunas": ["Definição não sustentada por fonte nas notas lidas; mantida genérica."]
+    "lacunas": [
+      "Definição não sustentada por fonte nas notas lidas; mantida genérica."
+    ]
   },
   {
     "termo": "Resultado primário",
@@ -701,11 +1509,19 @@
     "categoria": "economia",
     "definicao_simples": "Diferença entre receitas e despesas do governo sem contar os juros da dívida; superávit quando sobra, déficit quando falta.",
     "definicao_completa_md": "Exemplos documentados nas notas: 2022 fechou com superávit primário de R$ 54,1 bi (0,5% do PIB); o déficit de 2023 (R$ 228,5 bi) incluiu precatórios (TCU registrou 2,4% do PIB); as metas de 2024 e 2025 terminaram em déficit de -0,4% e -0,48% do PIB; o PLOA 2027 prevê superávit de R$ 18,6–18,8 bi (0,13% do PIB). A frase de Lula 'déficit de 2,8% quando assumi' foi classificada como FALSA pela Lupa.",
-    "exemplos_historicos": ["Superávit de 0,5% do PIB em 2022", "Metas de 2024 e 2025 encerradas em déficit (-0,4% e -0,48%)"],
+    "exemplos_historicos": [
+      "Superávit de 0,5% do PIB em 2022",
+      "Metas de 2024 e 2025 encerradas em déficit (-0,4% e -0,48%)"
+    ],
     "o_que_nao_e": "Não é o resultado nominal, que inclui os juros.",
     "criterios_academicos": [],
     "fontes": [
-      { "nome": "Lupa, checagem do debate da Band (18/10/2026)", "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/", "acesso_em": "2026-10-21", "tier": "checagem" }
+      {
+        "nome": "Lupa, checagem do debate da Band (18/10/2026)",
+        "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      }
     ],
     "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/08_eleicao_2026_cenario_checagens.md",
     "atualizado_em": "2026-10-21"
@@ -716,12 +1532,25 @@
     "categoria": "economia",
     "definicao_simples": "Dívida Bruta do Governo Geral: total devido por União, estados e municípios, medido pelo Banco Central em % do PIB.",
     "definicao_completa_md": "Nas notas: DBGG de R$ 11,1 trilhões (82,9% do PIB) em ago/2026 (BC, 30/09/2026), contra R$ 7,2 tri (73,5% do PIB) em dez/2022; a frase de Flávio 'a dívida tá em 11 trilhões' foi classificada como VERDADEIRA pela Lupa e 'acertou' pelo Aos Fatos. O FMI usa metodologia diferente (93,3% em 2025; projeção de 97,8% em 2026 no Artigo IV).",
-    "exemplos_historicos": ["82,9% do PIB em ago/2026 (BCB)", "73,5% do PIB em dez/2022"],
+    "exemplos_historicos": [
+      "82,9% do PIB em ago/2026 (BCB)",
+      "73,5% do PIB em dez/2022"
+    ],
     "o_que_nao_e": "Não é a dívida líquida (que desconta ativos como reservas) nem o número do FMI, que inclui títulos na carteira do BC.",
     "criterios_academicos": [],
     "fontes": [
-      { "nome": "Lupa, checagem da entrevista de Flávio Bolsonaro na Globo (16/10/2026)", "url": "https://www.agencialupa.org/checagem/2026/10/16/ao-vivo-checagem-da-entrevista-de-flavio-bolsonaro-na-globo/", "acesso_em": "2026-10-21", "tier": "checagem" },
-      { "nome": "BCB, SGS série 4390", "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.4390/dados?formato=json", "acesso_em": "2026-10-21", "tier": "oficial" }
+      {
+        "nome": "Lupa, checagem da entrevista de Flávio Bolsonaro na Globo (16/10/2026)",
+        "url": "https://www.agencialupa.org/checagem/2026/10/16/ao-vivo-checagem-da-entrevista-de-flavio-bolsonaro-na-globo/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      {
+        "nome": "BCB, SGS série 4390",
+        "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.4390/dados?formato=json",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
     ],
     "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/10_temas_mais_buscados_internet_2026.md",
     "atualizado_em": "2026-10-21"
@@ -732,16 +1561,30 @@
     "categoria": "economia",
     "definicao_simples": "Regra em vigor desde ago/2023: a despesa federal cresce entre 0,6% e 2,5% reais ao ano, limitada a 70% do crescimento da receita, com metas de resultado primário (zero em 2024, +0,5% em 2025, +1% em 2026).",
     "definicao_completa_md": "Substituiu o teto de gastos. O programa de Lula para 2026 promete manutenção do arcabouço com controle do gasto primário; a equipe de Flávio Bolsonaro (Daniella Marques) propõe 'revisão do arcabouço', Conselho Superior de Governança Fiscal e corte de 1,5% do PIB. Em dez/2024 Lula afirmou ter tomado 'medidas para proteger o arcabouço'.",
-    "exemplos_historicos": ["Metas de 2024 e 2025 encerradas em déficit (-0,4% e -0,48% do PIB), segundo a Lupa"],
+    "exemplos_historicos": [
+      "Metas de 2024 e 2025 encerradas em déficit (-0,4% e -0,48% do PIB), segundo a Lupa"
+    ],
     "o_que_nao_e": "Não é o teto de gastos (EC 95/2016), que congelava a despesa em termos reais.",
     "criterios_academicos": [],
     "fontes": [
-      { "nome": "Wikipédia pt, Governo Lula (2023–presente)", "url": "https://pt.wikipedia.org/wiki/Governo_Lula_(2023%E2%80%93presente)", "acesso_em": "2026-10-21", "tier": "imprensa" },
-      { "nome": "Poder360, 'revogaço' e revisão do arcabouço (Daniella Marques)", "url": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-tera-revogaco-para-reorganizar-as-contas-diz-daniella-marques/", "acesso_em": "2026-10-21", "tier": "imprensa" }
+      {
+        "nome": "Wikipédia pt, Governo Lula (2023–presente)",
+        "url": "https://pt.wikipedia.org/wiki/Governo_Lula_(2023%E2%80%93presente)",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      {
+        "nome": "Poder360, 'revogaço' e revisão do arcabouço (Daniella Marques)",
+        "url": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-tera-revogaco-para-reorganizar-as-contas-diz-daniella-marques/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
     ],
     "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/08_eleicao_2026_cenario_checagens.md",
     "atualizado_em": "2026-10-21",
-    "lacunas": ["Detalhamento da LC 200/2023 consta em outra nota (02_contas_publicas_divida.md), não lida aqui."]
+    "lacunas": [
+      "Detalhamento da LC 200/2023 consta em outra nota (02_contas_publicas_divida.md), não lida aqui."
+    ]
   },
   {
     "termo": "Teto de gastos (EC 95/2016)",
@@ -755,7 +1598,9 @@
     "fontes": [],
     "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/08_eleicao_2026_cenario_checagens.md",
     "atualizado_em": "2026-10-21",
-    "lacunas": ["Definição não sustentada por fonte nas notas lidas; ver nota 02_contas_publicas_divida.md."]
+    "lacunas": [
+      "Definição não sustentada por fonte nas notas lidas; ver nota 02_contas_publicas_divida.md."
+    ]
   },
   {
     "termo": "Meta de inflação",
@@ -763,16 +1608,30 @@
     "categoria": "economia",
     "definicao_simples": "Objetivo de inflação (IPCA) fixado pelo Conselho Monetário Nacional e perseguido pelo Banco Central via Selic; o intervalo de tolerância tem teto de 4,5%.",
     "definicao_completa_md": "Nas notas: o IPCA de set/2026 acumulou 4,58% em 12 meses, 'acima do teto de 4,5%' (CNA/IBGE). A meta é fixada pelo CMN (governo), não pelo BC autônomo.",
-    "exemplos_historicos": ["IPCA 12 meses de 4,58% em set/2026, acima do teto"],
+    "exemplos_historicos": [
+      "IPCA 12 meses de 4,58% em set/2026, acima do teto"
+    ],
     "o_que_nao_e": "Não é a Selic, que é o instrumento para perseguir a meta.",
     "criterios_academicos": [],
     "fontes": [
-      { "nome": "CNA, Comunicado Técnico Ed. 18/2026 (IPCA set/2026)", "url": "https://cnabrasil.org.br/storage/arquivos/files/Ed.18-CT-IPCA-IPCA-14.OUT.2026.pdf", "acesso_em": "2026-10-21", "tier": "imprensa" },
-      { "nome": "Brasil 61, IPCA sobe 0,82% em setembro", "url": "https://brasil61.com/n/ipca-sobe-0-82-em-setembro-pressionado-pela-energia-eletrica-e-pelos-alimentos-bras2617281", "acesso_em": "2026-10-21", "tier": "imprensa" }
+      {
+        "nome": "CNA, Comunicado Técnico Ed. 18/2026 (IPCA set/2026)",
+        "url": "https://cnabrasil.org.br/storage/arquivos/files/Ed.18-CT-IPCA-IPCA-14.OUT.2026.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      {
+        "nome": "Brasil 61, IPCA sobe 0,82% em setembro",
+        "url": "https://brasil61.com/n/ipca-sobe-0-82-em-setembro-pressionado-pela-energia-eletrica-e-pelos-alimentos-bras2617281",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
     ],
     "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/10_temas_mais_buscados_internet_2026.md",
     "atualizado_em": "2026-10-21",
-    "lacunas": ["Valor central da meta (3%) e norma do CMN não constam das notas lidas."]
+    "lacunas": [
+      "Valor central da meta (3%) e norma do CMN não constam das notas lidas."
+    ]
   },
   {
     "termo": "Selic",
@@ -780,12 +1639,25 @@
     "categoria": "economia",
     "definicao_simples": "Taxa básica de juros da economia, decidida pelo Copom (Banco Central); referência para os demais juros.",
     "definicao_completa_md": "Nas notas: Selic de 15,0% em jun/2025 (maior desde 2006) → 13,75% desde 17/09/2026, após 4 cortes; juro real ex-post ~9,5% a.a.; Focus (16/10/2026) projeta 13,25% no fim de 2026. A frase de Flávio de que os juros caíram porque ele liderou o 1º turno foi classificada como incorreta pelo Aos Fatos; a Lupa confirmou que o Brasil lidera o ranking de juros reais (9,67%).",
-    "exemplos_historicos": ["15,0% (jun/2025)", "13,75% (desde 17/09/2026)"],
+    "exemplos_historicos": [
+      "15,0% (jun/2025)",
+      "13,75% (desde 17/09/2026)"
+    ],
     "o_que_nao_e": "Não é definida pelo presidente da República desde a LC 179/2021.",
     "criterios_academicos": [],
     "fontes": [
-      { "nome": "Ipea, Carta de Conjuntura — Panorama fiscal (08/10/2026)", "url": "https://www.ipea.gov.br/cartadeconjuntura/index.php/2026/10/panorama-fiscal-evolucao-recente-e-perspectivas-10/", "acesso_em": "2026-10-21", "tier": "oficial" },
-      { "nome": "Aos Fatos, checagem do debate da Band (18/10/2026)", "url": "https://www.aosfatos.org/noticias/checamos-lula-flavio-bolsonaro-debate-band/", "acesso_em": "2026-10-21", "tier": "checagem" }
+      {
+        "nome": "Ipea, Carta de Conjuntura — Panorama fiscal (08/10/2026)",
+        "url": "https://www.ipea.gov.br/cartadeconjuntura/index.php/2026/10/panorama-fiscal-evolucao-recente-e-perspectivas-10/",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      {
+        "nome": "Aos Fatos, checagem do debate da Band (18/10/2026)",
+        "url": "https://www.aosfatos.org/noticias/checamos-lula-flavio-bolsonaro-debate-band/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      }
     ],
     "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/10_temas_mais_buscados_internet_2026.md",
     "atualizado_em": "2026-10-21"
@@ -796,15 +1668,24 @@
     "categoria": "economia",
     "definicao_simples": "Pesquisa domiciliar do IBGE que mede desemprego, ocupação e renda; base da taxa de desocupação oficial.",
     "definicao_completa_md": "Nas notas: desemprego de 7,8% no fim de 2023 (menor desde 2014); média de 6,6% em 2024; 5,6% no trimestre até set/2025; 5,3% em 2026, 'menor taxa da série'.",
-    "exemplos_historicos": ["Taxa de desocupação de 5,3% em 2026 (menor da série)"],
+    "exemplos_historicos": [
+      "Taxa de desocupação de 5,3% em 2026 (menor da série)"
+    ],
     "o_que_nao_e": "Não mede emprego formal com carteira (isso é o Caged).",
     "criterios_academicos": [],
     "fontes": [
-      { "nome": "Wikipédia pt, Governo Lula (2023–presente)", "url": "https://pt.wikipedia.org/wiki/Governo_Lula_(2023%E2%80%93presente)", "acesso_em": "2026-10-21", "tier": "imprensa" }
+      {
+        "nome": "Wikipédia pt, Governo Lula (2023–presente)",
+        "url": "https://pt.wikipedia.org/wiki/Governo_Lula_(2023%E2%80%93presente)",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
     ],
     "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/08_eleicao_2026_cenario_checagens.md",
     "atualizado_em": "2026-10-21",
-    "lacunas": ["Fonte primária do IBGE não consta das notas lidas; dados via Wikipédia e Jovem Pan."]
+    "lacunas": [
+      "Fonte primária do IBGE não consta das notas lidas; dados via Wikipédia e Jovem Pan."
+    ]
   },
   {
     "termo": "Caged (Novo Caged)",
@@ -812,11 +1693,18 @@
     "categoria": "economia",
     "definicao_simples": "Registro administrativo do Ministério do Trabalho com admissões e demissões de empregos formais (carteira assinada).",
     "definicao_completa_md": "Nas notas: estoque recorde de 48.244.696 vínculos em ago/2026; saldo de 2025 de +1.279.498 (pior ano da série nova fora da pandemia); acumulado jan–ago/2026 de +1.134.033.",
-    "exemplos_historicos": ["Estoque de 48,2 milhões de vínculos (ago/2026)"],
+    "exemplos_historicos": [
+      "Estoque de 48,2 milhões de vínculos (ago/2026)"
+    ],
     "o_que_nao_e": "Não inclui informais nem autônomos.",
     "criterios_academicos": [],
     "fontes": [
-      { "nome": "MTE, Caged ago/2026 (PDF via Poder360)", "url": "https://static.poder360.com.br/uploads/2026/09/caged-agosto-2026.pdf", "acesso_em": "2026-10-21", "tier": "oficial" }
+      {
+        "nome": "MTE, Caged ago/2026 (PDF via Poder360)",
+        "url": "https://static.poder360.com.br/uploads/2026/09/caged-agosto-2026.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
     ],
     "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/10_temas_mais_buscados_internet_2026.md",
     "atualizado_em": "2026-10-21"
@@ -826,14 +1714,25 @@
     "slug": "gini",
     "categoria": "economia",
     "definicao_simples": "Medida de desigualdade de renda que vai de 0 (todos iguais) a 1 (toda a renda com uma pessoa).",
-    "definicao_completa_md": "Definição genérica; não há valores nas notas lidas para este arquivo.",
-    "exemplos_historicos": [],
+    "definicao_completa_md": "Banco Mundial (SI.POV.GINI, último ano disponível): Brasil 50,3 (2024); Colômbia 54,4 (2024); Chile 43,0 (2024); México 42,6 (2024); Argentina 42,4 (2024); EUA 41,8 (2024); Uruguai 40,0 (2024); China 36,0 (2022); Portugal 33,9 (2023); Alemanha 33,7 (2022); Espanha 33,4 (2023); França 31,8 (2023); Dinamarca 29,9 (2023); Suécia 29,3 (2023); Noruega 26,5 (2023).",
+    "exemplos_historicos": [
+      "Brasil 50,3 (2024) x Suécia 29,3 (2023) — Banco Mundial"
+    ],
     "o_que_nao_e": "Não mede pobreza, apenas desigualdade.",
     "criterios_academicos": [],
-    "fontes": [],
+    "fontes": [
+      {
+        "nome": "Banco Mundial, API, indicador SI.POV.GINI",
+        "url": "https://api.worldbank.org/v2/country/BRA;SWE;DEU;PRT;ESP;DNK;NOR;FRA;CHL;URY;ARG;COL;MEX;VEN;CUB;CHN;USA/indicator/SI.POV.GINI?date=2015:2024&format=json&per_page=500",
+        "acesso_em": "2026-10-21",
+        "tier": "multilateral"
+      }
+    ],
     "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/08_eleicao_2026_cenario_checagens.md",
     "atualizado_em": "2026-10-21",
-    "lacunas": ["Definição não sustentada por fonte nas notas lidas; ver nota 03_emprego_renda_pobreza_social.md."]
+    "lacunas": [
+      "Série do Gini por governo brasileiro não consta das notas lidas; ver nota 03."
+    ]
   },
   {
     "termo": "Linha de pobreza",
@@ -847,7 +1746,9 @@
     "fontes": [],
     "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/08_eleicao_2026_cenario_checagens.md",
     "atualizado_em": "2026-10-21",
-    "lacunas": ["Definição não sustentada por fonte nas notas lidas; ver nota 03_emprego_renda_pobreza_social.md."]
+    "lacunas": [
+      "Definição não sustentada por fonte nas notas lidas; ver nota 03_emprego_renda_pobreza_social.md."
+    ]
   },
   {
     "termo": "Bandeira tarifária",
@@ -861,7 +1762,9 @@
     "fontes": [],
     "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/10_temas_mais_buscados_internet_2026.md",
     "atualizado_em": "2026-10-21",
-    "lacunas": ["Definição não sustentada por fonte nas notas lidas; ver nota 06_energia_eletrobras_combustiveis.md."]
+    "lacunas": [
+      "Definição não sustentada por fonte nas notas lidas; ver nota 06_energia_eletrobras_combustiveis.md."
+    ]
   },
   {
     "termo": "CDE (Conta de Desenvolvimento Energético)",
@@ -875,7 +1778,9 @@
     "fontes": [],
     "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/10_temas_mais_buscados_internet_2026.md",
     "atualizado_em": "2026-10-21",
-    "lacunas": ["Definição não sustentada por fonte nas notas lidas; ver nota 06_energia_eletrobras_combustiveis.md."]
+    "lacunas": [
+      "Definição não sustentada por fonte nas notas lidas; ver nota 06_energia_eletrobras_combustiveis.md."
+    ]
   },
   {
     "termo": "ICMS",
@@ -889,7 +1794,9 @@
     "fontes": [],
     "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/10_temas_mais_buscados_internet_2026.md",
     "atualizado_em": "2026-10-21",
-    "lacunas": ["Definição não sustentada por fonte nas notas lidas; ver notas 06 e 12."]
+    "lacunas": [
+      "Definição não sustentada por fonte nas notas lidas; ver notas 06 e 12."
+    ]
   },
   {
     "termo": "PPI (paridade de preços de importação)",
@@ -897,12 +1804,24 @@
     "categoria": "energia",
     "definicao_simples": "Política de preços da Petrobras (2016–2023) que alinhava gasolina e diesel ao preço internacional convertido em reais; abandonada em 16/05/2023.",
     "definicao_completa_md": "A Petrobras anunciou em 16/05/2023 o fim da paridade de importação (vigente desde 2016), adotando referências de 'custo alternativo do cliente' e 'valor marginal para a Petrobras', com reajustes sem periodicidade definida; houve ação popular pedindo o restabelecimento da PPI.",
-    "exemplos_historicos": ["Adoção em 2016 (governo Temer); fim em 16/05/2023 (governo Lula)"],
+    "exemplos_historicos": [
+      "Adoção em 2016 (governo Temer); fim em 16/05/2023 (governo Lula)"
+    ],
     "o_que_nao_e": "Não é controle de preços por decreto: a nova política ainda acompanha o exterior, com defasagem.",
     "criterios_academicos": [],
     "fontes": [
-      { "nome": "Bora Investir/B3 (nova política de preços da Petrobras)", "url": "https://borainvestir.b3.com.br/noticias/empresas/petrobras-anuncia-nova-politica-de-precos-dos-combustiveis/", "acesso_em": "2026-10-21", "tier": "imprensa" },
-      { "nome": "Revista Oeste (ação popular sobre a PPI)", "url": "https://revistaoeste.com/brasil/nova-politica-de-precos-da-petrobras-vai-parar-na-justica/", "acesso_em": "2026-10-21", "tier": "imprensa" }
+      {
+        "nome": "Bora Investir/B3 (nova política de preços da Petrobras)",
+        "url": "https://borainvestir.b3.com.br/noticias/empresas/petrobras-anuncia-nova-politica-de-precos-dos-combustiveis/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      {
+        "nome": "Revista Oeste (ação popular sobre a PPI)",
+        "url": "https://revistaoeste.com/brasil/nova-politica-de-precos-da-petrobras-vai-parar-na-justica/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
     ],
     "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/11_espectro_ideologico_didatico.md",
     "atualizado_em": "2026-10-21"
@@ -913,16 +1832,30 @@
     "categoria": "economia",
     "definicao_simples": "Obrigação de bancos e instituições de pagamento de informar à Receita Federal, de forma agregada, movimentações financeiras acima de certos limites; não é imposto.",
     "definicao_completa_md": "Nas notas: a IN RFB 2.219/2024 ampliava o monitoramento de movimentações ≥ R$ 5 mil (pessoas físicas) a fintechs; após o vídeo de Nikolas Ferreira (jan/2025, >300 milhões de visualizações, via snippet) dizendo que o governo taxaria o Pix, a Receita revogou a norma e Lula editou MP garantindo o Pix livre de tributos; em 15/01/2026 o Planalto voltou a classificar a narrativa como falsa.",
-    "exemplos_historicos": ["IN RFB 2.219/2024 e sua revogação (jan/2025)"],
+    "exemplos_historicos": [
+      "IN RFB 2.219/2024 e sua revogação (jan/2025)"
+    ],
     "o_que_nao_e": "Não é 'taxação do Pix': não cria tributo.",
     "criterios_academicos": [],
     "fontes": [
-      { "nome": "Gazeta do Povo (Boulos pede investigação de Nikolas por notícias falsas sobre Pix)", "url": "https://www.gazetadopovo.com.br/republica/boulos-pgr-investigue-nikolas-ferreira-noticias-falsas-pix/", "acesso_em": "2026-10-21", "tier": "imprensa" },
-      { "nome": "Congresso em Foco (15/01/2026)", "url": "https://www.congressoemfoco.com.br/noticia/115510/governo-desmente-taxacao-do-pix-e-rebate-video-de-nikolas-ferreira", "acesso_em": "2026-10-21", "tier": "imprensa" }
+      {
+        "nome": "Gazeta do Povo (Boulos pede investigação de Nikolas por notícias falsas sobre Pix)",
+        "url": "https://www.gazetadopovo.com.br/republica/boulos-pgr-investigue-nikolas-ferreira-noticias-falsas-pix/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      {
+        "nome": "Congresso em Foco (15/01/2026)",
+        "url": "https://www.congressoemfoco.com.br/noticia/115510/governo-desmente-taxacao-do-pix-e-rebate-video-de-nikolas-ferreira",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
     ],
     "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/10_temas_mais_buscados_internet_2026.md",
     "atualizado_em": "2026-10-21",
-    "lacunas": ["Detalhes dos pisos de reporte constam da nota 12_pix_fake_news_e_impostos_quem_paga.md, não lida aqui."]
+    "lacunas": [
+      "Detalhes dos pisos de reporte constam da nota 12_pix_fake_news_e_impostos_quem_paga.md, não lida aqui."
+    ]
   },
   {
     "termo": "Fundo Especial de Financiamento de Campanha (fundo eleitoral)",
@@ -930,12 +1863,24 @@
     "categoria": "eleitoral",
     "definicao_simples": "Verba pública distribuída pelo TSE aos partidos para as campanhas; em 2026 somou R$ 4,96 bilhões para 30 partidos.",
     "definicao_completa_md": "Total de R$ 4.961.519.777,00 em 2026: PL R$ 881 mi, PT R$ 615 mi, União R$ 526 mi (os três ~40% do total), PSD R$ 421 mi, PP R$ 417 mi, MDB R$ 400 mi; piso de R$ 3,3 mi (PCO, PSTU, PRTB). Critérios: 2% igualitário; 35% pela votação para a Câmara; 48% pelo número de deputados eleitos em 2022; 15% pela representação no Senado; mínimo de 30% para candidaturas femininas e 30% para negras.",
-    "exemplos_historicos": ["Distribuição 2026 (PL R$ 881 mi; PT R$ 615 mi)"],
+    "exemplos_historicos": [
+      "Distribuição 2026 (PL R$ 881 mi; PT R$ 615 mi)"
+    ],
     "o_que_nao_e": "Não é o fundo partidário, verba anual de manutenção dos partidos.",
     "criterios_academicos": [],
     "fontes": [
-      { "nome": "BPMoney (distribuição do fundão 2026)", "url": "https://bpmoney.com.br/politica/fundao-eleitoral-2026-distribuicao-partidos-tse/", "acesso_em": "2026-10-21", "tier": "imprensa" },
-      { "nome": "TSE (recursos do fundo eleitoral, jun/2026)", "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Junho/eleicoes-2026-uniao-ja-disponibilizou-ao-tse-recursos-do-fundo-eleitoral", "acesso_em": "2026-10-21", "tier": "oficial" }
+      {
+        "nome": "BPMoney (distribuição do fundão 2026)",
+        "url": "https://bpmoney.com.br/politica/fundao-eleitoral-2026-distribuicao-partidos-tse/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      {
+        "nome": "TSE (recursos do fundo eleitoral, jun/2026)",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Junho/eleicoes-2026-uniao-ja-disponibilizou-ao-tse-recursos-do-fundo-eleitoral",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
     ],
     "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/08_eleicao_2026_cenario_checagens.md",
     "atualizado_em": "2026-10-21"
@@ -946,12 +1891,24 @@
     "categoria": "eleitoral",
     "definicao_simples": "Total de votos menos brancos e nulos; é a base dos percentuais oficiais dos candidatos.",
     "definicao_completa_md": "No 1º turno de 2026: 125.275.835 comparecimentos; 119.300.788 votos válidos (95,23%); 2.300.798 brancos (1,84%); 3.674.249 nulos (2,93%). Por isso Flávio Bolsonaro teve 47,03% e Lula 45,16% 'dos válidos', percentuais maiores que os 'totais' das pesquisas.",
-    "exemplos_historicos": ["1º turno de 04/10/2026"],
+    "exemplos_historicos": [
+      "1º turno de 04/10/2026"
+    ],
     "o_que_nao_e": "Não inclui abstenções (33.469.244 em 2026) nem brancos e nulos.",
     "criterios_academicos": [],
     "fontes": [
-      { "nome": "Exame, mapa de apuração do 1º turno", "url": "https://exame.com/eleicoes/2026/apuracao/primeiro-turno/presidente/mapa-de-apuracao/", "acesso_em": "2026-10-21", "tier": "imprensa" },
-      { "nome": "CartaCapital, TSE encerra apuração (05/10/2026)", "url": "https://www.cartacapital.com.br/politica/tse-encerra-apuracao-do-1o-turno/", "acesso_em": "2026-10-21", "tier": "imprensa" }
+      {
+        "nome": "Exame, mapa de apuração do 1º turno",
+        "url": "https://exame.com/eleicoes/2026/apuracao/primeiro-turno/presidente/mapa-de-apuracao/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      {
+        "nome": "CartaCapital, TSE encerra apuração (05/10/2026)",
+        "url": "https://www.cartacapital.com.br/politica/tse-encerra-apuracao-do-1o-turno/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
     ],
     "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/08_eleicao_2026_cenario_checagens.md",
     "atualizado_em": "2026-10-21"
@@ -962,11 +1919,18 @@
     "categoria": "eleitoral",
     "definicao_simples": "União de partidos que atuam como um só na eleição e no mandato por pelo menos 4 anos; em 2026 havia 5 federações habilitadas.",
     "definicao_completa_md": "Federações em 2026: Brasil da Esperança (PT-PCdoB-PV), PSDB-Cidadania, PSOL-REDE, União Progressista (União Brasil + PP) e Renovação Solidária (PRD + Solidariedade). Coligações só são permitidas para cargos majoritários.",
-    "exemplos_historicos": ["Federação Brasil da Esperança (desde 2022)"],
+    "exemplos_historicos": [
+      "Federação Brasil da Esperança (desde 2022)"
+    ],
     "o_que_nao_e": "Não é coligação, que vale só para a eleição majoritária e se desfaz depois.",
     "criterios_academicos": [],
     "fontes": [
-      { "nome": "Wikipédia pt, Eleições gerais no Brasil em 2026", "url": "https://pt.wikipedia.org/wiki/Elei%C3%A7%C3%B5es_gerais_no_Brasil_em_2026", "acesso_em": "2026-10-21", "tier": "imprensa" }
+      {
+        "nome": "Wikipédia pt, Eleições gerais no Brasil em 2026",
+        "url": "https://pt.wikipedia.org/wiki/Elei%C3%A7%C3%B5es_gerais_no_Brasil_em_2026",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
     ],
     "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/08_eleicao_2026_cenario_checagens.md",
     "atualizado_em": "2026-10-21"
@@ -977,14 +1941,213 @@
     "categoria": "eleitoral",
     "definicao_simples": "Regra do TSE (02/03/2026) que obriga plataformas a remover de ofício, sem ordem judicial, conteúdo que ataque as urnas, incite crimes contra o Estado Democrático, subverta a ordem constitucional ou configure violência política de gênero.",
     "definicao_completa_md": "A Res. 23.755/2026 alterou a Res. 23.610/2019: quatro hipóteses de remoção de ofício, dever de informar o motivo ao usuário e oferecer recurso, e responsabilização por não remover conteúdo sintético ilegal após notificação. Conteúdo de IA deve ter rótulo 'explícito, destacado e acessível' e é vedado publicar novos conteúdos sintéticos com imagem/voz de candidatos entre 72h antes e 24h depois da votação. Em 2022, cada remoção exigia ação judicial, o que torna frágil comparar o número de ordens entre 2022 e 2026.",
-    "exemplos_historicos": ["Eleições de 2026"],
+    "exemplos_historicos": [
+      "Eleições de 2026"
+    ],
     "o_que_nao_e": "Não é censura prévia genérica: aplica-se a quatro hipóteses definidas e prevê recurso.",
     "criterios_academicos": [],
     "fontes": [
-      { "nome": "Conjur (05/03/2026)", "url": "https://www.conjur.com.br/2026-mar-05/plataformas-terao-de-remover-de-oficio-conteudo-antidemocratico/", "acesso_em": "2026-10-21", "tier": "imprensa" },
-      { "nome": "Aos Fatos (TSE aumenta responsabilidade das plataformas)", "url": "https://www.aosfatos.org/noticias/tse-aumenta-responsabilidade-de-plataformas-digitais-nas-eleicoes-de-2026/", "acesso_em": "2026-10-21", "tier": "checagem" }
+      {
+        "nome": "Conjur (05/03/2026)",
+        "url": "https://www.conjur.com.br/2026-mar-05/plataformas-terao-de-remover-de-oficio-conteudo-antidemocratico/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      {
+        "nome": "Aos Fatos (TSE aumenta responsabilidade das plataformas)",
+        "url": "https://www.aosfatos.org/noticias/tse-aumenta-responsabilidade-de-plataformas-digitais-nas-eleicoes-de-2026/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      }
     ],
     "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/10_temas_mais_buscados_internet_2026.md",
     "atualizado_em": "2026-10-21"
+  },
+  {
+    "termo": "V-Party (V-Dem)",
+    "slug": "v-party",
+    "categoria": "ideologia",
+    "definicao_simples": "Dataset de especialistas do V-Dem que posiciona partidos (1970–2019) em dimensões como posição econômica (0 = extrema esquerda … 6 = extrema direita), pluralismo político, direitos de minorias, rejeição da violência, antielitismo e índices de populismo e antipluralismo (0–1).",
+    "definicao_completa_md": "V-Party Dataset v2 (fev/2022). Posição econômica (codebook 3.2.13, v2pariglef): 'partidos da esquerda econômica querem que o governo tenha papel ativo na economia (mais impostos, regulação, gasto e welfare mais generoso); partidos da direita econômica enfatizam papel reduzido (privatização, menos impostos, menos regulação, welfare mais enxuto)'. Pluralismo (3.2.4, v2paplur): compromisso da liderança com eleições livres e multipartidárias, liberdades e 'aceitar a derrota em eleições livres' (0–4). Índice de populismo = média harmônica de antielitismo e centralidade do povo; índice de antipluralismo agrega respeito a oponentes, pluralismo, direitos de minorias e rejeição da violência. Brasil 2018: PT 1,39 (econ.), pluralismo 3,90, antipluralismo 0,03, populismo 0,78; PSL 5,37, pluralismo 1,89, antipluralismo 0,95, populismo 0,35; PL/PR 4,44; PP 4,79; DEM 4,59; PSDB 4,20; PSD 4,18; MDB 3,66; PSB 1,84; PDT 1,92. Cada partido-ano brasileiro foi codificado por 9–10 especialistas; não há onda para 2022; PSOL, PCdoB, PSTU, PCB, UP, Novo, Avante e Missão não constam (abaixo do limiar de 5%).",
+    "exemplos_historicos": [
+      "Eleições brasileiras de 1990 a 2018"
+    ],
+    "o_que_nao_e": "Não mede o PL sob Bolsonaro (sem onda pós-2018) nem partidos pequenos.",
+    "criterios_academicos": [
+      "Codificação por especialistas com modelo bayesiano; intervalos de credibilidade (~68%) publicados (codelow/codehigh)."
+    ],
+    "fontes": [
+      {
+        "nome": "V-Party Dataset v2 (V-Dem), via pacote vdemdata",
+        "url": "https://raw.githubusercontent.com/vdeminstitute/vdemdata/master/data/vparty.RData",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      {
+        "nome": "Codebook V-Party v2 (PDF)",
+        "url": "https://www.v-dem.net/documents/6/vparty_codebook_v2.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      {
+        "nome": "V-Dem: V-Party Dataset",
+        "url": "https://www.v-dem.net/data/v-party-dataset/",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      }
+    ],
+    "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/11_espectro_ideologico_didatico.md",
+    "atualizado_em": "2026-10-21"
+  },
+  {
+    "termo": "PREPPS (expert survey)",
+    "slug": "prepps",
+    "categoria": "ideologia",
+    "definicao_simples": "Representation, Executives, and Political Parties Survey (Wiesehomeier, Singer & Ruth-Lovell, 2021): survey de especialistas (2018–19) que posiciona partidos e presidentes latino-americanos numa escala geral esquerda (1) – direita (20).",
+    "definicao_completa_md": "Harvard Dataverse, DOI 10.7910/DVN/JLOYIJ (v1, 07/02/2021). Pergunta: 'Please locate each party on a general left-right dimension, taking all aspects of party policy into account. Left (1) Right (20)'. Brasil: PSOL 1,66 (DP 1,05; n 38); PT 5,04 (2,70; 114); PDT 6,66; PSB 7,97; Rede 9,33; PV 9,77; PTB 13,88; MDB 14,66; PSDB 14,77; PSD 15,81; Podemos 15,95; Republicanos 16,81; Temer 16,82; PP 17,00; PR/PL 17,05; DEM 18,09; Novo 18,31; PSL 18,35; Bolsonaro 19,26 (DP 1,34; n 31). Dimensão 'redistribuição' (1 favorável – 20 contrário): PSOL 1,93; PT 4,00; PSB 7,71; PSDB 14,22; MDB 14,96; PR 16,03; Bolsonaro 16,48; DEM 17,23; Novo 18,02. A BLS correlaciona r = 0,97 com a PREPPS.",
+    "exemplos_historicos": [
+      "Brasil, surveys de 2018–2019"
+    ],
+    "o_que_nao_e": "Não é survey de parlamentares (isso é a BLS) nem de eleitores (Datafolha/Latinobarómetro).",
+    "criterios_academicos": [
+      "Escala 1–20 com desvio-padrão e número de respondentes publicados; ponto médio 10,5."
+    ],
+    "fontes": [
+      {
+        "nome": "PREPPS Latam V2 (Harvard Dataverse, DOI 10.7910/DVN/JLOYIJ), dados TSV",
+        "url": "https://dataverse.harvard.edu/api/access/datafile/4372420",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      {
+        "nome": "PREPPS, codebook (PDF)",
+        "url": "https://dataverse.harvard.edu/api/access/datafile/4372421",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      {
+        "nome": "Harvard Dataverse, metadados do dataset",
+        "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/?persistentId=doi:10.7910/DVN/JLOYIJ",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      }
+    ],
+    "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/11_espectro_ideologico_didatico.md",
+    "atualizado_em": "2026-10-21"
+  },
+  {
+    "termo": "Manifesto Project e escala RILE",
+    "slug": "manifesto-project-rile",
+    "categoria": "ideologia",
+    "definicao_simples": "Projeto (WZB) que codifica programas eleitorais por frases; sua escala esquerda-direita RILE é considerada inadequada para o Brasil pela literatura nacional, que a exclui das análises.",
+    "definicao_completa_md": "Dataset 'South America' 2020b (28 eleições, 64 partidos, 104 manifestos; acesso exige chave de API). Programas presidenciais brasileiros codificados de 1989 a 2018 (Lula 1989–2006, Dilma 2010–14, Haddad 2018, PSDB em todas, Bolsonaro 2018 etc.). Tarouco (2022, nota 3): a RILE 'não foi incorporada na presente análise por já ter sido questionada em outros trabalhos'; o artigo usa as dimensões Planeco, Markeco, Welfare e Conservadorismo e a medida de polarização de Dalton, e conclui que a polarização programática cai até 2010 e atinge o máximo em 2018, puxada pelo programa de Bolsonaro (conservadorismo e liberdade de mercado) e pelo do PT na dimensão bem-estar (14,4% das sentenças em 2010 → 19,2% em 2018). A lista de partidos registra o PL nas coligações de Lula em 2002 e 2006.",
+    "exemplos_historicos": [
+      "Programas presidenciais 1994–2018 (Tarouco 2022, Quadro 1)"
+    ],
+    "o_que_nao_e": "Não deve ser usado como régua esquerda-direita para o Brasil (RILE).",
+    "criterios_academicos": [
+      "Codificação de sentenças de programas; polarização de Dalton (0–100)."
+    ],
+    "fontes": [
+      {
+        "nome": "Tarouco, G. (2022), 'Esquerda, direita e eleições presidenciais no Brasil', Estudos Avançados 36(106), DOI 10.1590/s0103-4014.2022.36106.008",
+        "url": "https://revistas.usp.br/eav/article/download/205986/189561",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      {
+        "nome": "Manifesto Project: MPDSSA2020b",
+        "url": "https://manifesto-project.wzb.eu/datasets/MPDSSA2020b",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      {
+        "nome": "Manifesto Project, lista de partidos MPDSSA2020b (PDF)",
+        "url": "https://manifesto-project.wzb.eu/down/data/SA2020b/codebooks/parties_MPDataset_MPDSSA2020b.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      }
+    ],
+    "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/11_espectro_ideologico_didatico.md",
+    "atualizado_em": "2026-10-21",
+    "lacunas": [
+      "Valores por candidato nas dimensões do MP estão em figuras do artigo, não transcritas; CSV do dataset exige chave de API."
+    ]
+  },
+  {
+    "termo": "Autoposicionamento ideológico do eleitorado",
+    "slug": "autoposicionamento-ideologico",
+    "categoria": "eleitoral",
+    "definicao_simples": "Medida de quanto os eleitores se dizem (ou se comportam como) de esquerda, centro ou direita; no Brasil, a autodeclaração (Datafolha dez/2025: 46% direita x 29% esquerda) e o índice de valores (jun/2026: 44% x 39%) dão resultados diferentes.",
+    "definicao_completa_md": "Datafolha, 2–4/12/2025 (2.002 entrevistas, escala 1–7, autodeclaração): direita 35% + centro-direita 11% = 46%; esquerda 22% + centro-esquerda 7% = 29%; centro 17%; 22% dos que se dizem de direita votaram em Lula em 2022 e 9% dos de esquerda em Bolsonaro; simpatia: 40% petistas, 36% bolsonaristas. Datafolha, jun/2026 (BR-09956/2026, índice construído a partir de valores sociais, políticos, culturais e econômicos): direita 44% (15 + 29 centro-direita); esquerda 39% (13 + 26); centro 17%; série do mesmo método: 2013 direita 39% x esquerda 41%; 2014 45% x 35%; 2017 40% x 41%; 2022 34% x 49%; 2026 primeira liderança da direita desde 2014. No eixo econômico isolado, 46% à esquerda, 28% à direita (2022: 50/25). As duas medidas não são comparáveis entre si. Latinobarómetro 2026: apoio à democracia no Brasil de 41%, o 2º menor da região.",
+    "exemplos_historicos": [
+      "Série Datafolha 2013–2026 (índice de valores)"
+    ],
+    "o_que_nao_e": "Não é intenção de voto: 22% dos autodeclarados de direita votaram em Lula em 2022.",
+    "criterios_academicos": [
+      "Autodeclaração em escala vs. índice de valores (métodos distintos, não comparáveis)."
+    ],
+    "fontes": [
+      {
+        "nome": "Diário de Pernambuco/Estadão Conteúdo, Datafolha dez/2025 (autodeclaração ideológica)",
+        "url": "https://www.diariodepernambuco.com.br/brasil/2025/12/11703658-datafolha-mais-de-um-terco-dos-brasileiros-se-identificam-com-a-direita-e-22-com-a-esquerda.html",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      {
+        "nome": "CartaCapital, 03/07/2026, Datafolha jun/2026 (índice de valores, BR-09956/2026)",
+        "url": "https://www.cartacapital.com.br/?p=619861",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      {
+        "nome": "O Antagonista/Crusoé (Datafolha dez/2025, centro 17%)",
+        "url": "https://oantagonista.com.br/brasil/crusoe-datafolha-mede-a-direita-e-a-esquerda-no-brasil/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      {
+        "nome": "Informe Latinobarómetro 2026, '¿La crisis de la democracia liberal?' (02/10/2026, PDF)",
+        "url": "https://www.latinobarometro.org/documents/informe-latinobarometro-2026.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      }
+    ],
+    "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/11_espectro_ideologico_didatico.md",
+    "atualizado_em": "2026-10-21",
+    "lacunas": [
+      "Latinobarómetro não publica a média de autoposicionamento 0–10 do Brasil nos informes acessíveis; ESEB não consultado."
+    ]
+  },
+  {
+    "termo": "Carga tributária",
+    "slug": "carga-tributaria",
+    "categoria": "economia",
+    "definicao_simples": "Total de impostos e contribuições sociais arrecadados por todos os níveis de governo, em % do PIB; Brasil 33,7% em 2024 (OCDE), o maior da América Latina e próximo da média da OCDE (34,1%).",
+    "definicao_completa_md": "OCDE/CEPAL/BID/CIAT, Revenue Statistics in Latin America and the Caribbean 2026: Brasil 33,7% do PIB (2024); média OCDE 34,1%; média ALC 21,7%; Argentina 27,6; Uruguai 27,3; Cuba 22,9; Chile 20,5; Colômbia 19,9; México 18,3; 'os índices na região variaram de 9,2% na Guiana a 33,7% no Brasil'; o aumento brasileiro é atribuído em parte a 'reformas tributárias'. Em 2023 (edição 2025): Brasil 32,0% e OCDE 33,9%. Atenção: o indicador 'Tax revenue (% of GDP)' do Banco Mundial cobre só o governo central e exclui contribuições sociais (Brasil 15,4%; Alemanha 10,9% em 2024) e não serve para comparar carga tributária.",
+    "exemplos_historicos": [
+      "Brasil 33,7% x OCDE 34,1% (2024)"
+    ],
+    "o_que_nao_e": "Não é o indicador GC.TAX.TOTL.GD.ZS do Banco Mundial (só governo central, sem contribuições).",
+    "criterios_academicos": [],
+    "fontes": [
+      {
+        "nome": "OCDE/CEPAL/BID/CIAT, Revenue Statistics in Latin America and the Caribbean 2026 (brochura, PDF)",
+        "url": "https://oecd.org/content/dam/oecd/en/topics/policy-sub-issues/global-tax-revenues/brochure-revenue-statistics-latin-america-and-caribbean.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "multilateral"
+      },
+      {
+        "nome": "OCDE iLibrary, Revenue Statistics in Latin America and the Caribbean 2026",
+        "url": "https://www.oecd-ilibrary.org/en/publications/revenue-statistics-in-latin-america-and-the-caribbean-2026_2f21f131-en",
+        "acesso_em": "2026-10-21",
+        "tier": "multilateral"
+      }
+    ],
+    "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/11_espectro_ideologico_didatico.md",
+    "atualizado_em": "2026-10-21",
+    "lacunas": [
+      "Valor de 2023 (32,0%) obtido via resumo de busca (página 403); confirmar."
+    ]
   }
 ]

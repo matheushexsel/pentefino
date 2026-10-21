@@ -1,0 +1,224 @@
+{
+  "id": "chk-4010",
+  "slug": "flavio-e-contra-o-fim-da-6x1",
+  "frase": "Flávio Bolsonaro é contra o fim da escala 6x1.",
+  "frase_normalizada": "flavio bolsonaro e contra o fim da escala 6x1",
+  "variantes": [
+    "Flávio obstruiu a PEC da 6x1",
+    "Flávio votou a favor da 6x1 só por eleição",
+    "Anúncios da campanha de Lula acusando Flávio de ser contra o fim da 6x1 (barrados pelo TSE em 11/10)"
+  ],
+  "autor": {
+    "nome": "Campanha de Lula (anúncios barrados pelo TSE em 11/10/2026) e perfis aliados",
+    "partido": "PT",
+    "cargo": "campanha"
+  },
+  "lado": "governo-lula-pt",
+  "alvo": {
+    "nome": "Flávio Bolsonaro",
+    "partido": "PL"
+  },
+  "data": "2026-10-11",
+  "onde": "Anúncios eleitorais e redes sociais, 2º turno",
+  "url_declaracao": "https://agenciabrasil.ebc.com.br/tags/tse",
+  "temas": [
+    "direitos-sociais",
+    "eleicao-2026"
+  ],
+  "tags": [
+    "6x1",
+    "PEC 221/2019",
+    "jornada de trabalho",
+    "Senado",
+    "voto nominal"
+  ],
+  "veredito": "falta-contexto",
+  "resumo_uma_frase": "Flávio se posicionou contra a PEC em 19/05, 01–02/09 (quando a oposição obstruiu a votação) e 06/10/2026, mas em 13/10 anunciou mudança e em 14/10 votou SIM nos dois turnos (75 x 1, voto remoto), de modo que a afirmação descreve a posição anterior e omite o voto final; o TSE barrou anúncios da campanha de Lula com essa acusação em 11/10.",
+  "explicacao_simples": [
+    "A PEC 221/2019 reduz a jornada de 44 para 40 horas com dois dias de descanso; a Câmara aprovou em 27/05/2026 (461 x 19) e o Senado em 14/10/2026 (75 x 1, Mourão único contra).",
+    "Flávio criticou a proposta em 19/05 e 06/10, e em 01–02/09 a oposição esvaziou o Plenário impedindo a votação (Randolfe atribuiu a Flávio e Rogério Marinho; relato não verificado independentemente).",
+    "Em 13/10, após visitar o pai, disse que 'a maioria dos trabalhadores brasileiros quer o fim da 6x1' e em 14/10 votou SIM nos dois turnos, remotamente (lista de Plenário do Senado); o TSE havia barrado em 11/10 anúncios de Lula acusando-o de ser contra."
+  ],
+  "explicacao_completa_md": "**Cronologia documentada:** 19/05/2026 — Flávio contra a proposta; 27/05 — Câmara aprova em dois turnos (2º turno 461 x 19); 01–02/09 — a base do governo não leva a PEC ao Plenário do Senado por insegurança sobre os 49 votos; Randolfe Rodrigues atribui o esvaziamento a 'movimento bem sucedido da oposição' com participação de Flávio e Rogério Marinho (relato não verificado pela Agência Brasil; Flávio estava ausente na CCJ e não respondeu); 06/10 — nova crítica de Flávio; 11/10 — TSE barra anúncios da campanha de Lula acusando Flávio de ser contra o fim da 6x1; 13/10 — após visitar o pai, Flávio anuncia que votará a favor: 'a maioria dos trabalhadores brasileiros quer o fim da 6x1'; Jair Bolsonaro chama a proposta de 'oportunista'; 14/10 — Senado aprova a PEC em dois turnos, 75 Sim x 1 Não (Hamilton Mourão) em cada, com 1 AP, 2 presentes sem voto e 1 ausente; Flávio vota **Sim** nos dois turnos, remotamente (lista de votação do Plenário, dados abertos do Senado). **Leitura:** a frase 'Flávio é contra' era verdadeira até 13/10 e deixou de ser com o voto de 14/10; a frase 'Flávio sempre defendeu' também não se sustenta. Um áudio em que Flávio diria que trabalhadores devem escolher entre 'menos direitos e emprego' ou 'todos os direitos e desemprego' é falso (alterado digitalmente). O post de Lula sobre a 6x1 (14/10) foi o mais engajado da campanha no período (>2,7 mi de interações).",
+  "o_que_e_verdade": [
+    "Flávio criticou a PEC em 19/05, 01–02/09 e 06/10/2026 e a oposição obstruiu a votação de setembro.",
+    "Flávio votou SIM nos dois turnos em 14/10/2026 (75 x 1)."
+  ],
+  "o_que_nao_se_sustenta": [
+    "Que Flávio tenha votado contra ou seja contra o fim da 6x1 hoje: votou a favor.",
+    "Que Flávio tenha defendido a proposta desde o início: mudou de posição em 13/10, uma semana após criticá-la.",
+    "Áudio de Flávio sobre 'menos direitos e emprego' — falso (alterado digitalmente)."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Flávio Bolsonaro",
+      "papel": "Obstruiu/criticou e depois votou a favor",
+      "peso": "alto"
+    },
+    {
+      "ator": "Campanha de Lula",
+      "papel": "Anúncios barrados pelo TSE em 11/10 por acusá-lo de ser contra",
+      "peso": "medio"
+    },
+    {
+      "ator": "Senado Federal",
+      "papel": "Aprovou a PEC 221/2019 em 14/10/2026 (75 x 1)",
+      "peso": "alto"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Senado, PEC 221/2019 (cada turno): votos Sim",
+      "valor": 75,
+      "unidade": "votos",
+      "periodo": "14/10/2026",
+      "fonte": {
+        "nome": "Senado, lista de votação do Plenário de 14/10/2026 (dados abertos)",
+        "url": "https://legis.senado.leg.br/dadosabertos/plenario/lista/votacao/20261014.json",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "Votos Não (Hamilton Mourão)",
+        "valor": 1
+      }
+    },
+    {
+      "rotulo": "Câmara, PEC 221/2019, 2º turno: votos Sim",
+      "valor": 461,
+      "unidade": "votos",
+      "periodo": "27/05/2026",
+      "fonte": {
+        "nome": "Agência Brasil, 27/05/2026",
+        "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-05/camara-aprova-em-dois-turnos-pec-pelo-fim-da-escala-6x1",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "Votos Não",
+        "valor": 19
+      }
+    },
+    {
+      "rotulo": "Jornada semanal antes da PEC",
+      "valor": 44,
+      "unidade": "horas",
+      "periodo": "até 2026",
+      "fonte": {
+        "nome": "Agência Brasil, 27/05/2026",
+        "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-05/camara-aprova-em-dois-turnos-pec-pelo-fim-da-escala-6x1",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "Jornada após a PEC",
+        "valor": 40
+      }
+    },
+    {
+      "rotulo": "Interações do post de Lula sobre a 6x1 (Instagram, 14/10)",
+      "valor": 2.7,
+      "unidade": "milhões",
+      "periodo": "14/10/2026",
+      "fonte": {
+        "nome": "Portal Vermelho (reproduz Bites), 20/10/2026",
+        "url": "https://vermelho.org.br/2026/10/20/lula-dispara-nas-redes-apos-debate-na-band-e-supera-flavio-em-5-vezes/",
+        "acesso_em": "2026-10-21",
+        "tier": "partidario"
+      },
+      "comparacao": {
+        "rotulo": "Posts de Lula na semana 04–11/10 (aprox.)",
+        "valor": 300
+      }
+    }
+  ],
+  "series": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Gazeta do Paraná (compilação)",
+      "veredito_original": "Falso: áudio de Flávio sobre 'menos direitos e emprego' é alterado digitalmente",
+      "url": "https://gazetadoparana.com.br/publico/das-urnas-as-deepfakes-as-principais-fake-news-que-abrem-o-segundo-turno-das-eleicoes-2026",
+      "data": "2026-10-07"
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Senado, lista de votação do Plenário de 14/10/2026 (dados abertos)",
+      "url": "https://legis.senado.leg.br/dadosabertos/plenario/lista/votacao/20261014.json",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Senado, votações nominais do senador 5894 (matérias de 2019)",
+      "url": "https://legis.senado.leg.br/dadosabertos/senador/5894/votacoes.json?ano=2019",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Agência Brasil, 02/09/2026 (oposição obstrui)",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/senado-oposicao-obstrui-e-fim-da-escala-6x1-nao-vai-plenario",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "O Povo, 14/10/2026 (Flávio muda voto)",
+      "url": "https://www.opovo.com.br/noticias/economia/2026/10/14/flavio-bolsonaro-muda-voto-sobre-escala-6x1.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Terra (por que Flávio pode votar ausente)",
+      "url": "https://www.terra.com.br/noticias/eleicoes/por-que-flavio-bolsonaro-pode-votar-no-fim-da-escala-6x1-mesmo-ausente-entenda,72dec54f6563a95081704cdf540984c6kldnk9rp.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Estado de Minas, 14/10/2026 (como votaram os senadores)",
+      "url": "https://www.em.com.br/politica/2026/10/7521014-flavio-bolsonaro-a-favor-mourao-contra-veja-como-votaram-os-senadores.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Agência Brasil, tag TSE (anúncios barrados em 11/10)",
+      "url": "https://agenciabrasil.ebc.com.br/tags/tse",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Agência Brasil, 27/05/2026 (Câmara aprova)",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-05/camara-aprova-em-dois-turnos-pec-pelo-fim-da-escala-6x1",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/09_acusacoes_e_falas_flavio_x_lula.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "Como Flávio votou na PEC da 6x1?",
+      "resposta": "SIM nos dois turnos, em 14/10/2026, remotamente; o placar foi 75 x 1 em cada turno (Mourão contra)."
+    },
+    {
+      "pergunta": "Ele sempre foi a favor?",
+      "resposta": "Não: criticou em 19/05 e 06/10 e a oposição obstruiu a votação em setembro; anunciou a mudança em 13/10 após visitar o pai, que chamou a proposta de 'oportunista'."
+    },
+    {
+      "pergunta": "Por que o TSE barrou anúncios de Lula?",
+      "resposta": "Em 11/10 o TSE barrou anúncios acusando Flávio de ser contra o fim da 6x1 (só títulos da Agência Brasil acessados; fundamentação não lida)."
+    }
+  ],
+  "relacionadas": [
+    "eleicao-2026-resultado-primeiro-turno"
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false,
+  "lacunas": [
+    "Fundamentação da decisão do TSE de 11/10 não lida (só título da Agência Brasil).",
+    "O relato de Randolfe sobre a participação de Flávio na obstrução não foi verificado de forma independente."
+  ]
+}

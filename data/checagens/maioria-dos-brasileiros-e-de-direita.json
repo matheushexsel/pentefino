@@ -1,0 +1,206 @@
+{
+  "id": "chk-4011",
+  "slug": "maioria-dos-brasileiros-e-de-direita",
+  "frase": "A maioria dos brasileiros é de direita.",
+  "frase_normalizada": "maioria dos brasileiros e de direita",
+  "variantes": [
+    "O Brasil é um país conservador de direita",
+    "46% se dizem de direita e só 29% de esquerda"
+  ],
+  "autor": {
+    "nome": "Afirmação recorrente em redes sociais e análises (autoria difusa)",
+    "partido": null,
+    "cargo": null
+  },
+  "lado": "outro",
+  "alvo": {
+    "nome": "Eleitorado brasileiro",
+    "partido": null
+  },
+  "data": "2025-12-25",
+  "onde": "Cobertura da Datafolha de dez/2025 e redes sociais",
+  "url_declaracao": "https://www.diariodepernambuco.com.br/brasil/2025/12/11703658-datafolha-mais-de-um-terco-dos-brasileiros-se-identificam-com-a-direita-e-22-com-a-esquerda.html",
+  "temas": [
+    "ideologias",
+    "eleicao-2026"
+  ],
+  "tags": [
+    "Datafolha",
+    "autoposicionamento",
+    "direita",
+    "esquerda",
+    "valores"
+  ],
+  "veredito": "falta-contexto",
+  "resumo_uma_frase": "Depende da medida: na autodeclaração (Datafolha dez/2025) 46% se dizem de direita e 29% de esquerda, mas nenhum grupo é maioria (centro 17%; 8% não sabem); pelo índice de valores (Datafolha jun/2026) a direita lidera por 44% a 39% pela primeira vez desde 2014, e no eixo econômico isolado 46% são de esquerda e 28% de direita.",
+  "explicacao_simples": [
+    "Datafolha de 2–4/12/2025 (autodeclaração, escala 1–7): direita 35% + centro-direita 11% = 46%; esquerda 22% + centro-esquerda 7% = 29%; centro 17%; 8% não souberam — a direita é plural, não maioria.",
+    "Datafolha de jun/2026 (índice construído a partir de valores, não pergunta direta): direita 44% (15 + 29) x esquerda 39% (13 + 26) x centro 17%; a série do método dava esquerda 49% x direita 34% em 2022 e direita 45% x 35% em 2014.",
+    "No eixo econômico isolado, 46% ficam à esquerda e 28% à direita; 22% dos que se dizem de direita votaram em Lula em 2022 e 9% dos de esquerda em Bolsonaro — rótulo e voto não coincidem."
+  ],
+  "explicacao_completa_md": "**Duas medidas não comparáveis.** (1) Autodeclaração — Datafolha, campo 2–4/12/2025, 2.002 entrevistas em 113 municípios, margem 2 p.p., escala 1–7: direita 35%, centro-direita 11% (46%); esquerda 22%, centro-esquerda 7% (29%); centro 17% (Crusoé); 8% não souberam. Recortes: 60+ anos 42% direita x 25% esquerda; 16–24 anos 30% centro, 26% direita, 16% esquerda; evangélicos 42% x 16%; católicos 36% x 24%. Na escala de simpatia PT x Bolsonaro: 40% petistas, 36% bolsonaristas, 18% neutros. (2) Índice de valores — Datafolha jun/2026 (BR-09956/2026), construído a partir de respostas sobre valores sociais, políticos, culturais e econômicos: direita 44% (direita 15% + centro-direita 29%); esquerda 39% (centro-esquerda 26% + esquerda 13%); centro 17%. Série do mesmo método: 2013 direita 39% x esquerda 41%; 2014 45% x 35%; 2017 40% x 41%; 2022 34% x 49%; 2026 primeira liderança da direita desde 2014. Eixo econômico isolado: 46% esquerda, 28% direita, 26% centro (2022: 50/25/25); mulheres 44% esquerda x 37% direita; homens 50% direita x 33% esquerda; evangélicos 52% direita x 30%; católicos 43% x 39%. **Leitura da nota:** por valores, o eleitorado é majoritariamente 'de esquerda' na economia e mais 'de direita' nos costumes — o padrão de dois eixos. **Contexto regional:** Latinobarómetro 2026 — apoio à democracia no Brasil de 41% (2º menor da região); o voto na extrema direita regional é 'mais pragmático que ideológico'. **Resultado eleitoral:** no 1º turno de 2026, Flávio 47,03% x Lula 45,16% dos válidos — divisão quase ao meio, não maioria de um campo.",
+  "o_que_e_verdade": [
+    "Na autodeclaração de dez/2025 há mais pessoas que se dizem de direita (46%) do que de esquerda (29%).",
+    "Pelo índice de valores de jun/2026, a direita (44%) lidera a esquerda (39%) pela primeira vez desde 2014."
+  ],
+  "o_que_nao_se_sustenta": [
+    "Que a direita seja maioria absoluta: 46% (autodeclaração) ou 44% (índice) não passam de 50%; centro e 'não sabe' somam o restante.",
+    "Que o eleitorado seja de direita na economia: 46% à esquerda x 28% à direita no eixo econômico (jun/2026).",
+    "Que o rótulo determine o voto: 22% dos autodeclarados de direita votaram em Lula em 2022."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Datafolha",
+      "papel": "Produz as duas séries (autodeclaração e índice de valores)",
+      "peso": "alto"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Datafolha dez/2025 (autodeclaração): direita + centro-direita",
+      "valor": 46,
+      "unidade": "%",
+      "periodo": "2–4/12/2025",
+      "fonte": {
+        "nome": "Diário de Pernambuco/Estadão Conteúdo, 25/12/2025",
+        "url": "https://www.diariodepernambuco.com.br/brasil/2025/12/11703658-datafolha-mais-de-um-terco-dos-brasileiros-se-identificam-com-a-direita-e-22-com-a-esquerda.html",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "Esquerda + centro-esquerda",
+        "valor": 29
+      }
+    },
+    {
+      "rotulo": "Datafolha jun/2026 (índice de valores): direita",
+      "valor": 44,
+      "unidade": "%",
+      "periodo": "jun/2026 (BR-09956/2026)",
+      "fonte": {
+        "nome": "CartaCapital, 03/07/2026",
+        "url": "https://www.cartacapital.com.br/?p=619861",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "Esquerda",
+        "valor": 39
+      }
+    },
+    {
+      "rotulo": "Eixo econômico isolado (jun/2026): esquerda",
+      "valor": 46,
+      "unidade": "%",
+      "periodo": "jun/2026",
+      "fonte": {
+        "nome": "CartaCapital, 03/07/2026",
+        "url": "https://www.cartacapital.com.br/?p=619861",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "Direita",
+        "valor": 28
+      }
+    },
+    {
+      "rotulo": "Índice de valores em 2022: esquerda",
+      "valor": 49,
+      "unidade": "%",
+      "periodo": "2022",
+      "fonte": {
+        "nome": "CartaCapital, 03/07/2026",
+        "url": "https://www.cartacapital.com.br/?p=619861",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "Direita em 2022",
+        "valor": 34
+      }
+    },
+    {
+      "rotulo": "Autodeclarados de direita que votaram em Lula em 2022",
+      "valor": 22,
+      "unidade": "%",
+      "periodo": "dez/2025",
+      "fonte": {
+        "nome": "Diário de Pernambuco/Estadão Conteúdo, 25/12/2025",
+        "url": "https://www.diariodepernambuco.com.br/brasil/2025/12/11703658-datafolha-mais-de-um-terco-dos-brasileiros-se-identificam-com-a-direita-e-22-com-a-esquerda.html",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "Autodeclarados de esquerda que votaram em Bolsonaro",
+        "valor": 9
+      }
+    }
+  ],
+  "series": [],
+  "checagens_externas": [],
+  "fontes": [
+    {
+      "nome": "Diário de Pernambuco/Estadão Conteúdo, 25/12/2025 (Datafolha)",
+      "url": "https://www.diariodepernambuco.com.br/brasil/2025/12/11703658-datafolha-mais-de-um-terco-dos-brasileiros-se-identificam-com-a-direita-e-22-com-a-esquerda.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "O Antagonista/Crusoé (Datafolha dez/2025)",
+      "url": "https://oantagonista.com.br/brasil/crusoe-datafolha-mede-a-direita-e-a-esquerda-no-brasil/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "CartaCapital, 03/07/2026 (Datafolha jun/2026)",
+      "url": "https://www.cartacapital.com.br/?p=619861",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Informe Latinobarómetro 2026 (02/10/2026, PDF)",
+      "url": "https://www.latinobarometro.org/documents/informe-latinobarometro-2026.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    },
+    {
+      "nome": "TSE, dados abertos, votação por candidato 2026 (gerado 21/10/2026)",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2026.zip",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/11_espectro_ideologico_didatico.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "Afinal, o Brasil é de direita ou de esquerda?",
+      "resposta": "Depende do que se mede: mais gente se diz de direita (46% x 29%), mas pelos valores econômicos a maioria relativa é de esquerda (46% x 28%) e pelos valores em geral a direita lidera por pouco (44% x 39%)."
+    },
+    {
+      "pergunta": "Isso explica o resultado de 2026?",
+      "resposta": "Só em parte: o 1º turno foi 47,03% x 45,16%, uma divisão quase ao meio; 22% dos autodeclarados de direita votaram em Lula em 2022."
+    },
+    {
+      "pergunta": "As duas pesquisas são comparáveis?",
+      "resposta": "Não: uma pergunta diretamente ao eleitor como ele se define; a outra constrói um índice a partir de respostas sobre valores."
+    }
+  ],
+  "relacionadas": [
+    "eleicao-2026-resultado-primeiro-turno",
+    "pt-e-extrema-esquerda",
+    "pl-e-extrema-direita"
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false,
+  "lacunas": [
+    "Latinobarómetro não publica a média de autoposicionamento 0–10 do Brasil; ESEB não consultado.",
+    "Link primário da Folha para as duas pesquisas não acessado; usados republicadores (Diário de Pernambuco/Estadão Conteúdo, Crusoé, CartaCapital)."
+  ]
+}
