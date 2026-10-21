@@ -311,3 +311,225 @@ Os registros permitem atribuir com precisão: ANEEL homologa reajustes com base 
 
 ### Gaps
 - Não foram consultadas, por esgotamento da cota de busca, as checagens já publicadas por Aos Fatos, Lupa, Estadão Verifica e Comprova sobre estes temas; recomenda-se cruzar antes da publicação.
+
+---
+
+## Enriquecimento — rodada 2 (21/10/2026)
+
+Método desta rodada: a cota de busca na web já estava esgotada no início; todo o material novo veio de download direto de bases oficiais (ANEEL Dados Abertos, ONS Dados Abertos, ANP série histórica, EPE/BEN, EIA, BCB/SGS, API de Dados Abertos da Câmara, MME/CNPE, Petrobras "Preços") e de algumas páginas abertas por fetch direto (Axia RI, Aos Fatos, Comprova, Senado, GlobalPetrolPrices). Arquivos brutos baixados estão em `/tmp/claude-0/-home-user-pentefino/57c8b097-0016-560e-bc35-d2f075b07105/scratchpad/dl/`. Onde um número é cálculo próprio sobre dado oficial, isso está dito. Nenhum texto anterior da nota nem arquivo de `data/` foi alterado.
+
+### Lacunas fechadas
+
+1. **Bandeiras tarifárias mês a mês, 2015–2026, com valores (ANEEL Dados Abertos, conjunto "Bandeiras Tarifárias", arquivo `bandeira-tarifaria-acionamento.csv`, geração 19/10/2026)** — [ANEEL Dados Abertos](https://dadosabertos.aneel.gov.br/dataset/bandeiras-tarifarias); CSV: https://dadosabertos.aneel.gov.br/dataset/7f43a020-6dc5-44b8-80b4-d97eaa94436c/resource/0591b8f6-fe54-437b-b72b-1aa2efd46e42/download/bandeira-tarifaria-acionamento.csv. Valores em R$/MWh (dividir por 10 para R$/100 kWh).
+
+| Ano | jan | fev | mar | abr | mai | jun | jul | ago | set | out | nov | dez |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2015 | V1 30 | V1 30 | V1 55 | V1 55 | V1 55 | V1 55 | V1 55 | V1 55 | V1 45 | V1 45 | V1 45 | V1 45 |
+| 2016 | V1 45 | V2 45 | Am 15 | Verde | Verde | Verde | Verde | Verde | Verde | Verde | Am 15 | Verde |
+| 2017 | Verde | Verde | Am 20 | V1 30 | V1 30 | Verde | Am 20 | V1 30 | Am 20 | V2 35 | V2 50 | V1 30 |
+| 2018 | Verde | Verde | Verde | Verde | Am 10 | V2 50 | V2 50 | V2 50 | V2 50 | V2 50 | Am 10 | Verde |
+| 2019 | Verde | Verde | Verde | Verde | Am 10 | Verde | Am 15 | V1 40 | V1 40 | Am 15 | V1 41,69 | Am 13,43 |
+| 2020 | Am 13,43 | Verde | Verde | Verde | Verde | Verde | Verde | Verde | Verde | Verde | Verde | V2 62,43 |
+| 2021 | Am 13,43 | Am 13,43 | Am 13,43 | Am 13,43 | V1 41,69 | V2 62,43 | V2 94,92 | V2 94,92 | **EH 142** | EH 142 | EH 142 | EH 142 |
+| 2022 | EH 142 | EH 142 | EH 142 | **EH 71** | Verde | Verde | Verde | Verde | Verde | Verde | Verde | Verde |
+| 2023 | Verde ×12 | | | | | | | | | | | |
+| 2024 | Verde | Verde | Verde | Verde | Verde | Verde | Am 18,85 | Verde | V1 44,63 | V2 78,77 | Am 18,85 | Verde |
+| 2025 | Verde | Verde | Verde | Verde | Am 18,85 | V1 44,63 | V1 44,63 | V2 78,77 | V2 78,77 | V1 44,63 | V1 44,63 | Am 18,85 |
+| 2026 | Verde | Verde | Verde | Verde | Am 18,85 | Am 18,85 | Am 18,85 | Am 18,85 | Am 18,85 | Verde | — | — |
+
+(Am = amarela; V1/V2 = vermelha patamar 1/2; EH = escassez hídrica.) **Mês de encerramento da escassez hídrica: abril/2022**, já com adicional reduzido à metade (R$ 71/MWh = R$ 7,10/100 kWh); a bandeira verde começou em **maio/2022** e durou até **junho/2024** (26 meses), pois julho/2024 foi amarela — mesma fonte. Valores por resolução (arquivo `bandeira-tarifaria-adicional.csv`, mesma base): REH 1.859/2015 (vig. 02/03/2015) amarela 25 / V1 55; REH 2.016/2016 (01/02/2016) 15 / 30 / 45; REH 2.203/2017 (01/02/2017) 20 / 30 / 35; REH 2.392/2018 (01/05/2018) 10 / 30 / 50; REH 2.551/2019 (01/06/2019) 15 / 40 / 60; REH 2.628/2019 (01/11/2019) 13,43 / 41,69 / 62,43; REH 2.888/2021 (01/07/2021) 18,74 / 39,71 / 94,92; **Res. CREG nº 3/2021 (01/09/2021) escassez hídrica 142,00**; REH 3.051/2022 (01/07/2022) 29,89 / 65,00 / 97,95; REH 3.306/2024 (01/04/2024) 18,85 / 44,63 / 78,77 (R$/MWh) — https://dadosabertos.aneel.gov.br/dataset/7f43a020-6dc5-44b8-80b4-d97eaa94436c/resource/5879ca80-b3bd-45b1-a135-d9b77c1d5b36/download/bandeira-tarifaria-adicional.csv.
+
+2. **Enel SP (Eletropaulo): resoluções homologatórias e tarifa B1 residencial, 2010–2026** (ANEEL Dados Abertos, "Tarifas de aplicação das distribuidoras", arquivo `tarifas-homologadas-distribuidoras-energia-eletrica.csv`, geração 21/10/2026; filtro: agente ELETROPAULO, Tarifa de Aplicação, subgrupo B1, modalidade Convencional, subclasse Residencial; TUSD+TE em R$/MWh sem tributos) — [ANEEL Dados Abertos](https://dadosabertos.aneel.gov.br/dataset/tarifas-distribuidoras-energia-eletrica). A variação é da tarifa B1 homologada (cálculo próprio), **não** o "efeito médio" divulgado pela ANEEL — por isso difere um pouco dos percentuais de imprensa (2021: 11,29% na B1 vs 11,38% BT; 2025: 13,98% vs 13,47% BT; 2026: 8,85% vs 9,02% B1).
+
+| Vigência | Resolução Homologatória | TUSD | TE | B1 total | Var. B1 |
+|---|---|---|---|---|---|
+| 04/07/2010 | REH 1.025, de 29/06/2010 | 170,03 | 126,48 | 296,51 | — |
+| 04/07/2011 | REH 1.317, de 02/07/2012 (retroativa) | 144,10 | 124,58 | 268,68 | -9,4% |
+| 04/07/2012 | REH 1.319, de 03/07/2012 | 142,93 | 148,21 | 291,14 | +8,4% |
+| 24/01/2013 | REH 1.436, de 24/01/2013 (revisão extraordinária, MP 579) | 103,58 | 134,43 | 238,01 | -18,2% |
+| 04/07/2013 | REH 1.563, de 02/07/2013 | 91,20 | 147,24 | 238,44 | +0,2% |
+| 04/07/2014 | REH 1.759, de 03/07/2014 | 110,11 | 171,06 | 281,17 | +17,9% |
+| 08/01/2015 | REH 1.844, de 05/01/2015 | 119,05 | 171,11 | 290,16 | +3,2% |
+| 02/03/2015 | REH 1.858, de 27/02/2015 (revisão extraordinária) | 170,96 | 200,86 | 371,82 | +28,1% |
+| 04/07/2015 | REH 1.920, de 30/06/2015 | 198,96 | 237,15 | 436,11 | +17,3% |
+| 04/07/2016 | REH 2.103, de 28/06/2016 | 180,41 | 224,02 | 404,43 | -7,3% |
+| 01/04/2017 | REH 2.214, de 28/03/2017 | 180,41 | 218,65 | 399,06 | -1,3% |
+| 04/07/2017 | REH 2.263, de 27/06/2017 | 180,74 | 238,87 | 419,61 | +5,2% |
+| 04/07/2018 | REH 2.412, de 03/07/2018 | 212,76 | 270,87 | 483,63 | +15,3% |
+| 04/07/2019 | **REH 2.568, de 02/07/2019** | 259,71 | 255,88 | 515,59 | **+6,6%** |
+| 04/07/2020 | **REH 2.719, de 30/06/2020** | 285,51 | 248,68 | 534,19 | **+3,6%** |
+| 04/07/2021 | REH 2.890, de 29/06/2021 | 307,11 | 287,38 | 594,49 | +11,3% |
+| 04/07/2022 | **REH 3.053, de 28/06/2022** | 396,03 | 260,46 | 656,49 | **+10,4%** |
+| 04/07/2023 | **REH 3.215, de 27/06/2023** | 366,83 | 282,27 | 649,10 | **-1,1%** |
+| 04/07/2024 | **REH 3.339, de 02/07/2024** | 373,17 | 263,07 | 636,24 | **-2,0%** |
+| 04/07/2025 | REH 3.477, de 01/07/2025 | 432,44 | 292,74 | 725,18 | +14,0% |
+| 04/07/2026 | REH 3.596, de 03/07/2026 | 472,42 | 316,96 | 789,38 | +8,9% |
+
+Acumulado 2010→2026 da B1 da Enel SP: +166,2% (cálculo próprio) contra IPCA de dez/2010 a set/2026 de ~140,8% (BCB/SGS 433, cálculo próprio). Em 2023 e 2024 a tarifa residencial da Enel SP **caiu** nominalmente; o salto de 2025 veio depois de dois anos de queda.
+
+3. **Série ANEEL de tarifa residencial (B1) por ano, 2010–2026** — não existe no portal um CSV "tarifa média residencial Brasil"; o que existe é o arquivo de tarifas homologadas por distribuidora (acima). Média simples (não ponderada por consumo) da tarifa B1 residencial convencional (TUSD+TE, sem tributos) das distribuidoras com vigência iniciada em cada ano, cálculo próprio sobre o CSV da ANEEL (n = número de distribuidoras):
+
+| Ano | Média B1 (R$/MWh) | Mediana | n | IPCA no ano (BCB/SGS 433) |
+|---|---|---|---|---|
+| 2010 | 342,89 | 333,25 | 88 | 5,91% |
+| 2011 | 371,97 | 367,21 | 100 | 6,50% |
+| 2012 | 373,11 | 365,05 | 98 | 5,84% |
+| 2013 | 311,33 | 306,74 | 101 | 5,91% |
+| 2014 | 352,54 | 351,76 | 100 | 6,41% |
+| 2015 | 450,17 | 454,73 | 100 | 10,67% |
+| 2016 | 458,27 | 450,23 | 91 | 6,29% |
+| 2017 | 493,53 | 487,62 | 100 | 2,95% |
+| 2018 | 554,24 | 550,93 | 100 | 3,75% |
+| 2019 | 574,04 | 560,27 | 105 | 4,31% |
+| 2020 | 593,53 | 583,48 | 105 | 4,52% |
+| 2021 | 628,67 | 619,94 | 105 | 10,06% |
+| 2022 | 688,77 | 670,99 | 105 | 5,78% |
+| 2023 | 718,71 | 698,13 | 103 | 4,62% |
+| 2024 | 728,37 | 704,70 | 103 | 4,83% |
+| 2025 | 790,80 | 758,75 | 102 | 4,26% |
+| 2026 (até out) | 838,53 | 812,58 | 103 | 3,95% (jan–set) |
+
+Variação da média 2010→2026: +144,5%; 2010→2025: +130,6% contra IPCA de dez/2010 a dez/2025 de 131,6% (cálculo próprio; BCB/SGS 433: https://api.bcb.gov.br/dados/serie/bcdata.sgs.433/dados?formato=json). Ou seja: **nesta métrica simples, a tarifa B1 média acompanhou o IPCA entre 2010 e 2025 e só o superou em 2026**; a leitura "acima da inflação" da Abraceel (+269% 2003–2024 vs IPCA 218%) depende da base 2003 e de ponderação por consumo. A série 2003–2009 não está no arquivo (começa em 2010). O choque de 2013 (-16,6% na média) é a MP 579/2012 e o de 2015 (+27,7% sobre 2014) é o "tarifaço"/revisão extraordinária.
+
+4. **CDE: orçamento anual 2013–2026 (ANEEL Dados Abertos, "CDE – Custeio dos Benefícios Tarifários", arquivo `cde-custeio-beneficios-tarifarios.csv`, geração 01/10/2026; soma das despesas por ano, cálculo próprio; R$ bilhões nominais)** — https://dadosabertos.aneel.gov.br/dataset/conta-desenvolvimento-energetico-cde-custeio-dos-beneficios-tarifarios; CSV: https://dadosabertos.aneel.gov.br/dataset/b3259e81-f581-4595-a9ca-708d911af085/resource/90430056-d594-4f42-8b89-6c15839e5377/download/cde-custeio-beneficios-tarifarios.csv.
+
+| Ano | 2013 | 2014 | 2015 | 2016 | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 | 2026 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| CDE (R$ bi) | 14,12 | 18,07 | 25,25 | 18,29 | 15,99 | 20,05 | 20,21 | 21,91 | 23,92 | 32,10 | 34,99 | 37,17 | 49,23 | 52,66 |
+
+Detalhe 2026 (mesmo arquivo): Quotas CDE-Uso (pagas via tarifa) R$ 47,79 bi; Quotas CDE-GD R$ 2,95 bi; UBP R$ 1,44 bi; despesas: fontes incentivadas (consumidor) R$ 13,39 bi + (transmissoras) R$ 3,73 bi + (geração) R$ 0,95 bi; CCC R$ 11,45 bi; Tarifa Social/baixa renda R$ 10,44 bi; GD (Lei 14.300) R$ 6,86 bi; Luz para Todos R$ 2,60 bi; irrigação/aquicultura R$ 1,55 bi; cooperativas R$ 0,72 bi. Detalhe 2025: CDE-Uso R$ 41,41 bi; CCC R$ 12,56 bi; fontes incentivadas R$ 11,30 bi; baixa renda R$ 7,83 bi; Luz para Todos R$ 3,92 bi; GD R$ 3,66 bi; aporte Eletrobras (Lei 14.182) R$ 1,30 bi em 2024. O valor de 2026 (R$ 52,66 bi) coincide com a proposta de dez/2025 (R$ 52,7 bi) já registrada na nota; o arquivo não traz o número da REH homologatória, então **a lacuna "valor final homologado" fica parcialmente fechada**: o orçamento vigente na base oficial da ANEEL em out/2026 é R$ 52,66 bi, com R$ 47,79 bi via quotas de uso. Os anos 2023 (R$ 34,99 bi) e 2024 (R$ 37,17 bi) fecham a lacuna de `data/series/cde-anual`.
+
+5. **ANP: médias anuais nacionais de preço ao consumidor, 2001–2026** (ANP, "Série histórica do levantamento de preços", planilhas `mensal-brasil-2001-a-2012.xlsx` e `mensal-brasil-desde-jan2013.xlsx`; média simples das médias mensais de revenda, cálculo próprio; 2020 sem ago–out por suspensão da pesquisa; 2026 = jan–set) — https://www.gov.br/anp/pt-br/assuntos/precos-e-defesa-da-concorrencia/precos/precos-revenda-e-de-distribuicao-combustiveis/serie-historica-do-levantamento-de-precos; arquivos: https://www.gov.br/anp/pt-br/assuntos/precos-e-defesa-da-concorrencia/precos/precos-revenda-e-de-distribuicao-combustiveis/shlp/2001-2012/mensal-brasil-2001-a-2012.xlsx e https://www.gov.br/anp/pt-br/assuntos/precos-e-defesa-da-concorrencia/precos/precos-revenda-e-de-distribuicao-combustiveis/shlp/mensal/mensal-brasil-desde-jan2013.xlsx.
+
+| Ano | Gasolina comum (R$/l) | Etanol (R$/l) | Diesel S500 (R$/l) | Diesel S10 (R$/l) | GLP 13 kg (R$) | GNV (R$/m³) | SM (R$, BCB/SGS 1619) | Litros de gasolina por SM |
+|---|---|---|---|---|---|---|---|---|
+| 2003 | 2,073 | 1,347 | 1,451 | — | 29,20 | 1,061 | 240 | 115,8 |
+| 2004 | 2,137 | 1,325 | 1,500 | — | 30,95 | 1,113 | 260 | 121,7 |
+| 2005 | 2,340 | 1,385 | 1,751 | — | 30,11 | 1,145 | 300 | 128,2 |
+| 2006 | 2,552 | 1,634 | 1,884 | — | 32,16 | 1,250 | 350 | 137,1 |
+| 2007 | 2,508 | 1,448 | 1,876 | — | 32,92 | 1,329 | 380 | 151,5 |
+| 2008 | 2,500 | 1,445 | 2,036 | — | 33,15 | 1,562 | 415 | 166,0 |
+| 2009 | 2,511 | 1,485 | 2,060 | — | 35,70 | 1,633 | 465 | 185,2 |
+| 2010 | 2,566 | 1,669 | 2,002 | — | 38,20 | 1,599 | 510 | 198,8 |
+| 2011 | 2,731 | 1,996 | 2,026 | — | 38,47 | 1,602 | 545 | 199,6 |
+| 2012 | 2,736 | 1,943 | 2,087 | 2,226 (dez) | 39,30 | 1,707 | 622 | 227,3 |
+| 2013 | 2,854 | 1,969 | 2,319 | 2,413 | 41,16 | 1,785 | 678 | 237,6 |
+| 2014 | 2,975 | 2,067 | 2,512 | 2,634 | 43,21 | 1,879 | 724 | 243,4 |
+| 2015 | 3,343 | 2,230 | 2,827 | 2,976 | 48,29 | 2,063 | 788 | 235,7 |
+| 2016 | 3,680 | 2,652 | 3,013 | 3,155 | 54,07 | 2,232 | 880 | 239,1 |
+| 2017 | 3,767 | 2,691 | 3,112 | 3,248 | 59,00 | 2,339 | 937 | 248,7 |
+| 2018 | 4,409 | 2,889 | 3,488 | 3,582 | 67,99 | 2,727 | 954 | 216,4 |
+| 2019 | 4,378 | 2,901 | 3,589 | 3,673 | 69,09 | 3,158 | 998 | 228,0 |
+| 2020 | 4,279 | 2,950 | 3,423 | 3,512 | 70,74 | 3,090 | 1.045 | 244,2 |
+| 2021 | 5,781 | 4,334 | 4,562 | 4,626 | 90,51 | 3,795 | 1.100 | 190,3 |
+| 2022 | 6,113 | 4,428 | 6,577 | 6,682 | 109,86 | 4,894 | 1.212 | 198,3 |
+| 2023 | 5,504 | 3,751 | 5,753 | 5,843 | 104,22 | 4,465 | 1.320 | 239,8 |
+| 2024 | 5,927 | 3,860 | 5,920 | 5,990 | 103,59 | 4,617 | 1.412 | 238,2 |
+| 2025 | 6,238 | 4,277 | 6,084 | 6,152 | 108,58 | 4,608 | 1.518 | 243,3 |
+| 2026 (jan–set) | 6,539 | 4,340 | 6,656 | 6,893 | 112,87 | 4,534 | 1.621 | 247,9 |
+
+Salário mínimo: BCB/SGS 1619 (https://api.bcb.gov.br/dados/serie/bcdata.sgs.1619/dados?formato=json), valor vigente no fim de cada ano; **confirma SM 2026 = R$ 1.621 (vigente desde 01/01/2026)**, o que valida o ponto `2026: 248 l` marcado como `nao_verificado` em `data/series/gasolina-litros-por-salario-minimo` (247,9 l com a média jan–set). Leitura: 2003→2025 a gasolina subiu 200,9% nominal, **abaixo** do IPCA do período (232,1%, dez/2003–dez/2025); o diesel S500 subiu 319,3% e o GLP 271,8%, **acima** do IPCA. O pior ano de poder de compra em gasolina desde 2010 foi 2021 (190 l/SM); o melhor, 2017 (249 l) e 2026 (248 l). Nota: a série antiga de `data/series/gasolina-litros-por-salario-minimo` usa o preço de março de cada ano (InvestNews), por isso difere desta (média anual).
+
+6. **Composição oficial do preço (Petrobras, "Preços de venda de combustíveis", coleta 11–17/10/2026, base ANP; fecha a lacuna da seção 8)** — gasolina: https://precos.petrobras.com.br/precos-gasolina; diesel: https://precos.petrobras.com.br/precos-diesel; GLP: https://precos.petrobras.com.br/precos-glp.
+
+| Produto / preço médio Brasil | Parcela Petrobras | Distribuição e revenda | ICMS (imposto estadual) | Biocombustível | Impostos federais |
+|---|---|---|---|---|---|
+| Gasolina R$ 6,53/l | R$ 2,08 (31,9%) | R$ 1,83 (28,0%) | R$ 1,57 (24,0%) | etanol anidro R$ 0,99 (15,2%) | R$ 0,06 (0,9%) |
+| Diesel S10 R$ 7,34/l | R$ 2,83 (38,6%) | R$ 2,20 (30,0%) | R$ 1,17 (15,9%) | biodiesel R$ 0,82 (11,2%) | R$ 0,32 (4,4%) |
+| GLP 13 kg R$ 114,73 | R$ 34,77 (30,3%) | R$ 60,85 (53,0%) | R$ 19,11 (16,7%) | — | R$ 0,00 (0,0%) |
+
+Observações: a página da Petrobras ainda calcula com "mistura obrigatória de 30% de etanol anidro" e "15% de biodiesel" (ver item 7 sobre o E32 em vigor desde 01/08/2026); os "impostos federais" da gasolina (R$ 0,06/l) refletem a redução temporária de PIS/Cofins/Cide de set–out/2026 registrada na seção 11. Confirma a inferência da seção 8: menos de 40% do preço do diesel e menos de um terço do da gasolina é parcela da Petrobras.
+
+7. **E30, E32 e B15: datas e atos (fecha a lacuna da seção 8)** — Resolução CNPE nº 9, de 25/06/2025 ("Dispõe sobre a mistura obrigatória do etanol anidro à gasolina"), DOU de 02/07/2025 — [MME, Resoluções do CNPE 2025](https://www.gov.br/mme/pt-br/assuntos/conselhos-e-comites/cnpe/resolucoes-do-cnpe/2025); PDF: https://www.gov.br/mme/pt-br/assuntos/conselhos-e-comites/cnpe/resolucoes-do-cnpe/2025/ResoluoCNPE9publicada.pdf (PDF em imagem, texto não extraível; o teor de 30% e a vigência em 01/08/2025 constam em fontes secundárias: Aos Fatos, 14/04/2026, abaixo). Resolução CNPE nº 8, de 25/06/2025 ("Fixa o teor obrigatório de biodiesel no diesel", retificação de data publicada no DOU de 03/07/2025) — https://www.gov.br/mme/pt-br/assuntos/conselhos-e-comites/cnpe/resolucoes-do-cnpe/2025/RetifeResCNPE82025.pdf; a página da ANP sobre biodiesel registra **B15 a partir de 1º/08/2025** (e B14 desde mar/2024, B12 desde abr/2023) — [ANP, Biodiesel](https://www.gov.br/anp/pt-br/assuntos/producao-e-fornecimento-de-biocombustiveis/biodiesel). **Novo e relevante: Resolução CNPE nº 9, de 14/07/2026** (aprovada por despacho presidencial de 30/07/2026; DOU 30/07/2026, ed. 142-B, seção 1 extra, p. 12): "Fica estabelecido, em caráter excepcional e temporário, o teor obrigatório de 32% (trinta e dois por cento) de etanol anidro combustível na Gasolina Comum", por 180 dias prorrogáveis uma vez, suspendendo o percentual da Res. 9/2025; "Esta Resolução entra em vigor a partir de primeiro de agosto de dois mil e vinte e seis" — PDF oficial: https://www.gov.br/mme/pt-br/assuntos/conselhos-e-comites/cnpe/resolucoes-do-cnpe/2026/resolucao-9-dou.pdf; página: https://www.gov.br/mme/pt-br/assuntos/conselhos-e-comites/cnpe/resolucoes-do-cnpe/2026. Ou seja, **desde 01/08/2026 a gasolina comum é E32**, medida ligada à alta do petróleo de 2026. Não localizei resolução do CNPE de 2026 sobre B16 (a Lei 14.993 previa B16 em 01/03/2026); a Petrobras ainda usa B15 na composição de out/2026 — tratar o B16 como não confirmado.
+
+8. **Privatização da Eletrobras: votações na Câmara (fonte primária: API de Dados Abertos da Câmara, proposição MPV 1031/2021, id 2270789)** — https://dadosabertos.camara.leg.br/api/v2/proposicoes/2270789/votacoes. Em **19/05/2021**: "Aprovada a Subemenda Substitutiva Global oferecida ao Projeto de Lei de Conversão, adotada pelo Relator da Comissão Mista, ressalvados os destaques. **Sim: 313; não: 166; abstenção: 5; total: 484**" (votação 2270789-73, 22h13; redação final aprovada em 20/05/2021 00h49, relator Dep. Elmar Nascimento, DEM-BA) — https://dadosabertos.camara.leg.br/api/v2/votacoes/2270789-73. Em **21/06/2021**: "Aprovadas as Emendas do Senado Federal nºs 1, 2, 4, 6, 7, 9 a 11, 13 a 15, 17 a 20, 22, 23, 25 a 28 e as Emendas nº 3 (…) e nº 12 (…), ressalvados os destaques. **Sim: 258; não: 136; abstenção: 5; total: 399**" (votação 2270789-157, 18h32); destaques nominais no mesmo dia: Emenda 1 do Senado aprovada 245×174; Emenda 2 292×151; Emenda 15 296×142; Emenda 28 278×172; Emenda 8 rejeitada 162×278; redação final aprovada às 20h50 — https://dadosabertos.camara.leg.br/api/v2/votacoes/2270789-157. Senado, 17/06/2021: "A MP recebeu 42 votos favoráveis e 37 contrários", relator Marcos Rogério (DEM-RO), MP 1.031/2021 convertida no PLV 7/2021 — [Agência Senado, 17/06/2021](https://www12.senado.leg.br/noticias/materias/2021/06/17/senado-aprova-mp-que-desestatiza-eletrobras-texto-volta-para-camara) (confirma em fonte primária o 42×37 que vinha da Wikipédia).
+
+9. **Composição acionária atual da Axia/Eletrobras (fonte primária, RI da Axia, posição "Setembro 2026")** — https://ri.axia.com.br/a-axia/estrutura-acionaria-composicao-acionaria/. "Grupo Governo" (União, BNDES/BNDESPar, FND, FGHAB, BNB, BB Asset, Caixa Asset, Petros e Previ): 993.157.201 ON = **40,67% das ON**; 150.327.123 PN-C = 38,86%; total 1.143.484.325 ações = **40,43% do capital**; inclui 1 ação de classe especial (golden share). Acionistas não residentes 34,19% ON (31,00% total); ADR 2,02% ON; FMP-FGTS 2,19% ON; demais pessoas físicas e jurídicas 19,06% ON (22,88% total); tesouraria 1,87% ON. Total: 2.441.805.426 ON e 386.839.004 PN (2.828.644.431 ações). A página não discrimina a União isoladamente nem menciona o teto de 10% de voto (que está no estatuto e na Lei 14.182). Isso **corrige** o "Governo Federal 46,60%" da Wikipédia usado como `nao_verificado`: o grupo estatal amplo (inclusive fundos de pensão de estatais) tem 40,4–40,7%, compatível com "~40%" do texto da nota.
+
+10. **Conta Escassez Hídrica — instrumento legal** — Decreto nº 10.939, de 13/01/2022: "Fica autorizada a criação e a gestão da Conta Escassez Hídrica pela Câmara de Comercialização de Energia Elétrica - CCEE", com repasse integral dos custos à CDE conforme regulação da ANEEL e quotas fixadas pela ANEEL (art. 3º) — [Planalto](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/decreto/d10939.htm). O valor do empréstimo **não** foi localizado em fonte oficial aberta nesta rodada (segue em lacunas). A quitação antecipada do encargo "CDE Escassez" em set/2024 já está registrada na seção 5 (InfoTarifa).
+
+11. **Salário mínimo 2026** — R$ 1.621 desde 01/01/2026 (BCB/SGS 1619), fechando o `nao_verificado` da seção 10. Série completa: 2003 R$ 240 (abr); 2004 260; 2005 300; 2006 350; 2007 380; 2008 415; 2009 465; 2010 510; 2011 545 (mar); 2012 622; 2013 678; 2014 724; 2015 788; 2016 880; 2017 937; 2018 954; 2019 998; 2020 1.045 (fev); 2021 1.100; 2022 1.212; 2023 1.320 (mai); 2024 1.412; 2025 1.518; 2026 1.621 — https://api.bcb.gov.br/dados/serie/bcdata.sgs.1619/dados?formato=json.
+
+12. **Checagens de 2026 sobre energia/combustíveis (parcial; Lupa, Estadão Verifica e g1 Fato ou Fake não puderam ser abertos — bloqueio de fetch)** — Aos Fatos: "Não é verdade que gasolina encareceu porque Petrobras está pagando multa aos EUA" (16/04/2026, falso) https://www.aosfatos.org/noticias/gasolina-petrobras-multa-eua/; "Posts distorcem proposta para aumentar mistura de álcool na gasolina" (14/04/2026, "não é bem assim": o MME estudava E32; a lei 14.993/2024 permite 22–35%; a mistura de 30% vigorava desde 2025; autor do PL do Combustível do Futuro foi o dep. Jerônimo Goergen, PP-RS) https://aosfatos.org/noticias/proposta-aumentar-mistura-alcool-gasolina/; "É falsa foto que mostra posto vendendo gasolina a R$ 12,85 no Pará" (16/03/2026, falso) https://www.aosfatos.org/noticias/falsa-foto-posto-gasolina-para/; "Lula não disse 'vai a pé' em resposta ao aumento do preço da gasolina" (16/03/2026, falso) https://www.aosfatos.org/noticias/lula-nao-disse-vai-a-pe-resposta-aumento-preco-gasolina/; "É falso que Brasil pode sofrer desabastecimento de combustível a partir desta quinta-feira" (12/03/2026, falso) https://www.aosfatos.org/noticias/falso-brasil-pode-sofrer-desabastecimento-combustivel-a-partir-quinta-feira/; "Câmara não aprovou isenção de conta de luz para LGBTQIA+" (08/06/2026, falso; PL 1182/2023 isenta apenas abrigos na subclasse baixa renda) https://www.aosfatos.org/noticias/isencao-conta-luz-lgbtqia/. Comprova: nenhuma checagem de 2026 sobre estes temas nas buscas "gasolina", "diesel", "Petrobras", "energia" e "conta de luz" (primeira página de cada); itens anteriores úteis: "Entenda o papel da Enel e de cada ente da Federação na crise de energia em SP" (17/10/2024) https://projetocomprova.com.br/publicações/entenda-o-papel-da-enel-e-de-cada-ente-da-federacao-na-crise-de-energia-em-sp/; "Entenda a proposta do governo para ampliar tarifa social da conta de luz e quem vai pagar por isso" (28/04/2025) https://projetocomprova.com.br/publicações/entenda-a-proposta-do-governo-para-ampliar-tarifa-social-da-conta-de-luz-e-quem-vai-pagar-por-isso/; "Entenda as políticas de preços da Petrobras" (24/05/2023) https://projetocomprova.com.br/publicações/entenda-as-politicas-de-preco-da-petrobras/; "Contenção de preços de combustíveis até eleição não foi admitida 'oficialmente' pela Petrobras, como afirma Janones" (29/10/2022, enganoso) https://projetocomprova.com.br/publicações/contencao-de-precos-de-combustiveis-ate-eleicao-nao-foi-admitida-oficialmente-pela-petrobras-como-afirma-janones/.
+
+### Correções a dados existentes
+
+- **Seção 4 / `bandeiras-tarifarias-mensais` / explicador de bandeiras:** o "maior período verde" foi de **maio/2022 a junho/2024** (26 meses), não "abr/2022 a jul/2024": abril/2022 ainda teve bandeira de escassez hídrica (reduzida a R$ 71/MWh) e julho/2024 foi amarela (ANEEL Dados Abertos, acima). Os meses ago–dez/2024 (lacuna da série) foram: ago verde, set vermelha P1, out vermelha P2, nov amarela, dez verde.
+- **Seção 4:** a ANEEL registra em 2016 fevereiro como "Vermelha P2" com adicional de R$ 45/MWh (o P2 valia R$ 45 na REH 2.016/2016), e em 2015 a vermelha P1 de jan–fev valia R$ 30/MWh antes da REH 1.859 (R$ 55 a partir de 02/03/2015). Em 2020 a suspensão ficou visível como verde de fev a nov e vermelha P2 (R$ 62,43) em dezembro.
+- **Seção 5 / explicador / história da Eletrobras (`nao_verificado` na Câmara):** o placar da Câmara em 19/05/2021 foi **313 × 166** (5 abstenções) e em 21/06/2021 o bloco de emendas do Senado foi aprovado por **258 × 136** (5 abstenções) — fonte primária (API da Câmara). Substituir "contagem de votos não localizada".
+- **Seção 5 (composição acionária):** "Governo Federal 46,60%" (Wikipédia) não se sustenta; a RI da Axia (set/2026) dá **40,67% das ON e 40,43% do total** para o "Grupo Governo" (que inclui BNDES, FND, fundos de bancos públicos, Petros e Previ, logo a União sozinha é menor).
+- **Seção 3 (Enel SP):** a nota traz 2021 como "+9,44%" (efeito médio) e 2025 "+13,94%"; os números de resolução são REH 2.890/2021 (29/06/2021), REH 3.477/2025 (01/07/2025) e REH 3.596/2026 (03/07/2026 — a reunião foi em 30/06, a resolução é datada de 03/07). Os anos faltantes estão na tabela do item 2.
+- **Seção 7 / `cde-anual`:** CDE 2026 na base oficial da ANEEL = **R$ 52,66 bi** (quotas de uso R$ 47,79 bi), igual à proposta; 2023 = R$ 34,99 bi; 2024 = R$ 37,17 bi; e a série 2013–2021 passa a existir (item 4). O "CDE de 2022 orçada em R$ 32,1 bi" (Metrópoles) confere com a base (R$ 32,10 bi).
+- **Seção 10 (`gasolina-preco-anual`):** o ponto "mar/2003 R$ 2,215" (InvestNews) é preço de março; a média anual ANP de 2003 foi R$ 2,073. A lacuna "médias anuais 2022–2025" fica fechada: gasolina 6,113 / 5,504 / 5,927 / 6,238; diesel S10 6,682 / 5,843 / 5,990 / 6,152; GLP 109,86 / 104,22 / 103,59 / 108,58.
+- **Seção 8:** desde **01/08/2026** a mistura de etanol anidro na gasolina comum é **32% (E32)**, por Res. CNPE 9/2026 (temporária, 180 dias prorrogáveis), não mais 30%. Qualquer checagem sobre "quanto de etanol tem na gasolina" em out/2026 deve usar 32%.
+- **Seção 9 (contexto externo):** médias anuais oficiais do Brent (EIA) abaixo substituem as leituras pontuais da Trading Economics quando se tratar de "média do ano".
+
+### Novos dados
+
+**A. Brent (média anual, US$/barril, EIA, Europe Brent Spot Price FOB) e câmbio (média anual das médias mensais R$/US$, BCB/SGS 3697, venda)** — EIA anual: https://www.eia.gov/dnav/pet/hist_xls/RBRTEa.xls; mensal: https://www.eia.gov/dnav/pet/hist_xls/RBRTEm.xls; BCB: https://api.bcb.gov.br/dados/serie/bcdata.sgs.3697/dados?formato=json&dataInicial=01/01/2003&dataFinal=31/12/2026 (câmbio anual é cálculo próprio).
+
+| Ano | Brent | R$/US$ | Ano | Brent | R$/US$ |
+|---|---|---|---|---|---|
+| 2003 | 28,85 | 3,08 | 2015 | 52,32 | 3,33 |
+| 2004 | 38,26 | 2,93 | 2016 | 43,64 | 3,49 |
+| 2005 | 54,57 | 2,43 | 2017 | 54,13 | 3,19 |
+| 2006 | 65,16 | 2,18 | 2018 | 71,34 | 3,65 |
+| 2007 | 72,44 | 1,95 | 2019 | 64,30 | 3,94 |
+| 2008 | 96,94 | 1,83 | 2020 | 41,96 | 5,16 |
+| 2009 | 61,74 | 2,00 | 2021 | 70,86 | 5,39 |
+| 2010 | 79,61 | 1,76 | 2022 | 100,93 | 5,16 |
+| 2011 | 111,26 | 1,67 | 2023 | 82,49 | 4,99 |
+| 2012 | 111,63 | 1,95 | 2024 | 80,52 | 5,39 |
+| 2013 | 108,56 | 2,16 | 2025 | 69,14 | 5,59 |
+| 2014 | 98,97 | 2,35 | 2026 (jan–set) | 93,27 | 5,15 |
+
+Brent mensal 2026 (EIA): jan 66,60; fev 70,89; mar 103,13; abr 117,29; mai 107,14; jun 85,40; jul 83,76; ago 91,08; set 114,16. Brent mensal 2025: de 79,27 (jan) a 62,54 (dez). Leitura para checagem: a média de 2026 até setembro (US$ 93) ainda é inferior à de 2011–2013 (US$ 108–112), mas o câmbio é ~3 vezes o de 2011 (R$ 1,67), o que explica por que o preço em reais é recorde mesmo com Brent abaixo do pico histórico.
+
+**B. Reservatórios (ONS Dados Abertos, "EAR diário por subsistema", energia armazenada em % da capacidade máxima; cálculo próprio de fim de mês)** — https://dados.ons.org.br/dataset/ear-diario-por-subsistema; arquivos: https://ons-aws-prod-opendata.s3.amazonaws.com/dataset/ear_subsistema_di/EAR_DIARIO_SUBSISTEMA_2021.csv (idem 2024, 2025, 2026).
+
+| Subsistema SE/CO, fim do mês | 2021 | 2024 | 2025 | 2026 |
+|---|---|---|---|---|
+| jan | 23,4 | 61,1 | 62,0 | 47,4 |
+| fev | 29,6 | 64,5 | 68,7 | 57,3 |
+| mar | 35,3 | 69,5 | 68,4 | 65,3 |
+| abr | 34,7 | 72,9 | 70,2 | 66,1 |
+| mai | 32,1 | 71,4 | 68,4 | 66,1 |
+| jun | 29,1 | 67,6 | 66,5 | 65,6 |
+| jul | 26,0 | 62,5 | 63,1 | 63,0 |
+| ago | 21,3 | 55,7 | 57,7 | 58,0 |
+| set | 16,8 | 46,5 | 50,3 | 56,5 |
+| out | 18,2 | 40,4 | 44,3 | 54,8 (19/10) |
+| nov | 19,7 | 42,7 | 41,6 | — |
+| dez | 25,7 | 51,0 | 42,1 | — |
+
+Mínimos do SE/CO: 16,5% em 06/10/2021 (crise que gerou a bandeira de escassez); 40,2% em 02/11/2024; 40,0% em 12/12/2025; em 2026 o menor valor até 19/10 é o do próprio dia (54,8%). Todos os subsistemas em 19/10 de cada ano: 2021 NE 37,2 / N 51,8 / SE 17,3 / S 41,9; 2024 NE 45,9 / N 66,9 / SE 41,2 / S 64,6; 2025 NE 50,9 / N 77,7 / SE 46,3 / S 91,6; 2026 NE 63,6 / N 65,7 / SE 54,8 / S 80,6. Leitura: a bandeira amarela de mai–set/2026 ocorreu com reservatórios do SE/CO 3 a 4 vezes maiores que em 2021; o acionamento de 2025 (vermelha P2 em ago–set) ocorreu com SE/CO em 50–58%. A diferença entre os 66,1% (SE/CO, ONS) e os "71%" do CMSE citados na seção 4 é a base (SIN inteiro vs. subsistema).
+
+**C. Enel SP: DEC e FEC anuais 2010–2026 (ANEEL Dados Abertos, "Indicadores Coletivos de Continuidade (DEC e FEC)"; agente ELETROPAULO; cálculo próprio: soma dos valores mensais de DEC/FEC dos conjuntos ponderados pelo número de consumidores de cada conjunto; DEC em horas, FEC em interrupções por consumidor; 2026 = jan–jul)** — https://dadosabertos.aneel.gov.br/dataset/indicadores-coletivos-de-continuidade-dec-e-fec.
+
+| Ano | 2010 | 2011 | 2012 | 2013 | 2014 | 2015 | 2016 | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 | 2026 (jan–jul) |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| DEC (h) | 10,64 | 11,16 | 9,66 | 9,62 | 13,01 | 23,77 | 15,69 | 11,74 | 7,18 | 6,45 | 7,52 | 6,77 | 6,36 | 6,78 | 6,68 | 6,83 | 3,85 |
+| FEC | 5,43 | 5,76 | 5,31 | 5,17 | 5,15 | 6,58 | 6,87 | 6,23 | 4,40 | 3,71 | 3,84 | 3,63 | 3,40 | 3,41 | 3,21 | 3,82 | 2,59 |
+| Consumidores (milhões) | 6,51 | 6,51 | 6,52 | 6,69 | 7,01 | 6,80 | 6,93 | 7,12 | 7,20 | 7,28 | 7,41 | 7,53 | 7,67 | 7,85 | 7,92 | 8,07 | 8,09 |
+
+Cuidado na leitura: o indicador "DEC" apurado inclui parcelas expurgáveis (há colunas DECXP, DECXN etc. para eventos "dia crítico"/externos), e os apagões de nov/2023, out/2024 e dez/2025 são em parte classificados como expurgo, o que explica DEC anual quase estável (6,4–6,8 h) apesar dos eventos. A piora visível é a de 2014–2016 (AES Eletropaulo), não a da era Enel. O número de consumidores (8,07 mi em dez/2025; 8,09 mi em jul/2026) é compatível com os "8,9 milhões de unidades" citados pela Enel, que inclui outros grupos tarifários/consumidores não ativos.
+
+**D. Preço da eletricidade residencial, comparação internacional (GlobalPetrolPrices, atualização 3º tri/2026, média 2023–2026, US$/kWh)** — https://www.globalpetrolprices.com/electricity_prices/. Brasil: residencial **US$ 0,166/kWh, 68º de 144 países** (do mais barato ao mais caro); comercial US$ 0,134. Média mundial: residencial 0,179; comercial 0,172. Comparáveis: Argentina 0,092; México 0,110; China 0,076; Índia 0,076; EUA 0,190; Colômbia 0,212; Chile 0,231; França 0,276; Alemanha 0,409. Confirma a leitura da seção 6: em dólar nominal o Brasil está abaixo da média mundial; o site não publica série anual retroativa gratuita (ranking por ano continua lacuna).
+
+**E. Matriz elétrica e renováveis (EPE, BEN 2026 — Relatório Síntese, ano-base 2025)** — PDF: https://www.epe.gov.br/sites-pt/publicacoes-dados-abertos/publicacoes/PublicacoesArquivos/publicacao-975/topico-847/BEN_S%C3%ADntese_2026_PT.pdf; página: https://www.epe.gov.br/pt/publicacoes-dados-abertos/publicacoes/balanco-energetico-nacional-2026. "A participação de renováveis na matriz elétrica ficou em **86,8% em 2025**" (88,2% em 2024; 89,2% em 2023; queda de 1,4 p.p. em 2025 "em decorrência da redução da geração hidráulica"); oferta interna de eletricidade 783,3 TWh (+2,7%; 762,9 TWh em 2024); hidráulica 408,8 TWh (51,2% da oferta, ante 55,3% em 2024; -4,8%); solar fotovoltaica 88,1 TWh (+24,7%), capacidade instalada 64.793 MW (+33,7%); eólica 116,5 TWh (+8,2%), 34.707 MW (+17,5%); térmica 169,9 TWh (+12,3%), 38,9% dela a biomassa; renovabilidade da matriz energética total 49,4%. **Geração distribuída (MMGD):** +28,9% em 2025; MMGD solar 53.144 GWh = 7,0% de toda a geração do país e 60,3% da geração solar; **potência instalada da MMGD solar 44.742 MW**; solar = 97,5% da MMGD. (A série anual completa de renovabilidade 2004–2025 está no gráfico da p. do cap. 4 do Síntese e na Tabela 1.3.b das séries do BEN; a extração de texto não permitiu associar cada valor ao ano com segurança além de 2023–2025.)
+
+**F. Relação B1 Enel SP × média nacional** (cálculo próprio sobre a base ANEEL do item 2/3): em 2010 a B1 da Enel SP (R$ 296,51) era 13,5% menor que a média simples nacional (R$ 342,89); em 2026 (R$ 789,38 vs R$ 838,53) é 5,9% menor. A Enel SP continua abaixo da média nacional, como já indicava o ranking do InfoTarifa (R$ 725 vs Equatorial PA R$ 978 em dez/2025).
+
+### Lacunas que permanecem
+
+- **Número do Acórdão do TCU (18/05/2022) e do processo (TC)**: o portal de jurisprudência do TCU bloqueou o acesso automatizado ("Requisição rejeitada") e a Agência Brasil/eixos não trazem o número. Conferir manualmente em https://pesquisa.apps.tcu.gov.br (buscar "Eletrobras desestatização Cedraz 2022").
+- **Dividendos da Petrobras recebidos pela União por ano**: o conjunto "Dividendos arrecadados pela União" do Tesouro Transparente (https://www.tesourotransparente.gov.br/ckan/dataset/dividendos-arrecadados-pela-uniao) só cobre 2015–abr/2020 e o download devolveu página HTML (bloqueio); a página de dividendos da RI da Petrobras (https://www.investidorpetrobras.com.br/resultados-e-comunicados/dividendos/) traz apenas valores por ação a partir do exercício 2022 e nada sobre a fatia da União. A série continua a depender de reportagens (2021: R$ 101,4 bi totais, 28,67% à União; 2022: R$ 215,7 bi `nao_verificado`).
+- **Valor do empréstimo da Conta Escassez Hídrica e custo ao consumidor**: só o decreto de criação foi confirmado (Decreto 10.939/2022); a REH da ANEEL que homologou o montante e a quitação de set/2024 não foram abertas (páginas da CCEE e da ANEEL sobre CDE retornaram 404).
+- **Custo executado da desoneração de 2022 e total consolidado oficial das subvenções de 2026**: o Boletim RTN de set/2026 (https://www.tesourotransparente.gov.br/publicacoes/boletim-resultado-do-tesouro-nacional-rtn/2026/9) respondeu "429 Too Many Requests" em quatro tentativas; a Receita (gastos tributários "bases efetivas") não foi consultada. Siga Brasil não foi acessado.
+- **Itaipu 2024–2027 em fonte oficial**: o site da Itaipu redireciona para novos caminhos e a página de notícias não expôs itens sobre tarifa; os valores US$ 17,66 (2024–2026) e US$ 19,28 continuam de imprensa.
+- **Petrobras: datas de posse/saída dos presidentes e dias exatos de adoção (out/2016) e fim (mai/2023) do PPI** em fonte da própria Petrobras; **produção e investimento por ano**: não foi possível abrir a central de resultados da RI (JavaScript) nem a Agência Petrobras.
+- **B16 (16% de biodiesel) previsto para 01/03/2026**: não encontrado ato do CNPE em 2026 nem confirmação de vigência; a Petrobras calcula com B15 em out/2026.
+- **ANEEL: tarifa residencial média 2003–2009 e média ponderada por consumo**: a base de tarifas homologadas começa em 2010 e não traz consumo; a média acima é simples. O InfoTarifa (gráfico 2010–2025) continua sendo a única fonte de acumulados oficiais ponderados.
+- **Ranking internacional de eletricidade por ano (IEA/GPP)** e **capacidade de GD solar por ano (ANEEL/Absolar)**: GPP só expõe o corte atual; a Absolar exige cadastro para o infográfico; a base ANEEL de empreendimentos de GD (zip de centenas de MB) não foi processada. Só há o corte 2025 do BEN (44.742 MW de MMGD solar).
+- **Checagens da Lupa, Estadão Verifica e g1 Fato ou Fake**: domínios bloqueados para fetch nesta sessão; a lista do item 12 cobre apenas Aos Fatos e Comprova (primeira página de cada busca).
+- **Consumidores afetados e dias sem luz em out/2024 e dez/2025 (dados consolidados)**: a base ANEEL "Interrupções de energia elétrica nas redes de distribuição" existe (https://dadosabertos.aneel.gov.br/dataset/interrupcoes-de-energia-eletrica-nas-redes-de-distribuicao) mas não foi processada por tamanho.
