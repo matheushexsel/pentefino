@@ -1,0 +1,188 @@
+{
+  "id": "fim-da-escala-6x1-pec",
+  "nome": "Fim da escala 6x1 e jornada de 40 horas sem redução salarial (PEC 221/2019, aprovada no Senado em 14/10/2026)",
+  "tipo": "lei-trabalhista",
+  "governo": "lula-3",
+  "lado": "governo-lula-pt",
+  "norma": {
+    "nome": "PEC 221/2019 — aprovada na Câmara em 27/05/2026 (2º turno: 461 a 19; relator Leo Prates) e no Senado em 14/10/2026 (75 a 1 nos dois turnos; relator Omar Aziz); aguarda promulgação",
+    "data": "2026-10-14",
+    "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/senado-aprova-fim-da-escala-6x1-e-reducao-da-jornada-de-trabalho",
+    "vigencia": "Após a promulgação (sem data até 21/10/2026): em 60 dias, escala 5x2 e teto de 42h; após 12 meses, 40h (14 meses no total)"
+  },
+  "status": "aprovada-aguarda",
+  "o_que_faz_simples": [
+    "Reduz a jornada máxima de 44 para 40 horas semanais sem redução de salário e garante dois dias de descanso remunerado por semana (escala máxima 5x2), acabando com a escala 6x1.",
+    "Transição: 60 dias após a promulgação passa a valer 5x2 com teto de 42h; 12 meses depois, 40h. Emenda constitucional não passa por sanção presidencial.",
+    "Quantos trabalham em 6x1: MTE conta 14,8 milhões de celetistas (33% dos homens e 32,2% das mulheres; transporte aéreo 53,2%, alojamento 52%, alimentação 47,1%, comércio 42,2%) mais 1,4 milhão de domésticos. Acima de 40h: Dieese fala em 22 milhões de formais (54% dos empregados com carteira) + 4,8 milhões de informais (26,8 milhões); a senadora Leany Lemos cita 36,2 milhões de vínculos formais acima de 40h. Ipea (RAIS): 80% dos vínculos acima de 40h ganham até 2 salários mínimos (R$ 3.242).",
+    "Custos estimados: CNI projeta até R$ 267,2 bilhões, PIB −0,7% (R$ 76,9 bi), alta média de 6,2% nos preços e produtividade que levaria até 30 anos para recuperar; Warren Rena: +0,38 a 0,42 p.p. de inflação (IPCA de 4,58% para 4,96%-5%) sem ganhos de produtividade; CBIC: 288 mil trabalhadores adicionais na construção. Dieese argumenta que a parcela da renda apropriada por empresas subiu de 33% para 37% do PIB em dez anos.",
+    "Posições: Lula (24/12/2025): fim do 6x1 'sem redução de salário é demanda do povo'; o programa de Lula promete aprovar 'nos termos aprovados na Câmara'. Flávio Bolsonaro posicionou-se contra a PEC e articulou alternativa (set/2026), mas o PL liberou a bancada e Flávio votou a favor remotamente em 14/10/2026; Marcos Pontes (PL) alertou para custos a micro e pequenas empresas; único voto contrário: Hamilton Mourão."
+  ],
+  "quem_ganha": {
+    "descricao": "Trabalhadores formais com jornada acima de 40h — 22 milhões (54% dos com carteira) + 4,8 milhões de informais, segundo o Dieese; 14,8 milhões de celetistas em 6x1 segundo o MTE. Concentrados em comércio, alimentação e alojamento, com salários próximos ao piso: 80% dos vínculos acima de 40h ganham até 2 SM (Ipea). Décimos 3 a 7 da renda (inferência da nota).",
+    "pessoas": 26800000,
+    "faixa_renda": "Até 2 salários mínimos (80% dos vínculos acima de 40h); décimos 3 a 7",
+    "fonte": {
+      "nome": "Agência Brasil — Senado aprova fim da escala 6x1 e redução da jornada (14/10/2026)",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/senado-aprova-fim-da-escala-6x1-e-reducao-da-jornada-de-trabalho",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    }
+  },
+  "quem_paga": {
+    "descricao": "Empresas de serviços intensivos em mão de obra (comércio, alimentação, alojamento, transporte) e, via preços, consumidores. A divergência CNI x Dieese é sobre quanto do custo será repassado. Sem estimativa oficial (Ipea/MTE/Fazenda) localizada.",
+    "pessoas": null,
+    "faixa_renda": "Empresas e consumidores em geral",
+    "fonte": {
+      "nome": "BP Money — Senado aprova fim da 6x1: estimativas Dieese, CNI, Warren Rena, CBIC (15/10/2026)",
+      "url": "https://bpmoney.com.br/?p=427285",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  },
+  "custo_ou_arrecadacao": {
+    "valor": 267.2,
+    "unidade": "R$ bilhões",
+    "periodo": "Estimativa máxima da CNI (parte interessada), out/2026",
+    "descricao": "CNI: custos de até R$ 267,2 bi e PIB −0,7% (R$ 76,9 bi); em maio a CNI falava em +6% a 9% de custos para o setor. Não há estimativa oficial.",
+    "fonte": {
+      "nome": "BP Money — Senado aprova fim da 6x1: estimativas Dieese, CNI, Warren Rena, CBIC (15/10/2026)",
+      "url": "https://bpmoney.com.br/?p=427285",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    "nao_verificado": true
+  },
+  "regra_simulador": {
+    "tipo": "nenhuma",
+    "parametros": {}
+  },
+  "mitos": [
+    {
+      "mito": "Flávio Bolsonaro votou contra o fim da escala 6x1.",
+      "fato": "Flávio posicionou-se contra a PEC e articulou uma alternativa em set/2026, mas na votação do Senado em 14/10/2026 o PL liberou a bancada e ele votou a favor, remotamente; o único voto contrário foi de Hamilton Mourão (Republicanos-RS).",
+      "fontes": [
+        {
+          "nome": "Agência Brasil — Senado aprova fim da escala 6x1 e redução da jornada (14/10/2026)",
+          "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/senado-aprova-fim-da-escala-6x1-e-reducao-da-jornada-de-trabalho",
+          "acesso_em": "2026-10-21",
+          "tier": "oficial"
+        },
+        {
+          "nome": "CUT — escala 6x1 atinge quase 15 milhões (dados MTE); Flávio Bolsonaro é contra a PEC (22/09/2026)",
+          "url": "https://www.cut.org.br/noticias/escala-6x1-atinge-quase-15-milhoes-flavio-bolsonaro-e-contra-aprovacao-da-pec-0511/",
+          "acesso_em": "2026-10-21",
+          "tier": "partidario"
+        }
+      ]
+    },
+    {
+      "mito": "A jornada de 40 horas já está em vigor.",
+      "fato": "A PEC aguardava promulgação em 21/10/2026. Depois dela há transição: 5x2 e teto de 42h em 60 dias; 40h só após 12 meses (14 meses no total).",
+      "fontes": [
+        {
+          "nome": "Agência Brasil — Senado aprova fim da escala 6x1 e redução da jornada (14/10/2026)",
+          "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/senado-aprova-fim-da-escala-6x1-e-reducao-da-jornada-de-trabalho",
+          "acesso_em": "2026-10-21",
+          "tier": "oficial"
+        },
+        {
+          "nome": "BP Money — Senado aprova fim da 6x1: estimativas Dieese, CNI, Warren Rena, CBIC (15/10/2026)",
+          "url": "https://bpmoney.com.br/?p=427285",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        }
+      ]
+    },
+    {
+      "mito": "O fim da 6x1 vai reduzir salários.",
+      "fato": "O texto prevê redução da jornada de 44 para 40h sem redução salarial. O debate econômico é sobre custos para empresas (CNI: até R$ 267,2 bi) e repasse a preços (Warren Rena: +0,38-0,42 p.p. de inflação), não sobre corte de salários.",
+      "fontes": [
+        {
+          "nome": "Agência Brasil — Senado aprova fim da escala 6x1 e redução da jornada (14/10/2026)",
+          "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/senado-aprova-fim-da-escala-6x1-e-reducao-da-jornada-de-trabalho",
+          "acesso_em": "2026-10-21",
+          "tier": "oficial"
+        },
+        {
+          "nome": "BP Money — Senado aprova fim da 6x1: estimativas Dieese, CNI, Warren Rena, CBIC (15/10/2026)",
+          "url": "https://bpmoney.com.br/?p=427285",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Agência Brasil — Senado aprova fim da escala 6x1 e redução da jornada (14/10/2026)",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/senado-aprova-fim-da-escala-6x1-e-reducao-da-jornada-de-trabalho",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Agência Brasil — Câmara aprova em dois turnos PEC pelo fim da escala 6x1 (27/05/2026)",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-05/camara-aprova-em-dois-turnos-pec-pelo-fim-da-escala-6x1",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Senado Notícias — PEC do fim da 6x1 pode ser votada nesta quarta (13/10/2026)",
+      "url": "https://www12.senado.leg.br/noticias/materias/2026/10/13/pec-do-fim-da-6x1-pode-ser-votada-nesta-quarta-apos-quinta-sessao-de-discussao",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "BP Money — Senado aprova fim da 6x1: estimativas Dieese, CNI, Warren Rena, CBIC (15/10/2026)",
+      "url": "https://bpmoney.com.br/?p=427285",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "CUT — escala 6x1 atinge quase 15 milhões (dados MTE); Flávio Bolsonaro é contra a PEC (22/09/2026)",
+      "url": "https://www.cut.org.br/noticias/escala-6x1-atinge-quase-15-milhoes-flavio-bolsonaro-e-contra-aprovacao-da-pec-0511/",
+      "acesso_em": "2026-10-21",
+      "tier": "partidario"
+    },
+    {
+      "nome": "Viva/Broadcast — fim da escala 6x1 é comemorado por Lula; CNI e Fiesp criticam",
+      "url": "https://viva.com.br/politica/fim-da-escala-6x1-e-comemorado-por-lula-cni-e-fiesp-criticam-medida.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Mercado & Consumo — para CNI, PEC da 6x1 é 'inadequada, inoportuna' (28/05/2026)",
+      "url": "https://mercadoeconsumo.com.br/28/05/2026/economia/para-cni-pec-da-6x1-e-inadequada-inoportuna-e-debate-nao-pode-ocorrer-sob-pressao-eleitoral/amp/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "O Povo — Lula: fim da escala 6x1 sem redução de salário é demanda do povo (24/12/2025)",
+      "url": "https://www.opovo.com.br/noticias/politica/2025/12/24/lula-fim-da-escala-6x1-sem-reducao-de-salario-e-demanda-do-povo.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Diario de Pernambuco — Dieese: 26,8 milhões beneficiados pelo fim da 6x1",
+      "url": "https://www.diariodepernambuco.com.br/?p=39164",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Programa de Governo Lula 2026 — 'Brasil Pronto Pra Mais' (PDF, Poder360)",
+      "url": "https://static.poder360.com.br/uploads/2026/08/Programa-Governo-LULA-2026.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "partidario"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/13_renda_por_faixa_e_simulacoes_de_impacto.md",
+  "notas_brutas_adicionais": [
+    "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/03_emprego_renda_pobreza_social.md"
+  ],
+  "lacunas": [
+    "Estimativas de beneficiados divergem (14,8 mi celetistas em 6x1 — MTE; 22 mi + 4,8 mi acima de 40h — Dieese; 36,2 mi vínculos acima de 40h — Leany Lemos); o número de 26,8 mi atribuído ao Dieese não foi verificado no texto (Síntese Especial 24 é de acesso restrito).",
+    "Estimativa oficial (Ipea/MTE/Fazenda) de impacto sobre custo das empresas e emprego não localizada.",
+    "Perfil de renda detalhado dos trabalhadores em 6x1 e data de promulgação não obtidos."
+  ],
+  "atualizado_em": "2026-10-21"
+}

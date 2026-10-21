@@ -1,0 +1,200 @@
+{
+  "id": "bolsa-familia-piso-691-2026",
+  "nome": "Reajuste de 15,04% do Bolsa Família: piso de R$ 691 e benefício médio projetado de R$ 777 (out/2026)",
+  "tipo": "beneficio",
+  "governo": "lula-3",
+  "lado": "governo-lula-pt",
+  "norma": {
+    "nome": "Decreto 13.120, de 17/09/2026",
+    "data": "2026-09-17",
+    "url": "https://www.opovo.com.br/trends/bolsa-familia-sobe-15-em-outubro-minimo-vai-a-r-691-e-valor-medio-projetado-chega-a-r-777/",
+    "vigencia": "A partir da folha de outubro/2026 (pagamentos desde 19/10/2026)"
+  },
+  "status": "em-vigor",
+  "o_que_faz_simples": [
+    "Reajusta todos os componentes do Bolsa Família em 15,04%, o INPC acumulado de mar/2023 a ago/2026 — o primeiro reajuste geral desde a recriação do programa.",
+    "Piso por família: de R$ 600 para R$ 691. Benefício de Renda de Cidadania: de R$ 142 para R$ 164 por pessoa; Primeira Infância (0-6 anos): de R$ 150 para R$ 173; Variável Familiar (gestantes, nutrizes, 7-18 anos): de R$ 50 para R$ 58. Benefício médio projetado: de R$ 675 para R$ 777.",
+    "Alcança 19,3 milhões de famílias (ago/2026). Pagamentos a partir de 19/10/2026, uma semana antes do 2º turno (25/10/2026); críticos apontam uso eleitoral e economistas observam que a inflação justificaria o reajuste desde janeiro.",
+    "Custo: R$ 5,8 bilhões no restante de 2026 e R$ 22 bilhões (O Povo, ministro Bruno Moretti) a R$ 22,7 bilhões (Gazeta do Povo) adicionais por ano em 2027 — valor não previsto no PLOA 2027.",
+    "Simulação FGV IBRE (microdados PNAD 2025, aumento real de 15% só para domicílios com Bolsa Família, efeito mecânico): extrema pobreza (linha R$ 218) cai de 3,14% para 2,49% (−0,65 p.p., ~1,39 milhão de pessoas); linha R$ 280: de 4,61% para 4,01% (~1,29 mi); linha R$ 775: de 25,09% para 24,50% (~1,25 mi). Ganho médio per capita: Nordeste R$ 11,87, Norte R$ 11,07, Sudeste R$ 3,86, Sul R$ 2,65; ~734 mil nordestinos cruzam a linha de R$ 280."
+  ],
+  "quem_ganha": {
+    "descricao": "19,3 milhões de famílias do Bolsa Família (renda per capita até R$ 218), com ganho de R$ 91 no piso — cerca de 12-13% sobre a renda per capita típica dessas famílias (R$ 774 em 2025), efeito concentrado nos dois décimos mais pobres e nas regiões Norte e Nordeste (inferência da nota a partir de IBGE, MDS e FGV IBRE).",
+    "pessoas": null,
+    "faixa_renda": "Renda familiar per capita até R$ 218/mês; décimos 1 e 2",
+    "fonte": {
+      "nome": "O Povo — Bolsa Família sobe 15% em outubro; mínimo vai a R$ 691 e médio projetado a R$ 777 (21/09/2026)",
+      "url": "https://www.opovo.com.br/trends/bolsa-familia-sobe-15-em-outubro-minimo-vai-a-r-691-e-valor-medio-projetado-chega-a-r-777/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  },
+  "quem_paga": {
+    "descricao": "União: R$ 5,8 bi em 2026 e R$ 22-22,7 bi/ano a partir de 2027, fora do PLOA 2027.",
+    "pessoas": null,
+    "faixa_renda": "Não se aplica (Tesouro)",
+    "fonte": {
+      "nome": "O Povo — Bolsa Família sobe 15% em outubro; mínimo vai a R$ 691 e médio projetado a R$ 777 (21/09/2026)",
+      "url": "https://www.opovo.com.br/trends/bolsa-familia-sobe-15-em-outubro-minimo-vai-a-r-691-e-valor-medio-projetado-chega-a-r-777/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  },
+  "custo_ou_arrecadacao": {
+    "valor": 22.7,
+    "unidade": "R$ bilhões",
+    "periodo": "2027 (custo adicional anual; R$ 5,8 bi em 2026)",
+    "descricao": "R$ 5,8 bilhões no restante de 2026; R$ 22 bi (O Povo) a R$ 22,7 bi (Gazeta do Povo) adicionais por ano em 2027, não previstos no PLOA 2027.",
+    "fonte": {
+      "nome": "Gazeta do Povo — governo Lula eleva valor do Bolsa Família às vésperas do segundo turno (out/2026)",
+      "url": "https://www.gazetadopovo.com.br/economia/governo-lula-eleva-valor-do-bolsa-familia-as-vesperas-do-segundo-turno/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  },
+  "regra_simulador": {
+    "tipo": "tabela",
+    "parametros": {
+      "vigencia": "desde out/2026",
+      "reajuste_pct": 15.04,
+      "indice": "INPC acumulado mar/2023-ago/2026",
+      "elegibilidade_renda_per_capita_max": 218,
+      "piso_por_familia": {
+        "antes": 600,
+        "depois": 691
+      },
+      "componentes": {
+        "renda_de_cidadania_por_pessoa": {
+          "antes": 142,
+          "depois": 164
+        },
+        "primeira_infancia_0_a_6_anos": {
+          "antes": 150,
+          "depois": 173
+        },
+        "variavel_familiar_gestantes_nutrizes_7_a_18": {
+          "antes": 50,
+          "depois": 58
+        }
+      },
+      "beneficio_medio": {
+        "antes": 675,
+        "depois_projetado": 777
+      },
+      "formula": "beneficio = max(piso_por_familia, renda_de_cidadania_por_pessoa × nº de pessoas) + primeira_infancia × nº de crianças 0-6 + variavel_familiar × nº de gestantes/nutrizes/jovens 7-18",
+      "estrutura_da_formula_inferida_pela_nota": true,
+      "fonte_formula": "Blog do IBRE/FGV (Decreto 13.120/2026)",
+      "fonte_formula_url": "https://blogdoibre.fgv.br/node/2410"
+    }
+  },
+  "mitos": [
+    {
+      "mito": "O Bolsa Família ficou quatro anos sem reajuste por culpa do governo anterior.",
+      "fato": "Lupa: FALTA CONTEXTO. O piso de R$ 600 vigora desde 2022 e o governo Lula só fez o primeiro reajuste geral em out/2026, corrigindo 3,5 anos de inflação (mar/2023-ago/2026). Economistas apontam que a inflação justificaria reajuste desde janeiro de 2026.",
+      "fontes": [
+        {
+          "nome": "Lupa — checagem ao vivo da entrevista de Lula no Flow (01/10/2026)",
+          "url": "https://www.agencialupa.org/checagem/2026/10/01/ao-vivo-checagem-da-entrevista-de-lula-no-flow/",
+          "acesso_em": "2026-10-21",
+          "tier": "checagem"
+        },
+        {
+          "nome": "Gazeta do Povo — governo Lula eleva valor do Bolsa Família às vésperas do segundo turno (out/2026)",
+          "url": "https://www.gazetadopovo.com.br/economia/governo-lula-eleva-valor-do-bolsa-familia-as-vesperas-do-segundo-turno/",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        }
+      ]
+    },
+    {
+      "mito": "O reajuste tira milhões de pessoas da pobreza.",
+      "fato": "A simulação do FGV IBRE estima efeito mecânico de ~1,3-1,4 milhão de pessoas saindo da extrema pobreza (linhas de R$ 218 e R$ 280) e ~1,25 milhão da pobreza (linha R$ 775), concentrado no Norte e Nordeste — sem considerar mudanças de cobertura nem estimar custo.",
+      "fontes": [
+        {
+          "nome": "Blog do IBRE/FGV — Vitor Hugo Miro: simulação do reajuste do Bolsa Família (06/10/2026)",
+          "url": "https://blogdoibre.fgv.br/node/2410",
+          "acesso_em": "2026-10-21",
+          "tier": "academico"
+        }
+      ]
+    },
+    {
+      "mito": "O reajuste já está no orçamento de 2027.",
+      "fato": "O custo de R$ 22-22,7 bi/ano em 2027 não estava previsto no PLOA 2027, segundo as fontes.",
+      "fontes": [
+        {
+          "nome": "Gazeta do Povo — governo Lula eleva valor do Bolsa Família às vésperas do segundo turno (out/2026)",
+          "url": "https://www.gazetadopovo.com.br/economia/governo-lula-eleva-valor-do-bolsa-familia-as-vesperas-do-segundo-turno/",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "O Povo — Bolsa Família sobe 15% em outubro; mínimo vai a R$ 691 e médio projetado a R$ 777 (21/09/2026)",
+          "url": "https://www.opovo.com.br/trends/bolsa-familia-sobe-15-em-outubro-minimo-vai-a-r-691-e-valor-medio-projetado-chega-a-r-777/",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "O Povo — Bolsa Família sobe 15% em outubro; mínimo vai a R$ 691 e médio projetado a R$ 777 (21/09/2026)",
+      "url": "https://www.opovo.com.br/trends/bolsa-familia-sobe-15-em-outubro-minimo-vai-a-r-691-e-valor-medio-projetado-chega-a-r-777/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Folha PE — Bolsa Família paga valor mínimo de R$ 691 em outubro",
+      "url": "https://www.folhape.com.br/economia/bolsa-familia-paga-valor-minimo-de-r-691-em-outubro-com-folha/518385/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Blog do IBRE/FGV — Vitor Hugo Miro: simulação do reajuste do Bolsa Família (06/10/2026)",
+      "url": "https://blogdoibre.fgv.br/node/2410",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    },
+    {
+      "nome": "Gazeta do Povo — governo Lula eleva valor do Bolsa Família às vésperas do segundo turno (out/2026)",
+      "url": "https://www.gazetadopovo.com.br/economia/governo-lula-eleva-valor-do-bolsa-familia-as-vesperas-do-segundo-turno/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Mixvale — Decreto 13.120/2026 e componentes do Bolsa Família (19/10/2026)",
+      "url": "https://www.mixvale.com.br/2026/10/19/bolsa-familia-2026-caixa-inicia-repasses-de-outubro-com-novo-valor-minimo-de-r-69100-por-familia/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Lupa — checagem ao vivo da entrevista de Lula no Flow (01/10/2026)",
+      "url": "https://www.agencialupa.org/checagem/2026/10/01/ao-vivo-checagem-da-entrevista-de-lula-no-flow/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Correio Braziliense — renda do brasileiro bate recorde em 2025 (08/05/2026)",
+      "url": "https://www.correiobraziliense.com.br/economia/2026/05/7415178-renda-do-brasileiro-bate-recorde-em-2025-aponta-ibge.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "IBGE — PNAD Contínua: Rendimento de todas as fontes 2025 (Informativo, 08/05/2026)",
+      "url": "https://biblioteca.ibge.gov.br/visualizacao/livros/liv102275_informativo.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/13_renda_por_faixa_e_simulacoes_de_impacto.md",
+  "notas_brutas_adicionais": [
+    "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/03_emprego_renda_pobreza_social.md"
+  ],
+  "lacunas": [
+    "Custo em 2027 diverge entre fontes (R$ 22 bi vs R$ 22,7 bi).",
+    "Texto do Decreto 13.120/2026 não acessado (componentes via snippet e blog do IBRE).",
+    "Simulação do FGV IBRE não estima custo nem mudanças de cobertura."
+  ],
+  "atualizado_em": "2026-10-21"
+}

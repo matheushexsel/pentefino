@@ -1,0 +1,140 @@
+{
+  "id": "imposto-seletivo",
+  "nome": "Imposto Seletivo ('imposto do pecado') sobre cigarros, bebidas, veículos, minerais, bets, embarcações e aeronaves",
+  "tipo": "imposto",
+  "governo": "lula-3",
+  "lado": "governo-lula-pt",
+  "norma": {
+    "nome": "EC 132/2023 e LC 214/2025 (lista de produtos); alíquotas dependem de lei ordinária ainda não enviada ao Congresso (set/2026)",
+    "data": "2025-01-16",
+    "url": "https://www.congressoemfoco.com.br/noticia/119267/com-aliquotas-indefinidas-fazenda-mantem-imposto-seletivo-para-2027",
+    "vigencia": "Cobrança prevista a partir de 2027; alíquotas indefinidas em out/2026"
+  },
+  "status": "aprovada-aguarda",
+  "o_que_faz_simples": [
+    "Cria um imposto extra sobre produtos considerados nocivos à saúde ou ao meio ambiente: fumígenos, bebidas alcoólicas, bebidas açucaradas, veículos, bens minerais, concursos de prognósticos e fantasy sport (bets), embarcações e aeronaves.",
+    "O produto está listado na LC 214/2025, mas as alíquotas precisam de outra lei. O governo adiou para 2026 o envio do projeto; em set/2026 a Fazenda mantinha a previsão de cobrança em 2027 com alíquotas indefinidas.",
+    "O Senado incluiu no PLP 108 um teto de 2% para bebidas açucaradas e 0,25% para minerais; a Câmara retirou o teto de 2% em dez/2025.",
+    "O programa de Lula para 2026 promete usar o Imposto Seletivo para 'desestimular produtos nocivos à saúde'."
+  ],
+  "quem_ganha": {
+    "descricao": "União, estados e municípios (arrecadação) e, segundo o governo, a saúde pública pela redução do consumo. Não há beneficiário direto por faixa de renda.",
+    "pessoas": null,
+    "faixa_renda": "Não se aplica",
+    "fonte": {
+      "nome": "Congresso em Foco — com alíquotas indefinidas, Fazenda mantém Imposto Seletivo para 2027",
+      "url": "https://www.congressoemfoco.com.br/noticia/119267/com-aliquotas-indefinidas-fazenda-mantem-imposto-seletivo-para-2027",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  },
+  "quem_paga": {
+    "descricao": "Consumidores dos produtos listados (cigarros, álcool, refrigerantes, veículos, apostas) e proprietários de embarcações/aeronaves; setores produtores (fumo, bebidas, mineração, bets, automotivo). Como tributo sobre consumo, o peso por faixa de renda depende das alíquotas, ainda não fixadas.",
+    "pessoas": null,
+    "faixa_renda": "Indeterminado até a fixação das alíquotas",
+    "fonte": {
+      "nome": "CNN Brasil — 'imposto do pecado': veja a lista de produtos",
+      "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/imposto-do-pecado-sobretaxa-cigarro-e-bebidas-alcoolicas-veja-lista/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  },
+  "custo_ou_arrecadacao": {
+    "valor": 41.9,
+    "unidade": "R$ bilhões",
+    "periodo": "2027 (estimativa da Fazenda, set/2026)",
+    "descricao": "Estimativa de arrecadação de R$ 41,9 bi em 2027, com alíquotas ainda indefinidas.",
+    "fonte": {
+      "nome": "Congresso em Foco — com alíquotas indefinidas, Fazenda mantém Imposto Seletivo para 2027",
+      "url": "https://www.congressoemfoco.com.br/noticia/119267/com-aliquotas-indefinidas-fazenda-mantem-imposto-seletivo-para-2027",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  },
+  "regra_simulador": {
+    "tipo": "nenhuma",
+    "parametros": {}
+  },
+  "mitos": [
+    {
+      "mito": "O 'imposto do pecado' já está sendo cobrado.",
+      "fato": "A cobrança está prevista para 2027 e o projeto com as alíquotas não havia sido enviado ao Congresso até set/2026. Em out/2026 nenhuma alíquota do Imposto Seletivo estava fixada.",
+      "fontes": [
+        {
+          "nome": "Congresso em Foco — com alíquotas indefinidas, Fazenda mantém Imposto Seletivo para 2027",
+          "url": "https://www.congressoemfoco.com.br/noticia/119267/com-aliquotas-indefinidas-fazenda-mantem-imposto-seletivo-para-2027",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "Sindifisco-MS — governo adia projeto das alíquotas do Imposto Seletivo para 2026",
+          "url": "https://www.sindifisco-ms.org.br/imposto-seletivo-governo-decide-adiar-projeto-das-aliquotas-do-imposto-do-pecado-e-texto-ficara-para-2026/",
+          "acesso_em": "2026-10-21",
+          "tier": "partidario"
+        }
+      ]
+    },
+    {
+      "mito": "O Imposto Seletivo vai incidir sobre todos os alimentos e bebidas.",
+      "fato": "A lista da LC 214 inclui fumígenos, bebidas alcoólicas, bebidas açucaradas, veículos, bens minerais, bets/fantasy sport, embarcações e aeronaves. A cesta básica tem IBS/CBS zerados.",
+      "fontes": [
+        {
+          "nome": "CNN Brasil — 'imposto do pecado': veja a lista de produtos",
+          "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/imposto-do-pecado-sobretaxa-cigarro-e-bebidas-alcoolicas-veja-lista/",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "Valor Final — guia: cesta básica e cashback na reforma tributária",
+          "url": "https://valorfinal.com.br/guia/reforma-tributaria-cesta-basica-e-cashback",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "CNN Brasil — 'imposto do pecado': veja a lista de produtos",
+      "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/imposto-do-pecado-sobretaxa-cigarro-e-bebidas-alcoolicas-veja-lista/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Sindifisco-MS — governo adia projeto das alíquotas do Imposto Seletivo para 2026",
+      "url": "https://www.sindifisco-ms.org.br/imposto-seletivo-governo-decide-adiar-projeto-das-aliquotas-do-imposto-do-pecado-e-texto-ficara-para-2026/",
+      "acesso_em": "2026-10-21",
+      "tier": "partidario"
+    },
+    {
+      "nome": "Congresso em Foco — com alíquotas indefinidas, Fazenda mantém Imposto Seletivo para 2027",
+      "url": "https://www.congressoemfoco.com.br/noticia/119267/com-aliquotas-indefinidas-fazenda-mantem-imposto-seletivo-para-2027",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "AMDJUS — projeto das alíquotas do IS é adiado para 2026",
+      "url": "https://amdjus.com.br/projeto-das-aliquotas-de-imposto-seletivo-e-adiado-pelo-governo-para-2026/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Migalhas — publicada a primeira lei que regulamenta a reforma tributária (LC 214/2025)",
+      "url": "https://www.migalhas.com.br/depeso/423169/publicada-a-primeira-lei-que-regulamenta-a-reforma-tributaria",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Programa de Governo Lula 2026 — 'Brasil Pronto Pra Mais' (PDF, Poder360)",
+      "url": "https://static.poder360.com.br/uploads/2026/08/Programa-Governo-LULA-2026.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "partidario"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/12_pix_fake_news_e_impostos_quem_paga.md",
+  "lacunas": [
+    "Projeto de lei com as alíquotas do IS não enviado/não localizado; impacto por faixa de renda indeterminável.",
+    "Texto legal da LC 214 (artigos do IS) não acessado diretamente."
+  ],
+  "atualizado_em": "2026-10-21"
+}

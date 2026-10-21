@@ -1,0 +1,163 @@
+{
+  "id": "renda-per-capita-por-decimo-2025",
+  "titulo": "Renda domiciliar per capita média por décimo da população (2025)",
+  "descricao_simples": "Quanto ganha, por pessoa, a família típica de cada faixa de 10% da população, dos 10% mais pobres aos 10% mais ricos, em reais de 2025.",
+  "unidade": "R$ por mês, a preços médios de 2025",
+  "tipo_grafico": "barra",
+  "frequencia": "anual",
+  "fonte": {
+    "nome": "IBGE — PNAD Contínua: Rendimento de todas as fontes 2025 (Informativo, 08/05/2026)",
+    "url": "https://biblioteca.ibge.gov.br/visualizacao/livros/liv102275_informativo.pdf",
+    "acesso_em": "2026-10-21",
+    "tier": "oficial"
+  },
+  "pontos": [
+    {
+      "periodo": "1º décimo (10% mais pobres)",
+      "valor": 268,
+      "valor_2024": 260,
+      "valor_2019": 150,
+      "percentual_acumulado": 10,
+      "parcela_da_massa_pct_2025": 1.2
+    },
+    {
+      "periodo": "2º décimo (10% a 20%)",
+      "valor": 568,
+      "valor_2024": 544,
+      "valor_2019": 399,
+      "percentual_acumulado": 20,
+      "parcela_da_massa_pct_2025": 2.5
+    },
+    {
+      "periodo": "3º décimo (20% a 30%)",
+      "valor": 791,
+      "valor_2024": 754,
+      "valor_2019": 592,
+      "percentual_acumulado": 30,
+      "parcela_da_massa_pct_2025": 3.5
+    },
+    {
+      "periodo": "4º décimo (30% a 40%)",
+      "valor": 1027,
+      "valor_2024": 975,
+      "valor_2019": 788,
+      "percentual_acumulado": 40,
+      "parcela_da_massa_pct_2025": 4.5
+    },
+    {
+      "periodo": "5º décimo (40% a 50%)",
+      "valor": 1311,
+      "valor_2024": 1228,
+      "valor_2019": 1018,
+      "percentual_acumulado": 50,
+      "parcela_da_massa_pct_2025": 5.8
+    },
+    {
+      "periodo": "6º décimo (50% a 60%)",
+      "valor": 1560,
+      "valor_2024": 1495,
+      "valor_2019": 1307,
+      "percentual_acumulado": 60,
+      "parcela_da_massa_pct_2025": 6.9
+    },
+    {
+      "periodo": "7º décimo (60% a 70%)",
+      "valor": 1913,
+      "valor_2024": 1819,
+      "valor_2019": 1581,
+      "percentual_acumulado": 70,
+      "parcela_da_massa_pct_2025": 8.5
+    },
+    {
+      "periodo": "8º décimo (70% a 80%)",
+      "valor": 2494,
+      "valor_2024": 2355,
+      "valor_2019": 2075,
+      "percentual_acumulado": 80,
+      "parcela_da_massa_pct_2025": 11.0
+    },
+    {
+      "periodo": "9º décimo (80% a 90%)",
+      "valor": 3590,
+      "valor_2024": 3366,
+      "valor_2019": 2978,
+      "percentual_acumulado": 90,
+      "parcela_da_massa_pct_2025": 15.9
+    },
+    {
+      "periodo": "10º décimo (10% mais ricos)",
+      "valor": 9117,
+      "valor_2024": 8385,
+      "valor_2019": 8147,
+      "percentual_acumulado": 100,
+      "parcela_da_massa_pct_2025": 40.3
+    },
+    {
+      "periodo": "90% a 95%",
+      "valor": 5519,
+      "valor_2024": 5150,
+      "valor_2019": 4655,
+      "percentual_acumulado": 95,
+      "subclasse_do_10_decimo": true
+    },
+    {
+      "periodo": "95% a 99%",
+      "valor": 9648,
+      "valor_2024": 8843,
+      "valor_2019": 8651,
+      "percentual_acumulado": 99,
+      "subclasse_do_10_decimo": true
+    },
+    {
+      "periodo": "99% a 100% (1% mais rico)",
+      "valor": 24973,
+      "valor_2024": 22716,
+      "valor_2019": 23593,
+      "percentual_acumulado": 100,
+      "subclasse_do_10_decimo": true
+    }
+  ],
+  "faixas_referencia": [
+    {
+      "rotulo": "Média geral 2025",
+      "valor": 2264
+    },
+    {
+      "rotulo": "Salário mínimo 2025",
+      "valor": 1518
+    },
+    {
+      "rotulo": "Salário mínimo 2026",
+      "valor": 1621
+    },
+    {
+      "rotulo": "Linha de extrema pobreza (US$ 2,15/dia, 2024)",
+      "valor": 218
+    },
+    {
+      "rotulo": "Linha de pobreza (US$ 6,85/dia, 2024)",
+      "valor": 694
+    },
+    {
+      "rotulo": "Mediana inferida (≈1 SM de 2025; nota)",
+      "valor": 1518
+    }
+  ],
+  "notas_metodologicas": [
+    "São médias dentro de cada décimo, não os limites (percentis) entre décimos. Os 10% mais pobres viviam com R$ 268/mês per capita (≈R$ 8,93/dia).",
+    "Variação 2024-25: 1º décimo +3,1%; 10º décimo +8,7%; 1% mais rico +9,9%. Variação 2019-25: 1º décimo +78,7%; 10º décimo +11,9%; 1% mais rico +5,8%.",
+    "Parcelas da massa em 2025: 1º décimo 1,2% (0,8% em 2019); 10º décimo 40,3%; décimos 2 a 9 são leitura de gráfico (≈2,5%, 3,5%, 4,5%, 5,8%, 6,9%, 8,5%, 11,0%, 15,9%); os 70% mais pobres somavam 32,8%.",
+    "A mediana (faixa de referência) é inferência da nota: as médias do 5º (R$ 1.311) e 6º décimos (R$ 1.560) cercam o SM de 2025; o IBGE não publicou a mediana."
+  ],
+  "lacunas": [
+    "Limites de percentil (P10...P90, P99) e número de pessoas por décimo não constam das notas (SIDRA 7531/7545 não acessadas).",
+    "Anos entre 2019 e 2024 não transcritos na nota."
+  ],
+  "ultimo_periodo": "2025",
+  "temas": [
+    "emprego-renda",
+    "pobreza-programas-sociais"
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/13_renda_por_faixa_e_simulacoes_de_impacto.md",
+  "atualizado_em": "2026-10-21"
+}

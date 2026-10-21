@@ -1,0 +1,79 @@
+{
+  "id": "aliquota-efetiva-ir-por-faixa",
+  "titulo": "Alíquota efetiva do Imposto de Renda por faixa de renda: progressivo até o centil 93, regressivo no topo",
+  "descricao_simples": "Quanto do rendimento bruto cada grupo paga de fato de IR. Sobe até o 93º centil e cai no topo, porque a renda dos mais ricos é majoritariamente isenta (dividendos) ou de tributação exclusiva.",
+  "unidade": "% da renda bruta",
+  "tipo_grafico": "barra",
+  "frequencia": "anual",
+  "fonte": {
+    "nome": "SPE/Ministério da Fazenda — Relatório da Distribuição Pessoal da Renda e da Riqueza da População Brasileira: dados do IRPF 2023 (dez/2025)",
+    "url": "https://www.reformatributaria.com/wp-content/uploads/2025/12/relatorio-distribuicao-renda-2025.pdf",
+    "acesso_em": "2026-10-21",
+    "tier": "oficial"
+  },
+  "pontos": [
+    {
+      "periodo": "Centil 93 (pico da progressividade), IRPF 2023",
+      "valor": 12.0,
+      "fonte_ponto": "SPE/Fazenda, dados IRPF 2023"
+    },
+    {
+      "periodo": "1% mais rico, ano-base 2022",
+      "valor": 4.2,
+      "fonte_ponto": "SPE/Fazenda via InfoMoney (ano-base 2022)"
+    },
+    {
+      "periodo": "0,01% mais rico, ano-base 2022",
+      "valor": 1.76,
+      "fonte_ponto": "SPE/Fazenda via InfoMoney (ano-base 2022)"
+    },
+    {
+      "periodo": "0,01% mais rico, IRPF 2023",
+      "valor": 4.6,
+      "fonte_ponto": "SPE/Fazenda, dados IRPF 2023"
+    },
+    {
+      "periodo": "Renda acima de R$ 600 mil/ano, antes da Lei 15.270 (média)",
+      "valor": 2.54,
+      "fonte_ponto": "Fazenda via Gazeta do Povo"
+    },
+    {
+      "periodo": "Renda acima de R$ 600 mil/ano, projetada com o IR mínimo",
+      "valor": 9.0,
+      "aproximado": true,
+      "projecao": true,
+      "fonte_ponto": "Fazenda via Gazeta do Povo"
+    }
+  ],
+  "faixas_referencia": [
+    {
+      "rotulo": "Alíquota mínima da Lei 15.270/2025 para renda ≥ R$ 1,2 milhão/ano",
+      "valor": 10
+    },
+    {
+      "rotulo": "Alíquota máxima da tabela progressiva",
+      "valor": 27.5
+    }
+  ],
+  "notas_metodologicas": [
+    "SPE/Fazenda (dados IRPF 2023, dez/2025): o IRPF é 'progressivo até o 93º centésimo, mas regressivo no topo, para os 7% mais ricos'; o 1% mais rico paga alíquota efetiva próxima à do centil 64 e o 0,01% quase o mesmo que o centil 63.",
+    "Composição da renda do 0,1% mais rico (2023): 5,8% tributável, 43,1% tributação exclusiva, 51,1% isenta; no 0,01%: 2,3% tributável, 55,8% exclusiva, 41,9% isenta; o último centésimo concentra 46,9% de toda a renda isenta.",
+    "Estudo anterior da SPE (ano-base 2022): no 0,1% mais rico 69,3% da renda é isenta e 9,6% tributável; no 1%, 44,3% isenta e 17,5% exclusiva; lucros e dividendos = 35,5% de toda a renda isenta (34,9-35% no IRPF 2023).",
+    "Os valores do 0,01% divergem entre os dois relatórios (1,76% no ano-base 2022; 4,6% no IRPF 2023) — anos e metodologias diferentes; não comparar diretamente.",
+    "A alíquota de 2,54% é a média de quem ganha acima de R$ 600 mil/ano (141,4 mil contribuintes) e a projeção de ~9% é da Fazenda com o IR mínimo da Lei 15.270/2025."
+  ],
+  "lacunas": [
+    "Alíquota efetiva por faixa intermediária (5-10 SM, 10-20 SM) não localizada em texto acessível.",
+    "Tabelas dos Grandes Números do IRPF por faixa de SM não extraídas."
+  ],
+  "ultimo_periodo": "IRPF 2023 (dados de dez/2025)",
+  "temas": [
+    "impostos",
+    "emprego-renda"
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/13_renda_por_faixa_e_simulacoes_de_impacto.md",
+  "notas_brutas_adicionais": [
+    "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/12_pix_fake_news_e_impostos_quem_paga.md"
+  ],
+  "atualizado_em": "2026-10-21"
+}

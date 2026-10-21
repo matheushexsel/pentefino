@@ -1,0 +1,176 @@
+{
+  "id": "teto-icms-lc-194-2022",
+  "nome": "Teto do ICMS em 17-18% para combustíveis, energia, telecom e transporte e desoneração federal de combustíveis (LC 192 e 194/2022)",
+  "tipo": "imposto",
+  "governo": "bolsonaro",
+  "lado": "oposicao-flavio-pl",
+  "norma": {
+    "nome": "Lei Complementar 192/2022 (PIS/Cofins zero em diesel, GLP, gás natural, QAV e biodiesel até 31/12/2022) e Lei Complementar 194/2022, de 23/06/2022 (bens essenciais: ICMS limitado à alíquota geral; CIDE/PIS/Cofins zero em gasolina, etanol e GNV até 31/12/2022)",
+    "data": "2022-06-23",
+    "url": "https://www.mayerbrown.com/pt/insights/publications/2022/07/complementary-law-no-1942022--limit-icms-on-fuels-natural-gas-electricity-communications-and-public-transportation",
+    "vigencia": "Teto do ICMS: permanente desde jun/2022; desoneração federal de combustíveis: até 31/12/2022 (Lula não prorrogou em dez/2022)"
+  },
+  "status": "em-vigor",
+  "o_que_faz_simples": [
+    "A LC 194/2022 classificou combustíveis, energia elétrica, telecomunicações e transporte coletivo como essenciais, limitando o ICMS à alíquota geral de cada estado (17-18%), com compensação federal aos estados com perda acima de 5% da arrecadação de 2021, via abatimento de dívidas.",
+    "A LC 192/2022 zerou PIS/Cofins sobre diesel, GLP, gás natural, QAV e biodiesel até 31/12/2022 (renúncia inicial de R$ 16,59 bi); a LC 194 zerou CIDE/PIS/Cofins sobre gasolina, etanol e GNV até 31/12/2022. Renúncia total do pacote: ~R$ 35 bi (Estadão) a R$ 64,8 bi (Eixos). A gasolina caiu de R$ 7,39 (23/06/2022) para R$ 4,97 (16/09/2022).",
+    "Em dez/2022 Lula barrou a prorrogação da desoneração federal; a reoneração dos combustíveis em 2023-2024 ajuda a explicar a alta da carga tributária para 32,32% do PIB em 2024 (Tesouro, +2,06 p.p.).",
+    "Distribuição: 15% dos domicílios mais pobres têm automóvel contra 87% dos de renda mais alta (IBGE 2019), o que torna a desoneração de combustíveis regressiva no efeito direto, com efeito indireto via frete e transporte coletivo.",
+    "O plano de Flávio Bolsonaro para 2026 promete reduzir ou zerar tributos sobre combustíveis e energia."
+  ],
+  "quem_ganha": {
+    "descricao": "Consumidores de combustíveis, energia e telecom em geral; em valor absoluto, proporcionalmente mais quem tem carro (87% dos domicílios mais ricos vs 15% dos mais pobres) e gasta mais. Efeito indireto para todos via frete e ônibus.",
+    "pessoas": null,
+    "faixa_renda": "Todas, com ganho absoluto concentrado nas faixas de maior renda (posse de carro)",
+    "fonte": {
+      "nome": "Eixos — posse de automóvel por renda (IBGE 2019)",
+      "url": "https://eixos.com.br/?p=50470",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  },
+  "quem_paga": {
+    "descricao": "Estados (perda de ICMS; Comsefaz NT 023/2023 detalha impactos) e União (PIS/Cofins/CIDE; compensação aos estados via dívidas).",
+    "pessoas": null,
+    "faixa_renda": "Não se aplica (estados e União)",
+    "fonte": {
+      "nome": "Comsefaz — Nota Técnica 023/2023: impactos das LCs 192 e 194/2022 na arrecadação de ICMS (PDF)",
+      "url": "https://static.poder360.com.br/2023/11/NOTA-TECNICA-COMSEFAZ-023-2023-Impactos-das-LCs-192.22-e-LCs-194.22-sobre-arrecadacao-de-ICMS-dos-estados1-1.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    }
+  },
+  "custo_ou_arrecadacao": {
+    "valor": 35,
+    "unidade": "R$ bilhões",
+    "periodo": "2022 (renúncia do pacote de combustíveis; estimativas divergem)",
+    "descricao": "~R$ 35 bi (Estadão) a R$ 64,8 bi (Eixos) para o pacote de combustíveis de 2022; renúncia inicial da LC 192: R$ 16,59 bi. Perda de ICMS dos estados: ver Comsefaz NT 023/2023 (valores não extraídos).",
+    "fonte": {
+      "nome": "Eixos — corte de impostos dos combustíveis custará R$ 64,8 bi em ano eleitoral",
+      "url": "https://eixos.com.br/combustiveis-e-bioenergia/corte-de-impostos-dos-combustiveis-custara-r-648-bi-ao-governo-em-ano-eleitoral/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  },
+  "regra_simulador": {
+    "tipo": "nenhuma",
+    "parametros": {}
+  },
+  "mitos": [
+    {
+      "mito": "O corte de impostos dos combustíveis em 2022 beneficiou principalmente os pobres.",
+      "fato": "Pelo padrão de posse de automóvel (87% dos domicílios de renda mais alta vs 15% dos mais pobres, IBGE 2019), o efeito direto é regressivo — ganha mais quem tem carro e gasta mais. Há efeito indireto via frete e transporte coletivo, mas não foi localizado estudo distributivo por decil.",
+      "fontes": [
+        {
+          "nome": "Eixos — posse de automóvel por renda (IBGE 2019)",
+          "url": "https://eixos.com.br/?p=50470",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "Eixos — corte de impostos dos combustíveis custará R$ 64,8 bi em ano eleitoral",
+          "url": "https://eixos.com.br/combustiveis-e-bioenergia/corte-de-impostos-dos-combustiveis-custara-r-648-bi-ao-governo-em-ano-eleitoral/",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        }
+      ]
+    },
+    {
+      "mito": "Lula criou um imposto novo sobre combustíveis em 2023.",
+      "fato": "A desoneração federal (PIS/Cofins/CIDE zero) era temporária, até 31/12/2022; Lula decidiu não prorrogá-la em dez/2022, e os tributos voltaram. O teto do ICMS da LC 194 continua. A reoneração explica parte da alta da carga tributária em 2024 (32,32% do PIB).",
+      "fontes": [
+        {
+          "nome": "Mercado & Consumo — Lula barra prorrogação da desoneração sobre combustíveis (28/12/2022)",
+          "url": "https://mercadoeconsumo.com.br/28/12/2022/economia/lula-barra-prorrogacao-da-desoneracao-sobre-combustiveis/",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "IstoÉ Dinheiro — carga tributária bruta atinge 32,32% do PIB em 2024 (Tesouro)",
+          "url": "https://istoedinheiro.com.br/carga-tributaria-bruta-do-governo-geral-atinge-3232-do-pib-em-2024-diz-tesouro",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "Contadores.cnt.br — LC 192/2022 e créditos de PIS/Cofins no diesel (jan/2023)",
+          "url": "https://contadores.cnt.br/projetos/28/noticias/artigos/2023/01/09/setor-de-combustiveis-recurso-judicial-assegura-direito-a-tomada-e-manutencao-de-credito-de-pis-e-cofins-na-compra-de-diesel-por-mais-tempo.html",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Mayer Brown — Complementary Law 194/2022: limit ICMS on fuels, energy, communications and public transportation",
+      "url": "https://www.mayerbrown.com/pt/insights/publications/2022/07/complementary-law-no-1942022--limit-icms-on-fuels-natural-gas-electricity-communications-and-public-transportation",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Mattos Filho — novas regras tributárias para bens e serviços essenciais (LC 194/2022)",
+      "url": "https://www.mattosfilho.com.br/unico/novas-regras-tributarias-bens-servicos-essenciais/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Comsefaz — Nota Técnica 023/2023: impactos das LCs 192 e 194/2022 na arrecadação de ICMS (PDF)",
+      "url": "https://static.poder360.com.br/2023/11/NOTA-TECNICA-COMSEFAZ-023-2023-Impactos-das-LCs-192.22-e-LCs-194.22-sobre-arrecadacao-de-ICMS-dos-estados1-1.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Contadores.cnt.br — LC 192/2022 e créditos de PIS/Cofins no diesel (jan/2023)",
+      "url": "https://contadores.cnt.br/projetos/28/noticias/artigos/2023/01/09/setor-de-combustiveis-recurso-judicial-assegura-direito-a-tomada-e-manutencao-de-credito-de-pis-e-cofins-na-compra-de-diesel-por-mais-tempo.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Eixos — corte de impostos dos combustíveis custará R$ 64,8 bi em ano eleitoral",
+      "url": "https://eixos.com.br/combustiveis-e-bioenergia/corte-de-impostos-dos-combustiveis-custara-r-648-bi-ao-governo-em-ano-eleitoral/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Eixos — posse de automóvel por renda (IBGE 2019)",
+      "url": "https://eixos.com.br/?p=50470",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Econet — estimativa de aumento do combustível em 2023",
+      "url": "https://blog.econeteditora.com.br/estimativa-aumento-do-combustivel-em-2023",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Mercado & Consumo — Lula barra prorrogação da desoneração sobre combustíveis (28/12/2022)",
+      "url": "https://mercadoeconsumo.com.br/28/12/2022/economia/lula-barra-prorrogacao-da-desoneracao-sobre-combustiveis/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "IstoÉ Dinheiro — carga tributária bruta atinge 32,32% do PIB em 2024 (Tesouro)",
+      "url": "https://istoedinheiro.com.br/carga-tributaria-bruta-do-governo-geral-atinge-3232-do-pib-em-2024-diz-tesouro",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Exame — veja os planos de economia de Lula e Flávio Bolsonaro (12/10/2026)",
+      "url": "https://exame.com/brasil/eleicoes-2026-veja-os-planos-de-economia-de-lula-e-flavio-bolsonaro/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/12_pix_fake_news_e_impostos_quem_paga.md",
+  "notas_brutas_adicionais": [
+    "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/13_renda_por_faixa_e_simulacoes_de_impacto.md"
+  ],
+  "lacunas": [
+    "Estudo distributivo por decil da desoneração de combustíveis (Ipea/Tesouro) não localizado.",
+    "Renúncia total diverge entre fontes (R$ 35 bi vs R$ 64,8 bi).",
+    "Valores de perda de ICMS por estado (Comsefaz) não extraídos.",
+    "PIS/Cofins/CIDE zero sobre gasolina e etanol via LC 194 não confirmado em todas as fontes."
+  ],
+  "atualizado_em": "2026-10-21"
+}

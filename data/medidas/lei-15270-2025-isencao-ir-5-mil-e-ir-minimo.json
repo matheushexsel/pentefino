@@ -1,0 +1,407 @@
+{
+  "id": "lei-15270-2025-isencao-ir-5-mil-e-ir-minimo",
+  "nome": "Isenção do IR até R$ 5 mil, redução até R$ 7.350, imposto mínimo sobre alta renda e retenção sobre dividendos (Lei 15.270/2025)",
+  "tipo": "imposto",
+  "governo": "lula-3",
+  "lado": "governo-lula-pt",
+  "norma": {
+    "nome": "Lei 15.270/2025 (origem: PL 1.087/2025)",
+    "data": "2025-11-26",
+    "url": "https://www.legisweb.com.br/noticia/?id=31887",
+    "vigencia": "Desde 01/01/2026 (sanção 26/11/2025; DOU 27/11/2025). Imposto mínimo e dividendos aparecem na declaração entregue em 2027 (ano-base 2026)."
+  },
+  "status": "em-vigor",
+  "o_que_faz_simples": [
+    "Quem recebe até R$ 5.000 por mês de rendimento tributável deixa de pagar Imposto de Renda: a lei cria uma redução de até R$ 312,89 por mês, que zera o imposto da tabela.",
+    "Entre R$ 5.000,01 e R$ 7.350 por mês a redução diminui aos poucos (fórmula: R$ 978,62 menos 0,133145 vezes o rendimento mensal). A partir de R$ 7.350,01 não há redução.",
+    "A tabela progressiva mensal não foi alterada: isento até R$ 2.428,80; 7,5% até R$ 2.826,65; 15% até R$ 3.751,05; 22,5% até R$ 4.664,68; 27,5% acima disso.",
+    "Cria o imposto mínimo (IRPFM): quem tem renda anual acima de R$ 600 mil passa a ter alíquota efetiva mínima progressiva de até 10%; a partir de R$ 1,2 milhão por ano, mínimo de 10%. O imposto já pago é abatido.",
+    "Dividendos: retenção de 10% na fonte quando a mesma empresa paga mais de R$ 50 mil em um mês à mesma pessoa física residente, sobre o valor integral. Lucros aprovados até 31/12/2025 ficam fora da regra.",
+    "Rendimentos de LCI, LCA, CRI, CRA, LIG, LCD e debêntures incentivadas ficaram fora da base do imposto mínimo.",
+    "Antecedentes no mesmo governo: em 2023 a faixa de isenção foi corrigida em 10,93% (de R$ 1.903,98 para R$ 2.112) e a MP 1.294/2025 isentou até R$ 3.036 (2 salários mínimos) a partir de maio/2025."
+  ],
+  "quem_ganha": {
+    "descricao": "Assalariados (CLT), servidores e aposentados/pensionistas do INSS com rendimento tributável até R$ 7.350/mês. Fazenda: ~10 milhões deixam de pagar e ~5 milhões pagam menos (≈15 milhões); estimativa do governo citada em 2026: ~16 milhões; DIEESE (NT 290, base RAIS 2024): ~15,6 milhões só no mercado formal. Quem ganha até R$ 3.036 já era isento desde maio/2025 e não ganha nada novo em 2026; abaixo de 2 salários mínimos (≈73% dos adultos, que não declaram IRPF) o efeito direto é zero. Contribuintes com mais de uma fonte podem ter imposto a pagar na declaração anual.",
+    "pessoas": 16000000,
+    "faixa_renda": "Rendimento tributável individual de R$ 3.036,01 a R$ 7.350/mês — aproximadamente os 10% a 15% de maior renda do trabalho (inferência da nota a partir da PNAD 2025)",
+    "fonte": {
+      "nome": "Correio 24 Horas — quem realmente será beneficiado pelas novas faixas do IR",
+      "url": "https://www.correio24horas.com.br/economia/voce-pode-pagar-menos-imposto-em-2026-quem-realmente-sera-beneficiado-pelas-novas-faixas-do-ir-0226",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  },
+  "quem_paga": {
+    "descricao": "141,4 mil contribuintes com renda acima de R$ 600 mil/ano (0,13% dos declarantes; 0,06% da população), que pagavam alíquota efetiva média de 2,54% e passariam a ~9%, com receita adicional estimada de R$ 25,22 bi (apresentação da Comissão Especial da Câmara, mai/2025). São majoritariamente recebedores de dividendos e de rendimentos isentos ou de tributação exclusiva: no 0,1% mais rico, só 5,8% da renda é tributável (SPE/Fazenda, dados de 2023).",
+    "pessoas": 141400,
+    "faixa_renda": "Renda anual acima de R$ 600 mil (≈R$ 50 mil/mês); cerca de 0,1% dos adultos",
+    "fonte": {
+      "nome": "Jornal de Brasília — imposto mínimo mira 141 mil contribuintes",
+      "url": "https://jornaldebrasilia.com.br/noticias/economia/imposto-minimo-mira-141-mil-contribuintes-de-alta-renda/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  },
+  "custo_ou_arrecadacao": {
+    "valor": 25.8,
+    "unidade": "R$ bilhões",
+    "periodo": "2026 (renúncia estimada pela Fazenda)",
+    "descricao": "Renúncia de R$ 25,8 bi em 2026 (R$ 25,84 bi só para a nova faixa; somando ~R$ 5 bi/ano da atualização de 2025 chega-se a ≈R$ 31 bi; ANFIP: R$ 31,2 bi após alterações do relator Arthur Lira). Compensação esperada: R$ 34,1 bi da tributação da alta renda (sobra de R$ 8,3 bi, segundo a Fazenda). IFI/Senado (out/2025): substitutivo da comissão custa R$ 28,6 bi/ano e o IR mínimo arrecada R$ 24,2 bi/ano (líquido −R$ 4,3 bi); texto do plenário: −R$ 1 bi/ano; conclusão: 'tendem à neutralidade fiscal, condicionada à efetiva arrecadação das medidas compensatórias'. Conorf/Senado: perda ~R$ 4 bi/ano. CNM: perda de R$ 11,8 bi/ano para municípios (R$ 4,9 bi próprios + R$ 6,9 bi via FPM).",
+    "fonte": {
+      "nome": "Clipping ANFIP 02/04/2025 (nota da Fazenda: renúncia R$ 25,8 bi x compensação R$ 34,1 bi)",
+      "url": "https://anfip.org.br/wp-content/uploads/2025/04/Clipping_ANFIP_02.04.2025.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  },
+  "regra_simulador": {
+    "tipo": "tabela",
+    "parametros": {
+      "base": "rendimento tributável mensal, em R$, sem outras deduções (INSS, dependentes e desconto simplificado não considerados pela nota)",
+      "tabela_progressiva_mensal_2026": [
+        {
+          "ate": 2428.8,
+          "aliquota_pct": 0,
+          "deducao": 0
+        },
+        {
+          "ate": 2826.65,
+          "aliquota_pct": 7.5,
+          "deducao": 182.16
+        },
+        {
+          "ate": 3751.05,
+          "aliquota_pct": 15,
+          "deducao": 394.16
+        },
+        {
+          "ate": 4664.68,
+          "aliquota_pct": 22.5,
+          "deducao": 675.49
+        },
+        {
+          "ate": null,
+          "aliquota_pct": 27.5,
+          "deducao": 908.73
+        }
+      ],
+      "imposto_tabela": "renda × aliquota_pct/100 − deducao da faixa em que a renda se enquadra",
+      "reducao_lei_15270": [
+        {
+          "renda_ate": 5000.0,
+          "reducao": "até 312,89 (o suficiente para zerar o imposto da tabela)"
+        },
+        {
+          "renda_de": 5000.01,
+          "renda_ate": 7350.0,
+          "reducao": "978.62 − 0.133145 × renda"
+        },
+        {
+          "renda_de": 7350.01,
+          "reducao": 0
+        }
+      ],
+      "imposto_final": "max(imposto_tabela − reducao, 0)",
+      "ganho_mensal": "imposto_tabela − imposto_final",
+      "exemplos_de_ganho_mensal_na_nota": [
+        {
+          "renda": 5000,
+          "ganho": 312.89
+        },
+        {
+          "renda": 6000,
+          "ganho": 179.75
+        },
+        {
+          "renda": 6500,
+          "ganho": 113
+        },
+        {
+          "renda": 7000,
+          "ganho": 46.61
+        },
+        {
+          "renda": 7350,
+          "ganho": 0
+        }
+      ],
+      "exemplos_sao_calculo_proprio_da_nota_com_a_formula_oficial": true,
+      "irpfm": {
+        "renda_anual_a_partir_de": 600000,
+        "aliquota_minima_maxima_pct": 10,
+        "renda_anual_com_aliquota_minima_cheia": 1200000,
+        "abate_imposto_ja_pago": true,
+        "formula_da_progressao_entre_600_mil_e_1_2_milhao": null,
+        "fora_da_base": [
+          "LCI",
+          "LCA",
+          "CRI",
+          "CRA",
+          "LIG",
+          "LCD",
+          "debêntures incentivadas"
+        ]
+      },
+      "dividendos": {
+        "retencao_pct": 10,
+        "limite_mensal_mesma_empresa_mesma_pf": 50000,
+        "base": "valor integral",
+        "lucros_aprovados_ate": "2025-12-31"
+      },
+      "fonte_formula": "CRCSP, com base na Lei 15.270/2025",
+      "fonte_formula_url": "https://online.crcsp.org.br/portal/noticias/noticia.asp?c=10392"
+    }
+  },
+  "mitos": [
+    {
+      "mito": "A isenção do IR até R$ 5 mil beneficia principalmente os mais pobres.",
+      "fato": "Quem ganha até 2 salários mínimos (R$ 3.036) já era isento desde maio/2025, e cerca de 73% dos adultos não declaram IRPF — para eles o efeito direto é zero. A faixa de R$ 5 mil a R$ 7.350 fica aproximadamente entre os 10% e 15% de maior renda do trabalho. Simulação do Made/USP (jun/2024, com premissas diferentes da lei aprovada) apontou a classe média de R$ 6.764 a R$ 35.673 como a mais beneficiada e os mais pobres como não beneficiados, porque já não pagavam IR.",
+      "fontes": [
+        {
+          "nome": "Correio Braziliense — simulação Made/USP sobre isenção até R$ 5 mil (07/06/2024)",
+          "url": "https://www.correiobraziliense.com.br/mundo/2024/06/6872807-promessa-de-lula-de-elevar-isencao-do-imposto-de-renda-para-rs-5-mil-pode-derrubar-arrecadacao-e-concentrar-renda-estima-usp.html",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "Correio 24 Horas — quem realmente será beneficiado pelas novas faixas do IR",
+          "url": "https://www.correio24horas.com.br/economia/voce-pode-pagar-menos-imposto-em-2026-quem-realmente-sera-beneficiado-pelas-novas-faixas-do-ir-0226",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        }
+      ]
+    },
+    {
+      "mito": "A lei acabou com a isenção dos dividendos.",
+      "fato": "A lei não revoga a isenção formal dos dividendos (Fenacon). Há retenção de 10% apenas quando a mesma empresa paga mais de R$ 50 mil em um mês à mesma pessoa física; abaixo disso nada muda. O imposto mínimo incide sobre a renda global acima de R$ 600 mil/ano, abatendo o imposto já pago. A CNI contesta a tributação de dividendos no STF (ADI).",
+      "fontes": [
+        {
+          "nome": "Fenacon — a lei não revoga a isenção formal dos dividendos",
+          "url": "https://fenacon.org.br/?p=49304",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "Mattos Filho — lei da tributação de dividendos",
+          "url": "https://www.mattosfilho.com.br/unico/lei-tributacao-dividendos/",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "Conjur — CNI ajuíza ADI contra tributação de dividendos",
+          "url": "https://www.conjur.com.br/?p=880549",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        }
+      ]
+    },
+    {
+      "mito": "A isenção é toda paga pelos super-ricos e ainda sobra dinheiro para o governo.",
+      "fato": "É a projeção da Fazenda (R$ 34,1 bi de compensação contra R$ 25,8 bi de renúncia). A IFI do Senado estimou efeito líquido entre −R$ 1 bi e −R$ 4,3 bi por ano e concluiu que as medidas 'tendem à neutralidade fiscal, condicionada à efetiva arrecadação das medidas compensatórias'. A arrecadação efetiva de 2026 não estava disponível em out/2026.",
+      "fontes": [
+        {
+          "nome": "Folha PE — isenção do IR no Senado tem efeito fiscal negativo de R$ 1 bi/ano (IFI)",
+          "url": "https://www.folhape.com.br/economia/isencao-do-ir-no-senado-tem-efeito-fiscal-negativo-de-r-1-bi-por-ano/445995/",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "ISTOÉ Dinheiro — impacto fiscal da isenção do IR (IFI, 23/10/2025)",
+          "url": "https://istoedinheiro.com.br/isencao-do-ir-impacto-fiscal-senado",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "Clipping ANFIP 02/04/2025 (nota da Fazenda: renúncia R$ 25,8 bi x compensação R$ 34,1 bi)",
+          "url": "https://anfip.org.br/wp-content/uploads/2025/04/Clipping_ANFIP_02.04.2025.pdf",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        }
+      ]
+    },
+    {
+      "mito": "A oposição é contra a isenção de IR até R$ 5 mil.",
+      "fato": "Flávio Bolsonaro declarou-se favorável à isenção em 15/06/2026, dizendo que era 'uma promessa de campanha também do presidente Bolsonaro', sem indicar compensação. Em nov/2025 ele apresentou emenda ao PL 1.087 para excluir da retenção os dividendos de sociedades de serviços profissionais — medida que, segundo o SBT News, beneficiaria a própria sociedade de advocacia dele.",
+      "fontes": [
+        {
+          "nome": "Poder360 — Flávio Bolsonaro defende Bolsa Família e isenção de IR até R$ 5 mil (15/06/2026)",
+          "url": "https://www.poder360.com.br/poder-eleicoes/flavio-bolsonaro-defende-bolsa-familia-e-isencao-de-ir-ate-r-5-000/",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "SBT News — Flávio propôs isenção no IR que beneficiaria escritório dele",
+          "url": "https://sbtnews.sbt.com.br/noticia/politica/flavio-propos-isencao-no-ir-que-beneficiaria-escritorio-dele",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        }
+      ]
+    },
+    {
+      "mito": "Quem ganha R$ 6 mil ou R$ 7 mil por mês ficou isento.",
+      "fato": "Entre R$ 5.000,01 e R$ 7.350 há apenas redução parcial e decrescente. Pela fórmula legal, o ganho é de cerca de R$ 179,75/mês para R$ 6 mil e R$ 46,61/mês para R$ 7 mil (cálculo da nota com a fórmula oficial); acima de R$ 7.350 não há ganho.",
+      "fontes": [
+        {
+          "nome": "CRCSP — Veja faixas e alíquotas das novas tabelas do IR 2026",
+          "url": "https://online.crcsp.org.br/portal/noticias/noticia.asp?c=10392",
+          "acesso_em": "2026-10-21",
+          "tier": "oficial"
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "LegisWeb — Lei 15.270/2025 publicada no DOU de 27/11/2025",
+      "url": "https://www.legisweb.com.br/noticia/?id=31887",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Mayer Brown — Enactment of Law 15.270/2025",
+      "url": "https://www.mayerbrown.com/pt/insights/publications/2025/12/enactment-of-law-no-15270-2025-which-establishes-dividend-taxation-expands-the-exemption-threshold-and-introduces-a-minimum-tax-on-high-incomes",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "CRCSP — Veja faixas e alíquotas das novas tabelas do IR 2026",
+      "url": "https://online.crcsp.org.br/portal/noticias/noticia.asp?c=10392",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Gazeta do Povo — isenção do IR será coberta por taxação da alta renda",
+      "url": "https://www.gazetadopovo.com.br/economia/imposto-de-renda-dividendos-isencao-do-ir-sera-coberta-por-taxacao-da-alta-renda/amp/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Jornal de Brasília — imposto mínimo mira 141 mil contribuintes",
+      "url": "https://jornaldebrasilia.com.br/noticias/economia/imposto-minimo-mira-141-mil-contribuintes-de-alta-renda/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "O Povo — como ficará a isenção de IR até R$ 5 mil e a regra para os mais ricos (18/03/2025)",
+      "url": "https://www.opovo.com.br/noticias/economia/2025/03/18/veja-como-ficara-a-isencao-de-ir-ate-rs-5-mil-e-a-nova-regra-para-taxacao-dos-mais-ricos.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Câmara dos Deputados — apresentação da Comissão Especial PL 1.087/2025 (PDF via Poder360, mai/2025)",
+      "url": "https://static.poder360.com.br/2025/05/IRPF-5-mil-e-alta-renda-Comissao-Especial-CD.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Clipping ANFIP 02/04/2025 (nota da Fazenda: renúncia R$ 25,8 bi x compensação R$ 34,1 bi)",
+      "url": "https://anfip.org.br/wp-content/uploads/2025/04/Clipping_ANFIP_02.04.2025.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "DIEESE — Nota Técnica 290: isenção do IR (base RAIS 2024)",
+      "url": "https://www.dieese.org.br/notatecnica/2026/notaTec290isencaoIR.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    },
+    {
+      "nome": "Correio 24 Horas — quem realmente será beneficiado pelas novas faixas do IR",
+      "url": "https://www.correio24horas.com.br/economia/voce-pode-pagar-menos-imposto-em-2026-quem-realmente-sera-beneficiado-pelas-novas-faixas-do-ir-0226",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Mattos Filho — lei da tributação de dividendos",
+      "url": "https://www.mattosfilho.com.br/unico/lei-tributacao-dividendos/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Fenacon — a lei não revoga a isenção formal dos dividendos",
+      "url": "https://fenacon.org.br/?p=49304",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "B3 Bora Investir — LCI/LCA e o IR 2026",
+      "url": "https://borainvestir.b3.com.br/tipos-de-investimentos/renda-fixa/lci-lca-e-lc/investimentos-isentos-como-declarar-lci-e-lca-corretamente-no-imposto-de-renda-2026/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Conjur — CNI ajuíza ADI contra tributação de dividendos",
+      "url": "https://www.conjur.com.br/?p=880549",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Folha PE — isenção do IR no Senado tem efeito fiscal negativo de R$ 1 bi/ano (IFI)",
+      "url": "https://www.folhape.com.br/economia/isencao-do-ir-no-senado-tem-efeito-fiscal-negativo-de-r-1-bi-por-ano/445995/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "ISTOÉ Dinheiro — impacto fiscal da isenção do IR (IFI, 23/10/2025)",
+      "url": "https://istoedinheiro.com.br/isencao-do-ir-impacto-fiscal-senado",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Correio Braziliense — simulação Made/USP sobre isenção até R$ 5 mil (07/06/2024)",
+      "url": "https://www.correiobraziliense.com.br/mundo/2024/06/6872807-promessa-de-lula-de-elevar-isencao-do-imposto-de-renda-para-rs-5-mil-pode-derrubar-arrecadacao-e-concentrar-renda-estima-usp.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "CNM — Estudo técnico: impacto da isenção do IR nos municípios (mar/2025)",
+      "url": "https://static.poder360.com.br/2025/03/estimativa_impacto_isencao_IR.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "SPE/Ministério da Fazenda — Relatório da Distribuição Pessoal da Renda e da Riqueza (dados IRPF 2023, dez/2025)",
+      "url": "https://www.reformatributaria.com/wp-content/uploads/2025/12/relatorio-distribuicao-renda-2025.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Congresso em Foco — Lula ajusta tabela do IR para manter isento quem ganha até 2 salários",
+      "url": "https://congressoemfoco.com.br/noticia/107708/lula-ajusta-tabela-do-ir-para-manter-isento-quem-ganha-ate-2-salarios",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Poder360 — Flávio Bolsonaro defende Bolsa Família e isenção de IR até R$ 5 mil (15/06/2026)",
+      "url": "https://www.poder360.com.br/poder-eleicoes/flavio-bolsonaro-defende-bolsa-familia-e-isencao-de-ir-ate-r-5-000/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "SBT News — Flávio propôs isenção no IR que beneficiaria escritório dele",
+      "url": "https://sbtnews.sbt.com.br/noticia/politica/flavio-propos-isencao-no-ir-que-beneficiaria-escritorio-dele",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Programa de Governo Lula 2026 — 'Brasil Pronto Pra Mais' (PDF, Poder360)",
+      "url": "https://static.poder360.com.br/uploads/2026/08/Programa-Governo-LULA-2026.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "partidario"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/12_pix_fake_news_e_impostos_quem_paga.md",
+  "notas_brutas_adicionais": [
+    "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/13_renda_por_faixa_e_simulacoes_de_impacto.md"
+  ],
+  "lacunas": [
+    "URL oficial (Planalto/DOU) da Lei 15.270/2025 não consta das notas; usada fonte secundária (LegisWeb).",
+    "Tabela oficial Fazenda/Receita de ganho mensal por faixa de salário (com INSS e desconto simplificado) não localizada; os exemplos vêm da fórmula legal.",
+    "Arrecadação efetiva do IRPFM e da retenção sobre dividendos em 2026 não localizada.",
+    "Fórmula legal da progressão da alíquota mínima entre R$ 600 mil e R$ 1,2 milhão não consta das notas.",
+    "Data exata do primeiro contracheque beneficiado não confirmada (inferência: salário de janeiro/2026).",
+    "Distribuição do ganho por decil da PNAD para a lei como aprovada não localizada.",
+    "Nota técnica original da Fazenda com R$ 25,8 bi/R$ 34,1 bi só foi vista via clipping (ANFIP)."
+  ],
+  "atualizado_em": "2026-10-21"
+}

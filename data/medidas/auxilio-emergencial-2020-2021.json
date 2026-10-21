@@ -1,0 +1,205 @@
+{
+  "id": "auxilio-emergencial-2020-2021",
+  "nome": "Auxílio Emergencial da pandemia (abr/2020 a out/2021): R$ 600, depois R$ 300 e R$ 150-375",
+  "tipo": "beneficio",
+  "governo": "bolsonaro",
+  "lado": "oposicao-flavio-pl",
+  "norma": {
+    "nome": "Lei 13.982/2020; Decreto 10.412/2020 (prorrogação); parcelas de R$ 300 (set-dez/2020); MP 1.039/2021 (rodada de 2021)",
+    "data": null,
+    "url": "https://portal.tcu.gov.br/imprensa/noticias/tcu-verifica-que-auxilio-emergencial-pode-chegar-a-meio-trilhao-ate-dezembro",
+    "vigencia": "Parcelas pagas de abr/2020 a out/2021"
+  },
+  "status": "caducou",
+  "o_que_faz_simples": [
+    "Pagou R$ 600 por mês (R$ 1.200 para mães solo) por 3 meses a informais, desempregados e famílias de baixa renda durante a pandemia; prorrogado por mais 2 meses (Decreto 10.412/2020, crédito de R$ 101,6 bi) e depois 4 parcelas de R$ 300 (set-dez/2020). Em 2021, parcelas de R$ 150, R$ 250 ou R$ 375 (MP 1.039/2021, teto de R$ 44 bi).",
+    "A projeção inicial do Ministério da Economia era R$ 15 bi para 15-20 milhões de pessoas; em maio/2020 o custo de 3 meses já era R$ 152,6 bi. TCU (jul/2020): R$ 76,86 bi pagos até maio para 59 milhões de pessoas (49,9 mi famílias); 63,4 mi admitidos até junho; custo mensal 16 vezes o do Bolsa Família pré-crise; 565 mil benefícios suspensos por indícios de irregularidade.",
+    "Efeito: a pobreza (até ½ SM per capita) caiu 23,7% até ago/2020 vs 2019 (−15 milhões; ~50 milhões de pobres, 'nível mais baixo de toda a série', FGV Social); em jul/2020, 107 milhões de pessoas moravam em lares com algum auxílio; o Gini de 2020 foi o menor da história (0,488 pelo Banco Mundial; 0,523 pelo IBGE) e a extrema pobreza caiu a 1,9% (PIP).",
+    "Ressaca: com o fim do auxílio, 2021 teve o pico de pobreza da série (36,8%, 77 milhões) e extrema pobreza de 9,0% (18,9 milhões); IBGE: extrema pobreza +48,2% em 2021. Quase 68 milhões de brasileiros foram impactados pelo fim do auxílio (G1, jan/2021).",
+    "Os domicílios com 'outros programas sociais' (inclui o auxílio) saltaram de 0,7% (2019) para 23,6% (2020) e 15,5% (2021) na PNAD."
+  ],
+  "quem_ganha": {
+    "descricao": "68,2 milhões de pessoas em 2020 (FGV; ~68,3 milhões elegíveis segundo a UFRJ); 45,6 milhões de famílias em 2021. Fortemente pró-pobre: efeito nos décimos 1 a 4 (inferência da nota).",
+    "pessoas": 68200000,
+    "faixa_renda": "Informais, desempregados e famílias de baixa renda; décimos 1 a 4",
+    "fonte": {
+      "nome": "FGV Social — clipping yc2965 (68,2 milhões de pessoas no Auxílio Emergencial)",
+      "url": "https://www.cps.fgv.br/cps/bd/clippings/yc2965.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    }
+  },
+  "quem_paga": {
+    "descricao": "União, com crédito extraordinário fora do teto de gastos: R$ 322 bi autorizados e R$ 293 bi gastos em 2020; crédito total de R$ 364,4 bi (abr/2020-abr/2021: R$ 294,6 bi em 2020 + R$ 42,5 bi em 2021); orçamento de R$ 43-44 bi em 2021.",
+    "pessoas": null,
+    "faixa_renda": "Não se aplica (Tesouro/dívida pública)",
+    "fonte": {
+      "nome": "Jornal do Brasil — auxílio emergencial menor começa a ser pago (abr/2021)",
+      "url": "https://www.jb.com.br/economia/2021/04/amp/1029370-auxilio-emergencial-menor-comeca-a-ser-pago-em-meio-a-piora-da-pandemia.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  },
+  "custo_ou_arrecadacao": {
+    "valor": 293,
+    "unidade": "R$ bilhões",
+    "periodo": "2020 (efetivamente gasto)",
+    "descricao": "R$ 293 bi gastos em 2020 (R$ 322 bi autorizados; estimativa UOL de R$ 322 bi); R$ 42,5-44 bi em 2021. TCU projetava R$ 465,8 bi até dez/2020 se mantidos os R$ 600. Custo final auditado 2020-21 não localizado.",
+    "fonte": {
+      "nome": "Jornal do Brasil — auxílio emergencial menor começa a ser pago (abr/2021)",
+      "url": "https://www.jb.com.br/economia/2021/04/amp/1029370-auxilio-emergencial-menor-comeca-a-ser-pago-em-meio-a-piora-da-pandemia.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  },
+  "regra_simulador": {
+    "tipo": "nenhuma",
+    "parametros": {}
+  },
+  "mitos": [
+    {
+      "mito": "O Auxílio Emergencial acabou com a pobreza no Brasil.",
+      "fato": "A queda foi real e recorde em 2020 (pobreza −23,7% até ago/2020; menor Gini da história), mas temporária: em 2021, após o fim do benefício, a pobreza atingiu o pico da série (36,8%, 77 milhões) e a extrema pobreza subiu 48,2%.",
+      "fontes": [
+        {
+          "nome": "Money Times/FGV — Auxílio Emergencial reduziu a pobreza em 23,7%",
+          "url": "https://www.moneytimes.com.br/auxilio-emergencial-reduziu-a-pobreza-em-23/",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "Metrópoles/Agência Brasil — IBGE SIS 2025: 8,6 milhões deixam a pobreza (03/12/2025)",
+          "url": "https://www.metropoles.com/brasil/ibge-mais-de-86-milhoes-deixam-pobreza-em-melhor-numero-desde-2012",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "Correio Braziliense (04/12/2021, PDF) — IBGE: extrema pobreza sobe 48,2% em 2021",
+          "url": "https://edicao.correiobraziliense.com.br/correiobraziliense/2021/12/04/093032/pdf/A06-BRA-0412-DIG.pdf",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        }
+      ]
+    },
+    {
+      "mito": "O auxílio de R$ 600 foi ideia e custo planejados pelo governo.",
+      "fato": "A projeção inicial do Ministério da Economia era de R$ 15 bi para 15-20 milhões de pessoas; o programa chegou a 68 milhões de pessoas e R$ 293 bi em 2020. As notas não detalham a negociação do valor de R$ 600 no Congresso.",
+      "fontes": [
+        {
+          "nome": "Wikipedia (pt) — Auxílio Emergencial (fontes G1/gov.br)",
+          "url": "https://pt.wikipedia.org/wiki/Aux%C3%ADlio_Emergencial",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "TCU — auxílio emergencial pode chegar a meio trilhão até dezembro (17/07/2020)",
+          "url": "https://portal.tcu.gov.br/imprensa/noticias/tcu-verifica-que-auxilio-emergencial-pode-chegar-a-meio-trilhao-ate-dezembro",
+          "acesso_em": "2026-10-21",
+          "tier": "oficial"
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "TCU — auxílio emergencial pode chegar a meio trilhão até dezembro (17/07/2020)",
+      "url": "https://portal.tcu.gov.br/imprensa/noticias/tcu-verifica-que-auxilio-emergencial-pode-chegar-a-meio-trilhao-ate-dezembro",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Jornal do Brasil — auxílio emergencial menor começa a ser pago (abr/2021)",
+      "url": "https://www.jb.com.br/economia/2021/04/amp/1029370-auxilio-emergencial-menor-comeca-a-ser-pago-em-meio-a-piora-da-pandemia.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Senado — documento sobre créditos do Auxílio Emergencial",
+      "url": "https://legis.senado.leg.br/sdleg-getter/documento/download/3e457365-a79b-4adf-aaf8-96552c6ec1e3",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Senado — sumário da MPV 1039/2021",
+      "url": "https://www12.senado.leg.br/publicacoes/estudos-legislativos/tipos-de-estudos/sumarios-de-proposicoes/mpv1039",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Poder360 — release do Auxílio Emergencial 2021 (PDF, mar/2021)",
+      "url": "https://static.poder360.com.br/2021/03/release-auxilio-2021.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "FGV Social — clipping yc2965 (68,2 milhões de pessoas no Auxílio Emergencial)",
+      "url": "https://www.cps.fgv.br/cps/bd/clippings/yc2965.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    },
+    {
+      "nome": "UFRJ/GESP — nota sobre o Auxílio Emergencial (2022)",
+      "url": "https://www.ie.ufrj.br/images/IE/grupos/GESP/11/gespnota2022_miguel_final.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    },
+    {
+      "nome": "Money Times/FGV — Auxílio Emergencial reduziu a pobreza em 23,7%",
+      "url": "https://www.moneytimes.com.br/auxilio-emergencial-reduziu-a-pobreza-em-23/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "FGV Social — clipping xc1240 (Correio Braziliense, 25/08/2020)",
+      "url": "https://www.cps.fgv.br/cps/bd/clippings/xc1240.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    },
+    {
+      "nome": "G1 — quase 68 milhões de brasileiros são impactados pelo fim do auxílio emergencial (11/01/2021)",
+      "url": "https://g1.globo.com/jornal-nacional/noticia/2021/01/11/quase-68-milhoes-de-brasileiros-sao-impactados-pelo-fim-do-auxilio-emergencial.ghtml",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Correio Braziliense (04/12/2021, PDF) — IBGE: extrema pobreza sobe 48,2% em 2021",
+      "url": "https://edicao.correiobraziliense.com.br/correiobraziliense/2021/12/04/093032/pdf/A06-BRA-0412-DIG.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Wikipedia (pt) — Auxílio Emergencial (fontes G1/gov.br)",
+      "url": "https://pt.wikipedia.org/wiki/Aux%C3%ADlio_Emergencial",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Metrópoles/Agência Brasil — IBGE SIS 2025: 8,6 milhões deixam a pobreza (03/12/2025)",
+      "url": "https://www.metropoles.com/brasil/ibge-mais-de-86-milhoes-deixam-pobreza-em-melhor-numero-desde-2012",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Banco Mundial — PIP API, Brasil, linha US$ 2,15 (PPC 2017)",
+      "url": "https://api.worldbank.org/pip/v1/pip?country=BRA&year=all&povline=2.15&ppp_version=2017&format=json",
+      "acesso_em": "2026-10-21",
+      "tier": "multilateral"
+    },
+    {
+      "nome": "IBGE — PNAD Contínua: Rendimento de todas as fontes 2025 (Informativo, 08/05/2026)",
+      "url": "https://biblioteca.ibge.gov.br/visualizacao/livros/liv102275_informativo.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/13_renda_por_faixa_e_simulacoes_de_impacto.md",
+  "notas_brutas_adicionais": [
+    "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/03_emprego_renda_pobreza_social.md"
+  ],
+  "lacunas": [
+    "Custo final auditado do Auxílio Emergencial 2020 e 2021 (Tesouro/CGU) não localizado — só projeções e estimativas.",
+    "Data e URL oficial da Lei 13.982/2020 não constam das notas.",
+    "Papel do Congresso na fixação do valor de R$ 600 não detalhado nas notas."
+  ],
+  "atualizado_em": "2026-10-21"
+}

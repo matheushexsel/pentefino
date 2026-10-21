@@ -1,0 +1,157 @@
+{
+  "id": "reforma-da-previdencia-2019",
+  "nome": "Reforma da Previdência (EC 103/2019): idade mínima de 65/62 anos e novo cálculo do benefício",
+  "tipo": "outro",
+  "governo": "bolsonaro",
+  "lado": "oposicao-flavio-pl",
+  "norma": {
+    "nome": "Emenda Constitucional 103/2019 (Senado concluiu a votação em 23/10/2019; promulgada em 12-13/11/2019)",
+    "data": "2019-11-12",
+    "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2019-10/entenda-principais-mudancas-com-aprovacao-da-reforma-da-previdencia",
+    "vigencia": "Desde nov/2019, com regras de transição (pedágio de 100%)"
+  },
+  "status": "em-vigor",
+  "o_que_faz_simples": [
+    "Cria idade mínima para aposentadoria: 65 anos (homens) e 62 (mulheres), com 15 anos de contribuição (20 para homens que entrarem depois); acaba com a aposentadoria só por tempo de contribuição.",
+    "O benefício passa a ser 60% da média salarial com 15 anos de contribuição, mais 2% por ano adicional; o cálculo inclui 100% das contribuições (antes descartava as 20% menores). Regras de transição com pedágio de 100%.",
+    "Economia estimada ex ante: R$ 800,3 bilhões em 10 anos para a União (R$ 855,7 bi com estados e municípios); a proposta original previa R$ 1,236 trilhão e a versão da Câmara R$ 933,5 bi. Tese da equipe econômica: a aposentadoria por tempo de contribuição beneficiava os de maior renda.",
+    "Avaliação posterior: Gabriel Leal de Barros (ARX, 2024) afirma que os ganhos de ~R$ 800 bi 'praticamente evaporaram na metade do período' por pandemia e valorização do salário mínimo. O governo Lula 3 aponta que a EC 103 alterou incentivos e o perfil de requerentes do BPC, um dos fatores do crescimento desse benefício (6,7 milhões de beneficiários e R$ 133,4 bi projetados para 2026).",
+    "Flávio Bolsonaro disse em 2026 que não pretende fazer nova reforma da Previdência."
+  ],
+  "quem_ganha": {
+    "descricao": "União (contas públicas): economia projetada de R$ 800,3 bi em 10 anos. Não há beneficiário direto por faixa de renda.",
+    "pessoas": null,
+    "faixa_renda": "Não se aplica",
+    "fonte": {
+      "nome": "Agência Brasil — governo revisa para R$ 855,7 bi economia com reforma da Previdência (dez/2019)",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2019-12/governo-revisa-para-r-8557-bi-economia-com-reforma-da-previdencia",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    }
+  },
+  "quem_paga": {
+    "descricao": "Futuros aposentados, que trabalham mais tempo e/ou recebem benefício menor. Segundo o debate, a perda é maior para quem começou a trabalhar cedo (regra de tempo de contribuição), tipicamente de menor escolaridade — mas não há estudo por decil localizado.",
+    "pessoas": null,
+    "faixa_renda": "Indeterminado por faixa (sem estudo distributivo localizado)",
+    "fonte": {
+      "nome": "A Gazeta — Brasil passa a ter idade mínima para aposentadoria (2019)",
+      "url": "https://www.agazeta.com.br/economia/brasil-passa-a-ter-idade-minima-para-aposentadoria-1019",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  },
+  "custo_ou_arrecadacao": {
+    "valor": 800.3,
+    "unidade": "R$ bilhões",
+    "periodo": "10 anos a partir de 2019 (projeção ex ante, Ministério da Economia)",
+    "descricao": "Economia estimada de R$ 800,3 bi/10 anos para a União (R$ 855,7 bi com estados e municípios). É projeção de 2019, não resultado medido; ARX (2024) afirma que os ganhos 'praticamente evaporaram'.",
+    "fonte": {
+      "nome": "Agência Brasil — governo revisa para R$ 855,7 bi economia com reforma da Previdência (dez/2019)",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2019-12/governo-revisa-para-r-8557-bi-economia-com-reforma-da-previdencia",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    }
+  },
+  "regra_simulador": {
+    "tipo": "nenhuma",
+    "parametros": {}
+  },
+  "mitos": [
+    {
+      "mito": "A reforma da Previdência economizou R$ 800 bilhões.",
+      "fato": "R$ 800,3 bi é a projeção ex ante de 2019 para 10 anos, não um resultado medido. Em 2024, Gabriel Leal de Barros (ARX) avaliou que os ganhos 'praticamente evaporaram na metade do período' por causa da pandemia e da valorização do salário mínimo.",
+      "fontes": [
+        {
+          "nome": "Agência Brasil — governo revisa para R$ 855,7 bi economia com reforma da Previdência (dez/2019)",
+          "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2019-12/governo-revisa-para-r-8557-bi-economia-com-reforma-da-previdencia",
+          "acesso_em": "2026-10-21",
+          "tier": "oficial"
+        },
+        {
+          "nome": "Correio Braziliense (27/10/2024, PDF) — ganhos da reforma 'praticamente evaporaram' (ARX)",
+          "url": "https://edicao.correiobraziliense.com.br/correiobraziliense/2024/10/27/1054f9/pdf/A07-ECO-2710-DIG.pdf",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        }
+      ]
+    },
+    {
+      "mito": "A reforma atingiu só os mais ricos.",
+      "fato": "A equipe econômica sustentava que a aposentadoria por tempo de contribuição beneficiava os de maior renda, mas a idade mínima afeta sobretudo quem começou a trabalhar cedo, tipicamente de menor escolaridade. Não há estudo por faixa de renda localizado nas fontes.",
+      "fontes": [
+        {
+          "nome": "A Gazeta — Brasil passa a ter idade mínima para aposentadoria (2019)",
+          "url": "https://www.agazeta.com.br/economia/brasil-passa-a-ter-idade-minima-para-aposentadoria-1019",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "Jornal do Brasil — economia com reforma ficará acima de R$ 800 bi, diz Marinho (jul/2019)",
+          "url": "https://www.jb.com.br/economia/2019/07/1010238-economia-com-reforma-da-previdencia-ficara-acima-de-r--800-bi--diz-marinho.html",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Agência Brasil — entenda as principais mudanças com a reforma da Previdência (out/2019)",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2019-10/entenda-principais-mudancas-com-aprovacao-da-reforma-da-previdencia",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Agência Brasil — governo revisa para R$ 855,7 bi economia com reforma da Previdência (dez/2019)",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2019-12/governo-revisa-para-r-8557-bi-economia-com-reforma-da-previdencia",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "A Gazeta — Brasil passa a ter idade mínima para aposentadoria (2019)",
+      "url": "https://www.agazeta.com.br/economia/brasil-passa-a-ter-idade-minima-para-aposentadoria-1019",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Jornal do Brasil — economia com reforma ficará acima de R$ 800 bi, diz Marinho (jul/2019)",
+      "url": "https://www.jb.com.br/economia/2019/07/1010238-economia-com-reforma-da-previdencia-ficara-acima-de-r--800-bi--diz-marinho.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Correio Braziliense — reforma da Previdência trará economia de R$ 800 bi (Tendências, 12/02/2019)",
+      "url": "https://www.correiobraziliense.com.br/app/noticia/correiodebate/desafios2019/2019/02/12/noticias-desafios2019,736959/reforma-da-previdencia-trara-economia-de-r-800-bilhoes-aos-cofres-pub.shtml",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Correio Braziliense (27/10/2024, PDF) — ganhos da reforma 'praticamente evaporaram' (ARX)",
+      "url": "https://edicao.correiobraziliense.com.br/correiobraziliense/2024/10/27/1054f9/pdf/A07-ECO-2710-DIG.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Diário do Grande ABC — governo projeta BPC dobrando de tamanho em 34 anos (21/06/2025)",
+      "url": "https://www.dgabc.com.br/Noticia/4241022/governo-projeta-bpc-dobrando-de-tamanho-em-34-anos-alcancando-14-1-mi-beneficiarios",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "SBT News/Correio do Estado — Flávio diz não pretender atacar pisos e vinculação do mínimo",
+      "url": "https://correiodoestado.com.br/politica/flavio-diz-nao-pretender-atacar-pisos-da-saude-e-educacao-vinculacao/468377/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/03_emprego_renda_pobreza_social.md",
+  "notas_brutas_adicionais": [
+    "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/13_renda_por_faixa_e_simulacoes_de_impacto.md"
+  ],
+  "lacunas": [
+    "Impacto por faixa de renda da reforma da Previdência não localizado.",
+    "Resultado fiscal efetivo (economia realizada 2020-2026) não localizado — só projeções e a avaliação qualitativa da ARX.",
+    "URL oficial da EC 103/2019 (Planalto) não consta das notas."
+  ],
+  "atualizado_em": "2026-10-21"
+}

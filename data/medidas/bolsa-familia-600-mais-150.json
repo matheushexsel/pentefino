@@ -1,0 +1,248 @@
+{
+  "id": "bolsa-familia-600-mais-150",
+  "nome": "Novo Bolsa Família (mar/2023): piso de R$ 600 por família e R$ 150 por criança de 0 a 6 anos",
+  "tipo": "beneficio",
+  "governo": "lula-3",
+  "lado": "governo-lula-pt",
+  "norma": {
+    "nome": "Recriação do Bolsa Família em março/2023 (substitui o Auxílio Brasil; número da lei não consta das notas); elegibilidade: renda familiar per capita até R$ 218/mês",
+    "data": null,
+    "url": "https://www.gov.br/mds/pt-br/acoes-e-programas/bolsa-familia",
+    "vigencia": "Desde mar/2023; piso de R$ 600 vigorou até set/2026 (reajustado para R$ 691 na folha de out/2026 — ver medida própria)"
+  },
+  "status": "em-vigor",
+  "o_que_faz_simples": [
+    "Garante um piso de R$ 600 por família, mais R$ 150 por criança de 0 a 6 anos (Benefício Primeira Infância). Componentes até set/2026: Benefício de Renda de Cidadania de R$ 142 por pessoa; Primeira Infância R$ 150; Benefício Variável Familiar de R$ 50 para gestantes, nutrizes e jovens de 7 a 18 anos.",
+    "Entra quem tem renda familiar de até R$ 218 por pessoa ao mês. Regra de proteção: quem consegue emprego formal mantém 50% do benefício por 2 anos se a renda per capita ficar até meio salário mínimo.",
+    "Alcance: 21 milhões de famílias em 2023 (benefício médio ~R$ 680; R$ 170,4 bi); 20,8 milhões em 2024 (R$ 682; ~R$ 170,2 bi; MDS fala em mais de 20 milhões e R$ 168,3 bi); 19,3 milhões em ago/2026, após 'pente-fino' que excluiu 3,9 mi famílias em 2023 e ~3 mi em 2024 e incluiu 4,8 mi. Valor médio em abr/2026: R$ 678,22; 11,3 milhões de famílias em qualificação cadastral em jul/2026.",
+    "Histórico: o Bolsa Família começou em 2003 com ~3 milhões de famílias, chegou a 11,1 mi (2006), 12,7 mi (2010) e ~14 mi (2012-2021, benefício médio ~R$ 190: R$ 187,91 em jan/2019 e R$ 191,86 até mar/2020); virou Auxílio Brasil em nov/2021 (R$ 400; R$ 600 só de ago a dez/2022) e voltou como Bolsa Família em mar/2023.",
+    "Efeitos: a renda per capita média dos domicílios com Bolsa Família era R$ 774 em 2025 (vs R$ 2.682 nos sem o programa); sem Bolsa Família e BPC o Gini de 2024 seria 0,542 em vez de 0,504; a pobreza caiu de 36,8% (2021) para 23,1% (2024) e a extrema pobreza de 9,0% para 3,5%. 17,2% dos domicílios recebiam o programa em 2025 (Nordeste 32,4%, Norte 31,6%, Sul 6,8%)."
+  ],
+  "quem_ganha": {
+    "descricao": "19,3 milhões de famílias (ago/2026) com renda per capita até R$ 218, concentradas nos dois décimos mais pobres (inferência da nota); 9,1% da população (19,4 milhões de pessoas) recebia rendimento de programas sociais em 2025 (Bolsa Família, BPC e outros, PNAD).",
+    "pessoas": null,
+    "faixa_renda": "Renda familiar per capita até R$ 218/mês (extrema pobreza); décimos 1 e 2 da renda per capita",
+    "fonte": {
+      "nome": "O Povo — Bolsa Família sobe 15% em outubro; mínimo vai a R$ 691 e médio projetado a R$ 777 (21/09/2026)",
+      "url": "https://www.opovo.com.br/trends/bolsa-familia-sobe-15-em-outubro-minimo-vai-a-r-691-e-valor-medio-projetado-chega-a-r-777/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  },
+  "quem_paga": {
+    "descricao": "União: orçamento de R$ 158 bilhões em 2025 e em 2026 (LOA sancionada em 14/01/2026); transferências de R$ 170,4 bi em 2023 e ~R$ 170,2 bi em 2024.",
+    "pessoas": null,
+    "faixa_renda": "Não se aplica (Tesouro)",
+    "fonte": {
+      "nome": "CNN Brasil — Bolsa Família terá orçamento de R$ 158 bilhões em 2026 (LOA)",
+      "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/bolsa-familia-tera-orcamento-de-r-158-bilhoes-em-2026/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  },
+  "custo_ou_arrecadacao": {
+    "valor": 158,
+    "unidade": "R$ bilhões",
+    "periodo": "2026 (LOA; igual a 2025)",
+    "descricao": "Orçamento de R$ 158 bi em 2026, igual a 2025 (antes do reajuste de out/2026, que custa R$ 5,8 bi adicionais em 2026). 2023: R$ 170,4 bi (R$ 14,2 bi/mês); 2024: ~R$ 170,2 bi (R$ 14,1 bi/mês), segundo balanço do MDS.",
+    "fonte": {
+      "nome": "CNN Brasil — Bolsa Família terá orçamento de R$ 158 bilhões em 2026 (LOA)",
+      "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/bolsa-familia-tera-orcamento-de-r-158-bilhoes-em-2026/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  },
+  "regra_simulador": {
+    "tipo": "tabela",
+    "parametros": {
+      "vigencia": "mar/2023 a set/2026",
+      "elegibilidade_renda_per_capita_max": 218,
+      "piso_por_familia": 600,
+      "componentes": {
+        "renda_de_cidadania_por_pessoa": 142,
+        "primeira_infancia_0_a_6_anos": 150,
+        "variavel_familiar_gestantes_nutrizes_7_a_18": 50
+      },
+      "formula": "beneficio = max(piso_por_familia, renda_de_cidadania_por_pessoa × nº de pessoas) + primeira_infancia × nº de crianças 0-6 + variavel_familiar × nº de gestantes/nutrizes/jovens 7-18",
+      "estrutura_da_formula_inferida_pela_nota": true,
+      "regra_de_protecao": {
+        "percentual_mantido": 50,
+        "duracao_meses": 24,
+        "renda_per_capita_max_sm": 0.5
+      },
+      "fonte_formula": "Blog do IBRE/FGV (componentes) e MDS (elegibilidade)",
+      "fonte_formula_url": "https://blogdoibre.fgv.br/node/2410"
+    }
+  },
+  "mitos": [
+    {
+      "mito": "Lula triplicou o Bolsa Família, de R$ 190 para R$ 600.",
+      "fato": "O salto do benefício médio de ~R$ 190 para R$ 400 ocorreu no governo Bolsonaro, com o Auxílio Brasil (nov/2021); os R$ 600 foram pagos por Bolsonaro de ago a dez/2022 (temporários, via EC 123) e tornados permanentes por Lula em 2023, com o adicional de R$ 150 por criança. A Lupa classificou como EXAGERADO tanto 'Lula triplicou' quanto 'Bolsonaro elevou para R$ 600'.",
+      "fontes": [
+        {
+          "nome": "Lupa — checagem ao vivo da entrevista de Lula no Flow (01/10/2026)",
+          "url": "https://www.agencialupa.org/checagem/2026/10/01/ao-vivo-checagem-da-entrevista-de-lula-no-flow/",
+          "acesso_em": "2026-10-21",
+          "tier": "checagem"
+        },
+        {
+          "nome": "Lupa — checagem ao vivo do debate Lula x Flávio na Band (18/10/2026)",
+          "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+          "acesso_em": "2026-10-21",
+          "tier": "checagem"
+        },
+        {
+          "nome": "Lupa — checagem ao vivo da entrevista de Flávio Bolsonaro na Globo (16/10/2026)",
+          "url": "https://www.agencialupa.org/checagem/2026/10/16/ao-vivo-checagem-da-entrevista-de-flavio-bolsonaro-na-globo/",
+          "acesso_em": "2026-10-21",
+          "tier": "checagem"
+        }
+      ]
+    },
+    {
+      "mito": "O Bolsa Família ficou 4 anos sem reajuste (Lula).",
+      "fato": "Lupa: FALTA CONTEXTO. O piso de R$ 600 vigora desde 2022 (ainda no Auxílio Brasil) e o primeiro reajuste geral veio em out/2026 (15,04%, para R$ 691). Em 2023 houve mudança de desenho (R$ 150 por criança) sem correção do piso.",
+      "fontes": [
+        {
+          "nome": "Lupa — checagem ao vivo da entrevista de Lula no Flow (01/10/2026)",
+          "url": "https://www.agencialupa.org/checagem/2026/10/01/ao-vivo-checagem-da-entrevista-de-lula-no-flow/",
+          "acesso_em": "2026-10-21",
+          "tier": "checagem"
+        }
+      ]
+    },
+    {
+      "mito": "O número de famílias no Bolsa Família só cresce.",
+      "fato": "Caiu de 21 milhões (2023) para 20,8 milhões (2024) e 19,3 milhões (ago/2026), com 'pente-fino' que excluiu 6,9 milhões de famílias em 2023-24 e incluiu 4,8 milhões; 11,3 milhões estavam em qualificação cadastral em jul/2026.",
+      "fontes": [
+        {
+          "nome": "Diário do Pará — balanço MDS: Bolsa Família amplia alcance em 2024 sem gastar mais (2025)",
+          "url": "https://diariodopara.com.br/noticias/brasil/bolsa-familia-amplia-alcance-em-2024-sem-gastar-mais-que-no-ano-anterior",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "Portal de Prefeitura — revisão cadastral 2026 (MDS, jul/2026)",
+          "url": "https://portaldeprefeitura.com.br/cotidiano/bolsa-familia-milhoes-de-beneficiarios-podem-ser-bloqueados-por-falta/625889/",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "O Povo — Bolsa Família sobe 15% em outubro; mínimo vai a R$ 691 e médio projetado a R$ 777 (21/09/2026)",
+          "url": "https://www.opovo.com.br/trends/bolsa-familia-sobe-15-em-outubro-minimo-vai-a-r-691-e-valor-medio-projetado-chega-a-r-777/",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "MDS — Bolsa Família (página oficial)",
+      "url": "https://www.gov.br/mds/pt-br/acoes-e-programas/bolsa-familia",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "MDS — Caderno de Estudos 40 (Bolsa Família 2024)",
+      "url": "https://www.gov.br/mds/pt-br/noticias-e-conteudos/desenvolvimento-social/noticias-desenvolvimento-social/bolsa-familia-reforca-combate-a-pobreza-e-melhora-seguranca-alimentar-aponta-estudo/40_Caderno_Estudos.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "O Povo — Bolsa Família sobe 15% em outubro; mínimo vai a R$ 691 e médio projetado a R$ 777 (21/09/2026)",
+      "url": "https://www.opovo.com.br/trends/bolsa-familia-sobe-15-em-outubro-minimo-vai-a-r-691-e-valor-medio-projetado-chega-a-r-777/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Diário do Pará — balanço MDS: Bolsa Família amplia alcance em 2024 sem gastar mais (2025)",
+      "url": "https://diariodopara.com.br/noticias/brasil/bolsa-familia-amplia-alcance-em-2024-sem-gastar-mais-que-no-ano-anterior",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "CNN Brasil — Bolsa Família terá orçamento de R$ 158 bilhões em 2026 (LOA)",
+      "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/bolsa-familia-tera-orcamento-de-r-158-bilhoes-em-2026/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Seu Crédito Digital — valor médio do Bolsa Família em abr/2026 (MDS)",
+      "url": "https://seucreditodigital.com.br/bolsa-familia-691-outubro-2026-valores/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Portal de Prefeitura — revisão cadastral 2026 (MDS, jul/2026)",
+      "url": "https://portaldeprefeitura.com.br/cotidiano/bolsa-familia-milhoes-de-beneficiarios-podem-ser-bloqueados-por-falta/625889/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Blog do IBRE/FGV — Vitor Hugo Miro: simulação do reajuste do Bolsa Família (06/10/2026)",
+      "url": "https://blogdoibre.fgv.br/node/2410",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    },
+    {
+      "nome": "Correio Braziliense — renda do brasileiro bate recorde em 2025 (08/05/2026)",
+      "url": "https://www.correiobraziliense.com.br/economia/2026/05/7415178-renda-do-brasileiro-bate-recorde-em-2025-aponta-ibge.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Metrópoles/Agência Brasil — IBGE SIS 2025: 8,6 milhões deixam a pobreza (03/12/2025)",
+      "url": "https://www.metropoles.com/brasil/ibge-mais-de-86-milhoes-deixam-pobreza-em-melhor-numero-desde-2012",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "IBGE — PNAD Contínua: Rendimento de todas as fontes 2025 (Informativo, 08/05/2026)",
+      "url": "https://biblioteca.ibge.gov.br/visualizacao/livros/liv102275_informativo.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Wikipedia (pt) — Bolsa Família (com fontes UOL 2006 e Banco Mundial 2010)",
+      "url": "https://pt.wikipedia.org/wiki/Bolsa_Fam%C3%ADlia",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Lupa — checagem ao vivo da entrevista de Lula no Flow (01/10/2026)",
+      "url": "https://www.agencialupa.org/checagem/2026/10/01/ao-vivo-checagem-da-entrevista-de-lula-no-flow/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Lupa — checagem ao vivo do debate Lula x Flávio na Band (18/10/2026)",
+      "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Lupa — checagem ao vivo da entrevista de Flávio Bolsonaro na Globo (16/10/2026)",
+      "url": "https://www.agencialupa.org/checagem/2026/10/16/ao-vivo-checagem-da-entrevista-de-flavio-bolsonaro-na-globo/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Poder360 — Flávio Bolsonaro defende Bolsa Família e isenção de IR até R$ 5 mil (15/06/2026)",
+      "url": "https://www.poder360.com.br/poder-eleicoes/flavio-bolsonaro-defende-bolsa-familia-e-isencao-de-ir-ate-r-5-000/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/13_renda_por_faixa_e_simulacoes_de_impacto.md",
+  "notas_brutas_adicionais": [
+    "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/03_emprego_renda_pobreza_social.md"
+  ],
+  "lacunas": [
+    "Número e URL da lei que recriou o Bolsa Família em 2023 não constam das notas.",
+    "Famílias e valor médio ano a ano 2003-2021 (dados abertos do MDS) não acessados.",
+    "Totais oficiais 2026 de famílias/pessoas no Cadastro Único não obtidos.",
+    "A estrutura exata da fórmula (piso vs. soma por pessoa) é inferida a partir dos componentes; verificar no decreto."
+  ],
+  "atualizado_em": "2026-10-21"
+}

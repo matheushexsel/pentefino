@@ -1,0 +1,65 @@
+{
+  "id": "participacao-10-mais-ricos-na-renda",
+  "titulo": "Parcela da renda domiciliar per capita apropriada pelos 10% mais ricos",
+  "descricao_simples": "De cada R$ 100 de renda das famílias, quanto fica com os 10% mais ricos.",
+  "unidade": "% da massa de rendimento domiciliar per capita",
+  "tipo_grafico": "linha",
+  "frequencia": "anual",
+  "fonte": {
+    "nome": "IBGE — PNAD Contínua: Rendimento de todas as fontes 2025 (Informativo, 08/05/2026)",
+    "url": "https://biblioteca.ibge.gov.br/visualizacao/livros/liv102275_informativo.pdf",
+    "acesso_em": "2026-10-21",
+    "tier": "oficial"
+  },
+  "pontos": [
+    {
+      "periodo": "2019",
+      "valor": 42.8
+    },
+    {
+      "periodo": "2024",
+      "valor": 39.6
+    },
+    {
+      "periodo": "2025",
+      "valor": 40.3
+    }
+  ],
+  "faixas_referencia": [
+    {
+      "rotulo": "10% mais pobres, 2025",
+      "valor": 1.2
+    },
+    {
+      "rotulo": "10% mais pobres, 2019",
+      "valor": 0.8
+    },
+    {
+      "rotulo": "70% mais pobres somados, 2025",
+      "valor": 32.8
+    },
+    {
+      "rotulo": "10% superiores dos declarantes do IRPF, renda declarada 2023 (SPE)",
+      "valor": 52.0
+    },
+    {
+      "rotulo": "1% mais rico na renda disponível bruta, 2023 (Dutra/Monteiro/Gobetti)",
+      "valor": 24.3
+    }
+  ],
+  "notas_metodologicas": [
+    "Os 70% mais pobres somavam 32,8% da massa em 2025 — menos que o décimo mais rico.",
+    "A PNAD subcapta o topo: pelo IRPF, os 10% superiores dos declarantes detinham 52,0% da renda declarada em 2023 (PNADC: 43,8%), o 1% 24,5% (PNADC 12,6%) e o 0,1% 12,5% (PNADC 2,9%) — SPE/Fazenda.",
+    "Dutra, Monteiro e Gobetti (2025): a fatia do 1% mais rico na renda disponível bruta subiu de 20,4% (2017) para 24,3% (2023); 85% desse acréscimo foi capturado pelo 0,1% e metade pelo 0,01%; 90% do aumento vem de rendas do capital, 66% de lucros e dividendos."
+  ],
+  "lacunas": [
+    "Anos 2012-2018 e 2020-2023 não constam da nota."
+  ],
+  "ultimo_periodo": "2025",
+  "temas": [
+    "emprego-renda",
+    "pobreza-programas-sociais"
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/13_renda_por_faixa_e_simulacoes_de_impacto.md",
+  "atualizado_em": "2026-10-21"
+}

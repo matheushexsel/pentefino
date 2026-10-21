@@ -1,0 +1,178 @@
+{
+  "id": "lei-14754-2023-fundos-exclusivos-offshores",
+  "nome": "Tributação de fundos exclusivos e offshores de pessoas físicas (Lei 14.754/2023)",
+  "tipo": "imposto",
+  "governo": "lula-3",
+  "lado": "governo-lula-pt",
+  "norma": {
+    "nome": "Lei 14.754/2023 (regulamentada pela IN RFB 2.166)",
+    "data": "2023-12-12",
+    "url": "https://www.camara.leg.br/noticias/1025775-SANCIONADA-LEI-COM-NOVA-TRIBUTACAO-PARA-FUNDOS-DE-INVESTIMENTOS-E-OFFSHORES",
+    "vigencia": "Desde 01/01/2024 (sanção com veto parcial em 12/12/2023; DOU 13/12/2023)"
+  },
+  "status": "em-vigor",
+  "o_que_faz_simples": [
+    "Fundos exclusivos e fechados passaram a ter 'come-cotas' semestral: 15% para fundos de longo prazo e 20% para os de curto prazo (até 1 ano). Antes, o imposto só era cobrado no resgate.",
+    "Lucros de offshores (empresas no exterior) de pessoas físicas passaram a pagar 15% de IR por ano, apurados em 31/12, mesmo sem trazer o dinheiro ao Brasil.",
+    "O estoque de ganhos acumulado até 2023 teve IRRF de 15%, pagável à vista até 31/05/2024 ou em 24 parcelas com Selic.",
+    "Quem atualizou bens no exterior a valor de mercado até 31/05/2024 pagou alíquota de 8% (em vez de 15%); a Receita esperava R$ 7 bi com isso em 2024.",
+    "O programa de governo de Lula para 2026 cita a lei como exemplo de 'tributar a renda dos super ricos'."
+  ],
+  "quem_ganha": {
+    "descricao": "A União, que passou a arrecadar de um grupo de altíssimo patrimônio que antes adiava o imposto indefinidamente. Não há beneficiário direto por faixa de renda; trabalhadores e classe média não são afetados (inferência da nota).",
+    "pessoas": null,
+    "faixa_renda": "Não se aplica (arrecadação federal)",
+    "fonte": {
+      "nome": "Poder360 — Lula sanciona lei de offshores e fundos exclusivos",
+      "url": "https://www.poder360.com.br/economia/lula-sanciona-lei-de-offshores-e-fundos-exclusivos/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  },
+  "quem_paga": {
+    "descricao": "Cerca de 2,5 mil brasileiros investiam em fundos exclusivos, somando R$ 756 bilhões (12,3% da indústria de fundos); 'menos de 100 mil brasileiros' são afetados no total, incluindo ~100 mil pessoas com mais de R$ 1 trilhão em ativos no exterior declarados ao BC. Exclusivamente pessoas físicas de altíssimo patrimônio.",
+    "pessoas": 100000,
+    "faixa_renda": "Topo da distribuição (fundos exclusivos têm tíquete de dezenas de milhões; offshores pessoais)",
+    "fonte": {
+      "nome": "Clipping ANFIP 14/12/2023",
+      "url": "https://anfip.org.br/wp-content/uploads/2023/12/Clipping-ANFIP-14-12-2023.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  },
+  "custo_ou_arrecadacao": {
+    "valor": 20,
+    "unidade": "R$ bilhões",
+    "periodo": "2024 (estimativa do governo)",
+    "descricao": "Governo projetava ~R$ 20 bi em 2024 (R$ 7,05 bi offshores + R$ 13,28 bi fundos onshore); o relator no Senado falava em ~R$ 13 bi. Resultado parcial: R$ 3,9 bi arrecadados em dez/2023 com o estoque de fundos fechados e offshores (Receita); entrada de janeiro/2024 'acima do esperado' (Tesouro). Arrecadação efetiva de 2024-2025 não localizada.",
+    "fonte": {
+      "nome": "Fenacon — Sancionada lei com nova tributação para fundos e offshores",
+      "url": "https://fenacon.org.br/noticias/sancionada-lei-com-nova-tributacao-para-fundos-de-investimentos-e-offshores/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  },
+  "regra_simulador": {
+    "tipo": "nenhuma",
+    "parametros": {}
+  },
+  "mitos": [
+    {
+      "mito": "A lei dos fundos exclusivos taxa os investimentos da classe média.",
+      "fato": "A lei alcança fundos exclusivos/fechados (cerca de 2,5 mil investidores com R$ 756 bi) e offshores de pessoas físicas (~100 mil brasileiros com mais de R$ 1 trilhão no exterior). Fundos abertos de varejo já tinham come-cotas antes da lei; a nota classifica trabalhadores e classe média como não afetados.",
+      "fontes": [
+        {
+          "nome": "Poder360 — Lula sanciona lei de offshores e fundos exclusivos",
+          "url": "https://www.poder360.com.br/economia/lula-sanciona-lei-de-offshores-e-fundos-exclusivos/",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "Clipping ANFIP 14/12/2023",
+          "url": "https://anfip.org.br/wp-content/uploads/2023/12/Clipping-ANFIP-14-12-2023.pdf",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "InvestNews — brasileiros têm mais de R$ 1 trilhão no exterior",
+          "url": "https://investnews.com.br/economia/brasileiros-tem-mais-de-r-1-trilhao-no-exterior-e-receita-busca-atualizacao-de-ativos/amp/",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        }
+      ]
+    },
+    {
+      "mito": "A lei já arrecadou os R$ 20 bilhões prometidos.",
+      "fato": "R$ 20 bi era a estimativa do governo para 2024 (o relator do Senado estimava R$ 13 bi). O único resultado localizado é parcial: R$ 3,9 bi em dez/2023 com o estoque. Não há balanço oficial da arrecadação de 2024 e 2025 nas fontes consultadas.",
+      "fontes": [
+        {
+          "nome": "NetCPA — secretário fala em 'alegria' por arrecadar R$ 3,9 bi com offshores",
+          "url": "https://netcpa.com.br/colunas/secretario-fala-em-alegria-por-arrecadar-r-39-bi-com-offshores/21476",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "Fenacon — Sancionada lei com nova tributação para fundos e offshores",
+          "url": "https://fenacon.org.br/noticias/sancionada-lei-com-nova-tributacao-para-fundos-de-investimentos-e-offshores/",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "Rádio Senado — lei que tributa offshores e fundos exclusivos é sancionada",
+          "url": "https://www12.senado.leg.br/radio/1/noticia/2023/12/14/lei-que-tributa-offshores-e-fundos-exclusivos-e-sancionada",
+          "acesso_em": "2026-10-21",
+          "tier": "oficial"
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Poder360 — Lula sanciona lei de offshores e fundos exclusivos",
+      "url": "https://www.poder360.com.br/economia/lula-sanciona-lei-de-offshores-e-fundos-exclusivos/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Agência Câmara — Sancionada lei com nova tributação para fundos de investimentos e offshores",
+      "url": "https://www.camara.leg.br/noticias/1025775-SANCIONADA-LEI-COM-NOVA-TRIBUTACAO-PARA-FUNDOS-DE-INVESTIMENTOS-E-OFFSHORES",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Fenacon — Sancionada lei com nova tributação para fundos e offshores",
+      "url": "https://fenacon.org.br/noticias/sancionada-lei-com-nova-tributacao-para-fundos-de-investimentos-e-offshores/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Receita Federal — regulamenta a Lei 14.754/2023 (IN RFB 2.166)",
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2023/dezembro/receita-federal-regulamenta-lei-ndeg14-754-2023-que-alterou-as-regras-de-tributacao-dos-fundos-fechados-no-brasil",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Rádio Senado — lei que tributa offshores e fundos exclusivos é sancionada",
+      "url": "https://www12.senado.leg.br/radio/1/noticia/2023/12/14/lei-que-tributa-offshores-e-fundos-exclusivos-e-sancionada",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "InvestNews — brasileiros têm mais de R$ 1 trilhão no exterior",
+      "url": "https://investnews.com.br/economia/brasileiros-tem-mais-de-r-1-trilhao-no-exterior-e-receita-busca-atualizacao-de-ativos/amp/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "NetCPA — secretário fala em 'alegria' por arrecadar R$ 3,9 bi com offshores",
+      "url": "https://netcpa.com.br/colunas/secretario-fala-em-alegria-por-arrecadar-r-39-bi-com-offshores/21476",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Migalhas — Lei 14.754/23: a nova tributação dos fundos exclusivos",
+      "url": "https://www.migalhas.com.br/depeso/399375/lei-14-754-23-a-nova-tributacao-dos-fundos-exclusivos",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Clipping ANFIP 14/12/2023",
+      "url": "https://anfip.org.br/wp-content/uploads/2023/12/Clipping-ANFIP-14-12-2023.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Programa de Governo Lula 2026 — 'Brasil Pronto Pra Mais' (PDF, Poder360)",
+      "url": "https://static.poder360.com.br/uploads/2026/08/Programa-Governo-LULA-2026.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "partidario"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/12_pix_fake_news_e_impostos_quem_paga.md",
+  "lacunas": [
+    "Balanço oficial (Receita/Tesouro) da arrecadação efetiva de 2024 e 2025 com a Lei 14.754 e com a atualização de 8% não localizado.",
+    "URL oficial do texto da lei (Planalto) não consta das notas.",
+    "A frase 'patrimônio mínimo típico R$ 10 mi+' não foi encontrada em fonte citável."
+  ],
+  "atualizado_em": "2026-10-21"
+}

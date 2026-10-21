@@ -1,0 +1,188 @@
+{
+  "id": "mp-1288-2025-gratuidade-pix",
+  "nome": "MP 1.288/2025: gratuidade, sigilo e não tributação do Pix por lei — caducou sem votação em 02/06/2025",
+  "tipo": "outro",
+  "governo": "lula-3",
+  "lado": "governo-lula-pt",
+  "norma": {
+    "nome": "Medida Provisória 1.288, de 16/01/2025",
+    "data": "2025-01-16",
+    "url": "https://www.congressonacional.leg.br/materias/medidas-provisorias/-/mpv/166983/pdf",
+    "vigencia": "16/01/2025 a 02/06/2025 (perda de eficácia sem apreciação pelo Congresso; sem decreto legislativo disciplinando efeitos)"
+  },
+  "status": "caducou",
+  "o_que_faz_simples": [
+    "Editada no dia seguinte à revogação da IN 2.219, a MP reafirmava a gratuidade, o sigilo e a não tributação do Pix para pessoas físicas, equiparava pagamento em Pix a pagamento em dinheiro e classificava como prática abusiva (sujeita ao Código de Defesa do Consumidor) cobrar preço maior por pagamento via Pix à vista.",
+    "Haddad disse que a revogação da IN era 'para que não haja justificativa para não votar a MP'. O Congresso não votou: a vigência 'encerrou-se em 2/6/2025, por perda de eficácia sem apreciação pelas Casas do Congresso Nacional' e a comissão mista foi extinta.",
+    "Depois da caducidade, o senador Carlos Portinho (PL-RJ) apresentou o PL 4526/2025 com conteúdo semelhante; não foi localizada lei aprovada sobre o tema até 21/10/2026.",
+    "Na campanha de 2026, o Pix virou disputa simbólica: o PT acusou Flávio Bolsonaro de querer 'acabar com o Pix'; Flávio negou ('obviamente uma mentira'), disse que 'o sonho do PT e do Lula é taxar o Pix' e prometeu 'Pix sem taxa'. Nenhum dos dois candidatos propõe imposto sobre o Pix."
+  ],
+  "quem_ganha": {
+    "descricao": "Enquanto vigorou, consumidores (vedação a preço maior por pagamento em Pix). Com a caducidade, a regra deixou de existir.",
+    "pessoas": null,
+    "faixa_renda": "Consumidores em geral",
+    "fonte": {
+      "nome": "Congresso em Foco — governo edita MP que reforça proibição de taxação do Pix (íntegra)",
+      "url": "https://www.congressoemfoco.com.br/noticia/106160/governo-edita-mp-que-reforca-proibicao-de-taxacao-do-pix-veja-a-integra",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  },
+  "quem_paga": {
+    "descricao": "Comerciantes que cobravam mais por Pix à vista (enquanto a MP vigorou). Sem efeito tributário.",
+    "pessoas": null,
+    "faixa_renda": "Não se aplica",
+    "fonte": {
+      "nome": "O Liberal — publicada MP que proíbe cobrança diferenciada por transações em Pix",
+      "url": "https://www.oliberal.com/economia/publicada-mp-que-proibe-cobranca-diferenciada-por-transac-es-em-pix-1.907924",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  },
+  "custo_ou_arrecadacao": {
+    "valor": null,
+    "unidade": "R$ bilhões",
+    "periodo": null,
+    "descricao": "Sem impacto fiscal estimado nas notas.",
+    "fonte": {
+      "nome": "Senado — sumário da MPV 1288/2025",
+      "url": "https://www12.senado.leg.br/publicacoes/estudos-legislativos/tipos-de-estudos/sumarios-de-proposicoes/mpv1288/view",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    }
+  },
+  "regra_simulador": {
+    "tipo": "nenhuma",
+    "parametros": {}
+  },
+  "mitos": [
+    {
+      "mito": "Existe uma lei que proíbe taxar o Pix.",
+      "fato": "A MP 1.288/2025 tinha esse conteúdo, mas caducou em 02/06/2025 sem votação, e não foi encontrada lei aprovada sobre o tema até 21/10/2026 (há o PL 4526/2025 no Senado, sem status atual localizado). A Receita sustenta que a Constituição já proíbe tributar movimentações financeiras; um tributo desse tipo (como foi a CPMF) exigiria emenda constitucional.",
+      "fontes": [
+        {
+          "nome": "Congresso Nacional — MPV 1288/2025 (tramitação)",
+          "url": "https://www.congressonacional.leg.br/materias/medidas-provisorias/-/mpv/166983/pdf",
+          "acesso_em": "2026-10-21",
+          "tier": "oficial"
+        },
+        {
+          "nome": "Congresso em Foco — sem votação, MP da gratuidade do Pix perde efeito",
+          "url": "https://www.congressoemfoco.com.br/noticia/109059/sem-votacao-medida-provisoria-da-gratuidade-do-pix-perde-efeito",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "Congresso em Foco — PL 4526/2025 (sen. Carlos Portinho, PL-RJ) (PDF)",
+          "url": "https://static.congressoemfoco.com.br/attachment/2025/09/15/3a1f49_documento.pdf",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "Bora Investir/B3 — Receita volta a negar taxação do Pix e alerta para golpes",
+          "url": "https://borainvestir.b3.com.br/noticias/receita-federal-volta-a-negar-taxacao-do-pix-e-alerta-para-golpes/",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        }
+      ]
+    },
+    {
+      "mito": "Flávio Bolsonaro vai acabar com o Pix / Lula vai taxar o Pix.",
+      "fato": "Nenhuma das duas afirmações tem base nos programas de governo. Flávio negou que acabará com o Pix (02/04/2026) e prometeu 'Pix sem taxa'; Lula exibiu o cartaz 'o PIX é do Brasil' e seu governo editou a MP 1.288 contra a tributação. Não foi encontrada checagem independente de uma suposta peça do PT sobre Flávio taxar o Pix 'em 25%' (o número se refere a tarifas dos EUA).",
+      "fontes": [
+        {
+          "nome": "Poder360 — Flávio Bolsonaro nega que vai acabar com Pix se for eleito (02/04/2026)",
+          "url": "https://www.poder360.com.br/poder-eleicoes/flavio-bolsonaro-nega-que-vai-acabar-com-pix-se-for-eleito/",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "Poder360 — 'O Pix é nosso e sem taxa', diz Flávio em novo vídeo (26/04/2026)",
+          "url": "https://www.poder360.com.br/poder-eleicoes/o-pix-e-nosso-e-sem-taxa-diz-flavio-em-novo-video/",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "O Tempo — Lula e Flávio Bolsonaro travam guerra pelo Pix (03/06/2026)",
+          "url": "https://www.otempo.com.br/politica/2026/6/3/lula-e-flavio-bolsonaro-travam-guerra-pelo-pix",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Congresso em Foco — governo edita MP que reforça proibição de taxação do Pix (íntegra)",
+      "url": "https://www.congressoemfoco.com.br/noticia/106160/governo-edita-mp-que-reforca-proibicao-de-taxacao-do-pix-veja-a-integra",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Agência Gov — governo apresenta MP que blinda Pix de taxação e de mentiras",
+      "url": "https://agenciagov.ebc.com.br/noticias/202501/governo-federal-apresenta-mp-que-blinda-pix-de-taxacao-e-de-mentiras",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "O Liberal — publicada MP que proíbe cobrança diferenciada por transações em Pix",
+      "url": "https://www.oliberal.com/economia/publicada-mp-que-proibe-cobranca-diferenciada-por-transac-es-em-pix-1.907924",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Congresso Nacional — MPV 1288/2025 (tramitação)",
+      "url": "https://www.congressonacional.leg.br/materias/medidas-provisorias/-/mpv/166983/pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Senado — sumário da MPV 1288/2025",
+      "url": "https://www12.senado.leg.br/publicacoes/estudos-legislativos/tipos-de-estudos/sumarios-de-proposicoes/mpv1288/view",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Congresso em Foco — sem votação, MP da gratuidade do Pix perde efeito",
+      "url": "https://www.congressoemfoco.com.br/noticia/109059/sem-votacao-medida-provisoria-da-gratuidade-do-pix-perde-efeito",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Congresso em Foco — PL 4526/2025 (sen. Carlos Portinho, PL-RJ) (PDF)",
+      "url": "https://static.congressoemfoco.com.br/attachment/2025/09/15/3a1f49_documento.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "O Povo — Haddad: revogar ato da Receita é para que não haja justificativa para não votar a MP (15/01/2025)",
+      "url": "https://www.opovo.com.br/noticias/economia/2025/01/15/haddad-revogar-ato-da-receita-e-para-que-nao-haja-justificativa-para-nao-votar-mp.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Poder360 — Flávio Bolsonaro nega que vai acabar com Pix se for eleito (02/04/2026)",
+      "url": "https://www.poder360.com.br/poder-eleicoes/flavio-bolsonaro-nega-que-vai-acabar-com-pix-se-for-eleito/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Poder360 — 'O Pix é nosso e sem taxa', diz Flávio em novo vídeo (26/04/2026)",
+      "url": "https://www.poder360.com.br/poder-eleicoes/o-pix-e-nosso-e-sem-taxa-diz-flavio-em-novo-video/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "O Tempo — Lula e Flávio Bolsonaro travam guerra pelo Pix (03/06/2026)",
+      "url": "https://www.otempo.com.br/politica/2026/6/3/lula-e-flavio-bolsonaro-travam-guerra-pelo-pix",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/12_pix_fake_news_e_impostos_quem_paga.md",
+  "lacunas": [
+    "Status atual do PL 4526/2025 (Senado) não localizado.",
+    "Detalhes do suposto 'Vira Pix' (devolução de parte do dinheiro pago via Pix, promessa atribuída a Flávio por uma manchete do ND Mais) não confirmados por outra fonte."
+  ],
+  "atualizado_em": "2026-10-21"
+}

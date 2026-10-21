@@ -1,0 +1,151 @@
+{
+  "id": "salario-minimo-sem-ganho-real-2019-2022",
+  "nome": "Salário mínimo reajustado só pela inflação (2020-2022): fim da política de valorização no governo Bolsonaro",
+  "tipo": "lei-trabalhista",
+  "governo": "bolsonaro",
+  "lado": "oposicao-flavio-pl",
+  "norma": {
+    "nome": "Fim da vigência da Lei 13.152/2015 após o reajuste de jan/2019; reajustes anuais por decreto/MP apenas pelo INPC (2020, 2021, 2022); LDO 2022 confirmou o fim da política",
+    "data": null,
+    "url": "https://www.dieese.org.br/notatecnica/2025/notaTec283salarioMinimo.pdf",
+    "vigencia": "2020 a 2022; substituída pela Lei 14.663/2023"
+  },
+  "status": "revogada",
+  "o_que_faz_simples": [
+    "A regra de valorização (INPC + PIB de dois anos antes) valia por lei até o reajuste de janeiro/2019 (R$ 998, +1,14% real, ainda pela lei de Dilma). Segundo o DIEESE, 'depois do reajuste de janeiro de 2019, do ponto de vista legal, não existe mais política voltada para o salário mínimo'.",
+    "De 2020 a 2022 houve 'somente o repasse anual da inflação passada, sem aumento real': jan/2020 R$ 1.039 (−0,36% real) e fev/2020 R$ 1.045 (+0,39%); jan/2021 R$ 1.100 (+0,01% real pelo DIEESE; fontes sindicais apontam reajuste de 5,26% abaixo do INPC de 5,45%); jan/2022 R$ 1.212 (+0,02%).",
+    "A LDO 2022 confirmou o fim da política. Em 2022 veio a público um plano da equipe de Bolsonaro para desvincular do INPC o reajuste do mínimo e das aposentadorias.",
+    "Poder de compra em cestas básicas de SP: 2,04 (2019), 1,88 (2020), 1,68 (2021), 1,59 (2022, mínimo recente). Os alimentos subiram 44,3% entre 2020 e 2022 (DIEESE) e 54,2% entre jan/2019 e jul/2022 (Lupa).",
+    "Estimativa sindical: perda de ~5,4% sobre R$ 1.320 pela não aplicação da valorização em 2019-22 (fonte sindical, não verificada em fonte técnica independente)."
+  ],
+  "quem_ganha": {
+    "descricao": "Tesouro Nacional e Previdência (menor crescimento da despesa com benefícios indexados ao mínimo) e empregadores de baixa remuneração. Valores não quantificados nas notas.",
+    "pessoas": null,
+    "faixa_renda": "Não se aplica (Tesouro e empregadores)",
+    "fonte": {
+      "nome": "DIEESE — Nota Técnica 283: salário mínimo 2025 (jan/2025)",
+      "url": "https://www.dieese.org.br/notatecnica/2025/notaTec283salarioMinimo.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    }
+  },
+  "quem_paga": {
+    "descricao": "As cerca de 60-62 milhões de pessoas com renda referenciada no mínimo (59,9 mi em 2025; 61,9 mi em dez/2025, DIEESE), incluindo ~70% dos beneficiários do INSS, que ficaram quatro anos sem ganho real e viram o poder de compra em cestas cair de 2,04 (2019) para 1,59 (2022).",
+    "pessoas": 59900000,
+    "faixa_renda": "Até 1 salário mínimo; décimos 2 a 6 da renda per capita",
+    "fonte": {
+      "nome": "DIEESE — Nota Técnica 283: salário mínimo 2025 (jan/2025)",
+      "url": "https://www.dieese.org.br/notatecnica/2025/notaTec283salarioMinimo.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    }
+  },
+  "custo_ou_arrecadacao": {
+    "valor": null,
+    "unidade": "R$ bilhões",
+    "periodo": null,
+    "descricao": "Economia fiscal com a suspensão da política não quantificada nas notas.",
+    "fonte": {
+      "nome": "DIEESE — Nota Técnica 283: salário mínimo 2025 (jan/2025)",
+      "url": "https://www.dieese.org.br/notatecnica/2025/notaTec283salarioMinimo.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    }
+  },
+  "regra_simulador": {
+    "tipo": "nenhuma",
+    "parametros": {}
+  },
+  "mitos": [
+    {
+      "mito": "O governo Bolsonaro deu aumento real ao salário mínimo todos os anos.",
+      "fato": "Só em 2019 houve ganho real (+1,14%), ainda pela regra da lei anterior. De 2020 a 2022 os reajustes apenas repuseram a inflação passada, com perda real em jan/2020 (−0,36%) e ganhos de 0,01% a 0,39% nos demais, segundo o DIEESE.",
+      "fontes": [
+        {
+          "nome": "DIEESE — Nota Técnica 283: salário mínimo 2025 (jan/2025)",
+          "url": "https://www.dieese.org.br/notatecnica/2025/notaTec283salarioMinimo.pdf",
+          "acesso_em": "2026-10-21",
+          "tier": "academico"
+        },
+        {
+          "nome": "DIEESE — Nota Técnica 201 (2019): salário mínimo",
+          "url": "https://www.dieese.org.br/notatecnica/2019/notaTec201SalarioMinimo.pdf",
+          "acesso_em": "2026-10-21",
+          "tier": "academico"
+        }
+      ]
+    },
+    {
+      "mito": "O mínimo perdeu valor porque Bolsonaro cortou o salário.",
+      "fato": "O valor nominal subiu todos os anos (R$ 998 em 2019 → R$ 1.212 em 2022); o que acabou foi o ganho acima da inflação. A perda de poder de compra em cestas (2,04 → 1,59) decorre da alta dos alimentos (44,3% em 2020-22) sem reajuste real.",
+      "fontes": [
+        {
+          "nome": "DIEESE — Nota Técnica 283: salário mínimo 2025 (jan/2025)",
+          "url": "https://www.dieese.org.br/notatecnica/2025/notaTec283salarioMinimo.pdf",
+          "acesso_em": "2026-10-21",
+          "tier": "academico"
+        },
+        {
+          "nome": "DIEESE — Nota Técnica 289: salário mínimo 2026 (22/12/2025)",
+          "url": "https://www.dieese.org.br/notatecnica/2025/notaTec289salarioMinimo.pdf",
+          "acesso_em": "2026-10-21",
+          "tier": "academico"
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "DIEESE — Nota Técnica 283: salário mínimo 2025 (jan/2025)",
+      "url": "https://www.dieese.org.br/notatecnica/2025/notaTec283salarioMinimo.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    },
+    {
+      "nome": "DIEESE — Nota Técnica 289: salário mínimo 2026 (22/12/2025)",
+      "url": "https://www.dieese.org.br/notatecnica/2025/notaTec289salarioMinimo.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    },
+    {
+      "nome": "DIEESE — Nota Técnica 201 (2019): salário mínimo",
+      "url": "https://www.dieese.org.br/notatecnica/2019/notaTec201SalarioMinimo.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    },
+    {
+      "nome": "Brasil de Fato — com LDO, governo Bolsonaro acaba de vez com política de valorização do salário mínimo (21/07/2021)",
+      "url": "https://www.brasildefato.com.br/2021/07/21/com-ldo-governo-bolsonaro-acaba-de-vez-com-politica-de-valorizacao-do-salario-minimo/",
+      "acesso_em": "2026-10-21",
+      "tier": "partidario"
+    },
+    {
+      "nome": "CUT/RBA — governo Bolsonaro acaba com política de valorização do salário mínimo",
+      "url": "https://www.cut.org.br/noticias/governo-bolsonaro-acaba-de-vez-com-politica-de-valorizacao-do-salario-minimo-a6c2/amp",
+      "acesso_em": "2026-10-21",
+      "tier": "partidario"
+    },
+    {
+      "nome": "BP Money — ajuste fiscal de Flávio Bolsonaro: o que falta",
+      "url": "https://bpmoney.com.br/economia/ajuste-fiscal-flavio-bolsonaro-incognita-mercado-o-que-falta/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Lupa — checagem ao vivo do debate Lula x Flávio na Band (18/10/2026)",
+      "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/03_emprego_renda_pobreza_social.md",
+  "notas_brutas_adicionais": [
+    "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/13_renda_por_faixa_e_simulacoes_de_impacto.md"
+  ],
+  "lacunas": [
+    "Perda acumulada 2019-22 versus a regra antiga em fonte técnica não sindical não localizada (a estimativa de ~5,4% é sindical).",
+    "Divergência sobre 2021: DIEESE registra +0,01% real; fontes sindicais falam em reajuste (5,26%) abaixo do INPC (5,45%).",
+    "Números dos decretos/MPs de reajuste de 2020-2022 não constam das notas."
+  ],
+  "atualizado_em": "2026-10-21"
+}

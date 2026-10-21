@@ -1,0 +1,180 @@
+{
+  "id": "auxilio-brasil-600-2022",
+  "nome": "Auxílio Brasil (nov/2021 a dez/2022): piso de R$ 400 e R$ 600 temporários de agosto a dezembro de 2022",
+  "tipo": "beneficio",
+  "governo": "bolsonaro",
+  "lado": "oposicao-flavio-pl",
+  "norma": {
+    "nome": "MP 1.061, de 09/08/2021; Lei 14.284, de 29/12/2021 (extingue formalmente o Bolsa Família); MP 1.076 (dez/2021, piso R$ 400); EC 123/2022 ('PEC Kamikaze', jul/2022: R$ 600 até dez/2022)",
+    "data": "2021-12-29",
+    "url": "https://g1.globo.com/politica/noticia/2021/12/30/bolsonaro-sanciona-com-vetos-lei-que-cria-auxilio-brasil.ghtml",
+    "vigencia": "Pagamentos de 17/11/2021 a dez/2022; substituído pelo Bolsa Família em mar/2023"
+  },
+  "status": "revogada",
+  "o_que_faz_simples": [
+    "Substituiu o Bolsa Família (que pagava em média ~R$ 190: R$ 187,91 em jan/2019 e R$ 191,86 até mar/2020) por um benefício com piso de R$ 400 a partir de nov/2021 (14,5 milhões de famílias no 1º mês; previsão de R$ 89 bi em 2022).",
+    "Ampliou o alcance: de 14,7 milhões de famílias (out/2021) para 18,06 milhões (abr/2022) e 20,2 milhões (ago/2022, +2,2 mi incluídas).",
+    "Em ago/2022, por emenda constitucional temporária (EC 123), o piso subiu para R$ 600 até dez/2022: benefício médio de R$ 607,88 e desembolso de mais de R$ 12,1 bi no mês; o gasto mensal médio em 2022 foi R$ 7,8 bi (balanço MDS). O PLOA 2023 do governo Bolsonaro previa voltar a R$ 400 (benefício médio R$ 405,21).",
+    "Em set/2021 o IOF-crédito foi elevado (3% → 4,08% a.a. para PF; 1,5% → 2,04% para PJ, até 31/12/2021) para custear o programa, com receita estimada de R$ 2,14 bi.",
+    "Rendimento médio de programas sociais na PNAD (R$ de 2025): R$ 472 em 2021, R$ 719 em 2022, R$ 857 em 2023."
+  ],
+  "quem_ganha": {
+    "descricao": "20,2 milhões de famílias em ago/2022 (benefício médio R$ 607,88), fortemente pró-pobre (décimos 1 a 4, inferência da nota). O salto de ~R$ 190 para R$ 400 no benefício médio ocorreu nesta medida.",
+    "pessoas": null,
+    "faixa_renda": "Famílias em pobreza e extrema pobreza; décimos 1 a 4",
+    "fonte": {
+      "nome": "Jornal Contábil — Auxílio Brasil chega a 20,2 milhões de beneficiários em agosto (2022)",
+      "url": "https://jornalcontabil.com.br/noticia/auxilio-brasil-chega-a-202-milhoes-de-beneficiarios-em-agosto/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  },
+  "quem_paga": {
+    "descricao": "União: previsão de R$ 89 bilhões em 2022 (dentro de R$ 453 bi de transferências em 2020-2022 somando Auxílio Emergencial e Auxílio Brasil); os R$ 600 foram viabilizados por emenda constitucional fora do teto de gastos; tomadores de crédito pagaram IOF maior no fim de 2021 (R$ 2,14 bi).",
+    "pessoas": null,
+    "faixa_renda": "Não se aplica (Tesouro)",
+    "fonte": {
+      "nome": "Correio Braziliense — Auxílio Brasil: 1º mês atendeu 14,5 milhões de famílias (23/12/2021)",
+      "url": "https://www.correiobraziliense.com.br/economia/2021/12/4972978-auxilio-brasil-1-mes-de-funcionamento-atendeu-145-milhoes-de-familias.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  },
+  "custo_ou_arrecadacao": {
+    "valor": 89,
+    "unidade": "R$ bilhões",
+    "periodo": "2022 (previsão de dez/2021)",
+    "descricao": "Previsão de R$ 89 bi em 2022; gasto mensal médio de R$ 7,8 bi em 2022 (MDS) e mais de R$ 12,1 bi em ago/2022 com o piso de R$ 600.",
+    "fonte": {
+      "nome": "Correio Braziliense — Auxílio Brasil: 1º mês atendeu 14,5 milhões de famílias (23/12/2021)",
+      "url": "https://www.correiobraziliense.com.br/economia/2021/12/4972978-auxilio-brasil-1-mes-de-funcionamento-atendeu-145-milhoes-de-familias.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  },
+  "regra_simulador": {
+    "tipo": "nenhuma",
+    "parametros": {}
+  },
+  "mitos": [
+    {
+      "mito": "Bolsonaro elevou o Bolsa Família para R$ 600.",
+      "fato": "Lupa: EXAGERADO. O piso permanente do Auxílio Brasil era R$ 400 (MP 1.076, dez/2021); os R$ 600 valeram só de ago a dez/2022 (a Lupa cita jun-dez/2022 em uma checagem), por emenda constitucional temporária, e o PLOA 2023 de Bolsonaro previa voltar a R$ 400 (média R$ 405,21).",
+      "fontes": [
+        {
+          "nome": "Lupa — checagem ao vivo do debate Lula x Flávio na Band (18/10/2026)",
+          "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+          "acesso_em": "2026-10-21",
+          "tier": "checagem"
+        },
+        {
+          "nome": "Lupa — checagem ao vivo da entrevista de Flávio Bolsonaro na Globo (16/10/2026)",
+          "url": "https://www.agencialupa.org/checagem/2026/10/16/ao-vivo-checagem-da-entrevista-de-flavio-bolsonaro-na-globo/",
+          "acesso_em": "2026-10-21",
+          "tier": "checagem"
+        },
+        {
+          "nome": "Wikipedia (pt) — Auxílio Brasil (fontes G1, Senado, Valor)",
+          "url": "https://pt.wikipedia.org/wiki/Aux%C3%ADlio_Brasil",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        }
+      ]
+    },
+    {
+      "mito": "Bolsonaro triplicou o valor médio do Bolsa Família (de R$ 190 para R$ 600).",
+      "fato": "Lupa: EXAGERADO. O benefício médio era R$ 191,86 até mar/2020 e passou a ~R$ 400 com o Auxílio Brasil; os R$ 600 foram temporários (ago-dez/2022). A nota observa que ambos os lados têm fatos a favor: o salto de R$ 190 para R$ 400 foi de Bolsonaro; a permanência dos R$ 600 (mais R$ 150 por criança) é de Lula.",
+      "fontes": [
+        {
+          "nome": "Lupa — checagem ao vivo da entrevista de Flávio Bolsonaro na Globo (16/10/2026)",
+          "url": "https://www.agencialupa.org/checagem/2026/10/16/ao-vivo-checagem-da-entrevista-de-flavio-bolsonaro-na-globo/",
+          "acesso_em": "2026-10-21",
+          "tier": "checagem"
+        },
+        {
+          "nome": "Lupa — checagem ao vivo da entrevista de Lula no Flow (01/10/2026)",
+          "url": "https://www.agencialupa.org/checagem/2026/10/01/ao-vivo-checagem-da-entrevista-de-lula-no-flow/",
+          "acesso_em": "2026-10-21",
+          "tier": "checagem"
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Wikipedia (pt) — Auxílio Brasil (fontes G1, Senado, Valor)",
+      "url": "https://pt.wikipedia.org/wiki/Aux%C3%ADlio_Brasil",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "G1 — Bolsonaro sanciona com vetos lei que cria Auxílio Brasil (30/12/2021)",
+      "url": "https://g1.globo.com/politica/noticia/2021/12/30/bolsonaro-sanciona-com-vetos-lei-que-cria-auxilio-brasil.ghtml",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Correio Braziliense — Auxílio Brasil: 1º mês atendeu 14,5 milhões de famílias (23/12/2021)",
+      "url": "https://www.correiobraziliense.com.br/economia/2021/12/4972978-auxilio-brasil-1-mes-de-funcionamento-atendeu-145-milhoes-de-familias.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Jornal Contábil — Auxílio Brasil chega a 20,2 milhões de beneficiários em agosto (2022)",
+      "url": "https://jornalcontabil.com.br/noticia/auxilio-brasil-chega-a-202-milhoes-de-beneficiarios-em-agosto/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "FGV Social — clipping Correio Braziliense 2022 (famílias no Auxílio Brasil)",
+      "url": "https://www.cps.fgv.br/cps/bd/clippings/zc467.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    },
+    {
+      "nome": "Diário do Pará — balanço MDS: Bolsa Família amplia alcance em 2024 sem gastar mais (2025)",
+      "url": "https://diariodopara.com.br/noticias/brasil/bolsa-familia-amplia-alcance-em-2024-sem-gastar-mais-que-no-ano-anterior",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Agência Brasil — decreto aumenta alíquotas do IOF para custear novo Bolsa Família (set/2021)",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2021-09/decreto-aumenta-aliquotas-do-iof-para-custear-novo-bolsa-familia",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Lupa — checagem ao vivo do debate Lula x Flávio na Band (18/10/2026)",
+      "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Lupa — checagem ao vivo da entrevista de Flávio Bolsonaro na Globo (16/10/2026)",
+      "url": "https://www.agencialupa.org/checagem/2026/10/16/ao-vivo-checagem-da-entrevista-de-flavio-bolsonaro-na-globo/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Lupa — checagem ao vivo da entrevista de Lula no Flow (01/10/2026)",
+      "url": "https://www.agencialupa.org/checagem/2026/10/01/ao-vivo-checagem-da-entrevista-de-lula-no-flow/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "IBGE — PNAD Contínua: Rendimento de todas as fontes 2025 (Informativo, 08/05/2026)",
+      "url": "https://biblioteca.ibge.gov.br/visualizacao/livros/liv102275_informativo.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/03_emprego_renda_pobreza_social.md",
+  "notas_brutas_adicionais": [
+    "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/13_renda_por_faixa_e_simulacoes_de_impacto.md"
+  ],
+  "lacunas": [
+    "Período exato dos R$ 600 diverge entre fontes (ago-dez/2022 na maioria; Lupa cita jun-dez/2022 em uma checagem).",
+    "Custo total executado do Auxílio Brasil em 2022 não localizado (só previsão de R$ 89 bi e gasto mensal médio de R$ 7,8 bi)."
+  ],
+  "atualizado_em": "2026-10-21"
+}

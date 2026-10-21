@@ -1,0 +1,721 @@
+{
+  "id": "renda",
+  "titulo": "Simulador de renda: onde você está na distribuição e como cada medida te afeta",
+  "aviso_metodologico": "A PNAD Contínua mede rendimento domiciliar per capita (renda do domicílio dividida pelo número de moradores) e rendimento individual do trabalho; o IRPF mede renda individual declarada. As três grandezas não são intercambiáveis. Para posicionar o usuário na PNAD, perguntar renda familiar total e número de moradores. Os valores por décimo são médias dentro de cada décimo, não os limites (percentis) entre eles.",
+  "salario_minimo": {
+    "valor": 1621,
+    "ano": 2026,
+    "valor_2025": 1518,
+    "reajuste_2026_pct": 6.79,
+    "ganho_real_2026_pct": 2.5,
+    "pessoas_com_renda_referenciada": 61941000,
+    "pessoas_com_renda_referenciada_periodo": "dez/2025",
+    "fonte": {
+      "nome": "DIEESE — Nota Técnica 289: salário mínimo 2026 (22/12/2025)",
+      "url": "https://www.dieese.org.br/notatecnica/2025/notaTec289salarioMinimo.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    }
+  },
+  "distribuicao": [
+    {
+      "rotulo": "1º décimo (10% mais pobres)",
+      "faixa_max": null,
+      "pessoas": null,
+      "percentual_acumulado": 10,
+      "renda_media_decimo": 268,
+      "renda_media_decimo_2024": 260,
+      "renda_media_decimo_2019": 150,
+      "parcela_da_massa_pct_2025": 1.2,
+      "parcela_da_massa_leitura_de_grafico": false,
+      "fonte": {
+        "nome": "IBGE — PNAD Contínua: Rendimento de todas as fontes 2025 (Informativo, 08/05/2026)",
+        "url": "https://biblioteca.ibge.gov.br/visualizacao/livros/liv102275_informativo.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    {
+      "rotulo": "2º décimo (10% a 20%)",
+      "faixa_max": null,
+      "pessoas": null,
+      "percentual_acumulado": 20,
+      "renda_media_decimo": 568,
+      "renda_media_decimo_2024": 544,
+      "renda_media_decimo_2019": 399,
+      "parcela_da_massa_pct_2025": 2.5,
+      "parcela_da_massa_leitura_de_grafico": true,
+      "fonte": {
+        "nome": "IBGE — PNAD Contínua: Rendimento de todas as fontes 2025 (Informativo, 08/05/2026)",
+        "url": "https://biblioteca.ibge.gov.br/visualizacao/livros/liv102275_informativo.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    {
+      "rotulo": "3º décimo (20% a 30%)",
+      "faixa_max": null,
+      "pessoas": null,
+      "percentual_acumulado": 30,
+      "renda_media_decimo": 791,
+      "renda_media_decimo_2024": 754,
+      "renda_media_decimo_2019": 592,
+      "parcela_da_massa_pct_2025": 3.5,
+      "parcela_da_massa_leitura_de_grafico": true,
+      "fonte": {
+        "nome": "IBGE — PNAD Contínua: Rendimento de todas as fontes 2025 (Informativo, 08/05/2026)",
+        "url": "https://biblioteca.ibge.gov.br/visualizacao/livros/liv102275_informativo.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    {
+      "rotulo": "4º décimo (30% a 40%)",
+      "faixa_max": null,
+      "pessoas": null,
+      "percentual_acumulado": 40,
+      "renda_media_decimo": 1027,
+      "renda_media_decimo_2024": 975,
+      "renda_media_decimo_2019": 788,
+      "parcela_da_massa_pct_2025": 4.5,
+      "parcela_da_massa_leitura_de_grafico": true,
+      "fonte": {
+        "nome": "IBGE — PNAD Contínua: Rendimento de todas as fontes 2025 (Informativo, 08/05/2026)",
+        "url": "https://biblioteca.ibge.gov.br/visualizacao/livros/liv102275_informativo.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    {
+      "rotulo": "5º décimo (40% a 50%)",
+      "faixa_max": null,
+      "pessoas": null,
+      "percentual_acumulado": 50,
+      "renda_media_decimo": 1311,
+      "renda_media_decimo_2024": 1228,
+      "renda_media_decimo_2019": 1018,
+      "parcela_da_massa_pct_2025": 5.8,
+      "parcela_da_massa_leitura_de_grafico": true,
+      "fonte": {
+        "nome": "IBGE — PNAD Contínua: Rendimento de todas as fontes 2025 (Informativo, 08/05/2026)",
+        "url": "https://biblioteca.ibge.gov.br/visualizacao/livros/liv102275_informativo.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    {
+      "rotulo": "6º décimo (50% a 60%)",
+      "faixa_max": null,
+      "pessoas": null,
+      "percentual_acumulado": 60,
+      "renda_media_decimo": 1560,
+      "renda_media_decimo_2024": 1495,
+      "renda_media_decimo_2019": 1307,
+      "parcela_da_massa_pct_2025": 6.9,
+      "parcela_da_massa_leitura_de_grafico": true,
+      "fonte": {
+        "nome": "IBGE — PNAD Contínua: Rendimento de todas as fontes 2025 (Informativo, 08/05/2026)",
+        "url": "https://biblioteca.ibge.gov.br/visualizacao/livros/liv102275_informativo.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    {
+      "rotulo": "7º décimo (60% a 70%)",
+      "faixa_max": null,
+      "pessoas": null,
+      "percentual_acumulado": 70,
+      "renda_media_decimo": 1913,
+      "renda_media_decimo_2024": 1819,
+      "renda_media_decimo_2019": 1581,
+      "parcela_da_massa_pct_2025": 8.5,
+      "parcela_da_massa_leitura_de_grafico": true,
+      "fonte": {
+        "nome": "IBGE — PNAD Contínua: Rendimento de todas as fontes 2025 (Informativo, 08/05/2026)",
+        "url": "https://biblioteca.ibge.gov.br/visualizacao/livros/liv102275_informativo.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    {
+      "rotulo": "8º décimo (70% a 80%)",
+      "faixa_max": null,
+      "pessoas": null,
+      "percentual_acumulado": 80,
+      "renda_media_decimo": 2494,
+      "renda_media_decimo_2024": 2355,
+      "renda_media_decimo_2019": 2075,
+      "parcela_da_massa_pct_2025": 11.0,
+      "parcela_da_massa_leitura_de_grafico": true,
+      "fonte": {
+        "nome": "IBGE — PNAD Contínua: Rendimento de todas as fontes 2025 (Informativo, 08/05/2026)",
+        "url": "https://biblioteca.ibge.gov.br/visualizacao/livros/liv102275_informativo.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    {
+      "rotulo": "9º décimo (80% a 90%)",
+      "faixa_max": null,
+      "pessoas": null,
+      "percentual_acumulado": 90,
+      "renda_media_decimo": 3590,
+      "renda_media_decimo_2024": 3366,
+      "renda_media_decimo_2019": 2978,
+      "parcela_da_massa_pct_2025": 15.9,
+      "parcela_da_massa_leitura_de_grafico": true,
+      "fonte": {
+        "nome": "IBGE — PNAD Contínua: Rendimento de todas as fontes 2025 (Informativo, 08/05/2026)",
+        "url": "https://biblioteca.ibge.gov.br/visualizacao/livros/liv102275_informativo.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    {
+      "rotulo": "10º décimo (10% mais ricos)",
+      "faixa_max": null,
+      "pessoas": null,
+      "percentual_acumulado": 100,
+      "renda_media_decimo": 9117,
+      "renda_media_decimo_2024": 8385,
+      "renda_media_decimo_2019": 8147,
+      "parcela_da_massa_pct_2025": 40.3,
+      "parcela_da_massa_leitura_de_grafico": false,
+      "fonte": {
+        "nome": "IBGE — PNAD Contínua: Rendimento de todas as fontes 2025 (Informativo, 08/05/2026)",
+        "url": "https://biblioteca.ibge.gov.br/visualizacao/livros/liv102275_informativo.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    }
+  ],
+  "distribuicao_topo_detalhada": [
+    {
+      "rotulo": "90% a 95%",
+      "percentual_acumulado": 95,
+      "renda_media_2025": 5519,
+      "renda_media_2024": 5150,
+      "renda_media_2019": 4655,
+      "fonte": {
+        "nome": "IBGE — PNAD Contínua: Rendimento de todas as fontes 2025 (Informativo, 08/05/2026)",
+        "url": "https://biblioteca.ibge.gov.br/visualizacao/livros/liv102275_informativo.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    {
+      "rotulo": "95% a 99%",
+      "percentual_acumulado": 99,
+      "renda_media_2025": 9648,
+      "renda_media_2024": 8843,
+      "renda_media_2019": 8651,
+      "fonte": {
+        "nome": "IBGE — PNAD Contínua: Rendimento de todas as fontes 2025 (Informativo, 08/05/2026)",
+        "url": "https://biblioteca.ibge.gov.br/visualizacao/livros/liv102275_informativo.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    {
+      "rotulo": "99% a 100% (1% mais rico)",
+      "percentual_acumulado": 100,
+      "renda_media_2025": 24973,
+      "renda_media_2024": 22716,
+      "renda_media_2019": 23593,
+      "fonte": {
+        "nome": "IBGE — PNAD Contínua: Rendimento de todas as fontes 2025 (Informativo, 08/05/2026)",
+        "url": "https://biblioteca.ibge.gov.br/visualizacao/livros/liv102275_informativo.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    }
+  ],
+  "medias_2025": {
+    "renda_domiciliar_per_capita_media": {
+      "valor": 2264,
+      "valor_2024": 2118,
+      "valor_2019": 1904,
+      "unidade": "R$ a preços médios de 2025",
+      "fonte": {
+        "nome": "IBGE — PNAD Contínua: Rendimento de todas as fontes 2025 (Informativo, 08/05/2026)",
+        "url": "https://biblioteca.ibge.gov.br/visualizacao/livros/liv102275_informativo.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    "rendimento_medio_todas_as_fontes_quem_tem_renda": {
+      "valor": 3367,
+      "valor_2024": 3195,
+      "valor_2019": 3101,
+      "unidade": "R$ a preços médios de 2025",
+      "fonte": {
+        "nome": "IBGE — PNAD Contínua: Rendimento de todas as fontes 2025 (Informativo, 08/05/2026)",
+        "url": "https://biblioteca.ibge.gov.br/visualizacao/livros/liv102275_informativo.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    "rendimento_medio_habitual_do_trabalho": {
+      "valor": 3560,
+      "valor_2024": 3368,
+      "valor_2019": 3204,
+      "unidade": "R$ a preços médios de 2025",
+      "fonte": {
+        "nome": "IBGE — PNAD Contínua: Rendimento de todas as fontes 2025 (Informativo, 08/05/2026)",
+        "url": "https://biblioteca.ibge.gov.br/visualizacao/livros/liv102275_informativo.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    "rendimento_medio_aposentadoria_pensao": {
+      "valor": 2697,
+      "unidade": "R$",
+      "fonte": {
+        "nome": "IBGE — PNAD Contínua: Rendimento de todas as fontes 2025 (Informativo, 08/05/2026)",
+        "url": "https://biblioteca.ibge.gov.br/visualizacao/livros/liv102275_informativo.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    "rendimento_medio_programas_sociais": {
+      "valor": 870,
+      "valor_2019": 508,
+      "valor_2012": 436,
+      "unidade": "R$ a preços médios de 2025",
+      "fonte": {
+        "nome": "IBGE — PNAD Contínua: Rendimento de todas as fontes 2025 (Informativo, 08/05/2026)",
+        "url": "https://biblioteca.ibge.gov.br/visualizacao/livros/liv102275_informativo.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    "renda_per_capita_media_40_mais_pobres": {
+      "valor": 663,
+      "unidade": "R$",
+      "fonte": {
+        "nome": "Agência Brasil — rendimento dos mais ricos é 13,8 vezes maior que o dos mais pobres (08/05/2026)",
+        "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/rendimento-dos-mais-ricos-e-138-vezes-maior-que-o-dos-mais-pobres",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    "renda_per_capita_domicilios_com_bolsa_familia": {
+      "valor": 774,
+      "comparacao_sem_programa": 2682,
+      "unidade": "R$",
+      "fonte": {
+        "nome": "Correio Braziliense/Broadcast — renda do brasileiro bate recorde em 2025 (08/05/2026)",
+        "url": "https://www.correiobraziliense.com.br/economia/2026/05/7415178-renda-do-brasileiro-bate-recorde-em-2025-aponta-ibge.html",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    "populacao_residente_milhoes": {
+      "valor": 212.7,
+      "com_algum_rendimento_pct": 67.2,
+      "com_algum_rendimento_milhoes": 143.0,
+      "fonte": {
+        "nome": "IBGE — PNAD Contínua: Rendimento de todas as fontes 2025 (Informativo, 08/05/2026)",
+        "url": "https://biblioteca.ibge.gov.br/visualizacao/livros/liv102275_informativo.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    }
+  },
+  "mediana": {
+    "valor": null,
+    "valor_aproximado": 1518,
+    "faixa_inferida": {
+      "min": 1400,
+      "max": 1500
+    },
+    "periodo": "2025",
+    "inferencia": true,
+    "nao_verificado": true,
+    "descricao": "O IBGE não publicou a mediana no informativo. Como a média do 5º décimo (R$ 1.311) e a do 6º (R$ 1.560) cercam o salário mínimo de 2025 (R$ 1.518), a nota infere que a mediana da renda domiciliar per capita em 2025 está em torno de 1 salário mínimo: metade dos brasileiros vive em domicílios com até ~R$ 1,4-1,5 mil por pessoa. Os limites de percentil (P50, P90, P99) estão nas tabelas SIDRA 7531/7545, não acessadas.",
+    "fonte": {
+      "nome": "IBGE — PNAD Contínua: Rendimento de todas as fontes 2025 (Informativo, 08/05/2026)",
+      "url": "https://biblioteca.ibge.gov.br/visualizacao/livros/liv102275_informativo.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    }
+  },
+  "posicionamento_inferido": {
+    "descricao": "Cortes aproximados inferidos pela nota a partir das médias por classe (não são percentis oficiais).",
+    "inferencia": true,
+    "cortes": [
+      {
+        "renda_per_capita_acima_de": 3600,
+        "posicao": "20% mais ricos"
+      },
+      {
+        "renda_per_capita_acima_de": 5500,
+        "posicao": "10% mais ricos (classe 90-95%)"
+      },
+      {
+        "renda_per_capita_acima_de": 9600,
+        "posicao": "5% mais ricos"
+      },
+      {
+        "renda_per_capita_media": 24973,
+        "posicao": "1% mais rico (média)"
+      }
+    ],
+    "fonte": {
+      "nome": "IBGE — PNAD Contínua: Rendimento de todas as fontes 2025 (Informativo, 08/05/2026)",
+      "url": "https://biblioteca.ibge.gov.br/visualizacao/livros/liv102275_informativo.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    }
+  },
+  "desigualdade_2025": {
+    "gini_renda_domiciliar_per_capita": {
+      "valor": 0.511,
+      "valor_2024": 0.504,
+      "fonte": {
+        "nome": "IBGE — PNAD Contínua: Rendimento de todas as fontes 2025 (Informativo, 08/05/2026)",
+        "url": "https://biblioteca.ibge.gov.br/visualizacao/livros/liv102275_informativo.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    "gini_rendimento_do_trabalho": {
+      "valor": 0.491,
+      "valor_2024": 0.487,
+      "fonte": {
+        "nome": "ISTOÉ Dinheiro — IBGE: ricos no Brasil (08/05/2026)",
+        "url": "https://istoedinheiro.com.br/ibge-ricos-brasil",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    "participacao_10_mais_ricos_na_massa_pct": {
+      "valor": 40.3,
+      "valor_2024": 39.6,
+      "valor_2019": 42.8,
+      "fonte": {
+        "nome": "IBGE — PNAD Contínua: Rendimento de todas as fontes 2025 (Informativo, 08/05/2026)",
+        "url": "https://biblioteca.ibge.gov.br/visualizacao/livros/liv102275_informativo.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    "participacao_70_mais_pobres_na_massa_pct": {
+      "valor": 32.8,
+      "fonte": {
+        "nome": "IBGE — PNAD Contínua: Rendimento de todas as fontes 2025 (Informativo, 08/05/2026)",
+        "url": "https://biblioteca.ibge.gov.br/visualizacao/livros/liv102275_informativo.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    "razao_10_mais_ricos_40_mais_pobres": {
+      "valor": 13.8,
+      "valor_2024": 13.2,
+      "fonte": {
+        "nome": "IBGE — PNAD Contínua: Rendimento de todas as fontes 2025 (Informativo, 08/05/2026)",
+        "url": "https://biblioteca.ibge.gov.br/visualizacao/livros/liv102275_informativo.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    "massa_renda_domiciliar_per_capita_bilhoes_mes": {
+      "valor": 481.4,
+      "fonte": {
+        "nome": "IBGE — PNAD Contínua: Rendimento de todas as fontes 2025 (Informativo, 08/05/2026)",
+        "url": "https://biblioteca.ibge.gov.br/visualizacao/livros/liv102275_informativo.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    }
+  },
+  "faixas_salario_minimo": {
+    "descricao": "Pessoas com renda referenciada em até 1 salário mínimo (DIEESE, dez/2025).",
+    "total": 61941000,
+    "detalhe": {
+      "beneficiarios_inss": 29273000,
+      "empregados": 17671000,
+      "conta_propria": 10751000,
+      "trabalhadores_domesticos": 3863000,
+      "empregadores": 383000
+    },
+    "beneficiarios_previdencia_ate_1_sm_pct": 70.8,
+    "fonte": {
+      "nome": "DIEESE — Nota Técnica 289: salário mínimo 2026 (22/12/2025)",
+      "url": "https://www.dieese.org.br/notatecnica/2025/notaTec289salarioMinimo.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    },
+    "distribuicao_fgv_2020": {
+      "descricao": "FGV Social (jul/2020, com Auxílio Emergencial) — população por faixa de renda per capita; em parênteses, 2019",
+      "ate_meio_sm_pct": 24.6,
+      "ate_meio_sm_2019_pct": 31.0,
+      "meio_a_2_sm_pct": 62.6,
+      "meio_a_2_sm_2019_pct": 53.3,
+      "acima_2_sm_pct": 12.8,
+      "acima_2_sm_2019_pct": 15.7,
+      "acima_4_sm_pct": 4.0,
+      "acima_4_sm_2019_pct": 5.4,
+      "fonte": {
+        "nome": "FGV Social via Correio Braziliense (25/08/2020) — população por faixas de SM per capita",
+        "url": "https://www.cps.fgv.br/cps/bd/clippings/xc1240.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      }
+    }
+  },
+  "classes_economicas": {
+    "abep_2026_regioes_metropolitanas": {
+      "A_B1_pct": 13,
+      "B2_pct": 19,
+      "C_pct": 52,
+      "DE_pct": 17,
+      "em_2000": {
+        "A_B1_pct": 15,
+        "B2_pct": 14,
+        "C_pct": 36,
+        "DE_pct": 35
+      },
+      "fonte": {
+        "nome": "ABEP — Evolução das classes econômicas no Brasil (ago/2026)",
+        "url": "https://abep.org/wp-content/uploads/2026/08/Evolucao-das-classes-economicas-no-Brasil.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      }
+    },
+    "distribuicao_imprensa_edicao_nao_identificada": {
+      "A": 2.9,
+      "B1": 5.1,
+      "B2": 16.7,
+      "C1": 21,
+      "C2": 26.4,
+      "DE": 27.9,
+      "nao_verificado": true,
+      "fonte": {
+        "nome": "Fast Company Brasil — rico, pobre ou classe média? (distribuição por classes, edição não identificada)",
+        "url": "https://fastcompanybrasil.com/money/rico-pobre-ou-classe-media-descubra-em-qual-faixa-de-renda-voce-realmente-se-encaixa/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    }
+  },
+  "irpf": {
+    "declaracoes_2025_ano_base_2024": {
+      "valor": 43344108,
+      "expectativa_receita": 46200000,
+      "variacao_vs_2024_pct": 0.08,
+      "fonte": {
+        "nome": "Poder360 — Fisco recebe 43,3 mi de declarações do IR, abaixo do esperado (Receita Federal)",
+        "url": "https://www.poder360.com.br/poder-economia/fisco-recebe-433-mi-de-declaracoes-do-ir-abaixo-do-esperado/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    "declaracoes_2023_ano_base_2022": {
+      "valor": 41151515,
+      "fonte": {
+        "nome": "Dutra, Monteiro e Gobetti — 'Concentração de renda no Brasil: o que os dados do IRPF revelam' (14/08/2025, PDF via Poder360)",
+        "url": "https://static.poder360.com.br/2025/08/Concentracao-de-renda-no-Brasil-o-que-os-dados-do-IRPF-revelam-14-ago-2025.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      }
+    },
+    "declarantes_2024_ano_base_2023_aprox": {
+      "valor": 40700000,
+      "observacao": "nota técnica com dados da RFB; a Receita falava em 43,2 mi declarações em 2024",
+      "fonte": {
+        "nome": "Dutra, Monteiro e Gobetti — 'Concentração de renda no Brasil: o que os dados do IRPF revelam' (14/08/2025, PDF via Poder360)",
+        "url": "https://static.poder360.com.br/2025/08/Concentracao-de-renda-no-Brasil-o-que-os-dados-do-IRPF-revelam-14-ago-2025.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      }
+    },
+    "resultado_das_declaracoes_2025_pct": {
+      "a_restituir": 56.4,
+      "a_pagar": 22.2,
+      "sem_imposto_a_pagar_ou_restituir": 21.2,
+      "fonte": {
+        "nome": "COAD — Receita Federal divulga balanço final do Imposto de Renda de 2025",
+        "url": "https://coad.com.br/home/noticias-detalhe/132089/receita-federal-divulga-balanco-final-do-imposto-de-renda-de-2025",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    "pessoas_com_imposto_a_pagar_na_declaracao_2025_aprox": {
+      "valor": 9600000,
+      "calculo_proprio_da_nota": true,
+      "observacao": "22,2% × 43,3 mi; subestima quem paga IR porque a maioria recolhe na fonte e tem restituição parcial",
+      "fonte": {
+        "nome": "COAD — Receita Federal divulga balanço final do Imposto de Renda de 2025",
+        "url": "https://coad.com.br/home/noticias-detalhe/132089/receita-federal-divulga-balanco-final-do-imposto-de-renda-de-2025",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    "obrigatoriedade_2025_rendimentos_tributaveis_acima_de": {
+      "valor": 33888,
+      "observacao": "≈ 2 SM/mês ficam dispensados",
+      "fonte": {
+        "nome": "CRC-MA — obrigatoriedade de declarar o IRPF 2025",
+        "url": "https://crcma.org.br/?p=194289",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    "declarantes_como_parcela_dos_adultos_pct": {
+      "min": 25,
+      "max": 27,
+      "inferencia": true,
+      "fonte": {
+        "nome": "Fundação Perseu Abramo — declarações de renda apontam caminho para redução da desigualdade",
+        "url": "https://fpabramo.org.br/declaracoes-de-renda-apontam-caminho-para-a-reducao-da-desigualdade/",
+        "acesso_em": "2026-10-21",
+        "tier": "partidario"
+      }
+    },
+    "declarantes_ate_20_sm_pct": {
+      "valor": 94,
+      "parcela_da_renda_declarada_pct": 52,
+      "ano_calendario": 2023,
+      "fonte": {
+        "nome": "Sindifisco/Unafisco — Análise dos Dados das Declarações do IRPF no Brasil 2025 (DOCX via Poder360)",
+        "url": "https://static.poder360.com.br/2025/09/Analise-dos-Dados-das-Declaracoes-do-IRPF-no-Brasil-2025_ago.docx",
+        "acesso_em": "2026-10-21",
+        "tier": "partidario"
+      }
+    },
+    "renda_total_declarada_2023_trilhoes": {
+      "valor": 5.693,
+      "fonte": {
+        "nome": "Sindifisco/Unafisco — Análise dos Dados das Declarações do IRPF no Brasil 2025 (DOCX via Poder360)",
+        "url": "https://static.poder360.com.br/2025/09/Analise-dos-Dados-das-Declaracoes-do-IRPF-no-Brasil-2025_ago.docx",
+        "acesso_em": "2026-10-21",
+        "tier": "partidario"
+      }
+    },
+    "spe_ano_base_2022": {
+      "declarantes": 38400000,
+      "pct_da_pea": 35.6,
+      "renda_media_declarante_ano": 122508,
+      "top_10_pct_renda_declarada": 51.5,
+      "fonte": {
+        "nome": "InfoMoney — estudo da SPE/Fazenda sobre distribuição pessoal da renda e da riqueza (ano-base 2022)",
+        "url": "https://www.infomoney.com.br/?p=2346191",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    "spe_dados_2023": {
+      "50_inferiores_pct_renda": 14.1,
+      "10_superiores_pct_renda": 52.0,
+      "1_pct_renda": 24.5,
+      "0_1_pct_renda": 12.5,
+      "riqueza_10_superiores_pct": 64.2,
+      "riqueza_1_pct": 37.3,
+      "fonte": {
+        "nome": "SPE/Ministério da Fazenda — Relatório da Distribuição Pessoal da Renda e da Riqueza da População Brasileira: dados do IRPF 2023 (dez/2025)",
+        "url": "https://www.reformatributaria.com/wp-content/uploads/2025/12/relatorio-distribuicao-renda-2025.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    "defasagem_tabela_desde_1996_pct": {
+      "valor": 157.22,
+      "isencao_se_corrigida": 6694.37,
+      "aliquota_27_5_a_partir_de_se_corrigida": 12374.74,
+      "fonte": {
+        "nome": "Money Times/Sindifisco — defasagem da tabela do IR chega a 157% (2026)",
+        "url": "https://www.moneytimes.com.br/imposto-de-renda-defasagem-da-tabela-chega-a-157-em-2025-calcula-sindifisco-jals/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    }
+  },
+  "inflacao_por_faixa_de_renda_2025": {
+    "descricao": "Ipea — inflação fechada de 2025 por faixa de renda (renda muito baixa = renda familiar abaixo de R$ 2.202,02/mês)",
+    "renda_muito_baixa_pct": 3.81,
+    "ipca_pct": 4.26,
+    "renda_alta_pct": 4.72,
+    "em_2024": {
+      "renda_muito_baixa_pct": 4.91,
+      "ipca_pct": 4.83,
+      "renda_alta_pct": 4.43
+    },
+    "fonte": {
+      "nome": "Ipea — Carta de Conjuntura 69, Nota 19: inflação por faixa de renda (12/12/2025)",
+      "url": "https://www.ipea.gov.br/cartadeconjuntura/wp-content/uploads/2025/12/251212_cc_69_nota_19_ifr_nov25.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    }
+  },
+  "endividamento_por_faixa": {
+    "inadimplentes_fev_2026": 81700000,
+    "ate_1_sm_pct": 48,
+    "de_1_a_2_sm_pct": 30,
+    "divida_media": 6598.13,
+    "fonte": {
+      "nome": "Jornal Grande Bahia/Serasa — inadimplência atinge 81,7 milhões; 78% com renda até 2 SM (26/03/2026)",
+      "url": "https://jornalgrandebahia.com.br/2026/03/inadimplencia-no-brasil-atinge-817-milhoes-e-cresce-38-em-uma-decada-aponta-serasa/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  },
+  "medidas": [
+    "lei-15270-2025-isencao-ir-5-mil-e-ir-minimo",
+    "taxa-das-blusinhas-lei-14902-2024-e-fim-2026",
+    "iof-decreto-2025",
+    "bets-tributacao",
+    "reoneracao-folha-lei-14973-2024",
+    "politica-valorizacao-salario-minimo-2023",
+    "bolsa-familia-600-mais-150",
+    "bolsa-familia-piso-691-2026",
+    "pe-de-meia",
+    "gas-do-povo-renda"
+  ],
+  "medidas_sem_regra_computavel": [
+    "lei-14754-2023-fundos-exclusivos-offshores",
+    "lei-15079-2024-pilar-2-multinacionais",
+    "reforma-tributaria-ec-132-lc-214",
+    "imposto-seletivo",
+    "ipva-jatos-e-lanchas",
+    "in-rfb-2219-2024-pix-e-financeira",
+    "in-rfb-2278-2025",
+    "mp-1288-2025-gratuidade-pix",
+    "mp-1303-2025-lci-lca",
+    "salario-minimo-sem-ganho-real-2019-2022",
+    "auxilio-emergencial-2020-2021",
+    "auxilio-brasil-600-2022",
+    "tarifa-social-energia-renda",
+    "fim-da-escala-6x1-pec",
+    "reforma-da-previdencia-2019",
+    "reforma-trabalhista-2017",
+    "congelamento-tabela-ir-2016-2022",
+    "ipi-reducao-35-2022",
+    "teto-icms-lc-194-2022",
+    "desenrola",
+    "programa-flavio-2026-corte-gastos",
+    "programa-lula-2026-6x1-e-continuidade"
+  ],
+  "notas": [
+    "Valores da PNAD a preços médios de 2025; os décimos trazem médias dentro de cada classe, não limites entre classes. Parcelas da massa dos décimos 2 a 9 são leitura de gráfico do IBGE (aproximadas).",
+    "A mediana é inferência da nota (em torno de 1 SM de 2025); a mediana oficial e os percentis P50/P90/P99 não foram acessados (SIDRA 7531/7545).",
+    "Renda individual de R$ 5-7,35 mil corresponde aproximadamente aos 10-15% de maior renda do trabalho; o IR mínimo atinge ~141 mil pessoas (~0,1% dos adultos). Cerca de 73% dos adultos não declaram IRPF, logo medidas de IRPF atingem diretamente só a metade superior da distribuição (inferências da nota).",
+    "A PNAD subcapta o topo: capta só 1/11,67 da renda do 0,01% registrada no IRPF; o 1% mais rico no IRPF corresponde a renda anual acima de R$ 1,7 milhão (Dutra, Monteiro e Gobetti, 2025).",
+    "Juros altos (Selic 14,75% em mar/2026) penalizam famílias de até 2 SM (78% dos negativados) e beneficiam detentores de renda financeira concentrados no 1%.",
+    "Não há simulação independente por faixa de renda dos programas de 2026 de Lula e Flávio; só de medidas isoladas (IFI para o IR; FGV IBRE para o Bolsa Família; CNI/Dieese/Warren Rena para a 6x1)."
+  ],
+  "lacunas": [
+    "Mediana oficial e limites de percentil da PNAD 2025 não obtidos; distribuição por faixas fixas de SM (até 1/4, 1/2, 1, 2 SM) com nº de pessoas não obtida (SIDRA 7531/7545; portal do IBGE devolveu 403).",
+    "Número de pessoas por décimo não consta das notas (campo 'pessoas' nulo).",
+    "Cortes por sexo e cor/raça da PNAD 2025 e rendimento por posição na ocupação não acessados.",
+    "Tabelas oficiais por faixa de SM dos Grandes Números do IRPF (declarantes, imposto devido e alíquota efetiva por faixa) existem só em Excel na página da Receita; não extraídas. Nº de pessoas com renda acima de R$ 50 mil/mês e R$ 20 mil/mês não obtido.",
+    "Totais 2026 do Cadastro Único e do BPC não obtidos.",
+    "Distribuição por classes (A 2,9% ... DE 27,9%) é de fonte secundária sem edição/ano identificados."
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/13_renda_por_faixa_e_simulacoes_de_impacto.md",
+  "notas_brutas_adicionais": [
+    "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/12_pix_fake_news_e_impostos_quem_paga.md",
+    "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/03_emprego_renda_pobreza_social.md"
+  ],
+  "atualizado_em": "2026-10-21"
+}

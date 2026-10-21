@@ -1,0 +1,324 @@
+{
+  "id": "in-rfb-2219-2024-pix-e-financeira",
+  "nome": "IN RFB 2.219/2024: e-Financeira para fintechs e novo piso de reporte de movimentações (a chamada 'taxação do Pix') — revogada em 15/01/2025",
+  "tipo": "outro",
+  "governo": "lula-3",
+  "lado": "governo-lula-pt",
+  "norma": {
+    "nome": "Instrução Normativa RFB 2.219, de 17/09/2024; revogada pela IN RFB 2.247, de 15/01/2025 (DOU edição extra de 16/01/2025)",
+    "data": "2024-09-17",
+    "url": "https://sintse.tse.jus.br/documentos/2025/Jan/16/diario-oficial-da-uniao-secao-1-edicao-extra/secretaria-especial-da-receita-federal-do-brasil-instrucao-normativa-no-2-247-de-15-de-janeiro-de",
+    "vigencia": "Obrigação prevista para começar em janeiro/2025; revogada em 15/01/2025 antes de produzir efeitos"
+  },
+  "status": "revogada",
+  "o_que_faz_simples": [
+    "Não criou nenhum imposto. A norma (a) estendia às fintechs e instituições de pagamento a obrigação de enviar à Receita a e-Financeira, que os bancos já cumpriam, e (b) elevava o piso de reporte agregado mensal de R$ 2 mil (pessoa física) e R$ 6 mil (empresa) para R$ 5 mil e R$ 15 mil.",
+    "O reporte é agregado e semestral: a instituição informa o total movimentado por CPF/CNPJ no mês quando passa do piso, sem detalhar quem pagou a quem. O piso de R$ 5 mil era mais alto (menos pessoas reportadas) do que o de R$ 2 mil que já valia para bancos desde a IN 1.571/2015.",
+    "Após a onda de desinformação de janeiro/2025 (vídeo do senador Cleitinho em 06/01; alerta de golpes da Receita em 10/01; vídeo de Nikolas Ferreira em 14/01 com 120 milhões de visualizações em 24h), a Receita revogou a norma em 15/01/2025 (IN 2.247) e os limites voltaram a R$ 2 mil/R$ 6 mil; fintechs deixaram de ter a obrigação. Haddad: a revogação era 'para que não haja justificativa para não votar a MP' 1.288/2025.",
+    "A Receita afirmou que a norma 'apenas estende às fintechs as obrigações de transparência já aplicadas aos bancos' e que a Constituição 'proíbe a tributação de movimentações financeiras'. Febraban (14/01/2025): a IN 'não exige nenhuma nova responsabilidade dos usuários do Pix'.",
+    "Efeitos medidos: Quaest (15-17/01/2025) — 87% ouviram sobre o tema e 67% acreditaram que o Pix seria taxado; uso do Pix caiu 15,3% na 1ª quinzena de janeiro vs dezembro (BC atribuiu sobretudo à sazonalidade; queda dez→jan de 11,4% vs 8,6% no ano anterior); Datafolha de fev/2025 registrou 24% de aprovação de Lula.",
+    "Em ago/2025 a obrigação para fintechs foi reeditada pela IN RFB 2.278/2025 (ver medida própria)."
+  ],
+  "quem_ganha": {
+    "descricao": "Receita Federal (fiscalização de sonegação e lavagem via fintechs). Nenhum grupo de renda ganhava ou perdia dinheiro: não havia tributo.",
+    "pessoas": null,
+    "faixa_renda": "Não se aplica",
+    "fonte": {
+      "nome": "Bora Investir/B3 — Receita volta a negar taxação do Pix e alerta para golpes",
+      "url": "https://borainvestir.b3.com.br/noticias/receita-federal-volta-a-negar-taxacao-do-pix-e-alerta-para-golpes/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  },
+  "quem_paga": {
+    "descricao": "Ninguém pagaria imposto. A única obrigação nova recaía sobre fintechs e instituições de pagamento (envio da e-Financeira). Pessoas físicas com movimentação mensal acima de R$ 5 mil teriam seus totais informados à Receita, como já ocorria em bancos acima de R$ 2 mil.",
+    "pessoas": null,
+    "faixa_renda": "Não se aplica (obrigação acessória de empresas)",
+    "fonte": {
+      "nome": "Econet — revogação das regras de monitoramento do Pix",
+      "url": "https://blog.econeteditora.com.br/revogacao-das-regras-de-monitoramento-do-pix-o-que-voce-precisa-saber/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  },
+  "custo_ou_arrecadacao": {
+    "valor": null,
+    "unidade": "R$ bilhões",
+    "periodo": null,
+    "descricao": "Não é tributo; não há arrecadação associada.",
+    "fonte": {
+      "nome": "Bora Investir/B3 — Receita volta a negar taxação do Pix e alerta para golpes",
+      "url": "https://borainvestir.b3.com.br/noticias/receita-federal-volta-a-negar-taxacao-do-pix-e-alerta-para-golpes/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  },
+  "regra_simulador": {
+    "tipo": "nenhuma",
+    "parametros": {}
+  },
+  "mitos": [
+    {
+      "mito": "O governo criou um imposto sobre o Pix.",
+      "fato": "Falso. A IN 2.219/2024 não criou alíquota alguma; ela estendia às fintechs um dever de informar totais movimentados que bancos já cumpriam e elevava o piso de reporte de R$ 2 mil para R$ 5 mil (PF). Aos Fatos (09/01/2025): 'É falso que Pix acima de R$ 5.000 será taxado pela Receita Federal'. Um tributo sobre movimentação financeira (como a extinta CPMF, 1997-2007) exigiria emenda constitucional, não ato da Receita.",
+      "fontes": [
+        {
+          "nome": "Aos Fatos — desinformação para desvincular Nikolas das mentiras sobre taxação do Pix (29/08/2025)",
+          "url": "https://www.aosfatos.org/noticias/desinformacao-desvincular-nikolas-mentiras-taxacao-pix/",
+          "acesso_em": "2026-10-21",
+          "tier": "checagem"
+        },
+        {
+          "nome": "Bora Investir/B3 — Receita volta a negar taxação do Pix e alerta para golpes",
+          "url": "https://borainvestir.b3.com.br/noticias/receita-federal-volta-a-negar-taxacao-do-pix-e-alerta-para-golpes/",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "Econet — revogação das regras de monitoramento do Pix",
+          "url": "https://blog.econeteditora.com.br/revogacao-das-regras-de-monitoramento-do-pix-o-que-voce-precisa-saber/",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "Jornal Opção — Febraban: Pix permanece gratuito e sem alterações (14/01/2025)",
+          "url": "https://www.jornalopcao.com.br/ultimas-noticias/pix-permanece-gratuito-e-sem-alteracoes-reforca-febraban-671455/",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        }
+      ]
+    },
+    {
+      "mito": "Pix acima de R$ 5 mil seria taxado em 27,5%, com multa de 150% e bloqueio de CPF.",
+      "fato": "Golpe. A Receita alertou em 10/01/2025 para mensagens falsas com nome e logo do órgão cobrando 'taxa' com boleto e ameaça de bloqueio de CPF; voltou a desmentir em 29/12/2025 e 14/01/2026.",
+      "fontes": [
+        {
+          "nome": "Jornal Opção — Receita desmente cobrança de taxas sobre o Pix e alerta para fraude (10/01/2025)",
+          "url": "https://jornalopcao.com.br/ultimas-noticias/receita-federal-desmente-cobranca-de-taxas-sobre-o-pix-e-alerta-para-fraude-670509/",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "Canal Rural — Receita volta a desmentir cobrança de imposto e multa de 150% (29/12/2025)",
+          "url": "https://www.canalrural.com.br/economia/fake-news-do-pix-receita-volta-a-desmentir-cobranca-de-imposto-e-suposta-multa-de-150/",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        }
+      ]
+    },
+    {
+      "mito": "O vídeo de Nikolas Ferreira não falava em taxação, só em fiscalização.",
+      "fato": "Aos Fatos (29/08/2025) classificou como 'enganosas' as alegações de que o vídeo não falava em taxação: Nikolas disse 'Não, o Pix não será taxado, mas não duvido que possa ser' e omitiu que bancos já reportavam movimentações. Estudo da UFPR nota que o vídeo 'tratava de fiscalização bancária e não cita explicitamente um novo imposto', razão de ter sido classificado como enganoso e não apenas falso.",
+      "fontes": [
+        {
+          "nome": "Aos Fatos — desinformação para desvincular Nikolas das mentiras sobre taxação do Pix (29/08/2025)",
+          "url": "https://www.aosfatos.org/noticias/desinformacao-desvincular-nikolas-mentiras-taxacao-pix/",
+          "acesso_em": "2026-10-21",
+          "tier": "checagem"
+        },
+        {
+          "nome": "Ação Midiática/UFPR (2026) — artigo acadêmico sobre as checagens do caso Pix",
+          "url": "https://revistas.ufpr.br/acaomidiatica/article/view/100911",
+          "acesso_em": "2026-10-21",
+          "tier": "academico"
+        },
+        {
+          "nome": "InfoMoney — vídeo de Nikolas Ferreira sobre Pix viraliza; governo nega mudanças (15/01/2025)",
+          "url": "https://www.infomoney.com.br/politica/video-de-nikolas-ferreira-sobre-pix-viraliza-nas-redes-sociais-governo-nega-mudancas/",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        }
+      ]
+    },
+    {
+      "mito": "A fiscalização de movimentações financeiras começou com o governo Lula.",
+      "fato": "Bancos já enviavam a e-Financeira com piso de R$ 2 mil (PF) e R$ 6 mil (PJ) desde a IN 1.571/2015, e reportam movimentações desde 2001 segundo a Aos Fatos. Em 2020, o então ministro Paulo Guedes defendeu um imposto de ~0,2% sobre transações digitais, inclusive Pix, nos moldes da CPMF — ideia que não avançou.",
+      "fontes": [
+        {
+          "nome": "Econet — revogação das regras de monitoramento do Pix",
+          "url": "https://blog.econeteditora.com.br/revogacao-das-regras-de-monitoramento-do-pix-o-que-voce-precisa-saber/",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "Aos Fatos — desinformação para desvincular Nikolas das mentiras sobre taxação do Pix (29/08/2025)",
+          "url": "https://www.aosfatos.org/noticias/desinformacao-desvincular-nikolas-mentiras-taxacao-pix/",
+          "acesso_em": "2026-10-21",
+          "tier": "checagem"
+        },
+        {
+          "nome": "Poder360 — Guedes diz que não desistiu do imposto sobre transações digitais (2020)",
+          "url": "https://www.poder360.com.br/economia/paulo-guedes-diz-que-nao-desistiu-do-imposto-sobre-transacoes-digitais/",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "Tecnoblog — Guedes defende imposto sobre Pix (2020)",
+          "url": "https://tecnoblog.net/386362/paulo-guedes-ministro-economia-defende-imposto-sobre-pix/",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        }
+      ]
+    },
+    {
+      "mito": "O Pix caiu 15% por causa da 'taxação'.",
+      "fato": "A queda de 15,3% na 1ª quinzena de janeiro/2025 (vs dezembro) foi a maior para o período desde a criação do Pix, mas o BC atribuiu o movimento à variação sazonal de início de ano. Comparando a queda dez→jan de 2025 (−11,4%) com a do ano anterior (−8,6%), o efeito atribuível ao boato seria da ordem de 3 pontos percentuais no mês (inferência da nota).",
+      "fontes": [
+        {
+          "nome": "Bahia Notícias — Pix tem maior queda no volume de transferências desde sua criação",
+          "url": "https://www.bahianoticias.com.br/noticia/300354-pix-tem-maior-queda-no-volume-de-transferencias-desde-sua-criacao",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "Jornal de Brasília — transações por Pix diminuem em janeiro, mas dentro do esperado pelo BC",
+          "url": "https://jornaldebrasilia.com.br/noticias/economia/transacoes-por-pix-diminuem-em-janeiro-marcado-por-crise-mas-dentro-do-esperado-pelo-bc/",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Econet — revogação das regras de monitoramento do Pix",
+      "url": "https://blog.econeteditora.com.br/revogacao-das-regras-de-monitoramento-do-pix-o-que-voce-precisa-saber/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Honda Tar — IN 2.219/2024",
+      "url": "https://www.hondatar.com.br/?p=8760",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Estado de Minas — recebeu mensagem sobre imposto no Pix? (12/01/2025)",
+      "url": "https://em.com.br/emfoco/2025/01/12/recebeu-uma-mensagem-sobre-imposto-no-pix",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "InvestNews — fez Pix acima de R$ 5 mil? Receita não vai taxar seu dinheiro",
+      "url": "https://investnews.com.br/financas/fez-pix-acima-de-r-5-mil-receita-federal-nao-vai-taxar-seu-dinheiro-entenda",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Bora Investir/B3 — Receita volta a negar taxação do Pix e alerta para golpes",
+      "url": "https://borainvestir.b3.com.br/noticias/receita-federal-volta-a-negar-taxacao-do-pix-e-alerta-para-golpes/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Diário do Comércio — Receita nega taxação do Pix",
+      "url": "https://diariodocomercio.com.br/?p=547463",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Jornal Opção — Febraban: Pix permanece gratuito e sem alterações (14/01/2025)",
+      "url": "https://www.jornalopcao.com.br/ultimas-noticias/pix-permanece-gratuito-e-sem-alteracoes-reforca-febraban-671455/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "DOU (via TSE/Sintse) — IN RFB 2.247, de 15/01/2025 (edição extra de 16/01/2025)",
+      "url": "https://sintse.tse.jus.br/documentos/2025/Jan/16/diario-oficial-da-uniao-secao-1-edicao-extra/secretaria-especial-da-receita-federal-do-brasil-instrucao-normativa-no-2-247-de-15-de-janeiro-de",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Portal SPED Brasil — revogação da IN 2.219",
+      "url": "https://portalspedbrasil.com.br/?p=19748",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "O Povo — Haddad: revogar ato da Receita é para que não haja justificativa para não votar a MP (15/01/2025)",
+      "url": "https://www.opovo.com.br/noticias/economia/2025/01/15/haddad-revogar-ato-da-receita-e-para-que-nao-haja-justificativa-para-nao-votar-mp.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Poder360 — Guedes diz que não desistiu do imposto sobre transações digitais (2020)",
+      "url": "https://www.poder360.com.br/economia/paulo-guedes-diz-que-nao-desistiu-do-imposto-sobre-transacoes-digitais/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Tecnoblog — Guedes defende imposto sobre Pix (2020)",
+      "url": "https://tecnoblog.net/386362/paulo-guedes-ministro-economia-defende-imposto-sobre-pix/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Jornal Opção — Receita desmente cobrança de taxas sobre o Pix e alerta para fraude (10/01/2025)",
+      "url": "https://jornalopcao.com.br/ultimas-noticias/receita-federal-desmente-cobranca-de-taxas-sobre-o-pix-e-alerta-para-fraude-670509/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Canal Rural — Receita volta a desmentir cobrança de imposto e multa de 150% (29/12/2025)",
+      "url": "https://www.canalrural.com.br/economia/fake-news-do-pix-receita-volta-a-desmentir-cobranca-de-imposto-e-suposta-multa-de-150/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Aos Fatos — desinformação para desvincular Nikolas das mentiras sobre taxação do Pix (29/08/2025)",
+      "url": "https://www.aosfatos.org/noticias/desinformacao-desvincular-nikolas-mentiras-taxacao-pix/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Aos Fatos — mentiras virais sobre Pix e agenda econômica 2025",
+      "url": "https://www.aosfatos.org/noticias/mentiras-virais-pix-agenda-economica-2025/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Ação Midiática/UFPR (2026) — artigo acadêmico sobre as checagens do caso Pix",
+      "url": "https://revistas.ufpr.br/acaomidiatica/article/view/100911",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    },
+    {
+      "nome": "InfoMoney — vídeo de Nikolas Ferreira sobre Pix viraliza; governo nega mudanças (15/01/2025)",
+      "url": "https://www.infomoney.com.br/politica/video-de-nikolas-ferreira-sobre-pix-viraliza-nas-redes-sociais-governo-nega-mudancas/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Jornal Contábil — Quaest: 67% acreditam que o governo irá taxar o Pix",
+      "url": "https://jornalcontabil.com.br/noticia/uma-pesquisa-revela-que-67-dos-brasileiros-acreditam-que-o-governo-ira-taxar-o-pix/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Folha PE — fake news sobre Pix alcançou 87% dos brasileiros (Quaest)",
+      "url": "https://www.folhape.com.br/noticias/fake-news-sobre-pix-alcancou-87-dos-brasileiros-aponta-pesquisa/385406/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Bahia Notícias — Pix tem maior queda no volume de transferências desde sua criação",
+      "url": "https://www.bahianoticias.com.br/noticia/300354-pix-tem-maior-queda-no-volume-de-transferencias-desde-sua-criacao",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Jornal de Brasília — transações por Pix diminuem em janeiro, mas dentro do esperado pelo BC",
+      "url": "https://jornaldebrasilia.com.br/noticias/economia/transacoes-por-pix-diminuem-em-janeiro-marcado-por-crise-mas-dentro-do-esperado-pelo-bc/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/12_pix_fake_news_e_impostos_quem_paga.md",
+  "lacunas": [
+    "Textos da IN 1.571/2015 e da IN 2.219/2024 não localizados no site da Receita (só fontes secundárias).",
+    "Páginas de checagem da Lupa, Comprova, Estadão Verifica e G1 não localizadas; só Aos Fatos e artigo acadêmico sobre Lupa/Aos Fatos.",
+    "Estatísticas oficiais do BCB (SPI) de jan/2025 vs dez/2024 não acessadas na fonte primária.",
+    "Não há confirmação de abertura/conclusão de inquérito da PF ou decisão do STF/PGR sobre o vídeo de Nikolas."
+  ],
+  "atualizado_em": "2026-10-21"
+}

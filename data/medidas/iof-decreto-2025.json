@@ -1,0 +1,191 @@
+{
+  "id": "iof-decreto-2025",
+  "nome": "Aumento do IOF de 2025: cartão internacional e câmbio a 3,5%, crédito a empresas e VGBL (Decretos 12.466, 12.467 e 12.499/2025)",
+  "tipo": "imposto",
+  "governo": "lula-3",
+  "lado": "governo-lula-pt",
+  "norma": {
+    "nome": "Decretos 12.466 e 12.467 (mai/2025) e 12.499/2025 (DOU extra 11/06/2025); Decreto Legislativo 176/2025 (27/06/2025) sustou os três; STF (ADI 7827, ADI 7839, ADC 96) restabeleceu o Decreto 12.499 em 16/07/2025, exceto 'risco sacado'",
+    "data": "2025-06-11",
+    "url": "https://www.demarest.com.br/majoracao-do-iof-stf-publica-decisao-cautelar-restabelecendo-a-eficacia-do-decreto-no-12-499-2025/",
+    "vigencia": "Em vigor por decisão cautelar do STF (16/07/2025), com efeito retroativo salvo no período de suspensão (04/07 a 16/07/2025); referendo do plenário não localizado"
+  },
+  "status": "em-vigor",
+  "o_que_faz_simples": [
+    "Cartões de crédito, débito e pré-pagos internacionais e compra de moeda em espécie: IOF de 3,5%.",
+    "Remessas para conta própria no exterior: 1,1%; transferência de aplicações ao exterior: 0%.",
+    "Crédito para empresas: 0,38% + 0,0082% ao dia (teto de 3,38% ao ano; antes 0,0041% ao dia); empresas do Simples com operações até R$ 30 mil: 0,00274% ao dia.",
+    "Planos VGBL: isenção para aportes até R$ 300 mil/ano em 2025 e até R$ 600 mil/ano a partir de 2026; 5% acima disso.",
+    "O IOF sobre 'risco sacado' (forfait) foi derrubado pelo STF; a Fazenda estimou perda de R$ 450 mi em 2025 e R$ 3,5 bi em 2026 com essa exclusão.",
+    "O Congresso tentou derrubar os decretos (DL 176/2025); o ministro Alexandre de Moraes suspendeu tudo em 04/07/2025 e em 16/07/2025 restabeleceu o Decreto 12.499 ad referendum do plenário. O Tesouro atribui ao IOF parte da alta da carga tributária de 2025 (32,40% do PIB, recorde).",
+    "O plano de Flávio Bolsonaro propõe extinguir gradualmente o IOF sobre câmbio, como 'exigência para entrar na OCDE'."
+  ],
+  "quem_ganha": {
+    "descricao": "A União (arrecadação federal). Não há beneficiário direto por faixa de renda.",
+    "pessoas": null,
+    "faixa_renda": "Não se aplica",
+    "fonte": {
+      "nome": "Contábeis — carga tributária atinge recorde de 32,4% do PIB em 2025",
+      "url": "https://www.contabeis.com.br/noticias/76330/carga-tributaria-do-brasil-atinge-recorde-de-32-4-do-pib-em-2025/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  },
+  "quem_paga": {
+    "descricao": "Viajantes e quem usa cartão internacional ou compra moeda (3,5%) — consumidores em geral; empresas que tomam crédito, inclusive pequenas (IOF-crédito PJ); e só o topo no caso do VGBL (aportes acima de R$ 600 mil/ano). O IOF-câmbio foi, com a 'taxa das blusinhas', uma das duas medidas do período que recaíram sobre consumidores em geral.",
+    "pessoas": null,
+    "faixa_renda": "Consumidores com gastos internacionais (todas as faixas); empresas; VGBL só acima de R$ 600 mil/ano",
+    "fonte": {
+      "nome": "PwC — IOF: alterações do Decreto 12.499/2025",
+      "url": "https://www.pwc.com.br/pt/consultoria-tributaria-societaria/thinking-about-taxes/tax-legis/2025/iof-alteracoes-decreto-federal-12499-2025.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  },
+  "custo_ou_arrecadacao": {
+    "valor": null,
+    "unidade": "R$ bilhões",
+    "periodo": null,
+    "descricao": "Arrecadação efetiva do IOF 2025 não localizada. Perda com a exclusão do risco sacado: R$ 450 mi (2025) e R$ 3,5 bi (2026), segundo a Fazenda.",
+    "fonte": {
+      "nome": "Mercado & Consumo — entenda como fica o IOF após decisão do STF (18/07/2025)",
+      "url": "https://mercadoeconsumo.com.br/18/07/2025/noticias/entenda-como-fica-o-iof-apos-decisao-de-ministro-do-stf/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  },
+  "regra_simulador": {
+    "tipo": "percentual",
+    "parametros": {
+      "cartao_internacional_e_compra_de_moeda": {
+        "aliquota_pct": 3.5,
+        "base": "valor gasto em cartão internacional ou moeda em espécie, em R$"
+      },
+      "remessa_conta_propria_exterior": {
+        "aliquota_pct": 1.1
+      },
+      "transferencia_aplicacoes_exterior": {
+        "aliquota_pct": 0
+      },
+      "credito_pj": {
+        "fixo_pct": 0.38,
+        "diario_pct": 0.0082,
+        "teto_anual_pct": 3.38
+      },
+      "simples_ate_30_mil": {
+        "diario_pct": 0.00274
+      },
+      "vgbl": {
+        "isencao_aportes_ate_por_ano": {
+          "2025": 300000,
+          "2026_em_diante": 600000
+        },
+        "aliquota_acima_pct": 5
+      },
+      "vigencia": "desde 16/07/2025 (cautelar STF), retroativo salvo 04-16/07/2025",
+      "fonte_formula": "PwC e Mercado & Consumo",
+      "fonte_formula_url": "https://www.pwc.com.br/pt/consultoria-tributaria-societaria/thinking-about-taxes/tax-legis/2025/iof-alteracoes-decreto-federal-12499-2025.html"
+    }
+  },
+  "mitos": [
+    {
+      "mito": "O Congresso derrubou o aumento do IOF e ele não vale mais.",
+      "fato": "O Decreto Legislativo 176/2025 sustou os decretos, mas o STF (Moraes, 16/07/2025) restabeleceu o Decreto 12.499/2025, exceto o IOF sobre 'risco sacado', com efeito retroativo salvo no período de suspensão. As alíquotas de 3,5% (cartão/câmbio), 1,1% (remessas) e as regras de crédito e VGBL seguem em vigor.",
+      "fontes": [
+        {
+          "nome": "Demarest — STF publica decisão cautelar restabelecendo a eficácia do Decreto 12.499/2025",
+          "url": "https://www.demarest.com.br/majoracao-do-iof-stf-publica-decisao-cautelar-restabelecendo-a-eficacia-do-decreto-no-12-499-2025/",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "Mayer Brown — IOF: preliminary injunction of STF reinstates Decree 12.499/2025",
+          "url": "https://www.mayerbrown.com/en/insights/publications/2025/07/tax-on-financial-transactions-iof-preliminary-injunction-of-stf-reinstates-decree-no-12499-2025-and-suspends-the-levy-of-tax-over-forfait-transactions",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "COAD — decisão que restabeleceu aumento do IOF não alcança período de suspensão",
+          "url": "https://www.coad.com.br/home/noticias-detalhe/132953/decisao-que-restabeleceu-aumento-do-iof-nao-alcanca-periodo-de-suspensao-esclarece-stf",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        }
+      ]
+    },
+    {
+      "mito": "O IOF de 2025 atinge só os ricos.",
+      "fato": "O IOF sobre VGBL (acima de R$ 600 mil/ano) atinge só o topo, mas a alíquota de 3,5% em cartão internacional e compra de moeda recai sobre qualquer consumidor com gastos no exterior, e o IOF-crédito recai sobre empresas, inclusive pequenas.",
+      "fontes": [
+        {
+          "nome": "PwC — IOF: alterações do Decreto 12.499/2025",
+          "url": "https://www.pwc.com.br/pt/consultoria-tributaria-societaria/thinking-about-taxes/tax-legis/2025/iof-alteracoes-decreto-federal-12499-2025.html",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "Mercado & Consumo — entenda como fica o IOF após decisão do STF (18/07/2025)",
+          "url": "https://mercadoeconsumo.com.br/18/07/2025/noticias/entenda-como-fica-o-iof-apos-decisao-de-ministro-do-stf/",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Demarest — STF publica decisão cautelar restabelecendo a eficácia do Decreto 12.499/2025",
+      "url": "https://www.demarest.com.br/majoracao-do-iof-stf-publica-decisao-cautelar-restabelecendo-a-eficacia-do-decreto-no-12-499-2025/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Mayer Brown — IOF: preliminary injunction of STF reinstates Decree 12.499/2025",
+      "url": "https://www.mayerbrown.com/en/insights/publications/2025/07/tax-on-financial-transactions-iof-preliminary-injunction-of-stf-reinstates-decree-no-12499-2025-and-suspends-the-levy-of-tax-over-forfait-transactions",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "COAD — decisão que restabeleceu aumento do IOF não alcança período de suspensão",
+      "url": "https://www.coad.com.br/home/noticias-detalhe/132953/decisao-que-restabeleceu-aumento-do-iof-nao-alcanca-periodo-de-suspensao-esclarece-stf",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "PwC — IOF: alterações do Decreto 12.499/2025",
+      "url": "https://www.pwc.com.br/pt/consultoria-tributaria-societaria/thinking-about-taxes/tax-legis/2025/iof-alteracoes-decreto-federal-12499-2025.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Mercado & Consumo — entenda como fica o IOF após decisão do STF (18/07/2025)",
+      "url": "https://mercadoeconsumo.com.br/18/07/2025/noticias/entenda-como-fica-o-iof-apos-decisao-de-ministro-do-stf/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Contábeis — carga tributária atinge recorde de 32,4% do PIB em 2025",
+      "url": "https://www.contabeis.com.br/noticias/76330/carga-tributaria-do-brasil-atinge-recorde-de-32-4-do-pib-em-2025/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Plano de Governo Flávio Bolsonaro 2026 (agregador planodegoverno2026.com.br, com link ao TSE)",
+      "url": "https://planodegoverno2026.com.br/candidatos/presidente/flavio-bolsonaro/",
+      "acesso_em": "2026-10-21",
+      "tier": "partidario"
+    },
+    {
+      "nome": "Exame — veja os planos de economia de Lula e Flávio Bolsonaro (12/10/2026)",
+      "url": "https://exame.com/brasil/eleicoes-2026-veja-os-planos-de-economia-de-lula-e-flavio-bolsonaro/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/12_pix_fake_news_e_impostos_quem_paga.md",
+  "lacunas": [
+    "Arrecadação efetiva do IOF em 2025 não localizada.",
+    "Resultado do referendo do plenário do STF sobre a cautelar de Moraes (ADC 96/ADI 7827) não localizado.",
+    "URLs oficiais dos decretos (Planalto/DOU) não constam das notas."
+  ],
+  "atualizado_em": "2026-10-21"
+}

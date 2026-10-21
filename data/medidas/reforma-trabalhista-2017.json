@@ -1,0 +1,162 @@
+{
+  "id": "reforma-trabalhista-2017",
+  "nome": "Reforma trabalhista (Lei 13.467/2017): o que os estudos mostram oito anos depois",
+  "tipo": "lei-trabalhista",
+  "governo": "temer",
+  "lado": "outro",
+  "norma": {
+    "nome": "Lei 13.467/2017 (governo Temer, apoiada por Bolsonaro)",
+    "data": null,
+    "url": "https://www.eco.unicamp.br/midia/a-reforma-trabalhista-de-nao-entregou-o-que-prometeu",
+    "vigencia": "Desde nov/2017"
+  },
+  "status": "em-vigor",
+  "o_que_faz_simples": [
+    "Flexibilizou regras da CLT (negociado sobre legislado, contrato intermitente, honorários de sucumbência, fim da contribuição sindical obrigatória, entre outras), com a promessa de gerar empregos. Aprovada no governo Temer e apoiada por Bolsonaro.",
+    "Emprego: estudo com controle sintético (ANPEC 2022) não encontrou efeito estatisticamente significativo sobre o desemprego, que foi de 11,9% (4T2017) a 11,1% (4T2019); a queda forte só veio em 2021-2026, sob outros governos. Corbi (USP), Ferreira, Narita e Souza (Insper, 2022) atribuem à regra de honorários de sucumbência redução de 1,7 p.p. no desemprego (~1,7 milhão de empregos em 2018).",
+    "Litigiosidade: ações trabalhistas novas caíram de 2,63 milhões (2017) para 1,73 milhão no 1º ano pós-reforma.",
+    "Informalidade e renda: no setor privado a informalidade subiu de 23,5% (4T2016) para 26,0% (4T2019); contratos intermitentes foram de ~7 mil (dez/2017) para 155 mil (dez/2019, 0,4% dos celetistas); rendimento real estagnado (R$ 2.843 → R$ 2.879, IE-Unicamp); Dieese: salário médio real de R$ 2.744 (2T2017) para R$ 2.652 (2T2022). Nikita Kohli (Duke/Banco Mundial): salários formais −0,9%, contratações formais −2,5%, informalidade +6,7% após 2017.",
+    "Visão oposta (CNI/MBC/FGV via Findes, 2025): efeitos positivos em produtividade, formalização e litigiosidade, com informalidade ainda em 38,3%."
+  ],
+  "quem_ganha": {
+    "descricao": "Empresas (menor litigiosidade: −34% nas ações trabalhistas no 1º ano; custos de contratação menores) e, segundo o estudo USP/Insper, trabalhadores que teriam conseguido emprego pela redução do desemprego em 1,7 p.p. Resultado contestado.",
+    "pessoas": null,
+    "faixa_renda": "Indeterminado",
+    "fonte": {
+      "nome": "Valor via Sindeprestem — Corbi (USP) e Insper: regra de honorários reduziu desemprego em 1,7 ponto (04/05/2022)",
+      "url": "https://www.sindeprestem.com.br/post/regra-da-reforma-trabalhista-reduziu-desemprego-em-1-7-ponto-diz-estudo",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  },
+  "quem_paga": {
+    "descricao": "Segundo os estudos críticos, trabalhadores formais (salários −0,9%, contratações −2,5%) e os que migraram para a informalidade (+6,7%); a parcela de emprego protegido caiu de ~51% (4T2016) para ~48% (4T2023). Resultado contestado pelo setor empresarial.",
+    "pessoas": null,
+    "faixa_renda": "Trabalhadores de baixa e média renda do setor privado",
+    "fonte": {
+      "nome": "IE-Unicamp/Le Monde Diplomatique — a reforma trabalhista não entregou o que prometeu (17/10/2024)",
+      "url": "https://www.eco.unicamp.br/midia/a-reforma-trabalhista-de-nao-entregou-o-que-prometeu",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    }
+  },
+  "custo_ou_arrecadacao": {
+    "valor": null,
+    "unidade": "R$ bilhões",
+    "periodo": null,
+    "descricao": "Sem estimativa fiscal nas notas.",
+    "fonte": {
+      "nome": "IE-Unicamp/Le Monde Diplomatique — a reforma trabalhista não entregou o que prometeu (17/10/2024)",
+      "url": "https://www.eco.unicamp.br/midia/a-reforma-trabalhista-de-nao-entregou-o-que-prometeu",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    }
+  },
+  "regra_simulador": {
+    "tipo": "nenhuma",
+    "parametros": {}
+  },
+  "mitos": [
+    {
+      "mito": "A reforma trabalhista gerou milhões de empregos.",
+      "fato": "O estudo da ANPEC (2022) não encontrou efeito estatisticamente significativo sobre o desemprego; a única estimativa positiva localizada (Corbi/USP e Insper) atribui 1,7 p.p. a um dispositivo específico (honorários de sucumbência). O desemprego ficou em 11-12% até 2019 e a queda para 5-6% ocorreu em 2021-2026, atribuída ao crescimento, não à reforma.",
+      "fontes": [
+        {
+          "nome": "ANPEC 2022 — nota técnica: efeito da reforma trabalhista sobre o desemprego (controle sintético)",
+          "url": "https://www.anpec.org.br/encontro/2022/submissao/files_I/i13-12956d6276f2328ec9d40e2b014f341d.pdf",
+          "acesso_em": "2026-10-21",
+          "tier": "academico"
+        },
+        {
+          "nome": "Valor via Sindeprestem — Corbi (USP) e Insper: regra de honorários reduziu desemprego em 1,7 ponto (04/05/2022)",
+          "url": "https://www.sindeprestem.com.br/post/regra-da-reforma-trabalhista-reduziu-desemprego-em-1-7-ponto-diz-estudo",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "IE-Unicamp/Le Monde Diplomatique — a reforma trabalhista não entregou o que prometeu (17/10/2024)",
+          "url": "https://www.eco.unicamp.br/midia/a-reforma-trabalhista-de-nao-entregou-o-que-prometeu",
+          "acesso_em": "2026-10-21",
+          "tier": "academico"
+        }
+      ]
+    },
+    {
+      "mito": "A reforma trabalhista destruiu o emprego formal.",
+      "fato": "Também não se sustenta: o desemprego caiu levemente (11,9% → 11,1% entre 4T2017 e 4T2019) e as ações trabalhistas despencaram. O que os estudos críticos mostram é aumento da informalidade (23,5% → 26,0% no privado) e renda estagnada, não destruição em massa de vagas.",
+      "fontes": [
+        {
+          "nome": "IE-Unicamp/Le Monde Diplomatique — a reforma trabalhista não entregou o que prometeu (17/10/2024)",
+          "url": "https://www.eco.unicamp.br/midia/a-reforma-trabalhista-de-nao-entregou-o-que-prometeu",
+          "acesso_em": "2026-10-21",
+          "tier": "academico"
+        },
+        {
+          "nome": "Rede Onda Digital — estudo de Nikita Kohli (Duke/Banco Mundial) sobre a reforma trabalhista",
+          "url": "https://redeondadigital.com.br/brasil/reforma-trabalhista-2017-estudo",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "Findes — Informe Estratégico: a reforma trabalhista de 2017, oito anos (nov/2025)",
+          "url": "https://findes.com.br/wp-content/uploads/2025/11/Informe-Estrategico-–-A-Reforma-Trabalhista-de-2017-Oito-anos-de-modernizacao-das-relacoes-laborais.pdf",
+          "acesso_em": "2026-10-21",
+          "tier": "partidario"
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "ANPEC 2022 — nota técnica: efeito da reforma trabalhista sobre o desemprego (controle sintético)",
+      "url": "https://www.anpec.org.br/encontro/2022/submissao/files_I/i13-12956d6276f2328ec9d40e2b014f341d.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    },
+    {
+      "nome": "Valor via Sindeprestem — Corbi (USP) e Insper: regra de honorários reduziu desemprego em 1,7 ponto (04/05/2022)",
+      "url": "https://www.sindeprestem.com.br/post/regra-da-reforma-trabalhista-reduziu-desemprego-em-1-7-ponto-diz-estudo",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "IE-Unicamp/Le Monde Diplomatique — a reforma trabalhista não entregou o que prometeu (17/10/2024)",
+      "url": "https://www.eco.unicamp.br/midia/a-reforma-trabalhista-de-nao-entregou-o-que-prometeu",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    },
+    {
+      "nome": "Le Monde Diplomatique Brasil — a reforma trabalhista de 2017 não entregou o que prometeu",
+      "url": "https://diplomatique.org.br/a-reforma-trabalhista-de-2017-nao-entregou-o-que-prometeu/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Rede Onda Digital — estudo de Nikita Kohli (Duke/Banco Mundial) sobre a reforma trabalhista",
+      "url": "https://redeondadigital.com.br/brasil/reforma-trabalhista-2017-estudo",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "IHU — Dieese: salário médio real caiu entre 2T2017 e 2T2022",
+      "url": "https://ihu.unisinos.br/623840",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Findes — Informe Estratégico: a reforma trabalhista de 2017, oito anos (nov/2025)",
+      "url": "https://findes.com.br/wp-content/uploads/2025/11/Informe-Estrategico-–-A-Reforma-Trabalhista-de-2017-Oito-anos-de-modernizacao-das-relacoes-laborais.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "partidario"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/03_emprego_renda_pobreza_social.md",
+  "notas_brutas_adicionais": [
+    "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/13_renda_por_faixa_e_simulacoes_de_impacto.md"
+  ],
+  "lacunas": [
+    "Data exata e URL oficial da Lei 13.467/2017 não constam das notas.",
+    "Estudo distributivo por faixa de renda dos efeitos da reforma não localizado."
+  ],
+  "atualizado_em": "2026-10-21"
+}

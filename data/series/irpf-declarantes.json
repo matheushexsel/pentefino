@@ -1,0 +1,65 @@
+{
+  "id": "irpf-declarantes",
+  "titulo": "Declarações do Imposto de Renda da Pessoa Física entregues por exercício",
+  "descricao_simples": "Quantas pessoas entregam a declaração anual do IR — cerca de um quarto dos adultos.",
+  "unidade": "declarações",
+  "tipo_grafico": "barra",
+  "frequencia": "anual",
+  "fonte": {
+    "nome": "Receita Federal via Poder360 e COAD — balanço do IRPF 2025",
+    "url": "https://www.poder360.com.br/poder-economia/fisco-recebe-433-mi-de-declaracoes-do-ir-abaixo-do-esperado/",
+    "acesso_em": "2026-10-21",
+    "tier": "oficial"
+  },
+  "pontos": [
+    {
+      "periodo": "2023 (ano-base 2022)",
+      "valor": 41151515
+    },
+    {
+      "periodo": "2024 (ano-base 2023)",
+      "valor": 43200000,
+      "aproximado": true,
+      "divergencia": "Receita: 43,2 mi declarações; nota técnica Dutra/Monteiro/Gobetti com dados da RFB: ~40,7 mi pessoas declararam"
+    },
+    {
+      "periodo": "2025 (ano-base 2024)",
+      "valor": 43344108
+    }
+  ],
+  "faixas_referencia": [
+    {
+      "rotulo": "Expectativa da Receita para 2025",
+      "valor": 46200000
+    },
+    {
+      "rotulo": "Declarantes SPE/Fazenda, ano-base 2022 (35,6% da PEA)",
+      "valor": 38400000
+    },
+    {
+      "rotulo": "Pessoas com imposto a pagar na declaração 2025 (22,2% × 43,3 mi; cálculo da nota)",
+      "valor": 9600000
+    },
+    {
+      "rotulo": "Contribuintes atingidos pelo IR mínimo (renda > R$ 600 mil/ano)",
+      "valor": 141400
+    }
+  ],
+  "notas_metodologicas": [
+    "IRPF 2025: 56,4% das declarações com imposto a restituir; 22,2% com imposto a pagar; 21,2% sem imposto a pagar ou restituir. Obrigatório para rendimentos tributáveis acima de R$ 33.888 em 2024 (≈2 SM/mês ficam dispensados).",
+    "Declarantes representam ~25-27% dos adultos; os demais têm renda abaixo do limite ou informal — qualquer medida de IRPF atinge diretamente só a metade superior da distribuição (inferência da nota).",
+    "Distribuição (ano-calendário 2023, Sindifisco/Unafisco): 94% dos declarantes estão nas faixas até 20 SM e detêm 52% da renda declarada (R$ 5,693 trilhões no total); os 6% acima de 20 SM detêm 48%. DIRPF 2022: 94% até 20 SM com 54,5%; 6% do topo com 45,5%.",
+    "O número total de pessoas com imposto devido > 0 está na Tabela 1 dos Grandes Números da Receita (Excel), não extraída."
+  ],
+  "lacunas": [
+    "Exercícios anteriores a 2023 não constam das notas.",
+    "Tabelas por faixa de SM dos Grandes Números (declarantes, imposto devido, alíquota efetiva) não extraídas."
+  ],
+  "ultimo_periodo": "2025 (ano-base 2024)",
+  "temas": [
+    "impostos",
+    "emprego-renda"
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/13_renda_por_faixa_e_simulacoes_de_impacto.md",
+  "atualizado_em": "2026-10-21"
+}

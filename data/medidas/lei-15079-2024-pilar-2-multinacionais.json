@@ -1,0 +1,152 @@
+{
+  "id": "lei-15079-2024-pilar-2-multinacionais",
+  "nome": "Tributação mínima de 15% para grandes multinacionais — Adicional de CSLL / Pilar 2 da OCDE (Lei 15.079/2024)",
+  "tipo": "imposto",
+  "governo": "lula-3",
+  "lado": "governo-lula-pt",
+  "norma": {
+    "nome": "Lei 15.079/2024 (origem: MP 1.262, de 03/10/2024); regulamentação do recolhimento: IN RFB 2.319/2026",
+    "data": "2024-12-27",
+    "url": "https://lefosse.com/noticias/alerta/sancionada-a-lei-15-079-que-preve-a-cobranca-de-adicional-de-csll-em-linha-com-as-medidas-de-tributacao-corporativa-minima-global-em-linha-com-o-pilar-2-da-ocde/",
+    "vigencia": "Desde 01/01/2025; primeiro recolhimento em 2026 (DCTFWeb até o 6º mês após o exercício; pagamento até o último dia útil do 7º mês; código de receita 1809)"
+  },
+  "status": "em-vigor",
+  "o_que_faz_simples": [
+    "Cria um 'Adicional de CSLL' para garantir que grandes grupos multinacionais paguem pelo menos 15% de imposto efetivo sobre o lucro no Brasil, alinhado às regras GloBE (QDMTT) do Pilar 2 da OCDE.",
+    "Só entra na regra o grupo com receita anual consolidada de €750 milhões ou mais (≈R$ 4,78-5 bi, conforme o câmbio) em pelo menos 2 dos 4 anos fiscais anteriores.",
+    "Se o grupo paga menos de 15% efetivos por causa de incentivos, a diferença é cobrada no Brasil em vez de ir para o fisco de outro país.",
+    "Não afeta pessoas físicas nem pequenas e médias empresas."
+  ],
+  "quem_ganha": {
+    "descricao": "A União (arrecadação que, sem a regra, poderia ser cobrada por outros países). Não há beneficiário direto por faixa de renda.",
+    "pessoas": null,
+    "faixa_renda": "Não se aplica",
+    "fonte": {
+      "nome": "BP Money — Adicional de CSLL deve arrecadar em torno de R$ 8 bi",
+      "url": "https://bpmoney.com.br/economia/impostos-adicional-de-csll-deve-arrecadar-em-torno-de-r-8-bi",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  },
+  "quem_paga": {
+    "descricao": "Cerca de 290 grupos multinacionais, segundo a Fazenda (≈20 brasileiros); a Receita fala em ~300 empresas. São grandes grupos com baixa alíquota efetiva no Brasil por incentivos fiscais.",
+    "pessoas": null,
+    "faixa_renda": "Não se aplica (empresas com receita consolidada ≥ €750 milhões)",
+    "fonte": {
+      "nome": "ReformaTributaria.com — Lula sanciona tributação mínima de 15% sobre lucro de multinacionais",
+      "url": "https://www.reformatributaria.com/congresso/lula-sanciona-tributacao-minima-de-15-sobre-lucro-de-multinacionais/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  },
+  "custo_ou_arrecadacao": {
+    "valor": 3.4,
+    "unidade": "R$ bilhões",
+    "periodo": "2026 (estimativa da Fazenda)",
+    "descricao": "Arrecadação estimada (Daniel Loria, Fazenda): R$ 3,4 bi em 2026, R$ 7,2 bi em 2027, R$ 7,8 bi em 2028 e ~R$ 8 bi/ano em regime. A Mensagem do PLOA 2026 cita a lei. Arrecadação efetiva de 2026 não localizada.",
+    "fonte": {
+      "nome": "BP Money — Adicional de CSLL deve arrecadar em torno de R$ 8 bi",
+      "url": "https://bpmoney.com.br/economia/impostos-adicional-de-csll-deve-arrecadar-em-torno-de-r-8-bi",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  },
+  "regra_simulador": {
+    "tipo": "nenhuma",
+    "parametros": {}
+  },
+  "mitos": [
+    {
+      "mito": "O limiar do Pilar 2 é de US$ 45 milhões de receita.",
+      "fato": "O limiar legal é de €750 milhões de receita anual consolidada em pelo menos 2 dos 4 anos anteriores (≈R$ 4,78-5 bi). O valor de 'US$ 45 milhões' não corresponde a nenhum limiar encontrado nas fontes.",
+      "fontes": [
+        {
+          "nome": "FIEMG — Regras GloBE / Pilar II (PDF, dez/2024)",
+          "url": "https://www.fiemg.com.br/wp-content/uploads/2024/12/IE-070-Regras-Globe-Pilar-II.pdf",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "Agrolink — Brasil implementa adicional de CSLL para multinacionais",
+          "url": "https://www.agrolink.com.br/noticias/brasil-implementa-adicional-de-csll-para-multinacionais_498300.html",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        }
+      ]
+    },
+    {
+      "mito": "A tributação mínima de 15% atinge empresas brasileiras em geral.",
+      "fato": "Atinge cerca de 290-300 grupos multinacionais, dos quais ≈20 são brasileiros. Pessoas físicas, PMEs e empresas fora do limiar de €750 milhões não são alcançadas.",
+      "fontes": [
+        {
+          "nome": "ReformaTributaria.com — Lula sanciona tributação mínima de 15% sobre lucro de multinacionais",
+          "url": "https://www.reformatributaria.com/congresso/lula-sanciona-tributacao-minima-de-15-sobre-lucro-de-multinacionais/",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "Contábeis — nova regra da Receita viabiliza imposto de 15% para multinacionais (IN RFB 2.319/2026)",
+          "url": "https://www.contabeis.com.br/noticias/76066/nova-regra-da-receita-viabiliza-imposto-de-15-para-multinacionais/",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Lefosse — Sancionada a Lei 15.079 (Adicional de CSLL / Pilar 2)",
+      "url": "https://lefosse.com/noticias/alerta/sancionada-a-lei-15-079-que-preve-a-cobranca-de-adicional-de-csll-em-linha-com-as-medidas-de-tributacao-corporativa-minima-global-em-linha-com-o-pilar-2-da-ocde/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Portal SPED Brasil — publicação da Lei 15.079",
+      "url": "https://portalspedbrasil.com.br/forum/beps-pilar-2-publicacao-da-lei-n-15-079/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "FIEMG — Regras GloBE / Pilar II (PDF, dez/2024)",
+      "url": "https://www.fiemg.com.br/wp-content/uploads/2024/12/IE-070-Regras-Globe-Pilar-II.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Agrolink — Brasil implementa adicional de CSLL para multinacionais",
+      "url": "https://www.agrolink.com.br/noticias/brasil-implementa-adicional-de-csll-para-multinacionais_498300.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "ReformaTributaria.com — Lula sanciona tributação mínima de 15% sobre lucro de multinacionais",
+      "url": "https://www.reformatributaria.com/congresso/lula-sanciona-tributacao-minima-de-15-sobre-lucro-de-multinacionais/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Contábeis — nova regra da Receita viabiliza imposto de 15% para multinacionais (IN RFB 2.319/2026)",
+      "url": "https://www.contabeis.com.br/noticias/76066/nova-regra-da-receita-viabiliza-imposto-de-15-para-multinacionais/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "BP Money — Adicional de CSLL deve arrecadar em torno de R$ 8 bi",
+      "url": "https://bpmoney.com.br/economia/impostos-adicional-de-csll-deve-arrecadar-em-torno-de-r-8-bi",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Mensagem Presidencial do PLOA 2026 — trecho sobre multinacionais (PDF, Poder360)",
+      "url": "https://static.poder360.com.br/2025/10/mensagem-presidencial-ploa-2026-trecho-multinacionais.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/12_pix_fake_news_e_impostos_quem_paga.md",
+  "lacunas": [
+    "Arrecadação efetiva de 2026 (primeiro ano de recolhimento) não localizada.",
+    "URL oficial do texto da lei (Planalto) não consta das notas."
+  ],
+  "atualizado_em": "2026-10-21"
+}

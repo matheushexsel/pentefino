@@ -1,0 +1,80 @@
+{
+  "id": "razao-10-40",
+  "titulo": "Razão entre a renda per capita média dos 10% mais ricos e dos 40% mais pobres",
+  "descricao_simples": "Quantas vezes a renda média por pessoa dos 10% mais ricos supera a dos 40% mais pobres.",
+  "unidade": "vezes",
+  "tipo_grafico": "linha",
+  "frequencia": "anual",
+  "fonte": {
+    "nome": "IBGE — PNAD Contínua: Rendimento de todas as fontes 2025 (Informativo, 08/05/2026)",
+    "url": "https://biblioteca.ibge.gov.br/visualizacao/livros/liv102275_informativo.pdf",
+    "acesso_em": "2026-10-21",
+    "tier": "oficial"
+  },
+  "pontos": [
+    {
+      "periodo": "2018",
+      "valor": 17.0,
+      "aproximado": true
+    },
+    {
+      "periodo": "2019",
+      "valor": 17.0,
+      "aproximado": true
+    },
+    {
+      "periodo": "2021",
+      "valor": 17.0,
+      "aproximado": true
+    },
+    {
+      "periodo": "2022",
+      "valor": 14.3
+    },
+    {
+      "periodo": "2023",
+      "valor": 14.3
+    },
+    {
+      "periodo": "2024",
+      "valor": 13.2
+    },
+    {
+      "periodo": "2025",
+      "valor": 13.8
+    }
+  ],
+  "faixas_referencia": [
+    {
+      "rotulo": "Sul, 2025 (menor)",
+      "valor": 10.0
+    },
+    {
+      "rotulo": "Centro-Oeste, 2025",
+      "valor": 13.0
+    },
+    {
+      "rotulo": "Pico 2018 na série anterior à revisão (Agência Brasil, 2025)",
+      "valor": 17.8
+    },
+    {
+      "rotulo": "2024 antes da revisão (Agência Brasil, 2025)",
+      "valor": 13.4
+    }
+  ],
+  "notas_metodologicas": [
+    "2024 (13,2) é o mínimo da série; 2025 subiu para 13,8 com o Gini passando de 0,504 para 0,511. Renda per capita média 2025: 10% mais ricos R$ 9.117; 40% mais pobres R$ 663.",
+    "Os valores de 2018, 2019 e 2021 aparecem na nota como '~17,0' (aproximados). A divulgação de 2025 (antes da revisão da série) citava pico de 17,8 em 2018 e 13,4 em 2024.",
+    "IBGE: 'A gente não nota uma tendência clara de elevação. Em 2025, teve essa leve oscilação para cima'."
+  ],
+  "lacunas": [
+    "Anos 2012-2017 e 2020 não constam da nota."
+  ],
+  "ultimo_periodo": "2025",
+  "temas": [
+    "emprego-renda",
+    "pobreza-programas-sociais"
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/13_renda_por_faixa_e_simulacoes_de_impacto.md",
+  "atualizado_em": "2026-10-21"
+}

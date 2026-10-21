@@ -1,0 +1,181 @@
+{
+  "id": "desenrola",
+  "nome": "Desenrola Brasil (2023-24) e Novo Desenrola (2026): renegociação de dívidas das famílias",
+  "tipo": "beneficio",
+  "governo": "lula-3",
+  "lado": "governo-lula-pt",
+  "norma": {
+    "nome": "Desenrola Brasil (2023-2024, duas edições); Novo Desenrola: MP 1.355/2026, publicada em 04/05/2026 (90 dias, prorrogado até 31/08/2026)",
+    "data": "2026-05-04",
+    "url": "https://www12.senado.leg.br/noticias/infomaterias/2026/05/dividas-em-recorde-assombram-as-familias-brasileiras",
+    "vigencia": "Novo Desenrola: adesão de mai/2026 a 31/08/2026 (conversão da MP em lei não localizada)"
+  },
+  "status": "caducou",
+  "status_nao_verificado": true,
+  "o_que_faz_simples": [
+    "O Novo Desenrola (2026) oferece descontos de até 90% em dívidas, juros limitados a 1,99% ao mês, Desenrola Famílias (renda até 5 salários mínimos), Desenrola Fies (até 99% de desconto), limpeza de nome para dívidas até R$ 100 e bloqueio do CPF em apostas por 12 meses para quem renegocia.",
+    "Resultados parciais (até 12/08/2026): 'quase R$ 1 bilhão renegociado' e 449 mil dívidas quitadas à vista com desconto médio de 85%; o programa de Lula cita 219 mil operações. Em 16/10/2026 o Congresso aprovou o perdão de dívidas de ~3,6 milhões de MEIs (~R$ 12,6 bi; Lupa: VERDADEIRO).",
+    "Contexto: 81,7 milhões de inadimplentes em fev/2026 (recorde; 83,9 milhões em jul-ago/2026; 63,97 milhões em dez/2021; 69,43 milhões em dez/2022), 78% deles com renda de até 2 salários mínimos (48% até 1 SM); dívida média R$ 6.598,13; 80,4%-81,6% das famílias endividadas (CNC, mar-mai/2026); inadimplência PF de 3,08% (dez/2024) para 4,20% (dez/2025) e 5,04% (ago/2026) com Selic de 14-15%; rotativo do cartão a 428-440% ao ano.",
+    "A nota classifica o quadro de crédito como o principal fato desfavorável do período Lula 3 na renda das famílias, e o Novo Desenrola e o perdão aos MEIs como respostas de ano eleitoral. O programa de Lula atribui o endividamento à Selic herdada (13,75% em out/2022)."
+  ],
+  "quem_ganha": {
+    "descricao": "Inadimplentes de baixa renda: 78% dos negativados ganham até 2 salários mínimos; Desenrola Famílias cobre renda até 5 SM. 449 mil dívidas quitadas e 219 mil operações (dados parciais).",
+    "pessoas": null,
+    "faixa_renda": "Até 5 salários mínimos (foco em até 2 SM)",
+    "fonte": {
+      "nome": "Senado Notícias — dívidas em recorde assombram as famílias brasileiras (mai/2026)",
+      "url": "https://www12.senado.leg.br/noticias/infomaterias/2026/05/dividas-em-recorde-assombram-as-familias-brasileiras",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    }
+  },
+  "quem_paga": {
+    "descricao": "Credores (bancos, varejo, concessionárias) que concedem descontos; União nos casos do Fies e de garantias — custo fiscal não quantificado nas notas.",
+    "pessoas": null,
+    "faixa_renda": "Não se aplica",
+    "fonte": {
+      "nome": "Quero Bolsa — Desenrola 2.0: o que é e quando começa (2026)",
+      "url": "https://querobolsa.com.br/revista/desenrola-2-0-o-que-e-e-quando-comeca",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  },
+  "custo_ou_arrecadacao": {
+    "valor": null,
+    "unidade": "R$ bilhões",
+    "periodo": null,
+    "descricao": "Custo fiscal e balanço consolidado do Desenrola 2023-24 e 2026 não localizados.",
+    "fonte": {
+      "nome": "Senado Notícias — dívidas em recorde assombram as famílias brasileiras (mai/2026)",
+      "url": "https://www12.senado.leg.br/noticias/infomaterias/2026/05/dividas-em-recorde-assombram-as-familias-brasileiras",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    }
+  },
+  "regra_simulador": {
+    "tipo": "nenhuma",
+    "parametros": {}
+  },
+  "mitos": [
+    {
+      "mito": "Lula herdou 78% da população endividada (jan/2023).",
+      "fato": "Lupa: FALTA CONTEXTO. Em dez/2022, 78% das famílias tinham dívidas e 30% estavam inadimplentes (Peic/CNC); a Serasa contava 69,43 milhões de negativados. Em 2026 os indicadores estão piores: 80,4%-81,6% das famílias endividadas e 81,7-83,9 milhões de negativados.",
+      "fontes": [
+        {
+          "nome": "Lupa — checagem ao vivo da entrevista de Lula na TV Globo (15/10/2026)",
+          "url": "https://www.agencialupa.org/checagem/2026/10/15/ao-vivo-checagem-da-entrevista-de-lula-na-tv-globo/",
+          "acesso_em": "2026-10-21",
+          "tier": "checagem"
+        },
+        {
+          "nome": "Serasa — Mapa da Inadimplência e renegociação de dívidas",
+          "url": "https://www.serasa.com.br/limpa-nome-online/blog/mapa-da-inadimplencia-e-renogociacao-de-dividas-no-brasil/",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "Senado Notícias — dívidas em recorde assombram as famílias brasileiras (mai/2026)",
+          "url": "https://www12.senado.leg.br/noticias/infomaterias/2026/05/dividas-em-recorde-assombram-as-familias-brasileiras",
+          "acesso_em": "2026-10-21",
+          "tier": "oficial"
+        }
+      ]
+    },
+    {
+      "mito": "O Desenrola resolveu a inadimplência.",
+      "fato": "Apesar das duas edições de 2023-24 e do Novo Desenrola de 2026, o número de negativados subiu de 71,1 milhões (dez/2023) para 81,2 milhões (dez/2025) e 83,9 milhões (jul-ago/2026); a inadimplência PF no BCB foi de 3,08% (dez/2024) para 5,04% (ago/2026).",
+      "fontes": [
+        {
+          "nome": "Serasa — Mapa da Inadimplência e renegociação de dívidas",
+          "url": "https://www.serasa.com.br/limpa-nome-online/blog/mapa-da-inadimplencia-e-renogociacao-de-dividas-no-brasil/",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "BCB/SGS 21082 — inadimplência pessoa física (API)",
+          "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.21082/dados?formato=json&dataInicial=01/01/2022",
+          "acesso_em": "2026-10-21",
+          "tier": "oficial"
+        },
+        {
+          "nome": "Jornal Grande Bahia/Serasa — inadimplência atinge 81,7 milhões (26/03/2026)",
+          "url": "https://jornalgrandebahia.com.br/2026/03/inadimplencia-no-brasil-atinge-817-milhoes-e-cresce-38-em-uma-decada-aponta-serasa/",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        }
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Senado Notícias — dívidas em recorde assombram as famílias brasileiras (mai/2026)",
+      "url": "https://www12.senado.leg.br/noticias/infomaterias/2026/05/dividas-em-recorde-assombram-as-familias-brasileiras",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Quero Bolsa — Desenrola 2.0: o que é e quando começa (2026)",
+      "url": "https://querobolsa.com.br/revista/desenrola-2-0-o-que-e-e-quando-comeca",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Viva — tag Novo Desenrola (resultados parciais até 12/08/2026)",
+      "url": "https://viva.com.br/tags/novo-desenrola",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Jornal Grande Bahia/Serasa — inadimplência atinge 81,7 milhões (26/03/2026)",
+      "url": "https://jornalgrandebahia.com.br/2026/03/inadimplencia-no-brasil-atinge-817-milhoes-e-cresce-38-em-uma-decada-aponta-serasa/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "A Crítica — Brasil chega a 83,9 milhões de inadimplentes (jul/2026)",
+      "url": "https://acritica.net/economia/brasil-chega-a-81-7-milhoes-de-inadimplentes-e-juros-altos-agravam-quadro/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Serasa — Mapa da Inadimplência e renegociação de dívidas",
+      "url": "https://www.serasa.com.br/limpa-nome-online/blog/mapa-da-inadimplencia-e-renogociacao-de-dividas-no-brasil/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "BCB/SGS 21082 — inadimplência pessoa física (API)",
+      "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.21082/dados?formato=json&dataInicial=01/01/2022",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Lupa — checagem ao vivo da entrevista de Lula na TV Globo (15/10/2026)",
+      "url": "https://www.agencialupa.org/checagem/2026/10/15/ao-vivo-checagem-da-entrevista-de-lula-na-tv-globo/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Lupa — checagem ao vivo do debate Lula x Flávio na Band (18/10/2026)",
+      "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Programa de Governo Lula 2026 (PDF, Congresso em Foco/TSE)",
+      "url": "https://static.congressoemfoco.com.br/2026/08/08/attachment/2026/08/08/32ce89_programa_governo_lula_2026.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "partidario"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/03_emprego_renda_pobreza_social.md",
+  "notas_brutas_adicionais": [
+    "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/13_renda_por_faixa_e_simulacoes_de_impacto.md"
+  ],
+  "lacunas": [
+    "Status após 31/08/2026 (conversão da MP 1.355/2026 em lei ou caducidade) não localizado; status 'caducou' refere-se ao fim do prazo de adesão e não foi verificado.",
+    "Balanço consolidado do Desenrola I/II (2023-24) e do Novo Desenrola 2026 não obtidos (Dieese Síntese 23 exige login).",
+    "Custo fiscal do programa não localizado."
+  ],
+  "atualizado_em": "2026-10-21"
+}

@@ -1,0 +1,86 @@
+{
+  "id": "ipi-reducao-35-2022",
+  "nome": "Redução de 25% e depois 35% do IPI em ano eleitoral (Decretos 10.979 e 11.055/2022)",
+  "tipo": "imposto",
+  "governo": "bolsonaro",
+  "lado": "oposicao-flavio-pl",
+  "norma": {
+    "nome": "Decreto 10.979/2022 (fev/2022, −25%); Decreto 11.055/2022 (publicado 29/04/2022, vigência 01/05/2022, −35%)",
+    "data": "2022-04-29",
+    "url": "https://www.mattosfilho.com.br/unico/governo-aliquotas-ipi/",
+    "vigencia": "Desde 01/05/2022; status atual (manutenção/alteração após 2022) não consta das notas"
+  },
+  "status": "em-vigor",
+  "status_nao_verificado": true,
+  "o_que_faz_simples": [
+    "Em fevereiro de 2022 o governo Bolsonaro cortou em 25% as alíquotas do IPI (Decreto 10.979); em maio ampliou o corte para 35% (Decreto 11.055), com exceções: produtos da Zona Franca de Manaus (25%) e automóveis (18,5%).",
+    "Custo estimado: R$ 15,2 bi em 2022, R$ 27,3 bi em 2023 e R$ 29,3 bi em 2024.",
+    "Foi parte de um pacote de cortes de tributos em ano eleitoral, junto com a desoneração de combustíveis (LC 192 e 194/2022), o teto do ICMS e a redução de 10% da TEC do Mercosul."
+  ],
+  "quem_ganha": {
+    "descricao": "Consumidores de bens industrializados (eletrodomésticos, eletrônicos etc.) e a indústria. Em valor absoluto, ganha mais quem gasta mais com esses bens (inferência da nota).",
+    "pessoas": null,
+    "faixa_renda": "Consumidores em geral; ganho absoluto maior nas faixas de maior consumo",
+    "fonte": {
+      "nome": "Mattos Filho — governo altera alíquotas do IPI (2022)",
+      "url": "https://www.mattosfilho.com.br/unico/governo-aliquotas-ipi/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  },
+  "quem_paga": {
+    "descricao": "União (renúncia de R$ 15,2 bi em 2022) e, indiretamente, estados e municípios que recebem parte do IPI via fundos de participação (não quantificado nas notas).",
+    "pessoas": null,
+    "faixa_renda": "Não se aplica (Tesouro)",
+    "fonte": {
+      "nome": "Mattos Filho — governo altera alíquotas do IPI (2022)",
+      "url": "https://www.mattosfilho.com.br/unico/governo-aliquotas-ipi/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  },
+  "custo_ou_arrecadacao": {
+    "valor": 15.2,
+    "unidade": "R$ bilhões",
+    "periodo": "2022 (renúncia estimada)",
+    "descricao": "R$ 15,2 bi (2022), R$ 27,3 bi (2023) e R$ 29,3 bi (2024), estimativas da época.",
+    "fonte": {
+      "nome": "Mattos Filho — governo altera alíquotas do IPI (2022)",
+      "url": "https://www.mattosfilho.com.br/unico/governo-aliquotas-ipi/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  },
+  "regra_simulador": {
+    "tipo": "nenhuma",
+    "parametros": {}
+  },
+  "mitos": [],
+  "fontes": [
+    {
+      "nome": "Mattos Filho — governo altera alíquotas do IPI (2022)",
+      "url": "https://www.mattosfilho.com.br/unico/governo-aliquotas-ipi/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "CBIC — governo federal amplia redução do IPI para 35% a partir de maio (2022)",
+      "url": "https://cbic.org.br/governo-federal-amplia-reducao-do-ipi-para-35-a-partir-de-maio/",
+      "acesso_em": "2026-10-21",
+      "tier": "partidario"
+    },
+    {
+      "nome": "Jornal Contábil — redução nas alíquotas de IPI de 25% para até 35%",
+      "url": "https://jornalcontabil.com.br/noticia/reducao-nas-aliquotas-de-ipi-de-25-para-ate-35-medida-ja-esta-valendo/amp/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/12_pix_fake_news_e_impostos_quem_paga.md",
+  "lacunas": [
+    "Status atual do corte do IPI (manutenção ou reversão após 2022) não consta das notas; status 'em-vigor' não verificado.",
+    "Efeito sobre preços e distribuição por faixa de renda não localizado.",
+    "URLs oficiais dos decretos não constam das notas."
+  ],
+  "atualizado_em": "2026-10-21"
+}
