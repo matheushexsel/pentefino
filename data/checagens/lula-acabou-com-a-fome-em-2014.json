@@ -134,6 +134,22 @@
         "tier": "imprensa"
       },
       "comparacao": null
+    },
+    {
+      "rotulo": "Pobreza (US$ 6,85/dia, IBGE SIS 2025)",
+      "valor": 30.88,
+      "unidade": "% da população",
+      "periodo": "2014",
+      "fonte": {
+        "nome": "IBGE – Síntese de Indicadores Sociais 2025, Tabelas de distribuição de renda (xls, FTP)",
+        "url": "https://ftp.ibge.gov.br/Indicadores_Sociais/Sintese_de_Indicadores_Sociais/Sintese_de_Indicadores_Sociais_2025/Tabelas/xls/2_Distribuicao_Renda_xls.zip",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "2012",
+        "valor": 34.73
+      }
     }
   ],
   "series": [
@@ -153,6 +169,12 @@
       "veredito_original": "VERDADEIRO para 'criamos o Fome Zero' (30/01/2003)",
       "url": "https://www.agencialupa.org/checagem/2026/10/01/ao-vivo-checagem-da-entrevista-de-lula-no-flow/",
       "data": "2026-10-01"
+    },
+    {
+      "veiculo": "Lupa",
+      "veredito_original": "FALTA CONTEXTO para 'já vencemos a fome uma vez, tivemos que vencer outra vez'",
+      "url": "https://www.agencialupa.org/checagem/2026/10/04/apos-confirmacao-do-2o-turno-lula-erra-sobre-superavit-e-flavio-sobre-reeleicao-e-endividamento/",
+      "data": "2026-10-04"
     }
   ],
   "fontes": [
@@ -185,6 +207,12 @@
       "url": "https://brasil.un.org/pt-br/299851-artigo-brasil-voltou-sair-do-mapa-da-fome",
       "acesso_em": "2026-10-21",
       "tier": "multilateral"
+    },
+    {
+      "nome": "IBGE – Síntese de Indicadores Sociais 2025, Tabelas de distribuição de renda (xls, FTP)",
+      "url": "https://ftp.ibge.gov.br/Indicadores_Sociais/Sintese_de_Indicadores_Sociais/Sintese_de_Indicadores_Sociais_2025/Tabelas/xls/2_Distribuicao_Renda_xls.zip",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/03_emprego_renda_pobreza_social.md",
@@ -212,6 +240,10 @@
     {
       "data": "2026-10-21",
       "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "enriquecimento rodada 2: Lupa 04/10; pobreza IBGE 2014 na série oficial"
     }
   ],
   "exemplo": false

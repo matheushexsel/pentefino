@@ -4,15 +4,19 @@
   "evento_id": "debate-band-2turno-2026-10-18",
   "candidato": "flavio-bolsonaro",
   "lado": "oposicao-flavio-pl",
-  "minuto": null,
-  "frase_literal": "O Careca do INSS era do governo Lula.",
-  "literal": false,
+  "minuto": "≈18 min após a abertura; stream 04:32:3x (≈20h33)",
+  "url_trecho": "https://www.youtube.com/watch?v=Gqc1rQtzWUk&t=16355s",
+  "frase_literal": "O careca do INSS foi do seu governo.",
+  "literal": true,
+  "variantes_literais": [
+    "Paráfrase anterior (Aos Fatos): 'O Careca do INSS era do governo Lula'."
+  ],
   "tema": "corrupcao",
   "veredito": "falso",
   "resumo_uma_frase": "Antônio Carlos Camilo Antunes, o 'Careca do INSS', é empresário/lobista, não integrante do governo.",
   "explicacao_simples": [
-    "Flávio Bolsonaro, no debate da Band (18/10/2026), afirmou (em paráfrase registrada por Aos Fatos) que o Careca do INSS era do governo Lula.",
-    "Aos Fatos: falso.",
+    "Flávio Bolsonaro, no debate da Band (18/10/2026), disse: “O careca do INSS foi do seu governo”.",
+    "Aos Fatos: falso. Literal pela legenda automática (04:32:3x ≈20h33): 'O careca do INSS foi do seu governo. Inclusive ele pagou coisa para o seu filho'.",
     "O dado central não corresponde aos registros disponíveis; por isso a frase é classificada como falsa."
   ],
   "o_que_e_verdade": [],
@@ -20,6 +24,7 @@
     "Não há vínculo de cargo com o governo."
   ],
   "numeros": [],
+  "fontes_primarias": [],
   "base_legal": [],
   "checagens_externas": [
     {
@@ -40,5 +45,15 @@
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
-  "atualizado_em": "2026-10-21"
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "rodada 2: minutagem, link com timestamp e/ou literal conferido na legenda automática da live da Band"
+    }
+  ]
 }

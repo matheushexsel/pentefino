@@ -35,7 +35,8 @@
   "explicacao_completa_md": "## Os dados\n\n- Massa de rendimento real habitual (SIDRA 6392): R$ 371,092 bilhões no trimestre até fev/2026 ('maior da série', usado pela Lupa) e R$ 385,566 bilhões em jun-ago/2026 (+4,8% em um ano).\n- Média anual de 2025: R$ 361,7 bilhões (+7,5%, +R$ 25,4 bilhões sobre 2024).\n- Rendimento médio real habitual: R$ 3.560 na média de 2025; R$ 3.777 em jun-ago/2026; pico de R$ 3.804 em jan-mar/2026.\n- O rendimento médio só superou de forma consistente o nível de 2014 (R$ 3.341 no 4T) a partir de 2023; sob Temer e Bolsonaro ficou estagnado ou abaixo.\n\n## Ressalva\n\nA série começa em 2012. Além disso, a renda recorde convive com endividamento e inadimplência também recordes (81,6% das famílias endividadas em mai/2026; 83,9 milhões de negativados em ago/2026).",
   "o_que_e_verdade": [
     "A massa de rendimentos (R$ 371,1 bilhões até fev/2026; R$ 385,6 bilhões até ago/2026) e o rendimento médio (R$ 3.777) são recordes da PNAD Contínua.",
-    "A massa cresceu 7,5% em 2025 e 4,8% em 12 meses até ago/2026."
+    "A massa cresceu 7,5% em 2025 e 4,8% em 12 meses até ago/2026.",
+    "Pela série trimestral do IBGE, a massa só superou o nível de 2014 em 2022 e o de 2019 em 2023."
   ],
   "o_que_nao_se_sustenta": [
     "'História' significa 'desde 2012', início da PNAD Contínua.",
@@ -135,6 +136,38 @@
         "rotulo": "4T2022",
         "valor": 3310
       }
+    },
+    {
+      "rotulo": "Massa de rendimento real habitual, trimestre out-dez (SIDRA 6392)",
+      "valor": 380.7,
+      "unidade": "R$ bilhões",
+      "periodo": "4T2025",
+      "fonte": {
+        "nome": "IBGE – SIDRA tabela 6392 (massa de rendimento real habitual)",
+        "url": "https://apisidra.ibge.gov.br/values/t/6392/n1/all/v/all/p/last%206",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "4T2014",
+        "valor": 299.8
+      }
+    },
+    {
+      "rotulo": "Massa de rendimento real habitual, trimestre out-dez (SIDRA 6392)",
+      "valor": 308.7,
+      "unidade": "R$ bilhões",
+      "periodo": "4T2019",
+      "fonte": {
+        "nome": "IBGE – SIDRA tabela 6392 (massa de rendimento real habitual)",
+        "url": "https://apisidra.ibge.gov.br/values/t/6392/n1/all/v/all/p/last%206",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "4T2022",
+        "valor": 318.0
+      }
     }
   ],
   "series": [
@@ -203,13 +236,17 @@
     "salario-minimo-compra-2-2-cestas-basicas"
   ],
   "lacunas": [
-    "Conferir no SIDRA qual deflator cada variável usa antes de publicar; a tabela 5436 traz mais de uma variante de deflacionamento."
+    "A média anual de 2025 difere conforme a construção: R$ 361,7 bilhões (Retrospectiva, banco anual) e R$ 368,9 bilhões (média dos trimestres móveis da tabela 6392, a preços do último mês); não misturar as duas séries."
   ],
   "atualizado_em": "2026-10-21",
   "changelog": [
     {
       "data": "2026-10-21",
       "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "enriquecimento rodada 2: série trimestral out-dez da massa (6392), ressalva Retrospectiva x 6392"
     }
   ],
   "exemplo": false

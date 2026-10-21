@@ -5,8 +5,10 @@
   "candidato": "flavio-bolsonaro",
   "lado": "oposicao-flavio-pl",
   "minuto": null,
+  "url_trecho": null,
   "frase_literal": "[No governo Lula] recorde de brasileiros endividados.",
   "literal": true,
+  "variantes_literais": [],
   "tema": "economia",
   "veredito": "falta-contexto",
   "resumo_uma_frase": "Inadimplentes passaram de 70,09 milhões (43,13%) em jan/2023 para 83,9 milhões (51,06%) em ago/2026, mas a alta vem desde 2020.",
@@ -36,7 +38,23 @@
       "comparacao": {
         "rotulo": "jan/2023",
         "valor": 70.09
+      },
+      "fonte_primaria": {
+        "nome": "Serasa — Mapa da Inadimplência",
+        "url": "https://www.serasa.com.br/limpa-nome-online/blog/mapa-da-inadimplencia-e-renogociacao-de-dividas-no-brasil/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa",
+        "acessada_na_rodada_2": true
       }
+    }
+  ],
+  "fontes_primarias": [
+    {
+      "nome": "Serasa — Mapa da Inadimplência",
+      "url": "https://www.serasa.com.br/limpa-nome-online/blog/mapa-da-inadimplencia-e-renogociacao-de-dividas-no-brasil/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa",
+      "acessada_na_rodada_2": true
     }
   ],
   "base_legal": [],
@@ -59,5 +77,11 @@
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
-  "atualizado_em": "2026-10-21"
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ]
 }

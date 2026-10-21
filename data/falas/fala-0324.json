@@ -5,8 +5,10 @@
   "candidato": "lula",
   "lado": "governo-lula-pt",
   "minuto": null,
+  "url_trecho": null,
   "frase_literal": "Flávio é um miliciano.",
   "literal": false,
+  "variantes_literais": [],
   "tema": "seguranca",
   "veredito": "insustentavel",
   "resumo_uma_frase": "Não há denúncia nem condenação de Flávio por milícia.",
@@ -22,6 +24,7 @@
     "Sem denúncia ou condenação por milícia."
   ],
   "numeros": [],
+  "fontes_primarias": [],
   "base_legal": [],
   "checagens_externas": [
     {
@@ -39,8 +42,23 @@
       "url": "https://gazetadoparana.com.br/publico/lula-no-sbt-checagem-confirma-reajuste-do-bolsa-familia-mas-encontra-lacunas-em-acusacoes-sobre-vorcaro-e-promessas-de-seguranca",
       "acesso_em": "2026-10-21",
       "tier": "imprensa"
+    },
+    {
+      "nome": "Band Jornalismo (YouTube) — live integral do debate, legendas automáticas",
+      "url": "https://www.youtube.com/watch?v=Gqc1rQtzWUk",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
-  "atualizado_em": "2026-10-21"
+  "atualizado_em": "2026-10-21",
+  "lacunas": [
+    "Ocorrência anterior: no debate da Band (18/10, 04:41:24 do stream ≈20h41) Lula disse 'Quero distância. Eu com miliciano?' — primeira ocorrência pública da palavra na campanha contra Flávio; repetida em Porto Alegre e no SBT em 19/10."
+  ],
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ]
 }

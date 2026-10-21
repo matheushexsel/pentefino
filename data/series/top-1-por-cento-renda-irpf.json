@@ -1,0 +1,230 @@
+{
+  "id": "top-1-por-cento-renda-irpf",
+  "titulo": "Fatia do 1% mais rico na renda disponível das famílias (IRPF + Contas Nacionais), 2006-2023",
+  "descricao_simples": "Quanto da renda disponível bruta das famílias fica com o 1% mais rico, segundo os dados do Imposto de Renda — que captam o topo melhor do que a PNAD.",
+  "unidade": "% da renda disponível bruta das famílias",
+  "tipo_grafico": "linha",
+  "frequencia": "anual",
+  "fonte": {
+    "nome": "Dutra, Monteiro e Gobetti — 'Concentração de renda no Brasil: o que os dados do IRPF revelam' (FiscalData, 14/08/2025), Tabelas 2, 3, A1 e A2",
+    "url": "https://static.poder360.com.br/2025/08/Concentracao-de-renda-no-Brasil-o-que-os-dados-do-IRPF-revelam-14-ago-2025.pdf",
+    "acesso_em": "2026-10-21",
+    "tier": "academico"
+  },
+  "pontos": [
+    {
+      "periodo": "2006",
+      "valor": 18.6,
+      "base": "RB2",
+      "rdb_milhoes": 1546184,
+      "renda_1pct_rb2_milhoes": 286930,
+      "pct_1_rb2": 18.6,
+      "pct_0_1_rb2": 8.1
+    },
+    {
+      "periodo": "2007",
+      "valor": 19.9,
+      "base": "RB2",
+      "rdb_milhoes": 1737958,
+      "renda_1pct_rb2_milhoes": 345880,
+      "pct_1_rb2": 19.9,
+      "pct_0_1_rb2": 9.5
+    },
+    {
+      "periodo": "2008",
+      "valor": 21.6,
+      "base": "RB2",
+      "rdb_milhoes": 1969034,
+      "renda_1pct_rb2_milhoes": 425552,
+      "pct_1_rb2": 21.6,
+      "pct_0_1_rb2": 10.5
+    },
+    {
+      "periodo": "2009",
+      "valor": 19.9,
+      "base": "RB2",
+      "rdb_milhoes": 2202388,
+      "renda_1pct_rb2_milhoes": 439350,
+      "pct_1_rb2": 19.9,
+      "pct_0_1_rb2": 9.0
+    },
+    {
+      "periodo": "2010",
+      "valor": 20.6,
+      "base": "RB2",
+      "rdb_milhoes": 2492302,
+      "renda_1pct_rb2_milhoes": 514222,
+      "pct_1_rb2": 20.6,
+      "pct_0_1_rb2": 9.7
+    },
+    {
+      "periodo": "2011",
+      "valor": 21.8,
+      "base": "RB2",
+      "rdb_milhoes": 2828939,
+      "renda_1pct_rb2_milhoes": 615365,
+      "pct_1_rb2": 21.8,
+      "pct_0_1_rb2": 10.6
+    },
+    {
+      "periodo": "2012",
+      "valor": 20.5,
+      "base": "RB2",
+      "rdb_milhoes": 3161213,
+      "renda_1pct_rb2_milhoes": 649415,
+      "pct_1_rb2": 20.5,
+      "pct_0_1_rb2": 9.6
+    },
+    {
+      "periodo": "2013",
+      "valor": 19.9,
+      "base": "RB2",
+      "rdb_milhoes": 3550416,
+      "renda_1pct_rb2_milhoes": 705781,
+      "pct_1_rb2": 19.9,
+      "pct_0_1_rb2": 9.1
+    },
+    {
+      "periodo": "2014",
+      "valor": 21.8,
+      "base": "RB2",
+      "rdb_milhoes": 3898396,
+      "renda_1pct_rb2_milhoes": 849512,
+      "pct_1_rb2": 21.8,
+      "pct_0_1_rb2": 11.2
+    },
+    {
+      "periodo": "2015",
+      "valor": 20.4,
+      "base": "RB2",
+      "rdb_milhoes": 4148220,
+      "renda_1pct_rb2_milhoes": 846802,
+      "pct_1_rb2": 20.4,
+      "pct_0_1_rb2": 9.6
+    },
+    {
+      "periodo": "2016",
+      "valor": 19.9,
+      "base": "RB2",
+      "rdb_milhoes": 4404397,
+      "renda_1pct_rb2_milhoes": 875795,
+      "pct_1_rb2": 19.9,
+      "pct_0_1_rb2": 9.2
+    },
+    {
+      "periodo": "2017",
+      "valor": 20.4,
+      "base": "RB4",
+      "rdb_milhoes": 4704231,
+      "renda_1pct_rb2_milhoes": 912513,
+      "renda_1pct_rb4_milhoes": 958920,
+      "pct_1_rb2": 19.4,
+      "pct_1_rb4": 20.4,
+      "pct_0_1_rb2": 8.8,
+      "pct_0_1_rb4": 9.1
+    },
+    {
+      "periodo": "2018",
+      "valor": 21.8,
+      "base": "RB4",
+      "rdb_milhoes": 4918180,
+      "renda_1pct_rb2_milhoes": 957061,
+      "renda_1pct_rb4_milhoes": 1074265,
+      "pct_1_rb2": 19.5,
+      "pct_1_rb4": 21.8,
+      "pct_0_1_rb2": 9.0,
+      "pct_0_1_rb4": 10.7
+    },
+    {
+      "periodo": "2019",
+      "valor": 21.3,
+      "base": "RB4",
+      "rdb_milhoes": 5236490,
+      "renda_1pct_rb2_milhoes": 1038106,
+      "renda_1pct_rb4_milhoes": 1114779,
+      "pct_1_rb2": 19.8,
+      "pct_1_rb4": 21.3,
+      "pct_0_1_rb2": 9.2,
+      "pct_0_1_rb4": 10.0
+    },
+    {
+      "periodo": "2020",
+      "valor": 21.1,
+      "base": "RB4",
+      "rdb_milhoes": 5625181,
+      "renda_1pct_rb2_milhoes": 1084128,
+      "renda_1pct_rb4_milhoes": 1186101,
+      "pct_1_rb2": 19.3,
+      "pct_1_rb4": 21.1,
+      "pct_0_1_rb2": 9.7,
+      "pct_0_1_rb4": 10.2
+    },
+    {
+      "periodo": "2021",
+      "valor": 25.2,
+      "base": "RB4",
+      "rdb_milhoes": 5937056,
+      "renda_1pct_rb2_milhoes": 1465749,
+      "renda_1pct_rb4_milhoes": 1496579,
+      "pct_1_rb2": 24.7,
+      "pct_1_rb4": 25.2,
+      "pct_0_1_rb2": 13.7,
+      "pct_0_1_rb4": 13.1
+    },
+    {
+      "periodo": "2022",
+      "valor": 24.0,
+      "base": "RB4",
+      "rdb_milhoes": 6860933,
+      "renda_1pct_rb4_milhoes": 1649432,
+      "pct_1_rb4": 24.0,
+      "pct_0_1_rb4": 12.1
+    },
+    {
+      "periodo": "2023",
+      "valor": 24.3,
+      "base": "RB4",
+      "rdb_milhoes": 7653139,
+      "renda_1pct_rb4_milhoes": 1861398,
+      "pct_1_rb4": 24.3,
+      "pct_0_1_rb4": 12.5
+    }
+  ],
+  "faixas_referencia": [
+    {
+      "rotulo": "1% mais rico na PNAD 2025 (massa per capita)",
+      "valor": 11.0
+    },
+    {
+      "rotulo": "1% dos declarantes na renda declarada 2023 (SPE)",
+      "valor": 24.5
+    },
+    {
+      "rotulo": "Limiar do 1% em 2023 (renda anual, R$)",
+      "valor": 1700000
+    },
+    {
+      "rotulo": "Pessoas no 1% em 2023",
+      "valor": 1601786
+    }
+  ],
+  "notas_metodologicas": [
+    "Dutra, Monteiro e Gobetti (FiscalData, 14/08/2025), Tabela 2 e Gráfico 2; participação na RDB calculada pela nota (renda do estrato ÷ RDB). Duas bases: RB2 (2006-2021) e RB4 (2017-2023, mais abrangente, 5% a 10% maior); o 'valor' usa RB4 quando disponível e RB2 antes de 2017 — não comparar diretamente as duas bases. Renda líquida apenas de IR e contribuição previdenciária.",
+    "Autores: participação do 1% 'oscilando em torno de 21% da RDB' de 2006 a 2020 e 'mudança de patamar, da ordem de 3 a 4 pontos percentuais para cima' a partir da pandemia; 2017→2023 (RB4): 20,4% → 24,3%; decomposição do ganho de 3,9 p.p.: dividendos e JCP +3,4 p.p. (87,1%), outras rendas de capital +1,2 p.p., salários e benefícios −1,6 p.p.; 0,1%: 9,1% → 12,5%, com 66,1% do ganho vindo de dividendos e JCP.",
+    "Limiares de 2023: 1% = renda anual > R$ 1,7 milhão (≈R$ 140 mil/mês); 1.601.786 pessoas, renda média de R$ 1.158.580/ano (população adulta 160.178.633); SP concentra 569.168 (35,5%), RJ 179.524, MG 146.214, RS 112.132, PR 104.521; no DF 2,86% dos adultos estão no 1% nacional, no Maranhão 0,21%. Renda total declarada em 2023: R$ 5,62 trilhões por 40.670.592 declarantes.",
+    "Ipea (Gobetti, 2024, IRPF 2022): 1% = 1,54 mi adultos com renda ≥ R$ 389,9 mil/ano e 23,6% da renda (~70% dos rendimentos do capital); 0,1% = 153,7 mil (≥ R$ 1,62 mi) com 11,9%; 0,01% = 15,4 mi (≥ R$ 8,95 mi) com 5,8%; concentração do 1% subiu de 20,4% (2017) para 23,7% (2022)."
+  ],
+  "lacunas": [
+    "Anos anteriores a 2006 não constam da nota; 2022-2023 só na base RB4."
+  ],
+  "ultimo_periodo": "2023",
+  "temas": [
+    "emprego-renda",
+    "impostos"
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/13_renda_por_faixa_e_simulacoes_de_impacto.md",
+  "notas_brutas_adicionais": [
+    "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/12_pix_fake_news_e_impostos_quem_paga.md"
+  ],
+  "atualizado_em": "2026-10-21"
+}

@@ -5,8 +5,10 @@
   "candidato": "flavio-bolsonaro",
   "lado": "oposicao-flavio-pl",
   "minuto": null,
+  "url_trecho": null,
   "frase_literal": "Porque ele vetou a saidinha, a gente teve que derrubar no Congresso Nacional.",
   "literal": true,
+  "variantes_literais": [],
   "tema": "seguranca",
   "veredito": "verdadeiro",
   "resumo_uma_frase": "Lula vetou parcialmente a lei da saidinha e o Congresso derrubou o veto em 28/5/2024.",
@@ -20,6 +22,7 @@
   ],
   "o_que_nao_se_sustenta": [],
   "numeros": [],
+  "fontes_primarias": [],
   "base_legal": [
     {
       "norma": "Lei 14.843/2024",
@@ -46,5 +49,11 @@
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
-  "atualizado_em": "2026-10-21"
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ]
 }

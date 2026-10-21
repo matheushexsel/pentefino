@@ -1,0 +1,136 @@
+{
+  "id": "chk-2110",
+  "slug": "flavio-votou-contra-o-arcabouco",
+  "frase": "Flávio Bolsonaro votou contra o arcabouço fiscal.",
+  "frase_normalizada": "flavio bolsonaro votou contra o arcabouco fiscal",
+  "variantes": [
+    "Flávio foi contra a regra fiscal do governo Lula"
+  ],
+  "autor": {
+    "nome": "frase que circula nas redes",
+    "partido": null,
+    "cargo": null
+  },
+  "lado": "ambos",
+  "alvo": {
+    "nome": "Flávio Bolsonaro",
+    "partido": "PL"
+  },
+  "data": "2023-06-21",
+  "onde": "Senado Federal (votação do PLP 93/2023)",
+  "url_declaracao": "https://legis.senado.leg.br/dadosabertos/plenario/lista/votacao/20230621.json",
+  "temas": [
+    "contas-publicas",
+    "eleicao-2026"
+  ],
+  "tags": [
+    "contas-publicas",
+    "eleicao-2026"
+  ],
+  "veredito": "verdadeiro",
+  "resumo_uma_frase": "Verdadeiro: na votação do texto-base do arcabouço fiscal (PLP 93/2023) no Senado, em 21/06/2023, Flávio Bolsonaro votou NÃO; o projeto foi aprovado por 57 a 17, com todos os destaques rejeitados, segundo a lista nominal da API do Senado e o Congresso em Foco.",
+  "explicacao_simples": [
+    "O arcabouço fiscal, regra que limita o crescimento dos gastos federais, passou no Senado em 21 de junho de 2023 por 57 votos a 17.",
+    "Flávio Bolsonaro votou NÃO ao texto-base e apoiou duas emendas que acabaram rejeitadas.",
+    "O programa dele em 2026 não propõe acabar com a regra, mas revisá-la, segundo a coordenadora econômica Daniella Marques."
+  ],
+  "explicacao_completa_md": "**O voto:** a lista nominal do Plenário do Senado de 21/06/2023 registra 57 Sim x 17 Não no texto-base 'nos termos do parecer, ressalvados os destaques' (mais 2 presentes sem voto, 1 em missão, 3 de licença e o presidente), com Flávio Bolsonaro votando NÃO; nas emendas destacadas votou SIM às 83 e 89 e NÃO à 101, todas rejeitadas. A base do Senado grafa a votação como 'PLP nº 39, de 2023', com o mesmo código de sessão das emendas ao PLP 93 — tratado pela nota 09 como erro de digitação. A imprensa confirmou o placar ('57 votos favoráveis, contra 17') e o Congresso em Foco listou 'Flávio Bolsonaro, PL, NÃO'. **A regra:** em vigor desde ago/2023, faz a despesa crescer entre 0,6% e 2,5% reais por ano, limitada a 70% do crescimento da receita. **Hoje:** o plano econômico de Flávio, segundo Daniella Marques, prevê Conselho Superior de Governança Fiscal, 'revisão do arcabouço' e corte de 1,5% do PIB.",
+  "o_que_e_verdade": [
+    "Flávio votou NÃO ao texto-base do arcabouço fiscal em 21/06/2023 (aprovado por 57 a 17)."
+  ],
+  "o_que_nao_se_sustenta": [
+    "Ler o voto como rejeição a qualquer regra fiscal: a campanha de Flávio fala em 'revisão do arcabouço', não em abandoná-lo."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Flávio Bolsonaro (senador)",
+      "papel": "votou NÃO ao texto-base em 21/06/2023",
+      "peso": "alto"
+    },
+    {
+      "ator": "Senado Federal",
+      "papel": "aprovou o PLP 93/2023 por 57 a 17",
+      "peso": "medio"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Placar do texto-base do arcabouço fiscal no Senado",
+      "valor": 57,
+      "unidade": "votos a 17",
+      "periodo": "21/06/2023",
+      "fonte": {
+        "nome": "Senado, dados abertos — lista de votação de 21/06/2023",
+        "url": "https://legis.senado.leg.br/dadosabertos/plenario/lista/votacao/20230621.json",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": null
+    }
+  ],
+  "series": [],
+  "checagens_externas": [],
+  "fontes": [
+    {
+      "nome": "Senado, dados abertos — lista de votação de 21/06/2023",
+      "url": "https://legis.senado.leg.br/dadosabertos/plenario/lista/votacao/20230621.json",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Congresso em Foco, 21/06/2023 (como votou cada senador)",
+      "url": "https://www.congressoemfoco.com.br/noticia/9640/arcabouco-fiscal-veja-como-votou-cada-senador",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Diário do Nordeste, 21/06/2023 (57 a 17)",
+      "url": "https://diariodonordeste.verdesmares.com.br/pontopoder/senado-aprova-texto-base-do-arcabouco-fiscal-por-57-votos-a-17-1.3383894",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Senado, dados abertos — votações nominais do senador 5894 (matérias de 2023)",
+      "url": "https://legis.senado.leg.br/dadosabertos/senador/5894/votacoes.json?ano=2023",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Nota 08 deste projeto (programas)",
+      "url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/08_eleicao_2026_cenario_checagens.md",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/09_acusacoes_e_falas_flavio_x_lula.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "Como Flávio votou no arcabouço?",
+      "resposta": "NÃO ao texto-base, em 21/06/2023; o projeto passou por 57 a 17."
+    },
+    {
+      "pergunta": "O que é o arcabouço?",
+      "resposta": "A regra fiscal do governo Lula, em vigor desde agosto de 2023: a despesa cresce entre 0,6% e 2,5% reais, limitada a 70% do crescimento da receita."
+    },
+    {
+      "pergunta": "Ele quer acabar com a regra?",
+      "resposta": "O plano apresentado por Daniella Marques fala em revisar o arcabouço, criar um conselho de governança fiscal e cortar 1,5% do PIB."
+    }
+  ],
+  "relacionadas": [
+    "flavio-votou-contra-a-reforma-tributaria",
+    "flavio-votou-contra-a-isencao-do-ir",
+    "lula-aprovou-99-por-cento-do-que-mandou"
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação (enriquecimento rodada 2, 21/10/2026)"
+    }
+  ],
+  "exemplo": false,
+  "lacunas": [
+    "Nenhuma checagem de agência nem autor específico da frase foram localizados; o registro responde à pergunta com o voto nominal (fonte primária)."
+  ]
+}

@@ -12,8 +12,8 @@
   },
   "status": "em-vigor",
   "o_que_faz_simples": [
-    "Paga a estudantes de 14 a 24 anos do ensino médio público regular, de famílias com renda até meio salário mínimo por pessoa (Cadastro Único): R$ 200 pela matrícula, até 9 parcelas de R$ 200 por frequência e R$ 1.000 por aprovação na série (depositados em poupança).",
-    "Alcança mais de 4 milhões de jovens (dado de 2025). Em 2026 há também o Pé-de-Meia Licenciaturas (14,3 mil estudantes em 152 instituições).",
+    "Paga a estudantes de 14 a 24 anos do ensino médio público regular (e EJA, desde ago/2024), de famílias do Cadastro Único com renda até meio salário mínimo por pessoa (Portarias MEC 792 e 861/2024): R$ 200 pela matrícula; 9 parcelas de R$ 200 por frequência (R$ 1.800/ano, com presença ≥ 80%); R$ 1.000 por conclusão de série, depositados em poupança; e R$ 200 pela participação no Enem — máximo de R$ 9.200 por estudante nos 3 anos (TCU, TC 005.592/2025-9).",
+    "Alcance: 'mais de 3,9 milhões de estudantes' em 2024 (SP 538.604; BA 410.639; MG 351.666; CE 285.502; PA 277.082; RJ 273.878) e 4 milhões de beneficiários com R$ 12,5 bilhões investidos em 2024 (TCU); mais de 4 milhões em 2025. O TCU apontou municípios com mais beneficiários que matrículas. Em 2026 há também o Pé-de-Meia Licenciaturas (14,3 mil estudantes em 152 instituições).",
     "Em 17/01/2025 o TCU bloqueou R$ 6 bi (FGEDUC/FGO) por o programa estar fora do Orçamento; liberou em fev/2025 com prazo de 120 dias para ajuste; em 2026 o programa entrou no Orçamento com R$ 11,47 bi. O MEC propôs universalizar para todo o ensino médio público (~R$ 5 bi a mais).",
     "O programa de Lula para 2026 promete manter e aprimorar o Pé-de-Meia."
   ],
@@ -43,7 +43,7 @@
     "valor": 11.47,
     "unidade": "R$ bilhões",
     "periodo": "2026 (LOA)",
-    "descricao": "R$ 11,47 bi em 2026; universalização proposta pelo MEC custaria ~R$ 5 bi a mais.",
+    "descricao": "R$ 12,5 bi investidos em 2024 (TCU); R$ 11,47 bi no Orçamento de 2026 (LOA); universalização proposta pelo MEC custaria ~R$ 5 bi a mais. Valores pagos em 2025 e 2026 não localizados em fonte oficial.",
     "fonte": {
       "nome": "CNN Brasil — Bolsa Família terá orçamento de R$ 158 bilhões em 2026 (LOA)",
       "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/bolsa-familia-tera-orcamento-de-r-158-bilhoes-em-2026/",
@@ -65,11 +65,15 @@
         "matricula": 200,
         "frequencia_parcela": 200,
         "frequencia_parcelas_max": 9,
-        "aprovacao_na_serie": 1000
+        "frequencia_total_ano": 1800,
+        "frequencia_presenca_minima_pct": 80,
+        "aprovacao_na_serie": 1000,
+        "participacao_enem": 200
       },
-      "observacao": "a nota não soma os componentes; o total anual depende de frequência e aprovação",
-      "fonte_formula": "NSC Total / Diário do Grande ABC",
-      "fonte_formula_url": "https://www.nsctotal.com.br/?p=7887373"
+      "observacao": "total máximo de R$ 9.200 em 3 anos segundo o TCU; o total anual depende de frequência e aprovação",
+      "fonte_formula": "TCU (TC 005.592/2025-9); NSC Total",
+      "fonte_formula_url": "https://static.poder360.com.br/2026/03/005.592-2025-9-BZ-REPR_Pe-de-Meia.pdf",
+      "maximo_por_estudante_3_anos": 9200
     }
   },
   "mitos": [
@@ -146,6 +150,18 @@
       "url": "https://static.congressoemfoco.com.br/2026/08/08/attachment/2026/08/08/32ce89_programa_governo_lula_2026.pdf",
       "acesso_em": "2026-10-21",
       "tier": "partidario"
+    },
+    {
+      "nome": "TCU — representação Pé-de-Meia, TC 005.592/2025-9 (PDF via Poder360)",
+      "url": "https://static.poder360.com.br/2026/03/005.592-2025-9-BZ-REPR_Pe-de-Meia.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Itatiaia/Agência Brasil — Pé-de-Meia encerra 2024 com quase 4 milhões de beneficiados (dez/2024)",
+      "url": "https://www.itatiaia.com.br/politica/pe-de-meia-encerra-2024-com-quase-4-milhoes-de-beneficiados/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/13_renda_por_faixa_e_simulacoes_de_impacto.md",
@@ -154,7 +170,7 @@
   ],
   "lacunas": [
     "Número e URL da lei do programa não constam das notas.",
-    "Número de estudantes em 2026 não obtido (página do MEC bloqueada)."
+    "Valores pagos e número de estudantes por ano em 2025 e 2026 não localizados em fonte oficial (MEC/FNDE bloqueados); só 2024 (R$ 12,5 bi; 3,9-4,0 mi estudantes, TCU/MEC)."
   ],
   "atualizado_em": "2026-10-21"
 }

@@ -5,8 +5,10 @@
   "candidato": "lula",
   "lado": "governo-lula-pt",
   "minuto": null,
+  "url_trecho": null,
   "frase_literal": "Em 2022 houve déficit e em 2025 superávit.",
   "literal": false,
+  "variantes_literais": [],
   "tema": "contas-publicas",
   "veredito": "falso",
   "resumo_uma_frase": "Foi o inverso: 2022 teve superávit primário e 2025 teve déficit.",
@@ -20,6 +22,22 @@
     "2022: superávit; 2025: déficit."
   ],
   "numeros": [],
+  "fontes_primarias": [
+    {
+      "nome": "Tesouro Nacional — Resultado do Tesouro Nacional (RTN)",
+      "url": "https://www.gov.br/tesouronacional/pt-br/estatisticas-fiscais-e-planejamento/resultado-do-tesouro-nacional-rtn",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial",
+      "acessada_na_rodada_2": true
+    },
+    {
+      "nome": "BCB — SGS 5793 (resultado primário do setor público, 12 meses, % PIB; dez/2022 = −1,25 = superávit)",
+      "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.5793/dados?formato=json&dataInicial=01/12/2022&dataFinal=31/12/2022",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial",
+      "acessada_na_rodada_2": true
+    }
+  ],
   "base_legal": [],
   "checagens_externas": [
     {
@@ -40,5 +58,11 @@
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
-  "atualizado_em": "2026-10-21"
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ]
 }

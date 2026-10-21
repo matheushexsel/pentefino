@@ -60,15 +60,20 @@
     {
       "rotulo": "2024 antes da revisão (Agência Brasil, 2025)",
       "valor": 13.4
+    },
+    {
+      "rotulo": "Razão P90/P10 (limites de percentil), 2025",
+      "valor": 10.2
     }
   ],
   "notas_metodologicas": [
     "2024 (13,2) é o mínimo da série; 2025 subiu para 13,8 com o Gini passando de 0,504 para 0,511. Renda per capita média 2025: 10% mais ricos R$ 9.117; 40% mais pobres R$ 663.",
     "Os valores de 2018, 2019 e 2021 aparecem na nota como '~17,0' (aproximados). A divulgação de 2025 (antes da revisão da série) citava pico de 17,8 em 2018 e 13,4 em 2024.",
-    "IBGE: 'A gente não nota uma tendência clara de elevação. Em 2025, teve essa leve oscilação para cima'."
+    "IBGE: 'A gente não nota uma tendência clara de elevação. Em 2025, teve essa leve oscilação para cima'.",
+    "Cálculo da nota sobre a SIDRA 7531 (preços médios do ano): 16,4 (2012), 17,1 (2018), 16,9 (2019), 13,2 (2024), 13,7 (2025) — coerente com os 13,2/13,8 divulgados. Razão P90/P10 dos limites de percentil (SIDRA 7438): 11,6 (2012), 12,9 (2019), 10,2 (2025)."
   ],
   "lacunas": [
-    "Anos 2012-2017 e 2020 não constam da nota."
+    "Anos 2012-2017 e 2020 da razão 10/40 oficial não constam da nota (só o cálculo próprio sobre a SIDRA 7531 para 2012, 2018 e 2019)."
   ],
   "ultimo_periodo": "2025",
   "temas": [

@@ -32,7 +32,7 @@
     "Em março de 2023 o governo Lula recriou o programa com R$ 150 por criança pequena, o que elevou o valor médio para cerca de R$ 680, mesmo sem mexer no piso.",
     "A ausência de correção entre 2023 e 2025 foi uma escolha do governo atual, e economistas apontam que a inflação justificaria reajuste desde janeiro de 2026."
   ],
-  "explicacao_completa_md": "## O que é correto\n\nO piso de R$ 600 foi fixado em ago/2022 (EC 123) e mantido pelo novo Bolsa Família (mar/2023). O reajuste de out/2026 (Decreto 13.120, de 17/09/2026) elevou o piso em 15,04%, para R$ 691, repondo o INPC acumulado de mar/2023 a ago/2026; o benefício médio projetado passou de R$ 675 para R$ 777, para mais de 19 milhões de famílias.\n\n## O que falta\n\n- O governo Lula recriou o programa em mar/2023 com o Benefício Primeira Infância (R$ 150 por criança de 0 a 6 anos), o que elevou o benefício médio a cerca de R$ 680 em 2023-2024.\n- Durante 2023-2025 o governo poderia ter corrigido o piso e não o fez; a frase soa como herança, mas o período sem correção é majoritariamente do mandato atual.\n- O reajuste começou a ser pago em 19/10/2026, uma semana antes do 2º turno, e custa R$ 5,8 bilhões em 2026 e R$ 22,7 bilhões em 2027, valor não previsto no PLOA 2027.\n\nA Lupa classificou a frase como FALTA CONTEXTO.",
+  "explicacao_completa_md": "## O que é correto\n\nO piso de R$ 600 foi fixado em ago/2022 (EC 123) e mantido pelo novo Bolsa Família (mar/2023). O reajuste de out/2026 (Decreto 13.120, de 17/09/2026) elevou o piso em 15,04%, para R$ 691, repondo o INPC acumulado de mar/2023 a ago/2026; o benefício médio projetado passou de R$ 675 para R$ 777, para mais de 19 milhões de famílias.\n\n## O que falta\n\n- A Lei 14.601/2023 (art. 7º, §§ 3º-4º) manda revisar os valores por decreto a cada 24 meses no máximo; o intervalo efetivo foi de 43 meses.\n- O governo Lula recriou o programa em mar/2023 com o Benefício Primeira Infância (R$ 150 por criança de 0 a 6 anos), o que elevou o benefício médio a cerca de R$ 680 em 2023-2024.\n- Durante 2023-2025 o governo poderia ter corrigido o piso e não o fez; a frase soa como herança, mas o período sem correção é majoritariamente do mandato atual.\n- O reajuste começou a ser pago em 19/10/2026, uma semana antes do 2º turno, e custa R$ 5,8 bilhões em 2026 e R$ 22,7 bilhões em 2027, valor não previsto no PLOA 2027.\n\nA Lupa classificou a frase como FALTA CONTEXTO.",
   "o_que_e_verdade": [
     "O piso de R$ 600 vigora desde ago/2022 e o reajuste de out/2026 (15,04%, para R$ 691) foi o primeiro aumento geral desde então.",
     "O índice usado foi o INPC acumulado de mar/2023 a ago/2026."
@@ -40,7 +40,9 @@
   "o_que_nao_se_sustenta": [
     "O governo Lula alterou o programa em mar/2023 (R$ 150 por criança), elevando o benefício médio para cerca de R$ 680.",
     "A decisão de não corrigir o piso entre 2023 e 2025 foi do governo atual, não de um antecessor.",
-    "O custo de R$ 22,7 bilhões ao ano do reajuste não consta do PLOA 2027."
+    "O custo de R$ 22,7 bilhões ao ano do reajuste não consta do PLOA 2027.",
+    "A Lei 14.601/2023 prevê revisão dos valores 'a cada intervalo de, no máximo, 24 meses'; o reajuste de out/2026 veio 3 anos e 7 meses após mar/2023, acima do intervalo máximo da própria lei.",
+    "A IFI registra em 2026 queda da despesa com o programa 'graças à perda de valor real do benefício em função do congelamento' e redução do número de famílias (de 20,88 milhões em dez/2023 para 18,62 milhões em dez/2025)."
   ],
   "quem_e_responsavel": [
     {
@@ -66,10 +68,10 @@
       "unidade": "%",
       "periodo": "out/2026",
       "fonte": {
-        "nome": "O Povo – Bolsa Família sobe 15% em outubro; mínimo vai a R$ 691 (21/09/2026)",
-        "url": "https://www.opovo.com.br/trends/bolsa-familia-sobe-15-em-outubro-minimo-vai-a-r-691-e-valor-medio-projetado-chega-a-r-777/",
+        "nome": "Planalto – Decreto 13.120/2026 (reajuste do Bolsa Família)",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/decreto/D13120.htm",
         "acesso_em": "2026-10-21",
-        "tier": "imprensa"
+        "tier": "oficial"
       },
       "comparacao": {
         "rotulo": "Novo piso (R$)",
@@ -146,14 +148,75 @@
       "unidade": "R$ por criança de 0 a 6 anos",
       "periodo": "mar/2023",
       "fonte": {
-        "nome": "Lupa – Checagem ao vivo da entrevista de Lula no Flow (01/10/2026)",
-        "url": "https://www.agencialupa.org/checagem/2026/10/01/ao-vivo-checagem-da-entrevista-de-lula-no-flow/",
+        "nome": "Planalto – Lei 14.601/2023 (Programa Bolsa Família)",
+        "url": "https://www.planalto.gov.br/ccivil_03/_Ato2023-2026/2023/Lei/L14601.htm",
         "acesso_em": "2026-10-21",
-        "tier": "checagem"
+        "tier": "oficial"
       },
       "comparacao": {
         "rotulo": "Após reajuste de out/2026",
         "valor": 173
+      }
+    },
+    {
+      "rotulo": "Intervalo máximo entre reajustes previsto na Lei 14.601/2023 (art. 7º)",
+      "valor": 24,
+      "unidade": "meses",
+      "periodo": "regra legal",
+      "fonte": {
+        "nome": "Planalto – Lei 14.601/2023 (Programa Bolsa Família)",
+        "url": "https://www.planalto.gov.br/ccivil_03/_Ato2023-2026/2023/Lei/L14601.htm",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "Intervalo efetivo até out/2026 (meses, mar/2023 a out/2026)",
+        "valor": 43
+      }
+    },
+    {
+      "rotulo": "Benefício médio oficial antes do reajuste",
+      "valor": 678.35,
+      "unidade": "R$",
+      "periodo": "ago/2026",
+      "fonte": {
+        "nome": "Agência Gov/MDS – Pagamento do Bolsa Família de agosto começa nesta terça-feira (18/08/2026)",
+        "url": "https://agenciagov.ebc.com.br/noticias/202608/pagamento-do-bolsa-familia-de-agosto-comeca-nesta-terca-feira-18",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Famílias beneficiárias em dezembro",
+      "valor": 18618236,
+      "unidade": "famílias",
+      "periodo": "dez/2025",
+      "fonte": {
+        "nome": "Ipeadata – FAM_PBF, famílias beneficiárias do Bolsa Família em dezembro (MDS/Portal da Transparência)",
+        "url": "http://www.ipeadata.gov.br/api/odata4/ValoresSerie(SERCODIGO='FAM_PBF')",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "dez/2023",
+        "valor": 20884006
+      }
+    },
+    {
+      "rotulo": "Despesa com Bolsa Família sujeita ao limite do arcabouço (IFI)",
+      "valor": 155.8,
+      "unidade": "R$ bilhões",
+      "periodo": "2026",
+      "fonte": {
+        "nome": "IFI – Relatório de Acompanhamento Fiscal nº 116 (set/2026)",
+        "url": "https://www12.senado.leg.br/ifi/pdf/raf116_set2026.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "PLOA 2027",
+        "valor": 157.1
       }
     }
   ],
@@ -167,6 +230,12 @@
       "veredito_original": "FALTA CONTEXTO",
       "url": "https://www.agencialupa.org/checagem/2026/10/01/ao-vivo-checagem-da-entrevista-de-lula-no-flow/",
       "data": "2026-10-01"
+    },
+    {
+      "veiculo": "Aos Fatos",
+      "veredito_original": "Flávio: 'Lula esqueceu por quatro anos quem recebe o Bolsa Família' (frase correlata, já classificada como FALTA CONTEXTO pela Lupa)",
+      "url": "https://www.aosfatos.org/noticias/checamos-flavio-bolsonaro-globo-segundo-turno/",
+      "data": "2026-10-16"
     }
   ],
   "fontes": [
@@ -199,6 +268,42 @@
       "url": "https://blogdoibre.fgv.br/node/2410",
       "acesso_em": "2026-10-21",
       "tier": "academico"
+    },
+    {
+      "nome": "Planalto – Decreto 13.120/2026 (reajuste do Bolsa Família)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/decreto/D13120.htm",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Planalto – Lei 14.601/2023 (Programa Bolsa Família)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_Ato2023-2026/2023/Lei/L14601.htm",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Agência Gov/MDS – Pagamento do Bolsa Família de agosto começa nesta terça-feira (18/08/2026)",
+      "url": "https://agenciagov.ebc.com.br/noticias/202608/pagamento-do-bolsa-familia-de-agosto-comeca-nesta-terca-feira-18",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Ipeadata – FAM_PBF, famílias beneficiárias do Bolsa Família em dezembro (MDS/Portal da Transparência)",
+      "url": "http://www.ipeadata.gov.br/api/odata4/ValoresSerie(SERCODIGO='FAM_PBF')",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "IFI – Relatório de Acompanhamento Fiscal nº 116 (set/2026)",
+      "url": "https://www12.senado.leg.br/ifi/pdf/raf116_set2026.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "IFI – Relatório de Acompanhamento Fiscal nº 115 (ago/2026)",
+      "url": "https://www12.senado.leg.br/ifi/pdf/raf115_ago2026.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/03_emprego_renda_pobreza_social.md",
@@ -226,6 +331,10 @@
     {
       "data": "2026-10-21",
       "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "enriquecimento rodada 2: Lei 14.601 (intervalo máximo de 24 meses), Decreto 13.120 no Planalto, famílias e benefício médio oficiais, IFI sobre congelamento"
     }
   ],
   "exemplo": false

@@ -1,0 +1,234 @@
+{
+  "id": "chk-1051",
+  "slug": "ir-isento-seria-6-694-se-corrigido",
+  "frase": "Se a tabela do IR tivesse sido corrigida pela inflação desde 1996, a faixa de isenção seria de R$ 6.694,37",
+  "frase_normalizada": "A defasagem da tabela do Imposto de Renda desde 1996 é de 157% e a isenção corrigida seria de R$ 6,7 mil",
+  "variantes": [
+    "A tabela do IR tem defasagem de 157%",
+    "A isenção de R$ 5 mil ainda não repõe a inflação"
+  ],
+  "autor": {
+    "nome": "Sindifisco Nacional (sindicato dos auditores da Receita Federal)",
+    "partido": null,
+    "cargo": "entidade sindical; estudo técnico"
+  },
+  "lado": "outro",
+  "alvo": null,
+  "data": "2026-01-13",
+  "onde": "Estudo 'Defasagem da tabela do IRPF 1996-2025' (13/01/2026)",
+  "url_declaracao": "https://www.sindifisconacional.org.br/wp-content/uploads/2026/08/Defasagem-IRPF-1996-a-2025-13-01-2026.pdf",
+  "temas": [
+    "impostos"
+  ],
+  "tags": [
+    "irpf",
+    "tabela",
+    "defasagem",
+    "sindifisco",
+    "dieese"
+  ],
+  "veredito": "verdadeiro-mas",
+  "resumo_uma_frase": "Pelo cálculo do Sindifisco, a defasagem média da tabela do IRPF entre 1996 e 2025 é de 157,22% e a isenção integralmente corrigida seria R$ 6.694,37 (contra R$ 5.000 de isenção efetiva em 2026); o cálculo é consistente com o IPCA e com a Nota Técnica 284 do DIEESE, mas depende da escolha de 1996 como base e a isenção de 2026 é obtida por redutor, não pela tabela, cuja primeira faixa segue em R$ 3.036.",
+  "explicacao_simples": [
+    "O Sindifisco calcula que a tabela do Imposto de Renda acumulou defasagem de 157% em relação ao IPCA desde 1996, de modo que a faixa de isenção plenamente corrigida seria R$ 6.694,37 por mês.",
+    "A conta é coerente com os dados do DIEESE, que mostram reajuste médio de 124% contra IPCA de 471% entre 1996 e 2024, mas depende da escolha de 1996 como ponto de partida.",
+    "Em 2026 a isenção efetiva até R$ 5 mil veio por um redutor criado pela Lei 15.270, enquanto a tabela progressiva em si continua com primeira faixa de R$ 3.036 e as faixas superiores não são corrigidas desde 2015."
+  ],
+  "explicacao_completa_md": "## O cálculo\n\nSindifisco Nacional (jan/2026): defasagem média de 157,22% em 1996-2025; faixa de isenção integralmente corrigida de R$ 6.694,37 (diferença de R$ 1.694,37 para os R$ 5.000 da Lei 15.270/2025); a tabela progressiva continua com primeira faixa de R$ 3.036; para R$ 6.500 brutos, a não correção custa R$ 535,84/mês; para R$ 10 mil, R$ 1.186,87/mês; acima de R$ 100 mil o impacto relativo é 7,86%. DIEESE (NT 284, mar/2025): IPCA de 470,67% e reajuste médio de 124,09% em jan/1996-dez/2024, defasagem média de 154,67% (172,21% nas faixas superiores, não corrigidas desde 2015).\n\n## Por governo (DIEESE/Sindifisco)\n\n- 1996-2002 (FHC): sem correção até o reajuste de 17,5% em 2002.\n- 2003-2010 (Lula 1-2): correções de 10% (2005), 8% (2006) e 4,5% ao ano (2007-2010); criação das alíquotas de 7,5% e 22,5% em 2009.\n- 2011-2016 (Dilma): 4,5% ao ano até 2014, 5,6% médio em 2015, congelamento em 2016.\n- 2017-2018 (Temer) e 2019-2022 (Bolsonaro): tabela congelada; defasagem só de 2016-2022 de 44,11%; 2019-2024 (DIEESE): IPCA 39,21% contra reajuste de 6,90%.\n- 2023-2026 (Lula 3): correções só na faixa de isenção (2 salários mínimos em 2023-2025; R$ 5 mil via redutor em 2026) — a Receita calcula alta de 162,60% da isenção de fato entre 2022 (R$ 1.903,98) e 2026 (R$ 5.000).\n\n## Ressalvas\n\nA isenção 'de fato' de R$ 5 mil em 2026 já é 75% do valor corrigido do Sindifisco; a defasagem permanece integral nas faixas superiores e nas deduções. Comparar com o Brasil anterior a 1996 ou escolher outro ano-base muda o resultado.",
+  "o_que_e_verdade": [
+    "A tabela do IRPF ficou congelada em 1996-2001, 2003-2004 e 2016-2022, e as faixas acima da isenção não são corrigidas desde 2015; o IPCA acumulado de 1996 a 2024 (470,67%) superou de longe os reajustes (124,09%).",
+    "Pelo cálculo do Sindifisco, a isenção corrigida seria R$ 6.694,37, acima dos R$ 5.000 de 2026."
+  ],
+  "o_que_nao_se_sustenta": [
+    "O resultado depende do ano-base (1996) e da metodologia; não há valor 'oficial' de defasagem.",
+    "A isenção de R$ 5 mil em 2026 já repõe a maior parte da defasagem na faixa inicial (alta de 162,60% sobre 2022, segundo a Receita); o problema remanescente está nas faixas superiores e nas deduções."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Governos Temer e Bolsonaro (2017-2022) e Dilma (2016)",
+      "papel": "congelamento da tabela por sete anos",
+      "peso": "alto"
+    },
+    {
+      "ator": "Governo Lula 3 e Congresso",
+      "papel": "correções concentradas na faixa de isenção (2023-2026)",
+      "peso": "medio"
+    },
+    {
+      "ator": "Governos Lula 1-2 e Dilma 1",
+      "papel": "correções de 4,5% ao ano abaixo do IPCA (defasagem anual de 1 a 2 pontos)",
+      "peso": "baixo"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Defasagem média da tabela do IRPF (Sindifisco)",
+      "valor": 157.22,
+      "unidade": "%",
+      "periodo": "1996-2025",
+      "fonte": {
+        "nome": "Sindifisco Nacional – Defasagem da tabela do IRPF 1996-2025 (13/01/2026, PDF)",
+        "url": "https://www.sindifisconacional.org.br/wp-content/uploads/2026/08/Defasagem-IRPF-1996-a-2025-13-01-2026.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Faixa de isenção integralmente corrigida (Sindifisco)",
+      "valor": 6694.37,
+      "unidade": "R$ por mês",
+      "periodo": "2026",
+      "fonte": {
+        "nome": "Sindifisco Nacional – Defasagem da tabela do IRPF 1996-2025 (13/01/2026, PDF)",
+        "url": "https://www.sindifisconacional.org.br/wp-content/uploads/2026/08/Defasagem-IRPF-1996-a-2025-13-01-2026.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      "comparacao": {
+        "rotulo": "Isenção efetiva da Lei 15.270",
+        "valor": 5000
+      }
+    },
+    {
+      "rotulo": "Imposto extra mensal pela não correção para renda bruta de R$ 6.500 (Sindifisco)",
+      "valor": 535.84,
+      "unidade": "R$",
+      "periodo": "2026",
+      "fonte": {
+        "nome": "Sindifisco Nacional – Defasagem da tabela do IRPF 1996-2025 (13/01/2026, PDF)",
+        "url": "https://www.sindifisconacional.org.br/wp-content/uploads/2026/08/Defasagem-IRPF-1996-a-2025-13-01-2026.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      "comparacao": {
+        "rotulo": "Renda de R$ 10 mil",
+        "valor": 1186.87
+      }
+    },
+    {
+      "rotulo": "IPCA acumulado (DIEESE, NT 284)",
+      "valor": 470.67,
+      "unidade": "%",
+      "periodo": "jan/1996-dez/2024",
+      "fonte": {
+        "nome": "DIEESE – Nota Técnica 284, tabela do IRPF (21/03/2025, PDF via Sindipetro-NF)",
+        "url": "https://sindipetronf.org.br/wp-content/uploads/2025/03/notaTec284IR.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      "comparacao": {
+        "rotulo": "Reajuste médio da tabela",
+        "valor": 124.09
+      }
+    },
+    {
+      "rotulo": "Defasagem acumulada no período Bolsonaro (DIEESE)",
+      "valor": 30.22,
+      "unidade": "%",
+      "periodo": "jan/2019-dez/2024",
+      "fonte": {
+        "nome": "DIEESE – Nota Técnica 284, tabela do IRPF (21/03/2025, PDF via Sindipetro-NF)",
+        "url": "https://sindipetronf.org.br/wp-content/uploads/2025/03/notaTec284IR.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      "comparacao": {
+        "rotulo": "Só 2016-2022 (Sindifisco)",
+        "valor": 44.11
+      }
+    },
+    {
+      "rotulo": "Alta da isenção de fato entre 2022 e 2026 (Receita Federal)",
+      "valor": 162.6,
+      "unidade": "%",
+      "periodo": "R$ 1.903,98 → R$ 5.000",
+      "fonte": {
+        "nome": "Comissão Especial da Câmara – IRPF até R$ 5 mil e alta renda (PDF via Poder360, mai/2025)",
+        "url": "https://static.poder360.com.br/2025/05/IRPF-5-mil-e-alta-renda-Comissao-Especial-CD.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Primeira faixa da tabela progressiva em 2026",
+      "valor": 3036,
+      "unidade": "R$",
+      "periodo": "2026",
+      "fonte": {
+        "nome": "Sindifisco Nacional – Defasagem da tabela do IRPF 1996-2025 (13/01/2026, PDF)",
+        "url": "https://www.sindifisconacional.org.br/wp-content/uploads/2026/08/Defasagem-IRPF-1996-a-2025-13-01-2026.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      "comparacao": {
+        "rotulo": "Isenção efetiva via redutor",
+        "valor": 5000
+      }
+    }
+  ],
+  "series": [
+    "irpf-declarantes",
+    "aliquota-efetiva-ir-por-faixa",
+    "ipca-anual"
+  ],
+  "checagens_externas": [],
+  "fontes": [
+    {
+      "nome": "Sindifisco Nacional – Defasagem da tabela do IRPF 1996-2025 (13/01/2026, PDF)",
+      "url": "https://www.sindifisconacional.org.br/wp-content/uploads/2026/08/Defasagem-IRPF-1996-a-2025-13-01-2026.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    },
+    {
+      "nome": "DIEESE – Nota Técnica 284, tabela do IRPF (21/03/2025, PDF via Sindipetro-NF)",
+      "url": "https://sindipetronf.org.br/wp-content/uploads/2025/03/notaTec284IR.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    },
+    {
+      "nome": "Comissão Especial da Câmara – IRPF até R$ 5 mil e alta renda (PDF via Poder360, mai/2025)",
+      "url": "https://static.poder360.com.br/2025/05/IRPF-5-mil-e-alta-renda-Comissao-Especial-CD.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Planalto – Lei 15.270/2025 (isenção do IR até R$ 5 mil, IRPFM e dividendos)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/lei/L15270.htm",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/12_pix_fake_news_e_impostos_quem_paga.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "Por que a tabela não é corrigida automaticamente?",
+      "resposta": "Não há regra legal de indexação; cada correção depende de lei. Entre 1996 e 2025 houve correções em 2002, 2005-2015 e, só na faixa de isenção, em 2023-2026."
+    },
+    {
+      "pergunta": "Quem perdeu com o congelamento?",
+      "resposta": "Assalariados de renda média-baixa que passaram a pagar IR por efeito da inflação: a defasagem de 2016-2022 foi de 44,11% (Sindifisco) e a de 2019-2024 de 30,22% (DIEESE)."
+    },
+    {
+      "pergunta": "A isenção de R$ 5 mil resolveu?",
+      "resposta": "Em parte: a isenção efetiva subiu 162,60% desde 2022 (Receita), mas a tabela em si continua com primeira faixa de R$ 3.036 e as faixas superiores não são corrigidas desde 2015."
+    }
+  ],
+  "relacionadas": [
+    "isencao-do-ir-ate-5-mil-beneficia-x-milhoes",
+    "impostos-do-lula-so-atingem-super-ricos",
+    "carga-tributaria-recorde"
+  ],
+  "lacunas": [
+    "Efeito do congelamento 2016-2022 em número de novos pagadores em fonte oficial não localizado (só estimativas de Sindifisco/Unafisco)."
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false
+}

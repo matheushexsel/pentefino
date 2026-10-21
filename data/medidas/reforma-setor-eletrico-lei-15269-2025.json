@@ -57,11 +57,17 @@
   "mitos": [
     {
       "mito": "A reforma reduz os subsídios na conta de luz já em 2026.",
-      "fato": "O teto da CDE só vale a partir do orçamento de 2027; a proposta de CDE para 2026 é de R$ 52,7 bi (+ em relação aos R$ 49,2 bi de 2025) e, se o teto já valesse em 2026, teria sido ultrapassado em R$ 5,1 bi.",
+      "fato": "O teto da CDE só vale a partir do orçamento de 2027; a CDE de 2026 na base oficial da ANEEL é de R$ 52,66 bi (R$ 47,79 bi via quotas de uso), acima dos R$ 49,23 bi de 2025 e, se o teto já valesse em 2026, teria sido ultrapassado em R$ 5,1 bi. A ANEEL projeta R$ 55,1 bi em 2027 contra teto de R$ 48,7 bi.",
       "fontes": [
         {
           "nome": "Planalto – Lei 15.269/2025",
           "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/lei/L15269.htm",
+          "acesso_em": "2026-10-21",
+          "tier": "oficial"
+        },
+        {
+          "nome": "ANEEL Dados Abertos – CDE, custeio dos benefícios tarifários (CSV gerado em 01/10/2026)",
+          "url": "https://dadosabertos.aneel.gov.br/dataset/conta-desenvolvimento-energetico-cde-custeio-dos-beneficios-tarifarios",
           "acesso_em": "2026-10-21",
           "tier": "oficial"
         },
@@ -126,6 +132,12 @@
     {
       "nome": "Agência Câmara – MP da reforma do setor elétrico, 22/05/2025",
       "url": "https://www.camara.leg.br/noticias/1161307-mp-da-reforma-do-setor-eletrico-liberaliza-mercado-e-amplia-tarifa-social-de-energia-eletrica",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "ANEEL Dados Abertos – CDE, custeio dos benefícios tarifários (CSV gerado em 01/10/2026)",
+      "url": "https://dadosabertos.aneel.gov.br/dataset/conta-desenvolvimento-energetico-cde-custeio-dos-beneficios-tarifarios",
       "acesso_em": "2026-10-21",
       "tier": "oficial"
     }

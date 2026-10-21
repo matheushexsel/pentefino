@@ -28,11 +28,11 @@
       "url": "https://agenciainfra.com/blog/br-319-transportes-vai-tentar-avancar-com-licenca-especial/"
     },
     {
-      "ator": "Doadores internacionais (Noruega, Alemanha) e mercado",
-      "o_que_controla": "Fundo Amazônia (R$ 3,4 bi até 2018, ~94% Noruega; suspensão em 2019; R$ 643 mi recebidos em 2024), TFFF lançado na COP30 (US$ 5,5 bi iniciais), pressão de compradores sobre cadeias de soja e carne.",
+      "ator": "Doadores internacionais (Noruega, Alemanha, Reino Unido, EUA) e mercado",
+      "o_que_controla": "Fundo Amazônia: R$ 5,27 bi internalizados até 30/09/2026 (Noruega R$ 3,80 bi, Reino Unido R$ 555 mi, Alemanha R$ 388 mi, EUA R$ 291 mi); R$ 3,4 bi até 2018; nenhuma doação entre dez/2018 e dez/2023; cerca de R$ 990 mi em 2024 (recorde recente). TFFF lançado na COP30 (US$ 5,5 bi iniciais); pressão de compradores sobre cadeias de soja e carne.",
       "o_que_nao_controla": "Fiscalização em campo, legislação brasileira.",
       "peso": "baixo",
-      "url": "https://pt.wikipedia.org/wiki/Fundo_Amaz%C3%B4nia"
+      "url": "https://www.fundoamazonia.gov.br/pt/transparencia/doacoes/"
     },
     {
       "ator": "Clima e fatores externos",
@@ -82,8 +82,8 @@
     },
     {
       "data": "2019",
-      "evento": "Decreto 9.759 extingue os comitês do Fundo Amazônia; Noruega suspende R$ 133 mi e Alemanha R$ 155 mi. PRODES sobe a 10.129 km² (governo Bolsonaro).",
-      "url": "https://pt.wikipedia.org/wiki/Fundo_Amaz%C3%B4nia"
+      "evento": "Decreto 9.759 extingue os comitês do Fundo Amazônia; Noruega suspende R$ 133 mi e Alemanha R$ 155 mi; nenhuma doação entra no fundo entre 17/12/2018 e 13/12/2023. PRODES sobe a 10.129 km² (governo Bolsonaro).",
+      "url": "https://www.fundoamazonia.gov.br/pt/transparencia/doacoes/"
     },
     {
       "data": "2021",
@@ -228,15 +228,51 @@
       }
     },
     {
-      "rotulo": "Fundo Amazônia — doações acumuladas até 2018",
-      "valor": 3.4,
-      "unidade": "R$ bilhões",
-      "periodo": "2008–2018",
+      "rotulo": "Fundo Amazônia — doações internalizadas em 2024 (soma aprox. da tabela do BNDES)",
+      "valor": 990,
+      "unidade": "R$ milhões",
+      "periodo": "2024",
       "fonte": {
-        "nome": "Poder360 — Fundo Amazônia recebeu R$ 3,4 bi em 13 anos",
-        "url": "https://www.poder360.com.br/economia/fundo-amazonia-recebeu-r-34-bilhoes-de-doacoes-em-13-anos/",
+        "nome": "Fundo Amazônia/BNDES — Doações (dados até 30/09/2026)",
+        "url": "https://www.fundoamazonia.gov.br/pt/transparencia/doacoes/",
         "acesso_em": "2026-10-21",
-        "tier": "imprensa"
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "2019–2022",
+        "valor": 0
+      }
+    },
+    {
+      "rotulo": "Fundo Amazônia — total internalizado desde 2008",
+      "valor": 5.265,
+      "unidade": "R$ bilhões",
+      "periodo": "até 30/09/2026",
+      "fonte": {
+        "nome": "Fundo Amazônia/BNDES — Doações (dados até 30/09/2026)",
+        "url": "https://www.fundoamazonia.gov.br/pt/transparencia/doacoes/",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "até 2018",
+        "valor": 3.4
+      }
+    },
+    {
+      "rotulo": "Fundo Amazônia — carteira aprovada (155 projetos)",
+      "valor": 5.844,
+      "unidade": "R$ bilhões",
+      "periodo": "s/d",
+      "fonte": {
+        "nome": "Fundo Amazônia/BNDES — página inicial (carteira)",
+        "url": "https://www.fundoamazonia.gov.br/pt/home/",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "desembolsado",
+        "valor": 2.754
       }
     },
     {
@@ -367,7 +403,7 @@
     },
     {
       "pergunta": "O que aconteceu com o Fundo Amazônia?",
-      "resposta": "Criado em 2008, recebeu R$ 3,4 bi até 2018 (Noruega ~94%, Alemanha ~6%, Petrobras). Em 2019 o Decreto 9.759 extinguiu seus comitês e o fundo ficou paralisado; Noruega e Alemanha suspenderam R$ 133 mi e R$ 155 mi. Reativado em 01/01/2023, aprovou R$ 553 mi em 2023 e R$ 882 mi em 2024 (recorde), ano em que recebeu R$ 643 mi em doações."
+      "resposta": "Criado em 2008, recebeu R$ 3,4 bi até 2018 (Noruega ~94%, Alemanha ~6%, Petrobras). Em 2019 o Decreto 9.759 extinguiu seus comitês e o fundo ficou paralisado; Noruega e Alemanha suspenderam R$ 133 mi e R$ 155 mi, e a tabela oficial do BNDES não registra nenhuma doação entre 17/12/2018 e 13/12/2023. Reativado em 01/01/2023, aprovou R$ 553 mi em 2023 e R$ 882 mi em 2024 (recorde). As doações internalizadas somaram cerca de R$ 150 mi em 2023, R$ 990 mi em 2024 (Noruega, Alemanha, Reino Unido, EUA, Dinamarca, Japão), R$ 449 mi em 2025 e R$ 280 mi até set/2026; total de R$ 5,27 bi desde 2008 (Noruega R$ 3,80 bi). Carteira: 155 projetos, R$ 5,84 bi aprovados e R$ 2,75 bi desembolsados."
     },
     {
       "pergunta": "A COP30 foi um sucesso?",
@@ -428,6 +464,18 @@
       "tier": "imprensa"
     },
     {
+      "nome": "Fundo Amazônia/BNDES — Doações (dados até 30/09/2026)",
+      "url": "https://www.fundoamazonia.gov.br/pt/transparencia/doacoes/",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Fundo Amazônia/BNDES — página inicial (carteira)",
+      "url": "https://www.fundoamazonia.gov.br/pt/home/",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
       "nome": "Wikipédia pt — Fundo Amazônia (compilação com fontes)",
       "url": "https://pt.wikipedia.org/wiki/Fundo_Amaz%C3%B4nia",
       "acesso_em": "2026-10-21",
@@ -483,9 +531,10 @@
     }
   ],
   "lacunas": [
-    "Dados do PRODES 2003–2011 vieram da Wikipédia (cita INPE); TerraBrasilis não carregou.",
-    "Total de doações ao Fundo Amazônia em 2025 e NDC brasileira 2035 (59–67%) não confirmados.",
-    "Valores de aprovações do Fundo Amazônia em 2019–2022 não constam da nota."
+    "Dados do PRODES 2003–2011 vieram da Wikipédia (cita INPE); TerraBrasilis/INPE exigem cookies/JS; desmatamento por estado em 2025 não obtido.",
+    "NDC brasileira 2035 (59–67%) não confirmada.",
+    "Aprovações do Fundo Amazônia ano a ano (2008–2025) não obtidas; a soma anual de doações é aproximada (feita na nota a partir da tabela do BNDES).",
+    "Área queimada 2019–2023 e 2025 (MapBiomas) não acessada."
   ],
   "atualizado_em": "2026-10-21",
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/07_saude_seguranca_educacao_infra_ambiente.md"

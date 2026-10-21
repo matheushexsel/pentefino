@@ -35,7 +35,7 @@
     "A origem é uma reportagem da Veja com supostos relatos; não existe comprovante, o tema não aparece nas propostas de delação de Vorcaro e a PF e a PGR negaram que esse depoimento exista.",
     "Três agências checaram: Lupa (insustentável/falso), Aos Fatos (falso) e Estadão Verifica (falta contexto)."
   ],
-  "explicacao_completa_md": "A revista Veja publicou em 09/10/2026 reportagem citando supostos relatos de Daniel Vorcaro sobre um pagamento de R$ 30 milhões ligado a um documentário do cineasta Oliver Stone sobre Lula. Segundo a Lupa, não há comprovante; o suposto anexo não consta das três propostas de delação de Vorcaro (maio, junho e agosto de 2026); a PF (nota de 09/10) e a PGR negaram que o depoimento exista. Flávio afirmou no debate que estava 'confirmado pela Polícia Federal', o que a Lupa classificou como FALSO, e a acusação em si como INSUSTENTÁVEL. O Aos Fatos classificou como FALSO e o Estadão Verifica como FALTA CONTEXTO. Um áudio atribuído a Vorcaro sobre a propina circulou nas redes e no canal 'Tropa do Flávio'; a Lupa registra que não há prova de autenticidade.",
+  "explicacao_completa_md": "A revista Veja publicou em 09/10/2026 reportagem citando supostos relatos de Daniel Vorcaro sobre um pagamento de R$ 30 milhões ligado a um documentário do cineasta Oliver Stone sobre Lula. Segundo a Lupa, não há comprovante; o suposto anexo não consta das três propostas de delação de Vorcaro (maio, junho e agosto de 2026); a PF (nota de 09/10) e a PGR negaram que o depoimento exista. Flávio afirmou no debate que estava 'confirmado pela Polícia Federal', o que a Lupa classificou como FALSO, e a acusação em si como INSUSTENTÁVEL. O Aos Fatos classificou como FALSO e o Estadão Verifica como FALTA CONTEXTO. Um áudio atribuído a Vorcaro sobre a propina circulou nas redes e no canal 'Tropa do Flávio'; a Lupa registra que não há prova de autenticidade.\n\n**Atualização (enriquecimento, 21/10/2026):** literal (legenda automática da live da Band, ≈20h41): 'O áudio do Vucano [Vorcaro] falou que é teu dinheirinho por fora. 30 conto, 30 milhões para o Instituto Lula por fora, dinheiro ilegal'. O UOL Confere (via ICL Notícias) classificou a frase como INSUSTENTÁVEL: áudio sem autenticidade demonstrada; PF, PGR e defesa negam o depoimento. Delação de Vorcaro: PF recusou a 1ª proposta (~20/05/2026), PGR rejeitou a 2ª (15/06) e negou 'definitivamente' a 3ª (01/09/2026).",
   "o_que_e_verdade": [
     "A Veja publicou em 09/10/2026 reportagem com supostos relatos de Vorcaro sobre o documentário.",
     "Lula recebeu Vorcaro no Planalto fora da agenda em 04/12/2024 (fato distinto e confirmado)."
@@ -114,6 +114,12 @@
       "veredito_original": "FALTA CONTEXTO",
       "url": "https://www.polemicaparaiba.com.br/brasil/estadao-verifica-checa-declaracoes-de-lula-e-flavio-bolsonaro-em-debate-e-aponta-informacoes-falsas-enganosas-e-verdadeiras-confira/",
       "data": "2026-10-18"
+    },
+    {
+      "veiculo": "UOL Confere (via ICL Notícias)",
+      "veredito_original": "INSUSTENTÁVEL (áudio sem autenticidade demonstrada; PF, PGR e defesa negam)",
+      "url": "https://iclnoticias.com.br/flavio-lidera-mentiras-debate-checagem/",
+      "data": "2026-10-19"
     }
   ],
   "fontes": [
@@ -146,6 +152,24 @@
       "url": "https://pt.wikipedia.org/wiki/Esc%C3%A2ndalo_do_Banco_Master",
       "acesso_em": "2026-10-21",
       "tier": "imprensa"
+    },
+    {
+      "nome": "UOL Confere (via ICL Notícias)",
+      "url": "https://iclnoticias.com.br/flavio-lidera-mentiras-debate-checagem/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Band Jornalismo (YouTube, live integral do debate de 18/10/2026; legenda automática)",
+      "url": "https://www.youtube.com/watch?v=Gqc1rQtzWUk",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Itatiaia, 01/09/2026 (PGR nega delação)",
+      "url": "https://www.itatiaia.com.br/politica/pgr-nega-definitivamente-delacao-de-daniel-vorcaro",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/09_acusacoes_e_falas_flavio_x_lula.md",
@@ -173,6 +197,10 @@
     {
       "data": "2026-10-21",
       "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "enriquecimento rodada 2 (21/10/2026): literal da legenda; UOL Confere (insustentável); datas das recusas da delação"
     }
   ],
   "exemplo": false

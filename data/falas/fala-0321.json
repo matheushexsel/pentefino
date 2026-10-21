@@ -5,8 +5,10 @@
   "candidato": "lula",
   "lado": "governo-lula-pt",
   "minuto": null,
+  "url_trecho": null,
   "frase_literal": "Me senti muito incomodado de participar de um debate com um miliciano.",
   "literal": true,
+  "variantes_literais": [],
   "tema": "seguranca",
   "veredito": "insustentavel",
   "resumo_uma_frase": "Não há denúncia nem condenação de Flávio por milícia; os fatos documentados são as nomeações da mãe e da mulher de Adriano da Nóbrega na Alerj até nov/2018 e as homenagens de 2003 e 2005.",
@@ -22,6 +24,7 @@
     "Não há denúncia nem condenação de Flávio por milícia; 'miliciano' é qualificação sem lastro em sentença."
   ],
   "numeros": [],
+  "fontes_primarias": [],
   "base_legal": [],
   "checagens_externas": [
     {
@@ -51,8 +54,23 @@
       "url": "https://jornaldebrasilia.com.br/noticias/politica-e-poder/lula-chama-flavio-bolsonaro-de-miliciano-desqualificado-apos-debate/",
       "acesso_em": "2026-10-21",
       "tier": "imprensa"
+    },
+    {
+      "nome": "Band Jornalismo (YouTube) — live integral do debate, legendas automáticas",
+      "url": "https://www.youtube.com/watch?v=Gqc1rQtzWUk",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
-  "atualizado_em": "2026-10-21"
+  "atualizado_em": "2026-10-21",
+  "lacunas": [
+    "Ocorrência anterior: no próprio debate da Band (18/10, 04:41:24 do stream ≈20h41) Lula disse 'Quero distância. Eu com miliciano?' — primeira ocorrência pública da palavra na campanha contra Flávio."
+  ],
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ]
 }

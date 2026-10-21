@@ -1,0 +1,75 @@
+{
+  "id": "inseguranca-alimentar-grave",
+  "titulo": "Insegurança alimentar grave (fome) — PNAD Contínua 2023–2024",
+  "descricao_simples": "Parcela de domicílios e de pessoas que passaram por falta de comida (insegurança alimentar grave), segundo o IBGE.",
+  "unidade": "% das pessoas",
+  "tipo_grafico": "barra",
+  "frequencia": "anual",
+  "fonte": {
+    "nome": "IBGE/SIDRA, tabelas 9552 (domicílios) e 9751 (moradores), PNAD Contínua – Segurança Alimentar 2023–2024",
+    "url": "https://apisidra.ibge.gov.br/values/t/9751/n1/all/v/10114,10117/p/all/c58/all/c12404/all",
+    "acesso_em": "2026-10-21",
+    "tier": "oficial"
+  },
+  "pontos": [
+    {
+      "periodo": "2023",
+      "valor": 4.0,
+      "pessoas_milhoes": 8.475,
+      "domicilios_pct": 4.1,
+      "domicilios_milhoes": 3.139,
+      "inseguranca_total_pessoas_pct": 29.6,
+      "inseguranca_total_pessoas_milhoes": 62.66,
+      "moderada_pessoas_milhoes": 11.66
+    },
+    {
+      "periodo": "2024",
+      "valor": 3.1,
+      "pessoas_milhoes": 6.483,
+      "domicilios_pct": 3.2,
+      "domicilios_milhoes": 2.515,
+      "inseguranca_total_pessoas_pct": 25.8,
+      "inseguranca_total_pessoas_milhoes": 54.72,
+      "moderada_pessoas_milhoes": 9.8,
+      "grave_por_idade_pct": {
+        "0-4": 3.3,
+        "5-17": 3.8,
+        "18-49": 2.8,
+        "50-64": 3.3,
+        "65+": 2.3
+      }
+    }
+  ],
+  "faixas_referencia": [
+    {
+      "rotulo": "Rede PENSSAN, II VIGISAN (nov/2021–abr/2022): grave, % da população",
+      "valor": 15.5
+    },
+    {
+      "rotulo": "PENSSAN 2022: pessoas em IA grave (milhões)",
+      "valor": 33.1
+    },
+    {
+      "rotulo": "SOFI 2026 (triênio 2023–2025): IA grave (%)",
+      "valor": 0.6
+    },
+    {
+      "rotulo": "Domicílios em segurança alimentar 2024 (%)",
+      "valor": 75.8
+    }
+  ],
+  "notas_metodologicas": [
+    "Correção da rodada 2: '4,1% (8,7 milhões) em 2023' misturava proporção de domicílios (4,1%) com pessoas; entre pessoas a proporção é 4,0% e o contingente 8,475 milhões (2023), caindo a 3,1% e 6,483 milhões em 2024. Domicílios rurais em IA grave: 5,5% → 4,6%.",
+    "A Lupa (04/10/2026) usou 8,47 mi → 6,48 mi ao classificar 'vencemos a fome' como FALTA CONTEXTO. PENSSAN e IBGE são fontes e metodologias diferentes (comparação indireta).",
+    "URL dos domicílios: https://apisidra.ibge.gov.br/values/t/9552/n1/all/v/162,9784,10114,10117/p/all/c1/all/c12404/all"
+  ],
+  "lacunas": [
+    "POF 2024/2025: nenhum resultado publicado sobre insegurança alimentar localizado."
+  ],
+  "ultimo_periodo": "2024",
+  "temas": [
+    "pobreza-programas-sociais"
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/03_emprego_renda_pobreza_social.md",
+  "atualizado_em": "2026-10-21"
+}

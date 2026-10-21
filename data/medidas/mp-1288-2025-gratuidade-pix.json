@@ -5,16 +5,16 @@
   "governo": "lula-3",
   "lado": "governo-lula-pt",
   "norma": {
-    "nome": "Medida Provisória 1.288, de 16/01/2025",
+    "nome": "Medida Provisória 1.288, de 16/01/2025 (DOU edição extra de 16/01/2025; 'Vigência encerrada')",
     "data": "2025-01-16",
-    "url": "https://www.congressonacional.leg.br/materias/medidas-provisorias/-/mpv/166983/pdf",
+    "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/Mpv/mpv1288.htm",
     "vigencia": "16/01/2025 a 02/06/2025 (perda de eficácia sem apreciação pelo Congresso; sem decreto legislativo disciplinando efeitos)"
   },
   "status": "caducou",
   "o_que_faz_simples": [
-    "Editada no dia seguinte à revogação da IN 2.219, a MP reafirmava a gratuidade, o sigilo e a não tributação do Pix para pessoas físicas, equiparava pagamento em Pix a pagamento em dinheiro e classificava como prática abusiva (sujeita ao Código de Defesa do Consumidor) cobrar preço maior por pagamento via Pix à vista.",
+    "Editada no dia seguinte à revogação da IN 2.219. Texto literal: art. 2º — cobrar preço maior por pagamento em Pix à vista é prática abusiva (CDC); § 4º — Pix à vista equipara-se a pagamento em espécie; art. 3º — 'Não incide tributo, seja imposto, taxa ou contribuição, no uso do Pix'; art. 4º — o BCB garante sigilo/LGPD e a 'impossibilidade de identificação dos usuários, observadas as exceções legais'.",
     "Haddad disse que a revogação da IN era 'para que não haja justificativa para não votar a MP'. O Congresso não votou: a vigência 'encerrou-se em 2/6/2025, por perda de eficácia sem apreciação pelas Casas do Congresso Nacional' e a comissão mista foi extinta.",
-    "Depois da caducidade, o senador Carlos Portinho (PL-RJ) apresentou o PL 4526/2025 com conteúdo semelhante; não foi localizada lei aprovada sobre o tema até 21/10/2026.",
+    "Correção: o PL 4526/2025 do senador Carlos Portinho (PL-RJ), antes citado como 'conteúdo semelhante', trata, pela ementa oficial, da 'obrigatoriedade de recebimento por meio de Pagamento Instantâneo (Pix) por bens ou serviços fornecidos por órgãos ou instituições do Governo Federal' (apresentado em 10/09/2025; 'Aguardando designação do relator' na CAE em 13/07/2026) — não reproduz a gratuidade/sigilo/não tributação da MP. Continua verdadeiro que nenhuma lei 'blindando' o Pix foi aprovada após a caducidade (02/06/2025).",
     "Na campanha de 2026, o Pix virou disputa simbólica: o PT acusou Flávio Bolsonaro de querer 'acabar com o Pix'; Flávio negou ('obviamente uma mentira'), disse que 'o sonho do PT e do Lula é taxar o Pix' e prometeu 'Pix sem taxa'. Nenhum dos dois candidatos propõe imposto sobre o Pix."
   ],
   "quem_ganha": {
@@ -58,29 +58,23 @@
   "mitos": [
     {
       "mito": "Existe uma lei que proíbe taxar o Pix.",
-      "fato": "A MP 1.288/2025 tinha esse conteúdo, mas caducou em 02/06/2025 sem votação, e não foi encontrada lei aprovada sobre o tema até 21/10/2026 (há o PL 4526/2025 no Senado, sem status atual localizado). A Receita sustenta que a Constituição já proíbe tributar movimentações financeiras; um tributo desse tipo (como foi a CPMF) exigiria emenda constitucional.",
+      "fato": "A MP 1.288/2025 tinha esse conteúdo ('Não incide tributo, seja imposto, taxa ou contribuição, no uso do Pix'), mas caducou em 02/06/2025 sem votação, e não foi encontrada lei aprovada sobre o tema até 21/10/2026. O PL 4526/2025 (Senado) trata de outro assunto — obrigar órgãos federais a aceitar Pix. A Receita sustenta que a Constituição já proíbe tributar movimentações financeiras; um tributo desse tipo (como foi a CPMF) exigiria emenda constitucional.",
       "fontes": [
         {
-          "nome": "Congresso Nacional — MPV 1288/2025 (tramitação)",
-          "url": "https://www.congressonacional.leg.br/materias/medidas-provisorias/-/mpv/166983/pdf",
+          "nome": "Planalto — MP 1.288/2025",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/Mpv/mpv1288.htm",
+          "acesso_em": "2026-10-21",
+          "tier": "oficial"
+        },
+        {
+          "nome": "Senado — Dados Abertos, matéria 170436 (PL 4526/2025)",
+          "url": "https://legis.senado.leg.br/dadosabertos/materia/170436",
           "acesso_em": "2026-10-21",
           "tier": "oficial"
         },
         {
           "nome": "Congresso em Foco — sem votação, MP da gratuidade do Pix perde efeito",
           "url": "https://www.congressoemfoco.com.br/noticia/109059/sem-votacao-medida-provisoria-da-gratuidade-do-pix-perde-efeito",
-          "acesso_em": "2026-10-21",
-          "tier": "imprensa"
-        },
-        {
-          "nome": "Congresso em Foco — PL 4526/2025 (sen. Carlos Portinho, PL-RJ) (PDF)",
-          "url": "https://static.congressoemfoco.com.br/attachment/2025/09/15/3a1f49_documento.pdf",
-          "acesso_em": "2026-10-21",
-          "tier": "imprensa"
-        },
-        {
-          "nome": "Bora Investir/B3 — Receita volta a negar taxação do Pix e alerta para golpes",
-          "url": "https://borainvestir.b3.com.br/noticias/receita-federal-volta-a-negar-taxacao-do-pix-e-alerta-para-golpes/",
           "acesso_em": "2026-10-21",
           "tier": "imprensa"
         }
@@ -177,11 +171,22 @@
       "url": "https://www.otempo.com.br/politica/2026/6/3/lula-e-flavio-bolsonaro-travam-guerra-pelo-pix",
       "acesso_em": "2026-10-21",
       "tier": "imprensa"
+    },
+    {
+      "nome": "Planalto — MP 1.288/2025",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/Mpv/mpv1288.htm",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Senado — Dados Abertos, matéria 170436 (PL 4526/2025)",
+      "url": "https://legis.senado.leg.br/dadosabertos/materia/170436",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/12_pix_fake_news_e_impostos_quem_paga.md",
   "lacunas": [
-    "Status atual do PL 4526/2025 (Senado) não localizado.",
     "Detalhes do suposto 'Vira Pix' (devolução de parte do dinheiro pago via Pix, promessa atribuída a Flávio por uma manchete do ND Mais) não confirmados por outra fonte."
   ],
   "atualizado_em": "2026-10-21"

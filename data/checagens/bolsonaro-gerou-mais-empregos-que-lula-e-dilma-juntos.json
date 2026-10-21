@@ -32,7 +32,7 @@
   "veredito": "falso",
   "resumo_uma_frase": "Pela RAIS, os governos Lula e Dilma (2003-2016) criaram 17,4 milhões de empregos formais e o governo Bolsonaro (2019-2022) 4,1 milhões; a comparação só 'funciona' em tabelas que somam o Caged antigo com o Novo Caged, séries que o próprio Ministério do Trabalho diz não serem comparáveis.",
   "explicacao_simples": [
-    "Pela RAIS, foram 17,4 milhões de empregos formais em 2003 a 2016, nos governos Lula e Dilma, contra 4,1 milhões em 2019 a 2022, no governo Bolsonaro.",
+    "Pela RAIS, foram 17,4 milhões de empregos formais em 2003 a 2016, nos governos Lula e Dilma, contra 4,1 milhões em 2019 a 2022, no governo Bolsonaro, e a série oficial do Caged dá 5,25 milhões para Bolsonaro contra 13,45 milhões só em Lula 1 e 2.",
     "O post usa uma tabela que soma o Caged antigo com o Novo Caged, mas a série mudou em 2020 e o Ministério do Trabalho diz que elas não são comparáveis.",
     "O governo Bolsonaro teve o recorde anual da série nova em 2021, com 2,85 milhões de vagas, mas foi recuperação após a perda de 2020 na pandemia."
   ],
@@ -42,7 +42,7 @@
     "Os anos de Dilma 2 (2015-2016) tiveram os piores saldos da série antiga (−1,6 e −1,4 milhão)."
   ],
   "o_que_nao_se_sustenta": [
-    "Pela RAIS, 17,4 milhões (2003-2016) contra 4,1 milhões (2019-2022): o total do PT é cerca de quatro vezes maior.",
+    "Pela RAIS, 17,4 milhões (2003-2016) contra 4,1 milhões (2019-2022); pela série oficial do Caged com ajustes, Lula 1-2 somou 13,45 milhões e Dilma 1 4,96 milhões (Dilma 2 −2,86 milhões), contra 5,25 milhões de Bolsonaro.",
     "Somar Caged antigo e Novo Caged para comparar governos é metodologicamente inválido, segundo o MTE e o especialista ouvido pelo Comprova.",
     "O saldo de 2021 é recuperação da perda de 2020 (quando o país perdeu vínculos na pandemia)."
   ],
@@ -153,6 +153,54 @@
         "tier": "oficial"
       },
       "comparacao": null
+    },
+    {
+      "rotulo": "Saldo do Caged com ajustes em Lula 1-2 (soma da nota)",
+      "valor": 13449992,
+      "unidade": "vínculos",
+      "periodo": "2003-2010",
+      "fonte": {
+        "nome": "MTE – Novo Caged, Apresentação dezembro de 2025 (PDF, saldos 2002-2025 'com ajustes')",
+        "url": "https://www.gov.br/trabalho-e-emprego/pt-br/assuntos/estatisticas-trabalho/novo-caged/2025/dezembro/apresentacao-dezembro-de-2025-1.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "Bolsonaro (2019-2022)",
+        "valor": 5251875
+      }
+    },
+    {
+      "rotulo": "Saldo do Caged com ajustes em Dilma 1",
+      "valor": 4958417,
+      "unidade": "vínculos",
+      "periodo": "2011-2014",
+      "fonte": {
+        "nome": "MTE – Novo Caged, Apresentação dezembro de 2025 (PDF, saldos 2002-2025 'com ajustes')",
+        "url": "https://www.gov.br/trabalho-e-emprego/pt-br/assuntos/estatisticas-trabalho/novo-caged/2025/dezembro/apresentacao-dezembro-de-2025-1.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "Dilma 2 (2015-2016)",
+        "valor": -2861547
+      }
+    },
+    {
+      "rotulo": "Saldo do Novo Caged com ajustes em 2021",
+      "valor": 2782295,
+      "unidade": "vínculos",
+      "periodo": "2021",
+      "fonte": {
+        "nome": "MTE – Novo Caged, Apresentação dezembro de 2025 (PDF, saldos 2002-2025 'com ajustes')",
+        "url": "https://www.gov.br/trabalho-e-emprego/pt-br/assuntos/estatisticas-trabalho/novo-caged/2025/dezembro/apresentacao-dezembro-de-2025-1.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "2020",
+        "valor": -189393
+      }
     }
   ],
   "series": [
@@ -190,6 +238,12 @@
       "url": "https://static.poder360.com.br/uploads/2026/09/caged-agosto-2026.pdf",
       "acesso_em": "2026-10-21",
       "tier": "oficial"
+    },
+    {
+      "nome": "MTE – Novo Caged, Apresentação dezembro de 2025 (PDF, saldos 2002-2025 'com ajustes')",
+      "url": "https://www.gov.br/trabalho-e-emprego/pt-br/assuntos/estatisticas-trabalho/novo-caged/2025/dezembro/apresentacao-dezembro-de-2025-1.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/03_emprego_renda_pobreza_social.md",
@@ -217,6 +271,10 @@
     {
       "data": "2026-10-21",
       "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "enriquecimento rodada 2: série oficial do Caged com ajustes por governo"
     }
   ],
   "exemplo": false

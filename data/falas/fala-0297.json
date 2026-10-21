@@ -5,8 +5,10 @@
   "candidato": "lula",
   "lado": "governo-lula-pt",
   "minuto": null,
+  "url_trecho": null,
   "frase_literal": "[Liberou] 1 bilhão e 100 milhões de balas.",
   "literal": true,
+  "variantes_literais": [],
   "tema": "seguranca",
   "veredito": "insustentavel",
   "resumo_uma_frase": "O Decreto 9.797/2019 autorizava ~2,1 bilhões de munições (depois revogado); o Sou da Paz estima 994 milhões; não há dado oficial de compra.",
@@ -32,7 +34,23 @@
         "url": "https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026",
         "acesso_em": "2026-10-21",
         "tier": "checagem"
+      },
+      "fonte_primaria": {
+        "nome": "Instituto Sou da Paz (compilação SIGMA/SINARM)",
+        "url": "https://soudapaz.org/",
+        "acesso_em": null,
+        "tier": "academico",
+        "acessada_na_rodada_2": false
       }
+    }
+  ],
+  "fontes_primarias": [
+    {
+      "nome": "Instituto Sou da Paz (compilação SIGMA/SINARM)",
+      "url": "https://soudapaz.org/",
+      "acesso_em": null,
+      "tier": "academico",
+      "acessada_na_rodada_2": false
     }
   ],
   "base_legal": [],
@@ -79,5 +97,11 @@
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
-  "atualizado_em": "2026-10-21"
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ]
 }

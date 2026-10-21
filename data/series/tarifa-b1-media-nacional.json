@@ -1,0 +1,164 @@
+{
+  "id": "tarifa-b1-media-nacional",
+  "titulo": "Tarifa residencial (B1) média das distribuidoras do Brasil, 2010–2026",
+  "descricao_simples": "Média simples da tarifa residencial B1 convencional (TUSD + TE, sem tributos) homologada pela ANEEL para as distribuidoras com vigência iniciada em cada ano.",
+  "unidade": "R$/MWh",
+  "tipo_grafico": "linha",
+  "frequencia": "anual",
+  "fonte": {
+    "nome": "ANEEL Dados Abertos – Tarifas de aplicação das distribuidoras (CSV gerado em 21/10/2026)",
+    "url": "https://dadosabertos.aneel.gov.br/dataset/tarifas-distribuidoras-energia-eletrica",
+    "acesso_em": "2026-10-21",
+    "tier": "oficial"
+  },
+  "pontos": [
+    {
+      "periodo": "2010",
+      "valor": 342.89,
+      "mediana": 333.25,
+      "distribuidoras": 88,
+      "ipca_no_ano_pct": 5.91
+    },
+    {
+      "periodo": "2011",
+      "valor": 371.97,
+      "mediana": 367.21,
+      "distribuidoras": 100,
+      "ipca_no_ano_pct": 6.5
+    },
+    {
+      "periodo": "2012",
+      "valor": 373.11,
+      "mediana": 365.05,
+      "distribuidoras": 98,
+      "ipca_no_ano_pct": 5.84
+    },
+    {
+      "periodo": "2013",
+      "valor": 311.33,
+      "mediana": 306.74,
+      "distribuidoras": 101,
+      "ipca_no_ano_pct": 5.91
+    },
+    {
+      "periodo": "2014",
+      "valor": 352.54,
+      "mediana": 351.76,
+      "distribuidoras": 100,
+      "ipca_no_ano_pct": 6.41
+    },
+    {
+      "periodo": "2015",
+      "valor": 450.17,
+      "mediana": 454.73,
+      "distribuidoras": 100,
+      "ipca_no_ano_pct": 10.67
+    },
+    {
+      "periodo": "2016",
+      "valor": 458.27,
+      "mediana": 450.23,
+      "distribuidoras": 91,
+      "ipca_no_ano_pct": 6.29
+    },
+    {
+      "periodo": "2017",
+      "valor": 493.53,
+      "mediana": 487.62,
+      "distribuidoras": 100,
+      "ipca_no_ano_pct": 2.95
+    },
+    {
+      "periodo": "2018",
+      "valor": 554.24,
+      "mediana": 550.93,
+      "distribuidoras": 100,
+      "ipca_no_ano_pct": 3.75
+    },
+    {
+      "periodo": "2019",
+      "valor": 574.04,
+      "mediana": 560.27,
+      "distribuidoras": 105,
+      "ipca_no_ano_pct": 4.31
+    },
+    {
+      "periodo": "2020",
+      "valor": 593.53,
+      "mediana": 583.48,
+      "distribuidoras": 105,
+      "ipca_no_ano_pct": 4.52
+    },
+    {
+      "periodo": "2021",
+      "valor": 628.67,
+      "mediana": 619.94,
+      "distribuidoras": 105,
+      "ipca_no_ano_pct": 10.06
+    },
+    {
+      "periodo": "2022",
+      "valor": 688.77,
+      "mediana": 670.99,
+      "distribuidoras": 105,
+      "ipca_no_ano_pct": 5.78
+    },
+    {
+      "periodo": "2023",
+      "valor": 718.71,
+      "mediana": 698.13,
+      "distribuidoras": 103,
+      "ipca_no_ano_pct": 4.62
+    },
+    {
+      "periodo": "2024",
+      "valor": 728.37,
+      "mediana": 704.7,
+      "distribuidoras": 103,
+      "ipca_no_ano_pct": 4.83
+    },
+    {
+      "periodo": "2025",
+      "valor": 790.8,
+      "mediana": 758.75,
+      "distribuidoras": 102,
+      "ipca_no_ano_pct": 4.26
+    },
+    {
+      "periodo": "2026 (até out)",
+      "valor": 838.53,
+      "mediana": 812.58,
+      "distribuidoras": 103,
+      "ipca_no_ano_pct": 3.95
+    }
+  ],
+  "faixas_referencia": [
+    {
+      "rotulo": "Média B1 Enel SP 2026 (R$/MWh)",
+      "valor": 789.38
+    },
+    {
+      "rotulo": "Maior tarifa B1 dez/2025 (Equatorial PA)",
+      "valor": 978
+    },
+    {
+      "rotulo": "Menor tarifa B1 dez/2025 (Hidropan)",
+      "valor": 605
+    }
+  ],
+  "notas_metodologicas": [
+    "Fonte: ANEEL Dados Abertos, 'Tarifas de aplicação das distribuidoras' (CSV gerado em 21/10/2026); média simples, não ponderada por consumo, cálculo próprio da nota. Campos extras: 'mediana' (R$/MWh), 'distribuidoras' (n) e 'ipca_no_ano_pct' (BCB/SGS 433; 2026 = jan–set).",
+    "Variação da média 2010→2026: +144,5%; 2010→2025: +130,6% contra IPCA de 131,6% (dez/2010–dez/2025). Nesta métrica simples, a tarifa B1 média acompanhou o IPCA entre 2010 e 2025 e só o superou em 2026; a leitura 'acima da inflação' da Abraceel (+269% 2003–2024 vs IPCA 218%) depende da base 2003 e de ponderação por consumo.",
+    "O choque de 2013 (-16,6% na média) é a MP 579/2012; o de 2015 (+27,7% sobre 2014) é o 'tarifaço'/revisão extraordinária. Não existe no portal da ANEEL um CSV de 'tarifa média residencial Brasil'; a base começa em 2010 e não traz consumo."
+  ],
+  "ultimo_periodo": "2026 (até out)",
+  "temas": [
+    "energia"
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/06_energia_eletrobras_combustiveis.md",
+  "atualizado_em": "2026-10-21",
+  "lacunas": [
+    "Dados brutos baixados na rodada 2 de enriquecimento (21/10/2026); valores calculados sobre base oficial estão indicados como cálculo próprio na nota.",
+    "Tarifa residencial média 2003–2009 e média ponderada por consumo não disponíveis; o InfoTarifa (gráfico 2010–2025) é a única fonte oficial de acumulados ponderados."
+  ]
+}

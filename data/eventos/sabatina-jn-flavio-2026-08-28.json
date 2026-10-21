@@ -12,25 +12,17 @@
   "resumo_uma_frase": "Lupa (15 checagens, 5 falsas) e Aos Fatos (11 caixas) convergem nos erros sobre Pix, processo eleitoral, 8 de janeiro, Adriano da Nóbrega, clima e cargos comissionados; acertos no juro real, na data da homenagem a Adriano e na pressão sobre fontes jornalísticas.",
   "placar": {
     "flavio-bolsonaro": {
-      "checadas": 22,
+      "checadas": 23,
       "por_veredito": {
-        "verdadeiro": 6,
+        "verdadeiro": 5,
         "verdadeiro-mas": 1,
         "impreciso": 1,
         "exagerado": 3,
-        "falta-contexto": 3,
-        "insustentavel": 2,
+        "falta-contexto": 2,
+        "insustentavel": 3,
         "falso": 8
       },
-      "contagem_arquivos": {
-        "falta-contexto": 2,
-        "insustentavel": 2,
-        "falso": 8,
-        "exagerado": 3,
-        "impreciso": 1,
-        "verdadeiro": 5,
-        "verdadeiro-mas": 1
-      }
+      "criterio": "contagem dos arquivos de data/falas/ deste evento (frases únicas; opiniões em linha própria e fora de 'checadas'; falas de aliados não incluídas)"
     }
   },
   "falas": [
@@ -55,7 +47,8 @@
     "fala-0064",
     "fala-0065",
     "fala-0066",
-    "fala-0067"
+    "fala-0067",
+    "fala-0339"
   ],
   "checagens_externas": [
     {
@@ -101,13 +94,37 @@
       "url": "https://sbtnews.sbt.com.br/noticia/eleicoes/flavio-repete-o-pai-e-usa-cola-na-mao-durante-sabatina",
       "acesso_em": "2026-10-21",
       "tier": "imprensa"
+    },
+    {
+      "nome": "SBT News, 29/8",
+      "url": "https://sbtnews.sbt.com.br/noticia/eleicoes/flavio-diz-a-jornalista-que-nao-fara-descortesia-como-lula",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "SBT News — coluna da Basília",
+      "url": "https://sbtnews.sbt.com.br/colunas/coluna-da-basilia/flavio-se-prepara-para-sabatina-e-resposta-sobre-dark-horse",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
   "atualizado_em": "2026-10-21",
   "lacunas": [
     "Estadão Verifica do JN de Flávio não localizado (BNews retornou 403).",
-    "A frase 'mais de 30 impostos criados ou aumentados' teve a classificação do Aos Fatos removida para revisão em 29/8 e ficou sem veredito (não catalogada).",
-    "A contagem publicada na nota (22 itens; verdadeiro 6; falta-contexto 3) soma 24 e difere do item a item (verdadeiro 5; falta-contexto 2)."
+    "Rodada 2: a frase 'Mais de 30 impostos criados ou aumentados só nesse atual governo' passou a ser catalogada (fala nova) com veredito provisório do projeto (insustentavel); o Aos Fatos mantém a classificação removida desde 29/8.",
+    "Rodada 2: a contagem do evento foi corrigida para verdadeiro 5 e falta-contexto 2 (a linha antiga somava 24); o placar deste arquivo é contado a partir dos arquivos de falas (23 itens com a fala nova).",
+    "SBT News (29/8) registrou literais já catalogados: 'Não tem absolutamente nada de errado, nem um fio, em buscar um financiamento privado para um filme do próprio pai'; 'É um patrocínio para um filme privado sobre o meu pai'; 'Foi uma descortesia que ele cometeu' (sobre Lula e Renata Vasconcellos).",
+    "Audiência não obtida."
+  ],
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "rodada 2: placar recontado a partir dos arquivos de falas; lacunas e fontes atualizadas"
+    }
   ]
 }

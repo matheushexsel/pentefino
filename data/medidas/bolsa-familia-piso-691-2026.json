@@ -5,18 +5,19 @@
   "governo": "lula-3",
   "lado": "governo-lula-pt",
   "norma": {
-    "nome": "Decreto 13.120, de 17/09/2026",
+    "nome": "Decreto 13.120, de 17/09/2026 (DOU edição extra de 17/09/2026), com base no art. 7º, §§ 3º-4º da Lei 14.601/2023",
     "data": "2026-09-17",
-    "url": "https://www.opovo.com.br/trends/bolsa-familia-sobe-15-em-outubro-minimo-vai-a-r-691-e-valor-medio-projetado-chega-a-r-777/",
-    "vigencia": "A partir da folha de outubro/2026 (pagamentos desde 19/10/2026)"
+    "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/decreto/D13120.htm",
+    "vigencia": "Efeitos financeiros a partir do mês seguinte à publicação: folha de outubro/2026 (pagamentos desde 19/10/2026)"
   },
   "status": "em-vigor",
   "o_que_faz_simples": [
     "Reajusta todos os componentes do Bolsa Família em 15,04%, o INPC acumulado de mar/2023 a ago/2026 — o primeiro reajuste geral desde a recriação do programa.",
-    "Piso por família: de R$ 600 para R$ 691. Benefício de Renda de Cidadania: de R$ 142 para R$ 164 por pessoa; Primeira Infância (0-6 anos): de R$ 150 para R$ 173; Variável Familiar (gestantes, nutrizes, 7-18 anos): de R$ 50 para R$ 58. Benefício médio projetado: de R$ 675 para R$ 777.",
+    "Texto do decreto (confirmado no Planalto): Benefício de Renda de Cidadania de R$ 142 para R$ 164 por pessoa; Benefício Complementar até R$ 691 por família (antes R$ 600); Primeira Infância de R$ 150 para R$ 173; Variável Familiar de R$ 50 para R$ 58; correção pelo INPC de mar/2023 a ago/2026. Benefício médio projetado: de R$ 675 para R$ 777 (ago/2026: R$ 678,35).",
     "Alcança 19,3 milhões de famílias (ago/2026). Pagamentos a partir de 19/10/2026, uma semana antes do 2º turno (25/10/2026); críticos apontam uso eleitoral e economistas observam que a inflação justificaria o reajuste desde janeiro.",
     "Custo: R$ 5,8 bilhões no restante de 2026 e R$ 22 bilhões (O Povo, ministro Bruno Moretti) a R$ 22,7 bilhões (Gazeta do Povo) adicionais por ano em 2027 — valor não previsto no PLOA 2027.",
-    "Simulação FGV IBRE (microdados PNAD 2025, aumento real de 15% só para domicílios com Bolsa Família, efeito mecânico): extrema pobreza (linha R$ 218) cai de 3,14% para 2,49% (−0,65 p.p., ~1,39 milhão de pessoas); linha R$ 280: de 4,61% para 4,01% (~1,29 mi); linha R$ 775: de 25,09% para 24,50% (~1,25 mi). Ganho médio per capita: Nordeste R$ 11,87, Norte R$ 11,07, Sudeste R$ 3,86, Sul R$ 2,65; ~734 mil nordestinos cruzam a linha de R$ 280."
+    "Simulação FGV IBRE (microdados PNAD 2025, aumento real de 15% só para domicílios com Bolsa Família, efeito mecânico): extrema pobreza (linha R$ 218) cai de 3,14% para 2,49% (−0,65 p.p., ~1,39 milhão de pessoas); linha R$ 280: de 4,61% para 4,01% (~1,29 mi); linha R$ 775: de 25,09% para 24,50% (~1,25 mi). Ganho médio per capita: Nordeste R$ 11,87, Norte R$ 11,07, Sudeste R$ 3,86, Sul R$ 2,65; ~734 mil nordestinos cruzam a linha de R$ 280.",
+    "A Lei 14.601/2023 prevê revisão dos valores 'a cada intervalo de, no máximo, 24 meses'; o reajuste de out/2026 veio 3 anos e 7 meses depois do início do programa. Segundo as fontes, a linha de elegibilidade de R$ 218 não foi reajustada."
   ],
   "quem_ganha": {
     "descricao": "19,3 milhões de famílias do Bolsa Família (renda per capita até R$ 218), com ganho de R$ 91 no piso — cerca de 12-13% sobre a renda per capita típica dessas famílias (R$ 774 em 2025), efeito concentrado nos dois décimos mais pobres e nas regiões Norte e Nordeste (inferência da nota a partir de IBGE, MDS e FGV IBRE).",
@@ -81,10 +82,11 @@
         "antes": 675,
         "depois_projetado": 777
       },
-      "formula": "beneficio = max(piso_por_familia, renda_de_cidadania_por_pessoa × nº de pessoas) + primeira_infancia × nº de crianças 0-6 + variavel_familiar × nº de gestantes/nutrizes/jovens 7-18",
-      "estrutura_da_formula_inferida_pela_nota": true,
-      "fonte_formula": "Blog do IBRE/FGV (Decreto 13.120/2026)",
-      "fonte_formula_url": "https://blogdoibre.fgv.br/node/2410"
+      "formula": "beneficio = 164 × nº de integrantes + max(0, 691 − 164 × nº de integrantes) [Benefício Complementar] + 173 × nº de crianças de 0 a 7 anos incompletos + 58 × nº de gestantes, nutrizes, crianças de 7 a 12 e adolescentes de 12 a 18 anos incompletos (Lei 14.601/2023 e Decreto 13.120/2026)",
+      "estrutura_da_formula_inferida_pela_nota": false,
+      "fonte_formula": "Decreto 13.120/2026 e Lei 14.601/2023 (Planalto)",
+      "fonte_formula_url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/decreto/D13120.htm",
+      "estrutura_verificada_no_texto_legal": true
     }
   },
   "mitos": [
@@ -185,6 +187,24 @@
       "url": "https://biblioteca.ibge.gov.br/visualizacao/livros/liv102275_informativo.pdf",
       "acesso_em": "2026-10-21",
       "tier": "oficial"
+    },
+    {
+      "nome": "Planalto — Decreto 13.120/2026 (reajuste do Bolsa Família)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/decreto/D13120.htm",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Planalto — Lei 14.601/2023 (Programa Bolsa Família)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_Ato2023-2026/2023/Lei/L14601.htm",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Agência Gov/MDS — pagamento do Bolsa Família de agosto (18/08/2026)",
+      "url": "https://agenciagov.ebc.com.br/noticias/202608/pagamento-do-bolsa-familia-de-agosto-comeca-nesta-terca-feira-18",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/13_renda_por_faixa_e_simulacoes_de_impacto.md",
@@ -193,7 +213,7 @@
   ],
   "lacunas": [
     "Custo em 2027 diverge entre fontes (R$ 22 bi vs R$ 22,7 bi).",
-    "Texto do Decreto 13.120/2026 não acessado (componentes via snippet e blog do IBRE).",
+    "Confirmação, no texto do decreto, de que a linha de R$ 218 não foi reajustada (as fontes secundárias indicam que não).",
     "Simulação do FGV IBRE não estima custo nem mudanças de cobertura."
   ],
   "atualizado_em": "2026-10-21"

@@ -5,8 +5,10 @@
   "candidato": "lula",
   "lado": "governo-lula-pt",
   "minuto": null,
+  "url_trecho": null,
   "frase_literal": "Quando eu cheguei na presidência, nós tínhamos 5 milhões de trabalhadores… com diploma universitário.",
   "literal": true,
+  "variantes_literais": [],
   "tema": "educacao",
   "veredito": "verdadeiro",
   "resumo_uma_frase": "Em 2003 havia cerca de 5,5 milhões de ocupados com ensino superior (IBGE).",
@@ -30,7 +32,23 @@
         "url": "https://www.agencialupa.org/checagem/2026/08/27/ao-vivo-checagem-da-entrevista-de-lula-ao-jornal-nacional/",
         "acesso_em": "2026-10-21",
         "tier": "checagem"
+      },
+      "fonte_primaria": {
+        "nome": "IBGE — SIDRA, tabela 4093 (ocupados por nível de instrução)",
+        "url": "https://sidra.ibge.gov.br/tabela/4093",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial",
+        "acessada_na_rodada_2": true
       }
+    }
+  ],
+  "fontes_primarias": [
+    {
+      "nome": "IBGE — SIDRA, tabela 4093 (ocupados por nível de instrução)",
+      "url": "https://sidra.ibge.gov.br/tabela/4093",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial",
+      "acessada_na_rodada_2": true
     }
   ],
   "base_legal": [],
@@ -77,5 +95,11 @@
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
-  "atualizado_em": "2026-10-21"
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ]
 }

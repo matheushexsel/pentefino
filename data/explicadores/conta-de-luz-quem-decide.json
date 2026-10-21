@@ -115,9 +115,19 @@
       "url": "https://pt.wikipedia.org/wiki/Enel_Distribui%C3%A7%C3%A3o_S%C3%A3o_Paulo"
     },
     {
+      "data": "2013-01-24",
+      "evento": "Revisão extraordinária da MP 579/2012: tarifa B1 da Enel SP cai 18,2% (REH 1.436); média nacional B1 cai 16,6% em 2013.",
+      "url": "https://dadosabertos.aneel.gov.br/dataset/tarifas-distribuidoras-energia-eletrica"
+    },
+    {
       "data": "2015-01-01",
       "evento": "Criação do sistema de bandeiras tarifárias (adicional mensal definido pela ANEEL).",
       "url": "https://mais.opovo.com.br/jornal/farol/2025/02/01/aneel-anuncia-que-fevereiro-tera-bandeira-tarifaria-verde-sem-custo-adicional.html"
+    },
+    {
+      "data": "2015-03-02",
+      "evento": "'Tarifaço'/revisão extraordinária: B1 da Enel SP sobe 28,1% (REH 1.858); média nacional B1 sobe 27,7% em 2015.",
+      "url": "https://dadosabertos.aneel.gov.br/dataset/tarifas-distribuidoras-energia-eletrica"
     },
     {
       "data": "2016-11-28",
@@ -135,9 +145,19 @@
       "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/L14182.htm"
     },
     {
+      "data": "2022-01-13",
+      "evento": "Decreto 10.939 autoriza a Conta Escassez Hídrica (CCEE), com repasse dos custos à CDE.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/decreto/d10939.htm"
+    },
+    {
       "data": "2022-06-23",
       "evento": "LC 194/2022 classifica energia como essencial e limita o ICMS à alíquota modal (17–18%).",
       "url": "https://static.poder360.com.br/2023/11/NOTA-TECNICA-COMSEFAZ-023-2023-Impactos-das-LCs-192.22-e-LCs-194.22-sobre-arrecadacao-de-ICMS-dos-estados1-1.pdf"
+    },
+    {
+      "data": "2023-07-04",
+      "evento": "Tarifa B1 da Enel SP cai 1,1% (REH 3.215/2023); cai de novo 2,0% em jul/2024 (REH 3.339).",
+      "url": "https://dadosabertos.aneel.gov.br/dataset/tarifas-distribuidoras-energia-eletrica"
     },
     {
       "data": "2023-11-03",
@@ -428,13 +448,152 @@
         "acesso_em": "2026-10-21",
         "tier": "academico"
       }
+    },
+    {
+      "rotulo": "Tarifa B1 média simples das distribuidoras (ANEEL Dados Abertos)",
+      "valor": 838.53,
+      "unidade": "R$/MWh",
+      "periodo": "2026 (até out)",
+      "fonte": {
+        "nome": "ANEEL Dados Abertos – Tarifas de aplicação das distribuidoras (CSV gerado em 21/10/2026)",
+        "url": "https://dadosabertos.aneel.gov.br/dataset/tarifas-distribuidoras-energia-eletrica",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "2010",
+        "valor": 342.89
+      }
+    },
+    {
+      "rotulo": "Alta da tarifa B1 média simples 2010→2025",
+      "valor": 130.6,
+      "unidade": "%",
+      "periodo": "2010–2025",
+      "fonte": {
+        "nome": "ANEEL Dados Abertos – Tarifas de aplicação das distribuidoras (CSV gerado em 21/10/2026)",
+        "url": "https://dadosabertos.aneel.gov.br/dataset/tarifas-distribuidoras-energia-eletrica",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "IPCA dez/2010–dez/2025",
+        "valor": 131.6
+      }
+    },
+    {
+      "rotulo": "Tarifa B1 da Enel SP homologada (REH 3.596/2026)",
+      "valor": 789.38,
+      "unidade": "R$/MWh",
+      "periodo": "jul/2026",
+      "fonte": {
+        "nome": "ANEEL Dados Abertos – Tarifas de aplicação das distribuidoras (CSV gerado em 21/10/2026)",
+        "url": "https://dadosabertos.aneel.gov.br/dataset/tarifas-distribuidoras-energia-eletrica",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "REH 1.025/2010",
+        "valor": 296.51
+      }
+    },
+    {
+      "rotulo": "CDE 2026 na base oficial da ANEEL",
+      "valor": 52.66,
+      "unidade": "R$ bilhões",
+      "periodo": "2026",
+      "fonte": {
+        "nome": "ANEEL Dados Abertos – CDE, custeio dos benefícios tarifários (CSV gerado em 01/10/2026)",
+        "url": "https://dadosabertos.aneel.gov.br/dataset/conta-desenvolvimento-energetico-cde-custeio-dos-beneficios-tarifarios",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "Quotas CDE-Uso pagas via tarifa",
+        "valor": 47.79
+      }
+    },
+    {
+      "rotulo": "CDE 2013 (início da série)",
+      "valor": 14.12,
+      "unidade": "R$ bilhões",
+      "periodo": "2013",
+      "fonte": {
+        "nome": "ANEEL Dados Abertos – CDE, custeio dos benefícios tarifários (CSV gerado em 01/10/2026)",
+        "url": "https://dadosabertos.aneel.gov.br/dataset/conta-desenvolvimento-energetico-cde-custeio-dos-beneficios-tarifarios",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "2023",
+        "valor": 34.99
+      }
+    },
+    {
+      "rotulo": "DEC da Enel SP (horas sem luz por consumidor no ano)",
+      "valor": 6.83,
+      "unidade": "horas",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "ANEEL Dados Abertos – Indicadores Coletivos de Continuidade (DEC e FEC)",
+        "url": "https://dadosabertos.aneel.gov.br/dataset/indicadores-coletivos-de-continuidade-dec-e-fec",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "2015 (AES Eletropaulo)",
+        "valor": 23.77
+      }
+    },
+    {
+      "rotulo": "Consumidores da Enel SP (base ANEEL DEC/FEC)",
+      "valor": 8.09,
+      "unidade": "milhões",
+      "periodo": "jul/2026",
+      "fonte": {
+        "nome": "ANEEL Dados Abertos – Indicadores Coletivos de Continuidade (DEC e FEC)",
+        "url": "https://dadosabertos.aneel.gov.br/dataset/indicadores-coletivos-de-continuidade-dec-e-fec",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    {
+      "rotulo": "Eletricidade residencial no Brasil em dólar (GlobalPetrolPrices)",
+      "valor": 0.166,
+      "unidade": "US$/kWh",
+      "periodo": "3º tri/2026",
+      "fonte": {
+        "nome": "GlobalPetrolPrices – Electricity prices (3º tri/2026)",
+        "url": "https://www.globalpetrolprices.com/electricity_prices/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "Média mundial",
+        "valor": 0.179
+      }
+    },
+    {
+      "rotulo": "Posição do Brasil entre 144 países (do mais barato ao mais caro)",
+      "valor": 68,
+      "unidade": "posição",
+      "periodo": "3º tri/2026",
+      "fonte": {
+        "nome": "GlobalPetrolPrices – Electricity prices (3º tri/2026)",
+        "url": "https://www.globalpetrolprices.com/electricity_prices/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
     }
   ],
   "series": [
     "tarifa-residencial-vs-ipca",
     "reajustes-enel-sp",
     "cde-anual",
-    "bandeiras-tarifarias-mensais"
+    "bandeiras-tarifarias-mensais",
+    "tarifa-b1-media-nacional",
+    "dec-fec-enel-sp",
+    "reservatorios-se-co"
   ],
   "mitos_e_fatos": [
     {
@@ -553,13 +712,19 @@
     },
     {
       "mito": "A conta de luz acompanha a inflação.",
-      "fato": "Entre 2003 e 2024 a tarifa residencial subiu 269% contra IPCA de 218% (Abraceel); entre 2010 e 2024 o mercado regulado subiu 177% contra IPCA de 122%. Em 2025 o efeito médio foi 7,0% contra IPCA de 4,4%, 'principalmente devido ao aumento da CDE (Uso e GD)', segundo a ANEEL.",
+      "fato": "Depende da base e da métrica. Pela Abraceel (ponderado por consumo), a tarifa residencial subiu 269% entre 2003 e 2024 contra IPCA de 218%; pelo cálculo da ANEEL, 230% contra 189% entre 2001 e 2019. Mas a média simples da tarifa B1 das distribuidoras na base ANEEL Dados Abertos subiu 130,6% entre 2010 e 2025, praticamente igual ao IPCA (131,6%), e só superou a inflação em 2026 (144,5% acumulado até out/2026). Em 2025 o efeito médio foi 7,0% contra IPCA de 4,4%, 'principalmente devido ao aumento da CDE (Uso e GD)'.",
       "fontes": [
         {
           "nome": "Poder360/Abraceel – Tarifa de energia sobe 45% acima da inflação em 15 anos (09/06/2025)",
           "url": "https://www.poder360.com.br/poder-energia/tarifa-de-energia-eletrica-sobe-45-acima-da-inflacao-em-15-anos/",
           "acesso_em": "2026-10-21",
           "tier": "imprensa"
+        },
+        {
+          "nome": "ANEEL Dados Abertos – Tarifas de aplicação das distribuidoras (CSV gerado em 21/10/2026)",
+          "url": "https://dadosabertos.aneel.gov.br/dataset/tarifas-distribuidoras-energia-eletrica",
+          "acesso_em": "2026-10-21",
+          "tier": "oficial"
         },
         {
           "nome": "ANEEL – Boletim InfoTarifa nº 3, dez/2025 (PDF)",
@@ -594,6 +759,14 @@
     {
       "pergunta": "A privatização da Eletrobras baixou a conta?",
       "resposta": "Não há balanço oficial do efeito líquido. A ANEEL registra alívio (R$ 32 bilhões à CDE em 25 anos e a quitação antecipada dos encargos CDE Covid e CDE Escassez em set/2024) e encarecimento (diminuição das cotas de garantia física, que elevou tarifas em 2025, e térmicas obrigatórias). Veja o explicador sobre a Eletrobras."
+    },
+    {
+      "pergunta": "A Enel SP é a distribuidora mais cara?",
+      "resposta": "Não. A tarifa B1 da Enel SP (R$ 789,38/MWh em jul/2026) é 5,9% menor que a média simples nacional (R$ 838,53); em 2010 era 13,5% menor. No ranking do InfoTarifa de dez/2025, a Enel SP (R$ 725) ficava bem abaixo de Equatorial PA (R$ 978), Enel RJ (R$ 925) e Cemig (R$ 859). A piora da qualidade (DEC) visível na série foi em 2014–2016, na era AES Eletropaulo; na era Enel o DEC anual fica em 6,4–6,8 h, mas os grandes apagões são em parte classificados como expurgo."
+    },
+    {
+      "pergunta": "A energia do Brasil é cara em comparação internacional?",
+      "resposta": "Em dólar nominal, não: US$ 0,166/kWh residencial (média 2023–2026, GlobalPetrolPrices), 68º de 144 países, abaixo da média mundial de US$ 0,179 (EUA 0,190; Alemanha 0,409; Argentina 0,092). Em paridade de poder de compra (CLP: US$ 0,357/kWh, 66º de 138) e em peso sobre a renda (Abrace: 4,54% da renda per capita), o Brasil fica entre os caros."
     }
   ],
   "fontes": [
@@ -770,6 +943,48 @@
       "url": "https://agenciainfra.com/blog/?p=30369",
       "acesso_em": "2026-10-21",
       "tier": "imprensa"
+    },
+    {
+      "nome": "ANEEL Dados Abertos – Tarifas de aplicação das distribuidoras (CSV gerado em 21/10/2026)",
+      "url": "https://dadosabertos.aneel.gov.br/dataset/tarifas-distribuidoras-energia-eletrica",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "ANEEL Dados Abertos – CDE, custeio dos benefícios tarifários (CSV gerado em 01/10/2026)",
+      "url": "https://dadosabertos.aneel.gov.br/dataset/conta-desenvolvimento-energetico-cde-custeio-dos-beneficios-tarifarios",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "ANEEL Dados Abertos – Indicadores Coletivos de Continuidade (DEC e FEC)",
+      "url": "https://dadosabertos.aneel.gov.br/dataset/indicadores-coletivos-de-continuidade-dec-e-fec",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Banco Central do Brasil – SGS 433 (IPCA mensal)",
+      "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.433/dados?formato=json",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Planalto – Decreto 10.939, de 13/01/2022 (Conta Escassez Hídrica)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/decreto/d10939.htm",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "GlobalPetrolPrices – Electricity prices (3º tri/2026)",
+      "url": "https://www.globalpetrolprices.com/electricity_prices/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Comprova – Entenda o papel da Enel e de cada ente da Federação na crise de energia em SP (17/10/2024)",
+      "url": "https://projetocomprova.com.br/publicações/entenda-o-papel-da-enel-e-de-cada-ente-da-federacao-na-crise-de-energia-em-sp/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/06_energia_eletrobras_combustiveis.md",
@@ -778,6 +993,8 @@
     "O boletim InfoTarifa de jun/2026 (fonte dos R$ 851/MWh) não foi aberto diretamente; SBT e Poder360 divergem nos valores de distribuição (R$ 262 vs 292/MWh) e transmissão (R$ 60 vs 80/MWh).",
     "A composição percentual usada é a do CLP (2025, com tributos); a composição oficial da ANEEL por componente não pôde ser extraída do PDF.",
     "Páginas 'Entenda a tarifa' da ANEEL e texto da Lei 9.427/1996 não foram abertos; a descrição institucional se apoia nas fontes listadas.",
-    "Data exata da publicação da Lei 14.182/2021 usada na linha do tempo é a da notícia da sanção (13/07/2021), não conferida no DOU."
+    "A média B1 nacional é simples (não ponderada por consumo) e começa em 2010; a série 2003–2009 e uma média ponderada oficial não estão disponíveis.",
+    "Valor homologado da CDE 2026 confirmado na base ANEEL (R$ 52,66 bi), mas o número da resolução homologatória não consta do arquivo.",
+    "Data da Lei 14.182/2021 na linha do tempo é a da notícia da sanção (13/07/2021)."
   ]
 }

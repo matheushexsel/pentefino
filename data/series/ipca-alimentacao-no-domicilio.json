@@ -1,0 +1,242 @@
+{
+  "id": "ipca-alimentacao-no-domicilio",
+  "titulo": "Inflação dos alimentos: IPCA geral, 'Alimentação e bebidas' e 'Alimentação no domicílio' por ano",
+  "descricao_simples": "Quanto subiram os preços dos alimentos consumidos em casa a cada ano, comparado ao grupo 'Alimentação e bebidas' e ao IPCA geral.",
+  "unidade": "% ao ano (dez/dez)",
+  "tipo_grafico": "barra",
+  "frequencia": "anual",
+  "fonte": {
+    "nome": "IBGE/SIDRA, tabelas 2938 (2006–2011), 1419 (2012–2019), 7060 (2020–2026) e 655 (2003–2005, composição mensal)",
+    "url": "https://apisidra.ibge.gov.br/values/t/7060/n1/all/v/69,2265/p/202012,202112,202212,202312,202412,202512,202609/c315/7169,7170,7171?formato=json",
+    "acesso_em": "2026-10-21",
+    "tier": "oficial"
+  },
+  "pontos": [
+    {
+      "periodo": "2003",
+      "valor": 6.72,
+      "alimentacao_no_domicilio": 6.72,
+      "alimentacao_e_bebidas": 7.48,
+      "ipca_geral": 9.3,
+      "composicao_mensal": true
+    },
+    {
+      "periodo": "2004",
+      "valor": 2.57,
+      "alimentacao_no_domicilio": 2.57,
+      "alimentacao_e_bebidas": 3.87,
+      "ipca_geral": 7.6,
+      "composicao_mensal": true
+    },
+    {
+      "periodo": "2005",
+      "valor": 0.59,
+      "alimentacao_no_domicilio": 0.59,
+      "alimentacao_e_bebidas": 1.99,
+      "ipca_geral": 5.69,
+      "composicao_mensal": true
+    },
+    {
+      "periodo": "2006",
+      "valor": -0.16,
+      "alimentacao_no_domicilio": -0.16,
+      "alimentacao_e_bebidas": 1.23,
+      "ipca_geral": 3.14
+    },
+    {
+      "periodo": "2007",
+      "valor": 12.39,
+      "alimentacao_no_domicilio": 12.39,
+      "alimentacao_e_bebidas": 10.79,
+      "ipca_geral": 4.46
+    },
+    {
+      "periodo": "2008",
+      "valor": 10.68,
+      "alimentacao_no_domicilio": 10.68,
+      "alimentacao_e_bebidas": 11.11,
+      "ipca_geral": 5.9
+    },
+    {
+      "periodo": "2009",
+      "valor": 0.88,
+      "alimentacao_no_domicilio": 0.88,
+      "alimentacao_e_bebidas": 3.18,
+      "ipca_geral": 4.31
+    },
+    {
+      "periodo": "2010",
+      "valor": 10.7,
+      "alimentacao_no_domicilio": 10.7,
+      "alimentacao_e_bebidas": 10.39,
+      "ipca_geral": 5.91
+    },
+    {
+      "periodo": "2011",
+      "valor": 5.43,
+      "alimentacao_no_domicilio": 5.43,
+      "alimentacao_e_bebidas": 7.18,
+      "ipca_geral": 6.5
+    },
+    {
+      "periodo": "2012",
+      "valor": 10.04,
+      "alimentacao_no_domicilio": 10.04,
+      "alimentacao_e_bebidas": 9.86,
+      "ipca_geral": 5.84
+    },
+    {
+      "periodo": "2013",
+      "valor": 7.64,
+      "alimentacao_no_domicilio": 7.64,
+      "alimentacao_e_bebidas": 8.48,
+      "ipca_geral": 5.91
+    },
+    {
+      "periodo": "2014",
+      "valor": 7.1,
+      "alimentacao_no_domicilio": 7.1,
+      "alimentacao_e_bebidas": 8.03,
+      "ipca_geral": 6.41
+    },
+    {
+      "periodo": "2015",
+      "valor": 12.92,
+      "alimentacao_no_domicilio": 12.92,
+      "alimentacao_e_bebidas": 12.03,
+      "ipca_geral": 10.67
+    },
+    {
+      "periodo": "2016",
+      "valor": 9.36,
+      "alimentacao_no_domicilio": 9.36,
+      "alimentacao_e_bebidas": 8.62,
+      "ipca_geral": 6.29
+    },
+    {
+      "periodo": "2017",
+      "valor": -4.85,
+      "alimentacao_no_domicilio": -4.85,
+      "alimentacao_e_bebidas": -1.87,
+      "ipca_geral": 2.95
+    },
+    {
+      "periodo": "2018",
+      "valor": 4.53,
+      "alimentacao_no_domicilio": 4.53,
+      "alimentacao_e_bebidas": 4.04,
+      "ipca_geral": 3.75
+    },
+    {
+      "periodo": "2019",
+      "valor": 7.84,
+      "alimentacao_no_domicilio": 7.84,
+      "alimentacao_e_bebidas": 6.37,
+      "ipca_geral": 4.31
+    },
+    {
+      "periodo": "2020",
+      "valor": 18.15,
+      "alimentacao_no_domicilio": 18.15,
+      "alimentacao_e_bebidas": 14.09,
+      "ipca_geral": 4.52
+    },
+    {
+      "periodo": "2021",
+      "valor": 8.24,
+      "alimentacao_no_domicilio": 8.24,
+      "alimentacao_e_bebidas": 7.94,
+      "ipca_geral": 10.06
+    },
+    {
+      "periodo": "2022",
+      "valor": 13.23,
+      "alimentacao_no_domicilio": 13.23,
+      "alimentacao_e_bebidas": 11.64,
+      "ipca_geral": 5.79
+    },
+    {
+      "periodo": "2023",
+      "valor": -0.52,
+      "alimentacao_no_domicilio": -0.52,
+      "alimentacao_e_bebidas": 1.03,
+      "ipca_geral": 4.62
+    },
+    {
+      "periodo": "2024",
+      "valor": 8.23,
+      "alimentacao_no_domicilio": 8.23,
+      "alimentacao_e_bebidas": 7.69,
+      "ipca_geral": 4.83
+    },
+    {
+      "periodo": "2025",
+      "valor": 1.43,
+      "alimentacao_no_domicilio": 1.43,
+      "alimentacao_e_bebidas": 2.95,
+      "ipca_geral": 4.26
+    },
+    {
+      "periodo": "2026 (jan–set, acumulado no ano)",
+      "valor": 4.44,
+      "alimentacao_no_domicilio": 4.44,
+      "alimentacao_e_bebidas": 4.37,
+      "ipca_geral": 3.95,
+      "parcial": true
+    },
+    {
+      "periodo": "2026 (12 meses até set)",
+      "valor": 4.21,
+      "alimentacao_no_domicilio": 4.21,
+      "alimentacao_e_bebidas": 4.66,
+      "ipca_geral": 4.58,
+      "parcial": true
+    }
+  ],
+  "faixas_referencia": [
+    {
+      "rotulo": "Acumulado Lula 1-2 (2003–2010): geral / alim. e bebidas / alim. no domicílio",
+      "valor": 52.7,
+      "ipca_geral": 56.7,
+      "alimentacao_e_bebidas": 61.6
+    },
+    {
+      "rotulo": "Acumulado Dilma (2011–2016)",
+      "valor": 65.2,
+      "ipca_geral": 49.4,
+      "alimentacao_e_bebidas": 67.9
+    },
+    {
+      "rotulo": "Acumulado Temer (2017–2018)",
+      "valor": -0.5,
+      "ipca_geral": 6.8,
+      "alimentacao_e_bebidas": 2.1
+    },
+    {
+      "rotulo": "Acumulado Bolsonaro (2019–2022)",
+      "valor": 56.2,
+      "ipca_geral": 26.9,
+      "alimentacao_e_bebidas": 46.2
+    },
+    {
+      "rotulo": "Acumulado Lula 3 (2023–2025)",
+      "valor": 9.2,
+      "ipca_geral": 14.3,
+      "alimentacao_e_bebidas": 12.0
+    }
+  ],
+  "notas_metodologicas": [
+    "O campo valor é o subgrupo 'Alimentação no domicílio'. 2003–2005: composição de variações mensais (cálculo próprio da nota; o índice geral reproduziu exatamente 9,30/7,60/5,69).",
+    "Acumulados por governo são produto dos anos (cálculo próprio da nota). O '56,17%' de inflação de alimentos em 2019–2022 citado pela checagem do Aos Fatos (18/10/2026) corresponde ao subgrupo 'Alimentação no domicílio' (56,2%), não ao grupo 'Alimentação e bebidas' (46,2%).",
+    "Maiores altas de alimentação no domicílio: 2020 (18,15%), 2022 (13,23%), 2015 (12,92%), 2007 (12,39%); únicas quedas: 2006, 2017 (−4,85%) e 2023 (−0,52%).",
+    "IPCA de 2010: 5,91% no BCB (valor oficial de fechamento) e 5,92% na tabela SIDRA 2938; mantido 5,91%.",
+    "Outras URLs: https://apisidra.ibge.gov.br/values/t/2938/n1/all/v/69/p/200612,200712,200812,200912,201012,201112/c315/7169,7170,7171?formato=json ; https://apisidra.ibge.gov.br/values/t/1419/n1/all/v/69/p/201212,201312,201412,201512,201612,201712,201812,201912/c315/7169,7170,7171?formato=json ; https://apisidra.ibge.gov.br/values/t/655/n1/all/v/63/p/200301-200512/c315/7169,7170,7171?formato=json"
+  ],
+  "lacunas": [],
+  "ultimo_periodo": "2026 (12 meses até set)",
+  "temas": [
+    "economia"
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/01_macroeconomia_por_governo.md",
+  "atualizado_em": "2026-10-21"
+}

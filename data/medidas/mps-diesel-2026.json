@@ -15,7 +15,9 @@
     "Após o Brent passar de US$ 120 com a guerra no Oriente Médio (fev/2026), o governo passou a pagar subvenção por litro a produtores e importadores de diesel: R$ 0,32/l (MP 1.340, crédito de R$ 7 bi), R$ 0,80/l nacional e R$ 1,20/l importado (MP 1.349, parte paga pelos estados, mais GLP e setor aéreo, R$ 800 mi), R$ 1,12/l (MP 1.363, crédito de R$ 12,5 bi) e R$ 2,12/l (MP 1.391).",
     "Na gasolina, a MP 1.358 autorizou subvenção de até R$ 0,89/l (efetiva de R$ 0,44/l, crédito de R$ 4,1 bi); em 09/09/2026 um decreto cortou R$ 0,63/l de PIS/Cofins (10/09 a 05/10) e zerou o do etanol; em 09/10/2026 os tributos federais da gasolina foram zerados por 30 dias (R$ 0,89/l).",
     "A Portaria MF 2.946 (25/09/2026) prorrogou a subvenção do diesel por 30 dias a um custo de R$ 10,5 bi; o pacote de outubro soma R$ 5,2 bi em 30 dias. O governo diz que as despesas são cobertas por receitas extraordinárias com petróleo (R$ 67,5 bi estimados em 2026) e ficam fora do limite de despesas.",
-    "Com a subvenção, a Petrobras manteve o diesel a R$ 3,30/l e a gasolina a R$ 2,61/l às distribuidoras; a gasolina na bomba ficou entre R$ 6,51 e R$ 6,55 de agosto a outubro."
+    "Com a subvenção, a Petrobras manteve o diesel a R$ 3,30/l e a gasolina a R$ 2,61/l às distribuidoras; a gasolina na bomba ficou entre R$ 6,51 e R$ 6,55 de agosto a outubro.",
+    "Pela composição oficial da Petrobras (coleta ANP 11–17/10/2026), os impostos federais caíram a R$ 0,06/l na gasolina (0,9% do preço) e R$ 0,32/l no diesel S10 (4,4%). Em paralelo, a Res. CNPE 9/2026 elevou a mistura de etanol na gasolina para 32% (E32) a partir de 01/08/2026, em caráter temporário, medida ligada à alta do petróleo.",
+    "Contexto do choque: Brent mensal (EIA) de US$ 70,89 em fev/2026 para 103,13 em março e 117,29 em abril, 85,40 em junho e 114,16 em setembro; média jan–set de US$ 93,27, ainda abaixo da média de 2011–2013 (US$ 108–112), mas com câmbio de R$ 5,15 contra R$ 1,67 em 2011."
   ],
   "quem_ganha": {
     "descricao": "Consumidores de diesel, gasolina, GLP e do setor aéreo, com preços na bomba abaixo do que o petróleo a US$ 100+ implicaria; produtores e importadores que recebem a subvenção (a Petrobras informou ter recebido R$ 9,9 bi até 18/09/2026, R$ 12,2 bi em levantamento posterior).",
@@ -157,6 +159,36 @@
       "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/abicom-diesel-da-petrobras-se-aproxima-ao-subsidio-com-alta-do-brent/",
       "acesso_em": "2026-10-21",
       "tier": "imprensa"
+    },
+    {
+      "nome": "Petrobras – Preços de venda de combustíveis: gasolina (composição, coleta 11–17/10/2026)",
+      "url": "https://precos.petrobras.com.br/precos-gasolina",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Petrobras – Preços de venda de combustíveis: diesel (composição, coleta 11–17/10/2026)",
+      "url": "https://precos.petrobras.com.br/precos-diesel",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "CNPE – Resolução nº 9, de 14/07/2026 (E32 temporário; DOU 30/07/2026) (PDF)",
+      "url": "https://www.gov.br/mme/pt-br/assuntos/conselhos-e-comites/cnpe/resolucoes-do-cnpe/2026/resolucao-9-dou.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "EIA – Europe Brent Spot Price FOB, média mensal (xls)",
+      "url": "https://www.eia.gov/dnav/pet/hist_xls/RBRTEm.xls",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Banco Central do Brasil – SGS 3697 (câmbio R$/US$, venda, média mensal)",
+      "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.3697/dados?formato=json&dataInicial=01/01/2003&dataFinal=31/12/2026",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/06_energia_eletrobras_combustiveis.md",
@@ -166,6 +198,7 @@
     "contas-publicas"
   ],
   "lacunas": [
-    "Total consolidado e oficial (Tesouro/Planejamento) das subvenções de 2026 até outubro não localizado; só valores por MP e declarações. Dia exato da MP 1.391 (set/2026) não consta das notas."
+    "Total consolidado e oficial (Tesouro/Planejamento) das subvenções de 2026 até outubro não localizado; só valores por MP e declarações. Dia exato da MP 1.391 (set/2026) não consta das notas.",
+    "O Boletim RTN de set/2026 do Tesouro (fonte do custo executado) respondeu '429 Too Many Requests' em quatro tentativas na rodada 2; o total consolidado oficial continua em aberto."
   ]
 }

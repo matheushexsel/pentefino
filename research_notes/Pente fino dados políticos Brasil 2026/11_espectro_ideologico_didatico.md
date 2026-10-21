@@ -383,3 +383,259 @@ As definições abaixo sintetizam as fontes citadas nas seções anteriores; ond
 
 ### Gaps
 - Os verbetes 8, 10, 11, 12 e 21 são sínteses com indicação de fonte de aprofundamento (SEP) que não foi fetchada nesta rodada; o redator deve tratá-los como definições de trabalho, não como citações.
+
+---
+
+## Enriquecimento — rodada 2 (21/10/2026)
+
+Nota metodológica da rodada: priorizaram-se fontes primárias baixadas diretamente (dataset V-Party v2 via pacote oficial `vdemdata` do V-Dem Institute; dataset PREPPS no Harvard Dataverse; documentação do Manifesto Project; constituições em constituteproject.org; verbetes da Stanford Encyclopedia of Philosophy; API do Banco Mundial; brochura OCDE/CEPAL/BID/CIAT 2026; Informe Latinobarómetro 2026). Os sites pt.org.br, partidoliberal.org.br e tse.jus.br devolveram HTTP 403 a partir deste ambiente; lupa.uol.com.br não pôde ser acessado; e a cota de buscas na web se esgotou no meio da rodada (ver "Lacunas que permanecem"). Nada do texto anterior desta nota foi alterado; as correções estão listadas em seção própria.
+
+### Lacunas fechadas
+
+**1. V-Party (V-Dem) — valores numéricos para partidos brasileiros (fechada; cobre 1990–2018)**
+- Fonte primária: V-Party Dataset v2 (fev/2022), lido a partir do arquivo `vparty.RData` distribuído pelo pacote oficial `vdemdata` do V-Dem Institute — [GitHub vdeminstitute/vdemdata (data/vparty.RData)](https://raw.githubusercontent.com/vdeminstitute/vdemdata/master/data/vparty.RData); página do dataset e codebook — [V-Dem: V-Party Dataset](https://www.v-dem.net/data/v-party-dataset/); [Codebook V-Party v2 (PDF)](https://www.v-dem.net/documents/6/vparty_codebook_v2.pdf). O download direto no site exige login (/accounts/login/), por isso usou-se o espelho oficial no GitHub.
+- Definição literal da variável de posição econômica (codebook, seção 3.2.13, v2pariglef): "Please locate the party in terms of its overall ideological stance on economic issues. Parties on the economic left want government to play an active role in the economy. This includes higher taxes, more regulation and government spending and a more generous welfare state. Parties on the economic right emphasize a reduced economic role for government: privatization, lower taxes, less regulation, less government spending, and a leaner welfare state." Respostas: 0 Far-left; 1 Left; 2 Center-left; 3 Center; 4 Center-right; 5 Right; 6 Far-right — [Codebook V-Party v2](https://www.v-dem.net/documents/6/vparty_codebook_v2.pdf)
+- Definição literal de pluralismo político (3.2.4, v2paplur): "Prior to this election, to what extent was the leadership of this political party clearly committed to free and fair elections with multiple parties, freedom of speech, media, assembly and association?" (0 = "Not at all committed" … 4 = "Fully committed"; a clarificação diz que a plena adesão inclui "pledge to accept defeat in free and fair elections") — [Codebook V-Party v2](https://www.v-dem.net/documents/6/vparty_codebook_v2.pdf)
+- Antielitismo (3.2.1, v2paanteli): "How important is anti-elite rhetoric for this party?" (0–4); rejeição da violência (3.2.6, v2paviol): "To what extent does the leadership of this party explicitly discourage the use of violence against domestic political opponents?"; o índice de populismo (v2xpa_popul, 0–1) é a média harmônica de antielitismo e centralidade do povo; o índice de antipluralismo (v2xpa_antiplural, 0–1; chamado "illiberalism" na v1) agrega respeito a oponentes, pluralismo, direitos de minorias e rejeição da violência — [Codebook V-Party v2](https://www.v-dem.net/documents/6/vparty_codebook_v2.pdf)
+- Observação de método: valores "_osp" são a escala original (0–6) recuperada do modelo bayesiano; "codelow/codehigh" são os limites do intervalo de credibilidade (~68%) na escala latente; cada partido-ano brasileiro foi codificado por 9–10 especialistas (v2pariglef_nr) — valores extraídos do dataset. Em 2018 o V-Party cobre apenas partidos com ≥5% dos votos ou relevância definida pelo projeto: PSOL, PCdoB, PSTU, PCB, UP, Novo, Avante e Missão **não constam**.
+
+Tabela V-Party — posição econômica (v2pariglef_osp, 0 = extrema esquerda … 6 = extrema direita), eleições de 1990 a 2018 (valores extraídos do dataset):
+
+| Partido | 1990 | 1994 | 1998 | 2002 | 2006 | 2010 | 2014 | 2018 | Leitura 2018 |
+|---|---|---|---|---|---|---|---|---|---|
+| PT | 1,04 | 0,94 | 1,16 | 1,70 | 1,70 | 1,82 | 1,70 | 1,39 | entre "esquerda" (1) e "centro-esquerda" (2) |
+| PSB | — | — | — | 1,56 | 1,70 | 1,70 | 1,94 | 1,84 | esquerda/centro-esquerda |
+| PDT | 1,42 | 1,90 | 2,64 | 1,90 | 1,90 | 1,90 | 1,90 | 1,92 | centro-esquerda |
+| PPS (Cidadania) | — | — | — | — | 2,55 | — | — | — | centro-esquerda (2006) |
+| PMDB/MDB | 2,96 | 3,02 | 3,46 | 3,46 | 3,24 | 3,34 | 3,56 | 3,66 | centro / centro-direita |
+| PSDB | 2,68 | 3,30 | 3,79 | 3,73 | 3,92 | 3,92 | 4,27 | 4,20 | centro-direita |
+| PTB | 3,81 | 3,93 | 3,93 | 3,57 | 3,77 | 3,88 | 3,88 | — | centro-direita |
+| PSD | — | — | — | — | — | — | 4,08 | 4,18 | centro-direita |
+| PL (1990, 2002) / PR-PL (2010–18) | 4,41 | — | — | 4,28 | — | 4,10 | 4,45 | 4,44 | centro-direita/direita |
+| PFL/DEM | 4,46 | 4,62 | 4,47 | 4,52 | 4,52 | 4,73 | 4,83 | 4,59 | direita |
+| PRB (Republicanos) | — | — | — | — | — | — | 4,33 | 4,52 | direita |
+| PPR/PPB/PP | — | 4,89 | 4,89 | 4,78 | 4,68 | 4,68 | 4,79 | 4,79 | direita |
+| PSL (veículo de Bolsonaro, 2018) | — | — | — | — | — | — | — | 5,37 | entre "direita" (5) e "extrema direita" (6) |
+
+Fonte: V-Party v2 (V-Dem), via [vdemdata](https://raw.githubusercontent.com/vdeminstitute/vdemdata/master/data/vparty.RData); definições no [codebook](https://www.v-dem.net/documents/6/vparty_codebook_v2.pdf). Intervalos de credibilidade na escala latente (v2pariglef, codelow–codehigh): PT 2018 = -1,90 [-2,21; -1,56]; PSL 2018 = +3,25 [+2,80; +3,51]; PR/PL 2018 = +1,74 [+1,41; +2,05]; PSDB 2018 = +1,43 [+1,06; +1,68]; PMDB 2018 = +0,79 [+0,50; +1,09] — o intervalo do PSL não se sobrepõe ao de nenhum outro partido (o mais próximo, PP 2018, é +2,26 [+1,93; +2,59]); o do PT sobrepõe-se marginalmente apenas ao do PSB 2018 (-1,28 [-1,62; -0,98]).
+
+Tabela V-Party — dimensão democrática e populista, eleição de 2018 (escalas originais 0–4, índices 0–1):
+
+| Partido (2018) | Pluralismo político (v2paplur, 0–4) | Direitos de minorias (v2paminor, 0–4) | Rejeição da violência (v2paviol, 0–4) | Antielitismo (v2paanteli, 0–4) | Índice populismo (0–1) | Índice antipluralismo (0–1) |
+|---|---|---|---|---|---|---|
+| PT | 3,90 | 3,52 | 3,91 | 3,49 | 0,78 | 0,03 |
+| PSB | 3,70 | 3,50 | 3,68 | 2,42 | 0,46 | 0,06 |
+| PDT | 3,64 | 3,64 | 3,66 | 2,74 | 0,55 | 0,08 |
+| MDB | 3,42 | 3,00 | 3,76 | 0,71 | 0,22 | 0,12 |
+| PSDB | 3,26 | 2,68 | 3,68 | 0,98 | 0,21 | 0,23 |
+| PSD | 3,20 | 2,31 | 3,38 | 0,80 | 0,20 | 0,27 |
+| PR/PL | 3,38 | 2,77 | 3,55 | 0,51 | 0,10 | 0,17 |
+| DEM | 3,27 | 2,13 | 3,39 | 0,61 | 0,13 | 0,28 |
+| PRB | 3,15 | 2,14 | 3,37 | 0,71 | 0,22 | 0,30 |
+| PP | 3,17 | 2,30 | 3,36 | 0,50 | 0,12 | 0,30 |
+| PSL | 1,89 | 0,50 | 1,92 | 0,96 | 0,35 | 0,95 |
+
+Fonte: idem. Leitura didática: pelos especialistas do V-Party, em 2018 o PT era o partido mais populista do sistema (antielitismo 3,49 de 4; índice 0,78) **e** um dos mais comprometidos com o pluralismo democrático (3,90 de 4; antipluralismo 0,03); o PSL, pelo contrário, combinava populismo moderado (0,35) com o maior antipluralismo do sistema (0,95 de 1), pluralismo "fracamente comprometido" (1,89 ≈ categoria 2) e a menor rejeição da violência (1,92). Isso dá base empírica, anterior a 2022, à distinção de Mudde usada na seção 6 (direita radical × direita extrema). Trata-se de codificação por especialistas, com os limites desse método; o PL pós-2021 não foi codificado (não há onda V-Party para 2022).
+
+**2. PREPPS (Wiesehomeier, Singer & Ruth-Lovell, 2021) — valores do survey de especialistas citado na nota (fechada)**
+- Fonte primária: "Representation, Executives, and Political Parties Survey (PREPPS) Latam V2", Harvard Dataverse, DOI 10.7910/DVN/JLOYIJ, versão 1 publicada em 07/02/2021; surveys de especialistas realizados "autumn 2018, mid 2019"; questionário traduzido para o português no caso do Brasil; pergunta geral: "Please locate each party on a general left-right dimension, taking all aspects of party policy into account. Left (1) Right (20)" — [Harvard Dataverse (API de metadados)](https://dataverse.harvard.edu/api/datasets/:persistentId/?persistentId=doi:10.7910/DVN/JLOYIJ); [Dados (TSV)](https://dataverse.harvard.edu/api/access/datafile/4372420); [Codebook (PDF)](https://dataverse.harvard.edu/api/access/datafile/4372421)
+
+Tabela PREPPS — Brasil, dimensão geral esquerda–direita (1 = esquerda, 20 = direita), com desvio-padrão entre especialistas e nº de respostas:
+
+| Partido / presidente | Posição (1–20) | DP | n |
+|---|---|---|---|
+| PSOL | 1,66 | 1,05 | 38 |
+| PT | 5,04 | 2,70 | 114 |
+| PDT | 6,66 | 2,99 | 115 |
+| PSB | 7,97 | 3,55 | 113 |
+| Rede | 9,33 | 3,93 | 30 |
+| PV | 9,77 | 2,67 | 26 |
+| PTB | 13,88 | 4,27 | 112 |
+| MDB | 14,66 | 3,29 | 115 |
+| PSDB | 14,77 | 3,44 | 114 |
+| PSD | 15,81 | 3,65 | 108 |
+| Podemos | 15,95 | 3,71 | 102 |
+| Republicanos (PRB) | 16,81 | 3,34 | 104 |
+| Michel Temer (presidente) | 16,82 | 2,56 | 113 |
+| PP | 17,00 | 3,00 | 103 |
+| PR (atual PL) | 17,05 | 3,10 | 112 |
+| DEM | 18,09 | 2,46 | 115 |
+| Novo | 18,31 | 1,97 | 13 |
+| PSL | 18,35 | 3,67 | 31 |
+| Jair Bolsonaro (presidente) | 19,26 | 1,34 | 31 |
+
+Fonte: [PREPPS Latam V2, Dataverse](https://dataverse.harvard.edu/api/access/datafile/4372420). Na dimensão "Redistribution" (1 = favorável à redistribuição, 20 = contrário), PT 4,00; PSOL 1,93; PSB 7,71; MDB 14,96; PSDB 14,22; PR 16,03; DEM 17,23; Novo 18,02; Bolsonaro 16,48. Leitura: na escala de 1 a 20 o ponto médio é 10,5; o PT (5,04) está à esquerda, mas a mais de 3 pontos do polo (PSOL 1,66); o PR/PL (17,05) está na mesma faixa de PP e Republicanos, e Bolsonaro (19,26) quase no extremo. Isso replica, com outra régua e outros respondentes (acadêmicos, não parlamentares), o padrão da BLS da seção 3.
+
+**3. Manifesto Project — cobertura brasileira e por que a RILE não está disponível (parcialmente fechada)**
+- Dataset "Manifesto Project Dataset: South America", versão 2020b (Burst, Krause, Lehmann, Matthieß, Merz, Regel, Weßels & Zehnter, WZB), DOI 10.25522/manifesto.mpdssa.2020b: 28 eleições, 64 partidos, 104 manifestos; arquivos de dados exigem chave de API (download anônimo do CSV devolveu 404) — [Manifesto Project: MPDSSA2020b](https://manifesto-project.wzb.eu/datasets/MPDSSA2020b)
+- Lista oficial dos programas presidenciais brasileiros codificados (CSV público): Lula 1989 (Frente Brasil Popular), 1994, 1998, 2002, 2006; Dilma 2010 e 2014; Haddad 2018 (coligação PT-PCdoB-PROS); PSDB em 1989 (Covas), 1994 e 1998 (FHC), 2002 e 2010 (Serra), 2006 (Alckmin), 2014 (Aécio), 2018 (Alckmin); Collor 1989; Enéas/PRONA 1994; Ciro 1998 (PPS), 2002 (Frente Trabalhista) e 2018 (PDT); Heloísa Helena 2006 (Frente de Esquerda); Marina 2010 (PV) e 2014 (PSB); Bolsonaro 2018 ("Brasil acima de tudo, Deus acima de todos") — [documents_MPDataset_MPDSSA2020b.csv](https://manifesto-project.wzb.eu/down/data/SA2020b/codebooks/documents_MPDataset_MPDSSA2020b.csv); [Lista de partidos (PDF)](https://manifesto-project.wzb.eu/down/data/SA2020b/codebooks/parties_MPDataset_MPDSSA2020b.pdf)
+- A lista de partidos registra que a coligação de Lula em 2002 e 2006 incluía o **PL** ("PL Partido Liberal") ao lado de PT, PCdoB e PCB — o mesmo partido que hoje abriga o bolsonarismo foi o partido do vice José Alencar — [Lista de partidos MPDSSA2020b](https://manifesto-project.wzb.eu/down/data/SA2020b/codebooks/parties_MPDataset_MPDSSA2020b.pdf)
+- Tarouco, G. (2022), "Esquerda, direita e eleições presidenciais no Brasil", *Estudos Avançados* 36(106), DOI 10.1590/s0103-4014.2022.36106.008: analisa 23 programas de 1994 a 2018 (Quadro 1), usa as dimensões Planeco, Markeco, Welfare e Conservadorismo do MP e a medida de polarização de Dalton (0–100); a polarização "diminui até 2010 e atinge o ponto máximo em 2018, exceto na dimensão de economia planejada"; "os conteúdos do programa de Bolsonaro sejam os principais responsáveis pela polarização nas dimensões de conservadorismo e liberdade de mercado", enquanto na dimensão bem-estar o aumento em 2018 "está relacionada ao aumento da ênfase das suas categorias no programa do PT (de 14.4 em 2010 para 19.2 em 2018)". **Nota 3 do artigo:** "O MP também calcula a escala RILE, da dimensão esquerda-direita, que não foi incorporada na presente análise por já ter sido questionada em outros trabalhos (Martins; Moreira; Tarouco, 2021; Tarouco; Madeira, 2013b; Tarouco; Madeira; Vieira, 2022)" — [PDF do artigo](https://revistas.usp.br/eav/article/download/205986/189561); [Página do artigo](https://revistas.usp.br/eav/article/view/205986)
+- Conclusão didática: para o Brasil, a escala RILE do Manifesto Project **não deve ser usada** como régua esquerda-direita (a própria literatura brasileira que trabalha com o MP a descarta); o que o MP sustenta com segurança é o salto de polarização programática em 2018.
+
+**4. Stanford Encyclopedia of Philosophy — verbetes que faltavam (fechada); SEP não tem verbete "Fascism" (verificado)**
+- `plato.stanford.edu/entries/fascism/` devolve HTTP 404: a SEP **não possui** verbete sobre fascismo; os verbetes 20 e 21 do glossário (fascismo, nazismo) não devem citar a SEP como fonte de aprofundamento — verificação direta em 21/10/2026.
+- **Liberalism** (Courtland, Gaus & Schmidtz; publicado em 28/11/1996, revisão substantiva em 25/02/2026): "Liberalism is a philosophy that starts from a premise that political authority must be justified" (§1.1); cita Cranston: "a liberal is a man who believes in liberty", e Mill: "The a priori assumption is in favour of freedom"; §2.1: "For classical liberals — 'old' liberals — liberty and private property are intimately related"; §2.2: o "novo" liberalismo (também chamado "'new', 'revisionist', 'welfare state', or 'social justice' liberalism") "challenges this intimate connection between personal liberty and a private property based market order" — [SEP: Liberalism](https://plato.stanford.edu/entries/liberalism/)
+- **Conservatism** (publicado em 01/08/2015, revisão substantiva em 18/07/2025): conservadorismo é uma abordagem "which mistrusts both a priori reasoning and revolution" e "rests on what may be termed particularist scepticism concerning abstract rational principles" (§1.2); tradições são vistas "not as static, but as in a gentle and gradual flux" (§1.3); distinção crucial para o debate brasileiro: "It is reaction and not conservatism that is inherently authoritarian" (§1.3) e o conservadorismo é "neither dogmatic reaction, nor the right-wing radicalism" de Thatcher ou dos neoconservadores (Introdução) — [SEP: Conservatism](https://plato.stanford.edu/entries/conservatism/)
+- **Libertarianism** (publicado em 05/09/2002, revisão substantiva em 07/08/2023): "Libertarians take individual freedom as the paramount political value"; defendem "an economic order based on private property rights, freedom of contract, and voluntary cooperation"; o papel do Estado é "the enforcement of a system of rights that facilitate socioeconomic cooperation, and little else"; "Self-ownership is the idea that all individuals have ownership rights over themselves" (§1); libertários de esquerda admitem "a principle demanding that external resources be equally distributed among self-owners" (§4); Nozick: um Estado "with strictly curtailed domain of activity, could exist without anyone's rights being violated" — o "Estado mínimo" (§5) — [SEP: Libertarianism](https://plato.stanford.edu/entries/libertarianism/)
+- Aplicação ao glossário: o verbete 11 (conservadorismo) deve incorporar a distinção SEP entre conservadorismo (reformista, cético, não autoritário por natureza) e reação/radicalismo de direita; isso ajuda a explicar por que "conservador" e "extrema direita" não são sinônimos.
+
+**5. Paxton — definição literal (fechada)**
+- Texto integral da definição de *The Anatomy of Fascism* (2004), reproduzido em transcrição didática do OER Project: "Fascism is a form of political behavior marked by obsessive preoccupation with community decline, humiliation, or victimhood and by compensatory cults of unity, energy, and purity, in which a mass-based party of committed nationalist militants, working in uneasy but effective collaboration with traditional elites, abandons democratic liberties and pursues with redemptive violence and without ethical or legal restraints, with the goals of internal cleansing and external expansion" — [OER Project, "What is Fascism?" (transcrição, PDF)](https://www.oerproject.com/-/media/WHP/PDF/Transcripts/What_is_Fascism.pdf). A mesma frase, atribuída à p. 218, é citada por Ruth Ben-Ghiat em artigo no History News Network (07/12/2022), que registra que o 6 de janeiro de 2021 "changed Paxton's mind" sobre aplicar o termo a Trump — [HNN](https://www.historynewsnetwork.org/article/what-exactly-is-fascism)
+- Tradução de trabalho (síntese): "forma de comportamento político marcada pela preocupação obsessiva com o declínio, a humilhação ou a vitimização da comunidade e por cultos compensatórios de unidade, energia e pureza, na qual um partido de massas de militantes nacionalistas comprometidos, em colaboração desconfortável mas eficaz com elites tradicionais, abandona as liberdades democráticas e persegue, com violência redentora e sem freios éticos ou legais, objetivos de limpeza interna e expansão externa".
+
+**6. Textos constitucionais de Cuba, China e Venezuela sobre propriedade (fechada)**
+- **Cuba (2019)**, via Constitute Project: art. 1 — "Cuba is a democratic, independent and sovereign socialist State of law and social justice"; art. 5 — o Partido Comunista é "the organized vanguard of the Cuban nation" e "the superior driving force of the society and the State"; art. 18 — "The Republic of Cuba is governed by a socialist economic system based on ownership by all people of the fundamental means of production"; art. 19 — "Socialist planning constitutes the central component of the system of governance for economic and social development"; art. 22 — formas de propriedade: socialista de todo o povo, cooperativa, privada ("that which is exercised over specific means of production", com "a complementary role in the economy"); art. 23 — recursos naturais estatais "may not be transferred as property to natural or legal persons"; art. 28 — "The State promotes and provides guarantees to foreign investment"; art. 30 — "The concentration of property in natural or legal non-state persons is regulated by the State" — [Constitute: Cuba 2019](https://www.constituteproject.org/constitution/Cuba_2019)
+- **China (1982, rev. 2018)**: art. 1 — "The leadership of the Communist Party of China is the defining feature of socialism with Chinese characteristics"; art. 6 — "The basis of the socialist economic system of the People's Republic of China is socialist public ownership"; art. 7 — "The State-owned economy, that is, the socialist economy under ownership by the whole people, is the leading force"; art. 11 — economias "individual, private and other non-public" existem "within the limits prescribed by law"; **art. 13 — "Citizens' lawful private property is inviolable"**; art. 15 — "The state has put into practice a socialist market economy" — [Constitute: China 2018](https://www.constituteproject.org/constitution/China_2018)
+- **Venezuela (1999, rev. 2009)**: art. 112 — "All persons may devote themselves freely to the economic activity of their choice", com o Estado obrigado a promover a iniciativa privada; **art. 115 — "The right of property is guaranteed"**, e a expropriação só cabe "for reasons of public benefit or social interest by final judgment, with timely payment of fair compensation" — [Constitute: Venezuela 2009](https://www.constituteproject.org/constitution/Venezuela_2009)
+- Leitura didática: o traço constitucional comum a Cuba e China **não** é a abolição literal da propriedade privada (China protege a "propriedade privada legal"; Cuba reconhece a propriedade privada "complementar"), mas (a) a propriedade pública dos meios de produção como "base"/"fundamento" do sistema e (b) a direção do Partido Comunista inscrita na Constituição. A Venezuela chavista não tem nenhum dos dois na letra constitucional — o que reforça a classificação da seção 4 ("autoritarismo competitivo", não comunismo). O Brasil não tem nenhum dos dois.
+
+**7. Comparação quantitativa Brasil × social-democracias europeias × esquerdas latino-americanas (fechada na parte fiscal e de desigualdade)**
+- Carga tributária total (impostos + contribuições sociais, todos os níveis de governo), 2024, OCDE/CEPAL/BID/CIAT, *Revenue Statistics in Latin America and the Caribbean 2026*: **Brasil 33,7%** do PIB — o maior da América Latina e Caribe; média OCDE 34,1%; média ALC 21,7%; Argentina 27,6; Uruguai 27,3; Cuba 22,9; Chile 20,5; Colômbia 19,9; México 18,3; "In 2024, tax-to-GDP ratios in the LAC region ranged from 9.2% in Guyana to 33.7% in Brazil"; o aumento brasileiro é atribuído em parte a "tax reforms" — [Brochura OCDE (PDF)](https://oecd.org/content/dam/oecd/en/topics/policy-sub-issues/global-tax-revenues/brochure-revenue-statistics-latin-america-and-caribbean.pdf); edição 2026 — [OECD iLibrary](https://www.oecd-ilibrary.org/en/publications/revenue-statistics-in-latin-america-and-the-caribbean-2026_2f21f131-en). Para 2023, a edição 2025 registrava Brasil 32,0% e OCDE 33,9% — [OECD, country note Brazil 2025](https://www.oecd.org/en/publications/revenue-statistics-in-latin-america-and-the-caribbean-2025-country-notes_111c5149-en/brazil_f6a5cb34-en) (página devolveu 403 neste ambiente; valor via resumo de busca, confirmar).
+- Índice de Gini (Banco Mundial, SI.POV.GINI, último ano disponível): Brasil 50,3 (2024); Colômbia 54,4 (2024); Chile 43,0 (2024); México 42,6 (2024); Argentina 42,4 (2024); EUA 41,8 (2024); Uruguai 40,0 (2024); China 36,0 (2022); Portugal 33,9 (2023); Alemanha 33,7 (2022); Espanha 33,4 (2023); França 31,8 (2023); Dinamarca 29,9 (2023); Suécia 29,3 (2023); Noruega 26,5 (2023) — [API Banco Mundial](https://api.worldbank.org/v2/country/BRA;SWE;DEU;PRT;ESP;DNK;NOR;FRA;CHL;URY;ARG;COL;MEX;VEN;CUB;CHN;USA/indicator/SI.POV.GINI?date=2015:2024&format=json&per_page=500)
+- Consumo final do governo geral (% do PIB, 2024, Banco Mundial NE.CON.GOVT.ZS): Suécia 26,6; Cuba 24,8; França 24,2; Dinamarca 23,0; Noruega 22,1; Alemanha 22,0; Espanha 19,3; **Brasil 18,8**; Uruguai 17,4; Portugal 16,8; China 16,7; Chile 15,1; Argentina 14,9; Colômbia 14,8; EUA 13,6; México 11,6 — [API Banco Mundial](https://api.worldbank.org/v2/country/BRA;SWE;DEU;PRT;ESP;DNK;NOR;FRA;CHL;URY;ARG;COL;MEX;VEN;CUB;CHN;USA/indicator/NE.CON.GOVT.ZS?date=2015:2024&format=json&per_page=500)
+- Despesa do governo central (% do PIB, 2023, Banco Mundial GC.XPN.TOTL.GD.ZS; **apenas governo central**, não comparável a países federais como Alemanha/EUA): França 47,3; Portugal 37,2; Uruguai 36,5; Noruega 34,5; Espanha 34,0; Colômbia 33,3; Dinamarca 33,3; Suécia 32,5 (2022); **Brasil 32,4**; Alemanha 31,2 (2022); Chile 24,6; EUA 24,4; México 22,5; Argentina 21,0 — [API Banco Mundial](https://api.worldbank.org/v2/country/BRA;SWE;DEU;PRT;ESP;DNK;NOR;FRA;CHL;URY;ARG;COL;MEX;VEN;CUB;CHN;USA/indicator/GC.XPN.TOTL.GD.ZS?date=2015:2024&format=json&per_page=500)
+- Leitura didática (inferência a partir dos dados acima): o Brasil sob Lula 3 tem carga tributária de nível europeu (33,7% vs. 34,1% da OCDE) e tamanho do Estado no consumo final (18,8% do PIB) **abaixo** de Suécia, França, Alemanha e Espanha, mas desigualdade (Gini 50,3) muito acima de qualquer social-democracia europeia (26–34) e da própria esquerda latino-americana (Uruguai 40, Chile 43, México 43). Em termos de Estado na economia, o Brasil está mais perto de Portugal/Espanha do que de Cuba; o que o diferencia das social-democracias é o resultado distributivo, não o tamanho do Estado. Isso é consistente com a classificação "híbrido capitalista com elementos socialistas" (SEP) da seção 4 e inconsistente com "comunismo".
+
+**8. Autoposicionamento ideológico do eleitorado brasileiro (Datafolha) — nova série (fechada em parte)**
+- Datafolha, campo 2–4/12/2025, 2.002 entrevistas em 113 municípios, margem de 2 p.p., pergunta direta em escala de 1 a 7: direita 35%, centro-direita 11% (46% à direita); esquerda 22%, centro-esquerda 7% (29% à esquerda); 8% não souberam; entre 60+ anos, 42% direita e 25% esquerda; entre 16–24 anos, 30% centro, 26% direita e 16% esquerda; evangélicos 42% direita × 16% esquerda; católicos 36% × 24%; 22% dos que se dizem de direita votaram em Lula em 2022 e 9% dos de esquerda votaram em Bolsonaro; na escala de simpatia PT × Bolsonaro, 40% petistas, 36% bolsonaristas, 18% neutros — [Diário de Pernambuco/Estadão Conteúdo, 25/12/2025](https://www.diariodepernambuco.com.br/brasil/2025/12/11703658-datafolha-mais-de-um-terco-dos-brasileiros-se-identificam-com-a-direita-e-22-com-a-esquerda.html); 17% de centro segundo a Crusoé — [O Antagonista/Crusoé](https://oantagonista.com.br/brasil/crusoe-datafolha-mede-a-direita-e-a-esquerda-no-brasil/)
+- Datafolha, junho/2026 (registro TSE BR-09956/2026; margem 2 p.p.; 95% de confiança), **índice construído a partir de respostas sobre valores sociais, políticos, culturais e econômicos, não de pergunta direta**: direita 44% (direita 15% + centro-direita 29%); esquerda 39% (centro-esquerda 26% + esquerda 13%); centro 17%. Série histórica do instituto com o mesmo método: 2013 direita 39% × esquerda 41%; 2014 45% × 35%; 2017 40% × 41%; 2022 esquerda 49% × direita 34%; 2026 primeira liderança numérica da direita desde 2014. No eixo econômico isolado, 46% à esquerda, 28% à direita, 26% centro (2022: 50/25/25); mulheres 44% esquerda × 37% direita; homens 50% direita × 33% esquerda; evangélicos 52% direita × 30% esquerda; católicos 43% × 39% — [CartaCapital, 03/07/2026](https://www.cartacapital.com.br/?p=619861)
+- Leitura: as duas medidas não são comparáveis entre si (autodeclaração × índice de valores). O dado mais robusto para o leitor é que, por valores, o eleitorado é majoritariamente "de esquerda" na economia (46% × 28%) e mais "de direita" nos costumes — exatamente o padrão de dois eixos da seção 2.
+
+**9. Lilia Schwarcz e Esther Solano sobre o bolsonarismo (fechada em parte)**
+- Lilia Schwarcz, debate com Marcos Nobre na Agência Pública (22/02/2021): "O bolsonarismo é um movimento retrógrado, de extrema direita, populista e tecnocrata"; "Vem na onda de uma série de governos de homens muito retrógrados, de extrema direita"; "O Bolsonarismo virou uma espécie de virose dentro da sociedade brasileira" — [Agência Pública](https://apublica.org/2021/02/o-bolsonarismo/). Schwarcz não usa "fascismo" nessas falas; sua categoria é "extrema direita populista".
+- Esther Solano (Unifesp): em entrevista de 2018 descreve o movimento como uma "espécie de pinochetismo" — [Vermelho, 04/11/2018](https://vermelho.org.br/2018/11/04/o-que-estamos-vendo-no-brasil-e-uma-especie-de-pinochetismo/); em entrevista ao IHU (04/10/2018) explica por que ex-eleitores de Lula votaram em Bolsonaro (personalismo, busca de "líder forte") — [IHU Unisinos](https://ihu.unisinos.br/categorias/583372-por-que-ha-ex-eleitores-de-lula-que-votam-em-bolsonaro-entrevista-com-esther-solano); em entrevista ao Goethe-Institut afirma que "o medo é uma antiga ferramenta de manipulação" — [Goethe-Institut](https://www.goethe.de/prj/hum/pt/dos/ang/21808265.html); working paper "La Bolsonarización de Brasil" (IELAT, 2019) — [Dialnet (PDF)](https://dialnet.unirioja.es/descarga/articulo/6914400.pdf); organizou *O ódio como política* (Boitempo) e *Brasil em colapso* — [IHU, 30/11/2019](https://ihu.unisinos.br/594781-brasil-em-colapso-ou-como-restringir-a-democracia-a-classe-privilegiada-entrevista-com-esther-solano). Solano enquadra o bolsonarismo como convergência de agendas neoliberal e neoconservadora (coluna na CartaCapital; a URL exata da coluna não pôde ser confirmada individualmente nesta rodada).
+- Nem Schwarcz nem Solano, nos textos localizados, classificam o bolsonarismo como "fascista" em sentido estrito — convergem com a categoria "extrema direita/direita radical populista" da seção 6.
+
+**10. Latinobarómetro 2026 — classificação dos governos e apoio à democracia (nova fonte, fecha parte da lacuna sobre Latinobarómetro)**
+- Informe Latinobarómetro 2026 ("¿La crisis de la democracia liberal?", 02/10/2026, 31 anos de dados 1995–2026): classificação política dos 18 governos — "Dictaduras: 3: El Salvador, Venezuela, Nicaragua"; "Gobiernos de extrema derecha: 4: Colombia, Chile, Perú, Argentina"; "Gobiernos de centro y centroderecha: 7"; "**Gobiernos de izquierda: 4: México, Brasil, Guatemala, Uruguay**"; a Argentina é descrita como "modelo propio muy particular, de liberalismo populista extremo" — [Informe Latinobarómetro 2026 (PDF)](https://www.latinobarometro.org/documents/informe-latinobarometro-2026.pdf)
+- Apoio à democracia 2026: Brasil 41%, o segundo menor da região (Guatemala 35%, Honduras 42%, Equador 43%; Uruguai 64%) — [Informe Latinobarómetro 2026](https://www.latinobarometro.org/documents/informe-latinobarometro-2026.pdf)
+- O informe argumenta que o voto na extrema direita regional é "más un voto pragmático que ideológico", "por descarte", e adverte: "cuando se ideologiza la calificación de una democracia, se daña la [democracia]" — [Informe 2026](https://www.latinobarometro.org/documents/informe-latinobarometro-2026.pdf)
+- Para esta nota: a classificação independente do Latinobarómetro põe o governo Lula 3 em "izquierda" (não "extrema izquierda") e distingue-o das "dictaduras" (Venezuela, Nicarágua, El Salvador). **O informe 2026 não traz a média de autoposicionamento 0–10 por país**; essa lacuna permanece (ver abaixo).
+
+**11. "Ditadura" nos dois lados — declarações documentadas (checagens específicas continuam não localizadas)**
+- Flávio Bolsonaro, convenção do PL-SC, 01/08/2026: chamou Lula de "projeto de ditador" e disse que vai "demiti-lo" em outubro; afirmou que o Brasil "não vive mais em uma democracia plena" — [InfoMoney/Agência Estado](https://www.infomoney.com.br/?p=3434755); [O Povo](https://www.opovo.com.br/noticias/politica/2026/08/01/flavio-bolsonaro-chama-lula-de-projeto-de-ditador-e-diz-que-vai-demiti-lo-em-outubro.html); [Poder360 (vídeo do discurso)](https://www.poder360.com.br/poder-eleicoes-2026/assista-ao-discurso-de-flavio-bolsonaro-na-convencao-do-pl-em-sc/); em evento na Fiesp (ago/2026) disse que o pai é o "último obstáculo" contra uma ditadura — [Portal de Prefeitura, 25/08/2026](https://portaldeprefeitura.com.br/bastidores-da-politica/flavio-bolsonaro-diz-que-pai-e-ultimo-obstaculo-contra-ditadura/630808/)
+- Do outro lado, José Dirceu (PT) disse que Flávio "é golpista como o pai" — [Money Times](https://www.moneytimes.com.br/dirceu-ataca-flavio-rejeita-lulinha-paz-e-amor-e-reune-politicos-do-centrao-em-aniversario-gaep/); coluna do Brasil de Fato (16/10/2026) critica a "falsa simetria que equipara Lula e Flávio" — [Brasil de Fato](https://www.brasildefato.com.br/2026/10/16/a-falsa-simetria-que-equipara-lula-e-flavio/)
+- Avaliação: ambas as frases são juízos políticos, não enunciados factuais checáveis; o que é checável (e consta da seção 7) é a condenação judicial por tentativa de golpe, de um lado, e a ausência de qualquer ato ou proposta de suspensão de eleições, do outro. Não foi localizada checagem da Lupa ou do Estadão Verifica com esses enunciados (busca encerrada por esgotamento da cota; lupa.uol.com.br inacessível).
+
+**12. Programa de governo Lula 2026 no TSE (fechada em parte — metadados, não o texto)**
+- Título: "Diretrizes para o Programa de Transformação do Brasil: um país soberano, democrático, desenvolvido, sustentável e criativo"; 84 páginas; 13 diretrizes; coligação "Brasil Pronto Pra Mais"; protocolado em 07/08/2026 e registrado no sistema do TSE em 08/08/2026 (as fontes divergem na data); medidas destacadas: redução da jornada de trabalho, criação de Ministério da Segurança Pública, ampliação da educação em tempo integral — [Congresso em Foco](https://congressoemfoco.com.br/noticia/121121/pt-registra-novo-plano-de-governo-de-lula-no-tse-veja-a-integra); [Sou Brasília](https://soubrasilia.com/plano-governo-lula-tse-continuidade-economica-agosto-2026/). Nenhuma das fontes cita a palavra "socialismo" no documento; a palavra do título é "democrático". O texto integral não foi lido.
+
+### Correções a dados existentes
+
+1. **Seção 1 / glossário 4 ("Comunismo") — teste operacional precisa de nuance.** A inferência da seção 1 ("há abolição da propriedade privada dos meios de produção…?") deve ser reformulada: a Constituição chinesa (art. 13) declara "Citizens' lawful private property is inviolable" e a cubana (art. 22) reconhece a propriedade privada com "papel complementar". O critério constitucional que distingue Cuba e China é a **propriedade pública como base do sistema + direção do Partido Comunista inscrita na Constituição** (Cuba art. 5 e 18; China art. 1, 6 e 7), não a abolição literal de toda propriedade privada — [Constitute: China 2018](https://www.constituteproject.org/constitution/China_2018); [Constitute: Cuba 2019](https://www.constituteproject.org/constitution/Cuba_2019). A conclusão da nota (o Brasil não atende ao critério) permanece válida e fica mais forte.
+2. **Seção 2, Gaps — "não obtive os números do V-Party".** Fechado: ver tabelas acima. Corrigir também a descrição: a versão atual é a v2 (fev/2022) e o download no site exige login; o pacote `vdemdata` distribui o mesmo arquivo — [V-Dem](https://www.v-dem.net/data/v-party-dataset/).
+3. **Seção 2 e glossário — Manifesto Project/RILE.** A nota trata a RILE como medida disponível com "ressalvas"; a literatura brasileira que usa o MP (Tarouco 2022, nota 3) **exclui** a RILE por ter sido "questionada em outros trabalhos". Recomenda-se não citar valores RILE para o Brasil mesmo que venham a ser obtidos — [Tarouco 2022 (PDF)](https://revistas.usp.br/eav/article/download/205986/189561).
+4. **Glossário, verbetes 20 e 21 (fascismo/nazismo) e Gap da seção 9.** A SEP não tem verbete "Fascism" (HTTP 404); a indicação "ver SEP" nesses verbetes deve ser retirada; a fonte literal de Paxton agora está disponível (item 5 acima).
+5. **Glossário, verbete 11 (conservadorismo).** A definição de trabalho deve incorporar: "It is reaction and not conservatism that is inherently authoritarian" (SEP §1.3) — o conservadorismo burkeano é reformista e cético, distinto da reação e do "right-wing radicalism" — [SEP: Conservatism](https://plato.stanford.edu/entries/conservatism/).
+6. **Glossário, verbete 10 (liberalismo social).** A SEP chama a corrente de "'new', 'revisionist', 'welfare state', or 'social justice' liberalism" e a define por contraste com o liberalismo clássico, que liga liberdade e propriedade privada (§2.1–2.2); autores do verbete: Courtland, Gaus & Schmidtz, rev. 25/02/2026 — [SEP: Liberalism](https://plato.stanford.edu/entries/liberalism/).
+7. **Seção 4, Gap sobre comparação quantitativa.** Fechado em parte (item 7). Atenção: o indicador "Tax revenue (% of GDP)" do Banco Mundial (GC.TAX.TOTL.GD.ZS) cobre **só o governo central e exclui contribuições sociais** (Alemanha aparece com 10,9%, Brasil 15,4% em 2024) e **não deve ser usado** para comparar carga tributária; a fonte correta é a OCDE (Brasil 33,7% em 2024) — [API Banco Mundial](https://api.worldbank.org/v2/country/BRA;DEU/indicator/GC.TAX.TOTL.GD.ZS?date=2024&format=json); [Brochura OCDE](https://oecd.org/content/dam/oecd/en/topics/policy-sub-issues/global-tax-revenues/brochure-revenue-statistics-latin-america-and-caribbean.pdf).
+8. **Seção 3 / data/partidos.json (bls_score ausente para PCB, UP, Avante, Missão, União).** Continuam sem BLS; mas União Brasil pode receber, como proxy adicional ao DEM (+0,431 na BLS), os valores PREPPS do DEM (18,09/20) e do PSL (18,35/20) — ambos componentes da fusão de 2022 — [PREPPS](https://dataverse.harvard.edu/api/access/datafile/4372420). PCB, UP, Avante e Missão não constam de V-Party nem de PREPPS; permanecem sem medida numérica.
+9. **Seção 5 — relação PT–PL.** Acrescentar que a lista de partidos do Manifesto Project registra o PL como membro das coligações de Lula em 2002 e 2006 (vice José Alencar), o que ilustra que a posição do PL como legenda era pragmática antes de 2021 — [Lista de partidos MPDSSA2020b](https://manifesto-project.wzb.eu/down/data/SA2020b/codebooks/parties_MPDataset_MPDSSA2020b.pdf).
+10. **Seção 2, Latinobarómetro.** O relatório-país 2023 citado na nota continua inacessível; o Informe 2026 existe e está acessível, mas não publica a média de autoposicionamento por país (item 10).
+
+### Novos dados
+
+**Tabela A — Três réguas para os mesmos partidos (última medição disponível em cada fonte)**
+
+| Partido | BLS 2021 (Zucco & Power; -1 a +1) | PREPPS 2018–19 (1 a 20) | V-Party 2018 (0 a 6, econômico) |
+|---|---|---|---|
+| PSOL | -0,874 | 1,66 | — |
+| PCdoB | -0,822 | — | — |
+| PT | -0,691 | 5,04 | 1,39 |
+| PSB | -0,427 | 7,97 | 1,84 |
+| PDT | -0,356 | 6,66 | 1,92 |
+| Rede | -0,555 (2017) | 9,33 | — |
+| PV | -0,069 (2017) | 9,77 | — |
+| MDB | +0,137 | 14,66 | 3,66 |
+| PSDB | +0,157 | 14,77 | 4,20 |
+| PSD | +0,296 | 15,81 | 4,18 |
+| Podemos | +0,386 | 15,95 | — |
+| PTB | +0,455 | 13,88 | 3,88 (2014) |
+| PL (PR) | +0,493 | 17,05 | 4,44 |
+| PP | +0,510 | 17,00 | 4,79 |
+| Republicanos | +0,550 | 16,81 | 4,52 |
+| DEM (→ União) | +0,431 | 18,09 | 4,59 |
+| Novo | +0,711 | 18,31 | — |
+| PSL | +0,803 | 18,35 | 5,37 |
+| Bolsonaro (presidente) | +0,87 | 19,26 | — |
+| Temer (presidente) | +0,55 | 16,82 | — |
+
+Fontes: [Zucco & Power, suplemento](https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S1531426X23000249/resource/name/S1531426X23000249sup001.pdf); [PREPPS](https://dataverse.harvard.edu/api/access/datafile/4372420); [V-Party v2](https://raw.githubusercontent.com/vdeminstitute/vdemdata/master/data/vparty.RData). Convergência: a ordem dos partidos é quase idêntica nas três réguas (exceção: PTB, que a PREPPS põe mais ao centro que a BLS); em todas, o PT fica a uma distância clara do polo esquerdo (PSOL) e o PSL/Bolsonaro ocupa o polo direito.
+
+**Tabela B — Estado, impostos e desigualdade: Brasil × referências (ver item 7 para fontes e ressalvas)**
+
+| País | Carga tributária total % PIB (OCDE, 2024) | Consumo final do governo % PIB (BM, 2024) | Gini (BM, último ano) |
+|---|---|---|---|
+| Suécia | — (OCDE, não na brochura ALC) | 26,6 | 29,3 (2023) |
+| Dinamarca | — | 23,0 | 29,9 (2023) |
+| França | — | 24,2 | 31,8 (2023) |
+| Alemanha | — | 22,0 | 33,7 (2022) |
+| Espanha | — | 19,3 | 33,4 (2023) |
+| Portugal | — | 16,8 | 33,9 (2023) |
+| Média OCDE | 34,1 | — | — |
+| **Brasil** | **33,7** | **18,8** | **50,3 (2024)** |
+| Argentina | 27,6 | 14,9 | 42,4 (2024) |
+| Uruguai | 27,3 | 17,4 | 40,0 (2024) |
+| Cuba | 22,9 | 24,8 | — |
+| Chile | 20,5 | 15,1 | 43,0 (2024) |
+| Colômbia | 19,9 | 14,8 | 54,4 (2024) |
+| México | 18,3 | 11,6 | 42,6 (2024) |
+| China | — | 16,7 | 36,0 (2022) |
+| EUA | — | 13,6 | 41,8 (2024) |
+| Média ALC | 21,7 | — | — |
+
+**Tabela C — Programas presidenciais brasileiros codificados pelo Manifesto Project (1994–2018), com votação e nº de sentenças codificadas (Tarouco 2022, Quadro 1)**
+
+| Eleição | Candidato | Partido | Votação (%) | Sentenças codificadas |
+|---|---|---|---|---|
+| 1994 | Lula | PT | 27,0 | 3.677 |
+| 1994 | FHC | PSDB | 54,3 | 2.705 |
+| 1994 | Enéas | PRONA | 7,4 | 1.950 |
+| 1998 | Lula | PT | 31,7 | 211 |
+| 1998 | Ciro Gomes | PPS | 11,0 | 313 |
+| 1998 | FHC | PSDB | 53,1 | 4.138 |
+| 2002 | Lula | PT | 46,4 | 1.289 |
+| 2002 | Garotinho | PSB | 17,9 | 4.605 |
+| 2002 | Serra | PSDB | 23,2 | 1.397 |
+| 2002 | Ciro Gomes | PPS | 12,0 | 647 |
+| 2006 | Lula | PT | 46,6 | 563 |
+| 2006 | Heloísa Helena | PSOL | 6,9 | 133 |
+| 2006 | Alckmin | PSDB | 41,6 | 1.630 |
+| 2010 | Marina Silva | PV | 19,3 | 53 |
+| 2010 | Dilma | PT | 46,9 | 264 |
+| 2010 | Serra | PSDB | 32,6 | 2.911 |
+| 2014 | Dilma | PT | 41,6 | 581 |
+| 2014 | Marina Silva | PSB | 21,3 | 4.097 |
+| 2014 | Aécio | PSDB | 33,6 | 885 |
+| 2018 | Haddad | PT | 29,3 | 1.447 |
+| 2018 | Ciro Gomes | PDT | 12,5 | 941 |
+| 2018 | Alckmin | PSDB | 4,8 | 1.207 |
+| 2018 | Bolsonaro | PSL | 46,0 | 584 |
+
+Fonte: [Tarouco 2022, Quadro 1 (PDF)](https://revistas.usp.br/eav/article/download/205986/189561), a partir de Burst et al. (2020a). Achado principal do artigo: polarização programática (medida de Dalton) cai até 2010 e atinge o máximo em 2018, puxada pelo programa de Bolsonaro nas dimensões conservadorismo e liberdade de mercado, e pelo programa do PT na dimensão bem-estar (14,4% das sentenças em 2010 → 19,2% em 2018).
+
+**Tabela D — Autoposicionamento do eleitorado (Datafolha), ver item 8 para fontes**
+
+| Medição | Método | Direita (incl. centro-direita) | Esquerda (incl. centro-esquerda) | Centro |
+|---|---|---|---|---|
+| 2013 | índice de valores | 39% | 41% | — |
+| 2014 | índice de valores | 45% | 35% | — |
+| 2017 | índice de valores | 40% | 41% | — |
+| 2022 | índice de valores | 34% | 49% | — |
+| dez/2025 | autodeclaração (escala 1–7) | 46% (35 + 11) | 29% (22 + 7) | 17% |
+| jun/2026 | índice de valores | 44% (15 + 29) | 39% (13 + 26) | 17% |
+
+### Lacunas que permanecem
+
+- **Latinobarómetro — média de autoposicionamento 0–10 do Brasil por ano:** o Informe 2026 não a publica; os informes 2024 e 2023 não estão em URLs públicas previsíveis (quatro tentativas devolveram HTML vazio) e a seção "Documentación y Datos" exige registro. A única cifra regional continua sendo a do El Mundo (seção 2).
+- **Manifesto Project — valores RILE/dimensões por candidato:** o CSV do dataset exige chave de API (registro gratuito). Mesmo obtidos, a RILE não é recomendada para o Brasil (Tarouco 2022). Os valores das dimensões Planeco/Markeco/Welfare/Conservadorismo por candidato estão nas figuras 1–6 do artigo, que não foram transcritas aqui.
+- **Estatuto e programa do PT; estatuto/programa do PL; páginas de partidos no TSE:** pt.org.br, partidoliberal.org.br e tse.jus.br devolveram HTTP 403 em todas as tentativas (inclusive com user-agent de navegador). A autodefinição literal continua vindo do Poder360 e do pt.org.br (notícias), seção 5.
+- **Texto integral dos programas de Lula e Flávio no DivulgaCandContas (TSE):** não acessado; só metadados e cobertura jornalística (item 12 e seção 6).
+- **Checagens Lupa/Estadão Verifica com "ditadura":** lupa.uol.com.br não pôde ser acessado por este ambiente; a cota de buscas na web se esgotou antes da busca restrita a domínios de agências. Permanece a avaliação da seção 7 (juízo político, não fato checável).
+- **V-Party pós-2018:** não há onda para 2022; o PL sob Bolsonaro e o União Brasil não foram codificados. Idem para PSOL, PCdoB, PCB, UP, PSTU, Novo, Avante e Missão (abaixo do limiar de inclusão).
+- **Wiesehomeier & Benoit (2009) e PELA (Salamanca):** valores numéricos não localizados antes do esgotamento da cota de buscas; a PREPPS (mesma autora principal, 2018–19) supre a função de expert survey.
+- **ESEB — série histórica de autoposicionamento 0–10:** não buscada (cota esgotada); a série Datafolha acima cobre parcialmente a lacuna.
+- **Despesa do governo geral (IMF WEO, GGX_NGDP):** a API do FMI respondeu sem valores nas duas tentativas; usou-se o Banco Mundial (consumo final do governo geral + despesa do governo central, com ressalvas). Participação de estatais na economia (SOE share) não obtida.
+- **Mudde (2019) no original e Levitsky & Ziblatt além do já citado; troca de partidos (party switching); intervalos de confiança da BLS:** não avançados nesta rodada; a BLS publica erros padrão (~0,03–0,05), não intervalos; o V-Party supre com intervalos de credibilidade (item 1).
+- **Esther Solano — URL da coluna com "convergência neoliberal/neoconservadora":** a frase foi identificada em resumo de busca atribuído à CartaCapital, mas a URL específica não foi confirmada; tratar como paráfrase até confirmação.

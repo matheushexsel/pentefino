@@ -6,146 +6,176 @@
   "tipo_grafico": "barra",
   "frequencia": "anual",
   "fonte": {
-    "nome": "Ipeadata (API OData), séries CAGED12_SALDO12 (2003–2019) e CAGED12_SALDON12 (2020–2026), fonte MTE",
-    "url": "http://www.ipeadata.gov.br/api/odata4/ValoresSerie(SERCODIGO='CAGED12_SALDON12')",
+    "nome": "MTE, 'Novo Caged – Apresentação, dezembro de 2025', p. 12 e 39 (dados com ajustes; 2002–2019 Caged, 2020– Novo Caged)",
+    "url": "https://www.gov.br/trabalho-e-emprego/pt-br/assuntos/estatisticas-trabalho/novo-caged/2025/dezembro/apresentacao-dezembro-de-2025-1.pdf",
     "acesso_em": "2026-10-21",
     "tier": "oficial"
   },
   "pontos": [
     {
+      "periodo": "2002",
+      "valor": 1009483,
+      "serie_origem": "CAGED antigo",
+      "estoque_dezembro_mil": 22729
+    },
+    {
       "periodo": "2003",
-      "valor": 645433,
-      "serie_origem": "CAGED antigo"
+      "valor": 864312,
+      "serie_origem": "CAGED antigo",
+      "estoque_dezembro_mil": 23593
     },
     {
       "periodo": "2004",
-      "valor": 1523276,
-      "serie_origem": "CAGED antigo"
+      "valor": 1796535,
+      "serie_origem": "CAGED antigo",
+      "estoque_dezembro_mil": 25390
     },
     {
       "periodo": "2005",
-      "valor": 1253981,
-      "serie_origem": "CAGED antigo"
+      "valor": 1561533,
+      "serie_origem": "CAGED antigo",
+      "estoque_dezembro_mil": 26951
     },
     {
       "periodo": "2006",
-      "valor": 1228686,
-      "serie_origem": "CAGED antigo"
+      "valor": 1549602,
+      "serie_origem": "CAGED antigo",
+      "estoque_dezembro_mil": 28501
     },
     {
       "periodo": "2007",
-      "valor": 1617392,
-      "serie_origem": "CAGED antigo"
+      "valor": 1943050,
+      "serie_origem": "CAGED antigo",
+      "estoque_dezembro_mil": 30444
     },
     {
       "periodo": "2008",
-      "valor": 1452204,
-      "serie_origem": "CAGED antigo"
+      "valor": 1707288,
+      "serie_origem": "CAGED antigo",
+      "estoque_dezembro_mil": 32151
     },
     {
       "periodo": "2009",
-      "valor": 995110,
-      "serie_origem": "CAGED antigo"
+      "valor": 1397845,
+      "serie_origem": "CAGED antigo",
+      "estoque_dezembro_mil": 33549
     },
     {
       "periodo": "2010",
-      "valor": 2136947,
-      "serie_origem": "CAGED antigo"
+      "valor": 2629827,
+      "serie_origem": "CAGED antigo",
+      "estoque_dezembro_mil": 36179
     },
     {
       "periodo": "2011",
-      "valor": 1566043,
-      "serie_origem": "CAGED antigo"
+      "valor": 2026571,
+      "serie_origem": "CAGED antigo",
+      "estoque_dezembro_mil": 38205
     },
     {
       "periodo": "2012",
-      "valor": 868241,
-      "serie_origem": "CAGED antigo"
+      "valor": 1372594,
+      "serie_origem": "CAGED antigo",
+      "estoque_dezembro_mil": 39578
     },
     {
       "periodo": "2013",
-      "valor": 730687,
-      "serie_origem": "CAGED antigo"
+      "valor": 1138562,
+      "serie_origem": "CAGED antigo",
+      "estoque_dezembro_mil": 40716
     },
     {
       "periodo": "2014",
-      "valor": 152713,
-      "serie_origem": "CAGED antigo"
+      "valor": 420690,
+      "serie_origem": "CAGED antigo",
+      "estoque_dezembro_mil": 41137
     },
     {
       "periodo": "2015",
-      "valor": -1625551,
-      "serie_origem": "CAGED antigo"
+      "valor": -1534989,
+      "serie_origem": "CAGED antigo",
+      "estoque_dezembro_mil": 39602
     },
     {
       "periodo": "2016",
-      "valor": -1371363,
-      "serie_origem": "CAGED antigo"
+      "valor": -1326558,
+      "serie_origem": "CAGED antigo",
+      "estoque_dezembro_mil": 38276
     },
     {
       "periodo": "2017",
-      "valor": -123429,
-      "serie_origem": "CAGED antigo"
+      "valor": -11964,
+      "serie_origem": "CAGED antigo",
+      "estoque_dezembro_mil": 38264
     },
     {
       "periodo": "2018",
-      "valor": 421078,
-      "serie_origem": "CAGED antigo"
+      "valor": 546445,
+      "serie_origem": "CAGED antigo",
+      "estoque_dezembro_mil": 38810
     },
     {
       "periodo": "2019",
-      "valor": 559626,
-      "serie_origem": "CAGED antigo"
+      "valor": 644079,
+      "serie_origem": "CAGED antigo",
+      "estoque_dezembro_mil": 39454
     },
     {
       "periodo": "2020",
-      "valor": 171266,
-      "serie_origem": "Novo CAGED"
+      "valor": -189393,
+      "serie_origem": "Novo CAGED",
+      "estoque_dezembro_mil": 39265
     },
     {
       "periodo": "2021",
-      "valor": 2852413,
-      "serie_origem": "Novo CAGED"
+      "valor": 2782295,
+      "serie_origem": "Novo CAGED",
+      "estoque_dezembro_mil": 42047
     },
     {
       "periodo": "2022",
-      "valor": 2011366,
-      "serie_origem": "Novo CAGED"
+      "valor": 2014894,
+      "serie_origem": "Novo CAGED",
+      "estoque_dezembro_mil": 44062
     },
     {
       "periodo": "2023",
-      "valor": 1478340,
-      "serie_origem": "Novo CAGED"
+      "valor": 1455279,
+      "serie_origem": "Novo CAGED",
+      "estoque_dezembro_mil": 45517
     },
     {
       "periodo": "2024",
-      "valor": 1676514,
-      "serie_origem": "Novo CAGED"
+      "valor": 1677575,
+      "serie_origem": "Novo CAGED",
+      "estoque_dezembro_mil": 47195
     },
     {
       "periodo": "2025",
-      "valor": 1256997,
-      "serie_origem": "Novo CAGED"
+      "valor": 1279498,
+      "serie_origem": "Novo CAGED",
+      "estoque_dezembro_mil": 48474
     },
     {
       "periodo": "2026 (jan–ago)",
-      "valor": 1124267,
+      "valor": 1134033,
       "serie_origem": "Novo CAGED",
-      "parcial": true
+      "parcial": true,
+      "estoque_mil": 48245
     }
   ],
   "faixas_referencia": [
     {
-      "rotulo": "Fechamento oficial MTE 2025 (com ajustes)",
-      "valor": 1279498
+      "rotulo": "Estoque de vínculos em dez/2025 (recorde de dezembro)",
+      "valor": 48474348
     },
     {
-      "rotulo": "Estoque de vínculos em ago/2026 (recorde)",
+      "rotulo": "Estoque em fev/2026 (pico mensal recente)",
+      "valor": 48818441
+    },
+    {
+      "rotulo": "Estoque em ago/2026",
       "valor": 48244696
-    },
-    {
-      "rotulo": "Acumulado jan–ago/2026 (MTE, com ajustes)",
-      "valor": 1134033
     },
     {
       "rotulo": "12 meses até ago/2026 (MTE)",
@@ -153,19 +183,127 @@
     }
   ],
   "notas_metodologicas": [
-    "Quebra metodológica: desde 2020 o CAGED é alimentado pelo eSocial e a série nova 'não é diretamente comparável' com a anterior (MTE). Somas simples entre governos não são válidas.",
-    "Somas dos saldos mensais do Ipeadata, sem os 'ajustes' de declarações fora do prazo; números oficiais do MTE podem diferir (ex.: 2021 oficial +2.778.360; 2025 oficial +1.279.498).",
-    "URL da série antiga: http://www.ipeadata.gov.br/api/odata4/ValoresSerie(SERCODIGO='CAGED12_SALDO12')",
-    "Comprova (RAIS): 17.376.285 empregos em 2003–2016 e 4.111.504 em 2019–2022.",
-    "2026 por setor (jan–ago, MTE): Serviços +697.859; Construção +200.431; Indústria +170.442; Agropecuária +56.024; Comércio +9.300."
+    "Rodada 2 (21/10/2026): a série passou a ser a oficial 'com ajustes' do MTE (ajustes de declarações fora do prazo); a série sem ajustes do Ipeadata, usada na rodada 1, está em series_alternativas. A oficial é bem maior em 2003–2013 (ex.: 2010 +2,63 mi em vez de +2,14 mi) e um pouco menor em 2020 (−189 mil em vez de +171 mil) e 2021 (+2,78 mi em vez de +2,85 mi).",
+    "Quebra metodológica: desde 2020 o CAGED é alimentado pelo eSocial e a série nova 'não é diretamente comparável' com a anterior (MTE). Somas simples entre governos não são válidas; ver caged-com-ajustes-por-governo.",
+    "Atribuição de cada barra ao ano conferida pela consistência estoque(dez/N) = estoque(dez/N−1) + saldo(N) em todos os 23 anos (nota de pesquisa).",
+    "2025 oficial: 26.599.777 admissões, 25.320.279 desligamentos; dez/2025 −618.164; estoque 'recuperado' com outras naturezas 49.090.182 (5.381.390 'não típicos'). O estoque de dez/2014 (41,1 mi) só foi superado em dez/2021 (42,0 mi).",
+    "2026 (jan–ago): +1.134.033 (+2,41%); agosto +165.827; 12 meses +887.708; salário médio real de admissão R$ 2.410,74 (+1,02% a/a). Fonte: https://www.gov.br/trabalho-e-emprego/pt-br/noticias-e-conteudo/2026/setembro/novo-caged-emprego-formal-gera-165-8-mil-vagas-em-agosto-e-acumula-1-13-milhao-de-postos-no-ano",
+    "RAIS (estoque em 31/12, inclui estatutários): 52.790.864 (2022) e 54.706.385 (2023); RAIS 2024 exceto estatutários 46.145.193. Aos Fatos (RAIS): 15,4 mi de empregos formais em 2003–2010 e +3,9 mi em 2011–2015.",
+    "Comprova (RAIS): 17.376.285 empregos em 2003–2016 e 4.111.504 em 2019–2022."
   ],
   "lacunas": [
-    "Tabela oficial do MTE com saldos anuais 'com ajustes' 2003–2025 não acessada."
+    "Estoque anual da RAIS 2003–2021 em fonte primária (PDET/MTE fora do ar); só 2022–2024 obtidos."
   ],
   "ultimo_periodo": "2026 (jan–ago)",
   "temas": [
     "emprego-renda"
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/03_emprego_renda_pobreza_social.md",
-  "atualizado_em": "2026-10-21"
+  "atualizado_em": "2026-10-21",
+  "series_alternativas": [
+    {
+      "id": "ipeadata-sem-ajustes",
+      "descricao": "Soma dos saldos mensais sem ajustes de declarações fora do prazo (Ipeadata CAGED12_SALDO12 e CAGED12_SALDON12), usada na rodada 1",
+      "url": "http://www.ipeadata.gov.br/api/odata4/ValoresSerie(SERCODIGO='CAGED12_SALDON12')",
+      "pontos": [
+        {
+          "periodo": "2003",
+          "valor": 645433
+        },
+        {
+          "periodo": "2004",
+          "valor": 1523276
+        },
+        {
+          "periodo": "2005",
+          "valor": 1253981
+        },
+        {
+          "periodo": "2006",
+          "valor": 1228686
+        },
+        {
+          "periodo": "2007",
+          "valor": 1617392
+        },
+        {
+          "periodo": "2008",
+          "valor": 1452204
+        },
+        {
+          "periodo": "2009",
+          "valor": 995110
+        },
+        {
+          "periodo": "2010",
+          "valor": 2136947
+        },
+        {
+          "periodo": "2011",
+          "valor": 1566043
+        },
+        {
+          "periodo": "2012",
+          "valor": 868241
+        },
+        {
+          "periodo": "2013",
+          "valor": 730687
+        },
+        {
+          "periodo": "2014",
+          "valor": 152713
+        },
+        {
+          "periodo": "2015",
+          "valor": -1625551
+        },
+        {
+          "periodo": "2016",
+          "valor": -1371363
+        },
+        {
+          "periodo": "2017",
+          "valor": -123429
+        },
+        {
+          "periodo": "2018",
+          "valor": 421078
+        },
+        {
+          "periodo": "2019",
+          "valor": 559626
+        },
+        {
+          "periodo": "2020",
+          "valor": 171266
+        },
+        {
+          "periodo": "2021",
+          "valor": 2852413
+        },
+        {
+          "periodo": "2022",
+          "valor": 2011366
+        },
+        {
+          "periodo": "2023",
+          "valor": 1478340
+        },
+        {
+          "periodo": "2024",
+          "valor": 1676514
+        },
+        {
+          "periodo": "2025",
+          "valor": 1256997
+        },
+        {
+          "periodo": "2026 (jan–ago)",
+          "valor": 1124267,
+          "parcial": true
+        }
+      ]
+    }
+  ]
 }

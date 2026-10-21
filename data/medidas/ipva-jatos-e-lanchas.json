@@ -5,14 +5,14 @@
   "governo": "lula-3",
   "lado": "governo-lula-pt",
   "norma": {
-    "nome": "Emenda Constitucional 132/2023 (nova redação do art. 155 da Constituição); PLP 138/2025 (Comsefaz/sen. Augusta Brito) em tramitação sobre qual estado cobra",
-    "data": null,
-    "url": "https://contadores.cnt.br/projetos/38/noticias/tecnicas/2026/04/08/reforma-tributaria-autoriza-cobranca-de-ipva-de-aeronaves-e-embarcacoes.html",
+    "nome": "Emenda Constitucional 132, de 20/12/2023 (DOU 21/12/2023) — nova redação do art. 155, III da Constituição; PLP 138/2025 (Comsefaz/sen. Augusta Brito) em tramitação sobre qual estado cobra",
+    "data": "2023-12-20",
+    "url": "https://www.planalto.gov.br/ccivil_03/constituicao/Emendas/Emc/emc132.htm",
     "vigencia": "Autorização constitucional vigente; a cobrança depende de lei de cada estado e do princípio da anterioridade"
   },
   "status": "aprovada-aguarda",
   "o_que_faz_simples": [
-    "A reforma tributária mudou a Constituição para permitir que os estados cobrem IPVA de veículos aquáticos e aéreos (jatos, helicópteros, iates, lanchas), superando a jurisprudência do STF que limitava o IPVA a veículos terrestres.",
+    "A reforma tributária mudou a Constituição: o IPVA 'incidirá sobre a propriedade de veículos automotores terrestres, aquáticos e aéreos' (art. 155, III), superando a jurisprudência do STF que limitava o IPVA a veículos terrestres.",
     "Ficam de fora, por exceção taxativa: aeronaves agrícolas e de operador certificado para serviços a terceiros, embarcações de transporte aquaviário com outorga e de pesca, plataformas e tratores/máquinas agrícolas.",
     "As alíquotas podem variar por valor, tipo, uso e impacto ambiental do veículo.",
     "Cada estado precisa aprovar lei própria; o PLP 138/2025 busca resolver disputas sobre qual estado pode cobrar."
@@ -111,12 +111,17 @@
       "url": "https://digital.correiodamanha.com.br/jornalcorreiodamanha/2025/06/27/104463/pdf/2706cmanha08.pdf",
       "acesso_em": "2026-10-21",
       "tier": "imprensa"
+    },
+    {
+      "nome": "Planalto — Emenda Constitucional 132/2023",
+      "url": "https://www.planalto.gov.br/ccivil_03/constituicao/Emendas/Emc/emc132.htm",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/12_pix_fake_news_e_impostos_quem_paga.md",
   "lacunas": [
-    "Data de promulgação da EC 132/2023 e URL oficial não constam das notas.",
-    "Quais estados já aprovaram lei de IPVA para aeronaves/embarcações e estimativa de arrecadação: não localizados."
+    "Estados que já instituíram IPVA sobre aeronaves/embarcações após a EC 132 e estimativas de arrecadação: não localizados."
   ],
   "atualizado_em": "2026-10-21"
 }

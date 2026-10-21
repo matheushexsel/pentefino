@@ -33,14 +33,14 @@
   "veredito": "verdadeiro-mas",
   "resumo_uma_frase": "O juro real brasileiro (Selic de 15% deflacionada pelo IPCA) ficou em torno de 9,3% a 9,7% ao ano em 2025-2026, 'um dos mais altos do mundo' segundo a nota e '2º maior do mundo' segundo o Senado; a Selic de 15% é a maior desde 2006 e foi decidida pelo BC autônomo presidido por Gabriel Galípolo, indicado por Lula, em resposta a inflação acima da meta e ao prêmio de risco fiscal.",
   "explicacao_simples": [
-    "A Selic chegou a 15% em junho de 2025, maior nível desde 2006, e o juro real ficou em torno de 9,5% ao ano, um dos mais altos do mundo.",
+    "A Selic chegou a 15% em 20 de junho de 2025, maior nível desde 2006, e o juro real ficou em torno de 9,5% ao ano, um dos mais altos do mundo.",
     "O ranking exato varia conforme a fonte e o método, e o Senado registrou o Brasil como o segundo maior juro real do mundo em 2026.",
     "A decisão é do Copom do Banco Central autônomo, que aponta inflação acima da meta, expectativas desancoradas e risco fiscal como razões."
   ],
-  "explicacao_completa_md": "## Os números\n\n- Meta Selic: 10,50% (mai/2024) → 15,00% (19/06/2025, maior desde jul/2006) → cortes desde mar/2026 → 13,75% (vigente desde 17/09/2026).\n- Selic efetiva acumulada: 14,33% em 2025; 14,47% em 12 meses até set/2026.\n- Juro real ex-post (Selic 12 meses deflacionada pelo IPCA 12 meses, cálculo da nota): +9,7% em dez/2025; +9,5% em set/2026. Juro real ex-ante (Selic fim-2026 de 13,25% contra IPCA 2027 de 4,32%, Focus): ≈ +8,6%.\n- Senado (mai/2026): juro real ~9,3%, '2º maior do mundo'.\n- Histórico: juro real negativo só em dez/2020 (−1,7%); +6,2% em dez/2022.\n\n## Quem decide\n\nDesde a LC 179/2021 o BC tem autonomia operacional; a Selic é fixada pelo Copom. O presidente do BC é Gabriel Galípolo (desde jan/2025, indicado por Lula). A ata da 281ª reunião (set/2026) cita inflação acima da meta, cenário externo incerto e política fiscal com 'potencial de afetar a percepção sobre a sustentabilidade da dívida'. A meta de inflação (3,0%) é fixada pelo CMN, isto é, pelo governo.\n\n## Custo\n\nJuros nominais do setor público: R$ 1 trilhão em 2025 (7,91% do PIB) e R$ 1,18 trilhão em 12 meses até ago/2026 (8,86%). A Moody's observa que os juros consomem 20% da receita no Brasil contra 14% nos pares. A frase de Marinho é usada pelo governo para responsabilizar o BC; a IFI e o FMI apontam que o prêmio de risco sobe com a dívida, realimentando a Selic.",
+  "explicacao_completa_md": "## Os números\n\n- Meta Selic: 10,50% (mai/2024) → 15,00% (vigente desde 20/06/2025, 271ª reunião do Copom, maior desde jul/2006) → cortes desde mar/2026 → 13,75% (vigente desde 17/09/2026).\n- Selic efetiva acumulada: 14,33% em 2025; 14,47% em 12 meses até set/2026.\n- Juro real ex-post (Selic 12 meses deflacionada pelo IPCA 12 meses, cálculo da nota): +9,7% em dez/2025; +9,5% em set/2026. Juro real ex-ante (Selic fim-2026 de 13,25% contra IPCA 2027 de 4,32%, Focus): ≈ +8,6%.\n- Senado (mai/2026): juro real ~9,3%, '2º maior do mundo'.\n- Histórico: juro real negativo só em dez/2020 (−1,7%); +6,2% em dez/2022.\n\n## Quem decide\n\nDesde a LC 179/2021 o BC tem autonomia operacional; a Selic é fixada pelo Copom. O presidente do BC é Gabriel Galípolo (desde jan/2025, indicado por Lula). A ata da 281ª reunião (set/2026) cita inflação acima da meta, cenário externo incerto e política fiscal com 'potencial de afetar a percepção sobre a sustentabilidade da dívida'. A meta de inflação (3,0%) é fixada pelo CMN, isto é, pelo governo.\n\n## Custo\n\nJuros nominais do setor público: R$ 1.007,6 bilhões em 2025 (7,91% do PIB) e R$ 1,18 trilhão em 12 meses até ago/2026 (8,86%). A Moody's observa que os juros consomem 20% da receita no Brasil contra 14% nos pares. A frase de Marinho é usada pelo governo para responsabilizar o BC; a IFI e o FMI apontam que o prêmio de risco sobe com a dívida, realimentando a Selic.",
   "o_que_e_verdade": [
     "A Selic de 15% (jun/2025) foi a maior desde 2006 e o juro real ficou em torno de 9,3% a 9,7%, entre os mais altos do mundo.",
-    "Os juros nominais do setor público custaram R$ 1 trilhão em 2025 e R$ 1,18 trilhão em 12 meses até ago/2026.",
+    "Os juros nominais do setor público custaram R$ 1.007,6 bilhões em 2025 e R$ 1,18 trilhão em 12 meses até ago/2026.",
     "O emprego formal desacelerou em 2025 (+1,28 milhão, pior ano da série nova fora da pandemia)."
   ],
   "o_que_nao_se_sustenta": [
@@ -75,7 +75,7 @@
       "rotulo": "Meta Selic no pico",
       "valor": 15.0,
       "unidade": "% ao ano",
-      "periodo": "19/06/2025 a 18/03/2026",
+      "periodo": "20/06/2025 a 18/03/2026",
       "fonte": {
         "nome": "Banco Central do Brasil – SGS 432 (meta Selic)",
         "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.432/dados?formato=json&dataInicial=01/01/2018&dataFinal=21/10/2026",
@@ -134,27 +134,30 @@
     },
     {
       "rotulo": "Juro real ex-ante (Focus, cálculo da nota)",
-      "valor": 8.6,
+      "valor": 7.2,
       "unidade": "% ao ano",
-      "periodo": "fim de 2026",
+      "periodo": "16/10/2026 (Selic fim-2027 de 12,00% e IPCA 12 meses de 4,51%)",
       "fonte": {
         "nome": "BCB – Focus, expectativas de mercado anuais (Selic 2026), 16/10/2026",
         "url": "https://olinda.bcb.gov.br/olinda/servico/Expectativas/versao/v1/odata/ExpectativasMercadoAnuais?%24filter=Indicador%20eq%20'Selic'%20and%20DataReferencia%20eq%20'2026'&%24orderby=Data%20desc&%24top=2&%24format=json",
         "acesso_em": "2026-10-21",
         "tier": "oficial"
       },
-      "comparacao": null
+      "comparacao": {
+        "rotulo": "dez/2024 (maior desde 2005)",
+        "valor": 9.3
+      }
     },
     {
       "rotulo": "Juros nominais do setor público",
-      "valor": 1000,
+      "valor": 1007.6,
       "unidade": "R$ bilhões",
       "periodo": "2025 (recorde)",
       "fonte": {
-        "nome": "Agência Brasil – Contas públicas têm déficit de R$ 55,021 bilhões em 2025 (30/01/2026)",
-        "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/contas-publicas-tem-deficit-de-r-55021-bilhoes-em-2025",
+        "nome": "BCB – Nota para a Imprensa, Estatísticas Fiscais, 30/01/2026 (PDF)",
+        "url": "https://www.bcb.gov.br/content/estatisticas/hist_estatisticasfiscais/202601_Texto_de_estatisticas_fiscais.pdf",
         "acesso_em": "2026-10-21",
-        "tier": "imprensa"
+        "tier": "oficial"
       },
       "comparacao": {
         "rotulo": "% do PIB",
@@ -207,6 +210,54 @@
       "comparacao": {
         "rotulo": "Média global (aprox.)",
         "valor": 6
+      }
+    },
+    {
+      "rotulo": "Juro real ex-ante em dezembro (cálculo da nota com Focus)",
+      "valor": 9.3,
+      "unidade": "% ao ano",
+      "periodo": "dez/2024",
+      "fonte": {
+        "nome": "BCB – Focus, expectativas de mercado anuais (Selic 2026), 16/10/2026",
+        "url": "https://olinda.bcb.gov.br/olinda/servico/Expectativas/versao/v1/odata/ExpectativasMercadoAnuais?%24filter=Indicador%20eq%20'Selic'%20and%20DataReferencia%20eq%20'2026'&%24orderby=Data%20desc&%24top=2&%24format=json",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "dez/2020 (único negativo)",
+        "valor": -0.5
+      }
+    },
+    {
+      "rotulo": "Média do juro real ex-ante nos dezembros do mandato (cálculo da nota)",
+      "valor": 7.4,
+      "unidade": "% ao ano",
+      "periodo": "Lula 3 (2023-2025)",
+      "fonte": {
+        "nome": "BCB – Focus, expectativas de mercado anuais (Selic 2026), 16/10/2026",
+        "url": "https://olinda.bcb.gov.br/olinda/servico/Expectativas/versao/v1/odata/ExpectativasMercadoAnuais?%24filter=Indicador%20eq%20'Selic'%20and%20DataReferencia%20eq%20'2026'&%24orderby=Data%20desc&%24top=2&%24format=json",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "Bolsonaro (2019-2022)",
+        "valor": 3.2
+      }
+    },
+    {
+      "rotulo": "Selic em 31/12 de cada ano",
+      "valor": 15.0,
+      "unidade": "% ao ano",
+      "periodo": "31/12/2025",
+      "fonte": {
+        "nome": "Banco Central do Brasil – SGS 432 (meta Selic, 2023-2026)",
+        "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.432/dados?formato=json&dataInicial=01/01/2023&dataFinal=21/10/2026",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "31/12/2022",
+        "valor": 13.75
       }
     }
   ],
@@ -296,6 +347,18 @@
       "url": "https://www.bcb.gov.br/api/servico/sitebcb/historicotaxasjuros",
       "acesso_em": "2026-10-21",
       "tier": "oficial"
+    },
+    {
+      "nome": "BCB – Nota para a Imprensa, Estatísticas Fiscais, 30/01/2026 (PDF)",
+      "url": "https://www.bcb.gov.br/content/estatisticas/hist_estatisticasfiscais/202601_Texto_de_estatisticas_fiscais.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Banco Central do Brasil – SGS 432 (meta Selic, 2023-2026)",
+      "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.432/dados?formato=json&dataInicial=01/01/2023&dataFinal=21/10/2026",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/01_macroeconomia_por_governo.md",
@@ -310,7 +373,7 @@
     },
     {
       "pergunta": "Qual o custo para o país?",
-      "resposta": "Juros de R$ 1 trilhão em 2025; cerca de metade da dívida é indexada à Selic. A dívida bruta subiu 4,2 pontos do PIB em 2026 até agosto, com +6,5 pontos vindos de juros."
+      "resposta": "Juros de R$ 1.007,6 bilhões em 2025; cerca de metade da dívida é indexada à Selic. A dívida bruta subiu 4,2 pontos do PIB em 2026 até agosto, com +6,5 pontos vindos de juros."
     },
     {
       "pergunta": "O juro já foi baixo?",
@@ -325,13 +388,17 @@
     "recorde-de-falencias"
   ],
   "lacunas": [
-    "Ranking internacional de juro real não verificado em fonte oficial; o juro real é cálculo próprio da nota com SGS 4390 e 13522."
+    "Ranking internacional de juro real não verificado em fonte oficial; juro real ex-post e ex-ante são cálculos próprios da nota (SGS 4390/13522 e Focus). Próxima reunião do Copom (4/11/2026) só em fontes secundárias."
   ],
   "atualizado_em": "2026-10-21",
   "changelog": [
     {
       "data": "2026-10-21",
       "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "enriquecimento rodada 2: data de vigência dos 15% corrigida (20/06/2025), juro real ex-ante por ano e por governo, juros R$ 1.007,6 bi"
     }
   ],
   "exemplo": false

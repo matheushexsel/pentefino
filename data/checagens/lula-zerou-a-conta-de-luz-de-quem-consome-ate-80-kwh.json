@@ -34,7 +34,7 @@
     "O governo fala em 4,5 milhões de famílias com conta zerada e 17,1 milhões que não pagam os primeiros 80 kWh, e desde 01/01/2026 há o Desconto Social até 120 kWh.",
     "O benefício é bancado pela CDE, encargo cobrado na conta dos demais consumidores: a Tarifa Social sobe de R$ 7,8 bi em 2024 para R$ 10,4 bi em 2026."
   ],
-  "explicacao_completa_md": "## O que mudou\n- MP 1.300 assinada em 21/05/2025; Lei 15.235 de 08/10/2025: desconto de 100% até 80 kWh/mês e 0% acima (Lei 12.212, art. 1º). Gratuidade desde 05/07/2025.\n- Desconto Social (Lei 15.269/2025): famílias do CadÚnico com renda per capita entre meio e um salário mínimo isentas das quotas da CDE até 120 kWh desde 01/01/2026 (~4,1 milhões de famílias); ANEEL estima redução média de 15% para quem consome menos de 120 kWh.\n- Alcance declarado pelo governo: 4,5 milhões de famílias com gratuidade total e 17,1 milhões que não pagam os primeiros 80 kWh; o MME estimava 115 milhões de consumidores beneficiados de alguma forma.\n\n## Quem paga\nA CDE: Tarifa Social de R$ 7,8 bi (2024) para R$ 10,4 bi (2026, +33%). A Anace critica que o custo recai sobre os demais consumidores e não sobre o Tesouro.\n\n## Veredito\n**Verdadeiro, mas.** A gratuidade existe, mas é restrita a famílias do CadÚnico até 80 kWh e é financiada pelos outros consumidores na própria conta de luz.",
+  "explicacao_completa_md": "## O que mudou\n- MP 1.300 assinada em 21/05/2025; Lei 15.235 de 08/10/2025: desconto de 100% até 80 kWh/mês e 0% acima (Lei 12.212, art. 1º). Gratuidade desde 05/07/2025.\n- Desconto Social (Lei 15.269/2025): famílias do CadÚnico com renda per capita entre meio e um salário mínimo isentas das quotas da CDE até 120 kWh desde 01/01/2026 (~4,1 milhões de famílias); ANEEL estima redução média de 15% para quem consome menos de 120 kWh.\n- Alcance declarado pelo governo: 4,5 milhões de famílias com gratuidade total e 17,1 milhões que não pagam os primeiros 80 kWh; o MME estimava 115 milhões de consumidores beneficiados de alguma forma.\n\n## Quem paga\nA CDE: Tarifa Social de R$ 7,8 bi (2024) para R$ 10,4 bi (2026, +33%). A Anace critica que o custo recai sobre os demais consumidores e não sobre o Tesouro.\n\n## Veredito\n**Verdadeiro, mas.** A gratuidade existe, mas é restrita a famílias do CadÚnico até 80 kWh e é financiada pelos outros consumidores na própria conta de luz.\n\n## Atualização (rodada 2)\nA base ANEEL Dados Abertos registra R$ 10,44 bi para Tarifa Social/baixa renda no orçamento 2026 da CDE (R$ 7,83 bi em 2025). O Comprova (28/04/2025) explicou a proposta e quem paga. Boato correlato: o Aos Fatos (08/06/2026) classificou como falso que a Câmara tenha aprovado isenção de conta de luz para pessoas LGBTQIA+ — o PL 1182/2023 isenta apenas abrigos na subclasse baixa renda.",
   "o_que_e_verdade": [
     "A gratuidade até 80 kWh para famílias do CadÚnico está em vigor desde 05/07/2025 por iniciativa do governo Lula (MP 1.300) aprovada pelo Congresso."
   ],
@@ -130,12 +130,43 @@
         "rotulo": "No consumo médio de 165 kWh",
         "valor": 11
       }
+    },
+    {
+      "rotulo": "Tarifa Social/baixa renda no orçamento 2026 da CDE (base ANEEL)",
+      "valor": 10.44,
+      "unidade": "R$ bilhões",
+      "periodo": "2026",
+      "fonte": {
+        "nome": "ANEEL Dados Abertos – CDE, custeio dos benefícios tarifários (CSV gerado em 01/10/2026)",
+        "url": "https://dadosabertos.aneel.gov.br/dataset/conta-desenvolvimento-energetico-cde-custeio-dos-beneficios-tarifarios",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "2025",
+        "valor": 7.83
+      }
     }
   ],
   "series": [
     "cde-anual"
   ],
-  "checagens_externas": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Comprova",
+      "veredito_original": "explicador (sem veredito)",
+      "url": "https://projetocomprova.com.br/publicações/entenda-a-proposta-do-governo-para-ampliar-tarifa-social-da-conta-de-luz-e-quem-vai-pagar-por-isso/",
+      "data": "2025-04-28",
+      "titulo": "Entenda a proposta do governo para ampliar tarifa social da conta de luz e quem vai pagar por isso (28/04/2025)"
+    },
+    {
+      "veiculo": "Aos Fatos",
+      "veredito_original": "falso",
+      "url": "https://www.aosfatos.org/noticias/isencao-conta-luz-lgbtqia/",
+      "data": "2026-06-08",
+      "titulo": "Câmara não aprovou isenção de conta de luz para LGBTQIA+ (08/06/2026)"
+    }
+  ],
   "fontes": [
     {
       "nome": "Planalto – Lei 15.235/2025",
@@ -190,6 +221,24 @@
       "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/lei/L15269.htm",
       "acesso_em": "2026-10-21",
       "tier": "oficial"
+    },
+    {
+      "nome": "ANEEL Dados Abertos – CDE, custeio dos benefícios tarifários (CSV gerado em 01/10/2026)",
+      "url": "https://dadosabertos.aneel.gov.br/dataset/conta-desenvolvimento-energetico-cde-custeio-dos-beneficios-tarifarios",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Comprova – Entenda a proposta do governo para ampliar tarifa social da conta de luz e quem vai pagar por isso (28/04/2025)",
+      "url": "https://projetocomprova.com.br/publicações/entenda-a-proposta-do-governo-para-ampliar-tarifa-social-da-conta-de-luz-e-quem-vai-pagar-por-isso/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Aos Fatos – Câmara não aprovou isenção de conta de luz para LGBTQIA+ (08/06/2026)",
+      "url": "https://www.aosfatos.org/noticias/isencao-conta-luz-lgbtqia/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/06_energia_eletrobras_combustiveis.md",
@@ -208,11 +257,15 @@
     {
       "data": "2026-10-21",
       "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "rodada 2: valor oficial da CDE, checagens externas"
     }
   ],
   "exemplo": false,
   "lacunas": [
     "Autoria, data e local da declaração não documentados nas notas; a checagem trata a afirmação em sua forma recorrente.",
-    "Checagens já publicadas por Aos Fatos, Lupa, Estadão Verifica e Comprova sobre o tema não foram consultadas (cota de busca esgotada); cruzar antes da publicação."
+    "Checagens da Lupa, Estadão Verifica e g1 Fato ou Fake não puderam ser abertas na rodada 2 (bloqueio de fetch); a lista de checagens externas cobre apenas Aos Fatos e Comprova."
   ]
 }

@@ -39,7 +39,8 @@
   ],
   "explicacao_completa_md": "## O que circulou\n\nVídeos com voz e imagem geradas por IA mostravam Lula e, em outra versão, Flávio Bolsonaro prometendo salário mínimo de R$ 3 mil. O Comprova classificou os dois como falsos: 'não é verdade que Lula tenha proposta para aumentar salário mínimo para R$ 3 mil' e 'Flávio Bolsonaro não prometeu salário mínimo de R$ 3 mil'.\n\n## O que os programas dizem\n\n- Lula: manter a valorização real do mínimo como 'meio estratégico de distribuição de renda', dentro da regra do arcabouço (ganho real entre 0,6% e 2,5% até 2030).\n- Flávio: ao SBT, disse não pretender acabar com a vinculação do mínimo à inflação; a coordenadora econômica Daniella Marques afirmou que não haverá mudança nos critérios de reajuste.\n\n## Ordem de grandeza\n\nO mínimo de 2026 é R$ 1.621 (+6,79% nominal). Cada R$ 1 de aumento custa R$ 380,5 milhões por ano à Previdência (DIEESE) ou R$ 429,3 milhões (governo); o reajuste de R$ 103 em 2026 custa R$ 39,1 bilhões ao ano.",
   "o_que_e_verdade": [
-    "Ambos os candidatos defendem manter a correção do mínimo pela inflação; Lula promete manter ganhos reais limitados pela regra do arcabouço."
+    "Ambos os candidatos defendem manter a correção do mínimo pela inflação; Lula promete manter ganhos reais limitados pela regra do arcabouço.",
+    "O PLOA 2027 prevê salário mínimo de R$ 1.741 (+R$ 120), segundo o Comprova."
   ],
   "o_que_nao_se_sustenta": [
     "Nenhum dos dois candidatos prometeu salário mínimo de R$ 3 mil; os vídeos são deepfakes.",
@@ -64,10 +65,10 @@
       "unidade": "R$",
       "periodo": "2026",
       "fonte": {
-        "nome": "DIEESE – Nota Técnica 289, salário mínimo 2026 (22/12/2025)",
-        "url": "https://www.dieese.org.br/notatecnica/2025/notaTec289salarioMinimo.pdf",
+        "nome": "Planalto – Decreto 12.797/2025 (salário mínimo de 2026)",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/decreto/D12797.htm",
         "acesso_em": "2026-10-21",
-        "tier": "academico"
+        "tier": "oficial"
       },
       "comparacao": {
         "rotulo": "Valor atribuído falsamente aos candidatos",
@@ -131,6 +132,22 @@
         "tier": "academico"
       },
       "comparacao": null
+    },
+    {
+      "rotulo": "Salário mínimo previsto no PLOA 2027",
+      "valor": 1741,
+      "unidade": "R$",
+      "periodo": "2027 (projeto)",
+      "fonte": {
+        "nome": "Comprova – Não é verdade que Lula tenha proposta para aumentar salário mínimo para R$ 3 mil (2026)",
+        "url": "https://projetocomprova.com.br/publica%C3%A7%C3%B5es/nao-e-verdade-que-lula-tenha-proposta-para-aumentar-salario-minimo-para-r-3-mil-videos-sao-feitos-com-ia/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": {
+        "rotulo": "2026",
+        "valor": 1621
+      }
     }
   ],
   "series": [
@@ -140,15 +157,15 @@
   "checagens_externas": [
     {
       "veiculo": "Comprova",
-      "veredito_original": "FALSO (vídeo atribuído a Lula, feito com IA)",
-      "url": "https://projetocomprova.com.br/publica%C3%A7%C3%B5es/nao-e-verdade-que-lula-tenha-proposta-para-aumentar-salario-minimo-para-r-3-mil-videos-sao-feitos-com-ia/",
-      "data": "2026-01-01"
+      "veredito_original": "FALSO (vídeo atribuído a Flávio Bolsonaro, feito com IA)",
+      "url": "https://projetocomprova.com.br/publica%C3%A7%C3%B5es/flavio-bolsonaro-nao-prometeu-salario-minimo-de-r-3-mil-informacao-circula-em-videos-com-ia/",
+      "data": "2026-09-02"
     },
     {
       "veiculo": "Comprova",
-      "veredito_original": "FALSO (vídeo atribuído a Flávio Bolsonaro, feito com IA)",
-      "url": "https://projetocomprova.com.br/publica%C3%A7%C3%B5es/flavio-bolsonaro-nao-prometeu-salario-minimo-de-r-3-mil-informacao-circula-em-videos-com-ia/",
-      "data": "2026-01-01"
+      "veredito_original": "FALSO (vídeo atribuído a Lula, feito com IA); registra que o PLOA 2027 prevê mínimo de R$ 1.741",
+      "url": "https://projetocomprova.com.br/publica%C3%A7%C3%B5es/nao-e-verdade-que-lula-tenha-proposta-para-aumentar-salario-minimo-para-r-3-mil-videos-sao-feitos-com-ia/",
+      "data": "2026-09-18"
     }
   ],
   "fontes": [
@@ -181,6 +198,12 @@
       "url": "https://static.congressoemfoco.com.br/2026/08/08/attachment/2026/08/08/32ce89_programa_governo_lula_2026.pdf",
       "acesso_em": "2026-10-21",
       "tier": "partidario"
+    },
+    {
+      "nome": "Planalto – Decreto 12.797/2025 (salário mínimo de 2026)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/decreto/D12797.htm",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/03_emprego_renda_pobreza_social.md",
@@ -203,14 +226,15 @@
     "salario-minimo-compra-2-2-cestas-basicas",
     "governo-vai-taxar-o-pix"
   ],
-  "lacunas": [
-    "O Comprova não informa, nas fontes da nota, a data exata de publicação das duas checagens de 2026 (registradas como 2026-01-01 por convenção)."
-  ],
   "atualizado_em": "2026-10-21",
   "changelog": [
     {
       "data": "2026-10-21",
       "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "enriquecimento rodada 2: datas das checagens do Comprova (02/09 e 18/09/2026), PLOA 2027 (R$ 1.741), decreto 12.797 confirmado; lacuna fechada"
     }
   ],
   "exemplo": false

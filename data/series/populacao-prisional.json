@@ -14,27 +14,78 @@
   "pontos": [
     {
       "periodo": "2000",
-      "valor": 232755
+      "valor": 232755,
+      "detalhe": {
+        "custodia_das_policias": 57775
+      }
+    },
+    {
+      "periodo": "2001",
+      "valor": 233859
+    },
+    {
+      "periodo": "2002",
+      "valor": 239345
     },
     {
       "periodo": "2003",
       "valor": 308304
     },
     {
+      "periodo": "2004",
+      "valor": 336358
+    },
+    {
+      "periodo": "2005",
+      "valor": 361402
+    },
+    {
       "periodo": "2006",
       "valor": 401236
+    },
+    {
+      "periodo": "2007",
+      "valor": 422373
+    },
+    {
+      "periodo": "2008",
+      "valor": 451429
+    },
+    {
+      "periodo": "2009",
+      "valor": 473626
     },
     {
       "periodo": "2010",
       "valor": 496251
     },
     {
+      "periodo": "2011",
+      "valor": 514582
+    },
+    {
+      "periodo": "2012",
+      "valor": 548003
+    },
+    {
+      "periodo": "2013",
+      "valor": 581507
+    },
+    {
       "periodo": "2014",
       "valor": 622202
     },
     {
+      "periodo": "2015",
+      "valor": 698618
+    },
+    {
       "periodo": "2016",
       "valor": 722120
+    },
+    {
+      "periodo": "2017",
+      "valor": 722716
     },
     {
       "periodo": "2018",
@@ -49,6 +100,10 @@
       "valor": 759518
     },
     {
+      "periodo": "2021",
+      "valor": 820689
+    },
+    {
       "periodo": "2022",
       "valor": 832295
     },
@@ -58,16 +113,28 @@
     },
     {
       "periodo": "2024",
-      "valor": 909594
+      "valor": 909594,
+      "detalhe": {
+        "vagas": 668149,
+        "presos_no_sistema": 905843,
+        "deficit": 237694
+      }
     },
     {
       "periodo": "2025",
-      "valor": 964668
+      "valor": 964668,
+      "detalhe": {
+        "vagas": 679763,
+        "presos_no_sistema": 960976,
+        "deficit": 281213,
+        "razao_preso_por_vaga": 1.4,
+        "custodia_das_policias": 3692
+      }
     }
   ],
   "faixas_referencia": [
     {
-      "rotulo": "Déficit de vagas em 2025 (FBSP)",
+      "rotulo": "Déficit de vagas em 2025 (FBSP, Tabela 72)",
       "valor": 281213
     },
     {
@@ -75,11 +142,75 @@
       "valor": 202000
     }
   ],
+  "governos": [
+    {
+      "governo": "lula-1-2",
+      "inicio": {
+        "periodo": "2002",
+        "valor": 239345
+      },
+      "fim": {
+        "periodo": "2010",
+        "valor": 496251
+      },
+      "variacao_pct": 107
+    },
+    {
+      "governo": "dilma",
+      "inicio": {
+        "periodo": "2010",
+        "valor": 496251
+      },
+      "fim": {
+        "periodo": "2016",
+        "valor": 722120
+      },
+      "variacao_pct": 45.5
+    },
+    {
+      "governo": "temer",
+      "inicio": {
+        "periodo": "2016",
+        "valor": 722120
+      },
+      "fim": {
+        "periodo": "2018",
+        "valor": 744216
+      },
+      "variacao_pct": 3.1
+    },
+    {
+      "governo": "bolsonaro",
+      "inicio": {
+        "periodo": "2018",
+        "valor": 744216
+      },
+      "fim": {
+        "periodo": "2022",
+        "valor": 832295
+      },
+      "variacao_pct": 11.8
+    },
+    {
+      "governo": "lula-3",
+      "inicio": {
+        "periodo": "2022",
+        "valor": 832295
+      },
+      "fim": {
+        "periodo": "2025",
+        "valor": 964668
+      },
+      "variacao_pct": 15.9
+    }
+  ],
   "notas_metodologicas": [
-    "Anos ausentes (2001–2002, 2004–2005, 2007–2009, 2011–2013, 2015, 2017, 2021) não constam da nota.",
-    "Perfil em 2025: 69,6% negros; 25,7% presos provisórios. Prisão domiciliar passou de 6.027 (2º semestre de 2016) para 235.880 (1º semestre de 2025).",
-    "Responsabilidade: a quase totalidade dos presídios é estadual; a União mantém o sistema penitenciário federal, o Funpen e a legislação penal.",
-    "O déficit de vagas difere conforme a fonte: 281.213 (FBSP) ou cerca de 202 mil (Senappen, nov/2025)."
+    "Série anual completa 2000–2025 (Anuário 2026, Tabelas 72, 74, 75 e 77): pessoas no sistema penitenciário mais custódia das polícias (que caiu de 57.775 em 2000 para 3.692 em 2025).",
+    "Variação por governo: Lula 1–2 (2002→2010) +107%; Dilma (2010→2016) +45,5%; Temer (2016→2018) +3,1%; Bolsonaro (2018→2022) +11,8%; Lula 3 (2022→2025) +15,9%.",
+    "Perfil em 2025: 69,6% negros; 25,7% presos provisórios (247.549) e 74,3% condenados (717.119). Prisão domiciliar passou de 6.027 (2º semestre de 2016) para 235.880 (1º semestre de 2025). Ver série populacao-prisional-por-regime.",
+    "Óbitos no sistema prisional em 2025: 1.622 por causas naturais/saúde (168,8 por 100 mil presos, -10,5%) e 477 criminais (49,6; -24,6%).",
+    "Responsabilidade: a quase totalidade dos presídios é estadual; a União mantém o sistema penitenciário federal (561 condenados e 33 provisórios em 2025), o Funpen e a legislação penal.",
+    "O déficit de vagas difere conforme a fonte: 281.213 (FBSP, Tabela 72: 679.763 vagas para 960.976 presos no sistema) ou cerca de 202 mil (Senappen, nov/2025)."
   ],
   "ultimo_periodo": "2025",
   "temas": [
@@ -99,9 +230,7 @@
       "tier": "imprensa"
     }
   ],
-  "lacunas": [
-    "Pontos anuais intermediários não constam da nota."
-  ],
+  "lacunas": [],
   "atualizado_em": "2026-10-21",
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/07_saude_seguranca_educacao_infra_ambiente.md"
 }

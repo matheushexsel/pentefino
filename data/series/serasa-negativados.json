@@ -13,6 +13,11 @@
   },
   "pontos": [
     {
+      "periodo": "abr/2020",
+      "valor": 65.9,
+      "fonte_ponto": "Lupa, 04/10/2026"
+    },
+    {
       "periodo": "dez/2021",
       "valor": 63.97
     },
@@ -20,6 +25,12 @@
       "periodo": "dez/2022",
       "valor": 69.43,
       "pct_adultos": 42.76
+    },
+    {
+      "periodo": "jan/2023",
+      "valor": 70.09,
+      "pct_adultos": 43.13,
+      "fonte_ponto": "Lupa, 04/10/2026"
     },
     {
       "periodo": "dez/2023",
@@ -44,16 +55,18 @@
       "via_snippet": true
     },
     {
-      "periodo": "jul–ago/2026",
-      "valor": 83.9
+      "periodo": "ago/2026",
+      "valor": 83.9,
+      "pct_adultos": 51.06
     }
   ],
   "faixas_referencia": [],
   "notas_metodologicas": [
-    "Boa parte do salto ocorreu em 2025, coincidindo com a alta da Selic de 10,5% para 15%."
+    "Boa parte do salto ocorreu em 2025, coincidindo com a alta da Selic de 10,5% para 15%.",
+    "Rodada 2 (21/10/2026): pontos de abr/2020 (65,9 mi), jan/2023 (70,09 mi; 43,13% dos adultos) e ago/2026 (83,9 mi; 51,06%) acrescentados a partir da Lupa (04/10/2026), que classificou 'recorde de brasileiros endividados' (Flávio Bolsonaro) como FALTA CONTEXTO porque a alta vem desde o governo Bolsonaro. URL: https://www.agencialupa.org/checagem/2026/10/04/apos-confirmacao-do-2o-turno-lula-erra-sobre-superavit-e-flavio-sobre-reeleicao-e-endividamento/"
   ],
   "lacunas": [],
-  "ultimo_periodo": "jul–ago/2026",
+  "ultimo_periodo": "ago/2026",
   "temas": [
     "emprego-renda"
   ],

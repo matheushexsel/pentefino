@@ -33,7 +33,7 @@
     "Mas 2024 teve o maior incêndio da série: 30 milhões de hectares queimados no país, 15,6 milhões na Amazônia, o pior desde 1985; e o Cerrado só começou a cair em 2024.",
     "O desmatamento não foi zerado (5.796 km² ainda é maior que o mínimo de 4.571 km² de 2012) e o governo liberou a perfuração de petróleo na Margem Equatorial, criticada por ambientalistas."
   ],
-  "explicacao_completa_md": "**PRODES Amazônia (km², ago-jul):** 2004 27.772 (pico, Lula 1); 2010 7.000; 2012 4.571 (mínimo, Dilma); 2016 7.893; 2018 7.536 (Temer); 2019 10.129; 2020 10.851; 2021 13.038 (pico recente, Bolsonaro); 2022 11.594; 2023 9.064; 2024 6.518 (consolidado; preliminar 6.288); 2025 5.796 (-11,08%; 4º ano seguido de queda; menor em 11 anos). Cerrado: 10.689 (2021/22), 11.002 (2022/23), 8.174 (2023/24, primeira queda em 5 anos), 7.235 (2025, -11,49%). DETER ago/2025-jul/2026: alertas na Amazônia -36,87% (menor desde 2016). **Queimadas 2024 (MapBiomas):** cerca de 30 milhões de hectares, 62% acima da média histórica (18,5 milhões) e +90% vs 2023; Amazônia 15,6 milhões de ha (maior desde 1985); Cerrado 9,6 milhões; Pantanal +157% vs média; coincidiu com seca extrema e El Niño. **Outros:** Fundo Amazônia paralisado em 2019 e reativado em 01/01/2023 (R$ 882 milhões aprovados em 2024, recorde); COP30 em Belém (nov/2025) sem 'mapa do caminho' dos fósseis; Ibama negou licença à Petrobras na Foz do Amazonas em maio de 2023 e concedeu em 20/10/2025 para um poço exploratório no Amapá. Fiscalização (Ibama/ICMBio/PF) é federal; estados (PA, MT) licenciam e fiscalizam.",
+  "explicacao_completa_md": "**PRODES Amazônia (km², ago-jul):** 2004 27.772 (pico, Lula 1); 2010 7.000; 2012 4.571 (mínimo, Dilma); 2016 7.893; 2018 7.536 (Temer); 2019 10.129; 2020 10.851; 2021 13.038 (pico recente, Bolsonaro); 2022 11.594; 2023 9.064; 2024 6.518 (consolidado; preliminar 6.288); 2025 5.796 (-11,08%; 4º ano seguido de queda; menor em 11 anos). Cerrado: 10.689 (2021/22), 11.002 (2022/23), 8.174 (2023/24, primeira queda em 5 anos), 7.235 (2025, -11,49%). DETER ago/2025-jul/2026: alertas na Amazônia -36,87% (menor desde 2016). **Queimadas 2024 (MapBiomas):** cerca de 30 milhões de hectares, 62% acima da média histórica (18,5 milhões) e +90% vs 2023; Amazônia 15,6 milhões de ha (maior desde 1985); Cerrado 9,6 milhões; Pantanal +157% vs média; coincidiu com seca extrema e El Niño. **Outros:** Fundo Amazônia paralisado em 2019 e reativado em 01/01/2023 (R$ 882 milhões aprovados em 2024, recorde); COP30 em Belém (nov/2025) sem 'mapa do caminho' dos fósseis; Ibama negou licença à Petrobras na Foz do Amazonas em maio de 2023 e concedeu em 20/10/2025 para um poço exploratório no Amapá. Fiscalização (Ibama/ICMBio/PF) é federal; estados (PA, MT) licenciam e fiscalizam.\n\n**Atualização (enriquecimento, 21/10/2026):** Fundo Amazônia (BNDES, dados até 30/09/2026): R$ 5,27 bilhões internalizados desde 2009; nenhuma doação entre 17/12/2018 e 13/12/2023 (as 29 parcelas da Petrobras terminaram em mai/2018), retomada em 2023 e recorde em 2024 (cerca de R$ 990 milhões, soma das doações listadas; outra fonte registra R$ 643 milhões, provavelmente com outro corte). O fundo é gerido pelo BNDES, com comitê presidido pelo MMA.",
   "o_que_e_verdade": [
     "O desmatamento na Amazônia caiu 50% entre 2022 e 2025 (11.594 para 5.796 km²), menor nível em 11 anos, com quatro quedas seguidas.",
     "O Fundo Amazônia foi reativado em 2023 após paralisação em 2019."
@@ -146,6 +146,19 @@
         "tier": "imprensa"
       },
       "comparacao": null
+    },
+    {
+      "rotulo": "Doações ao Fundo Amazônia entre dez/2018 e dez/2023",
+      "valor": 0,
+      "unidade": "R$ (nenhuma doação no período)",
+      "periodo": "2019-2022",
+      "fonte": {
+        "nome": "Fundo Amazônia/BNDES — Doações (dados até 30/09/2026)",
+        "url": "https://www.fundoamazonia.gov.br/pt/transparencia/doacoes/",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": null
     }
   ],
   "series": [
@@ -204,6 +217,12 @@
       "url": "https://www.jb.com.br/brasil/meio-ambiente/2026/08/amp/1060529-desmatamento-na-amazonia-cai-3687-e-atinge-menor-nivel-desde-2016.html",
       "acesso_em": "2026-10-21",
       "tier": "imprensa"
+    },
+    {
+      "nome": "Fundo Amazônia/BNDES — Doações (dados até 30/09/2026)",
+      "url": "https://www.fundoamazonia.gov.br/pt/transparencia/doacoes/",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/07_saude_seguranca_educacao_infra_ambiente.md",
@@ -234,6 +253,10 @@
     {
       "data": "2026-10-21",
       "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "enriquecimento rodada 2 (21/10/2026): doações ao Fundo Amazônia por período (BNDES)"
     }
   ],
   "exemplo": false,

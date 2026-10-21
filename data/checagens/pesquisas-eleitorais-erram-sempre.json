@@ -3,23 +3,44 @@
   "slug": "pesquisas-eleitorais-erram-sempre",
   "frase": "As pesquisas eleitorais erram sempre e são fraudadas; o resultado do 1º turno de 2026 prova isso.",
   "frase_normalizada": "pesquisas eleitorais erram sempre e sao fraudadas",
-  "variantes": ["As pesquisas são compradas", "Pesquisa é tudo mentira", "Flávio tem 61% (Polymarket como pesquisa)", "Deepfake de apresentador do Jornal Nacional com falsa pesquisa"],
-  "autor": { "nome": "Afirmação recorrente em redes sociais (autoria difusa)", "partido": null, "cargo": null },
+  "variantes": [
+    "As pesquisas são compradas",
+    "Pesquisa é tudo mentira",
+    "Flávio tem 61% (Polymarket como pesquisa)",
+    "Deepfake de apresentador do Jornal Nacional com falsa pesquisa"
+  ],
+  "autor": {
+    "nome": "Afirmação recorrente em redes sociais (autoria difusa)",
+    "partido": null,
+    "cargo": null
+  },
   "lado": "outro",
-  "alvo": { "nome": "Institutos de pesquisa (Datafolha, Quaest, AtlasIntel e outros)", "partido": null },
+  "alvo": {
+    "nome": "Institutos de pesquisa (Datafolha, Quaest, AtlasIntel e outros)",
+    "partido": null
+  },
   "data": "2026-10-05",
   "onde": "Redes sociais, após a totalização do 1º turno",
   "url_declaracao": "https://www.aosfatos.org/noticias/pesquisa-flavio-61-intencoes-voto/",
-  "temas": ["eleicao-2026"],
-  "tags": ["pesquisas", "Datafolha", "Quaest", "AtlasIntel", "margem de erro", "Polymarket"],
+  "temas": [
+    "eleicao-2026"
+  ],
+  "tags": [
+    "pesquisas",
+    "Datafolha",
+    "Quaest",
+    "AtlasIntel",
+    "margem de erro",
+    "Polymarket"
+  ],
   "veredito": "exagerado",
-  "resumo_uma_frase": "As pesquisas finais do 1º turno de 2026 de fato mostraram Lula à frente e o resultado inverteu a ordem, com Flávio subestimado em cerca de 3 a 5 pontos nos válidos; mas isso é um erro de estimativa documentado em uma eleição, não prova de fraude, e no 2º turno todas as pesquisas registradas no TSE mostram Flávio numericamente à frente dentro ou perto da margem de erro.",
+  "resumo_uma_frase": "As pesquisas finais do 1º turno de 2026 de fato mostraram Lula à frente e o resultado inverteu a ordem, com Flávio subestimado em cerca de 3 a 5 pontos nos válidos; mas isso é um erro de estimativa documentado em uma eleição, não prova de fraude, e no 2º turno as pesquisas registradas no TSE mostram Flávio numericamente à frente ou empatado (PoderData 50% x 50% em 13–15/10; Quaest 45% x 44% em 17–20/10), dentro ou perto da margem de erro.",
   "explicacao_simples": [
     "As últimas pesquisas antes do 1º turno (Datafolha 45% x 42%, Quaest 40% x 38%, AtlasIntel 47% x 44,1%) apontavam Lula à frente; o resultado oficial foi Flávio 47,03% x Lula 45,16%.",
     "Isso significa uma subestimação de Flávio de cerca de 3 a 5 pontos nos votos válidos, acima da margem de erro declarada (2 pontos) — um erro real, mas de uma eleição, sem evidência de fraude.",
     "Afirmar que as pesquisas 'erram sempre' ou 'são fraudadas' exagera: as pesquisas são registradas no TSE, e as peças virais que mostraram 'pesquisas' com Flávio em 61% usavam apostas do Polymarket ou deepfakes de apresentadores, classificadas como falsas."
   ],
-  "explicacao_completa_md": "**O que as pesquisas finais do 1º turno diziam:** Datafolha (1–3/10): Lula 42% x Flávio 40% nos totais, 45% x 42% nos válidos; Quaest (2–3/10): 40% x 38%; AtlasIntel (27/9–2/10): 47% x 44,1%. **Resultado oficial:** Flávio 47,03% x Lula 45,16% dos válidos. A ordem se inverteu e Flávio foi subestimado em cerca de 3 a 5 pontos nos válidos — inferência da nota de pesquisa a partir dos dados do TSE republicados e da compilação da Wikipédia.\n\n**O que as pesquisas do 2º turno mostram (8 a 20/10):** todas com Flávio numericamente à frente, por margens de 0,6 a 5,6 pontos nos válidos: Datafolha 52x48 (8/10) e 51x49 (15/10); AtlasIntel 52,8x47,2 (9/10) e 51,1x48,9 (19/10); Quaest 51x49 (14/10); Indexa/Broadcast 51x49 (15/10); CNT/MDA 50,5x49,5 (16/10); PoderData 52x48 (19/10); Nexus/BTG 50,3x49,7 (19/10); Real Time Big Data 52x48 (20/10). A média simples das seis pesquisas de 15–20/10 dá ~51,2% x 48,8%. Todas têm registro no TSE (ex.: BR-02949/2026, BR-08729/2026, BR-00466/2026).\n\n**O que é falso:** Flávio e aliados divulgaram probabilidades do mercado de apostas Polymarket ('Flávio com 61%') como se fossem pesquisa — FALSO (Aos Fatos). Deepfakes de apresentadores do Jornal Nacional (>420 mil visualizações) e de César Tralli (>500 mil) anunciando falsas pesquisas foram removidos (RSF). A Lupa checou deepfakes com falsos resultados de pesquisas em 2026.\n\n**Limites desta checagem:** as notas documentam um único ciclo (2026); não há série histórica de erro das pesquisas nem avaliação metodológica dos institutos nas fontes consultadas.",
+  "explicacao_completa_md": "**O que as pesquisas finais do 1º turno diziam:** Datafolha (1–3/10): Lula 42% x Flávio 40% nos totais, 45% x 42% nos válidos; Quaest (2–3/10): 40% x 38%; AtlasIntel (27/9–2/10): 47% x 44,1%. **Resultado oficial:** Flávio 47,03% x Lula 45,16% dos válidos. A ordem se inverteu e Flávio foi subestimado em cerca de 3 a 5 pontos nos válidos — inferência da nota de pesquisa a partir dos dados do TSE republicados e da compilação da Wikipédia.\n\n**O que as pesquisas do 2º turno mostram (8 a 20/10):** todas com Flávio numericamente à frente, por margens de 0,6 a 5,6 pontos nos válidos: Datafolha 52x48 (8/10) e 51x49 (15/10); AtlasIntel 52,8x47,2 (9/10) e 51,1x48,9 (19/10); Quaest 51x49 (14/10); Indexa/Broadcast 51x49 (15/10); CNT/MDA 50,5x49,5 (16/10); PoderData 52x48 (19/10); Nexus/BTG 50,3x49,7 (19/10); Real Time Big Data 52x48 (20/10). A média simples das seis pesquisas de 15–20/10 dá ~51,2% x 48,8%. Todas têm registro no TSE (ex.: BR-02949/2026, BR-08729/2026, BR-00466/2026).\n\n**O que é falso:** Flávio e aliados divulgaram probabilidades do mercado de apostas Polymarket ('Flávio com 61%') como se fossem pesquisa — FALSO (Aos Fatos). Deepfakes de apresentadores do Jornal Nacional (>420 mil visualizações) e de César Tralli (>500 mil) anunciando falsas pesquisas foram removidos (RSF). A Lupa checou deepfakes com falsos resultados de pesquisas em 2026.\n\n**Limites desta checagem:** as notas documentam um único ciclo (2026); não há série histórica de erro das pesquisas nem avaliação metodológica dos institutos nas fontes consultadas.\n\n**Atualização (rodada 2):** PoderData/Aya, campo 13–15/10 (3.000 entrevistados, BR-04258/2026): válidos 50% x 50% — empate numérico; Gerp, 14–16/10 (BR-05187/2026): 52% x 48%; Meio/Ideia, 15–19/10 (BR-08251/2026): 51,1% x 48,9% (evangélicos 69,6% Flávio; católicos 55% Lula); Palver, 18–20/10 (5.000 entrevistados, BR-04612/2026): totais 50% x 48% (~51% x 49%); **Quaest, 17–20/10 (BR-08535/2026), primeira após o debate da Band: totais Flávio 45% x Lula 44%** (brancos/nulos 9%, indecisos 2%; válidos ~50,6% x 49,4% por cálculo próprio); rejeição Flávio 52% (54% em 14/10) e Lula 47% (53%) — queda de Lula fora da margem; governo Lula 47% desaprovam x 46% aprovam. A inferência 'nenhuma pesquisa mostra Lula à frente' continua válida, mas há um empate numérico (PoderData) e a Quaest reduziu a diferença a 1 ponto nos totais. A Comprova registrou que um gráfico com '60% de chance' para Flávio é de site de apostas, não de instituto, e que golpistas usaram o nome da WePink para simular pesquisa e extorquir. Em 21/10 'quaest' tinha 20 mil+ buscas no Google Trends (RSS). Ipec e Paraná Pesquisas não publicaram pesquisas presidenciais de 2º turno (listagem da Gazeta do Povo, 21/10).",
   "o_que_e_verdade": [
     "As pesquisas finais do 1º turno apontavam Lula à frente e o resultado inverteu a ordem.",
     "A subestimação de Flávio (cerca de 3 a 5 pontos nos válidos) superou a margem de erro declarada de 2 pontos.",
@@ -31,45 +52,337 @@
     "Que 'Flávio tem 61%': o número vem de apostas do Polymarket, não de pesquisa (Aos Fatos: falso)."
   ],
   "quem_e_responsavel": [
-    { "ator": "Institutos de pesquisa", "papel": "Desenham amostras e publicam estimativas com margem de erro", "peso": "alto" },
-    { "ator": "TSE", "papel": "Registra as pesquisas (número BR-xxxxx/2026) e julga irregularidades", "peso": "medio" },
-    { "ator": "Campanhas e influenciadores", "papel": "Divulgaram apostas e deepfakes como se fossem pesquisas", "peso": "medio" }
+    {
+      "ator": "Institutos de pesquisa",
+      "papel": "Desenham amostras e publicam estimativas com margem de erro",
+      "peso": "alto"
+    },
+    {
+      "ator": "TSE",
+      "papel": "Registra as pesquisas (número BR-xxxxx/2026) e julga irregularidades",
+      "peso": "medio"
+    },
+    {
+      "ator": "Campanhas e influenciadores",
+      "papel": "Divulgaram apostas e deepfakes como se fossem pesquisas",
+      "peso": "medio"
+    }
   ],
   "numeros": [
-    { "rotulo": "Datafolha final do 1º turno: Lula (válidos)", "valor": 45, "unidade": "%", "periodo": "1–3/10/2026", "fonte": { "nome": "Gazeta do Povo, Datafolha 15/10 (cita rodada de 3/10)", "url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/datafolha-presidente-outubro-2026-segundo-turno-2/", "acesso_em": "2026-10-21", "tier": "imprensa" }, "comparacao": { "rotulo": "Datafolha final do 1º turno: Flávio (válidos)", "valor": 42 } },
-    { "rotulo": "Resultado oficial: Flávio (válidos)", "valor": 47.03, "unidade": "%", "periodo": "04/10/2026", "fonte": { "nome": "CartaCapital, TSE encerra apuração", "url": "https://www.cartacapital.com.br/politica/tse-encerra-apuracao-do-1o-turno/", "acesso_em": "2026-10-21", "tier": "imprensa" }, "comparacao": { "rotulo": "Resultado oficial: Lula (válidos)", "valor": 45.16 } },
-    { "rotulo": "AtlasIntel final do 1º turno: Lula", "valor": 47, "unidade": "%", "periodo": "27/9–2/10/2026", "fonte": { "nome": "Wikipédia pt, Pesquisas de opinião para a eleição presidencial de 2026", "url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026", "acesso_em": "2026-10-21", "tier": "imprensa" }, "comparacao": { "rotulo": "AtlasIntel final do 1º turno: Flávio", "valor": 44.1 } },
-    { "rotulo": "Média simples de 6 pesquisas do 2º turno (15–20/10): Flávio (válidos)", "valor": 51.2, "unidade": "%", "periodo": "15–20/10/2026", "fonte": { "nome": "Gazeta do Povo, pesquisas eleitorais 2026 (compilação)", "url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/real-time-big-data-presidente-outubro-2026-segundo-turno/", "acesso_em": "2026-10-21", "tier": "imprensa" }, "comparacao": { "rotulo": "Lula (válidos)", "valor": 48.8 } },
-    { "rotulo": "AtlasIntel 2º turno: diferença Flávio–Lula em 09/10", "valor": 5.6, "unidade": "pontos percentuais", "periodo": "09/10/2026", "fonte": { "nome": "CNN Brasil, 09/10/2026", "url": "https://www.cnnbrasil.com.br/eleicoes/atlas-flavio-tem-528-dos-votos-validos-no-2o-turno-lula-472/", "acesso_em": "2026-10-21", "tier": "imprensa" }, "comparacao": { "rotulo": "Diferença em 19/10", "valor": 2.2 } }
+    {
+      "rotulo": "Datafolha final do 1º turno: Lula (válidos)",
+      "valor": 45,
+      "unidade": "%",
+      "periodo": "1–3/10/2026",
+      "fonte": {
+        "nome": "Gazeta do Povo, Datafolha 15/10 (cita rodada de 3/10)",
+        "url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/datafolha-presidente-outubro-2026-segundo-turno-2/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "Datafolha final do 1º turno: Flávio (válidos)",
+        "valor": 42
+      }
+    },
+    {
+      "rotulo": "Resultado oficial: Flávio (válidos)",
+      "valor": 47.03,
+      "unidade": "%",
+      "periodo": "04/10/2026",
+      "fonte": {
+        "nome": "CartaCapital, TSE encerra apuração",
+        "url": "https://www.cartacapital.com.br/politica/tse-encerra-apuracao-do-1o-turno/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "Resultado oficial: Lula (válidos)",
+        "valor": 45.16
+      }
+    },
+    {
+      "rotulo": "AtlasIntel final do 1º turno: Lula",
+      "valor": 47,
+      "unidade": "%",
+      "periodo": "27/9–2/10/2026",
+      "fonte": {
+        "nome": "Wikipédia pt, Pesquisas de opinião para a eleição presidencial de 2026",
+        "url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "AtlasIntel final do 1º turno: Flávio",
+        "valor": 44.1
+      }
+    },
+    {
+      "rotulo": "Média simples de 6 pesquisas do 2º turno (15–20/10): Flávio (válidos)",
+      "valor": 51.2,
+      "unidade": "%",
+      "periodo": "15–20/10/2026",
+      "fonte": {
+        "nome": "Gazeta do Povo, pesquisas eleitorais 2026 (compilação)",
+        "url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/real-time-big-data-presidente-outubro-2026-segundo-turno/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "Lula (válidos)",
+        "valor": 48.8
+      }
+    },
+    {
+      "rotulo": "AtlasIntel 2º turno: diferença Flávio–Lula em 09/10",
+      "valor": 5.6,
+      "unidade": "pontos percentuais",
+      "periodo": "09/10/2026",
+      "fonte": {
+        "nome": "CNN Brasil, 09/10/2026",
+        "url": "https://www.cnnbrasil.com.br/eleicoes/atlas-flavio-tem-528-dos-votos-validos-no-2o-turno-lula-472/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "Diferença em 19/10",
+        "valor": 2.2
+      }
+    },
+    {
+      "rotulo": "PoderData/Aya 13–15/10: Flávio (válidos)",
+      "valor": 50,
+      "unidade": "%",
+      "periodo": "13–15/10/2026 (BR-04258/2026)",
+      "fonte": {
+        "nome": "Gazeta do Povo, PoderData 16/10/2026",
+        "url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/poderdata-presidente-outubro-2026-segundo-turno-4/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "Lula (válidos)",
+        "valor": 50
+      }
+    },
+    {
+      "rotulo": "Quaest 17–20/10: Flávio (totais)",
+      "valor": 45,
+      "unidade": "%",
+      "periodo": "17–20/10/2026 (BR-08535/2026)",
+      "fonte": {
+        "nome": "CNN Brasil, Quaest 21/10/2026 (intenção de voto)",
+        "url": "https://www.cnnbrasil.com.br/eleicoes/quaest-flavio-tem-45-no-2o-turno-lula-44/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "Lula (totais)",
+        "valor": 44
+      }
+    },
+    {
+      "rotulo": "Quaest 17–20/10: rejeição de Flávio",
+      "valor": 52,
+      "unidade": "%",
+      "periodo": "17–20/10/2026",
+      "fonte": {
+        "nome": "CNN Brasil, Quaest 21/10/2026 (rejeição)",
+        "url": "https://www.cnnbrasil.com.br/eleicoes/quaest-flavio-e-rejeitado-por-52-dos-eleitores-lula-por-47/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "Rejeição de Lula",
+        "valor": 47
+      }
+    },
+    {
+      "rotulo": "Meio/Ideia 15–19/10: Flávio (válidos)",
+      "valor": 51.1,
+      "unidade": "%",
+      "periodo": "15–19/10/2026 (BR-08251/2026)",
+      "fonte": {
+        "nome": "Gazeta do Povo, Meio/Ideia 21/10/2026",
+        "url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/meio-ideia-presidente-outubro-2026-segundo-turno/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "Lula (válidos)",
+        "valor": 48.9
+      }
+    }
   ],
   "series": [],
   "checagens_externas": [
-    { "veiculo": "Aos Fatos", "veredito_original": "Falso: 'pesquisa' com Flávio em 61% é aposta do Polymarket", "url": "https://www.aosfatos.org/noticias/pesquisa-flavio-61-intencoes-voto/", "data": "2026-10-04" },
-    { "veiculo": "Aos Fatos", "veredito_original": "Flávio e aliados divulgam apostas do Polymarket como pesquisa eleitoral", "url": "https://www.aosfatos.org/noticias/flavio-bolsonaro-e-aliados-divulgam-apostas-do-polymarket-como-pesquisa-eleitoral/", "data": "2026-10" },
-    { "veiculo": "RSF (citando Lupa)", "veredito_original": "Deepfakes com falsos resultados de pesquisas removidos", "url": "https://rsf.org/pt-br/elei%C3%A7%C3%B5es-presidenciais-no-brasil-medidas-contra-desinforma%C3%A7%C3%A3o-eleitoral-online-s%C3%A3o-amplamente", "data": "2026" }
+    {
+      "veiculo": "Aos Fatos",
+      "veredito_original": "Falso: 'pesquisa' com Flávio em 61% é aposta do Polymarket",
+      "url": "https://www.aosfatos.org/noticias/pesquisa-flavio-61-intencoes-voto/",
+      "data": "2026-10-04"
+    },
+    {
+      "veiculo": "Aos Fatos",
+      "veredito_original": "Flávio e aliados divulgam apostas do Polymarket como pesquisa eleitoral",
+      "url": "https://www.aosfatos.org/noticias/flavio-bolsonaro-e-aliados-divulgam-apostas-do-polymarket-como-pesquisa-eleitoral/",
+      "data": "2026-10"
+    },
+    {
+      "veiculo": "RSF (citando Lupa)",
+      "veredito_original": "Deepfakes com falsos resultados de pesquisas removidos",
+      "url": "https://rsf.org/pt-br/elei%C3%A7%C3%B5es-presidenciais-no-brasil-medidas-contra-desinforma%C3%A7%C3%A3o-eleitoral-online-s%C3%A3o-amplamente",
+      "data": "2026"
+    },
+    {
+      "veiculo": "Comprova",
+      "veredito_original": "Gráfico com '60% de chance' para Flávio é de site de apostas, não de instituto de pesquisa",
+      "url": "https://projetocomprova.com.br/publicações/grafico-mostra-60-de-chance-para-vitoria-para-flavio-e-de-um-site-de-aposta-nao-de-instituto-de-pesquisas/",
+      "data": "2026-10"
+    }
   ],
   "fontes": [
-    { "nome": "Wikipédia pt, Pesquisas de opinião para a eleição presidencial de 2026", "url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026", "acesso_em": "2026-10-21", "tier": "imprensa" },
-    { "nome": "TVT News, Datafolha 2º turno (08/10/2026)", "url": "https://tvtnews.com.br/datafolha-2-turno-pesquisa-lula-x-flavio-bolsonaro/", "acesso_em": "2026-10-21", "tier": "imprensa" },
-    { "nome": "Gazeta do Povo, Quaest (14/10/2026)", "url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/quaest-presidente-outubro-2026-segundo-turno/", "acesso_em": "2026-10-21", "tier": "imprensa" },
-    { "nome": "Gazeta do Povo, Datafolha (15/10/2026)", "url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/datafolha-presidente-outubro-2026-segundo-turno-2/", "acesso_em": "2026-10-21", "tier": "imprensa" },
-    { "nome": "Gazeta do Povo, CNT/MDA (16/10/2026)", "url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/cnt-mda-presidente-outubro-2026-segundo-turno/", "acesso_em": "2026-10-21", "tier": "imprensa" },
-    { "nome": "CartaCapital, AtlasIntel (19/10/2026)", "url": "https://www.cartacapital.com.br/politica/lula-sobe-mas-flavio-segue-a-frente-no-2o-turno-indica-atlasintel/", "acesso_em": "2026-10-21", "tier": "imprensa" },
-    { "nome": "Gazeta do Povo, PoderData (19/10/2026)", "url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/poderdata-presidente-outubro-2026-segundo-turno-3/", "acesso_em": "2026-10-21", "tier": "imprensa" },
-    { "nome": "Gazeta do Povo, Nexus/BTG (19/10/2026)", "url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/nexus-btg-pactual-presidente-outubro-2026-segundo-turno-2/", "acesso_em": "2026-10-21", "tier": "imprensa" },
-    { "nome": "Gazeta do Povo, Real Time Big Data (20/10/2026)", "url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/real-time-big-data-presidente-outubro-2026-segundo-turno/", "acesso_em": "2026-10-21", "tier": "imprensa" },
-    { "nome": "Aos Fatos, 'Flávio com 61%' (04/10/2026)", "url": "https://www.aosfatos.org/noticias/pesquisa-flavio-61-intencoes-voto/", "acesso_em": "2026-10-21", "tier": "checagem" }
+    {
+      "nome": "Wikipédia pt, Pesquisas de opinião para a eleição presidencial de 2026",
+      "url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "TVT News, Datafolha 2º turno (08/10/2026)",
+      "url": "https://tvtnews.com.br/datafolha-2-turno-pesquisa-lula-x-flavio-bolsonaro/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Gazeta do Povo, Quaest (14/10/2026)",
+      "url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/quaest-presidente-outubro-2026-segundo-turno/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Gazeta do Povo, Datafolha (15/10/2026)",
+      "url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/datafolha-presidente-outubro-2026-segundo-turno-2/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Gazeta do Povo, CNT/MDA (16/10/2026)",
+      "url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/cnt-mda-presidente-outubro-2026-segundo-turno/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "CartaCapital, AtlasIntel (19/10/2026)",
+      "url": "https://www.cartacapital.com.br/politica/lula-sobe-mas-flavio-segue-a-frente-no-2o-turno-indica-atlasintel/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Gazeta do Povo, PoderData (19/10/2026)",
+      "url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/poderdata-presidente-outubro-2026-segundo-turno-3/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Gazeta do Povo, Nexus/BTG (19/10/2026)",
+      "url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/nexus-btg-pactual-presidente-outubro-2026-segundo-turno-2/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Gazeta do Povo, Real Time Big Data (20/10/2026)",
+      "url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/real-time-big-data-presidente-outubro-2026-segundo-turno/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Aos Fatos, 'Flávio com 61%' (04/10/2026)",
+      "url": "https://www.aosfatos.org/noticias/pesquisa-flavio-61-intencoes-voto/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Gazeta do Povo, PoderData 16/10/2026",
+      "url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/poderdata-presidente-outubro-2026-segundo-turno-4/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Gazeta do Povo, Gerp 16/10/2026",
+      "url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/gerp-presidente-outubro-2026-segundo-turno-2/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Gazeta do Povo, Meio/Ideia 21/10/2026",
+      "url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/meio-ideia-presidente-outubro-2026-segundo-turno/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Gazeta do Povo, Palver 21/10/2026",
+      "url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/palver-presidente-outubro-2026-segundo-turno/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Gazeta do Povo, Quaest 21/10/2026",
+      "url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/quaest-presidente-outubro-2026-segundo-turno-2/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "CNN Brasil, Quaest 21/10/2026 (intenção de voto)",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/quaest-flavio-tem-45-no-2o-turno-lula-44/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "CNN Brasil, Quaest 21/10/2026 (rejeição)",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/quaest-flavio-e-rejeitado-por-52-dos-eleitores-lula-por-47/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/08_eleicao_2026_cenario_checagens.md",
   "perguntas_frequentes": [
-    { "pergunta": "As pesquisas erraram no 1º turno de 2026?", "resposta": "Sim: apontavam Lula à frente por 2 a 3 pontos nos válidos e o resultado foi Flávio 47,03% x 45,16%, uma subestimação de Flávio de cerca de 3 a 5 pontos." },
-    { "pergunta": "Isso prova fraude?", "resposta": "Não. Erro de estimativa e fraude são coisas diferentes; as fontes não trazem evidência de fraude, e as pesquisas são registradas no TSE com metodologia pública." },
-    { "pergunta": "O que diziam as pesquisas do 2º turno?", "resposta": "Todas as divulgadas entre 8 e 20/10 mostram Flávio numericamente à frente, de 0,6 a 5,6 pontos nos válidos, a maioria em empate técnico; a tendência foi de estreitamento." },
-    { "pergunta": "'Flávio tem 61%' é pesquisa?", "resposta": "Não: é probabilidade do mercado de apostas Polymarket, divulgada como pesquisa — classificado como falso pelo Aos Fatos." }
+    {
+      "pergunta": "As pesquisas erraram no 1º turno de 2026?",
+      "resposta": "Sim: apontavam Lula à frente por 2 a 3 pontos nos válidos e o resultado foi Flávio 47,03% x 45,16%, uma subestimação de Flávio de cerca de 3 a 5 pontos."
+    },
+    {
+      "pergunta": "Isso prova fraude?",
+      "resposta": "Não. Erro de estimativa e fraude são coisas diferentes; as fontes não trazem evidência de fraude, e as pesquisas são registradas no TSE com metodologia pública."
+    },
+    {
+      "pergunta": "O que dizem as pesquisas do 2º turno?",
+      "resposta": "Todas as divulgadas entre 8 e 21/10 mostram Flávio numericamente à frente ou empatado (PoderData 50x50 em 13–15/10; Quaest 45x44 nos totais em 17–20/10), com diferenças de 0 a 5,6 pontos nos válidos, a maioria em empate técnico; a tendência foi de estreitamento."
+    },
+    {
+      "pergunta": "'Flávio tem 61%' é pesquisa?",
+      "resposta": "Não: é probabilidade do mercado de apostas Polymarket, divulgada como pesquisa — classificado como falso pelo Aos Fatos."
+    }
   ],
-  "relacionadas": ["eleicao-2026-resultado-primeiro-turno", "urnas-eletronicas-sao-confiaveis"],
+  "relacionadas": [
+    "eleicao-2026-resultado-primeiro-turno",
+    "urnas-eletronicas-sao-confiaveis"
+  ],
   "atualizado_em": "2026-10-21",
-  "changelog": [ { "data": "2026-10-21", "o_que_mudou": "publicação" } ],
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "enriquecimento rodada 2: fontes primárias do TSE/Senado, novas pesquisas e correções"
+    }
+  ],
   "exemplo": false,
-  "lacunas": ["A magnitude do erro (3 a 5 pontos) é inferência da nota a partir dos dados; não há avaliação metodológica dos institutos nem série histórica de erros nas fontes.", "Quaest de 21/10 e Datafolha de 22/10 não disponíveis no momento da pesquisa.", "Pesquisas do Ipec e da Paraná Pesquisas não encontradas."]
+  "lacunas": [
+    "A magnitude do erro (3 a 5 pontos) é inferência da nota a partir dos dados; não há avaliação metodológica dos institutos nem série histórica de erros nas fontes.",
+    "Datafolha de 22/10 e rodadas de 24/10 futuras; válidos e recortes da Quaest de 21/10 não publicados (relatório exige cadastro).",
+    "Ipec e Paraná Pesquisas não publicaram pesquisas presidenciais de 2º turno (listagem da Gazeta do Povo)."
+  ]
 }

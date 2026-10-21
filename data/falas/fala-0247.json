@@ -4,15 +4,19 @@
   "evento_id": "debate-band-2turno-2026-10-18",
   "candidato": "flavio-bolsonaro",
   "lado": "oposicao-flavio-pl",
-  "minuto": null,
-  "frase_literal": "O governo Lula trata abusadores de crianças como doentes, não como criminosos.",
-  "literal": false,
+  "minuto": "≈102 min após a abertura; stream 05:56:3x (≈21h57)",
+  "url_trecho": "https://www.youtube.com/watch?v=Gqc1rQtzWUk&t=21395s",
+  "frase_literal": "Diferente do que faz esse atual governo que acha que as pessoas que abusam de crianças […] são pessoas doentes, não são pessoas criminosas.",
+  "literal": true,
+  "variantes_literais": [
+    "Antes catalogada como paráfrase ('O governo Lula trata abusadores de crianças como doentes, não como criminosos'); literal recuperado da legenda na rodada 2."
+  ],
   "tema": "seguranca",
   "veredito": "falso",
   "resumo_uma_frase": "Não há política ou norma do governo nesse sentido.",
   "explicacao_simples": [
-    "Flávio Bolsonaro, no debate da Band (18/10/2026), afirmou (em paráfrase registrada por Aos Fatos) que o governo Lula trata abusadores de crianças como doentes, não como criminosos.",
-    "Aos Fatos: falso.",
+    "Flávio Bolsonaro, no debate da Band (18/10/2026), disse: “Diferente do que faz esse atual governo que acha que as pessoas que abusam de crianças […] são pessoas doentes, não são pessoas criminosas”.",
+    "Aos Fatos: falso. Literal confirmado pela legenda automática (05:56:3x ≈21h57), na mesma fala em que promete castração química e redução da maioridade penal.",
     "O dado central não corresponde aos registros disponíveis; por isso a frase é classificada como falsa."
   ],
   "o_que_e_verdade": [],
@@ -20,6 +24,7 @@
     "Sem base em norma ou política pública."
   ],
   "numeros": [],
+  "fontes_primarias": [],
   "base_legal": [],
   "checagens_externas": [
     {
@@ -40,5 +45,15 @@
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
-  "atualizado_em": "2026-10-21"
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "rodada 2: minutagem, link com timestamp e/ou literal conferido na legenda automática da live da Band"
+    }
+  ]
 }

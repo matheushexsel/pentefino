@@ -222,13 +222,18 @@
     "covid-700-mil-mortes-responsabilidade"
   ],
   "lacunas": [
-    "Série anual oficial do SI-PNI por vacina (2015–2025) não obtida; balanço fechado de 2025 não localizado."
+    "Série anual oficial do SI-PNI por vacina (2015–2025) não obtida: o TabNet legado foi descontinuado e o novo painel exige JavaScript; balanço fechado de 2025 não localizado.",
+    "Certificado de eliminação do sarampo não confirmado em fonte oficial."
   ],
   "atualizado_em": "2026-10-21",
   "changelog": [
     {
       "data": "2026-10-21",
       "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "rodada 2 de enriquecimento: lacunas atualizadas (SI-PNI segue inacessível)"
     }
   ],
   "exemplo": false

@@ -142,6 +142,18 @@
         "rotulo": "IPCA",
         "valor": 4.4
       }
+    },
+    {
+      "rotulo": "Aporte da Eletrobras à CDE em 2024 (Lei 14.182)",
+      "valor": 1.3,
+      "unidade": "R$ bilhões",
+      "periodo": "2024",
+      "fonte": {
+        "nome": "ANEEL Dados Abertos – CDE, custeio dos benefícios tarifários (CSV gerado em 01/10/2026)",
+        "url": "https://dadosabertos.aneel.gov.br/dataset/conta-desenvolvimento-energetico-cde-custeio-dos-beneficios-tarifarios",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
     }
   ],
   "series": [
@@ -197,6 +209,12 @@
       "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/L14182.htm",
       "acesso_em": "2026-10-21",
       "tier": "oficial"
+    },
+    {
+      "nome": "ANEEL Dados Abertos – CDE, custeio dos benefícios tarifários (CSV gerado em 01/10/2026)",
+      "url": "https://dadosabertos.aneel.gov.br/dataset/conta-desenvolvimento-energetico-cde-custeio-dos-beneficios-tarifarios",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/06_energia_eletrobras_combustiveis.md",
@@ -215,12 +233,16 @@
     {
       "data": "2026-10-21",
       "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "rodada 2: fontes e lacunas atualizadas"
     }
   ],
   "exemplo": false,
   "lacunas": [
     "Data exata da declaração de 7,36% não consta das notas.",
     "Não localizado estudo com 'R$ 200–300 bi em 20 anos' citado em debates.",
-    "Checagens já publicadas por Aos Fatos, Lupa, Estadão Verifica e Comprova sobre o tema não foram consultadas (cota de busca esgotada); cruzar antes da publicação."
+    "Checagens da Lupa, Estadão Verifica e g1 Fato ou Fake não puderam ser abertas na rodada 2 (bloqueio de fetch); a lista de checagens externas cobre apenas Aos Fatos e Comprova."
   ]
 }

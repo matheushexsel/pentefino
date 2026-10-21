@@ -41,13 +41,15 @@
   "o_que_e_verdade": [
     "IR mínimo, tributação de fundos exclusivos e offshores e Pilar 2 atingem grupos muito pequenos no topo (141 mil contribuintes; ~2,5 mil investidores; ~290 multinacionais).",
     "O diagnóstico oficial (SPE) mostra que o 0,1% mais rico tem só 5,8% da renda em base tributável e paga alíquota efetiva menor que a classe média alta.",
-    "A isenção do IR até R$ 5 mil tira do imposto cerca de 10 milhões de pessoas e reduz o de outros 5 milhões."
+    "A isenção do IR até R$ 5 mil tira do imposto cerca de 10 milhões de pessoas e reduz o de outros 5 milhões.",
+    "A tributação de fundos exclusivos e offshores rendeu R$ 20,67 bilhões em 2024 (Receita), e os Grandes Números do IRPF mostram que a faixa acima de 320 salários mínimos deve imposto equivalente a 1,4% da renda total, contra 9,8% na faixa de 15 a 20 salários — base empírica do IR mínimo."
   ],
   "o_que_nao_se_sustenta": [
     "A 'taxa das blusinhas' (20% em compras até US$ 50) e o IOF de 3,5% em cartão internacional e câmbio recaíram sobre consumidores em geral, não sobre super-ricos.",
     "O IOF-crédito de 2025 elevou o custo para empresas, inclusive pequenas; a reoneração da folha atinge 17 setores empregadores.",
     "A isenção do IR beneficia quem ganha entre R$ 3 mil e R$ 7,35 mil, acima da mediana; quem ganha até 2 salários mínimos já não pagava.",
-    "A carga tributária total subiu 2,1 pontos do PIB entre 2023 e 2025."
+    "A carga tributária total subiu 2,1 pontos do PIB entre 2023 e 2025.",
+    "A 'taxa das blusinhas' arrecadou R$ 2,88 bilhões em 2024 e cerca de R$ 5 bilhões em 2025, e o IOF subiu 20,54% em termos reais em 2025 (R$ 86,5 bilhões, com ~R$ 12 bilhões atribuídos ao decreto) — tributos pagos por consumidores, viajantes e empresas; já o IR sobre dividendos rendeu só R$ 3,145 bilhões em jan-jul/2026."
   ],
   "quem_e_responsavel": [
     {
@@ -217,6 +219,118 @@
         "rotulo": "2023",
         "valor": 30.26
       }
+    },
+    {
+      "rotulo": "Arrecadação da Lei 14.754/2023 em 2024 (fundos exclusivos R$ 13,0 bi + atualização de bens no exterior R$ 7,67 bi)",
+      "valor": 20.67,
+      "unidade": "R$ bilhões",
+      "periodo": "2024",
+      "fonte": {
+        "nome": "Receita Federal – Análise da Arrecadação das Receitas Federais, dezembro/2024 (PDF)",
+        "url": "https://www.gov.br/receitafederal/pt-br/centrais-de-conteudo/publicacoes/relatorios/arrecadacao-federal/2024/analise-mensal-dez-2024.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "Estimativa do governo em 2023",
+        "valor": 20.3
+      }
+    },
+    {
+      "rotulo": "Arrecadação do IOF",
+      "valor": 86.477,
+      "unidade": "R$ bilhões",
+      "periodo": "2025 (+20,54% real)",
+      "fonte": {
+        "nome": "Receita Federal – Análise da Arrecadação, dezembro/2025 (PDF via Poder360, 22/01/2026)",
+        "url": "https://static.poder360.com.br/2026/01/relatorio-arrecadacao-receita-federal-22jan2026.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "Efeito atribuído ao decreto de 2025",
+        "valor": 12
+      }
+    },
+    {
+      "rotulo": "Arrecadação federal do setor de apostas (CNAE jogos de azar e apostas)",
+      "valor": 9.953,
+      "unidade": "R$ bilhões",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Receita Federal – Análise da Arrecadação, dezembro/2025 (PDF via Poder360, 22/01/2026)",
+        "url": "https://static.poder360.com.br/2026/01/relatorio-arrecadacao-receita-federal-22jan2026.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "2024",
+        "valor": 0.091
+      }
+    },
+    {
+      "rotulo": "Imposto de importação sobre remessas ('taxa das blusinhas')",
+      "valor": 5.0,
+      "unidade": "R$ bilhões",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "AmdJus – Receita obtém R$ 5 bilhões com imposto sobre blusinhas (05/02/2026)",
+        "url": "https://amdjus.com.br/arrecadacao-recorde-receita-federal-obtem-r-5-bilhoes-com-imposto-sobre-blusinhas/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "2024",
+        "valor": 2.88
+      }
+    },
+    {
+      "rotulo": "IRRF sobre dividendos arrecadado (Lei 15.270)",
+      "valor": 3.145,
+      "unidade": "R$ bilhões",
+      "periodo": "jan-jul/2026",
+      "fonte": {
+        "nome": "Fenacon/Agência Brasil – Receita arrecada R$ 3,1 bilhões com IR sobre dividendos (27/08/2026)",
+        "url": "https://fenacon.org.br/noticias/receita-arrecada-r-31-bilhoes-com-ir-sobre-dividendos/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "Previsão inicial para 2026",
+        "valor": 28
+      }
+    },
+    {
+      "rotulo": "Imposto devido sobre a renda total dos declarantes acima de 320 salários mínimos (Grandes Números 2025)",
+      "valor": 1.4,
+      "unidade": "%",
+      "periodo": "ano-calendário 2024",
+      "fonte": {
+        "nome": "Receita Federal – Grandes Números IRPF 2025 (ano-calendário 2024), tabelas",
+        "url": "https://www.gov.br/receitafederal/pt-br/centrais-de-conteudo/publicacoes/estudos/imposto-de-renda/estudos-por-ano/grandes-numeros-do-IRPF-2008-a-2025/grandes-numeros-do-irpf-2025-ano-calendario-2024-tabelas/view",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "Faixa de 15 a 20 salários mínimos",
+        "valor": 9.8
+      }
+    },
+    {
+      "rotulo": "Alíquota efetiva média do IRPF na faixa de 5 a 7 salários mínimos (DIEESE, dados RFB 2022)",
+      "valor": 6.02,
+      "unidade": "%",
+      "periodo": "2022",
+      "fonte": {
+        "nome": "DIEESE – Nota Técnica 284, tabela do IRPF (21/03/2025, PDF via Sindipetro-NF)",
+        "url": "https://sindipetronf.org.br/wp-content/uploads/2025/03/notaTec284IR.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      "comparacao": {
+        "rotulo": "Acima de 320 salários mínimos",
+        "valor": 4.87
+      }
     }
   ],
   "series": [
@@ -297,6 +411,66 @@
       "url": "https://www.agazeta.com.br/economia/lula-sanciona-lei-do-fim-da-taxa-das-blusinhas-a-24-dias-da-eleicao-0926",
       "acesso_em": "2026-10-21",
       "tier": "imprensa"
+    },
+    {
+      "nome": "Receita Federal – Análise da Arrecadação das Receitas Federais, dezembro/2024 (PDF)",
+      "url": "https://www.gov.br/receitafederal/pt-br/centrais-de-conteudo/publicacoes/relatorios/arrecadacao-federal/2024/analise-mensal-dez-2024.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Receita Federal – Análise da Arrecadação, dezembro/2025 (PDF via Poder360, 22/01/2026)",
+      "url": "https://static.poder360.com.br/2026/01/relatorio-arrecadacao-receita-federal-22jan2026.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "AmdJus – Receita obtém R$ 5 bilhões com imposto sobre blusinhas (05/02/2026)",
+      "url": "https://amdjus.com.br/arrecadacao-recorde-receita-federal-obtem-r-5-bilhoes-com-imposto-sobre-blusinhas/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Fenacon/Agência Brasil – Receita arrecada R$ 3,1 bilhões com IR sobre dividendos (27/08/2026)",
+      "url": "https://fenacon.org.br/noticias/receita-arrecada-r-31-bilhoes-com-ir-sobre-dividendos/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Receita Federal – Grandes Números IRPF 2025 (ano-calendário 2024), tabelas",
+      "url": "https://www.gov.br/receitafederal/pt-br/centrais-de-conteudo/publicacoes/estudos/imposto-de-renda/estudos-por-ano/grandes-numeros-do-IRPF-2008-a-2025/grandes-numeros-do-irpf-2025-ano-calendario-2024-tabelas/view",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "DIEESE – Nota Técnica 284, tabela do IRPF (21/03/2025, PDF via Sindipetro-NF)",
+      "url": "https://sindipetronf.org.br/wp-content/uploads/2025/03/notaTec284IR.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    },
+    {
+      "nome": "Planalto – Lei 14.754/2023 (fundos exclusivos e offshores)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/L14754.htm",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "CNN Brasil – Em 2025, alta do IOF impulsionou arrecadação do imposto em 20% (jan/2026)",
+      "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/em-2025-alta-do-iof-impulsionou-arrecadacao-do-imposto-em-20/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Tribuna do Planalto – Remessas internacionais batem recorde em 2025 (20/03/2026)",
+      "url": "https://tribunadoplanalto.com.br/remessas-internacionais-batem-recorde-em-2025-e-impulsionam-arrecadacao-federal-com-a-taxa-das-blusinhas/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Receita Federal – Análise da Arrecadação, agosto/2026 (PDF)",
+      "url": "https://www.gov.br/receitafederal/pt-br/centrais-de-conteudo/publicacoes/relatorios/arrecadacao-federal/2026/analise-mensal-ago-2026.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/12_pix_fake_news_e_impostos_quem_paga.md",
@@ -325,13 +499,17 @@
     "governo-vai-taxar-o-pix"
   ],
   "lacunas": [
-    "Arrecadação efetiva das Leis 14.754/2023 e 14.789/2023 e do IOF 2025 não localizada; estudo oficial por decil do efeito líquido das medidas não localizado."
+    "Arrecadação isolada da Lei 14.754 em 2025 e da Lei 14.789 (subvenções) não publicada pela Receita; arrecadação da 'taxa das blusinhas' em 2025 diverge por recorte (R$ 3,52 bi no Remessa Conforme x R$ 5 bi no total do imposto sobre remessas); estudo oficial por decil do efeito líquido das medidas não localizado; o Adicional de CSLL (Pilar 2) não tem rubrica destacada nos relatórios de 2026."
   ],
   "atualizado_em": "2026-10-21",
   "changelog": [
     {
       "data": "2026-10-21",
       "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "enriquecimento rodada 2: arrecadação efetiva: Lei 14.754 (R$ 20,67 bi em 2024), IOF 2025, bets, blusinhas, dividendos 2026; Grandes Números 2025 e alíquotas efetivas por faixa (DIEESE)"
     }
   ],
   "exemplo": false

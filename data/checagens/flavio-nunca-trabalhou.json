@@ -29,11 +29,11 @@
   "veredito": "falta-contexto",
   "resumo_uma_frase": "É verdade que Flávio ocupa cargos públicos desde os 19 anos (cargo na Câmara em 2000, deputado estadual aos 21, senador desde 2019), mas mandato parlamentar é trabalho remunerado e ele também atuou como advogado e teve uma loja de chocolates.",
   "explicacao_simples": [
-    "Flávio está em cargos públicos desde os 19 anos: assessor na Câmara (2000-2002), deputado estadual (2003-2019) e senador (desde 2019).",
+    "Flávio está em cargos públicos desde os 19 anos: assistente técnico na Câmara (dez/2000, por quase dois anos), deputado estadual (2003-2019) e senador (desde 2019).",
     "Fora da política, as notas registram que ele atuou como advogado (assinou recurso ao STJ em 2024) e foi sócio de uma loja de chocolates (2015-2020).",
     "Dizer que 'nunca trabalhou' ignora que mandato é trabalho remunerado; o que é verdade é que quase toda a carreira foi em cargos públicos."
   ],
-  "explicacao_completa_md": "**Trajetória documentada:** nomeado aos 19 anos (dez/2000 a 2002) em cargo da liderança do PPB na Câmara dos Deputados, em Brasília, enquanto vivia no Rio (cerca de R$ 56,5 mil em 2001); deputado estadual do RJ por quatro mandatos (01/02/2003 a 01/02/2019); senador desde 01/02/2019. Partidos: PPB/PP, PFL, PP, PSC, PSL, Republicanos, Patriota, PL. Atividades fora dos mandatos registradas nas notas: advogado (assinou em 2024, como advogado, recurso ao STJ no caso do PM acusado pela morte da menina Ana Clara; Flávio disse ter exercido a advocacia) e sócio da loja de chocolates Kopenhagen (Bolsotini, 2015-2020), objeto de investigação do MP-RJ posteriormente anulada. Patrimônio declarado ao TSE: R$ 385 mil (2006), R$ 691 mil (2010), R$ 714 mil (2014), R$ 1,5 milhão (2016), R$ 1,74 milhão (2018) e R$ 8,19 milhões (2026).\n\n**Nota:** a nota 09 registra que não foi localizada checagem de agência com a expressão 'nunca trabalhou'; o veredito deriva da ficha de cargos.",
+  "explicacao_completa_md": "**Trajetória documentada:** nomeado aos 19 anos (dez/2000), como 'assistente técnico de gabinete', em cargo da liderança do PPB na Câmara dos Deputados, em Brasília, por 'quase dois anos' (BBC News Brasil; R$ 56.548,63 recebidos só em 2001), enquanto vivia no Rio (cerca de R$ 56,5 mil em 2001); deputado estadual do RJ por quatro mandatos (01/02/2003 a 01/02/2019); senador desde 01/02/2019. Partidos: PPB/PP, PFL, PP, PSC, PSL, Republicanos, Patriota, PL. Atividades fora dos mandatos registradas nas notas: advogado (assinou em 2024, como advogado, recurso ao STJ no caso do PM acusado pela morte da menina Ana Clara; Flávio disse ter exercido a advocacia) e sócio da loja de chocolates Kopenhagen (Bolsotini, 2015-2020), objeto de investigação do MP-RJ posteriormente anulada. Patrimônio declarado ao TSE: R$ 385 mil (2006), R$ 691 mil (2010), R$ 714 mil (2014), R$ 1,5 milhão (2016), R$ 1,74 milhão (2018) e R$ 8,19 milhões (2026).\n\n**Nota:** a nota 09 registra que não foi localizada checagem de agência com a expressão 'nunca trabalhou'; o veredito deriva da ficha de cargos.\n\n**Atualização (enriquecimento, 21/10/2026):** patrimônio declarado ao TSE em 2026 (arquivo aberto bem_candidato_2026, SQ 280002551544), 9 itens, total R$ 8.186.555,83: casa no Lago Sul R$ 6.226.043,80; fundo multimercado R$ 1.090.520,47; conta corrente 'bancos diversos' R$ 568.730,23; veículo 2014 R$ 133.000; poupança Itaú R$ 103.746,23; quota de capital R$ 46.000; sociedade individual de advocacia R$ 10.000; CDB BB R$ 8.266,10; quota de capital R$ 249. Em 2018 (candidato ao Senado) eram 5 itens e R$ 1.741.758,15 (apartamento e sala na Barra da Tijuca, aplicações, Volvo XC 2014 e 50% da Bolsotini Chocolates); variação nominal 2018→2026 de +370%. Flávio não concorreu em 2022, por isso a comparação só é possível com 2018. Na renda declarada ao BRB em 2021 (R$ 56.833,51/mês), 44% eram salário parlamentar, 50% a franquia de chocolates e 6% aplicações; nenhuma renda como advogado (Folhapress).",
   "o_que_e_verdade": [
     "Flávio ocupa cargos públicos de forma contínua desde os 19 anos.",
     "Seu patrimônio declarado passou de R$ 1,74 milhão (2018) para R$ 8,19 milhões (2026), com uma casa de R$ 6,23 milhões respondendo por 76%."
@@ -90,6 +90,45 @@
         "rotulo": "Patrimônio declarado em 2018",
         "valor": 1.74
       }
+    },
+    {
+      "rotulo": "Patrimônio declarado ao TSE em 2018 (candidato ao Senado/RJ)",
+      "valor": 1741758.15,
+      "unidade": "R$ (5 itens)",
+      "periodo": "2018",
+      "fonte": {
+        "nome": "TSE, dados abertos — bem_candidato_2018",
+        "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/bem_candidato/bem_candidato_2018.zip",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Variação nominal do patrimônio declarado 2018→2026 (cálculo próprio)",
+      "valor": 370.0,
+      "unidade": "%",
+      "periodo": "2018-2026",
+      "fonte": {
+        "nome": "TSE, dados abertos — bem_candidato_2026",
+        "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/bem_candidato/bem_candidato_2026.zip",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Sociedade individual de advocacia declarada ao TSE em 2026",
+      "valor": 10000,
+      "unidade": "R$",
+      "periodo": "2026",
+      "fonte": {
+        "nome": "TSE, dados abertos — bem_candidato_2026",
+        "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/bem_candidato/bem_candidato_2026.zip",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": null
     }
   ],
   "series": [],
@@ -124,6 +163,24 @@
       "url": "https://www.maisgoias.com.br/politica/rachadinha-loja-de-chocolates-e-vigilia-os-casos-em-que-flavio-bolsonaro-entrou-na-mira-de-investigacoes/",
       "acesso_em": "2026-10-21",
       "tier": "imprensa"
+    },
+    {
+      "nome": "TSE, dados abertos — bem_candidato_2018",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/bem_candidato/bem_candidato_2018.zip",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "TSE, dados abertos — bem_candidato_2026",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/bem_candidato/bem_candidato_2026.zip",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Jornal de Brasília/Folhapress, 01/05/2025 (renda declarada ao BRB)",
+      "url": "https://jornaldebrasilia.com.br/noticias/politica-e-poder/flavio-bolsonaro-disse-ganhar-r-57-mil-metade-com-chocolates-ao-fazer-emprestimo-por-mansao/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/09_acusacoes_e_falas_flavio_x_lula.md",
@@ -134,7 +191,7 @@
     },
     {
       "pergunta": "Com que idade ele começou em cargo público?",
-      "resposta": "Aos 19 anos, em cargo da liderança do PPB na Câmara dos Deputados (dez/2000 a 2002), enquanto morava no Rio."
+      "resposta": "Aos 19 anos, como 'assistente técnico de gabinete' na liderança do PPB na Câmara dos Deputados (a partir de dez/2000, por 'quase dois anos'), enquanto morava no Rio."
     },
     {
       "pergunta": "Essa frase foi checada por alguma agência?",
@@ -151,12 +208,16 @@
     {
       "data": "2026-10-21",
       "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "enriquecimento rodada 2 (21/10/2026): cargo de 2000 reverificado (BBC/Terra); patrimônio itemizado 2026 x 2018 pelo TSE (incl. sociedade individual de advocacia R$ 10 mil); não concorreu em 2022; renda declarada ao BRB"
     }
   ],
   "exemplo": false,
   "nao_verificado": true,
   "lacunas": [
     "Nenhuma checagem de agência com a expressão 'nunca trabalhou' foi localizada (nota 09, Gaps).",
-    "Fontes dos cargos de 2000-2002 vieram em parte do site partidário flaviomente.com, que cita fontes primárias; não foram todas reverificadas."
+    "Os itens de 2000–2022 antes sustentados pelo flaviomente.com foram reverificados na BBC/Terra, no TSE (dados abertos) e em Senado Notícias; a data exata de saída do cargo da Câmara ('quase dois anos') não é precisada pela fonte."
   ]
 }

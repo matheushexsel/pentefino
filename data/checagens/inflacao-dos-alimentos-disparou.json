@@ -36,15 +36,17 @@
     "A diferença é real, mas o período de Bolsonaro incluiu a pandemia e a guerra na Ucrânia, quando a inflação mundial chegou a 8,7% em 2022.",
     "Em 2024 os alimentos voltaram a pressionar e o IPCA estourou o teto da meta, e em 2025 houve deflação de alimentos, o que ajudou os mais pobres."
   ],
-  "explicacao_completa_md": "## O que os checadores encontraram\n\n- Lupa (18/10/2026): alimentos +54,2% entre jan/2019 e jul/2022 contra +13,6% nos 43 primeiros meses de Lula 3 — VERDADEIRO para a frase '56% x 13%'.\n- Aos Fatos (18/10/2026): 'É verdade que, nos quatro anos do governo Bolsonaro, a inflação de alimentos estava em 56,17%', com 13% citados para o governo Lula.\n- DIEESE: alimentos +44,3% entre 2020 e 2022.\n\n## Contexto\n\n- IPCA cheio: 2019 4,31% | 2020 4,52% | 2021 10,06% | 2022 5,79% | 2023 4,62% | 2024 4,83% | 2025 4,26%.\n- O FMI registra inflação mundial de 8,7% em 2022 (Brasil 9,3%); a alta de alimentos de 2020-2022 foi global (pandemia, guerra na Ucrânia, câmbio de R$ 5,40 em 2021).\n- Em 2024 alimentos e câmbio levaram o IPCA acima do teto (4,83%); em 2025 os alimentos no domicílio tiveram deflação por cinco meses seguidos até novembro, e a inflação dos mais pobres (3,81%) ficou abaixo da dos mais ricos (4,72%) pela primeira vez em anos (Ipea).\n- O poder de compra do mínimo em cestas básicas caiu de 2,04 (2019) para 1,59 (2022) e recuperou-se para 1,93 (jan/2026).\n\n## Leitura\n\nA comparação é factualmente correta e os períodos têm duração semelhante (43 meses). O que falta é a atribuição: a alta de 2020-2022 foi majoritariamente exógena, e a queda de 2025 também teve componente de safra e câmbio.",
+  "explicacao_completa_md": "## O que os checadores encontraram\n\n- Lupa (18/10/2026): alimentos +54,2% entre jan/2019 e jul/2022 contra +13,6% nos 43 primeiros meses de Lula 3 — VERDADEIRO para a frase '56% x 13%'.\n- Aos Fatos (18/10/2026): 'É verdade que, nos quatro anos do governo Bolsonaro, a inflação de alimentos estava em 56,17%', com 13% citados para o governo Lula.\n- DIEESE: alimentos +44,3% entre 2020 e 2022.\n\n## Contexto\n\n- IPCA cheio: 2019 4,31% | 2020 4,52% | 2021 10,06% | 2022 5,79% | 2023 4,62% | 2024 4,83% | 2025 4,26%.\n- O FMI registra inflação mundial de 8,7% em 2022 (Brasil 9,3%); a alta de alimentos de 2020-2022 foi global (pandemia, guerra na Ucrânia, câmbio de R$ 5,40 em 2021).\n- Em 2024 alimentos e câmbio levaram o IPCA acima do teto (4,83%); em 2025 os alimentos no domicílio tiveram deflação por cinco meses seguidos até novembro, e a inflação dos mais pobres (3,81%) ficou abaixo da dos mais ricos (4,72%) pela primeira vez em anos (Ipea).\n- O poder de compra do mínimo em cestas básicas caiu de 2,04 (2019) para 1,59 (2022) e recuperou-se para 1,93 (jan/2026).\n\n## A métrica\n\nO subgrupo 'alimentação no domicílio' do IPCA (SIDRA) acumula 56,2% em 2019-2022 — exatamente o 56,17% citado pelo Aos Fatos — contra 46,2% do grupo 'alimentação e bebidas'; em 2023-2025, 9,2% e 12,0%. Pela inflação por faixa de renda do Ipea, os mais pobres tiveram inflação acumulada de 29,8% em 2019-2022 (renda alta: 25,2%) e de 12,5% em 2023-2025 (renda alta: 16,2%).\n\n## Leitura\n\nA comparação é factualmente correta e os períodos têm duração semelhante (43 meses). O que falta é a atribuição: a alta de 2020-2022 foi majoritariamente exógena, e a queda de 2025 também teve componente de safra e câmbio.",
   "o_que_e_verdade": [
     "Alimentos subiram 54,2% a 56,17% no governo Bolsonaro e 13% a 13,6% nos 43 primeiros meses de Lula 3 (Lupa e Aos Fatos).",
+    "A métrica dos '56%' é o subgrupo 'alimentação no domicílio' do IPCA, que acumulou exatamente 56,2% em 2019-2022 (18,15% só em 2020) e 9,2% em 2023-2025, com deflação em 2023 (−0,52%).",
     "O IPCA de 2021 foi de 10,06% e os alimentos subiram 44,3% em 2020-2022 (DIEESE), corroendo o poder de compra do salário mínimo.",
     "Em 2025 houve deflação de alimentos e a inflação dos mais pobres (3,81%) ficou abaixo do IPCA."
   ],
   "o_que_nao_se_sustenta": [
     "A alta de 2020-2022 coincidiu com pandemia e guerra; a inflação mundial foi de 8,7% em 2022, e o governo não controla preços internacionais de alimentos e câmbio.",
-    "Em 2024 os alimentos voltaram a pressionar e o IPCA estourou o teto da meta sob Lula 3 (4,83%)."
+    "Em 2024 os alimentos voltaram a pressionar e o IPCA estourou o teto da meta sob Lula 3 (4,83%).",
+    "Em 2024 a alimentação no domicílio voltou a subir 8,23%, e em 12 meses até set/2026 acumula 4,21%; a comparação favorável depende do recorte temporal."
   ],
   "quem_e_responsavel": [
     {
@@ -193,6 +195,118 @@
         "rotulo": "2019",
         "valor": 2.04
       }
+    },
+    {
+      "rotulo": "Alta acumulada da alimentação no domicílio no governo Bolsonaro (IPCA, cálculo da nota)",
+      "valor": 56.2,
+      "unidade": "%",
+      "periodo": "2019-2022",
+      "fonte": {
+        "nome": "IBGE – SIDRA tabela 7060 (IPCA por grupo e subgrupo, 2020-2026)",
+        "url": "https://apisidra.ibge.gov.br/values/t/7060/n1/all/v/69,2265/p/202012,202112,202212,202312,202412,202512,202609/c315/7169,7170,7171?formato=json",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "Grupo alimentação e bebidas",
+        "valor": 46.2
+      }
+    },
+    {
+      "rotulo": "Alta acumulada da alimentação no domicílio em Lula 3 (cálculo da nota)",
+      "valor": 9.2,
+      "unidade": "%",
+      "periodo": "2023-2025",
+      "fonte": {
+        "nome": "IBGE – SIDRA tabela 7060 (IPCA por grupo e subgrupo, 2020-2026)",
+        "url": "https://apisidra.ibge.gov.br/values/t/7060/n1/all/v/69,2265/p/202012,202112,202212,202312,202412,202512,202609/c315/7169,7170,7171?formato=json",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "Grupo alimentação e bebidas",
+        "valor": 12.0
+      }
+    },
+    {
+      "rotulo": "Alimentação no domicílio em 2020 (IPCA)",
+      "valor": 18.15,
+      "unidade": "%",
+      "periodo": "2020",
+      "fonte": {
+        "nome": "IBGE – SIDRA tabela 7060 (IPCA por grupo e subgrupo, 2020-2026)",
+        "url": "https://apisidra.ibge.gov.br/values/t/7060/n1/all/v/69,2265/p/202012,202112,202212,202312,202412,202512,202609/c315/7169,7170,7171?formato=json",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "2022",
+        "valor": 13.23
+      }
+    },
+    {
+      "rotulo": "Alimentação no domicílio em 2023 (IPCA)",
+      "valor": -0.52,
+      "unidade": "%",
+      "periodo": "2023",
+      "fonte": {
+        "nome": "IBGE – SIDRA tabela 7060 (IPCA por grupo e subgrupo, 2020-2026)",
+        "url": "https://apisidra.ibge.gov.br/values/t/7060/n1/all/v/69,2265/p/202012,202112,202212,202312,202412,202512,202609/c315/7169,7170,7171?formato=json",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "2024",
+        "valor": 8.23
+      }
+    },
+    {
+      "rotulo": "Alimentação no domicílio em 12 meses",
+      "valor": 4.21,
+      "unidade": "%",
+      "periodo": "set/2026",
+      "fonte": {
+        "nome": "IBGE – SIDRA tabela 7060 (IPCA por grupo e subgrupo, 2020-2026)",
+        "url": "https://apisidra.ibge.gov.br/values/t/7060/n1/all/v/69,2265/p/202012,202112,202212,202312,202412,202512,202609/c315/7169,7170,7171?formato=json",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "IPCA em 12 meses",
+        "valor": 4.58
+      }
+    },
+    {
+      "rotulo": "Inflação acumulada da renda muito baixa no governo Bolsonaro (Ipea, cálculo da nota)",
+      "valor": 29.8,
+      "unidade": "%",
+      "periodo": "2019-2022",
+      "fonte": {
+        "nome": "Ipea – Inflação por faixa de renda, tabela (xlsx, 15/09/2026)",
+        "url": "https://www.ipea.gov.br/cartadeconjuntura/wp-content/uploads/2026/09/260915_inflacao-por-faixa-de-renda_tabela.xlsx",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      "comparacao": {
+        "rotulo": "Renda alta",
+        "valor": 25.2
+      }
+    },
+    {
+      "rotulo": "Inflação acumulada da renda muito baixa em Lula 3 (Ipea, cálculo da nota)",
+      "valor": 12.5,
+      "unidade": "%",
+      "periodo": "2023-2025",
+      "fonte": {
+        "nome": "Ipea – Inflação por faixa de renda, tabela (xlsx, 15/09/2026)",
+        "url": "https://www.ipea.gov.br/cartadeconjuntura/wp-content/uploads/2026/09/260915_inflacao-por-faixa-de-renda_tabela.xlsx",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      "comparacao": {
+        "rotulo": "Renda alta",
+        "valor": 16.2
+      }
     }
   ],
   "series": [
@@ -263,6 +377,18 @@
       "url": "https://www.dieese.org.br/notatecnica/2025/notaTec283salarioMinimo.pdf",
       "acesso_em": "2026-10-21",
       "tier": "academico"
+    },
+    {
+      "nome": "IBGE – SIDRA tabela 7060 (IPCA por grupo e subgrupo, 2020-2026)",
+      "url": "https://apisidra.ibge.gov.br/values/t/7060/n1/all/v/69,2265/p/202012,202112,202212,202312,202412,202512,202609/c315/7169,7170,7171?formato=json",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Ipea – Inflação por faixa de renda, tabela (xlsx, 15/09/2026)",
+      "url": "https://www.ipea.gov.br/cartadeconjuntura/wp-content/uploads/2026/09/260915_inflacao-por-faixa-de-renda_tabela.xlsx",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/03_emprego_renda_pobreza_social.md",
@@ -287,13 +413,17 @@
     "salario-minimo-sem-aumento-real-no-governo-bolsonaro"
   ],
   "lacunas": [
-    "O Aos Fatos não indica a fonte primária dos 56,17% e 13% no trecho lido; o IPCA de alimentação no domicílio fechado por ano (IBGE) não foi extraído."
+    "O IPCA de alimentação no domicílio por ano foi obtido no SIDRA e identifica a métrica dos '56%'; o '13%' do governo Lula só fecha incluindo parte de 2026 (2023-2025: 9,2% no subgrupo; 12,0% no grupo)."
   ],
   "atualizado_em": "2026-10-21",
   "changelog": [
     {
       "data": "2026-10-21",
       "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "enriquecimento rodada 2: métrica identificada (alimentação no domicílio 56,2% em 2019-2022; 9,2% em 2023-2025), série anual do IPCA por subgrupo, inflação por faixa de renda acumulada"
     }
   ],
   "exemplo": false

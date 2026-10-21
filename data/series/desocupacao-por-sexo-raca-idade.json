@@ -1,0 +1,245 @@
+{
+  "id": "desocupacao-por-sexo-raca-idade",
+  "titulo": "Desocupação por sexo, cor ou raça e faixa etária",
+  "descricao_simples": "Como o desemprego (e a informalidade) varia entre homens e mulheres, pessoas brancas, pretas e pardas, e faixas de idade, em trimestres selecionados.",
+  "unidade": "% da força de trabalho (2T2026)",
+  "tipo_grafico": "barra",
+  "frequencia": "trimestral",
+  "fonte": {
+    "nome": "IBGE/SIDRA, tabelas 4093 (sexo), 6402 (cor ou raça), 4094 (idade) e 6405 (rendimento por cor ou raça)",
+    "url": "https://apisidra.ibge.gov.br/values/t/6402/n1/all/v/4099,12466/p/all/c86/all",
+    "acesso_em": "2026-10-21",
+    "tier": "oficial"
+  },
+  "pontos": [
+    {
+      "periodo": "Homens",
+      "valor": 4.6,
+      "grupo": "sexo",
+      "desocupacao": {
+        "4T2014": 5.6,
+        "4T2019": 9.2,
+        "4T2020": 11.9,
+        "4T2022": 6.5,
+        "4T2025": 4.2,
+        "2T2026": 4.6
+      },
+      "informalidade": {
+        "4T2019": 41.7,
+        "4T2022": 39.9,
+        "2T2026": 39.0
+      }
+    },
+    {
+      "periodo": "Mulheres",
+      "valor": 6.4,
+      "grupo": "sexo",
+      "desocupacao": {
+        "4T2014": 7.9,
+        "4T2019": 13.4,
+        "4T2020": 17.2,
+        "4T2022": 9.8,
+        "4T2025": 6.2,
+        "2T2026": 6.4
+      },
+      "informalidade": {
+        "4T2019": 39.2,
+        "4T2022": 37.5,
+        "2T2026": 35.4
+      }
+    },
+    {
+      "periodo": "Cor branca",
+      "valor": 4.2,
+      "grupo": "cor_raca",
+      "desocupacao": {
+        "4T2014": 5.4,
+        "4T2019": 8.7,
+        "4T2020": 11.6,
+        "4T2022": 6.2,
+        "4T2025": 4.0,
+        "2T2026": 4.2
+      },
+      "informalidade": {
+        "4T2019": 34.2,
+        "4T2022": 32.9,
+        "2T2026": 31.9
+      },
+      "rendimento_medio_real": {
+        "4T2014": 4307,
+        "4T2019": 4564,
+        "4T2022": 4402,
+        "4T2025": 4980,
+        "2T2026": 4852
+      }
+    },
+    {
+      "periodo": "Cor preta",
+      "valor": 6.9,
+      "grupo": "cor_raca",
+      "desocupacao": {
+        "4T2014": 8.0,
+        "4T2019": 13.7,
+        "4T2020": 17.6,
+        "4T2022": 9.9,
+        "4T2025": 6.1,
+        "2T2026": 6.9
+      },
+      "informalidade": {
+        "4T2019": 43.9,
+        "4T2022": 41.1,
+        "2T2026": 40.3
+      },
+      "rendimento_medio_real": {
+        "4T2014": 2511,
+        "4T2019": 2545,
+        "4T2022": 2596,
+        "4T2025": 2839,
+        "2T2026": 2759
+      }
+    },
+    {
+      "periodo": "Cor parda",
+      "valor": 6.1,
+      "grupo": "cor_raca",
+      "desocupacao": {
+        "4T2014": 7.5,
+        "4T2019": 12.7,
+        "4T2020": 16.0,
+        "4T2022": 9.2,
+        "4T2025": 5.9,
+        "2T2026": 6.1
+      },
+      "informalidade": {
+        "4T2019": 46.4,
+        "4T2022": 44.4,
+        "2T2026": 42.1
+      },
+      "rendimento_medio_real": {
+        "4T2014": 2445,
+        "4T2019": 2589,
+        "4T2022": 2642,
+        "4T2025": 2973,
+        "2T2026": 2938
+      }
+    },
+    {
+      "periodo": "Total",
+      "valor": 5.4,
+      "grupo": "total",
+      "desocupacao": {
+        "4T2014": 6.6,
+        "4T2019": 11.1,
+        "4T2020": 14.2,
+        "4T2022": 7.9,
+        "4T2025": 5.1,
+        "2T2026": 5.4
+      },
+      "informalidade": {
+        "4T2019": 40.7,
+        "4T2022": 38.9,
+        "2T2026": 37.4
+      },
+      "rendimento_medio_real": {
+        "4T2014": 3350,
+        "4T2019": 3484,
+        "4T2022": 3438,
+        "4T2025": 3857,
+        "2T2026": 3769
+      }
+    },
+    {
+      "periodo": "14 a 17 anos",
+      "valor": 22.6,
+      "grupo": "faixa_etaria",
+      "desocupacao": {
+        "4T2012": 19.6,
+        "4T2014": 21.1,
+        "4T2016": 39.9,
+        "4T2019": 39.3,
+        "1T2021": 46.5,
+        "4T2022": 28.9,
+        "4T2024": 24.5,
+        "4T2025": 19.9,
+        "2T2026": 22.6
+      }
+    },
+    {
+      "periodo": "18 a 24 anos",
+      "valor": 11.7,
+      "grupo": "faixa_etaria",
+      "desocupacao": {
+        "4T2012": 13.9,
+        "4T2014": 13.8,
+        "4T2016": 25.4,
+        "4T2019": 23.3,
+        "1T2021": 30.1,
+        "4T2022": 16.4,
+        "4T2024": 12.8,
+        "4T2025": 11.4,
+        "2T2026": 11.7
+      }
+    },
+    {
+      "periodo": "25 a 39 anos",
+      "valor": 5.0,
+      "grupo": "faixa_etaria",
+      "desocupacao": {
+        "4T2012": 6.5,
+        "4T2014": 6.2,
+        "4T2016": 11.1,
+        "4T2019": 10.1,
+        "1T2021": 14.2,
+        "4T2022": 7.1,
+        "4T2024": 5.8,
+        "4T2025": 4.7,
+        "2T2026": 5.0
+      }
+    },
+    {
+      "periodo": "40 a 59 anos",
+      "valor": 3.5,
+      "grupo": "faixa_etaria",
+      "desocupacao": {
+        "4T2012": 3.4,
+        "4T2014": 3.2,
+        "4T2016": 6.9,
+        "4T2019": 6.5,
+        "1T2021": 9.6,
+        "4T2022": 5.3,
+        "4T2024": 4.0,
+        "4T2025": 3.3,
+        "2T2026": 3.5
+      }
+    },
+    {
+      "periodo": "60 anos ou mais",
+      "valor": 2.3,
+      "grupo": "faixa_etaria",
+      "desocupacao": {
+        "4T2012": 2.0,
+        "4T2014": 2.1,
+        "4T2016": 3.4,
+        "4T2019": 4.2,
+        "1T2021": 5.9,
+        "4T2022": 3.4,
+        "4T2024": 3.0,
+        "4T2025": 2.2,
+        "2T2026": 2.3
+      }
+    }
+  ],
+  "faixas_referencia": [],
+  "notas_metodologicas": [
+    "O campo valor é a desocupação no 2T2026; os demais trimestres estão em desocupacao. Rendimento médio real habitual por cor/raça (SIDRA 6405, R$ a preços do último trimestre); razão branca/preta: 1,72 (4T2014) → 1,79 (4T2019) → 1,70 (4T2022) → 1,76 (2T2026), aritmética da nota.",
+    "O desemprego de 18–24 anos no 4T2025 (11,4%) é o menor da série e ainda assim 2,2 vezes a taxa geral. Pico da série: 1T2021.",
+    "URLs: https://apisidra.ibge.gov.br/values/t/4093/n1/all/v/4099,12466/p/all/c2/all ; https://apisidra.ibge.gov.br/values/t/4094/n1/all/v/4099/p/all/c58/all ; https://apisidra.ibge.gov.br/values/t/6405/n1/all/v/all/p/201404,201904,202204,202504,202602/c86/all"
+  ],
+  "lacunas": [],
+  "ultimo_periodo": "2T2026",
+  "temas": [
+    "emprego-renda"
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/03_emprego_renda_pobreza_social.md",
+  "atualizado_em": "2026-10-21"
+}

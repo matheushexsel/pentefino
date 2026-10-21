@@ -1,0 +1,161 @@
+{
+  "id": "brent-anual",
+  "titulo": "Petróleo Brent: média anual, 2003–2026",
+  "descricao_simples": "Média anual do preço à vista do petróleo Brent (EIA), em dólares por barril, com o câmbio médio do ano (BCB).",
+  "unidade": "US$/barril",
+  "tipo_grafico": "linha",
+  "frequencia": "anual",
+  "fonte": {
+    "nome": "EIA – Europe Brent Spot Price FOB, média anual (xls)",
+    "url": "https://www.eia.gov/dnav/pet/hist_xls/RBRTEa.xls",
+    "acesso_em": "2026-10-21",
+    "tier": "oficial"
+  },
+  "pontos": [
+    {
+      "periodo": "2003",
+      "valor": 28.85,
+      "cambio_rs_usd": 3.08
+    },
+    {
+      "periodo": "2004",
+      "valor": 38.26,
+      "cambio_rs_usd": 2.93
+    },
+    {
+      "periodo": "2005",
+      "valor": 54.57,
+      "cambio_rs_usd": 2.43
+    },
+    {
+      "periodo": "2006",
+      "valor": 65.16,
+      "cambio_rs_usd": 2.18
+    },
+    {
+      "periodo": "2007",
+      "valor": 72.44,
+      "cambio_rs_usd": 1.95
+    },
+    {
+      "periodo": "2008",
+      "valor": 96.94,
+      "cambio_rs_usd": 1.83
+    },
+    {
+      "periodo": "2009",
+      "valor": 61.74,
+      "cambio_rs_usd": 2.0
+    },
+    {
+      "periodo": "2010",
+      "valor": 79.61,
+      "cambio_rs_usd": 1.76
+    },
+    {
+      "periodo": "2011",
+      "valor": 111.26,
+      "cambio_rs_usd": 1.67
+    },
+    {
+      "periodo": "2012",
+      "valor": 111.63,
+      "cambio_rs_usd": 1.95
+    },
+    {
+      "periodo": "2013",
+      "valor": 108.56,
+      "cambio_rs_usd": 2.16
+    },
+    {
+      "periodo": "2014",
+      "valor": 98.97,
+      "cambio_rs_usd": 2.35
+    },
+    {
+      "periodo": "2015",
+      "valor": 52.32,
+      "cambio_rs_usd": 3.33
+    },
+    {
+      "periodo": "2016",
+      "valor": 43.64,
+      "cambio_rs_usd": 3.49
+    },
+    {
+      "periodo": "2017",
+      "valor": 54.13,
+      "cambio_rs_usd": 3.19
+    },
+    {
+      "periodo": "2018",
+      "valor": 71.34,
+      "cambio_rs_usd": 3.65
+    },
+    {
+      "periodo": "2019",
+      "valor": 64.3,
+      "cambio_rs_usd": 3.94
+    },
+    {
+      "periodo": "2020",
+      "valor": 41.96,
+      "cambio_rs_usd": 5.16
+    },
+    {
+      "periodo": "2021",
+      "valor": 70.86,
+      "cambio_rs_usd": 5.39
+    },
+    {
+      "periodo": "2022",
+      "valor": 100.93,
+      "cambio_rs_usd": 5.16
+    },
+    {
+      "periodo": "2023",
+      "valor": 82.49,
+      "cambio_rs_usd": 4.99
+    },
+    {
+      "periodo": "2024",
+      "valor": 80.52,
+      "cambio_rs_usd": 5.39
+    },
+    {
+      "periodo": "2025",
+      "valor": 69.14,
+      "cambio_rs_usd": 5.59
+    },
+    {
+      "periodo": "2026 (jan–set)",
+      "valor": 93.27,
+      "cambio_rs_usd": 5.15
+    }
+  ],
+  "faixas_referencia": [
+    {
+      "rotulo": "Brent em 21/10/2026 (Trading Economics)",
+      "valor": 109.5
+    },
+    {
+      "rotulo": "Pico mensal de 2026 (abr, EIA)",
+      "valor": 117.29
+    }
+  ],
+  "notas_metodologicas": [
+    "Fonte: EIA, Europe Brent Spot Price FOB, média anual (RBRTEa.xls); 2026 = jan–set. Campo 'cambio_rs_usd': média anual das médias mensais R$/US$ (BCB/SGS 3697, venda), cálculo próprio da nota.",
+    "Brent mensal 2026 (EIA): jan 66,60; fev 70,89; mar 103,13; abr 117,29; mai 107,14; jun 85,40; jul 83,76; ago 91,08; set 114,16. Em 2025, de 79,27 (jan) a 62,54 (dez). Leituras pontuais: acima de US$ 120 após fev/2026 (MP 1.358), US$ 111 em 19/10 e ~US$ 109,5 em 21/10/2026 (+75% em 12 meses); câmbio R$ 5,02 em 21/10/2026.",
+    "A média de 2026 até setembro (US$ 93) ainda é inferior à de 2011–2013 (US$ 108–112), mas o câmbio é cerca de 3 vezes o de 2011 (R$ 1,67), o que explica por que o preço em reais é recorde mesmo com Brent abaixo do pico histórico."
+  ],
+  "ultimo_periodo": "2026 (jan–set)",
+  "temas": [
+    "combustiveis",
+    "economia"
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/06_energia_eletrobras_combustiveis.md",
+  "atualizado_em": "2026-10-21",
+  "lacunas": [
+    "Dados brutos baixados na rodada 2 de enriquecimento (21/10/2026); valores calculados sobre base oficial estão indicados como cálculo próprio na nota."
+  ]
+}

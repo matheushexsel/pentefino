@@ -5,8 +5,10 @@
   "candidato": "flavio-bolsonaro",
   "lado": "oposicao-flavio-pl",
   "minuto": null,
+  "url_trecho": null,
   "frase_literal": "Recorde de empresas fechadas.",
   "literal": true,
+  "variantes_literais": [],
   "tema": "economia",
   "veredito": "falso",
   "resumo_uma_frase": "As falências caíram (846 em 2023, 862 em 2024, 734 em 2025); o recorde foi em 2015 (1.828); o recorde recente é de recuperações judiciais.",
@@ -35,7 +37,30 @@
       "comparacao": {
         "rotulo": "Recorde em 2015",
         "valor": 1828
+      },
+      "fonte_primaria": {
+        "nome": "MDIC/Receita — Mapa de Empresas",
+        "url": "https://www.gov.br/empresas-e-negocios/pt-br/mapa-de-empresas",
+        "acesso_em": null,
+        "tier": "oficial",
+        "acessada_na_rodada_2": false
       }
+    }
+  ],
+  "fontes_primarias": [
+    {
+      "nome": "MDIC/Receita — Mapa de Empresas",
+      "url": "https://www.gov.br/empresas-e-negocios/pt-br/mapa-de-empresas",
+      "acesso_em": null,
+      "tier": "oficial",
+      "acessada_na_rodada_2": false
+    },
+    {
+      "nome": "Serasa Experian — Indicadores de falências e recuperações",
+      "url": "https://www.serasaexperian.com.br/conteudos/indicadores-economicos/",
+      "acesso_em": null,
+      "tier": "imprensa",
+      "acessada_na_rodada_2": false
     }
   ],
   "base_legal": [],
@@ -51,6 +76,12 @@
       "veredito_original": "FALSO",
       "url": "https://www.agencialupa.org/checagem/2026/10/01/ao-vivo-checagem-da-live-de-flavio-bolsonaro/",
       "data": "2026-10-01"
+    },
+    {
+      "veiculo": "Aos Fatos",
+      "veredito_original": "'mente' (20/10): a frase apareceu em 1/10 na voz de Daniella Marques, em julho e em transmissão eleitoral de outubro",
+      "url": "https://www.aosfatos.org/noticias/flavio-bolsonaro-mente-recorde-falencias-empresas/",
+      "data": "2026-10-20"
     }
   ],
   "checagem_slug": null,
@@ -67,11 +98,23 @@
       "url": "https://www.agencialupa.org/checagem/2026/10/01/ao-vivo-checagem-da-live-de-flavio-bolsonaro/",
       "acesso_em": "2026-10-21",
       "tier": "checagem"
+    },
+    {
+      "nome": "Aos Fatos",
+      "url": "https://www.aosfatos.org/noticias/flavio-bolsonaro-mente-recorde-falencias-empresas/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
   "atualizado_em": "2026-10-21",
   "lacunas": [
     "Atribuição divergente: a Lupa, após errata, atribuiu a frase a Daniella Marques."
+  ],
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
   ]
 }

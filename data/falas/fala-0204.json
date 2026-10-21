@@ -5,8 +5,10 @@
   "candidato": "flavio-bolsonaro",
   "lado": "oposicao-flavio-pl",
   "minuto": null,
+  "url_trecho": null,
   "frase_literal": "Um governo que é recordista em criminalidade.",
   "literal": true,
+  "variantes_literais": [],
   "tema": "seguranca",
   "veredito": "falso",
   "resumo_uma_frase": "A taxa de mortes violentas intencionais em 2025 (19,1 por 100 mil) é a menor desde 2012.",
@@ -30,7 +32,30 @@
         "url": "https://ranking.org.br/en/articles/checagem-entrevista-flavio-bolsonaro-jornal-nacional-2-turno-2026",
         "acesso_em": "2026-10-21",
         "tier": "checagem"
+      },
+      "fonte_primaria": {
+        "nome": "FBSP — Anuário Brasileiro de Segurança Pública 2026",
+        "url": "https://forumseguranca.org.br/anuario-brasileiro-seguranca-publica/",
+        "acesso_em": "2026-10-21",
+        "tier": "academico",
+        "acessada_na_rodada_2": true
       }
+    }
+  ],
+  "fontes_primarias": [
+    {
+      "nome": "FBSP — Anuário Brasileiro de Segurança Pública 2026",
+      "url": "https://forumseguranca.org.br/anuario-brasileiro-seguranca-publica/",
+      "acesso_em": "2026-10-21",
+      "tier": "academico",
+      "acessada_na_rodada_2": true
+    },
+    {
+      "nome": "MJSP — SINESP, estatísticas de segurança pública",
+      "url": "https://www.gov.br/mj/pt-br/assuntos/sua-seguranca/seguranca-publica/estatistica",
+      "acesso_em": null,
+      "tier": "oficial",
+      "acessada_na_rodada_2": false
     }
   ],
   "base_legal": [],
@@ -65,5 +90,11 @@
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
-  "atualizado_em": "2026-10-21"
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ]
 }

@@ -39,7 +39,8 @@
   "explicacao_completa_md": "## IPCA por ano no governo Bolsonaro (BCB/IBGE)\n\n2019: 4,31% (dentro da meta) | 2020: 4,52% (dentro) | 2021: 10,06% (teto estourado; teto 5,25%) | 2022: 5,79% (teto estourado; teto 5,0%). Média do mandato: 6,17%.\n\n## O que a frase acerta e erra\n\nAcerta que houve um ano de dois dígitos (2021) e dois tetos estourados. Erra ao dizer que o país foi 'deixado' com inflação de dois dígitos: em dez/2022 o IPCA em 12 meses era 5,79%.\n\n## Comparação com outros governos\n\nO pior ano desde 2003 foi 2015 (10,67%, Dilma). Lula 1 teve 9,30% em 2003. Lula 3 teve 4,62% (2023), 4,83% (2024, teto estourado) e 4,26% (2025), com descumprimento formal da meta contínua em 2025. Pelo FMI, a inflação média do Brasil foi de 9,3% em 2022 contra 8,7% no mundo; em 2025, 5,0% contra 4,1%.",
   "o_que_e_verdade": [
     "O IPCA de 2021 foi de 10,06%, acima do teto de 5,25%, e o de 2022 (5,79%) também estourou o teto (5,0%).",
-    "A média do IPCA no governo Bolsonaro (6,17%) é maior que a de Lula 3 até 2025 (4,57%)."
+    "A média do IPCA no governo Bolsonaro (6,17%) é maior que a de Lula 3 até 2025 (4,57%).",
+    "O BC publicou carta aberta de descumprimento em 2021 e 2022 (e também em 2024 e 2025); os intervalos de tolerância estão confirmados na página oficial de metas."
   ],
   "o_que_nao_se_sustenta": [
     "O governo Bolsonaro terminou com IPCA de 5,79% em dez/2022, não de dois dígitos.",
@@ -70,8 +71,8 @@
       "unidade": "%",
       "periodo": "dez/2021",
       "fonte": {
-        "nome": "Banco Central do Brasil – SGS 13522 (IPCA acumulado 12 meses)",
-        "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.13522/dados?formato=json",
+        "nome": "BCB – Histórico de metas para a inflação (conteúdo oficial via API do site)",
+        "url": "https://www.bcb.gov.br/api/paginasite/sitebcb/controleinflacao/historicometas",
         "acesso_em": "2026-10-21",
         "tier": "oficial"
       },
@@ -86,8 +87,8 @@
       "unidade": "%",
       "periodo": "dez/2022",
       "fonte": {
-        "nome": "Banco Central do Brasil – SGS 13522 (IPCA acumulado 12 meses)",
-        "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.13522/dados?formato=json",
+        "nome": "BCB – Histórico de metas para a inflação (conteúdo oficial via API do site)",
+        "url": "https://www.bcb.gov.br/api/paginasite/sitebcb/controleinflacao/historicometas",
         "acesso_em": "2026-10-21",
         "tier": "oficial"
       },
@@ -169,6 +170,38 @@
         "rotulo": "Brasil (FMI, média anual)",
         "valor": 9.3
       }
+    },
+    {
+      "rotulo": "Alta da alimentação no domicílio (IPCA)",
+      "valor": 18.15,
+      "unidade": "%",
+      "periodo": "2020",
+      "fonte": {
+        "nome": "IBGE – SIDRA tabela 7060 (IPCA por grupo e subgrupo, 2020-2026)",
+        "url": "https://apisidra.ibge.gov.br/values/t/7060/n1/all/v/69,2265/p/202012,202112,202212,202312,202412,202512,202609/c315/7169,7170,7171?formato=json",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "2022",
+        "valor": 13.23
+      }
+    },
+    {
+      "rotulo": "Anos com carta aberta do BC por descumprimento da meta no governo Bolsonaro",
+      "valor": 2,
+      "unidade": "anos",
+      "periodo": "2021 e 2022",
+      "fonte": {
+        "nome": "BCB – Histórico de metas para a inflação (conteúdo oficial via API do site)",
+        "url": "https://www.bcb.gov.br/api/paginasite/sitebcb/controleinflacao/historicometas",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "Lula 3 (2024 e 2025)",
+        "valor": 2
+      }
     }
   ],
   "series": [
@@ -194,6 +227,18 @@
       "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.13521/dados?formato=json&dataInicial=01/01/2002&dataFinal=31/12/2027",
       "acesso_em": "2026-10-21",
       "tier": "oficial"
+    },
+    {
+      "nome": "BCB – Histórico de metas para a inflação (conteúdo oficial via API do site)",
+      "url": "https://www.bcb.gov.br/api/paginasite/sitebcb/controleinflacao/historicometas",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "IBGE – SIDRA tabela 7060 (IPCA por grupo e subgrupo, 2020-2026)",
+      "url": "https://apisidra.ibge.gov.br/values/t/7060/n1/all/v/69,2265/p/202012,202112,202212,202312,202412,202512,202609/c315/7169,7170,7171?formato=json",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/01_macroeconomia_por_governo.md",
@@ -216,14 +261,15 @@
     "inflacao-de-2025-foi-a-menor-em-4-anos",
     "juros-mais-altos-do-mundo"
   ],
-  "lacunas": [
-    "Os intervalos de tolerância por ano foram tomados de conhecimento geral (resoluções do CMN); a página oficial do BCB não pôde ser lida na pesquisa."
-  ],
   "atualizado_em": "2026-10-21",
   "changelog": [
     {
       "data": "2026-10-21",
       "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "enriquecimento rodada 2: intervalos de tolerância confirmados na página oficial do BC (lacuna fechada), cartas abertas, alimentação no domicílio 2020 e 2022"
     }
   ],
   "exemplo": false

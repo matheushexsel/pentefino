@@ -1,0 +1,143 @@
+{
+  "id": "deficit-inss-rgps",
+  "titulo": "Déficit do INSS (RGPS) e resultado do governo federal sem o INSS",
+  "descricao_simples": "Quanto a Previdência dos trabalhadores do setor privado gasta além do que arrecada, e como fica o resultado do Tesouro sem esse buraco.",
+  "unidade": "R$ bilhões correntes",
+  "tipo_grafico": "barra",
+  "frequencia": "anual",
+  "fonte": {
+    "nome": "Banco Central do Brasil, Tabelas de estatísticas fiscais (jan/2020, jan/2022, jan/2024, jan/2026, set/2026)",
+    "url": "https://www.bcb.gov.br/content/estatisticas/hist_estatisticasfiscais/202601_Tabelas_de_estatisticas_fiscais.xlsx",
+    "acesso_em": "2026-10-21",
+    "tier": "oficial"
+  },
+  "pontos": [
+    {
+      "periodo": "2015",
+      "valor": 85.8,
+      "deficit_inss": 85.8,
+      "resultado_governo_federal_sem_inss": -30.1,
+      "juros_nominais_governo_central": 397.2,
+      "juros_pct_pib": 6.63,
+      "deficit_nominal_governo_central": 513.9
+    },
+    {
+      "periodo": "2016",
+      "valor": 149.7,
+      "deficit_inss": 149.7,
+      "resultado_governo_federal_sem_inss": -8.8,
+      "juros_nominais_governo_central": 318.4,
+      "juros_pct_pib": 5.08,
+      "deficit_nominal_governo_central": 477.8
+    },
+    {
+      "periodo": "2017",
+      "valor": 182.4,
+      "deficit_inss": 182.4,
+      "resultado_governo_federal_sem_inss": 64.8,
+      "juros_nominais_governo_central": 340.9,
+      "juros_pct_pib": 5.18,
+      "deficit_nominal_governo_central": 459.3
+    },
+    {
+      "periodo": "2018",
+      "valor": 195.2,
+      "deficit_inss": 195.2,
+      "resultado_governo_federal_sem_inss": 79.7,
+      "juros_nominais_governo_central": 310.3,
+      "juros_pct_pib": 4.5,
+      "deficit_nominal_governo_central": 426.5
+    },
+    {
+      "periodo": "2019",
+      "valor": 213.2,
+      "deficit_inss": 213.2,
+      "resultado_governo_federal_sem_inss": 124.9,
+      "juros_nominais_governo_central": 310.1,
+      "juros_pct_pib": 4.27,
+      "deficit_nominal_governo_central": 399.0
+    },
+    {
+      "periodo": "2020",
+      "valor": 259.1,
+      "deficit_inss": 259.1,
+      "resultado_governo_federal_sem_inss": -485.6,
+      "juros_nominais_governo_central": 266.7,
+      "juros_pct_pib": 3.57,
+      "deficit_nominal_governo_central": 1011.9
+    },
+    {
+      "periodo": "2021",
+      "valor": 247.3,
+      "deficit_inss": 247.3,
+      "resultado_governo_federal_sem_inss": 212.1,
+      "juros_nominais_governo_central": 407.3,
+      "juros_pct_pib": 4.52,
+      "deficit_nominal_governo_central": 443.2
+    },
+    {
+      "periodo": "2022",
+      "valor": 261.3,
+      "deficit_inss": 261.3,
+      "resultado_governo_federal_sem_inss": 316.7,
+      "juros_nominais_governo_central": 503.2,
+      "juros_pct_pib": 4.99,
+      "deficit_nominal_governo_central": 448.3
+    },
+    {
+      "periodo": "2023",
+      "valor": 306.2,
+      "deficit_inss": 306.2,
+      "resultado_governo_federal_sem_inss": 42.1,
+      "juros_nominais_governo_central": 614.5,
+      "juros_pct_pib": 5.62,
+      "deficit_nominal_governo_central": 879.1
+    },
+    {
+      "periodo": "2024",
+      "valor": 297.4,
+      "deficit_inss": 297.4,
+      "resultado_governo_federal_sem_inss": 253.2,
+      "juros_nominais_governo_central": 855.2,
+      "juros_pct_pib": 7.26,
+      "deficit_nominal_governo_central": 900.6
+    },
+    {
+      "periodo": "2025",
+      "valor": 317.2,
+      "deficit_inss": 317.2,
+      "resultado_governo_federal_sem_inss": 259.3,
+      "juros_nominais_governo_central": 891.9,
+      "juros_pct_pib": 7.0,
+      "deficit_nominal_governo_central": 950.6,
+      "deficit_nominal_pct_pib": 7.46
+    },
+    {
+      "periodo": "2026 (jan–ago)",
+      "valor": 277.0,
+      "deficit_inss": 277.0,
+      "deficit_inss_jan_ago_2025": 265.4,
+      "resultado_governo_federal_sem_inss": 180.6,
+      "juros_nominais_governo_central": 714.4,
+      "juros_pct_pib": 7.95,
+      "deficit_nominal_governo_central": 811.5,
+      "deficit_nominal_pct_pib": 9.03,
+      "parcial": true
+    }
+  ],
+  "faixas_referencia": [],
+  "notas_metodologicas": [
+    "Déficit do INSS como número positivo (convenção NFSP convertida); 'Governo Federal' = Tesouro excluído o INSS. 2025: déficit do RGPS de R$ 317,2 bi = 2,49% do PIB.",
+    "Benefícios previdenciários em % do PIB (Tesouro, rodada 1): 6,24% (2003) → 6,56% (2010) → 8,10% (2016) → 8,72% (2020) → 8,06% (2025)."
+  ],
+  "lacunas": [
+    "Anos anteriores a 2015 não cobertos pelas tabelas do BCB consultadas; o Tesouro Transparente ficou inacessível (HTTP 429)."
+  ],
+  "ultimo_periodo": "2026 (jan–ago)",
+  "temas": [
+    "contas-publicas",
+    "direitos-sociais"
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/02_contas_publicas_divida.md",
+  "atualizado_em": "2026-10-21"
+}

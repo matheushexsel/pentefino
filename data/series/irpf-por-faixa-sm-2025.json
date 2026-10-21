@@ -1,0 +1,227 @@
+{
+  "id": "irpf-por-faixa-sm-2025",
+  "titulo": "IRPF 2025 (ano-calendário 2024): declarantes, renda e imposto devido por faixa de salário mínimo",
+  "descricao_simples": "Quantas pessoas declaram em cada faixa de renda, quanto da renda é isenta e quanto imposto cada faixa efetivamente deve — mostra que o IR é progressivo até 15-20 salários mínimos e cai no topo.",
+  "unidade": "declarantes (valor); R$ bilhões e % nos campos adicionais",
+  "tipo_grafico": "barra",
+  "frequencia": "anual",
+  "fonte": {
+    "nome": "Receita Federal — Grandes Números IRPF 2025 (ano-calendário 2024), Tabelas 8 e 9 (planilha; agregação da nota)",
+    "url": "https://www.gov.br/receitafederal/pt-br/centrais-de-conteudo/publicacoes/estudos/imposto-de-renda/estudos-por-ano/grandes-numeros-do-IRPF-2008-a-2025/grandes-numeros-do-irpf-2025-ano-calendario-2024-tabelas/view",
+    "acesso_em": "2026-10-21",
+    "tier": "oficial"
+  },
+  "pontos": [
+    {
+      "periodo": "Até 1/2 SM",
+      "valor": 1533178,
+      "pct_declarantes": 3.7,
+      "rend_tributavel_bi": 0.9,
+      "rend_exclusiva_bi": 0.4,
+      "rend_isentos_bi": 0.5,
+      "imposto_devido_bi": 0.0,
+      "imposto_sobre_renda_total_pct": 0.0
+    },
+    {
+      "periodo": "1/2 a 1 SM",
+      "valor": 579453,
+      "pct_declarantes": 1.4,
+      "rend_tributavel_bi": 5.8,
+      "rend_exclusiva_bi": 0.6,
+      "rend_isentos_bi": 1.3,
+      "imposto_devido_bi": 0.0,
+      "imposto_sobre_renda_total_pct": 0.0
+    },
+    {
+      "periodo": "1 a 2 SM",
+      "valor": 3964807,
+      "pct_declarantes": 9.5,
+      "rend_tributavel_bi": 90.3,
+      "rend_exclusiva_bi": 4.5,
+      "rend_isentos_bi": 13.1,
+      "imposto_devido_bi": 0.0,
+      "imposto_sobre_renda_total_pct": 0.0
+    },
+    {
+      "periodo": "2 a 3 SM",
+      "valor": 8787703,
+      "pct_declarantes": 21.1,
+      "rend_tributavel_bi": 310.7,
+      "rend_exclusiva_bi": 24.0,
+      "rend_isentos_bi": 37.1,
+      "imposto_devido_bi": 2.1,
+      "imposto_sobre_renda_total_pct": 0.6
+    },
+    {
+      "periodo": "3 a 5 SM",
+      "valor": 10908688,
+      "pct_declarantes": 26.2,
+      "rend_tributavel_bi": 553.5,
+      "rend_exclusiva_bi": 49.2,
+      "rend_isentos_bi": 112.3,
+      "imposto_devido_bi": 19.6,
+      "imposto_sobre_renda_total_pct": 2.7
+    },
+    {
+      "periodo": "5 a 7 SM",
+      "valor": 5134482,
+      "pct_declarantes": 12.3,
+      "rend_tributavel_bi": 380.1,
+      "rend_exclusiva_bi": 38.1,
+      "rend_isentos_bi": 94.2,
+      "imposto_devido_bi": 30.3,
+      "imposto_sobre_renda_total_pct": 5.9
+    },
+    {
+      "periodo": "7 a 10 SM",
+      "valor": 3828156,
+      "pct_declarantes": 9.2,
+      "rend_tributavel_bi": 378.5,
+      "rend_exclusiva_bi": 43.2,
+      "rend_isentos_bi": 118.3,
+      "imposto_devido_bi": 45.0,
+      "imposto_sobre_renda_total_pct": 8.3
+    },
+    {
+      "periodo": "10 a 15 SM",
+      "valor": 2954484,
+      "pct_declarantes": 7.1,
+      "rend_tributavel_bi": 391.9,
+      "rend_exclusiva_bi": 53.4,
+      "rend_isentos_bi": 162.0,
+      "imposto_devido_bi": 58.7,
+      "imposto_sobre_renda_total_pct": 9.7
+    },
+    {
+      "periodo": "15 a 20 SM",
+      "valor": 1369171,
+      "pct_declarantes": 3.3,
+      "rend_tributavel_bi": 234.0,
+      "rend_exclusiva_bi": 38.9,
+      "rend_isentos_bi": 127.0,
+      "imposto_devido_bi": 39.3,
+      "imposto_sobre_renda_total_pct": 9.8
+    },
+    {
+      "periodo": "20 a 30 SM",
+      "valor": 1220520,
+      "pct_declarantes": 2.9,
+      "rend_tributavel_bi": 259.4,
+      "rend_exclusiva_bi": 53.3,
+      "rend_isentos_bi": 188.1,
+      "imposto_devido_bi": 46.8,
+      "imposto_sobre_renda_total_pct": 9.4
+    },
+    {
+      "periodo": "30 a 40 SM",
+      "valor": 528766,
+      "pct_declarantes": 1.3,
+      "rend_tributavel_bi": 140.0,
+      "rend_exclusiva_bi": 35.5,
+      "rend_isentos_bi": 132.4,
+      "imposto_devido_bi": 26.6,
+      "imposto_sobre_renda_total_pct": 8.7
+    },
+    {
+      "periodo": "40 a 60 SM",
+      "valor": 408200,
+      "pct_declarantes": 1.0,
+      "rend_tributavel_bi": 120.8,
+      "rend_exclusiva_bi": 42.1,
+      "rend_isentos_bi": 170.9,
+      "imposto_devido_bi": 23.6,
+      "imposto_sobre_renda_total_pct": 7.1
+    },
+    {
+      "periodo": "60 a 80 SM",
+      "valor": 163394,
+      "pct_declarantes": 0.4,
+      "rend_tributavel_bi": 54.0,
+      "rend_exclusiva_bi": 24.9,
+      "rend_isentos_bi": 111.3,
+      "imposto_devido_bi": 10.8,
+      "imposto_sobre_renda_total_pct": 5.7
+    },
+    {
+      "periodo": "80 a 160 SM",
+      "valor": 183592,
+      "pct_declarantes": 0.4,
+      "rend_tributavel_bi": 70.5,
+      "rend_exclusiva_bi": 46.8,
+      "rend_isentos_bi": 220.4,
+      "imposto_devido_bi": 14.6,
+      "imposto_sobre_renda_total_pct": 4.3
+    },
+    {
+      "periodo": "160 a 240 SM",
+      "valor": 46045,
+      "pct_declarantes": 0.1,
+      "rend_tributavel_bi": 22.9,
+      "rend_exclusiva_bi": 21.1,
+      "rend_isentos_bi": 107.2,
+      "imposto_devido_bi": 4.9,
+      "imposto_sobre_renda_total_pct": 3.2
+    },
+    {
+      "periodo": "240 a 320 SM",
+      "valor": 21076,
+      "pct_declarantes": 0.05,
+      "rend_tributavel_bi": 12.7,
+      "rend_exclusiva_bi": 13.4,
+      "rend_isentos_bi": 72.2,
+      "imposto_devido_bi": 2.7,
+      "imposto_sobre_renda_total_pct": 2.8
+    },
+    {
+      "periodo": "Mais de 320 SM (> R$ 452 mil/mês)",
+      "valor": 44776,
+      "pct_declarantes": 0.1,
+      "rend_tributavel_bi": 59.8,
+      "rend_exclusiva_bi": 143.9,
+      "rend_isentos_bi": 701.7,
+      "imposto_devido_bi": 12.7,
+      "imposto_sobre_renda_total_pct": 1.4
+    }
+  ],
+  "faixas_referencia": [
+    {
+      "rotulo": "Total de declarantes",
+      "valor": 41676491
+    },
+    {
+      "rotulo": "Imposto devido total (R$ bi)",
+      "valor": 338.1
+    },
+    {
+      "rotulo": "Imposto devido / renda total (%)",
+      "valor": 5.6
+    },
+    {
+      "rotulo": "Salário mínimo de referência 2024 (R$)",
+      "valor": 1412
+    },
+    {
+      "rotulo": "Contribuintes do IRPFM (> R$ 600 mil/ano)",
+      "valor": 141400
+    }
+  ],
+  "notas_metodologicas": [
+    "Receita Federal, Tabela 8 dos Grandes Números IRPF 2025 (AC 2024), agregação nacional das linhas por UF/tipo de formulário feita pela nota; faixas em SM de 2024 (R$ 1.412); rendimento total = tributáveis + tributação exclusiva + isentos; coluna 'imposto_devido'. A coluna 'imposto devido total' da planilha apresenta inconsistências de unidade nas faixas baixas.",
+    "Leitura: até 2 SM (6,1 mi, 14,6%) praticamente sem imposto; 2 a 5 SM (19,7 mi, 47,3%) devem R$ 21,7 bi (6,4%); 5 a 10 SM (9,0 mi, 21,5%) R$ 75,4 bi (22,3%); 10 a 40 SM (6,1 mi, 14,6%) R$ 171,5 bi (50,7%); acima de 40 SM (867 mil, 2,1%) R$ 69,4 bi (20,5%).",
+    "A razão imposto/renda cai a partir de 20 SM e chega a 1,4% acima de 320 SM porque R$ 701,7 bi dos R$ 905 bi de renda do topo são isentos (dividendos, lucros do Simples) — base empírica do 'regressivo no topo' da SPE e do IRPFM. Tabela 9: 6.405.596 declarantes recebem lucros/dividendos ou rendimentos de sócio do Simples (R$ 1.582 bi isentos), dos quais R$ 583 bi (36,8%) nos 36.286 declarantes acima de 320 SM.",
+    "Universo do IRPFM (> R$ 600 mil/ano ≈ 35 SM/mês de 2024): a faixa 'mais de 320 SM' (44,8 mil) e parte das faixas de 80 a 320 SM (250 mil); o número exato (141,4 mil) depende da composição da renda."
+  ],
+  "lacunas": [
+    "Grandes Números do AC 2023 (Tabelas 5, 6, 8, 9, 19) não extraídos; Tabela 1 (quantos declarantes efetivamente pagam imposto) não acessada."
+  ],
+  "ultimo_periodo": "2025 (ano-calendário 2024)",
+  "temas": [
+    "impostos",
+    "emprego-renda"
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/12_pix_fake_news_e_impostos_quem_paga.md",
+  "notas_brutas_adicionais": [
+    "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/13_renda_por_faixa_e_simulacoes_de_impacto.md"
+  ],
+  "atualizado_em": "2026-10-21"
+}

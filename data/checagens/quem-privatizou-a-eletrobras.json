@@ -34,7 +34,7 @@
     "A operação foi concluída em junho de 2022 com oferta de ações de R$ 33,7 bilhões, após aval do TCU por 7 a 1.",
     "O governo Lula questionou o teto de votos no STF em 2023 e ganhou 3 de 10 assentos no conselho por acordo em 2025, o que não é privatizar nem reestatizar."
   ],
-  "explicacao_completa_md": "## Linha do tempo\n- 23/02/2021: governo Bolsonaro edita a MP 1.031.\n- 17/06/2021: Senado aprova por 42 a 37; 21/06/2021: Câmara conclui; sanção com vetos noticiada em 13/07/2021 (Lei 14.182/2021).\n- 18/05/2022: TCU aprova por 7 a 1.\n- jun/2022: oferta de ações de R$ 33,7 bi a R$ 42 por ação; União cai de 68,6% para 40,3% do capital votante; negociação a partir de 13/06/2022.\n- 2023: governo Lula (AGU) ajuíza a ADI 7.385 contra o teto de 10% de votos.\n- 11/12/2025: STF homologa por 6 a 4 o acordo pelo qual a União indica 3 de 10 conselheiros.\n\n## Veredito\n**Falso.** A decisão (lei) e a execução (oferta) ocorreram no governo Bolsonaro, com aprovação do Congresso e do TCU.",
+  "explicacao_completa_md": "## Linha do tempo\n- 23/02/2021: governo Bolsonaro edita a MP 1.031.\n- 19/05/2021: Câmara aprova o texto do relator por 313 a 166 (5 abstenções; API da Câmara).\n- 17/06/2021: Senado aprova por 42 a 37 (Agência Senado); 21/06/2021: Câmara aprova as emendas do Senado por 258 a 136; sanção com vetos noticiada em 13/07/2021 (Lei 14.182/2021).\n- 18/05/2022: TCU aprova por 7 a 1.\n- jun/2022: oferta de ações de R$ 33,7 bi a R$ 42 por ação; União cai de 68,6% para 40,3% do capital votante; negociação a partir de 13/06/2022.\n- 2023: governo Lula (AGU) ajuíza a ADI 7.385 contra o teto de 10% de votos.\n- 11/12/2025: STF homologa por 6 a 4 o acordo pelo qual a União indica 3 de 10 conselheiros.\n\n## Veredito\n**Falso.** A decisão (lei) e a execução (oferta) ocorreram no governo Bolsonaro, com aprovação do Congresso e do TCU.",
   "o_que_e_verdade": [
     "O governo Lula contestou a governança da empresa no STF e obteve 3 de 10 assentos no conselho por acordo homologado em 11/12/2025."
   ],
@@ -50,7 +50,7 @@
     },
     {
       "ator": "Congresso Nacional",
-      "papel": "aprovou a Lei 14.182/2021 (Senado 42x37)",
+      "papel": "aprovou a Lei 14.182/2021 (Câmara 313x166 e 258x136; Senado 42x37)",
       "peso": "alto"
     },
     {
@@ -65,6 +65,38 @@
     }
   ],
   "numeros": [
+    {
+      "rotulo": "Votação na Câmara em 19/05/2021 (favoráveis)",
+      "valor": 313,
+      "unidade": "votos",
+      "periodo": "19/05/2021",
+      "fonte": {
+        "nome": "Câmara dos Deputados – votação 2270789-73 (19/05/2021, 313 x 166)",
+        "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270789-73",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "Contrários",
+        "valor": 166
+      }
+    },
+    {
+      "rotulo": "Votação na Câmara em 21/06/2021, emendas do Senado (favoráveis)",
+      "valor": 258,
+      "unidade": "votos",
+      "periodo": "21/06/2021",
+      "fonte": {
+        "nome": "Câmara dos Deputados – votação 2270789-157 (21/06/2021, 258 x 136)",
+        "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270789-157",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "Contrários",
+        "valor": 136
+      }
+    },
     {
       "rotulo": "Votação no Senado (favoráveis)",
       "valor": 42,
@@ -136,6 +168,22 @@
         "acesso_em": "2026-10-21",
         "tier": "imprensa"
       }
+    },
+    {
+      "rotulo": "'Grupo Governo' no capital votante da Axia",
+      "valor": 40.67,
+      "unidade": "%",
+      "periodo": "set/2026",
+      "fonte": {
+        "nome": "Axia Energia RI – Composição acionária (posição set/2026)",
+        "url": "https://ri.axia.com.br/a-axia/estrutura-acionaria-composicao-acionaria/",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "No capital total",
+        "valor": 40.43
+      }
     }
   ],
   "series": [
@@ -184,6 +232,36 @@
       "url": "https://cenarioenergia.com.br/2025/12/12/stf-homologa-integralmente-acordo-entre-uniao-e-axia-e-redefine-governanca-da-ex-eletrobras/",
       "acesso_em": "2026-10-21",
       "tier": "imprensa"
+    },
+    {
+      "nome": "Câmara dos Deputados – API de Dados Abertos, votações da MPV 1031/2021",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2270789/votacoes",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Câmara dos Deputados – votação 2270789-73 (19/05/2021, 313 x 166)",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270789-73",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Câmara dos Deputados – votação 2270789-157 (21/06/2021, 258 x 136)",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270789-157",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Agência Senado – Senado aprova MP que desestatiza Eletrobras (17/06/2021)",
+      "url": "https://www12.senado.leg.br/noticias/materias/2021/06/17/senado-aprova-mp-que-desestatiza-eletrobras-texto-volta-para-camara",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Axia Energia RI – Composição acionária (posição set/2026)",
+      "url": "https://ri.axia.com.br/a-axia/estrutura-acionaria-composicao-acionaria/",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/06_energia_eletrobras_combustiveis.md",
@@ -202,12 +280,16 @@
     {
       "data": "2026-10-21",
       "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "rodada 2: placares da Câmara em fonte primária; composição acionária da Axia"
     }
   ],
   "exemplo": false,
   "lacunas": [
     "Autoria, data e local da declaração não documentados nas notas; a checagem trata a afirmação em sua forma recorrente.",
-    "Número do Acórdão do TCU e votação na Câmara não localizados.",
-    "Checagens já publicadas por Aos Fatos, Lupa, Estadão Verifica e Comprova sobre o tema não foram consultadas (cota de busca esgotada); cruzar antes da publicação."
+    "Número do Acórdão do TCU não localizado (portal bloqueou acesso automatizado).",
+    "Checagens da Lupa, Estadão Verifica e g1 Fato ou Fake não puderam ser abertas na rodada 2 (bloqueio de fetch); a lista de checagens externas cobre apenas Aos Fatos e Comprova."
   ]
 }

@@ -1,0 +1,220 @@
+{
+  "id": "juro-real-ex-ante",
+  "titulo": "Juro real esperado (ex-ante) no fim de cada ano",
+  "descricao_simples": "Taxa de juros que o mercado esperava para o ano seguinte, descontada a inflação esperada: mostra quão apertada era a política monetária.",
+  "unidade": "% ao ano",
+  "tipo_grafico": "linha",
+  "frequencia": "anual",
+  "fonte": {
+    "nome": "BCB/Olinda, Focus: ExpectativasMercadoAnuais (Selic) e ExpectativasMercadoInflacao12Meses (IPCA suavizado); cálculo próprio da nota",
+    "url": "https://olinda.bcb.gov.br/olinda/servico/Expectativas/versao/v1/odata/ExpectativasMercadoInflacao12Meses?%24filter=Indicador%20eq%20'IPCA'%20and%20Suavizada%20eq%20'S'&%24orderby=Data%20desc&%24top=1&%24format=json",
+    "acesso_em": "2026-10-21",
+    "tier": "oficial"
+  },
+  "pontos": [
+    {
+      "periodo": "30/12/2003",
+      "valor": 7.5,
+      "selic_esperada_fim_ano_seguinte": 13.93,
+      "ipca_esperado_12m": 5.95,
+      "governo": "lula-1-2"
+    },
+    {
+      "periodo": "30/12/2004",
+      "valor": 9.6,
+      "selic_esperada_fim_ano_seguinte": 16.0,
+      "ipca_esperado_12m": 5.83,
+      "governo": "lula-1-2"
+    },
+    {
+      "periodo": "30/12/2005",
+      "valor": 10.0,
+      "selic_esperada_fim_ano_seguinte": 15.0,
+      "ipca_esperado_12m": 4.52,
+      "governo": "lula-1-2"
+    },
+    {
+      "periodo": "29/12/2006",
+      "valor": 7.4,
+      "selic_esperada_fim_ano_seguinte": 11.75,
+      "ipca_esperado_12m": 4.06,
+      "governo": "lula-1-2"
+    },
+    {
+      "periodo": "31/12/2007",
+      "valor": 6.2,
+      "selic_esperada_fim_ano_seguinte": 10.75,
+      "ipca_esperado_12m": 4.28,
+      "governo": "lula-1-2"
+    },
+    {
+      "periodo": "31/12/2008",
+      "valor": 6.7,
+      "selic_esperada_fim_ano_seguinte": 12.0,
+      "ipca_esperado_12m": 4.96,
+      "governo": "lula-1-2"
+    },
+    {
+      "periodo": "31/12/2009",
+      "valor": 6.0,
+      "selic_esperada_fim_ano_seguinte": 10.75,
+      "ipca_esperado_12m": 4.44,
+      "governo": "lula-1-2"
+    },
+    {
+      "periodo": "31/12/2010",
+      "valor": 6.6,
+      "selic_esperada_fim_ano_seguinte": 12.25,
+      "ipca_esperado_12m": 5.35,
+      "governo": "lula-1-2"
+    },
+    {
+      "periodo": "30/12/2011",
+      "valor": 4.0,
+      "selic_esperada_fim_ano_seguinte": 9.5,
+      "ipca_esperado_12m": 5.33,
+      "governo": "dilma"
+    },
+    {
+      "periodo": "31/12/2012",
+      "valor": 1.6,
+      "selic_esperada_fim_ano_seguinte": 7.25,
+      "ipca_esperado_12m": 5.52,
+      "governo": "dilma"
+    },
+    {
+      "periodo": "31/12/2013",
+      "valor": 4.2,
+      "selic_esperada_fim_ano_seguinte": 10.5,
+      "ipca_esperado_12m": 6.01,
+      "governo": "dilma"
+    },
+    {
+      "periodo": "31/12/2014",
+      "valor": 5.5,
+      "selic_esperada_fim_ano_seguinte": 12.5,
+      "ipca_esperado_12m": 6.61,
+      "governo": "dilma"
+    },
+    {
+      "periodo": "31/12/2015",
+      "valor": 7.8,
+      "selic_esperada_fim_ano_seguinte": 15.25,
+      "ipca_esperado_12m": 6.94,
+      "governo": "dilma"
+    },
+    {
+      "periodo": "30/12/2016",
+      "valor": 5.2,
+      "selic_esperada_fim_ano_seguinte": 10.25,
+      "ipca_esperado_12m": 4.8,
+      "governo": "temer"
+    },
+    {
+      "periodo": "29/12/2017",
+      "valor": 2.7,
+      "selic_esperada_fim_ano_seguinte": 6.75,
+      "ipca_esperado_12m": 3.9,
+      "governo": "temer"
+    },
+    {
+      "periodo": "31/12/2018",
+      "valor": 3.1,
+      "selic_esperada_fim_ano_seguinte": 7.13,
+      "ipca_esperado_12m": 3.9,
+      "governo": "temer"
+    },
+    {
+      "periodo": "31/12/2019",
+      "valor": 0.7,
+      "selic_esperada_fim_ano_seguinte": 4.5,
+      "ipca_esperado_12m": 3.73,
+      "governo": "bolsonaro"
+    },
+    {
+      "periodo": "31/12/2020",
+      "valor": -0.5,
+      "selic_esperada_fim_ano_seguinte": 3.0,
+      "ipca_esperado_12m": 3.56,
+      "governo": "bolsonaro"
+    },
+    {
+      "periodo": "31/12/2021",
+      "valor": 6.1,
+      "selic_esperada_fim_ano_seguinte": 11.5,
+      "ipca_esperado_12m": 5.07,
+      "governo": "bolsonaro"
+    },
+    {
+      "periodo": "30/12/2022",
+      "valor": 6.6,
+      "selic_esperada_fim_ano_seguinte": 12.25,
+      "ipca_esperado_12m": 5.3,
+      "governo": "bolsonaro"
+    },
+    {
+      "periodo": "29/12/2023",
+      "valor": 4.9,
+      "selic_esperada_fim_ano_seguinte": 9.0,
+      "ipca_esperado_12m": 3.88,
+      "governo": "lula-3"
+    },
+    {
+      "periodo": "31/12/2024",
+      "valor": 9.3,
+      "selic_esperada_fim_ano_seguinte": 14.75,
+      "ipca_esperado_12m": 4.95,
+      "governo": "lula-3"
+    },
+    {
+      "periodo": "31/12/2025",
+      "valor": 7.9,
+      "selic_esperada_fim_ano_seguinte": 12.25,
+      "ipca_esperado_12m": 4.02,
+      "governo": "lula-3"
+    },
+    {
+      "periodo": "16/10/2026 (Selic fim-2027)",
+      "valor": 7.2,
+      "selic_esperada_fim_ano_seguinte": 12.0,
+      "ipca_esperado_12m": 4.51,
+      "governo": "lula-3",
+      "parcial": true
+    }
+  ],
+  "faixas_referencia": [
+    {
+      "rotulo": "Média Lula 1-2 (2003–2010)",
+      "valor": 7.5
+    },
+    {
+      "rotulo": "Média Dilma (2011–2015)",
+      "valor": 4.6
+    },
+    {
+      "rotulo": "Média Temer (2016–2018)",
+      "valor": 3.7
+    },
+    {
+      "rotulo": "Média Bolsonaro (2019–2022)",
+      "valor": 3.2
+    },
+    {
+      "rotulo": "Média Lula 3 (2023–2025)",
+      "valor": 7.4
+    }
+  ],
+  "notas_metodologicas": [
+    "Definição: mediana Focus da Selic para o fim do ano seguinte deflacionada pela mediana Focus do IPCA 12 meses à frente (suavizada), na última pesquisa de dezembro: real = (1+Selic)/(1+IPCA) − 1. Cálculo próprio da nota.",
+    "Dez/2024 (9,3%) é o maior desde dez/2005 (10,0%); dez/2020 (−0,5%) é o único negativo.",
+    "Difere do juro real ex-ante usual de mercado (swap pré-DI 360 dias), cuja série SGS 7806 foi descontinuada em set/2019.",
+    "URL da Selic esperada: https://olinda.bcb.gov.br/olinda/servico/Expectativas/versao/v1/odata/ExpectativasMercadoAnuais?%24filter=Indicador%20eq%20'Selic'%20and%20DataReferencia%20eq%20'2027'&%24orderby=Data%20desc&%24top=1&%24format=json"
+  ],
+  "lacunas": [],
+  "ultimo_periodo": "16/10/2026 (Selic fim-2027)",
+  "temas": [
+    "economia"
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/01_macroeconomia_por_governo.md",
+  "atualizado_em": "2026-10-21"
+}

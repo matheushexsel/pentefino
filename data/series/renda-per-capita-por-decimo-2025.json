@@ -6,8 +6,8 @@
   "tipo_grafico": "barra",
   "frequencia": "anual",
   "fonte": {
-    "nome": "IBGE — PNAD Contínua: Rendimento de todas as fontes 2025 (Informativo, 08/05/2026)",
-    "url": "https://biblioteca.ibge.gov.br/visualizacao/livros/liv102275_informativo.pdf",
+    "nome": "IBGE/SIDRA — tabela 7533: rendimento domiciliar per capita médio por classe, a preços médios de 2025 (PNAD Contínua anual, via API, acesso 21/10/2026)",
+    "url": "https://sidra.ibge.gov.br/tabela/7533",
     "acesso_em": "2026-10-21",
     "tier": "oficial"
   },
@@ -18,7 +18,9 @@
       "valor_2024": 260,
       "valor_2019": 150,
       "percentual_acumulado": 10,
-      "parcela_da_massa_pct_2025": 1.2
+      "parcela_da_massa_pct_2025": 1.2,
+      "pessoas": 21302000,
+      "limite_superior_2025_nominal": 451
     },
     {
       "periodo": "2º décimo (10% a 20%)",
@@ -26,7 +28,9 @@
       "valor_2024": 544,
       "valor_2019": 399,
       "percentual_acumulado": 20,
-      "parcela_da_massa_pct_2025": 2.5
+      "parcela_da_massa_pct_2025": 2.5,
+      "pessoas": 21227000,
+      "limite_superior_2025_nominal": 694
     },
     {
       "periodo": "3º décimo (20% a 30%)",
@@ -34,7 +38,9 @@
       "valor_2024": 754,
       "valor_2019": 592,
       "percentual_acumulado": 30,
-      "parcela_da_massa_pct_2025": 3.5
+      "parcela_da_massa_pct_2025": 3.5,
+      "pessoas": 21276000,
+      "limite_superior_2025_nominal": 906
     },
     {
       "periodo": "4º décimo (30% a 40%)",
@@ -42,7 +48,9 @@
       "valor_2024": 975,
       "valor_2019": 788,
       "percentual_acumulado": 40,
-      "parcela_da_massa_pct_2025": 4.5
+      "parcela_da_massa_pct_2025": 4.5,
+      "pessoas": 21223000,
+      "limite_superior_2025_nominal": 1154
     },
     {
       "periodo": "5º décimo (40% a 50%)",
@@ -50,7 +58,9 @@
       "valor_2024": 1228,
       "valor_2019": 1018,
       "percentual_acumulado": 50,
-      "parcela_da_massa_pct_2025": 5.8
+      "parcela_da_massa_pct_2025": 5.8,
+      "pessoas": 21397000,
+      "limite_superior_2025_nominal": 1490
     },
     {
       "periodo": "6º décimo (50% a 60%)",
@@ -58,7 +68,9 @@
       "valor_2024": 1495,
       "valor_2019": 1307,
       "percentual_acumulado": 60,
-      "parcela_da_massa_pct_2025": 6.9
+      "parcela_da_massa_pct_2025": 6.9,
+      "pessoas": 21139000,
+      "limite_superior_2025_nominal": 1697
     },
     {
       "periodo": "7º décimo (60% a 70%)",
@@ -66,7 +78,9 @@
       "valor_2024": 1819,
       "valor_2019": 1581,
       "percentual_acumulado": 70,
-      "parcela_da_massa_pct_2025": 8.5
+      "parcela_da_massa_pct_2025": 8.5,
+      "pessoas": 21271000,
+      "limite_superior_2025_nominal": 2158
     },
     {
       "periodo": "8º décimo (70% a 80%)",
@@ -74,7 +88,9 @@
       "valor_2024": 2355,
       "valor_2019": 2075,
       "percentual_acumulado": 80,
-      "parcela_da_massa_pct_2025": 11.0
+      "parcela_da_massa_pct_2025": 11.0,
+      "pessoas": 21242000,
+      "limite_superior_2025_nominal": 2958
     },
     {
       "periodo": "9º décimo (80% a 90%)",
@@ -82,7 +98,9 @@
       "valor_2024": 3366,
       "valor_2019": 2978,
       "percentual_acumulado": 90,
-      "parcela_da_massa_pct_2025": 15.9
+      "parcela_da_massa_pct_2025": 15.9,
+      "pessoas": 21280000,
+      "limite_superior_2025_nominal": 4609
     },
     {
       "periodo": "10º décimo (10% mais ricos)",
@@ -90,7 +108,9 @@
       "valor_2024": 8385,
       "valor_2019": 8147,
       "percentual_acumulado": 100,
-      "parcela_da_massa_pct_2025": 40.3
+      "parcela_da_massa_pct_2025": 40.3,
+      "pessoas": 21265000,
+      "limite_superior_2025_nominal": null
     },
     {
       "periodo": "90% a 95%",
@@ -98,7 +118,8 @@
       "valor_2024": 5150,
       "valor_2019": 4655,
       "percentual_acumulado": 95,
-      "subclasse_do_10_decimo": true
+      "subclasse_do_10_decimo": true,
+      "pessoas": 10634000
     },
     {
       "periodo": "95% a 99%",
@@ -106,7 +127,8 @@
       "valor_2024": 8843,
       "valor_2019": 8651,
       "percentual_acumulado": 99,
-      "subclasse_do_10_decimo": true
+      "subclasse_do_10_decimo": true,
+      "pessoas": 8503000
     },
     {
       "periodo": "99% a 100% (1% mais rico)",
@@ -114,7 +136,8 @@
       "valor_2024": 22716,
       "valor_2019": 23593,
       "percentual_acumulado": 100,
-      "subclasse_do_10_decimo": true
+      "subclasse_do_10_decimo": true,
+      "pessoas": 2128000
     }
   ],
   "faixas_referencia": [
@@ -139,19 +162,35 @@
       "valor": 694
     },
     {
-      "rotulo": "Mediana inferida (≈1 SM de 2025; nota)",
-      "valor": 1518
+      "rotulo": "Mediana oficial 2025 (P50, SIDRA 7438, nominal)",
+      "valor": 1490
+    },
+    {
+      "rotulo": "P80 2025 (entra nos 20% mais ricos)",
+      "valor": 2958
+    },
+    {
+      "rotulo": "P90 2025 (10% mais ricos)",
+      "valor": 4609
+    },
+    {
+      "rotulo": "P95 2025 (5% mais ricos)",
+      "valor": 6900
+    },
+    {
+      "rotulo": "P99 2025 (1% mais rico)",
+      "valor": 15214
     }
   ],
   "notas_metodologicas": [
-    "São médias dentro de cada décimo, não os limites (percentis) entre décimos. Os 10% mais pobres viviam com R$ 268/mês per capita (≈R$ 8,93/dia).",
-    "Variação 2024-25: 1º décimo +3,1%; 10º décimo +8,7%; 1% mais rico +9,9%. Variação 2019-25: 1º décimo +78,7%; 10º décimo +11,9%; 1% mais rico +5,8%.",
-    "Parcelas da massa em 2025: 1º décimo 1,2% (0,8% em 2019); 10º décimo 40,3%; décimos 2 a 9 são leitura de gráfico (≈2,5%, 3,5%, 4,5%, 5,8%, 6,9%, 8,5%, 11,0%, 15,9%); os 70% mais pobres somavam 32,8%.",
-    "A mediana (faixa de referência) é inferência da nota: as médias do 5º (R$ 1.311) e 6º décimos (R$ 1.560) cercam o SM de 2025; o IBGE não publicou a mediana."
+    "São médias dentro de cada décimo (SIDRA 7533, R$ de 2025), não os limites entre décimos; os limites de percentil (SIDRA 7438, nominais) estão em 'limite_superior_2025_nominal' e nas faixas de referência. Os 10% mais pobres viviam com R$ 268/mês per capita (≈R$ 8,93/dia).",
+    "Pessoas por classe em 2025 (SIDRA 7521): ≈21,2-21,4 milhões por décimo; 1% mais rico ≈2,1 milhões; população 212,624 milhões.",
+    "Variação 2024-25: 1º décimo +3,1%; 10º décimo +8,7%; 1% mais rico +9,9%. Por governo (cálculo da nota, SIDRA 7533): 2018→2022 renda média −3,7% com 1º décimo +24,7% e 10º décimo −9,4%; 2022→2025 todos os décimos +22% a +43% (1º décimo +43,3%; média +25,2%).",
+    "Parcelas da massa em 2025 confirmadas na SIDRA 7527: 1,2 / 2,5 / 3,5 / 4,5 / 5,8 / 6,9 / 8,5 / 11,0 / 15,9 / 40,3%; os 70% mais pobres somavam 32,8%.",
+    "Mediana oficial 2025: R$ 1.490 (98,2% do SM de 2025)."
   ],
   "lacunas": [
-    "Limites de percentil (P10...P90, P99) e número de pessoas por décimo não constam das notas (SIDRA 7531/7545 não acessadas).",
-    "Anos entre 2019 e 2024 não transcritos na nota."
+    "Série 2012-2025 completa das médias por décimo está em simuladores/renda.json (renda_media_por_classe_2012_2025); a base de preços da tabela 7531 ('a preços médios do ano') deve ser confirmada antes de comparar com divulgações anteriores."
   ],
   "ultimo_periodo": "2025",
   "temas": [
@@ -159,5 +198,31 @@
     "pobreza-programas-sociais"
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/13_renda_por_faixa_e_simulacoes_de_impacto.md",
-  "atualizado_em": "2026-10-21"
+  "atualizado_em": "2026-10-21",
+  "fontes_adicionais": [
+    {
+      "nome": "IBGE/SIDRA — tabela 7438: limites superiores das classes de percentual do rendimento domiciliar per capita (PNAD Contínua anual, via API, acesso 21/10/2026)",
+      "url": "https://sidra.ibge.gov.br/tabela/7438",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "IBGE/SIDRA — tabela 7521: população residente por classe de percentual (PNAD Contínua anual, via API, acesso 21/10/2026)",
+      "url": "https://sidra.ibge.gov.br/tabela/7521",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "IBGE/SIDRA — tabela 7527: parcela da massa de rendimento domiciliar per capita por classe (PNAD Contínua anual, via API, acesso 21/10/2026)",
+      "url": "https://sidra.ibge.gov.br/tabela/7527",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "IBGE — PNAD Contínua: Rendimento de todas as fontes 2025 (Informativo, 08/05/2026)",
+      "url": "https://biblioteca.ibge.gov.br/visualizacao/livros/liv102275_informativo.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    }
+  ]
 }

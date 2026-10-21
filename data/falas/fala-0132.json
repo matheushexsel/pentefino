@@ -5,8 +5,10 @@
   "candidato": "lula",
   "lado": "governo-lula-pt",
   "minuto": null,
+  "url_trecho": null,
   "frase_literal": "O Brasil devia US$ 30 bilhões para o FMI, eu paguei os US$ 30 bilhões.",
   "literal": true,
+  "variantes_literais": [],
   "tema": "contas-publicas",
   "veredito": "verdadeiro-mas",
   "resumo_uma_frase": "A dívida de US$ 30 bilhões (empréstimo de 2002, governo FHC) foi quitada antecipadamente em 2005.",
@@ -22,6 +24,15 @@
     "O empréstimo foi do governo anterior; parte já havia sido paga antes de 2005."
   ],
   "numeros": [],
+  "fontes_primarias": [
+    {
+      "nome": "FMI — página do Brasil (histórico de transações)",
+      "url": "https://www.imf.org/en/Countries/BRA",
+      "acesso_em": null,
+      "tier": "multilateral",
+      "acessada_na_rodada_2": false
+    }
+  ],
   "base_legal": [],
   "checagens_externas": [
     {
@@ -42,5 +53,11 @@
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
-  "atualizado_em": "2026-10-21"
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ]
 }

@@ -1,0 +1,85 @@
+{
+  "id": "homicidios-de-mulheres",
+  "titulo": "Homicídios de mulheres (todas as motivações)",
+  "descricao_simples": "Mulheres vítimas de homicídio, incluindo os feminicídios, segundo o FBSP. Caíram de 4.556 (2017) para 3.539 (2025), enquanto a parcela classificada como feminicídio subiu para 44,4%.",
+  "unidade": "vítimas",
+  "tipo_grafico": "barra",
+  "frequencia": "anual",
+  "fonte": {
+    "nome": "Anuário Brasileiro de Segurança Pública 2026 (FBSP)",
+    "url": "https://static.poder360.com.br/uploads/2026/07/anuario-seguranca-publica-23jul26.pdf",
+    "acesso_em": "2026-10-21",
+    "tier": "academico"
+  },
+  "pontos": [
+    {
+      "periodo": "2016",
+      "valor": 4245
+    },
+    {
+      "periodo": "2017",
+      "valor": 4556
+    },
+    {
+      "periodo": "2018",
+      "valor": 4340
+    },
+    {
+      "periodo": "2019",
+      "valor": 3966
+    },
+    {
+      "periodo": "2020",
+      "valor": 3999
+    },
+    {
+      "periodo": "2021",
+      "valor": 3869
+    },
+    {
+      "periodo": "2022",
+      "valor": 3934
+    },
+    {
+      "periodo": "2023",
+      "valor": 3937
+    },
+    {
+      "periodo": "2024",
+      "valor": 3728,
+      "detalhe": {
+        "feminicidios": 1504,
+        "proporcao_feminicidio_pct": 40.3
+      }
+    },
+    {
+      "periodo": "2025",
+      "valor": 3539,
+      "detalhe": {
+        "feminicidios": 1571,
+        "proporcao_feminicidio_pct": 44.4
+      }
+    }
+  ],
+  "faixas_referencia": [],
+  "notas_metodologicas": [
+    "Anuário 2026 (Gráfico 35 e Tabela 21). Queda de 5,5% em 2025. Os feminicídios (série feminicidios) são o subconjunto motivado por razão de gênero.",
+    "Responsabilidade: registro e investigação estaduais; tipificação federal (Lei 13.104/2015 e Lei 14.994/2024)."
+  ],
+  "ultimo_periodo": "2025",
+  "temas": [
+    "seguranca",
+    "direitos-sociais"
+  ],
+  "fontes_adicionais": [
+    {
+      "nome": "Agência Brasil via Estado de Minas (Anuário 2026)",
+      "url": "https://www.em.com.br/nacional/2026/07/7466523-mortes-violentas-caem-82-no-pais-em-2025-feminicidios-aumentam-4.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "lacunas": [],
+  "atualizado_em": "2026-10-21",
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/07_saude_seguranca_educacao_infra_ambiente.md"
+}

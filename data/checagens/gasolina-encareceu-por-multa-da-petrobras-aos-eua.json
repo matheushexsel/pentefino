@@ -1,0 +1,174 @@
+{
+  "id": "chk-3018",
+  "slug": "gasolina-encareceu-por-multa-da-petrobras-aos-eua",
+  "frase": "A gasolina encareceu em 2026 porque a Petrobras está pagando uma multa aos Estados Unidos.",
+  "frase_normalizada": "a gasolina encareceu em 2026 porque a petrobras está pagando uma multa aos estados unidos",
+  "variantes": [],
+  "autor": {
+    "nome": "Conteúdos virais em redes sociais (checados pelo Aos Fatos)",
+    "partido": null,
+    "cargo": null
+  },
+  "lado": "outro",
+  "alvo": {
+    "nome": "Petrobras / governo federal",
+    "partido": null
+  },
+  "data": "2026-04",
+  "onde": "redes sociais",
+  "url_declaracao": "https://www.aosfatos.org/noticias/gasolina-petrobras-multa-eua/",
+  "temas": [
+    "combustiveis"
+  ],
+  "tags": [
+    "gasolina",
+    "Petrobras",
+    "Aos Fatos",
+    "Brent"
+  ],
+  "veredito": "falso",
+  "resumo_uma_frase": "O Aos Fatos classificou a alegação como falsa (16/04/2026); a alta de março de 2026 acompanhou o Brent, que saltou de US$ 70,89 em fevereiro para US$ 103,13 em março e US$ 117,29 em abril com a guerra no Oriente Médio.",
+  "explicacao_simples": [
+    "O Aos Fatos checou em 16/04/2026 e concluiu que não é verdade que a gasolina encareceu por causa de multa da Petrobras aos EUA.",
+    "O que explica a alta de março é o petróleo: o Brent médio mensal foi de US$ 70,89 em fevereiro para US$ 103,13 em março e US$ 117,29 em abril de 2026 (EIA).",
+    "A gasolina na bomba subiu de R$ 6,24 (primeira semana do ano) para o pico de R$ 6,78–6,83 no fim de março, e o governo respondeu com subvenções e cortes de tributos federais."
+  ],
+  "explicacao_completa_md": "## O que o Aos Fatos verificou\nEm 16/04/2026, o Aos Fatos publicou 'Não é verdade que gasolina encareceu porque Petrobras está pagando multa aos EUA' (veredito: falso).\n\n## O que explica a alta\n- Brent mensal (EIA): jan 66,60; fev 70,89; mar 103,13; abr 117,29; mai 107,14 US$/barril. A exposição de motivos da MP 1.358 fala em Brent acima de US$ 120 após o início das tensões no Oriente Médio em fev/2026.\n- Gasolina (ANP): R$ 6,24 na semana de 28/12/2025–03/01/2026; R$ 6,31 em fevereiro; R$ 6,78 na semana de 22–28/03; 'a maior parte da alta aconteceu em poucas semanas de março'.\n- Resposta do governo: MP 1.340 (12/03), MP 1.349 (07/04), MP 1.358 (13/05, subvenção à gasolina) e cortes de PIS/Cofins; a Petrobras só reajustou a gasolina no fim de maio (+R$ 0,48, compensado por subvenção de R$ 0,44).\n\n## Veredito\n**Falso.**",
+  "o_que_e_verdade": [
+    "A gasolina de fato subiu em março de 2026."
+  ],
+  "o_que_nao_se_sustenta": [
+    "A causa atribuída (multa da Petrobras aos EUA) é falsa, segundo o Aos Fatos; a causa documentada é o choque do petróleo."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Mercado internacional (Brent)",
+      "papel": "choque de preço com a guerra no Oriente Médio",
+      "peso": "alto"
+    },
+    {
+      "ator": "Petrobras",
+      "papel": "preço de refinaria",
+      "peso": "medio"
+    },
+    {
+      "ator": "Governo federal",
+      "papel": "subvenções e tributos",
+      "peso": "medio"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Brent médio mensal em março de 2026",
+      "valor": 103.13,
+      "unidade": "US$/barril",
+      "periodo": "mar/2026",
+      "fonte": {
+        "nome": "EIA – Europe Brent Spot Price FOB, média mensal (xls)",
+        "url": "https://www.eia.gov/dnav/pet/hist_xls/RBRTEm.xls",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "fev/2026",
+        "valor": 70.89
+      }
+    },
+    {
+      "rotulo": "Brent médio mensal em abril de 2026 (pico)",
+      "valor": 117.29,
+      "unidade": "US$/barril",
+      "periodo": "abr/2026",
+      "fonte": {
+        "nome": "EIA – Europe Brent Spot Price FOB, média mensal (xls)",
+        "url": "https://www.eia.gov/dnav/pet/hist_xls/RBRTEm.xls",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    {
+      "rotulo": "Gasolina comum, pico de 2026 (semana de 22–28/03)",
+      "valor": 6.78,
+      "unidade": "R$/l",
+      "periodo": "mar/2026",
+      "fonte": {
+        "nome": "novaCana/CNN – Preço da gasolina mantém estabilidade ao longo da guerra com subsídios (13/10/2026)",
+        "url": "https://www.novacana.com/noticias/preco-da-gasolina-mantem-estabilidade-ao-longo-da-guerra-com-subsidios",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "Semana de 28/12/2025–03/01/2026",
+        "valor": 6.24
+      }
+    }
+  ],
+  "series": [
+    "brent-anual",
+    "gasolina-preco-anual"
+  ],
+  "checagens_externas": [
+    {
+      "veiculo": "Aos Fatos",
+      "veredito_original": "falso",
+      "url": "https://www.aosfatos.org/noticias/gasolina-petrobras-multa-eua/",
+      "data": "2026-04-16",
+      "titulo": "Não é verdade que gasolina encareceu porque Petrobras está pagando multa aos EUA (16/04/2026)"
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Aos Fatos – Não é verdade que gasolina encareceu porque Petrobras está pagando multa aos EUA (16/04/2026)",
+      "url": "https://www.aosfatos.org/noticias/gasolina-petrobras-multa-eua/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "EIA – Europe Brent Spot Price FOB, média mensal (xls)",
+      "url": "https://www.eia.gov/dnav/pet/hist_xls/RBRTEm.xls",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "novaCana/CNN – Preço da gasolina mantém estabilidade ao longo da guerra com subsídios (13/10/2026)",
+      "url": "https://www.novacana.com/noticias/preco-da-gasolina-mantem-estabilidade-ao-longo-da-guerra-com-subsidios",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "combustiveis-anp.com.br (agregador de dados ANP) – Quanto subiram os combustíveis em 2026 (13/10/2026)",
+      "url": "https://www.combustiveis-anp.com.br/guia/quanto-subiram-combustiveis-2026-balanco",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Senado Federal – Sumário da MPV 1.358/2026",
+      "url": "https://www12.senado.leg.br/publicacoes/estudos-legislativos/tipos-de-estudos/sumarios-de-proposicoes/mpv1358",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/06_energia_eletrobras_combustiveis.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "A Petrobras paga alguma multa nos EUA?",
+      "resposta": "A nota não documenta nenhuma multa; a checagem do Aos Fatos é a fonte da negativa. O que a nota documenta são os fatores de preço: Brent, câmbio, tributos, ICMS e margens."
+    }
+  ],
+  "relacionadas": [
+    "lula-segura-o-preco-da-gasolina",
+    "gasolina-mais-cara-do-mundo"
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false,
+  "lacunas": [
+    "O conteúdo exato dos posts e a data de circulação não constam da nota, apenas o título e o veredito do Aos Fatos.",
+    "Checagens da Lupa, Estadão Verifica e g1 Fato ou Fake não puderam ser abertas na rodada 2 (bloqueio de fetch); a lista de checagens externas cobre apenas Aos Fatos e Comprova."
+  ]
+}

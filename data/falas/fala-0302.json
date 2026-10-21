@@ -4,9 +4,13 @@
   "evento_id": "debate-band-2turno-2026-10-18",
   "candidato": "lula",
   "lado": "governo-lula-pt",
-  "minuto": null,
+  "minuto": "≈23 min após a abertura; stream 04:38:1x (≈20h38)",
+  "url_trecho": "https://www.youtube.com/watch?v=Gqc1rQtzWUk&t=16695s",
   "frase_literal": "Só no caso do Vorcaro você mentiu 43 vezes.",
   "literal": true,
+  "variantes_literais": [
+    "Legenda automática: '43 mentiras. Todo dia ele contava uma mentira e a empresa desmentia […] Explica a sua relação de amizade com o Queiroz'."
+  ],
   "tema": "corrupcao",
   "veredito": "verdadeiro-mas",
   "resumo_uma_frase": "O número vem de levantamento do Aos Fatos (24/9) com 43 declarações enganosas; é contagem jornalística, não fato judicial.",
@@ -35,6 +39,7 @@
       }
     }
   ],
+  "fontes_primarias": [],
   "base_legal": [],
   "checagens_externas": [
     {
@@ -85,5 +90,15 @@
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
-  "atualizado_em": "2026-10-21"
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "rodada 2: minutagem, link com timestamp e/ou literal conferido na legenda automática da live da Band"
+    }
+  ]
 }

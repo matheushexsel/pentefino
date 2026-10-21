@@ -5,8 +5,10 @@
   "candidato": "flavio-bolsonaro",
   "lado": "oposicao-flavio-pl",
   "minuto": null,
+  "url_trecho": null,
   "frase_literal": "Mais de 40 milhões de brasileiros moram em áreas dominadas por narcoterroristas.",
   "literal": true,
+  "variantes_literais": [],
   "tema": "seguranca",
   "veredito": "impreciso",
   "resumo_uma_frase": "As estimativas são maiores: 50–61 milhões (Cambridge) ou 68,7 milhões (Datafolha/FBSP).",
@@ -32,7 +34,23 @@
         "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
         "acesso_em": "2026-10-21",
         "tier": "checagem"
+      },
+      "fonte_primaria": {
+        "nome": "FBSP — Anuário Brasileiro de Segurança Pública 2026",
+        "url": "https://forumseguranca.org.br/anuario-brasileiro-seguranca-publica/",
+        "acesso_em": "2026-10-21",
+        "tier": "academico",
+        "acessada_na_rodada_2": true
       }
+    }
+  ],
+  "fontes_primarias": [
+    {
+      "nome": "FBSP — Anuário Brasileiro de Segurança Pública 2026",
+      "url": "https://forumseguranca.org.br/anuario-brasileiro-seguranca-publica/",
+      "acesso_em": "2026-10-21",
+      "tier": "academico",
+      "acessada_na_rodada_2": true
     }
   ],
   "base_legal": [],
@@ -67,5 +85,11 @@
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
-  "atualizado_em": "2026-10-21"
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ]
 }

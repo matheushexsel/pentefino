@@ -5,8 +5,10 @@
   "candidato": "flavio-bolsonaro",
   "lado": "oposicao-flavio-pl",
   "minuto": null,
+  "url_trecho": null,
   "frase_literal": "[Governo] recordista em pessoas endividadas.",
   "literal": false,
+  "variantes_literais": [],
   "tema": "economia",
   "veredito": "verdadeiro-mas",
   "resumo_uma_frase": "A Peic/CNC registrou 82% de famílias endividadas em jul/2026, recorde da série; a inadimplência do Serasa cresce desde 2020.",
@@ -32,7 +34,30 @@
         "url": "https://ranking.org.br/en/articles/checagem-entrevista-flavio-bolsonaro-jornal-nacional-2-turno-2026",
         "acesso_em": "2026-10-21",
         "tier": "checagem"
+      },
+      "fonte_primaria": {
+        "nome": "CNC — Peic (Portal do Comércio)",
+        "url": "https://portaldocomercio.org.br/",
+        "acesso_em": null,
+        "tier": "academico",
+        "acessada_na_rodada_2": false
       }
+    }
+  ],
+  "fontes_primarias": [
+    {
+      "nome": "CNC — Peic (Portal do Comércio)",
+      "url": "https://portaldocomercio.org.br/",
+      "acesso_em": null,
+      "tier": "academico",
+      "acessada_na_rodada_2": false
+    },
+    {
+      "nome": "Serasa — Mapa da Inadimplência",
+      "url": "https://www.serasa.com.br/limpa-nome-online/blog/mapa-da-inadimplencia-e-renogociacao-de-dividas-no-brasil/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa",
+      "acessada_na_rodada_2": true
     }
   ],
   "base_legal": [],
@@ -55,5 +80,11 @@
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
-  "atualizado_em": "2026-10-21"
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ]
 }

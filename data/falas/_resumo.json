@@ -1,10 +1,74 @@
 {
   "id": "resumo-falas-2026",
   "titulo": "Totais da campanha (16/8–21/10/2026) por candidato, evento e veredito — escala do projeto",
-  "fonte_secao": "Nota 14, seção 16 (tabela reproduzida como publicada; 'problema' = impreciso + exagerado + falta-contexto + insustentavel + falso; opiniões puras excluídas)",
   "janela": {
     "inicio": "2026-08-16",
     "fim": "2026-10-21"
+  },
+  "criterio": "Um item = uma fala catalogada em data/falas/ com veredito na escala (opiniões puras e falas de aliados fora); itens com veredito duplo na nota contam duas vezes; a mesma frase repetida em eventos diferentes conta em cada evento. 'Problema' = impreciso + exagerado + falta-contexto + insustentavel + falso.",
+  "totais": {
+    "lula": {
+      "itens": 187,
+      "por_veredito": {
+        "verdadeiro": 54,
+        "verdadeiro-mas": 38,
+        "impreciso": 24,
+        "exagerado": 14,
+        "falta-contexto": 13,
+        "insustentavel": 16,
+        "falso": 28
+      },
+      "opiniao": 9,
+      "percentual_falsas": 15.0,
+      "percentual_com_algum_problema": 50.8
+    },
+    "flavio-bolsonaro": {
+      "itens": 139,
+      "por_veredito": {
+        "verdadeiro": 18,
+        "verdadeiro-mas": 15,
+        "impreciso": 6,
+        "exagerado": 15,
+        "falta-contexto": 29,
+        "insustentavel": 12,
+        "falso": 44
+      },
+      "opiniao": 4,
+      "percentual_falsas": 31.7,
+      "percentual_com_algum_problema": 76.3
+    }
+  },
+  "totais_sem_o_ato_de_19_10": {
+    "lula": {
+      "itens": 186,
+      "por_veredito": {
+        "verdadeiro": 54,
+        "verdadeiro-mas": 38,
+        "impreciso": 24,
+        "exagerado": 14,
+        "falta-contexto": 13,
+        "insustentavel": 15,
+        "falso": 28
+      },
+      "opiniao": 9,
+      "percentual_falsas": 15.1,
+      "percentual_com_algum_problema": 50.5
+    },
+    "flavio-bolsonaro": {
+      "itens": 139,
+      "por_veredito": {
+        "verdadeiro": 18,
+        "verdadeiro-mas": 15,
+        "impreciso": 6,
+        "exagerado": 15,
+        "falta-contexto": 29,
+        "insustentavel": 12,
+        "falso": 44
+      },
+      "opiniao": 4,
+      "percentual_falsas": 31.7,
+      "percentual_com_algum_problema": 76.3
+    }
   },
   "por_evento": [
     {
@@ -20,7 +84,8 @@
         "falta-contexto": 1,
         "insustentavel": 0,
         "falso": 1
-      }
+      },
+      "opiniao": 0
     },
     {
       "evento_id": "lancamentos-campanha-2026-08-16",
@@ -35,13 +100,14 @@
         "falta-contexto": 1,
         "insustentavel": 0,
         "falso": 1
-      }
+      },
+      "opiniao": 0
     },
     {
       "evento_id": "sabatina-jn-lula-2026-08-27",
       "evento": "27/8 JN",
       "candidato": "lula",
-      "itens": 34,
+      "itens": 35,
       "por_veredito": {
         "verdadeiro": 9,
         "verdadeiro-mas": 6,
@@ -49,23 +115,25 @@
         "exagerado": 2,
         "falta-contexto": 5,
         "insustentavel": 3,
-        "falso": 5
-      }
+        "falso": 6
+      },
+      "opiniao": 0
     },
     {
       "evento_id": "sabatina-jn-flavio-2026-08-28",
       "evento": "28/8 JN",
       "candidato": "flavio-bolsonaro",
-      "itens": 22,
+      "itens": 23,
       "por_veredito": {
-        "verdadeiro": 6,
+        "verdadeiro": 5,
         "verdadeiro-mas": 1,
         "impreciso": 1,
         "exagerado": 3,
-        "falta-contexto": 3,
-        "insustentavel": 2,
+        "falta-contexto": 2,
+        "insustentavel": 3,
         "falso": 8
-      }
+      },
+      "opiniao": 0
     },
     {
       "evento_id": "sabatina-sbt-lula-2026-09-10",
@@ -80,7 +148,8 @@
         "falta-contexto": 1,
         "insustentavel": 5,
         "falso": 5
-      }
+      },
+      "opiniao": 1
     },
     {
       "evento_id": "discurso-onu-lula-2026-09-22",
@@ -95,22 +164,8 @@
         "falta-contexto": 0,
         "insustentavel": 0,
         "falso": 0
-      }
-    },
-    {
-      "evento_id": "podcast-flow-lula-2026-10-01",
-      "evento": "1/10 Flow",
-      "candidato": "lula",
-      "itens": 19,
-      "por_veredito": {
-        "verdadeiro": 4,
-        "verdadeiro-mas": 5,
-        "impreciso": 4,
-        "exagerado": 0,
-        "falta-contexto": 2,
-        "insustentavel": 1,
-        "falso": 5
-      }
+      },
+      "opiniao": 1
     },
     {
       "evento_id": "live-flavio-2026-10-01",
@@ -122,10 +177,27 @@
         "verdadeiro-mas": 0,
         "impreciso": 0,
         "exagerado": 1,
-        "falta-contexto": 3,
+        "falta-contexto": 4,
         "insustentavel": 0,
-        "falso": 6
-      }
+        "falso": 5
+      },
+      "opiniao": 0
+    },
+    {
+      "evento_id": "podcast-flow-lula-2026-10-01",
+      "evento": "1/10 Flow",
+      "candidato": "lula",
+      "itens": 19,
+      "por_veredito": {
+        "verdadeiro": 3,
+        "verdadeiro-mas": 5,
+        "impreciso": 4,
+        "exagerado": 0,
+        "falta-contexto": 2,
+        "insustentavel": 1,
+        "falso": 4
+      },
+      "opiniao": 1
     },
     {
       "evento_id": "pronunciamentos-1-turno-2026-10-04",
@@ -140,7 +212,8 @@
         "falta-contexto": 0,
         "insustentavel": 0,
         "falso": 1
-      }
+      },
+      "opiniao": 1
     },
     {
       "evento_id": "pronunciamentos-1-turno-2026-10-04",
@@ -155,23 +228,24 @@
         "falta-contexto": 4,
         "insustentavel": 0,
         "falso": 1
-      }
+      },
+      "opiniao": 1
     },
     {
       "evento_id": "sabatina-globo-lula-2026-10-15",
       "evento": "15/10 Globo",
       "candidato": "lula",
-      "itens": 32,
+      "itens": 33,
       "por_veredito": {
-        "verdadeiro": 12,
+        "verdadeiro": 11,
         "verdadeiro-mas": 7,
         "impreciso": 6,
-        "exagerado": 3,
+        "exagerado": 4,
         "falta-contexto": 0,
         "insustentavel": 0,
         "falso": 5
       },
-      "observacao": "Inclui 'déficit de 2,8%' como falso (herança de 2022)."
+      "opiniao": 1
     },
     {
       "evento_id": "sabatina-globo-flavio-2026-10-16",
@@ -179,51 +253,69 @@
       "candidato": "flavio-bolsonaro",
       "itens": 40,
       "por_veredito": {
-        "verdadeiro": 6,
-        "verdadeiro-mas": 7,
+        "verdadeiro": 5,
+        "verdadeiro-mas": 6,
         "impreciso": 3,
         "exagerado": 4,
         "falta-contexto": 5,
         "insustentavel": 3,
-        "falso": 13
+        "falso": 14
       },
-      "observacao": "Falso 13 (-1 opinião), conforme a tabela da nota."
+      "opiniao": 2
     },
     {
       "evento_id": "debate-band-2turno-2026-10-18",
       "evento": "18/10 Band",
       "candidato": "lula",
-      "itens": 44,
+      "itens": 47,
       "por_veredito": {
         "verdadeiro": 16,
         "verdadeiro-mas": 8,
         "impreciso": 5,
         "exagerado": 6,
-        "falta-contexto": 5,
-        "insustentavel": 2,
+        "falta-contexto": 4,
+        "insustentavel": 3,
         "falso": 5
-      }
+      },
+      "opiniao": 1
     },
     {
       "evento_id": "debate-band-2turno-2026-10-18",
       "evento": "18/10 Band",
       "candidato": "flavio-bolsonaro",
-      "itens": 46,
+      "itens": 52,
       "por_veredito": {
-        "verdadeiro": 6,
+        "verdadeiro": 5,
         "verdadeiro-mas": 6,
         "impreciso": 2,
         "exagerado": 5,
-        "falta-contexto": 10,
-        "insustentavel": 7,
-        "falso": 16
-      }
+        "falta-contexto": 13,
+        "insustentavel": 6,
+        "falso": 15
+      },
+      "opiniao": 1
+    },
+    {
+      "evento_id": "ato-lula-porto-alegre-2026-10-19",
+      "evento": "19/10 ato Porto Alegre (fora da tabela da nota)",
+      "candidato": "lula",
+      "itens": 1,
+      "por_veredito": {
+        "verdadeiro": 0,
+        "verdadeiro-mas": 0,
+        "impreciso": 0,
+        "exagerado": 0,
+        "falta-contexto": 0,
+        "insustentavel": 1,
+        "falso": 0
+      },
+      "opiniao": 0
     },
     {
       "evento_id": "sabatina-sbt-lula-2026-10-19",
       "evento": "19/10 SBT",
       "candidato": "lula",
-      "itens": 12,
+      "itens": 14,
       "por_veredito": {
         "verdadeiro": 3,
         "verdadeiro-mas": 5,
@@ -232,235 +324,619 @@
         "falta-contexto": 0,
         "insustentavel": 3,
         "falso": 1
-      }
+      },
+      "opiniao": 3
     }
   ],
-  "totais": {
-    "lula": {
-      "itens": 179,
-      "por_veredito": {
-        "verdadeiro": 56,
-        "verdadeiro-mas": 38,
-        "impreciso": 24,
-        "exagerado": 13,
-        "falta-contexto": 14,
-        "insustentavel": 14,
-        "falso": 28
-      },
-      "percentual_falsas": 15.6,
-      "percentual_com_algum_problema": 52.0
-    },
-    "flavio-bolsonaro": {
-      "itens": 132,
-      "por_veredito": {
-        "verdadeiro": 21,
-        "verdadeiro-mas": 16,
-        "impreciso": 6,
-        "exagerado": 15,
-        "falta-contexto": 26,
-        "insustentavel": 12,
-        "falso": 45
-      },
-      "percentual_falsas": 34.1,
-      "percentual_com_algum_problema": 78.8
-    }
-  },
-  "contagem_dos_arquivos_de_falas": {
-    "descricao": "Contagem efetiva dos arquivos em data/falas/ (inclui opiniões e falas de aliados), para conferência; pode divergir da tabela da nota, que deduplica e consolida itens.",
-    "por_candidato": {
-      "lula": {
-        "verdadeiro": 54,
-        "falso": 28,
-        "verdadeiro-mas": 37,
-        "falta-contexto": 13,
-        "exagerado": 14,
-        "insustentavel": 15,
-        "impreciso": 24,
-        "opiniao": 9
-      },
-      "flavio-bolsonaro": {
-        "verdadeiro-mas": 15,
-        "exagerado": 15,
-        "falso": 44,
-        "falta-contexto": 26,
-        "insustentavel": 11,
-        "impreciso": 6,
-        "verdadeiro": 18,
-        "opiniao": 4
-      },
-      "daniella-marques": {
-        "verdadeiro": 1,
-        "falta-contexto": 1
-      },
-      "douglas-ruas": {
-        "verdadeiro": 1
-      },
-      "guilherme-derrite": {
-        "falso": 2
-      }
-    },
-    "por_evento": {
-      "lancamentos-campanha-2026-08-16": {
-        "lula": {
+  "tabela_corrigida_nota_rodada_2": {
+    "descricao": "Tabela da seção 16 recontada na rodada 2 da nota (21/10), item a item, antes dos itens novos; coincide com os arquivos de falas então existentes (exceto a fala 'miliciano' do ato de 19/10, fora da tabela).",
+    "por_evento": [
+      {
+        "evento_id": "lancamentos-campanha-2026-08-16",
+        "evento": "16/8 lançamento",
+        "candidato": "lula",
+        "itens": 5,
+        "por_veredito": {
           "verdadeiro": 1,
-          "falso": 1,
           "verdadeiro-mas": 1,
-          "falta-contexto": 1,
-          "exagerado": 1
-        },
-        "flavio-bolsonaro": {
-          "verdadeiro-mas": 2,
+          "impreciso": 0,
           "exagerado": 1,
-          "falso": 1,
-          "falta-contexto": 1
+          "falta-contexto": 1,
+          "insustentavel": 0,
+          "falso": 1
         }
       },
-      "sabatina-jn-lula-2026-08-27": {
-        "lula": {
-          "falso": 6,
-          "verdadeiro-mas": 6,
-          "falta-contexto": 5,
+      {
+        "evento_id": "lancamentos-campanha-2026-08-16",
+        "evento": "16/8 lançamento",
+        "candidato": "flavio-bolsonaro",
+        "itens": 5,
+        "por_veredito": {
+          "verdadeiro": 0,
+          "verdadeiro-mas": 2,
+          "impreciso": 0,
+          "exagerado": 1,
+          "falta-contexto": 1,
+          "insustentavel": 0,
+          "falso": 1
+        }
+      },
+      {
+        "evento_id": "sabatina-jn-lula-2026-08-27",
+        "evento": "27/8 JN",
+        "candidato": "lula",
+        "itens": 35,
+        "por_veredito": {
           "verdadeiro": 9,
-          "insustentavel": 3,
+          "verdadeiro-mas": 6,
+          "impreciso": 4,
           "exagerado": 2,
-          "impreciso": 4
-        }
+          "falta-contexto": 5,
+          "insustentavel": 3,
+          "falso": 6
+        },
+        "observacao": "falso 5→6 (itens 1, 5, 7, 11, 12, 13); itens 34→35 (item 32 duplo)"
       },
-      "sabatina-jn-flavio-2026-08-28": {
-        "flavio-bolsonaro": {
+      {
+        "evento_id": "sabatina-jn-flavio-2026-08-28",
+        "evento": "28/8 JN",
+        "candidato": "flavio-bolsonaro",
+        "itens": 22,
+        "por_veredito": {
+          "verdadeiro": 5,
+          "verdadeiro-mas": 1,
+          "impreciso": 1,
+          "exagerado": 3,
           "falta-contexto": 2,
           "insustentavel": 2,
-          "falso": 8,
-          "exagerado": 3,
-          "impreciso": 1,
-          "verdadeiro": 5,
-          "verdadeiro-mas": 1
-        }
+          "falso": 8
+        },
+        "observacao": "verdadeiro 6→5; falta-ctx 3→2; a linha antiga somava 24"
       },
-      "sabatina-sbt-lula-2026-09-10": {
-        "lula": {
+      {
+        "evento_id": "sabatina-sbt-lula-2026-09-10",
+        "evento": "10/9 SBT",
+        "candidato": "lula",
+        "itens": 22,
+        "por_veredito": {
           "verdadeiro": 7,
-          "insustentavel": 5,
-          "falso": 5,
-          "impreciso": 2,
           "verdadeiro-mas": 2,
+          "impreciso": 2,
+          "exagerado": 0,
           "falta-contexto": 1,
-          "opiniao": 1
+          "insustentavel": 5,
+          "falso": 5
         }
       },
-      "discurso-onu-lula-2026-09-22": {
-        "lula": {
+      {
+        "evento_id": "discurso-onu-lula-2026-09-22",
+        "evento": "22/9 ONU",
+        "candidato": "lula",
+        "itens": 7,
+        "por_veredito": {
           "verdadeiro": 3,
           "verdadeiro-mas": 4,
-          "opiniao": 1
+          "impreciso": 0,
+          "exagerado": 0,
+          "falta-contexto": 0,
+          "insustentavel": 0,
+          "falso": 0
         }
       },
-      "live-flavio-2026-10-01": {
-        "flavio-bolsonaro": {
-          "falso": 5,
-          "falta-contexto": 4,
-          "verdadeiro": 1,
-          "exagerado": 1
-        },
-        "daniella-marques": {
-          "verdadeiro": 1,
-          "falta-contexto": 1
-        },
-        "douglas-ruas": {
-          "verdadeiro": 1
-        },
-        "guilherme-derrite": {
-          "falso": 2
-        }
-      },
-      "podcast-flow-lula-2026-10-01": {
-        "lula": {
-          "falso": 4,
-          "verdadeiro-mas": 5,
-          "falta-contexto": 2,
-          "impreciso": 4,
+      {
+        "evento_id": "podcast-flow-lula-2026-10-01",
+        "evento": "1/10 Flow",
+        "candidato": "lula",
+        "itens": 19,
+        "por_veredito": {
           "verdadeiro": 3,
-          "opiniao": 1,
-          "insustentavel": 1
-        }
-      },
-      "pronunciamentos-1-turno-2026-10-04": {
-        "lula": {
-          "verdadeiro": 1,
-          "falso": 1,
-          "exagerado": 1,
-          "impreciso": 1,
-          "opiniao": 1
+          "verdadeiro-mas": 5,
+          "impreciso": 4,
+          "exagerado": 0,
+          "falta-contexto": 2,
+          "insustentavel": 1,
+          "falso": 4
         },
-        "flavio-bolsonaro": {
-          "opiniao": 1,
+        "observacao": "verdadeiro 4→3; falso 5→4; a linha antiga somava 21"
+      },
+      {
+        "evento_id": "live-flavio-2026-10-01",
+        "evento": "1/10 live",
+        "candidato": "flavio-bolsonaro",
+        "itens": 11,
+        "por_veredito": {
+          "verdadeiro": 1,
+          "verdadeiro-mas": 0,
+          "impreciso": 0,
+          "exagerado": 1,
           "falta-contexto": 4,
-          "falso": 1,
+          "insustentavel": 0,
+          "falso": 5
+        },
+        "observacao": "falta-ctx 3→4; falso 6→5"
+      },
+      {
+        "evento_id": "pronunciamentos-1-turno-2026-10-04",
+        "evento": "4/10 noite",
+        "candidato": "lula",
+        "itens": 4,
+        "por_veredito": {
+          "verdadeiro": 1,
+          "verdadeiro-mas": 0,
+          "impreciso": 1,
+          "exagerado": 1,
+          "falta-contexto": 0,
+          "insustentavel": 0,
+          "falso": 1
+        }
+      },
+      {
+        "evento_id": "pronunciamentos-1-turno-2026-10-04",
+        "evento": "4/10 noite",
+        "candidato": "flavio-bolsonaro",
+        "itens": 8,
+        "por_veredito": {
           "verdadeiro": 2,
-          "exagerado": 1
+          "verdadeiro-mas": 0,
+          "impreciso": 0,
+          "exagerado": 1,
+          "falta-contexto": 4,
+          "insustentavel": 0,
+          "falso": 1
         }
       },
-      "sabatina-globo-lula-2026-10-15": {
-        "lula": {
-          "verdadeiro-mas": 7,
-          "exagerado": 4,
+      {
+        "evento_id": "sabatina-globo-lula-2026-10-15",
+        "evento": "15/10 Globo",
+        "candidato": "lula",
+        "itens": 33,
+        "por_veredito": {
           "verdadeiro": 11,
+          "verdadeiro-mas": 7,
           "impreciso": 6,
-          "falso": 5,
-          "opiniao": 1
-        }
-      },
-      "sabatina-globo-flavio-2026-10-16": {
-        "flavio-bolsonaro": {
-          "verdadeiro": 5,
           "exagerado": 4,
-          "insustentavel": 3,
-          "falso": 14,
-          "falta-contexto": 5,
+          "falta-contexto": 0,
+          "insustentavel": 0,
+          "falso": 5
+        },
+        "observacao": "verdadeiro 12→11; exagerado 3→4; itens 32→33 (item 16 duplo)"
+      },
+      {
+        "evento_id": "sabatina-globo-flavio-2026-10-16",
+        "evento": "16/10 Globo",
+        "candidato": "flavio-bolsonaro",
+        "itens": 40,
+        "por_veredito": {
+          "verdadeiro": 5,
           "verdadeiro-mas": 6,
           "impreciso": 3,
-          "opiniao": 2
-        }
-      },
-      "debate-band-2turno-2026-10-18": {
-        "flavio-bolsonaro": {
-          "verdadeiro-mas": 6,
-          "exagerado": 5,
-          "verdadeiro": 5,
-          "falta-contexto": 10,
-          "falso": 15,
-          "impreciso": 2,
-          "insustentavel": 6,
-          "opiniao": 1
+          "exagerado": 4,
+          "falta-contexto": 5,
+          "insustentavel": 3,
+          "falso": 14
         },
-        "lula": {
+        "observacao": "verdadeiro 6→5; verd.-mas 7→6; falso 13→14; a linha antiga somava 41"
+      },
+      {
+        "evento_id": "debate-band-2turno-2026-10-18",
+        "evento": "18/10 Band",
+        "candidato": "lula",
+        "itens": 45,
+        "por_veredito": {
           "verdadeiro": 16,
-          "falso": 5,
           "verdadeiro-mas": 7,
+          "impreciso": 5,
           "exagerado": 6,
           "falta-contexto": 4,
-          "impreciso": 5,
           "insustentavel": 2,
-          "opiniao": 1
-        }
+          "falso": 5
+        },
+        "observacao": "itens 44→45; verd.-mas 8→7; falta-ctx 5→4; a linha antiga somava 47"
       },
-      "ato-lula-porto-alegre-2026-10-19": {
-        "lula": {
-          "insustentavel": 1
-        }
-      },
-      "sabatina-sbt-lula-2026-10-19": {
-        "lula": {
-          "verdadeiro-mas": 5,
-          "insustentavel": 3,
-          "verdadeiro": 3,
-          "opiniao": 3,
+      {
+        "evento_id": "debate-band-2turno-2026-10-18",
+        "evento": "18/10 Band",
+        "candidato": "flavio-bolsonaro",
+        "itens": 49,
+        "por_veredito": {
+          "verdadeiro": 5,
+          "verdadeiro-mas": 6,
           "impreciso": 2,
+          "exagerado": 5,
+          "falta-contexto": 10,
+          "insustentavel": 6,
+          "falso": 15
+        },
+        "observacao": "itens 46→49; verdadeiro 6→5; insustent. 7→6; falso 16→15; a linha antiga somava 52"
+      },
+      {
+        "evento_id": "sabatina-sbt-lula-2026-10-19",
+        "evento": "19/10 SBT",
+        "candidato": "lula",
+        "itens": 14,
+        "por_veredito": {
+          "verdadeiro": 3,
+          "verdadeiro-mas": 5,
+          "impreciso": 2,
+          "exagerado": 0,
+          "falta-contexto": 0,
+          "insustentavel": 3,
+          "falso": 1
+        },
+        "observacao": "itens 12→14 (item 12 vale quatro: V/F/V/I)"
+      }
+    ],
+    "totais": {
+      "lula": {
+        "itens": 184,
+        "por_veredito": {
+          "verdadeiro": 54,
+          "verdadeiro-mas": 37,
+          "impreciso": 24,
+          "exagerado": 14,
+          "falta-contexto": 13,
+          "insustentavel": 14,
+          "falso": 28
+        },
+        "percentual_falsas": 15.2,
+        "percentual_com_algum_problema": 50.5
+      },
+      "flavio-bolsonaro": {
+        "itens": 135,
+        "por_veredito": {
+          "verdadeiro": 18,
+          "verdadeiro-mas": 15,
+          "impreciso": 6,
+          "exagerado": 15,
+          "falta-contexto": 26,
+          "insustentavel": 11,
+          "falso": 44
+        },
+        "percentual_falsas": 32.6,
+        "percentual_com_algum_problema": 75.6
+      }
+    },
+    "totais_apos_itens_novos": {
+      "lula": {
+        "itens": 186,
+        "por_veredito": {
+          "verdadeiro": 54,
+          "verdadeiro-mas": 38,
+          "impreciso": 24,
+          "exagerado": 14,
+          "falta-contexto": 13,
+          "insustentavel": 15,
+          "falso": 28
+        },
+        "percentual_falsas": 15.1,
+        "percentual_com_algum_problema": 50.5
+      },
+      "flavio-bolsonaro": {
+        "itens": 139,
+        "por_veredito": {
+          "verdadeiro": 18,
+          "verdadeiro-mas": 15,
+          "impreciso": 6,
+          "exagerado": 15,
+          "falta-contexto": 29,
+          "insustentavel": 12,
+          "falso": 44
+        },
+        "percentual_falsas": 31.7,
+        "percentual_com_algum_problema": 76.3
+      }
+    },
+    "itens_novos": [
+      {
+        "id": "fala-0339",
+        "candidato": "flavio-bolsonaro",
+        "veredito": "insustentavel",
+        "evento_id": "sabatina-jn-flavio-2026-08-28",
+        "slug": "flavio-mais-de-30-impostos-criados-ou-aumentados"
+      },
+      {
+        "id": "fala-0340",
+        "candidato": "flavio-bolsonaro",
+        "veredito": "falta-contexto",
+        "evento_id": "debate-band-2turno-2026-10-18",
+        "slug": "flavio-eu-nao-mantive-escritorio-com-o-careca"
+      },
+      {
+        "id": "fala-0341",
+        "candidato": "flavio-bolsonaro",
+        "veredito": "falta-contexto",
+        "evento_id": "debate-band-2turno-2026-10-18",
+        "slug": "flavio-prontuario-eletronico-unico-band"
+      },
+      {
+        "id": "fala-0342",
+        "candidato": "flavio-bolsonaro",
+        "veredito": "falta-contexto",
+        "evento_id": "debate-band-2turno-2026-10-18",
+        "slug": "flavio-lojinha-virtual-de-dentro-de-casa"
+      },
+      {
+        "id": "fala-0343",
+        "candidato": "lula",
+        "veredito": "insustentavel",
+        "evento_id": "debate-band-2turno-2026-10-18",
+        "slug": "lula-assassino-que-voce-nao-deixou-prender-votou-em-voce"
+      },
+      {
+        "id": "fala-0344",
+        "candidato": "lula",
+        "veredito": "verdadeiro-mas",
+        "evento_id": "debate-band-2turno-2026-10-18",
+        "slug": "lula-voce-tem-que-explicar-134-milhoes-do-vorcaro"
+      }
+    ]
+  },
+  "tabela_original_nota": {
+    "descricao": "Tabela da seção 16 como publicada originalmente (antes da rodada 2). Mantida para rastreabilidade.",
+    "por_evento": [
+      {
+        "evento_id": "lancamentos-campanha-2026-08-16",
+        "evento": "16/8 lançamento",
+        "candidato": "lula",
+        "itens": 5,
+        "por_veredito": {
+          "verdadeiro": 1,
+          "verdadeiro-mas": 1,
+          "impreciso": 0,
+          "exagerado": 1,
+          "falta-contexto": 1,
+          "insustentavel": 0,
+          "falso": 1
+        }
+      },
+      {
+        "evento_id": "lancamentos-campanha-2026-08-16",
+        "evento": "16/8 lançamento",
+        "candidato": "flavio-bolsonaro",
+        "itens": 5,
+        "por_veredito": {
+          "verdadeiro": 0,
+          "verdadeiro-mas": 2,
+          "impreciso": 0,
+          "exagerado": 1,
+          "falta-contexto": 1,
+          "insustentavel": 0,
+          "falso": 1
+        }
+      },
+      {
+        "evento_id": "sabatina-jn-lula-2026-08-27",
+        "evento": "27/8 JN",
+        "candidato": "lula",
+        "itens": 34,
+        "por_veredito": {
+          "verdadeiro": 9,
+          "verdadeiro-mas": 6,
+          "impreciso": 4,
+          "exagerado": 2,
+          "falta-contexto": 5,
+          "insustentavel": 3,
+          "falso": 5
+        }
+      },
+      {
+        "evento_id": "sabatina-jn-flavio-2026-08-28",
+        "evento": "28/8 JN",
+        "candidato": "flavio-bolsonaro",
+        "itens": 22,
+        "por_veredito": {
+          "verdadeiro": 6,
+          "verdadeiro-mas": 1,
+          "impreciso": 1,
+          "exagerado": 3,
+          "falta-contexto": 3,
+          "insustentavel": 2,
+          "falso": 8
+        }
+      },
+      {
+        "evento_id": "sabatina-sbt-lula-2026-09-10",
+        "evento": "10/9 SBT",
+        "candidato": "lula",
+        "itens": 22,
+        "por_veredito": {
+          "verdadeiro": 7,
+          "verdadeiro-mas": 2,
+          "impreciso": 2,
+          "exagerado": 0,
+          "falta-contexto": 1,
+          "insustentavel": 5,
+          "falso": 5
+        }
+      },
+      {
+        "evento_id": "discurso-onu-lula-2026-09-22",
+        "evento": "22/9 ONU",
+        "candidato": "lula",
+        "itens": 7,
+        "por_veredito": {
+          "verdadeiro": 3,
+          "verdadeiro-mas": 4,
+          "impreciso": 0,
+          "exagerado": 0,
+          "falta-contexto": 0,
+          "insustentavel": 0,
+          "falso": 0
+        }
+      },
+      {
+        "evento_id": "podcast-flow-lula-2026-10-01",
+        "evento": "1/10 Flow",
+        "candidato": "lula",
+        "itens": 19,
+        "por_veredito": {
+          "verdadeiro": 4,
+          "verdadeiro-mas": 5,
+          "impreciso": 4,
+          "exagerado": 0,
+          "falta-contexto": 2,
+          "insustentavel": 1,
+          "falso": 5
+        }
+      },
+      {
+        "evento_id": "live-flavio-2026-10-01",
+        "evento": "1/10 live",
+        "candidato": "flavio-bolsonaro",
+        "itens": 11,
+        "por_veredito": {
+          "verdadeiro": 1,
+          "verdadeiro-mas": 0,
+          "impreciso": 0,
+          "exagerado": 1,
+          "falta-contexto": 3,
+          "insustentavel": 0,
+          "falso": 6
+        }
+      },
+      {
+        "evento_id": "pronunciamentos-1-turno-2026-10-04",
+        "evento": "4/10 noite",
+        "candidato": "lula",
+        "itens": 4,
+        "por_veredito": {
+          "verdadeiro": 1,
+          "verdadeiro-mas": 0,
+          "impreciso": 1,
+          "exagerado": 1,
+          "falta-contexto": 0,
+          "insustentavel": 0,
+          "falso": 1
+        }
+      },
+      {
+        "evento_id": "pronunciamentos-1-turno-2026-10-04",
+        "evento": "4/10 noite",
+        "candidato": "flavio-bolsonaro",
+        "itens": 8,
+        "por_veredito": {
+          "verdadeiro": 2,
+          "verdadeiro-mas": 0,
+          "impreciso": 0,
+          "exagerado": 1,
+          "falta-contexto": 4,
+          "insustentavel": 0,
+          "falso": 1
+        }
+      },
+      {
+        "evento_id": "sabatina-globo-lula-2026-10-15",
+        "evento": "15/10 Globo",
+        "candidato": "lula",
+        "itens": 32,
+        "por_veredito": {
+          "verdadeiro": 12,
+          "verdadeiro-mas": 7,
+          "impreciso": 6,
+          "exagerado": 3,
+          "falta-contexto": 0,
+          "insustentavel": 0,
+          "falso": 5
+        },
+        "observacao": "Inclui 'déficit de 2,8%' como falso (herança de 2022)."
+      },
+      {
+        "evento_id": "sabatina-globo-flavio-2026-10-16",
+        "evento": "16/10 Globo",
+        "candidato": "flavio-bolsonaro",
+        "itens": 40,
+        "por_veredito": {
+          "verdadeiro": 6,
+          "verdadeiro-mas": 7,
+          "impreciso": 3,
+          "exagerado": 4,
+          "falta-contexto": 5,
+          "insustentavel": 3,
+          "falso": 13
+        },
+        "observacao": "'13 (-1 opinião)' na tabela original."
+      },
+      {
+        "evento_id": "debate-band-2turno-2026-10-18",
+        "evento": "18/10 Band",
+        "candidato": "lula",
+        "itens": 44,
+        "por_veredito": {
+          "verdadeiro": 16,
+          "verdadeiro-mas": 8,
+          "impreciso": 5,
+          "exagerado": 6,
+          "falta-contexto": 5,
+          "insustentavel": 2,
+          "falso": 5
+        }
+      },
+      {
+        "evento_id": "debate-band-2turno-2026-10-18",
+        "evento": "18/10 Band",
+        "candidato": "flavio-bolsonaro",
+        "itens": 46,
+        "por_veredito": {
+          "verdadeiro": 6,
+          "verdadeiro-mas": 6,
+          "impreciso": 2,
+          "exagerado": 5,
+          "falta-contexto": 10,
+          "insustentavel": 7,
+          "falso": 16
+        }
+      },
+      {
+        "evento_id": "sabatina-sbt-lula-2026-10-19",
+        "evento": "19/10 SBT",
+        "candidato": "lula",
+        "itens": 12,
+        "por_veredito": {
+          "verdadeiro": 3,
+          "verdadeiro-mas": 5,
+          "impreciso": 2,
+          "exagerado": 0,
+          "falta-contexto": 0,
+          "insustentavel": 3,
           "falso": 1
         }
       }
+    ],
+    "totais": {
+      "lula": {
+        "itens": 179,
+        "por_veredito": {
+          "verdadeiro": 56,
+          "verdadeiro-mas": 38,
+          "impreciso": 24,
+          "exagerado": 13,
+          "falta-contexto": 14,
+          "insustentavel": 14,
+          "falso": 28
+        },
+        "percentual_falsas": 15.6,
+        "percentual_com_algum_problema": 52.0
+      },
+      "flavio-bolsonaro": {
+        "itens": 132,
+        "por_veredito": {
+          "verdadeiro": 21,
+          "verdadeiro-mas": 16,
+          "impreciso": 6,
+          "exagerado": 15,
+          "falta-contexto": 26,
+          "insustentavel": 12,
+          "falso": 45
+        },
+        "percentual_falsas": 34.1,
+        "percentual_com_algum_problema": 78.8
+      }
     },
-    "total_falas": 338
+    "explicacao_da_discrepancia": [
+      "A coluna 'Itens' (Lula 179; Flávio 132) não correspondia à soma das colunas por veredito (187; 141): oito linhas somavam mais do que o número de itens declarado (JN 28/8: 24 x 22; Flow: 21 x 19; Globo 15/10: 33 x 32; Globo 16/10: 41 x 40; Band: 47 x 44 e 52 x 46; SBT 19/10: 14 x 12).",
+      "Causas identificadas na rodada 2: itens com veredito duplo contados uma vez na coluna de itens e duas nas colunas de veredito (Correios 27/8; FMI 15/10; item 12 do SBT 19/10); a réplica 'nem em mim ele pode votar' contada como verdadeiro e como verdadeiro-mas ao mesmo tempo; 'participou da fraude' contado em separado de F32b; e erros de soma simples (verdadeiro 6→5 no JN 28/8; verdadeiro 4→3 e falso 5→4 no Flow; falso 13→14 na Globo 16/10).",
+      "A recontagem (184/135) coincide com os arquivos de falas; com os seis itens novos da rodada 2 passa a 186/139, que é o que os arquivos de data/falas/ contêm (mais a fala 'miliciano' do ato de 19/10, insustentavel, fora da tabela por não ser debate/sabatina)."
+    ]
   },
   "frases_mais_repetidas": {
     "lula": [
@@ -468,105 +944,319 @@
         "frase": "só cresceu acima de 3% quando eu voltei",
         "veredito": "falso",
         "eventos": 5,
-        "nota": "Lupa desmentiu 4 vezes só em 2026"
+        "nota": "Lupa desmentiu 4 vezes só em 2026; IBGE/SIDRA 5932: 2011 4,0; 2013 3,0; 2021 4,8; 2022 3,0; 2025 2,3",
+        "fonte_primaria": {
+          "nome": "IBGE — API SIDRA t/5932 v/6563 (2010 7,5; 2011 4,0; 2013 3,0; 2021 4,8; 2022 3,0; 2025 2,3)",
+          "url": "https://apisidra.ibge.gov.br/values/t/5932/n1/all/v/6563/p/last%2064/c11255/90707/d/v6563%201",
+          "acesso_em": "2026-10-21",
+          "tier": "oficial",
+          "acessada_na_rodada_2": true
+        }
       },
       {
         "frase": "déficit de 2,8%",
         "veredito": "falso",
         "eventos": 5,
-        "nota": "como herança: 2022 superávit 0,5%; 2023 déficit 2,1–2,4%"
+        "nota": "como herança: 2022 superávit (BCB/SGS 5793 dez/2022 = −1,25% = superávit); 2023 déficit 2,1–2,4%",
+        "fonte_primaria": {
+          "nome": "BCB — SGS 5793 (resultado primário do setor público, 12 meses, % PIB; dez/2022 = −1,25 = superávit)",
+          "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.5793/dados?formato=json&dataInicial=01/12/2022&dataFinal=31/12/2022",
+          "acesso_em": "2026-10-21",
+          "tier": "oficial",
+          "acessada_na_rodada_2": true
+        }
       },
       {
         "frase": "único do G20 com superávit",
         "veredito": "falso",
         "eventos": 3,
-        "nota": "Argentina também"
+        "nota": "Argentina também",
+        "fonte_primaria": {
+          "nome": "FMI — WEO Database (saldo primário por país)",
+          "url": "https://www.imf.org/en/Publications/WEO/weo-database",
+          "acesso_em": null,
+          "tier": "multilateral",
+          "acessada_na_rodada_2": false
+        }
       },
       {
         "frase": "acabei com a fome duas vezes",
         "veredito": "exagerado",
-        "eventos": 3
+        "eventos": 3,
+        "fonte_primaria": {
+          "nome": "FAO — SOFI 2025",
+          "url": "https://www.fao.org/publications/home/fao-flagship-publications/the-state-of-food-security-and-nutrition-in-the-world/en",
+          "acesso_em": "2026-10-21",
+          "tier": "multilateral",
+          "acessada_na_rodada_2": true
+        }
       },
       {
         "frase": "7,5% em 2010",
         "veredito": "verdadeiro",
-        "eventos": 5
+        "eventos": 5,
+        "fonte_primaria": {
+          "nome": "IBGE — API SIDRA t/5932 v/6563 (2010 7,5; 2011 4,0; 2013 3,0; 2021 4,8; 2022 3,0; 2025 2,3)",
+          "url": "https://apisidra.ibge.gov.br/values/t/5932/n1/all/v/6563/p/last%2064/c11255/90707/d/v6563%201",
+          "acesso_em": "2026-10-21",
+          "tier": "oficial",
+          "acessada_na_rodada_2": true
+        }
       },
       {
         "frase": "33 milhões com fome",
         "veredito": "verdadeiro",
         "eventos": 3,
-        "nota": "Penssan 2022"
+        "nota": "Penssan 2022",
+        "fonte_primaria": {
+          "nome": "Rede Penssan — II VIGISAN (2022)",
+          "url": "https://olheparaafome.com.br/",
+          "acesso_em": null,
+          "tier": "academico",
+          "acessada_na_rodada_2": false
+        }
       }
     ],
     "flavio-bolsonaro": [
       {
         "frase": "dívida de R$ 11 trilhões",
         "veredito": "verdadeiro/verdadeiro-mas",
-        "eventos": 3
+        "eventos": 3,
+        "nota": "BCB/SGS 13762: 82,87% do PIB em ago/2026",
+        "fonte_primaria": {
+          "nome": "BCB — SGS 13762 (DBGG, % PIB; ago/2026 = 82,87)",
+          "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.13762/dados/ultimos/3?formato=json",
+          "acesso_em": "2026-10-21",
+          "tier": "oficial",
+          "acessada_na_rodada_2": true
+        }
       },
       {
         "frase": "R$ 350 bilhões para se reeleger",
         "veredito": "exagerado",
-        "eventos": 3
+        "eventos": 3,
+        "nota": "Gastômetro do Estadão é compilação secundária; Tesouro Transparente retornou 429"
       },
       {
         "frase": "recorde de empresas fechadas/indústrias para o Paraguai",
         "veredito": "falta-contexto/falso",
         "eventos": 4,
-        "nota": "Aos Fatos conta ≥25 repetições em 2026"
+        "nota": "Aos Fatos (20/10) conta ≥25 repetições em 2026",
+        "fonte_primaria": {
+          "nome": "MDIC/Receita — Mapa de Empresas",
+          "url": "https://www.gov.br/empresas-e-negocios/pt-br/mapa-de-empresas",
+          "acesso_em": null,
+          "tier": "oficial",
+          "acessada_na_rodada_2": false
+        }
       },
       {
         "frase": "Bolsonaro triplicou o Bolsa Família",
         "veredito": "exagerado",
-        "eventos": 2
+        "eventos": 2,
+        "fonte_primaria": {
+          "nome": "MDS — VIS Data (valor médio do Bolsa Família)",
+          "url": "https://aplicacoes.cidadania.gov.br/vis/data3/data-explorer.php",
+          "acesso_em": null,
+          "tier": "oficial",
+          "acessada_na_rodada_2": false
+        }
       },
       {
         "frase": "criminalidade explodiu/recordista",
         "veredito": "falso",
-        "eventos": 2
+        "eventos": 2,
+        "nota": "abre a mesma pergunta dos '73%' no debate",
+        "fonte_primaria": {
+          "nome": "FBSP — Anuário Brasileiro de Segurança Pública 2026",
+          "url": "https://forumseguranca.org.br/anuario-brasileiro-seguranca-publica/",
+          "acesso_em": "2026-10-21",
+          "tier": "academico",
+          "acessada_na_rodada_2": true
+        }
       },
       {
         "frase": "R$ 30 mi por fora/confirmado pela PF",
         "veredito": "insustentavel/falso",
-        "eventos": 2
+        "eventos": 2,
+        "fonte_primaria": {
+          "nome": "Polícia Federal — nota oficial de 9/10/2026",
+          "url": "https://www.gov.br/pf/pt-br",
+          "acesso_em": null,
+          "tier": "oficial",
+          "acessada_na_rodada_2": false
+        }
       },
       {
         "frase": "exilado",
         "veredito": "exagerado",
-        "eventos": 2
+        "eventos": 2,
+        "nota": "não capturado pela legenda automática do debate"
       },
       {
         "frase": "73% dos presidiários",
         "veredito": "falta-contexto",
         "eventos": 1,
-        "nota": "dito duas vezes no mesmo debate"
+        "nota": "dita duas vezes no mesmo debate (stream 04:49:46 e 04:51:15, ≈20h50–20h51), confirmado pela legenda",
+        "fonte_primaria": {
+          "nome": "TSE — Dados abertos: Resultados 2026 – Boletim de urna",
+          "url": "https://dadosabertos.tse.jus.br/dataset/resultados-2026-boletim-de-urna",
+          "acesso_em": "2026-10-21",
+          "tier": "oficial",
+          "acessada_na_rodada_2": true
+        }
       }
     ]
   },
   "contagens_das_agencias": {
     "aviso": "Como publicadas por cada agência; não somáveis entre agências.",
-    "Lupa": "16/8 (L5/F5); JN Lula 9 (F2); JN Flávio 15 (F5); Flow 12 (F4); live Flávio 16 (F6, incl. aliados); 4/10 (Lula 4/F1; Flávio 6/F1); Globo Lula 13 (F2); Globo Flávio 18 (F7); Band 41 (Lula 17/F2; Flávio 24/F9)",
-    "Aos Fatos": "JN Lula 11; JN Flávio 11; ONU 8; Flow 9; live 8; Globo Lula 16 (12 confirmadas); Globo Flávio 15 (1 confirmada); Band 49 (Lula 23/19 confirmadas; Flávio 26/2 confirmadas)",
-    "Ranking dos Políticos": "JN Lula 27 (F7); JN Flávio 9 (F1); SBT Lula 23 (F5–6); Globo Lula 27 (F8); Globo Flávio 26 (F5); Band 76 (Lula 47/F9; Flávio 29/F3)",
-    "Estadão Verifica": "JN Lula 16 (F2/E3/I3); Band 28 (Flávio 15: F2/E5/FC5; Lula 13: E2/EX2/I1)",
-    "UOL Confere": "Band 15 (Flávio 10: F3/E5/EX1/INS1; Lula 5: F1/E1/EX3)"
+    "por_evento": [
+      {
+        "evento": "16/8 lançamentos",
+        "Lupa": "Lula 5 / Flávio 5"
+      },
+      {
+        "evento": "27/8 JN Lula",
+        "Lupa": 9,
+        "Aos Fatos": 11,
+        "Ranking": 27,
+        "Estadão Verifica": "16 (via Brasilagro)"
+      },
+      {
+        "evento": "28/8 JN Flávio",
+        "Lupa": 15,
+        "Aos Fatos": "11 (1 item sem rótulo desde 29/8)",
+        "Ranking": 9,
+        "Estadão Verifica": "não localizado"
+      },
+      {
+        "evento": "10/9 SBT Lula",
+        "Ranking": 23
+      },
+      {
+        "evento": "22/9 ONU",
+        "Aos Fatos": 8
+      },
+      {
+        "evento": "1/10 Flow",
+        "Lupa": 12,
+        "Aos Fatos": 9
+      },
+      {
+        "evento": "1/10 live Flávio",
+        "Lupa": "16 (incl. aliados)",
+        "Aos Fatos": 8
+      },
+      {
+        "evento": "4/10 noite",
+        "Lupa": "Lula 4 / Flávio 6"
+      },
+      {
+        "evento": "15/10 Globo Lula",
+        "Lupa": 13,
+        "Aos Fatos": 16,
+        "Ranking": 27,
+        "Estadão Verifica": "não acessado",
+        "UOL Confere": "não acessado"
+      },
+      {
+        "evento": "16/10 Globo Flávio",
+        "Lupa": 18,
+        "Aos Fatos": 15,
+        "Ranking": 26,
+        "Estadão Verifica": "não acessado",
+        "UOL Confere": "≥1 (Dark Horse; via BPMoney/Quenty)"
+      },
+      {
+        "evento": "18/10 Band",
+        "Lupa": "41 (F 24 / L 17)",
+        "Aos Fatos": "49 (F 26 / L 23)",
+        "Ranking": "76 (L 47 / F 29)",
+        "Estadão Verifica": "28 (F 15 / L 13; via Polêmica Paraíba)",
+        "UOL Confere": "15 (F 10 / L 5; via ICL)",
+        "Outras": "Esquerda Online/flaviomentiu (partidária): 110 'falsas ou enganosas'"
+      },
+      {
+        "evento": "19/10 SBT Lula",
+        "Outras": "Gazeta do Paraná 11"
+      },
+      {
+        "evento": "20/10 (repetições)",
+        "Aos Fatos": "1 (Flávio, 'recorde de falências', FALSO)"
+      }
+    ]
+  },
+  "audiencias": {
+    "debate_band_2026-10-18": {
+      "grande_sp_media": 13,
+      "grande_sp_pico": 15,
+      "medicao": "20h15–22h11",
+      "pnt": "Band 13 x Globo 12",
+      "youtube_simultaneos_pico": 5000000,
+      "youtube_visualizacoes_dia": 15000000,
+      "fontes": [
+        {
+          "nome": "A Tarde (Folha/F5) — audiência do debate",
+          "url": "https://atarde.com.br/televisao/debate-entre-lula-e-flavio-faz-band-bater-recorde-e-superar-a-globo-1406201",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "Prensa Mercosur (Veja) — audiência do debate",
+          "url": "https://prensamercosur.org/2026/10/19/a-audiencia-da-band-durante-o-primeiro-debate-entre-flavio-e-lula/",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        }
+      ]
+    },
+    "globo_lula_2026-10-15": {
+      "grande_sp_media": 24.8,
+      "fontes": [
+        {
+          "nome": "BPMoney — audiência das entrevistas da Globo",
+          "url": "https://bpmoney.com.br/politica/flavio-bolsonaro-audiencia-menor-lula-globo/",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        }
+      ]
+    },
+    "globo_flavio_2026-10-16": {
+      "grande_sp_media": 22.9,
+      "fontes": [
+        {
+          "nome": "BPMoney — audiência das entrevistas da Globo",
+          "url": "https://bpmoney.com.br/politica/flavio-bolsonaro-audiencia-menor-lula-globo/",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        }
+      ]
+    },
+    "nao_obtidas": [
+      "JN 27–28/8",
+      "SBT 10/9 e 19/10",
+      "Flow 1/10",
+      "live 1/10"
+    ]
   },
   "lacunas": [
-    "A tabela conta frases únicas por evento; a mesma frase repetida em eventos diferentes é contada em cada evento.",
-    "As contagens dependem de paráfrases das agências para Ranking e Estadão (sem citações literais); divergências de transcrição podem alterar vereditos individuais.",
-    "Não checados por nenhuma agência: SBT 19/10 (só Gazeta do Paraná), Record 23/8, 7 de Setembro, atos de 11/10 e 19/10, Canal Livre 18/10.",
-    "Frases sem checagem localizada em 2026: 'INSS maior roubo da história', 'Lula quebrou o Brasil', 'menor desemprego da história' (dito por Haddad), isenção do IR em sabatinas, 'Dark Horse R$ 134 mi' (acusação de Lula na Band sem veredito das agências).",
-    "lula: a soma das colunas por veredito da tabela (187) difere da coluna 'Itens' (179); reproduzido como publicado na nota.",
-    "flavio-bolsonaro: a soma das colunas por veredito da tabela (141) difere da coluna 'Itens' (132); reproduzido como publicado na nota.",
-    "28/8 JN / flavio-bolsonaro: soma por veredito 24 x itens 22 (como publicado na nota).",
-    "1/10 Flow / lula: soma por veredito 21 x itens 19 (como publicado na nota).",
-    "15/10 Globo / lula: soma por veredito 33 x itens 32 (como publicado na nota).",
-    "16/10 Globo / flavio-bolsonaro: soma por veredito 41 x itens 40 (como publicado na nota).",
-    "18/10 Band / lula: soma por veredito 47 x itens 44 (como publicado na nota).",
-    "18/10 Band / flavio-bolsonaro: soma por veredito 52 x itens 46 (como publicado na nota).",
-    "19/10 SBT / lula: soma por veredito 14 x itens 12 (como publicado na nota)."
+    "A mesma frase repetida em eventos diferentes é contada em cada evento.",
+    "As contagens dependem de paráfrases das agências para Ranking e Estadão (sem citações literais); divergências de transcrição podem alterar vereditos individuais. A legenda automática da live da Band (18/10) permitiu confirmar literais e horários, com erro de ±1 min e erros de nomes próprios.",
+    "Não checados por nenhuma agência: SBT 19/10 (só Gazeta do Paraná), Record 23/8, 7 de Setembro, atos de 11/10 e 19/10, Canal Livre 18/10, falas de 20–21/10.",
+    "Listas item a item de UOL Confere e Estadão Verifica (Band; Globo; JN Flávio) e checagens de G1 Fato ou Fake e AFP Checamos: sites bloqueados; capturas do Wayback de 17–19/10 existem mas não puderam ser lidas.",
+    "Vereditos provisórios do projeto, sem agência: 'mais de 30 impostos' (insustentavel) e '134 milhões do Vorcaro' (verdadeiro-mas).",
+    "Valor da lei do MEI: R$ 12,6 bi na votação de 16/10 (Lupa) vs. R$ 15,5 bi na sanção de 21/10 (CNN); texto da lei não acessado.",
+    "Frases sem checagem localizada em 2026: 'INSS maior roubo da história', 'Lula quebrou o Brasil', 'menor desemprego da história' (dito por Haddad), isenção do IR em sabatinas."
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
-  "atualizado_em": "2026-10-21"
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação (tabela da nota reproduzida como publicada)"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "rodada 2: totais e por_evento recontados a partir dos arquivos; tabela corrigida e tabela original mantidas em blocos próprios; itens novos; audiências; fontes primárias"
+    }
+  ]
 }

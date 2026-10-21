@@ -112,6 +112,13 @@
       "periodo": "set/2026 (fim de mês)",
       "valor": 5.1803,
       "parcial": true
+    },
+    {
+      "periodo": "20/10/2026 (PTAX venda, diária)",
+      "valor": 5.014,
+      "parcial": true,
+      "fonte_ponto": "BCB SGS 1",
+      "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.1/dados?formato=json&dataInicial=01/10/2026&dataFinal=21/10/2026"
     }
   ],
   "faixas_referencia": [
@@ -120,11 +127,11 @@
       "valor": 6.1917
     }
   ],
-  "notas_metodologicas": [],
-  "lacunas": [
-    "Cotação diária de 21/10/2026 não coletada (apenas o fechamento de set/2026)."
+  "notas_metodologicas": [
+    "Rodada 2 (21/10/2026): PTAX venda em out/2026 (SGS 1): 01/10 5,2079; 05/10 4,9859; 09/10 4,9892; 16/10 5,0826; 19/10 5,0564; 20/10/2026 5,0140 (último dado em 21/10). Fecha a lacuna da rodada 1."
   ],
-  "ultimo_periodo": "set/2026 (fim de mês)",
+  "lacunas": [],
+  "ultimo_periodo": "20/10/2026 (PTAX venda, diária)",
   "temas": [
     "economia"
   ],

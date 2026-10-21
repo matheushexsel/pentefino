@@ -34,7 +34,7 @@
     "A frase vale para a série iniciada em 2012, porque a pesquisa anterior cobria só seis regiões metropolitanas e não pode ser comparada.",
     "A queda começou em 2021, ainda no governo Bolsonaro, e parte dela vem de menos pessoas procurando trabalho do que em 2019."
   ],
-  "explicacao_completa_md": "## Os dados\n\nA PNAD Contínua (IBGE) registrou 5,1% de desocupação no 4º trimestre de 2025 — menor trimestre da série — e 5,6% na média anual de 2025, menor média da série. O dado mais recente é 5,3% no trimestre jun-ago/2026, o menor para esse período. A população ocupada chegou a 103,5 milhões (recorde) e o rendimento médio real a R$ 3.560 na média de 2025.\n\n## Ressalvas\n\n1. **'História' é 'desde 2012'**: a PNAD Contínua começou em 2012; a Pesquisa Mensal de Emprego (PME), que registrou 5,5% em 2012 e 4,6% em dez/2012, cobria apenas seis regiões metropolitanas e não é comparável.\n2. **Tendência anterior**: o pico foi 14,9% (3T2020 e 1T2021); ao fim do governo Bolsonaro a taxa já era 7,9% (4T2022). A queda sob Lula 3 continua uma trajetória iniciada em 2021-2022.\n3. **Participação**: a taxa de participação na força de trabalho (62,1% no 4T2025) está abaixo do pico de 63,4% do 4T2019 — parte da queda vem de menos gente procurando emprego.\n4. **Desaceleração do emprego formal**: o Novo Caged fechou 2025 com +1,28 milhão de vagas, pior ano da série nova fora da pandemia, embora o estoque de 48,2 milhões de vínculos seja recorde.\n\nOs checadores não publicaram veredito formal sobre a frase; tratam a ressalva 'desde 2012' como contexto, não como erro.",
+  "explicacao_completa_md": "## Os dados\n\nA PNAD Contínua (IBGE) registrou 5,1% de desocupação no 4º trimestre de 2025 — menor trimestre da série — e 5,6% na média anual de 2025, menor média da série. O dado mais recente é 5,3% no trimestre jun-ago/2026, o menor para esse período. A população ocupada chegou a 103,5 milhões (recorde) e o rendimento médio real a R$ 3.560 na média de 2025.\n\n## Ressalvas\n\n1. **'História' é 'desde 2012'**: a PNAD Contínua começou em 2012; a Pesquisa Mensal de Emprego (PME), que registrou 5,5% em 2012 e 4,6% em dez/2012, cobria apenas seis regiões metropolitanas e não é comparável.\n2. **Tendência anterior**: o pico foi 14,9% (3T2020 e 1T2021); ao fim do governo Bolsonaro a taxa já era 7,9% (4T2022). A queda sob Lula 3 continua uma trajetória iniciada em 2021-2022.\n3. **Participação**: a taxa de participação na força de trabalho (62,1% no 4T2025) está abaixo do pico de 63,4% do 4T2019 — parte da queda vem de menos gente procurando emprego.\n4. **Desaceleração do emprego formal**: o Novo Caged fechou 2025 com +1,28 milhão de vagas, pior ano da série nova fora da pandemia, embora o estoque tenha chegado a 48,47 milhões de vínculos em dez/2025 (48,24 milhões em ago/2026).\n\nOs checadores não publicaram veredito formal sobre a frase; tratam a ressalva 'desde 2012' como contexto, não como erro.",
   "o_que_e_verdade": [
     "5,1% no 4T2025 é a menor taxa trimestral e 5,6% a menor média anual da PNAD Contínua (2012-2025).",
     "5,3% em jun-ago/2026 é a menor taxa para esse período da série; a população ocupada (103,5 milhões) é recorde.",
@@ -196,14 +196,78 @@
       "unidade": "vínculos",
       "periodo": "2025",
       "fonte": {
-        "nome": "IstoÉ Dinheiro – Saldo de emprego de 2025 é compatível com maior juro real do mundo, diz Marinho (29/01/2026)",
-        "url": "https://www.istoedinheiro.com.br/saldo-de-emprego-de-2025-e-compativel-com-maior-juro-real-do-mundo-diz-marinho",
+        "nome": "MTE – Novo Caged, Apresentação dezembro de 2025 (PDF, saldos 2002-2025 'com ajustes')",
+        "url": "https://www.gov.br/trabalho-e-emprego/pt-br/assuntos/estatisticas-trabalho/novo-caged/2025/dezembro/apresentacao-dezembro-de-2025-1.pdf",
         "acesso_em": "2026-10-21",
-        "tier": "imprensa"
+        "tier": "oficial"
       },
       "comparacao": {
-        "rotulo": "2024 (Ipeadata)",
-        "valor": 1676514
+        "rotulo": "2024 (MTE, com ajustes)",
+        "valor": 1677575
+      }
+    },
+    {
+      "rotulo": "Estoque de vínculos formais (MTE, com ajustes)",
+      "valor": 48474348,
+      "unidade": "vínculos",
+      "periodo": "dez/2025",
+      "fonte": {
+        "nome": "MTE – Novo Caged, Apresentação dezembro de 2025 (PDF, saldos 2002-2025 'com ajustes')",
+        "url": "https://www.gov.br/trabalho-e-emprego/pt-br/assuntos/estatisticas-trabalho/novo-caged/2025/dezembro/apresentacao-dezembro-de-2025-1.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "dez/2022",
+        "valor": 44062000
+      }
+    },
+    {
+      "rotulo": "Desocupação de jovens de 18 a 24 anos",
+      "valor": 11.4,
+      "unidade": "%",
+      "periodo": "4T2025 (menor da série)",
+      "fonte": {
+        "nome": "IBGE – SIDRA tabela 4094 (desocupação por faixa etária)",
+        "url": "https://apisidra.ibge.gov.br/values/t/4094/n1/all/v/4099/p/all/c58/all",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "1T2021 (pico)",
+        "valor": 30.1
+      }
+    },
+    {
+      "rotulo": "Desocupação de mulheres",
+      "valor": 6.2,
+      "unidade": "%",
+      "periodo": "4T2025",
+      "fonte": {
+        "nome": "IBGE – SIDRA tabela 4093 (participação e nível de ocupação)",
+        "url": "https://apisidra.ibge.gov.br/values/t/4093/n1/all/v/4096,4097/p/all",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "Homens",
+        "valor": 4.2
+      }
+    },
+    {
+      "rotulo": "Desocupação no Nordeste",
+      "valor": 7.1,
+      "unidade": "%",
+      "periodo": "4T2025",
+      "fonte": {
+        "nome": "IBGE – SIDRA tabela 4099, grandes regiões",
+        "url": "https://apisidra.ibge.gov.br/values/t/4099/n2/all/v/4099/p/all",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "Sul",
+        "valor": 3.1
       }
     }
   ],
@@ -290,6 +354,24 @@
       "url": "http://www.ipeadata.gov.br/api/odata4/ValoresSerie(SERCODIGO='CAGED12_SALDON12')",
       "acesso_em": "2026-10-21",
       "tier": "oficial"
+    },
+    {
+      "nome": "MTE – Novo Caged, Apresentação dezembro de 2025 (PDF, saldos 2002-2025 'com ajustes')",
+      "url": "https://www.gov.br/trabalho-e-emprego/pt-br/assuntos/estatisticas-trabalho/novo-caged/2025/dezembro/apresentacao-dezembro-de-2025-1.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "IBGE – SIDRA tabela 4094 (desocupação por faixa etária)",
+      "url": "https://apisidra.ibge.gov.br/values/t/4094/n1/all/v/4099/p/all/c58/all",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "IBGE – SIDRA tabela 4099, grandes regiões",
+      "url": "https://apisidra.ibge.gov.br/values/t/4099/n2/all/v/4099/p/all",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/03_emprego_renda_pobreza_social.md",
@@ -304,11 +386,15 @@
     },
     {
       "pergunta": "Menos desemprego significa mais emprego formal?",
-      "resposta": "Em parte. O estoque de carteira assinada é recorde (48,2 milhões), mas 2025 teve o menor saldo da série nova fora da pandemia (+1,28 milhão) e a informalidade segue em 37,5%."
+      "resposta": "Em parte. O estoque de carteira assinada foi recorde em dez/2025 (48,47 milhões, série do MTE com ajustes), mas 2025 teve o menor saldo da série nova fora da pandemia (+1,28 milhão) e a informalidade segue em 37,4% a 37,5%."
     },
     {
       "pergunta": "Por que o 1º trimestre de 2026 mostrou 6,1%?",
       "resposta": "Sazonalidade típica de início de ano; foi o menor 1º trimestre já registrado. Comparações justas usam o mesmo trimestre do ano anterior."
+    },
+    {
+      "pergunta": "O desemprego caiu para todos?",
+      "resposta": "Caiu em todos os grupos, mas com desigualdade: no 4T2025, 4,0% entre brancos e 6,1% entre pretos; 4,2% entre homens e 6,2% entre mulheres; 11,4% entre jovens de 18 a 24 anos; 3,1% no Sul e 7,1% no Nordeste."
     }
   ],
   "relacionadas": [
@@ -326,6 +412,10 @@
     {
       "data": "2026-10-21",
       "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "enriquecimento rodada 2: estoque dez/2025 (48,47 mi) vs ago/2026, saldo Caged oficial com ajustes, desocupação por idade, sexo e região"
     }
   ],
   "exemplo": false

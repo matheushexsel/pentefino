@@ -5,8 +5,10 @@
   "candidato": "lula",
   "lado": "governo-lula-pt",
   "minuto": null,
+  "url_trecho": null,
   "frase_literal": "Ele estava a 56% da inflação acumulada do governo Bolsonaro. Nós caímos para 13%.",
   "literal": true,
+  "variantes_literais": [],
   "tema": "economia",
   "veredito": "impreciso",
   "resumo_uma_frase": "A inflação de alimentos foi 56,6% (Fipe) ou 46,24% (IBGE) no governo Bolsonaro e 16,19% (Fipe) ou 15,95% (IBGE) no atual; os 13% ficam abaixo dos índices.",
@@ -36,7 +38,23 @@
       "comparacao": {
         "rotulo": "Governo Lula 3 (Fipe)",
         "valor": 16.19
+      },
+      "fonte_primaria": {
+        "nome": "IBGE — SIDRA, tabela 7060 (IPCA por grupos; Alimentação e bebidas)",
+        "url": "https://sidra.ibge.gov.br/tabela/7060",
+        "acesso_em": null,
+        "tier": "oficial",
+        "acessada_na_rodada_2": false
       }
+    }
+  ],
+  "fontes_primarias": [
+    {
+      "nome": "IBGE — SIDRA, tabela 7060 (IPCA por grupos; Alimentação e bebidas)",
+      "url": "https://sidra.ibge.gov.br/tabela/7060",
+      "acesso_em": null,
+      "tier": "oficial",
+      "acessada_na_rodada_2": false
     }
   ],
   "base_legal": [],
@@ -59,5 +77,11 @@
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
-  "atualizado_em": "2026-10-21"
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ]
 }

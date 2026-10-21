@@ -1,0 +1,185 @@
+{
+  "id": "chk-4006",
+  "slug": "abstencao-recorde-2026",
+  "frase": "A abstenção no 1º turno de 2026 foi recorde.",
+  "frase_normalizada": "abstencao recorde no primeiro turno de 2026",
+  "variantes": [
+    "21,08% de abstenção é a maior da história",
+    "33 milhões de brasileiros não votaram"
+  ],
+  "autor": {
+    "nome": "CartaCapital e Correio 24 Horas (manchetes de 04–05/10/2026)",
+    "partido": null,
+    "cargo": "imprensa"
+  },
+  "lado": "outro",
+  "alvo": {
+    "nome": "Tribunal Superior Eleitoral",
+    "partido": null
+  },
+  "data": "2026-10-05",
+  "onde": "Cobertura da totalização do 1º turno",
+  "url_declaracao": "https://www.cartacapital.com.br/politica/tse-encerra-apuracao-do-1o-turno/",
+  "temas": [
+    "eleicao-2026"
+  ],
+  "tags": [
+    "abstenção",
+    "recorde",
+    "TSE",
+    "comparecimento"
+  ],
+  "veredito": "verdadeiro-mas",
+  "resumo_uma_frase": "A abstenção de 2026 (33.469.244 eleitores; 21,08%) é recorde em número absoluto e o maior percentual desde 1998, mas não o maior percentual da série de 1º turno: em 1998 foi 21,49%.",
+  "explicacao_simples": [
+    "No 1º turno de 04/10/2026, 33.469.244 dos 158.745.502 eleitores aptos não votaram (21,08%), segundo os dados abertos do TSE.",
+    "Em número de pessoas é o maior da história (2022: 32.770.982), mas em percentual fica abaixo de 1998 (21,49%).",
+    "O eleitorado cresce a cada eleição, por isso o número absoluto de ausentes tende a bater recorde mesmo com percentual estável."
+  ],
+  "explicacao_completa_md": "**Série de abstenção no 1º turno das eleições presidenciais:** 1989: 11,92%; 1994: 17,77% (16.834.339 de 94.782.803); 1998: 21,49% (~22,8 milhões); 2002: 17,74% (20.448.233 de 115.253.816); 2006: 16,75%; 2010: 18,12%; 2014: 19,39%; 2018: 20,33%; 2022: 20,95% (32.770.982); 2026: 21,08% (33.469.244 de 158.745.502). **Leitura:** 2026 é recorde em número absoluto e o maior percentual desde 1998, mas não o maior da série. A abstenção varia muito por UF (MS 23,87%, RJ 23,32%, MG 22,81%, SP 22,54%; CE 15,52%) e é de 62,66% no exterior. Brancos (1,84%) e nulos (2,93%) de 2026 estão entre os menores da série (1994: 9,23% e 9,55%; 2002: 3,03% e 7,36%). Voto obrigatório para alfabetizados de 18 a 70 anos; facultativo para 16–17, maiores de 70 (10,87% do eleitorado) e analfabetos (3,48%); multa de R$ 3,51 por turno.",
+  "o_que_e_verdade": [
+    "33.469.244 ausentes é o maior número absoluto da série.",
+    "21,08% é o maior percentual desde 1998."
+  ],
+  "o_que_nao_se_sustenta": [
+    "Que 21,08% seja o maior percentual da série: 1998 teve 21,49%."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Tribunal Superior Eleitoral",
+      "papel": "Publica aptos, comparecimento e abstenção",
+      "peso": "alto"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Abstenção em 2026",
+      "valor": 21.08,
+      "unidade": "% dos aptos",
+      "periodo": "1º turno, 04/10/2026",
+      "fonte": {
+        "nome": "TSE, dados abertos, detalhe da votação por município e zona 2026 (gerado 21/10/2026)",
+        "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/detalhe_votacao_munzona/detalhe_votacao_munzona_2026.zip",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "Abstenção em 1998",
+        "valor": 21.49
+      }
+    },
+    {
+      "rotulo": "Ausentes em 2026",
+      "valor": 33469244,
+      "unidade": "eleitores",
+      "periodo": "1º turno, 04/10/2026",
+      "fonte": {
+        "nome": "TSE, dados abertos, detalhe da votação por município e zona 2026 (gerado 21/10/2026)",
+        "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/detalhe_votacao_munzona/detalhe_votacao_munzona_2026.zip",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "Ausentes em 2022",
+        "valor": 32770982
+      }
+    },
+    {
+      "rotulo": "Abstenção no exterior",
+      "valor": 62.66,
+      "unidade": "%",
+      "periodo": "1º turno, 04/10/2026",
+      "fonte": {
+        "nome": "TSE, dados abertos, detalhe da votação por município e zona 2026 (gerado 21/10/2026)",
+        "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/detalhe_votacao_munzona/detalhe_votacao_munzona_2026.zip",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "Abstenção no Ceará (menor do país)",
+        "valor": 15.52
+      }
+    },
+    {
+      "rotulo": "Eleitores com 70 anos ou mais (voto facultativo)",
+      "valor": 17251915,
+      "unidade": "eleitores",
+      "periodo": "jul/2026",
+      "fonte": {
+        "nome": "TSE, perfil do eleitorado 2026",
+        "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitorado/perfil_eleitorado_2026.zip",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "Percentual do eleitorado",
+        "valor": 10.87
+      }
+    }
+  ],
+  "series": [],
+  "checagens_externas": [],
+  "fontes": [
+    {
+      "nome": "TSE, dados abertos, detalhe da votação por município e zona 2026 (gerado 21/10/2026)",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/detalhe_votacao_munzona/detalhe_votacao_munzona_2026.zip",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Correio 24 Horas, 04/10/2026 (série de abstenção, citando TSE)",
+      "url": "https://www.correio24horas.com.br/eleicoes/primeiro-turno-registra-recorde-de-eleitores-ausentes-com-mais-de-33-milhoes-sem-votar-1026",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "CartaCapital, TSE encerra apuração (05/10/2026)",
+      "url": "https://www.cartacapital.com.br/politica/tse-encerra-apuracao-do-1o-turno/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Wikipédia pt, Eleição presidencial de 1994",
+      "url": "https://pt.wikipedia.org/wiki/Elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_1994",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Wikipédia pt, Eleição presidencial de 2002",
+      "url": "https://pt.wikipedia.org/wiki/Elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2002",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Wikipédia pt, Eleições gerais no Brasil em 2026 (regras do voto)",
+      "url": "https://pt.wikipedia.org/wiki/Elei%C3%A7%C3%B5es_gerais_no_Brasil_em_2026",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/08_eleicao_2026_cenario_checagens.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "Por que o número absoluto bate recorde e o percentual não?",
+      "resposta": "Porque o eleitorado cresceu (158,7 milhões de aptos em 2026 contra 115,3 milhões em 2002); com percentual parecido, o número de ausentes é maior."
+    },
+    {
+      "pergunta": "Quem pode não votar sem multa?",
+      "resposta": "Jovens de 16 e 17 anos, maiores de 70 (17,25 milhões, 10,87% do eleitorado) e analfabetos (5,52 milhões), para quem o voto é facultativo."
+    }
+  ],
+  "relacionadas": [
+    "eleicao-2026-resultado-primeiro-turno"
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false,
+  "lacunas": [
+    "Aptos e ausentes absolutos de 1998 e de 2006–2018 não constam das fontes (só percentuais via Correio 24 Horas/TSE)."
+  ]
+}

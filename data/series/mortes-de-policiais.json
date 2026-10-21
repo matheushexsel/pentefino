@@ -1,0 +1,74 @@
+{
+  "id": "mortes-de-policiais",
+  "titulo": "Policiais civis e militares vítimas de crimes violentos letais",
+  "descricao_simples": "Policiais mortos de forma intencional (CVLI), em serviço e fora dele, segundo o FBSP. Caíram de 144 (2024) para 139 (2025); para cada policial morto, cerca de 47 civis morreram em ações policiais.",
+  "unidade": "policiais mortos",
+  "tipo_grafico": "barra",
+  "frequencia": "anual",
+  "fonte": {
+    "nome": "Anuário Brasileiro de Segurança Pública 2026 (FBSP)",
+    "url": "https://static.poder360.com.br/uploads/2026/07/anuario-seguranca-publica-23jul26.pdf",
+    "acesso_em": "2026-10-21",
+    "tier": "academico"
+  },
+  "pontos": [
+    {
+      "periodo": "2024",
+      "valor": 144,
+      "detalhe": {
+        "pc_confronto_em_servico": 1,
+        "pm_confronto_em_servico": 31,
+        "pc_fora_de_servico": 8,
+        "pm_fora_de_servico": 76,
+        "suicidios_de_policiais": 126,
+        "suicidios_pm": 107,
+        "suicidios_pc": 19
+      }
+    },
+    {
+      "periodo": "2025",
+      "valor": 139,
+      "detalhe": {
+        "pc_confronto_em_servico": 8,
+        "pm_confronto_em_servico": 21,
+        "pc_fora_de_servico": 13,
+        "pm_fora_de_servico": 46,
+        "suicidios_de_policiais": 110,
+        "suicidios_pm": 89,
+        "suicidios_pc": 21
+      }
+    }
+  ],
+  "faixas_referencia": [
+    {
+      "rotulo": "Civis mortos por policiais em 2025",
+      "valor": 6602
+    },
+    {
+      "rotulo": "Razão civis mortos por policiais / policiais mortos (aprox.)",
+      "valor": 47
+    }
+  ],
+  "notas_metodologicas": [
+    "Anuário 2026 (Tabelas 06 e 07). Queda de 3,5% em 2025. A desagregação por corporação soma apenas as UFs que informam. Suicídios de policiais caíram 12,7% (126 para 110).",
+    "A maioria dos policiais mortos é vitimada fora de serviço (76 PMs em 2024; 46 em 2025).",
+    "Responsabilidade: polícias Militar e Civil são estaduais."
+  ],
+  "ultimo_periodo": "2025",
+  "temas": [
+    "seguranca"
+  ],
+  "fontes_adicionais": [
+    {
+      "nome": "Brasil de Fato (Anuário 2026)",
+      "url": "https://www.brasildefato.com.br/2026/07/23/letalidade-policial-piora-no-pais-e-faz-47-vitimas-civis-a-cada-agente-morto-em-supostos-confrontos/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "lacunas": [
+    "Série anterior a 2024 não consta da nota."
+  ],
+  "atualizado_em": "2026-10-21",
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/07_saude_seguranca_educacao_infra_ambiente.md"
+}

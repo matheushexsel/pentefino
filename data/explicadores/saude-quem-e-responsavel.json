@@ -112,13 +112,13 @@
     },
     {
       "data": "2024",
-      "evento": "Pior ano da dengue na série histórica: 6.022 mortes. Cobertura da 2ª dose da tríplice viral sobe a 80,1% (57,6% em 2022).",
-      "url": "https://www.revistaoeste.com/saude/recorde-brasil-tem-66-milhoes-de-casos-de-dengue-em-2024-e-mais-de-6-mil-mortes/"
+      "evento": "Pior ano da dengue na série histórica: 6.321 mortes e 6,56 milhões de casos prováveis (consolidado do MS). Cobertura da 2ª dose da tríplice viral sobe a 80,1% (57,6% em 2022).",
+      "url": "https://brasil61.com/n/brasil-registra-1-66-milhao-de-casos-provaveis-de-dengue-em-2025-bras2515393"
     },
     {
       "data": "2025-12",
-      "evento": "Agora Tem Especialistas tem 577 especialistas em 187 municípios; 1.501 em jun/2026.",
-      "url": "https://agenciagov.ebc.com.br/noticias/202512/com-577-medicos-especialistas-ministerio-da-saude-supera-meta-estabelecida-pelo-programa-agora-tem-especialistas"
+      "evento": "Dengue recua 72% em mortes (1.762) e 75% em casos (1,66 milhão). Agora Tem Especialistas tem 577 especialistas em 187 municípios; 1.501 em jun/2026.",
+      "url": "https://brasil61.com/n/brasil-registra-1-66-milhao-de-casos-provaveis-de-dengue-em-2025-bras2515393"
     }
   ],
   "numeros": [
@@ -219,6 +219,22 @@
       }
     },
     {
+      "rotulo": "Gasto público em saúde, todos os níveis (OMS/GHED)",
+      "valor": 4.29,
+      "unidade": "% do PIB",
+      "periodo": "2023",
+      "fonte": {
+        "nome": "Banco Mundial/OMS GHED — gasto público em saúde em % do PIB, SH.XPD.GHED.GD.ZS, Brasil 2003–2023",
+        "url": "https://api.worldbank.org/v2/country/BRA/indicator/SH.XPD.GHED.GD.ZS?format=json&per_page=100&date=2003:2023",
+        "acesso_em": "2026-10-21",
+        "tier": "multilateral"
+      },
+      "comparacao": {
+        "rotulo": "2003",
+        "valor": 3.51
+      }
+    },
+    {
       "rotulo": "Mortalidade infantil",
       "valor": 12.3,
       "unidade": "por mil nascidos vivos",
@@ -230,8 +246,8 @@
         "tier": "imprensa"
       },
       "comparacao": {
-        "rotulo": "2023",
-        "valor": 12.5
+        "rotulo": "2003 (UN IGME/Banco Mundial)",
+        "valor": 24.0
       }
     },
     {
@@ -267,7 +283,7 @@
       }
     },
     {
-      "rotulo": "Mortes por covid-19 (acumulado)",
+      "rotulo": "Mortes por covid-19 (acumulado, painel MS/Conass)",
       "valor": 716238,
       "unidade": "óbitos",
       "periodo": "jun/2025",
@@ -276,22 +292,58 @@
         "url": "https://pt.wikipedia.org/wiki/Pandemia_de_COVID-19_no_Brasil",
         "acesso_em": "2026-10-21",
         "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "OMS (acesso 21/10/2026)",
+        "valor": 704092
+      }
+    },
+    {
+      "rotulo": "Mortes por covid-19 por 100 mil habitantes (OMS) — 21º do mundo",
+      "valor": 331,
+      "unidade": "óbitos por 100 mil",
+      "periodo": "2026-10-21",
+      "fonte": {
+        "nome": "OMS — WHO COVID-19 dashboard, global table data (CSV, acesso 21/10/2026)",
+        "url": "https://srhdpeuwpubsa.blob.core.windows.net/whdh/COVID/WHO-COVID-19-global-table-data.csv",
+        "acesso_em": "2026-10-21",
+        "tier": "multilateral"
+      },
+      "comparacao": {
+        "rotulo": "Peru (1º)",
+        "valor": 670
       }
     },
     {
       "rotulo": "Mortes por dengue",
-      "valor": 6022,
+      "valor": 6321,
       "unidade": "óbitos",
-      "periodo": "2024",
+      "periodo": "2024 (consolidado)",
       "fonte": {
-        "nome": "Revista Oeste (painel do MS) — dengue 2024",
-        "url": "https://www.revistaoeste.com/saude/recorde-brasil-tem-66-milhoes-de-casos-de-dengue-em-2024-e-mais-de-6-mil-mortes/",
+        "nome": "Brasil 61 (dados do Ministério da Saúde), 23/12/2025 — dengue 2025",
+        "url": "https://brasil61.com/n/brasil-registra-1-66-milhao-de-casos-provaveis-de-dengue-em-2025-bras2515393",
         "acesso_em": "2026-10-21",
         "tier": "imprensa"
       },
       "comparacao": {
-        "rotulo": "2023 (jun/2024)",
-        "valor": 1179
+        "rotulo": "2025",
+        "valor": 1762
+      }
+    },
+    {
+      "rotulo": "Casos prováveis de dengue",
+      "valor": 6563561,
+      "unidade": "casos",
+      "periodo": "2024",
+      "fonte": {
+        "nome": "Brasil 61 (dados do Ministério da Saúde), 23/12/2025 — dengue 2025",
+        "url": "https://brasil61.com/n/brasil-registra-1-66-milhao-de-casos-provaveis-de-dengue-em-2025-bras2515393",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "2025",
+        "valor": 1660190
       }
     },
     {
@@ -329,6 +381,7 @@
   ],
   "series": [
     "gasto-federal-saude",
+    "gasto-saude-pib-ghed",
     "mortalidade-infantil",
     "expectativa-de-vida",
     "cobertura-vacinal-triplice-viral",
@@ -336,6 +389,24 @@
     "dengue-casos-mortes"
   ],
   "mitos_e_fatos": [
+    {
+      "mito": "O Brasil foi o país que mais perdeu vidas na pandemia.",
+      "fato": "Em números absolutos o Brasil é o 2º (704.092 óbitos pela OMS; 716.238 pelo painel MS/Conass), atrás dos EUA (1.239.585). Por habitante, é o 21º: 331 óbitos por 100 mil, atrás de Peru (670), Bulgária (558), Hungria (503), EUA (374, 14º) e Itália (333), e à frente de Chile (329), Argentina (290) e México (260).",
+      "fontes": [
+        {
+          "nome": "OMS — WHO COVID-19 dashboard, global table data (CSV, acesso 21/10/2026)",
+          "url": "https://srhdpeuwpubsa.blob.core.windows.net/whdh/COVID/WHO-COVID-19-global-table-data.csv",
+          "acesso_em": "2026-10-21",
+          "tier": "multilateral"
+        },
+        {
+          "nome": "Wikipédia pt — Pandemia de COVID-19 no Brasil",
+          "url": "https://pt.wikipedia.org/wiki/Pandemia_de_COVID-19_no_Brasil",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        }
+      ]
+    },
     {
       "mito": "A vacinação caiu só por causa do governo Bolsonaro.",
       "fato": "A queda começou antes: pólio e meningocócica ficaram abaixo de 95% desde 2016 e a tríplice viral desde 2017 (governos Dilma e Temer). A piora foi mais acentuada em 2019–2022, com pandemia e desinformação; a recuperação em 2023–2024 (tríplice viral D2 de 57,6% para 80,1%) é real, mas em 2025 várias vacinas seguiam abaixo da meta.",
@@ -380,11 +451,11 @@
     },
     {
       "mito": "A epidemia de dengue de 2024 é culpa exclusiva do governo federal.",
-      "fato": "O controle do mosquito é municipal (agentes de endemias) com apoio estadual; a vacina e os repasses emergenciais (R$ 1,5 bi em 2024) são federais. O recorde de 6.022 mortes coincidiu com El Niño e expansão do sorotipo 3.",
+      "fato": "O controle do mosquito é municipal (agentes de endemias) com apoio estadual; a vacina e os repasses emergenciais (R$ 1,5 bi em 2024) são federais. O recorde de 6.321 mortes (consolidado) coincidiu com El Niño e expansão do sorotipo 3; em 2025 as mortes caíram 72% (1.762) e os casos voltaram ao patamar de 2023.",
       "fontes": [
         {
-          "nome": "Revista Oeste (painel do MS) — dengue 2024",
-          "url": "https://www.revistaoeste.com/saude/recorde-brasil-tem-66-milhoes-de-casos-de-dengue-em-2024-e-mais-de-6-mil-mortes/",
+          "nome": "Brasil 61 (dados do Ministério da Saúde), 23/12/2025 — dengue 2025",
+          "url": "https://brasil61.com/n/brasil-registra-1-66-milhao-de-casos-provaveis-de-dengue-em-2025-bras2515393",
           "acesso_em": "2026-10-21",
           "tier": "imprensa"
         },
@@ -421,8 +492,8 @@
       "resposta": "Governadores e prefeitos, com competência concorrente reconhecida pelo STF. A compra de vacinas e a coordenação nacional são federais. Na covid-19, o governo federal não respondeu 81 e-mails da Pfizer (ofertas desde ago/2020) e a CPI listou 11 recusas a ofertas de vacina; os pedidos de indiciamento da CPI não têm efeito jurídico direto e cabiam à PGR e aos MPs."
     },
     {
-      "pergunta": "O gasto federal com saúde cresceu ou caiu?",
-      "resposta": "Como proporção do PIB ficou perto de 2% fora da pandemia (2,16% em 2019). Subiu 19,6% em termos reais em 2020, ficou 14,9% acima de 2019 em 2021 e voltou ao patamar pré-pandemia em 2022 (cerca de R$ 190 bi). Entre 2003 e 2017, o gasto da União cresceu 89,3% em termos reais; o dos estados, 130%; o dos municípios, 168,7%."
+      "pergunta": "O gasto público com saúde cresceu ou caiu?",
+      "resposta": "O gasto federal ficou perto de 2% do PIB fora da pandemia (2,16% em 2019); subiu 19,6% em termos reais em 2020, ficou 14,9% acima de 2019 em 2021 e voltou ao patamar pré-pandemia em 2022 (cerca de R$ 190 bi). O gasto público de todos os níveis (OMS/GHED) subiu de 3,51% do PIB (2003) para 4,29% (2023), com pico de 4,31% em 2021 — ou seja, a expansão veio de estados e municípios (1,5 a 2,3 pontos do PIB). Entre 2003 e 2017, o gasto da União cresceu 89,3% em termos reais; o dos estados, 130%; o dos municípios, 168,7%."
     },
     {
       "pergunta": "O Mais Médicos acabou?",
@@ -455,6 +526,12 @@
       "tier": "imprensa"
     },
     {
+      "nome": "Banco Mundial/OMS GHED — gasto público em saúde em % do PIB, SH.XPD.GHED.GD.ZS, Brasil 2003–2023",
+      "url": "https://api.worldbank.org/v2/country/BRA/indicator/SH.XPD.GHED.GD.ZS?format=json&per_page=100&date=2003:2023",
+      "acesso_em": "2026-10-21",
+      "tier": "multilateral"
+    },
+    {
       "nome": "NSC Total (IBGE, Tábua de Mortalidade 2024)",
       "url": "https://www.nsctotal.com.br/?p=7739876",
       "acesso_em": "2026-10-21",
@@ -471,6 +548,18 @@
       "url": "https://jovempan.com.br/noticias/brasil/expectativa-de-vida-do-brasileiro-sobe-para-766-anos-em-2024.html",
       "acesso_em": "2026-10-21",
       "tier": "imprensa"
+    },
+    {
+      "nome": "Banco Mundial/UN IGME — mortalidade infantil, SP.DYN.IMRT.IN, Brasil 2003–2024",
+      "url": "https://api.worldbank.org/v2/country/BRA/indicator/SP.DYN.IMRT.IN?format=json&per_page=100&date=2003:2024",
+      "acesso_em": "2026-10-21",
+      "tier": "multilateral"
+    },
+    {
+      "nome": "Banco Mundial/UN WPP — expectativa de vida ao nascer, SP.DYN.LE00.IN, Brasil 2003–2024",
+      "url": "https://api.worldbank.org/v2/country/BRA/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2003:2024",
+      "acesso_em": "2026-10-21",
+      "tier": "multilateral"
     },
     {
       "nome": "Portal de Boas Práticas IFF/Fiocruz — retomada da cobertura vacinal",
@@ -527,6 +616,12 @@
       "tier": "imprensa"
     },
     {
+      "nome": "OMS — WHO COVID-19 dashboard, global table data (CSV, acesso 21/10/2026)",
+      "url": "https://srhdpeuwpubsa.blob.core.windows.net/whdh/COVID/WHO-COVID-19-global-table-data.csv",
+      "acesso_em": "2026-10-21",
+      "tier": "multilateral"
+    },
+    {
       "nome": "Wikipédia pt — CPI da Pandemia",
       "url": "https://pt.wikipedia.org/wiki/CPI_da_Pandemia",
       "acesso_em": "2026-10-21",
@@ -539,8 +634,26 @@
       "tier": "imprensa"
     },
     {
+      "nome": "Senado — relatório final da CPI da Pandemia (PDF, 26/10/2021)",
+      "url": "https://legis.senado.leg.br/sdleg-getter/documento/download/72c805d3-888b-4228-8682-260175471243",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
       "nome": "CartaCapital — 700 mil mortes por covid",
       "url": "https://www.cartacapital.com.br/saude/covid-19-tres-anos-apos-primeira-morte-brasil-alcanca-a-marca-de-700-mil-mortes-pela-doenca/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Brasil 61 (dados do Ministério da Saúde), 23/12/2025 — dengue 2025",
+      "url": "https://brasil61.com/n/brasil-registra-1-66-milhao-de-casos-provaveis-de-dengue-em-2025-bras2515393",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Poder360, 02/10/2025 — painel do MS, semana epidemiológica 39",
+      "url": "https://www.poder360.com.br/poder-saude/brasil-soma-16-milhao-de-casos-de-dengue-sp-tem-maior-no-de-mortes/",
       "acesso_em": "2026-10-21",
       "tier": "imprensa"
     },
@@ -558,10 +671,11 @@
     }
   ],
   "lacunas": [
-    "Tabela oficial única com gasto de cada ente em % do PIB por ano não localizada.",
-    "Série anual do SI-PNI por vacina (2015–2025) e balanço fechado de 2025 não obtidos.",
-    "Dados de Farmácia Popular, leitos SUS, UPAs e tempo de fila não localizados (portal do MS indisponível por legislação eleitoral).",
-    "Desfecho dos pedidos da CPI da Pandemia na PGR não confirmado."
+    "Gasto federal executado em saúde por ano (R$ e % do PIB) não obtido; a série GHED/OMS cobre todos os níveis juntos.",
+    "Série anual do SI-PNI por vacina (2015–2025) e balanço fechado de 2025 não obtidos (TabNet legado descontinuado).",
+    "Dados de Farmácia Popular, leitos SUS, UPAs, Mais Médicos por ano e tempo de fila não localizados.",
+    "Desfecho dos pedidos da CPI da Pandemia na PGR não confirmado; excesso de mortalidade (OMS 2022) não acessado.",
+    "Séries anuais de mortalidade infantil e expectativa de vida vêm de UN IGME/UN WPP (Banco Mundial), não do IBGE."
   ],
   "atualizado_em": "2026-10-21",
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/07_saude_seguranca_educacao_infra_ambiente.md"

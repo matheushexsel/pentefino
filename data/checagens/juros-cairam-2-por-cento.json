@@ -31,7 +31,7 @@
     "A frase de que os juros caíram 2% não corresponde ao dado oficial, e o Aos Fatos a considerou incorreta.",
     "O mercado espera Selic de 13,25% no fim de 2026, o que ainda deixaria a queda do ano em 1,75 ponto."
   ],
-  "explicacao_completa_md": "## O ciclo de cortes de 2026 (BCB, SGS 432 e histórico do Copom)\n\n19/03/2026: 14,75% | 30/04/2026: 14,50% | 18/06/2026: 14,25% | 06/08/2026: 14,00% | 17/09/2026: 13,75% (vigente em 21/10/2026). Total: −1,25 ponto a partir dos 15,00% vigentes desde 19/06/2025.\n\n## Projeção\n\nFocus (16/10/2026): Selic de 13,25% no fim de 2026 e 12,00% no fim de 2027. A IFI projeta 14,0% no fim de 2026. Mesmo no cenário do Focus a queda do ano seria de 1,75 ponto, inferior a 2.",
+  "explicacao_completa_md": "## O ciclo de cortes de 2026 (BCB, SGS 432 e histórico do Copom)\n\n19/03/2026: 14,75% | 30/04/2026: 14,50% | 18/06/2026: 14,25% | 06/08/2026: 14,00% | 17/09/2026: 13,75% (vigente em 21/10/2026). Total: −1,25 ponto a partir dos 15,00% vigentes desde 20/06/2025 (271ª reunião, 18/06/2025).\n\n## Projeção\n\nFocus (16/10/2026): Selic de 13,25% no fim de 2026 e 12,00% no fim de 2027. A IFI projeta 14,0% no fim de 2026. Mesmo no cenário do Focus a queda do ano seria de 1,75 ponto, inferior a 2.",
   "o_que_e_verdade": [
     "A Selic está em ciclo de queda desde mar/2026: cinco cortes, de 15,00% para 13,75%."
   ],
@@ -50,7 +50,7 @@
       "rotulo": "Meta Selic antes do ciclo de cortes",
       "valor": 15.0,
       "unidade": "% ao ano",
-      "periodo": "19/06/2025 a 18/03/2026",
+      "periodo": "20/06/2025 a 18/03/2026",
       "fonte": {
         "nome": "Banco Central do Brasil – SGS 432 (meta Selic)",
         "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.432/dados?formato=json&dataInicial=01/01/2018&dataFinal=21/10/2026",
@@ -138,7 +138,7 @@
     },
     {
       "pergunta": "Quando a próxima reunião?",
-      "resposta": "A 282ª reunião está prevista para novembro de 2026 (data não verificada em fonte oficial pela nota)."
+      "resposta": "Fontes secundárias indicam a 282ª reunião em 3-4/11/2026 (decisão em 04/11) e a 283ª em 8-9/12/2026; o calendário oficial não pôde ser lido pela nota."
     },
     {
       "pergunta": "Dois por cento e dois pontos percentuais são a mesma coisa?",
@@ -154,6 +154,10 @@
     {
       "data": "2026-10-21",
       "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "enriquecimento rodada 2: data de vigência dos 15% corrigida (20/06/2025); calendário do Copom (fonte secundária)"
     }
   ],
   "exemplo": false

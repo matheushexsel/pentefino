@@ -29,20 +29,20 @@
     "pnad"
   ],
   "veredito": "exagerado",
-  "resumo_uma_frase": "Pelo Novo Caged (Ipeadata), o saldo de empregos formais de 2023 a ago/2026 é de cerca de 5,5 milhões, próximo dos ~5,6 milhões de 2019-2022; os 10,6 milhões não aparecem em nenhuma base pública localizada, e as duas séries do Caged nem sequer são comparáveis entre si pela quebra de 2020.",
+  "resumo_uma_frase": "Pela série oficial do Caged com ajustes (MTE), o saldo de 2023 a ago/2026 é de 5,55 milhões, próximo dos 5,25 milhões de 2019-2022; os 10,6 milhões não aparecem em nenhuma base pública localizada, e as duas séries do Caged nem sequer são comparáveis entre si pela quebra de 2020.",
   "explicacao_simples": [
-    "O Novo Caged soma cerca de 5,5 milhões de empregos com carteira criados entre 2023 e agosto de 2026, metade do número divulgado pelo PT.",
-    "O governo Bolsonaro somou cerca de 5,6 milhões pelo Caged, mas a série mudou em 2020 e inclui a queda e a recuperação da pandemia, o que impede comparação direta.",
+    "A série oficial do Caged soma 5,55 milhões de empregos com carteira criados entre 2023 e agosto de 2026, pouco mais da metade do número divulgado pelo PT.",
+    "O governo Bolsonaro somou 5,25 milhões pela mesma série, mas ela mudou em 2020 e inclui a queda e a recuperação da pandemia, o que impede comparação direta.",
     "O estoque de carteira assinada é recorde, com 48,2 milhões de vínculos, e a população ocupada chegou a 103,5 milhões."
   ],
-  "explicacao_completa_md": "## O que as bases mostram\n\n- **Novo Caged (Ipeadata, soma dos saldos mensais)**: 2023 +1.478.340; 2024 +1.676.514; 2025 +1.256.997; jan-ago/2026 +1.124.267 — cerca de 5,5 milhões. Fechamento oficial de 2025 (MTE): +1.279.498, pior ano da série nova fora da pandemia.\n- **Governo Bolsonaro**: 2019 (Caged antigo) +559.626; 2020 +171.266; 2021 +2.852.413; 2022 +2.011.366 — cerca de 5,6 milhões, mas 2020-2021 inclui a perda e a recuperação da pandemia.\n- **PNAD Contínua (ocupados)**: de 97,5 milhões (4T2022) para 103,1 milhões (2T2026) e 103,5 milhões (trimestre até ago/2026).\n\nNenhuma dessas bases produz 10,6 milhões. A nota de pesquisa registra o número como 'ponto a checar' e não localizou checagem publicada.\n\n## Por que a comparação é frágil\n\nO MTE grafa que 'os dados de 2002 a 2019 são do Caged e a partir de 2020 do Novo Caged', série 'não diretamente comparável'. O Comprova (2023) ouviu especialista segundo o qual tabelas que somam as duas séries 'não deveriam' ser usadas para comparar governos.",
+  "explicacao_completa_md": "## O que as bases mostram\n\n- **Novo Caged (Ipeadata, soma dos saldos mensais)**: 2023 +1.478.340; 2024 +1.676.514; 2025 +1.256.997; jan-ago/2026 +1.124.267 — cerca de 5,5 milhões. Fechamento oficial de 2025 (MTE): +1.279.498, pior ano da série nova fora da pandemia.\n- **Série oficial 'com ajustes' (MTE)**: Lula 3 (2023-2025) +4.412.352, ou +5.546.385 com jan-ago/2026; Bolsonaro (2019-2022) +5.251.875 (2019 +644.079; 2020 −189.393; 2021 +2.782.295; 2022 +2.014.894) — 2020-2021 inclui a perda e a recuperação da pandemia.\n- **PNAD Contínua (ocupados)**: de 97,5 milhões (4T2022) para 103,1 milhões (2T2026) e 103,5 milhões (trimestre até ago/2026).\n\nNenhuma dessas bases produz 10,6 milhões. A nota de pesquisa registra o número como 'ponto a checar' e não localizou checagem publicada.\n\n## Por que a comparação é frágil\n\nO MTE grafa que 'os dados de 2002 a 2019 são do Caged e a partir de 2020 do Novo Caged', série 'não diretamente comparável'. O Comprova (2023) ouviu especialista segundo o qual tabelas que somam as duas séries 'não deveriam' ser usadas para comparar governos.",
   "o_que_e_verdade": [
     "O estoque de vínculos formais é recorde (48.244.696 em ago/2026) e a população ocupada chegou a 103,5 milhões.",
     "O saldo anual do Novo Caged foi positivo em todos os anos de Lula 3 (+1,48 milhão em 2023, +1,68 milhão em 2024, +1,26 milhão em 2025)."
   ],
   "o_que_nao_se_sustenta": [
-    "A soma do Novo Caged de 2023 a ago/2026 é de cerca de 5,5 milhões, não 10,6 milhões; a variação de ocupados da PNAD também fica em torno de 6 milhões.",
-    "Comparar com 'cerca de 6 milhões no governo anterior' mistura o Caged antigo (2019) com o Novo Caged (2020-2022) e inclui o choque da pandemia.",
+    "A soma do Caged oficial de 2023 a ago/2026 é de 5,55 milhões (5,5 milhões sem ajustes), não 10,6 milhões; a variação de ocupados da PNAD também fica em torno de 6 milhões.",
+    "Comparar com 'cerca de 6 milhões no governo anterior' (5,25 milhões na série oficial) mistura o Caged antigo (2019) com o Novo Caged (2020-2022) e inclui o choque da pandemia.",
     "2025 teve o menor saldo da série nova fora da pandemia (+1,28 milhão), sinal de desaceleração sob juros altos."
   ],
   "quem_e_responsavel": [
@@ -167,6 +167,54 @@
         "rotulo": "4T2022",
         "valor": 97517
       }
+    },
+    {
+      "rotulo": "Saldo do Caged com ajustes em Lula 3 (soma da nota)",
+      "valor": 4412352,
+      "unidade": "vínculos",
+      "periodo": "2023-2025",
+      "fonte": {
+        "nome": "MTE – Novo Caged, Apresentação dezembro de 2025 (PDF, saldos 2002-2025 'com ajustes')",
+        "url": "https://www.gov.br/trabalho-e-emprego/pt-br/assuntos/estatisticas-trabalho/novo-caged/2025/dezembro/apresentacao-dezembro-de-2025-1.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "Com jan-ago/2026",
+        "valor": 5546385
+      }
+    },
+    {
+      "rotulo": "Saldo do Caged com ajustes no governo Bolsonaro (soma da nota)",
+      "valor": 5251875,
+      "unidade": "vínculos",
+      "periodo": "2019-2022",
+      "fonte": {
+        "nome": "MTE – Novo Caged, Apresentação dezembro de 2025 (PDF, saldos 2002-2025 'com ajustes')",
+        "url": "https://www.gov.br/trabalho-e-emprego/pt-br/assuntos/estatisticas-trabalho/novo-caged/2025/dezembro/apresentacao-dezembro-de-2025-1.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "2020 (Novo Caged)",
+        "valor": -189393
+      }
+    },
+    {
+      "rotulo": "Estoque de vínculos (MTE, com ajustes)",
+      "valor": 48474348,
+      "unidade": "vínculos",
+      "periodo": "dez/2025",
+      "fonte": {
+        "nome": "MTE – Novo Caged, Apresentação dezembro de 2025 (PDF, saldos 2002-2025 'com ajustes')",
+        "url": "https://www.gov.br/trabalho-e-emprego/pt-br/assuntos/estatisticas-trabalho/novo-caged/2025/dezembro/apresentacao-dezembro-de-2025-1.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "dez/2022",
+        "valor": 44062000
+      }
     }
   ],
   "series": [
@@ -218,13 +266,25 @@
       "url": "https://www.correiobraziliense.com.br/holofote/2023/09/amp/5122576-publicacao-engana-ao-comparar-dados-de-empregos-de-lula-e-dilma-com-bolsonaro.html",
       "acesso_em": "2026-10-21",
       "tier": "checagem"
+    },
+    {
+      "nome": "MTE – Novo Caged, Apresentação dezembro de 2025 (PDF, saldos 2002-2025 'com ajustes')",
+      "url": "https://www.gov.br/trabalho-e-emprego/pt-br/assuntos/estatisticas-trabalho/novo-caged/2025/dezembro/apresentacao-dezembro-de-2025-1.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "MTE – Novo Caged: emprego formal gera 165,8 mil vagas em agosto e acumula 1,13 milhão no ano (29/09/2026)",
+      "url": "https://www.gov.br/trabalho-e-emprego/pt-br/noticias-e-conteudo/2026/setembro/novo-caged-emprego-formal-gera-165-8-mil-vagas-em-agosto-e-acumula-1-13-milhao-de-postos-no-ano",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/03_emprego_renda_pobreza_social.md",
   "perguntas_frequentes": [
     {
       "pergunta": "De onde vem o número de 10,6 milhões?",
-      "resposta": "Não foi possível identificar. O Novo Caged soma cerca de 5,5 milhões de 2023 a ago/2026, e a PNAD mostra alta de cerca de 6 milhões de ocupados desde o fim de 2022."
+      "resposta": "Não foi possível identificar. A série oficial do Caged soma 5,55 milhões de 2023 a ago/2026 e a PNAD mostra alta de cerca de 6 milhões de ocupados desde o fim de 2022."
     },
     {
       "pergunta": "É possível comparar Lula 3 com Bolsonaro no Caged?",
@@ -248,6 +308,10 @@
     {
       "data": "2026-10-21",
       "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "enriquecimento rodada 2: série oficial do Caged com ajustes por governo (Lula 3 5,55 mi; Bolsonaro 5,25 mi)"
     }
   ],
   "exemplo": false

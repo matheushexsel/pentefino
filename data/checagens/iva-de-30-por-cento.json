@@ -38,14 +38,16 @@
     "O número de 30% é uma projeção do próprio programa de Flávio, sem fonte oficial, e o projeto das alíquotas do Imposto Seletivo nem havia sido enviado ao Congresso em setembro de 2026.",
     "A alíquota final depende das exceções aprovadas pelo Congresso, que, segundo o secretário Bernard Appy, reduziram o espaço para o cashback aos mais pobres."
   ],
-  "explicacao_completa_md": "## O que está definido\n\nEC 132/2023 e LC 214/2025 (DOU de 16/01/2025): substituição de cinco tributos por CBS (federal) e IBS (estados e municípios), com transição de 2026 a 2033 (ICMS/ISS até 2032); cesta básica com 26 itens a alíquota zero; cashback para famílias do CadÚnico; Imposto Seletivo (cigarros, álcool, bebidas açucaradas, veículos, minerais, bets, embarcações e aeronaves) a partir de 2027. A LC 227/2026 (14/01/2026) regulamenta o Comitê Gestor do IBS e torna o ITCMD progressivo.\n\n## O que não está\n\n- Alíquotas de referência do IBS/CBS: não fixadas em out/2026.\n- Imposto Seletivo: em set/2026 a Fazenda mantinha o IS para 2027 'com alíquotas indefinidas' e estimativa de R$ 41,9 bilhões; o PLOA 2027 conta com R$ 42 bilhões de IS como receita condicionada 'cujo projeto sequer foi enviado' (IFI). A CBS entra no PLOA 2027 com R$ 636,8 bilhões (4,3% do PIB).\n\n## Avaliação\n\nO '30%' do plano de Flávio não tem fonte citada e não pode ser confrontado com uma alíquota oficial, que não existe; o próprio Flávio citou 20% como meta em jun/2026 e já falou em suspender a reforma por um ano. A nota registra que Appy admite que as exceções do Congresso reduziram o cashback. Por isso a afirmação é classificada como insustentável, não como falsa.",
+  "explicacao_completa_md": "## O que está definido\n\nEC 132/2023 e LC 214/2025 (DOU de 16/01/2025): substituição de cinco tributos por CBS (federal) e IBS (estados e municípios), com transição de 2026 a 2033 (ICMS/ISS até 2032); cesta básica com 26 itens a alíquota zero; cashback para famílias do CadÚnico; Imposto Seletivo (cigarros, álcool, bebidas açucaradas, veículos, minerais, bets, embarcações e aeronaves) a partir de 2027. A LC 227/2026 (14/01/2026) regulamenta o Comitê Gestor do IBS e torna o ITCMD progressivo.\n\n## O que a lei diz\n\nA alíquota de referência será fixada por resolução do Senado (ADCT art. 130; LC 214 arts. 14, 18 e 19) para manter a receita; o art. 475 da LC 214 (redação da LC 227/2026) prevê que, se a soma estimada das alíquotas de referência de 2033 superar 26,5%, o Executivo envie em 90 dias projeto para reduzi-la. Em 2026 valem alíquotas-teste de 0,9% (CBS) e 0,1% (IBS).\n\n## O que não está\n\n- Alíquotas de referência do IBS/CBS: não fixadas em out/2026.\n- Imposto Seletivo: em set/2026 a Fazenda mantinha o IS para 2027 'com alíquotas indefinidas' e estimativa de R$ 41,9 bilhões; o PLOA 2027 conta com R$ 42 bilhões de IS como receita condicionada 'cujo projeto sequer foi enviado' (IFI). A CBS entra no PLOA 2027 com R$ 636,8 bilhões (4,3% do PIB).\n\n## Avaliação\n\nO '30%' do plano de Flávio não tem fonte citada e não pode ser confrontado com uma alíquota oficial, que não existe; o próprio Flávio citou 20% como meta em jun/2026 e já falou em suspender a reforma por um ano. A nota registra que Appy admite que as exceções do Congresso reduziram o cashback. Por isso a afirmação é classificada como insustentável, não como falsa.",
   "o_que_e_verdade": [
     "A reforma do consumo está em transição (2026-2033) e as alíquotas de referência do IBS/CBS e do Imposto Seletivo não estavam fixadas em out/2026.",
-    "As exceções aprovadas pelo Congresso tendem a elevar a alíquota padrão e reduziram o espaço do cashback, segundo Bernard Appy."
+    "As exceções aprovadas pelo Congresso tendem a elevar a alíquota padrão e reduziram o espaço do cashback, segundo Bernard Appy.",
+    "A lei não fixa a alíquota, mas contém uma trava: se a avaliação quinquenal estimar alíquotas de referência somadas acima de 26,5% em 2033, o Executivo deve enviar projeto para reduzi-las (LC 214, art. 475); os 26,5% a 28% divulgados são estimativas da Fazenda e do Senado, não parâmetro legal."
   ],
   "o_que_nao_se_sustenta": [
     "Não há alíquota oficial de 30%; o número é projeção do próprio plano, sem fonte.",
-    "A comparação com '19% de média da OCDE' não é verificável sem a alíquota brasileira definida."
+    "A comparação com '19% de média da OCDE' não é verificável sem a alíquota brasileira definida.",
+    "Um IVA de 30% ficaria acima do gatilho legal de 26,5%, que obrigaria o governo a propor cortes de regimes favorecidos; a alíquota de referência será fixada por resolução do Senado para manter a receita."
   ],
   "quem_e_responsavel": [
     {
@@ -154,6 +156,51 @@
         "rotulo": "10% mais ricos",
         "valor": 10
       }
+    },
+    {
+      "rotulo": "Trava legal: gatilho de revisão se a soma das alíquotas de referência superar (LC 214, art. 475, redação da LC 227/2026)",
+      "valor": 26.5,
+      "unidade": "%",
+      "periodo": "avaliação quinquenal, estimativa para 2033",
+      "fonte": {
+        "nome": "Planalto – Lei Complementar 214/2025 (IBS, CBS e Imposto Seletivo), texto compilado",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp214.htm",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "Projeção do plano de Flávio",
+        "valor": 30
+      }
+    },
+    {
+      "rotulo": "Alíquota-teste da CBS em 2026 (ADCT, art. 125)",
+      "valor": 0.9,
+      "unidade": "%",
+      "periodo": "2026",
+      "fonte": {
+        "nome": "Planalto – Lei Complementar 214/2025 (IBS, CBS e Imposto Seletivo), texto compilado",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp214.htm",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "IBS (%)",
+        "valor": 0.1
+      }
+    },
+    {
+      "rotulo": "Teto legal do Imposto Seletivo sobre bens minerais (LC 214, redação da LC 227/2026)",
+      "valor": 0.25,
+      "unidade": "%",
+      "periodo": "a partir de 2027",
+      "fonte": {
+        "nome": "Planalto – Lei Complementar 214/2025 (IBS, CBS e Imposto Seletivo), texto compilado",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp214.htm",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": null
     }
   ],
   "series": [
@@ -208,6 +255,12 @@
       "url": "https://monitormercantil.com.br/appy-congresso-reduziu-espaco-para-cashback-na-reforma-tributaria/",
       "acesso_em": "2026-10-21",
       "tier": "imprensa"
+    },
+    {
+      "nome": "Planalto – Lei Complementar 214/2025 (IBS, CBS e Imposto Seletivo), texto compilado",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp214.htm",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/12_pix_fake_news_e_impostos_quem_paga.md",
@@ -235,13 +288,17 @@
     "impostos-do-lula-so-atingem-super-ricos"
   ],
   "lacunas": [
-    "PDF do plano de Flávio no TSE retornou 403; leitura via agregador. Calendário detalhado 2026-2033 e artigos exatos do cashback (100%/20%) não verificados no texto legal."
+    "PDF do plano de Flávio no TSE retornou 403 (leitura via agregador). Não há projeto do Executivo com as alíquotas do Imposto Seletivo protocolado até 21/10/2026 (busca na API da Câmara); a 'alíquota estimada' de 26,5%-28% é da Fazenda/Senado, não da lei."
   ],
   "atualizado_em": "2026-10-21",
   "changelog": [
     {
       "data": "2026-10-21",
       "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "enriquecimento rodada 2: texto da LC 214/LC 227 (trava de 26,5%, alíquotas-teste, resolução do Senado), ausência de PL do IS"
     }
   ],
   "exemplo": false

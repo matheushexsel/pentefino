@@ -1,0 +1,371 @@
+{
+  "id": "mvi-por-uf-2025",
+  "titulo": "Mortes violentas intencionais por estado (taxa 2025)",
+  "descricao_simples": "Taxa de mortes violentas intencionais por 100 mil habitantes em cada unidade da federação em 2025, com o número absoluto, a variação frente a 2024 e as mortes por intervenção policial. Amapá (42,5), Bahia (36,8) e Ceará (34,7) têm as maiores taxas; Santa Catarina (7,6) e São Paulo (7,8), as menores.",
+  "unidade": "mortes por 100 mil habitantes",
+  "tipo_grafico": "barra",
+  "frequencia": "anual",
+  "fonte": {
+    "nome": "Anuário Brasileiro de Segurança Pública 2026 (FBSP)",
+    "url": "https://static.poder360.com.br/uploads/2026/07/anuario-seguranca-publica-23jul26.pdf",
+    "acesso_em": "2026-10-21",
+    "tier": "academico"
+  },
+  "pontos": [
+    {
+      "periodo": "Brasil",
+      "valor": 19.1,
+      "detalhe": {
+        "mvi_2024": 44220,
+        "mvi_2025": 40775,
+        "taxa_2024": 20.8,
+        "variacao_pct": -8.2,
+        "mdip_2024": 6237,
+        "mdip_2025": 6602
+      }
+    },
+    {
+      "periodo": "Acre",
+      "valor": 21.6,
+      "detalhe": {
+        "mvi_2024": 179,
+        "mvi_2025": 191,
+        "taxa_2024": 20.3,
+        "variacao_pct": 6.3,
+        "mdip_2024": 10,
+        "mdip_2025": 9
+      }
+    },
+    {
+      "periodo": "Alagoas",
+      "valor": 33.1,
+      "detalhe": {
+        "mvi_2024": 1141,
+        "mvi_2025": 1066,
+        "taxa_2024": 35.4,
+        "variacao_pct": -6.6,
+        "mdip_2024": 75,
+        "mdip_2025": 116
+      }
+    },
+    {
+      "periodo": "Amapá",
+      "valor": 42.5,
+      "detalhe": {
+        "mvi_2024": 363,
+        "mvi_2025": 343,
+        "taxa_2024": 45.2,
+        "variacao_pct": -5.9,
+        "mdip_2024": 137,
+        "mdip_2025": 138
+      }
+    },
+    {
+      "periodo": "Amazonas",
+      "valor": 18.5,
+      "detalhe": {
+        "mvi_2024": 1173,
+        "mvi_2025": 799,
+        "taxa_2024": 27.4,
+        "variacao_pct": -32.5,
+        "mdip_2024": 43,
+        "mdip_2025": 40
+      }
+    },
+    {
+      "periodo": "Bahia",
+      "valor": 36.8,
+      "detalhe": {
+        "mvi_2024": 6047,
+        "mvi_2025": 5473,
+        "taxa_2024": 40.7,
+        "variacao_pct": -9.6,
+        "mdip_2024": 1556,
+        "mdip_2025": 1570
+      }
+    },
+    {
+      "periodo": "Ceará",
+      "valor": 34.7,
+      "detalhe": {
+        "mvi_2024": 3467,
+        "mvi_2025": 3220,
+        "taxa_2024": 37.5,
+        "variacao_pct": -7.5,
+        "mdip_2024": 189,
+        "mdip_2025": 197
+      }
+    },
+    {
+      "periodo": "Distrito Federal",
+      "valor": 9.6,
+      "detalhe": {
+        "mvi_2024": 270,
+        "mvi_2025": 287,
+        "taxa_2024": 9.1,
+        "variacao_pct": 5.8,
+        "mdip_2024": 15,
+        "mdip_2025": 14
+      }
+    },
+    {
+      "periodo": "Espírito Santo",
+      "valor": 22.0,
+      "detalhe": {
+        "mvi_2024": 984,
+        "mvi_2025": 907,
+        "taxa_2024": 24.0,
+        "variacao_pct": -8.4,
+        "mdip_2024": 78,
+        "mdip_2025": 73
+      }
+    },
+    {
+      "periodo": "Goiás",
+      "valor": 16.5,
+      "detalhe": {
+        "mvi_2024": 1386,
+        "mvi_2025": 1222,
+        "taxa_2024": 18.9,
+        "variacao_pct": -12.7,
+        "mdip_2024": 373,
+        "mdip_2025": 362
+      }
+    },
+    {
+      "periodo": "Maranhão",
+      "valor": 29.7,
+      "detalhe": {
+        "mvi_2024": 2126,
+        "mvi_2025": 2082,
+        "taxa_2024": 30.3,
+        "variacao_pct": -2.2,
+        "mdip_2024": 76,
+        "mdip_2025": 140
+      }
+    },
+    {
+      "periodo": "Mato Grosso",
+      "valor": 22.9,
+      "detalhe": {
+        "mvi_2024": 1142,
+        "mvi_2025": 890,
+        "taxa_2024": 29.8,
+        "variacao_pct": -23.2,
+        "mdip_2024": 214,
+        "mdip_2025": 142
+      }
+    },
+    {
+      "periodo": "Mato Grosso do Sul",
+      "valor": 20.2,
+      "detalhe": {
+        "mvi_2024": 559,
+        "mvi_2025": 591,
+        "taxa_2024": 19.3,
+        "variacao_pct": 4.9,
+        "mdip_2024": 67,
+        "mdip_2025": 75
+      }
+    },
+    {
+      "periodo": "Minas Gerais",
+      "valor": 12.9,
+      "detalhe": {
+        "mvi_2024": 3219,
+        "mvi_2025": 2770,
+        "taxa_2024": 15.1,
+        "variacao_pct": -14.2,
+        "mdip_2024": 200,
+        "mdip_2025": 207
+      }
+    },
+    {
+      "periodo": "Pará",
+      "valor": 28.4,
+      "detalhe": {
+        "mvi_2024": 2559,
+        "mvi_2025": 2477,
+        "taxa_2024": 29.5,
+        "variacao_pct": -3.7,
+        "mdip_2024": 598,
+        "mdip_2025": 632
+      }
+    },
+    {
+      "periodo": "Paraíba",
+      "valor": 24.6,
+      "detalhe": {
+        "mvi_2024": 1060,
+        "mvi_2025": 1023,
+        "taxa_2024": 25.6,
+        "variacao_pct": -3.9,
+        "mdip_2024": 55,
+        "mdip_2025": 58
+      }
+    },
+    {
+      "periodo": "Paraná",
+      "valor": 15.5,
+      "detalhe": {
+        "mvi_2024": 2170,
+        "mvi_2025": 1844,
+        "taxa_2024": 18.4,
+        "variacao_pct": -15.5,
+        "mdip_2024": 400,
+        "mdip_2025": 482
+      }
+    },
+    {
+      "periodo": "Pernambuco",
+      "valor": 33.0,
+      "detalhe": {
+        "mvi_2024": 3474,
+        "mvi_2025": 3159,
+        "taxa_2024": 36.4,
+        "variacao_pct": -9.3,
+        "mdip_2024": 78,
+        "mdip_2025": 103
+      }
+    },
+    {
+      "periodo": "Piauí",
+      "valor": 17.1,
+      "detalhe": {
+        "mvi_2024": 685,
+        "mvi_2025": 579,
+        "taxa_2024": 20.3,
+        "variacao_pct": -15.7,
+        "mdip_2024": 30,
+        "mdip_2025": 29
+      }
+    },
+    {
+      "periodo": "Rio de Janeiro",
+      "valor": 22.6,
+      "detalhe": {
+        "mvi_2024": 3809,
+        "mvi_2025": 3890,
+        "taxa_2024": 22.1,
+        "variacao_pct": 2.1,
+        "mdip_2024": 703,
+        "mdip_2025": 798
+      }
+    },
+    {
+      "periodo": "Rio Grande do Norte",
+      "valor": 29.1,
+      "detalhe": {
+        "mvi_2024": 840,
+        "mvi_2025": 1007,
+        "taxa_2024": 24.4,
+        "variacao_pct": 19.6,
+        "mdip_2024": 91,
+        "mdip_2025": 137
+      }
+    },
+    {
+      "periodo": "Rio Grande do Sul",
+      "valor": 11.3,
+      "detalhe": {
+        "mvi_2024": 1704,
+        "mvi_2025": 1266,
+        "taxa_2024": 15.2,
+        "variacao_pct": -25.7,
+        "mdip_2024": 147,
+        "mdip_2025": 76
+      }
+    },
+    {
+      "periodo": "Rondônia",
+      "valor": 28.1,
+      "detalhe": {
+        "mvi_2024": 457,
+        "mvi_2025": 493,
+        "taxa_2024": 26.2,
+        "variacao_pct": 7.5,
+        "mdip_2024": 8,
+        "mdip_2025": 47
+      }
+    },
+    {
+      "periodo": "Roraima",
+      "valor": 19.5,
+      "detalhe": {
+        "mvi_2024": 132,
+        "mvi_2025": 144,
+        "taxa_2024": 18.4,
+        "variacao_pct": 5.8,
+        "mdip_2024": 7,
+        "mdip_2025": 3
+      }
+    },
+    {
+      "periodo": "Santa Catarina",
+      "valor": 7.6,
+      "detalhe": {
+        "mvi_2024": 689,
+        "mvi_2025": 622,
+        "taxa_2024": 8.6,
+        "variacao_pct": -11.1,
+        "mdip_2024": 79,
+        "mdip_2025": 100
+      }
+    },
+    {
+      "periodo": "São Paulo",
+      "valor": 7.8,
+      "detalhe": {
+        "mvi_2024": 3751,
+        "mvi_2025": 3615,
+        "taxa_2024": 8.2,
+        "variacao_pct": -3.9,
+        "mdip_2024": 813,
+        "mdip_2025": 835
+      }
+    },
+    {
+      "periodo": "Sergipe",
+      "valor": 22.1,
+      "detalhe": {
+        "mvi_2024": 522,
+        "mvi_2025": 508,
+        "taxa_2024": 22.8,
+        "variacao_pct": -3.0,
+        "mdip_2024": 145,
+        "mdip_2025": 193
+      }
+    },
+    {
+      "periodo": "Tocantins",
+      "valor": 19.3,
+      "detalhe": {
+        "mvi_2024": 312,
+        "mvi_2025": 307,
+        "taxa_2024": 19.8,
+        "variacao_pct": -2.2,
+        "mdip_2024": 50,
+        "mdip_2025": 26
+      }
+    }
+  ],
+  "faixas_referencia": [
+    {
+      "rotulo": "Brasil 2025",
+      "valor": 19.1
+    }
+  ],
+  "notas_metodologicas": [
+    "Anuário 2026, Tabela 01. O 'valor' é a taxa de MVI por 100 mil em 2025; o campo 'detalhe' traz MVI de 2024 e 2025, taxa de 2024, variação percentual e mortes decorrentes de intervenção policial (MDIP).",
+    "Sete UFs tiveram alta em 2025: RN (+19,6%), RO (+7,5%), AC (+6,3%), RR (+5,8%), DF (+5,8%), MS (+4,9%) e RJ (+2,1%). Maiores quedas: AM (-32,5%), RS (-25,7%), MT (-23,2%).",
+    "Taxas de letalidade policial por 100 mil em 2025: Amapá 17,1; Bahia 10,6; Sergipe 8,4; Pará 7,3; menores: Roraima 0,4; DF 0,5; RS 0,7; Piauí 0,9; Amazonas 0,9.",
+    "Responsabilidade: polícias e presídios são estaduais; as diferenças entre UFs refletem sobretudo políticas estaduais, dinâmica de facções e demografia."
+  ],
+  "ultimo_periodo": "2025",
+  "temas": [
+    "seguranca"
+  ],
+  "lacunas": [],
+  "atualizado_em": "2026-10-21",
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/07_saude_seguranca_educacao_infra_ambiente.md"
+}

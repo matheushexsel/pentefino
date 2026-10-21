@@ -1,0 +1,137 @@
+{
+  "id": "chk-1055",
+  "slug": "unico-pais-do-g20-com-superavit-primario",
+  "frase": "O Brasil foi o único país do G20 a ter superávit primário de 2003 a 2010",
+  "frase_normalizada": "Nenhum outro país do G20 teve superávit primário entre 2003 e 2010",
+  "variantes": [
+    "Fomos o único país do G20 no azul"
+  ],
+  "autor": {
+    "nome": "Luiz Inácio Lula da Silva",
+    "partido": "PT",
+    "cargo": "presidente da República e candidato à reeleição"
+  },
+  "lado": "governo-lula-pt",
+  "alvo": null,
+  "data": "2026-10-04",
+  "onde": "Discurso após a confirmação do 2º turno (04/10/2026)",
+  "url_declaracao": "https://www.agencialupa.org/checagem/2026/10/04/apos-confirmacao-do-2o-turno-lula-erra-sobre-superavit-e-flavio-sobre-reeleicao-e-endividamento/",
+  "temas": [
+    "contas-publicas",
+    "eleicao-2026"
+  ],
+  "tags": [
+    "superavit-primario",
+    "g20"
+  ],
+  "veredito": "falso",
+  "resumo_uma_frase": "O Brasil teve superávit primário em todos os anos de 2003 a 2010, mas não foi o único do G20: a Argentina também teve, segundo a Lupa, que classificou a frase como falsa.",
+  "explicacao_simples": [
+    "É verdade que o Brasil teve superávit primário em todos os anos de 2003 a 2010.",
+    "Mas a Argentina, que também integra o G20, teve superávit primário no mesmo período, segundo a checagem da Lupa.",
+    "Por isso a parte 'único país do G20' é falsa, embora o desempenho fiscal brasileiro no período tenha sido real."
+  ],
+  "explicacao_completa_md": "## Avaliação\n\nA Lupa (04/10/2026) classificou a frase como FALSO: a Argentina também teve superávit primário em 2003-2010. A base factual sobre o Brasil está correta (superávits de 3,24% a 1,94% do PIB pelo BCB; ver 'superavit-primario-nos-8-anos-de-lula').\n\n## Contexto\n\nA nota de pesquisa não traz série fiscal de outros países do G20 para 2003-2010; a comparação disponível no FMI (Fiscal Monitor) cobre 2022-2028, quando o Brasil teve primário de +1,3% (2022) a −0,5% (2026) contra média dos emergentes de −3,5% a −3,9%.",
+  "o_que_e_verdade": [
+    "O Brasil teve superávit primário em todos os anos de 2003 a 2010."
+  ],
+  "o_que_nao_se_sustenta": [
+    "A Argentina, membro do G20, também teve superávit primário no período, segundo a Lupa."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Lula (campanha)",
+      "papel": "generalização sem base para o G20",
+      "peso": "alto"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Resultado primário do setor público consolidado do Brasil",
+      "valor": 3.24,
+      "unidade": "% do PIB",
+      "periodo": "2003",
+      "fonte": {
+        "nome": "Banco Central do Brasil – SGS 5793 (resultado primário do setor público, 12 meses, % PIB)",
+        "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.5793/dados?formato=json",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "2010",
+        "valor": 2.62
+      }
+    },
+    {
+      "rotulo": "Resultado primário do governo geral do Brasil (FMI, Tabela A10)",
+      "valor": 1.3,
+      "unidade": "% do PIB",
+      "periodo": "2022",
+      "fonte": {
+        "nome": "FMI – Fiscal Monitor abr/2026, Tabela A15",
+        "url": "https://www.imf.org/-/media/files/publications/fiscal-monitor/2026/april/english/text.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "multilateral"
+      },
+      "comparacao": {
+        "rotulo": "Média dos emergentes em 2025",
+        "valor": -3.9
+      }
+    }
+  ],
+  "series": [
+    "resultado-primario-pib"
+  ],
+  "checagens_externas": [
+    {
+      "veiculo": "Lupa",
+      "veredito_original": "FALSO",
+      "url": "https://www.agencialupa.org/checagem/2026/10/04/apos-confirmacao-do-2o-turno-lula-erra-sobre-superavit-e-flavio-sobre-reeleicao-e-endividamento/",
+      "data": "2026-10-04"
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Banco Central do Brasil – SGS 5793 (resultado primário do setor público, 12 meses, % PIB)",
+      "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.5793/dados?formato=json",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "FMI – Fiscal Monitor abr/2026, Tabela A15",
+      "url": "https://www.imf.org/-/media/files/publications/fiscal-monitor/2026/april/english/text.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "multilateral"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/02_contas_publicas_divida.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "Que outro país do G20 teve superávit?",
+      "resposta": "A Argentina, segundo a Lupa; a nota de pesquisa não traz as séries fiscais dos demais membros para 2003-2010."
+    },
+    {
+      "pergunta": "O Brasil teve superávit nos oito anos?",
+      "resposta": "Sim: de 3,24% do PIB em 2003 a 2,62% em 2010 (BCB), com mínimo de 1,94% em 2009."
+    },
+    {
+      "pergunta": "E hoje, como o Brasil se compara?",
+      "resposta": "Pelo FMI, o Brasil teve déficit primário de 0,4% do PIB em 2025 contra média de −3,9% dos emergentes, mas dívida (93,3%) e juros muito acima da média."
+    }
+  ],
+  "relacionadas": [
+    "superavit-primario-nos-8-anos-de-lula",
+    "divida-publica-de-11-trilhoes"
+  ],
+  "lacunas": [
+    "Séries fiscais dos países do G20 para 2003-2010 não constam das notas; a avaliação baseia-se na checagem da Lupa."
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false
+}

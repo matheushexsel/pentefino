@@ -35,7 +35,7 @@
     "A CPI da Covid pediu o indiciamento de Bolsonaro por nove crimes, mas a PGR arquivou as apurações e não houve processo; ele não foi condenado por isso.",
     "Atribuir todas as mortes a uma pessoa não é checável: estados e municípios decidiam o distanciamento, e a vacinação, que começou em janeiro de 2021, evitou cerca de 1 milhão de mortes."
   ],
-  "explicacao_completa_md": "**Números:** 100 mil mortes em 08/08/2020; 200 mil em 07/01/2021; pico acima de 4.000 mortes/dia em 07/04/2021; 700 mil em 28/03/2023 (700.239, Conass); 716.238 óbitos e 39,3 milhões de casos até jun/2025; 2º país em mortes absolutas, atrás dos EUA. Lula disse '780 mil' no debate da Band (Ranking: FALSO, 716.075 em abr/2025). **Gestão federal:** governo não respondeu 81 e-mails da Pfizer (ofertas desde ago/2020); a CPI listou 11 recusas a ofertas de vacina; Bolsonaro defendeu a cloroquina em 23 discursos oficiais; Anvisa autorizou CoronaVac e AstraZeneca em 17/01/2021; a compra da CoronaVac só veio depois de Bolsonaro dizer que não compraria (Aos Fatos); 80% dos adultos com 2 doses ao fim de 2021; estudo da Lancet (jun/2022) estima cerca de 1 milhão de mortes adicionais evitadas pela vacinação. **CPI (abr-out/2021):** relatório de Renan Calheiros aprovado por 7 a 4, imputando a Bolsonaro epidemia com resultado morte, infração de medida sanitária, charlatanismo, incitação ao crime, falsificação de documento, emprego irregular de verbas, prevaricação, crimes contra a humanidade, violação de direito social e crimes de responsabilidade; acusações de homicídio e genocídio indígena foram retiradas da versão final; 65 a 81 indiciados conforme a fonte; os pedidos não têm efeito jurídico direto. A PGR (Lindôra Araújo) pediu o arquivamento de sete apurações; o inquérito da Covaxin foi arquivado; Pazuello foi absolvido em improbidade (2022). Bolsonaro teve quatro ministros da Saúde (Lula disse três: Ranking IMPRECISO). **Responsabilidade:** compra de vacinas e coordenação eram federais; lockdowns foram decididos por governadores e prefeitos, com validação do STF (competência concorrente).",
+  "explicacao_completa_md": "**Números:** 100 mil mortes em 08/08/2020; 200 mil em 07/01/2021; pico acima de 4.000 mortes/dia em 07/04/2021; 700 mil em 28/03/2023 (700.239, Conass); 716.238 óbitos e 39,3 milhões de casos até jun/2025; 2º país em mortes absolutas, atrás dos EUA. Lula disse '780 mil' no debate da Band (Ranking: FALSO, 716.075 em abr/2025). **Gestão federal:** governo não respondeu 81 e-mails da Pfizer (ofertas desde ago/2020); a CPI listou 11 recusas a ofertas de vacina; Bolsonaro defendeu a cloroquina em 23 discursos oficiais; Anvisa autorizou CoronaVac e AstraZeneca em 17/01/2021; a compra da CoronaVac só veio depois de Bolsonaro dizer que não compraria (Aos Fatos); 80% dos adultos com 2 doses ao fim de 2021; estudo da Lancet (jun/2022) estima cerca de 1 milhão de mortes adicionais evitadas pela vacinação. **CPI (abr-out/2021):** relatório de Renan Calheiros aprovado por 7 a 4, imputando a Bolsonaro epidemia com resultado morte, infração de medida sanitária, charlatanismo, incitação ao crime, falsificação de documento, emprego irregular de verbas, prevaricação, crimes contra a humanidade, violação de direito social e crimes de responsabilidade; acusações de homicídio e genocídio indígena foram retiradas da versão final; 65 a 81 indiciados conforme a fonte; os pedidos não têm efeito jurídico direto. A PGR (Lindôra Araújo) pediu o arquivamento de sete apurações; o inquérito da Covaxin foi arquivado; Pazuello foi absolvido em improbidade (2022). Bolsonaro teve quatro ministros da Saúde (Lula disse três: Ranking IMPRECISO). **Responsabilidade:** compra de vacinas e coordenação eram federais; lockdowns foram decididos por governadores e prefeitos, com validação do STF (competência concorrente).\n\n**Atualização (enriquecimento, 21/10/2026):** pela tabela global da OMS (acesso em 21/10/2026), o Brasil soma 704.092 óbitos, o 2º maior número absoluto (EUA 1.239.585), mas é o 21º em mortes por 100 mil habitantes (331; EUA 374, 14º; Peru 670, 1º; Chile 329; Argentina 290) — a OMS conta menos que o painel MS/Conass (716.238) por critérios e datas de corte diferentes. O relatório final da CPI (relator Renan Calheiros) foi aprovado em 26/10/2021 por 7 a 4, com 1.279 páginas e 80 pedidos de indiciamento (78 pessoas e 2 empresas), e entregue à PGR e ao STF em 27/10/2021; Aras não abriu inquéritos e, em mar/2024, senadores pediram a Gonet o desarquivamento, sem desfecho localizado.",
   "o_que_e_verdade": [
     "Mais de 700 mil brasileiros morreram de Covid (716 mil até 2025), 2º maior número absoluto do mundo.",
     "O governo Bolsonaro ignorou 81 e-mails da Pfizer, recusou 11 ofertas de vacina e promoveu a cloroquina; a CPI pediu seu indiciamento por nove crimes.",
@@ -157,6 +157,35 @@
         "tier": "imprensa"
       },
       "comparacao": null
+    },
+    {
+      "rotulo": "Mortes por Covid por 100 mil habitantes no Brasil (21º do mundo)",
+      "valor": 331,
+      "unidade": "por 100 mil hab.",
+      "periodo": "acumulado até out/2026",
+      "fonte": {
+        "nome": "OMS, WHO COVID-19 dashboard — global table data (CSV)",
+        "url": "https://srhdpeuwpubsa.blob.core.windows.net/whdh/COVID/WHO-COVID-19-global-table-data.csv",
+        "acesso_em": "2026-10-21",
+        "tier": "multilateral"
+      },
+      "comparacao": {
+        "rotulo": "EUA",
+        "valor": 374
+      }
+    },
+    {
+      "rotulo": "Pedidos de indiciamento no relatório final da CPI da Pandemia",
+      "valor": 80,
+      "unidade": "pedidos (78 pessoas e 2 empresas)",
+      "periodo": "26/10/2021",
+      "fonte": {
+        "nome": "Agência Senado, 26/10/2021",
+        "url": "https://www12.senado.leg.br/noticias/materias/2021/10/26/apos-seis-meses-cpi-da-pandemia-e-encerrada-com-80-pedidos-de-indiciamento",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": null
     }
   ],
   "series": [
@@ -224,6 +253,36 @@
       "url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/05_escandalos_recentes_inss_master_bolsonaro.md",
       "acesso_em": "2026-10-21",
       "tier": "academico"
+    },
+    {
+      "nome": "OMS, WHO COVID-19 dashboard — global table data (CSV)",
+      "url": "https://srhdpeuwpubsa.blob.core.windows.net/whdh/COVID/WHO-COVID-19-global-table-data.csv",
+      "acesso_em": "2026-10-21",
+      "tier": "multilateral"
+    },
+    {
+      "nome": "Agência Senado, 26/10/2021",
+      "url": "https://www12.senado.leg.br/noticias/materias/2021/10/26/apos-seis-meses-cpi-da-pandemia-e-encerrada-com-80-pedidos-de-indiciamento",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Agência Senado, 26/10/2021 (lista de indiciados)",
+      "url": "https://www12.senado.leg.br/noticias/materias/2021/10/26/veja-a-lista-dos-indiciados-da-cpi-no-relatorio-de-renan-calheiros",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Agência Senado, mar/2024 (pedido de desarquivamento)",
+      "url": "https://www12.senado.leg.br/noticias/audios/2024/03/senadores-vao-a-pgr-por-desarquivamento-de-pedidos-de-inquerito-da-cpi-da-pandemia",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Relatório final da CPI da Pandemia (PDF)",
+      "url": "https://legis.senado.leg.br/sdleg-getter/documento/download/72c805d3-888b-4228-8682-260175471243",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/07_saude_seguranca_educacao_infra_ambiente.md",
@@ -256,12 +315,16 @@
     {
       "data": "2026-10-21",
       "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "enriquecimento rodada 2 (21/10/2026): ranking per capita da OMS (Brasil 21º, 331 por 100 mil; 2º em números absolutos, 704.092); relatório final da CPI (7x4, 80 pedidos) e pedido de desarquivamento de 2024"
     }
   ],
   "exemplo": false,
   "nao_verificado": true,
   "lacunas": [
     "Nenhuma checagem com a redação 'responsável pelas 700 mil mortes'; veredito derivado dos fatos documentados.",
-    "Desfecho dos pedidos da CPI na PGR sob Paulo Gonet e estimativas de excesso de mortalidade (OMS) não confirmados nas notas."
+    "Desfecho do pedido de desarquivamento feito a Gonet (mar/2024) não localizado; estimativas de excesso de mortalidade (OMS) não obtidas — a tabela da OMS usada é de mortes reportadas."
   ]
 }

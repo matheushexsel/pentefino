@@ -37,11 +37,12 @@
     "O orçamento de 2023 enviado por Bolsonaro previa benefício médio de R$ 405, e foram a PEC da Transição e o novo Bolsa Família que fixaram R$ 600 mais R$ 150 por criança.",
     "O Auxílio Emergencial de R$ 600 em 2020, esse sim do governo Bolsonaro, foi um programa temporário da pandemia, não o Bolsa Família."
   ],
-  "explicacao_completa_md": "## Linha do tempo\n\n- **até 2021 (Bolsa Família)**: benefício médio de R$ 187,91 (jan/2019) e R$ 191,86 (até mar/2020); 14,7 milhões de famílias em out/2021.\n- **nov/2021 (Auxílio Brasil)**: MP 1.061/2021 e Lei 14.284/2021; piso de R$ 400 (MP 1.076, dez/2021); 14,5 milhões de famílias no 1º mês.\n- **ago-dez/2022**: EC 123/2022 ('PEC Kamikaze', promulgada em 14/07/2022) declarou estado de emergência e elevou o benefício a R$ 600, com ~R$ 26 bilhões para o programa e 1,6 milhão de novas famílias; 20,2 milhões de famílias em ago/2022, benefício médio R$ 607,88, R$ 12,1 bilhões no mês. Validade: até dez/2022.\n- **PLOA 2023 (Bolsonaro)**: previa R$ 400 (benefício médio R$ 405,21).\n- **dez/2022 (EC 126, PEC da Transição)**: R$ 70 bilhões fora do teto para manter R$ 600 e pagar R$ 150 por criança até 6 anos.\n- **mar/2023 (novo Bolsa Família)**: piso de R$ 600 + R$ 150 por criança; ~21 milhões de famílias; R$ 170 bilhões/ano.\n- **out/2026**: piso reajustado para R$ 691.\n\n## Avaliação\n\nA Lupa classificou como EXAGERADO em 18/10/2026 (debate) e em 16/10/2026 (entrevista, 'triplicou de R$ 190 para R$ 600'). Os R$ 600 de Bolsonaro foram temporários e eleitorais; os de Lula, permanentes e ampliados. Ambos os lados têm fatos a favor: o salto de ~R$ 190 para R$ 400 ocorreu sob Bolsonaro.",
+  "explicacao_completa_md": "## Linha do tempo\n\n- **até 2021 (Bolsa Família)**: benefício médio de R$ 187,91 (jan/2019) e R$ 191,86 (até mar/2020); 14,7 milhões de famílias em out/2021.\n- **nov/2021 (Auxílio Brasil)**: MP 1.061/2021 e Lei 14.284/2021; piso de R$ 400 (MP 1.076, dez/2021); 14,5 milhões de famílias no 1º mês.\n- **ago-dez/2022**: EC 123/2022 ('PEC Kamikaze', promulgada em 14/07/2022) declarou estado de emergência e elevou o benefício a R$ 600, com ~R$ 26 bilhões para o programa e 1,6 milhão de novas famílias; 20,2 milhões de famílias em ago/2022, benefício médio R$ 607,88, R$ 12,1 bilhões no mês. Validade: até dez/2022.\n- **PLOA 2023 (Bolsonaro)**: previa R$ 400 (benefício médio R$ 405,21).\n- **dez/2022 (EC 126, PEC da Transição)**: R$ 70 bilhões fora do teto para manter R$ 600 e pagar R$ 150 por criança até 6 anos.\n- **mar/2023 (novo Bolsa Família; Lei 14.601/2023)**: R$ 142 por pessoa com complemento até R$ 600 por família, R$ 150 por criança de 0 a 6 anos e R$ 50 por gestante ou jovem; linha de elegibilidade de R$ 218 per capita; regra de proteção de 24 meses com 50% do benefício; 20,88 milhões de famílias em dez/2023 (R$ 654,64 em média); R$ 150,8 bilhões pagos em 2023 (R$ 170,4 bilhões na execução orçamentária).\n- **out/2026**: piso reajustado para R$ 691.\n\n## Avaliação\n\nA Lupa classificou como EXAGERADO em 18/10/2026 (debate) e em 16/10/2026 (entrevista, 'triplicou de R$ 190 para R$ 600'). Os R$ 600 de Bolsonaro foram temporários e eleitorais; os de Lula, permanentes e ampliados. Ambos os lados têm fatos a favor: o salto de ~R$ 190 para R$ 400 ocorreu sob Bolsonaro.",
   "o_que_e_verdade": [
     "O Auxílio Brasil pagou R$ 600 de agosto a dezembro de 2022, a 20,2 milhões de famílias (média R$ 607,88).",
     "O governo Bolsonaro elevou o piso de ~R$ 190 (Bolsa Família) para R$ 400 (Auxílio Brasil, nov/2021).",
-    "O Auxílio Emergencial de 2020 pagou R$ 600 mensais (R$ 1.200 para mães solo) a 68 milhões de pessoas durante a pandemia."
+    "O Auxílio Emergencial de 2020 pagou R$ 600 mensais (R$ 1.200 para mães solo) a 68 milhões de pessoas durante a pandemia.",
+    "Pelo Portal da Transparência, o programa pagou R$ 69,6 bilhões em 2022 (Auxílio Brasil) e R$ 150,8 bilhões em 2023 (novo Bolsa Família)."
   ],
   "o_que_nao_se_sustenta": [
     "Os R$ 600 de 2022 valeram só até dezembro, por emenda constitucional temporária (EC 123) em ano eleitoral.",
@@ -181,6 +182,86 @@
         "rotulo": "Piso anterior",
         "valor": 600
       }
+    },
+    {
+      "rotulo": "Benefício de Renda de Cidadania por pessoa (Lei 14.601/2023)",
+      "valor": 142,
+      "unidade": "R$",
+      "periodo": "jun/2023 a set/2026",
+      "fonte": {
+        "nome": "Planalto – Lei 14.601/2023 (Programa Bolsa Família)",
+        "url": "https://www.planalto.gov.br/ccivil_03/_Ato2023-2026/2023/Lei/L14601.htm",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "Benefício Complementar até (R$ por família)",
+        "valor": 600
+      }
+    },
+    {
+      "rotulo": "Famílias beneficiárias em dezembro (Portal da Transparência/MDS)",
+      "valor": 20975152,
+      "unidade": "famílias",
+      "periodo": "dez/2022 (Auxílio Brasil)",
+      "fonte": {
+        "nome": "Ipeadata – FAM_PBF, famílias beneficiárias do Bolsa Família em dezembro (MDS/Portal da Transparência)",
+        "url": "http://www.ipeadata.gov.br/api/odata4/ValoresSerie(SERCODIGO='FAM_PBF')",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "dez/2025 (Bolsa Família)",
+        "valor": 18618236
+      }
+    },
+    {
+      "rotulo": "Benefício médio em dezembro (valor/famílias, cálculo da nota)",
+      "valor": 190.79,
+      "unidade": "R$",
+      "periodo": "dez/2019",
+      "fonte": {
+        "nome": "Ipeadata – VAL_PBF, valor pago pelo Bolsa Família em dezembro (MDS/Portal da Transparência)",
+        "url": "http://www.ipeadata.gov.br/api/odata4/ValoresSerie(SERCODIGO='VAL_PBF')",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "dez/2023",
+        "valor": 654.64
+      }
+    },
+    {
+      "rotulo": "Valor pago no ano pelo Bolsa Família/Auxílio Brasil (Portal da Transparência)",
+      "valor": 69.6,
+      "unidade": "R$ bilhões",
+      "periodo": "2022",
+      "fonte": {
+        "nome": "Ipeadata – VAL_PBF12, valor mensal pago pelo Bolsa Família (MDS/Portal da Transparência)",
+        "url": "http://www.ipeadata.gov.br/api/odata4/ValoresSerie(SERCODIGO='VAL_PBF12')",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "2023",
+        "valor": 150.8
+      }
+    },
+    {
+      "rotulo": "Auxílio Emergencial pago (Portal da Transparência)",
+      "valor": 293.34,
+      "unidade": "R$ bilhões",
+      "periodo": "2020",
+      "fonte": {
+        "nome": "Ipeadata – VAL_AUXEMG, valor mensal pago do Auxílio Emergencial (Portal da Transparência)",
+        "url": "http://www.ipeadata.gov.br/api/odata4/ValoresSerie(SERCODIGO='VAL_AUXEMG')",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "2021",
+        "valor": 56.89
+      }
     }
   ],
   "series": [
@@ -198,6 +279,12 @@
       "veiculo": "Lupa",
       "veredito_original": "EXAGERADO ('triplicou de R$ 190 para R$ 600')",
       "url": "https://www.agencialupa.org/checagem/2026/10/16/ao-vivo-checagem-da-entrevista-de-flavio-bolsonaro-na-globo/",
+      "data": "2026-10-16"
+    },
+    {
+      "veiculo": "Aos Fatos",
+      "veredito_original": "Flávio repetiu 'Bolsonaro triplicou o Bolsa Família de R$ 190 para R$ 600' na entrevista à Globo (frase já classificada como EXAGERADO pela Lupa)",
+      "url": "https://www.aosfatos.org/noticias/checamos-flavio-bolsonaro-globo-segundo-turno/",
       "data": "2026-10-16"
     }
   ],
@@ -255,6 +342,42 @@
       "url": "https://diariodopara.com.br/noticias/brasil/bolsa-familia-amplia-alcance-em-2024-sem-gastar-mais-que-no-ano-anterior",
       "acesso_em": "2026-10-21",
       "tier": "imprensa"
+    },
+    {
+      "nome": "Planalto – Lei 14.601/2023 (Programa Bolsa Família)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_Ato2023-2026/2023/Lei/L14601.htm",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Ipeadata – FAM_PBF, famílias beneficiárias do Bolsa Família em dezembro (MDS/Portal da Transparência)",
+      "url": "http://www.ipeadata.gov.br/api/odata4/ValoresSerie(SERCODIGO='FAM_PBF')",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Ipeadata – VAL_PBF, valor pago pelo Bolsa Família em dezembro (MDS/Portal da Transparência)",
+      "url": "http://www.ipeadata.gov.br/api/odata4/ValoresSerie(SERCODIGO='VAL_PBF')",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Ipeadata – VAL_PBF12, valor mensal pago pelo Bolsa Família (MDS/Portal da Transparência)",
+      "url": "http://www.ipeadata.gov.br/api/odata4/ValoresSerie(SERCODIGO='VAL_PBF12')",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Ipeadata – VAL_AUXEMG, valor mensal pago do Auxílio Emergencial (Portal da Transparência)",
+      "url": "http://www.ipeadata.gov.br/api/odata4/ValoresSerie(SERCODIGO='VAL_AUXEMG')",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Aos Fatos – Checamos a entrevista de Flávio Bolsonaro à Globo no segundo turno (16/10/2026)",
+      "url": "https://www.aosfatos.org/noticias/checamos-flavio-bolsonaro-globo-segundo-turno/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/03_emprego_renda_pobreza_social.md",
@@ -278,11 +401,18 @@
     "bolsa-familia-reajustado-uma-semana-antes-do-segundo-turno",
     "33-milhoes-passavam-fome-em-2022"
   ],
+  "lacunas": [
+    "A série do Portal da Transparência (via Ipeadata) para 2021-2022 registra só o Auxílio Brasil 'base' (média de R$ 380,94 em dez/2022), sem o benefício extraordinário que completava o piso; para comparar R$ 190 x R$ 400 x R$ 600 usar os pisos legais."
+  ],
   "atualizado_em": "2026-10-21",
   "changelog": [
     {
       "data": "2026-10-21",
       "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "enriquecimento rodada 2: Lei 14.601/2023 (estrutura do benefício), séries oficiais de famílias e valores (MDS/Portal da Transparência), Auxílio Emergencial pago, Aos Fatos 16/10"
     }
   ],
   "exemplo": false

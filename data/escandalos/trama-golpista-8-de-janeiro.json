@@ -14,10 +14,10 @@
     "lula-3"
   ],
   "resumo_simples": [
-    "Em 11/09/2025 a 1ª Turma do STF condenou Jair Bolsonaro a 27 anos e 3 meses (4 a 1) por tentativa de golpe de Estado e outros 4 crimes, com multa de R$ 376 mil; o trânsito em julgado ocorreu em 25/11/2025. Co-réus do núcleo 1: Braga Netto, Augusto Heleno, Almir Garnier, Paulo Sérgio Nogueira, Anderson Torres, Mauro Cid e Alexandre Ramagem (16 anos, 1 mês e 15 dias). Os 8 foram declarados inelegíveis por 8 anos.",
-    "Bolsonaro está preso desde 22/11/2025 (tentou romper a tornozeleira): PF, depois Papudinha (15/01/2026) e prisão domiciliar por razões de saúde desde 24/03/2026, mantida por prazo indeterminado em 03/07/2026, com proibição de visitas e manifestações político-eleitorais. Já era inelegível até 2030 pelo TSE (30/06/2023).",
-    "Pelo 8 de janeiro, o STF contabiliza 1.402 condenados (431 a prisão, 419 a penas alternativas, 552 acordos de não persecução penal); 190 presos em abr/2026.",
-    "A Lei da Dosimetria (Lei 15.402/2026), que reduz penas sem anistiar, foi aprovada em dez/2025, vetada por Lula (08/01/2026), teve o veto derrubado (30/04/2026) e foi promulgada em 08/05/2026 — mas Moraes suspendeu sua aplicação em 09/05/2026 (ADIs 7966/7967), sem julgamento de mérito até out/2026. Eduardo Bolsonaro foi condenado a 4 anos e 2 meses por coação (16/06/2026) e a 1 ano por difamação (25/09/2026); Ramagem fugiu para os EUA e pediu asilo."
+    "Em 11/09/2025 a 1ª Turma do STF condenou Jair Bolsonaro a 27 anos e 3 meses (mérito 4 a 1; Fux não votou na dosimetria) por tentativa de golpe de Estado e outros 4 crimes, com 124 dias-multa de 2 salários mínimos (~R$ 376 mil); o trânsito em julgado foi declarado em 25/11/2025. Penas dos co-réus do núcleo 1: Braga Netto 26 anos, Anderson Torres 24, Almir Garnier 24, Augusto Heleno 21, Paulo Sérgio Nogueira 19, Alexandre Ramagem 16 anos, 1 mês e 15 dias, Mauro Cid 2 anos (aberto, colaborador). Todos inelegíveis por 8 anos após a pena; R$ 30 mi de danos morais coletivos.",
+    "Bolsonaro está preso desde 22/11/2025 (tentou romper a tornozeleira): PF, depois Papudinha (15/01/2026) e prisão domiciliar por razões de saúde desde 24/03/2026, mantida por prazo indeterminado em 03/07/2026, com proibição de visitas e manifestações político-eleitorais. Já era inelegível até 2030 pelo TSE (30/06/2023). A defesa apresentou a Revisão Criminal 6.021 em 08/05/2026 (relator Nunes Marques; PGR pelo não conhecimento em 16/06/2026), sem julgamento até out/2026.",
+    "Pelo 8 de janeiro, o STF contabilizava em dez/2025 1.374 responsabilizados (810 condenados + 564 acordos de não persecução penal); o número de '1.402' (Agência Brasil, abr/2026: 431 prisão + 419 alternativas + 552 ANPPs) é de responsabilizados, não de condenados — os condenados eram 850 nessa data; 190 presos em abr/2026.",
+    "A Lei da Dosimetria (Lei 15.402/2026), que reduz penas sem anistiar, foi aprovada em dez/2025, vetada por Lula (08/01/2026), teve o veto derrubado (30/04/2026) e foi promulgada em 08/05/2026 — mas Moraes suspendeu sua aplicação em 09/05/2026 (ADIs 7966/7967), sem julgamento de mérito até out/2026. Eduardo Bolsonaro foi condenado por unanimidade (4x0) a 4 anos e 2 meses por coação (AP 2782, 16/06/2026) e a 1 ano por difamação (25/09/2026); Ramagem fugiu para os EUA e pediu asilo."
   ],
   "valores": [
     {
@@ -40,33 +40,124 @@
         "url": "https://www.cnnbrasil.com.br/politica/jair-bolsonaro-completa-um-ano-preso-relembre-os-principais-acontecimentos/",
         "acesso_em": "2026-10-21",
         "tier": "imprensa"
-      }
+      },
+      "nota": "124 dias-multa de 2 salários mínimos (STF); 124 × 2 × R$ 1.518 = R$ 376.464 (cálculo próprio)."
     },
     {
-      "rotulo": "Placar da condenação na 1ª Turma",
+      "rotulo": "Placar da condenação na 1ª Turma (mérito)",
       "valor": 4,
       "unidade": "votos (contra 1, Fux)",
       "fonte": {
-        "nome": "CNN Brasil: Jair Bolsonaro completa um ano preso — principais acontecimentos",
-        "url": "https://www.cnnbrasil.com.br/politica/jair-bolsonaro-completa-um-ano-preso-relembre-os-principais-acontecimentos/",
+        "nome": "STF Notícias, 11/09/2025: STF fixa penas de 16 a 27 anos para condenados por tentativa de golpe de Estado",
+        "url": "https://noticias.stf.jus.br/postsnoticias/stf-fixa-penas-de-16-a-27-anos-para-condenados-por-tentativa-de-golpe-de-estado/",
         "acesso_em": "2026-10-21",
-        "tier": "imprensa"
-      }
+        "tier": "oficial"
+      },
+      "nota": "Fux não votou na dosimetria por ter absolvido; propôs pena menor só para Braga Netto; pena de Cid por unanimidade."
     },
     {
-      "rotulo": "Condenados do núcleo 1 declarados inelegíveis por 8 anos",
+      "rotulo": "Condenados do núcleo 1 declarados inelegíveis por 8 anos após o cumprimento da pena",
       "valor": 8,
       "unidade": "pessoas",
       "fonte": {
-        "nome": "CNN Brasil: Jair Bolsonaro completa um ano preso — principais acontecimentos",
-        "url": "https://www.cnnbrasil.com.br/politica/jair-bolsonaro-completa-um-ano-preso-relembre-os-principais-acontecimentos/",
+        "nome": "STF Notícias, 11/09/2025: STF fixa penas de 16 a 27 anos para condenados por tentativa de golpe de Estado",
+        "url": "https://noticias.stf.jus.br/postsnoticias/stf-fixa-penas-de-16-a-27-anos-para-condenados-por-tentativa-de-golpe-de-estado/",
         "acesso_em": "2026-10-21",
-        "tier": "imprensa"
+        "tier": "oficial"
       }
     },
     {
-      "rotulo": "Condenados pelo 8 de janeiro (balanço STF, abr/2026)",
+      "rotulo": "Indenização solidária por danos morais coletivos (núcleo 1)",
+      "valor": 30,
+      "unidade": "R$ milhões",
+      "fonte": {
+        "nome": "STF Notícias, 11/09/2025: STF fixa penas de 16 a 27 anos para condenados por tentativa de golpe de Estado",
+        "url": "https://noticias.stf.jus.br/postsnoticias/stf-fixa-penas-de-16-a-27-anos-para-condenados-por-tentativa-de-golpe-de-estado/",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    {
+      "rotulo": "Pena de Walter Braga Netto",
+      "valor": 26,
+      "unidade": "anos (fechado; 100 dias-multa de 1 SM)",
+      "fonte": {
+        "nome": "STF Notícias, 11/09/2025: STF fixa penas de 16 a 27 anos para condenados por tentativa de golpe de Estado",
+        "url": "https://noticias.stf.jus.br/postsnoticias/stf-fixa-penas-de-16-a-27-anos-para-condenados-por-tentativa-de-golpe-de-estado/",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    {
+      "rotulo": "Pena de Anderson Torres",
+      "valor": 24,
+      "unidade": "anos (fechado; 100 dias-multa)",
+      "fonte": {
+        "nome": "STF Notícias, 11/09/2025: STF fixa penas de 16 a 27 anos para condenados por tentativa de golpe de Estado",
+        "url": "https://noticias.stf.jus.br/postsnoticias/stf-fixa-penas-de-16-a-27-anos-para-condenados-por-tentativa-de-golpe-de-estado/",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    {
+      "rotulo": "Pena de Almir Garnier",
+      "valor": 24,
+      "unidade": "anos (fechado; 100 dias-multa)",
+      "fonte": {
+        "nome": "STF Notícias, 11/09/2025: STF fixa penas de 16 a 27 anos para condenados por tentativa de golpe de Estado",
+        "url": "https://noticias.stf.jus.br/postsnoticias/stf-fixa-penas-de-16-a-27-anos-para-condenados-por-tentativa-de-golpe-de-estado/",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    {
+      "rotulo": "Pena de Augusto Heleno",
+      "valor": 21,
+      "unidade": "anos (fechado; 84 dias-multa)",
+      "fonte": {
+        "nome": "STF Notícias, 11/09/2025: STF fixa penas de 16 a 27 anos para condenados por tentativa de golpe de Estado",
+        "url": "https://noticias.stf.jus.br/postsnoticias/stf-fixa-penas-de-16-a-27-anos-para-condenados-por-tentativa-de-golpe-de-estado/",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    {
+      "rotulo": "Pena de Paulo Sérgio Nogueira",
+      "valor": 19,
+      "unidade": "anos (fechado; 84 dias-multa)",
+      "fonte": {
+        "nome": "STF Notícias, 11/09/2025: STF fixa penas de 16 a 27 anos para condenados por tentativa de golpe de Estado",
+        "url": "https://noticias.stf.jus.br/postsnoticias/stf-fixa-penas-de-16-a-27-anos-para-condenados-por-tentativa-de-golpe-de-estado/",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    {
+      "rotulo": "Pena de Mauro Cid (colaborador)",
+      "valor": 2,
+      "unidade": "anos (regime aberto)",
+      "fonte": {
+        "nome": "STF Notícias, 11/09/2025: STF fixa penas de 16 a 27 anos para condenados por tentativa de golpe de Estado",
+        "url": "https://noticias.stf.jus.br/postsnoticias/stf-fixa-penas-de-16-a-27-anos-para-condenados-por-tentativa-de-golpe-de-estado/",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    {
+      "rotulo": "8/1 — responsabilizados (balanço Agência Brasil, 30/04/2026)",
       "valor": 1402,
+      "unidade": "pessoas (431 prisão + 419 alternativas + 552 ANPPs)",
+      "fonte": {
+        "nome": "Agência Brasil, 30/04/2026: entenda como o PL da Dosimetria pode beneficiar condenados pelo 8/1",
+        "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-04/entenda-como-o-pl-da-dosimetria-pode-beneficiar-condenados-pelo-81",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "nota": "Inclui os 552 acordos de não persecução penal; o termo correto é 'responsabilizados', não 'condenados'."
+    },
+    {
+      "rotulo": "8/1 — condenados (30/04/2026)",
+      "valor": 850,
       "unidade": "pessoas",
       "fonte": {
         "nome": "Agência Brasil, 30/04/2026: entenda como o PL da Dosimetria pode beneficiar condenados pelo 8/1",
@@ -98,7 +189,7 @@
       }
     },
     {
-      "rotulo": "8/1 — acordos de não persecução penal",
+      "rotulo": "8/1 — acordos de não persecução penal (abr/2026)",
       "valor": 552,
       "unidade": "acordos",
       "fonte": {
@@ -106,7 +197,44 @@
         "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-04/entenda-como-o-pl-da-dosimetria-pode-beneficiar-condenados-pelo-81",
         "acesso_em": "2026-10-21",
         "tier": "imprensa"
-      }
+      },
+      "nota": "O balanço do STF de dez/2025 registra 564 ANPPs — séries não idênticas."
+    },
+    {
+      "rotulo": "8/1 — responsabilizados (balanço STF, jan/2025)",
+      "valor": 898,
+      "unidade": "pessoas (371 condenados + 527 ANPPs)",
+      "fonte": {
+        "nome": "STF Notícias, jan/2025: em dois anos, STF responsabilizou 898 pessoas por atos antidemocráticos de 8 de janeiro",
+        "url": "https://noticias.stf.jus.br/postsnoticias/em-dois-anos-stf-responsabilizou-898-pessoas-por-atos-antidemocraticos-de-8-de-janeiro/",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "nota": ">R$ 1,7 mi arrecadados em acordos."
+    },
+    {
+      "rotulo": "8/1 — responsabilizados (balanço STF, ago/2025)",
+      "valor": 1190,
+      "unidade": "pessoas (638 condenados + 552 ANPPs)",
+      "fonte": {
+        "nome": "STF Notícias, ago/2025: atos antidemocráticos de 8/1 — 1.190 pessoas já foram responsabilizadas",
+        "url": "https://noticias.stf.jus.br/postsnoticias/atos-antidemocraticos-de-8-1-1-190-pessoas-ja-foram-responsabilizadas/",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "nota": "ANPP só para incitação + associação criminosa (acampados); multa de R$ 5 mil."
+    },
+    {
+      "rotulo": "8/1 — responsabilizados (balanço STF, 16/12/2025, atualizado 08/01/2026)",
+      "valor": 1374,
+      "unidade": "pessoas (810 condenados + 564 ANPPs)",
+      "fonte": {
+        "nome": "STF Notícias, 16/12/2025 (atualizado 08/01/2026): 1ª Turma faz balanço dos julgamentos sobre atos antidemocráticos",
+        "url": "https://noticias.stf.jus.br/postsnoticias/1a-turma-faz-balanco-dos-julgamentos-sobre-atos-antidemocraticos/",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "nota": "810 condenados: 395 por crimes graves, 415 leves; 1.734 ações autuadas (619 graves; 1.115 leves); 14 absolvições; >R$ 3 mi arrecadados; 45% ANPP / 31% penas até 2a6m / 24% graves; ~5% penas >12 anos; 346 ações em instrução; 98 denúncias pendentes. O STF não publica 'penas médias', só distribuições."
     },
     {
       "rotulo": "8/1 — réus com pena de 1 ano",
@@ -209,25 +337,36 @@
       }
     },
     {
-      "rotulo": "Pena de Eduardo Bolsonaro por coação (16/06/2026)",
+      "rotulo": "Pena de Eduardo Bolsonaro por coação (AP 2782, 16/06/2026)",
       "valor": 4.17,
       "unidade": "anos (4 anos e 2 meses, semiaberto)",
       "fonte": {
-        "nome": "Wikipédia pt, Eduardo Bolsonaro (índice)",
-        "url": "https://pt.wikipedia.org/wiki/Eduardo_Bolsonaro",
+        "nome": "MPF/PGR, 16/06/2026: STF condena Eduardo Bolsonaro a quatro anos e dois meses por coação no curso do processo",
+        "url": "https://www.mpf.mp.br/o-mpf/unidades/procuradoria-geral-da-republica-pgr/noticias/stf-condena-eduardo-bolsonaro-a-quatro-anos-e-dois-meses-de-prisao-pelo-crime-de-coacao-no-curso-do-processo",
         "acesso_em": "2026-10-21",
-        "tier": "imprensa"
+        "tier": "oficial"
+      }
+    },
+    {
+      "rotulo": "Placar da condenação de Eduardo Bolsonaro",
+      "valor": 4,
+      "unidade": "votos (contra 0: Moraes, Zanin, Cármen Lúcia, Dino)",
+      "fonte": {
+        "nome": "MPF/PGR, 16/06/2026: STF condena Eduardo Bolsonaro a quatro anos e dois meses por coação no curso do processo",
+        "url": "https://www.mpf.mp.br/o-mpf/unidades/procuradoria-geral-da-republica-pgr/noticias/stf-condena-eduardo-bolsonaro-a-quatro-anos-e-dois-meses-de-prisao-pelo-crime-de-coacao-no-curso-do-processo",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
       }
     },
     {
       "rotulo": "Multa de Eduardo Bolsonaro (coação)",
       "valor": 162,
-      "unidade": "R$ mil (50 dias-multa)",
+      "unidade": "R$ mil (50 dias-multa de 2 salários mínimos)",
       "fonte": {
-        "nome": "Wikipédia pt, Eduardo Bolsonaro (índice)",
-        "url": "https://pt.wikipedia.org/wiki/Eduardo_Bolsonaro",
+        "nome": "MPF/PGR, 16/06/2026: STF condena Eduardo Bolsonaro a quatro anos e dois meses por coação no curso do processo",
+        "url": "https://www.mpf.mp.br/o-mpf/unidades/procuradoria-geral-da-republica-pgr/noticias/stf-condena-eduardo-bolsonaro-a-quatro-anos-e-dois-meses-de-prisao-pelo-crime-de-coacao-no-curso-do-processo",
         "acesso_em": "2026-10-21",
-        "tier": "imprensa"
+        "tier": "oficial"
       },
       "nota": "Aproximado."
     },
@@ -252,23 +391,22 @@
       "condenados_definitivo": 8,
       "condenacoes_anuladas": 0,
       "nomes": [
-        "Jair Bolsonaro",
-        "Walter Braga Netto",
-        "Augusto Heleno",
-        "Almir Garnier",
-        "Paulo Sérgio Nogueira",
-        "Anderson Torres",
-        "Mauro Cid",
-        "Alexandre Ramagem"
+        "Jair Bolsonaro (27a3m)",
+        "Walter Braga Netto (26a)",
+        "Anderson Torres (24a)",
+        "Almir Garnier (24a)",
+        "Augusto Heleno (21a)",
+        "Paulo Sérgio Nogueira (19a)",
+        "Alexandre Ramagem (16a1m15d)",
+        "Mauro Cid (2a, aberto)"
       ],
       "fonte": {
-        "nome": "Poder360: STF determina perda do mandato de Ramagem",
-        "url": "https://www.poder360.com.br/poder-justica/stf-determina-perda-do-mandato-de-ramagem/",
+        "nome": "STF Notícias, 25/11/2025: AP 2668 — STF determina cumprimento imediato da pena dos réus do núcleo 1",
+        "url": "https://noticias.stf.jus.br/postsnoticias/ap-2668-stf-determina-cumprimento-imediato-da-pena-dos-sete-reus-do-nucleo-1-da-tentativa-de-golpe/",
         "acesso_em": "2026-10-21",
-        "tier": "imprensa"
+        "tier": "oficial"
       },
-      "nota": "Trânsito em julgado confirmado nas notas para Bolsonaro e Ramagem (25/11/2025); para os demais, inferido do fato de a Lei da Dosimetria (que vale para sentença definitiva) ser apontada como aplicável a eles. Filiação partidária dos militares não informada nas notas.",
-      "nao_verificado": true
+      "nota": "Trânsito em julgado declarado por Moraes em 25/11/2025 na decisão (genérica para os 7 réus do núcleo 1, além de Cid, cujo cumprimento começou em 30/10/2025) que determinou o cumprimento imediato com locais de custódia individualizados. Filiação partidária dos militares não informada nas notas."
     },
     {
       "partido": "PL (Eduardo Bolsonaro)",
@@ -278,30 +416,33 @@
       "condenados_definitivo": null,
       "condenacoes_anuladas": 0,
       "nomes": [
-        "Eduardo Bolsonaro (coação, 4a2m; difamação, 1 ano)"
+        "Eduardo Bolsonaro (coação, AP 2782, 4a2m, 4x0; difamação, 1 ano)"
       ],
       "fonte": {
-        "nome": "Wikipédia pt, Eduardo Bolsonaro (índice)",
-        "url": "https://pt.wikipedia.org/wiki/Eduardo_Bolsonaro",
+        "nome": "MPF/PGR, 16/06/2026: STF condena Eduardo Bolsonaro a quatro anos e dois meses por coação no curso do processo",
+        "url": "https://www.mpf.mp.br/o-mpf/unidades/procuradoria-geral-da-republica-pgr/noticias/stf-condena-eduardo-bolsonaro-a-quatro-anos-e-dois-meses-de-prisao-pelo-crime-de-coacao-no-curso-do-processo",
         "acesso_em": "2026-10-21",
-        "tier": "imprensa"
+        "tier": "oficial"
       },
-      "nota": "Embargos rejeitados em 18/09/2026; trânsito em julgado não confirmado nas notas."
+      "nota": "Embargos rejeitados em 18/09/2026; trânsito em julgado não confirmado nas notas. Paulo Figueiredo (co-denunciado) teve a ação desmembrada, sem julgamento."
     },
     {
-      "partido": "Sem filiação informada (8 de janeiro, 1.402 condenados)",
+      "partido": "Sem filiação informada (8 de janeiro)",
       "citados": null,
       "denunciados": null,
       "condenados_1a_instancia": null,
-      "condenados_definitivo": 1402,
+      "condenados_definitivo": 810,
       "condenacoes_anuladas": null,
+      "absolvidos": 14,
+      "acordos_nao_persecucao": 564,
+      "responsabilizados": 1374,
       "fonte": {
-        "nome": "Agência Brasil, 30/04/2026: entenda como o PL da Dosimetria pode beneficiar condenados pelo 8/1",
-        "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-04/entenda-como-o-pl-da-dosimetria-pode-beneficiar-condenados-pelo-81",
+        "nome": "STF Notícias, 16/12/2025 (atualizado 08/01/2026): 1ª Turma faz balanço dos julgamentos sobre atos antidemocráticos",
+        "url": "https://noticias.stf.jus.br/postsnoticias/1a-turma-faz-balanco-dos-julgamentos-sobre-atos-antidemocraticos/",
         "acesso_em": "2026-10-21",
-        "tier": "imprensa"
+        "tier": "oficial"
       },
-      "nota": "Balanço do STF (abr/2026) inclui 552 acordos de não persecução penal; 169 presos com pena definitiva e 21 provisórios."
+      "nota": "Balanço do STF de 16/12/2025 (atualizado 08/01/2026): 810 condenados (395 graves, 415 leves) + 564 ANPPs = 1.374 responsabilizados; 14 absolvições. Em 30/04/2026 (Agência Brasil): 850 condenados, 552 ANPPs, 1.402 responsabilizados; 169 presos com pena definitiva e 21 provisórios. 'Definitivo' aqui segue o critério do STF (condenações da 1ª Turma), não o trânsito individual."
     }
   ],
   "pessoas": [
@@ -312,10 +453,10 @@
       "crime": "tentativa de golpe de Estado e outros 4 crimes (AP 2668)",
       "tribunal": "STF, 1ª Turma (relator Alexandre de Moraes)",
       "data_condenacao": "2025-09-11",
-      "pena": "27 anos e 3 meses + multa de R$ 376 mil; inelegível por 8 anos (Ficha Limpa)",
-      "status_atual": "Trânsito em julgado em 25/11/2025. Tornozeleira e recolhimento noturno desde 18/07/2025; domiciliar preventiva em 03–04/08/2025; preso em 22/11/2025 após tentar romper a tornozeleira (PF em Brasília); cirurgias em 25 e 29/12/2025; Papudinha em 15/01/2026; domiciliar temporária em 24/03/2026 (90 dias), mantida por prazo indeterminado em 03/07/2026, com proibição de visitas e manifestações político-eleitorais até o fim das eleições de 2026. Já inelegível até 2030 pelo TSE (30/06/2023). Apoiou a candidatura de Flávio em 2026.",
+      "pena": "27 anos e 3 meses (fechado) + 124 dias-multa de 2 salários mínimos (~R$ 376 mil); inelegível por 8 anos após a pena",
+      "status_atual": "Trânsito em julgado declarado em 25/11/2025, com custódia inicial na Superintendência da PF/DF. Tornozeleira e recolhimento noturno desde 18/07/2025; domiciliar preventiva em 03–04/08/2025; preso em 22/11/2025 após tentar romper a tornozeleira; cirurgias em 25 e 29/12/2025; Papudinha em 15/01/2026; domiciliar temporária em 24/03/2026 (90 dias), mantida por prazo indeterminado em 03/07/2026, com proibição de visitas e manifestações político-eleitorais até o fim das eleições de 2026. Encaminhamento ao STM para análise de indignidade para o oficialato. Já inelegível até 2030 pelo TSE (30/06/2023). Revisão Criminal 6.021 (08/05/2026; relator Nunes Marques, revisor Mendonça; teses: julgamento deveria ter sido do Plenário, nulidade da delação de Cid, acesso 'tardio, massivo e funcionalmente ineficaz' às provas, atos de mera cogitação/preparação) — PGR pelo não conhecimento (16/06/2026); sem data de julgamento até 06/10/2026. Apoiou a candidatura de Flávio em 2026.",
       "status_categoria": "cumprindo-pena",
-      "url": "https://www.cnnbrasil.com.br/politica/jair-bolsonaro-completa-um-ano-preso-relembre-os-principais-acontecimentos/"
+      "url": "https://noticias.stf.jus.br/postsnoticias/ap-2668-stf-determina-cumprimento-imediato-da-pena-dos-sete-reus-do-nucleo-1-da-tentativa-de-golpe/"
     },
     {
       "nome": "Alexandre Ramagem",
@@ -324,10 +465,10 @@
       "crime": "organização criminosa armada (5 anos), abolição violenta do Estado democrático de direito (4a3m15d) e golpe de Estado (7 anos); crimes de dano ficaram fora porque a Câmara suspendeu a ação quanto a fatos pós-diplomação",
       "tribunal": "STF, 1ª Turma",
       "data_condenacao": "2025-09-11",
-      "pena": "16 anos, 1 mês e 15 dias; perda do cargo de delegado e do mandato (Fux divergiu)",
-      "status_atual": "Trânsito em julgado em 25/11/2025; demitido da PF em 03/12/2025; mandato cassado pela Mesa da Câmara em 18/12/2025. Saiu clandestinamente pela Guiana (set/2025 segundo a PF; público em nov/2025); detido pelo ICE em Orlando em 13/04/2026, solto em 15/04/2026 e pediu asilo nos EUA. Foragido. PGR pediu sua condenação também na AP 2737 (8/1); depôs por vídeo em fev/2026.",
+      "pena": "16 anos, 1 mês e 15 dias (fechado) + 50 dias-multa de 1 SM; perda do cargo de delegado e do mandato (Fux divergiu)",
+      "status_atual": "Trânsito em julgado em 25/11/2025 (mandado de prisão no BNMP; foragido); demitido da PF em 03/12/2025; mandato cassado pela Mesa da Câmara em 18/12/2025. Saiu clandestinamente pela Guiana (set/2025 segundo a PF; público em nov/2025); detido pelo ICE em Orlando em 13/04/2026, solto em 15/04/2026 e pediu asilo nos EUA. AP 2737 (8/1): Moraes retomou a ação em 22/12/2025 (dano qualificado e deterioração de patrimônio tombado; a suspensão pela Câmara caiu com a perda do mandato), audiência em 05/02/2026 por vídeo; PGR pediu condenação em alegações finais de 12/03/2026; sem julgamento até 21/10/2026.",
       "status_categoria": "condenado-definitivo",
-      "url": "https://pt.wikipedia.org/wiki/Alexandre_Ramagem"
+      "url": "https://noticias.stf.jus.br/postsnoticias/ap-2668-stf-determina-cumprimento-imediato-da-pena-dos-sete-reus-do-nucleo-1-da-tentativa-de-golpe/"
     },
     {
       "nome": "Walter Braga Netto",
@@ -336,11 +477,10 @@
       "crime": "tentativa de golpe e crimes conexos (AP 2668)",
       "tribunal": "STF, 1ª Turma",
       "data_condenacao": "2025-09-11",
-      "pena": "não informada nas notas",
-      "status_atual": "Condenado pela 1ª Turma do STF em 11/09/2025 (AP 2668, núcleo 1; 4 a 1, Fux divergindo). Pena individual e local de prisão não constam nas notas; trânsito em julgado não confirmado individualmente (a Agência Brasil lista o nome entre potenciais beneficiários da Lei da Dosimetria, que vale para sentença definitiva). Declarado inelegível por 8 anos (Ficha Limpa). Fux condenou apenas Cid e Braga Netto.",
-      "status_categoria": "condenado-definitivo",
-      "url": "https://www.poder360.com.br/poder-justica/stf-determina-perda-do-mandato-de-ramagem/",
-      "nao_verificado": true
+      "pena": "26 anos (fechado) + 100 dias-multa de 1 SM",
+      "status_atual": "Condenado pela 1ª Turma do STF em 11/09/2025 (AP 2668, núcleo 1; mérito 4 a 1, Fux divergindo; dosimetria por 4 votos). Em 25/11/2025 Moraes declarou o trânsito em julgado e determinou o início do cumprimento, com local de custódia individualizado; inelegibilidade por 8 anos após o cumprimento da pena; indenização solidária de R$ 30 mi por danos morais coletivos; encaminhamento ao STM (unânime) para análise de indignidade para o oficialato (militares). Custódia: 1ª Divisão do Exército, Vila Militar (RJ). Novos embargos rejeitados pela 1ª Turma como protelatórios. Fux condenou apenas Cid e Braga Netto (propôs pena menor para ele).",
+      "status_categoria": "cumprindo-pena",
+      "url": "https://noticias.stf.jus.br/postsnoticias/ap-2668-stf-determina-cumprimento-imediato-da-pena-dos-sete-reus-do-nucleo-1-da-tentativa-de-golpe/"
     },
     {
       "nome": "Augusto Heleno",
@@ -349,11 +489,10 @@
       "crime": "tentativa de golpe e crimes conexos (AP 2668)",
       "tribunal": "STF, 1ª Turma",
       "data_condenacao": "2025-09-11",
-      "pena": "não informada nas notas",
-      "status_atual": "Condenado pela 1ª Turma do STF em 11/09/2025 (AP 2668, núcleo 1; 4 a 1, Fux divergindo). Pena individual e local de prisão não constam nas notas; trânsito em julgado não confirmado individualmente (a Agência Brasil lista o nome entre potenciais beneficiários da Lei da Dosimetria, que vale para sentença definitiva). Declarado inelegível por 8 anos (Ficha Limpa).",
-      "status_categoria": "condenado-definitivo",
-      "url": "https://www.poder360.com.br/poder-justica/stf-determina-perda-do-mandato-de-ramagem/",
-      "nao_verificado": true
+      "pena": "21 anos (fechado) + 84 dias-multa de 1 SM",
+      "status_atual": "Condenado pela 1ª Turma do STF em 11/09/2025 (AP 2668, núcleo 1; mérito 4 a 1, Fux divergindo; dosimetria por 4 votos). Em 25/11/2025 Moraes declarou o trânsito em julgado e determinou o início do cumprimento, com local de custódia individualizado; inelegibilidade por 8 anos após o cumprimento da pena; indenização solidária de R$ 30 mi por danos morais coletivos; encaminhamento ao STM (unânime) para análise de indignidade para o oficialato (militares). Custódia: Comando Militar do Planalto. Novos embargos rejeitados como protelatórios.",
+      "status_categoria": "cumprindo-pena",
+      "url": "https://noticias.stf.jus.br/postsnoticias/ap-2668-stf-determina-cumprimento-imediato-da-pena-dos-sete-reus-do-nucleo-1-da-tentativa-de-golpe/"
     },
     {
       "nome": "Almir Garnier",
@@ -362,11 +501,10 @@
       "crime": "tentativa de golpe e crimes conexos (AP 2668)",
       "tribunal": "STF, 1ª Turma",
       "data_condenacao": "2025-09-11",
-      "pena": "não informada nas notas",
-      "status_atual": "Condenado pela 1ª Turma do STF em 11/09/2025 (AP 2668, núcleo 1; 4 a 1, Fux divergindo). Pena individual e local de prisão não constam nas notas; trânsito em julgado não confirmado individualmente (a Agência Brasil lista o nome entre potenciais beneficiários da Lei da Dosimetria, que vale para sentença definitiva). Declarado inelegível por 8 anos (Ficha Limpa).",
-      "status_categoria": "condenado-definitivo",
-      "url": "https://www.poder360.com.br/poder-justica/stf-determina-perda-do-mandato-de-ramagem/",
-      "nao_verificado": true
+      "pena": "24 anos (fechado) + 100 dias-multa de 1 SM",
+      "status_atual": "Condenado pela 1ª Turma do STF em 11/09/2025 (AP 2668, núcleo 1; mérito 4 a 1, Fux divergindo; dosimetria por 4 votos). Em 25/11/2025 Moraes declarou o trânsito em julgado e determinou o início do cumprimento, com local de custódia individualizado; inelegibilidade por 8 anos após o cumprimento da pena; indenização solidária de R$ 30 mi por danos morais coletivos; encaminhamento ao STM (unânime) para análise de indignidade para o oficialato (militares). Custódia: Estação Rádio da Marinha (Brasília).",
+      "status_categoria": "cumprindo-pena",
+      "url": "https://noticias.stf.jus.br/postsnoticias/ap-2668-stf-determina-cumprimento-imediato-da-pena-dos-sete-reus-do-nucleo-1-da-tentativa-de-golpe/"
     },
     {
       "nome": "Paulo Sérgio Nogueira",
@@ -375,50 +513,47 @@
       "crime": "tentativa de golpe e crimes conexos (AP 2668)",
       "tribunal": "STF, 1ª Turma",
       "data_condenacao": "2025-09-11",
-      "pena": "não informada nas notas",
-      "status_atual": "Condenado pela 1ª Turma do STF em 11/09/2025 (AP 2668, núcleo 1; 4 a 1, Fux divergindo). Pena individual e local de prisão não constam nas notas; trânsito em julgado não confirmado individualmente (a Agência Brasil lista o nome entre potenciais beneficiários da Lei da Dosimetria, que vale para sentença definitiva). Declarado inelegível por 8 anos (Ficha Limpa).",
-      "status_categoria": "condenado-definitivo",
-      "url": "https://www.poder360.com.br/poder-justica/stf-determina-perda-do-mandato-de-ramagem/",
-      "nao_verificado": true
+      "pena": "19 anos (fechado) + 84 dias-multa de 1 SM",
+      "status_atual": "Condenado pela 1ª Turma do STF em 11/09/2025 (AP 2668, núcleo 1; mérito 4 a 1, Fux divergindo; dosimetria por 4 votos). Em 25/11/2025 Moraes declarou o trânsito em julgado e determinou o início do cumprimento, com local de custódia individualizado; inelegibilidade por 8 anos após o cumprimento da pena; indenização solidária de R$ 30 mi por danos morais coletivos; encaminhamento ao STM (unânime) para análise de indignidade para o oficialato (militares). Custódia: Comando Militar do Planalto. Novos embargos rejeitados como protelatórios.",
+      "status_categoria": "cumprindo-pena",
+      "url": "https://noticias.stf.jus.br/postsnoticias/ap-2668-stf-determina-cumprimento-imediato-da-pena-dos-sete-reus-do-nucleo-1-da-tentativa-de-golpe/"
     },
     {
       "nome": "Anderson Torres",
       "partido_na_epoca": "não informado nas notas",
-      "cargo": "ex-ministro da Justiça; ex-secretário de Segurança do DF",
+      "cargo": "ex-ministro da Justiça; ex-secretário de Segurança do DF; delegado da PF",
       "crime": "tentativa de golpe e crimes conexos (AP 2668)",
       "tribunal": "STF, 1ª Turma",
       "data_condenacao": "2025-09-11",
-      "pena": "não informada nas notas",
-      "status_atual": "Condenado pela 1ª Turma do STF em 11/09/2025 (AP 2668, núcleo 1; 4 a 1, Fux divergindo). Pena individual e local de prisão não constam nas notas; trânsito em julgado não confirmado individualmente (a Agência Brasil lista o nome entre potenciais beneficiários da Lei da Dosimetria, que vale para sentença definitiva). Declarado inelegível por 8 anos (Ficha Limpa).",
-      "status_categoria": "condenado-definitivo",
-      "url": "https://www.poder360.com.br/poder-justica/stf-determina-perda-do-mandato-de-ramagem/",
-      "nao_verificado": true
+      "pena": "24 anos (fechado) + 100 dias-multa de 1 SM; perda do cargo de delegado da PF",
+      "status_atual": "Condenado pela 1ª Turma do STF em 11/09/2025 (AP 2668, núcleo 1; mérito 4 a 1, Fux divergindo; dosimetria por 4 votos). Em 25/11/2025 Moraes declarou o trânsito em julgado e determinou o início do cumprimento, com local de custódia individualizado; inelegibilidade por 8 anos após o cumprimento da pena; indenização solidária de R$ 30 mi por danos morais coletivos; encaminhamento ao STM (unânime) para análise de indignidade para o oficialato (militares). Custódia: 19º BPM, Complexo da Papuda (DF).",
+      "status_categoria": "cumprindo-pena",
+      "url": "https://noticias.stf.jus.br/postsnoticias/ap-2668-stf-determina-cumprimento-imediato-da-pena-dos-sete-reus-do-nucleo-1-da-tentativa-de-golpe/"
     },
     {
       "nome": "Mauro Cid",
       "partido_na_epoca": "não informado nas notas",
-      "cargo": "tenente-coronel; ex-ajudante de ordens de Bolsonaro (delator)",
+      "cargo": "tenente-coronel; ex-ajudante de ordens de Bolsonaro (colaborador)",
       "crime": "tentativa de golpe e crimes conexos (AP 2668)",
       "tribunal": "STF, 1ª Turma",
       "data_condenacao": "2025-09-11",
-      "pena": "não informada nas notas",
-      "status_atual": "Condenado pela 1ª Turma do STF em 11/09/2025 (AP 2668, núcleo 1; 4 a 1, Fux divergindo). Pena individual e local de prisão não constam nas notas; trânsito em julgado não confirmado individualmente (a Agência Brasil lista o nome entre potenciais beneficiários da Lei da Dosimetria, que vale para sentença definitiva). Declarado inelegível por 8 anos (Ficha Limpa). Delator; Fux condenou apenas Cid e Braga Netto.",
-      "status_categoria": "condenado-definitivo",
-      "url": "https://www.poder360.com.br/poder-justica/stf-determina-perda-do-mandato-de-ramagem/",
-      "nao_verificado": true
+      "pena": "2 anos em regime aberto (pena por unanimidade)",
+      "status_atual": "Colaborador; início do cumprimento decretado em 30/10/2025; benefícios da colaboração estendidos a pai, esposa e filha. Fux condenou apenas Cid e Braga Netto.",
+      "status_categoria": "cumprindo-pena",
+      "url": "https://noticias.stf.jus.br/postsnoticias/ap-2668-stf-determina-cumprimento-imediato-da-pena-dos-sete-reus-do-nucleo-1-da-tentativa-de-golpe/"
     },
     {
       "nome": "Eduardo Bolsonaro",
       "partido_na_epoca": "PL-SP",
       "cargo": "deputado federal (mandato perdido em 18/12/2025); nos EUA desde mar/2025",
-      "crime": "coação no curso do processo (art. 344 CP) — articulação nos EUA de sanções contra ministros do STF",
+      "crime": "coação no curso do processo (art. 344 CP), em continuidade delitiva (art. 71) em 'pelo menos nove ocasiões' — articulação nos EUA de sanções contra ministros do STF (AP 2782)",
       "tribunal": "STF, 1ª Turma",
       "data_condenacao": "2026-06-16",
-      "pena": "4 anos e 2 meses (semiaberto), 50 dias-multa (~R$ 162 mil) e 12 anos de inelegibilidade (até 2038)",
-      "status_atual": "Denunciado pela PGR em 22/09/2025 com Paulo Figueiredo; denúncia recebida por unanimidade em 14/11/2025; condenado em 16/06/2026 (contagem de votos não localizada); embargos rejeitados por unanimidade em 18/09/2026; trânsito em julgado não confirmado nas notas (classificado como condenado-1a por convenção). Moraes bloqueou seus bens em 21/07/2025; Mesa da Câmara declarou perda do mandato por faltas e cancelou o passaporte diplomático (18/12/2025); demitido da PF em 21/09/2026 (abandono de cargo). Investigado também no inquérito Dark Horse (ver banco-master).",
+      "pena": "4 anos e 2 meses (semiaberto), 50 dias-multa de 2 salários mínimos (~R$ 162 mil), inelegibilidade por 8 anos após o cumprimento da pena (MPF/PGR; a Wikipédia fala em '12 anos/até 2038' — preferir a fonte oficial) e perda do cargo de escrivão da PF",
+      "status_atual": "Denunciado pela PGR em 22/09/2025 com Paulo Figueiredo; denúncia recebida por unanimidade em 14/11/2025; condenado por UNANIMIDADE (4x0: Moraes, Zanin, Cármen Lúcia, Dino) em 16/06/2026; embargos rejeitados por unanimidade em 18/09/2026; trânsito em julgado não confirmado nas notas (classificado como condenado-1a por convenção). Moraes bloqueou seus bens em 21/07/2025; Mesa da Câmara declarou perda do mandato por faltas e cancelou o passaporte diplomático (18/12/2025); demitido da PF em 21/09/2026 (abandono de cargo). Investigado também no inquérito Dark Horse (ver banco-master).",
       "status_categoria": "condenado-1a",
-      "url": "https://pt.wikipedia.org/wiki/Eduardo_Bolsonaro",
-      "caso": "Coação"
+      "url": "https://www.mpf.mp.br/o-mpf/unidades/procuradoria-geral-da-republica-pgr/noticias/stf-condena-eduardo-bolsonaro-a-quatro-anos-e-dois-meses-de-prisao-pelo-crime-de-coacao-no-curso-do-processo",
+      "caso": "Coação (AP 2782)"
     },
     {
       "nome": "Eduardo Bolsonaro",
@@ -437,15 +572,14 @@
     {
       "nome": "Paulo Figueiredo",
       "partido_na_epoca": "sem partido (comentarista)",
-      "cargo": "comentarista, neto do ex-presidente João Figueiredo",
+      "cargo": "comentarista, neto do ex-presidente João Figueiredo; reside nos EUA",
       "crime": "coação no curso do processo (art. 344 CP)",
       "tribunal": "STF, 1ª Turma",
       "data_condenacao": null,
       "pena": null,
-      "status_atual": "Denunciado com Eduardo Bolsonaro em 22/09/2025; denúncia recebida em 14/11/2025. Desfecho em relação a ele não detalhado nas notas.",
+      "status_atual": "Denunciado com Eduardo Bolsonaro em 22/09/2025; denúncia recebida em 14/11/2025; ação desmembrada ('segue curso próprio'), com citação por cooperação internacional. Nenhum julgamento localizado até out/2026.",
       "status_categoria": "reu",
-      "url": "https://www.congressoemfoco.com.br/noticia/114232/1-turma-aceita-denuncia-e-eduardo-bolsonaro-vira-reu-por-coacao",
-      "nao_verificado": true
+      "url": "https://www.mpf.mp.br/o-mpf/unidades/procuradoria-geral-da-republica-pgr/noticias/stf-condena-eduardo-bolsonaro-a-quatro-anos-e-dois-meses-de-prisao-pelo-crime-de-coacao-no-curso-do-processo"
     }
   ],
   "linha_do_tempo": [
@@ -475,9 +609,19 @@
       "url": "https://www.cnnbrasil.com.br/politica/jair-bolsonaro-completa-um-ano-preso-relembre-os-principais-acontecimentos/"
     },
     {
+      "data": "2025-01",
+      "evento": "Balanço do STF (2 anos do 8/1): 898 responsabilizados (371 condenados + 527 ANPPs); em ago/2025, 1.190 (638 + 552).",
+      "url": "https://noticias.stf.jus.br/postsnoticias/em-dois-anos-stf-responsabilizou-898-pessoas-por-atos-antidemocraticos-de-8-de-janeiro/"
+    },
+    {
       "data": "2025-09-11",
-      "evento": "1ª Turma do STF condena Bolsonaro a 27a3m e Ramagem a 16a1m15d; demais réus do núcleo 1 condenados; Fux diverge (condena só Cid e Braga Netto).",
-      "url": "https://www.cnnbrasil.com.br/politica/jair-bolsonaro-completa-um-ano-preso-relembre-os-principais-acontecimentos/"
+      "evento": "1ª Turma do STF condena Bolsonaro a 27a3m, Braga Netto a 26a, Torres e Garnier a 24a, Heleno a 21a, Paulo Sérgio a 19a, Ramagem a 16a1m15d e Cid a 2a (aberto); mérito 4x1 (Fux condena só Cid e Braga Netto); inelegibilidade por 8 anos após a pena; R$ 30 mi de danos morais coletivos; encaminhamento ao STM.",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-fixa-penas-de-16-a-27-anos-para-condenados-por-tentativa-de-golpe-de-estado/"
+    },
+    {
+      "data": "2025-10-30",
+      "evento": "Início do cumprimento da pena de Mauro Cid (2 anos, regime aberto).",
+      "url": "https://noticias.stf.jus.br/postsnoticias/ap-2668-stf-determina-cumprimento-imediato-da-pena-dos-sete-reus-do-nucleo-1-da-tentativa-de-golpe/"
     },
     {
       "data": "2025-09-22",
@@ -491,8 +635,8 @@
     },
     {
       "data": "2025-11-25",
-      "evento": "Trânsito em julgado da AP 2668 para Bolsonaro e Ramagem; início do cumprimento da pena.",
-      "url": "https://www.cnnbrasil.com.br/politica/jair-bolsonaro-completa-um-ano-preso-relembre-os-principais-acontecimentos/"
+      "evento": "Moraes declara o trânsito em julgado da AP 2668 e determina o cumprimento imediato das penas dos 7 réus do núcleo 1, com locais de custódia individualizados (PF/DF; Vila Militar-RJ; 19º BPM/Papuda; Estação Rádio da Marinha; Comando Militar do Planalto; mandado contra Ramagem). A 1ª Turma depois rejeita como protelatórios novos embargos de Paulo Sérgio, Braga Netto e Heleno.",
+      "url": "https://noticias.stf.jus.br/postsnoticias/ap-2668-stf-determina-cumprimento-imediato-da-pena-dos-sete-reus-do-nucleo-1-da-tentativa-de-golpe/"
     },
     {
       "data": "2025-12-10",
@@ -500,9 +644,19 @@
       "url": "https://pt.wikipedia.org/wiki/Lei_da_Dosimetria"
     },
     {
+      "data": "2025-12-16",
+      "evento": "Balanço da 1ª Turma do STF sobre o 8/1 (atualizado em 08/01/2026): 1.374 responsabilizados (810 condenados + 564 ANPPs); 14 absolvições; 346 ações em instrução; 98 denúncias pendentes.",
+      "url": "https://noticias.stf.jus.br/postsnoticias/1a-turma-faz-balanco-dos-julgamentos-sobre-atos-antidemocraticos/"
+    },
+    {
       "data": "2025-12-18",
       "evento": "Mesa da Câmara declara a perda dos mandatos de Eduardo Bolsonaro (faltas) e de Ramagem.",
       "url": "https://pt.wikipedia.org/wiki/Alexandre_Ramagem"
+    },
+    {
+      "data": "2025-12-22",
+      "evento": "Moraes retoma a AP 2737 contra Ramagem (dano qualificado e deterioração de patrimônio tombado no 8/1) e marca audiência para 05/02/2026.",
+      "url": "https://www.congressoemfoco.com.br/noticia/115116/stf-retoma-acao-penal-contra-ramagem-por-crimes-no-8-de-janeiro"
     },
     {
       "data": "2026-01-08",
@@ -513,6 +667,11 @@
       "data": "2026-01-15",
       "evento": "Bolsonaro transferido à Papudinha (assistência médica 24h).",
       "url": "https://www.cnnbrasil.com.br/politica/jair-bolsonaro-completa-um-ano-preso-relembre-os-principais-acontecimentos/"
+    },
+    {
+      "data": "2026-03-12",
+      "evento": "PGR apresenta alegações finais na AP 2737 pedindo a condenação de Ramagem pelo 8/1.",
+      "url": "https://static.poder360.com.br/2026/03/PGR-pede-condenacao-ramagem-8-janeiro-12.mar_.2026.pdf"
     },
     {
       "data": "2026-03-24",
@@ -526,18 +685,18 @@
     },
     {
       "data": "2026-04-30",
-      "evento": "Congresso derruba o veto (Câmara 318x144; Senado 49x24); STF divulga balanço: 1.402 condenados pelo 8/1.",
+      "evento": "Congresso derruba o veto (Câmara 318x144; Senado 49x24); Agência Brasil: 1.402 responsabilizados pelo 8/1 (850 condenados + 552 ANPPs).",
       "url": "https://www.migalhas.com.br/quentes/455046/congresso-derruba-veto-de-lula-ao-pl-da-dosimetria"
     },
     {
       "data": "2026-05-08",
-      "evento": "Alcolumbre promulga a Lei 15.402/2026 após Lula deixar o prazo passar; em 09/05 Moraes suspende a lei (ADIs 7966/7967).",
-      "url": "https://pt.wikipedia.org/wiki/Lei_da_Dosimetria"
+      "evento": "Alcolumbre promulga a Lei 15.402/2026 após Lula deixar o prazo passar; em 09/05 Moraes suspende a lei (ADIs 7966/7967). No mesmo dia a defesa de Bolsonaro protocola a Revisão Criminal 6.021 (noticiada em 12/05; relator Nunes Marques, revisor Mendonça).",
+      "url": "https://noticias.stf.jus.br/postsnoticias/ex-presidente-bolsonaro-apresenta-revisao-criminal-contra-condenacao-por-tentativa-de-golpe-de-estado/"
     },
     {
       "data": "2026-06-16",
-      "evento": "1ª Turma condena Eduardo Bolsonaro a 4a2m por coação.",
-      "url": "https://pt.wikipedia.org/wiki/Eduardo_Bolsonaro"
+      "evento": "1ª Turma condena Eduardo Bolsonaro a 4a2m por coação, por unanimidade (4x0), na AP 2782; PGR opina pelo não conhecimento da RvC 6.021.",
+      "url": "https://www.mpf.mp.br/o-mpf/unidades/procuradoria-geral-da-republica-pgr/noticias/stf-condena-eduardo-bolsonaro-a-quatro-anos-e-dois-meses-de-prisao-pelo-crime-de-coacao-no-curso-do-processo"
     },
     {
       "data": "2026-07-03",
@@ -553,21 +712,26 @@
       "data": "2026-09-18",
       "evento": "Embargos de Eduardo rejeitados por unanimidade; demitido da PF em 21/09; condenado por difamação (7x3) em 25/09/2026.",
       "url": "https://pt.wikipedia.org/wiki/Eduardo_Bolsonaro"
+    },
+    {
+      "data": "2026-10-06",
+      "evento": "Revisão Criminal 6.021 segue sem data de julgamento (aguarda decisão de Nunes Marques).",
+      "url": "https://tribunadoplanalto.com.br/revisao-que-pode-anular-condenacao-de-bolsonaro-aguarda-decisao-de-nunes-marques-no-stf/"
     }
   ],
   "o_que_dizem_os_dois_lados": {
     "acusacao": "PGR e a maioria da 1ª Turma (Moraes, Dino, Cármen Lúcia, Zanin) concluíram que houve organização criminosa armada e tentativa de golpe, com penas de 27a3m para Bolsonaro e 16a1m15d para Ramagem, e que a atuação de Eduardo Bolsonaro nos EUA (tarifas, sanções) configurou coação no curso do processo. A ABI e a federação PSOL-Rede questionam a Lei da Dosimetria no STF (ADIs 7966/7967); pesquisa Quaest (17/05/2026) indica 52% contra a redução de penas.",
-    "defesa": "Fux divergiu, condenando apenas Cid e Braga Netto. As defesas obtiveram prisão domiciliar humanitária para Bolsonaro e sustentam que as penas são excessivas: o Congresso aprovou e promulgou a Lei da Dosimetria (que impede a soma das penas de golpe e abolição violenta e reduz penas em 'contexto de multidão'), com apoio de 39% na Quaest. Flávio Bolsonaro declarou que 'derrotar Lula é o que vai salvar meu pai da prisão'. Ramagem alega perseguição e pediu asilo nos EUA; a defesa de Eduardo nega coação."
+    "defesa": "Fux divergiu, condenando apenas Cid e Braga Netto. A defesa de Bolsonaro sustenta na Revisão Criminal 6.021 que o julgamento cabia ao Plenário, que a delação de Cid é nula, que o acesso às provas foi 'tardio, massivo e funcionalmente ineficaz', que os atos foram mera cogitação/preparação e que não há indícios de conhecimento; obteve prisão domiciliar humanitária. As defesas sustentam que as penas são excessivas: o Congresso aprovou e promulgou a Lei da Dosimetria (que impede a soma das penas de golpe e abolição violenta e reduz penas em 'contexto de multidão'), com apoio de 39% na Quaest. Flávio Bolsonaro declarou que 'derrotar Lula é o que vai salvar meu pai da prisão'. Ramagem alega perseguição e pediu asilo nos EUA; a defesa de Eduardo nega coação."
   },
-  "status_atual_md": "**Condenações definitivas (AP 2668, trânsito em 25/11/2025)**: Bolsonaro cumpre 27a3m em prisão domiciliar por razões de saúde; Ramagem está foragido nos EUA. **Eduardo Bolsonaro**: condenado por coação (4a2m) e difamação (1 ano), embargos rejeitados, sem trânsito confirmado nas notas. **8/1**: 1.402 condenados. **Lei da Dosimetria**: promulgada em 08/05/2026 e suspensa por decisão monocrática de Moraes em 09/05/2026, sem julgamento de mérito até out/2026 — não houve anistia; houve lei de redução de penas, suspensa. A redução, se aplicada, não é automática: cada defesa deve pedir ao STF.",
+  "status_atual_md": "**Condenações definitivas (AP 2668, trânsito declarado em 25/11/2025, com penas e locais de custódia individualizados)**: Bolsonaro cumpre 27a3m em prisão domiciliar por razões de saúde, com a Revisão Criminal 6.021 pendente (PGR pelo não conhecimento); Braga Netto (26a), Torres (24a), Garnier (24a), Heleno (21a) e Paulo Sérgio (19a) cumprem pena em unidades militares/policiais; Cid cumpre 2 anos em regime aberto; Ramagem (16a1m15d) está foragido nos EUA, com a AP 2737 (8/1) sem julgamento. **Eduardo Bolsonaro**: condenado por coação (AP 2782, 4a2m, 4x0) e difamação (1 ano), embargos rejeitados, sem trânsito confirmado nas notas. **8/1**: 1.374 responsabilizados em dez/2025 (810 condenados + 564 ANPPs) e 1.402 em abr/2026 (850 condenados + 552 ANPPs) — 'condenados' e 'responsabilizados' não são sinônimos. **Lei da Dosimetria**: promulgada em 08/05/2026 e suspensa por decisão monocrática de Moraes em 09/05/2026, sem julgamento de mérito até out/2026 — não houve anistia; houve lei de redução de penas, suspensa. A redução, se aplicada, não é automática: cada defesa deve pedir ao STF.",
   "lacunas": [
-    "Penas individuais de Braga Netto, Heleno, Torres, Garnier, Paulo Sérgio e Cid e locais de prisão não constam nas notas (verificar no STF, AP 2668).",
-    "Trânsito em julgado não confirmado individualmente para os co-réus além de Bolsonaro e Ramagem.",
-    "Contagem de votos da condenação de Eduardo Bolsonaro em 16/06/2026 não localizada.",
-    "Julgamento da AP 2737 (Ramagem/8 de janeiro) não localizado.",
-    "Desfecho do processo de Paulo Figueiredo não detalhado.",
+    "Trânsito em julgado dos co-réus consta apenas da decisão genérica de 25/11/2025 (não de certidões individuais).",
+    "Julgamento da AP 2737 (Ramagem/8 de janeiro) e do processo desmembrado de Paulo Figueiredo não localizados até 21/10/2026.",
+    "Situação de Bolsonaro jul–out/2026 sem fato novo além da RvC 6.021 pendente.",
     "Fontes divergem sobre o local da prisão de Bolsonaro em jan/2026 ('Papuda' na Gazeta do Povo; 'Papudinha' na CNN).",
-    "Filiação partidária dos militares condenados não informada nas notas."
+    "As séries do STF sobre o 8/1 divergem na contagem de ANPPs (552 vs 564) e no critério graves/leves; não há painel CNJ/STF com 'penas médias'.",
+    "Filiação partidária dos militares condenados não informada nas notas.",
+    "Trânsito em julgado das condenações de Eduardo Bolsonaro não confirmado."
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/05_escandalos_recentes_inss_master_bolsonaro.md",
   "fontes": [
@@ -578,10 +742,34 @@
       "tier": "imprensa"
     },
     {
+      "nome": "STF Notícias, 11/09/2025: STF fixa penas de 16 a 27 anos para condenados por tentativa de golpe de Estado",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-fixa-penas-de-16-a-27-anos-para-condenados-por-tentativa-de-golpe-de-estado/",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
       "nome": "Agência Brasil, 30/04/2026: entenda como o PL da Dosimetria pode beneficiar condenados pelo 8/1",
       "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-04/entenda-como-o-pl-da-dosimetria-pode-beneficiar-condenados-pelo-81",
       "acesso_em": "2026-10-21",
       "tier": "imprensa"
+    },
+    {
+      "nome": "STF Notícias, jan/2025: em dois anos, STF responsabilizou 898 pessoas por atos antidemocráticos de 8 de janeiro",
+      "url": "https://noticias.stf.jus.br/postsnoticias/em-dois-anos-stf-responsabilizou-898-pessoas-por-atos-antidemocraticos-de-8-de-janeiro/",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "STF Notícias, ago/2025: atos antidemocráticos de 8/1 — 1.190 pessoas já foram responsabilizadas",
+      "url": "https://noticias.stf.jus.br/postsnoticias/atos-antidemocraticos-de-8-1-1-190-pessoas-ja-foram-responsabilizadas/",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "STF Notícias, 16/12/2025 (atualizado 08/01/2026): 1ª Turma faz balanço dos julgamentos sobre atos antidemocráticos",
+      "url": "https://noticias.stf.jus.br/postsnoticias/1a-turma-faz-balanco-dos-julgamentos-sobre-atos-antidemocraticos/",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
     },
     {
       "nome": "Revista Oeste: PL da Dosimetria pode beneficiar 600 condenados pelo 8 de janeiro, diz associação",
@@ -602,10 +790,10 @@
       "tier": "imprensa"
     },
     {
-      "nome": "Wikipédia pt, Eduardo Bolsonaro (índice)",
-      "url": "https://pt.wikipedia.org/wiki/Eduardo_Bolsonaro",
+      "nome": "MPF/PGR, 16/06/2026: STF condena Eduardo Bolsonaro a quatro anos e dois meses por coação no curso do processo",
+      "url": "https://www.mpf.mp.br/o-mpf/unidades/procuradoria-geral-da-republica-pgr/noticias/stf-condena-eduardo-bolsonaro-a-quatro-anos-e-dois-meses-de-prisao-pelo-crime-de-coacao-no-curso-do-processo",
       "acesso_em": "2026-10-21",
-      "tier": "imprensa"
+      "tier": "oficial"
     },
     {
       "nome": "Diário de Pernambuco, 11/09/2025: ex-diretor da Abin Alexandre Ramagem é condenado a 16 anos",
@@ -614,20 +802,14 @@
       "tier": "imprensa"
     },
     {
-      "nome": "Poder360: STF determina perda do mandato de Ramagem",
-      "url": "https://www.poder360.com.br/poder-justica/stf-determina-perda-do-mandato-de-ramagem/",
+      "nome": "STF Notícias, 25/11/2025: AP 2668 — STF determina cumprimento imediato da pena dos réus do núcleo 1",
+      "url": "https://noticias.stf.jus.br/postsnoticias/ap-2668-stf-determina-cumprimento-imediato-da-pena-dos-sete-reus-do-nucleo-1-da-tentativa-de-golpe/",
       "acesso_em": "2026-10-21",
-      "tier": "imprensa"
+      "tier": "oficial"
     },
     {
-      "nome": "Wikipédia pt, Alexandre Ramagem (índice)",
-      "url": "https://pt.wikipedia.org/wiki/Alexandre_Ramagem",
-      "acesso_em": "2026-10-21",
-      "tier": "imprensa"
-    },
-    {
-      "nome": "Congresso em Foco: 1ª Turma aceita denúncia e Eduardo Bolsonaro vira réu por coação",
-      "url": "https://www.congressoemfoco.com.br/noticia/114232/1-turma-aceita-denuncia-e-eduardo-bolsonaro-vira-reu-por-coacao",
+      "nome": "Wikipédia pt, Eduardo Bolsonaro (índice)",
+      "url": "https://pt.wikipedia.org/wiki/Eduardo_Bolsonaro",
       "acesso_em": "2026-10-21",
       "tier": "imprensa"
     },
@@ -638,8 +820,44 @@
       "tier": "imprensa"
     },
     {
+      "nome": "Congresso em Foco: 1ª Turma aceita denúncia e Eduardo Bolsonaro vira réu por coação",
+      "url": "https://www.congressoemfoco.com.br/noticia/114232/1-turma-aceita-denuncia-e-eduardo-bolsonaro-vira-reu-por-coacao",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Wikipédia pt, Alexandre Ramagem (índice)",
+      "url": "https://pt.wikipedia.org/wiki/Alexandre_Ramagem",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Congresso em Foco, 22/12/2025: STF retoma ação penal contra Ramagem por crimes no 8 de janeiro (AP 2737)",
+      "url": "https://www.congressoemfoco.com.br/noticia/115116/stf-retoma-acao-penal-contra-ramagem-por-crimes-no-8-de-janeiro",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Poder360, 12/03/2026: PGR pede condenação de Ramagem pelo 8 de janeiro (PDF)",
+      "url": "https://static.poder360.com.br/2026/03/PGR-pede-condenacao-ramagem-8-janeiro-12.mar_.2026.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "STF Notícias, 12/05/2026: ex-presidente Bolsonaro apresenta revisão criminal (RvC 6.021)",
+      "url": "https://noticias.stf.jus.br/postsnoticias/ex-presidente-bolsonaro-apresenta-revisao-criminal-contra-condenacao-por-tentativa-de-golpe-de-estado/",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
       "nome": "Revista Fórum: STF, dosimetria e anistia",
       "url": "https://revistaforum.com.br/politica/stf-dosimetria-anistia-golpistas/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Tribuna do Planalto, 06/10/2026: revisão que pode anular condenação de Bolsonaro aguarda decisão de Nunes Marques",
+      "url": "https://tribunadoplanalto.com.br/revisao-que-pode-anular-condenacao-de-bolsonaro-aguarda-decisao-de-nunes-marques-no-stf/",
       "acesso_em": "2026-10-21",
       "tier": "imprensa"
     }

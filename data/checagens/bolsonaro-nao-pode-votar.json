@@ -1,0 +1,191 @@
+{
+  "id": "chk-2109",
+  "slug": "bolsonaro-nao-pode-votar",
+  "frase": "Nem em mim ele pode votar, porque ele foi vítima da perseguição.",
+  "frase_normalizada": "nem em mim ele pode votar porque ele foi vitima da perseguicao",
+  "variantes": [
+    "Ele não pode votar em você nem em mim. Ele não pode votar em ninguém porque…",
+    "Bolsonaro está preso",
+    "Meu pai é perseguido"
+  ],
+  "autor": {
+    "nome": "Flávio Bolsonaro",
+    "partido": "PL",
+    "cargo": "senador (RJ) e candidato à Presidência"
+  },
+  "lado": "oposicao-flavio-pl",
+  "alvo": {
+    "nome": "STF (condenação de Jair Bolsonaro)",
+    "partido": null
+  },
+  "data": "2026-10-18",
+  "onde": "Debate da Band (consórcio Band/Cultura/Gazeta/Jovem Pan/Estadão), São Paulo",
+  "url_declaracao": "https://www.youtube.com/watch?v=Gqc1rQtzWUk",
+  "temas": [
+    "justica-stf",
+    "eleicao-2026"
+  ],
+  "tags": [
+    "justica-stf",
+    "eleicao-2026"
+  ],
+  "veredito": "verdadeiro-mas",
+  "resumo_uma_frase": "É verdade que Jair Bolsonaro não pode votar: condenado em definitivo pelo STF na AP 2668 (trânsito em julgado em 25/11/2025), tem os direitos políticos suspensos enquanto durarem os efeitos da condenação (CF, art. 15, III) e cumpre pena em prisão domiciliar humanitária desde 24/03/2026; 'vítima da perseguição' é a tese da defesa, rejeitada pela 1ª Turma (4 a 1) e ainda pendente na revisão criminal 6.021.",
+  "explicacao_simples": [
+    "Bolsonaro não pode votar porque foi condenado em definitivo: a Constituição suspende os direitos políticos de quem tem condenação criminal transitada em julgado.",
+    "Ele está preso: cumpre a pena de 27 anos e 3 meses, hoje em prisão domiciliar por razões de saúde, por prazo indeterminado.",
+    "Chamar a condenação de perseguição é a posição da defesa, que pede revisão no STF; o tribunal condenou por 4 a 1 e a revisão ainda não foi julgada."
+  ],
+  "explicacao_completa_md": "**A troca no debate:** no bloco sobre os '73% dos presidiários' (≈20h50), Lula disse 'Eu quero que vote os 100% até teu pai'; Flávio respondeu, segundo a imprensa, 'Nem em mim ele pode votar, porque ele foi vítima da perseguição' (a legenda automática registra 'Ele não pode votar em você nem em mim. Ele não pode votar em ninguém porque…', com corte). **Por que não vota:** a Constituição (art. 15, III) suspende os direitos políticos por 'condenação criminal transitada em julgado, enquanto durarem seus efeitos'; presos provisórios e adolescentes internados podem votar, condenados definitivos não. Bolsonaro foi condenado pela 1ª Turma do STF em 11/09/2025 (4 a 1; Fux absolveu) a 27 anos e 3 meses; Moraes declarou o trânsito em julgado em 25/11/2025, referendado por unanimidade em sessão virtual encerrada em 26/11/2025. Além disso, está inelegível até 2030 por duas condenações do TSE (30/06/2023 e 31/10/2023, ambas por 5 a 2) e foi declarado inelegível por 8 anos após o cumprimento da pena na AP 2668. **Onde está:** preso preventivamente na Superintendência da PF em 22/11/2025; Papudinha em 15/01/2026; prisão domiciliar humanitária desde 24/03/2026, mantida por prazo indeterminado em 03/07/2026; em 12/10/2026 Moraes liberou as visitas de Flávio. **'Perseguição':** é a tese da defesa na Revisão Criminal 6.021 (08/05/2026; relator Nunes Marques), que alega, entre outros pontos, que o julgamento deveria ter sido no Plenário e que a delação de Cid é nula; a PGR (16/06/2026) opinou pelo não conhecimento, dizendo que a condenação 'está assentada em vigoroso conjunto probatório'. Sem julgamento até 21/10/2026.",
+  "o_que_e_verdade": [
+    "Bolsonaro não pode votar: a condenação definitiva (trânsito em julgado em 25/11/2025) suspende seus direitos políticos (CF, art. 15, III).",
+    "Ele cumpre a pena de 27 anos e 3 meses, em prisão domiciliar humanitária desde 24/03/2026."
+  ],
+  "o_que_nao_se_sustenta": [
+    "'Vítima da perseguição' como fato: a condenação foi decidida por 4 a 1 e transitou em julgado; a revisão criminal da defesa está pendente e a PGR se manifestou contra."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "STF (1ª Turma)",
+      "papel": "condenou em definitivo; a suspensão dos direitos políticos decorre da Constituição",
+      "peso": "alto"
+    },
+    {
+      "ator": "Nunes Marques (STF)",
+      "papel": "relator da revisão criminal 6.021, ainda não julgada",
+      "peso": "medio"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Pena de Jair Bolsonaro na AP 2668",
+      "valor": 27.25,
+      "unidade": "anos (27 anos e 3 meses)",
+      "periodo": "11/09/2025",
+      "fonte": {
+        "nome": "STF Notícias, 11/09/2025 (penas de 16 a 27 anos)",
+        "url": "https://noticias.stf.jus.br/postsnoticias/stf-fixa-penas-de-16-a-27-anos-para-condenados-por-tentativa-de-golpe-de-estado/",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Placar da condenação de Bolsonaro na 1ª Turma do STF",
+      "valor": 4,
+      "unidade": "votos a 1 (Fux vencido)",
+      "periodo": "11/09/2025",
+      "fonte": {
+        "nome": "STF Notícias, 11/09/2025 (penas de 16 a 27 anos)",
+        "url": "https://noticias.stf.jus.br/postsnoticias/stf-fixa-penas-de-16-a-27-anos-para-condenados-por-tentativa-de-golpe-de-estado/",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Ano até o qual Bolsonaro está inelegível pelas condenações do TSE",
+      "valor": 2030,
+      "unidade": "ano-limite (02/10/2030)",
+      "periodo": "2023",
+      "fonte": {
+        "nome": "Correio Braziliense, 31/10/2023 (TSE declara Bolsonaro inelegível de novo)",
+        "url": "https://www.correiobraziliense.com.br/webstories/flipar/2023/11/6054284-tse-declara-bolsonaro-inelegivel-de-novo-e-condena-braga-netto.html",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": null
+    }
+  ],
+  "series": [],
+  "checagens_externas": [],
+  "fontes": [
+    {
+      "nome": "STF Notícias, 11/09/2025 (penas de 16 a 27 anos)",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-fixa-penas-de-16-a-27-anos-para-condenados-por-tentativa-de-golpe-de-estado/",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Correio Braziliense, 31/10/2023 (TSE declara Bolsonaro inelegível de novo)",
+      "url": "https://www.correiobraziliense.com.br/webstories/flipar/2023/11/6054284-tse-declara-bolsonaro-inelegivel-de-novo-e-condena-braga-netto.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Band Jornalismo (YouTube, live integral do debate de 18/10/2026; legenda automática)",
+      "url": "https://www.youtube.com/watch?v=Gqc1rQtzWUk",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "STF Notícias, 25/11/2025 (cumprimento imediato da pena)",
+      "url": "https://noticias.stf.jus.br/postsnoticias/ap-2668-stf-determina-cumprimento-imediato-da-pena-dos-sete-reus-do-nucleo-1-da-tentativa-de-golpe/",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "O Povo, 19/10/2026 (voto de presos)",
+      "url": "https://www.opovo.com.br/noticias/politica/eleicoes/2026/10/19/voto-de-presos-no-brasil-em-2026-quem-pode-votar-e-como-funciona.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "O Povo, 16/10/2026 (STF decide sobre Bolsonaro após o 1º turno)",
+      "url": "https://www.opovo.com.br/noticias/politica/2026/10/16/stf-decide-sobre-bolsonaro-e-reus-do-8-1-apos-1-turno.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Diário de Pernambuco, 06/10/2026 (revisão criminal)",
+      "url": "https://www.diariodepernambuco.com.br/politica/2026/10/11725942-nunes-marques-indicado-por-jair-bolsonaro-quer-pautar-a-revisao-criminal-que-pode-libertar-o-ex-presidente.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Movimento Econômico, 30/06/2023 (TSE)",
+      "url": "https://movimentoeconomico.com.br/economia/justica/2023/06/30/tse-forma-maioria-para-tornar-bolsonaro-inelegivel-assista/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Nota 15 deste projeto (prisões de Lula e Bolsonaro)",
+      "url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/15_historia_prisao_lula_moro_bolsonaro.md",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "Bolsonaro está preso?",
+      "resposta": "Sim. Cumpre a pena de 27 anos e 3 meses; desde 24/03/2026 em prisão domiciliar humanitária, por prazo indeterminado desde 03/07/2026."
+    },
+    {
+      "pergunta": "Por que ele não pode votar?",
+      "resposta": "Porque a condenação transitou em julgado; o art. 15, III, da Constituição suspende os direitos políticos enquanto durarem os efeitos da condenação."
+    },
+    {
+      "pergunta": "A condenação ainda pode mudar?",
+      "resposta": "A defesa apresentou a revisão criminal 6.021, relatada por Nunes Marques; a PGR se manifestou pelo não conhecimento e não há data de julgamento."
+    }
+  ],
+  "relacionadas": [
+    "bolsonaro-condenado-por-golpe-sem-provas",
+    "73-por-cento-dos-presidiarios",
+    "flavio-nao-pode-dar-indulto-ao-pai",
+    "8-de-janeiro-nao-foi-golpe"
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação (enriquecimento rodada 2, 21/10/2026)"
+    }
+  ],
+  "exemplo": false,
+  "lacunas": [
+    "Nenhuma agência checou esta frase isoladamente; o veredito é do projeto (nota 14). A frase literal vem da imprensa; a legenda automática corta o fim.",
+    "As decisões de Moraes sobre a domiciliar (24/03 e 03/07/2026) correm em autos de execução e não foram lidas em fonte primária."
+  ]
+}

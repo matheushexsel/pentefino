@@ -6,8 +6,8 @@
   "tipo_grafico": "linha",
   "frequencia": "anual",
   "fonte": {
-    "nome": "Banco Central do Brasil, SGS 13521 (centro da meta); intervalos: resoluções do CMN",
-    "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.13521/dados?formato=json&dataInicial=01/01/2002&dataFinal=31/12/2027",
+    "nome": "Banco Central do Brasil, 'Histórico: meta de inflação vs. inflação efetiva' (centros, intervalos, normas e cartas abertas); IPCA: SGS 13522",
+    "url": "https://www.bcb.gov.br/controleinflacao/historicometas",
     "acesso_em": "2026-10-21",
     "tier": "oficial"
   },
@@ -20,7 +20,9 @@
       "teto": 6.5,
       "ipca": 9.3,
       "situacao": "estourou teto",
-      "intervalo_nao_verificado": true
+      "norma": "Res. CMN 2.972",
+      "data_norma": "27/06/2002",
+      "carta_aberta": true
     },
     {
       "periodo": "2004",
@@ -30,7 +32,9 @@
       "teto": 8.0,
       "ipca": 7.6,
       "situacao": "dentro",
-      "intervalo_nao_verificado": true
+      "norma": "Res. CMN 3.108",
+      "data_norma": "25/06/2003",
+      "carta_aberta": false
     },
     {
       "periodo": "2005",
@@ -40,7 +44,9 @@
       "teto": 7.0,
       "ipca": 5.69,
       "situacao": "dentro",
-      "intervalo_nao_verificado": true
+      "norma": "Res. CMN 3.108",
+      "data_norma": "25/06/2003",
+      "carta_aberta": false
     },
     {
       "periodo": "2006",
@@ -50,7 +56,9 @@
       "teto": 6.5,
       "ipca": 3.14,
       "situacao": "dentro",
-      "intervalo_nao_verificado": true
+      "norma": "Res. CMN 3.210",
+      "data_norma": "30/06/2004",
+      "carta_aberta": false
     },
     {
       "periodo": "2007",
@@ -60,7 +68,9 @@
       "teto": 6.5,
       "ipca": 4.46,
       "situacao": "dentro",
-      "intervalo_nao_verificado": true
+      "norma": "Res. CMN 3.291",
+      "data_norma": "23/06/2005",
+      "carta_aberta": false
     },
     {
       "periodo": "2008",
@@ -70,7 +80,9 @@
       "teto": 6.5,
       "ipca": 5.9,
       "situacao": "dentro",
-      "intervalo_nao_verificado": true
+      "norma": "Res. CMN 3.378",
+      "data_norma": "29/06/2006",
+      "carta_aberta": false
     },
     {
       "periodo": "2009",
@@ -80,7 +92,9 @@
       "teto": 6.5,
       "ipca": 4.31,
       "situacao": "dentro",
-      "intervalo_nao_verificado": true
+      "norma": "Res. CMN 3.463",
+      "data_norma": "26/06/2007",
+      "carta_aberta": false
     },
     {
       "periodo": "2010",
@@ -90,7 +104,9 @@
       "teto": 6.5,
       "ipca": 5.91,
       "situacao": "dentro",
-      "intervalo_nao_verificado": true
+      "norma": "Res. CMN 3.584",
+      "data_norma": "01/07/2008",
+      "carta_aberta": false
     },
     {
       "periodo": "2011",
@@ -100,7 +116,9 @@
       "teto": 6.5,
       "ipca": 6.5,
       "situacao": "exatamente no teto",
-      "intervalo_nao_verificado": true
+      "norma": "Res. CMN 3.748",
+      "data_norma": "30/06/2009",
+      "carta_aberta": false
     },
     {
       "periodo": "2012",
@@ -110,7 +128,9 @@
       "teto": 6.5,
       "ipca": 5.84,
       "situacao": "dentro",
-      "intervalo_nao_verificado": true
+      "norma": "Res. CMN 3.880",
+      "data_norma": "22/06/2010",
+      "carta_aberta": false
     },
     {
       "periodo": "2013",
@@ -120,7 +140,9 @@
       "teto": 6.5,
       "ipca": 5.91,
       "situacao": "dentro",
-      "intervalo_nao_verificado": true
+      "norma": "Res. CMN 3.991",
+      "data_norma": "30/06/2011",
+      "carta_aberta": false
     },
     {
       "periodo": "2014",
@@ -130,7 +152,9 @@
       "teto": 6.5,
       "ipca": 6.41,
       "situacao": "dentro",
-      "intervalo_nao_verificado": true
+      "norma": "Res. CMN 4.095",
+      "data_norma": "28/06/2012",
+      "carta_aberta": false
     },
     {
       "periodo": "2015",
@@ -140,7 +164,9 @@
       "teto": 6.5,
       "ipca": 10.67,
       "situacao": "estourou teto",
-      "intervalo_nao_verificado": true
+      "norma": "Res. CMN 4.237",
+      "data_norma": "28/06/2013",
+      "carta_aberta": true
     },
     {
       "periodo": "2016",
@@ -150,7 +176,9 @@
       "teto": 6.5,
       "ipca": 6.29,
       "situacao": "dentro",
-      "intervalo_nao_verificado": true
+      "norma": "Res. CMN 4.345",
+      "data_norma": "25/06/2014",
+      "carta_aberta": false
     },
     {
       "periodo": "2017",
@@ -160,7 +188,9 @@
       "teto": 6.0,
       "ipca": 2.95,
       "situacao": "abaixo do piso",
-      "intervalo_nao_verificado": true
+      "norma": "Res. CMN 4.419",
+      "data_norma": "25/06/2015",
+      "carta_aberta": true
     },
     {
       "periodo": "2018",
@@ -170,7 +200,9 @@
       "teto": 6.0,
       "ipca": 3.75,
       "situacao": "dentro",
-      "intervalo_nao_verificado": true
+      "norma": "Res. CMN 4.499",
+      "data_norma": "30/06/2016",
+      "carta_aberta": false
     },
     {
       "periodo": "2019",
@@ -180,7 +212,9 @@
       "teto": 5.75,
       "ipca": 4.31,
       "situacao": "dentro",
-      "intervalo_nao_verificado": true
+      "norma": "Res. CMN 4.582",
+      "data_norma": "29/06/2017",
+      "carta_aberta": false
     },
     {
       "periodo": "2020",
@@ -190,7 +224,9 @@
       "teto": 5.5,
       "ipca": 4.52,
       "situacao": "dentro",
-      "intervalo_nao_verificado": true
+      "norma": "Res. CMN 4.582",
+      "data_norma": "29/06/2017",
+      "carta_aberta": false
     },
     {
       "periodo": "2021",
@@ -200,7 +236,9 @@
       "teto": 5.25,
       "ipca": 10.06,
       "situacao": "estourou teto",
-      "intervalo_nao_verificado": true
+      "norma": "Res. CMN 4.671",
+      "data_norma": "26/06/2018",
+      "carta_aberta": true
     },
     {
       "periodo": "2022",
@@ -210,7 +248,9 @@
       "teto": 5.0,
       "ipca": 5.79,
       "situacao": "estourou teto",
-      "intervalo_nao_verificado": true
+      "norma": "Res. CMN 4.724",
+      "data_norma": "27/06/2019",
+      "carta_aberta": true
     },
     {
       "periodo": "2023",
@@ -220,7 +260,9 @@
       "teto": 4.75,
       "ipca": 4.62,
       "situacao": "dentro",
-      "intervalo_nao_verificado": true
+      "norma": "Res. CMN 4.831",
+      "data_norma": "25/06/2020",
+      "carta_aberta": false
     },
     {
       "periodo": "2024",
@@ -230,7 +272,9 @@
       "teto": 4.5,
       "ipca": 4.83,
       "situacao": "estourou teto",
-      "intervalo_nao_verificado": true
+      "norma": "Res. CMN 4.918",
+      "data_norma": "24/06/2021",
+      "carta_aberta": true
     },
     {
       "periodo": "2025",
@@ -240,7 +284,10 @@
       "teto": 4.5,
       "ipca": 4.26,
       "situacao": "descumprida pelo critério contínuo (dez/2025 dentro)",
-      "intervalo_nao_verificado": true
+      "norma": "Res. CMN 5.141 (meta contínua)",
+      "data_norma": "26/06/2024",
+      "carta_aberta": true,
+      "carta_aberta_data": "10/07/2025"
     },
     {
       "periodo": "2026",
@@ -250,26 +297,28 @@
       "teto": 4.5,
       "ipca": 4.58,
       "situacao": "fora do intervalo em mai, jun e set/2026 (em curso)",
-      "intervalo_nao_verificado": true
+      "norma": "Res. CMN 5.141 (meta contínua)",
+      "data_norma": "26/06/2024",
+      "carta_aberta": null
     }
   ],
   "faixas_referencia": [],
   "notas_metodologicas": [
-    "O campo valor é o centro da meta. Os centros das metas e os IPCAs são dados oficiais do SGS.",
-    "Os pisos e tetos (intervalos de tolerância) são de conhecimento geral das resoluções do CMN e NÃO foram verificados na página oficial do BCB (renderizada em JavaScript); conferir antes de publicar.",
-    "Em 2003 o BC usou 'meta ajustada' de 8,5%.",
-    "Desde 2025 vale a meta contínua (Decreto 12.079/2024): a meta é descumprida quando o IPCA em 12 meses fica fora do intervalo por seis meses seguidos. Em 2025 ficou acima de 4,5% de janeiro a outubro (10 meses), configurando descumprimento em jun/2025.",
+    "O campo valor é o centro da meta; piso e teto são o intervalo de tolerância; ipca é o IPCA do ano (dez/dez).",
+    "Rodada 2 (21/10/2026): todos os 24 intervalos foram confirmados na página oficial do BCB (conteúdo obtido via https://www.bcb.gov.br/api/paginasite/sitebcb/controleinflacao/historicometas); os flags de não verificado da rodada 1 foram removidos. Texto oficial: entre 1999 e 2024 a inflação ficou fora do intervalo em 2001, 2002, 2003, 2015, 2017, 2021, 2022 e 2024.",
+    "Centros da meta também em BCB SGS 13521: https://api.bcb.gov.br/dados/serie/bcdata.sgs.13521/dados?formato=json&dataInicial=01/01/2002&dataFinal=31/12/2027",
+    "Em 2003 o BC usou 'meta ajustada' de 8,5% (carta aberta de 21/01/2003, que também ajustou 2004 para 5,5%).",
+    "Desde 2025 vale a meta contínua (Decreto 12.079/2024; Res. CMN 5.141): descumprida quando o IPCA em 12 meses fica fora do intervalo por seis meses seguidos. Em jun/2025 o IPCA 12 meses atingiu 5,35% (6º mês acima de 4,5%), caracterizando descumprimento; a carta aberta foi divulgada em 10/07/2025 (Relatório de Política Monetária set/2025, p. 103: https://www.bcb.gov.br/content/ri/relatorioinflacao/202509/rpm202509p.pdf).",
+    "Projeções do Copom (ata da 281ª reunião, 16/09/2026): IPCA 2026 = 5,2%; 2027 = 3,9%; 1T2028 = 3,2%.",
     "2026: IPCA acumulado em 12 meses até set/2026 (parcial)."
   ],
   "lacunas": [
-    "Intervalos de tolerância por ano não verificados na página oficial do BCB.",
-    "Não verificado se/quando o BC publicou carta aberta de descumprimento referente a 2025."
+    "Texto da carta aberta de 10/07/2025 (PDF) não baixado; existência e data confirmadas pelo RPM de set/2025."
   ],
   "ultimo_periodo": "2026",
   "temas": [
     "economia"
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/01_macroeconomia_por_governo.md",
-  "atualizado_em": "2026-10-21",
-  "nao_verificado": true
+  "atualizado_em": "2026-10-21"
 }

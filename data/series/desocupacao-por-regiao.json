@@ -1,0 +1,85 @@
+{
+  "id": "desocupacao-por-regiao",
+  "titulo": "Taxa de desocupação por Grande Região",
+  "descricao_simples": "Desemprego em cada região do país em trimestres selecionados (2014–2026).",
+  "unidade": "% da força de trabalho (2T2026)",
+  "tipo_grafico": "barra",
+  "frequencia": "trimestral",
+  "fonte": {
+    "nome": "IBGE/SIDRA, tabela 4099, nível Grande Região",
+    "url": "https://apisidra.ibge.gov.br/values/t/4099/n2/all/v/4099/p/all",
+    "acesso_em": "2026-10-21",
+    "tier": "oficial"
+  },
+  "pontos": [
+    {
+      "periodo": "Norte",
+      "valor": 6.1,
+      "4T2014": 6.9,
+      "4T2019": 10.7,
+      "4T2020": 12.6,
+      "4T2022": 8.0,
+      "4T2025": 5.8,
+      "2T2026": 6.1
+    },
+    {
+      "periodo": "Nordeste",
+      "valor": 7.6,
+      "4T2014": 8.3,
+      "4T2019": 13.8,
+      "4T2020": 17.5,
+      "4T2022": 10.9,
+      "4T2025": 7.1,
+      "2T2026": 7.6
+    },
+    {
+      "periodo": "Sudeste",
+      "valor": 5.2,
+      "4T2014": 6.7,
+      "4T2019": 11.5,
+      "4T2020": 15.1,
+      "4T2022": 7.9,
+      "4T2025": 4.8,
+      "2T2026": 5.2
+    },
+    {
+      "periodo": "Sul",
+      "valor": 3.2,
+      "4T2014": 3.8,
+      "4T2019": 6.8,
+      "4T2020": 8.4,
+      "4T2022": 4.5,
+      "4T2025": 3.1,
+      "2T2026": 3.2
+    },
+    {
+      "periodo": "Centro-Oeste",
+      "valor": 3.8,
+      "4T2014": 5.4,
+      "4T2019": 9.5,
+      "4T2020": 12.1,
+      "4T2022": 6.2,
+      "4T2025": 3.9,
+      "2T2026": 3.8
+    },
+    {
+      "periodo": "Brasil",
+      "valor": 5.4,
+      "4T2014": 6.6,
+      "4T2019": 11.1,
+      "4T2020": 14.2,
+      "4T2022": 7.9,
+      "4T2025": 5.1,
+      "2T2026": 5.4
+    }
+  ],
+  "faixas_referencia": [],
+  "notas_metodologicas": [],
+  "lacunas": [],
+  "ultimo_periodo": "2T2026",
+  "temas": [
+    "emprego-renda"
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/03_emprego_renda_pobreza_social.md",
+  "atualizado_em": "2026-10-21"
+}

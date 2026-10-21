@@ -14,24 +14,15 @@
     "lula": {
       "checadas": 19,
       "por_veredito": {
-        "verdadeiro": 4,
+        "verdadeiro": 3,
         "verdadeiro-mas": 5,
         "impreciso": 4,
-        "exagerado": 0,
         "falta-contexto": 2,
         "insustentavel": 1,
-        "falso": 5,
+        "falso": 4,
         "opiniao": 1
       },
-      "contagem_arquivos": {
-        "falso": 4,
-        "verdadeiro-mas": 5,
-        "falta-contexto": 2,
-        "impreciso": 4,
-        "verdadeiro": 3,
-        "opiniao": 1,
-        "insustentavel": 1
-      }
+      "criterio": "contagem dos arquivos de data/falas/ deste evento (frases únicas; opiniões em linha própria e fora de 'checadas'; falas de aliados não incluídas)"
     }
   },
   "falas": [
@@ -94,6 +85,17 @@
   "atualizado_em": "2026-10-21",
   "lacunas": [
     "Duração e nomes dos entrevistadores não constam nas checagens (um 'Igor' é citado).",
-    "A contagem publicada na nota (20 itens; verdadeiro 4; falso 5) difere do item a item do catálogo (verdadeiro 3; falso 4)."
+    "Rodada 2: a contagem do evento foi corrigida para verdadeiro 3 e falso 4 (a linha antiga somava 21); o placar deste arquivo é contado a partir dos arquivos de falas.",
+    "Audiência não obtida."
+  ],
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "rodada 2: placar recontado a partir dos arquivos de falas; lacunas e fontes atualizadas"
+    }
   ]
 }

@@ -1,0 +1,131 @@
+{
+  "id": "chk-2112",
+  "slug": "flavio-votou-contra-a-isencao-do-ir",
+  "frase": "Flávio votou contra a isenção do IR até R$ 5 mil, o Pé-de-Meia e a valorização do salário mínimo.",
+  "frase_normalizada": "flavio votou contra a isencao do ir ate r 5 mil o pe de meia e a valorizacao do salario minimo",
+  "variantes": [
+    "Flávio votou contra o Pé-de-Meia",
+    "Flávio votou contra o aumento do salário mínimo"
+  ],
+  "autor": {
+    "nome": "frase que circula nas redes",
+    "partido": null,
+    "cargo": null
+  },
+  "lado": "ambos",
+  "alvo": {
+    "nome": "Flávio Bolsonaro",
+    "partido": "PL"
+  },
+  "data": null,
+  "onde": null,
+  "url_declaracao": null,
+  "temas": [
+    "impostos",
+    "emprego-renda",
+    "educacao",
+    "eleicao-2026"
+  ],
+  "tags": [
+    "impostos",
+    "emprego-renda",
+    "educacao",
+    "eleicao-2026"
+  ],
+  "veredito": "insustentavel",
+  "resumo_uma_frase": "Não há voto de Flávio a atribuir: as três leis passaram no Senado sem votação nominal — a lista de votações nominais do senador na API do Senado não registra nenhuma delas — e a isenção do IR até R$ 5 mil (Lei 15.270/2025) foi aprovada em 'votação unânime' em 05/11/2025.",
+  "explicacao_simples": [
+    "Circula a ideia de que Flávio votou contra a isenção do IR, o Pé-de-Meia e a política do salário mínimo.",
+    "Nos registros do Senado não existe voto nominal de nenhum senador nessas três leis: elas passaram sem painel, e a do IR foi descrita como 'votação unânime'.",
+    "Sem voto registrado, não dá para dizer que ele votou contra; o que existe registrado são os votos contra o arcabouço e a reforma tributária."
+  ],
+  "explicacao_completa_md": "**O que dizem os registros:** a API de dados abertos do Senado lista as votações nominais de Flávio (senador 5894) por ano da matéria. Para matérias de 2023 não há votação nominal da política de valorização do salário mínimo (PL 2.236/2023, Lei 14.663/2023, ago/2023) nem do Pé-de-Meia (PL 5.230/2023, Lei 14.818/2024, dez/2023); para matérias de 2025 não há votação nominal da isenção do IR até R$ 5 mil (PL 1.087/2025, Lei 15.270/2025), aprovada em 05/11/2025 no que o Senado Notícias chamou de 'votação unânime'. A ausência indica aprovação sem painel (simbólica); a modalidade não foi confirmada em Senado Notícias. **Origem:** a nota 09 registra que uma lista de 'votou contra' com esses três itens circulou, sem checagem de agência localizada. **O que é verificável:** Flávio votou NÃO ao arcabouço fiscal (2023) e à reforma tributária (2023) e sua regulamentação (2024), e SIM à Lei Antifacção (2025) e ao fim da 6x1 (2026).",
+  "o_que_e_verdade": [
+    "As três leis foram aprovadas; a isenção do IR passou no Senado em 'votação unânime' (05/11/2025)."
+  ],
+  "o_que_nao_se_sustenta": [
+    "'Votou contra': não há votação nominal das três matérias no Senado, portanto não há voto individual de Flávio a atribuir; no caso do IR, a votação foi descrita como unânime."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Senado Federal",
+      "papel": "aprovou as três leis sem votação nominal",
+      "peso": "alto"
+    },
+    {
+      "ator": "Autores da lista que circula",
+      "papel": "atribuíram votos sem registro",
+      "peso": "medio"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Votações nominais de Flávio registradas para as três leis",
+      "valor": 0,
+      "unidade": "votações",
+      "periodo": "2023-2025",
+      "fonte": {
+        "nome": "Senado, dados abertos — votações nominais do senador 5894 (matérias de 2023)",
+        "url": "https://legis.senado.leg.br/dadosabertos/senador/5894/votacoes.json?ano=2023",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": null
+    }
+  ],
+  "series": [],
+  "checagens_externas": [],
+  "fontes": [
+    {
+      "nome": "Senado, dados abertos — votações nominais do senador 5894 (matérias de 2023)",
+      "url": "https://legis.senado.leg.br/dadosabertos/senador/5894/votacoes.json?ano=2023",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Senado, dados abertos — votações nominais do senador 5894 (matérias de 2025)",
+      "url": "https://legis.senado.leg.br/dadosabertos/senador/5894/votacoes.json?ano=2025",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Senado Notícias, 06/11/2025 (votação unânime da isenção do IR)",
+      "url": "https://www12.senado.leg.br/noticias/audios/2025/11/em-votacao-unanime-plenario-isenta-do-ir-quem-ganha-ate-r-5-mil",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/09_acusacoes_e_falas_flavio_x_lula.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "Flávio votou contra a isenção do IR até R$ 5 mil?",
+      "resposta": "Não há registro de voto contrário: a lei passou no Senado sem votação nominal, em 'votação unânime' (05/11/2025)."
+    },
+    {
+      "pergunta": "E o Pé-de-Meia e o salário mínimo?",
+      "resposta": "Também passaram sem votação nominal no Senado; não há voto individual registrado."
+    },
+    {
+      "pergunta": "Em que votações Flávio votou contra o governo?",
+      "resposta": "No arcabouço fiscal (2023) e na reforma tributária e sua regulamentação (2023 e 2024), entre outras."
+    }
+  ],
+  "relacionadas": [
+    "flavio-votou-contra-o-arcabouco",
+    "flavio-votou-contra-a-reforma-tributaria",
+    "isencao-do-ir-ate-5-mil-beneficia-x-milhoes",
+    "pe-de-meia-reduziu-evasao"
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação (enriquecimento rodada 2, 21/10/2026)"
+    }
+  ],
+  "exemplo": false,
+  "nao_verificado": true,
+  "lacunas": [
+    "Autoria e alcance da lista 'votou contra' não documentados (nota 09: não encontrada em checagem); a modalidade das votações (simbólica) não foi confirmada em Senado Notícias."
+  ]
+}

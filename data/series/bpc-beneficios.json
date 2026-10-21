@@ -1,0 +1,103 @@
+{
+  "id": "bpc-beneficios",
+  "titulo": "BPC: benefícios em dezembro e valor pago por ano",
+  "descricao_simples": "Quantas pessoas recebem o Benefício de Prestação Continuada (idosos e pessoas com deficiência de baixa renda) e quanto custa por ano.",
+  "unidade": "benefícios (dezembro)",
+  "tipo_grafico": "linha",
+  "frequencia": "anual",
+  "fonte": {
+    "nome": "Ipeadata, séries PES_BPC (benefícios) e VAL_BPC (valor mensal), origem MDS",
+    "url": "http://www.ipeadata.gov.br/api/odata4/ValoresSerie(SERCODIGO='PES_BPC')",
+    "acesso_em": "2026-10-21",
+    "tier": "oficial"
+  },
+  "pontos": [
+    {
+      "periodo": "dez/2019",
+      "valor": 4626185,
+      "valor_mensal_dez_reais_bilhoes": 4.64,
+      "valor_pago_ano_reais_bilhoes": 55.5
+    },
+    {
+      "periodo": "dez/2020",
+      "valor": 4657978,
+      "valor_mensal_dez_reais_bilhoes": 4.87,
+      "valor_pago_ano_reais_bilhoes": 58.2
+    },
+    {
+      "periodo": "dez/2021",
+      "valor": 4708582,
+      "valor_mensal_dez_reais_bilhoes": 5.18,
+      "valor_pago_ano_reais_bilhoes": 61.8
+    },
+    {
+      "periodo": "dez/2022",
+      "valor": 5115806,
+      "valor_mensal_dez_reais_bilhoes": 6.2,
+      "valor_pago_ano_reais_bilhoes": 70.9
+    },
+    {
+      "periodo": "dez/2023",
+      "valor": 5710833,
+      "valor_mensal_dez_reais_bilhoes": 7.54,
+      "valor_pago_ano_reais_bilhoes": 85.1
+    },
+    {
+      "periodo": "dez/2024",
+      "valor": 6292449,
+      "valor_mensal_dez_reais_bilhoes": 8.89,
+      "valor_pago_ano_reais_bilhoes": 102.3
+    },
+    {
+      "periodo": "dez/2025",
+      "valor": 6385830,
+      "valor_mensal_dez_reais_bilhoes": 9.69,
+      "valor_pago_ano_reais_bilhoes": 116.6
+    },
+    {
+      "periodo": "ago/2026",
+      "valor": 6522255,
+      "parcial": true
+    },
+    {
+      "periodo": "set/2026",
+      "valor": 6620994,
+      "valor_mensal_reais_bilhoes": 10.73,
+      "valor_pago_jan_set_2026_reais_bilhoes": 93.4,
+      "parcial": true
+    }
+  ],
+  "faixas_referencia": [
+    {
+      "rotulo": "Projeção PLDO 2026: beneficiários (milhões)",
+      "valor": 6.7
+    },
+    {
+      "rotulo": "Projeção PLDO 2026: gasto (R$ bi)",
+      "valor": 133.4
+    },
+    {
+      "rotulo": "BPC sujeito ao limite da LC 200 em 2026 (IFI, R$ bi)",
+      "valor": 136.0
+    },
+    {
+      "rotulo": "BPC no PLOA 2027 (R$ bi)",
+      "valor": 145.1
+    }
+  ],
+  "notas_metodologicas": [
+    "Soma do ano é aritmética da nota sobre a série mensal. A projeção de R$ 133,4 bi para 2026 é compatível com o ritmo de ~R$ 10,7 bi/mês no 2º semestre de 2026.",
+    "O BPC é indexado ao salário mínimo (R$ 1.621 em 2026). A EC 103/2019 alterou incentivos e o perfil de requerentes, um dos fatores do crescimento (governo Lula 3, PLDO 2026).",
+    "URL do valor: http://www.ipeadata.gov.br/api/odata4/ValoresSerie(SERCODIGO='VAL_BPC')"
+  ],
+  "lacunas": [
+    "Anos anteriores a 2019 não transcritos."
+  ],
+  "ultimo_periodo": "set/2026",
+  "temas": [
+    "pobreza-programas-sociais",
+    "direitos-sociais"
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/03_emprego_renda_pobreza_social.md",
+  "atualizado_em": "2026-10-21"
+}

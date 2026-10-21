@@ -5,8 +5,10 @@
   "candidato": "lula",
   "lado": "governo-lula-pt",
   "minuto": null,
+  "url_trecho": null,
   "frase_literal": "E tínhamos criado 22 milhões de empregos em oito anos.",
   "literal": true,
+  "variantes_literais": [],
   "tema": "emprego-renda",
   "veredito": "exagerado",
   "resumo_uma_frase": "A Rais registra 15,3 milhões de empregos formais criados entre 2003 e 2010; os 22 milhões só se aproximam somando o governo Dilma até 2015.",
@@ -36,7 +38,23 @@
       "comparacao": {
         "rotulo": "Número citado",
         "valor": 22
+      },
+      "fonte_primaria": {
+        "nome": "MTE — PDET (Novo Caged e RAIS)",
+        "url": "http://pdet.mte.gov.br/",
+        "acesso_em": null,
+        "tier": "oficial",
+        "acessada_na_rodada_2": false
       }
+    }
+  ],
+  "fontes_primarias": [
+    {
+      "nome": "MTE — PDET (Novo Caged e RAIS)",
+      "url": "http://pdet.mte.gov.br/",
+      "acesso_em": null,
+      "tier": "oficial",
+      "acessada_na_rodada_2": false
     }
   ],
   "base_legal": [],
@@ -83,5 +101,11 @@
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
-  "atualizado_em": "2026-10-21"
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ]
 }

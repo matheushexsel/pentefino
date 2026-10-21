@@ -30,7 +30,7 @@
     "Mas o texto aprovado foi redigido em grande parte pela oposição, com relatoria de Guilherme Derrite, e alterado no Senado.",
     "É uma lei dos dois lados: por isso Flávio diz 'nós aprovamos' e Lula diz 'fiz'."
   ],
-  "explicacao_completa_md": "Lupa: VERDADEIRO (Lei 15.358/2026, de 24/03/2026). O PL 5.582/2025 foi anunciado pelo governo em 31/10/2025, três dias após a Operação Contenção; relator na Câmara Guilherme Derrite (PP-SP), aprovado por 370 a 110; modificado pelo Senado (Alessandro Vieira); sancionado com dois vetos. A nota 07 descreve o caso como 'política de segurança bipartidária sob pressão eleitoral'.",
+  "explicacao_completa_md": "Lupa: VERDADEIRO (Lei 15.358/2026, de 24/03/2026). O PL 5.582/2025 foi anunciado pelo governo em 31/10/2025, três dias após a Operação Contenção; relator na Câmara Guilherme Derrite (PP-SP), aprovado por 370 a 110; modificado pelo Senado (Alessandro Vieira); sancionado com dois vetos. A nota 07 descreve o caso como 'política de segurança bipartidária sob pressão eleitoral'.\n\n**Atualização (enriquecimento, 21/10/2026):** texto confirmado no Planalto: Lei nº 15.358, de 24 de março de 2026 ('Lei Raul Jungmann'), publicada no DOU de 25/03/2026, com vigência imediata (origem: PL 5.582/2025); o crime de domínio social estruturado tem 'reclusão, de 20 (vinte) a 40 (quarenta) anos', com aumento 'de 2/3 (dois terços) ao dobro' em hipóteses agravadas; veda auxílio-reclusão a dependentes de presos por esses crimes e manda lideranças para presídio federal; segundo a Agência Senado, exige até 85% da pena em regime fechado e define facção como grupo de 3 ou mais pessoas; os dois vetos (enquadramento sem comprovação de vínculo com organização criminosa; destinação de bens a fundos estaduais/DF) aguardavam análise do Congresso. No Senado (10/12/2025) o substitutivo foi aprovado por 64 a 0, com voto SIM de Flávio Bolsonaro (lista nominal da API do Senado). Em 23/04/2026 o TSE decidiu, por unanimidade, que a restrição ao voto de presos prevista na lei não vale para as eleições de 2026 (princípio da anualidade).",
   "o_que_e_verdade": [
     "O governo apresentou o projeto e Lula o sancionou."
   ],
@@ -75,6 +75,19 @@
         "tier": "imprensa"
       },
       "comparacao": null
+    },
+    {
+      "rotulo": "Placar no Senado do PL Antifacção (substitutivo), com voto SIM de Flávio",
+      "valor": 64,
+      "unidade": "votos a 0",
+      "periodo": "10/12/2025",
+      "fonte": {
+        "nome": "Senado, dados abertos — lista de votação de 10/12/2025",
+        "url": "https://legis.senado.leg.br/dadosabertos/plenario/lista/votacao/20251210.json",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": null
     }
   ],
   "series": [],
@@ -110,6 +123,24 @@
       "url": "https://www.poder360.com.br/brasil/lula-sanciona-pl-antifaccao-com-veto-e-sem-alcolumbre-no-planalto/",
       "acesso_em": "2026-10-21",
       "tier": "imprensa"
+    },
+    {
+      "nome": "Senado, dados abertos — lista de votação de 10/12/2025",
+      "url": "https://legis.senado.leg.br/dadosabertos/plenario/lista/votacao/20251210.json",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Planalto, Lei 15.358/2026 (texto integral)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_Ato2023-2026/2026/Lei/L15358.htm",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Agência Senado, 25/03/2026 (lei entra em vigor)",
+      "url": "https://www12.senado.leg.br/noticias/materias/2026/03/25/lei-antifaccao-de-combate-ao-crime-organizado-entra-em-vigor",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/09_acusacoes_e_falas_flavio_x_lula.md",
@@ -136,6 +167,10 @@
     {
       "data": "2026-10-21",
       "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "enriquecimento rodada 2 (21/10/2026): Lei 15.358/2026 confirmada no Planalto; placar do Senado (64x0, Flávio SIM)"
     }
   ],
   "exemplo": false

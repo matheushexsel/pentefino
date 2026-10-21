@@ -1,0 +1,281 @@
+{
+  "id": "resultado-primario-por-esfera",
+  "titulo": "Resultado primário por esfera de governo (R$ bilhões)",
+  "descricao_simples": "Superávit (+) ou déficit (−) primário do setor público consolidado e de cada parte: governo central, estados, municípios e estatais.",
+  "unidade": "R$ bilhões correntes",
+  "tipo_grafico": "barra",
+  "frequencia": "anual",
+  "fonte": {
+    "nome": "Banco Central do Brasil, SGS 4649 (consolidado), 4639 (governo central), 4642 (regionais), 4643 (estados), 4644 (municípios), 4645 (estatais); soma dos fluxos mensais",
+    "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.4649/dados?formato=json&dataInicial=01/01/2002",
+    "acesso_em": "2026-10-21",
+    "tier": "oficial"
+  },
+  "pontos": [
+    {
+      "periodo": "2002",
+      "valor": 47.5,
+      "consolidado": 47.5,
+      "governo_central": 31.9,
+      "governos_regionais": 10.6,
+      "estados": 8.6,
+      "municipios": 2.1,
+      "estatais": 5.0
+    },
+    {
+      "periodo": "2003",
+      "valor": 55.6,
+      "consolidado": 55.6,
+      "governo_central": 38.7,
+      "governos_regionais": 13.8,
+      "estados": 11.9,
+      "municipios": 1.9,
+      "estatais": 3.0
+    },
+    {
+      "periodo": "2004",
+      "valor": 72.2,
+      "consolidado": 72.2,
+      "governo_central": 52.4,
+      "governos_regionais": 17.5,
+      "estados": 16.1,
+      "municipios": 1.4,
+      "estatais": 2.4
+    },
+    {
+      "periodo": "2005",
+      "valor": 81.3,
+      "consolidado": 81.3,
+      "governo_central": 55.7,
+      "governos_regionais": 21.3,
+      "estados": 17.2,
+      "municipios": 4.1,
+      "estatais": 4.2
+    },
+    {
+      "periodo": "2006",
+      "valor": 75.9,
+      "consolidado": 75.9,
+      "governo_central": 51.4,
+      "governos_regionais": 19.7,
+      "estados": 16.4,
+      "municipios": 3.3,
+      "estatais": 4.8
+    },
+    {
+      "periodo": "2007",
+      "valor": 88.1,
+      "consolidado": 88.1,
+      "governo_central": 59.4,
+      "governos_regionais": 29.9,
+      "estados": 26.0,
+      "municipios": 3.9,
+      "estatais": -1.3
+    },
+    {
+      "periodo": "2008",
+      "valor": 103.6,
+      "consolidado": 103.6,
+      "governo_central": 71.3,
+      "governos_regionais": 30.6,
+      "estados": 25.9,
+      "municipios": 4.6,
+      "estatais": 1.7
+    },
+    {
+      "periodo": "2009",
+      "valor": 64.8,
+      "consolidado": 64.8,
+      "governo_central": 42.4,
+      "governos_regionais": 21.0,
+      "estados": 18.0,
+      "municipios": 3.0,
+      "estatais": 1.3
+    },
+    {
+      "periodo": "2010",
+      "valor": 101.7,
+      "consolidado": 101.7,
+      "governo_central": 78.7,
+      "governos_regionais": 20.6,
+      "estados": 17.0,
+      "municipios": 3.7,
+      "estatais": 2.3
+    },
+    {
+      "periodo": "2011",
+      "valor": 128.7,
+      "consolidado": 128.7,
+      "governo_central": 93.0,
+      "governos_regionais": 33.0,
+      "estados": 29.6,
+      "municipios": 3.3,
+      "estatais": 2.7
+    },
+    {
+      "periodo": "2012",
+      "valor": 105.0,
+      "consolidado": 105.0,
+      "governo_central": 86.1,
+      "governos_regionais": 21.5,
+      "estados": 18.8,
+      "municipios": 2.7,
+      "estatais": -2.6
+    },
+    {
+      "periodo": "2013",
+      "valor": 91.3,
+      "consolidado": 91.3,
+      "governo_central": 75.3,
+      "governos_regionais": 16.3,
+      "estados": 13.0,
+      "municipios": 3.4,
+      "estatais": -0.3
+    },
+    {
+      "periodo": "2014",
+      "valor": -32.5,
+      "consolidado": -32.5,
+      "governo_central": -20.5,
+      "governos_regionais": -7.8,
+      "estados": -13.2,
+      "municipios": 5.5,
+      "estatais": -4.3
+    },
+    {
+      "periodo": "2015",
+      "valor": -111.2,
+      "consolidado": -111.2,
+      "governo_central": -116.7,
+      "governos_regionais": 9.7,
+      "estados": 9.1,
+      "municipios": 0.6,
+      "estatais": -4.3
+    },
+    {
+      "periodo": "2016",
+      "valor": -155.8,
+      "consolidado": -155.8,
+      "governo_central": -159.5,
+      "governos_regionais": 4.7,
+      "estados": 6.8,
+      "municipios": -2.1,
+      "estatais": -1.0
+    },
+    {
+      "periodo": "2017",
+      "valor": -110.6,
+      "consolidado": -110.6,
+      "governo_central": -118.4,
+      "governos_regionais": 7.5,
+      "estados": 6.9,
+      "municipios": 0.6,
+      "estatais": 0.4
+    },
+    {
+      "periodo": "2018",
+      "valor": -108.3,
+      "consolidado": -108.3,
+      "governo_central": -116.2,
+      "governos_regionais": 3.5,
+      "estados": 4.7,
+      "municipios": -1.2,
+      "estatais": 4.4
+    },
+    {
+      "periodo": "2019",
+      "valor": -61.9,
+      "consolidado": -61.9,
+      "governo_central": -88.9,
+      "governos_regionais": 15.2,
+      "estados": 16.2,
+      "municipios": -1.1,
+      "estatais": 11.8
+    },
+    {
+      "periodo": "2020",
+      "valor": -703.0,
+      "consolidado": -703.0,
+      "governo_central": -745.3,
+      "governos_regionais": 38.7,
+      "estados": 38.3,
+      "municipios": 0.5,
+      "estatais": 3.6
+    },
+    {
+      "periodo": "2021",
+      "valor": 64.7,
+      "consolidado": 64.7,
+      "governo_central": -35.9,
+      "governos_regionais": 97.7,
+      "estados": 78.2,
+      "municipios": 19.5,
+      "estatais": 2.9
+    },
+    {
+      "periodo": "2022",
+      "valor": 126.0,
+      "consolidado": 126.0,
+      "governo_central": 54.9,
+      "governos_regionais": 64.9,
+      "estados": 39.0,
+      "municipios": 25.9,
+      "estatais": 6.1
+    },
+    {
+      "periodo": "2023",
+      "valor": -249.1,
+      "consolidado": -249.1,
+      "governo_central": -264.5,
+      "governos_regionais": 17.7,
+      "estados": 27.5,
+      "municipios": -9.8,
+      "estatais": -2.3
+    },
+    {
+      "periodo": "2024",
+      "valor": -47.6,
+      "consolidado": -47.6,
+      "governo_central": -45.4,
+      "governos_regionais": 5.9,
+      "estados": 28.5,
+      "municipios": -22.6,
+      "estatais": -8.1
+    },
+    {
+      "periodo": "2025",
+      "valor": -55.0,
+      "consolidado": -55.0,
+      "governo_central": -58.7,
+      "governos_regionais": 9.5,
+      "estados": 5.5,
+      "municipios": 4.1,
+      "estatais": -5.9
+    },
+    {
+      "periodo": "2026 (jan–ago)",
+      "valor": -88.8,
+      "consolidado": -88.8,
+      "governo_central": -97.1,
+      "governos_regionais": 16.2,
+      "estados": 7.1,
+      "municipios": 9.1,
+      "estatais": -8.0,
+      "parcial": true
+    }
+  ],
+  "faixas_referencia": [],
+  "notas_metodologicas": [
+    "Critério 'abaixo da linha' do BCB. Totais de 2025 (−55,0; −58,7; +9,5; +5,5; +4,1; −5,9) conferidos com a Nota para a Imprensa de 30/01/2026.",
+    "Estados e municípios foram superavitários em quase todos os anos (exceções: estados em 2014; municípios em 2016–2019, 2023 e 2024); o superávit regional de 2021–2022 foi o maior da série (ICMS alto e transferências).",
+    "2024 do governo central: R$ −45,4 bi (BCB) x R$ −42,9 bi (Tesouro, série atual) x R$ −46,3 bi (IFI, preliminar).",
+    "URLs: https://api.bcb.gov.br/dados/serie/bcdata.sgs.4639/dados?formato=json&dataInicial=01/01/2002 ; ...sgs.4642 ; ...sgs.4643 ; ...sgs.4644 ; ...sgs.4645"
+  ],
+  "lacunas": [],
+  "ultimo_periodo": "2026 (jan–ago)",
+  "temas": [
+    "contas-publicas"
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/02_contas_publicas_divida.md",
+  "atualizado_em": "2026-10-21"
+}

@@ -1,0 +1,212 @@
+{
+  "id": "chk-1050",
+  "slug": "2-8-milhoes-de-cnpjs-fechados",
+  "frase": "O Brasil tem recorde de empresas fechando: 2,8 milhões de CNPJs encerrados em 2025",
+  "frase_normalizada": "Em 2025 um número recorde de empresas fechou no Brasil",
+  "variantes": [
+    "Recorde de empresas fechando",
+    "Milhões de empresas fecharam as portas"
+  ],
+  "autor": {
+    "nome": "Flávio Bolsonaro",
+    "partido": "PL",
+    "cargo": "senador (RJ) e candidato à Presidência"
+  },
+  "lado": "oposicao-flavio-pl",
+  "alvo": {
+    "nome": "Governo Lula 3 (2023-2026)",
+    "partido": "PT"
+  },
+  "data": "2026-10-18",
+  "onde": "Debate da Band (18/10/2026)",
+  "url_declaracao": "https://www.estadao.com.br/estadao-verifica/checamos-o-debate-entre-lula-e-flavio-na-band/",
+  "temas": [
+    "economia",
+    "eleicao-2026"
+  ],
+  "tags": [
+    "cnpj",
+    "empresas",
+    "recuperacao-judicial",
+    "mapa-de-empresas"
+  ],
+  "veredito": "falta-contexto",
+  "resumo_uma_frase": "É verdade que 2,8 milhões de CNPJs foram encerrados em 2025, mas 5,1 milhões foram abertos — recorde de abertura — e o saldo líquido ficou positivo em cerca de 2,2 milhões; o que bateu recorde foram as recuperações judiciais (5.680 empresas), não os fechamentos nem as falências (734 em 2025).",
+  "explicacao_simples": [
+    "Em 2025 foram encerrados 2,8 milhões de CNPJs, mas foram emitidos 5,1 milhões, um recorde de abertura, e o saldo líquido ficou positivo em cerca de 2,2 milhões de empresas.",
+    "O recorde de 2025 é de recuperações judiciais, com 5.680 empresas, e não de fechamentos ou falências, que caíram para 734.",
+    "O Estadão Verifica classificou a frase como falta de contexto e o Aos Fatos, na versão 'recorde de falências', como falsa."
+  ],
+  "explicacao_completa_md": "## Os dados\n\n- Estadão Verifica (18/10/2026): 2,8 milhões de CNPJs encerrados em 2025 e 5,1 milhões emitidos (recorde de abertura); recuperações judiciais em recorde (5.680 empresas) — FALTA CONTEXTO.\n- Aos Fatos (20/10/2026): saldo líquido de empresas de cerca de +2,2 milhões em 2025; 3,87 milhões de aberturas contra 2,17 milhões de fechamentos em 2023 (Mapa das Empresas); falências não superaram o nível de 2012-2019 — FALSO para 'recorde de empresas fechadas'.\n- Aos Fatos (16/10/2026): falências decretadas de 1.828 em 2015 (recorde), 862 em 2024 e 734 em 2025.\n\n## Leitura\n\nUm número absoluto recorde de fechamentos acompanha um número recorde de aberturas, porque o estoque de CNPJs (inclusive MEIs) cresce ano a ano; o indicador relevante é o saldo, positivo. O estresse empresarial real aparece nas recuperações judiciais e na inadimplência de CNPJs (9,1 milhões em jun/2026), ligados ao crédito caro.",
+  "o_que_e_verdade": [
+    "2,8 milhões de CNPJs foram encerrados em 2025 e as recuperações judiciais bateram recorde (5.680 empresas).",
+    "A inadimplência de empresas está em recorde (9,1 milhões de CNPJs em jun/2026)."
+  ],
+  "o_que_nao_se_sustenta": [
+    "5,1 milhões de CNPJs foram abertos em 2025 (recorde) e o saldo líquido ficou positivo em cerca de 2,2 milhões.",
+    "As falências decretadas caíram para 734 em 2025, contra 862 em 2024 e 1.828 em 2015; não há recorde de empresas fechadas."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Copom / Banco Central (Selic de 15%)",
+      "papel": "crédito caro é a causa apontada pela Serasa para as recuperações judiciais",
+      "peso": "alto"
+    },
+    {
+      "ator": "Dinâmica de abertura de CNPJs (MEIs e empresas)",
+      "papel": "estoque crescente eleva fechamentos e aberturas em termos absolutos",
+      "peso": "medio"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "CNPJs encerrados (Estadão Verifica)",
+      "valor": 2.8,
+      "unidade": "milhões",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Estadão Verifica – Checamos o debate entre Lula e Flávio na Band (18/10/2026)",
+        "url": "https://www.estadao.com.br/estadao-verifica/checamos-o-debate-entre-lula-e-flavio-na-band/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": {
+        "rotulo": "CNPJs emitidos (recorde)",
+        "valor": 5.1
+      }
+    },
+    {
+      "rotulo": "Saldo líquido de empresas (Mapa das Empresas, via Aos Fatos)",
+      "valor": 2.2,
+      "unidade": "milhões",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Aos Fatos – Flávio Bolsonaro mente sobre recorde de falências (20/10/2026)",
+        "url": "https://www.aosfatos.org/noticias/flavio-bolsonaro-mente-recorde-falencias-empresas/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Empresas em recuperação judicial (Estadão Verifica)",
+      "valor": 5680,
+      "unidade": "empresas",
+      "periodo": "2025 (recorde)",
+      "fonte": {
+        "nome": "Estadão Verifica – Checamos o debate entre Lula e Flávio na Band (18/10/2026)",
+        "url": "https://www.estadao.com.br/estadao-verifica/checamos-o-debate-entre-lula-e-flavio-na-band/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Falências decretadas (Serasa Experian, via Aos Fatos)",
+      "valor": 734,
+      "unidade": "falências",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Aos Fatos – Checamos a entrevista de Flávio Bolsonaro à Globo no segundo turno (16/10/2026)",
+        "url": "https://www.aosfatos.org/noticias/checamos-flavio-bolsonaro-globo-segundo-turno/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": {
+        "rotulo": "2015 (recorde)",
+        "valor": 1828
+      }
+    },
+    {
+      "rotulo": "CNPJs inadimplentes (Serasa Experian)",
+      "valor": 9.1,
+      "unidade": "milhões",
+      "periodo": "jun/2026",
+      "fonte": {
+        "nome": "Aos Fatos – É falso que 8.000 empresas faliram no Brasil em junho (24/08/2026)",
+        "url": "https://www.aosfatos.org/noticias/8000-empresas-faliram-brasil-junho/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": null
+    }
+  ],
+  "series": [
+    "selic-fim-de-ano"
+  ],
+  "checagens_externas": [
+    {
+      "veiculo": "Estadão Verifica",
+      "veredito_original": "FALTA CONTEXTO",
+      "url": "https://www.estadao.com.br/estadao-verifica/checamos-o-debate-entre-lula-e-flavio-na-band/",
+      "data": "2026-10-18"
+    },
+    {
+      "veiculo": "Aos Fatos",
+      "veredito_original": "FALSO ('recorde de empresas fechadas')",
+      "url": "https://www.aosfatos.org/noticias/flavio-bolsonaro-mente-recorde-falencias-empresas/",
+      "data": "2026-10-20"
+    },
+    {
+      "veiculo": "Aos Fatos",
+      "veredito_original": "FALSO ('recorde de empresas fechadas', Globo)",
+      "url": "https://www.aosfatos.org/noticias/checamos-flavio-bolsonaro-globo-segundo-turno/",
+      "data": "2026-10-16"
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Estadão Verifica – Checamos o debate entre Lula e Flávio na Band (18/10/2026)",
+      "url": "https://www.estadao.com.br/estadao-verifica/checamos-o-debate-entre-lula-e-flavio-na-band/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Aos Fatos – Flávio Bolsonaro mente sobre recorde de falências (20/10/2026)",
+      "url": "https://www.aosfatos.org/noticias/flavio-bolsonaro-mente-recorde-falencias-empresas/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Aos Fatos – Checamos a entrevista de Flávio Bolsonaro à Globo no segundo turno (16/10/2026)",
+      "url": "https://www.aosfatos.org/noticias/checamos-flavio-bolsonaro-globo-segundo-turno/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Aos Fatos – É falso que 8.000 empresas faliram no Brasil em junho (24/08/2026)",
+      "url": "https://www.aosfatos.org/noticias/8000-empresas-faliram-brasil-junho/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/01_macroeconomia_por_governo.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "Fechar CNPJ é o mesmo que falir?",
+      "resposta": "Não. A maioria dos encerramentos é baixa voluntária (inclusive de MEIs); falência é liquidação judicial e somou 734 casos em 2025."
+    },
+    {
+      "pergunta": "Qual é o saldo de empresas?",
+      "resposta": "Positivo: cerca de 2,2 milhões em 2025 (Mapa das Empresas, via Aos Fatos); em 2023, 3,87 milhões de aberturas contra 2,17 milhões de fechamentos."
+    },
+    {
+      "pergunta": "Por que as recuperações judiciais bateram recorde?",
+      "resposta": "A Serasa atribui ao crédito caro: Selic de 15% em 2025 e juro real de cerca de 9,5% ao ano."
+    }
+  ],
+  "relacionadas": [
+    "recorde-de-falencias",
+    "8-mil-empresas-faliram-em-junho",
+    "esta-todo-mundo-quebrando",
+    "juros-mais-altos-do-mundo"
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false
+}

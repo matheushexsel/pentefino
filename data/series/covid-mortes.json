@@ -49,10 +49,191 @@
     {
       "rotulo": "Pico diário (07/04/2021) — mortes por dia",
       "valor": 4000
+    },
+    {
+      "rotulo": "OMS — óbitos acumulados do Brasil (acesso 21/10/2026)",
+      "valor": 704092
+    },
+    {
+      "rotulo": "OMS — óbitos por 100 mil habitantes, Brasil (21º do mundo)",
+      "valor": 331
+    },
+    {
+      "rotulo": "OMS — óbitos por 100 mil, Peru (1º)",
+      "valor": 670
+    },
+    {
+      "rotulo": "OMS — óbitos por 100 mil, EUA (14º)",
+      "valor": 374
     }
   ],
+  "ranking_oms": {
+    "fonte": {
+      "nome": "OMS — WHO COVID-19 dashboard, global table data (CSV, acesso 21/10/2026)",
+      "url": "https://srhdpeuwpubsa.blob.core.windows.net/whdh/COVID/WHO-COVID-19-global-table-data.csv",
+      "acesso_em": "2026-10-21",
+      "tier": "multilateral"
+    },
+    "absoluto": [
+      {
+        "pais": "EUA",
+        "obitos": 1239585
+      },
+      {
+        "pais": "Brasil",
+        "obitos": 704092
+      },
+      {
+        "pais": "Índia",
+        "obitos": 533849
+      },
+      {
+        "pais": "Rússia",
+        "obitos": 404290
+      },
+      {
+        "pais": "México",
+        "obitos": 335184
+      },
+      {
+        "pais": "Mundo",
+        "obitos": 7117689
+      }
+    ],
+    "por_100_mil": [
+      {
+        "pais": "Peru",
+        "taxa": 670,
+        "posicao": 1
+      },
+      {
+        "pais": "Bulgária",
+        "taxa": 558
+      },
+      {
+        "pais": "Hungria",
+        "taxa": 503
+      },
+      {
+        "pais": "Bósnia",
+        "taxa": 500
+      },
+      {
+        "pais": "Macedônia do Norte",
+        "taxa": 480
+      },
+      {
+        "pais": "Eslovênia",
+        "taxa": 473
+      },
+      {
+        "pais": "Croácia",
+        "taxa": 463
+      },
+      {
+        "pais": "Geórgia",
+        "taxa": 430
+      },
+      {
+        "pais": "Montenegro",
+        "taxa": 423
+      },
+      {
+        "pais": "Tchéquia",
+        "taxa": 411
+      },
+      {
+        "pais": "Letônia",
+        "taxa": 406
+      },
+      {
+        "pais": "Eslováquia",
+        "taxa": 392
+      },
+      {
+        "pais": "Grécia",
+        "taxa": 376
+      },
+      {
+        "pais": "EUA",
+        "taxa": 374,
+        "posicao": 14
+      },
+      {
+        "pais": "San Marino",
+        "taxa": 371
+      },
+      {
+        "pais": "Romênia",
+        "taxa": 357
+      },
+      {
+        "pais": "Lituânia",
+        "taxa": 355
+      },
+      {
+        "pais": "Reino Unido",
+        "taxa": 343
+      },
+      {
+        "pais": "Gibraltar",
+        "taxa": 335
+      },
+      {
+        "pais": "Itália",
+        "taxa": 333
+      },
+      {
+        "pais": "Brasil",
+        "taxa": 331,
+        "posicao": 21
+      },
+      {
+        "pais": "Chile",
+        "taxa": 329,
+        "posicao": 22
+      },
+      {
+        "pais": "Argentina",
+        "taxa": 290,
+        "posicao": 29
+      },
+      {
+        "pais": "Colômbia",
+        "taxa": 281,
+        "posicao": 32
+      },
+      {
+        "pais": "Paraguai",
+        "taxa": 279,
+        "posicao": 33
+      },
+      {
+        "pais": "México",
+        "taxa": 260,
+        "posicao": 38
+      },
+      {
+        "pais": "Uruguai",
+        "taxa": 222,
+        "posicao": 51
+      },
+      {
+        "pais": "Equador",
+        "taxa": 204,
+        "posicao": 63
+      },
+      {
+        "pais": "Bolívia",
+        "taxa": 192,
+        "posicao": 65
+      }
+    ]
+  },
   "notas_metodologicas": [
     "Os pontos são marcos do acumulado, não uma série mensal regular. O Brasil é o 2º país em mortes absolutas (atrás dos EUA) e o 3º em casos.",
+    "Ranking per capita (OMS, tabela global, acesso 21/10/2026): o Brasil tem 331 óbitos por 100 mil habitantes, 21º do mundo (Peru 670 em 1º; EUA 374 em 14º; Chile 329 em 22º; Argentina 290 em 29º). A OMS contabiliza 704.092 óbitos para o Brasil, abaixo dos 716.238 do painel MS/Conass (critérios e datas de corte diferentes); 2º do mundo em absoluto também pela OMS (EUA 1.239.585; Índia 533.849; Rússia 404.290; México 335.184).",
+    "Relatório final da CPI da Pandemia (26/10/2021): a versão de 20/10/2021 pedia o indiciamento de 65 pessoas e 2 empresas (Precisa Comercialização de Medicamentos e VTC Operadora Logística); a aprovada em 26/10 ampliou a lista (78–81 conforme a fonte).",
     "Vacinação: Anvisa autorizou CoronaVac e AstraZeneca em 17/01/2021; campanha nacional em 19/01/2021; cerca de 147 milhões com ao menos uma dose em set/2021; 80% dos adultos com 2 doses ao fim de 2021. Estudo da Lancet (jun/2022) estima cerca de 1 milhão de mortes adicionais evitadas pela vacinação até dez/2021.",
     "Em mar/2023, 19,1 milhões estavam com a 2ª dose atrasada e 68,6 milhões sem a 1ª dose de reforço. Estudo de 2022 estimou mais de 4.500 profissionais de saúde mortos.",
     "Responsabilidade: compra de vacinas e coordenação nacional são federais; medidas de restrição foram decididas por governadores e prefeitos, com competência concorrente validada pelo STF."
@@ -85,10 +266,28 @@
       "url": "https://jornaldebrasilia.com.br/noticias/brasil/ministerio-da-saude-anunciara-700-mil-mortes-por-covid-no-brasil/",
       "acesso_em": "2026-10-21",
       "tier": "imprensa"
+    },
+    {
+      "nome": "OMS — WHO COVID-19 dashboard, global table data (CSV, acesso 21/10/2026)",
+      "url": "https://srhdpeuwpubsa.blob.core.windows.net/whdh/COVID/WHO-COVID-19-global-table-data.csv",
+      "acesso_em": "2026-10-21",
+      "tier": "multilateral"
+    },
+    {
+      "nome": "Senado — relatório final da CPI da Pandemia (PDF, 26/10/2021)",
+      "url": "https://legis.senado.leg.br/sdleg-getter/documento/download/72c805d3-888b-4228-8682-260175471243",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Senado — página da CPI da Pandemia (codcol 2441)",
+      "url": "https://legis.senado.leg.br/comissoes/comissao?codcol=2441",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
     }
   ],
   "lacunas": [
-    "Ranking per capita e excesso de mortalidade (OMS 2022) não capturados na nota."
+    "Excesso de mortalidade (OMS 2022) e ranking per capita por OWID/JHU não acessados; usado o painel da OMS (óbitos reportados)."
   ],
   "atualizado_em": "2026-10-21",
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/07_saude_seguranca_educacao_infra_ambiente.md"

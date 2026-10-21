@@ -1,0 +1,285 @@
+{
+  "id": "chk-1056",
+  "slug": "recorde-de-brasileiros-endividados",
+  "frase": "O Brasil tem recorde de brasileiros endividados",
+  "frase_normalizada": "O número de brasileiros negativados está em recorde no governo Lula 3",
+  "variantes": [
+    "Recorde de endividados",
+    "Nunca houve tantos brasileiros com o nome sujo"
+  ],
+  "autor": {
+    "nome": "Flávio Bolsonaro",
+    "partido": "PL",
+    "cargo": "senador (RJ) e candidato à Presidência"
+  },
+  "lado": "oposicao-flavio-pl",
+  "alvo": {
+    "nome": "Governo Lula 3 (2023-2026)",
+    "partido": "PT"
+  },
+  "data": "2026-10-04",
+  "onde": "Discurso após a confirmação do 2º turno (04/10/2026); repetido na entrevista à TV Globo (16/10/2026)",
+  "url_declaracao": "https://www.agencialupa.org/checagem/2026/10/04/apos-confirmacao-do-2o-turno-lula-erra-sobre-superavit-e-flavio-sobre-reeleicao-e-endividamento/",
+  "temas": [
+    "emprego-renda",
+    "economia",
+    "eleicao-2026"
+  ],
+  "tags": [
+    "serasa",
+    "negativados",
+    "endividamento",
+    "inadimplencia"
+  ],
+  "veredito": "falta-contexto",
+  "resumo_uma_frase": "A Serasa registra 83,9 milhões de negativados em ago/2026 (51,06% dos adultos), recorde — mas a alta vem desde o governo Bolsonaro (65,9 milhões em abr/2020; 69,4 milhões em dez/2022; 70,09 milhões em jan/2023) e o endividamento das famílias no BCB já havia saltado de 41,5% para 49,5% da renda entre 2019 e 2021; a Lupa classificou a frase como falta de contexto.",
+  "explicacao_simples": [
+    "A Serasa contava 83,9 milhões de pessoas negativadas em agosto de 2026, 51% dos adultos, de fato o maior número da série.",
+    "A frase omite que a alta começou antes: eram 65,9 milhões em abril de 2020 e 70,1 milhões em janeiro de 2023, quando Lula assumiu, e o endividamento das famílias já tinha batido recorde em 2021.",
+    "O salto recente coincide com a Selic de 15% em 2025, e a inadimplência das pessoas físicas no Banco Central subiu de 3,07% em dezembro de 2022 para 5,04% em agosto de 2026."
+  ],
+  "explicacao_completa_md": "## Os dados\n\n- Serasa (via Lupa): abr/2020 65,9 milhões; dez/2022 69,4 milhões; jan/2023 70,09 milhões (43,13% dos adultos); ago/2026 83,9 milhões (51,06%). Dezembros: 2021 63,97 | 2022 69,43 | 2023 71,10 | 2024 73,51 | 2025 81,20 milhões.\n- BCB: endividamento das famílias de 41,46% (dez/2019) para 49,48% (dez/2021) e 49,90% (fev/2026, recorde); comprometimento de renda com dívidas de 28,72% em jul/2026 (máximo da série); inadimplência PF de 3,07% (dez/2022) para 5,04% (ago/2026).\n- Peic/CNC: 78% de famílias endividadas em dez/2022; 81,6% em mai/2026 (recorde).\n\n## Avaliação\n\nA Lupa (04/10/2026) classificou como FALTA CONTEXTO porque a alta vem desde o governo Bolsonaro; o Aos Fatos registrou a repetição da frase na Globo (16/10). O quadro é bipartidário: estrutural desde 2020-2021 e agravado em 2025 com a Selic de 15%. Pela mesma régua, a Lupa deu FALTA CONTEXTO a Lula por '78% da população endividada' em jan/2023.",
+  "o_que_e_verdade": [
+    "83,9 milhões de negativados em ago/2026 (51,06% dos adultos) é recorde da série da Serasa; a inadimplência da pessoa física subiu de 3,07% para 5,04% entre dez/2022 e ago/2026.",
+    "O comprometimento de renda das famílias com dívidas atingiu 28,72% em jul/2026, máximo da série do BCB."
+  ],
+  "o_que_nao_se_sustenta": [
+    "A alta vem desde o governo Bolsonaro: 65,9 milhões em abr/2020, 69,4 milhões em dez/2022 e 70,09 milhões em jan/2023; o endividamento no BCB saltou de 41,46% para 49,48% da renda entre 2019 e 2021.",
+    "A Peic já registrava 78% de famílias endividadas em dez/2022, próximo dos 81,6% de 2026."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Copom / Banco Central (Selic de 13,75% em 2022 e 15% em 2025)",
+      "papel": "custo do crédito nos dois governos",
+      "peso": "alto"
+    },
+    {
+      "ator": "Bancos e cartões (rotativo de 428% a 440% ao ano)",
+      "papel": "principal fator de endividamento",
+      "peso": "alto"
+    },
+    {
+      "ator": "Governo Bolsonaro (inflação de 10% em 2021; mínimo sem ganho real)",
+      "papel": "início da alta em 2020-2022",
+      "peso": "medio"
+    },
+    {
+      "ator": "Governo Lula 3 (Desenrola, Novo Desenrola, perdão de MEI)",
+      "papel": "medidas paliativas; alta continuou em 2025-2026",
+      "peso": "medio"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Pessoas negativadas (Serasa, via Lupa)",
+      "valor": 83.9,
+      "unidade": "milhões",
+      "periodo": "ago/2026 (51,06% dos adultos)",
+      "fonte": {
+        "nome": "Lupa – Após confirmação do 2º turno, Lula erra sobre superávit e Flávio sobre reeleição e endividamento (04/10/2026)",
+        "url": "https://www.agencialupa.org/checagem/2026/10/04/apos-confirmacao-do-2o-turno-lula-erra-sobre-superavit-e-flavio-sobre-reeleicao-e-endividamento/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": {
+        "rotulo": "jan/2023 (43,13% dos adultos)",
+        "valor": 70.09
+      }
+    },
+    {
+      "rotulo": "Pessoas negativadas (Serasa, via Lupa)",
+      "valor": 65.9,
+      "unidade": "milhões",
+      "periodo": "abr/2020",
+      "fonte": {
+        "nome": "Lupa – Após confirmação do 2º turno, Lula erra sobre superávit e Flávio sobre reeleição e endividamento (04/10/2026)",
+        "url": "https://www.agencialupa.org/checagem/2026/10/04/apos-confirmacao-do-2o-turno-lula-erra-sobre-superavit-e-flavio-sobre-reeleicao-e-endividamento/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": {
+        "rotulo": "dez/2022",
+        "valor": 69.4
+      }
+    },
+    {
+      "rotulo": "Pessoas negativadas em dezembro (Serasa)",
+      "valor": 81.2,
+      "unidade": "milhões",
+      "periodo": "dez/2025",
+      "fonte": {
+        "nome": "Serasa – Mapa da Inadimplência",
+        "url": "https://www.serasa.com.br/limpa-nome-online/blog/mapa-da-inadimplencia-e-renogociacao-de-dividas-no-brasil/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "dez/2021",
+        "valor": 63.97
+      }
+    },
+    {
+      "rotulo": "Endividamento das famílias (BCB)",
+      "valor": 49.48,
+      "unidade": "% da renda",
+      "periodo": "dez/2021",
+      "fonte": {
+        "nome": "Banco Central do Brasil – SGS 29037 (endividamento das famílias, % renda)",
+        "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.29037/dados?formato=json&dataInicial=01/01/2022",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "dez/2019",
+        "valor": 41.46
+      }
+    },
+    {
+      "rotulo": "Comprometimento de renda com o serviço da dívida (BCB)",
+      "valor": 28.72,
+      "unidade": "% da renda",
+      "periodo": "jul/2026 (máximo da série)",
+      "fonte": {
+        "nome": "Banco Central do Brasil – SGS 29034 (comprometimento de renda das famílias com o serviço da dívida)",
+        "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.29034/dados?formato=json&dataInicial=01/01/2022",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "dez/2022",
+        "valor": 27.57
+      }
+    },
+    {
+      "rotulo": "Inadimplência da pessoa física (BCB)",
+      "valor": 5.04,
+      "unidade": "%",
+      "periodo": "ago/2026",
+      "fonte": {
+        "nome": "Banco Central do Brasil – SGS 21082 (inadimplência pessoa física)",
+        "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.21082/dados?formato=json&dataInicial=01/01/2022",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "dez/2022",
+        "valor": 3.07
+      }
+    },
+    {
+      "rotulo": "Famílias endividadas (Peic/CNC)",
+      "valor": 81.6,
+      "unidade": "%",
+      "periodo": "mai/2026",
+      "fonte": {
+        "nome": "Diário do Vale – CNC/Serasa: endividamento bate recorde no Brasil (mai/2026)",
+        "url": "https://diariodovale.com.br/destaque/cnc-serasa-endividamento-bate-recorde-no-brasil/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "dez/2022",
+        "valor": 78
+      }
+    }
+  ],
+  "series": [
+    "serasa-negativados",
+    "endividamento-familias",
+    "inadimplencia-pf",
+    "familias-endividadas-peic"
+  ],
+  "checagens_externas": [
+    {
+      "veiculo": "Lupa",
+      "veredito_original": "FALTA CONTEXTO",
+      "url": "https://www.agencialupa.org/checagem/2026/10/04/apos-confirmacao-do-2o-turno-lula-erra-sobre-superavit-e-flavio-sobre-reeleicao-e-endividamento/",
+      "data": "2026-10-04"
+    },
+    {
+      "veiculo": "Aos Fatos",
+      "veredito_original": "Frase repetida na entrevista à Globo ('recorde de endividados')",
+      "url": "https://www.aosfatos.org/noticias/checamos-flavio-bolsonaro-globo-segundo-turno/",
+      "data": "2026-10-16"
+    },
+    {
+      "veiculo": "Lupa",
+      "veredito_original": "FALTA CONTEXTO para '78% da população endividada' em jan/2023 (Lula), frase espelhada",
+      "url": "https://www.agencialupa.org/checagem/2026/10/15/ao-vivo-checagem-da-entrevista-de-lula-na-tv-globo/",
+      "data": "2026-10-15"
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Lupa – Após confirmação do 2º turno, Lula erra sobre superávit e Flávio sobre reeleição e endividamento (04/10/2026)",
+      "url": "https://www.agencialupa.org/checagem/2026/10/04/apos-confirmacao-do-2o-turno-lula-erra-sobre-superavit-e-flavio-sobre-reeleicao-e-endividamento/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Serasa – Mapa da Inadimplência",
+      "url": "https://www.serasa.com.br/limpa-nome-online/blog/mapa-da-inadimplencia-e-renogociacao-de-dividas-no-brasil/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Banco Central do Brasil – SGS 29037 (endividamento das famílias, % renda)",
+      "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.29037/dados?formato=json&dataInicial=01/01/2022",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Banco Central do Brasil – SGS 29034 (comprometimento de renda das famílias com o serviço da dívida)",
+      "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.29034/dados?formato=json&dataInicial=01/01/2022",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Banco Central do Brasil – SGS 21082 (inadimplência pessoa física)",
+      "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.21082/dados?formato=json&dataInicial=01/01/2022",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Diário do Vale – CNC/Serasa: endividamento bate recorde no Brasil (mai/2026)",
+      "url": "https://diariodovale.com.br/destaque/cnc-serasa-endividamento-bate-recorde-no-brasil/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Lupa – Checagem ao vivo da entrevista de Lula na TV Globo (15/10/2026)",
+      "url": "https://www.agencialupa.org/checagem/2026/10/15/ao-vivo-checagem-da-entrevista-de-lula-na-tv-globo/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/03_emprego_renda_pobreza_social.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "Quantos brasileiros estão negativados?",
+      "resposta": "83,9 milhões em ago/2026 (51,06% dos adultos), segundo a Serasa; eram 70,09 milhões em jan/2023 e 65,9 milhões em abr/2020."
+    },
+    {
+      "pergunta": "Quem está mais endividado?",
+      "resposta": "78% dos negativados ganham até 2 salários mínimos; bancos e cartões respondem por cerca de 45% das dívidas (Serasa)."
+    },
+    {
+      "pergunta": "Por que a inadimplência subiu em 2025?",
+      "resposta": "A Selic foi de 10,5% para 15% entre set/2024 e jun/2025 e o rotativo do cartão cobra 428% a 440% ao ano; a inadimplência da pessoa física passou de 3,08% para 4,20% só em 2025."
+    }
+  ],
+  "relacionadas": [
+    "78-por-cento-da-populacao-endividada",
+    "endividamento-das-familias-e-heranca-de-selic-alta",
+    "esta-todo-mundo-quebrando",
+    "juros-mais-altos-do-mundo"
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false
+}

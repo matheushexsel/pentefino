@@ -37,7 +37,8 @@
   "o_que_e_verdade": [
     "Extrema pobreza de 3,5% e pobreza de 23,1% em 2024 são os menores níveis da série do IBGE (2012-2024).",
     "A queda tirou 8,6 milhões de pessoas da pobreza entre 2023 e 2024; o pico foi em 2021 (36,8%).",
-    "Sem programas sociais a extrema pobreza seria de 10% (IBGE)."
+    "Sem programas sociais a extrema pobreza seria de 10% (IBGE).",
+    "Na série oficial completa do IBGE (SIS 2025, Tabela 2.18), a extrema pobreza foi de 6,59% (2012) a 3,47% (2024) e a pobreza de 34,73% a 23,11%; a renda real dos 10% mais pobres mais que dobrou de 2021 (R$ 117) a 2025 (R$ 268)."
   ],
   "o_que_nao_se_sustenta": [
     "O número de 4,6% não é o do IBGE para a linha de US$ 2,15 (3,5%); a linha usada não é especificada no programa.",
@@ -64,14 +65,14 @@
   "numeros": [
     {
       "rotulo": "Extrema pobreza (US$ 2,15/dia, IBGE)",
-      "valor": 3.5,
+      "valor": 3.47,
       "unidade": "% da população",
       "periodo": "2024",
       "fonte": {
-        "nome": "Metrópoles/Agência Brasil – IBGE: mais de 8,6 milhões deixam a pobreza (SIS 2025, 03/12/2025)",
-        "url": "https://www.metropoles.com/brasil/ibge-mais-de-86-milhoes-deixam-pobreza-em-melhor-numero-desde-2012",
+        "nome": "IBGE – Síntese de Indicadores Sociais 2025, Tabelas de distribuição de renda (xls, FTP)",
+        "url": "https://ftp.ibge.gov.br/Indicadores_Sociais/Sintese_de_Indicadores_Sociais/Sintese_de_Indicadores_Sociais_2025/Tabelas/xls/2_Distribuicao_Renda_xls.zip",
         "acesso_em": "2026-10-21",
-        "tier": "imprensa"
+        "tier": "oficial"
       },
       "comparacao": {
         "rotulo": "2023",
@@ -96,18 +97,18 @@
     },
     {
       "rotulo": "Pobreza (US$ 6,85/dia, IBGE)",
-      "valor": 23.1,
+      "valor": 23.11,
       "unidade": "% da população",
       "periodo": "2024",
       "fonte": {
-        "nome": "Metrópoles/Agência Brasil – IBGE: mais de 8,6 milhões deixam a pobreza (SIS 2025, 03/12/2025)",
-        "url": "https://www.metropoles.com/brasil/ibge-mais-de-86-milhoes-deixam-pobreza-em-melhor-numero-desde-2012",
+        "nome": "IBGE – Síntese de Indicadores Sociais 2025, Tabelas de distribuição de renda (xls, FTP)",
+        "url": "https://ftp.ibge.gov.br/Indicadores_Sociais/Sintese_de_Indicadores_Sociais/Sintese_de_Indicadores_Sociais_2025/Tabelas/xls/2_Distribuicao_Renda_xls.zip",
         "acesso_em": "2026-10-21",
-        "tier": "imprensa"
+        "tier": "oficial"
       },
       "comparacao": {
         "rotulo": "2021 (pico)",
-        "valor": 36.8
+        "valor": 36.77
       }
     },
     {
@@ -186,6 +187,70 @@
         "rotulo": "2024 (mínimo da série)",
         "valor": 0.504
       }
+    },
+    {
+      "rotulo": "Extrema pobreza pela linha de R$ 218/mês (IBGE SIS 2025, Tabela 2.22)",
+      "valor": 3.52,
+      "unidade": "% da população",
+      "periodo": "2024",
+      "fonte": {
+        "nome": "IBGE – Síntese de Indicadores Sociais 2025, Tabelas de distribuição de renda (xls, FTP)",
+        "url": "https://ftp.ibge.gov.br/Indicadores_Sociais/Sintese_de_Indicadores_Sociais/Sintese_de_Indicadores_Sociais_2025/Tabelas/xls/2_Distribuicao_Renda_xls.zip",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "2023",
+        "valor": 4.42
+      }
+    },
+    {
+      "rotulo": "Pobreza (US$ 3,65/dia, IBGE)",
+      "valor": 8.6,
+      "unidade": "% da população",
+      "periodo": "2024",
+      "fonte": {
+        "nome": "IBGE – Síntese de Indicadores Sociais 2025, Tabelas de distribuição de renda (xls, FTP)",
+        "url": "https://ftp.ibge.gov.br/Indicadores_Sociais/Sintese_de_Indicadores_Sociais/Sintese_de_Indicadores_Sociais_2025/Tabelas/xls/2_Distribuicao_Renda_xls.zip",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "2012",
+        "valor": 14.45
+      }
+    },
+    {
+      "rotulo": "Classes AB + C (FGV Social, Marcelo Neri)",
+      "valor": 78.18,
+      "unidade": "% da população",
+      "periodo": "2024 (recorde)",
+      "fonte": {
+        "nome": "FGV Social/CPS – Evolução das Classes Econômicas Brasileiras: 1976 a 2024 (13/01/2026)",
+        "url": "https://cps.fgv.br/en/node/39333",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      "comparacao": {
+        "rotulo": "Classe C",
+        "valor": 60.97
+      }
+    },
+    {
+      "rotulo": "Renda domiciliar per capita média dos 10% mais pobres (R$ de 2025)",
+      "valor": 268,
+      "unidade": "R$",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "IBGE – SIDRA tabela 7533 (rendimento domiciliar per capita médio por classe, R$ de 2025)",
+        "url": "https://sidra.ibge.gov.br/tabela/7533",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "2021 (pior ano)",
+        "valor": 117
+      }
     }
   ],
   "series": [
@@ -238,6 +303,24 @@
       "url": "https://api.worldbank.org/pip/v1/pip?country=BRA&year=all&povline=2.15&ppp_version=2017&format=json",
       "acesso_em": "2026-10-21",
       "tier": "multilateral"
+    },
+    {
+      "nome": "IBGE – Síntese de Indicadores Sociais 2025, Tabelas de distribuição de renda (xls, FTP)",
+      "url": "https://ftp.ibge.gov.br/Indicadores_Sociais/Sintese_de_Indicadores_Sociais/Sintese_de_Indicadores_Sociais_2025/Tabelas/xls/2_Distribuicao_Renda_xls.zip",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "FGV Social/CPS – Evolução das Classes Econômicas Brasileiras: 1976 a 2024 (13/01/2026)",
+      "url": "https://cps.fgv.br/en/node/39333",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    },
+    {
+      "nome": "IBGE – SIDRA tabela 7533 (rendimento domiciliar per capita médio por classe, R$ de 2025)",
+      "url": "https://sidra.ibge.gov.br/tabela/7533",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/13_renda_por_faixa_e_simulacoes_de_impacto.md",
@@ -269,6 +352,10 @@
     {
       "data": "2026-10-21",
       "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "enriquecimento rodada 2: série oficial da SIS 2025 (Tabela 2.18 e 2.22), FGV Social classes 2024, renda do 1º décimo"
     }
   ],
   "exemplo": false

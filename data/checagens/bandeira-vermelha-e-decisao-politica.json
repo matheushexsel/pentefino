@@ -33,7 +33,7 @@
     "Em 2026 a bandeira foi verde de janeiro a abril, amarela de maio a setembro e voltou a verde em outubro por causa da transição para o período úmido.",
     "O que governos e Congresso decidem é quantas térmicas o sistema contrata, como os 8 GW obrigatórios da Lei 14.182/2021, não a cor do mês."
   ],
-  "explicacao_completa_md": "## Como funciona\nAs bandeiras (criadas em 2015) repassam à vista o custo da geração térmica acionada. Valores desde abr/2024: amarela R$ 1,885; vermelha 1 R$ 4,463; vermelha 2 R$ 7,877 por 100 kWh. A ANEEL anunciou a verde de out/2026 em 25/09/2026 citando a transição seco→úmido, 'mais chuva às regiões Sul e Sudeste' e menor uso de térmicas; o CMSE registrou 71% de armazenamento ao fim de abril de 2026.\n\n## Histórico\nEscassez hídrica (R$ 14,20) em set–dez/2021; maior período verde de abr/2022 a jul/2024 (atravessando dois governos); 2025: amarela em maio, vermelha de junho a novembro, amarela em dezembro; 2026: verde jan–abr, amarela mai–set, verde em outubro. A única suspensão formal foi da própria ANEEL, de jun a dez/2020, na pandemia.\n\n## Veredito\n**Falso.** A cor não é decidida pelo Planalto; o que cabe a governos e Congresso é a contratação estrutural de térmicas.",
+  "explicacao_completa_md": "## Como funciona\nAs bandeiras (criadas em 2015) repassam à vista o custo da geração térmica acionada. Valores desde abr/2024: amarela R$ 1,885; vermelha 1 R$ 4,463; vermelha 2 R$ 7,877 por 100 kWh. A ANEEL anunciou a verde de out/2026 em 25/09/2026 citando a transição seco→úmido, 'mais chuva às regiões Sul e Sudeste' e menor uso de térmicas; o CMSE registrou 71% de armazenamento ao fim de abril de 2026.\n\n## Histórico\nEscassez hídrica (R$ 14,20) em set–dez/2021; maior período verde de mai/2022 a jun/2024, 26 meses (atravessando dois governos; julho/2024 foi amarela); 2025: amarela em maio, vermelha de junho a novembro, amarela em dezembro; 2026: verde jan–abr, amarela mai–set, verde em outubro. A única suspensão formal foi da própria ANEEL, de jun a dez/2020, na pandemia.\n\n## Veredito\n**Falso.** A cor não é decidida pelo Planalto; o que cabe a governos e Congresso é a contratação estrutural de térmicas.\n\n## Atualização (rodada 2)\nBase ANEEL Dados Abertos (2015–2026): a escassez hídrica vigorou de set/2021 a abr/2022 (R$ 7,10 em abril); verde de mai/2022 a jun/2024; 2024 teve amarela (jul), vermelha P1 (set), P2 (out) e amarela (nov). ONS: a amarela de mai–set/2026 ocorreu com o SE/CO entre 56,5% e 66,1% de energia armazenada, contra 16,8–34,7% nos mesmos meses de 2021; o mínimo de 2021 foi 16,5% (06/10/2021).",
   "o_que_e_verdade": [
     "Governos e Congresso influenciam o custo das bandeiras ao contratar térmicas por lei e leilões (ex.: 8 GW da Lei 14.182/2021)."
   ],
@@ -129,10 +129,39 @@
         "acesso_em": "2026-10-21",
         "tier": "imprensa"
       }
+    },
+    {
+      "rotulo": "Energia armazenada no SE/CO ao fim de set/2026 (ONS)",
+      "valor": 56.5,
+      "unidade": "%",
+      "periodo": "set/2026",
+      "fonte": {
+        "nome": "ONS Dados Abertos – EAR diário por subsistema",
+        "url": "https://dados.ons.org.br/dataset/ear-diario-por-subsistema",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "set/2021",
+        "valor": 16.8
+      }
+    },
+    {
+      "rotulo": "Maior período verde (mai/2022–jun/2024)",
+      "valor": 26,
+      "unidade": "meses",
+      "periodo": "2022–2024",
+      "fonte": {
+        "nome": "ANEEL Dados Abertos – bandeira-tarifaria-acionamento.csv",
+        "url": "https://dadosabertos.aneel.gov.br/dataset/7f43a020-6dc5-44b8-80b4-d97eaa94436c/resource/0591b8f6-fe54-437b-b72b-1aa2efd46e42/download/bandeira-tarifaria-acionamento.csv",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
     }
   ],
   "series": [
-    "bandeiras-tarifarias-mensais"
+    "bandeiras-tarifarias-mensais",
+    "reservatorios-se-co"
   ],
   "checagens_externas": [],
   "fontes": [
@@ -189,6 +218,24 @@
       "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/L14182.htm",
       "acesso_em": "2026-10-21",
       "tier": "oficial"
+    },
+    {
+      "nome": "ANEEL Dados Abertos – Bandeiras Tarifárias (acionamento mensal, CSV gerado em 19/10/2026)",
+      "url": "https://dadosabertos.aneel.gov.br/dataset/bandeiras-tarifarias",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "ANEEL Dados Abertos – bandeira-tarifaria-acionamento.csv",
+      "url": "https://dadosabertos.aneel.gov.br/dataset/7f43a020-6dc5-44b8-80b4-d97eaa94436c/resource/0591b8f6-fe54-437b-b72b-1aa2efd46e42/download/bandeira-tarifaria-acionamento.csv",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "ONS Dados Abertos – EAR diário por subsistema",
+      "url": "https://dados.ons.org.br/dataset/ear-diario-por-subsistema",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/06_energia_eletrobras_combustiveis.md",
@@ -206,11 +253,15 @@
     {
       "data": "2026-10-21",
       "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "rodada 2: série completa 2015–2026, correção do período verde, reservatórios ONS"
     }
   ],
   "exemplo": false,
   "lacunas": [
     "Autoria, data e local da declaração não documentados nas notas; a checagem trata a afirmação em sua forma recorrente.",
-    "Checagens já publicadas por Aos Fatos, Lupa, Estadão Verifica e Comprova sobre o tema não foram consultadas (cota de busca esgotada); cruzar antes da publicação."
+    "Checagens da Lupa, Estadão Verifica e g1 Fato ou Fake não puderam ser abertas na rodada 2 (bloqueio de fetch); a lista de checagens externas cobre apenas Aos Fatos e Comprova."
   ]
 }

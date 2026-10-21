@@ -5,8 +5,10 @@
   "candidato": "lula",
   "lado": "governo-lula-pt",
   "minuto": null,
+  "url_trecho": null,
   "frase_literal": "É importante lembrar que foi nos meus mandatos que o Brasil fez superávit primário durante 8 anos do meu governo.",
   "literal": true,
+  "variantes_literais": [],
   "tema": "contas-publicas",
   "veredito": "verdadeiro",
   "resumo_uma_frase": "O setor público teve superávit primário em todos os anos de 2003 a 2010 (de 2,06% a 4,84% do PIB).",
@@ -34,7 +36,30 @@
       "comparacao": {
         "rotulo": "Maior do período, 2005",
         "valor": 4.84
+      },
+      "fonte_primaria": {
+        "nome": "BCB — Estatísticas fiscais, tabelas especiais (NFSP anual; DBGG em R$)",
+        "url": "https://www.bcb.gov.br/estatisticas/tabelasespeciais",
+        "acesso_em": null,
+        "tier": "oficial",
+        "acessada_na_rodada_2": false
       }
+    }
+  ],
+  "fontes_primarias": [
+    {
+      "nome": "BCB — Estatísticas fiscais, tabelas especiais (NFSP anual; DBGG em R$)",
+      "url": "https://www.bcb.gov.br/estatisticas/tabelasespeciais",
+      "acesso_em": null,
+      "tier": "oficial",
+      "acessada_na_rodada_2": false
+    },
+    {
+      "nome": "Tesouro Nacional — Resultado do Tesouro Nacional (RTN)",
+      "url": "https://www.gov.br/tesouronacional/pt-br/estatisticas-fiscais-e-planejamento/resultado-do-tesouro-nacional-rtn",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial",
+      "acessada_na_rodada_2": true
     }
   ],
   "base_legal": [],
@@ -57,5 +82,11 @@
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
-  "atualizado_em": "2026-10-21"
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ]
 }

@@ -5,8 +5,10 @@
   "candidato": "flavio-bolsonaro",
   "lado": "oposicao-flavio-pl",
   "minuto": null,
+  "url_trecho": null,
   "frase_literal": "Agora o atual governo já criou mais 22 mil [cargos comissionados].",
   "literal": true,
+  "variantes_literais": [],
   "tema": "contas-publicas",
   "veredito": "exagerado",
   "resumo_uma_frase": "Os cargos comissionados passaram de 46.989 para 52.780 (+5,7 mil) até junho de 2026; os 22 mil são novos servidores concursados.",
@@ -36,7 +38,23 @@
       "comparacao": {
         "rotulo": "Início do governo",
         "valor": 46989
+      },
+      "fonte_primaria": {
+        "nome": "MGI — Painel Estatístico de Pessoal",
+        "url": "https://www.gov.br/gestao/pt-br/assuntos/gestao-de-pessoas/painel-estatistico-de-pessoal",
+        "acesso_em": null,
+        "tier": "oficial",
+        "acessada_na_rodada_2": false
       }
+    }
+  ],
+  "fontes_primarias": [
+    {
+      "nome": "MGI — Painel Estatístico de Pessoal",
+      "url": "https://www.gov.br/gestao/pt-br/assuntos/gestao-de-pessoas/painel-estatistico-de-pessoal",
+      "acesso_em": null,
+      "tier": "oficial",
+      "acessada_na_rodada_2": false
     }
   ],
   "base_legal": [],
@@ -71,5 +89,11 @@
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
-  "atualizado_em": "2026-10-21"
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ]
 }

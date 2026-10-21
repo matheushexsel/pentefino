@@ -33,7 +33,7 @@
     "Mas a queda tinha começado em 2018, antes de Bolsonaro, e continuou depois dele: em 2025 a taxa (19,1 por 100 mil) é a menor desde 2012, no governo Lula, que restringiu armas.",
     "Os especialistas atribuem a queda ao envelhecimento da população, a políticas estaduais e ao Estatuto do Desarmamento; o Aos Fatos chamou de desinformação ligar a queda aos CACs."
   ],
-  "explicacao_completa_md": "Aos Fatos (Globo, 16/10): DESINFORMAÇÃO (Atlas da Violência atribui a queda a envelhecimento, programas estaduais e Estatuto do Desarmamento). **Série MVI (FBSP):** 2016 61.600 (taxa 30,2); 2017 64.079 (31,2, pico); 2018 57.592 (27,9); 2019 47.765 (23,0); 2020 50.448 (24,1); 2021 48.286 (23,0); 2022 47.963 (22,7); 2023 46.441 (21,9); 2024 44.220 (20,8); 2025 40.775 (19,1). A queda de 2018 para 2019 foi de 17,1%. Por governo: Temer tem o pico (2017) e o início da queda (2018); Bolsonaro cai para 23,0 em 2019 e fecha em 22,7 em 2022, com repique em 2020; Lula 3 cai de 21,9 para 19,1. **Explicações (Daniel Cerqueira, IPEA):** envelhecimento populacional, 'revolução invisível' nas políticas estaduais (planejamento, dados, inteligência), programas de prevenção para jovens; e 'mais armas em circulação tendem a elevar homicídios'. Os registros de armas saltaram 63,5% entre 2018 e 2019 e o estoque legal dobrou até 2022; a queda de homicídios continuou depois que Lula restringiu as armas em 2023. Segurança pública é executada pelos estados (80% do gasto).",
+  "explicacao_completa_md": "Aos Fatos (Globo, 16/10): DESINFORMAÇÃO (Atlas da Violência atribui a queda a envelhecimento, programas estaduais e Estatuto do Desarmamento). **Série MVI (FBSP):** 2016 61.600 (taxa 30,2); 2017 64.079 (31,2, pico); 2018 57.592 (27,9); 2019 47.765 (23,0); 2020 50.448 (24,1); 2021 48.286 (23,0); 2022 47.963 (22,7); 2023 46.441 (21,9); 2024 44.220 (20,8); 2025 40.775 (19,1). A queda de 2018 para 2019 foi de 17,1%. Por governo: Temer tem o pico (2017) e o início da queda (2018); Bolsonaro cai para 23,0 em 2019 e fecha em 22,7 em 2022, com repique em 2020; Lula 3 cai de 21,9 para 19,1. **Explicações (Daniel Cerqueira, IPEA):** envelhecimento populacional, 'revolução invisível' nas políticas estaduais (planejamento, dados, inteligência), programas de prevenção para jovens; e 'mais armas em circulação tendem a elevar homicídios'. Os registros de armas saltaram 63,5% entre 2018 e 2019 e o estoque legal dobrou até 2022; a queda de homicídios continuou depois que Lula restringiu as armas em 2023. Segurança pública é executada pelos estados (80% do gasto).\n\n**Atualização (enriquecimento, 21/10/2026):** série longa (DATASUS/SIM, óbitos por agressão por local de ocorrência): 51.043 (2003), 48.374, 47.578, 49.145, 47.707, 50.113, 51.434, 52.260 (2010) e 52.198 (2011) — nos oito anos de Lula 1–2 oscilaram entre 47,6 mil e 52,3 mil (taxa 25–28 por 100 mil), sem tendência clara; a escalada até o pico de 2017 ocorreu em 2012–2017 (Atlas: 57.045 em 2012 e 65.602 em 2017). Taxa UNODC via Banco Mundial (por 100 mil): 31,2 (2017), 27,2 (2018), 21,2 (2019), 21,8 (2020), 20,5 (2021), 20,1 (2022), 19,3 (2023). A execução policial é estadual.",
   "o_que_e_verdade": [
     "As mortes violentas caíram 17% em 2019, primeiro ano de Bolsonaro, e a taxa de 2022 (22,7) ficou abaixo da de 2018 (27,9).",
     "Houve recorde de certificados de CAC em 2019-2022."
@@ -129,6 +129,22 @@
         "tier": "academico"
       },
       "comparacao": null
+    },
+    {
+      "rotulo": "Taxa de homicídios UNODC (Banco Mundial) em 2018",
+      "valor": 27.2,
+      "unidade": "por 100 mil hab.",
+      "periodo": "2018",
+      "fonte": {
+        "nome": "Banco Mundial, VC.IHR.PSRC.P5 (UNODC), Brasil",
+        "url": "https://api.worldbank.org/v2/country/BRA/indicator/VC.IHR.PSRC.P5?format=json&per_page=100&date=2000:2023",
+        "acesso_em": "2026-10-21",
+        "tier": "multilateral"
+      },
+      "comparacao": {
+        "rotulo": "Taxa em 2019",
+        "valor": 21.2
+      }
     }
   ],
   "series": [
@@ -174,6 +190,24 @@
       "url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/07_saude_seguranca_educacao_infra_ambiente.md",
       "acesso_em": "2026-10-21",
       "tier": "academico"
+    },
+    {
+      "nome": "Banco Mundial, VC.IHR.PSRC.P5 (UNODC), Brasil",
+      "url": "https://api.worldbank.org/v2/country/BRA/indicator/VC.IHR.PSRC.P5?format=json&per_page=100&date=2000:2023",
+      "acesso_em": "2026-10-21",
+      "tier": "multilateral"
+    },
+    {
+      "nome": "DATASUS/SIM — óbitos por agressões, 2003–2011 (TabNet)",
+      "url": "http://tabnet.datasus.gov.br/cgi/tabcgi.exe?sim/cnv/ext10uf.def",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Atlas da Violência 2019 (Ipea/FBSP, PDF)",
+      "url": "https://www.ipea.gov.br/portal/images/stories/PDFs/relatorio_institucional/190605_atlas_da_violencia_2019.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/09_acusacoes_e_falas_flavio_x_lula.md",
@@ -203,6 +237,10 @@
     {
       "data": "2026-10-21",
       "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "enriquecimento rodada 2 (21/10/2026): séries SIM 2003–2011 e UNODC 2017–2023 (a queda começa em 2018 e segue até 2023)"
     }
   ],
   "exemplo": false

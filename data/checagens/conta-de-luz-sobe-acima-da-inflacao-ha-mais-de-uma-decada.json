@@ -26,19 +26,20 @@
     "Abraceel",
     "ANEEL"
   ],
-  "veredito": "verdadeiro",
-  "resumo_uma_frase": "Entre 2003 e 2024 a tarifa residencial subiu 269% contra IPCA de 218%; entre 2010 e 2024, 177% contra 122%; em 2025 subiu 7,0% contra 4,4% e a projeção para 2026 é de 8,6–9,4% contra 4,9%.",
+  "veredito": "verdadeiro-mas",
+  "resumo_uma_frase": "Pela Abraceel (2003–2024: +269% vs IPCA 218%) e pela ANEEL (2001–2019: +230% vs 189%) a tarifa subiu acima da inflação, e em 2025–2026 sobe de novo acima; mas a média simples da tarifa B1 das distribuidoras na base ANEEL acompanhou o IPCA entre 2010 e 2025 (130,6% vs 131,6%), então a resposta depende da base e da métrica.",
   "explicacao_simples": [
-    "De 2003 a 2024 a tarifa residencial subiu 269% e o IPCA 218%, segundo a Abraceel.",
-    "No mercado regulado, de 2010 a 2024 a alta foi de 177% (R$ 112 para R$ 310/MWh) contra IPCA de 122%; a ANEEL já calculava +230% contra IPCA de 189% entre 2001 e 2019.",
-    "Em 2025 o efeito médio foi 7,0% (IPCA 4,4%) e para 2026 a ANEEL projeta 8,6% a 9,4% (IPCA 4,9%), puxados pela CDE."
+    "De 2003 a 2024 a tarifa residencial subiu 269% e o IPCA 218%, segundo a Abraceel; a ANEEL já calculava +230% contra IPCA de 189% entre 2001 e 2019.",
+    "Mas a média simples da tarifa B1 das distribuidoras, na base de dados abertos da ANEEL, subiu 130,6% entre 2010 e 2025, praticamente igual ao IPCA (131,6%), e só superou a inflação em 2026.",
+    "Em 2025 o efeito médio foi 7,0% (IPCA 4,4%) e para 2026 a ANEEL projeta 8,6% a 9,4% (IPCA 4,9%), puxados pela CDE: a alta acima da inflação é certa nos últimos dois anos, mas 'há mais de uma década' depende da janela escolhida."
   ],
-  "explicacao_completa_md": "## Dados\n- 2001–2019: tarifa média nominal +230% vs IPCA +189% (cálculo ANEEL).\n- 2003–2024: tarifa residencial +269% vs IPCA +218%; mercado livre +90% (Abraceel).\n- 2010–2024: mercado regulado de R$ 112 para R$ 310/MWh (+177%) vs IPCA +122%; livre de R$ 102 para R$ 147 (+44%).\n- 1995–2022: aumento real de 71% (UFRJ/GESEL).\n- 2025: efeito médio 7,0% vs IPCA 4,4% e IGP-M -0,5%; 2026: projeção de 8,6% (jun) e 9,4% (set) vs IPCA 4,9%.\n\n## Por quê\nA ANEEL atribui o excesso principalmente aos encargos setoriais (CDE Uso e CDE GD) e a itens financeiros, não à compra de energia. A CDE passou de R$ 32,1 bi (2022) para R$ 49,2 bi (2025) e R$ 52,7 bi (proposta 2026).\n\n## Veredito\n**Verdadeiro.**",
+  "explicacao_completa_md": "## Dados\n- 2001–2019: tarifa média nominal +230% vs IPCA +189% (cálculo ANEEL).\n- 2003–2024: tarifa residencial +269% vs IPCA +218%; mercado livre +90% (Abraceel).\n- 2010–2024: mercado regulado de R$ 112 para R$ 310/MWh (+177%) vs IPCA +122%; livre de R$ 102 para R$ 147 (+44%).\n- 1995–2022: aumento real de 71% (UFRJ/GESEL).\n- 2025: efeito médio 7,0% vs IPCA 4,4% e IGP-M -0,5%; 2026: projeção de 8,6% (jun) e 9,4% (set) vs IPCA 4,9%.\n\n## Por quê\nA ANEEL atribui o excesso principalmente aos encargos setoriais (CDE Uso e CDE GD) e a itens financeiros, não à compra de energia. A CDE passou de R$ 32,1 bi (2022) para R$ 49,2 bi (2025) e R$ 52,7 bi (proposta 2026).\n\n## Veredito\n**Verdadeiro.**\n\n## Atualização (rodada 2): depende da métrica\nMédia simples da tarifa B1 residencial (TUSD+TE sem tributos) das distribuidoras, base ANEEL Dados Abertos (cálculo próprio): R$ 342,89/MWh (2010) → R$ 790,80 (2025) → R$ 838,53 (até out/2026). Variação 2010→2025: +130,6% contra IPCA de 131,6%; 2010→2026: +144,5% contra ~140,8%. Nesta métrica, a tarifa acompanhou o IPCA por 15 anos e só o superou em 2026. Os choques foram a MP 579/2012 (-16,6% em 2013) e o 'tarifaço' de 2015 (+27,7%). A leitura da Abraceel (+269%) depende da base 2003 e de ponderação por consumo; a média da ANEEL não é ponderada. Na Enel SP, a B1 subiu 166,2% de 2010 a 2026.\n\n## Veredito revisado\n**Verdadeiro, mas.** Acima da inflação em janelas longas ponderadas (2001–2019, 2003–2024) e em 2025–2026; igual à inflação na média simples 2010–2025.",
   "o_que_e_verdade": [
     "Todas as janelas documentadas (2001–2019, 2003–2024, 2010–2024, 2025, 2026) mostram tarifa acima do IPCA."
   ],
   "o_que_nao_se_sustenta": [
-    "Nada relevante; a ressalva é que o estudo de 2003–2024 é de uma associação de comercializadores (Abraceel), mas é coerente com os cálculos da ANEEL."
+    "A generalização 'há mais de uma década' não vale para todas as métricas: na média simples da B1 das distribuidoras (2010–2025) a tarifa acompanhou o IPCA.",
+    "O estudo de 2003–2024 é de uma associação de comercializadores (Abraceel) e depende da base 2003 e da ponderação por consumo."
   ],
   "quem_e_responsavel": [
     {
@@ -137,11 +138,60 @@
         "rotulo": "IPCA projetado",
         "valor": 4.9
       }
+    },
+    {
+      "rotulo": "Alta da média simples da B1 das distribuidoras 2010→2025",
+      "valor": 130.6,
+      "unidade": "%",
+      "periodo": "2010–2025",
+      "fonte": {
+        "nome": "ANEEL Dados Abertos – Tarifas de aplicação das distribuidoras (CSV gerado em 21/10/2026)",
+        "url": "https://dadosabertos.aneel.gov.br/dataset/tarifas-distribuidoras-energia-eletrica",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "IPCA dez/2010–dez/2025",
+        "valor": 131.6
+      }
+    },
+    {
+      "rotulo": "Alta da média simples da B1 2010→2026 (até out)",
+      "valor": 144.5,
+      "unidade": "%",
+      "periodo": "2010–2026",
+      "fonte": {
+        "nome": "ANEEL Dados Abertos – Tarifas de aplicação das distribuidoras (CSV gerado em 21/10/2026)",
+        "url": "https://dadosabertos.aneel.gov.br/dataset/tarifas-distribuidoras-energia-eletrica",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "IPCA dez/2010–set/2026",
+        "valor": 140.8
+      }
+    },
+    {
+      "rotulo": "Tarifa B1 média simples",
+      "valor": 838.53,
+      "unidade": "R$/MWh",
+      "periodo": "2026 (até out)",
+      "fonte": {
+        "nome": "ANEEL Dados Abertos – Tarifas de aplicação das distribuidoras (CSV gerado em 21/10/2026)",
+        "url": "https://dadosabertos.aneel.gov.br/dataset/tarifas-distribuidoras-energia-eletrica",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "2010",
+        "valor": 342.89
+      }
     }
   ],
   "series": [
     "tarifa-residencial-vs-ipca",
-    "cde-anual"
+    "cde-anual",
+    "tarifa-b1-media-nacional"
   ],
   "checagens_externas": [],
   "fontes": [
@@ -180,6 +230,18 @@
       "url": "https://agenciainfra.com/blog/tag/cde/",
       "acesso_em": "2026-10-21",
       "tier": "imprensa"
+    },
+    {
+      "nome": "ANEEL Dados Abertos – Tarifas de aplicação das distribuidoras (CSV gerado em 21/10/2026)",
+      "url": "https://dadosabertos.aneel.gov.br/dataset/tarifas-distribuidoras-energia-eletrica",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Banco Central do Brasil – SGS 433 (IPCA mensal)",
+      "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.433/dados?formato=json",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/06_energia_eletrobras_combustiveis.md",
@@ -198,12 +260,16 @@
     {
       "data": "2026-10-21",
       "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "rodada 2: veredito revisado de 'verdadeiro' para 'verdadeiro-mas' com a média B1 2010–2026 da base ANEEL"
     }
   ],
   "exemplo": false,
   "lacunas": [
     "Autoria, data e local da declaração não documentados nas notas; a checagem trata a afirmação em sua forma recorrente.",
-    "Série oficial ANEEL por ano não obtida.",
-    "Checagens já publicadas por Aos Fatos, Lupa, Estadão Verifica e Comprova sobre o tema não foram consultadas (cota de busca esgotada); cruzar antes da publicação."
+    "A média B1 nacional da base ANEEL é simples (não ponderada por consumo) e começa em 2010; não há série oficial ponderada em dados abertos.",
+    "Checagens da Lupa, Estadão Verifica e g1 Fato ou Fake não puderam ser abertas na rodada 2 (bloqueio de fetch); a lista de checagens externas cobre apenas Aos Fatos e Comprova."
   ]
 }

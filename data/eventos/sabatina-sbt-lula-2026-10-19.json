@@ -12,25 +12,16 @@
   "resumo_uma_frase": "Sem checagem de agência; a Gazeta do Paraná checou 11 pontos. Lula repetiu '43 mentiras' e 'miliciano', voltou ao 'déficit de 2,8%' e detalhou promessas (dobrar PF/PRF, 138 presídios, transporte gratuito com emendas).",
   "placar": {
     "lula": {
-      "checadas": 12,
+      "checadas": 14,
       "por_veredito": {
         "verdadeiro": 3,
         "verdadeiro-mas": 5,
         "impreciso": 2,
-        "exagerado": 0,
-        "falta-contexto": 0,
         "insustentavel": 3,
         "falso": 1,
         "opiniao": 3
       },
-      "contagem_arquivos": {
-        "verdadeiro-mas": 5,
-        "insustentavel": 3,
-        "verdadeiro": 3,
-        "opiniao": 3,
-        "impreciso": 2,
-        "falso": 1
-      }
+      "criterio": "contagem dos arquivos de data/falas/ deste evento (frases únicas; opiniões em linha própria e fora de 'checadas'; falas de aliados não incluídas)"
     }
   },
   "falas": [
@@ -84,6 +75,17 @@
   "atualizado_em": "2026-10-21",
   "lacunas": [
     "Nenhuma agência de checagem cobriu a sabatina; a Gazeta do Paraná é checagem de redação local.",
-    "Flávio foi convidado para 21/10, sem confirmação até a publicação."
+    "Flávio foi convidado para 21/10; em 21/10 (14h) o SBT News mantinha 'ainda não confirmou participação' — não confirmada e não realizada até o fechamento.",
+    "Audiência não obtida."
+  ],
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "rodada 2: placar recontado a partir dos arquivos de falas; lacunas e fontes atualizadas"
+    }
   ]
 }

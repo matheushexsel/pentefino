@@ -17,7 +17,8 @@
     "Entidades associativas descontavam mensalidades não autorizadas de aposentadorias e pensões. A PF e a CGU estimam R$ 6,3 bilhões movimentados entre 2019 e 2024 e mais de 4 milhões de beneficiários afetados (INSS: 4,1 milhões).",
     "Segundo a PF, o esquema começa em 2019 (governo Bolsonaro) e cerca de 64% do valor refere-se a 2023–2024 (governo Lula): os descontos saltaram de R$ 36 mi (2020) para R$ 2,4 bi (2024).",
     "O caso derrubou o ministro da Previdência Carlos Lupi (PDT), levou à prisão o ex-presidente do INSS Alessandro Stefanutto e gerou uma CPMI (ago/2025–mar/2026) que terminou sem relatório aprovado: o texto do relator (216 pedidos de indiciamento, incluindo Lupi e Lulinha) foi rejeitado por 19 a 12 e o alternativo governista (201 pedidos, incluindo Jair e Flávio Bolsonaro) não foi votado.",
-    "Em 14/07/2026 a PF indiciou 48 pessoas (Stefanutto, o 'Careca do INSS' e outros). Até out/2026 não há denúncia da PGR nem condenação criminal localizada. O governo ressarciu mais de 5 milhões de beneficiários, total acima de R$ 3,5 bi."
+    "Em 14/07/2026 a PF indiciou 48 pessoas (Stefanutto, o 'Careca do INSS' e outros; relatório entregue ao STF em 10/07). Até out/2026 não há denúncia da PGR nem condenação criminal localizada. O governo ressarciu mais de 5 milhões de beneficiários, total acima de R$ 3,5 bi.",
+    "Fábio Luís Lula da Silva ('Lulinha'), filho do presidente, não era investigado pela PF até abr/2026; em 30/07/2026 André Mendonça (STF) autorizou inquérito da PF contra ele por suspeita de tráfico de influência e corrupção, com indícios de 2º e 3º inquéritos (31/07 e 03/08/2026). A defesa fala em 'pescaria probatória'; não há denúncia nem condenação."
   ],
   "valores": [
     {
@@ -210,7 +211,31 @@
         "acesso_em": "2026-10-21",
         "tier": "imprensa"
       },
-      "nota": "Outra citação fala em R$ 2,9 bi (2016–2023) — divergência entre fontes."
+      "nao_verificado": true,
+      "nota": "Há três cifras não reconciliadas: ~R$ 2 bi; R$ 2,9 bi (2016–2023); R$ 3,4 bi recebidos em descontos nos últimos dez anos (Agência Senado — total repassado, não necessariamente fraudado). Nenhuma confirmada como 'valor fraudado'."
+    },
+    {
+      "rotulo": "Descontos associativos de todas as entidades em 2015 (CGU à CPMI)",
+      "valor": 387,
+      "unidade": "R$ milhões",
+      "fonte": {
+        "nome": "Agência Senado, 04/09/2025: CPMI — ex-presidente do INSS não acatou recomendações da CGU",
+        "url": "https://www12.senado.leg.br/noticias/materias/2025/09/04/cpmi-ex-presidente-do-inss-nao-acatou-recomendacoes-da-cgu-diz-depoente/view",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    {
+      "rotulo": "Descontos associativos de todas as entidades em 2024 (CGU à CPMI)",
+      "valor": 3.4,
+      "unidade": "R$ bilhões",
+      "fonte": {
+        "nome": "Agência Senado, 04/09/2025: CPMI — ex-presidente do INSS não acatou recomendações da CGU",
+        "url": "https://www12.senado.leg.br/noticias/materias/2025/09/04/cpmi-ex-presidente-do-inss-nao-acatou-recomendacoes-da-cgu-diz-depoente/view",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "nota": "O relatório da CGU cita R$ 2,6 bi para 2024 — divergência não reconciliada nas fontes; a Wikipédia registra R$ 2,4 bi."
     },
     {
       "rotulo": "Ressarcido pelo governo até 12/06/2025",
@@ -224,6 +249,18 @@
       }
     },
     {
+      "rotulo": "Ressarcido até 05/01/2026 (4.160.369 solicitações)",
+      "valor": 2.836,
+      "unidade": "R$ bilhões",
+      "fonte": {
+        "nome": "gov.br/INSS, 05/01/2026: governo devolveu mais de R$ 2,8 bilhões a 4 milhões de aposentados (trecho indexado)",
+        "url": "https://www.gov.br/inss/pt-br/assuntos/governo-federal-ja-devolveu-mais-de-r-2-8-bilhoes-a-quatro-milhoes-de-aposentados-e-pensionistas-vitimas-de-fraudes",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "nota": "R$ 2.835.784.151,87; trecho indexado de página gov.br não lida na íntegra."
+    },
+    {
       "rotulo": "Ressarcido até fev/2026 (4,2 milhões de beneficiários)",
       "valor": 2.9,
       "unidade": "R$ bilhões",
@@ -233,6 +270,53 @@
         "acesso_em": "2026-10-21",
         "tier": "oficial"
       }
+    },
+    {
+      "rotulo": "Ressarcido em mar/2026 (4.340.240 → 4.381.093 adesões)",
+      "valor": 2.959,
+      "unidade": "R$ bilhões",
+      "fonte": {
+        "nome": "gov.br/INSS, mar/2026: prazo para contestar descontos indevidos termina em 20 de março (trecho indexado)",
+        "url": "https://www.gov.br/inss/pt-br/assuntos/prazo-para-contestar-descontos-indevidos-termina-em-20-de-marco",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "nota": "R$ 2.941.856.151,80 → R$ 2.959.401.167,61; trecho indexado."
+    },
+    {
+      "rotulo": "Adesões ao acordo de ressarcimento em 27/03/2026",
+      "valor": 4401653,
+      "unidade": "adesões",
+      "fonte": {
+        "nome": "Agência Brasil, 27/03/2026: vítimas de descontos indevidos do INSS têm mais 90 dias para contestar",
+        "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/vitimas-de-descontos-indevidos-do-inss-tem-mais-90-dias-para-contestar",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "nota": "'Quase R$ 3 bi' pagos; 748.734 ainda aptos a aderir. 'Adesões' é o universo que recebeu/aceitou; 'contestações' (6,4 mi) é maior."
+    },
+    {
+      "rotulo": "Pessoas que contestaram descontos até 27/03/2026",
+      "valor": 6.4,
+      "unidade": "milhões",
+      "fonte": {
+        "nome": "Agência Brasil, 27/03/2026: vítimas de descontos indevidos do INSS têm mais 90 dias para contestar",
+        "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/vitimas-de-descontos-indevidos-do-inss-tem-mais-90-dias-para-contestar",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Ressarcido até jun/2026 (4,7 milhões)",
+      "valor": 3.2,
+      "unidade": "R$ bilhões",
+      "fonte": {
+        "nome": "gov.br/INSS, jun/2026: beneficiários podem contestar descontos até 20 de junho (trecho indexado)",
+        "url": "https://www.gov.br/inss/pt-br/assuntos/beneficiarios-podem-contestar-descontos-indevidos-ate-este-sabado-20-de-junho",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "nota": "Mais de R$ 3,2 bi; trecho indexado."
     },
     {
       "rotulo": "Ressarcido até jul/2026 (>4,7 milhões)",
@@ -335,6 +419,51 @@
         "tier": "imprensa"
       },
       "nota": "98% de falecidos."
+    },
+    {
+      "rotulo": "Mandados na fase de 27/05/2026 (PE, SP, PB, DF)",
+      "valor": 31,
+      "unidade": "mandados de busca",
+      "fonte": {
+        "nome": "Poder360, 27/05/2026: PF deflagra nova fase de operação contra fraudes em aposentadorias",
+        "url": "https://www.poder360.com.br/poder-justica/pf-deflagra-nova-fase-de-operacao-contra-fraudes-em-aposentadorias/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "nota": "Mais 8 medidas de monitoramento eletrônico; PF pediu prisões, não autorizadas pelo relator."
+    },
+    {
+      "rotulo": "Mandados na fase de 04/08/2026 (DF e MA; familiares de Weverton Rocha)",
+      "valor": 18,
+      "unidade": "mandados de busca",
+      "fonte": {
+        "nome": "Times Brasil, 04/08/2026: PF mira familiares de senador e advogado em nova fase da Sem Desconto",
+        "url": "https://timesbrasil.com.br/brasil/operacoes-da-pf/pf-mira-familiares-de-senador-e-advogado-em-nova-fase-da-operacao-sem-desconto-sobre-fraudes-no-inss/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Operação Indébito (mar/2026; CE e DF)",
+      "valor": 19,
+      "unidade": "mandados de busca (+2 de prisão)",
+      "fonte": {
+        "nome": "Poder360, 27/05/2026: PF deflagra nova fase de operação contra fraudes em aposentadorias",
+        "url": "https://www.poder360.com.br/poder-justica/pf-deflagra-nova-fase-de-operacao-contra-fraudes-em-aposentadorias/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    },
+    {
+      "rotulo": "Pagamentos de empresas do 'Careca' à consultoria de Roberta Luchsinger (hipótese da PF no inquérito de Lulinha)",
+      "valor": 1.5,
+      "unidade": "R$ milhões (5 parcelas de R$ 300 mil)",
+      "fonte": {
+        "nome": "Congresso em Foco, 31/07/2026: Mendonça autoriza inquérito sobre Lulinha por tráfico de influência",
+        "url": "https://www.congressoemfoco.com.br/noticia/120915/mendonca-autoriza-inquerito-sobre-lulinha-por-trafico-de-influencia",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
     }
   ],
   "partidos": [
@@ -415,23 +544,25 @@
       "nota": "Zeros indicam 'nenhum localizado nas fontes até out/2026'."
     },
     {
-      "partido": "PT",
+      "partido": "PT (família do presidente; sem filiação informada)",
       "citados": null,
       "denunciados": 0,
       "condenados_1a_instancia": 0,
       "condenados_definitivo": 0,
       "condenacoes_anuladas": null,
+      "investigados_nomeados": [
+        "Fábio Luís Lula da Silva, 'Lulinha' (inquérito no STF autorizado por Mendonça em 30/07/2026; tráfico de influência e corrupção)"
+      ],
       "citados_nomeados": [
-        "Fábio Luís Lula da Silva, 'Lulinha' (citado em delação e no relatório rejeitado da CPMI; não investigado pela PF)",
         "Frei Chico (vice-presidente do Sindnapi; não investigado)"
       ],
       "fonte": {
-        "nome": "CNN Brasil, mar/2026: relatório da CPMI do INSS pede indiciamento de Lulinha e outras 218 pessoas",
-        "url": "https://www.cnnbrasil.com.br/politica/relatorio-da-cpmi-do-inss-pede-indicamento-de-lulinha-e-outras-218-pessoas/",
+        "nome": "Congresso em Foco, 31/07/2026: Mendonça autoriza inquérito sobre Lulinha por tráfico de influência",
+        "url": "https://www.congressoemfoco.com.br/noticia/120915/mendonca-autoriza-inquerito-sobre-lulinha-por-trafico-de-influencia",
         "acesso_em": "2026-10-21",
         "tier": "imprensa"
       },
-      "nota": "Zeros indicam 'nenhum localizado nas fontes até out/2026'."
+      "nota": "Zeros indicam 'nenhum localizado nas fontes até out/2026'. Até abr/2026 Lulinha não era investigado pela PF; o status mudou em 30/07/2026."
     },
     {
       "partido": "PL / governo Bolsonaro",
@@ -490,9 +621,9 @@
       "tribunal": "STF (inquérito sob André Mendonça)",
       "data_condenacao": null,
       "pena": null,
-      "status_atual": "Demitido; preso em 13/11/2025; indiciado pela PF em 14/07/2026. Até out/2026 nenhuma denúncia da PGR nem condenação criminal foi localizada nas fontes.",
+      "status_atual": "Demitido; preso em 13/11/2025; indiciado pela PF (relatório entregue ao STF em 10/07/2026, noticiado em 14/07); a PGR pediu ao STF a manutenção da prisão preventiva. Até out/2026 nenhuma denúncia da PGR nem condenação criminal foi localizada nas fontes.",
       "status_categoria": "investigado",
-      "url": "https://www.correiobraziliense.com.br/politica/2026/07/7461264-pf-indicia-careca-do-inss-e-mais-47-pessoas-por-fraudes.html"
+      "url": "https://www.poder360.com.br/poder-justica/pf-indicia-careca-do-inss-e-mais-47-por-descontos-em-aposentadorias/"
     },
     {
       "nome": "Virgílio Antônio Ribeiro de Oliveira Filho",
@@ -606,13 +737,13 @@
       "nome": "Weverton Rocha",
       "partido_na_epoca": "PDT-MA",
       "cargo": "senador",
-      "crime": "não detalhado nas notas",
+      "crime": "não detalhado nas notas (fase de 04/08/2026 apurou lavagem de dinheiro ligada às fraudes)",
       "tribunal": "STF (inquérito sob André Mendonça)",
       "data_condenacao": null,
       "pena": null,
-      "status_atual": "Alvo de busca em 18/12/2025; pedido de indiciamento no relatório rejeitado da CPMI. Até out/2026 nenhuma denúncia da PGR nem condenação criminal foi localizada nas fontes.",
+      "status_atual": "Alvo de busca em 18/12/2025; pedido de indiciamento no relatório rejeitado da CPMI; em 04/08/2026 nova fase (18 mandados, DF e MA) teve como alvos familiares do senador e o advogado Willer Tomaz (dono da aeronave usada pelo senador; nega ser investigado). Até out/2026 nenhuma denúncia da PGR nem condenação criminal foi localizada nas fontes.",
       "status_categoria": "investigado",
-      "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Sem_Desconto"
+      "url": "https://timesbrasil.com.br/brasil/operacoes-da-pf/pf-mira-familiares-de-senador-e-advogado-em-nova-fase-da-operacao-sem-desconto-sobre-fraudes-no-inss/"
     },
     {
       "nome": "Maria Gorete Pereira",
@@ -682,13 +813,13 @@
       "nome": "Fábio Luís Lula da Silva ('Lulinha')",
       "partido_na_epoca": "sem filiação informada (filho do presidente Lula)",
       "cargo": "empresário",
-      "crime": "pedidos da CPMI (relatório rejeitado): tráfico de influência, lavagem, organização criminosa e participação em corrupção passiva",
-      "tribunal": "—",
+      "crime": "suspeita de tráfico de influência e corrupção (inquérito autorizado em 30/07/2026); pedidos da CPMI (relatório rejeitado): tráfico de influência, lavagem, organização criminosa e participação em corrupção passiva",
+      "tribunal": "STF (inquérito autorizado por André Mendonça; relatoria de eventual 3º inquérito — Mendonça ou Dino — não confirmada)",
       "data_condenacao": null,
       "pena": null,
-      "status_atual": "Citado em delação (fev/2026) e nas buscas contra Roberta Luchsinger (dez/2025); CPMI aprovou quebra de sigilo bancário em 26/02/2026, suspensa/anulada por Flávio Dino em 4–5/03/2026; o relator admitiu que a CPMI 'não conseguiu avançar'. A defesa nega. Não é formalmente investigado pela PF (abr/2026); pedido de indiciamento rejeitado em 28/03/2026.",
-      "status_categoria": "nao-investigado",
-      "url": "https://www.cnnbrasil.com.br/politica/relatorio-da-cpmi-do-inss-pede-indicamento-de-lulinha-e-outras-218-pessoas/"
+      "status_atual": "Citado em delação (fev/2026) e nas buscas contra Roberta Luchsinger (dez/2025); CPMI aprovou quebra de sigilo bancário em 26/02/2026, suspensa/anulada por Flávio Dino em 4–5/03/2026; pedido de indiciamento rejeitado em 28/03/2026; não era investigado pela PF até abr/2026. Em 30/07/2026 Mendonça autorizou inquérito da PF com compartilhamento de provas da Sem Desconto: hipótese de favorecimento a negócios de cannabis medicinal (World Cannabis, do 'Careca') no Ministério da Saúde e R$ 1,5 mi pagos por empresas de Antunes à consultoria de Roberta Luchsinger em 5 parcelas de R$ 300 mil; mensagem de Antunes citaria repasse ao 'filho do rapaz'. Fontes secundárias registram 2º inquérito autorizado em 31/07/2026 (relação com empresário de tecnologia/Dataprev) e 3º pedido da PF em 03/08/2026. Defesa: 'pescaria probatória', questiona a competência do STF. Sem denúncia nem condenação.",
+      "status_categoria": "investigado",
+      "url": "https://www.congressoemfoco.com.br/noticia/120915/mendonca-autoriza-inquerito-sobre-lulinha-por-trafico-de-influencia"
     },
     {
       "nome": "José Ferreira da Silva ('Frei Chico')",
@@ -760,7 +891,7 @@
     },
     {
       "data": "2025-08-20",
-      "evento": "Instalação da CPMI do INSS (presidente Carlos Viana, Podemos-MG; relator Alfredo Gaspar); aprovado investigar fatos desde 2015.",
+      "evento": "Instalação da CPMI do INSS (presidente Carlos Viana, Podemos-MG; relator Alfredo Gaspar, então União Brasil-AL — ex-MDB, migrou para o PL em mar/2026, durante a CPMI); aprovado investigar fatos desde 2015.",
       "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Sem_Desconto"
     },
     {
@@ -814,24 +945,54 @@
       "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-03/cpmi-do-inss-termina-sem-relatorio-final"
     },
     {
+      "data": "2026-01-05",
+      "evento": "INSS: R$ 2,84 bi pagos a 4.160.369 solicitações.",
+      "url": "https://www.gov.br/inss/pt-br/assuntos/governo-federal-ja-devolveu-mais-de-r-2-8-bilhoes-a-quatro-milhoes-de-aposentados-e-pensionistas-vitimas-de-fraudes"
+    },
+    {
+      "data": "2026-03",
+      "evento": "Operação Indébito: 19 mandados de busca e 2 de prisão no CE e DF.",
+      "url": "https://www.poder360.com.br/poder-justica/pf-deflagra-nova-fase-de-operacao-contra-fraudes-em-aposentadorias/"
+    },
+    {
+      "data": "2026-03-27",
+      "evento": "Portaria Conjunta MPS/INSS nº 12 prorroga pela 2ª vez o prazo de contestação (de 20/03 para 20/06/2026), a pedido da CPMI: 'quase R$ 3 bi' pagos, 4.401.653 adesões, 6,4 mi contestações. Na véspera (26/03) Alfredo Gaspar deixou o União Brasil e assumiu o diretório do PL-AL.",
+      "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/vitimas-de-descontos-indevidos-do-inss-tem-mais-90-dias-para-contestar"
+    },
+    {
       "data": "2026-05-27",
-      "evento": "31 mandados contra entidades no DF e RJ; vazamento da Dataprev (26/05) expõe 2,8 mi de CPFs.",
-      "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Sem_Desconto"
+      "evento": "Fase com 31 mandados de busca e 8 medidas de monitoramento eletrônico em PE, SP, PB e DF contra ex-servidores do INSS e dirigentes de UNIBAP, ABENPREV, ABCB, Master Prev, AASAP e ANDAPP (organização criminosa, estelionato previdenciário, ocultação patrimonial); PF pediu prisões, não autorizadas pelo relator. Vazamento da Dataprev (26/05) expõe 2,8 mi de CPFs.",
+      "url": "https://www.poder360.com.br/poder-justica/pf-deflagra-nova-fase-de-operacao-contra-fraudes-em-aposentadorias/"
     },
     {
       "data": "2026-06-20",
-      "evento": "Encerra o prazo de contestação/adesão ao ressarcimento.",
-      "url": "https://www.otempo.com.br/politica/judiciario/2026/4/23/operacao-contra-fraudes-no-inss-completa-um-ano-com-desdobramentos-mas-sem-ouvir-todos-investigados"
+      "evento": "Encerra o prazo de contestação/adesão ao ressarcimento (>R$ 3,2 bi a 4,7 milhões).",
+      "url": "https://www.gov.br/inss/pt-br/assuntos/beneficiarios-podem-contestar-descontos-indevidos-ate-este-sabado-20-de-junho"
     },
     {
-      "data": "2026-07-14",
-      "evento": "PF conclui a primeira parte e indicia 48 pessoas; relatório de 265 páginas enviado ao STF (Mendonça); cabe à PGR denunciar, pedir diligências ou arquivar.",
-      "url": "https://www.correiobraziliense.com.br/politica/2026/07/7461264-pf-indicia-careca-do-inss-e-mais-47-pessoas-por-fraudes.html"
+      "data": "2026-07-10",
+      "evento": "PF entrega ao STF (Mendonça) o relatório da primeira parte (265 páginas) e indicia 48 pessoas (noticiado em 14/07); PGR pede manutenção da preventiva de Stefanutto; cabe à PGR denunciar, pedir diligências ou arquivar.",
+      "url": "https://www.poder360.com.br/poder-justica/pf-indicia-careca-do-inss-e-mais-47-por-descontos-em-aposentadorias/"
     },
     {
       "data": "2026-07-22",
       "evento": "MP 1.378/2026 abre crédito extraordinário de R$ 547 mi para ressarcimento.",
       "url": "https://ohoje.com/2026/07/22/aposentados-terao-r-547-milhoes-para-ressarcimento-de-descontos-indevidos-do-inss/"
+    },
+    {
+      "data": "2026-07-30",
+      "evento": "Mendonça autoriza inquérito da PF contra Lulinha (tráfico de influência e corrupção); fontes secundárias indicam 2º inquérito em 31/07 e 3º pedido da PF em 03/08/2026.",
+      "url": "https://www.congressoemfoco.com.br/noticia/120915/mendonca-autoriza-inquerito-sobre-lulinha-por-trafico-de-influencia"
+    },
+    {
+      "data": "2026-08-04",
+      "evento": "Nova fase: 18 mandados de busca no DF e no Maranhão contra familiares do senador Weverton Rocha (PDT-MA) e o advogado Willer Tomaz (lavagem de dinheiro). Nenhuma fase em set–out/2026 localizada.",
+      "url": "https://timesbrasil.com.br/brasil/operacoes-da-pf/pf-mira-familiares-de-senador-e-advogado-em-nova-fase-da-operacao-sem-desconto-sobre-fraudes-no-inss/"
+    },
+    {
+      "data": "2026-08-05",
+      "evento": "Alfredo Gaspar (ex-relator da CPMI) é anunciado vice de Flávio Bolsonaro.",
+      "url": "https://pt.wikipedia.org/wiki/Alfredo_Gaspar_(pol%C3%ADtico)"
     },
     {
       "data": "2026-09-25",
@@ -845,18 +1006,85 @@
     }
   ],
   "o_que_dizem_os_dois_lados": {
-    "acusacao": "A oposição e o relatório do relator da CPMI (Alfredo Gaspar) sustentam que o esquema explodiu sob o governo Lula (64% do valor em 2023–2024), que Lupi foi alertado e não agiu (pedidos de indiciamento por prevaricação e condescendência criminosa), que dirigentes de entidades ligadas ao governo (Contag, Sindnapi, com Frei Chico na vice-presidência) foram beneficiadas e que Lulinha teria recebido 'mesadas' do 'Careca' — tese que o próprio relator admitiu não ter conseguido comprovar. Também criticam a tentativa do governo de suspender no STF as ações de aposentados (negada) e a exoneração de Fávaro às vésperas da votação.",
-    "defesa": "O governo e sua base apontam que, segundo a PF, o esquema começou em 2019 sob Bolsonaro (ministro José Carlos Oliveira), que foi a PF e a CGU do governo Lula que o desmontaram (abr/2025), que Lupi renunciou e Stefanutto foi demitido e preso, e que o governo ressarciu mais de 5 milhões de beneficiários (>R$ 3,5 bi). Lulinha e Frei Chico não são investigados pela PF. O relatório alternativo da base pediu o indiciamento de Jair Bolsonaro como 'comandante' e de Flávio Bolsonaro por organização criminosa, mas não foi votado."
+    "acusacao": "A oposição e o relatório do relator da CPMI (Alfredo Gaspar, PL-AL desde mar/2026, antes União Brasil; anunciado vice de Flávio Bolsonaro em 05/08/2026) sustentam que o esquema explodiu sob o governo Lula (64% do valor em 2023–2024), que Lupi foi alertado e não agiu (pedidos de indiciamento por prevaricação e condescendência criminosa), que dirigentes de entidades ligadas ao governo (Contag, Sindnapi, com Frei Chico na vice-presidência) foram beneficiadas e que Lulinha teria recebido 'mesadas' do 'Careca' — tese que o próprio relator admitiu não ter conseguido comprovar. Também criticam a tentativa do governo de suspender no STF as ações de aposentados (negada) e a exoneração de Fávaro às vésperas da votação.",
+    "defesa": "O governo e sua base apontam que, segundo a PF, o esquema começou em 2019 sob Bolsonaro (ministro José Carlos Oliveira), que foi a PF e a CGU do governo Lula que o desmontaram (abr/2025), que Lupi renunciou e Stefanutto foi demitido e preso, e que o governo ressarciu mais de 5 milhões de beneficiários (>R$ 3,5 bi). Frei Chico não é investigado; Lulinha, investigado desde 30/07/2026, nega e sua defesa fala em 'pescaria probatória' — não há denúncia. O relatório alternativo da base pediu o indiciamento de Jair Bolsonaro como 'comandante' e de Flávio Bolsonaro por organização criminosa, mas não foi votado."
   },
-  "status_atual_md": "**Em out/2026 o caso está no estágio de indiciamento policial (48 pessoas em 14/07/2026) e delações; nenhuma denúncia da PGR nem condenação criminal foi localizada**, o que é consistente com a decisão de Fachin (25/09/2026) cobrando a PGR por pedidos pendentes. O esquema atravessa dois governos: começa em 2019 (Bolsonaro) e cresce em volume em 2023–2024 (Lula). Os dois ex-ministros da Previdência (José Carlos Oliveira e Carlos Lupi) constaram em pedidos de indiciamento da CPMI; nenhum foi denunciado. A disputa partidária paralisou a CPMI: nenhum relatório foi aprovado. Há condenações cíveis isoladas (TRF-6 manteve indenização de R$ 8 mil; em Caratinga/MG uma entidade foi condenada à devolução em dobro + R$ 5 mil).",
+  "status_atual_md": "**Em out/2026 o caso está no estágio de indiciamento policial (48 pessoas; relatório da PF entregue ao STF em 10/07/2026 e encaminhado à PGR) e delações; nenhuma denúncia da PGR nem condenação criminal foi localizada**, o que é consistente com a decisão de Fachin (25/09/2026) cobrando a PGR por pedidos pendentes. O esquema atravessa dois governos: começa em 2019 (Bolsonaro) e cresce em volume em 2023–2024 (Lula). Os dois ex-ministros da Previdência (José Carlos Oliveira e Carlos Lupi) constaram em pedidos de indiciamento da CPMI; nenhum foi denunciado, e nenhum inquérito formal contra Lupi ou Wolney Queiroz foi localizado (seguem 'delatado'/'citado'). **Lulinha passou de 'não investigado' (até abr/2026) a 'investigado' em 30/07/2026** (inquérito no STF autorizado por Mendonça), sem denúncia. A disputa partidária paralisou a CPMI: nenhum relatório foi aprovado. Novas fases em mai e ago/2026; nenhuma em set–out/2026 localizada. Há condenações cíveis isoladas (TRF-6 manteve indenização de R$ 8 mil; em Caratinga/MG uma entidade foi condenada à devolução em dobro + R$ 5 mil).",
+  "checagens_externas": [
+    {
+      "veiculo": "Aos Fatos",
+      "veredito_original": "Falso",
+      "frase": "'Irmãos de Lula e de Flávio Dino investigados por fraude no INSS'",
+      "data": "2025-10-02",
+      "url": "https://www.aosfatos.org/noticias/irmaos-de-lula-e-de-flavio-dino-nao-sao-investigados-por-fraude-no-inss/",
+      "nota": "Anterior à abertura dos inquéritos contra Lulinha (30/07/2026); Frei Chico segue não investigado."
+    },
+    {
+      "veiculo": "Aos Fatos",
+      "veredito_original": "Falso",
+      "frase": "'Lula apontado como mandante do esquema do INSS'",
+      "data": "2025-11-17",
+      "url": "https://www.aosfatos.org/noticias/e-falso-que-lula-foi-apontado-como-mandante-do-esquema-de-descontos-ilegais-do-inss/"
+    },
+    {
+      "veiculo": "Aos Fatos",
+      "veredito_original": "Falso",
+      "frase": "'PF encontrou R$ 4 mi desviados do INSS em contas ligadas a Lula'",
+      "data": "2025-12-18",
+      "url": "https://www.aosfatos.org/noticias/pf-nao-encontrou-r-4-milhoes-desviados-do-inss-em-contas-ligadas-a-lula/"
+    },
+    {
+      "veiculo": "Aos Fatos",
+      "veredito_original": "Falso",
+      "frase": "'g1 associou Lulinha a Bolsonaro em post' (print forjado)",
+      "data": "2026-02-27",
+      "url": "https://www.aosfatos.org/noticias/falso-g1-associou-lulinha-a-bolsonaro-nas-redes/"
+    },
+    {
+      "veiculo": "Aos Fatos",
+      "veredito_original": "Falso",
+      "frase": "Vídeo de médico contestando negativa de benefícios do INSS",
+      "data": "2026-03-04",
+      "url": "https://www.aosfatos.org/noticias/falso-video-mostra-medico-contestando-negativa-beneficios-inss/"
+    },
+    {
+      "veiculo": "Aos Fatos",
+      "veredito_original": "Não é bem assim",
+      "frase": "'Pedido de prisão de Lulinha' (pedido antigo; não aprovado na CPMI)",
+      "data": "2026-06-24",
+      "url": "https://www.aosfatos.org/noticias/pedido-prisao-lulinha/",
+      "nota": "Anterior à abertura dos inquéritos (30/07/2026); 'Lulinha não é investigado' tornou-se falso a partir dessa data, embora 'denunciado/condenado' siga falso."
+    },
+    {
+      "veiculo": "Aos Fatos",
+      "veredito_original": "Falso",
+      "frase": "'Governo suspendeu vacina da dengue para favorecer Lulinha'",
+      "data": "2026-08-25",
+      "url": "https://www.aosfatos.org/noticias/vacina-dengue-lulinha/"
+    },
+    {
+      "veiculo": "Aos Fatos",
+      "veredito_original": "Falso",
+      "frase": "'Voto não pode ser usado como prova de vida do INSS'",
+      "data": "2026-09-20",
+      "url": "https://www.aosfatos.org/noticias/falso-voto-eleicoes-prova-vida-inss/"
+    },
+    {
+      "veiculo": "Aos Fatos",
+      "veredito_original": "Enganoso",
+      "frase": "Comparação de reajustes Bolsa Família × aposentadoria",
+      "data": "2026-09-23",
+      "url": "https://www.aosfatos.org/noticias/reajustes-bolsa-familia-aposentadoria-inss/"
+    }
+  ],
   "lacunas": [
-    "Não localizada denúncia da PGR contra o 'Careca', Stefanutto ou qualquer indiciado, nem ação penal em curso (até out/2026).",
-    "Conteúdo das delações contra Lupi não verificado em fonte primária; não verificado se há inquérito formal contra Lupi ou Wolney Queiroz no STF.",
-    "Novas fases da operação entre jul e out/2026 não cobertas pelas fontes.",
-    "Divergência nos números de ressarcimento (4,2 → 5,1 milhões; R$ 2,9 → 3,5 bi) decorre de datas distintas; não há nota oficial do INSS consolidando o total.",
-    "Partido do relator Alfredo Gaspar diverge entre fontes (União-AL segundo Agência Brasil; PL-AL segundo CNN); em ago/2026 foi anunciado vice de Flávio Bolsonaro pelo PL.",
-    "Divergência sobre a Contag: ~R$ 2 bi vs. R$ 2,9 bi (2016–2023).",
-    "Partido/filiação de Stefanutto, Virgílio Oliveira, Fidélis, Rolim, Wamburg e José Carlos Oliveira não informados nas notas."
+    "Não localizada denúncia da PGR contra o 'Careca', Stefanutto ou os 48 indiciados, nem ação penal em curso (até 21/10/2026); estado: relatório da PF com Mendonça → PGR.",
+    "Conteúdo das delações contra Lupi não verificado em fonte primária; nenhum inquérito formal contra Lupi ou Wolney Queiroz localizado (continuam 'delatado'/'citado', não 'investigado').",
+    "Fases de set–out/2026 não localizadas; relatoria do 3º inquérito de Lulinha (Mendonça × Dino) não confirmada; 2º e 3º inquéritos vêm de fontes secundárias não lidas na íntegra.",
+    "A divergência nos números de ressarcimento (4,2 → 5,1 milhões; R$ 2,9 → 3,5 bi) é cronológica; não há nota oficial única consolidando o total (páginas gov.br não legíveis pelo leitor automatizado; números via trechos indexados). Distinguir contestou (6,4 mi) × aderiu (4,4 mi em mar/2026) × recebeu.",
+    "Valor fraudado atribuível à Contag não reconciliado (R$ 2 bi / 2,9 bi / 3,4 bi); descontos de 2024: R$ 2,4 bi (Wikipédia), R$ 2,6 bi (relatório CGU) ou R$ 3,4 bi (CGU à CPMI).",
+    "Partido/filiação de Stefanutto, Virgílio Oliveira, Fidélis, Rolim, Wamburg e José Carlos Oliveira não informados nas notas.",
+    "Checagens da Lupa, Comprova e Estadão Verifica não consultadas."
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/05_escandalos_recentes_inss_master_bolsonaro.md",
   "fontes": [
@@ -873,8 +1101,38 @@
       "tier": "imprensa"
     },
     {
+      "nome": "Agência Senado, 04/09/2025: CPMI — ex-presidente do INSS não acatou recomendações da CGU",
+      "url": "https://www12.senado.leg.br/noticias/materias/2025/09/04/cpmi-ex-presidente-do-inss-nao-acatou-recomendacoes-da-cgu-diz-depoente/view",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "gov.br/INSS, 05/01/2026: governo devolveu mais de R$ 2,8 bilhões a 4 milhões de aposentados (trecho indexado)",
+      "url": "https://www.gov.br/inss/pt-br/assuntos/governo-federal-ja-devolveu-mais-de-r-2-8-bilhoes-a-quatro-milhoes-de-aposentados-e-pensionistas-vitimas-de-fraudes",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
       "nome": "Rádio Senado, 05/02/2026: presidente do INSS destaca ressarcimento de 4 milhões de aposentados",
       "url": "https://www12.senado.leg.br/radio/1/noticia/2026/02/05/presidente-do-inss-destaca-ressarcimento-de-4-milhoes-de-aposentados-por-descontos-indevidos",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "gov.br/INSS, mar/2026: prazo para contestar descontos indevidos termina em 20 de março (trecho indexado)",
+      "url": "https://www.gov.br/inss/pt-br/assuntos/prazo-para-contestar-descontos-indevidos-termina-em-20-de-marco",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Agência Brasil, 27/03/2026: vítimas de descontos indevidos do INSS têm mais 90 dias para contestar",
+      "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/vitimas-de-descontos-indevidos-do-inss-tem-mais-90-dias-para-contestar",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "gov.br/INSS, jun/2026: beneficiários podem contestar descontos até 20 de junho (trecho indexado)",
+      "url": "https://www.gov.br/inss/pt-br/assuntos/beneficiarios-podem-contestar-descontos-indevidos-ate-este-sabado-20-de-junho",
       "acesso_em": "2026-10-21",
       "tier": "oficial"
     },
@@ -915,8 +1173,26 @@
       "tier": "imprensa"
     },
     {
-      "nome": "CNN Brasil, mar/2026: relatório da CPMI do INSS pede indiciamento de Lulinha e outras 218 pessoas",
-      "url": "https://www.cnnbrasil.com.br/politica/relatorio-da-cpmi-do-inss-pede-indicamento-de-lulinha-e-outras-218-pessoas/",
+      "nome": "Poder360, 27/05/2026: PF deflagra nova fase de operação contra fraudes em aposentadorias",
+      "url": "https://www.poder360.com.br/poder-justica/pf-deflagra-nova-fase-de-operacao-contra-fraudes-em-aposentadorias/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Times Brasil, 04/08/2026: PF mira familiares de senador e advogado em nova fase da Sem Desconto",
+      "url": "https://timesbrasil.com.br/brasil/operacoes-da-pf/pf-mira-familiares-de-senador-e-advogado-em-nova-fase-da-operacao-sem-desconto-sobre-fraudes-no-inss/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Congresso em Foco, 31/07/2026: Mendonça autoriza inquérito sobre Lulinha por tráfico de influência",
+      "url": "https://www.congressoemfoco.com.br/noticia/120915/mendonca-autoriza-inquerito-sobre-lulinha-por-trafico-de-influencia",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Poder360, jul/2026: PF indicia 'Careca do INSS' e mais 47 por descontos em aposentadorias",
+      "url": "https://www.poder360.com.br/poder-justica/pf-indicia-careca-do-inss-e-mais-47-por-descontos-em-aposentadorias/",
       "acesso_em": "2026-10-21",
       "tier": "imprensa"
     },
@@ -927,8 +1203,20 @@
       "tier": "imprensa"
     },
     {
+      "nome": "CNN Brasil, mar/2026: relatório da CPMI do INSS pede indiciamento de Lulinha e outras 218 pessoas",
+      "url": "https://www.cnnbrasil.com.br/politica/relatorio-da-cpmi-do-inss-pede-indicamento-de-lulinha-e-outras-218-pessoas/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
       "nome": "Wikipédia pt, Carlos Lupi (índice)",
       "url": "https://pt.wikipedia.org/wiki/Carlos_Lupi",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Wikipédia pt, Alfredo Gaspar (político) (índice)",
+      "url": "https://pt.wikipedia.org/wiki/Alfredo_Gaspar_(pol%C3%ADtico)",
       "acesso_em": "2026-10-21",
       "tier": "imprensa"
     },
@@ -937,6 +1225,60 @@
       "url": "https://pt.wikipedia.org/wiki/Esc%C3%A2ndalo_do_Banco_Master",
       "acesso_em": "2026-10-21",
       "tier": "imprensa"
+    },
+    {
+      "nome": "Aos Fatos, 02/10/2025: irmãos de Lula e de Flávio Dino não são investigados por fraude no INSS",
+      "url": "https://www.aosfatos.org/noticias/irmaos-de-lula-e-de-flavio-dino-nao-sao-investigados-por-fraude-no-inss/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Aos Fatos, 17/11/2025: é falso que Lula foi apontado como mandante do esquema do INSS",
+      "url": "https://www.aosfatos.org/noticias/e-falso-que-lula-foi-apontado-como-mandante-do-esquema-de-descontos-ilegais-do-inss/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Aos Fatos, 18/12/2025: PF não encontrou R$ 4 milhões desviados do INSS em contas ligadas a Lula",
+      "url": "https://www.aosfatos.org/noticias/pf-nao-encontrou-r-4-milhoes-desviados-do-inss-em-contas-ligadas-a-lula/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Aos Fatos, 27/02/2026: falso que g1 associou Lulinha a Bolsonaro nas redes",
+      "url": "https://www.aosfatos.org/noticias/falso-g1-associou-lulinha-a-bolsonaro-nas-redes/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Aos Fatos, 04/03/2026: falso vídeo de médico contestando negativa de benefícios do INSS",
+      "url": "https://www.aosfatos.org/noticias/falso-video-mostra-medico-contestando-negativa-beneficios-inss/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Aos Fatos, 24/06/2026: 'pedido de prisão de Lulinha' — não é bem assim",
+      "url": "https://www.aosfatos.org/noticias/pedido-prisao-lulinha/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Aos Fatos, 25/08/2026: falso que governo suspendeu vacina da dengue para favorecer Lulinha",
+      "url": "https://www.aosfatos.org/noticias/vacina-dengue-lulinha/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Aos Fatos, 20/09/2026: falso que voto não pode ser usado como prova de vida do INSS",
+      "url": "https://www.aosfatos.org/noticias/falso-voto-eleicoes-prova-vida-inss/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Aos Fatos, 23/09/2026: comparação de reajustes Bolsa Família x aposentadoria é enganosa",
+      "url": "https://www.aosfatos.org/noticias/reajustes-bolsa-familia-aposentadoria-inss/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
     }
   ],
   "atualizado_em": "2026-10-21",

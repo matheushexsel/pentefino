@@ -1,0 +1,58 @@
+{
+  "id": "cds-brasil-5-anos",
+  "titulo": "CDS do Brasil de 5 anos (pontos selecionados)",
+  "descricao_simples": "Custo do seguro contra calote da dívida brasileira em cinco anos; quanto menor, menor o risco percebido.",
+  "unidade": "pontos-base",
+  "tipo_grafico": "linha",
+  "frequencia": "mensal",
+  "fonte": {
+    "nome": "Poder360 (fonte primária dos números não identificada no texto; tratar como secundário)",
+    "url": "https://www.poder360.com.br/poder-economia/risco-brasil-registra-116-pontos-menor-nivel-no-3o-mandato-de-lula/",
+    "acesso_em": "2026-10-21",
+    "tier": "imprensa"
+  },
+  "pontos": [
+    {
+      "periodo": "fev/2020",
+      "valor": 93,
+      "observacao": "mínimo do governo Bolsonaro"
+    },
+    {
+      "periodo": "mar/2023",
+      "valor": 280,
+      "observacao": "≈ 280 pb, pico de Lula 3 (crise do SVB)",
+      "aproximado": true
+    },
+    {
+      "periodo": "08/05/2025",
+      "valor": 178
+    },
+    {
+      "periodo": "15/05/2025",
+      "valor": 165
+    },
+    {
+      "periodo": "08/05/2026",
+      "valor": 116,
+      "observacao": "menor nível em Lula 3 e menor desde fev/2020"
+    },
+    {
+      "periodo": "15/05/2026",
+      "valor": 121
+    }
+  ],
+  "faixas_referencia": [],
+  "notas_metodologicas": [
+    "Série incompleta, com pontos citados pela imprensa; segunda URL: https://www.poder360.com.br/poder-economia/depois-de-minima-risco-brasil-volta-a-subir-sob-lula/"
+  ],
+  "lacunas": [
+    "Nenhum valor de ago–out/2026 localizado; sem fonte oficial gratuita para CDS."
+  ],
+  "ultimo_periodo": "15/05/2026",
+  "temas": [
+    "economia"
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/01_macroeconomia_por_governo.md",
+  "atualizado_em": "2026-10-21",
+  "nao_verificado": true
+}

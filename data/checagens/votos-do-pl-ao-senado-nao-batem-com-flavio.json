@@ -1,0 +1,188 @@
+{
+  "id": "chk-4007",
+  "slug": "votos-do-pl-ao-senado-nao-batem-com-flavio",
+  "frase": "Os votos do PL para o Senado não batem com os votos de Flávio Bolsonaro, o que indica fraude.",
+  "frase_normalizada": "votos do pl ao senado nao batem com votos de flavio",
+  "variantes": [
+    "O PL teve mais votos para senador do que Flávio para presidente",
+    "Como o PL fez 28 senadores e Flávio não ganhou no 1º turno?"
+  ],
+  "autor": {
+    "nome": "Publicações virais em redes sociais (autoria difusa)",
+    "partido": null,
+    "cargo": null
+  },
+  "lado": "outro",
+  "alvo": {
+    "nome": "Tribunal Superior Eleitoral",
+    "partido": null
+  },
+  "data": "2026-10-07",
+  "onde": "Redes sociais, após o 1º turno",
+  "url_declaracao": "https://gazetadoparana.com.br/publico/das-urnas-as-deepfakes-as-principais-fake-news-que-abrem-o-segundo-turno-das-eleicoes-2026",
+  "temas": [
+    "eleicao-2026"
+  ],
+  "tags": [
+    "urnas",
+    "Senado",
+    "PL",
+    "votos válidos",
+    "desinformação"
+  ],
+  "veredito": "impreciso",
+  "resumo_uma_frase": "A comparação é indevida: cada eleitor dá dois votos para senador e um para presidente, por isso os votos válidos para o Senado (207 milhões) são quase o dobro dos de presidente (119 milhões); os números do TSE são consistentes e não indicam fraude (checagem compilada: ENGANOSO).",
+  "explicacao_simples": [
+    "Em 2026 cada eleitor escolheu dois senadores e um presidente; nacionalmente houve 207.038.240 votos válidos para senador e 119.300.788 para presidente.",
+    "Em São Paulo, o PL teve 12.703.089 votos para o Senado (29,3% dos válidos) e Flávio 12.922.023 para presidente (51,93%): números diferentes porque medem coisas diferentes.",
+    "Os dados abertos do TSE permitem reproduzir todos esses totais; a checagem compilada pela Gazeta do Paraná classificou a alegação como enganosa."
+  ],
+  "explicacao_completa_md": "**Por que os números diferem:** no 1º turno de 2026, 54 vagas de senador estavam em disputa (duas por UF), e cada eleitor votou em dois nomes. Total de votos para senador: 249.536.970 (válidos 207.038.240; brancos 18.678.856; nulos 23.429.766; sub judice 364.824). Para presidente: 125.275.835 comparecimentos, 119.300.788 válidos. **Exemplos por UF (votos nominais do partido para o Senado, TSE):** SP (43.377.903 válidos) — PP 13.273.880 (30,6%), PL 12.703.089 (29,3%), PSB 8.342.968, Rede 7.862.400; Flávio em SP: 12.922.023 (51,93% dos 24.882.948 válidos para presidente). RJ (15.923.657) — PL 8.177.337 (51,4%); Flávio no RJ: 4.966.844 (53,01%). SC (8.041.100) — PL 4.736.758 (58,9%); Flávio em SC: 3.000.020 (66,65%). MS — PL 1.759.599 (67,5%); DF — PL 1.825.112 (56,6%); RO — PL 1.045.025 (59,4%). O PL elegeu 19 senadores (as duas vagas em DF, MS, RJ, RO e SC) e Flávio venceu nesses mesmos estados — os resultados são coerentes entre si. **Checagem:** 'votos do PL ao Senado não batem com votos de Flávio' — ENGANOSO (compilação Gazeta do Paraná/TSE, 07/10/2026).",
+  "o_que_e_verdade": [
+    "Os votos do PL para o Senado em vários estados superam os de Flávio para presidente.",
+    "O PL elegeu 19 senadores e terá a maior bancada (28) em 2027."
+  ],
+  "o_que_nao_se_sustenta": [
+    "Que isso indique fraude: são eleições com número de votos por eleitor diferente (2 x 1), totalizadas separadamente e reproduzíveis nos dados abertos do TSE."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Tribunal Superior Eleitoral",
+      "papel": "Totaliza separadamente cada cargo e publica os dados abertos",
+      "peso": "alto"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Votos válidos para senador (dois por eleitor)",
+      "valor": 207038240,
+      "unidade": "votos",
+      "periodo": "1º turno, 04/10/2026",
+      "fonte": {
+        "nome": "TSE, dados abertos, detalhe da votação por município e zona 2026 (gerado 21/10/2026)",
+        "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/detalhe_votacao_munzona/detalhe_votacao_munzona_2026.zip",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "Votos válidos para presidente",
+        "valor": 119300788
+      }
+    },
+    {
+      "rotulo": "PL para o Senado em SP (votos nominais)",
+      "valor": 12703089,
+      "unidade": "votos",
+      "periodo": "1º turno, 04/10/2026",
+      "fonte": {
+        "nome": "TSE, dados abertos, votação por partido 2026",
+        "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_partido_munzona/votacao_partido_munzona_2026.zip",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "Flávio para presidente em SP",
+        "valor": 12922023
+      }
+    },
+    {
+      "rotulo": "PL para o Senado em SC",
+      "valor": 4736758,
+      "unidade": "votos (58,9% dos válidos)",
+      "periodo": "1º turno, 04/10/2026",
+      "fonte": {
+        "nome": "TSE, dados abertos, votação por partido 2026",
+        "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_partido_munzona/votacao_partido_munzona_2026.zip",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "Flávio para presidente em SC",
+        "valor": 3000020
+      }
+    },
+    {
+      "rotulo": "Senadores eleitos pelo PL em 2026",
+      "valor": 19,
+      "unidade": "senadores",
+      "periodo": "04/10/2026",
+      "fonte": {
+        "nome": "TSE, dados abertos, votação por candidato 2026 (gerado 21/10/2026)",
+        "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2026.zip",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "Senadores do PL em 2027 (reconciliado)",
+        "valor": 28
+      }
+    }
+  ],
+  "series": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Gazeta do Paraná (compilação de checagens TSE/agências)",
+      "veredito_original": "Enganoso: dois votos para Senado, um para presidente",
+      "url": "https://gazetadoparana.com.br/publico/das-urnas-as-deepfakes-as-principais-fake-news-que-abrem-o-segundo-turno-das-eleicoes-2026",
+      "data": "2026-10-07"
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "TSE, dados abertos, detalhe da votação por município e zona 2026 (gerado 21/10/2026)",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/detalhe_votacao_munzona/detalhe_votacao_munzona_2026.zip",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "TSE, dados abertos, votação por partido 2026",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_partido_munzona/votacao_partido_munzona_2026.zip",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "TSE, dados abertos, votação por candidato 2026 (gerado 21/10/2026)",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2026.zip",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Gazeta do Paraná, 07/10/2026",
+      "url": "https://gazetadoparana.com.br/publico/das-urnas-as-deepfakes-as-principais-fake-news-que-abrem-o-segundo-turno-das-eleicoes-2026",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Agência Brasil, PL elege 19 senadores (05/10/2026)",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/pl-elege-19-senadores-e-soma-28-mdb-conquista-sete-vagas-e-pt-seis",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/08_eleicao_2026_cenario_checagens.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "Quantos votos cada eleitor deu em 2026?",
+      "resposta": "Um para presidente, um para governador, dois para senador, um para deputado federal e um para deputado estadual/distrital."
+    },
+    {
+      "pergunta": "Dá para conferir os números?",
+      "resposta": "Sim: os arquivos `votacao_partido_munzona_2026` e `detalhe_votacao_munzona_2026` do TSE trazem votos por partido, cargo, município e zona."
+    }
+  ],
+  "relacionadas": [
+    "urnas-eletronicas-sao-confiaveis",
+    "eleicao-2026-resultado-primeiro-turno"
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false,
+  "lacunas": [
+    "Checagem individual de agência com esse enunciado não localizada; a classificação 'enganoso' vem de compilação jornalística das checagens do TSE e das agências."
+  ]
+}

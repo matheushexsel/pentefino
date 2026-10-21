@@ -1,0 +1,151 @@
+{
+  "id": "chk-1060",
+  "slug": "bolsonaro-extinguiu-dez-ministerios",
+  "frase": "Bolsonaro desmontou dez ministérios",
+  "frase_normalizada": "O governo Bolsonaro extinguiu dez ministérios em 2019",
+  "variantes": [
+    "Bolsonaro cortou dez ministérios",
+    "Flávio promete cortar ao menos dez ministérios, como o pai"
+  ],
+  "autor": {
+    "nome": "Luiz Inácio Lula da Silva",
+    "partido": "PT",
+    "cargo": "presidente da República e candidato à reeleição"
+  },
+  "lado": "governo-lula-pt",
+  "alvo": {
+    "nome": "Jair Bolsonaro (governo 2019-2022)",
+    "partido": "PL"
+  },
+  "data": "2026-10-15",
+  "onde": "Entrevista à TV Globo (15/10/2026)",
+  "url_declaracao": "https://www.aosfatos.org/noticias/checamos-lula-globo-segundo-turno/",
+  "temas": [
+    "contas-publicas",
+    "eleicao-2026"
+  ],
+  "tags": [
+    "ministerios",
+    "tesouraco",
+    "estrutura-do-governo"
+  ],
+  "veredito": "verdadeiro",
+  "resumo_uma_frase": "O governo Bolsonaro extinguiu dez pastas em 2019 e terminou com 23 ministérios em dez/2022, segundo o Aos Fatos, que classificou a afirmação como correta; o programa de Flávio Bolsonaro para 2026 promete cortar novamente ao menos dez ministérios como parte do 'tesouraço'.",
+  "explicacao_simples": [
+    "Em 2019 o governo Bolsonaro extinguiu dez ministérios e chegou a dezembro de 2022 com 23 pastas, segundo o Aos Fatos.",
+    "A afirmação de Lula foi considerada correta.",
+    "O programa de Flávio Bolsonaro para 2026 promete repetir o corte de pelo menos dez ministérios, sem estimar a economia."
+  ],
+  "explicacao_completa_md": "## Avaliação\n\nAos Fatos (15/10/2026): 'Bolsonaro desmontou dez ministérios' = correto (10 pastas extintas em 2019; 23 ministérios em dez/2022).\n\n## Contexto\n\nO programa de Flávio Bolsonaro registrado no TSE promete 'tesouraço' com corte de ao menos 10 ministérios, cargos comissionados e despesas administrativas, sem estimativas consolidadas de economia (Forbes). As despesas discricionárias federais somam R$ 237,7 bilhões em 2026 e as obrigatórias ocupam 90,8% do limite de gastos (IFI).",
+  "o_que_e_verdade": [
+    "Dez ministérios foram extintos em 2019 e o governo Bolsonaro terminou com 23 pastas em dez/2022."
+  ],
+  "o_que_nao_se_sustenta": [
+    "A nota de pesquisa não traz estimativa oficial da economia gerada pelo corte de 2019 nem do corte prometido para 2027."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Governo Bolsonaro (reforma administrativa de 2019)",
+      "papel": "extinção de dez pastas",
+      "peso": "alto"
+    },
+    {
+      "ator": "Campanha de Flávio Bolsonaro",
+      "papel": "promessa de novo corte de ao menos dez ministérios",
+      "peso": "medio"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "Ministérios extintos em 2019 (Aos Fatos)",
+      "valor": 10,
+      "unidade": "ministérios",
+      "periodo": "2019",
+      "fonte": {
+        "nome": "Aos Fatos – Checamos a entrevista de Lula à Globo no segundo turno (15/10/2026)",
+        "url": "https://www.aosfatos.org/noticias/checamos-lula-globo-segundo-turno/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": {
+        "rotulo": "Ministérios em dez/2022",
+        "valor": 23
+      }
+    },
+    {
+      "rotulo": "Despesas discricionárias federais (IFI)",
+      "valor": 237.7,
+      "unidade": "R$ bilhões",
+      "periodo": "2026",
+      "fonte": {
+        "nome": "IFI – Relatório de Acompanhamento Fiscal nº 116 (set/2026)",
+        "url": "https://www12.senado.leg.br/ifi/pdf/raf116_set2026.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "Despesas obrigatórias como % do limite",
+        "valor": 90.8
+      }
+    }
+  ],
+  "series": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Aos Fatos",
+      "veredito_original": "Correto",
+      "url": "https://www.aosfatos.org/noticias/checamos-lula-globo-segundo-turno/",
+      "data": "2026-10-15"
+    }
+  ],
+  "fontes": [
+    {
+      "nome": "Aos Fatos – Checamos a entrevista de Lula à Globo no segundo turno (15/10/2026)",
+      "url": "https://www.aosfatos.org/noticias/checamos-lula-globo-segundo-turno/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "IFI – Relatório de Acompanhamento Fiscal nº 116 (set/2026)",
+      "url": "https://www12.senado.leg.br/ifi/pdf/raf116_set2026.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Forbes Brasil – 'Tesouraço': o plano econômico de Flávio Bolsonaro (out/2026)",
+      "url": "https://forbes.com.br/forbes-money/2026/10/tesouraco-flavio-bolsonaro-plano-economico/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/02_contas_publicas_divida.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "Quantos ministérios o governo Bolsonaro tinha?",
+      "resposta": "23 em dez/2022, após extinguir dez pastas em 2019, segundo o Aos Fatos."
+    },
+    {
+      "pergunta": "Cortar ministérios economiza quanto?",
+      "resposta": "A nota não localizou estimativa oficial; as despesas administrativas fazem parte dos R$ 237,7 bilhões de despesas discricionárias de 2026."
+    },
+    {
+      "pergunta": "Flávio promete o mesmo?",
+      "resposta": "Sim: o programa registrado no TSE prevê corte de ao menos dez ministérios no 'tesouraço', sem estimativa de economia."
+    }
+  ],
+  "relacionadas": [
+    "corte-de-200-bilhoes-em-regalias-de-brasilia",
+    "7-bilhoes-em-viagens-com-a-janja"
+  ],
+  "lacunas": [
+    "Número de ministérios em cada governo e economia do corte de 2019 não constam das notas além da checagem do Aos Fatos."
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false
+}

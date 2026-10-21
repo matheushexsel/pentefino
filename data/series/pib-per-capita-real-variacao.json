@@ -1,0 +1,194 @@
+{
+  "id": "pib-per-capita-real-variacao",
+  "titulo": "PIB per capita: variação real anual e nível em reais de 2025",
+  "descricao_simples": "Quanto a renda média por habitante cresceu ou caiu a cada ano, descontada a inflação, e o nível equivalente em reais de 2025.",
+  "unidade": "% ao ano",
+  "tipo_grafico": "barra",
+  "frequencia": "anual",
+  "fonte": {
+    "nome": "IBGE, SIDRA 6784 variável 9814 (1996–2023) e Contas Nacionais Trimestrais 4T2024/4T2025; nível em R$ de 2025 é cálculo próprio da nota",
+    "url": "https://apisidra.ibge.gov.br/values/t/6784/n1/all/v/9810,9812,9814,93/p/all?formato=json",
+    "acesso_em": "2026-10-21",
+    "tier": "oficial"
+  },
+  "pontos": [
+    {
+      "periodo": "2002",
+      "valor": 1.8,
+      "nivel_reais_2025": 42592
+    },
+    {
+      "periodo": "2003",
+      "valor": -0.1,
+      "nivel_reais_2025": 42550
+    },
+    {
+      "periodo": "2004",
+      "valor": 4.6,
+      "nivel_reais_2025": 44507
+    },
+    {
+      "periodo": "2005",
+      "valor": 2.1,
+      "nivel_reais_2025": 45441
+    },
+    {
+      "periodo": "2006",
+      "valor": 2.8,
+      "nivel_reais_2025": 46714
+    },
+    {
+      "periodo": "2007",
+      "valor": 5.0,
+      "nivel_reais_2025": 49050
+    },
+    {
+      "periodo": "2008",
+      "valor": 4.1,
+      "nivel_reais_2025": 51061
+    },
+    {
+      "periodo": "2009",
+      "valor": -1.1,
+      "nivel_reais_2025": 50499
+    },
+    {
+      "periodo": "2010",
+      "valor": 6.7,
+      "nivel_reais_2025": 53882
+    },
+    {
+      "periodo": "2011",
+      "valor": 3.2,
+      "nivel_reais_2025": 55607
+    },
+    {
+      "periodo": "2012",
+      "valor": 1.1,
+      "nivel_reais_2025": 56218
+    },
+    {
+      "periodo": "2013",
+      "valor": 2.2,
+      "nivel_reais_2025": 57455
+    },
+    {
+      "periodo": "2014",
+      "valor": -0.3,
+      "nivel_reais_2025": 57283
+    },
+    {
+      "periodo": "2015",
+      "valor": -4.3,
+      "nivel_reais_2025": 54820
+    },
+    {
+      "periodo": "2016",
+      "valor": -4.0,
+      "nivel_reais_2025": 52627
+    },
+    {
+      "periodo": "2017",
+      "valor": 0.6,
+      "nivel_reais_2025": 52942
+    },
+    {
+      "periodo": "2018",
+      "valor": 1.0,
+      "nivel_reais_2025": 53472
+    },
+    {
+      "periodo": "2019",
+      "valor": 0.6,
+      "nivel_reais_2025": 53793
+    },
+    {
+      "periodo": "2020",
+      "valor": -3.9,
+      "nivel_reais_2025": 51695
+    },
+    {
+      "periodo": "2021",
+      "valor": 4.3,
+      "nivel_reais_2025": 53918
+    },
+    {
+      "periodo": "2022",
+      "valor": 2.6,
+      "nivel_reais_2025": 55320
+    },
+    {
+      "periodo": "2023",
+      "valor": 2.8,
+      "nivel_reais_2025": 56869
+    },
+    {
+      "periodo": "2024",
+      "valor": 3.0,
+      "nivel_reais_2025": 58575
+    },
+    {
+      "periodo": "2025",
+      "valor": 1.9,
+      "nivel_reais_2025": 59687
+    }
+  ],
+  "faixas_referencia": [
+    {
+      "rotulo": "Média anual Lula 1-2 (2003–2010)",
+      "valor": 3.0
+    },
+    {
+      "rotulo": "Média anual Dilma (2011–2016)",
+      "valor": -0.35
+    },
+    {
+      "rotulo": "Média anual Temer (2017–2018)",
+      "valor": 0.8
+    },
+    {
+      "rotulo": "Média anual Bolsonaro (2019–2022)",
+      "valor": 0.9
+    },
+    {
+      "rotulo": "Média anual Lula 3 (2023–2025)",
+      "valor": 2.6
+    },
+    {
+      "rotulo": "Acumulado 2003–2010",
+      "valor": 26.5
+    },
+    {
+      "rotulo": "Acumulado 2011–2016",
+      "valor": -2.3
+    },
+    {
+      "rotulo": "Acumulado 2017–2018",
+      "valor": 1.6
+    },
+    {
+      "rotulo": "Acumulado 2019–2022",
+      "valor": 3.5
+    },
+    {
+      "rotulo": "Acumulado 2023–2025",
+      "valor": 7.9
+    },
+    {
+      "rotulo": "Acumulado 2011–2025",
+      "valor": 10.8
+    }
+  ],
+  "notas_metodologicas": [
+    "nivel_reais_2025: R$ 59.687,49 (2025) deflacionado retroativamente pelas variações em volume (cálculo próprio da nota, arredondado).",
+    "O PIB per capita real só superou o nível de 2013 (R$ 57.455) em 2024 (R$ 58.575), onze anos depois; 2022 (R$ 55.320) ficou abaixo de 2013.",
+    "Médias e acumulados por governo são cálculo próprio da nota. População residente usada pelo IBGE em 2023: 211,695 milhões."
+  ],
+  "lacunas": [],
+  "ultimo_periodo": "2025",
+  "temas": [
+    "economia"
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/01_macroeconomia_por_governo.md",
+  "atualizado_em": "2026-10-21"
+}

@@ -7,23 +7,25 @@
   "norma": {
     "nome": "Lei 15.270/2025 (origem: PL 1.087/2025)",
     "data": "2025-11-26",
-    "url": "https://www.legisweb.com.br/noticia/?id=31887",
-    "vigencia": "Desde 01/01/2026 (sanção 26/11/2025; DOU 27/11/2025). Imposto mínimo e dividendos aparecem na declaração entregue em 2027 (ano-base 2026)."
+    "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/lei/L15270.htm",
+    "vigencia": "Sanção 26/11/2025; DOU 27/11/2025; art. 8º: efeitos a partir de 01/01/2026. Redução mensal e retenção de dividendos desde jan/2026; imposto mínimo (art. 16-A da Lei 9.250/95) a partir do exercício 2027 (ano-calendário 2026)."
   },
   "status": "em-vigor",
   "o_que_faz_simples": [
     "Quem recebe até R$ 5.000 por mês de rendimento tributável deixa de pagar Imposto de Renda: a lei cria uma redução de até R$ 312,89 por mês, que zera o imposto da tabela.",
-    "Entre R$ 5.000,01 e R$ 7.350 por mês a redução diminui aos poucos (fórmula: R$ 978,62 menos 0,133145 vezes o rendimento mensal). A partir de R$ 7.350,01 não há redução.",
+    "Entre R$ 5.000,01 e R$ 7.350 por mês a redução diminui aos poucos. Texto legal (art. 3º-A da Lei 9.250/95): redução = R$ 978,62 − (0,133145 × rendimentos tributáveis); acima de R$ 7.350 os rendimentos 'não terão redução'. O PL original zerava a redução em R$ 7.000; a lei final elevou para R$ 7.350.",
     "A tabela progressiva mensal não foi alterada: isento até R$ 2.428,80; 7,5% até R$ 2.826,65; 15% até R$ 3.751,05; 22,5% até R$ 4.664,68; 27,5% acima disso.",
-    "Cria o imposto mínimo (IRPFM): quem tem renda anual acima de R$ 600 mil passa a ter alíquota efetiva mínima progressiva de até 10%; a partir de R$ 1,2 milhão por ano, mínimo de 10%. O imposto já pago é abatido.",
-    "Dividendos: retenção de 10% na fonte quando a mesma empresa paga mais de R$ 50 mil em um mês à mesma pessoa física residente, sobre o valor integral. Lucros aprovados até 31/12/2025 ficam fora da regra.",
+    "Cria o imposto mínimo (IRPFM, art. 16-A da Lei 9.250/95): quem tem soma de rendimentos anuais acima de R$ 600 mil passa a ter alíquota efetiva mínima; entre R$ 600 mil e R$ 1,2 milhão a alíquota mínima é 'Alíquota % = (REND/60.000) − 10' (sobe de 0% a 10%); a partir de R$ 1,2 milhão, 10%. Deduz-se o IRPF devido no ajuste e o retido na fonte. Vale a partir do exercício 2027 (ano-calendário 2026) — nenhum valor é recolhido em 2026.",
+    "Dividendos (art. 6º-A da Lei 9.250/95): retenção de 10% na fonte quando a mesma pessoa jurídica paga lucros ou dividendos 'a uma mesma pessoa física residente no Brasil em montante superior a R$ 50.000,00 em um mesmo mês', sobre o total pago, vedadas deduções. Lucros aprovados até 31/12/2025 ficam fora, observados os termos do ato de aprovação.",
     "Rendimentos de LCI, LCA, CRI, CRA, LIG, LCD e debêntures incentivadas ficaram fora da base do imposto mínimo.",
-    "Antecedentes no mesmo governo: em 2023 a faixa de isenção foi corrigida em 10,93% (de R$ 1.903,98 para R$ 2.112) e a MP 1.294/2025 isentou até R$ 3.036 (2 salários mínimos) a partir de maio/2025."
+    "Antecedentes no mesmo governo: em 2023 a faixa de isenção foi corrigida em 10,93% (de R$ 1.903,98 para R$ 2.112) e a MP 1.294/2025 isentou até R$ 3.036 (2 salários mínimos) a partir de maio/2025.",
+    "Exemplos oficiais da Receita (Comissão Especial da Câmara, mai/2025): motorista com R$ 3.650,66 — IR mensal de R$ 81,44 para zero (economia R$ 1.058,71/ano); professora com R$ 4.867,77 — R$ 305,40 para zero (R$ 3.970,18/ano); autônomo com R$ 5.450 — R$ 447,43 para R$ 180,56 (R$ 3.202,50/ano); enfermeira com R$ 6.260 — R$ 670,18 para R$ 530,03 (R$ 1.822,01/ano); engenheira com R$ 12 mil — tabela normal. Distribuição de dividendos declarados (2022): até R$ 600 mil — 5,4 milhões de pessoas (97,8%) com R$ 246,0 bi (48,4%); R$ 600 mil a 1,2 mi — 68,2 mil (1,2%) com R$ 55,8 bi; acima de R$ 1,2 mi — 51,7 mil (0,93%) com R$ 205,5 bi (40,5%).",
+    "Primeira arrecadação (2026): IRRF sobre dividendos = R$ 3,145 bi de janeiro a julho/2026 (R$ 2,043 bi de residentes + R$ 1,102 bi de remessas ao exterior), 18,3% da previsão revisada de R$ 17,2 bi (orçamento inicial: R$ 28 bi; revisão no Relatório Bimestral de jul/2026); Consultoria de Orçamento do Senado: R$ 2,2 bi de jan a jun. Causas apontadas: regras de transição e decisões judiciais que permitem distribuir com isenção lucros apurados até 2025, adaptação comportamental e o fato de o imposto mínimo ser apurado só no ajuste anual. IRRF-Trabalho jan-ago/2026: R$ 160.895 mi (−3,15% real), refletindo a isenção."
   ],
   "quem_ganha": {
-    "descricao": "Assalariados (CLT), servidores e aposentados/pensionistas do INSS com rendimento tributável até R$ 7.350/mês. Fazenda: ~10 milhões deixam de pagar e ~5 milhões pagam menos (≈15 milhões); estimativa do governo citada em 2026: ~16 milhões; DIEESE (NT 290, base RAIS 2024): ~15,6 milhões só no mercado formal. Quem ganha até R$ 3.036 já era isento desde maio/2025 e não ganha nada novo em 2026; abaixo de 2 salários mínimos (≈73% dos adultos, que não declaram IRPF) o efeito direto é zero. Contribuintes com mais de uma fonte podem ter imposto a pagar na declaração anual.",
+    "descricao": "Assalariados (CLT), servidores e aposentados/pensionistas do INSS com rendimento tributável até R$ 7.350/mês. Fazenda: ~10 milhões deixam de pagar e ~5 milhões pagam menos (≈15 milhões); estimativa do governo citada em 2026: ~16 milhões; DIEESE (NT 290, base RAIS 2024): ~15,6 milhões só no mercado formal. Quem ganha até R$ 3.036 já era isento desde maio/2025 e não ganha nada novo em 2026; abaixo de 2 salários mínimos (≈73% dos adultos, que não declaram IRPF) o efeito direto é zero. Contribuintes com mais de uma fonte podem ter imposto a pagar na declaração anual. DIEESE (NT 290): 15,6 milhões no mercado formal = 8,9 mi homens e 6,2 mi mulheres; 12,8 mi celetistas e 2,8 mi estatutários; entre celetistas, 32,4 mi já eram isentos até R$ 3.036 e outros 9,2 mi entre R$ 3.036 e R$ 5.000 passam a ser (41,7 mi, +29%); ganho anual de R$ 530 (salário de R$ 3.500) a R$ 4.170 (R$ 5.000), R$ 3.283 (R$ 5.500) e R$ 621 (R$ 7.000).",
     "pessoas": 16000000,
-    "faixa_renda": "Rendimento tributável individual de R$ 3.036,01 a R$ 7.350/mês — aproximadamente os 10% a 15% de maior renda do trabalho (inferência da nota a partir da PNAD 2025)",
+    "faixa_renda": "Rendimento tributável individual de R$ 3.036,01 a R$ 7.350/mês. Na renda do trabalho (PNAD 2025: P80 = R$ 4.470; P90 = R$ 6.985), a isenção plena começa em torno do percentil 82-85 dos ocupados com rendimento e o redutor termina em torno do percentil 91 (inferência da nota a partir da SIDRA 7536).",
     "fonte": {
       "nome": "Correio 24 Horas — quem realmente será beneficiado pelas novas faixas do IR",
       "url": "https://www.correio24horas.com.br/economia/voce-pode-pagar-menos-imposto-em-2026-quem-realmente-sera-beneficiado-pelas-novas-faixas-do-ir-0226",
@@ -43,15 +45,15 @@
     }
   },
   "custo_ou_arrecadacao": {
-    "valor": 25.8,
+    "valor": 25.84,
     "unidade": "R$ bilhões",
     "periodo": "2026 (renúncia estimada pela Fazenda)",
-    "descricao": "Renúncia de R$ 25,8 bi em 2026 (R$ 25,84 bi só para a nova faixa; somando ~R$ 5 bi/ano da atualização de 2025 chega-se a ≈R$ 31 bi; ANFIP: R$ 31,2 bi após alterações do relator Arthur Lira). Compensação esperada: R$ 34,1 bi da tributação da alta renda (sobra de R$ 8,3 bi, segundo a Fazenda). IFI/Senado (out/2025): substitutivo da comissão custa R$ 28,6 bi/ano e o IR mínimo arrecada R$ 24,2 bi/ano (líquido −R$ 4,3 bi); texto do plenário: −R$ 1 bi/ano; conclusão: 'tendem à neutralidade fiscal, condicionada à efetiva arrecadação das medidas compensatórias'. Conorf/Senado: perda ~R$ 4 bi/ano. CNM: perda de R$ 11,8 bi/ano para municípios (R$ 4,9 bi próprios + R$ 6,9 bi via FPM).",
+    "descricao": "Renúncia oficial de R$ 25,84 bi em 2026 (Receita, mai/2025; Consultoria do Senado: R$ 31,25 bi com o substitutivo do relator; ANFIP: R$ 31,2 bi). Compensação estimada ex ante: R$ 34,12 bi = R$ 25,22 bi do IRPFM (141,4 mil pessoas) + R$ 8,9 bi de IR de 10% sobre dividendos ao exterior; a 'sobra de R$ 8,3 bi' é estimativa ex ante. Realizado em 2026: IRRF sobre dividendos de R$ 3,145 bi em jan-jul/2026 (18,3% da previsão revisada de R$ 17,2 bi; previsão inicial R$ 28 bi); o IRPFM só é recolhido na declaração de 2027. IFI/Senado (out/2025): efeito líquido entre −R$ 1 bi e −R$ 4,3 bi/ano, 'tendem à neutralidade fiscal, condicionada à efetiva arrecadação das medidas compensatórias'. CNM: perda de R$ 11,8 bi/ano para municípios.",
     "fonte": {
-      "nome": "Clipping ANFIP 02/04/2025 (nota da Fazenda: renúncia R$ 25,8 bi x compensação R$ 34,1 bi)",
-      "url": "https://anfip.org.br/wp-content/uploads/2025/04/Clipping_ANFIP_02.04.2025.pdf",
+      "nome": "Câmara dos Deputados — apresentação da Comissão Especial PL 1.087/2025 (PDF via Poder360, mai/2025)",
+      "url": "https://static.poder360.com.br/2025/05/IRPF-5-mil-e-alta-renda-Comissao-Especial-CD.pdf",
       "acesso_em": "2026-10-21",
-      "tier": "imprensa"
+      "tier": "oficial"
     }
   },
   "regra_simulador": {
@@ -89,16 +91,17 @@
       "reducao_lei_15270": [
         {
           "renda_ate": 5000.0,
-          "reducao": "até 312,89 (o suficiente para zerar o imposto da tabela)"
+          "reducao": "até 312,89 — texto legal: 'até R$ 312,89 (de modo que o imposto devido seja zero)'"
         },
         {
           "renda_de": 5000.01,
           "renda_ate": 7350.0,
-          "reducao": "978.62 − 0.133145 × renda"
+          "reducao": "978,62 − (0,133145 × rendimentos tributáveis) — texto legal do art. 3º-A da Lei 9.250/95"
         },
         {
           "renda_de": 7350.01,
-          "reducao": 0
+          "reducao": 0,
+          "texto_legal": "'não terão redução'"
         }
       ],
       "imposto_final": "max(imposto_tabela − reducao, 0)",
@@ -131,7 +134,7 @@
         "aliquota_minima_maxima_pct": 10,
         "renda_anual_com_aliquota_minima_cheia": 1200000,
         "abate_imposto_ja_pago": true,
-        "formula_da_progressao_entre_600_mil_e_1_2_milhao": null,
+        "formula_da_progressao_entre_600_mil_e_1_2_milhao": "Alíquota % = (REND / 60.000) − 10, com REND = soma anual dos rendimentos em R$ (texto legal do art. 16-A); 10% a partir de R$ 1,2 milhão",
         "fora_da_base": [
           "LCI",
           "LCA",
@@ -140,16 +143,110 @@
           "LIG",
           "LCD",
           "debêntures incentivadas"
-        ]
+        ],
+        "vigencia": "a partir do exercício 2027 (ano-calendário 2026)",
+        "deducoes": "IRPF devido no ajuste anual e IRRF já retido"
       },
       "dividendos": {
         "retencao_pct": 10,
         "limite_mensal_mesma_empresa_mesma_pf": 50000,
         "base": "valor integral",
-        "lucros_aprovados_ate": "2025-12-31"
+        "lucros_aprovados_ate": "2025-12-31",
+        "texto_legal": "art. 6º-A da Lei 9.250/95: 'por uma mesma pessoa jurídica a uma mesma pessoa física residente no Brasil em montante superior a R$ 50.000,00 em um mesmo mês', sobre o total pago, vedadas deduções"
       },
-      "fonte_formula": "CRCSP, com base na Lei 15.270/2025",
-      "fonte_formula_url": "https://online.crcsp.org.br/portal/noticias/noticia.asp?c=10392"
+      "fonte_formula": "Lei 15.270/2025 (Planalto), arts. 3º-A, 6º-A e 16-A da Lei 9.250/95; CRCSP",
+      "fonte_formula_url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/lei/L15270.htm",
+      "exemplos_oficiais_receita_mai_2025": [
+        {
+          "perfil": "motorista",
+          "renda": 3650.66,
+          "ir_antes": 81.44,
+          "ir_depois": 0,
+          "economia_anual": 1058.71
+        },
+        {
+          "perfil": "professora",
+          "renda": 4867.77,
+          "ir_antes": 305.4,
+          "ir_depois": 0,
+          "economia_anual": 3970.18
+        },
+        {
+          "perfil": "autônomo",
+          "renda": 5450,
+          "ir_antes": 447.43,
+          "ir_depois": 180.56,
+          "economia_anual": 3202.5
+        },
+        {
+          "perfil": "enfermeira",
+          "renda": 6260,
+          "ir_antes": 670.18,
+          "ir_depois": 530.03,
+          "economia_anual": 1822.01
+        },
+        {
+          "perfil": "engenheira",
+          "renda": 12000,
+          "observacao": "tabela normal, sem ganho"
+        }
+      ],
+      "simulacao_sindifisco_jan_2026_imposto_mensal": {
+        "premissas": "sem deduções além de INSS/desconto simplificado; regra 2025 → regra Lei 15.270 (2026)",
+        "linhas": [
+          {
+            "salario": 3434,
+            "antes": 29.84,
+            "depois": 0
+          },
+          {
+            "salario": 4000,
+            "antes": 114.76,
+            "depois": 0
+          },
+          {
+            "salario": 5000,
+            "antes": 312.89,
+            "depois": 0
+          },
+          {
+            "salario": 5500,
+            "antes": 436.79,
+            "depois": 190.47
+          },
+          {
+            "salario": 6000,
+            "antes": 562.63,
+            "depois": 382.88
+          },
+          {
+            "salario": 6500,
+            "antes": 680.88,
+            "depois": 567.7
+          },
+          {
+            "salario": 7000,
+            "antes": 799.13,
+            "depois": 752.53
+          },
+          {
+            "salario": 7350,
+            "antes": 881.91,
+            "depois": 881.9
+          },
+          {
+            "salario": 8000,
+            "antes": 1035.63,
+            "depois": 1035.63
+          },
+          {
+            "salario": 10000,
+            "antes": 1506.1,
+            "depois": 1506.1
+          }
+        ],
+        "fonte_url": "https://www.sindifisconacional.org.br/wp-content/uploads/2026/08/Defasagem-IRPF-1996-a-2025-13-01-2026.pdf"
+      }
     }
   },
   "mitos": [
@@ -197,23 +294,29 @@
     },
     {
       "mito": "A isenção é toda paga pelos super-ricos e ainda sobra dinheiro para o governo.",
-      "fato": "É a projeção da Fazenda (R$ 34,1 bi de compensação contra R$ 25,8 bi de renúncia). A IFI do Senado estimou efeito líquido entre −R$ 1 bi e −R$ 4,3 bi por ano e concluiu que as medidas 'tendem à neutralidade fiscal, condicionada à efetiva arrecadação das medidas compensatórias'. A arrecadação efetiva de 2026 não estava disponível em out/2026.",
+      "fato": "É a projeção ex ante da Fazenda (R$ 34,12 bi de compensação contra R$ 25,84 bi de renúncia). A IFI do Senado estimou efeito líquido entre −R$ 1 bi e −R$ 4,3 bi por ano. O realizado de 2026 está muito abaixo: o IRRF sobre dividendos somou R$ 3,145 bi de jan a jul/2026 (18,3% da previsão revisada de R$ 17,2 bi; previsão inicial de R$ 28 bi), e o imposto mínimo só será recolhido na declaração de 2027.",
       "fontes": [
+        {
+          "nome": "Fenacon/Agência Brasil — Receita arrecada R$ 3,1 bilhões com IR sobre dividendos (27/08/2026)",
+          "url": "https://fenacon.org.br/noticias/receita-arrecada-r-31-bilhoes-com-ir-sobre-dividendos/",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "IstoÉ — tributação de dividendos: arrecadação abaixo do previsto em 2026",
+          "url": "https://istoe.com.br/tributacao-dividendos-arrecadacao-abaixo-previsto-2026",
+          "acesso_em": "2026-10-21",
+          "tier": "imprensa"
+        },
+        {
+          "nome": "Senado — Consultoria de Orçamento, NI RFB jun/2026 (IR sobre dividendos; renúncia da desoneração)",
+          "url": "https://www12.senado.leg.br/orcamento/documentos/estudos/tipos-de-estudos/notas-tecnicas-e-informativos/ni_rfb_202607.pdf",
+          "acesso_em": "2026-10-21",
+          "tier": "oficial"
+        },
         {
           "nome": "Folha PE — isenção do IR no Senado tem efeito fiscal negativo de R$ 1 bi/ano (IFI)",
           "url": "https://www.folhape.com.br/economia/isencao-do-ir-no-senado-tem-efeito-fiscal-negativo-de-r-1-bi-por-ano/445995/",
-          "acesso_em": "2026-10-21",
-          "tier": "imprensa"
-        },
-        {
-          "nome": "ISTOÉ Dinheiro — impacto fiscal da isenção do IR (IFI, 23/10/2025)",
-          "url": "https://istoedinheiro.com.br/isencao-do-ir-impacto-fiscal-senado",
-          "acesso_em": "2026-10-21",
-          "tier": "imprensa"
-        },
-        {
-          "nome": "Clipping ANFIP 02/04/2025 (nota da Fazenda: renúncia R$ 25,8 bi x compensação R$ 34,1 bi)",
-          "url": "https://anfip.org.br/wp-content/uploads/2025/04/Clipping_ANFIP_02.04.2025.pdf",
           "acesso_em": "2026-10-21",
           "tier": "imprensa"
         }
@@ -239,11 +342,17 @@
     },
     {
       "mito": "Quem ganha R$ 6 mil ou R$ 7 mil por mês ficou isento.",
-      "fato": "Entre R$ 5.000,01 e R$ 7.350 há apenas redução parcial e decrescente. Pela fórmula legal, o ganho é de cerca de R$ 179,75/mês para R$ 6 mil e R$ 46,61/mês para R$ 7 mil (cálculo da nota com a fórmula oficial); acima de R$ 7.350 não há ganho.",
+      "fato": "Entre R$ 5.000,01 e R$ 7.350 há apenas redução parcial e decrescente. Exemplos oficiais da Receita: autônomo com R$ 5.450 paga R$ 180,56 (antes R$ 447,43); enfermeira com R$ 6.260 paga R$ 530,03 (antes R$ 670,18). Pela fórmula legal, o ganho é de cerca de R$ 179,75/mês para R$ 6 mil e R$ 46,61/mês para R$ 7 mil; acima de R$ 7.350 não há ganho.",
       "fontes": [
         {
-          "nome": "CRCSP — Veja faixas e alíquotas das novas tabelas do IR 2026",
-          "url": "https://online.crcsp.org.br/portal/noticias/noticia.asp?c=10392",
+          "nome": "Câmara dos Deputados — apresentação da Comissão Especial PL 1.087/2025 (PDF via Poder360, mai/2025)",
+          "url": "https://static.poder360.com.br/2025/05/IRPF-5-mil-e-alta-renda-Comissao-Especial-CD.pdf",
+          "acesso_em": "2026-10-21",
+          "tier": "oficial"
+        },
+        {
+          "nome": "Planalto — Lei 15.270/2025 (texto integral)",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/lei/L15270.htm",
           "acesso_em": "2026-10-21",
           "tier": "oficial"
         }
@@ -388,6 +497,54 @@
       "url": "https://static.poder360.com.br/uploads/2026/08/Programa-Governo-LULA-2026.pdf",
       "acesso_em": "2026-10-21",
       "tier": "partidario"
+    },
+    {
+      "nome": "Planalto — Lei 15.270/2025 (texto integral)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/lei/L15270.htm",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Sindifisco Nacional — Defasagem IRPF 1996 a 2025 (13/01/2026, PDF)",
+      "url": "https://www.sindifisconacional.org.br/wp-content/uploads/2026/08/Defasagem-IRPF-1996-a-2025-13-01-2026.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "partidario"
+    },
+    {
+      "nome": "Fenacon/Agência Brasil — Receita arrecada R$ 3,1 bilhões com IR sobre dividendos (27/08/2026)",
+      "url": "https://fenacon.org.br/noticias/receita-arrecada-r-31-bilhoes-com-ir-sobre-dividendos/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "IstoÉ — tributação de dividendos: arrecadação abaixo do previsto em 2026",
+      "url": "https://istoe.com.br/tributacao-dividendos-arrecadacao-abaixo-previsto-2026",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Senado — Consultoria de Orçamento, NI RFB jun/2026 (IR sobre dividendos; renúncia da desoneração)",
+      "url": "https://www12.senado.leg.br/orcamento/documentos/estudos/tipos-de-estudos/notas-tecnicas-e-informativos/ni_rfb_202607.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Receita Federal — Análise da Arrecadação, ago/2026",
+      "url": "https://www.gov.br/receitafederal/pt-br/centrais-de-conteudo/publicacoes/relatorios/arrecadacao-federal/2026/analise-mensal-ago-2026.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Bora Investir/IstoÉ Dinheiro — alívio por faixa salarial (cálculo Lewandowski Libertuci, 02/02/2026)",
+      "url": "https://borainvestir.b3.com.br/noticias/imposto-de-renda/isencao-de-ir-ate-r-5-mil-vale-a-partir-deste-mes-veja-qual-sera-o-alivio-por-faixa-salarial/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "IBGE/SIDRA — tabela 7536: limites de percentil do rendimento do trabalho (PNAD Contínua anual)",
+      "url": "https://sidra.ibge.gov.br/tabela/7536",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/12_pix_fake_news_e_impostos_quem_paga.md",
@@ -395,13 +552,11 @@
     "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/13_renda_por_faixa_e_simulacoes_de_impacto.md"
   ],
   "lacunas": [
-    "URL oficial (Planalto/DOU) da Lei 15.270/2025 não consta das notas; usada fonte secundária (LegisWeb).",
     "Tabela oficial Fazenda/Receita de ganho mensal por faixa de salário (com INSS e desconto simplificado) não localizada; os exemplos vêm da fórmula legal.",
-    "Arrecadação efetiva do IRPFM e da retenção sobre dividendos em 2026 não localizada.",
-    "Fórmula legal da progressão da alíquota mínima entre R$ 600 mil e R$ 1,2 milhão não consta das notas.",
+    "Arrecadação do IRPFM inexiste em 2026 (só na declaração de 2027); dividendos realizados até jul/2026 (R$ 3,145 bi) muito abaixo da previsão.",
     "Data exata do primeiro contracheque beneficiado não confirmada (inferência: salário de janeiro/2026).",
     "Distribuição do ganho por decil da PNAD para a lei como aprovada não localizada.",
-    "Nota técnica original da Fazenda com R$ 25,8 bi/R$ 34,1 bi só foi vista via clipping (ANFIP)."
+    "Tabela oficial Fazenda/Receita de ganho mensal por faixa salarial não existe em texto acessível; há apenas exemplos oficiais (Receita, mai/2025), simulação do Sindifisco (jan/2026) e cálculo privado (Lewandowski Libertuci/IstoÉ, fev/2026, só em imagem)."
   ],
   "atualizado_em": "2026-10-21"
 }

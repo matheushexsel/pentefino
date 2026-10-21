@@ -1,0 +1,239 @@
+{
+  "id": "salario-minimo-dolar",
+  "titulo": "Salário mínimo em dólares (corrente e paridade de poder de compra)",
+  "descricao_simples": "Valor do salário mínimo convertido em dólares pelo câmbio médio do ano e em dólares de paridade de poder de compra.",
+  "unidade": "US$ correntes",
+  "tipo_grafico": "linha",
+  "frequencia": "anual",
+  "fonte": {
+    "nome": "BCB/SGS 1619 e DIEESE (SM nominal); BCB/SGS 3698 (câmbio médio); Ipeadata GAC12_SALMINDOL12 (PPC); conversão em US$ correntes é aritmética da nota",
+    "url": "http://www.ipeadata.gov.br/api/odata4/ValoresSerie(SERCODIGO='GAC12_SALMINDOL12')",
+    "acesso_em": "2026-10-21",
+    "tier": "oficial"
+  },
+  "pontos": [
+    {
+      "periodo": "2003",
+      "valor": 78,
+      "salario_minimo_dez_reais": 240,
+      "cambio_medio_ano": 3.078,
+      "sm_usd_ppc_dez": 174.8
+    },
+    {
+      "periodo": "2004",
+      "valor": 89,
+      "salario_minimo_dez_reais": 260,
+      "cambio_medio_ano": 2.926,
+      "sm_usd_ppc_dez": 184.2
+    },
+    {
+      "periodo": "2005",
+      "valor": 123,
+      "salario_minimo_dez_reais": 300,
+      "cambio_medio_ano": 2.435,
+      "sm_usd_ppc_dez": 209.3
+    },
+    {
+      "periodo": "2006",
+      "valor": 161,
+      "salario_minimo_dez_reais": 350,
+      "cambio_medio_ano": 2.176,
+      "sm_usd_ppc_dez": 243.5
+    },
+    {
+      "periodo": "2007",
+      "valor": 195,
+      "salario_minimo_dez_reais": 380,
+      "cambio_medio_ano": 1.948,
+      "sm_usd_ppc_dez": 261.7
+    },
+    {
+      "periodo": "2008",
+      "valor": 226,
+      "salario_minimo_dez_reais": 415,
+      "cambio_medio_ano": 1.835,
+      "sm_usd_ppc_dez": 268.6
+    },
+    {
+      "periodo": "2009",
+      "valor": 233,
+      "salario_minimo_dez_reais": 465,
+      "cambio_medio_ano": 1.998,
+      "sm_usd_ppc_dez": 296.9
+    },
+    {
+      "periodo": "2010",
+      "valor": 290,
+      "salario_minimo_dez_reais": 510,
+      "cambio_medio_ano": 1.76,
+      "sm_usd_ppc_dez": 310.5
+    },
+    {
+      "periodo": "2011",
+      "valor": 325,
+      "salario_minimo_dez_reais": 545,
+      "cambio_medio_ano": 1.675,
+      "sm_usd_ppc_dez": 322.0
+    },
+    {
+      "periodo": "2012",
+      "valor": 318,
+      "salario_minimo_dez_reais": 622,
+      "cambio_medio_ano": 1.955,
+      "sm_usd_ppc_dez": 352.1
+    },
+    {
+      "periodo": "2013",
+      "valor": 314,
+      "salario_minimo_dez_reais": 678,
+      "cambio_medio_ano": 2.158,
+      "sm_usd_ppc_dez": 369.1
+    },
+    {
+      "periodo": "2014",
+      "valor": 308,
+      "salario_minimo_dez_reais": 724,
+      "cambio_medio_ano": 2.354,
+      "sm_usd_ppc_dez": 373.8
+    },
+    {
+      "periodo": "2015",
+      "valor": 236,
+      "salario_minimo_dez_reais": 788,
+      "cambio_medio_ano": 3.332,
+      "sm_usd_ppc_dez": 368.3
+    },
+    {
+      "periodo": "2016",
+      "valor": 252,
+      "salario_minimo_dez_reais": 880,
+      "cambio_medio_ano": 3.49,
+      "sm_usd_ppc_dez": 393.9
+    },
+    {
+      "periodo": "2017",
+      "valor": 294,
+      "salario_minimo_dez_reais": 937,
+      "cambio_medio_ano": 3.192,
+      "sm_usd_ppc_dez": 419.6
+    },
+    {
+      "periodo": "2018",
+      "valor": 261,
+      "salario_minimo_dez_reais": 954,
+      "cambio_medio_ano": 3.654,
+      "sm_usd_ppc_dez": 420.9
+    },
+    {
+      "periodo": "2019",
+      "valor": 253,
+      "salario_minimo_dez_reais": 998,
+      "cambio_medio_ano": 3.945,
+      "sm_usd_ppc_dez": 431.0
+    },
+    {
+      "periodo": "2020",
+      "valor": 203,
+      "salario_minimo_dez_reais": 1045,
+      "cambio_medio_ano": 5.156,
+      "sm_usd_ppc_dez": 433.9
+    },
+    {
+      "periodo": "2021",
+      "valor": 204,
+      "salario_minimo_dez_reais": 1100,
+      "cambio_medio_ano": 5.395,
+      "sm_usd_ppc_dez": 443.7
+    },
+    {
+      "periodo": "2022",
+      "valor": 235,
+      "salario_minimo_dez_reais": 1212,
+      "cambio_medio_ano": 5.165,
+      "sm_usd_ppc_dez": 491.3
+    },
+    {
+      "periodo": "2023",
+      "valor": 264,
+      "salario_minimo_dez_reais": 1320,
+      "cambio_medio_ano": 4.995,
+      "sm_usd_ppc_dez": 533.3
+    },
+    {
+      "periodo": "2024",
+      "valor": 262,
+      "salario_minimo_dez_reais": 1412,
+      "cambio_medio_ano": 5.39,
+      "sm_usd_ppc_dez": 560.2
+    },
+    {
+      "periodo": "2025",
+      "valor": 272,
+      "salario_minimo_dez_reais": 1518,
+      "cambio_medio_ano": 5.588,
+      "sm_usd_ppc_dez": 595.2
+    },
+    {
+      "periodo": "2026",
+      "valor": 315,
+      "salario_minimo_dez_reais": 1621,
+      "cambio_medio_ano": 5.147,
+      "sm_usd_ppc_dez": 635.4,
+      "observacao": "câmbio médio jan–set/2026; PPC de set/2026",
+      "parcial": true
+    }
+  ],
+  "faixas_referencia": [
+    {
+      "rotulo": "SM real a preços de set/2026 (Ipeadata GAC12_SALMINRE12), dez/2003 (R$)",
+      "valor": 815
+    },
+    {
+      "rotulo": "SM real, dez/2010 (R$)",
+      "valor": 1218
+    },
+    {
+      "rotulo": "SM real, dez/2014 (R$)",
+      "valor": 1368
+    },
+    {
+      "rotulo": "SM real, dez/2016 (R$)",
+      "valor": 1402
+    },
+    {
+      "rotulo": "SM real, dez/2019 (R$)",
+      "valor": 1442
+    },
+    {
+      "rotulo": "SM real, dez/2020 (R$)",
+      "valor": 1432
+    },
+    {
+      "rotulo": "SM real, dez/2021 (R$)",
+      "valor": 1368
+    },
+    {
+      "rotulo": "SM real, dez/2022 (R$)",
+      "valor": 1423
+    },
+    {
+      "rotulo": "SM real, dez/2025 (R$)",
+      "valor": 1579
+    },
+    {
+      "rotulo": "SM real, set/2026 (R$)",
+      "valor": 1621
+    }
+  ],
+  "notas_metodologicas": [
+    "Em dólar corrente o mínimo de 2026 (US$ 315) ainda está abaixo do pico de 2011 (US$ 325); em PPC é o maior da série.",
+    "PPC: conversão pela PPC do Banco Mundial de 2011 corrigida por IPC-EUA e INPC (Ipeadata). SM nominal: https://api.bcb.gov.br/dados/serie/bcdata.sgs.1619/dados?formato=json&dataInicial=01/01/2003 ; SM real: http://www.ipeadata.gov.br/api/odata4/ValoresSerie(SERCODIGO='GAC12_SALMINRE12')"
+  ],
+  "lacunas": [],
+  "ultimo_periodo": "2026",
+  "temas": [
+    "emprego-renda"
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/03_emprego_renda_pobreza_social.md",
+  "atualizado_em": "2026-10-21"
+}

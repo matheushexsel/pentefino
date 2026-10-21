@@ -5,7 +5,7 @@
   "resposta_curta": [
     "O Banco Central liquidou o Banco Master em 18/11/2025, um dia após a prisão do controlador Daniel Vorcaro; o custo ao Fundo Garantidor de Créditos (FGC) é estimado entre R$ 41 bilhões e cerca de R$ 57 bilhões, conforme a data e o escopo (incluindo Will Bank e Banco Pleno).",
     "O caso envolve o BRB (banco do governo do DF, Ibaneis Rocha/MDB), que comprou R$ 12,2 bilhões em carteiras de crédito supostamente fictícias, e alcança políticos de vários partidos: PP (Ciro Nogueira), PT (Jaques Wagner), PL (Flávio e Eduardo Bolsonaro, pelo filme Dark Horse; Cláudio Castro), União (ACM Neto, via COAF), além de três ministros do STF questionados (Toffoli deixou a relatoria; Moraes e Mendonça sob questionamento).",
-    "Até 21/10/2026 Vorcaro segue preso, a Operação Compliance Zero teve 10 fases, mas não há denúncia da PGR localizada e a delação não foi concluída; é o caso de maior transversalidade partidária de 2026."
+    "Até 21/10/2026 Vorcaro segue preso (Papudinha), a Operação Compliance Zero teve 10 fases, a PGR rejeitou definitivamente a delação em 01/09/2026 e não há denúncia da PGR localizada; a CPI do Master não foi instalada; é o caso de maior transversalidade partidária de 2026."
   ],
   "periodo": {
     "inicio": "2017-01-01",
@@ -176,7 +176,7 @@
       "id": "2",
       "titulo": "BRB e o governo do DF (2024-2026)",
       "periodo": "2024-07 a 2026-04-16",
-      "texto_md": "Em julho de 2024 o BRB começou a comprar carteiras de crédito do Master que chegariam a R$ 12 bi (PF). O BC vetou a compra do Master pelo BRB: a Agência Pública data o veto em set/2024, mas a Wikipédia e o Diário de Pernambuco situam-no em 03/09/2025 (a maioria das fontes aponta set/2025). Em abril de 2025 Ibaneis Rocha (MDB) fez campanha pela compra; em 19/08/2025 a CLDF aprovou a compra por 14 a 7. O BRB comprou R$ 12,2 bi em créditos falsos; perda estimada entre R$ 5 bi e R$ 9 bi (outra estimativa judicial: mais de R$ 10 bi; S&P: necessidade de capital de R$ 6-8 bi). O GDF enviou PL à CLDF (20/02/2026) para vender imóveis e tomar empréstimo de até R$ 6,6 bi; capitalização de até R$ 8,8 bi aprovada em abril de 2026. Paulo Henrique Costa, presidente do BRB, foi afastado em nov/2025 e preso em 16/04/2026; Celina Leão é citada como 'alvo de interesse' da PF na colaboração de Costa. Não foi possível confirmar investigação formal contra Ibaneis ou Celina.",
+      "texto_md": "Em julho de 2024 o BRB começou a comprar carteiras de crédito do Master que chegariam a R$ 12 bi (PF). O BC vetou a compra do Master pelo BRB em **03/09/2025** (quarta-feira), conforme fato relevante do próprio BRB: o pedido fora protocolado em 28/03/2025 e previa 58% do capital do Master (49% das ON e 100% das PN); o BRB pediu acesso à íntegra da decisão e, um dia depois, desistiu de recorrer (a referência 'set/2024' da Agência Pública deve ser lida como erro ou como o início das compras de carteiras, jul/2024). Em abril de 2025 Ibaneis Rocha (MDB) fez campanha pela compra; em 19/08/2025 a CLDF aprovou a compra por 14 a 7. O BRB comprou R$ 12,2 bi em créditos falsos; perda estimada entre R$ 5 bi e R$ 9 bi (outra estimativa judicial: mais de R$ 10 bi; S&P: necessidade de capital de R$ 6-8 bi). O GDF enviou PL à CLDF (20/02/2026) para vender imóveis e tomar empréstimo de até R$ 6,6 bi; capitalização de até R$ 8,8 bi aprovada em abril de 2026. Paulo Henrique Costa, presidente do BRB, foi afastado em nov/2025 e preso em 16/04/2026; Celina Leão é citada como 'alvo de interesse' da PF na colaboração de Costa. Não foi possível confirmar investigação formal contra Ibaneis ou Celina.",
       "eventos": [
         {
           "data": "2024-07",
@@ -206,14 +206,31 @@
           "tipo": "fato"
         },
         {
-          "data": "2025-09-03",
-          "fato": "BC veta a compra do Master pelo BRB (a Agência Pública data o veto em set/2024; a maioria das fontes, em 03/09/2025).",
+          "data": "2025-03-28",
+          "fato": "BRB protocola no BC o pedido de aquisição de 58% do capital do Master (49% das ON e 100% das PN).",
           "citacao_literal": null,
           "literal": null,
           "quem_disse": null,
-          "url": "https://diariodepernambuco.com.br/politica/2026/10/11727100-vorcaro-mandou-sicario-rastrear-e-moer-diretor-do-banco-central.html",
-          "tipo": "decisao",
-          "nao_verificado": true
+          "url": "https://mercadoeconsumo.com.br/04/09/2025/economia/bc-rejeita-compra-do-master-pelo-banco-de-brasilia-brb/",
+          "tipo": "fato"
+        },
+        {
+          "data": "2025-09-03",
+          "fato": "BC indefere a compra do Master pelo BRB (fato relevante do BRB); o BRB pede acesso à íntegra da decisão e, um dia depois, desiste de recorrer.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://ri.brb.com.br/upload/files/3940_Comunicado-ao-Mercado-Esclarecimentos_noti-cia-Estadao-processo-CVM-6.pdf",
+          "tipo": "decisao"
+        },
+        {
+          "data": "2026-04-08",
+          "fato": "Ibaneis Rocha não comparece à CPI do Crime Organizado amparado por habeas corpus de André Mendonça; é citado em mensagens de Paulo Henrique Costa; Celina Leão afirma que 'cada um tem um CPF' e que as investigações cabem à Justiça (trecho indexado).",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://edicao.correiobraziliense.com.br/correiobraziliense/2026/04/08/1428f0/pdf/A02-POL-0804-DIG.pdf",
+          "tipo": "fato"
         },
         {
           "data": "2026-02-20",
@@ -288,7 +305,7 @@
       "id": "3",
       "titulo": "Liquidação (17-18/11/2025) e o custo ao FGC",
       "periodo": "2025-11-17 a 2026-02-18",
-      "texto_md": "Em 17/11/2025 a Fictor anunciou a compra do Master; às 22h do mesmo dia Vorcaro foi preso em Guarulhos; em 18/11/2025 o BC decretou a liquidação extrajudicial. Seguiram-se as liquidações da Reag (15/01/2026), Will Bank (21/01/2026) e Banco Pleno (18/02/2026). Custo ao FGC: ~R$ 41 bi (CNN, 18/11/2025); ~R$ 47 bi incluindo Will Bank (Pública); ~R$ 52 bi (CNN, 18/02/2026); R$ 56 bi após o Pleno (Pública); provisão de R$ 40,6 bi no fim de 2025 e custo total estimado em ~R$ 57,4 bi (JGB). O FGC havia dado assistência de R$ 4,3 bi meses antes. Relatório do BC ao MPF (17/11/2025) liga 4 fundos da Reag DTVM a fraude de ~R$ 11,5 bi (jul/2023-jul/2024).",
+      "texto_md": "Em 17/11/2025 a Fictor anunciou a compra do Master; às 22h do mesmo dia Vorcaro foi preso em Guarulhos; em 18/11/2025 o BC decretou a liquidação extrajudicial. Seguiram-se as liquidações da Reag (15/01/2026), Will Bank (21/01/2026) e Banco Pleno (18/02/2026). Custo ao FGC por banco (comunicados do FGC via imprensa; site do FGC inacessível): **Master R$ 40,6 bi** (garantias revisadas; credores revistos de 1,6 milhão para ~800 mil; R$ 35,1 bi, ~87%, pagos a ~612 mil credores até 02/02/2026; R$ 37,2 bi, 92%, em data posterior); **Will Bank ~R$ 6,3 bi**; **Banco Pleno R$ 4,9 bi** a ~160 mil pessoas; soma ≈ R$ 51,8 bi (cálculo próprio). Isso explica a faixa de R$ 41 bi a R$ 57 bi que circula: R$ 40,6 bi é só o Master; valores acima incluem Will/Pleno e provisões; 'R$ 57,4 bi' é estimativa de terceiros (JGB), não número do FGC. O FGC havia dado assistência de R$ 4,3 bi meses antes. Relatório do BC ao MPF (17/11/2025) liga 4 fundos da Reag DTVM a fraude de ~R$ 11,5 bi (jul/2023-jul/2024).",
       "eventos": [
         {
           "data": "2025-11-17",
@@ -327,12 +344,21 @@
           "tipo": "decisao"
         },
         {
-          "data": "2026-02-18",
-          "fato": "Liquidação do Banco Pleno; custo ao FGC estimado em ~R$ 52 bi (CNN) a R$ 56 bi (Pública).",
+          "data": "2026-02-02",
+          "fato": "FGC: garantias do Master revisadas para R$ 40,6 bi (credores de 1,6 milhão para ~800 mil); R$ 35,1 bi (~87%) pagos a ~612 mil credores.",
           "citacao_literal": null,
           "literal": null,
           "quem_disse": null,
-          "url": "https://apublica.org/2026/03/banco-master-a-reconstrucao-completa-de-como-uma-fraude-capturou-a-republica/",
+          "url": "https://www.suno.com.br/noticias/?p=640671",
+          "tipo": "fato"
+        },
+        {
+          "data": "2026-02-18",
+          "fato": "Liquidação do Banco Pleno; FGC estima R$ 4,9 bi a ~160 mil pessoas; Will Bank ~R$ 6,3 bi; total das garantias passa de R$ 41 bi (Master) para ≈ R$ 51,8 bi com Will e Pleno (cálculo próprio).",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://borainvestir.b3.com.br/noticias/total-das-garantias-do-caso-master-no-fgc-passa-de-r-41-bi-veja-valores-e-como-resgatar/",
           "tipo": "decisao"
         }
       ],
@@ -340,19 +366,57 @@
       "o_que_a_defesa_dizia": null,
       "numeros": [
         {
-          "rotulo": "Custo ao FGC (estimativa inicial, CNN)",
-          "valor": 41,
+          "rotulo": "Garantias do FGC — Master (revisado)",
+          "valor": 40.6,
           "unidade": "R$ bilhões",
-          "periodo": "2025-11-18",
+          "periodo": "2026-02",
           "fonte": {
-            "nome": "Wikipédia (pt) — fonte secundária",
-            "url": "https://pt.wikipedia.org/wiki/Esc%C3%A2ndalo_do_Banco_Master",
+            "nome": "Suno",
+            "url": "https://www.suno.com.br/noticias/?p=640671",
             "acesso_em": "2026-10-21",
             "tier": "imprensa"
           }
         },
         {
-          "rotulo": "Custo ao FGC (estimativa total, JGB)",
+          "rotulo": "Pago pelo FGC aos credores do Master até 02/02/2026",
+          "valor": 35.1,
+          "unidade": "R$ bilhões",
+          "periodo": "2026-02-02",
+          "fonte": {
+            "nome": "Suno",
+            "url": "https://www.suno.com.br/noticias/?p=640671",
+            "acesso_em": "2026-10-21",
+            "tier": "imprensa"
+          },
+          "detalhe": "~87%; ~612 mil credores; R$ 37,2 bi (92%) em data posterior"
+        },
+        {
+          "rotulo": "Garantias do FGC — Will Bank (estimativa)",
+          "valor": 6.3,
+          "unidade": "R$ bilhões",
+          "periodo": "2026-02",
+          "fonte": {
+            "nome": "B3 Bora Investir",
+            "url": "https://borainvestir.b3.com.br/noticias/total-das-garantias-do-caso-master-no-fgc-passa-de-r-41-bi-veja-valores-e-como-resgatar/",
+            "acesso_em": "2026-10-21",
+            "tier": "imprensa"
+          }
+        },
+        {
+          "rotulo": "Garantias do FGC — Banco Pleno",
+          "valor": 4.9,
+          "unidade": "R$ bilhões",
+          "periodo": "2026-02",
+          "fonte": {
+            "nome": "B3 Bora Investir",
+            "url": "https://borainvestir.b3.com.br/noticias/total-das-garantias-do-caso-master-no-fgc-passa-de-r-41-bi-veja-valores-e-como-resgatar/",
+            "acesso_em": "2026-10-21",
+            "tier": "imprensa"
+          },
+          "detalhe": "~160 mil pessoas"
+        },
+        {
+          "rotulo": "Custo ao FGC (estimativa total de terceiros, JGB)",
           "valor": 57.4,
           "unidade": "R$ bilhões",
           "periodo": "2026-07",
@@ -381,7 +445,7 @@
       "id": "4",
       "titulo": "Operação Compliance Zero: dez fases e a situação de Vorcaro",
       "periodo": "2025-11-18 a 2026-10-20",
-      "texto_md": "Fases: 1ª (18/11/2025) prisão de Vorcaro e Luiz Antonio Bull, afastamento de PH Costa; 2ª (14/01/2026) 42 mandados, bloqueio de mais de R$ 5,7 bi, prisão de Fabiano Zettel; 3ª (04/03/2026) nova prisão de Vorcaro, Zettel e Marilson Roseno, milícia privada 'A Turma' (Luiz Phillipi Mourão, 'Sicário', morreu sob custódia em 06/03); 4ª (16/04) PH Costa e advogado; 5ª (07/05) buscas contra Ciro Nogueira e prisão temporária de Felipe Cançado Vorcaro; 6ª (14/05) 7 preventivas incluindo o pai de Vorcaro e um agente da PF; 7ª (19/05) perito federal afastado; 8ª (26/05) Rioprevidência (~R$ 3,7 bi) e buscas contra o ex-governador Cláudio Castro; 9ª (18/06) senador Jaques Wagner e Augusto Lima; 10ª (09/07) publicitário Thiago Miranda, campanha contra o BC com influenciadores. Vorcaro foi solto pelo TRF-1 em 28/11/2025 com tornozeleira, preso de novo em 04/03/2026 (decretada por Mendonça sem aval da PGR), teve a preventiva mantida pela 2ª Turma (20/03/2026), assinou termo de confidencialidade com PGR/PF (19/03/2026), voltou à cela comum em 18/05/2026 sem avanço nas tratativas, foi transferido à Papudinha em junho e em 20/10/2026 seguia preso. Em 20/10/2026 mensagens obtidas pela PF mostraram que em 31/08/2025 Vorcaro pediu 'ataque de mídia' contra Renato Gomes (diretor do BC) e tentou rastrear sua localização em 03/09/2025.",
+      "texto_md": "Fases: 1ª (18/11/2025) prisão de Vorcaro e Luiz Antonio Bull, afastamento de PH Costa; 2ª (14/01/2026) 42 mandados, bloqueio de mais de R$ 5,7 bi, prisão de Fabiano Zettel; 3ª (04/03/2026) nova prisão de Vorcaro, Zettel e Marilson Roseno, milícia privada 'A Turma' (Luiz Phillipi Mourão, 'Sicário', morreu sob custódia em 06/03); 4ª (16/04) PH Costa e advogado; 5ª (07/05) buscas contra Ciro Nogueira e prisão temporária de Felipe Cançado Vorcaro; 6ª (14/05) 7 preventivas incluindo o pai de Vorcaro e um agente da PF; 7ª (19/05) perito federal afastado; 8ª (26/05) Rioprevidência (~R$ 3,7 bi) e buscas contra o ex-governador Cláudio Castro; 9ª (18/06) senador Jaques Wagner e Augusto Lima; 10ª (09/07) publicitário Thiago Miranda, campanha contra o BC com influenciadores. Vorcaro foi solto pelo TRF-1 em 28/11/2025 com tornozeleira, preso de novo em 04/03/2026 (decretada por Mendonça sem aval da PGR), teve a preventiva mantida pela 2ª Turma (20/03/2026), assinou termo de confidencialidade com PGR/PF (19/03/2026), voltou à cela comum em 18/05/2026 sem avanço nas tratativas, foi transferido à Papudinha em junho e em 20/10/2026 seguia preso. **A delação está encerrada**: a PF recusou a 1ª proposta (~20/05/2026, alegando blindagem de aliados políticos); a PGR rejeitou a 2ª em 15/06/2026; em 01/09/2026 Gonet negou 'definitivamente' a 3ª tentativa (sem admissão efetiva dos crimes, sem fatos novos, divergência sobre devolução de valores); em 02/09/2026 Gonet pediu o arquivamento de reclamação de Vorcaro sobre maus-tratos na prisão. Em 20/10/2026 mensagens obtidas pela PF mostraram que em 31/08/2025 Vorcaro pediu 'ataque de mídia' contra Renato Gomes (diretor do BC) e tentou rastrear sua localização em 03/09/2025.",
       "eventos": [
         {
           "data": "2025-11-28",
@@ -444,6 +508,33 @@
           "literal": null,
           "quem_disse": null,
           "url": "https://pt.wikipedia.org/wiki/Esc%C3%A2ndalo_do_Banco_Master",
+          "tipo": "fato"
+        },
+        {
+          "data": "2026-05-20",
+          "fato": "PF recusa a 1ª proposta de delação de Vorcaro (alega blindagem de aliados políticos).",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://mais.opovo.com.br/jornal/politica/2026/05/21/pf-rejeita-proposta-de-delacao-do-ex-banqueiro-daniel-vorcaro.html",
+          "tipo": "fato"
+        },
+        {
+          "data": "2026-06-15",
+          "fato": "PGR rejeita a 2ª proposta de delação e comunica Mendonça.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://www.correiobraziliense.com.br/politica/2026/06/7437427-pf-e-pgr-avaliam-que-nova-proposta-de-delacao-de-vorcaro-sera-negada.html",
+          "tipo": "fato"
+        },
+        {
+          "data": "2026-09-01",
+          "fato": "Gonet nega 'definitivamente' a 3ª tentativa de delação (sem admissão efetiva dos crimes, sem fatos novos, divergência sobre devolução de valores); Vorcaro segue preso na Papudinha; em 02/09 Gonet pede o arquivamento de reclamação de Vorcaro sobre maus-tratos.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://www.itatiaia.com.br/politica/pgr-nega-definitivamente-delacao-de-daniel-vorcaro",
           "tipo": "fato"
         },
         {
@@ -663,6 +754,15 @@
           "tipo": "fato"
         },
         {
+          "data": "2026-05-21",
+          "fato": "Alcolumbre nega a instalação da CPI do Master citando a proximidade das eleições; havia 8 requerimentos (6 com assinaturas suficientes) aguardando leitura; nenhuma notícia posterior de instalação até 21/10/2026.",
+          "citacao_literal": null,
+          "literal": null,
+          "quem_disse": null,
+          "url": "https://www.band.com.br/noticias/jornal-da-noite/ultimas/davi-alcolumbre-nega-criacao-de-abertura-de-cpi-sobre-banco-master-202605212339",
+          "tipo": "fato"
+        },
+        {
           "data": "2026-03-09",
           "fato": "BC encerra investigação interna sobre servidores apontados pela PF como recebedores de 'mesada' de Vorcaro.",
           "citacao_literal": null,
@@ -823,11 +923,11 @@
   "perguntas_frequentes": [
     {
       "pergunta": "Quem paga o rombo do Master?",
-      "resposta": "Em primeiro lugar o FGC, fundo privado mantido pelos bancos, que garante até R$ 250 mil por CPF; o custo estimado varia de R$ 41 bi (nov/2025) a cerca de R$ 57 bi (incluindo Will Bank e Pleno). O BRB, banco do governo do DF, perdeu entre R$ 5 bi e R$ 10 bi (estimativas) e precisou de capitalização de até R$ 8,8 bi aprovada em abril de 2026."
+      "resposta": "Em primeiro lugar o FGC, fundo privado mantido pelos bancos, que garante até R$ 250 mil por CPF: garantias de R$ 40,6 bi para o Master (R$ 35,1 bi pagos até 02/02/2026 a ~612 mil credores), ~R$ 6,3 bi para o Will Bank e R$ 4,9 bi para o Banco Pleno — cerca de R$ 51,8 bi no total; o número de R$ 57,4 bi é estimativa de terceiros. O BRB, banco do governo do DF, perdeu entre R$ 5 bi e R$ 10 bi (estimativas) e precisou de capitalização de até R$ 8,8 bi aprovada em abril de 2026."
     },
     {
       "pergunta": "Vorcaro foi condenado?",
-      "resposta": "Não. Está preso preventivamente (desde 04/03/2026; primeira prisão em 17/11/2025), mas não foi localizada denúncia da PGR até out/2026; a delação não foi concluída."
+      "resposta": "Não. Está preso preventivamente (desde 04/03/2026; primeira prisão em 17/11/2025), mas não foi localizada denúncia da PGR até out/2026. A delação foi recusada três vezes: pela PF (~20/05/2026), pela PGR (15/06/2026) e 'definitivamente' por Gonet em 01/09/2026."
     },
     {
       "pergunta": "Lula tem ligação com o Master?",
@@ -847,10 +947,8 @@
     }
   ],
   "lacunas": [
-    "Não encontrada CPI do Master instalada nem denúncia do MPF/PGR; não confirmada investigação formal contra Ibaneis Rocha ou Celina Leão.",
-    "Situação exata de Vorcaro em out/2026 quanto à delação (encerrada ou retomada) não está clara.",
-    "Valor final do custo ao FGC não verificado em fonte oficial do BC/FGC; estimativas variam de R$ 41 bi a R$ 57,4 bi.",
-    "Data do veto do BC à compra pelo BRB diverge entre fontes (set/2024 vs 03/09/2025).",
+    "CPI do Master não instalada (sem notícia após 21/05/2026); nenhuma denúncia da PGR/MPF; nenhuma investigação formal contra Ibaneis Rocha ou Celina Leão localizada.",
+    "Custo ao FGC só por comunicados via imprensa (site fgc.org.br inacessível); valores por banco: Master R$ 40,6 bi, Will ~R$ 6,3 bi, Pleno R$ 4,9 bi.",
     "Valores do Rioprevidência divergem (R$ 970 mi a R$ 2,6 bi).",
     "Boa parte da cronologia vem de fonte secundária (Wikipédia) e de reportagens; conferir em fonte primária.",
     "As frases em 'o_que_cada_lado_diz_hoje' são sínteses de narrativas, não citações literais."
@@ -871,14 +969,68 @@
       "tier": "imprensa"
     },
     {
-      "nome": "Diário de Pernambuco",
-      "url": "https://diariodepernambuco.com.br/politica/2026/10/11727100-vorcaro-mandou-sicario-rastrear-e-moer-diretor-do-banco-central.html",
+      "nome": "Mercado&Consumo",
+      "url": "https://mercadoeconsumo.com.br/04/09/2025/economia/bc-rejeita-compra-do-master-pelo-banco-de-brasilia-brb/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "BRB — Relações com Investidores",
+      "url": "https://ri.brb.com.br/upload/files/3940_Comunicado-ao-Mercado-Esclarecimentos_noti-cia-Estadao-processo-CVM-6.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Correio Braziliense (edição impressa)",
+      "url": "https://edicao.correiobraziliense.com.br/correiobraziliense/2026/04/08/1428f0/pdf/A02-POL-0804-DIG.pdf",
       "acesso_em": "2026-10-21",
       "tier": "imprensa"
     },
     {
       "nome": "Jornal Grande Bahia",
       "url": "https://jornalgrandebahia.com.br/2026/07/daniel-vorcaro-e-o-caso-banco-master-suspeita-de-fraude-bilionaria-perdas-no-brb-impacto-no-fgc-e-dez-fases-da-compliance-zero/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Suno",
+      "url": "https://www.suno.com.br/noticias/?p=640671",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "B3 Bora Investir",
+      "url": "https://borainvestir.b3.com.br/noticias/total-das-garantias-do-caso-master-no-fgc-passa-de-r-41-bi-veja-valores-e-como-resgatar/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "O Povo+",
+      "url": "https://mais.opovo.com.br/jornal/politica/2026/05/21/pf-rejeita-proposta-de-delacao-do-ex-banqueiro-daniel-vorcaro.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Correio Braziliense",
+      "url": "https://www.correiobraziliense.com.br/politica/2026/06/7437427-pf-e-pgr-avaliam-que-nova-proposta-de-delacao-de-vorcaro-sera-negada.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Itatiaia",
+      "url": "https://www.itatiaia.com.br/politica/pgr-nega-definitivamente-delacao-de-daniel-vorcaro",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Diário de Pernambuco",
+      "url": "https://diariodepernambuco.com.br/politica/2026/10/11727100-vorcaro-mandou-sicario-rastrear-e-moer-diretor-do-banco-central.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Band",
+      "url": "https://www.band.com.br/noticias/jornal-da-noite/ultimas/davi-alcolumbre-nega-criacao-de-abertura-de-cpi-sobre-banco-master-202605212339",
       "acesso_em": "2026-10-21",
       "tier": "imprensa"
     },

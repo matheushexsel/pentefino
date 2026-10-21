@@ -30,7 +30,7 @@
     "A fiscalização de portos envolve Receita Federal, PF e autoridades estaduais e portuárias.",
     "O Ranking dos Políticos classificou a frase como imprecisa."
   ],
-  "explicacao_completa_md": "Ranking dos Políticos: IMPRECISO (o relatório do UNODC é de 2022). A Operação Carbono Oculto (2025-2026) mostra a escala da economia do PCC (rede de combustíveis e fintechs com R$ 46 a 52 bilhões movimentados), com conexões ao Banco Master e à Reag; a Lei Antifacção foi sancionada em 2026.",
+  "explicacao_completa_md": "Ranking dos Políticos: IMPRECISO (o relatório do UNODC é de 2022). A Operação Carbono Oculto (2025-2026) mostra a escala da economia do PCC (rede de combustíveis e fintechs com R$ 46 a 52 bilhões movimentados), com conexões ao Banco Master e à Reag; a Lei Antifacção foi sancionada em 2026.\n\n**Atualização (enriquecimento, 21/10/2026):** situação da PEC 18/2025 (PEC da Segurança) pelos dados abertos do Senado: 'pronto para deliberação do Plenário' desde 15/10/2026, mas na sessão daquele dia 'a matéria foi retirada de pauta' após novas emendas (87, de Camilo Santana, PT-CE, e outros; 88, de Eduardo Gomes, PL-TO, Sergio Moro, Hamilton Mourão e outros) e requerimentos de destaque do PL e do PP; em 19/10/2026 o informe legislativo registrava 'Aguardando inclusão em Ordem do Dia. Discussão, em primeiro turno'. Não há votação nominal da PEC no Senado até 21/10/2026.",
   "o_que_e_verdade": [
     "Santos aparece em relatório do UNODC (2022) entre os portos com mais apreensões/exportação de cocaína."
   ],
@@ -98,6 +98,18 @@
       "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Carbono_Oculto",
       "acesso_em": "2026-10-21",
       "tier": "imprensa"
+    },
+    {
+      "nome": "Senado, dados abertos — processo 9006525 (PEC 18/2025)",
+      "url": "https://legis.senado.leg.br/dadosabertos/processo/9006525",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Senado, dados abertos — movimentações da matéria 172997",
+      "url": "https://legis.senado.leg.br/dadosabertos/materia/movimentacoes/172997",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/09_acusacoes_e_falas_flavio_x_lula.md",
@@ -112,7 +124,7 @@
     },
     {
       "pergunta": "O que o governo fez contra o crime organizado nos últimos anos?",
-      "resposta": "Operação Carbono Oculto (Receita/MPSP/PF, 2025-2026), Lei Antifacção (2026) e PEC da Segurança (aprovada na Câmara em 2026, pendente no Senado)."
+      "resposta": "Operação Carbono Oculto (Receita/MPSP/PF, 2025-2026), Lei Antifacção (2026) e PEC da Segurança (PEC 18/2025, aprovada na Câmara; no Senado foi retirada de pauta em 15/10/2026 e, em 19/10/2026, aguardava inclusão em Ordem do Dia, sem votação)."
     }
   ],
   "relacionadas": [
@@ -124,6 +136,10 @@
     {
       "data": "2026-10-21",
       "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "enriquecimento rodada 2 (21/10/2026): status da PEC 18/2025 em 19/10/2026 (retirada de pauta em 15/10; aguardando Ordem do Dia)"
     }
   ],
   "exemplo": false

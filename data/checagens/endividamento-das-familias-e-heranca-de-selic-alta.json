@@ -39,7 +39,7 @@
   ],
   "explicacao_completa_md": "## A herança\n\nSelic de 13,75% (ago/2022 a ago/2023); Peic de 78% de famílias endividadas e 30% inadimplentes em dez/2022; Serasa com 69,43 milhões de negativados; endividamento de 49,14% da renda (BCB).\n\n## O que aconteceu no mandato\n\n- Selic: cortes até 10,50% (mai/2024); altas até 15,00% (jun/2025); 13,75% em set/2026.\n- Inadimplência PF (BCB): 3,07% (dez/2022) → 3,29% (dez/2023) → 3,08% (dez/2024) → 4,20% (dez/2025) → 5,04% (ago/2026). O salto coincide com a alta da Selic de 10,5% para 15%.\n- Negativados (Serasa): 71,1 mi (2023) → 73,5 mi (2024) → 81,2 mi (2025) → 83,9 mi (ago/2026).\n- Endividamento (BCB): 49,90% da renda em fev/2026, acima do pico anterior de 49,88% (jul/2022).\n- Rotativo do cartão: 428% a 440% ao ano; o teto de 100% do rotativo (Lei 14.690/2023) não tem efeito medido nas fontes.\n\n## Quem decide\n\nA Selic é do Copom (BC autônomo); Galípolo, indicado por Lula, preside o BC desde jan/2025. A ata de set/2026 cita inflação acima da meta, incerteza externa e a política fiscal como fatores. A alta de 2024 teve como gatilho o câmbio recorde (R$ 6,19) após a reação ao pacote fiscal de nov/2024 — responsabilidade compartilhada entre Executivo, Congresso e choques externos.",
   "o_que_e_verdade": [
-    "A Selic herdada era de 13,75% e o endividamento das famílias já estava em recorde em 2022 (78% na Peic; 49,14% da renda no BCB).",
+    "A Selic herdada era de 13,75% e o endividamento das famílias já estava em recorde: saltou de 41,46% (dez/2019) para 49,48% da renda (dez/2021) e 78% das famílias tinham dívidas na Peic de dez/2022.",
     "Juros do rotativo acima de 400% ao ano e spread bancário de 34,6 pontos são fatores estruturais do endividamento."
   ],
   "o_que_nao_se_sustenta": [
@@ -194,6 +194,54 @@
         "rotulo": "Máximo citado",
         "valor": 440.5
       }
+    },
+    {
+      "rotulo": "Endividamento das famílias (BCB)",
+      "valor": 49.48,
+      "unidade": "% da renda",
+      "periodo": "dez/2021",
+      "fonte": {
+        "nome": "Banco Central do Brasil – SGS 29037 (endividamento das famílias, % renda)",
+        "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.29037/dados?formato=json&dataInicial=01/01/2022",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "dez/2019",
+        "valor": 41.46
+      }
+    },
+    {
+      "rotulo": "Comprometimento de renda com o serviço da dívida (BCB)",
+      "valor": 28.72,
+      "unidade": "% da renda",
+      "periodo": "jul/2026 (máximo da série)",
+      "fonte": {
+        "nome": "Banco Central do Brasil – SGS 29034 (comprometimento de renda das famílias com o serviço da dívida)",
+        "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.29034/dados?formato=json&dataInicial=01/01/2022",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "dez/2022",
+        "valor": 27.57
+      }
+    },
+    {
+      "rotulo": "Pessoas negativadas (Serasa, via Lupa)",
+      "valor": 70.09,
+      "unidade": "milhões",
+      "periodo": "jan/2023",
+      "fonte": {
+        "nome": "Lupa – Após confirmação do 2º turno, Lula erra sobre superávit e Flávio sobre reeleição e endividamento (04/10/2026)",
+        "url": "https://www.agencialupa.org/checagem/2026/10/04/apos-confirmacao-do-2o-turno-lula-erra-sobre-superavit-e-flavio-sobre-reeleicao-e-endividamento/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": {
+        "rotulo": "abr/2020",
+        "valor": 65.9
+      }
     }
   ],
   "series": [
@@ -209,6 +257,12 @@
       "veredito_original": "FALTA CONTEXTO para '78% da população endividada' (Lula)",
       "url": "https://www.agencialupa.org/checagem/2026/10/15/ao-vivo-checagem-da-entrevista-de-lula-na-tv-globo/",
       "data": "2026-10-15"
+    },
+    {
+      "veiculo": "Lupa",
+      "veredito_original": "FALTA CONTEXTO para 'recorde de brasileiros endividados' (Flávio): série da Serasa sobe desde 2020",
+      "url": "https://www.agencialupa.org/checagem/2026/10/04/apos-confirmacao-do-2o-turno-lula-erra-sobre-superavit-e-flavio-sobre-reeleicao-e-endividamento/",
+      "data": "2026-10-04"
     }
   ],
   "fontes": [
@@ -265,6 +319,24 @@
       "url": "https://jornalgrandebahia.com.br/2026/03/inadimplencia-no-brasil-atinge-817-milhoes-e-cresce-38-em-uma-decada-aponta-serasa/",
       "acesso_em": "2026-10-21",
       "tier": "imprensa"
+    },
+    {
+      "nome": "Banco Central do Brasil – SGS 29037 (endividamento das famílias, % renda)",
+      "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.29037/dados?formato=json&dataInicial=01/01/2022",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Banco Central do Brasil – SGS 29034 (comprometimento de renda das famílias com o serviço da dívida)",
+      "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.29034/dados?formato=json&dataInicial=01/01/2022",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Lupa – Após confirmação do 2º turno, Lula erra sobre superávit e Flávio sobre reeleição e endividamento (04/10/2026)",
+      "url": "https://www.agencialupa.org/checagem/2026/10/04/apos-confirmacao-do-2o-turno-lula-erra-sobre-superavit-e-flavio-sobre-reeleicao-e-endividamento/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/13_renda_por_faixa_e_simulacoes_de_impacto.md",
@@ -286,13 +358,18 @@
     "78-por-cento-da-populacao-endividada",
     "juros-mais-altos-do-mundo",
     "juros-7-pontos-acima-do-previsto",
-    "esta-todo-mundo-quebrando"
+    "esta-todo-mundo-quebrando",
+    "recorde-de-brasileiros-endividados"
   ],
   "atualizado_em": "2026-10-21",
   "changelog": [
     {
       "data": "2026-10-21",
       "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "enriquecimento rodada 2: endividamento 2019-2021 (herança confirmada), comprometimento recorde jul/2026, Serasa via Lupa"
     }
   ],
   "exemplo": false

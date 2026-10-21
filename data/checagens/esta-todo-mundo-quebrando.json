@@ -188,6 +188,67 @@
         "tier": "oficial"
       },
       "comparacao": null
+    },
+    {
+      "rotulo": "Comprometimento de renda das famílias com o serviço da dívida (BCB)",
+      "valor": 28.72,
+      "unidade": "% da renda",
+      "periodo": "jul/2026 (máximo da série)",
+      "fonte": {
+        "nome": "Banco Central do Brasil – SGS 29034 (comprometimento de renda das famílias com o serviço da dívida)",
+        "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.29034/dados?formato=json&dataInicial=01/01/2022",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "dez/2022",
+        "valor": 27.57
+      }
+    },
+    {
+      "rotulo": "Pessoas negativadas (Serasa, via Lupa)",
+      "valor": 70.09,
+      "unidade": "milhões",
+      "periodo": "jan/2023",
+      "fonte": {
+        "nome": "Lupa – Após confirmação do 2º turno, Lula erra sobre superávit e Flávio sobre reeleição e endividamento (04/10/2026)",
+        "url": "https://www.agencialupa.org/checagem/2026/10/04/apos-confirmacao-do-2o-turno-lula-erra-sobre-superavit-e-flavio-sobre-reeleicao-e-endividamento/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": {
+        "rotulo": "ago/2026 (51,06% dos adultos)",
+        "valor": 83.9
+      }
+    },
+    {
+      "rotulo": "CNPJs inadimplentes (Serasa)",
+      "valor": 9.1,
+      "unidade": "milhões",
+      "periodo": "jun/2026 (recorde)",
+      "fonte": {
+        "nome": "Aos Fatos – É falso que 8.000 empresas faliram no Brasil em junho (24/08/2026)",
+        "url": "https://www.aosfatos.org/noticias/8000-empresas-faliram-brasil-junho/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": null
+    },
+    {
+      "rotulo": "Falências decretadas (Serasa)",
+      "valor": 734,
+      "unidade": "falências",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Aos Fatos – Checamos a entrevista de Flávio Bolsonaro à Globo no segundo turno (16/10/2026)",
+        "url": "https://www.aosfatos.org/noticias/checamos-flavio-bolsonaro-globo-segundo-turno/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": {
+        "rotulo": "2015 (recorde)",
+        "valor": 1828
+      }
     }
   ],
   "series": [
@@ -209,6 +270,12 @@
       "veredito_original": "FALSO para 'recorde de empresas fechadas' (Flávio Bolsonaro)",
       "url": "https://www.aosfatos.org/noticias/flavio-bolsonaro-mente-recorde-falencias-empresas/",
       "data": "2026-10-20"
+    },
+    {
+      "veiculo": "Lupa",
+      "veredito_original": "FALTA CONTEXTO para 'recorde de brasileiros endividados' (Flávio): a alta vem desde o governo Bolsonaro (65,9 mi em abr/2020; 69,4 mi em dez/2022; 70,09 mi em jan/2023; 83,9 mi em ago/2026)",
+      "url": "https://www.agencialupa.org/checagem/2026/10/04/apos-confirmacao-do-2o-turno-lula-erra-sobre-superavit-e-flavio-sobre-reeleicao-e-endividamento/",
+      "data": "2026-10-04"
     }
   ],
   "fontes": [
@@ -265,6 +332,30 @@
       "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/cnc-endividamento-das-familias-atinge-novo-recorde-e-chega-a-80-4/",
       "acesso_em": "2026-10-21",
       "tier": "imprensa"
+    },
+    {
+      "nome": "Banco Central do Brasil – SGS 29034 (comprometimento de renda das famílias com o serviço da dívida)",
+      "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.29034/dados?formato=json&dataInicial=01/01/2022",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Lupa – Após confirmação do 2º turno, Lula erra sobre superávit e Flávio sobre reeleição e endividamento (04/10/2026)",
+      "url": "https://www.agencialupa.org/checagem/2026/10/04/apos-confirmacao-do-2o-turno-lula-erra-sobre-superavit-e-flavio-sobre-reeleicao-e-endividamento/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Aos Fatos – É falso que 8.000 empresas faliram no Brasil em junho (24/08/2026)",
+      "url": "https://www.aosfatos.org/noticias/8000-empresas-faliram-brasil-junho/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Aos Fatos – Checamos a entrevista de Flávio Bolsonaro à Globo no segundo turno (16/10/2026)",
+      "url": "https://www.aosfatos.org/noticias/checamos-flavio-bolsonaro-globo-segundo-turno/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/01_macroeconomia_por_governo.md",
@@ -286,7 +377,9 @@
     "recorde-de-falencias",
     "lula-quebrou-o-brasil",
     "endividamento-das-familias-e-heranca-de-selic-alta",
-    "78-por-cento-da-populacao-endividada"
+    "78-por-cento-da-populacao-endividada",
+    "recorde-de-brasileiros-endividados",
+    "8-mil-empresas-faliram-em-junho"
   ],
   "lacunas": [
     "Partido de Renan Santos não consta das notas (campo deixado nulo)."
@@ -296,6 +389,10 @@
     {
       "data": "2026-10-21",
       "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "enriquecimento rodada 2: comprometimento de renda recorde (jul/2026), série Serasa via Lupa, falências 2015 x 2025, CNPJs inadimplentes"
     }
   ],
   "exemplo": false

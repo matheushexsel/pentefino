@@ -6,126 +6,107 @@
   "tipo_grafico": "barra",
   "frequencia": "anual",
   "fonte": {
-    "nome": "Banco Central do Brasil, SGS 5760 (juros nominais; 2003–2013 derivados por diferença entre SGS 5727 e 5793)",
-    "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.5760/dados?formato=json&dataInicial=01/12/2014",
+    "nome": "Banco Central do Brasil, SGS 5760 (juros nominais do setor público, 12 meses, % PIB)",
+    "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.5760/dados?formato=json&dataInicial=01/12/2002",
     "acesso_em": "2026-10-21",
     "tier": "oficial"
   },
   "pontos": [
     {
+      "periodo": "2002",
+      "valor": 7.61
+    },
+    {
       "periodo": "2003",
-      "valor": 8.42,
-      "derivado": true
+      "valor": 8.42
     },
     {
       "periodo": "2004",
-      "valor": 6.57,
-      "derivado": true
+      "valor": 6.56
     },
     {
       "periodo": "2005",
-      "valor": 7.28,
-      "derivado": true
+      "valor": 7.28
     },
     {
       "periodo": "2006",
-      "valor": 6.72,
-      "derivado": true
+      "valor": 6.72
     },
     {
       "periodo": "2007",
-      "valor": 5.98,
-      "derivado": true
+      "valor": 5.98
     },
     {
       "periodo": "2008",
-      "valor": 5.32,
-      "derivado": true
+      "valor": 5.32
     },
     {
       "periodo": "2009",
-      "valor": 5.13,
-      "derivado": true
+      "valor": 5.13
     },
     {
       "periodo": "2010",
-      "valor": 5.03,
-      "derivado": true
+      "valor": 5.03
     },
     {
       "periodo": "2011",
-      "valor": 5.41,
-      "derivado": true
+      "valor": 5.41
     },
     {
       "periodo": "2012",
-      "valor": 4.44,
-      "derivado": true
+      "valor": 4.44
     },
     {
       "periodo": "2013",
-      "valor": 4.67,
-      "derivado": true
+      "valor": 4.67
     },
     {
       "periodo": "2014",
-      "valor": 5.39,
-      "derivado": true
+      "valor": 5.39
     },
     {
       "periodo": "2015",
-      "valor": 8.36,
-      "derivado": false
+      "valor": 8.37
     },
     {
       "periodo": "2016",
-      "valor": 6.5,
-      "derivado": false
+      "valor": 6.49
     },
     {
       "periodo": "2017",
-      "valor": 6.09,
-      "derivado": false
+      "valor": 6.09
     },
     {
       "periodo": "2018",
-      "valor": 5.41,
-      "derivado": false
+      "valor": 5.41
     },
     {
       "periodo": "2019",
-      "valor": 4.97,
-      "derivado": false
+      "valor": 4.97
     },
     {
       "periodo": "2020",
-      "valor": 4.1,
-      "derivado": false
+      "valor": 4.11
     },
     {
       "periodo": "2021",
-      "valor": 4.98,
-      "derivado": false
+      "valor": 4.98
     },
     {
       "periodo": "2022",
-      "valor": 5.82,
-      "derivado": false
+      "valor": 5.82
     },
     {
       "periodo": "2023",
-      "valor": 6.56,
-      "derivado": false
+      "valor": 6.56
     },
     {
       "periodo": "2024",
-      "valor": 8.07,
-      "derivado": false
+      "valor": 8.07
     },
     {
       "periodo": "2025",
-      "valor": 7.91,
-      "derivado": false
+      "valor": 7.91
     },
     {
       "periodo": "12 meses até ago/2026",
@@ -144,14 +125,12 @@
     }
   ],
   "notas_metodologicas": [
-    "Valores de dez/2015 (8,37), 2020 (4,11), 2023 (6,56) e 2025 (7,91) confirmados diretamente na série 5760; os demais foram derivados na nota (nominal − primário) e podem divergir em centésimos (ex.: 2015 derivado 8,36 x direto 8,37).",
-    "Em reais: R$ 501,8 bi (2015), R$ 718,3 bi (2023), R$ 950,4 bi (2024), R$ 1 trilhão (2025, recorde), R$ 1.182,2 bi em 12 meses até ago/2026.",
+    "Rodada 2 (21/10/2026): série 5760 lida diretamente para todos os anos; substitui os valores derivados (nominal − primário) da rodada 1, que divergiam em centésimos em 2004 (6,56, não 6,57), 2015 (8,37, não 8,36), 2016 (6,49, não 6,50) e 2020 (4,11, não 4,10); 2002 acrescentado.",
+    "Em reais: R$ 501,8 bi (2015), R$ 718,3 bi (2023), R$ 950,4 bi (2024), R$ 1.007,6 bi (2025, recorde; 7,91% do PIB), R$ 1.182,2 bi em 12 meses até ago/2026. Ver juros-nominais-reais.",
     "Swaps cambiais: ganho de R$ 105,9 bi em 2025 e perda de R$ 115,9 bi em 2024.",
     "Picos de juros coincidem com Selic alta: 2003 (26,5%), 2015–2016 (14,25%) e 2024–2026 (15%)."
   ],
-  "lacunas": [
-    "Série 5760 não baixada antes de dez/2014."
-  ],
+  "lacunas": [],
   "ultimo_periodo": "12 meses até ago/2026",
   "temas": [
     "contas-publicas"

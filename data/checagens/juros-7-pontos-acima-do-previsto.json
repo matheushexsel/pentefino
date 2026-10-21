@@ -35,7 +35,7 @@
     "Falta dizer que a Selic entregue por Bolsonaro já era de 13,75%, que ela caiu a 10,5% em 2024 e voltou a subir para 15% em 2025 com inflação acima da meta e risco fiscal.",
     "A Selic é decidida pelo Banco Central autônomo, presidido por indicado de Bolsonaro até 2024 e por indicado de Lula desde 2025."
   ],
-  "explicacao_completa_md": "## Os números\n\n- Focus de out/2022: Selic de 7,5% projetada para 2025 (Lupa).\n- Selic em out/2022: 13,75% (desde ago/2022), mantida até 02/08/2023.\n- Cortes até 10,50% (09/05/2024); altas de set/2024 a 15,00% (jun/2025); cortes em 2026 até 13,75% (set/2026); 14,00% em ago/2026, data citada pela Lupa.\n\n## O que falta\n\nA projeção de 2022 era uma expectativa de mercado, não um compromisso; a Selic subiu em 2024-2025 porque o IPCA estourou o teto em 2024 (4,83%) e a meta contínua foi descumprida em 2025, com câmbio recorde (R$ 6,19 em dez/2024) após a reação negativa ao pacote fiscal de nov/2024. O Copom cita o risco fiscal — responsabilidade do Executivo e do Congresso — e choques externos. A Lupa classificou como FALTA CONTEXTO.",
+  "explicacao_completa_md": "## Os números\n\n- Focus de out/2022: Selic de 7,5% projetada para 2025 (Lupa).\n- Selic em out/2022: 13,75% (desde ago/2022), mantida até 02/08/2023.\n- Cortes até 10,50% (09/05/2024); altas de set/2024 a 15,00% (20/06/2025); cortes em 2026 até 13,75% (set/2026); 14,00% em ago/2026, data citada pela Lupa.\n\n## O que falta\n\nA projeção de 2022 era uma expectativa de mercado, não um compromisso; a Selic subiu em 2024-2025 porque o IPCA estourou o teto em 2024 (4,83%) e a meta contínua foi descumprida em 2025, com câmbio recorde (R$ 6,19 em dez/2024) após a reação negativa ao pacote fiscal de nov/2024. O Copom cita o risco fiscal — responsabilidade do Executivo e do Congresso — e choques externos. A Lupa classificou como FALTA CONTEXTO.",
   "o_que_e_verdade": [
     "O Focus de out/2022 projetava Selic de 7,5% para 2025; em ago/2026 a taxa era de 14%, e o pico foi 15% em 2025.",
     "A alta de 2024-2025 coincidiu com inflação acima do teto, câmbio recorde e deterioração fiscal (déficits e dívida em alta)."
@@ -139,6 +139,38 @@
         "rotulo": "set/2026",
         "valor": 5.1803
       }
+    },
+    {
+      "rotulo": "Selic em 31/12/2024",
+      "valor": 12.25,
+      "unidade": "% ao ano",
+      "periodo": "31/12/2024",
+      "fonte": {
+        "nome": "Banco Central do Brasil – SGS 432 (meta Selic, 2023-2026)",
+        "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.432/dados?formato=json&dataInicial=01/01/2023&dataFinal=21/10/2026",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "31/12/2023",
+        "valor": 11.75
+      }
+    },
+    {
+      "rotulo": "Juro real ex-ante em dezembro (cálculo da nota)",
+      "valor": 9.3,
+      "unidade": "% ao ano",
+      "periodo": "dez/2024 (maior desde 2005)",
+      "fonte": {
+        "nome": "BCB – Focus, expectativas de mercado anuais (Selic 2026), 16/10/2026",
+        "url": "https://olinda.bcb.gov.br/olinda/servico/Expectativas/versao/v1/odata/ExpectativasMercadoAnuais?%24filter=Indicador%20eq%20'Selic'%20and%20DataReferencia%20eq%20'2026'&%24orderby=Data%20desc&%24top=2&%24format=json",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "dez/2022",
+        "valor": 6.6
+      }
     }
   ],
   "series": [
@@ -184,6 +216,18 @@
       "url": "https://www.bcb.gov.br/publicacoes/atascopom/16092026",
       "acesso_em": "2026-10-21",
       "tier": "oficial"
+    },
+    {
+      "nome": "Banco Central do Brasil – SGS 432 (meta Selic, 2023-2026)",
+      "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.432/dados?formato=json&dataInicial=01/01/2023&dataFinal=21/10/2026",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "BCB – Focus, expectativas de mercado anuais (Selic 2026), 16/10/2026",
+      "url": "https://olinda.bcb.gov.br/olinda/servico/Expectativas/versao/v1/odata/ExpectativasMercadoAnuais?%24filter=Indicador%20eq%20'Selic'%20and%20DataReferencia%20eq%20'2026'&%24orderby=Data%20desc&%24top=2&%24format=json",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/03_emprego_renda_pobreza_social.md",
@@ -211,6 +255,10 @@
     {
       "data": "2026-10-21",
       "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "enriquecimento rodada 2: Selic de fim de ano 2023-2024, juro real ex-ante dez/2024, data dos 15%"
     }
   ],
   "exemplo": false

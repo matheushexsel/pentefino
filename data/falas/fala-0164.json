@@ -5,8 +5,10 @@
   "candidato": "lula",
   "lado": "governo-lula-pt",
   "minuto": null,
+  "url_trecho": null,
   "frase_literal": "Eu peguei um déficit de 2,8%.",
   "literal": true,
+  "variantes_literais": [],
   "tema": "contas-publicas",
   "veredito": "falso",
   "resumo_uma_frase": "Como herança de 2022 a frase é falsa: houve superávit de 0,5% do PIB; o déficit de 2023 (2,1%–2,4%) já é do atual governo.",
@@ -32,6 +34,13 @@
         "url": "https://www.agencialupa.org/checagem/2026/10/15/ao-vivo-checagem-da-entrevista-de-lula-na-tv-globo/",
         "acesso_em": "2026-10-21",
         "tier": "checagem"
+      },
+      "fonte_primaria": {
+        "nome": "Tesouro Nacional — Resultado do Tesouro Nacional (RTN)",
+        "url": "https://www.gov.br/tesouronacional/pt-br/estatisticas-fiscais-e-planejamento/resultado-do-tesouro-nacional-rtn",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial",
+        "acessada_na_rodada_2": true
       }
     },
     {
@@ -44,7 +53,30 @@
         "url": "https://www.aosfatos.org/noticias/checamos-lula-globo-segundo-turno/",
         "acesso_em": "2026-10-21",
         "tier": "checagem"
+      },
+      "fonte_primaria": {
+        "nome": "Tesouro Nacional — Resultado do Tesouro Nacional (RTN)",
+        "url": "https://www.gov.br/tesouronacional/pt-br/estatisticas-fiscais-e-planejamento/resultado-do-tesouro-nacional-rtn",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial",
+        "acessada_na_rodada_2": true
       }
+    }
+  ],
+  "fontes_primarias": [
+    {
+      "nome": "Tesouro Nacional — Resultado do Tesouro Nacional (RTN)",
+      "url": "https://www.gov.br/tesouronacional/pt-br/estatisticas-fiscais-e-planejamento/resultado-do-tesouro-nacional-rtn",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial",
+      "acessada_na_rodada_2": true
+    },
+    {
+      "nome": "BCB — SGS 5793 (resultado primário do setor público, 12 meses, % PIB; dez/2022 = −1,25 = superávit)",
+      "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.5793/dados?formato=json&dataInicial=01/12/2022&dataFinal=31/12/2022",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial",
+      "acessada_na_rodada_2": true
     }
   ],
   "base_legal": [],
@@ -94,5 +126,11 @@
   "atualizado_em": "2026-10-21",
   "lacunas": [
     "Veredito depende da leitura: falso como herança de 2022; verdadeiro-mas se lido como resultado de 2023."
+  ],
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
   ]
 }

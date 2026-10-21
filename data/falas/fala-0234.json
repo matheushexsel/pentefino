@@ -4,14 +4,18 @@
   "evento_id": "debate-band-2turno-2026-10-18",
   "candidato": "flavio-bolsonaro",
   "lado": "oposicao-flavio-pl",
-  "minuto": "~21h39 (2º bloco)",
-  "frase_literal": "Você pode explicar por que 73% dos presidiários votaram em você? / Você recebeu o voto de 73% dos presidiários desse país. / Você foi eleito por aclamação nos presídios, você representa eles. / Você teve voto de estuprador, de assaltante. / Você que está em casa, você quer votar igual àquelas pessoas que estão nos presídios?",
+  "minuto": "≈35 min após a abertura; stream 04:49:46 (≈20h50)",
+  "url_trecho": "https://www.youtube.com/watch?v=Gqc1rQtzWUk&t=17386s",
+  "frase_literal": "Você pode explicar por que 73% dos presidiários votaram em você? / Você recebeu o voto de 73% dos presidiários desse país. / Você foi eleito por aclamação nos presídios, você representa eles. / Você teve voto de estuprador, de assaltante. / Você que está em casa, você quer votar igual àquelas pessoas que estão nos presídios? / Quando você foi declarado presidente em 22, os presídios ficaram em festa. / Em que que você acha que o ladrão do seu celular vai votar? […] Você vai votar igual ao ladrão do seu celular?",
   "literal": true,
+  "variantes_literais": [
+    "Legenda automática (04:49:46 e 04:51:15 — a frase dos 73% é dita duas vezes): 'você pode explicar por que que 73% dos presidiários votaram em você?' / 'você teve voto de estuprador, de assaltante. Você teve voto lá de gente da pior espécie que tem dentro dos presídios, Lula. Você foi eleito por aclamação nos presídios. Você representa eles' / 'você recebeu o voto de 73% dos presidiários desse país. […] Quando você foi declarado presidente em 22, os presídios ficaram em festa. […] Em que que você acha que o ladrão do seu celular vai votar?'"
+  ],
   "tema": "seguranca",
   "veredito": "falta-contexto",
   "resumo_uma_frase": "Lula teve 72,55% dos 11.190 votos válidos nas 243 seções em presídios, mas só presos provisórios (sem condenação definitiva), adolescentes internados e servidores votam ali: cerca de 1% da população prisional.",
   "explicacao_simples": [
-    "Flávio Bolsonaro, no debate da Band (18/10/2026), disse: “Você pode explicar por que 73% dos presidiários votaram em você? / Você recebeu o voto de 73% dos presidiários desse país. / Você foi eleito por aclamação nos presídios, você representa eles. / Você teve voto de estuprador, de assaltante. / Você que está em casa, você quer votar igual àquelas pessoas que estão nos presídios?”.",
+    "Flávio Bolsonaro, no debate da Band (18/10/2026), disse: “Você pode explicar por que 73% dos presidiários votaram em você? / Você recebeu o voto de 73% dos presidiários desse país. / Você foi eleito por aclamação nos presídios, você representa eles. / Você teve voto de estuprador, de assaltante. / Você que está em casa, você quer votar igual àquelas pessoas que estão nos presídios? / Quando você foi declarado presidente em 22, os presídios ficaram em festa. / Em que que você acha que o ladrão do seu celular vai votar? […] Você vai votar igual ao ladrão do seu celular?”.",
     "TSE (via Poder360): 11.190 votos válidos em 243 seções penais; Lula 8.118 (72,55%), Flávio 2.605 (23,28%). Condenados com trânsito em julgado não votam (CF, art. 15, III); os 12.814 presos provisórios habilitados são ~5–6% dos provisórios e os 11.190 votos ~1,2% dos 964.668 presos. A Lei 15.358/2026 tentou barrar o voto dos provisórios, mas o TSE (PA 0600587-56) decidiu que só vale a partir de 2027.",
     "A frase omite informações que mudam a leitura do dado; por isso é classificada como 'falta contexto'."
   ],
@@ -34,6 +38,13 @@
         "url": "https://www.poder360.com.br/poder-eleicoes-2026/lula-teve-726-e-flavio-233-em-presidios-no-1o-turno/",
         "acesso_em": "2026-10-21",
         "tier": "imprensa"
+      },
+      "fonte_primaria": {
+        "nome": "TSE — Dados abertos: Resultados 2026 – Boletim de urna",
+        "url": "https://dadosabertos.tse.jus.br/dataset/resultados-2026-boletim-de-urna",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial",
+        "acessada_na_rodada_2": true
       }
     },
     {
@@ -50,6 +61,13 @@
       "comparacao": {
         "rotulo": "Flávio",
         "valor": 23.28
+      },
+      "fonte_primaria": {
+        "nome": "TSE — Dados abertos: Resultados 2026 – Boletim de urna",
+        "url": "https://dadosabertos.tse.jus.br/dataset/resultados-2026-boletim-de-urna",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial",
+        "acessada_na_rodada_2": true
       }
     },
     {
@@ -62,6 +80,13 @@
         "url": "https://www.opovo.com.br/noticias/politica/eleicoes/2026/10/19/voto-de-presos-no-brasil-em-2026-quem-pode-votar-e-como-funciona.html",
         "acesso_em": "2026-10-21",
         "tier": "imprensa"
+      },
+      "fonte_primaria": {
+        "nome": "TSE — Dados abertos: Resultados 2026 – Boletim de urna",
+        "url": "https://dadosabertos.tse.jus.br/dataset/resultados-2026-boletim-de-urna",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial",
+        "acessada_na_rodada_2": true
       }
     },
     {
@@ -78,7 +103,102 @@
       "comparacao": {
         "rotulo": "Presos provisórios, 2024",
         "valor": 218225
+      },
+      "fonte_primaria": {
+        "nome": "TSE — Dados abertos: Resultados 2026 – Boletim de urna",
+        "url": "https://dadosabertos.tse.jus.br/dataset/resultados-2026-boletim-de-urna",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial",
+        "acessada_na_rodada_2": true
       }
+    },
+    {
+      "rotulo": "Votos de Lula em seções penais no 1º turno de 2022 (recorte por nome de seção, Gazeta do Povo/TSE)",
+      "valor": 79.8,
+      "unidade": "% (4.899 votos)",
+      "periodo": "1º turno 2022",
+      "fonte": {
+        "nome": "Gazeta do Povo",
+        "url": "https://www.gazetadopovo.com.br/ideias/se-apenas-os-presos-votassem-o-pt-seria-imbativel-veja-os-numeros/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "Bolsonaro (867 votos)",
+        "valor": 14.1
+      },
+      "fonte_primaria": {
+        "nome": "TSE — Dados abertos: Resultados 2026 – Boletim de urna",
+        "url": "https://dadosabertos.tse.jus.br/dataset/resultados-2026-boletim-de-urna",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial",
+        "acessada_na_rodada_2": true
+      }
+    },
+    {
+      "rotulo": "Votos de Lula em seções penais no 2º turno de 2022",
+      "valor": 80.4,
+      "unidade": "% (4.460 votos)",
+      "periodo": "2º turno 2022",
+      "fonte": {
+        "nome": "Gazeta do Povo",
+        "url": "https://www.gazetadopovo.com.br/ideias/se-apenas-os-presos-votassem-o-pt-seria-imbativel-veja-os-numeros/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "Bolsonaro (893 votos)",
+        "valor": 16.1
+      },
+      "fonte_primaria": {
+        "nome": "TSE — Dados abertos: Resultados 2026 – Boletim de urna",
+        "url": "https://dadosabertos.tse.jus.br/dataset/resultados-2026-boletim-de-urna",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial",
+        "acessada_na_rodada_2": true
+      }
+    },
+    {
+      "rotulo": "Presos provisórios regularizados que puderam votar em 2022 (DPU via Aos Fatos)",
+      "valor": 12903,
+      "unidade": "eleitores (~3% dos ~400 mil provisórios)",
+      "periodo": "2022",
+      "fonte": {
+        "nome": "Aos Fatos (explicador: voto de presos)",
+        "url": "https://www.aosfatos.org/noticias/tse-preso-eleicoes-2026/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "fonte_primaria": {
+        "nome": "TSE — Dados abertos: Resultados 2026 – Boletim de urna",
+        "url": "https://dadosabertos.tse.jus.br/dataset/resultados-2026-boletim-de-urna",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial",
+        "acessada_na_rodada_2": true
+      }
+    }
+  ],
+  "fontes_primarias": [
+    {
+      "nome": "TSE — Dados abertos: Resultados 2026 – Boletim de urna",
+      "url": "https://dadosabertos.tse.jus.br/dataset/resultados-2026-boletim-de-urna",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial",
+      "acessada_na_rodada_2": true
+    },
+    {
+      "nome": "TSE — Dados abertos: Eleitorado 2026 (eleitorado_local_votacao_2026.zip; transf_temporaria_secao_2026.zip)",
+      "url": "https://dadosabertos.tse.jus.br/dataset/eleitorado-2026",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial",
+      "acessada_na_rodada_2": true
+    },
+    {
+      "nome": "TSE — Dados abertos: Resultados 2022 – Boletim de urna",
+      "url": "https://dadosabertos.tse.jus.br/dataset/resultados-2022-boletim-de-urna",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial",
+      "acessada_na_rodada_2": true
     }
   ],
   "base_legal": [
@@ -217,6 +337,30 @@
       "tier": "academico"
     },
     {
+      "nome": "Gazeta do Povo",
+      "url": "https://www.gazetadopovo.com.br/ideias/se-apenas-os-presos-votassem-o-pt-seria-imbativel-veja-os-numeros/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Aos Fatos (explicador: voto de presos)",
+      "url": "https://www.aosfatos.org/noticias/tse-preso-eleicoes-2026/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Brasil Paralelo",
+      "url": "https://www.brasilparalelo.com.br/noticias/lula-vence-com-vantagem-em-diversos-presidios-de-sao-paulo",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Band Jornalismo (YouTube) — live integral do debate, legendas automáticas",
+      "url": "https://www.youtube.com/watch?v=Gqc1rQtzWUk",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
       "nome": "Fórum Brasileiro de Segurança Pública / Anuário 2026 (via ConJur e Correio Braziliense)",
       "url": "https://www.correiobraziliense.com.br/direito-e-justica/2026/07/7453089-prisao-preventivaquando-a-excecao-vira-regra.html",
       "acesso_em": "2026-10-21",
@@ -226,8 +370,20 @@
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
   "atualizado_em": "2026-10-21",
   "lacunas": [
-    "Resposta de Lula (literal): 'Eu quero que votem 100%. Até teu pai' / 'Teu pai pode votar em mim. Ele te conhece, ele sabe que eu sou melhor do que você'.",
-    "O Ranking cita 79,8% para Lula em 2022 e '~4,9 mil votos' sem fonte; não verificado.",
-    "Dados abertos do TSE e painel SISDEPEN 2025/2 não acessados diretamente."
+    "Resposta de Lula (literal): 'Eu quero que votem 100%. Até teu pai' / 'Teu pai pode votar em mim. Ele te conhece, ele sabe que eu sou melhor do que você' (legenda: 'Eu quero que vote os 100% até teu pai').",
+    "Correção da rodada 2: o horário '~21h39' registrado antes era a hora de publicação do Poder360; a fala está em 04:49:46 do stream (≈20h50; a CNN publicou às 21h07).",
+    "Os '79,8%' e '~4,9 mil votos' citados pelo Ranking são do 1º turno de 2022, compilação da Gazeta do Povo (11/4/2026) com dados do TSE filtrados pelo nome da seção (4.899 votos; 2º turno: 4.460, 80,4%); recorte e ano diferentes dos 11.190 votos de 2026 (Poder360, flag 'preso provisório') — os números não se contradizem. Verificado contra a fonte secundária; recomputação com boletins de urna do TSE não feita.",
+    "Aos Fatos (26/8) registra que o TSE adiou a restrição da Lei 15.358/2026 para 2028 (próxima eleição); a nota diz 'a partir de 2027' — divergência de redação.",
+    "Painel SISDEPEN 2025/2 e número de adolescentes internados aptos em 2026 não acessados."
+  ],
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "rodada 2: minutagem, link com timestamp e/ou literal conferido na legenda automática da live da Band"
+    }
   ]
 }

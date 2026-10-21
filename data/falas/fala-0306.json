@@ -4,15 +4,19 @@
   "evento_id": "debate-band-2turno-2026-10-18",
   "candidato": "lula",
   "lado": "governo-lula-pt",
-  "minuto": null,
-  "frase_literal": "O governo já arrecadou R$ 100 bilhões da quadrilha do INSS.",
-  "literal": false,
+  "minuto": "≈20 min após a abertura; stream 04:35:2x (≈20h35)",
+  "url_trecho": "https://www.youtube.com/watch?v=Gqc1rQtzWUk&t=16525s",
+  "frase_literal": "[A quadrilha do INSS] que foi montada no seu governo, no governo do seu pai. E que nós conseguimos debelar com dois anos de trabalho […] e já arrecadamos 100 bilhões da quadrilha e já pagamos 3 bilhões e meio aos aposentados.",
+  "literal": true,
+  "variantes_literais": [
+    "Paráfrase anterior (Ranking): 'O governo já arrecadou R$ 100 bilhões da quadrilha do INSS'."
+  ],
   "tema": "corrupcao",
   "veredito": "falso",
   "resumo_uma_frase": "Os bloqueios judiciais somam mais de R$ 6 bilhões, não R$ 100 bilhões.",
   "explicacao_simples": [
-    "Lula, no debate da Band (18/10/2026), afirmou (em paráfrase registrada por Ranking dos Políticos) que o governo já arrecadou R$ 100 bilhões da quadrilha do INSS.",
-    "Ranking: falso (bloqueios >R$ 6 bilhões); UOL Confere: a única 'falsa' de Lula (inferência).",
+    "Lula, no debate da Band (18/10/2026), disse: “[A quadrilha do INSS] que foi montada no seu governo, no governo do seu pai. E que nós conseguimos debelar com dois anos de trabalho […] e já arrecadamos 100 bilhões da quadrilha e já pagamos 3 bilhões e meio aos aposentados”.",
+    "Ranking: falso (bloqueios >R$ 6 bilhões); UOL Confere: a única 'falsa' de Lula (inferência). Literal pela legenda automática (04:35:2x ≈20h36). O Aos Fatos leu o trecho como 'PF e CGU desarticularam esquema; recuperação depende de processos' (correto com ressalva) — divergência de recorte, não de fato.",
     "O dado central não corresponde aos registros disponíveis; por isso a frase é classificada como falsa."
   ],
   "o_que_e_verdade": [],
@@ -30,7 +34,30 @@
         "url": "https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026",
         "acesso_em": "2026-10-21",
         "tier": "checagem"
+      },
+      "fonte_primaria": {
+        "nome": "INSS/MPS — balanço do acordo de ressarcimento",
+        "url": "https://www.gov.br/inss/pt-br",
+        "acesso_em": null,
+        "tier": "oficial",
+        "acessada_na_rodada_2": false
       }
+    }
+  ],
+  "fontes_primarias": [
+    {
+      "nome": "INSS/MPS — balanço do acordo de ressarcimento",
+      "url": "https://www.gov.br/inss/pt-br",
+      "acesso_em": null,
+      "tier": "oficial",
+      "acessada_na_rodada_2": false
+    },
+    {
+      "nome": "CGU — relatório da Operação Sem Desconto",
+      "url": "https://www.gov.br/cgu/pt-br",
+      "acesso_em": null,
+      "tier": "oficial",
+      "acessada_na_rodada_2": false
     }
   ],
   "base_legal": [],
@@ -46,6 +73,12 @@
       "veredito_original": "FALSA (inferência pela contagem)",
       "url": "https://iclnoticias.com.br/flavio-lidera-mentiras-debate-checagem/",
       "data": "2026-10-19"
+    },
+    {
+      "veiculo": "Aos Fatos",
+      "veredito_original": "correto com ressalva (recorte 'desarticularam esquema; recuperação depende de processos')",
+      "url": "https://www.aosfatos.org/noticias/checamos-lula-flavio-bolsonaro-debate-band/",
+      "data": "2026-10-18"
     }
   ],
   "checagem_slug": null,
@@ -62,8 +95,24 @@
       "url": "https://iclnoticias.com.br/flavio-lidera-mentiras-debate-checagem/",
       "acesso_em": "2026-10-21",
       "tier": "checagem"
+    },
+    {
+      "nome": "Aos Fatos",
+      "url": "https://www.aosfatos.org/noticias/checamos-lula-flavio-bolsonaro-debate-band/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
-  "atualizado_em": "2026-10-21"
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "rodada 2: minutagem, link com timestamp e/ou literal conferido na legenda automática da live da Band"
+    }
+  ]
 }

@@ -5,8 +5,10 @@
   "candidato": "lula",
   "lado": "governo-lula-pt",
   "minuto": null,
+  "url_trecho": null,
   "frase_literal": "Eu já acabei com a fome duas vezes.",
   "literal": true,
+  "variantes_literais": [],
   "tema": "pobreza-programas-sociais",
   "veredito": "exagerado",
   "resumo_uma_frase": "O Brasil saiu do Mapa da Fome em 2014 (governo Dilma) e em 2025, mas sair do mapa não significa acabar com a fome: 1,2 milhão seguem em insegurança grave e 6,48 milhões passavam fome em 2024.",
@@ -37,6 +39,13 @@
       "comparacao": {
         "rotulo": "Em 2023",
         "valor": 8.47
+      },
+      "fonte_primaria": {
+        "nome": "FAO — SOFI 2025",
+        "url": "https://www.fao.org/publications/home/fao-flagship-publications/the-state-of-food-security-and-nutrition-in-the-world/en",
+        "acesso_em": "2026-10-21",
+        "tier": "multilateral",
+        "acessada_na_rodada_2": true
       }
     },
     {
@@ -49,7 +58,30 @@
         "url": "https://www.agencialupa.org/checagem/2026/08/27/ao-vivo-checagem-da-entrevista-de-lula-ao-jornal-nacional/",
         "acesso_em": "2026-10-21",
         "tier": "checagem"
+      },
+      "fonte_primaria": {
+        "nome": "FAO — SOFI 2025",
+        "url": "https://www.fao.org/publications/home/fao-flagship-publications/the-state-of-food-security-and-nutrition-in-the-world/en",
+        "acesso_em": "2026-10-21",
+        "tier": "multilateral",
+        "acessada_na_rodada_2": true
       }
+    }
+  ],
+  "fontes_primarias": [
+    {
+      "nome": "FAO — SOFI 2025",
+      "url": "https://www.fao.org/publications/home/fao-flagship-publications/the-state-of-food-security-and-nutrition-in-the-world/en",
+      "acesso_em": "2026-10-21",
+      "tier": "multilateral",
+      "acessada_na_rodada_2": true
+    },
+    {
+      "nome": "IBGE — PNAD Contínua, Segurança Alimentar 2023/2024",
+      "url": "https://www.ibge.gov.br/estatisticas/sociais/trabalho/9171-pesquisa-nacional-por-amostra-de-domicilios-continua-mensal.html",
+      "acesso_em": null,
+      "tier": "oficial",
+      "acessada_na_rodada_2": false
     }
   ],
   "base_legal": [],
@@ -108,5 +140,11 @@
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
-  "atualizado_em": "2026-10-21"
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ]
 }

@@ -13,7 +13,7 @@
   "resumo_simples": [
     "A PF indiciou Juscelino Filho (União Brasil-MA), então ministro das Comunicações do governo Lula 3, em 11/06/2024 por corrupção passiva, fraude a licitação e organização criminosa, por desvio de emendas destinadas, quando deputado, a Vitorino Freire (MA), cidade governada por sua irmã.",
     "A PGR o denunciou ao STF em 04–08/04/2025 — primeira denúncia contra ministro do governo Lula 3 (relator Flávio Dino, sob sigilo). Ele pediu demissão em 08/04/2025 (exoneração publicada em 09/04/2025) e reafirma inocência; o União Brasil declarou apoio.",
-    "Não foi confirmado se o STF recebeu a denúncia (se é réu). Em 2026 aparece filiado ao PSDB, segundo a Wikipédia."
+    "A previsão de que o STF julgaria o recebimento da denúncia 'até junho' de 2025 não se confirmou nas fontes, e nenhuma notícia de recebimento foi localizada até out/2026: ele é denunciado, não réu. Em 2026 aparece filiado ao PSDB, segundo a Wikipédia."
   ],
   "valores": [],
   "partidos": [
@@ -45,10 +45,9 @@
       "tribunal": "STF (relator Flávio Dino; sigilo)",
       "data_condenacao": null,
       "pena": null,
-      "status_atual": "Indiciado pela PF em 11/06/2024; denunciado pela PGR em 04–08/04/2025; pediu demissão em 08/04/2025, exoneração publicada em 09/04/2025. Reafirma inocência. Recebimento da denúncia (condição de réu) não confirmado nas notas.",
+      "status_atual": "Indiciado pela PF em 11/06/2024; denunciado pela PGR em 04–08/04/2025 (corrupção passiva, lavagem, organização criminosa, peculato e fraude a licitação; relator Flávio Dino); pediu demissão em 08/04/2025, exoneração publicada em 09/04/2025. Reafirma inocência. A previsão de julgamento do recebimento da denúncia 'até junho' (2025) não se confirmou; nenhuma notícia de recebimento localizada até out/2026, por isso não é réu.",
       "status_categoria": "denunciado",
-      "url": "https://pt.wikipedia.org/wiki/Juscelino_Filho",
-      "nao_verificado": true
+      "url": "https://jornalopcao.com.br/ultimas-noticias/pgr-denuncia-juscelino-filho-ao-stf-por-suposta-corrupcao-com-emendas-parlamentares-696168/"
     }
   ],
   "linha_do_tempo": [
@@ -59,17 +58,22 @@
     },
     {
       "data": "2025-04-08",
-      "evento": "PGR denuncia ao STF (04–08/04); Juscelino pede demissão do ministério; exoneração publicada em 09/04/2025; União Brasil declara apoio.",
+      "evento": "PGR denuncia ao STF (04–08/04) por corrupção passiva, lavagem, organização criminosa, peculato e fraude a licitação; Juscelino pede demissão do ministério; exoneração publicada em 09/04/2025; União Brasil declara apoio.",
       "url": "https://convergenciadigital.com.br/governo/pgr-denuncia-juscelino-filho-ao-stf-por-suspeita-de-desvio-de-emendas-ministro-reafirma-inocencia"
+    },
+    {
+      "data": "2025",
+      "evento": "Previsão de que o STF julgaria o recebimento da denúncia 'até junho'; nenhuma notícia de recebimento localizada até out/2026.",
+      "url": "https://jurinews.com.br/brasil/stf-deve-julgar-ate-junho-denuncia-da-pgr-contra-juscelino-filho/"
     }
   ],
   "o_que_dizem_os_dois_lados": {
     "acusacao": "PF e PGR sustentam que, como deputado, Juscelino direcionou emendas a Vitorino Freire (MA), governada pela irmã, com fraude a licitação e organização criminosa — primeira denúncia contra um ministro do governo Lula 3.",
     "defesa": "Juscelino reafirma inocência e deixou o ministério no dia da denúncia; o União Brasil declarou apoio; não há recebimento de denúncia nem condenação confirmados."
   },
-  "status_atual_md": "**Denunciado** pela PGR (abr/2025); recebimento da denúncia pelo STF não confirmado nas notas. Padrão do governo Lula 3: saída rápida do ministro após a denúncia; nenhuma condenação até out/2026.",
+  "status_atual_md": "**Denunciado** pela PGR (abr/2025), **não réu**: nenhuma notícia de recebimento da denúncia pelo STF foi localizada até out/2026 (a previsão de julgamento 'até junho' de 2025 não se confirmou). Padrão do governo Lula 3: saída rápida do ministro após a denúncia; nenhuma condenação até out/2026.",
   "lacunas": [
-    "Não confirmado se o STF recebeu a denúncia (se é réu).",
+    "Recebimento da denúncia não localizado; 'não réu' baseia-se na ausência de notícia, não em certidão do STF.",
     "Período dos fatos e valores das emendas não constam nas notas.",
     "Filiação em 2026 (PSDB) vem apenas de infobox da Wikipédia."
   ],
@@ -82,8 +86,20 @@
       "tier": "imprensa"
     },
     {
+      "nome": "Jornal Opção, abr/2025: PGR denuncia Juscelino Filho ao STF por suposta corrupção com emendas",
+      "url": "https://jornalopcao.com.br/ultimas-noticias/pgr-denuncia-juscelino-filho-ao-stf-por-suposta-corrupcao-com-emendas-parlamentares-696168/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
       "nome": "Convergência Digital: PGR denuncia Juscelino Filho ao STF por suspeita de desvio de emendas",
       "url": "https://convergenciadigital.com.br/governo/pgr-denuncia-juscelino-filho-ao-stf-por-suspeita-de-desvio-de-emendas-ministro-reafirma-inocencia",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Jurinews, 2025: STF deve julgar até junho denúncia da PGR contra Juscelino Filho",
+      "url": "https://jurinews.com.br/brasil/stf-deve-julgar-ate-junho-denuncia-da-pgr-contra-juscelino-filho/",
       "acesso_em": "2026-10-21",
       "tier": "imprensa"
     }

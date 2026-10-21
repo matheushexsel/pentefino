@@ -3,7 +3,9 @@
   "slug": "governo-criou-22-mil-cargos-comissionados",
   "frase": "O atual governo já criou mais 22 mil cargos comissionados.",
   "frase_normalizada": "o atual governo ja criou mais 22 mil cargos comissionados",
-  "variantes": [],
+  "variantes": [
+    "Bolsonaro extinguiu 21 mil cargos em comissão em 2019"
+  ],
   "autor": {
     "nome": "Flávio Bolsonaro",
     "partido": "PL",
@@ -32,7 +34,7 @@
     "Isso é um aumento de cerca de 5,7 mil, não 22 mil.",
     "A Lupa classificou a frase como exagerada."
   ],
-  "explicacao_completa_md": "Lupa (JN, 28/08/2026): EXAGERADO (46.989 para 52.780 em jun/2026, +5,7 mil). O programa de Flávio promete reforma administrativa, corte de ao menos 10 ministérios e 'revogaço' de mais de mil normas (Daniella Marques); Bolsonaro reduziu ministérios em 2019 (Lula: 'foram 10 ministérios desmontados', Lupa e Aos Fatos: VERDADEIRO).",
+  "explicacao_completa_md": "Lupa (JN, 28/08/2026): EXAGERADO (46.989 para 52.780 em jun/2026, +5,7 mil). O programa de Flávio promete reforma administrativa, corte de ao menos 10 ministérios e 'revogaço' de mais de mil normas (Daniella Marques); Bolsonaro reduziu ministérios em 2019 (Lula: 'foram 10 ministérios desmontados', Lupa e Aos Fatos: VERDADEIRO).\n\n**Atualização (enriquecimento, 21/10/2026):** a outra metade da frase — que Bolsonaro cortou cargos — tem leituras diferentes conforme o que se mede: o Ranking classificou como VERDADEIRO que Bolsonaro 'extinguiu mais de 20 mil cargos em comissão' (Decreto 9.725/2019, 21 mil cargos, funções e gratificações), enquanto o UOL Confere (via A Crítica, 17/10/2026) contestou que o governo Bolsonaro tenha cortado milhares de comissionados, porque o número de comissionados subiu de 31,8 mil em 2019 para 46,2 mil em 2022. As duas leituras não se excluem: extinguir postos por decreto não impede que o total ocupado cresça; as séries usadas pela Lupa (46.989 → 52.780) e pelo UOL (31,8 mil → 46,2 mil) usam recortes diferentes.",
   "o_que_e_verdade": [
     "O número de cargos comissionados cresceu cerca de 5,7 mil no governo Lula 3."
   ],
@@ -78,6 +80,19 @@
         "rotulo": "Aumento medido",
         "valor": 5791
       }
+    },
+    {
+      "rotulo": "Comissionados no governo federal em 2022, segundo o UOL Confere",
+      "valor": 46.2,
+      "unidade": "mil (31,8 mil em 2019)",
+      "periodo": "2022",
+      "fonte": {
+        "nome": "A Crítica, 17/10/2026 (UOL Confere)",
+        "url": "https://acritica.net/noticias/em-sabatina-flavio-nao-explica-propostas-e-cita-acusacoes-falsas/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": null
     }
   ],
   "series": [],
@@ -87,12 +102,36 @@
       "veredito_original": "EXAGERADO",
       "url": "https://www.agencialupa.org/checagem/2026/08/28/ao-vivo-checagem-da-entrevista-de-flavio-bolsonaro-ao-jornal-nacional/",
       "data": "2026-08-28"
+    },
+    {
+      "veiculo": "UOL Confere (via A Crítica)",
+      "veredito_original": "contestado: comissionados subiram de 31,8 mil (2019) para 46,2 mil (2022)",
+      "url": "https://acritica.net/noticias/em-sabatina-flavio-nao-explica-propostas-e-cita-acusacoes-falsas/",
+      "data": "2026-10-17"
+    },
+    {
+      "veiculo": "Ranking dos Políticos",
+      "veredito_original": "VERDADEIRO ('Bolsonaro extinguiu mais de 20 mil cargos em comissão', Decreto 9.725/2019)",
+      "url": "https://ranking.org.br/en/articles/checagem-entrevista-flavio-bolsonaro-jornal-nacional-2-turno-2026",
+      "data": "2026-10-16"
     }
   ],
   "fontes": [
     {
       "nome": "Agência Lupa",
       "url": "https://www.agencialupa.org/checagem/2026/08/28/ao-vivo-checagem-da-entrevista-de-flavio-bolsonaro-ao-jornal-nacional/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "A Crítica, 17/10/2026 (UOL Confere)",
+      "url": "https://acritica.net/noticias/em-sabatina-flavio-nao-explica-propostas-e-cita-acusacoes-falsas/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Ranking dos Políticos",
+      "url": "https://ranking.org.br/en/articles/checagem-entrevista-flavio-bolsonaro-jornal-nacional-2-turno-2026",
       "acesso_em": "2026-10-21",
       "tier": "checagem"
     }
@@ -121,7 +160,14 @@
     {
       "data": "2026-10-21",
       "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "enriquecimento rodada 2 (21/10/2026): UOL Confere e Ranking sobre a parte 'Bolsonaro cortou cargos' (Decreto 9.725/2019 x total de comissionados); divergência de recortes registrada"
     }
   ],
-  "exemplo": false
+  "exemplo": false,
+  "lacunas": [
+    "As séries de comissionados da Lupa e do UOL não foram conciliadas: o Painel Estatístico de Pessoal (MGI), fonte primária, não foi acessado; o Decreto 9.725/2019 não foi lido no Planalto."
+  ]
 }

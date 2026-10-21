@@ -349,3 +349,298 @@ Lupa (checagens ao vivo de 14/04, 01/10, 15/10, 16/10 e 18/10/2026), Aos Fatos (
 ### Gaps
 - Não acessei Estadão Verifica e UOL Confere (domínios bloqueados para fetch) nem o arquivo de busca da Aos Fatos; pode haver checagens adicionais sobre emprego/pobreza em 2026 que não constam aqui.
 - Não encontrei checagem da frase "Lula quebrou o Brasil"; os dados mais próximos usados pelos checadores são dívida bruta (R$ 11,1 tri; 82,9% do PIB), déficits primários de 2023-2025 e juros (Lupa, 16 e 18/10/2026).
+
+---
+
+## Enriquecimento — rodada 2 (21/10/2026)
+
+Rodada de aprofundamento sobre o que a nota já cobre. Método: fetch direto de APIs e arquivos oficiais (SIDRA/IBGE, Ipeadata com dados do MDS/Portal da Transparência, BCB, FTP do IBGE, PDFs do MTE e do DIEESE, Planalto, Câmara), com busca web só para localizar URLs. Páginas do gov.br do MDS, MEC e Ministério da Saúde continuaram exigindo autenticação para fetch automatizado (403/"Conteúdo Restrito"), exceto algumas notícias (MTE, Saúde) e os textos legais do Planalto. Os PDFs do MTE em gov.br devolveram 403 ao `curl`, mas o mesmo arquivo foi obtido por outro cliente HTTP; os números abaixo vieram do texto extraído do PDF. Cálculos próprios estão marcados como "(aritmética minha)". Nada do texto anterior da nota nem dos arquivos `data/` foi alterado.
+
+### Lacunas fechadas
+
+**1. Série oficial do MTE de saldo anual do Caged/Novo Caged "com ajustes", 2002-2025, e estoque de dezembro**
+- Fonte: MTE, "Novo Caged – Apresentação, dezembro de 2025", gráficos "Saldo de empregos formais – Brasil, acumulado de janeiro a dezembro, 2002 a 2025* (dados com ajustes)" (p. 12) e "Estoque do emprego formal (em mil), Brasil – meses de dezembro, 2002 a 2025* (dados com ajustes)" (p. 39). Nota do próprio MTE: "Os dados de 2002 a 2019 são do Caged e a partir de 2020 do Novo Caged"; "Consideram-se ajustes de declarações fora do prazo" — [MTE, apresentação dez/2025 (PDF)](https://www.gov.br/trabalho-e-emprego/pt-br/assuntos/estatisticas-trabalho/novo-caged/2025/dezembro/apresentacao-dezembro-de-2025-1.pdf); sumário executivo: [MTE, dez/2025](https://www.gov.br/trabalho-e-emprego/pt-br/assuntos/estatisticas-trabalho/novo-caged/2025/dezembro/sumario-executivo_-acumulado-e-dezembro-2025.pdf). A atribuição de cada barra ao ano foi conferida pela consistência aritmética entre saldo anual e variação do estoque (estoque de dez/N = estoque de dez/N-1 + saldo de N, em todos os 23 anos).
+
+| Ano | Saldo anual com ajustes (MTE) | Saldo sem ajustes (Ipeadata, já na nota) | Estoque em dezembro (mil, com ajustes) |
+|---|---|---|---|
+| 2002 | +1.009.483 | — | 22.729 |
+| 2003 | +864.312 | +645.433 | 23.593 |
+| 2004 | +1.796.535 | +1.523.276 | 25.390 |
+| 2005 | +1.561.533 | +1.253.981 | 26.951 |
+| 2006 | +1.549.602 | +1.228.686 | 28.501 |
+| 2007 | +1.943.050 | +1.617.392 | 30.444 |
+| 2008 | +1.707.288 | +1.452.204 | 32.151 |
+| 2009 | +1.397.845 | +995.110 | 33.549 |
+| 2010 | +2.629.827 | +2.136.947 | 36.179 |
+| 2011 | +2.026.571 | +1.566.043 | 38.205 |
+| 2012 | +1.372.594 | +868.241 | 39.578 |
+| 2013 | +1.138.562 | +730.687 | 40.716 |
+| 2014 | +420.690 | +152.713 | 41.137 |
+| 2015 | -1.534.989 | -1.625.551 | 39.602 |
+| 2016 | -1.326.558 | -1.371.363 | 38.276 |
+| 2017 | -11.964 | -123.429 | 38.264 |
+| 2018 | +546.445 | +421.078 | 38.810 |
+| 2019 | +644.079 | +559.626 | 39.454 |
+| 2020 (Novo Caged) | -189.393 | +171.266 | 39.265 |
+| 2021 | +2.782.295 | +2.852.413 | 42.047 |
+| 2022 | +2.014.894 | +2.011.366 | 44.062 |
+| 2023 | +1.455.279 | +1.478.340 | 45.517 |
+| 2024 | +1.677.575 | +1.676.514 | 47.195 |
+| 2025 | +1.279.498 | +1.256.997 | 48.474 |
+
+- 2025 oficial: 26.599.777 admissões, 25.320.279 desligamentos, saldo +1.279.498 (+2,71%); estoque 48.474.348 em dez/2025 (47.194.850 em dez/2024); dezembro/2025 -618.164 (1.523.309 admissões, 2.141.473 desligamentos); estoque "recuperado" incluindo vínculos de outras naturezas 49.090.182, dos quais 5.381.390 "não típicos" (aprendizes, intermitentes, temporários, CAEPF e jornada até 30h) — [MTE, apresentação dez/2025](https://www.gov.br/trabalho-e-emprego/pt-br/assuntos/estatisticas-trabalho/novo-caged/2025/dezembro/apresentacao-dezembro-de-2025-1.pdf); [Sebrae/BA, Análise do Novo Caged dez/2025 (tabelas 1, 3 e 5.1 do MTE, dados ajustados)](https://datasebrae.com.br/wp-content/uploads/2025/02/RELATORIO-CAGED-Dezembro-2025-Brasil-Nordeste-BA-Regionais.pdf); [Suno/Estadão Conteúdo, 29/01/2026](https://www.suno.com.br/noticias/saldo-liquido-de-empregos-em-2025-e-de-1-279-go/amp/).
+- Somas por governo com a série oficial "com ajustes" (aritmética minha sobre a tabela acima; a quebra de 2020 continua valendo): Lula 1 (2003-06) +5.771.982; Lula 2 (2007-10) +7.678.010; Lula 1-2 +13.449.992 (estoque de 22,7 mi em dez/2002 para 36,2 mi em dez/2010); Dilma 1 (2011-14) +4.958.417; Dilma 2 (2015-16) -2.861.547; Temer (2017-18) +534.481; Bolsonaro (2019-22) +5.251.875 (38,8 mi → 44,1 mi); Lula 3 (2023-25) +4.412.352, ou +5.546.385 somando jan-ago/2026 (+1.134.033, MTE) — ver [MTE, Novo Caged ago/2026, 29/09/2026](https://www.gov.br/trabalho-e-emprego/pt-br/noticias-e-conteudo/2026/setembro/novo-caged-emprego-formal-gera-165-8-mil-vagas-em-agosto-e-acumula-1-13-milhao-de-postos-no-ano).
+- RAIS (estoque em 31/12, inclui estatutários): 52.790.864 (2022) e 54.706.385 (2023), +1.915.521 (+3,6%); setor privado 44.469.011 em 2023 (+1.511.203; +3,5%) — [MTE, RAIS ano-base 2023 – Resumo dos resultados (PDF via Poder360)](https://static.poder360.com.br/2025/04/MTE-Rais-ano-base-2023.pdf); [Fenacon, nota do MTE](https://fenacon.org.br/noticias/rais-2023-revela-estoque-de-547-milhoes-de-vinculos-ativos-no-brasil/). RAIS 2024, exceto estatutários: 46.145.193 (41.184.833 típicos; 4.960.360 não típicos) — [MTE, apresentação dez/2025, p. 9](https://www.gov.br/trabalho-e-emprego/pt-br/assuntos/estatisticas-trabalho/novo-caged/2025/dezembro/apresentacao-dezembro-de-2025-1.pdf). Para a frase "20/22 milhões de empregos": Aos Fatos (RAIS/MTE) contabiliza 15,4 milhões de empregos formais em 2003-2010 e +3,9 milhões em 2011-2015, "cerca de 20 milhões" nos governos petistas — [Aos Fatos, checagem da entrevista de Lula à Globo (15/10/2026)](https://www.aosfatos.org/noticias/checamos-lula-globo-segundo-turno/).
+
+**2. Bolsa Família / Auxílio Brasil: famílias e valor pago em dezembro de cada ano, 2004-2025 (fonte primária)**
+- Fonte: Ipeadata, séries FAM_PBF ("número de benefícios em dezembro, excluindo suspensos") e VAL_PBF ("valor total das transferências em dezembro"), origem MDS/Portal da Transparência; nível Brasil — [Ipeadata, FAM_PBF (API OData)](http://www.ipeadata.gov.br/api/odata4/ValoresSerie(SERCODIGO='FAM_PBF')); [Ipeadata, VAL_PBF (API OData)](http://www.ipeadata.gov.br/api/odata4/ValoresSerie(SERCODIGO='VAL_PBF')). Benefício médio = valor/famílias (aritmética minha).
+
+| Dez de | Famílias (benefícios) | Valor pago no mês (R$ milhões) | Benefício médio (R$) |
+|---|---|---|---|
+| 2004 | 6.571.839 | 439,9 | 66,93 |
+| 2005 | 8.700.445 | 549,4 | 63,14 |
+| 2006 | 10.965.810 | 686,7 | 62,62 |
+| 2007 | 11.043.076 | 831,1 | 75,26 |
+| 2008 | 10.557.996 | 905,9 | 85,80 |
+| 2009 | 12.370.915 | 1.174,3 | 94,92 |
+| 2010 | 12.778.220 | 1.239,0 | 96,97 |
+| 2011 | 13.352.306 | 1.602,1 | 119,99 |
+| 2012 | 13.902.155 | 2.012,7 | 144,78 |
+| 2013 | 14.080.293 | 2.138,2 | 151,86 |
+| 2014 | 14.054.243 | 2.367,0 | 168,42 |
+| 2015 | 13.980.491 | 2.270,8 | 162,43 |
+| 2016 | 13.563.768 | 2.457,0 | 181,15 |
+| 2017 | 13.905.348 | 2.481,0 | 178,42 |
+| 2018 | 14.195.226 | 2.641,6 | 186,09 |
+| 2019 | 13.238.457 | 2.525,7 | 190,79 |
+| 2020 | 14.274.018 | 2.730,7 | 191,31 |
+| 2021 (Auxílio Brasil) | 14.184.940 | 3.191,2 | 224,97* |
+| 2022 (Auxílio Brasil) | 20.975.152 | 7.990,4 | 380,94* |
+| 2023 (novo Bolsa Família) | 20.884.006 | 13.671,4 | 654,64 |
+| 2024 | 20.444.419 | 13.950,8 | 682,38 |
+| 2025 | 18.618.236 | 12.612,5 | 677,43 |
+
+- (*) Em dez/2021 e dez/2022 o piso legal era R$ 400 (MP 1.076/2021) e R$ 600 (EC 123/2022); a média implícita abaixo do piso indica que esta série registra apenas o Auxílio Brasil "base" e não o "benefício extraordinário" pago à parte para completar o piso — ao comparar "R$ 190 x R$ 400 x R$ 600" use os valores legais do piso e a média do MDS, não esta coluna para 2021-2022. Para 2023-2025 a média (R$ 655-682) bate com o balanço do MDS já citado na nota (R$ 680-682).
+- Valor pago no ano (soma dos meses da série mensal VAL_PBF12, Brasil, R$ bilhões, aritmética minha): 2013 24,9 | 2014 27,2 | 2015 27,7 | 2016 28,5 | 2017 29,0 | 2018 30,6 | 2019 31,2 | 2020 32,0 | 2021 33,6 | 2022 69,6 | 2023 150,8 | 2024 161,5 | 2025 157,1 | jan-ago/2026 102,9 (ago/2026: R$ 12,76 bi) — [Ipeadata, VAL_PBF12 (API OData)](http://www.ipeadata.gov.br/api/odata4/ValoresSerie(SERCODIGO='VAL_PBF12')). Atenção: são valores de benefícios pagos (Portal da Transparência), menores que a dotação/execução orçamentária do programa citada na nota (R$ 170,4 bi em 2023; R$ 168,2 bi em 2024), que inclui outros custos e benefícios extraordinários; a diferença deve ser sinalizada antes de publicar.
+- Benefício médio oficial em ago/2026: R$ 678,35 — [Agência Gov/MDS, 18/08/2026](https://agenciagov.ebc.com.br/noticias/202608/pagamento-do-bolsa-familia-de-agosto-comeca-nesta-terca-feira-18). Decreto 13.120, de 17/09/2026 (DOU 17/09/2026, edição extra), confirmado no texto oficial: Benefício de Renda de Cidadania R$ 164 por pessoa; complementar até R$ 691 por família; Primeira Infância R$ 173; Variável Familiar R$ 58; correção pelo INPC de mar/2023 a ago/2026; efeitos financeiros a partir do mês seguinte à publicação — [Planalto, Decreto 13.120/2026](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/decreto/D13120.htm).
+
+**3. Auxílio Emergencial: valor total pago (MDS/Portal da Transparência), 2020-2023**
+- Série mensal VAL_AUXEMG ("valor nominal total das transferências mensais", fonte Portal da Transparência/Benefícios ao Cidadão), nível Brasil, R$ bilhões: abr/2020 34,71 | mai 41,46 | jun 27,12 | jul 42,74 | ago 38,10 | set 33,39 | out 21,94 | nov 28,11 | dez 25,76 → **2020: R$ 293,34 bi**; abr/2021 9,00 | mai 8,85 | jun 8,65 | jul 8,43 | ago 8,23 | set 8,05 | out 5,21 (mais resíduos) → **2021: R$ 56,89 bi**; 2022: R$ 3,37 bi (pagamentos residuais, jan e jul); 2023: desprezível. **Total 2020-2023 ≈ R$ 353,6 bi** (aritmética minha) — [Ipeadata, VAL_AUXEMG (API OData)](http://www.ipeadata.gov.br/api/odata4/ValoresSerie(SERCODIGO='VAL_AUXEMG')). Parcelas pagas por mês (FAM_AUXEMG): abr/2020 48,5 mi | mai 59,0 mi | jul 61,0 mi | nov 78,6 mi (pico) | dez 77,7 mi; abr/2021 39,0 mi | out/2021 25,1 mi — [Ipeadata, FAM_AUXEMG (API OData)](http://www.ipeadata.gov.br/api/odata4/ValoresSerie(SERCODIGO='FAM_AUXEMG')). Isso fecha a faixa "R$ 293-354 bi" da nota com uma fonte primária, mas não é um número "auditado pelo TCU" — o relatório final de auditoria do TCU com o custo consolidado não foi localizado (ver lacunas).
+
+**4. BPC: beneficiários e valores (MDS via Ipeadata), 2019-set/2026**
+- Benefícios em dezembro (PES_BPC, Brasil): 2019 4.626.185 | 2020 4.657.978 | 2021 4.708.582 | 2022 5.115.806 | 2023 5.710.833 | 2024 6.292.449 | 2025 6.385.830 | ago/2026 6.522.255 | set/2026 6.620.994 — [Ipeadata, PES_BPC (API OData)](http://www.ipeadata.gov.br/api/odata4/ValoresSerie(SERCODIGO='PES_BPC')).
+- Valor mensal em dezembro (VAL_BPC, R$ bilhões): 2019 4,64 | 2020 4,87 | 2021 5,18 | 2022 6,20 | 2023 7,54 | 2024 8,89 | 2025 9,69 | set/2026 10,73. Soma do ano (aritmética minha): 2019 55,5 | 2020 58,2 | 2021 61,8 | 2022 70,9 | 2023 85,1 | 2024 102,3 | 2025 116,6 | jan-set/2026 93,4 — [Ipeadata, VAL_BPC (API OData)](http://www.ipeadata.gov.br/api/odata4/ValoresSerie(SERCODIGO='VAL_BPC')). A projeção de R$ 133,4 bi para 2026 (PLDO) citada na nota é compatível com o ritmo de ~R$ 10,7 bi/mês no 2º semestre de 2026.
+
+**5. Farmácia Popular (Ministério da Saúde, 20/10/2026)**
+- 27,3 milhões de pessoas atendidas em 2025; 25,3 milhões de jan a set/2026 (18,4 mi com 60 anos ou mais); beneficiários +31,6% entre 2022 e 2025; 21.371 farmácias ativas em 5 mil municípios (97,1% da população); municípios atendidos 2023→2026: Norte 193→282 (+46,1%), Nordeste 1.168→1.556 (+33,2%), Sul 1.084→1.130, Sudeste 1.545→1.624, Centro-Oeste 399→408; 41 produtos 100% gratuitos; nova regulamentação em ago/2026 — [Ministério da Saúde, 20/10/2026](https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/outubro/farmacia-popular-esta-presente-em-5-mil-municipios-brasileiros). Série anual 2004-2022 e custo anual: não encontrados (ver lacunas).
+
+**6. Fim da escala 6x1: promulgada a Emenda Constitucional 141, de 16/10/2026**
+- A PEC 221/2019 foi "transformada na Emenda Constitucional 141/2026, DOU 16/10/2026, pág. 2, col. 2, Edição Extra A" — [Câmara, API Dados Abertos, proposição 2233802](https://dadosabertos.camara.leg.br/api/v2/proposicoes/2233802). Texto integral: art. 7º, XIII: jornada "não superior a 8 horas diárias e 40 horas semanais"; XV: "repouso semanal remunerado de 2 dias, um dos quais preferencialmente aos domingos"; §2º permite, por convenção/acordo coletivo, regime compensatório com média de 2 dias de repouso no mês, garantido 1 dia por semana; art. 2º: sem redução salarial, inclusive dos pisos; art. 3º: em 2 meses caem cláusulas coletivas incompatíveis; art. 5º: lei complementar poderá criar medidas transitórias para MEI, micro e pequenas empresas, condicionadas à manutenção do emprego; art. 6º: transição em duas etapas — 42h semanais 2 meses após a publicação e 40h 1 ano depois disso; art. 8º: empregados com diploma superior e remuneração ≥ 2,5 tetos do RGPS ficam fora do controle de jornada (salvo acordo); art. 9º: contratos administrativos com mão de obra terão aditamento em até 1 ano; art. 10: vigência na publicação, exceto o inciso XV (2 meses). Assinam as Mesas da Câmara (Hugo Motta) e do Senado (Davi Alcolumbre) — [Planalto, EC 141/2026](https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc141.htm).
+- MTE (16/10/2026): em dez/2025 havia 44,5 milhões de trabalhadores com vínculo CLT; 29,7 mi já em escala 5x2 e 14,7 mi em 6x1 (33,2% terão de se adequar); o MTE afirma "potencial de ampliação dos postos" em comércio, serviços pessoais, turismo e transporte, sem número — [MTE, 16/10/2026](https://www.gov.br/trabalho-e-emprego/pt-br/noticias-e-conteudo/2026/outubro/congresso-nacional-promulga-pec-que-reduz-jornada-de-trabalho-e-estabelece-dois-dias-de-descanso-remunerado).
+
+**7. Insegurança alimentar 2024 (IBGE, PNAD Contínua – Segurança Alimentar 2023-2024, SIDRA tabelas 9552 e 9751)**
+- Domicílios (%): segurança alimentar 72,4 (2023) → 75,8 (2024); insegurança 27,6 → 24,2; leve 18,2 → 16,4; moderada 5,3 → 4,5; **grave 4,1 → 3,2**; domicílios em IA grave 3,139 mi → 2,515 mi; rural grave 5,5% → 4,6% — [IBGE/SIDRA, tabela 9552 (API)](https://apisidra.ibge.gov.br/values/t/9552/n1/all/v/162,9784,10114,10117/p/all/c1/all/c12404/all).
+- Moradores (pessoas): em insegurança 62,66 mi (29,6%) → 54,72 mi (25,8%); **grave 8,475 mi (4,0%) → 6,483 mi (3,1%)**; moderada 11,66 mi → 9,80 mi; grave por idade em 2024: 0-4 anos 3,3%; 5-17 anos 3,8% (1,435 mi); 18-49 anos 2,8%; 50-64 anos 3,3%; 65+ 2,3% — [IBGE/SIDRA, tabela 9751 (API)](https://apisidra.ibge.gov.br/values/t/9751/n1/all/v/10114,10117/p/all/c58/all/c12404/all). A Lupa usou exatamente 8,47 mi → 6,48 mi ao classificar "vencemos a fome" como FALTA CONTEXTO — [Lupa, 04/10/2026](https://www.agencialupa.org/checagem/2026/10/04/apos-confirmacao-do-2o-turno-lula-erra-sobre-superavit-e-flavio-sobre-reeleicao-e-endividamento/). POF 2024: nenhum resultado publicado localizado (ver lacunas).
+
+**8. Pobreza IBGE, série anual completa 2012-2024 (SIS 2025, Tabela 2.18, planilha oficial)**
+- Proporção de pessoas (%) abaixo de US$ 2,15 / US$ 3,65 / US$ 6,85 PPC 2017 por dia, Brasil: 2012 6,59 / 14,45 / 34,73 | 2013 5,84 / 13,29 / 32,48 | 2014 5,19 / 12,09 / 30,88 | 2015 5,65 / 12,63 / 31,72 | 2016 6,74 / 14,46 / 33,75 | 2017 7,30 / 14,79 / 33,79 | 2018 7,38 / 14,53 / 33,44 | 2019 7,37 / 14,24 / 32,61 | 2020 6,05 / 12,10 / 31,06 | 2021 9,02 / 16,95 / 36,77 | 2022 5,87 / 12,44 / 31,65 | 2023 4,40 / 10,28 / 27,30 | 2024 3,47 / 8,60 / 23,11; metade da mediana (R$/mês): 2012 253,52 → 2024 663,80; proporção abaixo de 50% da mediana: 2012 23,14% → 2024 21,43% — [IBGE, SIS 2025, Tabelas/xls/2_Distribuicao_Renda_xls.zip, Tabela 2.18 (FTP)](https://ftp.ibge.gov.br/Indicadores_Sociais/Sintese_de_Indicadores_Sociais/Sintese_de_Indicadores_Sociais_2025/Tabelas/xls/2_Distribuicao_Renda_xls.zip).
+- Nordeste, abaixo de US$ 6,85: 2012 56,45 | 2014 50,81 | 2016 54,08 | 2019 53,04 | 2020 48,93 | 2021 57,48 | 2022 51,20 | 2023 47,24 | 2024 39,39 (mesma tabela). Linha de R$ 218/mês (Tabela 2.22): 4,42% (2023) → 3,52% (2024); até 1/4 do mínimo: 9,73% → 7,89%. Gini 2024 (Tabela 2.13): Brasil 0,5044; Nordeste 0,4995; Sudeste 0,4898; Sul 0,4569 — mesma planilha.
+
+**9. FGV Social 2026: "Evolução das Classes Econômicas Brasileiras: 1976 a 2024" (Marcelo Neri, 13/01/2026)**
+- Em 2024, classes AB = 17,21%, C = 60,97% e ABC = 78,18% da população, "níveis mais altos de cada uma dessas séries históricas"; salto de 8,44 p.p. em ABC de 2022 para 2024; ~17,4 milhões de pessoas migraram para ABC em dois anos; renda domiciliar per capita (PNAD/PNADC), preços de 2023 — [FGV Social/CPS, 13/01/2026](https://cps.fgv.br/en/node/39333); [IstoÉ Dinheiro, 24/01/2026](https://istoedinheiro.com.br/quanto-renda-classe-social). Não há, até 21/10/2026, estudo do FGV Social de 2025-2026 com taxa de pobreza (a página "A Montanha-Russa da Pobreza" para em 2021: pobreza 10,8% em 2021, 23 mi pessoas, linha R$ 210; mínimo 3,9% em ago/2020 e pico 13,2% em mar/2021 na série mensal) — [FGV Social, PobrezaMensal](https://cps.fgv.br/PobrezaMensal); [FGV Social, Mapa da Nova Pobreza (jun/2022)](https://cps.fgv.br/pesquisas/mapa-da-nova-pobreza).
+
+**10. Greves (DIEESE/SAG), série 2007-2025**
+- 2007: 316 | 2008: 411 (24,6 mil horas paradas) | 2009: 518 | 2010: 446 | 2011: 554 (maior desde 1997, 631) | 2012: 873 (86,9 mil horas; revisado para 877 no balanço de 2013) | 2013: 2.050 (111.342 horas, maior desde 1990) | 2014 e 2015: PDFs não localizados | 2016: 2.093 | 2017: 1.566 | 2018: 1.453 | 2019: 1.118 | 2020: 649 | 2021: 721 | 2022: 1.067 (54 mil horas) | 2023: 1.132 (42 mil horas) | 2024: 880 (35.416 horas; 36,7 mil após revisão) | 2025: 1.006 (33,1 mil horas) — [DIEESE EP 41 (2007)](https://www.dieese.org.br/balancodasgreves/2007/estPesq41Greves2007.pdf); [EP 45 (2008)](https://www.dieese.org.br/balancodasgreves/2008/estPesq45balancoGreves2008.pdf); [EP 63 (2010-2011)](https://www.dieese.org.br/balancodasgreves/2011/estPesq63balGreves2010_2011.pdf); [EP 66 (2012)](https://www.dieese.org.br/balancodasgreves/2012/estPesq66balancogreves2012.pdf); [EP 79 (2013)](https://www.dieese.org.br/balancodasgreves/2013/estPesq79balancogreves2013.pdf); [EP 84 (2016)](https://www.dieese.org.br/balancodasgreves/2016/estPesq84balancogreves2016.pdf); [EP 87 (2017)](https://www.dieese.org.br/balancodasgreves/2017/estPesq87balancoGreves2017.pdf); [EP 89 (2018)](https://www.dieese.org.br/balancodasgreves/2018/estPesq89balancoGreves2018.pdf); [EP 93 (2019)](https://www.dieese.org.br/balancodasgreves/2019/estPesq93balancoGreves2019.pdf); [EP 99 (2020)](https://www.dieese.org.br/balancodasgreves/2021/estPesq99greves2021.pdf); [EP 102 (2021)](https://www.dieese.org.br/balancodasgreves/2022/estPesq102Greves2021.pdf); [EP 104 (2022)](https://www.dieese.org.br/balancodasgreves/2023/estPesq104Greves.pdf); [EP 109 (2023)](https://www.dieese.org.br/balancodasgreves/2024/estPesq109Greves.pdf); [EP 111 (2024)](https://www.dieese.org.br/estudosepesquisas/2025/estPesq111greves.pdf); [EP 114 (2025)](https://www.dieese.org.br/estudosepesquisas/2026/estPesq113greves.pdf). Leitura por governo: pico histórico em 2013 e 2016 (Dilma), queda em 2017-2021 (Temer/Bolsonaro, com mínimo na pandemia), retomada moderada em 2022-2025.
+
+**11. Cadastro Único (total mais recente localizado em fonte com dados do MDS)**
+- Julho/2025: 41.674.821 famílias e 95.366.582 pessoas cadastradas; 57,1% mulheres; 70% não brancas; 30,1% com 0-14 anos; 65,9% das famílias com renda per capita até meio salário mínimo — [Sebrae/MDS, Relatório Técnico "Empreendedorismo nas Famílias de Baixa Renda" (fev/2026), com dados do CadÚnico](https://datasebrae.com.br/wp-content/uploads/2026/02/Relatorio-Tecnico-Empreendedorismo-nas-Familias-de-Baixa-Renda_v4-pos-MDS.pdf). Total de 2026: não localizado (o painel "Observatório do Cadastro Único" e o VIS Data do MDS exigem login/JavaScript).
+
+**12. Pé-de-Meia (TCU, TC 005.592/2025-9, inspeção de 2025)**
+- "Investimento de R$ 12,5 bilhões em 2024 e um total de 4 milhões de beneficiários"; incentivos: matrícula R$ 200; frequência 9 parcelas (R$ 1.800/ano, com ≥80% de presença); conclusão R$ 1.000/ano; Enem R$ 200; máximo R$ 9.200 por estudante nos 3 anos; expansão em ago/2024 para CadÚnico com renda até meio salário mínimo e EJA (Portarias MEC 792 e 861/2024); TCU apontou municípios com mais beneficiários que matrículas — [TCU, representação Pé-de-Meia (PDF via Poder360)](https://static.poder360.com.br/2026/03/005.592-2025-9-BZ-REPR_Pe-de-Meia.pdf). Fechamento de 2024: "mais de 3,9 milhões de estudantes beneficiados"; SP 538.604, BA 410.639, MG 351.666, CE 285.502, PA 277.082, RJ 273.878 (via Agência Brasil) — [Itatiaia/Agência Brasil, dez/2024](https://www.itatiaia.com.br/politica/pe-de-meia-encerra-2024-com-quase-4-milhoes-de-beneficiados/). Valores pagos por ano em 2025 e 2026: não localizados em fonte oficial (ver lacunas).
+
+**13. Minha Casa Minha Vida (Lula 3) — números do Ministério das Cidades via imprensa**
+- 26/08/2025: 1,7 milhão contratadas e 1,38 milhão entregues desde 2023 (via snippet) — [Suno, 26/08/2025](https://www.suno.com.br/noticias/?p=621292). 08/12/2025 (ministro Jader Filho): ~2 milhões contratadas até o fim de 2025; meta de 3 milhões até dez/2026; 1 milhão de contratações em 2026 (60 mil → 80 mil/mês); R$ 144,5 bi do FGTS em 2026 (R$ 125 bi para habitação popular), R$ 5,5 bi do Orçamento e R$ 17 bi do fundo da Caixa para subsídios da Faixa 1; 172 mil unidades da Faixa 1 em construção (R$ 22,5 bi); ~40 mil entregas da Faixa 1 previstas até meados de 2026 — [Poder360, 08/12/2025](https://www.poder360.com.br/poder-economia/governo-quer-financiar-3-milhoes-de-moradias-ate-2026/); [Bahia Notícias, 08/12/2025](https://www.bahianoticias.com.br/noticia/311327-em-ano-eleitoral-governo-quer-contratar-1-milhao-de-moradias-do-minha-casa-minha-vida-em-2026). 23/01/2026: meta de 2 milhões de contratações atingida — [Agência iNFRA, 23/01/2026](https://agenciainfra.com/blog/?p=35347). A página oficial do programa no gov.br não publica série consolidada por governo — [Ministério das Cidades, página do MCMV](https://www.gov.br/cidades/pt-br/acesso-a-informacao/acoes-e-programas/habitacao/programa-minha-casa-minha-vida).
+
+**14. Confirmações documentais de itens marcados "via snippet" ou "não confirmado" na nota**
+- Decreto 12.797, de 23/12/2025 (DOU 24/12/2025): salário mínimo de R$ 1.621,00 a partir de 01/01/2026 (R$ 54,04/dia; R$ 7,37/hora), com base nas Leis 14.663/2023 e 15.077/2024 — [Planalto, Decreto 12.797/2025](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/decreto/D12797.htm).
+- Comprova, datas das checagens sobre "salário mínimo de R$ 3 mil": Flávio Bolsonaro, 02/09/2026; Lula, 18/09/2026. A peça sobre Lula registra que o PLOA 2027 prevê mínimo de R$ 1.741 (+R$ 120) — [Comprova, 02/09/2026](https://projetocomprova.com.br/publica%C3%A7%C3%B5es/flavio-bolsonaro-nao-prometeu-salario-minimo-de-r-3-mil-informacao-circula-em-videos-com-ia/); [Comprova, 18/09/2026](https://projetocomprova.com.br/publica%C3%A7%C3%B5es/nao-e-verdade-que-lula-tenha-proposta-para-aumentar-salario-minimo-para-r-3-mil-videos-sao-feitos-com-ia/).
+- Novo Caged ago/2026 (texto oficial do MTE, antes só via PDF/Poder360): saldo +165.827; estoque 48.244.696; acumulado +1.134.033 (+2,41%); 12 meses +887.708 (+1,87%); por grupo em agosto: homens +81.838, mulheres +83.989, até 24 anos +128.997, ensino médio completo +100.939, pardos +117.830, brancos +38.401, pretos +19.062, indígenas +242; salário médio real de admissão R$ 2.410,74 (+1,02% a/a) — [MTE, 29/09/2026](https://www.gov.br/trabalho-e-emprego/pt-br/noticias-e-conteudo/2026/setembro/novo-caged-emprego-formal-gera-165-8-mil-vagas-em-agosto-e-acumula-1-13-milhao-de-postos-no-ano).
+
+### Correções a dados existentes
+
+- **Seção 2 / `emprego-formal-caged-saldo`**: a série da nota (Ipeadata) é "sem ajustes". A série oficial "com ajustes" do MTE (tabela acima) é bem maior em 2003-2013 (ex.: 2009: +1,40 mi em vez de +0,995 mi; 2010: +2,63 mi em vez de +2,14 mi; 2004: +1,80 mi em vez de +1,52 mi) e um pouco menor em 2021 (+2,78 mi em vez de +2,85 mi) e 2020 (-189 mil em vez de +171 mil). Em consequência, as somas por mandato da nota mudam: Lula 1-2 passa de ~10,85 mi para **13,45 mi**; Dilma 1 de 3,32 mi para 4,96 mi; Dilma 2 de -3,00 mi para -2,86 mi; Temer de +0,30 mi para +0,53 mi; Bolsonaro de ~5,6 mi para **5,25 mi**; Lula 3 (2023-ago/2026) de ~5,5 mi para **5,55 mi**. A inferência "2019-2022 ≈ +5,6 mi e 2023-ago/2026 ≈ +5,5 mi" deve ser lida como "+5,25 mi x +5,55 mi (oficial com ajustes)". A quebra metodológica de 2020 permanece.
+- **Seção 2**: o estoque de dez/2025 é 48.474.348 (MTE), não "48,2 milhões" (que é o de ago/2026, após a sazonalidade negativa de dezembro e a alta de jan-ago); o pico mensal recente foi 48.818.441 em fev/2026 (já na nota). O estoque dez/2014 (41,1 mi, Caged antigo) só foi superado em dez/2021 (42,0 mi).
+- **Seção 6 / `bolsa-familia-familias`**: pontos aproximados da série ("2003: 3,0"; "2006: 11,1"; "2012-2019: 14,0"; "2023: 21,0"; "2024: 20,8") devem ser substituídos pelos valores de dezembro do Portal da Transparência/MDS: 2004 6,57 mi; 2006 10,97 mi; 2010 12,78 mi; 2012-2019 entre 13,24 mi (2019) e 14,20 mi (2018), sem "estabilidade em 14 mi"; 2023 20,88 mi; 2024 20,44 mi; **2025 18,62 mi** (ponto novo). O "recorde de 14,33 mi em mai/2020" da nota é compatível (dez/2020 = 14,27 mi). Para 2003 não há dado no Portal (série começa em 2004).
+- **Seção 6 / `bolsa-familia-custo`**: a série de "valor pago" (Portal da Transparência) dá R$ 150,8 bi (2023), R$ 161,5 bi (2024) e R$ 157,1 bi (2025), abaixo dos R$ 170,4 / 168,2 / 158,6 bi da nota; são conceitos diferentes (benefícios pagos x despesa orçamentária) — registrar a divergência em `notas_metodologicas` em vez de trocar o número.
+- **Seção 3 / `salario-minimo-nominal`**: a lacuna "número do decreto de 2026 não confirmado" está fechada (Decreto 12.797/2025, acima).
+- **Seção 3 / `massa-rendimento-real`**: a média anual de 2025 pela tabela 6392 (média dos quatro trimestres móveis fechados em mar/jun/set/dez) é R$ 368,9 bi, enquanto a Retrospectiva traz R$ 361,7 bi — a diferença vem do deflator/base de preços (a 6392 está a preços do último mês da série) e da construção (trimestres móveis x banco anual). Usar a Retrospectiva para "média anual" e a 6392 só para a série de trimestres; não misturar.
+- **Seção 4**: a nota diz "insegurança grave 4,1% da população (8,7 milhões) em 2023". No SIDRA, 4,1% é a proporção de **domicílios**; entre **pessoas** a proporção é 4,0% e o contingente 8,475 milhões (2023), caindo a 3,1% e 6,483 milhões em 2024.
+- **Seção 4 / `brasil-saiu-do-mapa-da-fome`**: a Lupa (04/10/2026) classificou "nós já vencemos a fome uma vez; tivemos que vencer outra vez" como FALTA CONTEXTO, com os dados do SOFI 2025 (<2,5% de subalimentação; 1,2 mi em IA grave; 44,8 mi sem acesso a dieta saudável) e da PNADC 2023-2024 — ver link na lacuna 7.
+- **Seção 7 / `78-por-cento-da-populacao-endividada` e `serasa-negativados`**: a Lupa (04/10/2026) traz pontos adicionais da Serasa: jan/2023 70,09 mi inadimplentes (43,13% da população adulta); abr/2020 65,9 mi; dez/2022 69,4 mi; ago/2026 83,9 mi (51,06%) — e classificou "recorde de brasileiros endividados" (Flávio) como FALTA CONTEXTO, porque a alta vem desde o governo Bolsonaro — [Lupa, 04/10/2026](https://www.agencialupa.org/checagem/2026/10/04/apos-confirmacao-do-2o-turno-lula-erra-sobre-superavit-e-flavio-sobre-reeleicao-e-endividamento/).
+- **Seção 8**: "aguarda promulgação (ainda sem data)" → promulgada em 16/10/2026 como EC 141 (lacuna 6). A estimativa da senadora Leany Lemos (36,2 mi vínculos acima de 40h) convive agora com o número do MTE (14,7 mi em 6x1 entre 44,5 mi celetistas); são recortes diferentes (acima de 40h x escala 6x1).
+- **Seção 9**: a checagem da frase "22 milhões de empregos" também foi feita pela Aos Fatos (15,4 mi em 2003-2010 pela RAIS; ~20 mi com Dilma até 2015) — adicionar a `lula-gerou-20-milhoes-de-empregos` como checagem externa — [Aos Fatos](https://www.aosfatos.org/noticias/checamos-lula-globo-segundo-turno/).
+
+### Novos dados
+
+**A. Desocupação por Grande Região (PNADC, SIDRA 4099, %)**
+
+| Região | 4T2014 | 4T2019 | 4T2020 | 4T2022 | 4T2025 | 2T2026 |
+|---|---|---|---|---|---|---|
+| Norte | 6,9 | 10,7 | 12,6 | 8,0 | 5,8 | 6,1 |
+| Nordeste | 8,3 | 13,8 | 17,5 | 10,9 | 7,1 | 7,6 |
+| Sudeste | 6,7 | 11,5 | 15,1 | 7,9 | 4,8 | 5,2 |
+| Sul | 3,8 | 6,8 | 8,4 | 4,5 | 3,1 | 3,2 |
+| Centro-Oeste | 5,4 | 9,5 | 12,1 | 6,2 | 3,9 | 3,8 |
+| Brasil | 6,6 | 11,1 | 14,2 | 7,9 | 5,1 | 5,4 |
+
+Fonte: [IBGE/SIDRA, tabela 4099, n2 (API)](https://apisidra.ibge.gov.br/values/t/4099/n2/all/v/4099/p/all).
+
+**B. Desocupação por UF (PNADC, SIDRA 4099, %)** — 4T2014 | 4T2019 | 4T2022 | 4T2025 | 2T2026
+
+Amapá 9,6 | 15,8 | 13,4 | 8,4 | 9,8 · Bahia 9,8 | 16,6 | 13,5 | 8,0 | 9,1 · Piauí 6,0 | 13,3 | 9,5 | 8,0 | 8,3 · Pernambuco 7,7 | 14,2 | 12,3 | 8,8 | 8,3 · Alagoas 9,5 | 13,7 | 9,4 | 8,0 | 7,9 · Sergipe 9,1 | 15,1 | 12,0 | 7,5 | 7,9 · Amazonas 7,9 | 13,1 | 10,1 | 7,3 | 7,5 · Rio de Janeiro 5,8 | 13,8 | 11,4 | 6,9 | 7,1 · Acre 6,3 | 13,8 | 9,8 | 6,4 | 6,6 · Ceará 6,6 | 10,3 | 7,8 | 5,0 | 6,6 · Distrito Federal 8,8 | 12,6 | 10,3 | 6,8 | 6,5 · Pará 7,1 | 9,2 | 8,2 | 5,8 | 6,2 · Maranhão 7,2 | 12,5 | 8,4 | 5,6 | 6,0 · Rio Grande do Norte 10,5 | 12,9 | 10,0 | 6,7 | 5,6 · Paraíba 8,2 | 12,2 | 10,3 | 5,7 | 5,4 · São Paulo 7,2 | 11,6 | 7,7 | 4,7 | 5,4 · Roraima 6,5 | 15,0 | 4,6 | 4,7 | 5,0 · Rio Grande do Sul 4,6 | 7,3 | 4,6 | 3,7 | 4,2 · Tocantins 6,4 | 9,3 | 5,2 | 4,0 | 4,1 · Goiás 5,1 | 10,6 | 6,7 | 3,9 | 4,0 · Minas Gerais 6,3 | 9,6 | 5,8 | 3,8 | 3,8 · Paraná 3,7 | 7,4 | 5,2 | 3,2 | 3,1 · Mato Grosso do Sul 3,9 | 6,7 | 3,3 | 2,4 | 2,7 · Rondônia 3,6 | 8,2 | 3,1 | 2,6 | 2,6 · Espírito Santo 6,2 | 10,5 | 7,3 | 2,4 | 2,3 · Mato Grosso 4,1 | 6,5 | 3,6 | 2,4 | 2,2 · Santa Catarina 2,7 | 5,5 | 3,3 | 2,2 | 2,1 — [IBGE/SIDRA, tabela 4099, n3 (API)](https://apisidra.ibge.gov.br/values/t/4099/n3/all/v/4099/p/201404,201904,202204,202504,202602).
+
+**C. Desocupação e informalidade por sexo e por cor ou raça (PNADC, SIDRA 4093 e 6402, %)**
+
+| Grupo | Desocupação 4T2014 | 4T2019 | 4T2020 | 4T2022 | 4T2025 | 2T2026 | Informalidade 4T2019 | 4T2022 | 2T2026 |
+|---|---|---|---|---|---|---|---|---|---|
+| Homens | 5,6 | 9,2 | 11,9 | 6,5 | 4,2 | 4,6 | 41,7 | 39,9 | 39,0 |
+| Mulheres | 7,9 | 13,4 | 17,2 | 9,8 | 6,2 | 6,4 | 39,2 | 37,5 | 35,4 |
+| Branca | 5,4 | 8,7 | 11,6 | 6,2 | 4,0 | 4,2 | 34,2 | 32,9 | 31,9 |
+| Preta | 8,0 | 13,7 | 17,6 | 9,9 | 6,1 | 6,9 | 43,9 | 41,1 | 40,3 |
+| Parda | 7,5 | 12,7 | 16,0 | 9,2 | 5,9 | 6,1 | 46,4 | 44,4 | 42,1 |
+| Total | 6,6 | 11,1 | 14,2 | 7,9 | 5,1 | 5,4 | 40,7 | 38,9 | 37,4 |
+
+Fontes: [IBGE/SIDRA, tabela 4093 (API)](https://apisidra.ibge.gov.br/values/t/4093/n1/all/v/4099,12466/p/all/c2/all); [IBGE/SIDRA, tabela 6402 (API)](https://apisidra.ibge.gov.br/values/t/6402/n1/all/v/4099,12466/p/all/c86/all). Informalidade (taxa de informalidade do IBGE, variável 12466) total por ano, 4º trimestre: 2016 39,1 | 2018 40,8 | 2019 40,7 | 2020 39,1 | 2021 40,8 | 2022 38,9 | 2023 39,2 | 2024 38,6 | 2025 37,6 | 1T2026 37,3 | 2T2026 37,4 (a variável não é calculada para 2012-2015).
+- Rendimento médio real habitual por cor ou raça (SIDRA 6405, R$ a preços do último trimestre): 4T2014 total 3.350 (branca 4.307; preta 2.511; parda 2.445) | 4T2019 3.484 (4.564; 2.545; 2.589) | 4T2022 3.438 (4.402; 2.596; 2.642) | 4T2025 3.857 (4.980; 2.839; 2.973) | 2T2026 3.769 (4.852; 2.759; 2.938). Razão branca/preta: 1,72 (4T2014) → 1,79 (4T2019) → 1,70 (4T2022) → 1,76 (2T2026) (aritmética minha) — [IBGE/SIDRA, tabela 6405 (API)](https://apisidra.ibge.gov.br/values/t/6405/n1/all/v/all/p/201404,201904,202204,202504,202602/c86/all).
+
+**D. Desocupação por faixa etária (PNADC, SIDRA 4094, %) — juventude**
+
+| Faixa | 4T2012 | 4T2014 | 4T2016 | 4T2019 | 1T2021 (pico) | 4T2022 | 4T2024 | 4T2025 | 2T2026 |
+|---|---|---|---|---|---|---|---|---|---|
+| 14 a 17 anos | 19,6 | 21,1 | 39,9 | 39,3 | 46,5 | 28,9 | 24,5 | 19,9 | 22,6 |
+| 18 a 24 anos | 13,9 | 13,8 | 25,4 | 23,3 | 30,1 | 16,4 | 12,8 | 11,4 | 11,7 |
+| 25 a 39 anos | 6,5 | 6,2 | 11,1 | 10,1 | 14,2 | 7,1 | 5,8 | 4,7 | 5,0 |
+| 40 a 59 anos | 3,4 | 3,2 | 6,9 | 6,5 | 9,6 | 5,3 | 4,0 | 3,3 | 3,5 |
+| 60 anos ou mais | 2,0 | 2,1 | 3,4 | 4,2 | 5,9 | 3,4 | 3,0 | 2,2 | 2,3 |
+
+Fonte: [IBGE/SIDRA, tabela 4094 (API)](https://apisidra.ibge.gov.br/values/t/4094/n1/all/v/4099/p/all/c58/all). O desemprego de 18-24 anos em 4T2025 (11,4%) é o menor da série e ainda assim 2,2 vezes a taxa geral.
+
+**E. Jovens de 15 a 29 anos que não estudam nem trabalham ("nem-nem")**
+- SIS 2025 (Tabela 1.42, "não estuda e não está ocupado", %, com contingente em mil): 2012 21,83 (11.218) | 2013 21,65 (11.099) | 2014 21,75 (11.061) | 2015 22,96 (11.629) | 2016 24,70 (12.451) | 2017 24,80 (12.415) | 2018 24,71 (12.246) | 2019 24,13 (11.874) | 2020 27,94 (13.645, pico) | 2021 25,67 (12.446) | 2022 22,19 (10.650) | 2023 21,00 (9.992) | 2024 19,80 (9.301, mínimo da série); Nordeste 2024: 27,55%; Sul 13,34% — [IBGE, SIS 2025, Tabelas/xls/1_Trabalho_xls.zip, Tabela 1.42 (FTP)](https://ftp.ibge.gov.br/Indicadores_Sociais/Sintese_de_Indicadores_Sociais/Sintese_de_Indicadores_Sociais_2025/Tabelas/xls/1_Trabalho_xls.zip).
+- PNADC anual, SIDRA 7205 (definição mais estrita: "não ocupadas e não frequentando escola, pré-vestibular, técnico ou qualificação"; a partir de 2019): 2019 22,4% (11,02 mi) | 2022 19,9% (9,56 mi) | 2023 19,6% (9,35 mi) | 2024 18,2% (8,57 mi) | **2025 17,5% (8,16 mi)**; 18-24 anos: 26,9% (2019) → 20,9% (2025); 25-29 anos: 24,7% → 20,2%; 15-17 anos: 7,3% → 4,4% — [IBGE/SIDRA, tabela 7205 (API)](https://apisidra.ibge.gov.br/values/t/7205/n1/all/v/10313,10315/p/all/c58/all/c876/all). As duas séries diferem por definição (a SIS conta como "estuda" só escola; a 7205 inclui cursos) — citar a fonte correta em cada caso.
+
+**F. Informalidade por UF (PNADC, SIDRA 4093, variável 12466, %)** — 4T2019 | 4T2022 | 2T2026
+
+Maranhão 60,6 | 57,3 | 56,9 · Pará 62,6 | 61,1 | 55,9 · Amazonas 58,4 | 57,0 | 51,7 · Bahia 55,2 | 52,9 | 50,7 · Piauí 59,2 | 54,0 | 49,5 · Ceará 54,7 | 53,5 | 48,7 · Sergipe 53,4 | 51,0 | 47,3 · Paraíba 52,1 | 50,7 | 45,8 · Pernambuco 50,0 | 48,5 | 45,4 · Amapá 56,1 | 48,5 | 44,5 · Acre 49,4 | 46,6 | 43,7 · Alagoas 46,1 | 44,6 | 43,4 · Roraima 47,3 | 48,3 | 42,7 · Rondônia 47,3 | 49,0 | 42,0 · Rio Grande do Norte 48,1 | 44,8 | 41,3 · Espírito Santo 40,2 | 38,1 | 40,0 · Tocantins 46,3 | 43,8 | 37,8 · Rio de Janeiro 37,9 | 36,8 | 37,1 · Minas Gerais 39,7 | 36,1 | 36,5 · Goiás 40,7 | 36,8 | 36,1 · Mato Grosso 39,6 | 35,2 | 34,1 · Paraná 33,1 | 31,3 | 30,5 · São Paulo 31,2 | 30,6 | 30,1 · Rio Grande do Sul 33,5 | 31,9 | 29,6 · Mato Grosso do Sul 38,5 | 32,7 | 29,2 · Distrito Federal 29,5 | 29,8 | 28,7 · Santa Catarina 26,9 | 26,0 | 25,4 — [IBGE/SIDRA, tabela 4093, n3 (API)](https://apisidra.ibge.gov.br/values/t/4093/n3/all/v/12466/p/201404,201904,202204,202602/c2/6794).
+
+**G. Rendimento domiciliar per capita real por classes de percentual, 2012-2025 (PNADC anual, SIDRA 7531, R$ "a preços médios do ano" de referência da divulgação)**
+
+| Classe | 2012 | 2014 | 2016 | 2018 | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| Até P10 (10% mais pobres) | 82 | 111 | 107 | 103 | 107 | 127 | 94 | 162 | 210 | 248 | 268 |
+| P10-P20 | 189 | 240 | 255 | 272 | 285 | 324 | 282 | 378 | 451 | 518 | 568 |
+| P20-P30 | 271 | 341 | 369 | 401 | 423 | 462 | 421 | 547 | 635 | 718 | 791 |
+| P30-P40 | 354 | 443 | 485 | 530 | 563 | 595 | 562 | 703 | 817 | 928 | 1.027 |
+| P40-P50 | 453 | 563 | 622 | 686 | 728 | 749 | 721 | 891 | 1.039 | 1.171 | 1.311 |
+| P50-P60 | 575 | 701 | 789 | 879 | 936 | 942 | 926 | 1.118 | 1.290 | 1.425 | 1.560 |
+| P60-P70 | 705 | 855 | 959 | 1.065 | 1.130 | 1.128 | 1.141 | 1.339 | 1.549 | 1.732 | 1.913 |
+| P70-P80 | 924 | 1.116 | 1.260 | 1.399 | 1.483 | 1.452 | 1.475 | 1.742 | 2.011 | 2.243 | 2.494 |
+| P80-P90 | 1.337 | 1.612 | 1.837 | 2.033 | 2.128 | 2.070 | 2.137 | 2.508 | 2.886 | 3.206 | 3.590 |
+| Acima de P90 (10% mais ricos) | 3.663 | 4.266 | 4.919 | 5.575 | 5.824 | 5.580 | 5.758 | 6.401 | 7.529 | 7.983 | 9.117 |
+| Acima de P99 (1% mais rico) | 10.355 | 11.364 | 13.412 | 15.810 | 16.844 | 15.809 | 15.925 | 17.310 | 20.470 | 21.627 | 24.973 |
+| Total | 855 | 1.025 | 1.160 | 1.294 | 1.361 | 1.343 | 1.352 | 1.579 | 1.842 | 2.017 | 2.264 |
+
+Fonte: [IBGE/SIDRA, tabela 7531 (API)](https://apisidra.ibge.gov.br/values/t/7531/n1/all/v/10824/p/all/c1019/all). Leitura (aritmética minha): razão 10% mais ricos / 40% mais pobres = 16,4 (2012), 17,1 (2018), 16,9 (2019), 13,2 (2024), 13,7 (2025) — coerente com os 13,2 / 13,8 divulgados pelo IBGE e já na nota; o décimo mais pobre teve o pior ano em 2021 (R$ 94, abaixo de 2012) e mais que dobrou de 2021 a 2025. Conferir no SIDRA a base de preços antes de publicar (o rótulo é "a preços médios do ano"; a tabela foi recalculada em 2026 e os valores de 2024 diferem dos divulgados em 2025).
+
+**H. Salário mínimo em dólares, 2003-2026**
+
+| Ano | SM vigente em dez (R$) | Câmbio médio do ano (R$/US$, SGS 3698, série já na base) | SM em US$ correntes (aritmética minha) | SM em US$ PPC, dezembro (Ipeadata) |
+|---|---|---|---|---|
+| 2003 | 240 | 3,078 | 78 | 174,8 |
+| 2004 | 260 | 2,926 | 89 | 184,2 |
+| 2005 | 300 | 2,435 | 123 | 209,3 |
+| 2006 | 350 | 2,176 | 161 | 243,5 |
+| 2007 | 380 | 1,948 | 195 | 261,7 |
+| 2008 | 415 | 1,835 | 226 | 268,6 |
+| 2009 | 465 | 1,998 | 233 | 296,9 |
+| 2010 | 510 | 1,760 | 290 | 310,5 |
+| 2011 | 545 | 1,675 | 325 | 322,0 |
+| 2012 | 622 | 1,955 | 318 | 352,1 |
+| 2013 | 678 | 2,158 | 314 | 369,1 |
+| 2014 | 724 | 2,354 | 308 | 373,8 |
+| 2015 | 788 | 3,332 | 236 | 368,3 |
+| 2016 | 880 | 3,490 | 252 | 393,9 |
+| 2017 | 937 | 3,192 | 294 | 419,6 |
+| 2018 | 954 | 3,654 | 261 | 420,9 |
+| 2019 | 998 | 3,945 | 253 | 431,0 |
+| 2020 | 1.045 | 5,156 | 203 | 433,9 |
+| 2021 | 1.100 | 5,395 | 204 | 443,7 |
+| 2022 | 1.212 | 5,165 | 235 | 491,3 |
+| 2023 | 1.320 | 4,995 | 264 | 533,3 |
+| 2024 | 1.412 | 5,390 | 262 | 560,2 |
+| 2025 | 1.518 | 5,588 | 272 | 595,2 |
+| 2026 | 1.621 | 5,147 (jan-set) | 315 | 635,4 (set) |
+
+Fontes: SM nominal — [BCB/SGS 1619 (API)](https://api.bcb.gov.br/dados/serie/bcdata.sgs.1619/dados?formato=json&dataInicial=01/01/2003) e DIEESE NT 283 (já na nota); câmbio — série `cambio-media-anual` da base (BCB/SGS 3698); PPC — [Ipeadata, GAC12_SALMINDOL12 (API OData)](http://www.ipeadata.gov.br/api/odata4/ValoresSerie(SERCODIGO='GAC12_SALMINDOL12')) (conversão pela PPC do Banco Mundial de 2011 corrigida por IPC-EUA e INPC). Salário mínimo real a preços de set/2026 (Ipeadata GAC12_SALMINRE12, dezembro): 2003 R$ 815 | 2010 1.218 | 2014 1.368 | 2016 1.402 | 2019 1.442 | 2020 1.432 | 2021 1.368 | 2022 1.423 | 2025 1.579 | set/2026 1.621 — [Ipeadata, GAC12_SALMINRE12 (API OData)](http://www.ipeadata.gov.br/api/odata4/ValoresSerie(SERCODIGO='GAC12_SALMINRE12')). Leitura: em dólar corrente o mínimo de 2026 (US$ 315) ainda está abaixo do pico de 2011 (US$ 325); em PPC é o maior da série.
+
+**I. Massa de rendimento real habitual, série anual 2012-2025 (SIDRA 6392, R$ bilhões a preços do último mês da série)**
+- Média dos quatro trimestres móveis encerrados em mar/jun/set/dez (aritmética minha): 2012 274,9 | 2013 287,2 | 2014 297,2 | 2015 293,1 | 2016 282,6 | 2017 287,3 | 2018 296,0 | 2019 303,2 | 2020 291,3 | 2021 283,7 | 2022 303,0 | 2023 323,5 | 2024 347,8 | 2025 368,9. Trimestre out-dez: 2012 277,9 | 2014 299,8 | 2016 284,1 | 2019 308,7 | 2020 287,9 | 2021 282,2 | 2022 318,0 | 2023 333,5 | 2024 357,8 | 2025 380,7; jun-ago/2026 385,6 (recorde) — [IBGE/SIDRA, tabela 6392, variável 6293 (API)](https://apisidra.ibge.gov.br/values/t/6392/n1/all/v/all/p/all). A massa só superou o nível de 2014 em 2022 e o de 2019 em 2023.
+
+**J. Bolsa Família por UF: famílias em dezembro de 2022 e de 2025 e cobertura por mil habitantes (2025)**
+
+| UF | dez/2022 | dez/2025 | Famílias por 1.000 hab. (2025) |
+|---|---|---|---|
+| Maranhão | 1.168.924 | 1.149.711 | 163,8 |
+| Piauí | 622.879 | 547.595 | 161,8 |
+| Bahia | 2.558.556 | 2.301.351 | 154,8 |
+| Alagoas | 539.917 | 497.039 | 154,3 |
+| Pernambuco | 1.687.528 | 1.466.691 | 153,4 |
+| Sergipe | 403.255 | 351.946 | 153,1 |
+| Paraíba | 691.850 | 620.831 | 149,1 |
+| Ceará | 1.485.317 | 1.336.594 | 144,2 |
+| Pará | 1.293.671 | 1.245.636 | 143,0 |
+| Acre | 130.972 | 123.535 | 139,7 |
+| Amapá | 121.742 | 111.909 | 138,8 |
+| Amazonas | 611.433 | 594.604 | 137,6 |
+| Rio Grande do Norte | 511.503 | 465.403 | 134,7 |
+| Roraima | 62.870 | 72.735 | 98,5 |
+| Tocantins | 154.667 | 141.403 | 89,1 |
+| Rio de Janeiro | 1.840.978 | 1.398.338 | 81,2 |
+| Rondônia | 122.041 | 122.498 | 69,9 |
+| Espírito Santo | 301.751 | 273.125 | 66,2 |
+| Minas Gerais | 1.607.780 | 1.402.293 | 65,5 |
+| Mato Grosso do Sul | 204.751 | 179.439 | 61,4 |
+| Goiás | 489.303 | 437.540 | 58,9 |
+| Mato Grosso | 252.351 | 211.696 | 54,4 |
+| Distrito Federal | 162.811 | 151.806 | 50,7 |
+| São Paulo | 2.539.853 | 2.163.208 | 46,9 |
+| Rio Grande do Sul | 603.434 | 518.649 | 46,2 |
+| Paraná | 588.266 | 534.223 | 44,9 |
+| Santa Catarina | 216.749 | 198.438 | 24,2 |
+| Brasil | 20.975.152 | 18.618.236 | 87,5 |
+
+Fontes: famílias — [Ipeadata, FAM_PBF, nível Estados (API OData)](http://www.ipeadata.gov.br/api/odata4/ValoresSerie(SERCODIGO='FAM_PBF')); população residente estimada 2025 — [IBGE/SIDRA, tabela 6579 (API)](https://apisidra.ibge.gov.br/values/t/6579/n3/all/v/9324/p/2025); razão é aritmética minha (famílias/população × 1.000; não é "percentual da população coberta", pois família ≠ pessoa). Queda de 2,36 milhões de famílias entre dez/2022 e dez/2025 (-11,2%), concentrada em RJ (-442 mil), SP (-377 mil), BA (-257 mil) e PE (-221 mil); só Roraima e Rondônia cresceram.
+
+**K. Auxílio Emergencial, BPC e Cadastro Único** — ver lacunas fechadas 3, 4 e 11.
+
+**L. Novas checagens de 2026 sobre trabalho e social (não constavam da nota)**
+- **Lupa, 04/10/2026 (discursos pós-1º turno)**: Lula "superávit primário nos 8 anos do meu governo" = VERDADEIRO (superávits de 2003 a 2010, de R$ 60,9 bi/4,32% do PIB em 2003 a R$ 101,7 bi/2,78% em 2010); "único país do G20 com superávit 2003-2010" = FALSO (Argentina também); "já vencemos a fome uma vez, tivemos que vencer outra vez" = FALTA CONTEXTO (SOFI 2025: <2,5% de subalimentação; 1,2 mi em IA grave; 44,8 mi/21,1% sem dieta saudável; PNADC: IA grave 8,47 mi → 6,48 mi em 2023-2024); Lula "28-29 milhões não votaram" = SUBESTIMADO (TSE: 33,4 mi, 21%). Flávio "recorde de brasileiros endividados" = FALTA CONTEXTO (Serasa: 70,09 mi/43,13% em jan/2023 → 83,9 mi/51,06% em ago/2026; 65,9 mi em abr/2020 e 69,4 mi em dez/2022); "único candidato pelo fim da reeleição" = FALSO; "só preciso de um mandato" = CONTRADITÓRIO — [Lupa, 04/10/2026](https://www.agencialupa.org/checagem/2026/10/04/apos-confirmacao-do-2o-turno-lula-erra-sobre-superavit-e-flavio-sobre-reeleicao-e-endividamento/).
+- **Aos Fatos, entrevista de Lula à Globo (15/10/2026)**: "22 milhões de empregos em 8 anos" só fecha somando Dilma (RAIS: 15,4 mi em 2003-2010 + 3,9 mi em 2011-2015 ≈ 20 mi); "7ª economia do mundo" e "crescimento de 7,5%" (2010) corretos; "Bolsonaro desmontou dez ministérios" correto (10 pastas extintas em 2019; 23 ministérios em dez/2022) — [Aos Fatos](https://www.aosfatos.org/noticias/checamos-lula-globo-segundo-turno/).
+- **Aos Fatos, entrevista de Flávio à Globo (16/10/2026)**: "recorde de empresas fechadas" = falso (recorde de falências em 2015, 1.828; 862 em 2024, 734 em 2025, 277 até mai/2026, Serasa Experian); "recorde de endividados" repetido; "dívida de R$ 11 trilhões" correto; Flávio respondeu "sim" a manter reajustes do mínimo acima da inflação, "não" a desvincular aposentadorias do mínimo e "não" a mudar os pisos de saúde e educação; repetiu "Bolsonaro triplicou o Bolsa Família de R$ 190 para R$ 600" e "Lula esqueceu por quatro anos quem recebe o Bolsa Família" (frases já checadas pela Lupa como EXAGERADO e FALTA CONTEXTO, ver seção 9) — [Aos Fatos](https://www.aosfatos.org/noticias/checamos-flavio-bolsonaro-globo-segundo-turno/). Debate da Band (18/10/2026) também checado pela Aos Fatos — [Aos Fatos](https://www.aosfatos.org/noticias/checamos-lula-flavio-bolsonaro-debate-band/).
+- **Aos Fatos, 2026**: desmentiu post de que a Coca-Cola fechou fábricas e demitiu em massa no Brasil — [Aos Fatos](https://www.aosfatos.org/noticias/coca-cola-nao-fechou-fabricas-nem-demitiu/).
+- **Comprova** (datas confirmadas): 02/09/2026 (Flávio, mínimo de R$ 3 mil) e 18/09/2026 (Lula); PLOA 2027 prevê mínimo de R$ 1.741 — links na lacuna 14.
+
+### Lacunas que permanecem
+
+- **Mais Médicos**: nenhuma série oficial de médicos ativos por ano (2013-2026) foi localizada; as páginas do programa no gov.br devolvem 404/"Conteúdo Restrito" e a busca só trouxe inscrições em editais (ex.: 45.792 inscritos no edital de 2026 para 3.064 vagas, Agência Brasil via portal regional, via snippet, não verificado no texto integral) — [Maisgoiás/Agência Brasil](https://www.maisgoias.com.br/brasil/mais-medicos-bate-recorde-de-inscritos-com-mais-de-457-mil-candidatos/). Tratar como lacuna.
+- **Farmácia Popular**: série anual 2004-2022 de pessoas atendidas e custo anual (Portal da Transparência bloqueou fetch; a notícia do MS só traz 2025-2026 e a variação 2022-2025).
+- **Auxílio Emergencial**: relatório final/acórdão do TCU com custo total auditado — não localizado; o total de R$ 353,6 bi acima é a soma dos pagamentos registrados no Portal da Transparência (via Ipeadata/MDS).
+- **RAIS**: estoque anual 2003-2021 em fonte primária (PDET/MTE fora do ar para fetch, 503); só 2022-2024 obtidos. O estoque Caged de dezembro (celetistas) cobre a lacuna de forma aproximada, mas não substitui a RAIS (que inclui estatutários).
+- **DIEESE**: balanços de greves de 2014 e 2015 não localizados no buscador do site.
+- **Cadastro Único**: total de 2026 (último dado primário: jul/2025, 41,67 mi famílias); a imprensa fala em revisão cadastral de 2026 atingindo "mais de 11 milhões de famílias" (não verificado em fonte oficial).
+- **Pé-de-Meia**: valores pagos e número de estudantes por ano em 2025 e 2026 (MEC/FNDE bloqueados por captcha/403; Portal da Transparência via JavaScript); só 2024 (R$ 12,5 bi; 3,9-4,0 mi estudantes, TCU/MEC).
+- **MCMV**: série oficial consolidada por governo (contratadas x entregues) no site do Ministério das Cidades; os números de 2023-2026 vêm de declarações do ministro via imprensa.
+- **POF 2024/2025**: nenhum resultado publicado sobre insegurança alimentar localizado; o dado oficial mais recente é a PNADC-SA 2024 (acima).
+- **PNADC trimestre encerrado em setembro/2026**: divulgação prevista para o fim de outubro; a nota segue com ago/2026 como dado mais recente.
+- **Impacto estimado da EC 141 (6x1)**: continua sem estimativa oficial de custo/emprego (MTE fala em "potencial de ampliação" sem número).
+- **Tabela 7531 (décimos)**: a base de preços ("a preços médios do ano") precisa ser confirmada na documentação do SIDRA antes de comparar com os R$ 2.020 (2024) divulgados em 2025.

@@ -1,65 +1,325 @@
 {
   "id": "investimento-publico-pib",
   "titulo": "Investimento público total em % do PIB",
-  "descricao_simples": "Investimento de União, estados, municípios e estatais federais como proporção do PIB (FGV IBRE). Bateu o piso de 2,02% em 2021 e subiu para 3,04% em 2024, o melhor desde 2014.",
+  "descricao_simples": "Investimento de União, estados, municípios e estatais federais como proporção do PIB (FGV IBRE, planilha oficial). Pico de 4,72% em 2010 (puxado por estatais e União), mínimo de 1,94% em 2017, 2,00% em 2021 e recuperação para 3,04% em 2024, a melhor desde 2014.",
   "unidade": "% do PIB",
   "tipo_grafico": "barra",
   "frequencia": "anual",
   "fonte": {
-    "nome": "FGV IBRE — Observatório de Política Fiscal, investimentos públicos 1947–2024",
-    "url": "https://observatorio-politica-fiscal.ibre.fgv.br/series-historicas/investimentos-publicos/investimentos-publicos-1947-2024",
+    "nome": "FGV IBRE — planilha 'investimentos_publicos_1947-2024.xlsx', aba 'Em % do PIB' (Manoel Pires, 22/04/2025)",
+    "url": "https://observatorio-politica-fiscal.ibre.fgv.br/sites/observatorio-politica-fiscal.ibre.fgv.br/files/u49/investimentos_publicos_1947-2024.xlsx",
     "acesso_em": "2026-10-21",
     "tier": "academico"
   },
   "pontos": [
     {
-      "periodo": "2021",
-      "valor": 2.02,
+      "periodo": "2003",
+      "valor": 2.59,
       "detalhe": {
-        "uniao": 0.26,
-        "nota": "2º pior desde 1947 (o pior foi 2017); União no menor nível desde 2004 (0,21%)"
+        "governo_geral": 1.5,
+        "uniao": 0.2,
+        "estados": 0.56,
+        "municipios": 0.75,
+        "estatais_federais": 1.09
+      }
+    },
+    {
+      "periodo": "2004",
+      "valor": 2.6,
+      "detalhe": {
+        "governo_geral": 1.59,
+        "uniao": 0.21,
+        "estados": 0.59,
+        "municipios": 0.78,
+        "estatais_federais": 1.01
+      }
+    },
+    {
+      "periodo": "2005",
+      "valor": 2.62,
+      "detalhe": {
+        "governo_geral": 1.62,
+        "uniao": 0.33,
+        "estados": 0.68,
+        "municipios": 0.61,
+        "estatais_federais": 1.01
+      }
+    },
+    {
+      "periodo": "2006",
+      "valor": 2.91,
+      "detalhe": {
+        "governo_geral": 1.94,
+        "uniao": 0.38,
+        "estados": 0.73,
+        "municipios": 0.83,
+        "estatais_federais": 0.97
+      }
+    },
+    {
+      "periodo": "2007",
+      "valor": 2.84,
+      "detalhe": {
+        "governo_geral": 1.76,
+        "uniao": 0.42,
+        "estados": 0.52,
+        "municipios": 0.82,
+        "estatais_federais": 1.08
+      }
+    },
+    {
+      "periodo": "2008",
+      "valor": 3.52,
+      "detalhe": {
+        "governo_geral": 2.14,
+        "uniao": 0.44,
+        "estados": 0.69,
+        "municipios": 1.01,
+        "estatais_federais": 1.38
+      }
+    },
+    {
+      "periodo": "2009",
+      "valor": 4.02,
+      "detalhe": {
+        "governo_geral": 2.23,
+        "uniao": 0.6,
+        "estados": 0.89,
+        "municipios": 0.75,
+        "estatais_federais": 1.78
+      }
+    },
+    {
+      "periodo": "2010",
+      "valor": 4.72,
+      "detalhe": {
+        "governo_geral": 2.85,
+        "uniao": 0.84,
+        "estados": 1.11,
+        "municipios": 0.89,
+        "estatais_federais": 1.87,
+        "nota": "pico da série; puxado por estatais (Petrobras) e União"
+      }
+    },
+    {
+      "periodo": "2011",
+      "valor": 3.9,
+      "detalhe": {
+        "governo_geral": 2.28,
+        "uniao": 0.64,
+        "estados": 0.79,
+        "municipios": 0.85,
+        "estatais_federais": 1.62
+      }
+    },
+    {
+      "periodo": "2012",
+      "valor": 4.03,
+      "detalhe": {
+        "governo_geral": 2.22,
+        "uniao": 0.56,
+        "estados": 0.72,
+        "municipios": 0.94,
+        "estatais_federais": 1.81
+      }
+    },
+    {
+      "periodo": "2013",
+      "valor": 4.15,
+      "detalhe": {
+        "governo_geral": 2.23,
+        "uniao": 0.66,
+        "estados": 0.93,
+        "municipios": 0.64,
+        "estatais_federais": 1.92
+      }
+    },
+    {
+      "periodo": "2014",
+      "valor": 3.98,
+      "detalhe": {
+        "governo_geral": 2.45,
+        "uniao": 0.72,
+        "estados": 0.99,
+        "municipios": 0.75,
+        "estatais_federais": 1.53
+      }
+    },
+    {
+      "periodo": "2015",
+      "valor": 2.89,
+      "detalhe": {
+        "governo_geral": 1.7,
+        "uniao": 0.46,
+        "estados": 0.58,
+        "municipios": 0.67,
+        "estatais_federais": 1.19
+      }
+    },
+    {
+      "periodo": "2016",
+      "valor": 2.32,
+      "detalhe": {
+        "governo_geral": 1.53,
+        "uniao": 0.4,
+        "estados": 0.48,
+        "municipios": 0.65,
+        "estatais_federais": 0.79
+      }
+    },
+    {
+      "periodo": "2017",
+      "valor": 1.94,
+      "detalhe": {
+        "governo_geral": 1.26,
+        "uniao": 0.38,
+        "estados": 0.5,
+        "municipios": 0.37,
+        "estatais_federais": 0.68,
+        "nota": "mínimo da série recente"
+      }
+    },
+    {
+      "periodo": "2018",
+      "valor": 2.58,
+      "detalhe": {
+        "governo_geral": 1.37,
+        "uniao": 0.38,
+        "estados": 0.51,
+        "municipios": 0.47,
+        "estatais_federais": 1.21
+      }
+    },
+    {
+      "periodo": "2019",
+      "valor": 2.05,
+      "detalhe": {
+        "governo_geral": 1.26,
+        "uniao": 0.34,
+        "estados": 0.36,
+        "municipios": 0.56,
+        "estatais_federais": 0.79
+      }
+    },
+    {
+      "periodo": "2020",
+      "valor": 2.63,
+      "detalhe": {
+        "governo_geral": 1.5,
+        "uniao": 0.32,
+        "estados": 0.39,
+        "municipios": 0.79,
+        "estatais_federais": 1.12
+      }
+    },
+    {
+      "periodo": "2021",
+      "valor": 2.0,
+      "detalhe": {
+        "governo_geral": 1.36,
+        "uniao": 0.25,
+        "estados": 0.56,
+        "municipios": 0.55,
+        "estatais_federais": 0.64,
+        "nota": "a página da FGV e a imprensa citam 2,02%; a planilha oficial dá 2,00% (usada aqui). União em 0,25%, menor desde 2003–2004"
       }
     },
     {
       "periodo": "2022",
-      "valor": 2.53
+      "valor": 2.52,
+      "detalhe": {
+        "governo_geral": 2.01,
+        "uniao": 0.25,
+        "estados": 0.92,
+        "municipios": 0.84,
+        "estatais_federais": 0.51
+      }
     },
     {
       "periodo": "2023",
-      "valor": 2.61,
+      "valor": 2.63,
       "detalhe": {
+        "governo_geral": 2.02,
         "uniao": 0.3,
+        "estados": 0.72,
+        "municipios": 1.0,
+        "estatais_federais": 0.61,
         "nota": "primeira alta da União desde 2014"
       }
     },
     {
       "periodo": "2024",
-      "valor": 3.04
+      "valor": 3.04,
+      "detalhe": {
+        "governo_geral": 2.22,
+        "uniao": 0.31,
+        "estados": 0.74,
+        "municipios": 1.17,
+        "estatais_federais": 0.82,
+        "nota": "municípios no recorde (1,17%)"
+      }
     }
   ],
   "faixas_referencia": [
     {
-      "rotulo": "União em 2004 (menor valor citado)",
-      "valor": 0.21
+      "rotulo": "Pico da série (2010, governo Lula 2)",
+      "valor": 4.72
+    },
+    {
+      "rotulo": "Mínimo recente (2017, governo Temer)",
+      "valor": 1.94
     }
   ],
   "governos": [
     {
+      "governo": "lula-1-2",
+      "inicio": {
+        "periodo": "2003",
+        "valor": 2.59
+      },
+      "fim": {
+        "periodo": "2010",
+        "valor": 4.72
+      }
+    },
+    {
+      "governo": "dilma",
+      "inicio": {
+        "periodo": "2011",
+        "valor": 3.9
+      },
+      "fim": {
+        "periodo": "2016",
+        "valor": 2.32
+      }
+    },
+    {
+      "governo": "temer",
+      "inicio": {
+        "periodo": "2017",
+        "valor": 1.94
+      },
+      "fim": {
+        "periodo": "2018",
+        "valor": 2.58
+      }
+    },
+    {
       "governo": "bolsonaro",
       "inicio": {
-        "periodo": "2021",
-        "valor": 2.02
+        "periodo": "2019",
+        "valor": 2.05
       },
       "fim": {
         "periodo": "2022",
-        "valor": 2.53
+        "valor": 2.52
       }
     },
     {
       "governo": "lula-3",
       "inicio": {
         "periodo": "2023",
-        "valor": 2.61
+        "valor": 2.63
       },
       "fim": {
         "periodo": "2024",
@@ -68,7 +328,10 @@
     }
   ],
   "notas_metodologicas": [
-    "A nota qualifica o nível de 2024 como 'bem abaixo' do observado no PAC 1 (segundo governo Lula) e informa que o investimento líquido (descontada a depreciação) é positivo há 3 anos, exceto no governo central, ainda negativo.",
+    "Série 'Setor público consolidado' (governo geral + estatais federais) da planilha oficial da FGV IBRE (Manoel Pires, 22/04/2025; dados STN/Orair/SEST). O campo 'detalhe' traz governo geral, União (governo central), estados, municípios e estatais federais, todos em % do PIB.",
+    "Correções frente à primeira versão desta série: 2021 é 2,00% na planilha (2,02% na página e na imprensa) e 2017 é 1,94%, o mínimo da série recente. 2022 (2,52) e 2023 (2,63) batem.",
+    "Leitura: o pico de 4,72% (2010) foi puxado por estatais (Petrobras, 1,87%) e pela União (0,84%); a União investiu só 0,25% do PIB em 2021–2022, o menor desde 2003–2004 (0,20–0,21%); em 2024 a recuperação veio sobretudo de municípios (1,17%, recorde) e estatais (0,82%).",
+    "O investimento líquido (descontada a depreciação) é positivo há 3 anos, exceto no governo central, ainda negativo (FGV IBRE).",
     "Em 2025 o Tesouro registrou despesas do governo geral em 46,9% do PIB, maior em 16 anos, com 'redução do investimento líquido' citada como compensação parcial dos juros.",
     "O Brasil investe cerca de 2% do PIB em infraestrutura (ideal acima de 4%, segundo a Abdib); em 2025 foram R$ 280 bi, 84% privados.",
     "Responsabilidade: a série soma os três níveis de governo e estatais federais; o valor da União isolada aparece no campo 'detalhe'."
@@ -79,6 +342,12 @@
     "contas-publicas"
   ],
   "fontes_adicionais": [
+    {
+      "nome": "FGV IBRE — Observatório de Política Fiscal, investimentos públicos 1947–2024",
+      "url": "https://observatorio-politica-fiscal.ibre.fgv.br/series-historicas/investimentos-publicos/investimentos-publicos-1947-2024",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    },
     {
       "nome": "Jornal de Brasília — investimento público sobe em 2023",
       "url": "https://jornaldebrasilia.com.br/noticias/economia/investimento-publico-sobe-em-2023-mas-tendencia-de-estagnacao-permanece/",
@@ -102,10 +371,45 @@
       "url": "https://jornaldebrasilia.com.br/noticias/economia/lula-supera-bolsonaro-e-fhc-como-governo-que-mais-fez-concessoes-de-infraestrutura/",
       "acesso_em": "2026-10-21",
       "tier": "imprensa"
+    },
+    {
+      "nome": "Wikipédia pt — Programa de Aceleração do Crescimento (compilação com fontes)",
+      "url": "https://pt.wikipedia.org/wiki/Programa_de_Acelera%C3%A7%C3%A3o_do_Crescimento",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
     }
   ],
+  "pac_historico": {
+    "fonte": {
+      "nome": "Wikipédia pt — Programa de Aceleração do Crescimento (compilação com fontes)",
+      "url": "https://pt.wikipedia.org/wiki/Programa_de_Acelera%C3%A7%C3%A3o_do_Crescimento",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    "pac_1": {
+      "periodo": "2007–2010",
+      "previsto_rs_bi": 503.9,
+      "estatais_rs_bi": 219.2,
+      "petrobras_rs_bi": 148.7,
+      "orcamento_fiscal_rs_bi": 67.8,
+      "privado_rs_bi": 216.9,
+      "energia_rs_bi": 274.8,
+      "social_urbana_rs_bi": 170.8,
+      "logistica_rs_bi": 58.3,
+      "concluido_jun_2009_pct": 15.1,
+      "concluido_dez_2009_pct": 9.8,
+      "em_planejamento_dez_2009_pct": 62
+    },
+    "pac_2": {
+      "lancamento": "2010-03-29",
+      "previsto_rs_tri": 1.59,
+      "nota": "inclui pós-2014"
+    },
+    "obras_concluidas_no_prazo_2016_pct": 16.8,
+    "obras_anunciadas_aprox": 29000
+  },
   "lacunas": [
-    "Série anual 2003–2020 e 2025 não lida (planilha da FGV não consultada); valores do PAC 1 e PAC 2 previstos vs executados não confirmados."
+    "2025 ainda não consta da planilha; valores executados em R$ do PAC 1 e do PAC 2 (balanços de 2010 e 2014) não confirmados — só previsões e percentuais de conclusão."
   ],
   "atualizado_em": "2026-10-21",
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/07_saude_seguranca_educacao_infra_ambiente.md"

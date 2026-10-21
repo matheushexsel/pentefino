@@ -57,13 +57,64 @@
     },
     {
       "ator": "CNPE (mistura de biocombustíveis)",
-      "o_que_controla": "Dentro da Lei 14.993/2024, a mistura de etanol anidro na gasolina (22% a 35%) e de biodiesel no diesel (15% desde 01/03/2025, 16% desde 01/03/2026, subindo a 20% em 2030).",
+      "o_que_controla": "Dentro da Lei 14.993/2024, a mistura de etanol anidro na gasolina (22% a 35%) e de biodiesel no diesel. Res. CNPE 9/2025 fixou E30 e Res. CNPE 8/2025 B15 a partir de 01/08/2025; a Res. CNPE 9/2026 (14/07/2026, DOU 30/07/2026) elevou para 32% (E32) 'em caráter excepcional e temporário' por 180 dias prorrogáveis, em vigor desde 01/08/2026, medida ligada à alta do petróleo.",
       "o_que_nao_controla": "Preços.",
       "peso": "baixo",
-      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/L14993.htm"
+      "url": "https://www.gov.br/mme/pt-br/assuntos/conselhos-e-comites/cnpe/resolucoes-do-cnpe/2026/resolucao-9-dou.pdf"
     }
   ],
-  "composicao": [],
+  "composicao": [
+    {
+      "rotulo": "Gasolina – parcela da Petrobras (realização)",
+      "percentual": 31.9,
+      "fonte": {
+        "nome": "Petrobras – Preços de venda de combustíveis: gasolina (composição, coleta 11–17/10/2026)",
+        "url": "https://precos.petrobras.com.br/precos-gasolina",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    {
+      "rotulo": "Gasolina – distribuição e revenda",
+      "percentual": 28.0,
+      "fonte": {
+        "nome": "Petrobras – Preços de venda de combustíveis: gasolina (composição, coleta 11–17/10/2026)",
+        "url": "https://precos.petrobras.com.br/precos-gasolina",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    {
+      "rotulo": "Gasolina – ICMS (imposto estadual)",
+      "percentual": 24.0,
+      "fonte": {
+        "nome": "Petrobras – Preços de venda de combustíveis: gasolina (composição, coleta 11–17/10/2026)",
+        "url": "https://precos.petrobras.com.br/precos-gasolina",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    {
+      "rotulo": "Gasolina – etanol anidro (mistura obrigatória)",
+      "percentual": 15.2,
+      "fonte": {
+        "nome": "Petrobras – Preços de venda de combustíveis: gasolina (composição, coleta 11–17/10/2026)",
+        "url": "https://precos.petrobras.com.br/precos-gasolina",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    {
+      "rotulo": "Gasolina – impostos federais (reduzidos temporariamente em set–out/2026)",
+      "percentual": 0.9,
+      "fonte": {
+        "nome": "Petrobras – Preços de venda de combustíveis: gasolina (composição, coleta 11–17/10/2026)",
+        "url": "https://precos.petrobras.com.br/precos-gasolina",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    }
+  ],
   "linha_do_tempo": [
     {
       "data": "2016-10-01",
@@ -126,6 +177,11 @@
       "url": "https://pt.wikipedia.org/wiki/Lista_de_presidentes_da_Petrobras"
     },
     {
+      "data": "2025-08-01",
+      "evento": "Entram em vigor E30 (Res. CNPE 9/2025) e B15 (Res. CNPE 8/2025); B14 valia desde mar/2024 e B12 desde abr/2023.",
+      "url": "https://www.gov.br/mme/pt-br/assuntos/conselhos-e-comites/cnpe/resolucoes-do-cnpe/2025"
+    },
+    {
       "data": "2026-01-01",
       "evento": "ICMS ad rem sobe para R$ 1,57/l (gasolina) e R$ 1,17/l (diesel) – Convênios ICMS 112/2025 e 113/2025.",
       "url": "https://diariodocomercio.com.br/economia/icms-gasolina-diesel-subir-2026-veja-novos-valores/"
@@ -154,6 +210,11 @@
       "data": "2026-05-30",
       "evento": "MP 1.363: subvenção ao diesel de R$ 1,12/l (crédito de R$ 12,5 bi); Petrobras vende diesel a R$ 3,30/l a partir de 01/06.",
       "url": "https://eixos.com.br/newsletters/comece-seu-dia/como-fica-o-alivio-aos-combustiveis-com-o-fim-da-desoneracao-e-o-novo-modelo-de-subsidio/"
+    },
+    {
+      "data": "2026-07-30",
+      "evento": "Publicada no DOU a Res. CNPE 9/2026 (14/07/2026): mistura de 32% de etanol anidro na gasolina comum (E32), temporária por 180 dias prorrogáveis, em vigor em 01/08/2026.",
+      "url": "https://www.gov.br/mme/pt-br/assuntos/conselhos-e-comites/cnpe/resolucoes-do-cnpe/2026/resolucao-9-dou.pdf"
     },
     {
       "data": "2026-09-09",
@@ -413,19 +474,203 @@
       }
     },
     {
-      "rotulo": "Litros de gasolina por salário mínimo (máximo da série)",
-      "valor": 254,
-      "unidade": "litros",
-      "periodo": "mar/2017",
+      "rotulo": "Gasolina R$ 6,53/l: parcela da Petrobras",
+      "valor": 2.08,
+      "unidade": "R$/l (31,9%)",
+      "periodo": "11–17/10/2026",
       "fonte": {
-        "nome": "InvestNews – Em 20 anos, quantidade de gasolina que o salário mínimo compra aumenta 57% (15/03/2021)",
-        "url": "https://investnews.com.br/economia/em-20-anos-quantidade-de-gasolina-que-salario-minimo-pode-comprar-aumenta-57",
+        "nome": "Petrobras – Preços de venda de combustíveis: gasolina (composição, coleta 11–17/10/2026)",
+        "url": "https://precos.petrobras.com.br/precos-gasolina",
         "acesso_em": "2026-10-21",
-        "tier": "imprensa"
+        "tier": "oficial"
       },
       "comparacao": {
-        "rotulo": "mar/2021",
-        "valor": 200
+        "rotulo": "Distribuição e revenda (28,0%)",
+        "valor": 1.83
+      }
+    },
+    {
+      "rotulo": "Gasolina: ICMS",
+      "valor": 1.57,
+      "unidade": "R$/l (24,0%)",
+      "periodo": "11–17/10/2026",
+      "fonte": {
+        "nome": "Petrobras – Preços de venda de combustíveis: gasolina (composição, coleta 11–17/10/2026)",
+        "url": "https://precos.petrobras.com.br/precos-gasolina",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "Etanol anidro (15,2%)",
+        "valor": 0.99
+      }
+    },
+    {
+      "rotulo": "Gasolina: impostos federais após a redução temporária",
+      "valor": 0.06,
+      "unidade": "R$/l (0,9%)",
+      "periodo": "11–17/10/2026",
+      "fonte": {
+        "nome": "Petrobras – Preços de venda de combustíveis: gasolina (composição, coleta 11–17/10/2026)",
+        "url": "https://precos.petrobras.com.br/precos-gasolina",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    {
+      "rotulo": "Diesel S10 R$ 7,34/l: parcela da Petrobras",
+      "valor": 2.83,
+      "unidade": "R$/l (38,6%)",
+      "periodo": "11–17/10/2026",
+      "fonte": {
+        "nome": "Petrobras – Preços de venda de combustíveis: diesel (composição, coleta 11–17/10/2026)",
+        "url": "https://precos.petrobras.com.br/precos-diesel",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "Distribuição e revenda (30,0%)",
+        "valor": 2.2
+      }
+    },
+    {
+      "rotulo": "Diesel S10: ICMS",
+      "valor": 1.17,
+      "unidade": "R$/l (15,9%)",
+      "periodo": "11–17/10/2026",
+      "fonte": {
+        "nome": "Petrobras – Preços de venda de combustíveis: diesel (composição, coleta 11–17/10/2026)",
+        "url": "https://precos.petrobras.com.br/precos-diesel",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "Biodiesel (11,2%)",
+        "valor": 0.82
+      }
+    },
+    {
+      "rotulo": "Diesel S10: impostos federais",
+      "valor": 0.32,
+      "unidade": "R$/l (4,4%)",
+      "periodo": "11–17/10/2026",
+      "fonte": {
+        "nome": "Petrobras – Preços de venda de combustíveis: diesel (composição, coleta 11–17/10/2026)",
+        "url": "https://precos.petrobras.com.br/precos-diesel",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      }
+    },
+    {
+      "rotulo": "Mistura de etanol anidro na gasolina comum (E32, Res. CNPE 9/2026)",
+      "valor": 32,
+      "unidade": "%",
+      "periodo": "desde 01/08/2026",
+      "fonte": {
+        "nome": "CNPE – Resolução nº 9, de 14/07/2026 (E32 temporário; DOU 30/07/2026) (PDF)",
+        "url": "https://www.gov.br/mme/pt-br/assuntos/conselhos-e-comites/cnpe/resolucoes-do-cnpe/2026/resolucao-9-dou.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "Antes (E30, desde 01/08/2025)",
+        "valor": 30
+      }
+    },
+    {
+      "rotulo": "Média anual da gasolina comum (ANP)",
+      "valor": 6.539,
+      "unidade": "R$/l",
+      "periodo": "2026 (jan–set)",
+      "fonte": {
+        "nome": "ANP – Série histórica do levantamento de preços (médias mensais Brasil)",
+        "url": "https://www.gov.br/anp/pt-br/assuntos/precos-e-defesa-da-concorrencia/precos/precos-revenda-e-de-distribuicao-combustiveis/serie-historica-do-levantamento-de-precos",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "2003",
+        "valor": 2.073
+      }
+    },
+    {
+      "rotulo": "Alta nominal da gasolina 2003→2025",
+      "valor": 200.9,
+      "unidade": "%",
+      "periodo": "2003–2025",
+      "fonte": {
+        "nome": "ANP – Série histórica do levantamento de preços (médias mensais Brasil)",
+        "url": "https://www.gov.br/anp/pt-br/assuntos/precos-e-defesa-da-concorrencia/precos/precos-revenda-e-de-distribuicao-combustiveis/serie-historica-do-levantamento-de-precos",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "IPCA no período",
+        "valor": 232.1
+      }
+    },
+    {
+      "rotulo": "Alta nominal do diesel S500 2003→2025",
+      "valor": 319.3,
+      "unidade": "%",
+      "periodo": "2003–2025",
+      "fonte": {
+        "nome": "ANP – Série histórica do levantamento de preços (médias mensais Brasil)",
+        "url": "https://www.gov.br/anp/pt-br/assuntos/precos-e-defesa-da-concorrencia/precos/precos-revenda-e-de-distribuicao-combustiveis/serie-historica-do-levantamento-de-precos",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "GLP",
+        "valor": 271.8
+      }
+    },
+    {
+      "rotulo": "Litros de gasolina por salário mínimo (média anual)",
+      "valor": 247.9,
+      "unidade": "litros",
+      "periodo": "2026 (jan–set)",
+      "fonte": {
+        "nome": "ANP – Série histórica do levantamento de preços (médias mensais Brasil)",
+        "url": "https://www.gov.br/anp/pt-br/assuntos/precos-e-defesa-da-concorrencia/precos/precos-revenda-e-de-distribuicao-combustiveis/serie-historica-do-levantamento-de-precos",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "2021 (pior ano desde 2010)",
+        "valor": 190.3
+      }
+    },
+    {
+      "rotulo": "Brent médio anual (EIA)",
+      "valor": 93.27,
+      "unidade": "US$/barril",
+      "periodo": "2026 (jan–set)",
+      "fonte": {
+        "nome": "EIA – Europe Brent Spot Price FOB, média anual (xls)",
+        "url": "https://www.eia.gov/dnav/pet/hist_xls/RBRTEa.xls",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "2011 (pico histórico da média anual)",
+        "valor": 111.26
+      }
+    },
+    {
+      "rotulo": "Câmbio médio anual",
+      "valor": 5.15,
+      "unidade": "R$/US$",
+      "periodo": "2026 (jan–set)",
+      "fonte": {
+        "nome": "Banco Central do Brasil – SGS 3697 (câmbio R$/US$, venda, média mensal)",
+        "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.3697/dados?formato=json&dataInicial=01/01/2003&dataFinal=31/12/2026",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "2011",
+        "valor": 1.67
       }
     }
   ],
@@ -434,30 +679,28 @@
     "diesel-preco-anual",
     "gasolina-litros-por-salario-minimo",
     "petrobras-lucro-anual",
-    "petrobras-dividendos-anual"
+    "petrobras-dividendos-anual",
+    "diesel-s500-preco-anual",
+    "etanol-preco-anual",
+    "gnv-preco-anual",
+    "brent-anual"
   ],
   "mitos_e_fatos": [
     {
       "mito": "A Petrobras define o preço na bomba.",
-      "fato": "A Petrobras define o preço de venda nas refinarias. Em out/2026 ela vendia diesel a R$ 3,30/l e o preço médio na bomba era R$ 7,00 (S500): o resto é biodiesel, ICMS (R$ 1,17/l), tributos federais e margens de distribuição e revenda. Há ainda a Acelen e importadores, que respondem por mais de 25% do diesel.",
+      "fato": "A Petrobras define o preço de venda nas refinarias. Pela composição oficial da própria Petrobras (coleta ANP 11–17/10/2026), sua parcela é 31,9% do preço da gasolina (R$ 2,08 de R$ 6,53) e 38,6% do diesel S10 (R$ 2,83 de R$ 7,34); o resto é distribuição e revenda (28,0% / 30,0%), ICMS (24,0% / 15,9%), biocombustível (15,2% / 11,2%) e impostos federais (0,9% / 4,4%). Há ainda a Acelen e importadores, que respondem por mais de 25% do diesel.",
       "fontes": [
         {
-          "nome": "eixos – Como fica o alívio aos combustíveis com o fim da desoneração e o novo modelo de subsídio (01/06/2026)",
-          "url": "https://eixos.com.br/newsletters/comece-seu-dia/como-fica-o-alivio-aos-combustiveis-com-o-fim-da-desoneracao-e-o-novo-modelo-de-subsidio/",
-          "acesso_em": "2026-10-21",
-          "tier": "imprensa"
-        },
-        {
-          "nome": "ANP – Resumo semanal do Levantamento de Preços, 11 a 17/10/2026 (xlsx)",
-          "url": "https://www.gov.br/anp/pt-br/assuntos/precos-e-defesa-da-concorrencia/precos/arquivos-lpc/2026/resumo_semanal_lpc_2026_10_11-2026_10_17.xlsx",
+          "nome": "Petrobras – Preços de venda de combustíveis: gasolina (composição, coleta 11–17/10/2026)",
+          "url": "https://precos.petrobras.com.br/precos-gasolina",
           "acesso_em": "2026-10-21",
           "tier": "oficial"
         },
         {
-          "nome": "Diário do Comércio – ICMS da gasolina e do diesel sobe em 2026",
-          "url": "https://diariodocomercio.com.br/economia/icms-gasolina-diesel-subir-2026-veja-novos-valores/",
+          "nome": "Petrobras – Preços de venda de combustíveis: diesel (composição, coleta 11–17/10/2026)",
+          "url": "https://precos.petrobras.com.br/precos-diesel",
           "acesso_em": "2026-10-21",
-          "tier": "imprensa"
+          "tier": "oficial"
         },
         {
           "nome": "Governo Federal – Release de 09/09/2026 sobre medidas para combustíveis (PDF)",
@@ -586,6 +829,42 @@
           "tier": "imprensa"
         }
       ]
+    },
+    {
+      "mito": "A gasolina encareceu em 2026 porque a Petrobras está pagando multa aos Estados Unidos.",
+      "fato": "Falso, segundo checagem do Aos Fatos (16/04/2026). A alta de março de 2026 acompanhou o Brent, que saltou de US$ 70,89 (fev) para US$ 103,13 (mar) e US$ 117,29 (abr) com a guerra no Oriente Médio.",
+      "fontes": [
+        {
+          "nome": "Aos Fatos – Não é verdade que gasolina encareceu porque Petrobras está pagando multa aos EUA (16/04/2026)",
+          "url": "https://www.aosfatos.org/noticias/gasolina-petrobras-multa-eua/",
+          "acesso_em": "2026-10-21",
+          "tier": "checagem"
+        },
+        {
+          "nome": "EIA – Europe Brent Spot Price FOB, média mensal (xls)",
+          "url": "https://www.eia.gov/dnav/pet/hist_xls/RBRTEm.xls",
+          "acesso_em": "2026-10-21",
+          "tier": "oficial"
+        }
+      ]
+    },
+    {
+      "mito": "A gasolina brasileira é a mais cara da história porque o petróleo nunca esteve tão alto.",
+      "fato": "O Brent médio de 2026 até setembro (US$ 93,27) ainda é inferior ao de 2011–2013 (US$ 108–112). O que mudou foi o câmbio: cerca de R$ 5,15 por dólar em 2026 contra R$ 1,67 em 2011, o que explica o preço recorde em reais com petróleo abaixo do pico histórico.",
+      "fontes": [
+        {
+          "nome": "EIA – Europe Brent Spot Price FOB, média anual (xls)",
+          "url": "https://www.eia.gov/dnav/pet/hist_xls/RBRTEa.xls",
+          "acesso_em": "2026-10-21",
+          "tier": "oficial"
+        },
+        {
+          "nome": "Banco Central do Brasil – SGS 3697 (câmbio R$/US$, venda, média mensal)",
+          "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.3697/dados?formato=json&dataInicial=01/01/2003&dataFinal=31/12/2026",
+          "acesso_em": "2026-10-21",
+          "tier": "oficial"
+        }
+      ]
     }
   ],
   "perguntas_frequentes": [
@@ -603,11 +882,15 @@
     },
     {
       "pergunta": "Por que o diesel subiu mais que a gasolina em 2026?",
-      "resposta": "O diesel S10 subiu 20,5% e a gasolina 5,5% entre o início de janeiro e o início de outubro de 2026. Mais de 25% do diesel é importado e, portanto, segue o preço internacional, que disparou com o Brent acima de US$ 100; as subvenções ao diesel foram sucessivamente ampliadas (R$ 0,32 → 0,80 → 1,12 → 2,12/l)."
+      "resposta": "O diesel S10 subiu 20,5% e a gasolina 5,5% entre o início de janeiro e o início de outubro de 2026. Mais de 25% do diesel é importado e, portanto, segue o preço internacional, que disparou com o Brent acima de US$ 100; as subvenções ao diesel foram sucessivamente ampliadas (R$ 0,32 → 0,80 → 1,12 → 2,12/l). Em médias anuais da ANP, de 2003 a 2025 o diesel S500 subiu 319,3% e a gasolina 200,9% (IPCA: 232,1%)."
     },
     {
       "pergunta": "A Petrobras dá prejuízo?",
       "resposta": "Não nos anos recentes: lucrou R$ 110,1 bi em 2025, R$ 36,6 bi em 2024, R$ 124,6 bi em 2023 e R$ 188,3 bi em 2022 (recorde). Os únicos prejuízos da série citada foram em 2014 (R$ 21,6 bi) e 2015 (R$ 34,8 bi)."
+    },
+    {
+      "pergunta": "Quanto de etanol tem na gasolina?",
+      "resposta": "32% desde 01/08/2026 (E32), por resolução temporária do CNPE (9/2026) de 180 dias prorrogáveis; antes era 30% (E30, desde 01/08/2025). A Lei 14.993/2024 permite de 22% a 35%. No diesel, a mistura é de 15% de biodiesel (B15) desde 01/08/2025; o B16 previsto para 01/03/2026 não foi confirmado em ato do CNPE e a Petrobras ainda calcula com B15."
     }
   ],
   "fontes": [
@@ -844,15 +1127,105 @@
       "url": "https://eixos.com.br/newsletters/comece-seu-dia/conta-das-subvencoes-cresce-diesel-importado-bate-recorde-petrobras-ja-recebeu-quase-r-10-bi/",
       "acesso_em": "2026-10-21",
       "tier": "imprensa"
+    },
+    {
+      "nome": "Petrobras – Preços de venda de combustíveis: gasolina (composição, coleta 11–17/10/2026)",
+      "url": "https://precos.petrobras.com.br/precos-gasolina",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Petrobras – Preços de venda de combustíveis: diesel (composição, coleta 11–17/10/2026)",
+      "url": "https://precos.petrobras.com.br/precos-diesel",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "ANP – Série histórica do levantamento de preços (médias mensais Brasil)",
+      "url": "https://www.gov.br/anp/pt-br/assuntos/precos-e-defesa-da-concorrencia/precos/precos-revenda-e-de-distribuicao-combustiveis/serie-historica-do-levantamento-de-precos",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Banco Central do Brasil – SGS 1619 (salário mínimo)",
+      "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.1619/dados?formato=json",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Banco Central do Brasil – SGS 3697 (câmbio R$/US$, venda, média mensal)",
+      "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.3697/dados?formato=json&dataInicial=01/01/2003&dataFinal=31/12/2026",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "EIA – Europe Brent Spot Price FOB, média anual (xls)",
+      "url": "https://www.eia.gov/dnav/pet/hist_xls/RBRTEa.xls",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "EIA – Europe Brent Spot Price FOB, média mensal (xls)",
+      "url": "https://www.eia.gov/dnav/pet/hist_xls/RBRTEm.xls",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "MME – Resoluções do CNPE 2025 (Res. 8 e 9/2025: B15 e E30)",
+      "url": "https://www.gov.br/mme/pt-br/assuntos/conselhos-e-comites/cnpe/resolucoes-do-cnpe/2025",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "ANP – Biodiesel (teor obrigatório de mistura)",
+      "url": "https://www.gov.br/anp/pt-br/assuntos/producao-e-fornecimento-de-biocombustiveis/biodiesel",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "CNPE – Resolução nº 9, de 14/07/2026 (E32 temporário; DOU 30/07/2026) (PDF)",
+      "url": "https://www.gov.br/mme/pt-br/assuntos/conselhos-e-comites/cnpe/resolucoes-do-cnpe/2026/resolucao-9-dou.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "MME – Resoluções do CNPE 2026",
+      "url": "https://www.gov.br/mme/pt-br/assuntos/conselhos-e-comites/cnpe/resolucoes-do-cnpe/2026",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Aos Fatos – Não é verdade que gasolina encareceu porque Petrobras está pagando multa aos EUA (16/04/2026)",
+      "url": "https://www.aosfatos.org/noticias/gasolina-petrobras-multa-eua/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Aos Fatos – Posts distorcem proposta para aumentar mistura de álcool na gasolina (14/04/2026)",
+      "url": "https://aosfatos.org/noticias/proposta-aumentar-mistura-alcool-gasolina/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Comprova – Entenda as políticas de preços da Petrobras (24/05/2023)",
+      "url": "https://projetocomprova.com.br/publicações/entenda-as-politicas-de-preco-da-petrobras/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Comprova – Contenção de preços de combustíveis até eleição não foi admitida 'oficialmente' pela Petrobras, como afirma Janones (29/10/2022)",
+      "url": "https://projetocomprova.com.br/publicações/contencao-de-precos-de-combustiveis-ate-eleicao-nao-foi-admitida-oficialmente-pela-petrobras-como-afirma-janones/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/06_energia_eletrobras_combustiveis.md",
   "atualizado_em": "2026-10-21",
   "lacunas": [
-    "Decomposição oficial atualizada do preço (Petrobras 'Composição de preços', out/2026, com percentual de cada parcela) não foi aberta; por isso 'composicao' está vazia e só há valores em R$/l.",
     "Datas da lista de presidentes da Petrobras vêm da Wikipédia; a saída de Castello Branco (anúncio 19/02/2021 vs. assembleia 13/04/2021) não foi confirmada em fonte primária.",
     "Dia exato da adoção do PPI (out/2016) e do seu fim (mai/2023) não constam das notas; a linha do tempo marca o mês.",
-    "Data exata de adoção do E30 e do B15 pelo CNPE não confirmada.",
-    "A associação país-valor no ranking da GlobalPetrolPrices foi feita pela ordem da lista, pois a página não rotula cada valor."
+    "A associação país-valor no ranking da GlobalPetrolPrices foi feita pela ordem da lista, pois a página não rotula cada valor.",
+    "A composição oficial da Petrobras (out/2026) ainda calcula com 30% de etanol e 15% de biodiesel, embora o E32 vigore desde 01/08/2026; o B16 (previsto para 01/03/2026 na Lei 14.993) não foi confirmado em ato do CNPE.",
+    "A página da Petrobras traz a composição da gasolina e do diesel S10; a do diesel S500 não consta da nota."
   ]
 }

@@ -1,0 +1,89 @@
+{
+  "id": "bolsa-familia-valor-pago-anual",
+  "titulo": "Bolsa Família / Auxílio Brasil: valor pago por ano (benefícios)",
+  "descricao_simples": "Soma dos benefícios pagos às famílias em cada ano, segundo o Portal da Transparência; não inclui custos administrativos nem benefícios extraordinários fora da série.",
+  "unidade": "R$ bilhões",
+  "tipo_grafico": "barra",
+  "frequencia": "anual",
+  "fonte": {
+    "nome": "Ipeadata, série mensal VAL_PBF12 (origem MDS/Portal da Transparência); soma anual na nota",
+    "url": "http://www.ipeadata.gov.br/api/odata4/ValoresSerie(SERCODIGO='VAL_PBF12')",
+    "acesso_em": "2026-10-21",
+    "tier": "oficial"
+  },
+  "pontos": [
+    {
+      "periodo": "2013",
+      "valor": 24.9
+    },
+    {
+      "periodo": "2014",
+      "valor": 27.2
+    },
+    {
+      "periodo": "2015",
+      "valor": 27.7
+    },
+    {
+      "periodo": "2016",
+      "valor": 28.5
+    },
+    {
+      "periodo": "2017",
+      "valor": 29.0
+    },
+    {
+      "periodo": "2018",
+      "valor": 30.6
+    },
+    {
+      "periodo": "2019",
+      "valor": 31.2
+    },
+    {
+      "periodo": "2020",
+      "valor": 32.0
+    },
+    {
+      "periodo": "2021",
+      "valor": 33.6
+    },
+    {
+      "periodo": "2022",
+      "valor": 69.6
+    },
+    {
+      "periodo": "2023",
+      "valor": 150.8
+    },
+    {
+      "periodo": "2024",
+      "valor": 161.5
+    },
+    {
+      "periodo": "2025",
+      "valor": 157.1
+    },
+    {
+      "periodo": "2026 (jan–ago)",
+      "valor": 102.9,
+      "parcial": true,
+      "ago_2026": 12.76
+    }
+  ],
+  "faixas_referencia": [],
+  "notas_metodologicas": [
+    "Valores de benefícios pagos, menores que a despesa orçamentária do programa (R$ 170,4 bi em 2023; R$ 168,2 bi em 2024, ver bolsa-familia-custo), que inclui outros custos e benefícios extraordinários; a diferença deve ser sinalizada antes de publicar.",
+    "2022 inclui o Auxílio Brasil com piso de R$ 400 (jan–jul) e R$ 600 (ago–dez). 2021 inclui Bolsa Família (jan–out) e Auxílio Brasil (nov–dez)."
+  ],
+  "lacunas": [
+    "Anos 2004–2012 da série anual não somados na nota (apenas dezembros em bolsa-familia-familias)."
+  ],
+  "ultimo_periodo": "2026 (jan–ago)",
+  "temas": [
+    "pobreza-programas-sociais",
+    "contas-publicas"
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/03_emprego_renda_pobreza_social.md",
+  "atualizado_em": "2026-10-21"
+}

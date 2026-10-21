@@ -144,6 +144,54 @@
         "rotulo": "2019",
         "valor": 508
       }
+    },
+    {
+      "rotulo": "Benefício médio em dezembro (Portal da Transparência/MDS, cálculo da nota)",
+      "valor": 190.79,
+      "unidade": "R$",
+      "periodo": "dez/2019",
+      "fonte": {
+        "nome": "Ipeadata – VAL_PBF, valor pago pelo Bolsa Família em dezembro (MDS/Portal da Transparência)",
+        "url": "http://www.ipeadata.gov.br/api/odata4/ValoresSerie(SERCODIGO='VAL_PBF')",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "dez/2020",
+        "valor": 191.31
+      }
+    },
+    {
+      "rotulo": "Benefício médio em dezembro (Portal da Transparência/MDS)",
+      "valor": 654.64,
+      "unidade": "R$",
+      "periodo": "dez/2023 (novo Bolsa Família)",
+      "fonte": {
+        "nome": "Ipeadata – VAL_PBF, valor pago pelo Bolsa Família em dezembro (MDS/Portal da Transparência)",
+        "url": "http://www.ipeadata.gov.br/api/odata4/ValoresSerie(SERCODIGO='VAL_PBF')",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "dez/2025",
+        "valor": 677.43
+      }
+    },
+    {
+      "rotulo": "Benefício médio oficial",
+      "valor": 678.35,
+      "unidade": "R$",
+      "periodo": "ago/2026",
+      "fonte": {
+        "nome": "Agência Gov/MDS – Pagamento do Bolsa Família de agosto começa nesta terça-feira (18/08/2026)",
+        "url": "https://agenciagov.ebc.com.br/noticias/202608/pagamento-do-bolsa-familia-de-agosto-comeca-nesta-terca-feira-18",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "Projetado após o reajuste de out/2026",
+        "valor": 777
+      }
     }
   ],
   "series": [
@@ -161,6 +209,12 @@
       "veredito_original": "EXAGERADO ('elevou a R$ 600', debate Band)",
       "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
       "data": "2026-10-18"
+    },
+    {
+      "veiculo": "Aos Fatos",
+      "veredito_original": "Frase repetida por Flávio na entrevista à Globo ('triplicou de R$ 190 para R$ 600'), já classificada como EXAGERADO pela Lupa",
+      "url": "https://www.aosfatos.org/noticias/checamos-flavio-bolsonaro-globo-segundo-turno/",
+      "data": "2026-10-16"
     }
   ],
   "fontes": [
@@ -193,6 +247,18 @@
       "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
       "acesso_em": "2026-10-21",
       "tier": "checagem"
+    },
+    {
+      "nome": "Ipeadata – VAL_PBF, valor pago pelo Bolsa Família em dezembro (MDS/Portal da Transparência)",
+      "url": "http://www.ipeadata.gov.br/api/odata4/ValoresSerie(SERCODIGO='VAL_PBF')",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Agência Gov/MDS – Pagamento do Bolsa Família de agosto começa nesta terça-feira (18/08/2026)",
+      "url": "https://agenciagov.ebc.com.br/noticias/202608/pagamento-do-bolsa-familia-de-agosto-comeca-nesta-terca-feira-18",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/03_emprego_renda_pobreza_social.md",
@@ -215,11 +281,18 @@
     "bolsa-familia-4-anos-sem-reajuste",
     "bolsa-familia-reajustado-uma-semana-antes-do-segundo-turno"
   ],
+  "lacunas": [
+    "A série do Portal da Transparência para dez/2021 e dez/2022 (média implícita de R$ 224,97 e R$ 380,94) não inclui o benefício extraordinário que completava o piso de R$ 400/R$ 600; usar os pisos legais para a comparação."
+  ],
   "atualizado_em": "2026-10-21",
   "changelog": [
     {
       "data": "2026-10-21",
       "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "enriquecimento rodada 2: benefício médio oficial em dezembro de cada ano (MDS/Portal da Transparência), ago/2026, Aos Fatos 16/10"
     }
   ],
   "exemplo": false

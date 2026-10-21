@@ -361,3 +361,262 @@ O PL recebeu R$ 881,7 mi do Fundo Eleitoral (17,77%) e o PT R$ 615,4 mi (12,4%).
 
 ### Gaps
 - Totais finais e despesas de ambas as campanhas (prestação final) não disponíveis; receita total de Lula nos dois turnos não encontrada em fonte acessível (DivulgaCandContas não consultado diretamente).
+
+---
+
+## Enriquecimento — rodada 2 (21/10/2026)
+
+Nota metodológica da rodada: esta rodada priorizou fontes primárias acessadas diretamente — API de dados abertos do Senado (votações nominais do senador 5894 e listas de votação do Plenário), arquivos abertos do TSE (`bem_candidato_2026/2022/2018` e `consulta_cand`, baixados de cdn.tse.jus.br em 21/10/2026, versão gerada em 21/10/2026 11h32) e Senado Notícias. O portal DivulgaCandContas (REST) devolveu 403 (Akamai), assim como tse.jus.br/comunicacao, g1.globo.com, noticias.uol.com.br, checamos.afp.com, estadao.com.br, pt.org.br e bpmoney em parte; nesses casos foram usadas republicações (A Crítica/Agência Estado, Viva/Broadcast, Imirante/g1, O Hoje, Jornal de Brasília/Folhapress). O orçamento de buscas na web esgotou-se no meio da rodada; as lacunas residuais estão listadas ao final. Tudo abaixo é acréscimo; nada do texto anterior foi alterado.
+
+### Lacunas fechadas
+
+**1. Votos nominais de Flávio Bolsonaro no Senado (fonte primária: dados abertos do Senado, consultados em 21/10/2026)**
+Fonte-base: `https://legis.senado.leg.br/dadosabertos/senador/5894/votacoes.json?ano=AAAA` (o parâmetro `ano` filtra pelo ano da matéria, não da sessão) e `https://legis.senado.leg.br/dadosabertos/plenario/lista/votacao/AAAAMMDD.json` (listas de Plenário com voto por senador). Placares abaixo são contagem própria dos registros individuais da lista de Plenário; onde a lista não pôde ser baixada, consta só o voto individual.
+
+| Matéria | Data da sessão | Voto de Flávio | Placar registrado na base (contagem própria) | Observação |
+|---|---|---|---|---|
+| Arcabouço fiscal — PLP 93/2023 (texto-base, "nos termos do parecer, ressalvados os destaques") | 21/06/2023 | **NÃO** | 57 Sim x 17 Não (+2 presentes sem voto, 1 missão, 3 licença, presidente) | A base do Senado grafa a votação do texto-base como "PLP nº 39, de 2023" (mesmo código de sessão 8463489 das emendas destacadas ao PLP 93); tratado como erro de digitação. Nas emendas destacadas: SIM às emendas 83 e 89 (rejeitadas) e NÃO à 101 (rejeitada). O placar divulgado pela imprensa à época não foi reconferido nesta rodada; a divergência entre a contagem da base e eventuais placares de painel fica registrada. Fonte: `https://legis.senado.leg.br/dadosabertos/plenario/lista/votacao/20230621.json` |
+| Política de valorização do salário mínimo — PL 2.236/2023 (Lei 14.663/2023) | ago/2023 | **sem registro de votação nominal** | — | Não consta nenhuma votação nominal com essa matéria na lista de votações nominais do senador (anos de matéria 2023). A ausência indica aprovação sem painel (simbólica); a modalidade não foi confirmada em Senado Notícias nesta rodada. Fonte: `.../senador/5894/votacoes.json?ano=2023` |
+| Pé-de-Meia — PL 5.230/2023 (Lei 14.818/2024) | dez/2023 | **sem registro de votação nominal** | — | Idem: nenhuma votação nominal com a matéria na lista do senador. Fonte: `.../senador/5894/votacoes.json?ano=2023` |
+| Reforma tributária — PEC 45/2019, 2º turno | 08/11/2023 | **NÃO** | 53 Sim x 24 Não (+3 AP, presidente) | Confirma o registro da nota (53x24). Em 07/11/2023 votou NÃO ao RQS 988/2023 (calendário especial para a PEC 45). No 1º turno (Emenda 803, substitutivo) também NÃO; SIM às emendas destacadas 805 e 806 (rejeitadas). Fonte: `https://legis.senado.leg.br/dadosabertos/plenario/lista/votacao/20231108.json` |
+| Regulamentação da reforma — PLP 68/2024 (Emenda 2.171, substitutivo) | 12/12/2024 | **NÃO** | 49 x 19 segundo Senado Notícias (lista individual não publicada pela agência) | Nas emendas destacadas: NÃO à 2.203; SIM às 2.201 e 2.223 (rejeitadas). Senado Notícias registra que Flávio defendeu emenda para devolver armas e munições ao Imposto Seletivo, derrotada por 33 a 32 (precisava de 41): "O marginal compra arma em loja? Sabe quanto o Estado do Rio de Janeiro arrecadou de ICMS com [apreensão de fuzis]? Zero." — [Senado Notícias 12/12/2024](https://www12.senado.leg.br/noticias/materias/2024/12/12/reforma-tributaria-aprovado-o-texto-base-da-regulamentacao-sobre-consumo) (acessado diretamente; a nota anterior o citava via flaviomente.com) |
+| Isenção do IR até R$ 5 mil — PL 1.087/2025 (Lei 15.270/2025) | 05/11/2025 | **sem registro de votação nominal** | "votação unânime" (Senado Notícias) | Nenhuma votação nominal com a matéria na lista do senador (anos de matéria 2025). Senado Notícias não informa a modalidade; cita só o relator Renan Calheiros e a crítica de Izalci Lucas (PL-DF) à falta de correção anual da tabela — [Senado Notícias 06/11/2025](https://www12.senado.leg.br/noticias/audios/2025/11/em-votacao-unanime-plenario-isenta-do-ir-quem-ganha-ate-r-5-mil). Logo, a frase da nota "registro nominal individual não localizado" passa a "não existe registro nominal; aprovação sem painel" |
+| Lei Antifacção — PL 5.582/2025 (Emenda 117, substitutivo), depois Lei 15.358/2026 | 10/12/2025 | **SIM** | 64 Sim x 0 Não (+6 presentes sem voto, 6 AP, 1 não compareceu, 3 licença, presidente) | Fonte: `https://legis.senado.leg.br/dadosabertos/plenario/lista/votacao/20251210.json` |
+| Lei da Dosimetria — PL 2.162/2023 | 17/12/2025 | **SIM** | (nota anterior: 48x25, Gazeta do Povo) | Confirmado no registro individual: `.../senador/5894/votacoes.json?ano=2023` |
+| PEC 6x1 — PEC 221/2019, 1º e 2º turnos | 14/10/2026 | **SIM** nos dois turnos | lista de Plenário de 14/10 não pôde ser baixada (conexão interrompida); placar 75x1 permanece com a fonte de imprensa já citada | Fonte do voto individual: `https://legis.senado.leg.br/dadosabertos/senador/5894/votacoes.json?ano=2019` |
+| PEC da Segurança Pública | até 21/10/2026 | **sem registro de votação nominal** | — | Nenhuma votação nominal de PEC sobre segurança pública consta nas listas do senador para matérias de 2023 a 2026. Não foi possível confirmar nesta rodada se a PEC foi votada no Plenário do Senado por outro rito ou se ainda não foi votada. |
+| Reforma da Previdência — PEC 6/2019 | 01/10/2019 (1º turno) e 22/10/2019 (2º turno) | **SIM** nos dois turnos | (nota anterior: 60x19 no 2º turno) | Votou NÃO em 23/10/2019 à emenda de aposentadoria especial por agentes nocivos (rejeitada) e NÃO em 19/11/2019 à emenda à PEC 133/2019 (rejeitada). Fonte: `.../senador/5894/votacoes.json?ano=2019` |
+| Anistia de dívidas de MEI — PLP 186/2026 (o "anistiei R$ 12,6 bi dos MEI" de Lula) | 15/10/2026 | **SIM** | 78 Sim x 0 Não | Correção de data: a nota registrava aprovação em 16/10; a sessão de votação nominal é de 15/10/2026. Fonte: `https://legis.senado.leg.br/dadosabertos/plenario/lista/votacao/20261015.json` |
+| Indicação de Jorge Messias ao STF (Mensagem 7/2026) | 29/04/2026 | votação secreta ("Votou") | 34 Sim x 42 Não — rejeitada | Confirma o registro da nota (seção 2, "Messias rejeitado pelo Senado"). Fonte: `.../senador/5894/votacoes.json?ano=2026` |
+
+**2. Itens de 2000–2022 da trajetória de Flávio, antes sustentados apenas por flaviomente.com, agora reverificados**
+- Cargo na Câmara aos 19 anos: a apuração original é da BBC News Brasil (republicada pelo Terra em 08/10/2026): "assistente técnico de gabinete" na liderança do PPB, nomeado em dez/2000 uma semana depois da saída de Ana Cristina Siqueira Valle (então esposa de Jair Bolsonaro) do mesmo posto; recebeu R$ 56.548,63 só em 2001 (~R$ 13,5 mil mensais atualizados); "quase dois anos" no cargo; frequência anotada mensalmente pela chefia; declarava atividades no Rio no período; a assessoria "se recusou a responder qualquer questionamento" — [Terra/BBC 08/10/2026](https://www.terra.com.br/diversao/gente/como-flavio-bolsonaro-conseguiu-um-cargo-de-r-135-mil-na-camara-aos-19-anos,c857a24ce972f07145daa2a07655c357la0md1wc.html). Correção: a nota dizia "nomeado aos 19 anos (dez/2000–2002)"; a fonte não dá a data exata de saída, só "quase dois anos".
+- CPI da Pandemia (20/10/2021): confirmado diretamente em Senado Notícias que o relatório recomenda indiciamento de "o senador Flávio Bolsonaro (Patriota-RJ)" por "incitação ao crime (artigo 286 do Código Penal)", ao lado de Bia Kicis, Carla Zambelli, Carlos Jordy, Eduardo Bolsonaro, Ricardo Barros, Osmar Terra e Carlos Bolsonaro; trata-se de recomendação, não de indiciamento formalizado — [Senado Notícias 20/10/2021](https://www12.senado.leg.br/noticias/materias/2021/10/20/cpi-da-pandemia-principais-pontos-do-relatorio).
+- Obstrução da PEC 6x1 em set/2026: Agência Brasil (02/09/2026) registra que a base do governo não levou a PEC 221/2019 ao Plenário por insegurança sobre os 49 votos; Randolfe Rodrigues atribuiu o esvaziamento a "movimento bem sucedido da oposição", com participação direta de Flávio Bolsonaro e Rogério Marinho — relato de Randolfe, não verificado de forma independente pela agência; Flávio estava ausente na CCJ quando a PEC foi aprovada e não respondeu — [Agência Brasil 02/09/2026](https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/senado-oposicao-obstrui-e-fim-da-escala-6x1-nao-vai-plenario) (acessado diretamente).
+- Novo item da Alerj, 2009: Flávio foi o único deputado a votar contra o projeto de Inês Pandeló (PT) que permitiu ao Estado recolher armas de agentes de segurança suspeitos de violência doméstica sem esperar decisão judicial definitiva (Lei estadual 5.402/2009); justificou-se pelo "direito à ampla defesa e ao contraditório" dos policiais — [TVT News 16/10/2026, com base em apuração da Folha](https://tvtnews.com.br/flavio-contra-restricao-arma-policiais-violencia-domestica/). Sem placar nem registro primário da Alerj na matéria.
+- Licença-maternidade (2009): a Sociedade Brasileira de Pediatria registrou em 09/06/2009 que a Alerj votaria naquele dia projeto que incluía no Estatuto dos Servidores "a ampliação do benefício de quatro para seis meses, prorrogáveis por mais três em caso de aleitamento materno" — [SBP 09/06/2009](https://www.sbp.com.br/alerj-estuda-licencao-para-maes/). O resultado nominal (45 a 1, "único de 49") continua sem fonte primária da Alerj acessível; as coberturas do debate (Agência Estado via A Crítica, 18/10/2026; BPMoney, 18/10/2026) apenas reproduzem a afirmação de Lula — [A Crítica/AE 18/10](https://acritica.net/politica/debate-lula-flavio-licenca-maternidade-2009-alerj/); [BPMoney 18/10](https://bpmoney.com.br/?p=428131). Permanece em "Lacunas".
+
+**3. G1 Fato ou Fake, UOL Confere, AFP Checamos e Estadão Verifica**
+- Os quatro sites continuaram inacessíveis (bloqueio de fetch). Republicações encontradas: A Crítica (17/10/2026) reproduz três vereditos do **UOL Confere** sobre a sabatina de Flávio na Globo (16/10): (a) exemplo da "mulher com a Bíblia" como prova de que não houve golpe — "classificou essa afirmação como falsa" (investigações apontaram organização e uso de "armas brancas"); (b) prestação de contas do Dark Horse já entregue — "classificada como falsa" (cerca de R$ 134 mi pedidos, ao menos R$ 61 mi transferidos por Vorcaro); (c) governo Bolsonaro cortou milhares de comissionados — "contestado pelo UOL Confere" (comissionados subiram de 31,8 mil em 2019 para 46,2 mil em 2022). A mesma matéria aponta, com dados do Inpe, que a afirmação de que out/2026 teve o maior número de queimadas da história não se sustenta (9.544 focos na Amazônia até 15/10 x 28.731 em out/2007) — [A Crítica 17/10/2026](https://acritica.net/noticias/em-sabatina-flavio-nao-explica-propostas-e-cita-acusacoes-falsas/).
+- Simetria: nenhuma republicação de G1/UOL/AFP/Estadão Verifica sobre falas de Lula na sabatina da Globo (15/10) foi localizada nesta rodada além das já citadas (Polêmica Paraíba para o debate da Band).
+
+**4. Representações no TSE — contagens disponíveis (o total oficial continua em aberto)**
+- Jan–abr/2026: 59 representações recebidas pelo TSE sobre a eleição presidencial (14 no mesmo período de 2022); PL com 26, Federação Brasil da Esperança com 21 (em 2022: PT 8, PL 1); >90% sobre propaganda antecipada; ao menos 6 citando deepfakes/IA; 24 originadas de redes sociais; todas com a ministra Estela Aranha; até então o Plenário só havia julgado os casos do desfile da Acadêmicos de Niterói (pedidos do Novo e do Missão contra Lula/PT rejeitados). Casos citados: vídeo do PL "A Grande Quadrilha" (IA retratando Lula, Janja e Fábio Luís como organização criminosa), personagem "Dona Maria", "Picanha 01" (PT contra Flávio, produto com faixa presidencial) e "TH Joias" (PL contra posts ligando Flávio a criminoso) — [BPMoney 17/05/2026, citando g1](https://bpmoney.com.br/?p=401521).
+- 29/08/2026: Federação Brasil da Esperança protocola 4 representações: Festa do Peão de Barretos como "showmício" (pede cassação do registro e inelegibilidade de Flávio); vídeos com IA de Flávio/Lucas Pavanato, compartilhados por Zema, associando Lula à criminalidade (19,6 mi de visualizações, segundo a petição); falas de Flávio e Caiado ligando governo/PT a organizações criminosas e narcotráfico — [O Hoje 30/08/2026](https://ohoje.com/2026/08/30/campanha-de-lula-aciona-tse-contra-flavio-bolsonaro-caiado-e-zema-por-publicacoes-e-atos-eleitorais/).
+- 22/09/2026: campanha de Flávio protocola representação por conduta vedada (eventos de Lula em 17 e 18/9 divulgados por canais oficiais — Eurofarma/Montes Claros, "Essa canetinha vai ser utilizada para cuidar, de graça, para as pessoas que tenham obesidade", e PRF/Rio com menção a Bolsonaro e ao 8/1); "Segundo a campanha de Flávio, trata-se da 14ª representação do senador contra Lula" — contagem da própria campanha, sem verificação independente — [Viva/Broadcast 22/09/2026](https://viva.com.br/politica/flavio-aciona-tse-contra-lula-por-evento-com-promessa-de-canetas-emagracedoras.html).
+- Um levantamento do Estadão com 87 representações entre janeiro e maio apareceu em resumo de busca, mas a matéria não foi acessada; não incorporado como fato.
+
+**5. Falas de aliados (Gleisi, Janja, Alckmin, Boulos, Lindbergh, Valdemar, Michelle) — o que as agências checaram em 2026**
+Busca interna da Lupa (primeira página de resultados, ordem cronológica decrescente, consultada em 21/10/2026):
+- Gleisi Hoffmann: resultado mais recente de 02/12/2025; nenhuma checagem de 2026 a menciona — [Lupa busca](https://www.agencialupa.org/?s=Gleisi+Hoffmann). Aos Fatos: nenhuma manchete de 2026 com Gleisi — [Aos Fatos busca](https://www.aosfatos.org/noticias/?q=Gleisi).
+- Valdemar Costa Neto: nenhum resultado de 2026 na Lupa — [Lupa busca](https://www.agencialupa.org/?s=Valdemar).
+- Janja: seis checagens de 2026, todas sobre conteúdos *contra* ela (não falas dela): carro atacado com ovos — FALSO (04/10); "rituais satânicos" (reportagem, 03/10); capas falsas de Veja/GloboNews com IA (02/10); "nem Deus tira de Lula essa eleição" — falsa reportagem (02/10); R$ 7,35 bi em viagens — FALSO (25/09); vídeo de Ratinho acusando-a de receber R$ 10 mi do Master — FALSO (25/03) — [Lupa busca Janja](https://www.agencialupa.org/?s=Janja); [25/09](https://www.agencialupa.org/jornalismo/2026/09/25/e-falso-que-lula-gastou-r-735-bilhoes-em-viagens-com-janja/); [04/10](https://www.agencialupa.org/verificacao/2026/10/04/video-nao-mostra-carro-de-janja-atacado-com-ovos/).
+- Michelle Bolsonaro: resultado mais recente de 27/03/2026; itens de 2026 só sobre vídeos antigos (forró, 14/01) e sobre Jair; nenhuma checagem de fala dela sobre Lula — [Lupa busca](https://www.agencialupa.org/?s=Michelle+Bolsonaro).
+- Boulos: uma checagem de 2026 — "governo quer taxar entregadores em R$ 10 por corrida" — FALSO (18/03), vídeo em que ele aparece; nada sobre Flávio — [Lupa 18/03](https://www.agencialupa.org/verificacao/2026/03/18/e-falso-que-governo-queira-taxar-entregadores-em-r-10-por-corrida/).
+- Alckmin: uma checagem de 2026 — "discutiu com Paglia no Roda Viva" — FALSO (20/05); nada sobre Flávio — [Lupa 20/05](https://www.agencialupa.org/jornalismo/2026/05/20/e-falso-que-alckmin-tenha-discutido-com-paglia-no-roda-viva/).
+- Lindbergh Farias: citado em "É falso que o FBI pediu a prisão de Flávio Bolsonaro por ligação com facções" (03/06), como o deputado que foi à Interpol pedir investigação de Flávio — [Lupa 03/06](https://www.agencialupa.org/verificacao/2026/06/03/e-falso-que-o-fbi-pediu-a-prisao-de-flavio-bolsonaro-por-ligacao-com-faccoes/).
+- Conclusão simétrica: em 2026, as agências checaram boatos *sobre* Janja e Michelle e falas *de* Nikolas, Derrite, Daniella Marques, Haddad e Janones; não há checagem localizada de fala de Gleisi, Valdemar, Alckmin, Boulos ou Lindbergh sobre o adversário.
+
+**6. Dark Horse — reconciliação das cifras (R$ 61 mi / R$ 134 mi / US$ 12,3 mi)**
+| Cifra | O que é | Fonte/data |
+|---|---|---|
+| US$ 24 mi ≈ R$ 134 mi | valor negociado por Flávio com Vorcaro para o filme | [O Povo 23/07/2026](https://www.opovo.com.br/noticias/politica/2026/07/23/andre-mendonca-autoriza-inquerito-sobre-repasses-para-dark-horse-filme-sobre-jair-bolsonaro.html) |
+| ≥ US$ 10,6 mi ≈ R$ 61 mi ("na cotação da época") | valor efetivamente transferido por Vorcaro ao fundo Havengate (apuração do Intercept) | O Povo 23/07; [O Hoje 11/09/2026](https://ohoje.com/2026/09/11/mendonca-inclui-flavio-bolsonaro-em-investigacao-sobre-financiamento-de-dark-horse/) ("pouco mais de US$ 12 milhões" via Entre Investimentos e Participações) |
+| US$ 12,3 mi (sete transferências, fev–set/2025) | repasses ao Havengate (Texas) segundo a delação de Antonio Carlos Freixo Júnior ("Mineiro"), operador de Vorcaro, homologada por Mendonça em 09/09/2026 | [Times Brasil 09/09/2026](https://timesbrasil.com.br/brasil/mendonca-homologa-delacao-de-mineiro-operador-de-vorcaro-que-movimentou-us-123-milhoes-para-fundo-ligado-a-dark-horse/) |
+| R$ 75 mi | gasto total da produção segundo laudo da produtora Karina Gama (Go Up) à Justiça, todo oriundo do Havengate | O Povo 23/07 |
+- O inquérito foi aberto a pedido da PF, com parecer favorável da PGR, autorizado por Mendonça em 23/07/2026, para "possíveis crimes de lavagem de dinheiro, evasão de divisas e corrupção"; corre em sigilo; Flávio foi incluído formalmente em set/2026 e afirma que foi "patrocínio privado para uma produção privada"; prometeu em 19/05 divulgar planilha em 30 dias e não divulgou (O Povo) — O Povo 23/07; O Hoje 11/09. Correção à nota: a faixa "R$ 61–65,7 mi" atribuída a Karina Gama não aparece nessas fontes; o que a produtora declarou à Justiça foi gasto de R$ 75 mi. Os autos do STF não são públicos (sigilo); número do inquérito não localizado.
+
+**7. Empréstimo do BRB para a casa do Lago Sul — reconstituição por documentos citados em juízo (fontes secundárias com acesso aos autos)**
+| Item | Dado | Fonte |
+|---|---|---|
+| Imóvel | casa no Lago Sul, R$ 5,97 mi (escritura; "quase R$ 6 mi") | [O Antagonista 19/11/2021, citando Metrópoles](https://oantagonista.com.br/brasil/mp-quer-que-brb-informe-se-flavio-pagou-emprestimo-de-mansao/); [Correio Braziliense 13/06/2022](https://www.correiobraziliense.com.br/politica/2022/06/5014910-escandalo-de-emprestimo.html) |
+| Financiamento | R$ 3,1 mi, 360 meses, alienação fiduciária | O Antagonista 19/11/2021; Correio 13/06/2022 |
+| Taxa | 3,65% a.a. (escritura, per O Antagonista/Metrópoles) ou 3,71% a.a. (O Globo, via JB 02/10/2026) — abaixo da média do BRB (~4,85%) | [JB 02/10/2026](https://www.jb.com.br/brasil/policia/2026/10/1061098-pf-investiga-financiamento-de-mansao-de-flavio-bolsonaro-em-brasilia.html) |
+| Data | aprovação "no final de 2020" (Correio); contrato assinado em fev/2021 (Flávio deixou a gestão da loja de chocolates "dias após a assinatura do contrato da casa") | Correio 13/06/2022; [Jornal de Brasília/Folhapress 01/05/2025](https://jornaldebrasilia.com.br/noticias/politica-e-poder/flavio-bolsonaro-disse-ganhar-r-57-mil-metade-com-chocolates-ao-fazer-emprestimo-por-mansao/) |
+| Renda declarada ao banco (autos da ação popular) | R$ 56.833,51/mês: R$ 24.934,81 (44%) salário parlamentar, R$ 3.372,87 (6%) aplicações, R$ 28.525,83 (50%) franquia de chocolates; nenhuma renda como advogado; renda presumida da esposa R$ 8.650 (Serasa); total familiar R$ 65.483,51 | Jornal de Brasília/Folhapress 01/05/2025 |
+| Renda mínima exigida | R$ 46.874,35 (Correio 13/06/2022); um resumo de busca citou R$ 46.401,25 — divergência não resolvida | Correio 13/06/2022 |
+| Pagamento do restante | venda de apartamento da família na Barra da Tijuca por R$ 2,3 mi (out/2021) | Correio 13/06/2022 |
+| Amortizações | R$ 698 mil e R$ 697 mil (nov/2022); R$ 997 mil (jan/2023); R$ 250 mil (ago/2023); R$ 199 mil (set, ano não explicitado); quitação com R$ 520,2 mil em 21/03/2024 — seis pagamentos, de R$ 198 mil a R$ 997 mil | Folhapress 01/05/2025; [Metrópoles 03/07/2024, citando Estadão](https://www.metropoles.com/colunas/grande-angular/flavio-bolsonaro-quita-antecipadamente-financiamento-de-mansao-com-brb) |
+| Ação popular | Erika Kokay (PT-DF), mar/2021, 1ª Vara Cível do TJDFT; juiz Issamu Shinozaki Filho negou pedido e liberou o BRB de fornecer dados (abr/2022); 4ª Câmara Cível pediu comprovação de renda e patrimônio (2024) | Correio 13/06/2022; Metrópoles 03/07/2024 |
+| MPDFT | promotor Eduardo Gazzinelli Veloso pediu ao BRB (26/10/2021) "simples declaração de quitação (ou não) das parcelas já vencidas"; depois concluiu: "Não prevalece a suposição de irregularidade na formação do ato" | O Antagonista 19/11/2021; Folhapress 01/05/2025 |
+| BRB | em juízo: "taxa de juros e o prazo do empréstimo estavam dentro das condições praticadas pelo mercado"; "não houve qualquer favorecimento"; "o empréstimo foi quitado e não trouxe riscos de inadimplência ao BRB ou danos ao erário" | Folhapress 01/05/2025; Metrópoles 03/07/2024 |
+| Nova frente (2026) | auditoria independente contratada pelo BRB após troca de comando apontou "supostas irregularidades na operação de crédito"; relatório entregue à PF em fevereiro; PF investiga "se houve favorecimento na concessão do empréstimo" e conexão com o caso Master/BRB | JB 02/10/2026 |
+| Flávio | "Os recursos são lícitos e fruto do suor do meu trabalho" (resumo de busca, pt.org.br, não acessado); em vídeo, atribuiu a compra à venda do imóvel anterior e à participação na loja de chocolates (JB 02/10/2026); "recursos próprios" (Metrópoles 2024) | JB 02/10/2026; Metrópoles 03/07/2024 |
+Contrato, escritura e matrícula não foram acessados diretamente.
+
+**8. Patrimônio de Lula itemizado (TSE, arquivo aberto `bem_candidato_2026_BR.csv`, SQ_CANDIDATO 280002542548, última atualização 13/10/2026 12h13)** — ver tabela completa em "Novos dados".
+
+### Correções a dados existentes
+- **Flávio não concorreu em 2022.** O arquivo `consulta_cand_2022_RJ.csv` do TSE não traz nenhum registro de "FLAVIO NANTES BOLSONARO"; seu mandato de senador (2019–2027) não estava em disputa. A última declaração anterior a 2026 é a de 2018 (SQ 190000614721, RJ). A comparação pedida "2026 vs 2022" só é possível para Lula; para Flávio, a base é 2018 — [TSE dados abertos consulta_cand](https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand/consulta_cand_2022.zip).
+- **Lula, totais exatos:** 2026 = R$ 4.775.650,64 (18 itens; a nota arredondava para R$ 4,8 mi); 2022 = R$ 7.423.725,78 (23 itens); variação nominal –35,67% (a nota trazia –35,7%, correto). Dois VGBL de 2026 = R$ 3.303.927,36 (69,2%) — [bem_candidato_2026](https://cdn.tse.jus.br/estatistica/sead/odsele/bem_candidato/bem_candidato_2026.zip); [bem_candidato_2022](https://cdn.tse.jus.br/estatistica/sead/odsele/bem_candidato/bem_candidato_2022.zip).
+- **Flávio, total e itens:** 2026 = R$ 8.186.555,83 (9 itens; confere com a nota), mas a lista da nota omitia três itens: depósitos em conta corrente "bancos diversos" R$ 568.730,23, poupança no Itaú R$ 103.746,23 e CDB no BB R$ 8.266,10 (a soma dos quatro itens listados na nota dá R$ 7.505.813,27). 2018 = R$ 1.741.758,15 (5 itens; a nota dizia R$ 1,74 mi). Variação nominal 2018→2026: +370,0% — [bem_candidato_2026](https://cdn.tse.jus.br/estatistica/sead/odsele/bem_candidato/bem_candidato_2026.zip); [bem_candidato_2018](https://cdn.tse.jus.br/estatistica/sead/odsele/bem_candidato/bem_candidato_2018.zip).
+- **Vices:** Alckmin 2026 = R$ 3.291.457,41 (22 itens) x 2022 = R$ 1.005.728,42 (7 itens), +227,3% (a nota dizia "de R$ 1 mi para R$ 3,3 mi"); Alfredo Gaspar 2026 = R$ 564.666,16 (11 itens; a nota dizia R$ 565 mil) — mesmas fontes.
+- **PLP 186/2026 (MEI):** aprovado no Senado em votação nominal de 15/10/2026 (78 Sim), não 16/10 como na seção 2 — fonte primária acima.
+- **Isenção do IR:** não há "registro nominal não localizado"; não existe votação nominal na lista do senador — a aprovação foi sem painel (Senado Notícias fala em "votação unânime", sem especificar modalidade).
+- **Dark Horse:** a cifra atribuída a Karina Gama (">90% do orçamento, ~R$ 61–65,7 mi") não consta nas fontes acessadas nesta rodada; o laudo da produtora à Justiça fala em R$ 75 mi gastos, todos vindos do Havengate (O Povo 23/07/2026). Os R$ 61 mi são a estimativa do Intercept para o que Vorcaro efetivamente transferiu (≥ US$ 10,6 mi).
+- **Cargo aos 19 anos:** a fonte original é a BBC News Brasil, não o Terra; a data de saída não é precisada ("quase dois anos").
+- **Sabatina de Flávio no JN:** a matéria da Viva/Broadcast de 29/08/2026 confirma a data da sabatina (28/08/2026, Renata Vasconcellos e César Tralli) e registra a fala sobre clima "Não é sobre influência dos atos humanos" e a esquiva sobre ajuste fiscal ("Vou chegar lá, vou chegar lá") — [Viva/Broadcast 29/08/2026](https://viva.com.br/politica/flavio-bolsonaro-nega-aquecimento-global-e-evita-detalhar-ajuste-fiscal.html).
+
+### Novos dados
+
+**A. Patrimônio declarado ao TSE — Lula 2026 x 2022 (itemizado; valores em R$)**
+| Item (2026) | 2026 | Item correspondente (2022) | 2022 |
+|---|---|---|---|
+| VGBL Brasilprev | 1.923.927,36 | VGBL | 5.570.798,99 |
+| VGBL Bradesco | 1.380.000,00 | — | — |
+| 64,08% de terreno no Riacho Grande (SBC) | 265.000,00 | Terreno | 265.000,00 |
+| Casa em construção (SBC) | 246.918,82 | Casa em construção | 246.918,82 |
+| BB RF LP High (renda fixa) | 207.917,40 | CDB | 185.744,81 |
+| Crédito do distrato Bancoop (11/2015) | 179.298,96 | Crédito de procedência de demanda judicial | 179.298,96 |
+| Fundo DI Plus Ágil | 132.834,20 | Fundo de curto prazo | 1.213,17 |
+| 26,68% de sítio no Riacho Grande | 130.000,00 | Terreno | 130.000,00 |
+| 50% de apartamento em SBC | 94.571,25 | Apartamento | 94.571,25 |
+| Conta corrente Bradesco | 56.671,07 | Saldos em conta corrente (3) | 20.862,23 |
+| FII TVRI11 | 50.000,00 | — | — |
+| Chevrolet 2010/2011 | 50.000,00 | Automóveis (2) | 133.475,00 |
+| 98% da L.I.L.S. Palestras, Eventos e Publicações | 49.000,00 | Empresa | 49.000,00 |
+| Bradesco FIC renda fixa simples | 6.277,62 | — | — |
+| Terreno Riacho Grande | 2.733,45 | Terreno | 2.733,45 |
+| Aplicação BB | 485,39 | Aplicação financeira | 333,17 |
+| Poupança (2 contas) | 15,12 | Poupança (2) | 4.719,22 |
+| — | — | Apartamentos (2 x 19.167,34) | 38.334,68 |
+| — | — | Devolução de valores bloqueados judicialmente | 250.722,03 |
+| — | — | Créditos de empréstimo pessoal (200 mil + 50 mil) | 250.000,00 |
+| **Total** | **4.775.650,64** | | **7.423.725,78** |
+Fonte: TSE, `bem_candidato_2026_BR.csv` (SQ 280002542548; 13/10/2026) e `bem_candidato_2022_BR.csv` (SQ 280001607829; versão de 07/07/2026) — [2026](https://cdn.tse.jus.br/estatistica/sead/odsele/bem_candidato/bem_candidato_2026.zip); [2022](https://cdn.tse.jus.br/estatistica/sead/odsele/bem_candidato/bem_candidato_2022.zip). Leitura: a queda de R$ 2,65 mi vem do resgate/redução do VGBL (–R$ 2,27 mi), do desaparecimento dos créditos judiciais e de empréstimos (–R$ 500,7 mi) e da venda de dois apartamentos de R$ 19,2 mil; novos itens: VGBL Bradesco, FII e fundo DI.
+
+**B. Patrimônio declarado ao TSE — Flávio 2026 x 2018 (itemizado; valores em R$)**
+| Item (2026) | 2026 | Item (2018, candidato ao Senado/RJ) | 2018 |
+|---|---|---|---|
+| Casa, Lago Sul, Brasília | 6.226.043,80 | Apartamento residencial, Barra da Tijuca | 917.038,09 |
+| FIC Multimercado FIFCIC RL | 1.090.520,47 | Outras aplicações "diversas" | 558.220,06 |
+| Conta corrente "bancos diversos" | 568.730,23 | Sala comercial, Barra da Tijuca | 150.000,00 |
+| Veículo 2014 | 133.000,00 | Volvo XC 2014 | 66.500,00 |
+| Poupança Itaú | 103.746,23 | 50% da Bolsotini Chocolates e Café Ltda. | 50.000,00 |
+| Quota de capital | 46.000,00 | — | — |
+| Sociedade individual de advocacia | 10.000,00 | — | — |
+| CDB Banco do Brasil | 8.266,10 | — | — |
+| Quota de capital | 249,00 | — | — |
+| **Total** | **8.186.555,83** | | **1.741.758,15** |
+Fonte: TSE, `bem_candidato_2026_BR.csv` (SQ 280002551544; 14/10/2026 19h59) e `bem_candidato_2018_RJ.csv` (SQ 190000614721) — [2026](https://cdn.tse.jus.br/estatistica/sead/odsele/bem_candidato/bem_candidato_2026.zip); [2018](https://cdn.tse.jus.br/estatistica/sead/odsele/bem_candidato/bem_candidato_2018.zip). Leitura: o apartamento e a sala da Barra (R$ 1,07 mi) e a participação na Bolsotini saíram; entrou a casa do Lago Sul (R$ 6,23 mi, comprada por R$ 5,97 mi em 2021); a liquidez (fundo + conta + poupança + CDB) passou de R$ 558 mil para R$ 1,77 mi.
+
+**C. Vices (TSE)**
+| | 2022 | 2026 | Variação |
+|---|---|---|---|
+| Geraldo Alckmin (PSB) | 1.005.728,42 (7 itens: apto SP 323,8 mil; casa e glebas em Pindamonhangaba; VGBL 316 mil; fundo 172 mil) | 3.291.457,41 (22 itens: renda fixa 1,48 mi; VGBL 1,0 mi; apto SP 323,8 mil; imóveis em Pindamonhangaba; debêntures; Hyundai) | +227,3% |
+| Alfredo Gaspar (PL) | — (não concorreu a cargo com a mesma base; a nota traz +95% via imprensa) | 564.666,16 (11 itens: Jeep Compass 2024 158 mil; Passat 2018 120 mil; casas e terrenos em Maceió e Marechal Deodoro, parte em espólio; 50% de posto de combustível em espólio) | — |
+Fontes: mesmos arquivos (SQ Alckmin 280001607830/280002542549; SQ Gaspar 280002551543).
+
+**D. Gastos e receitas de campanha — 1º turno (base do TSE) e situação do 2º turno**
+| | Flávio Bolsonaro (PL) | Lula (PT) |
+|---|---|---|
+| 1ª parcial (16/08–08/09), despesas declaradas | R$ 49,5 mi (R$ 13,1 mi planejamento/marketing; R$ 5 mi Paranoá Digital; R$ 3,7 mi canal no YouTube; R$ 3,1 mi advocatícios; R$ 2,2 mi aeronaves) | R$ 100 mil (R$ 93,9 mil impressos; restante taxas de vaquinha) |
+| Despesas do 1º turno (dados até 05/10) | R$ 65,19 mi | R$ 65,6 mi |
+| — serviços de terceiros | R$ 39,6 mi | R$ 40,7 mi |
+| — advocatícios | R$ 3,33 mi | R$ 4,02 mi |
+| — impulsionamento digital | R$ 9 mi (R$ 8 mi nos 11 dias finais) | R$ 2,69 mi |
+| — adesivos | R$ 3,14 mi | R$ 3,86 mi |
+| — impressos | R$ 57,6 mil | R$ 3,04 mi |
+| Receitas até 05/10 | R$ 70,67 mi (FEFC R$ 47 mi; doações R$ 10,26 mi; fundo partidário R$ 9,65 mi) | R$ 87,6 mi (FEFC R$ 85 mi; doações R$ 2,17 mi; fundo partidário R$ 150 mil) |
+| Pagamentos efetivados | despesas R$ 5,47 mi abaixo das receitas | R$ 34,8 mi pagos (~53% do declarado) |
+| Limites | R$ 88,9 mi (1º turno); R$ 133 mi (1º+2º) | idem |
+| 2º turno | prestação parcial do 2º turno só entre 26/10 e 14/11/2026 — **não disponível em 21/10** | idem |
+Fontes: [Imirante/g1 09/09/2026](https://m.imirante.com/noticias/brasil/2026/09/09/ipolitica-eleicoes-2026-presidenciaveis-ja-declararam-r-74-mi); [O Hoje 10/10/2026, base do TSE](https://ohoje.com/2026/10/10/flavio-e-lula-gastam-r-1308-milhoes-nas-campanhas-do-primeiro-turno/). Observação: os totais de receita da nota (seção 7: Flávio R$ 61,7 mi até 1/10 e R$ 95,5 mi até 20/10; Lula R$ 20,71 mi desde 5/10) vêm de outras datas de extração e não são somáveis com estes. O DivulgaCandContas não pôde ser consultado diretamente (403).
+
+**E. Ações no TSE entre as campanhas em 2026 — lista consolidada (autor → alvo; desfecho)**
+| Data | Autor → alvo | Objeto | Desfecho conhecido | Fonte |
+|---|---|---|---|---|
+| jan–abr | PL (26) e FBE (21), entre 59 representações | propaganda antecipada; IA ("A Grande Quadrilha", "Dona Maria", "Picanha 01", "TH Joias") | Plenário só julgou casos do desfile de Niterói (pedidos contra Lula rejeitados) | BPMoney/g1 17/05 |
+| 25/07 | PT → PL | vídeo com IA simulando Jair Bolsonaro na convenção | sem decisão localizada | Wikipédia (seção 4) |
+| 29/08 | FBE → Flávio, Pavanato, Zema, Caiado | Barretos como showmício (pede cassação); vídeos com IA ligando Lula ao crime; falas sobre facções | sem desfecho localizado | O Hoje 30/08 |
+| 30/08 | PL → coligação de Lula | inserção "Currículo de Flávio" | suspensa por Estela Aranha; direito de resposta | Correio Braziliense 30/08 |
+| 16–17/09 | PT → Flávio | inserção "dividiu poder com Moraes"; simulação de pronunciamento | pedido de direito de resposta; desfecho não localizado | DGABC |
+| 22/09 | Flávio → Lula | conduta vedada (eventos de 17–18/9) — "14ª representação", segundo a campanha | sem desfecho localizado | Viva/Broadcast 22/09 |
+| 24/09 | coligação de Lula → Flávio | 5 peças de rádio/TV | sem desfecho localizado | CNN 24/09 |
+| 25–28/09 | PT → rede pró-Flávio | boato de Nossa Senhora Aparecida (1.170 links) | Mendonça remove; Dino suspende; Fux restabelece | Agência Brasil/Wikipédia |
+| 30/09 | PT → Nikolas | post sobre "toque" | 24h para apagar (Estela Aranha) | Aos Fatos/CNN |
+| 08/10 | PT → Flávio | posts ligando Lula a facções | remoção e multa de R$ 5 mil (unânime) | g1 09/10 |
+| 09/10 | Flávio → Lula | vídeo "cortar programas sociais" | direito de resposta; remoção; multa de R$ 10 mil por descumprimento | ND Mais 09/10 |
+| 12/10 | PT → Flávio, PL, Nikolas, Pavanato, Marçal, Rony Gabriel | vídeo de droga no ato da Paulista | remoção em 24h (Bellizze) | Brasil de Fato 13/10 |
+| 14/10 | PL → Janones/PT | vídeo sobre corte de aposentadorias; canal "Exército do Lula" | remoção (Mendonça); canal suspenso/reativado; LED proibido | Wikipédia (seção 4) |
+| 14/10 | Flávio → rede pró-Lula | 221 posts e 32 perfis | sem desfecho localizado | Wikipédia (seção 4) |
+| 15/10 | PL → Fabrício Santos Vargas; PL → Lula/Sidônio | vídeo "Flávio–CV"; gasto de publicidade | remoção em 24h (unânime); órgãos devem apresentar empenhos em 10 dias | Metrópoles 15/10 |
+| 15/10 | PT → Flávio e Nikolas | 6 vídeos (garis/Lulinha R$ 300 mil) | remoção em 24h (maioria, Mendonça) | Metrópoles 15/10 |
+| 19/10 | PT → Nikolas e Marçal | reiteração de conteúdos falsos | proibição de republicar; bloqueio de impulsionamento até 25/10 (Cueva) | Jornal de Brasília 19/10 |
+URLs das fontes constam nas seções 1, 2 e 4 e nos itens 4 desta rodada. Contagem a partir desta tabela (não oficial): 8 decisões/medidas contra o lado Flávio-PL-aliados e 4 contra o lado Lula-PT-aliados; 1 decisão dupla (15/10). O total oficial de representações do 2º turno não foi obtido.
+
+**F. Ficha judicial consolidada (status em 21/10/2026)**
+| | Flávio Bolsonaro | Lula |
+|---|---|---|
+| Condenações | nenhuma | duas em 1ª e 2ª instâncias (tríplex; Atibaia), anuladas pelo STF em 2021 por incompetência e parcialidade; sem absolvição de mérito |
+| Arquivamentos/prescrições | rachadinha — TJRJ arquivou a denúncia (mai/2022) após anulação de provas, sem mérito | tríplex arquivado por prescrição iminente (28/01/2022); Atibaia — nova denúncia rejeitada; Costa Rica/OAS arquivado (13/09/2021); provas da Odebrecht anuladas (06/09/2023); Quadrilhão do PT — absolvido (23/11/2018) |
+| Inquéritos em curso | STF: Dark Horse/Vorcaro (Mendonça; autorizado 23/07/2026; incluído set/2026; sigilo); lavagem com Willer Tomaz (Moraes; revelado 18/10); Pet 15.648 — calúnia contra Lula (Moraes; abr/2026). PF: financiamento do BRB (auditoria do banco entregue em fev/2026; investigação revelada 02/10/2026); conta conjunta com Willer Tomaz (10/10). Dino: emendas (Karina Gama) | nenhum inquérito contra o presidente localizado; Lulinha (filho) é alvo de três inquéritos no STF (dois com Mendonça, um com Dino); Frei Chico (irmão) não é alvo |
+| Ações civis | ação popular Erika Kokay (TJDFT, 2021): pedido negado na 1ª Vara (abr/2022); 4ª Câmara Cível pediu documentos (2024); MPDFT não vê irregularidade | — |
+| Eleitoral (2026) | multa de R$ 5 mil e remoções (08/10, 12/10, 15/10) | direito de resposta a Flávio (30/08 e 09/10; multa de R$ 10 mil por descumprimento) |
+| Precedentes eleitorais | TSE 2023: multas de R$ 30 mil (vídeo drogas/aborto) e R$ 10 mil (Celso Daniel) por fake news contra Lula em 2022 | — |
+Fontes: seções 2, 4 e 6 desta nota e itens 6 e 7 desta rodada.
+
+**G. Vinte ataques literais de cada lado, com URL (transcrições publicadas pelas agências ou pela imprensa; quando a fonte está em espanhol, isso está indicado)**
+
+*Flávio Bolsonaro sobre Lula/PT*
+1. "O atual governo tá deixando de 11 trilhões de reais, mais um recorde negativo" (Band, 18/10) — [Lupa](https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/)
+2. "Gastou mais 350 bilhões já para tentar se reeleger" (Band, 18/10) — [Lupa](https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/)
+3. "R$ 7 bilhões que você gastou em viagens com a Janja" (Band, 18/10) — [Lupa](https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/)
+4. "Lula, com você, a criminalidade explodiu no Brasil" (Band, 18/10) — [Lupa](https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/)
+5. "Coloca nas ruas marginais perigosos, alegando que não tem vagas no sistema penitenciário" (Band, 18/10) — [Lupa](https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/)
+6. "Lula vetou a saidinha, a gente teve que derrubar no Congresso" (Band, 18/10) — [Lupa](https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/)
+7. "73% dos presidiários votaram em você" (Band, 18/10) — [Lupa](https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/)
+8. "R$ 30 milhões para o Instituto Lula por fora, dinheiro ilegal" (Band, 18/10) — [Lupa](https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/)
+9. "Você foi condenado em todas as instâncias, Lula. E foi descondenado pelos seus amigos" (Band, 18/10) — [Lupa](https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/)
+10. "Lula, Roberta Luchsinger fez acusações muito graves contra você ontem" (Band, 18/10) — [Lupa](https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/)
+11. "Mais de 40 milhões de brasileiros moram em áreas dominadas por narcoterroristas" (Band, 18/10) — [Lupa](https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/)
+12. "Lei Antifacção que nós aprovamos, os líderes vão ficar até 80 anos presos" (Band, 18/10) — [Lupa](https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/)
+13. "Eu não tenho absolutamente nada contra as mulheres. Pelo contrário." (Band, 18/10, em resposta à pergunta sobre a licença-maternidade) — [BPMoney 18/10](https://bpmoney.com.br/?p=428131)
+14. "Lula, você que é o pai do tigrinho" (live, 01/10) — [Lupa](https://www.agencialupa.org/checagem/2026/10/01/ao-vivo-checagem-da-live-de-flavio-bolsonaro/)
+15. "Você [Lula] que deixou o povo brasileiro (…) com fome" (live, 01/10) — [Lupa](https://www.agencialupa.org/checagem/2026/10/01/ao-vivo-checagem-da-live-de-flavio-bolsonaro/)
+16. "Eu tenho um irmão exilado nos Estados Unidos" (live, 01/10) — [Lupa](https://www.agencialupa.org/checagem/2026/10/01/ao-vivo-checagem-da-live-de-flavio-bolsonaro/)
+17. "O debate da Globo foi censurado" (live, 01/10) — [Lupa](https://www.agencialupa.org/checagem/2026/10/01/ao-vivo-checagem-da-live-de-flavio-bolsonaro/)
+18. "Uma tentativa de golpe em prédios vazios" (Globo, 16/10) — [Aos Fatos](https://www.aosfatos.org/noticias/checamos-flavio-bolsonaro-globo-segundo-turno/)
+19. "O Flávio Dino entrou sem nenhum policial, sem nenhum segurança, numa favela" (Globo, 16/10) — [Lupa](https://www.agencialupa.org/checagem/2026/10/16/ao-vivo-checagem-da-entrevista-de-flavio-bolsonaro-na-globo/)
+20. "Lula será delatado", em post sobre Maduro citando "tráfico internacional de drogas e armas, lavagem de dinheiro" (X, 03/01) — [Conjur 15/04](https://conjur.com.br/2026-abr-15/flavio-bolsonaro-sera-investigado-por-associar-lula-a-trafico-internacional/)
+
+*Lula sobre Flávio/família Bolsonaro/PL*
+1. Flávio "comprou uma casa de R$ 10 milhões e pagou parte com dinheiro do BRB" (Band, 18/10) — [Ranking dos Políticos](https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026)
+2. "Flávio contou 43 mentiras só no caso Vorcaro" (Band, 18/10) — [Ranking](https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026)
+3. "deu emprego para a irmã e para a mulher do cara que é do escritório do crime" (Band, 18/10) — [Lupa](https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/)
+4. "De 49 deputados, você foi o único que votou contra" (Band, 18/10) — [Lupa](https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/)
+5. "O que você tem contra as mulheres?" (Band, 18/10) — [A Crítica/Agência Estado 18/10](https://acritica.net/politica/debate-lula-flavio-licenca-maternidade-2009-alerj/)
+6. "Você não respondeu à pergunta" (Band, 18/10) — [BPMoney 18/10](https://bpmoney.com.br/?p=428131)
+7. "O governo já arrecadou R$ 100 bilhões da quadrilha do INSS" (Band, 18/10) — [Ranking](https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026)
+8. "Governo já devolveu mais de R$ 3,5 bi aos aposentados" (Band, 18/10) — [Ranking](https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026)
+9. "Liberaram mais de 1 milhão de armas" (Band, 18/10) — [Lupa](https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/)
+10. "1 bilhão e 100 milhões de balas" (Band, 18/10) — [Lupa](https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/)
+11. "Inflação de alimentos estava em 56%. Agora, nos meus quatro anos, está 13%" (Band, 18/10) — [Lupa](https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/)
+12. "Bolsonaro mentia 11 vezes por dia" (Band, 18/10) — [Ranking](https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026)
+13. "Flávio não pode dar indulto a uma pessoa" (Band, 18/10) — [Ranking](https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026)
+14. "780 mil pessoas morreram na pandemia" (Band, 18/10) — [Ranking](https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026)
+15. "Foram 10 ministérios desmontados" (Globo, 15/10) — [Lupa](https://www.agencialupa.org/checagem/2026/10/15/ao-vivo-checagem-da-entrevista-de-lula-na-tv-globo/)
+16. "O Canella, que foi preso e que a mãe do Flávio ia ser suplente dele no Senado" (Globo, 15/10) — [Aos Fatos](https://www.aosfatos.org/noticias/checamos-lula-globo-segundo-turno/)
+17. "Esse rapaz foi vereador com 21 anos" (Flow, 01/10) — [Lupa](https://www.agencialupa.org/checagem/2026/10/01/ao-vivo-checagem-da-entrevista-de-lula-no-flow/)
+18. "me senti muito incomodado de participar de um debate com um miliciano" (Porto Alegre, 19/10) — [Metrópoles 19/10](https://www.metropoles.com/brasil/lula-diz-ter-ficado-incomodado-ao-participar-de-debate-com-miliciano)
+19. "pessoa desqualificada" / Flávio "preparado para mentir" (19/10) — [Jornal de Brasília](https://jornaldebrasilia.com.br/noticias/politica-e-poder/lula-chama-flavio-bolsonaro-de-miliciano-desqualificado-apos-debate/)
+20. "Eres amigo de Milei. ¿Has seguido cómo está Argentina?" (Band, 18/10; versão em espanhol da Infobae, sem transcrição em português localizada) — [Infobae 19/10](https://www.infobae.com/america/america-latina/2026/10/19/las-acusaciones-de-corrupcion-y-la-inseguridad-marcaron-el-primer-debate-entre-lula-y-flavio-bolsonaro-antes-del-balotaje-en-brasil/)
+
+### Lacunas que permanecem
+- **Alerj 2009 (licença-maternidade):** nenhum registro primário da Alerj (ata, painel ou Diário Oficial) acessível; o placar 45 a 1 e o "único de 49" seguem lastreados só nas agências que checaram o debate (Lupa, Aos Fatos, Estadão Verifica via republicação) e na SBP (que registra apenas a pauta de 09/06/2009). O número do projeto e da lei estadual não foram localizados.
+- **G1 Fato ou Fake, UOL Confere, AFP Checamos, Estadão Verifica:** sites bloqueados; só republicações parciais (A Crítica 17/10 para o UOL Confere; Polêmica Paraíba para o Estadão Verifica). Nenhuma republicação de AFP Checamos ou G1 sobre os dois candidatos em 2026 foi localizada antes do esgotamento do orçamento de buscas.
+- **TSE "Eleições 2026 em números" e total de representações:** tse.jus.br/comunicacao retornou 403; o portal de Eleições 2026 não listou a página; o levantamento do Estadão (87 até maio) não foi acessado; não há contagem oficial por lado.
+- **Dark Horse no STF:** autos sob sigilo; número do inquérito e as petições não são públicas; as cifras estão reconciliadas apenas por imprensa (O Povo, Times Brasil, O Hoje).
+- **BRB:** contrato, escritura e matrícula não acessados; divergências residuais sobre a taxa (3,65% x 3,71%) e a renda mínima exigida (R$ 46.874,35 x R$ 46.401,25); ano do pagamento de R$ 199 mil não explicitado pela Folhapress.
+- **Arcabouço fiscal:** a lista de Plenário do Senado registra 57 Sim x 17 Não; o placar divulgado pela imprensa em 2023 não foi reconferido nesta rodada.
+- **PEC 6x1:** a lista de Plenário de 14/10/2026 não pôde ser baixada (conexão interrompida duas vezes); o placar 75x1 segue com fonte de imprensa.
+- **Salário mínimo, Pé-de-Meia e isenção do IR:** ausência de registro nominal indica votação sem painel, mas a modalidade não foi confirmada em Senado Notícias; não é possível atribuir voto individual a Flávio nessas três leis.
+- **PEC da Segurança:** sem votação nominal registrada no Senado até 21/10/2026; não se confirmou se houve votação por outro rito.
+- **Misoginia (24/03/2026):** o voto SIM citado na nota (via Wikipédia) não foi localizado pela busca na API, porque a matéria é de ano anterior e não foi identificada pelo número.
+- **Gastos do 2º turno:** prestação parcial só a partir de 26/10/2026; nenhuma fonte oficial em 21/10.
+- **Aliados:** só a primeira página de resultados da Lupa foi lida para cada nome; Aos Fatos só para Gleisi; Comprova e Estadão Verifica não foram consultados para aliados.
+- **Desfechos** das representações de 29/08 (FBE), 22/09 (Flávio), 24/09 (coligação de Lula) e 14/10 (221 posts) não localizados.
+
+**Adendo da rodada 2 (21/10/2026, após a liberação do limite de buscas) — duas lacunas acima fechadas**
+- **Arcabouço fiscal (PLP 93/2023), 21/06/2023:** o placar de 57 Sim x 17 Não registrado na base do Senado está confirmado pela imprensa ("57 votos favoráveis, contra 17", sem abstenções; todos os destaques rejeitados), e o Congresso em Foco lista nominalmente "Flávio Bolsonaro, PL, NÃO" — [Congresso em Foco 21/06/2023](https://www.congressoemfoco.com.br/noticia/9640/arcabouco-fiscal-veja-como-votou-cada-senador); [Diário do Nordeste 21/06/2023](https://diariodonordeste.verdesmares.com.br/pontopoder/senado-aprova-texto-base-do-arcabouco-fiscal-por-57-votos-a-17-1.3383894). A "divergência" apontada em "Lacunas que permanecem" era uma lembrança errada da imprensa de 2023; o dado da base está correto.
+- **PEC 6x1 (PEC 221/2019), 14/10/2026:** a lista de Plenário do Senado foi baixada na segunda tentativa: 1º turno 75 Sim x 1 Não (Hamilton Mourão), com 1 AP, 2 presentes sem voto, 1 não compareceu e o presidente; 2º turno idêntico; Flávio Bolsonaro: **Sim** nos dois turnos — [Senado, lista de votação de 14/10/2026](https://legis.senado.leg.br/dadosabertos/plenario/lista/votacao/20261014.json). Confirma o 75x1 da imprensa citado na seção 6.

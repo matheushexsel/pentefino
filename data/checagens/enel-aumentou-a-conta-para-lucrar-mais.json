@@ -33,9 +33,10 @@
     "A Parcela B, que cobre custos e remuneração da distribuidora, variou +1,02% em 2025 e +0,37 ponto percentual em 2026, enquanto encargos e financeiros responderam pela maior parte.",
     "Isso não absolve a empresa pela qualidade do serviço: ela acumula mais de R$ 404 milhões em multas desde 2018 e enfrenta processo de caducidade."
   ],
-  "explicacao_completa_md": "## Reajustes da Enel SP\n- 2021: 9,44% (BT 11,38%), atribuído pela empresa ao IGP-M de 35,7% e a custos de compra e transporte de energia.\n- 2025: 13,94% (AT 15,77%, BT 13,47%): encargos +6,44 p.p.; retirada de financeiros do ano anterior +7,97; financeiros atuais -2,35; energia +1,38; **Parcela B +1,02**; transmissão -0,52. ANEEL: 'resultado principalmente da elevação de custos que não são de responsabilidade e não são gerenciáveis pela companhia'.\n- 2026: 10,18% (B1 9,02%): itens financeiros ligados a compra de energia e transmissão 6,46 p.p.; **Parcela B 0,37 p.p.** ANEEL: 'impulsionado principalmente por itens financeiros, que não fazem parte da base econômica permanente das tarifas'.\n\n## Veredito\n**Impreciso.** A distribuidora não fixa o reajuste e sua remuneração pouco mudou; o aumento veio de encargos e componentes financeiros. A crítica cabível à Enel é sobre qualidade do serviço, objeto de multas e do processo de caducidade.",
+  "explicacao_completa_md": "## Reajustes da Enel SP\n- 2021: 9,44% (BT 11,38%), atribuído pela empresa ao IGP-M de 35,7% e a custos de compra e transporte de energia.\n- 2025: 13,94% (AT 15,77%, BT 13,47%): encargos +6,44 p.p.; retirada de financeiros do ano anterior +7,97; financeiros atuais -2,35; energia +1,38; **Parcela B +1,02**; transmissão -0,52. ANEEL: 'resultado principalmente da elevação de custos que não são de responsabilidade e não são gerenciáveis pela companhia'.\n- 2026: 10,18% (B1 9,02%): itens financeiros ligados a compra de energia e transmissão 6,46 p.p.; **Parcela B 0,37 p.p.** ANEEL: 'impulsionado principalmente por itens financeiros, que não fazem parte da base econômica permanente das tarifas'.\n\n## Veredito\n**Impreciso.** A distribuidora não fixa o reajuste e sua remuneração pouco mudou; o aumento veio de encargos e componentes financeiros. A crítica cabível à Enel é sobre qualidade do serviço, objeto de multas e do processo de caducidade.\n\n## Atualização (rodada 2)\nResoluções homologatórias da B1 (ANEEL Dados Abertos): REH 2.568/2019 +6,6%; REH 2.719/2020 +3,6%; REH 2.890/2021 +11,3%; REH 3.053/2022 +10,4%; REH 3.215/2023 -1,1%; REH 3.339/2024 -2,0%; REH 3.477/2025 +14,0%; REH 3.596/2026 +8,9%. Acumulado 2010→2026: +166,2% contra IPCA de ~140,8%. A B1 da Enel SP (R$ 789,38) é 5,9% menor que a média simples nacional (R$ 838,53).",
   "o_que_e_verdade": [
-    "A Enel SP é alvo legítimo de críticas pela qualidade: três grandes apagões (2023, 2024, 2025), multas acima de R$ 404 mi e 7 de 11 planos de melhoria rejeitados."
+    "A Enel SP é alvo legítimo de críticas pela qualidade: três grandes apagões (2023, 2024, 2025), multas acima de R$ 404 mi e 7 de 11 planos de melhoria rejeitados.",
+    "A tarifa B1 homologada da Enel SP caiu em 2023 (-1,1%) e 2024 (-2,0%) antes de subir 14,0% em 2025 e 8,9% em 2026, e segue 5,9% abaixo da média simples nacional (base ANEEL)."
   ],
   "o_que_nao_se_sustenta": [
     "A empresa não decide o reajuste (ANEEL homologa) e a parcela que a remunera subiu pouco (1,02% em 2025; 0,37 p.p. em 2026)."
@@ -129,10 +130,59 @@
         "acesso_em": "2026-10-21",
         "tier": "imprensa"
       }
+    },
+    {
+      "rotulo": "Tarifa B1 da Enel SP em jul/2024 (REH 3.339)",
+      "valor": 636.24,
+      "unidade": "R$/MWh",
+      "periodo": "jul/2024",
+      "fonte": {
+        "nome": "ANEEL Dados Abertos – Tarifas de aplicação das distribuidoras (CSV gerado em 21/10/2026)",
+        "url": "https://dadosabertos.aneel.gov.br/dataset/tarifas-distribuidoras-energia-eletrica",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "jul/2022 (REH 3.053)",
+        "valor": 656.49
+      }
+    },
+    {
+      "rotulo": "Tarifa B1 da Enel SP em jul/2026 (REH 3.596)",
+      "valor": 789.38,
+      "unidade": "R$/MWh",
+      "periodo": "jul/2026",
+      "fonte": {
+        "nome": "ANEEL Dados Abertos – Tarifas de aplicação das distribuidoras (CSV gerado em 21/10/2026)",
+        "url": "https://dadosabertos.aneel.gov.br/dataset/tarifas-distribuidoras-energia-eletrica",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "Média simples nacional 2026",
+        "valor": 838.53
+      }
+    },
+    {
+      "rotulo": "DEC da Enel SP",
+      "valor": 6.83,
+      "unidade": "horas",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "ANEEL Dados Abertos – Indicadores Coletivos de Continuidade (DEC e FEC)",
+        "url": "https://dadosabertos.aneel.gov.br/dataset/indicadores-coletivos-de-continuidade-dec-e-fec",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "2015",
+        "valor": 23.77
+      }
     }
   ],
   "series": [
-    "reajustes-enel-sp"
+    "reajustes-enel-sp",
+    "dec-fec-enel-sp"
   ],
   "checagens_externas": [],
   "fontes": [
@@ -189,6 +239,18 @@
       "url": "https://eixos.com.br/?p=540887",
       "acesso_em": "2026-10-21",
       "tier": "imprensa"
+    },
+    {
+      "nome": "ANEEL Dados Abertos – Tarifas de aplicação das distribuidoras (CSV gerado em 21/10/2026)",
+      "url": "https://dadosabertos.aneel.gov.br/dataset/tarifas-distribuidoras-energia-eletrica",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "ANEEL Dados Abertos – Indicadores Coletivos de Continuidade (DEC e FEC)",
+      "url": "https://dadosabertos.aneel.gov.br/dataset/indicadores-coletivos-de-continuidade-dec-e-fec",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/06_energia_eletrobras_combustiveis.md",
@@ -207,12 +269,15 @@
     {
       "data": "2026-10-21",
       "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "rodada 2: REH completas 2010–2026, DEC/FEC"
     }
   ],
   "exemplo": false,
   "lacunas": [
     "Autoria, data e local da declaração não documentados nas notas; a checagem trata a afirmação em sua forma recorrente.",
-    "Reajustes de 2019, 2020, 2022–2024 não localizados.",
-    "Checagens já publicadas por Aos Fatos, Lupa, Estadão Verifica e Comprova sobre o tema não foram consultadas (cota de busca esgotada); cruzar antes da publicação."
+    "Checagens da Lupa, Estadão Verifica e g1 Fato ou Fake não puderam ser abertas na rodada 2 (bloqueio de fetch); a lista de checagens externas cobre apenas Aos Fatos e Comprova."
   ]
 }

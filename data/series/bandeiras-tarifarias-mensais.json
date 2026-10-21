@@ -1,17 +1,617 @@
 {
   "id": "bandeiras-tarifarias-mensais",
-  "titulo": "Bandeira tarifária por mês (adicional na conta de luz)",
-  "descricao_simples": "Cor da bandeira definida pela ANEEL em cada mês e o adicional correspondente por 100 kWh consumidos.",
+  "titulo": "Bandeira tarifária por mês (adicional na conta de luz), 2015–2026",
+  "descricao_simples": "Cor da bandeira definida pela ANEEL em cada mês desde a criação do sistema (2015) e o adicional correspondente por 100 kWh consumidos.",
   "unidade": "R$ por 100 kWh",
   "tipo_grafico": "barra",
   "frequencia": "mensal",
   "fonte": {
-    "nome": "ANEEL – Bandeiras tarifárias",
-    "url": "https://www.gov.br/aneel/pt-br/assuntos/tarifas/bandeiras-tarifarias",
+    "nome": "ANEEL Dados Abertos – Bandeiras Tarifárias (acionamento mensal, CSV gerado em 19/10/2026)",
+    "url": "https://dadosabertos.aneel.gov.br/dataset/bandeiras-tarifarias",
     "acesso_em": "2026-10-21",
     "tier": "oficial"
   },
   "pontos": [
+    {
+      "periodo": "2015-01",
+      "valor": 3.0,
+      "bandeira": "vermelha-1"
+    },
+    {
+      "periodo": "2015-02",
+      "valor": 3.0,
+      "bandeira": "vermelha-1"
+    },
+    {
+      "periodo": "2015-03",
+      "valor": 5.5,
+      "bandeira": "vermelha-1"
+    },
+    {
+      "periodo": "2015-04",
+      "valor": 5.5,
+      "bandeira": "vermelha-1"
+    },
+    {
+      "periodo": "2015-05",
+      "valor": 5.5,
+      "bandeira": "vermelha-1"
+    },
+    {
+      "periodo": "2015-06",
+      "valor": 5.5,
+      "bandeira": "vermelha-1"
+    },
+    {
+      "periodo": "2015-07",
+      "valor": 5.5,
+      "bandeira": "vermelha-1"
+    },
+    {
+      "periodo": "2015-08",
+      "valor": 5.5,
+      "bandeira": "vermelha-1"
+    },
+    {
+      "periodo": "2015-09",
+      "valor": 4.5,
+      "bandeira": "vermelha-1"
+    },
+    {
+      "periodo": "2015-10",
+      "valor": 4.5,
+      "bandeira": "vermelha-1"
+    },
+    {
+      "periodo": "2015-11",
+      "valor": 4.5,
+      "bandeira": "vermelha-1"
+    },
+    {
+      "periodo": "2015-12",
+      "valor": 4.5,
+      "bandeira": "vermelha-1"
+    },
+    {
+      "periodo": "2016-01",
+      "valor": 4.5,
+      "bandeira": "vermelha-1"
+    },
+    {
+      "periodo": "2016-02",
+      "valor": 4.5,
+      "bandeira": "vermelha-2"
+    },
+    {
+      "periodo": "2016-03",
+      "valor": 1.5,
+      "bandeira": "amarela"
+    },
+    {
+      "periodo": "2016-04",
+      "valor": 0,
+      "bandeira": "verde"
+    },
+    {
+      "periodo": "2016-05",
+      "valor": 0,
+      "bandeira": "verde"
+    },
+    {
+      "periodo": "2016-06",
+      "valor": 0,
+      "bandeira": "verde"
+    },
+    {
+      "periodo": "2016-07",
+      "valor": 0,
+      "bandeira": "verde"
+    },
+    {
+      "periodo": "2016-08",
+      "valor": 0,
+      "bandeira": "verde"
+    },
+    {
+      "periodo": "2016-09",
+      "valor": 0,
+      "bandeira": "verde"
+    },
+    {
+      "periodo": "2016-10",
+      "valor": 0,
+      "bandeira": "verde"
+    },
+    {
+      "periodo": "2016-11",
+      "valor": 1.5,
+      "bandeira": "amarela"
+    },
+    {
+      "periodo": "2016-12",
+      "valor": 0,
+      "bandeira": "verde"
+    },
+    {
+      "periodo": "2017-01",
+      "valor": 0,
+      "bandeira": "verde"
+    },
+    {
+      "periodo": "2017-02",
+      "valor": 0,
+      "bandeira": "verde"
+    },
+    {
+      "periodo": "2017-03",
+      "valor": 2.0,
+      "bandeira": "amarela"
+    },
+    {
+      "periodo": "2017-04",
+      "valor": 3.0,
+      "bandeira": "vermelha-1"
+    },
+    {
+      "periodo": "2017-05",
+      "valor": 3.0,
+      "bandeira": "vermelha-1"
+    },
+    {
+      "periodo": "2017-06",
+      "valor": 0,
+      "bandeira": "verde"
+    },
+    {
+      "periodo": "2017-07",
+      "valor": 2.0,
+      "bandeira": "amarela"
+    },
+    {
+      "periodo": "2017-08",
+      "valor": 3.0,
+      "bandeira": "vermelha-1"
+    },
+    {
+      "periodo": "2017-09",
+      "valor": 2.0,
+      "bandeira": "amarela"
+    },
+    {
+      "periodo": "2017-10",
+      "valor": 3.5,
+      "bandeira": "vermelha-2"
+    },
+    {
+      "periodo": "2017-11",
+      "valor": 5.0,
+      "bandeira": "vermelha-2"
+    },
+    {
+      "periodo": "2017-12",
+      "valor": 3.0,
+      "bandeira": "vermelha-1"
+    },
+    {
+      "periodo": "2018-01",
+      "valor": 0,
+      "bandeira": "verde"
+    },
+    {
+      "periodo": "2018-02",
+      "valor": 0,
+      "bandeira": "verde"
+    },
+    {
+      "periodo": "2018-03",
+      "valor": 0,
+      "bandeira": "verde"
+    },
+    {
+      "periodo": "2018-04",
+      "valor": 0,
+      "bandeira": "verde"
+    },
+    {
+      "periodo": "2018-05",
+      "valor": 1.0,
+      "bandeira": "amarela"
+    },
+    {
+      "periodo": "2018-06",
+      "valor": 5.0,
+      "bandeira": "vermelha-2"
+    },
+    {
+      "periodo": "2018-07",
+      "valor": 5.0,
+      "bandeira": "vermelha-2"
+    },
+    {
+      "periodo": "2018-08",
+      "valor": 5.0,
+      "bandeira": "vermelha-2"
+    },
+    {
+      "periodo": "2018-09",
+      "valor": 5.0,
+      "bandeira": "vermelha-2"
+    },
+    {
+      "periodo": "2018-10",
+      "valor": 5.0,
+      "bandeira": "vermelha-2"
+    },
+    {
+      "periodo": "2018-11",
+      "valor": 1.0,
+      "bandeira": "amarela"
+    },
+    {
+      "periodo": "2018-12",
+      "valor": 0,
+      "bandeira": "verde"
+    },
+    {
+      "periodo": "2019-01",
+      "valor": 0,
+      "bandeira": "verde"
+    },
+    {
+      "periodo": "2019-02",
+      "valor": 0,
+      "bandeira": "verde"
+    },
+    {
+      "periodo": "2019-03",
+      "valor": 0,
+      "bandeira": "verde"
+    },
+    {
+      "periodo": "2019-04",
+      "valor": 0,
+      "bandeira": "verde"
+    },
+    {
+      "periodo": "2019-05",
+      "valor": 1.0,
+      "bandeira": "amarela"
+    },
+    {
+      "periodo": "2019-06",
+      "valor": 0,
+      "bandeira": "verde"
+    },
+    {
+      "periodo": "2019-07",
+      "valor": 1.5,
+      "bandeira": "amarela"
+    },
+    {
+      "periodo": "2019-08",
+      "valor": 4.0,
+      "bandeira": "vermelha-1"
+    },
+    {
+      "periodo": "2019-09",
+      "valor": 4.0,
+      "bandeira": "vermelha-1"
+    },
+    {
+      "periodo": "2019-10",
+      "valor": 1.5,
+      "bandeira": "amarela"
+    },
+    {
+      "periodo": "2019-11",
+      "valor": 4.169,
+      "bandeira": "vermelha-1"
+    },
+    {
+      "periodo": "2019-12",
+      "valor": 1.343,
+      "bandeira": "amarela"
+    },
+    {
+      "periodo": "2020-01",
+      "valor": 1.343,
+      "bandeira": "amarela"
+    },
+    {
+      "periodo": "2020-02",
+      "valor": 0,
+      "bandeira": "verde"
+    },
+    {
+      "periodo": "2020-03",
+      "valor": 0,
+      "bandeira": "verde"
+    },
+    {
+      "periodo": "2020-04",
+      "valor": 0,
+      "bandeira": "verde"
+    },
+    {
+      "periodo": "2020-05",
+      "valor": 0,
+      "bandeira": "verde"
+    },
+    {
+      "periodo": "2020-06",
+      "valor": 0,
+      "bandeira": "verde"
+    },
+    {
+      "periodo": "2020-07",
+      "valor": 0,
+      "bandeira": "verde"
+    },
+    {
+      "periodo": "2020-08",
+      "valor": 0,
+      "bandeira": "verde"
+    },
+    {
+      "periodo": "2020-09",
+      "valor": 0,
+      "bandeira": "verde"
+    },
+    {
+      "periodo": "2020-10",
+      "valor": 0,
+      "bandeira": "verde"
+    },
+    {
+      "periodo": "2020-11",
+      "valor": 0,
+      "bandeira": "verde"
+    },
+    {
+      "periodo": "2020-12",
+      "valor": 6.243,
+      "bandeira": "vermelha-2"
+    },
+    {
+      "periodo": "2021-01",
+      "valor": 1.343,
+      "bandeira": "amarela"
+    },
+    {
+      "periodo": "2021-02",
+      "valor": 1.343,
+      "bandeira": "amarela"
+    },
+    {
+      "periodo": "2021-03",
+      "valor": 1.343,
+      "bandeira": "amarela"
+    },
+    {
+      "periodo": "2021-04",
+      "valor": 1.343,
+      "bandeira": "amarela"
+    },
+    {
+      "periodo": "2021-05",
+      "valor": 4.169,
+      "bandeira": "vermelha-1"
+    },
+    {
+      "periodo": "2021-06",
+      "valor": 6.243,
+      "bandeira": "vermelha-2"
+    },
+    {
+      "periodo": "2021-07",
+      "valor": 9.492,
+      "bandeira": "vermelha-2"
+    },
+    {
+      "periodo": "2021-08",
+      "valor": 9.492,
+      "bandeira": "vermelha-2"
+    },
+    {
+      "periodo": "2021-09",
+      "valor": 14.2,
+      "bandeira": "escassez-hidrica"
+    },
+    {
+      "periodo": "2021-10",
+      "valor": 14.2,
+      "bandeira": "escassez-hidrica"
+    },
+    {
+      "periodo": "2021-11",
+      "valor": 14.2,
+      "bandeira": "escassez-hidrica"
+    },
+    {
+      "periodo": "2021-12",
+      "valor": 14.2,
+      "bandeira": "escassez-hidrica"
+    },
+    {
+      "periodo": "2022-01",
+      "valor": 14.2,
+      "bandeira": "escassez-hidrica"
+    },
+    {
+      "periodo": "2022-02",
+      "valor": 14.2,
+      "bandeira": "escassez-hidrica"
+    },
+    {
+      "periodo": "2022-03",
+      "valor": 14.2,
+      "bandeira": "escassez-hidrica"
+    },
+    {
+      "periodo": "2022-04",
+      "valor": 7.1,
+      "bandeira": "escassez-hidrica"
+    },
+    {
+      "periodo": "2022-05",
+      "valor": 0,
+      "bandeira": "verde"
+    },
+    {
+      "periodo": "2022-06",
+      "valor": 0,
+      "bandeira": "verde"
+    },
+    {
+      "periodo": "2022-07",
+      "valor": 0,
+      "bandeira": "verde"
+    },
+    {
+      "periodo": "2022-08",
+      "valor": 0,
+      "bandeira": "verde"
+    },
+    {
+      "periodo": "2022-09",
+      "valor": 0,
+      "bandeira": "verde"
+    },
+    {
+      "periodo": "2022-10",
+      "valor": 0,
+      "bandeira": "verde"
+    },
+    {
+      "periodo": "2022-11",
+      "valor": 0,
+      "bandeira": "verde"
+    },
+    {
+      "periodo": "2022-12",
+      "valor": 0,
+      "bandeira": "verde"
+    },
+    {
+      "periodo": "2023-01",
+      "valor": 0,
+      "bandeira": "verde"
+    },
+    {
+      "periodo": "2023-02",
+      "valor": 0,
+      "bandeira": "verde"
+    },
+    {
+      "periodo": "2023-03",
+      "valor": 0,
+      "bandeira": "verde"
+    },
+    {
+      "periodo": "2023-04",
+      "valor": 0,
+      "bandeira": "verde"
+    },
+    {
+      "periodo": "2023-05",
+      "valor": 0,
+      "bandeira": "verde"
+    },
+    {
+      "periodo": "2023-06",
+      "valor": 0,
+      "bandeira": "verde"
+    },
+    {
+      "periodo": "2023-07",
+      "valor": 0,
+      "bandeira": "verde"
+    },
+    {
+      "periodo": "2023-08",
+      "valor": 0,
+      "bandeira": "verde"
+    },
+    {
+      "periodo": "2023-09",
+      "valor": 0,
+      "bandeira": "verde"
+    },
+    {
+      "periodo": "2023-10",
+      "valor": 0,
+      "bandeira": "verde"
+    },
+    {
+      "periodo": "2023-11",
+      "valor": 0,
+      "bandeira": "verde"
+    },
+    {
+      "periodo": "2023-12",
+      "valor": 0,
+      "bandeira": "verde"
+    },
+    {
+      "periodo": "2024-01",
+      "valor": 0,
+      "bandeira": "verde"
+    },
+    {
+      "periodo": "2024-02",
+      "valor": 0,
+      "bandeira": "verde"
+    },
+    {
+      "periodo": "2024-03",
+      "valor": 0,
+      "bandeira": "verde"
+    },
+    {
+      "periodo": "2024-04",
+      "valor": 0,
+      "bandeira": "verde"
+    },
+    {
+      "periodo": "2024-05",
+      "valor": 0,
+      "bandeira": "verde"
+    },
+    {
+      "periodo": "2024-06",
+      "valor": 0,
+      "bandeira": "verde"
+    },
+    {
+      "periodo": "2024-07",
+      "valor": 1.885,
+      "bandeira": "amarela"
+    },
+    {
+      "periodo": "2024-08",
+      "valor": 0,
+      "bandeira": "verde"
+    },
+    {
+      "periodo": "2024-09",
+      "valor": 4.463,
+      "bandeira": "vermelha-1"
+    },
+    {
+      "periodo": "2024-10",
+      "valor": 7.877,
+      "bandeira": "vermelha-2"
+    },
+    {
+      "periodo": "2024-11",
+      "valor": 1.885,
+      "bandeira": "amarela"
+    },
+    {
+      "periodo": "2024-12",
+      "valor": 0,
+      "bandeira": "verde"
+    },
     {
       "periodo": "2025-01",
       "valor": 0,
@@ -125,28 +725,28 @@
   ],
   "faixas_referencia": [
     {
-      "rotulo": "Amarela (desde abr/2024)",
+      "rotulo": "Amarela (REH 3.306/2024, desde 01/04/2024)",
       "valor": 1.885
     },
     {
-      "rotulo": "Vermelha patamar 1 (desde abr/2024)",
+      "rotulo": "Vermelha patamar 1 (desde 01/04/2024)",
       "valor": 4.463
     },
     {
-      "rotulo": "Vermelha patamar 2 (desde abr/2024)",
+      "rotulo": "Vermelha patamar 2 (desde 01/04/2024)",
       "valor": 7.877
     },
     {
-      "rotulo": "Escassez hídrica (set/2021–2022)",
+      "rotulo": "Escassez hídrica (Res. CREG 3/2021, set/2021–mar/2022)",
       "valor": 14.2
     }
   ],
   "notas_metodologicas": [
-    "Valores por patamar vigentes desde 01/04/2024 (amarela R$ 1,885; vermelha 1 R$ 4,463; vermelha 2 R$ 7,877 por 100 kWh), ainda em vigor em out/2026. Entre jul/2022 e mar/2024 valiam R$ 2,989 / 6,50 / 9,795.",
-    "Calendário 2025: verde jan–abr; amarela mai; vermelha P1 jun–jul; vermelha P2 ago–set; vermelha P1 out–nov; amarela dez (Folha Vitória, Diário do Nordeste, InfoTarifa dez/2025).",
-    "Calendário 2026: verde jan–abr; amarela mai–set; verde em outubro (anunciada em 25/09/2026). Novembro será anunciado em 30/10/2026.",
-    "Histórico anterior: suspensão da ANEEL em 01/06/2020 (Despacho 1.511), retomada em dez/2020; bandeira de escassez hídrica (R$ 14,20) em set–dez/2021; maior período verde de abr/2022 a jul/2024; 61 acionamentos entre 2015 e fev/2025.",
-    "O campo 'bandeira' identifica a cor; o valor numérico é o adicional por 100 kWh (verde = 0)."
+    "Fonte: ANEEL Dados Abertos, arquivo bandeira-tarifaria-acionamento.csv (geração 19/10/2026), valores em R$/MWh convertidos para R$/100 kWh (divisão por 10). O campo 'bandeira' traz a cor; verde = 0.",
+    "Valores por resolução (bandeira-tarifaria-adicional.csv), em R$/MWh (amarela / V1 / V2): REH 1.859/2015 (02/03/2015) 25 / 55 / –; REH 2.016/2016 (01/02/2016) 15 / 30 / 45; REH 2.203/2017 (01/02/2017) 20 / 30 / 35; REH 2.392/2018 (01/05/2018) 10 / 30 / 50; REH 2.551/2019 (01/06/2019) 15 / 40 / 60; REH 2.628/2019 (01/11/2019) 13,43 / 41,69 / 62,43; REH 2.888/2021 (01/07/2021) 18,74 / 39,71 / 94,92; Res. CREG 3/2021 (01/09/2021) escassez hídrica 142,00; REH 3.051/2022 (01/07/2022) 29,89 / 65,00 / 97,95; REH 3.306/2024 (01/04/2024) 18,85 / 44,63 / 78,77.",
+    "A bandeira de escassez hídrica vigorou de set/2021 a abr/2022, já reduzida à metade em abril (R$ 71/MWh = R$ 7,10/100 kWh). O maior período verde foi de mai/2022 a jun/2024 (26 meses): julho/2024 foi amarela. Isso corrige a versão anterior ('abr/2022 a jul/2024').",
+    "Em 2016 a ANEEL registra fevereiro como vermelha P2 com adicional de R$ 45/MWh (valor do P2 na REH 2.016/2016); em jan–fev/2015 a vermelha P1 valia R$ 30/MWh antes da REH 1.859. A suspensão de 2020 (Despacho 1.511, 01/06/2020) aparece como verde de fev a nov e vermelha P2 (R$ 62,43) em dezembro.",
+    "2026: verde jan–abr, amarela mai–set, verde em outubro (anunciada em 25/09/2026); novembro será anunciado em 30/10/2026."
   ],
   "ultimo_periodo": "2026-10",
   "temas": [
@@ -155,6 +755,6 @@
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/06_energia_eletrobras_combustiveis.md",
   "atualizado_em": "2026-10-21",
   "lacunas": [
-    "Meses de ago–dez/2024 e o mês exato do fim da escassez hídrica em 2022 não constam das notas."
+    "Dados brutos baixados na rodada 2 de enriquecimento (21/10/2026); valores calculados sobre base oficial estão indicados como cálculo próprio na nota."
   ]
 }

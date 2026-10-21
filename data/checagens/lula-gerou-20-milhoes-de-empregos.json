@@ -27,21 +27,21 @@
     "caged"
   ],
   "veredito": "exagerado",
-  "resumo_uma_frase": "A RAIS do Ministério do Trabalho registra 15,3 milhões de empregos formais criados em 2003-2010; os 20 a 22 milhões só aparecem somando os anos do governo Dilma, e pelo Caged antigo os dois mandatos de Lula somam cerca de 10,9 milhões de vagas.",
+  "resumo_uma_frase": "A RAIS do Ministério do Trabalho registra 15,3 milhões de empregos formais criados em 2003-2010; os 20 a 22 milhões só aparecem somando os anos do governo Dilma, e pela série oficial do Caged com ajustes (MTE) os dois mandatos somam 13,45 milhões de vagas.",
   "explicacao_simples": [
     "Pela RAIS, que o Ministério do Trabalho usa para contar vínculos formais, foram criados 15,3 milhões de empregos entre 2003 e 2010.",
     "O número de 20 ou 22 milhões só aparece quando se somam também os anos do governo Dilma, segundo a Lupa.",
-    "Mesmo assim, o período Lula 1 e 2 teve a maior média anual de geração de empregos formais desde 2003, com recorde de 2,14 milhões em 2010."
+    "Mesmo assim, o período Lula 1 e 2 teve a maior geração de empregos formais desde 2003, com recorde de 2,63 milhões em 2010 na série oficial do Caged com ajustes."
   ],
-  "explicacao_completa_md": "## As bases\n\n- **RAIS** (base usada pela Lupa): 15,3 milhões de empregos formais criados em 2003-2010. Os 20-22 milhões incluem o governo Dilma.\n- **Caged antigo** (soma dos saldos mensais, Ipeadata): Lula 1 (2003-2006) +4,65 milhões; Lula 2 (2007-2010) +6,20 milhões; melhor ano 2010 (+2,14 milhões).\n- **Comprova (RAIS)**: 17.376.285 empregos em 2003-2016 (Lula + Dilma), com médias anuais de ~1,6 milhão (Lula 1), ~2,2 milhões (Lula 2) e ~1,3 milhão (Dilma 1).\n\n## Avaliação\n\nA Lupa classificou como EXAGERADO em 14/04/2026 ('20 milhões') e em 15/10/2026 ('22 milhões em 8 anos'). O exagero é de ordem de grandeza (cerca de 5 a 7 milhões a mais), mas o período de fato foi o de maior geração formal da série, favorecido pelo ciclo de commodities.\n\n## Simetria\n\nO Comprova classificou como ENGANOSO o post 'Bolsonaro gerou mais empregos que Lula e Dilma juntos' (4,1 milhões em 2019-2022 contra 17,4 milhões em 2003-2016), e o PT afirma '10,6 milhões desde 2023', número que o Novo Caged não confirma (cerca de 5,5 milhões até ago/2026).",
+  "explicacao_completa_md": "## As bases\n\n- **RAIS** (base usada pela Lupa): 15,3 milhões de empregos formais criados em 2003-2010. Os 20-22 milhões incluem o governo Dilma.\n- **Caged oficial 'com ajustes' (MTE, apresentação dez/2025)**: Lula 1 (2003-2006) +5.771.982; Lula 2 (2007-2010) +7.678.010; Lula 1-2 +13.449.992 (estoque de 22,7 milhões em dez/2002 para 36,2 milhões em dez/2010); melhor ano 2010 (+2.629.827). Sem ajustes (Ipeadata): +4,65 e +6,20 milhões.\n- **Aos Fatos (RAIS/MTE)**: 15,4 milhões em 2003-2010 e +3,9 milhões em 2011-2015, 'cerca de 20 milhões' nos governos petistas.\n- **Comprova (RAIS)**: 17.376.285 empregos em 2003-2016 (Lula + Dilma), com médias anuais de ~1,6 milhão (Lula 1), ~2,2 milhões (Lula 2) e ~1,3 milhão (Dilma 1).\n\n## Avaliação\n\nA Lupa classificou como EXAGERADO em 14/04/2026 ('20 milhões') e em 15/10/2026 ('22 milhões em 8 anos'). O exagero é de ordem de grandeza (cerca de 5 a 7 milhões a mais), mas o período de fato foi o de maior geração formal da série, favorecido pelo ciclo de commodities.\n\n## Simetria\n\nO Comprova classificou como ENGANOSO o post 'Bolsonaro gerou mais empregos que Lula e Dilma juntos' (4,1 milhões em 2019-2022 contra 17,4 milhões em 2003-2016), e o PT afirma '10,6 milhões desde 2023', número que o Novo Caged não confirma (cerca de 5,5 milhões até ago/2026).",
   "o_que_e_verdade": [
     "Entre 2003 e 2010 foram criados 15,3 milhões de empregos formais pela RAIS, a maior geração do período 2003-2022.",
-    "2010 foi o melhor ano do Caged antigo (+2.136.947 vagas); a média anual de Lula 2 (~2,2 milhões) é a maior da série.",
+    "2010 foi o melhor ano do Caged (+2.629.827 com ajustes; +2.136.947 sem ajustes); a média anual de Lula 2 (~2,2 milhões pela RAIS) é a maior da série.",
     "O desemprego metropolitano (PME) caiu de 12,3% (2003) para 6,7% (2010)."
   ],
   "o_que_nao_se_sustenta": [
     "20 ou 22 milhões só se obtêm somando os anos do governo Dilma; para 2003-2010 a RAIS indica 15,3 milhões.",
-    "Pelo Caged antigo, os dois mandatos somam cerca de 10,9 milhões de vagas (sem ajustes de declarações fora do prazo)."
+    "Pelo Caged oficial com ajustes (MTE), os dois mandatos somam 13,45 milhões; sem ajustes (Ipeadata), cerca de 10,9 milhões."
   ],
   "quem_e_responsavel": [
     {
@@ -150,6 +150,70 @@
         "rotulo": "2010",
         "valor": 6.7
       }
+    },
+    {
+      "rotulo": "Saldo do Caged com ajustes em Lula 1-2 (soma da nota)",
+      "valor": 13449992,
+      "unidade": "vínculos",
+      "periodo": "2003-2010",
+      "fonte": {
+        "nome": "MTE – Novo Caged, Apresentação dezembro de 2025 (PDF, saldos 2002-2025 'com ajustes')",
+        "url": "https://www.gov.br/trabalho-e-emprego/pt-br/assuntos/estatisticas-trabalho/novo-caged/2025/dezembro/apresentacao-dezembro-de-2025-1.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "Lula 2 (2007-2010)",
+        "valor": 7678010
+      }
+    },
+    {
+      "rotulo": "Melhor ano do Caged com ajustes",
+      "valor": 2629827,
+      "unidade": "vínculos",
+      "periodo": "2010",
+      "fonte": {
+        "nome": "MTE – Novo Caged, Apresentação dezembro de 2025 (PDF, saldos 2002-2025 'com ajustes')",
+        "url": "https://www.gov.br/trabalho-e-emprego/pt-br/assuntos/estatisticas-trabalho/novo-caged/2025/dezembro/apresentacao-dezembro-de-2025-1.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "2003",
+        "valor": 864312
+      }
+    },
+    {
+      "rotulo": "Estoque de vínculos formais (Caged, com ajustes)",
+      "valor": 36179000,
+      "unidade": "vínculos",
+      "periodo": "dez/2010",
+      "fonte": {
+        "nome": "MTE – Novo Caged, Apresentação dezembro de 2025 (PDF, saldos 2002-2025 'com ajustes')",
+        "url": "https://www.gov.br/trabalho-e-emprego/pt-br/assuntos/estatisticas-trabalho/novo-caged/2025/dezembro/apresentacao-dezembro-de-2025-1.pdf",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "dez/2002",
+        "valor": 22729000
+      }
+    },
+    {
+      "rotulo": "Empregos formais 2003-2010 (RAIS, Aos Fatos)",
+      "valor": 15.4,
+      "unidade": "milhões",
+      "periodo": "2003-2010",
+      "fonte": {
+        "nome": "Aos Fatos – Checamos a entrevista de Lula à Globo no segundo turno (15/10/2026)",
+        "url": "https://www.aosfatos.org/noticias/checamos-lula-globo-segundo-turno/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      },
+      "comparacao": {
+        "rotulo": "2011-2015 (Dilma)",
+        "valor": 3.9
+      }
     }
   ],
   "series": [
@@ -168,6 +232,12 @@
       "veiculo": "Lupa",
       "veredito_original": "EXAGERADO ('22 milhões em 8 anos')",
       "url": "https://www.agencialupa.org/checagem/2026/10/15/ao-vivo-checagem-da-entrevista-de-lula-na-tv-globo/",
+      "data": "2026-10-15"
+    },
+    {
+      "veiculo": "Aos Fatos",
+      "veredito_original": "'22 milhões em 8 anos' só fecha somando Dilma: 15,4 mi (2003-2010) + 3,9 mi (2011-2015) ≈ 20 mi",
+      "url": "https://www.aosfatos.org/noticias/checamos-lula-globo-segundo-turno/",
       "data": "2026-10-15"
     }
   ],
@@ -201,13 +271,25 @@
       "url": "https://www.agencialupa.org/checagem/2026/04/14/lula-exagera-ao-falar-de-empregos-e-erra-sobre-preco-de-combustiveis-no-brasil/",
       "acesso_em": "2026-10-21",
       "tier": "checagem"
+    },
+    {
+      "nome": "MTE – Novo Caged, Apresentação dezembro de 2025 (PDF, saldos 2002-2025 'com ajustes')",
+      "url": "https://www.gov.br/trabalho-e-emprego/pt-br/assuntos/estatisticas-trabalho/novo-caged/2025/dezembro/apresentacao-dezembro-de-2025-1.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Aos Fatos – Checamos a entrevista de Lula à Globo no segundo turno (15/10/2026)",
+      "url": "https://www.aosfatos.org/noticias/checamos-lula-globo-segundo-turno/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/03_emprego_renda_pobreza_social.md",
   "perguntas_frequentes": [
     {
       "pergunta": "Por que RAIS e Caged dão números diferentes?",
-      "resposta": "A RAIS é um censo anual de vínculos; o Caged soma admissões menos desligamentos mensais e teve quebra metodológica em 2020 (Novo Caged/eSocial). Somas entre bases não são comparáveis."
+      "resposta": "A RAIS é um censo anual de vínculos; o Caged soma admissões menos desligamentos mensais, tem versão 'com ajustes' (declarações fora do prazo) e 'sem ajustes', e teve quebra metodológica em 2020 (Novo Caged/eSocial). Somas entre bases não são comparáveis."
     },
     {
       "pergunta": "Qual governo gerou mais empregos formais por ano?",
@@ -228,6 +310,10 @@
     {
       "data": "2026-10-21",
       "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "enriquecimento rodada 2: série oficial do Caged com ajustes (13,45 mi em 2003-2010), Aos Fatos 15/10 (RAIS 15,4 mi)"
     }
   ],
   "exemplo": false

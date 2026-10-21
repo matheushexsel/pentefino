@@ -1,0 +1,79 @@
+{
+  "id": "fala-0344",
+  "slug": "lula-voce-tem-que-explicar-134-milhoes-do-vorcaro",
+  "evento_id": "debate-band-2turno-2026-10-18",
+  "candidato": "lula",
+  "lado": "governo-lula-pt",
+  "minuto": "≈26 min após a abertura; stream 04:40:5x (≈20h41)",
+  "url_trecho": "https://www.youtube.com/watch?v=Gqc1rQtzWUk&t=16855s",
+  "frase_literal": "Você tem que explicar 134 milhões do Vorcaro, que você disse que não pegou e pegou, disse que foi para o fundo e não foi. […] Onde você colocou esse dinheiro? 134 milhões.",
+  "literal": true,
+  "variantes_literais": [
+    "Legenda automática: 'Você tem que explicar 134 milhões do Vucano [Vorcaro], que você disse que não pegou e pegou, disse que foi para o fundo e não foi. […] Foi para ajudar o seu irmão Vininho a ficar traindo o Brasil?'; Lula (04:41:24): 'Quero distância. Eu com miliciano?' / 'Eu tô sem carteira aqui, senão vai me roubar'."
+  ],
+  "tema": "corrupcao",
+  "veredito": "verdadeiro-mas",
+  "resumo_uma_frase": "O valor (US$ 24 milhões ≈ R$ 134 milhões) e o trajeto via intermediária e fundo Havengate constam dos autos, e a negativa inicial de Flávio está documentada; 'não foi para o fundo' é afirmação sobre fato ainda em investigação.",
+  "explicacao_simples": [
+    "Lula, no debate da Band (18/10/2026), disse: “Você tem que explicar 134 milhões do Vorcaro, que você disse que não pegou e pegou, disse que foi para o fundo e não foi. […] Onde você colocou esse dinheiro? 134 milhões”.",
+    "Sem veredito das agências. O Aos Fatos (16/10) e o Ranking registram o aporte de US$ 24 mi ≈ R$ 134 mi via intermediária e fundo Havengate (Texas); o Aos Fatos (24/9) documenta a negativa de março de 2026 ('não conheço') e a admissão posterior. Que o dinheiro 'não foi para o fundo' não está comprovado. Literal pela legenda automática (04:40:5x ≈20h41; repetido em 04:44:0x ≈20h44: 'Você só pode ajudar quando você explicar os 134 milhões'). Veredito provisório do projeto.",
+    "O núcleo da frase está correto, mas falta uma ressalva que muda o peso do dado; por isso a classificação é 'verdadeiro, mas'."
+  ],
+  "o_que_e_verdade": [
+    "Aporte de ~R$ 134 milhões de Vorcaro ao Dark Horse e negativa inicial de Flávio estão documentados."
+  ],
+  "o_que_nao_se_sustenta": [
+    "A afirmação de que o dinheiro 'não foi para o fundo' é objeto de inquérito, não fato comprovado."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Aporte de Vorcaro ao Dark Horse",
+      "valor": 134,
+      "unidade": "R$ milhões (≈ US$ 24 mi)",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Aos Fatos",
+        "url": "https://www.aosfatos.org/noticias/checamos-flavio-bolsonaro-globo-segundo-turno/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      }
+    }
+  ],
+  "fontes_primarias": [],
+  "base_legal": [],
+  "checagens_externas": [],
+  "checagem_slug": "dark-horse-vorcaro-flavio",
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Aos Fatos",
+      "url": "https://www.aosfatos.org/noticias/flavio-mentiu-ao-menos-43-vezes-sobre-envolvimento-com-vorcaro/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Aos Fatos",
+      "url": "https://www.aosfatos.org/noticias/checamos-flavio-bolsonaro-globo-segundo-turno/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Ranking dos Políticos",
+      "url": "https://ranking.org.br/en/articles/veja-o-que-e-fato-e-o-que-e-fake-na-sabatina-de-flavio-bolsonaro-no-jornal-nacional",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
+  "atualizado_em": "2026-10-21",
+  "lacunas": [
+    "Veredito provisório do projeto (rodada 2), sem agência; dados primários na nota 09.",
+    "Sem checagem de agência; veredito atribuído pela nota com base nos fatos citados."
+  ],
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "inclusão na rodada 2 de enriquecimento da nota 14"
+    }
+  ]
+}

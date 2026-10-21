@@ -5,8 +5,10 @@
   "candidato": "lula",
   "lado": "governo-lula-pt",
   "minuto": null,
+  "url_trecho": null,
   "frase_literal": "[Fomos o] único país do G20 [a registrar superávit 2003–2010].",
   "literal": true,
+  "variantes_literais": [],
   "tema": "contas-publicas",
   "veredito": "falso",
   "resumo_uma_frase": "A Argentina também registrou superávit primário no período.",
@@ -20,6 +22,15 @@
     "Argentina também teve superávit."
   ],
   "numeros": [],
+  "fontes_primarias": [
+    {
+      "nome": "FMI — WEO Database (saldo primário por país)",
+      "url": "https://www.imf.org/en/Publications/WEO/weo-database",
+      "acesso_em": null,
+      "tier": "multilateral",
+      "acessada_na_rodada_2": false
+    }
+  ],
   "base_legal": [],
   "checagens_externas": [
     {
@@ -40,5 +51,11 @@
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
-  "atualizado_em": "2026-10-21"
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ]
 }

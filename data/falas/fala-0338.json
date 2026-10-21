@@ -5,8 +5,10 @@
   "candidato": "lula",
   "lado": "governo-lula-pt",
   "minuto": null,
+  "url_trecho": null,
   "frase_literal": "Nunca pedi um favor ao ministro da Suprema Corte. Nunca pedi e não vou pedir. / Quem teve desgaste foi quem não aprovou [Messias], não fui eu.",
   "literal": true,
+  "variantes_literais": [],
   "tema": "justica-stf",
   "veredito": "opiniao",
   "resumo_uma_frase": "Declaração sobre a própria conduta e avaliação política da rejeição de Messias; não verificável.",
@@ -18,6 +20,7 @@
   "o_que_e_verdade": [],
   "o_que_nao_se_sustenta": [],
   "numeros": [],
+  "fontes_primarias": [],
   "base_legal": [],
   "checagens_externas": [],
   "checagem_slug": null,
@@ -46,5 +49,11 @@
   "atualizado_em": "2026-10-21",
   "lacunas": [
     "A nota registra 'opiniao/insustentavel'; adotada opinião conforme a contagem do evento."
+  ],
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
   ]
 }

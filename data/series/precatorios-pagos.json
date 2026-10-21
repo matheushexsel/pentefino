@@ -1,0 +1,87 @@
+{
+  "id": "precatorios-pagos",
+  "titulo": "Precatórios federais pagos por ano (% do PIB)",
+  "descricao_simples": "Quanto a União pagou em dívidas judiciais (precatórios) a cada ano, em proporção do PIB.",
+  "unidade": "% do PIB",
+  "tipo_grafico": "barra",
+  "frequencia": "anual",
+  "fonte": {
+    "nome": "IFI, RAF 116 (set/2026), p. 48-50, Gráfico 9 (SIOP, critério pagamento)",
+    "url": "https://www12.senado.leg.br/ifi/pdf/raf116_set2026.pdf",
+    "acesso_em": "2026-10-21",
+    "tier": "oficial"
+  },
+  "pontos": [
+    {
+      "periodo": "2018",
+      "valor": 0.52
+    },
+    {
+      "periodo": "2019",
+      "valor": 0.56
+    },
+    {
+      "periodo": "2020",
+      "valor": 0.66
+    },
+    {
+      "periodo": "2021",
+      "valor": 0.6
+    },
+    {
+      "periodo": "2022",
+      "valor": 0.58
+    },
+    {
+      "periodo": "2023",
+      "valor": 1.38,
+      "valor_reais_bilhoes": 151.0,
+      "observacao": "260% do valor pago em 2022; efeito da ADI 7064, inclui estoque represado pelas EC 113/114 e R$ 32,2 bi antecipados de 2024"
+    },
+    {
+      "periodo": "2024",
+      "valor": 0.58
+    },
+    {
+      "periodo": "2025",
+      "valor": 0.78
+    },
+    {
+      "periodo": "2026 (até 09/09/2026)",
+      "valor": 0.67,
+      "parcial": true
+    }
+  ],
+  "faixas_referencia": [
+    {
+      "rotulo": "Dotação total para precatórios em 2026 (R$ bi)",
+      "valor": 122.3
+    },
+    {
+      "rotulo": "PLOA 2027 (R$ bi), dos quais R$ 33,7 bi condicionados à regra de ouro",
+      "valor": 97.7
+    },
+    {
+      "rotulo": "Sentenças e precatórios (custeio e capital), Tesouro, 2023 (R$ bi)",
+      "valor": 71.4
+    },
+    {
+      "rotulo": "Precatórios pagos em 2023 segundo o BCB (R$ bi)",
+      "valor": 92.4
+    }
+  ],
+  "notas_metodologicas": [
+    "O critério SIOP (R$ 151,0 bi em 2023) é mais amplo que a linha 'sentenças judiciais e precatórios (custeio e capital)' do Tesouro (R$ 71,4 bi) e que o valor do BCB (R$ 92,4 bi), porque inclui precatórios de pessoal e previdenciários classificados em outras linhas.",
+    "Tesouro (rodada 1, custeio e capital): R$ 17,3 bi (2022) → R$ 71,4 bi (2023) → R$ 34,3 bi (2024) → R$ 42,8 bi (2025); precatórios previdenciários urbanos: 22,2 → 44,5 → 20,9 → 33,2.",
+    "EC 136/2025: precatórios e RPVs fora do limite de despesa a partir de 2026; a partir de 2027, 10% do estoque é reincorporado por ano às metas."
+  ],
+  "lacunas": [
+    "Série em R$ do Tesouro 2015–2026 inacessível (HTTP 429)."
+  ],
+  "ultimo_periodo": "2026 (até 09/09/2026)",
+  "temas": [
+    "contas-publicas"
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/02_contas_publicas_divida.md",
+  "atualizado_em": "2026-10-21"
+}

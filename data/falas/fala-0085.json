@@ -5,8 +5,10 @@
   "candidato": "lula",
   "lado": "governo-lula-pt",
   "minuto": null,
+  "url_trecho": null,
   "frase_literal": "O Brasil tem cerca de 40 mil mortes violentas por ano.",
   "literal": false,
+  "variantes_literais": [],
   "tema": "seguranca",
   "veredito": "verdadeiro",
   "resumo_uma_frase": "A cifra está na faixa do Anuário Brasileiro de Segurança Pública 2024–2025.",
@@ -30,7 +32,23 @@
         "url": "https://ranking.org.br/en/articles/checagem-sabatina-lula-sbt-2026",
         "acesso_em": "2026-10-21",
         "tier": "checagem"
+      },
+      "fonte_primaria": {
+        "nome": "FBSP — Anuário Brasileiro de Segurança Pública 2026",
+        "url": "https://forumseguranca.org.br/anuario-brasileiro-seguranca-publica/",
+        "acesso_em": "2026-10-21",
+        "tier": "academico",
+        "acessada_na_rodada_2": true
       }
+    }
+  ],
+  "fontes_primarias": [
+    {
+      "nome": "FBSP — Anuário Brasileiro de Segurança Pública 2026",
+      "url": "https://forumseguranca.org.br/anuario-brasileiro-seguranca-publica/",
+      "acesso_em": "2026-10-21",
+      "tier": "academico",
+      "acessada_na_rodada_2": true
     }
   ],
   "base_legal": [],
@@ -53,5 +71,11 @@
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
-  "atualizado_em": "2026-10-21"
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ]
 }

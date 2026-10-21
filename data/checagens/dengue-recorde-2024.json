@@ -31,21 +31,22 @@
     "lula-3"
   ],
   "veredito": "verdadeiro",
-  "resumo_uma_frase": "2024 foi o pior ano da série histórica iniciada em 2000: 6.022 mortes e 6,6 milhões de registros até 28/12/2024, mais que a soma de 2017–2023; o controle do mosquito é municipal e a vacina e os repasses são federais.",
+  "resumo_uma_frase": "2024 foi o pior ano da série histórica iniciada em 2000: 6.321 mortes e 6,56 milhões de casos prováveis no consolidado do MS (6.022 mortes no corte de 28/12/2024), mais que a soma de 2017–2023; em 2025 as mortes caíram 72%. O controle do mosquito é municipal e a vacina e os repasses são federais.",
   "explicacao_simples": [
-    "Até 28/12/2024 o Brasil registrou 6,6 milhões de notificações e 6.022 mortes por dengue, superando a soma dos sete anos anteriores, segundo o painel do Ministério da Saúde reproduzido pela imprensa.",
-    "Já em março de 2024 o país passou de 2 milhões de casos (recorde da série) e em abril as mortes das 13 primeiras semanas superaram todo o ano de 2023.",
+    "No consolidado do Ministério da Saúde, 2024 teve 6.563.561 casos prováveis e 6.321 mortes por dengue (o corte de 28/12/2024 trazia 6.022), mais que a soma dos sete anos anteriores.",
+    "Já em março de 2024 o país passou de 2 milhões de casos (recorde da série) e em abril as mortes das 13 primeiras semanas superaram todo o ano de 2023; em 2025 os casos caíram 75% (1,66 milhão) e as mortes 72% (1.762), voltando ao patamar de 2023.",
     "O controle do mosquito é feito pelos municípios (agentes de endemias) com apoio dos estados; a vacina Qdenga e os R$ 1,5 bi de repasses emergenciais são federais, e a epidemia coincidiu com El Niño e expansão do sorotipo 3."
   ],
-  "explicacao_completa_md": "## Os números de 2024\n\n- Até 28/12/2024: 6,6 milhões de registros, 652.053 casos prováveis adicionais e 6.022 mortes — mais que a soma de 2017–2023 (imprensa citando o painel do MS).\n- Mar/2024: mais de 2 milhões de casos, recorde da série iniciada em 2000.\n- Abr/2024: 1.116 óbitos em 13 semanas superaram o total de 2023 (1.079–1.094, conforme a fonte).\n- Jun/2024: mais de 6 milhões de casos prováveis; mortes de 1.179 (2023) para 4.019 (2024) à época; o MS afirmava queda por 15 semanas após o pico de março.\n\n## Quem responde\n\n- Municípios: controle vetorial (agentes de endemias), vigilância local, atenção básica.\n- Estados: apoio ao controle vetorial, leitos e regulação.\n- União: vacina (Qdenga), repasses emergenciais (R$ 1,5 bi em 2024), coordenação nacional.\n- Fatores externos: El Niño (calor e chuvas) e expansão do sorotipo 3.\n\n## Veredito\n\nVerdadeiro. Atribuir a epidemia exclusivamente ao governo federal, porém, ignora que o controle do mosquito é municipal e que o clima pesou.",
+  "explicacao_completa_md": "## Os números de 2024\n\n- Consolidado do MS (Brasil 61, 23/12/2025): 6.563.561 casos prováveis e 6.321 óbitos. O corte de 28/12/2024 trazia 6,6 milhões de registros, 652.053 casos prováveis adicionais e 6.022 mortes — já então mais que a soma de 2017–2023.\n- Mar/2024: mais de 2 milhões de casos, recorde da série iniciada em 2000.\n- Abr/2024: 1.116 óbitos em 13 semanas superaram o total de 2023 (1.079–1.094, conforme a fonte).\n- Jun/2024: mais de 6 milhões de casos prováveis; mortes de 1.179 (2023) para 4.019 (2024) à época; o MS afirmava queda por 15 semanas após o pico de março.\n\n## 2025: forte recuo\n\n- Corte de 23/12/2025: 1.660.190 casos prováveis e 1.762 óbitos (cerca de 200 em investigação) — queda de 75% nos casos e 72% nos óbitos frente a 2024. Sudeste 1.132.304 casos/1.288 óbitos; Sul 222.171/219; Centro-Oeste 162.441/145; Nordeste 102.647/64; Norte 40.643/46. São Paulo concentrou 900.677 casos; na SE 39, 1.090 óbitos (66%).\n- 2025 voltou ao patamar de 2023 (cerca de 1,49 milhão de casos).\n\n## Quem responde\n\n- Municípios: controle vetorial (agentes de endemias), vigilância local, atenção básica.\n- Estados: apoio ao controle vetorial, leitos e regulação.\n- União: vacina (Qdenga), repasses emergenciais (R$ 1,5 bi em 2024), coordenação nacional.\n- Fatores externos: El Niño (calor e chuvas) e expansão do sorotipo 3.\n\n## Veredito\n\nVerdadeiro. Atribuir a epidemia exclusivamente ao governo federal, porém, ignora que o controle do mosquito é municipal e que o clima pesou.",
   "o_que_e_verdade": [
-    "6.022 mortes e 6,6 milhões de registros em 2024, pior ano da série histórica.",
+    "6.321 mortes e 6.563.561 casos prováveis em 2024 (consolidado), pior ano da série histórica.",
     "Mortes de 2024 superaram a soma dos sete anos anteriores.",
     "Recorde de casos já em março de 2024."
   ],
   "o_que_nao_se_sustenta": [
     "Responsabilizar só o governo federal: controle do mosquito é municipal, com apoio estadual.",
-    "Ignorar o clima: a epidemia coincidiu com El Niño e a expansão do sorotipo 3."
+    "Ignorar o clima: a epidemia coincidiu com El Niño e a expansão do sorotipo 3.",
+    "Sugerir que a epidemia continua: em 2025 casos caíram 75% e mortes 72%."
   ],
   "quem_e_responsavel": [
     {
@@ -71,43 +72,67 @@
   ],
   "numeros": [
     {
-      "rotulo": "Mortes por dengue",
-      "valor": 6022,
+      "rotulo": "Mortes por dengue (consolidado MS)",
+      "valor": 6321,
       "unidade": "óbitos",
-      "periodo": "2024 (até 28/12)",
+      "periodo": "2024",
       "fonte": {
-        "nome": "Revista Oeste (painel do MS) — dengue 2024",
-        "url": "https://www.revistaoeste.com/saude/recorde-brasil-tem-66-milhoes-de-casos-de-dengue-em-2024-e-mais-de-6-mil-mortes/",
+        "nome": "Brasil 61 (dados do Ministério da Saúde), 23/12/2025 — dengue 2025",
+        "url": "https://brasil61.com/n/brasil-registra-1-66-milhao-de-casos-provaveis-de-dengue-em-2025-bras2515393",
         "acesso_em": "2026-10-21",
         "tier": "imprensa"
       },
       "comparacao": {
-        "rotulo": "2023 (jun/2024)",
-        "valor": 1179
+        "rotulo": "corte de 28/12/2024",
+        "valor": 6022
       }
     },
     {
-      "rotulo": "Registros de dengue",
-      "valor": 6600000,
-      "unidade": "notificações",
-      "periodo": "2024",
-      "fonte": {
-        "nome": "Revista Oeste (painel do MS) — dengue 2024",
-        "url": "https://www.revistaoeste.com/saude/recorde-brasil-tem-66-milhoes-de-casos-de-dengue-em-2024-e-mais-de-6-mil-mortes/",
-        "acesso_em": "2026-10-21",
-        "tier": "imprensa"
-      }
-    },
-    {
-      "rotulo": "Casos prováveis adicionais",
-      "valor": 652053,
+      "rotulo": "Casos prováveis de dengue",
+      "valor": 6563561,
       "unidade": "casos",
       "periodo": "2024",
       "fonte": {
-        "nome": "Revista Oeste (painel do MS) — dengue 2024",
-        "url": "https://www.revistaoeste.com/saude/recorde-brasil-tem-66-milhoes-de-casos-de-dengue-em-2024-e-mais-de-6-mil-mortes/",
+        "nome": "Brasil 61 (dados do Ministério da Saúde), 23/12/2025 — dengue 2025",
+        "url": "https://brasil61.com/n/brasil-registra-1-66-milhao-de-casos-provaveis-de-dengue-em-2025-bras2515393",
         "acesso_em": "2026-10-21",
         "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "2023 (aprox.)",
+        "valor": 1490000
+      }
+    },
+    {
+      "rotulo": "Mortes por dengue",
+      "valor": 1762,
+      "unidade": "óbitos",
+      "periodo": "2025 (até 23/12)",
+      "fonte": {
+        "nome": "Brasil 61 (dados do Ministério da Saúde), 23/12/2025 — dengue 2025",
+        "url": "https://brasil61.com/n/brasil-registra-1-66-milhao-de-casos-provaveis-de-dengue-em-2025-bras2515393",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "variação vs 2024 (%)",
+        "valor": -72
+      }
+    },
+    {
+      "rotulo": "Casos prováveis de dengue",
+      "valor": 1660190,
+      "unidade": "casos",
+      "periodo": "2025 (até 23/12)",
+      "fonte": {
+        "nome": "Brasil 61 (dados do Ministério da Saúde), 23/12/2025 — dengue 2025",
+        "url": "https://brasil61.com/n/brasil-registra-1-66-milhao-de-casos-provaveis-de-dengue-em-2025-bras2515393",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "variação vs 2024 (%)",
+        "valor": -75
       }
     },
     {
@@ -145,6 +170,18 @@
   "checagens_externas": [],
   "fontes": [
     {
+      "nome": "Brasil 61 (dados do Ministério da Saúde), 23/12/2025 — dengue 2025",
+      "url": "https://brasil61.com/n/brasil-registra-1-66-milhao-de-casos-provaveis-de-dengue-em-2025-bras2515393",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Poder360, 02/10/2025 — painel do MS, semana epidemiológica 39",
+      "url": "https://www.poder360.com.br/poder-saude/brasil-soma-16-milhao-de-casos-de-dengue-sp-tem-maior-no-de-mortes/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
       "nome": "Revista Oeste (painel do MS) — dengue 2024",
       "url": "https://www.revistaoeste.com/saude/recorde-brasil-tem-66-milhoes-de-casos-de-dengue-em-2024-e-mais-de-6-mil-mortes/",
       "acesso_em": "2026-10-21",
@@ -179,20 +216,24 @@
   "perguntas_frequentes": [
     {
       "pergunta": "E 2025?",
-      "resposta": "A nota não acessou o painel oficial de arboviroses nem números fechados de 2025 ou doses da Qdenga aplicadas."
+      "resposta": "Até 23/12/2025 foram 1.660.190 casos prováveis e 1.762 óbitos (cerca de 200 em investigação), queda de 75% e 72% frente a 2024; SP concentrou 900.677 casos. Doses da Qdenga aplicadas não foram localizadas."
     }
   ],
   "relacionadas": [
     "vacinacao-caiu-no-governo-bolsonaro"
   ],
   "lacunas": [
-    "Painel oficial de arboviroses não acessado; números de 2025 e doses da Qdenga não localizados; o número de mortes de 2023 varia conforme a data (1.079 a 1.179)."
+    "Painel oficial de arboviroses não acessado (carregado por JS); doses da Qdenga não localizadas; o número de mortes de 2023 varia conforme a data (1.079 a 1.179)."
   ],
   "atualizado_em": "2026-10-21",
   "changelog": [
     {
       "data": "2026-10-21",
       "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "rodada 2 de enriquecimento: 2024 corrigido para o consolidado do MS (6.321 óbitos; 6.563.561 casos) e 2025 incorporado"
     }
   ],
   "exemplo": false

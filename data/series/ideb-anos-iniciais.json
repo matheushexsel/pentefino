@@ -1,7 +1,7 @@
 {
   "id": "ideb-anos-iniciais",
   "titulo": "Ideb — anos iniciais do ensino fundamental (1º ao 5º ano)",
-  "descricao_simples": "Índice de Desenvolvimento da Educação Básica dos anos iniciais. Subiu de 3,8 (2005) para 6,0 (2023), atingindo a meta nacional.",
+  "descricao_simples": "Índice de Desenvolvimento da Educação Básica dos anos iniciais. Subiu de 3,8 (2005) para 6,0 (2023) e 6,3 (2025), superando a meta de 6,0; todas as 27 UFs melhoraram em 2025.",
   "unidade": "pontos (0 a 10)",
   "tipo_grafico": "linha",
   "frequencia": "anual",
@@ -51,37 +51,109 @@
     {
       "periodo": "2023",
       "valor": 6.0
+    },
+    {
+      "periodo": "2025",
+      "valor": 6.3,
+      "detalhe": {
+        "meta": 6.0,
+        "meta_atingida": true,
+        "rede_publica": 6.1,
+        "ufs_que_melhoraram": 27
+      }
     }
   ],
   "faixas_referencia": [
     {
-      "rotulo": "Meta 2023",
+      "rotulo": "Meta 2023/2025",
       "valor": 6.0
+    },
+    {
+      "rotulo": "Paraná 2025 (líder; 6,9 na Agência Brasil)",
+      "valor": 7.0
+    },
+    {
+      "rotulo": "Ceará 2025",
+      "valor": 6.8
+    },
+    {
+      "rotulo": "Amapá 2025 (menor)",
+      "valor": 5.5
     },
     {
       "rotulo": "Paraná 2023 (líder)",
       "valor": 6.7
-    },
-    {
-      "rotulo": "Ceará 2023",
-      "valor": 6.6
-    },
-    {
-      "rotulo": "São Paulo 2023",
-      "valor": 6.5
     }
   ],
+  "por_uf_2025": {
+    "fonte": {
+      "nome": "PEBSP — tabela Ideb/Inep 2025 por estado (05/08/2026)",
+      "url": "https://www.pebsp.com/mec-apresenta-resultados-do-ideb-2025-veja-as-notas-de-todos-os-estados/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    "nota": "fonte secundária (PEBSP/Agência Brasil); conferir nas planilhas do Inep",
+    "valores": {
+      "AC": 6.3,
+      "AL": 6.4,
+      "AM": 6.0,
+      "AP": 5.5,
+      "BA": 5.7,
+      "CE": 6.8,
+      "DF": 6.4,
+      "ES": 6.6,
+      "GO": 6.5,
+      "MA": 5.7,
+      "MG": 6.6,
+      "MS": 5.9,
+      "MT": 6.3,
+      "PA": 5.6,
+      "PB": 6.1,
+      "PE": 6.0,
+      "PI": 6.3,
+      "PR": 7.0,
+      "RJ": 6.1,
+      "RN": 5.7,
+      "RO": 6.1,
+      "RR": 5.9,
+      "RS": 6.3,
+      "SC": 6.7,
+      "SE": 5.8,
+      "SP": 6.6,
+      "TO": 5.9
+    }
+  },
   "notas_metodologicas": [
-    "Ideb = fluxo (aprovação) x desempenho (Saeb). Fonte: Inep, via compilação da Wikipédia pt e cobertura do Ideb 2023 (divulgado em 14/08/2024).",
-    "O Ideb 2025 (coleta em 2025) ainda não havia sido divulgado nas fontes localizadas pela nota; a página do Inep foi atualizada em 05/08/2026.",
-    "Responsabilidade: anos iniciais são majoritariamente redes municipais; anos finais, municipais e estaduais; ensino médio, redes estaduais. A União financia via Fundeb e define a BNCC.",
-    "Entre 2021 e 2023, 26 estados melhoraram nos anos iniciais. A edição é bienal (os pontos são a cada dois anos)."
+    "Ideb = fluxo (aprovação) x desempenho (Saeb). Fonte: Inep, via compilação da Wikipédia pt (2005–2023) e cobertura do Ideb 2023 (14/08/2024) e do Ideb 2025 (divulgado em 05/08/2026).",
+    "Ideb 2025: anos iniciais 6,3 (meta 6,0 superada), anos finais 5,3 (meta 5,5 não atingida), ensino médio 4,5 (meta 5,2 não atingida) — todos os maiores valores da série iniciada em 2005. Rede pública: 5,7 → 6,1; 4,7 → 5,0; 4,1 → 4,3 entre 2023 e 2025. Alunos avaliados: 14,5 mi (iniciais), 11,2 mi (finais), 7,3 mi (médio). Próximo Ideb: 2027.",
+    "O ciclo do PNE se encerrou em 2025 com 12 anos seguidos sem cumprir as metas de anos finais e ensino médio (o ensino médio não atinge a meta desde 2013).",
+    "Responsabilidade: anos iniciais são majoritariamente redes municipais; anos finais, municipais e estaduais; ensino médio, redes estaduais. A União avalia (Saeb/Inep), financia via Fundeb e define a BNCC.",
+    "Entre 2021 e 2023, 26 estados melhoraram nos anos iniciais; entre 2023 e 2025, todas as 27 UFs. Municípios com Ideb até 4,9 nos anos iniciais: 4.110 (2005) → 1.097 (2023) → 442 (2025).",
+    "Maiores em 2025: PR 7,0 (6,9 na Agência Brasil), CE 6,8, SC 6,7, ES/MG/SP 6,6, GO 6,5. Menores: AP 5,5; PA 5,6; BA, MA e RN 5,7. A edição é bienal."
   ],
-  "ultimo_periodo": "2023",
+  "ultimo_periodo": "2025",
   "temas": [
     "educacao"
   ],
   "fontes_adicionais": [
+    {
+      "nome": "Agência Brasil via O Povo, 05/08/2026 — Ideb 2025",
+      "url": "https://www.opovo.com.br/noticias/brasil/2026/08/05/amp/ideb-mostra-avanco-da-educacao-basica-no-pais.html",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Gazeta do Povo — Ideb 2025 e metas do PNE",
+      "url": "https://www.gazetadopovo.com.br/educacao/ideb-escolas-encerram-2025-sem-atingir-metas-previstas-2021/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "PEBSP — tabela Ideb/Inep 2025 por estado (05/08/2026)",
+      "url": "https://www.pebsp.com/mec-apresenta-resultados-do-ideb-2025-veja-as-notas-de-todos-os-estados/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
     {
       "nome": "Folha Vitória — Ideb 2023 e metas",
       "url": "https://www.folhavitoria.com.br/geral/brasil-fica-estagnado-na-qualidade-de-ensino-e-longe-da-maioria-das-metas/",
@@ -102,7 +174,7 @@
     }
   ],
   "lacunas": [
-    "Ideb 2025 não divulgado nas fontes da nota."
+    "Divergência para o Paraná em 2025 (6,9 na Agência Brasil; 7,0 na tabela do PEBSP) não resolvida; planilhas do Inep não lidas."
   ],
   "atualizado_em": "2026-10-21",
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/07_saude_seguranca_educacao_infra_ambiente.md"

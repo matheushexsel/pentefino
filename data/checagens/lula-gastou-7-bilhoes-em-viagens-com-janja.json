@@ -35,7 +35,7 @@
     "As viagens da Presidência da República custaram R$ 150,5 milhões em três anos.",
     "Lupa e Aos Fatos classificaram como falso; o Estadão Verifica, como enganoso; a peça viral já havia sido desmentida em 05/10."
   ],
-  "explicacao_completa_md": "A Lupa classificou como FALSO: R$ 7,14 bilhões é o gasto de toda a estrutura federal com viagens em 2023-2025 (Portal da Transparência); a Presidência gastou R$ 150,5 milhões em viagens no período. O Aos Fatos (05/10/2026) já havia desmentido a versão viral e classificou a fala no debate como FALSA; o Estadão Verifica classificou como ENGANOSO (R$ 7,35 bilhões, cerca de 475 mil pessoas, mais de 34 órgãos). A nota 09 registra a frase como 'reciclagem' de peça já desmentida.",
+  "explicacao_completa_md": "A Lupa classificou como FALSO: R$ 7,14 bilhões é o gasto de toda a estrutura federal com viagens em 2023-2025 (Portal da Transparência); a Presidência gastou R$ 150,5 milhões em viagens no período. O Aos Fatos (05/10/2026) já havia desmentido a versão viral e classificou a fala no debate como FALSA; o Estadão Verifica classificou como ENGANOSO (R$ 7,35 bilhões, cerca de 475 mil pessoas, mais de 34 órgãos). A nota 09 registra a frase como 'reciclagem' de peça já desmentida.\n\n**Atualização (enriquecimento, 21/10/2026):** literal (legenda automática, ≈21h01): 'com as janjas de 7 bilhões que você gastou com a Janja, eu vou tirar dele, da Janja, e vou dar para você'; Lula respondeu: 'Vai no Google, mais uma vez ele vai dar uma mentira'. A Lupa já havia classificado como FALSO, em 25/09/2026, que Lula gastou R$ 7,35 bilhões em viagens com Janja.",
   "o_que_e_verdade": [
     "O governo federal como um todo gastou cerca de R$ 7,1 a 7,4 bilhões com viagens de servidores em 2023-2025."
   ],
@@ -117,6 +117,12 @@
       "veredito_original": "ENGANOSO",
       "url": "https://www.polemicaparaiba.com.br/brasil/estadao-verifica-checa-declaracoes-de-lula-e-flavio-bolsonaro-em-debate-e-aponta-informacoes-falsas-enganosas-e-verdadeiras-confira/",
       "data": "2026-10-18"
+    },
+    {
+      "veiculo": "Agência Lupa",
+      "veredito_original": "FALSO ('Lula gastou R$ 7,35 bilhões em viagens com Janja')",
+      "url": "https://www.agencialupa.org/jornalismo/2026/09/25/e-falso-que-lula-gastou-r-735-bilhoes-em-viagens-com-janja/",
+      "data": "2026-09-25"
     }
   ],
   "fontes": [
@@ -137,6 +143,18 @@
       "url": "https://www.aosfatos.org/noticias/lula-7-bilhoes-viagens/",
       "acesso_em": "2026-10-21",
       "tier": "checagem"
+    },
+    {
+      "nome": "Agência Lupa",
+      "url": "https://www.agencialupa.org/jornalismo/2026/09/25/e-falso-que-lula-gastou-r-735-bilhoes-em-viagens-com-janja/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Band Jornalismo (YouTube, live integral do debate de 18/10/2026; legenda automática)",
+      "url": "https://www.youtube.com/watch?v=Gqc1rQtzWUk",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/09_acusacoes_e_falas_flavio_x_lula.md",
@@ -163,6 +181,10 @@
     {
       "data": "2026-10-21",
       "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "enriquecimento rodada 2 (21/10/2026): literal da legenda; checagem da Lupa de 25/09/2026"
     }
   ],
   "exemplo": false

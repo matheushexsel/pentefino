@@ -5,14 +5,14 @@
   "governo": "lula-3",
   "lado": "governo-lula-pt",
   "norma": {
-    "nome": "Medida Provisória 1.303/2025 (editada como alternativa à alta do IOF, jun/2025)",
-    "data": null,
-    "url": "https://pradvogados.com.br/2025/09/26/mp-1303-parecer-mantem-isencao-para-debentures-incentivadas-cri-e-cra-mas-eleva-tributacao-sobre-lci-e-lca-para-75/",
+    "nome": "Medida Provisória 1.303, de 11/06/2025 (DOU edição extra de 11/06/2025; 'Vigência encerrada'), editada como alternativa à alta do IOF",
+    "data": "2025-06-11",
+    "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/Mpv/mpv1303.htm",
     "vigencia": "Perdeu eficácia em 08/10/2025, após a Câmara retirar o texto de pauta"
   },
   "status": "caducou",
   "o_que_faz_simples": [
-    "O texto original previa IR de 5% sobre títulos hoje isentos para pessoa física (LCI, LCA, CRI, CRA e debêntures incentivadas), elevação da contribuição das bets sobre o GGR de 12% para 18% e do IRRF sobre juros sobre capital próprio (JCP) de 15% para 20%.",
+    "Texto da MP: alíquota única de 17,5% de IR sobre aplicações financeiras (no ajuste anual/IRRF), em lugar da tabela regressiva; 5% de IRRF sobre LCI, LH, LCA, CRI, CRA e debêntures incentivadas emitidas a partir de 2026 (então isentas); elevação da contribuição das bets sobre o GGR de 12% para 18% e do IRRF sobre juros sobre capital próprio (JCP) de 15% para 20%.",
     "O relator subiu a alíquota para 7,5%, restringindo-a a LCI, LCA, LIG e LCD e mantendo isentos CRI, CRA e debêntures incentivadas; a Frente Parlamentar do Agro rejeitou qualquer tributação de LCI/LCA.",
     "A Câmara retirou a MP de pauta em 08/10/2025 e ela caducou. LCI e LCA seguem isentas para pessoa física e também ficaram fora da base do imposto mínimo da Lei 15.270/2025.",
     "A alíquota das bets acabou escalonada depois pela LC 224/2025 (13% a partir de abr/2026, até 15% em 2028)."
@@ -111,11 +111,16 @@
       "url": "https://borainvestir.b3.com.br/tipos-de-investimentos/renda-fixa/lci-lca-e-lc/investimentos-isentos-como-declarar-lci-e-lca-corretamente-no-imposto-de-renda-2026/",
       "acesso_em": "2026-10-21",
       "tier": "imprensa"
+    },
+    {
+      "nome": "Planalto — MP 1.303/2025",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/Mpv/mpv1303.htm",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/12_pix_fake_news_e_impostos_quem_paga.md",
   "lacunas": [
-    "Data de publicação e URL oficial da MP 1.303/2025 não constam das notas.",
     "Receita estimada pela Fazenda com a MP não localizada."
   ],
   "atualizado_em": "2026-10-21"

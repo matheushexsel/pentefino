@@ -3,15 +3,34 @@
   "slug": "eleicao-2026-resultado-primeiro-turno",
   "frase": "Flávio Bolsonaro venceu o 1º turno de 2026 com 47,03% dos votos válidos e Lula ficou em 2º com 45,16%; o 2º turno é em 25 de outubro.",
   "frase_normalizada": "resultado oficial do primeiro turno da eleicao presidencial de 2026",
-  "variantes": ["Quem ganhou o 1º turno de 2026?", "Flávio ganhou de Lula no primeiro turno", "Quantos votos Lula e Flávio tiveram?"],
-  "autor": { "nome": "Tribunal Superior Eleitoral (totalização oficial, republicada pela imprensa)", "partido": null, "cargo": "órgão da Justiça Eleitoral" },
+  "variantes": [
+    "Quem ganhou o 1º turno de 2026?",
+    "Flávio ganhou de Lula no primeiro turno",
+    "Quantos votos Lula e Flávio tiveram?"
+  ],
+  "autor": {
+    "nome": "Tribunal Superior Eleitoral (totalização oficial; dados abertos do TSE, 21/10/2026)",
+    "partido": null,
+    "cargo": "órgão da Justiça Eleitoral"
+  },
   "lado": "outro",
-  "alvo": { "nome": null, "partido": null },
+  "alvo": {
+    "nome": null,
+    "partido": null
+  },
   "data": "2026-10-05",
   "onde": "Totalização do TSE concluída na madrugada de 05/10/2026 (100% das urnas)",
-  "url_declaracao": "https://www.cartacapital.com.br/politica/tse-encerra-apuracao-do-1o-turno/",
-  "temas": ["eleicao-2026"],
-  "tags": ["resultado", "1º turno", "TSE", "abstenção", "votos válidos"],
+  "url_declaracao": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2026.zip",
+  "temas": [
+    "eleicao-2026"
+  ],
+  "tags": [
+    "resultado",
+    "1º turno",
+    "TSE",
+    "abstenção",
+    "votos válidos"
+  ],
   "veredito": "verdadeiro",
   "resumo_uma_frase": "Os números oficiais da totalização do TSE, republicados de forma coincidente por vários veículos, confirmam Flávio Bolsonaro em 1º (56.104.503 votos; 47,03%) e Lula em 2º (53.879.538; 45,16%), com 2º turno em 25/10/2026.",
   "explicacao_simples": [
@@ -19,46 +38,312 @@
     "Flávio Bolsonaro (PL) teve 47,03% e Lula (PT) 45,16% dos válidos; o 3º colocado, Augusto Cury (Avante), teve 2,89%, a menor marca de um 3º colocado desde 1989.",
     "Compareceram 125,3 milhões de eleitores (78,92%) e 33,5 milhões se abstiveram (21,08%); brancos foram 1,84% e nulos 2,93%."
   ],
-  "explicacao_completa_md": "A totalização do TSE foi concluída na madrugada de 05/10/2026 com 100% das urnas. **Resultado por candidato (votos válidos):** Flávio Bolsonaro (PL) 56.104.503 (47,03%); Lula (PT) 53.879.538 (45,16%); Augusto Cury (Avante) 3.448.569 (2,89%); Renan Santos (Missão) 2.675.887 (2,24%); Ronaldo Caiado (PSD) 2.605.148 (2,18%); Romeu Zema (Novo) 326.488 (0,27%); Samara (UP) 122.911 (0,10%); Hertz Dias (PSTU) 43.103 (0,04%); Clariana Barão (DC) 40.043 (0,03%); Edmilson Costa (PCB) 22.693 (0,02%); Wilson Grassi (Democrata) 16.881 (0,01%); Rui Costa Pimenta (PCO) 15.024 (0,01%).\n\n**Participação:** eleitorado apto de 158.745.502; comparecimento 125.275.835 (78,92%); abstenção 33.469.244 (21,08%); votos válidos 119.300.788 (95,23%); brancos 2.300.798 (1,84%); nulos 3.674.249 (2,93%). Flávio venceu em 14 estados e no DF; Lula em 12 estados.\n\n**Contexto:** as pesquisas finais apontavam Lula numericamente à frente (Datafolha 45% x 42% nos válidos; Quaest 40% x 38%; AtlasIntel 47% x 44,1%), e o resultado inverteu a ordem. No 2º turno, Cury, Caiado, Zema e Clariana Barão declararam apoio a Flávio; Samara (UP), PSTU ('voto crítico') e PCB apoiam Lula; Renan Santos e a direção nacional do PSD ficaram neutros. Pablo Marçal (PRTB) teve o registro indeferido pelo TSE em 11/09/2026.",
+  "explicacao_completa_md": "A totalização do TSE foi concluída na madrugada de 05/10/2026 com 100% das urnas. **Resultado por candidato (votos válidos):** Flávio Bolsonaro (PL) 56.104.503 (47,03%); Lula (PT) 53.879.538 (45,16%); Augusto Cury (Avante) 3.448.569 (2,89%); Renan Santos (Missão) 2.675.887 (2,24%); Ronaldo Caiado (PSD) 2.605.148 (2,18%); Romeu Zema (Novo) 326.488 (0,27%); Samara (UP) 122.911 (0,10%); Hertz Dias (PSTU) 43.103 (0,04%); Clariana Barão (DC) 40.043 (0,03%); Edmilson Costa (PCB) 22.693 (0,02%); Wilson Grassi (Democrata) 16.881 (0,01%); Rui Costa Pimenta (PCO) 15.024 (0,01%).\n\n**Participação:** eleitorado apto de 158.745.502; comparecimento 125.275.835 (78,92%); abstenção 33.469.244 (21,08%); votos válidos 119.300.788 (95,23%); brancos 2.300.798 (1,84%); nulos 3.674.249 (2,93%). Flávio venceu em 14 estados e no DF; Lula em 12 estados.\n\n**Contexto:** as pesquisas finais apontavam Lula numericamente à frente (Datafolha 45% x 42% nos válidos; Quaest 40% x 38%; AtlasIntel 47% x 44,1%), e o resultado inverteu a ordem. No 2º turno, Cury, Caiado, Zema e Clariana Barão declararam apoio a Flávio; Samara (UP), PSTU ('voto crítico') e PCB apoiam Lula; Renan Santos e a direção nacional do PSD ficaram neutros. Pablo Marçal (PRTB) teve o registro indeferido pelo TSE em 11/09/2026.\n\n**Fonte primária (rodada 2):** os números conferem exatamente com os dados abertos do TSE (`detalhe_votacao_munzona_2026`, gerado em 21/10/2026): 517.179 seções (41 não instaladas); 5.246 'nulos técnicos' entre os 3.674.249 nulos; zero votos anulados/sub judice para presidente; nenhum candidato do PRTB (Marçal/Avalanche) consta do arquivo de votação.\n\n**Por região (válidos):** Norte — Flávio 49,15% x Lula 44,65%; Nordeste — 30,85% x 63,77%; Centro-Oeste — 56,51% x 32,62%; Sudeste — 51,36% x 39,68%; Sul — 60,08% x 31,28%; Exterior — 43,49% x 47,57% (abstenção de 62,66%). **Por UF:** Flávio venceu em AC (64,56%), DF (51,31%), ES (54,78%), GO (53,60%), MG (48,24%), MS (58,60%), MT (65,15%), PR (59,91%), RJ (53,01%), RO (67,45%), RR (71,06%), RS (55,64%), SC (66,65%), SP (51,93%) e TO (50,44%); Lula em AL (54,73%), AM (48,23%), AP (45,71% x 45,67%, diferença de 225 votos — o estado mais apertado), BA (66,17%), CE (63,29%), MA (63,99%), PA (49,91%), PB (61,31%), PE (63,45%), PI (70,99%), RN (59,75%) e SE (62,75%). Maior abstenção: MS (23,87%), RJ (23,32%), MG (22,81%), SP (22,54%); menor: CE (15,52%).\n\n**Abstenção, qualificada:** 21,08% é recorde em número absoluto (33.469.244 ausentes) e o maior percentual desde 1998, mas não o maior da série de 1º turno (1998: 21,49%; 1994: 17,77%; 2002: 17,74%; 2006: 16,75%; 2010: 18,12%; 2014: 19,39%; 2018: 20,33%; 2022: 20,95%). Brancos (1,84%) e nulos (2,93%) estão entre os menores da série (1994: 9,23% e 9,55%).\n\n**Perfil do eleitorado (TSE, jul/2026):** 158.745.463 inscritos; mulheres 52,84%; faixa mais numerosa 40–44 anos (10,08%); 70+ (voto facultativo) 10,87%; ensino médio completo 27,90% (maior grupo); 89,01% com biometria; 918.876 no exterior.",
   "o_que_e_verdade": [
     "Flávio Bolsonaro terminou em 1º com 47,03% dos válidos e Lula em 2º com 45,16%.",
     "A diferença entre os dois foi de 1,87 ponto percentual (2.224.965 votos).",
     "O 2º turno ocorre em 25/10/2026; a posse presidencial é em 05/01/2027 (EC 111/2021)."
   ],
   "o_que_nao_se_sustenta": [
-    "A afirmação de 'abstenção recorde' (21,08%) é da CartaCapital e não foi confirmada pelo TSE; a Wikipédia registra queda de apenas 0,13 ponto no comparecimento em relação a 2022.",
+    "'Abstenção recorde' sem qualificação: é recorde em número absoluto (33,47 milhões) e o maior percentual desde 1998, mas não o maior percentual da série (1998: 21,49%).",
     "Boatos de que a pausa de ~50 minutos na divulgação foi fraude ou de que urnas antigas travaram a contagem foram classificados como falsos (ver checagem 'urnas-eletronicas-sao-confiaveis')."
   ],
   "quem_e_responsavel": [
-    { "ator": "Tribunal Superior Eleitoral", "papel": "Totaliza e divulga os resultados oficiais", "peso": "alto" }
+    {
+      "ator": "Tribunal Superior Eleitoral",
+      "papel": "Totaliza e divulga os resultados oficiais",
+      "peso": "alto"
+    }
   ],
   "numeros": [
-    { "rotulo": "Votos de Flávio Bolsonaro (PL)", "valor": 56104503, "unidade": "votos", "periodo": "1º turno, 04/10/2026", "fonte": { "nome": "CartaCapital, TSE encerra apuração do 1º turno", "url": "https://www.cartacapital.com.br/politica/tse-encerra-apuracao-do-1o-turno/", "acesso_em": "2026-10-21", "tier": "imprensa" }, "comparacao": { "rotulo": "Votos de Lula (PT)", "valor": 53879538 } },
-    { "rotulo": "Percentual de Flávio Bolsonaro nos votos válidos", "valor": 47.03, "unidade": "%", "periodo": "1º turno, 04/10/2026", "fonte": { "nome": "Exame, mapa de apuração", "url": "https://exame.com/eleicoes/2026/apuracao/primeiro-turno/presidente/mapa-de-apuracao/", "acesso_em": "2026-10-21", "tier": "imprensa" }, "comparacao": { "rotulo": "Percentual de Lula", "valor": 45.16 } },
-    { "rotulo": "Abstenção", "valor": 21.08, "unidade": "% do eleitorado apto", "periodo": "1º turno, 04/10/2026", "fonte": { "nome": "Exame, mapa de apuração", "url": "https://exame.com/eleicoes/2026/apuracao/primeiro-turno/presidente/mapa-de-apuracao/", "acesso_em": "2026-10-21", "tier": "imprensa" }, "comparacao": { "rotulo": "Comparecimento", "valor": 78.92 } },
-    { "rotulo": "Votos válidos", "valor": 119300788, "unidade": "votos", "periodo": "1º turno, 04/10/2026", "fonte": { "nome": "Exame, mapa de apuração", "url": "https://exame.com/eleicoes/2026/apuracao/primeiro-turno/presidente/mapa-de-apuracao/", "acesso_em": "2026-10-21", "tier": "imprensa" }, "comparacao": { "rotulo": "Eleitorado apto", "valor": 158745502 } },
-    { "rotulo": "Augusto Cury (3º colocado)", "valor": 2.89, "unidade": "% dos válidos", "periodo": "1º turno, 04/10/2026", "fonte": { "nome": "CartaCapital", "url": "https://www.cartacapital.com.br/politica/tse-encerra-apuracao-do-1o-turno/", "acesso_em": "2026-10-21", "tier": "imprensa" }, "comparacao": { "rotulo": "Soma de Cury + Caiado + Zema", "valor": 5.34 } }
+    {
+      "rotulo": "Votos de Flávio Bolsonaro (PL)",
+      "valor": 56104503,
+      "unidade": "votos",
+      "periodo": "1º turno, 04/10/2026",
+      "fonte": {
+        "nome": "CartaCapital, TSE encerra apuração do 1º turno",
+        "url": "https://www.cartacapital.com.br/politica/tse-encerra-apuracao-do-1o-turno/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "Votos de Lula (PT)",
+        "valor": 53879538
+      }
+    },
+    {
+      "rotulo": "Percentual de Flávio Bolsonaro nos votos válidos",
+      "valor": 47.03,
+      "unidade": "%",
+      "periodo": "1º turno, 04/10/2026",
+      "fonte": {
+        "nome": "Exame, mapa de apuração",
+        "url": "https://exame.com/eleicoes/2026/apuracao/primeiro-turno/presidente/mapa-de-apuracao/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "Percentual de Lula",
+        "valor": 45.16
+      }
+    },
+    {
+      "rotulo": "Abstenção",
+      "valor": 21.08,
+      "unidade": "% do eleitorado apto",
+      "periodo": "1º turno, 04/10/2026",
+      "fonte": {
+        "nome": "Exame, mapa de apuração",
+        "url": "https://exame.com/eleicoes/2026/apuracao/primeiro-turno/presidente/mapa-de-apuracao/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "Comparecimento",
+        "valor": 78.92
+      }
+    },
+    {
+      "rotulo": "Votos válidos",
+      "valor": 119300788,
+      "unidade": "votos",
+      "periodo": "1º turno, 04/10/2026",
+      "fonte": {
+        "nome": "Exame, mapa de apuração",
+        "url": "https://exame.com/eleicoes/2026/apuracao/primeiro-turno/presidente/mapa-de-apuracao/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "Eleitorado apto",
+        "valor": 158745502
+      }
+    },
+    {
+      "rotulo": "Augusto Cury (3º colocado)",
+      "valor": 2.89,
+      "unidade": "% dos válidos",
+      "periodo": "1º turno, 04/10/2026",
+      "fonte": {
+        "nome": "CartaCapital",
+        "url": "https://www.cartacapital.com.br/politica/tse-encerra-apuracao-do-1o-turno/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "Soma de Cury + Caiado + Zema",
+        "valor": 5.34
+      }
+    },
+    {
+      "rotulo": "Abstenção em 1998 (maior percentual da série de 1º turno)",
+      "valor": 21.49,
+      "unidade": "% dos aptos",
+      "periodo": "1998",
+      "fonte": {
+        "nome": "Correio 24 Horas, 04/10/2026 (série de abstenção, citando TSE)",
+        "url": "https://www.correio24horas.com.br/eleicoes/primeiro-turno-registra-recorde-de-eleitores-ausentes-com-mais-de-33-milhoes-sem-votar-1026",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "Abstenção em 2026",
+        "valor": 21.08
+      }
+    },
+    {
+      "rotulo": "Abstenção em 2022 (ausentes)",
+      "valor": 32770982,
+      "unidade": "eleitores",
+      "periodo": "1º turno, 2022",
+      "fonte": {
+        "nome": "Correio 24 Horas, 04/10/2026 (série de abstenção, citando TSE)",
+        "url": "https://www.correio24horas.com.br/eleicoes/primeiro-turno-registra-recorde-de-eleitores-ausentes-com-mais-de-33-milhoes-sem-votar-1026",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "Ausentes em 2026 (recorde absoluto)",
+        "valor": 33469244
+      }
+    },
+    {
+      "rotulo": "Flávio no Nordeste (válidos)",
+      "valor": 30.85,
+      "unidade": "%",
+      "periodo": "1º turno, 04/10/2026",
+      "fonte": {
+        "nome": "TSE, dados abertos, detalhe da votação por município e zona 2026 (gerado 21/10/2026)",
+        "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/detalhe_votacao_munzona/detalhe_votacao_munzona_2026.zip",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "Lula no Nordeste",
+        "valor": 63.77
+      }
+    },
+    {
+      "rotulo": "Flávio no Sul (válidos)",
+      "valor": 60.08,
+      "unidade": "%",
+      "periodo": "1º turno, 04/10/2026",
+      "fonte": {
+        "nome": "TSE, dados abertos, detalhe da votação por município e zona 2026 (gerado 21/10/2026)",
+        "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/detalhe_votacao_munzona/detalhe_votacao_munzona_2026.zip",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "Lula no Sul",
+        "valor": 31.28
+      }
+    },
+    {
+      "rotulo": "Diferença no Amapá (estado mais apertado)",
+      "valor": 225,
+      "unidade": "votos",
+      "periodo": "1º turno, 04/10/2026",
+      "fonte": {
+        "nome": "TSE, dados abertos, detalhe da votação por município e zona 2026 (gerado 21/10/2026)",
+        "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/detalhe_votacao_munzona/detalhe_votacao_munzona_2026.zip",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "Votos de Lula no AP",
+        "valor": 212503
+      }
+    },
+    {
+      "rotulo": "Seções eleitorais",
+      "valor": 517179,
+      "unidade": "seções",
+      "periodo": "04/10/2026",
+      "fonte": {
+        "nome": "TSE, dados abertos, detalhe da votação por município e zona 2026 (gerado 21/10/2026)",
+        "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/detalhe_votacao_munzona/detalhe_votacao_munzona_2026.zip",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial"
+      },
+      "comparacao": {
+        "rotulo": "Seções não instaladas",
+        "valor": 41
+      }
+    }
   ],
   "series": [],
   "checagens_externas": [],
   "fontes": [
-    { "nome": "CartaCapital, TSE encerra apuração do 1º turno (05/10/2026)", "url": "https://www.cartacapital.com.br/politica/tse-encerra-apuracao-do-1o-turno/", "acesso_em": "2026-10-21", "tier": "imprensa" },
-    { "nome": "Exame, mapa de apuração do 1º turno (05/10/2026)", "url": "https://exame.com/eleicoes/2026/apuracao/primeiro-turno/presidente/mapa-de-apuracao/", "acesso_em": "2026-10-21", "tier": "imprensa" },
-    { "nome": "Wikipédia pt, Eleição presidencial no Brasil em 2026", "url": "https://pt.wikipedia.org/wiki/Elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026", "acesso_em": "2026-10-21", "tier": "imprensa" },
-    { "nome": "Wikipédia en, 2026 Brazilian general election", "url": "https://en.wikipedia.org/wiki/2026_Brazilian_general_election", "acesso_em": "2026-10-21", "tier": "imprensa" },
-    { "nome": "TRE-MT, lista de candidatos a presidente (set/2026)", "url": "https://www.tre-mt.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-candidatos-ao-cargo-de-presidente-da-republica", "acesso_em": "2026-10-21", "tier": "oficial" },
-    { "nome": "Reuters, apoios ao 2º turno (05/10/2026)", "url": "https://www.reuters.com/world/americas/bolsonaro-wins-endorsements-right-wing-rivals-brazil-election-runoff-2026-10-05/", "acesso_em": "2026-10-21", "tier": "imprensa" }
+    {
+      "nome": "CartaCapital, TSE encerra apuração do 1º turno (05/10/2026)",
+      "url": "https://www.cartacapital.com.br/politica/tse-encerra-apuracao-do-1o-turno/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Exame, mapa de apuração do 1º turno (05/10/2026)",
+      "url": "https://exame.com/eleicoes/2026/apuracao/primeiro-turno/presidente/mapa-de-apuracao/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Wikipédia pt, Eleição presidencial no Brasil em 2026",
+      "url": "https://pt.wikipedia.org/wiki/Elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Wikipédia en, 2026 Brazilian general election",
+      "url": "https://en.wikipedia.org/wiki/2026_Brazilian_general_election",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "TRE-MT, lista de candidatos a presidente (set/2026)",
+      "url": "https://www.tre-mt.jus.br/comunicacao/noticias/2026/Setembro/eleicoes-2026-candidatos-ao-cargo-de-presidente-da-republica",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Reuters, apoios ao 2º turno (05/10/2026)",
+      "url": "https://www.reuters.com/world/americas/bolsonaro-wins-endorsements-right-wing-rivals-brazil-election-runoff-2026-10-05/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "TSE, dados abertos, detalhe da votação por município e zona 2026 (gerado 21/10/2026)",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/detalhe_votacao_munzona/detalhe_votacao_munzona_2026.zip",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "TSE, dados abertos, votação por candidato 2026 (gerado 21/10/2026)",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2026.zip",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "TSE, dados abertos, votação por partido 2026",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_partido_munzona/votacao_partido_munzona_2026.zip",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Correio 24 Horas, 04/10/2026 (série de abstenção, citando TSE)",
+      "url": "https://www.correio24horas.com.br/eleicoes/primeiro-turno-registra-recorde-de-eleitores-ausentes-com-mais-de-33-milhoes-sem-votar-1026",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "TSE, dados abertos, perfil do eleitorado 2026",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitorado/perfil_eleitorado_2026.zip",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/08_eleicao_2026_cenario_checagens.md",
   "perguntas_frequentes": [
-    { "pergunta": "Por que há 2º turno?", "resposta": "Nenhum candidato passou de 50% dos votos válidos; Flávio teve 47,03% e Lula 45,16%." },
-    { "pergunta": "As pesquisas erraram?", "resposta": "As últimas pesquisas mostravam Lula à frente por 2 a 3 pontos nos válidos; o resultado inverteu a ordem, com Flávio subestimado em cerca de 3 a 5 pontos. Veja a checagem 'pesquisas-eleitorais-erram-sempre'." },
-    { "pergunta": "A abstenção foi recorde?", "resposta": "A CartaCapital usou essa expressão para os 21,08%, mas não há confirmação do TSE e a Wikipédia registra variação de apenas 0,13 ponto frente a 2022." },
-    { "pergunta": "Quem apoia quem no 2º turno?", "resposta": "Cury, Caiado, Zema e Clariana Barão apoiam Flávio, assim como Novo, Podemos, PP, Republicanos, União Brasil e 17 diretórios do MDB; UP, PSTU (voto crítico), PCB e 10 diretórios do MDB apoiam Lula; Renan Santos e o PSD nacional são neutros." }
+    {
+      "pergunta": "Por que há 2º turno?",
+      "resposta": "Nenhum candidato passou de 50% dos votos válidos; Flávio teve 47,03% e Lula 45,16%."
+    },
+    {
+      "pergunta": "As pesquisas erraram?",
+      "resposta": "As últimas pesquisas mostravam Lula à frente por 2 a 3 pontos nos válidos; o resultado inverteu a ordem, com Flávio subestimado em cerca de 3 a 5 pontos. Veja a checagem 'pesquisas-eleitorais-erram-sempre'."
+    },
+    {
+      "pergunta": "A abstenção foi recorde?",
+      "resposta": "Em número absoluto, sim: 33.469.244 ausentes, mais que os 32.770.982 de 2022. Em percentual (21,08%), é o maior desde 1998, mas abaixo dos 21,49% de 1998."
+    },
+    {
+      "pergunta": "Quem apoia quem no 2º turno?",
+      "resposta": "Cury, Caiado, Zema e Clariana Barão apoiam Flávio, assim como Novo, Podemos, PP, Republicanos, União Brasil e 17 diretórios do MDB; UP, PSTU (voto crítico), PCB e 10 diretórios do MDB apoiam Lula; Renan Santos e o PSD nacional são neutros."
+    },
+    {
+      "pergunta": "Onde cada um venceu?",
+      "resposta": "Flávio em 14 estados e no DF (todo o Sul, Centro-Oeste e Sudeste, mais AC, RO, RR e TO); Lula em 12 estados (todo o Nordeste, mais AM, AP e PA) e entre os eleitores no exterior."
+    }
   ],
-  "relacionadas": ["urnas-eletronicas-sao-confiaveis", "pesquisas-eleitorais-erram-sempre"],
+  "relacionadas": [
+    "urnas-eletronicas-sao-confiaveis",
+    "pesquisas-eleitorais-erram-sempre"
+  ],
   "atualizado_em": "2026-10-21",
-  "changelog": [ { "data": "2026-10-21", "o_que_mudou": "publicação" } ],
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "enriquecimento rodada 2: fontes primárias do TSE/Senado, novas pesquisas e correções"
+    }
+  ],
   "exemplo": false,
-  "lacunas": ["resultados.tse.jus.br bloqueou acesso automatizado; números vêm de republicações coincidentes da totalização.", "Resultado por UF não obtido."]
+  "lacunas": [
+    "Série de abstenção 1989–2026 montada a partir de Correio 24 Horas/TSE e Wikipédia; os anos de 1998, 2006–2022 não trazem aptos/ausentes absolutos nas fontes.",
+    "Comparecimento e resultados do 2º turno (25/10) são futuros."
+  ]
 }

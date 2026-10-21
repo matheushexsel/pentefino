@@ -1,0 +1,230 @@
+{
+  "id": "chk-5015",
+  "slug": "pisa-2025-brasil-caiu-ou-subiu",
+  "frase": "O Brasil caiu no PISA 2025 / O Brasil melhorou no PISA 2025.",
+  "frase_normalizada": "o brasil caiu ou subiu no pisa 2025",
+  "variantes": [
+    "O Brasil despencou no ranking do PISA",
+    "A educação brasileira avançou no PISA",
+    "O Brasil está entre os piores do mundo em matemática"
+  ],
+  "autor": {
+    "nome": "Afirmação recorrente no debate eleitoral (sem autor único identificado na nota)",
+    "partido": null,
+    "cargo": null,
+    "nao_verificado": true
+  },
+  "lado": "ambos",
+  "alvo": {
+    "nome": "Governos federal e estaduais",
+    "partido": null
+  },
+  "data": "2026-09-08",
+  "onde": "Divulgação do PISA 2025 pela OCDE",
+  "url_declaracao": null,
+  "temas": [
+    "educacao"
+  ],
+  "tags": [
+    "pisa",
+    "ocde",
+    "2025",
+    "matematica"
+  ],
+  "veredito": "falta-contexto",
+  "resumo_uma_frase": "Nem caiu nem subiu de forma relevante: 377 em matemática (379 em 2022), 408 em leitura (410) e 409 em ciências (403), com a OCDE em 463/461/482; o Brasil está estagnado desde 2009 e abaixo de Chile, Uruguai, México, Costa Rica, Peru e Colômbia em matemática.",
+  "explicacao_simples": [
+    "No PISA 2025 (divulgado em 08/09/2026, 91 países/economias), o Brasil fez 377 em matemática (71º), 408 em leitura (53º) e 409 em ciências (68º); em 2022 havia feito 379, 410 e 403.",
+    "As variações são de 2 a 6 pontos — dentro da estabilidade que marca o país desde 2009 (386 em matemática), passando por 389 (2012), 377 (2015), 384 (2018), 379 (2022) e 377 (2025), em todos os governos.",
+    "Em matemática o Brasil fica abaixo de Uruguai (405), Chile (403), México (388), Costa Rica (387), Peru (382) e Colômbia (381) e acima da Argentina (367); a média da OCDE é 463. Os alunos avaliados estão sobretudo em redes estaduais."
+  ],
+  "explicacao_completa_md": "## Resultados do Brasil\n\n| Edição | Matemática | Leitura | Ciências |\n|---|---|---|---|\n| 2000 | 334 | — | — |\n| 2003 | 356 | — | — |\n| 2006 | 370 | — | — |\n| 2009 | 386 | — | — |\n| 2012 | 389 | — | — |\n| 2015 | 377 | — | — |\n| 2018 | 384 | 413 | 404 |\n| 2022 | 379 | 410 | 403 |\n| 2025 | 377 (71º de 91) | 408 (53º) | 409 (68º) |\n| OCDE 2025 | 463 | 461 | 482 |\n\n## América Latina em 2025 (matemática / leitura / ciências)\n\nUruguai 405/423/445; Chile 403/436/442; México 388/408/414; Costa Rica 387/416/424; Peru 382/390/406; Colômbia 381/399/414; **Brasil 377/408/409**; Argentina 367/389/393; El Salvador 346/—/385; República Dominicana 339/—/361; Paraguai 334/—/355; Guatemala 334/—/351. Em 2022: Chile 412/448/444; Uruguai 409/430/435; México 395/415/410; Peru 391/408/408; Costa Rica 385/415/411; Colômbia 383/409/411; Brasil 379/410/403; Argentina 378/401/406.\n\n## Leitura\n\n- A variação 2022 → 2025 (-2, -2, +6) não permite falar em queda nem em melhora; o quadro é de estagnação desde 2009, atravessando os governos Lula 2, Dilma, Temer, Bolsonaro e Lula 3.\n- A estagnação coexiste com a alta do Ideb (recordes em 2025), o que sugere que o Ideb captura sobretudo fluxo (aprovação).\n- Responsabilidade: ensino médio e anos finais são redes estaduais; a União coordena a participação (Inep).\n- Os valores vêm da compilação da Wikipédia citando a OCDE; o site da OCDE não pôde ser consultado — conferir a leitura (408) no relatório oficial.\n\n## Veredito\n\nFalta contexto: \"caiu\" e \"subiu\" exageram variações mínimas; o dado relevante é a estagnação de 16 anos abaixo da média da OCDE e dos vizinhos.",
+  "o_que_e_verdade": [
+    "Matemática 377 (71º), leitura 408 (53º), ciências 409 (68º) em 2025; OCDE 463/461/482.",
+    "Em matemática o Brasil está abaixo de Uruguai, Chile, México, Costa Rica, Peru e Colômbia.",
+    "Estagnação desde 2009: 386, 389, 377, 384, 379, 377."
+  ],
+  "o_que_nao_se_sustenta": [
+    "'Despencou': -2 pontos em matemática e leitura, +6 em ciências.",
+    "'Avançou': só ciências subiu, e dentro da faixa de oscilação da série.",
+    "Culpa ou mérito de um só governo: a estagnação atravessa cinco governos."
+  ],
+  "quem_e_responsavel": [
+    {
+      "ator": "Redes estaduais",
+      "papel": "Ensino médio e anos finais, onde estão os alunos de 15 anos avaliados",
+      "peso": "alto"
+    },
+    {
+      "ator": "Redes municipais",
+      "papel": "Base dos anos iniciais e finais",
+      "peso": "medio"
+    },
+    {
+      "ator": "Governo federal (Inep/MEC)",
+      "papel": "Coordena a participação, BNCC, Fundeb",
+      "peso": "medio"
+    }
+  ],
+  "numeros": [
+    {
+      "rotulo": "PISA matemática",
+      "valor": 377,
+      "unidade": "pontos",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Wikipedia en — Programme for International Student Assessment (tabelas 2022 e 2025, citando OCDE)",
+        "url": "https://en.wikipedia.org/wiki/Programme_for_International_Student_Assessment",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "2022",
+        "valor": 379
+      }
+    },
+    {
+      "rotulo": "PISA leitura",
+      "valor": 408,
+      "unidade": "pontos",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Wikipedia en — Programme for International Student Assessment (tabelas 2022 e 2025, citando OCDE)",
+        "url": "https://en.wikipedia.org/wiki/Programme_for_International_Student_Assessment",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "2022",
+        "valor": 410
+      }
+    },
+    {
+      "rotulo": "PISA ciências",
+      "valor": 409,
+      "unidade": "pontos",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Wikipedia en — Programme for International Student Assessment (tabelas 2022 e 2025, citando OCDE)",
+        "url": "https://en.wikipedia.org/wiki/Programme_for_International_Student_Assessment",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "2022",
+        "valor": 403
+      }
+    },
+    {
+      "rotulo": "Média OCDE — matemática",
+      "valor": 463,
+      "unidade": "pontos",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Wikipedia en — Programme for International Student Assessment (tabelas 2022 e 2025, citando OCDE)",
+        "url": "https://en.wikipedia.org/wiki/Programme_for_International_Student_Assessment",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "2022",
+        "valor": 472
+      }
+    },
+    {
+      "rotulo": "Posição do Brasil em matemática",
+      "valor": 71,
+      "unidade": "lugar entre 91",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Wikipedia en — Programme for International Student Assessment (tabelas 2022 e 2025, citando OCDE)",
+        "url": "https://en.wikipedia.org/wiki/Programme_for_International_Student_Assessment",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "2022 (entre 81)",
+        "valor": 65
+      }
+    },
+    {
+      "rotulo": "PISA matemática em 2009",
+      "valor": 386,
+      "unidade": "pontos",
+      "periodo": "2009",
+      "fonte": {
+        "nome": "Wikipedia en — Programme for International Student Assessment (tabelas 2022 e 2025, citando OCDE)",
+        "url": "https://en.wikipedia.org/wiki/Programme_for_International_Student_Assessment",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "2000",
+        "valor": 334
+      }
+    },
+    {
+      "rotulo": "Chile — matemática",
+      "valor": 403,
+      "unidade": "pontos",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Wikipedia en — Programme for International Student Assessment (tabelas 2022 e 2025, citando OCDE)",
+        "url": "https://en.wikipedia.org/wiki/Programme_for_International_Student_Assessment",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      "comparacao": {
+        "rotulo": "Argentina",
+        "valor": 367
+      }
+    }
+  ],
+  "series": [
+    "pisa",
+    "ideb-ensino-medio"
+  ],
+  "checagens_externas": [],
+  "fontes": [
+    {
+      "nome": "Wikipedia en — Programme for International Student Assessment (tabelas 2022 e 2025, citando OCDE)",
+      "url": "https://en.wikipedia.org/wiki/Programme_for_International_Student_Assessment",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Agência Gov — resultados do PISA 2022",
+      "url": "https://agenciagov.ebc.com.br/noticias/202312/divulgados-os-resultados-do-pisa-2022",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial"
+    },
+    {
+      "nome": "Diário do Nordeste/Agência Brasil — PISA 2022",
+      "url": "https://diariodonordeste.verdesmares.com.br/ultima-hora/pais/pisa-2022-brasil-fica-abaixo-da-media-em-matematica-leitura-e-ciencias-1.3452036",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/07_saude_seguranca_educacao_infra_ambiente.md",
+  "perguntas_frequentes": [
+    {
+      "pergunta": "Por que a média da OCDE caiu de 472 para 463?",
+      "resposta": "A nota só registra os valores (472 em 2022; 463 em 2025); não traz a explicação da OCDE. A queda da média relativiza a comparação direta entre edições."
+    }
+  ],
+  "relacionadas": [
+    "ideb-2025-recorde",
+    "ideb-melhorou-ou-piorou"
+  ],
+  "lacunas": [
+    "PISA 2025 não confirmado no site da OCDE (retornou 403); leitura e ciências de 2000–2015 não compiladas; posições exatas de 2022 variam entre fontes (64º/65º em matemática)."
+  ],
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ],
+  "exemplo": false
+}

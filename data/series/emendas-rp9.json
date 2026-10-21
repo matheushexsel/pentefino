@@ -1,0 +1,76 @@
+{
+  "id": "emendas-rp9",
+  "titulo": "Orçamento secreto: emendas de relator (RP 9) por ano",
+  "descricao_simples": "Valores das emendas de relator-geral do Orçamento, mecanismo conhecido como 'orçamento secreto', empenhados e pagos por ano.",
+  "unidade": "R$ bilhões",
+  "tipo_grafico": "barra",
+  "frequencia": "anual",
+  "fonte": {
+    "nome": "Portal da Transparência/CGU, download em massa 'Emendas parlamentares', tipo 'Emenda de Relator' (arquivo gerado em 09/10/2026)",
+    "url": "https://portaldatransparencia.gov.br/download-de-dados/emendas-parlamentares/UNICO",
+    "acesso_em": "2026-10-21",
+    "tier": "oficial"
+  },
+  "pontos": [
+    {
+      "periodo": "2016",
+      "valor": 13.75,
+      "pago_mais_rap": 13.7,
+      "observacao": "emendas de relator antes do RP 9"
+    },
+    {
+      "periodo": "2017",
+      "valor": 4.46,
+      "pago_mais_rap": 4.1,
+      "observacao": "antes do RP 9"
+    },
+    {
+      "periodo": "2019",
+      "valor": 0.42,
+      "pago_mais_rap": 0.4,
+      "observacao": "antes do RP 9"
+    },
+    {
+      "periodo": "2020",
+      "valor": 21.23,
+      "pago_mais_rap": 18.39,
+      "pago_no_ano": 8.34,
+      "restos_a_pagar_pagos": 10.05
+    },
+    {
+      "periodo": "2021",
+      "valor": 16.72,
+      "pago_mais_rap": 13.65
+    },
+    {
+      "periodo": "2022",
+      "valor": 8.64,
+      "pago_mais_rap": 8.07
+    }
+  ],
+  "faixas_referencia": [
+    {
+      "rotulo": "Total 2020–2022 empenhado",
+      "valor": 46.59
+    },
+    {
+      "rotulo": "Total 2020–2022 pago + RAP",
+      "valor": 40.11
+    }
+  ],
+  "notas_metodologicas": [
+    "RP 9 criado nas LDOs 2020 e 2021; STF declarou inconstitucionais RP 8 e RP 9 em dez/2022 (voto de Rosa Weber em 15/12/2022, maioria em 19/12/2022).",
+    "O valor de 2022 (R$ 8,64 bi) é inferior aos ~R$ 16,5 bi autorizados na LOA 2022; a diferença provavelmente reflete cancelamentos/reclassificações após a decisão do STF — não conciliado no Siga Brasil.",
+    "Depois de dez/2022 o canal das emendas de comissão cresceu (R$ 6,9 bi em 2023; R$ 11,7 bi em 2024) — ver emendas-parlamentares."
+  ],
+  "lacunas": [
+    "Conciliação de 2022 com o Siga Brasil não feita."
+  ],
+  "ultimo_periodo": "2022",
+  "temas": [
+    "contas-publicas",
+    "corrupcao"
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/02_contas_publicas_divida.md",
+  "atualizado_em": "2026-10-21"
+}

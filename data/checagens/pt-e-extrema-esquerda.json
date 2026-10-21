@@ -30,7 +30,7 @@
     "O polo mais à esquerda é ocupado por PSOL (-0,87), PCdoB (-0,82) e PSTU; o PSOL saiu do PT em 2004 por achá-lo moderado demais.",
     "Chamar o PT de 'esquerda' é exato; 'extrema esquerda' é exagero pela medida acadêmica."
   ],
-  "explicacao_completa_md": "BLS (Zucco & Power, 9 ondas, 1990-2021; r = 0,97 com o survey de especialistas PREPPS): PT -0,931 (1990), -0,793 (2001), -0,525 (2005), -0,532 (2013), -0,668 (2017), -0,691 (2021); PSOL -0,874; PCdoB -0,822; PSTU -0,826 (1993); PSB -0,427; PDT -0,356; centro (−0,25 a +0,25): MDB +0,137, PSDB +0,157. Estudo de votações nominais na Câmara (2011-2015) mostra o PT à esquerda, superado apenas pelo PSOL; análise de 1991-1998 posicionava os petistas na extrema esquerda, e após 2002 o partido tornou-se mais moderado. Presidentes: Lula I-II -0,41; Dilma I -0,41; Dilma II -0,50. A nota 11 conclui: 'chamar o PT de extrema esquerda é inconsistente com a medida; chamá-lo de esquerda é exato'.",
+  "explicacao_completa_md": "BLS (Zucco & Power, 9 ondas, 1990-2021; r = 0,97 com o survey de especialistas PREPPS): PT -0,931 (1990), -0,793 (2001), -0,525 (2005), -0,532 (2013), -0,668 (2017), -0,691 (2021); PSOL -0,874; PCdoB -0,822; PSTU -0,826 (1993); PSB -0,427; PDT -0,356; centro (−0,25 a +0,25): MDB +0,137, PSDB +0,157. Estudo de votações nominais na Câmara (2011-2015) mostra o PT à esquerda, superado apenas pelo PSOL; análise de 1991-1998 posicionava os petistas na extrema esquerda, e após 2002 o partido tornou-se mais moderado. Presidentes: Lula I-II -0,41; Dilma I -0,41; Dilma II -0,50. A nota 11 conclui: 'chamar o PT de extrema esquerda é inconsistente com a medida; chamá-lo de esquerda é exato'.\n\n**Atualização (enriquecimento, 21/10/2026):** três réguas independentes chegam à mesma ordem: BLS 2021 (Zucco & Power, −1 a +1) PT −0,691, PSOL −0,874; PREPPS 2018–19 (especialistas, 1 = esquerda, 20 = direita) PSOL 1,66, PT 5,04, PDT 6,66, PSB 7,97, MDB 14,66, PSDB 14,77, PR/PL 17,05, PSL 18,35, Bolsonaro presidente 19,26; V-Party 2018 (V-Dem, posição econômica 0 = extrema esquerda a 6 = extrema direita) PT 1,39 (entre 'esquerda' e 'centro-esquerda'), PSB 1,84, PDT 1,92, MDB 3,66, PSDB 4,20, PR/PL 4,44, PP 4,79, PSL 5,37. Na dimensão democrática do V-Party (2018), o PT tinha pluralismo 3,90 de 4 e índice de antipluralismo 0,03 de 1, e o PSL, pluralismo 1,89 e antipluralismo 0,95, o maior do sistema; o PT era também o mais populista (índice 0,78). O Latinobarómetro 2026 classifica o governo brasileiro entre os 'Gobiernos de izquierda' (com México, Guatemala e Uruguai), separado das 'Dictaduras' (El Salvador, Venezuela, Nicarágua). Nenhuma das três réguas coloca o PT no polo esquerdo, e nenhuma o mede como antipluralista.",
   "o_que_e_verdade": [
     "O PT é um partido de esquerda, claramente distinto dos demais grandes partidos (Lucas & Samuels; BLS).",
     "Nos anos 1990 o PT era posicionado perto do extremo esquerdo (-0,931 em 1990)."
@@ -100,6 +100,54 @@
         "tier": "academico"
       },
       "comparacao": null
+    },
+    {
+      "rotulo": "Posição econômica do PT no V-Party (0 = extrema esquerda, 6 = extrema direita)",
+      "valor": 1.39,
+      "unidade": "pontos",
+      "periodo": "2018",
+      "fonte": {
+        "nome": "V-Party Dataset v2 (V-Dem), arquivo vparty.RData do pacote oficial vdemdata",
+        "url": "https://raw.githubusercontent.com/vdeminstitute/vdemdata/master/data/vparty.RData",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      "comparacao": {
+        "rotulo": "PSL (2018)",
+        "valor": 5.37
+      }
+    },
+    {
+      "rotulo": "Posição do PT na PREPPS (1 = esquerda, 20 = direita)",
+      "valor": 5.04,
+      "unidade": "pontos (PSOL 1,66)",
+      "periodo": "2018-2019",
+      "fonte": {
+        "nome": "PREPPS Latam V2 (Wiesehomeier, Singer & Ruth-Lovell), Harvard Dataverse",
+        "url": "https://dataverse.harvard.edu/api/access/datafile/4372420",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      "comparacao": {
+        "rotulo": "PSOL",
+        "valor": 1.66
+      }
+    },
+    {
+      "rotulo": "Índice de antipluralismo do PT no V-Party (0 a 1)",
+      "valor": 0.03,
+      "unidade": "pontos (PSL: 0,95)",
+      "periodo": "2018",
+      "fonte": {
+        "nome": "V-Party Dataset v2 (V-Dem), arquivo vparty.RData do pacote oficial vdemdata",
+        "url": "https://raw.githubusercontent.com/vdeminstitute/vdemdata/master/data/vparty.RData",
+        "acesso_em": "2026-10-21",
+        "tier": "academico"
+      },
+      "comparacao": {
+        "rotulo": "PSL (2018)",
+        "valor": 0.95
+      }
     }
   ],
   "series": [],
@@ -114,6 +162,30 @@
     {
       "nome": "Zucco & Power, Latin American Politics and Society (2024)",
       "url": "https://www.cambridge.org/core/product/FAF5489B3E01D39A16DBB4971458AD48/core-reader",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    },
+    {
+      "nome": "V-Party Dataset v2 (V-Dem), arquivo vparty.RData do pacote oficial vdemdata",
+      "url": "https://raw.githubusercontent.com/vdeminstitute/vdemdata/master/data/vparty.RData",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    },
+    {
+      "nome": "PREPPS Latam V2 (Wiesehomeier, Singer & Ruth-Lovell), Harvard Dataverse",
+      "url": "https://dataverse.harvard.edu/api/access/datafile/4372420",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    },
+    {
+      "nome": "Codebook V-Party v2 (PDF)",
+      "url": "https://www.v-dem.net/documents/6/vparty_codebook_v2.pdf",
+      "acesso_em": "2026-10-21",
+      "tier": "academico"
+    },
+    {
+      "nome": "Informe Latinobarómetro 2026 (PDF)",
+      "url": "https://www.latinobarometro.org/documents/informe-latinobarometro-2026.pdf",
       "acesso_em": "2026-10-21",
       "tier": "academico"
     }
@@ -143,12 +215,16 @@
     {
       "data": "2026-10-21",
       "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "enriquecimento rodada 2 (21/10/2026): V-Party 2018 (PT 1,39; antipluralismo 0,03) e PREPPS (PT 5,04 x PSOL 1,66) confirmam 'esquerda, não extremo'; Latinobarómetro classifica o governo como 'izquierda'; veredito mantido (exagerado)"
     }
   ],
   "exemplo": false,
   "nao_verificado": true,
   "lacunas": [
-    "Nenhuma checagem de agência com esta redação; veredito derivado da BLS (nota 11).",
-    "Não há onda da BLS posterior a 2021."
+    "Nenhuma checagem de agência com esta redação; veredito derivado de três medidas acadêmicas (BLS 2021, PREPPS 2018–19, V-Party 2018).",
+    "Não há onda da BLS posterior a 2021 nem do V-Party posterior a 2018; PSOL, PCdoB e PSTU não constam do V-Party 2018."
   ]
 }
