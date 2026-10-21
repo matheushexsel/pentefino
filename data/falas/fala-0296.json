@@ -5,8 +5,10 @@
   "candidato": "lula",
   "lado": "governo-lula-pt",
   "minuto": null,
+  "url_trecho": null,
   "frase_literal": "No governo deles, liberaram mais de 1 milhão de armas.",
   "literal": true,
+  "variantes_literais": [],
   "tema": "seguranca",
   "veredito": "verdadeiro",
   "resumo_uma_frase": "Sou da Paz e Igarapé registram mais de 1 milhão de armas registradas entre 2019 e 2022.",
@@ -30,7 +32,23 @@
         "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
         "acesso_em": "2026-10-21",
         "tier": "checagem"
+      },
+      "fonte_primaria": {
+        "nome": "Instituto Sou da Paz (compilação SIGMA/SINARM)",
+        "url": "https://soudapaz.org/",
+        "acesso_em": null,
+        "tier": "academico",
+        "acessada_na_rodada_2": false
       }
+    }
+  ],
+  "fontes_primarias": [
+    {
+      "nome": "Instituto Sou da Paz (compilação SIGMA/SINARM)",
+      "url": "https://soudapaz.org/",
+      "acesso_em": null,
+      "tier": "academico",
+      "acessada_na_rodada_2": false
     }
   ],
   "base_legal": [],
@@ -65,5 +83,11 @@
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
-  "atualizado_em": "2026-10-21"
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ]
 }

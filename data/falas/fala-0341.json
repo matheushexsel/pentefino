@@ -1,0 +1,83 @@
+{
+  "id": "fala-0341",
+  "slug": "flavio-prontuario-eletronico-unico-band",
+  "evento_id": "debate-band-2turno-2026-10-18",
+  "candidato": "flavio-bolsonaro",
+  "lado": "oposicao-flavio-pl",
+  "minuto": null,
+  "url_trecho": null,
+  "frase_literal": "Vou criar um prontuário eletrônico único.",
+  "literal": false,
+  "variantes_literais": [],
+  "tema": "saude",
+  "veredito": "falta-contexto",
+  "resumo_uma_frase": "O Brasil já tem sistema com essa função: a RNDS, criada em 2020, com mais de 5 bilhões de registros.",
+  "explicacao_simples": [
+    "Flávio Bolsonaro, no debate da Band (18/10/2026), afirmou (em paráfrase registrada por Aos Fatos) que vou criar um prontuário eletrônico único.",
+    "Aos Fatos (lista do debate): promessa de prontuário eletrônico único, quando o Brasil já tem sistemas com essa função; repetição do item dito na Globo em 16/10.",
+    "A frase omite informações que mudam a leitura do dado; por isso é classificada como 'falta contexto'."
+  ],
+  "o_que_e_verdade": [
+    "Integração de prontuários é pauta real."
+  ],
+  "o_que_nao_se_sustenta": [
+    "A RNDS (2020) já cumpre esse papel."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Registros na RNDS",
+      "valor": 5,
+      "unidade": "bilhões (mais de)",
+      "periodo": "2026",
+      "fonte": {
+        "nome": "Aos Fatos",
+        "url": "https://www.aosfatos.org/noticias/checamos-flavio-bolsonaro-globo-segundo-turno/",
+        "acesso_em": "2026-10-21",
+        "tier": "checagem"
+      }
+    }
+  ],
+  "fontes_primarias": [],
+  "base_legal": [],
+  "checagens_externas": [
+    {
+      "veiculo": "Aos Fatos",
+      "veredito_original": "já existe (repetição)",
+      "url": "https://www.aosfatos.org/noticias/checamos-lula-flavio-bolsonaro-debate-band/",
+      "data": "2026-10-18"
+    },
+    {
+      "veiculo": "Aos Fatos",
+      "veredito_original": "já existe (16/10)",
+      "url": "https://www.aosfatos.org/noticias/checamos-flavio-bolsonaro-globo-segundo-turno/",
+      "data": "2026-10-16"
+    }
+  ],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Aos Fatos",
+      "url": "https://www.aosfatos.org/noticias/checamos-lula-flavio-bolsonaro-debate-band/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    },
+    {
+      "nome": "Aos Fatos",
+      "url": "https://www.aosfatos.org/noticias/checamos-flavio-bolsonaro-globo-segundo-turno/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
+  "atualizado_em": "2026-10-21",
+  "lacunas": [
+    "Item incluído na rodada 2 (repetição no debate do item catalogado em 16/10)."
+  ],
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "inclusão na rodada 2 de enriquecimento da nota 14"
+    }
+  ]
+}

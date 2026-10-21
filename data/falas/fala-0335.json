@@ -5,8 +5,10 @@
   "candidato": "lula",
   "lado": "governo-lula-pt",
   "minuto": null,
+  "url_trecho": null,
   "frase_literal": "Encontrei um déficit de 2,8%.",
   "literal": false,
+  "variantes_literais": [],
   "tema": "contas-publicas",
   "veredito": "falso",
   "resumo_uma_frase": "2022 fechou com superávit de 0,5% do PIB; o déficit de 2,1%–2,4% é de 2023.",
@@ -20,6 +22,7 @@
     "Não houve déficit herdado em 2022."
   ],
   "numeros": [],
+  "fontes_primarias": [],
   "base_legal": [],
   "checagens_externas": [
     {
@@ -46,5 +49,11 @@
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
-  "atualizado_em": "2026-10-21"
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ]
 }

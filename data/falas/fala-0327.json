@@ -5,8 +5,10 @@
   "candidato": "lula",
   "lado": "governo-lula-pt",
   "minuto": null,
+  "url_trecho": null,
   "frase_literal": "Reposição de inflação é obrigação em qualquer lugar do mundo. / Eu não vou deixar de dar um benefício que eu posso dar, porque tem eleição.",
   "literal": true,
+  "variantes_literais": [],
   "tema": "pobreza-programas-sociais",
   "veredito": "opiniao",
   "resumo_uma_frase": "Juízo de valor sobre o reajuste em ano eleitoral.",
@@ -18,6 +20,7 @@
   "o_que_e_verdade": [],
   "o_que_nao_se_sustenta": [],
   "numeros": [],
+  "fontes_primarias": [],
   "base_legal": [],
   "checagens_externas": [],
   "checagem_slug": null,
@@ -43,5 +46,11 @@
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
-  "atualizado_em": "2026-10-21"
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ]
 }

@@ -5,8 +5,10 @@
   "candidato": "lula",
   "lado": "governo-lula-pt",
   "minuto": null,
+  "url_trecho": null,
   "frase_literal": "Quando eu tomei posse, nós tínhamos 78% da população endividada.",
   "literal": true,
+  "variantes_literais": [],
   "tema": "economia",
   "veredito": "verdadeiro-mas",
   "resumo_uma_frase": "A Peic/CNC registrava 77,9% das famílias com dívidas (não da 'população'), e 42,76% inadimplentes; hoje são 81,7%.",
@@ -36,7 +38,23 @@
       "comparacao": {
         "rotulo": "set/2026",
         "valor": 81.7
+      },
+      "fonte_primaria": {
+        "nome": "CNC — Peic (Portal do Comércio)",
+        "url": "https://portaldocomercio.org.br/",
+        "acesso_em": null,
+        "tier": "academico",
+        "acessada_na_rodada_2": false
       }
+    }
+  ],
+  "fontes_primarias": [
+    {
+      "nome": "CNC — Peic (Portal do Comércio)",
+      "url": "https://portaldocomercio.org.br/",
+      "acesso_em": null,
+      "tier": "academico",
+      "acessada_na_rodada_2": false
     }
   ],
   "base_legal": [],
@@ -86,5 +104,11 @@
   "atualizado_em": "2026-10-21",
   "lacunas": [
     "Divergência de transcrição no Ranking ('72%')."
+  ],
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
   ]
 }

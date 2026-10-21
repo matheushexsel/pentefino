@@ -14,11 +14,13 @@
   "placar": {
     "flavio-bolsonaro": {
       "checadas": 0,
-      "por_veredito": {}
+      "por_veredito": {},
+      "criterio": "contagem dos arquivos de data/falas/ deste evento (frases únicas; opiniões em linha própria e fora de 'checadas'; falas de aliados não incluídas)"
     },
     "lula": {
       "checadas": 0,
-      "por_veredito": {}
+      "por_veredito": {},
+      "criterio": "contagem dos arquivos de data/falas/ deste evento (frases únicas; opiniões em linha própria e fora de 'checadas'; falas de aliados não incluídas)"
     }
   },
   "falas": [],
@@ -56,5 +58,15 @@
     "Nenhuma agência checou os discursos de 7/9; não há transcrição textual acessível.",
     "Frases registradas pela imprensa (paráfrase/trechos, sem veredito): 'Fora, Lula'; 'Alexandre de Moraes vai cair'; indicaria cinco ministros ao STF; alerta de '3ª facada'; Moraes 'laranja podre'.",
     "Inferência da nota: a Lupa (4/10) calculou que o próximo presidente indica até quatro ministros do STF; 'cinco' seria exagerado, mas não há checagem publicada."
+  ],
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "rodada 2: placar recontado a partir dos arquivos de falas; lacunas e fontes atualizadas"
+    }
   ]
 }

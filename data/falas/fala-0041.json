@@ -5,8 +5,10 @@
   "candidato": "lula",
   "lado": "governo-lula-pt",
   "minuto": null,
+  "url_trecho": null,
   "frase_literal": "O Pé-de-Meia reduziu a evasão em mais de 60%.",
   "literal": false,
+  "variantes_literais": [],
   "tema": "educacao",
   "veredito": "falta-contexto",
   "resumo_uma_frase": "A evasão no ensino médio público caiu 61% entre 2022 e 2025, mas o próprio MEC atribui a queda a um conjunto de políticas, e o programa nasceu de projeto com 16 autores.",
@@ -35,6 +37,7 @@
       }
     }
   ],
+  "fontes_primarias": [],
   "base_legal": [],
   "checagens_externas": [
     {
@@ -55,5 +58,11 @@
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
-  "atualizado_em": "2026-10-21"
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ]
 }

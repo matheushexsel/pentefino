@@ -5,8 +5,10 @@
   "candidato": "lula",
   "lado": "governo-lula-pt",
   "minuto": null,
+  "url_trecho": null,
   "frase_literal": "Veja, primeiro, não tem nenhuma acusação [contra o Lulinha].",
   "literal": true,
+  "variantes_literais": [],
   "tema": "corrupcao",
   "veredito": "verdadeiro-mas",
   "resumo_uma_frase": "Não há denúncia do Ministério Público, mas Fábio Luís é alvo de três inquéritos da PF autorizados pelo STF.",
@@ -22,6 +24,7 @@
     "Há três inquéritos abertos no STF, o que a frase omite."
   ],
   "numeros": [],
+  "fontes_primarias": [],
   "base_legal": [],
   "checagens_externas": [
     {
@@ -54,5 +57,11 @@
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
-  "atualizado_em": "2026-10-21"
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ]
 }

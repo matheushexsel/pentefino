@@ -4,15 +4,17 @@
   "evento_id": "debate-band-2turno-2026-10-18",
   "candidato": "lula",
   "lado": "governo-lula-pt",
-  "minuto": null,
+  "minuto": "≈112 min após a abertura; stream 06:07:26 (≈22h07)",
+  "url_trecho": "https://www.youtube.com/watch?v=Gqc1rQtzWUk&t=22046s",
   "frase_literal": "A Petrobras foi privatizada a preço de banana.",
   "literal": false,
+  "variantes_literais": [],
   "tema": "energia",
   "veredito": "falso",
   "resumo_uma_frase": "A Petrobras segue estatal; a privatizada foi a Eletrobras.",
   "explicacao_simples": [
     "Lula, no debate da Band (18/10/2026), afirmou (em paráfrase registrada por Ranking dos Políticos) que a Petrobras foi privatizada a preço de banana.",
-    "Ranking: falso (refere-se à Eletrobras).",
+    "Ranking: falso (refere-se à Eletrobras). Nas considerações finais (06:07:26 ≈22h08) a legenda registra 'privatizaram a preço de banana', sem capturar 'Petrobras'; a atribuição à Petrobras é do Ranking.",
     "O dado central não corresponde aos registros disponíveis; por isso a frase é classificada como falsa."
   ],
   "o_que_e_verdade": [],
@@ -20,6 +22,7 @@
     "A Petrobras não foi privatizada."
   ],
   "numeros": [],
+  "fontes_primarias": [],
   "base_legal": [],
   "checagens_externas": [
     {
@@ -40,5 +43,18 @@
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
-  "atualizado_em": "2026-10-21"
+  "atualizado_em": "2026-10-21",
+  "lacunas": [
+    "Incerteza de transcrição: a legenda automática não captura a palavra 'Petrobras' no trecho."
+  ],
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "rodada 2: minutagem, link com timestamp e/ou literal conferido na legenda automática da live da Band"
+    }
+  ]
 }

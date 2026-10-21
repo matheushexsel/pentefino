@@ -4,20 +4,25 @@
   "evento_id": "debate-band-2turno-2026-10-18",
   "candidato": "flavio-bolsonaro",
   "lado": "oposicao-flavio-pl",
-  "minuto": null,
+  "minuto": "≈31 min após a abertura; stream 04:45:36 (≈20h46)",
+  "url_trecho": "https://www.youtube.com/watch?v=Gqc1rQtzWUk&t=17136s",
   "frase_literal": "Seu nariz está crescendo, Lula. Tenha cuidado. / Vou recuperar cada metro, cada rua, cada bairro.",
   "literal": true,
+  "variantes_literais": [
+    "Legenda automática: 'Olha, o nariz tá crescendo, Lula, toma [cuidado]'."
+  ],
   "tema": "eleicao-2026",
   "veredito": "opiniao",
   "resumo_uma_frase": "Ataque retórico e promessa de campanha, sem dado checável.",
   "explicacao_simples": [
     "Flávio Bolsonaro, no debate da Band (18/10/2026), disse: “Seu nariz está crescendo, Lula. Tenha cuidado. / Vou recuperar cada metro, cada rua, cada bairro”.",
-    "Registro da Infobae (versão em espanhol).",
+    "Registro da Infobae (versão em espanhol); legenda automática (04:45:36 ≈20h46): 'Olha, o nariz tá crescendo, Lula, toma [cuidado]'.",
     "É um juízo de valor ou uma promessa, não uma afirmação de fato checável; por isso é classificada como opinião."
   ],
   "o_que_e_verdade": [],
   "o_que_nao_se_sustenta": [],
   "numeros": [],
+  "fontes_primarias": [],
   "base_legal": [],
   "checagens_externas": [],
   "checagem_slug": null,
@@ -28,8 +33,24 @@
       "url": "https://www.infobae.com/america/america-latina/2026/10/19/las-acusaciones-de-corrupcion-y-la-inseguridad-marcaron-el-primer-debate-entre-lula-y-flavio-bolsonaro-antes-del-balotaje-en-brasil/",
       "acesso_em": "2026-10-21",
       "tier": "imprensa"
+    },
+    {
+      "nome": "Band Jornalismo (YouTube) — live integral do debate, legendas automáticas",
+      "url": "https://www.youtube.com/watch?v=Gqc1rQtzWUk",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
-  "atualizado_em": "2026-10-21"
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "rodada 2: minutagem, link com timestamp e/ou literal conferido na legenda automática da live da Band"
+    }
+  ]
 }

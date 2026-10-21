@@ -4,9 +4,11 @@
   "evento_id": "debate-band-2turno-2026-10-18",
   "candidato": "lula",
   "lado": "governo-lula-pt",
-  "minuto": null,
+  "minuto": "≈107 min após a abertura; stream 06:02:2x (≈22h02)",
+  "url_trecho": "https://www.youtube.com/watch?v=Gqc1rQtzWUk&t=21745s",
   "frase_literal": "É a primeira vez [que apresentamos resultado positivo].",
   "literal": true,
+  "variantes_literais": [],
   "tema": "contas-publicas",
   "veredito": "falta-contexto",
   "resumo_uma_frase": "Os orçamentos de 2024 e 2025 também previam equilíbrio, mas viraram déficits de 0,4% e 0,48%.",
@@ -22,6 +24,7 @@
     "Previsões anteriores não se confirmaram."
   ],
   "numeros": [],
+  "fontes_primarias": [],
   "base_legal": [],
   "checagens_externas": [
     {
@@ -42,5 +45,15 @@
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
-  "atualizado_em": "2026-10-21"
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "rodada 2: minutagem, link com timestamp e/ou literal conferido na legenda automática da live da Band"
+    }
+  ]
 }

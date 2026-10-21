@@ -5,8 +5,10 @@
   "candidato": "lula",
   "lado": "governo-lula-pt",
   "minuto": null,
+  "url_trecho": null,
   "frase_literal": "Nós encontramos 6 mil obras paralisadas, entre creches, hospitais, postos… e escolas.",
   "literal": true,
+  "variantes_literais": [],
   "tema": "infraestrutura",
   "veredito": "verdadeiro-mas",
   "resumo_uma_frase": "O TCU contava 8.674 obras paralisadas em ago/2022 (4.215 em abr/2026); o FNDE, 5.642 só na Educação.",
@@ -39,6 +41,7 @@
       }
     }
   ],
+  "fontes_primarias": [],
   "base_legal": [],
   "checagens_externas": [
     {
@@ -86,5 +89,11 @@
   "atualizado_em": "2026-10-21",
   "lacunas": [
     "Divergência de transcrição ('6 mil' vs '100 mil')."
+  ],
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
   ]
 }

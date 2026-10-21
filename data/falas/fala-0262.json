@@ -4,9 +4,13 @@
   "evento_id": "debate-band-2turno-2026-10-18",
   "candidato": "flavio-bolsonaro",
   "lado": "oposicao-flavio-pl",
-  "minuto": null,
+  "minuto": "≈36 min após a abertura; stream 04:50:5x (≈20h51)",
+  "url_trecho": "https://www.youtube.com/watch?v=Gqc1rQtzWUk&t=17455s",
   "frase_literal": "Você foi condenado no STJ, você foi condenado no STF, você foi condenado em todas as instâncias, Lula. E foi descondenado pelos seus amigos.",
   "literal": true,
+  "variantes_literais": [
+    "Legenda automática (bloco dos 73%): 'Você foi condenado em primeira instância […] no STJ […] no STF, você foi condenado em todas as instâncias, Lula, e foi descondenado pelos seus amigos'."
+  ],
   "tema": "justica-stf",
   "veredito": "falso",
   "resumo_uma_frase": "Lula foi condenado em 1ª e 2ª instâncias; o STF anulou as condenações em 2021 (8 a 3) por incompetência do juízo, sem julgar o mérito; ficou 580 dias preso.",
@@ -35,6 +39,7 @@
       }
     }
   ],
+  "fontes_primarias": [],
   "base_legal": [],
   "checagens_externas": [
     {
@@ -67,5 +72,15 @@
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
-  "atualizado_em": "2026-10-21"
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "rodada 2: minutagem, link com timestamp e/ou literal conferido na legenda automática da live da Band"
+    }
+  ]
 }

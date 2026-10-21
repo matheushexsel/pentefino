@@ -5,8 +5,10 @@
   "candidato": "lula",
   "lado": "governo-lula-pt",
   "minuto": null,
+  "url_trecho": null,
   "frase_literal": "Preparo procuração para abrir meus sigilos e os da família se Flávio fizer o mesmo.",
   "literal": false,
+  "variantes_literais": [],
   "tema": "corrupcao",
   "veredito": "verdadeiro-mas",
   "resumo_uma_frase": "O anúncio existe, mas nada foi protocolado.",
@@ -16,12 +18,13 @@
     "O núcleo da frase está correto, mas falta uma ressalva que muda o peso do dado; por isso a classificação é 'verdadeiro, mas'."
   ],
   "o_que_e_verdade": [
-    "Anúncio público feito."
+    "Anúncio público feito (debate da Band, 05:51:2x ≈21h52; SBT 19/10)."
   ],
   "o_que_nao_se_sustenta": [
-    "Nada protocolado."
+    "Nada protocolado até 19/10."
   ],
   "numeros": [],
+  "fontes_primarias": [],
   "base_legal": [],
   "checagens_externas": [
     {
@@ -39,8 +42,29 @@
       "url": "https://gazetadoparana.com.br/publico/lula-no-sbt-checagem-confirma-reajuste-do-bolsa-familia-mas-encontra-lacunas-em-acusacoes-sobre-vorcaro-e-promessas-de-seguranca",
       "acesso_em": "2026-10-21",
       "tier": "imprensa"
+    },
+    {
+      "nome": "BandNews em Dois Minutos (YouTube), 21/10",
+      "url": "https://www.youtube.com/watch?v=3T_2Sc2cXpQ",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Jornal da Band (YouTube), 20/10",
+      "url": "https://www.youtube.com/watch?v=Dihe2hIGhLs",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
-  "atualizado_em": "2026-10-21"
+  "atualizado_em": "2026-10-21",
+  "lacunas": [
+    "Atualização (21/10): Lula protocolou no TSE pedido de autorização para quebra dos sigilos bancário, fiscal e telefônico dele e de familiares (Janja e cinco filhos) nos últimos oito anos, condicionado a Flávio fazer o mesmo, incluindo cinco empresas ligadas a Flávio e os sigilos de Fernanda, Jair, Rogéria, Carlos, Eduardo e Jair Renan Bolsonaro; relator André Mendonça (BandNews, 21/10). A ressalva 'nada protocolado' valia em 19/10."
+  ],
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ]
 }

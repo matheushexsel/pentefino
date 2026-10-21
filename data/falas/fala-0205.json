@@ -5,8 +5,10 @@
   "candidato": "flavio-bolsonaro",
   "lado": "oposicao-flavio-pl",
   "minuto": null,
+  "url_trecho": null,
   "frase_literal": "Um governo que é recordista em empresas que são fechadas. / Recordista em indústrias que deixam o Brasil e vão para o Paraguai.",
   "literal": true,
+  "variantes_literais": [],
   "tema": "economia",
   "veredito": "falso",
   "resumo_uma_frase": "O recorde de falências foi em 2015; houve 862 em 2024, 734 em 2025 e 277 até mai/2026; só 232 empresas entraram no regime de maquila paraguaio desde 2007.",
@@ -31,7 +33,30 @@
         "url": "https://www.aosfatos.org/noticias/checamos-flavio-bolsonaro-globo-segundo-turno/",
         "acesso_em": "2026-10-21",
         "tier": "checagem"
+      },
+      "fonte_primaria": {
+        "nome": "MDIC/Receita — Mapa de Empresas",
+        "url": "https://www.gov.br/empresas-e-negocios/pt-br/mapa-de-empresas",
+        "acesso_em": null,
+        "tier": "oficial",
+        "acessada_na_rodada_2": false
       }
+    }
+  ],
+  "fontes_primarias": [
+    {
+      "nome": "MDIC/Receita — Mapa de Empresas",
+      "url": "https://www.gov.br/empresas-e-negocios/pt-br/mapa-de-empresas",
+      "acesso_em": null,
+      "tier": "oficial",
+      "acessada_na_rodada_2": false
+    },
+    {
+      "nome": "Serasa Experian — Indicadores de falências e recuperações",
+      "url": "https://www.serasaexperian.com.br/conteudos/indicadores-economicos/",
+      "acesso_em": null,
+      "tier": "imprensa",
+      "acessada_na_rodada_2": false
     }
   ],
   "base_legal": [],
@@ -41,6 +66,12 @@
       "veredito_original": "errado",
       "url": "https://www.aosfatos.org/noticias/checamos-flavio-bolsonaro-globo-segundo-turno/",
       "data": "2026-10-16"
+    },
+    {
+      "veiculo": "Aos Fatos",
+      "veredito_original": "'mente' (20/10): consolida ≥25 repetições em 2026",
+      "url": "https://www.aosfatos.org/noticias/flavio-bolsonaro-mente-recorde-falencias-empresas/",
+      "data": "2026-10-20"
     }
   ],
   "checagem_slug": null,
@@ -60,5 +91,11 @@
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
-  "atualizado_em": "2026-10-21"
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ]
 }

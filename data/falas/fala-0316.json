@@ -4,15 +4,19 @@
   "evento_id": "debate-band-2turno-2026-10-18",
   "candidato": "lula",
   "lado": "governo-lula-pt",
-  "minuto": null,
-  "frase_literal": "Bolsonaro teve três ministros da Saúde.",
-  "literal": false,
+  "minuto": "≈72 min após a abertura; stream 05:27:12 (≈21h27)",
+  "url_trecho": "https://www.youtube.com/watch?v=Gqc1rQtzWUk&t=19632s",
+  "frase_literal": "Ele colocou três ministros da saúde.",
+  "literal": true,
+  "variantes_literais": [
+    "Paráfrase anterior (Ranking): 'Bolsonaro teve três ministros da Saúde'."
+  ],
   "tema": "saude",
   "veredito": "impreciso",
   "resumo_uma_frase": "Foram quatro ministros da Saúde.",
   "explicacao_simples": [
-    "Lula, no debate da Band (18/10/2026), afirmou (em paráfrase registrada por Ranking dos Políticos) que bolsonaro teve três ministros da Saúde.",
-    "Ranking: impreciso (quatro).",
+    "Lula, no debate da Band (18/10/2026), disse: “Ele colocou três ministros da saúde”.",
+    "Ranking: impreciso (quatro). Literal pela legenda automática (05:27:12 ≈21h27).",
     "Há um erro de detalhe (número, data ou instituição) que não muda o sentido geral; por isso a classificação é 'impreciso'."
   ],
   "o_que_e_verdade": [],
@@ -33,6 +37,7 @@
       }
     }
   ],
+  "fontes_primarias": [],
   "base_legal": [],
   "checagens_externas": [
     {
@@ -53,5 +58,15 @@
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
-  "atualizado_em": "2026-10-21"
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "rodada 2: minutagem, link com timestamp e/ou literal conferido na legenda automática da live da Band"
+    }
+  ]
 }

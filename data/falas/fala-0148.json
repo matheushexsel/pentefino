@@ -5,8 +5,10 @@
   "candidato": "flavio-bolsonaro",
   "lado": "oposicao-flavio-pl",
   "minuto": null,
+  "url_trecho": null,
   "frase_literal": "[Recebi] 56 milhões de votos.",
   "literal": true,
+  "variantes_literais": [],
   "tema": "eleicao-2026",
   "veredito": "verdadeiro",
   "resumo_uma_frase": "Flávio teve 56.032.142 votos com 99,74% das urnas apuradas.",
@@ -30,7 +32,23 @@
         "url": "https://www.em.com.br/politica/2026/10/7514596-lula-eu-estava-convencido-que-ia-ganhar-no-1-turno.html",
         "acesso_em": "2026-10-21",
         "tier": "imprensa"
+      },
+      "fonte_primaria": {
+        "nome": "TSE — Resultados 2026 (comparecimento/abstenção)",
+        "url": "https://resultados.tse.jus.br/oficial/app/index.html",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial",
+        "acessada_na_rodada_2": true
       }
+    }
+  ],
+  "fontes_primarias": [
+    {
+      "nome": "TSE — Resultados 2026 (comparecimento/abstenção)",
+      "url": "https://resultados.tse.jus.br/oficial/app/index.html",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial",
+      "acessada_na_rodada_2": true
     }
   ],
   "base_legal": [],
@@ -48,6 +66,13 @@
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
   "atualizado_em": "2026-10-21",
   "lacunas": [
+    "Repetida nas considerações finais do debate da Band (18/10, 06:08:5x do stream ≈22h09): '56 mais 56 milhões de brasileiros e brasileiras que me deram esse voto de confiança' — não contada de novo.",
     "Sem checagem de agência; veredito atribuído pela nota com base nos fatos citados."
+  ],
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
   ]
 }

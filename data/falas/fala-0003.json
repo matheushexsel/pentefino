@@ -5,8 +5,10 @@
   "candidato": "lula",
   "lado": "governo-lula-pt",
   "minuto": null,
+  "url_trecho": null,
   "frase_literal": "Nós criamos 10,1 milhões de empregos formais nesses últimos três anos e meio.",
   "literal": true,
+  "variantes_literais": [],
   "tema": "emprego-renda",
   "veredito": "verdadeiro-mas",
   "resumo_uma_frase": "O número bate com os vínculos formais registrados na Rais entre jan/2023 e jun/2026, mas não é saldo líquido nem número de pessoas.",
@@ -32,6 +34,13 @@
         "url": "https://www.agencialupa.org/noticias/2026/08/17/em-pontape-da-campanha-flavio-e-lula-cometem-erros-sobre-desempenho-de-gestoes-passadas/",
         "acesso_em": "2026-10-21",
         "tier": "checagem"
+      },
+      "fonte_primaria": {
+        "nome": "MTE — PDET (Novo Caged e RAIS)",
+        "url": "http://pdet.mte.gov.br/",
+        "acesso_em": null,
+        "tier": "oficial",
+        "acessada_na_rodada_2": false
       }
     },
     {
@@ -48,7 +57,23 @@
       "comparacao": {
         "rotulo": "Ocupados no início de 2023",
         "valor": 99.4
+      },
+      "fonte_primaria": {
+        "nome": "MTE — PDET (Novo Caged e RAIS)",
+        "url": "http://pdet.mte.gov.br/",
+        "acesso_em": null,
+        "tier": "oficial",
+        "acessada_na_rodada_2": false
       }
+    }
+  ],
+  "fontes_primarias": [
+    {
+      "nome": "MTE — PDET (Novo Caged e RAIS)",
+      "url": "http://pdet.mte.gov.br/",
+      "acesso_em": null,
+      "tier": "oficial",
+      "acessada_na_rodada_2": false
     }
   ],
   "base_legal": [],
@@ -71,5 +96,11 @@
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
-  "atualizado_em": "2026-10-21"
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ]
 }

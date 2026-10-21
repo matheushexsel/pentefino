@@ -5,8 +5,10 @@
   "candidato": "lula",
   "lado": "governo-lula-pt",
   "minuto": null,
+  "url_trecho": null,
   "frase_literal": "Quase R$ 15 bilhões em dívidas irrecuperáveis de cerca de 4 milhões de MEIs.",
   "literal": false,
+  "variantes_literais": [],
   "tema": "impostos",
   "veredito": "impreciso",
   "resumo_uma_frase": "O PLC 186/2026 anistia R$ 12,6 bilhões de ~3,6 milhões de MEIs.",
@@ -35,6 +37,7 @@
       }
     }
   ],
+  "fontes_primarias": [],
   "base_legal": [],
   "checagens_externas": [
     {
@@ -58,8 +61,23 @@
       "url": "https://gazetadaamazonia.com.br/20/10/2026/lula-no-sbt-destaques-sabatina/",
       "acesso_em": "2026-10-21",
       "tier": "imprensa"
+    },
+    {
+      "nome": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/lula-sanciona-hoje-perdao-de-dividas-de-meis-e-participa-de-caminhada-em-bh/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
-  "atualizado_em": "2026-10-21"
+  "atualizado_em": "2026-10-21",
+  "lacunas": [
+    "A revisar após o texto da lei: a lei sancionada em 21/10 trata, segundo a CNN, de R$ 15,5 bilhões e 3,6 milhões de MEIs — se confirmado na fonte primária, o 'quase R$ 15 bilhões' deixa de ser impreciso no valor (continua impreciso em '4 milhões')."
+  ],
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ]
 }

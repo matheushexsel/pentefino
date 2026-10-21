@@ -4,9 +4,13 @@
   "evento_id": "debate-band-2turno-2026-10-18",
   "candidato": "flavio-bolsonaro",
   "lado": "oposicao-flavio-pl",
-  "minuto": null,
+  "minuto": "≈46 min após a abertura; stream 05:00:36 (≈21h01)",
+  "url_trecho": "https://www.youtube.com/watch?v=Gqc1rQtzWUk&t=18036s",
   "frase_literal": "R$ 7 bilhões que você gastou em viagens com a Janja.",
   "literal": true,
+  "variantes_literais": [
+    "Legenda automática: 'com as janjas de 7 bilhões que você gastou com a Janja, eu vou tirar dele, da Janja, e vou dar para você'. Resposta de Lula: 'Vai no Google, mais uma vez ele vai dar uma mentira. Porque ele é preparado para mentir'."
+  ],
   "tema": "contas-publicas",
   "veredito": "falso",
   "resumo_uma_frase": "Os R$ 7,14 bilhões são viagens de toda a estrutura federal (cerca de 475 mil pessoas, mais de 34 órgãos) em 2023–2025; a Presidência gastou cerca de R$ 150 milhões.",
@@ -32,6 +36,13 @@
         "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
         "acesso_em": "2026-10-21",
         "tier": "checagem"
+      },
+      "fonte_primaria": {
+        "nome": "Portal da Transparência — Viagens a serviço",
+        "url": "https://portaldatransparencia.gov.br/viagens",
+        "acesso_em": null,
+        "tier": "oficial",
+        "acessada_na_rodada_2": false
       }
     },
     {
@@ -44,7 +55,23 @@
         "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
         "acesso_em": "2026-10-21",
         "tier": "checagem"
+      },
+      "fonte_primaria": {
+        "nome": "Portal da Transparência — Viagens a serviço",
+        "url": "https://portaldatransparencia.gov.br/viagens",
+        "acesso_em": null,
+        "tier": "oficial",
+        "acessada_na_rodada_2": false
       }
+    }
+  ],
+  "fontes_primarias": [
+    {
+      "nome": "Portal da Transparência — Viagens a serviço",
+      "url": "https://portaldatransparencia.gov.br/viagens",
+      "acesso_em": null,
+      "tier": "oficial",
+      "acessada_na_rodada_2": false
     }
   ],
   "base_legal": [],
@@ -109,5 +136,15 @@
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
-  "atualizado_em": "2026-10-21"
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "rodada 2: minutagem, link com timestamp e/ou literal conferido na legenda automática da live da Band"
+    }
+  ]
 }

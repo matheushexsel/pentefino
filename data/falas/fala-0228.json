@@ -5,8 +5,10 @@
   "candidato": "flavio-bolsonaro",
   "lado": "oposicao-flavio-pl",
   "minuto": null,
+  "url_trecho": null,
   "frase_literal": "O ex-presidente Bolsonaro, que passou para no mínimo R$ 600 o Bolsa Família. / [O valor médio] era em média 190. O presidente Bolsonaro triplicou esse valor.",
   "literal": true,
+  "variantes_literais": [],
   "tema": "pobreza-programas-sociais",
   "veredito": "exagerado",
   "resumo_uma_frase": "A MP de 2021 fixou R$ 400; os R$ 600 valeram só de jun a dez/2022 (EC 123); a média em jan/2019 era R$ 187,91.",
@@ -36,7 +38,23 @@
       "comparacao": {
         "rotulo": "Auxílio Brasil pela MP de 2021",
         "valor": 400
+      },
+      "fonte_primaria": {
+        "nome": "MDS — VIS Data (valor médio do Bolsa Família)",
+        "url": "https://aplicacoes.cidadania.gov.br/vis/data3/data-explorer.php",
+        "acesso_em": null,
+        "tier": "oficial",
+        "acessada_na_rodada_2": false
       }
+    }
+  ],
+  "fontes_primarias": [
+    {
+      "nome": "MDS — VIS Data (valor médio do Bolsa Família)",
+      "url": "https://aplicacoes.cidadania.gov.br/vis/data3/data-explorer.php",
+      "acesso_em": null,
+      "tier": "oficial",
+      "acessada_na_rodada_2": false
     }
   ],
   "base_legal": [],
@@ -71,5 +89,11 @@
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
-  "atualizado_em": "2026-10-21"
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ]
 }

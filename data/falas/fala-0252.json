@@ -4,9 +4,13 @@
   "evento_id": "debate-band-2turno-2026-10-18",
   "candidato": "flavio-bolsonaro",
   "lado": "oposicao-flavio-pl",
-  "minuto": null,
+  "minuto": "≈25 min após a abertura; stream 04:40:0x (≈20h40)",
+  "url_trecho": "https://www.youtube.com/watch?v=Gqc1rQtzWUk&t=16805s",
   "frase_literal": "O áudio do Vorcaro falou que é dinheiro por fora, dinheiro por fora. R$ 30 milhões… [ao Instituto Lula].",
   "literal": true,
+  "variantes_literais": [
+    "Legenda automática: 'O áudio do Vucano [Vorcaro] falou que é teu dinheirinho por fora. 30 conto, 30 milhões para o Instituto Lula por fora, dinheiro ilegal'."
+  ],
   "tema": "corrupcao",
   "veredito": "insustentavel",
   "resumo_uma_frase": "A Veja (9/10) citou relatos; PGR e PF negam a existência do depoimento; a defesa confirmou a voz no áudio, mas não há comprovante de repasse.",
@@ -22,6 +26,15 @@
     "Não há documento que comprove repasse de R$ 30 milhões ao Instituto Lula."
   ],
   "numeros": [],
+  "fontes_primarias": [
+    {
+      "nome": "Polícia Federal — nota oficial de 9/10/2026",
+      "url": "https://www.gov.br/pf/pt-br",
+      "acesso_em": null,
+      "tier": "oficial",
+      "acessada_na_rodada_2": false
+    }
+  ],
   "base_legal": [],
   "checagens_externas": [
     {
@@ -32,7 +45,7 @@
     },
     {
       "veiculo": "UOL Confere (via ICL Notícias)",
-      "veredito_original": "INSUSTENTÁVEL",
+      "veredito_original": "INSUSTENTÁVEL (item identificado via ICL: áudio sem autenticidade demonstrada; PF, PGR e defesa negam o depoimento)",
       "url": "https://iclnoticias.com.br/flavio-lidera-mentiras-debate-checagem/",
       "data": "2026-10-19"
     },
@@ -66,5 +79,15 @@
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
-  "atualizado_em": "2026-10-21"
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "rodada 2: minutagem, link com timestamp e/ou literal conferido na legenda automática da live da Band"
+    }
+  ]
 }

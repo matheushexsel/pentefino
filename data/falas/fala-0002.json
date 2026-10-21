@@ -5,8 +5,10 @@
   "candidato": "lula",
   "lado": "governo-lula-pt",
   "minuto": null,
+  "url_trecho": null,
   "frase_literal": "Enquanto eles [governo Bolsonaro] criaram no mandato deles 2 milhões de empregos.",
   "literal": true,
+  "variantes_literais": [],
   "tema": "emprego-renda",
   "veredito": "falso",
   "resumo_uma_frase": "Os 2 milhões são o saldo de um único ano (2022); no mandato inteiro o Novo Caged soma 4,6 milhões de vagas formais e a Pnad, 6,4 milhões de ocupados a mais.",
@@ -40,6 +42,7 @@
       }
     }
   ],
+  "fontes_primarias": [],
   "base_legal": [],
   "checagens_externas": [
     {
@@ -60,5 +63,11 @@
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
-  "atualizado_em": "2026-10-21"
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ]
 }

@@ -4,9 +4,13 @@
   "evento_id": "debate-band-2turno-2026-10-18",
   "candidato": "flavio-bolsonaro",
   "lado": "oposicao-flavio-pl",
-  "minuto": "~21h39 (2º bloco)",
+  "minuto": "≈36 min após a abertura; stream 04:50:3x (≈20h51)",
+  "url_trecho": "https://www.youtube.com/watch?v=Gqc1rQtzWUk&t=17435s",
   "frase_literal": "Nem em mim ele pode votar, porque ele foi vítima da perseguição.",
   "literal": true,
+  "variantes_literais": [
+    "Legenda automática: 'Ele não pode votar em você nem em mim. Ele não pode votar em ninguém porque…' (corte na legenda); mantida a versão da imprensa (CNN/Poder360) como literal principal."
+  ],
   "tema": "justica-stf",
   "veredito": "verdadeiro-mas",
   "resumo_uma_frase": "É fato que Jair Bolsonaro não pode votar: tem direitos políticos suspensos após condenação definitiva (CF, art. 15, III); 'perseguição' é opinião.",
@@ -22,6 +26,7 @@
     "A causa é a condenação transitada em julgado, não 'perseguição' — qualificação opinativa."
   ],
   "numeros": [],
+  "fontes_primarias": [],
   "base_legal": [
     {
       "norma": "Constituição Federal, art. 15, III",
@@ -44,11 +49,27 @@
       "url": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-diz-que-lula-foi-eleito-por-aclamacao-nos-presidios/",
       "acesso_em": "2026-10-21",
       "tier": "imprensa"
+    },
+    {
+      "nome": "Band Jornalismo (YouTube) — live integral do debate, legendas automáticas",
+      "url": "https://www.youtube.com/watch?v=Gqc1rQtzWUk",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
   "atualizado_em": "2026-10-21",
   "lacunas": [
     "Sem checagem de agência; veredito atribuído pela nota com base nos fatos citados."
+  ],
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "rodada 2: minutagem, link com timestamp e/ou literal conferido na legenda automática da live da Band"
+    }
   ]
 }

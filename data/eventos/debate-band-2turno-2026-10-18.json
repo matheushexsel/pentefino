@@ -3,60 +3,42 @@
   "tipo": "debate",
   "nome": "Debate do 2º turno — Band (consórcio Band/Cultura/Gazeta/Jovem Pan/Estadão)",
   "data": "2026-10-18",
-  "veiculo": "Band — debate em São Paulo, 20h, mediação de Adriana Araújo e Eduardo Oinegue, 114 minutos",
+  "veiculo": "Band — debate em São Paulo, mediação de Adriana Araújo e Eduardo Oinegue; confronto ≈20h15–22h11 (116 min, Ibope/Grande SP)",
   "participantes": [
     "lula",
     "flavio-bolsonaro"
   ],
-  "url_video": null,
+  "url_video": "https://www.youtube.com/watch?v=Gqc1rQtzWUk",
   "url_transcricao": null,
   "resumo_uma_frase": "Único confronto direto até 21/10. Lupa checou 41 falas, Aos Fatos 49, Ranking 76, Estadão Verifica 28 e UOL Confere 15; no consolidado do projeto (frases únicas), Flávio tem mais falas falsas e Lula mais falas verdadeiras, com Lula errando sobretudo em cifras e Flávio em acusações causais ou criminais.",
   "placar": {
     "lula": {
-      "checadas": 44,
+      "checadas": 47,
       "por_veredito": {
         "verdadeiro": 16,
         "verdadeiro-mas": 8,
         "impreciso": 5,
         "exagerado": 6,
-        "falta-contexto": 5,
-        "insustentavel": 2,
+        "falta-contexto": 4,
+        "insustentavel": 3,
         "falso": 5,
         "opiniao": 1
       },
-      "contagem_arquivos": {
-        "verdadeiro": 16,
-        "falso": 5,
-        "verdadeiro-mas": 7,
-        "exagerado": 6,
-        "falta-contexto": 4,
-        "impreciso": 5,
-        "insustentavel": 2,
-        "opiniao": 1
-      }
+      "criterio": "contagem dos arquivos de data/falas/ deste evento (frases únicas; opiniões em linha própria e fora de 'checadas'; falas de aliados não incluídas)"
     },
     "flavio-bolsonaro": {
-      "checadas": 46,
+      "checadas": 52,
       "por_veredito": {
-        "verdadeiro": 6,
+        "verdadeiro": 5,
         "verdadeiro-mas": 6,
         "impreciso": 2,
         "exagerado": 5,
-        "falta-contexto": 10,
-        "insustentavel": 7,
-        "falso": 16,
+        "falta-contexto": 13,
+        "insustentavel": 6,
+        "falso": 15,
         "opiniao": 1
       },
-      "contagem_arquivos": {
-        "verdadeiro-mas": 6,
-        "exagerado": 5,
-        "verdadeiro": 5,
-        "falta-contexto": 10,
-        "falso": 15,
-        "impreciso": 2,
-        "insustentavel": 6,
-        "opiniao": 1
-      }
+      "criterio": "contagem dos arquivos de data/falas/ deste evento (frases únicas; opiniões em linha própria e fora de 'checadas'; falas de aliados não incluídas)"
     }
   },
   "falas": [
@@ -155,7 +137,12 @@
     "fala-0317",
     "fala-0318",
     "fala-0319",
-    "fala-0320"
+    "fala-0320",
+    "fala-0340",
+    "fala-0341",
+    "fala-0342",
+    "fala-0343",
+    "fala-0344"
   ],
   "checagens_externas": [
     {
@@ -187,6 +174,12 @@
       "veredito_original": "15 itens: Flávio 10 (F 3, enganosas 5, EX 1, INS 1); Lula 5 (F 1, enganosa 1, EX 3)",
       "url": "https://iclnoticias.com.br/flavio-lidera-mentiras-debate-checagem/",
       "data": "2026-10-19"
+    },
+    {
+      "veiculo": "Aos Fatos",
+      "veredito_original": "20/10: 'mente' — recorde de falências/empresas fechadas (≥25 repetições em 2026; repetida no debate)",
+      "url": "https://www.aosfatos.org/noticias/flavio-bolsonaro-mente-recorde-falencias-empresas/",
+      "data": "2026-10-20"
     },
     {
       "veiculo": "Esquerda Online / flaviomentiu.com.br",
@@ -243,14 +236,75 @@
       "url": "https://www.infobae.com/america/america-latina/2026/10/19/las-acusaciones-de-corrupcion-y-la-inseguridad-marcaron-el-primer-debate-entre-lula-y-flavio-bolsonaro-antes-del-balotaje-en-brasil/",
       "acesso_em": "2026-10-21",
       "tier": "imprensa"
+    },
+    {
+      "nome": "Band Jornalismo (YouTube) — live integral do debate, legendas automáticas",
+      "url": "https://www.youtube.com/watch?v=Gqc1rQtzWUk",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "A Tarde (Folha/F5) — audiência do debate",
+      "url": "https://atarde.com.br/televisao/debate-entre-lula-e-flavio-faz-band-bater-recorde-e-superar-a-globo-1406201",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Prensa Mercosur (Veja) — audiência do debate",
+      "url": "https://prensamercosur.org/2026/10/19/a-audiencia-da-band-durante-o-primeiro-debate-entre-flavio-e-lula/",
+      "acesso_em": "2026-10-21",
+      "tier": "imprensa"
+    },
+    {
+      "nome": "Aos Fatos",
+      "url": "https://www.aosfatos.org/noticias/flavio-bolsonaro-mente-recorde-falencias-empresas/",
+      "acesso_em": "2026-10-21",
+      "tier": "checagem"
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
   "atualizado_em": "2026-10-21",
+  "audiencia": {
+    "grande_sp_pontos_media": 13,
+    "grande_sp_pontos_pico": 15,
+    "pnt_band": 13,
+    "pnt_globo": 12,
+    "youtube_simultaneos_pico": 5000000,
+    "youtube_visualizacoes_dia": 15000000,
+    "medicao": "Ibope/PNT (presumivelmente Kantar Ibope Media), 20h15–22h11",
+    "fontes": [
+      {
+        "nome": "A Tarde (Folha/F5) — audiência do debate",
+        "url": "https://atarde.com.br/televisao/debate-entre-lula-e-flavio-faz-band-bater-recorde-e-superar-a-globo-1406201",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      },
+      {
+        "nome": "Prensa Mercosur (Veja) — audiência do debate",
+        "url": "https://prensamercosur.org/2026/10/19/a-audiencia-da-band-durante-o-primeiro-debate-entre-flavio-e-lula/",
+        "acesso_em": "2026-10-21",
+        "tier": "imprensa"
+      }
+    ]
+  },
   "lacunas": [
-    "Sem transcrição integral e sem horários (exceto ~21h39 do trecho dos presídios); site da Band retornou 403.",
-    "Lista item a item do UOL Confere não acessada (site bloqueado).",
-    "A frase F7 (brasileiros já podem vender pela internet) ficou sem veredito no Aos Fatos e não foi catalogada; a repetição da pesquisa sobre pena de morte (L27) não foi registrada pelas checagens do debate.",
-    "Os totais por veredito publicados na nota (Lula 44; Flávio 46) somam mais que o número de itens; o item a item deste catálogo gera contagens ligeiramente diferentes."
+    "Sem transcrição editorial; há legenda automática do YouTube (live Gqc1rQtzWUk, 10.174 cues), transcrição de máquina com erros de nomes próprios e sem pontuação confiável, usada para localizar e conferir o teor (arquivo fora do repositório). Horários estimados: hora ≈ tempo do stream + 16h (debate abre em 04:14:30 do stream), erro possível de ±1 min.",
+    "Lista item a item do UOL Confere não acessada (site bloqueado); só o item 'R$ 30 milhões ao Instituto Lula' (INSUSTENTÁVEL) é identificável via ICL.",
+    "A repetição da pesquisa sobre pena de morte (L27) não aparece na legenda nem nas checagens; 'exilado' (F45), 'Petrobras' (L16) e '780 mil' (L44) não foram capturados pela legenda automática — mantidos pelas fontes das agências.",
+    "O placar deste arquivo é contado a partir dos arquivos de falas (frases únicas; opiniões em linha própria; aliados fora); a tabela original da nota (Lula 44 / Flávio 46) foi corrigida na rodada 2 para 45/49 e, com os itens novos, 47/52.",
+    "Promessas ditas no debate e não contadas (opinião): Flávio, 05:56:3x ≈21h57: 'Eu vou aprovar com o Congresso Nacional a castração química para estuprador' e 'Eu vou mudar a Constituição […] para reduzir a maioridade penal'; Lula, 05:51:2x ≈21h52: 'amanhã, abrimos a nossa conta bancária, abrimos o nosso sigilo telefônico […] eu abro da minha família inteira e você abre da sua família' (pedido protocolado no TSE em 21/10).",
+    "Lula, 06:02:2x ≈22h03: 'eu fui o primeiro presidente, o único presidente que fiz superávit durante todos os oito anos de governo' — a forma 'único' não foi checada por agência; a verificar com a série anual do BCB (não contada).",
+    "Flávio, 06:08:5x ≈22h09: '56 mais 56 milhões de brasileiros e brasileiras que me deram esse voto de confiança' — repetição do item verdadeiro de 4/10, não contada de novo.",
+    "Mediação (04:25:00): 'O Brasil está sem grau de investimento há mais de 10 anos […] a maior taxa de juros real do planeta' — não é fala de candidato; não contada."
+  ],
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "rodada 2: placar recontado a partir dos arquivos de falas; lacunas e fontes atualizadas"
+    }
   ]
 }

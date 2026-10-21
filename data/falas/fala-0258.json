@@ -4,15 +4,19 @@
   "evento_id": "debate-band-2turno-2026-10-18",
   "candidato": "flavio-bolsonaro",
   "lado": "oposicao-flavio-pl",
-  "minuto": null,
-  "frase_literal": "O Careca do INSS pagou coisa para o filho de Lula.",
-  "literal": false,
+  "minuto": "≈18 min após a abertura; stream 04:32:3x (≈20h33)",
+  "url_trecho": "https://www.youtube.com/watch?v=Gqc1rQtzWUk&t=16355s",
+  "frase_literal": "Inclusive ele [o Careca do INSS] pagou coisa para o seu filho. O dinheiro que o seu filho está sendo sustentado lá fora na Espanha […] mora num bairro muito rico do lado do Vini Júnior.",
+  "literal": true,
+  "variantes_literais": [
+    "Paráfrase anterior (Ranking): 'O Careca do INSS pagou coisa para o filho de Lula'."
+  ],
   "tema": "corrupcao",
   "veredito": "insustentavel",
   "resumo_uma_frase": "A PF cita suposta mesada com base em testemunha; a quebra de sigilo não encontrou pagamentos.",
   "explicacao_simples": [
-    "Flávio Bolsonaro, no debate da Band (18/10/2026), afirmou (em paráfrase registrada por Ranking dos Políticos) que o Careca do INSS pagou coisa para o filho de Lula.",
-    "Ranking: impreciso (PF cita suposta mesada por testemunha; quebra de sigilo não achou pagamentos).",
+    "Flávio Bolsonaro, no debate da Band (18/10/2026), disse: “Inclusive ele [o Careca do INSS] pagou coisa para o seu filho. O dinheiro que o seu filho está sendo sustentado lá fora na Espanha […] mora num bairro muito rico do lado do Vini Júnior”.",
+    "Ranking: impreciso (PF cita suposta mesada por testemunha; quebra de sigilo não achou pagamentos). Literal pela legenda automática (04:32:3x ≈20h33).",
     "Não há documento ou dado público que permita confirmar ou negar a afirmação; por isso ela é classificada como 'insustentável'."
   ],
   "o_que_e_verdade": [
@@ -22,6 +26,7 @@
     "Quebra de sigilo não encontrou pagamentos."
   ],
   "numeros": [],
+  "fontes_primarias": [],
   "base_legal": [],
   "checagens_externas": [
     {
@@ -42,5 +47,15 @@
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
-  "atualizado_em": "2026-10-21"
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "rodada 2: minutagem, link com timestamp e/ou literal conferido na legenda automática da live da Band"
+    }
+  ]
 }

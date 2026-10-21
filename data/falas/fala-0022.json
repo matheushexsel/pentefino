@@ -5,8 +5,10 @@
   "candidato": "lula",
   "lado": "governo-lula-pt",
   "minuto": null,
+  "url_trecho": null,
   "frase_literal": "Herdei um déficit de 2,8%.",
   "literal": false,
+  "variantes_literais": [],
   "tema": "contas-publicas",
   "veredito": "falso",
   "resumo_uma_frase": "Em 2022 o governo central teve superávit primário (0,5% a 0,6% do PIB); o déficit de 2023 foi de 2,1% a 2,4%.",
@@ -31,7 +33,30 @@
         "url": "https://www.agencialupa.org/checagem/2026/10/15/ao-vivo-checagem-da-entrevista-de-lula-na-tv-globo/",
         "acesso_em": "2026-10-21",
         "tier": "checagem"
+      },
+      "fonte_primaria": {
+        "nome": "Tesouro Nacional — Resultado do Tesouro Nacional (RTN)",
+        "url": "https://www.gov.br/tesouronacional/pt-br/estatisticas-fiscais-e-planejamento/resultado-do-tesouro-nacional-rtn",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial",
+        "acessada_na_rodada_2": true
       }
+    }
+  ],
+  "fontes_primarias": [
+    {
+      "nome": "Tesouro Nacional — Resultado do Tesouro Nacional (RTN)",
+      "url": "https://www.gov.br/tesouronacional/pt-br/estatisticas-fiscais-e-planejamento/resultado-do-tesouro-nacional-rtn",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial",
+      "acessada_na_rodada_2": true
+    },
+    {
+      "nome": "BCB — SGS 5793 (resultado primário do setor público, 12 meses, % PIB; dez/2022 = −1,25 = superávit)",
+      "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.5793/dados?formato=json&dataInicial=01/12/2022&dataFinal=31/12/2022",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial",
+      "acessada_na_rodada_2": true
     }
   ],
   "base_legal": [],
@@ -78,5 +103,11 @@
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
-  "atualizado_em": "2026-10-21"
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ]
 }

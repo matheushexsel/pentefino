@@ -5,8 +5,10 @@
   "candidato": "lula",
   "lado": "governo-lula-pt",
   "minuto": null,
+  "url_trecho": null,
   "frase_literal": "O Brasil só cresceu acima de 3% quando eu voltei. / Você sabe, Igor, que o Brasil só cresceu acima de 3%, depois que eu deixei a Presidência, quando eu voltei.",
   "literal": true,
+  "variantes_literais": [],
   "tema": "economia",
   "veredito": "falso",
   "resumo_uma_frase": "O PIB cresceu 4% em 2011, 3% em 2013, 4,8% em 2021 e 3% em 2022, antes do retorno de Lula; a Lupa desmentiu a frase pela 4ª vez.",
@@ -34,7 +36,30 @@
       "comparacao": {
         "rotulo": "Em 2011",
         "valor": 4.0
+      },
+      "fonte_primaria": {
+        "nome": "IBGE — SIDRA, tabela 5932 (PIB, variação acumulada em 4 trimestres); API conferida em 21/10/2026",
+        "url": "https://sidra.ibge.gov.br/tabela/5932",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial",
+        "acessada_na_rodada_2": true
       }
+    }
+  ],
+  "fontes_primarias": [
+    {
+      "nome": "IBGE — SIDRA, tabela 5932 (PIB, variação acumulada em 4 trimestres); API conferida em 21/10/2026",
+      "url": "https://sidra.ibge.gov.br/tabela/5932",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial",
+      "acessada_na_rodada_2": true
+    },
+    {
+      "nome": "IBGE — API SIDRA t/5932 v/6563 (2010 7,5; 2011 4,0; 2013 3,0; 2021 4,8; 2022 3,0; 2025 2,3)",
+      "url": "https://apisidra.ibge.gov.br/values/t/5932/n1/all/v/6563/p/last%2064/c11255/90707/d/v6563%201",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial",
+      "acessada_na_rodada_2": true
     }
   ],
   "base_legal": [],
@@ -69,5 +94,11 @@
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
-  "atualizado_em": "2026-10-21"
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ]
 }

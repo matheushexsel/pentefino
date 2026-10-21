@@ -4,9 +4,13 @@
   "evento_id": "debate-band-2turno-2026-10-18",
   "candidato": "lula",
   "lado": "governo-lula-pt",
-  "minuto": null,
+  "minuto": "≈107 min após a abertura; stream 06:02:2x (≈22h02)",
+  "url_trecho": "https://www.youtube.com/watch?v=Gqc1rQtzWUk&t=21745s",
   "frase_literal": "Agora apresentamos um orçamento com superávit de 0,1%.",
   "literal": true,
+  "variantes_literais": [
+    "Considerações finais (legenda automática): 'apresentamos o orçamento com superávit de 0.1% é a primeira vez e também porque eu fui o primeiro presidente, o único presidente que fiz superávit durante todos os oito anos de governo'."
+  ],
   "tema": "contas-publicas",
   "veredito": "verdadeiro",
   "resumo_uma_frase": "O PLOA 2027 prevê superávit de R$ 18,6 bilhões (0,13% do PIB).",
@@ -30,7 +34,23 @@
         "url": "https://www.agencialupa.org/checagem/2026/10/18/ao-vivo-checagem-do-debate-entre-lula-e-flavio-bolsonaro-na-band/",
         "acesso_em": "2026-10-21",
         "tier": "checagem"
+      },
+      "fonte_primaria": {
+        "nome": "Tesouro Nacional — Resultado do Tesouro Nacional (RTN)",
+        "url": "https://www.gov.br/tesouronacional/pt-br/estatisticas-fiscais-e-planejamento/resultado-do-tesouro-nacional-rtn",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial",
+        "acessada_na_rodada_2": true
       }
+    }
+  ],
+  "fontes_primarias": [
+    {
+      "nome": "Tesouro Nacional — Resultado do Tesouro Nacional (RTN)",
+      "url": "https://www.gov.br/tesouronacional/pt-br/estatisticas-fiscais-e-planejamento/resultado-do-tesouro-nacional-rtn",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial",
+      "acessada_na_rodada_2": true
     }
   ],
   "base_legal": [],
@@ -53,5 +73,15 @@
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
-  "atualizado_em": "2026-10-21"
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "rodada 2: minutagem, link com timestamp e/ou literal conferido na legenda automática da live da Band"
+    }
+  ]
 }

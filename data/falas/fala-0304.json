@@ -5,8 +5,10 @@
   "candidato": "lula",
   "lado": "governo-lula-pt",
   "minuto": null,
+  "url_trecho": null,
   "frase_literal": "Fui eu que mandei prender o Vorcaro.",
   "literal": false,
+  "variantes_literais": [],
   "tema": "corrupcao",
   "veredito": "falta-contexto",
   "resumo_uma_frase": "Vorcaro está preso preventivamente desde 4/3/2026, mas a prisão não decorre de decisão do presidente.",
@@ -22,6 +24,7 @@
     "A prisão é decisão judicial, não do presidente."
   ],
   "numeros": [],
+  "fontes_primarias": [],
   "base_legal": [],
   "checagens_externas": [
     {
@@ -54,5 +57,11 @@
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
-  "atualizado_em": "2026-10-21"
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ]
 }

@@ -5,8 +5,10 @@
   "candidato": "lula",
   "lado": "governo-lula-pt",
   "minuto": null,
+  "url_trecho": null,
   "frase_literal": "[Programa] que retirou o Brasil do mapa da fome.",
   "literal": true,
+  "variantes_literais": [],
   "tema": "pobreza-programas-sociais",
   "veredito": "verdadeiro-mas",
   "resumo_uma_frase": "O Brasil saiu do Mapa da Fome em 2014 (governo Dilma), voltou em 2019–2021 e saiu de novo em julho de 2025.",
@@ -22,6 +24,15 @@
     "A primeira saída (2014) foi no governo Dilma."
   ],
   "numeros": [],
+  "fontes_primarias": [
+    {
+      "nome": "FAO — SOFI 2025",
+      "url": "https://www.fao.org/publications/home/fao-flagship-publications/the-state-of-food-security-and-nutrition-in-the-world/en",
+      "acesso_em": "2026-10-21",
+      "tier": "multilateral",
+      "acessada_na_rodada_2": true
+    }
+  ],
   "base_legal": [],
   "checagens_externas": [
     {
@@ -42,5 +53,11 @@
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
-  "atualizado_em": "2026-10-21"
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ]
 }

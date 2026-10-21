@@ -5,8 +5,10 @@
   "candidato": "lula",
   "lado": "governo-lula-pt",
   "minuto": null,
+  "url_trecho": null,
   "frase_literal": "Fiquei oitenta dias de prisão.",
   "literal": false,
+  "variantes_literais": [],
   "tema": "justica-stf",
   "veredito": "impreciso",
   "resumo_uma_frase": "Lula ficou 580 dias preso (abril de 2018 a novembro de 2019).",
@@ -35,6 +37,7 @@
       }
     }
   ],
+  "fontes_primarias": [],
   "base_legal": [],
   "checagens_externas": [
     {
@@ -58,5 +61,11 @@
   "atualizado_em": "2026-10-21",
   "lacunas": [
     "Possível divergência de transcrição ('oitenta' pode ser trecho de '580')."
+  ],
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
   ]
 }

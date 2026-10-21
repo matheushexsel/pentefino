@@ -5,8 +5,10 @@
   "candidato": "flavio-bolsonaro",
   "lado": "oposicao-flavio-pl",
   "minuto": null,
+  "url_trecho": null,
   "frase_literal": "[Governo] recordista em mulheres assassinadas.",
   "literal": true,
+  "variantes_literais": [],
   "tema": "seguranca",
   "veredito": "verdadeiro-mas",
   "resumo_uma_frase": "Feminicídios bateram recorde (1.571 em 2025, +4%), mas o total de homicídios de mulheres caiu.",
@@ -32,7 +34,23 @@
         "url": "https://ranking.org.br/en/articles/checagem-entrevista-flavio-bolsonaro-jornal-nacional-2-turno-2026",
         "acesso_em": "2026-10-21",
         "tier": "checagem"
+      },
+      "fonte_primaria": {
+        "nome": "FBSP — Anuário Brasileiro de Segurança Pública 2026",
+        "url": "https://forumseguranca.org.br/anuario-brasileiro-seguranca-publica/",
+        "acesso_em": "2026-10-21",
+        "tier": "academico",
+        "acessada_na_rodada_2": true
       }
+    }
+  ],
+  "fontes_primarias": [
+    {
+      "nome": "FBSP — Anuário Brasileiro de Segurança Pública 2026",
+      "url": "https://forumseguranca.org.br/anuario-brasileiro-seguranca-publica/",
+      "acesso_em": "2026-10-21",
+      "tier": "academico",
+      "acessada_na_rodada_2": true
     }
   ],
   "base_legal": [],
@@ -67,5 +85,11 @@
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
-  "atualizado_em": "2026-10-21"
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ]
 }

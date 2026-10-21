@@ -4,9 +4,13 @@
   "evento_id": "debate-band-2turno-2026-10-18",
   "candidato": "flavio-bolsonaro",
   "lado": "oposicao-flavio-pl",
-  "minuto": null,
+  "minuto": "≈114 min após a abertura; stream 06:08:3x (≈22h09)",
+  "url_trecho": "https://www.youtube.com/watch?v=Gqc1rQtzWUk&t=22115s",
   "frase_literal": "[Lula] gastou mais 350 bilhões já para tentar se reeleger.",
   "literal": true,
+  "variantes_literais": [
+    "Considerações finais (legenda automática): 'gastou mais 350 bilhões já para tentar se reeleger'."
+  ],
   "tema": "contas-publicas",
   "veredito": "exagerado",
   "resumo_uma_frase": "O Gastômetro do Estadão soma R$ 354 bilhões em medidas, dos quais R$ 55 bilhões são renúncias; não há prova de finalidade eleitoral.",
@@ -35,6 +39,7 @@
       }
     }
   ],
+  "fontes_primarias": [],
   "base_legal": [],
   "checagens_externas": [
     {
@@ -67,5 +72,15 @@
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
-  "atualizado_em": "2026-10-21"
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "rodada 2: minutagem, link com timestamp e/ou literal conferido na legenda automática da live da Band"
+    }
+  ]
 }

@@ -4,14 +4,18 @@
   "evento_id": "debate-band-2turno-2026-10-18",
   "candidato": "lula",
   "lado": "governo-lula-pt",
-  "minuto": null,
-  "frase_literal": "Bolsonaro mentia 11 vezes por dia.",
-  "literal": false,
+  "minuto": "≈23 min após a abertura; stream 04:38:1x (≈20h38)",
+  "url_trecho": "https://www.youtube.com/watch?v=Gqc1rQtzWUk&t=16695s",
+  "frase_literal": "O pai dele mentia 11 vezes por dia. Ele tá batendo record.",
+  "literal": true,
+  "variantes_literais": [
+    "Paráfrase anterior: 'Bolsonaro mentia 11 vezes por dia'; literal recuperado da legenda automática na rodada 2."
+  ],
   "tema": "eleicao-2026",
   "veredito": "exagerado",
   "resumo_uma_frase": "A média do Aos Fatos no mandato foi 4,58 declarações falsas por dia; a Artigo 19 contou 1.682 em 2020.",
   "explicacao_simples": [
-    "Lula, no debate da Band (18/10/2026), afirmou (em paráfrase registrada por Ranking dos Políticos) que bolsonaro mentia 11 vezes por dia.",
+    "Lula, no debate da Band (18/10/2026), disse: “O pai dele mentia 11 vezes por dia. Ele tá batendo record”.",
     "Ranking: falso; Estadão: exagerado (Aos Fatos: 4,58/dia; Artigo 19: 1.682 em 2020).",
     "O sentido geral tem base, mas o número ou a dimensão foram inflados; por isso a classificação é 'exagerado'."
   ],
@@ -35,6 +39,7 @@
       }
     }
   ],
+  "fontes_primarias": [],
   "base_legal": [],
   "checagens_externas": [
     {
@@ -67,5 +72,15 @@
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
-  "atualizado_em": "2026-10-21"
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "rodada 2: minutagem, link com timestamp e/ou literal conferido na legenda automática da live da Band"
+    }
+  ]
 }

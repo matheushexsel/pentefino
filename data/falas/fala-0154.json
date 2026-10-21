@@ -5,8 +5,10 @@
   "candidato": "lula",
   "lado": "governo-lula-pt",
   "minuto": null,
+  "url_trecho": null,
   "frase_literal": "E aprovamos 99% de tudo que a gente queria aprovar, Renata.",
   "literal": true,
+  "variantes_literais": [],
   "tema": "eleicao-2026",
   "veredito": "exagerado",
   "resumo_uma_frase": "O Senado rejeitou Jorge Messias para o STF (primeira vez desde 1894), vetos foram derrubados e só 38 de 192 MPs viraram lei (~23%).",
@@ -32,7 +34,30 @@
         "url": "https://www.aosfatos.org/noticias/checamos-lula-globo-segundo-turno/",
         "acesso_em": "2026-10-21",
         "tier": "checagem"
+      },
+      "fonte_primaria": {
+        "nome": "Câmara dos Deputados — Dados Abertos",
+        "url": "https://dadosabertos.camara.leg.br/",
+        "acesso_em": null,
+        "tier": "oficial",
+        "acessada_na_rodada_2": false
       }
+    }
+  ],
+  "fontes_primarias": [
+    {
+      "nome": "Câmara dos Deputados — Dados Abertos",
+      "url": "https://dadosabertos.camara.leg.br/",
+      "acesso_em": null,
+      "tier": "oficial",
+      "acessada_na_rodada_2": false
+    },
+    {
+      "nome": "Senado Federal — Dados Abertos",
+      "url": "https://www12.senado.leg.br/dados-abertos",
+      "acesso_em": null,
+      "tier": "oficial",
+      "acessada_na_rodada_2": false
     }
   ],
   "base_legal": [],
@@ -67,5 +92,11 @@
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
-  "atualizado_em": "2026-10-21"
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ]
 }

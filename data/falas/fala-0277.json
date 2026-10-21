@@ -5,8 +5,10 @@
   "candidato": "lula",
   "lado": "governo-lula-pt",
   "minuto": null,
+  "url_trecho": null,
   "frase_literal": "Fui o primeiro presidente a obter dois graus de investimento (2007–2010).",
   "literal": false,
+  "variantes_literais": [],
   "tema": "economia",
   "veredito": "verdadeiro",
   "resumo_uma_frase": "O Brasil recebeu grau de investimento da Fitch e da S&P em 2008 e da Moody's em 2009.",
@@ -20,6 +22,7 @@
   ],
   "o_que_nao_se_sustenta": [],
   "numeros": [],
+  "fontes_primarias": [],
   "base_legal": [],
   "checagens_externas": [
     {
@@ -52,5 +55,11 @@
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
-  "atualizado_em": "2026-10-21"
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ]
 }

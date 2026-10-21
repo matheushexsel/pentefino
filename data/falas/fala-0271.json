@@ -4,15 +4,19 @@
   "evento_id": "debate-band-2turno-2026-10-18",
   "candidato": "flavio-bolsonaro",
   "lado": "oposicao-flavio-pl",
-  "minuto": null,
-  "frase_literal": "Maduro está preso e Lula mandou o vice à posse do ditador do Irã.",
-  "literal": false,
+  "minuto": "≈43 min após a abertura; stream 04:57:5x (≈20h58)",
+  "url_trecho": "https://www.youtube.com/watch?v=Gqc1rQtzWUk&t=17875s",
+  "frase_literal": "E o seu amigo que é o Ortega da Nicarágua, um ditador, você sabe o que é o Maduro, que tá preso? […] Você mandou seu vice-presidente para visitar a posse do ditador do Irã.",
+  "literal": true,
+  "variantes_literais": [
+    "Paráfrase anterior (Ranking): 'Maduro está preso e Lula mandou o vice à posse do ditador do Irã'."
+  ],
   "tema": "relacoes-exteriores",
   "veredito": "verdadeiro",
   "resumo_uma_frase": "Maduro foi capturado pelos EUA em janeiro de 2026 e Alckmin representou o Brasil na posse iraniana de 2024.",
   "explicacao_simples": [
-    "Flávio Bolsonaro, no debate da Band (18/10/2026), afirmou (em paráfrase registrada por Ranking dos Políticos) que maduro está preso e Lula mandou o vice à posse do ditador do Irã.",
-    "Ranking: verdadeiro (Maduro capturado em jan/2026; Alckmin na posse iraniana de 2024).",
+    "Flávio Bolsonaro, no debate da Band (18/10/2026), disse: “E o seu amigo que é o Ortega da Nicarágua, um ditador, você sabe o que é o Maduro, que tá preso? […] Você mandou seu vice-presidente para visitar a posse do ditador do Irã”.",
+    "Ranking: verdadeiro (Maduro capturado em jan/2026; Alckmin na posse iraniana de 2024). Literal pela legenda automática (04:57:5x ≈20h58).",
     "Os dados disponíveis confirmam a afirmação, por isso ela é classificada como verdadeira."
   ],
   "o_que_e_verdade": [
@@ -20,6 +24,7 @@
   ],
   "o_que_nao_se_sustenta": [],
   "numeros": [],
+  "fontes_primarias": [],
   "base_legal": [],
   "checagens_externas": [
     {
@@ -40,5 +45,15 @@
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
-  "atualizado_em": "2026-10-21"
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "rodada 2: minutagem, link com timestamp e/ou literal conferido na legenda automática da live da Band"
+    }
+  ]
 }

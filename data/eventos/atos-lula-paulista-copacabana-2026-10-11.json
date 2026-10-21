@@ -13,7 +13,8 @@
   "placar": {
     "lula": {
       "checadas": 0,
-      "por_veredito": {}
+      "por_veredito": {},
+      "criterio": "contagem dos arquivos de data/falas/ deste evento (frases únicas; opiniões em linha própria e fora de 'checadas'; falas de aliados não incluídas)"
     }
   },
   "falas": [],
@@ -38,5 +39,15 @@
   "nao_verificado": true,
   "lacunas": [
     "Nenhuma agência checou falas de Lula nesses atos."
+  ],
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "rodada 2: placar recontado a partir dos arquivos de falas; lacunas e fontes atualizadas"
+    }
   ]
 }

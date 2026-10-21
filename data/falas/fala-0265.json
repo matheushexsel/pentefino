@@ -4,15 +4,19 @@
   "evento_id": "debate-band-2turno-2026-10-18",
   "candidato": "flavio-bolsonaro",
   "lado": "oposicao-flavio-pl",
-  "minuto": null,
-  "frase_literal": "Lula já foi condenado várias vezes pelo TSE por fake news.",
-  "literal": false,
+  "minuto": "≈43 min após a abertura; stream 04:57:4x (≈20h58)",
+  "url_trecho": "https://www.youtube.com/watch?v=Gqc1rQtzWUk&t=17865s",
+  "frase_literal": "[Lula] é o recordista de mentira também, porque já foi condenado várias vezes pelo TSE por fake news. Já foi obrigado a tirar um monte de propaganda do ar porque tá mentindo contra mim.",
+  "literal": true,
+  "variantes_literais": [
+    "Paráfrase anterior (Ranking): 'Lula já foi condenado várias vezes pelo TSE por fake news'."
+  ],
   "tema": "eleicao-2026",
   "veredito": "exagerado",
   "resumo_uma_frase": "Houve decisão do TSE contra peça da campanha de Lula; 'várias condenações' não se sustenta, e o TSE também mandou remover posts de Flávio.",
   "explicacao_simples": [
-    "Flávio Bolsonaro, no debate da Band (18/10/2026), afirmou (em paráfrase registrada por Ranking dos Políticos) que lula já foi condenado várias vezes pelo TSE por fake news.",
-    "Ranking: impreciso.",
+    "Flávio Bolsonaro, no debate da Band (18/10/2026), disse: “[Lula] é o recordista de mentira também, porque já foi condenado várias vezes pelo TSE por fake news. Já foi obrigado a tirar um monte de propaganda do ar porque tá mentindo contra mim”.",
+    "Ranking: impreciso. Literal pela legenda automática (04:57:4x ≈20h58).",
     "O sentido geral tem base, mas o número ou a dimensão foram inflados; por isso a classificação é 'exagerado'."
   ],
   "o_que_e_verdade": [
@@ -22,6 +26,7 @@
     "Não há 'várias condenações'."
   ],
   "numeros": [],
+  "fontes_primarias": [],
   "base_legal": [],
   "checagens_externas": [
     {
@@ -42,5 +47,15 @@
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
-  "atualizado_em": "2026-10-21"
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "rodada 2: minutagem, link com timestamp e/ou literal conferido na legenda automática da live da Band"
+    }
+  ]
 }

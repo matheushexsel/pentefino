@@ -5,8 +5,10 @@
   "candidato": "flavio-bolsonaro",
   "lado": "oposicao-flavio-pl",
   "minuto": null,
+  "url_trecho": null,
   "frase_literal": "Hoje a dívida do Brasil tá em 11 trilhões de reais.",
   "literal": true,
+  "variantes_literais": [],
   "tema": "contas-publicas",
   "veredito": "verdadeiro",
   "resumo_uma_frase": "A dívida bruta do governo geral era de R$ 11,1 trilhões (82,9% do PIB) em agosto de 2026.",
@@ -34,6 +36,13 @@
       "comparacao": {
         "rotulo": "dez/2022",
         "valor": 7.2
+      },
+      "fonte_primaria": {
+        "nome": "BCB — SGS 13762 (DBGG, % PIB; ago/2026 = 82,87)",
+        "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.13762/dados/ultimos/3?formato=json",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial",
+        "acessada_na_rodada_2": true
       }
     },
     {
@@ -50,7 +59,30 @@
       "comparacao": {
         "rotulo": "dez/2022",
         "valor": 73.5
+      },
+      "fonte_primaria": {
+        "nome": "BCB — SGS 13762 (DBGG, % PIB; ago/2026 = 82,87)",
+        "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.13762/dados/ultimos/3?formato=json",
+        "acesso_em": "2026-10-21",
+        "tier": "oficial",
+        "acessada_na_rodada_2": true
       }
+    }
+  ],
+  "fontes_primarias": [
+    {
+      "nome": "BCB — SGS 13762 (DBGG, % PIB; ago/2026 = 82,87)",
+      "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.13762/dados/ultimos/3?formato=json",
+      "acesso_em": "2026-10-21",
+      "tier": "oficial",
+      "acessada_na_rodada_2": true
+    },
+    {
+      "nome": "BCB — Estatísticas fiscais, tabelas especiais (NFSP anual; DBGG em R$)",
+      "url": "https://www.bcb.gov.br/estatisticas/tabelasespeciais",
+      "acesso_em": null,
+      "tier": "oficial",
+      "acessada_na_rodada_2": false
     }
   ],
   "base_legal": [],
@@ -97,5 +129,11 @@
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
-  "atualizado_em": "2026-10-21"
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ]
 }

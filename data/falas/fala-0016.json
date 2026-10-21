@@ -5,8 +5,10 @@
   "candidato": "lula",
   "lado": "governo-lula-pt",
   "minuto": null,
+  "url_trecho": null,
   "frase_literal": "Nós já devolvemos 3 bilhões e meio [a 5 milhões de aposentados].",
   "literal": false,
+  "variantes_literais": [],
   "tema": "corrupcao",
   "veredito": "verdadeiro-mas",
   "resumo_uma_frase": "O valor devolvido era de cerca de R$ 3,26 a 3,5 bilhões, a 4,8–5 milhões de pessoas, dependendo da data e da fonte.",
@@ -35,6 +37,7 @@
       }
     }
   ],
+  "fontes_primarias": [],
   "base_legal": [],
   "checagens_externas": [
     {
@@ -79,5 +82,11 @@
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
-  "atualizado_em": "2026-10-21"
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ]
 }

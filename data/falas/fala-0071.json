@@ -5,8 +5,10 @@
   "candidato": "lula",
   "lado": "governo-lula-pt",
   "minuto": null,
+  "url_trecho": null,
   "frase_literal": "Andrei Rodrigues tem mais de 30 anos de carreira e minha total confiança.",
   "literal": false,
+  "variantes_literais": [],
   "tema": "justica-stf",
   "veredito": "falso",
   "resumo_uma_frase": "Andrei Rodrigues ingressou na PF em 2002 (menos de 25 anos) e havia sido afastado pelo STF naquela mesma semana, o que a frase omite.",
@@ -21,6 +23,7 @@
     "Omissão do afastamento pelo STF na mesma semana."
   ],
   "numeros": [],
+  "fontes_primarias": [],
   "base_legal": [],
   "checagens_externas": [
     {
@@ -41,5 +44,11 @@
     }
   ],
   "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/14_falas_debates_sabatinas_entrevistas_2026.md",
-  "atualizado_em": "2026-10-21"
+  "atualizado_em": "2026-10-21",
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    }
+  ]
 }

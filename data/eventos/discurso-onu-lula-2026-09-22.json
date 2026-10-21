@@ -16,18 +16,9 @@
       "por_veredito": {
         "verdadeiro": 3,
         "verdadeiro-mas": 4,
-        "impreciso": 0,
-        "exagerado": 0,
-        "falta-contexto": 0,
-        "insustentavel": 0,
-        "falso": 0,
         "opiniao": 1
       },
-      "contagem_arquivos": {
-        "verdadeiro": 3,
-        "verdadeiro-mas": 4,
-        "opiniao": 1
-      }
+      "criterio": "contagem dos arquivos de data/falas/ deste evento (frases únicas; opiniões em linha própria e fora de 'checadas'; falas de aliados não incluídas)"
     }
   },
   "falas": [
@@ -61,5 +52,15 @@
   "lacunas": [
     "Sem rótulos da agência; itens não checados: 'maior operação contra o crime organizado da história', 'novo recorde de exportações'.",
     "A nota agrupa as falas sobre IA, big techs e bets (itens 6–8) com veredito conjunto 'opiniao/verdadeiro-mas', sem atribuição individual; a distribuição aqui (IA = opinião; big techs e bets = verdadeiro-mas) é escolha editorial marcada como não verificada."
+  ],
+  "changelog": [
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "publicação"
+    },
+    {
+      "data": "2026-10-21",
+      "o_que_mudou": "rodada 2: placar recontado a partir dos arquivos de falas; lacunas e fontes atualizadas"
+    }
   ]
 }
