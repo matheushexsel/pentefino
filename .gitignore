@@ -1,3 +1,5 @@
 node_modules/
 .DS_Store
 *.log
+# Arquivos locais que nao vao para o GitHub (prompts de ferramentas etc.)
+local/
