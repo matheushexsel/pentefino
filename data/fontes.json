@@ -18,10 +18,28 @@
     "ocorrencias": 684
   },
   {
+    "nome": "Planalto – Lei 15.235/2025",
+    "dominio": "planalto.gov.br",
+    "tier": "oficial",
+    "ocorrencias": 498
+  },
+  {
     "nome": "Ranking dos Políticos",
     "dominio": "ranking.org.br",
     "tier": "checagem",
     "ocorrencias": 466
+  },
+  {
+    "nome": "ANEEL – Bandeiras tarifárias",
+    "dominio": "gov.br",
+    "tier": "oficial",
+    "ocorrencias": 432
+  },
+  {
+    "nome": "Banco Central do Brasil – SGS 29037 (endividamento das famílias, % renda)",
+    "dominio": "api.bcb.gov.br",
+    "tier": "oficial",
+    "ocorrencias": 377
   },
   {
     "nome": "Anuário Brasileiro de Segurança Pública 2026 (FBSP, PDF)",
@@ -36,28 +54,28 @@
     "ocorrencias": 311
   },
   {
-    "nome": "Planalto – Lei 15.235/2025",
-    "dominio": "planalto.gov.br",
-    "tier": "oficial",
-    "ocorrencias": 225
-  },
-  {
-    "nome": "Banco Central do Brasil – SGS 29037 (endividamento das famílias, % renda)",
-    "dominio": "api.bcb.gov.br",
-    "tier": "oficial",
-    "ocorrencias": 198
-  },
-  {
     "nome": "Agência Brasil – Brasil continua fora do Mapa da Fome, aponta relatório da ONU (22/07/2026)",
     "dominio": "agenciabrasil.ebc.com.br",
     "tier": "imprensa",
-    "ocorrencias": 195
+    "ocorrencias": 269
   },
   {
-    "nome": "ANEEL – Bandeiras tarifárias",
-    "dominio": "gov.br",
+    "nome": "Senado Notícias – Dívidas em recorde assombram as famílias brasileiras (mai/2026)",
+    "dominio": "www12.senado.leg.br",
     "tier": "oficial",
-    "ocorrencias": 185
+    "ocorrencias": 226
+  },
+  {
+    "nome": "TSE, dados abertos, detalhe da votação por município e zona 2026 (gerado 21/10/2026)",
+    "dominio": "cdn.tse.jus.br",
+    "tier": "oficial",
+    "ocorrencias": 213
+  },
+  {
+    "nome": "Senado — relatório final da CPI da Pandemia (PDF, 26/10/2021)",
+    "dominio": "legis.senado.leg.br",
+    "tier": "oficial",
+    "ocorrencias": 172
   },
   {
     "nome": "CNN Brasil – CNC: endividamento das famílias atinge novo recorde e chega a 80,4% (07/04/2026)",
@@ -66,22 +84,22 @@
     "ocorrencias": 165
   },
   {
-    "nome": "Senado Notícias – Dívidas em recorde assombram as famílias brasileiras (mai/2026)",
-    "dominio": "www12.senado.leg.br",
-    "tier": "oficial",
-    "ocorrencias": 163
-  },
-  {
     "nome": "Congresso em Foco (AP 2737, Ramagem)",
     "dominio": "congressoemfoco.com.br",
     "tier": "imprensa",
     "ocorrencias": 161
   },
   {
-    "nome": "TSE, dados abertos, detalhe da votação por município e zona 2026 (gerado 21/10/2026)",
-    "dominio": "cdn.tse.jus.br",
+    "nome": "IBGE – SIDRA tabela 9751 (PNAD Contínua – Segurança Alimentar, moradores)",
+    "dominio": "apisidra.ibge.gov.br",
     "tier": "oficial",
-    "ocorrencias": 155
+    "ocorrencias": 158
+  },
+  {
+    "nome": "STF Notícias, 16/12/2025 (balanço da 1ª Turma)",
+    "dominio": "noticias.stf.jus.br",
+    "tier": "oficial",
+    "ocorrencias": 138
   },
   {
     "nome": "O Povo – Bandeira tarifária: datas e valores (13/01/2022)",
@@ -90,21 +108,9 @@
     "ocorrencias": 135
   },
   {
-    "nome": "STF Notícias, 16/12/2025 (balanço da 1ª Turma)",
-    "dominio": "noticias.stf.jus.br",
-    "tier": "oficial",
-    "ocorrencias": 115
-  },
-  {
     "nome": "Gazeta do Povo, 11/04/2026 (votos nas seções penais em 2022)",
     "dominio": "gazetadopovo.com.br",
     "tier": "imprensa",
-    "ocorrencias": 108
-  },
-  {
-    "nome": "Senado — relatório final da CPI da Pandemia (PDF, 26/10/2021)",
-    "dominio": "legis.senado.leg.br",
-    "tier": "oficial",
     "ocorrencias": 108
   },
   {
@@ -136,6 +142,18 @@
     "dominio": "conjur.com.br",
     "tier": "imprensa",
     "ocorrencias": 87
+  },
+  {
+    "nome": "Ipeadata – FAM_PBF, famílias beneficiárias do Bolsa Família em dezembro (MDS/Portal da Transparência)",
+    "dominio": "ipeadata.gov.br",
+    "tier": "oficial",
+    "ocorrencias": 86
+  },
+  {
+    "nome": "Câmara dos Deputados – votação 2270789-73 (19/05/2021, 313 x 166)",
+    "dominio": "dadosabertos.camara.leg.br",
+    "tier": "oficial",
+    "ocorrencias": 86
   },
   {
     "nome": "Wikipedia (en): Trial for the 2022-2023 Brazilian coup plot",
@@ -174,22 +192,16 @@
     "ocorrencias": 74
   },
   {
-    "nome": "IBGE – SIDRA tabela 9751 (PNAD Contínua – Segurança Alimentar, moradores)",
-    "dominio": "apisidra.ibge.gov.br",
-    "tier": "oficial",
-    "ocorrencias": 72
-  },
-  {
     "nome": "Jornal de Brasília/Folhapress, 26/06/2020 (parte da academia diz que Bolsonaro é fascista)",
     "dominio": "jornaldebrasilia.com.br",
     "tier": "imprensa",
     "ocorrencias": 71
   },
   {
-    "nome": "Ipeadata – FAM_PBF, famílias beneficiárias do Bolsa Família em dezembro (MDS/Portal da Transparência)",
-    "dominio": "ipeadata.gov.br",
+    "nome": "STF, AP 2668 — aba Decisões",
+    "dominio": "portal.stf.jus.br",
     "tier": "oficial",
-    "ocorrencias": 69
+    "ocorrencias": 66
   },
   {
     "nome": "Mercado&Consumo, 04/09/2025 (veto do BC)",
@@ -234,12 +246,6 @@
     "ocorrencias": 57
   },
   {
-    "nome": "Câmara dos Deputados – votação 2270789-73 (19/05/2021, 313 x 166)",
-    "dominio": "dadosabertos.camara.leg.br",
-    "tier": "oficial",
-    "ocorrencias": 55
-  },
-  {
     "nome": "Agência iNFRA – ANEEL aprova reajuste de 10,18% nas tarifas da Enel SP (30/06/2026)",
     "dominio": "agenciainfra.com",
     "tier": "imprensa",
@@ -252,15 +258,39 @@
     "ocorrencias": 50
   },
   {
+    "nome": "BCB – Pix Dados Abertos, EstatisticasTransacoesPix (API Olinda)",
+    "dominio": "olinda.bcb.gov.br",
+    "tier": "oficial",
+    "ocorrencias": 50
+  },
+  {
     "nome": "Exame, 20/10/2026 (debate da Globo: regras)",
     "dominio": "exame.com",
     "tier": "imprensa",
     "ocorrencias": 49
   },
   {
+    "nome": "BCB – Histórico de metas para a inflação (conteúdo oficial via API do site)",
+    "dominio": "bcb.gov.br",
+    "tier": "oficial",
+    "ocorrencias": 48
+  },
+  {
+    "nome": "Band Jornalismo (YouTube, live integral do debate de 18/10/2026; legenda automática)",
+    "dominio": "youtube.com",
+    "tier": "imprensa",
+    "ocorrencias": 47
+  },
+  {
     "nome": "Gazeta do Paraná, 07/10/2026 (principais fake news do 2º turno)",
     "dominio": "gazetadoparana.com.br",
     "tier": "imprensa",
+    "ocorrencias": 47
+  },
+  {
+    "nome": "Tesouro Nacional – Carga Tributária do Governo Geral 2025 (10/04/2026)",
+    "dominio": "tesourotransparente.gov.br",
+    "tier": "oficial",
     "ocorrencias": 47
   },
   {
@@ -290,6 +320,12 @@
   {
     "nome": "IBGE – PNAD Contínua: Rendimento de todas as fontes 2025, Informativo (PDF, 08/05/2026)",
     "dominio": "biblioteca.ibge.gov.br",
+    "tier": "oficial",
+    "ocorrencias": 43
+  },
+  {
+    "nome": "Agência Câmara – MP da reforma do setor elétrico, 22/05/2025",
+    "dominio": "camara.leg.br",
     "tier": "oficial",
     "ocorrencias": 43
   },
@@ -342,18 +378,6 @@
     "ocorrencias": 40
   },
   {
-    "nome": "STF, AP 2668 — aba Decisões",
-    "dominio": "portal.stf.jus.br",
-    "tier": "oficial",
-    "ocorrencias": 39
-  },
-  {
-    "nome": "BCB – Histórico de metas para a inflação (conteúdo oficial via API do site)",
-    "dominio": "bcb.gov.br",
-    "tier": "oficial",
-    "ocorrencias": 39
-  },
-  {
     "nome": "Migalhas, 23/02/2021 (STJ anula quebra de sigilo)",
     "dominio": "migalhas.com.br",
     "tier": "imprensa",
@@ -390,22 +414,34 @@
     "ocorrencias": 34
   },
   {
+    "nome": "Nota 11 deste projeto (seção 6)",
+    "dominio": "github.com",
+    "tier": "academico",
+    "ocorrencias": 33
+  },
+  {
     "nome": "FMI – DataMapper PCPIPCH (inflação média anual)",
     "dominio": "imf.org",
     "tier": "multilateral",
     "ocorrencias": 32
   },
   {
-    "nome": "Band Jornalismo (YouTube, live integral do debate de 18/10/2026; legenda automática)",
-    "dominio": "youtube.com",
-    "tier": "imprensa",
+    "nome": "MPF/PGR, 16/06/2026 (STF condena Eduardo Bolsonaro)",
+    "dominio": "mpf.mp.br",
+    "tier": "oficial",
     "ocorrencias": 31
   },
   {
-    "nome": "Nota 11 deste projeto (seção 6)",
-    "dominio": "github.com",
-    "tier": "academico",
-    "ocorrencias": 31
+    "nome": "TCU – Auxílio Emergencial pode chegar a meio trilhão até dezembro (17/07/2020)",
+    "dominio": "portal.tcu.gov.br",
+    "tier": "oficial",
+    "ocorrencias": 30
+  },
+  {
+    "nome": "IBGE – Síntese de Indicadores Sociais 2025, Tabelas de distribuição de renda (xls, FTP)",
+    "dominio": "ftp.ibge.gov.br",
+    "tier": "oficial",
+    "ocorrencias": 30
   },
   {
     "nome": "Folha PE – Fake news sobre Pix alcançou 87% dos brasileiros, aponta pesquisa (Quaest, jan/2025)",
@@ -414,8 +450,8 @@
     "ocorrencias": 30
   },
   {
-    "nome": "MPF/PGR, 16/06/2026 (STF condena Eduardo Bolsonaro)",
-    "dominio": "mpf.mp.br",
+    "nome": "Atlas da Violência 2019 (Ipea/FBSP, PDF)",
+    "dominio": "ipea.gov.br",
     "tier": "oficial",
     "ocorrencias": 29
   },
@@ -426,8 +462,8 @@
     "ocorrencias": 28
   },
   {
-    "nome": "BCB – Pix Dados Abertos, EstatisticasTransacoesPix (API Olinda)",
-    "dominio": "olinda.bcb.gov.br",
+    "nome": "Agência Gov/MDS – Pagamento do Bolsa Família de agosto começa nesta terça-feira (18/08/2026)",
+    "dominio": "agenciagov.ebc.com.br",
     "tier": "oficial",
     "ocorrencias": 27
   },
@@ -436,6 +472,12 @@
     "dominio": "v-dem.net",
     "tier": "academico",
     "ocorrencias": 27
+  },
+  {
+    "nome": "DATASUS/SIM — óbitos por agressões, 2003–2011 (TabNet)",
+    "dominio": "tabnet.datasus.gov.br",
+    "tier": "oficial",
+    "ocorrencias": 26
   },
   {
     "nome": "Bora Investir/B3 (Will Bank e Pleno)",
@@ -448,18 +490,6 @@
     "dominio": "dgabc.com.br",
     "tier": "imprensa",
     "ocorrencias": 26
-  },
-  {
-    "nome": "Tesouro Nacional – Carga Tributária do Governo Geral 2025 (10/04/2026)",
-    "dominio": "tesourotransparente.gov.br",
-    "tier": "oficial",
-    "ocorrencias": 26
-  },
-  {
-    "nome": "Atlas da Violência 2019 (Ipea/FBSP, PDF)",
-    "dominio": "ipea.gov.br",
-    "tier": "oficial",
-    "ocorrencias": 25
   },
   {
     "nome": "A Gazeta/Folha – Lula sanciona lei do fim da taxa das blusinhas a 24 dias da eleição (10/09/2026)",
@@ -495,12 +525,6 @@
     "nome": "O Povo, 21/05/2026 (PF recusa 1ª delação)",
     "dominio": "mais.opovo.com.br",
     "tier": "imprensa",
-    "ocorrencias": 23
-  },
-  {
-    "nome": "Agência Gov/MDS – Pagamento do Bolsa Família de agosto começa nesta terça-feira (18/08/2026)",
-    "dominio": "agenciagov.ebc.com.br",
-    "tier": "oficial",
     "ocorrencias": 23
   },
   {
@@ -540,21 +564,27 @@
     "ocorrencias": 22
   },
   {
+    "nome": "Portal da Transparência/CGU, download em massa 'Emendas parlamentares' (arquivo gerado em 09/10/2026)",
+    "dominio": "portaldatransparencia.gov.br",
+    "tier": "oficial",
+    "ocorrencias": 22
+  },
+  {
     "nome": "Aos Fatos (documento hospedado)",
     "dominio": "static.aosfatos.org",
     "tier": "checagem",
     "ocorrencias": 22
   },
   {
+    "nome": "MDIC/Secex – Comex Stat, API 'general' (exportações FOB US$ e kg; dados atualizados em 06/10/2026 até set/2026)",
+    "dominio": "api-comexstat.mdic.gov.br",
+    "tier": "oficial-federal",
+    "ocorrencias": 22
+  },
+  {
     "nome": "Serasa – Mapa da Inadimplência",
     "dominio": "serasa.com.br",
     "tier": "imprensa",
-    "ocorrencias": 21
-  },
-  {
-    "nome": "IBGE – Síntese de Indicadores Sociais 2025, Tabelas de distribuição de renda (xls, FTP)",
-    "dominio": "ftp.ibge.gov.br",
-    "tier": "oficial",
     "ocorrencias": 21
   },
   {
@@ -582,6 +612,24 @@
     "ocorrencias": 20
   },
   {
+    "nome": "TSE, página reformulada (ago/2026)",
+    "dominio": "tse.jus.br",
+    "tier": "oficial",
+    "ocorrencias": 20
+  },
+  {
+    "nome": "Governo do Estado de SP (Agência SP) — 'Grupo Mota-Engil vence leilão PPP do Túnel Santos–Guarujá' (05/09/2025)",
+    "dominio": "agenciasp.sp.gov.br",
+    "tier": "oficial-estadual/municipal",
+    "ocorrencias": 20
+  },
+  {
+    "nome": "OMS — WHO COVID-19 dashboard, global table data (CSV, acesso 21/10/2026)",
+    "dominio": "srhdpeuwpubsa.blob.core.windows.net",
+    "tier": "multilateral",
+    "ocorrencias": 19
+  },
+  {
     "nome": "Portal de Prefeitura – Vídeo de Nikolas sobre Pix chega a 285 mi de visualizações (16/01/2025)",
     "dominio": "portaldeprefeitura.com.br",
     "tier": "imprensa",
@@ -600,9 +648,27 @@
     "ocorrencias": 17
   },
   {
+    "nome": "Fundo Amazônia/BNDES — Doações (dados até 30/09/2026)",
+    "dominio": "fundoamazonia.gov.br",
+    "tier": "oficial",
+    "ocorrencias": 17
+  },
+  {
+    "nome": "Câmara dos Deputados — Consultoria de Orçamento, NT 36/2024",
+    "dominio": "www2.camara.leg.br",
+    "tier": "oficial",
+    "ocorrencias": 17
+  },
+  {
     "nome": "Acessa.com, jan/2026: Operação Overclean, que mira deputado, já achou dinheiro em gaveta e jogado da janela",
     "dominio": "acessa.com",
     "tier": "imprensa",
+    "ocorrencias": 17
+  },
+  {
+    "nome": "TCU — Painel de Obras Paralisadas (Power BI público; consulta direta ao modelo de dados, última atualização 05/08/2026; extrações ago/2022, abr/2023, abr/2024, abr/2025 e abr/2026)",
+    "dominio": "paineis.tcu.gov.br",
+    "tier": "oficial-legislativo",
     "ocorrencias": 17
   },
   {
@@ -610,6 +676,24 @@
     "dominio": "latinobarometro.org",
     "tier": "academico",
     "ocorrencias": 16
+  },
+  {
+    "nome": "TRF4 — \"TRF4 confirma condenação do ex-presidente Lula\" (Sítio de Atibaia, 27/11/2019)",
+    "dominio": "trf4.jus.br",
+    "tier": "oficial-judiciario",
+    "ocorrencias": 16
+  },
+  {
+    "nome": "Tesouro Nacional – planilha 'Base CTB GG.xlsx' (Carga Tributária do Governo Geral, Tabela 1)",
+    "dominio": "thot-arquivos.tesouro.gov.br",
+    "tier": "oficial",
+    "ocorrencias": 15
+  },
+  {
+    "nome": "OCDE/CEPAL/BID/CIAT, Revenue Statistics in Latin America and the Caribbean 2026 (brochura, PDF)",
+    "dominio": "oecd.org",
+    "tier": "multilateral",
+    "ocorrencias": 15
   },
   {
     "nome": "Portal Tela (plano de governo de Flávio)",
@@ -633,12 +717,6 @@
     "nome": "GlobalPetrolPrices – Gasoline prices (12/10/2026)",
     "dominio": "globalpetrolprices.com",
     "tier": "imprensa",
-    "ocorrencias": 14
-  },
-  {
-    "nome": "TSE, página reformulada (ago/2026)",
-    "dominio": "tse.jus.br",
-    "tier": "oficial",
     "ocorrencias": 14
   },
   {
@@ -684,12 +762,6 @@
     "ocorrencias": 13
   },
   {
-    "nome": "Fundo Amazônia/BNDES — Doações (dados até 30/09/2026)",
-    "dominio": "fundoamazonia.gov.br",
-    "tier": "oficial",
-    "ocorrencias": 13
-  },
-  {
     "nome": "Mais Goiás (casos em que Flávio entrou na mira)",
     "dominio": "maisgoias.com.br",
     "tier": "imprensa",
@@ -705,6 +777,18 @@
     "nome": "Axia Energia RI – Composição acionária (posição set/2026)",
     "dominio": "ri.axia.com.br",
     "tier": "oficial",
+    "ocorrencias": 13
+  },
+  {
+    "nome": "Congresso Nacional – tramitação da MPV 1288/2025",
+    "dominio": "congressonacional.leg.br",
+    "tier": "oficial",
+    "ocorrencias": 13
+  },
+  {
+    "nome": "FAO/FAOSTAT — Suite of Food Security Indicators, arquivo completo (versão de 10/07/2026, base do SOFI 2026)",
+    "dominio": "bulks-faostat.fao.org",
+    "tier": "intergovernamental",
     "ocorrencias": 13
   },
   {
@@ -744,15 +828,21 @@
     "ocorrencias": 12
   },
   {
-    "nome": "Agência Câmara – MP da reforma do setor elétrico, 22/05/2025",
-    "dominio": "camara.leg.br",
-    "tier": "oficial",
-    "ocorrencias": 12
-  },
-  {
     "nome": "O Imparcial/Estadão Conteúdo, ago/2025",
     "dominio": "oimparcial.com.br",
     "tier": "imprensa",
+    "ocorrencias": 12
+  },
+  {
+    "nome": "INDEC (Argentina) — série histórica de pobreza e indigência, 2º sem. 2016 a 1º sem. 2026 (xls)",
+    "dominio": "indec.gob.ar",
+    "tier": "oficial-estrangeiro",
+    "ocorrencias": 12
+  },
+  {
+    "nome": "Registro primário do debate: clipe oficial do g1 FIKMIfvhAkA (legenda automática, nota 16 do projeto)",
+    "dominio": "youtu.be",
+    "tier": "registro-primario-do-debate",
     "ocorrencias": 12
   },
   {
@@ -762,21 +852,9 @@
     "ocorrencias": 11
   },
   {
-    "nome": "TCU – Auxílio Emergencial pode chegar a meio trilhão até dezembro (17/07/2020)",
-    "dominio": "portal.tcu.gov.br",
-    "tier": "oficial",
-    "ocorrencias": 11
-  },
-  {
     "nome": "Zanotti, Rama & Tanscheit, Opinião Pública 29(1), 2023",
     "dominio": "redalyc.org",
     "tier": "academico",
-    "ocorrencias": 11
-  },
-  {
-    "nome": "OMS — WHO COVID-19 dashboard, global table data (CSV, acesso 21/10/2026)",
-    "dominio": "srhdpeuwpubsa.blob.core.windows.net",
-    "tier": "multilateral",
     "ocorrencias": 11
   },
   {
@@ -798,12 +876,6 @@
     "ocorrencias": 11
   },
   {
-    "nome": "OCDE/CEPAL/BID/CIAT, Revenue Statistics in Latin America and the Caribbean 2026 (brochura, PDF)",
-    "dominio": "oecd.org",
-    "tier": "multilateral",
-    "ocorrencias": 11
-  },
-  {
     "nome": "Zucco & Power, Latin American Politics and Society (2024)",
     "dominio": "cambridge.org",
     "tier": "academico",
@@ -813,12 +885,6 @@
     "nome": "Diário do Pará, 18/09/2026",
     "dominio": "diariodopara.com.br",
     "tier": "imprensa",
-    "ocorrencias": 10
-  },
-  {
-    "nome": "DATASUS/SIM — óbitos por agressões, 2003–2011 (TabNet)",
-    "dominio": "tabnet.datasus.gov.br",
-    "tier": "oficial",
     "ocorrencias": 10
   },
   {
@@ -855,6 +921,18 @@
     "nome": "CUT (citando estudo/MP): Lava Jato causou prejuízos bilionários, diz estudo",
     "dominio": "cut.org.br",
     "tier": "imprensa",
+    "ocorrencias": 10
+  },
+  {
+    "nome": "Infra S.A. — página 'Obras' da FIOL (execução física da FIOL II)",
+    "dominio": "infrasa.gov.br",
+    "tier": "oficial-federal",
+    "ocorrencias": 10
+  },
+  {
+    "nome": "TCU — Acórdão 1622/2026-Plenário (TC 015.703/2025-8), auditoria do Programa Agora Tem Especialistas, sessão de 24/06/2026",
+    "dominio": "contas.tcu.gov.br",
+    "tier": "oficial-legislativo",
     "ocorrencias": 10
   },
   {
@@ -906,8 +984,8 @@
     "ocorrencias": 8
   },
   {
-    "nome": "Tesouro Nacional – planilha 'Base CTB GG.xlsx' (Carga Tributária do Governo Geral, Tabela 1)",
-    "dominio": "thot-arquivos.tesouro.gov.br",
+    "nome": "TSE DivulgaCand – programa de governo de Flávio Bolsonaro (documento 280017104726)",
+    "dominio": "divulgacandcontas.tse.jus.br",
     "tier": "oficial",
     "ocorrencias": 8
   },
@@ -948,6 +1026,18 @@
     "ocorrencias": 8
   },
   {
+    "nome": "Alerj — Moção nº 2650/2003, autor dep. Flávio Bolsonaro: louvor ao 1º Ten PM Adriano Magalhães da Nóbrega (24/10/2003)",
+    "dominio": "alerjln1.alerj.rj.gov.br",
+    "tier": "oficial-estadual/municipal",
+    "ocorrencias": 8
+  },
+  {
+    "nome": "Ministério da Saúde/DATASUS — SIGTAP, procedimento 03.01.01.007-2 (competências 12/2022 e 08/2026)",
+    "dominio": "sigtap.datasus.gov.br",
+    "tier": "oficial-federal",
+    "ocorrencias": 8
+  },
+  {
     "nome": "Contadores.cnt.br — reforma tributária autoriza cobrança de IPVA de aeronaves e embarcações (08/04/2026)",
     "dominio": "contadores.cnt.br",
     "tier": "imprensa",
@@ -972,12 +1062,6 @@
     "ocorrencias": 7
   },
   {
-    "nome": "Congresso Nacional – tramitação da MPV 1288/2025",
-    "dominio": "congressonacional.leg.br",
-    "tier": "oficial",
-    "ocorrencias": 7
-  },
-  {
     "nome": "AmdJus – Receita obtém R$ 5 bilhões com imposto sobre blusinhas (05/02/2026)",
     "dominio": "amdjus.com.br",
     "tier": "imprensa",
@@ -993,6 +1077,12 @@
     "nome": "PT – Da inflação à segurança, números mostram Brasil melhor com Lula (2026)",
     "dominio": "pt.org.br",
     "tier": "partidario",
+    "ocorrencias": 7
+  },
+  {
+    "nome": "IPEA – Boletim Mercado de Trabalho nº 54, tabela IV.1 (PME/IBGE)",
+    "dominio": "repositorio.ipea.gov.br",
+    "tier": "academico",
     "ocorrencias": 7
   },
   {
@@ -1044,6 +1134,18 @@
     "ocorrencias": 7
   },
   {
+    "nome": "Governo da Bahia — 'Marca histórica: Governo do Estado autoriza início das obras do novo VLT' (jun/2024; edital da Sedur/CTB, R$ 3,2 bi)",
+    "dominio": "ba.gov.br",
+    "tier": "oficial-estadual/municipal",
+    "ocorrencias": 7
+  },
+  {
+    "nome": "Senado – pronunciamento do senador/ministro Camilo Santana em 28/04/2026",
+    "dominio": "www25.senado.leg.br",
+    "tier": "oficial-legislativo",
+    "ocorrencias": 7
+  },
+  {
     "nome": "Notícias Agrícolas – STF homologa acordo de R$ 27 bi entre União e estados (06/06/2023)",
     "dominio": "noticiasagricolas.com.br",
     "tier": "imprensa",
@@ -1092,18 +1194,6 @@
     "ocorrencias": 6
   },
   {
-    "nome": "Portal da Transparência/CGU, download em massa 'Emendas parlamentares' (arquivo gerado em 09/10/2026)",
-    "dominio": "portaldatransparencia.gov.br",
-    "tier": "oficial",
-    "ocorrencias": 6
-  },
-  {
-    "nome": "Câmara dos Deputados — Consultoria de Orçamento, NT 36/2024",
-    "dominio": "www2.camara.leg.br",
-    "tier": "oficial",
-    "ocorrencias": 6
-  },
-  {
     "nome": "Transparência Internacional Brasil, fev/2026: a farra das leniências — decisões controversas e anulações em massa",
     "dominio": "transparenciainternacional.org.br",
     "tier": "academico",
@@ -1125,6 +1215,12 @@
     "nome": "Agora RN – Petrobras abandona paridade de importação nos preços dos combustíveis",
     "dominio": "agorarn.com.br",
     "tier": "imprensa",
+    "ocorrencias": 6
+  },
+  {
+    "nome": "MPRJ/GAECO — Denúncia de 14/01/2019 contra Adriano Magalhães da Nóbrega e outros (organização criminosa armada, Lei 12.850/2013, art. 2º §§2º e 3º — Operação Os Intocáveis, milícia de Rio das Pedras)",
+    "dominio": "mprj.mp.br",
+    "tier": "oficial-estadual/municipal",
     "ocorrencias": 6
   },
   {
@@ -1155,12 +1251,6 @@
     "nome": "Clipping ANFIP 02/04/2025 (nota da Fazenda sobre renúncia e compensação)",
     "dominio": "anfip.org.br",
     "tier": "imprensa",
-    "ocorrencias": 5
-  },
-  {
-    "nome": "IPEA – Boletim Mercado de Trabalho nº 54, tabela IV.1 (PME/IBGE)",
-    "dominio": "repositorio.ipea.gov.br",
-    "tier": "academico",
     "ocorrencias": 5
   },
   {
@@ -1212,6 +1302,24 @@
     "ocorrencias": 5
   },
   {
+    "nome": "Arquivo Nacional (MGI) — 'Transposição do rio São Francisco' (24/03/2025): ideia do Segundo Reinado; obras iniciadas em 2007; eixos originais concluídos em 2022",
+    "dominio": "querepublicaeessa.an.gov.br",
+    "tier": "oficial-federal",
+    "ocorrencias": 5
+  },
+  {
+    "nome": "ITA – Estatísticas de vestibulares anteriores",
+    "dominio": "vestibular.ita.br",
+    "tier": "oficial-federal",
+    "ocorrencias": 5
+  },
+  {
+    "nome": "Senado Federal — PL 3.723/2019, redação final aprovada pela Câmara (PL 3.723-E/2019), texto enviado ao Senado",
+    "dominio": "legis.senado.gov.br",
+    "tier": "oficial-legislativo",
+    "ocorrencias": 5
+  },
+  {
     "nome": "Anais Marx e o Marxismo 2019 (Demian Melo; Gentile)",
     "dominio": "niepmarx.blog.br",
     "tier": "academico",
@@ -1233,12 +1341,6 @@
     "nome": "Nexo – Plano de governo de Flávio Bolsonaro: ajuste fiscal e corte de impostos (17/10/2026)",
     "dominio": "nexojornal.com.br",
     "tier": "imprensa",
-    "ocorrencias": 4
-  },
-  {
-    "nome": "TSE DivulgaCand – programa de governo de Flávio Bolsonaro (documento 280017104726)",
-    "dominio": "divulgacandcontas.tse.jus.br",
-    "tier": "oficial",
     "ocorrencias": 4
   },
   {
@@ -1335,6 +1437,54 @@
     "nome": "Instituto Sou da Paz (compilação SIGMA/SINARM)",
     "dominio": "soudapaz.org",
     "tier": "academico",
+    "ocorrencias": 4
+  },
+  {
+    "nome": "TCU — Ata nº 30/2026-Plenário (05/08/2026), Comunicação da Presidência sobre a nova extração do Painel (dados de abr/2026)",
+    "dominio": "tcu.gov.br",
+    "tier": "oficial-legislativo",
+    "ocorrencias": 4
+  },
+  {
+    "nome": "Tesouro Nacional — Boletim de Estatísticas Fiscais do Governo Geral 2025 (Tabelas 1 a 3)",
+    "dominio": "apiapex.tesouro.gov.br",
+    "tier": "oficial-federal",
+    "ocorrencias": 4
+  },
+  {
+    "nome": "USTR (EUA) — transcrição da audiência pública da Seção 301 sobre o Brasil, dia 2 (07/07/2026), painel 8, depoimento do senador Flávio Bolsonaro",
+    "dominio": "ustr.gov",
+    "tier": "oficial-estrangeiro",
+    "ocorrencias": 4
+  },
+  {
+    "nome": "Casa Rosada (Presidência da Argentina) — lista oficial de presidentes",
+    "dominio": "casarosada.gob.ar",
+    "tier": "oficial-estrangeiro",
+    "ocorrencias": 4
+  },
+  {
+    "nome": "BCRA (Argentina) — Informe al Honorable Congreso de la Nación 2023",
+    "dominio": "bcra.gob.ar",
+    "tier": "oficial-estrangeiro",
+    "ocorrencias": 4
+  },
+  {
+    "nome": "Alerj – Lei Complementar nº 128/2009",
+    "dominio": "www3.alerj.rj.gov.br",
+    "tier": "oficial-estadual/municipal",
+    "ocorrencias": 4
+  },
+  {
+    "nome": "STJ — consulta processual (pesquisa por nome sem resultado)",
+    "dominio": "processo.stj.jus.br",
+    "tier": "oficial-judiciario",
+    "ocorrencias": 4
+  },
+  {
+    "nome": "Câmara dos Deputados — pronunciamento em Plenário (Escriba) citando a contratação de Raimunda Veras Magalhães (abr/2016–nov/2018) e Danielle Mendonça da Costa da Nóbrega (2007–nov/2018) no gabinete de Flávio na Alerj",
+    "dominio": "escriba.camara.leg.br",
+    "tier": "oficial-legislativo",
     "ocorrencias": 4
   },
   {
@@ -1491,6 +1641,60 @@
     "nome": "Serasa Experian — Indicadores de falências e recuperações",
     "dominio": "serasaexperian.com.br",
     "tier": "imprensa",
+    "ocorrencias": 3
+  },
+  {
+    "nome": "Bank for International Settlements (BIS), Central bank policy rates (WS_CBPOL), última observação mensal",
+    "dominio": "stats.bis.org",
+    "tier": "intergovernamental",
+    "ocorrencias": 3
+  },
+  {
+    "nome": "Ministério da Justiça e Segurança Pública, Portaria nº 392, de 29/09/2021 (informação ao consumidor sobre alteração quantitativa de produto embalado)",
+    "dominio": "bibliotecadigital.mj.gov.br",
+    "tier": "oficial-federal",
+    "ocorrencias": 3
+  },
+  {
+    "nome": "Federal Register/GovInfo — Executive Order 14323 (30/07/2025), tarifa adicional de 40% sobre o Brasil",
+    "dominio": "govinfo.gov",
+    "tier": "oficial-estrangeiro",
+    "ocorrencias": 3
+  },
+  {
+    "nome": "Ministério de Recursos Hídricos da China (MWR) — página sobre o Projeto de Transposição Sul–Norte (rota Leste, 1ª fase com 1.466,5 km)",
+    "dominio": "mwr.gov.cn",
+    "tier": "oficial-governo-estrangeiro",
+    "ocorrencias": 3
+  },
+  {
+    "nome": "Governo da China (english.www.gov.cn), 12/12/2024 — 'China's mega water diversion project benefits over 185 million people'",
+    "dominio": "english.www.gov.cn",
+    "tier": "oficial-governo-estrangeiro",
+    "ocorrencias": 3
+  },
+  {
+    "nome": "Governo da Paraíba (Secties) — 'Do Nordeste para o mundo: Paraíba terá o primeiro computador quântico da América Latina' (CIQUANTA-PB; parceria Estado, MCTI e instituições chinesas)",
+    "dominio": "paraiba-portal-backend.plone.rke.codataprd.pb.gov.br",
+    "tier": "oficial-estadual/municipal",
+    "ocorrencias": 3
+  },
+  {
+    "nome": "Ministério da Saúde — Painel Coronavírus (covid.saude.gov.br), serviço PortalCasos usado pela página",
+    "dominio": "covid.saude.gov.br",
+    "tier": "oficial-federal",
+    "ocorrencias": 3
+  },
+  {
+    "nome": "TCU — Fatos Fiscais: Saúde (ASPS aplicadas pela União em 2023)",
+    "dominio": "sites.tcu.gov.br",
+    "tier": "oficial-legislativo",
+    "ocorrencias": 3
+  },
+  {
+    "nome": "CNJ — Resolução nº 213, de 15/12/2015 (audiências de custódia), assinada pelo ministro Ricardo Lewandowski",
+    "dominio": "atos.cnj.jus.br",
+    "tier": "oficial-judiciario",
     "ocorrencias": 3
   },
   {
@@ -1737,6 +1941,96 @@
     "nome": "IBGE — PNAD Contínua, Segurança Alimentar 2023/2024",
     "dominio": "ibge.gov.br",
     "tier": "oficial",
+    "ocorrencias": 2
+  },
+  {
+    "nome": "Governo de Minas (Agência Minas) — inauguração das estações Nova Suíça e Amazonas da Linha 2 do metrô (jul/2026)",
+    "dominio": "agenciaminas.mg.gov.br",
+    "tier": "oficial-estadual/municipal",
+    "ocorrencias": 2
+  },
+  {
+    "nome": "STF — decisão na Pet 8.975 (min. Alexandre de Moraes, 13/05/2021), que transcreve a fala de Ricardo Salles na reunião ministerial de 22/04/2020",
+    "dominio": "stf.jus.br",
+    "tier": "oficial-judiciario",
+    "ocorrencias": 2
+  },
+  {
+    "nome": "Governo de Pernambuco/ADEPE – 'Fiat inaugura sua fábrica da Jeep em Goiana' (28/04/2015)",
+    "dominio": "adepe.pe.gov.br",
+    "tier": "oficial-estadual/municipal",
+    "ocorrencias": 2
+  },
+  {
+    "nome": "Governo do Ceará, 08/09/2025 – Polo Automotivo do Ceará anuncia início das operações com a GM",
+    "dominio": "ceara.gov.br",
+    "tier": "oficial-estadual/municipal",
+    "ocorrencias": 2
+  },
+  {
+    "nome": "Secretaria da Saúde da Bahia — 'Primeiro hospital do Novo PAC entregue no Brasil será inaugurado em junho na Bahia' (06/05/2026)",
+    "dominio": "saude.ba.gov.br",
+    "tier": "oficial-estadual/municipal",
+    "ocorrencias": 2
+  },
+  {
+    "nome": "UFRJ – História (página institucional)",
+    "dominio": "ufrj.br",
+    "tier": "oficial-federal",
+    "ocorrencias": 2
+  },
+  {
+    "nome": "FBI — 'Tracking Animal Cruelty' (NIBRS passa a registrar crueldade animal a partir de 01/01/2016; página devolveu 403, conteúdo lido só pelo índice do buscador)",
+    "dominio": "fbi.gov",
+    "tier": "oficial-estrangeiro",
+    "ocorrencias": 2
+  },
+  {
+    "nome": "FBI Law Enforcement Bulletin — 'The Link Between Animal Cruelty and Human Violence' (página devolveu 403, conteúdo lido só pelo índice do buscador)",
+    "dominio": "leb.fbi.gov",
+    "tier": "oficial-estrangeiro",
+    "ocorrencias": 2
+  },
+  {
+    "nome": "TCU — API de dados abertos de acórdãos (registro do Acórdão 1622/2026)",
+    "dominio": "dados-abertos.apps.tcu.gov.br",
+    "tier": "oficial-legislativo",
+    "ocorrencias": 2
+  },
+  {
+    "nome": "Caixa Notícias, ago/2026 – 'CAIXA registra lucro líquido recorrente de R$ 3,9 bilhões no 2T26' (carteira imobiliária)",
+    "dominio": "caixanoticias.caixa.gov.br",
+    "tier": "empresa estatal (RI)",
+    "ocorrencias": 2
+  },
+  {
+    "nome": "Federal Register (EUA) — Foreign Terrorist Organization Designation of Primeiro Comando da Capital and Comando Vermelho (05/06/2026)",
+    "dominio": "federalregister.gov",
+    "tier": "oficial-estrangeiro",
+    "ocorrencias": 2
+  },
+  {
+    "nome": "TJRJ — portal (sem resposta ao leitor automatizado em 24/10/2026)",
+    "dominio": "tjrj.jus.br",
+    "tier": "oficial-judiciario",
+    "ocorrencias": 2
+  },
+  {
+    "nome": "STJ — 'Mantida prisão de PM acusado pela morte de criança de cinco anos durante patrulhamento em Niterói (RJ)' (RHC 154.961, 02/12/2021)",
+    "dominio": "stj.jus.br",
+    "tier": "oficial-judiciario",
+    "ocorrencias": 2
+  },
+  {
+    "nome": "Diário Oficial da União, 19/11/2025 — Ato do Presidente do BCB nº 1.371, de 18/11/2025 (liquidação extrajudicial do Banco Master S.A.)",
+    "dominio": "pesquisa.in.gov.br",
+    "tier": "oficial-legislativo",
+    "ocorrencias": 2
+  },
+  {
+    "nome": "MPF — Portal de Combate à Corrupção: \"Lava Jato: 69ª fase apura repasses suspeitos de mais de R$ 132 milhões pelo grupo Oi/Telemar para empresas do grupo Gamecorp/Gol\" (10/12/2019)",
+    "dominio": "combateacorrupcao.mpf.mp.br",
+    "tier": "oficial-judiciario",
     "ocorrencias": 2
   },
   {

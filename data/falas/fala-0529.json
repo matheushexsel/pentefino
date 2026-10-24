@@ -1,0 +1,143 @@
+{
+  "id": "fala-0529",
+  "slug": "lula-globo-conforma-criou-banqueiro-fiz-prisioneiro",
+  "evento_id": "debate-globo-2turno-2026-10-23",
+  "candidato": "lula",
+  "lado": "governo-lula-pt",
+  "minuto": "Bloco 4 — tema livre · clipe g1 06:32",
+  "url_trecho": "https://youtu.be/rUnAbA73RH0?t=392",
+  "frase_literal": "O que você não se conforma é que você criou um banqueiro e eu fiz ele prisioneiro",
+  "literal": true,
+  "variantes_literais": [],
+  "tema": "corrupcao",
+  "veredito": "verdadeiro-mas",
+  "resumo_uma_frase": "O BC aprovou a compra do banco por Vorcaro na gestão de Roberto Campos Neto (indicado por Jair Bolsonaro) e a PF prendeu Vorcaro no governo Lula, mas as prisões foram decretadas pela Justiça, e não há ato de Flávio na aprovação do banco.",
+  "explicacao_simples": [
+    "No Senado, o presidente do BC, Gabriel Galípolo, confirmou que a compra foi barrada na gestão de Ilan Goldfajn e aprovada na de Campos Neto, depois que foram apresentados novos recursos.",
+    "A PF deflagrou a Operação Compliance Zero em 18/11/2025 e o BC liquidou o Master no mesmo dia (Ato 1.371).",
+    "A prisão preventiva em vigor foi decretada pelo ministro André Mendonça (STF) em 04/03/2026, a pedido da PF, e mantida por unanimidade pela 2ª Turma; não foi \"o presidente\" quem prendeu."
+  ],
+  "o_que_e_verdade": [
+    "A aquisição do Banco Máxima por Vorcaro foi negada sob Ilan Goldfajn e aprovada sob Campos Neto — Agência Senado (audiência da CAE, 19/05/2026).",
+    "Liquidação extrajudicial do Banco Master decretada pelo BC em 18/11/2025 (Ato nº 1.371) — DOU.",
+    "Prisão preventiva de Vorcaro decretada por Mendonça em 04/03/2026 (PET 15556) e referendada pela 2ª Turma em 20/03/2026 por unanimidade — STF; mantida em 25/06/2026."
+  ],
+  "o_que_nao_se_sustenta": [
+    "\"Eu fiz ele prisioneiro\": a prisão foi decretada pelo Judiciário (STF), a pedido da Polícia Federal; o presidente não decreta prisões.",
+    "\"Você criou um banqueiro\": nenhum ato oficial atribui a Flávio a autorização do banco; a decisão foi do Banco Central."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Votos na 2ª Turma do STF para manter a prisão de Vorcaro",
+      "valor": 4,
+      "unidade": "votos a 0 (Toffoli suspeito)",
+      "periodo": "sessão virtual 13–20/03/2026",
+      "fonte": {
+        "nome": "STF Notícias — \"2ª Turma do STF mantém prisão de Daniel Vorcaro...\" (20/03/2026; unanimidade; Toffoli declarou suspeição)",
+        "url": "https://noticias.stf.jus.br/postsnoticias/2a-turma-do-stf-mantem-prisao-de-daniel-vorcaro-e-de-outros-investigados-no-caso-master/",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-judiciario"
+      }
+    }
+  ],
+  "fontes_primarias": [
+    {
+      "nome": "Agência Senado — \"Senadores questionam como BC negou e depois aprovou venda do Master a Vorcaro\" (audiência da CAE com Gabriel Galípolo, 19/05/2026)",
+      "url": "https://www12.senado.leg.br/noticias/materias/2026/05/19/senadores-questionam-como-bc-negou-e-depois-aprovou-venda-do-master-a-vorcaro",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    },
+    {
+      "nome": "Diário Oficial da União, 19/11/2025 — Ato do Presidente do BCB nº 1.371, de 18/11/2025 (liquidação extrajudicial do Banco Master S.A.)",
+      "url": "https://pesquisa.in.gov.br/imprensa/servlet/INPDFViewer?jornal=515&pagina=278&data=19/11/2025&captchafield=firstAccess",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo",
+      "observacao": "conteúdo lido via índice do buscador; in.gov.br não respondeu ao leitor automatizado"
+    },
+    {
+      "nome": "Polícia Federal — \"Polícia Federal combate crimes praticados contra o Sistema Financeiro Nacional\" (1ª fase da Compliance Zero, 18/11/2025)",
+      "url": "https://www.gov.br/pf/pt-br/assuntos/noticias/2025/11/policia-federal-combate-crimes-praticados-contra-o-sistema-financeiro-nacional",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal",
+      "observacao": "conteúdo lido via índice do buscador (página gov.br exige autenticação para leitor automatizado)"
+    },
+    {
+      "nome": "STF Notícias — \"STF determina prisão de Daniel Vorcaro e outros investigados por supostas fraudes no Banco Master\" (04/03/2026, PET 15556)",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-atende-a-pedido-da-pf-e-determina-prisao-de-daniel-vorcaro-e-outros-investigados-por-supostas-fraudes-no-banco-master/",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-judiciario"
+    },
+    {
+      "nome": "STF Notícias — \"2ª Turma do STF mantém prisão de Daniel Vorcaro...\" (20/03/2026; unanimidade; Toffoli declarou suspeição)",
+      "url": "https://noticias.stf.jus.br/postsnoticias/2a-turma-do-stf-mantem-prisao-de-daniel-vorcaro-e-de-outros-investigados-no-caso-master/",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-judiciario"
+    },
+    {
+      "nome": "STF Notícias — \"Relator mantém prisão preventiva de Daniel Vorcaro e determina transferência para Papudinha\" (25/06/2026)",
+      "url": "https://noticias.stf.jus.br/postsnoticias/relator-mantem-prisao-preventiva-de-daniel-vorcaro-e-determina-transferencia-para-papudinha/",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-judiciario"
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Agência Senado — \"Senadores questionam como BC negou e depois aprovou venda do Master a Vorcaro\" (audiência da CAE com Gabriel Galípolo, 19/05/2026)",
+      "url": "https://www12.senado.leg.br/noticias/materias/2026/05/19/senadores-questionam-como-bc-negou-e-depois-aprovou-venda-do-master-a-vorcaro",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    },
+    {
+      "nome": "Diário Oficial da União, 19/11/2025 — Ato do Presidente do BCB nº 1.371, de 18/11/2025 (liquidação extrajudicial do Banco Master S.A.)",
+      "url": "https://pesquisa.in.gov.br/imprensa/servlet/INPDFViewer?jornal=515&pagina=278&data=19/11/2025&captchafield=firstAccess",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo",
+      "observacao": "conteúdo lido via índice do buscador; in.gov.br não respondeu ao leitor automatizado"
+    },
+    {
+      "nome": "Polícia Federal — \"Polícia Federal combate crimes praticados contra o Sistema Financeiro Nacional\" (1ª fase da Compliance Zero, 18/11/2025)",
+      "url": "https://www.gov.br/pf/pt-br/assuntos/noticias/2025/11/policia-federal-combate-crimes-praticados-contra-o-sistema-financeiro-nacional",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal",
+      "observacao": "conteúdo lido via índice do buscador (página gov.br exige autenticação para leitor automatizado)"
+    },
+    {
+      "nome": "STF Notícias — \"STF determina prisão de Daniel Vorcaro e outros investigados por supostas fraudes no Banco Master\" (04/03/2026, PET 15556)",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-atende-a-pedido-da-pf-e-determina-prisao-de-daniel-vorcaro-e-outros-investigados-por-supostas-fraudes-no-banco-master/",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-judiciario"
+    },
+    {
+      "nome": "STF Notícias — \"2ª Turma do STF mantém prisão de Daniel Vorcaro...\" (20/03/2026; unanimidade; Toffoli declarou suspeição)",
+      "url": "https://noticias.stf.jus.br/postsnoticias/2a-turma-do-stf-mantem-prisao-de-daniel-vorcaro-e-de-outros-investigados-no-caso-master/",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-judiciario"
+    },
+    {
+      "nome": "STF Notícias — \"Relator mantém prisão preventiva de Daniel Vorcaro e determina transferência para Papudinha\" (25/06/2026)",
+      "url": "https://noticias.stf.jus.br/postsnoticias/relator-mantem-prisao-preventiva-de-daniel-vorcaro-e-determina-transferencia-para-papudinha/",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-judiciario"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/17_debate_globo_2026-10-23_checagem.md",
+  "atualizado_em": "2026-10-24",
+  "lacunas": [
+    "Data exata e número do ato do BC que aprovou a transferência de controle do Banco Máxima (2018–2019) não localizados no DOU.",
+    "Autoridade judicial que decretou a 1ª prisão de Vorcaro (17–18/11/2025) não confirmada em fonte oficial lida na íntegra.",
+    "Checagem feita apenas com fontes oficiais (governo federal, estadual, Legislativo, Judiciário, TSE, órgãos intergovernamentais e governos estrangeiros), sem imprensa nem agências de checagem, por decisão editorial desta edição."
+  ],
+  "changelog": [
+    {
+      "data": "2026-10-24",
+      "o_que_mudou": "publicação (checagem só com fontes oficiais)"
+    }
+  ],
+  "id_no_debate": "L87",
+  "leitura_checada": "Lula: \"você [Flávio/o grupo político de Bolsonaro] criou um banqueiro [Vorcaro] e eu fiz ele prisioneiro\". Checado: quando o BC aprovou a compra do Banco Máxima (depois Master) por Vorcaro e quem decretou as prisões.",
+  "leitura_incerta": false
+}

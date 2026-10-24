@@ -1,0 +1,146 @@
+{
+  "id": "fala-0396",
+  "slug": "lula-globo-sul-pais-regiao-proporcionalmente-tem-mais-aposentado-brasil",
+  "evento_id": "debate-globo-2turno-2026-10-23",
+  "candidato": "lula",
+  "lado": "governo-lula-pt",
+  "minuto": "Bloco 1 — pergunta 4 · clipe g1 00:28",
+  "url_trecho": "https://youtu.be/FIKMIfvhAkA?t=28",
+  "frase_literal": "o sul do país é a região que proporcionalmente tem mais aposentado no Brasil",
+  "literal": true,
+  "variantes_literais": [],
+  "tema": "pobreza-programas-sociais",
+  "veredito": "verdadeiro",
+  "resumo_uma_frase": "O Sul tem a maior proporção de benefícios do INSS por habitante (217 por mil, contra 169 no Brasil) e o Rio Grande do Sul lidera entre os estados (249 por mil).",
+  "explicacao_simples": [
+    "Dividi os benefícios do RGPS emitidos em agosto de 2026 em cada região pela população estimada pelo IBGE para 2025.",
+    "O Sul fica em primeiro (216,7 por mil habitantes), à frente de Sudeste (179,1), Nordeste (163,2), Centro-Oeste (125,4) e Norte (98,1).",
+    "Em números absolutos São Paulo e Minas Gerais têm mais benefícios, como o próprio Lula ressalvou."
+  ],
+  "o_que_e_verdade": [
+    "Sul e Rio Grande do Sul lideram na proporção de benefícios previdenciários por habitante.",
+    "Em números absolutos o Sudeste tem mais benefícios (15,9 milhões)."
+  ],
+  "o_que_nao_se_sustenta": [],
+  "numeros": [
+    {
+      "rotulo": "Benefícios do RGPS emitidos — Sul",
+      "valor": 6786136,
+      "unidade": "benefícios",
+      "periodo": "ago/2026",
+      "fonte": {
+        "nome": "Ministério da Previdência Social — Boletim Estatístico da Previdência Social (BEPS), vol. 32 nº 08, agosto/2026",
+        "url": "https://www.gov.br/previdencia/pt-br/assuntos/previdencia-social/Dados-estatisticos-previdencia-social-e-inss/boletins-da-previdencia-social/2026/beps082026_final.pdf",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Benefícios do RGPS por mil habitantes — Sul (aritmética própria)",
+      "valor": 216.7,
+      "unidade": "por mil hab.",
+      "periodo": "ago/2026 ÷ pop. 2025",
+      "fonte": {
+        "nome": "IBGE/SIDRA — Tabela 6579 (estimativas de população 2025, Grandes Regiões)",
+        "url": "https://apisidra.ibge.gov.br/values/t/6579/n2/all/n1/all/v/9324/p/2025",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Benefícios do RGPS por mil habitantes — Brasil (aritmética própria)",
+      "valor": 168.9,
+      "unidade": "por mil hab.",
+      "periodo": "ago/2026 ÷ pop. 2025",
+      "fonte": {
+        "nome": "IBGE/SIDRA — Tabela 6579 (estimativas de população 2025, Grandes Regiões)",
+        "url": "https://apisidra.ibge.gov.br/values/t/6579/n2/all/n1/all/v/9324/p/2025",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Benefícios do RGPS por mil habitantes — Rio Grande do Sul (aritmética própria)",
+      "valor": 249.2,
+      "unidade": "por mil hab.",
+      "periodo": "ago/2026 ÷ pop. 2025",
+      "fonte": {
+        "nome": "IBGE/SIDRA — Tabela 6579 (estimativas de população 2025, UFs)",
+        "url": "https://apisidra.ibge.gov.br/values/t/6579/n3/all/v/9324/p/2025",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Benefícios do RGPS por mil habitantes — Santa Catarina (aritmética própria)",
+      "valor": 214.4,
+      "unidade": "por mil hab.",
+      "periodo": "ago/2026 ÷ pop. 2025",
+      "fonte": {
+        "nome": "IBGE/SIDRA — Tabela 6579 (estimativas de população 2025, UFs)",
+        "url": "https://apisidra.ibge.gov.br/values/t/6579/n3/all/v/9324/p/2025",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    }
+  ],
+  "fontes_primarias": [
+    {
+      "nome": "Ministério da Previdência Social — Boletim Estatístico da Previdência Social (BEPS), vol. 32 nº 08, agosto/2026",
+      "url": "https://www.gov.br/previdencia/pt-br/assuntos/previdencia-social/Dados-estatisticos-previdencia-social-e-inss/boletins-da-previdencia-social/2026/beps082026_final.pdf",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    },
+    {
+      "nome": "IBGE/SIDRA — Tabela 6579 (estimativas de população 2025, Grandes Regiões)",
+      "url": "https://apisidra.ibge.gov.br/values/t/6579/n2/all/n1/all/v/9324/p/2025",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    },
+    {
+      "nome": "IBGE/SIDRA — Tabela 6579 (estimativas de população 2025, UFs)",
+      "url": "https://apisidra.ibge.gov.br/values/t/6579/n3/all/v/9324/p/2025",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Ministério da Previdência Social — Boletim Estatístico da Previdência Social (BEPS), vol. 32 nº 08, agosto/2026",
+      "url": "https://www.gov.br/previdencia/pt-br/assuntos/previdencia-social/Dados-estatisticos-previdencia-social-e-inss/boletins-da-previdencia-social/2026/beps082026_final.pdf",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    },
+    {
+      "nome": "IBGE/SIDRA — Tabela 6579 (estimativas de população 2025, Grandes Regiões)",
+      "url": "https://apisidra.ibge.gov.br/values/t/6579/n2/all/n1/all/v/9324/p/2025",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    },
+    {
+      "nome": "IBGE/SIDRA — Tabela 6579 (estimativas de população 2025, UFs)",
+      "url": "https://apisidra.ibge.gov.br/values/t/6579/n3/all/v/9324/p/2025",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/17_debate_globo_2026-10-23_checagem.md",
+  "atualizado_em": "2026-10-24",
+  "lacunas": [
+    "O BEPS publica por UF o total de benefícios do RGPS (aposentadorias, pensões e auxílios), não só aposentadorias; usei esse total como aproximação. A série só de aposentadorias por UF (AEPS) não foi consultada.",
+    "Checagem feita apenas com fontes oficiais (governo federal, estadual, Legislativo, Judiciário, TSE, órgãos intergovernamentais e governos estrangeiros), sem imprensa nem agências de checagem, por decisão editorial desta edição."
+  ],
+  "changelog": [
+    {
+      "data": "2026-10-24",
+      "o_que_mudou": "publicação (checagem só com fontes oficiais)"
+    }
+  ],
+  "id_no_debate": "L28",
+  "leitura_checada": "O Sul (e o Rio Grande do Sul) teria, proporcionalmente à população, mais aposentados que as outras regiões.",
+  "leitura_incerta": false
+}

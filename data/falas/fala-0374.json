@@ -1,0 +1,106 @@
+{
+  "id": "fala-0374",
+  "slug": "flavio-globo-tem-la-disponivel-caixa-ovo-duia-duzia-ovos",
+  "evento_id": "debate-globo-2turno-2026-10-23",
+  "candidato": "flavio-bolsonaro",
+  "lado": "oposicao-flavio-pl",
+  "minuto": "Bloco 1 — pergunta 2 · clipe g1 06:07",
+  "url_trecho": "https://youtu.be/26XCkA5BHm8?t=367",
+  "frase_literal": "já tem lá disponível uma caixa de ovo, uma dúia [dúzia] de ovos com 10 ovos. [...] tem um sabão em pó de 1 kg, que na verdade era de 1 kg, agora é de 800 g [...] A barra de chocolate, que antes tinha 120 g, agora tem só 80. O rolo de papel higiênico, que só tinha 40 m, hoje tem 20",
+  "literal": true,
+  "variantes_literais": [],
+  "tema": "eleicao-2026",
+  "veredito": "insustentavel",
+  "resumo_uma_frase": "Não há registro oficial que confirme esses casos específicos nem que os ligue ao governo atual; a regra que obriga avisar a redução de embalagens é de 2021.",
+  "explicacao_simples": [
+    "A redução de conteúdo de embalagens é permitida desde que informada; a Portaria MJSP nº 392, de 29/09/2021 (governo Bolsonaro), exige aviso no rótulo por pelo menos seis meses.",
+    "Não foi localizado levantamento oficial (Senacon, Inmetro, IBGE) com os produtos e medidas citados.",
+    "Nos preços, o IPCA do ovo de galinha caiu 0,6% de jan/2023 a set/2026, enquanto o índice geral subiu 18,9%."
+  ],
+  "o_que_e_verdade": [
+    "A prática de reduzir embalagens existe e é regulada."
+  ],
+  "o_que_nao_se_sustenta": [
+    "Os exemplos e a relação causal com o governo não têm comprovação oficial."
+  ],
+  "numeros": [
+    {
+      "rotulo": "IPCA – ovo de galinha, acumulado",
+      "valor": -0.59,
+      "unidade": "%",
+      "periodo": "jan/2023–set/2026",
+      "fonte": {
+        "nome": "IBGE/SIDRA, tabela 7060 (IPCA, variação mensal por subitem, v63)",
+        "url": "https://apisidra.ibge.gov.br/values/t/7060/n1/all/v/63/p/202001-202609/c315/7169,7171,7173,7176,12222,7283,7355",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "IPCA – índice geral, acumulado",
+      "valor": 18.87,
+      "unidade": "%",
+      "periodo": "jan/2023–set/2026",
+      "fonte": {
+        "nome": "IBGE/SIDRA, tabela 7060 (IPCA, variação mensal por subitem, v63)",
+        "url": "https://apisidra.ibge.gov.br/values/t/7060/n1/all/v/63/p/202001-202609/c315/7169,7171,7173,7176,12222,7283,7355",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    }
+  ],
+  "fontes_primarias": [
+    {
+      "nome": "Ministério da Justiça e Segurança Pública, Portaria nº 392, de 29/09/2021 (informação ao consumidor sobre alteração quantitativa de produto embalado)",
+      "url": "https://bibliotecadigital.mj.gov.br/bitstream/1/5525/2/PRT_GM_2021_392.html",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    },
+    {
+      "nome": "IBGE/SIDRA, tabela 7060 (IPCA, variação mensal por subitem, v63)",
+      "url": "https://apisidra.ibge.gov.br/values/t/7060/n1/all/v/63/p/202001-202609/c315/7169,7171,7173,7176,12222,7283,7355",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    }
+  ],
+  "base_legal": [
+    {
+      "norma": "Portaria MJSP nº 392/2021",
+      "o_que_diz": "Exige que o fornecedor informe no rótulo a alteração de quantidade (antes, depois, diferença absoluta e percentual) por no mínimo seis meses.",
+      "url": "https://bibliotecadigital.mj.gov.br/bitstream/1/5525/2/PRT_GM_2021_392.html"
+    }
+  ],
+  "checagens_externas": [],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Ministério da Justiça e Segurança Pública, Portaria nº 392, de 29/09/2021 (informação ao consumidor sobre alteração quantitativa de produto embalado)",
+      "url": "https://bibliotecadigital.mj.gov.br/bitstream/1/5525/2/PRT_GM_2021_392.html",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    },
+    {
+      "nome": "IBGE/SIDRA, tabela 7060 (IPCA, variação mensal por subitem, v63)",
+      "url": "https://apisidra.ibge.gov.br/values/t/7060/n1/all/v/63/p/202001-202609/c315/7169,7171,7173,7176,12222,7283,7355",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/17_debate_globo_2026-10-23_checagem.md",
+  "atualizado_em": "2026-10-24",
+  "lacunas": [
+    "Leitura incerta da legenda automática; a checagem usou a leitura: Exemplos de 'reduflação': dúzia de ovos com 10 unidades, sabão em pó de 1 kg para 800 g, chocolate de 120 g para 80 g, papel higiênico de 40 m para 20 m, por causa do governo.",
+    "Sem dado oficial sobre os produtos citados; o texto da portaria foi identificado no repositório do MJ, mas não relido integralmente nesta rodada.",
+    "Checagem feita apenas com fontes oficiais (governo federal, estadual, Legislativo, Judiciário, TSE, órgãos intergovernamentais e governos estrangeiros), sem imprensa nem agências de checagem, por decisão editorial desta edição."
+  ],
+  "changelog": [
+    {
+      "data": "2026-10-24",
+      "o_que_mudou": "publicação (checagem só com fontes oficiais)"
+    }
+  ],
+  "id_no_debate": "F14",
+  "leitura_checada": "Exemplos de 'reduflação': dúzia de ovos com 10 unidades, sabão em pó de 1 kg para 800 g, chocolate de 120 g para 80 g, papel higiênico de 40 m para 20 m, por causa do governo.",
+  "leitura_incerta": true
+}

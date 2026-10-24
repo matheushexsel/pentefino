@@ -1,0 +1,109 @@
+{
+  "id": "fala-0532",
+  "slug": "flavio-globo-garrafa-tiver-10-copos-cada-dose-custa-r",
+  "evento_id": "debate-globo-2turno-2026-10-23",
+  "candidato": "flavio-bolsonaro",
+  "lado": "oposicao-flavio-pl",
+  "minuto": "Bloco 4 — tema livre · clipe g1 07:29",
+  "url_trecho": "https://youtu.be/rUnAbA73RH0?t=449",
+  "frase_literal": "se essa garrafa tiver 10 copos, cada dose custa R$ 50.000. [...] Isso dá para pagar 70 bolsas famílias",
+  "literal": true,
+  "variantes_literais": [],
+  "tema": "pobreza-programas-sociais",
+  "veredito": "verdadeiro",
+  "resumo_uma_frase": "A conta fecha: R$ 50 mil equivalem a 64 benefícios médios de outubro de 2026 (R$ 782,92) ou 74 benefícios médios anteriores ao reajuste (R$ 675).",
+  "explicacao_simples": [
+    "O benefício médio do Bolsa Família era estimado em R$ 675 antes do reajuste e foi de R$ 782,92 em outubro de 2026.",
+    "R$ 50.000 dividido por esses valores dá entre 64 e 74 benefícios.",
+    "Esta checagem confere só a conta; o preço do uísque não foi verificado."
+  ],
+  "o_que_e_verdade": [
+    "R$ 50 mil equivalem a cerca de 64 a 74 benefícios mensais médios."
+  ],
+  "o_que_nao_se_sustenta": [],
+  "numeros": [
+    {
+      "rotulo": "Benefício médio estimado antes do reajuste",
+      "valor": 675,
+      "unidade": "R$/mês",
+      "periodo": "set/2026",
+      "fonte": {
+        "nome": "MDS — 'Bolsa Família terá valor mínimo de R$ 691 a partir de outubro' (17/09/2026)",
+        "url": "https://www.gov.br/mds/pt-br/noticias/bolsa-familia-tera-valor-minimo-de-r-691-a-partir-de-outubro",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Benefício médio pago",
+      "valor": 782.92,
+      "unidade": "R$/mês",
+      "periodo": "out/2026",
+      "fonte": {
+        "nome": "Agência Brasil/EBC, reproduzindo dados do MDS/Caixa — 'Beneficiários com NIS de final 3 a 0 recebem Bolsa Família de outubro' (21/10/2026)",
+        "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/beneficiarios-com-nis-de-final-3-0-recebem-bolsa-familia-de-outubro",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "R$ 50.000 ÷ benefício médio (aritmética própria)",
+      "valor": "64–74",
+      "unidade": "benefícios",
+      "periodo": "out/2026 e antes",
+      "fonte": {
+        "nome": "Agência Brasil/EBC, reproduzindo dados do MDS/Caixa — 'Beneficiários com NIS de final 3 a 0 recebem Bolsa Família de outubro' (21/10/2026)",
+        "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/beneficiarios-com-nis-de-final-3-0-recebem-bolsa-familia-de-outubro",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    }
+  ],
+  "fontes_primarias": [
+    {
+      "nome": "MDS — 'Bolsa Família terá valor mínimo de R$ 691 a partir de outubro' (17/09/2026)",
+      "url": "https://www.gov.br/mds/pt-br/noticias/bolsa-familia-tera-valor-minimo-de-r-691-a-partir-de-outubro",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    },
+    {
+      "nome": "Agência Brasil/EBC, reproduzindo dados do MDS/Caixa — 'Beneficiários com NIS de final 3 a 0 recebem Bolsa Família de outubro' (21/10/2026)",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/beneficiarios-com-nis-de-final-3-0-recebem-bolsa-familia-de-outubro",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "MDS — 'Bolsa Família terá valor mínimo de R$ 691 a partir de outubro' (17/09/2026)",
+      "url": "https://www.gov.br/mds/pt-br/noticias/bolsa-familia-tera-valor-minimo-de-r-691-a-partir-de-outubro",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    },
+    {
+      "nome": "Agência Brasil/EBC, reproduzindo dados do MDS/Caixa — 'Beneficiários com NIS de final 3 a 0 recebem Bolsa Família de outubro' (21/10/2026)",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/beneficiarios-com-nis-de-final-3-0-recebem-bolsa-familia-de-outubro",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/17_debate_globo_2026-10-23_checagem.md",
+  "atualizado_em": "2026-10-24",
+  "lacunas": [
+    "O valor da garrafa (premissa de outra afirmação) não foi checado aqui.",
+    "Checagem feita apenas com fontes oficiais (governo federal, estadual, Legislativo, Judiciário, TSE, órgãos intergovernamentais e governos estrangeiros), sem imprensa nem agências de checagem, por decisão editorial desta edição."
+  ],
+  "changelog": [
+    {
+      "data": "2026-10-24",
+      "o_que_mudou": "publicação (checagem só com fontes oficiais)"
+    }
+  ],
+  "id_no_debate": "F100",
+  "leitura_checada": "Garrafa de meio milhão com 10 doses: R$ 50 mil por dose, o que pagaria 70 Bolsas Família.",
+  "leitura_incerta": false
+}

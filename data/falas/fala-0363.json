@@ -1,0 +1,154 @@
+{
+  "id": "fala-0363",
+  "slug": "lula-globo-chegamos-r-1600-porque-senao-seria-900",
+  "evento_id": "debate-globo-2turno-2026-10-23",
+  "candidato": "lula",
+  "lado": "governo-lula-pt",
+  "minuto": "Bloco 1 — pergunta 2 · clipe g1 03:38",
+  "url_trecho": "https://youtu.be/26XCkA5BHm8?t=218",
+  "frase_literal": "É por isso que nós chegamos a R$ 1600, porque senão seria 900",
+  "literal": true,
+  "variantes_literais": [],
+  "tema": "eleicao-2026",
+  "veredito": "verdadeiro-mas",
+  "resumo_uma_frase": "O mínimo é R$ 1.621; sem ganhos reais desde 2002–2003 ele estaria entre R$ 805 e R$ 842 — abaixo até dos R$ 900 citados.",
+  "explicacao_simples": [
+    "O Decreto 12.797/2025 fixou o mínimo de 2026 em R$ 1.621.",
+    "Pelo Ipea, o mínimo de abril de 2002 equivale a R$ 838 em preços de setembro de 2026; corrigindo só pelo INPC, chega-se a cerca de R$ 805–810.",
+    "O número de R$ 900 é uma aproximação para cima; o argumento de que a valorização explica a maior parte do valor atual é sustentado pelos dados."
+  ],
+  "o_que_e_verdade": [
+    "Valor atual de R$ 1.621.",
+    "Sem ganhos reais, o mínimo estaria na casa de R$ 800."
+  ],
+  "o_que_nao_se_sustenta": [
+    "'Seria 900' é arredondamento; os cálculos com dados oficiais dão R$ 805–842."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Salário mínimo vigente",
+      "valor": 1621,
+      "unidade": "R$",
+      "periodo": "desde 01/01/2026",
+      "fonte": {
+        "nome": "Planalto, Decreto nº 12.797, de 23/12/2025 (salário mínimo de 2026)",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/decreto/D12797.htm",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-legislativo"
+      }
+    },
+    {
+      "rotulo": "Salário mínimo de abr/2002 (R$ 200) a preços de set/2026",
+      "valor": 837.8,
+      "unidade": "R$ de set/2026",
+      "periodo": "abr/2002",
+      "fonte": {
+        "nome": "Ipea/Ipeadata, série GAC12_SALMINRE12 (salário mínimo real, R$ de set/2026, deflator INPC)",
+        "url": "http://www.ipeadata.gov.br/api/odata4/ValoresSerie(SERCODIGO='GAC12_SALMINRE12')",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Salário mínimo de dez/2003 (R$ 240) a preços de set/2026",
+      "valor": 815.26,
+      "unidade": "R$ de set/2026",
+      "periodo": "dez/2003",
+      "fonte": {
+        "nome": "Ipea/Ipeadata, série GAC12_SALMINRE12 (salário mínimo real, R$ de set/2026, deflator INPC)",
+        "url": "http://www.ipeadata.gov.br/api/odata4/ValoresSerie(SERCODIGO='GAC12_SALMINRE12')",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "R$ 200 de abr/2002 corrigidos só pelo INPC até dez/2025 (cálculo próprio)",
+      "valor": 805.49,
+      "unidade": "R$",
+      "periodo": "mai/2002–dez/2025",
+      "fonte": {
+        "nome": "IBGE/SIDRA, tabela 1736 (INPC, variação mensal, v44)",
+        "url": "https://apisidra.ibge.gov.br/values/t/1736/n1/all/v/44/p/200201-202609",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "R$ 240 de 2003 corrigidos só pelo INPC até dez/2025 (cálculo próprio)",
+      "valor": 809.78,
+      "unidade": "R$",
+      "periodo": "mai/2003–dez/2025",
+      "fonte": {
+        "nome": "IBGE/SIDRA, tabela 1736 (INPC, variação mensal, v44)",
+        "url": "https://apisidra.ibge.gov.br/values/t/1736/n1/all/v/44/p/200201-202609",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    }
+  ],
+  "fontes_primarias": [
+    {
+      "nome": "Planalto, Decreto nº 12.797, de 23/12/2025 (salário mínimo de 2026)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/decreto/D12797.htm",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    },
+    {
+      "nome": "Ipea/Ipeadata, série GAC12_SALMINRE12 (salário mínimo real, R$ de set/2026, deflator INPC)",
+      "url": "http://www.ipeadata.gov.br/api/odata4/ValoresSerie(SERCODIGO='GAC12_SALMINRE12')",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    },
+    {
+      "nome": "IBGE/SIDRA, tabela 1736 (INPC, variação mensal, v44)",
+      "url": "https://apisidra.ibge.gov.br/values/t/1736/n1/all/v/44/p/200201-202609",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    }
+  ],
+  "base_legal": [
+    {
+      "norma": "Decreto nº 12.797/2025",
+      "o_que_diz": "Salário mínimo de R$ 1.621,00 a partir de 1º/01/2026.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/decreto/D12797.htm"
+    }
+  ],
+  "checagens_externas": [],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Planalto, Decreto nº 12.797, de 23/12/2025 (salário mínimo de 2026)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/decreto/D12797.htm",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    },
+    {
+      "nome": "Ipea/Ipeadata, série GAC12_SALMINRE12 (salário mínimo real, R$ de set/2026, deflator INPC)",
+      "url": "http://www.ipeadata.gov.br/api/odata4/ValoresSerie(SERCODIGO='GAC12_SALMINRE12')",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    },
+    {
+      "nome": "IBGE/SIDRA, tabela 1736 (INPC, variação mensal, v44)",
+      "url": "https://apisidra.ibge.gov.br/values/t/1736/n1/all/v/44/p/200201-202609",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/17_debate_globo_2026-10-23_checagem.md",
+  "atualizado_em": "2026-10-24",
+  "lacunas": [
+    "Mesmo contrafactual de L12 (depende da base e do deflator).",
+    "Checagem feita apenas com fontes oficiais (governo federal, estadual, Legislativo, Judiciário, TSE, órgãos intergovernamentais e governos estrangeiros), sem imprensa nem agências de checagem, por decisão editorial desta edição."
+  ],
+  "changelog": [
+    {
+      "data": "2026-10-24",
+      "o_que_mudou": "publicação (checagem só com fontes oficiais)"
+    }
+  ],
+  "id_no_debate": "L14",
+  "leitura_checada": "O mínimo chegou a ~R$ 1.600 (R$ 1.621) por causa dos ganhos reais dos governos PT; sem eles seria ~R$ 900.",
+  "leitura_incerta": false
+}

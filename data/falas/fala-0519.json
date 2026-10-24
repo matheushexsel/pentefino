@@ -1,0 +1,98 @@
+{
+  "id": "fala-0519",
+  "slug": "flavio-globo-hoje-la-celular-fica-preso-causa-audiencia-custodia",
+  "evento_id": "debate-globo-2turno-2026-10-23",
+  "candidato": "flavio-bolsonaro",
+  "lado": "oposicao-flavio-pl",
+  "minuto": "Bloco 3 — pergunta 3 · clipe g1 03:27",
+  "url_trecho": "https://youtu.be/T8oPN6v1L0c?t=207",
+  "frase_literal": "hoje lá no celular não fica preso por causa da audiência de custódia que mais uma vez foi o CNJ durante o governo de esquerda que criou inclusive quando tinha na presidência lá o ex-ministro [...] Ricardo Lewandowski",
+  "literal": true,
+  "variantes_literais": [],
+  "tema": "seguranca",
+  "veredito": "verdadeiro-mas",
+  "resumo_uma_frase": "O CNJ criou a audiência de custódia em 2015, sob Lewandowski, mas o CNJ é do Judiciário, a regra vem de tratados internacionais e virou lei em 2019, sancionada por Jair Bolsonaro.",
+  "explicacao_simples": [
+    "A Resolução CNJ nº 213/2015, assinada por Ricardo Lewandowski, obriga a apresentar todo preso em flagrante a um juiz em até 24 horas.",
+    "A norma cita o Pacto de San José da Costa Rica e a ADPF 347 do STF; o CNJ é órgão do Judiciário, não do governo.",
+    "A Lei 13.964/2019 (Pacote Anticrime), sancionada por Bolsonaro, levou a audiência de custódia para o Código de Processo Penal, e a Lei Antifacção de 2026 a manteve.",
+    "Na audiência, o juiz pode converter a prisão em preventiva; ela não garante soltura."
+  ],
+  "o_que_e_verdade": [
+    "A audiência de custódia nasceu de resolução do CNJ de 2015, na gestão de Lewandowski, durante o governo Dilma."
+  ],
+  "o_que_nao_se_sustenta": [
+    "Não foi ato do 'governo', e a regra foi depois confirmada em lei sancionada por Bolsonaro.",
+    "A audiência não determina, por si, a soltura."
+  ],
+  "numeros": [],
+  "fontes_primarias": [
+    {
+      "nome": "CNJ — Resolução nº 213, de 15/12/2015 (audiências de custódia), assinada pelo ministro Ricardo Lewandowski",
+      "url": "https://atos.cnj.jus.br/atos/detalhar/2234",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-judiciario"
+    },
+    {
+      "nome": "Planalto — Código de Processo Penal, art. 310 (audiência de custódia), texto compilado",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3689compilado.htm",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    },
+    {
+      "nome": "Planalto — Lei 13.964/2019 (Pacote Anticrime), nova redação do art. 310 do CPP",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13964.htm",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    }
+  ],
+  "base_legal": [
+    {
+      "norma": "Resolução CNJ 213/2015",
+      "o_que_diz": "Apresentação de toda pessoa presa à autoridade judicial em 24 horas.",
+      "url": "https://atos.cnj.jus.br/atos/detalhar/2234"
+    },
+    {
+      "norma": "CPP, art. 310 (redação da Lei 13.964/2019, atualizada pela Lei 15.358/2026)",
+      "o_que_diz": "O juiz deve promover audiência de custódia e relaxar a prisão ilegal, converter em preventiva ou conceder liberdade provisória.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3689compilado.htm"
+    }
+  ],
+  "checagens_externas": [],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "CNJ — Resolução nº 213, de 15/12/2015 (audiências de custódia), assinada pelo ministro Ricardo Lewandowski",
+      "url": "https://atos.cnj.jus.br/atos/detalhar/2234",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-judiciario"
+    },
+    {
+      "nome": "Planalto — Código de Processo Penal, art. 310 (audiência de custódia), texto compilado",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3689compilado.htm",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    },
+    {
+      "nome": "Planalto — Lei 13.964/2019 (Pacote Anticrime), nova redação do art. 310 do CPP",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13964.htm",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/17_debate_globo_2026-10-23_checagem.md",
+  "atualizado_em": "2026-10-24",
+  "lacunas": [
+    "Checagem feita apenas com fontes oficiais (governo federal, estadual, Legislativo, Judiciário, TSE, órgãos intergovernamentais e governos estrangeiros), sem imprensa nem agências de checagem, por decisão editorial desta edição."
+  ],
+  "changelog": [
+    {
+      "data": "2026-10-24",
+      "o_que_mudou": "publicação (checagem só com fontes oficiais)"
+    }
+  ],
+  "id_no_debate": "F91",
+  "leitura_checada": "O ladrão de celular não fica preso por causa da audiência de custódia, criada pelo CNJ 'durante o governo de esquerda', na presidência de Ricardo Lewandowski.",
+  "leitura_incerta": false
+}

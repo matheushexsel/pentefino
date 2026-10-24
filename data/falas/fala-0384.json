@@ -1,0 +1,111 @@
+{
+  "id": "fala-0384",
+  "slug": "lula-globo-abrimos-700-novos-mercados-nesse-pais",
+  "evento_id": "debate-globo-2turno-2026-10-23",
+  "candidato": "lula",
+  "lado": "governo-lula-pt",
+  "minuto": "Bloco 1 — pergunta 3 · clipe g1 01:54",
+  "url_trecho": "https://youtu.be/Z2AA0h2wr4U?t=114",
+  "frase_literal": "Abrimos 700 novos mercados nesse país",
+  "literal": true,
+  "variantes_literais": [],
+  "tema": "relacoes-exteriores",
+  "veredito": "verdadeiro-mas",
+  "resumo_uma_frase": "O Ministério da Agricultura anunciou em 13/10/2026 a marca de 700 aberturas de mercado desde 2023, mas cada 'mercado' é a autorização de um produto para um país, não um país novo.",
+  "explicacao_simples": [
+    "O MAPA conta como 'abertura de mercado' cada autorização sanitária de um produto para um destino (por exemplo, sementes de crotalária para a Argentina).",
+    "Por esse critério, o governo anunciou 700 aberturas desde o início de 2023; a página de campanha do MAPA ainda mostrava 642 em 91 destinos.",
+    "O número bate com o dado oficial, mas não significa 700 países ou 700 novos compradores relevantes."
+  ],
+  "o_que_e_verdade": [
+    "O MAPA anunciou a marca de 700 novos mercados abertos para produtos agropecuários desde o início de 2023 (aviso de pauta de 12/10/2026)."
+  ],
+  "o_que_nao_se_sustenta": [
+    "A palavra 'mercados' pode sugerir países; a contagem oficial é por produto e destino (a página do MAPA indicava 91 destinos)."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Aberturas de mercado para o agro desde 2023 (anúncio)",
+      "valor": 700,
+      "unidade": "aberturas (produto x destino)",
+      "periodo": "jan/2023–out/2026",
+      "fonte": {
+        "nome": "MAPA — 'Vice-presidente Geraldo Alckmin e ministro André de Paula anunciam marca de 700 novos mercados abertos para o agro brasileiro' (12/10/2026)",
+        "url": "https://www.gov.br/agricultura/pt-br/assuntos/noticias/vice-presidente-geraldo-alckmin-e-ministro-andre-de-paula-anunciam-marca-de-700-novos-mercados-abertos-para-o-agro-brasileiro",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Aberturas exibidas na página de campanha do MAPA",
+      "valor": 642,
+      "unidade": "aberturas em 91 destinos",
+      "periodo": "data de atualização não informada",
+      "fonte": {
+        "nome": "MAPA — página 'Agro brasileiro'",
+        "url": "https://www.gov.br/agricultura/pt-br/campanhas/agro-brasileiro",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    }
+  ],
+  "fontes_primarias": [
+    {
+      "nome": "MAPA — 'Vice-presidente Geraldo Alckmin e ministro André de Paula anunciam marca de 700 novos mercados abertos para o agro brasileiro' (12/10/2026)",
+      "url": "https://www.gov.br/agricultura/pt-br/assuntos/noticias/vice-presidente-geraldo-alckmin-e-ministro-andre-de-paula-anunciam-marca-de-700-novos-mercados-abertos-para-o-agro-brasileiro",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    },
+    {
+      "nome": "MAPA/MRE — Nota conjunta 'Aberturas de mercado para produtos brasileiros na Argentina, Egito, Marrocos, Peru, Quênia e Singapura' (23/10/2026)",
+      "url": "https://www.gov.br/agricultura/pt-br/assuntos/noticias/aberturas-de-mercado-para-produtos-brasileiros-na-argentina-egito-marrocos-peru-quenia-e-singapura",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    },
+    {
+      "nome": "MAPA — página 'Agro brasileiro'",
+      "url": "https://www.gov.br/agricultura/pt-br/campanhas/agro-brasileiro",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "MAPA — 'Vice-presidente Geraldo Alckmin e ministro André de Paula anunciam marca de 700 novos mercados abertos para o agro brasileiro' (12/10/2026)",
+      "url": "https://www.gov.br/agricultura/pt-br/assuntos/noticias/vice-presidente-geraldo-alckmin-e-ministro-andre-de-paula-anunciam-marca-de-700-novos-mercados-abertos-para-o-agro-brasileiro",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    },
+    {
+      "nome": "MAPA/MRE — Nota conjunta 'Aberturas de mercado para produtos brasileiros na Argentina, Egito, Marrocos, Peru, Quênia e Singapura' (23/10/2026)",
+      "url": "https://www.gov.br/agricultura/pt-br/assuntos/noticias/aberturas-de-mercado-para-produtos-brasileiros-na-argentina-egito-marrocos-peru-quenia-e-singapura",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    },
+    {
+      "nome": "MAPA — página 'Agro brasileiro'",
+      "url": "https://www.gov.br/agricultura/pt-br/campanhas/agro-brasileiro",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/17_debate_globo_2026-10-23_checagem.md",
+  "atualizado_em": "2026-10-24",
+  "lacunas": [
+    "O painel interativo de aberturas do MAPA não foi baixado; não se mediu o valor exportado pelas novas aberturas.",
+    "Checagem feita apenas com fontes oficiais (governo federal, estadual, Legislativo, Judiciário, TSE, órgãos intergovernamentais e governos estrangeiros), sem imprensa nem agências de checagem, por decisão editorial desta edição."
+  ],
+  "changelog": [
+    {
+      "data": "2026-10-24",
+      "o_que_mudou": "publicação (checagem só com fontes oficiais)"
+    }
+  ],
+  "id_no_debate": "L21",
+  "leitura_checada": "'Abrimos 700 novos mercados' = 700 aberturas de mercado para produtos agropecuários desde 2023 (contagem do MAPA). 'nesse país' parece ruído da legenda.",
+  "leitura_incerta": false
+}

@@ -1,0 +1,102 @@
+{
+  "id": "fala-0410",
+  "slug": "flavio-globo-fizemos-marco-legal-exatamente-houvesse-investimento-ate-2033",
+  "evento_id": "debate-globo-2turno-2026-10-23",
+  "candidato": "flavio-bolsonaro",
+  "lado": "oposicao-flavio-pl",
+  "minuto": "Bloco 1 — pergunta 5 · clipe g1 00:35",
+  "url_trecho": "https://youtu.be/K-kGhpDV4zA?t=35",
+  "frase_literal": "E nós fizemos esse marco legal exatamente para que houvesse o investimento e até 2033 nós pudéssemos garantir que mais de 90% dos brasileiros tivessem acesso a esses dois bens básicos",
+  "literal": true,
+  "variantes_literais": [],
+  "tema": "eleicao-2026",
+  "veredito": "verdadeiro",
+  "resumo_uma_frase": "A Lei 14.026/2020 fixou metas de 99% da população com água potável e 90% com coleta e tratamento de esgoto até 31/12/2033, com prorrogação possível até 2040 em casos específicos.",
+  "explicacao_simples": [
+    "O art. 11-B da Lei 11.445/2007, com redação da Lei 14.026/2020, exige 99% de água e 90% de esgoto até o fim de 2033.",
+    "O mesmo artigo permite estender o prazo até 1º/01/2040 se estudos mostrarem inviabilidade econômico-financeira, com anuência da agência reguladora.",
+    "O texto compilado do Planalto mantém esse prazo hoje."
+  ],
+  "o_que_e_verdade": [
+    "As metas e o prazo de 2033 estão na lei."
+  ],
+  "o_que_nao_se_sustenta": [],
+  "numeros": [
+    {
+      "rotulo": "Meta de atendimento com água potável",
+      "valor": 99,
+      "unidade": "% da população",
+      "periodo": "até 31/12/2033",
+      "fonte": {
+        "nome": "Planalto — Lei 11.445/2007, texto compilado (art. 11-B, metas de universalização)",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11445compilado.htm",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-legislativo"
+      }
+    },
+    {
+      "rotulo": "Meta de coleta e tratamento de esgoto",
+      "valor": 90,
+      "unidade": "% da população",
+      "periodo": "até 31/12/2033",
+      "fonte": {
+        "nome": "Planalto — Lei 11.445/2007, texto compilado (art. 11-B, metas de universalização)",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11445compilado.htm",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-legislativo"
+      }
+    }
+  ],
+  "fontes_primarias": [
+    {
+      "nome": "Planalto — Lei 11.445/2007, texto compilado (art. 11-B, metas de universalização)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11445compilado.htm",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    },
+    {
+      "nome": "Planalto — Lei 14.026, de 15/07/2020 (Novo Marco Legal do Saneamento)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l14026.htm",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    }
+  ],
+  "base_legal": [
+    {
+      "norma": "Lei 11.445/2007, art. 11-B (redação da Lei 14.026/2020)",
+      "o_que_diz": "Metas de 99% de água potável e 90% de coleta e tratamento de esgoto até 31/12/2033; §9º permite dilação até 1º/01/2040.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11445compilado.htm"
+    }
+  ],
+  "checagens_externas": [],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Planalto — Lei 11.445/2007, texto compilado (art. 11-B, metas de universalização)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11445compilado.htm",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    },
+    {
+      "nome": "Planalto — Lei 14.026, de 15/07/2020 (Novo Marco Legal do Saneamento)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l14026.htm",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/17_debate_globo_2026-10-23_checagem.md",
+  "atualizado_em": "2026-10-24",
+  "lacunas": [
+    "Checagem feita apenas com fontes oficiais (governo federal, estadual, Legislativo, Judiciário, TSE, órgãos intergovernamentais e governos estrangeiros), sem imprensa nem agências de checagem, por decisão editorial desta edição."
+  ],
+  "changelog": [
+    {
+      "data": "2026-10-24",
+      "o_que_mudou": "publicação (checagem só com fontes oficiais)"
+    }
+  ],
+  "id_no_debate": "F33",
+  "leitura_checada": "O marco legal fixou metas para 2033: mais de 90% com água e esgoto.",
+  "leitura_incerta": false
+}

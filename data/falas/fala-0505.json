@@ -1,0 +1,88 @@
+{
+  "id": "fala-0505",
+  "slug": "lula-globo-pe-meia-fazendo-66-das-criancas-desistissem-mais",
+  "evento_id": "debate-globo-2turno-2026-10-23",
+  "candidato": "lula",
+  "lado": "governo-lula-pt",
+  "minuto": "Bloco 3 — pergunta 2 · clipe g1 04:37",
+  "url_trecho": "https://youtu.be/2S2HvBYOk24?t=277",
+  "frase_literal": "com o pé de meia fazendo com que 66% das crianças não desistissem mais da escola",
+  "literal": true,
+  "variantes_literais": [],
+  "tema": "educacao",
+  "veredito": "impreciso",
+  "resumo_uma_frase": "O MEC atribui ao Pé-de-Meia uma queda de 43% no abandono do ensino médio (de 6,4% para 3,6%), e de 61% entre 2022 e 2025; 66% é o índice de alfabetização, não de alunos que deixaram de desistir.",
+  "explicacao_simples": [
+    "O MEC informa que a taxa de abandono no ensino médio caiu de 6,4% para 3,6% (–43%) e que, na rede pública, o abandono caiu 61% entre 2022 e 2025.",
+    "O número 66% aparece nos dados oficiais como índice de crianças alfabetizadas em 2025, não como efeito do Pé-de-Meia.",
+    "Os números do MEC comparam anos antes e depois e não isolam o efeito do programa de outras políticas."
+  ],
+  "o_que_e_verdade": [
+    "O abandono no ensino médio caiu depois do Pé-de-Meia, segundo o MEC/Censo Escolar."
+  ],
+  "o_que_nao_se_sustenta": [
+    "'66% das crianças não desistissem': os percentuais oficiais de queda do abandono são 43% e 61%; 66% é a alfabetização na idade certa.",
+    "A frase transforma uma queda de taxa em proporção de alunos, o que não corresponde ao dado."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Queda do abandono no ensino médio (rede pública)",
+      "valor": 61,
+      "unidade": "%",
+      "periodo": "2022→2025",
+      "fonte": {
+        "nome": "Agência Brasil (reprodução de dados do MEC/Censo Escolar), 'Censo Escolar: Brasil reduz índices de reprovação, abandono e atraso' (jun/2026)",
+        "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/censo-escolar-brasil-reduz-reprovacao-abandono-e-atraso-estudantil",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Índice de alfabetização (Criança Alfabetizada)",
+      "valor": 66,
+      "unidade": "%",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Agência Brasil (reprodução de dados do MEC/Censo Escolar), 'Censo Escolar: Brasil reduz índices de reprovação, abandono e atraso' (jun/2026)",
+        "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/censo-escolar-brasil-reduz-reprovacao-abandono-e-atraso-estudantil",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    }
+  ],
+  "fontes_primarias": [
+    {
+      "nome": "Agência Brasil (reprodução de dados do MEC/Censo Escolar), 'Censo Escolar: Brasil reduz índices de reprovação, abandono e atraso' (jun/2026)",
+      "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/censo-escolar-brasil-reduz-reprovacao-abandono-e-atraso-estudantil",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Agência Brasil (reprodução de dados do MEC/Censo Escolar), 'Censo Escolar: Brasil reduz índices de reprovação, abandono e atraso' (jun/2026)",
+      "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/censo-escolar-brasil-reduz-reprovacao-abandono-e-atraso-estudantil",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/17_debate_globo_2026-10-23_checagem.md",
+  "atualizado_em": "2026-10-24",
+  "lacunas": [
+    "O comunicado do MEC/Agência Gov sobre o '–43%' (6,4%→3,6%) está suspenso pela legislação eleitoral; o número consta de reprodução da Agência Brasil não lida integralmente. Microdados de fluxo do Inep não consultados.",
+    "Checagem feita apenas com fontes oficiais (governo federal, estadual, Legislativo, Judiciário, TSE, órgãos intergovernamentais e governos estrangeiros), sem imprensa nem agências de checagem, por decisão editorial desta edição."
+  ],
+  "changelog": [
+    {
+      "data": "2026-10-24",
+      "o_que_mudou": "publicação (checagem só com fontes oficiais)"
+    }
+  ],
+  "id_no_debate": "L83",
+  "leitura_checada": "Leitura literal da legenda.",
+  "leitura_incerta": false
+}

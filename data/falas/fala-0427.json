@@ -1,0 +1,88 @@
+{
+  "id": "fala-0427",
+  "slug": "lula-globo-levamos-industria-automobilistica-pernambuco-levamos-outra-pra-bahia",
+  "evento_id": "debate-globo-2turno-2026-10-23",
+  "candidato": "lula",
+  "lado": "governo-lula-pt",
+  "minuto": "Bloco 1 — pergunta 6 · clipe g1 03:21",
+  "url_trecho": "https://youtu.be/vASlNIMp2PM?t=201",
+  "frase_literal": "Nós levamos [indústria] automobilística para Pernambuco. [...] nós levamos outra pra Bahia, levamos pro Ceará",
+  "literal": true,
+  "variantes_literais": [],
+  "tema": "eleicao-2026",
+  "veredito": "verdadeiro-mas",
+  "resumo_uma_frase": "Há fábricas recentes nos três estados, mas a de Pernambuco foi inaugurada em 2015 (governo Dilma) e a do Ceará opera em montagem de kits; a negociação de Goiana começou em 2010 com o governo estadual.",
+  "explicacao_simples": [
+    "Pernambuco: o polo da Jeep em Goiana foi inaugurado em 28/04/2015, com a presença da presidente Dilma Rousseff; as negociações começaram em 2010, na gestão do governador Eduardo Campos (governo de PE).",
+    "Bahia: a fábrica da BYD em Camaçari foi inaugurada em out/2025, com participação de Lula (Planalto).",
+    "Ceará: o Polo Automotivo de Horizonte começou a operar em 2025 com montagem SKD (kits importados) de modelos da GM (governo do CE)."
+  ],
+  "o_que_e_verdade": [
+    "Existem plantas automotivas novas em PE (2015), BA (2025) e CE (2025) associadas a governos do PT."
+  ],
+  "o_que_nao_se_sustenta": [
+    "Atribuir as fábricas só ao governo federal omite o papel dos governos estaduais e das empresas; a planta do Ceará é, por ora, de montagem de kits."
+  ],
+  "numeros": [],
+  "fontes_primarias": [
+    {
+      "nome": "Governo de Pernambuco/ADEPE – 'Fiat inaugura sua fábrica da Jeep em Goiana' (28/04/2015)",
+      "url": "https://www.adepe.pe.gov.br/na-rota-do-desenvolvimento-fiat-inaugura-sua-fabrica-da-jeep-em-goiana/",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-estadual/municipal"
+    },
+    {
+      "nome": "Planalto, out/2025 – 'Presidente Lula participa da inauguração da fábrica da montadora chinesa BYD em Camaçari (BA)'",
+      "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/noticias/2025/10/presidente-lula-participa-da-inauguracao-da-fabrica-da-montadora-chinesa-byd-em-camacari-ba",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    },
+    {
+      "nome": "Governo do Ceará, 08/09/2025 – Polo Automotivo do Ceará anuncia início das operações com a GM",
+      "url": "https://www.ceara.gov.br/2025/09/08/primeira-planta-automotiva-multimarcas-do-brasil-polo-automotivo-do-ceara-anuncia-inicio-das-operacoes-com-a-general-motors-gm/",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-estadual/municipal"
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Governo de Pernambuco/ADEPE – 'Fiat inaugura sua fábrica da Jeep em Goiana' (28/04/2015)",
+      "url": "https://www.adepe.pe.gov.br/na-rota-do-desenvolvimento-fiat-inaugura-sua-fabrica-da-jeep-em-goiana/",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-estadual/municipal"
+    },
+    {
+      "nome": "Planalto, out/2025 – 'Presidente Lula participa da inauguração da fábrica da montadora chinesa BYD em Camaçari (BA)'",
+      "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/noticias/2025/10/presidente-lula-participa-da-inauguracao-da-fabrica-da-montadora-chinesa-byd-em-camacari-ba",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    },
+    {
+      "nome": "Governo do Ceará, 08/09/2025 – Polo Automotivo do Ceará anuncia início das operações com a GM",
+      "url": "https://www.ceara.gov.br/2025/09/08/primeira-planta-automotiva-multimarcas-do-brasil-polo-automotivo-do-ceara-anuncia-inicio-das-operacoes-com-a-general-motors-gm/",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-estadual/municipal"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/17_debate_globo_2026-10-23_checagem.md",
+  "atualizado_em": "2026-10-24",
+  "lacunas": [
+    "Leitura incerta da legenda automática; a checagem usou a leitura: 'indo automobilística' = indústria automobilística; leitura: os governos de Lula levaram fábricas de veículos para Pernambuco, Bahia e Ceará.",
+    "As páginas do Planalto (BYD) e do governo do Ceará não abriram por acesso automatizado (captcha/erro de certificado/503); os dados de BA e CE vêm dos títulos e trechos dessas páginas oficiais em índice de busca.",
+    "Papel exato do governo federal (incentivos da Lei 9.440/1997, FDNE) não quantificado.",
+    "Checagem feita apenas com fontes oficiais (governo federal, estadual, Legislativo, Judiciário, TSE, órgãos intergovernamentais e governos estrangeiros), sem imprensa nem agências de checagem, por decisão editorial desta edição."
+  ],
+  "changelog": [
+    {
+      "data": "2026-10-24",
+      "o_que_mudou": "publicação (checagem só com fontes oficiais)"
+    }
+  ],
+  "id_no_debate": "L43",
+  "leitura_checada": "'indo automobilística' = indústria automobilística; leitura: os governos de Lula levaram fábricas de veículos para Pernambuco, Bahia e Ceará.",
+  "leitura_incerta": true
+}

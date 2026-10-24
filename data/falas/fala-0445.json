@@ -1,0 +1,147 @@
+{
+  "id": "fala-0445",
+  "slug": "flavio-globo-arroz-feijao-carne-ta-tudo-mais-caro-seu",
+  "evento_id": "debate-globo-2turno-2026-10-23",
+  "candidato": "flavio-bolsonaro",
+  "lado": "oposicao-flavio-pl",
+  "minuto": "Bloco 2 — pergunta 1 · clipe g1 06:37",
+  "url_trecho": "https://youtu.be/QhluFzoPl30?t=397",
+  "frase_literal": "arroz, feijão, carne? Tá tudo mais caro no seu governo",
+  "literal": true,
+  "variantes_literais": [],
+  "tema": "eleicao-2026",
+  "veredito": "falta-contexto",
+  "resumo_uma_frase": "Desde jan/2023, carnes subiram 18,5% (igual à inflação geral), mas arroz (+3,9%) e feijão-carioca (+3,0%) subiram muito menos que a inflação e o feijão-preto ficou mais barato (−3,7%); em 12 meses, porém, o feijão disparou.",
+  "explicacao_simples": [
+    "IPCA acumulado de jan/2023 a set/2026: índice geral +18,9%; carnes +18,5%; arroz +3,9%; feijão-carioca +3,0%; feijão-preto −3,7%.",
+    "No período 2020–2022 as altas foram muito maiores: arroz +55%, feijão-carioca +36%, carnes +30%.",
+    "Nos últimos 12 meses (até set/2026), o feijão-carioca subiu 39% e o preto 26%, enquanto o arroz caiu 2,6%."
+  ],
+  "o_que_e_verdade": [
+    "Preços nominais de arroz, feijão-carioca e carnes estão acima dos de dez/2022; o feijão subiu forte em 2026."
+  ],
+  "o_que_nao_se_sustenta": [
+    "Descontada a inflação, arroz e feijão ficaram mais baratos no período; o feijão-preto caiu até em valor nominal."
+  ],
+  "numeros": [
+    {
+      "rotulo": "IPCA geral, acumulado",
+      "valor": 18.87,
+      "unidade": "%",
+      "periodo": "jan/2023–set/2026",
+      "fonte": {
+        "nome": "IBGE/SIDRA, tabela 7060 (IPCA, variação mensal por subitem, v63)",
+        "url": "https://apisidra.ibge.gov.br/values/t/7060/n1/all/v/63/p/202001-202609/c315/7169,7171,7173,7176,12222,7283,7355",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "IPCA carnes",
+      "valor": 18.5,
+      "unidade": "%",
+      "periodo": "jan/2023–set/2026",
+      "fonte": {
+        "nome": "IBGE/SIDRA, tabela 7060 (IPCA, variação mensal por subitem, v63)",
+        "url": "https://apisidra.ibge.gov.br/values/t/7060/n1/all/v/63/p/202001-202609/c315/7169,7171,7173,7176,12222,7283,7355",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "IPCA arroz",
+      "valor": 3.92,
+      "unidade": "%",
+      "periodo": "jan/2023–set/2026",
+      "fonte": {
+        "nome": "IBGE/SIDRA, tabela 7060 (IPCA, variação mensal por subitem, v63)",
+        "url": "https://apisidra.ibge.gov.br/values/t/7060/n1/all/v/63/p/202001-202609/c315/7169,7171,7173,7176,12222,7283,7355",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "IPCA feijão-carioca",
+      "valor": 3.02,
+      "unidade": "%",
+      "periodo": "jan/2023–set/2026",
+      "fonte": {
+        "nome": "IBGE/SIDRA, tabela 7060 (IPCA, variação mensal por subitem, v63)",
+        "url": "https://apisidra.ibge.gov.br/values/t/7060/n1/all/v/63/p/202001-202609/c315/7169,7171,7173,7176,12222,7283,7355",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "IPCA feijão-preto",
+      "valor": -3.68,
+      "unidade": "%",
+      "periodo": "jan/2023–set/2026",
+      "fonte": {
+        "nome": "IBGE/SIDRA, tabela 7060 (IPCA, variação mensal por subitem, v63)",
+        "url": "https://apisidra.ibge.gov.br/values/t/7060/n1/all/v/63/p/202001-202609/c315/7169,7171,7173,7176,12222,7283,7355",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "IPCA arroz",
+      "valor": 55.05,
+      "unidade": "%",
+      "periodo": "jan/2020–dez/2022",
+      "fonte": {
+        "nome": "IBGE/SIDRA, tabela 7060 (IPCA, variação mensal por subitem, v63)",
+        "url": "https://apisidra.ibge.gov.br/values/t/7060/n1/all/v/63/p/202001-202609/c315/7169,7171,7173,7176,12222,7283,7355",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "IPCA feijão-carioca, 12 meses",
+      "valor": 39.11,
+      "unidade": "%",
+      "periodo": "out/2025–set/2026",
+      "fonte": {
+        "nome": "IBGE/SIDRA, tabela 7060 (IPCA, variação mensal por subitem, v63)",
+        "url": "https://apisidra.ibge.gov.br/values/t/7060/n1/all/v/63/p/202001-202609/c315/7169,7171,7173,7176,12222,7283,7355",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    }
+  ],
+  "fontes_primarias": [
+    {
+      "nome": "IBGE/SIDRA, tabela 7060 (IPCA, variação mensal por subitem, v63)",
+      "url": "https://apisidra.ibge.gov.br/values/t/7060/n1/all/v/63/p/202001-202609/c315/7169,7171,7173,7176,12222,7283,7355",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "IBGE/SIDRA, tabela 7060 (IPCA, variação mensal por subitem, v63)",
+      "url": "https://apisidra.ibge.gov.br/values/t/7060/n1/all/v/63/p/202001-202609/c315/7169,7171,7173,7176,12222,7283,7355",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/17_debate_globo_2026-10-23_checagem.md",
+  "atualizado_em": "2026-10-24",
+  "lacunas": [
+    "Acumulados calculados pela composição das variações mensais (cálculo próprio).",
+    "Checagem feita apenas com fontes oficiais (governo federal, estadual, Legislativo, Judiciário, TSE, órgãos intergovernamentais e governos estrangeiros), sem imprensa nem agências de checagem, por decisão editorial desta edição."
+  ],
+  "changelog": [
+    {
+      "data": "2026-10-24",
+      "o_que_mudou": "publicação (checagem só com fontes oficiais)"
+    }
+  ],
+  "id_no_debate": "F48",
+  "leitura_checada": "Arroz, feijão e carne estão mais caros no governo Lula.",
+  "leitura_incerta": false
+}

@@ -1,0 +1,195 @@
+{
+  "id": "fala-0554",
+  "slug": "lula-globo-pedir-outra-vez-pro-google-ver-quem-gastava",
+  "evento_id": "debate-globo-2turno-2026-10-23",
+  "candidato": "lula",
+  "lado": "governo-lula-pt",
+  "minuto": "Considerações finais — Lula · clipe g1 00:31",
+  "url_trecho": "https://youtu.be/NnDsZaMp9Vw?t=31",
+  "frase_literal": "pedir outra vez pro Google ver quem é que gastava mais no cartão corporativo. Se é o mandato do Lula ou o mandato do Bolsonaro. [...] Eles gastaram quase 30% a mais do que nós",
+  "literal": true,
+  "variantes_literais": [],
+  "tema": "corrupcao",
+  "veredito": "impreciso",
+  "resumo_uma_frase": "Somando toda a Presidência (inclusive a Abin), o governo Bolsonaro gastou 19% mais em valores reais nos 4 anos, mas só 9,5% mais por mês; sem a Abin, ou só na Secretaria de Administração que paga despesas do presidente, o governo Lula gasta mais.",
+  "explicacao_simples": [
+    "Em valores corrigidos pelo IPCA, a Presidência gastou R$ 110,4 milhões com cartões em 2019–2022 e R$ 92,4 milhões em 2023–ago/2026 (44 meses): 19% a mais no total e 9,5% a mais na média mensal.",
+    "Grande parte da diferença vem da Abin, que gastou bem mais no período Bolsonaro; sem a Abin, o governo Lula gasta cerca de 15% a mais por mês (R$ 1,69 milhão contra R$ 1,47 milhão).",
+    "Nas unidades da Secretaria de Administração, que pagam as despesas do presidente, o gasto mensal real no governo Lula é cerca de 16% maior; em nenhum recorte a diferença chega a 30%."
+  ],
+  "o_que_e_verdade": [
+    "No recorte mais amplo (toda a Presidência, com Abin), o gasto real total de 2019–2022 é maior que o de 2023–ago/2026 — CGU/CPGF e IPCA/BCB."
+  ],
+  "o_que_nao_se_sustenta": [
+    "A diferença de \"quase 30%\" não aparece em nenhum recorte: é de +19% no total e +9,5% na média mensal, e se inverte quando se exclui a Abin ou se olha só a Secretaria de Administração."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Gasto CPGF real da Presidência (com Abin)",
+      "valor": 110.35,
+      "unidade": "R$ milhões a preços de set/2026",
+      "periodo": "2019–2022 (48 meses de extrato)",
+      "fonte": {
+        "nome": "Portal da Transparência (CGU) — download de dados \"Cartões de Pagamento do Governo Federal\" (CPGF), arquivos mensais 2019-01 a 2026-08",
+        "url": "https://portaldatransparencia.gov.br/download-de-dados/cpgf",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal",
+        "observacao": "arquivos baixados de dadosabertos-download.cgu.gov.br/PortalDaTransparencia/saida/cpgf/AAAAMM_CPGF.zip; os meses 2026-09 e 2026-10 ainda não estavam publicados"
+      }
+    },
+    {
+      "rotulo": "Gasto CPGF real da Presidência (com Abin)",
+      "valor": 92.39,
+      "unidade": "R$ milhões a preços de set/2026",
+      "periodo": "jan/2023–ago/2026 (44 meses de extrato)",
+      "fonte": {
+        "nome": "Portal da Transparência (CGU) — download de dados \"Cartões de Pagamento do Governo Federal\" (CPGF), arquivos mensais 2019-01 a 2026-08",
+        "url": "https://portaldatransparencia.gov.br/download-de-dados/cpgf",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal",
+        "observacao": "arquivos baixados de dadosabertos-download.cgu.gov.br/PortalDaTransparencia/saida/cpgf/AAAAMM_CPGF.zip; os meses 2026-09 e 2026-10 ainda não estavam publicados"
+      }
+    },
+    {
+      "rotulo": "Média mensal real — Bolsonaro (com Abin)",
+      "valor": 2.299,
+      "unidade": "R$ milhões/mês",
+      "periodo": "2019–2022",
+      "fonte": {
+        "nome": "Portal da Transparência (CGU) — download de dados \"Cartões de Pagamento do Governo Federal\" (CPGF), arquivos mensais 2019-01 a 2026-08",
+        "url": "https://portaldatransparencia.gov.br/download-de-dados/cpgf",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal",
+        "observacao": "arquivos baixados de dadosabertos-download.cgu.gov.br/PortalDaTransparencia/saida/cpgf/AAAAMM_CPGF.zip; os meses 2026-09 e 2026-10 ainda não estavam publicados"
+      }
+    },
+    {
+      "rotulo": "Média mensal real — Lula (com Abin)",
+      "valor": 2.1,
+      "unidade": "R$ milhões/mês",
+      "periodo": "jan/2023–ago/2026",
+      "fonte": {
+        "nome": "Portal da Transparência (CGU) — download de dados \"Cartões de Pagamento do Governo Federal\" (CPGF), arquivos mensais 2019-01 a 2026-08",
+        "url": "https://portaldatransparencia.gov.br/download-de-dados/cpgf",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal",
+        "observacao": "arquivos baixados de dadosabertos-download.cgu.gov.br/PortalDaTransparencia/saida/cpgf/AAAAMM_CPGF.zip; os meses 2026-09 e 2026-10 ainda não estavam publicados"
+      }
+    },
+    {
+      "rotulo": "Média mensal real sem Abin — Bolsonaro",
+      "valor": 1.468,
+      "unidade": "R$ milhões/mês",
+      "periodo": "2019–2022",
+      "fonte": {
+        "nome": "Portal da Transparência (CGU) — download de dados \"Cartões de Pagamento do Governo Federal\" (CPGF), arquivos mensais 2019-01 a 2026-08",
+        "url": "https://portaldatransparencia.gov.br/download-de-dados/cpgf",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal",
+        "observacao": "arquivos baixados de dadosabertos-download.cgu.gov.br/PortalDaTransparencia/saida/cpgf/AAAAMM_CPGF.zip; os meses 2026-09 e 2026-10 ainda não estavam publicados"
+      }
+    },
+    {
+      "rotulo": "Média mensal real sem Abin — Lula",
+      "valor": 1.688,
+      "unidade": "R$ milhões/mês",
+      "periodo": "jan/2023–ago/2026",
+      "fonte": {
+        "nome": "Portal da Transparência (CGU) — download de dados \"Cartões de Pagamento do Governo Federal\" (CPGF), arquivos mensais 2019-01 a 2026-08",
+        "url": "https://portaldatransparencia.gov.br/download-de-dados/cpgf",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal",
+        "observacao": "arquivos baixados de dadosabertos-download.cgu.gov.br/PortalDaTransparencia/saida/cpgf/AAAAMM_CPGF.zip; os meses 2026-09 e 2026-10 ainda não estavam publicados"
+      }
+    },
+    {
+      "rotulo": "Secretaria de Administração/PR — gasto real",
+      "valor": 55.84,
+      "unidade": "R$ milhões",
+      "periodo": "2019–2022",
+      "fonte": {
+        "nome": "Portal da Transparência (CGU) — download de dados \"Cartões de Pagamento do Governo Federal\" (CPGF), arquivos mensais 2019-01 a 2026-08",
+        "url": "https://portaldatransparencia.gov.br/download-de-dados/cpgf",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal",
+        "observacao": "arquivos baixados de dadosabertos-download.cgu.gov.br/PortalDaTransparencia/saida/cpgf/AAAAMM_CPGF.zip; os meses 2026-09 e 2026-10 ainda não estavam publicados"
+      }
+    },
+    {
+      "rotulo": "Secretaria de Administração/PR — gasto real",
+      "valor": 59.15,
+      "unidade": "R$ milhões",
+      "periodo": "jan/2023–ago/2026",
+      "fonte": {
+        "nome": "Portal da Transparência (CGU) — download de dados \"Cartões de Pagamento do Governo Federal\" (CPGF), arquivos mensais 2019-01 a 2026-08",
+        "url": "https://portaldatransparencia.gov.br/download-de-dados/cpgf",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal",
+        "observacao": "arquivos baixados de dadosabertos-download.cgu.gov.br/PortalDaTransparencia/saida/cpgf/AAAAMM_CPGF.zip; os meses 2026-09 e 2026-10 ainda não estavam publicados"
+      }
+    },
+    {
+      "rotulo": "IPCA acumulado usado na correção",
+      "valor": 50.9,
+      "unidade": "%",
+      "periodo": "jan/2019–set/2026",
+      "fonte": {
+        "nome": "Banco Central — SGS série 433 (IPCA, variação mensal), jan/2019 a set/2026",
+        "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.433/dados?formato=json&dataInicial=01/01/2019&dataFinal=30/09/2026",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    }
+  ],
+  "fontes_primarias": [
+    {
+      "nome": "Portal da Transparência (CGU) — download de dados \"Cartões de Pagamento do Governo Federal\" (CPGF), arquivos mensais 2019-01 a 2026-08",
+      "url": "https://portaldatransparencia.gov.br/download-de-dados/cpgf",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal",
+      "observacao": "arquivos baixados de dadosabertos-download.cgu.gov.br/PortalDaTransparencia/saida/cpgf/AAAAMM_CPGF.zip; os meses 2026-09 e 2026-10 ainda não estavam publicados"
+    },
+    {
+      "nome": "Banco Central — SGS série 433 (IPCA, variação mensal), jan/2019 a set/2026",
+      "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.433/dados?formato=json&dataInicial=01/01/2019&dataFinal=30/09/2026",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Portal da Transparência (CGU) — download de dados \"Cartões de Pagamento do Governo Federal\" (CPGF), arquivos mensais 2019-01 a 2026-08",
+      "url": "https://portaldatransparencia.gov.br/download-de-dados/cpgf",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal",
+      "observacao": "arquivos baixados de dadosabertos-download.cgu.gov.br/PortalDaTransparencia/saida/cpgf/AAAAMM_CPGF.zip; os meses 2026-09 e 2026-10 ainda não estavam publicados"
+    },
+    {
+      "nome": "Banco Central — SGS série 433 (IPCA, variação mensal), jan/2019 a set/2026",
+      "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.433/dados?formato=json&dataInicial=01/01/2019&dataFinal=30/09/2026",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/17_debate_globo_2026-10-23_checagem.md",
+  "atualizado_em": "2026-10-24",
+  "lacunas": [
+    "A base é organizada pelo mês do extrato (transações sigilosas não trazem data); há defasagem de cerca de um mês — o recorte com 1 mês de deslocamento dá resultado semelhante (+20% no total, +7,7% ao mês).",
+    "Extratos de set–out/2026 ainda não publicados, por isso o período Lula tem 44 meses.",
+    "Não se sabe qual recorte Lula usou; nenhum dá 30%.",
+    "Checagem feita apenas com fontes oficiais (governo federal, estadual, Legislativo, Judiciário, TSE, órgãos intergovernamentais e governos estrangeiros), sem imprensa nem agências de checagem, por decisão editorial desta edição."
+  ],
+  "changelog": [
+    {
+      "data": "2026-10-24",
+      "o_que_mudou": "publicação (checagem só com fontes oficiais)"
+    }
+  ],
+  "id_no_debate": "L96",
+  "leitura_checada": "Lula diz que no mandato de Bolsonaro gastou-se \"quase 30% a mais\" com cartão corporativo do que no dele. Checado: gastos CPGF da Presidência da República (órgão superior), em valores reais (IPCA a set/2026), 2019–2022 contra 2023–ago/2026.",
+  "leitura_incerta": false
+}

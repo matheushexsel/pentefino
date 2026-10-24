@@ -1,0 +1,111 @@
+{
+  "id": "fala-0555",
+  "slug": "lula-globo-comecei-trabalhar-12-anos-idade-vendi-tapioca-vendi",
+  "evento_id": "debate-globo-2turno-2026-10-23",
+  "candidato": "lula",
+  "lado": "governo-lula-pt",
+  "minuto": "Considerações finais — Lula · clipe g1 01:14",
+  "url_trecho": "https://youtu.be/NnDsZaMp9Vw?t=74",
+  "frase_literal": "Comecei a trabalhar com 12 anos de idade. Vendi tapioca, vendi laranja, vendi amendoim, vendi sardinha, trabalhei de tudo, [fui] engraxate, torneiro mecânico e virei presidente da República",
+  "literal": true,
+  "variantes_literais": [],
+  "tema": "eleicao-2026",
+  "veredito": "verdadeiro",
+  "resumo_uma_frase": "Registros oficiais do Senado e da Câmara confirmam que Lula começou a trabalhar aos 12 anos, foi vendedor ambulante e engraxate, formou-se torneiro mecânico no Senai e chegou à Presidência.",
+  "explicacao_simples": [
+    "A Agência Senado (2002) registra que Lula conseguiu o primeiro emprego aos 12 anos.",
+    "A TV Câmara (2002) registra que ele trabalhou como vendedor ambulante e engraxate antes do primeiro emprego fixo, numa tinturaria.",
+    "A Câmara registra o curso de torneiro mecânico no Senai; os produtos vendidos (tapioca, laranja, amendoim, sardinha) não aparecem nas fontes oficiais."
+  ],
+  "o_que_e_verdade": [
+    "Primeiro emprego aos 12 anos (Agência Senado).",
+    "Vendedor ambulante e engraxate (TV Câmara).",
+    "Torneiro mecânico pelo Senai (Câmara)."
+  ],
+  "o_que_nao_se_sustenta": [],
+  "numeros": [
+    {
+      "rotulo": "Idade no primeiro emprego",
+      "valor": 12,
+      "unidade": "anos",
+      "periodo": "década de 1950",
+      "fonte": {
+        "nome": "Agência Senado – 'Do agreste ao Planalto Central – a trajetória do novo Presidente da República' (30/12/2002)",
+        "url": "https://www12.senado.leg.br/noticias/materias/2002/12/30/do-agreste-ao-planalto-central-a-trajetoria-do-novo-presidente-da-republica",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-legislativo"
+      }
+    }
+  ],
+  "fontes_primarias": [
+    {
+      "nome": "Agência Senado – 'Do agreste ao Planalto Central – a trajetória do novo Presidente da República' (30/12/2002)",
+      "url": "https://www12.senado.leg.br/noticias/materias/2002/12/30/do-agreste-ao-planalto-central-a-trajetoria-do-novo-presidente-da-republica",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    },
+    {
+      "nome": "TV Câmara – 'Candidato do PT é o primeiro presidente da República de origem operária' (28/10/2002)",
+      "url": "https://www.camara.leg.br/tv/145715-candidato-do-pt-e-o-primeiro-presidente-da-republica-de-origem-operaria/",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    },
+    {
+      "nome": "Câmara dos Deputados – Biografia do deputado Luiz Inácio Lula da Silva (1987-1991)",
+      "url": "https://www.camara.leg.br/deputados/139289/biografia",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    },
+    {
+      "nome": "TSE – dados abertos, consulta_cand_2026 (BR): data de nascimento, ocupação",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand/consulta_cand_2026.zip",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-judiciario"
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Agência Senado – 'Do agreste ao Planalto Central – a trajetória do novo Presidente da República' (30/12/2002)",
+      "url": "https://www12.senado.leg.br/noticias/materias/2002/12/30/do-agreste-ao-planalto-central-a-trajetoria-do-novo-presidente-da-republica",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    },
+    {
+      "nome": "TV Câmara – 'Candidato do PT é o primeiro presidente da República de origem operária' (28/10/2002)",
+      "url": "https://www.camara.leg.br/tv/145715-candidato-do-pt-e-o-primeiro-presidente-da-republica-de-origem-operaria/",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    },
+    {
+      "nome": "Câmara dos Deputados – Biografia do deputado Luiz Inácio Lula da Silva (1987-1991)",
+      "url": "https://www.camara.leg.br/deputados/139289/biografia",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    },
+    {
+      "nome": "TSE – dados abertos, consulta_cand_2026 (BR): data de nascimento, ocupação",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand/consulta_cand_2026.zip",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-judiciario"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/17_debate_globo_2026-10-23_checagem.md",
+  "atualizado_em": "2026-10-24",
+  "lacunas": [
+    "Lista de produtos que vendia não confirmada em fonte oficial; biografia oficial do gov.br/planalto inacessível (captcha).",
+    "Checagem feita apenas com fontes oficiais (governo federal, estadual, Legislativo, Judiciário, TSE, órgãos intergovernamentais e governos estrangeiros), sem imprensa nem agências de checagem, por decisão editorial desta edição."
+  ],
+  "changelog": [
+    {
+      "data": "2026-10-24",
+      "o_que_mudou": "publicação (checagem só com fontes oficiais)"
+    }
+  ],
+  "id_no_debate": "L97",
+  "leitura_checada": "Leitura literal da legenda.",
+  "leitura_incerta": false
+}

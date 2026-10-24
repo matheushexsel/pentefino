@@ -1,0 +1,95 @@
+{
+  "id": "fala-0433",
+  "slug": "lula-globo-unico-deputado-estadual-rio-janeiro-votar-contra-aumento",
+  "evento_id": "debate-globo-2turno-2026-10-23",
+  "candidato": "lula",
+  "lado": "governo-lula-pt",
+  "minuto": "Bloco 2 — pergunta 1 · clipe g1 01:07",
+  "url_trecho": "https://youtu.be/QhluFzoPl30?t=67",
+  "frase_literal": "por que que ele foi o único deputado estadual do Rio de Janeiro a votar contra o aumento do da licença maternidade",
+  "literal": true,
+  "variantes_literais": [],
+  "tema": "eleicao-2026",
+  "veredito": "verdadeiro",
+  "resumo_uma_frase": "Flávio confirmou no próprio debate que votou contra a ampliação da licença-maternidade na Alerj (Lei Complementar estadual 128/2009); o 'único' voto não foi confirmado em registro oficial da Alerj.",
+  "explicacao_simples": [
+    "Em 2009 a Alerj aprovou a LC 128/2009, que ampliou a licença à gestante das servidoras estaduais do RJ para seis meses.",
+    "Na resposta, Flávio admitiu: 'na época eu votei acreditando que isso poderia dificultar que as mulheres conseguissem arrumar emprego. Eu tava errado.'",
+    "Que ele tenha sido o único voto contrário não aparece no registro da lei na Alerj consultado; essa parte segue sem fonte oficial."
+  ],
+  "o_que_e_verdade": [
+    "A LC 128/2009 (RJ), de iniciativa do governador (PLC 17/2009), publicada em 29/06/2009, ampliou a licença à gestante para seis meses.",
+    "Flávio confirmou o voto contrário no debate."
+  ],
+  "o_que_nao_se_sustenta": [
+    "'Único deputado' a votar contra: sem registro nominal da votação localizado no site da Alerj."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Licença à gestante (servidoras do RJ) após a LC 128/2009",
+      "valor": 6,
+      "unidade": "meses (+30 a 90 dias se houver aleitamento)",
+      "periodo": "2009",
+      "fonte": {
+        "nome": "Alerj – Lei Complementar nº 128/2009",
+        "url": "https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=3&url=L2NvbnRsZWkubnNmL2E5OWUzMTdhOWNmZWMzODMwMzI1Njg2MjAwNzFmNWQyLzc5YzJjNzdmODY5YjZmNjg4MzI1NzVlNDAwNmEwZWVkP09wZW5Eb2N1bWVudA==",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-estadual/municipal"
+      }
+    }
+  ],
+  "fontes_primarias": [
+    {
+      "nome": "Alerj – Lei Complementar nº 128, de 26/06/2009 (ficha com PLC 17/2009, autoria do Poder Executivo)",
+      "url": "https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=3&url=L2NvbnRsZWkubnNmL2E5OWUzMTdhOWNmZWMzODMwMzI1Njg2MjAwNzFmNWQyLzc5YzJjNzdmODY5YjZmNjg4MzI1NzVlNDAwNmEwZWVkP09wZW5Eb2N1bWVudA==",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-estadual/municipal"
+    },
+    {
+      "nome": "Registro primário do debate – resposta de Flávio",
+      "url": "https://youtu.be/QhluFzoPl30?t=81",
+      "acesso_em": "2026-10-24",
+      "tier": "registro-primario-do-debate"
+    }
+  ],
+  "base_legal": [
+    {
+      "norma": "Lei Complementar estadual (RJ) nº 128/2009",
+      "o_que_diz": "Altera o art. 19, III, do Decreto-Lei 220/1975: licença à gestante 'pelo prazo de seis meses', prorrogável por 30 a 90 dias em caso de aleitamento.",
+      "url": "https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=3&url=L2NvbnRsZWkubnNmL2E5OWUzMTdhOWNmZWMzODMwMzI1Njg2MjAwNzFmNWQyLzc5YzJjNzdmODY5YjZmNjg4MzI1NzVlNDAwNmEwZWVkP09wZW5Eb2N1bWVudA=="
+    }
+  ],
+  "checagens_externas": [],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Alerj – Lei Complementar nº 128, de 26/06/2009 (ficha com PLC 17/2009, autoria do Poder Executivo)",
+      "url": "https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=3&url=L2NvbnRsZWkubnNmL2E5OWUzMTdhOWNmZWMzODMwMzI1Njg2MjAwNzFmNWQyLzc5YzJjNzdmODY5YjZmNjg4MzI1NzVlNDAwNmEwZWVkP09wZW5Eb2N1bWVudA==",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-estadual/municipal"
+    },
+    {
+      "nome": "Registro primário do debate – resposta de Flávio",
+      "url": "https://youtu.be/QhluFzoPl30?t=81",
+      "acesso_em": "2026-10-24",
+      "tier": "registro-primario-do-debate"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/17_debate_globo_2026-10-23_checagem.md",
+  "atualizado_em": "2026-10-24",
+  "lacunas": [
+    "Votação nominal do PLC 17/2009 na Alerj (placar e nome dos votantes) não localizada: banco de projetos 2007–2011 da Alerj retornou erro; as atas e o Diário da Alerj de jun/2009 não foram consultados.",
+    "O placar '45 a 1' circula em agências de checagem (não usadas por regra).",
+    "Checagem feita apenas com fontes oficiais (governo federal, estadual, Legislativo, Judiciário, TSE, órgãos intergovernamentais e governos estrangeiros), sem imprensa nem agências de checagem, por decisão editorial desta edição."
+  ],
+  "changelog": [
+    {
+      "data": "2026-10-24",
+      "o_que_mudou": "publicação (checagem só com fontes oficiais)"
+    }
+  ],
+  "id_no_debate": "L47",
+  "leitura_checada": "Leitura literal da legenda.",
+  "leitura_incerta": false
+}

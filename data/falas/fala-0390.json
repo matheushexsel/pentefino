@@ -1,0 +1,150 @@
+{
+  "id": "fala-0390",
+  "slug": "flavio-globo-todos-governadores-eleitos-regiao-centro-oeste-sao-nossos",
+  "evento_id": "debate-globo-2turno-2026-10-23",
+  "candidato": "flavio-bolsonaro",
+  "lado": "oposicao-flavio-pl",
+  "minuto": "Bloco 1 — pergunta 3 · clipe g1 04:27",
+  "url_trecho": "https://youtu.be/Z2AA0h2wr4U?t=267",
+  "frase_literal": "a todos os governadores eleitos na região Centro-Oeste, que são nossos aliados",
+  "literal": true,
+  "variantes_literais": [],
+  "tema": "eleicao-2026",
+  "veredito": "falta-contexto",
+  "resumo_uma_frase": "Dos quatro entes do Centro-Oeste, só três elegeram governador no 1º turno, e em dois deles (GO e MT) o eleito venceu justamente o candidato do PL; o DF vai a 2º turno.",
+  "explicacao_simples": [
+    "Segundo o TSE, Daniel Vilela (MDB) venceu em Goiás, Otaviano Pivetta (Republicanos) em Mato Grosso e Eduardo Riedel (PP) em Mato Grosso do Sul; o DF tem 2º turno entre Celina Leão (PP) e Leandro Grass (PT).",
+    "O PL estava na coligação de Riedel (MS), mas lançou candidatos próprios contra Vilela (Wilder Morais) e contra Pivetta (Wellington Fagundes).",
+    "Apoios declarados depois do 1º turno não aparecem em registro oficial do TSE, por isso a palavra \"aliados\" só pode ser conferida para a fase de coligações."
+  ],
+  "o_que_e_verdade": [
+    "Os três governadores eleitos no Centro-Oeste no 1º turno são de partidos de centro-direita (MDB, Republicanos, PP) — TSE.",
+    "Em MS, a coligação vencedora de Eduardo Riedel incluiu o PL — TSE consulta_cand_2026.",
+    "No DF, a coligação de Celina Leão (2º turno) inclui o PL — TSE."
+  ],
+  "o_que_nao_se_sustenta": [
+    "Não há \"governador eleito\" no DF: a disputa vai ao 2º turno em 25/10/2026.",
+    "Em GO e MT os eleitos derrotaram os candidatos do PL (Wilder Morais, 21,96%; Wellington Fagundes, 23,19%), então não eram aliados formais do PL no 1º turno."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Daniel Vilela (MDB), GO — votos válidos",
+      "valor": 59.17,
+      "unidade": "%",
+      "periodo": "1º turno, 04/10/2026",
+      "fonte": {
+        "nome": "TSE — dados abertos, votacao_candidato_munzona_2026 (arquivo gerado 24/10/2026 05:31)",
+        "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2026.zip",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-judiciario"
+      }
+    },
+    {
+      "rotulo": "Wilder Morais (PL), GO",
+      "valor": 21.96,
+      "unidade": "%",
+      "periodo": "1º turno, 04/10/2026",
+      "fonte": {
+        "nome": "TSE — dados abertos, votacao_candidato_munzona_2026 (arquivo gerado 24/10/2026 05:31)",
+        "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2026.zip",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-judiciario"
+      }
+    },
+    {
+      "rotulo": "Otaviano Pivetta (Republicanos), MT",
+      "valor": 60.77,
+      "unidade": "%",
+      "periodo": "1º turno, 04/10/2026",
+      "fonte": {
+        "nome": "TSE — dados abertos, votacao_candidato_munzona_2026 (arquivo gerado 24/10/2026 05:31)",
+        "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2026.zip",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-judiciario"
+      }
+    },
+    {
+      "rotulo": "Wellington Fagundes (PL), MT",
+      "valor": 23.19,
+      "unidade": "%",
+      "periodo": "1º turno, 04/10/2026",
+      "fonte": {
+        "nome": "TSE — dados abertos, votacao_candidato_munzona_2026 (arquivo gerado 24/10/2026 05:31)",
+        "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2026.zip",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-judiciario"
+      }
+    },
+    {
+      "rotulo": "Eduardo Riedel (PP), MS — coligação com PL",
+      "valor": 67.07,
+      "unidade": "%",
+      "periodo": "1º turno, 04/10/2026",
+      "fonte": {
+        "nome": "TSE — dados abertos, votacao_candidato_munzona_2026 (arquivo gerado 24/10/2026 05:31)",
+        "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2026.zip",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-judiciario"
+      }
+    },
+    {
+      "rotulo": "Celina Leão (PP), DF — vai ao 2º turno",
+      "valor": 49.99,
+      "unidade": "%",
+      "periodo": "1º turno, 04/10/2026",
+      "fonte": {
+        "nome": "TSE — dados abertos, votacao_candidato_munzona_2026 (arquivo gerado 24/10/2026 05:31)",
+        "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2026.zip",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-judiciario"
+      }
+    }
+  ],
+  "fontes_primarias": [
+    {
+      "nome": "TSE — dados abertos, votacao_candidato_munzona_2026 (arquivo gerado 24/10/2026 05:31)",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2026.zip",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-judiciario"
+    },
+    {
+      "nome": "TSE — dados abertos, consulta_cand_2026 (situação de totalização e coligações; arquivo gerado 24/10/2026)",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand/consulta_cand_2026.zip",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-judiciario"
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "TSE — dados abertos, votacao_candidato_munzona_2026 (arquivo gerado 24/10/2026 05:31)",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2026.zip",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-judiciario"
+    },
+    {
+      "nome": "TSE — dados abertos, consulta_cand_2026 (situação de totalização e coligações; arquivo gerado 24/10/2026)",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand/consulta_cand_2026.zip",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-judiciario"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/17_debate_globo_2026-10-23_checagem.md",
+  "atualizado_em": "2026-10-24",
+  "lacunas": [
+    "Declarações de apoio de Vilela e Pivetta a Flávio no 2º turno não constam de base oficial; só a imprensa as registraria.",
+    "Checagem feita apenas com fontes oficiais (governo federal, estadual, Legislativo, Judiciário, TSE, órgãos intergovernamentais e governos estrangeiros), sem imprensa nem agências de checagem, por decisão editorial desta edição."
+  ],
+  "changelog": [
+    {
+      "data": "2026-10-24",
+      "o_que_mudou": "publicação (checagem só com fontes oficiais)"
+    }
+  ],
+  "id_no_debate": "F23",
+  "leitura_checada": "Flávio afirma que todos os governadores eleitos no Centro-Oeste (GO, MT, MS e DF) são aliados dele. Checado: quem foi eleito no 1º turno de 04/10/2026 e se o PL estava na coligação do eleito.",
+  "leitura_incerta": false
+}

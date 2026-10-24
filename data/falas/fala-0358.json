@@ -1,0 +1,125 @@
+{
+  "id": "fala-0358",
+  "slug": "lula-globo-estamos-fazendo-vlt-salvador-metro-sao-paulo-belo",
+  "evento_id": "debate-globo-2turno-2026-10-23",
+  "candidato": "lula",
+  "lado": "governo-lula-pt",
+  "minuto": "Bloco 1 — pergunta 1 · clipe g1 06:41",
+  "url_trecho": "https://youtu.be/woYkhYICZ2k?t=401",
+  "frase_literal": "E estamos fazendo o VLT de Salvador, metrô em São Paulo, Belo Belo Horizonte, VLT no Rio de Janeiro",
+  "literal": true,
+  "variantes_literais": [],
+  "tema": "infraestrutura",
+  "veredito": "falta-contexto",
+  "resumo_uma_frase": "As obras existem, mas são conduzidas por governos estaduais ou concessionárias; a participação federal é parcial e só pôde ser confirmada em parte.",
+  "explicacao_simples": [
+    "O VLT de Salvador é obra do Governo da Bahia (Sedur/CTB), com edital de R$ 3,2 bi; o trecho 1 tinha ~60% e o trecho 2 ~40% de avanço físico em mar/2026.",
+    "A Linha 2 do metrô de BH teve as duas primeiras estações inauguradas pelo Governo de Minas em jul/2026, dentro do contrato de concessão.",
+    "Não foi possível confirmar em fonte oficial acessível o valor da participação federal em cada obra nem quais projetos de metrô em SP e de VLT no Rio Lula citou."
+  ],
+  "o_que_e_verdade": [
+    "Há obras de VLT e metrô em andamento nessas cidades, algumas com recursos do Novo PAC."
+  ],
+  "o_que_nao_se_sustenta": [
+    "'Estamos fazendo': os executores são estados e concessionárias; a fala não diz qual é a parte da União."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Investimento previsto no edital do VLT de Salvador",
+      "valor": 3.2,
+      "unidade": "R$ bilhões",
+      "periodo": "dez/2023",
+      "fonte": {
+        "nome": "Governo da Bahia — 'Marca histórica: Governo do Estado autoriza início das obras do novo VLT' (jun/2024; edital da Sedur/CTB, R$ 3,2 bi)",
+        "url": "https://www.ba.gov.br/social/noticia/2024-06/11466/marca-historica-governo-do-estado-autoriza-inicio-das-obras-do-novo-vlt",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-estadual/municipal"
+      }
+    },
+    {
+      "rotulo": "Avanço físico do trecho 1 do VLT de Salvador",
+      "valor": 60,
+      "unidade": "% (cerca de)",
+      "periodo": "mar/2026",
+      "fonte": {
+        "nome": "Governo da Bahia — 'VLT impulsiona transformação urbana...' (16/03/2026; avanço físico dos trechos 1 e 2)",
+        "url": "https://www.ba.gov.br/comunicacao/noticias/2026-03/379667/vlt-impulsiona-transformacao-urbana-e-amplia-espacos-de-esporte-e-lazer-no",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-estadual/municipal"
+      }
+    },
+    {
+      "rotulo": "Avanço físico do trecho 2 do VLT de Salvador",
+      "valor": 40,
+      "unidade": "% (cerca de)",
+      "periodo": "mar/2026",
+      "fonte": {
+        "nome": "Governo da Bahia — 'VLT impulsiona transformação urbana...' (16/03/2026; avanço físico dos trechos 1 e 2)",
+        "url": "https://www.ba.gov.br/comunicacao/noticias/2026-03/379667/vlt-impulsiona-transformacao-urbana-e-amplia-espacos-de-esporte-e-lazer-no",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-estadual/municipal"
+      }
+    }
+  ],
+  "fontes_primarias": [
+    {
+      "nome": "Governo da Bahia — 'VLT impulsiona transformação urbana...' (16/03/2026; avanço físico dos trechos 1 e 2)",
+      "url": "https://www.ba.gov.br/comunicacao/noticias/2026-03/379667/vlt-impulsiona-transformacao-urbana-e-amplia-espacos-de-esporte-e-lazer-no",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-estadual/municipal"
+    },
+    {
+      "nome": "Governo da Bahia — 'Marca histórica: Governo do Estado autoriza início das obras do novo VLT' (jun/2024; edital da Sedur/CTB, R$ 3,2 bi)",
+      "url": "https://www.ba.gov.br/social/noticia/2024-06/11466/marca-historica-governo-do-estado-autoriza-inicio-das-obras-do-novo-vlt",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-estadual/municipal"
+    },
+    {
+      "nome": "Governo de Minas (Agência Minas) — inauguração das estações Nova Suíça e Amazonas da Linha 2 do metrô (jul/2026)",
+      "url": "https://www.agenciaminas.mg.gov.br/noticia/governo-de-minas-inaugura-estacoes-nova-suica-e-amazonas-da-linha-2-do-metro-marco-na-mobilidade-para-belo-horizonte",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-estadual/municipal"
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Governo da Bahia — 'VLT impulsiona transformação urbana...' (16/03/2026; avanço físico dos trechos 1 e 2)",
+      "url": "https://www.ba.gov.br/comunicacao/noticias/2026-03/379667/vlt-impulsiona-transformacao-urbana-e-amplia-espacos-de-esporte-e-lazer-no",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-estadual/municipal"
+    },
+    {
+      "nome": "Governo da Bahia — 'Marca histórica: Governo do Estado autoriza início das obras do novo VLT' (jun/2024; edital da Sedur/CTB, R$ 3,2 bi)",
+      "url": "https://www.ba.gov.br/social/noticia/2024-06/11466/marca-historica-governo-do-estado-autoriza-inicio-das-obras-do-novo-vlt",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-estadual/municipal"
+    },
+    {
+      "nome": "Governo de Minas (Agência Minas) — inauguração das estações Nova Suíça e Amazonas da Linha 2 do metrô (jul/2026)",
+      "url": "https://www.agenciaminas.mg.gov.br/noticia/governo-de-minas-inaugura-estacoes-nova-suica-e-amazonas-da-linha-2-do-metro-marco-na-mobilidade-para-belo-horizonte",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-estadual/municipal"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/17_debate_globo_2026-10-23_checagem.md",
+  "atualizado_em": "2026-10-24",
+  "lacunas": [
+    "Durante o período de defeso eleitoral (04/07 a 25/10/2026) várias páginas de notícias do gov.br (Casa Civil, Secom, MCom, Ministério dos Transportes, MCTI, Planalto) e o acervo da Agência BNDES estão com acesso restrito; números dessas páginas só puderam ser lidos via índice de busca e não foram reconfirmados na página.",
+    "Valores federais do Novo PAC para VLT/metrô de Salvador (citados pela Casa Civil em 2025-2026) não puderam ser abertos.",
+    "Metrô de SP e VLT do Rio: não identificados nem checados.",
+    "Checagem feita apenas com fontes oficiais (governo federal, estadual, Legislativo, Judiciário, TSE, órgãos intergovernamentais e governos estrangeiros), sem imprensa nem agências de checagem, por decisão editorial desta edição."
+  ],
+  "changelog": [
+    {
+      "data": "2026-10-24",
+      "o_que_mudou": "publicação (checagem só com fontes oficiais)"
+    }
+  ],
+  "id_no_debate": "L10",
+  "leitura_checada": "O governo federal estaria fazendo o VLT de Salvador, metrô em SP e BH e VLT no Rio.",
+  "leitura_incerta": false
+}

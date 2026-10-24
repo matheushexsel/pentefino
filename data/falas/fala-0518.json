@@ -1,0 +1,135 @@
+{
+  "id": "fala-0518",
+  "slug": "flavio-globo-porque-hoje-sua-politica-desencarceramento-tem-vaga-presidio",
+  "evento_id": "debate-globo-2turno-2026-10-23",
+  "candidato": "flavio-bolsonaro",
+  "lado": "oposicao-flavio-pl",
+  "minuto": "Bloco 3 — pergunta 3 · clipe g1 03:12",
+  "url_trecho": "https://youtu.be/T8oPN6v1L0c?t=192",
+  "frase_literal": "porque hoje a sua política é de desencarceramento. O que que é isso? Não tem vaga em presídio, solta todo mundo",
+  "literal": true,
+  "variantes_literais": [],
+  "tema": "seguranca",
+  "veredito": "falso",
+  "resumo_uma_frase": "A população presa cresceu no governo Lula: de 644 mil em celas em junho de 2023 para 727 mil em dezembro de 2025, segundo a Senappen.",
+  "explicacao_simples": [
+    "O relatório oficial da Senappen mostra 644.305 presos em celas em 30/06/2023 e 727.301 em 31/12/2025, alta de 12,9%.",
+    "As vagas também cresceram (de 481,8 mil para 505,3 mil), mas o déficit aumentou para 222 mil.",
+    "Não há registro oficial de soltura em massa por falta de vagas."
+  ],
+  "o_que_e_verdade": [
+    "Faltam vagas: o déficit era de 222.034 em dez/2025."
+  ],
+  "o_que_nao_se_sustenta": [
+    "O número de presos aumentou; não houve 'solta todo mundo'."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Presos em celas físicas (total do RELIPEN)",
+      "valor": 644305,
+      "unidade": "pessoas",
+      "periodo": "30/06/2023",
+      "fonte": {
+        "nome": "Senappen/MJSP — RELIPEN, 1º semestre de 2023 (população em 30/06/2023)",
+        "url": "https://www.gov.br/senappen/pt-br/servicos/sisdepen/relatorios/relatorios-de-informacoes-penitenciarias/relatorio-1-semestre-de-2023.pdf/@@display-file/file",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Presos em celas físicas (total do RELIPEN)",
+      "valor": 727301,
+      "unidade": "pessoas",
+      "periodo": "31/12/2025",
+      "fonte": {
+        "nome": "Senappen/MJSP — RELIPEN, 19º ciclo SISDEPEN, 2º semestre de 2025 (população em 31/12/2025)",
+        "url": "https://www.gov.br/senappen/pt-br/servicos/sisdepen/relatorios/relatorios-de-informacoes-penitenciarias/relatorio-do-2o-semestre-de-2025.pdf/@@display-file/file",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Capacidade (vagas)",
+      "valor": 481835,
+      "unidade": "vagas",
+      "periodo": "30/06/2023",
+      "fonte": {
+        "nome": "Senappen/MJSP — RELIPEN, 1º semestre de 2023 (população em 30/06/2023)",
+        "url": "https://www.gov.br/senappen/pt-br/servicos/sisdepen/relatorios/relatorios-de-informacoes-penitenciarias/relatorio-1-semestre-de-2023.pdf/@@display-file/file",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Capacidade (vagas)",
+      "valor": 505267,
+      "unidade": "vagas",
+      "periodo": "31/12/2025",
+      "fonte": {
+        "nome": "Senappen/MJSP — RELIPEN, 19º ciclo SISDEPEN, 2º semestre de 2025 (população em 31/12/2025)",
+        "url": "https://www.gov.br/senappen/pt-br/servicos/sisdepen/relatorios/relatorios-de-informacoes-penitenciarias/relatorio-do-2o-semestre-de-2025.pdf/@@display-file/file",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Déficit de vagas",
+      "valor": 222034,
+      "unidade": "vagas",
+      "periodo": "31/12/2025",
+      "fonte": {
+        "nome": "Senappen/MJSP — RELIPEN, 19º ciclo SISDEPEN, 2º semestre de 2025 (população em 31/12/2025)",
+        "url": "https://www.gov.br/senappen/pt-br/servicos/sisdepen/relatorios/relatorios-de-informacoes-penitenciarias/relatorio-do-2o-semestre-de-2025.pdf/@@display-file/file",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    }
+  ],
+  "fontes_primarias": [
+    {
+      "nome": "Senappen/MJSP — RELIPEN, 1º semestre de 2023 (população em 30/06/2023)",
+      "url": "https://www.gov.br/senappen/pt-br/servicos/sisdepen/relatorios/relatorios-de-informacoes-penitenciarias/relatorio-1-semestre-de-2023.pdf/@@display-file/file",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    },
+    {
+      "nome": "Senappen/MJSP — RELIPEN, 19º ciclo SISDEPEN, 2º semestre de 2025 (população em 31/12/2025)",
+      "url": "https://www.gov.br/senappen/pt-br/servicos/sisdepen/relatorios/relatorios-de-informacoes-penitenciarias/relatorio-do-2o-semestre-de-2025.pdf/@@display-file/file",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Senappen/MJSP — RELIPEN, 1º semestre de 2023 (população em 30/06/2023)",
+      "url": "https://www.gov.br/senappen/pt-br/servicos/sisdepen/relatorios/relatorios-de-informacoes-penitenciarias/relatorio-1-semestre-de-2023.pdf/@@display-file/file",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    },
+    {
+      "nome": "Senappen/MJSP — RELIPEN, 19º ciclo SISDEPEN, 2º semestre de 2025 (população em 31/12/2025)",
+      "url": "https://www.gov.br/senappen/pt-br/servicos/sisdepen/relatorios/relatorios-de-informacoes-penitenciarias/relatorio-do-2o-semestre-de-2025.pdf/@@display-file/file",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/17_debate_globo_2026-10-23_checagem.md",
+  "atualizado_em": "2026-10-24",
+  "lacunas": [
+    "O plano 'Pena Justa' (STF/CNJ, ADPF 347) não foi lido nesta rodada; ele é do Judiciário, não do Executivo.",
+    "Checagem feita apenas com fontes oficiais (governo federal, estadual, Legislativo, Judiciário, TSE, órgãos intergovernamentais e governos estrangeiros), sem imprensa nem agências de checagem, por decisão editorial desta edição."
+  ],
+  "changelog": [
+    {
+      "data": "2026-10-24",
+      "o_que_mudou": "publicação (checagem só com fontes oficiais)"
+    }
+  ],
+  "id_no_debate": "F90",
+  "leitura_checada": "A política do governo é de desencarceramento: 'não tem vaga em presídio, solta todo mundo'.",
+  "leitura_incerta": false
+}

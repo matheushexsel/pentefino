@@ -1,0 +1,124 @@
+{
+  "id": "fala-0385",
+  "slug": "lula-globo-legenda-confusa-aumentamos-57-paises-media-10-5",
+  "evento_id": "debate-globo-2turno-2026-10-23",
+  "candidato": "lula",
+  "lado": "governo-lula-pt",
+  "minuto": "Bloco 1 — pergunta 3 · clipe g1 02:00",
+  "url_trecho": "https://youtu.be/Z2AA0h2wr4U?t=120",
+  "frase_literal": "(Paráfrase; legenda confusa: \"aumentamos em 57 países uma média de 10,5\") Aumentamos as exportações para 57 países em média de 10,5%",
+  "literal": false,
+  "variantes_literais": [],
+  "tema": "relacoes-exteriores",
+  "veredito": "insustentavel",
+  "resumo_uma_frase": "As exportações brasileiras cresceram 10,4% em jan–set de 2026, número próximo ao citado, mas não há dado oficial que corresponda a '57 países'.",
+  "explicacao_simples": [
+    "Pelos dados oficiais do MDIC (Comex Stat), o Brasil exportou US$ 284,7 bilhões de janeiro a setembro de 2026, 10,4% a mais que no mesmo período de 2025.",
+    "No mesmo período, as vendas cresceram para 165 dos 238 destinos com registro, e não para 57.",
+    "Como a frase ficou truncada na legenda, não dá para saber qual recorte Lula usou."
+  ],
+  "o_que_e_verdade": [
+    "O crescimento das exportações totais em 2026 (cerca de 10,4% em jan–set) está próximo dos '10,5' citados."
+  ],
+  "o_que_nao_se_sustenta": [
+    "Nenhum recorte oficial encontrado resulta em '57 países'."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Exportações, jan–set 2026",
+      "valor": 284.65,
+      "unidade": "US$ bilhões FOB",
+      "periodo": "jan–set/2026",
+      "fonte": {
+        "nome": "MDIC/Secex — Comex Stat, API (exportações por país, jan–set 2025 e jan–set 2026; cálculo próprio)",
+        "url": "https://api-comexstat.mdic.gov.br/general",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Exportações, jan–set 2025",
+      "valor": 257.89,
+      "unidade": "US$ bilhões FOB",
+      "periodo": "jan–set/2025",
+      "fonte": {
+        "nome": "MDIC/Secex — Comex Stat, API (exportações por país, jan–set 2025 e jan–set 2026; cálculo próprio)",
+        "url": "https://api-comexstat.mdic.gov.br/general",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Variação das exportações totais",
+      "valor": 10.4,
+      "unidade": "%",
+      "periodo": "jan–set/2026 vs jan–set/2025",
+      "fonte": {
+        "nome": "MDIC/Secex — Comex Stat, API (exportações por país, jan–set 2025 e jan–set 2026; cálculo próprio)",
+        "url": "https://api-comexstat.mdic.gov.br/general",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Destinos com aumento das exportações",
+      "valor": 165,
+      "unidade": "países/territórios (de 238)",
+      "periodo": "jan–set/2026 vs jan–set/2025",
+      "fonte": {
+        "nome": "MDIC/Secex — Comex Stat, API (exportações por país, jan–set 2025 e jan–set 2026; cálculo próprio)",
+        "url": "https://api-comexstat.mdic.gov.br/general",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Variação das exportações para os EUA",
+      "valor": -6.5,
+      "unidade": "%",
+      "periodo": "jan–set/2026 vs jan–set/2025",
+      "fonte": {
+        "nome": "MDIC/Secex — Comex Stat, API (exportações por país, jan–set 2025 e jan–set 2026; cálculo próprio)",
+        "url": "https://api-comexstat.mdic.gov.br/general",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    }
+  ],
+  "fontes_primarias": [
+    {
+      "nome": "MDIC/Secex — Comex Stat, API (exportações por país, jan–set 2025 e jan–set 2026; cálculo próprio)",
+      "url": "https://api-comexstat.mdic.gov.br/general",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "MDIC/Secex — Comex Stat, API (exportações por país, jan–set 2025 e jan–set 2026; cálculo próprio)",
+      "url": "https://api-comexstat.mdic.gov.br/general",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/17_debate_globo_2026-10-23_checagem.md",
+  "atualizado_em": "2026-10-24",
+  "lacunas": [
+    "Leitura incerta da legenda automática; a checagem usou a leitura: Legenda confusa ('aumentamos em 57 países uma média de 10,5'). Checou-se: (a) se as exportações totais cresceram cerca de 10,5%; (b) se houve aumento para 57 países.",
+    "Não se localizou publicação oficial do MDIC ou da ApexBrasil com o número '57 países'; a leitura exata da frase depende do áudio.",
+    "Checagem feita apenas com fontes oficiais (governo federal, estadual, Legislativo, Judiciário, TSE, órgãos intergovernamentais e governos estrangeiros), sem imprensa nem agências de checagem, por decisão editorial desta edição."
+  ],
+  "changelog": [
+    {
+      "data": "2026-10-24",
+      "o_que_mudou": "publicação (checagem só com fontes oficiais)"
+    }
+  ],
+  "id_no_debate": "L22",
+  "leitura_checada": "Legenda confusa ('aumentamos em 57 países uma média de 10,5'). Checou-se: (a) se as exportações totais cresceram cerca de 10,5%; (b) se houve aumento para 57 países.",
+  "leitura_incerta": true
+}

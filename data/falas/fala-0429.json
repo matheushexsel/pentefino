@@ -1,0 +1,120 @@
+{
+  "id": "fala-0429",
+  "slug": "lula-globo-levamos-instituto-tecnologico-aeronautica-ceara-como-premio-ao",
+  "evento_id": "debate-globo-2turno-2026-10-23",
+  "candidato": "lula",
+  "lado": "governo-lula-pt",
+  "minuto": "Bloco 1 — pergunta 6 · clipe g1 03:38",
+  "url_trecho": "https://youtu.be/vASlNIMp2PM?t=218",
+  "frase_literal": "levamos o Instituto Tecnológico da Aeronáutica para o Ceará como prêmio ao estado do Ceará, porque é o estado que mais aprova jovens para fazer curso no ITA",
+  "literal": true,
+  "variantes_literais": [],
+  "tema": "educacao",
+  "veredito": "verdadeiro-mas",
+  "resumo_uma_frase": "O campus do ITA em Fortaleza foi criado por decreto de Lula em 2024, e o Ceará disputa com São Paulo a liderança de aprovados no vestibular do ITA, mas não é o 1º todos os anos.",
+  "explicacao_simples": [
+    "O Decreto 11.887/2024 permite que os cursos do ITA funcionem em campus avançado em Fortaleza.",
+    "Nas estatísticas oficiais do vestibular do ITA (convocados por local de prova), o Ceará foi o 1º em 2022, 2023 e 2025, e São Paulo em 2024 e 2026.",
+    "Somando 2019–2026, SP tem 467 convocados e CE 441; Fortaleza é sempre a 1ª ou 2ª cidade com mais convocados."
+  ],
+  "o_que_e_verdade": [
+    "Decreto nº 11.887, de 18/01/2024, autoriza o campus avançado do ITA em Fortaleza.",
+    "Ceará: 63 de 180 convocados em 2026, 73 de 183 em 2025 (1º lugar), 62 de 150 em 2023 (1º), 61 de 150 em 2022 (1º)."
+  ],
+  "o_que_nao_se_sustenta": [
+    "'O estado que mais aprova': em 2024 (SP 69 x CE 56) e 2026 (SP 81 x CE 63) São Paulo teve mais convocados.",
+    "'Levamos o ITA': o decreto autoriza o campus 'observada a disponibilidade orçamentária', e as obras ainda estão em andamento."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Convocados no vestibular ITA – Ceará",
+      "valor": 73,
+      "unidade": "candidatos",
+      "periodo": "vestibular 2025",
+      "fonte": {
+        "nome": "ITA – Estatísticas de vestibulares anteriores",
+        "url": "https://www.vestibular.ita.br/estatisticas.htm",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Convocados no vestibular ITA – São Paulo (soma das bancas)",
+      "valor": 81,
+      "unidade": "candidatos",
+      "periodo": "vestibular 2026",
+      "fonte": {
+        "nome": "ITA – Estatísticas de vestibulares anteriores",
+        "url": "https://www.vestibular.ita.br/estatisticas.htm",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Convocados no vestibular ITA – Ceará",
+      "valor": 63,
+      "unidade": "candidatos",
+      "periodo": "vestibular 2026",
+      "fonte": {
+        "nome": "ITA – Estatísticas de vestibulares anteriores",
+        "url": "https://www.vestibular.ita.br/estatisticas.htm",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    }
+  ],
+  "fontes_primarias": [
+    {
+      "nome": "Planalto – Decreto nº 11.887, de 18/01/2024",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/decreto/D11887.htm",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    },
+    {
+      "nome": "ITA (Comando da Aeronáutica) – Estatísticas de vestibulares anteriores, tabelas 'Candidatos convocados' por banca",
+      "url": "https://www.vestibular.ita.br/estatisticas.htm",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    }
+  ],
+  "base_legal": [
+    {
+      "norma": "Decreto nº 11.887/2024",
+      "o_que_diz": "Acrescenta art. 7º-A ao Decreto 27.695/1950: os cursos do ITA 'poderão funcionar em campus avançado no Município de Fortaleza', na forma disciplinada pelo Comandante da Aeronáutica, observada a disponibilidade orçamentária.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/decreto/D11887.htm"
+    }
+  ],
+  "checagens_externas": [],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Planalto – Decreto nº 11.887, de 18/01/2024",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/decreto/D11887.htm",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    },
+    {
+      "nome": "ITA (Comando da Aeronáutica) – Estatísticas de vestibulares anteriores, tabelas 'Candidatos convocados' por banca",
+      "url": "https://www.vestibular.ita.br/estatisticas.htm",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/17_debate_globo_2026-10-23_checagem.md",
+  "atualizado_em": "2026-10-24",
+  "lacunas": [
+    "As estatísticas do ITA são por local de prova (banca), não por estado de origem do candidato.",
+    "Situação das obras e início das aulas em Fortaleza não confirmados em fonte oficial acessível (páginas da Agência Gov suspensas pela legislação eleitoral).",
+    "Checagem feita apenas com fontes oficiais (governo federal, estadual, Legislativo, Judiciário, TSE, órgãos intergovernamentais e governos estrangeiros), sem imprensa nem agências de checagem, por decisão editorial desta edição."
+  ],
+  "changelog": [
+    {
+      "data": "2026-10-24",
+      "o_que_mudou": "publicação (checagem só com fontes oficiais)"
+    }
+  ],
+  "id_no_debate": "L45",
+  "leitura_checada": "Leitura literal da legenda.",
+  "leitura_incerta": false
+}

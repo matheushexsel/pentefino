@@ -1,0 +1,105 @@
+{
+  "id": "fala-0472",
+  "slug": "flavio-globo-agora-lula-votou-contra-constituicao-88-criou-sus",
+  "evento_id": "debate-globo-2turno-2026-10-23",
+  "candidato": "flavio-bolsonaro",
+  "lado": "oposicao-flavio-pl",
+  "minuto": "Bloco 2 — pergunta 3 · clipe g1 02:00",
+  "url_trecho": "https://youtu.be/1FBddn-4QeM?t=120",
+  "frase_literal": "Agora o Lula votou contra a Constituição de 88 que criou o SUS. [...] você é um deputado constituinte",
+  "literal": true,
+  "variantes_literais": [],
+  "tema": "saude",
+  "veredito": "verdadeiro-mas",
+  "resumo_uma_frase": "Lula anunciou em plenário, em 22/09/1988, o voto do PT contra a redação final da Constituição, mas o partido assinou o texto; votar contra o texto final não é votar contra o SUS.",
+  "explicacao_simples": [
+    "No discurso publicado no Diário da Constituinte, Lula diz que o PT 'vota contra o texto' por achar que manteve intactos o poder econômico e militar.",
+    "No mesmo discurso diz que, por decisão do diretório, o PT 'assinará a Constituição'.",
+    "A Constituição criou o SUS nos arts. 196 a 200; o discurso reconhece 'avanços na ordem social'."
+  ],
+  "o_que_e_verdade": [
+    "Lula era deputado constituinte (PT-SP) e o PT votou contra a redação final em 22/09/1988."
+  ],
+  "o_que_nao_se_sustenta": [
+    "Sugerir que Lula votou contra o SUS: o voto foi contra o texto inteiro, não contra o capítulo da saúde, e o PT assinou a Constituição."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Deputados constituintes do PT",
+      "valor": 16,
+      "unidade": "deputados",
+      "periodo": "1987–1988",
+      "fonte": {
+        "nome": "Câmara dos Deputados — Discurso de Luiz Inácio Lula da Silva na sessão de 22/09/1988 (DANC de 23/09/1988, p. 14313-14314)",
+        "url": "https://www2.camara.leg.br/atividade-legislativa/plenario/discursos/escrevendohistoria/25-anos-da-constituicao-de-1988/constituinte-1987-1988/pdf/Luiz%20Inacio%20-%20DISCURSO%20%20REVISADO.pdf",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-legislativo"
+      }
+    }
+  ],
+  "fontes_primarias": [
+    {
+      "nome": "Câmara dos Deputados — Discurso de Luiz Inácio Lula da Silva na sessão de 22/09/1988 (DANC de 23/09/1988, p. 14313-14314)",
+      "url": "https://www2.camara.leg.br/atividade-legislativa/plenario/discursos/escrevendohistoria/25-anos-da-constituicao-de-1988/constituinte-1987-1988/pdf/Luiz%20Inacio%20-%20DISCURSO%20%20REVISADO.pdf",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    },
+    {
+      "nome": "Agência Senado — 'Há 20 anos era aprovada a Redação Final da Constituição de 1988' (22/09/2008)",
+      "url": "https://www12.senado.leg.br/noticias/materias/2008/09/22/ha-20-anos-era-aprovada-a-redacao-final-da-constituicao-de-1988",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    },
+    {
+      "nome": "Planalto — Constituição Federal de 1988 (arts. 196 a 200)",
+      "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    }
+  ],
+  "base_legal": [
+    {
+      "norma": "CF/1988, art. 198",
+      "o_que_diz": "As ações e serviços públicos de saúde constituem um sistema único.",
+      "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+    }
+  ],
+  "checagens_externas": [],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Câmara dos Deputados — Discurso de Luiz Inácio Lula da Silva na sessão de 22/09/1988 (DANC de 23/09/1988, p. 14313-14314)",
+      "url": "https://www2.camara.leg.br/atividade-legislativa/plenario/discursos/escrevendohistoria/25-anos-da-constituicao-de-1988/constituinte-1987-1988/pdf/Luiz%20Inacio%20-%20DISCURSO%20%20REVISADO.pdf",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    },
+    {
+      "nome": "Agência Senado — 'Há 20 anos era aprovada a Redação Final da Constituição de 1988' (22/09/2008)",
+      "url": "https://www12.senado.leg.br/noticias/materias/2008/09/22/ha-20-anos-era-aprovada-a-redacao-final-da-constituicao-de-1988",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    },
+    {
+      "nome": "Planalto — Constituição Federal de 1988 (arts. 196 a 200)",
+      "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/17_debate_globo_2026-10-23_checagem.md",
+  "atualizado_em": "2026-10-24",
+  "lacunas": [
+    "Não consultei os votos nominais de Lula nos dispositivos da saúde nas votações de 1º e 2º turnos da Constituinte.",
+    "Checagem feita apenas com fontes oficiais (governo federal, estadual, Legislativo, Judiciário, TSE, órgãos intergovernamentais e governos estrangeiros), sem imprensa nem agências de checagem, por decisão editorial desta edição."
+  ],
+  "changelog": [
+    {
+      "data": "2026-10-24",
+      "o_que_mudou": "publicação (checagem só com fontes oficiais)"
+    }
+  ],
+  "id_no_debate": "F62",
+  "leitura_checada": "Lula, deputado constituinte, votou contra a Constituição de 1988 que criou o SUS.",
+  "leitura_incerta": false
+}

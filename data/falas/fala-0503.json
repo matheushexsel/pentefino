@@ -1,0 +1,112 @@
+{
+  "id": "fala-0503",
+  "slug": "lula-globo-eles-inventaram-escola-civico-militar-eles-inventaram-fizeram",
+  "evento_id": "debate-globo-2turno-2026-10-23",
+  "candidato": "lula",
+  "lado": "governo-lula-pt",
+  "minuto": "Bloco 3 — pergunta 2 · clipe g1 04:03",
+  "url_trecho": "https://youtu.be/2S2HvBYOk24?t=243",
+  "frase_literal": "eles inventaram uma uma escola cívico-militar. É isso que eles inventaram e que não fizeram também",
+  "literal": true,
+  "variantes_literais": [],
+  "tema": "educacao",
+  "veredito": "falso",
+  "resumo_uma_frase": "O programa federal de escolas cívico-militares (Pecim) foi criado por decreto de Bolsonaro em 2019 e, segundo o MEC, chegou a 216 escolas antes de ser revogado em 2023; ou seja, foi implementado.",
+  "explicacao_simples": [
+    "O Decreto 10.004/2019 instituiu o Programa Nacional das Escolas Cívico-Militares.",
+    "Segundo o MEC (jul/2023), 216 escolas aderiram ao modelo nas cinco regiões; o Decreto 11.611/2023 revogou o programa.",
+    "O modelo já existia em redes estaduais (o DF tinha 13 escolas de 'gestão compartilhada' próprias), então 'inventar' vale só para o programa federal."
+  ],
+  "o_que_e_verdade": [
+    "O Pecim foi criado pelo governo Bolsonaro (Decreto 10.004, de 05/09/2019).",
+    "O programa era pequeno diante do total de escolas públicas do país."
+  ],
+  "o_que_nao_se_sustenta": [
+    "'Não fizeram': o MEC do próprio governo Lula informou 216 escolas participantes.",
+    "'Inventaram': escolas com gestão militar já existiam em estados antes de 2019."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Escolas que aderiram ao Pecim",
+      "valor": 216,
+      "unidade": "escolas",
+      "periodo": "jul/2023 (dado do MEC)",
+      "fonte": {
+        "nome": "Agência Brasil (reprodução de dado do MEC), 'Governo federal vai encerrar programa de escolas cívico-militares' (jul/2023)",
+        "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2023-07/governo-federal-vai-encerrar-programa-de-escolas-civico-militares",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    }
+  ],
+  "fontes_primarias": [
+    {
+      "nome": "Planalto – Decreto nº 10.004/2019",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/decreto/D10004.htm",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    },
+    {
+      "nome": "Planalto – Decreto nº 11.611/2023",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/decreto/D11611.htm",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    },
+    {
+      "nome": "Agência Brasil (dado do MEC), jul/2023",
+      "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2023-07/governo-federal-vai-encerrar-programa-de-escolas-civico-militares",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    }
+  ],
+  "base_legal": [
+    {
+      "norma": "Decreto nº 10.004/2019",
+      "o_que_diz": "Institui o Programa Nacional das Escolas Cívico-Militares (Pecim).",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/decreto/D10004.htm"
+    },
+    {
+      "norma": "Decreto nº 11.611/2023",
+      "o_que_diz": "Revoga o Decreto 10.004/2019 e determina plano de transição para encerramento.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/decreto/D11611.htm"
+    }
+  ],
+  "checagens_externas": [],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Planalto – Decreto nº 10.004/2019",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/decreto/D10004.htm",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    },
+    {
+      "nome": "Planalto – Decreto nº 11.611/2023",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/decreto/D11611.htm",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    },
+    {
+      "nome": "Agência Brasil (dado do MEC), jul/2023",
+      "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2023-07/governo-federal-vai-encerrar-programa-de-escolas-civico-militares",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/17_debate_globo_2026-10-23_checagem.md",
+  "atualizado_em": "2026-10-24",
+  "lacunas": [
+    "Execução orçamentária do Pecim (2020–2022) e número de alunos não obtidos de fonte oficial direta (portais do MEC inacessíveis).",
+    "Checagem feita apenas com fontes oficiais (governo federal, estadual, Legislativo, Judiciário, TSE, órgãos intergovernamentais e governos estrangeiros), sem imprensa nem agências de checagem, por decisão editorial desta edição."
+  ],
+  "changelog": [
+    {
+      "data": "2026-10-24",
+      "o_que_mudou": "publicação (checagem só com fontes oficiais)"
+    }
+  ],
+  "id_no_debate": "L81",
+  "leitura_checada": "Leitura literal da legenda.",
+  "leitura_incerta": false
+}

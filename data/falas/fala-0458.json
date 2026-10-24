@@ -1,0 +1,124 @@
+{
+  "id": "fala-0458",
+  "slug": "flavio-globo-sei-pratias-prateleiras-estao-vazias-agora-porque-pessoas",
+  "evento_id": "debate-globo-2turno-2026-10-23",
+  "candidato": "flavio-bolsonaro",
+  "lado": "oposicao-flavio-pl",
+  "minuto": "Bloco 2 — pergunta 2 · clipe g1 03:32",
+  "url_trecho": "https://youtu.be/jctCsMD2nTE?t=212",
+  "frase_literal": "eu sei que as pratias [prateleiras] estão vazias agora porque as pessoas não tm dinheiro para comprar",
+  "literal": true,
+  "variantes_literais": [],
+  "tema": "eleicao-2026",
+  "veredito": "falso",
+  "resumo_uma_frase": "O volume de vendas do varejo está perto do recorde: 108,7 pontos em ago/2026 (2022=100), apenas 1,3% abaixo do máximo de mar/2026.",
+  "explicacao_simples": [
+    "A Pesquisa Mensal de Comércio do IBGE mostra o volume de vendas do varejo 9% acima de dez/2022 (99,3 → 108,7, com ajuste sazonal).",
+    "Em 2026 até agosto, as vendas cresceram 1,7% sobre o mesmo período de 2025.",
+    "O ritmo desacelerou (+0,4% em ago/2026 contra ago/2025), mas não há sinal oficial de queda generalizada de consumo."
+  ],
+  "o_que_e_verdade": [
+    "O crescimento do varejo perdeu força em 2026."
+  ],
+  "o_que_nao_se_sustenta": [
+    "'Prateleiras vazias' por falta de dinheiro não correspondem aos dados de vendas."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Índice de volume de vendas do varejo (ajuste sazonal)",
+      "valor": 108.69,
+      "unidade": "índice (2022=100)",
+      "periodo": "ago/2026",
+      "fonte": {
+        "nome": "IBGE/SIDRA, tabela 8880 (Pesquisa Mensal de Comércio, índice de volume com ajuste sazonal, 2022=100)",
+        "url": "https://apisidra.ibge.gov.br/values/t/8880/n1/all/v/7170/p/all/c11046/all",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Índice de volume de vendas do varejo (máximo)",
+      "valor": 110.14,
+      "unidade": "índice (2022=100)",
+      "periodo": "mar/2026",
+      "fonte": {
+        "nome": "IBGE/SIDRA, tabela 8880 (Pesquisa Mensal de Comércio, índice de volume com ajuste sazonal, 2022=100)",
+        "url": "https://apisidra.ibge.gov.br/values/t/8880/n1/all/v/7170/p/all/c11046/all",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Índice de volume de vendas do varejo",
+      "valor": 99.33,
+      "unidade": "índice (2022=100)",
+      "periodo": "dez/2022",
+      "fonte": {
+        "nome": "IBGE/SIDRA, tabela 8880 (Pesquisa Mensal de Comércio, índice de volume com ajuste sazonal, 2022=100)",
+        "url": "https://apisidra.ibge.gov.br/values/t/8880/n1/all/v/7170/p/all/c11046/all",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Variação acumulada no ano do volume de vendas",
+      "valor": 1.7,
+      "unidade": "%",
+      "periodo": "jan–ago/2026",
+      "fonte": {
+        "nome": "IBGE/SIDRA, tabela 8880 (PMC, variações acumuladas)",
+        "url": "https://apisidra.ibge.gov.br/values/t/8880/n1/all/v/all/p/last%203/c11046/all",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    }
+  ],
+  "fontes_primarias": [
+    {
+      "nome": "IBGE/SIDRA, tabela 8880 (Pesquisa Mensal de Comércio, índice de volume com ajuste sazonal, 2022=100)",
+      "url": "https://apisidra.ibge.gov.br/values/t/8880/n1/all/v/7170/p/all/c11046/all",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    },
+    {
+      "nome": "IBGE/SIDRA, tabela 8880 (PMC, variações acumuladas)",
+      "url": "https://apisidra.ibge.gov.br/values/t/8880/n1/all/v/all/p/last%203/c11046/all",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "IBGE/SIDRA, tabela 8880 (Pesquisa Mensal de Comércio, índice de volume com ajuste sazonal, 2022=100)",
+      "url": "https://apisidra.ibge.gov.br/values/t/8880/n1/all/v/7170/p/all/c11046/all",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    },
+    {
+      "nome": "IBGE/SIDRA, tabela 8880 (PMC, variações acumuladas)",
+      "url": "https://apisidra.ibge.gov.br/values/t/8880/n1/all/v/all/p/last%203/c11046/all",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/17_debate_globo_2026-10-23_checagem.md",
+  "atualizado_em": "2026-10-24",
+  "lacunas": [
+    "Leitura incerta da legenda automática; a checagem usou a leitura: 'pratias' = prateleiras; leitura: as prateleiras do comércio estão vazias porque as pessoas não têm dinheiro para comprar.",
+    "A frase pode ser figura de linguagem; checou-se a leitura literal sobre consumo.",
+    "Checagem feita apenas com fontes oficiais (governo federal, estadual, Legislativo, Judiciário, TSE, órgãos intergovernamentais e governos estrangeiros), sem imprensa nem agências de checagem, por decisão editorial desta edição."
+  ],
+  "changelog": [
+    {
+      "data": "2026-10-24",
+      "o_que_mudou": "publicação (checagem só com fontes oficiais)"
+    }
+  ],
+  "id_no_debate": "F59",
+  "leitura_checada": "'pratias' = prateleiras; leitura: as prateleiras do comércio estão vazias porque as pessoas não têm dinheiro para comprar.",
+  "leitura_incerta": true
+}

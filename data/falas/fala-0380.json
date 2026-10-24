@@ -1,0 +1,222 @@
+{
+  "id": "fala-0380",
+  "slug": "lula-globo-duvido-algum-momento-governo-pai-dele-houve-investimento",
+  "evento_id": "debate-globo-2turno-2026-10-23",
+  "candidato": "lula",
+  "lado": "governo-lula-pt",
+  "minuto": "Bloco 1 — pergunta 3 · clipe g1 01:10",
+  "url_trecho": "https://youtu.be/Z2AA0h2wr4U?t=70",
+  "frase_literal": "Eu duvido que em algum momento do governo do pai dele houve investimento no agronegócio como houve no meu governo",
+  "literal": true,
+  "variantes_literais": [],
+  "tema": "economia",
+  "veredito": "verdadeiro-mas",
+  "resumo_uma_frase": "O crédito rural contratado no governo Lula 3 supera o do governo Bolsonaro em total e na média anual, inclusive descontada a inflação, mas caiu em 2024 e 2025 e ficou abaixo do pico real de 2022.",
+  "explicacao_simples": [
+    "'Investimento no agronegócio' aqui é medido pelo crédito rural contratado (Plano Safra), registrado pelo Banco Central.",
+    "Em valores de 2025 (IPCA), a média anual foi de R$ 402 bi em 2023–2025, contra R$ 329 bi em 2019–2022; de jan/2023 a set/2026 foram R$ 1,44 tri, contra R$ 1,32 tri nos quatro anos de Bolsonaro.",
+    "Mas o crédito real caiu de R$ 446 bi (2023) para R$ 399 bi (2024) e R$ 361 bi (2025), abaixo dos R$ 416 bi de 2022; e a maior parte do dinheiro é de bancos, não do Tesouro."
+  ],
+  "o_que_e_verdade": [
+    "Crédito rural contratado em 2023 (R$ 406,6 bi nominais; R$ 445,6 bi a preços de 2025) é o maior da série 2018–2026 do SICOR.",
+    "Soma 2023–set/2026 (real): R$ 1.437,8 bi; soma 2019–2022 (real): R$ 1.317,6 bi."
+  ],
+  "o_que_nao_se_sustenta": [
+    "Nem todo ano de Lula 3 superou todos os anos de Bolsonaro: em termos reais, 2024 (R$ 399 bi) e 2025 (R$ 361 bi) ficaram abaixo de 2022 (R$ 416 bi).",
+    "Crédito rural não é 'investimento do governo': o Tesouro paga a equalização de juros de parte das linhas; o volume financiado vem de bancos, LCA, poupança rural etc."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Crédito rural contratado – total",
+      "valor": 179.0,
+      "unidade": "R$ bilhões (nominal)",
+      "periodo": "2019",
+      "fonte": {
+        "nome": "Banco Central – SICOR/Matriz de Dados do Crédito Rural, API OData 'ProgramaSubprograma' (valores contratados de custeio, investimento, comercialização e industrialização, por mês de emissão)",
+        "url": "https://olinda.bcb.gov.br/olinda/servico/SICOR/versao/v2/odata/ProgramaSubprograma",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Crédito rural contratado – total",
+      "valor": 207.1,
+      "unidade": "R$ bilhões (nominal)",
+      "periodo": "2020",
+      "fonte": {
+        "nome": "Banco Central – SICOR/Matriz de Dados do Crédito Rural, API OData 'ProgramaSubprograma' (valores contratados de custeio, investimento, comercialização e industrialização, por mês de emissão)",
+        "url": "https://olinda.bcb.gov.br/olinda/servico/SICOR/versao/v2/odata/ProgramaSubprograma",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Crédito rural contratado – total",
+      "valor": 295.2,
+      "unidade": "R$ bilhões (nominal)",
+      "periodo": "2021",
+      "fonte": {
+        "nome": "Banco Central – SICOR/Matriz de Dados do Crédito Rural, API OData 'ProgramaSubprograma' (valores contratados de custeio, investimento, comercialização e industrialização, por mês de emissão)",
+        "url": "https://olinda.bcb.gov.br/olinda/servico/SICOR/versao/v2/odata/ProgramaSubprograma",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Crédito rural contratado – total",
+      "valor": 363.0,
+      "unidade": "R$ bilhões (nominal)",
+      "periodo": "2022",
+      "fonte": {
+        "nome": "Banco Central – SICOR/Matriz de Dados do Crédito Rural, API OData 'ProgramaSubprograma' (valores contratados de custeio, investimento, comercialização e industrialização, por mês de emissão)",
+        "url": "https://olinda.bcb.gov.br/olinda/servico/SICOR/versao/v2/odata/ProgramaSubprograma",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Crédito rural contratado – total",
+      "valor": 406.6,
+      "unidade": "R$ bilhões (nominal)",
+      "periodo": "2023",
+      "fonte": {
+        "nome": "Banco Central – SICOR/Matriz de Dados do Crédito Rural, API OData 'ProgramaSubprograma' (valores contratados de custeio, investimento, comercialização e industrialização, por mês de emissão)",
+        "url": "https://olinda.bcb.gov.br/olinda/servico/SICOR/versao/v2/odata/ProgramaSubprograma",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Crédito rural contratado – total",
+      "valor": 380.0,
+      "unidade": "R$ bilhões (nominal)",
+      "periodo": "2024",
+      "fonte": {
+        "nome": "Banco Central – SICOR/Matriz de Dados do Crédito Rural, API OData 'ProgramaSubprograma' (valores contratados de custeio, investimento, comercialização e industrialização, por mês de emissão)",
+        "url": "https://olinda.bcb.gov.br/olinda/servico/SICOR/versao/v2/odata/ProgramaSubprograma",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Crédito rural contratado – total",
+      "valor": 361.2,
+      "unidade": "R$ bilhões (nominal)",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Banco Central – SICOR/Matriz de Dados do Crédito Rural, API OData 'ProgramaSubprograma' (valores contratados de custeio, investimento, comercialização e industrialização, por mês de emissão)",
+        "url": "https://olinda.bcb.gov.br/olinda/servico/SICOR/versao/v2/odata/ProgramaSubprograma",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Crédito rural contratado – total",
+      "valor": 241.2,
+      "unidade": "R$ bilhões (nominal)",
+      "periodo": "jan–set/2026",
+      "fonte": {
+        "nome": "Banco Central – SICOR/Matriz de Dados do Crédito Rural, API OData 'ProgramaSubprograma' (valores contratados de custeio, investimento, comercialização e industrialização, por mês de emissão)",
+        "url": "https://olinda.bcb.gov.br/olinda/servico/SICOR/versao/v2/odata/ProgramaSubprograma",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Média anual real, governo Bolsonaro",
+      "valor": 329.4,
+      "unidade": "R$ bilhões de 2025 (IPCA médio anual)",
+      "periodo": "2019–2022",
+      "fonte": {
+        "nome": "Banco Central – SGS série 433 (IPCA mensal), usada para deflacionar a preços médios de 2025",
+        "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.433/dados?formato=json&dataInicial=01/01/2018&dataFinal=30/09/2026",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Média anual real, governo Lula 3",
+      "valor": 402.0,
+      "unidade": "R$ bilhões de 2025 (IPCA médio anual)",
+      "periodo": "2023–2025",
+      "fonte": {
+        "nome": "Banco Central – SGS série 433 (IPCA mensal), usada para deflacionar a preços médios de 2025",
+        "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.433/dados?formato=json&dataInicial=01/01/2018&dataFinal=30/09/2026",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Crédito real 2022",
+      "valor": 416.1,
+      "unidade": "R$ bilhões de 2025",
+      "periodo": "2022",
+      "fonte": {
+        "nome": "Banco Central – SGS série 433 (IPCA mensal), usada para deflacionar a preços médios de 2025",
+        "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.433/dados?formato=json&dataInicial=01/01/2018&dataFinal=30/09/2026",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Crédito real 2025",
+      "valor": 361.2,
+      "unidade": "R$ bilhões de 2025",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Banco Central – SGS série 433 (IPCA mensal), usada para deflacionar a preços médios de 2025",
+        "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.433/dados?formato=json&dataInicial=01/01/2018&dataFinal=30/09/2026",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    }
+  ],
+  "fontes_primarias": [
+    {
+      "nome": "Banco Central – SICOR/Matriz de Dados do Crédito Rural, API OData 'ProgramaSubprograma' (valores contratados de custeio, investimento, comercialização e industrialização, por mês de emissão)",
+      "url": "https://olinda.bcb.gov.br/olinda/servico/SICOR/versao/v2/odata/ProgramaSubprograma",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    },
+    {
+      "nome": "Banco Central – SGS série 433 (IPCA mensal), usada para deflacionar a preços médios de 2025",
+      "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.433/dados?formato=json&dataInicial=01/01/2018&dataFinal=30/09/2026",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Banco Central – SICOR/Matriz de Dados do Crédito Rural, API OData 'ProgramaSubprograma' (valores contratados de custeio, investimento, comercialização e industrialização, por mês de emissão)",
+      "url": "https://olinda.bcb.gov.br/olinda/servico/SICOR/versao/v2/odata/ProgramaSubprograma",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    },
+    {
+      "nome": "Banco Central – SGS série 433 (IPCA mensal), usada para deflacionar a preços médios de 2025",
+      "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.433/dados?formato=json&dataInicial=01/01/2018&dataFinal=30/09/2026",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/17_debate_globo_2026-10-23_checagem.md",
+  "atualizado_em": "2026-10-24",
+  "lacunas": [
+    "Valores anunciados de cada Plano Safra (MAPA) e custo de equalização do Tesouro não foram obtidos: gov.br/agricultura e Tesouro bloqueados por limite de acesso (HTTP 429/captcha).",
+    "Deflação por média anual do IPCA (cálculo próprio a partir da série SGS 433); ano civil, não ano-safra. Por ano-safra (jul–jun), SICOR: 2022/23 R$ 360,7 bi; 2023/24 R$ 422,0 bi; 2024/25 R$ 383,3 bi; 2025/26 R$ 353,3 bi (nominais).",
+    "Checagem feita apenas com fontes oficiais (governo federal, estadual, Legislativo, Judiciário, TSE, órgãos intergovernamentais e governos estrangeiros), sem imprensa nem agências de checagem, por decisão editorial desta edição."
+  ],
+  "changelog": [
+    {
+      "data": "2026-10-24",
+      "o_que_mudou": "publicação (checagem só com fontes oficiais)"
+    }
+  ],
+  "id_no_debate": "L17",
+  "leitura_checada": "Leitura literal da legenda.",
+  "leitura_incerta": false
+}

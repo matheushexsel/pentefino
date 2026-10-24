@@ -1,0 +1,86 @@
+{
+  "id": "fala-0463",
+  "slug": "lula-globo-tive-presidente-banco-central-8-anos-troquei-fernando",
+  "evento_id": "debate-globo-2turno-2026-10-23",
+  "candidato": "lula",
+  "lado": "governo-lula-pt",
+  "minuto": "Bloco 2 — pergunta 2 · clipe g1 05:09",
+  "url_trecho": "https://youtu.be/jctCsMD2nTE?t=309",
+  "frase_literal": "eu tive presidente do Banco Central 8 anos, não troquei. Fernando Henrique [trocou] quatro vezes",
+  "literal": true,
+  "variantes_literais": [],
+  "tema": "eleicao-2026",
+  "veredito": "verdadeiro",
+  "resumo_uma_frase": "Henrique Meirelles presidiu o BC durante os oito anos de Lula; no governo FHC houve cinco presidentes (Pérsio Arida, Gustavo Loyola, Gustavo Franco, Francisco Lopes e Armínio Fraga), ou seja, quatro trocas.",
+  "explicacao_simples": [
+    "A coleção 'História Contada' do BC descreve Meirelles como o presidente que mais tempo ficou no cargo: oito anos.",
+    "Pérsio Arida assumiu com FHC e ficou cerca de cinco meses; Loyola foi de jun/1995 a ago/1997; Franco de ago/1997 a mar/1999; Francisco Lopes ficou poucas semanas em 1999; Armínio Fraga assumiu em 1999 e ficou até o fim do governo.",
+    "Cinco presidentes significam quatro substituições."
+  ],
+  "o_que_e_verdade": [
+    "Um presidente do BC com Lula (2003–2010), cinco com FHC (1995–2002)."
+  ],
+  "o_que_nao_se_sustenta": [],
+  "numeros": [
+    {
+      "rotulo": "Presidentes do BC no governo FHC",
+      "valor": 5,
+      "unidade": "pessoas",
+      "periodo": "1995–2002",
+      "fonte": {
+        "nome": "Banco Central do Brasil, coleção 'História Contada do Banco Central' (perfis dos ex-presidentes)",
+        "url": "https://www.bcb.gov.br/historiacontada/",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Presidentes do BC nos governos Lula 1-2",
+      "valor": 1,
+      "unidade": "pessoa",
+      "periodo": "2003–2010",
+      "fonte": {
+        "nome": "Banco Central do Brasil, coleção 'História Contada do Banco Central' (perfis dos ex-presidentes)",
+        "url": "https://www.bcb.gov.br/historiacontada/",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    }
+  ],
+  "fontes_primarias": [
+    {
+      "nome": "Banco Central do Brasil, coleção 'História Contada do Banco Central' (perfis dos ex-presidentes)",
+      "url": "https://www.bcb.gov.br/historiacontada/",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Banco Central do Brasil, coleção 'História Contada do Banco Central' (perfis dos ex-presidentes)",
+      "url": "https://www.bcb.gov.br/historiacontada/",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/17_debate_globo_2026-10-23_checagem.md",
+  "atualizado_em": "2026-10-24",
+  "lacunas": [
+    "Leitura incerta da legenda automática; a checagem usou a leitura: Lula teve um único presidente do BC em 8 anos; FHC trocou quatro vezes.",
+    "Datas exatas de posse de Francisco Lopes e Armínio Fraga não reconferidas; perfis da 'História Contada' lidos por índice de busca (o PDF de composição histórica do BC retornou 404).",
+    "Checagem feita apenas com fontes oficiais (governo federal, estadual, Legislativo, Judiciário, TSE, órgãos intergovernamentais e governos estrangeiros), sem imprensa nem agências de checagem, por decisão editorial desta edição."
+  ],
+  "changelog": [
+    {
+      "data": "2026-10-24",
+      "o_que_mudou": "publicação (checagem só com fontes oficiais)"
+    }
+  ],
+  "id_no_debate": "L60",
+  "leitura_checada": "Lula teve um único presidente do BC em 8 anos; FHC trocou quatro vezes.",
+  "leitura_incerta": true
+}

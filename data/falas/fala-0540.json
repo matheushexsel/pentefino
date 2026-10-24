@@ -1,0 +1,124 @@
+{
+  "id": "fala-0540",
+  "slug": "lula-globo-sabe-tava-barco-dia-morreu-100-mil-pessoas",
+  "evento_id": "debate-globo-2turno-2026-10-23",
+  "candidato": "lula",
+  "lado": "governo-lula-pt",
+  "minuto": "Bloco 4 — tema livre · clipe g1 12:24",
+  "url_trecho": "https://youtu.be/rUnAbA73RH0?t=744",
+  "frase_literal": "Ele sabe que ele tava no barco no dia que morreu 100 [mil] pessoas [...] no Brasil por causa da COVID, ele estava num barco negociando com dois empresários. [...] o dado concreto é que as vacinas não vieram",
+  "literal": true,
+  "variantes_literais": [],
+  "tema": "eleicao-2026",
+  "veredito": "insustentavel",
+  "resumo_uma_frase": "Não há registro oficial do encontro no barco; é verdade que o Brasil passou de 100 mil mortes em agosto de 2020 e que nenhuma dose da Covaxin foi entregue.",
+  "explicacao_simples": [
+    "Pelos dados enviados à OMS, o total passou de 100 mil mortes nos dados notificados em 10/08/2020 (98.493 em 08/08 e 100.477 em 10/08).",
+    "O contrato da Covaxin previa 20 milhões de doses (US$ 1,6 bilhão), e em julho de 2021 o laboratório Bharat Biotech rompeu com a Precisa e declarou não ter recebido pagamento antecipado nem fornecido vacinas ao Ministério da Saúde.",
+    "Na fala anterior, Lula situou o encontro em julho de 2020, antes da marca de 100 mil mortes, o que é inconsistente."
+  ],
+  "o_que_e_verdade": [
+    "O Brasil chegou a 100 mil mortes em agosto de 2020.",
+    "Nenhuma dose da Covaxin foi entregue ao Brasil."
+  ],
+  "o_que_nao_se_sustenta": [
+    "O encontro de Flávio num barco no dia das 100 mil mortes não tem registro oficial localizado."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Óbitos acumulados notificados à OMS",
+      "valor": 98493,
+      "unidade": "óbitos",
+      "periodo": "08/08/2020",
+      "fonte": {
+        "nome": "OMS — WHO COVID-19 global daily data (CSV, dados notificados pelo Ministério da Saúde)",
+        "url": "https://srhdpeuwpubsa.blob.core.windows.net/whdh/COVID/WHO-COVID-19-global-daily-data.csv",
+        "acesso_em": "2026-10-24",
+        "tier": "intergovernamental"
+      }
+    },
+    {
+      "rotulo": "Óbitos acumulados notificados à OMS",
+      "valor": 100477,
+      "unidade": "óbitos",
+      "periodo": "10/08/2020",
+      "fonte": {
+        "nome": "OMS — WHO COVID-19 global daily data (CSV, dados notificados pelo Ministério da Saúde)",
+        "url": "https://srhdpeuwpubsa.blob.core.windows.net/whdh/COVID/WHO-COVID-19-global-daily-data.csv",
+        "acesso_em": "2026-10-24",
+        "tier": "intergovernamental"
+      }
+    },
+    {
+      "rotulo": "Doses previstas no contrato da Covaxin",
+      "valor": 20000000,
+      "unidade": "doses",
+      "periodo": "contrato de 2021",
+      "fonte": {
+        "nome": "Agência Senado — 'CPI provocou fim de contrato de laboratório indiano com a Precisa, dizem senadores' (23/07/2021)",
+        "url": "https://www12.senado.leg.br/noticias/materias/2021/07/23/cpi-provocou-fim-de-contrato-de-laboratorio-indiano-com-a-precisa-dizem-senadores",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-legislativo"
+      }
+    }
+  ],
+  "fontes_primarias": [
+    {
+      "nome": "OMS — WHO COVID-19 global daily data (CSV, dados notificados pelo Ministério da Saúde)",
+      "url": "https://srhdpeuwpubsa.blob.core.windows.net/whdh/COVID/WHO-COVID-19-global-daily-data.csv",
+      "acesso_em": "2026-10-24",
+      "tier": "intergovernamental"
+    },
+    {
+      "nome": "Agência Senado — 'CPI provocou fim de contrato de laboratório indiano com a Precisa, dizem senadores' (23/07/2021)",
+      "url": "https://www12.senado.leg.br/noticias/materias/2021/07/23/cpi-provocou-fim-de-contrato-de-laboratorio-indiano-com-a-precisa-dizem-senadores",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    },
+    {
+      "nome": "Agência Senado (reprodução do relatório final da CPI da Pandemia) — 'Veja a lista dos indiciados da CPI da Pandemia' (26/10/2021)",
+      "url": "https://www12.senado.leg.br/noticias/materias/2021/10/26/veja-a-lista-dos-indiciados-da-cpi-no-relatorio-de-renan-calheiros",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "OMS — WHO COVID-19 global daily data (CSV, dados notificados pelo Ministério da Saúde)",
+      "url": "https://srhdpeuwpubsa.blob.core.windows.net/whdh/COVID/WHO-COVID-19-global-daily-data.csv",
+      "acesso_em": "2026-10-24",
+      "tier": "intergovernamental"
+    },
+    {
+      "nome": "Agência Senado — 'CPI provocou fim de contrato de laboratório indiano com a Precisa, dizem senadores' (23/07/2021)",
+      "url": "https://www12.senado.leg.br/noticias/materias/2021/07/23/cpi-provocou-fim-de-contrato-de-laboratorio-indiano-com-a-precisa-dizem-senadores",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    },
+    {
+      "nome": "Agência Senado (reprodução do relatório final da CPI da Pandemia) — 'Veja a lista dos indiciados da CPI da Pandemia' (26/10/2021)",
+      "url": "https://www12.senado.leg.br/noticias/materias/2021/10/26/veja-a-lista-dos-indiciados-da-cpi-no-relatorio-de-renan-calheiros",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/17_debate_globo_2026-10-23_checagem.md",
+  "atualizado_em": "2026-10-24",
+  "lacunas": [
+    "Avisos do Ministério da Saúde de 2021 sobre suspensão e cancelamento do contrato exigiram login (período eleitoral); relatório integral da CPI bloqueado.",
+    "Checagem feita apenas com fontes oficiais (governo federal, estadual, Legislativo, Judiciário, TSE, órgãos intergovernamentais e governos estrangeiros), sem imprensa nem agências de checagem, por decisão editorial desta edição."
+  ],
+  "changelog": [
+    {
+      "data": "2026-10-24",
+      "o_que_mudou": "publicação (checagem só com fontes oficiais)"
+    }
+  ],
+  "id_no_debate": "L92",
+  "leitura_checada": "'Morreu 100 pessoas' corrigido pelo próprio Lula para 100 mil; Flávio estaria num barco negociando com dois empresários no dia em que o Brasil chegou a 100 mil mortes; as vacinas (Covaxin) não vieram.",
+  "leitura_incerta": false
+}

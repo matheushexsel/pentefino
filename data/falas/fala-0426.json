@@ -1,0 +1,186 @@
+{
+  "id": "fala-0426",
+  "slug": "flavio-globo-estados-nordeste-sao-administrados-pelos-pelo-pt-pelos",
+  "evento_id": "debate-globo-2turno-2026-10-23",
+  "candidato": "flavio-bolsonaro",
+  "lado": "oposicao-flavio-pl",
+  "minuto": "Bloco 1 — pergunta 6 · clipe g1 03:01",
+  "url_trecho": "https://youtu.be/vASlNIMp2PM?t=181",
+  "frase_literal": "os estados Nordeste são administrados pelos pelo PT e pelos seus parceiros. São os estados mais violentos do Brasil",
+  "literal": true,
+  "variantes_literais": [],
+  "tema": "seguranca",
+  "veredito": "verdadeiro-mas",
+  "resumo_uma_frase": "Pelo SINESP de 2025, seis estados do Nordeste estão entre os sete com mais mortes violentas por habitante, mas o primeiro é o Amapá e o quarto é Pernambuco, governado pela oposição ao PT.",
+  "explicacao_simples": [
+    "Taxas de mortes violentas por 100 mil habitantes em 2025 (SINESP e IBGE): Amapá 42,4; Bahia 36,8; Ceará 34,8; Pernambuco 32,9; Alagoas 32,8; Maranhão 29,7; Rio Grande do Norte 29,1.",
+    "Bahia, Ceará e Rio Grande do Norte têm governadores do PT; Maranhão (PSB) e Alagoas (MDB) foram eleitos em coligações com o PT.",
+    "Pernambuco (Raquel Lyra, eleita pelo PSDB em coligação sem o PT) e Sergipe (PSD, coligação sem o PT) não se encaixam, e o Piauí (PT) está abaixo da média nacional.",
+    "A segurança pública é executada sobretudo pelos governos estaduais."
+  ],
+  "o_que_e_verdade": [
+    "Seis dos sete estados com maior taxa de mortes violentas em 2025 são do Nordeste (SINESP)."
+  ],
+  "o_que_nao_se_sustenta": [
+    "O estado mais violento é o Amapá (Norte, governado pelo Solidariedade).",
+    "Nem todos são governados pelo PT ou aliados: Pernambuco é governado pela oposição."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Taxa de mortes violentas (CVLI + MIAE), Amapá",
+      "valor": 42.4,
+      "unidade": "por 100 mil hab.",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "MJSP/SINESP VDE — base de dados nacional 2025 (bancovde-2025.xlsx; cálculo próprio por UF e evento)",
+        "url": "https://www.gov.br/mj/pt-br/assuntos/sua-seguranca/seguranca-publica/estatistica/download/dnsp-base-de-dados/bancovde-2025.xlsx/view",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Taxa de mortes violentas, Bahia (PT)",
+      "valor": 36.8,
+      "unidade": "por 100 mil hab.",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "MJSP/SINESP VDE — base de dados nacional 2025 (bancovde-2025.xlsx; cálculo próprio por UF e evento)",
+        "url": "https://www.gov.br/mj/pt-br/assuntos/sua-seguranca/seguranca-publica/estatistica/download/dnsp-base-de-dados/bancovde-2025.xlsx/view",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Taxa de mortes violentas, Ceará (PT)",
+      "valor": 34.8,
+      "unidade": "por 100 mil hab.",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "MJSP/SINESP VDE — base de dados nacional 2025 (bancovde-2025.xlsx; cálculo próprio por UF e evento)",
+        "url": "https://www.gov.br/mj/pt-br/assuntos/sua-seguranca/seguranca-publica/estatistica/download/dnsp-base-de-dados/bancovde-2025.xlsx/view",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Taxa de mortes violentas, Pernambuco (PSDB na eleição)",
+      "valor": 32.9,
+      "unidade": "por 100 mil hab.",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "MJSP/SINESP VDE — base de dados nacional 2025 (bancovde-2025.xlsx; cálculo próprio por UF e evento)",
+        "url": "https://www.gov.br/mj/pt-br/assuntos/sua-seguranca/seguranca-publica/estatistica/download/dnsp-base-de-dados/bancovde-2025.xlsx/view",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Taxa de mortes violentas, Alagoas (MDB, coligação com PT)",
+      "valor": 32.8,
+      "unidade": "por 100 mil hab.",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "MJSP/SINESP VDE — base de dados nacional 2025 (bancovde-2025.xlsx; cálculo próprio por UF e evento)",
+        "url": "https://www.gov.br/mj/pt-br/assuntos/sua-seguranca/seguranca-publica/estatistica/download/dnsp-base-de-dados/bancovde-2025.xlsx/view",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Taxa de mortes violentas, Piauí (PT)",
+      "valor": 16.8,
+      "unidade": "por 100 mil hab.",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "MJSP/SINESP VDE — base de dados nacional 2025 (bancovde-2025.xlsx; cálculo próprio por UF e evento)",
+        "url": "https://www.gov.br/mj/pt-br/assuntos/sua-seguranca/seguranca-publica/estatistica/download/dnsp-base-de-dados/bancovde-2025.xlsx/view",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Taxa de mortes violentas, São Paulo",
+      "valor": 7.9,
+      "unidade": "por 100 mil hab.",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "MJSP/SINESP VDE — base de dados nacional 2025 (bancovde-2025.xlsx; cálculo próprio por UF e evento)",
+        "url": "https://www.gov.br/mj/pt-br/assuntos/sua-seguranca/seguranca-publica/estatistica/download/dnsp-base-de-dados/bancovde-2025.xlsx/view",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    }
+  ],
+  "fontes_primarias": [
+    {
+      "nome": "MJSP/SINESP VDE — base de dados nacional 2025 (bancovde-2025.xlsx; cálculo próprio por UF e evento)",
+      "url": "https://www.gov.br/mj/pt-br/assuntos/sua-seguranca/seguranca-publica/estatistica/download/dnsp-base-de-dados/bancovde-2025.xlsx/view",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    },
+    {
+      "nome": "MJSP/SINESP VDE — base de dados nacional 2024 (bancovde-2024.xlsx; cálculo próprio por UF e evento)",
+      "url": "https://www.gov.br/mj/pt-br/assuntos/sua-seguranca/seguranca-publica/estatistica/download/dnsp-base-de-dados/bancovde-2024.xlsx/view",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    },
+    {
+      "nome": "IBGE — Estimativas de população por UF, tabela 6579 (SIDRA)",
+      "url": "https://apisidra.ibge.gov.br/values/t/6579/n3/all/v/9324/p/2024,2025",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    },
+    {
+      "nome": "TSE — Dados abertos, candidaturas 2022 (consulta_cand_2022), governadores eleitos e coligações",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand/consulta_cand_2022.zip",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-judiciario"
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "MJSP/SINESP VDE — base de dados nacional 2025 (bancovde-2025.xlsx; cálculo próprio por UF e evento)",
+      "url": "https://www.gov.br/mj/pt-br/assuntos/sua-seguranca/seguranca-publica/estatistica/download/dnsp-base-de-dados/bancovde-2025.xlsx/view",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    },
+    {
+      "nome": "MJSP/SINESP VDE — base de dados nacional 2024 (bancovde-2024.xlsx; cálculo próprio por UF e evento)",
+      "url": "https://www.gov.br/mj/pt-br/assuntos/sua-seguranca/seguranca-publica/estatistica/download/dnsp-base-de-dados/bancovde-2024.xlsx/view",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    },
+    {
+      "nome": "IBGE — Estimativas de população por UF, tabela 6579 (SIDRA)",
+      "url": "https://apisidra.ibge.gov.br/values/t/6579/n3/all/v/9324/p/2024,2025",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    },
+    {
+      "nome": "TSE — Dados abertos, candidaturas 2022 (consulta_cand_2022), governadores eleitos e coligações",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand/consulta_cand_2022.zip",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-judiciario"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/17_debate_globo_2026-10-23_checagem.md",
+  "atualizado_em": "2026-10-24",
+  "lacunas": [
+    "Taxas calculadas pelo projeto com vítimas do SINESP e população estimada do IBGE (2025); podem diferir das publicadas por outras instituições.",
+    "O partido dos governadores é o da eleição de 2022 (TSE); trocas de partido posteriores não foram conferidas em fonte oficial.",
+    "Checagem feita apenas com fontes oficiais (governo federal, estadual, Legislativo, Judiciário, TSE, órgãos intergovernamentais e governos estrangeiros), sem imprensa nem agências de checagem, por decisão editorial desta edição."
+  ],
+  "changelog": [
+    {
+      "data": "2026-10-24",
+      "o_que_mudou": "publicação (checagem só com fontes oficiais)"
+    }
+  ],
+  "id_no_debate": "F40",
+  "leitura_checada": "Os estados do Nordeste, governados pelo PT e aliados, são os mais violentos do Brasil.",
+  "leitura_incerta": false
+}

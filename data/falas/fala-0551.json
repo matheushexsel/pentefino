@@ -1,0 +1,160 @@
+{
+  "id": "fala-0551",
+  "slug": "flavio-globo-prometeu-ia-indicar-seus-amigos-pro-supremo-indicou",
+  "evento_id": "debate-globo-2turno-2026-10-23",
+  "candidato": "flavio-bolsonaro",
+  "lado": "oposicao-flavio-pl",
+  "minuto": "Bloco 4 — tema livre · clipe g1 16:38",
+  "url_trecho": "https://youtu.be/rUnAbA73RH0?t=998",
+  "frase_literal": "Você prometeu que não ia indicar seus amigos pro Supremo, indicou",
+  "literal": true,
+  "variantes_literais": [],
+  "tema": "corrupcao",
+  "veredito": "falta-contexto",
+  "resumo_uma_frase": "Lula indicou ao STF o advogado pessoal dele (Zanin, aprovado por 58 a 18) e o próprio ministro da Justiça (Dino, aprovado por 47 a 31); a \"promessa\" de não indicar amigos não tem registro oficial, e a indicação de Messias foi rejeitada pelo Senado (34 a 42).",
+  "explicacao_simples": [
+    "O TRF4 registra Cristiano Zanin como advogado de Lula nas apelações da Lava Jato; o Senado aprovou a indicação dele em 21/06/2023 por 58 a 18.",
+    "Flávio Dino era ministro da Justiça de Lula quando foi aprovado para o STF em 13/12/2023, por 47 a 31 (2 abstenções).",
+    "Em 29/04/2026 o Senado rejeitou Jorge Messias (34 a 42); a promessa atribuída a Lula não aparece em fonte oficial."
+  ],
+  "o_que_e_verdade": [
+    "Zanin, advogado de Lula, foi indicado e aprovado para o STF (58 x 18, 21/06/2023) — Senado; TRF4.",
+    "Dino, ministro da Justiça de Lula, foi aprovado para o STF (47 x 31, 13/12/2023) — Senado."
+  ],
+  "o_que_nao_se_sustenta": [
+    "\"Amigos\" é qualificação política; a suposta promessa não tem registro oficial."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Votos a favor de Zanin no Senado",
+      "valor": 58,
+      "unidade": "votos (18 contra)",
+      "periodo": "21/06/2023",
+      "fonte": {
+        "nome": "Senado — dados abertos, votações de 21/06/2023 (MSF 34/2023, Cristiano Zanin Martins)",
+        "url": "https://legis.senado.leg.br/dadosabertos/plenario/lista/votacao/20230621.json",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-legislativo"
+      }
+    },
+    {
+      "rotulo": "Votos a favor de Dino no Senado",
+      "valor": 47,
+      "unidade": "votos (31 contra, 2 abstenções)",
+      "periodo": "13/12/2023",
+      "fonte": {
+        "nome": "Senado — dados abertos, votações de 13/12/2023 (MSF 88/2023, Flávio Dino)",
+        "url": "https://legis.senado.leg.br/dadosabertos/plenario/lista/votacao/20231213.json",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-legislativo"
+      }
+    },
+    {
+      "rotulo": "Votos a favor de Messias no Senado (rejeitado)",
+      "valor": 34,
+      "unidade": "votos (42 contra, 1 abstenção)",
+      "periodo": "29/04/2026",
+      "fonte": {
+        "nome": "Senado — dados abertos, votações de 29/04/2026 (MSF 7/2026, Jorge Messias — rejeitada)",
+        "url": "https://legis.senado.leg.br/dadosabertos/plenario/lista/votacao/20260429.json",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-legislativo"
+      }
+    }
+  ],
+  "fontes_primarias": [
+    {
+      "nome": "Senado — dados abertos, votações de 21/06/2023 (MSF 34/2023, Cristiano Zanin Martins)",
+      "url": "https://legis.senado.leg.br/dadosabertos/plenario/lista/votacao/20230621.json",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    },
+    {
+      "nome": "Senado — dados abertos, votações de 13/12/2023 (MSF 88/2023, Flávio Dino)",
+      "url": "https://legis.senado.leg.br/dadosabertos/plenario/lista/votacao/20231213.json",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    },
+    {
+      "nome": "Rádio Senado — \"Plenário aprova indicação do ministro da Justiça, Flávio Dino, para o Supremo Tribunal Federal\" (13/12/2023)",
+      "url": "https://www12.senado.leg.br/radio/1/noticia/2023/12/13/plenario-aprova-indicacao-do-ministro-da-justica-flavio-dino-para-o-supremo-tribunal-federal",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    },
+    {
+      "nome": "Senado — dados abertos, votações de 29/04/2026 (MSF 7/2026, Jorge Messias — rejeitada)",
+      "url": "https://legis.senado.leg.br/dadosabertos/plenario/lista/votacao/20260429.json",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    },
+    {
+      "nome": "TRF4 — \"Operação Lava Jato: TRF4 confirma condenação do ex-presidente Luiz Inácio Lula da Silva\" (24/01/2018)",
+      "url": "https://www.trf4.jus.br/trf4/controlador.php?acao=noticia_visualizar&id_noticia=13418",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-judiciario"
+    },
+    {
+      "nome": "TRF4 — \"TRF4 confirma condenação do ex-presidente Lula\" (Sítio de Atibaia, 27/11/2019)",
+      "url": "https://www.trf4.jus.br/trf4/controlador.php?acao=noticia_visualizar&id_noticia=14914",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-judiciario"
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Senado — dados abertos, votações de 21/06/2023 (MSF 34/2023, Cristiano Zanin Martins)",
+      "url": "https://legis.senado.leg.br/dadosabertos/plenario/lista/votacao/20230621.json",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    },
+    {
+      "nome": "Senado — dados abertos, votações de 13/12/2023 (MSF 88/2023, Flávio Dino)",
+      "url": "https://legis.senado.leg.br/dadosabertos/plenario/lista/votacao/20231213.json",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    },
+    {
+      "nome": "Rádio Senado — \"Plenário aprova indicação do ministro da Justiça, Flávio Dino, para o Supremo Tribunal Federal\" (13/12/2023)",
+      "url": "https://www12.senado.leg.br/radio/1/noticia/2023/12/13/plenario-aprova-indicacao-do-ministro-da-justica-flavio-dino-para-o-supremo-tribunal-federal",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    },
+    {
+      "nome": "Senado — dados abertos, votações de 29/04/2026 (MSF 7/2026, Jorge Messias — rejeitada)",
+      "url": "https://legis.senado.leg.br/dadosabertos/plenario/lista/votacao/20260429.json",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    },
+    {
+      "nome": "TRF4 — \"Operação Lava Jato: TRF4 confirma condenação do ex-presidente Luiz Inácio Lula da Silva\" (24/01/2018)",
+      "url": "https://www.trf4.jus.br/trf4/controlador.php?acao=noticia_visualizar&id_noticia=13418",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-judiciario"
+    },
+    {
+      "nome": "TRF4 — \"TRF4 confirma condenação do ex-presidente Lula\" (Sítio de Atibaia, 27/11/2019)",
+      "url": "https://www.trf4.jus.br/trf4/controlador.php?acao=noticia_visualizar&id_noticia=14914",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-judiciario"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/17_debate_globo_2026-10-23_checagem.md",
+  "atualizado_em": "2026-10-24",
+  "lacunas": [
+    "Declaração de Lula de 2022 sobre critérios de indicação ao STF não tem registro oficial (só imprensa).",
+    "Checagem feita apenas com fontes oficiais (governo federal, estadual, Legislativo, Judiciário, TSE, órgãos intergovernamentais e governos estrangeiros), sem imprensa nem agências de checagem, por decisão editorial desta edição."
+  ],
+  "changelog": [
+    {
+      "data": "2026-10-24",
+      "o_que_mudou": "publicação (checagem só com fontes oficiais)"
+    }
+  ],
+  "id_no_debate": "F112",
+  "leitura_checada": "\"Você prometeu que não ia indicar seus amigos pro Supremo, indicou\" — refere-se às indicações de Cristiano Zanin (2023) e Flávio Dino (2023) e à de Jorge Messias (2026).",
+  "leitura_incerta": false
+}

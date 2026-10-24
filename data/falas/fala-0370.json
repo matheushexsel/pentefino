@@ -1,0 +1,170 @@
+{
+  "id": "fala-0370",
+  "slug": "flavio-globo-epoca-presidente-bolsonaro-tinha-la-seus-r-600",
+  "evento_id": "debate-globo-2turno-2026-10-23",
+  "candidato": "flavio-bolsonaro",
+  "lado": "oposicao-flavio-pl",
+  "minuto": "Bloco 1 — pergunta 2 · clipe g1 05:28",
+  "url_trecho": "https://youtu.be/26XCkA5BHm8?t=328",
+  "frase_literal": "na época do presidente Bolsonaro, você tinha lá os seus R$ 600 do Bolso Família, que foi o Bolsonaro que deu no mínimo R$ 600",
+  "literal": true,
+  "variantes_literais": [],
+  "tema": "pobreza-programas-sociais",
+  "veredito": "falta-contexto",
+  "resumo_uma_frase": "O mínimo de R$ 600 foi pago no governo Bolsonaro, mas só de agosto a dezembro de 2022, por emenda constitucional temporária; o piso permanente deixado por lei era de R$ 400, e os R$ 600 em 2023 dependeram da EC 126/2022 e da Lei 14.601/2023.",
+  "explicacao_simples": [
+    "A EC 123/2022 deu um acréscimo extraordinário de R$ 200 às famílias do Auxílio Brasil só entre 1º/08 e 31/12/2022.",
+    "O piso permanente previsto em lei no governo Bolsonaro era de R$ 400 (Lei 14.342/2022).",
+    "A manutenção dos R$ 600 a partir de 2023 veio da EC 126/2022, que ampliou o teto de gastos, e da Lei 14.601/2023, que fixou os R$ 600 como valor de referência do Bolsa Família."
+  ],
+  "o_que_e_verdade": [
+    "Houve pagamento de no mínimo R$ 600 por família entre agosto e dezembro de 2022, com Bolsonaro presidente (EC 123/2022).",
+    "A emenda e as leis do período foram promulgadas ou sancionadas no governo Bolsonaro."
+  ],
+  "o_que_nao_se_sustenta": [
+    "Apresentar os R$ 600 como valor permanente deixado por Bolsonaro: a EC 123/2022 limitava o acréscimo a cinco meses e a lei permanente garantia R$ 400.",
+    "Chamar o programa de Bolsa Família no período: de 2021 a fev/2023 ele se chamava Auxílio Brasil."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Acréscimo extraordinário mensal (EC 123/2022)",
+      "valor": 200,
+      "unidade": "R$ por família",
+      "periodo": "ago–dez/2022",
+      "fonte": {
+        "nome": "Planalto — Emenda Constitucional 123, de 14/07/2022",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc123.htm",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-legislativo"
+      }
+    },
+    {
+      "rotulo": "Piso permanente do Auxílio Brasil (benefício extraordinário até R$ 400)",
+      "valor": 400,
+      "unidade": "R$ por família",
+      "periodo": "a partir de 2022",
+      "fonte": {
+        "nome": "Planalto — Lei 14.342, de 18/05/2022 (benefício extraordinário do Auxílio Brasil, piso de R$ 400)",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14342.htm",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-legislativo"
+      }
+    },
+    {
+      "rotulo": "Valor de referência do Bolsa Família (Lei 14.601/2023)",
+      "valor": 600,
+      "unidade": "R$ por família",
+      "periodo": "a partir de 2023",
+      "fonte": {
+        "nome": "Planalto — Lei 14.601, de 19/06/2023 (Programa Bolsa Família)",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14601.htm",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-legislativo"
+      }
+    },
+    {
+      "rotulo": "Aumento do teto de gastos para 2023 (EC 126/2022)",
+      "valor": 145000000000,
+      "unidade": "R$",
+      "periodo": "exercício 2023",
+      "fonte": {
+        "nome": "Planalto — Emenda Constitucional 126, de 21/12/2022",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc126.htm",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-legislativo"
+      }
+    }
+  ],
+  "fontes_primarias": [
+    {
+      "nome": "Planalto — Emenda Constitucional 123, de 14/07/2022",
+      "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc123.htm",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    },
+    {
+      "nome": "Planalto — Lei 14.342, de 18/05/2022 (benefício extraordinário do Auxílio Brasil, piso de R$ 400)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14342.htm",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    },
+    {
+      "nome": "Planalto — Emenda Constitucional 126, de 21/12/2022",
+      "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc126.htm",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    },
+    {
+      "nome": "Planalto — Lei 14.601, de 19/06/2023 (Programa Bolsa Família)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14601.htm",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    }
+  ],
+  "base_legal": [
+    {
+      "norma": "EC 123/2022, art. 5º, I",
+      "o_que_diz": "Acréscimo mensal extraordinário de R$ 200 às famílias do Auxílio Brasil durante 5 meses, de 1º/08 a 31/12/2022, até R$ 26 bilhões.",
+      "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc123.htm"
+    },
+    {
+      "norma": "Lei 14.342/2022, arts. 1º e 2º (revogados pela Lei 14.601/2023)",
+      "o_que_diz": "Benefício extraordinário permanente para completar R$ 400 por família no Auxílio Brasil.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14342.htm"
+    },
+    {
+      "norma": "EC 126/2022, art. 3º",
+      "o_que_diz": "Acresce R$ 145 bilhões ao limite de gastos de 2023.",
+      "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc126.htm"
+    },
+    {
+      "norma": "Lei 14.601/2023, art. 7º",
+      "o_que_diz": "Institui o Bolsa Família com valor de referência de R$ 600 e benefício de R$ 142 por pessoa.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14601.htm"
+    }
+  ],
+  "checagens_externas": [],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Planalto — Emenda Constitucional 123, de 14/07/2022",
+      "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc123.htm",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    },
+    {
+      "nome": "Planalto — Lei 14.342, de 18/05/2022 (benefício extraordinário do Auxílio Brasil, piso de R$ 400)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14342.htm",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    },
+    {
+      "nome": "Planalto — Emenda Constitucional 126, de 21/12/2022",
+      "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc126.htm",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    },
+    {
+      "nome": "Planalto — Lei 14.601, de 19/06/2023 (Programa Bolsa Família)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14601.htm",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/17_debate_globo_2026-10-23_checagem.md",
+  "atualizado_em": "2026-10-24",
+  "lacunas": [
+    "Não consultei o PLOA 2023 enviado pelo governo Bolsonaro para quantificar o valor previsto para o benefício em 2023.",
+    "Checagem feita apenas com fontes oficiais (governo federal, estadual, Legislativo, Judiciário, TSE, órgãos intergovernamentais e governos estrangeiros), sem imprensa nem agências de checagem, por decisão editorial desta edição."
+  ],
+  "changelog": [
+    {
+      "data": "2026-10-24",
+      "o_que_mudou": "publicação (checagem só com fontes oficiais)"
+    }
+  ],
+  "id_no_debate": "F10",
+  "leitura_checada": "Afirma que, no governo Bolsonaro, o benefício (então chamado Auxílio Brasil) era de no mínimo R$ 600 e que isso foi obra de Bolsonaro.",
+  "leitura_incerta": false
+}

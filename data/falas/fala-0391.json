@@ -1,0 +1,208 @@
+{
+  "id": "fala-0391",
+  "slug": "flavio-globo-como-atual-governo-liberou-geral-nas-fronteiras-ta",
+  "evento_id": "debate-globo-2turno-2026-10-23",
+  "candidato": "flavio-bolsonaro",
+  "lado": "oposicao-flavio-pl",
+  "minuto": "Bloco 1 — pergunta 3 · clipe g1 04:37",
+  "url_trecho": "https://youtu.be/Z2AA0h2wr4U?t=277",
+  "frase_literal": "como o atual governo liberou geral nas fronteiras, tá aí, voltou a criminalidade com força, as rotas de tráfico de armas, drogas continuam",
+  "literal": true,
+  "variantes_literais": [],
+  "tema": "seguranca",
+  "veredito": "falso",
+  "resumo_uma_frase": "Os registros oficiais do SINESP mostram queda das mortes violentas e dos roubos de 2022 a 2025, no país e no Centro-Oeste; não há dado oficial que indique 'volta da criminalidade com força'.",
+  "explicacao_simples": [
+    "Somando homicídios, feminicídios, latrocínios, lesões seguidas de morte e mortes por intervenção policial, o SINESP registra 48,4 mil vítimas em 2022 e 41,1 mil em 2025 (−15%).",
+    "No Centro-Oeste (MS, MT, GO e DF), os crimes violentos letais caíram de 3.024 vítimas em 2022 para 2.235 em 2025 (−26%).",
+    "Roubos de veículo e de carga também caíram; o que subiu foram os registros de tráfico de drogas, que dependem da ação policial.",
+    "A segurança pública é executada sobretudo pelos estados; 'liberou geral' é uma avaliação política, sem medida oficial correspondente."
+  ],
+  "o_que_e_verdade": [
+    "Rotas de tráfico continuam ativas: as ocorrências de tráfico registradas subiram de 170.950 (2022) para 219.765 (2025), o que reflete também mais repressão."
+  ],
+  "o_que_nao_se_sustenta": [
+    "A violência letal e os roubos caíram no período; não houve 'volta da criminalidade com força' nos dados oficiais."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Mortes violentas (CVLI + mortes por intervenção de agente do Estado), Brasil",
+      "valor": 48391,
+      "unidade": "vítimas",
+      "periodo": "2022",
+      "fonte": {
+        "nome": "MJSP/SINESP VDE — base de dados nacional 2022 (bancovde-2022.xlsx; cálculo próprio por UF e evento)",
+        "url": "https://www.gov.br/mj/pt-br/assuntos/sua-seguranca/seguranca-publica/estatistica/download/dnsp-base-de-dados/bancovde-2022.xlsx/view",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Mortes violentas (CVLI + mortes por intervenção de agente do Estado), Brasil",
+      "valor": 41145,
+      "unidade": "vítimas",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "MJSP/SINESP VDE — base de dados nacional 2025 (bancovde-2025.xlsx; cálculo próprio por UF e evento)",
+        "url": "https://www.gov.br/mj/pt-br/assuntos/sua-seguranca/seguranca-publica/estatistica/download/dnsp-base-de-dados/bancovde-2025.xlsx/view",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "CVLI no Centro-Oeste (MS, MT, GO, DF)",
+      "valor": 3024,
+      "unidade": "vítimas",
+      "periodo": "2022",
+      "fonte": {
+        "nome": "MJSP/SINESP VDE — base de dados nacional 2022 (bancovde-2022.xlsx; cálculo próprio por UF e evento)",
+        "url": "https://www.gov.br/mj/pt-br/assuntos/sua-seguranca/seguranca-publica/estatistica/download/dnsp-base-de-dados/bancovde-2022.xlsx/view",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "CVLI no Centro-Oeste (MS, MT, GO, DF)",
+      "valor": 2235,
+      "unidade": "vítimas",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "MJSP/SINESP VDE — base de dados nacional 2025 (bancovde-2025.xlsx; cálculo próprio por UF e evento)",
+        "url": "https://www.gov.br/mj/pt-br/assuntos/sua-seguranca/seguranca-publica/estatistica/download/dnsp-base-de-dados/bancovde-2025.xlsx/view",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Roubo de veículo, Brasil",
+      "valor": 148135,
+      "unidade": "ocorrências",
+      "periodo": "2022",
+      "fonte": {
+        "nome": "MJSP/SINESP VDE — base de dados nacional 2022 (bancovde-2022.xlsx; cálculo próprio por UF e evento)",
+        "url": "https://www.gov.br/mj/pt-br/assuntos/sua-seguranca/seguranca-publica/estatistica/download/dnsp-base-de-dados/bancovde-2022.xlsx/view",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Roubo de veículo, Brasil",
+      "valor": 104539,
+      "unidade": "ocorrências",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "MJSP/SINESP VDE — base de dados nacional 2025 (bancovde-2025.xlsx; cálculo próprio por UF e evento)",
+        "url": "https://www.gov.br/mj/pt-br/assuntos/sua-seguranca/seguranca-publica/estatistica/download/dnsp-base-de-dados/bancovde-2025.xlsx/view",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Ocorrências de tráfico de drogas, Brasil",
+      "valor": 219765,
+      "unidade": "ocorrências",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "MJSP/SINESP VDE — base de dados nacional 2025 (bancovde-2025.xlsx; cálculo próprio por UF e evento)",
+        "url": "https://www.gov.br/mj/pt-br/assuntos/sua-seguranca/seguranca-publica/estatistica/download/dnsp-base-de-dados/bancovde-2025.xlsx/view",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Óbitos por agressão (SIM), Brasil",
+      "valor": 44367,
+      "unidade": "óbitos",
+      "periodo": "2022",
+      "fonte": {
+        "nome": "Ministério da Saúde/DATASUS — SIM, óbitos por causas externas, grupo CID-10 X85–Y09 (Agressões), por residência, por ano e sexo (TabNet; 2025 preliminar)",
+        "url": "http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sim/cnv/ext10uf.def",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Óbitos por agressão (SIM), Brasil",
+      "valor": 39946,
+      "unidade": "óbitos",
+      "periodo": "2024 (dado final)",
+      "fonte": {
+        "nome": "Ministério da Saúde/DATASUS — SIM, óbitos por causas externas, grupo CID-10 X85–Y09 (Agressões), por residência, por ano e sexo (TabNet; 2025 preliminar)",
+        "url": "http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sim/cnv/ext10uf.def",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    }
+  ],
+  "fontes_primarias": [
+    {
+      "nome": "MJSP — DNSP, base de dados SINESP VDE 2015–2026 (página de download)",
+      "url": "https://www.gov.br/mj/pt-br/assuntos/sua-seguranca/seguranca-publica/estatistica/download/dnsp-base-de-dados",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    },
+    {
+      "nome": "MJSP/SINESP VDE — base de dados nacional 2022 (bancovde-2022.xlsx; cálculo próprio por UF e evento)",
+      "url": "https://www.gov.br/mj/pt-br/assuntos/sua-seguranca/seguranca-publica/estatistica/download/dnsp-base-de-dados/bancovde-2022.xlsx/view",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    },
+    {
+      "nome": "MJSP/SINESP VDE — base de dados nacional 2025 (bancovde-2025.xlsx; cálculo próprio por UF e evento)",
+      "url": "https://www.gov.br/mj/pt-br/assuntos/sua-seguranca/seguranca-publica/estatistica/download/dnsp-base-de-dados/bancovde-2025.xlsx/view",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    },
+    {
+      "nome": "Ministério da Saúde/DATASUS — SIM, óbitos por causas externas, grupo CID-10 X85–Y09 (Agressões), por residência, por ano e sexo (TabNet; 2025 preliminar)",
+      "url": "http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sim/cnv/ext10uf.def",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "MJSP — DNSP, base de dados SINESP VDE 2015–2026 (página de download)",
+      "url": "https://www.gov.br/mj/pt-br/assuntos/sua-seguranca/seguranca-publica/estatistica/download/dnsp-base-de-dados",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    },
+    {
+      "nome": "MJSP/SINESP VDE — base de dados nacional 2022 (bancovde-2022.xlsx; cálculo próprio por UF e evento)",
+      "url": "https://www.gov.br/mj/pt-br/assuntos/sua-seguranca/seguranca-publica/estatistica/download/dnsp-base-de-dados/bancovde-2022.xlsx/view",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    },
+    {
+      "nome": "MJSP/SINESP VDE — base de dados nacional 2025 (bancovde-2025.xlsx; cálculo próprio por UF e evento)",
+      "url": "https://www.gov.br/mj/pt-br/assuntos/sua-seguranca/seguranca-publica/estatistica/download/dnsp-base-de-dados/bancovde-2025.xlsx/view",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    },
+    {
+      "nome": "Ministério da Saúde/DATASUS — SIM, óbitos por causas externas, grupo CID-10 X85–Y09 (Agressões), por residência, por ano e sexo (TabNet; 2025 preliminar)",
+      "url": "http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sim/cnv/ext10uf.def",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/17_debate_globo_2026-10-23_checagem.md",
+  "atualizado_em": "2026-10-24",
+  "lacunas": [
+    "Não foram consultadas séries específicas da PF/PRF sobre apreensões em faixa de fronteira; 'liberou geral nas fronteiras' não tem indicador oficial direto.",
+    "Checagem feita apenas com fontes oficiais (governo federal, estadual, Legislativo, Judiciário, TSE, órgãos intergovernamentais e governos estrangeiros), sem imprensa nem agências de checagem, por decisão editorial desta edição."
+  ],
+  "changelog": [
+    {
+      "data": "2026-10-24",
+      "o_que_mudou": "publicação (checagem só com fontes oficiais)"
+    }
+  ],
+  "id_no_debate": "F24",
+  "leitura_checada": "Flávio afirma que, por o governo ter 'liberado geral nas fronteiras', a criminalidade voltou com força (fala dirigida ao Centro-Oeste) e que as rotas de tráfico continuam.",
+  "leitura_incerta": false
+}

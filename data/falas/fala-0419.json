@@ -1,0 +1,124 @@
+{
+  "id": "fala-0419",
+  "slug": "lula-globo-alias-eles-anularam-fundo-amazonia-fomos-entramos-fazemos",
+  "evento_id": "debate-globo-2turno-2026-10-23",
+  "candidato": "lula",
+  "lado": "governo-lula-pt",
+  "minuto": "Bloco 1 — pergunta 5 · clipe g1 06:03",
+  "url_trecho": "https://youtu.be/K-kGhpDV4zA?t=363",
+  "frase_literal": "Aliás, eles anularam o Fundo Amazônia. Fomos nós que entramos e que fazemos o fundo funcionar",
+  "literal": true,
+  "variantes_literais": [],
+  "tema": "meio-ambiente",
+  "veredito": "verdadeiro-mas",
+  "resumo_uma_frase": "O governo Bolsonaro extinguiu o comitê gestor do fundo e não houve novas doações de 2019 a 2022; o fundo não foi juridicamente anulado, e a reativação foi ordenada pelo STF e feita por decreto de Lula em 2023.",
+  "explicacao_simples": [
+    "O Decreto 10.223/2020 revogou o Comitê Orientador do Fundo Amazônia (COFA), o que travou a aprovação de novos projetos.",
+    "Em 03/11/2022, o STF (ADO 59) considerou isso uma omissão e mandou a União reativar o fundo em 60 dias.",
+    "O Decreto 11.368/2023 restabeleceu a governança; as doações voltaram em 2023, depois de nenhuma entre dez/2018 e dez/2023.",
+    "O fundo continuou existindo e pagando projetos já contratados, por isso 'anularam' é um exagero de palavra."
+  ],
+  "o_que_e_verdade": [
+    "O fundo ficou paralisado para novos projetos de 2019 a 2022 e foi reativado em 2023 (Decreto 11.368/2023).",
+    "Nenhuma doação de governos estrangeiros entre 17/12/2018 e 13/12/2023 (BNDES)."
+  ],
+  "o_que_nao_se_sustenta": [
+    "O fundo não foi 'anulado': o decreto que o criou seguiu em vigor, e o STF descreveu o problema como bloqueio do financiamento de novos projetos pela extinção dos comitês."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Doações internalizadas ao Fundo Amazônia",
+      "valor": 0,
+      "unidade": "R$",
+      "periodo": "2019–2022",
+      "fonte": {
+        "nome": "BNDES/Fundo Amazônia — Transparência, doações (dados até 30/09/2026; números lidos em 21/10/2026 e registrados nas notas do projeto)",
+        "url": "https://www.fundoamazonia.gov.br/pt/transparencia/doacoes/",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Doações internalizadas ao Fundo Amazônia (total)",
+      "valor": 5265.2,
+      "unidade": "R$ milhões",
+      "periodo": "2009–30/09/2026",
+      "fonte": {
+        "nome": "BNDES/Fundo Amazônia — Transparência, doações (dados até 30/09/2026; números lidos em 21/10/2026 e registrados nas notas do projeto)",
+        "url": "https://www.fundoamazonia.gov.br/pt/transparencia/doacoes/",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    }
+  ],
+  "fontes_primarias": [
+    {
+      "nome": "Planalto — Decreto 6.527/2008 (Fundo Amazônia), texto compilado: COFA revogado pelo Decreto 10.223/2020 e restabelecido pelo Decreto 11.368/2023",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/decreto/d6527.htm",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    },
+    {
+      "nome": "STF — 'STF determina reativação do Fundo Amazônia no prazo de 60 dias' (ADO 59, 03/11/2022)",
+      "url": "https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=496793&ori=1",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-judiciario"
+    },
+    {
+      "nome": "BNDES/Fundo Amazônia — Transparência, doações (dados até 30/09/2026; números lidos em 21/10/2026 e registrados nas notas do projeto)",
+      "url": "https://www.fundoamazonia.gov.br/pt/transparencia/doacoes/",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    }
+  ],
+  "base_legal": [
+    {
+      "norma": "Decreto 10.223/2020",
+      "o_que_diz": "Revogou os artigos do Decreto 6.527/2008 que criavam o COFA.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/decreto/d6527.htm"
+    },
+    {
+      "norma": "Decreto 11.368/2023",
+      "o_que_diz": "Restabeleceu o COFA e as regras de captação do Fundo Amazônia.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/decreto/d6527.htm"
+    }
+  ],
+  "checagens_externas": [],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Planalto — Decreto 6.527/2008 (Fundo Amazônia), texto compilado: COFA revogado pelo Decreto 10.223/2020 e restabelecido pelo Decreto 11.368/2023",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/decreto/d6527.htm",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    },
+    {
+      "nome": "STF — 'STF determina reativação do Fundo Amazônia no prazo de 60 dias' (ADO 59, 03/11/2022)",
+      "url": "https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=496793&ori=1",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-judiciario"
+    },
+    {
+      "nome": "BNDES/Fundo Amazônia — Transparência, doações (dados até 30/09/2026; números lidos em 21/10/2026 e registrados nas notas do projeto)",
+      "url": "https://www.fundoamazonia.gov.br/pt/transparencia/doacoes/",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/17_debate_globo_2026-10-23_checagem.md",
+  "atualizado_em": "2026-10-24",
+  "lacunas": [
+    "A página de doações do BNDES é carregada por JavaScript e não foi relida nesta rodada; os valores são os registrados nas notas do projeto em 21/10/2026.",
+    "Checagem feita apenas com fontes oficiais (governo federal, estadual, Legislativo, Judiciário, TSE, órgãos intergovernamentais e governos estrangeiros), sem imprensa nem agências de checagem, por decisão editorial desta edição."
+  ],
+  "changelog": [
+    {
+      "data": "2026-10-24",
+      "o_que_mudou": "publicação (checagem só com fontes oficiais)"
+    }
+  ],
+  "id_no_debate": "L38",
+  "leitura_checada": "'Eles anularam o Fundo Amazônia. Fomos nós que entramos e fazemos o fundo funcionar.'",
+  "leitura_incerta": false
+}

@@ -1,0 +1,125 @@
+{
+  "id": "fala-0394",
+  "slug": "lula-globo-tinha-acabado-fome-neste-pais-2012",
+  "evento_id": "debate-globo-2turno-2026-10-23",
+  "candidato": "lula",
+  "lado": "governo-lula-pt",
+  "minuto": "Bloco 1 — pergunta 3 · clipe g1 06:09",
+  "url_trecho": "https://youtu.be/Z2AA0h2wr4U?t=369",
+  "frase_literal": "eu tinha acabado com a fome neste país em 2012",
+  "literal": true,
+  "variantes_literais": [],
+  "tema": "pobreza-programas-sociais",
+  "veredito": "verdadeiro-mas",
+  "resumo_uma_frase": "Pela série atual da FAO, a subalimentação no Brasil ficou abaixo de 2,5% a partir do triênio 2011–2013 (centrado em 2012), mas isso ocorreu no governo Dilma e não significa fome zero.",
+  "explicacao_simples": [
+    "A FAO mede a 'prevalência de subalimentação' em médias de três anos; o Brasil sai do Mapa da Fome quando ela fica abaixo de 2,5%.",
+    "Na série da FAO, o índice cai de 10,5% (2000–2002) para 2,7% (2010–2012) e fica abaixo de 2,5% a partir de 2011–2013.",
+    "Lula deixou a Presidência em 2010; 2011–2013 foi o primeiro mandato de Dilma Rousseff (PT), que deu continuidade aos programas."
+  ],
+  "o_que_e_verdade": [
+    "O Brasil atingiu menos de 2,5% de subalimentação no triênio 2011–2013, que é o critério do Mapa da Fome.",
+    "A queda começou nos governos Lula: de 9,1% (2001–2003) para 3,5% (2008–2010)."
+  ],
+  "o_que_nao_se_sustenta": [
+    "'Eu tinha acabado' para 2012: o presidente era Dilma Rousseff.",
+    "Ficar abaixo de 2,5% não é 'acabar com a fome'; a FAO só deixa de divulgar o número absoluto abaixo desse limite."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Prevalência de subalimentação",
+      "valor": 9.1,
+      "unidade": "% da população",
+      "periodo": "2001–2003",
+      "fonte": {
+        "nome": "FAO/FAOSTAT — Suite of Food Security Indicators, arquivo completo (versão de 10/07/2026, base do SOFI 2026)",
+        "url": "https://bulks-faostat.fao.org/production/Food_Security_Data_E_All_Data_(Normalized).zip",
+        "acesso_em": "2026-10-24",
+        "tier": "intergovernamental"
+      }
+    },
+    {
+      "rotulo": "Prevalência de subalimentação",
+      "valor": 3.5,
+      "unidade": "% da população",
+      "periodo": "2008–2010",
+      "fonte": {
+        "nome": "FAO/FAOSTAT — Suite of Food Security Indicators, arquivo completo (versão de 10/07/2026, base do SOFI 2026)",
+        "url": "https://bulks-faostat.fao.org/production/Food_Security_Data_E_All_Data_(Normalized).zip",
+        "acesso_em": "2026-10-24",
+        "tier": "intergovernamental"
+      }
+    },
+    {
+      "rotulo": "Prevalência de subalimentação",
+      "valor": 2.7,
+      "unidade": "% da população",
+      "periodo": "2010–2012",
+      "fonte": {
+        "nome": "FAO/FAOSTAT — Suite of Food Security Indicators, arquivo completo (versão de 10/07/2026, base do SOFI 2026)",
+        "url": "https://bulks-faostat.fao.org/production/Food_Security_Data_E_All_Data_(Normalized).zip",
+        "acesso_em": "2026-10-24",
+        "tier": "intergovernamental"
+      }
+    },
+    {
+      "rotulo": "Prevalência de subalimentação (abaixo do limiar)",
+      "valor": 2.5,
+      "unidade": "% (valor publicado: '<2,5')",
+      "periodo": "2011–2013 a 2018–2020",
+      "fonte": {
+        "nome": "FAO/FAOSTAT — Suite of Food Security Indicators, arquivo completo (versão de 10/07/2026, base do SOFI 2026)",
+        "url": "https://bulks-faostat.fao.org/production/Food_Security_Data_E_All_Data_(Normalized).zip",
+        "acesso_em": "2026-10-24",
+        "tier": "intergovernamental"
+      }
+    },
+    {
+      "rotulo": "Pessoas subalimentadas",
+      "valor": 5.3,
+      "unidade": "milhões",
+      "periodo": "2010–2012",
+      "fonte": {
+        "nome": "FAO/FAOSTAT — Suite of Food Security Indicators, arquivo completo (versão de 10/07/2026, base do SOFI 2026)",
+        "url": "https://bulks-faostat.fao.org/production/Food_Security_Data_E_All_Data_(Normalized).zip",
+        "acesso_em": "2026-10-24",
+        "tier": "intergovernamental"
+      }
+    }
+  ],
+  "fontes_primarias": [
+    {
+      "nome": "FAO/FAOSTAT — Suite of Food Security Indicators, arquivo completo (versão de 10/07/2026, base do SOFI 2026)",
+      "url": "https://bulks-faostat.fao.org/production/Food_Security_Data_E_All_Data_(Normalized).zip",
+      "acesso_em": "2026-10-24",
+      "tier": "intergovernamental"
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "FAO/FAOSTAT — Suite of Food Security Indicators, arquivo completo (versão de 10/07/2026, base do SOFI 2026)",
+      "url": "https://bulks-faostat.fao.org/production/Food_Security_Data_E_All_Data_(Normalized).zip",
+      "acesso_em": "2026-10-24",
+      "tier": "intergovernamental"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/17_debate_globo_2026-10-23_checagem.md",
+  "atualizado_em": "2026-10-24",
+  "lacunas": [
+    "Não consultei o relatório SOFI 2014 original (que usava a série da época); usei a série revisada atual da FAO.",
+    "Checagem feita apenas com fontes oficiais (governo federal, estadual, Legislativo, Judiciário, TSE, órgãos intergovernamentais e governos estrangeiros), sem imprensa nem agências de checagem, por decisão editorial desta edição."
+  ],
+  "changelog": [
+    {
+      "data": "2026-10-24",
+      "o_que_mudou": "publicação (checagem só com fontes oficiais)"
+    }
+  ],
+  "id_no_debate": "L26",
+  "leitura_checada": "'Acabado com a fome em 2012' entendido como a saída do Brasil do Mapa da Fome da FAO (prevalência de subalimentação abaixo de 2,5%).",
+  "leitura_incerta": false
+}

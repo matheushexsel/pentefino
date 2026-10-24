@@ -1,0 +1,210 @@
+{
+  "id": "fala-0347",
+  "slug": "lula-globo-nenhum-momento-historia-pais-investiu-tanto-obra-infraestrutura",
+  "evento_id": "debate-globo-2turno-2026-10-23",
+  "candidato": "lula",
+  "lado": "governo-lula-pt",
+  "minuto": "Bloco 1 — pergunta 1 · clipe g1 02:10",
+  "url_trecho": "https://youtu.be/woYkhYICZ2k?t=130",
+  "frase_literal": "em nenhum momento da história do país se investiu tanto em obra de infraestrutura como nós investimos nesses últimos anos",
+  "literal": true,
+  "variantes_literais": [],
+  "tema": "infraestrutura",
+  "veredito": "falso",
+  "resumo_uma_frase": "Pelo Tesouro, o investimento federal (GND 4) de 2023-2025 ficou entre R$ 66 e 73 bi por ano (preços de jul/2026), bem abaixo de 2010-2014 (até R$ 111 bi); em transporte, R$ 14-16 bi contra R$ 34 bi em 2010.",
+  "explicacao_simples": [
+    "A série do Tesouro Nacional (RTN) mede o investimento pago pelo Governo Central desde 2008.",
+    "Em valores corrigidos pelo IPCA (R$ de jul/2026), o investimento federal foi de R$ 67,2 bi em 2023, R$ 65,9 bi em 2024 e R$ 73,0 bi em 2025; em 2014 foi R$ 110,9 bi e em 2010, R$ 109,5 bi.",
+    "Em % do PIB, ficou em 0,51%-0,55% em 2023-2025, ante 1,15% em 2010. Houve alta em relação a 2019-2022, mas não recorde."
+  ],
+  "o_que_e_verdade": [
+    "O investimento federal subiu em relação a 2019-2022 (média de R$ 68,7 bi/ano em 2023-2025 contra R$ 52,5 bi/ano em 2019-2022, em R$ de jul/2026).",
+    "O Novo PAC soma valores grandes porque inclui estatais, financiamentos e setor privado."
+  ],
+  "o_que_nao_se_sustenta": [
+    "'Em nenhum momento da história': os anos de 2010-2014 tiveram investimento federal maior, em reais corrigidos e em % do PIB; o investimento em transporte de 2023-2025 é menos da metade do de 2010."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Investimento do Governo Central (GND 4), pago",
+      "valor": 73.0,
+      "unidade": "R$ bi de jul/2026 (IPCA)",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Tesouro Nacional — Resultado do Tesouro Nacional, série histórica (jul/2026), Tabelas 1.3-A (investimento do Governo Central, mensal, R$ de jul/2026 pelo IPCA), 2.3 e 2.3-A (anual, R$ correntes e % do PIB)",
+        "url": "https://www.tesourotransparente.gov.br/ckan/dataset/ab56485b-9c40-4efb-8563-9ce3e1973c4b/resource/527ccdb1-3059-42f3-bf23-b5e3ab4c6dc6/download/seriehistoricajul26.xlsx",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Investimento do Governo Central (GND 4), pago",
+      "valor": 65.9,
+      "unidade": "R$ bi de jul/2026 (IPCA)",
+      "periodo": "2024",
+      "fonte": {
+        "nome": "Tesouro Nacional — Resultado do Tesouro Nacional, série histórica (jul/2026), Tabelas 1.3-A (investimento do Governo Central, mensal, R$ de jul/2026 pelo IPCA), 2.3 e 2.3-A (anual, R$ correntes e % do PIB)",
+        "url": "https://www.tesourotransparente.gov.br/ckan/dataset/ab56485b-9c40-4efb-8563-9ce3e1973c4b/resource/527ccdb1-3059-42f3-bf23-b5e3ab4c6dc6/download/seriehistoricajul26.xlsx",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Investimento do Governo Central (GND 4), pago",
+      "valor": 67.2,
+      "unidade": "R$ bi de jul/2026 (IPCA)",
+      "periodo": "2023",
+      "fonte": {
+        "nome": "Tesouro Nacional — Resultado do Tesouro Nacional, série histórica (jul/2026), Tabelas 1.3-A (investimento do Governo Central, mensal, R$ de jul/2026 pelo IPCA), 2.3 e 2.3-A (anual, R$ correntes e % do PIB)",
+        "url": "https://www.tesourotransparente.gov.br/ckan/dataset/ab56485b-9c40-4efb-8563-9ce3e1973c4b/resource/527ccdb1-3059-42f3-bf23-b5e3ab4c6dc6/download/seriehistoricajul26.xlsx",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Investimento do Governo Central (GND 4), pago",
+      "valor": 110.9,
+      "unidade": "R$ bi de jul/2026 (IPCA)",
+      "periodo": "2014",
+      "fonte": {
+        "nome": "Tesouro Nacional — Resultado do Tesouro Nacional, série histórica (jul/2026), Tabelas 1.3-A (investimento do Governo Central, mensal, R$ de jul/2026 pelo IPCA), 2.3 e 2.3-A (anual, R$ correntes e % do PIB)",
+        "url": "https://www.tesourotransparente.gov.br/ckan/dataset/ab56485b-9c40-4efb-8563-9ce3e1973c4b/resource/527ccdb1-3059-42f3-bf23-b5e3ab4c6dc6/download/seriehistoricajul26.xlsx",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Investimento do Governo Central (GND 4), pago",
+      "valor": 109.5,
+      "unidade": "R$ bi de jul/2026 (IPCA)",
+      "periodo": "2010",
+      "fonte": {
+        "nome": "Tesouro Nacional — Resultado do Tesouro Nacional, série histórica (jul/2026), Tabelas 1.3-A (investimento do Governo Central, mensal, R$ de jul/2026 pelo IPCA), 2.3 e 2.3-A (anual, R$ correntes e % do PIB)",
+        "url": "https://www.tesourotransparente.gov.br/ckan/dataset/ab56485b-9c40-4efb-8563-9ce3e1973c4b/resource/527ccdb1-3059-42f3-bf23-b5e3ab4c6dc6/download/seriehistoricajul26.xlsx",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Investimento GND 4 em % do PIB",
+      "valor": 0.55,
+      "unidade": "% do PIB",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Tesouro Nacional — Resultado do Tesouro Nacional, série histórica (jul/2026), Tabelas 1.3-A (investimento do Governo Central, mensal, R$ de jul/2026 pelo IPCA), 2.3 e 2.3-A (anual, R$ correntes e % do PIB)",
+        "url": "https://www.tesourotransparente.gov.br/ckan/dataset/ab56485b-9c40-4efb-8563-9ce3e1973c4b/resource/527ccdb1-3059-42f3-bf23-b5e3ab4c6dc6/download/seriehistoricajul26.xlsx",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Investimento GND 4 em % do PIB",
+      "valor": 1.15,
+      "unidade": "% do PIB",
+      "periodo": "2010",
+      "fonte": {
+        "nome": "Tesouro Nacional — Resultado do Tesouro Nacional, série histórica (jul/2026), Tabelas 1.3-A (investimento do Governo Central, mensal, R$ de jul/2026 pelo IPCA), 2.3 e 2.3-A (anual, R$ correntes e % do PIB)",
+        "url": "https://www.tesourotransparente.gov.br/ckan/dataset/ab56485b-9c40-4efb-8563-9ce3e1973c4b/resource/527ccdb1-3059-42f3-bf23-b5e3ab4c6dc6/download/seriehistoricajul26.xlsx",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Investimento federal na função Transporte (GND 4)",
+      "valor": 14.2,
+      "unidade": "R$ bi de jul/2026 (IPCA)",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Tesouro Nacional — Resultado do Tesouro Nacional, série histórica (jul/2026), Tabelas 1.3-A (investimento do Governo Central, mensal, R$ de jul/2026 pelo IPCA), 2.3 e 2.3-A (anual, R$ correntes e % do PIB)",
+        "url": "https://www.tesourotransparente.gov.br/ckan/dataset/ab56485b-9c40-4efb-8563-9ce3e1973c4b/resource/527ccdb1-3059-42f3-bf23-b5e3ab4c6dc6/download/seriehistoricajul26.xlsx",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Investimento federal na função Transporte (GND 4)",
+      "valor": 34.1,
+      "unidade": "R$ bi de jul/2026 (IPCA)",
+      "periodo": "2010",
+      "fonte": {
+        "nome": "Tesouro Nacional — Resultado do Tesouro Nacional, série histórica (jul/2026), Tabelas 1.3-A (investimento do Governo Central, mensal, R$ de jul/2026 pelo IPCA), 2.3 e 2.3-A (anual, R$ correntes e % do PIB)",
+        "url": "https://www.tesourotransparente.gov.br/ckan/dataset/ab56485b-9c40-4efb-8563-9ce3e1973c4b/resource/527ccdb1-3059-42f3-bf23-b5e3ab4c6dc6/download/seriehistoricajul26.xlsx",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "FBCF do Governo Central",
+      "valor": 0.27,
+      "unidade": "% do PIB",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Tesouro Nacional — Boletim de Estatísticas Fiscais do Governo Geral 2025 (Tabelas 1 a 3)",
+        "url": "https://apiapex.tesouro.gov.br/aria/v1/leiloes/custom/publicacao?id=54232&hash=1694623",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "FBCF do Governo Geral (União, estados e municípios)",
+      "valor": 1.76,
+      "unidade": "% do PIB",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Tesouro Nacional — Boletim de Estatísticas Fiscais do Governo Geral 2025 (Tabelas 1 a 3)",
+        "url": "https://apiapex.tesouro.gov.br/aria/v1/leiloes/custom/publicacao?id=54232&hash=1694623",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    }
+  ],
+  "fontes_primarias": [
+    {
+      "nome": "Tesouro Nacional — Resultado do Tesouro Nacional, série histórica (jul/2026), Tabelas 1.3-A (investimento do Governo Central, mensal, R$ de jul/2026 pelo IPCA), 2.3 e 2.3-A (anual, R$ correntes e % do PIB)",
+      "url": "https://www.tesourotransparente.gov.br/ckan/dataset/ab56485b-9c40-4efb-8563-9ce3e1973c4b/resource/527ccdb1-3059-42f3-bf23-b5e3ab4c6dc6/download/seriehistoricajul26.xlsx",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    },
+    {
+      "nome": "Tesouro Nacional — Boletim de Estatísticas Fiscais do Governo Geral 2025 (Tabelas 1 a 3)",
+      "url": "https://apiapex.tesouro.gov.br/aria/v1/leiloes/custom/publicacao?id=54232&hash=1694623",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Tesouro Nacional — Resultado do Tesouro Nacional, série histórica (jul/2026), Tabelas 1.3-A (investimento do Governo Central, mensal, R$ de jul/2026 pelo IPCA), 2.3 e 2.3-A (anual, R$ correntes e % do PIB)",
+      "url": "https://www.tesourotransparente.gov.br/ckan/dataset/ab56485b-9c40-4efb-8563-9ce3e1973c4b/resource/527ccdb1-3059-42f3-bf23-b5e3ab4c6dc6/download/seriehistoricajul26.xlsx",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    },
+    {
+      "nome": "Tesouro Nacional — Boletim de Estatísticas Fiscais do Governo Geral 2025 (Tabelas 1 a 3)",
+      "url": "https://apiapex.tesouro.gov.br/aria/v1/leiloes/custom/publicacao?id=54232&hash=1694623",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/17_debate_globo_2026-10-23_checagem.md",
+  "atualizado_em": "2026-10-24",
+  "lacunas": [
+    "A série RTN de investimento começa em 2008; para anos anteriores não há série oficial comparável lida nesta checagem.",
+    "Não se usou a série da FGV (não governamental).",
+    "2026 está parcial (jan-jul: R$ 38,7 bi).",
+    "Checagem feita apenas com fontes oficiais (governo federal, estadual, Legislativo, Judiciário, TSE, órgãos intergovernamentais e governos estrangeiros), sem imprensa nem agências de checagem, por decisão editorial desta edição."
+  ],
+  "changelog": [
+    {
+      "data": "2026-10-24",
+      "o_que_mudou": "publicação (checagem só com fontes oficiais)"
+    }
+  ],
+  "id_no_debate": "L01",
+  "leitura_checada": "Nunca na história se investiu tanto em infraestrutura quanto em 2023-2026 (investimento público federal).",
+  "leitura_incerta": false
+}

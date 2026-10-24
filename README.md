@@ -5,7 +5,7 @@ Base de dados públicos, verificáveis e apartidários sobre política, economia
 ## Estrutura
 
 - `data/` — dados estruturados que o site lê. Esquema em `data/SCHEMA.md`. Manifesto em `data/index.json`.
-  - `checagens/` frases checadas (229), `falas/` frases ditas em debates e sabatinas (344), `eventos/` debates, sabatinas e entrevistas (18)
+  - `checagens/` frases checadas (229), `falas/` frases ditas em debates e sabatinas (557), `eventos/` debates, sabatinas e entrevistas (19)
   - `series/` séries temporais (150), `governos.json` fichas dos cinco governos desde 2003
   - `escandalos/` casos de corrupção com pessoas, partidos e situação jurídica (19, mais tabelas auxiliares de leniências da CGU e balanços da Lava Jato), `historias/` linhas do tempo longas (7)
   - `explicadores/` "quem decide isso?" (9), `medidas/` impostos, benefícios e leis com quem ganha e quem paga (40), `simuladores/renda.json`

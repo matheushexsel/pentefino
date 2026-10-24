@@ -1,0 +1,89 @@
+{
+  "id": "fala-0438",
+  "slug": "lula-globo-nunca-trabalhou-vida-sabe-carteira-profissional-primeiro-emprego",
+  "evento_id": "debate-globo-2turno-2026-10-23",
+  "candidato": "lula",
+  "lado": "governo-lula-pt",
+  "minuto": "Bloco 2 — pergunta 1 · clipe g1 04:04",
+  "url_trecho": "https://youtu.be/QhluFzoPl30?t=244",
+  "frase_literal": "Ele nunca trabalhou na vida, não sabe o que é uma carteira profissional. O primeiro emprego que ele teve foi um emprego falso pelo pai dele. Ele trabalhava com o pai, mas ficava em Brasília",
+  "literal": true,
+  "variantes_literais": [],
+  "tema": "eleicao-2026",
+  "veredito": "insustentavel",
+  "resumo_uma_frase": "Não há registro oficial acessível de um 'emprego falso' de Flávio com o pai; 'nunca trabalhou' é juízo de valor, e os registros mostram 23 anos de mandatos e declarações de sócio de empresas.",
+  "explicacao_simples": [
+    "Lula diz que Flávio nunca trabalhou e que seu primeiro emprego foi 'falso', arranjado pelo pai em Brasília.",
+    "O TSE registra que, ao se candidatar pela primeira vez (2002, aos 21 anos), Flávio declarou a ocupação 'estudante, bolsista, estagiário e assemelhados'.",
+    "Não foi possível acessar registro de lotação de Flávio em gabinete da Câmara antes de 2003, então a acusação de emprego falso não pode ser confirmada nem negada."
+  ],
+  "o_que_e_verdade": [
+    "Em 2002 Flávio se declarou estudante ao TSE.",
+    "Desde 2003 exerce mandatos eletivos (deputado estadual 2003–2019; senador desde 2019)."
+  ],
+  "o_que_nao_se_sustenta": [
+    "'Nunca trabalhou na vida': mandato parlamentar é atividade remunerada; e o TSE registra participação societária desde 2018 (empresa de chocolates) e sociedade de advocacia em 2026."
+  ],
+  "numeros": [],
+  "fontes_primarias": [
+    {
+      "nome": "TSE – dados abertos, consulta_cand_2002 (RJ)",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand/consulta_cand_2002.zip",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-judiciario"
+    },
+    {
+      "nome": "TSE – dados abertos, bens de candidatos 2006, 2010, 2014, 2018 (RJ) e 2026 (BR)",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/bem_candidato/bem_candidato_2026.zip",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-judiciario"
+    },
+    {
+      "nome": "Senado Federal – Dados Abertos, senador 5894 (Flávio Bolsonaro): dados básicos e mandatos",
+      "url": "https://legis.senado.leg.br/dadosabertos/senador/5894/mandatos",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "TSE – dados abertos, consulta_cand_2002 (RJ)",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand/consulta_cand_2002.zip",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-judiciario"
+    },
+    {
+      "nome": "TSE – dados abertos, bens de candidatos 2006, 2010, 2014, 2018 (RJ) e 2026 (BR)",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/bem_candidato/bem_candidato_2026.zip",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-judiciario"
+    },
+    {
+      "nome": "Senado Federal – Dados Abertos, senador 5894 (Flávio Bolsonaro): dados básicos e mandatos",
+      "url": "https://legis.senado.leg.br/dadosabertos/senador/5894/mandatos",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/17_debate_globo_2026-10-23_checagem.md",
+  "atualizado_em": "2026-10-24",
+  "lacunas": [
+    "Histórico de secretários parlamentares/lotação na Câmara dos Deputados antes de 2003 não disponível na API de dados abertos; possível registro em boletins administrativos da Câmara não consultado.",
+    "'Carteira profissional' (vínculo CLT) só poderia ser verificada em bases sigilosas (CNIS/RAIS).",
+    "Checagem feita apenas com fontes oficiais (governo federal, estadual, Legislativo, Judiciário, TSE, órgãos intergovernamentais e governos estrangeiros), sem imprensa nem agências de checagem, por decisão editorial desta edição."
+  ],
+  "changelog": [
+    {
+      "data": "2026-10-24",
+      "o_que_mudou": "publicação (checagem só com fontes oficiais)"
+    }
+  ],
+  "id_no_debate": "L52",
+  "leitura_checada": "Leitura literal da legenda.",
+  "leitura_incerta": false,
+  "nao_verificado": true
+}

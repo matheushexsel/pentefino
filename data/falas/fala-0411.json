@@ -1,0 +1,144 @@
+{
+  "id": "fala-0411",
+  "slug": "flavio-globo-sabe-quem-votou-contra-la-congresso-nacional-bancada",
+  "evento_id": "debate-globo-2turno-2026-10-23",
+  "candidato": "flavio-bolsonaro",
+  "lado": "oposicao-flavio-pl",
+  "minuto": "Bloco 1 — pergunta 5 · clipe g1 00:45",
+  "url_trecho": "https://youtu.be/K-kGhpDV4zA?t=45",
+  "frase_literal": "Sabe quem votou contra isso lá no Congresso Nacional? A bancada do PT",
+  "literal": true,
+  "variantes_literais": [],
+  "tema": "eleicao-2026",
+  "veredito": "verdadeiro",
+  "resumo_uma_frase": "Na Câmara, os 43 deputados do PT que votaram disseram 'Não' ao texto-base (11/12/2019) e a bancada orientou 'Não'; no Senado (24/06/2020), os 6 senadores do PT votaram 'Não'.",
+  "explicacao_simples": [
+    "O texto-base do PL 4.162/2019 passou na Câmara por 276 a 124; o PT deu 43 votos contra e nenhum a favor.",
+    "A orientação registrada para a bancada do PT foi 'Não', a mesma de PSOL, PCdoB, PDT, da Oposição e da Minoria.",
+    "No Senado o projeto passou com 65 votos a 13; os seis senadores do PT presentes votaram contra."
+  ],
+  "o_que_e_verdade": [
+    "O PT votou em bloco contra o projeto nas duas Casas."
+  ],
+  "o_que_nao_se_sustenta": [],
+  "numeros": [
+    {
+      "rotulo": "Votos do PT contra na Câmara (texto-base)",
+      "valor": 43,
+      "unidade": "votos",
+      "periodo": "11/12/2019",
+      "fonte": {
+        "nome": "Câmara dos Deputados — Dados Abertos, votos nominais de 2019 (votação 2207613-167)",
+        "url": "https://dadosabertos.camara.leg.br/arquivos/votacoesVotos/csv/votacoesVotos-2019.csv",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-legislativo"
+      }
+    },
+    {
+      "rotulo": "Placar na Câmara (Sim x Não)",
+      "valor": "276 x 124",
+      "unidade": "votos",
+      "periodo": "11/12/2019",
+      "fonte": {
+        "nome": "Câmara dos Deputados — API Dados Abertos, tramitações do PL 4.162/2019 (sessões de 11 e 17/12/2019)",
+        "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2213200/tramitacoes",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-legislativo"
+      }
+    },
+    {
+      "rotulo": "Votos do PT contra no Senado",
+      "valor": 6,
+      "unidade": "votos",
+      "periodo": "24/06/2020",
+      "fonte": {
+        "nome": "Senado Federal — Dados Abertos, votações da matéria 140534 (PL 4.162/2019), sessão de 24/06/2020",
+        "url": "https://legis.senado.leg.br/dadosabertos/materia/votacoes/140534",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-legislativo"
+      }
+    },
+    {
+      "rotulo": "Placar no Senado (Sim x Não, contagem própria dos votos nominais)",
+      "valor": "65 x 13",
+      "unidade": "votos",
+      "periodo": "24/06/2020",
+      "fonte": {
+        "nome": "Senado Federal — Dados Abertos, votações da matéria 140534 (PL 4.162/2019), sessão de 24/06/2020",
+        "url": "https://legis.senado.leg.br/dadosabertos/materia/votacoes/140534",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-legislativo"
+      }
+    }
+  ],
+  "fontes_primarias": [
+    {
+      "nome": "Câmara dos Deputados — API Dados Abertos, tramitações do PL 4.162/2019 (sessões de 11 e 17/12/2019)",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2213200/tramitacoes",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    },
+    {
+      "nome": "Câmara dos Deputados — Dados Abertos, votos nominais de 2019 (votação 2207613-167)",
+      "url": "https://dadosabertos.camara.leg.br/arquivos/votacoesVotos/csv/votacoesVotos-2019.csv",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    },
+    {
+      "nome": "Câmara dos Deputados — Dados Abertos, orientações de bancada de 2019 (votação 2207613-167)",
+      "url": "https://dadosabertos.camara.leg.br/arquivos/votacoesOrientacoes/csv/votacoesOrientacoes-2019.csv",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    },
+    {
+      "nome": "Senado Federal — Dados Abertos, votações da matéria 140534 (PL 4.162/2019), sessão de 24/06/2020",
+      "url": "https://legis.senado.leg.br/dadosabertos/materia/votacoes/140534",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Câmara dos Deputados — API Dados Abertos, tramitações do PL 4.162/2019 (sessões de 11 e 17/12/2019)",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2213200/tramitacoes",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    },
+    {
+      "nome": "Câmara dos Deputados — Dados Abertos, votos nominais de 2019 (votação 2207613-167)",
+      "url": "https://dadosabertos.camara.leg.br/arquivos/votacoesVotos/csv/votacoesVotos-2019.csv",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    },
+    {
+      "nome": "Câmara dos Deputados — Dados Abertos, orientações de bancada de 2019 (votação 2207613-167)",
+      "url": "https://dadosabertos.camara.leg.br/arquivos/votacoesOrientacoes/csv/votacoesOrientacoes-2019.csv",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    },
+    {
+      "nome": "Senado Federal — Dados Abertos, votações da matéria 140534 (PL 4.162/2019), sessão de 24/06/2020",
+      "url": "https://legis.senado.leg.br/dadosabertos/materia/votacoes/140534",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/17_debate_globo_2026-10-23_checagem.md",
+  "atualizado_em": "2026-10-24",
+  "lacunas": [
+    "Checagem feita apenas com fontes oficiais (governo federal, estadual, Legislativo, Judiciário, TSE, órgãos intergovernamentais e governos estrangeiros), sem imprensa nem agências de checagem, por decisão editorial desta edição."
+  ],
+  "changelog": [
+    {
+      "data": "2026-10-24",
+      "o_que_mudou": "publicação (checagem só com fontes oficiais)"
+    }
+  ],
+  "id_no_debate": "F34",
+  "leitura_checada": "A bancada do PT votou contra o marco legal do saneamento no Congresso.",
+  "leitura_incerta": false
+}

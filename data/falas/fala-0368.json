@@ -1,0 +1,144 @@
+{
+  "id": "fala-0368",
+  "slug": "flavio-globo-ate-agora-reforma-tributaria-ninguem-sabe-quanto-vai",
+  "evento_id": "debate-globo-2turno-2026-10-23",
+  "candidato": "flavio-bolsonaro",
+  "lado": "oposicao-flavio-pl",
+  "minuto": "Bloco 1 — pergunta 2 · clipe g1 05:00",
+  "url_trecho": "https://youtu.be/26XCkA5BHm8?t=300",
+  "frase_literal": "Até agora, com a reforma tributária, ninguém sabe quanto vai ser o valor do imposto de valor agregado. O IVA, que é o novo imposto que ele vai começar a cobrar a partir do ano que vem, estima-se que seja de 28%. Ele já tinha que ter enviado pro Congresso Nacional pro de lei [projeto de lei] falando qual é a alíquota",
+  "literal": true,
+  "variantes_literais": [],
+  "tema": "eleicao-2026",
+  "veredito": "falta-contexto",
+  "resumo_uma_frase": "É verdade que a alíquota ainda não foi fixada, que a CBS começa em 2027 e que há estimativa oficial de ~28%, mas a lei não exige que o Executivo envie um projeto de lei com a alíquota: quem fixa a alíquota de referência é o Senado, por resolução, até 31 de outubro.",
+  "explicacao_simples": [
+    "Pela Constituição (ADCT, arts. 125–126) e pela LC 214/2025, 2026 é ano de teste (CBS 0,9% e IBS 0,1%, compensáveis) e a CBS passa a ser cobrada plenamente em 2027; o IBS entra aos poucos a partir de 2029.",
+    "A LC 214 (art. 349) manda o Executivo enviar ao TCU, até 31 de julho, a proposta de cálculo da alíquota de referência da CBS; o TCU envia ao Senado até 15/09 e o Senado fixa por resolução até 31/10 do ano anterior. Até 24/10/2026 nenhum projeto de resolução do Senado sobre o tema constava na lista de 2026.",
+    "A Agência Senado registrou em jan/2025 a estimativa da Secretaria Extraordinária da Reforma Tributária de alíquota em torno de 28%; a lei prevê medidas corretivas se a soma estimada para 2033 passar de 26,5%."
+  ],
+  "o_que_e_verdade": [
+    "A alíquota de referência de 2027 ainda não foi fixada (prazo legal do Senado: 31/10/2026).",
+    "A CBS começa a ser cobrada plenamente em 2027.",
+    "Há estimativa oficial em torno de 28%."
+  ],
+  "o_que_nao_se_sustenta": [
+    "Não existe obrigação legal de o Executivo enviar 'projeto de lei' com a alíquota: o rito é proposta ao TCU → cálculo do TCU → resolução do Senado (LC 214, arts. 18 e 349). A União pode, mas não é obrigada, fixar a CBS por lei específica (art. 14, § 3º: sem lei, aplica-se a alíquota de referência)."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Prazo para o Senado fixar a alíquota de referência da CBS de 2027",
+      "valor": null,
+      "unidade": "data",
+      "periodo": "31/10/2026",
+      "fonte": {
+        "nome": "Planalto, Lei Complementar nº 214/2025 (texto compilado)",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp214.htm",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-legislativo"
+      }
+    },
+    {
+      "rotulo": "Estimativa de alíquota padrão citada pela Agência Senado",
+      "valor": 28,
+      "unidade": "%",
+      "periodo": "jan/2025",
+      "fonte": {
+        "nome": "Agência Senado, 17/01/2025 – 'País terá nova tributação sobre consumo a partir de 2026' (estimativa de ~28% atribuída à Secretaria Extraordinária da Reforma Tributária)",
+        "url": "https://www12.senado.leg.br/noticias/materias/2025/01/17/pais-tera-nova-tributacao-sobre-consumo-a-partir-de-2026",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-legislativo"
+      }
+    },
+    {
+      "rotulo": "Gatilho legal de revisão (soma das alíquotas de referência estimadas para 2033)",
+      "valor": 26.5,
+      "unidade": "%",
+      "periodo": "LC 214, art. 475",
+      "fonte": {
+        "nome": "Planalto, Lei Complementar nº 214/2025 (texto compilado)",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp214.htm",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-legislativo"
+      }
+    }
+  ],
+  "fontes_primarias": [
+    {
+      "nome": "Planalto, Lei Complementar nº 214/2025 (texto compilado)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp214.htm",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    },
+    {
+      "nome": "Senado Federal, dados abertos – pesquisa de Projetos de Resolução (PRS) de 2026",
+      "url": "https://legis.senado.leg.br/dadosabertos/materia/pesquisa/lista?sigla=PRS&ano=2026",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    },
+    {
+      "nome": "Agência Senado, 17/01/2025 – 'País terá nova tributação sobre consumo a partir de 2026' (estimativa de ~28% atribuída à Secretaria Extraordinária da Reforma Tributária)",
+      "url": "https://www12.senado.leg.br/noticias/materias/2025/01/17/pais-tera-nova-tributacao-sobre-consumo-a-partir-de-2026",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    }
+  ],
+  "base_legal": [
+    {
+      "norma": "LC nº 214/2025, art. 18",
+      "o_que_diz": "As alíquotas de referência serão fixadas por resolução do Senado Federal (CBS de 2027 a 2035; IBS de 2029 a 2035).",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp214.htm"
+    },
+    {
+      "norma": "LC nº 214/2025, art. 349, §§ 1º, 3º e 5º",
+      "o_que_diz": "Executivo envia proposta ao TCU até 31/07; TCU envia cálculos ao Senado até 15/09; Senado fixa até 31/10 do ano anterior.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp214.htm"
+    },
+    {
+      "norma": "LC nº 214/2025, art. 14, § 3º",
+      "o_que_diz": "Na ausência de lei específica do ente, aplica-se a alíquota de referência.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp214.htm"
+    }
+  ],
+  "checagens_externas": [],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Planalto, Lei Complementar nº 214/2025 (texto compilado)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp214.htm",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    },
+    {
+      "nome": "Senado Federal, dados abertos – pesquisa de Projetos de Resolução (PRS) de 2026",
+      "url": "https://legis.senado.leg.br/dadosabertos/materia/pesquisa/lista?sigla=PRS&ano=2026",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    },
+    {
+      "nome": "Agência Senado, 17/01/2025 – 'País terá nova tributação sobre consumo a partir de 2026' (estimativa de ~28% atribuída à Secretaria Extraordinária da Reforma Tributária)",
+      "url": "https://www12.senado.leg.br/noticias/materias/2025/01/17/pais-tera-nova-tributacao-sobre-consumo-a-partir-de-2026",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/17_debate_globo_2026-10-23_checagem.md",
+  "atualizado_em": "2026-10-24",
+  "lacunas": [
+    "Leitura incerta da legenda automática; a checagem usou a leitura: 'pro de lei' = projeto de lei. Leitura: ninguém sabe a alíquota do IVA (CBS/IBS), que começa a ser cobrado em 2027; estima-se 28%; o governo já deveria ter enviado ao Congresso projeto de lei com a alíquota.",
+    "Não foi possível verificar se o Executivo enviou ao TCU a proposta até 31/07/2026 nem se o TCU já enviou os cálculos ao Senado (site do TCU bloqueou o acesso automatizado).",
+    "A nota técnica da Fazenda com as estimativas (2024) tem acesso restrito no gov.br; a estimativa de 28% foi tomada da Agência Senado.",
+    "As alíquotas do Imposto Seletivo (outro tributo) dependem de lei ordinária ainda não aprovada — tema distinto do IVA.",
+    "Checagem feita apenas com fontes oficiais (governo federal, estadual, Legislativo, Judiciário, TSE, órgãos intergovernamentais e governos estrangeiros), sem imprensa nem agências de checagem, por decisão editorial desta edição."
+  ],
+  "changelog": [
+    {
+      "data": "2026-10-24",
+      "o_que_mudou": "publicação (checagem só com fontes oficiais)"
+    }
+  ],
+  "id_no_debate": "F08",
+  "leitura_checada": "'pro de lei' = projeto de lei. Leitura: ninguém sabe a alíquota do IVA (CBS/IBS), que começa a ser cobrado em 2027; estima-se 28%; o governo já deveria ter enviado ao Congresso projeto de lei com a alíquota.",
+  "leitura_incerta": true
+}

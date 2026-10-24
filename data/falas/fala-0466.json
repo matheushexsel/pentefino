@@ -1,0 +1,134 @@
+{
+  "id": "fala-0466",
+  "slug": "lula-globo-economia-crescia-acima-3-desde-deixei-presidencia-2010",
+  "evento_id": "debate-globo-2turno-2026-10-23",
+  "candidato": "lula",
+  "lado": "governo-lula-pt",
+  "minuto": "Bloco 2 — pergunta 2 · clipe g1 06:23",
+  "url_trecho": "https://youtu.be/jctCsMD2nTE?t=383",
+  "frase_literal": "a economia não crescia acima de 3% desde que eu deixei a presidência em 2010. E ela voltou a crescer",
+  "literal": true,
+  "variantes_literais": [],
+  "tema": "eleicao-2026",
+  "veredito": "falso",
+  "resumo_uma_frase": "O PIB cresceu acima de 3% em 2011 (4,0%, governo Dilma) e em 2021 (4,8%, governo Bolsonaro); no atual governo cresceu 3,2% (2023), 3,4% (2024) e 2,3% (2025).",
+  "explicacao_simples": [
+    "Pelo IBGE: 2010 7,5%; 2011 4,0%; 2013 3,0%; 2021 4,8%; 2022 3,0%.",
+    "No governo atual: 2023 3,2%; 2024 3,4%; 2025 2,3%; 1º semestre de 2026, 1,9%.",
+    "O crescimento de 2021 reflete recuperação após a queda de 3,3% em 2020."
+  ],
+  "o_que_e_verdade": [
+    "Em 2023 e 2024 o PIB cresceu acima de 3%."
+  ],
+  "o_que_nao_se_sustenta": [
+    "Não é verdade que o PIB não superou 3% entre 2011 e 2022."
+  ],
+  "numeros": [
+    {
+      "rotulo": "PIB, variação anual",
+      "valor": 4.0,
+      "unidade": "%",
+      "periodo": "2011",
+      "fonte": {
+        "nome": "IBGE/SIDRA, tabela 5932 (Contas Nacionais Trimestrais, taxa acumulada no ano, v6563)",
+        "url": "https://apisidra.ibge.gov.br/values/t/5932/n1/all/v/6563/p/201004,201104,201204,201304,201404,201504,201604,201704,201804,201904,202004,202104,202204,202304,202404,202504,202602/c11255/90707",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "PIB, variação anual",
+      "valor": 4.8,
+      "unidade": "%",
+      "periodo": "2021",
+      "fonte": {
+        "nome": "IBGE/SIDRA, tabela 5932 (Contas Nacionais Trimestrais, taxa acumulada no ano, v6563)",
+        "url": "https://apisidra.ibge.gov.br/values/t/5932/n1/all/v/6563/p/201004,201104,201204,201304,201404,201504,201604,201704,201804,201904,202004,202104,202204,202304,202404,202504,202602/c11255/90707",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "PIB, variação anual",
+      "valor": 3.2,
+      "unidade": "%",
+      "periodo": "2023",
+      "fonte": {
+        "nome": "IBGE/SIDRA, tabela 5932 (Contas Nacionais Trimestrais, taxa acumulada no ano, v6563)",
+        "url": "https://apisidra.ibge.gov.br/values/t/5932/n1/all/v/6563/p/201004,201104,201204,201304,201404,201504,201604,201704,201804,201904,202004,202104,202204,202304,202404,202504,202602/c11255/90707",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "PIB, variação anual",
+      "valor": 3.4,
+      "unidade": "%",
+      "periodo": "2024",
+      "fonte": {
+        "nome": "IBGE/SIDRA, tabela 5932 (Contas Nacionais Trimestrais, taxa acumulada no ano, v6563)",
+        "url": "https://apisidra.ibge.gov.br/values/t/5932/n1/all/v/6563/p/201004,201104,201204,201304,201404,201504,201604,201704,201804,201904,202004,202104,202204,202304,202404,202504,202602/c11255/90707",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "PIB, variação anual",
+      "valor": 2.3,
+      "unidade": "%",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "IBGE/SIDRA, tabela 5932 (Contas Nacionais Trimestrais, taxa acumulada no ano, v6563)",
+        "url": "https://apisidra.ibge.gov.br/values/t/5932/n1/all/v/6563/p/201004,201104,201204,201304,201404,201504,201604,201704,201804,201904,202004,202104,202204,202304,202404,202504,202602/c11255/90707",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "PIB, variação acumulada no ano",
+      "valor": 1.9,
+      "unidade": "%",
+      "periodo": "1º sem/2026",
+      "fonte": {
+        "nome": "IBGE/SIDRA, tabela 5932 (Contas Nacionais Trimestrais, taxa acumulada no ano, v6563)",
+        "url": "https://apisidra.ibge.gov.br/values/t/5932/n1/all/v/6563/p/201004,201104,201204,201304,201404,201504,201604,201704,201804,201904,202004,202104,202204,202304,202404,202504,202602/c11255/90707",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    }
+  ],
+  "fontes_primarias": [
+    {
+      "nome": "IBGE/SIDRA, tabela 5932 (Contas Nacionais Trimestrais, taxa acumulada no ano, v6563)",
+      "url": "https://apisidra.ibge.gov.br/values/t/5932/n1/all/v/6563/p/201004,201104,201204,201304,201404,201504,201604,201704,201804,201904,202004,202104,202204,202304,202404,202504,202602/c11255/90707",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "IBGE/SIDRA, tabela 5932 (Contas Nacionais Trimestrais, taxa acumulada no ano, v6563)",
+      "url": "https://apisidra.ibge.gov.br/values/t/5932/n1/all/v/6563/p/201004,201104,201204,201304,201404,201504,201604,201704,201804,201904,202004,202104,202204,202304,202404,202504,202602/c11255/90707",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/17_debate_globo_2026-10-23_checagem.md",
+  "atualizado_em": "2026-10-24",
+  "lacunas": [
+    "Checagem feita apenas com fontes oficiais (governo federal, estadual, Legislativo, Judiciário, TSE, órgãos intergovernamentais e governos estrangeiros), sem imprensa nem agências de checagem, por decisão editorial desta edição."
+  ],
+  "changelog": [
+    {
+      "data": "2026-10-24",
+      "o_que_mudou": "publicação (checagem só com fontes oficiais)"
+    }
+  ],
+  "id_no_debate": "L63",
+  "leitura_checada": "A economia não crescia acima de 3% desde 2010 e voltou a crescer no atual governo.",
+  "leitura_incerta": false
+}

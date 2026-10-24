@@ -1,0 +1,135 @@
+{
+  "id": "fala-0420",
+  "slug": "lula-globo-quando-assumi-presidencia-republica-nordeste-era-regiao-tinha",
+  "evento_id": "debate-globo-2turno-2026-10-23",
+  "candidato": "lula",
+  "lado": "governo-lula-pt",
+  "minuto": "Bloco 1 — pergunta 6 · clipe g1 00:43",
+  "url_trecho": "https://youtu.be/vASlNIMp2PM?t=43",
+  "frase_literal": "Eu quando assumi a presidência da República, o Nordeste era a região que tinha mais pobre, mais nutrido [desnutrido], mais analfabeto, mais evador [evasão] escolar, menos universidade, menos doutor, menos mestre",
+  "literal": true,
+  "variantes_literais": [],
+  "tema": "pobreza-programas-sociais",
+  "veredito": "verdadeiro",
+  "resumo_uma_frase": "Nos dois indicadores verificados (pobreza e analfabetismo, PNAD 2002), o Nordeste era de longe a pior região; os demais itens da lista não foram verificados.",
+  "explicacao_simples": [
+    "Em 2002, 23,4% dos nordestinos com 15 anos ou mais eram analfabetos, contra 11,8% no Brasil e 9,8% no Norte urbano.",
+    "52,7% dos nordestinos viviam com renda familiar per capita de até meio salário mínimo, contra 30% no Brasil.",
+    "A renda média dos 10% mais pobres do Nordeste era R$ 20,73 por mês, a menor entre as regiões."
+  ],
+  "o_que_e_verdade": [
+    "O Nordeste tinha a maior taxa de analfabetismo e a maior proporção de pobres do país no início do governo Lula."
+  ],
+  "o_que_nao_se_sustenta": [],
+  "numeros": [
+    {
+      "rotulo": "Taxa de analfabetismo 15+ — Nordeste",
+      "valor": 23.4,
+      "unidade": "%",
+      "periodo": "2002",
+      "fonte": {
+        "nome": "IBGE — Síntese de Indicadores Sociais 2003 (PNAD 2002), Tabela 3.1, taxa de analfabetismo 15+ por Grande Região",
+        "url": "https://ftp.ibge.gov.br/Indicadores_Sociais/Sintese_de_Indicadores_Sociais/Sintese_de_Indicadores_Sociais_2003/educacao.zip",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Taxa de analfabetismo 15+ — Brasil",
+      "valor": 11.8,
+      "unidade": "%",
+      "periodo": "2002",
+      "fonte": {
+        "nome": "IBGE — Síntese de Indicadores Sociais 2003 (PNAD 2002), Tabela 3.1, taxa de analfabetismo 15+ por Grande Região",
+        "url": "https://ftp.ibge.gov.br/Indicadores_Sociais/Sintese_de_Indicadores_Sociais/Sintese_de_Indicadores_Sociais_2003/educacao.zip",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Pessoas com renda familiar per capita até 1/2 SM — Nordeste (soma das classes até 1/4 e 1/4–1/2)",
+      "valor": 52.7,
+      "unidade": "%",
+      "periodo": "2002",
+      "fonte": {
+        "nome": "IBGE — Síntese de Indicadores Sociais 2003 (PNAD 2002), Tabelas 6.7 e 6.10, pessoas por classe de rendimento familiar per capita e renda dos 10%/40% mais pobres por Grande Região",
+        "url": "https://ftp.ibge.gov.br/Indicadores_Sociais/Sintese_de_Indicadores_Sociais/Sintese_de_Indicadores_Sociais_2003/familia.zip",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Pessoas com renda familiar per capita até 1/2 SM — Brasil",
+      "valor": 30.0,
+      "unidade": "%",
+      "periodo": "2002",
+      "fonte": {
+        "nome": "IBGE — Síntese de Indicadores Sociais 2003 (PNAD 2002), Tabelas 6.7 e 6.10, pessoas por classe de rendimento familiar per capita e renda dos 10%/40% mais pobres por Grande Região",
+        "url": "https://ftp.ibge.gov.br/Indicadores_Sociais/Sintese_de_Indicadores_Sociais/Sintese_de_Indicadores_Sociais_2003/familia.zip",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Renda média mensal per capita dos 10% mais pobres — Nordeste",
+      "valor": 20.73,
+      "unidade": "R$ de 2002",
+      "periodo": "2002",
+      "fonte": {
+        "nome": "IBGE — Síntese de Indicadores Sociais 2003 (PNAD 2002), Tabelas 6.7 e 6.10, pessoas por classe de rendimento familiar per capita e renda dos 10%/40% mais pobres por Grande Região",
+        "url": "https://ftp.ibge.gov.br/Indicadores_Sociais/Sintese_de_Indicadores_Sociais/Sintese_de_Indicadores_Sociais_2003/familia.zip",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    }
+  ],
+  "fontes_primarias": [
+    {
+      "nome": "IBGE — Síntese de Indicadores Sociais 2003 (PNAD 2002), Tabela 3.1, taxa de analfabetismo 15+ por Grande Região",
+      "url": "https://ftp.ibge.gov.br/Indicadores_Sociais/Sintese_de_Indicadores_Sociais/Sintese_de_Indicadores_Sociais_2003/educacao.zip",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    },
+    {
+      "nome": "IBGE — Síntese de Indicadores Sociais 2003 (PNAD 2002), Tabelas 6.7 e 6.10, pessoas por classe de rendimento familiar per capita e renda dos 10%/40% mais pobres por Grande Região",
+      "url": "https://ftp.ibge.gov.br/Indicadores_Sociais/Sintese_de_Indicadores_Sociais/Sintese_de_Indicadores_Sociais_2003/familia.zip",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "IBGE — Síntese de Indicadores Sociais 2003 (PNAD 2002), Tabela 3.1, taxa de analfabetismo 15+ por Grande Região",
+      "url": "https://ftp.ibge.gov.br/Indicadores_Sociais/Sintese_de_Indicadores_Sociais/Sintese_de_Indicadores_Sociais_2003/educacao.zip",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    },
+    {
+      "nome": "IBGE — Síntese de Indicadores Sociais 2003 (PNAD 2002), Tabelas 6.7 e 6.10, pessoas por classe de rendimento familiar per capita e renda dos 10%/40% mais pobres por Grande Região",
+      "url": "https://ftp.ibge.gov.br/Indicadores_Sociais/Sintese_de_Indicadores_Sociais/Sintese_de_Indicadores_Sociais_2003/familia.zip",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/17_debate_globo_2026-10-23_checagem.md",
+  "atualizado_em": "2026-10-24",
+  "lacunas": [
+    "Leitura incerta da legenda automática; a checagem usou a leitura: Legenda 'mais nutrido' e 'mais evador' lidas como 'mais desnutrido' e 'mais evasão escolar'; em 2003 o Nordeste seria a região mais pobre, desnutrida e analfabeta, com mais evasão e menos universidades, doutores e mestres.",
+    "Desnutrição (POF 2002–2003), evasão escolar (Inep), universidades por região (Censo da Educação Superior/Inep) e mestres e doutores (Capes) não foram verificados; o servidor de download do Inep falhou na verificação TLS.",
+    "A PNAD 2002 não cobria a área rural do Norte (exceto Tocantins), o que limita a comparação com essa região.",
+    "Checagem feita apenas com fontes oficiais (governo federal, estadual, Legislativo, Judiciário, TSE, órgãos intergovernamentais e governos estrangeiros), sem imprensa nem agências de checagem, por decisão editorial desta edição."
+  ],
+  "changelog": [
+    {
+      "data": "2026-10-24",
+      "o_que_mudou": "publicação (checagem só com fontes oficiais)"
+    }
+  ],
+  "id_no_debate": "L39",
+  "leitura_checada": "Legenda 'mais nutrido' e 'mais evador' lidas como 'mais desnutrido' e 'mais evasão escolar'; em 2003 o Nordeste seria a região mais pobre, desnutrida e analfabeta, com mais evasão e menos universidades, doutores e mestres.",
+  "leitura_incerta": true
+}

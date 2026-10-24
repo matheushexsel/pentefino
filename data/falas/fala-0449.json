@@ -1,0 +1,75 @@
+{
+  "id": "fala-0449",
+  "slug": "flavio-globo-tem-estudo-fbi-diz-aonde-ha-regiao-onde",
+  "evento_id": "debate-globo-2turno-2026-10-23",
+  "candidato": "flavio-bolsonaro",
+  "lado": "oposicao-flavio-pl",
+  "minuto": "Bloco 2 — pergunta 1 · clipe g1 09:45",
+  "url_trecho": "https://youtu.be/QhluFzoPl30?t=585",
+  "frase_literal": "Tem um estudo do FBI que diz que aonde há, na região onde há um grande maus-tratos de animais, há também um grande potencial de pessoas mais violentas",
+  "literal": true,
+  "variantes_literais": [],
+  "tema": "seguranca",
+  "veredito": "verdadeiro-mas",
+  "resumo_uma_frase": "O FBI passou a registrar crueldade animal em 2016 e uma publicação do órgão aponta ligação com violência contra pessoas, mas no nível do agressor, não de 'regiões'.",
+  "explicacao_simples": [
+    "Desde 01/01/2016, o sistema nacional de estatísticas criminais dos EUA (NIBRS, do FBI) registra crueldade contra animais como categoria própria.",
+    "Um artigo do boletim oficial do FBI descreve a crueldade animal como crime associado a violência contra pessoas (parceiras, crianças, idosos), com ressalvas.",
+    "Não foi localizado estudo do FBI sobre 'regiões' com mais maus-tratos terem pessoas mais violentas."
+  ],
+  "o_que_e_verdade": [
+    "O FBI rastreia crueldade animal desde 2016 e associa esse crime a violência interpessoal."
+  ],
+  "o_que_nao_se_sustenta": [
+    "A ideia de uma relação por região não aparece nas fontes do FBI localizadas."
+  ],
+  "numeros": [],
+  "fontes_primarias": [
+    {
+      "nome": "FBI — 'Tracking Animal Cruelty' (NIBRS passa a registrar crueldade animal a partir de 01/01/2016; página devolveu 403, conteúdo lido só pelo índice do buscador)",
+      "url": "https://www.fbi.gov/news/stories/-tracking-animal-cruelty",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-estrangeiro"
+    },
+    {
+      "nome": "FBI Law Enforcement Bulletin — 'The Link Between Animal Cruelty and Human Violence' (página devolveu 403, conteúdo lido só pelo índice do buscador)",
+      "url": "https://leb.fbi.gov/articles/featured-articles/the-link-between-animal-cruelty-and-human-violence",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-estrangeiro"
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "FBI — 'Tracking Animal Cruelty' (NIBRS passa a registrar crueldade animal a partir de 01/01/2016; página devolveu 403, conteúdo lido só pelo índice do buscador)",
+      "url": "https://www.fbi.gov/news/stories/-tracking-animal-cruelty",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-estrangeiro"
+    },
+    {
+      "nome": "FBI Law Enforcement Bulletin — 'The Link Between Animal Cruelty and Human Violence' (página devolveu 403, conteúdo lido só pelo índice do buscador)",
+      "url": "https://leb.fbi.gov/articles/featured-articles/the-link-between-animal-cruelty-and-human-violence",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-estrangeiro"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/17_debate_globo_2026-10-23_checagem.md",
+  "atualizado_em": "2026-10-24",
+  "lacunas": [
+    "As páginas do FBI devolveram HTTP 403; o conteúdo foi lido só pelo índice do buscador. Veredito provisório até leitura direta.",
+    "Checagem feita apenas com fontes oficiais (governo federal, estadual, Legislativo, Judiciário, TSE, órgãos intergovernamentais e governos estrangeiros), sem imprensa nem agências de checagem, por decisão editorial desta edição."
+  ],
+  "changelog": [
+    {
+      "data": "2026-10-24",
+      "o_que_mudou": "publicação (checagem só com fontes oficiais)"
+    }
+  ],
+  "id_no_debate": "F51",
+  "leitura_checada": "Existe estudo do FBI ligando maus-tratos a animais a maior potencial de violência contra pessoas.",
+  "leitura_incerta": false,
+  "nao_verificado": true
+}

@@ -1,0 +1,124 @@
+{
+  "id": "fala-0398",
+  "slug": "lula-globo-argentina-pobreza-chegou-40",
+  "evento_id": "debate-globo-2turno-2026-10-23",
+  "candidato": "lula",
+  "lado": "governo-lula-pt",
+  "minuto": "Bloco 1 — pergunta 4 · clipe g1 01:04",
+  "url_trecho": "https://youtu.be/FIKMIfvhAkA?t=64",
+  "frase_literal": "na Argentina a pobreza chegou a 40%",
+  "literal": true,
+  "variantes_literais": [],
+  "tema": "relacoes-exteriores",
+  "veredito": "falta-contexto",
+  "resumo_uma_frase": "A pobreza argentina passou de 40% (chegou a 52,9% no início do governo Milei), mas hoje está em 32,3%, abaixo dos 41,7% que Milei herdou.",
+  "explicacao_simples": [
+    "Segundo o INDEC, a pobreza era de 41,7% das pessoas no 2º semestre de 2023, último período do governo anterior.",
+    "No 1º semestre de 2024, já com Milei, chegou a 52,9%; depois caiu até 28,2% no 2º semestre de 2025.",
+    "No dado mais recente (1º semestre de 2026), subiu para 32,3%.",
+    "Dizer que 'chegou a 40%' é correto como pico passado, mas omite que a taxa atual é menor que a do fim do governo anterior."
+  ],
+  "o_que_e_verdade": [
+    "A pobreza argentina já superou 40% (52,9% no 1º sem. 2024) e voltou a subir em 2026 (32,3%)."
+  ],
+  "o_que_nao_se_sustenta": [
+    "A taxa atual não está em 40%, e o patamar de 40% já existia antes de Milei (40,1% e 41,7% em 2023)."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Pobreza (pessoas), Argentina",
+      "valor": 41.7,
+      "unidade": "% das pessoas",
+      "periodo": "2º sem. 2023",
+      "fonte": {
+        "nome": "INDEC (Argentina) — série histórica de pobreza e indigência, 2º sem. 2016 a 1º sem. 2026 (xls)",
+        "url": "http://www.indec.gob.ar/ftp/cuadros/sociedad/cuadros_informe_pobreza_09_26.xls",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-estrangeiro"
+      }
+    },
+    {
+      "rotulo": "Pobreza (pessoas), Argentina",
+      "valor": 52.9,
+      "unidade": "% das pessoas",
+      "periodo": "1º sem. 2024",
+      "fonte": {
+        "nome": "INDEC (Argentina) — série histórica de pobreza e indigência, 2º sem. 2016 a 1º sem. 2026 (xls)",
+        "url": "http://www.indec.gob.ar/ftp/cuadros/sociedad/cuadros_informe_pobreza_09_26.xls",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-estrangeiro"
+      }
+    },
+    {
+      "rotulo": "Pobreza (pessoas), Argentina",
+      "valor": 28.2,
+      "unidade": "% das pessoas",
+      "periodo": "2º sem. 2025",
+      "fonte": {
+        "nome": "INDEC (Argentina) — série histórica de pobreza e indigência, 2º sem. 2016 a 1º sem. 2026 (xls)",
+        "url": "http://www.indec.gob.ar/ftp/cuadros/sociedad/cuadros_informe_pobreza_09_26.xls",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-estrangeiro"
+      }
+    },
+    {
+      "rotulo": "Pobreza (pessoas), Argentina",
+      "valor": 32.3,
+      "unidade": "% das pessoas",
+      "periodo": "1º sem. 2026",
+      "fonte": {
+        "nome": "INDEC (Argentina) — Incidencia de la pobreza y la indigencia en 31 aglomerados urbanos, 1º semestre de 2026 (24/09/2026)",
+        "url": "https://www.indec.gob.ar/uploads/informesdeprensa/eph_pobreza_09_2670733F4C4D.pdf",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-estrangeiro"
+      }
+    }
+  ],
+  "fontes_primarias": [
+    {
+      "nome": "INDEC (Argentina) — Incidencia de la pobreza y la indigencia en 31 aglomerados urbanos, 1º semestre de 2026 (24/09/2026)",
+      "url": "https://www.indec.gob.ar/uploads/informesdeprensa/eph_pobreza_09_2670733F4C4D.pdf",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-estrangeiro"
+    },
+    {
+      "nome": "INDEC (Argentina) — série histórica de pobreza e indigência, 2º sem. 2016 a 1º sem. 2026 (xls)",
+      "url": "http://www.indec.gob.ar/ftp/cuadros/sociedad/cuadros_informe_pobreza_09_26.xls",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-estrangeiro"
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "INDEC (Argentina) — Incidencia de la pobreza y la indigencia en 31 aglomerados urbanos, 1º semestre de 2026 (24/09/2026)",
+      "url": "https://www.indec.gob.ar/uploads/informesdeprensa/eph_pobreza_09_2670733F4C4D.pdf",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-estrangeiro"
+    },
+    {
+      "nome": "INDEC (Argentina) — série histórica de pobreza e indigência, 2º sem. 2016 a 1º sem. 2026 (xls)",
+      "url": "http://www.indec.gob.ar/ftp/cuadros/sociedad/cuadros_informe_pobreza_09_26.xls",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-estrangeiro"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/17_debate_globo_2026-10-23_checagem.md",
+  "atualizado_em": "2026-10-24",
+  "lacunas": [
+    "Fonte é órgão oficial estrangeiro (INDEC), não listado nominalmente nas regras; registrado como 'oficial-estrangeiro'.",
+    "Checagem feita apenas com fontes oficiais (governo federal, estadual, Legislativo, Judiciário, TSE, órgãos intergovernamentais e governos estrangeiros), sem imprensa nem agências de checagem, por decisão editorial desta edição."
+  ],
+  "changelog": [
+    {
+      "data": "2026-10-24",
+      "o_que_mudou": "publicação (checagem só com fontes oficiais)"
+    }
+  ],
+  "id_no_debate": "L30",
+  "leitura_checada": "'Na Argentina a pobreza chegou a 40%', no contexto de crítica ao modelo de Milei.",
+  "leitura_incerta": false
+}

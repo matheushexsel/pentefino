@@ -1,0 +1,91 @@
+{
+  "id": "fala-0447",
+  "slug": "lula-globo-brasil-so-ter-primeira-universidade-420-anos-depois",
+  "evento_id": "debate-globo-2turno-2026-10-23",
+  "candidato": "lula",
+  "lado": "governo-lula-pt",
+  "minuto": "Bloco 2 — pergunta 1 · clipe g1 08:13",
+  "url_trecho": "https://youtu.be/QhluFzoPl30?t=493",
+  "frase_literal": "O Brasil só foi ter a primeira universidade 420 anos depois da descoberta",
+  "literal": true,
+  "variantes_literais": [],
+  "tema": "educacao",
+  "veredito": "verdadeiro",
+  "resumo_uma_frase": "A primeira universidade criada pelo governo federal, a Universidade do Rio de Janeiro, é de 7/9/1920 (Decreto 14.343), exatamente 420 anos depois de 1500.",
+  "explicacao_simples": [
+    "O Decreto 14.343, de 7 de setembro de 1920, reuniu a Escola Politécnica, a Faculdade de Medicina e a Faculdade de Direito na Universidade do Rio de Janeiro.",
+    "A UFRJ, sua sucessora, registra que foi a primeira universidade criada pelo governo federal.",
+    "Há instituições que reivindicam pioneirismo anterior (Manaus 1909, Paraná 1912), não reconhecidas como universidades federais à época."
+  ],
+  "o_que_e_verdade": [
+    "1500 + 420 = 1920; Decreto 14.343/1920 institui a Universidade do Rio de Janeiro."
+  ],
+  "o_que_nao_se_sustenta": [],
+  "numeros": [
+    {
+      "rotulo": "Ano de criação da Universidade do Rio de Janeiro",
+      "valor": 1920,
+      "unidade": "ano",
+      "periodo": "07/09/1920",
+      "fonte": {
+        "nome": "Câmara dos Deputados – LegIn, Decreto nº 14.343/1920",
+        "url": "https://www2.camara.leg.br/legin/fed/decret/1920-1929/decreto-14343-7-setembro-1920-570508-publicacaooriginal-93654-pe.html",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-legislativo"
+      }
+    }
+  ],
+  "fontes_primarias": [
+    {
+      "nome": "Câmara dos Deputados – LegIn, Decreto nº 14.343/1920 (publicação original)",
+      "url": "https://www2.camara.leg.br/legin/fed/decret/1920-1929/decreto-14343-7-setembro-1920-570508-publicacaooriginal-93654-pe.html",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    },
+    {
+      "nome": "UFRJ – História (página institucional)",
+      "url": "https://ufrj.br/acesso-a-informacao/institucional/historia/",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    }
+  ],
+  "base_legal": [
+    {
+      "norma": "Decreto nº 14.343, de 07/09/1920",
+      "o_que_diz": "Art. 1º: 'Ficam reunidas, em Universidade do Rio de Janeiro, a Escola Polytechnica..., a Faculdade de Medicina... e a Faculdade de Direito do Rio de Janeiro'.",
+      "url": "https://www2.camara.leg.br/legin/fed/decret/1920-1929/decreto-14343-7-setembro-1920-570508-publicacaooriginal-93654-pe.html"
+    }
+  ],
+  "checagens_externas": [],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Câmara dos Deputados – LegIn, Decreto nº 14.343/1920 (publicação original)",
+      "url": "https://www2.camara.leg.br/legin/fed/decret/1920-1929/decreto-14343-7-setembro-1920-570508-publicacaooriginal-93654-pe.html",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    },
+    {
+      "nome": "UFRJ – História (página institucional)",
+      "url": "https://ufrj.br/acesso-a-informacao/institucional/historia/",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/17_debate_globo_2026-10-23_checagem.md",
+  "atualizado_em": "2026-10-24",
+  "lacunas": [
+    "As páginas da UFPR (1912) e da Ufam (1909) não puderam ser lidas (erro de certificado/503); a disputa de pioneirismo fica registrada sem fonte oficial lida.",
+    "Checagem feita apenas com fontes oficiais (governo federal, estadual, Legislativo, Judiciário, TSE, órgãos intergovernamentais e governos estrangeiros), sem imprensa nem agências de checagem, por decisão editorial desta edição."
+  ],
+  "changelog": [
+    {
+      "data": "2026-10-24",
+      "o_que_mudou": "publicação (checagem só com fontes oficiais)"
+    }
+  ],
+  "id_no_debate": "L54",
+  "leitura_checada": "Leitura literal da legenda.",
+  "leitura_incerta": false
+}

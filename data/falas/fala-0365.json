@@ -1,0 +1,82 @@
+{
+  "id": "fala-0365",
+  "slug": "lula-globo-disse-como-aprovamos-fim-escala-6x1-trabalhadores-vao",
+  "evento_id": "debate-globo-2turno-2026-10-23",
+  "candidato": "lula",
+  "lado": "governo-lula-pt",
+  "minuto": "Bloco 1 — pergunta 2 · clipe g1 03:58",
+  "url_trecho": "https://youtu.be/26XCkA5BHm8?t=238",
+  "frase_literal": "eu disse que como nós aprovamos o fim da escala por um [6x1], os trabalhadores vão ter dois dias para ficar em casa",
+  "literal": true,
+  "variantes_literais": [],
+  "tema": "eleicao-2026",
+  "veredito": "verdadeiro-mas",
+  "resumo_uma_frase": "A Emenda Constitucional 141, promulgada em 16/10/2026, garante dois dias de repouso semanal, mas a regra só vale a partir de dez/2026 e quem aprovou foi o Congresso.",
+  "explicacao_simples": [
+    "A PEC 221/2019, do deputado Reginaldo Lopes (PT-MG), virou a Emenda Constitucional 141, publicada no DOU de 16/10/2026.",
+    "O texto prevê 'repouso semanal remunerado de 2 dias' e jornada máxima de 40 horas, sem redução salarial.",
+    "O repouso de 2 dias entra em vigor 2 meses após a publicação; a jornada cai para 42 h em 2 meses e para 40 h um ano depois; acordos coletivos podem compensar os 2 dias na média do mês."
+  ],
+  "o_que_e_verdade": [
+    "O fim da escala 6x1 foi aprovado e promulgado (EC 141/2026).",
+    "A emenda prevê dois dias de repouso semanal remunerado."
+  ],
+  "o_que_nao_se_sustenta": [
+    "Emendas constitucionais são aprovadas e promulgadas pelo Congresso, não pelo governo; o 'nós aprovamos' só é exato no sentido de base aliada/autor petista.",
+    "Os dois dias de folga ainda não estão em vigor (vigência do inciso XV a partir de ~16/12/2026) e podem ser compensados 'na média' por acordo coletivo."
+  ],
+  "numeros": [],
+  "fontes_primarias": [
+    {
+      "nome": "Planalto, Emenda Constitucional nº 141, de 16/10/2026",
+      "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc141.htm",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    },
+    {
+      "nome": "Câmara dos Deputados, API de dados abertos – PEC 221/2019 (situação e autoria)",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2233802",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    }
+  ],
+  "base_legal": [
+    {
+      "norma": "Emenda Constitucional nº 141/2026",
+      "o_que_diz": "Art. 7º, XIII: jornada de até 8 h diárias e 40 h semanais; XV: repouso semanal remunerado de 2 dias; art. 6º: 42 h após 2 meses e 40 h após mais 1 ano; art. 10: o inciso XV vigora 2 meses após a publicação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc141.htm"
+    }
+  ],
+  "checagens_externas": [],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Planalto, Emenda Constitucional nº 141, de 16/10/2026",
+      "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc141.htm",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    },
+    {
+      "nome": "Câmara dos Deputados, API de dados abertos – PEC 221/2019 (situação e autoria)",
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2233802",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/17_debate_globo_2026-10-23_checagem.md",
+  "atualizado_em": "2026-10-24",
+  "lacunas": [
+    "Leitura incerta da legenda automática; a checagem usou a leitura: 'fim da escala por um' = fim da escala 6x1; leitura: o fim da escala 6x1 foi aprovado e os trabalhadores terão dois dias de folga.",
+    "Checagem feita apenas com fontes oficiais (governo federal, estadual, Legislativo, Judiciário, TSE, órgãos intergovernamentais e governos estrangeiros), sem imprensa nem agências de checagem, por decisão editorial desta edição."
+  ],
+  "changelog": [
+    {
+      "data": "2026-10-24",
+      "o_que_mudou": "publicação (checagem só com fontes oficiais)"
+    }
+  ],
+  "id_no_debate": "L16",
+  "leitura_checada": "'fim da escala por um' = fim da escala 6x1; leitura: o fim da escala 6x1 foi aprovado e os trabalhadores terão dois dias de folga.",
+  "leitura_incerta": true
+}
