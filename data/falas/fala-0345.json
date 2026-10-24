@@ -1,0 +1,148 @@
+{
+  "id": "fala-0345",
+  "slug": "flavio-globo-pegamos-brasil-la-2019-cerca-14-000-obras",
+  "evento_id": "debate-globo-2turno-2026-10-23",
+  "candidato": "flavio-bolsonaro",
+  "lado": "oposicao-flavio-pl",
+  "minuto": "Bloco 1 — pergunta 1 · clipe g1 01:10",
+  "url_trecho": "https://youtu.be/woYkhYICZ2k?t=70",
+  "frase_literal": "nós pegamos o Brasil lá em 2019 com cerca de 14.000 obras inacabadas. E apesar de todos os problemas, a gente entregou o Brasil com um pouco mais de 8.000 obras inacabadas",
+  "literal": true,
+  "variantes_literais": [],
+  "tema": "infraestrutura",
+  "veredito": "verdadeiro-mas",
+  "resumo_uma_frase": "Os números batem com o TCU (14.403 contratos no diagnóstico de 2018/2019; 8.674 obras paralisadas em ago/2022), mas o próprio TCU atribui boa parte da queda à mudança de critério de classificação.",
+  "explicacao_simples": [
+    "O TCU contou pelo menos 14.403 contratos de obras com situação 'paralisado' na auditoria que gerou o Acórdão 1.079/2019 (dados levantados em 2018).",
+    "No painel do TCU, a extração de agosto de 2022 mostra 8.674 obras paralisadas (de 22.559 monitoradas).",
+    "O TCU registrou que a redução, sobretudo na carteira da Caixa, ocorreu em grande parte porque mudaram os critérios para considerar uma obra paralisada — não só por retomadas."
+  ],
+  "o_que_e_verdade": [
+    "14.403 contratos paralisados no diagnóstico do Acórdão 1.079/2019.",
+    "8.674 obras paralisadas na extração de ago/2022 do painel do TCU (8.678 no relatório do Acórdão 2.555/2022)."
+  ],
+  "o_que_nao_se_sustenta": [
+    "A comparação direta 14 mil → 8 mil como resultado de gestão: o TCU diz que 'a redução do número de obras paralisadas ocorreu em função das modificações realizadas nos critérios de enquadramento' (Caixa) e que a base de 2018 e a de 2022 não são equivalentes. Na base de out/2020 do próprio painel havia 3.809 paralisadas, com critério diferente."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Contratos de obras com situação 'paralisado' (diagnóstico do Acórdão 1.079/2019)",
+      "valor": 14403,
+      "unidade": "contratos",
+      "periodo": "2018 (auditoria julgada em 15/05/2019)",
+      "fonte": {
+        "nome": "TCU — Acórdão 2.555/2022-Plenário (TC 021.731/2019-5, sessão 23/11/2022), relatório do 2º ciclo de acompanhamento das obras paralisadas (cita o diagnóstico do Acórdão 1.079/2019)",
+        "url": "https://portal.tcu.gov.br/data/files/88/C3/04/9B/A8AA4810B4FE0FF7E18818A8/021.731-2019-5%20%20VR%20%20acompanhamento%20obras%20paralisadas.pdf",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-legislativo"
+      }
+    },
+    {
+      "rotulo": "Obras paralisadas — painel TCU",
+      "valor": 8674,
+      "unidade": "obras",
+      "periodo": "ago/2022",
+      "fonte": {
+        "nome": "TCU — Painel de Obras Paralisadas (Power BI público; consulta direta ao modelo de dados, última atualização 05/08/2026; extrações ago/2022, abr/2023, abr/2024, abr/2025 e abr/2026)",
+        "url": "https://paineis.tcu.gov.br/pub/?workspaceId=8bfbd0cc-f2cd-4e1c-8cde-6abfdffea6a8&reportId=013930b6-b989-41c3-bf00-085dc65109de&painel=ObrasParalisadas",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-legislativo"
+      }
+    },
+    {
+      "rotulo": "Obras monitoradas — painel TCU",
+      "valor": 22559,
+      "unidade": "obras",
+      "periodo": "ago/2022",
+      "fonte": {
+        "nome": "TCU — Painel de Obras Paralisadas (Power BI público; consulta direta ao modelo de dados, última atualização 05/08/2026; extrações ago/2022, abr/2023, abr/2024, abr/2025 e abr/2026)",
+        "url": "https://paineis.tcu.gov.br/pub/?workspaceId=8bfbd0cc-f2cd-4e1c-8cde-6abfdffea6a8&reportId=013930b6-b989-41c3-bf00-085dc65109de&painel=ObrasParalisadas",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-legislativo"
+      }
+    },
+    {
+      "rotulo": "Obras paralisadas/inacabadas — relatório do Acórdão 2.555/2022",
+      "valor": 8678,
+      "unidade": "contratos",
+      "periodo": "ago/2022",
+      "fonte": {
+        "nome": "TCU — Acórdão 2.555/2022-Plenário (TC 021.731/2019-5, sessão 23/11/2022), relatório do 2º ciclo de acompanhamento das obras paralisadas (cita o diagnóstico do Acórdão 1.079/2019)",
+        "url": "https://portal.tcu.gov.br/data/files/88/C3/04/9B/A8AA4810B4FE0FF7E18818A8/021.731-2019-5%20%20VR%20%20acompanhamento%20obras%20paralisadas.pdf",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-legislativo"
+      }
+    },
+    {
+      "rotulo": "Obras paralisadas — base 2018-2020 do painel",
+      "valor": 3809,
+      "unidade": "obras",
+      "periodo": "out/2020",
+      "fonte": {
+        "nome": "TCU — Painel de Obras Paralisadas (Power BI público; consulta direta ao modelo de dados, última atualização 05/08/2026; extrações ago/2022, abr/2023, abr/2024, abr/2025 e abr/2026)",
+        "url": "https://paineis.tcu.gov.br/pub/?workspaceId=8bfbd0cc-f2cd-4e1c-8cde-6abfdffea6a8&reportId=013930b6-b989-41c3-bf00-085dc65109de&painel=ObrasParalisadas",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-legislativo"
+      }
+    }
+  ],
+  "fontes_primarias": [
+    {
+      "nome": "TCU — Acórdão 2.555/2022-Plenário (TC 021.731/2019-5, sessão 23/11/2022), relatório do 2º ciclo de acompanhamento das obras paralisadas (cita o diagnóstico do Acórdão 1.079/2019)",
+      "url": "https://portal.tcu.gov.br/data/files/88/C3/04/9B/A8AA4810B4FE0FF7E18818A8/021.731-2019-5%20%20VR%20%20acompanhamento%20obras%20paralisadas.pdf",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    },
+    {
+      "nome": "TCU — Painel de Obras Paralisadas (Power BI público; consulta direta ao modelo de dados, última atualização 05/08/2026; extrações ago/2022, abr/2023, abr/2024, abr/2025 e abr/2026)",
+      "url": "https://paineis.tcu.gov.br/pub/?workspaceId=8bfbd0cc-f2cd-4e1c-8cde-6abfdffea6a8&reportId=013930b6-b989-41c3-bf00-085dc65109de&painel=ObrasParalisadas",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    },
+    {
+      "nome": "TCU — notícia 'Obras paralisadas no país: causas e soluções' (Acórdão 1.079/2019-Plenário, 28/05/2019)",
+      "url": "https://portal.tcu.gov.br/imprensa/noticias/obras-paralisadas-no-pais-causas-e-solucoes",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "TCU — Acórdão 2.555/2022-Plenário (TC 021.731/2019-5, sessão 23/11/2022), relatório do 2º ciclo de acompanhamento das obras paralisadas (cita o diagnóstico do Acórdão 1.079/2019)",
+      "url": "https://portal.tcu.gov.br/data/files/88/C3/04/9B/A8AA4810B4FE0FF7E18818A8/021.731-2019-5%20%20VR%20%20acompanhamento%20obras%20paralisadas.pdf",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    },
+    {
+      "nome": "TCU — Painel de Obras Paralisadas (Power BI público; consulta direta ao modelo de dados, última atualização 05/08/2026; extrações ago/2022, abr/2023, abr/2024, abr/2025 e abr/2026)",
+      "url": "https://paineis.tcu.gov.br/pub/?workspaceId=8bfbd0cc-f2cd-4e1c-8cde-6abfdffea6a8&reportId=013930b6-b989-41c3-bf00-085dc65109de&painel=ObrasParalisadas",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    },
+    {
+      "nome": "TCU — notícia 'Obras paralisadas no país: causas e soluções' (Acórdão 1.079/2019-Plenário, 28/05/2019)",
+      "url": "https://portal.tcu.gov.br/imprensa/noticias/obras-paralisadas-no-pais-causas-e-solucoes",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/17_debate_globo_2026-10-23_checagem.md",
+  "atualizado_em": "2026-10-24",
+  "lacunas": [
+    "Os números de 2018 e 2022 usam bases e critérios diferentes; não há série oficial homogênea.",
+    "Checagem feita apenas com fontes oficiais (governo federal, estadual, Legislativo, Judiciário, TSE, órgãos intergovernamentais e governos estrangeiros), sem imprensa nem agências de checagem, por decisão editorial desta edição."
+  ],
+  "changelog": [
+    {
+      "data": "2026-10-24",
+      "o_que_mudou": "publicação (checagem só com fontes oficiais)"
+    }
+  ],
+  "id_no_debate": "F01",
+  "leitura_checada": "Obras federais paralisadas/inacabadas: ~14 mil no diagnóstico do TCU que embasou o Acórdão 1.079/2019 e pouco mais de 8 mil ao fim de 2022.",
+  "leitura_incerta": false
+}

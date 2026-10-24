@@ -1,0 +1,111 @@
+{
+  "id": "fala-0508",
+  "slug": "flavio-globo-dessas-maes-das-mais-1-milhao-criancas-tem",
+  "evento_id": "debate-globo-2turno-2026-10-23",
+  "candidato": "flavio-bolsonaro",
+  "lado": "oposicao-flavio-pl",
+  "minuto": "Bloco 3 — pergunta 2 · clipe g1 05:22",
+  "url_trecho": "https://youtu.be/2S2HvBYOk24?t=322",
+  "frase_literal": "você é uma dessas mães das mais de 1 milhão de crianças que não tem aonde deixar o seu filho",
+  "literal": true,
+  "variantes_literais": [],
+  "tema": "educacao",
+  "veredito": "verdadeiro",
+  "resumo_uma_frase": "O IBGE estima cerca de 2,3 milhões de crianças de 0 a 3 anos fora da creche por dificuldade de acesso (falta de escola, de vaga ou recusa pela idade), acima do 'mais de 1 milhão' citado.",
+  "explicacao_simples": [
+    "Segundo o IBGE (PNAD Contínua), cerca de 2,3 milhões de crianças de 0 a 3 anos não estão em creches por dificuldade de acesso.",
+    "Em 2024, 39,7% das crianças até 3 anos frequentavam creche, abaixo da meta de 50% do PNE.",
+    "Para cerca de um terço das crianças fora da creche, o motivo é falta de escola/vaga ou recusa pela idade; para a maioria, é opção da família."
+  ],
+  "o_que_e_verdade": [
+    "'Mais de 1 milhão' é conservador frente aos ~2,3 milhões estimados pelo IBGE."
+  ],
+  "o_que_nao_se_sustenta": [
+    "Falta de vaga não é o principal motivo: cerca de 60% das famílias dizem que a criança está fora por opção."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Crianças de 0 a 3 anos fora da creche por dificuldade de acesso",
+      "valor": 2.3,
+      "unidade": "milhões",
+      "periodo": "PNAD Contínua (ref. 2023, divulgado em 2024)",
+      "fonte": {
+        "nome": "Agência Brasil (reprodução de dado do IBGE), set/2024",
+        "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2024-09/eleicoes-garantir-vaga-em-creche-esta-nos-planos-do-seu-candidato",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Frequência à creche (até 3 anos)",
+      "valor": 39.7,
+      "unidade": "%",
+      "periodo": "2024",
+      "fonte": {
+        "nome": "Agência Brasil (dado do IBGE), dez/2025",
+        "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2025-12/alunos-de-6-10-anos-estao-mais-atrasados-que-no-periodo-pre-pandemia",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Motivo 'não tem creche, falta vaga ou não aceita pela idade'",
+      "valor": 33.3,
+      "unidade": "% das crianças até 3 anos fora da creche",
+      "periodo": "2024",
+      "fonte": {
+        "nome": "Agência Brasil (dado do IBGE), dez/2025",
+        "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2025-12/alunos-de-6-10-anos-estao-mais-atrasados-que-no-periodo-pre-pandemia",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    }
+  ],
+  "fontes_primarias": [
+    {
+      "nome": "Agência Brasil (dado do IBGE), set/2024",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2024-09/eleicoes-garantir-vaga-em-creche-esta-nos-planos-do-seu-candidato",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    },
+    {
+      "nome": "Agência Brasil (dado do IBGE), dez/2025",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2025-12/alunos-de-6-10-anos-estao-mais-atrasados-que-no-periodo-pre-pandemia",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Agência Brasil (dado do IBGE), set/2024",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2024-09/eleicoes-garantir-vaga-em-creche-esta-nos-planos-do-seu-candidato",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    },
+    {
+      "nome": "Agência Brasil (dado do IBGE), dez/2025",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2025-12/alunos-de-6-10-anos-estao-mais-atrasados-que-no-periodo-pre-pandemia",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/17_debate_globo_2026-10-23_checagem.md",
+  "atualizado_em": "2026-10-24",
+  "lacunas": [
+    "Tabela original do IBGE (SIDRA/PNAD Educação) inacessível (Cloudflare); número absoluto de 2024/2025 não confirmado.",
+    "Checagem feita apenas com fontes oficiais (governo federal, estadual, Legislativo, Judiciário, TSE, órgãos intergovernamentais e governos estrangeiros), sem imprensa nem agências de checagem, por decisão editorial desta edição."
+  ],
+  "changelog": [
+    {
+      "data": "2026-10-24",
+      "o_que_mudou": "publicação (checagem só com fontes oficiais)"
+    }
+  ],
+  "id_no_debate": "F81",
+  "leitura_checada": "Leitura literal da legenda.",
+  "leitura_incerta": false
+}

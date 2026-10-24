@@ -1,0 +1,143 @@
+{
+  "id": "fala-0369",
+  "slug": "flavio-globo-porque-vai-ser-maior-iva-mundo-brasileiro-vai",
+  "evento_id": "debate-globo-2turno-2026-10-23",
+  "candidato": "flavio-bolsonaro",
+  "lado": "oposicao-flavio-pl",
+  "minuto": "Bloco 1 — pergunta 2 · clipe g1 05:16",
+  "url_trecho": "https://youtu.be/26XCkA5BHm8?t=316",
+  "frase_literal": "Porque vai ser o maior IVA do mundo. O brasileiro vai pagar o maior imposto do mundo na era Lula",
+  "literal": true,
+  "variantes_literais": [],
+  "tema": "eleicao-2026",
+  "veredito": "falta-contexto",
+  "resumo_uma_frase": "A estimativa de ~28% superaria os 27% da Hungria, o maior IVA-padrão registrado pela OCDE, mas a alíquota ainda não foi fixada e a lei prevê medidas para trazê-la a 26,5%.",
+  "explicacao_simples": [
+    "A OCDE registra IVA-padrão de 27% na Hungria e média de 19,3% nos países-membros (dez/2024).",
+    "A estimativa oficial citada pela Agência Senado é de cerca de 28% para a soma CBS+IBS.",
+    "Mas a alíquota real só será fixada pelo Senado, e a LC 214 obriga o Executivo a propor medidas se a estimativa para 2033 passar de 26,5% — número abaixo do húngaro."
+  ],
+  "o_que_e_verdade": [
+    "Se ficar em ~28%, a alíquota-padrão seria superior à da Hungria (27%)."
+  ],
+  "o_que_nao_se_sustenta": [
+    "Ainda não há alíquota fixada; a afirmação é uma projeção.",
+    "Alíquota-padrão alta não equivale a 'maior imposto do mundo': a LC 214 prevê alíquota zero para a cesta básica, reduções de 60% e 30% para vários setores e devolução (cashback) para famílias de baixa renda."
+  ],
+  "numeros": [
+    {
+      "rotulo": "IVA-padrão da Hungria",
+      "valor": 27.0,
+      "unidade": "%",
+      "periodo": "2024",
+      "fonte": {
+        "nome": "OCDE, Consumption Tax Trends – nota de país Hungria (VAT standard rate)",
+        "url": "https://www.oecd.org/content/dam/oecd/en/topics/policy-sub-issues/consumption-tax-trends/consumption-tax-trends-hungary.pdf",
+        "acesso_em": "2026-10-24",
+        "tier": "intergovernamental"
+      }
+    },
+    {
+      "rotulo": "Média do IVA-padrão na OCDE",
+      "valor": 19.3,
+      "unidade": "%",
+      "periodo": "31/12/2024",
+      "fonte": {
+        "nome": "OCDE, Consumption Tax Trends – nota de país Hungria (VAT standard rate)",
+        "url": "https://www.oecd.org/content/dam/oecd/en/topics/policy-sub-issues/consumption-tax-trends/consumption-tax-trends-hungary.pdf",
+        "acesso_em": "2026-10-24",
+        "tier": "intergovernamental"
+      }
+    },
+    {
+      "rotulo": "Estimativa de alíquota padrão CBS+IBS",
+      "valor": 28,
+      "unidade": "%",
+      "periodo": "jan/2025",
+      "fonte": {
+        "nome": "Agência Senado, 17/01/2025 – 'País terá nova tributação sobre consumo a partir de 2026' (estimativa de ~28% atribuída à Secretaria Extraordinária da Reforma Tributária)",
+        "url": "https://www12.senado.leg.br/noticias/materias/2025/01/17/pais-tera-nova-tributacao-sobre-consumo-a-partir-de-2026",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-legislativo"
+      }
+    },
+    {
+      "rotulo": "Trava legal de referência",
+      "valor": 26.5,
+      "unidade": "%",
+      "periodo": "LC 214, art. 475",
+      "fonte": {
+        "nome": "Planalto, Lei Complementar nº 214/2025 (texto compilado)",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp214.htm",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-legislativo"
+      }
+    }
+  ],
+  "fontes_primarias": [
+    {
+      "nome": "OCDE, Consumption Tax Trends – nota de país Hungria (VAT standard rate)",
+      "url": "https://www.oecd.org/content/dam/oecd/en/topics/policy-sub-issues/consumption-tax-trends/consumption-tax-trends-hungary.pdf",
+      "acesso_em": "2026-10-24",
+      "tier": "intergovernamental"
+    },
+    {
+      "nome": "Agência Senado, 17/01/2025 – 'País terá nova tributação sobre consumo a partir de 2026' (estimativa de ~28% atribuída à Secretaria Extraordinária da Reforma Tributária)",
+      "url": "https://www12.senado.leg.br/noticias/materias/2025/01/17/pais-tera-nova-tributacao-sobre-consumo-a-partir-de-2026",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    },
+    {
+      "nome": "Planalto, Lei Complementar nº 214/2025 (texto compilado)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp214.htm",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    }
+  ],
+  "base_legal": [
+    {
+      "norma": "LC nº 214/2025, art. 475, §§ 10–12",
+      "o_que_diz": "Se a soma das alíquotas de referência estimadas para 2033 superar 26,5%, o Executivo deve enviar projeto de lei complementar com medidas para reduzi-la.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp214.htm"
+    }
+  ],
+  "checagens_externas": [],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "OCDE, Consumption Tax Trends – nota de país Hungria (VAT standard rate)",
+      "url": "https://www.oecd.org/content/dam/oecd/en/topics/policy-sub-issues/consumption-tax-trends/consumption-tax-trends-hungary.pdf",
+      "acesso_em": "2026-10-24",
+      "tier": "intergovernamental"
+    },
+    {
+      "nome": "Agência Senado, 17/01/2025 – 'País terá nova tributação sobre consumo a partir de 2026' (estimativa de ~28% atribuída à Secretaria Extraordinária da Reforma Tributária)",
+      "url": "https://www12.senado.leg.br/noticias/materias/2025/01/17/pais-tera-nova-tributacao-sobre-consumo-a-partir-de-2026",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    },
+    {
+      "nome": "Planalto, Lei Complementar nº 214/2025 (texto compilado)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp214.htm",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/17_debate_globo_2026-10-23_checagem.md",
+  "atualizado_em": "2026-10-24",
+  "lacunas": [
+    "O relatório completo da OCDE (Consumption Tax Trends 2024) com o ranking de todos os países retornou 403; usou-se a nota de país da Hungria.",
+    "A comparação com países fora da OCDE não foi feita.",
+    "Checagem feita apenas com fontes oficiais (governo federal, estadual, Legislativo, Judiciário, TSE, órgãos intergovernamentais e governos estrangeiros), sem imprensa nem agências de checagem, por decisão editorial desta edição."
+  ],
+  "changelog": [
+    {
+      "data": "2026-10-24",
+      "o_que_mudou": "publicação (checagem só com fontes oficiais)"
+    }
+  ],
+  "id_no_debate": "F09",
+  "leitura_checada": "O IVA brasileiro (CBS+IBS) será o maior do mundo.",
+  "leitura_incerta": false
+}

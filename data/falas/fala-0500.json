@@ -1,0 +1,85 @@
+{
+  "id": "fala-0500",
+  "slug": "lula-globo-tigrinho-criado-2022-tigrinho-teu-pai-criou",
+  "evento_id": "debate-globo-2turno-2026-10-23",
+  "candidato": "lula",
+  "lado": "governo-lula-pt",
+  "minuto": "Bloco 3 — pergunta 2 · clipe g1 01:57",
+  "url_trecho": "https://youtu.be/2S2HvBYOk24?t=117",
+  "frase_literal": "O Tigrinho foi criado por você em 2022. [...] O Tigrinho foi teu pai que criou",
+  "literal": true,
+  "variantes_literais": [],
+  "tema": "infraestrutura",
+  "veredito": "falso",
+  "resumo_uma_frase": "Nenhum ato oficial do governo Bolsonaro criou o jogo: as apostas de quota fixa vieram da Lei 13.756/2018 (Temer, só eventos esportivos) e os 'jogos on-line' foram incluídos pela Lei 14.790/2023, sancionada por Lula.",
+  "explicacao_simples": [
+    "A Lei 13.756, de 12/12/2018 (Temer), criou as apostas de quota fixa sobre 'eventos reais de temática esportiva' e deu 2 anos, prorrogáveis por mais 2, para o Ministério da Fazenda regulamentar.",
+    "O governo Bolsonaro não regulamentou dentro desse prazo (que ia até dez/2022), e o mercado operou sem regras.",
+    "A modalidade 'jogo on-line' (cassino virtual, como o 'Tigrinho') entrou na lei com a Lei 14.790, de 29/12/2023, assinada por Lula."
+  ],
+  "o_que_e_verdade": [
+    "As apostas ficaram sem regulamentação durante o governo Bolsonaro, apesar do prazo da Lei 13.756/2018."
+  ],
+  "o_que_nao_se_sustenta": [
+    "'O Tigrinho foi criado por você/teu pai em 2022': o jogo é produto de empresa privada e a base legal dos jogos on-line é a Lei 14.790/2023."
+  ],
+  "numeros": [],
+  "fontes_primarias": [
+    {
+      "nome": "Planalto — Lei nº 13.756, de 12/12/2018 (art. 29: apostas de quota fixa)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13756.htm",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    },
+    {
+      "nome": "Planalto — Lei nº 14.790, de 29/12/2023 (regulamenta apostas de quota fixa e inclui 'jogo on-line')",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14790.htm",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    }
+  ],
+  "base_legal": [
+    {
+      "norma": "Lei nº 13.756/2018, art. 29",
+      "o_que_diz": "Cria as apostas de quota fixa sobre eventos reais de temática esportiva; regulamentação pelo Ministério da Fazenda em até 2 anos, prorrogáveis por igual período (redação original).",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13756.htm"
+    },
+    {
+      "norma": "Lei nº 14.790/2023",
+      "o_que_diz": "Regulamenta as apostas de quota fixa e define 'jogo on-line' (art. 2º, VIII); sancionada em 29/12/2023 por Luiz Inácio Lula da Silva. Dispositivos foram depois alterados/revogados pela MP 1.394/2026.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14790.htm"
+    }
+  ],
+  "checagens_externas": [],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Planalto — Lei nº 13.756, de 12/12/2018 (art. 29: apostas de quota fixa)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13756.htm",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    },
+    {
+      "nome": "Planalto — Lei nº 14.790, de 29/12/2023 (regulamenta apostas de quota fixa e inclui 'jogo on-line')",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14790.htm",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/17_debate_globo_2026-10-23_checagem.md",
+  "atualizado_em": "2026-10-24",
+  "lacunas": [
+    "Não se verificou se houve atos infralegais do Ministério da Economia em 2022 sobre o tema.",
+    "Checagem feita apenas com fontes oficiais (governo federal, estadual, Legislativo, Judiciário, TSE, órgãos intergovernamentais e governos estrangeiros), sem imprensa nem agências de checagem, por decisão editorial desta edição."
+  ],
+  "changelog": [
+    {
+      "data": "2026-10-24",
+      "o_que_mudou": "publicação (checagem só com fontes oficiais)"
+    }
+  ],
+  "id_no_debate": "L78",
+  "leitura_checada": "O 'Tigrinho' (jogo de cassino on-line) teria sido criado pelo governo Bolsonaro em 2022.",
+  "leitura_incerta": false
+}

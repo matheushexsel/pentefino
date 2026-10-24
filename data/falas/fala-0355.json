@@ -1,0 +1,103 @@
+{
+  "id": "fala-0355",
+  "slug": "lula-globo-estamos-fazendo-ferrovia-das-araras-sabe-la-rio",
+  "evento_id": "debate-globo-2turno-2026-10-23",
+  "candidato": "lula",
+  "lado": "governo-lula-pt",
+  "minuto": "Bloco 1 — pergunta 1 · clipe g1 06:16",
+  "url_trecho": "https://youtu.be/woYkhYICZ2k?t=376",
+  "frase_literal": "Nós estamos fazendo a Ferrovia das Araras, sabe? Lá no Rio de Janeiro, que é uma obra quase 12 bilhões de reais",
+  "literal": true,
+  "variantes_literais": [],
+  "tema": "infraestrutura",
+  "veredito": "impreciso",
+  "resumo_uma_frase": "A obra existe e está em execução, mas é rodoviária, custa R$ 1,5 bilhão segundo a ANTT (não R$ 12 bi) e é feita pela concessionária privada da Dutra, em contrato assinado em 2022.",
+  "explicacao_simples": [
+    "A ANTT informou em 12/04/2024 que a duplicação da Serra das Araras tem investimento de R$ 1,5 bilhão, executado pela CCR RioSP.",
+    "A obra estava prevista no contrato de concessão da Dutra e Rio-Santos, iniciado em 04/03/2022, com R$ 14,8 bi de investimentos em 30 anos para as duas rodovias.",
+    "A ordem de serviço foi assinada no governo Lula (abril de 2024)."
+  ],
+  "o_que_e_verdade": [
+    "A Nova Serra das Araras está em obras e teve ordem de serviço assinada pelo Ministério dos Transportes em 2024."
+  ],
+  "o_que_nao_se_sustenta": [
+    "'Quase 12 bilhões': o valor oficial é R$ 1,5 bi.",
+    "Não é ferrovia (se a legenda estiver correta).",
+    "Não é obra com dinheiro do orçamento federal: é investimento da concessionária privada previsto no contrato de 2022."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Investimento na nova Serra das Araras",
+      "valor": 1.5,
+      "unidade": "R$ bilhão",
+      "periodo": "abr/2024",
+      "fonte": {
+        "nome": "ANTT — 'ANTT supervisiona duplicação do novo traçado da Serra das Araras' (12/04/2024)",
+        "url": "https://www.gov.br/antt/pt-br/assuntos/ultimas-noticias/antt-supervisiona-duplicacao-do-novo-tracado-da-serra-das-araras",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Investimentos do contrato Dutra/Rio-Santos (30 anos)",
+      "valor": 14.8,
+      "unidade": "R$ bilhões",
+      "periodo": "contrato iniciado em 04/03/2022",
+      "fonte": {
+        "nome": "ANTT — 'ANTT, Minfra e CCR dão início ao contrato de concessão mais moderno do Brasil' (04/03/2022)",
+        "url": "https://www.gov.br/antt/pt-br/assuntos/ultimas-noticias/antt-minfra-e-ccr-dao-inicio-ao-contrato-de-concessao-mais-moderno-do-brasil",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    }
+  ],
+  "fontes_primarias": [
+    {
+      "nome": "ANTT — 'ANTT supervisiona duplicação do novo traçado da Serra das Araras' (12/04/2024)",
+      "url": "https://www.gov.br/antt/pt-br/assuntos/ultimas-noticias/antt-supervisiona-duplicacao-do-novo-tracado-da-serra-das-araras",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    },
+    {
+      "nome": "ANTT — 'ANTT, Minfra e CCR dão início ao contrato de concessão mais moderno do Brasil' (04/03/2022)",
+      "url": "https://www.gov.br/antt/pt-br/assuntos/ultimas-noticias/antt-minfra-e-ccr-dao-inicio-ao-contrato-de-concessao-mais-moderno-do-brasil",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "ANTT — 'ANTT supervisiona duplicação do novo traçado da Serra das Araras' (12/04/2024)",
+      "url": "https://www.gov.br/antt/pt-br/assuntos/ultimas-noticias/antt-supervisiona-duplicacao-do-novo-tracado-da-serra-das-araras",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    },
+    {
+      "nome": "ANTT — 'ANTT, Minfra e CCR dão início ao contrato de concessão mais moderno do Brasil' (04/03/2022)",
+      "url": "https://www.gov.br/antt/pt-br/assuntos/ultimas-noticias/antt-minfra-e-ccr-dao-inicio-ao-contrato-de-concessao-mais-moderno-do-brasil",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/17_debate_globo_2026-10-23_checagem.md",
+  "atualizado_em": "2026-10-24",
+  "lacunas": [
+    "Leitura incerta da legenda automática; a checagem usou a leitura: 'Ferrovia das Araras' lida como a Nova Serra das Araras (pista nova da Via Dutra, BR-116/RJ), obra rodoviária; checou-se o valor de 'quase 12 bilhões'.",
+    "Estágio atual (out/2026) da obra: as notas do Ministério dos Transportes de 2026 estão restritas no defeso eleitoral.",
+    "Durante o período de defeso eleitoral (04/07 a 25/10/2026) várias páginas de notícias do gov.br (Casa Civil, Secom, MCom, Ministério dos Transportes, MCTI, Planalto) e o acervo da Agência BNDES estão com acesso restrito; números dessas páginas só puderam ser lidos via índice de busca e não foram reconfirmados na página.",
+    "Checagem feita apenas com fontes oficiais (governo federal, estadual, Legislativo, Judiciário, TSE, órgãos intergovernamentais e governos estrangeiros), sem imprensa nem agências de checagem, por decisão editorial desta edição."
+  ],
+  "changelog": [
+    {
+      "data": "2026-10-24",
+      "o_que_mudou": "publicação (checagem só com fontes oficiais)"
+    }
+  ],
+  "id_no_debate": "L07",
+  "leitura_checada": "'Ferrovia das Araras' lida como a Nova Serra das Araras (pista nova da Via Dutra, BR-116/RJ), obra rodoviária; checou-se o valor de 'quase 12 bilhões'.",
+  "leitura_incerta": true
+}

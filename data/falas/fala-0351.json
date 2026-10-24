@@ -1,0 +1,94 @@
+{
+  "id": "fala-0351",
+  "slug": "flavio-globo-vou-investir-muito-aqui-concessao-rodovias-como-fez",
+  "evento_id": "debate-globo-2turno-2026-10-23",
+  "candidato": "flavio-bolsonaro",
+  "lado": "oposicao-flavio-pl",
+  "minuto": "Bloco 1 — pergunta 1 · clipe g1 04:04",
+  "url_trecho": "https://youtu.be/woYkhYICZ2k?t=244",
+  "frase_literal": "eu vou investir muito aqui na concessão de rodovias, como fez o presidente Bolsonaro e eu vou manter uma regra que ele colocou lá. Todas as concessões rodoviárias que forem feitas no Brasil vão garantir que é pedágio zero para motociclistas",
+  "literal": true,
+  "variantes_literais": [],
+  "tema": "infraestrutura",
+  "veredito": "verdadeiro-mas",
+  "resumo_uma_frase": "A Portaria MInfra nº 104/2021 fixou a isenção de pedágio para motos como diretriz, mas só para uma lista de concessões federais então em preparação — não para 'todas as concessões do Brasil'.",
+  "explicacao_simples": [
+    "Em agosto de 2021, o Ministério da Infraestrutura publicou a Portaria nº 104/2021 com a diretriz de isentar motocicletas.",
+    "A regra valia para rodovias federais 'em fase interna de licitação', com dez projetos listados (Dutra, BR-381/262, lotes do Paraná, relicitações etc.).",
+    "Concessões federais anteriores e rodovias estaduais não foram alcançadas; a fala sobre o futuro é promessa de campanha."
+  ],
+  "o_que_e_verdade": [
+    "Existe a regra criada no governo Bolsonaro (Portaria MInfra 104/2021) para novas concessões federais listadas."
+  ],
+  "o_que_nao_se_sustenta": [
+    "Ela não abrange todas as concessões rodoviárias: ficaram de fora contratos federais antigos e as rodovias estaduais."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Projetos de concessão federal listados na diretriz",
+      "valor": 10,
+      "unidade": "itens",
+      "periodo": "ago/2021",
+      "fonte": {
+        "nome": "Ministério da Infraestrutura/Transportes — 'Portaria estabelece diretriz de política pública de isenção de cobrança de pedágio para motocicletas' (12/08/2021; Portaria MInfra nº 104/2021)",
+        "url": "https://www.gov.br/transportes/pt-br/assuntos/noticias/2021/8/portaria-estabelece-diretriz-de-politica-publica-de-isencao-de-cobranca-de-pedagio-para-motocicletas",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Impacto estimado da isenção na tarifa das demais categorias",
+      "valor": 0.04,
+      "unidade": "%",
+      "periodo": "ago/2021",
+      "fonte": {
+        "nome": "Ministério da Infraestrutura/Transportes — 'Portaria estabelece diretriz de política pública de isenção de cobrança de pedágio para motocicletas' (12/08/2021; Portaria MInfra nº 104/2021)",
+        "url": "https://www.gov.br/transportes/pt-br/assuntos/noticias/2021/8/portaria-estabelece-diretriz-de-politica-publica-de-isencao-de-cobranca-de-pedagio-para-motocicletas",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    }
+  ],
+  "fontes_primarias": [
+    {
+      "nome": "Ministério da Infraestrutura/Transportes — 'Portaria estabelece diretriz de política pública de isenção de cobrança de pedágio para motocicletas' (12/08/2021; Portaria MInfra nº 104/2021)",
+      "url": "https://www.gov.br/transportes/pt-br/assuntos/noticias/2021/8/portaria-estabelece-diretriz-de-politica-publica-de-isencao-de-cobranca-de-pedagio-para-motocicletas",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    }
+  ],
+  "base_legal": [
+    {
+      "norma": "Portaria MInfra nº 104/2021",
+      "o_que_diz": "Estabelece diretriz de política pública de isenção de pedágio para motocicletas em concessões rodoviárias federais em fase interna de licitação.",
+      "url": "https://www.gov.br/transportes/pt-br/assuntos/noticias/2021/8/portaria-estabelece-diretriz-de-politica-publica-de-isencao-de-cobranca-de-pedagio-para-motocicletas"
+    }
+  ],
+  "checagens_externas": [],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Ministério da Infraestrutura/Transportes — 'Portaria estabelece diretriz de política pública de isenção de cobrança de pedágio para motocicletas' (12/08/2021; Portaria MInfra nº 104/2021)",
+      "url": "https://www.gov.br/transportes/pt-br/assuntos/noticias/2021/8/portaria-estabelece-diretriz-de-politica-publica-de-isencao-de-cobranca-de-pedagio-para-motocicletas",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/17_debate_globo_2026-10-23_checagem.md",
+  "atualizado_em": "2026-10-24",
+  "lacunas": [
+    "O texto integral da portaria no DOU não foi lido (só a nota oficial do ministério).",
+    "Não se verificou se a diretriz foi mantida nos leilões de 2023-2026.",
+    "Checagem feita apenas com fontes oficiais (governo federal, estadual, Legislativo, Judiciário, TSE, órgãos intergovernamentais e governos estrangeiros), sem imprensa nem agências de checagem, por decisão editorial desta edição."
+  ],
+  "changelog": [
+    {
+      "data": "2026-10-24",
+      "o_que_mudou": "publicação (checagem só com fontes oficiais)"
+    }
+  ],
+  "id_no_debate": "F03",
+  "leitura_checada": "O governo Bolsonaro criou regra de isenção de pedágio para motos nas concessões rodoviárias.",
+  "leitura_incerta": false
+}

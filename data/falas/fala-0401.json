@@ -1,0 +1,124 @@
+{
+  "id": "fala-0401",
+  "slug": "flavio-globo-milei-comecou-governo-211-inflacao-taxa-juro-la",
+  "evento_id": "debate-globo-2turno-2026-10-23",
+  "candidato": "flavio-bolsonaro",
+  "lado": "oposicao-flavio-pl",
+  "minuto": "Bloco 1 — pergunta 4 · clipe g1 02:05",
+  "url_trecho": "https://youtu.be/FIKMIfvhAkA?t=125",
+  "frase_literal": "O Milei começou um governo com 211% de inflação. A taxa de juro lá chegou a 100%",
+  "literal": true,
+  "variantes_literais": [],
+  "tema": "relacoes-exteriores",
+  "veredito": "verdadeiro-mas",
+  "resumo_uma_frase": "A inflação de 211,4% é oficial (12 meses até dez/2023), mas o juro básico chegou a 133% antes de Milei; foi o Banco Central sob Milei que o baixou para 100%.",
+  "explicacao_simples": [
+    "O INDEC registrou inflação de 211,4% em 2023; parte de dezembro (25,5% no mês) já ocorreu após a posse de Milei, em 10/12/2023.",
+    "Em novembro de 2023, antes da posse, a inflação em 12 meses era de 160,9%.",
+    "O Banco Central argentino elevou a taxa de referência a 133% ao ano em outubro de 2023; em 13/12/2023, já sob Milei, fixou a nova taxa em 100%."
+  ],
+  "o_que_e_verdade": [
+    "Inflação de 211,4% em 2023 (INDEC).",
+    "Os juros superaram 100% ao ano em 2023 (BCRA)."
+  ],
+  "o_que_nao_se_sustenta": [
+    "O pico dos juros foi 133% (out/2023); 100% foi o novo patamar definido no início do governo Milei."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Inflação ao consumidor, Argentina",
+      "valor": 211.4,
+      "unidade": "% em 12 meses",
+      "periodo": "dez/2023",
+      "fonte": {
+        "nome": "INDEC (Argentina) — Índice de precios al consumidor, dezembro de 2023",
+        "url": "https://www.indec.gob.ar/uploads/informesdeprensa/ipc_01_24DBD5D8158C.pdf",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-estrangeiro"
+      }
+    },
+    {
+      "rotulo": "Inflação ao consumidor, Argentina",
+      "valor": 160.9,
+      "unidade": "% em 12 meses",
+      "periodo": "nov/2023",
+      "fonte": {
+        "nome": "INDEC (Argentina) — Índice de precios al consumidor, dezembro de 2023",
+        "url": "https://www.indec.gob.ar/uploads/informesdeprensa/ipc_01_24DBD5D8158C.pdf",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-estrangeiro"
+      }
+    },
+    {
+      "rotulo": "Taxa de política monetária, Argentina (máxima)",
+      "valor": 133,
+      "unidade": "% a.a. (TNA)",
+      "periodo": "out/2023",
+      "fonte": {
+        "nome": "BCRA (Argentina) — Informe al Honorable Congreso de la Nación 2023",
+        "url": "https://www.bcra.gob.ar/archivos/Pdfs/PublicacionesEstadisticas/Informecongreso2023.pdf",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-estrangeiro"
+      }
+    },
+    {
+      "rotulo": "Taxa de política monetária, Argentina",
+      "valor": 100,
+      "unidade": "% a.a. (TNA)",
+      "periodo": "a partir de 13/12/2023",
+      "fonte": {
+        "nome": "BCRA (Argentina) — Informe al Honorable Congreso de la Nación 2023",
+        "url": "https://www.bcra.gob.ar/archivos/Pdfs/PublicacionesEstadisticas/Informecongreso2023.pdf",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-estrangeiro"
+      }
+    }
+  ],
+  "fontes_primarias": [
+    {
+      "nome": "INDEC (Argentina) — Índice de precios al consumidor, dezembro de 2023",
+      "url": "https://www.indec.gob.ar/uploads/informesdeprensa/ipc_01_24DBD5D8158C.pdf",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-estrangeiro"
+    },
+    {
+      "nome": "BCRA (Argentina) — Informe al Honorable Congreso de la Nación 2023",
+      "url": "https://www.bcra.gob.ar/archivos/Pdfs/PublicacionesEstadisticas/Informecongreso2023.pdf",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-estrangeiro"
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "INDEC (Argentina) — Índice de precios al consumidor, dezembro de 2023",
+      "url": "https://www.indec.gob.ar/uploads/informesdeprensa/ipc_01_24DBD5D8158C.pdf",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-estrangeiro"
+    },
+    {
+      "nome": "BCRA (Argentina) — Informe al Honorable Congreso de la Nación 2023",
+      "url": "https://www.bcra.gob.ar/archivos/Pdfs/PublicacionesEstadisticas/Informecongreso2023.pdf",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-estrangeiro"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/17_debate_globo_2026-10-23_checagem.md",
+  "atualizado_em": "2026-10-24",
+  "lacunas": [
+    "Fontes são órgãos oficiais estrangeiros (INDEC, BCRA), registrados como 'oficial-estrangeiro'.",
+    "Checagem feita apenas com fontes oficiais (governo federal, estadual, Legislativo, Judiciário, TSE, órgãos intergovernamentais e governos estrangeiros), sem imprensa nem agências de checagem, por decisão editorial desta edição."
+  ],
+  "changelog": [
+    {
+      "data": "2026-10-24",
+      "o_que_mudou": "publicação (checagem só com fontes oficiais)"
+    }
+  ],
+  "id_no_debate": "F26",
+  "leitura_checada": "Milei começou com inflação de 211% e a taxa de juros chegou a 100%.",
+  "leitura_incerta": false
+}

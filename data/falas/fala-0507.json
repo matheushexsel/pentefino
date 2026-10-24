@@ -1,0 +1,155 @@
+{
+  "id": "fala-0507",
+  "slug": "flavio-globo-fomos-demos-maior-reajuste-historia-professores-33",
+  "evento_id": "debate-globo-2turno-2026-10-23",
+  "candidato": "flavio-bolsonaro",
+  "lado": "oposicao-flavio-pl",
+  "minuto": "Bloco 3 — pergunta 2 · clipe g1 05:15",
+  "url_trecho": "https://youtu.be/2S2HvBYOk24?t=315",
+  "frase_literal": "fomos nós que demos o maior reajuste da história para os professores, 33%",
+  "literal": true,
+  "variantes_literais": [],
+  "tema": "educacao",
+  "veredito": "verdadeiro-mas",
+  "resumo_uma_frase": "O reajuste de 33,24% do piso do magistério em 2022 (governo Bolsonaro) foi o maior desde a criação do piso em 2009, mas decorreu da fórmula da Lei 11.738/2008, e não de decisão discricionária.",
+  "explicacao_simples": [
+    "Em fev/2022 a portaria do MEC elevou o piso de R$ 2.886,24 para R$ 3.845,63 (33,24%).",
+    "O maior reajuste anterior havia sido de 22,22% em 2012.",
+    "O percentual segue a regra da Lei do Piso (crescimento do valor mínimo por aluno do Fundeb); a CNM contestou o índice e muitos municípios não o aplicaram integralmente."
+  ],
+  "o_que_e_verdade": [
+    "33,24% é o maior reajuste anual do piso nacional desde 2009.",
+    "Piso: R$ 950 (2009); R$ 1.451 (2012); R$ 3.845,63 (2022); R$ 4.420,55 (2023); R$ 4.580,57 (2024); R$ 4.867,77 (2025); R$ 5.130,63 (2026)."
+  ],
+  "o_que_nao_se_sustenta": [
+    "'Fomos nós que demos': o índice é calculado pela fórmula legal; o governo apenas homologou por portaria.",
+    "'Maior da história' vale para a história do piso (desde 2009), e não para salários de professores em geral."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Reajuste do piso do magistério",
+      "valor": 33.24,
+      "unidade": "%",
+      "periodo": "2022",
+      "fonte": {
+        "nome": "Agência Brasil (dado do MEC), 'Presidente oficializa reajuste de 33,23% para professores' (04/02/2022)",
+        "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2022-02/presidente-oficializa-reajuste-de-3323-para-professores",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Maior reajuste anterior do piso",
+      "valor": 22.22,
+      "unidade": "%",
+      "periodo": "2012",
+      "fonte": {
+        "nome": "Agência Brasil (dados do MEC), jan/2015",
+        "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2015-01/piso-dos-professores-tera-reajuste-de-1301-passando-para-r-191778",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Reajuste do piso",
+      "valor": 3.62,
+      "unidade": "%",
+      "periodo": "2024",
+      "fonte": {
+        "nome": "Agência Brasil (MEC), fev/2024",
+        "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2024-02/mec-oficializa-reajuste-de-36-no-piso-salarial-de-professores",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Piso do magistério",
+      "valor": 5130.63,
+      "unidade": "R$",
+      "periodo": "2026",
+      "fonte": {
+        "nome": "Agência Brasil, jun/2026",
+        "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/governo-fixa-em-r-51-mil-novo-piso-nacional-do-magisterio",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    }
+  ],
+  "fontes_primarias": [
+    {
+      "nome": "Planalto – Lei nº 11.738/2008",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11738.htm",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    },
+    {
+      "nome": "Agência Brasil (dado do MEC), 04/02/2022",
+      "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2022-02/presidente-oficializa-reajuste-de-3323-para-professores",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    },
+    {
+      "nome": "Agência Brasil (dados do MEC), jan/2015",
+      "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2015-01/piso-dos-professores-tera-reajuste-de-1301-passando-para-r-191778",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    },
+    {
+      "nome": "Agência Brasil, jan/2023 (piso 2023 R$ 4.420,55)",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2023-01/cnm-orienta-municipios-nao-cumprirem-reajuste-do-magisterio",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    }
+  ],
+  "base_legal": [
+    {
+      "norma": "Lei nº 11.738/2008",
+      "o_que_diz": "Institui o piso salarial profissional nacional do magistério e sua atualização anual pelo crescimento do valor anual mínimo por aluno.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11738.htm"
+    }
+  ],
+  "checagens_externas": [],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Planalto – Lei nº 11.738/2008",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11738.htm",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    },
+    {
+      "nome": "Agência Brasil (dado do MEC), 04/02/2022",
+      "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2022-02/presidente-oficializa-reajuste-de-3323-para-professores",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    },
+    {
+      "nome": "Agência Brasil (dados do MEC), jan/2015",
+      "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2015-01/piso-dos-professores-tera-reajuste-de-1301-passando-para-r-191778",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    },
+    {
+      "nome": "Agência Brasil, jan/2023 (piso 2023 R$ 4.420,55)",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2023-01/cnm-orienta-municipios-nao-cumprirem-reajuste-do-magisterio",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/17_debate_globo_2026-10-23_checagem.md",
+  "atualizado_em": "2026-10-24",
+  "lacunas": [
+    "Portarias do MEC no DOU (in.gov.br) inacessíveis (403); valores tomados de reprodução da Agência Brasil. O reajuste de 2021 (provavelmente 0%) não foi confirmado.",
+    "Checagem feita apenas com fontes oficiais (governo federal, estadual, Legislativo, Judiciário, TSE, órgãos intergovernamentais e governos estrangeiros), sem imprensa nem agências de checagem, por decisão editorial desta edição."
+  ],
+  "changelog": [
+    {
+      "data": "2026-10-24",
+      "o_que_mudou": "publicação (checagem só com fontes oficiais)"
+    }
+  ],
+  "id_no_debate": "F80",
+  "leitura_checada": "Leitura literal da legenda.",
+  "leitura_incerta": false
+}

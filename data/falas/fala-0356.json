@@ -1,0 +1,100 @@
+{
+  "id": "fala-0356",
+  "slug": "lula-globo-estamos-fazendo-fizemos-canal-contorno-florianopolis",
+  "evento_id": "debate-globo-2turno-2026-10-23",
+  "candidato": "lula",
+  "lado": "governo-lula-pt",
+  "minuto": "Bloco 1 — pergunta 1 · clipe g1 06:22",
+  "url_trecho": "https://youtu.be/woYkhYICZ2k?t=382",
+  "frase_literal": "Nós estamos fazendo e fizemos o canal, o contorno de Florianópolis",
+  "literal": true,
+  "variantes_literais": [],
+  "tema": "infraestrutura",
+  "veredito": "verdadeiro-mas",
+  "resumo_uma_frase": "O contorno foi entregue em 09/08/2024, no governo Lula, mas foi construído pela concessionária Autopista Litoral Sul (R$ 3,9 bi) dentro de um contrato de concessão federal, com obras atravessando vários governos.",
+  "explicacao_simples": [
+    "A ANTT informou a entrega do Contorno Viário da Grande Florianópolis em 09/08/2024, com investimento de R$ 3,9 bilhões.",
+    "A obra foi incluída no contrato da concessionária Autopista Litoral Sul (BR-116/376/PR e BR-101/SC).",
+    "Na inauguração, o próprio Lula disse que a obra começou em 2008."
+  ],
+  "o_que_e_verdade": [
+    "A obra foi concluída e inaugurada no governo atual, sob fiscalização da ANTT."
+  ],
+  "o_que_nao_se_sustenta": [
+    "'Nós fizemos' omite que a obra é investimento de concessionária privada e que foi executada ao longo de vários governos."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Investimento no contorno",
+      "valor": 3.9,
+      "unidade": "R$ bilhões",
+      "periodo": "entrega em 09/08/2024",
+      "fonte": {
+        "nome": "ANTT — 'ANTT e Governo Federal entregam maior obra rodoviária da América Latina' (09/08/2024)",
+        "url": "https://www.gov.br/antt/pt-br/assuntos/ultimas-noticias/antt-e-governo-federal-entregam-maior-obra-rodoviaria-da-america-latina",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Extensão de pistas duplas",
+      "valor": 50,
+      "unidade": "km",
+      "periodo": "2024",
+      "fonte": {
+        "nome": "ANTT — 'ANTT e Governo Federal entregam maior obra rodoviária da América Latina' (09/08/2024)",
+        "url": "https://www.gov.br/antt/pt-br/assuntos/ultimas-noticias/antt-e-governo-federal-entregam-maior-obra-rodoviaria-da-america-latina",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    }
+  ],
+  "fontes_primarias": [
+    {
+      "nome": "ANTT — 'ANTT e Governo Federal entregam maior obra rodoviária da América Latina' (09/08/2024)",
+      "url": "https://www.gov.br/antt/pt-br/assuntos/ultimas-noticias/antt-e-governo-federal-entregam-maior-obra-rodoviaria-da-america-latina",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    },
+    {
+      "nome": "Casa Civil — Novo PAC, planilha 'empreendimentos-fonte-priv_jun2026.xlsx' (empreendimentos com fonte privada)",
+      "url": "https://www.gov.br/casacivil/pt-br/novopac/transparencia/arquivos/empreendimentos-fonte-priv_jun2026.xlsx",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "ANTT — 'ANTT e Governo Federal entregam maior obra rodoviária da América Latina' (09/08/2024)",
+      "url": "https://www.gov.br/antt/pt-br/assuntos/ultimas-noticias/antt-e-governo-federal-entregam-maior-obra-rodoviaria-da-america-latina",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    },
+    {
+      "nome": "Casa Civil — Novo PAC, planilha 'empreendimentos-fonte-priv_jun2026.xlsx' (empreendimentos com fonte privada)",
+      "url": "https://www.gov.br/casacivil/pt-br/novopac/transparencia/arquivos/empreendimentos-fonte-priv_jun2026.xlsx",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/17_debate_globo_2026-10-23_checagem.md",
+  "atualizado_em": "2026-10-24",
+  "lacunas": [
+    "Leitura incerta da legenda automática; a checagem usou a leitura: O governo fez o Contorno Viário da Grande Florianópolis ('o canal' é provável ruído da legenda).",
+    "Data do contrato de concessão e participação de cada governo na execução não detalhadas em fonte oficial lida.",
+    "Checagem feita apenas com fontes oficiais (governo federal, estadual, Legislativo, Judiciário, TSE, órgãos intergovernamentais e governos estrangeiros), sem imprensa nem agências de checagem, por decisão editorial desta edição."
+  ],
+  "changelog": [
+    {
+      "data": "2026-10-24",
+      "o_que_mudou": "publicação (checagem só com fontes oficiais)"
+    }
+  ],
+  "id_no_debate": "L08",
+  "leitura_checada": "O governo fez o Contorno Viário da Grande Florianópolis ('o canal' é provável ruído da legenda).",
+  "leitura_incerta": true
+}

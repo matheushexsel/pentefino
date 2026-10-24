@@ -1,0 +1,122 @@
+{
+  "id": "fala-0372",
+  "slug": "flavio-globo-inflacao-chegou-toda-forca",
+  "evento_id": "debate-globo-2turno-2026-10-23",
+  "candidato": "flavio-bolsonaro",
+  "lado": "oposicao-flavio-pl",
+  "minuto": "Bloco 1 — pergunta 2 · clipe g1 05:52",
+  "url_trecho": "https://youtu.be/26XCkA5BHm8?t=352",
+  "frase_literal": "A inflação chegou com toda a força",
+  "literal": true,
+  "variantes_literais": [],
+  "tema": "economia",
+  "veredito": "exagerado",
+  "resumo_uma_frase": "A inflação está acima da meta e encostada no teto (4,58% em 12 meses até setembro), mas longe de 'toda a força': em 2022 chegou a 12,13%.",
+  "explicacao_simples": [
+    "O IPCA acumulado em 12 meses foi 4,58% em set/2026, pouco acima do teto da meta (4,5%); a prévia de outubro (IPCA-15) marcou 4,62%.",
+    "Em 2026, o índice oscilou entre 3,81% (fev) e 4,72% (mai).",
+    "No governo anterior, o IPCA em 12 meses chegou a 12,13% (abr/2022); a inflação anual foi 10,06% em 2021."
+  ],
+  "o_que_e_verdade": [
+    "Inflação acima da meta de 3% e próxima/acima do teto de 4,5%."
+  ],
+  "o_que_nao_se_sustenta": [
+    "'Chegou com toda a força' exagera: o nível atual é um terço do pico de 2022."
+  ],
+  "numeros": [
+    {
+      "rotulo": "IPCA 12 meses",
+      "valor": 4.58,
+      "unidade": "%",
+      "periodo": "set/2026",
+      "fonte": {
+        "nome": "IBGE/SIDRA, tabela 1737 (IPCA, variação acumulada em 12 meses, v2265)",
+        "url": "https://apisidra.ibge.gov.br/values/t/1737/n1/all/v/2265/p/202101-202609",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "IPCA-15 12 meses",
+      "valor": 4.62,
+      "unidade": "%",
+      "periodo": "out/2026",
+      "fonte": {
+        "nome": "IBGE/SIDRA, tabela 7062 (IPCA-15, variação mensal e em 12 meses)",
+        "url": "https://apisidra.ibge.gov.br/values/t/7062/n1/all/v/1120,355/p/last%202/c315/7169",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "IPCA 12 meses (pico recente)",
+      "valor": 12.13,
+      "unidade": "%",
+      "periodo": "abr/2022",
+      "fonte": {
+        "nome": "IBGE/SIDRA, tabela 1737 (IPCA, variação acumulada em 12 meses, v2265)",
+        "url": "https://apisidra.ibge.gov.br/values/t/1737/n1/all/v/2265/p/202101-202609",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "IPCA 12 meses",
+      "valor": 5.77,
+      "unidade": "%",
+      "periodo": "jan/2023 (máximo do período 2023–2026)",
+      "fonte": {
+        "nome": "IBGE/SIDRA, tabela 1737 (IPCA, variação acumulada em 12 meses, v2265)",
+        "url": "https://apisidra.ibge.gov.br/values/t/1737/n1/all/v/2265/p/202101-202609",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    }
+  ],
+  "fontes_primarias": [
+    {
+      "nome": "IBGE/SIDRA, tabela 1737 (IPCA, variação acumulada em 12 meses, v2265)",
+      "url": "https://apisidra.ibge.gov.br/values/t/1737/n1/all/v/2265/p/202101-202609",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    },
+    {
+      "nome": "IBGE/SIDRA, tabela 7062 (IPCA-15, variação mensal e em 12 meses)",
+      "url": "https://apisidra.ibge.gov.br/values/t/7062/n1/all/v/1120,355/p/last%202/c315/7169",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "IBGE/SIDRA, tabela 1737 (IPCA, variação acumulada em 12 meses, v2265)",
+      "url": "https://apisidra.ibge.gov.br/values/t/1737/n1/all/v/2265/p/202101-202609",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    },
+    {
+      "nome": "IBGE/SIDRA, tabela 7062 (IPCA-15, variação mensal e em 12 meses)",
+      "url": "https://apisidra.ibge.gov.br/values/t/7062/n1/all/v/1120,355/p/last%202/c315/7169",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/17_debate_globo_2026-10-23_checagem.md",
+  "atualizado_em": "2026-10-24",
+  "lacunas": [
+    "Checagem feita apenas com fontes oficiais (governo federal, estadual, Legislativo, Judiciário, TSE, órgãos intergovernamentais e governos estrangeiros), sem imprensa nem agências de checagem, por decisão editorial desta edição."
+  ],
+  "changelog": [
+    {
+      "data": "2026-10-24",
+      "o_que_mudou": "publicação (checagem só com fontes oficiais)"
+    }
+  ],
+  "id_no_debate": "F12",
+  "leitura_checada": "A inflação voltou com força no governo Lula.",
+  "leitura_incerta": false
+}

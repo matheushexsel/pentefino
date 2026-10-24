@@ -1,0 +1,147 @@
+{
+  "id": "fala-0498",
+  "slug": "flavio-globo-zerou-orcamento-federal-ensino-integral-tentou-maquiar-numa",
+  "evento_id": "debate-globo-2turno-2026-10-23",
+  "candidato": "flavio-bolsonaro",
+  "lado": "oposicao-flavio-pl",
+  "minuto": "Bloco 3 — pergunta 2 · clipe g1 01:17",
+  "url_trecho": "https://youtu.be/2S2HvBYOk24?t=77",
+  "frase_literal": "Você zerou o orçamento federal para ensino integral e tentou maquiar numa outra cifra",
+  "literal": true,
+  "variantes_literais": [],
+  "tema": "educacao",
+  "veredito": "falta-contexto",
+  "resumo_uma_frase": "O financiamento federal do tempo integral foi deslocado para dentro da complementação da União ao Fundeb pela EC 135/2024 (contra a qual Flávio votou); não foi possível confirmar que a ação própria do programa esteja zerada no PLOA 2027.",
+  "explicacao_simples": [
+    "A EC 135/2024 permitiu que, a partir de 2025, até 10% da complementação da União ao Fundeb sejam usados para criar matrículas em tempo integral, 'mantida a classificação orçamentária do repasse como Fundeb'.",
+    "Ou seja, o dinheiro do programa passou a aparecer como Fundeb, e não como linha própria; é a isso que Flávio parece chamar de 'maquiar'.",
+    "As matrículas em tempo integral subiram de 15,1% (2021) para 25,8% (2025) da rede pública, segundo o MEC; Flávio votou 'Não' à PEC 54/2024, que virou a EC 135."
+  ],
+  "o_que_e_verdade": [
+    "A EC 135/2024 transferiu o fomento ao tempo integral para a complementação do Fundeb (classificação 'Fundeb').",
+    "No PLOA 2027, a subfunção 'ensino médio' do MEC cai R$ 1,5 bi (-12,2%) frente ao PLOA 2026 (Consultorias do Congresso)."
+  ],
+  "o_que_nao_se_sustenta": [
+    "'Zerou o orçamento para ensino integral': o recurso foi reclassificado dentro do Fundeb, não extinto; a dotação específica da ação no PLOA 2027 não foi verificada."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Variação da subfunção ensino médio (MEC)",
+      "valor": -12.2,
+      "unidade": "% (−R$ 1,5 bi)",
+      "periodo": "PLOA 2027 vs PLOA 2026",
+      "fonte": {
+        "nome": "Congresso Nacional – Nota Técnica Conjunta das Consultorias de Orçamento sobre o PLOA 2027 (PL nº 24/2026-CN), seção 6.2 Educação",
+        "url": "https://www.congressonacional.leg.br/documents/150599582/159576811/NTC_PLOA-2027+-+Atualizada.pdf/88e7b3ab-38a3-464e-8da1-029e9a906613",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-legislativo"
+      }
+    },
+    {
+      "rotulo": "Matrículas em tempo integral (rede pública)",
+      "valor": 25.8,
+      "unidade": "% (8,8 milhões de estudantes)",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Agência Brasil (reprodução de dados do MEC/Censo Escolar), 'Censo Escolar: Brasil reduz índices de reprovação, abandono e atraso' (jun/2026)",
+        "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/censo-escolar-brasil-reduz-reprovacao-abandono-e-atraso-estudantil",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Matrículas em tempo integral (rede pública)",
+      "valor": 15.1,
+      "unidade": "%",
+      "periodo": "2021",
+      "fonte": {
+        "nome": "Agência Brasil (reprodução de dados do MEC/Censo Escolar), 'Censo Escolar: Brasil reduz índices de reprovação, abandono e atraso' (jun/2026)",
+        "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/censo-escolar-brasil-reduz-reprovacao-abandono-e-atraso-estudantil",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    }
+  ],
+  "fontes_primarias": [
+    {
+      "nome": "Planalto – Emenda Constitucional nº 135, de 20/12/2024 (art. 212-A, XIV: até 10% da complementação da União ao Fundeb para matrículas em tempo integral)",
+      "url": "https://www.planalto.gov.br/ccivil_03/constituicao/Emendas/Emc/emc135.htm",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    },
+    {
+      "nome": "Congresso Nacional – Nota Técnica Conjunta das Consultorias de Orçamento sobre o PLOA 2027 (PL nº 24/2026-CN), seção 6.2 Educação",
+      "url": "https://www.congressonacional.leg.br/documents/150599582/159576811/NTC_PLOA-2027+-+Atualizada.pdf/88e7b3ab-38a3-464e-8da1-029e9a906613",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    },
+    {
+      "nome": "Agência Brasil (reprodução de dados do MEC/Censo Escolar), 'Censo Escolar: Brasil reduz índices de reprovação, abandono e atraso' (jun/2026)",
+      "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/censo-escolar-brasil-reduz-reprovacao-abandono-e-atraso-estudantil",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    },
+    {
+      "nome": "Senado – Dados Abertos, votações de 19/12/2024 (PEC 54/2024: Flávio votou 'Não' no 1º e 2º turnos)",
+      "url": "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2024-12-16&dataFim=2024-12-21",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    }
+  ],
+  "base_legal": [
+    {
+      "norma": "Emenda Constitucional nº 135/2024",
+      "o_que_diz": "Art. 212-A, XIV: a partir de 2025, até 10% da complementação da União ao Fundeb 'poderão ser repassados ... para ações de fomento à criação de matrículas em tempo integral', mantida a classificação orçamentária como Fundeb.",
+      "url": "https://www.planalto.gov.br/ccivil_03/constituicao/Emendas/Emc/emc135.htm"
+    },
+    {
+      "norma": "Lei nº 14.640/2023",
+      "o_que_diz": "Institui o Programa Escola em Tempo Integral.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/L14640.htm"
+    }
+  ],
+  "checagens_externas": [],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Planalto – Emenda Constitucional nº 135, de 20/12/2024 (art. 212-A, XIV: até 10% da complementação da União ao Fundeb para matrículas em tempo integral)",
+      "url": "https://www.planalto.gov.br/ccivil_03/constituicao/Emendas/Emc/emc135.htm",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    },
+    {
+      "nome": "Congresso Nacional – Nota Técnica Conjunta das Consultorias de Orçamento sobre o PLOA 2027 (PL nº 24/2026-CN), seção 6.2 Educação",
+      "url": "https://www.congressonacional.leg.br/documents/150599582/159576811/NTC_PLOA-2027+-+Atualizada.pdf/88e7b3ab-38a3-464e-8da1-029e9a906613",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    },
+    {
+      "nome": "Agência Brasil (reprodução de dados do MEC/Censo Escolar), 'Censo Escolar: Brasil reduz índices de reprovação, abandono e atraso' (jun/2026)",
+      "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/censo-escolar-brasil-reduz-reprovacao-abandono-e-atraso-estudantil",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    },
+    {
+      "nome": "Senado – Dados Abertos, votações de 19/12/2024 (PEC 54/2024: Flávio votou 'Não' no 1º e 2º turnos)",
+      "url": "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2024-12-16&dataFim=2024-12-21",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/17_debate_globo_2026-10-23_checagem.md",
+  "atualizado_em": "2026-10-24",
+  "lacunas": [
+    "Dotação da ação orçamentária do Programa Escola em Tempo Integral no PLOA 2027 (SIOP/Siga Brasil) não consultada; a nota técnica do Congresso não detalha a ação.",
+    "Checagem feita apenas com fontes oficiais (governo federal, estadual, Legislativo, Judiciário, TSE, órgãos intergovernamentais e governos estrangeiros), sem imprensa nem agências de checagem, por decisão editorial desta edição."
+  ],
+  "changelog": [
+    {
+      "data": "2026-10-24",
+      "o_que_mudou": "publicação (checagem só com fontes oficiais)"
+    }
+  ],
+  "id_no_debate": "F77",
+  "leitura_checada": "Flávio diz que o governo zerou a verba federal do Programa Escola em Tempo Integral e a 'escondeu' em outra rubrica.",
+  "leitura_incerta": false
+}

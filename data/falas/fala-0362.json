@@ -1,0 +1,275 @@
+{
+  "id": "fala-0362",
+  "slug": "lula-globo-legenda-truncada-leitura-checada-governos-temer-bolsonaro-deram",
+  "evento_id": "debate-globo-2turno-2026-10-23",
+  "candidato": "lula",
+  "lado": "governo-lula-pt",
+  "minuto": "Bloco 1 — pergunta 2 · clipe g1 01:51",
+  "url_trecho": "https://youtu.be/26XCkA5BHm8?t=111",
+  "frase_literal": "(Paráfrase; legenda truncada: \"por conta do seu pai do Tem [Temer] que não aumentaram\") Os governos Temer e Bolsonaro não deram aumento real ao salário mínimo",
+  "literal": false,
+  "variantes_literais": [],
+  "tema": "eleicao-2026",
+  "veredito": "verdadeiro-mas",
+  "resumo_uma_frase": "Temer deu reajustes ligeiramente abaixo do INPC; Bolsonaro deu um ganho real pequeno em 2019 (+1,1%, pela regra de 2015) e praticamente zero nos anos seguintes.",
+  "explicacao_simples": [
+    "Comparando o reajuste do mínimo com o INPC do ano anterior (cálculo próprio com SGS 1619 e IBGE): 2017 −0,1%; 2018 −0,25% (Temer).",
+    "2019 +1,1%; 2020 +0,2%; 2021 −0,2%; 2022 0,0% (Bolsonaro).",
+    "Para jan/2023, a MP 1.143/2022, assinada por Bolsonaro, fixou R$ 1.302 (+1,4% real); o governo Lula elevou para R$ 1.320 em maio de 2023."
+  ],
+  "o_que_e_verdade": [
+    "Não houve política de ganho real entre 2017 e 2022; nos anos de Temer o reajuste ficou abaixo do INPC.",
+    "2021 e 2022 tiveram reajuste igual ou abaixo do INPC."
+  ],
+  "o_que_nao_se_sustenta": [
+    "Em 2019 (decreto de Bolsonaro, aplicando a Lei 13.152/2015) houve ganho real de cerca de 1,1%, e em 2020 de 0,2%; a MP de dez/2022 também previa ganho real para 2023."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Salário mínimo",
+      "valor": 937,
+      "unidade": "R$",
+      "periodo": "2017",
+      "fonte": {
+        "nome": "Banco Central do Brasil, SGS 1619 — Salário mínimo (R$)",
+        "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.1619/dados?formato=json",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Salário mínimo",
+      "valor": 954,
+      "unidade": "R$",
+      "periodo": "2018",
+      "fonte": {
+        "nome": "Banco Central do Brasil, SGS 1619 — Salário mínimo (R$)",
+        "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.1619/dados?formato=json",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Salário mínimo",
+      "valor": 998,
+      "unidade": "R$",
+      "periodo": "2019",
+      "fonte": {
+        "nome": "Banco Central do Brasil, SGS 1619 — Salário mínimo (R$)",
+        "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.1619/dados?formato=json",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Salário mínimo",
+      "valor": 1045,
+      "unidade": "R$",
+      "periodo": "fev/2020",
+      "fonte": {
+        "nome": "Banco Central do Brasil, SGS 1619 — Salário mínimo (R$)",
+        "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.1619/dados?formato=json",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Salário mínimo",
+      "valor": 1100,
+      "unidade": "R$",
+      "periodo": "2021",
+      "fonte": {
+        "nome": "Banco Central do Brasil, SGS 1619 — Salário mínimo (R$)",
+        "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.1619/dados?formato=json",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Salário mínimo",
+      "valor": 1212,
+      "unidade": "R$",
+      "periodo": "2022",
+      "fonte": {
+        "nome": "Banco Central do Brasil, SGS 1619 — Salário mínimo (R$)",
+        "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.1619/dados?formato=json",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Salário mínimo",
+      "valor": 1302,
+      "unidade": "R$",
+      "periodo": "jan/2023 (MP 1.143/2022)",
+      "fonte": {
+        "nome": "Planalto, Medida Provisória nº 1.143, de 12/12/2022 (salário mínimo de 2023)",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/Mpv/mpv1143.htm",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-legislativo"
+      }
+    },
+    {
+      "rotulo": "INPC anual",
+      "valor": 6.58,
+      "unidade": "%",
+      "periodo": "2016",
+      "fonte": {
+        "nome": "IBGE/SIDRA, tabela 1736 (INPC, variação mensal, v44)",
+        "url": "https://apisidra.ibge.gov.br/values/t/1736/n1/all/v/44/p/200201-202609",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "INPC anual",
+      "valor": 2.07,
+      "unidade": "%",
+      "periodo": "2017",
+      "fonte": {
+        "nome": "IBGE/SIDRA, tabela 1736 (INPC, variação mensal, v44)",
+        "url": "https://apisidra.ibge.gov.br/values/t/1736/n1/all/v/44/p/200201-202609",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "INPC anual",
+      "valor": 3.43,
+      "unidade": "%",
+      "periodo": "2018",
+      "fonte": {
+        "nome": "IBGE/SIDRA, tabela 1736 (INPC, variação mensal, v44)",
+        "url": "https://apisidra.ibge.gov.br/values/t/1736/n1/all/v/44/p/200201-202609",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "INPC anual",
+      "valor": 4.48,
+      "unidade": "%",
+      "periodo": "2019",
+      "fonte": {
+        "nome": "IBGE/SIDRA, tabela 1736 (INPC, variação mensal, v44)",
+        "url": "https://apisidra.ibge.gov.br/values/t/1736/n1/all/v/44/p/200201-202609",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "INPC anual",
+      "valor": 5.45,
+      "unidade": "%",
+      "periodo": "2020",
+      "fonte": {
+        "nome": "IBGE/SIDRA, tabela 1736 (INPC, variação mensal, v44)",
+        "url": "https://apisidra.ibge.gov.br/values/t/1736/n1/all/v/44/p/200201-202609",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "INPC anual",
+      "valor": 10.16,
+      "unidade": "%",
+      "periodo": "2021",
+      "fonte": {
+        "nome": "IBGE/SIDRA, tabela 1736 (INPC, variação mensal, v44)",
+        "url": "https://apisidra.ibge.gov.br/values/t/1736/n1/all/v/44/p/200201-202609",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "INPC anual",
+      "valor": 5.93,
+      "unidade": "%",
+      "periodo": "2022",
+      "fonte": {
+        "nome": "IBGE/SIDRA, tabela 1736 (INPC, variação mensal, v44)",
+        "url": "https://apisidra.ibge.gov.br/values/t/1736/n1/all/v/44/p/200201-202609",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Ganho real do mínimo em 2019 (cálculo próprio)",
+      "valor": 1.14,
+      "unidade": "%",
+      "periodo": "2019",
+      "fonte": {
+        "nome": "Banco Central do Brasil, SGS 1619 — Salário mínimo (R$)",
+        "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.1619/dados?formato=json",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    }
+  ],
+  "fontes_primarias": [
+    {
+      "nome": "Banco Central do Brasil, SGS 1619 — Salário mínimo (R$)",
+      "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.1619/dados?formato=json",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    },
+    {
+      "nome": "IBGE/SIDRA, tabela 1736 (INPC, variação mensal, v44)",
+      "url": "https://apisidra.ibge.gov.br/values/t/1736/n1/all/v/44/p/200201-202609",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    },
+    {
+      "nome": "Planalto, Medida Provisória nº 1.143, de 12/12/2022 (salário mínimo de 2023)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/Mpv/mpv1143.htm",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    }
+  ],
+  "base_legal": [
+    {
+      "norma": "MP nº 1.143/2022",
+      "o_que_diz": "Fixou o salário mínimo de R$ 1.302,00 a partir de 1º/01/2023 (assinada por Jair Bolsonaro em 12/12/2022).",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/Mpv/mpv1143.htm"
+    }
+  ],
+  "checagens_externas": [],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Banco Central do Brasil, SGS 1619 — Salário mínimo (R$)",
+      "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.1619/dados?formato=json",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    },
+    {
+      "nome": "IBGE/SIDRA, tabela 1736 (INPC, variação mensal, v44)",
+      "url": "https://apisidra.ibge.gov.br/values/t/1736/n1/all/v/44/p/200201-202609",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    },
+    {
+      "nome": "Planalto, Medida Provisória nº 1.143, de 12/12/2022 (salário mínimo de 2023)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/Mpv/mpv1143.htm",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/17_debate_globo_2026-10-23_checagem.md",
+  "atualizado_em": "2026-10-24",
+  "lacunas": [
+    "Leitura incerta da legenda automática; a checagem usou a leitura: Legenda truncada; leitura checada: os governos Temer e Bolsonaro não deram aumento real (acima do INPC) ao salário mínimo.",
+    "O cálculo usa o INPC de janeiro a dezembro; as leis usam o INPC acumulado até novembro, o que pode mudar os resultados em décimos de ponto.",
+    "Checagem feita apenas com fontes oficiais (governo federal, estadual, Legislativo, Judiciário, TSE, órgãos intergovernamentais e governos estrangeiros), sem imprensa nem agências de checagem, por decisão editorial desta edição."
+  ],
+  "changelog": [
+    {
+      "data": "2026-10-24",
+      "o_que_mudou": "publicação (checagem só com fontes oficiais)"
+    }
+  ],
+  "id_no_debate": "L13",
+  "leitura_checada": "Legenda truncada; leitura checada: os governos Temer e Bolsonaro não deram aumento real (acima do INPC) ao salário mínimo.",
+  "leitura_incerta": true
+}

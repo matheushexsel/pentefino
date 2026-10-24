@@ -1,0 +1,95 @@
+{
+  "id": "fala-0389",
+  "slug": "flavio-globo-ainda-contingencia-recursos-seguro-rural-plano-safra-inclusive",
+  "evento_id": "debate-globo-2turno-2026-10-23",
+  "candidato": "flavio-bolsonaro",
+  "lado": "oposicao-flavio-pl",
+  "minuto": "Bloco 1 — pergunta 3 · clipe g1 03:53",
+  "url_trecho": "https://youtu.be/Z2AA0h2wr4U?t=233",
+  "frase_literal": "você ainda contingencia os recursos do seguro rural e do e do do plano safra, inclusive para os agricultores familiares",
+  "literal": true,
+  "variantes_literais": [],
+  "tema": "economia",
+  "veredito": "falta-contexto",
+  "resumo_uma_frase": "A subvenção ao seguro rural era despesa discricionária sujeita a bloqueio, mas desde 30/09/2026 uma lei sancionada por Lula proíbe contingenciá-la — o que Flávio promete já está na lei.",
+  "explicacao_simples": [
+    "A Lei 15.526, de 29/09/2026, sancionada por Lula, diz que não serão objeto de limitação de empenho as despesas 'referentes a ações relacionadas à subvenção ao prêmio do seguro rural' (art. 5º).",
+    "Antes disso, a subvenção era discricionária e podia ser bloqueada; a Agência Câmara registra que o programa destinou R$ 565,4 milhões ao seguro em 2025.",
+    "Não foi localizado em fonte oficial acessível o valor exato bloqueado em 2025–2026 nem bloqueio específico de linhas do Plano Safra para a agricultura familiar."
+  ],
+  "o_que_e_verdade": [
+    "Até set/2026 a subvenção ao seguro rural podia ser contingenciada (era despesa discricionária)."
+  ],
+  "o_que_nao_se_sustenta": [
+    "No presente, o contingenciamento da subvenção ao seguro rural está vedado por lei (Lei 15.526/2026)."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Recursos do PSR destinados ao seguro rural",
+      "valor": 565.4,
+      "unidade": "R$ milhões",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Agência Câmara, 27/05/2026 – 'Câmara aprova projeto que reformula o seguro rural'",
+        "url": "https://www.camara.leg.br/noticias/1276942-camara-aprova-projeto-que-reformula-o-seguro-rural/",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-legislativo"
+      }
+    }
+  ],
+  "fontes_primarias": [
+    {
+      "nome": "Planalto, Lei nº 15.526, de 29/09/2026 (marco legal do seguro rural)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/L15526.htm",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    },
+    {
+      "nome": "Agência Câmara, 27/05/2026 – 'Câmara aprova projeto que reformula o seguro rural'",
+      "url": "https://www.camara.leg.br/noticias/1276942-camara-aprova-projeto-que-reformula-o-seguro-rural/",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    }
+  ],
+  "base_legal": [
+    {
+      "norma": "Lei nº 15.526/2026, art. 5º",
+      "o_que_diz": "Não serão objeto de limitação de empenho e movimentação financeira as despesas referentes a ações relacionadas à subvenção ao prêmio do seguro rural.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/L15526.htm"
+    }
+  ],
+  "checagens_externas": [],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Planalto, Lei nº 15.526, de 29/09/2026 (marco legal do seguro rural)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/L15526.htm",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    },
+    {
+      "nome": "Agência Câmara, 27/05/2026 – 'Câmara aprova projeto que reformula o seguro rural'",
+      "url": "https://www.camara.leg.br/noticias/1276942-camara-aprova-projeto-que-reformula-o-seguro-rural/",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/17_debate_globo_2026-10-23_checagem.md",
+  "atualizado_em": "2026-10-24",
+  "lacunas": [
+    "Leitura incerta da legenda automática; a checagem usou a leitura: O governo contingencia (bloqueia) recursos do seguro rural e do Plano Safra, inclusive para a agricultura familiar.",
+    "Páginas do MAPA sobre bloqueio do PSR em 2025 exigem autenticação; valor bloqueado não confirmado.",
+    "Relatórios bimestrais de avaliação (SOF) não consultados para equalização do Plano Safra.",
+    "Checagem feita apenas com fontes oficiais (governo federal, estadual, Legislativo, Judiciário, TSE, órgãos intergovernamentais e governos estrangeiros), sem imprensa nem agências de checagem, por decisão editorial desta edição."
+  ],
+  "changelog": [
+    {
+      "data": "2026-10-24",
+      "o_que_mudou": "publicação (checagem só com fontes oficiais)"
+    }
+  ],
+  "id_no_debate": "F22",
+  "leitura_checada": "O governo contingencia (bloqueia) recursos do seguro rural e do Plano Safra, inclusive para a agricultura familiar.",
+  "leitura_incerta": true
+}

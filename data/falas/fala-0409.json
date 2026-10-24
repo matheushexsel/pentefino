@@ -1,0 +1,160 @@
+{
+  "id": "fala-0409",
+  "slug": "flavio-globo-hoje-tem-aproximadamente-90-milhoes-brasileiros-tem-esgoto",
+  "evento_id": "debate-globo-2turno-2026-10-23",
+  "candidato": "flavio-bolsonaro",
+  "lado": "oposicao-flavio-pl",
+  "minuto": "Bloco 1 — pergunta 5 · clipe g1 00:23",
+  "url_trecho": "https://youtu.be/K-kGhpDV4zA?t=23",
+  "frase_literal": "hoje tem aproximadamente 90 milhões de brasileiros que não tem esgoto tratado nas suas casas. Tem aproximadamente 40 milhões de brasileiros que não tem água tratada",
+  "literal": true,
+  "variantes_literais": [],
+  "tema": "eleicao-2026",
+  "veredito": "impreciso",
+  "resumo_uma_frase": "Para o esgoto a ordem de grandeza está certa, mas para a água o número oficial é cerca de 33 milhões sem rede de abastecimento, não 40 milhões (SINISA 2025, dados de 2024).",
+  "explicacao_simples": [
+    "Segundo o SINISA (Ministério das Cidades), em 2024, 84,1% da população tinha rede de água: faltavam cerca de 33 milhões de pessoas.",
+    "Só 62,3% tinha rede coletora de esgoto (cerca de 78 milhões sem coleta) e só 51,8% do esgoto gerado era tratado.",
+    "Por isso '90 milhões sem esgoto tratado' fica entre os números oficiais, mas '40 milhões sem água' está acima do dado oficial."
+  ],
+  "o_que_e_verdade": [
+    "Dezenas de milhões de brasileiros não têm coleta e tratamento de esgoto: menos da metade do esgoto gerado não é tratada (48,2%).",
+    "O déficit de água atinge cerca de 33 milhões de pessoas."
+  ],
+  "o_que_nao_se_sustenta": [
+    "'40 milhões sem água tratada': o dado oficial de 2024 é cerca de 15,9% da população, cerca de 33 milhões (21% abaixo do citado)."
+  ],
+  "numeros": [
+    {
+      "rotulo": "População atendida com rede de água (IAG0001)",
+      "valor": 84.1,
+      "unidade": "% da população total",
+      "periodo": "2024",
+      "fonte": {
+        "nome": "Ministério das Cidades — SINISA 2025 (ano de referência 2024), Relatório dos Serviços de Abastecimento de Água",
+        "url": "https://www.gov.br/cidades/pt-br/acesso-a-informacao/acoes-e-programas/saneamento/sinisa/resultados-sinisa/008_RELATORIO_SINISA_ABASTECIMENTO_AGUA_2025_defeso.pdf",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "População atendida com rede de água",
+      "valor": 174.0,
+      "unidade": "milhões de hab.",
+      "periodo": "2024",
+      "fonte": {
+        "nome": "Ministério das Cidades — SINISA 2025 (ano de referência 2024), Relatório dos Serviços de Abastecimento de Água",
+        "url": "https://www.gov.br/cidades/pt-br/acesso-a-informacao/acoes-e-programas/saneamento/sinisa/resultados-sinisa/008_RELATORIO_SINISA_ABASTECIMENTO_AGUA_2025_defeso.pdf",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "População sem rede de água (aritmética própria: 206,8 mi × 15,9%)",
+      "valor": 32.9,
+      "unidade": "milhões de hab.",
+      "periodo": "2024",
+      "fonte": {
+        "nome": "Ministério das Cidades — SINISA 2025 (ano de referência 2024), Relatório dos Serviços de Abastecimento de Água",
+        "url": "https://www.gov.br/cidades/pt-br/acesso-a-informacao/acoes-e-programas/saneamento/sinisa/resultados-sinisa/008_RELATORIO_SINISA_ABASTECIMENTO_AGUA_2025_defeso.pdf",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "População atendida com rede coletora de esgoto (IES0001)",
+      "valor": 62.3,
+      "unidade": "% da população total",
+      "periodo": "2024",
+      "fonte": {
+        "nome": "Ministério das Cidades — SINISA 2025 (ano de referência 2024), Relatório dos Serviços de Esgotamento Sanitário",
+        "url": "https://www.gov.br/cidades/pt-br/acesso-a-informacao/acoes-e-programas/saneamento/sinisa/resultados-sinisa/009_RELATORIO_SINISA_ESGOTAMENTO_SANITARIO_2025_defeso.pdf",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Esgoto gerado que é tratado (IES2003)",
+      "valor": 51.8,
+      "unidade": "% do volume",
+      "periodo": "2024",
+      "fonte": {
+        "nome": "Ministério das Cidades — SINISA 2025 (ano de referência 2024), Relatório dos Serviços de Esgotamento Sanitário",
+        "url": "https://www.gov.br/cidades/pt-br/acesso-a-informacao/acoes-e-programas/saneamento/sinisa/resultados-sinisa/009_RELATORIO_SINISA_ESGOTAMENTO_SANITARIO_2025_defeso.pdf",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Esgoto coletado que é tratado (IES2004)",
+      "valor": 85.2,
+      "unidade": "% do volume",
+      "periodo": "2024",
+      "fonte": {
+        "nome": "Ministério das Cidades — SINISA 2025 (ano de referência 2024), Relatório dos Serviços de Esgotamento Sanitário",
+        "url": "https://www.gov.br/cidades/pt-br/acesso-a-informacao/acoes-e-programas/saneamento/sinisa/resultados-sinisa/009_RELATORIO_SINISA_ESGOTAMENTO_SANITARIO_2025_defeso.pdf",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    }
+  ],
+  "fontes_primarias": [
+    {
+      "nome": "Ministério das Cidades — SINISA 2025 (ano de referência 2024), Relatório dos Serviços de Abastecimento de Água",
+      "url": "https://www.gov.br/cidades/pt-br/acesso-a-informacao/acoes-e-programas/saneamento/sinisa/resultados-sinisa/008_RELATORIO_SINISA_ABASTECIMENTO_AGUA_2025_defeso.pdf",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    },
+    {
+      "nome": "Ministério das Cidades — SINISA 2025 (ano de referência 2024), Relatório dos Serviços de Esgotamento Sanitário",
+      "url": "https://www.gov.br/cidades/pt-br/acesso-a-informacao/acoes-e-programas/saneamento/sinisa/resultados-sinisa/009_RELATORIO_SINISA_ESGOTAMENTO_SANITARIO_2025_defeso.pdf",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    },
+    {
+      "nome": "Ministério das Cidades — SINISA 2024 (ano de referência 2023), Relatório dos Serviços de Esgotamento Sanitário",
+      "url": "https://www.gov.br/cidades/pt-br/acesso-a-informacao/acoes-e-programas/saneamento/sinisa/resultados-sinisa/014_RELATORIO_SINISA_ESGOTAMENTO_SANITARIO_2024_defeso.pdf",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Ministério das Cidades — SINISA 2025 (ano de referência 2024), Relatório dos Serviços de Abastecimento de Água",
+      "url": "https://www.gov.br/cidades/pt-br/acesso-a-informacao/acoes-e-programas/saneamento/sinisa/resultados-sinisa/008_RELATORIO_SINISA_ABASTECIMENTO_AGUA_2025_defeso.pdf",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    },
+    {
+      "nome": "Ministério das Cidades — SINISA 2025 (ano de referência 2024), Relatório dos Serviços de Esgotamento Sanitário",
+      "url": "https://www.gov.br/cidades/pt-br/acesso-a-informacao/acoes-e-programas/saneamento/sinisa/resultados-sinisa/009_RELATORIO_SINISA_ESGOTAMENTO_SANITARIO_2025_defeso.pdf",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    },
+    {
+      "nome": "Ministério das Cidades — SINISA 2024 (ano de referência 2023), Relatório dos Serviços de Esgotamento Sanitário",
+      "url": "https://www.gov.br/cidades/pt-br/acesso-a-informacao/acoes-e-programas/saneamento/sinisa/resultados-sinisa/014_RELATORIO_SINISA_ESGOTAMENTO_SANITARIO_2024_defeso.pdf",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/17_debate_globo_2026-10-23_checagem.md",
+  "atualizado_em": "2026-10-24",
+  "lacunas": [
+    "O SINISA mede acesso à rede, não a qualidade ('água tratada'); o módulo de esgoto cobre municípios com 81,7% da população, e os percentuais nacionais são estimativas do sistema.",
+    "Checagem feita apenas com fontes oficiais (governo federal, estadual, Legislativo, Judiciário, TSE, órgãos intergovernamentais e governos estrangeiros), sem imprensa nem agências de checagem, por decisão editorial desta edição."
+  ],
+  "changelog": [
+    {
+      "data": "2026-10-24",
+      "o_que_mudou": "publicação (checagem só com fontes oficiais)"
+    }
+  ],
+  "id_no_debate": "F32",
+  "leitura_checada": "Cerca de 90 milhões sem esgoto tratado e cerca de 40 milhões sem água tratada, hoje.",
+  "leitura_incerta": false
+}

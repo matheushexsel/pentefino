@@ -1,0 +1,125 @@
+{
+  "id": "fala-0548",
+  "slug": "flavio-globo-porque-sou-advogado-sou-empresario-ha-24-anos",
+  "evento_id": "debate-globo-2turno-2026-10-23",
+  "candidato": "flavio-bolsonaro",
+  "lado": "oposicao-flavio-pl",
+  "minuto": "Bloco 4 — tema livre · clipe g1 16:14",
+  "url_trecho": "https://youtu.be/rUnAbA73RH0?t=974",
+  "frase_literal": "porque eu sou advogado, eu sou empresário há 24 anos. Eu sou deputado e senador",
+  "literal": true,
+  "variantes_literais": [],
+  "tema": "eleicao-2026",
+  "veredito": "verdadeiro-mas",
+  "resumo_uma_frase": "Flávio está há quase 24 anos em mandatos (deputado estadual desde 2003, senador desde 2019); como empresário, o TSE só registra participação em empresa a partir de 2018.",
+  "explicacao_simples": [
+    "A legenda permite duas leituras: 'empresário há 24 anos' ou 'há 24 anos sou deputado e senador'.",
+    "Os mandatos começaram em fevereiro de 2003: em out/2026 são 23 anos e 8 meses, ou seja, 'há 24 anos' é um arredondamento razoável.",
+    "Nas declarações de bens ao TSE de 2006, 2010 e 2014 não há participação em empresa; a primeira aparece em 2018 (50% da Bolsotini Chocolates e Café); em 2026 ele declara cotas de sociedade individual de advocacia."
+  ],
+  "o_que_e_verdade": [
+    "Mandatos contínuos desde 2003 (TSE; Senado).",
+    "Em 2026 declara cotas de sociedade individual de advocacia, o que pressupõe inscrição como advogado."
+  ],
+  "o_que_nao_se_sustenta": [
+    "Se a leitura for 'empresário há 24 anos': não se sustenta pelos dados do TSE (em 2002 declarou ocupação 'estudante'; primeira empresa declarada em 2018)."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Tempo em mandatos eletivos",
+      "valor": 23.7,
+      "unidade": "anos",
+      "periodo": "fev/2003 a out/2026",
+      "fonte": {
+        "nome": "Senado Federal – Dados Abertos, senador 5894 (Flávio Bolsonaro): dados básicos e mandatos",
+        "url": "https://legis.senado.leg.br/dadosabertos/senador/5894/mandatos",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-legislativo"
+      }
+    },
+    {
+      "rotulo": "Participação societária declarada (Bolsotini Chocolates e Café)",
+      "valor": 50000,
+      "unidade": "R$ (50% das cotas)",
+      "periodo": "declaração de 2018",
+      "fonte": {
+        "nome": "TSE – dados abertos, bens de candidatos 2006, 2010, 2014, 2018 (RJ) e 2026 (BR)",
+        "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/bem_candidato/bem_candidato_2026.zip",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-judiciario"
+      }
+    }
+  ],
+  "fontes_primarias": [
+    {
+      "nome": "TSE – dados abertos, consulta_cand_2002 (RJ)",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand/consulta_cand_2002.zip",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-judiciario"
+    },
+    {
+      "nome": "TSE – dados abertos, bens de candidatos 2006, 2010, 2014, 2018 (RJ) e 2026 (BR)",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/bem_candidato/bem_candidato_2026.zip",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-judiciario"
+    },
+    {
+      "nome": "Senado Federal – Dados Abertos, senador 5894 (Flávio Bolsonaro): dados básicos e mandatos",
+      "url": "https://legis.senado.leg.br/dadosabertos/senador/5894/mandatos",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    },
+    {
+      "nome": "TSE – dados abertos, consulta_cand_2026 (BR): data de nascimento, ocupação",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand/consulta_cand_2026.zip",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-judiciario"
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "TSE – dados abertos, consulta_cand_2002 (RJ)",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand/consulta_cand_2002.zip",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-judiciario"
+    },
+    {
+      "nome": "TSE – dados abertos, bens de candidatos 2006, 2010, 2014, 2018 (RJ) e 2026 (BR)",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/bem_candidato/bem_candidato_2026.zip",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-judiciario"
+    },
+    {
+      "nome": "Senado Federal – Dados Abertos, senador 5894 (Flávio Bolsonaro): dados básicos e mandatos",
+      "url": "https://legis.senado.leg.br/dadosabertos/senador/5894/mandatos",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    },
+    {
+      "nome": "TSE – dados abertos, consulta_cand_2026 (BR): data de nascimento, ocupação",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand/consulta_cand_2026.zip",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-judiciario"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/17_debate_globo_2026-10-23_checagem.md",
+  "atualizado_em": "2026-10-24",
+  "lacunas": [
+    "Leitura incerta da legenda automática; a checagem usou a leitura: Leitura mais provável: 'eu sou advogado, eu sou empresário; há 24 anos eu sou deputado e senador'. A leitura alternativa ('empresário há 24 anos') também foi checada.",
+    "Inscrição na OAB não conferida: o Cadastro Nacional dos Advogados exige reCAPTCHA. Junta Comercial/CNPJ não consultados.",
+    "Checagem feita apenas com fontes oficiais (governo federal, estadual, Legislativo, Judiciário, TSE, órgãos intergovernamentais e governos estrangeiros), sem imprensa nem agências de checagem, por decisão editorial desta edição."
+  ],
+  "changelog": [
+    {
+      "data": "2026-10-24",
+      "o_que_mudou": "publicação (checagem só com fontes oficiais)"
+    }
+  ],
+  "id_no_debate": "F109",
+  "leitura_checada": "Leitura mais provável: 'eu sou advogado, eu sou empresário; há 24 anos eu sou deputado e senador'. A leitura alternativa ('empresário há 24 anos') também foi checada.",
+  "leitura_incerta": true
+}

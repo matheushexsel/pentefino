@@ -1,0 +1,135 @@
+{
+  "id": "fala-0353",
+  "slug": "lula-globo-estamos-fazendo-rodovia-muito-importante-ninguem-teve-coragem",
+  "evento_id": "debate-globo-2turno-2026-10-23",
+  "candidato": "lula",
+  "lado": "governo-lula-pt",
+  "minuto": "Bloco 1 — pergunta 1 · clipe g1 06:00",
+  "url_trecho": "https://youtu.be/woYkhYICZ2k?t=360",
+  "frase_literal": "Nós estamos fazendo uma rodovia muito importante que ninguém teve coragem de fazer, que liga Porto Velho a Manaus, que é a BR 319",
+  "literal": true,
+  "variantes_literais": [],
+  "tema": "infraestrutura",
+  "veredito": "verdadeiro-mas",
+  "resumo_uma_frase": "Há obras federais em andamento na BR-319 (Lote C com ~42% de avanço e ordem de serviço do Lote 4 do Trecho do Meio em 27/05/2026), mas a rodovia existe desde os anos 1970 e a licença prévia do Trecho do Meio saiu em 2022.",
+  "explicacao_simples": [
+    "O DNIT informou em maio de 2026 que o Lote 1C (km 198-218) tinha ~42% de avanço físico até dez/2025 e assinou a ordem de serviço do Lote 4 do Trecho do Meio (120,5 km, ~R$ 362 mi do Novo PAC).",
+    "Os quatro lotes contratados em 2026 somam mais de 339 km e mais de R$ 1,45 bi, com projetos em 4-6 meses e obras em cerca de 24 meses.",
+    "A licença prévia do Ibama para o Trecho do Meio foi emitida em 28/07/2022 (governo Bolsonaro); a rodovia foi inaugurada há cerca de 50 anos."
+  ],
+  "o_que_e_verdade": [
+    "Há obras federais em execução e contratadas na BR-319 em 2026."
+  ],
+  "o_que_nao_se_sustenta": [
+    "'Ninguém teve coragem de fazer': a rodovia foi construída nos anos 1970 e governos anteriores fizeram licenciamento e obras de manutenção; a pavimentação do Trecho do Meio ainda não está concluída."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Avanço físico do Lote 1C (km 198,2-218,2)",
+      "valor": 42,
+      "unidade": "%",
+      "periodo": "dez/2025",
+      "fonte": {
+        "nome": "DNIT — 'Presidente Lula visita o Amazonas e acompanha agendas em importantes empreendimentos da BR-319/AM' (27/05/2026)",
+        "url": "https://www.gov.br/dnit/pt-br/assuntos/noticias/presidente-lula-visita-o-amazonas-e-acompanha-agendas-em-importantes-empreendimentos-da-br-319-am",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Valor contratual do Lote 1C",
+      "valor": 163.5,
+      "unidade": "R$ milhões",
+      "periodo": "2026",
+      "fonte": {
+        "nome": "DNIT — 'Presidente Lula visita o Amazonas e acompanha agendas em importantes empreendimentos da BR-319/AM' (27/05/2026)",
+        "url": "https://www.gov.br/dnit/pt-br/assuntos/noticias/presidente-lula-visita-o-amazonas-e-acompanha-agendas-em-importantes-empreendimentos-da-br-319-am",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Investimento do Lote 4 (Trecho do Meio, 120,5 km)",
+      "valor": 362,
+      "unidade": "R$ milhões",
+      "periodo": "ordem de serviço em 27/05/2026",
+      "fonte": {
+        "nome": "DNIT — 'Presidente Lula visita o Amazonas e acompanha agendas em importantes empreendimentos da BR-319/AM' (27/05/2026)",
+        "url": "https://www.gov.br/dnit/pt-br/assuntos/noticias/presidente-lula-visita-o-amazonas-e-acompanha-agendas-em-importantes-empreendimentos-da-br-319-am",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Quatro lotes contratados em 2026",
+      "valor": 1.45,
+      "unidade": "R$ bilhão (mais de)",
+      "periodo": "2026",
+      "fonte": {
+        "nome": "DNIT — 'Presidente Lula visita o Amazonas e acompanha agendas em importantes empreendimentos da BR-319/AM' (27/05/2026)",
+        "url": "https://www.gov.br/dnit/pt-br/assuntos/noticias/presidente-lula-visita-o-amazonas-e-acompanha-agendas-em-importantes-empreendimentos-da-br-319-am",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    }
+  ],
+  "fontes_primarias": [
+    {
+      "nome": "DNIT — 'Presidente Lula visita o Amazonas e acompanha agendas em importantes empreendimentos da BR-319/AM' (27/05/2026)",
+      "url": "https://www.gov.br/dnit/pt-br/assuntos/noticias/presidente-lula-visita-o-amazonas-e-acompanha-agendas-em-importantes-empreendimentos-da-br-319-am",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    },
+    {
+      "nome": "DNIT — 'BR-319: Licença Prévia para reconstrução do Trecho do Meio é emitida' (28/07/2022)",
+      "url": "https://www.gov.br/dnit/pt-br/noticias-periodo-eleitoral/br-319-licenca-previa-para-reconstrucao-do-trecho-do-meio-e-emitida",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    },
+    {
+      "nome": "Rádio Senado — 'Senadores celebram liberação de obras na BR-319' (01/04/2026; reproduz anúncio do Ministério dos Transportes/DNIT)",
+      "url": "https://www12.senado.leg.br/radio/1/noticia/2026/04/01/senadores-celebram-liberacao-de-obras-na-br-319",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "DNIT — 'Presidente Lula visita o Amazonas e acompanha agendas em importantes empreendimentos da BR-319/AM' (27/05/2026)",
+      "url": "https://www.gov.br/dnit/pt-br/assuntos/noticias/presidente-lula-visita-o-amazonas-e-acompanha-agendas-em-importantes-empreendimentos-da-br-319-am",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    },
+    {
+      "nome": "DNIT — 'BR-319: Licença Prévia para reconstrução do Trecho do Meio é emitida' (28/07/2022)",
+      "url": "https://www.gov.br/dnit/pt-br/noticias-periodo-eleitoral/br-319-licenca-previa-para-reconstrucao-do-trecho-do-meio-e-emitida",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    },
+    {
+      "nome": "Rádio Senado — 'Senadores celebram liberação de obras na BR-319' (01/04/2026; reproduz anúncio do Ministério dos Transportes/DNIT)",
+      "url": "https://www12.senado.leg.br/radio/1/noticia/2026/04/01/senadores-celebram-liberacao-de-obras-na-br-319",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/17_debate_globo_2026-10-23_checagem.md",
+  "atualizado_em": "2026-10-24",
+  "lacunas": [
+    "Situação da Licença de Instalação do Trecho do Meio em out/2026 não confirmada em fonte oficial acessível.",
+    "Checagem feita apenas com fontes oficiais (governo federal, estadual, Legislativo, Judiciário, TSE, órgãos intergovernamentais e governos estrangeiros), sem imprensa nem agências de checagem, por decisão editorial desta edição."
+  ],
+  "changelog": [
+    {
+      "data": "2026-10-24",
+      "o_que_mudou": "publicação (checagem só com fontes oficiais)"
+    }
+  ],
+  "id_no_debate": "L05",
+  "leitura_checada": "O governo está fazendo obras na BR-319 (Porto Velho–Manaus).",
+  "leitura_incerta": false
+}

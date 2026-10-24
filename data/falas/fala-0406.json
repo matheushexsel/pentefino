@@ -1,0 +1,110 @@
+{
+  "id": "fala-0406",
+  "slug": "flavio-globo-vou-ajudar-governador-zuco-zucco-moro-governador-eleito",
+  "evento_id": "debate-globo-2turno-2026-10-23",
+  "candidato": "flavio-bolsonaro",
+  "lado": "oposicao-flavio-pl",
+  "minuto": "Bloco 1 — pergunta 4 · clipe g1 04:19",
+  "url_trecho": "https://youtu.be/FIKMIfvhAkA?t=259",
+  "frase_literal": "Eu vou ajudar o governador Zuco [Zucco] [...] Você, Moro, governador eleito do Paraná [...] Quero que você, Jorginho, faça um bom trabalho",
+  "literal": true,
+  "variantes_literais": [],
+  "tema": "eleicao-2026",
+  "veredito": "verdadeiro",
+  "resumo_uma_frase": "O TSE registra Luciano Zucco (PL-RS), Sergio Moro (PL-PR) e Jorginho Mello (PL-SC) como eleitos no 1º turno de 04/10/2026.",
+  "explicacao_simples": [
+    "A base oficial do TSE marca os três como \"ELEITO\" no 1º turno.",
+    "Moro teve 50,11% dos votos válidos no Paraná, pouco acima da maioria absoluta exigida.",
+    "Os três são do PL, partido de Flávio, e assumem em janeiro de 2027."
+  ],
+  "o_que_e_verdade": [
+    "Zucco (PL) eleito no RS com 58,07% dos válidos.",
+    "Moro (PL) eleito no PR com 50,11%.",
+    "Jorginho Mello (PL) reeleito em SC com 68,98%."
+  ],
+  "o_que_nao_se_sustenta": [],
+  "numeros": [
+    {
+      "rotulo": "Zucco (PL), RS",
+      "valor": 58.07,
+      "unidade": "% dos votos válidos",
+      "periodo": "1º turno, 04/10/2026",
+      "fonte": {
+        "nome": "TSE — dados abertos, votacao_candidato_munzona_2026 (arquivo gerado 24/10/2026 05:31)",
+        "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2026.zip",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-judiciario"
+      }
+    },
+    {
+      "rotulo": "Sergio Moro (PL), PR",
+      "valor": 50.11,
+      "unidade": "% dos votos válidos",
+      "periodo": "1º turno, 04/10/2026",
+      "fonte": {
+        "nome": "TSE — dados abertos, votacao_candidato_munzona_2026 (arquivo gerado 24/10/2026 05:31)",
+        "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2026.zip",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-judiciario"
+      }
+    },
+    {
+      "rotulo": "Jorginho Mello (PL), SC",
+      "valor": 68.98,
+      "unidade": "% dos votos válidos",
+      "periodo": "1º turno, 04/10/2026",
+      "fonte": {
+        "nome": "TSE — dados abertos, votacao_candidato_munzona_2026 (arquivo gerado 24/10/2026 05:31)",
+        "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2026.zip",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-judiciario"
+      }
+    }
+  ],
+  "fontes_primarias": [
+    {
+      "nome": "TSE — dados abertos, votacao_candidato_munzona_2026 (arquivo gerado 24/10/2026 05:31)",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2026.zip",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-judiciario"
+    },
+    {
+      "nome": "TSE — dados abertos, consulta_cand_2026 (situação de totalização e coligações; arquivo gerado 24/10/2026)",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand/consulta_cand_2026.zip",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-judiciario"
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "TSE — dados abertos, votacao_candidato_munzona_2026 (arquivo gerado 24/10/2026 05:31)",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2026.zip",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-judiciario"
+    },
+    {
+      "nome": "TSE — dados abertos, consulta_cand_2026 (situação de totalização e coligações; arquivo gerado 24/10/2026)",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand/consulta_cand_2026.zip",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-judiciario"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/17_debate_globo_2026-10-23_checagem.md",
+  "atualizado_em": "2026-10-24",
+  "lacunas": [
+    "Checagem feita apenas com fontes oficiais (governo federal, estadual, Legislativo, Judiciário, TSE, órgãos intergovernamentais e governos estrangeiros), sem imprensa nem agências de checagem, por decisão editorial desta edição."
+  ],
+  "changelog": [
+    {
+      "data": "2026-10-24",
+      "o_que_mudou": "publicação (checagem só com fontes oficiais)"
+    }
+  ],
+  "id_no_debate": "F29",
+  "leitura_checada": "Flávio chama Zucco de governador (RS), Moro de \"governador eleito do Paraná\" e se dirige a Jorginho Mello (SC) como governador. Checado: se os três foram eleitos no 1º turno de 2026.",
+  "leitura_incerta": false
+}

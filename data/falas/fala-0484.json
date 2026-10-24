@@ -1,0 +1,99 @@
+{
+  "id": "fala-0484",
+  "slug": "flavio-globo-governador-tarcisio-la-sao-paulo-criou-tabela-sus",
+  "evento_id": "debate-globo-2turno-2026-10-23",
+  "candidato": "flavio-bolsonaro",
+  "lado": "oposicao-flavio-pl",
+  "minuto": "Bloco 2 — pergunta 3 · clipe g1 06:11",
+  "url_trecho": "https://youtu.be/1FBddn-4QeM?t=371",
+  "frase_literal": "o governador Tarcísio lá em São Paulo, que criou a tabela SUS paulista. Com isso, ele conseguiu reduzir em muito as filas",
+  "literal": true,
+  "variantes_literais": [],
+  "tema": "saude",
+  "veredito": "verdadeiro-mas",
+  "resumo_uma_frase": "A Tabela SUS Paulista existe desde janeiro de 2024 e paga até cinco vezes a tabela federal; o governo paulista relata mais cirurgias e internações, mas não publica série oficial do tamanho ou do tempo das filas.",
+  "explicacao_simples": [
+    "O Governo de SP criou a Tabela SUS Paulista para complementar o valor federal pago a filantrópicos; o parto normal, por exemplo, passou de R$ 443,40 para R$ 2.217.",
+    "A Secretaria diz que houve aumento de internações (equivalente a 3.207 leitos) e de cirurgias oncológicas.",
+    "Mais procedimentos tende a reduzir filas, mas o estado não divulgou série oficial de tempo de espera para conferir 'reduziu em muito'."
+  ],
+  "o_que_e_verdade": [
+    "O programa foi criado no governo Tarcísio, começou em janeiro de 2024 e aumentou os valores pagos."
+  ],
+  "o_que_nao_se_sustenta": [
+    "A redução das filas é afirmada pelo governo estadual sem série pública de fila."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Valor do parto normal na Tabela SUS Paulista",
+      "valor": 2217,
+      "unidade": "R$",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Agência SP (Governo do Estado de São Paulo) — 'Saiba como a Tabela SUS Paulista acelerou cirurgias e exames' (03/07/2025)",
+        "url": "https://www.agenciasp.sp.gov.br/saiba-como-a-tabela-sus-paulista-acelerou-cirurgias-e-exames/",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-estadual/municipal"
+      }
+    },
+    {
+      "rotulo": "Aumento de internações equivalente a novos leitos",
+      "valor": 3207,
+      "unidade": "leitos",
+      "periodo": "2024 vs 2022",
+      "fonte": {
+        "nome": "Agência SP (Governo do Estado de São Paulo) — 'Saiba como a Tabela SUS Paulista acelerou cirurgias e exames' (03/07/2025)",
+        "url": "https://www.agenciasp.sp.gov.br/saiba-como-a-tabela-sus-paulista-acelerou-cirurgias-e-exames/",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-estadual/municipal"
+      }
+    }
+  ],
+  "fontes_primarias": [
+    {
+      "nome": "Agência SP (Governo do Estado de São Paulo) — 'Saiba como a Tabela SUS Paulista acelerou cirurgias e exames' (03/07/2025)",
+      "url": "https://www.agenciasp.sp.gov.br/saiba-como-a-tabela-sus-paulista-acelerou-cirurgias-e-exames/",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-estadual/municipal"
+    },
+    {
+      "nome": "Agência SP — 'São Paulo aumenta em 43% as cirurgias oncológicas com Tabela SUS Paulista'",
+      "url": "https://www.agenciasp.sp.gov.br/sao-paulo-aumenta-em-43-cirurgias-oncologicas-com-tabela-sus-paulista/",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-estadual/municipal"
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Agência SP (Governo do Estado de São Paulo) — 'Saiba como a Tabela SUS Paulista acelerou cirurgias e exames' (03/07/2025)",
+      "url": "https://www.agenciasp.sp.gov.br/saiba-como-a-tabela-sus-paulista-acelerou-cirurgias-e-exames/",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-estadual/municipal"
+    },
+    {
+      "nome": "Agência SP — 'São Paulo aumenta em 43% as cirurgias oncológicas com Tabela SUS Paulista'",
+      "url": "https://www.agenciasp.sp.gov.br/sao-paulo-aumenta-em-43-cirurgias-oncologicas-com-tabela-sus-paulista/",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-estadual/municipal"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/17_debate_globo_2026-10-23_checagem.md",
+  "atualizado_em": "2026-10-24",
+  "lacunas": [
+    "Dados da regulação estadual (CROSS) sobre tamanho e tempo de fila antes e depois de 2024.",
+    "Checagem feita apenas com fontes oficiais (governo federal, estadual, Legislativo, Judiciário, TSE, órgãos intergovernamentais e governos estrangeiros), sem imprensa nem agências de checagem, por decisão editorial desta edição."
+  ],
+  "changelog": [
+    {
+      "data": "2026-10-24",
+      "o_que_mudou": "publicação (checagem só com fontes oficiais)"
+    }
+  ],
+  "id_no_debate": "F70",
+  "leitura_checada": "Tarcísio criou a Tabela SUS Paulista e com isso reduziu muito as filas.",
+  "leitura_incerta": false
+}

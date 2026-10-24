@@ -1,0 +1,142 @@
+{
+  "id": "fala-0393",
+  "slug": "lula-globo-juro-esses-bancos-pagam-agricultura-taxa-selic-juro",
+  "evento_id": "debate-globo-2turno-2026-10-23",
+  "candidato": "lula",
+  "lado": "governo-lula-pt",
+  "minuto": "Bloco 1 — pergunta 3 · clipe g1 05:22",
+  "url_trecho": "https://youtu.be/Z2AA0h2wr4U?t=322",
+  "frase_literal": "o juro que esses bancos pagam na agricultura não é a taxa Selic. Esse juro é subsidiado tanto pelo BNDS quanto pelo Banco do Brasil. Quanto o dinheiro da Caixa da Caixa Econômica para a construção civil é subsidiado",
+  "literal": true,
+  "variantes_literais": [],
+  "tema": "economia",
+  "veredito": "verdadeiro-mas",
+  "resumo_uma_frase": "O crédito rural e o habitacional têm taxas abaixo da Selic graças a subsídios, mas quem paga a equalização é o Tesouro (União), não os bancos.",
+  "explicacao_simples": [
+    "A Lei 8.427/1992 autoriza o Poder Executivo a conceder subvenção econômica na forma de 'equalização de taxas de juros' no crédito rural.",
+    "As taxas médias do crédito rural (11,1% a.a. PF) e do financiamento imobiliário (11,3% a.a. PF) estão abaixo da Selic de 13,75% (ago–out/2026).",
+    "O subsídio é custeado pelo orçamento da União (e, na habitação, por fundos como o FGTS), não pelos bancos que operam as linhas."
+  ],
+  "o_que_e_verdade": [
+    "Juros do crédito rural e habitacional abaixo da Selic, com subsídio público."
+  ],
+  "o_que_nao_se_sustenta": [
+    "'Subsidiado pelo BNDES e pelo Banco do Brasil' simplifica: os bancos operam, o Tesouro equaliza."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Taxa média crédito rural PF",
+      "valor": 11.12,
+      "unidade": "% a.a.",
+      "periodo": "ago/2026",
+      "fonte": {
+        "nome": "Banco Central do Brasil, SGS 20771 — Taxa média de juros – crédito rural total – Pessoas físicas (% a.a.)",
+        "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.20771/dados?formato=json",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Taxa média financiamento imobiliário PF",
+      "valor": 11.28,
+      "unidade": "% a.a.",
+      "periodo": "ago/2026",
+      "fonte": {
+        "nome": "Banco Central do Brasil, SGS 20774 — Taxa média de juros – financiamento imobiliário total – Pessoas físicas (% a.a.)",
+        "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.20774/dados?formato=json",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Meta Selic",
+      "valor": 13.75,
+      "unidade": "% a.a.",
+      "periodo": "out/2026",
+      "fonte": {
+        "nome": "Banco Central do Brasil, SGS 432 — Meta Selic definida pelo Copom (% a.a.)",
+        "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.432/dados?formato=json",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    }
+  ],
+  "fontes_primarias": [
+    {
+      "nome": "Planalto, Lei nº 8.427/1992 (subvenção/equalização no crédito rural)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8427.htm",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    },
+    {
+      "nome": "Banco Central do Brasil, SGS 20771 — Taxa média de juros – crédito rural total – Pessoas físicas (% a.a.)",
+      "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.20771/dados?formato=json",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    },
+    {
+      "nome": "Banco Central do Brasil, SGS 20774 — Taxa média de juros – financiamento imobiliário total – Pessoas físicas (% a.a.)",
+      "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.20774/dados?formato=json",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    },
+    {
+      "nome": "Banco Central do Brasil, SGS 432 — Meta Selic definida pelo Copom (% a.a.)",
+      "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.432/dados?formato=json",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    }
+  ],
+  "base_legal": [
+    {
+      "norma": "Lei nº 8.427/1992, art. 1º",
+      "o_que_diz": "Autoriza o Executivo a conceder subvenções econômicas a produtores rurais e cooperativas sob a forma de equalização de preços e de taxas de juros.",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8427.htm"
+    }
+  ],
+  "checagens_externas": [],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Planalto, Lei nº 8.427/1992 (subvenção/equalização no crédito rural)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8427.htm",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    },
+    {
+      "nome": "Banco Central do Brasil, SGS 20771 — Taxa média de juros – crédito rural total – Pessoas físicas (% a.a.)",
+      "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.20771/dados?formato=json",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    },
+    {
+      "nome": "Banco Central do Brasil, SGS 20774 — Taxa média de juros – financiamento imobiliário total – Pessoas físicas (% a.a.)",
+      "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.20774/dados?formato=json",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    },
+    {
+      "nome": "Banco Central do Brasil, SGS 432 — Meta Selic definida pelo Copom (% a.a.)",
+      "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.432/dados?formato=json",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/17_debate_globo_2026-10-23_checagem.md",
+  "atualizado_em": "2026-10-24",
+  "lacunas": [
+    "Leitura incerta da legenda automática; a checagem usou a leitura: 'o juro que esses bancos pagam' = o juro que cobram; leitura: o crédito agrícola de BNDES e BB e o habitacional da Caixa têm juros subsidiados, abaixo da Selic.",
+    "Valor anual do subsídio (Orçamento de Subsídios da União) não consultado; normas do FGTS/MCMV não relidas.",
+    "Checagem feita apenas com fontes oficiais (governo federal, estadual, Legislativo, Judiciário, TSE, órgãos intergovernamentais e governos estrangeiros), sem imprensa nem agências de checagem, por decisão editorial desta edição."
+  ],
+  "changelog": [
+    {
+      "data": "2026-10-24",
+      "o_que_mudou": "publicação (checagem só com fontes oficiais)"
+    }
+  ],
+  "id_no_debate": "L25",
+  "leitura_checada": "'o juro que esses bancos pagam' = o juro que cobram; leitura: o crédito agrícola de BNDES e BB e o habitacional da Caixa têm juros subsidiados, abaixo da Selic.",
+  "leitura_incerta": true
+}

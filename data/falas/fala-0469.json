@@ -1,0 +1,126 @@
+{
+  "id": "fala-0469",
+  "slug": "lula-globo-legenda-726-000-pessoal-covid-checada-leitura-726",
+  "evento_id": "debate-globo-2turno-2026-10-23",
+  "candidato": "lula",
+  "lado": "governo-lula-pt",
+  "minuto": "Bloco 2 — pergunta 3 · clipe g1 00:57",
+  "url_trecho": "https://youtu.be/1FBddn-4QeM?t=57",
+  "frase_literal": "(Paráfrase; legenda: \"deixar morrer 726.000 do pessoal para COVID\") O governo Bolsonaro \"optou\" por deixar morrer cerca de 700 mil pessoas de Covid em vez de seguir a ciência",
+  "literal": false,
+  "variantes_literais": [],
+  "tema": "eleicao-2026",
+  "veredito": "impreciso",
+  "resumo_uma_frase": "Nenhum registro oficial chega a 726 mil: o painel do Ministério da Saúde soma 716.626 mortes em toda a pandemia e a OMS registra 693.734 até 31/12/2022, fim do governo Bolsonaro; 'optou por deixar morrer' é acusação política.",
+  "explicacao_simples": [
+    "Pelos dados enviados pelo Brasil à OMS, eram 693.734 mortes até 31/12/2022 e 704.066 até agosto de 2026.",
+    "O painel do Ministério da Saúde mostra 716.626 óbitos acumulados no dado mais recente disponível.",
+    "A CPI da Pandemia acusou o governo de atrasar vacinas e estimular remédios sem eficácia, mas 'optou por deixar morrer' é qualificação política, não dado."
+  ],
+  "o_que_e_verdade": [
+    "O Brasil teve cerca de 700 mil mortes por Covid, a grande maioria até 2022.",
+    "A CPI apontou omissões do governo federal (ex.: atraso na compra de vacinas)."
+  ],
+  "o_que_nao_se_sustenta": [
+    "O número de 726 mil está acima de todos os registros oficiais.",
+    "Atribuir todo o total ao governo Bolsonaro: cerca de 10 mil mortes ocorreram de 2023 a ago/2026 pelos dados da OMS (a diferença entre o painel do MS e o dado da OMS de 2022 chega a cerca de 23 mil)."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Óbitos acumulados por Covid-19 (dados notificados à OMS)",
+      "valor": 693734,
+      "unidade": "óbitos",
+      "periodo": "até 31/12/2022",
+      "fonte": {
+        "nome": "OMS — WHO COVID-19 global daily data (CSV, dados notificados pelo Ministério da Saúde)",
+        "url": "https://srhdpeuwpubsa.blob.core.windows.net/whdh/COVID/WHO-COVID-19-global-daily-data.csv",
+        "acesso_em": "2026-10-24",
+        "tier": "intergovernamental"
+      }
+    },
+    {
+      "rotulo": "Óbitos acumulados por Covid-19 (dados notificados à OMS)",
+      "valor": 704066,
+      "unidade": "óbitos",
+      "periodo": "até 30/08/2026",
+      "fonte": {
+        "nome": "OMS — WHO COVID-19 global daily data (CSV, dados notificados pelo Ministério da Saúde)",
+        "url": "https://srhdpeuwpubsa.blob.core.windows.net/whdh/COVID/WHO-COVID-19-global-daily-data.csv",
+        "acesso_em": "2026-10-24",
+        "tier": "intergovernamental"
+      }
+    },
+    {
+      "rotulo": "Óbitos acumulados por Covid-19 (painel do Ministério da Saúde)",
+      "valor": 716626,
+      "unidade": "óbitos",
+      "periodo": "último dado do painel",
+      "fonte": {
+        "nome": "Ministério da Saúde — Painel Coronavírus (covid.saude.gov.br), serviço PortalCasos usado pela página",
+        "url": "https://covid.saude.gov.br/",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    }
+  ],
+  "fontes_primarias": [
+    {
+      "nome": "OMS — WHO COVID-19 global daily data (CSV, dados notificados pelo Ministério da Saúde)",
+      "url": "https://srhdpeuwpubsa.blob.core.windows.net/whdh/COVID/WHO-COVID-19-global-daily-data.csv",
+      "acesso_em": "2026-10-24",
+      "tier": "intergovernamental"
+    },
+    {
+      "nome": "Ministério da Saúde — Painel Coronavírus (covid.saude.gov.br), serviço PortalCasos usado pela página",
+      "url": "https://covid.saude.gov.br/",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    },
+    {
+      "nome": "Agência Senado — 'CPI da Pandemia: principais pontos do relatório' (20/10/2021)",
+      "url": "https://www12.senado.leg.br/noticias/materias/2021/10/20/cpi-da-pandemia-principais-pontos-do-relatorio",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "OMS — WHO COVID-19 global daily data (CSV, dados notificados pelo Ministério da Saúde)",
+      "url": "https://srhdpeuwpubsa.blob.core.windows.net/whdh/COVID/WHO-COVID-19-global-daily-data.csv",
+      "acesso_em": "2026-10-24",
+      "tier": "intergovernamental"
+    },
+    {
+      "nome": "Ministério da Saúde — Painel Coronavírus (covid.saude.gov.br), serviço PortalCasos usado pela página",
+      "url": "https://covid.saude.gov.br/",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    },
+    {
+      "nome": "Agência Senado — 'CPI da Pandemia: principais pontos do relatório' (20/10/2021)",
+      "url": "https://www12.senado.leg.br/noticias/materias/2021/10/20/cpi-da-pandemia-principais-pontos-do-relatorio",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/17_debate_globo_2026-10-23_checagem.md",
+  "atualizado_em": "2026-10-24",
+  "lacunas": [
+    "Leitura incerta da legenda automática; a checagem usou a leitura: Legenda '726.000 do pessoal para COVID'; checada a leitura '726 mil mortos de Covid' atribuídos à escolha do governo Bolsonaro.",
+    "O serviço do painel do MS não informa a data exata do último dado; a diferença entre o painel do MS e a OMS decorre de revisões e datas de corte.",
+    "Checagem feita apenas com fontes oficiais (governo federal, estadual, Legislativo, Judiciário, TSE, órgãos intergovernamentais e governos estrangeiros), sem imprensa nem agências de checagem, por decisão editorial desta edição."
+  ],
+  "changelog": [
+    {
+      "data": "2026-10-24",
+      "o_que_mudou": "publicação (checagem só com fontes oficiais)"
+    }
+  ],
+  "id_no_debate": "L66",
+  "leitura_checada": "Legenda '726.000 do pessoal para COVID'; checada a leitura '726 mil mortos de Covid' atribuídos à escolha do governo Bolsonaro.",
+  "leitura_incerta": true
+}

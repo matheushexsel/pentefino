@@ -1,0 +1,185 @@
+{
+  "id": "fala-0441",
+  "slug": "flavio-globo-esquecido-pelo-atual-governo-quatro-anos-sabe-quando",
+  "evento_id": "debate-globo-2turno-2026-10-23",
+  "candidato": "flavio-bolsonaro",
+  "lado": "oposicao-flavio-pl",
+  "minuto": "Bloco 2 — pergunta 1 · clipe g1 05:22",
+  "url_trecho": "https://youtu.be/QhluFzoPl30?t=322",
+  "frase_literal": "Você foi esquecido pelo atual governo por quatro anos. Sabe quando ele lembrou de você? Há 17 dias. [...] te deu um reajuste de R$ 3 por dia",
+  "literal": true,
+  "variantes_literais": [],
+  "tema": "pobreza-programas-sociais",
+  "veredito": "falta-contexto",
+  "resumo_uma_frase": "O reajuste de 15,04% (piso de R$ 600 para R$ 691, cerca de R$ 3 por dia) é real e é o primeiro desde 2023, mas o decreto saiu em 17/09/2026, 36 dias antes do debate, e o governo criou adicionais em 2023.",
+  "explicacao_simples": [
+    "O Decreto 13.120, de 17/09/2026, corrigiu os benefícios pelo INPC: o piso subiu R$ 91 por mês, cerca de R$ 3 por dia.",
+    "O MDS diz que é a primeira correção pela inflação desde 2023; os novos valores começaram a ser pagos em 19/10/2026.",
+    "Em 2023 a Lei 14.601 criou o adicional de R$ 150 por criança de 0 a 6 anos e o de R$ 50 para gestantes, nutrizes e jovens de 7 a 17 anos, o que contradiz 'esquecido por quatro anos'."
+  ],
+  "o_que_e_verdade": [
+    "O valor do reajuste do piso equivale a cerca de R$ 3 por dia.",
+    "Os valores ficaram sem correção de 2023 até setembro de 2026 e o reajuste saiu perto da eleição."
+  ],
+  "o_que_nao_se_sustenta": [
+    "'Há 17 dias': o decreto é de 36 dias antes do debate; só o pagamento começou 4 dias antes.",
+    "'Esquecido por quatro anos': a Lei 14.601/2023 criou adicionais por criança e gestante, e o governo tinha 3 anos e 9 meses no dia do debate."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Valor mínimo por família antes/depois",
+      "valor": "600 → 691",
+      "unidade": "R$/mês",
+      "periodo": "a partir da folha de out/2026",
+      "fonte": {
+        "nome": "Planalto — Decreto 13.120, de 17/09/2026 (correção dos benefícios do Bolsa Família)",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/decreto/D13120.htm",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-legislativo"
+      }
+    },
+    {
+      "rotulo": "Aumento do piso por dia (aritmética própria: R$ 91 ÷ 30)",
+      "valor": 3.03,
+      "unidade": "R$/dia",
+      "periodo": "out/2026",
+      "fonte": {
+        "nome": "Planalto — Decreto 13.120, de 17/09/2026 (correção dos benefícios do Bolsa Família)",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/decreto/D13120.htm",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-legislativo"
+      }
+    },
+    {
+      "rotulo": "Benefício médio estimado antes/depois",
+      "valor": "675 → 777",
+      "unidade": "R$/mês",
+      "periodo": "set → out/2026",
+      "fonte": {
+        "nome": "MDS — 'Bolsa Família terá valor mínimo de R$ 691 a partir de outubro' (17/09/2026)",
+        "url": "https://www.gov.br/mds/pt-br/noticias/bolsa-familia-tera-valor-minimo-de-r-691-a-partir-de-outubro",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Benefício médio pago",
+      "valor": 782.92,
+      "unidade": "R$/mês",
+      "periodo": "out/2026",
+      "fonte": {
+        "nome": "Agência Brasil/EBC, reproduzindo dados do MDS/Caixa — 'Beneficiários com NIS de final 3 a 0 recebem Bolsa Família de outubro' (21/10/2026)",
+        "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/beneficiarios-com-nis-de-final-3-0-recebem-bolsa-familia-de-outubro",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Benefício Primeira Infância criado em 2023 (valor original)",
+      "valor": 150,
+      "unidade": "R$ por criança de 0 a 6 anos",
+      "periodo": "2023",
+      "fonte": {
+        "nome": "Planalto — Lei 14.601, de 19/06/2023 (Programa Bolsa Família)",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14601.htm",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-legislativo"
+      }
+    }
+  ],
+  "fontes_primarias": [
+    {
+      "nome": "Planalto — Decreto 13.120, de 17/09/2026 (correção dos benefícios do Bolsa Família)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/decreto/D13120.htm",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    },
+    {
+      "nome": "MDS — 'Bolsa Família terá valor mínimo de R$ 691 a partir de outubro' (17/09/2026)",
+      "url": "https://www.gov.br/mds/pt-br/noticias/bolsa-familia-tera-valor-minimo-de-r-691-a-partir-de-outubro",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    },
+    {
+      "nome": "MDS — 'Pagamentos de outubro do Bolsa Família começam nesta segunda-feira (19.10)' (19/10/2026)",
+      "url": "https://www.gov.br/mds/pt-br/noticias/pagamentos-de-outubro-do-bolsa-familia-comecam-nesta-segunda-feira-19-10-1",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    },
+    {
+      "nome": "Agência Brasil/EBC, reproduzindo dados do MDS/Caixa — 'Beneficiários com NIS de final 3 a 0 recebem Bolsa Família de outubro' (21/10/2026)",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/beneficiarios-com-nis-de-final-3-0-recebem-bolsa-familia-de-outubro",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    },
+    {
+      "nome": "Planalto — Lei 14.601, de 19/06/2023 (Programa Bolsa Família)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14601.htm",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    }
+  ],
+  "base_legal": [
+    {
+      "norma": "Decreto 13.120/2026",
+      "o_que_diz": "Corrige os benefícios pelo INPC de mar/2023 a ago/2026: R$ 164 por pessoa, piso de R$ 691, R$ 173 primeira infância, R$ 58 variável familiar; efeitos a partir do mês seguinte.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/decreto/D13120.htm"
+    },
+    {
+      "norma": "Lei 14.601/2023",
+      "o_que_diz": "Recria o Bolsa Família com piso de R$ 600 e benefícios adicionais.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14601.htm"
+    }
+  ],
+  "checagens_externas": [],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Planalto — Decreto 13.120, de 17/09/2026 (correção dos benefícios do Bolsa Família)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/decreto/D13120.htm",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    },
+    {
+      "nome": "MDS — 'Bolsa Família terá valor mínimo de R$ 691 a partir de outubro' (17/09/2026)",
+      "url": "https://www.gov.br/mds/pt-br/noticias/bolsa-familia-tera-valor-minimo-de-r-691-a-partir-de-outubro",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    },
+    {
+      "nome": "MDS — 'Pagamentos de outubro do Bolsa Família começam nesta segunda-feira (19.10)' (19/10/2026)",
+      "url": "https://www.gov.br/mds/pt-br/noticias/pagamentos-de-outubro-do-bolsa-familia-comecam-nesta-segunda-feira-19-10-1",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    },
+    {
+      "nome": "Agência Brasil/EBC, reproduzindo dados do MDS/Caixa — 'Beneficiários com NIS de final 3 a 0 recebem Bolsa Família de outubro' (21/10/2026)",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/beneficiarios-com-nis-de-final-3-0-recebem-bolsa-familia-de-outubro",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    },
+    {
+      "nome": "Planalto — Lei 14.601, de 19/06/2023 (Programa Bolsa Família)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14601.htm",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/17_debate_globo_2026-10-23_checagem.md",
+  "atualizado_em": "2026-10-24",
+  "lacunas": [
+    "Leitura incerta da legenda automática; a checagem usou a leitura: Lula 'lembrou' do Bolsa Família só há 17 dias, com reajuste de R$ 3 por dia, depois de quatro anos sem nada.",
+    "A legenda '17 dias' pode ser erro de reconhecimento (o decreto é de 36 dias antes); conferir no áudio.",
+    "Checagem feita apenas com fontes oficiais (governo federal, estadual, Legislativo, Judiciário, TSE, órgãos intergovernamentais e governos estrangeiros), sem imprensa nem agências de checagem, por decisão editorial desta edição."
+  ],
+  "changelog": [
+    {
+      "data": "2026-10-24",
+      "o_que_mudou": "publicação (checagem só com fontes oficiais)"
+    }
+  ],
+  "id_no_debate": "F44",
+  "leitura_checada": "Lula 'lembrou' do Bolsa Família só há 17 dias, com reajuste de R$ 3 por dia, depois de quatro anos sem nada.",
+  "leitura_incerta": true
+}

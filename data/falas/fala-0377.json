@@ -1,0 +1,160 @@
+{
+  "id": "fala-0377",
+  "slug": "flavio-globo-quem-produz-ta-sufocado-ta-intimidado-consegue-tomar",
+  "evento_id": "debate-globo-2turno-2026-10-23",
+  "candidato": "flavio-bolsonaro",
+  "lado": "oposicao-flavio-pl",
+  "minuto": "Bloco 1 — pergunta 3 · clipe g1 00:31",
+  "url_trecho": "https://youtu.be/Z2AA0h2wr4U?t=31",
+  "frase_literal": "Quem produz tá sufocado, tá intimidado, não consegue tomar crédito porque tá muito caro",
+  "literal": true,
+  "variantes_literais": [],
+  "tema": "eleicao-2026",
+  "veredito": "exagerado",
+  "resumo_uma_frase": "O crédito rural ficou mais caro e as concessões caíram em 2026, mas continuam em cerca de R$ 300 bilhões por safra — 'não consegue tomar crédito' exagera.",
+  "explicacao_simples": [
+    "Pelos dados do BC, as concessões de crédito rural com recursos direcionados somaram R$ 338,6 bi na safra 2023/24, R$ 307,7 bi em 2024/25 e R$ 302,5 bi em 2025/26 (jul–jun, valores nominais).",
+    "Em jul–ago/2026 foram R$ 42,4 bi, 30% abaixo de jul–ago/2025 (R$ 60,4 bi).",
+    "A taxa média do crédito rural a pessoas físicas subiu de 7,6% (dez/2021) para 11,1% a.a. (ago/2026)."
+  ],
+  "o_que_e_verdade": [
+    "Crédito rural mais caro e concessões em queda no início da safra 2026/27."
+  ],
+  "o_que_nao_se_sustenta": [
+    "O volume concedido segue alto; não há dado oficial de que produtores em geral 'não conseguem' crédito."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Concessões de crédito rural direcionado (PF+PJ)",
+      "valor": 338.6,
+      "unidade": "R$ bilhões",
+      "periodo": "safra 2023/24",
+      "fonte": {
+        "nome": "Banco Central do Brasil, SGS 20701 — Concessões de crédito direcionado – Pessoas físicas – Crédito rural total (R$ milhões)",
+        "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.20701/dados?formato=json",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Concessões de crédito rural direcionado (PF+PJ)",
+      "valor": 307.7,
+      "unidade": "R$ bilhões",
+      "periodo": "safra 2024/25",
+      "fonte": {
+        "nome": "Banco Central do Brasil, SGS 20701 — Concessões de crédito direcionado – Pessoas físicas – Crédito rural total (R$ milhões)",
+        "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.20701/dados?formato=json",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Concessões de crédito rural direcionado (PF+PJ)",
+      "valor": 302.5,
+      "unidade": "R$ bilhões",
+      "periodo": "safra 2025/26",
+      "fonte": {
+        "nome": "Banco Central do Brasil, SGS 20701 — Concessões de crédito direcionado – Pessoas físicas – Crédito rural total (R$ milhões)",
+        "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.20701/dados?formato=json",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Concessões de crédito rural direcionado (PF+PJ)",
+      "valor": 42.4,
+      "unidade": "R$ bilhões",
+      "periodo": "jul–ago/2026",
+      "fonte": {
+        "nome": "Banco Central do Brasil, SGS 20689 — Concessões de crédito direcionado – Pessoas jurídicas – Crédito rural total (R$ milhões)",
+        "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.20689/dados?formato=json",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Concessões de crédito rural direcionado (PF+PJ)",
+      "valor": 60.4,
+      "unidade": "R$ bilhões",
+      "periodo": "jul–ago/2025",
+      "fonte": {
+        "nome": "Banco Central do Brasil, SGS 20689 — Concessões de crédito direcionado – Pessoas jurídicas – Crédito rural total (R$ milhões)",
+        "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.20689/dados?formato=json",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Taxa média, crédito rural PF",
+      "valor": 11.12,
+      "unidade": "% a.a.",
+      "periodo": "ago/2026",
+      "fonte": {
+        "nome": "Banco Central do Brasil, SGS 20771 — Taxa média de juros – crédito rural total – Pessoas físicas (% a.a.)",
+        "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.20771/dados?formato=json",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    }
+  ],
+  "fontes_primarias": [
+    {
+      "nome": "Banco Central do Brasil, SGS 20701 — Concessões de crédito direcionado – Pessoas físicas – Crédito rural total (R$ milhões)",
+      "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.20701/dados?formato=json",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    },
+    {
+      "nome": "Banco Central do Brasil, SGS 20689 — Concessões de crédito direcionado – Pessoas jurídicas – Crédito rural total (R$ milhões)",
+      "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.20689/dados?formato=json",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    },
+    {
+      "nome": "Banco Central do Brasil, SGS 20771 — Taxa média de juros – crédito rural total – Pessoas físicas (% a.a.)",
+      "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.20771/dados?formato=json",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Banco Central do Brasil, SGS 20701 — Concessões de crédito direcionado – Pessoas físicas – Crédito rural total (R$ milhões)",
+      "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.20701/dados?formato=json",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    },
+    {
+      "nome": "Banco Central do Brasil, SGS 20689 — Concessões de crédito direcionado – Pessoas jurídicas – Crédito rural total (R$ milhões)",
+      "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.20689/dados?formato=json",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    },
+    {
+      "nome": "Banco Central do Brasil, SGS 20771 — Taxa média de juros – crédito rural total – Pessoas físicas (% a.a.)",
+      "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.20771/dados?formato=json",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/17_debate_globo_2026-10-23_checagem.md",
+  "atualizado_em": "2026-10-24",
+  "lacunas": [
+    "A API da Matriz de Dados do Crédito Rural (SICOR) retornou erro 500; os números cobrem só crédito rural com recursos direcionados (SGS), sem segmentação por programa.",
+    "Valores nominais (somas mensais, cálculo próprio).",
+    "Checagem feita apenas com fontes oficiais (governo federal, estadual, Legislativo, Judiciário, TSE, órgãos intergovernamentais e governos estrangeiros), sem imprensa nem agências de checagem, por decisão editorial desta edição."
+  ],
+  "changelog": [
+    {
+      "data": "2026-10-24",
+      "o_que_mudou": "publicação (checagem só com fontes oficiais)"
+    }
+  ],
+  "id_no_debate": "F17",
+  "leitura_checada": "Produtores rurais não conseguem tomar crédito porque está muito caro.",
+  "leitura_incerta": false
+}

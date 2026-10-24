@@ -1,0 +1,147 @@
+{
+  "id": "fala-0465",
+  "slug": "lula-globo-ninguem-nesse-pais-ninguem-nenhum-momento-historia-fez",
+  "evento_id": "debate-globo-2turno-2026-10-23",
+  "candidato": "lula",
+  "lado": "governo-lula-pt",
+  "minuto": "Bloco 2 — pergunta 2 · clipe g1 06:01",
+  "url_trecho": "https://youtu.be/jctCsMD2nTE?t=361",
+  "frase_literal": "ninguém nesse país, ninguém em nenhum momento da história fez mais crédito do que nós fizemos",
+  "literal": true,
+  "variantes_literais": [],
+  "tema": "eleicao-2026",
+  "veredito": "verdadeiro-mas",
+  "resumo_uma_frase": "O crédito chegou ao maior nível da série em proporção do PIB (56,0% em dez/2025) e as concessões são recordes, mas isso é crédito dos bancos (públicos e privados), não 'feito' pelo governo, e a série começa em 2007.",
+  "explicacao_simples": [
+    "Pelo BC, o saldo de crédito em relação ao PIB foi 56,03% em dez/2025, o maior desde o início da série (2007); era 53,24% em dez/2022 e 53,85% em dez/2015.",
+    "As concessões de crédito somaram R$ 7,88 trilhões em 2025 (valores nominais, recorde da série desde 2011).",
+    "O saldo total era R$ 7,40 trilhões em ago/2026."
+  ],
+  "o_que_e_verdade": [
+    "Recordes de saldo e de crédito/PIB."
+  ],
+  "o_que_nao_se_sustenta": [
+    "O crédito é concedido majoritariamente por bancos privados e depende de juros e renda; valores nominais crescem naturalmente com a inflação."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Crédito / PIB",
+      "valor": 56.03,
+      "unidade": "%",
+      "periodo": "dez/2025",
+      "fonte": {
+        "nome": "Banco Central do Brasil, SGS 20622 — Saldo da carteira de crédito em relação ao PIB (%)",
+        "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.20622/dados?formato=json",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Crédito / PIB",
+      "valor": 53.24,
+      "unidade": "%",
+      "periodo": "dez/2022",
+      "fonte": {
+        "nome": "Banco Central do Brasil, SGS 20622 — Saldo da carteira de crédito em relação ao PIB (%)",
+        "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.20622/dados?formato=json",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Crédito / PIB",
+      "valor": 53.85,
+      "unidade": "%",
+      "periodo": "dez/2015",
+      "fonte": {
+        "nome": "Banco Central do Brasil, SGS 20622 — Saldo da carteira de crédito em relação ao PIB (%)",
+        "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.20622/dados?formato=json",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Saldo de crédito",
+      "valor": 7397669,
+      "unidade": "R$ milhões",
+      "periodo": "ago/2026",
+      "fonte": {
+        "nome": "Banco Central do Brasil, SGS 20539 — Saldo da carteira de crédito – Total (R$ milhões)",
+        "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.20539/dados?formato=json",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Concessões de crédito no ano (soma própria)",
+      "valor": 7880,
+      "unidade": "R$ bilhões",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Banco Central do Brasil, SGS 20631 — Concessões de crédito – Total (R$ milhões)",
+        "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.20631/dados?formato=json",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    }
+  ],
+  "fontes_primarias": [
+    {
+      "nome": "Banco Central do Brasil, SGS 20622 — Saldo da carteira de crédito em relação ao PIB (%)",
+      "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.20622/dados?formato=json",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    },
+    {
+      "nome": "Banco Central do Brasil, SGS 20539 — Saldo da carteira de crédito – Total (R$ milhões)",
+      "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.20539/dados?formato=json",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    },
+    {
+      "nome": "Banco Central do Brasil, SGS 20631 — Concessões de crédito – Total (R$ milhões)",
+      "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.20631/dados?formato=json",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Banco Central do Brasil, SGS 20622 — Saldo da carteira de crédito em relação ao PIB (%)",
+      "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.20622/dados?formato=json",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    },
+    {
+      "nome": "Banco Central do Brasil, SGS 20539 — Saldo da carteira de crédito – Total (R$ milhões)",
+      "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.20539/dados?formato=json",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    },
+    {
+      "nome": "Banco Central do Brasil, SGS 20631 — Concessões de crédito – Total (R$ milhões)",
+      "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.20631/dados?formato=json",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/17_debate_globo_2026-10-23_checagem.md",
+  "atualizado_em": "2026-10-24",
+  "lacunas": [
+    "Não há série oficial de crédito/PIB anterior a 2007 na mesma metodologia.",
+    "Checagem feita apenas com fontes oficiais (governo federal, estadual, Legislativo, Judiciário, TSE, órgãos intergovernamentais e governos estrangeiros), sem imprensa nem agências de checagem, por decisão editorial desta edição."
+  ],
+  "changelog": [
+    {
+      "data": "2026-10-24",
+      "o_que_mudou": "publicação (checagem só com fontes oficiais)"
+    }
+  ],
+  "id_no_debate": "L62",
+  "leitura_checada": "Nenhum governo na história fez mais crédito.",
+  "leitura_incerta": false
+}

@@ -1,0 +1,93 @@
+{
+  "id": "fala-0506",
+  "slug": "flavio-globo-governo-presidente-bolsonaro-anistiamos-quase-99-das-dividas",
+  "evento_id": "debate-globo-2turno-2026-10-23",
+  "candidato": "flavio-bolsonaro",
+  "lado": "oposicao-flavio-pl",
+  "minuto": "Bloco 3 — pergunta 2 · clipe g1 05:03",
+  "url_trecho": "https://youtu.be/2S2HvBYOk24?t=303",
+  "frase_literal": "foi no governo do presidente Bolsonaro que nós anistiamos quase 99% das dívidas dos estudantes",
+  "literal": true,
+  "variantes_literais": [],
+  "tema": "educacao",
+  "veredito": "verdadeiro-mas",
+  "resumo_uma_frase": "A lei do governo Bolsonaro (Lei 14.375/2022) deu desconto de até 99% nas dívidas do Fies, mas só para devedores do CadÚnico ou do Auxílio Emergencial com atraso de mais de 360 dias; não foi anistia de 99% das dívidas.",
+  "explicacao_simples": [
+    "A MP 1.090/2021, convertida na Lei 14.375/2022, permitiu renegociar dívidas do Fies vencidas até 30/12/2021.",
+    "O desconto de até 99% valeu para quem estava no CadÚnico ou recebeu o Auxílio Emergencial 2021 e devia havia mais de 360 dias, quitando o saldo.",
+    "Para os demais com atraso acima de 360 dias, o desconto máximo foi de 77%; com atraso acima de 90 dias, de até 12% do principal à vista."
+  ],
+  "o_que_e_verdade": [
+    "Lei 14.375, de 21/06/2022, sancionada por Jair Bolsonaro: desconto de até 99% para devedores vulneráveis do Fies."
+  ],
+  "o_que_nao_se_sustenta": [
+    "'Anistiamos quase 99% das dívidas': o percentual é o teto de desconto para um grupo, condicionado a adesão e pagamento; não 99% do estoque perdoado."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Desconto máximo – CadÚnico/Auxílio Emergencial, atraso > 360 dias",
+      "valor": 99,
+      "unidade": "% do valor consolidado",
+      "periodo": "débitos vencidos até 30/12/2021",
+      "fonte": {
+        "nome": "Planalto – Lei nº 14.375/2022",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/L14375.htm",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-legislativo"
+      }
+    },
+    {
+      "rotulo": "Desconto máximo – demais devedores, atraso > 360 dias",
+      "valor": 77,
+      "unidade": "% do valor consolidado",
+      "periodo": "débitos vencidos até 30/12/2021",
+      "fonte": {
+        "nome": "Planalto – Lei nº 14.375/2022",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/L14375.htm",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-legislativo"
+      }
+    }
+  ],
+  "fontes_primarias": [
+    {
+      "nome": "Planalto – Lei nº 14.375, de 21/06/2022 (conversão da MP 1.090/2021)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/L14375.htm",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    }
+  ],
+  "base_legal": [
+    {
+      "norma": "Lei nº 14.375/2022 (art. 5º-A, § 4º, da Lei 10.260/2001)",
+      "o_que_diz": "VI – desconto de até 99% para inscritos no CadÚnico ou beneficiários do Auxílio Emergencial 2021 com débitos vencidos há mais de 360 dias; VII – até 77% para os demais nessa situação.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/L14375.htm"
+    }
+  ],
+  "checagens_externas": [],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Planalto – Lei nº 14.375, de 21/06/2022 (conversão da MP 1.090/2021)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/L14375.htm",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/17_debate_globo_2026-10-23_checagem.md",
+  "atualizado_em": "2026-10-24",
+  "lacunas": [
+    "Número de contratos renegociados e valor efetivamente abatido (FNDE/CG-Fies) não obtidos (gov.br/fnde bloqueado).",
+    "Checagem feita apenas com fontes oficiais (governo federal, estadual, Legislativo, Judiciário, TSE, órgãos intergovernamentais e governos estrangeiros), sem imprensa nem agências de checagem, por decisão editorial desta edição."
+  ],
+  "changelog": [
+    {
+      "data": "2026-10-24",
+      "o_que_mudou": "publicação (checagem só com fontes oficiais)"
+    }
+  ],
+  "id_no_debate": "F79",
+  "leitura_checada": "Leitura literal da legenda.",
+  "leitura_incerta": false
+}

@@ -1,0 +1,97 @@
+{
+  "id": "fala-0402",
+  "slug": "flavio-globo-gastou-mais-r-400-bilhoes-reais-tentar-reeleger",
+  "evento_id": "debate-globo-2turno-2026-10-23",
+  "candidato": "flavio-bolsonaro",
+  "lado": "oposicao-flavio-pl",
+  "minuto": "Bloco 1 — pergunta 4 · clipe g1 02:21",
+  "url_trecho": "https://youtu.be/FIKMIfvhAkA?t=141",
+  "frase_literal": "você já gastou mais de R$ 400 bilhões de reais para tentar se reeleger",
+  "literal": true,
+  "variantes_literais": [],
+  "tema": "eleicao-2026",
+  "veredito": "insustentavel",
+  "resumo_uma_frase": "Não há levantamento oficial que some 'R$ 400 bilhões' em medidas eleitorais; o número não pôde ser reconstruído.",
+  "explicacao_simples": [
+    "Nenhum relatório do Tesouro, da Fazenda, da IFI ou do TCU consultado traz esse total.",
+    "A campanha não indicou quais medidas compõem a soma.",
+    "Há medidas com custo oficial (ex.: Novo Desenrola com limite de R$ 15 bi; perdão de dívidas de MEIs de R$ 12,6 bi, ainda dependente do Congresso), mas muito longe de R$ 400 bi."
+  ],
+  "o_que_e_verdade": [],
+  "o_que_nao_se_sustenta": [
+    "O valor e a finalidade 'para se reeleger' não têm base oficial."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Limite de gasto da União na compra de dívidas (Desenrola 3.0)",
+      "valor": 15,
+      "unidade": "R$ bilhões",
+      "periodo": "MP 1.393/2026",
+      "fonte": {
+        "nome": "Planalto, Medida Provisória nº 1.393, de 25/09/2026 (Desenrola Brasil 3.0)",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/Mpv/mpv1393.htm",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-legislativo"
+      }
+    },
+    {
+      "rotulo": "Dívidas de MEIs na proposta de perdão",
+      "valor": 12.6,
+      "unidade": "R$ bilhões",
+      "periodo": "out/2026",
+      "fonte": {
+        "nome": "Ministério da Fazenda, 13/10/2026 – 'Governo encaminha ao Congresso Nacional proposta para trabalhadores por conta própria'",
+        "url": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/outubro/governo-encaminha-ao-congresso-nacional-proposta-para-trabalhadores-por-conta-propria",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    }
+  ],
+  "fontes_primarias": [
+    {
+      "nome": "Planalto, Medida Provisória nº 1.393, de 25/09/2026 (Desenrola Brasil 3.0)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/Mpv/mpv1393.htm",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    },
+    {
+      "nome": "Ministério da Fazenda, 13/10/2026 – 'Governo encaminha ao Congresso Nacional proposta para trabalhadores por conta própria'",
+      "url": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/outubro/governo-encaminha-ao-congresso-nacional-proposta-para-trabalhadores-por-conta-propria",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Planalto, Medida Provisória nº 1.393, de 25/09/2026 (Desenrola Brasil 3.0)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/Mpv/mpv1393.htm",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    },
+    {
+      "nome": "Ministério da Fazenda, 13/10/2026 – 'Governo encaminha ao Congresso Nacional proposta para trabalhadores por conta própria'",
+      "url": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/outubro/governo-encaminha-ao-congresso-nacional-proposta-para-trabalhadores-por-conta-propria",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/17_debate_globo_2026-10-23_checagem.md",
+  "atualizado_em": "2026-10-24",
+  "lacunas": [
+    "Sem dado oficial; pedir a metodologia à campanha.",
+    "Checagem feita apenas com fontes oficiais (governo federal, estadual, Legislativo, Judiciário, TSE, órgãos intergovernamentais e governos estrangeiros), sem imprensa nem agências de checagem, por decisão editorial desta edição."
+  ],
+  "changelog": [
+    {
+      "data": "2026-10-24",
+      "o_que_mudou": "publicação (checagem só com fontes oficiais)"
+    }
+  ],
+  "id_no_debate": "F27",
+  "leitura_checada": "Lula já gastou mais de R$ 400 bilhões para tentar se reeleger.",
+  "leitura_incerta": false
+}

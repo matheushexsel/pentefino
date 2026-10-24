@@ -1,0 +1,123 @@
+{
+  "id": "fala-0443",
+  "slug": "flavio-globo-seu-governo-quantidade-mulheres-espancadas-so-aumenta",
+  "evento_id": "debate-globo-2turno-2026-10-23",
+  "candidato": "flavio-bolsonaro",
+  "lado": "oposicao-flavio-pl",
+  "minuto": "Bloco 2 — pergunta 1 · clipe g1 06:03",
+  "url_trecho": "https://youtu.be/QhluFzoPl30?t=363",
+  "frase_literal": "E no seu governo, a quantidade de mulheres espancadas só aumenta",
+  "literal": true,
+  "variantes_literais": [],
+  "tema": "seguranca",
+  "veredito": "verdadeiro-mas",
+  "resumo_uma_frase": "As notificações do SUS de mulheres agredidas com força corporal ou espancamento cresceram todo ano desde 2022, mas notificação não mede só violência: também reflete mais registro.",
+  "explicacao_simples": [
+    "O SINAN, do Ministério da Saúde, registrou 125.751 notificações de mulheres agredidas por força corporal/espancamento em 2022 e 175.104 em 2025.",
+    "A série também subia antes (2016–2019) e caiu em 2020, na pandemia, o que mostra efeito da capacidade de notificação.",
+    "Não há série oficial nacional de boletins de lesão corporal doméstica no SINESP para confirmar a tendência por outra fonte."
+  ],
+  "o_que_e_verdade": [
+    "As notificações de violência física e de espancamento contra mulheres cresceram a cada ano de 2022 a 2025 (SINAN)."
+  ],
+  "o_que_nao_se_sustenta": [
+    "Notificação de saúde não equivale a número de vítimas; parte do aumento pode vir de mais registro."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Notificações de mulheres agredidas por força corporal/espancamento (SINAN)",
+      "valor": 125751,
+      "unidade": "notificações",
+      "periodo": "2022",
+      "fonte": {
+        "nome": "Ministério da Saúde/DATASUS — SINAN, notificações de violência interpessoal/autoprovocada, por ano e sexo da vítima (TabNet; 2025 preliminar)",
+        "url": "http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sinannet/cnv/violebr.def",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Notificações de mulheres agredidas por força corporal/espancamento (SINAN)",
+      "valor": 168276,
+      "unidade": "notificações",
+      "periodo": "2023",
+      "fonte": {
+        "nome": "Ministério da Saúde/DATASUS — SINAN, notificações de violência interpessoal/autoprovocada, por ano e sexo da vítima (TabNet; 2025 preliminar)",
+        "url": "http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sinannet/cnv/violebr.def",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Notificações de mulheres agredidas por força corporal/espancamento (SINAN)",
+      "valor": 173822,
+      "unidade": "notificações",
+      "periodo": "2024",
+      "fonte": {
+        "nome": "Ministério da Saúde/DATASUS — SINAN, notificações de violência interpessoal/autoprovocada, por ano e sexo da vítima (TabNet; 2025 preliminar)",
+        "url": "http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sinannet/cnv/violebr.def",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Notificações de mulheres agredidas por força corporal/espancamento (SINAN)",
+      "valor": 175104,
+      "unidade": "notificações",
+      "periodo": "2025 (preliminar)",
+      "fonte": {
+        "nome": "Ministério da Saúde/DATASUS — SINAN, notificações de violência interpessoal/autoprovocada, por ano e sexo da vítima (TabNet; 2025 preliminar)",
+        "url": "http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sinannet/cnv/violebr.def",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Notificações de violência física contra mulheres (SINAN)",
+      "valor": 224876,
+      "unidade": "notificações",
+      "periodo": "2025 (preliminar)",
+      "fonte": {
+        "nome": "Ministério da Saúde/DATASUS — SINAN, notificações de violência interpessoal/autoprovocada, por ano e sexo da vítima (TabNet; 2025 preliminar)",
+        "url": "http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sinannet/cnv/violebr.def",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    }
+  ],
+  "fontes_primarias": [
+    {
+      "nome": "Ministério da Saúde/DATASUS — SINAN, notificações de violência interpessoal/autoprovocada, por ano e sexo da vítima (TabNet; 2025 preliminar)",
+      "url": "http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sinannet/cnv/violebr.def",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Ministério da Saúde/DATASUS — SINAN, notificações de violência interpessoal/autoprovocada, por ano e sexo da vítima (TabNet; 2025 preliminar)",
+      "url": "http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sinannet/cnv/violebr.def",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/17_debate_globo_2026-10-23_checagem.md",
+  "atualizado_em": "2026-10-24",
+  "lacunas": [
+    "O SINESP não traz lesão corporal dolosa em violência doméstica; não foram consultados dados do Ligue 180 nem das secretarias estaduais.",
+    "Checagem feita apenas com fontes oficiais (governo federal, estadual, Legislativo, Judiciário, TSE, órgãos intergovernamentais e governos estrangeiros), sem imprensa nem agências de checagem, por decisão editorial desta edição."
+  ],
+  "changelog": [
+    {
+      "data": "2026-10-24",
+      "o_que_mudou": "publicação (checagem só com fontes oficiais)"
+    }
+  ],
+  "id_no_debate": "F46",
+  "leitura_checada": "'A quantidade de mulheres espancadas só aumenta' no governo Lula; checou-se a série oficial de notificações de violência física/espancamento contra mulheres.",
+  "leitura_incerta": false
+}

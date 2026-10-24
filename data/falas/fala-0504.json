@@ -1,0 +1,160 @@
+{
+  "id": "fala-0504",
+  "slug": "lula-globo-gente-fez-mais-universidade-gente-fez-mais-instituto",
+  "evento_id": "debate-globo-2turno-2026-10-23",
+  "candidato": "lula",
+  "lado": "governo-lula-pt",
+  "minuto": "Bloco 3 — pergunta 2 · clipe g1 04:21",
+  "url_trecho": "https://youtu.be/2S2HvBYOk24?t=261",
+  "frase_literal": "a gente fez mais universidade, a gente fez mais instituto federal, a gente fez mais escola de tempo integral",
+  "literal": true,
+  "variantes_literais": [],
+  "tema": "educacao",
+  "veredito": "verdadeiro-mas",
+  "resumo_uma_frase": "Comparado ao governo Bolsonaro, Lula 3 criou mais universidades por lei e ampliou o tempo integral; mas parte das 'novas universidades' são Cefets transformados e muitos campi de IF ainda estão em construção.",
+  "explicacao_simples": [
+    "Bolsonaro criou uma universidade federal por lei (UFNT, 2019). Lula 3 criou ao menos quatro por lei em 2026: Indígena, Fronteira Norte e duas a partir dos Cefets de MG e RJ; o ministro cita também a Universidade Federal do Esporte.",
+    "As matrículas em tempo integral na rede pública passaram de 15,1% (2021) para 25,8% (2025), segundo o MEC.",
+    "Nos institutos federais, o governo diz estar 'criando 115 campi', mas não há balanço oficial acessível de campi concluídos."
+  ],
+  "o_que_e_verdade": [
+    "Leis 15.418/2026 (Unind), 15.520/2026 (UFFN) e 15.521/2026 (UFCI-MG e UFCI-RJ) contra Lei 13.856/2019 (UFNT) no governo anterior.",
+    "Tempo integral: 8,8 milhões de matrículas (25,8%) em 2025."
+  ],
+  "o_que_nao_se_sustenta": [
+    "Duas das 'novas universidades' são transformações de Cefets já existentes.",
+    "'Mais instituto federal': campi em criação, sem número oficial de concluídos."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Matrículas em tempo integral (rede pública)",
+      "valor": 25.8,
+      "unidade": "%",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Agência Brasil (reprodução de dados do MEC/Censo Escolar), 'Censo Escolar: Brasil reduz índices de reprovação, abandono e atraso' (jun/2026)",
+        "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/censo-escolar-brasil-reduz-reprovacao-abandono-e-atraso-estudantil",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Matrículas em tempo integral (rede pública)",
+      "valor": 15.1,
+      "unidade": "%",
+      "periodo": "2021",
+      "fonte": {
+        "nome": "Agência Brasil (reprodução de dados do MEC/Censo Escolar), 'Censo Escolar: Brasil reduz índices de reprovação, abandono e atraso' (jun/2026)",
+        "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/censo-escolar-brasil-reduz-reprovacao-abandono-e-atraso-estudantil",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Universidades federais criadas por lei",
+      "valor": 1,
+      "unidade": "universidade (UFNT)",
+      "periodo": "2019–2022",
+      "fonte": {
+        "nome": "Planalto – Lei nº 13.856/2019",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/L13856.htm",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-legislativo"
+      }
+    },
+    {
+      "rotulo": "Universidades federais criadas/transformadas por lei (levantamento parcial)",
+      "valor": 4,
+      "unidade": "universidades",
+      "periodo": "2023–out/2026",
+      "fonte": {
+        "nome": "Planalto – Leis 15.418, 15.520 e 15.521/2026",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/L15521.htm",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-legislativo"
+      }
+    }
+  ],
+  "fontes_primarias": [
+    {
+      "nome": "Agência Brasil (reprodução de dados do MEC/Censo Escolar), 'Censo Escolar: Brasil reduz índices de reprovação, abandono e atraso' (jun/2026)",
+      "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/censo-escolar-brasil-reduz-reprovacao-abandono-e-atraso-estudantil",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    },
+    {
+      "nome": "Planalto – Leis 15.418, 15.520, 15.521/2026 e 13.856/2019",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/L15418.htm",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    },
+    {
+      "nome": "Senado – pronunciamento de Camilo Santana em 28/04/2026",
+      "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/521662",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    }
+  ],
+  "base_legal": [
+    {
+      "norma": "Lei nº 15.418/2026",
+      "o_que_diz": "Cria a Universidade Federal Indígena (Unind), sede em Brasília.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/L15418.htm"
+    },
+    {
+      "norma": "Lei nº 15.520/2026",
+      "o_que_diz": "Cria a Universidade Federal da Fronteira Norte (UFFN).",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/L15520.htm"
+    },
+    {
+      "norma": "Lei nº 15.521/2026",
+      "o_que_diz": "Transforma os Cefets de MG e RJ em universidades federais (UFCI/MG e UFCI/RJ).",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/L15521.htm"
+    },
+    {
+      "norma": "Lei nº 13.856/2019",
+      "o_que_diz": "Cria a Universidade Federal do Norte do Tocantins (sanção de Jair Bolsonaro).",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/L13856.htm"
+    }
+  ],
+  "checagens_externas": [],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Agência Brasil (reprodução de dados do MEC/Censo Escolar), 'Censo Escolar: Brasil reduz índices de reprovação, abandono e atraso' (jun/2026)",
+      "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/censo-escolar-brasil-reduz-reprovacao-abandono-e-atraso-estudantil",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    },
+    {
+      "nome": "Planalto – Leis 15.418, 15.520, 15.521/2026 e 13.856/2019",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/L15418.htm",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    },
+    {
+      "nome": "Senado – pronunciamento de Camilo Santana em 28/04/2026",
+      "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/521662",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/17_debate_globo_2026-10-23_checagem.md",
+  "atualizado_em": "2026-10-24",
+  "lacunas": [
+    "Lei de criação da Universidade Federal do Esporte não localizada no Planalto nesta sessão.",
+    "A lista de leis de criação 2023–2026 pode não ser exaustiva (índice de leis de 2026 do Planalto retornou 403).",
+    "Se 'a gente' se refere a todos os governos do PT (2003–2016), a comparação muda; não foi feita aqui.",
+    "Checagem feita apenas com fontes oficiais (governo federal, estadual, Legislativo, Judiciário, TSE, órgãos intergovernamentais e governos estrangeiros), sem imprensa nem agências de checagem, por decisão editorial desta edição."
+  ],
+  "changelog": [
+    {
+      "data": "2026-10-24",
+      "o_que_mudou": "publicação (checagem só com fontes oficiais)"
+    }
+  ],
+  "id_no_debate": "L82",
+  "leitura_checada": "Leitura literal da legenda.",
+  "leitura_incerta": false
+}

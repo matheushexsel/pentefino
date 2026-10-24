@@ -1,0 +1,202 @@
+{
+  "id": "fala-0442",
+  "slug": "flavio-globo-seu-governo-recorde-mulheres-assassinadas",
+  "evento_id": "debate-globo-2turno-2026-10-23",
+  "candidato": "flavio-bolsonaro",
+  "lado": "oposicao-flavio-pl",
+  "minuto": "Bloco 2 — pergunta 1 · clipe g1 05:59",
+  "url_trecho": "https://youtu.be/QhluFzoPl30?t=359",
+  "frase_literal": "No seu governo, recorde de mulheres assassinadas",
+  "literal": true,
+  "variantes_literais": [],
+  "tema": "seguranca",
+  "veredito": "falta-contexto",
+  "resumo_uma_frase": "Os feminicídios registrados bateram recorde em 2025, mas o total de mulheres assassinadas caiu e está entre os menores da série.",
+  "explicacao_simples": [
+    "O SINESP registrou 1.578 feminicídios em 2025, o maior número da série iniciada em 2015, em parte por melhor classificação desses crimes.",
+    "Já o total de mulheres mortas por agressão, segundo o Ministério da Saúde (SIM), caiu de 4.928 em 2017 (pico) para 3.622 em 2024.",
+    "No SINESP, o total de mulheres vítimas de crimes violentos letais caiu de 5.075 (2017) para 3.787 (2025)."
+  ],
+  "o_que_e_verdade": [
+    "Os feminicídios registrados cresceram todo ano e atingiram recorde em 2025 (SINESP)."
+  ],
+  "o_que_nao_se_sustenta": [
+    "O número de mulheres assassinadas não é recorde; está abaixo do registrado em 2017–2018."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Feminicídios registrados",
+      "valor": 1456,
+      "unidade": "vítimas",
+      "periodo": "2022",
+      "fonte": {
+        "nome": "MJSP/SINESP VDE — base de dados nacional 2022 (bancovde-2022.xlsx; cálculo próprio por UF e evento)",
+        "url": "https://www.gov.br/mj/pt-br/assuntos/sua-seguranca/seguranca-publica/estatistica/download/dnsp-base-de-dados/bancovde-2022.xlsx/view",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Feminicídios registrados",
+      "valor": 1578,
+      "unidade": "vítimas",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "MJSP/SINESP VDE — base de dados nacional 2025 (bancovde-2025.xlsx; cálculo próprio por UF e evento)",
+        "url": "https://www.gov.br/mj/pt-br/assuntos/sua-seguranca/seguranca-publica/estatistica/download/dnsp-base-de-dados/bancovde-2025.xlsx/view",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Mulheres vítimas de CVLI (homicídio, feminicídio, latrocínio, lesão seguida de morte)",
+      "valor": 5075,
+      "unidade": "vítimas",
+      "periodo": "2017",
+      "fonte": {
+        "nome": "MJSP/SINESP VDE — base de dados nacional 2017 (bancovde-2017.xlsx; cálculo próprio por UF e evento)",
+        "url": "https://www.gov.br/mj/pt-br/assuntos/sua-seguranca/seguranca-publica/estatistica/download/dnsp-base-de-dados/bancovde-2017.xlsx/view",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Mulheres vítimas de CVLI",
+      "valor": 3787,
+      "unidade": "vítimas",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "MJSP/SINESP VDE — base de dados nacional 2025 (bancovde-2025.xlsx; cálculo próprio por UF e evento)",
+        "url": "https://www.gov.br/mj/pt-br/assuntos/sua-seguranca/seguranca-publica/estatistica/download/dnsp-base-de-dados/bancovde-2025.xlsx/view",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Óbitos de mulheres por agressão (SIM)",
+      "valor": 4928,
+      "unidade": "óbitos",
+      "periodo": "2017",
+      "fonte": {
+        "nome": "Ministério da Saúde/DATASUS — SIM, óbitos por causas externas, grupo CID-10 X85–Y09 (Agressões), por residência, por ano e sexo (TabNet; 2025 preliminar)",
+        "url": "http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sim/cnv/ext10uf.def",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Óbitos de mulheres por agressão (SIM)",
+      "valor": 3887,
+      "unidade": "óbitos",
+      "periodo": "2023",
+      "fonte": {
+        "nome": "Ministério da Saúde/DATASUS — SIM, óbitos por causas externas, grupo CID-10 X85–Y09 (Agressões), por residência, por ano e sexo (TabNet; 2025 preliminar)",
+        "url": "http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sim/cnv/ext10uf.def",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Óbitos de mulheres por agressão (SIM)",
+      "valor": 3622,
+      "unidade": "óbitos",
+      "periodo": "2024 (dado final)",
+      "fonte": {
+        "nome": "Ministério da Saúde/DATASUS — SIM, óbitos por causas externas, grupo CID-10 X85–Y09 (Agressões), por residência, por ano e sexo (TabNet; 2025 preliminar)",
+        "url": "http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sim/cnv/ext10uf.def",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    }
+  ],
+  "fontes_primarias": [
+    {
+      "nome": "MJSP — DNSP, base de dados SINESP VDE 2015–2026 (página de download)",
+      "url": "https://www.gov.br/mj/pt-br/assuntos/sua-seguranca/seguranca-publica/estatistica/download/dnsp-base-de-dados",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    },
+    {
+      "nome": "MJSP/SINESP VDE — base de dados nacional 2017 (bancovde-2017.xlsx; cálculo próprio por UF e evento)",
+      "url": "https://www.gov.br/mj/pt-br/assuntos/sua-seguranca/seguranca-publica/estatistica/download/dnsp-base-de-dados/bancovde-2017.xlsx/view",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    },
+    {
+      "nome": "MJSP/SINESP VDE — base de dados nacional 2022 (bancovde-2022.xlsx; cálculo próprio por UF e evento)",
+      "url": "https://www.gov.br/mj/pt-br/assuntos/sua-seguranca/seguranca-publica/estatistica/download/dnsp-base-de-dados/bancovde-2022.xlsx/view",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    },
+    {
+      "nome": "MJSP/SINESP VDE — base de dados nacional 2025 (bancovde-2025.xlsx; cálculo próprio por UF e evento)",
+      "url": "https://www.gov.br/mj/pt-br/assuntos/sua-seguranca/seguranca-publica/estatistica/download/dnsp-base-de-dados/bancovde-2025.xlsx/view",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    },
+    {
+      "nome": "Ministério da Saúde/DATASUS — SIM, óbitos por causas externas, grupo CID-10 X85–Y09 (Agressões), por residência, por ano e sexo (TabNet; 2025 preliminar)",
+      "url": "http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sim/cnv/ext10uf.def",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    }
+  ],
+  "base_legal": [
+    {
+      "norma": "Lei 13.104/2015",
+      "o_que_diz": "Criou a qualificadora de feminicídio; a série comparável começa em 2016.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13104.htm"
+    }
+  ],
+  "checagens_externas": [],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "MJSP — DNSP, base de dados SINESP VDE 2015–2026 (página de download)",
+      "url": "https://www.gov.br/mj/pt-br/assuntos/sua-seguranca/seguranca-publica/estatistica/download/dnsp-base-de-dados",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    },
+    {
+      "nome": "MJSP/SINESP VDE — base de dados nacional 2017 (bancovde-2017.xlsx; cálculo próprio por UF e evento)",
+      "url": "https://www.gov.br/mj/pt-br/assuntos/sua-seguranca/seguranca-publica/estatistica/download/dnsp-base-de-dados/bancovde-2017.xlsx/view",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    },
+    {
+      "nome": "MJSP/SINESP VDE — base de dados nacional 2022 (bancovde-2022.xlsx; cálculo próprio por UF e evento)",
+      "url": "https://www.gov.br/mj/pt-br/assuntos/sua-seguranca/seguranca-publica/estatistica/download/dnsp-base-de-dados/bancovde-2022.xlsx/view",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    },
+    {
+      "nome": "MJSP/SINESP VDE — base de dados nacional 2025 (bancovde-2025.xlsx; cálculo próprio por UF e evento)",
+      "url": "https://www.gov.br/mj/pt-br/assuntos/sua-seguranca/seguranca-publica/estatistica/download/dnsp-base-de-dados/bancovde-2025.xlsx/view",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    },
+    {
+      "nome": "Ministério da Saúde/DATASUS — SIM, óbitos por causas externas, grupo CID-10 X85–Y09 (Agressões), por residência, por ano e sexo (TabNet; 2025 preliminar)",
+      "url": "http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sim/cnv/ext10uf.def",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/17_debate_globo_2026-10-23_checagem.md",
+  "atualizado_em": "2026-10-24",
+  "lacunas": [
+    "A cobertura do SINESP nos primeiros anos (2015–2017) pode ser incompleta; por isso o SIM foi usado como série de controle.",
+    "SIM 2025 é preliminar.",
+    "Checagem feita apenas com fontes oficiais (governo federal, estadual, Legislativo, Judiciário, TSE, órgãos intergovernamentais e governos estrangeiros), sem imprensa nem agências de checagem, por decisão editorial desta edição."
+  ],
+  "changelog": [
+    {
+      "data": "2026-10-24",
+      "o_que_mudou": "publicação (checagem só com fontes oficiais)"
+    }
+  ],
+  "id_no_debate": "F45",
+  "leitura_checada": "'No seu governo, recorde de mulheres assassinadas.' Checaram-se duas leituras: total de mulheres assassinadas e feminicídios.",
+  "leitura_incerta": false
+}

@@ -1,0 +1,111 @@
+{
+  "id": "fala-0350",
+  "slug": "lula-globo-herdamos-6-000-obras-paradas",
+  "evento_id": "debate-globo-2turno-2026-10-23",
+  "candidato": "lula",
+  "lado": "governo-lula-pt",
+  "minuto": "Bloco 1 — pergunta 1 · clipe g1 03:06",
+  "url_trecho": "https://youtu.be/woYkhYICZ2k?t=186",
+  "frase_literal": "nós herdamos 6.000 obras paradas",
+  "literal": true,
+  "variantes_literais": [],
+  "tema": "infraestrutura",
+  "veredito": "impreciso",
+  "resumo_uma_frase": "O TCU contava 8.674 obras paralisadas em ago/2022 e 8.603 em abr/2023 — mais que os 6 mil citados.",
+  "explicacao_simples": [
+    "No painel do TCU, havia 8.674 obras paralisadas em agosto de 2022, de 22.559 monitoradas.",
+    "Em abril de 2023, eram 8.603 de 21.005 (Acórdão 2.134/2023).",
+    "O número de Lula está abaixo do oficial; ele pode estar se referindo só a educação (o MEC fala em 5,6 mil), mas não disse isso."
+  ],
+  "o_que_e_verdade": [
+    "O governo Lula herdou milhares de obras federais paralisadas."
+  ],
+  "o_que_nao_se_sustenta": [
+    "'6.000': o número do TCU para o fim de 2022/início de 2023 é cerca de 8,6-8,7 mil."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Obras paralisadas — painel TCU",
+      "valor": 8674,
+      "unidade": "obras",
+      "periodo": "ago/2022",
+      "fonte": {
+        "nome": "TCU — Painel de Obras Paralisadas (Power BI público; consulta direta ao modelo de dados, última atualização 05/08/2026; extrações ago/2022, abr/2023, abr/2024, abr/2025 e abr/2026)",
+        "url": "https://paineis.tcu.gov.br/pub/?workspaceId=8bfbd0cc-f2cd-4e1c-8cde-6abfdffea6a8&reportId=013930b6-b989-41c3-bf00-085dc65109de&painel=ObrasParalisadas",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-legislativo"
+      }
+    },
+    {
+      "rotulo": "Obras paralisadas — painel TCU",
+      "valor": 8603,
+      "unidade": "obras",
+      "periodo": "abr/2023",
+      "fonte": {
+        "nome": "TCU — Painel de Obras Paralisadas (Power BI público; consulta direta ao modelo de dados, última atualização 05/08/2026; extrações ago/2022, abr/2023, abr/2024, abr/2025 e abr/2026)",
+        "url": "https://paineis.tcu.gov.br/pub/?workspaceId=8bfbd0cc-f2cd-4e1c-8cde-6abfdffea6a8&reportId=013930b6-b989-41c3-bf00-085dc65109de&painel=ObrasParalisadas",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-legislativo"
+      }
+    },
+    {
+      "rotulo": "Obras monitoradas",
+      "valor": 21005,
+      "unidade": "obras",
+      "periodo": "abr/2023",
+      "fonte": {
+        "nome": "TCU — Painel de Obras Paralisadas (Power BI público; consulta direta ao modelo de dados, última atualização 05/08/2026; extrações ago/2022, abr/2023, abr/2024, abr/2025 e abr/2026)",
+        "url": "https://paineis.tcu.gov.br/pub/?workspaceId=8bfbd0cc-f2cd-4e1c-8cde-6abfdffea6a8&reportId=013930b6-b989-41c3-bf00-085dc65109de&painel=ObrasParalisadas",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-legislativo"
+      }
+    }
+  ],
+  "fontes_primarias": [
+    {
+      "nome": "TCU — Painel de Obras Paralisadas (Power BI público; consulta direta ao modelo de dados, última atualização 05/08/2026; extrações ago/2022, abr/2023, abr/2024, abr/2025 e abr/2026)",
+      "url": "https://paineis.tcu.gov.br/pub/?workspaceId=8bfbd0cc-f2cd-4e1c-8cde-6abfdffea6a8&reportId=013930b6-b989-41c3-bf00-085dc65109de&painel=ObrasParalisadas",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    },
+    {
+      "nome": "TCU — 'Brasil tem 8,6 mil obras paralisadas' (Acórdão 2.134/2023-Plenário, 18/10/2023)",
+      "url": "https://portal.tcu.gov.br/imprensa/noticias/brasil-tem-86-mil-obras-paralisadas-financiadas-com-recursos-federais",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "TCU — Painel de Obras Paralisadas (Power BI público; consulta direta ao modelo de dados, última atualização 05/08/2026; extrações ago/2022, abr/2023, abr/2024, abr/2025 e abr/2026)",
+      "url": "https://paineis.tcu.gov.br/pub/?workspaceId=8bfbd0cc-f2cd-4e1c-8cde-6abfdffea6a8&reportId=013930b6-b989-41c3-bf00-085dc65109de&painel=ObrasParalisadas",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    },
+    {
+      "nome": "TCU — 'Brasil tem 8,6 mil obras paralisadas' (Acórdão 2.134/2023-Plenário, 18/10/2023)",
+      "url": "https://portal.tcu.gov.br/imprensa/noticias/brasil-tem-86-mil-obras-paralisadas-financiadas-com-recursos-federais",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/17_debate_globo_2026-10-23_checagem.md",
+  "atualizado_em": "2026-10-24",
+  "lacunas": [
+    "O dado do MEC (5,6 mil obras de educação) aparece em fala de ministro em notícia do TCU de 11/06/2026, sem data de referência; não foi usado para o veredito.",
+    "Checagem feita apenas com fontes oficiais (governo federal, estadual, Legislativo, Judiciário, TSE, órgãos intergovernamentais e governos estrangeiros), sem imprensa nem agências de checagem, por decisão editorial desta edição."
+  ],
+  "changelog": [
+    {
+      "data": "2026-10-24",
+      "o_que_mudou": "publicação (checagem só com fontes oficiais)"
+    }
+  ],
+  "id_no_debate": "L04",
+  "leitura_checada": "Obras federais paralisadas herdadas no início de 2023 (6 mil).",
+  "leitura_incerta": false
+}

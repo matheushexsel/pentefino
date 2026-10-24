@@ -1,0 +1,118 @@
+{
+  "id": "fala-0459",
+  "slug": "lula-globo-quando-fala-vai-comprar-divida-dos-devedores-ta",
+  "evento_id": "debate-globo-2turno-2026-10-23",
+  "candidato": "lula",
+  "lado": "governo-lula-pt",
+  "minuto": "Bloco 2 — pergunta 2 · clipe g1 03:55",
+  "url_trecho": "https://youtu.be/jctCsMD2nTE?t=235",
+  "frase_literal": "quando ele fala que vai comprar a dívida dos devedores, ele tá copiando uma coisa que eu já mandei pro Senado [...] nós vamos comprar a dívida das pessoas que estão devendo, fazer um leilão nos bancos [...] com 90, 92% até 95% de desajo [desconto]",
+  "literal": true,
+  "variantes_literais": [],
+  "tema": "eleicao-2026",
+  "veredito": "verdadeiro-mas",
+  "resumo_uma_frase": "A MP 1.393/2026 autoriza a União a comprar carteiras de dívidas em procedimento competitivo com deságio mínimo de 90%, mas foi enviada ao Congresso como medida provisória (não 'ao Senado') e o teto de 95% não está no texto.",
+  "explicacao_simples": [
+    "A Medida Provisória 1.393, de 25/09/2026, cria o 'Desenrola Brasil 3.0': a União pode adquirir carteiras de dívidas inadimplidas de pessoas físicas, com 'deságio mínimo de 90%' e classificação pelo maior desconto.",
+    "As dívidas elegíveis têm valor original abaixo de R$ 10 mil e atraso entre 720 e 1.645 dias; o gasto da União tem limite de R$ 15 bilhões.",
+    "MPs valem desde a publicação e são analisadas pelo Congresso (Câmara e Senado), não só pelo Senado."
+  ],
+  "o_que_e_verdade": [
+    "O governo já editou medida de compra de dívidas com desconto mínimo de 90%, operada por procedimento competitivo (leilão)."
+  ],
+  "o_que_nao_se_sustenta": [
+    "'Mandei pro Senado' é impreciso (é MP, analisada pelo Congresso); a faixa '92% até 95%' não consta da MP (só o mínimo de 90%)."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Deságio mínimo exigido",
+      "valor": 90,
+      "unidade": "%",
+      "periodo": "MP 1.393/2026",
+      "fonte": {
+        "nome": "Planalto, Medida Provisória nº 1.393, de 25/09/2026 (Desenrola Brasil 3.0)",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/Mpv/mpv1393.htm",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-legislativo"
+      }
+    },
+    {
+      "rotulo": "Limite de gasto da União",
+      "valor": 15,
+      "unidade": "R$ bilhões",
+      "periodo": "MP 1.393/2026",
+      "fonte": {
+        "nome": "Planalto, Medida Provisória nº 1.393, de 25/09/2026 (Desenrola Brasil 3.0)",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/Mpv/mpv1393.htm",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-legislativo"
+      }
+    },
+    {
+      "rotulo": "Valor original máximo da dívida elegível",
+      "valor": 10000,
+      "unidade": "R$",
+      "periodo": "MP 1.393/2026",
+      "fonte": {
+        "nome": "Planalto, Medida Provisória nº 1.393, de 25/09/2026 (Desenrola Brasil 3.0)",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/Mpv/mpv1393.htm",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-legislativo"
+      }
+    }
+  ],
+  "fontes_primarias": [
+    {
+      "nome": "Planalto, Medida Provisória nº 1.393, de 25/09/2026 (Desenrola Brasil 3.0)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/Mpv/mpv1393.htm",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    },
+    {
+      "nome": "Ministério da Fazenda, 21–22/10/2026 – 'Fazenda abre chamamento público para instituições interessadas em participar como credoras da terceira fase da renegociação de dívidas' (Portaria MF nº 3127/2026)",
+      "url": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/outubro/fazenda-abre-chamamento-publico-para-instituicoes-interessadas-em-participar-como-credoras-da-terceira-fase-da-renegociacao-de-dividas",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    }
+  ],
+  "base_legal": [
+    {
+      "norma": "MP nº 1.393/2026, arts. 31-B, 31-C e 31-E incluídos na Lei 14.690/2023",
+      "o_que_diz": "Autoriza a União a adquirir e renegociar carteiras de dívidas de pessoas físicas por procedimento competitivo, com deságio mínimo de 90% e limite de R$ 15 bilhões.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/Mpv/mpv1393.htm"
+    }
+  ],
+  "checagens_externas": [],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Planalto, Medida Provisória nº 1.393, de 25/09/2026 (Desenrola Brasil 3.0)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/Mpv/mpv1393.htm",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    },
+    {
+      "nome": "Ministério da Fazenda, 21–22/10/2026 – 'Fazenda abre chamamento público para instituições interessadas em participar como credoras da terceira fase da renegociação de dívidas' (Portaria MF nº 3127/2026)",
+      "url": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/outubro/fazenda-abre-chamamento-publico-para-instituicoes-interessadas-em-participar-como-credoras-da-terceira-fase-da-renegociacao-de-dividas",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/17_debate_globo_2026-10-23_checagem.md",
+  "atualizado_em": "2026-10-24",
+  "lacunas": [
+    "Leitura incerta da legenda automática; a checagem usou a leitura: 'desajo' = deságio/desconto. Leitura: a proposta de Flávio de comprar dívidas copia medida que o governo já enviou ao Congresso: comprar dívidas por leilão com desconto de 90% a 95%.",
+    "Tramitação da MP no Congresso não consultada.",
+    "Checagem feita apenas com fontes oficiais (governo federal, estadual, Legislativo, Judiciário, TSE, órgãos intergovernamentais e governos estrangeiros), sem imprensa nem agências de checagem, por decisão editorial desta edição."
+  ],
+  "changelog": [
+    {
+      "data": "2026-10-24",
+      "o_que_mudou": "publicação (checagem só com fontes oficiais)"
+    }
+  ],
+  "id_no_debate": "L56",
+  "leitura_checada": "'desajo' = deságio/desconto. Leitura: a proposta de Flávio de comprar dívidas copia medida que o governo já enviou ao Congresso: comprar dívidas por leilão com desconto de 90% a 95%.",
+  "leitura_incerta": true
+}

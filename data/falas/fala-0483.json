@@ -1,0 +1,111 @@
+{
+  "id": "fala-0483",
+  "slug": "flavio-globo-cada-vez-menor-percentual-governo-federal-coloca-tratamento",
+  "evento_id": "debate-globo-2turno-2026-10-23",
+  "candidato": "flavio-bolsonaro",
+  "lado": "oposicao-flavio-pl",
+  "minuto": "Bloco 2 — pergunta 3 · clipe g1 06:01",
+  "url_trecho": "https://youtu.be/1FBddn-4QeM?t=361",
+  "frase_literal": "Cada vez é menor o percentual que o governo federal coloca para o tratamento da saúde em todo o Brasil",
+  "literal": true,
+  "variantes_literais": [],
+  "tema": "saude",
+  "veredito": "falta-contexto",
+  "resumo_uma_frase": "A fatia da União no gasto público com saúde caiu de 45,3% em 2012 para 37,6% em 2022 (Ipea), mas a queda ocorreu sobretudo antes do atual governo, e não localizei dado oficial por esfera para 2023–2025.",
+  "explicacao_simples": [
+    "Segundo o Ipea, em 2012 a União respondia por 45,3% do gasto em ações e serviços públicos de saúde; em 2022, por 37,6%.",
+    "Estados e municípios passaram a pagar uma parte maior no mesmo período.",
+    "Em 2023 a União aplicou R$ 179,8 bilhões, R$ 7,2 bilhões acima do mínimo (TCU); a fatia por esfera de 2023 em diante não foi localizada."
+  ],
+  "o_que_e_verdade": [
+    "A participação federal caiu ao longo de uma década."
+  ],
+  "o_que_nao_se_sustenta": [
+    "Atribuir a tendência ao atual governo sem dado de 2023–2025."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Participação da União no gasto com ASPS",
+      "valor": 45.3,
+      "unidade": "%",
+      "periodo": "2012",
+      "fonte": {
+        "nome": "Ipea — 'Gasto Público em Saúde' (Beneficiômetro)",
+        "url": "https://www.ipea.gov.br/portal/beneficiometro/beneficiometro-artigos/saude/gasto-publico-em-saude",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Participação da União no gasto com ASPS",
+      "valor": 37.6,
+      "unidade": "%",
+      "periodo": "2022",
+      "fonte": {
+        "nome": "Ipea — 'Gasto Público em Saúde' (Beneficiômetro)",
+        "url": "https://www.ipea.gov.br/portal/beneficiometro/beneficiometro-artigos/saude/gasto-publico-em-saude",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "ASPS aplicadas pela União (valores corrigidos pelo IPCA de dez/2023)",
+      "valor": 179.81,
+      "unidade": "R$ bilhões",
+      "periodo": "2023",
+      "fonte": {
+        "nome": "TCU — Fatos Fiscais: Saúde (ASPS aplicadas pela União em 2023)",
+        "url": "https://sites.tcu.gov.br/fatos-fiscais/saude.html",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-legislativo"
+      }
+    }
+  ],
+  "fontes_primarias": [
+    {
+      "nome": "Ipea — 'Gasto Público em Saúde' (Beneficiômetro)",
+      "url": "https://www.ipea.gov.br/portal/beneficiometro/beneficiometro-artigos/saude/gasto-publico-em-saude",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    },
+    {
+      "nome": "TCU — Fatos Fiscais: Saúde (ASPS aplicadas pela União em 2023)",
+      "url": "https://sites.tcu.gov.br/fatos-fiscais/saude.html",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Ipea — 'Gasto Público em Saúde' (Beneficiômetro)",
+      "url": "https://www.ipea.gov.br/portal/beneficiometro/beneficiometro-artigos/saude/gasto-publico-em-saude",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    },
+    {
+      "nome": "TCU — Fatos Fiscais: Saúde (ASPS aplicadas pela União em 2023)",
+      "url": "https://sites.tcu.gov.br/fatos-fiscais/saude.html",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/17_debate_globo_2026-10-23_checagem.md",
+  "atualizado_em": "2026-10-24",
+  "lacunas": [
+    "Série do SIOPS por esfera para 2023–2025 não acessada.",
+    "Checagem feita apenas com fontes oficiais (governo federal, estadual, Legislativo, Judiciário, TSE, órgãos intergovernamentais e governos estrangeiros), sem imprensa nem agências de checagem, por decisão editorial desta edição."
+  ],
+  "changelog": [
+    {
+      "data": "2026-10-24",
+      "o_que_mudou": "publicação (checagem só com fontes oficiais)"
+    }
+  ],
+  "id_no_debate": "F69",
+  "leitura_checada": "A participação do governo federal no financiamento da saúde é cada vez menor.",
+  "leitura_incerta": false
+}

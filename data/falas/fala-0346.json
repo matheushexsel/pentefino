@@ -1,0 +1,199 @@
+{
+  "id": "fala-0346",
+  "slug": "flavio-globo-agora-neste-ano-tcu-tribunal-contas-uniao-acaba",
+  "evento_id": "debate-globo-2turno-2026-10-23",
+  "candidato": "flavio-bolsonaro",
+  "lado": "oposicao-flavio-pl",
+  "minuto": "Bloco 1 — pergunta 1 · clipe g1 01:27",
+  "url_trecho": "https://youtu.be/woYkhYICZ2k?t=87",
+  "frase_literal": "Agora, neste ano, o TCU, o Tribunal de Contas da União, acaba de soltar um relatório que existem mais de 11.500 obras paralisadas do atual governo",
+  "literal": true,
+  "variantes_literais": [],
+  "tema": "infraestrutura",
+  "veredito": "impreciso",
+  "resumo_uma_frase": "O número (11.469) é do relatório divulgado em julho de 2025, com dados de abr/2025; a extração divulgada em ago/2026 aponta 4.215 paralisadas, e a maioria das obras paradas começou antes de 2023.",
+  "explicacao_simples": [
+    "O TCU divulgou em 30/07/2025 que, até abril de 2025, 11.469 de 22.621 obras estavam paralisadas (50,7%).",
+    "A extração seguinte, divulgada em 05/08/2026 com dados de abril de 2026, mostra 4.215 paralisadas; o TCU passou a separar 3.737 obras canceladas e registrou 6.141 concluídas, o que impede comparação direta.",
+    "Das 11.469 obras paralisadas em abr/2025, só 1.802 tinham início de obra em 2023 ou depois; 8.831 começaram antes de 2023 (836 sem data)."
+  ],
+  "o_que_e_verdade": [
+    "Houve um relatório do TCU com cerca de 11,5 mil obras paralisadas (11.469, dados de abr/2025).",
+    "Em abr/2024 o painel registrava 11.944 paralisadas."
+  ],
+  "o_que_nao_se_sustenta": [
+    "'Neste ano': o dado é de 2025; o de 2026 é 4.215.",
+    "'Mais de 11.500': o número oficial é 11.469.",
+    "'Do atual governo': cerca de 77% das paralisadas de abr/2025 tinham início antes de 2023 e apenas ~16% começaram de 2023 em diante."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Obras paralisadas — painel TCU",
+      "valor": 11469,
+      "unidade": "obras",
+      "periodo": "abr/2025 (divulgado 30/07/2025)",
+      "fonte": {
+        "nome": "TCU — 'Metade das obras financiadas com recursos federais estão paradas' (sessão de 30/07/2025; dados de abr/2025)",
+        "url": "https://portal.tcu.gov.br/imprensa/noticias/metade-das-obras-financiadas-com-recursos-federais-estao-paradas",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-legislativo"
+      }
+    },
+    {
+      "rotulo": "Obras mapeadas",
+      "valor": 22621,
+      "unidade": "obras",
+      "periodo": "abr/2025",
+      "fonte": {
+        "nome": "TCU — 'Metade das obras financiadas com recursos federais estão paradas' (sessão de 30/07/2025; dados de abr/2025)",
+        "url": "https://portal.tcu.gov.br/imprensa/noticias/metade-das-obras-financiadas-com-recursos-federais-estao-paradas",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-legislativo"
+      }
+    },
+    {
+      "rotulo": "Obras paralisadas — painel TCU",
+      "valor": 4215,
+      "unidade": "obras",
+      "periodo": "abr/2026 (divulgado 05/08/2026)",
+      "fonte": {
+        "nome": "TCU — Painel de Obras Paralisadas (Power BI público; consulta direta ao modelo de dados, última atualização 05/08/2026; extrações ago/2022, abr/2023, abr/2024, abr/2025 e abr/2026)",
+        "url": "https://paineis.tcu.gov.br/pub/?workspaceId=8bfbd0cc-f2cd-4e1c-8cde-6abfdffea6a8&reportId=013930b6-b989-41c3-bf00-085dc65109de&painel=ObrasParalisadas",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-legislativo"
+      }
+    },
+    {
+      "rotulo": "Obras canceladas segregadas do rol de paralisadas",
+      "valor": 3737,
+      "unidade": "obras",
+      "periodo": "abr/2026",
+      "fonte": {
+        "nome": "TCU — Ata nº 30/2026-Plenário (05/08/2026), Comunicação da Presidência sobre a nova extração do Painel (dados de abr/2026)",
+        "url": "https://www.tcu.gov.br/atas/2026/PLENARIO/TCU_ATA_0_N_2026_30.PDF",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-legislativo"
+      }
+    },
+    {
+      "rotulo": "Obras concluídas",
+      "valor": 6141,
+      "unidade": "obras",
+      "periodo": "abr/2026",
+      "fonte": {
+        "nome": "TCU — Ata nº 30/2026-Plenário (05/08/2026), Comunicação da Presidência sobre a nova extração do Painel (dados de abr/2026)",
+        "url": "https://www.tcu.gov.br/atas/2026/PLENARIO/TCU_ATA_0_N_2026_30.PDF",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-legislativo"
+      }
+    },
+    {
+      "rotulo": "Paralisadas em abr/2025 com início de obra em 2023-2025",
+      "valor": 1802,
+      "unidade": "obras",
+      "periodo": "abr/2025",
+      "fonte": {
+        "nome": "TCU — Painel de Obras Paralisadas (Power BI público; consulta direta ao modelo de dados, última atualização 05/08/2026; extrações ago/2022, abr/2023, abr/2024, abr/2025 e abr/2026)",
+        "url": "https://paineis.tcu.gov.br/pub/?workspaceId=8bfbd0cc-f2cd-4e1c-8cde-6abfdffea6a8&reportId=013930b6-b989-41c3-bf00-085dc65109de&painel=ObrasParalisadas",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-legislativo"
+      }
+    },
+    {
+      "rotulo": "Paralisadas em abr/2025 com início antes de 2023",
+      "valor": 8831,
+      "unidade": "obras",
+      "periodo": "abr/2025",
+      "fonte": {
+        "nome": "TCU — Painel de Obras Paralisadas (Power BI público; consulta direta ao modelo de dados, última atualização 05/08/2026; extrações ago/2022, abr/2023, abr/2024, abr/2025 e abr/2026)",
+        "url": "https://paineis.tcu.gov.br/pub/?workspaceId=8bfbd0cc-f2cd-4e1c-8cde-6abfdffea6a8&reportId=013930b6-b989-41c3-bf00-085dc65109de&painel=ObrasParalisadas",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-legislativo"
+      }
+    },
+    {
+      "rotulo": "Paralisadas em abr/2025 sem data de início",
+      "valor": 836,
+      "unidade": "obras",
+      "periodo": "abr/2025",
+      "fonte": {
+        "nome": "TCU — Painel de Obras Paralisadas (Power BI público; consulta direta ao modelo de dados, última atualização 05/08/2026; extrações ago/2022, abr/2023, abr/2024, abr/2025 e abr/2026)",
+        "url": "https://paineis.tcu.gov.br/pub/?workspaceId=8bfbd0cc-f2cd-4e1c-8cde-6abfdffea6a8&reportId=013930b6-b989-41c3-bf00-085dc65109de&painel=ObrasParalisadas",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-legislativo"
+      }
+    },
+    {
+      "rotulo": "Obras paralisadas — painel TCU",
+      "valor": 11944,
+      "unidade": "obras",
+      "periodo": "abr/2024",
+      "fonte": {
+        "nome": "TCU — Painel de Obras Paralisadas (Power BI público; consulta direta ao modelo de dados, última atualização 05/08/2026; extrações ago/2022, abr/2023, abr/2024, abr/2025 e abr/2026)",
+        "url": "https://paineis.tcu.gov.br/pub/?workspaceId=8bfbd0cc-f2cd-4e1c-8cde-6abfdffea6a8&reportId=013930b6-b989-41c3-bf00-085dc65109de&painel=ObrasParalisadas",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-legislativo"
+      }
+    }
+  ],
+  "fontes_primarias": [
+    {
+      "nome": "TCU — 'Metade das obras financiadas com recursos federais estão paradas' (sessão de 30/07/2025; dados de abr/2025)",
+      "url": "https://portal.tcu.gov.br/imprensa/noticias/metade-das-obras-financiadas-com-recursos-federais-estao-paradas",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    },
+    {
+      "nome": "TCU — Ata nº 30/2026-Plenário (05/08/2026), Comunicação da Presidência sobre a nova extração do Painel (dados de abr/2026)",
+      "url": "https://www.tcu.gov.br/atas/2026/PLENARIO/TCU_ATA_0_N_2026_30.PDF",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    },
+    {
+      "nome": "TCU — Painel de Obras Paralisadas (Power BI público; consulta direta ao modelo de dados, última atualização 05/08/2026; extrações ago/2022, abr/2023, abr/2024, abr/2025 e abr/2026)",
+      "url": "https://paineis.tcu.gov.br/pub/?workspaceId=8bfbd0cc-f2cd-4e1c-8cde-6abfdffea6a8&reportId=013930b6-b989-41c3-bf00-085dc65109de&painel=ObrasParalisadas",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "TCU — 'Metade das obras financiadas com recursos federais estão paradas' (sessão de 30/07/2025; dados de abr/2025)",
+      "url": "https://portal.tcu.gov.br/imprensa/noticias/metade-das-obras-financiadas-com-recursos-federais-estao-paradas",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    },
+    {
+      "nome": "TCU — Ata nº 30/2026-Plenário (05/08/2026), Comunicação da Presidência sobre a nova extração do Painel (dados de abr/2026)",
+      "url": "https://www.tcu.gov.br/atas/2026/PLENARIO/TCU_ATA_0_N_2026_30.PDF",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    },
+    {
+      "nome": "TCU — Painel de Obras Paralisadas (Power BI público; consulta direta ao modelo de dados, última atualização 05/08/2026; extrações ago/2022, abr/2023, abr/2024, abr/2025 e abr/2026)",
+      "url": "https://paineis.tcu.gov.br/pub/?workspaceId=8bfbd0cc-f2cd-4e1c-8cde-6abfdffea6a8&reportId=013930b6-b989-41c3-bf00-085dc65109de&painel=ObrasParalisadas",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/17_debate_globo_2026-10-23_checagem.md",
+  "atualizado_em": "2026-10-24",
+  "lacunas": [
+    "A mudança de critério de 2026 (canceladas fora do rol; Portaria SEGES/MGI citada pela imprensa não foi lida) torna a série não comparável.",
+    "'Ano de início' é o campo do painel; obras sem data foram mantidas à parte.",
+    "Checagem feita apenas com fontes oficiais (governo federal, estadual, Legislativo, Judiciário, TSE, órgãos intergovernamentais e governos estrangeiros), sem imprensa nem agências de checagem, por decisão editorial desta edição."
+  ],
+  "changelog": [
+    {
+      "data": "2026-10-24",
+      "o_que_mudou": "publicação (checagem só com fontes oficiais)"
+    }
+  ],
+  "id_no_debate": "F02",
+  "leitura_checada": "'Mais de 11.500 obras paralisadas' em relatório do TCU 'deste ano' (2026), atribuídas ao atual governo.",
+  "leitura_incerta": false
+}

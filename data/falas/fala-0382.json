@@ -1,0 +1,135 @@
+{
+  "id": "fala-0382",
+  "slug": "lula-globo-nunca-exportou-tanto-nesse-pais",
+  "evento_id": "debate-globo-2turno-2026-10-23",
+  "candidato": "lula",
+  "lado": "governo-lula-pt",
+  "minuto": "Bloco 1 — pergunta 3 · clipe g1 01:37",
+  "url_trecho": "https://youtu.be/Z2AA0h2wr4U?t=97",
+  "frase_literal": "nunca se exportou tanto nesse país",
+  "literal": true,
+  "variantes_literais": [],
+  "tema": "economia",
+  "veredito": "verdadeiro",
+  "resumo_uma_frase": "As exportações brasileiras bateram recorde em 2025 (US$ 348,3 bi) e o acumulado de jan–set/2026 (US$ 284,7 bi) é o maior da série para o período.",
+  "explicacao_simples": [
+    "Segundo o Comex Stat (MDIC), o Brasil exportou US$ 348,3 bilhões em 2025, recorde anual, acima de 2023 (US$ 339,7 bi).",
+    "De janeiro a setembro de 2026 foram US$ 284,7 bilhões, contra US$ 257,9 bi no mesmo período de 2025.",
+    "O volume físico também é recorde: 859,8 milhões de t em 2025 e 642,4 milhões de t em jan–set/2026."
+  ],
+  "o_que_e_verdade": [
+    "2025 = maior valor anual exportado da série; jan–set/2026 = maior acumulado para esses meses.",
+    "Volume (kg) também recorde em 2025 e em jan–set/2026."
+  ],
+  "o_que_nao_se_sustenta": [
+    "Valores em dólares correntes (sem correção pela inflação americana)."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Exportações totais FOB",
+      "valor": 348.28,
+      "unidade": "US$ bilhões",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "MDIC/Secex – Comex Stat, API 'general' (exportações FOB US$ e kg; dados atualizados em 06/10/2026 até set/2026)",
+        "url": "https://api-comexstat.mdic.gov.br/general?language=pt",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Exportações totais FOB",
+      "valor": 339.7,
+      "unidade": "US$ bilhões",
+      "periodo": "2023",
+      "fonte": {
+        "nome": "MDIC/Secex – Comex Stat, API 'general' (exportações FOB US$ e kg; dados atualizados em 06/10/2026 até set/2026)",
+        "url": "https://api-comexstat.mdic.gov.br/general?language=pt",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Exportações totais FOB",
+      "valor": 334.14,
+      "unidade": "US$ bilhões",
+      "periodo": "2022",
+      "fonte": {
+        "nome": "MDIC/Secex – Comex Stat, API 'general' (exportações FOB US$ e kg; dados atualizados em 06/10/2026 até set/2026)",
+        "url": "https://api-comexstat.mdic.gov.br/general?language=pt",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Exportações totais FOB",
+      "valor": 284.65,
+      "unidade": "US$ bilhões",
+      "periodo": "jan–set/2026",
+      "fonte": {
+        "nome": "MDIC/Secex – Comex Stat, API 'general' (exportações FOB US$ e kg; dados atualizados em 06/10/2026 até set/2026)",
+        "url": "https://api-comexstat.mdic.gov.br/general?language=pt",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Exportações totais FOB",
+      "valor": 257.89,
+      "unidade": "US$ bilhões",
+      "periodo": "jan–set/2025",
+      "fonte": {
+        "nome": "MDIC/Secex – Comex Stat, API 'general' (exportações FOB US$ e kg; dados atualizados em 06/10/2026 até set/2026)",
+        "url": "https://api-comexstat.mdic.gov.br/general?language=pt",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Exportações em volume",
+      "valor": 859.8,
+      "unidade": "milhões de toneladas",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "MDIC/Secex – Comex Stat, API 'general' (exportações FOB US$ e kg; dados atualizados em 06/10/2026 até set/2026)",
+        "url": "https://api-comexstat.mdic.gov.br/general?language=pt",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    }
+  ],
+  "fontes_primarias": [
+    {
+      "nome": "MDIC/Secex – Comex Stat, API 'general' (exportações FOB US$ e kg; dados atualizados em 06/10/2026 até set/2026)",
+      "url": "https://api-comexstat.mdic.gov.br/general?language=pt",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "MDIC/Secex – Comex Stat, API 'general' (exportações FOB US$ e kg; dados atualizados em 06/10/2026 até set/2026)",
+      "url": "https://api-comexstat.mdic.gov.br/general?language=pt",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/17_debate_globo_2026-10-23_checagem.md",
+  "atualizado_em": "2026-10-24",
+  "lacunas": [
+    "Checagem feita apenas com fontes oficiais (governo federal, estadual, Legislativo, Judiciário, TSE, órgãos intergovernamentais e governos estrangeiros), sem imprensa nem agências de checagem, por decisão editorial desta edição."
+  ],
+  "changelog": [
+    {
+      "data": "2026-10-24",
+      "o_que_mudou": "publicação (checagem só com fontes oficiais)"
+    }
+  ],
+  "id_no_debate": "L19",
+  "leitura_checada": "Leitura literal da legenda.",
+  "leitura_incerta": false
+}

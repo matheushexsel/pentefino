@@ -1,0 +1,60 @@
+{
+  "id": "fala-0525",
+  "slug": "flavio-globo-will-willer-amigo-meu-socio-socio-dele-seu",
+  "evento_id": "debate-globo-2turno-2026-10-23",
+  "candidato": "flavio-bolsonaro",
+  "lado": "oposicao-flavio-pl",
+  "minuto": "Bloco 4 — tema livre · clipe g1 03:19",
+  "url_trecho": "https://youtu.be/rUnAbA73RH0?t=199",
+  "frase_literal": "o Will [Willer] é um amigo, não é meu sócio. O sócio dele é o seu o seu advogado, é o seu, é o ex-ministro da Dilma chamado Eugênio Aragão",
+  "literal": true,
+  "variantes_literais": [],
+  "tema": "corrupcao",
+  "veredito": "insustentavel",
+  "resumo_uma_frase": "O quadro societário de escritórios de advocacia não foi conferido em fonte oficial (Receita/CNPJ); a sociedade Willer–Aragão aparece só em catálogo privado.",
+  "explicacao_simples": [
+    "A sociedade de advogados é registrada na OAB e no CNPJ da Receita, e nenhuma dessas bases foi acessada nesta checagem.",
+    "A pesquisa por parte e advogado no portal do STF retornou erro.",
+    "Também não há registro oficial que permita dizer se Flávio é ou não sócio de Willer Tomaz."
+  ],
+  "o_que_e_verdade": [],
+  "o_que_nao_se_sustenta": [],
+  "numeros": [],
+  "fontes_primarias": [
+    {
+      "nome": "STF — pesquisa de processos por parte (erro ao consultar)",
+      "url": "https://portal.stf.jus.br/processos/listarPartes.asp",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-judiciario"
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "STF — pesquisa de processos por parte (erro ao consultar)",
+      "url": "https://portal.stf.jus.br/processos/listarPartes.asp",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-judiciario"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/17_debate_globo_2026-10-23_checagem.md",
+  "atualizado_em": "2026-10-24",
+  "lacunas": [
+    "QSA/CNPJ da Receita Federal da sociedade \"Aragão & Tomaz\" (se existir) e de empresas de Willer Tomaz (ex.: Alcazar) não consultados; dado aberto do CNPJ é um arquivo de vários GB.",
+    "Cadastro Nacional das Sociedades de Advogados (OAB) não é fonte oficial governamental pelas regras.",
+    "Checagem feita apenas com fontes oficiais (governo federal, estadual, Legislativo, Judiciário, TSE, órgãos intergovernamentais e governos estrangeiros), sem imprensa nem agências de checagem, por decisão editorial desta edição."
+  ],
+  "changelog": [
+    {
+      "data": "2026-10-24",
+      "o_que_mudou": "publicação (checagem só com fontes oficiais)"
+    }
+  ],
+  "id_no_debate": "F95",
+  "leitura_checada": "Flávio diz que Willer Tomaz é amigo, não sócio, e que o sócio de Willer é Eugênio Aragão, ex-ministro da Justiça de Dilma e advogado de Lula.",
+  "leitura_incerta": false,
+  "nao_verificado": true
+}

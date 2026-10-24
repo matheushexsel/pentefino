@@ -1,0 +1,96 @@
+{
+  "id": "fala-0416",
+  "slug": "flavio-globo-doutor-daniel-governador-eleito",
+  "evento_id": "debate-globo-2turno-2026-10-23",
+  "candidato": "flavio-bolsonaro",
+  "lado": "oposicao-flavio-pl",
+  "minuto": "Bloco 1 — pergunta 5 · clipe g1 03:06",
+  "url_trecho": "https://youtu.be/K-kGhpDV4zA?t=186",
+  "frase_literal": "doutor Daniel, governador eleito do Pará",
+  "literal": true,
+  "variantes_literais": [],
+  "tema": "eleicao-2026",
+  "veredito": "verdadeiro",
+  "resumo_uma_frase": "O TSE registra Dr. Daniel (Podemos) eleito governador do Pará no 1º turno, com 51,39% dos votos válidos.",
+  "explicacao_simples": [
+    "Dr. Daniel venceu Hana Ghassan (MDB), que teve 46,55%.",
+    "A coligação dele incluía o PL, partido de Flávio.",
+    "A vitória foi no 1º turno, por maioria absoluta dos votos válidos."
+  ],
+  "o_que_e_verdade": [
+    "Dr. Daniel (PODE) eleito no 1º turno com 2.345.721 votos (51,39%); coligação PODE/PL/DC/NOVO/Renovação Solidária — TSE."
+  ],
+  "o_que_nao_se_sustenta": [],
+  "numeros": [
+    {
+      "rotulo": "Dr. Daniel (Podemos), PA",
+      "valor": 51.39,
+      "unidade": "% dos votos válidos",
+      "periodo": "1º turno, 04/10/2026",
+      "fonte": {
+        "nome": "TSE — dados abertos, votacao_candidato_munzona_2026 (arquivo gerado 24/10/2026 05:31)",
+        "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2026.zip",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-judiciario"
+      }
+    },
+    {
+      "rotulo": "Hana Ghassan (MDB), PA",
+      "valor": 46.55,
+      "unidade": "% dos votos válidos",
+      "periodo": "1º turno, 04/10/2026",
+      "fonte": {
+        "nome": "TSE — dados abertos, votacao_candidato_munzona_2026 (arquivo gerado 24/10/2026 05:31)",
+        "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2026.zip",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-judiciario"
+      }
+    }
+  ],
+  "fontes_primarias": [
+    {
+      "nome": "TSE — dados abertos, votacao_candidato_munzona_2026 (arquivo gerado 24/10/2026 05:31)",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2026.zip",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-judiciario"
+    },
+    {
+      "nome": "TSE — dados abertos, consulta_cand_2026 (situação de totalização e coligações; arquivo gerado 24/10/2026)",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand/consulta_cand_2026.zip",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-judiciario"
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "TSE — dados abertos, votacao_candidato_munzona_2026 (arquivo gerado 24/10/2026 05:31)",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2026.zip",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-judiciario"
+    },
+    {
+      "nome": "TSE — dados abertos, consulta_cand_2026 (situação de totalização e coligações; arquivo gerado 24/10/2026)",
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand/consulta_cand_2026.zip",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-judiciario"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/17_debate_globo_2026-10-23_checagem.md",
+  "atualizado_em": "2026-10-24",
+  "lacunas": [
+    "Checagem feita apenas com fontes oficiais (governo federal, estadual, Legislativo, Judiciário, TSE, órgãos intergovernamentais e governos estrangeiros), sem imprensa nem agências de checagem, por decisão editorial desta edição."
+  ],
+  "changelog": [
+    {
+      "data": "2026-10-24",
+      "o_que_mudou": "publicação (checagem só com fontes oficiais)"
+    }
+  ],
+  "id_no_debate": "F36",
+  "leitura_checada": "\"Doutor Daniel\" = Dr. Daniel Santos (Podemos), candidato a governador do Pará.",
+  "leitura_incerta": false
+}

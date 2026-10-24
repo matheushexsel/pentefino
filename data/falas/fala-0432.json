@@ -1,0 +1,196 @@
+{
+  "id": "fala-0432",
+  "slug": "flavio-globo-antigamente-governo-dele-bolsa-familia-era-ali-r",
+  "evento_id": "debate-globo-2turno-2026-10-23",
+  "candidato": "flavio-bolsonaro",
+  "lado": "oposicao-flavio-pl",
+  "minuto": "Bloco 1 — pergunta 6 · clipe g1 05:33",
+  "url_trecho": "https://youtu.be/vASlNIMp2PM?t=333",
+  "frase_literal": "Antigamente, no governo dele, o Bolsa Família era ali R$ 75, R$ 120 que você recebia, em média era R$ 190. O presidente Bolsonaro passou para no mínimo R$ 600",
+  "literal": true,
+  "variantes_literais": [],
+  "tema": "pobreza-programas-sociais",
+  "veredito": "impreciso",
+  "resumo_uma_frase": "O benefício médio foi de R$ 63 a R$ 97 nos governos Lula (2004–2010) e só chegou a cerca de R$ 190 em 2019–2020, já no governo Bolsonaro; o mínimo de R$ 600 valeu só de agosto a dezembro de 2022.",
+  "explicacao_simples": [
+    "Pelos dados do Portal da Transparência (via Ipeadata), o benefício médio em dezembro foi de R$ 66,93 (2004), R$ 75,26 (2007) e R$ 96,97 (2010).",
+    "A média de R$ 190 aparece em dezembro de 2019 (R$ 190,79) e 2020 (R$ 191,31), ambos anos do governo Bolsonaro.",
+    "Os valores são nominais: corrigidos pelo IPCA, os R$ 96,97 de dez/2010 equivalem a cerca de R$ 234 de set/2026."
+  ],
+  "o_que_e_verdade": [
+    "Os valores de R$ 75 (2007) e R$ 120 (2011, já com Dilma) batem com as médias nominais da época.",
+    "Houve mínimo de R$ 600 entre agosto e dezembro de 2022 (EC 123/2022)."
+  ],
+  "o_que_nao_se_sustenta": [
+    "A média de R$ 190 não é do governo Lula: é de 2019–2020.",
+    "O mínimo de R$ 600 era temporário; a lei permanente deixada garantia R$ 400."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Benefício médio em dezembro (valor/famílias, aritmética própria)",
+      "valor": 66.93,
+      "unidade": "R$",
+      "periodo": "dez/2004",
+      "fonte": {
+        "nome": "Ipeadata (origem MDS/Portal da Transparência) — série VAL_PBF, valor total dos benefícios em dezembro",
+        "url": "http://www.ipeadata.gov.br/api/odata4/ValoresSerie(SERCODIGO='VAL_PBF')",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Benefício médio em dezembro",
+      "valor": 75.26,
+      "unidade": "R$",
+      "periodo": "dez/2007",
+      "fonte": {
+        "nome": "Ipeadata (origem MDS/Portal da Transparência) — série VAL_PBF, valor total dos benefícios em dezembro",
+        "url": "http://www.ipeadata.gov.br/api/odata4/ValoresSerie(SERCODIGO='VAL_PBF')",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Benefício médio em dezembro",
+      "valor": 96.97,
+      "unidade": "R$",
+      "periodo": "dez/2010",
+      "fonte": {
+        "nome": "Ipeadata (origem MDS/Portal da Transparência) — série VAL_PBF, valor total dos benefícios em dezembro",
+        "url": "http://www.ipeadata.gov.br/api/odata4/ValoresSerie(SERCODIGO='VAL_PBF')",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Benefício médio em dezembro",
+      "valor": 190.79,
+      "unidade": "R$",
+      "periodo": "dez/2019",
+      "fonte": {
+        "nome": "Ipeadata (origem MDS/Portal da Transparência) — série VAL_PBF, valor total dos benefícios em dezembro",
+        "url": "http://www.ipeadata.gov.br/api/odata4/ValoresSerie(SERCODIGO='VAL_PBF')",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Benefício médio de dez/2010 corrigido pelo IPCA (aritmética própria)",
+      "valor": 234,
+      "unidade": "R$ de set/2026",
+      "periodo": "dez/2010 → set/2026",
+      "fonte": {
+        "nome": "Banco Central — SGS 433 (IPCA mensal), usado para atualizar valores",
+        "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.433/dados?formato=json&dataInicial=01/01/2003",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Famílias beneficiárias",
+      "valor": 12778220,
+      "unidade": "famílias",
+      "periodo": "dez/2010",
+      "fonte": {
+        "nome": "Ipeadata (origem MDS/Portal da Transparência) — série FAM_PBF, famílias beneficiárias em dezembro",
+        "url": "http://www.ipeadata.gov.br/api/odata4/ValoresSerie(SERCODIGO='FAM_PBF')",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    }
+  ],
+  "fontes_primarias": [
+    {
+      "nome": "Ipeadata (origem MDS/Portal da Transparência) — série FAM_PBF, famílias beneficiárias em dezembro",
+      "url": "http://www.ipeadata.gov.br/api/odata4/ValoresSerie(SERCODIGO='FAM_PBF')",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    },
+    {
+      "nome": "Ipeadata (origem MDS/Portal da Transparência) — série VAL_PBF, valor total dos benefícios em dezembro",
+      "url": "http://www.ipeadata.gov.br/api/odata4/ValoresSerie(SERCODIGO='VAL_PBF')",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    },
+    {
+      "nome": "Banco Central — SGS 433 (IPCA mensal), usado para atualizar valores",
+      "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.433/dados?formato=json&dataInicial=01/01/2003",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    },
+    {
+      "nome": "Planalto — Emenda Constitucional 123, de 14/07/2022",
+      "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc123.htm",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    },
+    {
+      "nome": "Planalto — Lei 14.342, de 18/05/2022 (benefício extraordinário do Auxílio Brasil, piso de R$ 400)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14342.htm",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    }
+  ],
+  "base_legal": [
+    {
+      "norma": "EC 123/2022, art. 5º, I",
+      "o_que_diz": "Acréscimo de R$ 200 só de 1º/08 a 31/12/2022.",
+      "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc123.htm"
+    },
+    {
+      "norma": "Lei 14.342/2022",
+      "o_que_diz": "Piso permanente de R$ 400 no Auxílio Brasil.",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14342.htm"
+    }
+  ],
+  "checagens_externas": [],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Ipeadata (origem MDS/Portal da Transparência) — série FAM_PBF, famílias beneficiárias em dezembro",
+      "url": "http://www.ipeadata.gov.br/api/odata4/ValoresSerie(SERCODIGO='FAM_PBF')",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    },
+    {
+      "nome": "Ipeadata (origem MDS/Portal da Transparência) — série VAL_PBF, valor total dos benefícios em dezembro",
+      "url": "http://www.ipeadata.gov.br/api/odata4/ValoresSerie(SERCODIGO='VAL_PBF')",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    },
+    {
+      "nome": "Banco Central — SGS 433 (IPCA mensal), usado para atualizar valores",
+      "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.433/dados?formato=json&dataInicial=01/01/2003",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    },
+    {
+      "nome": "Planalto — Emenda Constitucional 123, de 14/07/2022",
+      "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc123.htm",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    },
+    {
+      "nome": "Planalto — Lei 14.342, de 18/05/2022 (benefício extraordinário do Auxílio Brasil, piso de R$ 400)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14342.htm",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/17_debate_globo_2026-10-23_checagem.md",
+  "atualizado_em": "2026-10-24",
+  "lacunas": [
+    "A série do Ipeadata para 2021–2022 não inclui o benefício extraordinário pago à parte; por isso não usei as médias desses dois anos.",
+    "Checagem feita apenas com fontes oficiais (governo federal, estadual, Legislativo, Judiciário, TSE, órgãos intergovernamentais e governos estrangeiros), sem imprensa nem agências de checagem, por decisão editorial desta edição."
+  ],
+  "changelog": [
+    {
+      "data": "2026-10-24",
+      "o_que_mudou": "publicação (checagem só com fontes oficiais)"
+    }
+  ],
+  "id_no_debate": "F42",
+  "leitura_checada": "No governo Lula o Bolsa Família era R$ 75 a R$ 120 e em média R$ 190; Bolsonaro passou para no mínimo R$ 600.",
+  "leitura_incerta": false
+}

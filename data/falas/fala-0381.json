@@ -1,0 +1,124 @@
+{
+  "id": "fala-0381",
+  "slug": "lula-globo-duvido-houve-quantidade-investimento-agricultura-familiar-houve-meu",
+  "evento_id": "debate-globo-2turno-2026-10-23",
+  "candidato": "lula",
+  "lado": "governo-lula-pt",
+  "minuto": "Bloco 1 — pergunta 3 · clipe g1 01:22",
+  "url_trecho": "https://youtu.be/Z2AA0h2wr4U?t=82",
+  "frase_literal": "Eu duvido que houve a quantidade de investimento na agricultura familiar que houve no meu governo. Nos quatro anos",
+  "literal": true,
+  "variantes_literais": [],
+  "tema": "economia",
+  "veredito": "verdadeiro",
+  "resumo_uma_frase": "O crédito do Pronaf (agricultura familiar) nos anos de Lula 3 supera o de cada ano do governo Bolsonaro, também em termos reais.",
+  "explicacao_simples": [
+    "O Pronaf é a linha de crédito rural da agricultura familiar; o Banco Central registra cada contrato.",
+    "A preços de 2025, o Pronaf somou R$ 186 bi em 2019–2022 e R$ 247 bi de jan/2023 a set/2026 (R$ 194 bi só em 2023–2025, três anos).",
+    "Cada ano de 2023 a 2025 (R$ 60–68 bi reais) ficou acima do melhor ano de Bolsonaro (R$ 57 bi reais em 2022)."
+  ],
+  "o_que_e_verdade": [
+    "Pronaf contratado: 2019 R$ 26,0 bi; 2020 R$ 31,2 bi; 2021 R$ 40,2 bi; 2022 R$ 49,8 bi; 2023 R$ 55,2 bi; 2024 R$ 64,5 bi; 2025 R$ 66,1 bi; jan–set/2026 R$ 55,3 bi (nominais).",
+    "Média anual real: R$ 46,5 bi (2019–2022) contra R$ 64,8 bi (2023–2025)."
+  ],
+  "o_que_nao_se_sustenta": [
+    "Crédito contratado é financiamento (em grande parte de bancos públicos, com juros equalizados), não gasto direto do orçamento."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Pronaf contratado",
+      "valor": 49.8,
+      "unidade": "R$ bilhões (nominal)",
+      "periodo": "2022",
+      "fonte": {
+        "nome": "Banco Central – SICOR/Matriz de Dados do Crédito Rural, API OData 'ProgramaSubprograma' (valores contratados de custeio, investimento, comercialização e industrialização, por mês de emissão)",
+        "url": "https://olinda.bcb.gov.br/olinda/servico/SICOR/versao/v2/odata/ProgramaSubprograma",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Pronaf contratado",
+      "valor": 66.1,
+      "unidade": "R$ bilhões (nominal)",
+      "periodo": "2025",
+      "fonte": {
+        "nome": "Banco Central – SICOR/Matriz de Dados do Crédito Rural, API OData 'ProgramaSubprograma' (valores contratados de custeio, investimento, comercialização e industrialização, por mês de emissão)",
+        "url": "https://olinda.bcb.gov.br/olinda/servico/SICOR/versao/v2/odata/ProgramaSubprograma",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Pronaf real – soma governo Bolsonaro",
+      "valor": 186.2,
+      "unidade": "R$ bilhões de 2025",
+      "periodo": "2019–2022",
+      "fonte": {
+        "nome": "Banco Central – SGS série 433 (IPCA mensal), usada para deflacionar a preços médios de 2025",
+        "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.433/dados?formato=json&dataInicial=01/01/2018&dataFinal=30/09/2026",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Pronaf real – soma governo Lula 3",
+      "valor": 247.5,
+      "unidade": "R$ bilhões de 2025",
+      "periodo": "jan/2023–set/2026",
+      "fonte": {
+        "nome": "Banco Central – SGS série 433 (IPCA mensal), usada para deflacionar a preços médios de 2025",
+        "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.433/dados?formato=json&dataInicial=01/01/2018&dataFinal=30/09/2026",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    }
+  ],
+  "fontes_primarias": [
+    {
+      "nome": "Banco Central – SICOR/Matriz de Dados do Crédito Rural, API OData 'ProgramaSubprograma' (valores contratados de custeio, investimento, comercialização e industrialização, por mês de emissão)",
+      "url": "https://olinda.bcb.gov.br/olinda/servico/SICOR/versao/v2/odata/ProgramaSubprograma",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    },
+    {
+      "nome": "Banco Central – SGS série 433 (IPCA mensal), usada para deflacionar a preços médios de 2025",
+      "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.433/dados?formato=json&dataInicial=01/01/2018&dataFinal=30/09/2026",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "Banco Central – SICOR/Matriz de Dados do Crédito Rural, API OData 'ProgramaSubprograma' (valores contratados de custeio, investimento, comercialização e industrialização, por mês de emissão)",
+      "url": "https://olinda.bcb.gov.br/olinda/servico/SICOR/versao/v2/odata/ProgramaSubprograma",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    },
+    {
+      "nome": "Banco Central – SGS série 433 (IPCA mensal), usada para deflacionar a preços médios de 2025",
+      "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.433/dados?formato=json&dataInicial=01/01/2018&dataFinal=30/09/2026",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/17_debate_globo_2026-10-23_checagem.md",
+  "atualizado_em": "2026-10-24",
+  "lacunas": [
+    "Programa identificado pelo campo 'nomePrograma' iniciado por 'PRONAF' no SICOR; valores do Plano Safra da Agricultura Familiar anunciados pelo MDA não foram obtidos (gov.br bloqueado).",
+    "Checagem feita apenas com fontes oficiais (governo federal, estadual, Legislativo, Judiciário, TSE, órgãos intergovernamentais e governos estrangeiros), sem imprensa nem agências de checagem, por decisão editorial desta edição."
+  ],
+  "changelog": [
+    {
+      "data": "2026-10-24",
+      "o_que_mudou": "publicação (checagem só com fontes oficiais)"
+    }
+  ],
+  "id_no_debate": "L18",
+  "leitura_checada": "Leitura literal da legenda.",
+  "leitura_incerta": false
+}

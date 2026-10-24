@@ -1,0 +1,102 @@
+{
+  "id": "fala-0422",
+  "slug": "lula-globo-sao-quase-1700-km-canal-15-000-km",
+  "evento_id": "debate-globo-2turno-2026-10-23",
+  "candidato": "lula",
+  "lado": "governo-lula-pt",
+  "minuto": "Bloco 1 — pergunta 6 · clipe g1 01:11",
+  "url_trecho": "https://youtu.be/vASlNIMp2PM?t=71",
+  "frase_literal": "São quase 1700 km de canal e 15.000 km de adutoras",
+  "literal": true,
+  "variantes_literais": [],
+  "tema": "infraestrutura",
+  "veredito": "exagerado",
+  "resumo_uma_frase": "O MIDR informa 477 km nos eixos Norte e Leste e 115,5 km no Ramal do Apodi; não há dado oficial localizado com 1.700 km de canais nem 15 mil km de adutoras.",
+  "explicacao_simples": [
+    "Segundo o MIDR, o PISF tem 477 km de extensão nos dois eixos principais.",
+    "Os ramais complementares acrescentam trechos (Apodi, 115,5 km; Agreste; Salgado), mas nada perto de 1.700 km em fonte oficial lida.",
+    "É possível que Lula tenha somado canais e adutoras estaduais ligados à água do São Francisco, mas ele não disse isso e não há total oficial."
+  ],
+  "o_que_e_verdade": [
+    "A transposição tem centenas de quilômetros de canais e ramais em expansão."
+  ],
+  "o_que_nao_se_sustenta": [
+    "'Quase 1.700 km de canal': o número oficial dos eixos é 477 km.",
+    "'15.000 km de adutoras': sem dado oficial localizado."
+  ],
+  "numeros": [
+    {
+      "rotulo": "Extensão dos eixos do PISF",
+      "valor": 477,
+      "unidade": "km",
+      "periodo": "projeto",
+      "fonte": {
+        "nome": "MIDR — página 'Projeto de Integração do Rio São Francisco' (477 km; 390 municípios; 12 milhões de pessoas; Ramal do Apodi 115,5 km)",
+        "url": "https://www.gov.br/mdr/pt-br/assuntos/seguranca-hidrica/projeto-sao-francisco",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    },
+    {
+      "rotulo": "Ramal do Apodi",
+      "valor": 115.5,
+      "unidade": "km",
+      "periodo": "projeto",
+      "fonte": {
+        "nome": "MIDR — página 'Projeto de Integração do Rio São Francisco' (477 km; 390 municípios; 12 milhões de pessoas; Ramal do Apodi 115,5 km)",
+        "url": "https://www.gov.br/mdr/pt-br/assuntos/seguranca-hidrica/projeto-sao-francisco",
+        "acesso_em": "2026-10-24",
+        "tier": "oficial-federal"
+      }
+    }
+  ],
+  "fontes_primarias": [
+    {
+      "nome": "MIDR — página 'Projeto de Integração do Rio São Francisco' (477 km; 390 municípios; 12 milhões de pessoas; Ramal do Apodi 115,5 km)",
+      "url": "https://www.gov.br/mdr/pt-br/assuntos/seguranca-hidrica/projeto-sao-francisco",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    },
+    {
+      "nome": "Agência Câmara — 'Deputados, governo e TCU apontam problemas de gestão e manutenção na transposição do São Francisco' (06/06/2023)",
+      "url": "https://www.camara.leg.br/noticias/969600-deputados-governo-e-tcu-apontam-problemas-de-gestao-e-manutencao-na-transposicao-do-sao-francisco/",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    }
+  ],
+  "base_legal": [],
+  "checagens_externas": [],
+  "checagem_slug": null,
+  "historia_id": null,
+  "fontes": [
+    {
+      "nome": "MIDR — página 'Projeto de Integração do Rio São Francisco' (477 km; 390 municípios; 12 milhões de pessoas; Ramal do Apodi 115,5 km)",
+      "url": "https://www.gov.br/mdr/pt-br/assuntos/seguranca-hidrica/projeto-sao-francisco",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-federal"
+    },
+    {
+      "nome": "Agência Câmara — 'Deputados, governo e TCU apontam problemas de gestão e manutenção na transposição do São Francisco' (06/06/2023)",
+      "url": "https://www.camara.leg.br/noticias/969600-deputados-governo-e-tcu-apontam-problemas-de-gestao-e-manutencao-na-transposicao-do-sao-francisco/",
+      "acesso_em": "2026-10-24",
+      "tier": "oficial-legislativo"
+    }
+  ],
+  "nota_bruta_url": "https://github.com/matheushexsel/pentefino/blob/master/research_notes/Pente%20fino%20dados%20pol%C3%ADticos%20Brasil%202026/17_debate_globo_2026-10-23_checagem.md",
+  "atualizado_em": "2026-10-24",
+  "lacunas": [
+    "Leitura incerta da legenda automática; a checagem usou a leitura: A transposição teria quase 1.700 km de canal e 15.000 km de adutoras.",
+    "Extensão total oficial de ramais e adutoras associadas ao PISF não localizada.",
+    "Durante o período de defeso eleitoral (04/07 a 25/10/2026) várias páginas de notícias do gov.br (Casa Civil, Secom, MCom, Ministério dos Transportes, MCTI, Planalto) e o acervo da Agência BNDES estão com acesso restrito; números dessas páginas só puderam ser lidos via índice de busca e não foram reconfirmados na página.",
+    "Checagem feita apenas com fontes oficiais (governo federal, estadual, Legislativo, Judiciário, TSE, órgãos intergovernamentais e governos estrangeiros), sem imprensa nem agências de checagem, por decisão editorial desta edição."
+  ],
+  "changelog": [
+    {
+      "data": "2026-10-24",
+      "o_que_mudou": "publicação (checagem só com fontes oficiais)"
+    }
+  ],
+  "id_no_debate": "L41",
+  "leitura_checada": "A transposição teria quase 1.700 km de canal e 15.000 km de adutoras.",
+  "leitura_incerta": true
+}
